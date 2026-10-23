@@ -1,0 +1,251 @@
+import { create } from "zustand";
+import {
+  BKTHistoryEntry,
+  ChatMessage,
+  MisconceptionItem,
+  PlanetId,
+  SimulationUpdatePayload,
+  SkillMastery,
+} from "@/types/its";
+import {
+  DEFAULT_QUICK_REPLIES,
+  INITIAL_SKILLS,
+  MISCONCEPTIONS,
+  PLANETS,
+} from "@/lib/curriculum-graph";
+import { updateBKT } from "@/lib/bkt-engine";
+
+interface ITSStoreState {
+  // Fizik Simülasyonu Durumu
+  planet: PlanetId;
+  gravity: number;
+  mass: number; // kg (1 - 20)
+  simulationPulse: number; // Yay salınımını yeniden tetiklemek için sayaç
+
+  // BKT Bilişsel Öğrenci Modeli
+  skills: Record<string, SkillMastery>;
+  bktHistory: BKTHistoryEntry[];
+  isBktModalOpen: boolean;
+
+  // Kavram Yanılgısı Durumu
+  activeMisconception: MisconceptionItem | null;
+  misconceptionHistory: string[];
+
+  // Sokratik Sohbet Durumu
+  messages: ChatMessage[];
+  quickReplies: string[];
+  isTyping: boolean;
+
+  // Mobil Görünüm Sekmesi (iOS / Android Split-Pane Toggle)
+  mobileTab: "whiteboard" | "chat";
+
+  // Eylemler (Actions)
+  setPlanet: (planet: PlanetId) => void;
+  setMass: (mass: number) => void;
+  triggerPulse: () => void;
+  applySimulationUpdate: (update: SimulationUpdatePayload) => void;
+
+  applyBKTUpdate: (
+    skillId: string,
+    isCorrect: boolean,
+    reason?: string
+  ) => { previousPL: number; newPL: number };
+  resetBKT: () => void;
+  setBktModalOpen: (isOpen: boolean) => void;
+
+  setActiveMisconception: (code: string | null) => void;
+  dismissMisconception: () => void;
+
+  addMessage: (msg: ChatMessage) => void;
+  setQuickReplies: (replies: string[]) => void;
+  setIsTyping: (typing: boolean) => void;
+  setMobileTab: (tab: "whiteboard" | "chat") => void;
+}
+
+const INITIAL_WELCOME_MESSAGE: ChatMessage = {
+  id: "welcome-1",
+  role: "tutor",
+  content:
+    "Merhaba! Ben **Öz-Öğreten AI**, Sokratik fizik rehberin. Sol taraftaki laboratuvarda bir **Eşit Kollu Terazi** ve bir **Dinamometre** görüyorsun. Şu an **Dünya**'dayız ($g = 9.81\\text{ m/s}^2$) ve her iki araçta da **$5\\text{ kg}$** kütleli özdeş bloklar asılı.\n\nSence bu iki ölçüm aleti ile **Ay'a** ($g = 1.62\\text{ m/s}^2$) gidersek, eşit kollu terazinin ve dinamometrenin gösterdiği değerler nasıl değişir?",
+  timestamp: "Şimdi",
+  detectedMisconception: null,
+  simulationApplied: null,
+};
+
+export const useITSStore = create<ITSStoreState>((set, get) => ({
+  planet: "earth",
+  gravity: PLANETS.earth.gravity,
+  mass: 5,
+  simulationPulse: 0,
+
+  skills: INITIAL_SKILLS,
+  bktHistory: [
+    {
+      id: "init-bkt",
+      timestamp: "Başlangıç",
+      skillId: "F.7.3.1.1",
+      skillTitle: INITIAL_SKILLS["F.7.3.1.1"].title,
+      previousPL: 0.42,
+      newPL: 0.42,
+      isCorrect: true,
+      reason: "Ön-test başlangıç bilişsel profili yüklendi.",
+    },
+  ],
+  isBktModalOpen: false,
+
+  activeMisconception: null,
+  misconceptionHistory: [],
+
+  messages: [INITIAL_WELCOME_MESSAGE],
+  quickReplies: DEFAULT_QUICK_REPLIES,
+  isTyping: false,
+
+  mobileTab: "whiteboard",
+
+  setPlanet: (planet) => {
+    const planetInfo = PLANETS[planet] || PLANETS.earth;
+    set((state) => ({
+      planet,
+      gravity: planetInfo.gravity,
+      simulationPulse: state.simulationPulse + 1,
+    }));
+  },
+
+  setMass: (mass) => {
+    const clamped = Math.min(20, Math.max(1, Math.round(mass)));
+    set((state) => ({
+      mass: clamped,
+      simulationPulse: state.simulationPulse + 1,
+    }));
+  },
+
+  triggerPulse: () => {
+    set((state) => ({ simulationPulse: state.simulationPulse + 1 }));
+  },
+
+  applySimulationUpdate: (update) => {
+    set((state) => {
+      const nextPlanet =
+        update.planet && PLANETS[update.planet] ? update.planet : state.planet;
+      const nextGravity = PLANETS[nextPlanet].gravity;
+      const nextMass =
+        typeof update.mass === "number"
+          ? Math.min(20, Math.max(1, Math.round(update.mass)))
+          : state.mass;
+
+      return {
+        planet: nextPlanet,
+        gravity: nextGravity,
+        mass: nextMass,
+        simulationPulse: state.simulationPulse + 1,
+      };
+    });
+  },
+
+  applyBKTUpdate: (skillId, isCorrect, reason) => {
+    const currentSkills = get().skills;
+    const targetId = currentSkills[skillId] ? skillId : "F.7.3.1.1";
+    const skill = currentSkills[targetId];
+    const previousPL = skill.params.pL;
+    const newPL = updateBKT(skill.params, isCorrect);
+    const now = new Date().toLocaleTimeString("tr-TR", {
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+    });
+
+    const updatedSkill: SkillMastery = {
+      ...skill,
+      params: {
+        ...skill.params,
+        pL: newPL,
+      },
+      attempts: skill.attempts + 1,
+      lastUpdated: now,
+    };
+
+    const historyEntry: BKTHistoryEntry = {
+      id: `bkt-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`,
+      timestamp: now,
+      skillId: targetId,
+      skillTitle: skill.title,
+      previousPL,
+      newPL,
+      isCorrect,
+      reason:
+        reason ||
+        (isCorrect
+          ? "Kavramsal çıkarım doğrulandı."
+          : "Kavram yanılgısı veya hatalı çıkarım gözlemlendi."),
+    };
+
+    set((state) => ({
+      skills: {
+        ...state.skills,
+        [targetId]: updatedSkill,
+      },
+      bktHistory: [historyEntry, ...state.bktHistory].slice(0, 25),
+    }));
+
+    return { previousPL, newPL };
+  },
+
+  resetBKT: () => {
+    set({
+      skills: INITIAL_SKILLS,
+      bktHistory: [
+        {
+          id: `reset-${Date.now()}`,
+          timestamp: new Date().toLocaleTimeString("tr-TR", {
+            hour: "2-digit",
+            minute: "2-digit",
+          }),
+          skillId: "F.7.3.1.1",
+          skillTitle: "Tüm Kazanımlar Sıfırlandı",
+          previousPL: 0.35,
+          newPL: 0.35,
+          isCorrect: true,
+          reason: "Öğrenci modeli başlangıç parametrelerine sıfırlandı.",
+        },
+      ],
+    });
+  },
+
+  setBktModalOpen: (isOpen) => set({ isBktModalOpen: isOpen }),
+
+  setActiveMisconception: (code) => {
+    if (!code) {
+      set({ activeMisconception: null });
+      return;
+    }
+    const normalized = code.toUpperCase().trim();
+    const item =
+      MISCONCEPTIONS[normalized] ||
+      Object.values(MISCONCEPTIONS).find(
+        (m) =>
+          normalized.includes(m.code) ||
+          normalized.toLowerCase().includes(m.title.toLowerCase())
+      ) ||
+      null;
+
+    if (item) {
+      set((state) => ({
+        activeMisconception: item,
+        misconceptionHistory: state.misconceptionHistory.includes(item.code)
+          ? state.misconceptionHistory
+          : [...state.misconceptionHistory, item.code],
+      }));
+    }
+  },
+
+  dismissMisconception: () => set({ activeMisconception: null }),
+
+  addMessage: (msg) =>
+    set((state) => ({ messages: [...state.messages, msg] })),
+
+  setQuickReplies: (replies) => set({ quickReplies: replies }),
+
+  setIsTyping: (isTyping) => set({ isTyping }),
+
+  setMobileTab: (mobileTab) => set({ mobileTab }),
+}));

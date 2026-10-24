@@ -4,6 +4,7 @@ import React from "react";
 import { useITSStore } from "@/store/useITSStore";
 import { PhysicsCanvas } from "@/components/Whiteboard/PhysicsCanvas";
 import { FormulaBoard } from "@/components/Whiteboard/FormulaBoard";
+import { TymmUnitBoard } from "@/components/Whiteboard/TymmUnitBoard";
 import { ChatStream } from "@/components/TutorChat/ChatStream";
 import { BktModal } from "@/components/StudentModel/BktModal";
 import { TymmSelectorModal } from "@/components/Curriculum/TymmSelectorModal";
@@ -13,6 +14,7 @@ import {
   BookOpen,
   BrainCircuit,
   FlaskConical,
+  LayoutDashboard,
   MessageSquareText,
   AlertTriangle,
 } from "lucide-react";
@@ -21,6 +23,9 @@ export default function ITSHomePage() {
   const {
     skills,
     activeUnit,
+    whiteboardMode,
+    setWhiteboardMode,
+    setPendingPrompt,
     mobileTab,
     setMobileTab,
     setBktModalOpen,
@@ -53,18 +58,19 @@ export default function ITSHomePage() {
               <button
                 type="button"
                 onClick={() => setTymmModalOpen(true)}
-                className="hidden md:inline-flex items-center gap-1.5 text-[11px] font-semibold px-2.5 py-0.5 rounded-md bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/30 transition truncate max-w-[360px]"
+                className="hidden md:inline-flex items-center gap-1.5 text-[11px] font-semibold px-2.5 py-0.5 rounded-md bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/30 transition truncate max-w-[420px]"
                 title="Türkiye Yüzyılı Maarif Modeli (TYMM) Müfredat ve Ünite Seçiciyi Aç"
               >
                 <BookOpen className="w-3.5 h-3.5 shrink-0" />
                 <span className="truncate">
-                  TYMM: {activeUnit.gradeName} • {activeUnit.title}
+                  {activeUnit.gradeName} • {activeUnit.subject} —{" "}
+                  {activeUnit.title}
                 </span>
               </button>
             </div>
             <p className="text-[11px] text-slate-400 hidden sm:block truncate">
               Türkiye Yüzyılı Maarif Modeli (TYMM) • Sokratik Öğretmen &
-              Etkileşimli Laboratuvar
+              Etkileşimli Değerlendirme Sistemi
             </p>
           </div>
         </div>
@@ -75,10 +81,10 @@ export default function ITSHomePage() {
             type="button"
             onClick={() => setTymmModalOpen(true)}
             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 border border-emerald-500/40 text-emerald-300 text-xs font-semibold transition"
-            title="2.321 TYMM Ünitesi ve 1.208 Beceri Kodu Arasından Seçim Yap"
+            title="1-12. Sınıf Tüm Dersler ve 2.321 TYMM Ünitesi Arasından Seçim Yap"
           >
             <BookOpen className="w-4 h-4" />
-            <span className="hidden sm:inline">TYMM Müfredat</span>
+            <span className="hidden sm:inline">Sınıf & Ders Seç (TYMM)</span>
           </button>
 
           {activeMisconception && (
@@ -125,17 +131,64 @@ export default function ITSHomePage() {
 
       {/* Ana Split-Pane Çalışma Alanı (Masaüstünde Yan Yana, Mobilde Sekmeli) */}
       <main className="flex-1 min-h-0 p-2.5 sm:p-4 grid grid-cols-1 lg:grid-cols-12 gap-3.5 overflow-hidden">
-        {/* SOL PANEL: Etkileşimli Fizik Tahtası + KaTeX Formül Panosu */}
+        {/* SOL PANEL: Akıllı Ünite Tahtası VEYA Etkileşimli Fizik Laboratuvarı */}
         <section
-          aria-label="Etkileşimli Fizik Tahtası"
-          className={`lg:col-span-7 flex flex-col gap-3 min-h-0 h-full overflow-y-auto lg:overflow-visible pr-0.5 ${
+          aria-label="Etkileşimli Çalışma Tahtası"
+          className={`lg:col-span-7 flex flex-col gap-2.5 min-h-0 h-full overflow-y-auto lg:overflow-hidden pr-0.5 ${
             mobileTab === "whiteboard" ? "flex" : "hidden lg:flex"
           }`}
         >
-          <div className="flex-1 min-h-[380px] flex flex-col">
-            <PhysicsCanvas />
+          {/* Tahta Görünüm Modu Seçici */}
+          <div className="flex items-center justify-between gap-2 bg-slate-900/90 border border-slate-800 rounded-xl px-3 py-1.5 shrink-0">
+            <div className="flex items-center gap-1.5">
+              <button
+                type="button"
+                onClick={() => setWhiteboardMode("unit-board")}
+                className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition flex items-center gap-1.5 ${
+                  whiteboardMode === "unit-board"
+                    ? "bg-indigo-600 text-white shadow-sm"
+                    : "text-slate-400 hover:text-white hover:bg-slate-800"
+                }`}
+              >
+                <LayoutDashboard className="w-3.5 h-3.5" />
+                <span>
+                  TYMM Ünite & Sınav Tahtası ({activeUnit.gradeName})
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setWhiteboardMode("physics-sim")}
+                className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition flex items-center gap-1.5 ${
+                  whiteboardMode === "physics-sim"
+                    ? "bg-indigo-600 text-white shadow-sm"
+                    : "text-slate-400 hover:text-white hover:bg-slate-800"
+                }`}
+              >
+                <FlaskConical className="w-3.5 h-3.5" />
+                <span>Fizik Laboratuvarı (Terazi & Dinamometre)</span>
+              </button>
+            </div>
+
+            <span className="hidden xl:inline text-[11px] text-slate-400 truncate max-w-[220px]">
+              {activeUnit.subject}
+            </span>
           </div>
-          <FormulaBoard />
+
+          {whiteboardMode === "physics-sim" ? (
+            <>
+              <div className="flex-1 min-h-[340px] flex flex-col">
+                <PhysicsCanvas />
+              </div>
+              <FormulaBoard />
+            </>
+          ) : (
+            <div className="flex-1 min-h-0 overflow-hidden">
+              <TymmUnitBoard
+                onAskTutor={(promptText) => setPendingPrompt(promptText)}
+              />
+            </div>
+          )}
         </section>
 
         {/* SAĞ PANEL: Sokratik Öğretmen Sohbet Akışı */}

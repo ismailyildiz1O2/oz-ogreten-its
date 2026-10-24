@@ -70,6 +70,8 @@ export const ChatStream: React.FC = () => {
     mass,
     skills,
     activeUnit,
+    pendingPrompt,
+    setPendingPrompt,
     addMessage,
     setQuickReplies,
     setIsTyping,
@@ -86,6 +88,15 @@ export const ChatStream: React.FC = () => {
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, isTyping]);
+
+  useEffect(() => {
+    if (pendingPrompt && !isTyping) {
+      const promptToRun = pendingPrompt;
+      setPendingPrompt(null);
+      sendStudentMessage(promptToRun);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pendingPrompt, isTyping]);
 
   const sendStudentMessage = async (textToSend: string) => {
     const trimmed = textToSend.trim();

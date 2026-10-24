@@ -11,27 +11,177 @@ import {
   PLANETS,
 } from "@/lib/curriculum-graph";
 
-const SYSTEM_PROMPT = `Sen MEB Türkiye Yüzyılı Maarif Modeli (TYMM) müfredatına hakim Sokratik bir öğretmensin. Öğrenciye doğrudan cevabı asla verme. Kütle ve ağırlık kavram yanılgılarını tespit et, JSON formatında { reply, detectedMisconception, updateSimulation: { planet, mass }, bktUpdate, quickReplies } döndür.
+const SYSTEM_PROMPT = `Sen MEB Türkiye Yüzyılı Maarif Modeli (TYMM) müfredatına hakim "Proaktif Sınav" Sokratik öğretmenisin. Öğrenciye doğrudan cevabı asla verme. JSON formatında { reply, detectedMisconception, updateSimulation: { planet, mass }, bktUpdate, quickReplies } döndür.
 
 PEDAGOJİK KURALLAR:
-1. Aktif TYMM ünitesinin Öğrenme Çıktılarını (outcomes), Süreç Bileşenlerini (a, b, c), Anahtar Kavramlarını, Öğrenme-Öğretme Yaşantılarını ve Zenginleştirme (örn. Hazinî ve Birûnî'nin yer çekimi çalışmaları) bilgilerini rehberliğinde aktif olarak kullan.
-2. Öğrenciye doğrudan bilgi anlatımı veya hazır cevap VERME. Onu simülasyondaki Eşit Kollu Terazi ve Dinamometre göstergelerini gözlemlemeye yönlendiren Sokratik sorular sor.
-3. Öğrencinin cümlesinde aşağıdaki kavram yanılgılarından biri varsa "detectedMisconception" alanına ilgili kodu ("MY-01", "MY-02", "MY-03" veya "MY-04") yaz; yanılgı yoksa null döndür:
-   - "MY-01": Kütle ve ağırlığı aynı kavram sanma (Örn: "Ağırlığım 60 kg", "İkisi de aynı şey").
-   - "MY-02": Ay'da veya uzayda kütlenin azaldığını ya da sıfırlandığını düşünme (Örn: "Ay'da kütlem 6'da 1'ine düşer", "Uzayda kütle sıfırdır").
-   - "MY-03": Birim ve ölçü aleti karışıklığı (Örn: "Ağırlık teraziyle ölçülür", "Kütlenin birimi Newton'dur").
-   - "MY-04": Eşit kollu terazinin farklı gezegenlerde farklı kütle ölçeceğini düşünme (Örn: "Jüpiter'de terazi daha fazla kg gösterir").
-4. Öğrencinin hipotezini test etmesi için simülasyonu proaktif olarak güncelle ("updateSimulation"):
-   - "planet": "earth" | "moon" | "mars" | "jupiter" | "space"
-   - "mass": 1 ile 20 arasında tam sayı (kg)
-5. "bktUpdate" alanında öğrencinin yanıtının bilimsel doğruluğuna göre aktif ünitenin öğrenme çıktısı kodunu (Örn: "FB.5.2.2.1", "FB.5.2.1.1" vb.) kullanarak değerlendir.
-6. Matematiksel ifadelerde LaTeX formatı ($G = m \\cdot g$, $\\text{N}$, $\\text{kg}$) kullanabilirsin.`;
+1. Aktif TYMM ünitesinin Sınıfını, Dersini, Öğrenme Çıktılarını (outcomes), Süreç Bileşenlerini (a, b, c), Anahtar Kavramlarını, Öğrenme-Öğretme Yaşantılarını ve Zenginleştirme bilgilerini rehberliğinde aktif olarak kullan.
+2. Öğrenciye doğrudan bilgi anlatımı veya hazır cevap VERME. Onu düşündüren, süreç bileşenlerini adım adım keşfettiren Sokratik sınav soruları sor.
+3. Eğer aktif ünite Kuvvet/Kütle/Ağırlık ile ilgiliyse kavram yanılgılarını ("MY-01", "MY-02", "MY-03", "MY-04") tespit et ve "updateSimulation" ile tahtayı güncelle. Farklı bir ders/ünite seçiliyse (Matematik, Türkçe, Tarih, Kimya, Biyoloji vb.) o dersin kazanımlarına odaklan ve "updateSimulation" için null döndür.
+4. "bktUpdate" alanında öğrencinin yanıtının bilimsel/akademik doğruluğuna göre aktif ünitenin öğrenme çıktısı kodunu kullanarak değerlendir.
+5. Matematiksel ve bilimsel ifadelerde LaTeX formatı ($...$) kullanabilirsin.`;
+
+function buildGeneralTymmUnitResponse(body: TutorAPIRequest): TutorAPIResponse {
+  const unit = body.activeUnit || DEFAULT_TYMM_UNIT;
+  const text = (body.message || "").toLowerCase();
+  const validOutcomes = (unit.outcomes || []).filter(
+    (o) => o.code && !o.code.startsWith("KAZ.")
+  );
+  const outcomesList =
+    validOutcomes.length > 0 ? validOutcomes : unit.outcomes || [];
+  const firstOutcome = outcomesList[0] || {
+    code: `ÜNİTE-${unit.unitId}`,
+    title: unit.title,
+    processComponents: [],
+  };
+
+  const concepts = (unit.keyConcepts || "")
+    .split(/[,;]+/)
+    .map((c) => c.trim())
+    .filter(Boolean);
+
+  // 1. Zenginleştirme / Üst Düzey Soru İsteği
+  if (
+    text.includes("zenginleştirme") ||
+    text.includes("farklılaştırma") ||
+    text.includes("üst düzey")
+  ) {
+    const enrich =
+      unit.enrichment?.[0] ||
+      unit.teachingApplications?.[0] ||
+      unit.description ||
+      `${unit.title} kapsamında derinlemesine analiz.`;
+
+    return {
+      reply: `🌟 **TYMM Üst Düzey (Zenginleştirme) Sınav Senaryosu (${unit.gradeName} • ${unit.subject}):**\n\n> ${enrich}\n\nBu bağlamı dikkate aldığında, **${firstOutcome.code}** (*${firstOutcome.title}*) çıktısındaki temel ilkeyi günlük yaşamdan özgün bir örnekle nasıl kanıtlarsın?`,
+      detectedMisconception: null,
+      updateSimulation: null,
+      bktUpdate: null,
+      quickReplies: [
+        `${concepts[0] || "Temel kavram"} üzerinden bir örnek verebilirim`,
+        `${firstOutcome.code} süreç bileşenlerini adım adım inceleyelim`,
+        "Bana bir ipucu verir misin?",
+      ],
+      source: "socratic-engine",
+    };
+  }
+
+  // 2. Belirli bir öğrenme çıktısı kodu tıklandıysa / sorulduysa
+  const matchedOutcome = outcomesList.find((o) =>
+    text.includes(o.code.toLowerCase())
+  );
+  if (matchedOutcome) {
+    const pcs =
+      matchedOutcome.processComponents &&
+      matchedOutcome.processComponents.length > 0
+        ? matchedOutcome.processComponents.map((p) => `- ${p}`).join("\n")
+        : `- ${matchedOutcome.title}`;
+
+    const firstPc =
+      matchedOutcome.processComponents?.[0] || matchedOutcome.title;
+
+    return {
+      reply: `🎯 **Proaktif Sınav Odak Noktası: \`${matchedOutcome.code}\`**\n**${matchedOutcome.title}**\n\n**TYMM Süreç Bileşenlerimiz:**\n${pcs}\n\nİlk adımımız olan **"${firstPc}"** bileşeninden başlayalım: Bu durumu kendi cümlelerinle nasıl tanımlarsın ve hangi anahtar kavramlarla (${concepts
+        .slice(0, 3)
+        .join(", ")}) ilişkilendirirsin?`,
+      detectedMisconception: null,
+      updateSimulation: null,
+      bktUpdate: null,
+      quickReplies: [
+        `${concepts[0] || "Kavram"} ile doğrudan ilişkilidir çünkü...`,
+        "Günlük hayattan bir örnekle açıklayabilirim.",
+        "Bu süreç bileşeni için küçük bir ipucu ver.",
+      ],
+      source: "socratic-engine",
+    };
+  }
+
+  // 3. Öğrenci bir açıklama / çıkarım yazdıysa (BKT Değerlendirmesi)
+  const mentionedConcept = concepts.find(
+    (c) => c.length > 2 && text.includes(c.toLowerCase())
+  );
+  const isThoughtfulAnswer =
+    text.length > 18 &&
+    !text.endsWith("?") &&
+    (Boolean(mentionedConcept) ||
+      text.includes("çünkü") ||
+      text.includes("bağlı") ||
+      text.includes("ilişki") ||
+      text.includes("örnek") ||
+      text.includes("sonuç"));
+
+  if (isThoughtfulAnswer) {
+    const nextOutcome =
+      outcomesList[Math.min(1, outcomesList.length - 1)] || firstOutcome;
+    return {
+      reply: `👏 **Harika bir çıkarım!** Yanıtında **${
+        mentionedConcept || unit.title
+      }** bağlamını doğru kurguladın ve **\`${
+        firstOutcome.code
+      }\`** çıktısındaki ustalığını yükselttin.\n\nŞimdi bir sonraki süreç bileşenine geçelim (**\`${
+        nextOutcome.code
+      }\` — ${nextOutcome.title}**):\n${
+        nextOutcome.processComponents?.[0]
+          ? `*${nextOutcome.processComponents[0]}*`
+          : ""
+      }\n\nSence bu iki durum arasındaki en temel fark veya örüntü nedir?`,
+      detectedMisconception: null,
+      updateSimulation: null,
+      bktUpdate: {
+        skillId: firstOutcome.code,
+        isCorrect: true,
+        reason: `Öğrenci ${unit.title} (${firstOutcome.code}) kapsamında doğru kavramsal bağlantı kurdu.`,
+      },
+      quickReplies: [
+        ...(outcomesList
+          .slice(0, 2)
+          .map((o) => `${o.code} çıktısından yeni soru sor`)),
+        "Zenginleştirme (Farklılaştırma) sorusu sor!",
+      ],
+      source: "socratic-engine",
+    };
+  }
+
+  // 4. Varsayılan: Ünitenin ilk öğrenme çıktısı ve anahtar kavramı üzerinden Sokratik sınav sorusu
+  const targetConcept = concepts[0] || unit.title;
+  const teachingHint =
+    unit.teachingApplications?.[0]?.slice(0, 240) ||
+    unit.description ||
+    unit.title;
+
+  return {
+    reply: `📘 **${unit.gradeName} • ${unit.subject} — ${unit.title}**\n\nTYMM Öğrenme-Öğretme çerçevesine göre:\n> *${teachingHint}...*\n\n**Sokratik Sınav Sorumuz (\`${firstOutcome.code}\`):**\n**"${targetConcept}"** kavramını düşündüğünde, *${firstOutcome.title}* sürecinde gözlemlememiz gereken en önemli özellik sence nedir?`,
+    detectedMisconception: null,
+    updateSimulation: null,
+    bktUpdate: null,
+    quickReplies: [
+      `${firstOutcome.code} çıktısını adım adım inceleyelim`,
+      `"${targetConcept}" kavramının temel özelliği...`,
+      "Zenginleştirme (Farklılaştırma) sorusu sor!",
+    ],
+    source: "socratic-engine",
+  };
+}
 
 function buildFallbackSocraticResponse(body: TutorAPIRequest): TutorAPIResponse {
+  const unit = body.activeUnit || DEFAULT_TYMM_UNIT;
   const text = (body.message || "").toLowerCase();
+
+  // Eğer seçilen ünite Kütle ve Ağırlık (368) değilse ve mesaj doğrudan terazi/dinamometre/gezegen içermiyorsa,
+  // seçilen dersin/ünitenin kendi TYMM Sokratik Sınav motorunu çalıştır!
+  const isPhysicsLabQuery =
+    unit.unitId === 368 ||
+    text.includes("dinamometre") ||
+    text.includes("terazi") ||
+    text.includes("jüpiter") ||
+    text.includes("ağırlık") ||
+    text.includes("hazin");
+
+  if (!isPhysicsLabQuery) {
+    return buildGeneralTymmUnitResponse(body);
+  }
+
   const currentPlanet = body.simulationState?.planet || "earth";
   const currentMass = body.simulationState?.mass || 5;
-  const unit = body.activeUnit || DEFAULT_TYMM_UNIT;
   const skillKeys = Object.keys(body.skills || {});
   const primarySkillId =
     skillKeys.find((k) => k.includes("2.2.1")) ||
@@ -42,7 +192,7 @@ function buildFallbackSocraticResponse(body: TutorAPIRequest): TutorAPIResponse 
     skillKeys[0] ||
     "FB.5.2.1.1";
 
-  // 0. TYMM Bilim Tarihi / Zenginleştirme (Hazinî ve Birûnî) veya farklılaştırma sorusu
+  // 0. TYMM Bilim Tarihi / Zenginleştirme (Hazinî ve Birûnî)
   if (
     text.includes("hazin") ||
     text.includes("birun") ||
@@ -93,9 +243,7 @@ function buildFallbackSocraticResponse(body: TutorAPIRequest): TutorAPIResponse 
       reply:
         targetPlanet === "space"
           ? `İlginç bir hipotez! Hemen test etmek için simülasyonu **Derin Uzay** ($g = 0\\text{ m/s}^2$) ortamına aldım. Dinamometrenin ibresi $0\\text{ N}$ gösteriyor çünkü kütleçekim kuvveti yok.\n\nPeki **TYMM \`${primarySkillId}\` süreç bileşenini** düşünerek tahtadaki **$${currentMass}\\text{ kg}$'lık metal bloğa** bak: Bu bloğun içindeki atomlar ve madde miktarı uzaya çıkınca yok mu oldu? Madde miktarı yok olmadıysa **kütle** sıfırlanmış olabilir mi?`
-          : `Çok yaygın bir düşünceyi dile getirdin! Şimdi bunu **TYMM \`${primarySkillId}\`** (*Dünya ve Ay'daki kütle ile ağırlık ölçümlerini karşılaştırma*) kapsamında test edelim: Simülasyonu **Ay**'a ($g = 1.62\\text{ m/s}^2$) taşıdım.\n\nSol taraftaki **Eşit Kollu Terazi** ile sağdaki **Dinamometre**'ye dikkatlice bak (` +
-            `Veri Okuryazarlığı \`OB7\`` +
-            `). Dinamometredeki Newton değeri azaldı ama eşit kollu terazinin kefeleri hâlâ **$m = ${currentMass}\\text{ kg}$** ile dengede! Cismin içinden bir parça koparmadığımıza göre, değişen şey **kütle** mi yoksa **ağırlık** mı?`,
+          : `Çok yaygın bir düşünceyi dile getirdin! Şimdi bunu **TYMM \`${primarySkillId}\`** (*Dünya ve Ay'daki kütle ile ağırlık ölçümlerini karşılaştırma*) kapsamında test edelim: Simülasyonu **Ay**'a ($g = 1.62\\text{ m/s}^2$) taşıdım.\n\nSol taraftaki **Eşit Kollu Terazi** ile sağdaki **Dinamometre**'ye dikkatlice bak (Veri Okuryazarlığı \`OB7\`). Dinamometredeki Newton değeri azaldı ama eşit kollu terazinin kefeleri hâlâ **$m = ${currentMass}\\text{ kg}$** ile dengede! Cismin içinden bir parça koparmadığımıza göre, değişen şey **kütle** mi yoksa **ağırlık** mı?`,
       detectedMisconception: "MY-02",
       updateSimulation: {
         planet: targetPlanet,
@@ -246,31 +394,6 @@ function buildFallbackSocraticResponse(body: TutorAPIRequest): TutorAPIResponse 
     };
   }
 
-  // 6. Seçili TYMM ünitesinin özel bir öğrenme çıktısı sorulduğunda
-  const matchedOutcome = (unit.outcomes || []).find((o) =>
-    text.includes(o.code.toLowerCase())
-  );
-  if (matchedOutcome) {
-    const pcs =
-      matchedOutcome.processComponents?.join("\n- ") ||
-      "Kavramsal gözlem ve çıkarım";
-    return {
-      reply: `🎯 **TYMM Öğrenme Çıktısı Odaklı Keşif (\`${matchedOutcome.code}\`):**\n*${matchedOutcome.title}*\n\n**Süreç Bileşenlerimiz:**\n- ${pcs}\n\nŞimdi tahtadaki **Eşit Kollu Terazi** ve **Dinamometre** simülasyonunu kullanarak bu süreç bileşenini test edelim: Kütle sürgüsünü veya gezegeni değiştirdiğinde gözlemlediğin ilk örüntü nedir?`,
-      detectedMisconception: null,
-      updateSimulation: {
-        planet: "moon",
-        mass: 8,
-      },
-      bktUpdate: null,
-      quickReplies: [
-        "Dinamometre kuvveti Newton (N) birimiyle ölçüyor!",
-        "Dünya ve Ay'da kütle sabit kalırken ağırlık değişiyor.",
-        "Hazinî ve Birûnî yer çekimini nasıl açıklamıştır?",
-      ],
-      source: "socratic-engine",
-    };
-  }
-
   // Varsayılan TYMM Sokratik yönlendirme
   const targetPlanet: PlanetId = currentPlanet === "earth" ? "moon" : "earth";
   const targetInfo = PLANETS[targetPlanet];
@@ -363,7 +486,7 @@ ${conversationContext}
 ÖĞRENCİNİN YENİ MESAJI:
 "${body.message}"
 
-Lütfen TYMM Sokratik öğretmeni olarak yanıtını belirtilen JSON şemasında üret.`;
+Lütfen Proaktif Sınav Sokratik öğretmeni olarak yanıtını belirtilen JSON şemasında üret.`;
 
     const response = await ai.models.generateContent({
       model: "gemini-2.5-flash",
@@ -377,7 +500,7 @@ Lütfen TYMM Sokratik öğretmeni olarak yanıtını belirtilen JSON şemasında
             reply: {
               type: Type.STRING,
               description:
-                "Öğrenciye doğrudan cevabı vermeyen, simülasyonu ve TYMM süreç bileşenlerini gözlemlemeye yönlendiren Türkçe Sokratik öğretmen yanıtı.",
+                "Öğrenciye doğrudan cevabı vermeyen, TYMM süreç bileşenlerini gözlemlemeye yönlendiren Türkçe Sokratik öğretmen yanıtı.",
             },
             detectedMisconception: {
               type: Type.STRING,
@@ -407,7 +530,7 @@ Lütfen TYMM Sokratik öğretmeni olarak yanıtını belirtilen JSON şemasında
                 skillId: {
                   type: Type.STRING,
                   description:
-                    "Aktif TYMM öğrenme çıktısı kodu (Örn: 'FB.5.2.2.1', 'FB.5.2.1.1')",
+                    "Aktif TYMM öğrenme çıktısı kodu (Örn: 'FB.5.2.2.1', 'MAT.1.1.1' vb.)",
                 },
                 isCorrect: {
                   type: Type.BOOLEAN,
@@ -447,8 +570,8 @@ Lütfen TYMM Sokratik öğretmeni olarak yanıtını belirtilen JSON şemasında
         parsed.quickReplies && parsed.quickReplies.length > 0
           ? parsed.quickReplies
           : [
-              "Terazi ve dinamometreyi karşılaştıralım",
-              "Hazinî ve Birûnî yer çekimini nasıl açıklamıştır?",
+              "Süreç bileşenlerini adım adım inceleyelim",
+              "Zenginleştirme (Farklılaştırma) sorusu sor!",
               "Bana yeni bir soru sor!",
             ],
       source: "gemini",
@@ -463,7 +586,7 @@ Lütfen TYMM Sokratik öğretmeni olarak yanıtını belirtilen JSON şemasında
     } catch {
       return NextResponse.json({
         reply:
-          "Simülasyondaki **Eşit Kollu Terazi** ve **Dinamometre** göstergelerine tekrar bakalım: Gezegeni değiştirdiğimizde hangi ölçüm aracının değeri sabit kalıyor?",
+          "Bu ünitenin süreç bileşenlerine tekrar bakalım: Gözlemlediğin temel ilişkiyi kendi cümlelerinle paylaşır mısın?",
         detectedMisconception: null,
         updateSimulation: null,
         bktUpdate: null,

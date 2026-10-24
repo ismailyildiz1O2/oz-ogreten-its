@@ -28,6 +28,8 @@ interface ITSStoreState {
   // TYMM (Türkiye Yüzyılı Maarif Modeli) Aktif Ünite Durumu
   activeUnit: TymmUnitDetail;
   isTymmModalOpen: boolean;
+  whiteboardMode: "physics-sim" | "unit-board";
+  pendingPrompt: string | null;
 
   // BKT Bilişsel Öğrenci Modeli
   skills: Record<string, SkillMastery>;
@@ -54,6 +56,8 @@ interface ITSStoreState {
 
   setActiveUnit: (unit: TymmUnitDetail) => void;
   setTymmModalOpen: (isOpen: boolean) => void;
+  setWhiteboardMode: (mode: "physics-sim" | "unit-board") => void;
+  setPendingPrompt: (prompt: string | null) => void;
 
   applyBKTUpdate: (
     skillId: string,
@@ -90,6 +94,8 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
 
   activeUnit: DEFAULT_TYMM_UNIT,
   isTymmModalOpen: false,
+  whiteboardMode: "physics-sim",
+  pendingPrompt: null,
 
   skills: INITIAL_SKILLS,
   bktHistory: [
@@ -197,6 +203,7 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
       activeUnit: unit,
       skills: newSkills,
       isTymmModalOpen: false,
+      whiteboardMode: unit.unitId === 368 ? "physics-sim" : "unit-board",
       quickReplies: customReplies,
       messages: [...state.messages, unitAnnouncement],
       bktHistory: [
@@ -216,6 +223,8 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   },
 
   setTymmModalOpen: (isOpen) => set({ isTymmModalOpen: isOpen }),
+  setWhiteboardMode: (whiteboardMode) => set({ whiteboardMode }),
+  setPendingPrompt: (pendingPrompt) => set({ pendingPrompt }),
 
   applyBKTUpdate: (skillId, isCorrect, reason) => {
     const currentSkills = get().skills;

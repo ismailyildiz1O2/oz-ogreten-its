@@ -89,26 +89,51 @@ function buildSmartFallbackResponse(body: TutorAPIRequest): TutorAPIResponse {
       "Diğer seçenekler konunun yalnızca tek bir boyutunu ele almakta veya genelleme hatası (kavram yanılgısı) içermektedir.";
     let examTipText = `"${unit.keyConcepts || targetOutcome.title}" kavramlarının birlikte değişimini ve süreç bileşenlerini arayın; "her zaman aynı kalır / hiçbir zaman değişmez" gibi kesinlik bildiren çeldiricileri eleyin.`;
 
-    // 1. İnkılap Tarihi: Mustafa Kemal Paşa (Trablusgarp, Derne, Tobruk, Balkan Savaşları, Kişilik Özellikleri) sorusu tespiti
+    // 1. İnkılap Tarihi: Mustafa Kemal Paşa (Trablusgarp, Derne, Tobruk, Gazeteci Şerif, Kişilik Özellikleri) sorusu tespiti
     if (
       lowerQ.includes("trablusgarp") ||
       lowerQ.includes("derne") ||
       lowerQ.includes("tobruk") ||
-      lowerQ.includes("ileri görüş") ||
+      lowerQ.includes("gazeteci şerif") ||
+      lowerQ.includes("örgütledi") ||
       (lowerQ.includes("mustafa kemal") && lowerQ.includes("kişilik"))
     ) {
-      correctLetter = "A";
-      correctExplanation =
-        "A Şıkkı: I ve II (İleri görüşlülüğü + Vatanseverliği / Teşkilatçılığı)";
-      steps = [
-        "1. Adım (I. Öncül Analizi - İleri Görüşlülük): Metinde 'Balkan Savaşları öncesinde ordunun siyasete karışmasının tehlikelerine dikkat çekmiş ve savaş sırasında yaşanan olumsuzluklar onun haklılığını ortaya çıkarmıştır' ifadesi, gerçekleşmeden önce bir durumu öngördüğünü yani İLERİ GÖRÜŞLÜLÜĞÜNÜ (I) kanıtlar.",
-        "2. Adım (II. Öncül Analizi - Vatanseverlik ve Teşkilatçılık): 'Trablusgarp'ta yerli halkı İtalyanlara karşı teşkilatlandırarak Derne ve Tobruk'ta önemli başarılar kazanması' onun VATANSEVERLİĞİ ve TEŞKİLATÇILIĞI (II) ile doğrudan ilgilidir.",
-        "3. Adım (III. Öncülün Elenmesi - İnkılapçılık): Metinde eski kurumların kaldırılıp yerine çağdaş yenilikler yapılmasına (İnkılapçılık - III) dair bir bilgi yer almamaktadır. Dolayısıyla doğru cevap I ve II (A Şıkkı) olur.",
-      ];
-      distractorText =
-        "D şıkkı (I, II ve III) en güçlü çeldiricidir: Öğrenciler Mustafa Kemal Paşa'nın genel bir özelliği olduğu için 'İnkılapçılık' öncülünü de doğru kabul etme yanılgısına düşerler; oysa paragraf sorularında YALNIZCA metinde verilen olaylardan çıkarım yapılmalıdır!";
-      examTipText =
-        "Mustafa Kemal'in kişilik özellikleri sorularında anahtar eşleştirmeler: 'Halkı bir araya getirme/örgütleme' = Teşkilatçılık, 'Tahmininin doğru çıkması' = İleri görüşlülük, 'Sömürgeciliğe karşı gönüllü savaşma' = Vatanseverlik.";
+      // Şıklarda "vatanseverliği ve teşkilatçılığı" (B şıkkı) varsa doğrudan o şıkkı bul!
+      const vatanOpt = options.find(
+        (o) =>
+          o.text.toLowerCase().includes("vatansever") &&
+          (o.text.toLowerCase().includes("teşkilat") ||
+            o.text.toLowerCase().includes("örgüt"))
+      );
+
+      if (vatanOpt || lowerQ.includes("gazeteci şerif") || lowerQ.includes("örgütledi")) {
+        correctLetter = vatanOpt ? vatanOpt.letter : "B";
+        correctExplanation = vatanOpt
+          ? `${vatanOpt.letter} Şıkkı: ${vatanOpt.text}`
+          : "B Şıkkı: Vatanseverliği ve teşkilatçılığı (örgütleyiciliği)";
+        steps = [
+          "1. Adım (Kanıt 1 — Vatanseverlik): Osmanlı Hükûmeti ordu gönderememesine rağmen Mustafa Kemal'in 'gizlice ve Gazeteci Şerif takma adıyla gönüllü olarak Trablusgarp'a gitmesi', vatan toprağını savunma bilincini yani VATANSEVERLİĞİNİ kanıtlar.",
+          "2. Adım (Kanıt 2 — Teşkilatçılık / Örgütleyicilik): Bölgeye gittikten sonra 'yerli halkı İtalyanlara karşı birleştirip örgütlemesi ve Derne, Tobruk, Bingazi'de direnişe geçirmesi' doğrudan TEŞKİLATÇILIK (ÖRGÜTLEYİCİLİK) özelliğidir.",
+          `3. Adım (Sonuç): Her iki özelliği bir arada barındıran ${correctLetter} seçeneği ("Vatanseverliği ve teşkilatçılığı") doğru cevaptır.`,
+        ];
+        distractorText =
+          "A şıkkındaki 'İnkılapçılık' (yenilikçilik) ve C şıkkındaki 'İleri görüşlülük' (geleceği tahmin etme) Mustafa Kemal'in gerçek özellikleri olsa da bu metinde anlatılan Trablusgarp olayında vurgulanmamıştır.";
+        examTipText =
+          "İnkılap Tarihi Şifreleri: Soruda 'Gönüllü/gizlice cepheye gitme' varsa → VATANSEVERLİK; 'Yerli halkı bir araya getirme / örgütleme' varsa → TEŞKİLATÇILIK işaretlenir!";
+      } else {
+        correctLetter = "A";
+        correctExplanation =
+          "A Şıkkı: I ve II (İleri görüşlülüğü + Vatanseverliği / Teşkilatçılığı)";
+        steps = [
+          "1. Adım (I. Öncül - İleri Görüşlülük): Balkan Savaşları öncesinde ordunun siyasete karışmasının tehlikelerini önceden öngörmesi ve haklı çıkması İLERİ GÖRÜŞLÜLÜĞÜNÜ (I) gösterir.",
+          "2. Adım (II. Öncül - Vatanseverlik ve Teşkilatçılık): Trablusgarp'ta yerli halkı İtalyanlara karşı örgütlemesi VATANSEVERLİĞİ ve TEŞKİLATÇILIĞI (II) ile ilgilidir.",
+          "3. Adım (III. Öncülün Elenmesi): Metinde inkılap/yenilik (III) yer almadığı için cevap I ve II (A Şıkkı) olur.",
+        ];
+        distractorText =
+          "D şıkkı (I, II ve III) çeldiricidir; metinde geçmeyen 'İnkılapçılık' öncülü elenmelidir.";
+        examTipText =
+          "Anahtar eşleştirmeler: 'Halkı bir araya getirme/örgütleme' = Teşkilatçılık, 'Tahmininin doğru çıkması' = İleri görüşlülük.";
+      }
     }
     // 2. Kütle ve Ağırlık (Dünya vs Ay) klasik sorusu tespiti
     else if (
@@ -298,13 +323,14 @@ function buildSmartFallbackResponse(body: TutorAPIRequest): TutorAPIResponse {
     lowerQ.includes("trablusgarp") ||
     lowerQ.includes("derne") ||
     lowerQ.includes("tobruk") ||
-    lowerQ.includes("ileri görüş") ||
+    lowerQ.includes("gazeteci şerif") ||
+    lowerQ.includes("örgütledi") ||
     (lowerQ.includes("mustafa kemal") && lowerQ.includes("kişilik"))
   ) {
     proactiveHint =
-      "Metinde iki kritik olay var:\n1) **Trablusgarp'ta halkı İtalyanlara karşı örgütlemesi (teşkilatlandırması)** ve vatan toprağını savunması,\n2) **Balkan Savaşları öncesinde yaptığı uyarının savaş sırasında haklı çıkması**.";
+      "Metindeki iki anahtar ifadeye dikkat et:\n1) Ordu gönderilememesine rağmen **gizlice ve gönüllü olarak (Gazeteci Şerif adıyla) vatan toprağını savunmaya gitmesi**,\n2) Derne, Tobruk ve Bingazi'de **yerli halkı İtalyanlara karşı birleştirip örgütlemesi**.";
     guidingQuestion =
-      "Bir liderin gelecekte yaşanacak bir tehlikeyi önceden sezmesi (**I. İleri görüşlülük**) ve halkı vatan savunması için bir araya getirmesi (**II. Vatanseverlik/Teşkilatçılık**) metinde açıkça var. Peki metinde yeni bir inkılap/yenilik yapıldığına (**III. İnkılapçılık**) değinilmiş mi? Buna göre hangi şıkka ulaşırsın?";
+      "Vatan toprağını tehlikeye rağmen gönüllü savunmak hangi kişilik özelliğidir? Ve dağınık haldeki halkı bir araya getirip **örgütlemek** hangi kavramla eşleşir? Şıklara baktığında bu iki özelliği birlikte veren şık hangisi?";
   } else if (lowerQ.includes("kütle") && lowerQ.includes("ağırlık")) {
     proactiveHint =
       "Soruda cismin **Dünya'dan Ay'a** götürüldüğü söyleniyor. Hatırlayalım: Bir cismin yeri değiştiğinde içindeki **madde miktarı (kütle)** değişir mi, yoksa sadece **yerçekimi kuvveti (ağırlık)** mı değişir?";

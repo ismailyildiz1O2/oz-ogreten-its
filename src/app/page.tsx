@@ -4,8 +4,8 @@ import React from "react";
 import { useITSStore } from "@/store/useITSStore";
 import { PhysicsCanvas } from "@/components/Whiteboard/PhysicsCanvas";
 import { FormulaBoard } from "@/components/Whiteboard/FormulaBoard";
-import { MainSolverWorkspace } from "@/components/Whiteboard/MainSolverWorkspace";
-import { RightCurriculumSidebar } from "@/components/Curriculum/RightCurriculumSidebar";
+import { VisualSolutionBoard } from "@/components/Whiteboard/VisualSolutionBoard";
+import { LeftQuestionAndChatPanel } from "@/components/TutorChat/LeftQuestionAndChatPanel";
 import { BktModal } from "@/components/StudentModel/BktModal";
 import { TymmSelectorModal } from "@/components/Curriculum/TymmSelectorModal";
 import { getMasteryStatus } from "@/lib/bkt-engine";
@@ -13,9 +13,11 @@ import {
   Atom,
   BookOpen,
   BrainCircuit,
-  FileQuestion,
   FlaskConical,
   AlertTriangle,
+  Sparkles,
+  ArrowLeftRight,
+  MessageSquare,
 } from "lucide-react";
 
 export default function ITSHomePage() {
@@ -30,6 +32,8 @@ export default function ITSHomePage() {
     setBktModalOpen,
     setTymmModalOpen,
     activeMisconception,
+    isLayoutReversed,
+    toggleLayoutReversed,
   } = useITSStore();
 
   const skillList = Object.values(skills);
@@ -53,7 +57,7 @@ export default function ITSHomePage() {
               <h1 className="text-sm sm:text-base font-bold tracking-tight text-white shrink-0">
                 Proaktif Sınav
               </h1>
-              <span className="hidden md:inline-flex items-center gap-1.5 text-[11px] font-semibold px-2.5 py-0.5 rounded-md bg-indigo-500/15 text-indigo-300 border border-indigo-500/30 truncate max-w-[440px]">
+              <span className="hidden md:inline-flex items-center gap-1.5 text-[11px] font-semibold px-2.5 py-0.5 rounded-md bg-indigo-500/15 text-indigo-300 border border-indigo-500/30 truncate max-w-[420px]">
                 <BookOpen className="w-3.5 h-3.5 shrink-0" />
                 <span className="truncate">
                   {activeUnit.gradeName} • {activeUnit.subject} •{" "}
@@ -62,13 +66,13 @@ export default function ITSHomePage() {
               </span>
             </div>
             <p className="text-[11px] text-slate-400 hidden sm:block truncate">
-              Çözemediğin Sınav Sorularını Proaktif (Sokratik) veya ⚡ Hızlı Çöz
-              (Reaktif) Moduyla Çöz
+              Sol Panel: Ders Seçimi (Otomatik Kapanır), Soru Ekleme & Chatbox •
+              Sağ Ekran: Tamamen Görsel Çözüm & Animasyon Tahtası
             </p>
           </div>
         </div>
 
-        {/* Sağ Üst: Tam Ekran Katalog ve BKT Ustalık Göstergesi */}
+        {/* Sağ Üst: Ekran Yönü Değiştirici, Tam Ekran Katalog ve BKT Ustalık Göstergesi */}
         <div className="flex items-center gap-2 shrink-0">
           {activeMisconception && (
             <span className="hidden xl:inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-amber-500/15 border border-amber-500/40 text-amber-300 text-xs font-medium animate-pulse">
@@ -76,6 +80,16 @@ export default function ITSHomePage() {
               <span>Yanılgı: {activeMisconception.code}</span>
             </span>
           )}
+
+          <button
+            type="button"
+            onClick={toggleLayoutReversed}
+            className="hidden lg:inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-slate-800/90 hover:bg-slate-700/90 border border-slate-700 text-slate-200 text-xs font-medium transition"
+            title="Sol ve Sağ Ekranların Yerini Değiştir"
+          >
+            <ArrowLeftRight className="w-3.5 h-3.5 text-indigo-400" />
+            <span>Sol ⇄ Sağ Yer Değiştir</span>
+          </button>
 
           <button
             type="button"
@@ -118,16 +132,26 @@ export default function ITSHomePage() {
         </div>
       </header>
 
-      {/* Ana Split-Pane Çalışma Alanı: SOL BÜYÜK EKRAN (Soru Sor & Çöz) + SAĞ PANEL (Sınıf, Ders, Kazanım Seçici) */}
+      {/* Ana Split-Pane Çalışma Alanı */}
       <main className="flex-1 min-h-0 p-2.5 sm:p-4 grid grid-cols-1 lg:grid-cols-12 gap-3.5 overflow-hidden">
-        {/* SOL BÜYÜK EKRAN (8 Sütun): SORU SORMA VE PROAKTİF / REAKTİF ÇÖZÜM ALANI */}
+        {/* KONTROL PANELİ (4 Sütun): Ders Seçici (Seçildikten Sonra Kapanır) + Soru Ekleme + Chatbox */}
         <section
-          aria-label="Ana Soru Sorma ve Çözüm Ekranı"
-          className={`lg:col-span-8 flex flex-col gap-2.5 min-h-0 h-full overflow-hidden ${
-            mobileTab === "whiteboard" ? "flex" : "hidden lg:flex"
-          }`}
+          aria-label="Ders Seçimi, Soru Ekleme ve Sokratik Chatbox"
+          className={`lg:col-span-4 flex flex-col min-h-0 h-full overflow-hidden ${
+            isLayoutReversed ? "lg:order-2" : "lg:order-1"
+          } ${mobileTab === "chat" ? "flex" : "hidden lg:flex"}`}
         >
-          {/* Sol Üst Görünüm Seçici */}
+          <LeftQuestionAndChatPanel />
+        </section>
+
+        {/* BÜYÜK ÇÖZÜM VE ANİMASYON TAHTASI (8 Sütun): Tamamen Çözüme & Görsel Animasyona Ayrılmış Alan */}
+        <section
+          aria-label="Görsel Çözüm ve Animasyon Tahtası"
+          className={`lg:col-span-8 flex flex-col gap-2.5 min-h-0 h-full overflow-hidden ${
+            isLayoutReversed ? "lg:order-1" : "lg:order-2"
+          } ${mobileTab === "whiteboard" ? "flex" : "hidden lg:flex"}`}
+        >
+          {/* Üst Mod Seçici: Görsel Çözüm & Animasyon Tahtası vs Fizik Simülasyonu */}
           <div className="flex items-center justify-between gap-2 bg-slate-900/90 border border-slate-800 rounded-xl px-3 py-1.5 shrink-0">
             <div className="flex items-center gap-1.5">
               <button
@@ -139,9 +163,9 @@ export default function ITSHomePage() {
                     : "text-slate-400 hover:text-white hover:bg-slate-800"
                 }`}
               >
-                <FileQuestion className="w-3.5 h-3.5" />
+                <Sparkles className="w-3.5 h-3.5" />
                 <span>
-                  Soru Sor & Çözüm Ekranı (Proaktif & ⚡ Hızlı Çöz)
+                  Görsel Çözüm & Animasyon Tahtası (Şık Eleme & Adım Adım Çözüm)
                 </span>
               </button>
 
@@ -155,7 +179,7 @@ export default function ITSHomePage() {
                 }`}
               >
                 <FlaskConical className="w-3.5 h-3.5" />
-                <span>Fizik Laboratuvarı (Terazi & Dinamometre)</span>
+                <span>Fizik Simülasyon Laboratuvarı</span>
               </button>
             </div>
 
@@ -173,19 +197,9 @@ export default function ITSHomePage() {
             </div>
           ) : (
             <div className="flex-1 min-h-0 overflow-hidden">
-              <MainSolverWorkspace />
+              <VisualSolutionBoard />
             </div>
           )}
-        </section>
-
-        {/* SAĞ PANEL (4 Sütun): SINIF, DERS, ÜNİTE VE KAZANIM SEÇİCİ */}
-        <section
-          aria-label="Sınıf, Ders ve Kazanım Seçici Panel"
-          className={`lg:col-span-4 flex flex-col min-h-0 h-full overflow-hidden ${
-            mobileTab === "chat" ? "flex" : "hidden lg:flex"
-          }`}
-        >
-          <RightCurriculumSidebar />
         </section>
       </main>
 
@@ -196,28 +210,28 @@ export default function ITSHomePage() {
       >
         <button
           type="button"
-          onClick={() => setMobileTab("whiteboard")}
-          className={`py-2.5 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-2 transition border ${
-            mobileTab === "whiteboard"
-              ? "bg-indigo-600 text-white border-indigo-400 shadow-lg shadow-indigo-600/25"
-              : "bg-slate-800/80 text-slate-300 border-slate-700/70"
-          }`}
-        >
-          <FileQuestion className="w-4 h-4" />
-          <span>Soru Sor & Çözüm Ekranı</span>
-        </button>
-
-        <button
-          type="button"
           onClick={() => setMobileTab("chat")}
-          className={`py-2.5 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-2 transition border relative ${
+          className={`py-2.5 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-2 transition border ${
             mobileTab === "chat"
               ? "bg-indigo-600 text-white border-indigo-400 shadow-lg shadow-indigo-600/25"
               : "bg-slate-800/80 text-slate-300 border-slate-700/70"
           }`}
         >
-          <BookOpen className="w-4 h-4" />
-          <span>Ders & Kazanım Seç ({selectedOutcomeCode})</span>
+          <MessageSquare className="w-4 h-4" />
+          <span>Soru Ekle & Chatbox</span>
+        </button>
+
+        <button
+          type="button"
+          onClick={() => setMobileTab("whiteboard")}
+          className={`py-2.5 px-3 rounded-xl text-xs font-semibold flex items-center justify-center gap-2 transition border relative ${
+            mobileTab === "whiteboard"
+              ? "bg-indigo-600 text-white border-indigo-400 shadow-lg shadow-indigo-600/25"
+              : "bg-slate-800/80 text-slate-300 border-slate-700/70"
+          }`}
+        >
+          <Sparkles className="w-4 h-4" />
+          <span>Görsel Çözüm & Animasyon</span>
         </button>
       </nav>
 

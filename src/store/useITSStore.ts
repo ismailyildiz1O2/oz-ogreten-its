@@ -41,6 +41,8 @@ interface ITSStoreState {
   lastReactiveSolution: ReactiveSolutionCard | null;
 
   isTymmModalOpen: boolean;
+  isCurriculumCollapsed: boolean;
+  isLayoutReversed: boolean;
   whiteboardMode: "unit-board" | "physics-sim";
   pendingAction: PendingTutorAction | null;
 
@@ -74,6 +76,8 @@ interface ITSStoreState {
   setLastReactiveSolution: (sol: ReactiveSolutionCard | null) => void;
 
   setTymmModalOpen: (isOpen: boolean) => void;
+  setCurriculumCollapsed: (collapsed: boolean) => void;
+  toggleLayoutReversed: () => void;
   setWhiteboardMode: (mode: "unit-board" | "physics-sim") => void;
   triggerTutorAction: (action: PendingTutorAction | null) => void;
 
@@ -117,6 +121,8 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   lastReactiveSolution: null,
 
   isTymmModalOpen: false,
+  isCurriculumCollapsed: false,
+  isLayoutReversed: false,
   whiteboardMode: "unit-board",
   pendingAction: null,
 
@@ -243,12 +249,17 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
     }));
   },
 
-  setSelectedOutcomeCode: (code) => set({ selectedOutcomeCode: code }),
+  setSelectedOutcomeCode: (code) =>
+    set({ selectedOutcomeCode: code, isCurriculumCollapsed: true }),
   setCurrentQuestionText: (text) => set({ currentQuestionText: text }),
   setCurrentQuestionImage: (dataUrl) => set({ currentQuestionImage: dataUrl }),
   setLastReactiveSolution: (sol) => set({ lastReactiveSolution: sol }),
 
   setTymmModalOpen: (isOpen) => set({ isTymmModalOpen: isOpen }),
+  setCurriculumCollapsed: (isCurriculumCollapsed) =>
+    set({ isCurriculumCollapsed }),
+  toggleLayoutReversed: () =>
+    set((state) => ({ isLayoutReversed: !state.isLayoutReversed })),
   setWhiteboardMode: (whiteboardMode) => set({ whiteboardMode }),
   triggerTutorAction: (pendingAction) => set({ pendingAction }),
 

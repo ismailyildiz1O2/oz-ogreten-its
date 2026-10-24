@@ -25,7 +25,6 @@ export default function ITSHomePage() {
     activeUnit,
     whiteboardMode,
     setWhiteboardMode,
-    setPendingPrompt,
     mobileTab,
     setMobileTab,
     setBktModalOpen,
@@ -152,7 +151,7 @@ export default function ITSHomePage() {
               >
                 <LayoutDashboard className="w-3.5 h-3.5" />
                 <span>
-                  TYMM Ünite & Sınav Tahtası ({activeUnit.gradeName})
+                  Soru Çözüm Masası (Proaktif & ⚡ Hızlı Çöz)
                 </span>
               </button>
 
@@ -184,9 +183,7 @@ export default function ITSHomePage() {
             </>
           ) : (
             <div className="flex-1 min-h-0 overflow-hidden">
-              <TymmUnitBoard
-                onAskTutor={(promptText) => setPendingPrompt(promptText)}
-              />
+              <TymmUnitBoard />
             </div>
           )}
         </section>

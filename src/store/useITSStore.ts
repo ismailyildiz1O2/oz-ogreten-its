@@ -4,8 +4,10 @@ import {
   ChatMessage,
   MisconceptionItem,
   PlanetId,
+  ReactiveSolutionCard,
   SimulationUpdatePayload,
   SkillMastery,
+  SolutionMode,
   TymmUnitDetail,
 } from "@/types/its";
 import {
@@ -18,18 +20,29 @@ import {
 } from "@/lib/curriculum-graph";
 import { updateBKT } from "@/lib/bkt-engine";
 
+export interface PendingTutorAction {
+  message: string;
+  mode: SolutionMode;
+  imageDataUrl?: string | null;
+}
+
 interface ITSStoreState {
   // Fizik Simülasyonu Durumu
   planet: PlanetId;
   gravity: number;
-  mass: number; // kg (1 - 20)
+  mass: number;
   simulationPulse: number;
 
-  // TYMM (Türkiye Yüzyılı Maarif Modeli) Aktif Ünite Durumu
+  // TYMM Aktif Ünite, Kazanım ve Soru Çözüm Durumu
   activeUnit: TymmUnitDetail;
+  selectedOutcomeCode: string;
+  currentQuestionText: string;
+  currentQuestionImage: string | null;
+  lastReactiveSolution: ReactiveSolutionCard | null;
+
   isTymmModalOpen: boolean;
-  whiteboardMode: "physics-sim" | "unit-board";
-  pendingPrompt: string | null;
+  whiteboardMode: "unit-board" | "physics-sim";
+  pendingAction: PendingTutorAction | null;
 
   // BKT Bilişsel Öğrenci Modeli
   skills: Record<string, SkillMastery>;
@@ -45,7 +58,7 @@ interface ITSStoreState {
   quickReplies: string[];
   isTyping: boolean;
 
-  // Mobil Görünüm Sekmesi (iOS / Android Split-Pane Toggle)
+  // Mobil Görünüm Sekmesi
   mobileTab: "whiteboard" | "chat";
 
   // Eylemler (Actions)
@@ -55,9 +68,14 @@ interface ITSStoreState {
   applySimulationUpdate: (update: SimulationUpdatePayload) => void;
 
   setActiveUnit: (unit: TymmUnitDetail) => void;
+  setSelectedOutcomeCode: (code: string) => void;
+  setCurrentQuestionText: (text: string) => void;
+  setCurrentQuestionImage: (dataUrl: string | null) => void;
+  setLastReactiveSolution: (sol: ReactiveSolutionCard | null) => void;
+
   setTymmModalOpen: (isOpen: boolean) => void;
-  setWhiteboardMode: (mode: "physics-sim" | "unit-board") => void;
-  setPendingPrompt: (prompt: string | null) => void;
+  setWhiteboardMode: (mode: "unit-board" | "physics-sim") => void;
+  triggerTutorAction: (action: PendingTutorAction | null) => void;
 
   applyBKTUpdate: (
     skillId: string,
@@ -80,7 +98,7 @@ const INITIAL_WELCOME_MESSAGE: ChatMessage = {
   id: "welcome-1",
   role: "tutor",
   content:
-    "Merhaba! Ben **Proaktif Sınav**, Türkiye Yüzyılı Maarif Modeli (**TYMM**) Sokratik değerlendirme ve öğrenme rehberin. Şu an **Kuvveti Tanıyalım — Kütle ve Ağırlık İlişkisi (`FB.5.2.2.1`)** ünitesindeyiz. Sol taraftaki laboratuvarda bir **Eşit Kollu Terazi** ve bir **Dinamometre** görüyorsun. **Dünya**'dayız ($g = 9.81\\text{ m/s}^2$) ve her iki araçta da **$5\\text{ kg}$** kütleli özdeş bloklar asılı.\n\nSence bu iki ölçüm aleti ile **Ay'a** ($g = 1.62\\text{ m/s}^2$) gidersek, eşit kollu terazinin ve dinamometrenin gösterdiği değerler nasıl değişir?",
+    "Merhaba! **Proaktif Sınav** sistemine hoş geldin.\n\n1. Üstten veya sol panelden çalıştığın **Sınıf, Ders ve Kazanımı** seç,\n2. Sınavda veya testte çözemediğin soruyu (metin ya da fotoğraf olarak) sol panele yükle,\n3. **🧠 Proaktif Çöz** butonuna basarsan sana cevabı doğrudan söylemeden ipuçlarıyla soruyu adım adım **senin çözmeni** sağlarım.\n4. **⚡ Hızlı Çöz** butonuna basarsan **Reaktif Mod** ile doğru şıkkı, adım adım tam çözümü ve çeldirici analizini anında gösteririm!",
   timestamp: "Şimdi",
   detectedMisconception: null,
   simulationApplied: null,
@@ -93,9 +111,14 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   simulationPulse: 0,
 
   activeUnit: DEFAULT_TYMM_UNIT,
+  selectedOutcomeCode: "FB.5.2.2.1",
+  currentQuestionText: "",
+  currentQuestionImage: null,
+  lastReactiveSolution: null,
+
   isTymmModalOpen: false,
-  whiteboardMode: "physics-sim",
-  pendingPrompt: null,
+  whiteboardMode: "unit-board",
+  pendingAction: null,
 
   skills: INITIAL_SKILLS,
   bktHistory: [
@@ -106,8 +129,8 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
       skillTitle:
         INITIAL_SKILLS["FB.5.2.2.1"]?.title ||
         "Kütleye etki eden yer çekimi kuvvetini ağırlık olarak tanımlayabilme",
-      previousPL: 0.3,
-      newPL: 0.3,
+      previousPL: 0.35,
+      newPL: 0.35,
       isCorrect: true,
       reason: "TYMM Öğrenme Çıktısı başlangıç bilişsel profili yüklendi.",
     },
@@ -118,7 +141,11 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   misconceptionHistory: [],
 
   messages: [INITIAL_WELCOME_MESSAGE],
-  quickReplies: DEFAULT_QUICK_REPLIES,
+  quickReplies: [
+    "Bu soruda ilk hangi ipucuna bakmalıyım?",
+    "A ve B şıkları arasında kaldım, nasıl elerim?",
+    "⚡ Hızlı Çöz (Reaktif Tam Çözümü Göster)",
+  ],
   isTyping: false,
 
   mobileTab: "whiteboard",
@@ -166,51 +193,45 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   setActiveUnit: (unit) => {
     const newSkills = convertTymmUnitToSkills(unit);
     const firstSkill = Object.values(newSkills)[0];
+    const validOutcomes = (unit.outcomes || []).filter(
+      (o) => o.code && !o.code.startsWith("KAZ.")
+    );
+    const defaultCode =
+      validOutcomes[0]?.code ||
+      unit.outcomes?.[0]?.code ||
+      firstSkill?.code ||
+      `ÜNİTE-${unit.unitId}`;
+
     const now = new Date().toLocaleTimeString("tr-TR", {
       hour: "2-digit",
       minute: "2-digit",
     });
 
-    const outcomeChips = (unit.outcomes || [])
-      .filter((o) => !o.code.startsWith("KAZ."))
-      .slice(0, 3)
-      .map((o) => `${o.code} çıktısını Sokratik olarak çalışalım`);
-
-    const customReplies =
-      outcomeChips.length > 0
-        ? [
-            ...outcomeChips,
-            "Bu ünitenin anahtar kavramlarını simülasyonla ilişkilendir",
-            "Zenginleştirme (Farklılaştırma) sorusu sor!",
-          ]
-        : DEFAULT_QUICK_REPLIES;
-
     const unitAnnouncement: ChatMessage = {
       id: `unit-${Date.now()}`,
       role: "tutor",
-      content: `📚 **TYMM Müfredat Ünitesi Güncellendi:**\n**${unit.gradeName} • ${unit.subject}** — *${unit.title}*\n\n**Hedef Öğrenme Çıktıları:** ${(
-        unit.outcomes || []
-      )
-        .filter((o) => !o.code.startsWith("KAZ."))
-        .map((o) => `\`${o.code}\``)
-        .join(", ")}\n**Anahtar Kavramlar:** ${
-        unit.keyConcepts || "Müfredat kazanımları"
-      }\n\nBu ünitenin süreç bileşenlerini birlikte keşfetmeye hazır mısın? İlk sorumu yöneltmemi ister misin?`,
+      content: `📚 **Ders ve Ünite Seçildi:**\n**${unit.gradeName} • ${unit.subject}** — *${unit.title}*\n**Aktif Kazanım:** \`${defaultCode}\`\n\nŞimdi sol taraftaki **Soru Çözüm Masası**'na sınavda veya testte çözemediğin soruyu yapıştırabilir (veya fotoğrafını yükleyebilirsin).\n- **🧠 Proaktif Çöz** dersen birlikte adım adım çözeriz.\n- **⚡ Hızlı Çöz** dersen reaktif olarak tam çözümü ve doğru şıkkı anında açıklarım!`,
       timestamp: now,
     };
 
     set((state) => ({
       activeUnit: unit,
+      selectedOutcomeCode: defaultCode,
+      lastReactiveSolution: null,
       skills: newSkills,
       isTymmModalOpen: false,
-      whiteboardMode: unit.unitId === 368 ? "physics-sim" : "unit-board",
-      quickReplies: customReplies,
+      whiteboardMode: "unit-board",
+      quickReplies: [
+        "Bu soruda ilk hangi ipucuna bakmalıyım?",
+        "Sorudaki kavramları kazanımla eşleştir",
+        "⚡ Hızlı Çöz (Reaktif Tam Çözümü Göster)",
+      ],
       messages: [...state.messages, unitAnnouncement],
       bktHistory: [
         {
           id: `unit-bkt-${Date.now()}`,
           timestamp: now,
-          skillId: firstSkill?.skillId || `ÜNİTE-${unit.unitId}`,
+          skillId: firstSkill?.skillId || defaultCode,
           skillTitle: firstSkill?.title || unit.title,
           previousPL: firstSkill?.params.pL || 0.35,
           newPL: firstSkill?.params.pL || 0.35,
@@ -222,17 +243,25 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
     }));
   },
 
+  setSelectedOutcomeCode: (code) => set({ selectedOutcomeCode: code }),
+  setCurrentQuestionText: (text) => set({ currentQuestionText: text }),
+  setCurrentQuestionImage: (dataUrl) => set({ currentQuestionImage: dataUrl }),
+  setLastReactiveSolution: (sol) => set({ lastReactiveSolution: sol }),
+
   setTymmModalOpen: (isOpen) => set({ isTymmModalOpen: isOpen }),
   setWhiteboardMode: (whiteboardMode) => set({ whiteboardMode }),
-  setPendingPrompt: (pendingPrompt) => set({ pendingPrompt }),
+  triggerTutorAction: (pendingAction) => set({ pendingAction }),
 
   applyBKTUpdate: (skillId, isCorrect, reason) => {
     const currentSkills = get().skills;
     const skillKeys = Object.keys(currentSkills);
     const targetId = currentSkills[skillId]
       ? skillId
-      : skillKeys[0] || "FB.5.2.2.1";
+      : skillKeys[0] || get().selectedOutcomeCode || "FB.5.2.2.1";
     const skill = currentSkills[targetId];
+    if (!skill) {
+      return { previousPL: 0.35, newPL: 0.45 };
+    }
     const previousPL = skill.params.pL;
     const newPL = updateBKT(skill.params, isCorrect);
     const now = new Date().toLocaleTimeString("tr-TR", {
@@ -262,8 +291,8 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
       reason:
         reason ||
         (isCorrect
-          ? "TYMM süreç bileşeni çıkarımı doğrulandı."
-          : "Kavram yanılgısı veya hatalı çıkarım gözlemlendi."),
+          ? "Proaktif soru çözüm adımında doğru çıkarım yapıldı."
+          : "Soru çözüm adımında kavram yanılgısı gözlemlendi."),
     };
 
     set((state) => ({

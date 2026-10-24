@@ -67,11 +67,24 @@ export interface BKTHistoryEntry {
   reason: string;
 }
 
+export type SolutionMode = "proactive" | "reactive";
+
+export interface ReactiveSolutionCard {
+  correctAnswer: string;
+  stepByStep: string[];
+  distractorAnalysis: string;
+  examTip: string;
+  outcomeCode: string;
+}
+
 export interface ChatMessage {
   id: string;
   role: "tutor" | "student" | "system";
   content: string;
   timestamp: string;
+  mode?: SolutionMode;
+  imageDataUrl?: string | null;
+  reactiveSolution?: ReactiveSolutionCard | null;
   detectedMisconception?: string | null;
   simulationApplied?: SimulationUpdatePayload | null;
   bktDelta?: {
@@ -153,6 +166,12 @@ export interface TymmUnitDetail {
 
 export interface TutorAPIRequest {
   message: string;
+  mode?: SolutionMode; // "proactive" (Sokratik adım adım) | "reactive" (Hızlı Çöz - tam çözüm)
+  currentQuestion?: {
+    text: string;
+    imageDataUrl?: string | null;
+    outcomeCode?: string;
+  } | null;
   history: Array<{ role: "tutor" | "student"; content: string }>;
   simulationState: {
     planet: PlanetId;
@@ -162,10 +181,13 @@ export interface TutorAPIRequest {
   };
   skills: Record<string, SkillMastery>;
   activeUnit?: TymmUnitDetail | null;
+  selectedOutcomeCode?: string;
 }
 
 export interface TutorAPIResponse {
   reply: string;
+  mode: SolutionMode;
+  reactiveSolution?: ReactiveSolutionCard | null;
   detectedMisconception: string | null;
   updateSimulation: SimulationUpdatePayload | null;
   bktUpdate: BKTUpdatePayload | null;

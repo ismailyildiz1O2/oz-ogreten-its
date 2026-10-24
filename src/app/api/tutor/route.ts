@@ -89,8 +89,29 @@ function buildSmartFallbackResponse(body: TutorAPIRequest): TutorAPIResponse {
       "Diğer seçenekler konunun yalnızca tek bir boyutunu ele almakta veya genelleme hatası (kavram yanılgısı) içermektedir.";
     let examTipText = `"${unit.keyConcepts || targetOutcome.title}" kavramlarının birlikte değişimini ve süreç bileşenlerini arayın; "her zaman aynı kalır / hiçbir zaman değişmez" gibi kesinlik bildiren çeldiricileri eleyin.`;
 
-    // 1. Kütle ve Ağırlık (Dünya vs Ay) klasik sorusu tespiti
+    // 1. İnkılap Tarihi: Mustafa Kemal Paşa (Trablusgarp, Derne, Tobruk, Balkan Savaşları, Kişilik Özellikleri) sorusu tespiti
     if (
+      lowerQ.includes("trablusgarp") ||
+      lowerQ.includes("derne") ||
+      lowerQ.includes("tobruk") ||
+      lowerQ.includes("ileri görüş") ||
+      (lowerQ.includes("mustafa kemal") && lowerQ.includes("kişilik"))
+    ) {
+      correctLetter = "A";
+      correctExplanation =
+        "A Şıkkı: I ve II (İleri görüşlülüğü + Vatanseverliği / Teşkilatçılığı)";
+      steps = [
+        "1. Adım (I. Öncül Analizi - İleri Görüşlülük): Metinde 'Balkan Savaşları öncesinde ordunun siyasete karışmasının tehlikelerine dikkat çekmiş ve savaş sırasında yaşanan olumsuzluklar onun haklılığını ortaya çıkarmıştır' ifadesi, gerçekleşmeden önce bir durumu öngördüğünü yani İLERİ GÖRÜŞLÜLÜĞÜNÜ (I) kanıtlar.",
+        "2. Adım (II. Öncül Analizi - Vatanseverlik ve Teşkilatçılık): 'Trablusgarp'ta yerli halkı İtalyanlara karşı teşkilatlandırarak Derne ve Tobruk'ta önemli başarılar kazanması' onun VATANSEVERLİĞİ ve TEŞKİLATÇILIĞI (II) ile doğrudan ilgilidir.",
+        "3. Adım (III. Öncülün Elenmesi - İnkılapçılık): Metinde eski kurumların kaldırılıp yerine çağdaş yenilikler yapılmasına (İnkılapçılık - III) dair bir bilgi yer almamaktadır. Dolayısıyla doğru cevap I ve II (A Şıkkı) olur.",
+      ];
+      distractorText =
+        "D şıkkı (I, II ve III) en güçlü çeldiricidir: Öğrenciler Mustafa Kemal Paşa'nın genel bir özelliği olduğu için 'İnkılapçılık' öncülünü de doğru kabul etme yanılgısına düşerler; oysa paragraf sorularında YALNIZCA metinde verilen olaylardan çıkarım yapılmalıdır!";
+      examTipText =
+        "Mustafa Kemal'in kişilik özellikleri sorularında anahtar eşleştirmeler: 'Halkı bir araya getirme/örgütleme' = Teşkilatçılık, 'Tahmininin doğru çıkması' = İleri görüşlülük, 'Sömürgeciliğe karşı gönüllü savaşma' = Vatanseverlik.";
+    }
+    // 2. Kütle ve Ağırlık (Dünya vs Ay) klasik sorusu tespiti
+    else if (
       lowerQ.includes("kütle") &&
       lowerQ.includes("ağırlık") &&
       (lowerQ.includes("ay") || lowerQ.includes("1/6") || lowerQ.includes("dinamometre"))
@@ -273,7 +294,18 @@ function buildSmartFallbackResponse(body: TutorAPIRequest): TutorAPIResponse {
   }**) dikkatlice bakalım.`;
   let guidingQuestion = `Sence bu soruda **kesin olarak yanlış** diyerek ilk eleyebileceğimiz şık hangisi ve neden?`;
 
-  if (lowerQ.includes("kütle") && lowerQ.includes("ağırlık")) {
+  if (
+    lowerQ.includes("trablusgarp") ||
+    lowerQ.includes("derne") ||
+    lowerQ.includes("tobruk") ||
+    lowerQ.includes("ileri görüş") ||
+    (lowerQ.includes("mustafa kemal") && lowerQ.includes("kişilik"))
+  ) {
+    proactiveHint =
+      "Metinde iki kritik olay var:\n1) **Trablusgarp'ta halkı İtalyanlara karşı örgütlemesi (teşkilatlandırması)** ve vatan toprağını savunması,\n2) **Balkan Savaşları öncesinde yaptığı uyarının savaş sırasında haklı çıkması**.";
+    guidingQuestion =
+      "Bir liderin gelecekte yaşanacak bir tehlikeyi önceden sezmesi (**I. İleri görüşlülük**) ve halkı vatan savunması için bir araya getirmesi (**II. Vatanseverlik/Teşkilatçılık**) metinde açıkça var. Peki metinde yeni bir inkılap/yenilik yapıldığına (**III. İnkılapçılık**) değinilmiş mi? Buna göre hangi şıkka ulaşırsın?";
+  } else if (lowerQ.includes("kütle") && lowerQ.includes("ağırlık")) {
     proactiveHint =
       "Soruda cismin **Dünya'dan Ay'a** götürüldüğü söyleniyor. Hatırlayalım: Bir cismin yeri değiştiğinde içindeki **madde miktarı (kütle)** değişir mi, yoksa sadece **yerçekimi kuvveti (ağırlık)** mı değişir?";
     guidingQuestion =

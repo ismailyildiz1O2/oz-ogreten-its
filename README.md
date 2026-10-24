@@ -1,6 +1,6 @@
-# Öz-Öğreten AI — Proaktif Sokratik Akıllı Öğretim Sistemi (ITS)
+# Proaktif Sınav — Sokratik Akıllı Öğretim ve Değerlendirme Sistemi (ITS)
 
-**Öz-Öğreten AI**, MEB 7. Sınıf Fen Bilimleri (**F.7.3.1 — Kütle ve Ağırlık İlişkisi**) kazanımları için geliştirilmiş; **Etkileşimli HTML5 Fizik Simülasyonu**, **Proaktif Sokratik Yapay Zeka (Google Gemini API)** ve **Bayesian Knowledge Tracing (BKT)** öğrenci modellemesini tek bir modüler **Next.js (App Router, TypeScript, Tailwind CSS)** mimarisinde birleştiren Akıllı Öğretim Sistemidir (Intelligent Tutoring System).
+**Proaktif Sınav**, MEB Türkiye Yüzyılı Maarif Modeli (**TYMM**) kazanımları için geliştirilmiş; **Etkileşimli HTML5 Fizik Simülasyonu**, **Proaktif Sokratik Yapay Zeka (Google Gemini API)** ve **Bayesian Knowledge Tracing (BKT)** öğrenci modellemesini tek bir modüler **Next.js (App Router, TypeScript, Tailwind CSS)** mimarisinde birleştiren Akıllı Öğretim ve Değerlendirme Sistemidir (Intelligent Tutoring System).
 
 ---
 

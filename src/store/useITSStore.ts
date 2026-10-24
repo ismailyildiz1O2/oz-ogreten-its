@@ -76,7 +76,7 @@ const INITIAL_WELCOME_MESSAGE: ChatMessage = {
   id: "welcome-1",
   role: "tutor",
   content:
-    "Merhaba! Ben **Öz-Öğreten AI**, Türkiye Yüzyılı Maarif Modeli (**TYMM**) Sokratik rehberin. Şu an **Kuvveti Tanıyalım — Kütle ve Ağırlık İlişkisi (`FB.5.2.2.1`)** ünitesindeyiz. Sol taraftaki laboratuvarda bir **Eşit Kollu Terazi** ve bir **Dinamometre** görüyorsun. **Dünya**'dayız ($g = 9.81\\text{ m/s}^2$) ve her iki araçta da **$5\\text{ kg}$** kütleli özdeş bloklar asılı.\n\nSence bu iki ölçüm aleti ile **Ay'a** ($g = 1.62\\text{ m/s}^2$) gidersek, eşit kollu terazinin ve dinamometrenin gösterdiği değerler nasıl değişir?",
+    "Merhaba! Ben **Proaktif Sınav**, Türkiye Yüzyılı Maarif Modeli (**TYMM**) Sokratik değerlendirme ve öğrenme rehberin. Şu an **Kuvveti Tanıyalım — Kütle ve Ağırlık İlişkisi (`FB.5.2.2.1`)** ünitesindeyiz. Sol taraftaki laboratuvarda bir **Eşit Kollu Terazi** ve bir **Dinamometre** görüyorsun. **Dünya**'dayız ($g = 9.81\\text{ m/s}^2$) ve her iki araçta da **$5\\text{ kg}$** kütleli özdeş bloklar asılı.\n\nSence bu iki ölçüm aleti ile **Ay'a** ($g = 1.62\\text{ m/s}^2$) gidersek, eşit kollu terazinin ve dinamometrenin gösterdiği değerler nasıl değişir?",
   timestamp: "Şimdi",
   detectedMisconception: null,
   simulationApplied: null,

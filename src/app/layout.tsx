@@ -3,14 +3,14 @@ import "katex/dist/katex.min.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Öz-Öğreten AI | Sokratik Akıllı Öğretim Sistemi (ITS)",
+  title: "Proaktif Sınav | Sokratik Akıllı Öğretim ve Değerlendirme Sistemi",
   description:
-    "MEB Müfredatına Uyumlu, Sokratik AI, Bayesian Knowledge Tracing (BKT) ve Etkileşimli Fizik Simülasyonu Destekli Öğrenme Platformu",
+    "MEB TYMM Müfredatına Uyumlu, Sokratik AI, Bayesian Knowledge Tracing (BKT) ve Etkileşimli Fizik Simülasyonu Destekli Proaktif Sınav ve Öğrenme Platformu",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "ÖzÖğreten AI",
+    title: "Proaktif Sınav",
   },
   icons: {
     icon: "/icons/icon-192.png",

@@ -48,7 +48,7 @@ export default function ITSHomePage() {
           <div className="min-w-0">
             <div className="flex items-center gap-2">
               <h1 className="text-sm sm:text-base font-bold tracking-tight text-white shrink-0">
-                Öz-Öğreten AI
+                Proaktif Sınav
               </h1>
               <button
                 type="button"

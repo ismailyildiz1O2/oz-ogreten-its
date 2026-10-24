@@ -3,6 +3,10 @@
 import React, { useCallback, useEffect, useState } from "react";
 import { useITSStore } from "@/store/useITSStore";
 import {
+  findBestSubjectForGrade,
+  getShortSubjectLabel,
+} from "@/lib/curriculum-graph";
+import {
   TymmCatalog,
   TymmCatalogUnitSummary,
   TymmUnitDetail,
@@ -61,19 +65,32 @@ export const TymmSelectorModal: React.FC = () => {
     async (unitId: number, overrideGrade?: number, overrideSubject?: string) => {
       setLoadingUnit(true);
       try {
-        const res = await fetch(`/api/tymm?unitId=${unitId}`);
+        const params = new URLSearchParams({ unitId: String(unitId) });
+        if (typeof overrideGrade === "number") {
+          params.set("grade", String(overrideGrade));
+        }
+        if (overrideSubject) {
+          params.set("subject", overrideSubject);
+        }
+        const res = await fetch(`/api/tymm?${params.toString()}`);
         const data = await res.json();
         if (data.unit) {
-          setPreviewUnit(data.unit);
-          if (typeof overrideGrade === "number") {
-            setSelectedGrade(overrideGrade);
-          } else if (typeof data.unit.grade === "number") {
-            setSelectedGrade(data.unit.grade);
-          }
-          if (overrideSubject) {
-            setSelectedSubject(overrideSubject);
-          } else if (data.unit.subject) {
-            setSelectedSubject(data.unit.subject);
+          const finalGrade =
+            typeof overrideGrade === "number" ? overrideGrade : data.unit.grade;
+          const finalSubj = overrideSubject || data.unit.subject;
+          const normalizedUnit: TymmUnitDetail = {
+            ...data.unit,
+            grade: finalGrade,
+            gradeName:
+              finalGrade === 0
+                ? "Hazırlık / Genel"
+                : `${finalGrade}. Sınıf`,
+            subject: finalSubj,
+          };
+          setPreviewUnit(normalizedUnit);
+          setSelectedGrade(finalGrade);
+          if (finalSubj) {
+            setSelectedSubject(finalSubj);
           }
         }
       } catch (e) {
@@ -111,12 +128,16 @@ export const TymmSelectorModal: React.FC = () => {
     catalog?.classes[0];
 
   const allSubjectsInGrade = currentGradeObj?.subjects || [];
-  const filteredSubjects = subjectSearch.trim()
+  const searchNorm = subjectSearch.trim().toLocaleLowerCase("tr-TR");
+  const filteredSubjects = searchNorm
     ? allSubjectsInGrade.filter(
         (s) =>
-          s.subject.toLowerCase().includes(subjectSearch.toLowerCase()) ||
+          s.subject.toLocaleLowerCase("tr-TR").includes(searchNorm) ||
+          getShortSubjectLabel(s.subject)
+            .toLocaleLowerCase("tr-TR")
+            .includes(searchNorm) ||
           s.units.some((u) =>
-            u.title.toLowerCase().includes(subjectSearch.toLowerCase())
+            u.title.toLocaleLowerCase("tr-TR").includes(searchNorm)
           )
       )
     : allSubjectsInGrade;
@@ -129,17 +150,15 @@ export const TymmSelectorModal: React.FC = () => {
 
   const unitsList: TymmCatalogUnitSummary[] = currentSubjectObj?.units || [];
 
-  // 1. Sınıf değiştiğinde: O sınıfın ilk dersini (veya Fen/Matematik dersini) ve ilk ünitesini otomatik yükle!
+  // 1. Sınıf değiştiğinde: O sınıfın eşdeğer branş dersini (veya ilk temel dersini) ve ilk ünitesini otomatik yükle!
   const handleGradeChange = (gradeNum: number) => {
     setSelectedGrade(gradeNum);
     setSubjectSearch("");
     const targetGrade = catalog?.classes.find((c) => c.grade === gradeNum);
     if (targetGrade && targetGrade.subjects.length > 0) {
-      // Eğer mevcut ders bu sınıfta da varsa onu koru, yoksa ilk dersi seç
-      const sameSubj = targetGrade.subjects.find(
-        (s) => s.subject === selectedSubject
-      );
-      const chosenSubj = sameSubj || targetGrade.subjects[0];
+      const chosenSubj =
+        findBestSubjectForGrade(targetGrade.subjects, selectedSubject) ||
+        targetGrade.subjects[0];
       setSelectedSubject(chosenSubj.subject);
       if (chosenSubj.units.length > 0) {
         fetchUnitDetail(

@@ -70,7 +70,11 @@ interface ITSStoreState {
   applySimulationUpdate: (update: SimulationUpdatePayload) => void;
 
   setActiveUnit: (unit: TymmUnitDetail) => void;
-  setSelectedOutcomeCode: (code: string) => void;
+  setSelectedOutcomeCode: (
+    code: string,
+    options?: { keepQuestion?: boolean; collapseCurriculum?: boolean }
+  ) => void;
+  clearWorkspace: () => void;
   setCurrentQuestionText: (text: string) => void;
   setCurrentQuestionImage: (dataUrl: string | null) => void;
   setLastReactiveSolution: (sol: ReactiveSolutionCard | null) => void;
@@ -102,7 +106,7 @@ const INITIAL_WELCOME_MESSAGE: ChatMessage = {
   id: "welcome-1",
   role: "tutor",
   content:
-    "Merhaba! **Proaktif Sınav** sistemine hoş geldin.\n\n1. Üstten veya sol panelden çalıştığın **Sınıf, Ders ve Kazanımı** seç,\n2. Sınavda veya testte çözemediğin soruyu (metin ya da fotoğraf olarak) sol panele yükle,\n3. **🧠 Proaktif Çöz** butonuna basarsan sana cevabı doğrudan söylemeden ipuçlarıyla soruyu adım adım **senin çözmeni** sağlarım.\n4. **⚡ Hızlı Çöz** butonuna basarsan **Reaktif Mod** ile doğru şıkkı, adım adım tam çözümü ve çeldirici analizini anında gösteririm!",
+    "Merhaba! Sorunu **yazarak**, **ekran görüntüsü (Ctrl+V)**, **fotoğraf**, **PDF** veya **Word** olarak yukarıdaki kutuya ekle:\n\n• **🧠 Proaktif Çöz:** Cevabı doğrudan söylemeden, adım adım ipuçlarıyla soruyu **beraber çözeriz**.\n• **⚡ Hızlı Çöz:** Sorunun **adım adım gidiş yolunu** ve **doğru cevabını** doğrudan açıklarım.\n• Sağ ekrandan istediğin zaman **Video Animasyon, Sesli Avatar (Gemini Sesi), Şekil/Şema, Harita veya Grafik** anlatımını seçebilirsin!",
   timestamp: "Şimdi",
   detectedMisconception: null,
   simulationApplied: null,
@@ -216,14 +220,19 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
     const unitAnnouncement: ChatMessage = {
       id: `unit-${Date.now()}`,
       role: "tutor",
-      content: `📚 **Ders ve Ünite Seçildi:**\n**${unit.gradeName} • ${unit.subject}** — *${unit.title}*\n**Aktif Kazanım:** \`${defaultCode}\`\n\nŞimdi sol taraftaki **Soru Çözüm Masası**'na sınavda veya testte çözemediğin soruyu yapıştırabilir (veya fotoğrafını yükleyebilirsin).\n- **🧠 Proaktif Çöz** dersen birlikte adım adım çözeriz.\n- **⚡ Hızlı Çöz** dersen reaktif olarak tam çözümü ve doğru şıkkı anında açıklarım!`,
+      content: `📚 **Ders ve Ünite Seçildi:**\n**${unit.gradeName} • ${unit.subject}** — *${unit.title}*\n**Aktif Kazanım:** \`${defaultCode}\`\n\nEkran yeni ders için temizlendi! Şimdi **Çözemediğin Soruyu Ekle** kutusuna soruyu yapıştırabilir, fotoğrafını yükleyebilir veya **Örnek Soru** butonuna basabilirsin.\n- **🧠 Proaktif Çöz** dersen birlikte adım adım çözeriz.\n- **⚡ Hızlı Çöz** dersen reaktif olarak tam çözümü ve doğru şıkkı anında açıklarım!`,
       timestamp: now,
     };
 
     set((state) => ({
       activeUnit: unit,
       selectedOutcomeCode: defaultCode,
+      currentQuestionText: "",
+      currentQuestionImage: null,
       lastReactiveSolution: null,
+      activeMisconception: null,
+      pendingAction: null,
+      isTyping: false,
       skills: newSkills,
       isTymmModalOpen: false,
       whiteboardMode: "unit-board",
@@ -232,7 +241,7 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
         "Sorudaki kavramları kazanımla eşleştir",
         "⚡ Hızlı Çöz (Reaktif Tam Çözümü Göster)",
       ],
-      messages: [...state.messages, unitAnnouncement],
+      messages: [unitAnnouncement],
       bktHistory: [
         {
           id: `unit-bkt-${Date.now()}`,
@@ -249,8 +258,82 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
     }));
   },
 
-  setSelectedOutcomeCode: (code) =>
-    set({ selectedOutcomeCode: code, isCurriculumCollapsed: true }),
+  setSelectedOutcomeCode: (code, options) => {
+    if (options?.keepQuestion) {
+      set((state) => ({
+        selectedOutcomeCode: code,
+        isCurriculumCollapsed:
+          options.collapseCurriculum ?? state.isCurriculumCollapsed,
+      }));
+      return;
+    }
+
+    const now = new Date().toLocaleTimeString("tr-TR", {
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+
+    set((state) => {
+      const matchedOutcome = (state.activeUnit.outcomes || []).find(
+        (o) => o.code === code
+      );
+      const outcomeTitle = matchedOutcome?.title || state.activeUnit.title;
+
+      const outcomeAnnouncement: ChatMessage = {
+        id: `outcome-${Date.now()}`,
+        role: "tutor",
+        content: `🎯 **Aktif Kazanım Değiştirildi:**\n**${state.activeUnit.gradeName} • ${state.activeUnit.subject}**\n**Kazanım:** \`${code}\` — *${outcomeTitle}*\n\nEkran yeni kazanım için temizlendi! Çözemediğin soruyu ekleyebilir veya **Örnek Soru** butonuna tıklayabilirsin.`,
+        timestamp: now,
+      };
+
+      return {
+        selectedOutcomeCode: code,
+        isCurriculumCollapsed: options?.collapseCurriculum ?? true,
+        currentQuestionText: "",
+        currentQuestionImage: null,
+        lastReactiveSolution: null,
+        activeMisconception: null,
+        pendingAction: null,
+        isTyping: false,
+        quickReplies: [
+          "Bu soruda ilk hangi ipucuna bakmalıyım?",
+          "Sorudaki kavramları kazanımla eşleştir",
+          "⚡ Hızlı Çöz (Reaktif Tam Çözümü Göster)",
+        ],
+        messages: [outcomeAnnouncement],
+      };
+    });
+  },
+
+  clearWorkspace: () => {
+    const now = new Date().toLocaleTimeString("tr-TR", {
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+    set(() => ({
+      currentQuestionText: "",
+      currentQuestionImage: null,
+      lastReactiveSolution: null,
+      activeMisconception: null,
+      pendingAction: null,
+      isTyping: false,
+      quickReplies: [
+        "Örnek bir soru çözelim!",
+        "🧠 Proaktif Çöz nasıl çalışır?",
+        "⚡ Hızlı Çöz (Tam Çözümü Göster)",
+      ],
+      messages: [
+        {
+          id: `clear-${Date.now()}`,
+          role: "tutor",
+          content:
+            "🧹 **Ekran Temizlendi!**\nYeni sorunu metin, ekran görüntüsü (`Ctrl+V`), fotoğraf, PDF veya Word olarak ekleyip **🧠 Proaktif Çöz** ya da **⚡ Hızlı Çöz** butonuna basabilirsin.",
+          timestamp: now,
+        },
+      ],
+    }));
+  },
+
   setCurrentQuestionText: (text) => set({ currentQuestionText: text }),
   setCurrentQuestionImage: (dataUrl) => set({ currentQuestionImage: dataUrl }),
   setLastReactiveSolution: (sol) => set({ lastReactiveSolution: sol }),

@@ -4,8 +4,13 @@ import React, { useCallback, useEffect, useState } from "react";
 import { useITSStore } from "@/store/useITSStore";
 import { getMasteryStatus } from "@/lib/bkt-engine";
 import {
+  findBestSubjectForGrade,
+  getShortSubjectLabel,
+} from "@/lib/curriculum-graph";
+import {
   TymmCatalog,
   TymmCatalogUnitSummary,
+  TymmUnitDetail,
 } from "@/types/its";
 import {
   BookOpen,
@@ -58,18 +63,31 @@ export const RightCurriculumSidebar: React.FC = () => {
 
   const loadAndApplyUnit = useCallback(
     async (unitId: number, overrideGrade?: number, overrideSubject?: string) => {
+      const targetGrade =
+        typeof overrideGrade === "number" ? overrideGrade : selectedGrade;
+      const targetSubject = overrideSubject || selectedSubject;
       setLoadingUnit(true);
       try {
-        const res = await fetch(`/api/tymm?unitId=${unitId}`);
+        const params = new URLSearchParams({
+          unitId: String(unitId),
+          grade: String(targetGrade),
+          subject: targetSubject,
+        });
+        const res = await fetch(`/api/tymm?${params.toString()}`);
         const data = await res.json();
         if (data.unit) {
-          if (typeof overrideGrade === "number") {
-            setSelectedGrade(overrideGrade);
-          }
-          if (overrideSubject) {
-            setSelectedSubject(overrideSubject);
-          }
-          setActiveUnit(data.unit);
+          const normalizedUnit: TymmUnitDetail = {
+            ...data.unit,
+            grade: targetGrade,
+            gradeName:
+              targetGrade === 0
+                ? "Hazırlık / Genel"
+                : `${targetGrade}. Sınıf`,
+            subject: targetSubject || data.unit.subject,
+          };
+          setSelectedGrade(targetGrade);
+          setSelectedSubject(normalizedUnit.subject);
+          setActiveUnit(normalizedUnit);
         }
       } catch (e) {
         console.error("Ünite yüklenemedi:", e);
@@ -77,7 +95,7 @@ export const RightCurriculumSidebar: React.FC = () => {
         setLoadingUnit(false);
       }
     },
-    [setActiveUnit]
+    [selectedGrade, selectedSubject, setActiveUnit]
   );
 
   const currentGradeObj =
@@ -85,12 +103,16 @@ export const RightCurriculumSidebar: React.FC = () => {
     catalog?.classes[0];
 
   const allSubjectsInGrade = currentGradeObj?.subjects || [];
-  const filteredSubjects = subjectSearch.trim()
+  const searchNorm = subjectSearch.trim().toLocaleLowerCase("tr-TR");
+  const filteredSubjects = searchNorm
     ? allSubjectsInGrade.filter(
         (s) =>
-          s.subject.toLowerCase().includes(subjectSearch.toLowerCase()) ||
+          s.subject.toLocaleLowerCase("tr-TR").includes(searchNorm) ||
+          getShortSubjectLabel(s.subject)
+            .toLocaleLowerCase("tr-TR")
+            .includes(searchNorm) ||
           s.units.some((u) =>
-            u.title.toLowerCase().includes(subjectSearch.toLowerCase())
+            u.title.toLocaleLowerCase("tr-TR").includes(searchNorm)
           )
       )
     : allSubjectsInGrade;
@@ -108,10 +130,9 @@ export const RightCurriculumSidebar: React.FC = () => {
     setSubjectSearch("");
     const targetGrade = catalog?.classes.find((c) => c.grade === gradeNum);
     if (targetGrade && targetGrade.subjects.length > 0) {
-      const sameSubj = targetGrade.subjects.find(
-        (s) => s.subject === selectedSubject
-      );
-      const chosenSubj = sameSubj || targetGrade.subjects[0];
+      const chosenSubj =
+        findBestSubjectForGrade(targetGrade.subjects, selectedSubject) ||
+        targetGrade.subjects[0];
       setSelectedSubject(chosenSubj.subject);
       if (chosenSubj.units.length > 0) {
         loadAndApplyUnit(

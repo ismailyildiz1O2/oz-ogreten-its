@@ -3,6 +3,7 @@ import {
   PlanetId,
   PlanetInfo,
   SkillMastery,
+  TymmCatalogSubject,
   TymmUnitDetail,
 } from "@/types/its";
 
@@ -72,7 +73,7 @@ export const PLANETS: Record<PlanetId, PlanetInfo> = {
 export const DEFAULT_TYMM_UNIT: TymmUnitDetail = {
   unitId: 368,
   grade: 5,
-  gradeName: "5. Sınıf (TYMM) & 7. Sınıf",
+  gradeName: "5. Sınıf",
   subject: "Fen Bilimleri Dersi",
   title: "2. ÜNİTE: KUVVETİ TANIYALIM (Kütle ve Ağırlık İlişkisi)",
   hours: "24",
@@ -304,3 +305,257 @@ export const DEFAULT_QUICK_REPLIES: string[] = [
   "Jüpiter'de dinamometre ve terazi ne gösterir?",
   "Uzay boşluğunda (g=0) kütle sıfır olur mu?",
 ];
+
+/**
+ * Temel sınav ve okul derslerini seçmeli/özel okul derslerinden ayıran öncelik skoru.
+ * Küçük sayı = Daha yüksek öncelik (Listenin en üstünde yer alır).
+ */
+export function getCoreSubjectPriority(subjectName: string): number {
+  const s = subjectName.trim();
+  const lower = s.toLocaleLowerCase("tr-TR");
+
+  // Özel okul modülleri en sonda yer alsın
+  if (lower.includes("müzik okulları") || lower.includes("spor okulları")) {
+    return 900;
+  }
+
+  // 1. Matematik (İlkokul / Ortaokul / Lise)
+  if (
+    s === "İlkokul Matematik Dersi" ||
+    s === "İlkokul Matematik Dersi (Maarif Modeli)" ||
+    s === "Ortaokul Matematik Dersi" ||
+    s === "Ortaokul Matematik Dersi (Maarif Modeli)" ||
+    s === "Matematik Dersi"
+  ) {
+    return lower.includes("maarif") ? 10 : 11;
+  }
+
+  // 2. Türkçe / Türk Dili ve Edebiyatı
+  if (
+    s === "İlkokul Türkçe Dersi" ||
+    s === "İlkokul Türkçe Dersi (Maarif Modeli)" ||
+    s === "Ortaokul Türkçe Dersi" ||
+    s === "Ortaokul Türkçe Dersi (Maarif Modeli)" ||
+    s === "Türk Dili Ve Edebiyatı Dersi"
+  ) {
+    return lower.includes("maarif") ? 20 : 21;
+  }
+
+  // 3. Fen Bilimleri / Fizik / Kimya / Biyoloji / Hayat Bilgisi
+  if (
+    s === "Fen Bilimleri Dersi" ||
+    s === "Fen Bilimleri Dersi (Maarif Modeli)"
+  ) {
+    return lower.includes("maarif") ? 30 : 31;
+  }
+  if (s === "Fizik Dersi") return 32;
+  if (s === "Kimya Dersi") return 33;
+  if (s === "Biyoloji Dersi") return 34;
+  if (s === "Hayat Bilgisi Dersi") return 35;
+
+  // 4. Sosyal Bilgiler / T.C. İnkılap Tarihi / Tarih / Coğrafya
+  if (
+    s === "Sosyal Bilgiler Dersi" ||
+    s === "Sosyal Bilgiler Dersi (Maarif Modeli)"
+  ) {
+    return lower.includes("maarif") ? 40 : 41;
+  }
+  if (
+    s === "T.C. İnkılap Tarihi ve Atatürkçülük Dersi" ||
+    s === "T.C. İnkılap Tarihi ve Atatürkçülük Dersi (Maarif Modeli)"
+  ) {
+    return lower.includes("maarif") ? 42 : 43;
+  }
+  if (s === "Tarih Dersi") return 44;
+  if (s === "Coğrafya Dersi") return 45;
+  if (s === "Çağdaş Türk ve Dünya Tarihi Dersi") return 46;
+
+  // 5. Felsefe / Psikoloji / Sosyoloji / Mantık
+  if (s === "Felsefe Dersi") return 50;
+  if (s === "Psikoloji Dersi") return 51;
+  if (s === "Sosyoloji Dersi") return 52;
+  if (s === "Mantık Dersi") return 53;
+
+  // 6. Din Kültürü ve Ahlak Bilgisi
+  if (
+    s === "Din Kültürü ve Ahlak Bilgisi Dersi" ||
+    s === "Din Kültürü ve Ahlak Bilgisi Dersi (Maarif Modeli)"
+  ) {
+    return lower.includes("maarif") ? 60 : 61;
+  }
+
+  // 7. İngilizce (Yabancı Dil)
+  if (
+    s === "İngilizce Dersi" ||
+    s === "İngilizce Dersi (Maarif Modeli)" ||
+    s === "İngilizce Dersi (9-12)"
+  ) {
+    return lower.includes("maarif") ? 70 : 71;
+  }
+
+  // 8. Diğer temel okul dersleri
+  if (
+    s.startsWith("İnsan Hakları,Vatandaşlık") ||
+    s.startsWith("Trafik Güvenliği") ||
+    s === "Bilişim Teknolojileri ve Yazılım Dersi" ||
+    s === "Teknoloji ve Tasarım Dersi" ||
+    s === "Teknoloji ve Tasarım Dersi (Maarif Modeli)" ||
+    s === "Sağlık Bilgisi ve Trafik Kültürü Dersi"
+  ) {
+    return 80;
+  }
+
+  if (
+    s.startsWith("Görsel Sanatlar Dersi") ||
+    s.startsWith("Müzik Dersi") ||
+    s.startsWith("Beden Eğitimi ve")
+  ) {
+    return 90;
+  }
+
+  // Seçmeli dersler
+  return 500;
+}
+
+export function isCoreSubject(subjectName: string): boolean {
+  return getCoreSubjectPriority(subjectName) < 100;
+}
+
+export function isPrimaryExamSubject(subjectName: string): boolean {
+  return getCoreSubjectPriority(subjectName) < 80;
+}
+
+export function getShortSubjectLabel(subjectName: string): string {
+  const map: Record<string, string> = {
+    "İlkokul Matematik Dersi": "Matematik",
+    "İlkokul Matematik Dersi (Maarif Modeli)": "Matematik (TYMM)",
+    "Ortaokul Matematik Dersi": "Matematik",
+    "Ortaokul Matematik Dersi (Maarif Modeli)": "Matematik (TYMM)",
+    "Matematik Dersi": "Matematik",
+    "İlkokul Türkçe Dersi": "Türkçe",
+    "İlkokul Türkçe Dersi (Maarif Modeli)": "Türkçe (TYMM)",
+    "Ortaokul Türkçe Dersi": "Türkçe",
+    "Ortaokul Türkçe Dersi (Maarif Modeli)": "Türkçe (TYMM)",
+    "Türk Dili Ve Edebiyatı Dersi": "Türk Dili ve Edebiyatı",
+    "Fen Bilimleri Dersi": "Fen Bilimleri",
+    "Fen Bilimleri Dersi (Maarif Modeli)": "Fen Bilimleri (TYMM)",
+    "Fizik Dersi": "Fizik",
+    "Kimya Dersi": "Kimya",
+    "Biyoloji Dersi": "Biyoloji",
+    "Hayat Bilgisi Dersi": "Hayat Bilgisi",
+    "Sosyal Bilgiler Dersi": "Sosyal Bilgiler",
+    "Sosyal Bilgiler Dersi (Maarif Modeli)": "Sosyal Bilgiler (TYMM)",
+    "T.C. İnkılap Tarihi ve Atatürkçülük Dersi": "T.C. İnkılap Tarihi",
+    "T.C. İnkılap Tarihi ve Atatürkçülük Dersi (Maarif Modeli)":
+      "T.C. İnkılap Tarihi (TYMM)",
+    "Tarih Dersi": "Tarih",
+    "Coğrafya Dersi": "Coğrafya",
+    "Çağdaş Türk ve Dünya Tarihi Dersi": "Çağdaş Türk ve Dünya Tarihi",
+    "Felsefe Dersi": "Felsefe",
+    "Psikoloji Dersi": "Psikoloji",
+    "Sosyoloji Dersi": "Sosyoloji",
+    "Mantık Dersi": "Mantık",
+    "Din Kültürü ve Ahlak Bilgisi Dersi": "Din Kültürü",
+    "Din Kültürü ve Ahlak Bilgisi Dersi (Maarif Modeli)": "Din Kültürü (TYMM)",
+    "İngilizce Dersi": "İngilizce",
+    "İngilizce Dersi (Maarif Modeli)": "İngilizce (TYMM)",
+    "İngilizce Dersi (9-12)": "İngilizce",
+  };
+  return map[subjectName] || subjectName.replace(/ Dersi$/i, "");
+}
+
+/**
+ * Sınıf değiştirildiğinde, kullanıcının önceki dersine en uygun (aynı veya eşdeğer branştaki) dersi bulur.
+ */
+export function findBestSubjectForGrade(
+  subjects: TymmCatalogSubject[],
+  previousSubject: string
+): TymmCatalogSubject | undefined {
+  if (!subjects || subjects.length === 0) return undefined;
+
+  // 1. Birebir aynı isimde ders varsa onu seç
+  const exact = subjects.find((s) => s.subject === previousSubject);
+  if (exact) return exact;
+
+  const prevLower = previousSubject.toLocaleLowerCase("tr-TR");
+
+  // 2. Branş ailesi eşleştirmesi (Matematik, Türkçe/Edebiyat, Fen/Fizik, Sosyal/Tarih/İnkılap, İngilizce, Din Kültürü)
+  const isMath =
+    prevLower.includes("matematik") && !prevLower.includes("uygulamaları");
+  if (isMath) {
+    const m = subjects.find(
+      (s) =>
+        getCoreSubjectPriority(s.subject) >= 10 &&
+        getCoreSubjectPriority(s.subject) <= 19
+    );
+    if (m) return m;
+  }
+
+  const isTurkish =
+    prevLower.includes("türkçe") || prevLower.includes("edebiyat");
+  if (isTurkish) {
+    const t = subjects.find(
+      (s) =>
+        getCoreSubjectPriority(s.subject) >= 20 &&
+        getCoreSubjectPriority(s.subject) <= 29
+    );
+    if (t) return t;
+  }
+
+  const isScience =
+    prevLower.includes("fen bilimleri") ||
+    prevLower.includes("fizik") ||
+    prevLower.includes("kimya") ||
+    prevLower.includes("biyoloji") ||
+    prevLower.includes("hayat bilgisi");
+  if (isScience) {
+    const sci = subjects.find(
+      (s) =>
+        getCoreSubjectPriority(s.subject) >= 30 &&
+        getCoreSubjectPriority(s.subject) <= 39
+    );
+    if (sci) return sci;
+  }
+
+  const isSocial =
+    prevLower.includes("sosyal bilgiler") ||
+    prevLower.includes("inkılap") ||
+    prevLower.includes("tarih") ||
+    prevLower.includes("coğrafya");
+  if (isSocial) {
+    const soc = subjects.find(
+      (s) =>
+        getCoreSubjectPriority(s.subject) >= 40 &&
+        getCoreSubjectPriority(s.subject) <= 49
+    );
+    if (soc) return soc;
+  }
+
+  const isEnglish = prevLower.includes("ingilizce");
+  if (isEnglish) {
+    const eng = subjects.find(
+      (s) =>
+        getCoreSubjectPriority(s.subject) >= 70 &&
+        getCoreSubjectPriority(s.subject) <= 79
+    );
+    if (eng) return eng;
+  }
+
+  const isReligion = prevLower.includes("din kültürü");
+  if (isReligion) {
+    const rel = subjects.find(
+      (s) =>
+        getCoreSubjectPriority(s.subject) >= 60 &&
+        getCoreSubjectPriority(s.subject) <= 69
+    );
+    if (rel) return rel;
+  }
+
+  // 3. Hiçbiri eşleşmezse o sınıfın en yüksek öncelikli temel dersini (Matematik/Türkçe/Fen) seç
+  const sorted = [...subjects].sort(
+    (a, b) =>
+      getCoreSubjectPriority(a.subject) - getCoreSubjectPriority(b.subject)
+  );
+  return sorted[0];
+}
+

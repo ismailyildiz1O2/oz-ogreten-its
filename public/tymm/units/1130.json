@@ -1,0 +1,56 @@
+{
+  "unitId": 1130,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "1. TEMA: BAĞLAMADA OKTAV NOTALARI ÖĞRENİYORUM",
+  "hours": "1",
+  "description": "Temada bağlamada oktav seslerin tezene ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.4.1.1",
+      "title": ". Bağlamada oktav sesleri çalabilme",
+      "processComponents": [
+        "a) Bağlama ile oktav sesleri çözümler.",
+        "b) Bağlama ile oktav seslerini çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Bağlama ile oktav seslerini çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlama ile oktav seslerin müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, frekans, oktav",
+  "support": [
+    "Öğrencilere oktav seslerinin her birini yavaşça, düşük tempoda çalmaları için fırsatlar verilebilir. Öğretmen, her öğrencinin hızına göre ilerleyerek öğretilecek seslerin kolayca sindirilmesini sağlayabilir. Öğrencilerin oktav seslerini çalarken en doğru tonu yakalamaları için parmak pozisyonlarına dikkat etmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, oktav seslerini daha hızlı tempolarda çalmayı deneyebilirler. Örneğin öğretmen tarafından verilen etütlerin temposu yavaşken öğrenciler daha hızlı bir tempo ile çalışmaya teşvik edilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin oktav seslerini doğru bir şekilde çalma, çaldıkları seslerin temizliği, çalgıya özgü tekniklerin uygulanması ve müziksel bileşenleri kullanarak çalmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.4.1.1",
+    "Oktav seslerinin notalarını içeren bir müzik notası görseli kullanarak oktavın temel özelliği olan sesin iki katı frekansa sahip olma durumu, müzik teorisi ve sesin fiziksel özellikleri hakkında öğrencilere kısa bir açıklama yapılır ( OB4 ). Öğretmen tarafından bağlamada uygulamalı olarak bir sesin oktavına, aynı notanın farklı frekansta duyulmasına örnekler verilerek öğrencilerin oktavı fark etmeleri sağlanır ( SDB2.1 ). Bağlamada bu seslerin farklı tel veya perdeler üzerinde oktav notaların elde edildiğini öğrenirler. Öğrenciler, oktav sesleri içeren ses kayıtlarını dinlerler. Bu kayıtları dinledikten sonra öğrencilerden aynı sesi çalmaları ve kaydetmeleri istenir. Bu aşama gözlem formuyla değerlendirilir. Bu süreç, öğrencilerin sesleri doğru şekilde tanımalarını ve taklit etmelerini sağlayarak ses aralıkları ve ton farklarını daha iyi kavrayabilmelerine yardımcı olur ( OB2 ). Öğrenciler, aynı notanın oktavlarının nasıl çaldığını ve birbirlerine nasıl benzediklerini fark ederler ( E3.2 ). Bir sesin farklı oktavlarını dinlerken öğrenciler örnek olarak \"la\" sesinin oktavını bağlamada nasıl bulabileceklerini keşfederler ( SDB3.2 ). Öğrencilerin öğretmenin rehberliğinde yavaşça bağlamada oktav seslerini çalmaları için doğru duruş ve tutuş pozisyonu almaları sağlanır. Öğrencilerin oktav sesler içeren notaları bağlama ile çalarken yavaş tempoda etüt veya diziler üzerinde doğru parmak kullanımı ve pozisyon geçişlerine dikkat ederek seslendirmeleri sağlanır ( E1.3 ). Öğrencilere örnek bir etüt veya diziyi bireysel çalma fırsatı verilir. Öğrencilerden etkinliklerde etkin rol almaları ( D3.4 ), bağlama çalma konusunda cesur olmaları ( D11.1 ) ve dönütleri dikkate alarak hatalarını düzeltmeleri ( D10.1 ) beklenir. Öğrencilerin bağlamada oktav sesler içeren örnek eserleri bireysel ve grupla uygulayarak müziksel bileşenleri fark etmeleri sağlanır ( SDB1.2 , D3.4) . Performans görevi olarak öğrencilerden oktav seslerini doğru bir şekilde çalmaları, çaldıkları seslerin temizliğine dikkat etmeleri, çalgıya özgü teknikleri uygulamaları ve müziksel bileşenleri kullanmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D11.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.3",
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1130"
+}

@@ -1,0 +1,58 @@
+{
+  "unitId": 127,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Hayat Bilgisi Dersi",
+  "title": "6. ÖĞRENME ALANI: BİLİM, TEKNOLOJİ VE SANAT",
+  "hours": "18",
+  "description": "Bu öğrenme alanının içeriğini; öğrencilerin bilim, teknoloji ve sanat ile ilgili merak ettiği konular oluşturmaktadır. Bu doğrultuda öğrencilerin bilim ile tanışmaları, günlük yaşamında teknolojiyi fark etmeleri, sanatı keşfetmeleri, yaratıcılıklarını geliştirmeleri ve hazırladıkları ürünleri sergilemeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "HB.1.6.1",
+      "title": "Bilimle ilgili merak ettiklerini sorabilme Sunulan bilimsel bir konu hakkında merak ettiği soruları sorar.",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.6.2",
+      "title": "Teknoloji ile ilgili merak ettiklerini sorabilme Sunulan teknolojik bir konu hakkında merak ettiği soruları sorar.",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.6.3",
+      "title": "Sanatla ilgili merak ettiklerini sorabilme Sunulan sanatsal bir konu hakkında merak ettiği soruları sorar.",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "bilim, teknoloji, sanat",
+  "support": [
+    "Öğrencilerin bilim, teknoloji ve sanatla ilgili merak ettikleri soruları sormaları için görsel ve işitsel materyallerle süreç desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden bilim, teknoloji ve sanatla ilgili merak ettikleri konulara yönelik sorular hazırlamaları ve bu soruların cevaplarını araştırmaları istenebilir. Bunun için akran öğretimi ve grup çalışmalarını destekleyen etkinliklere yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öğrencilerin bilim ve teknoloji hakkında edindikleri bilgiler yazdıkları öğrenme günlükleri ile oluşturdukları sanatsal ürünler ise bütüncül puanlama anahtarı ile değerlendirilebilir. Öğrencilerin sunuları kontrol listesi ile incelenebilir."
+  ],
+  "teachingApplications": [
+    "HB.1.6.1 Öğrencilerin bilimle ilgili merak ettiklerini sorabilmeleri ( SBAB2 , SBAB2.1.SB2) beklenir. Öğrencilerin bilime dikkatlerini çekmek ( E1.1 ) amacıyla balon roket, havalı parmaklar gibi deneyler yapılır. Öğrencilere bilimsel bir konu hakkında belgesel, deney videosu gibi eğitici içerikler izletilir ya da bir buluşun görseli verilir. Ardından öğrencilerden sunulan bilimsel konu hakkında merak ettiği soruları sorması beklenir. Bunun için sunulan konu, deney ya da ürünün oluşumu ile ilgili bir soru kutusu, soru turu gibi teknikler kullanılarak soru sormaları ( E3.8 ) istenir ( OB7.1 ). Öğrencilere deneyler ya da STEAM (Fen, Teknoloji, Mühendislik, Sanat ve Matematik) etkinlikleri yaptırılarak onların araştırmacı ve sorgulayıcı davranışlar geliştirmeleri ( D3.3 ) sağlanır. Süreç sonunda öğrencilerden konu ile ilgili merak ettikleri soruları ve ulaştıkları cevapları öğrenme günlüklerine yazmaları istenebilir.",
+    "HB.1.6.2 Öğrencilerden teknoloji ile ilgili merak ettiklerini sorabilmeleri ( SBAB2 , SBAB2.1.SB2) beklenir. Öğrencilerin teknolojik gelişmelere ve ürünlere dikkatlerini çekmek ( E1.1 ) amacıyla örnekler verilir. Öğrencilere teknolojik bir gelişme veya ürün hakkında belgesel, animasyon, video gibi eğitici içerikler izletilir. Öğrencilerden eğitim, ulaşım, iletişim ve sağlık alanlarında kullanılan teknolojiler hakkında soru sormaları beklenir. Bunun için akvaryum, mektup/ telgraf gibi teknikler kullanılarak öğrencilerin konu ile ilgili soru sormaları ( E3.8 ) sağlanır ( OB7.1 ). Öğrencilere STEAM (Fen, Teknoloji, Mühendislik, Sanat ve Matematik) etkinlikleri yaptırılarak onların araştırmacı ve sorgulayıcı davranışlar geliştirmeleri ( D3.3 ) sağlanır. Bu süreçte öğrencilere teknolojinin amaca uygun ve güvenli kullanımına yönelik hatırlatmalar yapılır. Genel ağ ortamında yapılan paylaşımların kalıcı olduğunu fark etmeleri sağlanır. Süreç sonunda öğrencilerden konu ile ilgili merak ettikleri soruları ve ulaştıkları cevapları öğrenme günlüklerine yazmaları istenebilir.",
+    "HB.1.6.3 Öğrencilerden sanatla ilgili merak ettiklerini sorabilmeleri ( SBAB2 , SBAB2.1.SB2) beklenir. Öğrencilerin sanata dikkatlerini çekmek ( E1.1 ) için müzik, resim, tiyatro, ebru gibi farklı sanat dallarına ait eserlerden örnekler sunulur. Öğrencilerden sunulan örnekler hakkında sanatla ilgili soru sormaları beklenir ( E3.8 ). S TEAM (Fen, Teknoloji, Mühendislik, Sanat ve Matematik) etkinliklerinden yararlanılarak öğrencilerden kil, oyun hamuru, blok, boya, fırça gibi malzemelerle veya müzik aletleri ile sanatsal bir ürün oluşturmaları ve bu ürünleri sunmaları sağlanır ( D7.2 ). Süreç sonunda öğrencilerden konu ile ilgili merak ettikleri soruları ve ulaştıkları cevapları öğrenme günlüklerine yazmaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB7.1"
+    ],
+    "diger": [
+      "SBAB2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/127"
+}

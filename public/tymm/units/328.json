@@ -1,0 +1,79 @@
+{
+  "unitId": 328,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Hayat Bilgisi Dersi",
+  "title": "6. ÖĞRENME ALANI: BİLİM, TEKNOLOJİ VE SANAT",
+  "hours": "13",
+  "description": "Bu öğrenme alanının içeriğini; bilimsel ve teknolojik gelişmelerin insan hayatına etkisi, sanatçıların sanata katkıları oluşturmaktadır. Bu doğrultuda öğrencilerin bilimsel ve teknolojik gelişmelerin günlük yaşama etkisini anlamaları, sanatçıların sanata katkılarına yönelik verilen kaynaklardan bilgi toplamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "HB.3.6.1",
+      "title": "Bilimsel gelişmelerin günlük yaşama etkisini yorumlayabilme",
+      "processComponents": [
+        "a) Bilimsel gelişmelerin günlük yaşama etkisini inceler.",
+        "b) Bilimsel gelişmelerin günlük yaşama etkisini ifade eder."
+      ]
+    },
+    {
+      "code": "HB.3.6.2",
+      "title": "Teknolojik gelişmelerin günlük yaşama etkisini çözümleyebilme",
+      "processComponents": [
+        "a) Teknolojik gelişmelerin günlük yaşama etkisini belirler.",
+        "b) Teknolojik gelişmelerle günlük yaşam arasında ilişki kurar."
+      ]
+    },
+    {
+      "code": "HB.3.6.3",
+      "title": "Sanatçıların sanata katkılarına yönelik verilen kaynaklardan bilgi toplayabilme",
+      "processComponents": [
+        "a) Sanatçıların sanata katkılarına yönelik bilgileri bulur.",
+        "b) Sanatçıların sanata katkılarına yönelik bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "bilim, teknoloji, sanat",
+  "support": [
+    "Öğrencilerin bilimsel ve teknolojik gelişmelerin insan hayatına etkisini yorumlayabilmeleri için görsel ve işitsel materyaller kullanılabilir. Resim çizme, şarkı söyleme gibi sanatsal çalışmalar yaptırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden bilimsel ve teknolojik gelişmelerin insan hayatına etkisine ilişkin çocuk dergilerini incelemeleri, sanatın günlük yaşamdaki örneklerini araştırmaları istenebilir. Bilimsel bilginin değişmesi ve gelişmesinin teknolojiyi ve insanlığı nasıl etkilediğine yönelik somut örnekler üzerinden paylaşımlar yapmaları istenebilir. Öğrencilerin ilgi duydukları sanat dallarını araştırmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; yapılandırılmış grid, portfolyo, performans görevi, dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerden hazırlayacakları görsel kavram haritası, kolaj, broşür gibi ürünler dereceli puanlama anahtarı ile değerlendirilebilir. Bütüncül değerlendirme için tüm öğrenme çıktılarından oluşan bir izleme testi uygulanabilir."
+  ],
+  "teachingApplications": [
+    "HB.3.6.1. Öğrencilerden bilimsel gelişmelerin günlük yaşama etkisini yorumlayabilmeleri ( KB2.14 ) beklenir. Bunun için bilimsel gelişmelerin günlük yaşama etkisini (a) incelemeleri istenir. Geçmişte tedavisi olmadığı düşünülen birçok hastalığın günümüzde tedavisinin bulunması, afetlere karşı erken uyarı sistemleri gibi bilimsel gelişmelere örnekler verilir. Bu bilimsel çalışmaları yürüten kişilerin amaçlarının toplumsal sorunların çözümünde sorumluluk üstlenerek toplumsal gelişime katkı sağlamak ( D16.2 ) olduğu vurgulanır. Bilimsel gelişmelerin insan hayatına etkileri hakkında öğrencilere kitap, dergi, afiş gibi çeşitli kaynaklardan bilgiler sunulur. Öğrenciler bilimsel gelişmelerin insan hayatına etkisi ile ilgili soru sormaları ( E3.8 ) teşvik edilir. Öğrencilerden bilimsel gelişmelerin günlük yaşama etkisini ifade etmeleri (b) istenir ( OB1 ). Bunun için küçük gruplar hâlinde çalışarak istasyon, öğrenme galerisi gibi tekniklerle ulaştıkları bilgileri ürüne dönüştürmeleri istenir ( SDB2.2 , SDB2.2.SB2). Bu süreçte öğrencilerin aktif rol almaları ( D3.4 ) sağlanır. Her grup kendi çalışmasını sınıfta bir alanda sergiler ve diğer grupların çalışmalarını inceler. Grupların çalışmaları dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "HB.3.6.2 Öğrencilerden teknolojik gelişmelerin günlük yaşama etkisini çözümleyebilmeleri ( KB2.4 ) beklenir. Teknolojik gelişmelerin günlük yaşama etkisini belirlemeleri (a) istenir. Bu aşamada eğitim, ulaşım, iletişim vb. alanlarda kullanılan teknolojik gelişmeler animasyon, afiş, broşür, kamu spotu gibi farklı yollarla sunulur. Öğrencilerin teknolojik gelişmelerle günlük yaşam arasında ilişki kurmaları (b) beklenir ( OB2 ). Öğrencilerden akvaryum, düşüntartış-paylaş gibi teknikler kullanarak teknolojik gelişmelerle insan hayatı arasında ilişki kurmaları ( SDB2.1 , SDB2.1.SB2 ) istenir. Teknolojik araçları kullanırken kullanım amacı ve süresine dikkat edilmesi gerektiğine vurgu yapılır ( D13.3 ). Dijital ayak izi kavramına değinilir. Kurdukları ilişkileri görsel kavram haritası, kolaj, broşür gibi bir çalışma ile anlatmaları istenir. Öğrencilerin hazırladıkları ürünler portfolyolarına dâhil edilir.",
+    "HB.3.6.3 Öğrencilerden sanatçıların sanata katkılarına yönelik verilen kaynaklardan bilgi toplayabilmeleri ( SBAB2 , SBAB2.2.SB1, SBAB2.2.SB3) beklenir. Bunun için sanatçıların sanata katkılarına yönelik verilen kaynaklardan bilgileri bulmaları (a) istenir. Muzaffer Sarısözen, Afife Jale, Neşet Ertaş, Barış Manço, Vincent Van Gogh (Vinsınt Van Gog), Leonardo Da Vinci (Leonardo Da Vinci) gibi sanatçıların sanata olan katkılarına yönelik bilgilendirici metin, animasyon, belgesel vb. eğitici içerikler sunularak öğrencilerden sunulan içerikle ilgili çıkarımlarını paylaşmaları istenir ( OB1 , OB2 ). Öğrencilerden yaşadığı çevredeki sanat eserlerini tanımaları ( D7.1 ) beklenir. Sanat ve kültür alanında ülkesini temsil edenleri takdir etmeleri ( D19.2 ) gerektiği üzerinde durulur. Öğrencilerin sanatçıların sanata katkılarına yönelik bilgileri kaydetmeleri (b) beklenir. Öğrencilerden topladığı bilgileri kullanarak sanatçıların sanata katkılarını anlatan poster, sunum gibi bir ürün oluşturmaları istenir ( OB9 ). Ürünler, ürün değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.3",
+      "D16.2",
+      "D19.2",
+      "D3.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB9"
+    ],
+    "diger": [
+      "SBAB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/328"
+}

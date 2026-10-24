@@ -1,0 +1,36 @@
+{
+  "unitId": 98032404,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "4. ÖĞRENME ALANI: DÜZENLİ FİZİKSEL ETKİNLİK",
+  "hours": "5",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BE.8.2.1.1",
+      "title": "Fiziksel etkinliklere katılımı alışkanlık hâline getirir",
+      "processComponents": [
+        "Okul içi ve dışında vücut kompozisyonu, kalp-dolaşım sistemi dayanıklılığı, kas kuvveti ve dayanıklılığı ve esnekliğini geliştirecek fiziksel etkinliklere düzenli katılımın önemi vurgulanır.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.1.2",
+      "title": "Yakın çevresindeki spor imkânlarını etkili kullanır",
+      "processComponents": [
+        "Okul dışında fiziksel etkinlik yapacağı ortamları veya kurumları tanıma ve etkili kullanmanın önemi vurgulanır.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Aktif ve Sağlıklı Hayat",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf"
+}

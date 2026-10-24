@@ -1,0 +1,39 @@
+{
+  "unitId": 81424013,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "13. ÜNİTE: KEMAN - YAY TEKNİKLERİ",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.2.3.1",
+      "title": "Detaşe çalma tekniğini etütlerde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.2.3.2",
+      "title": "Detaşe çalma tekniğini eserlerde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.2.3.3",
+      "title": "Legato çalma tekniğini etütlerde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.2.3.4",
+      "title": "Legato çalma tekniğini eserlerde uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

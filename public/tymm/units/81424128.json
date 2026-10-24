@@ -1,0 +1,38 @@
+{
+  "unitId": 81424128,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "128. ÜNİTE: EBRU - EBRU SANATINDA HATİP FORMLARI",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.3.5.1",
+      "title": "Hatip ebru için zemin ebru uygular",
+      "processComponents": [
+        "Zemin için tek renk hafif ebru çalışması yapması sağlanır."
+      ]
+    },
+    {
+      "code": "GTSA.3.5.2",
+      "title": "Hatip ebrusu için boya ayarlarını yapar",
+      "processComponents": [
+        "Hatip ebru desenlerinden yürek, çarkıfelek, yıldız ve yonca desenleri uygulamalı olarak gösterilir."
+      ]
+    },
+    {
+      "code": "GTSA.3.5.3",
+      "title": "Hatip ebru çeşitlerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

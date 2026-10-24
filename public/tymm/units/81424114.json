@@ -1,0 +1,52 @@
+{
+  "unitId": 81424114,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "114. ÜNİTE: HÜSNÜHAT - HAT SANATI ESERLERİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.1.3.1",
+      "title": "Bilişim araçlarını kullanarak Hüsnühat sanatının eserlerini ifade eder",
+      "processComponents": [
+        "Yazma Mushaf örneklerinin baskı veya fotoğraf örnekleri gösterilir."
+      ]
+    },
+    {
+      "code": "GTSA.1.3.2",
+      "title": "Hat yazısı türleriyle yazılmış İslami eserlere örnekler verir",
+      "processComponents": [
+        "Hattatların içinde özellikle Mushaf yazanlar belirtilir."
+      ]
+    },
+    {
+      "code": "GTSA.1.3.3",
+      "title": "Hat sanatının Kur'an-ı Kerim'i en güzel yazma gayesiyle geliştiğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.3.4",
+      "title": "Camilerdeki hat eserlerinin neler olduğunu açıklar",
+      "processComponents": [
+        "Tarihî eserler üzerindeki kitabelerden örnekler verilir."
+      ]
+    },
+    {
+      "code": "GTSA.1.3.5",
+      "title": "Camilerdeki hat eserlerinin yazı çeşitlerini ifade eder",
+      "processComponents": [
+        "Camilerdeki hat eserlerinin yazı çeşitleri gösterilerek açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

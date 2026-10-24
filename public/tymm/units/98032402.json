@@ -1,0 +1,101 @@
+{
+  "unitId": 98032402,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "2. ÖĞRENME ALANI: HAREKET KAVRAMLARI, İLKELERİ VE İLGİLİ HAYAT BECERİLERİ",
+  "hours": "29",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BE.8.1.2.1",
+      "title": "Spor dallarına özgü kavramları açıklar",
+      "processComponents": [
+        "Spor dallarına özgü teknik, saha, ekipman gibi kavramlar ele alınır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.2",
+      "title": "Spor becerilerinin hareket evrelerini analiz eder",
+      "processComponents": [
+        "Spor dallarını meydana getiren temel beceriler ve tekniklerin evreleri (hazırlık, uygulama ve bitiriş) vurgulanır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.3",
+      "title": "Spor dallarına ait oyun kurallarını bilir",
+      "processComponents": [
+        "Çeşitli spor dallarına ait oyun kuralları ele alınır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.4",
+      "title": "Spor ortamlarında yaşadığı stresli durumlarla başa çıkma yollarını söyler",
+      "processComponents": [
+        "Öğrencilerin spor ve fiziksel etkinliklerde stresli durumlarla karşılaştıklarında, hangi başa çıkma yollarını (nefes egzersizleri, gevşeme egzersizleri, otojen çalışmalar, zihinsel stratejiler, psikolojik yardım stratejileri vb.) kullandıkları ve bunların etkilerini açıklamaları sağlanır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.5",
+      "title": "Spor ortamlarında sorumluluk alır",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.6",
+      "title": "Spor ortamında iletişim yollarını etkili olarak kullanır",
+      "processComponents": [
+        "Sözlü, sözsüz ve yazılı iletişim yollarını kullanma üzerinde durulur.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.7",
+      "title": "Sporda takım hedeflerine ulaşmak için iş birliği yapar",
+      "processComponents": []
+    },
+    {
+      "code": "BE.8.1.2.8",
+      "title": "Adil oyun anlayışına uygun davranmayı alışkanlık hâline getirir",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.9",
+      "title": "Spor dallarına katılımı artıracak liderlik becerileri gösterir",
+      "processComponents": [
+        "Öğrencilerin spor ve fiziksel etkinlik ortamlarında liderlik becerileri (ikna etme, etkili iletişim, oyun lideri/oyun koordinatörü olma, sabırlı olma, kararları arkadaşları ile birlikte alma vb.) göstermelerine fırsat verilmelidir."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.10",
+      "title": "Spor ve etkinliklere katılımda bireysel farklılığı olanlarla çalışmaya değer verir",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.11",
+      "title": "Katıldığı spor dallarında performansına yönelik öz değerlendirme yapar",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.1.2.12",
+      "title": "Beden eğitimi ve spor alanı ile ilgili meslekleri araştırır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Hareket Yetkinliği",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf"
+}

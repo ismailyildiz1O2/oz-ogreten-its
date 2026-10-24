@@ -1,0 +1,37 @@
+{
+  "unitId": 56,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "1. ÜNİTE: COĞRAFYANIN DOĞASI",
+  "hours": "4",
+  "description": "Bu ünitede coğrafyanın konum, zaman, mekân, hareket, bölge, sürdürülebilirlik gibi temel kavramları çerçevesinde örnek olay, olgu veya mekândan yararlanılarak coğrafi bakış açısı kazandırılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.10.1.1",
+      "title": "Örnek olay, olgu ve/veya mekânı coğrafyanın temel kavramları ile ilişkilendirebilme",
+      "processComponents": [
+        "a) Örnek olay, olgu ve/veya mekânın harita üzerindeki konumunu algılar.",
+        "b) Örnek olay, olgu ve/veya mekânın temel coğrafi koşullarını tanımlar.",
+        "c) Örnek olay, olgu ve/veya mekânın yakın ve uzak çevresiyle olan ilişkilerini çözümler.",
+        "ç) Örnek olay, olgu ve/veya mekânın aynı çevrede bulunan diğer olay, olgu veya mekânlar üzerindeki etkisini sorgular."
+      ]
+    }
+  ],
+  "keyConcepts": "coğrafi bakış, dağılış, değişim, hareket, konum, mekân, zaman",
+  "support": [
+    "Öğrencilerin öğrenme düzeylerine göre bireyselleştirilmiş çalışma yaprakları hazırlanabilir. Performans görevi, coğrafi bakış açısıyla hazırlanmış bir çalışmanın incelenmesi ve bu çalışmadaki coğrafi kavramların nasıl kullanıldığını kapsayan bir sunum şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere *bilimsel araştırma yöntemlerini kullanarak belirledikleri coğrafi bir konuda araştırma görevi verilebilir. Öğrencilerden araştırma sonuçlarını afiş hâline getirerek okul sergisinde sunması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı; açık uçlu sorular, performans görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden merak ettikleri bir coğrafi olay, olgu veya mekâna yönelik coğrafi bakışı yansıtan kısa bir makale/rapor yazmaları istenebilir. Performans görevi; konum ve ilişki belirleme, etki sorgulama ve makale/rapor yazma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.10.1.1",
+    "Örnek olay, olgu ve/veya mekânın coğrafyanın temel kavramlarıyla ilişkilendirilmesi sürecinde örnek olay inceleme yöntemi kullanılabilir. Öğrencilerden belirlenen örnek olaylardan birini seçmeleri istenir. Seçilen örnek olay üzerinden öğrencilere \"Ne?\", \"Nerede?\", \"Ne zaman?\", \"Neden orada?\", \"Neden önemli?\", \"Bulunduğu ortamın özellikleri neler?\", \"Doğal ve beşerî ortamlarla nasıl bir ilişkisi var?\" gibi sorularla coğrafya biliminin olay, olgu ve mekânları ele alma biçimi anlatılır. Seçilen konuyla ilişkili mekânın konumu harita üzerinden belirlenir, coğrafi koşulları tanımlanır, ilgili konunun doğal ve beşerî ortamla ilişkileri belirlenerek ortamda meydana getirdiği etki sorgulanır ( SBAB11.2, SBAB10.3, OB1 ). Seçilen örnek olay, coğrafi argüman ve coğrafi temsillerle ilişkilendirilerek paylaşılır. Bu süreçte öğrencilere coğrafi bakış açısı kazandırılır (E1.1, E3.7, E3.8) . Öğrenmeler, açık uçlu sorularla izlenebilir. İlgili örnek olay, coğrafyanın temel kavramlarıyla ilişkilendirilirken öğrencilerin grup içi iş birliği yapması ve düşüncelerini açık fikirlilikle ifade etmesi için tartışma yöntemi uygulanabilir ( SDB2.1, SDB2.2, E3.5, KB3.3) . Coğrafi bakış açısı kazandırılırken millî, manevi, insani ve kültürel değerleri koruma; onlara saygı duyma, bağımsızlığa önem verme; ülkesine karşı vefalı, dürüst, sadık ve özverili olma; barışçıl bir anlayışla hareket etme, misafirperver olma, doğaya ve bütün canlılara karşı merhametli davranma gibi davranışların önemi üzerinde durulur ( D9.3, D15.1, D15.5, D19.3, D19.4). Bu ünitede performans görevi olarak öğrencilerden merak ettikleri bir coğrafi olay, olgu veya mekâna yönelik coğrafi bakışı yansıtan kısa bir makale/rapor yazmaları istenebilir. Performans görevi; analitik dereceli puanlama anahtarı, öz ve grup değerlendirme formlarıyla değerlendirilebilir (SDB1.2)."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/56"
+}

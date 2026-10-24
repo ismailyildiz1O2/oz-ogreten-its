@@ -1,0 +1,63 @@
+{
+  "unitId": 606,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "3. TEMA: SPOR KÜLTÜRÜ",
+  "hours": "6",
+  "description": "Öğrencilerin sporda adil oyuna uygun hareket edebilmeleri, millî spor politikalarının Türk sporuna etkisine ilişkin bakış açısı geliştirebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.10.3.1",
+      "title": "Sporda adil oyun anlayışına uygun hareket edebilme",
+      "processComponents": [
+        "a) Sporda adil oyun anlayışını açıklar.",
+        "b) Sporda adil oyun anlayışına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BES.10.3.2",
+      "title": "Millî spor politikalarının Türk sporuna etkisini yorumlayabilme",
+      "processComponents": [
+        "a) Millî spor politikalarının Türk sporuna etkisini inceler.",
+        "b) Millî spor politikalarının Türk sporuna etkisini bağlamdan kopmadan yazılı veya görsel biçimlere dönüştürür.",
+        "c) Millî spor politikalarının Türk sporuna etkisini özgün bir şekilde ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "spor politikası",
+  "support": [
+    "Bir müsabaka izleyerek adil oyun anlayışına uygun davranışları tespit etmesi istenebilir. Öğretmen veya akran desteğiyle Türk spor politikasını oluşturan ögeleri listelemeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden adil oyun anlayışına örnek gösterebilecekleri kısa bir film, video çekmeleri istenebilir. Türk spor politikalarını seçtiği bir ülkenin spor politikalarıyla karşılaştırmasına yönelik araştırma yapması istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; öz değerlendirme, dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir.",
+    "Öğrencilerin müsabaka esnasındaki adil oyuna uygun davranışları öz değerlendirme formu ile değerlendirilebilir.",
+    "Millî spor politikalarının Türk sporunun gelişimine etkisine yönelik afiş hazırlayıp, sunmaları performans görevi olarak verilebilir. Performans görevi dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.10.3.1. \"Bir spor faaliyetine katılmadaki en önemli amacınız nedir?\", \"Adil oyun anlayışına uygun davranışlar neler olabilir?\" vb. sorular sorulabilir. Öğrencilerin cevaplardan hareketle beyin fırtınası yoluyla adil oyun anlayışını açıklamaları sağlanır. Voleybolda fileye temas, çizgiye basma, çift vuruş vb. pozisyonlarda hakemin doğru karar vermesine yardımcı olan sporcuların yeşil kart ile ödüllendirildiği belirtilir. Öğrenciler, sınıf mevcuduna göre altışar kişilik voleybol takımlarına ayrılır. Kura çekilerek müsabaka başlatılır. Gönüllü öğrenciler arasından seçilenler yardımcı hakem olarak görevlendirilerek sorumluluk almaları sağlanır ( D3.4 ). Takımlar, belirlenen sürelerde müsabaka yapar ( SDB2.2 ). Müsabaka esnasında adil oyuna uygun davranış gösteren öğrencilere yeşil kart verilir ve kartlar çizelgeye işlenir ( E3.4 ., D9.1 ). Müsabakada doğru karar verme noktasında hakeme yardımcı olan öğrencilerin duygularını paylaşmaları istenir ( SDB1.1 , D1.2 ). Müsabakalar sonunda adil oyun anlayışına uygun davranışlar göstererek en çok yeşil kart alan öğrenci/öğrenciler günün yeşil kartlı öğrencisi olarak okul panosunda sergilenir. Öğrencilerin müsabaka esnasındaki davranışları öz değerlendirme formu ile değerlendirilebilir.",
+    "BES.10.3.2. Öğrenciler gruplara ayrılır. Verilen birincil veya ikincil kaynaklar üzerinden Cumhuriyet öncesi (1860-1922) ve sonrası spor politikalarını; Türkiye İdman Cemiyetleri İttifakı Dönemi (1922- 1936), Türkiye Spor Kurumu Dönemi (1936-1938), Türk Spor Yönetiminde Geçiş Dönemi (1938-2011), Gençlik ve Spor Bakanlığı Dönemini (2011 ve günümüz) incelemeleri istenir ( OB6 ). Gruplardan Cumhuriyet öncesi ve sonrası dönemde uygulanan spor politikalarının Türk sporunun gelişimine etkisini tartışarak bu husustaki düşüncelerini diğer gruplarla paylaşmaları istenir ( SDB2.2 , D19.2 ). Millî spor politikalarının Türk sporunun gelişimine etkisine yönelik özgün bir afiş hazırlamaları ve hazırladıkları afişleri sınıfla paylaşmaları performans görevi olarak verilebilir. Hazırlanan afişler dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D19.2",
+      "D3.4",
+      "D9.1"
+    ],
+    "egilim": [
+      "E3.4"
+    ],
+    "okuryazarlik": [
+      "OB6"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/606"
+}

@@ -1,0 +1,51 @@
+{
+  "unitId": 1219,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "3. TEMA: NEYDE İKİNCİ VE ÜÇÜNCÜ KADEME SES ALANINDA ANA SESLERDEN OLUŞAN ESERLER",
+  "hours": "17",
+  "description": "Temanın içeriğini neyde ikinci ve üçüncü kademe ses alanında yer alan ana seslerden (rast, dügâh, buselik, çargâh, açık neva, hüseyni, acem, açık gerdaniye ve açık muhayyer) oluşan Türk müziği eserlerini çalabilme oluşturmaktadır. Bu doğrultuda neyde ikinci ve üçüncü kademede ses alanında yer alan ana seslerden oluşan eserleri çalabilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.4.3.1",
+      "title": "İkinci ve üçüncü kademe ses alanındaki ana seslerden oluşan Türk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) İkinci ve üçüncü kademe ses alanındaki ana seslerden oluşan Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak ikinci ve üçüncü kademe ses alanındaki ana seslerden oluşan Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ana sesler, ney, nota, ritim, süre",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Bu süreçte etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Bu süreçte etütler metronom aleti ile hızlandırılarak çalınabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin neyde ikinci ve üçüncü kademe ses alanında kendi melodilerini oluşturup sunmaları istenebilir. Performans görevi gözlem formu veya analitik dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "NEY.4.3.1",
+    "Öğretmen tarafından neyde ikinci ve üçüncü kademe ses alanındaki ana seslerden oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Seslendireceği Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek öğrencilerin odaklanıp kendi cümleleriyle yorumlamaları sağlanır (OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde ikinci ve üçüncü kademede ana seslerden oluşan eserleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. İkinci ve üçüncü kademede yer alan ana seslerin belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrenciler gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 , KB2.2 ). Süreç sonunda performans görevi olarak öğrencilerin neyde ikinci ve üçüncü kademe ses alanında kendi melodilerini oluşturup sunmaları istenebilir. Performans görevi gözlem formu veya analitik dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1219"
+}

@@ -1,0 +1,48 @@
+{
+  "unitId": 94031802,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "2. ÜNİTE: İSLAM’I TANIYALIM",
+  "hours": "16",
+  "description": "Bu ünitede sırasıyla; “İslam’ın İnanç Esasları”, “İslam’ın Şartları”, “Kur’an-ı Kerim”, “Bir Dua Tanıyorum: Âmentü Duası ve Anlamı” konularına yer verilir. Ünite genelinde konular, günlük hayattan ve öğrencilerin somut deneyimlerinden hareketle ayet ve hadislerden örneklerle ele alınır.",
+  "outcomes": [
+    {
+      "code": "DKAB.4.2.1",
+      "title": "İslam’ın inanç esaslarını sıralar",
+      "processComponents": [
+        "İslam’ın altı inanç esası, öğrenci seviyesi dikkate alınarak ayrıntıya girilmeden açıklanır."
+      ]
+    },
+    {
+      "code": "DKAB.4.2.2",
+      "title": "İslam’ın şartlarını söyler",
+      "processComponents": [
+        "İslam’ın beş şartı, öğrenci seviyesi dikkate alınarak ayrıntıya girilmeden açıklanır."
+      ]
+    },
+    {
+      "code": "DKAB.4.2.3",
+      "title": "Kur’an-ı Kerim’in iç düzeni ile ilgili kavramları tanımlar",
+      "processComponents": [
+        "Kazanım; “Kur’an-ı Kerim, ayet, sure, cüz” kavramları ile sınırlandırılır."
+      ]
+    },
+    {
+      "code": "DKAB.4.2.4",
+      "title": "Âmentü duasını okur, anlamını söyler",
+      "processComponents": [
+        "Âmentü duası ile ilgili kısa açıklamalara yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf"
+}

@@ -1,0 +1,77 @@
+{
+  "unitId": 62,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "9. ÜNİTE: BİLİM FELSEFESİ",
+  "hours": "6",
+  "description": "Bu ünitede öğrencilerin bilim felsefesinin temel kavram, konu ve problemlerini açıklayarak bu alandaki düşünce ve argümanlar üzerine felsefi muhakeme yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.9.1",
+      "title": "Bilim felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme",
+      "processComponents": [
+        "a) Bilim felsefesinin konusunu ve temel kavramlarını açıklar.",
+        "b) Bilim felsefesinin temel problemlerini açıklar.",
+        "c) Bilim felsefesinin temel problemlerine yönelik düşünce ve argümanları değerlendirir.",
+        "ç) Bilim felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceler."
+      ]
+    }
+  ],
+  "keyConcepts": "bilim, bilimsel yöntem, gözlem, hipotez, kuram, paradigma, yasa",
+  "support": [
+    "Bilim felsefesinin konusu ve temel kavramlarına yönelik kavram yanılgılarını tespit etmek ve gidermek için bilgi görseli kullanılabilir.",
+    "Bilim felsefesinin temel problemlerine yönelik öğrenme-öğretme uygulamalarında akran destekli öğrenmeden yararlanılabilir.",
+    "Sadeleştirilmiş bir metin üzerinden bilim felsefesinin temel problemlerine yönelik düşünce ve argümanlar gruplar hâlinde değerlendirilebilir."
+  ],
+  "enrichment": [
+    "Sosyal bilimlerde yöntem tartışmaları bağlamında hermeneutik yöntem araştırılabilir. Sosyal bilimler perspektifinden \"determinizm\" ilkesi ve bu ilkenin insan özgürlüğüyle ilişkisi tartışılabilir.",
+    "R. Carnap'ın \"bilim ve bilim olmayan\" görüşü değerlendirebilir.",
+    "Ş.Teoman Duralı'nın biyoloji felsefesi temelinde insanın biyolojik ve kültürel boyutları hakkındaki görüşleri araştırılabilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktısı; çalışma kağıdı, açık uçlu sorular, ve performans görevi ile değerlendirilebilir. Performans görevi: Öğrenciler bilim felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek metin inceleme formunu doldurmaları istenebilir. Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin, argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi ve eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.9.1",
+    "Öğrencilerin bilim felsefesinin konusu ve temel kavramlarını açıklamaları amaçlanır. Bunun için;.",
+    "• Öğrencilere bilim tarihinin önemli deneyleri (İbnülheysem'in Karanlık Oda deneyi, Takiyüddin'in optik deneyi ve Asch'ın uyma deneyi) üzerinden bilimin konusunu, amacını ve yöntemini açığa çıkarmalarını sağlayacak sorular sorulur ( E1.1 ). Öğrencilerin bilim felsefesinin konusunun ne olduğu hakkında tartışması sağlanır (KB2.18). Tartışmada öğrencilerden bilim felsefesinin temel kavramlarını (bilim, bilimsel yöntem, gözlem, hipotez, kuram, paradigma, yasa) belirlemeleri ve ortaya çıkan kavramların anlamlarını kendi cümleleriyle ifade etmeleri istenir ( OB1 , KB2.4 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "Öğrencilerin bilim felsefesinin temel problemlerini (bilimin ne olduğu ve bilimi oluşturan unsurlar) açıklamaları ve bu problemlere yönelik düşünce ve argümanları değerlendirmeleri amaçlanır. Bunun için;",
+    "• Öğrencilere içinde bilim olan ve bilim olmayanların bulunduğu bilgi alanları karışık olarak verilir ve onlardan bu bilgi alanlarını bilim ve bilim olmayan olarak sınıflamaları istenir ( KB2.7 ). Öğrencilerin sınıflama için neleri ölçüt aldıkları, sınıflamada zorlandıkları bilgi alanlarının neler olduğu ve neden zorlandıkları üzerine tartışmaları sağlanır ( KB2.18 ). Tartışmada öğrencilere iletişime açık olmaları gerektiği hatırlatılarak onlardan etkin dinleme yapmaları, not tutmaları, duygu ve düşüncelerini sözlü ya da yazılı olarak açıklamaları, anlaşılamayan konular için sorular sormaları ve gelen soruları iletişimi zenginleştirecek biçimde yanıtlamaları istenir ( SDB2.1 , D14.1 ). Ardından klasik ve çağdaş bilim anlayışlarının temel düşünce ve argümanlarını açıklayan bilgi görseli verilir, öğrencilerin iş birlikli olarak bu iki bilim anlayışının benzer ve farklı yönlerini karşılaştırarak değerlendirmeleri sağlanır ( E3.10 , SDB2.2 , KB3.3 ). Öğrencilerden değerlendirmelerini yansıtan bir poster hazırlamaları ve hazırladıkları posteri sınıfta sunmaları istenir ( OB4 ).",
+    "• Bilimi oluşturan unsurlar problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada \"Bilimler hangi yöntemleri kullanır?\" sorusu yöneltilir ve öğrencilerden bilimsel yöntemin ne olduğu hakkındaki düşüncelerini yazılı olarak açıklamaları istenir. Bu aşamada öğrencilerin bilimsel yöntemin aşamalarına yönelik akış diyagramı oluşturmaları sağlanır. Ardından R. Carnap, K. Popper ve T. S. Kuhn'un bilim anlayışlarına yönelik düşünce ve argümanları ifade eden bilgi görselleri verilerek öğrencilerden bu filozofların düşünce ve argümanlarının güçlü ve zayıf yanlarını karşılaştırıp değerlendirmeleri istenir ( OB1 , KB3.3 ). Süreçte öğrencilerden karşılaştırma tablosu veya soru-cevap kartları hazırlamaları istenir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "Öğrencilerin bilim felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları incelemeleri amaçlanır. Bu doğrultuda öğrencilere bir performans görevi verilir. Bunun için;",
+    "H. Reichenbach'ın Bilimsel Felsefenin Doğuşu,",
+    "- K. R. Popper'ın Bilimsel Araştırmaların Mantığı,",
+    "- Aydın Sayılı'nın Hayatta En Hakiki Mürşit İlimdir,",
+    "- T. S. Kuhn'un Bilimsel Devrimlerin Yapısı,",
+    "- F. Sezgin'in Bilim Tarihi Sohbetleri adlı eserlerinden kısaltılan veya alıntılanan metinler, öğrencilerin de görüşleri alınarak dengeli bir şekilde dağıtılır.",
+    "Öğrencilere bireysel ya da iş birlikli olarak metin inceleme formu doldurtulur ve çalışmalarını paylaşmaları sağlanır ( E3.7 ). Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin ve argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi, eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir.. Bu süreçte öğrenciler çeşitli fikir, argüman ve yeni bilgilere açık olur; görev ve sorumluluklarını etik ilkelere uygun bir şekilde zamanında yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.4",
+      "KB2.7",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/62"
+}

@@ -1,0 +1,36 @@
+{
+  "unitId": 81424162,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "162. ÜNİTE: HALK OYUNLARI - KARŞILAMA",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.3.1",
+      "title": "Karşılamanın çeşitlerini açıklar",
+      "processComponents": [
+        "Karşılama oyunlarının yörelere göre gösterdiği farklılıklar açıklanır."
+      ]
+    },
+    {
+      "code": "SSA.3.3.2",
+      "title": "Karşılamayı sınıflandırır",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.3.3",
+      "title": "Karşılama çeşitleri arasında ilişki kurar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

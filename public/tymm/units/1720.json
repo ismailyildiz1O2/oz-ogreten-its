@@ -1,0 +1,51 @@
+{
+  "unitId": 1720,
+  "grade": 0,
+  "gradeName": "TEMEL YAŞAM BECERİLERİ DERSİ I. DÜZEY",
+  "subject": "Temel Yaşam Becerileri Dersi",
+  "title": "DÜZEY I · 2. Öğrenme Alanı: Düzenli Bakım, Sağlıklı Yaşam",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TYB.1.2.1",
+      "title": "Günlük temizlik alışkanlıklarını sorgulayabilme",
+      "processComponents": [
+        "a) Günlük temizlik alışkanlıklarını tanımlar.",
+        "b) Günlük temizlik alışkanlıkları hakkında sorular sorar.",
+        "c) Günlük temizlik alışkanlıkları hakkında bilgi toplar.",
+        "ç) Günlük temizlik alışkanlıkları hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Günlük yaşam alışkanlıklarıyla ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TYB.1.2.2",
+      "title": "Günlük yaşamda sağlık ve hijyenle ilgili durumlara ilişkin bilimsel gözlem yapa bilme",
+      "processComponents": [
+        "a) Günlük yaşamda sağlık ve hijyenle ilgili durumlara ilişkin nitelikleri tanımlar.",
+        "b) Günlük yaşamda sağlık ve hijyenle ilgili durumlara ilişkin veri toplar ve kaydeder.",
+        "c) Günlük yaşamda sağlık ve hijyenle ilgili durumlara ilişkin topladığı verileri açıklar."
+      ]
+    },
+    {
+      "code": "TYB.1.2.3",
+      "title": "Beslenmenin vücut sağlığı üzerindeki etkilerine ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) Beslenmenin vücut sağlığı üzerindeki etkilerine ilişkin varsayımda bulunur.",
+        "b) Beslenmenin vücut sağlığı üzerindeki etkilerine ilişkin örüntüleri listeler.",
+        "c) Farklı beslenme durumlarını ve bunların vücut sağlığı üzerindeki etkilerini karşılaş tırır.",
+        "ç) Beslenmenin vücut sağlığı üzerindeki etkilerine ilişkin önerme sunar.",
+        "d) Beslenmenin vücut sağlığı üzerindeki etkilerine ilişkin ulaştığı çıkarımları değerlen dirir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "FBAB1. Bilimsel Gözlem"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1720"
+}

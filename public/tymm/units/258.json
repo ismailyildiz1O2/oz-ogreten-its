@@ -1,0 +1,36 @@
+{
+  "unitId": 258,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "1. ÜNİTE: COĞRAFYANIN DOĞASI",
+  "hours": "6",
+  "description": "Bu ünitede geleceğin dünyasında coğrafya biliminin etkilerine ilişkin öngörüde bulunulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.12.1.1",
+      "title": "Geleceğin dünyasında coğrafya biliminin etkilerine ilişkin öngörüde bulunabilme",
+      "processComponents": [
+        "a) Coğrafya bilimiyle ilgili kanıtları ve kendi deneyimlerini bu bilimin gelecekteki etkileriyle ilişkilendirir.",
+        "b) Coğrafya bilimiyle ilgili kanıtları ve kendi deneyimlerini bu bilimin gelecekteki etkileriyle ilişkilendirerek çıkarımda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "coğrafi bakış, coğrafi kanıt, coğrafya, kuantum teknolojileri, nesnelerin interneti, yapay zekâ, yeşil dönüşüm ve meslekler",
+  "support": [
+    "Öğrencilerden verilen özet metinlerle ilgili soru hazırlamaları istenebilir. Oluşturulan sorular tüm sınıfın katılımıyla cevaplanabilir. Performans görevi, coğrafya biliminin geleceğin dünyasına etkileriyle ilgili röportaj yapma ve bu yolla edinilen bilgileri sunma şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere \"Coğrafya biliminin çalışmalarına gelecekte yeni alanlar eklenmesi mümkün müdür?\" sorusundan hareketle bir araştırma yapma, araştırma sonuçlarını raporlayarak sunma görevi verilebilir. Bunun yanı sıra *Türk bilim heyetinin son yıllarda Antarktika'ya yaptığı seferler, Türkiye'nin uzayla ilgili araştırmaları ve yapay zekâ uygulamalarının coğrafya çalışmalarına etkisi konularında araştırma görevleri verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı; açık uçlu sorular, performans görevi, analitik dereceli puanlama anahtarı, öz ve grup değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden coğrafya biliminin gelecekteki fonksiyonlarına ilişkin konuşma metni, haber yazısı, poster vb. ürünler hazırlamaları istenebilir. Performans görevleri; bilgi toplama, çıkarım yapma ve içerik oluşturma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.12.1.1",
+    "Öğrencilerin geleceğin dünyasında coğrafya biliminin etkilerine ilişkin öngörülerini beyin fırtınası tekniğiyle ifade etmeleri, elde ettikleri fikirlerle coğrafi bilgi ve becerilere yönelik kanıtları ve kendi deneyimlerini bu bilimin gelecekteki etkileriyle ilişkilendirmeleri sağlanabilir (OB1). Coğrafyanın mekânsal sorunların çözümüne sunduğu katkılar üzerinden bu bilimin geleceğin dünyasındaki etkileriyle ilgili çıkarımlarda bulunulur. Bu süreçte coğrafi araştırmalarda kullanılan kuantum teknolojileri, yapay zekâ uygulamaları gibi gelişen teknolojiler dikkate alınabilir. Geleceğin dünyasında coğrafya biliminin etkileri ile ilgili özgün ürün ve fikirler üretilebilir (E3.3). Öğrencilere \"Coğrafya biliminin ilerleyen süreçte yapacağı çalışmalara yeni araştırma alanları eklenebilir mi?\" sorusu sorularak yuvarlak masa etkinliği yaptırılabilir ve yeni öğrenmelerin oluşmasına imkân sağlanabilir. Bu etkinlikte küçük gruplar oluşturulur ve gruptaki ilk öğrenciden geleceğin dünyasında coğrafya biliminin çalışmalarına eklenecek yeni bir alanı kâğıda yazması ve bu kâğıdı yanındaki arkadaşına vermesi istenir (D4.1). Kâğıdı alan öğrencinin de bir örnek eklemesiyle etkinliğe devam edilir. Gruptaki her öğrencinin kendi örneğini yazmasının ardından çalışma tamamlanır (KB3.3) . Yapılan çalışma, belirlenen bir öğrenci tarafından sunulabilir. Grupların örnekler üzerine tartışması sağlanabilir (SDB2.1, SDB2.2). G elecekte coğrafya biliminin daha fazla ilgi alanında yer alması beklenen konular (doğal kaynaklar, küresel iklim değişikliği, afetler, sürdürülebilir kalkınma, şehir planlaması, veri analizi vb.) bağlamında ortaya çıkabilecek mesleklerin coğrafyayla ilişkisi ele alınır. Bu ünitede performans görevi olarak öğrencilerden coğrafya biliminin geleceğin dünyasındaki etkilerine ilişkin konuşma metni, haber yazısı, poster vb. ürünler hazırlamaları istenebilir. Performans görevi; analitik dereceli puanlama anahtarı, öz ve akran değerlendirme formlarıyla değerlendirilebilir (SDB1.2) ."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/258"
+}

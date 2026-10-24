@@ -1,0 +1,47 @@
+{
+  "unitId": 81203007,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "7. ÜNİTE: TÜRK DÜNYASININ ORTAK MANEVİ VE KÜLTÜREL MİRASLARI",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.7.1",
+      "title": "Türk Halklarının ortak sözlü kültür ögelerini açıklar",
+      "processComponents": [
+        "Oğuz Kağan Destanı, Manas Destanı, Nasreddin Hoca Fıkralarından örnekler verilir."
+      ]
+    },
+    {
+      "code": "OTT.7.2",
+      "title": "Türk Halklarının ortak manevi değerlerini açıklar",
+      "processComponents": [
+        "Manevi değerler olarak Nevruz, On İki Hayvanlı Türk Takvimi ve halk oyunları ele alınır."
+      ]
+    },
+    {
+      "code": "OTT.7.3",
+      "title": "Türk Halklarının ortak maddi kültür ögelerini açıklar",
+      "processComponents": [
+        "Maddi kültür ögeleri olarak çadır, halı ve müzik aletleri ele alınır."
+      ]
+    },
+    {
+      "code": "OTT.7.4",
+      "title": "Türk Halklarının ortak millî oyunlarına örnekler verir",
+      "processComponents": [
+        "Güreş ve Kökbörü gibi oyunlar tanıtılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

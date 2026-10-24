@@ -1,0 +1,49 @@
+{
+  "unitId": 81361001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi (Lise)",
+  "title": "1. ÜNİTE: BİLİM, MÜHENDİSLİK VE MODELLEME",
+  "hours": "18",
+  "description": "Bu ünitede öğrenciler, bilimsel bilginin doğasını ve değerini, bilim ve mühendisliğin kullandığı yöntemler arası ilişkiyi ve bilimsel çalışmalarda modelleme sürecinin önemini kavrayacaklardır.",
+  "outcomes": [
+    {
+      "code": "PTU.1.1",
+      "title": "Bilimsel bilginin doğasını açıklar",
+      "processComponents": [
+        "Bilim ve teknoloji alanında insanlığı derinden etkilemiş olan gelişmeler araştırılır.",
+        "Bilimin amacı ve değerinin sorgulanması için bilim ve teknolojideki bazı gelişmelerin (Göbekli Tepe arkeolojik kazı çalışması, aşı geliştirme çalışmaları vs.) insanlığa olan etkileri tartışılır.",
+        "Öğrencilerin, bilim tarihindeki önemli çalışmalardan (fizik alanında İbni Heysem'in Karanlık Oda, mühendislik alanında El-Cezerî'nin Filli Su Saati Robotu, coğrafya alanında Pîrî Reis'in Dünya Haritası, matematik alanında El- Hârizmî'nin Denklem Çözme Yöntemi, psikoloji alanında Asch Uyma Deneyi, fizik alanında Michelson-Morley Deneyi, biyoloji alanında Mendelev'in Bağımsız Dağılım Kuralı vb.) hareketle bilimsel bilginin doğasına (deneysellik, mantıksallık, değişebilirlik, objektiflik, subjektiflik vb.) yönelik çıkarımlarda bulunmaları sağlanır.",
+        "Bilimsel bilginin hakikatle ilişkisi bağlamında doğruluğunun kesinliği tartışılır.",
+        "Bilgi alanlarından hangilerinin bilim, hangilerinin sahte bilim olduğu tartışılır.",
+        "Sergilenen ürünlerin geliştirilmesinde merak, hayal gücü ve yaratıcılığın önemi; bilimsel, teknolojik, mühendislik ve matematiksel çalışmaların sergilendiği festival, fuar ve yarışmalardan hareketle değerlendirilir.",
+        "Ülkemizin kalkınmasını destekleyen bilim ve teknoloji alanındaki çalışmaları araştırmanın ve yeni bilimsel çalışmalar yapmanın ülke sevgisinin bir yansıması olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "PTU.1.2",
+      "title": "Bilim ve mühendislikte kullanılan yöntemler arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Güncel çalışmalar üzerinden bilim ve mühendisliğin problemi tanımlama biçimleri ve çözme yöntemleri hakkında çalışmalar yaptırılır.",
+        "Sosyal yaşam ilişkilerinin yapı, karakteristik, tasarım, strateji, karar verme, rekabet etme, matematiksel davranış biçimleri gibi boyutlarına dayanan oyun ve organizasyon teorilerinin istatistik, iktisat, işletme, biyoloji, mühendislik, siyaset ve bilgisayar bilimlerindeki yeri ve öneminin değerlendirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "PTU.1.3",
+      "title": "Model ve modelleme sürecinin önemini açıklar",
+      "processComponents": [
+        "Bilimsel modelleme ile mühendislik ve sosyal bilimlerde kullanılan modelleme örnekleri araştırılır.",
+        "Bilimsel modelleme (istatiksel modelleme, kentsel modelleme, sembolik modelleme, yapısal eşitlik modellemesi, DNA modeli, yerin manyetik alan modeli vb.) ile mühendislikte kullanılan modelleme (biyomimetik) örneklerinden hareketle bilim ve mühendislikte modellemenin önemi tartışılır.",
+        "Üretim aşamalarında (otomotiv, tekstil, tarım, ticaret, eğitim, gıda, vb. sektörlerde) kullanılan prototiplerden hareketle araştırma sonuçlarına ve gözlemlerine dayalı olarak hızlı prototiplemenin modelleme sürecindeki önemine dair çıkarımlarda bulunulması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414435385-projetarasar%C4%B1m%C4%B1.pdf"
+}

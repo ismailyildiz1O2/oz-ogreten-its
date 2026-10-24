@@ -1,0 +1,94 @@
+{
+  "unitId": 688,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+  "hours": "34",
+  "description": "\"Yazılım Tasarımı ve Programlama” teması kapsamında öğrencilerin blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilmesi, blok tabanlı ortamda yazılım geliştirme sürecini yönetebilmesi ve blok tabanlı ortamda yapay zekâ destekli ürün ortaya konulması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.6.6.1",
+      "title": "Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+      "processComponents": [
+        "a) Blok tabanlı ortamında yazılım geliştirme süreci bileşenlerini tanır.",
+        "b) Blok tabanlı ortamda yazılım geliştirme süreci bileşenlerini kullanır.",
+        "c) Blok tabanlı ortamda yazılım geliştirme süreci bileşenlerini değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.6.6.2",
+      "title": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme",
+      "processComponents": [
+        "a) Blok tabanlı ortamda yazılım geliştirme sürecini planlar.",
+        "b) Blok tabanlı ortamda yazılımı tasarlar.",
+        "c) Blok tabanlı ortamda yazılımı oluşturur.",
+        "ç) Blok tabanlı ortamda oluşturulan yazılımı değerlendirir. BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme",
+        "a) Blok tabanlı ortamda yapay zekâ destekli ürün için gereksinimleri belirler.",
+        "b) Blok tabanlı ortamda yapay zekâ destekli ürün için kullanılacak araç gereçleri seçer.",
+        "c) Blok tabanlı ortamda yapay zekâ destekli ürün oluşturur.",
+        "ç) Blok tabanlı ortamda yapay zekâ destekli ürünü belirlenen ölçütleri karşılayacak şekilde çalışır hâle getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "blok tabanlı programlama, döngüler, fonksiyon, hata ayıklama, karakter hareketleri, koşul blokları, planlama, proje, sürükle-bırak, yapay zekâ, yapay zekâ bileşenleri",
+  "support": [
+    "Öğrencilere değişkenler, döngüler ve koşullar gibi temel programlama kavramlarını açıklamak için interaktif eğitim videoları, görsel materyaller veya web 2.0 uygulamaları kullanılabilir.",
+    "Öğrencilere rehberlik ederek tamamlayabilecekleri basit örnek projeler sunulabilir. Örneğin bir ışığın yanıp sönmesini sağlayan ya da bir karakterin hareket ettirilmesini içeren projeler etkili olabilir. Ayrıca adım adım talimatların yer aldığı PDF ya da dijital rehberler öğrencilerin kullanımına sunulabilir.",
+    "Alternatif ve daha kullanıcı dostu blok tabanlı araçlar önerilebilir. Ayrıca kullanımda takılan öğrenciler için rehber niteliğinde video materyaller hazırlanabilir.",
+    "Her öğrenciden bir blok ekleyerek küçük bir görev tamamlaması istenebilir. Örneğin bir karakterin ekranda hareket ettirilmesi gibi görevlerle uygulama kolaylaştırılabilir. Öğrencilerin sürece aktif katılım sağladığı ve öğrenme çıktıları kazandığı durumlar özel olarak takdir edilebilir. Ayrıca zorlanılan konuların açıklandığı ve öğrencilerin soru sorabileceği bir oturum düzenlenmesi faydalı olabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, yapay zekâ kullanan meslekleri araştırıp seçtikleri bir meslek üzerinden yapay zekânın o alandaki etkilerini bir sunum şeklinde hazırlamaları istenir.",
+    "Öğrencilerden yapay zekâ uygulamalarından birini seçmeleri; uygulamanın nasıl çalıştığını, faydalarını ve varsa dikkat edilmesi gereken yönlerini bir rapor hâlinde sunmaları istenebilir.",
+    "Yapay zekâya özel olarak geliştirilmiş açık veri setleri kullanılarak öğrencilerin basit bir sınıflandırma ya da öneri sistemi (örneğin hayvan türü tanıma, meyve sınıflandırma vb.) model denemeleri yapmaları ve yaptıkları model denemelerin sonuçlarını sunum hâline getirmeleri istenebilir.",
+    "Açık veri setleri kullanılarak bitki yapraklarının sınıflandırılması (sağlıklı / hastalıklı) üzerine basit bir model denemesi yapılabilir. Öğrenciler model sonuçlarını sınıfta sunarak tarımda yapay zekânın katkılarını tartışır.",
+    "Öğrencilerden, yapay zekâ destekli turist rehberi uygulamalarını araştırmaları (örneğin dil çeviri uygulamaları, yapay zekâ tabanlı öneri sistemleri, akıllı tur planlayıcılar) ve bunun turizm sektörüne etkilerini rapor hâline getirmeleri istenebilir.",
+    "Öğrencilerden verilen bir metin kümesi (öğrenci yorumları, kitap eleştirileri vb.) üzerinden duygu analizi yapan bir model tasarlayıp bu modeli bir görselleştirme aracı (örneğin grafik veya etiket bulutu) ile sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; kontrol listesi, gözlem formu, akran değerlendirme formu, rubrik ölçeği ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden blok tabanlı ortamda yapay zekâ destekli trafik yol işaretlerinin tanımlanmasını sağlayan bir proje yapılması istenebilir.",
+    "Performans görevi; bilimsel doğruluk, çeşitlilik, gereksiz bilgilerden arındırma, özgünlük ve tamamlanma süresi gibi ölçütler dikkate alınarak dereceleme ölçeği, puanlama anahtarı veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BTY.6.6.1.",
+    "Öğretmen, öğrencilerin sürükle-bırak yöntemiyle kodlama yapabildikleri ve etkileşimli hikâye ya da animasyon geliştirebildikleri blok tabanlı yazılım ortamını tanıtır. Bu ortamda önceden hazırlanmış rehberli modüller yerine öğrencilerin serbestçe keşif yapmalarına imkân tanındığı vurgulanır. Öğrencilerden aynı ortam üzerinde verilen doğrusal mantığa dayalı bir örnek yapması istenir. Öğretmen \"Çamaşır makinesine gerekli temizlik malzemeleri yerleştirip, kirli kıyafetler koyup çalıştırdığımızda ne olur?\" diye sorar. Öğretmen bu örnek ve verilen cevaplar doğrultusunda fonksiyon kavramının tanımını yapar. Öğrenciler anlamını değiştirmeyecek şekilde kendi cümleleri ile fonksiyon kavramını tanımlar ( OB1 , E2.1 ). Bu süreçte öğrenciler, verilen kodlama görevlerini tamamlamak, zamanında teslim etmek ve kodlama kurallarına uygun şekilde çalışmak gibi görev ve sorumluluklarını kuralına uygun olarak yerine getirir ( D6.1 ). Öğrenciler, küçük kartlarda yazılı olarak verilen program kodlarından fonksiyon bileşenini ayırt ederek tanır. Öğrencilerin fonksiyonları nasıl kavradıklarını ve problem çözme süreçlerini değerlendirmek için gözlem formu kullanılabilir.",
+    "Fonksiyon kavramının programlamadaki yeri tanıtılır. Özellikle tekrar eden kod bloklarının nasıl daha kısa, okunabilir ve düzenli bir yapıya kavuşturulabileceği üzerinde durulur. Öğrenciler, aynı işlemi birden çok kez gerçekleştiren komut gruplarını özel blok hâline getirerek fonksiyon oluşturmayı öğrenir. Bu, yazılım geliştirme sürecinde verimliliği artıran bir yöntem olarak örneklendirilir. Öğretmen, bir karakterin belirli hareketleri yapmasını sağlayan komut bloklarını ekrana yansıtarak gösterir. Karakterin sürekli sağa ve sola dönmesini sağlayan bir kod yazıldığında, tekrar eden bölümler öğrencilere fark ettirilir ( OB2 ). Ardından, bu işlemleri düzenlemek için bir fonksiyon oluşturup yeni bir özel blok tanımlanır. Tanımlanan fonksiyonun içine hareket blokları eklenir ve fonksiyon çağrılarak karakterin aynı işlemleri daha düzenli bir şekilde yapması sağlanır. Aynı örnek, öğrenciler tarafından yapılarak blok tabanlı ortamda fonksiyon bileşeninin kullanılması sağlanır( OB2 ). Fonksiyonların kullanımıyla ilgili eksiklikleri ve güçlü taraflarını fark etmeleri için öz değerlendirme formu kullanılabilir.",
+    "Fonksiyonun avantajlarını göstermek için öğrenciler, fonksiyon kullanmadan yazılan uzun kod ile fonksiyon kullanılarak oluşturulan kısa ve düzenli kodu karşılaştırarak değerlendirir ( OB1 ). Bu değerlendirmeleri rapor hâlinde sunmaları istenir. Öğrencilerin fonksiyon kullanılarak oluşturulan kodu rubrik ölçeği kullanılarak değerlendirilir. Öğrenciler, fonksiyon kullanımıyla yazılımlarını nasıl geliştirdiklerini yansıtan kısa raporlar hazırlar. Ayrıca farklı senaryolarda fonksiyon kullanımını test ederek kodları sadeleştirme, tekrarı önleme ve yeniden kullanılabilirlik yönünden iyileştirme çalışmaları yapar.",
+    "BTY.6.6.2.",
+    "Öğretmen planlı bir çalışmanın önemini açıklar. Öğrenciler rastgele sayı seçme yöntemi ile oluşturulan iş birlikli öğrenme gruplarına ayrılır ve her grup ortak bir proje fikri belirler ( SDB1.2 , SDB2.2 ). Bu süreçte öğrenciler, görev ve sorumluluklarını kuralına uygun olarak yerine getirir. Örneğin grup içinde aktif rol alarak fikirlerini paylaşır, alınan kararların uygulanmasında sorumluluk üstlenir ve verilen görevleri zamanında tamamlar ( D6.1 ). Gruplar, proje için hangi blokları kullanacaklarını, karakterlerin nasıl hareket edeceğini veya hangi matematiksel işlemlerin yapılacağını belirleyerek planlama yapar ( OB1 ). Öğrencinin proje fikrini planlama süreci kontrol listesi kullanılarak değerlendirilebilir. Öğretmen, proje fikrinin blok tabanlı bir yazılım tasarımına nasıl dönüştürüleceğini örneklerle açıklar. Öğrenciler hareket, koşul, döngü, değişken ve fonksiyon bloklarını amaca uygun olarak bir araya getirmeyi öğrenir. Kodlama sürecinde mantıksal akışın kurulması, hataların tespiti ve düzeltme işlemleri gibi temel yazılım geliştirme adımlarına yer verilir. Ayrıca öz değerlendirme formu ile öğrencinin planlama sürecinde katkısının ne ölçüde olduğu değerlendirmesi yapılabilir.",
+    "Planlama aşamasından sonra öğrenciler yazılımı tasarlama sürecine geçer ( E1.1 ). Öğretmen, öğrencilerin blok tabanlı programlama ortamında sürükleyerek bileşenleri düzenlemelerini izler ve gerektiğinde ipuçları verir. Öğretmen, görev paylaşımında adil davranılmasını sağlar. Örneğin proje tasarımında herkesin sürece eşit şekilde katılım göstermesini sağlar ve her bireyin güçlü yönlerine göre sorumluluklar üstlenir ( D1.2 ). Öğrenciler hareket blokları, koşul blokları (eğer-değilse), döngüler, değişken ve fonksiyon gibi temel bileşenleri kullanarak tasarım yapar ( OB1 ).",
+    "Öğretmen, blokların nasıl doğru bir şekilde yerleştirilmesi gerektiğiyle ilgili öğrencilere yönlendirme yapar. Gruplar tasarımını gerçekleştirdiği projeyi gerekli bileşenleri kullanarak blok tabanlı ortamda oluşturur ( OB1 ). Akran değerlendirme formu kullanılarak grup içinde öğrencilerin birbirlerini değerlendirmesi sağlanabilir. Tasarım ve proje oluşturma aşaması kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilere \"Programınız beklendiği gibi çalışıyor mu? Hangi blokları neden kullandınız? Blokları farklı bir şekilde kullanarak yazılımınızı geliştirebilir misiniz?\" gibi sorular yöneltilir. Öğrencilerin sorular doğrultusunda konu hakkında tartışmaları sağlanır ( SDB1.2 ). Öğretmen proje için belirlediği değerlendirme kriterlerini öğrencilere tanıtır. Gruplar bu kriterler çerçevesinde blok tabanlı ortamda geliştirdikleri projeyi değerlendirir ( OB2 , SDB1.2 , SDB1.3 ). Her grup değerlendirmelerini rapor hâline getirerek EBA'da bilgi duvarında paylaşır. Diğer öğrenciler EBA bilgi duvarında bu değerlendirme için yorum yapar ( OB2 ). Öğrenciler tarafından hazırlanan değerlendirme raporları rubrik ölçeği kullanılarak değerlendirilebilir. Ayrıca akran değerlendirme formu ile grup içindeki öğrencilerin katkıları değerlendirilebilir.",
+    "BTY6.6.3.",
+    "Öğretmen \"Günlük hayatta yapay zekâ kullanılan ürünlerden örnekler verir misiniz? Yapay zekâ hangi alanlarda insanların yardımcısıdır?\" vb. sorular sorarak öğrencilerin beyin fırtınası yapması için gerekli ortam oluşturur ( OB1 ). Öğrenciler, merak duygusunu kullanarak yapay zekâya ilişkin yeni bilgileri keşfetmeye çalışır. Örneğin yapay zekânın günlük hayattaki kullanım alanlarını araştırır ve bu teknolojilerin hayatı nasıl kolaylaştırdığını tartışır ( D3.3 ). Öğrenciler gerçek hayat probleminin çözümüne yönelik blok tabanlı ortamda yapay zekâ destekli bir konu belirler ( OB1 , SDB3.3 ). Öğrenciler seçmiş olduğu ürün konusu için gereksinimleri (Kullanıcı giriş ekranı, sesli komut desteği, öneri güncellemesi vb.) belirler ( OB1 ). Bu süreçte öğretmen, blok tabanlı uygulamalarda yer alan yapay zekâ eklentilerini (görüntü tanıma, sesli komut analizi, öneri sistemleri vb.) tanıtarak bu teknolojilerin oyun, hikâye anlatımı ve sınıflandırma gibi farklı amaçlarla nasıl entegre edilebileceğini gösterir. Öğrenciler, hangi yapay zekâ bileşeninin hangi projeye uygun olduğunu sorgulayıp analiz eder. Öğrencilerin gereksinimleri belirlemesi kontrol listesi veya gözlem formu kullanılarak değerlendirilebilir.",
+    "Öğrencilere yapay zekâ teknolojisinin üretim türlerini içeren kısa bir video izletilir (Örneğin görüntü tanıma, sesli asistanlar, duygu analizi vb.). Öğrencilere \"Yapay zekânın çalışması için hangi araç gereçler gereklidir?\" sorusu yöneltilerek beyin fırtınası etkinliği yapılır. Öğrenciler tahtaya veya dijital panoya yapay zekâ destekli bir ürün için uygun olabilecek araçları yazarak seçer. Öğrencilerin araç gereç seçimi gözlem formu kullanılarak değerlendirilebilir. Ayrıca öz değerlendirme formu ile öğrencilerin kendilerini değerlendirmeleri sağlanabilir.",
+    "Blok tabanlı ortamda belirleyip gerekli araç seçimini yaptığı yapay zekâ destekli ürünü kodlama yaparak oluşturur. Öğrencilere yapay zekâ destekli bir üründe bulunması gereken temel kriterler (doğru çalışma, hata kontrolü, kullanıcı deneyimi, yapay zekâ kullanımı vb.) açıklanır. Öğrenciler karşılaştıkları hatalar karşısında çözüm odaklı düşünerek sorunun kaynağını analiz eder. Örneğin bir hata tespit ettiklerinde kod yapısını gözden geçirir ve alternatif çözümler geliştirir ( D12.1 ). Öğrenciler, hata ayıklama yaparak blokları düzenler ve yapay zekâ destekli ürünlerini belirlenen kriterlere göre değerlendirir ( SDB3.3 ). Öğrenciler projelerini sınıfta sunarak diğer grupların çözümlerini inceler ve geri bildirim verir ( SDB2.1 , SDB2.2 ).",
+    "Öğretmen, öğrencilerin geliştirdiği yapay zekâ destekli yazılımların robotik kartlarla nasıl entegre edilebileceğini gösterir. Blok tabanlı kodlama ortamında hazırlanan bir görüntü tanıma uygulaması, herhangi bir robotik kartla bağlantı kurularak fiziksel bir çıktı verecek şekilde dönüştürülür (örneğin tanınan nesneye göre bir LED ışığın yanması ya da servo motorun hareket etmesi). Öğrenciler, öğretmenin sunduğu örneklerle süreci gözlemler ve ardından kendi projelerini robotik kartla bütünleştirerek yazılımı fiziksel bir ürüne dönüştürür. Bu etkinlik, öğrencilerin yapay zekâ yazılımını donanım bileşenleriyle bütünleştirerek problem çözme, ürün geliştirme ve algoritmik düşünme becerilerini pekiştirir. Projenin sonunda her grup, yazılım-donanım entegrasyonuna ilişkin süreci sunarak karşılaştıkları sorunlar ve çözümleri üzerine değerlendirme yapar. Öğretmen, yapay zekâ bileşenlerinin nasıl geliştirilebileceği üzerine tartışmalar başlatarak öğrencilerin öğrenmelerini pekiştirir. Öğrencilerden blok tabanlı ortamda yapay zekâ destekli ürün ortaya koymaları ve bunu sunu hâline getirmeleri performans görevi olarak istenebilir. Oluşturulan projeler proje değerlendirme rubriği kullanılarak değerlendirilebilir. Ayrıca öğrenci sunumları gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D12.1",
+      "D3.3",
+      "D6.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/688"
+}

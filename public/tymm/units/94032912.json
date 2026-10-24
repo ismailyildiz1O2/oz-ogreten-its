@@ -1,0 +1,44 @@
+{
+  "unitId": 94032912,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "12. ÖĞRENME ALANI: ÇEVRE ÖLÇME",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.4.3.2.1",
+      "title": "Kare ve dikdörtgenin çevre uzunlukları ile kenar uzunlukları arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Çevre ve bir kenar uzunluğu verilen dikdörtgenin veya çevre uzunluğu verilen karenin bir kenarının uzunluğunu bulma etkinlikleriyle çevre ve kenar uzunluklarının ilişkileri incelenir.",
+        "Bir karenin çevre uzunluğunun, bir kenarının uzunluğunun dört katı olduğu buldurulur.",
+        "Bu tür çalışmalarda kareli ya da noktalı kâğıt kullandırılacak (birim sayısıyla ilişkilendirme yapılarak) çalışmalara yer verilir."
+      ]
+    },
+    {
+      "code": "M.4.3.2.2",
+      "title": "Aynı çevre uzunluğuna sahip farklı geometrik şekiller oluşturur",
+      "processComponents": [
+        "Noktalı ya da izometrik kâğıttan faydalanılarak etkinlikler yapılır."
+      ]
+    },
+    {
+      "code": "M.4.3.2.3",
+      "title": "Şekillerin çevre uzunluklarını hesaplamayla ilgili problemleri çözer",
+      "processComponents": [
+        "Çemberin çevresine yer verilmez.",
+        "Problem kurmaya yönelik çalışmalara da yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

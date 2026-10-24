@@ -1,0 +1,40 @@
+{
+  "unitId": 1617,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "9.Tema: Kurallar Ve Puanlama",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.9.1",
+      "title": ". Satrançta rok hamlesinin oyuna ve oyun sonuna etkisini sorgulayabilme. a) Satrançta rok hamlesini tanımlar. b) Rok hamlesi ile ilgili sorular sorar. c) Rok hamlesi ile ilgili bilgi toplar. d) Rok hamlesi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir. e) Toplanan bilgiler üzerinden rok hamlesinin yapılma amacına yönelik çıkarım yapar",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.9.2",
+      "title": ". Satrançta kurallara uygun olarak piyonu terfi ettirme fikrini eyleme dönüştürebilme. a) Satranç oyununda piyonun terfi ettirilmesi ile ilgili plan yapar. b) Satranç oyununda piyonun terfi ettirilmesi ile ilgili yaptığı planı uygular. c) Satranç oyununda piyonun terfi ettirilmesi ile ilgili uyguladığı planı değerlendirir. OOEST.9.3 . Oyun içi, maç sonu ve turnuva sonu puanlamaların nasıl yapıldığını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.9.4",
+      "title": "Satrançta adil oyun anlayışına uygun davranabilme. a) Satranç oyununda adil oyun anlayışını açıklar. b) Satranç oyununda adil oyun anlayışına uygun hareket eder",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.9.5",
+      "title": ". Satrançta oyun süresince yaptığı hamleleri notasyon kâğıdına yazabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "hamle yazımı, notasyon, piyon terfi, puanlama, rok hamlesi",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SBAB5. Sosyal Katılım (SBAB5.5. Fikri Eyleme Dönüştürme), BEOSAB8. Adil Oyun Anlayışına Uygun Davranma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1617"
+}

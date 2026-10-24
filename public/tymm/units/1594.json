@@ -1,0 +1,55 @@
+{
+  "unitId": 1594,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY II · 6.Tema: Zekâ Soruları",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.2.6.1",
+      "title": ". İlgili zekâ oyununda verilen zekâ soruları arasında ilişki kurabilme",
+      "processComponents": [
+        "a) Zekâ oyununu inceleyerek mantıksal ilişkileri ortaya koyar.",
+        "b) Tespit ettiği ilişkilerle ilgili ön bilgilerini bütünleştirir."
+      ]
+    },
+    {
+      "code": "OOEZO.2.6.2",
+      "title": ". İleri seviye zekâ sorularında, duruma ilişkin olarak tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) İleri seviye zekâ sorularında durumu belirler.",
+        "b) İleri seviye zekâ sorularında durumdan yola çıkarak bütün-bütün veya bütün-parça ilişkisi kurar.",
+        "c) İleri seviye zekâ sorularında genelden genele veya genelden özele çıkarım yapar."
+      ]
+    },
+    {
+      "code": "OOEZO.2.6.3",
+      "title": "Zekâ soruları için kendine özgü stratejiler geliştirebilme",
+      "processComponents": [
+        "a) Zekâ sorularının taktiksel problem durumunu belirler.",
+        "b) Zekâ sorularında belirlenen problemin çözümüne ilişkin kendi önerisini sunar.",
+        "c) Kendi belirlediği taktiği uygular."
+      ]
+    },
+    {
+      "code": "OOEZO.2.6.4",
+      "title": "Yeni zekâ soruları tasarlayabilme",
+      "processComponents": [
+        "a) Zekâ oyununa yönelik kullanılacak araç-gereçleri belirler.",
+        "b) Zekâ oyununda kullanılacak araç-gereçler arasında ilişki kurar.",
+        "c) Zekâ oyunlarında ilişki kurulan araç-gereçlerden hareketle özgün oyun tasarımı yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "zekâ sorusu, analitik düşünce",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1594"
+}

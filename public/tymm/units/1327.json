@@ -1,0 +1,54 @@
+{
+  "unitId": 1327,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "2. TEMA: VİBRATO TEKNİĞİ İLE ESER ÇALIŞMALARI",
+  "hours": "16",
+  "description": "Temanın içeriğini öğrencilerin kemanda vibrato tekniğini kullanarak eser çalmaları oluşturmaktadır. Bu doğrultuda öğrencilerin belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.8.2.1",
+      "title": "Vibrato tekniğini kullanarak etüt ve eser çalabilme",
+      "processComponents": [
+        "a) Vibrato tekniğinde çalınacak eseri çözümler.",
+        "b) Vibrato tekniğine göre duruş ve tutuş pozisyonu alır.",
+        "c) Vibrato tekniğini çalgıya özgü tekniklerle kullanır.",
+        "ç) Vibrato tekniğiyle etüt ve eser çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, yay, metronom, vibrato",
+  "support": [
+    "Her bir öğrenciyle bireysel ve uzun nota etütleri kullanılarak çalışma sergilenebilir. Vibrato tekniğinde bilek ve parmak uyumu, ayna karşında kendini görerek çalışılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere keman virtüözlerinin videoları dinletilebilir. Vibrato tekniği kullanılan bölümlerde yavaş yavaş geçilerek çalışma öğrenciler açısından daha da netleştirilir. Öğrencilere sonatine ve sonatlar verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öğretmen gözlem formu, kontrol listesi, süsleme tekniği uygulama çalışmaları, öz değerlendirme formu ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenciye performans görevi olarak vibrato tekniği içeren bir etüt veya eser verilebilir. Bu eseri çalıp video kaydıyla sunması istenir. Performans görevi; süslemelerin doğru, temiz ve yerinde uygulanması, müziksel anlatım gücü, teknik yeterlilik gibi ölçütlerle bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.8.1.2",
+    "Öğretmen sınıf ortamında belirlediği bir etüdü çalar. Belirlenen etüt uzun vuruşlu notalardan oluşursa öğrenciler bu tekniği daha kolay anlar. Etüt öncelikle vibrato tekniği kullanılmadan sergilenir. İkinci kez çalındığında ise vibrato tekniği kullanılır ( OB1 ). Öğrencilere bu iki çalma biçimi arasındaki farklılıklar sorulur. Alınan dönütler sonrasında vibrato tekniği ile ilgili teknik bilgiler verilir. Ekileşimli tahtadan yararlanılarak vibrato tekniği ve birkaç keman virtüözü dinletilir, böylelikle öğrencilerin konu hakkında bilgi edinmeleri sağlanır ( OB2 ). Verdiği bilgiler doğrultusunda vibrato tekniğinde parmak basışı yavaş hareketlerle gösterilir ( KB2.11 ). Parmak ve bilek uyumuna da dikkat edilerek hareketler sergilenir.Gösterilen örnekler doğrultusunda öğretmen öğrencilere çalışacağı etütleri belirleyerek verir. Öğrenciler, etütlerindeki ritim kalıplarına ve nota bilgilerine bakarak eserleri çözümler. Çözümleme sonucunda ise parçaya daha kolay adapte olur. Öğrenciler anlatım sonrasında kısa etütler eşliğinde duruş ve tutuş pozisyonu alıp bilek, kol ve parmak esnekliğine dikkat ederek çalışmalarını sergiler. Öğrenciler kısa etüt çalışmalarında çalgıya özgü teknikleri kullanarak, vibrato tekniği ile arkadaşlarıyla etkili iletişim kurarak grup çalışmaları yapar ( D4.2 ). Etüt çalışmalarında kullanılan vibrato tekniği küçük parçalar eşliğinde majör ve minör eserlere geçilerek müziksel bileşenler ile uygulanır ( E3.1 ). Çalışmalarda öz değerlendirme formu kullanılarak öğrencinin kendini değerlendirmesi ve analiz etmesi sağlanır ( SDB1.2 ). Gözlem formu ile öğrencinin eser çalışmalarında sergilediği vibrato tekniği değerlendirilir. Öğrenciye performans görevi olarak vibrato tekniği içeren bir etüt veya eser verilebilir. Bu eseri çalıp video kaydıyla sunması istenebilir. Performans görevi; süslemelerin doğru, temiz ve yerinde uygulanması, müziksel anlatım gücü, teknik yeterlilik gibi ölçütlerle bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.1"
+    ],
+    "kavramsal": [
+      "KB2.11"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1327"
+}

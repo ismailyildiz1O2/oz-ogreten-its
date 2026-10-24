@@ -1,0 +1,46 @@
+{
+  "unitId": 1580,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Spor ve Fiziki Etkinlikler Dersi",
+  "title": "II. Ünite: Spor Branşına Özgü Hareket Becerilerini Öğreniyorum",
+  "hours": "28",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SFE.2.1",
+      "title": "Seçilen spor branşında güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Seçilen spor branşında ortaya çıkabilecek riskleri belirler.",
+        "b) Belirlediği risklere karşı önleyici tedbirler alır."
+      ]
+    },
+    {
+      "code": "SFE.2.2",
+      "title": "Seçilen spor branşına özgü hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Seçilen spor branşına özgü hareket becerilerini algılar.",
+        "b) Seçilen spor branşına özgü hareket becerisinin basamaklarını gösterir.",
+        "c) Seçilen spor branşına özgü hareket becerilerini oyun, yarışma veya antrenman ortamlarında uygular."
+      ]
+    },
+    {
+      "code": "SFE.2.3",
+      "title": "Seçilen spor branşına özgü fiziksel uygunluğu sağlayabilme",
+      "processComponents": [
+        "a) Seçilen spor branşına özgü fiziksel uygunluk bileşenlerini açıklar.",
+        "b) Seçilen spor branşına yönelik fiziksel uygunluk bileşenlerini geliştirmeye yönelik hareketleri (sürat koşusu, denge egzersizi vb.) uygular.",
+        "c) Seçilen spor branşına özgü fiziksel uygunluk bileşenlerini geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "beceri, dayanıklılık, kuvvet, sürat",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB1. Hareketi Sergileme, BEOSAB6. Fiziksel Uygunluk Sağlama, BEOSAB10. Güvenli Ortam Oluşturma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1580"
+}

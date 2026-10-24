@@ -1,0 +1,69 @@
+{
+  "unitId": 466,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "3. TEMA: DÖNÜŞÜM",
+  "hours": "8",
+  "description": "Bu temada öğrencilerin şekillerin bir doğruya göre yansıma dönüşümü altındaki görüntülerinin oluşturulmasına dair çıkarım yapabilmeleri ve simetri doğrusuna ilişkin deneyimlerini orta dikme ve açıortay inşalarına yansıtabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.7.3.1",
+      "title": "Şekillerin yansıma dönüşümü altındaki görüntülerinin oluşturulmasına dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Şekillerin yansıma dönüşümleri altındaki görüntülerini oluşturmaya dair varsayımlarda bulunur.",
+        "b) Şekillerin yansıma dönüşümü altındaki görüntülerini oluşturur.",
+        "c) Varsayımlarını doğrulamaya yönelik karşılaştırmalar yapar.",
+        "ç)  Bir şekil ile yansıma dönüşümü altındaki görüntüsü arasındaki ilişkilere dair önermeler sunar.",
+        "d) Önermenin verilen iki eş şeklin bir doğruya göre simetrik olup olmadığını belirlemeye ve simetrik bir şeklin simetri doğrusunu oluşturmaya yönelik katkısını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.7.3.2",
+      "title": "Yansıma dönüşümündeki deneyimlerini orta dikme ve açıortay inşasına yansıtabilme",
+      "processComponents": [
+        "a) Yansıma dönüşümünde simetri doğrusunun özelliklerini gözden geçirir.",
+        "b) Simetri doğrusunun özelliklerinden hareketle bir doğru parçasına ait orta dikmenin ve bir açıya ait açıortayın inşasına dair çıkarım yapar.",
+        "c) Çıkarımını farklı örnekler üzerinden değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Bir geometrik şekil, yansıma dönüşümü altındaki görüntüsü ile eştir. • Bir açının simetri doğrusu o açının aynı zamanda açıortayıdır. • Bir doğru parçasının simetri doğrusu o doğru parçasının aynı zamanda orta dikmesidir. Anahtar Kavramlar açıortay, orta dikme, yansıma dönüşümü Sembol ve Gösterimler -",
+  "support": [
+    "Yansıma dönüşümüne ilişkin yaratıcı drama çalışmaları yapılabilir. Örneğin çalışma içerisinde, öğrencilerin birbirlerinin aynadaki yansımaları olacak biçimde beden hareketleri sergiledikleri ısınma etkinlikleri ve aynadaki görüntülerimizden meydana gelen alternatif bir dünyayı (tabelalardaki yazılarda harflerin yerinin ve yönünün değiştiği, sağ elini kullananların solak olduğu, trafiğin soldan işlediği gibi bir dünya) konu edinen canlandırma etkinliklerinin yürütülmesi sağlanabilir. Simetrik iki şekle ait gizlenmiş simetri doğrusunun belirlenmesinde matematik yazılımındaki sürükleme özelliğinden yararlanılması ve verilen şekillerin hareket ettirilmesi sağlanabilir. Açıortay ve orta dikme oluşturmak için kâğıt katlama çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "Bir şeklin, kendisi ile kesişen bir doğruya göre yansıma dönüşümü altındaki görüntüsünün çizildiği çalışmalar yapılabilir. Eğik doğrulara göre tekrarlı yansımalar yaparak özgün desen oluşturma çalışmaları yapılabilir. Süreçte öğrencilere matematik yazılımındaki yansıma dönüşümü aracını kullanma fırsatı da verilebilir. Düzlemde verilen eşit uzunluktaki iki doğru parçasının bir doğruya göre simetrik olup olmadığına ilişkin varsayımda bulunmaları, belirledikleri uygun araçlarla inceleme yapmaları (örneğin doğru parçalarının karşılıklı uç noktalarının birleştirilmesi ve orta dikmelerinin çizilmesi) ve varsayımlarını doğrulamaları sağlanabilir.",
+    "Verilen bir süslemedeki yansıma dönüşümlerini belirlemeye yönelik çalışmalara yer verilebilir. Yansımayı içeren mandala kültürünü tanımaları ve bu bağlamda kültürümüzde yer alan çini sanatını fark ederek desenlerdeki benzerlik ve farklılıkları ayırt etmeleri beklenebilir. Bu çalışmalar aracılığıyla görsel sanatlar, sosyal bilgiler ve matematik disiplinleri arasında ilişki kurulabilir. İnsan ve hayvan anatomisindeki simetriyi modelleyen görseller bulunması, dünyaca ünlü yapılardaki simetriyi örnekleyen resimlerle bir sunum hazırlanması, özellikle yapılarda simetrik tasarımın sebebinin araştırılması istenebilir. Orta dikme inşasına ilişkin deneyimlerinden hareketle bir doğruya, üzerindeki A noktasında dik olan doğruyu pergel ve ölçüsüz cetvel yardımıyla inşa etmeleri istenebilir. Ayrıca açıortay ve orta dikme inşasına ilişkin deneyimlerinden hareketle pergel ve ölçüsüz cetvel kullanarak bir doğruya dışındaki bir noktadan dik doğru inşa etmeleri sağlanabilir. İnşa sürecinde öğrencilere matematik yazılımındaki çember ve doğru araçlarını kullanma fırsatı da verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, gözlem formu, kontrol listesi ve performans görevi ile değerlendirilebilir. Öğrencilerin farklı ülkelerin bayraklarını araştırarak simetri doğrularını belirlemeye yönelik performans görevi verilebilir. Verilen performans görevinde öğrencilerin ülke bayraklarının tarihi üzerine inceleme yapmaları sağlanabilir ve araştırma sonuçlarına yönelik bir sunum yapmaları beklenebilir. Performans görevinin değerlendirilmesinde süreç bileşenlerini içeren, ayrıca etkili sunum yapma kriterlerini barındıran uygun ölçme aracı (öz/akran/grup değerlendirme, kontrol listesi, gözlem formu, derecelendirme ölçeği, bütüncül veya analitik dereceli puanlama anahtarı) kullanılarak değerlendirilebilir. Performans ürünü, çalışma kâğıdı ve kontrol listesi sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.7.3.1 Öğrencilerin şekillerin (bir nokta, doğru parçası veya çokgen) verilen bir doğruya göre yansıma dönüşümü altındaki görüntülerini noktalı, kareli veya çizgisiz kâğıtta (veya matematik yazılımında) nasıl oluşturacaklarına yönelik varsayımlarda bulunmaları (örneğin noktanın ve noktanın yansıma dönüşümü altındaki görüntüsünün simetri doğrusuna uzaklığı eşittir) sağlanır. Bu süreçte simetri doğrusunun dikey, yatay ve eğik konumda olmasına dikkat edilir. Çokgenlerin bir kenarının simetri doğrusuyla çakışık olduğu örneklerin yanı sıra ayrık olduğu örneklere de yer verilir. Öğrencilerin noktalı veya kareli kâğıt üzerinde birimleri sayarak ve dikliği göz önüne alarak şekillerin yansıma dönüşümü altındaki görüntülerini çizmeleri beklenir. Çizgisiz kâğıt üzerinde gönye, cetvel ve açıölçerden yararlanarak şekillerin doğruya göre yansıma dönüşümü altındaki görüntülerini oluşturmaları istenir. Süreçte matematik yazılımındaki kareli düzlemden ve dik doğru, verilen ölçüde açı, verilen uzunlukta doğru parçası oluşturma araçlarından da yararlanılabilir. Oluşturulan şekilleri simetri aynası veya matematik yazılımındaki yansıma dönüşümü aracı ile değerlendirerek varsayımlarıyla karşılaştırmaları sağlanır. Öğrencilerin yaptıkları karşılaştırmalar sonucunda simetri doğrusunun yansıma dönüşümünde önemli bir belirleyici olduğunu; şekiller ile simetri doğrusu arasındaki eşit uzaklığın korunduğunu fark etmeleri beklenir. Bu özelliklerden hareketle şeklin ve yansıma dönüşümü altındaki görüntüsünün eşliğine dair önerme sunmaları sağlanır. Önermelerinin, verilen iki eş şeklin doğruya göre simetrik olup olmadığının incelenmesinde (karşılıklı noktalarını birleştiren doğru parçalarının paralel olup olmadığı ve orta noktalarından bir doğru geçip geçmediğini dikkate almak gibi), bir şeklin simetrik olup olmadığının belirlenmesinde ve simetrik bir şeklin (örneğin ikizkenar üçgen, eşkenar dörtgen, düzgün beşgen) simetri doğrusunun oluşturulmasındaki katkısını değerlendirmeleri beklenir. Bu süreçte öğrencilerin cetvel, gönye, açıölçer kullanmaları sağlanırken, dijital araçlar ile çalışma becerilerini geliştirmek için matematik yazılımı gibi öğretim teknolojilerinden yararlanmalarına fırsat verilebilir ( MAB5 , OB2 ) . Ayrıca öğrencilerin simetrik iki şekle ait gizlenmiş simetri doğrusunu cetvel, açıölçer ve gönye yardımıyla (veya matematik yazılımındaki doğru, açı, orta nokta ve dik doğru araçlarıyla) nasıl oluşturacaklarını tartışmaları sağlanır. Oluşturdukları doğruları simetri aynası veya kâğıt katlama aracılığıyla (veya matematik yazılımındaki yansıma dönüşümü aracıyla ( OB2 ) değerlendirmeleri beklenir. Çalışma kâğıdı aracılığı ile yansıma çalışmaları yapılabilir ve çalışmalar puanlama anahtarı ile değerlendirilebilir. Ülkemizde kültürümüze ait halı ve kilim desenlerini inceleyerek desenlerin bölgelere göre değiştiğini fark etmeleri sağlanır. Bu desenlerdeki yansıma dönüşümüne yönelik benzerlik ve farklılıkların incelenmesini içeren çalışmalar yaptırılabilir ( OB4 , OB5 ) . Öğrencilerin matematiksel araç ve teknolojiden yararlanarak (matematik yazılımındaki yansıma dönüşümü aracının kullanımı ( OB2 ) ) yansıma dönüşümünü içeren özgün ve estetik süsleme çalışmaları yapmaları sağlanabilir ve yapılan çalışmalar gözlem formu ile değerlendirilerek öğrencilere dönüt verilerek estetik değerinin kazanılması desteklenebilir ( D7.1 ) . Öğrencilere \"Bir üçgenin, kenarlarından birine göre yansıması oluşturulduğunda hangi özelliklere sahip dörtgenler oluşabilir?\" gibi açık uçlu sorular yöneltilerek düşüncelerini açıklamaları ve gerekçelendirmeleri istenebilir. Farklı ülkelerin bayraklarını araştırarak bayrakların içerdiği simetrik şekillerin simetri doğrularını belirlemeye yönelik performans görevi verilebilir ( E1.1 ) . Verilen performans görevinde öğrencilerin ülke bayraklarının tarihi üzerine bilgi toplama amacıyla araştırma yapmaları sağlanabilir ( OB1 ) ve araştırma sonuçlarına yönelik bir sunum yapmaları beklenebilir. Bu görev aracılığıyla öğrencilerin sosyal bilgiler dersi ile disiplinler arası bağlantı kurmalarına ve farklı toplumsal normlar hakkında anlayış geliştirmelerine olanak verilebilir ( SDB2.3 ) . Böylece öğrencilerin farklı toplumların kültürel değerlerine saygı göstermeleri sağlanır ( D14.3 ) . Performans görevinin değerlendirilmesinde süreç bileşenlerini içeren, ayrıca etkili sunum yapma kriterlerini barındıran uygun ölçme aracı (öz/akran/grup değerlendirme, kontrol listesi, gözlem formu, derecelendirme ölçeği, bütüncül veya analitik dereceli puanlama anahtarı) kullanılarak değerlendirilebilir.",
+    "MAT.7.3.2 Öğrencilerin simetrik şekillere ait simetri doğrusunu oluşturma süreçlerini gözden geçirerek ifade etmeleri (simetrik noktaları birleştiren doğru parçasının çizilmesi, doğru parçasının orta noktasının belirlenmesi, doğru parçasına dik doğru oluşturulması gibi) sağlanır. Ardından öğrencilerin pergel ve ölçüsüz cetvel kullanarak (veya matematik yazılımındaki çember ve doğru araçlarından yararlanarak ( OB2 ) doğru parçasına ve açıya ait simetri doğrularının inşasına yönelik çıkarımda bulunmaları ve yaptıkları çıkarıma göre inşayı tamamlamaları beklenir. Bu süreçte öğrencilerin ikizkenar ve eşkenar üçgen inşa etme, açının kollarından eşit uzunlukta doğru parçaları kesme süreçlerini göz önüne almaları istenir. İnşa ettikleri doğruların neden simetri doğrusu olduğunu matematiksel gerekçelerle tartışmaları sağlanır ( SDB3.3 ) . Öğrencilerindoğru parçasına ait simetri doğrusunun, doğru parçasını dik ortaladığını (orta dikme); açıya ait simetri doğrusunun, açıyı iki eş açıya ayırdığını (açıortay) yorumlamaları beklenir. Orta dikme ile açıortay tanıtılır. Yürüttükleri inşa süreçlerini orta dikme ve açıortay inşaları olarak ifade etmeleri sağlanır. Orta dikme ve açıortay inşasına yönelik çıkarımlarını farklı örnekler üzerinden değerlendirmelerine fırsat verilir. İnşa süreçlerinin değerlendirilmesi için kontrol listesi kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "alan": [
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/466"
+}

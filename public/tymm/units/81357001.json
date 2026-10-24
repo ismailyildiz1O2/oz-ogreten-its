@@ -1,0 +1,44 @@
+{
+  "unitId": 81357001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Metin Tahlilleri Dersi",
+  "title": "1. ÜNİTE: METİN TAHLİLLERİ I - ELEŞTİREL OKUMA",
+  "hours": "36",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTT.I.1.1",
+      "title": "Eleştirel okumanın metin tahlilindeki önemini fark eder",
+      "processComponents": [
+        "Eleştirel okumanın önemi üzerinde durulur.",
+        "Eleştirel okuma bilinci kazanmak için yapılması gerekenler vurgulanır.",
+        "Kısa metinler, görseller vb. aracılığı ile eleştirel okumaya yönelik uygulamalara yer verilir."
+      ]
+    },
+    {
+      "code": "MTT.I.1.2",
+      "title": "Eleştirel okumada kullanılacak okuma tekniklerini ayırt eder",
+      "processComponents": [
+        "Sesli, sessiz, tam, seçerek, güdümlü, serbest, göz atma, işaretleme, soru sorarak, not alma, özetleme, tahmin etme, rehberle / kılavuzla, akranla / eşle, okuma halkası, tartışarak, görsel, kavram haritası, empatik, yaratıcı, kaynakça okuma tekniklerine değinilir.",
+        "Kısa metinler, tablolar, görseller vb. aracılığıyla okuma tekniklerinin uygulanması sağlanır."
+      ]
+    },
+    {
+      "code": "MTT.I.1.3",
+      "title": "Okumanın bütüncül bir süreç olduğunu fark eder",
+      "processComponents": [
+        "Okuma öncesinde, sırasında ve sonrasında yapılacak eylemlerle okumanın bütüncül bir süreç oluşturduğuna değinilir.",
+        "Metni anlamlandırmak için okuma öncesinde, sırasında ve sonrasında uygulanması gereken stratejiler okuma uygulamaları ile verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249558132-metintahlilleri.pdf"
+}

@@ -1,0 +1,69 @@
+{
+  "unitId": 220,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Peygamberimizin Hayatı Dersi",
+  "title": "3. ÜNİTE: PEYGAMBERİMİZİN HAYATINDA ÖNEMLİ BİR HADİSE: HİCRET",
+  "hours": "24",
+  "description": "Bu ünitede Hicret’in sebep ve sonuçları hakkında genelleme yapılarak Akabe Biatlerinin karşılaştırılması, Hicret’in önemi sorgulanarak hadisenin İslam tarihi açısından öneminin ortaya konulması ve Medine’de devletleşme sürecinde gerçekleşen faaliyetlerin sınıflandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PH.9.3.1",
+      "title": "Medine'ye hicreti hazırlayan sebepler konusunda genelleme yapabilme",
+      "processComponents": [
+        "a) Medine'ye hicreti hazırlayan sebepler hakkında bilgi toplar.",
+        "b) Medine'ye hicreti hazırlayan sebeplerin ortak özelliklerini belirler.",
+        "c) Medine'ye hicreti hazırlayan sebeplerin ortak olmayan özelliklerini belirler.",
+        "ç) Medine'ye hicreti hazırlayan sebepler konusunda örüntüler üzerinden önermede bulunur."
+      ]
+    },
+    {
+      "code": "PH.9.3.2",
+      "title": "Akabe Biatlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Birinci ve İkinci Akabe Biatlerine ilişkin özellikleri araştırır.",
+        "b) Birinci ve İkinci Akabe Biatleri ile ilgili öğrendiği özelliklere ilişkin benzerlikleri listeler.",
+        "c) Birinci ve İkinci Akabe Biatleri ile ilgili öğrendiği özelliklere ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "PH.9.3.3",
+      "title": "Medine'ye hicretin önemini sorgulayabilme",
+      "processComponents": [
+        "a) Medine'ye hicretle ilgili merak ettiği hususları tanımlar.",
+        "b) Medine'ye hicret hakkında sorular sorar.",
+        "c) Medine'ye hicret hakkında bilgi toplar.",
+        "ç) Medine'ye hicret hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Medine'ye hicret hakkında topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "PH.9.3.4",
+      "title": "Hicret'ten sonra devletleşme sürecinde gerçekleşen faaliyetleri sınıflandırabilme",
+      "processComponents": [
+        "a) Medine'de devletleşme sürecinde gerçekleşen faaliyetlere ilişkin ölçütleri seçer.",
+        "b) Medine'de devletleşme sürecinde gerçekleşen faaliyetleri ayrıştırır.",
+        "c) Medine'de devletleşme sürecinde gerçekleşen faaliyetleri tasnif eder.",
+        "ç) Medine'de devletleşme sürecinde gerçekleşen faaliyetlere dair tasnifi isimlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "-",
+  "support": [
+    "Öğrencilerden Hicret'in nedenleri hakkında verilen bir metni okumaları istenir. Bu metin, görme engelli öğrenciler için seslendirilebilir ve işitme engelli öğrenciler için görsellerle desteklenebilir. Öğrencilerden okunan metindeki ana fikri bulmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden Medine'ye hicret eden Müslümanlardan birinin hicret tecrübesini araştırarak bununla ilgili bir şiir veya hikâye yazmaları istenebilir. Öğrencilerden Hz. Peygamber'in Medine'ye hicret rotasını harita üzerinde işaretlemeleri ve bu rotada karşılaşılan zorlukları belirlemeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; balık kılçığı diyagramı, evet-hayır kartları, anlam çözümleme tablosu, bütüncül dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilere Medine'ye hicretle ilgili bir performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "PH.9.3.1 Hicret'i hazırlayan dinî, siyasi ve sosyal sebepler ele alınır. Hz. Peygamber'in Taif yolculuğu, sebep ve sonuçlarıyla birlikte ele alınır. Hz. Peygamber'in Mekke'ye gelen kabilelerle görüşerek siyasi destek bulmaya çalışmasına değinilir. Öğrencilerden Hicret'i hazırlayan sebepleri balık kılçığı diyagramı üzerinde göstermeleri istenebilir. Hicret'i hazırlayan sebeplerin benzer ve farklı özellikleri belirlenir. Müslümanları Hicret'e götüren süreç ele alınarak öğrencilerden bu olayın sonucu ile ilgili önermelerde bulunmaları istenir. Bu önermeler evet-hayır kartları ile değerlendirilebilir.",
+    "PH.9.3.2 Birinci ve İkinci Akabe Biatleri tüm yönleriyle ele alınır. Bu biatlerin benzerlik ve farklılıkları ortaya konur. Bu özellikler Venn diyagramı ile listelenebilir. Öğrencilerden Akabe Biatlerinin sadece birinde bulunduğu varsayılan iki kurgusal karakterin ağzından, katıldıkları biatin içeriğini diğerine haber veren iki mektup yazması istenebilir. Yazılan mektuplar bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "PH.9.3.3 Müslümanların Medine'ye hicret yolculuğu örnekler verilerek işlenir. Hz. Peygamber'in hicret yolculuğu ele alınır. Hz. Peygamber'in bu yolculuğa çıkmadan önce emanetleri sahiplerine teslim etme gayreti (D6.2) üzerinde durulur. Öğrencilerden Hicret ve Hicret'in önemi hakkında, gerçeği arama arzusuyla (E3.4) 5N1K soruları sormaları ve konu hakkındaki bilgileri bir araya getirip bu soruları cevaplamaları istenir. Verilen cevapların doğruluğu öğretmen tarafından değerlendirilir ve öğrencilere anlık dönüt verilir. Medine'ye hicretin önemi konusunda öğrencilerden görüş bildirmeleri istenir. Bu kapsamda beyin eseri tekniği kullanılabilir. Öğrencilerden performans görevi olarak bir gazete için Medine'ye hicret konulu köşe yazısı yazmaları istenebilir. Konu bu kapsamda Türk dili ve edebiyatı ile ilişkilendirilir. Yapılan çalışmalar; öz değerlendirme formu ve içinde verilerin toplanması, verilerin düzenlenmesi, içerik, doğruluk ve sunum ölçütleri bulunan bütüncül dereceli puanlama anahtarı ile değerlendirilir.",
+    "PH.9.3.4 Hicret'ten sonra gerçekleşen faaliyetler kapsamında Mescid-i Nebevi'nin inşası ve işlevleri, Ashabısuffe, muahat, Medine Vesikası; oruç, zekât ve haccın farz kılınması, ezanın teşrii, Medine pazarının kurulması, kıblenin değişmesi, seriyye ve gazveler, İslam'a davet mektupları, Heyetler Yılı konuları ele alınır. İslam toplumunun oluşumu sürecinde Hz. Peygamber'in münafıklara karşı siyasetine değinilir. Öğrencilerin Hicret'ten sonra gerçekleşen faaliyetlerle ilgili bilgi ve becerilerini ölçmek için 3-2-1 kartları kullanılabilir. Muhacirlerin geçim ve konaklama problemlerini çözmeye yönelik tedbirlere (SDB3.3) , sosyal ve kültürel olarak farklı grupların Medine toplumu paydasında birleştiğine (SDB2.3) değinilir. Öğrencilerden Hicret'ten sonra gerçekleşen faaliyetleri dinî, siyasi, toplumsal ve ekonomik olarak ayrıştırmaları ve anlam çözümleme tablosu üzerinde tasnif edip işaretlemeleri istenebilir. Öğrencilerden Hicret'in Müslümanlara sağladığı imkânları kendi cümleleriyle ifade etmeleri istenir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/220"
+}

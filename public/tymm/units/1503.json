@@ -1,0 +1,67 @@
+{
+  "unitId": 1503,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Çevre Eğitimi ve İklim Değişikliği Dersi",
+  "title": "1. Ünite: İnsan Ve Doğa",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ÇEİD.1.1",
+      "title": "İnsan ve doğa arasındaki ilişkiyi tartışabilme",
+      "processComponents": [
+        "a) İnsan ve doğa arasındaki ilişkiye yönelik görüşlerini mantıksal olarak temellendirir.",
+        "b) İnsan ve doğa arasındaki ilişkiye yönelik görüşleri mantıksal açıdan kıyaslayarak tutarsızlıkları tespit eder.",
+        "c) İnsan ve doğa arasındaki ilişki konusunda ulaştığı görüşleri çürütür veya kabul eder."
+      ]
+    },
+    {
+      "code": "ÇEİD.1.2",
+      "title": "Doğal dengeye ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Doğal dengeye ilişkin nitelikleri tanımlar.",
+        "b) Doğal dengeye ilişkin veri toplar ve kaydeder.",
+        "c) Doğal dengeye ilişkin topladığı verileri yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "ÇEİD.1.3",
+      "title": "Doğal dengenin korunmasına yönelik bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Doğal dengenin korunmasını olumsuz etkileyen bir soru veya problemi tanımlar.",
+        "b) Sorusunu/problemini cevaplamada kullanabileceği bir model geliştirir.",
+        "c) Ülkemizde ve dünyada yapılan çalışmaları inceleyerek probleme ilişkin araştırmasını planlar ve gerçekleştirir.",
+        "ç) Doğal dengenin korunmasına yönelik elde ettiği verileri analiz ederek yorumlar.",
+        "d) Doğal dengenin korunmasına yönelik kanıta dayalı açıklama yapar ve çözüm üretir.",
+        "e) Doğal dengeyi korumaya yönelik bilgiyi değerlendirerek paylaşır."
+      ]
+    }
+  ],
+  "keyConcepts": "canlı-cansız varlıklar arasındaki ilişki, canlıların beslenme ilişkisi, doğa, doğal denge, ekosistem",
+  "support": [
+    "Yakın çevrelerinde bulunan park, mera vb. alanlardaki canlı türlerini gözlemleyerek bu canlılar arasındaki beslenme ilişkilerini açıklamaları istenebilir.",
+    "Öğrencilere, insan faaliyetleri sonucunda çevrede meydana gelen kirliliklerden birine ilişkin gözlem yapmalarını içeren bir araştırma görevi verilebilir."
+  ],
+  "enrichment": [
+    "Yakın çevrelerinde bulunan canlıların beslenme ilişkilerini gözlemleyip fotoğraflamaları ve bu canlıların doğal dengedeki görevlerini açıklayan bir poster hazırlayıp arkadaşlarına sunmaları istenebilir.",
+    "Yaşadıkları çevrede doğal dengeyi olumsuz etkileyen bir durumu belirleyerek çevre sakinlerini bilinçlendirmek için bir sosyal sorumluluk projesi tasarlayıp yürütmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, yapılandırılmış grid, açık uçlu sorular, performans görevleri vb. ölçme ve değerlendirme araçları kullanılabilir. Ayrıca bu süreçte ortaya çıkan öğrenci ürünleri geleneksel veya eko dijital ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir.",
+    "Öğrencilere doğada canlı ve cansız varlıkların etkileşimleriyle ilgili bilgi toplamaları ve raporlaştırmalarına yönelik performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Öğrencilere doğal dengeyi olumsuz etkileyen bir probleme çözüm üreterek raporlaştırmalarını içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "ÇEİD.1.1",
+    "Öğrencilere insanların doğaya olan etkileri ve doğanın insanlara olan etkileri ile ilgili merak uyandırmak için açık uçlu sorular yöneltilebilir ( E1.1 ). Öğrencilerin doğaya karşı sorumlu olduklarını fark etmeleri sağlanır ( D19.3 ). Öğrencilerin insan faaliyetlerinin doğaya, doğanın da insanlara olan etkilerine ilişkin tartışmaları sağlanır ( SDB2.1 , SDB3.3 ). Bu süreçte gruplara ayrılan öğrencilerin tartışma yöntemlerinden biri olan altı şapkalı düşünme tekniğinden faydalanmaları ve görüşlerini açık fikirlilikle ifade etmeleri sağlanabilir ( E3.5 ). Tartışma sırasında insan ve doğa arasındaki ilişkiye yönelik görüşlerini açıklamaları ve bu görüşlere yönelik mantıksal temellendirme yapmaları sağlanır. Bu süreçte doğaya duyarlılıkla yaklaşmaları desteklenir ( D5.2 ). İnsan ve doğa ilişkisi hakkında ortaya atılan görüşleri gerçeği arama isteğiyle mantıksal açıdan kıyaslamaları sağlanır ( SDB3.3 , E3.4 , D3.3 ). Açık uçlu sorularla konu üzerine daha fazla düşünmeleri sağlanabilir. Konu hakkında ortaya atılan görüşlerdeki çelişkileri fark etmeleri beklenir ( KB2.1 , KB2.7 ). Bu aşamada ortaya çıkan fikirleri eleştirel bakış açısıyla irdeleyip kendi görüşleri hakkında düşünmeleri beklenir ( KB3.3 , E1.4 , E3.10 , SDB1.2 ). İnsan ve doğa ilişkisi konusunda ulaştıkları görüşleri tarafsız bir şekilde değerlendirip çürüterek ya da kabul ederek geçerli fikir oluşturmaları istenir ( SDB2.3 , SDB3.3 ). Bu süreçte öğrencilerin açık fikirli davranmaları, araştırmacı ve sorgulayıcı bakış açısıyla fikirlerini savunmaları sağlanır ( E3.5 , D3.3 ). Ayrıca duygu ve düşüncelerini açıkça ifade etmeleri teşvik edilir ( D6.2 ). Tartışma sürecinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Kentleşme, sanayileşme, ulaşım vb. faaliyetlerin doğaya etkilerine değinilir. Doğanın insanlar üzerindeki etkilerinden kısaca bahsedilir. Ekosistem kavramından bahsedilerek insanın bu ekosistemin bir parçası olduğu, insan ve doğa arasındaki denge ve uyumun önemi vurgulanır. İnsan faaliyetlerinin doğaya olan olumsuz etkilerini azaltmak için bilinçlenmenin önemi vurgulanır. \"Doğa bize atalarımızdan miras kalmadı, onu çocuklarımızdan ödünç aldık.\" sözü verilerek doğanın bir emanet olarak görülmesi gerektiği öğrencilere fark ettirilir. Bilinçlenmenin aynı zamanda ülke kaynaklarımızı korumak anlamına geldiği ve ülkemiz için oldukça önemli olduğu vurgulanarak bu konuda farkındalık geliştirmeleri desteklenir ( D19.3 , OB6 ). İnsan ve doğa ilişkisinde hem insanı hem doğayı koruma konusunda yerel ve küresel önlemlerle ilgili çalışmalardan bahsedilerek bu çalışmaların önemi vurgulanır. Süreç sonunda bu konuda bireysel olarak yapılması gerekenleri listelemeleri istenir ( KB3.3 , SDB3.3 ). Değerlendirme amacıyla tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. araçlara yer verilebilir.",
+    "ÇEİD.1.2",
+    "Öğrencilerin doğal dengedeki canlı ve cansız varlıkların ilişkileri ile canlıların beslenme ilişkileri konusundaki fikirleri açık uçlu sorularla sorgulanabilir ( E3.5 ). Öğrencilerin bu sorgulamalardan yola çıkarak doğal dengeye ilişkin nitelikleri tanımlamaları sağlanır ( OB1 , OB8 ). Öğrencilerin gruplara ayrılarak doğal dengeye ilişkin bilgi toplamaları ve bu bilgiyi raporlaştırarak kaydetmelerini içeren performans görevi verilir ( OB1 , D3.3 , KB2.6 ). Bu görevde canlı ve cansız varlıkların etkileşimleri ile canlıların beslenme ilişkilerine odaklanmaları sağlanır. Süreçte öğrencilerin olumlu iletişim kurarak birlikte çalışmaları ve merak ettikleri soruları sormaları sağlanır ( SDB2.1 , SDB2.2 , E1.1 , E3.8 ). Öğrencilerin araştırmacı ve sorgulayıcı bakış açısıyla düşünmeleri, sistematik olmaları istenir ( D3.3 , E3.7 , E3.10 ). Hazırladıkları raporları sunmaları beklenir ( SDB2.1 ). Öğrenci raporları analitik dereceli puanlama anahtarıyla değerlendirilebilir. Ardından öğrencilerin doğal dengeye ilişkin topladıkları verileri sınıf tartışmasıyla yorumlayarak değerlendirmeleri istenir ( KB3.3 , E3.1 , E3.10 , SDB3.3 , OB8 ). Doğadaki beslenme ilişkilerine ve bu ilişkilerin doğal dengeye etkilerine değinilir. Doğal dengedeki canlı ve cansız varlıkların ilişkileri örneklendirilir. Bu dengenin sürdürülebilirlikteki yeri ve çevresel sürdürülebilirlik için önemi vurgulanarak doğal denge konusunda farkındalık geliştirmeleri desteklenir ( OB8 ). Türk-İslam kültüründe doğal dengeye saygının önemi vurgulanarak bu dengeyi korumaları konusunda ahlaki duyarlılıkla davranmaları beklenir ( D9.3 , D19.3 ). Atalarımızın kuşların meyvelerinden yiyebilmesi için ağaç diktiğine değinilir. Neşet Ertaş'ın \"Yolcu\" türküsündeki ilk dörtlük verilerek doğadaki dengenin kültürümüzdeki yerini fark etmeleri sağlanır ( D19.3 ). Tanılayıcı dallanmış ağaç, açık uçlu sorular vb. değerlendirme amacıyla kullanılabilir.",
+    "ÇEİD.1.3",
+    "Öğretmen tarafından ders öncesinde hazırlanan doğal dengeyi olumsuz etkileyen örneklere ait görsel, gazete haberi, video, belgesel kesiti vb. gösterilebilir ( OB1 , OB4 ). Verilen örnekler ya da görsellerin çevre etiği bağlamında büyük grupla tartışılması sağlanır ( SDB2.1 , SDB2.2 , D5.2 , KB3.3 ). Öğrencilere doğal dengeyi olumsuz etkileyen bir probleme çözüm üreterek raporlaştırmalarına yönelik performans görevi verilir. Bu süreçte öncelikle öğrencilerin gruplara ayrılarak doğal dengenin korunmasını olumsuz etkileyen bir soru veya problemi sorumluluk bilinciyle tanımlamaları sağlanır ( SDB2.1 , SDB2.2 , SDB3.3 , E3.2 ). Tanımladıkları probleme çözüm oluşturabilecek bir model geliştirmeleri istenir ( KB3.2 , SDB2.3 , OB1 , E3.3 ). Ülkemizde ve dünyada yapılan çalışmaları inceleyerek probleme ilişkin yapmak istedikleri araştırmayı planlamaları ve gerçekleştirmeleri sağlanır ( KB2.6 , D3.3 ). Bu süreçte öğrencilerin toplumsal bir sorunun çözümüne yoğunlaşmaları ve sorumluluk almaları teşvik edilir ( E2.2 , E3.1 ). Öğrencilerden araştırma sonuçlarına göre doğal dengenin korunmasına yönelik elde ettikleri verileri analiz ederek yorumlamaları beklenir ( KB3.3 , OB7 , E3.6 ). Ulaştıkları analizlere ait bilgileri kullanarak doğal dengenin korunmasına yönelik kanıta dayalı açıklama yapmaları ve bir çözüm üretmeleri beklenir ( SDB3.3 ). Ardından doğal dengeyi korumaya ilişkin bilgiyi değerlendirerek raporlaştırmaları ve sunmaları istenir. Süreç, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Doğal dengeyi olumsuz etkileyen aşırı avlanma, bilinçsiz tarım ilacı kullanma, anız yakma vb. durumlardan kısaca bahsedilir. Doğal dengeye ilişkin davranışlarının canlılar üzerindeki etkilerini değerlendirmeleri ve uygun davranış geliştirmeleri desteklenir ( SDB2.3 , D5.2 , D13.4 , D16.3 ). Doğal dengeyi koruma konusunda duyarlı davranmanın insani bir sorumluluk olduğu ve bu alanda yapılan çalışmalara saygı duyulması gerektiği vurgulanarak öğrencilerin bu konuda kendilerini sorumlu hissetmeleri sağlanır ( D14.3 , D18.3 ). Âşık Veysel gibi kültürel öneme sahip kişilerin doğa sevgisi ve doğal dengeye ilişkin sözleri sunularak doğa sevgisinin kültürdeki yerini fark etmeleri sağlanır ( OB5 , D19.3 ). Öğrencilerin doğa temelli etkinliklere, doğa yürüyüşleri ile atık toplama, oryantiring vb. etkinliklere gönüllü katılımları desteklenerek çevresel temizliğe ve doğa sevgisine önem vermeleri sağlanabilir ( OB8 , D5.2 , D9.3 , D13.2 , D18.3 ). Tanılayıcı dallanmış ağaç, açık uçlu sorular vb. değerlendirme amacıyla kullanılabilir."
+  ],
+  "skills": [
+    "FBAB8. Bilimsel Çıkarım Yapma, FBAB13. Bilimsel Sorgulama"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1503"
+}

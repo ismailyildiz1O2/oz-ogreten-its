@@ -1,0 +1,72 @@
+{
+  "unitId": 81663024,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "24. ÜNİTE: PROGRAMLAMA DİLLERİ (C++) - 5. ÜNİTE: VERİ TABANI İŞLEMLERİ",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.24.1",
+      "title": "Veri tabanı yazılımlarını C++ arayüzü ile entegre eder",
+      "processComponents": [
+        "Veri tabanı yazılımlarını kurma ve C++ uygulamalarıyla entegre etme anlatılır.",
+        "Projelerde uygun veri tabanını seçmek için veri tabanı yazılım türleri öğretilir.",
+        "C++ programlama arayüzü ile veri tabanları arasında veri alışverişi yapma ve veri tabanı bağlantısını yönetme örnekleri inceletilir."
+      ]
+    },
+    {
+      "code": "BTY.24.2",
+      "title": "Veri tabanı tasarımı yapar",
+      "processComponents": [
+        "Veri tabanı tasarımı yapmayı ve veri tablolarını, alanlarını, ilişkilerini planlama öğretilir.",
+        "Veri tabanı şeması oluştururken verilerin tutarlı ve erişilebilir olmasını sağlayacak durumlar vurgulanır.",
+        "Farklı veri tabanı tasarım araçlarını kullanarak tasarım sürecini görselleştirme ve yönetme durumları örneklendirilir."
+      ]
+    },
+    {
+      "code": "BTY.24.3",
+      "title": "Tablo işlemlerini gerçekleştirir",
+      "processComponents": [
+        "Veri tabanında tablo oluşturma, veri ekleme, güncelleme ve silme işlemlerini öğrenir.",
+        "Veri tabanında oluşturulan tabloları sorgulama ve filtreleme yeteneklerini yönetme çalışılır.",
+        "İşlevsel uygulamalar için tablo işlemlerini iş mantığıyla entegre etme durumu fark ettirilir."
+      ]
+    },
+    {
+      "code": "BTY.24.4",
+      "title": "Temel SQL komutlarını kullanır",
+      "processComponents": [
+        "Select, Insert, Update, Delete temel SQL komutlarını kullanarak verileri çekme, veri ekleme, var olan veriyi güncelleme ve silme işlemleri uygulatılır.",
+        "Veri tabanı sorguları oluştururken dinamik parametrelerle çalışma ve güvenli sorgu oluşturma becerileri geliştirilir.",
+        "Karmaşık SQL sorguları (Join operatörleri, alt sorgular, indeksleme vb.) ile veri tabanlarını etkili bir şekilde sorgulama vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.24.5",
+      "title": "İlişkisel veri tabanları oluşturur",
+      "processComponents": [
+        "Farklı tablolar arasındaki ilişkileri çözmesi için ilişkisel veri tabanlarının kullanımı öğretilir.",
+        "Veri tabanı modellemesi için veri tabanı şeması düzgün biçimde normalleştirilir.",
+        "İlişkisel veri tabanlarının verileri tutma ve ilişkilendirme yeteneklerini kullanarak karmaşık veri tabanı yapıları oluşturulur."
+      ]
+    },
+    {
+      "code": "BTY.24.6",
+      "title": "C++ programlama arayüzü ile oluşturulan veri tabanlarına bağlantı sağlar",
+      "processComponents": [
+        "C++ programlama arayüzünde oluşturulan tablolardan veri çekme, veri güncelleme ve veri silme temel işlemleri uygulatılır.",
+        "Veri tabanı etkileşimli formlar tasarlatarak kullanıcıların arayüz üzerinden verilere erişme senaryoları gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

@@ -1,0 +1,63 @@
+{
+  "unitId": 1449,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi (Maarif Modeli)",
+  "title": "4. ÜNİTE: ÜRÜN GELİŞTİRME",
+  "hours": "10",
+  "description": "Dördüncü ünitede öğrencilerin yaşadığı çevrede ve kullandığı eşyalarda ergonominin önemini kavramaları ve ürün geliştirme sürecinde buna dikkat etmeleri amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.8.4.1",
+      "title": "Ergonomi ve tasarım ilişkisini sorgulayabilme",
+      "processComponents": [
+        "a) Ergonomi ve tasarım ilişkisini tanımlar.",
+        "b) Ergonomi ve tasarım ilişkisi hakkında sorular sorar.",
+        "c) Ergonomi ve tasarım ilişkisi hakkında bilgi toplar.",
+        "ç) Ergonomi ve tasarım hakkında toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden ergonomi ve tasarım ilişkisi hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TT.8.4.2",
+      "title": "Ürünleri ergonomik açıdan gözlemleyebilme",
+      "processComponents": [
+        "a) Ürünlerin ergonomik özelliklerini değerlendirmek için amaç ve ölçütler belirler.",
+        "b) Ürünlerin ergonomik özelliklerini gözlemler ve veri toplar.",
+        "c) Ürünlerin ergonomik özelliklerini gözlemleyerek elde ettikleri verileri sınıflandırır ve kaydeder."
+      ]
+    },
+    {
+      "code": "TT.8.4.3",
+      "title": "Ergonomik bir ürün oluşturabilme",
+      "processComponents": [
+        "a) Ergonomik bir ürüne yönelik taslak oluşturur.",
+        "b) Taslağı bir ürüne dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "antropometri, ergonomi, ürün geliştirme.",
+  "support": [
+    "Öğrencilere ergonomik tasarımlar üzerine videolar izletilebilir. Ergonominin yaşam kalite sine etkisi üzerine hayatın içinden örnekler verilerek öğrencinin ergonominin önemini fark etmesi sağlanabilir.",
+    "İmkânı kısıtlı olan okullarda günlük kullanılan kaşık, bardak, cep telefonu, mause, kalem vb. araçlar üzerinden ergonominin önemi üzerinde durulabilir. Bu süreçte ergonominin ürün satışındaki etkisini gösteren istatistiki veriler elde edilebilir. Bu verilerden hareket edilerek bir bilgilendirme tasarımı veya afiş çalışması ile görselleştirilebilir.",
+    "Ergonomi ile ilgili bilgi toplama, kategorileştirme, çıkarım yapma, eskiz yapma gibi çalış malarda öğrenci için adım adım görev kartları hazırlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin 3D modelleme programlarını kullanarak arkadaşlarından birisi için onun ihtiyacı giderecek ergonomik bir ürün tasarlamaları sağlanabilir. Bu 3D model için gereken kod oluşturma yapay zekâ araçlarıyla gerçekleştirilebilir. Bu 3D modeller kullanılarak im kânlar dâhilinde 3D yazıcılarla ürün hâline dönüştürülebilir."
+  ],
+  "assessment": [
+    "Performans görevi olarak öğrencilerden ergonomi ilkelerini dikkate alarak bir ürün tasarımı geliştirmeleri, bu tasarımı 3D model veya uygun görsel sunumlarla ifade etmeleri ve ürünün ergonomik özelliklerini analiz eden kısa bir rapor hazırlamaları istenebilir.",
+    "Her bir çalışma, öğretmen tarafından geliştirilen rubrik değerlendirme formu ile de değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TT.8.4.1.",
+    "Öğrencilerden çevresinde gördükleri ürünler üzerinde kullanışlılık açısından şekil, yüzey, form, ölçü, oran-orantı gibi faktörlerin etkilerini defterlerine not almaları istenir. Toplanan bilgiler üzerinden ergonomi ve tasarım ilişkisi hakkında çıkarım yapmaları beklenir. Öğretmen ergonomi kavramının ve tasarım süreçlerindeki öneminin kavranmasını sağlamak amacıyla günlük yaşamda kullanılan ergonomik ve ergonomik olmayan birkaç tane nesne gösterir. Örnek olarak bigisayar klavyesi, bilgisayar ekran yüksekliği verilebilir. Bu nesnelerden yola çıkarak öğrencilerden ergonomi kavramını tanımlamaları istenir. Ergonomi ve tasarım ilişkisinin insan yaşamında nerelerde ve nasıl etkili olduğunu düşünerek ergonomi ve tasarım ilişkisini derinlemesine anlamak için öğrencilerden 5N 1K yöntemiyle sorular sormaları istenir. \"Ergonomik bir ürün nasıl tasarlanır?\", \"Ergonomi, tasarım süreçlerinde neden önemlidir?\", \"Bir ürünün ergonomik özellikleri kullanıcı deneyimini nasıl etkiler?\" gibi örnek sorular sorulabilir ve öğrencilerin bu sorulara cevap vermeleri istenir. Bu sorular, sınıf ortamında tartışılarak öğretmen tarafından daha fazla yönlendirme yapılarak öğrenme süreci zenginleştirilebilir (SDB2.1). Öğrenciler güvenilir ve akademik kaynaklardan ergonomi ve tasarım ilişkisine dair bilgi toplar. Kitap, makale, dergi veya akademik içerikli web sitelerinden elde edilen bilgiler, ergonomik ürün tasarımlarına dair örneklerle zenginleştirilebilir (OB1, OB2). Örneğin ofis sandalyesi, televizyon kumandası gibi günlük yaşamda kullanılan ürünlerin ergonomik özellikleri incelenir ve bu özelliklerin kullanıcı deneyimindeki rolü tartışılabilir. Toplanan bilgiler, öğrenciler tarafından kaynakların doğruluğu ve güvenilirliği açısından değerlendirilir. Böylece öğrenciler bilgilerin geçerliliğini değerlendirerek doğru ve yanlış bilgiyi ayırt etme becerisi kazanır (KB2.6). Öğrenciler süreç boyunca edindikleri ve topladıkları bilgileri analiz ederek ergonomi ve tasarım ilişkisine dair çıkarımlarda bulunur (SDB3.3). Her öğrenci, ergonomik tasarımın insan yaşamındaki etkilerini ele alan bir metin hazırlayabilir. Bu metinlerde ergonomik tasarımın ürünlerin kullanıcı dostu olması gerektiği, bu durumun kullanım kolaylığı sağlayabildiği, hem konforu hem de sağlık üzerinde olumlu etkiler yaratabildiği ile ilgili ifadelere yer verilebilir. Hazırlanan metinler, sınıf panosunda paylaşılabilir (D17.1).",
+    "TT.8.4.2.",
+    "Öğretmen günlük hayatta kullanılan birkaç nesneyi (sandalye, bardak, televizyon kuman dası, sürahi) sınıfa getirir. Bu ürünlerin ergonomik açıdan değerlendirilmesi için kullanım kolaylığı, uygunluk, malzeme, güvenlik, estetik gibi ölçütler belirler. Ürünlerin kullanıcı de neyimini nasıl etkilediğini anlamaları için bu ürünün kullanıcı deneyimini artıracak ergonomik özelliklerin neler olabileceğini düşünmelerini sağlayacak sorular sorar (E3.8). Öğretmen öğrencilerden antropometri ile ilgili bir hafta önceden araştırma yapmalarını ister. Öğrencilerin elde ettikleri bilgiler ışığında antropometriden bahsederek insan vücudunun ölçülerini ve oranlarını inceleyen bir bilim dalı olduğunu, ürünlerin insan vücudu ölçülerine uygun tasarlanması gerektiğini, bu sayede ergonomik, rahat ve güvenli ürünler oluşturulabileceğini belirtebilir (OB1). Öğrencilerden günlük yaşamlarından buna ilişkin örnekler vermeleri istenir (SDB1.1). Belirlenen ölçütlere göre öğrenciler sınıfa getirilen nesnelerin ergonomik özelliklerini gözlemler ve gözlemlerini sınıflandırarak kaydeder (OB7). Örneğin bir sandalye üzerinde oturarak duruş pozisyonunun rahatlığını değerlendirirler veya bir televizyon kumandasını tutarak boyutunun ve tuş yerleşiminin ergonomik olup olmadığını analiz ederler. Öğrenciler sürahi gibi bir ürün için \"Tutuş kolaylığı sağlıyor mu?\", \"Ekonomik mi?\", \"Geri dönüşüme uygun mu?\" gibi soruları kendisine sorarak gözlemlerini arttırır (OB8, D5.2, KB2.6). Gözlemleri sırasında elde ettikleri verileri bir tabloya kaydederler (içerisinde ürün adı, kullanım kolaylığı, ekonomikliği, geri dönüştürülebilirliği, estetiklik, malzeme, güvenlik, antropometrik vb. kriterlere göre bir tablo oluşturur ve gözlemlediği ürünü bu kriterlere göre değerlendirir. Değerlendirme sonucunu defterine kaydeder.) (OB7, E3.7).",
+    "Bu tablo öğretmen tarafından değerlendirilebilir. Öğrenciler topladıkları verileri ergonomik kriterlere göre sınıflandırır ve değerlendirir. Her öğrenci, gözlemlerine dayalı olarak ürünlerin ergonomik özellikleri hakkında bireysel bir rapor hazırlar. Bu raporlarda kullanım kolaylığı, uygunluk, malzeme, güvenlik, estetik, antropometrik vb. açıdan değerlendirdikleri ürünleri \"çok ergonomik,\" \"kısmen ergonomik\", \"ergonomik değil\" gibi kategorilere ayırırlar ve hazırlayacakları dereceleme ölçeğinde belirtirler (KB2.5). Farklı bakış açılarını anlamak için birkaç öğrenci raporu akranları tarafından incelenip değerlendirilerek karşılaştırılır (D10.3, SDB2.3).",
+    "TT. 8.4.3.",
+    "Öğretmen sınıfı gruplara (3-5 kişilik) ayırır. Her grup bilekleri yormayan mouse pad, kalem tutmayı kolaylaştıran aparat, bel desteği gibi insan yaşamını kolaylaştıran ergonomik örnekleri düşünerek çevresinde karşılaştıkları buna benzer bir problem/problemleri belirlemeleri sağlanır (SDB2.2, SDB3.3). Araştırma sonucunda belirledikleri bu problemin gerekçesini tanımlamaları, çözümüne yönelik fikir veya fikirler geliştirmeleri, öğretmenin rehberliğinde fikirlerin arasından en iyisinin belirlenmesi, yapmak istedikleri ürün taslağı nın hazırlanması için incelemeler yapmaları sağlanır. Tasarım sürecinin gereklilik ve sınırlılıklarını göz önünde bulundurarak, bilimsel gelişim için merak duygusunu da kullanarak (D3.3) ergonomik bir ürün tasarımına yönelik resim kâğıdına eskiz yapması beklenir. Öğrencilere bir önceki haftadan tasarımlarını ürüne dönüştürme sürecinde kullanacakları keçe, sünger, atık bez-kumaş, gazete (kâğıt hamuru), karton, yün gibi malzemeleri tercih edebilecekleri ifade edilir. Kendi ürünlerini oluşturabilmeleri için en uygun araç gereç ve malzemeleri belirleyip (D5.2) sınıfa getirmeleri istenir (OB8). Ü rünü ortaya çıkartabilmek için uygulama yöntemlerini ve tekniklerini belirleyerek uygulama aşamalarını belirledikleri konuya ve işleve göre sıralarlar. Belirledikleri yöntem ile ürünün üretim aşamalarını uygularlar. Gruplar ürettikleri ürünü diğer gruplara sunar (SDB2.1). Ürünlerin akran görüşlerine göre değerlendirilebilmesi için her grubun sözcüsünün üyesi olduğu bir değerlendirme komisyonunun kurulması sağlanır. Söz konusu komisyonun kullanım kolaylığı, uygunluk, malzeme, güvenlik, estetik, antropometrik vb. açılardan ergonomi, mukavemet, ekonomiklik, zaman, sürdürülebilirlik vb. faktörleri de dikkate alarak en iyi tasarımın hangisi olduğunu belirlemeleri beklenir (SDB3.3). Sunumdan sonra her grubun yapılan ürünlere dönük, daha iyi nasıl olabilirdi sorgulamasını yapmaları sağlanır (E3.10). Örneğin bir ürünün sürdürülebilir olup olmadığını değerlendirirken kullanılan malzemelerin geri dönüştürülebilir olmasına dikkat eder ve kaynaklarını etkili şekilde kullanarak ailesine ve arkadaşlarına örnek olur (D17.3). Bu sayede öğrencilerin yaptıkları ürünler arasında, birbirleri ile iletişim kurarak, karşılaştırma yapmaları (SDB2.1) ve hangi ortak fikirde buluştuklarını, neyi düşünemediklerini, hangi bilgiye sahip olamadıklarını veya eksik bilgilerinin ne olduğunu değerlendirerek bir ürünün nasıl daha ergonomik olabileceğini fark etmeleri sağlanır (SDB2.3, SDB3.3). Öğrencilerden performans görevi olarak ergonomik bir ürün tasarımını 3D model olarak sunmaları, tasarıma ilişkin sunum hazırlamaları ve ergonomik ürün analiz raporlarını bir araya getirerek ürün dosyası oluşturmaları beklenebilir. Bu performans görevi, öğretmen tarafından hazırlanan rubrik değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1449"
+}

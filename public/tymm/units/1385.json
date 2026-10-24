@@ -1,0 +1,51 @@
+{
+  "unitId": 1385,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "4. TEMA: ÇALGIMDA TEMEL DAVRANIŞLAR (VİYOLA)",
+  "hours": "10",
+  "description": "Temada viyolanın doğru duruşu ve tutuşuna yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.1.4.1",
+      "title": "Viyolada duruş-tutuş pozisyonunu tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "duruş, pozisyon, tutuş",
+  "support": [
+    "Destekleme sürecinde öğretmen öğrencilerin viyola tutuşlarını bireysel olarak gözlemleyip hatalarını düzelterek gelişimlerine katkı sağlayabilir ayrıca öğrencilere ayna karşısında kendi duruş ve tutuşlarını gözlemleme alışkanlığı kazandırılabilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde öğrencilere profesyonel viyolacıların duruş ve tutuş tekniklerini gösteren videolar izletilerek model alınması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi ve performans görevi ile ölçülebilir. Performans görevi olarak öğrencilerden öğrendikleri doğru viyola tutuşu ve yay kullanımı tekniklerini sınıf önünde uygulayarak kısa bir performans sergilemeleri istenir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VİY.1.4.1",
+    "Viyola çalgısını çalarken en önemli adımlardan biri, onu doğru ve dengeli bir şekilde tutmaktır. Öğretmen, viyolanın omuzda nasıl dengede duracağını, çeneliğin nasıl kullanılacağını ve sol elin pozisyonunu gösterir ve öğrencilerin gözlem yapmaları sağlanır ( KB2.2 ). Öğrencilerin çalgıyı rahat ve doğru şekilde tutabilmek için odaklanıp dikkatli olmaları ve verilen yönergeleri takip etmeleri beklenir ( E3.2 ). Öğrencilere viyolanın nasıl tutulması gerektiğini anlatan şemalar ve görseller gösterilir. Böylece öğrenciler, görsellerden bilgi çıkarma becerisi kazanır ( OB4) . Öğrenciler sırayla viyolalarını ellerine alarak çenelik yardımıyla doğru tutuş denemeleri yaparlar. Bu sayede gayretli olmanın hedeflere ulaşma üzerindeki etkisini fark etmeleri sağlanır ( D3.1.2 ). Öğretmen bireysel düzeltmeler yaparak her öğrencinin viyolayı rahatça tutmasını sağlar. Öğretmen, yayın sapının başparmak ve diğer parmaklarla nasıl kavranacağını açıklar ve öğrencileri tek tek kontrol ederek doğru tutuş için rehberlik eder ( SDB2.1 ). Öğrenciler yay kullanımını öğrenmek için sabırlı ve dikkatli olma eğilimi geliştirirler ( D12.1 ). Öğrencilerin doğru yay tutuşunu kazanabilmek için düzenli çalışmaları gerektiğini fark etmeleri sağlanır ( D3.2 ). Öğrenciler, eğitim videoları izleyerek doğru yay tutuşunu öğrenebilir. Ayrıca dijital simülasyonlar veya etkileşimli uygulamalar kullanarak sanal ortamda yay hareketlerini taklit edebilirler. Öğrencilerin beğendikleri videoları kendi kişisel klasörlerine etkileşimli tahtayı kullanarak kopyalamaları sağlanır ( OB2 ). Öğrencilerin birbirine uyum sağlayabilmesi için oyun olarak öğrenciler yaylarını havada tutarak \"yay yürüyüşü\" yapar. Komut verildiğinde yaylarını sağa ve sola hareket ettirerek reflekslerini geliştirirler ( E2.5 ).Öğretmen, performans görevi olarak öğrencilerden öğrendikleri doğru viyola tutuşu ve yay kullanımı tekniklerini sınıf önünde uygulayarak kısa bir performans sergilemelerini ister."
+  ],
+  "skills": {
+    "deger": [
+      "D12.1",
+      "D3.1.2",
+      "D3.2"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1385"
+}

@@ -1,0 +1,61 @@
+{
+  "unitId": 1472,
+  "grade": 0,
+  "gradeName": "DÜŞÜNME EĞİTİMİ DERSİ DÜZEY I",
+  "subject": "Düşünme Eğitimi Dersi",
+  "title": "DÜZEY I · 2. Ünite: Önermeler Ve Akıl Yürütme",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DE.1.2.1",
+      "title": "Önermeler hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Önermeler hakkında bilgiye ulaşmak için hangi araçları kullanacağını belirler.",
+        "b) Önermeler hakkında bilgiler bulur.",
+        "c) Önermeler hakkında ulaştığı bilgileri doğrular.",
+        "ç) Önermeler hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "DE.1.2.2",
+      "title": "Akıl yürütmenin yapısını çözümleyebilme",
+      "processComponents": [
+        "a) Akıl yürütmenin bileşenlerini belirler.",
+        "b) Akıl yürütmenin bileşenleri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "DE.1.2.3",
+      "title": "Akıl yürütmeleri türlerine göre sınıflayabilme",
+      "processComponents": [
+        "a) Bir akıl yürütmede bulunması gereken ölçütleri belirler.",
+        "b) Akıl yürütme türlerini benzerliklerine göre ayrıştırır.",
+        "c) Akıl yürütmeleri tümevarım, tümdengelim, analoji ve geri çıkarım başlıkları altında tasnif eder.",
+        "ç) Akıl yürütme örneklerini gerekçelendirerek türlerine göre etiketler."
+      ]
+    }
+  ],
+  "keyConcepts": "akıl yürütme, geçerlilik, gerekçe, işlev, kavram, öncül-sonuç, önerme",
+  "support": [
+    "Önceden hazırlanmış çalışma kâğıtlarında yer alan ifadeleri doğru/yanlış olarak ya da gerekçe yönüyle değerlendirmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere “Ali sınavdan yüksek not aldı.” cümlesi verilerek “Bu sonuç için hangi önermeleri üretirsiniz?” sorusu yöneltilebilir ve öğrencinin durum tespiti yapması istenebilir. Akıl yürütme ve ikna edicilik arasındaki farkı ortaya koyan iki ayrı akıl yürütme sunularak hangisinin daha gerekçeli (argüman) olduğu sorulabilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; çalışma kâğıdı, açık uçlu soru, düşün-eşleş-paylaş tekniği, yansıtıcı yazı, bilgi haritası, kontrol listesi, performans görevi, gözlem formu, dereceli puanlama anahtarı, grup değerlendirme formu ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden günlük hayatta karşılaştıkları bir yazılı ya da görsel materyali seçmeleri, seçtikleri materyalde yer alan gerekçesiz ifadeleri belirleyerek bu akıl yürütme hatalarının neden ortaya çıktığını açıklamaları ve bunların düşünme sürecine etkisini yorumlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "DE.1.2.1",
+    "Öğrencilerin verilen yazılı ve görsel kaynakları inceleyerek bunlar arasından önermelerin ne olduğuna ilişkin bilgi toplamada kullanabileceği kaynakları belirlemeleri sağlanır ( OB1 , OB4 , SDB1.2 ). Öğrencilere basit ve bileşik önerme kavramlarının tanımlandığı ve örneklendirildiği cümleler verilir. Sonrasında öğrencilerden önerme türlerini belirlemesi istenir. Ayrıca öğrencilere önerme olmayan cümleler verilir ve öğrencilerden bu cümlelerin neden önerme olmadıklarını açıklamaları istenir. Bu süreçte dijital kaynaklardan faydalanılabilir ( OB2 ). Kaynaklar arasında dijital içerikler, basılı yayınlar, öğretmen görüşmeleri, belgeseller ve uzman röportajları yer alabilir. Seçilen kaynaklardan bilgi toplanır ( E1.6 , OB1 , OB2 ). Bilgilerin kaynakları, tutarlılığı ve bilimsel geçerliği saygı çerçevesinde tartışılır ( D14.1 , KB2.18 ). Öğrencilerden kaynak güvenirliği üzerine zihinlerinde oluşan soruları sormaları istenir ( E3.8 ). Öğretmen kaynak güvenilirliği üzerine kısa bir rehberlik yapar. Bilgi doğrulama kriterleri oluşturulurken diğer yandan kaynak güvenilirliği, tarih, yazar, içerik tutarlılığı gibi merak ettikleri bir konu hakkında 1. ünitede hazırlamış olduğu “Merak Günlüğüm” adlı bireysel çalışmaya devam eder. Günlükler sınıf içinde sunulur. Bu çalışmaların sene sonunda portfolyo dosyasında toplanacağı bilgisi öğrencilere verilir. Süreç öz değerlendirme formu ile değerlendirilebilir.",
+    "DE.1.2.2",
+    "Öğrencilere, günlük hayatta sıklıkla kullanılan akıl yürütme içeren bazı ifadeler (“Hava kapalı olduğuna göre yağmur yağacak.”, “Bu ilaç daha önce işe yaradıysa yine işe yarar.” vb.) sunulur. Öğrencilerin bu ifadelerde sonuca nasıl ulaşıldığını ve hangi nedenlerin hangi sonuçları doğurduğunu tartışmaları sağlanır ( KB2.18 , SDB2.1 ). Öğrencilere akıl yürütmenin tanımı, bileşenleri ve koşulları hakkında yapılandırılmış bir metin sunulur. Öğrencilerden örnek akıl yürütmelerdeki kanıtlayan ve kanıtlanan önermeleri belirleyip öncül ve sonuç önermeleri olarak etiketlemeleri istenir. Küçük gruplara ayrılan öğrencilere, farklı disiplinlerden seçilmiş geçerli akıl yürütme örnekleri verilir. Öğrencilerden düşün-eşleş-paylaş tekniğini kullanarak “Bu akıl yürütmede öncüller, sonuca ulaşmayı nasıl sağlamaktadır?”, “Bu sonuç, verilen öncüller olmadan da çıkarılabilir miydi?”, “Verilen öncüllerden farklı bir sonuca da ulaşılabilir mi?” sorularını tartışmaları ve bu sorulara gerekçeli cevaplar üretmeleri istenir. Tartışma sırasında öğrencilerin görüşlerini yapıcı biçimde ifade etmeleri ve karşıt görüşleri dikkatle dinlemeleri teşvik edilir ( E3.5 , SDB2.1 , D14.1 ). Grupların paylaşımlarının ardından öğrencilerin bireysel olarak “akıl yürütmelerde öncüllerin sonuca ulaşmadaki işlevi” hakkında çıkarımlarını bir yansıtıcı yazı ile ifade etmeleri sağlanır ( OB1 , SDB1.3 ). Öğrencilere, akıl yürütmenin bileşenleri ve bunlar arasındaki ilişki konularını kapsayan yapılandırılmış metin, örnek akıl yürütmeler, soru ve uygulamaların yer aldığı bir çalışma kâğıdı sunulur. Öğrencilerden bu örneklerde yer alan öncüllerin sonuç için yeterli gerekçelendirme sağlayıp sağlamadığını nedenleriyle birlikte tartışması sağlanır ( E3.9 ). Öğrencilerden öğrendiklerine yönelik bilgi haritası hazırlamaları istenebilir. Öğrenciler, bilgi haritası oluştururken dijital araçlardan yararlanabilir ( OB2 ). Sürecin değerlendirilmesinde öz değerlendirme formu ve kontrol listesi kullanılabilir. Daha fazla kaynak için \"okuldisiogrenme.eba.gov.tr\" genel ağ adresini ziyaret edebilirsiniz.",
+    "DE.1.2.3",
+    "Öğrencilere günlük hayatta sıkça karşılaşılan ve çıkarım yapmayı gerektiren durumlara ilişkin örnekler verilir. Her örnek için sırasıyla “Bu durumda hangi sonuca ulaşırsınız?” ve “Bu sonuca nasıl ulaştığınızı düşünüyorsunuz?” soruları sorulur. Bu süreçte öğrencilerin, akıl yürütmelerde yer alan öncül-sonuç ilişkisini fark etmeleri hedeflenir ( KB2.16 ). Akıl yürütme türlerinin (tümevarım, tümdengelim, analoji ve geri çıkarım) temel özelliklerini açıklayan yapılandırılmış bir metin verilerek bunlardan hareketle “Bir akıl yürütmede bulunması gereken ölçütler nelerdir?” sorusuna yönelik çıkarımlarını maddeler hâlinde yazmaları sağlanır ( E3.7 ). Gönüllü öğrencilerin cevaplarını sınıfla paylaşmaları sağlanarak yanlış genellemeler ve kavram yanılgıları öğretmen rehberliğinde giderilir. Öğrencilere farklı akıl yürütme türlerini içeren örnekler verilir. Bu örnekler üzerinden “Hangi örnekte tek tek gözlemlerden genel bir yargıya ulaşılmıştır?”, “Hangi örnekte genel bir ilke, özel bir duruma uygulanmıştır?”, “Hangi örnekte iki durum arasındaki benzerlik temel alınmıştır?”, “Hangi örnekte gözlenen bir sonuçtan hareketle olası bir neden ileri sürülmüştür?” soruları yöneltilerek öğrencilerin, akıl yürütmeleri benzerlik ve farklılıklarına göre ayrıştırmaları sağlanır ( KB2.7 , E3.1 ). Öğrencilerden kendilerine verilen akıl yürütme örneklerini tümevarım, tümdengelim, analoji ve geri çıkarım başlıkları altında tasnif etmeleri istenir ( OB1 , KB2.16 ). Ardından öğrenciler küçük gruplara ayrılır ve her gruptan, günlük hayattan seçtikleri bir duruma ilişkin en az iki farklı akıl yürütme türünü içeren çıkarımlar yazmaları istenir ( SDB2.2 ). Gruplar yazdıkları çıkarımlardan birini sınıfta paylaşır ( SDB2.1 ). Diğer grupların, paylaşılan çıkarımın hangi akıl yürütme türüne ait olduğuna karar vermeleri ve bu kararı, çıkarımın yapısına dayanarak gerekçelendirmeleri istenir. Gruplardan yazılan akıl yürütmeleri, türlerine göre doğru biçimde etiketlemeleri beklenir. Grup çalışmasında aktif rol alması sağlanır ( D3.4 ). Bu süreç öz değerlendirme formu kullanılarak değerlendirilebilir. Ünite sonunda işlenen konularla ilgili Türk-İslam düşünürlerinin eserlerinden örnek metinler verilerek öğrenciler düşünmeye yönlendirilebilir. Daha fazla kaynak için \"okuldisiogrenme.eba.gov. tr\" genel ağ adresini ziyaret edebilirsiniz.",
+    "Performans görevi olarak öğrencilerden günlük hayatta karşılaştıkları bir yazılı ya da görsel materyali seçmeleri, seçtikleri materyalde yer alan gerekçesiz ifadeleri belirleyerek bu akıl yürütme hatalarının neden ortaya çıktığını açıklamaları ve bunların düşünme sürecine etkisini değerlendirmeleri istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1472"
+}

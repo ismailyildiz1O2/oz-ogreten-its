@@ -1,0 +1,41 @@
+{
+  "unitId": 81663046,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "46. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 3. ÜNİTE: DEĞİŞİM VE VERİ",
+  "hours": "7",
+  "description": "Bu ünitede gerçek yaşam verilerinin nasıl yorumlanacağı üzerinde durulur. Bir veriyi çalışma ortamına aktarma, veriyi filtreleme, indeksleme, dilimleme ve birleştirme işlemlerinden bahsedilir.",
+  "outcomes": [
+    {
+      "code": "BTY.46.1",
+      "title": "Toplumsal problemler üzerinde veri biliminin etkilerini açıklar",
+      "processComponents": [
+        "Toplumu ilgilendiren problemler üzerinde durularak veri biliminin bu problemleri nasıl etkilediği açıklanır.",
+        "Bir sorunu daha iyi anlamak ve insanların bu sorundan nasıl etkilendiğini kavramak için verilerin önemi açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.46.2",
+      "title": "Veri setleri ile ilgili uygulamalar yapar",
+      "processComponents": [
+        "Verilerin bilgisayarda csv, json ve excel dosya biçimlerinde saklanabileceğine değinilir.",
+        "Bilgisayar üzerinde kayıtlı olan csv dosyasını çalışma ortamına aktarma işlemi gerçekleştirilir.",
+        "Veri seti içerisinde bulunan belirli sütunlara ait tüm değerleri görmek için filtreleme işlemi gerçekleştirilir.",
+        "Satır numaralarına istenilen değeri vermek için index komutunun kullanımı gösterilir.",
+        "Bir veri setinde bulunan belirli satır ve sütunları silmek için drop() komutuyla beraber axis ve inplace parametrelerinin kullanımı gösterilir.",
+        "Bir veri setinde indeks numaraları kullanılarak satır ve sütunlarda bulunan değerlere ulaşma gösterilir.",
+        "Bir veri setinde indeksleme ve dilimleme işlemleri için Loc ve iloc komutlarının kullanımı gösterilir.",
+        "Veri setlerini birleştirmek için concat() komutu kullanımı gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

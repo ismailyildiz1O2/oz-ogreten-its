@@ -1,0 +1,82 @@
+{
+  "unitId": 303,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "6. TEMA: NESNELERİN GEOMETRİSİ (3)",
+  "hours": "13",
+  "description": "Bu temada öğrencilerin geometrik nesneler ve şekiller üzerinden doğruya göre simetrinin aynaya göre simetri olduğunu yorumlayabilmesi; bir şeklin doğruya göre simetrisini oluşturabilmesi; geometrik şekillere dayalı bir yapı oluşturabilmek için kodlama stratejisi oluşturabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.4.3.8",
+      "title": "Geometrik nesneler ve şekiller üzerinden doğruya göre simetriyi yorumlayabilme",
+      "processComponents": [
+        "a) Geometrik şekiller ve modeller üzerinden aynaya göre simetrinin özelliklerini inceler.",
+        "b) Aynaya göre simetri ile doğruya göre simetri arasındaki ilişkiyi fark eder.",
+        "c) Aynaya göre simetriyi, anlamını değiştirmeden kendi ifadeleriyle doğruya göre simetri olarak yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.4.3.9",
+      "title": "Bir şeklin doğruya göre simetrisini yapılandırabilme",
+      "processComponents": [
+        "a) Simetri doğrusunun özelliklerini inceleyerek doğruya göre simetriye ilişkin mantıksal ilişkiler ortaya koyar.",
+        "b) Ortaya koyduğu ilişkilerden yola çıkarak şeklin doğruya göre simetrisini oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.4.3.10",
+      "title": "Geometrik şekillere dayalı bir yapı oluşturabilmek için kodlama stratejilerini yapılandırabilme",
+      "processComponents": [
+        "a) Geometrik şekil ve yapı bilgisi arasında mantıksal ilişkiler ortaya koyar.",
+        "b) Ortaya koyduğu ilişkilerden yola çıkarak kodlama stratejisi oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "• ayna simetrisi, Sembol ve Gösterimler, • -",
+  "support": [
+    "Aynaya göre simetrinin aslında bir doğruya göre simetri olduğunun kavratılması sürecinde kâğıt katlama ve kesme gibi somut materyallerle gerçekleştirilen etkinliklere daha çok ağırlık verilir. Renkli kâğıtların iki eş parça olacak şekilde ortasından katlandığında kat yerlerinde beliren çizginin simetri doğrusu olduğu, kağıdın diğer tarafındaki resmin aslında aynadaki görüntünün bir yansıması olduğu ifade edilir. Bu süreçte yaparak yaşayarak öğrenme ile öğrencinin süreçte aktif rol alması sağlanır. Yönerge ile bir nesnenin tamamlanması sürecinde ise az sayıda parça ile basit nesneler kullanılır."
+  ],
+  "enrichment": [
+    "Öğrenciler gruplara ayrılır ve farklı zorluk seviyelerine göre geometrik şekiller seçilerek gruplara dağıtılır. İş birliğine dayalı öğrenme ile grup üyeleri birbirine yardım ederek şekillerin simetrisinin çizilmesi istenir. Bu süreçte her grup üyesinin kendi çizimlerini grup içinde paylaşmasına fırsat verilir ve diğer grup üyelerinin bütün çizimler üzerinde yorum yapmasına olanak tanınır. Geri bildirimler verilerek doğru çizime yönlendirilir ve simetri kavramının pekiştirilmesi sağlanır. Akıllı tahta olan sınıflarda ise dijital araçlar veya interaktif tahtalar kullanarak öğrencilere simetri çizimleri üzerinde daha fazla oynama ve deneme şansı tanınır.",
+    "Öğrencilere simetri kavramını kullanarak özgün ürünler oluşturabilecekleri proje görevleri (altın oran vb.) verilir. Örneğin \"FeTeMM\" etkinliği kapsamında öğrencilerin yatay ve dikey simetri doğrusunun yanında eğik simetri doğrusunu da dikkate alarak yeni şekiller veya modeller tasarlayacakları ortam sağlanır. Tarihî bir eserin eksik parçasını veya yapının eksik şeklini görsel çizimlerle tamamlama görevi verilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; eşleştirme soruları, açık uçlu sorular, performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Geometrik şekillere dayandırılarak ve kodlama stratejisini dikkate alarak bir yapı oluşturma süreci performans görevleri ile değerlendirilebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.4.3.8 Öğretmen sınıfa getirdiği aynanın karşısına öğrencileri veya nesneleri konumlandırır. Öğrencilerin aynadaki kendi görüntülerine veya aynanın karşısına konan nesnenin görüntüsüne bakması sağlanır ( E1.1 ) . Öğrencilerin veya görselin konumları değiştirilerek aynadaki görüntülerinin incelenmesi istenir ( OB4 , KB2.2 ) . Aynaya bitişik olarak verilen nesne ile aynadaki görüntüsünün bitişik olduğuna, nesne aynadan uzaklaştıkça ise aynadaki görüntüsünün de aynı oranda uzaklaştığına dikkat çekilir. Nesnenin aynadaki görüntüsünün bir yansıma olduğuna vurgu yapılır ve nesneler üzerinden oluşturulan farkındalık, şekillere yansıtılmaya çalışılır. Örneğin zemine bir ayna konulur ve kâğıtlara çizilmiş şekiller aynaya yaklaştırılır. Böylece şekil görüntüsünün de nesnelerdeki gibi benzer durumlar oluşturduğu gösterilir. Ayna yerine bir çizgi çekilir ve bunun aynayı nitelendirdiğinden bahsedilerek çizgiye yani doğruya göre yansıma oluştuğu belirtilir. Bu süreçte örneğin kâğıt üzerine aynayı temsil eden bir çizgi ve çizginin herhangi bir yanına da kâğıt üzerinde bir şekil çizilir. Şekil çizgiye yaklaştırıldıkça çizginin diğer tarafında da nasıl bir şeklin oluşacağı konusunda tartışma yapılır ( SDB2.1 ) . Ardından şeklin aynadaki yansıması dikkate alınarak çizginin diğer tarafında oluşacak şekil yorumlatılır. Böylece nesnenin aynadaki görüntüsünden yola çıkılarak şeklin aynadaki görüntüsü oluşturulmuş olur ve aynanın yani çizginin diğer tarafına şeklin yansımasının resmedildiğinin fark edilmesi sağlanır. Aynaya göre oluşan yansımanın aslında çizgiye yani doğruya göre bir simetri olduğunun farkına varılır. Bu süreçte ayna ile simetri doğrusunun birlikte yer aldığı etkinliklere yer verilir ( MAB5.1 ) . Örneğin etkinliklerde kâğıdı katlayıp geometrik şekiller oluşacak şekilde kesilebilir. Kâğıtlardaki simetri doğrusu olan kat izine ayna konularak aynada oluşan görüntü ile simetri doğrusunun diğer yanında kalan görüntünün eş olduğu bilgisi özetlenebilir ( OB1 , KB2.2 ) . Bu süreçte öğrencilerin öğrenme durumları eşleştirme sorularından yararlanılarak belirlenebilir.",
+    "MAT.4.3.9 Ders sürecine yatay ve dikey simetri doğrusunun gösterdiği özellikler simetrik harf, rakam, kelebek, papatya, yaprak, kilim deseni gibi görseller üzerinden başlanır ( OB4 , KB2.2 , D5.2 ) . Doğruya göre simetriye ilişkin eş parçaların incelenmesi, ilişkilendirilmesi, özelliklerin fark edilmesi sağlanır. Devamında simetriye ilişkin eş parçalar görsel ve biçimsel özellikleri yönünden karşılaştırılarak mantıksal ilişkiler ortaya konulur ( OB1 , KB2.7 ) . Ortaya konulan ilişkilerden yola çıkarak etkileşimli etkinlikler üzerinden şeklin doğruya göre simetrisi oluşturulur. Örneğin izometrik ya da noktalı kâğıt üzerine aynayı temsil eden bir doğru, doğrunun herhangi bir yanına da bir şekil çizilir. Nesnenin aynadaki görüntüsünden yola çıkarak şeklin aynadaki görüntüsü, aynanın (doğrunun) diğer tarafına çizilir ( OB4 ) . Böylece yatay ya da dikey simetri doğrusuna belirli bir mesafede konumlandırılan bir şeklin, doğruya göre simetrisi alındığında doğruya göre uzaklığın korunduğu hissettirilir. Eğik simetri doğrusuna göre simetri alma sürecine girilmez. Şeklin simetriğinin yorumlanmasında açık uçlu sorular ve eşleştirme soruları kullanılabilir.",
+    "MAT.4.3.10 Öğrencilere izometrik, noktalı ya da kareli kâğıt üzerinde birleşimi ile anlamlı bütünler oluşturulacak belirli şekiller sunulur. Bu şekiller arasındaki ilişkiler anlamlandırılır ve yönergeler ile bu ilişkiler sürece yansıtılarak anlamlı bir yapı oluşturulur. Öğrenciden yönergeyi takip ederek bu parçaları tamamlaması ve anlamlı bir ürün oluşturması istenir. Benzer şekilde, öğrenciler gruplara ayrılır ve fen, teknoloji, mühendislik, matematik (FeTeMM) etkinliği kapsamında farklı geometrik cisimler gruplara dağıtılarak bir köprü tasarlamaları istenir ( SDB2.2 ) . Köprünün dayanıklılığını da göz önünde bulundurarak hangi geometrik cisimlerin hangi yerde daha uygun kullanılacağına ilişkin yorumlama yapmaları istenir ( SDB1.2 , SDB1.3 ) . Sonrasında öğrencilere dijital ortamdan bir köprü resmi gösterilir veya bir yönerge verilir. Resme ya da yönergeye uygun ilişki oluşturmaları istenir ( D7.1 ) . İlk ve son oluşturdukları ilişkiler arasındaki dayanıklılık ilişkisi gruplar arasında tartışılır ve en uygun tasarıma karar verilir ( SDB3.1 , SDB3.2 ) . Öğrencilerin günlük hayatta karşılaştığı geometrik şekiller ve geometrik yapılar arasında ilişkileri ortaya koyduğu kodlama stratejisini dikkate alarak bir yapı oluşturma süreci performans görevleri verilebilir ve analitik derecelendirme anahtarı ile değerlendirilebilir ( SDB1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D5.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.7"
+    ],
+    "alan": [
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/303"
+}

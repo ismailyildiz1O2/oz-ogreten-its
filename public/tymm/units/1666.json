@@ -1,0 +1,104 @@
+{
+  "unitId": 1666,
+  "grade": 0,
+  "gradeName": "SOSYOLOJİ DERSİ 1",
+  "subject": "Sosyoloji Dersi",
+  "title": "DÜZEY I · 4. Ünite: Toplumsal Kurumlar",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SOS.11.4.1",
+      "title": "Aile kurumunun işlevi ve yapısı ile evlilik türleri üzerine eleştirel düşünebilme",
+      "processComponents": [
+        "a) Aile kurumunun işlevinin ne olduğunu, aile tiplerini ve evlilik türlerini sorgular.",
+        "b) Aile kurumunun işlevi, aile tipleri ve evlilik türleri ile ilgili akıl yürütür.",
+        "c) Akıl yürütme ile ulaştığı çıkarımı yansıtır."
+      ]
+    },
+    {
+      "code": "SOS.11.4.2",
+      "title": "Eğitim kurumunun işlevi ve toplumsal yaşamdaki önemi ve değeri üzerine eleştirel düşünebilme",
+      "processComponents": [
+        "a) Eğitim kurumunun işlevinin ne olduğunu, toplumsal yaşam için önemini ve değerini sorgular.",
+        "b) Sorgulanan problem ve durumla ilgili akıl yürütür.",
+        "c) Akıl yürütme ile ulaştığı çıkarımı yansıtır."
+      ]
+    },
+    {
+      "code": "SOS.11.4.3",
+      "title": "Din kurumunun işlevlerini yapılandırabilme",
+      "processComponents": [
+        "a) Din kurumunun işlevlerini inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) Tespitlerine dayanarak tutarlı ve uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "SOS.11.4.4",
+      "title": "Ekonomi kurumunun işlevi ve toplumsal yaşam açısından önemi hakkında çıkarım yapabilme",
+      "processComponents": [
+        "a) Ekonomi kurumunun işlevi hakkında varsayımda bulunur.",
+        "b) Ekonomik işleyişte tekrar eden yapısal unsurları listeler.",
+        "c) Ekonomik sistemleri karşılaştırır.",
+        "ç) Devletin ekonomiye müdahalesi hakkında önerme sunar.",
+        "d) Önermeleri değerlendirir."
+      ]
+    },
+    {
+      "code": "SOS.11.4.5",
+      "title": "Siyaset kurumunun işlevi ve önemi hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) Siyaset kurumunun işlevinin ne olduğu ile toplumsal yaşamdaki yeri ve önemini sorgular.",
+        "b) Sorgulanan durumla ilgili akıl yürütür.",
+        "c) Akıl yürütme ile ulaştığı çıkarımı yansıtır."
+      ]
+    },
+    {
+      "code": "SOS.11.4.6",
+      "title": "Toplumsal kurumların işlevlerini birbirleriyle ilişkisi içinde inceleyerek toplumun işleyişini yapılandırabilme",
+      "processComponents": [
+        "a) Toplumsal kurumların işlevlerini inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) Bu ilişkilere dayanarak tutarlı ve uyumlu bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "meşruiyet, müfredat, otorite, sosyalizasyon, sosyal kontrol, üretim biçimi",
+  "support": [
+    "Aile kurumunun işlevlerinin anlaşılmasında iş birlikli öğrenme kullanılabilir.",
+    "Eğitim kurumunun işlevlerinin anlaşılmasında akran öğretimi kullanılabilir.",
+    "Din kurumunun işlevlerinin yapılandırılmasında videolar üzerinden görsel okuma yaptırılabilir.",
+    "Ekonomi kurumunun işlevlerinin anlaşılmasında temel kavramları açıklayan özet metinler hazırlanabilir.",
+    "Siyaset kurumunun toplumsal yapıdaki işlevinin anlaşılmasında kavram haritası kullanılabilir.",
+    "Toplumsal kurumların etkileşimini gösteren diyagram kullanılabilir."
+  ],
+  "enrichment": [
+    "Aile ile ilgili istatistiksel veriler (evlenme oranları, ortalama evlilik yaşı, boşanma oranları, çocuk sayısı, çalışan kadın sayısı) üzerinden yirmi yıl öncesi ve günümüzü karşılaştırarak bir tablo oluşturmaları istenebilir.",
+    "Kemal Tahir’in Devlet Ana adlı kitabında ortaya koyduğu devlet ve toplum anlayışını tanıtan bir metin hazırlamaları istenebilir.",
+    "İdris Küçükömer’inTürk siyasi hayatında sağ ve sol ayrımı hakkındaki düşüncelerini araştırarak raporlaştırmaları istenebilir.",
+    "Nurettin Topçu’nun Türkiye’nin Maarif Dâvası kitabını inceleyerek bir rapor hazırlamaları istenebilir.",
+    "Şerif Mardin’in Din ve İdeoloji adlı eserinde geçen temel kavram, problem ve argümanları tespit etmeleri istenebilir.",
+    "Sabri Ülgener’in kültürel değerlerin, ekonomik davranışları ve kalkınma süreçlerini nasıl etkilediğine dair düşüncelerini araştırarak konu ile ilgili bir yansıtma yazısı yazmaları istenebilir.",
+    "Nizamülmülk’ün Siyasetname adlı eseriyle siyaset kurumunun gelişimine ve Türk devlet yapısına olan katkılarını değerlendiren bir metin hazırlanabilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; dereceli puanlama anahtarı, öğrenme günlüğü, öz değerlendirme formu, çalışma kâğıdı, kontrol listesi, kavram haritası ve açık uçlu sorular ile değerlendirilebilir. Performans görevi olarak öğrencilerden Osmanlı’daki Ahi teşkilatını araştırarak günümüz toplumuna nasıl uyarlanabileceği ve toplumsal yaşama katkılarının neler olabileceği hakkında öneriler içeren bir metin yazmaları istenebilir."
+  ],
+  "teachingApplications": [
+    "SOS.11.4.1",
+    "Yapılandırılmış bir metin üzerinden öğrencilerin toplumsal kurumun tanımı, ortaya çıkışı ve işlevlerinin neler olduğunu ifade etmesi sağlanır. Aile kurumunun işlevleri (biyolojik, toplumsal, ekonomik, psikolojik) hakkında bilgi görseli verilerek öğrencilerden bu işlevlere günlük hayattan örnekler vermeleri ve ailenin sağlıklı bir toplumsal yapı açısından önemini sorgulamaları istenir. Geçmişten günümüze farklı aile tiplerini (geniş aile, çekirdek aile) yansıtan yapılandırılmış metinler verilerek öğrencilerin iş birlikli olarak bunları incelemesi ve kendi belirledikleri ölçütlere göre sınıflaması sağlanır ( SDB2.2 ). Toplumların modernleşmesi ve üretim biçimlerinin dönüşümü ile aile tipindeki değişimler ve üyelerin rollerinin farklılaşması hakkında akıl yürütmeleri, sonuçları tablolaştırıp sınıfta paylaşmaları gerçekleştirilir ( E3.1 , OB1 ). Evlilik türlerini (monogami, poligami, endogami, egzogami, poliandri, polijini, matrilokal, patrilokal, neolokal, bilokal) açıklayan bilgi görselinden hareketle öğrencilerin bu türlere çeşitli örnekler (toplumdaki gözlemlerinden, izledikleri filmlerden, okudukları romanlardan) vermeleri sağlanır ( OB4 ). Boşanma oranlarının artışı, çocuk sayısının azalması, akrabalık ilişkilerinin zayıflaması, aile üyelerinin dağınıklığı (farklı şehirlerde çalışan, okuyan aile üyeleri), ailenin kurulma ve sona erme biçimi, çocuk ve yaşlı bakımı, ev temizliği gibi aileye yönelik hizmetlerin yaygınlaşması gibi konular üzerinden günümüz aile yapısı ile ilgili akıl yürütmeleri istenir. Aile sıcaklığını anlatan bir edebî eser alıntısı üzerinden öğrenciler ailenin önemini fark ederek aile birliğinin sağlanması noktasında sevgi, saygı ve güvenin gerekli olduğu hakkında yargıda bulunur ( D2.1 , D15.2 ). Süreçte konuşma halkası veya sokratik tartışma öğretim tekniği kullanılabilir. Öğrencilerden akıl yürütme sürecinde ulaştıkları çıkarımları öğrenme günlüğü üzerinden yansıtmaları istenir.",
+    "SOS.11.4.2",
+    "Eğitim kurumunun tarihsel süreçte gelişimini, değişen işlevlerini yansıtan yazılı ve görsel materyaller üzerinden öğrencilerin bu kurumun temel işlevlerinin neler olduğunu sorgulaması sağlanır ( OB1 , OB4 ). Zorunlu eğitimin modern dönemde ortaya çıkmasının nedenleri vurgulanır. Müfredat üzerinden siyaset, ekonomi, kültür ile eğitim ilişkisinin nasıl kurulduğundan bahsedilir. “Bireyin toplumsallaşmasında eğitim kurumlarının rolü nedir?”, “Eğitim kurumlarında neden bireyler belirli kurallar çerçevesinde eğitilir?”, “Toplumsal tabakalaşma ve toplumsal hareketlilik açısından eğitimin önemi nedir?”, “Toplumlar kaliteli bir eğitim sistemine sahip oldukları için mi gelişirler yoksa gelişmiş oldukları için mi kaliteli bir eğitim sistemleri vardır?”, “Dijital dünyada eğitim kurumunda ne gibi değişiklikler olacağını öngörüyorsunuz?”, “Okulsuz bir toplum mümkün müdür?” gibi eğitimin işlevini açığa çıkaracak sorular sorularak öğrencilerden bu kurumun toplumsal (toplumsallaşma, sosyal sorumluluk), bireysel (kişisel gelişim), ekonomik (mesleki eğitim) ve siyasal (toplumsal bütünleşme) işlevlerine örnekler sunmaları istenir. Sorulara verilen cevaplardan ve sunulan örneklerden hareketle eğitim kurumunun toplumsal yaşamdaki rolü sorgulatılır ( KB2.8 ). Eğitimin günümüzde bireylerin sosyalleşmesi ve sosyal beceriler kazanması açısından önemi üzerine akıl yürütülerek sloganlar oluşturulması ve sloganların sınıfta paylaşılması sağlanır ( E3.1 , E3.3 ). Süreç, açık uçlu sorular ile değerlendirilebilir. Ziya Gökalp ve Sabahattin Bey’in eğitime dair fikirlerini yansıtan yapılandırılmış bir metin üzerinden Türkiye’de eğitim ve toplumsal değişme ilişkisinin sorgulanması sağlanır ( KB2.8 ). Bu iki düşünürün eğitime dair fikirlerinin tablo üzerinde karşılaştırılması sağlanır ( KB2.7 ). Öğrencilerden dezavantajlı çocukların sosyal entegrasyon sorununun çözümünde eğitimin işlevini ve bu konuda Türkiye’de ne gibi uygulamaların söz konusu olduğunu iş birlikli olarak araştırmaları ve rapor hazırlamaları istenir ( SDB2.2 , OB1 ). Süreç, açık uçlu sorularla değerlendirilebilir.",
+    "SOS.11.4.3",
+    "Öğrencilere din kurumunun işlevlerini açıklayan bilgiler ile soruların yer aldığı çalışma kâğıdı verilir. Çalışma kâğıdında öncelikle din kurumunun temel işlevleri belirtilir. Dinin, medeniyetin ve toplum fikrinin gelişmesindeki rolü kültür, eğitim, aile, adalet, eşitlik, hukuk üzerinden vurgulanır. Sosyolojinin doğuş aşamasında sosyologların dinin toplumsal bütünleşmeyi sağlama işlevine yönelmesi üzerinde durulur. Öğrencilere “Bireylerin sosyalleşmesinde dinin önemi nedir?”, “Hayatı anlamlandırmada dinin etkisi nedir?”, “Toplumsal düzenin sağlanmasında dinin rolü nedir?”, “Toplumsal çatışmaların çözümünde dinî değerlerin önemi nedir?”, “Afet, savaş gibi toplumsal sorunlar yaşandığında din kurumunun öne çıkmasının nedenleri nelerdir?” gibi sorular sorulur ( E1.1 ). Analiz sonuçları ahlak, sorumluluk, anlam, amaç, değer, düzen, değişim, kavramlarıyla ilişkilendirilir ve anlamlı yargıların oluşturulması sağlanır ( E3.6 ). Ziya Gökalp ve Şerif Mardin’in sosyal düzenin sürdürülmesinde dinin rolü üzerine düşüncelerinden alıntı veya yapılandırılmış metinler ile farklı toplumlardan örnekler verilerek öğrencilerden “Toplumsal dayanışma, kaynaşma ve bütünleşme sürecinde dinin rolü nedir?” sorusunu tartışmaları istenir ( KB2.18 ). Öğrencilerin farklı inançlara saygı duymanın önemli bir değer olduğunu fark etmesi ve bu konu hakkındaki düşüncelerini sınıfta sözlü biçimde paylaşması sağlanır ( D4.5 ). Öğrencilere P. Berger’in (P. Berger) Dinin Sosyal Gerçekliği adlı kitabındaki fikirlerin kısa bir özeti verilerek dinin toplumsal yapıdaki konumunu ve diğer kurumlarla ilişkisini yapılandırdıkları tutarlı bir metin yazmaları sağlanır. Süreç, kontrol listesi ile değerlendirilebilir.",
+    "SOS.11.4.4",
+    "Öğrencilere ekonominin temel kavramlarını (arz, talep, üretim, tüketim, bölüşüm) toplumsal ögelerini (aktörler, statüler, roller, örgütler, sektörler, kurumlaşmış ilişkiler) ve genel işleyişini içeren yapılandırılmış bilgi notu verilir. Bilgi notu üzerinden öğrencilerin ekonominin işlevlerine dair çıkarımda bulunarak varsayım oluşturması sağlanır ( KB2.10 ). Öğrenciler ekonominin yapısını oluşturan temel unsurları ilişki diyagramı şeklinde listeler. Öğrencilere ekonomik sistemlerin (kapitalizm, sosyalizm, karma ekonomi) kısaca açıklandığı bilgi notu verilir. Bilgi notundan hareketle öğrencilerin ekonomik sistemleri ekonominin temel unsurları açısından (üretim, tüketim, bölüşüm) karşılaştırması ve güçlü-zayıf yönlerini belirlemesi sağlanır ( D17.1 , KB2.7 ). Süreçte soru-cevap öğretim tekniği kullanılabilir. Öğrencilerden ekonomik sistemler hakkındaki bilgi notundan hareketle devletin ekonomiye müdahalesi hakkında çıkarım yaparak önerme sunmaları istenir ( E3.6 , KB2.4 ). Öğrencilerin önermeleri kâr-zarar, kamu yararı ve sürdürülebilirlik ölçütleri üzerinden değerlendirmesi sağlanır ( E1.2 , SDB1.2 , KB3.1 ). Bunun için konuşma halkası tekniği kullanılabilir.",
+    "SOS.11.4.5",
+    "Öğrencilere siyaset kurumunun toplumdaki rolünü ve işlevini gösteren bir bilgi notu verilir. Bilgi notunda siyaset kurumunun öncelikli işlevinin farklı toplumsal kesimlerin çıkarları arasında denge kurmak olduğu vurgulanır. Öğrencilerden siyaset kurumunun işlevlerini belirleyerek bu işlevlerin toplumun düzenli işleyişindeki rolünü sorgulamaları istenir ( KB2.8 ). Süreçte düşün-eşleş-paylaş tekniği kullanılabilir. Öğrencilere farklı siyasal sistem türleri (demokratik, otoriter, totaliter) ile güç, otorite, iktidar, meşruiyet, sivil toplum kavramlarını açıklayan bir çalışma kâğıdı verilir. Bunlarla bağlantılı olarak M. Weber’in otorite anlayışı, R. Michels’in (R. Mihels) oligarşi kavramı, Gramsci’nin hegemonya kavramı ve Z. Gökalp’in seçkinci yaklaşımı kısaca açıklanır. Çalışma kâğıdında otorite ve güç ilişkisinde adaletin belirleyici rolü vurgulanır. Türk-İslam dünyasında siyasette adaletin merkezi konumunu vurgulayan düşünürlerden (Farabi, Y. Has Hacib, İbn Haldun) örnek düşünceler verilir ( D1.2 ). Öğrencilerden otorite, güç, meşruiyet ve adalet kavramlarının aralarındaki ilişkileri inceleyerek siyaset kurumunun işleyişine dair akıl yürütmesi istenir. Bu kavramlar çerçevesinde yapılacak tartışmada hegemonya ve meşruiyet ilişkisi, bir siyasal otoritenin hangi şartlarda meşruiyetini kaybederek güce dönüştüğü, oligarşik karakter kazandığı gibi konular üzerinde durmaları sağlanır. Sorgulanan durumla ilgili olarak öğrenciler kendi düşüncelerini mantıksal bağlantılar kurarak yapılandırır ( E3.6 ). Öğrencilerin kavramlar arasındaki ilişkileri kavram haritası ile göstermesi istenir. Öğrencilerden akıl yürütme sürecinde ulaştıkları çıkarımları sözlü veya yazılı şekilde ifade etmesi, çıkarımlarını temellendirerek sunması istenir. Bu aşamada kendi düşüncelerini ifade ederken farklı düşüncelere de açık olunması gerektiği vurgulanır. Süreç, dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "SOS.11.4.6",
+    "Öğrencilerden toplumsal kurumların (aile, eğitim, din, ekonomi ve siyaset) insanların ihtiyaçlarını karşılayarak toplumun sürekliliğini sağlama sürecinde karşılıklı ilişkilerini gösteren bir diyagram hazırlamaları istenir ( E3.6 ). Öğrencilere “Toplum, insanların hangi ihtiyaçlarını karşılar?”, “Toplumsal kurumlar nasıl ortaya çıkmıştır?”, “Bütün toplumlarda aynı kurumlar var mıdır?” gibi sorular verilerek tartışılması istenir ( SDB2.1 , KB2.18 ). Tartışma sonucunda kurumların karşılıklı ilişkilerinden yola çıkarak toplumun nasıl sistemli bir şekilde işlediğine dair kısa bir metin yazılması sağlanır. Metinler kontrol listesi ya da öz değerlendirme formu ile değerlendirilebilir. Performans görevi olarak öğrencilerden Osmanlı’daki Ahi teşkilatını araştırarak günümüz toplumuna nasıl uyarlanabileceği ve toplumsal yaşama katkılarının neler olabileceği hakkında öneriler içeren bir metin yazmaları istenebilir ( E1.3 ). Yazılan metinler doğruluk, tutarlılık gibi ölçütler üzerinden dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB16. Eleştirel Sosyolojik Düşünme (KB3.3. Eleştirel Düşünme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1666"
+}

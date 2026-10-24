@@ -1,0 +1,96 @@
+{
+  "unitId": 451,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "4.TEMA: GEOMETRİK NİCELİKLER",
+  "hours": "20",
+  "description": "Bu temada öğrencilerin dikdörtgenin çevre uzunluğunu, alanını yorumlayabilmeleri ve ilgili problemleri çözebilmeleri amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "MAT.5.4.1",
+      "title": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme",
+      "processComponents": [
+        "a) Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde olası kenar uzunluklarını inceler.",
+        "b) Verilen çevre uzunluğuna sahip ve kenar uzunlukları doğal sayı olan dikdörtgen oluşturur.",
+        "c) Kenar uzunlukları doğal sayı olan farklı dikdörtgenlerin aynı çevre uzunluğuna sahip olabileceğini açıklar."
+      ]
+    },
+    {
+      "code": "MAT.5.4.2",
+      "title": "Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme",
+      "processComponents": [
+        "a) Dikdörtgenin alanını ölçmede, seçtiği birim kareleri ölçüt olarak belirler.",
+        "b) Dikdörtgenin alanını seçilen birim karelerle ölçer.",
+        "c) Birim kare sayısının dikdörtgenin iki ardışık kenar uzunluğu ile ilişkisini inceler.",
+        "ç) Dikdörtgenin alan bağıntısına (iki ardışık kenarın uzunlukları çarpımı) ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAT.5.4.3",
+      "title": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme",
+      "processComponents": [
+        "a) Alanının ölçüsü verilen bir dikdörtgenin çevre uzunluğunu, çevre uzunluğu verilen bir dikdörtgenin alanını inceler.",
+        "b) Aynı alana sahip farklı dikdörtgenlerin çevre uzunluklarını ve aynı çevre uzunluğuna sahip farklı dikdörtgenlerin alanlarını belirler.",
+        "c) Aynı çevre uzunluğuna sahip dikdörtgenlerin farklı alanlara ve aynı alana sahip dikdörtgenlerin farklı çevre uzunluklarına sahip olabileceğini ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.5.4.4",
+      "title": "Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme",
+      "processComponents": [
+        "a) Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemlerde ilgili matematiksel bileşenleri (şekil, uzunluk, alan ölçüleri gibi) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkileri belirler.",
+        "c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlediği stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Bir çokgenin alanı birim alanlar ile ölçülür. • Dikdörtgenin alanı, iki ardışık kenarın uzunlukları çarpımı ile hesaplanır. • Aynı alana veya çevre uzunluğuna sahip birden çok dikdörtgen bulunur. Anahtar Kavramlar alan, çevre, dikdörtgen Sembol ve Gösterimler cm², m², br², Ç(ABCD), A(ABCD)",
+  "support": [
+    "Dikdörtgenin çevre uzunluğu ve alanını hesaplamayı gerektiren eğitsel oyunlara yer verilebilir. Örneğin, öğrencilere bir zemin döşeme ustası rolü verilerek kaplamaları istenen bir bölgenin alanını ve çevre uzunluğunu hesaplamalarını gerektiren uygulamalar tasarlanabilir. Bu süreçte renkli karolar ya da görsel nesneler gibi somut materyallerden veya dijital araçlardan yararlanarak çevre uzunluğu ve alan hesaplamalarına yönelik deneyimler kazanmaları sağlanabilir. Öğrencilerin somut materyallerden yapılmış aynı sayıda birim kareler kullanarak oluşturdukları farklı dikdörtgen modellerinin çevre uzunluklarını belirlemeleri istenebilir. Öğrencilerin çocuk edebiyatı eserlerini inceleyerek dikdörtgenin çevre uzunluğu ve alanı ile ilgili olan eserlerden okumalar yapmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin kenar uzunlukları doğal sayı olan ve aynı çevre uzunluğuna sahip dikdörtgenlerden en küçük ve en büyük alana sahip olanları belirlemelerine yönelik çalışmalar yapmaları sağlanabilir. Öğrencilerin kenar uzunlukları doğal sayı olan ve aynı alana sahip dikdörtgenlerden en küçük ve en büyük çevre uzunluğuna sahip olanları belirlemeye yönelik çalışmalar yapmaları beklenebilir. Estetik olguları, sanat ve simetri ögelerini içeren piksel sanatıyla oluşturulan özgün tasarım çalışmalarında farklı alan hesaplama stratejilerine yönelik Pick (Pik) Teoremi gibi uygulamalara yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları;izleme testi, açık uçlu sorular, yapılandırılmış grid, çalışma kağıdı ve performans görevi ile değerlendirilebilir. Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemlerin çözümü çalışma kağıdı ve dereceli puanlama anahtarı ile değerlendirilebilir. Aynı çevre uzunluğuna ya da aynı alana sahip farklı dikdörtgenler ile hazırlanan piksel sanatı tasarımlarını içeren performans görevi; anlama, içerik, doğruluk, görsel materyal gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı ile değerlendirilebilir. Tema boyunca işlenen öğrenme çıktıları/süreç bileşenleri hakkında öğrencilerin eksik öğrenmelerini belirlemek ve gidermek amacıyla izleme testi uygulanabilir. Performans ürünü, izleme testi, yapılandırılmış grid ve çalışma kağıdı sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.5.4.1 Öğrencilerden belirli çevre uzunluklarına sahip dikdörtgenleri çizmeleri istenir. Öğrencilerin dikdörtgenlerin kenar uzunluklarının ne olabileceği hakkında etkili iletişim becerilerini kullanarak saygı çerçevesinde tartışabilecekleri uygun öğrenme ortamı oluşturulur ( D14.1 , SDB2.1 ) . Özel bir dikdörtgen olarak kare de ele alınır. Öğrencilerden aynı çevre uzunluğuna sahip farklı dikdörtgenlerin kenar uzunluklarını incelemeleri ve aynı çevre uzunluğuna sahip farklı dikdörtgenler oluşturabileceklerini açıklamaları beklenir. Dikdörtgenin kenar uzunlukları ile çevre uzunluğu arasındaki ilişkiyi incelemeye, verilen çevre uzunluklarına uygun dikdörtgen oluşturmaya ve kenar uzunlukları farklı olan dikdörtgenlerin aynı çevre uzunluğuna sahip olabileceklerini açıklamaya yönelik çalışma kağıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.5.4.2 Öğrencilerin çevrelerindeki nesnelerin (kitap, defter gibi) dikdörtgen şeklindeki yüzlerinin alanlarını ölçmek için ölçüt olarak kullanılabilecek farklı birimler üzerine tartışmaları ve birim kareyi ölçüt olarak belirlemeleri sağlanır ( SDB2.1 ) . Birim kare yardımıyla dikdörtgenlerin alanlarını ölçmeleri için uygun öğrenme ortamı oluşturulur. Günlük hayat durumları veya problemlerinde (masa, yazı tahtası, pano yüzlerinin alanlarının ölçülmesi gibi) daha büyük alanlar söz konusu olduğunda birim kare saymanın fazla zaman alacağını fark etmeleri ve \"Toplam birim kare sayısına nasıl ulaşabilirsiniz?\" sorusuyla birim kare sayısını merak etmeleri sağlanır ( E1.1 ) . Ardından öğrencilerin dikdörtgen içerisindeki birim kare sayısının dikdörtgenin iki ardışık kenarının uzunlukları ile nasıl ilişkili olduğunu incelemeleri istenir. Buradan öğrencilerin dikdörtgenin alan bağıntısına (iki ardışık kenarın uzunlukları çarpımı) ulaşmaları beklenir. Alan ölçme birimlerini birbirine dönüştürme çalışmalarına yer vermeksizin -kenar uzunlukları doğal sayı olmak koşuluyla- dikdörtgenlerin alanlarının hesaplanmasında m² ve cm² birimlerinin kullanıldığı çalışmaların öğrenciler tarafından yürütülmesi sağlanır. Dikdörtgenin alan bağıntısı göz önüne alınarak bir dikdörtgenin parçalarıyla yeni bir dikdörtgen oluşturulduğunda alanın korunup korunmadığına yönelik tartışma ortamı oluşturulabilir. Dikdörtgenin alanına yönelik açık uçlu sorular öğrencilere sorulabilir.",
+    "MAT.5.4.3 Öğrencilerin alanının ölçüsü verilen bir dikdörtgenin çevre uzunluğunu, çevre uzunluğu verilen bir dikdörtgenin alanını incelemeleri sağlanır. Süreçte kareli kağıt veya geometri tahtası kullanılabilir. Öğrencilerin aynı alana sahip ve kenar uzunlukları doğal sayı olan farklı dikdörtgenler oluşturmaları ve çevre uzunluklarını hesaplamaları için uygun öğrenme ortamı oluşturulur. Dikdörtgenlerin çevre uzunlukları ve alanlarını karşılaştırmaları için öğrencilerin tablo temsili kullanmaları sağlanır ( MAB3 ) . Tabloyu inceleyen öğrencilerin \"Dikdörtgenlerin alanlarını ve çevre uzunluklarını karşılaştırdığınızda ne fark ediyorsunuz?\" gibi sorular üzerinde düşünmeleri beklenir ( E3.6 ) . Ayrıca öğrencilerin, aynı çevre uzunluğuna sahip ve kenar uzunlukları doğal sayı olan farklı dikdörtgenler oluşturarak alanlarını incelemeleri için uygun öğrenme ortamı oluşturulur. Kenar uzunlukları ile alan arasındaki ilişkinin öğrenciler tarafından tartışılması sağlanır. Tartışma sonunda öğrencilerin çevre uzunlukları eşit olan dikdörtgenlerin farklı alanlara; alan ölçüleri eşit olan dikdörtgenlerin farklı çevre uzunluklarına sahip olabileceklerini ifade etmeleri beklenir. Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilmelerine yönelik yapılandırılmış grid hazırlanabilir. Dijital araçlarla iş görme amacıyla öğrencilerin performans görevi kapsamında aynı çevre uzunluğuna ya da aynı alana sahip farklı dikdörtgenleri kullanarak piksel sanatına yönelik çalışmalar yapmaları istenebilir ( OB2 ) . Görsel sanatlar dersi ile ilişkilendirilerek estetik bakış açısıyla oluşturulan özgün tasarım çalışmaları için sanal bir sergi düzenlenebilir. Böylece öğrencilerin yaratıcılıklarını ifade etmelerine olanak tanınır ve estetik değerini kazanmaları desteklenmiş olur ( OB4, D7.1 ) .",
+    "MAT.5.4.4 Dikdörtgenin çevre uzunluğu ve alanına yönelik günlük hayatla ilişkili problemlerin çözümünde önce öğrencilerden probleme ilişkin şekil, uzunluk, alan ölçüleri gibi matematiksel bileşenleri belirlemeleri beklenir. Bu süreçte problemden ne tür bilgiler elde edileceğinin ifade edilmesi, olaylara ve ilişkilere yönelik basit şekil ya da diyagram çizilmesi gibi bilgiler, problemin anlaşılmasına yönelik göstergeler olarak ele alınır. Öğrencilerin matematiksel bileşenler arasındaki ilişkileri belirleyip problem bağlamındaki temsillerini farklı temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları istenir. Problemlere yönelik matematiksel çözümler geliştirilirken öğrencilerin sonuca ilişkin tahminde bulunmaları, dikdörtgenin çevre uzunluğu ve alanını bulmak için stratejiler geliştirmeleri sağlanır. Stratejiler geliştirilirken öğrencilerin farklı temsillerden (birim kareler, geometri tahtası, geometri şeritleri, tablo gibi) ( MAB3 ) ve teknolojilerden (sanal manipülatifler gibi) ( MAB5 ) yararlanmaları istenir. Öğrenciler seçtikleri stratejiler ile problem çözmeye, çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir. Çözüm stratejileri geliştirme ve uygulama süreçlerinde öğrencilerin grup çalışmaları yapmaları sağlanır ( SDB2.2 ) . Problem çözümlerinin ardından öğrenciler çözüm yollarını kontrol etmeleri için teşvik edilir. Stratejilerini ve buldukları yolları gözden geçirmeleri, alternatif yollara ilişkin çıkarımlar ve değerlendirmeler yapmaları sağlanır. Öğrencilerin çevre ve alan arasındaki ilişkilere yönelik çıkarımlar yapmalarını ve yorumlamalarını sağlayacak problem durumları ele alınır. Öğrencilerin çözüm sürecinde kullandıkları stratejileri hangi tür problemlerde kullanabileceklerine dair genellemeler yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirebilmeleri beklenir ( SDB3.1 , SDB3.2 ) . Bu amaçla benzer problemler kurmaları sağlanabilir. Kurdukları problem bağlamlarına yönelik yansıtmalar yapılarak öğrencilerin çıkarımlarını değerlendirmeleri ve karar verme süreçlerine ait davranışlarının sorumluluğunu kabul etmeleri sağlanır ( SDB3.3 ) . Süreç boyunca alan ölçme birimlerini birbirine dönüştürme çalışmalarına yer vermeksizin m² ve cm² birimlerinin kullanıldığı problemler ele alınır. Gerçek yaşam durumlarına yönelik problemler içeren izleme testi uygulanabilir. Puanlama anahtarı kullanılarak öğrencilere dönüt verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.6"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/451"
+}

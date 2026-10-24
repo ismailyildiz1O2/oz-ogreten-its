@@ -1,0 +1,81 @@
+{
+  "unitId": 592,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "1. TEMA: MÜZİK DİLİ",
+  "hours": "16",
+  "description": "Bu temada İstiklal Marşı’nın ve toplumsal yaşamda önemli yeri olan marşların müziksel söylenebilmesi, temel müzik yazı ve işaretlerinin yapılandırılabilmesi ve müzikte dört vuruşlu ölçü türlerinin karşılaştırılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.11.1.1",
+      "title": "İstiklal Marşı'nı ve toplumsal yaşamda önemli yeri olan marşları müziksel söyleyebilme",
+      "processComponents": [
+        "a) İstiklal Marşı'nı ve toplumsal yaşamda önemli yeri olan marşları söylemeden önce bedenini hazır hâle getirir.",
+        "b) İstiklal Marşı'nı ve toplumsal yaşamda önemli yeri olan marşları söylerken uygun teknikleri kullanır.",
+        "c) İstiklal Marşı'nı ve toplumsal yaşamda önemli yeri olan marşları söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.11.1.2",
+      "title": "Temel müzik yazı ve işaretlerini yapılandırabilme",
+      "processComponents": [
+        "a) Temel müzik yazı ve işaretlerini inceleyerek eser ile ilişkisini ortaya koyar.",
+        "b) Temel müzik yazı ve işaretleriyle eser arasında uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "MÜZ.11.1.3",
+      "title": "Müzikte dört vuruşlu ölçü türlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Müzikte dört vuruşlu ölçü türlerinin özelliklerini belirler.",
+        "b) Müzikte dört vuruşlu ölçü türlerinin özellikleri arasındaki benzerlikleri listeler.",
+        "c) Müzikte dört vuruşlu ölçü türlerinin özellikleri arasındaki farklılıkları listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "dört vuruşlu ölçü, ezgisel okuma (solfej), koro",
+  "support": [
+    "Öğrencilerin düzeyine uygun ritim alıştırmalarına elleri ile veya perküsyon çalgısıyla vuruş yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere öğrendikleri marşların ezgisel okumaları yaptırılabilir. Verilen ölçü sayılarının dışındaki dört vuruşlu ölçü sayıları gösterilebilir ve örnekler dinletilebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; kontrol listesi, gözlem formu ve karşılaştırma tablosu kullanılarak izlenebilir. Performans görevi kullanılarak değerlendirilebilir.",
+    "İstiklal Marşı'nın ve toplumsal yaşamda önemli yeri olan marşların müziksel söylenmesi kontrol listesiyle izlenebilir. Temel müzik yazı ve işaretlerinin yapılandırılmasına yönelik öğrenmelerin izlenmesinde gözlem formundan yararlanılabilir. Müzikte dört vuruşlu ölçü türleriyle ilgili öğrenmeler karşılaştırma tablosuyla izlenebilir.",
+    "Performans görevi olarak öğrencilerin bir eseri grup hâlinde seslendirmeleri istenebilir. Performans görevi; dereceli puanlama anahtarı ve grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.11.1.1. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, nefes ve ses egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır. İstiklal Marşı'nın ve toplumsal yaşamda önemli yer tutan marşların notaları, basılı şekilde dağıtılarak ya da dijital/teknolojik araçlar aracılığıyla yansıtılarak öğrencilerin eseri notalar üzerinden takip etmeleri istenebilir ( OB2 ). Marşların notasının ritmik okuması yaptırılır. Ritmik okuması yapılan marşların doğru duruş ve uygun söyleme tekniklerine göre toplu seslendirilmesi istenir ( SDB2.2 ). İstiklal Marşı'nı ve marşları eslendirirken müzik becerisi ve bilgisinin yoğunlaşması için ezgisel okuma yaptırılır. Böylelikle müziksel bileşenler ve eser arasında anlamlı bağlantılar kurmaları amaçlanır ( E3.1 ). Öğrencilerin marşları müziksel bileşenleri uygulayarak seslendirmeye gayret etmeleri sağlanır. Seslendirme çalışmalarında marşların eşliklerinden faydalanılır. T.C. İnkılap tarihi ve Atatürkçülük disiplininden yararlanılarak belirli gün ve haftaların toplumsal önemine vurgu yapılır ve öğrencilerin bu etkinliklerde aktif rol almaları sağlanır ( D3.4 ). İstiklal Marşı'nı ve toplumsal yaşamda önemli yeri olan marşları müziksel söylemeye yönelik öğrenmeler kontrol listesiyle değerlendirilebilir.",
+    "MÜZ.11.1.2. Öğrencilere temel müzik yazı ve işaretlerinin bulunduğu şarkılardan bazılarının notaları verilir. Verilen eserler üzerinde temel müzik yazı ve işaretlerini incelemeleri istenir. Öğrencilere üzerinde hiçbir yazı ve işaret bulunmayan, bildikleri başka bir sözlü eser verilir. Verilen eseri temel müzik yazı ve işaretlerinin kullanılabilirliği açısından incelemeleri istenerek temel müzik yazı ve işaretleriyle eser arasındaki ilişkiyi ortaya koymaları beklenir. Öğrencilerin kendi duygularına ilişkin farkındalıklarını artırmak amacıyla verilen eserin içeriğine, anlamına, melodik yapısına, ritmik yapısına uygun temel müzik yazı ve işaretlerini yazmaları istenir ( SDB1.1 ). Öğrencilerin eseri ezgisel okumaları istenebilir. Yazdıkları yazı ve işaretlere uyarak koro hâlinde uygun tekniklerle söylemeleri sağlanır ( OB1 ). Bu süreçte kulaktan şarkı öğretim yöntemi kullanılabilir. Öğrencilerin temel müzik yazı ve işaretlerini kullanarak eserleri incelemeleri ve estetik bir bakış açısıyla değerlendirmeleri, bu bağlamda özgün fikirler üretip uyumlu bir bütün oluşturmaları istenir ( E3.3 , D7.2 ). Temel müzik yazı ve işaretlerini yapılandırmaya yönelik öğrenmeler gözlem formuyla izlenebilir.",
+    "MÜZ.11.1.3. \"İki vuruşlu ölçüler\" ve \"üç vuruşlu ölçüler\" konuları ile ilgili çeşitli örnekler verilir. Dört vuruşlu basit, bileşik ve aksak ölçü türlerinden ile ilgili bilgiler verilir. Dört vuruşlu ölçülerin vuruş şekilleri gösterilerek üç vuruşlu ölçülere göre bir vuruş daha arttığı belirtilir ve dört vuruşlu ölçü türlerinin özelliklerini belirlemeleri sağlanır ( OB4 ). Öğrencilerin kolayca bulabilecekleri nesneleri perküsyon çalgısı gibi kullanarak dört vuruşlu basit, bileşik ve aksak ölçülü kısa tartım cümlelerini taklit/tekrar etmeleri istenir. Öğrenciler iki gruba ayrılır. Birinci gruba kuvvetli vuruşları güçlü vurarak ikinci gruba ise zayıf vuruşları hafifçe vurarak ritim çalışması yaptırılır ( SDB2.2 ). Ritim çalışmalarını zenginleştirmek için çeşitli vurmalı çalgılardan yararlanılabilir. Yapılan ritim alışmasında öğrencilerin üzerine düşen görevi yerine getirmeleri beklenir ( D6.1 ). Bu süreçte gösterip yaptırma tekniği kullanılabilir. Öğrencilerin dört vuruşlu ölçülerden oluşan yeni ritmik yapıya uyum sağlamaları beklenir ( SDB3.1 ). Dört vuruşlu basit, bileşik ve aksak ölçülü eserler ritimlerine dikkat çekilerek dinletilir. Öğrencilerin dinletilen eserleri inceleyerek anlamını değiştirmeyecek şekilde ritmik olarak yeniden ifade etmeleri istenir ( KB2.14 ). Verilen ölçülerin vuruşları gösterildikten sonra dinletilen ezgilere öğrencilerin elleriyle vuruş yapmaları istenir. Öğrencilerin dört vuruşlu basit, bileşik ve aksak ölçülere özgün bir bakış açısıyla yaklaşarak performans sergilemeleri istenir ( E3.3 , OB9 ). Dört vuruşlu basit, bileşik ve aksak ölçülerin benzerlik ve farklılıklarını listelemeleri istenir. Müzikte dört vuruşlu ölçü türlerini karşılaştırmaya yönelik öğrenmeler karşılaştırma tablosuyla izlenebilir.",
+    "Bu temada performans görevi olarak öğrencilerin yeni öğrendikleri ölçü türlerinden olan bir marş, şarkı veya türküyü seçmeleri, müzik yazı ve işaretlerine uyarak eseri grup hâlinde seslendirmeleri veya belirli gün ve hafta törenlerinde sahnelemeleri istenebilir. Performans görevi; dereceli puanlama anahtarı ve grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D6.1",
+      "D7.2"
+    ],
+    "egilim": [
+      "E3.1",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/592"
+}

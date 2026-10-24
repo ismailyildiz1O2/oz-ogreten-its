@@ -1,0 +1,43 @@
+{
+  "unitId": 81663005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "5. ÜNİTE: PROGRAMLAMAYA GİRİŞ VE ALGORİTMA - 5. ÜNİTE: İLERİ DÜZEY ALGORİTMA UYGULAMALARI",
+  "hours": "16",
+  "description": "Bu ünitede sırasıyla; arama ve sıralama algoritmalarının akış diyagramıyla gösterilmesi ve ileri algoritma uygulamalarının ve kullanım yerlerinin açıklanması üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.5.1",
+      "title": "Arama ve sıralama algoritmalarını akış diyagramıyla gösterir",
+      "processComponents": [
+        "Algoritmaların farklı tasarlama yöntemleri olduğu açıklanır.",
+        "Belirli durumlara özgü farklı algoritmalar olduğundan bahsedilir. Arama ve sıralama algoritmalarının tanımı yapılarak farkları vurgulanır.",
+        "Doğrusal arama (Linear search) ve ikili arama (Binary search) algoritması kavramlarından bahsedilir. Arama algoritmaları doğrusal arama ve ikili arama olarak ikiye ayrılır ve örnekler verilir. Bu örnekler üzerinden akış diyagramı çizmesi istenir.",
+        "Sıralama algoritmalarının çok basit bir mantıkla küçükten büyüğe sıralama şeklinde başlayıp ne kadar çeşitlenebileceği ve sıralamanın değiştirilebileceği örneklerle açıklanır. Bu örnekler üzerinden akış diyagramı çizmesi istenir.",
+        "Seçerek Sıralama (Selection Sort), Kabarcık Sıralaması (Bubble Sort), Eklemeli Sıralama (Insertion Sort), Birleştirme Sıralaması (Merge Sort), Hızlı Sıralama (Quick Sort) kavramları açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.5.2",
+      "title": "İleri algoritma uygulamalarını ve kullanım yerlerini açıklar",
+      "processComponents": [
+        "Çeşitli algoritma tasarlama yöntemleriyle tasarlanan algoritma türleri incelenir. Çalışma prensipleri ve avantaj dezavantajları belirtilen algoritma çeşitlerinin kullanılabileceği program fikirleri üretilir.",
+        "Popüler uygulamalarda kullanılan algoritmaların çalışma mantığı incelenir. Gezgin satıcı probleminde kullanılan algoritma gösterilir.",
+        "Veri madenciliği, şifreleme algoritmaları ve yapay sinir ağlarından bahsedilir.",
+        "Veri madenciliğinin sağlık, pazarlama, bankacılık gibi birçok alanda kullanımına örnekler verilerek konunun anlaşılması sağlanır.",
+        "Şifreleme algoritmalarının çok eski zamanlardan beri farklı yöntemlerle kullanıldığından bahsedilir. Genellikle verilerin şifrelenmesinde kullanılırken e-imzalarda da yaygın olarak bu algoritmaların kullanıldığından bahsedilir.",
+        "Yapay sinir ağları insan beyninin çalışmasından esinlenilerek yapay sinir hücrelerine bilgi aktarabilen sistemler olduğu açıklanır. Yapay zekânın kullanım alanları örneklerle açıklanır.",
+        "İleri algoritma uygulamalarına örnekler verilerek (Makine öğrenimi ve yapay zeka, doğal dil işleme, otomasyon gibi) bunların kullanım alanlarının neler olabileceği tartışılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

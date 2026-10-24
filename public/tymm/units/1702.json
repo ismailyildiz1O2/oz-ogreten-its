@@ -1,0 +1,66 @@
+{
+  "unitId": 1702,
+  "grade": 0,
+  "gradeName": "AHLAK VE VATANDAŞLIK EĞİTİMİ DERSİ I. DÜZEY",
+  "subject": "Ahlak ve Vatandaşlık Eğitimi Dersi",
+  "title": "DÜZEY I · 4. Tema: Vatandaşlık Bilinci Ve Toplumsal Sorumluluk",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AVE.1.4.1",
+      "title": "Vatandaşlığın temel kavramları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Vatandaşlığın temel kavramları ile ilgili bilgi toplayacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak vatandaşlığın temel kavramları ile ilgili bilgileri bulur.",
+        "c) Vatandaşlığın temel kavramları ile ilgili ulaştığı bilgileri doğrular.",
+        "ç) Vatandaşlığın temel kavramları ile ilgili doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "AVE.1.4.2",
+      "title": "Vatandaş olarak üzerine düşen hak, görev ve sorumluluklarla ilgili eleştirel düşünebilme",
+      "processComponents": [
+        "a) Vatandaş olarak üzerine düşen hak, görev ve sorumlulukları sorgular.",
+        "b) Üzerine düşen hak, görev ve sorumluluklar ile ilgili akıl yürütür.",
+        "c) Hak, görev ve sorumluluklarla ilgili ulaştığı çıkarımları günlük hayatına yansıtır."
+      ]
+    },
+    {
+      "code": "AVE.1.4.3",
+      "title": "Devlet ve vatandaş arasındaki ilişkiyi sentezleyebilme",
+      "processComponents": [
+        "a) Devlet ve vatandaş kavramlarını açıklar.",
+        "b) Devlet ve vatandaş arasındaki ilişkiyi belirler.",
+        "c) Devlet ve vatandaş ilişkisini yansıtan özgün bir ürün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "aidiyet, çevresel vatandaşlık, devlet, e-vatandaşlık, etkin vatandaşlık, vatandaş, vatandaşlık",
+  "support": [
+    "Öğrencilere vatandaşlık dedektifi oyunu oynatılarak onlardan bir hafta boyunca günlük yaşamda karşılaştıkları vatandaşlık kavramlarını not etmeleri istenebilir. Bu kavramlara ait örnekler sınıfta tartışılarak verilen örneklerin doğruluğu değerlendirilebilir.",
+    "Öğrencilere vatandaş olarak sahip oldukları hak, görev ve sorumluluk kavramlarına ait örneklerin yer aldığı kartlar dağıtılır ve öğrencilerin bu örnekleri doğru şekilde eşleştirmeleri sağlanabilir. Öğrencilerden “Hak ve sorumluluklarınız neden önemlidir?” sorusu ile ilgili düşüncelerini dile getirecekleri bir kompozisyon yazmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden geçmişten bugüne vatandaşlık kavramının değişimi ile ilgili açıklamalı tarih şeridi hazırlamaları istenebilir. Öğrencilerden vatandaş olarak sahip oldukları hak, görev ve sorumluluklarla ilgili bir sınıf gazetesi hazırlamaları istenebilir. Öğrencilerden kendi hayalî ülkelerinde devletin görevleri ile vatandaşların hak ve sorumluluklarını düzenleyen 5-10 temel kural belirlemeleri ve bu kuralların neden gerekli olduğunu açıklamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temada yer alan öğrenme çıktıları, çalışma yaprakları ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi kapsamında öğrencilerden devlet ve vatandaş arasındaki ilişkiyi yansıtan poster, kavram haritası, kısa bir hikâye, slogan ve dijital sunum hazırlamaları istenebilir. Performans görevi, dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AVE.1.4.1",
+    "Öğrencilere hak, özgürlük, sorumluluk, adalet, eşitlik, katılım, yardımlaşma, saygı, kurallara uyma, etkin vatandaşlık gibi vatandaşlığın temel kavramlarına yönelik örnek olaylar (“Bir öğrenci kütüphaneden aldığı kitabı zamanında geri getiriyor.”, “Bir öğrenci sınıf başkanlığı seçimlerinde oy kullanıyor.” vb.) sunularak, öğrencilerden bu durumların hangi vatandaşlık kavramlarıyla ilişkili olduğunu insan hakları, vatandaşlık ve demokrasi dersinin hak, özgürlük ve sorumluluk konusundan edindikleri bilgilerden de yararlanarak belirlemeleri istenir. Öğrencilerin gruplara ayrılarak vatandaşlığın temel kavramlarıyla ilgili bilgi toplayacakları yazılı, görsel veya dijital araçları belirlemeleri sağlanır ( SDB2.2 , OB1 , OB2 , OB4 ). Grupların yazılı, görsel veya dijital araçlar kullanarak vatandaşlığın temel kavramları hakkında bilgi toplamaları istenir ( SDB2.1 , SDB2.2 ).",
+    "Öğrencilerden toplanan bilgileri sınıfta sunarak karşılaştırmaları beklenir. Bu aşamada konuşma halkası, forum gibi tekniklerden yararlanılabilir ( E3.1 , SDB2.1 , KB2.18 ).",
+    "Öğrencilerden farklı kaynaklar kullanarak karşılaştırdıkları bilgileri doğrulamaları ve doğrulama sürecinden geçen bilgileri düzenli bir şekilde kaydetmeleri istenir ( D3.3 ). Bu süreçte öğrencilerden vatandaşlığın temel kavramlarını öğrenmeleri ve adalet, sorumluluk, saygı gibi demokratik değerleri benimsemeleri beklenir ( OB6 , D1.1 , D16.2 ). Süreç, çalışma yaprakları kullanılarak değerlendirilebilir.",
+    "AVE.1.4.2",
+    "Öğrencilere vatandaş olarak hak, görev ve sorumluluklarla ilgili yazılı, görsel veya dijital kaynaklardan örnek durumlar (seçimlerde oy kullanma, vergi ödeme, askerlik, hukuk kurallarına uyma çevreyi koruma, eğitim hakkı, ifade özgürlüğü vb.) sunulur (OB1, OB2, OB4). Öğrenciler gruplara ayrılır. Gruplardan örneklerdeki hak, görev ve sorumluluklardan yola çıkarak vatandaş olarak üzerlerine düşen hak, görev ve sorumlulukları tahmin etmeleri istenir ( E3.1 , SDB2.2 ). Tahminler hak, görev ve sorumluluk başlıkları altında listelenir. Listelenen hakların elde edildiği ve edilemediği durumlar ile görev ve sorumlulukların yerine getirildiği ve getirilmediği durumların sonuçlarını sorgulamaları sağlanır ( E3.1 ).",
+    "Her grubun kendisine verilen örnek bir durum üzerinden hak, görev ve sorumlulukların birey ve toplum açısından önemine dair çıkarımlarda bulunmaları sağlanır ( E3.1 , D1.1 , D16.2 , SDB2.2 ). Bu aşamada görüş geliştirme, Philips 66 gibi teknikler kullanılabilir. Öğrencilerden ulaştıkları çıkarımları sınıfla paylaşmaları ve örnekteki duruma ilişkin farklı bakış açılarını değerlendirmeleri beklenir ( E3.5 , SDB2.1 ).",
+    "Öğrencilerden vatandaş olarak hak, görev ve sorumluluklarla ilgili ulaştıkları çıkarımları günlük yaşamdan örneklerle ilişkilendirmeleri istenir ( SDB1.3 ). Örneğin okul kurallarına uyma, çevreyi temiz tutma, arkadaşlarına saygı gösterme, karar alma süreçlerine katılma gibi davranışların vatandaşlık sorumluluğu ile bağlantısının kurulması sağlanır ( D5.2 , D14.1 , D16.3 , D18.3 , SDB3.3 ). Süreç sonunda öğrencilerden performans görevi kapsamında hak, görev ve sorumluluklarını günlük yaşamda nasıl uygulayabileceklerini yansıtan hikâye tamamlama veya öğrenme günlüğü etkinliğini yapmaları istenebilir ( SDB1.2 ). Ürünler dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "AVE.1.4.3",
+    "Öğrencilere devletin görevleri ile vatandaşlık sorumluluklarını içeren yazılı, görsel veya dijital kaynaklar sunulur. Bu kaynaklarda vatandaşların güvenliğinin sağlanması, eğitim ve sağlık hizmetlerinin sunulması, adaletin sağlanması gibi devlet görevleri ile kanunlara uymak, çevreyi korumak, kamu mallarına zarar vermemek, oy kullanmak ve kaynakları tasarruflu kullanmak gibi vatandaşlık sorumluluklarına yer verilir ( OB1 , OB2 , OB4 ). Öğrencilerden bu kaynaklardan yararlanarak öğretmen rehberliğinde devletin temel görevlerini ve vatandaşların temel sorumluluklarını belirlemeleri beklenir ( E3.1 , SDB2.1 )",
+    "Öğrenciler gruplara ayrılır. Her gruba devlet ve vatandaş arasındaki ilişkiyi belirlemek amacıyla günlük yaşamdan bir örnek durum verilir. Bu aşamada “vergi ödeme, seçimlere katılma, kamu hizmetlerinden yararlanma (güvenlik, eğitim, sağlık vb.) gibi örnekler seçilir. Daha sonra verilen örnek durumlar üzerinden devlet-vatandaş ilişkisini tartışmaları sağlanır ( D1.1 , E3.1 , SDB2.1 , SDB2.2 ). Tartışma tekniklerinden düşün-eşleş-paylaş, dönüşümlü tartışma, balık kâsesi gibi teknikler kullanılabilir. Gruplar bu örneklerden yola çıkarak devletin vatandaşa, vatandaşın da devlete karşı sorumluluklarını belirler ( D16.2 , E2.2 , SDB2.3 ). Ayrıca vatandaşların haklarını aramak için dilekçe hakkını kullanabilecekleri ifade edilerek öğrencilerden örnek durumlara yönelik dilekçe yazmaları istenir.",
+    "Öğrencilerden performans görevi kapsamında devlet ve vatandaş arasındaki ilişkiyi yansıtan özgün bir ürün oluşturmaları istenebilir ( E3.3 ). Bu aşamada istasyon tekniği kullanılabilir. İstasyonlarda poster, kavram haritası, kısa bir hikâye, slogan veya dijital sunum hazırlanabilir (SDB2.2). Öğrencilerin oluşturdukları ürünler sınıf panosunda sergilenir. Sürecin sonunda ürünler dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1702"
+}

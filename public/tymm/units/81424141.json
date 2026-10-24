@@ -1,0 +1,64 @@
+{
+  "unitId": 81424141,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "141. ÜNİTE: MİNYATÜR - MİNYATÜR SANATINDA UYGULAMALAR",
+  "hours": "34",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.5.4.1",
+      "title": "Tarama tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.2",
+      "title": "Noktalama tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.3",
+      "title": "Sulandırma tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.4",
+      "title": "Yarı saydam boyama ve tam boyama tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.5",
+      "title": "Belirlenen konu ile ilgili bir kompozisyonu tasarlar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.6",
+      "title": "Tasarım için zemin oluşturur",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.7",
+      "title": "Hazırladığı tasarımı uygulama yüzeyine aktarır",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.8",
+      "title": "Tasarımındaki ögelerin zemin boyalarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.4.9",
+      "title": "Minyatür çalışmasını tamamlayarak sergilemeye hazırlar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

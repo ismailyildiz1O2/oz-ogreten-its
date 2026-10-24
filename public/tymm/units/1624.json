@@ -1,0 +1,39 @@
+{
+  "unitId": 1624,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY II · 5. Tema: Yapay Zekâ İle Dijital Sanat",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.2.5.1",
+      "title": "Dijital ürün geliştirmede yapay zekâ araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Dijital ürün geliştirme sürecinde kullanılan yapay zekâ araçlarını tanır.",
+        "b) Dijital ürün geliştirme sürecine uygun yapay zekâ araçlarını belirler.",
+        "c) Dijital ürün geliştirme sürecinde belirlenen yapay zekâ araçlarını etik ilkelere uygun biçimde kullanır.",
+        "ç) Dijital ürün geliştirme sürecinde kullanılan yapay zekâ araçlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "DS.2.5.2",
+      "title": "Yapay zekâ araçları ile geliştirilen dijital sanat eserlerini etik açıdan yorumlayabilme",
+      "processComponents": [
+        "a) Yapay zekâ araçları ile geliştirilen dijital ürünler ile konu-mesaj arasında ilişki kurar.",
+        "b) Dijital sanat eserlerinin teması ya da destekleyici temaları hakkında çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "dijital estetik, dijital mahremiyet, etik değerlendirme, insan katkısı, özgünlük, üretken yapay zekâ, yaratıcılık",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)",
+    "SAB3. Sanat Eserini İnceleme (SAB3.3. Sanatsal Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1624"
+}

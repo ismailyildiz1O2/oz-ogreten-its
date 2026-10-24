@@ -1,0 +1,55 @@
+{
+  "unitId": 1481,
+  "grade": 0,
+  "gradeName": "DÜŞÜNME EĞİTİMİ DERSİ DÜZEY II",
+  "subject": "Düşünme Eğitimi Dersi",
+  "title": "DÜZEY II · 1.Ünite: Kavramlar Ve Düşünme",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DE.2.1.1",
+      "title": "Düşünme ile kavram arasındaki bağı sorgulayabilme",
+      "processComponents": [
+        "a) Düşünme ile kavram arasındaki bağ hakkında merak ettiklerini tanımlar.",
+        "b) Düşünme ile kavram arasındaki bağ hakkında sorular sorar.",
+        "c) Düşünme ile kavram arasındaki bağ hakkında bilgi toplar.",
+        "ç) Düşünme ile kavram arasındaki bağ hakkında toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Düşünme ile kavram arasındaki bağ hakkında çıkarımda bulunur."
+      ]
+    },
+    {
+      "code": "DE.2.1.2",
+      "title": "Kavramların düşünme sürecindeki işlevini sorgulayabilme",
+      "processComponents": [
+        "a) Kavramların düşünme sürecindeki işlevini tanımlar.",
+        "b) Kavramların düşünme sürecindeki işlevi hakkında sorular sorar.",
+        "c) Kavramların düşünme sürecindeki işlevi hakkında bilgi toplar.",
+        "ç) Kavramların düşünme sürecindeki işlevi hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Kavramların düşünme sürecindeki işlevi hakkında çıkarım yapar"
+      ]
+    }
+  ],
+  "keyConcepts": "algı, anlama, benzerlik/farklılık, durum, duyum, düşünme, hafıza, imgelem, kavrama, olay, olgu, sınıflandırma, terim, yargılama",
+  "support": [
+    "Kavram tamamlama cümleleri yaptırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden adalet, hak, vicdan, merhamet, özgürlük ve saygı sözcüklerini kullanarak kavram haritası yoluyla kavramlar arası ilişki kurmaları ve bu şekilde düşünceyi geliştirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; kelime ilişkilendirme testi, açık uçlu sorular, tartışma, 5N1K, kavram haritası, çalışma kâğıdı, kontrol listesi, performans görevi, gözlem formu, dereceli puanlama anahtarı, grup değerlendirme formu ve öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden ünitede öğrendiklerine yönelik bir öğrenme bülteni hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "DE.2.1.1",
+    "Öğrencilere birbirinden farklı ancak ortak özellikler taşıyan bazı nesne görselleri sunulur ( OB4 ). Öğrenciler ikili gruplara ayrılır ( SDB2.2 ). Öğrencilerin görsellerdeki varlıkların isimlerini kullanmadan ve renk, biçim, büyüklük, kullanım amacı gibi ayırt edici özelliklerine odaklanarak bu varlıklar hakkında düşünmeleri istenir. Düşüncelerini yalnızca betimleyici ifadeler kullanarak grup arkadaşıyla paylaşmaları sağlanır ( SDB2.1 ). Ardından öğrencilerin düşünme ve düşüncelerini aktarım süreçlerinde hangi noktalarda zorlandıklarını açıklamaları beklenir. Öğrencilerin görsellerdeki varlıkların tek tek adlandırılması ya da hepsini kapsayan tek bir ifade kullanılması hâlinde düşüncelerini aktarmada yaşadıkları zorluğun ortadan kalkıp kalkmayacağı konusundaki görüşleri alınır ( SDB 2.1 ). “Bir şeyi düşünmek için onu mutlaka adlandırmamız gerekir mi? Neden?” sorusunun sınıf ortamında tartışılması sağlanır. Öğrencilere düşünme ve kavram arasındaki bağ, kavramın tanımı ve düşünme sürecindeki önemi, düşünmenin kavram oluşumuna katkısı gibi konularla ilgili açıklamaları içeren yapılandırılmış bir metin sunulur ( OB1 ). Öğrencilerden okudukları metinden yola çıkarak düşünme ile kavram arasındaki bağ hakkında merak ettiklerini tanımlamaları istenir. Metinle ilgili açık uçlu sorular sorularak öğrencilerden düşünmenin kavramlarla ilişkisini açıklamaları istenir. Öğrencilere kavramlaştırmanın gerçekliğin açıklanmasına etkisi hakkında yapılandırılmış bir metin sunulur ve öğrencilerden gruplara ayrılarak bu konuyla ilgili sorular üretmeleri beklenir ( E3.8 ). Üretilen soruların sınıfla paylaşılması ve öne çıkan üç soru hakkında sınıf içi tartışma yapılması sağlanır. Tartışma sırasında öğrenciler, birbirlerine karşı nezaketli ve saygılı olmaları konusunda yönlendirilir ( SDB2.1 , D14.1 ).",
+    "Öğrencilerin farklı dillerde olup Türkçede bir sözcük ile karşılanmayan kavramlarla ilgili bilgi toplamaları sağlanır ( KB2.6 , E1.1 , OB1 ). Öğrencilerden topladıkları bilgilerin doğruluğunu farklı güvenilir kaynaklarla karşılaştırarak değerlendirmeleri beklenir. Ardından araştırdıkları kavramların karşıladığı olay, olgu, durum, nesne ve duyguları dikkate alarak bu kavramlara karşılık gelebilecek Türkçe kelimeler önermeleri istenir. Süreç sonunda öğrencilerin, edindikleri bilgiler ve ulaştıkları çıkarımlardan hareketle kavram-gerçeklik ilişkisini yorumlayan kısa bir metin yazmaları sağlanır ( KB2.10 ). Sürecin değerlendirilmesi için öz değerlendirme formu ya da kontrol listesi kullanılabilir.",
+    "Performans görevi olarak öğrencilerden ünitede öğrendiklerine yönelik bir öğrenme bülteni hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir.",
+    "DE.2.1.2",
+    "Öğrencilere kavram ve terim farkının açıklandığı bir bilgi notu ile farklı disiplinlere ait terimler içeren yapılandırılmış metinler verilir ( OB1 ). Öğrencilerin bu metinlerde yer alan her bir disipline özgü terimleri bulmaları istenir. Bu terimlere karşılık gelen kavramlar olmazsa neler yaşanabileceği hakkında öğrencilerin görüşleri alınır. “Zihninizde karşılığı olmayan bir kavram hakkında düşünmeniz mümkün müdür?” sorusunu gerekçelendirerek cevaplamaları sağlanır. Öğrencilere farklı kategoriler altında sınıflandırılabilecek varlık görselleri sunulur ( OB4 ). Öğrencilerin bu görsellerdeki varlıkların özelliklerini listelemeleri ve listelenen özellikleri, benzerlik ve farklılıklarını dikkate alarak gruplandırmaları sağlanır ( KB2.7 ). Öğrencilerden oluşturdukları bu gruplara, uygun kavram adları vermeleri istenir. Öğrencilerin, yaptıkları sınıflandırmaların arkasındaki düşünme süreçlerini sözlü olarak ifade etmeleri sağlanır. Öğrencilere, kavramlar arasındaki ilişkiler ile kavramların sınıflandırılması ve bölünmesi konularını kapsayan yapılandırılmış metin, soru ve uygulamaların yer aldığı bir çalışma kâğıdı sunulur.",
+    "Öğrencilerin kavramların düşünme sürecindeki işlevini tanımlamaları sağlanır. Öğrenciler küçük gruplara ayrılır ( SDB2.2 ). İş birlikli çalışmayla öğrencilerin 5N1K tekniğini kullanarak kavramların düşünme sürecindeki işlevine ilişkin sorular üretmeleri sağlanır ( E3.8 ). Gruplardan kavramların düşünme sürecindeki işlevi hakkında bilgi toplamaları istenir ( D3.3 , OB1 ). Öğrencilerin, topladıkları bilgilerin doğruluğunu değerlendirmeleri için onlara kavramların düşünme sürecindeki işlevi hakkında bilgi notu verilir. Bilgi notu ve edindikleri bilgileri kullanarak sınıfça tartışmaları sağlanabilir ( E3.9 ).",
+    "Süreç sonunda gruplardan kavramların düşünme sürecindeki işlevi hakkında yaptıkları çıkarımlardan hareketle bir slogan/afiş ya da kavramların olmadığı bir dünyada düşünmenin nasıl işleyeceğini konu alan kısa bir senaryo üretmeleri istenebilir ( E3.3 , OB4 ). Öğrenciler görevlerini yerine getirirken gerekli görev bilincine sahip olmaları açısından yönlendirilir ( D16.3 ). Ünite sonunda işlenen konularla ilgili Türk-İslam düşünürlerinin eserlerinden örnek metinler verilerek öğrenciler düşünmeye yönlendirilebilir. Öğrencilerin slogan, afiş ya da senaryo hazırlama sürecinde hangi duyguları hissettiklerini yansıtmaları beklenir ( SDB1.1 ). Sürecin değerlendirilmesinde öz değerlendirme veya grup değerlendirme formu kullanılabilir. Daha fazla kaynak için \"okuldisiogrenme.eba.gov.tr\" genel ağ adresini ziyaret edebilirsiniz."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1481"
+}

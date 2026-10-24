@@ -1,0 +1,52 @@
+{
+  "unitId": 1533,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Okuma Becerileri Dersi",
+  "title": "2. Öğrenme Alanı: Stratejik Okuma",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OB.2.1",
+      "title": "Okuma amacına dayalı olarak okumayı yönetebilme",
+      "processComponents": [
+        "a) Okuduğu metinde yer alan verileri inceleyerek bilgi edinmek amacıyla kullanacağı kaynakla ilgili görüş oluşturur.",
+        "b) Metne uygun okuma yöntemi, tekniği veya stratejileri ile ilgili seçim yapar."
+      ]
+    },
+    {
+      "code": "OB.2.2",
+      "title": "Metin ve görsel arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Metin ile görsel arasındaki nesne, olgu ve olaylara ilişkin parçaları belirler.",
+        "b) Görselden hareketle metnin içeriği, başlığı, konusu, ana fikri/ana duygusu arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "bilgi, bilgi kaynağı, bilgiye dayalı okuma, görsel okuma, görselle anlam kurma, okuma ama cı, okuma stratejisi, veri okuryazarlığı",
+  "support": [
+    "Öğrencilerin hazır bulunuşluk düzeyleri, ilgi alanları ve öğrenme stilleri dikkate alınarak metin ve görseller sadeleştirilerek sunulabilir. Bilgiye ulaşma süreci aşamalı yönergelerle desteklenebilir; anahtar sözcükler, görsel ipuçları ve grafik düzenleyiciler kullanılabilir. Öğrencilerin çıkarım yapmalarını kolaylaştırmak amacıyla yönlendirici sorular, ipucu cümleleri, kavram haritaları ve metindeki önemli bilgileri belirlemeye yönelik çalışmalar kullanılabilir.",
+    "Bilgi eşleştirme, görsel yorumlama, yönlendirici sorular ve küçük grup çalışmaları gibi etkinliklerden yararlanılabilir. Etkinlikler sırasında öğrencilerin ihtiyaç duydukları durumlarda kaynak seçimi, okuma stratejisi belirleme ve bilgiyi düzenleme süreçlerine yönelik ipuçları ve bireysel rehberlik sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk düzeyleri, ilgi alanları ve öğrenme ihtiyaçları dikkate alınarak aynı konuya ilişkin farklı bilgi kaynaklarıyla öğretmen rehberliğinde inceleme çalışmaları yaptırılabilir. Öğrencilerden metin, tablo, grafik, harita, bilgi görseli ve diğer görsellerden elde ettikleri bilgileri karşılaştırmaları; bu bilgilerden hareketle araştırma soruları oluşturmaları ve ulaştıkları sonuçları kavram haritası, tablo veya bilgi görseli hâlinde düzenlemeleri istenebilir. İleri düzeydeki öğrencilerden aynı konuya ilişkin güvenilir basılı ve dijital kaynakları karşılaştırarak bilgilerin doğruluğunu değerlendirmeleri ve ulaştıkları sonuçları sınıfta sunmaları beklenebilir.",
+    "Öğrenme ortamları öğrencilerin bireysel ve iş birlikli araştırma yapmalarını destekleyecek şekilde düzenlenebilir. Kütüphaneler, güvenilir dijital bilgi kaynakları ve etkileşimli görsel materyallerden yararlanılabilir."
+  ],
+  "assessment": [
+    "Öğrenme kanıtlarını belirlemede kullanılabilecek ölçme araçları şunlardır: gözlem formları, kontrol listeleri, rubrikler, akran ve öz değerlendirme formları, performans görevleri, ürün dosyası değerlendirmesi ve dijital değerlendirme araçları.",
+    "Performans görevi olarak öğrencilerden belirledikleri bir araştırma konusuna uygun bilgi kaynaklarını seçmeleri, seçtikleri kaynaklardaki metin ve görsellerden elde ettikleri bilgileri düzenleyerek bilgi notu, kavram haritası, bilgi görseli veya dijital sunu hazırlamaları istenebilir. Performans görevi; bütüncül dereceli puanlama anahtarı, kontrol listesi, gözlem formu, ürün dosyası değerlendirmesi gibi araçlarla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "OB.2.1",
+    "Öğrenciden metinde yer alan verileri inceleyerek bilgi edinmek amacıyla kullanacağı kaynakla ilgili görüş oluşturması beklenir. Öğrencinin metnin konusu hakkında daha ayrıntılı bilgi edinmek amacıyla kullanılabilecek basılı ve çevrim içi kaynakları belirlemesi, bu kaynakların güvenilirliğini değerlendirerek tercihine ilişkin yorumda bulunması istenir ( SDB2.1 ). Öğrenciden seçtiği bilgi kaynaklarını sınıf arkadaşlarıyla karşılaştırarak tercih gerekçelerini arkadaşlarıyla paylaşması beklenir. Öğrencinin bilgi edinme sürecinde güvenilir kaynaklara yönelmesi, akademik dürüstlük ilkesine uygun davranması ve elde ettiği bilgileri etik biçimde kullanması desteklenir ( D3.3 , OB1 ). Metne uygun okuma yöntemi, tekniği veya stratejileri (sesli, sessiz, göz atarak, özetleyerek, not alarak, tahmin ederek, eleştirel, metinlerle ilişkilendirerek, bağlamından hareketle, düşünsel okuma vb.) ile ilgili seçim yapması sağlanır. Seçtiği yöntem, teknik veya stratejiye göre metni okuması istenir ( E1.6 ). Bu süreç öz değerlendirme ile gerçekleştirilebilir.",
+    "OB.2.2",
+    "Öğrenciden metin ve görseli birlikte inceleyerek görselde yer alan nesne, olgu ve olayların metindeki hangi bilgi veya anlatımla ilişkili olduğunu belirlemesi; bu ögeler arasındaki anlam ilişkisini açıklaması istenir ( SDB1.1 , OB4 ). Bu parçalardan yola çıkarak öğrencinin görseldeki unsurlar üzerinden metin hakkında çıkarımlar yapması teşvik edilir ( E1.1 , D7.1 ). Öğrencinin okuduğu metinde yer alan görseli veya verileri incelemesi sağlanır. Metnin başlığı incelenerek başlık ve görsel arasındaki uyum hakkında öğrencinin konuşması sağlanır ( SDB2.1 ). Öğrencinin okuduğu metne ilişkin duygu ve düşüncelerini gerekçeleriyle sözlü veya yazılı olarak ifade etmesi, farklı görüşleri dinleyerek tartışmalara katılması beklenir ( TAB3 ) . Öğrenciden görselden hareketle metnin konusu hakkında tahminlerde bulunması istenir ( OB4 ). Öğrencinin metnin konusunu bulduktan sonra ana fikir/ana duygu hakkında tahminlerde bulunması beklenir. Bu tahminden hareketle öğrencinin metin ile görsel arasındaki ilişkiyi belirlemesi sağlanır ( E3.1 ). Metin ve görsel arasındaki ilişkiyi belirlerken görsel, tablo, grafik veya şemadaki verileri metin doğrultusunda yorumlaması istenir ( E3.10 , OB4 , OB7 ). Öğrencinin görsellerin ve/veya metinlerin estetik özelliklerini incelemesi, metinlerde yer verildiği doğrultuda sanatın ve estetik unsurların anlam oluşturmadaki katkısını değerlendirmesi sağlanır ve görsel hakkında çıkarımlar yapması teşvik edilir ( D7.1 ) . Öğrenciden değerlendirmesinden hareketle görselde yer alan iletiyi yorumlaması ve görsel üzerinden tahmin yürüterek çıkarımlarda bulunması istenir. Çıkarımlarından hareketle alternatif görseller oluşturması teşvik edilir ( E3.2 , OB4 ). Performans görevi olarak öğrenciden belirlediği bir araştırma konusuna uygun bilgi kaynaklarını seçmesi, seçtiği kaynaklardaki metin ve görsellerden elde ettiği bilgileri düzenleyerek bilgi notu, kavram haritası, bilgi görseli veya dijital ortamda sunu hazırlaması istenebilir.",
+    "Performans görevi; öğretmen tarafından bütüncül dereceli puanlama anahtarı, kontrol listesi, gözlem formu ve ürün dosyası değerlendirmesi gibi araçlarla değerlendirilebilir."
+  ],
+  "skills": [
+    "Anlama",
+    "TAB2. Okuma (TAB2.1. Okumayı Yönetme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1533"
+}

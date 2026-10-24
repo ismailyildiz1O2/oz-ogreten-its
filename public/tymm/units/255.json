@@ -1,0 +1,65 @@
+{
+  "unitId": 255,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "6. ÜNİTE: AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+  "hours": "22",
+  "description": "Bu ünitede gezegen sınırı kavramına yönelik içerik oluşturulabilmesi, küresel iklim değişikliğine uyum stratejilerinin tartışılabilmesi ve Türkiye’de suyun sürdürülebilir kullanımının sorgulanabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.11.6.1",
+      "title": "Gezegen sınırının zorlanması sonucu oluşan çevre sorunlarına yönelik içerik oluşturabilme",
+      "processComponents": [
+        "a) Yaşadığı gezegenin sınırını oluşturan bileşenleri ve bu bileşenler üzerindeki beşerî etkileri belirler.",
+        "b) Yaşadığı gezegenin sınırını oluşturan bileşenlerle beşerî etkiler arasında ilişki kurar.",
+        "c) Elde ettiği bilgilerden hareketle gezegen sınırının zorlanması sonucu oluşan çevre sorunlarına yönelik özgün bir içerik oluşturur."
+      ]
+    },
+    {
+      "code": "COĞ.11.6.2",
+      "title": "Küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik stratejileri tartışabilme",
+      "processComponents": [
+        "a) Küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik stratejilere mantıksal temellendirme yapar.",
+        "b) Küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik stratejilerdeki çelişki ve/veya geçersizlikleri tespit eder.",
+        "c) Küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik stratejileri çürütür veya kabul eder."
+      ]
+    },
+    {
+      "code": "COĞ.11.6.3",
+      "title": "Türkiye'de bulunan su kaynaklarının sürdürülebilir kullanımını sorgulayabilme",
+      "processComponents": [
+        "a) Türkiye'de bulunan su kaynaklarının sürdürülebilir kullanımına ilişkin merak ettiği soruları sorar.",
+        "b) Türkiye'de bulunan su kaynaklarının sürdürülebilir kullanımına ilişkin bilgi toplar.",
+        "c) Türkiye'de bulunan su kaynaklarının sürdürülebilir kullanımına ilişkin topladığı bilgileri düzenler.",
+        "ç) Türkiye'de bulunan su kaynaklarının sürdürülebilir kullanımına ilişkin düzenlediği bilgileri çözümler.",
+        "d) Türkiye'de bulunan su kaynaklarının sürdürülebilir kullanımına ilişkin çözümlediği bilgilerden sonuçlar çıkararak paylaşımda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "biyoçeşitlilik, çevre sorunları, ekosistem, gezegen sınırı, mutlak su kıtlığı, su ayak izi, su dengesi, su güvenliği, su kıtlığı, su stresi, su tasarrufu, sürdürülebilirlik, yeşil beceriler",
+  "support": [
+    "Öğrencilerden öğrenme günlüğü çalışması yapmaları istenebilir. Bu günlükler üzerinden öğrenmelerini yansıtma ve geliştirmeleri amacıyla öğretmen rehberliğinde öğrenme süreçlerinin düzenlenmesi sağlanabilir. Öğrenmelerin desteklenmesi için kavram haritaları, altı çizili veya özetlenmiş metinler kullanılabilir. Performans görevi; küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik kitap, makale, sunum vb. ürünlerin incelenmesi şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere *yerel düzeyde ekolojik ayak izi hesaplamaları; yerel düzeyde su stresi, su kıtlığı ve su tasarrufu farkındalığı; iklim değişikliği ve turizm, küresel iklim politikaları ve iklim değişikliğine uyum sürecinde kent planlamaları konularında araştırma görevleri verilebilir. Öğrencilerin söz konusu araştırma görevlerini öğrenme profillerine göre farklı yollarla sunmalarına (rol oynama, eylem planı ve medya ürünü hazırlama, görsel ve sözlü sunum vb.) imkân sağlanır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; yapılandırılmış grid, bütünsel dereceli puanlama anahtarı, öz değerlendirme formu, açık uçlu sorular, performans görevi, analitik dereceli puanlama anahtarı, grup değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik stratejiler hakkında grup hâlinde görüş geliştirmeleri ve su kaynaklarının etkilerine yönelik ortak bir rapor hazırlamaları istenebilir. Performans görevi; bilgi toplama, bilgileri düzenleme, çıkarım yapma ve rapor hazırlama ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.11.6.1",
+    "Öğrencilere gezegen sınırı kavramı ile ilgili dikkat çekici görseller üzerinden çeşitli sorular yöneltilebilir ( E1.1) . Gezegen sınırı üzerinde etkili olan faktörlere yönelik bilgi edinme sürecinde iş birlikli öğrenme yöntemi kullanılabilir. Bu kapsamda öğrenciler gruplara ayrılır, her grup tarafından seçilen bir faktör araştırılır ve edinilen bilgiler sınıfta paylaşılabilir. Aşılmış olan gezegen sınırları üzerine bir tartışma yapılandırılabilir (SDB2.1, SDB2.2) . Öğrencilerden gezegen sınırının zorlanması ile ortaya çıkan çevre sorunlarını sınıflandırmaları istenebilir ( KB2.5 ). Öğrenmeler, yapılandırılmış gridle izlenebilir. Gezegen sınırı kavramıyla ilgili elde edilen bilgiler doğrultusunda çevre sorunlarının önlem alınmadığı takdirde afetlere dönüşebileceği vurgulanır. Ayrıca çevre sorunlarının birey, doğa ve toplum üzerindeki etkileri; çevre sorunlarına yol açabilecek davranışlar, doğal kaynakları korumanın gerekliliği, çevre sorunları karşısında farkındalık oluşturma, çevre sorunlarıyla mücadelede sahip olunması gereken yeşil beceriler veya çevresel sorunlara karşı alınabilecek önlemler konularında haber köşesi oluşturma, bilgi görseli hazırlama gibi çalışmalar yapılabilir ( D5.2, D18.3) . Hazırlanan ürünler, panolara asılarak galeri yürüyüşü tekniğiyle incelenebilir ( SDB2.3, SDB3.3 ). Hazırlanan ürünler, bütünsel dereceli puanlama anahtarı ve öz değerlendirme formlarıyla değerlendirilebilir (SDB1.2 ) .",
+    "COĞ.11.6.2",
+    "Küresel iklim değişikliğine ilişkin düşünme sürecini harekete geçirmek için merkezler tekniği kullanılabilir. Bu kapsamda sınıfta afiş, öykü ve drama merkezi oluşturulabilir. Öğrenme çıktı ve yöntemlerinin belirlenmesinin ardından öğrencilerin istedikleri merkeze dâhil olması sağlanabilir. Ortaya çıkan ürünler üzerinden küresel iklim değişikliği ve ilişkili kavramlar üzerine bir tartışma yapılandırılabilir. Küresel iklim değişikliğinin etkilerini azaltmayı amaçlayan anlaşmalar ve iklim değişikliğine uyum sağlamayı temel alan stratejilerin Türkiye ve diğer ülkeler üzerindeki sosyoekonomik, çevresel ve politik etkileri ile ilgili münazara grupları oluşturulabilir. Gruplardan savundukları görüşlere ilişkin hazırlık yapmaları ve görüşlerini mantıksal temellere dayandırarak kanıtlamaları istenir. Aynı zamanda öğrencilerden başlangıçta belirledikleri hedeflere grup çalışması boyunca ulaşıp ulaşamadıkları, kendi öğrenmelerini geliştirmek için neler yapabilecekleri ve iklim değişikliğinin etkileri konusunda neler hissettikleri üzerine tartışmaları istenebilir (D14.1, SDB1.1, SDB1.2, SDB2.1, SDB2.2, E3.10) . Münazara etkinliğinin ardından bu anlaşma ve stratejilerin uygulanmasında ülkelerin gelişmişlik durumları ve politik özelliklerine göre tutarsız davranışlar sergilediği durumlar varsa bunlar tespit edilir. Ortaya çıkan sonuçlar üzerinden imzalanan anlaşmalar ve içeriği kabul edilen uyum stratejilerinin değerlendirilmesinde tartışma yöntemi kullanılabilir ( KB3.3) . Öğrenmeler, açık uçlu sorularla değerlendirilebilir ( SDB1.2) .",
+    "COĞ.11.6.3",
+    "Dersin başında öğrencilerden bir günde tükettikleri su miktarına ilişkin tahminde bulunmaları istenebilir. Tahminler ile bilim insanları veya bilimsel kuruluşların konuya ilişkin tavsiyeleri arasındaki benzerlik ve farklılıklar üzerine konuşularak öğrencilerde su kullanımı konusunda farkındalık oluşturulabilir. İlgili kurumların genel ağ adresleri üzerinden su ayak izi hesaplaması yapılabilir. Suyun yanlış ve gereksiz kullanımı hakkında örnekler verilerek su israfının birey, toplum ve doğa üzerindeki olumsuz etkileri ele alınır. Sonrasında su kaynaklarının (deniz, göl, akarsu vb.) verimli kullanımına yönelik bireysel ve toplumsal sorumluluklar üzerinde durulur. Konu ile ilgili basılı veya görsel haberler incelenebilir ve bu yolla öğrencide olumlu tutum ve davranışların geliştirilmesi sağlanır (SDB2.3, E2.2, OB8) . Öğrencilerden su tasarrufu konusunda ailelerini bilgilendirmeleri, aileleriyle eylem planı hazırlamaları, planlarını uygulamaları ve önceki su kullanımlarıyla planlarını uyguladıktan sonraki su kullanımlarını karşılaştırmaları istenebilir (D17.2, SDB1.3, SDB3.3). Türkiye'de ve dünyanın farklı yerlerindeki su stresi, su kıtlığı ve mutlak su kıtlığı durumu coğrafi temsillerden yararlanılarak karşılaştırılır (SBAB10.3, SBAB11.1). Öğrencilerden küçük gruplar hâlinde su stresi, su kıtlığı ve mutlak su kıtlığını konu alan örnek olay yazıları yazmaları istenebilir. Hazırlanan metinler tüm sınıfın katılımıyla analiz edilebilir. Bu yolla Türkiye'de yaşanan su sorunlarına ilişkin farkındalık oluşturulur. Türkiye'de görülen su sorunlarının (su stresi, su kıtlığı ve mutlak su kıtlığı, su kirliliği, sel, kuraklık vb.) neden ve etkileri ile ülkedeki su kaynaklarının sürdürülebilir kullanımına yönelik çıkarımlarda bulunulabilir. Çıkan sonuçlar üzerinden bahsi geçen konulara ilişkin bilgi toplanır, toplanan bilgiler düzenlenir ve çözümlenir (E3.7, E3.8, OB1, BTYAB5) . Çözümlenen bilgilerden sonuçlar çıkarılır ve bu sonuçlar coğrafi temsil ve metinler şeklinde paylaşılır (KB3.1) . Öğrencilerden elde ettikleri bilgileri kullanarak olası bir su kıtlığı durumunda bu sorunla nasıl baş edebilecekleri üzerine senaryo yazma tekniğiyle bir metin oluşturmaları istenebilir (SDB3.1, SDB3.2) . Su kaynaklarının geleceğe aktarılabilmesi ve ülke güvenliği için sürdürülebilir şekilde kullanılabilmesi konusunda neler yapılması gerektiği ifade edilir (D19.3, E2.2, OB8, SDB3.3) . Konuya ilişkin öğrenilenlerin yansıtılması amacıyla öğrencilere duvar gazetesi hazırlatılabilir. Yapılan çalışmaların değerlendirilmesinde öz veya grup değerlendirme formu kullanılabilir ve öğrencilere geri bildirim verilir.",
+    "Bu ünitede performans görevi olarak öğrencilerden küresel iklim değişikliğinin etkilerini azaltma ve iklim değişikliğine uyum sağlamaya yönelik stratejiler hakkında grup hâlinde görüş geliştirmeleri ve su kaynaklarının etkilerine ilişkin ortak bir rapor hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve grup değerlendirme formlarıyla değerlendirilebilir (SDB1.2)."
+  ],
+  "skills": {
+    "kavramsal": [
+      "KB2.5"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/255"
+}

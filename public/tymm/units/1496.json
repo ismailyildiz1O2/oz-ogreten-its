@@ -1,0 +1,47 @@
+{
+  "unitId": 1496,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Halk Oyunları Dersi",
+  "title": "2. Tema: Kültürel Zenginliğimiz Halk Oyunları",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "HO.2.1",
+      "title": "Farklı kültürlere, yörelere ve ülkelere ait halk oyunlarının hareketlerini, ritmik yapısını ve kültürel bağlamlarını karşılaştırabilme",
+      "processComponents": [
+        "a) Farklı kültürlere ve yörelere ait halk oyunlarının hareketlerini, ritmik yapısını ve kültürel bağlamlarına ilişkin özellikleri belirler.",
+        "b) Farklı kültürlere ve yörelere ait halk oyunlarının hareketlerini, ritmik yapısını ve kültürel bağlamlarına ilişkin benzerlikleri listeler.",
+        "c) Farklı kültürlere ve yörelere ait halk oyunlarının hareketlerini, ritmik yapısını ve kültürel bağlamlarına ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "HO.2.2",
+      "title": "Farklı kültürlere ve yörelere ait halk oyunlarına özgü ritmik hareket edebilme",
+      "processComponents": [
+        "a) Seçilen halk oyunlarında müziğe ve harekete ilişkin ritmi algılar.",
+        "b) Seçilen halk oyunlarında ritme uygun hareket eder.",
+        "c) Seçilen halk oyunlarında ritmik hareket becerilerini sergiler."
+      ]
+    },
+    {
+      "code": "HO.2.3",
+      "title": "Farklı kültürlere ve yörelere ait halk oyunlarına özgü çalışmalarda eşle/grupla hareket edebilme",
+      "processComponents": [
+        "a) Seçilen halk oyunlarına özgü çalışmalarda eşle/grupla hareket ederken rollerini tanımlar.",
+        "b) Seçilen halk oyunlarına özgü çalışmalarda eşle/grupla hareket ederken rollerini yerine getirir.",
+        "c) Seçilen halk oyunlarına özgü çalışmalarda eşle/grupla uyumlu hareket eder."
+      ]
+    }
+  ],
+  "keyConcepts": "çalgı, ezgi, figür (adım), form, halk oyunları, komut, müzik, ölçü, ritim, tartım, temel figürler, yöre",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB5. Ritmik Hareket Etme, BEOSAB7. Eşle/Grupla Hareket Etme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1496"
+}

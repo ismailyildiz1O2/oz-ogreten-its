@@ -1,0 +1,97 @@
+{
+  "unitId": 1454,
+  "grade": 0,
+  "gradeName": "I. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY I · 1. Tema: Günlük Hayatta Matematik",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.1.1.1",
+      "title": "Günlük hayatta matematiğin kullanım alanlarına yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Günlük hayatta matematiğin kullanım alanları ile ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.1.2",
+      "title": "Gerçek yaşamda doğal sayılarla dört işlem yapmayı gerektiren durumlarla ilgili problemleri çözebilme",
+      "processComponents": [
+        "a) Problemin içerdiği sayı ve işlem bileşenlerini belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.1.3",
+      "title": "Yemek hazırlama ya da alışveriş gibi günlük eylemlerin matematikle ilişkisini yorumlayabilme",
+      "processComponents": [
+        "a) Kesir ve ölçme birimlerinin kullanıldığı günlük eylemleri inceler.",
+        "b) Kesir ve ölçme birimlerinin kullanıldığı günlük eylemleri bağlamından kopmadan farklı temsillere dönüştürür.",
+        "c) Kesir ve ölçme birimlerinin günlük eylemlerle ilişkisini açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.1.4",
+      "title": "Günlük hayatta kullanılan mobilya, aksesuar ve araç gereçlerin yüzlerindeki çokgenleri yorumlayabilme",
+      "processComponents": [
+        "a) Günlük hayatta kullanılan mobilya, aksesuar ve araç gereçlerin yüzlerini inceler.",
+        "b) Günlük hayatta kullanılan mobilya, aksesuar ve araç gereçlerin yüzlerindeki çokgenleri bağlamından kopmadan farklı temsillere dönüştürür.",
+        "c) Günlük hayatta kullanılan mobilya, aksesuar ve araç gereçlerin yüzlerinin çokgen özellikleri ile ilişkisini açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.1.5",
+      "title": "Geometrik cisimlerle ilgili deneyimlerini günlük hayatta kullanılan mobilya, aksesuar veya araç gereçlerin tasarım süreçlerine yansıtabilme",
+      "processComponents": [
+        "a) Geometrik cisimlerle ilgili deneyimlerini gözden geçirir.",
+        "b) Tasarlama sürecinde geometrik cisimlerin kullanım amacına yönelik çıkarım yapar.",
+        "c) Çıkarımını farklı tasarımlar üzerinden değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genelleme \n\n Matematik günlük hayatta kullandığımız, kararlarımızı yönlendiren bir araçtır.\n\n Anahtar Kavramlar \n\n bölme, çarpma, çıkarma, çokgenler, dikdörtgenler prizması, düzgün çokgenler, kare prizma, kesir, küp, küre, ölçme, silindir, toplama, üçgen prizma, yüz",
+  "support": [
+    "Problem çözüm süreçlerinde öğrencilere bireysel destek verilebilir ve çözümlerine anlık geri bildirimler yapılabilir.",
+    "Çevrelerindeki eşyaların yüzeylerinde gördükleri çokgenleri incelemeleri, farklı eşyaları benzer özellikteki yüzlerine göre eşleşleştirmeleri istenebilir.",
+    "Geometrik cisimlerle ilgili eşya-görsel eşleştirmeyi içeren dijital oyunlardan yararlanmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden haftalık aile bütçesini gerekçeli bir şekilde planlaması, aylık harcama miktarını ve harcama alanlarını belirlemesi istenebilir.",
+    "Odalarına yeni bir mobilya tasarımı yapmak için geometrik şekil ve cisimlerin boyutlarını dikkate alacak şekilde çizimlerle göstermeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları performans görevleri, açık uçlu ve kısa cevaplı sorular, doğru yanlış soruları ve kontrol listesi kullanılarak değerlendirilebilir.",
+    "Günlük hayatta matematiğin kullanıldığı alanlar ile ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev öz veya akran değerlendirme formları ya da analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Öğrencilerin gerçek yaşam durumlarında karşılaşabilecekleri problemlerin çözüme yönelik farklı stratejiler geliştirmeleri ve geliştirdikleri stratejilerle ilgili sunum hazırlamalarını içeren performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Yemek hazırlama ya da alışveriş gibi günlük eylemlerin matematikle ilişkisi ile ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir ve ürünler analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir.",
+    "Günlük hayatta kullanılan mobilya, aksesuar veya araç gereç tasarlama sürecindeki geometrik cisimlerle ilgili deneyimlerini yansıtabilecekleri performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.1.1.1.",
+    "Öğrencilerin günlük hayatta matematiğin nerelerde kullanıldığına ilişkin örnekler vermeleri istenir. Öğrencilere günlük hayatta matematiğin kullanım alanlarına yönelik bilgi toplamalarını ve topladıkları bilgileri poster, afiş vb. olarak sunmaları içeren performans görevi verilir. Öğrencilerden performans görevinde matematiğin kullanım alanlarını açıklamaları beklenir. Bu süreçte bireysel ya da grup olarak iş birliği içinde çalışmaları beklenir ( SDB2.2 ). Öğrencilerin bilgi edinebilmeleri için güvenilir araçları örneğin genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. belirlemeleri beklenir ( OB1 , OB2 ). Belirledikleri bilgi edinme yollarını kullanarak günlük hayatta matematiğin kullanıldığı alanlar (alışveriş listesi hazırlama, gelir-gider planlaması ve tasarruf hesaplamaları yapma, fatura inceleme, aile bütçesi, zaman planlama, günlük işleri saatlere bölme, işlerin ne kadar süreceğini hesaplama) hakkında bilgileri bulmaları istenir. Öğrencilerden ulaştıkları bilgileri örneğin öğretmenlerinden, alan uzmanlarından, bilimsel kaynaklardan yardım alarak ya da arkadaşları ile tartışarak sorgulayarak doğrulamaları sağlanır ( E3.10 , D3.3 , OB1 ). Öğrencilerden doğruluğundan emin olduğu bilgileri rapor olarak kaydetmeleri ve poster, afiş vb. olarak sunmaları istenir ( SDB2.1 , OB1 ). Bu süreçte öğrencilerin birbirlerini saygılı bir şekilde dinlemeleri desteklenir ( SDB2.1 , D14.1 ). Performans görevi hazırlama sürecinde öğrencilerin sorumlu ve planlı davranmaları sağlanır ( D16.3 , D3.2 , E2.2 ). Elde edilen sonuçlara dayalı olarak öğrencilere geri bildirim verilir. Öğrencilerin hazırladıkları poster, afiş, resim ya da raporları kendileri ve arkadaşları tarafından öz veya akran değerlendirme formları ya da süreç bileşenlerinden oluşan performans kriterlerini barındıran analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir.",
+    "MBU.MU.1.1.2.",
+    "Öğrencilere gerçek yaşamda doğal sayılarla dört işlem yapmayı gerektiren durumlarla nerelerde karşılaştıklarına ilişkin sorular sorulur. Verilen cevaplardan yola çıkılarak tartışma ortamı oluşturulabilir ( SDB2.1 ). Problemlerin seçiminde gerçek yaşam durumlarından yararlanılır. Problemlerde çevre bilinci, tutumluluk, bütçe oluşturma, yardımlaşma, adil paylaşım, israftan kaçınma vb. konularına yer verilir ( D1.2 , D16.2 , D17.1 , D20.2 , OB3 , OB8 ). Örneğin çevre bilincini geliştirmek için \"Adalet Bakanlığının 'Adalet Ormanları' projesi kapsamında, Türkiye'nin 81 ilinde fidan dikimi gerçekleştirilmiştir. Elâzığ’da 23.750, Zonguldak'ta 15.600 ve Bingöl'de 5.500 fidan dikimi yapılmıştır.\" vb. bağlamlar kullanılarak yazılabilecek dört işlem içeren problemler kullanılabilir ( D5.2 ). Matematiksel hesaplamalar sırasında öğrencilerin doğa sevgisi, yeşil vatan ve çevre bilincine yönelik farkındalık geliştirmeleri için ağaçlandırma kampanyalarının faydalarıyla ilgili tartışma yapmaları sağlanabilir ( SDB2.1 , OB8 , D5.2 , D9.3 , D19.3 , KB3.2 ). Çevre bilincine ve yeşil vatana yönelik bu tartışmalar fen bilimleri dersi ile ilişkilendirilebilir. Öğrenme-öğretme uygulamalarına toplama ve çıkarma işlemleri ile başlanır ve problemlerdeki işlemler en fazla beş basamak ile sınırlı tutulur. Çarpma problemleri en fazla üç basamaklı iki sayının çarpımı, bölme işlemine yönelik problemler ise en fazla dört basamaklı sayının iki basamaklı sayıya bölünmesi ile sınırlandırılır. Doğal sayılarla dört işlem içeren problemlerin çözümünde öğrencilerin problemi anlayarak verilen ve istenenleri belirlemeleri istenir. Daha sonra öğrencilerden verilen ve istenenler arasındaki işlem ilişkilerini tespit etmeleri beklenir. Bu süreçte problemdeki ilişkilere yönelik basit şekil ya da diyagram çizmeleri istenerek öğrencilerin problemi anlamaları sağlanır ( OB4 ). Öğrencilerin problem bağlamlarını yorumlarken problemle ilişkili verilenleri belirleyerek uygun matematiksel temsillere dönüştürebilmeleri ve problemi kendi ifadeleriyle açıklayabilmeleri beklenir ( KB3.2 ). Problemlere yönelik çözümlere geçmeden önce öğrencilerin sonuca ilişkin tahminlerde bulunmaları ve problemin çözümüne yönelik stratejiler geliştirmeleri istenir. Öğrenciler, bu stratejileri geliştirirken somut ya da sanal manipülatifler, tablo, sayı doğrusu vb. farklı temsillerden yararlanmaları için teşvik edilir ( MAB3 , MAB5 ). Öğrencilerin strateji geliştirmelerini desteklemek ve geliştirdikleri stratejileri kullanmalarını sağlamak için problem çözme sürecinde iş birliği içerisinde grup çalışmaları yapmaları sağlanabilir ( SDB2.2 ). Gruplar öğrencilerin akademik başarıları ve sosyal dinamikleri dikkate alınarak akran öğrenmelerini destekleyecek şekilde oluşturulur ( SDB2.2 ). Gruplar, belirledikleri stratejileri kullanarak problemleri çözmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( SDB3.2 ). Problem çözümlerinin ardından öğrenciler çözüm yollarını kontrol etmeleri için teşvik edilir. Grup üyelerinden problem çözümlerindeki işlemlere yönelik tahmin ve stratejilerini gözden geçirmeleri, kısa yollara ilişkin çıkarım ve değerlendirmeler yapmaları beklenir ( KB3.2 ). Örneğin öğrenciler dört işlem yaparken kısa yoldan işlem yapma becerisini kullanabilir. Ayrıca problemi çözerken ne gibi stratejiler geliştirdikleri ve bu stratejilerin problemin çözümünü nasıl kolaylaştırdığı konusunda tartışma ortamı oluşturulur ( SDB1.1 , SDB2.1 ). Daha sonra çözüm stratejileri ile ilgili öğrencilerin değerlendirmeler yapmaları sağlanır ( KB3.2 ). Öğrencilerden çözüm sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir ( KB3.2 , E3.1 ). Bu değerlendirmelerde öğrencilerin farklı stratejiler kullanabilecekleri problem kurma çalışmaları yapmaları sağlanabilir ( E2.2 ). Öğrencilerin doğal sayılarla dört işlem becerilerini değerlendirmek amacıyla süreçte ve öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir. Performans görevi olarak öğrencilere gerçek yaşam durumlarında karşılaşabilecekleri problemler verilerek çözüme yönelik farklı stratejiler geliştirmeleri, geliştirdikleri problem çözümleri ile ilgili sunum hazırlamaları ve arkadaşlarına sunmaları istenebilir. Sunum hazırlama noktasında dijital araçlardan faydalanmaları desteklenebilir ( OB2 ). Bu görev, süreç bileşenleri dikkate alınarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Süreç, öğrencilerin problem çözme becerilerine ilişkin güçlü ve zayıf yönlerini tanımaları amacıyla öz değerlendirme formu ile değerlendirilebilir.",
+    "MBU.MU.1.1.3.",
+    "Öğrencilere mutfak alışverişi veya yemek tarifi gibi günlük durumlarda kesirlerin kullanımına yönelik örnekler sunulur. Öğrencilerden verilen örnekleri inceleyerek bu örneklerde kesirlerin ve ölçme birimlerinin kullanımını belirlemeleri istenir. Ardından hazırlamak istedikleri yemekte kullanacakları malzemeler veya mutfak ihtiyaçları için yapacakları alışverişle ilgili bir liste oluşturmalarını içeren bir performans görevi verilebilir. İhtiyaçlar konusu sosyal bilgiler dersiyle ilişkilendirilebilir. Öğrencilerden hazırladıkları listeyi sınıf arkadaşlarına sunmaları ve performans görevi sürecinde sorumlu ve planlı davranmaları beklenir ( SDB2.1 , D3.2 , E2.2 ). Daha sonra öğrencilerden hazırladıkları listeleri incelemeleri ve malzeme miktarlarını kütle ve sıvı ölçü birimleriyle belirttikten sonra, bu miktarları farklı kesir temsillerine dönüştürerek ifade etmeleri istenir. Ardından kesirleri kesir modellerini kullanarak (örneğin, sayı doğrusu, kare veya dikdörtgen alan modeli, kesir takımları) temsil etmeleri ve temsilleri ilişkilendirmeleri istenir ( MAB3 ). Bu temsiller üzerinden sınıf tartışması yapılarak öğrencilerden kesir ve ölçme birimlerinin günlük eylemlerle ilişkisini nezaketli bir şekilde açıklamaları sağlanır ( SDB2.1 , D14.1 , E2.2 , E3.1 ). Performans görevleri süreç bileşenleri dikkate alınarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.1.1.4.",
+    "Öğrencilerden günlük hayatta kullanılan mobilya, aksesuar vb. araç gerecin (buzdolabı, çamaşır makinesi, masa, sıra, ilaç kutusu, bardak vb.) yüzlerini incelemeleri istenir. “İncelediğiniz eşyaların yüzlerini çokgenlerle karşılaştırdığınızda ne gibi benzerlikler ve farklılıklar gözlemliyorsunuz?” gibi sorular sorularak tartışma ortamı oluşturulur ( SDB2.1 ). Ardından inceledikleri mobilya, aksesuar vb. araç gerecin yüzlerinin benzediği çokgenleri belirleyerek kareli kâğıt ya da noktalı kâğıt üzerine bağlamında kopmadan çizerek farklı temsillere dönüştürmeleri sağlanır. Ayrıca dinamik matematik yazılımlarından da yararlanılabilir ( OB2 , MAB5 ). Bu süreçte üçgen, dörtgen, kare, dikdörtgen, beşgen, altıgen ve sekizgen ile sınırlı kalınır. Öğrencilerden belirledikleri mobilya, aksesuar ve araç gereçlerin yüzlerinin hangi çokgenlere benzediğini, özellik ilişkisinin nasıl kurulduğunu, bunun sağladığı avantajları da içerecek şekilde açıklamaları istenir ( E3.1 ). Öğrencilerin öğrenme durumları açık uçlu, kısa cevaplı sorular ve doğru yanlış sorularından oluşan çalışma kâğıtları kullanılarak değerlendirilebilir.",
+    "MBU.MU.1.1.5.",
+    "Öğrencilerin geometrik cisimlerle ilgili deneyimlerini gözden geçirmeleri için bazı eşyaların görselleri sunularak hangi geometrik cisimlere benzediklerini gerekçelendirerek tartışmaları sağlanır ( SDB2.1 , KB3.2 , E3.5 ). Öğrencilere geometrik cisimler kullanarak özgün tasarım çalışmaları (mobilya, aksesuar, araç gereç vb.) ortaya koyabilmelerine yönelik performans görevleri verilir ( D7.3 , E3.3 ). Performans görevini grup hâlinde yapmaları istenebilir ( SDB2.1 , SDB2.2 ). Öğrencilerden tasarımlarında atık malzemelerden yararlanmaları istenerek atık azaltmaya katkıda bulunmaları sağlanabilir ( D5.2 , D17.3 , OB8 ). Öğrencilerin tasarımlarını okulda ya da sınıf ortamında sergilemeleri sağlanır. Tasarımlarında hangi geometrik cisimlerden yararlandıkları hakkında tartışmaları ve tartışma sonucunda çıkarım yapmaları beklenir ( E3.1 , E3.10 ). Örneğin, evlerin çatılarının üçgen prizma şeklinde olması, yağmur sularının daha kolay akmasını sağlar vb. çıkarımlara ulaşmaları sağlanabilir. Daha sonra bu çıkarımlarını farklı örnekler üzerinden değerlendirmelerine fırsat verilir. Bu aşamada öğrencilerden farklı geometrik cisimlerin işlevsel özelliklerini karşılaştırması ve tasarım süreçlerini açıklaması beklenir. Öğrencilerin ulaştıkları çıkarımları ve performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrenme durumları açık uçlu sorular, vb. kullanılarak değerlendirilebilir."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1454"
+}

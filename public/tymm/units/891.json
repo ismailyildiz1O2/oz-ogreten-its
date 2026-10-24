@@ -1,0 +1,34 @@
+{
+  "unitId": 891,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Görsel Sanatlar Dersi (Maarif Modeli)",
+  "title": "4. TEMA: ÇİZİM VE GÖRSEL İFADE",
+  "hours": "5",
+  "description": "Öğrencilerin ışık ve gölgenin nesneler üzerindeki etkisini fark etmeleri; açık, orta ve koyu değerleri ayırt etmeleri ve temel geometrik formlarla hacim etkisi sağlayan desen oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.4.4.1",
+      "title": "Açık, orta ve koyu değerlerle desen yapabilme",
+      "processComponents": [
+        "a) Temel geometrik formlardan oluşan kompozisyon tasarlar.",
+        "b) Açık, orta ve koyu değerleri kullanarak desen oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "hacim, kademeli ton geçişi, tonlama",
+  "support": [
+    "Öğrencilerden lambayla nesnelerin üzerine ışık tutarak açık ve koyu alanları fark etmeleri, temel geometrik formlardan oluşan bir düzenlemeyi veya tek bir geometrik formu tonlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden siyah zemin üzerine beyaz kalem, tozsuz beyaz tebeşir veya beyaz pastel boya ile yalnızca ışıklı alanlara odaklanarak çizim yapmaları; giriş düzeyinde renkli natürmort resmini, siyah beyaz veya tek bir ton kullanarak ifade etmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları kontrol listeleri ve öz değerlendirme formları kullanılarak değerlendirilebilir. Sınıf içi performans görevi olarak öğrencilerden temel geometrik formlardan oluşan bir kompozisyon oluşturmaları istenir. Desenlerinde siyah ve beyaz yağlı pastel boyalarla ton geçişlerini kademeli hâle getirmeleri ve açık, orta, koyu tonları kullanarak hacim etkisi oluşturmaları beklenir."
+  ],
+  "teachingApplications": [
+    "GS.4.4.1 Öğrencilerden açık, orta ve koyu değerlerle desen yapabilmeleri beklenir. Ton kavramı ile açık, orta ve koyu değerlerin resimlerde hacim oluşturmadaki rolü örneklerle açıklanır. Ton çubuğu görselleri, dijital veya basılı ortamda gösterilir. Kademeli geçişler, ton dağılımı ve yumuşak geçişlerin önemi örneklerle açıklanır. Öğrencilere küp, küre, üçgen prizma gibi temel geometrik formlardan oluşan modeller sunulur. Bu formlarla kompozisyon tasarlamaları için (a) bu nesnelerin ışık altındaki görünümünü gözlemlemeleri istenir (OB1, SAB1.2, KB2.2). Sınıftaki nesneleri inceleyerek açık ve koyu alanları belirlemeleri ve gözlemleri üzerine kısa bir fikir alışverişi yapmaları sağlanır (SDB2.1). Öğrencilere ışığın geliş yönünü dikkate alarak tonal dağılımı planlamaları ve desenlerini tasarlamaları için rehberlik edilir (SDB1.2). Öğrencilerden açık, orta ve koyu değerleri kullanarak desen oluşturmaları (b) istenir (E3.3). Siyah ve beyaz yağlı pasteller, temel teknik ve malzeme olarak tanıtılır. Koyu tonların siyah pastel, açık tonların beyaz pastel, orta tonların ise bu iki tonun üst üste sürülerek kaynaştırılmasıyla elde edilebileceğini deneyimlemeleri sağlanır (E3.7). Bu malzemelerle ton geçişlerini yumuşatmak ve kademeli hâle getirmek için kullanılacak yardımcı malzemeler uygulamalı olarak gösterilir. Işığın geliş yönüne dikkat çekilerek tonlamaları doğru yapmaları sağlanır (KB2.13). Öğrencilere rehberlik edilerek öğrenme eksikleri hakkında geri bildirim verilir. Tonlama sırasında sabırlı olmaları ve ayrıntılara dikkat ederek sebat etmeleri gerektiği vurgulanır (D12.3, E1.3). Öğrencilerin başarılı oldukları ve geliştirmeleri gereken yönlerini fark etmeleri sağlanır (D10.1, SDB1.3, SDB3.3). Her öğrencinin kendi kompozisyonundaki ton uygulamalarını, açık fikirlilikle değerlendirmeleri beklenir (E3.5, SDB1.2). Tamamlanan ürünler dijital veya fiziksel ortamda sergilenir. Sanatsal ürünler performans görevi olarak tanımlanır ve kontrol listesi ile öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/891"
+}

@@ -1,0 +1,100 @@
+{
+  "unitId": 98032506,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "6. ÜNİTE: ENERJİ DÖNÜŞÜMLERİ VE ÇEVRE BİLİMİ",
+  "hours": "24",
+  "description": "Bu ünitede öğrencilerin; fotosentez, solunum, enerji dönüşümlerini kavramaları, besin zinciri ve bu zinciri oluşturan elemanları açıklayabilmeleri ve elemanlar arasındaki ilişkiyi keşfetmeleri, çevre bilimle ilgili yaşam içerisindeki madde döngülerini fark etmeleri, çevre sorunlarını bilmeleri ve çevre sorunlarına karşı çözüm önerileri sunabilmeleri bunlara ilişkin bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.8.6.1.1",
+      "title": "Besin zincirindeki üretici, tüketici, ayrıştırıcılara örnekler verir",
+      "processComponents": [
+        "Parazit besin zincirlerine değinilmez.",
+        "Ekoloji piramitlerinde enerji aktarımı, vücut büyüklüğü, birey sayısı ve biyolojik birikim vurgulanır."
+      ]
+    },
+    {
+      "code": "F.8.6.2.1",
+      "title": "Bitkilerde besin üretiminde fotosentezin önemini fark eder",
+      "processComponents": [
+        "Fotosentezde karbondioksit ve su kullanıldığı, besin ve oksijen üretildiği vurgulanır. Kimyasal denklemine girilmez.",
+        "Fotosentezin yapay ışıkta da meydana gelebileceği vurgulanır.",
+        "Fotosentez yapan canlıların üretici olduğu ifade edilir."
+      ]
+    },
+    {
+      "code": "F.8.6.2.2",
+      "title": "Fotosentez hızını etkileyen faktörler ile ilgili çıkarımlarda bulunur",
+      "processComponents": [
+        "Işık rengi, karbondioksit miktarı, su miktarı, ışık şiddeti ve sıcaklık vurgulanır."
+      ]
+    },
+    {
+      "code": "F.8.6.2.3",
+      "title": "Canlılarda solunumun önemini belirtir",
+      "processComponents": [
+        "Solunumun kimyasal denklemine girilmez.",
+        "Bitkilerin gece ve gündüz solunum yaptığına değinilir.",
+        "Oksijenli ve oksijensiz solunum evrelerine girilmeden verilir fakat açığa çıkan enerji miktarları sayısal olarak belirtilmez.",
+        "ATP’nin yapısına girilmeden isminden bahsedilir."
+      ]
+    },
+    {
+      "code": "F.8.6.3.1",
+      "title": "Madde döngülerini şema üzerinde göstererek açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.6.3.2",
+      "title": "Madde döngülerinin yaşam açısından önemini sorgular",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.6.3.3",
+      "title": "Küresel iklim değişikliklerinin nedenlerini ve olası sonuçlarını tartışır",
+      "processComponents": [
+        "Sera etkisi açıklanır.",
+        "Küresel iklim değişikliği bağlamında çevre sorunlarının Dünya'nın geleceğine ve insan yaşamına nasıl bir etkisi olabileceği sorgulanır.",
+        "Çevre sorunlarının dünyanın geleceğine nasıl bir etkisinin olabileceğine yönelik öngörüleri sanatsal yollarla ifade etmeleri istenir.",
+        "Öğrencilerin ekolojik ayak izini hesaplaması (uzantısı edu, org ve mil gibi güvenli sitelerden yararlanılabilinir) sağlanır.",
+        "Dünya ülkelerinin küresel iklim değişikliğini önlemek için aldıkları önlemlere (ör. Kyoto Protokolü) değinilir."
+      ]
+    },
+    {
+      "code": "F.8.6.4.1",
+      "title": "Kaynakların kullanımında tasarruflu davranmaya özen gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.6.4.2",
+      "title": "Kaynakların tasarruflu kullanımına yönelik proje tasarlar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.6.4.3",
+      "title": "Geri dönüşüm için katı atıkların ayrıştırılmasının önemini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.6.4.4",
+      "title": "Geri dönüşümün ülke ekonomisine katkısına ilişkin araştırma verilerini kullanarak çözüm önerileri sunar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.6.4.5",
+      "title": "Kaynakların tasarruflu kullanılmaması durumunda gelecekte karşılaşılabilecek problemleri belirterek çözüm önerileri sunar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Canlılar ve Yaşam",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

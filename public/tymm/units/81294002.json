@@ -1,0 +1,51 @@
+{
+  "unitId": 81294002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "2. ÜNİTE: I. DÜZEY 2. TEMA: SİSTEMLER I",
+  "hours": "16",
+  "description": "Bu tema, öğrencilere doğadaki sistemlerin karmaşıklığını anlatmayı, fen bilimlerinde sistemlerin önemini kavratmayı amaçlar. Sistemlerin yapıları, özellikleri ve birbirleriyle etkileşimleri incelenir ve nasıl çalıştıklarını anlamak hedeflenir. Aynı zamanda sistemler arasındaki ilişkiler ve etkileşimler değerlendirilerek bir sistemin diğer sistemlere olan etkilerini anlamaya yönelik bir bakış açısı sunulur. “Sistemler I” temasında öğrencilerden, sistemi temel bileşenlerine göre çözümlemeleri, sistem türlerini kriterlerine göre sınıflandırmaları, zeki sistem uygulamaları hakkında bilgi toplamaları ve bir sistem örneğini aşamalandırarak tasarlamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.1.2.1.1",
+      "title": "Sistemi temel bileşenlerine göre çözümler",
+      "processComponents": [
+        "Sistem ve sistemin temel bileşenlerine değinilir. Sistemlerin rolü ve önemi, “Problemleri Çözme ve İyileştirme, Karmaşık Süreçlerin Yönetimi, Verimlilik ve Etkinlik Artırma, Geleceği Tahmin Etme ve Planlama” süreçleri açıklanır.",
+        "Verilen çeşitli sistem örneklerindeki bileşenler ve bu örneklerdeki bileşenler arasındaki ilişkiler ele alınır.",
+        "Fen bilimlerindeki bir sistemin bileşenleri ve unsurları tespit edilerek sistemin bileşenleri ve unsurları arasındaki ilişkileri belirlemeleri sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.2.2.1",
+      "title": "Sistem türlerini kriterlerine göre sınıflandırır",
+      "processComponents": [
+        "Doğal ve yapay sistemler tanımlanır. Doğal sistemlerden esinlenilerek geliştirilen yapay sistemlere örnek verilir.",
+        "Sistem türlerinin niteliklerini belirlemek için kriterler oluşturulur ve bu kriterler, sistemleri ayrıştırmak ve gruplamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.1.2.3.1",
+      "title": "Zeki sistem uygulamaları hakkında topladığı bilgiler ile ilgili rapor hazırlar",
+      "processComponents": [
+        "Geleneksel sistemler dikkate alınarak zeki sistemlerin temel ilkelerinin tanımlanması sağlanır. Ayrıca zeki sistemler ile fen bilimleri arasındaki etkileşim ele alınır.",
+        "Zeki sistem uygulamalarıyla ilgili bilgi edinmeleri ve bunları rapor hâline getirmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.2.3.2",
+      "title": "Bir sistem örneğini aşamalandırarak tasarlar",
+      "processComponents": [
+        "Çevredeki bir problemi çözmek veya iyileştirmek amacıyla bir sistem örneği tasarlanır. Sistem tasarımındaki eksikliklerin belirlenmesi ve sistemin güncellenmesi için gerekli düzeltmelerin yapılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

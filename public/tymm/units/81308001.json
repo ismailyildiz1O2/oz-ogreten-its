@@ -1,0 +1,82 @@
+{
+  "unitId": 81308001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Düşünce Tarihi Dersi",
+  "title": "1. ÜNİTE: İSLAM ÖNCESİ TÜRK DÜŞÜNCESİ",
+  "hours": "21",
+  "description": "Bu ünitede İslam öncesi Türk düşüncesinin dinî, felsefi, bilimsel ve siyasi yönleri verilir.",
+  "outcomes": [
+    {
+      "code": "TDT.1.1.1",
+      "title": "İslam öncesi Türklerdeki âlem tasavvurunu hayat anlayışına etkisi bakımından yorumlar",
+      "processComponents": [
+        "Âlem tasavvuru kavramı üzerinde durularak bu kavramın neleri kapsadığı belirtilir.",
+        "İslam öncesi Türk inancındaki kurgan kültürü ve ahiret anlayışına değinilir.",
+        "Âlem tasavvurunun Türklerin hayat anlayışına etkisi üzerinde durulur. Destanlardan bu etkiyi yansıtan örnekler verilir.",
+        "Bu dönemdeki âlem tasavvurunun Türk dinî düşüncesindeki yerinin değişim ve süreklilik bağlamında değerlendirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "TDT.1.1.2",
+      "title": "İslam öncesi Türklerdeki Gök Tanrı ve yer-su inancı ile atalar kültünü, Türklerin dinî düşüncesindeki yeri bakımından değerlendirir",
+      "processComponents": [
+        "İslam öncesi Türklerdeki Gök Tanrı, yer-su inancı ve atalar kültü hakkında bilgi verilir.",
+        "İslam öncesindeki tek tanrı inancı ile İslamiyet'teki tek tanrı inancının karşılaştırılması sağlanır.",
+        "Gök Tanrı, yer-su inancı ve atalar kültünün İslam öncesi Türk inanç sistemindeki yeri vurgulanır."
+      ]
+    },
+    {
+      "code": "TDT.1.2.1",
+      "title": "İslam öncesi Türklerdeki felsefi düşüncenin özelliğini analiz eder",
+      "processComponents": [
+        "Felsefi düşüncenin İslam öncesi Türk düşüncesindeki yeri hakkında bilgi verilir.",
+        "İslam öncesi Türklerin felsefi düşüncesine kaynaklık eden unsurların tartışılması sağlanır."
+      ]
+    },
+    {
+      "code": "TDT.1.3.1",
+      "title": "İslam öncesi Türk düşüncesini bilimsel düşünceye katkısı bakımından değerlendirir",
+      "processComponents": [
+        "İslam öncesi Türklerdeki bilimsel düşüncenin gelişim sürecine değinilir.",
+        "İslam öncesi Türklerde bilimin uygulama alanları hakkında bilgi verilir.",
+        "İslam öncesi Türklerin bilimsel düşünceye katkısı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TDT.1.4.1",
+      "title": "İslam öncesi Türklerdeki siyasi düşüncenin kaynağını oluşturan unsurları analiz eder",
+      "processComponents": [
+        "İslam öncesi Türklerdeki siyasi düşünce hakkında bilgi verilir.",
+        "İslam öncesi Türklerdeki siyasi düşüncenin dayandığı temel kavramlar (kut anlayışı, cihan hâkimiyeti anlayışı, boylar federasyonu, bağımsızlık, konargöçer yaşam ve Türk töresi) üzerinde durulur.",
+        "Orhun Kitabeleri'nin İslam öncesi Türk siyasi düşüncesindeki önemi belirtilir.",
+        "Kızılelma ülküsünün Türk siyasi düşünce geleneğindeki önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "TDT.1.4.2",
+      "title": "İslam öncesi Türklerdeki bağımsızlık ve adalet düşüncesinin siyaset anlayışına etkisini değerlendirir",
+      "processComponents": [
+        "Bağımsızlık ve adalet kavramları üzerinde durulur.",
+        "Kitabelerden seçilen, bağımsızlık ve adalet kavramlarını içeren örneklere değinilir."
+      ]
+    },
+    {
+      "code": "TDT.1.4.3",
+      "title": "İslam öncesi Türklerdeki devlet düşüncesini yapılanma şekline göre analiz eder",
+      "processComponents": [
+        "İslam öncesi Türklerdeki devlet (il) anlayışı hakkında bilgi verilir. Devlet ve toplum ilişkisine değinilir.",
+        "Boylar birliği, devlet başkanı, kut anlayışı ve meclisin devlet yapılanmasındaki yeri belirtilir.",
+        "Meclis ve devlet başkanının devlet yapısındaki rolünün günümüzle benzer olan yönleri vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316848207-T%C3%BCrk%20D%C3%BC%C5%9F%C3%BCnce%20Tarihi%20Dersi%20%C3%96%C4%9Fretim%20Program%C4%B1%2006.11.2023.pdf"
+}

@@ -1,0 +1,89 @@
+{
+  "unitId": 81367006,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Uluslararası İlişkiler Dersi",
+  "title": "6. ÜNİTE: ULUSLARARASI SORUNLAR",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ULI.6.1",
+      "title": "Silahlanma ve silahların denetimi sorununun dış politikadaki etkisini irdeler",
+      "processComponents": [
+        "Silahlanma için yapılan harcamaların ve silahların tahrip gücünün artmasının uluslararası ilişkilerdeki olumsuz etkileri açıklanır.",
+        "Silahsızlanmanın dünya barışı açısından önemi açıklanır.",
+        "Günümüzde silahsızlanma girişimlerinin hangi konuları kapsadığı açıklanır.",
+        "II. Dünya Savaşı'nda ABD'nin Japonya'ya karşı atom bombası kullanmasının sonuçları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ULI.6.2",
+      "title": "Terörizmin amacını açıklar",
+      "processComponents": [
+        "Anarşi ile terör arasındaki farklar vurgulanır.",
+        "Terörizmin, propaganda amacıyla iletişim araçlarını kullandığına dikkat çekilir.",
+        "Terörizmin güvenlik açısından uluslararası ilişkilere yansımasına örnekler veriniz."
+      ]
+    },
+    {
+      "code": "ULI.6.3",
+      "title": "Uluslararası alanda karşılaşılan insani sorunları sebep ve sonuçları açısından değerlendirir",
+      "processComponents": [
+        "Nüfus artış hızının gelişmiş ve geri kalmış ülkelerdeki durumu açıklanır.",
+        "Göçmen ve mülteci kavramları arasındaki farklar açıklanır.",
+        "Etnik köken, dil ve din farklılıklarından kaynaklanan insani sorunlara vurgu yapılır.",
+        "Yönetim anlayışı ve sistemlerinden kaynaklanan sorunlar belirtilir.",
+        "İnsan Hakları Evrensel Bildirgesi'ndeki insani sorunlara (dil, din, ırk farlılıklarından kaynaklanan) yönelik maddeler incelenir.",
+        "Çağımızda insani sorunların çeşitlenmesinin ve hızla artmasının sebepleri nelerdir?"
+      ]
+    },
+    {
+      "code": "ULI.6.4",
+      "title": "Ekonomik sorunların uluslararası ilişkilere yansımasını açıklar",
+      "processComponents": [
+        "Enerji ve yer altı kaynaklarının paylaşımından kaynaklanan sorunlar üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ULI.6.5",
+      "title": "Çevre sorunlarının uluslararası boyutlarını açıklar",
+      "processComponents": [
+        "Çevre sorunları ve doğal afetlerin ülkeler üzerindeki olumsuz etkileri üzerinde durulur.",
+        "Yetersiz kaynakların paylaşımı nedeniyle ortaya çıkan çevre sorunlarını açıklayınız.",
+        "Ülkeler arasında yardımlaşma ve iş birliğinin artmasında doğal afetlerin rolünü örneklerle açıklayınız."
+      ]
+    },
+    {
+      "code": "ULI.6.6",
+      "title": "Dünyanın farklı coğrafyalarındaki bölgesel sorunları neden ve sonuçlarıyla değerlendirir",
+      "processComponents": [
+        "6 ve 7. kazanımlar birlikte işlenecektir.",
+        "Orta Doğu'da Irak, İsrail-Filistin, terör ve kaynak paylaşımı (petrol, su vb.) sorunları açıklanır.",
+        "Kafkasya'da etnik çatışmalar ve Azerbaycan-Ermenistan sınır anlaşmazlığı açıklanır.",
+        "Bosna-Hersek örneğinden yola çıkılarak Balkanlarda yaşanan etnik ve dinî sorunlar açıklanır.",
+        "Avrupa'da Kuzey İrlanda ve Bask sorunları açıklanır.",
+        "Afrika'da İnsani sorunlar, kaynak paylaşımı ve yönetim sistemlerinden kaynaklanan sorunlar açıklanır.",
+        "Asya'da sınır anlaşmazlıkları, etnik ve siyasi çatışmalar örneklerle açıklanır.",
+        "Kıta Amerika'sında siyasi, sosyal ve ekonomik nedenlerden kaynaklanan sorunlar açıklanır."
+      ]
+    },
+    {
+      "code": "ULI.6.7",
+      "title": "Bölgesel sorunların uluslararası ilişkilere yansımalarını değerlendirir",
+      "processComponents": [
+        "Bölgesel sorunların çözüme kavuşturulamadığı sürece uluslararası istikrar ve güvenlik için tehdit oluşturduğu açıklanır.",
+        "Bölgesel sorunların uluslararası nitelik kazanmasını örneklerle açıklayınız.",
+        "Uluslararası aktörlerin en yoğun çalıştığı bölgelerin başında niçin Orta Doğu gelmektedir?"
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163240412-Uluslararas%C4%B1%20ili%C5%9Fkiler.pdf"
+}

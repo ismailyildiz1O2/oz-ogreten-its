@@ -1,0 +1,86 @@
+{
+  "unitId": 1024,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "3. TEMA: KORODA SÖYLEYELİM",
+  "hours": "52",
+  "description": "Temada öğrencilerin İstiklal Marşı’nı uygun hız ve gürlükte söylemeye özen göstermeleri, belirli gün ve haftalarla ilgili eserleri, okul şarkıları repertuvarında bulunan eserleri ve Türk müziğinden basit eserleri söylemeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.3.3.1",
+      "title": "İstiklal Marşı'nı uygun hız ve gürlükte söyleyebilme",
+      "processComponents": [
+        "a) İstiklal Marşı'nı uygun hız ve gürlükte söylemeye hazırlanır.",
+        "b) İstiklal Marşı'nı söylerken uygun teknikleri kullanır.",
+        "c) İstiklal Marşı'nı söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "KOREP.3.3.2",
+      "title": "Belirli gün ve haftalarla ilgili eserler söyleyebilme",
+      "processComponents": [
+        "a) Belirli gün ve haftalarla ilgili eserleri söylemeye hazırlanır.",
+        "b) Belirli gün ve haftalarla ilgili eserleri söylerken uygun teknikleri kullanır.",
+        "c) Belirli gün ve haftalarla ilgili eserleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "KOREP.3.3.3",
+      "title": "Okul şarkıları repertuvarında bulunan eserleri söyleyebilme",
+      "processComponents": [
+        "a) Okul şarkıları repertuvarında bulunan eserleri söylemeye hazırlanır.",
+        "b) Okul şarkıları repertuvarında bulunan eserleri söylerken uygun teknikleri kullanır.",
+        "c) Okul şarkıları repertuvarında bulunan eserleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "KOREP.3.3.4",
+      "title": "Türk müziğinden basit eserleri söyleyebilme",
+      "processComponents": [
+        "a) Türk müziğinden basit eserleri söylemeye hazırlanır.",
+        "b) Türk müziğinden basit eserleri söylerken uygun teknikleri kullanır.",
+        "c) Türk müziğinden basit eserleri söylerken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "gürlük, hız, İstiklal Marşı, marş, repertuvar, şarkı, Türk müziği, türkü",
+  "support": [
+    "İstiklal Marşı'nı uygun hız ve gürlükte söylemeleri için marşın daha fazla tekrar edilmesi sağlanabilir. Ders repertuvarında bulunan belirli gün ve haftalarla ilgili eserler daha fazla tekrar edilebilir, daha kolay eserler seçilerek sürece akran desteği de dâhil edilebilir. Ders repertuvarında bulunan okul şarkılarıyla ilgili eserler daha fazla tekrar edilebilir, daha kolay eserler seçilerek sürece akran desteği de dâhil edilebilir."
+  ],
+  "enrichment": [
+    "İstiklal Marşı'nı ezbere bilen ve uygun hız ve gürlükte söyleyebilen öğrencilerin sınıfta bireysel olarak marşı söylemeleri sağlanabilir. Ders repertuvarı dışında belirli gün ve haftalarla ilgili farklı bir eserin sınıfta solo olarak söylenmesi sağlanabilir. Ders repertuvarı dışında okul şarkıları repertuvarından farklı bir eserin sınıfta solo olarak söylenmesi sağlanabilir. Ders repertuvarı dışında Türk müziği türlerinden farklı bir eserin sınıfta solo olarak söylenmesi sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz değerlendirme formu, kontrol listesi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilere İstiklal Marşı'nı uygun hız ve gürlükte söyleyebilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.3.3.1 İstiklal Marşı'nı uygun hız ve gürlükte söyleyebilmeye yönelik sesli ve görüntülü kayıtlar sınıfta paylaşılarak öğrencilerin konuyu merak etmeleri sağlanır ( E1.1 , TAB1 ). Özellikle Cumhurbaşkanlığı Senfoni Orkestrası, TSK Armoni Mızıkası, TRT Çok Sesli Korosu, Kültür Bakanlığı Devlet Çok Sesli Korosu gibi kurum korolarının seslendirdiği İstiklal Marşı kayıtlarının paylaşılmasına dikkat edilir. Öğrencilerin dinledikleri kayıtlarda fark ettikleri, İstiklal Marşı'nın hız ve gürlüğüne yönelik tespitlerini ve düşüncelerini ifade etmeleri sağlanır ( SDB2.1 ). İstiklal Marşı'nı söylerken hız ve gürlük basamaklarına dikkat etmeleri gerektiği, bunun marşın anlamsal bütünlüğünü sağlamak için önemli olduğu vurgulanır. Öğrencilerin İstiklal Marşı'nı söylemeye başlamadan önce bedensel esneme, nefes ve ses çalışmaları ile hazırlık yapmaları sağlanır ( D3.2 ). Marşı seslendirirken birlikte söyleme kurallarına uymak, nefes yerlerine dikkat etmek, hecelerin tonlama ve vurgusuna dikkat etmek gibi uygun söyleme tekniklerini kullanmaları gerektiği vurgulanır. Sonra öğrencilerin İstiklal Marşı'nı kulaktan öğrenme yoluyla ve/veya solfejini yaparak kavramaları ve marşı müziksel bileşenlerine uygun şekilde koro hâlinde sınıfta söylemeleri sağlanır ( D14.3 , D19.1 , SDB2.2 ). Öğrencilere İstiklal Marşı'nı uygun hız ve gürlükte söyleyebilmelerine yönelik performans görevi verilebilir. KOREP.3.3.2 Öğrencilerin belirli gün ve haftalarla ilgili eserleri söylemeye başlamadan önce doğru duruş, bedensel esneme, nefes ve ses çalışmaları yaparak hazırlanmaları sağlanır ( D3.2 ). Öğrencilere eserleri söylerken uygun söyleme tekniklerini kullanmaları (birlikte şarkı söyleme kurallarına uymak, doğru nefes almak vb.) gerektiği hatırlatılır. Millî, manevi değerleri yansıtan, öğrencilerin ses aralığına uygun eserler seçmeye dikkat edilmelidir ( D19.1 ). Eserleri günün anlam ve önemine, eserin ifade ettiği duyguya uygun olarak seslendirmenin gerekliliği vurgulanır ( OB5 ). Eserleri söylerken hız ve gürlük basamaklarına dikkat etmeleri gerektiği vurgulanır. Öğrencilerin eserleri kulaktan öğrenme yoluyla ve/veya solfejini yaparak kavramaları ve müziksel bileşenlerine dikkat ederek koro hâlinde sınıfta söylemeleri sağlanır ( D3.4 ). Öğrencilere eserleri okulda düzenlenecek belirli gün ve haftalar ile ilgili etkinliklerde koro veya solo olarak söylemeleri için yönlendirmeler yapılabilir ( D16.3 , E2.2 ). Öğrencilerin söyledikleri eserlerle ilgili duygu ve düşüncelerini ifade etmelerine yönelik etkinlikler düzenlenebilir ( SDB2.1 ). Süreç, kontrol listesi kullanılarak deüerlendirilebilir.",
+    "KOREP.3.3.3 Öğrencilerin okul şarkıları repertuvarında bulunan eserleri söylemeye başlamadan önce doğru duruş, bedensel esneme, nefes ve ses çalışmaları yaparak hazırlanmaları sağlanır ( D3.2 ). Öğrencilere eserleri söylerken uygun söyleme tekniklerini kullanmaları (birlikte şarkı söyleme kurallarına uymak, doğru nefes almak vb.) gerektiği hatırlatılır. Öğrencilerin eserleri kulaktan öğrenme yoluyla kavramaları ve müziksel bileşenlerine dikkat ederek koro hâlinde sınıfta söylemeleri sağlanır. Öğrencilerin ses aralıklarına uygun ve 2, 3, 4 zamanlı ölçülerde yazılmış eserler seçmeye özen gösterilmelidir. Eser seçimlerinde değerleri içeren sözlere yer verilebilir. Öğrencilerin eserleri okulda düzenlenecek etkinliklerde koro veya solo olarak söylemeleri için yönlendirmeler yapılabilir ( D16.3 , E1.5 , , OB5 ). Öğrencilerin söyledikleri eserlerle ilgili duygu ve düşüncelerini ifade etmelerine yönelik etkinlikler düzenlenebilir ( SDB2.1 ). Süreç, dereceli puanlama anahtarıyla değerlendirilebilir. KOREP.3.3.4 Öğrencilerin Türk müziğine ait basit eserleri söylemeye başlamadan önce doğru duruş, bedensel esneme, nefes ve ses çalışmaları yaparak hazırlanmaları sağlanır ( D3.2 ). Öğrencilere eserleri söylerken uygun söyleme tekniklerini kullanmaları (birlikte şarkı söyleme kurallarına uymak, doğru nefes almak vb.) gerektiği hatırlatılır. Öğrencilere ses aralıklarına uygun Türk halk müziği, Türk sanat müziği, dinî müzik gibi Türk müziği türlerinden eserler seçmeye dikkat edilmelidir ( D19.1 ). Öğrencilerin eserleri kulaktan öğrenme yoluyla ve/ veya solfejini yaparak kavramaları ve müziksel bileşenlerine dikkat ederek koro hâlinde sınıfta söylemeleri sağlanır ( D3.4 ). Öğrencilerin eserleri okulda düzenlenecek Türk müziği etkinliklerinde koro veya solo olarak söylemeleri için yönlendirmeler yapılabilir ( D16.3 , E2.2 ). Öğrencilerin söyledikleri Türk müziği eserleriyle ilgili duygu ve düşüncelerini ifade etmelerine yönelik etkinlikler düzenlenebilir ( SDB2.1 ). Süreç, kontrol listesi kullanılarak"
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D16.3",
+      "D19.1",
+      "D3.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.2"
+    ],
+    "okuryazarlik": [
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ],
+    "diger": [
+      "TAB1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1024"
+}

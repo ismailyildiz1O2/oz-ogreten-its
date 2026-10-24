@@ -1,0 +1,69 @@
+{
+  "unitId": 80323002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "2. ÜNİTE: İSLAM VE EKONOMİK HAYAT",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TDB.1.2.1",
+      "title": "İslam ekonomisinin temelindeki bazı ahlaki ilkeleri açıklar",
+      "processComponents": [
+        "Kazanım işlenirken kanaatkârlık, iktisat, tasarruf, îsâr gibi kavramlara da değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.2.2",
+      "title": "Helal kazancın önemini ayet ve hadislerle açıklar",
+      "processComponents": [
+        "Kazanım işlenirken helal ve haram kavramları, ekonomik hayatla ilişkilendirilerek açıklanacaktır."
+      ]
+    },
+    {
+      "code": "TDB.1.2.3",
+      "title": "İslam tarihinden infak kültürüyle ilgili örnekler verir",
+      "processComponents": [
+        "Kazanım işlenirken ayet ve hadislerden de örnekler verilecektir. Ayrıca zimem defterleri ve sadaka taşı gibi örneklere yer verilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.2.4",
+      "title": "Karz-ı haseni ayet ve hadislerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.1.2.5",
+      "title": "Kul hakkına riayet etmeye özen gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.1.2.6",
+      "title": "İslam'ın işçi ve işveren hakkına verdiği önemi kavrar",
+      "processComponents": [
+        "Kazanım işlenirken çalışanların iş sağlığı ve güvenliği bağlamında işçi ve işveren sorumluluklarına dikkat çekilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.2.7",
+      "title": "İslam'ın mülkiyet anlayışını yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.1.2.8",
+      "title": "Ekonomik hayatı tehdit eden olumsuzlukları İslam'ın bakış açısına göre değerlendirir",
+      "processComponents": [
+        "Kazanım işlenirken ihaleye fesat karıştırma, tarafların bir kısmını bilgilendirip bir kısmını kasıtlı bilgilendirmeme, içeriden dışarıya bilgi sızdırma gibi konulara da yer verilecektir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

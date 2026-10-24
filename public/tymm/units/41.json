@@ -1,0 +1,87 @@
+{
+  "unitId": 41,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "5. ÜNİTE: AHLAK FELSEFESİ",
+  "hours": "8",
+  "description": "Bu ünitede öğrencilerin ahlak felsefesinin temel kavram, konu ve problemlerini açıklayarak bu alandaki düşünce ve argümanlar üzerine felsefi muhakeme yapabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.5.1",
+      "title": "Ahlak felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme",
+      "processComponents": [
+        "a) Ahlak felsefesinin konusunu ve temel kavramlarını açıklar.",
+        "b) Ahlak felsefesinin temel problemlerini açıklar.",
+        "c) Ahlak felsefesinin temel problemlerine yönelik düşünce ve argümanları değerlendirir.",
+        "ç) Ahlak felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceler."
+      ]
+    }
+  ],
+  "keyConcepts": "ahlak, erdem, etik, iyi, kötü, özgürlük, sorumluluk, vicdan",
+  "support": [
+    "Ahlak felsefesinin konusuna ve temel kavramlarına ilişkin ayrıntılı açıklamaların ve örneklerin yer aldığı çalışma kâğıdı verilebilir.",
+    "Ahlak felsefesinin temel problemleri ile düşünce ve argümanlarını açıklayan günlük hayat örnekleri verilebilir.",
+    "Sadeleştirilmiş bir metin üzerinden ahlak felsefesinin temel problemlerine yönelik düşünce ve argümanlar gruplar hâlinde değerlendirilebilir."
+  ],
+  "enrichment": [
+    "Platon'un Devlet adlı eserinde yer alan Gyges'in Yüzüğü öyküsü incelenip \"Gyges'in yüzüğü sizde olsaydı nasıl davranırdınız?\" sorusu üzerinden insanı iyi ya da kötüye yönelten nedenlerin sorgulanması sağlanabilir.",
+    "Ahlak felsefesinin temel problemlerine yönelik \"Ahlaki eylemin temel amacı Aristoteles'e göre mutluluk, I. Kant'a göre ödevdir.\" görüşünden hareketle yapay zekâdan bir ahlaki eylem beklemenin ne derece doğru olduğu, yapay zekâyı ahlaki eyleme yöneltecek motivasyonun ne olabileceği üzerine araştırma yapılarak görüş geliştirebilir. Bu doğrultuda Turing testinde yer alan ahlaka yönelik sorulara alternatif soru örnekleri üretmeleri istenebilir. * İbn Miskeveyh'in \"ölçülülük\" erdemi merkeze alınarak günümüz tüketim toplumu alışkanlıklarını irdeleyen felsefi bir deneme yazdırılabilir.",
+    "\"Biyoetik Kurulları\" simülasyonu yapılabilir. Öğrenciler bir hastane etik kurulu gibi davranarak veya \"Otonom bir araç, bir kaza durumunda kimi korumayı öncelemelidir?\" gibi gerçek hayat senaryolarında karar verici rolü üstlenebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktısı; açık uçlu sorular, çalışma kağıdı, ve performans görevi ile değerlendirilebilir. Performans görevi: Öğrenciler ahlak felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek metin inceleme formunu doldurmaları istenebilir. Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin, argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi ve eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.5.1",
+    "Öğrencilerin ahlak felsefesinin konusu ve temel kavramlarını açıklamaları amaçlanır. Bunun için;",
+    "• Örnek olay ve durumlar verilerek yönlendirici sorular aracılığıyla öğrencilerden ahlak felsefesinin temel kavramlarının (ahlak, erdem, etik, iyi, kötü, özgürlük, sorumluluk ve vicdan) belirlemeleri ve ortaya çıkan kavramların anlamlarını kendi cümleleriyle ifade etmeleri istenir ( OB1 , KB2.4 ). Belirlenen kavramlar üzerinden öğrencilerin ahlak felsefesinin konusu hakkında çıkarım yapmaları sağlanır. Süreçte öğrencilere bu kavramlarla davranışların ilişkilendirildiği hikâye veya aforizma yazdırılabilir, canlandırma yaptırılabilir ( E3.3 , KB2.13 ). Bu aşamada öğrencilerin duygularını yansıtabilmeleri ve duygusal tepkilerinin nedenlerini ifade edebilmeleri sağlanır ( SDB1.1 ). Kavram yanılgıları ve öğrenme eksikleri belirlenerek dönüt verilir.",
+    "Öğrencilerin ahlak felsefesinin temel problemlerini (evrensel ahlak yasasının imkânı ve özgürlük) açıklamaları ve bu problemlere yönelik düşünce ve argümanları değerlendirmeleri amaçlanır. Bunun için;",
+    "• Evrensel ahlak yasasının imkânı problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada öğrencilerden farklı kültürlerde ahlaki olarak kabul edilen davranışları örnek vermeleri ve örneklerini sınıfta paylaşmaları istenir ( OB1 , OB5 ). Bu aşamada öğrencilere tasavvuf kavramı açıklanarak Mevlana, Yunus Emre ve Hacı Bektaş Veli gibi Türk düşünürlerinin ahlaki yaklaşımları örnek olarak verilebilir. Paylaşılan ve verilen örneklerden hareketle Sokratik tartışma yöntemi kullanılarak öğrencilerin ahlaki davranışların evrenselliği üzerine tartışmaları sağlanır ( E3.8 , SDB2.3 , KB2.18 ). Tartışmada öğrencilerin cesur ve girişimci olmaları desteklenerek duygu ve düşüncelerini herhangi bir etki altında kalmadan ifade etmeleri ve evrensel ahlak yasasının imkânı problemine ilişkin farkındalık kazanmaları beklenir ( E1.2 , D11.1 ). Evrensel ahlak yasasının varlığını kabul eden (Sokrates, Farabi, I. Kant ve J. S. Mill) ve kabul etmeyen (Epiküros, T. Hobbes, M. Stirner ve J. Bentham) filozofların düşünce ve argümanlarını içeren bilgi görselleri verilerek öğrencilerden bu görüşlerin benzer ve farklı yönlerini karşılaştırmalı olarak değerlendirmeleri istenir ( E3.10 , KB2.7 ). Süreçte öğrencilere anlam çözümleme tablosu hazırlatılabilir.",
+    "• Öğrencilere özgürlük ve sorumluluk temalı şiir, roman ve hikâye metinleri ile belgesel veya film kesitleri verilir; bunlardan hareketle öğrencilerin özgürlük problemini keşfetmeleri sağlanır ( E1.1 ). Bu aşamada soru–cevap öğretim tekniği kullanılabilir. Özgürlük problemiyle ilgili farklı düşünce ve argümanları içeren bilgi notları verilerek öğrencilerin iş birlikli olarak bu düşünce ve argümanları incelemeleri ve bunların tutarlılıklarını değerlendirmeleri sağlanır ( SDB2.2 , KB3.3 ). Değerlendirmede öğrencilerin birbirlerine karşı anlayışlı ve barışçıl bir tutum sergilemeleri teşvik edilir ( D15.1 ). Ahlakın vicdan boyutuna ve sosyal hayatta özellikle dijital ortamlarda gerçekleştirilen davranışlardan sorumlu olunması gerektiğine dikkat çekilir. Bu konu hakkında öğrencilerden kendi deneyimlerinden örnekler vermeleri istenir ( E3.5 ). Süreçte öğrencilerden alternatif düşünceler ortaya koymaları, empati kurmaları, farklı görüşlerin ve argümanların varlığını mantıksal zeminde kabul ederek uzlaşmaları ve vardıkları sonuçları sınıfla paylaşmaları sağlanır ( D14.3 , OB1 , KB2.10 ).",
+    "Öğrencilerin ahlak felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları incelemeleri amaçlanır. Bu doğrultuda öğrencilere bir performans görevi verilir. Bunun için;",
+    "Platon'un Devlet,",
+    "Aristoteles'in Nikomakhos'a Etik,",
+    "- Farabi'nin Mutluluğun Kazanılması,",
+    "- Yûsuf Has Hâcib'in Kutadgu Bilig,",
+    "- Kant'ın Ahlak Metafiziğinin Temellendirilmesi,",
+    "- Nurettin Topçu'nun İsyan Ahlakı adlı eserlerinden kısaltılan veya alıntılanan metinler, öğrencilerin de görüşleri alınarak dengeli bir şekilde dağıtılır.",
+    "Öğrencilere bireysel ya da iş birlikli olarak metin inceleme formu doldurtulur ve çalışmalarını paylaşmaları sağlanır ( E3.7 ). Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin ve argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi, eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir. Bu süreçte öğrenciler çeşitli fikir, argüman ve yeni bilgilere açık olur; görev ve sorumluluklarını etik ilkelere uygun bir şekilde zamanında yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D11.1",
+      "D14.3",
+      "D15.1",
+      "D16.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E3.10",
+      "E3.3",
+      "E3.5",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.18",
+      "KB2.4",
+      "KB2.7",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/41"
+}

@@ -1,0 +1,77 @@
+{
+  "unitId": 1539,
+  "grade": 0,
+  "gradeName": "II. DÜZEY BİLİM UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY IV · 3. Tema: Sanatta Bilim",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.BU.2.3.1",
+      "title": "Teknolojik gelişmelerin sanat dalları üzerindeki etkisini tartışabilme",
+      "processComponents": [
+        "a)Teknolojik gelişmelerin sanat dalları üzerindeki etkisine yönelik mantıksal temellendirme yapar.",
+        "b) Teknolojik gelişmelerin sanat dalları üzerindeki etkisine yönelik mantıksal çelişkileri tespit eder.",
+        "c) Teknolojik gelişmelerin sanat dalları üzerindeki etkisine yönelik fikirleri çürütür ya da kabul eder."
+      ]
+    },
+    {
+      "code": "MBU.BU.2.3.2",
+      "title": "Tarihî bir mimari eserin günümüze kadar ulaşabilmesinde bilimin etkisine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Tarihî bir mimari eserin günümüze kadar ulaşabilmesinde bilimin etkisine yönelik nitelikleri tanımlar.",
+        "b) Tarihî bir mimari eserin günümüze kadar ulaşabilmesinde bilimin etkisine yönelik veri toplar ve kaydeder.",
+        "c)Tarihî bir mimari eserin günümüze kadar ulaşabilmesinde bilimin etkisiyle ilgili topladığı verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.BU.2.3.3",
+      "title": "Tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili bilgiler bulur.",
+        "c) Tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili ulaştığı bilgileri doğrular.",
+        "d)Tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.BU.2.3.4",
+      "title": "Sanatta atık malzeme kullanımının çevreye etkisine ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Sanatta atık malzeme kullanımının çevreye etkisine ilişkin niteliklerini tanımlar.",
+        "b) Sanatta atık malzeme kullanımının çevreye etkisine yönelik veri toplar ve kaydeder.",
+        "c) Sanatta atık malzeme kullanımının çevreye etkisine yönelik topladığı verileri yorumlayarak değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "atık, dijital sanatlar, teknolojide sanat, sahne sanatları, yeniden kullanım",
+  "support": [
+    "Topkapı Sarayı, Zeugma Mozaik Müzesi vb. tarihî mimari eserlere sanal tur yaptırılabilir.",
+    "Tiyatro, opera vb. sahne sanatlarında kullanılan teknolojilere ilişkin bir tanıtım videosu izletilebilir.",
+    "Eserlerinde atık malzemelerden yararlanan bir sanatçıyla ilgili araştırma yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, teknolojik gelişmelerin sanat dalları üzerindeki etkisine ilişkin bir sanatçı ile röportaj yapıp arkadaşlarıyla paylaşmaları sağlanabilir.",
+    "Dijital araçların sanat eserleri oluşturmayı nasıl kolaylaştırdığını araştırarak bir posterle sunmaları istenebilir.",
+    "Ülkemizde bulunan bir mimari eseri bilimsel açıdan inceleyerek bir tanıtım posteri hazırlaması istenebilir.",
+    "Mimar Sinan'ın çalışmalarını ve bu eserlerdeki bilimsel uygulamaları araştırarak sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, kısa cevaplı testler, açık uçlu sorular, araştırma ve performans görevleri kullanılabilir. Ayrıca tema sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Öğrencilere tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilebilir. Bu görev analitik dereceli puanlama anahtarıi ile değerlendirilebilir. Öğrencilere ellerindeki atık malzemeleri kullanarak bir ürün tasarlamalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.BU.2.3.1.",
+    "Teknolojik gelişmelerin sanat dalları üzerindeki etkisi hakkında sorular sorularak öğrencilerin dikkati konuya çekilir. Teknolojik gelişmelerin sanat dalları üzerindeki etkisinin neler olduğunu ortaya koymak için tartışma yöntemlerinden vızıltı grupları, panel vb. biri kullanılabilir ( SDB2.1 , SDB2.2 , D14.1 ). Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( E3.10 , D6.1 ). Konu hakkında merak ettiklerini sormaları beklenir ( E1.1 , E3.8 ). Öğrencilerden teknolojik gelişmelerin sanat dalları üzerindeki etkileri ile ilgili görüşlerini mantıksal açıdan ifade etmeleri istenir ( OB1 , KB2.8 , KB2.19 ). Açık uçlu sorularla öğrencilerin teknolojik gelişmelerin sanat dalları üzerindeki etkileri hakkında daha fazla düşünmeleri sağlanabilir. Konuyla ilgili görüşlerini etkin bir şekilde ifade etmeleri beklenir ( SDB2.1 , KB2.13 , KB2.14 ). Görüşlerini ifade ederken empati kurmaları, arkadaşlarına karşı nezaketli davranmaları desteklenir ( E2.1 , D12.2 , D14.1 ). Teknolojik gelişmelerin sanat dalları üzerindeki etkisi hakkında kendi görüşleri ile arkadaşlarının görüşleri arasındaki mantıksal çelişkileri tespit etmeleri istenir ( KB2.17 , OB1 ). Öğrencilerin teknolojik gelişmelerin sanat dalları üzerindeki etkilerini avantaj ve dezavantaj yönünden değerlendirerek ortaya çıkan fikirleri çürütmeleri ya da kabul etmeleri sağlanır ( OB1 ). Geleneksel sanat üretimi, mekanik üretim ve dijital üretim olarak teknoloji bağlamında sanattaki dönüşüm kısaca açıklanır. Yapay zekâ, veri ve algoritma tabanlı çalışmalar, sosyal medya vb. sanatla ilişkisini fark etmeleri sağlanır. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "MBU.BU.2.3.2.",
+    "Öğrencilere tarihî eserlerden bilimden nasıl yararlanıldığına ilişkin açık uçlu sorular sorulur. Bu süreçte öğrencilerden bilimin kullanıldığı tarihî mimari eserlere örnekler verilerek öğrencilerin incelemeleri istenir ( E1.1 ). Öğrencilerden tarihî bir mimari eserin günümüze kadar ulaşabilmesinde bilimin etkisine yönelik nitelikleri tanımlamaları istenir ( OB1 , D3.3 , SDB3.3 ). Öğrencilerin tarihî bir mimari eserin günümüze kadar ulaşabilmesinde bilimin etkisine yönelik araştırma yapmaları sağlanır ( OB1 , OB5 , OB7 ). Araştırma sürecinde öğrencilerin “Okul Dışı Öğrenme Ortamları” genel ağ sayfasından da yararlanmaları desteklenebilir. Daha sonra, araştırma yoluyla topladıkları verileri raporlaştırarak kaydetmeleri istenir ( OB7 , SDB3.3 ). Öğrencilerden kaydettikleri verileri yorumlayarak değerlendirmeleri istenir ( OB7 , KB2.14 ). Hazırlanan raporlar kontrol listesi ile değerlendirilebilir. Mimaride kullanılan mühendislik biliminden ve Mimar Sinan’ın bu konudaki çalışmalarından bahsedilir. Dünyaca ünlü eseri Selimiye Camii ve diğer eserlerindeki kullanılan bilimsel yöntemlerden bahsedilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, kısa cevaplı testler, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "MBU.BU.2.3.3.",
+    "Öğrencilere tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili açık uçlu sorular sorulur. Öğrencilere tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilir ( SDB1.2 , OB1 , E3.4 ). Bu süreçte görev bilinciyle hareket ederek sorumlu ve planlı davranmaları sağlanır ( D3.3 , E2.2 , D16.3 ). Tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri istenir ( SDB3.3 , D3.2 ). Bu araçlar dijital içerikler, yazılı ve görsel kaynaklar olabilir ( OB1 , OB2 , OB5 ). Öğrenciler bilgi toplama sürecinde okul kütüphanesi, bilgisayar laboratuvarı vb. ortamları da kullanabilir. Tiyatro, opera vb. sahne sanatları hazırlanırken ses, ışık, yalıtım, akustik ile ilgili teknolojilerden yararlanıldığı bilgisine ulaşmaları sağlanır ( D3.3 , E3.4 ). Öğrencilerden tiyatro, opera vb. sahne sanatları hazırlanırken faydalanılan teknolojilerle ile ilgili ulaştıkları bilgileri arkadaşları ile tartışarak, öğretmeninden yardım alarak veya bilimsel kaynaklara başvurarak doğrulamaları istenir ( OB1 , D14.1 ). Doğruladıkları bilgileri kaydederek poster, afiş, resim, rapor vb. hazırlamaları sağlanır ( OB1 , D3.3 , E3.7 ). Öğrencilerden doğruladıkları bilgileri kullanarak hazırladıkları bir poster, afiş, rapor vb. arkadaşlarına sunmaları istenir ( SDB2.1 ). Öğrencilerin hazırladıkları poster, afiş, resim, rapor vb. analitik dereceli puanlama anahtarıi ile değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "MBU.BU.2.3.4.",
+    "Öğrencilere atık malzeme kullanımı ile ilgili açık uçlu sorular sorulur. Günlük yaşamda atık malzemelerin kullanıldığı alanların örneklendirilmesi istenebilir ( E1.5 ). Öğrencilerden araştırmacı ve sorgulayıcı bir yaklaşımla atık malzemeler kullanarak tasarlanan sanat eseri örneklerini incelemeleri istenir ( D3.3 , E3.4 , OB1 , OB4 ). Sorgulama yaparken sanatta atık malzeme kullanımını çevre ile ilişkilendirmeleri sağlanır. Öğrencilerden sanatta atık malzeme kullanımının çevreye etkisine ilişkin nitelikleri tanımlamaları istenir ( OB1 , D3.4 , SDB3.3 ). Sanatta atık malzeme kullanmanın çevre üzerindeki etkisine yönelik araştırma yaparak veri toplamaları beklenir ( E2.2 , E3.4 ). Sanatta atık malzeme kullanımının çevreye etkisine yönelik elde ettikleri verileri kaydetmeleri sağlanır ( OB7 , SDB3.3 , D3.3 ). Kaydettikleri verileri yorumlayıp değerlendirmeleri istenir ( OB7 , KB2.14 , KB2.17 ). Öğrencilerin sanatta kullanılan atık malzemelerin çevreye etkilerini sürdürülebilirlik açısından değerlendirmeleri sağlanır ( OB8 , E3.5 , D5.2 , D17.1 ). Ulaştıkları bilgileri raporlaştırmaları istenebilir. Öğrenci raporları kontrol listesi ile değerlendirilebilir. Atık malzemelerden üretilen resim, heykel vb. çalışmalara değinilir. İleri dönüşümün ne olduğuna ve çevreye etkisine değinilir ( D5.2 ). Sıfır Atık Projesi kapsamında yapılan çalışmalardan örnekler sunularak projenin kapsamı ve ülkemizdeki atık yönetimi konusundaki önemi açıklanır ( OB8 , OB9 , D19.3 ). Atıkları farklı şekillerde kullanarak doğaya bırakılmasının engellenebileceği ve bu durumun sürdürülebilir atık yönetimi adına olumlu uygulamalardan olduğunu kavramaları sağlanır ( OB8 , OB9 , D5.2 , D19.3 ). Öğrencilere atık malzemeleri kullanarak bir ürün tasarlamalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, kısa cevaplı testler, tanılayıcı dallanmış ağaç vb. kullanılabilir."
+  ],
+  "skills": [
+    "FBAB8. Bilimsel Çıkarım Yapma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1539"
+}

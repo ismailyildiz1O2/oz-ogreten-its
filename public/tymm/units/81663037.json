@@ -1,0 +1,40 @@
+{
+  "unitId": 81663037,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "37. ÜNİTE: PROGRAMLAMA DİLLERİ (PHP) - 4. ÜNİTE: PHP PROGRAMLAMA DİLİ İLE VERİ TABANI İŞLEMLERİ",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.37.1",
+      "title": "Veri tabanı bağlantısı yapar",
+      "processComponents": [
+        "MySQL dilinden bahsedilir. PHP programlama dili ile MySQL dilinin birlikte nasıl çalıştığı anlatılır. PHP programlama dilinde kullanılan MySQL dili komutları açıklanır. Veri tabanı bağlantısı örneklerle açıklanır. Hata ayıklama yolları gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.37.2",
+      "title": "Veri tabanı oluşturur",
+      "processComponents": [
+        "PHP programlama dili komutları kullanarak veri tabanı, tablolar ve alanlar oluşturulur. Öğrencilerin veri tabanı, tablo ve alanlar oluşturmaları için gerekli kod satırlarını yazmaları istenir. Daha sonra yazdıkları kod satırları uygulamalı olarak çalıştırılarak sonuçları değerlendirilir."
+      ]
+    },
+    {
+      "code": "BTY.37.3",
+      "title": "Veri tabanı üzerinde işlemler yapar",
+      "processComponents": [
+        "INSERT, UPDATE, DELETE ve SELECT komutlarının kullanımları anlatılır. Hazır bir veri tabanı üzerinde nasıl çalıştıkları sonuçlarıyla değerlendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

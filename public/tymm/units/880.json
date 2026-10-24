@@ -1,0 +1,56 @@
+{
+  "unitId": 880,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Spor Okulları - Beden Eğitimi ve Sporun Temelleri Dersi",
+  "title": "1. ÜNİTE: ÖZEL GEREKSİNİMLİ BİREYLERDE SPOR",
+  "hours": "16",
+  "description": "Bu ünitenin amacı; öğrencilerin özel gereksinimli bireylerin spora katılımı konusundaki bilgi ve farkındalıklarını artırmak, farklı özel gereksinim türleri ve bu bireylerin günlük yaşamda kullandıkları materyaller hakkında bilinç kazanmalarını sağlamaktır. Ayrıca uygulamalı etkinlikler ve canlandırma çalışmalarıyla öğrencilerin empati, uyum, esneklik becerilerini geliştirmesi; sporun bireylerin farklılıklarından bağımsız olarak toplumları bir araya getirme gücünü anlaması hedeflenmektedir.",
+  "outcomes": [
+    {
+      "code": "BEST.7.1.1",
+      "title": "Özel gereksinimli bireylerin spora katılımını ve spor faaliyetlerini özetleyebilme",
+      "processComponents": [
+        "a) Farklı özel gereksinim gruplarındaki bireylerin spora katılımı hakkında çözümleme yapar.",
+        "b) Özel gereksinimli bireylerin katıldığı spor branşlarının geçmişten günümüze gelişimi hakkında sınıflandırma yapar.",
+        "c) Sporun bireylerin özelliklerinden bağımsız olarak toplumu bir araya getirme gücünü yorumlar."
+      ]
+    }
+  ],
+  "keyConcepts": "Empati, özel gereksinimlilik, paralimpik, spor",
+  "support": [
+    "Özel gereksinimli bireylerin katıldığı spor branşlarını tanıtıcı görsel ve dijital materyaller hazırlanıp sunulabilir."
+  ],
+  "enrichment": [
+    "\"Empati\" ve \"iletişim sorunları\" gibi konularda senaryo yazılarak canlandırılması sağlanabilir. Türkiye ve dünyadaki özel gereksinimli bireyler için oluşturulan spor federasyon ve organizasyonları hakkında bilgi toplayıp sunmaları istenebilir. Özel gereksinimli sporcuların katıldığı söyleşi, panel vb. düzenlenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; performans görevi ve drama tekniği gibi araçlarla değerlendirilebilir. Performans görevi olarak öğrencilerden farklı özel gereksinim gruplarına uygun kapsayıcı afiş hazırlama, şiir ve hikâye yazma gibi çalışmalar istenebilir. Hazırlanan performans dereceli puanlama anahtarı ile yaratıcılık ve sunum kalitesi açısından değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEST.7.1.1. Yazılı, görsel veya dijital materyaller kullanılarak özel gereksinimli bireylerin günlük hayatta yararlandığı Braille Alfabesi, tekerlekli sandalye, beyaz baston (görme yetisi olmayanların kullandıkları baston) vb. materyaller öğrencilere tanıtılır ( OB1 , OB2 , OB4 ). Öğrencilere bu materyallerin ne işe yaradığı ve kullanımı hakkında sorular sorulur. Öğretmen tarafından özel gereksinim nedenleri ve türleri açıklanır. Özel gereksinimli bireylerin spor branşlarının geçmişten günümüze kadar gelişimleri ve öğretim araçları kronolojik olarak öğrencilere açıklanır. Böylece öğrencilerin farklı özel gereksinim türüne sahip bireylerin spora katılımı hakkında çözümleme yapması sağlanır. Öğretmen tarafından özel gereksinimli bireylerin katılım sağladığı Paralimpik Oyunları, Özel Olimpiyatlar, Ampute Futbol Dünya Kupası gibi spor organizasyonları hakkında öğrencilere yazılı, görsel veya dijital materyaller kullanılarak açıklama yapılır ( OB1 , OB2 , OB4 ). Öğrencinin verilen bilgiler doğrultusunda özel gereksinimli bireylerin yaptıkları spor branşlarını sınıflandırması sağlanır. Dünya ve Türkiye tarihinde farklı spor branşlarında iz bırakmış özel gereksinimli sporcuların hayatı ve spor başarıları öğrencilere açıklanır. Farklı türdeki engelli spor branşlarında (goalball, oturarak voleybol, tekerlekli sandalye basketbolu, paralimpik boccia, paralimpik masa tenisi, sessiz futbol vb.) uygulamalı etkinlikler yapılır. Bu etkinlikler vasıtasıyla sporun bireylerin özelliklerinden bağımsız olarak toplumu bir araya getirme gücü yorumlanır. Etkinlikler özel gereksinim gruplarının öğrenciler tarafından içselleştirilmesi amacıyla drama tekniklerinden yararlanarak canlandırılır ( D5.1 ). Canlandırılan özel gereksinim türü belli aralıklarla değiştirilerek farklı özel gereksinim türlerinin de canlandırılması istenir ( SDB3.1 , SDB3.2 ). Böylece öğrencilerin empati, yardımseverlik ve uyum düzeylerinin artırılması hedeflenir ( D9.1 , D15.1 , D20 , E2.1 ). Öğrencilerden farklı özel gereksinim gruplarına uygun kapsayıcı afiş, şiir, hikâye yazma gibi performans çalışmaları tasarlamaları istenir ( E2.2 , E3.3 ). Hazırlanan çalışmalar performans dereceli puanlama anahtarı ile yaratıcılık ve sunum kalitesi açısından değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D15.1",
+      "D20",
+      "D5.1",
+      "D9.1"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB3.1",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/880"
+}

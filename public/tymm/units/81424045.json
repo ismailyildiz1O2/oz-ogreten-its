@@ -1,0 +1,44 @@
+{
+  "unitId": 81424045,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "45. ÜNİTE: GİTAR - TEMEL RİTİMLER",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.7.1",
+      "title": "Folk ritim kalıbını kullanarak türkü ve şarkılara eşlik eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.7.2",
+      "title": "Bolero ritim kalıbını kullanarak şarkı ve türkülere eşlik eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.7.3",
+      "title": "Bossa Nova (bosuh novea) ritim kalıbını kullanarak türkü ve şarkılara eşlik eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.7.4",
+      "title": "Swing (sving) ritmiyle türkü ve şarkılara eşlik eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.7.5",
+      "title": "Reggy (rehgay) ritmiyle türkü ve şarkılara eşlik eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

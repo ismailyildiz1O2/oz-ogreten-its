@@ -1,0 +1,79 @@
+{
+  "unitId": 81783004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "4. ÜNİTE: TOPLUMDA ADABIMUAŞERET",
+  "hours": "15",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.4.1",
+      "title": "Ortak kullanım alanlarında adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Kütüphane, ibadethane, hastane, müze, alışveriş merkezi, pazar yeri, park, restoran, kafe, kantin, toplu taşıma, trafik vb. ortamlarda ve seyahat esnasında uyulması gereken görgü ve nezaket kurallarına örnekler verilir.",
+        "Salon programlarında (konferans, anma ve kutlama, tiyatro, sinema, konser vb.) adabımuaşerete uymanın önemi üzerinde durulur.",
+        "Okul ortamında ve paydaşların (öğretmen, öğrenci, kantin çalışanı, yardımcı personel, veli vb.) birbirleri ile ilişkilerinde adabımuaşerete uygun davranmanın önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "ADM.4.2",
+      "title": "Komşuluk ve misafirlik ilişkilerinde adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Köy, mahalle, site ve apartman komşuluğunda adabımuaşeretin önemi vurgulanır.",
+        "Ziyaretlerde (düğün, cenaze, hasta vb.); misafirlerin karşılanması, ağırlanması ve uğurlanmasında dikkat edilecek hususlara değinilir."
+      ]
+    },
+    {
+      "code": "ADM.4.3",
+      "title": "Yemekte adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Yemekten önce, yemek esnasında ve yemek sonrasında adabımuaşerete uygun davranışlar örneklendirilir."
+      ]
+    },
+    {
+      "code": "ADM.4.4",
+      "title": "İstişarede adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Fikir alışverişi, tartışma ve uzlaşmada adabımuaşeretin önemine değinilir."
+      ]
+    },
+    {
+      "code": "ADM.4.5",
+      "title": "Alışveriş ve borçlanmada adabımuaşeretin önemini örneklerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ADM.4.6",
+      "title": "Oyun ve spor etkinliklerinde adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Fair play (dürüst oyun) kavramı üzerinde durulur.",
+        "Oyun ve spor etkinliklerinde bireysel özellik ve gelişimsel farklılıklara saygı gösterilmesinin önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "ADM.4.7",
+      "title": "Eğlencelerde adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Kutlama, asker uğurlama, düğün, şenlik, müsabaka vb. etkinliklerde dikkat edilmesi gereken davranışlar üzerinde durulur.",
+        "Eğlencelerde ölçülü olmanın (savurganlıktan kaçınma, gürültü yapmama, trafiği engellememe vb.) önemine değinilir."
+      ]
+    },
+    {
+      "code": "ADM.4.8",
+      "title": "Bayramlar ve anma günlerinde adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Dinî bayramlarla ilgili örf ve adetlerin (kabir, eş dost ve akraba ziyareti; izzet ve ikram; çocukları sevindirme; hediyeleşme vb.) önemi vurgulanır.",
+        "Millî bayramlar ve anma günlerinde birlik ve beraberliğin önemi vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

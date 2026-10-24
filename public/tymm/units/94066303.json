@@ -1,0 +1,244 @@
+{
+  "unitId": 94066303,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Türkçe Dersi",
+  "title": "3. ÖĞRENME ALANI: OKUMA",
+  "hours": "85",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.4.3.1",
+      "title": "Noktalama işaretlerine dikkat ederek sesli ve sessiz okur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.2",
+      "title": "Vurgu, tonlama ve telaffuza dikkat ederek okur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.3",
+      "title": "Şiir okur",
+      "processComponents": [
+        "Öğrencilere kısa şiir ve İstiklâl Marşı’nın ilk on kıtasını okuma ve ezberleme çalışmaları -zorlamamak kaydıyla- yaptırılır."
+      ]
+    },
+    {
+      "code": "T.4.3.4",
+      "title": "Metinleri türün özelliklerine uygun biçimde okur",
+      "processComponents": [
+        "Hikâye edici ve bilgilendirici metinler ile şiir okutulur."
+      ]
+    },
+    {
+      "code": "T.4.3.5",
+      "title": "Farklı yazı karakterleri ile yazılmış yazıları okur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.6",
+      "title": "Okuma stratejilerini uygular",
+      "processComponents": [
+        "Öğrencilerin sesli, sessiz, tahmin ederek ve soru sorarak okuma yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.7",
+      "title": "Kelimelerin zıt anlamlılarını bulur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.8",
+      "title": "Kelimelerin eş anlamlılarını bulur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.9",
+      "title": "Eş sesli kelimelerin anlamlarını ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.10",
+      "title": "Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.11",
+      "title": "Deyim ve atasözlerinin metnin anlamına katkısını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.12",
+      "title": "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder",
+      "processComponents": [
+        "Öğrencilerin tahmin ettikleri kelime ve kelime gruplarının anlamlarını sözlüklerden kontrol etmeleri sağlanır.",
+        "Öğrencilerin yeni öğrendikleri kelime ve kelime gruplarından sözlük oluşturmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.13",
+      "title": "Görsellerle ilgili soruları cevaplar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.14",
+      "title": "Görsellerden ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.15",
+      "title": "Okuduklarını ana hatlarıyla anlatır",
+      "processComponents": [
+        "Olayların oluş sırasına göre anlatılmasına dikkat edilir."
+      ]
+    },
+    {
+      "code": "T.4.3.16",
+      "title": "Okuduğu metnin konusunu belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.17",
+      "title": "Metnin ana fikri/ana duygusunu belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.18",
+      "title": "Okuduğu metinle ilgili soruları cevaplar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.19",
+      "title": "Metinle ilgili sorular sorar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.20",
+      "title": "Okuduğu metinlerdeki hikâye unsurlarını belirler",
+      "processComponents": [
+        "Metnin konusu, olay örgüsü, mekân, zaman şahıs ve varlık kadrosu unsurlarına değinilir."
+      ]
+    },
+    {
+      "code": "T.4.3.21",
+      "title": "Okuduğu metnin içeriğine uygun başlık belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.22",
+      "title": "Şekil, sembol ve işaretlerin anlamlarını kavrar",
+      "processComponents": [
+        "Haritalar, medya işaretleri ve sembolleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.4.3.23",
+      "title": "Metin türlerini ayırt eder",
+      "processComponents": [
+        "Hikâye edici, bilgilendirici metinler ve şiir türünden örneklere yer verilerek genel, kısa bilgilendirme yapılır."
+      ]
+    },
+    {
+      "code": "T.4.3.24",
+      "title": "Hikâye edici ve bilgilendirici metinleri oluşturan ögeleri tanır",
+      "processComponents": [
+        "Giriş, gelişme ve sonuç/serim, düğüm ve çözüm bölümleri hakkında kısa bilgi verilir."
+      ]
+    },
+    {
+      "code": "T.4.3.25",
+      "title": "Yönergeleri kavrar",
+      "processComponents": [
+        "Harita, ilan, afiş, ilaç prospektüsü, ürün etiketi, kullanım kılavuzu gibi materyallerden faydalanılır."
+      ]
+    },
+    {
+      "code": "T.4.3.26",
+      "title": "Metindeki gerçek ve hayalî ögeleri ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.27",
+      "title": "Okuduğu metindeki kahramanların özelliklerini karşılaştırır",
+      "processComponents": [
+        "Kahramanların fiziksel ve kişilik özelliklerinin karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.28",
+      "title": "Okudukları ile ilgili çıkarımlar yapar",
+      "processComponents": [
+        "Neden-sonuç, karşılaştırma, benzetme, örneklendirme gibi çıkarımlar yapılması sağlanır.",
+        "Öğrenciler metinde işaret edilen problem durumlarını tespit etmeleri ve bunlara farklı çözüm yolları bulmaları için teşvik edilir.",
+        "Yazarın olaylara bakış açısını belirlemesi sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.29",
+      "title": "Görsellerle okuduğu metnin içeriğini ilişkilendirir",
+      "processComponents": [
+        "Görsellerin metinde aktarılan anlama nasıl katkı sağladığını (duygu oluşturma, kahramanların veya yerlerin özelliklerini vurgulama vb.) açıklaması ve yorumlaması sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.30",
+      "title": "Metindeki renkli, altı çizili, koyu ifadelerin önemli noktaları vurguladığını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.31",
+      "title": "Metinler arasında karşılaştırma yapar",
+      "processComponents": [
+        "Metinlerin konuları ve karakterleri açısından karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.32",
+      "title": "Kısa ve basit dijital metinlerdeki mesajı kavrar",
+      "processComponents": [
+        "Elektronik posta ve sosyal medya içeriklerine (tebrik, ilan ve duyuru mesajları vb.) yer verilir."
+      ]
+    },
+    {
+      "code": "T.4.3.33",
+      "title": "Medya metinlerini değerlendirir",
+      "processComponents": [
+        "Farklı türdeki medya metinlerinin (reklam amaçlı el ilanları, web siteleri, seyahat broşürleri, el kitapları, bloglar vb.) amacı ve hedef kitlesi hakkında görüş bildirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.34",
+      "title": "Grafik, tablo ve çizelgelerle ilgili soruları cevaplar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.3.35",
+      "title": "Bilgi kaynaklarını etkili bir şekilde kullanır",
+      "processComponents": [
+        "Bilgiye erişmek için basılı ve dijital içeriklerdeki içindekiler ve sözlük bölümünden nasıl yararlanılacağına ilişkin bilgi verilir."
+      ]
+    },
+    {
+      "code": "T.4.3.36",
+      "title": "Bilgi kaynaklarının güvenilirliğini sorgular",
+      "processComponents": [
+        "Yazılı kaynakların (dergi, kitap, broşür, gazete vb.) incelenmesi ve değerlendirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.3.37",
+      "title": "Okuduğu metindeki olaylara ilişkin düşüncelerini ifade eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

@@ -1,0 +1,57 @@
+{
+  "unitId": 1387,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "2. TEMA: BOŞ TELLERDE YAY ÇEKME-İTME",
+  "hours": "7",
+  "description": "Temada öğrencilerin boş tellerde yay çekme-itme hareketini çalabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.2.2.1",
+      "title": ". Boş tellerde yay çekme-itme hareketleriyle çalabilme",
+      "processComponents": [
+        "a) Yay çekme-itme hareketlerini çözümler.",
+        "b) Boş tellerde yay çekme ve itme hareketlerini uygularken duruş ve tutuş pozisyonunu alır.",
+        "c) Boş tellerde yay çekme-itme hareketlerini çalgıya özgü tekniklerle kullanır.",
+        "ç) Boş tellerde yay çekme-itme hareketlerini müziksel bileşenlerle ilişkilendirerek uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "çekme, itme, yay",
+  "support": [
+    "Destekleme sürecinde öğrencilerden öğretmeni taklit ederek yay tutuş ve duruşunu doğru bir şekilde uygulamaları, ayna karşısında kendilerini izleyerek çalışmaları ve öğretmen rehberliğinde yavaş tempoda çalışmalar yapılması istenebilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde \"Yay Yarışı\" oyunu oynatılabilir. Öğrenciler, metronoma uygun olarak belirlenen tempoda yaylarını çekip-iterek senkronize olmaya çalışır. Kim en düzenli ve hatasız çalarsa puan kazanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi ve performans görevi ile ölçülebilir. Performans görevi olarak öğrencilerden 2 kişilik gruplar hâlinde öğretmenin belirlediği ritmik kalıplarla yay çekme-itme egzersizleri yapılan kısa bir sunum gerçekleştirmeleri istenebilir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VİY.2.2.1",
+    "Öğrencilere boş tellerde yay çekme-itme hareketleri gösterilerek derse başlanır.Viyola yayının yapısı ve boş tellerde yay çekme-itme tekniğinin önemi anlatılır. ( SDB2.1 ). Öğrencilere, profesyonel viyola sanatçılarının performanslarından kısa videolar izletilerek görsel-dijital okuryazarlık becerileri desteklenir. Öğrenciler tarafından etkileşimli tahtadaki kendi kişisel klasörlerine bu videoları harici bellek vasıtasıyla kopyalayıp kaydedilir ( OB2 ). Yay tutuşu ve bilek hareketlerinin önemi açıklanır. Öğrencilere, yay çekme-itme sırasında karşılaşabilecekleri hatalar sorularak düşünmeleri sağlanır. Öğrencilerin gözlem yeteneğini geliştirmek için öğretmen tarafından yay çekme-itme hareketleri adım adım gösterilir. Öğretmenin hareketleri dikkatlice gözlemlenir. ( KB2.2 ). Yayın tel üzerindeki konumunun ve basınç miktarının nasıl değiştiği görsel olarak anlatılır ( OB4 ). Öğrencilerin önce yay tutuşları kontrol edilerek bireysel olarak denemeler yapılır. Öğrenciler, açık tellerde yay çekme-itme egzersizlerine başlatılır. Boş tellerde yay çekme-itme hareketleri çözümlenir. Bu süreçte öğrencilerin yay pozisyonu ve kol açısını doğru uygulamasına rehberlik edilir. Öğrenciler tarafından çalgıya özgü duruş ve tutuş pozisyonu alınır. Yay hızının, basıncının ve açısının ses kalitesine etkisi üzerinde durulur. Grup çalışmalarına yönlendirilerek iş birliği içerisinde senkronize yay çekme-itme çalışmaları yapılır ( D3.4.1 ). Grup çalışmaları sırasında öğrencilerden birbirine destek olması ve iş birliği yapabilmeleri beklenir ( D4.1 , SDB2.2 ) ve yay hareketleri planlı bir şekilde kontrol edilir ( D3.2 ). Bu çalışmalar çalgıya özgü teknikleri kullanarak yapılır. Öğrencilere yay hareketlerini analiz etmeleri için yavaşlatılmış performans videoları izletilir. Dijital platformlardan yararlanılarak ünlü sanatçıların yay teknikleri incelenip not alınır ( OB2 ). Verilen çalışmalar müziksel bileşenlerine göre çalınır. Öğrenciler birbirlerine soru sorarak yay çekme-itme çalışmaları sırasında karşılaştıkları zorlukları değerlendirir ( E3.8 ). Performans görevi olarak 2 kişilik gruplar hâlinde öğretmenin belirlediği ritmik kalıplarla yay çekme-itme egzersizleri yapılan kısa bir sunum gerçekleştirmeleri istenebilir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2",
+      "D3.4.1",
+      "D4.1"
+    ],
+    "egilim": [
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1387"
+}

@@ -1,0 +1,41 @@
+{
+  "unitId": 1700,
+  "grade": 0,
+  "gradeName": "Sosyal bilim çalışmaları 3",
+  "subject": "Sosyal Bilim Çalışmaları Dersi",
+  "title": "DÜZEY III · 6. Tema: Toplumsal Bütünleşme Ve Toplumsal Çözülme",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SBÇ.III.6.1",
+      "title": "Toplumsal bütünleşmeyi ve toplumsal çözülmeyi sorgulayabilme",
+      "processComponents": [
+        "a) Toplumsal bütünleşmeyi ve toplumsal çözülmeyi tanımlar.",
+        "b) Toplumsal bütünleşme ve toplumsal çözülmeyle ilgili sorular sorar.",
+        "c) Toplumsal bütünleşmeyi etkileyen faktörlerle ve toplumsal çözülmenin nedenleriyle ilgili bilgileri toplar.",
+        "ç) Toplumsal bütünleşmeyi etkileyen faktörlerle, toplumsal çözülmenin nedenleriyle ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgilerden faydalanarak toplumsal bütünleşmenin nasıl sağlanabileceği hakkında çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "iş birliği, toplumsal bütünleşme, toplumsal çözülme",
+  "support": [
+    "Toplumsal bütünleşmeyi sağlayan faktörler ile ilgili zihin haritası hazırlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden siyaset kurumunda “toplumsal bütünleşmeyi sağlayan” veya “toplumsal çözülmeye sebep olan” unsurların neler olduğuna yönelik sosyolojik bir araştırma yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; yansıtma yazısı, poster/sunum dosyası, akran değerlendirme formu, 3-2-1 çıkış kartı, zihin haritası ve analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden toplumsal bütünleşmenin sağlanmasına dair Türkiye ve diğer ülkelerden örneklerle ilgili poster hazırlayarak bunları okul panosunda sergilemeleri istenebilir. Performans görevi dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "SBÇ.III.6.1",
+    "Öğrencilere toplumsal bütünleşmeyi ve toplumsal çözülmeyi örnekleyen yazılı veya görsel materyaller verilir. Bunlardan hareketle öğrencilerin toplumsal bütünleşmenin ve toplumsal çözülmenin tanımını yapmaları istenir ( OB1 , KB2.10 ). Öğrencilerin toplumsal bütünleşmeyi etkileyen faktörler ile toplumsal çözülmenin nedenleri hakkında iş birliği içinde güvenilir kaynaklardan bilgi toplaması ve toplanan bilgileri sınıf ortamında paylaşması sağlanır ( E2.3 ). Süreç akran değerlendirme formu ile değerlendirilir ( OB1 , SDB2.2 ). Edindikleri bilgilerin doğruluğunu değerlendirmeleri için öğrencilere toplumsal bütünleşmeyi etkileyen faktörler ile toplumsal çözülmenin nedenleri hakkında bilgi notu verilir. Öğrencilerden gruplara ayrılarak görev bilinciyle çalışmaları gerektiği hatırlatılır ( D16 , SDB2.2 ). Gruplardan toplumsal bütünleşmenin nasıl gerçekleştirilebileceği ve toplumsal çözülmenin nasıl önlenebileceği hakkında çıkarım yapmaları ve çıkarımlarını yansıtan sloganlar oluşturmaları istenir ( SDB3.3 , KB2.7 , KB2.10 ). Çalışmalar yapılırken millî ve manevi değerlere saygı gösterilir ( D19 , SDB2.3 , OB6 ). Öğrencilerden çalışmalarını ve süreci değerlendiren kısa bir yansıtma yazısı yazmaları istenir ( E3.5 , D14 ). Performans görevi olarak öğrencilerden toplumsal bütünleşmenin sağlanmasına dair Türkiye ve diğer ülkelerden örneklerle ilgili poster hazırlayarak bunları okul panosunda sergilemeleri istenebilir. Performans görevi dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB16. Eleştirel Sosyolojik Düşünme (KB2.8. Sorgulama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1700"
+}

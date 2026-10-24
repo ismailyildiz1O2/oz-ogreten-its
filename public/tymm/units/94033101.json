@@ -1,0 +1,137 @@
+{
+  "unitId": 94033101,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Trafik Güvenliği Dersi",
+  "title": "1. ÜNİTE: TRAFİKTE GÜVENLİK",
+  "hours": "28",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TG.4.1.1",
+      "title": "Trafikte kendisinin ve başkalarının hayatının önemli olduğunu fark eder",
+      "processComponents": [
+        "Trafiğin tanımı ve insan yaşamındaki yerinden bahsedilir."
+      ]
+    },
+    {
+      "code": "TG.4.1.2",
+      "title": "Trafikle ilgili temel kavramları açıklar",
+      "processComponents": [
+        "Öğrencilerin günlük yaşamında trafikte karşılaşabileceği temel kavramlar (yaya, yaya geçidi, kaldırım, taşıt, alt geçit, üst geçit, ışıklı trafik işaret cihazı, trafik levhaları, toplu taşıma, banket vb.) üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.3",
+      "title": "Trafik işaretleri ve işaret levhalarının önemini araştırır",
+      "processComponents": [
+        "Trafik işaretleri ve işaret levhalarının şekillerinin (bilgilendirme, uyarı ve yasaklama) anlamları üzerinde durulur. Ayrıca trafik işaretleri ve işaret levhalarını korumanın gerekliliği vurgulanır."
+      ]
+    },
+    {
+      "code": "TG.4.1.4",
+      "title": "Yaya olarak trafik kurallarına uyar",
+      "processComponents": [
+        "Karşıya geçiş kuralları, kaldırımı olan ve olmayan yollarda uyulması gereken kurallar vb. üzerinde durulur. Ayrıca park hâlindeki araçların önünden, arkasından ve iki aracın arasından geçilmemesi gerektiği nedenleriyle açıklanır."
+      ]
+    },
+    {
+      "code": "TG.4.1.5",
+      "title": "Günlük yaşantısında çevresindeki güvenli yolları kullanır",
+      "processComponents": [
+        "Güvenli ve güvenli olmayan yol kavramları açıklanarak öğrencilerin okul, market, park vb. yerlere gidiş-gelişlerinde kullandıkları yolları belirtmeleri istenir. Bu yolların yayalar için güvenli olup olmadığı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.6",
+      "title": "Taşıt trafiğine kapalı alanlarda oyun araçlarını güvenli kullanır",
+      "processComponents": [
+        "Bisiklet, kaykay, scooter, paten ve kızak gibi oyun araçlarını kullanırken gerekli ekipmanlar (kask, eldiven, dizlik vb.) ile uyulması gereken kurallar üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.7",
+      "title": "Ulaşım araçlarını çeşitli özellikleri açısından karşılaştırır",
+      "processComponents": [
+        "Ulaşım araçlarının güvenlik, ekonomi, hız ve zaman gibi özellikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.8",
+      "title": "Trafikte geçiş üstünlüğü olan taşıtları tanır",
+      "processComponents": [
+        "Trafikte geçiş üstünlüğü olan ambulans, itfaiye ve polis araçları ile bunların geçiş üstünlüğünün nedenleri ele alınır."
+      ]
+    },
+    {
+      "code": "TG.4.1.9",
+      "title": "Trafikle ilgili meslekleri ve kurumları araştırır",
+      "processComponents": [
+        "Trafikle ilgili mesleklerden trafik polisi, şoför, kaptan, makinist, vatman ve pilot gibi meslekler ele alınır. Trafikle ilgili kurumlardan Sağlık Bakanlığı, Emniyet Genel Müdürlüğü ve Karayolları Genel Müdürlüğü üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.10",
+      "title": "Trafikte toplu taşıma araçlarını kullanmanın önemini kavrar",
+      "processComponents": [
+        "Toplu taşıma aracı (gemi, tren, tramvay, metro, uçak, otobüs vb.) kullanarak gereksiz trafik yoğunluğunun ortadan kaldırılması ve bu konuda çevre bilinci oluşturulması üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.11",
+      "title": "Taşıtlara binerken, taşıtlardan inerken ve taşıtlarda yolculuk ederken kurallara uyar",
+      "processComponents": [
+        "Okul servisi, otomobil, otobüs, traktör, gemi, tren, tramvay, metro, uçak ve motorsiklet gibi araçlara binerken ve araçlardan inerken uyulması gereken kurallar üzerinde durulur. Yolculuk sırasında yaşlılara, hamilelere, engellilere ve hastalara yer verilmesi gibi adabımuaşeret kuralları vurgulanır. Ayrıca yolculuk sırasında toplu taşıma araçları ve diğer araçları korumanın önemi açıklanır."
+      ]
+    },
+    {
+      "code": "TG.4.1.12",
+      "title": "Trafikte karşılaşılabilecek tehlikelere örnekler verir",
+      "processComponents": [
+        "Trafik kazalarına yol açan nedenler (uykusuz ve alkollü araç kullanma, dikkatsizlik, aşırı hız, aydınlatmanın yetersizliği, değişik hava koşullarının fark edilmeyi güçleştirmesi vb.) açıklanır. Otomobil yangınlarından nasıl korunulacağı üzerinde de durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.13",
+      "title": "Trafikte karşılaşabileceği tehlikelere karşı alınması gereken önlemleri nedenleriyle açıklar",
+      "processComponents": [
+        "Emniyet kemeri kullanmanın önemi vurgulanarak trafik kazalarını önleyici tedbirler üzerinde durulur. Okul servislerinde ön koltukta yolculuk etmenin, camdan sarkmanın ve emniyet kemeri kullanmamanın tehlikelerinden bahsedilir."
+      ]
+    },
+    {
+      "code": "TG.4.1.14",
+      "title": "Taşıt trafiğinde tehlikeli hareketlerden kaçınır",
+      "processComponents": [
+        "Üzeri açık taşıtlarda veya yük üzerinde yolculuk yapmanın, taşıtlara asılma, tutunma ve taşıtların önünden kontrolsüz geçmenin tehlikeleri üzerinde durulur. Yolculuk yaparken kendini güvene almak için tutunmanın önemi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.15",
+      "title": "Trafikte sorumlu, saygılı ve sabırlı olmanın gerekliliğini sorgular",
+      "processComponents": [
+        "Trafik kurallarına uymayanları nezaket kuralları çerçevesinde uyarma, kendisine yapılan uyarıları dikkate almanın gerekliliği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.16",
+      "title": "Trafik kurallarına uymanın birey ve toplum hayatına etkilerini tartışır",
+      "processComponents": [
+        "Trafik kurallarına uymanın sosyal ve ekonomik açıdan kısa ve uzun vadeli etkileri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.1.17",
+      "title": "Trafik kurallarının etkin bir şekilde uygulanmasına yönelik önerilerde bulunur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018120202936103-TRAFIK%20GUVENLIGI%20OGRETIM%20PROGRAMI.pdf"
+}

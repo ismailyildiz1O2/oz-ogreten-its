@@ -1,0 +1,39 @@
+{
+  "unitId": 1570,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi",
+  "title": "2. Ünite: Proje Türleri",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PTU.2.1",
+      "title": "Proje türleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Proje türleri hakkındaki bilgiye ulaşabilmek için kullanacağı araçları belirler.",
+        "b) Proje türleri hakkındaki bilgiye ulaşabilmek için belirlediği aracı kullanarak bilgi leri bulur.",
+        "c) Proje türleri hakkında ulaşılan bilgileri doğrular.",
+        "ç) Proje türleri hakkında ulaşılan bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "alt yapı, BİDEB (Bilim İnsanı Destek Programları Başkanlığı), girişimcilik, Harezmi, hedef kitle, öncelikli alan, platform, proje, proje türleri, sosyal gelişimi destekleme",
+  "support": [
+    "Öğrencilerden sosyal bilimler, sağlık, mühendislik, sanat, tasarım, sanayi alanlarında yapılan bir proje ile ilgili bilgi toplayıp, iki kişilik gruplar oluşturarak, ulaştıkları bilgileri “Ben hangi proje türüyüm?” oyun yöntemiyle kendi grubundaki öğrenciye anlatmaları istenebilir. Oyunun ikinci safhasında aynı gruptaki öğrencilerden birbirinin araştırdığı konuyu tahmin etmeleri beklenir."
+  ],
+  "enrichment": [
+    "Öğrencilerden sosyal bilimler, sağlık, mühendislik, sanat, tasarım, sanayi alanlarında yapılan beşer tane proje belirleyip bunları amaçlarına göre sınıflandırabilecekleri bir tabloya yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrencilerden proje türleri arasındaki benzerlik ve farklılıkları belirleyerek bir karşılaştırma tablosuna kaydetmeleri performans görevi olarak istenebilir. Oluşturulan tablonun rubrik ile değerlendirilmesi sağlanabilir."
+  ],
+  "teachingApplications": [
+    "PTU.2.1",
+    "Öğrencilerden proje türleri hakkındaki bilgiye ulaşabilmek için kullanacağı araçları belirlemeleri istenir. Öğrenciler belirledikleri araçları (makale, kurumsal rapor, proje metni, tez vb.) kullanarak proje türleri hakkındaki bilgileri bulur. Bu aşamada her öğrenciden bilgi toplama araçlarını kullanarak farklı proje türleri hakkında bilgi toplaması istenir. Bu bağlamda öğrencilerin Harezmi Eğitim Modeli kapsamında yer alan fen, teknoloji, mühendislik, sanat ve matematik disiplinlerinin bir arada kullanıldığı STEAM yaklaşımı ile uygulamalı proje, toplumsal fayda ve sanatsal projeler hakkında bilgi toplamaları sağlanır. Öğrencilerin seviyelerine göre hazırladıkları projelerde (TÜBİTAK, BİDEB, AB vb.) elde ettikleri bilgileri bu süreçte kullanmadıkları veri kaynaklarından çözüm odaklı ve kendine karşı görevlerini yerine getirecek şekilde kontrol edip doğrulamaları sağlanır ( D12.1 , D16.1 , E2.2 ). Öğrencilerden doğruladıkları bilgilerin benzerlik ve farklılıklarını belirleyerek bir karşılaştırma tablosuna kaydetmeleri istenir ( SDB3.3 , OB7 , KB2.7 ). Oluşturulan bu tablo rubrikle değerlendirilebilir. Öğrencilere TÜBİTAK 2204-B proje örneklerinden birini (temel, sosyal, uygulamalı) seçip bu projelerin özet, amaç, özgün değer, yöntem, uygulama basamak ve çıktılarını karşılaştıracakları bir performans görevi verilir ve rubrikle değerlendirilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1570"
+}

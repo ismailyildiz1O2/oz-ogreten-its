@@ -1,0 +1,71 @@
+{
+  "unitId": 1691,
+  "grade": 0,
+  "gradeName": "AHLAK VE VATANDAŞLIK EĞİTİMİ DERSİ I. DÜZEY",
+  "subject": "Ahlak ve Vatandaşlık Eğitimi Dersi",
+  "title": "DÜZEY I · 2. Tema: Toplumsal Yaşamda Ahlak Ve Değerler",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AVE.1.2.1",
+      "title": "Yazılı, görsel ve dijital kaynaklardan yararlanarak yaşadığı toplumun ahlak kuralları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Yaşadığı toplumun ahlak kuralları ile ilgili araştırma yapabileceği kaynakları belirler.",
+        "b) Belirlediği kaynaklardan yaşadığı toplumun ahlak kuralları ile ilgili bilgiler bulur.",
+        "c) Yaşadığı toplumun ahlak kuralları ile ilgili bilgi topladığı kaynakların uygunluğunu açıklar.",
+        "ç) Yaşadığı toplumun ahlak kuralları ile ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "AVE.1.2.2",
+      "title": "Gözlemlerimden/deneyimlerinden yola çıkarak bireysel davranışlarında ahlaklı olmanın toplum üzerindeki etkisini tahmin edebilme",
+      "processComponents": [
+        "a) Yaşadığı veya gözlemlediği olayları bireysel ahlaki davranışlarla ilişkilendirir.",
+        "b) Yaşadığı veya gözlemlediği olaylardan yola çıkarak bireysel ahlaki davranışların toplumsal düzen üzerindeki etkileri hakkında çıkarımda bulunur.",
+        "c) Elde ettiği çıkarımları değerlendirerek bireysel ahlaki davranışların toplum için neden önemli olduğuna ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "AVE.1.2.3",
+      "title": "Ahlaki gelişimde kültür ve dinin etkisini yorumlayabilme",
+      "processComponents": [
+        "a) Ahlaki gelişimde kültür ve dinin etkisini inceler.",
+        "b) Ahlaki gelişimde kültür ve dinin etkisi ile ilgili örnekler verir.",
+        "c) Ahlaki gelişimde kültür ve dinin etkisini kendi cümleleri ile ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "adalet, ahlaki gelişim, ahlaki kural, cömertlik, din, doğruluk, kültür, merhamet, ortak sorumluluk, sabır, saygı, sevgi, yardımseverlik",
+  "support": [
+    "Öğrencilreden bir hafta boyunca çevrelerindeki ahlaki kuralları gözlemleyerek günlük tutmaları istenebilir.",
+    "Bireysel davranışların toplumsal düzene etkisini gösteren kısa haberler, videolar veya güncel olay örneklerini incelemeleri istenebilir.",
+    "Öğrencilere hazır tablo/şema verilip onlardan ilgili davranışların ahlak-kültür-din bağlantısını eşleştirme leri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden Göktürkler, Büyük Selçuklu Devleti, Osmanlı Devleti gibi farklı Türk devletlerinde yer alan ahlaki anlayışları karşılaştırmaları istenebilir. “Herkes benim gibi davransaydı toplum nasıl olurdu?” sorusu üzerinden bir kom pozisyon yazmaları istenebilir.",
+    "Bir peygamberin veya âlimin hayatından ahlaki davranışlarla ilgili bir olayı araştırıp sunmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Bu temada yer alan öğrenme çıktıları; çalışma yaprakları, kısa cevaplı sorular ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Performans görevi kapsamında öğrencilerden kültürün ve dinin ahlaki gelişimdeki etkilerini açıklayan kısa sunumlar, posterler veya dijital ürünler hazırlamaları istenebilir. Performans görevi, dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AVE.1.2.1",
+    "Öğretmen tarafından toplumda uyulması gereken temel ahlak kurallarının günlük yaşamdaki önemine ilişkin kısa bir değerlendirme yapılır. Ardından, verilen örneklerden hareketle; verilen sözü tutma, teşekkür etme, özür dileme, yaşlılara yardım etme, sıra bekleme, toplu taşıma kurallarına uyma, çevreyi temiz tutma ve nezaket kurallarına uyma gibi temel ahlak kurallarının öğrenciler tarafından belirlenmesi sağlanır. Ardından öğrencilerden bu kurallarla ilgili yazılı, görsel ve dijital kaynaklardan yararlanarak bilgi toplamaları istenir. Yaşadıkları toplumun ahlak kuralları ile ilgili yazılı kaynaklar (kitap, dergi, gazete, makale vb.), görsel kaynaklar (afiş, broşür, belgesel, video vb.) ve dijital kaynaklardan (güvenilir web siteleri, çevrim içi ansiklopediler vb.) yararlanarak bilgi toplamaları istenir. Bilgi toplama sürecinde öğrencilerin yaş düzeyine uygun olarak Safahat, Ömer Seyfettin’in hikâyeleri, Beyaz Gemi, Toprak Ana ve İnsan Ne ile Yaşar? gibi ahlaki değerleri konu edinen eserlerden de yararlanmaları teşvik edilir. Araştırma sırasında öğrencilerden kaynakların güvenilirliğine, güncelliğine ve uygunluğuna da dikkat etmeleri beklenir ( D3.3 , OB1 , OB2 , OB4 ).",
+    "Öğrencilerin topladıkları bilgileri sözlü, yazılı, görsel veya dijital bir şekilde sınıfta sunmaları sağlanır ( SDB2.3 ). Sunumlar sırasında karşılaştırmalı tablo veya Venn şeması kullanılarak farklı kaynaklardan elde edilen bilgilerin karşılaştırılması ve ortak noktaların belirlenmesi sağlanır ( KB2.7 ). Öğretmen rehberliğinde öğrencilerin “Kaynakların güvenilir ve doğru bilgi sağlaması neden önemlidir?” sorusu üzerine tartışmaları sağlanır. Bu aşamada çember tartışma tekniği kullanılabilir. Tartışma sonunda öğrencilerden kaynakların doğru ve güvenilir olmasının önemi hakkında kısa bir açıklama yapmaları istenir ( E3.1 , SDB2.1 ). Daha sonra kullandıkları kaynakların değerlendirilmesinde kontrol listesi kullanılarak öğrencilerin kaynakları güvenilirlik, doğruluk ve güncellik açısından incelemeleri sağlanır. Öğrencilerin öğretmen rehberliğinde toplumda yer alan ahlak kurallarını bireysel, toplumsal, kurumsal olarak sınıflandırarak kaydetmeleri sağlanır. Yaşadığı toplumda sorumlu bir vatandaş olarak uyulması gereken ahlaki kuralların toplumun huzuru için ne kadar önemli olduğu vurgulanır ( OB6 , D16.3 ). Bu süreçte öğrencilerin hem bilgi toplama hem de kaynakları değerlendirme becerilerini geliştirmeleri beklenir ( E3.7 ). Öğrenme süreci, kısa cevaplı sorulardan oluşan çalışma yaprakları aracılığıyla değerlendirilebilir.",
+    "AVE.1.2.2",
+    "Öğrencilere “Bireysel davranışlarınız toplumun huzur ve güven ortamını nasıl şekillendirir?’” sorusu yöneltilerek bu konudaki düşüncelerini ifade etmeleri sağlanır. Öğrencilerden toplum düzenini etkileyen bireysel davranışlar ile ilgili aile, arkadaş grubu veya okul ortamında yaşadıkları veya gözlemledikleri olaylardan örnekler (verilen sözün tutulması, haksızlık karşısında sergilenen tutum vb.) vermeleri istenir. Verilen örnekler üzerinden öğrencilerin bireysel davranışları ve bu davranışın hangi ahlaki değerlerle (dürüstlük, adalet, sorumluluk vb.) ilişkili olduğunu bulmaları sağlanır ( E3.1 , D6.2 , SDB2.1 , KB3.3 ).",
+    "Daha sonra her öğrenciden önceki öğrenmelerde ele alınan dürüstlük, adalet, sorumluluk, saygı ve yardımseverlik gibi ahlaki ölçütler temelinde yaşadığı veya gözlemlediği bir olayı incelemesi istenir. İncelemeler sonucunda öğrencilerden bireysel ahlaki davranışlarının toplum düzeni üzerindeki etkisiyle ilgili çıkarımlarda bulunmaları beklenir ( E3.1 ). Ayrıca öğrencilerden dürüstlük, adalet, sorumluluk, saygı, empati, sözünde durma, farklılıklara saygı gösterme, özür dileme, hatasını telafi etme ve kul hakkını gözetme gibi değerlere uygun davranış örnekleri geliştirmeleri ve bu örneklerin günlük yaşamda kullanılmasının önemini belirtmeleri istenir ( SDB1.2 , SDB1.3 ).",
+    "Öğretmen rehberliğinde ahlaklı davranışların bireyler arasında güven duygusunu güçlendirdiği, toplumsal düzen ve huzurun korunmasına katkı sağladığı, adalet, saygı, yardımseverlik ve sorumluluk değerlerinin toplumsal yaşamı desteklediği; ahlaki kurallara aykırı davranışların ise güven kaybına, haksızlıklara ve toplumsal düzenin bozulmasına neden olabileceği örneklerle açıklanır. Öğrencilerin çıkarımlarını “Yaşanılan Olay”, “Bireysel Etkileri” ve “Toplumsal Etkileri” başlıkları altında tablo ile görselleştirmeleri sağlanır ( OB1 , OB4 , KB2.5 ).",
+    "Öğrencilerden hazırladıkları tabloları sınıfta sunmaları istenir. Sunumlar sırasında öğrencilerden bireysel ahlaklı davranışların toplumsal düzen açısından önemi ile ilgili yargıda bulunmaları beklenir ( SDB2.1 ). Bu süreçte öğrencilerin çıkarımları, çalışma yaprakları veya öz değerlendirme formları aracılığıyla değerlendirilebilir.",
+    "AVE.1.2.3",
+    "Ahlak, kültür ve din arasındaki ilişkiyi konu alan; bayramlarda ziyaretleşme, misafire ikramda bulunma, hasta ziyaretinde bulunma ve emaneti koruma vb. örneklerin yer aldığı yazılı, görsel veya dijital kaynaklar öğrenciler tarafından incelenir ( OB1 , OB2 , OB4 ). Öğrencilerden bu kaynaklardaki davranış ve durum örneklerini belirleyerek Venn şeması aracılığıyla ahlak, kültür ve din alanlarına göre sınıflandırmaları istenir ( E3.1 ). Öğrencilerden kendi deneyimleri ve gözlemleri doğrultusunda aile, okul ve toplum ortamında karşılaştıkları ahlaki davranışları paylaşmaları istenir ( SDB2.1 ). Bu sayede öğrencilerin kültürel ve dinî değerlerin çoğunun ahlakla örtüştüğünü fark etmeleri ve bu değerlerin günlük yaşamla bağlantısını görmeleri sağlanır ( OB5 ).",
+    "Ahlaki değerlerin oluşumunda kültür ve dinin rolü üzerinde durulur. Bu aşamada peygamberlerin ve âlimlerin hayatlarından örnekler verilerek öğrencilerin konuya somut bağ kurmaları sağlanır. Hz. Muhammed’in (sav) adalet ve dürüstlükle ilgili davranışları ile İmam Gazali’nin erdemli yaşamı gibi örnekler gösterilir ( D6.2 , OB5 ). Öğrenciler gruplara ayrılır. Gruplardan performans görevi kapsamında kültürün ve dinin ahlaki gelişimdeki etkilerini açıklayan kısa sunumlar, posterler veya dijital ürünler hazırlamaları istenebilir ( E2.2 , D16.3 , SDB2.1 , SDB2.2 , OB2 , OB4 ). Grupların hazırladıkları ürünler sınıfta paylaşılır ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir ( SDB2.1 ).",
+    "Öğrenciler edindikleri bilgilerden yola çıkarak ahlaki gelişimde kültür ve dinin etkisini kendi cümleleriyle ifade eder ( SDB2.1 ). Böylece öğrencilerin ahlaki değerlerin oluşumunda kültür ve dinin rolünü algılamaları ve yorumlamaları sağlanmış olur (E3.1, OB5). Sürecin değerlendirilmesi için çalışma yaprakları kullanılabilir."
+  ],
+  "skills": [
+    "SBAB2. Kanıta Dayalı Sorgulama ve Araştırma (SBAB2.2. Kaynaklardan Bilgi Toplama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1691"
+}

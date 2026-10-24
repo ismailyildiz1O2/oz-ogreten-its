@@ -1,0 +1,56 @@
+{
+  "unitId": 1132,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "2. TEMA: BAĞLAMADA KOMA PERDELERİ ÖĞRENİYORUM",
+  "hours": "10",
+  "description": "Temada koma perdelerini bağlama ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.4.2.1",
+      "title": "Bağlamada koma seslerini çalabilme",
+      "processComponents": [
+        "a) Bağlamadaki koma sesleri çözümler.",
+        "b) Bağlama ile koma seslerini çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Bağlama ile koma seslerini çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlama ile koma seslerinin müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "ma, ton",
+  "support": [
+    "Koma seslerinin yerleri anlatılırken karmaşık terimler yerine daha açık ve anlaşılır ifadeler kullanılabilir. Örneğin her bir koma sesinin normal sesten biraz daha yüksek ya da düşük olduğu açıklanabilir. Öğrencilere bir notanın koma sesini çalmaları için daha fazla zaman tanınabilir ve öğretmen, her öğrencinin uygulamalarını tek tek izler, öğrenci doğru perdeyi bulana kadar ona yardımcı olabilir. Öğrencilerin ritim ve tempo açısından zorlanmaması için başlangıçta yavaş tempoda çalışmaları sağlanabilir. Koma seslerini keşfetmeye yönelik, çok basit ve kısa etütler yapılabilir. Bu etütlerde her bir koma sesini belirlemek için öğrenciler, bağlama üzerindeki belirli perde yerlerini tek tek çalışabilirler. Öğretmen, her öğrencinin doğru nota ve koma sesini bulabilmesi için rehberlik edebilir. Öğrencilere koma seslerini öğretmek için basitleştirilmiş yöresel müzik örnekleri dinletildikten sonra doğru sesleri tanımaları, taklit etmeleri ve düzgün şekilde çalmaları istenebilir. Öğrencilerin koma seslerinin doğru yerlerini öğrenmelerini sağlamak, birbirlerine yardımcı olarak eksikliklerini gidermelerine destek olmak ve geri bildirim alarak gelişimlerini artırmak için grup çalışmaları yaptırılabilir."
+  ],
+  "enrichment": [
+    "Türk müziğindeki farklı makamların komalarla nasıl şekillendiğini ve bu komaların melodik yapıya nasıl etki ettiğini keşfetmeleri sağlanabilir. Öğrenciler, çeşitli makamlar üzerinde uygulamalar yaparak her bir makamın karakteristik koma seslerini daha derinlemesine analiz eder ve kendi icralarında bu sesleri nasıl daha etkili bir şekilde kullanacaklarına dair yaratıcı yöntemler geliştirebilirler. Ayrıca öğrencilerin kendi bestelerini yaparak bu bestelerde doğru koma kullanımı ve makam değişimleri üzerine çalışmaları teşvik edilebilir. Bu süreç, hem teorik bilgiyi pratiğe dökmeyi hem de öğrencilerin müzikal ifadelerini geliştirmeyi hedefleyebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin kromatik etüt ve egzersizleri çalmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.4.2.1",
+    "Öğretmen, Türk müziğinde kullanılan koma kavramının anlamını açıklar. İki ses arasındaki koma sesleri hakkında bilgiler vererek terim karşılıklarını tanıtır ( SDB2.1 , KB1 ). Öğretmen, bağlamanın sapındaki koma perdelerini gösteren görsel bir materyal kullanarak öğrencilerin bu perdeleri fark etmelerini sağlar ( OB4 , E3.2 ) Öğretmen, örnek olarak bir notanın sahip olduğu koma seslerini bağlamanın sapındaki perde yerlerini göstererek öğrencilere bireysel uygulama fırsatı sunar ve geri bildirimler verir. Öğrencilerin gruplar hâlinde çalışarak her bir sesin sahip olduğu koma seslerinin bağlamadaki perde yerlerini öğrenmeleri sağlanır ( SDB2.1 , SDB2.2 , D4.1 ). Kromatik etüt ve egzersizler yaparak koma seslerini keşfederler ( OB9 ). Türk halk müziği türünden yöresel müziklerden örnek eserler dinletilerek koma sesleri pekiştirilir. Son olarak koma seslerinden örnek türküleri icra ederler ( D3.2 ).Türk halk müziği türünden yöresel müzikler ve örnek türküleri icra etme aşamalarında öğrencilerin ritme ve melodiye uygunlukları gözlem formu ile gözlemlenerek değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2",
+      "D4.1"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB1"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1132"
+}

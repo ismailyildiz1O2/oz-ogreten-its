@@ -1,0 +1,30 @@
+{
+  "unitId": 1528,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY I · 6. Tema: Üç Boyutlu Modelleme",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.1.6.1",
+      "title": "Dijital tasarım sürecinde üç boyutlu modelleme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Üç boyutlu modelleme araçlarını tanır.",
+        "b) Üç boyutlu modelleme araçlarını belirler.",
+        "c) Üç boyutlu modelleme araçlarını kullanır.",
+        "ç) Oluşturduğu üç boyutlu tasarımı görsel tasarım ilkeleri açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "3B tasarım, modelleme, oran-orantı",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1528"
+}

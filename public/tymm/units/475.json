@@ -1,0 +1,88 @@
+{
+  "unitId": 475,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi (Maarif Modeli)",
+  "title": "4.TEMA: GEOMETRİK NİCELİKLER",
+  "hours": "15",
+  "description": "Bu temada öğrencilerin dik prizmaların, dikdörtgen dik piramidin, dik dairesel silindirin ve dik dairesel koninin yüzey açınımlarını çözümleyebilmeleri, dik dairesel silindirin yüzey açınımına ilişkin deneyimlerini dik dairesel silindirin yüzey alanına yansıtabilmeleri ve dairenin alan bağıntısının oluşturulma sürecinden hareketle dik dairesel silindirin hacim bağıntısına yönelik analojik akıl yürütme yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.8.4.1",
+      "title": "Dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin yüzey açınımlarını çözümleyebilme",
+      "processComponents": [
+        "a) Dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin yüzey açınımlarında yer alan şekilleri belirler.",
+        "b) Dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin yüzey açınımlarında yer alan şekiller arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.8.4.2",
+      "title": "Dik dairesel silindirin yüzey açınımına ilişkin deneyimlerini dik dairesel silindirin yüzey alanına yansıtabilme",
+      "processComponents": [
+        "a) Dik dairesel silindirin yüzey açınımına ilişkin deneyimlerini gözden geçirir.",
+        "b) Dik dairesel silindirin yüzey alanına yönelik çıkarım yapar.",
+        "c) Çıkarımını farklı örnekler üzerinden değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.8.4.3",
+      "title": "Dairenin alan bağıntısının oluşturulma sürecinden hareketle dik dairesel silindirin hacim bağıntısına yönelik analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Dairenin alan bağıntısının oluşturulma sürecini ve daire ile dik dairesel silindir arasındaki ilişkiyi gözden geçirir.",
+        "b) Dairenin alan bağıntısının oluşturulma süreci ile dik dairesel silindirin hacim bağıntısının oluşturulma süreci arasındaki ilişkileri belirler.",
+        "c) İlişkilerden hareketle dik dairesel silindirin hacmine yönelik çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler Dik dairesel silindirin hacmi taban alanı ile yüksekliğin çarpımıdır., Anahtar Kavramlar ana doğru, cisim yüksekliği, dik dairesel koni, dik dairesel silindir, dik prizmalar, dikdörtgen dik piramit, tepe noktası, yanal yüzey Sembol ve Gösterimler -",
+  "support": [
+    "Dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin açınımlarına yönelik sanal manipülatifler aracılığı ile öğrencilerin görsel ve uzamsal becerileri desteklenebilir. Dik dairesel silindir blokları ile çalışmaları sağlanarak konu somutlaştırılabilir. Havlu kâğıt rulosu ve tabanlara uygun kesilmiş iki daire modeli ile silindir yapmaları istenebilir. Dik dairesel silindirin hacim bağıntısı ve yüzey alanının hesaplanmasında iş birlikli öğretim uygulamalarından yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin dijital araçları kullanarak dik dairesel silindir ve dikdörtgenler prizması biçimindeki sütunlardan oluşan mimari yapıların modellerini somut materyaller veya üç boyutlu modelleme yazılımı ile oluşturmaları ve yapıların yüzey alanlarını ve hacimlerini belirlemeleri istenebilir. Mısır piramitlerinin özelliklerinin araştırıldığı ve belirli oranda küçültülmüş minyatürlerinin tasarlandığı çalışmalar yürütülebilir.",
+    "Kesik kare dik piramit ve kesik dik dairesel koninin yüzey açınımlarının oluşturulduğu çalışmalar yapmaları sağlanabilir.",
+    "Öğrencilerin silindirlerin ve diğer geometrik cisimlerin hacimlerinin karşılaştırılmasına yönelik bir yöntem içeren Cavalieri (Kavalyeri) Prensibi'ni araştırarak dijital sunum hazırlamaları sağlanabilir. Öğrencilerle A4 kâğıdına ait farklı iki kenar uzunluğunun yükseklik kabul edilmesi hâlinde oluşturulacak dik dairesel silindirlerin hacmine yönelik çalışmalar yapılabilir. Bu çalışmalara önce tahmin süreci ile başlanabilir. Öğrencilerin oluşan dik dairesel silindirlerin yüksekliklerindeki ve yarıçap uzunluklarındaki değişimin hacim üzerindeki etkisini değerlendirmeleri beklenebilir. Bu çalışmalarda öğrencilerin yüzey alanındaki değişimi incelemeleri de sağlanabilir. Öğrencilerin yaratıcılık becerilerini kullanarak dik dairesel silindirin yüzey alanı ve hacim bağıntısına ilişkin günlük hayat bağlamları içeren problem kurmaları istenebilir. Kurdukları problemleri dijital ortamda (EBA platformu gibi) paylaşarak birbirlerinin problemlerini değerlendirmeleri istenebilir. Öğrencilerin dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin yüzey açınımları, dik dairesel silindirin yüzey alanı ve hacmi ile ilgili olimpiyat sorularını çözmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; zihin haritası, çalışma kâğıdı ve performans görevi ile değerlendirilebilir. Öğrencilerin dikdörtgenler prizması ve dik dairesel silindir şeklindeki paketli gıdaların paket maliyetini azaltmaya yönelik fikirler ortaya koymak amacıyla aynı hacme sahip, yüzey alanları farklı dikdörtgenler prizmaları tasarlayacakları performans görevi hazırlamaları sağlanabilir. Performans görevi; uygun silindirin seçimi, modellenmesi, yüzey alanının ve hacminin hesaplanması gibi kriterleri barındıran dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans ürünü ve çalışma kâğıdı sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.8.4.1 Sınıfa çeşitli dik prizma (üçgen dik prizma, yamuk dik prizma, beşgen dik prizma gibi), dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koni modelleri (üç boyutlu cisim takımları, karton rulolar, havlu kâğıt rulosu, kağıt külah gibi) getirilerek öğrencilerin bu modelleri incelemeleri ve sınıf tartışması aracılığıyla temel elemanlarını belirlemeleri sağlanır ( SDB2.1 ) . Dik prizma çeşitleri, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koni öğretmen tarafından isimlendirilir. Öğrencilerden verilen modellerin yüzey açınımlarında yer alan geometrik şekilleri tahmin etmeleri ( KB2.12 ) ve modelleri keserek yüzey açınımlarını oluşturmaları beklenir. Yüzey açınımlarında yer alan şekilleri (örneğin üçgen dik prizmanın yüzey açınımının iki üçgen ve üç dikdörtgenden oluştuğunu, dikdörtgen dik piramidin yüzey açınımının bir dikdörtgen ve dört üçgenden oluştuğunu) açıklamalarına fırsat verilir. Özel olarak kare dik piramidin yüzey açınımının da öğrenciler tarafından incelenmesi beklenir. Süreçte öğrencilerin sanal manipülatiflerden yararlanmaları sağlanabilir ( MAB5 ) . Dik prizma, dik piramit, dik dairesel silindir ve dik dairesel konide taban ve cisim yüksekliği tanıtılır. Ayrıca dik prizmalarda ve dikdörtgen dik piramitte yan yüzler; dik dairesel silindir ve dik dairesel konide yanal yüzeyler, dik piramit ve dik dairesel konide tepe noktası, dik dairesel konide ana doğru tanıtılır. İncelenen geometrik cisimlerin farklı yüzey açınımlarının oluşturulabileceğinin öğrenciler tarafından fark edilmesi sağlanır. Öğrencilerin özel olarak dik dairesel silindire odaklanarak yanal yüzey açınımının farklı biçimlerde oluşturulabildiğini ancak alan hesaplamasında pratiklik sağladığı için dikdörtgen olarak ele alındığını fark etmelerine olanak verilir ( E3.2 ) .",
+    "Şekil 1. Dik Dairesel Silindirin Alternatif Yüzey Açınımlarına İlişkin Örnekler",
+    "Öğrencilerin dik dairesel koninin de alternatif yüzey açınımları üzerinde tartışmaları için uygun öğrenme ortamı oluşturulur. Tartışma sürecinde öğrencilerin farklı yüzey açınımlarını tartışarak birbirlerinin bakış açılarını anlamalarına ve saygı göstermelerine fırsat veren uygun öğrenme ortamı oluşturulabilir ( SDB2.3 ) . Öğrencilerin dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin yüzey açınımlarında yer alan şekiller arasındaki ilişkileri (örneğin dikdörtgen dik piramidin yüzey açınımında ikişer eş ikizkenar üçgenin yer aldığını, dik dairesel koninin yanal yüzeyini oluşturan daire dilimindeki yay uzunluğunun tabanı oluşturan dairenin çevre uzunluğuna eşit olduğunu) tartışarak ifade etmeleri sağlanır. Öğrencilerin dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koni üzerine yaptıkları çözümlemelerin değerlendirilmesine yönelik zihin haritası hazırlamaları istenebilir. Hazırlanan zihin haritası, kontrol listesi kullanılarak değerlendirilebilir. Zihin haritalarının incelenmesi sonucunda dik prizmalar, dikdörtgen dik piramit, dik dairesel silindir ve dik dairesel koninin yüzey açınımları ve yüzey açınımlarında yer alan şekiller arasındaki ilişkiler gibi bağlamlarda öğrencilerin yaşadıkları kavram yanılgıları ortaya çıkarılarak öğretmen tarafından gerekli dönütler verilebilir. Öğretmenin yönlendirmesiyle öğrencilerin hem kendilerinin hem de birbirlerinin kavram yanılgılarını fark etmeleri amacıyla öz değerlendirme ve akran değerlendirme formu kullanılabilir. Bu süreçte öğretmen tarafından kavram yanılgılarının giderilmesine yönelik tartışmalara ve açıklamalara olanak verilebilir ( SDB2.2 ) .",
+    "MAT.8.4.2 Öğrencilerin dik dairesel silindirin yüzey açınımını oluşturan şekilleri ve aralarındaki ilişkileri gözden geçirerek ifade etmeleri sağlanır. Süreçte örneğin dikdörtgenin kenar uzunluklarından birinin silindirin yüksekliğine, diğerinin ise dairenin çevre uzunluğuna eşit olduğunun öğrenciler tarafından açıklanması beklenir ( OB4 ) . Ardından öğretmen tarafından verilen dik dairesel silindir modelinin yüzey alanının nasıl hesaplanabileceğini tartışmaları için uygun öğrenme ortamı oluşturulur ( SDB2.1 ) . Sürecin desteklenmesinde öğrencilerin somut ve sanal manipülatiflerden yararlanmaları sağlanabilir ( MAB5 ) . Yürütülen tartışma sürecinde öğrencilerin dik dairesel silindirin yüzey alanı bağıntısına yönelik çıkarım yapmaları beklenir. Öğrencilerin çıkarımlarını farklı dik dairesel silindir örnekleri üzerinden değerlendirmeleri için uygun öğrenme ortamı oluşturulur. Ayrıca bir dik dairesel silindir modelinden (köpük, sünger gibi malzemelerden üretilmiş modelden veya sanal modelden) ( MAB5 ) kesilen parçaların temsil ettiği geometrik cisimlerin (örneğin dikey dilimlenmiş bir dik dairesel silindir modelinden elde edilen dilimlerin temsil ettiği geometrik cisimlerin) yüzey alanlarının nasıl hesaplanabileceğini değerlendirmeye ve sınıf içi tartışmalar içerisinde fikirlerini birbirlerine açıklamaya teşvik edilirler ( D14.1 ) .",
+    "Şekil 2. Dikey Dilimlenmiş Dik Dairesel Silindir Modelinden Elde Edilen Dilimler",
+    "Dik dairesel silindirin yüzey alanının hesaplanmasında kültürel ve mimari eserlerden örnekler incelenerek saygı değeri çerçevesinde sınıf içi tartışmalar yapılabilir ( D14.1 , OB9 ) Örneğin öğrencilerden Türk İslam sanatlarında silindir şeklindeki öğeleri (Erzurum'daki Çifte Minareli Medrese gibi) incelemeleri istenerek bu sanatları tanımaları, silindirin mimaride hem işlevsel hem de estetik açıdan önemli bir rol oynadığını görmeleri sağlanabilir. İşlevsel olarak bu öğelerin yapısal sağlamlığa sahip olduğunu, estetik olarak ise yapılara ve eşyalara zarafet ( D7.1 ) kattığını fark etmeleri beklenir. Tartışma sürecinde öğrencilerin mimari eserlerde yükseklik ve çap uzunluğunu tahmin ederek ( KB2.12 ) yüzey alanını yaklaşık olarak hesaplamaları sağlanabilir. Çeşitli problem durumlarında dik dairesel silindirin yüzey alanının hesaplanmasına yönelik (örneğin silindir sütunları kaplamak için ne kadar malzeme kullanılabileceği) açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme sorularından oluşan bir çalışma kâğıdı kullanılabilir.",
+    "MAT.8.4.3 Öğrencilerin dairenin alan bağıntısının oluşturulma sürecinde eş daire dilimleriyle oluşan dikdörtgenin alanı ile dairenin alanı arasındaki ilişkiyi gözden geçirmeleri istenir. Öğrencilere eş dik dairesel silindir modelleri (köpük, sünger gibi malzemelerden üretilmiş modeller veya sanal manipülatifler) ( MAB5 ) verilerek çeşitli büyüklüklerde (4, 8, 16, 32 gibi çift sayılarda) eş dilimlere ayırmaları ve dilimleri yeniden birleştirerek farklı geometrik cisim modelleri oluşturmaları beklenir. Öğrencilerin dik dairesel silindir modelinin daha küçük eş dilimleri ile oluşan geometrik cisim modelinin dikdörtgenler prizması modeline dönüştüğünü gözlemlemeleri sağlanır ( E3.4 , OB4 ) . Ardından öğrencilerin dik dairesel silindirin hacmi ve oluşmakta olan dikdörtgenler prizmasının hacmi arasındaki ilişkiyi belirleyebilecekleri tartışma ortamı oluşturulur.",
+    "Şekil 3. Dik Dairesel Silindir Modelinin 4 ve 32 Eş Dilimi ile Oluşturulan Geometrik Cisim Modeli Örnekleri",
+    "Öğrencilerin dik dairesel silindirin elemanları ile prizmanın hacmini ilişkilendirmelerine fırsat verilir. Meydana gelen dikdörtgenler prizmasının ayrıt uzunluklarının sırasıyla dik dairesel silindirin yüksekliğine, tabana ait yarıçap uzunluğuna ve tabanının çevre uzunluğunun yarısına eşit olduğuna dair çıkarımlar yapmaları beklenir. Ardından öğrencilerin modelledikleri dik dairesel silindirin hacim bağıntısını matematiksel temsil yolları ( MAB3 ) aracılığıyla farklı stratejiler kullanarak ifade etmelerine fırsat verilir. Öğrencilere dik dairesel silindirin yüzey alanını ve hacmini hesaplamaya ilişkin deneyimlerini kullanabilecekleri performans görevi verilebilir. Öğrencilerin dikdörtgenler prizması ve dik dairesel silindir şeklindeki paketli gıdaların paket maliyetini azaltmaya yönelik fikirler ortaya koymaları için aynı hacme sahip, yüzey alanları farklı dikdörtgenler prizmaları tasarlayacakları performans görevi hazırlamaları istenir. Böylece paketlemede kullanılan malzemenin boyutunun küçültülmesine yönelik fikirler öne çıkarılarak prizmaların yüzey alanları ve hacimleri arasındaki değişimi deneysel çalışmalar yoluyla sorgulamalarına fırsat verilir. Tasarım sürecinde somut materyaller ya da matematik yazılımı kullanılarak silindir modelleri oluşturmaya yönelik çalışmalar yapmaları sağlanır ( MAB5 , OB2 ) . Performans görevinin değerlendirilmesinde uygun silindirin seçimi, modellenmesi, yüzey alanının ve hacminin hesaplanması gibi kriterleri barındıran bütüncül veya analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D7.1"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.12"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/475"
+}

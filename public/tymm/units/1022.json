@@ -1,0 +1,44 @@
+{
+  "unitId": 1022,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "1. TEMA: KOROYU TANIYALIM",
+  "hours": "4",
+  "description": "Temada öğrencilerin üyelerine göre oluşan koro türlerini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.3.1.1",
+      "title": "Üyelerine göre koro türlerini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "çocuk koroları, erkek koroları, kadın koroları, karma korolar",
+  "support": [
+    "Öğrencilerin üyelerine göre oluşan koro türlerini kavramalarına yönelik daha fazla görüntülü materyal kullanılır, hazır bilgi kartları verilerek süreç desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden dünyadaki veya ülkemizdeki ünlü çocuk koroları, kadın koroları, erkek koroları ve karma korolarla ilgili araştırma yapmaları ve bu araştırmalarını sınıf ortamında arkadaşlarıyla paylaşmaları istenebilir. Ayrıca bu korolara ait görüntülü kayıtları sınıfta arkadaşlarıyla paylaşmaları sağlanabilir. Öğrenciler, yaşadıkları il veya ilçede çeşitli kurumlar bünyesinde faaliyet gösteren çocuk korolarında görev almaya yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı, performans görevi kullanılarak değerlendirilebilir. Öğrencilere üyelerine göre oluşan koro türlerini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.3.1.1 Öğrencilere sorular sorularak koronun tanımına yönelik bilgilerini hatırlamaları sağlanır. Üyelerine göre \"çocuk korosu\", \"kadın korosu\", \"erkek korosu\", \"karma korolar\" gibi koro türleri ile ilgili sınıfta çeşitli görsel, işitsel ve görüntülü materyaller paylaşılarak öğrencilerin konuyu merak etmeleri sağlanır ( OB4 , E1.1, TAB1 ). Paylaşılan materyallerin ardından kısa bir açıklama yapılır ve öğrencilerden materyallerle ilgili ilk izlenimlerini paylaşmaları istenir. \"Sizce izlediğiniz koroların üyelerine göre farklı olmasının sebebi nedir? Çocuk korosunun diğer korolardan farkı nedir? Kadınlar korosunun diğer korolardan farkı nedir? Erkekler korosunun diğer korolardan farkı nedir? Karma koroların diğer korolardan farkı nedir?\" gibi sorular sorularak öğrencilerin üyelerine göre oluşan koro türleri ile ilgili düşüncelerini sınıf içinde ifade etmeleri beklenir ( D3.3 , SDB2.1 ). Bu koroların özellikleri açıklanır. Öğrencilere üyelerine göre oluşan koro türlerini açıklayabilmelerine yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ],
+    "diger": [
+      "TAB1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1022"
+}

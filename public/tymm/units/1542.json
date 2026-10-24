@@ -1,0 +1,60 @@
+{
+  "unitId": 1542,
+  "grade": 0,
+  "gradeName": "I. DÜZEY BİLİM UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY III · 1. Tema: Günlük Hayatta Bilim",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.BU.1.1.1",
+      "title": "Evde sürdürülebilir gıda tüketimine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Evdeki gıda tüketiminin niteliklerini tanımlar.",
+        "b) Evdeki gıda tüketimine yönelik veri toplar ve kaydeder.",
+        "c) Evdeki gıda tüketimine ilişkin topladığı verileri yorumlar ve bu yorumları sürdürülebilirlikle ilişkilendirerek değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.1.2",
+      "title": "Günlük hayatta ısı alışverişine ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Isı alışverişine ilişkin nitelikleri tanımlar.",
+        "b) Günlük hayatta ısı alışverişi içeren örneklere ilişkin veri toplar ve bu verileri kaydeder.",
+        "c) Topladığı verileri hâl değişimi ve genleşme-büzülme olaylarıyla ilişkilendirerek açıklar."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.1.3",
+      "title": "Basit elektrik devrelerinden hareketle günlük hayatta elektriğin kullanımına ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Basit elektrik devrelerinden hareketle günlük hayatta elektriğin kullanımına ilişkin nitelikleri tanımlar.",
+        "b) Basit elektrik devrelerinden hareketle günlük hayatta elektriğin kullanımına ilişkin veri toplar ve bu verileri kaydeder.",
+        "c) Ulaştığı verileri yorumlar ve değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "bilinçli tüketici, buharlaşma, büzülme, donma, elektrik çarpması, elektrik iletimi, erime, genleşme, hâl değişimi, iletken, israf, sürdürülebilir gıda tüketimi, yalıtkan, yoğuşma",
+  "support": [
+    "Günlük hayatında gıda israfını önleyebilecek uygulama adımlarını belirleyerek posterle sunmaları istenebilir. Günlük hayatta ısı alışverişi içeren örneklere ilişkin dijital içeriklerle pekiştirme yapmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Gıda atığı miktarını en aza indirebilmek için uygulanabilir bir gıda tüketim planı hazırlamaları istenebilir. Hazırladıkları planı çevreleriyle paylaşarak uygulanması konusunda farkındalık oluşturmaları sağlanabilir. Sürdürülebilir gıda tüketimi konusunda günlük hayatta uygulanabilir çözümleri içeren bir bilinçlendirme projesi hazırlaması istenebilir. Isı yalıtımı sağlayabilecekleri ve günlük hayatta kullanabilecekleri bir kap modeli tasarlamaları istenebilir. Elektrik tesisatlarındaki sigortaların ve kaçak akım rolelerinin kullanım amaçlarına yönelik araştırma yaparak elde ettikleri sonuçları sınıf ortamında sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, tanılayıcı dallanmış ağaç, eşleştirme testleri, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca tema sürecinde ortaya çıkan öğrenci ürünleri ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. Evde sürdürülebilir gıda tüketimine ilişkin afiş, poster vb. performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MBU.BU.1.1.1.",
+    "Evde gıda tüketimini içeren örnek olay verilerek öğrencilerin tartışmaları istenebilir ( E1.1 , SDB2.1 ). Evde gıda tüketimiyle ilgili merak ettikleri soruları sormaları istenir ( E1.1 , E3.8 ). Evde gıda tüketimine dikkat edip etmedikleri sorularak öğrencilerin deneyimlerini açıklamaları istenebilir ( SDB1.1 , SDB2.1 , D17.1 ). Evde gıda tüketiminin niteliklerini tanımlamaları beklenir ( E3.4 ). Öğrencilerden evde gıda tüketimine yönelik bilgi toplamaları ve topladıkları bu bilgileri kaydetmeleri istenir ( KB2.6 , OB1 , OB8 ). Öğrencilerin evdeki gıda tüketimine ilişkin topladığı verileri yorumlamaları ve sürdürülebilirlikle ilişkilendirerek değerlendirmeleri beklenir ( D5.2 , D19.3 , SDB2.3 , E2.2 ). Öğrencilerin ulaştıkları bilgiler zihin haritası vb. ile özetlemeleri istenebilir. Bilinçli tüketici davranışları ve gıda israfına değinilerek evde sürdürülebilir gıda tüketimi konusunda yapılabilecekler listelenir. Öğrencilerin yanlış davranışlarını belirleyip doğrularıyla değiştirmeleri teşvik edilebilir ( SDB1.2 , SDB2.3 , E2.2 ). Doğru davranışlar konusunda çevrelerini de bilgilendirerek sürdürülebilir gıda tüketimi konusunda farkındalık oluşturmaları istenebilir. Öğrencilere ulaştıkları bilgilerden yararlanarak evde sürdürülebilir gıda tüketimine ilişkin afiş, poster vb. hazırlayarak çevrelerinde bilinçlendirme çalışmaları yürütmelerini içeren performans görevi verilebilir ( OB4 , SDB2.3, SDB3.3 , D17.2 ). Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede çalışma kâğıdı, açık uçlu sorular vb. kullanılabilir.",
+    "MBU.BU.1.1.2",
+    "Öğrencilere maddelerin sıcaklık değişiminin nelere bağlı olduğu hakkında açık uçlu sorular yöneltilebilir. Bu konuda merak ettiği soruları sormaları istenir ( E1.1 , E3.8 ). Günlük hayatta maddelerin ısı alması ya da ısı vermesi sonucunda maddelerde meydana gelen değişimler ile ilgili örnekler vermeleri istenir ( D3.3 ). Öğrencilerin verilen örnekleri inceleyerek maddenin ısı alışverişine ilişkin niteliklerini tanımlamaları beklenir ( OB1 ). Isı alışverişi yapan maddelerdeki değişimleri gözlemleyebilmeleri için sınıf ortamında gösteri deneyleri yapılabilir ( E1.1 , E3.6 ). Yapılan etkinliklerden yararlanarak grup olarak günlük hayatta ısı alışverişi içeren örneklerle ilgili veri toplamaları ve topladıkları bu verileri kaydederek raporlaştırmaları sağlanır ( SDB2.2 , KB2.6 , OB7 ). Öğrencilerden verilen örnekler ve yapılan etkinliklerde meydana gelen değişimleri genleşme-büzülme ve hâl değişimi olaylarıyla ilişkilendirerek açıklamaları istenir ( D3.3 ). Günlük hayatta ısı alışverişiyle gerçekleşen olaylara ait örnekler çeşitlendirilebilir. Sürecin tamamına ilişkin değerlendirmede eşleştirme testleri, tanılayıcı dallanmış ağaç, açık uçlu sorular vb. kullanılabilir.",
+    "MBU.BU.1.1.3.",
+    "Öğrencilere basit elektrik devresi ile ilgili açık uçlu sorular sorulur. Öğrencilerden elektriğin kullanıldığı alanlar ile ilgili günlük hayattan örnekler vermeleri istenir ( D3.3 ). Öğrencilerin sınıfta, basit elektrik devresi üzerinde, devre elemanlarının elektriği iletme durumlarını ve görevlerini ifade etmeleri sağlanabilir ( E3.4 ). Elektriğin iletilmesi ve iletilmemesinin sağladığı yararları açıklamaları istenebilir. Bu süreçte evlerde kullanılan elektrikli aletlerin ortak özelliklerini bulmaları sağlanabilir ( KB2.6 , KB3.2 , D3.4 ). Gruplara ayrılarak tartışma yöntemiyle basit elektrik devrelerinden hareketle evlerde kullanılan elektrikli aletlere ilişkin nitelikleri tanımlamaları beklenir ( SDB2.2 , OB1 ). Öğrenciler gruplara ayrılarak elektrikli ev aletlerinde elektrik çarpmasını önlemek için alınacak önlemlere yönelik veri toplamaları ve topladıkları verileri çalışma kâğıdına kaydetmeleri sağlanır ( OB7 ). Öğrencilerden ulaştıkları verileri yorumlayıp değerlendirmeleri beklenir. Öğrencilerle birlikte elektrik çarpmalarını önlemeye yönelik alınacak tedbirler listelenir ( E3.4 , D16.3 , SDB1.2 , SDB3.3 ). Elektrik çarpması durumunda neler yapılacağına ilişkin açıklama yapılır. Sürecin değerlendirilmesinde tanılayıcı dallanmış ağaç, açık uçlu sorular vb. ölçme araçları kullanılabi"
+  ],
+  "skills": [
+    "FBAB1. Bilimsel Gözlem, FBAB8. Bilimsel Çıkarım Yapma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1542"
+}

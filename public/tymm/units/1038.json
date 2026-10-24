@@ -1,0 +1,49 @@
+{
+  "unitId": 1038,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "1. TEMA: KOROYU TANIYALIM",
+  "hours": "4",
+  "description": "Temada öğrencilerin koro kavramının tarihçesini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.7.1.1",
+      "title": "Koro kavramının tarihçesi ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Koro kavramının tarihçesi ile ilgili bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Koro kavramının tarihçesi ile ilgili bilgileri bulur.",
+        "c) Koro kavramının tarihçesi ile ilgili bilgileri doğrular.",
+        "ç) Koro kavramının tarihçesi ile ilgili bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "koro, koro tarihi, müzik tarihi",
+  "support": [
+    "Destekleme sürecinde öğrencilere koro kavramının tarihsel süreciyle ilgili tekrarlar yaptırılabilir. Konunun pekişmesi için sınıfta öğrencilerle çeşitli materyaller paylaşılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin dünyada koro seslendirmelerinin yapıldığı tarihî mekânlarla ilgili araştırma yapmaları ve araştırma sonuçlarını arkadaşlarıyla paylaşmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı, performans görevi ve öz değerlendirme formu ile değerlendirilebilir. Öğrencilere koro kavramının tarihçesini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.7.1.1 Öğrencilere koro kavramının kökeni ve tarihçesine ilişkin \"Müzik tarihini bilmek neden önemlidir? Koro kelimesinin kökeni nereden gelmektedir? Koro tarih boyunca toplumlar için neden önemli yer tutmuştur?\" gibi sorular sorularak öğrencilerin konuyu merak etmeleri sağlanır ( E1.1 ). Öğrencilerden gruplara ayrılmaları istenir ( D4.2 , SDB2.2 ). Grupların koro kavramının tarihçesini araştırmaları istenerek araştırmaları için kullanacakları araçları belirlemeleri istenir. Öğrencilere araştırmalarını yaparken güvenilir kaynaklar kullanmaları gerektiği vurgulanır. Grupların koro kavramının tarihçesi ile ilgili bilgileri güvenilir kaynaklardan bulmaları beklenir ( OB1 ). Grupların farklı kaynaklar kullanarak buldukları bilgileri doğrulamaları istenir. Öğrencilerin buldukları bilgileri çeşitli yollarla (kompozisyon, sunum vb.) kaydetmesi sağlanır. Öğrencilerin koro kavramının kökenini araştırmalarına yönelik performans görevi verilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir ."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1038"
+}

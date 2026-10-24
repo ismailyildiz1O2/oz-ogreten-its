@@ -1,0 +1,102 @@
+{
+  "unitId": 1559,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi",
+  "title": "1. Ünite: Bilim, Bilgi, Araştırma Ve Proje",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PTU.1.1",
+      "title": "Bilim, bilgi, araştırma ve proje kavramlarını sorgulayabilme",
+      "processComponents": [
+        "a) Bilgi, bilim, araştırma ve proje kavramlarını tanımlar.",
+        "b) Bilgi, bilim, araştırma ve proje kavramları hakkında sorular sorar.",
+        "c) Bilgi, bilim, araştırma ve proje kavramları hakkında bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "PTU.1.2",
+      "title": "Bilim, bilgi, araştırma ve projenin özellikleri ve önemi hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Bilgi, bilim, araştırma ve projenin özellikleri ve önemi hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Bilgi, bilim, araştırma ve projenin özellikleri ve önemi hakkındaki bilgileri bulur.",
+        "c) Ulaşılan bilgileri doğrular.",
+        "ç) Ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "PTU.1.3",
+      "title": "Bilim, bilgi, araştırma ve proje arasındaki ilişkiyi genelleyebilme",
+      "processComponents": [
+        "a) Bilgi, bilim, araştırma ve proje hakkında bilgi toplar.",
+        "b) Bilgi, bilim, araştırma ve proje kavramları arasındaki ortak özellikleri belirler.",
+        "c) Bilgi, bilim, araştırma ve proje kavramları arasındaki ortak olmayan özellikleri belirler.",
+        "ç) Bilgi, bilim, araştırma ve proje kavramları arasındaki örüntüler üzerinden önermede bulunur."
+      ]
+    },
+    {
+      "code": "PTU.1.4",
+      "title": "Bilgi ile bilimsel bilgiyi karşılaştırabilme",
+      "processComponents": [
+        "a) Bilgi ile bilimsel bilgiye ilişkin özellikleri belirler.",
+        "b) Bilgi ile bilimsel bilgiye ilişkin benzerlikleri listeler.",
+        "c) Bilgi ile bilimsel bilgiye ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "PTU.1.5",
+      "title": "Proje hazırlamanın gerekçeleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Proje hazırlamanın gerekçeleri hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Proje hazırlamanın gerekçeleri hakkındaki bilgileri bulur.",
+        "c) Ulaşılan bilgileri doğrular.",
+        "ç) Ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "PTU.1.6",
+      "title": "Bilimsel bilgiye sahip araştırmaların özelliklerini sınıflandırabilme",
+      "processComponents": [
+        "a) Bilimsel bilgiye sahip araştırmaların niteliklerini belirler.",
+        "b) Bilimsel bilgiye sahip araştırmaları niteliklerine göre ayrıştırır.",
+        "c) Bilimsel bilgiye sahip araştırmaları gruplandırır.",
+        "ç) Bilimsel bilgiye sahip araştırmaları etiketler."
+      ]
+    }
+  ],
+  "keyConcepts": "araştırma, bilgi, bilim, bilimsel bilgi, proje",
+  "support": [
+    "Dijital içeriklerden video, animasyon, belgesel vb. etkinlikler ile ünitedeki kavramların somutlaştırılmasında, kavramsal anlayışının kolaylaştırılmasında ve pekiştirilmesinde kullanılabilir.",
+    "Öğrencilerden bilgi günlüğü tutmaları istenebilir. “Bugün ne öğrendim?” sorusuna cevap olarak öğrencilerin, edindikleri bilgilerin bilimsel bilgi olup olmadığını değerlendirmeleri ve not almaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin Cezeri’nin otomatlarını araştırıp bunun günlük yaşamdaki yapay zekâ ile ilişkisini analiz edip sunmaları sağlanabilir.",
+    "Öğrencilerin bir araştırmanın proje yaklaşımına göre hazırlanıp hazırlanmaması arasındaki temel farklılıkları bir tablo şeklinde göstermesi sağlanabilir. Öğrencilerden tabloyu bilgisayar ortamında tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrencilerin bilim, bilgi, araştırma ve proje kavramlarını, bilimsel araştırmanın özelliklerini ve bu kavramlar arasındaki ilişkiyi kavrayabilmeleri amacıyla \"Araştırmadan Önce Bildikle rim-Araştırırken Öğrendiklerim Tablosu\" oluşturmaları ve doğruladıkları bilgilerin benzerlik ve farklılıklarını karşılaştırma tablosunda göstermeleri sağlanır. Bu çalışma performans görevi olarak değerlendirilir. Öğrenciler elde ettikleri sonuçları yazılı bir rapor hâlinde sunar ve öğretmen, etiketleme çalışma yaprağındaki verilere dayanarak değerlendirme yapabilir."
+  ],
+  "teachingApplications": [
+    "PTU1.1",
+    "Öğretmen sınıfa bilgi, bilim, araştırma ve proje kavramlarını içeren görsel, video vb. materyalleri getirir. Öğrencilerin bunları incelemesi ve izlemesi sağlanır ( OB4 ). Bu aşamada içeriklere bağlı olarak öğrencilerin bu kavramları tanımlaması hedeflenir. Öğrencilerin inceleme sürecinde bu kavramlarla ilgili sorular sormaları teşvik edilir. Örneğin bu kavramların tarihsel gelişimi, birbiriyle ilişkisi veya güncel örneklerle bağlantısını sağlamak için güncel haberler sınıfta paylaşılabilir; bilgi, bilim, araştırma ve proje örnekleri tanıtılabilir veya bilgilendirici sunumlar yapılabilir. Öğrencilerden bu kavramlar hakkında araştırma yapmaları istenir. Toplanacak bilgilerin farklı ve güvenilir kaynaklardan elde edilmesi sağlanır ( D3.3 ). Toplanan bilgiler, öğrenciler tarafından eleştirel bir bakış açısıyla değerlendirilir. Öğrencilerin bilgilerin doğruluğunu sorgulaması, farklı bakış açılarını analiz etmesi ve güvenilir kaynakları ayırt etmesi için çeşitli etkinlikler düzenlenir ( E1.1 , E3.2 , E3.4 ). Örneğin öğretmen, öğrencilerin yerli ve millî projeleri incelemesini sağlayarak ülkesinin kalkınmasını ve gelişmesini destekler ifadesini somutlaştırır ( D19.4 ). Öğrencilerden bilgi, bilim, araştırma ve pro je kavramlarıyla ilgili verilerin nereden ve nasıl elde edilebileceğini analiz etmeleri; bilimsel kaynaklar ile popüler medyanın yaklaşımını karşılaştırarak güvenilir ve doğru bilgiyi ayırt etmeleri beklenir. Öğrenciler bu bilgiler yoluyla bilginin güvenilirliğini değerlendirir, farklı bakış açılarını analiz eder ve doğru bilgiye ulaşma yöntemleri hakkında çıkarım yapar ( KB2.16 ). Öğrencinin bilgi toplamadan analiz ve anlamlandırmaya kadar geçen süreci kapsayan verileri oluşturması sağlanır, bu çalışma performans görevi olarak değerlendirilir ve dereceli puanlama anahtarı ile puanlanır. ( SDB2.1 )",
+    "PTU1.2",
+    "Öğrencilerden bilgi, bilim, araştırma ve projenin özelliklerini tartışma, soru cevap, drama gibi yöntem ve etkinliklerle incelemeleri istenir (OB1). İnceleme sırasında bilgi, bilim, araştırma ve projenin özellikleri ve önemi hakkında bilgiye ulaşmak için kullanacağı TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu), TDK (Türk Dil Kurumu), TÜİK (Türkiye İstatistik Kurumu), TTK (Türk Tarih Kurumu), üniversite kütüphaneleri, ULAKBİM (Ulusal Akademik Ağ ve Bilgi Merkezi) gibi araçları belirlemeleri sağlanır. Öğrenciler belirledikleri araçları kullanarak bilgi, bilim, araştırma ve projenin özellikleri ve önemi hakkındaki bilgileri bulur. Öğrencilerden elde ettikleri bilgileri bu süreçte kullanmadıkları veri kaynaklarından kontrol edip doğrulamaları sağlanır. Öğrencilerden doğruladıkları bilgilerin benzerlik ve farklılıklarını belirleyerek bir karşılaştırma tablosunda göstermeleri istenir ( SDB3.3 , OB7 ).",
+    "PTU1.3",
+    "Sınıfa bilgi, bilim, araştırma ve proje kavramlarını anlatan bir belgesel veya video getirilir ve öğrencilerin izlemesi sağlanır. Öğrencilerden belgesel veya video izlerken bilgi, bilim, araştırma ve proje kavramlarıyla ilgili dikkatlerini çeken hususları defterlerine not etmeleri istenir (E1.1) . Belgesel veya video izlendikten sonra öğrencilerden bilgi, bilim, araştırma ve proje kavramları üzerine tartışmaları beklenir (OB4) . Öğrencilerden belgesel veya videoda gördükleri bilgi, bilim, araştırma ve proje kavramlarının ortak ve farklı özelliklerini belirlemeleri istenir. Öğrencilerden kendi aralarında grup oluşturmaları istenir, oluşturulan grupların kendi aralarından bir sözcü̈ seçmeleri sağlanır (SDB2.1) . Oluşturulan gruplardan izledikleri belgesel veya videodan yola çıkarak konuyu tartışmaları istenir (KB2.18) . Gruplardan tartışma sonunda elde ettikleri verileri süreç, hedef kitle, özgünlük, maliyet, deneysellik, yöntem, aktarılabilirlik, güncellik, tür gibi değişkenleri dikkate alarak bir tablo hâline getirmeleri istenir ( OB7 , D3.2 ) . Örneğin öğretmen, öğrencilerin çevresel sürdürülebilirlik içeren projeleri incelemesini sağlayarak \"Çevresini korumak ve güzelleştirmek için girişimlerde bulunur.\" ifadesini somutlaştırır (D5.2) . Öğrencilerden oluşturdukları tabloları yorumlayarak verim li ve etkin bir projenin nasıl olması gerektiği yönünde önermelerde bulunmaları beklenir (E3.5) . Örneğin öğrencilerden bir projenin çevresel sürdürülebilirliğe etkisini incelerken bi limsel gelişim için merak duygusunu kullanarak farklı proje türlerini karşılaştırmaları, kalıcı ve sürdürülebilir çözümler üretmeleri beklenir (D3.3) . Bu önermeler grup sözcüleri tara fından açıklanır. Gruplardan daha önce oluşturdukları tablo verileri ile araştırma sonuçla rından elde ettikleri bilgileri kullanarak iki farklı projeyi karşılaştırmaları istenir. Projelerin benzerlerinden farklı olarak faydalı yönünün, yaygın etkisinin, maliyetinin, hedef kitlelerinin, uygulanabilirliğinin, sürdürülebilir olup olmama özelliklerinin dikkate alınarak karşılaştırılması sağlanır. Bu faktörlere bağlı olarak öğrencilerden karşılaştırdıkları projelerden özgün olanının niçin özgün olduğunu gerekçeleri ile açıklayarak önermelerde bulunmaları beklenir. Bu süreç öğrencilerin oluşturdukları tablonun içeriği ve ifade ettikleri önermeler dikkate alınarak değerlendirilebilir.",
+    "PTU1.4",
+    "Öğretmen, sınıfa bilgi ile bilimsel bilgiye ilişkin örnekler getirir. Öğrencilerden bu örneklerden birini seçerek bilgi ile bilimsel bilgi bakımından incelemeleri ve günlük yaşamdaki etkilerini (olumlu, olumsuz vb. özellikleri) belirlemeleri istenir. Öğrencilerden bilgi ve bilimsel bilginin canlıların yaşamına yaptığı olumlu ve olumsuz etkilerini gerçek yaşam senaryoları ile fark etmeleri beklenir. Bu farkındalık sürecinde öğrencilerden bu etkilere ilişkin benzerlikleri listeleyip defterlerine not etmeleri istenir. Öğrencilerin doğayı ve canlıları koruma bilinci geliştirmeleri amacıyla bilgi ve bilimsel bilginin etkileri üzerinde düşünmeleri sağlanır (D14.3) . Öğrencilerden bilgi ile bilimsel bilginin kullanım sürecinde doğaya olan etkileri üzerine tartışmalar yaparak sürdürülebilirlik, çevreyi koruma vb. konularda farklılıkları listelemeleri istenir.",
+    "''Sarı sıcak, mavi soğuk renktir. İkisi karıştırıldığında yeşil olur.\", \"Maden suyuna limon sıkınca kabarcıklar oluşur.'' vb. örnekler üzerinden öğrencilerin bilgi ile bilimsel bilgi arasındaki ilişkiyi deneyimleyebilecekleri bir ortam oluşturulur. Öğrencilere sürdürülebilirlik açısından önemli olan, yerel kültürle ilgili bir problem belirleyip; objektiflik, olgusallık, genelleyicilik, evrensellik, birikimlilik, tutarlılık, tekrarlanabilirlik, uygulanabilirlik, eleştirellik, sistemlilik, düzenlilik ölçütlerine göre bilimsel bilgi içeren bir proje geliştirerek bu projeyi günlük yaşamdan elde edilen güncel bilgilerle karşılaştırmaları için performans görevi verilir ve bu performans görevi rubrik ile değerlendirilir.",
+    "PTU.1.5",
+    "Öğrencilerden proje hazırlamanın gerekçelerini; tartışma, soru cevap gibi yöntem ve etkinliklerle incelemeleri istenir (OB1) . Öğrenciler inceleme sırasında proje hazırlamanın gerekçelerine ulaşmak için kullanacağı araçları (kitap, makale, proje metinleri, elektronik dergiler vb.) belirler ve bu doğrultuda bilgilere erişir. Öğrencilerin elde ettikleri bilgileri TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) , TÜİK (Türkiye İstatistik Kurumu), Kalkınma Ajansları, EU (Avrupa Birliği), eTwinning, Harezmi, AR-GE, Bilimsel Araştırma Projeleri (BAP) gibi kaynaklardan doğrulamaları sağlanır. Öğrencilerden doğruladıkları bilgileri bir rapor hâlinde sunmaları istenir ( SDB3.3 , OB7 ) .",
+    "PTU.1.6",
+    "Öğrencilerden bilimsel bilgiye dayalı araştırmaların doğru, tutarlı, özgün, kanıta dayalı, nesnel, ölçülebilir, evrensel ve sistematik niteliklerini belirlemek için soru cevap, beyin fırtınası vb. yöntemleri uygulamaları beklenir (SDB2.1) . Bu nitelikler belirlendikten sonra öğrenciler gruplara ayrılır. Öğrencilerin gruplar hâlinde çalışma becerisi kazanması için belirli roller üstlenip iş birliği içinde karar alması sağlanır (SDB2.2) . Bir öğrenci liderlik yaparken bir diğeri araştırdığı bilgileri grup arkadaşlarına açıklayarak tartışmanın yönlendirilmesine kat kıda bulunabilir (D3.4) . Örneğin bir gruptan sağlık, mühendislik, sosyal bilimlerde bilimsel bilgiye sahip araştırmaları ayrıştırması istenirken diğer gruptan iklim krizi, aile birliği, sosyal sorumluluk vb. konularda aynı niteliklere bağlı olarak ayrıştırma yapması istenebilir. Ayrıştırma sonrasında her iki grubun da üzerinde çalıştıkları bilimsel bilgiye sahip araştırmaları gruplandırmaları sağlanır. Ayrıştırma ve gruplama işlemleri gerçekleştirildikten sonra her öğrenciden bireysel olarak verilen bilimsel bilgi içeren araştırmaları etiketlemeleri beklenir. Öğretmen, öğrencilerin yaptıkları etiketleme çalışma yaprağındaki verilere dayalı olarak değerlendirme yapabilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1559"
+}

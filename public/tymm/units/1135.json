@@ -1,0 +1,58 @@
+{
+  "unitId": 1135,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "2. TEMA: BAĞLAMADA SÜSLEME TEKNİĞİNİ ÖĞRENİYORUM",
+  "hours": "24",
+  "description": "Temada bağlamada süsleme tekniğini tezene ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.5.2.1",
+      "title": "Bağlamada süsleme tekniğini çalabilme",
+      "processComponents": [
+        "a) Bağlamadaki süsleme tekniğini çözümler.",
+        "b) Bağlama ile süsleme tekniğini çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Bağlama ile süsleme tekniğini çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlama ile süsleme tekniğinin müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "süsleme",
+  "support": [
+    "Öğrenciler, kendi hızlarında süsleme tekniklerini öğrenebilmeleri için etüt uygulamaları yapabilirler. Öğrencilerin seviyelerine göre farklı geri bildirimlerde bulunarak uygun alıştırmalar verilebilir. Süsleme tekniğini uygulamada zorlanan öğrenciler için kısa ezgilerde veya yavaş tempoda uygulayarak desteklenebilir."
+  ],
+  "enrichment": [
+    "Farklı Türk halk müziği ve Türk sanat müziği eserlerinde kullanılan süsleme teknikleri arasındaki farkları araştırmaları ve bunları müzikle nasıl ifade edebileceklerini keşfetmeleri teşvik edilebilir. Öğrendikleri süsleme tekniklerini kullanarak kısa bir müzik parçası yaratabilir veya var olan bir halk müziği parçasını kendi yorumlarıyla özgün bir şekilde düzenleyebilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi, dereceli puanlama anahtarı ve akran değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden süsleme tekniğini bağlama ile uygulayabilmeleri istenebilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.5.2.1",
+    "Öğrencilere bağlamada doğru duruş ve tutuş pozisyonunun önemi anlatılır. Bağlamadaki süsleme tekniği ve nasıl kullanıldığı açıklanır ( OB1 ). Bu teknikle ilgili görsel ve işitsel örnekler sunulur ( SDB2.1 , OB4 ). Öğrenciler, öğretmenin rehberliğinde bu tekniği çalışmaya başlar. Her öğrencinin bağlamada süsleme tekniklerini doğru şekilde kullanıp kullanmadığı gözlemlenir ve öğrenciye geri bildirim sağlanır. Öğrenciler sırasıyla belirli bir süsleme tekniği üzerinde çalışırken öğretmen, tekniği doğru kullanmalarını sağlamak için adım adım yönlendirme yapar. Öğrencilere süsleme tekniklerinin müziksel anlamı ve nasıl ifade edilmesi gerektiği hakkında bilgi verilir ( SDB2.1 ). Ayrıca süsleme tekniklerinin müziğin duygusal ve estetik yönlerine nasıl katkıda bulunduğu anlatılır ( SDB2.1 , E3.2 ). Öğrenciler, bağlama ile süsleme tekniklerini bir parçada uygulamaya başlar ( OB9 ). Örneğin öğrendikleri bir türküyü süslemeli bir şekilde çalmaları istenir ( D16.1 ). Öğrenciler tekniği kullanarak birbirlerinin çaldığı parçaları dinler ve geri bildirimde bulunur. Böylece öğrencilerin birbirlerinden öğrenmeleri sağlanır ( SDB2.1 , D3.4 ). Her öğrenci, süsleme tekniklerinin müzikte nasıl bir etki yarattığını paylaşır ( SDB2.1 , D11.2 ). Öğrenciler, belirli bir süsleme tekniğini doğru ve etkili bir şekilde çalabilmek için sürekli olarak pratik yaparlar ( D3.2 , D12.3 ). Pratik sırasında öğretmen, öğrencilerin performanslarını takip eder ve düzeltmelerde bulunur. Öğrenciler, ses kayıt aracılığıyla çaldıkları parçaları kaydeder ve kendi performanslarını dinleyerek süsleme tekniklerini ne kadar doğru ve etkili uyguladıklarını değerlendirirler ( SDB1.2 , D10.1 )."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D11.2",
+      "D12.3",
+      "D16.1",
+      "D3.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1135"
+}

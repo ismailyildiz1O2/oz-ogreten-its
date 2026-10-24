@@ -1,0 +1,34 @@
+{
+  "unitId": 81424057,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "57. ÜNİTE: KANUN - TELLERDEN SES ÇIKARTMA ÇALIŞMALARI",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.8.2.1",
+      "title": "Kaba çargâh ve çargâh ses sahasında basit usullerle mızrap çalışması yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.2.2",
+      "title": "Kaba çargâh ve tiz çargâh ses sahasında basit usullerle mızrap çalışması yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.2.3",
+      "title": "Bileşik usullerle mızrap çalışması yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

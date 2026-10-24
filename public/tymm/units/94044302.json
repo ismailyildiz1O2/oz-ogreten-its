@@ -1,0 +1,42 @@
+{
+  "unitId": 94044302,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "2. ÖĞRENME ALANI: HAREKET KAVRAMLARI VE İLKELERİ",
+  "hours": "9",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BO.4.1.2.1",
+      "title": "Hareket becerileri ile ilgili kavramları yerinde kullanır",
+      "processComponents": [
+        "Tüm FEK’lerden yararlanılabilir."
+      ]
+    },
+    {
+      "code": "BO.4.1.2.2",
+      "title": "Oynadığı oyunların içindeki hareket becerilerini tanımlar",
+      "processComponents": [
+        "Tüm FEK’lerden yararlanılabilir."
+      ]
+    },
+    {
+      "code": "BO.4.1.2.3",
+      "title": "Oyun ve fiziki etkinliklerde kendisinin ve arkadaşlarının performanslarını değerlendirir",
+      "processComponents": [
+        "Tüm FEK’lerin “Öğrenme Anahtarı” bölümlerinden yararlanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Hareket Yetkinliği",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20181023115223781-06-Beden%20E%C4%9Ftimi%20ve%20Oyun%202018-124%20Eki%20%C3%96P.pdf.pdf"
+}

@@ -1,0 +1,70 @@
+{
+  "unitId": 81292002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Düşünme Eğitimi Dersi (Lise)",
+  "title": "2. ÜNİTE: AKIL YÜRÜTME VE ARGÜMANTASYON",
+  "hours": "20",
+  "description": "Bu ünitenin sonunda öğrenciler kavramların düşünme sürecindeki rolünü yorumlayabilecek, önermeleri özelliklerine göre değerlendirebilecek, farklı akıl yürütme türlerini öncüllerden sonuca ulaşma biçimine göre değerlendirebilecek, argümanları geçerliliği bakımından değerlendirebilecek ve çıkarımlardaki safsataları tespit edebileceklerdir.",
+  "outcomes": [
+    {
+      "code": "DEL.2.1",
+      "title": "Kavramların düşünme sürecindeki rolünü açıklar",
+      "processComponents": [
+        "Kavram ve terim arasındaki ilişki açıklanır.",
+        "Kavramlaştırmanın gerçekliğin açıklanmasına etkisi üzerinde durulur.",
+        "Kavramlar arasındaki ilişki açıklanır ve verilen kavramların birbirleriyle ilişkilerine göre şematik bir biçimde düzenlenmesi sağlanır.",
+        "Kavramların sınıflandırılması ve bölünmesinin günlük yaşamdaki işlevine ilişkin örnekler verilmesi sağlanır.",
+        "Farklı dillerde olup Türkçede bir sözcük ile karşılanmayan kavramların araştırılması ve bu kavramların karşıladığı olay, olgu, durum, nesne ve duyguları yansıtan Türkçe kelimeler üretilmesi sağlanır.",
+        "Farklı alanlara/disiplinlere ait bazı örnek kavramlara değinilerek bunların düşünmeye etkisi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "DEL.2.2",
+      "title": "Önermeleri özelliklerine göre ayırt eder",
+      "processComponents": [
+        "Sözce, tümce ve önerme kavramları açıklanır.",
+        "Basit ve bileşik önermelerin karşılaştırılması sağlanır.",
+        "Olgusal yargılarla değer içeren yargıların sınıflandırılması sağlanır.",
+        "Önermelerin anlam bilimi bakımından doğruluğu, tutarlılığı, olumsallığı ve çelişikliğinin belirlenmesi sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.2.3",
+      "title": "Farklı akıl yürütme türlerini öncüllerden sonuca ulaşma biçimine göre sınıflandırır",
+      "processComponents": [
+        "Akıl yürütmenin bileşenleri (öncül-sonuç) üzerinde durularak öncüllerin sonuca ulaşmadaki işlevi vurgulanır.",
+        "Akıl yürütmede geçerlilik ve sağlamlık açıklanır.",
+        "Verilen akıl yürütme örneklerinin geçerlilik ve sağlamlığının denetlenmesi sağlanır.",
+        "Akıl yürütme türleri açıklanarak farklı akıl yürütme örneklerinin gruplandırılması sağlanır.",
+        "Akıl yürütme türlerinin günlük yaşamdaki kullanım alanlarına değinilir."
+      ]
+    },
+    {
+      "code": "DEL.2.4",
+      "title": "Argümanları geçerliliği bakımından değerlendirir",
+      "processComponents": [
+        "Argüman kavramı açıklanarak verilen argüman örneklerinin geçerli olup olmadığının belirlenmesi sağlanır.",
+        "Günlük yaşamda ve akademik çalışmalarda öne sürülen düşüncelerin argümanlarla desteklenmesinin önemi vurgulanır.",
+        "Günlük yaşamdan argümanlara dayalı konuşma örnekleri hazırlanması sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.2.5",
+      "title": "Akıl yürütmelerde safsataların ve retorik tuzakların etkisini irdeler",
+      "processComponents": [
+        "Akıl yürütmelerdeki safsatalar (biçimsel ve içeriksel yanlışlıklar) ve safsata türleri açıklanır.",
+        "Retorik tuzaklar üzerinde durulur.",
+        "Safsata türlerine ve retorik tuzaklara ilişkin bilgi toplanarak bu safsatalara ve retorik tuzaklara ait örneklerden bir ürünün (sunu, afiş, dergi vb.) oluşturulması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112315487348-DUSUNME%20E%C4%9E%C4%B0T%C4%B0M%C4%B0%20D%C3%96P%2024ekim202.pdf"
+}

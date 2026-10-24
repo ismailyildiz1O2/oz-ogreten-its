@@ -1,0 +1,55 @@
+{
+  "unitId": 94035701,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "1. ÖĞRENME ALANI: DİNLEME-SÖYLEME",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.4.A.1",
+      "title": "Birlikte söyleme kurallarına uyar",
+      "processComponents": []
+    },
+    {
+      "code": "Mü.4.A.2",
+      "title": "İstiklâl Marşı’nı doğru söylemeye özen gösterir",
+      "processComponents": [
+        "Öğrencilerin İstiklâl Marşı’nı ritmine ve ezgisine uygun şekilde ve gelişimsel özellikleri göz önünde tutularak ses sınırları içinde söylemeleri sağlanır."
+      ]
+    },
+    {
+      "code": "Mü.4.A.3",
+      "title": "Farklı ritmik yapıdaki ezgileri seslendirir",
+      "processComponents": [
+        "Öğrencilerin duymaya alışkın oldukları bir makamdan (örneğin kürdi makamı) 5/8’lik ölçüde olan şarkı ve türküler teorik olarak değil, kulaktan öğretilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.4.A.4",
+      "title": "Belirli gün ve haftaların anlamına uygun müzikler söyler",
+      "processComponents": [
+        "Millî, dinî ve manevi günler ile belirli gün ve haftalarda bu kazanıma yer verilmelidir.",
+        "Milli bayramlar (29 Ekim Cumhuriyet Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı vb.) ile ilgili etkinliklere yer verilir.",
+        "Öğrencilerin önemli gün ve haftalar dolayısıyla düzenlenecek Atatürk ile ilgili müzik etkinliklerine katılmaları için gerekli yönlendirmeler yapılır. Örneğin Atatürk ile ilgili şarkıları anlamlarına uygun söylemeleri sağlanır."
+      ]
+    },
+    {
+      "code": "Mü.4.A.5",
+      "title": "Müzik çalışmalarını sergiler",
+      "processComponents": [
+        "Öğrenciler, bireysel veya grup olarak hazırladıkları müziksel çalışmalarını sergileyecekleri ortamlar oluşturulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Dinleme-Söyleme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

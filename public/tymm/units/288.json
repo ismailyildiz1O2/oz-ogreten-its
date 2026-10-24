@@ -1,0 +1,67 @@
+{
+  "unitId": 288,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "6. TEMA: VERİYE DAYALI ARAŞTIRMA",
+  "hours": "15",
+  "description": "Bu temada öğrencilerin istatistiksel araştırma sürecinin adımlarını kategorik ve sayma ile elde edilen nicel veriye dayalı tek veri grubuna yönelik yürütebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.3.4.1",
+      "title": "Kategorik ve sayma ile elde edilen nicel veriye dayalı tek veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) Kategorik ve nicel veriye dayalı istatistiksel araştırma gerektiren günlük yaşam durumu belirler.",
+        "b) Kategorik ve nicel veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur.",
+        "c) Kategorik ve nicel verileri toplamak için plan yapar.",
+        "ç) Kategorik ve nicel verileri toplar.",
+        "d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık tablosu veya nokta grafiğini seçer.",
+        "e) Seçtiği araçlarla verileri görselleştirerek analiz eder.",
+        "f) Araştırma sonuçlarını yorumlar.",
+        "g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "• kategorik ve sayma ile elde edilen nicel veri, nokta grafiği, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrencilere her bir verinin 1, 2, 4 ya da 5 nesneyi veya durumu temsil ettiği hazır nokta grafiği verilir. Nokta grafiğindeki verilere ilişkin nokta-veri eşleştirmesine yönelik çalışmalar yapılır. Öğrencilerden renksiz verilen bu grafikleri boyamaları istenir. Ardından onlardanafikteki verileri çetele ve sıklık tablolarında göstermeleri sağlanır."
+  ],
+  "enrichment": [
+    "Çeşitli özelliklere göre ayrılmış nesne veya durumlar verilip bunların hangi özelliğe göre sınıflandırıldığını bulmaları sağlanır. Sonrasında farklı bir özelliğe göre gruplayıp nokta grafiğinde göstermeleri beklenir. Öğrencilerden oluşturdukları bu grafiği yorumlamaları istenir."
+  ],
+  "assessment": [
+    "Bu temaya ait öğrenme çıktıları; açık uçlu ve eşleştirme sorularından oluşan çalışma kağıdı, kontrol listesi ve performans görevi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.3.4.1 Öğrencilerin ilgisini çeken ve deneyimlerine dayanan örnek durumlar veya olaylar ile istatistiksel araştırma gerektiren durumları fark etmeleri ve sınıf içinde tartışmaları sağlanır ( E1.1 , SDB2.1 ) . Öğrenciler kategorik ve sayma ile elde edilen nicel veriye dayalı, tek veri grubuna yönelik nesnelerin/olayların sayısal değerlerinin alındığı günlük yaşam durumu (yaş, kilo, hava sıcaklığı vb.) belirler ( SDB3.3 ) . Belirlenen günlük yaşam durumundan hareketle öğrencilerin cevaplayabileceği ve betimleyebileceği araştırma soruları oluşturmaları sağlanır ( SDB2.1 , D3.4 ) . Araştırma sorularının istatistiksel araştırma sorusu olup olmadığı, verilerin toplanmasına imkân verip vermediği, araştırmanın amacına hizmet edip etmediği, veri toplanacak grubun açık ve net olup olmadığı, soruların cevaplanabilir ve cevapların da değişebilir olup olmadığına dikkat edilir. Bağlam içerisinde \"Bu sorunun cevabını nasıl öğrenebiliriz? Soruyu kimlere sorabiliriz?\" gibi sorular ile veri toplama süreci planlanır ( SDB2.1 ) . Böylece öğrencilerin varsayımlarda bulunularak dikkatlerini toplamaları ve sürece odaklanmaları sağlanır ( E3.2 ) . Hazırlanan veri toplama planı doğrultusunda öğrencilerle fikir alışverişinde bulunularak ve oyunlarla eğlenceli hâle getirilerek veriler toplanır ( E2.5 , SDB2.1 , SDB2.2 ) . Toplanan verilerin araştırma sorularına cevap veriyor olup olmadığı öğrencilerle birlikte değerlendirilir ( SDB2.1 ) . Öğrencilere topladıkları verileri kaydetmelerinin gerekliliğinden bahsedilir. Bu gerekliliği ortaya koymak için onlara \"Bu veri yarın toplansa aynı sonuçlar elde edilir mi?\" gibi sorular sorulur. Burada öğrencilerin verinin değişebilirliğini fark etmeleri sağlanır. Belirlenen durum bağlamında toplanan verilerin nasıl görselleştirileceğine yönelik öğrencilere \"Veriyi gruplamamız gerekiyor mu? Veri gruplamayı nasıl yapabilirsiniz?\" gibi sorular sorulur, cevapları tartışılır ( SDB2.1 ) . Toplanan veriyi özetlemek ve görselleştirmek için kullanılacak araçların (çetele, sıklık tablosu, nokta grafiği) uygunluğu konusunda öğrencilerin düşünceleri alınır ( SDB2.1 ). Öğrencilerden topladıkları veriyi kendi belirledikleri özelliklerine göre gruplamalarının ardından çetele ve sıklık tablosu ile özetlemeleri istenir.",
+    "Bu süreç kontrol listesi ile değerlendirilebilir. Daha sonra öğrencilerin topladıkları verileri nasıl görselleştirebilecekleri üzerine düşünmeleri, düşüncelerini sınıf içinde tartışmaları ve nokta grafiği ile görselleştirme üzerine karar vermeleri sağlanır. Nokta grafiğinde her bir verinin bir noktaya karşılık geldiği belirtilerek verilerin görselleştirilmesi sağlanır. Bu süreçte öğrencilerin çetele ve sıklık tablosunda gösterimleri ile nokta-veri eşleştirmelerinin gösterimleri kontrol listesi ile değerlendirilebilir. Veri görselleştirme sürecinde şekil grafiği ile nokta grafiğinin ilişkisine odaklanılır, şekil grafiğinde bir şekil ile gösterilen bir verinin nokta grafiğinde nokta ile (Kullanılan noktanın Türkçe dersinde kullanılan noktadan büyük olmasına dikkat edilir.) gösterildiğini fark etmeleri sağlanır ( SDB3.1 ) . Böylece veri görselleştirmenin belirli bir yöntemle düzenli ve sistematik bir şekilde ele alınması ve veri hakkında yorum yapabilmeyi kolaylaştırması anlamına geldiğini fark etmeleri sağlanır ( E3.7 , D3.3 ) . Verileri görselleştirmek için kullanılan çetele, sıklık tablosu ve nokta grafiğinin aynı zamanda birer matematiksel temsil olduklarını ve bu temsilleri anlamaları sağlanır ( MAB3.1 ) . Bu görselleştirme sürecinde çevrim içi araçlardan yararlanılır ( OB2 ) . Veri görselleştirme adımı tamamlandıktan sonra öğrencilere elde ettikleri grafiğe dayalı olarak \"Grafikle ilgili ne söyleyebilirsiniz? Hangisi daha fazladır/daha azdır?\" gibi sorular sorularak araştırma sonuçlarını yorumlamaları sağlanır ( SDB2.1 ) . Veri yorumlama adımında grafikten ne anladıklarına yönelik sorular sorularak elde edilen araştırma sonuçlarının sorulara ne derece cevap verdiğini değerlendirmeleri istenir ( SDB1.3 ) . Bu süreçte öğrencilerin nokta grafiğindeki nokta-veri eşleştirmeleri boşluk doldurma soruları ile değerlendirilir. Ayrıca öğrencilere sınıf içinde farklı verilerle hazırlanan grafiklerin yorumlanmasının eldeki verilere göre yapıldığı ve yorumların sadece o grafiğin bağlamı içinde sunulduğu çeşitli örnekler verilir. Öğrencilerin deneyimlediği bu araştırma sürecine bağlı olarak onlara \"Bu veriler 3/A sınıfında toplandı, 3/B sınıfında toplansaydı benzer sonuçlar elde eder miydik? Neden?\" gibi sorular sorularak veri toplanan kişilerin değişebilirliğini fark etmeleri ve çıkarım yapmaları sağlanır ( SDB2.1 ) .",
+    "Öğrencilerin sahip oldukları kardeşlerinin sayısı, haftalık harçlıklarının kaç lira olduğu gibi bir özelliğe odaklanan ve kendilerinden veya çevresindekilerden topladıkları veriye dayalı bir araştırma sürecini deneyimlemeleri istenir. Bu süreçte veri görselleştirme adımlarında hazırladıkları tablo ve grafikleri arkadaşlarına sunacakları bir performans görevi verilebilir ( SDB1.2 , SDB3.3 ). Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.2",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3.1"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/288"
+}

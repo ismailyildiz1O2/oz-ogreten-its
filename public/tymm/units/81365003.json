@@ -1,0 +1,96 @@
+{
+  "unitId": 81365003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ekonomi Dersi",
+  "title": "3. ÜNİTE: MİLLÎ GELİR, EKONOMİK BÜYÜME VE İSTİHDAM",
+  "hours": "12",
+  "description": "Bu ünitede millî gelir ve millî gelir ile ilgili temel kavramlar verilerek, öğrencilere ekonomik büyümenin önemini kavramalarına yönelik davranışlar kazandırılmaya çalışılmıştır. Ayrıca öğrencilerin konuyla ilgili olarak ülkemizin millî geliri ile diğer ülkelerin millî gelirlerini karşılaştırmaları, ekonomik büyüme açısından istihdamın önemini fark etmeleri amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "EKO.3.1",
+      "title": "Millî geliri ve millî gelirle ilişkili temel kavramları açıklar",
+      "processComponents": [
+        "Ekonomik gelişmişlik düzeyi ile millî gelir arasında ilişki kurulur.",
+        "GSMH, GSYİH, SYİH, YİG, MG kavramları açıklanır."
+      ]
+    },
+    {
+      "code": "EKO.3.2",
+      "title": "Millî gelirin kişisel, fonksiyonel ve üretim faktörleri arasındaki dağılımını örneklerle açıklar",
+      "processComponents": [
+        "Millî gelirin kişisel, fonksiyonel ve üretim faktörleri arasındaki dağılımına vurgu yapılır.",
+        "Coğrafya dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.3.3",
+      "title": "Türkiye'deki millî gelir seviyesini ve dağılımını verilerle açıklar",
+      "processComponents": [
+        "Türkiye'deki millî gelir seviyesindeki dağılım ile bölgeler arasındaki dağılıma vurgu yapılır.",
+        "Coğrafya dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.3.4",
+      "title": "Türkiye'nin millî geliri ile diğer ülkelerin millî gelirlerini karşılaştırır",
+      "processComponents": [
+        "Türkiye'nin millî geliri ile diğer ülkelerin millî gelirleri arasında karşılaştırma yapılır."
+      ]
+    },
+    {
+      "code": "EKO.3.5",
+      "title": "Ekonomik büyümenin kaynaklarını sıralayarak teknolojik gelişmenin ekonomik büyüme üzerindeki etkisini örneklendirir",
+      "processComponents": [
+        "Ekonomik büyümenin kaynakları olan üretim faktörlerinin (doğal kaynaklar, iş gücü, sermaye, müteşebbis); üretimde daha fazla miktarda kullanılması, eksik kapasitede kullanılan üretim faktörlerinin yüksek kapasitede kullanılması ve üretim faktörlerinde verimlilik artışı sağlanmasına vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.3.6",
+      "title": "Ekonomik büyüme ile yaşam standardı arasındaki ilişkiyi ortaya koyar",
+      "processComponents": [
+        "Ekonomik büyüme arttıkça yaşam standardının artacağı ve refah seviyesinin yükseleceği vurgulanır."
+      ]
+    },
+    {
+      "code": "EKO.3.7",
+      "title": "İstihdamın ekonomideki yeri ve önemini örneklerle açıklar",
+      "processComponents": [
+        "Araştırma sonuçları ve proje çalışmaları sınıf içerisinde değerlendirilerek sonuçlar özet halinde sınıf panosunda sergilenir.",
+        "İstihdam teriminin tanımı yapılarak ekonomideki yeri ve önemi açıklanır.",
+        "Girişim ve girişimciliğin önemine değinilir.",
+        "Girişimcilik dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.3.8",
+      "title": "Eksik ve tam istihdam kavramını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.3.9",
+      "title": "Eksik istihdamın ekonomide meydana getirdiği olumsuzlukları yorumlar",
+      "processComponents": [
+        "İş bulma olanağı açısından toplumumuzda yer alan belli başlı meslekler karşılaştırılır."
+      ]
+    },
+    {
+      "code": "EKO.3.10",
+      "title": "İşsizliğin ekonomik ve toplumsal sonuçlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.3.11",
+      "title": "İşsizliğin önlenmesi için alınması gereken önlemlerle ilgili öneriler geliştirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163132505-Ekonomi.pdf"
+}

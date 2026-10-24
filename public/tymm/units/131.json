@@ -1,0 +1,53 @@
+{
+  "unitId": 131,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "5. ÜNİTE: YAŞAYAN DÜNYA DİNLERİ",
+  "hours": "10",
+  "description": "Bu ünitenin teması kültürdür. Ünitede yaşayan dünya dinleri ele alınmaktadır. Öğrencilerin; Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleri hakkında bilgi toplamaları, edindiği bilgilerden hareketle dünyada farklı dinleri bir olgu olarak kabul etmeleri ve her dinin kendine has özellikleri olduğunu fark etmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "DKAB.7.5.1",
+      "title": "Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinlerini araştırır.",
+        "b) Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleri hakkında bilgiler bulur.",
+        "c) Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleri hakkında edindiği bilgileri doğrular.",
+        "ç) Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleri hakkında edindiği bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "Budizm, Hinduizm, Hristiyanlık, Yahudilik",
+  "support": [
+    "Yahudilik, Hristiyanlık, Hinduizm ve Budizm hakkında bilgi toplanırken dijital içerikler kullanılabilir. Öğrencilerden şematik haritalar kullanılarak bu dinlerle ilgili sunu hazırlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler; Yahudilik, Hristiyanlık, Hinduizm ve Budizm hakkında panel düzenleyebilir."
+  ],
+  "assessment": [
+    "Bu ünitede ölçme değerlendirme sürecinde açık uçlu soru, kısa cevaplı soru, çalışma yaprağı, kavram haritası, görsel inceleme formu ve öz değerlendirme formu kullanılabilir.",
+    "Performans görevi: Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleriyle ilgili afiş, sunu vb. hazırlanabilir. Bu dinlerin yaşandığı coğrafyalar, tanrı tasavvurları, inanç esasları, kurucuları, kutsal metinleri, ritüelleri, kutsal mekânları, mabetleri, sembolleri vb. bilgileri içeren bilgi kartları hazırlanabilir. Performans görevleri, ölçütlere göre oluşturulan puanlama anahtarıyla değerlendirilir. Öğrencinin ünite süresince yaptığı ürün çıktıları bir araya getirilerek öğrenci ürün dosyası oluşturulur.",
+    "Sonuç değerlendirmede performans görevlerine yer verilebileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.7.5.1 Öğrencilere \"Yaşayan dünya dinleri hakkında neler biliyorsunuz?\" sorusu sorulur. Verilen cevaplardan hareketle bir kavram haritası oluşturulur. Her din hakkında öğrencilerin neler bildiği ve ne düşündüklerine dair tartışma ortamı hazırlanarak öğrencilerin kendilerini özgür bir şekilde ( D11.2 ) ifade etmeleri sağlanır. Böylece öğrencilerin dünya üzerinde farklı dinlerin varlığını bir olgu olarak kabul etmesi ve sosyal farkındalığının gelişmesi ( SDB2.3 ) hedeflenir. Bu bilgilerden yola çıkılarak öğrencilerin bu dinlerin mensuplarını anlayabilmesi, onlara saygı duyabilmesi ( D14.3 ) ve toplum kurallarıyla ilgili bir anlayış geliştirmesi sağlanır ( D11.2 ) . Öğrencilerin bu dinlerin kültürel unsurlarını fark etmelerini sağlayacak görsel, belgesel, film vb. materyallerden yararlanılır. Öğrencilerin yaşayan dünya dinlerinden Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinlerine odaklanması ( E3.2 ) istenir. Bu dinlerin kutsal metinleri, dinin ibadet ve ritüellerinin aktarıldığı eserler temel bilgi kaynakları olarak belirlenir. Bu dinlerin tarihçelerine değinilir. Dünyanın hangi bölgelerinde yaygın olduğu, tanrı tasavvurları, inanç esasları, kutsal metinleri, ritüelleri, kutsal mekânları, mabetleri, sembolleri konularında öğrencilerin yazılı ve görsel kaynaklardan bilgi bulmaları istenir. Yahudilik, Hristiyanlık, Hinduizm ve Budizm dinleri hakkında bilgiler verilerek konu edilen din ile ilgili genel bir çerçeve çizilir. Öğrencilerin edindiği bilgileri söz konusu dinin temel kaynaklarından elde edilen bilgileri öğretmen rehberliğinde doğrulaması sağlanır. Böylece öğrencilerin doğruya ulaşma konusundaki kararlılığından ( E3.4 ) hareketle edindikleri bilgileri sorgulamaları istenir. Öğrencilere bu dinlerle ilgili resim, sunu, belgesel vb. materyaller gösterilerek öğrencilerin dinler hakkındaki bilgilerini pekiştirmeleri sağlanır. Öğrencilerden inceledikleri bu materyaller hakkında düşüncelerini ifade ettikleri bir kompozisyon yazmaları veya dinler hakkında buldukları görsellerden bir pano, afiş veya sunu çalışması yapmaları ( OB4 ) istenerek bilgilerini kaydetmeleri sağlanır."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D14.3"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.4"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/131"
+}

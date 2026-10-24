@@ -1,0 +1,67 @@
+{
+  "unitId": 1098,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "3. TEMA: MÜZİKTE SES KAVRAMI",
+  "hours": "14",
+  "description": "Temada müzikte ses kavramı, seslerin kalınlık-incelik, kuvvetli -hafif, uzunluk-kısalık özellikleri ve seste tını, müzikal olan ve olmayan sesleri ayırt etmek, seslerin belli sürelerinin olduğunu ve serbest zamanlı olarak da üretilebileceğini öğretmek amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TMT.1.3.1",
+      "title": ".Müzikal olan/olmayan sesleri işitebilme",
+      "processComponents": [
+        "a) Müzikal olan/olmayan sesleri tanır.",
+        "b) Müzikal olan/olmayan sesleri işitsel olarak ayırt eder.",
+        "c) Müzikal olan/olmayan sesleri ifade eder."
+      ]
+    },
+    {
+      "code": "TMT.1.3.2",
+      "title": "Ölçülü seslerin bileşenlerini dinleyebilme",
+      "processComponents": [
+        "a) Müzikal seslerin bileşenlerini tanır.",
+        "b) Müzikal sesleri işitsel olarak ayırt eder.",
+        "c) Müzikal sesleri açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "müzik, ses",
+  "support": [
+    "Konuya ilişkin destekleme amacıyla görsel, işitsel ve dijital materyaller kullanılır. Görsel veya işitsel ögelerle desteklenen grup çalışmalarında öğrencilerden ses, hız ve gürlük kavramlarını ayırmaları, ayırdığı bu grupları basamak olarak isimlendirmeleri istenir."
+  ],
+  "enrichment": [
+    "Öğrencilerin küçük grup çalışmaları yaparak ses ve hız-gürlük terimlerini hayvan seslerini ve çevrelerinde bulunan nesneleri düşünerek resmetmeleri istenebilir. Çizdiği resmi sesle ilişkilendirerek anlatması sağlanabilir. Gürlük kavramlarını, seslerini kullanarak ifade edebilmeleri sağlanır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, bulmaca ve eşleştirme oyunları içeren çalışma kâğıtları ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden farklı yükseklikteki sesleri taklit ettikleri bir performans görevi istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "teachingApplications": [
+    "TMT.1.3.1. Sesin nasıl oluştuğu ile ilgili çeşitli sözel ifadeler, görsel ve animasyon içerik materyaller ile öğrencilerin konuyu merak etmeleri sağlanır ( E1.1 , OB4 ). Daha önce dinlediği şarkı icracılarını hatırlaması sağlanarak insan sesiyle de müzik yapılabileceğini fark etmesi sağlanır. Daha önce izlediği, dinlediği ve çeşitli medya organlarında gördüğü enstrüman icracıları hatırlatılarak çeşitli çalgıların müzik yapmak için kullanıldığını fark etmesi sağlanır. Çeşitli görsel sunumlar kullanılarak bu konudaki çeşitlilik fark ettirilir ( D7.1 , SDB2.3 , OB4 ). Doğada bulunan fakat müzik yapmaya elverişli olmayan sesleri duyması ve tanıması sağlanır. Müzikal olan ve müzik yapmaya elverişli seslerin belirli uzunluklarının olduğunun anlaşılması sağlanır ( KB2.5 ). Etkileşimli tahta kullanılarak doğada karşılaşılan seslerin kayıtları dinletilerek öğrencilerin sesleri tahmin etmesi istenir. Süreç içerisinde öğrencinin sesler arasındaki farklılıkları ayırt etmesi sağlanır ( OB1 ). Müzikal olan ve müzik yapmaya elverişli seslerin belirli uzunluklarının olduğunun anlaşılması sağlanır. Öğrencilerin sesi oluşturan unsurları fark etme süreci gözlem formuyla değerlendirilebilir. TMT.1.3.2. Seslerin çalgı yardımı ile önce hafif ile daha sonra kuvvetli şiddet duyurulması ile seste şiddet olgusunu ayırt etmesi sağlanır. Seste tını kavramı aynı şarkının farklı yorumcular ile veya aynı melodiyi farklı çalgılardan ve yorumculardan dinleterek öğrencinin fark etmesi sağlanır. Bu kavramların öğrencilerde bir anlam oluşturabilmesi için öğrencilere bulmaca, eşleştirme gibi oyunlar oynatılır ( E2.5 ). Öğrenilen kavramlarla ilgili öğrencilerle grup etkinlikleri düzenlenir. Öğrencilerin bir ezgiyi kuvvetli-hafif, pest-tiz seslendirmeleri ve farklı tınıları duymaları sağlanır. Arkadaşları ile birbirlerine karşı saygılı ve etkili iletişim kurmalarına olanak sağlanır ( D4.2 , SDB2.1 , SDB3.1 ). Öğrencilerin hız ve gürlük ifadelerinin kısaltmalarını tanıması sağlanır. Boyama etkinlikleri yapılarak hız ve gürlük ifadelerini görselleştirmesi ve ifade etmesi sağlanır ( OB4 ). Ögeler arasındaki ilişkileri belirler ve bu ilişkiler arasında bağ kurması sağlanır. Bu durum sözlü olarak ifade edilir ( KB2.7 ). Bu ses olgularına ilişkin öğrenme-öğretme uygulamaları yapılırken öğrencilerin dinledikleri ezgilerin ezgilerin müzikal dinamiklerini işitme aşamasında nasıl bir strateji kullandığına dikkat edilir ( SDB1.1 ). Öğrencilerden farklı yükseklikteki sesleri taklit ettikleri bir performans görevi istenebilir. performans görevinin değerlendirilmesinde analitik dereceli puanlama dereceli puanlama anahtarı kullanılır."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.5",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.3",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1098"
+}

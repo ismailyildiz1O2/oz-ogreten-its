@@ -1,0 +1,142 @@
+{
+  "unitId": 404,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "5. ÜNİTE: MADDENİN DOĞASI",
+  "hours": "26",
+  "description": "Bu ünitede maddelerin tanecikli, boşluklu ve hareketli yapısına göre sınıflandırılması, bu sürece yönelik deney tasarlanması, ısı ve sıcaklık arasındaki farkların açıklanması, ısı alışverişinin deney yapılarak gösterilmesi, maddelerin ısı iletimi bakımından sınıflandırılması ve ısı yalıtımı ile ilgili model oluşturulması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Maddenin Tanecikli Yapısı",
+      "processComponents": []
+    },
+    {
+      "code": "FB.5.5.1.1",
+      "title": "Maddeleri tanecikli, boşluklu ve hareketli yapısına göre sınıflandırabilme",
+      "processComponents": [
+        "a) Maddelerin tanecikli, boşluklu ve hareketli yapısının niteliklerini belirler.",
+        "b) Maddeleri tanecikli, boşluklu ve hareketli yapısına göre ayrıştırır.",
+        "c) Maddeleri tanecikli, boşluklu ve hareketli yapısına göre katı, sıvı ve gaz olarak gruplandırır.",
+        "ç) Maddeleri tanecikli, boşluklu ve hareketli yapılarına göre farklı gruplar altında etiketler. 2. Bölüm: Isı ve Sıcaklık"
+      ]
+    },
+    {
+      "code": "FB.5.5.2.1",
+      "title": "Isı ve sıcaklık kavramlarını karşılaştırabi lme",
+      "processComponents": [
+        "a) Isı ve sıcaklık kavramlarının özelliklerini belirler.",
+        "b) Isı ve sıcaklık kavramlarının özelliklerine ilişkin benzerlikleri listeler.",
+        "c) Isı ve sıcaklık kavramlarının özelliklerine ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "FB.5.5.2.2",
+      "title": "Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğuna yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Farklı sıcaklıklardaki sıvılar arasında ısı alışverişi olduğunu tanımlar.",
+        "b) Sıvıların karıştırılmadan önceki ve sonraki sıcaklıklarını kaydeder.",
+        "c) Karıştırılan sıvılar arasında ısı alışverişi olduğunu değerlendirir. 3. Bölüm: Maddenin Hâl Değişimi"
+      ]
+    },
+    {
+      "code": "FB.5.5.3.1",
+      "title": "Maddenin ısı etkisiyle hâl değiştirebileceğini bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Maddenin ısı etkisiyle hâl değiştirebileceğine ilişkin ön bilgi ve deneyimlerine dayalı önerme oluşturur.",
+        "b) Gözleme dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Maddenin ısı etkisiyle hâl değiştirebileceğini temellendirebilmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Gözlemlenmemiş duruma ilişkin tahminde bulunur.",
+        "d) Tahminlerinin geçerliğini sorgular. 4. Bölüm: Madde ve Isı"
+      ]
+    },
+    {
+      "code": "FB.5.5.4.1",
+      "title": "Maddeleri ısı iletimi bakımından sınıflandırabilme",
+      "processComponents": [
+        "a) Maddeleri ısı iletimi bakımından belirler.",
+        "b) Maddeleri ısı iletkeni veya yalıtkanı olarak ayrıştırır.",
+        "c) Maddeleri ısı iletkeni veya yalıtkanı olarak gruplandırır.",
+        "ç) Maddeleri ısı iletkeni veya yalıtkanı olarak etiketler."
+      ]
+    },
+    {
+      "code": "FB.5.5.4.2",
+      "title": "Isı yalıtımını gösteren model oluşturabilme",
+      "processComponents": [
+        "a) Isı yalıtımı ile ilgili model önerir.",
+        "b) Yeni kanıtlarla modeli yeniler."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler Doğada maddeler arası ısı alışverişi vardır (termal denge). Her sıcaklıkta buharlaşma olur., Anahtar Kavramlar titreşim, öteleme, dönme, ısı, sıcaklık, erime, donma, kaynama, yoğuşma, buharlaşma, süblimleşme, kırağılaşma, ısı iletkenliği, ısı yalıtkanlığı, ısı yalıtımı",
+  "support": [
+    "Maddenin tanecikli, boşluklu ve hareketli yapısı ile ilgili öğrencilerin bireysel ilerlemelerine olanak tanıyan animasyon, simülasyon gibi dijital öğrenme araçları uygulanabilir. Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğu konusu küçük parçalara bölünerek sunulur ve her bir süreç adım adım açıklanabilir. Bir binanın ısı kaybını önlemek için yapılacak ısı yalıtımı tasarımı etkinliğinde günlük yaşamdan kolay ulaşılabilir çeşitli malzemelerle öğrencilerin ek etkinlikler yapmaları sağlanarak konu somutlaştırılabilir."
+  ],
+  "enrichment": [
+    "Günlük yaşamdan kolay ulaşılabilir çeşitli malzemeler üzerinden öğrencilerin ısının günlük yaşamda tasarruf sağlayacak biçimde kullanımına yönelik proje üretmeleri sağlanabilir. İmkânları olan okullar için robotik ve kodlama setleri üzerinden blok tabanlı kodlama yoluyla öğrencilerin maddelerin sıcaklıklarını ölçebilecekleri bir tasarım üretmeleri sağlanabilir. \"Sıcaklığı Ölçmek: Termometrenin Tarihi\" isimli etkinlik ile öğrencilerin Biruni'den Galileo Galilei'ye ve günümüzde en yaygın kullanılan sıcaklık ölçeğinin (°C) mucidi İsveçli bilim insanı Anders Celsius'a yolculuk yapmalarını sağlayacak bir araştırma ödevi verilebilir. Termoelektrik (peltier) soğutucular kullanarak bir ısıtma veya soğutma aracı tasarlaması istenebilir. Câbir bin Hayyân'ın kimya bilimine katkılarından bahsedilerek Türk-İslam âlimlerinin tarihe yön veren duruşlarından ve bilime verdikleri önemden bahsedilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde yapılandırılmış grid, çalışma kâğıdı ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Maddelerin tanecikli, boşluklu ve hareketli yapısının sınıflandırılmasında anlam çözümleme, bilgi haritası gibi iki boyutlu kavram öğrenme teknikleri kullanılabilir. Hazırlanan bilgi haritalarını ve anlam çözümleme tablolarını değerlendirmek için kontrol listesi, bütüncül dereceli puanlama anahtarı kullanılabilir. Isı ve sıcaklık kavramlarının yapılandırılmasında kart eşleştirme tekniği kullanılabilir. Kart eşleştirme etkinliğinde sorular ve eşleştirilen yanıtlar, doğru-yanlış olarak puanlanıp değerlendirilebilir. Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğuna yönelik deney yaptırılabilir. Öğrenci raporları bütüncül dereceli puanlama anahtarı ile değerlendirilebilir Isı yalıtımını gösteren tasarım temelli model oluşturulabilir. Geliştirilen ısı yalıtımı modelleri, sorular üretme, plan yapma, oluşturma, test etme, geliştirme vb. mühendislik ve tasarım süreci aşamaları analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.5.5.1.1 Öğrencilere çevremizdeki malzemelerin kütlesinin olduğu ve boşlukta yer kapladığı örneklerle fark ettirilebilir. Kütlesi olan ve boşlukta yer kaplayan yani hacmi olan her şeye madde dendiği belirtilir. Öğrencilere maddenin yapısı ile ilgili açık uçlu sorular yöneltilebilir. Maddenin tanecikli, boşluklu ve hareketli yapısı farklı malzemeler kullanılarak model ile gösterilebilir. Öğrencilerden maddenin yapısının niteliklerini tanecikli, boşluklu ve hareketli olarak belirlemesi beklenir. Maddelerin taneciklerinin arasındaki boşlukların farklı olabileceği vurgulanır. Katılar sıkıştırılamazlar ancak sıvıların sıkıştırılamadığı varsayılır. Enjektör vb. gereçlerle gaz maddelerin sıkıştırılabilirliği gözlemlenebilir. Sıvı ve gazların öteleme hareketi sayesinde akışkanlık özelliğine sahip olduğu belirtilir. Katıların ve sıvıların belirli hacimleri olduğu ancak gazların hacimlerinin değişebileceği, katılar belirli bir şekle sahipken sıvı ve gazların bulunduğu kabın şeklini aldıkları vurgulanır. Katıların taneciklerinin titreşim, sıvı ve gaz taneciklerinin ise titreşim, dönme ve öteleme hareketi yaptıkları çeşitli model ve örneklerle inceletilir ( OB4 ) . Etkinlikler sonucunda farklı yöntemlerden elde edilen sonuçları karşılaştırarak sıkıştırılabilme durumu ile öteleme, titreşim ve dönme hareketlerini belli bir plan doğrultusunda açıklamaları beklenir ( D3.2 ) . Öğrencilere katısıvı-gaz maddelerden ikişer örnek verilerek bu maddeleri tanecikli, boşluklu ve hareketli yapısı bakımından ayrıştırmaları istenir ( E1.1 ) . Bu süreçte bilgi haritası, anlam çözümleme tablosu gibi teknikler kullanılarak öğrencilerin maddeleri tanecikli yapısına göre katısıvı-gaz olarak gruplandırmaları istenir. Hazırlanan bilgi haritalarını ve anlam çözümleme tablolarını değerlendirmek için kontrol listesi kullanılabilir. Maddenin hâl değişimi sonucu tanecikleri arasındaki boşluk ve taneciklerinin hareketliliğinin değişebileceği konusunda iş birlikli öğrenme teknikleri kullanılarak öğrencilere sorumluluklar verilip birlikte çalışmaları ve düşüncelerini başkalarıyla tartışmaları sağlanabilir ( KB2.18 , D16.3 , SDB2.2 , SDB2.1 ) . Öğrencilerin etkinlikler sırasında yardımlaşmaları ve çalışmalara gönüllü katılmaları teşvik edilebilir ( D20.4 ) . Öğrencilerin etkinlikler sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Öğrencilere günlük yaşamdan farklı madde örnekleri verilerek maddeleri tanecikli, boşluklu ve hareketli yapılarına göre etiketlendirmeleri istenir. Öğrencilerden elde edilen bilgiyi çözümlemeleri, maddenin yapısını sınıflandırmaları ve kendi cümleleri ile yorumlamaları istenebilir ( KB2.4 , OB1 ) . Konunun somutlaştırılması için dijital içeriklerden yararlanılabilir ( OB2 ) . Maddenin tanecikli yapısı ile ilgili rol oynama tekniği uygulanarak öğrencilerin etkileşim içinde yardımlaşarak çalışmaları sağlanabilir ( D20.4 ) . Konu içinde geçen temel kavramlar ve aralarındaki ilişkiler yapılandırılmış grid vb. kullanılarak değerlendirilebilir.",
+    "FB.5.5.2.1 Isı ve sıcaklık kavramları ile ilgili günlük yaşamdan seçilen örnek olaylar ile öğrencilere açık uçlu sorular sorularak konuya ilgilerinin çekilmesi sağlanabilir. Öğrenciler gruplara ayrılarak ısı ve sıcaklık kavramlarının özelliklerini keşfetmeleri için eğlenceli ve dikkatlerini çekecek şekilde kavram karikatürleri, kart eşleştirme, analoji vb. tekniklerden faydalanılabilir ( E2.5 , SDB2.2 , OB4 ) . Isı ve sıcaklık kavramlarının özelliklerini belirlemeleri istenir ( KB2.13 ) . Isının doğrudan ölçülemediği ama kalorimetre kabı yardımıyla hesaplanabildiği, sıcaklığın ise termometre ile ölçülebildiği ifade edilir. Isı birimi olarak joule (J) ve kalori (cal), sıcaklık birimi olarak Derece Celsius (Selsiyus) (°C) kullanıldığı belirtilir. Isının bir enerji çeşidi olduğundan bahsedilir. Isı ve sıcaklık kavramları ile ilgili benzerlikler ve farklılıkları karşılaştırarak yorumlamaları istenir. Bu süreçte kendi kararlarını almaları beklenir ( D11.2 , E1.5 ) . Kart eşleştirme etkinliğinde sorular ve eşleştirilen yanıtlar, doğru-yanlış testi olarak puanlanıp değerlendirilebilir.",
+    "FB.5.5.2.2 Öğrencilere sıcaklığı farklı olan sıvıların karıştırılması hakkında açık uçlu sorular yöneltilebilir. Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğuna yönelik doğrulama deneyleri yapılabilir. Bu süreçte öğrencilerin gözlem yapılan olaya ilişkin özellikleri nitelemeleri, sıvıların sıcaklıklarını ölçmek için araçlar belirlemeleri ve bu araçları kullanmaları beklenebilir. Farklı sıcaklıklardaki sıvılar arasında ısı alışverişi olduğunu tanımlamaları beklenir ( KB2.16.2 ) . Sıvıların karıştırılmadan önceki ve sonraki sıcaklıklarını termometre ile ölçerek ölçümlerini çalışma yapraklarına kaydetmeleri istenir ( OB7 , KB2.2 ) . Karıştırılan sıvılar arasında sıcaktan soğuğa doğru ısı akışı olduğunu yorumlamaları sağlanır ( E3.10 ) . Deneylerde aynı tür sıvılar kullanılmasına dikkat edilir. Deney verilerini TGA tekniği kullanılarak raporlaştırmaları ve bu süreçte sabırlı olmaları beklenebilir ( D12.3 , E3.8 ) . Performans görevi olarak öğrenci raporları bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Yorumlarını desteklemek için günlük yaşamdan katı, sıvı ve gazlarla ilgili farklı örnekler verilerek maddeler arasında ısı alışverişi gerçekleşebileceğini keşfetmeleri sağlanır ( SDB2.1 ) . Boşluk doldurma ve kavram testi kullanılarak öğrencilerin ısı alışverişi ile ilgili temel kavramları öğrenmeleri sağlanabilir. Dijital içerikler, sanal laboratuvarlar vb. üzerinden farklı etkinlikler yoluyla maddelerdeki ısı alışverişine yönelik çıkarımlar yapılabilir ( OB2 ).",
+    "FB.5.5.3.1",
+    "Öğrencilerden günlük hayatta karşılaştıkları hâl değişimi olaylarına yönelik ısının madde üzerindeki etkilerini tahmin etmeleri ve önermelerde bulunmaları istenir ( KB3.3 ) . Öğrencilerin sınıf içinde yapılacak gösteri deneylerine dayalı gözlemlerle ısının maddeler üzerindeki etkilerini ifade etmeleri sağlanabilir. Öğrencilerin bilimsel gözleme dayalı olan (gösteri deneyleri) ve olmayan önermeleri (günlük yaşam verileri) karşılaştırmaları sağlanır ( D3.3 , SDB1.2 ) . Öğrencilerin deneyimleri günlükler yoluyla toplanabilir. Bu süreçte nicel veri kayıtlarına bağlı olarak öğrencilerin çıkarım yapmalarına ve gözlemlerine dayalı tahminlerle oluşturduğu ölçütleri azimli bir biçimde test etmelerine fırsat sağlanır ( E1.3 ) . Maddenin ısı etkisiyle hâl değiştirebileceğini temellendirmek için gözlem verilerinden nicel sonuçlar çıkarmaları, sonuçlarını matris tabloya kaydetmeleri, akış şeması ile hâl değişimini çizerek göstermeleri ve yorumlamaları istenir. Buradan hareketle erime, donma ve kaynama sırasında hal değişimi boyunca sıcaklığın sabit kalacağı sonucuna ulaşmaları beklenir. ( OB1 , OB4 ) . Bu süreçte temel kavramlar olarak erime, donma, buharlaşma, kaynama, yoğuşma, süblimleşme ve kırağılaşma kavramlarına odaklanılır. Öğrencilerin hazırladıkları akış şemaları ve raporları analitik dereceli puanlama anahtarları ile değerlendirilebilir. Öğrencilerin oluşturduğu ölçütler çerçevesinde, ısının madde üzerinde yaptığı etkilerle ilgili tahminlerinin geçerliğini sorgulamaları istenir ( E3.10 ) . Öğrencilerden arkadaşlarıyla birlikte buharlaşma ve kaynama arasındaki farkları kavrayabileceği ek bir deney tasarlamaları istenir ( D4.1 ) . Buharlaşmanın her sıcaklıkta olabilirken kaynamanın belli bir sıcaklıkta gerçekleştiği üzerinde durulur. Süreç çalışma kâğıtları ile değerlendirilebilir.",
+    "FB.5.5.4.1 Öğrencilere günlük yaşamdan ısı iletkeni ve ısı yalıtkanı olan malzemelerle ilgili açık uçlu sorular yöneltilebilir. Öğrencilerin maddeleri ısı iletimi bakımından tanımlamaları sağlanır. Günlük yaşamda karşılaşılan maddeleri, anlam çözümleme tabloları ve bilgi haritaları vb. kavram öğretim teknikleri kullanarak ısı iletkeni veya yalıtkanı olarak ayrıştırmaları beklenir ( OB7 , E3.6 ) . Demir, bakır, alüminyum vb. malzemeler kendi içinde ısı iletkenlikleri karşılaştırması yapılmadan örnek olarak verilebilir. Günlük yaşamdan bir örnek olay ile maddeleri ısı iletkeni veya yalıtkanı olarak gruplandırmaları beklenir. Isı iletkeni veya yalıtkanı olarak seçilen maddeleri etiketlendirmeleri beklenir ( KB2.9 ) . Binalarda kullanılan ısı yalıtım malzemeleri türlerine değinilmeden binalarda ısı yalıtkanı malzemeler kullanıldığından bahsedilir. Isı yalıtımının aile ekonomisine ve ülke varlıklarının tasarruflu kullanımına yönelik önemini tartışarak topluma katkısını değerlendirmeleri sağlanır ( D19.3 , D17.2 , SDB2.3 ) . Öğrenme ürünlerinin değerlendirilmesinde çalışma kâğıdı kullanılabilir.",
+    "FB.5.5.4.2 Öğrencilerden günlük yaşamda ısı akışını yavaşlatan örnekler vermeleri istenebilir. Bir binanın sıcaklık değerinin korunması için yapılacak ısı yalıtımı üzerine kurgulanan bir senaryo ile öğrencilerin model oluşturmaları sağlanır ( D17.1 ) . Isı yalıtımının tüm mevsimlerde işlevsel olduğu üzerinde durularak öğrencilerin farklı mevsimlere ait modeller üretmeleri sağlanabilir. Tasarımlarını oluştururken görseller, dijital içerikler ve günlük yaşamdaki örneklerden yararlanarak çıkarım yapmaları sağlanır ( OB4 ) . Öğrencilerin ülkemizdeki kültürel mirasa ait tarihi yerleri ısı yalıtımı açısından incelemeleri sağlanır ( KB2.6 , D17.2 ) . Bu yerlerdeki kültürel unsurları fark etmeleri sağlanarak öğrenciler ısı yalıtımı konusunda grup araştırmalarına yönlendirilir ( OB5 ) . Bu konular sosyal bilgiler dersi ile ilişkilendirilebilir. Mühendislik ve tasarım döngüsü kullanılarak öğrencilerin yaratıcı bir model oluşturmaları sağlanır ( E3.3 ) . Öğrencilerin süreci bilimsel olarak yürütmelerine yönelik yönlendirme yapılır ( D3.3 ) . Öğrencilerin gerektiğinde teorik bilgiler temelinde ısı yalıtımı modelini geliştirmeleri sağlanabilir. Öğrencilerin aynı amaç için geliştirilmiş modelleri karşılaştırarak yeni kanıtlara göre tasarımlarını geliştirmeleri sağlanır ( E3.4 ) . Geliştirilen tasarımların son hâllerini öğrencilerin birbirleriyle paylaşmaları istenir ( SDB2.1 ) . Geliştirilen ısı yalıtımı modelleri analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D12.3",
+      "D16.3",
+      "D17.1",
+      "D17.2",
+      "D18.2",
+      "D19.3",
+      "D20.4",
+      "D3.2",
+      "D3.3",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E1.5",
+      "E2.5",
+      "E3.10",
+      "E3.3",
+      "E3.4",
+      "E3.6",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.16.2",
+      "KB2.18",
+      "KB2.2",
+      "KB2.4",
+      "KB2.6",
+      "KB2.9",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/404"
+}

@@ -1,0 +1,154 @@
+{
+  "unitId": 300,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "3. TEMA: İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+  "hours": "50",
+  "description": "Bu temada öğrencilerin toplama ve çıkarma işlemlerini zihinden yaparak çözümleyebilmesi; en çok dört basamaklı sayılarla toplama ve çıkarma işlemini yapılandırabilmesi; çarpma ve bölme işlemlerini çözümleyebilmesi; çarpma ve bölme işlemlerinin sonuçlarını tahmin edebilmesi amaçlanmaktadır. Ayrıca öğrencilerin 10, 100 ve 1000 ile kısa yoldan çarpma ve bölme işlemlerini yapabilmesi; çarpma ve bölme işlemleri arasındaki ilişkiyi yorumlayabilmesi; dört işlem içeren adımlardan oluşan yönergeler oluşturabilmesi ve bu süreci yorumlayabilmesi bu temanın amaçları arasındadır. Bunun yanında bu temada öğrencilerin en çok dört basamaklı sayılarla dört işlemi gerektiren problemleri çözümleyebilmesi; çarpma ve bölme işlemleri gerektiren problemleri çözümleyebilmesi ve yapılandırabilmesi; çarpma ve bölme işlemlerinde eşitlik kavramını yorumlayabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.4.2.1",
+      "title": "Toplama ve çıkarma işlemlerini zihinden yaparak çözümleyebilme",
+      "processComponents": [
+        "a) Zihinden toplama ve çıkarma işlemlerinde sayıların uygun bir biçimde parçalarını belirler.",
+        "b) Sayıların parçalarına ait özellikleri ilişkilendirir."
+      ]
+    },
+    {
+      "code": "MAT.4.2.2",
+      "title": "En çok dört basamaklı sayılarla toplama ve çıkarma işlemlerini yapılandırabilme",
+      "processComponents": [
+        "a) Toplama ve çıkarma işlemlerinin algoritmasına yönelik hiyerarşik, nedensel ya da mantıksal ilişkiler ortaya koyar.",
+        "b) Toplama ve çıkarma işlemlerinin algoritmasına yönelik kendi öz bilgisi ile elde ettiği ilişkilere dayalı bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.4.2.3",
+      "title": "Çarpma ve bölme işlemlerinin sonucunu tahmin edebilme",
+      "processComponents": [
+        "a) Çarpma ve bölme işlemlerinin sonucunu deneyimleri ile ilişkilendirir.",
+        "b) Çarpma ve bölme işlemlerinin sonucuna ilişkin çıkarım yapar.",
+        "c) Çarpma ve bölme işlemlerinin sonucuna ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAT.4.2.4",
+      "title": "Zihinden çözümlenen çarpma ve bölme işlemleri ile bu işlemlerin kısa yollarını yapılandırabilme",
+      "processComponents": [
+        "a) Zihinden çözümlenen çarpma ve bölme işlemlerinin algoritmasına yönelik hiyerarşik, nedensel ya da mantıksal ilişkiler ortaya koyar.",
+        "b) Zihinden çözümlenen çarpma ve bölme işlemlerinin algoritmasına yönelik kendi öz bilgisi ile elde ettiği ilişkilere dayalı bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.4.2.5",
+      "title": "Çarpma ve bölme işlemlerini çözümleyebilme",
+      "processComponents": [
+        "a) Çarpma ve bölme işlemlerini fark eder.",
+        "b) Çarpma ve bölme işlemlerini birbiri ile ilişkilendirir."
+      ]
+    },
+    {
+      "code": "MAT.4.2.6",
+      "title": "Dört işlem içeren yönergeler oluşturarak süreci yorumlayabilme",
+      "processComponents": [
+        "a) Dört işlem içeren durumları inceler.",
+        "b) İncelediği durumları yönergelere dönüştürür.",
+        "c) Oluşturduğu yönergeyi yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.4.2.7",
+      "title": "Dört işlem gerektiren problemleri çözebilme",
+      "processComponents": [
+        "a) Problemi anlayarak verilenleri ve istenilenleri belirler.",
+        "b) Problemde verilenlerin ve istenilenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Probleme ilişkin verilenleri belirleyerek uygun matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemlerin sonucuna ilişkin tahminde bulunarak işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji ya da stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ) Çözüme ulaştıran stratejilerin hangi problemlere uygulanabileceğini geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.4.2.8",
+      "title": "Dört işlem gerektiren problem durumlarını yapılandırabilme",
+      "processComponents": [
+        "a) Dört işlem gerektiren problem durumlarına yönelik hiyerarşik, nedensel ya da mantıksal ilişkiler ortaya koyar.",
+        "b) Dört işlem gerektiren problemleri kendi öz bilgisi ile elde ettiği ilişkilere dayalı olarak oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.4.2.9",
+      "title": "Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme",
+      "processComponents": [
+        "a) Dört işlem bağlamında eşitlik kavramını inceler.",
+        "b) Günlük yaşam durumlarını dört işleme dönüştürür.",
+        "c) Dört işlem içeren günlük yaşam durumunu eşitlik kavramı bağlamında ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "• -, Sembol ve Gösterimler, • ≠",
+  "support": [
+    "Basit kartlar üzerine problem cümleleri yazılarak çocuklardan problemde verilen ve istenenler ile ilgili uygun resim çizmeleri istenir. Çizilen resimlerden yola çıkılarak problemleri çözümlemeleri istenir. Kartları kendi cümleleri ile açıklama alıştırmaları yapılarak, süreç oyunlaştırılarak, öğrenilen problem çözme stratejileri kalıcı hâle getirilir.",
+    "Öğrencilerle birlikte adım sayısı az olan dört işlem etkinlikleri yapılır. Yönerge sayısı az olan işlemlere yer verilir. Diyagramlarla oyunlaştırılarak veya farklı şekillerde somutlaştırılarak işlemler oluşturulur. Ayrıca basit işlem adımlarını oluşturup takip etmeleri beklenir."
+  ],
+  "enrichment": [
+    "Öğrencilerden konu ile ilişkilendirebildikleri görseller, tablolar, tekerleme, kısa öyküler, şarkılar hazırlamaları istenir. Bu faaliyetlerde hazırlanan ürünlerde dijital araçların kullanımı teşvik edilir.",
+    "Öğrencilerden farklı sayılarla da kısa yoldan çarpma ve bölme işlemleri yapılıp yapılamayacağını araştırmaları istenir. Ardından binlik tablodan da yararlanılarak öğrencilerle birlikte çarpım tablosu oluşturulur.",
+    "Olanaklar doğrultusunda akıllı tahta, bilgisayar ve projeksiyon kullanılarak bilgisayar programlarından ve uygulamalarından yararlanılarak öğrencilerin farklı yönergeler oluşturmaları sağlanır. Bu şekilde dijital ortamda da algoritmik düşüncenin ve programlamanın temeli atılmış olur. Daha fazla adımdan oluşan yönergeler oluşturmaları ve adımlarını takip etmeleri istenir. Geometrik şekilleri de içeren yönergelerle çalışılır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, yapılandırılmış grid, boşluk doldurma soruları, doğru yanlış soruları, izleme testleri, performans görevi, tanılayıcı dallanmış ağaç, eşleştirme soruları, gözlem formları ve kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilerin günlük yaşamlarında karşılaştıkları dört işlem içeren durumları, verilen yönergeleri takip ederek yorumlayabilmesi için performans görevi verilebilir. Verilen performans görevi bütüncül dereceli puanlama anaharı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.4.2.1 Zihinden toplama ve çıkarma işlemlerinde öğrencilerin öncelikle sayıların basamaklarını belirlemeleri sağlanır. Basamakları belirlemelerinin tahmin ve zihinden toplama ve çıkarma işlemlerinin sonuçlarını hızlı ve kolay bir biçimde bulmalarına yardımcı olduğunu fark etmelerine yönelik örnek etkinlikler yapılır. Modellemede olduğu gibi en yakın onluğa ya da yüzlüğe yuvarlamada basamak değerlerini ayrı ayrı toplayıp birleştirme ve sayıları parçalama yöntemleriyle yapılabileceği belirtilir.",
+    "Zihinden çıkarma işleminde öğrencilerin sayıları basamaklarına ayırma ve üzerine ekleme gibi yöntemler kullanmaları beklenir. Sayıların çözümlemelerine ait özellikleri ilişkilendirilir. Öğrencilerden dört basamaklı iki sayıyı çözümleyerek toplamaları istenir.",
+    "Öğrencilerin akıcı işlem becerisi kazanmalarını sağlamak için çeşitli eğitsel oyun ve etkinlikler yapılır ( SDB2.2 ). Etkinliklerde öğrencilerin toplama ve çıkarma işlemlerini zihinden yaparak çözümlerken ilk aşamada işlemleri basamaklarına göre çözümlemeleri istenir. Başka bir ifade ile toplanacak veya çıkarılacak sayıların basamaklarını belirler. İkinci aşamada basamaklarına göre çözümlenen sayılar arasında ilişkilendirme yapmaları beklenir.",
+    "Öğrencilerin bu ilişkilendirmelere yönelik çıkarımlarını kendi cümleleri ile ifade etmeleri desteklenir. Öğrencilere içerisinde zihinden işlem içeren çeşitli etkinlikler verilerek açıkladıkları stratejiler doğrultusunda yapılandırılmış grid uygulanarak değerlendirme yapılabilir.",
+    "MAT.4.2.2 Dört basamaklı sayılar basamakları ve bölükleri ile birlikte örneklerle açıklanır. Öğrencilerden basamak ve sayı değerleri hakkında örnek çalışmalarla ilgili görüşlerini ifade etmeleri istenir. Sayılar arasındaki büyüklük küçüklük ilişkileri oyunlarla pekiştirilir ( SDB2.2 ) . Basitten karmaşığa ilkesi dikkate alınarak iki dört basamaklı sayıyla elde gerektirmeyen toplama, onluk bozma gerektirmeyen çıkarma işlemleri yapılır. Sağdan sola doğru toplama ve çıkarma işleminin adımlarını açıklamaları beklenir. Örneklerle eldeli toplama, onluk bozma gerektiren çıkarma işlemlerini yapmaları sağlanır. İşlem süreçlerinde birler basamağından başlanacağı ve eldeli işlemlere dikkat edilmesi ve işlemin adım adım gerçekleşmesi gerektiğini ifade etmeleri beklenir ( E3.7 ) . Öğrencilerin grup etkinlikleri ile sınıf içinde toplama ve çıkarma işlemi gerektiren soruları çözmesi sağlanır. Açık uçlu sorulardan yararlanılarak öğrencilerin toplama ve çıkarma işlemlerinde yaptıkları hatalar belirlenerek hataları giderme uygulamaları yapılabilir. Açık uçlu soruların değerlendirilmesinde kontrol listeleri kullanılabilir. Hataları giderirken akran desteğinden yararlanan ve \"Siz olsaydınız ne yapardınız?\" gibi sorularla ( D14.1 ) . öğrenme sürecinde toplama ve çıkarma işleminin algoritmasına yönelik hiyerarşik, nedensel ya da mantıksal ilişkileri doğru bir şekilde ortaya koyan öğrenciler sürece aktif olarak dâhil edilir ( SDB1.1 , SDB1.2 ) .",
+    "Toplama ve çıkarma işleminin algoritması ile ilgili kendi öz bilgisi ile elde ettiği ilişkilere dayalı bir bütün oluşturmak için işlemler basamak tablosunda yapılır. Basamaklar alt alta gelecek şekilde yazılarak matematiksel ifadesi/temsili yapılır. Toplama işlemi yaparken toplananların yerleri değiştiğinde sonucun değişmediğine ilişkin örnekler verilir. Eldeli toplama ve onluk bozarak çıkarma işleminin aynı şekilde binler basamağına da uygulandığı ifade edilir. Toplama işleminde ikiden fazla toplanan olabileceği, alt alta ya da yan yana yazılabileceği, basamaklara dikkat ederek toplama yapılması gerektiği anlatılır. İkiden fazla toplanan olduğunda toplananların gruplanarak parantez içine alınıp toplanabileceği ancak işlem önceliğinin parantez içinde olduğu belirtilir. Üç toplananı olan, parantez içinde yazılmış bir toplama işleminde verilmeyen terimin eşitliğin diğer yanındaki işleme bakılarak bulunması sağlanır ( OB1 ) . Bununla birlikte toplamları 10000'i geçmemek koşuluyla toplama işlemleri yapılır. Çıkarma işleminde ise 10000'e kadar (10000 dâhil) olan bir çokluktan belirtilen sayı kadarının eksiltilmesi istenir. Parçalara ayırarak toplama işlemi yapıldıktan sonra toplamdan herhangi bir toplananın çıkarılmasını modellemesi istenir. Bu iki işlemin birbirinin tersi olduğu ve işlem yaparken diğerinden yararlanılabileceği anlatılır. Toplama işlemi matematiksel bir ifade olarak yazıldıktan sonra aynı işlemin toplamı eksilen olarak toplananlardan verilenin çıkan olarak yazılıp verilmeyen toplananın bulunması sağlanır.Öğrencilerin toplama ve çıkarma işlemlerine ait bileşenleri belirleme sürecinde birlikte çalışmaları, birbirlerine yardımcı olmaları, fikir alışverişi yapmaları istenir.",
+    "Öğrenciler toplama ve çıkarma işleminin anlamlarını, sembollerini, ögelerini birlikte tamamlar. Sayı doğrusu veya modellemeler ile tablo hâline getirilir ( SDB2.2 ) . Öğrencilerin toplama ve çıkarma işleminin algoritmasına yönelik takip ettikleri işlem süreçleri tanılayıcı dallanmış ağaç ile değerlendirilebilir. Öğrenme çıktıları, izleme testleri yardımıyla belirlenebilir. İfade edilen testler aracılığıyla öğrencilerin toplama ve çıkarma işlemlerini nasıl yapılandırdıkları ortaya çıkarılabilir.",
+    "MAT.4.2.3 Çarpma ve bölme işlemlerinin sonucunu tahmin etmelerine yönelik öğrencilerin dikkatini çekebilecek günlük yaşamla ilişkili durumlar ortaya koyulup öğrencilere çeşitli sorular sorularak merak duygusu uyandırılır ( E1.1 ) . Bu süreçte paralar, zaman, uzunluk, tartma gibi öğrencilerin günlük yaşam durumlarında karşılaşabileceği durumlara ilişkin problemler ele alınır. Bu problem durumları üzerinden çarpma ve bölme işlemlerinin sonuçlarına ilişkin tahminde bulunmaları sağlanır. Tahmin sürecinde öğrencilerin üç basamaklı sayıları en çok iki basamaklı sayılarla çarpma; en çok dört basamaklı bir sayıyı bir basamaklı bir sayıya bölmeye yönelik faaliyetler yürütülür. Yapılan tahminlerde nasıl bir zihinsel süreç kullanıldığı, öğrencilere sorular sorularak öğrenilir. Tahmin sürecinde öğrencilerin tahminleri deneyimleri ile ilişkilendirmesi için çeşitli tahmin stratejileri geliştirmeleri sağlanır ( SDB1.1 , SDB1.2 ) . Birden fazla tahmin stratejisi (örneğin yuvarlama, gruplandırma, son basamakları kullanma vb.) kazandırılır. Son aşamada öğrencilerin belli bir stratejiye dayalı olarak yaptıkları tahmin ve zihinden yapmış oldukları işlem sonuçlarını karşılaştırmaları ve karşılaştırma sonucunda ulaştıkları çıkarımları kendi cümleleriyle ifade etmeleri beklenir ( KB2.7 , SDB2.1 , SDB3.3 ) . Bu süreçte bileşenlerin ve bileşenler arasındaki ilişkilerin belirlenmesi için sorular sorularak öğrenci cevapları kontrol listesi ile değerlendirilebilir. Bunun yanında öğrencilerin çarpma ve bölme işlemlerinin sonuçlarını tahmin etme ve zihinsel işlem yaparak elde ettiği sonuçları muhakeme etme ve kısa yoldan işlem yapma ile ilgili öğrenme durumları izleme testleri ve gözlem formları yardımıyla belirlenebilir. İfade edilen testler aracılığıyla öğrencilerin çarpma ve bölme işlemlerini tahmin etme sürecinde nasıl bir zihinsel işlem yürüttükleri ortaya çıkarılabilir.",
+    "MAT.4.2.4 Öğrencilere en çok üç basamaklı sayıları 10, 100 ve 1000'in en çok dokuz katı olan sayılarla çarpmaları istenir. Çarpım ile çarpanlar arasındaki örüntüyü keşfetmeleri için tartışma ortamı oluşturulur ve mantıksal ilişkiler ortaya koymaları sağlanır. Böylece öğrencilerin 10, 100 ve 1000 ile çarpmanın kısa yolunu yorumlamaları sağlanır. Ayrıca 5, 25, 50 ile kısa yoldan çarpma işlemine yönelik etkinlikler öğrencilerle yapılır. Ardından son üç basamağı sıfır olan en çok 5 basamaklı sayılarla 10, 100 ve 1000 ile bölme işlemleri verilir. Bölünen ile bölüm arasındaki örüntüyü keşfetmeleri için tartışma ortamı oluşturulur ( SDB2.2 ) . Böylece öğrencilerin 10, 100 ve 1000 ile bölmenin kısa yolunu yorumlamaları sağlanır. Yapılan yorumlamalarla öğrencilerin çarpma ve bölme işlemlerinin argoritmasına yönelik kendi öz bilgileriyle elde ettikleri ilişkilere dayalı bir bütün oluşturmaları sağlanır. Boşluk doldurma, doğru yanlış ve eşleştirme sorularından yararlanılarak öğrenme durumları ortaya çıkarılabilir.",
+    "MAT.4.2.5 Öğrencilerin bir çokluktaki toplam nesne sayısını tekrarlı toplama işlemiyle ve bu işlemin kısa yolu olan çarpma işlemiyle bulmaları istenir. Öğrenciler tarafından çarpma işleminin modelleneceği farklı etkinlikler yapılır. Modelleme yaparken gruplandırma işlemlerinden ve oluşturulan grup sayılarından yararlanılır. Çarpımı aynı sayıya eşit olan farklı durumlar oluşturulur. Modellemelerde sayıların yeri değişse de çarpımın aynı olduğu vurgulanarak çarpma işleminde çarpanların yerinin değişmesinin çarpımı değiştirmediğini öğrencilerin fark etmesi sağlanır. Nesneler yardımıyla çarpma işleminin kat kavramı ile ilişkisini öğrencilerin fark edebileceği etkinlikler yapılır ( OB1 ) . Çarpma işleminin, bölme işlemi ile ilişkisi belirlenerek bu ilişkiyi öğrencilerin ifade etmesi sağlanır. Bu süreçte öğrenci cevapları kayıt altına alınır ve kontrol listesi ile değerlendirilebilir. Bunun yanında öğrencilerin çarpma ve bölme işlemleri bağlamında çözümleme yaparken öğrenme çıktılarını değerlendirilmesi için eşleştirme sorularından yararlanılabilir. Öğrencilerle çarpma ve bölme işlemlerini fark ettirecek etkinlikler yapılır. Ardından çarpma ve bölme işlemleri arasındaki ilişkiyi ortaya koyacak çalışmalarla süreç desteklenir. Çarpma işleminde çarpanlardan biri 1 azaldığında veya arttığında sonucun nasıl değiştiği hakkında öğrencilerin yorumlamalarına yönelik etkinlikler yapılır. Bölme işleminde ise bölenin kalandan daima büyük olması gerektiğini, bölünen ile bölen arasındaki ilişkiye dayalı olarak bölümün kaç basamaklı olacağını öğrencilerin fark etmelerini sağlayacak etkinliklerle tartışma ortamı oluşturulur ( SDB2.2 ) . Yürütülen bölme işlemi ile ilgili etkinliklerde 1000'e kadar olan sayılarla kalanlı ve kalansız işlem yapılır. Süreçte 1000'e kadar olan sayılarla bir basamaklı bir sayının bölünmesine ilişkin örnekler verilir. Son olarak ise çarpma ve bölme işlemlerinin birbiriyle ilişkisini öğrencilerin yorumlamalarını sağlayacak çalışmalar yapılır. Açık uçlu sorulardan yararlanılarak öğrenme çıktılarına ilişkin öğrenme durumları belirlenebilir. Ayrıca izleme testleri ve gözlem formları yardımıyla da öğrencinin çarpma ve bölme işlemlerini fark etmelerine ilişkin durumları belirlenebilir.",
+    "MAT.4.2.6 Yönerge oluşturmaya giriş yapmadan önce öğrencilerin günlük yaşam deneyimlerini de kullanabilecekleri şekilde, özelden genele bazı yönergeler oluşturmaları istenir. Bu aşamada yönergelerin ritmik sayma ve dört işlem içermesi beklenmez. Sınıf içinde, nesnelerle etkileşime girecekleri ya da fiziksel olarak uygulanabilecek yönergelerin adımlarını önce sözlü veya yazılı şekilde oluşturmaları istenir. Bu yönergeler uygulamalı olarak diğer öğrencilere takip ettirilir. Bu şekilde öğrenciler, kendilerinin ya da arkadaşlarının oluşturduğu yönergelerde uygun olmayan adımlar, hatalar hakkında çıkarımlarda bulunur ( SDB1.1 , SDB1.2 ) . Uygulama, okul içinde ya da koşullar uygunsa oyun şeklinde de yapılır ( E2.5 ) . Sosyal Bilgiler dersi ile bağlantılı olacak şekilde ev adreslerini yönerge oluşturarak tarif etmeleri, fen bilimleri dersinde uygulanmış ya da uygulanabilecek olan deneylerin basamaklarını ifade etmeleri şeklinde etkinliklerle yönerge oluşturma ve süreci yorumlama konusunda aşama kaydedilir.Sayıları ve işlemleri içeren yönergelerde öncelikle daha basit ve az sayıda adım içeren yönergeler oluşturmaları istenir. Öncelik-sonralık ve arasında olma, tek-çift sayı, ritmik sayma gibi durumları içeren yönergeler bu kapsamda tercih edilir. Ardından sırasıyla dört işlemi de içeren, geçmiş bilgi ve deneyimlerini kapsayan en fazla dört adımlı yönergeler oluşturmaları sağlanır ( E3.7 ) . Belirlenen basamaklara belirlenen sayıların yazılması, belirlenen sayıların bir basamak kaydırılması, bir basamaktaki sayının belirlenen sayı kadar artması/azalması gibi yönerge adımları ifade edilir. Sonuçta ulaşılacak bir sayı ve başlangıç sayısı verilerek farklı yollardan buna uygun yönerge oluşturmaları gibi etkinlikler de yapılır ( SDB1.2 ) . Yönergeler görselleştirilerek veya alışveriş gibi günlük yaşam deneyimleriyle somutlaştırılarak daha ilgi çekici hâle getirilir. Bu aşamada yönergelerin adımlarında sayıların ve işlemlerin dışına çıkılmaması gerekir. Sürecin sonunda öğrencinin oluşturduğu adımların kendisi ve arkadaşları tarafından takip edilmesi, süreci yorumlaması beklenir ( OB1 , SDB3.2 , SDB3.3 ) . Öğrencilerin kendi yönergelerini takip etmeleri, yapılan hataların düzeltilmesi için de anında geri bildirim sağlanır. Bu süreçte hedeflenen durumu gerçekleştirebilme sürecinde öz değerlendirme yapması sağlanır ( SDB1.2 ) . Verilen yönergeleri takip ederek yorumlayabilmelerine ilişkin durumları kontrol listesi ile değerlendirilebilir. Bunun yanında öğrencilerin dört işlem içeren yönergeleri oluşturarak süreci yorumlayabilmeleri; boşluk doldurma, doğru yanlış ve eşleştirme sorularından yararlanılarak değerlendirilebilir. Ayrıca öğrencilere günlük yaşantılarında karşılaştıkları dört işlem içeren durumlardaki süreci, verilen yönergeleri takip ederek yorumlayabilme durumlarını içeren örnek olay yazmaları, yönergelere göre hareket etmeyi içeren bir model tasarlamaları ile ilgili performans görevi verilebilir ( SDB1.2 ) . Performans görevleri analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.4.2.7 Öğrencilerin dört işlem gerektiren problemlere günlük yaşamdan örnekler vermeleri sağlanır. Bu süreçte uzunluk, tartma gibi öğrencilerin günlük yaşam durumlarında karşılaşabileceği durumlara ilişkin problemler ele alınır. Öğrencilerin toplama ve çıkarma gerektiren problemlerde dört işlemli, çarpma ve bölme gerektiren problemlerde en çok üç işlemli problemleri anlamaları için verilenleri ve istenilenleri belirlemesine, verilen ve istenen arasındaki ilişkilerin ortaya çıkarılmasına yönelik sorular sorulur. Ayrıca öğrencilerin problemi kendi cümleleriyle ifade etmeleri istenir. Probleme ilişkin verilenler belirlenerek uygun matematiksel temsillere dönüştürülür. Problemi çözmede hangi işleme yer verileceğine yönelik tartışma ortamı oluşturulur ( SDB2.2 ) . Öğrencilerden sonuca yönelik tahminlerde bulunmaları istenir ( KB2.10 ) . Öğrencilere buldukları çözüm stratejilerini uygulamaları için fırsatlar sunulur. Doğru sonuca ulaşmaları sürecinde öğrencilere dönüt verilir. Öğrencilerin kullandıkları çözüm stratejilerini başka problem durumlarında da uygulamalarına yönelik çalışmalar yapılır. Öğrencilerin dört işlem gerektiren problemlerin çözümü için kullanacağı işlemleri zihinlerinde tasarlayarak strateji geliştirmeleri sağlanır. Ardından işlem yaparak stratejilerini çözüm için uygulaması sağlanır ( E3.6 , SDB1.2 ) . Öğrencilerin, buldukları sonucu kontrol ederek çözüme ulaştırılamayan stratejileri değiştirmeleri sağlanır. Çözüme ulaştıran stratejilerin hangi problemlere uygulanabileceğini genellemeleri ve genellemenin geçerliliğini matematiksel örneklerle değerlendirmeleri sağlanır. Bu süreçte öğrenci cevapları kontrol listesi ile değerlendirilebilir. Öğrencilerin problem çözme sürecine ilişkin değerlendirmeleri izleme testleri yardımıyla yapılabilir. İfade edilen testler aracılığıyla öğrencilerin problem çözme sürecinde yaşadıkları güçlükler, problem çözme adımlarındaki eksikleri ortaya çıkarılabilir.",
+    "MAT.4.2.8 Öğrencilerin günlük yaşamda karşılaşabilecekleri problemlerle ilgili görüşleri alınır ve bu problemlerin çözümüne ilişkin tartışma ortamı oluşturulur. Bu süreçte paralar, zaman, uzunluk, tartma ve sıvı ölçmeyle (litre ve mililitre birimlerini içeren) ilgili, öğrencilerin günlük yaşam durumlarında karşılaşabileceği durumlara ilişkin problemler ele alınır. Öğrencilerden dört işlem gerektiren problemler kurmaları istenir. Öğrencilerden problemleri kendi cümleleriyle ifade etmeleri ( KB2.3 ) , kurulan problemleri öğrencilerin grup çalışmalarıyla çözmeleri, çözüm yollarını arkadaşları ile paylaşmaları istenir ( D4.1 , SDB2.1 , SDB2.2 ) . Bu süreç etkileşimli bir şekilde öğrencilerin de katılımıyla olanaklara göre dijital araçlar ile yürütülür ( OB2 ) . İlişkiler ortaya koyma ve problem oluşturma durumlarına ilişkin düzeyleri kontrol listesi ve gözlem formları ile değerlendirilebilir.",
+    "MAT.4.2.9 Bir çokluk her grupta aynı sayıda nesne olacak şekilde gruplandırılır. Ardından grup sayısıyla gruplarda yer alan nesne sayıları çarpılarak toplam nesne sayısını öğrencilerin bulmaları istenir. Aynı çokluk, gruplardaki nesne sayıları değiştirilerek yeniden düzenlenir. Çarpma işlemleri yapılarak aynı sonuca ulaşılabildiği öğrencilere gösterilir ( E3.6 ) . Farklı sayıdaki iki çokluk her grupta aynı sayıda olacak şekilde gruplandırılır. Grup sayısı ile gruplarda yer alan nesne sayısı arasındaki ilişkiyi bölme işlemini kullanarak öğrencilerden ifade etmeleri istenir. Böylece farklı durumlarda aynı sonuca ulaşılabildiği öğrencilere gösterilir. Dört işlem bağlamındaki eşitliği gösterebilmek için dört işlemin bir arada bulunduğu eşitlik durumları yazılır. Ayrıca benzer durum eşitliğin olmadığı dört işlem için de verilir. Bu sayede öğrencilerin dört işlem bağlamındaki eşitliği yorumlaması sağlanır. Bu süreçte öğrencilerin yaptığı bu faaliyetler gözlem formu aracılığıyla değerlendirerek öğrenme-öğretme uygulamalarındaki çeşitli eksiklikleri görülebilir ve uygulamalara ilişkin ihtiyaç duyulan düzenlemeler yapılabilir. Eşitliğin farklı anlamlarını yorumlamayla ilgili öğrenme çıktıları için izleme testleri ve gözlem formlarından yararlanılır"
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.3",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/300"
+}

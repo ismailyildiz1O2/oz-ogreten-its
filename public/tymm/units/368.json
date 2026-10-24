@@ -1,0 +1,110 @@
+{
+  "unitId": 368,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "2. ÜNİTE: KUVVETİ TANIYALIM",
+  "hours": "24",
+  "description": "Bu ünitede kuvvetin büyüklüğünün dinamometre ile ölçülmesinin gösterilmesi, Dünya ve Ay’daki kütle ile ağırlık kavramlarının karşılaştırılması, farklı yüzey ve ortamlarda hareketi etkileyen sürtünme kuvveti bileşenlerinin yorumlanması, günlük yaşamda sürtünme kuvvetinin öneminin vurgulanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1.Bölüm: Kuvvet ve Kuvvetin Ölçülmesi",
+      "processComponents": []
+    },
+    {
+      "code": "FB.5.2.1.1",
+      "title": "Kuvveti büyüklüğü ile tanımlayabilme a ) Kuvvetin niteliklerini tanımlar.",
+      "processComponents": [
+        "b) Kuvvetin büyüklüğünü dinamometre ile ölçer.",
+        "c) Kuvvetin büyüklüğünü Newton (N) birimi ile tanımlar."
+      ]
+    },
+    {
+      "code": "FB.5.2.1.2",
+      "title": "Basit araç gereçler kullanarak bir dinamometre modeli tasarlayabilme",
+      "processComponents": [
+        "a) Basit araç gereçler kullanarak bir dinamometre modeli önerir.",
+        "b) Tasarladığı dinamometre modelini yeni kanıtlara göre geliştirir. 2. Bölüm: Kütle ve Ağırlık İlişkisi"
+      ]
+    },
+    {
+      "code": "FB.5.2.2.1",
+      "title": "Kütleye etki eden yer çekimi kuvvetini ağırlık olarak tanımlayabilme",
+      "processComponents": [
+        "a) Kütle ve ağırlık kavramlarına ait nitelikleri tanımlar.",
+        "b) Dinamometre kullanarak ağırlık ölçümü yapar.",
+        "c) Ağırlığı bir kuvvet olarak tanımlar. 3. Bölüm: Sürtünme Kuvveti"
+      ]
+    },
+    {
+      "code": "FB.5.2.3.1",
+      "title": "Sürtünme kuvvetinin çeşitli ortamlardaki etkilerine yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Sürtünme kuvveti ile ilgili günlük yaşamdan ön bilgilerini kullanarak örüntü oluşturur.",
+        "b) Sürtünme kuvvetinin çeşitli ortamlardaki etkilerine yönelik genelleme yapar."
+      ]
+    },
+    {
+      "code": "FB.5.2.3.2",
+      "title": "Günlük yaşamda sürtünmeyi artırma veya azaltmaya yönelik bilimsel bir model tasarlayabilme",
+      "processComponents": [
+        "a) Sürtünmeyi artıran ve azaltan durumları gözlemlemek için model önerir.",
+        "b) Sürtünmeyi artıran ve azaltan durumlara ilişkin gözlemleri sonucunda modelini geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "kuvvet, kuvvet birimi, dinamometre, kütle, ağırlık, sürtünme kuvveti, su direnci, hava direnci",
+  "support": [
+    "Dinamometre modeli tasarım sürecinde öğrencilere sürecin aşamaları verilereköğrencilerle birlikte tasarım yapılabilir. Eğit sel dijital içerikler (video, animasyon, simülasyon vb.) soyut kavramların somutlaştırılmasında, kavramsal anlayışın kolaylaştırılmasında ve pekiştirilmesindekullanılabilir."
+  ],
+  "enrichment": [
+    "Mühendislik ve tasarım süreci kullanarak sürtünme kuvvetine yönelik kodlama ve Fen, Teknoloji, Mühendislik ve Matematik (FETEMM). eğitim anlayışına uygun mühendislik ve tasarım tabanlı etkinlikleri içeren araç tasarımlarıya da modelleri oluşturmaları istenebilir. Hazini'nin bilime yaptığı önemli katkılardan biri yer çekimi konusundaki görüşleridir. Hazinî, yer çekiminin her cismi yerkürenin merkezine doğru çeken bir gücün varlığı ile ilgili bir teori ileri sürmüştür. Bu teori, kendisinden yaklaşık 500 yıl sonra gelen Newton tarafından kanıtlanmıştır. Hazini'nin bu konudaki tespitlerinden hareketle bilimin doğası anlayışı kapsamında kütle ve ağırlık konularında tarihsel yaklaşımı dikkate alan performans görevi verilebilir. Dünya dönüyorsa, ağaçlar ve taşlar neden fırlamıyor?\" sorusuna, o dönemde \"Merkezde bir çekicilik olduğu için her şey dünyanın merkezine düşer.\" cevabı verilerek Biruni'nin bu konudaki çalışmalarının araştırılması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, kavram/zihin haritası, balık kılçığı, tanılayıcı dallanmış ağaç, yapılandırılmış grid ve performans görevi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Öğrencilerin dinamometre ile ölçüm yaparak kazandıkları deneyime bağlı olarak basit araç gereçlerle tasarladıkları dinamometre modeli ile kuvveti ölçmeye yönelik performans görevi verilebilir. Bu görev; kontrol listesi, bütüncül dereceli puanlama anahtarları ile değerlendirilebilir.",
+    "Sürtünmeyi artıran ve azaltan durumların gözlemlenebileceği bir model tasarlamalarına yönelik performans görevi verilebilir. Bu görev, analitik derecelipuanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca öğrencilerin değerlendirme süreçlerine aktif katılımını teşvik etmek amacıyla öz, akran ve grup değerlendirme formları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FB.5.2.1.1 Kuvvet kavramına yönelik açık uçlu sorular yöneltilerek beyin fırtınası tekniği ile öğrencilerin fikirleri alınır. Bu fikirlerden yola çıkarak öğrencilerin kuvvetin niteliklerini tanımlamaları sağlanır ( E3.5 ) . Kuvvetin büyüklüğünü dinamometre ile ölçebilecekleri vurgulanır. Kuvvetin birimi Newton (N) olarak verilir. Öğrencilerin gruplara ayrılarak bilimsel bir yaklaşımla, süreç içerisinde aktif rol alarak dinamometreyle farklı kuvvetleri ölçmeleri ve ölçüm sonuçlarını tabloya kaydetmeleri sağlanır ( D3.3 , OB7 , KB2.6 ) . Öğrencilerin ölçüm sonuçlarını tablo üzerinden karşılaştırmaları sağlanabilir. Öğrencilerin ulaştıkları bilgilere dayanarak kuvvetin dinamometre ile ölçülen bir büyüklük olduğunu Newton (N) birimi ile tanımlamaları sağlanır. Kuvvetin ölçülmesinde kullanılan yayların kalınlıklarına uygun esneklikte bir dinamometre seçmeleri sağlanır. Uygulama sonrasında çalışma kâğıdı kullanılarak izleme amaçlı değerlendirme yapılabilir.",
+    "FB.5.2.1.2 Öğrencilere dinamometre tasarımlarını içeren bir performans görevi verilir. Öğrencilerin sınırlılıkları belirlenmiş problem durumuna uygun, malzemelerin esnekliğini ve kalınlığını dikkate alan basit araç gereçler kullanarak mühendislik ve tasarım döngüsüne uygun bir dinamometre modeli önermeleri sağlanır ( OB1 ) . Dinamometre tasarım sürecinde iş birlikli, sorgulayıcı veya proje tabanlı öğrenme yaklaşımları kullanılabilir. Verilen performans görevleri çerçevesinde öğrenciler gruplara ayrılır ve öğrencilerden ifadelerinde özgür seçimler yaparak grup içinde yardımlaşmaları istenir ( SDB2.1 , E1.2 , SDB2.2 , D20.4 ) . Dinamometre modeli tasarlama sürecinde planlarını zamanında ve eksiksiz yürütmeleri istenir ( D3.2 , D16.3 ) . Öğrencilerin belirledikleri araç gereçlerden yola çıkarak özgün ve bütüncül bir anlayışla dinamometre modelini tasarlamaları sağlanır ( SDB1.2 , E3.11 , KB2.6 ) . Tasarladığı modelini diğer modellerle karşılaştırarak, tespit edilen hata ve eksiklikleri gelişim fırsatı olarak değerlendirip modellerini geliştirmeleri sağlanır ( SDB1.3 , D16.3 ) . Model tasarlama süreci teknoloji ve tasarım dersi ile ilişkilendirilebilir. Değerlendirmede kontrol listesi, bütüncül dereceli puanlama anahtarı vb. kullanılabilir.",
+    "FB.5.2.2.1 Öğrencilerin kütle hakkındaki ön bilgilerini tespit etmek için sorular sorulabilir. Ardından öğrencilerin kütle ve ağırlık kavramlarına ilişkin nitelikleri tanımlamaları sağlanır. Kütle ve ağırlığı nasıl ölçebilecekleri sorulur. Ağırlığın büyüklüğünü dinamometre ile ölçebilecekleri vurgulanır. Daha sonra öğrencilerden bilimsel bir yaklaşımla dinamometre kullanarak cisimlerin ağırlıklarını ölçmeleri, eşit kollu terazi kullanarak kütlesini ölçmeleri ve ölçüm sonuçlarını not etmeleri istenir ( D3.3 , OB7 ) . Daha sonra öğrencilerin ölçüm sonuçlarını karşılaştırmaları ve sonuçların birbirlerinden farklı çıkma durumlarını yorumlayabilmeleri sağlanır ( OB1 ) . Ağırlığı bir kuvvet olarak tanımlamaları sağlanır. Yer çekiminden hareketle herhangi bir cismin Dünya'daki konumuna bağlı olarak ağırlığın değişebileceği vurgusu yapılır. Ayrıca bir cismin Dünya ve Ay'daki ağırlıklarının farklı olduğu açıklanır. Ağırlık ve kütle ölçümleri Dünya ve Ay ile sınırlandırılarak diğer gezegenlerde vurgulanmaz. Kütle çekim kuvveti kavramına girilmeden yer çekimi kuvvetinden bahsedilir. Öğrenciler süreç içerisinde merak ettiği soruları sorabilir ( E1.1 , E3.8 ) . Ağırlık ve kütle arasındaki ilişki matematik dersi ile ilişkilendirilebilir. Elde edien verileri kavram veya zihin haritası vb.ölçme araçlarıyla özetlemeleri istenebilir. Biçimlendirici değerlendirme için çalışma kâğıdı vb. kullanılabilir.",
+    "FB.5.2.3.1 Öğrencilerden günlük hayattan katı, sıvı ve gaz ortamlarda temas eden yüzeylere ilişkin hareketi zorlaştıran veya kolaylaştıran örnekler vermeleri istenir. Öğrencilerin süreç içerisinde etkin bir katılım ile örnekler arasındaki ilişkileri keşfederek örüntü oluşturmaları teşvik edilir ( SDB2.1 ) . Öğrencilerin örüntülerden yola çıkarak sürtünme kuvvetinin çeşitli ortamlardaki etkilerine yönelik yüzeyin pürüzlü ve az pürüzlü olma niteliklerini, sürtünme kuvvetinin özelliklerini ve günlük yaşamda olumlu-olumsuz etkilerini dikkate alan genelleme yapmaları sağlanır ( OB1 ) . Su ve hava direnci sürtünme kuvveti ile ilişkilendirilir. Sürtünme kuvvetinin özelliklerini yansıtan anlam çözümleme tablosu vb. öğretim teknikleri kullanılarak veri kaydetmeleri sağlanır ( OB7 ) . Bu noktada görsel sanatlarda kullanılan resim kâğıtları ve kalem türlerine değinilerek sürtünmenin sanattaki kullanımı konusunda farkındalık oluşturmaları sağlanır ( OB9 ). İstanbul'un fethinde Fatih Sultan Mehmet'in gemileri yağlı kalaslar ve yuvarlak nesneler kullanarak karadan hareket ettirdiğine değinilir ( D19.2 ) . Öğrencilerin sürtünmenin etkilerini balık kılçığı tekniğiyle göstermeleri sağlanabilir. Değerlendirmede tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir.",
+    "FB.5.2.3.2 Öğrencilerden günlük yaşamda sürtünmeyi artıran ve azaltan durumları gözlemlemek için basit araç gereçler kullanarak mühendislik ve tasarım döngüsüne uygun bir model tasarlamaları istenir. Bu tasarım sürecinde öğrencinin verilen problem durumunu sorgulamasını sağlayan iş birlikli, sorgulayıcı veya proje tabanlı öğrenme yaklaşımları kullanılabilir ( OB1 ) . Verilen performans görevleri çerçevesinde öğrenciler gruplara ayrılır ve öğrencilerden düşünce ve ifadelerinde özgür seçimler yaparak grup içerisinde yardımlaşmaları istenir ( E1.2 , SDB2.1 , SDB2.2 , D20.2 ) . Modeli tasarlama sürecinde planlarını zamanında ve eksiksiz yürütmeleri istenir ( D12.3 , D16.3 ) . Öğrencilerin belirledikleri araç gereçlerden yola çıkarak özgün ve bütüncül bir anlayışla modelini tasarlamaları teşvik edilir ( E3.11 ) . Öğrencilerin sürtünmenin günlük yaşamdaki olumlu ve olumsuz etkilerini gözlemlemek için tasarladıkları modellerini diğer modellerle karşılaştırmaları sağlanır. Karşılaştırma sonucunda tespit edilen hata ve eksiklikleri gelişim fırsatı olarak değerlendirerek modellerini geliştirmeleri teşvik edilir ( SDB1.3 , D16.3 ) . Model tasarım süreci teknoloji ve tasarım dersi ile ilişkilendirilebilir. Süreç analitik dereceli puanlama anahtarı, öz, akran ve grup değerlendirme formları vb. araçlarla değerlendirilebilir. Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( D1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D12.3",
+      "D16.3",
+      "D19.2",
+      "D20.2",
+      "D20.4",
+      "D3.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E3.11",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB7",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/368"
+}

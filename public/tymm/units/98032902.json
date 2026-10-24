@@ -1,0 +1,53 @@
+{
+  "unitId": 98032902,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "2. ÖĞRENME ALANI: ÜSLÜ İFADELER",
+  "hours": "15",
+  "description": "Terimler veya kavramlar: çok büyük ve çok küçük sayılar, bilimsel gösterim",
+  "outcomes": [
+    {
+      "code": "M.8.1.2.1",
+      "title": "Tam sayıların, tam sayı kuvvetlerini hesaplar",
+      "processComponents": []
+    },
+    {
+      "code": "M.8.1.2.2",
+      "title": "Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur",
+      "processComponents": [
+        "a ≠ 0; k, m, n tam sayılar olmak üzere a⁰ = 1, 1/aⁿ = a⁻ⁿ, aⁿ = 1/a⁻ⁿ, aⁿ · aᵐ = aⁿ⁺ᵐ, aᵐ/aⁿ = aᵐ⁻ⁿ, (aⁿ)ᵐ = aⁿ·ᵐ, (a·b)ᵏ = aᵏ·bᵏ, (a/b)ᵏ = aᵏ/bᵏ (b ≠ 0)"
+      ]
+    },
+    {
+      "code": "M.8.1.2.3",
+      "title": "Sayıların ondalık gösterimlerini 10’un tam sayı kuvvetlerini kullanarak çözümler",
+      "processComponents": [
+        "Örneğin 82,53 = 8 · 10¹ + 2 · 10⁰ + 5 · 10⁻¹ + 3 · 10⁻²"
+      ]
+    },
+    {
+      "code": "M.8.1.2.4",
+      "title": "Verilen bir sayıyı 10’un farklı tam sayı kuvvetlerini kullanarak ifade eder",
+      "processComponents": [
+        "Örneğin 51,2×10⁵ sayısı 512×10⁴ veya 5,12×10⁶ şeklinde de ifade edilebilir."
+      ]
+    },
+    {
+      "code": "M.8.1.2.5",
+      "title": "Çok büyük ve çok küçük sayıları bilimsel gösterimle ifade eder ve karşılaştırır",
+      "processComponents": [
+        "|a|, 1 veya 1’den büyük, 10’dan küçük bir gerçek sayı ve n bir tam sayı olmak üzere a×10ⁿ gösterimi “bilimsel gösterim”dir. a’nın pozitif olduğu durumlarla sınırlı kalınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sayılar ve İşlemler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

@@ -1,0 +1,39 @@
+{
+  "unitId": 81424048,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "48. ÜNİTE: BAĞLAMA - BAĞLAMANIN BÖLÜMLERİ",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.7.1.1",
+      "title": "Bağlamanın bölümlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.1.2",
+      "title": "Bağlamada akort sistemini düzenler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.1.3",
+      "title": "Bağlamada akort sistemlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.1.4",
+      "title": "Bağlamada düzenleri açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

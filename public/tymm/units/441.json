@@ -1,0 +1,149 @@
+{
+  "unitId": 441,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE MADDE DÖNGÜLERİ",
+  "hours": "18",
+  "description": "Bu ünitede fotosentezin önemi ve fotosentez hızına etki eden faktörlere ilişkin çıkarımların yapılması amaçlanmaktadır. Canlılarda solunum, madde döngülerinin yaşam açısından önemi küresel iklim değişikliklerinin nedenleri ile olası sonuçlarının ülkemize etkileri ve ülkemizdeki küresel iklim değişikliğinin sebep olduğu problemlere yönelik çözüm önerilerinin sunulması amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Enerji Dönüşümleri",
+      "processComponents": []
+    },
+    {
+      "code": "FB.8.7.1.1",
+      "title": "Bitkilerde besin üretiminde fotosentezin önemini yapılandırabilme",
+      "processComponents": [
+        "a) Fotosentez ile bitkilerdeki besin üretimi arasındaki nedensel ilişkileri ortaya koyar.",
+        "b) Bitkilerde besin üretiminde fotosentezin önemi konusunda elde ettiği bilgileri uyumlu bir bütün olarak açıklar."
+      ]
+    },
+    {
+      "code": "FB.8.7.1.2",
+      "title": "Fotosentez hızını etkileyen faktörler ile ilgili hipotez oluşturabilme",
+      "processComponents": [
+        "a) Fotosentez hızını etkileyen faktörleri tanımlar.",
+        "b) Fotosentez hızı ile onu etkileyen faktörler arasındaki neden sonuç ilişkilerini belirler.",
+        "c) Fotosentez hızını etkileyen değişkenleri belirler.",
+        "ç) Fotosentez hızını etkileyen değişkenleri kontrol eder.",
+        "d) Fotosentez hızını etkileyen faktörlere ait önerme sunar."
+      ]
+    },
+    {
+      "code": "FB.8.7.1.3",
+      "title": "Canlılarda solunumun önemini yapılandırabilme",
+      "processComponents": [
+        "a) Solunumu inceleyerek canlılardaki önemi ile ilişkisini ortaya koyar.",
+        "b) Canlılarda solunumun önemi konusunda elde ettiği bilgileri uyumlu bir bütün olarak açıklar. 2. Bölüm: Madde Döngüleri ve Çevre Sorunları"
+      ]
+    },
+    {
+      "code": "FB.8.7.2.1",
+      "title": "Madde döngülerini şema üzerinde bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Madde döngülerinin niteliklerini tanımlar.",
+        "b) Madde döngülerini şema üzerinde inceler.",
+        "c) Madde döngülerini yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.8.7.2.2",
+      "title": "Madde döngülerinin yaşam açısından önemini yapılandırabilme",
+      "processComponents": [
+        "a) Madde döngülerinin yaşam açısından önemi ile ilişkisini ortaya koyar.",
+        "b) Madde döngülerinin yaşam açısından önemi konusunda elde ettiği bilgileri uyumlu bir bütün olarak açıklar."
+      ]
+    },
+    {
+      "code": "FB.8.7.2.3",
+      "title": "Küresel iklim değişikliklerinin nedenlerini ve olası sonuçlarını tartışabilme",
+      "processComponents": [
+        "a) Küresel iklim değişikliklerinin nedenleri ve olası sonuçlarına yönelik mantıksal temellendirme yapar.",
+        "b) Küresel iklim değişikliklerinin nedenleri ve olası sonuçlarına yönelik mantıksal tutarsızlıkları tespit eder.",
+        "c) Küresel iklim değişikliklerinin nedenleri ve olası sonuçları konusunda geçerli bir fikir oluşturur."
+      ]
+    },
+    {
+      "code": "FB.8.7.2.4",
+      "title": "Ülkemizdeki küresel iklim değişikliğinin sebep olduğu bir probleme yönelik çözüm önerisi sunabilme",
+      "processComponents": [
+        "a) Ülkemizdeki küresel iklim değişikliğinin sebep olduğu problemi yapılandırır.",
+        "b) Yapılandırılan problemi özetler.",
+        "c) Problemin çözümüne yönelik gözleme ve veriye dayalı tahmin yürütür.",
+        "ç) Problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Ülkemizdeki küresel iklim değişikliğinin sebep olduğu problemin çözümüne yönelik değerlendirme yapar"
+      ]
+    }
+  ],
+  "keyConcepts": "fotosentez, fotosentez hızını etkileyen faktörler, solunum, ATP, su döngüsü, oksijen döngüsü, karbon döngüsü, asit yağmurları, ozon tabakası, sera etkisi, küresel ısınma, küresel iklim değişikliği, fosil yakıtlar, hava kirliliği, karbon ayak izi",
+  "support": [
+    "Fotosentezin oluşumu ile ilgili aşamalar poster üzerinden özetlenebilir. Madde döngülerinin aşamaları poster ve dijital içeriklerle adım adım açıklanabilir. Hazırlanacak projeye ilişkin yapılandırılmış bir yönergeyle adım adım ilerlemeleri sağlanabilir. Karbon ayak izi hesaplama adımları sırasında öğretmenden ya da arkadaşlarından yardım almaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Fotosentezin hızını etkileyen faktörleri gösteren deney düzeneği ya da dijital içerik hazırlamaları beklenebilir. Yiyeceklerin vücuda girdikten sonra hangi süreçlerden geçtiğine ve nasıl enerjiye dönüştüğüne yönelik araştırma görevi verilebilir. Madde döngülerini anlatan dijital içerik hazırlamaları sağlanabilir. Küresel iklim değişikliği sebebiyle ülkemizde oluşan bir çevre sorununu belirleyip sorunun çözümüne yönelik proje çalışması yapmaları istenebilir"
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, bilgi testi, tanılayıcı dallanmış ağaç, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri, bir ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. Öğrencilere bitkilerde besin üretiminde fotosentezin önemi ile ilgili afiş, poster vb. hazırlamalarını içeren performans görevi verilebilir. Bu performans görevi, süreç kontrol listesi ile değerlendirilebilir. Fotosentez hızını etkileyen faktörler ile ilgili deney düzeneği hazırlamayı içeren performans görevi verilebilir. Öğrencilerin deneyi hazırlayıp önermeye ulaşmalarını içeren süreçlere ilişkin performansları TGA tekniğini kullanarak raporlaştırmaları istenebilir. Öğrenci raporlarının değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Ülkemizdeki küresel iklim değişikliğinin sebep olduğu çevre sorunlarıyla ilgili bir sosyal sorumluluk projesi hazırlama görevi verilebilir. Çevre sorunlarının çözüm süreci ve yapılacak olan sosyal sorumluluk projesi analitik dereceli puanlama anahtarıyla değerlendirilebilir. Öğrencilerin performansları kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.8.7.1.1 Bitkilerin nasıl büyüdüğü beyin fırtınası tekniği ile sorgulanabilir. Besin zincirindeki üreticilerin görevlerinden yola çıkılarak bitkilerdeki besin üretiminde fotosentezin görevi açık uçlu sorularla sorgulanır. Öğrencilerin görüşleri hızlı tur tekniğiyle alınabilir. Bitkilerdeki besin üretimine dair kısa video, animasyon ya da poster üzerinde fotosentez inceletilerek öğrencilerin tartışmaları sağlanabilir ( OB2 , OB4 ) . Kimyasal denklemine girilmeden fotosentezde karbon dioksit ve su kullanıldığı, besin ve oksijen üretildiği vurgulanır. Fotosentezin yapay ışıkta da meydana gelebileceği belirtilir. Fotosentez ile bitkilerdeki besin üretimi arasında nedensel ilişkileri ortaya koymaları istenir ( KB2.13 , OB1 ) . Bitkilerde besin üretiminde fotosentezin önemi konusunda elde edilen bilgileri uyumlu bir bütün olarak açıklamaları sağlanır ( OB1 ) . Öğrencilerden bitkilerde besin üretiminde fotosentezin önemi ile ilgili afiş, poster vb. hazırlayarak sorgulamaları istenebilir ( OB4 ) . Öğrencilerin hazırladıkları tasarımlar kontrol listesi ile değerlendirilebilir. Doğanın dengesi için bitkilerin büyüme ve gelişiminin önemli olduğunu fark etmeleri sağlanır ( D5.2 ) . Öğrencilerin öğrenme durumları çalışma kâğıtları, açık uçlu sorular vb. ölçme araçlarıyla değerlendirilebilir.",
+    "FB.8.7.1.2. Öğrencilere fotosentez hızını etkileyen faktörlerin neler olabileceğine yönelik açık uçlu sorular sorulabilir. Öğrencilerin fotosentez hızını etkileyen faktörleri tanımlamaları istenir. Öğrencilerin bireysel ya da grup çalışması yaparak aktif görev aldığı fotosentez hızını etkileyen faktörler ile ilgili deney düzeneği hazırlamaları beklenir ( D3.3 , SDB2.2 ) . Süreçte öğrenci performanslarını yapılandırmada TGA tekniği kullanılabilir. Öğrencilerin fotosentez hızını etkileyen faktörler arasındaki neden sonuç ilişkilerini belirlemeleri sağlanır ( OB1 ) . Deneye ait bağımlı, bağımsız ve kontrol değişkenlerini öğrencilerin belirlemeleri istenir. Bu süreçte ışık rengi, su miktarı, ışık şiddeti, sıcaklık vb. değişkenler dikkate alınarak neden sonuç ilişkisi bağlamında sınıf ortamında ya da sanal laboratuvarda deneyler yapılabilir. Karbon dioksit miktarının fotosentez üzerindeki etkileri açıklanır. Deneye ait tüm basamaklar sınıf ortamında ya da sanal laboratuvar ile gerçekleştirilebilir. Sanal laboratuvarlarla deneye ilişkin uygulamaları yürütmeleri ve sonuçları yorumlamaları sağlanabilir ( OB7 , OB2 ) . Değişkenleri kontrol edebilecekleri düzenekleri hazırlamaları ve bu düzenekleri gözlemleyerek kaydetmeleri beklenir ( OB1 ) . Gözlem sürecinde sistematik olmaları ve sorumluluk bilinciyle planlı çalışmaları beklenir ( D3.3 , E3.7 , E2.2 , SDB1.2 ) . Öğrencilerin elde ettikleri verilere dayanarak araştırmacı ve sorgulayıcı yaklaşımla önerme oluşturmaları beklenir ( KB2.16.1 , D3.3 ) . Öğrencilerin önermeye yönelik hazırladıkları deneye ilişkin performanslarını TGA tekniğini kullanarak raporlaştırmaları istenebilir. Öğrenci raporlarının değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "FB.8.7.1.3. Solunumun canlılar için neden önemli olduğu ile ilgili öğrencilerin kavram haritası, kavram ağı vb. hazırlamaları istenebilir. Solunumun canlılar için önemine ilişkin grup tartışması tekniğinden faydalanılabilir ( SDB2.1 , SDB3.3 ) . Öğrencilerin bu konudaki görüşlerini ifade ederken açık fikirli davranmaları, araştırmacı ve sorgulayıcı bakış açısıyla fikirlerini savunmaları sağlanabilir ( KB3.3 , E3.5 , D3.3 ) . Öğrencilerin, solunumun canlılar için neden önemli olduğu ile ilgili mantıksal ilişkileri ortaya koymaları beklenir ( OB1 ) . Süreçte solunumun kimyasal denklemine, solunum türlerine ve solunum evrelerine girilmeden tüm canlılar için ortak bir özellik olduğu vurgulanır. Tüketicilerin solunum için gerekli besinleri dışarıdan aldığı, üreticilerin ise solunum için besinlerini kendilerinin ürettiği açıklanır. ATP (Adenozin trifosfat) yapısı ve solunum sonucunda açığa çıkan enerji miktarının sayısal değerlerine girilmeden ATP'den bahsedilir. Bitkilerde solunum ile ilgili poster, video, animasyon vb. araçlar kullanılarak öğrencilerin konuya merakı çekilebilir ( OB4 , OB2 , OB1 , E1.1 ) . Canlılarda solunumun önemi konusunda araştırma yapmaları istenir. Canlılarda solunumun önemi konusunda elde ettikleri bilgileri uyumlu bir bütün olarak açıklamaları istenir. Öğrencilerin grup çalışmalarında kaydettikleri verileri araştırmacı ve sorgulayıcı bakış açısıyla tüm sınıfla paylaşmaları sağlanır ( D3.3 ) . Çalışma kâğıdı, tanılayıcı dallanmış ağaç vb. ölçme araçları değerlendirme için kullanılabilir.",
+    "FB.8.7.2.1. Öğrencilerin madde döngülerinin önemi ile ilgili tartışmaları sağlanabilir. Tartışma sırasında Türkçe dersinde yer alan iletişim becerilerinden faydalanılabilir. Su, oksijen ve karbon döngülerinin şemalarını gösteren model, poster, video, animasyon vb. ile öğrencilerin madde döngülerinin aşamalarına odaklanmaları sağlanarak gözlem yapmaları istenir ( OB4 , OB2 , E3.2 ) . Madde döngülerini şema üzerinde göstererek niteliklerini tanımlamaları sağlanır. Su, oksijen ve karbon döngüsüne ait süreçler ile ilgili topladığı bilgileri kaydetmeleri sağlanır ( KB2.6 , OB4 , OB2 ) . Bu görsellere ilişkin merak ettikleri soruları sormaları beklenir ( E3.8 ) . Altı şapkalı düşünme tekniği kullanılarak öğrencilerin madde döngülerini farklı yönleriyle incelemeleri sağlanabilir. Bu süreçte öğrencilerin gruplara ayrılarak görev bilinciyle birlikte çalışmaları istenebilir ( SDB2.1 , SDB2.2 , D16.3 ) . Ayrıca günlük yaşamdaki durumlar ve gözlemler dikkate alınarak sorgulama yapılabilir. Konuya ilişkin elde ettikleri bilgileri yorumlayıp değerlendirmeleri istenir. Öğrencilerin madde döngülerini sürdürülebilir bir sistemin parçaları arasındaki ilişkiler açısından ele almaları ve bütüncül olarak değerlendirmeleri desteklenir ( OB1 , OB8 ) . Bu süreçte araştırmacı ve sorgulayıcı bakış açısıyla yaklaşmaları beklenir ( D3.3 ) . Değerlendirme için açık uçlu sorular da içeren çalışma kâğıdı vb. kullanılabilir.",
+    "FB.8.7.2.2. Madde döngülerinin yaşam açısından önemi ve döngülerde oluşabilecek olası sorunların günlük hayata yansımalarıyla ilgili beyin fırtınası vb. tekniklerle öğrencilerin ön bilgileri belirlenir. Madde döngülerinin yaşam açısından önemine ilişkin grup tartışması tekniğinden faydalanılabilir ( SDB2.1 , SDB3.3 ) . Öğrencilerin, madde döngülerinin yaşam açısından neden önemli olduğu ile ilgili mantıksal ilişkileri ortaya koymaları sağlanır ( KB3.3 , KB2.13 , OB1 ) . Asit yağmurları, ozon tabakası, sera etkisi ve küresel ısınma konularında ayrılıp birleşme tekniği ile görüşlerini paylaşmaları istenebilir ( OB8 , SDB2.3 ) . Öğrencilerin bu konudaki görüşlerini ifade ederken açık fikirli davranmaları, araştırmacı ve sorgulayıcı bakış açısıyla fikirlerini savunmaları beklenir ( E3.5 , D3.3 ) . Madde döngülerinin yaşam için önemini gösteren video, animasyon, kısa belgesel vb. ile öğrencilerin konuya dikkatleri çekilir ( OB4 , OB2 , OB1 ) . Öğrencilerin madde döngülerinin yaşam açısından önemi konusunda elde ettiği bilgileri uyumlu bir bütün olarak açıklamaları istenir ( OB8 ) . Öğrencilerin grup çalışmalarında kaydettikleri verileri araştırmacı ve sorgulayıcı bakış açısıyla tüm sınıfa sunmaları sağlanır ( D3.3 , SDB2.1 ) . Çalışma kâğıdı, tanılayıcı dallanmış ağaç vb. ölçme araçları değerlendirme için kullanılabilir.",
+    "FB.8.7.2.3. Küresel iklim değişikliğinin nedenlerini ve olası sonuçlarını içeren örnek olay senaryosu üzerinden beyin fırtınası tekniği yaptırılabilir. Küresel iklim değişikliğinin olası sonuçlarının insan ve çevre üzerindeki etkileri konusunda öğrencilerin dijital, basılı ve görsel kaynaklar vb. aracılığıyla araştırma yapmaları beklenir ( SDB3.2 , OB1 ) . Öğrencilerin konu ile ilgili mantıksal temellendirmeler yapmaları istenir. Bunun için öğrenciler sınıfta gruplara ayrılarak takım çalışması içinde münazara, altı şapkalı düşünme vb. yöntemler kullanılır ( SDB2.1 ) . Tartışma sırasında sabırlı ve olgun davranışların sergilenmesi ve grup içinde tartışmalarda liderlik gibi becerilerin gelişmesi beklenir ( D12.3 , D3.4 ) . Kullanılan fosil yakıtların hava kirliliğini, sera etkisini ve küresel ısınmayı artıracağı vurgulanır. Fosil yakıtların kullanımı sonucunda atmosfere salınan karbon dioksitin karbon ayak izi ile ölçüldüğünden bahsedilir. Güvenilir genel ağ adreslerinden güvenilir sitelere ulaşılarak öğrencilerin karbon ayak izlerini hesaplamaları ve üzerinde düşünmeleri sağlanır ( OB2 ) . Karbon ayak izi konusunda tüketimin etkisi vurgulanarak tasarrufun önemi konusunda farkındalıkları pekiştirilir ( D17.1 ) . Karbon ayak izlerini azaltmak için uygulayabilecekleri tasarruf önlemlerini belirleyerek düzenli uygulamalarla bu tasarruflarını birikime dönüştürmeleri teşvik edilir ( OB3 ) . Küresel iklim değişikliğinin nedenlerini ve olası sonuçlarını eleştirel bir gözle bakarak değerlendirmeleri beklenir ( KB3.3 , E3.10 , SDB3.3 ) . Küresel iklim değişikliği ile ilgili mantıksal tutarsızlıkları tespit etmeleri sağlanır ( OB8 ) . Bu süreçte öğrencilerin açık fikirli davranmaları, saygı çerçevesinde fikir üretmeleri, nezaketle fikirlerini savunmaları beklenir ( D14.1 , E3.5 ) . Tartışma sonunda küresel iklim değişikliklerinin nedenlerini ve olası sonuçlarının insan ve çevre üzerine etkisi konusunda geçerli fikirler oluşturmaları beklenir ( OB1 , OB8 ) . Öğrenme durumları ise çalışma kâğıdı ile değerlendirilebilir.",
+    "FB.8.7.2.4. Öğrencilere ülkemizdeki küresel iklim değişikliğinin sebep olduğu çevre sorunlarını konu alan görsel, haber, belgesel vb. sunularak çevre sorunlarına vurgu yapılır. Öğrencilerin çevre sorunları ile ilgili merak ettikleri soruları sormaları istenir ( E3.8 ) . Dijital, yazılı ve görsel kaynaklar vb. yardımıyla çevre sorunlarına yol açan insan faaliyetlerine dikkat çekilir ( OB2 , OB4 ) . Öğrencilerin ülkemizdeki küresel iklim değişikliğinin sebep olduğu çevre sorunlarını yapılandırmaları beklenir ( OB8 , OB1 ) . Bu süreçte grup çalışması yapılabilir ( SDB1.2 , SDB2.3 ) . Ülkemizdeki küresel iklim değişikliğinin sebep olduğu çevre sorunlarının insanların sağlığı üzerindeki olumsuz etkilerine değinilir ( D5.2 , D18.2 ) . Yapılandırdıkları problemi özetlemeleri istenir. Gözleme ve araştırma verilerine dayanarak çevre sorunlarının çözümüne yönelik tahmin yürütmeleri beklenir ( SDB3.3 , E3.11 ) . Öğrencilerin çevre sorunlarının çözümüne yönelik önermeler üzerinden akıl yürütmeleri sağlanır. Bu süreci münazara vb. teknikler kullanılarak yapmaları sağlanır ( OB1 , SDB3.3 , SDB3.2 ) . Çözüm önerilerini değerlendirmeleri istenir. Bu değerlendirme aşamasında düşüncelerini uygun bir dille ifade ederek kendi önerilerini ve birbirlerinin çözüm önerilerini eleştirel bir bakışla irdelemeleri sağlanır ( D4.2 , E3.5 , E3.10 ) . Hazırladığı rapor, kısa not vb. çalışmaları ile çözüm önerilerini sınıf ortamında diğer arkadaşlarıyla paylaşmaları beklenir ( SDB2.1 ) . İnsan sağlığı ve doğa sevgisinin önemi vurgulanır ( D9.3 ) . Öğrencilerin ülkemizdeki küresel iklim değişikliğinin sebep olduğu çevre sorunlarıyla ilgili bir sosyal sorumluluk projesi hazırlamaları istenir ( SDB2.3 , SDB3.2 , OB5 , OB8 , D20.3 , D3.3 , E2.2 ) . Sağlıklı bir çevrede yaşamanın vatandaşlık hakkı olduğu ve bunu sağlamak için gereken sorumlulukların yerine getirilmesi gerektiği vurgulanır ( OB6 ) . Bu süreçte Türkçe dersi, çevre eğitimi ve iklim değişikliği dersi ile ilişkilendirilebilir. Çevre sorunlarının çözüm süreci ve yapılacak olan sosyal sorumluluk projesi analitik dereceli puanlama anahtarıyla değerlendirilebilir. Öğrencilerin performansları kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D14.1",
+      "D16.3",
+      "D17.1",
+      "D18.2",
+      "D20.3",
+      "D3.3",
+      "D3.4",
+      "D4.2",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.10",
+      "E3.11",
+      "E3.2",
+      "E3.5",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.16.1",
+      "KB2.6",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB5",
+      "OB6",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/441"
+}

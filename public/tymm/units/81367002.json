@@ -1,0 +1,38 @@
+{
+  "unitId": 81367002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Uluslararası İlişkiler Dersi",
+  "title": "2. ÜNİTE: ULUSLARARASI İLİŞKİLERDE AKTÖRLER VE AKTÖRLERİN İLİŞKİ TÜRLERİ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ULI.2.1",
+      "title": "Uluslararası ilişkileri belirleyen aktör türlerini ayırt eder",
+      "processComponents": [
+        "Aktörlüğün, hem bir hak hem de yükümlülük olduğu örneklerle açıklanır.",
+        "Devlet ve devlet dışı aktörlerin özelliklerine değinilir.",
+        "Uluslararası ilişkilerde aktör türlerinin çeşitlenmesinin nedenlerini açıklayınız."
+      ]
+    },
+    {
+      "code": "ULI.2.2",
+      "title": "Uluslararası aktörlerin ilişki türlerini açıklar",
+      "processComponents": [
+        "Çatışma türleri (tırmanma, caydırma, savaş), çatışmaların önlenmesi ve sorunların çözümü için yapılması gerekenler üzerinde durulur.",
+        "Uluslararası aktörlerin, ihtiyaç duydukları alanlarda iş birliği yaptığı açıklanır.",
+        "1. Ünitenin, “Uluslararası İlişkilerde Üç Temel Yaklaşım” konusunun 5. kazanımı ile ilişkilendirilir.",
+        "Uluslararası aktörleri çatışma ve iş birliğine yönelten sebepleri değerlendiriniz."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163240412-Uluslararas%C4%B1%20ili%C5%9Fkiler.pdf"
+}

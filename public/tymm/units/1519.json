@@ -1,0 +1,51 @@
+{
+  "unitId": 1519,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Yapay Zekâ Uygulamaları Dersi",
+  "title": "DÜZEY II · 1. Tema: Hayatımızda Yapay Zekâ",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YZU2.1.1",
+      "title": "Makine öğrenmesine ilişkin temel kavramları sorgulayabilme",
+      "processComponents": [
+        "a) Makine öğrenmesine ilişkin temel kavramları tanımlar.",
+        "b) Makine öğrenmesine ilişkin temel kavramlar ile ilgili sorular sorar.",
+        "c) Makine öğrenmesine ilişkin temel kavramlar ile ilgili bilgi toplar.",
+        "ç) Makine öğrenmesine ilişkin temel kavramlar ile ilgili toplanan bilgilerin doğruluğunu, etik ve güvenlik/ mahremiyet açısından uygunluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "YZU2.1.2",
+      "title": "Bulanık mantığa ilişkin temel kavramları sorgulayabilme",
+      "processComponents": [
+        "a) Bulanık mantığa ilişkin temel kavramları tanımlar.",
+        "b) Bulanık mantığa ilişkin temel kavramlar ile ilgili sorular sorar.",
+        "c) Bulanık mantığa ilişkin temel kavramlar ile ilgili bilgi toplar.",
+        "ç) Bulanık mantığa ilişkin temel kavramlar ile ilgili toplanan bilgilerin doğruluğunu, etik ve güvenlik/ mahremiyet açısından uygunluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "YZU2.1.3",
+      "title": "Yapay zekâ bileşenlerini ayrıştırabilme",
+      "processComponents": [
+        "a) Yapay zekâ bileşenlerini içeren problemi alt problemlere ayırır.",
+        "b) Her bir alt problemi uygun yaklaşımlarla çözümler.",
+        "c) Alt problemleri bütünsel bir çözüm için birleştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "bulanık mantık, makine öğrenmesi, mantıksal yaklaşım, örüntü tanıma, tahmin, veri kümesi",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB2. Bilgi İşlemsel Düşünme (BTYAB2.3. Ayrıştırma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1519"
+}

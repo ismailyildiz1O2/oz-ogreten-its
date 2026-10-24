@@ -1,0 +1,127 @@
+{
+  "unitId": 297,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "2. TEMA: GEOMETRİK ŞEKİLLER",
+  "hours": "62",
+  "description": "Bu temada öğrencilerin üçgende açı, benzerlik ve alan özelliklerinden yola çıkarak dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin muhakeme yapabilmeleri; özel dörtgenlerin kenar, açı, köşegen ve simetri özelliklerinden hareketle aralarındaki ilişkileri yapılandırabilmeleri; çokgenleri sınıflandırabilmeleri; dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin çıkarımda bulunabilmeleri; dışbükey çokgenlerin ve özelliklerinin kullanıldığı durumlara ilişkin problem çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.11.2.1",
+      "title": "Üçgenlerde açı, benzerlik ve alan özelliklerinden yola çıkarak dörtgenlerin açı, kenar, köşegen, simetri ve alan özelliklerine ilişkin muhakeme yapabilme",
+      "processComponents": [
+        "a) Dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin varsayımlarda bulunur.",
+        "b) Varsayımlarını kullanarak dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin örüntüleri geneller.",
+        "c) Dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin varsayımları ile genellemelerini karşılaştırır.",
+        "ç) Elde ettiği genellemeleri kullanarak dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin önermeler sunar.",
+        "d) Dörtgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin sunduğu önermeleri yeni durumlara uyarlayarak değerlendirir.",
+        "e) Elde ettiği önermeleri üçgenlerde açı, benzerlik ve alan özelliklerini kullanarak ispatlar.",
+        "f) Uyguladığı ispatı kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.2.2",
+      "title": "Özel dörtgenlerin kenar, açı, köşegen ve simetri özelliklerinden hareketle aralarındaki ilişkileri yapılandırabilme",
+      "processComponents": [
+        "a) Dörtgenlerin özelliklerini kullanarak özel dörtgenler arasında hiyerarşik veya nedensel ilişkiler ortaya koyar.",
+        "b) Özel dörtgenler arasındaki hiyerarşik ilişkilere dair anlamlı bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.11.2.3",
+      "title": "Çokgenleri içbükey veya dışbükey olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Çokgenleri ayırt etmek için ölçütler belirler.",
+        "b) Çokgenleri belirlediği ölçütlere göre ayrıştırır.",
+        "c) Ayrıştırdığı çokgenleri tasnif eder.",
+        "ç) Çokgenleri belirlediği ölçüte uygun olarak etiketler/belirler."
+      ]
+    },
+    {
+      "code": "MAT.11.2.4",
+      "title": "Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine dair varsayımlarda bulunur.",
+        "b) Varsayımlarını kullanarak dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin örüntüleri geneller.",
+        "c) Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin genellemelerini varsayımları ile karşılaştırır.",
+        "ç) Elde ettiği genellemeleri kullanarak dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin önermeler sunar.",
+        "d) Dışbükey çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine ilişkin sunduğu önermeleri problem durumlarına uyarlayarak kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.2.5",
+      "title": "Çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerini içeren problemler çözebilme",
+      "processComponents": [
+        "a) Çokgenleri içeren problemlerin parçalarını (nicelik, şekil gibi) belirler.",
+        "b) Problemin parçaları arasındaki ilişkileri belirler.",
+        "c) Problemin bileşenlerini ve aralarındaki ilişkileri bağlama uygun olarak matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemin öncüllerini ve ulaşmak istediği sonucu kendi ifadeleri ile açıklar.",
+        "d) Problemin çözümü için stratejiler geliştirir.",
+        "e) Geliştirdiği stratejileri kullanarak problemi çözer.",
+        "f) Çözümünü kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin olası farklı çözüm stratejilerini inceleyerek problemin çözümüne ilişkin deneyimini gözden geçirir.",
+        "ğ) Deneyimine dayalı olarak çözüme ulaştıran stratejilerin hangi problemlere uyarlanabileceğine ilişkin çıkarım yapar.",
+        "h) Ulaştığı çıkarımların geçerliliğini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "alan, deltoid, dışbükey çokgen, dikdörtgen, düzgün çokgen, eşkenar dörtgen, içbükey çokgen, kare, köşegen, paralelkenar, simetri, yamuk",
+  "support": [
+    "Öğrencilerin konuya ilişkin içerik bilgisine ulaşmalarında ve hedeflenen becerileri kazanmalarında çoklu ortam araçlarının (cetvel, gönye, pergel gibi matematiksel araç gereç veya matematik yazılımları) kullanımına dikkat edilebilir. Özellikle dijital etkileşimli içeriklerle uygulama yapma imkânı sağlanabilir. Öğrencilere temel bilgileri edinebilecekleri farklı görseller içeren çokgen örnekleri sunulur, bunlarla ilgili olarak akranlarıyla çıkarım yapma sürecine girmeleri beklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden origamiyle düzgün çokgenler oluşturmaları istenir. Bu oluşumlarda katlamaların nasıl yapıldığı, neden o şekilde katlandığı gibi sorulara cevap vermeleri beklenebilir. Ayrıca düzgün çokgenlerin ötelenmesi, yansıması ve dönmesinden yararlanarak çeşitli desenler elde etmeleri istenebilir. Bu desenler hazır kâğıtlarla yapılabileceği gibi dijital araçlarla da yapılabilir.",
+    "Öğrencilerden doğadaki düzgün çokgen örnekleri (bal peteklerinin altıgen olması gibi) hakkında araştırma yaparak çalışmalarını özetlemek üzere afiş hazırlamaları ve bu afişleri sunmaları beklenebilir. Olanaklar dâhilinde öğrencilerin afişi dijital ortamda geliştirmeleri ve sınıfta paylaşmaları istenir.",
+    "Öğrencilere matematik yazılımları kullanılarak çokgenin kenar sayısının artmasıyla oluşan köşegen sayısındaki ve çokgenin içinde oluşan üçgen sayısındaki değişimleri gösteren bir çalışma verilebilir. Öğrencilerin çalışmalarını sınıf arkadaşlarına sunmaları sağlanabilir.",
+    "(*) Çokgenin farklı köşelerden çizilen köşegenlerle veya farklı yollarla üçgenlere parçalandığı durumlarda iç açıların ölçüleri toplamını veren bağıntının nasıl elde edilebileceğine dair bir çalışma yapmaları istenebilir.",
+    "(*) Altın oranın ve yıldızın düzgün beşgenle ilişkisini, Mimar Sinan'ın eserlerinde beşgen kullanılarak oluşturulmuş geometrik desenleri ve Leonardo da Vinci'nin (Leyonardo da Vinçi) altın oranla ilgili yaptığı çalışmaları araştırmaları istenebilir.",
+    "(*) Matematik yazılımları veya pergel, ölçüsüz cetvel kullanılarak inşa edilebilen düzgün çokgenler araştırma ödevi olarak verilebilir. Düzgün yıldız çokgenlerle ilgili araştırma yapılması istenebilir. Öğrencilerin yaptığı araştırmaları afiş, poster ve çevrim içi uygulamalar kullanarak sınıf arkadaşlarına sunmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, doğru-yanlış soruları, kısa cevaplı sorular, çalışma kâğıtları, kavram haritası, tanılayıcı dallanmış ağaç, yapılandırılmış grid, performans görevi ve araştırma ödevi ile değerlendirilebilir.",
+    "Üçgenlerde açı, benzerlik ve alan özelliklerinden yola çıkılarak dörtgenlerin özelliklerine ilişkin bilgi ve çıkarımların değerlendirilmesi amacıyla verilen çalışma kâğıdı analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin çokgenler ve dörtgenlere ilişkin yaptıkları sınıflandırma, yapılandırma ve çıkarımlara ilişkin bilgi ve becerilerini konuyla ilgili farklı problem durumlarının oluşturulması ve problemlerin çözümü için kullanmalarını sağlayacak bir performans görevi verilebilir. Öğrencilerin çalışmaları, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.11.2.1 Öğrencilerin önceki sınıf düzeylerinden öğrendikleri dörtgenlerin temel özelliklerinden (iç açı, dış açı, kenar sayısı, köşegen sayısı) yola çıkılarak yapılan örnek çizimlerle bir dörtgenin başka bir temel özelliğinin dışbükeylik-içbükeylik olduğuna dair açıklamalar yapılır. Sadece dışbükey dörtgenlere ait özellikler incelenir.",
+    "Öğrencilerin farklı dörtgenlere ait örnekleri inceleyerek her bir dörtgenin kenar, açı ve köşegen özellikleri ile ilgili varsayımda bulunması sağlanır. Dörtgen örnekleri, çalışma kâğıdı veya matematik yazılımları kullanılarak sunulur ( MAB5 ) . Örneklerin matematik yazılımları kullanılarak sunulmasıyla öğrencilerin dijital araçlarla çalışabilme becerilerinin gelişimi de desteklenir ( OB2 ) . Öğrenciler, örnekler üzerinden elde ettikleri varsayımlarından genellemeler yapar. Bu süreçte öğrencilerin kendi fikirlerinden anlamlı ve etkili olanları ayırt etmeleri, arkadaşlarının görüşleriyle ilgili düşüncelerini paylaşmaları desteklenmelidir ( E1.6 , SDB2.1 ) . Daha sonra öğrencilerin ulaşılan genellemelerin varsayımlarını karşılayıp karşılamadığını belirleyerek genellemelerini önermeler (\"Eşkenar dörtgenin köşegenleri açıortaydır.\", \"Yamuğun köşegenleri birbirini oranlı olarak böler.\", \"İkizkenar yamuğun köşegen uzunlukları birbirine eşittir.\" gibi) olarak ifade etmesi istenir. Önermelerin değerlendirilmesi sürecinde öğrencilerin sunulan önermeleri dörtgenlere ilişkin başka özelliklerin belirlenmesinde kullanması beklenir.",
+    "Benzer bir çıkarım yapma süreci işletilerek, öğrencilerin üçgene ilişkin bilgilerini kullanarak ve farklı dörtgen örnekleri üzerinde çalışmalar yaparak dörtgenlerin simetri ( \"Paralelkenarın simetri ekseni yoktur.\", \"Karenin köşegenleri simetri eksenidir.\" gibi) ve alan ( \"Dörtgenin alanı, köşegen uzunlukları ile köşegenleri arasındaki açının sinüsünün çarpımının yarısına eşittir.\" gibi) özelliklerine ilişkin çıkarımlarda bulunması sağlanır. Bunun yanı sıra öğrencilerden dörtgenle ilgili çıkarım ve değerlendirmeleri ile üçgene ilişkin bilgilerini (üçgende benzerlik koşulları ve alan bağıntıları, Pisagor teoremi gibi) kullanarak dörtgenlere ilişkin başka çıkarımlara (\"Paralelkenarın köşegenleri alanını dört eş parçaya ayırır.\", \"Dik yamuğun köşegenlerinin dik kesişmesi durumunda paralel kenarların uzunluklarının çarpımı yüksekliğin karesine eşittir.\" gibi), özel dörtgenlerden biri olan deltoidin tanımına (herhangi bir üçgenin en uzun kenarına göre simetriğinin alınması ile elde edilen dörtgen) ve deltoidin açı, köşegen, simetri ve alan özelliklerine öğretmenin rehberliğinde ulaşmaları beklenir. Elde ettikleri önermeleri ispatlamak için dörtgenin içinde özelliğe uygun şekilde oluşturulan üçgenlerin açı, benzerlik veya alan özelliklerini kullanmaları sağlanır. Yapılan ispatları farklı problem durumlarına uyarlayarak kullanışlılık açısından değerlendirmeleri sağlanır. Öğrencilere üçgenlerde açı, benzerlik ve alan özelliklerinden yola çıkılarak dörtgenlerin özelliklerine ilişkin bilgi ve çıkarımların değerlendirilmesi amacıyla tanılayıcı dallanmış ağaç, doğru-yanlış soruları ve açık uçlu sorulardan oluşan bir çalışma kâğıdı verilebilir.",
+    "MAT.11.2.2 Öğrenciler özel dörtgenlerin açı, kenar, köşegen ve simetri özelliklerine ilişkin bilgilerini kullanarak bu dörtgenler arasındaki ilişkilere dair fikirlerini paylaşır. Bunun için öğrencilerin gruplar hâlinde veya sınıfça tartışabilecekleri bir ortam oluşturulur. Öğrencilerden bu ilişkileri görsel olarak ortaya koyan akış şeması veya kavram haritası yapmaları istenebilir. Bu şema veya kavram haritaları, dijital ortamlarda da oluşturulabilir ( OB2 ) . Yapılan çalışmalarda dörtgenler arasındaki ilişkiler (\"Eşkenar dörtgen, karşılıklı açılarının ölçüleri birbirine eşit olan bir deltoiddir.\" veya \"Eşkenar dörtgen, tüm kenar uzunlukları birbirine eşit olan bir paralelkenardır.\" gibi) vurgulanmalıdır. Öğrencilere yöneltilecek açık uçlu sorular ve öğrenci cevaplarına verilen dönütlerle öğrencilerin deltoid ile diğer özel dörtgenler arasındaki benzerlikler (kenar, köşe sayısı gibi) vefarklılıklarla (kenar uzunlukları, köşegenlerin kesişme durumları gibi) ilgili yeni fikirler geliştirmeleri sağlanır ( E3.5 ) . Öğrencilerin fikirleri doğrultusunda ve simetri ekseni, kenarların paralelliği, kenarların uzunluklarının birbirine eşit olması gibi özellikler bağlamında dörtgenleri farklı hiyerarşik yapılarda sınıflandırmaları beklenir. Bu sınıflandırmalarda belirlenen hiyerarşik yapıya uygun olmayan dörtgenlerin olup olmadığı da incelenir. Öğretmenin tüm çalışmalara ilişkin sürece soru, yönerge ve açıklamalarıyla rehberlik etmesi beklenir. Öğrencilerin özel dörtgenlerin arasındaki ilişkilere dayalı olarak gerçekleştirdiği yapılandırma süreci ve edindikleri bilgiler, kısa cevaplı sorular veya yapılandırılmış grid kullanılarak değerlendirilebilir.",
+    "MAT.11.2.3 Öğrencilere farklı kenar sayısına sahip içbükey ve dışbükey çokgen örneklerinin bulunduğu çalışma kâğıtları verilerek örnekleri karşılaştırmaları istenir. Öğrencilerin farklı olduğunu düşündükleri çokgenleri gruplandırmaları istenerek farklı gruplara koydukları çokgenlerin bu görünümlerinin sebepleri üzerine düşünmeleri sağlanır. Sınıf gruplara ayrılarak her bir gruba verilecek çalışma kâğıdıyla öğrencilerin birlikte çalışmalarına da olanak verilir ( SDB2.1 , SDB2.2 ) . Öğrencilerden çokgenleri sınıflandırmalarını sağlayacak ölçütler belirlemeleri istenir ve öğrencilerin belirledikleri ölçütler sınıfça tartışılır. Öne çıkan fikirlerden içbükey ve dışbükey çokgenleri ayırmak için kullanılabilecek ölçütler (en az bir iç açının ölçüsünün 180°den büyük olması, çokgenlerin iç bölgesinde alınan herhangi iki noktayı birleştiren doğru parçalarının tüm noktalarının her durumda çokgenin iç bölgesinde kalıp kalmaması gibi) öğrencilerle beraber belirlenir ve gerekçelendirilir. Öğrencilerin grup çalışması içinde üzerine düşen görevleri yerine getirme çabası, sorumluluk bilincine sahip olmalarını ve öz güvenlerinin gelişimini de destekler ( D16.3 , E1.5 ) . Öğrencilerden belirlenen ölçütlere göre çokgenler üzerinde ölçüm ve çizimler yaparak çokgenleri sınıflandırmaları ve oluşturdukları çokgen gruplarını düzenlemeleri istenir ( MAB5 ) . Oluşturulan gruplarda bulunan çokgenlerin içbükey ve dışbükey olarak adlandırıldığı ifade edilerek farklı çokgenlerin isimlendirilmesi (dışbükey beşgen, içbükey dörtgen gibi) sağlanır. Öğrencilere farklı kültürlere ve Türk-İslam kültürüne ait dışbükey ve içbükey çokgen çizimlerinin bulunduğu motif, süsleme ve dokuma örnekleri sunulur. Sunulan örneklerdeki geometrik yapılar incelenerek öğrencilerin kültür ve sanat okuryazarlığı desteklenir ( OB5 , OB9 ) . Ayrıca sunulan bu örnekler aracılığıyla öğrencilerin kültürel mirasa değer vermeye ilişkin duyarlılıklarının artırılması sağlanır.",
+    "MAT.11.2.4 Öğrencilerde konuya dair merak uyandırmak için Farabi'nin dışbükey dörtgen, beşgen ve çokgenleri parçalayarak incelemesiyle ilişkili geometri çalışmalarından bahsedilir ( E1.1 ) . Farklı kenar sayısına sahip dışbükey çokgen örneklerini kullanarak öğrencilerin çokgenin bir köşesinden kaç köşegen çizilebileceğine ve bir köşeden çizilen köşegenlerle çokgenin kaç üçgene ayrılabileceğine dair varsayımlarda bulunmaları sağlanır. Öğrencilerden örnekler üzerinde yapacakları çizim ve incelemelerle varsayımlarını genellemelere dönüştürmeleri beklenir. Kenar sayısı verilen bir çokgenin bir köşesinden en fazla kaç köşegen çizilebileceği ve bu köşegenlerle çokgenin içinde kaç tane üçgen oluşabileceğine ilişkin genellemelere sınıf içi tartışma yoluyla ulaşmaları desteklenir. Öğrencilerin bir tablo oluşturmaları ve sırasıyla üçgen, dörtgen, beşgen, altıgen ve yedigen için tespit ettikleri köşegen ve üçgen sayılarını belirlemeleri sağlanır ( MAB3 ) . Öğrencilerden ulaşılan genellemeler ile varsayımlarını karşılaştırması ve ulaşılan genellemeleri önermeler (\"Bir çokgenin iç bölgesinde belirli bir köşeden en fazla çizilen köşegen sayısının bir fazlası kadar üçgen oluşur.\" gibi) olarak ifade etmesi istenir. Öncelikle çokgenin iç açılarının ölçüleri toplamını kenar sayısına bağlı olarak ifade etmeleri ve çokgenin dış açılarının ölçüleri toplamının kenar sayısından bağımsız olarak 360° olduğu çıkarımını yapmaları beklenir. Daha sonra öğrencilere düzgün çokgen tanımı hatırlatılır ve Ebu Sehl Kuhi'nin bazı düzgün çokgenlerin çizimine ilişkin yaptığı çalışmalarla ilgili bilgi verilir. Bunun yanı sıra Türk-İslam mimarisine ait, yapımında düzgün çokgenlerin (düzgün sekizgen ve düzgün altıgenin kullanımı gibi) kullanıldığı eserler incelenerek bu eserlerin yapımında kullanılan düzgün çokgenlerin nasıl ve neden kullanıldıklarına dair araştırma ödevi verilebilir. Öğrencilerin Türk-İslam kültürüne ilişkin yapacakları bu çalışmalarla kültürü oluşturan unsurları ve kendi kültürlerini fark etmeleri sağlanır. Bu sayede kültürel mirasa sahip çıkma duyarlılıkları da desteklenir ( OB5 ) . Bu aşamada öğrencilerin çokgenlerin açı özelliklerine ilişkin çıkarımlarından hareketle düzgün çokgen tanımını da kullanarakbir düzgün çokgenin bir iç ve bir dış açısının ölçüsünü veren bağıntıları kenar sayısına bağlı olarak ifade etmeleri sağlanır. Böylece önceki bilgi ve çıkarımlarını kullanarak, yorumlayarak yeni sonuç ve çıkarımlara ulaşan öğrencilerin bilgi okuryazarlığı becerileri desteklenmiş olur ( OB1 ) . Çokgenlere ilişkin yapılan çıkarımların değerlendirilmesi bağlamında ayrıca düzgün beşgen, düzgün altıgen ve düzgün sekizgenin açı özellikleri kullanılarak köşegen ve simetri özellikleri incelenir. Bu çokgenlere dair çıkarımlar (\"Düzgün beşgenin tüm köşegen uzunlukları eşittir.\" gibi) yapılmasını sağlayacak süreç işe koşulur. Öğrencilerin düzgün beşgen, düzgün altıgen ve düzgün sekizgen örnekleri üzerinden kenar sayısı tek veya çift sayı olan düzgün çokgenlerin köşegen ve simetri (\"Kenar sayısı çift sayı olan düzgün çokgenlerde en uzun köşegenler simetri eksenidir.\", \"Düzgün çokgenlerde bir köşeden çizilen iç açıortay simetri eksenidir ve farklı köşelerden çizilen iç açıortaylar tek noktada kesişir.\" gibi) özelliklerine ilişkin genellemeler yaparak çıkarımlarda bulunması sağlanır. Düzgün çokgenlerin köşegen ve simetri özelliklerine ilişkin yapılan çıkarımlara bağlı olarak düzgün altıgen, düzgün sekizgen ve düzgün onikigenin alanlarının nasıl hesaplanabileceğine ve alan özelliklerine ilişkin çıkarımda bulunmalarına yönelik çalışmalar yapılır. Bu süreç sonunda ortaya konan önermeler, farklı problem durumlarına uyarlanarak kullanışlılık açısından değerlendirilir. Öğrencilere çokgenler ve çokgenlerin özelliklerine ilişkin çıkarımlarının değerlendirilmesi için farklı soru türlerinin bulunduğu çalışma kâğıtları verilebilir.",
+    "MAT.11.2.5 Öğrencilere çokgenler ve dörtgenlerin özelliklerine ilişkin çıkarımlarını ve özel dörtgenler arasındaki ilişkilere dair edindikleri bilgi ve becerileri kullanabilecekleri farklı problem durumları sunularak bu problemleri incelemeleri istenir. Öğrencilere sunulacak bu problemlerde çokgen ve dörtgenlerin günlük hayatta ve başka disiplinlerde kullanımına ilişkin örneklere özellikle yer verilir. Tekstil ve dokumacılık sektörü, süsleme ve görsel sanatlar, çokgen ve dörtgen kullanılarak oluşturulan eserler, mimari yapılar, yapıların yüzey kaplamaları ve doğada karşılaşılan örneklerle ilgili problem durumlarında çokgen ve dörtgenler kullanılır ( OB4 ) . Problemlerde kullanılacak örnekler seçilirken Türk kültürüne ait yöresel halı dokuma örnekleriyle çokgen ve dörtgenlerin süsleme ve resim sanatındaki kullanımları ele alınarak öğrencilerin kültürü oluşturan unsurlarla kendi kültürünün özelliklerini fark etmeleri sağlanır ( OB5 ) . Türk kültürüne ilişkin örnekler, öğrencilerin kültürel mirasa ilişkin duyarlılıklarını pekiştirir ( D14.3 ) . Öğrencilerin sunulan problem durumlarına ilişkin olarak öncelikle problemin parçaları (sayısal veya nicel, görsel veya şekil gibi) ve bu parçalar arasındaki ilişkileri belirlemeleri sağlanır. Öğrencilerden özellikle gerçek yaşam durumlarını içeren problemleri analitik bir yaklaşımla matematiksel temsillerle ifade edecek şekilde dönüştürmesi ve problemin bileşenlerini belirlemesi beklenir ( E3.6 , MAB3 ) . Öğrencilerin problemin çözümü için geliştirdikleri stratejileri uygulayarak problemi çözmeleri ve çözümlerini kontrol etmeleri sağlanmalıdır ( SDB3.3 ) . Bu tür problemlerin çözümlerinde çokgen olabilme koşullarının verilen noktaların içbükey, dışbükey çokgen olacak şekilde bir araya getirilmesini; pergel, cetvel, ölçüsüz cetvel veya matematik yazılımlarının kullanımını; farklı çokgen ve dörtgen çeşitlerinin özelliklerinin kullanımını içeren stratejiler kullanılır. Daha sonra öğrencilerin farklı çözüm yollarını ve stratejileri eleştirel bir yaklaşımla gözden geçirmeleri teşvik edilir ( E3.10 ) . Bunun için öğrencilerin çözümleri tartışma ortamında ele almaları sağlanır. Tartışılan çözüm yolları üzerinden problemin çözümünü sağlayan yolların benzer tüm durumlara genellenip genellenemeyeceğine yönelik çıkarımlar yapılır. Çözüm stratejilerinden hangilerinin hangi tür problemlerde kullanılabileceğine ilişkin (pergel, cetvel, ölçüsüz cetvel veya matematik yazılımlarının, çokgenlerin özelliklerinin kullanımı gibi) çıkarımların matematiksel örneklerle desteklenerek değerlendirilmesi yapılır. Öğrencilerden kendi uyguladıkları stratejilerin doğruluğu ya da yanlışlığı üzerinden ayrıca bir değerlendirme yaparak kendilerinin belirlediği stratejileri farklı problem durumlarına uyarlamaları beklenir. Bu değerlendirmeler sonucunda öğrencilerin elde ettikleri genellemeleri farklı problem durumlarına yansıtmaları sağlanır ( SDB1.3 ) . Öğrencilere farklı disiplinlerde çokgen ve dörtgenlerin kullanımına dayalı problemler içeren çalışma kâğıdı verilerek problemleri çözmeleri istenebilir. Öğrencilerin çözüm sürecinde birbirleri ile etkileşim hâlinde çalışmaları desteklenir.",
+    "Öğrencilere MAT.11.2.3, MAT.11.2.4 ve MAT.11.2.5 öğrenme çıktılarına yönelik olarak çokgenler ve dörtgenlere dair yaptıkları sınıflandırma, yapılandırma ve çıkarımlara ilişkin bilgi ve becerilerini konuyla ilgili farklı problem durumlarının oluşturulması ve problemlerin çözümü için kullanmalarını sağlayacak bir performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D16.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E1.6",
+      "E3.10",
+      "E3.5",
+      "E3.6"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/297"
+}

@@ -1,0 +1,70 @@
+{
+  "unitId": 81203001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "1. ÜNİTE: DÜNYA TARİHİ ÇERÇEVESİNDE TÜRK DÜNYASI",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.1.1",
+      "title": "Türk topluluklarının Dünya tarihindeki yerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.1.2",
+      "title": "Türk dillerinin özellikleri ve coğrafi dağılımını açıklar",
+      "processComponents": [
+        "Türk dillerinin tarihi gelişimi hakkında bilgi verilir.",
+        "Türk dilleri sınıflandırılır."
+      ]
+    },
+    {
+      "code": "OTT.1.3",
+      "title": "Türk adının anlamını ve etimolojisini örneklerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.1.4",
+      "title": "Günümüz Türk halklarının coğrafi dağılımını açıklar",
+      "processComponents": [
+        "Türk cumhuriyetleri ve özerk Türk cumhuriyetleri belirtilir."
+      ]
+    },
+    {
+      "code": "OTT.1.5",
+      "title": "Türk halklarının atayurdunun sınırlarını açıklar",
+      "processComponents": [
+        "Türk halklarının atayurdu harita üzerinde gösterilir."
+      ]
+    },
+    {
+      "code": "OTT.1.6",
+      "title": "Türk göçlerinin neden ve sonuçlarını analiz eder",
+      "processComponents": [
+        "Göç yolları harita üzerinde gösterilir."
+      ]
+    },
+    {
+      "code": "OTT.1.7",
+      "title": "Orta Asya'nın en eski kültür merkezlerinin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.1.8",
+      "title": "Bir Ön Türk kavmi olan Sakaların (İskitler) genel özelliklerini açıklar",
+      "processComponents": [
+        "Sakaların siyasi, sosyal, ekonomik ve kültürel hayatı ile ilgili farklı kaynaklardan örnekler verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

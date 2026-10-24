@@ -1,0 +1,53 @@
+{
+  "unitId": 1173,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: GÜNCEL VE POPÜLER MÜZİKLERLE İCRA",
+  "hours": "",
+  "description": "Temada öğrencilerin güncel ve popüler müzikleri toplu bir şekilde icra etme becerilerini geliştirerek grup içindeki uyumu ve müzikal iletişimi güçlendirmeyi, farklı müzik türlerinin ve popüler repertuvarların dinamiklerini anlayarak icra etmesini amaçlamaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.8.2.1",
+      "title": "Gitarda popüler ve güncel müzikleri çalabilme",
+      "processComponents": [
+        "a) Gitarda popüler ve güncel müzikleri çözümler.",
+        "b) Gitarda popüler ve güncel müzikleri çalarken duruş ve tutuş pozisyonu alır.",
+        "c) Gitarda popüler ve güncel müzikleri çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Gitarda popüler ve güncel müzikleri çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "pop müzik, ritim, rock müzik, Türk sanat müziği",
+  "support": [
+    "Öğrencilere çalacakları parçaların daha basitleştirilmiş versiyonları sunulabilir. Öncelikle temel akorlar ile şarkıyı çalmaları sağlanabilir ve parça ilerledikçe daha karmaşık akorlar eklenerek aşamalı bir öğrenme süreci oluşturulabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, popüler bir şarkıyı yeniden düzenleyebilir veya bu şarkıya özgün bir yorum katabilirler. Öğrencilerin çalgılarına özgü tekniklerini geliştirmek için popüler müzik şarkılarındaki hızlı pasajlar, arpejler gibi teknik varyasyonlar üzerinde çalışılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; grup değerlendirme formu, öz değerlendirme formu, akran değerlendirme formu, derecelendirme ölçeği ve birlikte çalma performans gözlem formu kullanılarak ölçülebilir. Öğrencilerin oluşturdukları çalgı topluluklarıyla belirledikleri popüler müzikleri topluluk önünde icra etmeleri için performans görevi verilebilir. Verilen performans görevi, birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.8.2.1",
+    "Öğretmen, dersin başlangıcında etkileşimli tahta aracılığıyla notaları öğrencilere sunar ( OB4 ). Öğrenciler, gitarda popüler ve güncel müzikleri çalmaya başlamadan önce parçaların ritmik yapısını, akor ilerleyişlerini, melodik ve armonik bileşenlerini detaylı bir şekilde çözümler ( KB2.4 ). Öğretmen, öğrencilerin müzikal ilgilerini göz önünde bulundurarak günümüz popüler parçalarından örnekler verir. Öğrenciler, seçilen şarkılardaki akor dizilerini analiz eder, ritmik kalıpları belirler ve parçaların genel müzikal formunu inceler. Öğretmen öğrencileri gruplara ayırır. Her öğrenci gitarın melodik ve armonik bileşenlerini uyum içinde birleştirerek müziksel bütünlüğü sağlar. Öğrenciler gitara özgü duruş ve tutuş pozisyonu alır, ardından çalgıya özgü teknikleri kullanarak yavaş tempoda parçayı müziksel bileşenlere göre çalar. Güncel şarkıların farklı versiyonları dinletilir ve öğrencilerden bu versiyonlar arasında karşılaştırma yapmaları istenir. Örneğin bir şarkının akustik ve orijinal versiyonu arasındaki farkları inceleyerek çalma tekniklerini belirlerler. Grup içindeki iş birliği önem kazanır. Öğrenciler; birbirlerine geri bildirimde bulunarak teknik, sanatsal ve müzikal ifadelerini geliştirirler ( SDB2.2 ). Öğrenciler, grup olarak belirledikleri bir popüler parçayı kendi yorumlarıyla çalmaya çalışır ve eserin duygu aktarımına odaklanarak müzikal ifadelerini geliştirirler. Ayrıca dijital müzik platformları üzerinden benzer armonik yapıdaki şarkılar keşfederek kendi repertuvarlarını genişletirler. Bu sayede kendi kapasitelerine olan inancında geliştirilmesi sağlanır ( E1.5 ). Öğrencilerden değerlendirmelerinde dürüst olmaları beklenir ( D6.2 ). Öğretmen, her öğrencinin çalımını izleyerek doğru tekniklerin nasıl daha etkili kullanılacağına dair geri bildirimlerde bulunur. Öğrencilere günümüz müzik prodüksiyon teknikleriyle gitarın nasıl kullanıldığı hakkında bilgiler verilir. Örneğin popüler şarkılardaki fingerstyle, arpej ve ritim vuruşları analiz edilir ve öğrenciler bu teknikleri kendi performanslarına uyarlamaya teşvik edilir."
+  ],
+  "skills": {
+    "deger": [
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1173"
+}

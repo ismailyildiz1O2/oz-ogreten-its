@@ -1,0 +1,79 @@
+{
+  "unitId": 81404040,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "40. ÜNİTE: MASA TENİSİNDE TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.10.4.1",
+      "title": "Masa tenisinde temel duruş tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.2",
+      "title": "Masa tenisinde temel duruş tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.3",
+      "title": "Masa tenisinde backhand ve forehand raket tutuş tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.4",
+      "title": "Masa tenisinde backhand ve forehand raket tutuş tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.5",
+      "title": "Masa tenisinde backhand ve forehand top sektirme tekniklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.6",
+      "title": "Masa tenisinde backhand ve forehand top sektirme tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.7",
+      "title": "Masa tenisinde vuruş tekniklerini açıklar",
+      "processComponents": [
+        "Forehand ve backhand vuruş teknikleri üzerinde durulur.",
+        "Spin vuruş tekniği üzerinde durulur.",
+        "Smaç vuruş tekniği üzerinde durulur.",
+        "Backhand ve forehand servis vuruş teknikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.10.4.8",
+      "title": "Masa tenisinde vuruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.9",
+      "title": "Masa tenisinde backhand ve forehand servis tekniklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.10",
+      "title": "Masa tenisinde backhand ve forehand servis tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.10.4.11",
+      "title": "İzlediği veya katıldığı masa tenisi müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

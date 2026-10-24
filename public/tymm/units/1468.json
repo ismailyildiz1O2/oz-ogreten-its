@@ -1,0 +1,77 @@
+{
+  "unitId": 1468,
+  "grade": 0,
+  "gradeName": "I. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY I · 2. Tema: Sağlık Ve Sporda Matematik",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.1.2.1",
+      "title": "Ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanlarıyla ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Sağlık ve spor alanlarında kullanılan ölçme birimleriyle (uzunluk, zaman ve kütle ölçme birimleri) ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.2.2",
+      "title": "Sağlık ve spor alanlarında kullanılan uzunluk, zaman ve kütle ölçme birimleri ile ilgili problemleri çözebilme",
+      "processComponents": [
+        "a) Problemlerde verilenleri ve istenenleri belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.2.3",
+      "title": "Sağlıklı yaşam ve sporla ilişkili konularda veri ile çalışma ve veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) Sağlıklı yaşam ve spor gibi konularla ilişkili, istatistiksel araştırma gerektiren gerçek yaşam durumlarını belirler.",
+        "b) Sağlıklı yaşam ve spor bağlamında veriye dayalı cevaplanabilecek araştırma soruları oluşturur.",
+        "c) Veri toplama sürecine yönelik plan yapar.",
+        "ç) Toplanan verileri sınıflandırarak analiz için uygun hâle getirir.",
+        "d) Verilerin analizinde kullanılacak yöntem ve araçları seçer.",
+        "e) Toplanan verileri uygun araçlarla analiz eder.",
+        "f) Araştırma sonuçları ile ilgili çıkarımlar sunar.",
+        "g) Araştırma sonuçlarını değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n İstatistiksel araştırma döngüsü sağlıklı yaşam ve spor ile ilgili konuları anlamamıza, karşılaştırmalar yapmamıza ve doğru karar vermemize yardımcı olur. \n\n Anahtar Kavramlar \n\n dağılım, dakika, değişebilirlik, gram, kilogram, kilometre, metre, saat, saniye, santimetre, ton, uzunluk ölçme, veri",
+  "support": [
+    "Problem çözme basamaklarına yönelik ek açıklamalar/yönergeler sunularak süreçte rehberlik sağlanabilir.",
+    "Veri toplama süreci ve sonrasında ayrıntılı yönergeler verilerek öğrencilere rehberlik sağlanabilir.",
+    "Günlük tüketilen su miktarı ile ilgili verileri kaydederken izleyecekleri adımlara yönelik ek açıklamalar ve yönergeler verilerek öğrenciler desteklenebilir."
+  ],
+  "enrichment": [
+    "Bir sporcunun performansını değerlendirmek ve artırmak için antrenman süresini, günlük beslenmesindeki protein miktarını, ortalama hızını vb. içeren bir veri seti oluşturmaları istenebilir. Oluşturulan veri setini değerlendirmeyi içeren bir rapor hazırlamaları istenebilir. Bireysel olarak bir haftada tükettiği su, protein, vb. miktarına ilişkin veri seti oluşturması ve sağlıklı yaşam standartlarıyla karşılaştırarak değerlendirmede bulunması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları performans görevleri, açık uçlu sorulardan oluşan çalışma kâğıdı, kontrol listeleri vb. araçlar kullanılarak değerlendirilebilir.",
+    "Günlük hayatta ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanlarıyla ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Sağlıklı yaşam ve spor konusunda araştırma sorusu oluşturarak süreci yürütmelerini ve poster, broşür vb. hazırlamalarını içeren performans görevi verilebilir. Bu görev belirlenen performans kriterlerine göre oluşturulan analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca öz değerlendirme formu da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.1.2.1.",
+    "Öğrencilere sağlık ve spor alanlarında (kilo kontrolü, tüketilen günlük gıda miktarı, koşu, yüzme, uzun atlama, okçuluk vb.) kullanılan ölçme birimleri ile ilgili sorular sorularak fikirlerini açıkça ifade edebilecekleri bir tartışma ortamı oluşturulur ( SDB2.1 , E3.5 ). Tartışma sırasında zaman ölçüsünün kullanıldığı spor dallarına örnekler verilmesi istenir. Beden eğitimi ve spor dersi ile bağlantı kurularak halter, gülle atma, disk atma, güreş gibi spor dallarında kullanılan kütle ölçme birimlerine vurgu yapılır. Sağlıklı bir yaşam için sporun yanı sıra beslenmenin de önemli olduğu çıkarımına ulaşmaları sağlanır ( D13.1 ). Sağlık alanında kullanılan ölçme birimlerinin (kg, cm, mL, L vb.) neler olabileceği tartışılır ( SDB2.1 , E3.5 ). Ardından, öğrencilere günlük hayatta ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanlarıyla ilgili bireysel ya da grup olarak poster, afiş, rapor vb. hazırlamalarını içeren performans görevi verilir ( SDB2.1 , SDB2.2 ). Bu görev için araştırma yaparken hangi yolları ve araçları kullanmaları gerektiğini belirlemeleri istenir. Bu süreçte öğrencilerin, gerekli bilgilere ulaşmak için güvenilir genel ağ kaynakları, basılı yayınlar, alan uzmanlarıyla görüşmeler vb. kaynaklardan yararlanarak bilgi toplamaları sağlanır ( OB1 , OB2 ). Öğrencilerin ulaştıkları bilgileri doğrulamaları beklenir. Bu doğrulama sürecinde öğretmenlerinden, alan uzmanlarından yardım almaları, arkadaşlarıyla tartışmaları veya bilimsel kaynaklara başvurmaları sağlanır ( E3.10 , D3.3 , OB1 ). Doğruladıkları bilgileri kaydetmeleri ve poster, afiş, rapor vb. dönüştürerek sunmaları istenir ( SDB2.1 , OB1 ). Performans görevi hazırlama sürecinde sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 ). Performans görevi, süreç bileşenlerini dikkate alarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenme çıktısının sonunda açık uçlu sorular vb. kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.1.2.2.",
+    "Öğrencilerden uzunluk, zaman ve kütle ölçme birimlerinin sağlık ve spor alanında kullanıldığı problem durumlarına örnek vermeleri istenir. Öğrencilere merak ve ilgi uyandırıcı problemler sunulur ( E1.1 ) . Bu problemlerin seçiminde gerçek yaşam durumlarından yararlanılır. Örneğin sağlıklı bir yaşam sürebilmek için günde alınması gereken protein miktarı hesabı, haftalık yapılan spor verileri, olimpiyatlardaki koşuların istatistikleri ya da günde ne kadar egzersiz yapılmalı gibi gerçek yaşam durumları problem olarak sorulabilir ( D13.1 ). Beslenme ve sağlık konulu bu tür problemler, fen bilimleri dersiyle ilişkilendirilebilir. Uzunluk, kütle, zaman vb. ölçülerinin birim dönüşümlerinin sağlanmasına yönelik çalışmalara yer verilir. Örneğin sporcuların koşu mesafeleri m ve km birimleriyle açıklanır. Benzer şekilde zaman ve kütle ölçme birimleriyle ilgili problemlere de yer verilir. Öğrencilerden problemlerin çözümü için öncelikle problemle ilgili matematiksel bileşenleri belirlemeleri istenir. Sağlık ve spor alanlarında kullanılan uzunluk, zaman ve kütle ölçme birimleri ile ilgili problemlerin çözümünde öğrencilerin verilen ve istenenleri belirlemeleri sağlanır. Daha sonra öğrencilerden verilen ve istenenler arasındaki işlem ilişkilerini tespit etmeleri beklenir. Bu süreçte problemdeki ilişkilere yönelik basit şekil ya da diyagram çizmeleri istenerek öğrencilerin problemi anlamaları sağlanır ( OB4 , MAB3 ). Böylece problemlerin anlaşılıp anlaşılmadığı değerlendirilebilir. Öğrencilerden problem bağlamlarını yorumlarken verilenleri belirleyerek bunları uygun matematiksel temsillere dönüştürebilmeleri ve problemi kendi ifadeleriyle açıklayabilmeleri beklenir. Problemlere yönelik matematiksel çözümler geliştirilirken öğrencilerden sonuca ilişkin tahminde bulunmaları ve stratejiler geliştirmeleri beklenir. Öğrencilerin çözüm stratejileri geliştirirken somut, sözel, sembolik, görsel (tablo, şekil gibi) farklı temsillerden yararlanmaları sağlanır. Bu temsiller bilgisayar, tablet, akıllı tahta araç ve teknolojilerinden yararlanarak oluşturabilir ( OB2 ). Öğrencilerin seçtik leri farklı stratejiler ile problemleri çözmelerine fırsat verilir ( SDB3.3 ). Çözüm stratejileri geliştirme ve uygulama sürecinde olumlu iletişim dili kullanarak iş birliği içinde grup çalışmaları yapmaları sağlanır ( SDB2.1 , SDB2.2 ). Öğrencilerden grup çalışmaları sırasında çözüm stratejilerini gözden geçirmeleri, çözüme ulaştırmayan stratejileri değiştirmeleri beklenir. Kullandıkları veya geliştirdikleri stratejileri gözden geçirip alternatif yollara ilişkin çıkarım ve değerlendirmeler yapmaları istenerek stratejilerini paylaşmalarına olanak sağlanır. Problem çözme sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları ve yaptıkları genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Öğrencilerin benzer türde gerçek yaşam problemleri kurmaları ve problemlerin bağlamlarına yönelik yansıtmalar yapmaları da sağlanabilir ( E3.1 ). Ayrıca çıkarımlarını değerlendirmeleri ve karar verme sürecine ait davranışlarının sorumluluğunu kabul etmeleri sağlanır ( SDB1.2 , SDB3.3 , D16.3 ). Sağlık ve spor alanında kullanılan uzunluk, zaman ve kütle ölçme birimleri ile ilgili problemlerde öğrencilerin problem çözme sürecini değerlendirmede kontrol listesi kullanılabilir. Öğrenmelerin değerlendirilmesi için problem çözme süreçlerini kullanmaları gereken açık uçlu sorular kullanılabilir.",
+    "MBU.MU.1.2.3.",
+    "Öğrencilere sağlık yaşam ve spor konulu veriler (beslenme, hareket, adım sayısı, günlük su tüketimi, günlük uyku süresi vb.) görsel veya dijital ortamda inceletilerek sınıf içinde tartışma ortamı oluşturulur ( SDB2.1 , OB2 , OB4 , D13.2 ). Öğrencilerden sağlıklı yaşam ve spor gibi konularla ilişkili istatistiksel araştırma gerektiren gerçek yaşam durumlarına örnekler vermeleri istenir. Daha sonra öğrencilerden ilgileri doğrultusunda spor dalları, sporun faydaları, spor ve sağlık ilişkisi gibi gerçek yaşam durumlarına yönelik araştırma soruları oluşturmaları istenir ( E3.8 ). Araştırma soruları oluşturulurken fen bilimleri dersiyle ilişki kurularak çevre bilinci, sağlıklı yaşam, israftan kaçınma vb. konulara yer verilirek bilinçlenmeleri ve farkındalık kazanmaları desteklenir ( D13.2 , D17.2 , OB8 ). Oluşturulan araştırma soruları; amacın net olması, değişkenlerin belirlenebilir olması, veri toplanarak cevaplanabilir olması ve elde edilen verinin değişebilirliği (doğal ortamdan, müdahaleden veya ölçümden kaynaklı) kriterlerini sağlayacak şekilde ele alınır. Daha sonra öğrenciler hazırladıkları araştırma sorularını bu kriterler bakımından değerlendirir. Öğrencilerin oluşturdukları araştırma sorusunu nasıl yanıtlayabileceklerine ilişkin fikirlerini paylaşmaları ve bu fikirler üzerinde grup ya da sınıf olarak tartışmaları beklenir ( E3.5 , SDB2.2 ). Veriyi nasıl toplayacakları ve analize nasıl hazırlayacaklarına ilişkin yürütülen tartışma ortamında öğrencilerin veri toplama planı yapmaları teşvik edilir ( E2.2 ). Veri toplamaya karar veren öğrencilerin, veri toplama planı doğrultusunda araştırma sorusu bağlamına uygun anket soruları hazırlamaları sağlanır ( D16.3 ). Bu anket sorularının açık, anlaşılır ve amaca uygun olması, sorulacak katılımcıların profiline ve beklenen muhtemel bulgulara göre şekillendirilmesi istenir. Anket soruları hazırlandıktan sonra hedeflenen grup üzerinde ders içi veya ders dışı zamanda öğrenciler tarafından veri toplanması sağlanır. Öğrencilerin toplanan verileri benzer özelliklerine göre sınıflandırmaları istenir. Daha sonra öğrencilerin sınıflandırdığı verileri analiz etmek için kullanacağı uygun yöntem ve aracı seçmeleri sağlanır. Topladığı verileri analiz ederek uygun araçlarla (şekil grafiği, sütun grafiği, daire grafiği, çetele, sıklık tablosu ve nokta grafiği) görselleştirerek yorumlamaları beklenir ( KB2.10 , OB4 ). Araştırma sonuçları ile ilgili çıkarımlarda bulunmaları sağlanır ( KB2.8 ). Öğrencilerin yürüttükleri istatistiksel araştırma süreçlerini gözden geçirerek ulaştıkları sonuçları arkadaşlarıyla paylaşmaları istenir. Öğrencilerin süreç boyunca istatistiksel araştırma süreci adımlarını sistematik olarak takip etmesi desteklenebilir ( E3.7 ). Öğrencilerin istatistiksel araştırma süreci (döngüsünü) ile ulaştıkları sonuçları değerlendirmesi sağlanır. Bu süreçte öğrencilerin etkileşimde bulunarak düşüncelerini ifade etmelerine fırsat sunulur ( SDB2.1 ). Öğrencilerden performans görevi olarak elde ettiği verileri kullanarak sağlıklı yaşam ve spor konulu poster, broşür vb. hazırlamaları istenebilir ( D13.1 , OB1 ). Tasarım görevi sürecinde görsel sanatlar dersi ile bağlantı kurulabilir. Öğrencilerin hazırladığı posterler, araştırma sorusuna göre veri toplama, veri görselleştirme, sonuçları araştırma sorusu bağlamında yorumlama, posterin tasarımı ve sunumu gibi ölçütlerden oluşan analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öz değerlendirme formu ile öğrencilerin zorlandığı ve keyif aldığı noktaları açıklamaları ve yeni araştırma süreçlerinde farklılaştıracağı adımları ifade etmeleri istenebilir ( SDB1.1 , SDB1.3 )."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme, MAB4. Veri ile Çalışma ve Veriye Dayalı Karar Verme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1468"
+}

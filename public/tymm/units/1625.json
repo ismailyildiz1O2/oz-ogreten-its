@@ -1,0 +1,40 @@
+{
+  "unitId": 1625,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY II · 6. Tema: Üç Boyutlu Modelleme",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.2.6.1",
+      "title": "Dijital tasarım sürecinde üç boyutlu animasyon geliştirme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Üç boyutlu modelleme araçlarını tanır.",
+        "b) Üç boyutlu modelleme araçlarını belirler.",
+        "c) Üç boyutlu modelleme araçlarını kullanır.",
+        "ç) Oluşturduğu üç boyutlu tasarımı görsel tasarım ilkeleri açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "DS.2.6.2",
+      "title": "Animasyon geliştirme sürecinde üç boyutlu modelleme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Animasyon geliştirme sürecinde kullanılan üç boyutlu modelleme araçlarını tanır.",
+        "b) Animasyon geliştirme sürecine uygun üç boyutlu modelleme araçlarını belirler.",
+        "c) Animasyon geliştirme için belirlenen üç boyutlu modelleme araçlarını kullanır.",
+        "ç) Animasyon geliştirmede kullanılan üç boyutlu modelleme araçlarını değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "3B modelleme, tasarım ilkeleri, teknolojik üretim, üç boyutlu animasyon",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1625"
+}

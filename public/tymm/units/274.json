@@ -1,0 +1,89 @@
+{
+  "unitId": 274,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "7. TEMA: VERİDEN OLASILIĞA",
+  "hours": "18",
+  "description": "Bu temada öğrencilerin olayların olasılığını koşullu olasılık ile belirleyebilmeleri ve Bayes teoreminin kullanıldığı gerçek yaşam problemlerini inceleyebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.10.7.1",
+      "title": "Koşullu olasılık ile çıkarım yapabilme",
+      "processComponents": [
+        "a) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumlara ilişkin mevcut olasılık bilgisini kullanarak varsayımda bulunur.",
+        "b) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu gerçek yaşam durumlarına ilişkin olası tüm çıktıları listeler.",
+        "c) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ya da olmadığı durumlarda olası tüm çıktıların sayısı ile istenen durumların sayısını karşılaştırır.",
+        "ç) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumların olasılığını hesaplamaya yönelik matematiksel önerme sunar.",
+        "d) Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ya da olmadığı gerçek yaşam durumlarının olasılığını koşullu olasılık ile değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.10.7.2",
+      "title": "Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumların olasılığını mevcut bilgiye/veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Bayes teoreminin kullanıldığı gerçek yaşam durumlarına ilişkin mevcut bilgileri kullanır.",
+        "b) Mevcut bilgileri kullanarak Bayes teoremine dayalı hesaplama yapar.",
+        "c) Bayes teoreminin kullanıldığı gerçek yaşam durumlarına ilişkin ileriye yönelik yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "bağımlı olay, bağımsız olay, Bayes teoremi, koşullu olasılık",
+  "support": [
+    "Koşullu olasılık ve Bayes formüllerinin kullanılması karmaşık olduğu için olası tüm çıktıların ve istenen tüm çıktıların farklı gösterimler kullanılarak temsil edilmesiyle daha somut bir yaklaşım tercih edilebilir. Örneğin i̇stenen çıktılar ve olası tüm çıktıların sayılarının daha görünür olabilmesi için iki yönlü sıklık tabloları kullanılabilir. Koşullu olasılığın hesaplanmasında işlem kolaylığı için daha uygun sayılar içeren örnek problemler seçilebilir.",
+    "Koşullu olasılık için gerekli çıkarımların daha erişilebilir kılınması amacıyla ipuçları veya görseller verilebilir. Ulaşılan sonuç ve genellemeleri içeren hatırlatma notları, afiş veya posterlerle sınıfta sunularak tartışılabilir."
+  ],
+  "enrichment": [
+    "Bir olayın koşula bağlı olduğunda olasılık değerinin büyümesinin ya da küçülmesinin araştırılmasına yönelik çalışmalar yapılabilir.",
+    "(*) Öğrencilerin bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumlar içeren, özgün bir oyun tasarlamaları; oyunu oynayarak test etmeleri ve oyundaki aksaklıkları belirleyerek gidermeleri istenebilir.",
+    "(*) Öğrencilerden Bayes teoreminin nasıl ortaya çıktığına; bu teoremin bilişim teknolojileri ve yazılım, makine öğrenmesi ve yapay zekâ gibi alanlarda nasıl kullanıldığına ilişkin araştırma yapmaları beklenebilir. Ayrıca Naive Bayes (Naiv Beyz) algoritmasına, Enigma'da kullanılan Bayes teoremine ilişkin araştırmalar yapılması istenebilir. Araştırmanın dijital kaynaklar üzerinden yapılması durumunda ulaşılan bilgilerin doğruluğunun teyit edilmesi, anlamlandırılması, sorgulanması, eleştirel bir bakış açısıyla yorumlanması ve sentezlenmesi hedeflenebilir. Yapılan araştırmadan elde edilen sonuçların bilimsel bir dille raporlaştırılması beklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Gerçekleşmesi bir olaya bağlı olan veya koşul gerektiren gerçek yaşam durumlarına ilişkin olası tüm çıktıların ağaç şeması, tablo, alan modeli gibi farklı temsillerle gösterilebilmesi için çalışma kâğıdı kullanılabilir. Öğrencilerden çalışmalarını öz değerlendirme formlarıyla değerlendirmeleri istenebilir. Gerçekleşmesi bir koşula bağlı olan ya da olmayan gerçek yaşam durumlarına ilişkin olasılık değerlerinin hesaplanmasına yönelik açık uçlu sorular içeren bir çalışma kâğıdını öğrencilerin cevaplaması istenebilir. Öğrencilere bağımlı ve bağımsız bir grup olay verilir, olayın türünü koşullu olasılık kurallarını kullanarak belirlemeleri istenebilir. Çalışma kâğıdının değerlendirilmesinde analitik veya bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu gerçek yaşam durumlarının olasılıklarını değerlendirmek için performans görevi verilebilir. Hazırlanan performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.10.7.1 Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumlarla ilgili olarak öğrencilerin mevcut olasılık bilgisi dâhilinde varsayım yapabilmesi için bir torbadan renkleri dışında özdeş iki top çekilmesi ve renklerin kaydedilmesi gibi bir deney ele alınır. Bu deneyde torbadan bir top çekilip renginin kaydedilmesinden sonra torbaya atılmayıp ikinci bir top çekildiğinde istenen rengin gelme olayının olasılığı incelenir. Öğrencilerden mevcut olasılık bilgisini kullanarak olası tüm çıktıların ve olaya ait çıktıların sayısının değiştiğini fark edebilmeleri, dolayısıyla olasılık değerinin farklı şekilde hesaplanacağına yönelik muhakeme yaparak sezgisel bir varsayımda bulunmaları beklenir ( E3.1 , SDB1.1 ) .",
+    "Gerçekleşmesi bir olaya bağlı olan olaylara (bir torbadan renkli bir top çekilip torbaya geri atılmaması koşuluyla ikinci bir renkli top çekilerek iki topun da renklerinin kaydedilmesi gibi) ilişkin tüm olası çıktıların ağaç şeması, tablo veya alan modeli gibi farklı temsiller kullanılarak görselleştirilmesi beklenir ( MAB3 ) . Bu görselleştirme aşamasında öğrencilere ağaç şeması, tablo, alan modeli şablonu verilebilir veya dijital araçlardan yararlanılabilir ( OB2 , MAB5 ) . Böylece öğrencilerin tüm olası çıktıları listelemeleri sağlanır. Öğrencilerin verilen duruma ilişkin olası tüm çıktıları ağaç şeması, tablo, alan modeli gibi farklı temsillerle gösterebilmeleri ve temsil aracını seçme gerekçeleri için çalışma kâğıdı kullanılır. Bu görselleştirmeler sonucunda öncelikle bir koşula bağlı olarak gerçekleşen olayda elde edilen olası tüm çıktıların sayısı ile koşul olmadığında elde edilebilecek olası tüm çıktıların sayısı arasında öğrencilerin karşılaştırma yapması beklenir. Ardından bir koşula bağlı olarak gerçekleşen olayda çıktı sayısı ile koşul olmadığında aynı olaya ait çıktı sayısı arasında öğrencilerin karşılaştırma yapması beklenir.",
+    "Koşula bağlı olarak gerçekleşen olaya ait çıktılar ve olası tüm çıktılar, alan modelleri veya iki yönlü tablolarla görselleştirilir. Her iki görselleştirmede ortak olan ya da olmayan çıktıların ifade edilmesi sağlanır ( MAB3 ) . Bu sürecin sonunda öğrenciler, öğrendiklerini öz değerlendirme formu kullanarak değerlendirebilir ( SDB1.2 ) .",
+    "Gerçekleşmesi bir koşula bağlı olan olayın olasılığının hesaplanmasına yönelik olarak öğrencilerden matematiksel ilişki içeren bir önerme sunması beklenir. Yapılan önermelerin çalışma kâğıdında temellendirilmesi sağlanır ( SDB3.3 ) . Öğrencilerin koşullu olasılık tanımını ve hesaplamasını anlamlandırmaları beklenir.",
+    "Koşullu olasılık için sunulan önermeyi değerlendirmek üzere gerçekleşmesi bir koşula bağlı olan gerçek yaşam durumlarından (düzenlenecek bir yurt dışı gezisi için seçilecek öğrencilerin yabancı dil testinden %80 ve üzeri oranda başarı gösterdiğinin bilinmesi gibi) öğrencilerin merakını uyandıran bir olay seçilir ( E1.1 ) . Verilen bağlamda seçilen iki olaydan herhangi birinin olasılığı diğer olayın gerçekleşmesine bağlı olarak değişmiyorsa bu iki olayın bağımsız, değişiyorsa bağımlı olduğu üzerinde durulur. Öğrencilerin ele aldıkları gerçek yaşam bağlamındaki olayları A ve B olayları olarak isimlendirip A ve B olaylarının bağımsız ya da bağımlı olaylar olduğunu göstermede koşullu olasılığı kullanmaları beklenir. Öğrenciler bağımsız ve bağımlı olayları örneklerle açıklar, A ve B bağımsız olayları için olduğunu gösterir. Öğrenciler verilen olay çiftlerinin bağımlı olma ve olmama durumlarını seçtikleri strateji üzerinden bir kontrol listesi ile belirleyebilir.",
+    "Öğrencilere bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu ya da olmadığı gerçek yaşam durumlarına ilişkin olasılıkların hesaplanmasına yönelik açık uçlu sorular içeren bir çalışma kâğıdı verilerek cevaplamaları istenebilir. Öğrenciler, bu problemlerde verilen koşulu gözeterek koşullu olasılık hesaplaması yapar. Böylece öğrencilerden gerçek yaşam durumlarının olasılığını koşullu olasılık ile değerlendirmeleri beklenir ( SDB3.3 ) .",
+    "MAT.10.7.2 Bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu gerçek yaşam durumlarının olasılığı, Bayes teoremi ile de ele alınmaktadır. Günümüzde tıbbi tarama testlerinin doğruluğu (biyoloji), meteorolojiyle ilgili ileriye dönük tahminler (coğrafya), bilinçli tüketime yönelik hatalı ürün oranlarını inceleyen risk analizleri (ekonomi) gibi durumlarda Bayes teoremi kullanıldığından bahsedilir ( OB3 , D13.4 , D17.2 ) .",
+    "Bayes teoreminin kullanıldığı gerçek yaşam durumları için mevcut bilgiler (bir laboratuvarda yapılan tıbbi tarama testlerinin doğruluk oranı veya bir fabrikada üretilen hatalı ürün oranı gibi) verilir. Gerçek yaşam durumlarına ilişkin elde edilen oranlar veya göreli sıklıklar; ağaç şeması, iki yönlü sıklık tablosu, alan modeli gibi farklı temsiller veya istatistik yazılımlarıyla sınıf içinde oluşturulan gruplara öğrencilerin katılımı ve iş birliği sağlanarak görselleştirilir ( MAB3 , MAB5 , SDB2.1 , SDB2.2 ) . Öğrencilerin sistematik bir şekilde bu gösterimleri ifade etmeleri beklenir ( E3.7 ) . Verilen olayların olasılık değerleri, elde edilen gösterimler aracılığıyla hesaplanır.",
+    "Gerçekleşmesi bir koşula bağlı olan gerçek yaşam durumlarına ilişkin olasılık değerlerinin hesaplanmasına yönelik açık uçlu sorular içeren çalışma kâğıdını öğrencilerin cevaplaması istenir. Öğrencilerin belirsizlik içeren gerçek yaşam durumlarında mevcut bilgiye dayalı tahminlerin veya yorumların toplanan veya verilen bilgilere bağlı olarak güncellenmesi gerektiğini sınıf içi tartışma veya soru cevap etkinlikleriyle fark etmeleri beklenir. Öğrencilerin sınıf içi tartışmalar esnasında birbirlerini nazik bir şekilde dinlemesi ve birbirlerinin fikirlerini değerlendirmesi sağlanır ( D14.1 ) . Öğrencilerin verilen gerçek yaşam durumlarının olasılığını mevcut bilgiye dayalı hesaplaması, herhangi bir konuda karar verirken riskleri değerlendirmesi ve ileriye dönük yargıda bulunması beklenir. Bu sayede öğrenciler, inceledikleri gerçek yaşam durumlarına ilişkin yargılarında veya verecekleri kararlarda olasılık hesaplamalarında yaptıkları muhakemeler sayesinde daha esnek davranır veya tahminlerini günceller ( SDB3.2 , E3.10 ) . Böylece öğrenciler, belirsiz ya da yeni durumlara uyum sağlayabilir ( SDB3.1 , D12.3 ) . Öğrencilere bir olayın gerçekleşmesinin diğer bir olayın meydana gelmesine bağlı olduğu durumların olasılığını mevcut bilgiye/veriye dayalı tahmin edebilmeye yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D13.4",
+      "D14.1",
+      "D17.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.1",
+      "E3.10",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/274"
+}

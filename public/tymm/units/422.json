@@ -1,0 +1,75 @@
+{
+  "unitId": 422,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "6. ÖĞRENME ALANI: TEKNOLOJİ ve SOSYAL BİLİMLER",
+  "hours": "11",
+  "description": "Bu öğrenme alanında öğrencilerin ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolü ile fikrî mülkiyet hakları ve bu haklara riayetin önemi konularına yönelik bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.6.6.1",
+      "title": "Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolünü yapılandırabilme",
+      "processComponents": [
+        "a) Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolüne yönelik nedensel ilişkileri ortaya koyar.",
+        "b) Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolüne ilişkin anlamlı bir bütün ortaya koyar."
+      ]
+    },
+    {
+      "code": "SB.6.6.2",
+      "title": "Bir ürün veya fikrin telif ve patent süreçleriyle ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Bir ürün veya fikrin telif ve patent süreçleriyle ilgili bilgi toplayacağı kaynakları belirler.",
+        "b) Bir ürün veya fikrin telif ve patent süreçleriyle ilgili bilgileri belirlediği kaynaklardan toplar.",
+        "c) Bir ürün veya fikrin telif ve patent süreçleriyle ilgili topladığı bilgileri doğrular.",
+        "ç) Bir ürün veya fikrin telif ve patent süreçleriyle ilgili doğruladığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "emek, fikir, fikrî mülkiyet, iletişim, marka, patent, telif, tescil, ulaşım",
+  "support": [
+    "Ulaşım ve iletişim araçlarının kültürel değişime etkileri animasyonlar, filmler, eğitici videolar gibi dijital içeriklerle incelenebilir.",
+    "Telif ve patent süreçlerini özetleyen animasyonlar kullanılabilir.",
+    "Telif ve patent gerektiren ürünlerin sınıflandırılmasına yönelik eşleştirme kartları gibi somutlaştırıcı etkinlikler yapılabilir."
+  ],
+  "enrichment": [
+    "Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürler üzerinde yaratacağı olumlu ve olumsuz sonuçlarını anlatan dijital çizgi roman yazmaları istenebilir.",
+    "Ulaşım ve iletişim teknolojilerinde gelecekte meydana gelebilecek gelişmeler üzerinde düşünerek bu teknolojilerin gelecek kültürleri nasıl etkileyebileceğine dair çıkarımda bulunmaları istenebilir.",
+    "Ülkemizde ve dünyanın farklı ülkelerinde bir yılda alınan patent sayıları ile ilgili bilgi toplanarak bu patentlerin hangi alanlarda alındığı ile ilgili frayer diyagramı oluşturulması istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; infografik, derecelendirme ölçekleri, kontrol listeleri ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi: Bir ürün veya fikrin telif ve patent süreçlerini yansıtan bir rapor hazırlama ve sunma görevidir."
+  ],
+  "teachingApplications": [
+    "SB.6.6.1 Öğrencilerden ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşim ve değişimdeki rolünü yazılı ve görsel kaynaklardan yararlanarak belirlemeleri istenir ( OB1 , OB4 ). Bu süreçte dijital kaynaklardan da yararlanılabilir ( OB2 ). Ulaşım ve iletişim sistemlerinin gelişmesi, bilgi ve haber kaynaklarının çeşitlenmesi, bu kaynaklara erişimin hızlanması ve çevrim içi platformların yaygınlaşmasının kültürel etkileşim ve değişimdeki rolünü, nedenleriyle ortaya koymaları sağlanır ( E3.4 , SDB3.3 ). Bu süreçte değişimin neden ve sonuçları balık kılçığı tekniği kullanılarak belirlenebilir. Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel değişimdeki etkisine günlük yaşamdan ve yakın çevresinden örnekler vermeleri istenir.",
+    "Kültürün korunmasının neden önemli olduğu; ulaşım ve iletişim teknolojilerinin kültürümüz üzerindeki olumsuz etkilerinin nasıl azaltılabileceği, kültürün devamlılığının nasıl sağlanabileceği ( D5.1 , D19.1 ) konularında duyarlılık değeri ve vatanseverlik değeri bağlamında fikir yürütülür. Bu süreçte beyin fırtınası ya da zihin haritası tekniklerinden yararlanılabilir. Ulaşım ve iletişim teknolojilerindeki gelişmeler ile çevrim içi platformların ( OB2 ) yaygınlaşmasının kültürel değişim üzerindeki etkileri, şablon olarak sunulan infografik üzerinde belirtilir.",
+    "SB.6.6.2 Öğrencilerin, verilen yazılı ve görsel kaynakları inceleyerek bunlar arasından bir ürün veya fikrin telif ve patent süreçleriyle ilgili bilgi toplamada kullanabileceği kaynakları belirlemeleri sağlanır ( OB1 , OB4 , SDB1.2 ). Bu süreçte dijital kaynaklardan faydalanılabilir ( OB2 ).",
+    "Belirlenen kaynaklar üzerinden telif ve patent süreçleriyle ilgili bilgi toplanır ( OB1 , OB2 ). Telif ve patent süreçlerinin ülkemiz ve ekonomimiz için neden önemli olduğu, telif ve patent haklarına uymanın gerekliliğiyle ( D6.2 ) ilgili beyin fırtınası yapılır ( SDB2.1 ). Bu süreçte Türkiye Cumhuriyeti Sanayi ve Teknoloji Bakanlığına bağlı Türk Patent ve Marka Kurumunun hizmetlerine değinilir.",
+    "Öğrencilerden bir ürün veya fikrin telif ve patent süreçleriyle ilgili ulaşılan bilgileri en az üç farklı kaynakla karşılaştırarak doğrulamaları istenir ( E3.10 ).",
+    "Performans görevi kapsamında öğrencilerden edindikleri bilgilerden yararlanılarak grup çalışması yolu ile bir ürün veya fikrin telif ve patent süreçlerini yansıtan bir rapor hazırlamaları ve sunmaları istenir ( SDB2.2 ). Hazırlanan raporlar derecelendirme ölçeği; sunumlar ise kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.1",
+      "D5.1",
+      "D6.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/422"
+}

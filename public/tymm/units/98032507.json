@@ -1,0 +1,93 @@
+{
+  "unitId": 98032507,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "7. ÜNİTE: ELEKTRİK YÜKLERİ VE ELEKTRİK ENERJİSİ",
+  "hours": "24",
+  "description": "Bu ünitede öğrencilerin; elektrik yüklerini tanımaları, elektrik yükleri arasında itme ve çekme kuvvetleri olduğunun farkına varmaları; cisimlerin, sahip oldukları elektrik yükü bakımından üç farklı durumda olabileceklerini ve “topraklama” olayını kavramaları; elektroskopun, cisimlerin sahip olduğu elektrik yüklerinin tespitinde kolaylık sağladığını deneyerek gözlemlemeleri, elektrik enerjisinin ısı, ışık ve hareket enerjilerine, hareket enerjisinin de elektrik enerjisine dönüşebileceğini deneyerek gözlemlemeleri, güç santrallerinde elektrik enerjisinin nasıl üretildiğini ve bunların doğurabileceği zararlı veya yararlı durumları tahmin etmeleri, elektrik enerjisinin bilinçli ve tasarruflu kullanılmasına yönelik bilgi ve beceri kazanmaları hedeflenmektedir.",
+  "outcomes": [
+    {
+      "code": "F.8.7.1.1",
+      "title": "Elektriklenmeyi, bazı doğa olayları ve teknolojideki uygulama örnekleri ile açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.7.1.2",
+      "title": "Elektrik yüklerini sınıflandırarak aynı ve farklı cins elektrik yüklerinin birbirlerine etkisini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.7.1.3",
+      "title": "Deneyler yaparak elektriklenme çeşitlerini fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.7.2.1",
+      "title": "Cisimleri, sahip oldukları elektrik yükleri bakımından sınıflandırır",
+      "processComponents": [
+        "Özellikle nötr cismin, yüksüz cisim anlamına gelmediği; nötr cisimlerde pozitif ve negatif yük miktarlarının eşit olduğu vurgusu yapılır. Elektroskopun yük ölçümünde kullanıldığı belirtilir, çalışma prensibine girilmez."
+      ]
+    },
+    {
+      "code": "F.8.7.2.2",
+      "title": "Topraklamayı açıklar",
+      "processComponents": [
+        "Topraklamanın günlük yaşam ve teknolojideki uygulamaları dikkate alınarak can ve mal güvenliği açısından önemine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "F.8.7.3.1",
+      "title": "Elektrik enerjisinin ısı, ışık ve hareket enerjisine dönüştüğü uygulamalara örnekler verir",
+      "processComponents": [
+        "Güvenlik açısından elektrik sigortasının önemi üzerinde durulur.",
+        "Robotların, elektrik enerjisinin, hareket enerjisine dönüşümü temel alınarak geliştirildiği vurgulanır."
+      ]
+    },
+    {
+      "code": "F.8.7.3.2",
+      "title": "Elektirik enerjisinin ısı, ışık veya hareket enerjisine dönüşümü temel alan bir model tasarlar",
+      "processComponents": [
+        "Öncelikle tasarımlarını çizimle ifade etmeleri istenir. Şartlar uygunsa üç boyutlu modele dönüştürmesi istenebilir."
+      ]
+    },
+    {
+      "code": "F.8.7.3.3",
+      "title": "Güç santrallerinde elektrik enerjisinin nasıl üretildiğini açıklar",
+      "processComponents": [
+        "Güç santrallerinden hidroelektrik, termik, rüzgâr, jeotermal ve nükleer santrallere değinilir."
+      ]
+    },
+    {
+      "code": "F.8.7.3.4",
+      "title": "Güç santrallerinin avantaj ve dezavantajları konusunda fikirler üretir",
+      "processComponents": [
+        "Güç santrallerinin yarar-zarar ve riskler yönünden değerlendirilmesine yönelik fikir üretmeleri ve bu fikirlerini savunmaları istenir."
+      ]
+    },
+    {
+      "code": "F.8.7.3.5",
+      "title": "Elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının aile ve ülke ekonomisi bakımından önemini tartışır",
+      "processComponents": [
+        "Enerji verimliliği konusunda ülkemizdeki resmî kurumlar ve sivil toplum kuruluşları tarafından yapılan çalışmalar ve elektrik enerjisi kullanımı bakımından yapılması gerekenler belirtilir.",
+        "Kaçak elektrik kullanımının ülke ekonomisine verdiği zarar vurgulanır."
+      ]
+    },
+    {
+      "code": "F.8.7.3.6",
+      "title": "Evlerde elektriği tasarruflu kullanmaya özen gösterir",
+      "processComponents": [
+        "Öğrencilerden elektrik faturasını azaltmaya yönelik uzun süreli çalışmalar yapmaları istenir, süreç izlenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Fiziksel Olaylar",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

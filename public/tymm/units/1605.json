@@ -1,0 +1,41 @@
+{
+  "unitId": 1605,
+  "grade": 0,
+  "gradeName": "2. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY II · 4. Ünite: Rol Oynama Ve Doğaçlama",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.2.4.1",
+      "title": "Drama sürecinde rol oynamayı ve doğaçlamayı yapılandırabilme",
+      "processComponents": [
+        "a) Rol oynama ve doğaçlamayı inceleyerek bunların temel özelliklerini ortaya koyar.",
+        "b) Rol oynama ve doğaçlamaya ilişkin özelliklerden yararlanarak drama açısından önemini ortaya koyar. OOED.2.4.2 . Drama sürecinde rol oynama ve doğaçlamayla fikri eyleme dönüştürebilme",
+        "a) Canlandırmalarını rol oynama ve doğaçlama ilkelerine göre planlayarak yapar.",
+        "b) Canlandırmalarında drama tekniklerini uygular.",
+        "c) Rol oynama ve doğaçlama çalışmalarındaki dramatik anları deneyimleriyle ilişkilendirerek değerlendirir. OOED.2.4.3. Metinsel türlerden yararlanarak canlandırma teknikleri aracılığıyla rol oynayabilme",
+        "a) Fıkra, günlük, anı, mektup gibi metinsel türleri inceler.",
+        "b) Fıkra, günlük, anı, mektup gibi metinsel türlerden yararlanarak rol oynama çalışmaları yapar."
+      ]
+    },
+    {
+      "code": "OOED.2.4.4",
+      "title": "Doğaçlamalardan yola çıkarak farklı türde metinler oluşturabilme",
+      "processComponents": [
+        "a) Drama sürecindeki doğaçlamalarda ortaya çıkan karakter, olay örgüsü ve çatışma unsurlarını belirler.",
+        "b) Drama sürecindeki yaşantı, çatışma veya temayı fıkra, günlük, anı, mektup gibi farklı türde metinlere dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "anı, anlatı, canlandırma, doğaçlama, donuk imge, fıkra, geriye dönüş, günlük, kendiliğindenlik, liderin role girmesi, mektup, mış gibi yapma, rol içinde yazma, rol oynama, rolde kalma",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB4. Sanatsal Üretim Yapma (SAB4.2. Sanatsal Ürün Oluşturma), SAB14. Sahneleme (SAB14.4. Rol Oynama), SBAB5. Sosyal Katılım (SBAB5.5. Fikri Eyleme Dönüştürme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1605"
+}

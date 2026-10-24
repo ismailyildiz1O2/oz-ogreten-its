@@ -1,0 +1,45 @@
+{
+  "unitId": 81403008,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Matematik Uygulamaları Dersi (Lise)",
+  "title": "8. ÜNİTE: MATEMATİK VE SÜRDÜRÜLEBİLİRLİK",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTU.2.1.1",
+      "title": "Karbon ayak izi azaltma stratejileri geliştirir",
+      "processComponents": [
+        "Veri toplama ve analiz çalışmalarına yer verilir.",
+        "Karbon ayak izi hesaplatılır.",
+        "Karbon ayak izinin çevresel etkilerinin araştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "MTU.2.1.2",
+      "title": "İklim değişikliği ile ilgili gerçek yaşam problemleri çözer",
+      "processComponents": [
+        "Veri toplama çalışmalarına yer verilir.",
+        "Tablo ve grafikleri yorumlama çalışmaları yaptırılır."
+      ]
+    },
+    {
+      "code": "MTU.2.1.3",
+      "title": "Geri dönüşüm oranını artırmaya yönelik stratejiler geliştirir",
+      "processComponents": [
+        "Veri toplama ve analiz çalışmalarına yer verilir.",
+        "Geri dönüşüm oranı hesaplatılır.",
+        "Geri dönüşümün çevre ve ekonomiye katkılarının araştırılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121111235666-MATEMAT%C4%B0K%20UYGULAMALARI%20DERS%C4%B0%20%28I-II%29%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI--21.11.2023.pdf"
+}

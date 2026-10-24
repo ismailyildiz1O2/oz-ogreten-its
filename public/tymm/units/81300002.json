@@ -1,0 +1,48 @@
+{
+  "unitId": 81300002,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Klasik Ahlak Metinleri Dersi",
+  "title": "2. ÜNİTE: AHLAK, AKIL, MUTLULUK VE HUZUR",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KAM.1.2.1",
+      "title": "Ahlak, akıl, mutluluk ve huzur ilişkisini tartışır",
+      "processComponents": [
+        "Sosyal ilişkilerde akılcı davranmanın getirdiği faydalara örnekler verilmesi sağlanır.",
+        "Kişisel ve toplumsal huzur açısından ahlaki kurallara uyarak yaşamanın önemini ifade eden çıkarımlar yaptırılması sağlanır."
+      ]
+    },
+    {
+      "code": "KAM.1.2.2",
+      "title": "Klasik metinleri ahlak, akıl ve mutluluk temelinde analiz eder",
+      "processComponents": [
+        "Fârâbî'nin et-Tenbih Alâ Sebîli's-Saâde adlı eserindeki yetkinlik ve mutluluk ilişkisine dair görüşleri üzerinde durulur.",
+        "Yûsuf Has Hâcib'in Kutadgu Bilig adlı eserinde yer alan aklın ahlaki yaşama etkisi hakkındaki görüşleri üzerinde durulur.",
+        "Edip Ahmed Yüknekî'nin Atabetü'l-Hakâyık adlı eserindeki ahlakın gerekliliği hakkındaki görüşlerinin ortaya konulması sağlanır.",
+        "Mevlâna'nın Mesnevî adlı eserinde geçen Gazneli Mahmut Köle Ayaz hikâyesinden hareketle insan-ı kâmil görüşü üzerinde durulur.",
+        "Yunus Emre'nin Risâletü'n-Nushiyye adlı eserinde yer alan Akıl ve Ruh Destanı bölümünden hareketle akıl ve nefis bağlamında iyi ve kötü kavramının karşılaştırılması sağlanır.",
+        "Kınalızâde Ali Efendi'nin Ahlâk-ı Alâî adlı eserinde yer alan ahlak ilminin faydaları hakkındaki görüşlerinin irdelenmesi sağlanır.",
+        "Sinan Paşa'nın Maarifname adlı eserindeki ahlak ile ilgili nasihatlerine yer verilir."
+      ]
+    },
+    {
+      "code": "KAM.1.2.3",
+      "title": "Ahlakın doğası üzerine görüş ve argümanları değerlendirir",
+      "processComponents": [
+        "Karacaoğlan'ın Dinle Sana Bir Nasihat Edeyim, Hacı Bayram-ı Velî'nin Güçtür Feleğin Yayı, Neşet Ertaş'ın Yolcu eserlerinde geçen ahlaki kavram ve yargıların belirlenmesi sağlanır.",
+        "Günlük hayat örneklerinden hareketle ahlaklı yaşamanın önemi ve gereği hakkında yazılı metin çalışması yapılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316030660-KlasikAhlakMetinleri%20%281%29.pdf"
+}

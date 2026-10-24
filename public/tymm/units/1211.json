@@ -1,0 +1,54 @@
+{
+  "unitId": 1211,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "2. TEMA: USTA NEYZENLER",
+  "hours": "8",
+  "description": "Temanın içeriğini alanda kendini ispatlamış ney icracılarının teknik yeterlilik, geleneksel repertuvar, yaratıcılık, ifade derinliği gibi özellikleri oluşturmaktadır. Bu doğrultuda öğrencilerin neyde usta icracıları tanımlamalarına dair belirlenen öğrenme çıktılarına ulaşması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.2.2.1",
+      "title": "Neyde usta icracıları tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "NEY.2.2.2",
+      "title": "Neyde usta icracıların stillerini tanıyabilme.",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "icra, ney, stil, teknik, usta icracı",
+  "support": [
+    "Bu süreçte hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazırbulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak neyde usta icracılar hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak usta icracıların çaldığı eserler hakkında tartışarak yorum yapmaları sağlanabilir. Usta neyzenlerin konu edindiği eşleştirme kartları ile oyun tasarlamaları sağlanabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; öz/akran değerlendirme, grup değerlendirmeleri, gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla poster veya sunum hazırlatılarak bir usta icracıyı tanıtmaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün, kontrol listesi veya analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.2.2.1",
+    "Usta icracıların performanslarının bulunduğu videolar veya kayıtlar öğrencilerle paylaşılarak, usta icracıları tanımaları sağlanır. Usta icracılarla yapılan sohbet veya röportaj kayıtları öğrencilere dinletilerek kültürel etkileşim kurmaları sağlanır ( D19.2 , OB5 ). Süreç sonunda bireysel veya grup çalışması yoluyla poster veya sunum hazırlatılarak bir usta icracı tanıtılabilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün, kontrol listesi veya analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "NEY.2.2.2",
+    "Usta icracıların performansları öğrencilere dinletilerek her birinin, ifade tarzı, ton ve ritimleri üzerine müzakere ortamı yaratılarak, düşüncelerini arkadaşlarıyla müzakere edip icracıların stillerini tanımaları sağlanır ( D4.2 , SDB2.2 ). Usta icracıların hayatları hikâyeleştirilerek anlatılır ve öğrencilerin dikkatinin çekilmesi sağlanır ( E3.2 ). Usta icracıların üfleme tekniği, nefes kontrolü farklılık gösterebileceğinden dolayı, icracıların seslendirdikleri aynı eserler üzerinde üfleme tekniği ve nefes kontrolünün üzerinde durularak öğrencilerin durumu belirlemeleri sağlanır ( D3.3 ). Bu süreç, gözlem formu ile değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla poster veya sunum hazırlatılarak bir usta icracıyı tanıtmaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün, kontrol listesi veya analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.2",
+      "D3.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1211"
+}

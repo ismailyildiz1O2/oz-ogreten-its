@@ -1,0 +1,74 @@
+{
+  "unitId": 1648,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "İklim, Çevre ve Yenilikçi Çözümler Dersi",
+  "title": "3. Ünite: Çevre Sorunları",
+  "hours": "22",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "İÇYÇ.3.1",
+      "title": ". Çevre sorunlarına neden olan beşeri faaliyetleri yorumlayabilme",
+      "processComponents": [
+        "a) Çevre sorunlarına neden olan beşeri faaliyetleri inceler.",
+        "b) Beşerî faaliyetlerin etkilediği çevresel unsurları inceler.",
+        "c) Beşerî faaliyetlerin etkilerinin niteliğini sorgular.",
+        "ç) Beşerî faaliyetlerin çevresel etkilerini bağlamından kopmadan yeniden ifade eder. İÇYÇ.3.2. Hava kirliliğinin çevresel etkilerini çözümleyebilme",
+        "a) Hava kirliliğinden etkilenen unsurları belirler.",
+        "b) Hava kirliliğinden etkilenen unsurlar ile hava kirliliğinin çevresel etkileri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "İÇYÇ.3.3",
+      "title": "Su kıtlığı ve kirliliğinin çevresel etkilerini çözümleyebilme",
+      "processComponents": [
+        "a) Su kıtlığı ve kirliliğinden etkilenen unsurları belirler.",
+        "b) Su kıtlığı ve kirliliğinden etkilenen unsurlar ile su kıtlığı ve kirliliğinin çevresel etkileri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "İÇYÇ.3.4",
+      "title": "Toprak bozulmasının çevresel etkilerini çözümleyebilme",
+      "processComponents": [
+        "a) Toprak bozulması tiplerini belirler.",
+        "b) Toprak bozulması tipleri ile toprak bozulmasının çevresel etkileri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "İÇYÇ.3.5",
+      "title": "Biyoçeşitlilik kaybının çevresel etkilerini yorumlayabilme",
+      "processComponents": [
+        "a) Biyoçeşitlilik kaybına yönelik tehditleri inceler.",
+        "b) Biyoçeşitlilik kaybından etkilenen unsurları inceler.",
+        "c) Biyoçeşitlilik kaybının çevresel etkilerinin niteliğini sorgular.",
+        "ç) Biyoçeşitlilik kaybının çevresel etkilerini bağlamından kopmadan yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "asit yağmuru, biyoçeşitlilik, emisyon, gıda güvenliği, karbon ayak izi, su ayak izi, su güvenliği, toprak bozulması, yeşil vatan",
+  "support": [
+    "Öğrencilerin öğrenme düzeylerine göre bireyselleştirilmiş çalışma yaprakları hazırlanabilir. Çevre bilinci ve etiği, doğal kaynakların insan hayatındaki önemi ile ekolojik ayak izi ve biyolojik kapasite arasındaki ilişkiyi ortaya koyan bir sunum düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere *nesli tehlike altında olan türlerin varlığını devam ettirebilmesi için neler yapılabileceğine yönelik bir araştırma görevi verilebilir. Öğrencilerden araştırma sonuçlarını tablo, grafik, şekil ve/veya diyagram, harita, görsel vb. materyaller yardımıyla poster hâline getirerek sınıf ortamında sunum yapması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı; açık uçlu sorular, çalışma yaprağı, öğrenme günlüğü, performans görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu kullanılarak değerlendirilebilir. Bu ünitede performans görevi olarak öğrencilerden grup çalışması şeklinde nesli tehlike altında olan türlere yönelik tehditleri ortaya koyan poster, afiş, bilgi görseli vb. çalışmalar yaparak sunmaları istenebilir. Performans görevi; bilgi toplama, bilgileri düzenleme, görselleştirme ve sunum yapma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "İÇYÇ.3.1",
+    "Öğrencilerden çevre sorunlarına neden olan beşerî faaliyetlerin (doğal kaynakların elde edilmesi, taşınması ve işlenmesi süreçleri (sanayi faaliyetleri); nüfus artışı, göç ve kentleşme; enerji üretimi, dağıtımı ve tüketimi süreçleri ile turizm faaliyetleri) incelemesi istenir. İncelenen beşeri faaliyetlerin çevresel etkileri ile bu faaliyetlerden etkilenen çevresel unsurları metin, örnek olay, görsel vb. materyalleri kullanarak veya saha gözlem çalışmaları yaparak incelemeleri istenir ( SBAB9 ). İncelenen materyaller veya saha gözlem sonuçları üzerinden beşerî faaliyetlerin çevresel etkilerinin niteliği sorgulanır. Bu beşerî faaliyetler sürdürülürken diğer canlıların da yaşam hakkına saygı göstermenin önemine yönelik duygu ve düşüncelerini çevre etiği bağlamında yazılı bir metin olarak yeniden ifade etmeleri istenir ( SDB2.1 , E3.4 , E3.6 , D5.2 ). Öğrenmeler açık uçlu sorularla değerlendirilebilir.",
+    "İÇYÇ.3.2",
+    "Öğrencilerden örnek olay incelemesi üzerinden hava kirliliğine yol açan kirletici kaynaklarından etkilenen unsurları belirlemeleri istenir. Belirlenen unsurlar ile kirletici kaynakları ve hava kirliliğinin çevresel etkileri (asit yağmurları, ozon tabakasının seyrelmesi vb.) arasındaki ilişkinin tartışma yöntemiyle belirlenmesi sağlanır ( SDB1.2 , SDB2.1 , OB7 , E3.4 ). Öğrencilerin hava kirliliğinden etkilenen unsurlar ile hava kirliliğinin çevresel etkileri arasındaki ilişkiye yönelik öğrenmeleri açık uçlu sorularla değerlendirilebilir.",
+    "İÇYÇ.3.3",
+    "Öğrencilerin metin, harita, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak su kaynaklarının dünyadaki oransal dağılımı, su kıtlığı ve su stresi kavramlarını ifade etmesi sağlanır ( SBAB10 , SBAB11.1 ). Öğrencilerden su kıtlığı ile su kirliliğine neden olan doğal ve yapay kirletici kaynaklarını metin, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak iş birlikli öğrenme yöntemiyle belirlemeleri istenir. Belirlenen kirletici kaynaklarından ve su kıtlığından etkilenen çevresel unsurları tespit etmeleri sağlanır. Tespit edilen unsurlar ile su kıtlığı ve kirliliğinin çevresel etkileri arasındaki ilişkinin belirlenmesi istenir ( SDB2.1 , SDB2.2 , E3.4 , E3.6 ). Su israfını azaltmak ve suyu verimli kullanmak için bireylere düşen sorumluluklar vurgulanır ( D5.2 ). Öğrencilerin su kirliliğine neden olan unsurlar ile su kirliliğinin çevresel etkileri arasındaki ilişkiye yönelik öğrenmeleri çalışma yaprağı üzerinden izlenebilir.",
+    "İÇYÇ.3.4",
+    "Öğrencilerin metin, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak toprağın önemini ifade etmesi sağlanır ( SBAB11.1 ). Öğrencilerden toprak bozulmasının tiplerini metin, harita, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak iş birlikli öğrenme yöntemiyle belirlemeleri istenir. Tespit edilen toprak bozulması tipleriyle toprak bozulmasının çevresel etkilerinin ortaya konulması istenir. Ayrıca toprak bozulması ve gıda güvenliği arasındaki ilişkinin belirlenmesi sağlanır ( SDB2.1 , SDB2.2 , OB7 , E3.4 , E3.6 ). Dünya genelinde gıdanın adil dağılmamasının nedenleri ve sonuçları üzerinde durulur ( D1.1 ). Öğrencilerin toprak bozulmasına neden olan unsurlar ile toprak bozulmasının çevresel etkileri arasındaki ilişkiye yönelik öğrenmeleri öğrenme günlüğü üzerinden izlenebilir. İÇYÇ.3.5",
+    "Öğrencilerden biyoçeşitlilik kaybına yol açan tehditleri (habitat kaybı, değişimi ve bölünmesi; iklim değişikliği, kirlilik, istilacı türler, aşırı tüketim) metin, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak incelemesi istenir ( SBAB11.1 ). İncelenen materyaller üzerinden biyoçeşitlilik kaybından etkilenen unsurların metin, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak incelenmesi istenir ( SBAB11.1 ). İncelenen materyaller üzerinden biyoçeşitlilik kaybına neden olan tehditlerin ekosisteme olan etkilerinin niteliğinin sorgulanması sağlanır. Biyoçeşitlilik kaybına neden olan tehditlerin ekosisteme olan etkilerinin nedenleri ve sonuçlarının bağlamından kopmadan soru-cevap yöntemiyle yeniden ifade edilmesi sağlanır ( SDB2.1 , OB7 , E3.10 ). Çevre etiği bağlamında biyoçeşitliliğin korunması için canlılara sevgi göstermenin, onların yaşam haklarına saygı duymanın ve yeşil vatanın önemi üzerinde durulur ( D14.3 , D19.3 ). Bu ünitede performans görevi olarak öğrencilerden grup çalışması şeklinde nesli tehlike altında olan türlere yönelik tehditleri ortaya koyan poster, afiş, bilgi görseli vb. çalışmalar yaparak sunmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir ( SBAB11.2 , SDB1.2 , SDB2.1 , SDB2.2 , OB1 )."
+  ],
+  "skills": [
+    "SBAB4. Değişim ve Sürekliliği Algılama (SBAB4.2. Değişim ve Sürekliliği Neden ve Sonuçlarıyla Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1648"
+}

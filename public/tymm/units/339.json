@@ -1,0 +1,86 @@
+{
+  "unitId": 339,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "6. ÜNİTE: YAŞAMIMIZI KOLAYLAŞTIRAN ELEKTRİK",
+  "hours": "12",
+  "description": "Bu ünitede bazı araç gereçlerin elektrikli olduğuna ilişkin bilimsel çıkarım yapılması, elektrikli araç gereçlerin güvenli kullanımı ile ilgili eleştirel düşünülmesi ve elektriği tasarruflu kullanma yolları hakkında veriye dayalı tahminler oluşturulması amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "FB.3.6.1",
+      "title": "Bazı araç gereçlerin elektrikli olduğuna ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Farklı araç gereçlerin niteliklerini tanımlar.",
+        "b) Elektrikli araç gereçlerle ilgili veri toplayarak kaydeder.",
+        "c) Elektrikli araç gereçlerle ilgili verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.3.6.2",
+      "title": "Elektrikli araç gereçlerin güvenli kullanımı ile ilgili eleştirel düşünebilme",
+      "processComponents": [
+        "a) Elektrikli araç gereçlerin güvenli kullanımı ile ilgili verilen bir olay/konu/problem veya durumu sorgular.",
+        "b) Elektrikli araç gereçlerin kullanımında güvenliğin sağlanabileceğine yönelik akıl yürütür.",
+        "c) Akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "FB.3.6.3",
+      "title": "Elektriği tasarruflu kullanma konusunda bilimsel veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Elektriği tasarruflu kullanma konusunda verilere ve/veya ön bilgilere dayalı önerme oluşturur.",
+        "b) Elektriği tasarruflu kullanma üzerine nicel ölçüm verilerine dayalı önermelerini gerekçelendirir.",
+        "c) Hesaplamalarına dayalı olarak tahmin eder.",
+        "ç) Tahminlerin geçerliliğini sorgular."
+      ]
+    }
+  ],
+  "keyConcepts": "elektrik, güvenlik, elektrik tasarrufu",
+  "support": [
+    "Elektrikli araç gereçlerle ilgili görseller kullanılabilir. Elektrik faturası inceleme çalışmasında veriler ve/veya grafikler hazır olarak verilebilir ya da grup çalışması yaptırılarak verileri kaydetmeleri istenebilir. Elektriğin güvenli kullanımına yönelik poster, afiş vb. tasarlanarak sınıfta görünür bir yere asılabilir, bunun hakkında konuşulabilir. Ayrıca önceden hazırlanmış notlar, sunular, farklı türde infografikler ya da işlenecek konu ile ilgili genel özetler de verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden pille çalışan bir oyuncak tasarlamaları istenebilir. Elektriğin güvenli ve tasarruflu kullanımına yönelik kendi dijital içeriklerini tasarlayıp paylaşmaları istenebilir. Elektriğin tasarruflu kullanıldığı bir mekân (ev, okul, park vb.) modeli tasarlamaları istenebilir. Enerji verimliliğine yönelik farkındalık, eğitim ve bilinçlendirme kapsamında hazırlanan çalışmalardan/etkinliklerden/faaliyetlerden uygun olanlarının okulda uygulanmasına yönelik proje geliştirmesi istenebilir. Enerji dedektifliği ile elektriği tasarruflu kullanma konusunda sorumluluk almaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde anlam çözümleme tablosu, çalışma yaprağı, performans görevi, öz değerlendirme formu, öğrenci ürün dosyası kullanılabilir. Elektrikli olan ve olmayan araç gereçlerin niteliklerine ilişkin toplanan verileri kaydetmek için anlam çözümleme tablosu kullanılabilir. Elektriğin güvenli kullanımı ile ilgili çalışma yaprağı ve öz değerlendirme formu kullanılabilir. Öğrencilerin elektriğin tasarruflu kullanımı ile ilgili çalışmaları performans görevi olarak değerlendirilebilir. Öğrencilerin elektriği tasarruflu kullan ma durumları öz değerlendirme formu ile değerlendirilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.3.6.1. Sınıfa elektrikli olan ve olmayan araç gereçler getirilebilir, basılı veya dijital görseller kullanılabilir. Öğrencilerin araç gereçlerin niteliklerini çalışmalarına göre elektrikli ya da elektriksiz olarak tanımlamaları sağlanır ( SDB1.2 ) . Merak ettikleri soruları sormaları ve aktif katılım göstermeleri desteklenir ( E3.8 , D3.4 ) . Öğrencilerden elektrikli olan ve olmayan araç gereçlerin niteliklerine ilişkin veri toplayarak kaydetmeleri istenir ( SDB1.2 ) . Sürecin değerlendirilmesinde anlam çözümleme tablosu kullanılabilir. Tersine mühendislik uygulamaları yaptırılabilir. Öğrencilerden bir araç gerecin elektrik ile çalışıp çalışmadığına yönelik karar vermek için topladıkları verileri eleştirel ve bilimsel bir bakış açısıyla değerlendirmeleri beklenir ( D3.3 , KB2.2 , SDB1.2 , E3.6 ) . Pilli araç gereçlerin de elektrikli araç gereçler sınıfına girdiği bilgisi değinilir.",
+    "FB.3.6.2. Ders öncesinde elektrikli araç gereçlerin güvenli kullanımına ilişkin bir olay/konu/problem/durum hazırlanır. Öğrencilerin elektrikli araç gereçlerin güvenli kullanımı ile ilgili verilen durumu sorgulamaları sağlanır ( SDB3.3 , E3.4 ) . Elektrikli araç gereçlerin kullanımında öğrencinin ve elektrikli aracın güvenliğinin nasıl sağlanabileceğine yönelik akıl yürütmeleri desteklenir ( SDB3.3 , E3.6 , KB2.10 ) . Öğrenciler, elektriğin güvenli kullanımı ile ilgili risk oluşturabilecek durumları ve olası olumsuz sonuçları fark etmeye ve bunların gerekçelerini paylaşmaya yönlendirilebilir ( SDB3.3 ) . Öğrendiklerini uygulama konusunda sorumluluk almaları için teşvik edilebilir. Öğrencilerin günlük hayatta elektrikli araç gereçleri güvenli bir şekilde kullanmaları gerektiği çıkarımına vararak bunu gerçek yaşamlarına yansıtmaları beklenir ( SDB1.3 , KB2.15 , D16.1 ) . Uygun davranışları desteklemek için eylem öğrenme yaklaşımı kullanılır. Uygulamaları değerlendirmek için çalışma yaprağı kullanılabilir. Öğrencilerin elektrikli araç gereçleri güvenli bir şekilde kullanıp kullanmadıklarını değerlendirmek için öz değerlendirme formu kullanılabilir ( SDB1.3 ) .",
+    "FB.3.6.3. Ders öncesinde öğrencilerden geçmiş aylara ait elektrik faturası getirmeleri istenir. Getirilen faturalar grup çalışması ile incelenir. Elektrik faturalarındaki tüketim verileri üzerinden bir tablo veya grafik oluşturur ( OB7 ) . Elektrik tüketiminin azaltılmasını sağlayacak tasarruf tedbirleri öğrencilere sorulabilir. Öğrencilerin eldeki veriler ve ön bilgilerinden yola çıkarak elektrik tasarrufu konusunda bir önerme oluşturmaları sağlanır ( SDB3.3 ) . Öğrencilerin elektriği tasarruflu kullanma konusunda yapılabileceklerini kontrol listesine işaretlemeleri istenebilir. Öğrencilerin elektriği tasarruflu kullanma üzerine nicel ölçüm verilerine dayalı önermelerini gerekçelendirmeleri sağlanır ( SDB3.3 , E3.6 ) . Elektriği tasarruflu kullanma konusunda öğrencilerin hesaplamalara dayalı tahminleri alınır ( SDB3.3 , KB2.12 ) . Bunun için görüş geliştirme tekniği uygulanabilir. Öğrencilerin faturalar üzerinden tahminlerinin geçerliliğini sorgulamaları sağlanır. Sorgulama sonucunda öğrenciler, seçtikleri yöntemlerden faydalı olanları yansıtma, ülkemizin sahip olduğu kaynakları verimli ve sürdürülebilir bir biçimde kullanma (bilinçli tüketici olma) konularında sorumluluk almaları için yönlendirilir ( SDB3.3 , SDB2.3 , D17.1 , D17.2 , D19.3 , OB8 ) . Öğrencilerin elektriğin tasarruflu kullanımı ile ilgili çalışmaları performans görevi olarak değerlendirilebilir. Öğrenciler, elektriğin tasarruflu kullanımı konusunda öz değerlendirme formu ile değerlendirilebilir ( SDB1.3 ) . Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D17.1",
+      "D17.2",
+      "D19.3",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.4",
+      "E3.6",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.12",
+      "KB2.15",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/339"
+}

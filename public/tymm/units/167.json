@@ -1,0 +1,189 @@
+{
+  "unitId": 167,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "1. TEMA: ETKİLEŞİM",
+  "hours": "48",
+  "description": "Bu tema İndirgenme-Yükseltgenme Tepkimeleri ve Elektrokimyasal Hücreler bölümlerinden oluşmaktadır. Bu temada öğrencilerin indirgenme yükseltgenme (redoks) tepkime sürecine ilişkin bilimsel gözlem yapmaları, metallerin aktiflik sıralamasının belirlenmesine ilişkin bilimsel sorgulama yapmaları, galvanik bir hücrenin özelliklerini bilimsel gözleme dayalı olarak tahmin etmeleri, standart hücre potansiyeli hesaplanmasına ilişkin akıl yürütmeleri, galvanik hücrelerin potansiyelini etkileyen faktörlere ilişkin hipotez oluşturmaları, elektrolitik bir hücrenin özelliklerini bilimsel gözlemlere dayalı tahmin etmeleri, elektroliz olayında madde-elektrik akımı miktarı ilişkisini açıklayabilmek için kanıt kullanabilmeleri, metallerin elektrolizle kaplanmasına ilişkin deney yapmaları, korozyonu önlemeye yönelik bilimsel sorgulama yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.12.1.1",
+      "title": "İndirgenme-yükseltgenme (redoks) tepkime sürecine ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Bazı metallerin oksijen gazı/hava, seyreltik hidroklorik asit ve metal tuzlarının sulu çözeltileriyle olan tepkimelerindeki kimyasal değişimleri gösteren nitelikleri tanımlar.",
+        "b) İndirgenme-yükseltgenme tepkimelerinde kimyasal değişimleri gösteren kanıtlar toplar.",
+        "c) İndirgenme-yükseltgenme tepkime sürecini topladığı makro seviyede kanıtları kullanarak alt mikro ve sembolik seviyelerde gösterimlerle açıklar."
+      ]
+    },
+    {
+      "code": "KİM.12.1.2",
+      "title": "Metallerin aktiflik sıralamasını belirlemeye ilişkin bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Metallerin aktiflik sıralamasının belirlenmesine ilişkin araştırma soruları oluşturur.",
+        "b) Metallerin aktiflik sıralamasına ilişkin seçtiği araştırma sorusunu cevaplamak için bir hipotez oluşturur.",
+        "c) Metallerin aktiflik sıralamasını belirlemek üzere bir deneyi planlayarak gerçekleştirir.",
+        "ç) Deney sonuçlarından elde ettiği verileri metallerin aktiflik sıralamasına ilişkin önerdiği hipotez ile ilişkilendirerek yorumlar.",
+        "d) Metallerin aktiflik sıralamasını açıklarken tepkimelere ilişkin alt mikro ve sembolik seviyelerde gösterimleri kullanır.",
+        "e) Metallerin aktifliğine ilişkin gösterimlerini bilimsel gösterimlerle karşılaştırır."
+      ]
+    },
+    {
+      "code": "KİM.12.1.3",
+      "title": "Galvanik bir hücrenin özelliklerini bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) İstemli indirgenme-yükseltgenme tepkimelerinden elektrik enerjisi üretilmesine ilişkin önermeler oluşturur.",
+        "b) İstemli indirgenme-yükseltgenme tepkimelerinden elektrik enerjisi üretilmesine ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Galvanik hücrelere ilişkin ulaştığı makro, alt mikro ve sembolik seviyelerde gözlem verilerinden sonuç çıkarır.",
+        "ç) Galvanik hücrelerin gözlem yapılamayan özelliklerine ilişkin tahminlerde bulunur.",
+        "d) Galvanik bir hücrenin özelliklerine ilişkin tahminlerinin geçerliliğini bilimsel bilgilere dayalı sorgular."
+      ]
+    },
+    {
+      "code": "KİM.12.1.4",
+      "title": "Standart hücre potansiyelinin hesaplanmasına ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Standart hücre potansiyelinin hesaplanmasına ilişkin keşfettiği örüntüyü matematiksel olarak modelleyerek modelini farklı elektrokimyasal hücrelerin standart potansiyellerinin hesaplanmasında kullanır.",
+        "b) Keşfettiği örüntüyü matematiksel modeller üzerinden geneller."
+      ]
+    },
+    {
+      "code": "KİM.12.1.5",
+      "title": "Galvanik hücrelerin potansiyelini etkileyen faktörlere ilişkin hipotez oluşturabilme",
+      "processComponents": [
+        "a) Galvanik hücrelerin potansiyelini etkileyen faktörleri belirler.",
+        "b) Galvanik hücrelerin potansiyelindeki değişimlerin neden-sonuç ilişkisini belirler.",
+        "c) Galvanik hücrelerin potansiyelini etkileyen bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler.",
+        "ç) Belirlediği bağımsız değişkenlerin hücre potansiyeli üzerindeki etkisine ilişkin denemeler yapar.",
+        "d) Belirlediği faktörlerin galvanik hücrelerin potansiyeline etkisine ilişkin Le Chatelier ilkesi temelinde önermeler oluşturur."
+      ]
+    },
+    {
+      "code": "KİM.12.1.6",
+      "title": "Elektrolitik bir hücrenin özelliklerini bilimsel gözlemlere dayalı tahmin edebilme",
+      "processComponents": [
+        "a) İstemsiz indirgenme-yükseltgenme tepkimelerinin gerçekleşebilmesi için gerekli şartlar ile ilgili önermeler oluşturur.",
+        "b) İstemsiz indirgenme-yükseltgenme tepkimelerinin gerçekleşebilmesi için gerekli şartlara ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Elektrolitik hücrelere ilişkin ulaştığı makro, alt mikro ve sembolik seviyelerde gözlem verilerinden sonuç çıkarır.",
+        "ç) Elektrolitik hücrelerin gözlem yapılamayan özelliklerine ilişkin tahminlerde bulunur.",
+        "d) Elektrolitik bir hücrenin özelliklerine ilişkin tahminlerinin geçerliliğini bilimsel bilgilere dayalı sorgular."
+      ]
+    },
+    {
+      "code": "KİM.12.1.7",
+      "title": "Elektroliz olayında madde-elektrik akımı miktarı ilişkisini açıklayabilmek için kanıt kullanabilme",
+      "processComponents": [
+        "a) Elektroliz olayının gözlemlenebilir ve ölçülebilir niteliklerini belirlemek için ölçütle (katot ve anotta oluşan madde miktarı, akım miktarı ve elektroliz süresi) belirler.",
+        "b) Elektroliz olayı ile ilgili gözlem veya hazır nicel veri setinden seçtiği verileri örüntü ve değişkenleri arasındaki ilişkileri belirleyecek şekilde düzenler.",
+        "c) Elektroliz olayında madde-elektrik akımı miktarı ilişkisine (devreden geçen elektrik akım miktarı ve elektroliz süresi ile elektrotlarda açığa çıkan madde miktarı) yönelik iddialarını verilere dayalı açıklayarak bu açıklamalarını desteklemek için Faraday'in elektroliz yasasına ilişkin bilimsel bilgiyi kullanır."
+      ]
+    },
+    {
+      "code": "KİM.12.1.8",
+      "title": "Metallerin elektrolizle kaplanmasına yönelik deney yapabilme",
+      "processComponents": [
+        "a) Metal bir eşyanın bakır metali ile kaplanmasına yönelik deney tasarlar.",
+        "b) Deneyden elde ettiği sonuçları günlük hayattaki örnekleri açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "KİM.12.1.9",
+      "title": "Korozyonu önlemeye yönelik bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Yaygın korozyon tepkimeleri temelinde korozyona neden olan faktörleri belirlemeye yönelik araştırma soruları oluşturur.",
+        "b) Korozyona neden olan faktörlerin etkisine ilişkin model önerir.",
+        "c) Korozyona neden olan faktörleri test etmek üzere deneyler planlayarak planladığı deneyleri yapar.",
+        "ç) Korozyonu etkileyen faktörlere ilişkin topladığı verileri yorumlar.",
+        "d) Kanıtlar temelinde korozyonun önlenmesine yönelik çözümler üretir.",
+        "e) Korozyonun önlenmesine ilişkin ulaştığı bilgileri paylaşır."
+      ]
+    }
+  ],
+  "keyConcepts": "aktiflik, anot, elektrolit, elektrot, elektroliz, elektrolitik hücre, elektrokimyasal hücre, Faraday yasaları, galvanik hücre, indirgen, indirgenme, katodik koruma, katot, korozyon, redoks, tuz köprüsü, yarı hücre, yükseltgen, yükseltgenme, standart elektrot potansiyeli",
+  "support": [
+    "Öğrencilerin indirgenme-yükseltgenme tepkimelerine ilişkin bilimsel gözlem yapabilmeleri için öğretmen, öncelikle günlük hayatta karşılaşılan demirin paslanması gibi örnekler verebilir. Seçilen örnekler görsel materyaller ile desteklenebilir ve öğrencilerden benzer örnekleri bulmaları istenebilir. İndirgenme-yükseltgenme tepkimelerinin alt mikro ve sembolik seviyedeki gösterimlerini yapabilmeleri için basit tepkimelerden başlanarak benzer örneklerle öğrencilerin pratik yapmaları sağlanabilir.",
+    "Metallerin aktiflik sıralamasına ilişkin problemin veya araştırma sorularının belirlenmesi öğretmen rehberliğinde gerçekleştirilebilir. Model geliştirebilmelerini sağlamak amacıyla öğrencilere basit tepkimelerin gösterimleri yaptırılabilir. Deney yapma aşaması öğretmen rehberliğinde gerçekleştirilebilir.",
+    "Öğrencilerin galvanik hücrelerin potansiyelini etkileyen faktörleri belirleyebilmeleri için günlük hayattan verilen örnekler üzerinden neden-sonuç ilişkileri kurmaları sağlanabilir. Bu süreçte destekleyici sorularla yönlendirme yapılabilir, deney videoları izletilebilir ve öğrencilerin bu deneylerdeki bağımlı bağımsız değişkenleri fark etmeleri sağlanabilir. Le Chatelier ilkesi açıklanarak öğretmen rehberliğinde öğrencilerden önerme sunmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden sürdürülebilir enerji depolama sistemi kapsamında kimyasal enerjiden üretilen elektrik enerjisinin mekanik enerjiye dönüşümünü araştırmaları istenebilir. Böylece öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları; bilimsel gelişim için merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri sağlanabilir. Öğrenciler, araştırmalarından elde ettikleri verileri elektrikli otomobillerin çalışma prensipleriyle ilişkilendirmeleri için yönlendirilebilir. Elektrikli otomobillerde kullanılan pillerin kapasitesinin artırılması için yapılan çalışmaları inceleyebilir. Elde ettiği bilgiler ışığında mühendislik tasarım sürecini izleyerek kimyasal enerjiyi mekanik enerjiye dönüştüren bir araç tasarlayabilir. Böylelikle öğrencilerin yeteneklerini geliştirecek faaliyetlere katılmaları, çalışmalarını planlayıp yürütmeye gayret göstermeleri, görev ve sorumluluklarını yerine getirirken kararlı davranmaları, bilimsel bilgiyi insanların ve toplumun yararına kullanmaları sağlanabilir. Öğrencilere bu aşamada tasarımda kullanmaları için modern enerji depolama teknolojilerinden olan lityum iyon pilleri tanıtılabilir. Öğrenciler; tasarımlarını teknoloji festivalleri, bilim fuarları vb. yerlerde sergileyebilir.",
+    "Öğrenciler, çeşitli pil türlerini ve bu pillerin yaygın kullanım alanlarını araştırabilir. Öğrencilerin eleştirel düşünme becerilerini kullanarak bu pillerin üretim, kullanım ve atık yönetimi süreçlerindeki çevresel etkilerini değerlendirmeleri sağlanabilir. Yenilikçi ve ekolojik stratejiler kullanılarak modern ve sürdürülebilir enerji depolama çözümlerinin geliştirilmesine yönelik çözüm önerileri geliştirilmesi sağlanabilir. Bu sayede öğrencilerin bilim, sanayi ve teknoloji alanındaki güncel çalışmaları takip etmeleri, yeteneklerini geliştirecek faaliyetlere katılmaları, ekosistemi korumak için etkili atık yönetiminin önemini bilmeleri, insana ve topluma katkıda bulunmak için zaman ayırarak bilimsel bilgiyi insanların ve toplumun yararına kullanmaları sağlanabilir.",
+    "Öğrencilerin yeşil kimya bağlamında bor madeninin atık ürün oluşumunun azaltılmasında, yenilenebilir enerji uygulamalarında ve tarım sektöründe kullanım potansiyelini değerlendirebilmeleri için geri dönüşüm tesisleri ve araştırma laboratuvarlarına saha gezileri düzenlenebilir. Öğrenciler, sanayi uygulamalarını ve bu uygulamaların çevresel etkilerini analiz edebilir. Yapılan analizlerden yola çıkarak yeni kullanım alanlarına yönelik özgün çözümler geliştirebilir. Böylece öğrencilerin bilim, sanayi ve teknoloji alanındaki güncel çalışmaları takip etmeleri, etkili atık yönetiminin ve temiz enerji kaynaklarının çevre ve toplum sağlığı için önemini bilmeleri, insana ve topluma katkıda bulunmak için zaman ayırarak bilimsel bilgiyi insanların ve toplumun yararına kullanmaları, Türkiye'nin ekonomik değerlerini tanıyıp korumaları, ülke kaynaklarını sürdürülebilir bir şekilde kullanmanın gerekliliği ile ilgili farkındalık oluşturmaları sağlanabilir.",
+    "*Öğrenciler, mühendislik tasarımı ve malzeme bilimi gibi çeşitli disiplinlerden edindikleri bilgilerden yola çıkarak ve tasarım yeteneğini kullanarak evde basit bir su elektrolizi cihazı oluşturabilirler. Böylece suyun hidrojen ve oksijene ayrıştırılma sürecini gözlemleme imkânı edinebilirler. Üretilen hidrojenin enerji potansiyelini değerlendirmek amacıyla basit bir yakıt hücresini sisteme entegre edebilirler. Bu deneylerden elde edilen verilerle temiz enerji ve yakıt hücresi teknolojisinin temel prensipleri hakkında derinlemesine bilgi edinebilirler. Böylece öğrenciler temiz enerjinin çevre temizliği, toplum ve insan sağlığı açısından önemini fark edebilirler. Öğrenciler, sıfır atık projesi bağlamında e-atık olarak değerlendirilen kullanılmış elektronik cihazlardan değerli metallerin geri kazanımı üzerine bir proje geliştirebilirler. Eski telefonlarından veya bilgisayar parçalarından altın, gümüş veya bakır gibi metalleri elektrokimyasal yöntemlerle ayrıştırmak için yöntemler araştırabilirler. Bu noktada öğrenciler, bilgi okuryazarlığı becerilerini işe koşarak araştırmaları sonucunda ulaştığı bu yöntemleri uygulayabilir ve geliştirebilirler. Geliştirdikleri yöntemleri katı atık merkezlerinde kullanmak üzere proje olarak sunabilirler. Böylece öğrencilerin çevrelerine ve canlı hayatına karşı duyarlı olmaları, sahip olduklarının değerini bilmeleri sağlanabilir.",
+    "*Öğrenciler, elektrokromik malzemelerin sanayi uygulamalarını analiz ederek bu malzemelerin renk değiştirme özelliklerine dayalı basit bir elektrokromik cihaz prototipi oluşturabilirler. Geliştirilen bu prototipler, özellikle güneş ışığına tepki vererek renk değiştirebilen akıllı cam sistemleri veya estetik dekoratif uygulamalar için projelendirilebilir. Buradan elde ettikleri verilerle elektrokromik teknolojilerin potansiyel uygulama alanlarına yönelik endüstriyel süreçlere eleştirel bakabilir, çözümler geliştirebilirler. Öğrenciler, çözüm önerilerini arkadaşlarıyla tartışabilirler."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, çalışma yaprağı, deney raporu, öz değerlendirme formu, performans görevi, sınıf içi tartışma, Venn diyagramı ve çıkış kartı kullanılabilir.",
+    "Öğrencilerden performans görevi çerçevesinde farklı metallerin korozyona uğramış örneklerini inceleyerek korozyona sebep olan faktörlere ilişkin araştırma sorusu oluşturmaları ve korozyonu önlemek için çözüm önerileri belirlemeleri istenebilir. Öğrenciler, çalışmalarını arkadaşları ile yazılı veya sözlü olarak paylaşabilir. Performans görevi \"korozyona sebep olan faktörleri belirleme, araştırma sorusu oluşturabilme ve korozyonu önlemek için çözüm önerileri belirleme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işlenişi sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.12.1.1",
+    "Metallerin (magnezyum, çinko, bakır, demir, kurşun, kalay vb.) oksijen gazıyla, seyreltik hidroklorik asit çözeltisiyle ve metal tuzlarının sulu çözeltileriyle olan tepkimelerinden biri seçilir. Örneğin etkinlik kâğıdında çinko metalinin bakır ( II) nitrat tuzunun sulu çözeltisiyle olan tepkimesi verilerek öğrencilerden tepkime sonucunda elde edilecek ürün veya ürünleri tahmin etmeleri ve tepkime oluşum sürecine ilişkin gözlemlenebilir kanıtları belirlemeleri istenir ( OB7 ) . Öğrenciler, indirgenme-yükseltgenme tepkimesini gözlemleyerek tepkimenin oluşum sürecindeki kanıtlara ilişkin veri toplar ve topladığı verileri kaydeder ( KB2.2 ) . Bu çalışma ile öğrencilerin planlı ve araştırmacı olma özellikleri teşvik edilerek çalışkanlık değeri desteklenir ( D3.2 , D3.3 ) . Öğrenciler, gözlem verileri temelinde indirgenme-yükseltgenme tepkimesinin oluşum sürecini alt mikro seviyede tanecik davranışları ve etkileşimlerini dikkate alarak hem sözel hem de süreç aşamalı tanecik modeli çizimleriyle açıklar ( OB7 ) . Ayrıca ilgili tepkimenin indirgenme ve yükseltgenme yarı tepkime denklemleri yazılarak yük denkliği sağlanır ve tepkime denklemi yazılır. Alt mikro seviyedeki indirgenme-yükseltgenme tepkimesi oluşum sürecini gösteren animasyonları gözlemlemesi sağlanan öğrenciler, kendi açıklamalarıyla animasyondaki gözlemlerini karşılaştırır ( OB2 ) . İndirgenme-yükseltgenme tepkimelerine ilişkin bilimsel gözlem süreci farklı tepkime örnekleri için tekrarlanır. Asidik ve bazik sulu çözeltilerde gerçekleşen indirgenme-yükseltgenme tepkime örnekleri seçilmez. Etkinlik kâğıtları \"tepkime göstergelerini belirleyebilme, verileri toplayıp kaydedebilme, tepkime sürecini tanecik modeliyle çizerek açıklayabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir. Hazırlanan öz değerlendirme formu ile öğrenci kendi öğrenme sürecini değerlendirebilir ( SDB1.2 , SDB1.3 ) .",
+    "KİM.12.1.2",
+    "Etkinlik kâğıdında öğrencilere farklı metaller (bakır, çinko, demir, kurşun vb.) ve bu metal tuzlarının sulu çözeltileri verilir. Öğrencilerden verilen metallerin aktifliklerinin sıralamasının belirlenmesine yönelik araştırma soruları oluşturmaları istenir ( OB7 ) . Böylece öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları sağlanır ( D3.3 ) . Öğrenciler, seçtiği araştırma sorusunu temel alarak metallerin aktifliklerinin sıralamasını tahmin edebilecekleri bir hipotez geliştirir. Öğrencilerden gruplara ayrılmaları ve iş birliği içinde çalışarak metallerin aktifliklerinin sıralamasını belirleyecekleri mikro ölçekli bir deney planlamaları istenir ( SDB2.1 , SDB2.2 , D4.1 ) . Böylece deney sırasında öğrencilerde dostluk değeri pekiştirilir. Gruplar, sanal veya gerçek ortamlarda planladıkları bir deneyi gerçekleştirir; konu ile ilgili veri toplar ve topladığı verileri kaydeder. Verilerini metallerin aktifliklerinin sıralamasına ilişkin oluşturduğu hipotez temelinde yorumlar ( OB4 ) . Geliştirdiği hipotez ile deney bulguları arasında tutarsızlıklar varsa bunun gerekçelerini açıklayarak hipotezini yeniler. Araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir ( D3.3 ) . Böylece öğrencilerin alternatif çözümler bulmaları ve yeni durumlara uyum sağlamaları desteklenir ( E3.3 , SDB3.2 ) . Öğrenciler deney gözlemlerinden hareketle metallerin aktifliklerinin sıralamasına ilişkin makro seviyede elde ettikleri bulguları alt mikro ve sembolik seviyede ilgili metallerin elektron verme eğilimini, iyonlaşma enerjisini ve tepkime sürecindeki etkileşimleri dikkate alarak açıklar. Ayrıca sembolik seviyede indirgenme ve yükseltgenme yarı tepkime denklemlerini yazarak yük dengelerinin eşitliğini sağlar ( OB7 ) . Öğrenciler, metallerin aktifliklerinin bağıl sıralamasına ilişkin açıklamalarını alt mikro seviyedeki animasyon ve simülasyon gösterimleriyle karşılaştırmaları için yönlendirilir. Öğrencilerden açıklamalarını gözden geçirmeleri ve gerekirse yeniden düzenlemeleri istenir. Etkinlik kâğıtları \"araştırma sorusu oluşturabilme, model geliştirebilme, araştırma gerçekleştirebilme, araştırma verilerini yorumlayabilme, verilere dayalı olarak metallerin aktifliklerine ilişkin sıralama yapabilme ve açıklamalarını bilimsel bilgilerle karşılaştırabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.12.1.3",
+    "Elektrik depolama cihazlarının geliştirilmesinde büyük katkısı olan Luigi Galvani ve Alessandro Volta'nın çalışmaları örnek verilerek öğrencilerin konuya dikkati çekilebilir. Öğrencilere çinko (Zn) metali ile bakır (Cu2+) iyonlarını içeren sulu çözelti arasında gerçekleşen tepkimeyi makro seviyede gözlemleyebileceği görsel materyaller verilir. Bu tepkimede elektronların tepkenler arasında doğrudan transfer edildiğine dikkat çekilir. Öğrencilerden bu tepkimeden yola çıkarak elektrik enerjisi elde edilmesine ilişkin önermeler oluşturmaları istenir. Öğrenciler, istemli gerçekleşen bu tepkimede elektrik enerjisi eldesine dair geliştirdikleri gözleme dayalı olan ve olmayan önermeleri karşılaştırır. Böylece öğrencilerin etkili iletişim becerilerini kullanmaları, olaylar ve durumlar karşısında farklı bakış açıları olabileceğini kabul etmeleri sağlanır ( E2.1 , SDB2.1 , D10.3 , D14.1 ) . Öğrencilerin elektrik enerjisi üretilen galvanik hücre düzeneğini gözlemleyebileceği görsel materyalleri incelemeleri sağlanır. Öğrenciler; gözlemlediği materyallerden ulaştığı makro, alt mikro ve sembolik seviyede gözlem verilerinden bir galvanik hücrenin temel bileşenlerini (anot yarı hücresi, katot yarı hücresi, elektrot, elektrolit, tuz köprüsü) ve işlevlerini tanımlar. Öğrencilerden katot ve anot yarı hücrelerinde gerçekleşen tepkimeleri indirgenme-yükseltgenme tepkimeleri ile ilişkilendirmeleri istenir ( OB4 ) . Öğrenciler, galvanik hücrelere ilişkin incelediği görsel materyallerde elektronların akış yönü ve iyonların göç yönü gibi gözlem yapamadığı durumlar hakkında tahminlerde bulunur. Galvanik hücrelere ilişkin yapmış olduğu gözleme dayalı olan ve olmayan tüm tahminlerinin geçerliliğini galvanik bir hücrenin özelliklerine ilişkin bilimsel bilgilere dayalı olarak sorgulaması sağlanarak çalışkanlık değeri destekleni ( D3.3 , OB4 ) . Gözlem sonunda öğrenciler, istemli indirgenme-yükseltgenme tepkimelerinden elektrik enerjisi üretilmesi sürecine ilişkin önermeler oluşturmaları için yönlendirilir. Öğrencilere bir galvanik hücrenin temel bileşenlerini ve işlevini tanımladığı bir metin yazdırılabilir. Sınıf içi tartışma ile öğrencilerin gözlem yapmadığı durumlara ilişkin tahminlerini paylaşmaları ve değerlendirmeleri istenebilir ( SDB2.1 ) . Etkinlik kâğıtları, \"öğrencinin önerme oluşturabilme ve tanımlama yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme yapması istenebilir ( SDB1.2 ) .",
+    "KİM.12.1.4",
+    "Piller konusuna dikkat çekebilmek amacıyla öğrencilere \"Lityum iyon pili üzerine yapılan çalışmalara 2019'da Nobel Ödülü verilmesiyle elektronik endüstrisinin gelişimi arasında nasıl bir ilişki vardır?\" sorusu sorulabilir. Bir galvanik hücrede voltmetrede okunan değerin hücre potansiyeli (Ehücre) ve biriminin volt (V) olduğu bilgisi verilerek hücre potansiyeli tanımlanır. Ardından referans elektrot olarak kullanılan standart hidrojen elektrodu (SHE) hakkında bilgi verilerek işlevi açıklanır. Farklı standart elektrokimyasal hücrelere ait net tepkimeler, yarı tepkimelerin standart indirgenme potansiyelleri ve standart hücre potansiyellerini içeren hazır veri seti verilir. Öğrencilerin verilen örnekleri inceleyerek standart hücre potansiyeli hesaplanmasına ilişkin örüntü oluşturmaları ve örüntüyü matematiksel olarak modellemeleri sağlanır ( OB7 ) . Öğrenciler, buldukları matematiksel modeller üzerinden genelleme yapmaları için yönlendirilir. Öğrencilerden bir elektrokimyasal hücrenin standart hücre potansiyelinin standart yarı hücre potansiyellerinin farkı (E°hücre=E°katot – E°anot) olduğu genellemesine ulaşmaları beklenir. Öğrenciler, matematiksel modellerini farklı elektrokimyasal hücrelerin standart potansiyellerinin hesaplanmasında kullanabilecekleri örnekleri inceler. Standart hücre potansiyellerinin hesaplanmasına ilişkin geliştirdiği matematiksel modele ilişkin genellemelerini bilim insanlarının genellemeleriyle karşılaştırır. Bu karşılaştırma ile öğrenciler araştırmacı ve sorgulayıcı olmaya teşvik edilerek çalışkanlık değeri desteklenir ( D3.3 ) . Daha sonra öğrencilere E°hücre değerinin sıfırdan büyük olduğunda net tepkimenin istemli (kendiliğinden gerçekleşen), sıfırdan küçük olduğunda net tepkimenin istemsiz olduğu çıkarımına ulaştıracak örnekler verilir ( KB2.10 ) . Öğrencilerden çalışma yaprağında verilen elektrokimyasal hücrelerin standart potansiyellerinin hesaplanması ve net tepkimenin istemli olup olmadığını belirlemesi istenebilir. Süreç sonunda farklı pil türleri ve bu pillerin günlük hayattaki kullanım alanlarıyla ilgili okuma parçası verilebilir. Ayrıca lityum iyon pillerine alternatif olarak geliştirilen sodyum iyon pillerinin geliştirilmesine yönelik yapılan yatırım artışının nedenleri sınıfta tartışılarak konuya ilişkin okuma parçası verilebilir.",
+    "KİM.12.1.5",
+    "Çevreye, canlılara ve sürdürülebilirliğe önem vermeye vurgu yapılarak fosil kaynaklı yakıt tüketimini azaltmaya yönelik kullanılan elektrikli araç teknolojilerinde bataryanın ömrünü etkileyen faktörlerin neler olabileceği hakkında öğrencilerin fikirleri alınır. Çevreye duyarlılık değeri vurgulanır ( D5.2 , D18.3 ) . Ardından galvanik hücrelerin işleyiş mekanizmasını öğrenen öğrenciler, galvanik hücrelerin potansiyelini etkileyen faktörleri (seçilen elektrotların aktifliği, elektrolit derişimi ve sıcaklık) belirler ( OB1 ). Öğrenciler, grup arkadaşlarıyla çalışarak ilgili faktörlerin galvanik hücrelerin potansiyelinde yaratacağı olası değişimlerin neden-sonuç ilişkilerini tespit eder ve etkinlik kâğıdına yazar. Böylece öğrencilerin etkili iletişim becerilerini kullanmaları ve grupla çalışma becerisi sergilemeleri sağlanır ( E1.5 , SDB2.1 , SDB2.2 , D3.4 , D14.1 ) . Öğrenciler, galvanik hücrelerin potansiyelini etkileyen her bir faktörü dikkate alarak bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler. Öğrencilerden galvanik hücreler oluşturarak veya uygun simülasyonlar kullanarak belirledikleri bağımsız değişkenler temelinde deneyler planlamaları, planladıkları deneyi uygulamaları ve verileri etkinlik kâğıdına kaydetmeleri istenir ( E3.7 , SDB1.1 , OB7 ) . Öğrenciler, belirlediği her bir faktörün galvanik hücrelerin potansiyeline etkisine ilişkin Le Chatelier ilkesi temelinde önermeler oluşturarak bunları alt mikro seviyede açıklar ( OB1 ) . Sürecin bütünü \"deney adımlarının takip edilerek galvanik hücrelerin potansiyeline etki eden faktörlerin belirlenebilmesi ve bu faktörlerin Le Chatelier ilkesi ile ilişkilendirerek açıklanabilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrenciden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve neleri daha farklı yapabileceğini belirlemesi istenebilir ( SDB1.2 , SDB1.3 ). Bu bağlamda Türkiye'nin savunma sanayisine ve diğer sektörlere hizmet etmek üzere üretilen lityum iyon pil üretimi hakkında okuma parçası verilerek öğrencilerin Türkiye'nin kalkınmasını ve gelişmesini desteklemesine, Türkiye'nin her alanda güçlü olmasına yönelik projeler üretmenin ve ülkenin bağımsızlığını korumanın önemine vurgu yapılabilir ( D11.1 , D19.4 , OB6 ) .",
+    "KİM.12.1.6",
+    "İstemli indirgenme-yükseltgenme tepkime örnekleri verilir ve bu tepkimelerin gerçekleştiği galvanik hücrelerin özelliklerine ilişkin ön bilgilerini hatırlatıcı sorular sorularak öğrencilerden bilgilerini arkadaşlarıyla paylaşmaları istenir ( E2.2 , SDB2.1 ) . Öğrenciler galvanik hücrelerde gerçekleşen tepkime örneklerine ilişkin anot ve katot yarı hücrelerinde meydana gelen yarı tepkime denklemlerini, standart indirgenme yarı hücre potansiyellerini, net tepkime denklemlerini ve bu net tepkime denklemlerine ait standart hücre potansiyellerini yazar. Pozitif hücre potansiyeline sahip bu istemli tepkimelerin istemsiz olarak ters yönde gerçekleşebilmesi için gerekli şartların ne olduğuna dair önermeler oluşturmaları öğrencilerden istenir ( OB7 ) . Öğrenciler, pozitif hücre potansiyeline sahip bu tepkimelerin ters yönde gerçekleşebilmesi için gerekli şartların ne olduğuna dair geliştirdikleri gözleme dayalı olan ve olmayan önermeleri sınıf içi tartışmalarla karşılaştırır. Sınıf içi tartışmaların dostluk, mütevazılık ve saygı değerleri çerçevesinde gerçekleşmesi için tartışma kuralları belirlenebilir ( E2.1 , SDB2.1 , SDB2.3 , D4.2 , D10.3 , D14.1 ) . Öğrencilerden ergimiş bir tuzun ve suyun elektroliz edildiği elektrolitik hücreleri gözlemleyebileceği görselleri veya dijital materyalleri incelemeleri istenir ( OB4 ) . Öğrenciler, gözlemlediği materyallerden ulaştığı makro, alt mikro ve sembolik seviyede gözlem verilerinden hareketle bir elektrolitik hücrenin temel bileşenlerini (anot, katot, elektrolit ve güç kaynağı) ve işlevlerini tanımlar; anot ve katodu indirgenme-yükseltgenme tepkimeleri ile ilişkilendirir. Elektrolitik hücrelere ilişkin incelediği materyallerde elektronların, akımın ve iyonların göç yönü gibi gözlem yapamadığı durumlar varsa bunlar hakkında tahminlerde bulunur. Öğrencilerin elektrolitik hücrelere ilişkin yapmış olduğu gözleme dayalı olan ve olmayan tüm tahminlerinin geçerliliğini elektrolitik bir hücrenin özelliklerine ilişkin bilimsel bilgilere dayalı olarak sorgulamaları sağlanır ( KB2.10 , E3.10 , D3.3 , OB4 ) . Öğrencilerden çeşitli endüstrilerde ve günlük hayatta elektrolitik hücre prensibi ile çalışan sistemlere ilişkin örnekler araştırmaları ve bu sistemlerin çalışma prensibi hakkında çıkarımlar yapmaları istenebilir. Elektrolitik ve galvanik hücrelerin ortak ve farklı özelliklerini gösteren bir Venn diyagramı hazırlamaları da istenebilir.",
+    "KİM.12.1.7",
+    "\"2020 Tokyo Olimpiyat Oyunları'nda Türk sporcuların kazandığı madalyaların yapıldığı malzemenin nasıl elde edildiğini biliyor musunuz?\" sorusu sorularak derse giriş yapılabilir ( E1.1 ) . Öğrenciler, elektroliz olayının gözlemlenebilir ve ölçülebilir niteliklerini belirlemek için ölçütler (katot ve anotta oluşan madde miktarı, akım miktarı, elektroliz süresi) oluşturur. Öğrencilerden eriyik bir tuzun elektroliz edildiği elektrolitik hücreleri gözlemleyebileceği görsel veya dijital materyalleri incelemeleri istenir ( OB2 , OB4 ) . Bu elektroliz örneklerine ilişkin elektrotlarda değişime uğrayan madde miktarının hem devreden geçen elektrik akımı miktarı hem de elektroliz süresi ile değişimini gösteren veri seti verilir. Verilen nicel veri seti için bağımlı-bağımsız değişkenlerin belirlenmesi sağlanır. Bağımlı-bağımsız değişkenler arasındaki ilişkileri elektroliz olayında elektrotlarda değişime uğrayan madde miktarı, elektrik akımı miktarı ve elektroliz süresi arasındaki ilişkileri belirleyecek şekilde düzenlemeleri öğrencilerden istenir. Öğrenciler, elektroliz olayında elektrotlarda değişime uğrayan madde miktarının devreden geçen elektrik akımı miktarı ve elektroliz süresi ile değişimine yönelik iddialarını kanıtlara dayalı olarak açıklamaları için yönlendirilir ( KB2.14 , OB2 , OB4 ) . Öğrencilere Faraday'ın elektroliz yasasına ilişkin bilgiler verilir. Öğrenciler, matematiksel hesaplamalar yapmadan verilen bu bilimsel bilgileri elektroliz olayında değişime uğrayan madde miktarının hem devreden geçen elektrik akımı miktarı ile hem de elektroliz süresi ile ilişkisine yönelik açıklamalarını desteklemek için kullanır. Öğrenciler, Faraday'ın elektroliz yasasının çeşitli endüstrilerde ve günlük hayatta uygulanmasına ilişkin örnekleri araştırmaları ve bu örnekleri ulaştığı çıkarımlar ile ilişkilendirmeleri için yönlendirilebilir. Çıkış kartında elektroliz olayında değişime uğrayan madde miktarı ile akım miktarı ve elektroliz süresi arasındaki ilişkiyi açıklamaları öğrencilerden istenebilir.",
+    "KİM.12.1.8",
+    "Elektroliz yöntemiyle kaplanmış ürünlere günlük hayattan örnekler verilir. Öğrenciler, herhangi bir metal eşyayı (anahtar, kaşık, çatal vb.) elektrolizle kaplama deneyini yapmak için gruplara ayrılır. Öğrencilerin grup çalışmalarında uyumlu davranmaları ve grup içi etkinliklerde sorumluluklarını yerine getirmeleri sağlanır. Böylece çalışkanlık ve mütevazılık değerleri desteklenir ( E2.2 , SDB2.2 , D3.4 , D10.3 ) . Öğrencilerden seçtikleri metal eşyayı elektroliz yöntemiyle kaplayabilmeleri için anot ve katot yarı hücrelerinde elektrot olarak hangi metalleri ve elektrolit çözeltileri kullanabileceklerini belirlemeleri istenir. Öğrencilerin bu hücrenin çalışması için uygulanması gereken minimum potansiyel değerini belirlemeleri sağlanır. Öğrenciler elektroliz yöntemi ile metal eşyanın bakır metali ile kaplanmasına ilişkin deney düzeneğini tasarlar, deney için gerekli malzemeleri hazırlar ve deneyi yapar ( OB7 ) . Yaptığı kaplama deneyinde kaplama kalınlığının nelere bağlı olduğuna dair farklı bakış açılarını grup arkadaşlarıyla tartışarak gereken koşulların nasıl sağlanabileceğine karar verir. Bu tartışmalar sırasında mütevazılık değeri desteklenir ( SDB2.1 , D10.3 ) . Elektroliz yöntemi ile metal eşyanın kaplanması sürecine ilişkin tüm gözlemlerini not almaları öğrencilerden istenir. Öğrenciler, anot ve katotta gerçekleşen yarı tepkimeleri ve net tepkimeleri yazar. Deney gözlemlerinin Faraday'ın elektroliz yasası ile ilişkilendirilmesi sağlanır. Öğrenciler, deney sonuçlarını metal boru ve çivilerin galvanizle, bazı eşyaların nikel ya da kromla kaplanarak kullanılmasının nedenini açıklamada kullanır ( OB7 ) . Metallerin elektrolizle kaplanmasına ilişkin yaptığı deneyi raporlayabilir. Sürecin bütünü \"kaplama kalınlığının bağlı olduğu etkenleri belirleme, anot ve katot yarı tepkimelerini ve net tepkimeyi yazabilme, deney bulguları ile Faraday elektroliz yasasını ilişkilendirebilme\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.12.1.9",
+    "Öğrenciler, metalden veya alaşımdan yapılmış kültürel varlıkların ve günlük hayatta sıkça karşılaştığı diğer malzemelerin korozyondan etkilenmiş örneklerini inceleyerek yaygın korozyon tepkimeleri temelinde korozyona neden olan faktörlerin metallerin korozyonuna etkisine ilişkin araştırılabilir sorular oluşturmaları için yönlendirilerek duyarlılık değeri vurgulanır ( D5.2 , OB7 ). Böylece öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları sağlanır ( D3.3 ) . Öğrenciler, ilgili faktörlerin metallerin korozyonuna etkisine yönelik modeller oluşturur. Gruplara ayrılmaları istenen öğrencilerin iş birliği içinde çalışmaları sağlanır. Öğrencilerden araştırma sorularını göz önünde bulundurarak bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirleyip etkinlik kâğıdına yazmaları istenir. Böylece öğrencilerin etkili iletişim kurmaları, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri sağlanır ( E2.1 , SDB2.1 , SDB2.2 , D4.2 , D14.1 ) . Öğrencilerden ilgili faktörlerin korozyona etkisini incelemeleri için deneyler planlamaları ve planlarını gerçekleştirmeleri istenir. Öğrenciler, deneylerden elde ettikleri kanıtları yorumlayarak günlük hayatta metalden yapılmış araç gereç ve kültürel varlıkların korozyonunu önlemek için çözüm önerileri geliştirir ( KB2.8 ) . Öğrenciler bilimsel bilgiyi insanların ve toplumun yararına kullanmaya teşvik edilerek yardımseverlik değeri vurgulanır ( D20.3 ) . Öğrencilerin elde ettikleri bilgileri ve çözüm önerilerini arkadaşları ile paylaşmaları sağlanır ( E2.2 , SDB2.3 , SDB3.3 , D4.1 , OB7 ) . Öğrencilerden farklı metallerin korozyona uğramış örneklerini inceleyerek korozyona sebep olan faktörlere ilişkin araştırma sorusu oluşturmaları ve korozyonu önlemek için çözüm önerileri belirlemeleri istenebilir. Öğrenciler, çalışmalarını arkadaşları ile yazılı veya sözlü olarak paylaşmaları için yönlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D11.1",
+      "D14.1",
+      "D18.3",
+      "D19.4",
+      "D20.3",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D4.1",
+      "D4.2",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.1",
+      "E2.2",
+      "E3.10",
+      "E3.3",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.14",
+      "KB2.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB6",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/167"
+}

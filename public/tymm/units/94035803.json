@@ -1,0 +1,46 @@
+{
+  "unitId": 94035803,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "3. ÖĞRENME ALANI: SANAT ELEŞTİRİSİ VE ESTETİK",
+  "hours": "9",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "G.4.3.1",
+      "title": "Soyut, gerçekçi ve figüratif sanat eserleri arasındaki farkları açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "G.4.3.2",
+      "title": "Bir sanat eserini seçmesindeki tercih sebebini açıklar",
+      "processComponents": [
+        "Farklı üsluplarda yapılmış sanat eseri örnekleri öğrencilere seçtirilebilir. Öğrencilerin seçtikleri o eseri niçin tercih ettiklerini açıklamaları sağlanabilir."
+      ]
+    },
+    {
+      "code": "G.4.3.3",
+      "title": "Estetik tercihlerin kişilere göre nasıl değiştiğini ifade eder",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "G.4.3.4",
+      "title": "Görsel sanat alanındaki etik kurallara uyar",
+      "processComponents": [
+        "Öğrenciye sanat alanındaki etik kurallara ilişkin olarak başkasına ait eserlerin kopyalanmaması, akran değerlendirmesinde nesnel davranılması, çalışmaların bir başkasına yaptırılmaması gerektiği vurgulanmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sanat Eleştirisi ve Estetik",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf"
+}

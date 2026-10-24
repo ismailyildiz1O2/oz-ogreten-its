@@ -1,0 +1,83 @@
+{
+  "unitId": 284,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "5. TEMA: NESNELERİN GEOMETRİSİ (2)",
+  "hours": "10",
+  "description": "Bu temada öğrencilerin kare, dikdörtgen ve daire gibi şekillerin birden fazla simetri doğrusu olduğunu çözümleyebilmesi; bir parçası verilen simetrik şekli yatay ve dikey simetri doğrusuna göre yapılandırabilmesi; yönerge ile yapılandırılan bir şeklin simetrisini oluşturmaya ilişkin kodlama stratejilerine karar verebilmesi ve aldığı kararları uygulayarak şeklin simetrisini oluşturabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.3.3.6",
+      "title": "Birden fazla simetri doğrusu olan şekilleri çözümleyebilme",
+      "processComponents": [
+        "a) Kare, dikdörtgen ve dairenin birden fazla simetri doğrusu olduğunu belirler.",
+        "b) Simetri doğrusuna göre oluşan parçaların birbirine eş olduğunu belirler."
+      ]
+    },
+    {
+      "code": "MAT.3.3.7",
+      "title": "Bir parçası verilen simetrik şekli simetri doğrusuna göre yapılandırabilme",
+      "processComponents": [
+        "a) Bir parçası verilen simetrik şekli inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) Bir parçası verilen simetrik şekli yatay ve dikey simetri doğrusuna göre tamamlar."
+      ]
+    },
+    {
+      "code": "MAT.3.3.8",
+      "title": "Yönerge ile yapılandırılan ve bir parçası verilen bir şekli tamamlayarak simetrisini oluşturmaya ilişkin kodlama stratejilerini kullanarak yargıda bulunabilme",
+      "processComponents": [
+        "a) Bir parçası verilen şekli tamamlayarak simetrisini oluşturmaya ilişkin yönergeleri yeniden ifade eder.",
+        "b) Yönergeleri takip ederek bir parçası verilen şekli tamamlayarak simetrisini oluşturur.",
+        "c) Bir şeklin simetrisini oluşturmaya ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "• simetri doğrusu, kodlama, Sembol ve Gösterimler, • -",
+  "support": [
+    "Simetrik parçalardan bütüne ulaştıran ve simetri doğrusunu ayırt etmesini sağlayan kesme, çizme ve boyama gerektiren etkinliklere daha fazla yer verilir ve görsel materyalle öğrenme desteklenir. Simetri konusunun öğretim basamakları küçük parçalara ayrılarak ve somutlaştırılarak öğretim sunulur."
+  ],
+  "enrichment": [
+    "Simetrik desenler ve figürler içeren, millî kültüre ait, kaybolmaya yüz tutmuş kilim motifleri araştırılarak 3B dinamik bilgisayar yazılımlarıyla dijital kayıtlarının oluşturulabileceği proje görevleri verilir.",
+    "Satranç ve dama gibi oyunlarda da yer alan yatay ve dikey simetri doğrusu örnekleri üzerinden konum bulma ve şeklin simetrisini oluşturma ile ilgili çalışma kağıdı ve performans görevleri verilir"
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; gözlem formu, çalışma kağıdı, grup çalışması, kontrol listesi, performans görevi, proje ve ürün dosyası (portfolyo) ile değerlendirilebilir.",
+    "Simetri doğrusunun gösterimi ve simetrik şeklin oluşturulması süreçlerinde performans görevleri verilebilir. Performans görevinin, projenin ve ürün dosyasının değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.3.3.6 Öğretmen tarafından hazırlanmış içinde kare, dikdörtgen ve daire şeklinde çizilmiş görseller bulunan çalışma kâğıtlarının boyama, kesme, katlama gibi tekniklerle merak uyandıracak şekilde tasarlanabilir ( E1.1 ) . Dikdörtgen şeklinin köşegenlerinden simetri doğrusu oluşmadığı için öncelikle kare ve daire şekilleriyle çalışılır. Öğrencilerin kare ve daire şekillerini tam ortasından her iki tarafı üst üste getirip parçalar eşit olacak şekilde birden çok kez katlaması sağlanır. Simetri doğrusu, şekilleri, cisimleri iki eş parçaya ayırır. Şekil, simetri doğrusundan katlandığı zaman bu iki eş kısım birbiri üzerine örtecek şekilde üst üste gelir ( OB1 ) . Simetri doğrusu cetvel ve renkli kalem yardımıyla çizilerek belirginleştirilir. Kare ve daire şekillerinin birden fazla simetri doğrusu oluşturduğu öğrencilerin kendi ifadeleriyle ayırt ettirilir ( E3.2 ) . Dikdörtgen şeklini kenarlarını üst üste gelen her iki parça eşit olacak şekilde katlandığında birden fazla simetri doğrusu oluşturduğunun anlaşılması sağlanır. Köşegenlerin simetri doğrusu oluşturmadığı ayırt ettirilir ( E3.6 , OB1 ) . Öğrenme kanıtlarını ortaya çıkarmak için gözlem formundan ve kontrol listelerinden yararlanılabilir. Geometrik şekillerin birden fazla simetri doğrusunu belirleme, kilim desen ve motiflerini tamamlama gibi etkinliklerin olduğu çalışma kâğıtları verilebilir ve kontrol listeleri kullanılarak değerlendirilebilir.",
+    "MAT.3.3.7 Katlandığında veya ortasından ayrıldığında her iki parçanın birbirine eş olduğu doğadaki simetrik varlıkların görselleriyle öğrenme-öğretme uygulamalarına başlanır ( E1.1 ) . Görsellerin simetri doğrusu üzerinden katlanması veya ayrılması sonucu oluşan parçaların birbirine eş olduğunun belirlendiği kesme ve çizme etkinliklerine yer verilir. Öğrencilerin dijital bilgiyi anlamlandırma becerisini geliştirmek için 3 boyutlu teknolojik yazılımlar aracılığıyla oluşturulan etkileşimli etkinlikte bir parçası verilen simetrik şekil inceletilir. Ayrıca öğrencilere kıyaslamalar yaptırılarak çıkarımda bulunmaları sağlanır ( KB2.2 , OB2 ) . Öğrencilerin grupla oynayarak tamamlayabileceği bir oyun hâline dönüştürülür ( E2.5 , SDB2.1 , SDB2.2 ) . Öğrencilerin parçası verilen simetrik şekli renk, büyüklük gibi görsel özellikleri bakımından karşılaştırarak mantıksal ilişkiler ortaya koyması, yatay ve dikey simetri doğrusuna göre tamamlaması beklenir ( E3.6 , KB2.7 ) . Satranç zemini birden fazla kez katlanarak yatay ve dikey simetri doğruları oluşturulur ( SDB1.2 ) . Oluşturulan simetri doğruları harf veya sayı sütunu boyunca gösterilerek görsel olarak somutlaştırılmaya çalışılır ( E1.3 , OB4 ) . Simetri doğrularını referans alarak bir tarafı verilen şeklin diğer tarafını da kendilerinin tamamlayabilecekleri etkinlikler yapılır ( E2.5 ) . Öğrencilere sanatsal ve görsel zevkler edinmelerini de sağlayabilecek performans görevleri verilebilir ( D7.1 ) . Öğrencilerin yatay ve dikey simetri doğrusuna göre tamamlanmış desen, figür, şekil gibi çizimlerini içeren çalışmalarının yer aldığı ürün dosyası (portfolyo) oluşturulabilir ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Bu şekilde öğrencilerin görev bilinci edinmeleri ve sorumluluklarını vaktinde yerine getirmeleri sağlanabilir ( D16.3 ) .",
+    "MAT.3.3.8 Öğrencilere simetri doğrusuna göre bir parçasının oluşturulması planlanan bir yönerge verilir. Çalışma kâğıtları, noktalı kâğıtlar, kareli kâğıtlar veya etkileşimli bilgisayar yazılımlarından da yararlanılarak bu yönergeleri uygulamaları ve ortaya çıkan yarım şeklin görselini yorumlamaları istenir ( OB4 ) . Öğrencilerin simetrik şekli tamamlayabilmesi için başlangıç noktası ile bitiş noktası arasında şeklin yer, yön ve konumunu belirmeye yönelik strateji oluşturmaları istenir. Şeklin simetrisini oluşturmaya ilişkin uygun stratejileri belirleyerek kendisine plan oluşturması beklenir ( SDB1.1 , SDB1.2 ) . Örneğin bir parçası verilen ve simetrisinin oluşturulması sonucunda tamamlanması planlanan şekil sunulur ve yarım olan tarafın tamamlanması için şeklin simetrisi düşünülür. Şeklin simetrisine uygun olarak öğrencilerin bir yönerge hazırlaması istenir ve hazırlanan yönergeye uygun bir kodlama ile şeklin tamamlanması beklenir. Yönergeyle oluşturulmuş bir şeklin kodlama ile simetriğini tamamlama görevlerini içeren performans görevleri verilebilir ( SDB3.2 ) . Performans görevlerinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E2.5",
+      "E3.2",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/284"
+}

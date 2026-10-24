@@ -1,0 +1,64 @@
+{
+  "unitId": 184,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Kur'an-ı Kerim Dersi",
+  "title": "3. TEMA: KUR’AN-I KERİM’İ ÖĞRENİYORUM",
+  "hours": "18",
+  "description": "Bu temada öğrencilerin; vakıf, iptida ve vasıl kurallarıyla ilgili örnekleri seslendirmesi, Bakara suresinin 265-282. ayetlerini yüzünden okuması, Bakara suresiyle ilgili bilgi toplaması ve Maun anlamını yorumlayıp okunuşunu ezberlemesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KK.8.3.1",
+      "title": "Vakıf, iptida ve vasıl kuralları ile ilgili örnekleri seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.8.3.2",
+      "title": "Bakara suresinin 265-282. ayetleri yüzünden okuyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.8.3.3",
+      "title": "Bakara suresinin 67-73. ayetleriyle ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Bakara suresinin 67-73. ayetleriyle ilgili bilgi toplayacağı araçları araştırır.",
+        "b) Bakara suresinin 67-73. ayetleriyle ilgili bilgileri bulur.",
+        "c) Bakara suresinin 67-73. ayetleriyle ilgili ulaşılan bilgileri doğrular.",
+        "ç) Bakara suresinin 67-73. ayetleriyle ilgili ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "KK.8.3.4",
+      "title": "Maun suresinin anlamını yorumlayabilme",
+      "processComponents": [
+        "a) Maun suresinin anlamını inceler.",
+        "b) Maun suresini kendi hayatı için anlamlı hâle getirir.",
+        "c) Maun suresinin anlamını değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "KK.8.3.5",
+      "title": "Maun suresini ezberleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "din, iptida, itaat, maun, teslimiyet, vakıf, vasıl",
+  "support": [
+    "Farklılaştırılmış öğretimin destekleme boyutu; öğrenme sürecinde daha fazla zaman ve tekrara ihtiyaç duyan öğrenciler için içerik, süreç, ürün ve öğrenme ortamındaki uyarlamaları kapsar. Vakıf, iptida, vasıl, konuları işlenirken tablo veya bilgi görselleri kullanılabilir."
+  ],
+  "enrichment": [
+    "Maun suresinin anlamı göz önünde bulundurularak İslam dininin yardımlaşmaya verdiği önemle ilgili deneme türünde bir metin yazılabilir. Maun suresinde verilen mesajlar belirlenerek slogan oluşturulabilir. Bu sloganların kullanıldığı afişler sınıf panosunda sergilenebilir. Bakara suresinin 67-73. ayetlerinde yer alan önemli kavramlarla ilgili karşılaştırma tablosu hazırlanabilir. Öğrencilerden tevhit ile Allah'a (cc) itaat ve teslimiyet arasındaki ilişkiyi anlatan kısa bir metin yazmaları istenebilir (TAB4.2, SB5) . Yazılan metinler sözlü olarak sunulabilir. Öğrenciler bu ürünü oluştururken Türkçeyi kurallarına uygun kullanır (D19.1) . Öğrenciler, Nisa suresinin 176. ayetini ve Maide suresinin 1-13. ayetlerini yüzünden okumaya yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, öz değerlendirme formu, kavram haritası, dereceli puanlama anahtarı, kontrol listesi, gözlem formu, dereceleme ölçeği, 3-2-1 kartı, tanılayıcı dallanmış ağaç, açık uçlu sorular ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak Bakara suresiyle ilgili bir infografik (bilgi grafiği) hazırlamaları istenebilir. Yapılan çalışmalar; veri toplama, verileri kaydetme, içerik ve sunma ölçütleri bulunan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KK.8.3.1 Vakıf, iptida ve vasıl kuralları açıklanarak Kur'an ayetlerinin bu kurallara uygun şekilde seslendirilmesinin önemi vurgulanır. Bu aşamada soru-cevap tekniği kullanılabilir ve dijital içeriklerden yararlanılabilir. Konuyla ilgili örnekler verilir. Öğrencilerin öğrenme ve keşfetme arzusu ile özgürce sorgulamalar yaparak vakıf, iptida ve vasıl konuları ile ilgili çalışma yapmaları sağlanır (E3.8) . Öğrencilerden kendilerine verilen çalışma yaprağındaki örnekler üzerinde vakıf, iptida ve vasıl kurallarını belirlemeleri ve seslendirmeleri istenir. Öğrencilerin vakıf, iptida ve vasıl kurallarıyla ilgili örnekleri seslendirirken istikrarlı bir şekilde ilerlemelerine yardımcı olunur (D12.3) . Öğrencilerden vakıf, iptida ve vasıl kurallarıyla ilgili bir afiş hazırlamaları istenebilir. Yapılan çalışma, dereceleme ölçeği ile değerlendirilebilir.",
+    "KK.8.3.2 Bakara suresinin 265-282. ayetleri öğretmen tarafından okunur veya geçerli ve güvenilir olan dijital kaynaklar üzerinden öğrencilere dinletilir. Öğrencilerin, daha önce öğrendikleri tecvit kurallarını uygulayarak bu ayetleri yüzünden okumaları sağlanır. Öğrenciler söz konusu ayetleri yüzünden okurken azimli ve kararlı olmayı, çalışmalarında aktif olmayı (D3.1) öğrenir. Öğrencilerin; üstlendiği görevi doğru ve zamanında yerine getirmesi, verdiği kararların ve eylemlerinin sonuçlarını üstlenmesine (E2.2) ilişkin süreçler aktifleştirilerek çalışmalarını sürdürmeleri sağlanır. Öğrencilerin öğrenme düzeyine göre tekrar çalışması yaptırılabilir. Kur'an-ı Kerim'i yüzünden okuma becerisi; öz değerlendirme formu, dereceleme ölçekleri ve kontrol listesi ile değerlendirilebilir.",
+    "KK.8.3.3 Bakara suresinin 67-73. ayetleriyle ilgili bilgi toplanacak araçlar araştırılır. Bakara suresinin 67-73. ayetlerinde anlatılan Bakara kıssasıyla ilgili bilgiler bulunur. Öğrencilerin bu bilgilerden hareketle Bakara suresine neden bu ismin verildiğine dair bir çıkarımda bulunması sağlanır. Bakara kıssasından elde edilen bilgiler güvenilir ve geçerli kaynaklar aracılığıyla doğrulanır ve kaydedilir. Kıssada ele alınan itaat ve teslimiyet kavramlarının özellikleri anlatılırken anlam çözümleme tablosu kullanılarak bu kavramlar arasında ilişkilere dayalı uyumlu bir bütün oluşturulur (OB1) . Bakara kıssasında verilen mesajlar, zihinsel haritalama tekniği ile öğrencilere aktarılabilir. 3-2-1 kartları kullanılarak öğrencilerin kıssada verilen mesajların içeriğiyle ilgili bilgi ve becerileri ölçülebilir. Ölçme ve değerlendirme süreçlerinde tanılayıcı dallanmış ağaç ile açık uçlu sorular kullanılabilir. Öğrencilerin öğrenme kanıtlarında belirtilen performans görevini yapması sağlanabilir. Performans göreviyle ilgili öğrencilere geri bildirim verilir.",
+    "KK.8.3.4 Maun suresinin anlamı, maun ve din kavramlarından bahsedilerek açıklanır. Öğrencilerden Maun suresinin anlamını incelemeleri istenir. Öğrencilerin, surenin okunduğu yerleri ve manasını öğrenerek sureyi kendi hayatı için anlamlı hâle getirmesi sağlanır. Öğrencilerin, söz konusu ayetin anlamını suredeki bağlamından koparmadan kendi cümleleriyle ifade etmesi teşvik edilir. Bu süreçte din kültürü ve ahlak bilgisi ile Türkçe disiplinlerinden yararlanılır. Ölçme ve değerlendirme sürecinde öğrencilerin gruplar hâlinde surede geçen kavramlarından birini araştırmaları ve bu araştırmanın sonucunu sınıfta sunmaları istenebilir (TAB3.2, SB9) . Bu çalışmalar esnasında öğrenciler yardımlaşma ve takım çalışmasının önemini fark eder (SDB2.2) ve diğer öğrencilerin araştırma sonuçlarını dinleyerek yeni bakış açılarını ve konuları öğrenmeye istekli olur (SDB3.1) .",
+    "KK.8.3.5 Öğrencilerden Maun suresini ezberlemeleri istenir. Ezber çalışmalarında bilişsel çıraklık tekniği kullanılabilir. Bu süreçte geçerli ve güvenilir dijital kaynaklardan yararlanılabilir. Öğrencilerin sureyi doğru telaffuz etmelerini pekiştirmek için tekrar etmeleri istenebilir. Ezber çalışmaları sınıf ortamında ve koro hâlinde yapılabilir. Öğrenciler, zihinsel ve bedensel yetilerini en iyi düzeyde kullanma ve gerekli çabayı gösterme (E3.2) konusunda teşvik edilerek öğrencilerden Maun suresini ezberden okuma becerisinin geliştirilmesi beklenir. Maun suresinin ezberden okunması ve seslendirilmesine yönelik uygulamalar, kontrol listesi ve gözlem formu aracılığıyla değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/184"
+}

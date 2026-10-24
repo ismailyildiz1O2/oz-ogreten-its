@@ -1,0 +1,146 @@
+{
+  "unitId": 578,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "4. TEMA: SANAT VE TEKNOLOJİ EVRENİ",
+  "hours": "24",
+  "description": "Temada ambalaj tasarım taslağı oluşturulabilmesi, artırılmış gerçeklik uygulama taslağı oluşturulabilmesi, özgün baskı resim tasarlanabilmesi, özgün baskı resim oluşturulabilmesi, ışık gölge düzenlemeleri tasarlanabilmesi, ışık gölge düzenlemeleri oluşturulabilmesi ve animasyon karakteri taslağı oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.11.4.1",
+      "title": "Ambalaj tasarım taslağı oluşturabilme",
+      "processComponents": [
+        "a) Ambalaj tasarımına yönelik inceleme yapar.",
+        "b) Ambalaj tasarımına yönelik fikir geliştirir.",
+        "c) Ambalaj tasarımı fikrini eskize dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.11.4.2",
+      "title": "Artırılmış gerçeklik uygulama taslağı oluşturabilme",
+      "processComponents": [
+        "a) Artırılmış gerçeklik uygulamasına yönelik inceleme yapar.",
+        "b) Artırılmış gerçeklik uygulamasına yönelik fikir geliştirir.",
+        "c) Artırılmış gerçeklik uygulamasına yönelik fikrini eskize dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.11.4.3",
+      "title": "Özgün baskı resim tasarlayabilme",
+      "processComponents": [
+        "a) Özgün baskı resim örneklerini inceler.",
+        "b) Özgün baskı resim bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.11.4.4",
+      "title": "Özgün baskı resim oluşturabilme",
+      "processComponents": [
+        "a) Özgün baskı resim çalışmasına uygun görsel anlatım araçlarını ifade eder.",
+        "b) Eskizlerini özgün baskı resim çalışmasına dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.11.4.5",
+      "title": "Işık gölge düzenlemeleri tasarlayabilme",
+      "processComponents": [
+        "a) Işık gölge düzenlemesi örneklerini inceler.",
+        "b) Işık gölge düzenlemesi bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.11.4.6",
+      "title": "Işık gölge düzenlemeleri oluşturabilme",
+      "processComponents": [
+        "a) Işık gölge düzenlemesine uygun görsel anlatım araçlarını ifade eder.",
+        "b) Eskizlerini ışık gölge düzenlemelerine dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.11.4.7",
+      "title": "Animasyon karakteri taslağı oluşturabilme",
+      "processComponents": [
+        "a) Animasyon karakterine yönelik inceleme yapar.",
+        "b) Animasyon karakterine yönelik fikir geliştirir.",
+        "c) Animasyon karakterine yönelik fikrini eskize dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "3D modelleme, ağaç baskı, artırılmış gerçeklik (AR), çukur baskı, düz baskı, linol baskı, modelleme, sanal sanat, sanal heykel, serigrafi, özgün baskı resim, silüet, yüksek baskı",
+  "support": [
+    "Öğrencilerden mevcut bir ambalaj üzerinde değişiklikler yaparak çeşitli geliştirmeler yapmaları istenebilir.",
+    "Öğrencilerin artırılmış gerçeklikle okul duvarlarında kullanılmak üzere basit geometrik desenler tasarlamaları ve kâğıt üzerinde desenlerin bir taslağını çizmeleri istenebilir.",
+    "Öğrencilerin temel geometrik biçimleri kullanarak şablon baskı, mono baskı vb. tekniklerden birini uygulamaları sağlanabilir.",
+    "Öğrencilerden sınıfta kurdukları ışık-gölge-nesne düzenlemeleri ile kendi isimlerinin baş harfleri şeklinde silüetler oluşturarak gerçek/sanal ortamda sergilemek üzere fotoğraflarını ve videolarını çekmeleri istenebilir.",
+    "Öğrencilerden bir nesne ya da figürün iki farklı hareket aşamasını çizmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden çizdikleri ambalaj tasarımı eskizlerinden birinin ilk örneğini (prototip) yapmaları istenebilir.",
+    "Öğrencilerden reklam panolarında artırılmış gerçeklikle yer verilebilecek bir görsel düzenleme tasarlamaları ve bu görsel düzenlemenin kâğıt üzerinde bir taslağını çizmeleri istenebilir.",
+    "Öğrencilerden geleneksel Türk sanatlarına özgü motiflerden bazılarını kullanarak baskı çalışması yapmaları istenebilir.",
+    "Öğrencilerden sınıfta kurdukları ışık düzeniyle kendi gölgelerini kullanarak bilinen bir sanat eserinin silüet düzenini oluşturmaları, bu silüet düzeninin fotoğraflarını ve videolarını çekerek gerçek ve sanal ortamda sergilenebilir hâle getirmeleri istenebilir.",
+    "Öğrencilerden animasyon için bir hikâye oluşturmaları ve bu hikâyeye uygun storyboard (sıtoribord) çizmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz değerlendirme formu, gözlem formu, 3-2-1 çıkış kartı, grup değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden ışık gölge düzenlemeleri ile Atatürk silüeti oluşturmaları, silüetin fotoğraf veya video kaydının alınarak sunulması istenebilir. Yapılan çalışma dereceli puanlama anahtarı veya dereceleme ölçeği ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.11.4.1. Öğrencilerin ambalaj tasarımı ile ilgili örnekleri incelemeleri sağlanır. İncelenen örnekler üzerinden ambalajın işlevinin sadece ürünün korunmasıyla sınırlı olmadığının, markanın iletişim aracı olarak tüketici davranışını etkileyen bir pazarlama unsuru olduğunun anlaşılması sağlanır. Ambalaj ve ürünün birbirini tamamlayan iki bileşen olduğu belirtilerek dünya pazarında fark yaratabilecek özgün ürünler ortaya koyabilmenin önemine dikkat çekilir. Bu konuyla bağlantılı olarak öğrencilere Anadolu'ya özgü tarım ve orman ürünlerinin tanıtımının ve pazarlamasının yapılmak istendiği söylenir. Öğrencilerden Anadolu'ya özgü tarım ve orman ürünlerinin neler olduğunu ifade etmeleri ve bu ürünlerin ekonomik değerlerini araştırmaları istenir ( OB3 ). Öğrencilerin Türkiye'deki değerli tarım ve orman ürünlerinin hangi bölgelerde yetiştiğini tespit etmeleri sağlanır. Ayrıca öğrencilerin Türkiye'nin dünya ölçeğindeki zengin bitki çeşitliliğinin sürdürülebilmesi için Yeşil Vatan'ın korunmasının önemini belirlemeleri istenir. Değerli tarım ürünlerinin deniz yoluyla diğer ülkelere ticaretini konu alan soru-cevap etkinliğiyle öğrencilerin, Türkiye'nin coğrafi konumu ve Mavi Vatan'ın stratejik önemini fark etmeleri sağlanır ( D19.3 ).",
+    "Öğrencilerden ambalaj tasarımına yönelik farklı fikirler geliştirmeleri istenir ( E3.3 ). Öğrencilere başarılı bir ambalaj tasarımı ile hangi yerel ürünlere değer katılabileceği sorulur. Tasarımda kullanılacak ifadelerin (ürün adı, marka sloganı, üretim yeri vb.), görsel ögeler (resim, illüstrasyon, logo vb.) ile uyumlu olmasının önemi hatırlatılır. Öğrencilerden ambalaj tasarım fikirlerini geliştirirken bu unsurları da dikkate almaları istenir ( E3.1 ).",
+    "Konuyla ilgili eskiz çalışmasına başlamadan önce öğrencilerin belirlenen ürünlerden seçim yaparak ambalaj tasarımında kullanacakları görsel ögeleri belirlemeleri istenir. Öğrencilerden seçtikleri ürünle ilgili üç farklı eskiz yapmaları istenir. Eskiz yapım sürecinde kullanılacak yöntem ve araç gereçler öğretmenle birlikte belirlenir. Geleneksel teknikler için kuru kalem, sulu boya, guaj boya, marker vb. araç gereçlerin yanı sıra dijital teknikler için çevrim içi kullanılabilen programlar önerilebilir. Yapılan çalışmalar kontrol listesi veya dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "GS.11.4.2. Artırılmış gerçeklik projeleri ile ilgili başarılı dijital örnekler sunularak öğrencilerin incelemeleri sağlanır ( OB2 ). Bu tür projelerde kullanılan teknik uygulamaların nasıl yapılmış olabileceği hakkında öğrencilerin tahminlerde bulunmaları istenir ve merak ettikleri konularla ilgili sorular sormaları sağlanır ( E3.8 ). Öğrencilere artırılmış gerçekliğin bilgisayarla üretilmiş grafik, görüntü, ses ya da gps verileriyle var olan gerçekliğin artırılması olduğu söylenir. Sanal ve gerçek nesnelerin ya da mekânların bir arada kullanılabileceği, mobil cihazlarla kullanılabilen bir uygulama şekli olduğu konusunda öğrencilerin çıkarımlar yapmaları sağlanır. Öğrencilerden çevrelerindeki çarpık yapılaşma ile ilgili gözlemlerini paylaşmaları istenir.",
+    "Kent estetiği, sanal sanat ve artırılmış gerçeklik (AR: augmented reality) gibi kavramlar hakkında merak uyandırıcı sorular sorularak öğrencilerin fikirlerini ifade etmeleri istenir ( E1.1 ). Öğrencilerin kent estetiğine zarar veren yapılarla ilgili sanal gerçeklikle uygulanabilecek alternatif çözümler üretmeleri sağlanır ( SDB3.2 ). Öğrencilerden bu tür sanatsal çalışmaların güncel görsel algıyla ilişkilerini sorgulayarak çıkarımlarda bulunmaları istenir. Böylece öğrencilerin güncel teknoloji uygulamaları ile geleneksel, kültürel, sanatsal özellikleri birleştirerek geleceğin dünyasını şekillendirebileceklerini ve kent yaşamına değer katabileceklerini fark etmeleri sağlanır ( D7.3 , OB5 ). Öğrencilerden artırılmış gerçeklik için üretilmiş sanat uygulamaları ile yaşadıkları kentin hangi alanlarını estetik olarak zenginleştirilebileceğini düşünmeleri istenir. Örnek olarak yapıların büyük duvarlarının, boş meydanlardaki geniş alanların, atıl kalmış bölümlerin değerlendirilebileceği vurgulanarak öğrencilerin yaşadıkları çevrede sanal sanat için uygun alanları tespit etmeleri sağlanır. Sanal sanat ve artırılmış gerçeklikle ilgili olarak artırılmış gerçeklik teknolojisinin ve dijital sanat eserlerinin fiziksel dünyada görünmesini sağlayan özellikleri vurgulanır. Artırılmış gerçekliğin ne olduğu, nasıl çalıştığı üzerinde durularak öğrencilerden sanal sanat eserlerinin fiziksel mekânlarla nasıl birleştirilebileceği üzerine fikirler geliştirmeleri istenir ( E3.3 , OB2 ). Yapılacak çalışmanın kentin doğasına, kültürüne veya tarihine uygun temalara sahip olmasının önemi vurgulanır. Öğrencilerin çalışmalarında yer verebilecekleri birlikte yaşama kültürü, kentin tarihsel özellikleri gibi konuları simgeleyebilecek ögeleri tespit etmeleri istenir ( D19.3 , SDB2.3 ). Bu aşamada öğ rencilerin kendi aralarında beyin fırtınası yaparak kullanabilecekleri ögelerle ilgili kısa notlar almaları ve çalışacakları temaya yönelik fikir geliştirmeleri sağlanır.",
+    "Öğrencilerden daha önce seçtikleri kent mekânlarının tahmini ölçü lerine göre çalışma alanlarının yatay, dikey, dairesel formatlardan hangisine uygun olduğunu tespit etmeleri istenir. Eskiz aşamasına geçmeden önce inceledikleri örnek ve uygulamalar ile ilgili teknik özellikler kısaca hatırlatılır. Sanal resimler için figüratif veya soyut çizimlerin tercih edilebileceği, sanal heykel çalışmaları için kültürel simgeler, geometrik formlar gibi üç boyutlu tasarımlar kullanılabileceği belirtilir. Öğrencilerin sanal heykel ya da duvar resmi ile ilgili çalışmalarını oluştururken görselin çevreyle nasıl bir bütünlük oluşturacağını ve kent peyzajını nasıl tamamlayacağını göz önünde bulundurarak eskiz yapmaları sağlanır. Bu aşamada öğrencilere fotoğraflardan yararlanabilecekleri, HB, 2B gibi dereceli kalemleri ve seçtikleri bir boyama tekniğini kullanabilecekleri hatırlatılır. Süreç bitiminde çalışmalarını artırılmış gerçekliğe uyarlamak isteyen öğrencilerin tasarımlarını hangi dijital çizim araçlarında ya da 3D modelleme yazılımlarında gerçekleştirebilecekleri ile ilgili araştırma yapmaları istenebilir. Süreç derecelendirme ölçeği veya öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "GS.11.4.3. Öğrencilere özgün baskı resim tekniği ile yapılmış görseller inceletilir. Çeşitli araç gereçleri kullanarak doğrudan ya da kalıplar aracılığı ile kâğıda veya benzeri bir malzeme üzerine basılan resimlere \"özgün baskı resim\" adı verildiği söylenir. Öğrencilerin \"Daha önce hangi baskı resim tekniklerini çalıştınız?\", \"Patates, ip, yaprak baskısı ile incelediğiniz görseller rasındaki farklar hakkında ne söyleyebilirsiniz?\" şeklindeki sorulara verecekleri cevaplarla deneyimlerini ve bilgilerini paylaşmaları sağlanır ( SDB2.1 ). Öğrencilerin görseller üzerinden farklı tekniklerde yapılan özgün baskı resim tekniklerini incelemeleri ve bu teknikler arasındaki faklılıkları keşfetmeleri sağlanır.",
+    "Öğrencilere bir tekstil ürünü olan tişört üzerine baskı yapmak için inceledikleri özgün baskı tekniklerine uygun eskiz tasarlayacakları açıklanır. Öğrencilerden eskiz çalışması için \"Doğa ve yaşam\" veya \"Hayvan resimleri\" konularından birini seçmeleri istenir. Öğrencilerin \"Doğa ve yaşam\" konusu için çiçekler, yapraklar, gezegenler, yıldızlar; \"Hayvan resimleri\" konusu için evcil hayvanlar, egzotik hayvanlar veya nesli tükenmekte olan hayvanlar başlıklarından birini seçmeleri sağlanır. Seçtikleri konuya uygun olarak en az iki adet eskiz yapmaları istenir. Bu aşamada öğrencilere eskizlerini dijital çevrim içi programları kullanarak da yapabilecekleri belirtilir. Öğrencilerin yaptığı eskizler kontrol listesi ile değerlendirilebilir.",
+    "GS.11.4.4. Öğrencilere özgün baskı resim tekniklerinden çukur baskı (gravür), düz baskı, serigrafi, yüksek baskı tanıtılır. Öğrencilerin baskı tekniklerine ait örnekleri incelemeleri sağlanır. Öğrencilerden özgün baskı resim uygulaması için ağaç veya linol baskı tekniklerinden birini belirlemeleri istenir. Linol ve ahşap baskı tekniğinin aşamalarını öğrenciler öğretmenle birlikte çözümlerler ( KB2.4 ). Özgün baskı resim uygulamasında kullanılacak araç gereçler sınıf ortamına getirilerek veya görseller üzerinden incelemeleri sağlanarak öğrencilere tanıtılır. Genelde özgün baskı uygulamalarında kullanılan araç gereçlerin resim kâğıdı, karbon kâğıdı, fırça, kazıma ve silme gereçleri, metal veya ahşap plaka, yer muşambası (linolyum), linol oyma bıçakları, kauçuk merdane, rulo sünger, tahta spatula, tahta kaşık, merdane, aydınger kâğıt, baskıya uygun boyalar, gazete vb. olduğu ifade edilir. Öğrencilerin yapacakları tasarıma uygun araç gereçleri belirleyerek ifade etmeleri sağlanır.",
+    "Öğrencilerden özgün baskı resim uygulama aşamalarını sırasıyla eskizin hazırlanması, eskizin yüzeye aktarılması, yüzeyin oyularak boşaltılması, yüzeyin temizlenmesi, yüzeye boyanın uygulanması, baskı yapılacak yüzeyin hazırlanması ve tekniğe uygun baskı yapılması şeklinde sırasıyla ifade etmeleri istenir ( E3.7 ). Öğrencilerin baskı kalıbının yüzeyine (linol ya da ahşap) aktardıkları eskizi uygun araç ve malzemelerle kazımaları veya oymaları sağlanır. Öğrencilerin bu işlemin baskı kalıbının hazırlanması açısından önemli olduğunu fark etmeleri sağlanır. Öğrencilerden baskıda kalıbın boya alması istenmeyen yerlerini kazıyarak çukurda bırakmaları istenir. Yüksekte kalan, kazınmayan yüzeylerin boya alması istenen bölümler olduğu ifade edilir. Bu nedenle oyma ve kazıma işlemi sırasında öğrencilerden eskizlerini sık sık kontrol etmeleri beklenir. Oyma ve kazıma işlemi bittikten sonra baskı kalıbının üzerine rulo ile boya sürülmesi istenir. Bu aşamada sağlığa zararı olmayan tekstil boyası kullanmanın önemine dikkat çekilir.Tişört üzerine baskı yapmadan önce öğrencilerin bir kâğıt üzerinde baskı yaparak baskıyı kontrol etmeleri sağlanır. Öğrencilerden baskı kalıbının tüm yüzeyine eşit miktarda baskı yaparak uygulamayı tamamlamaları istenir. Öğrencilerin deneme baskısı ile ilgili sonuçları değerlendirerek ortaya çıkan hataları ve hataların nedenlerini tespit etmeleri sağlanır ( SDB2.2 ). Baskı sonucuna göre baskı kalıbında bir düzeltme yapmak gerekiyorsa düzeltmeyi yaparak kalıbı baskı işlemine hazır hâle getirirler. Öğrencilerden kontrol edilerek düzeltilen baskı kalıbına tekrar boya sürerek kalıbı, hazırlanmış tişört üzerine yerleştirmeleri istenir. Öğrencilerin baskı aşamalarını tamamlayarak ürünün ilk örneğini oluşturmaları sağlanır. Baskı yaptıkları tişörtleri uygun bir yere koyarak boyanın kurumasını beklemeleri ve ilk baskı örneğinin estetik ve teknik yeterliliğini değerlendirmeleri istenir. Çalışma sonrasında öğrencilerin ortamı temiz ve düzenli bırakmaları sağlanır ( D18.2 ). Yapılan çalışmalar, dereceleme ölçeği veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.11.4.5. Sınıfa getirilen bir ışık kaynağı farklı biçim ve saydamlıktaki nesnelere yöneltilir. Işık kaynağının gücü ve nesneler arasında uzaklıkları değiştirilir. Öğrencilerin ışığın yoğunluğuna ve mesafesine göre gölgenin yapısının değiştiğini, ışığın gücü arttığında gölgenin daha belirgin ve keskin olduğunu, ışığın gücü azaldığında ise gölgenin daha yumuşak ve dağılmış olduğunu gözlemleyerek fark etmeleri sağlanır ( KB2.2 ). Işık ve gölgenin kompozisyona olan etkilerine dikkat çekilerek resim, heykel ve sahne sanatlarındaki önemi hakkında öğrencilerin çıkarımlarda bulunmaları istenir ( KB2.10 ). Öğrencilere ışık ve gölge düzenlemeleri ile üretilen sanat eserleriyle ilgili örnekler gösterilerek incelemeleri ve amaca göre çeşitlilik gösteren sanatsal uygulamaları tanımaları sağlanır. Öğrencilerden gruplara ayrılmaları istenir. Her grubun doğa (ağaç silüeti, insan ya da hayvan figürü silüeti), objeler (günlük yaşam nesneleri) veya soyut geometrik düzenleme çalışmaları gibi konulardan birini seçmesi istenir.",
+    "Öğrencilerin oluşturdukları imgeleri kâğıt üzerine çizmeleri ya da uygun ölçülerde çıktısı alınarak kesilmiş fotoğraf, illüstrasyon gibi materyallerle görsel olarak ifade etmeleri istenir ( D3.2 ). Bu süreçte silüetin dış sınırlarının anlaşılabilir ve sade olmasına dikkat edilmesi gerektiği hatırlatılır. Süreç, gözlem formu veya öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "GS.11.4.6. Öğrencilerin ışık gölge ilişkisi ile amaçlanan silüetleri oluşturabilmeleri için kısa süreli denemeler yaparak; ışığın ve nesnelerin konumlarını değiştirme, tel, oyun hamuru, kâğıt gibi malzemelere şekil verme yöntemleri arasından uygun olanları seçmeleri sağlanır. Bu süreçte öğrencilerin kısa süreli basit denemeler yaparak amaçlarına en uygun yöntemleri seçmelerine yardımcı olunur. Öğrenciler seçtikleri temaya uygun düzenleme yapmak için hangi nesneleri kullanacaklarına karar verirler ( SDB1.2 ). Nesnelerin şekillerinin, büyüklüklerinin ve yerleşimlerinin duvarda oluşacak gölge/silüetlerin etkisini belirleyen etkenlerden biri olduğuna dikkat çekilir. Öğrencilerin kendi konularına uygun olarak ışık kaynağı (el lambası, ışıldak, masa lambası vb.), lambanın sabitleneceği ve mesafenin ayarlanabileceği tutucu (akrobat tutucu, büyük mandallı kıskaçlar), şekillendirilebilir malzemeler (teller, oyun hamurları, kâğıtlar, kartonlar), nesneler (çeşitli ebatlardaki kutular, boş plastik şişeler), düzenlemenin yapılacağı platform (masa, meyve kasası, kutu), saydam, yarı saydam, renksiz ve renkli nesneler gibi araçları belirleyerek ifade etmeleri sağlanır.",
+    "Öğrencilerden gölgelerle oluşturmak üzere çizdikleri ya da sınırlarından kestikleri silüet görselini duvara yapıştırmaları istenir. Perdeler kapatılarak yarı karanlık bir ortam oluşturulur. Öğrencilerden ışık kaynağını platform üzerine dizilen nesnelere yöneltmeleri ve gölgelerini duvara düşürecek şekilde tutmaları istenir. Bu aşamada ışık kaynağının açısı ve uzaklığı ayarlanarak kompozisyona yeni nesneler eklenip çıkarılır. Kâğıt hamuru ve tel gibi malzemeler biçimlendirilip nesneler farklı yönlere çevrilerek duvara yansıyan gölgeleri düzenlenir. Böylece öğrencilerin deneme yanılma yoluyla duvardaki çizime uygun bir silüet oluşturmaları beklenir. Öğrencilerin çalışma sürecinin eğlenceli özelliklerini keşfetmeleri sağlanır ( E2.5 ). Nesnelerin düzenlenmesiyle çizime uygun bir silüet oluştuğuna karar verdiklerinde öğrencilerden duvara yapıştırılmış olan kâğıdı çıkarmaları istenir.",
+    "Öğrencilerden gerektiğinde sergilemek amacıyla aynı düzenlemeyi yeniden kurabilmek üzere iş birliği içinde bir planlama yapmaları beklenir. Görev paylaşımı yaparak ışık kaynağının ve nesnelerin konumlarını kalemle bir karton altlığın ya da platformun üzerine çizip işaretlemeleri, ölçümler ve numaralandırmalar (ışık kaynağının yerden yüksekliği/eğimi, düzenlenen nesnelerin konumları/birbirlerine uzaklıkları) yaparak not etmeleri istenir. Bu aşamada farklı açılardan (üstten, yandan, önden, arkadan) fotoğraf ve video çekimi yapılabileceği belirtilir. Böylece ortaya çıkan çalışmanın yeniden düzenlenebilmesi ya da sergilenebilmesi için çalışmanın dijital olarak kaydedilmesi sağlanır ( OB2 ). Öğrencilerin çalışma sonucunda oluşturdukları düzenlemeyi toplayarak çalışma ortamını temiz ve düzenli bir şekilde bırakmaları istenir ( D18.2 ). Yapılan çalışmalar, grup değerlendirme formu veya kontrol listesi ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden ışık gölge düzenlemeleri ile Atatürk silüeti oluşturmaları, silüetin fotoğraf veya video kaydının alınarak sunulması istenebilir. Yapılan çalışma dereceli puanlama anahtarı veya dereceleme ölçeği ile değerlendirilebilir.",
+    "GS.11.4.7. Animasyon konusunda örnek görseller gösterilerek öğrencilerin animasyon karakterlerini incelemeleri sağlanır ( OB4 ). İncelenen örnekler üzerinden öğrencilerin animasyonda durağan görsellerin (çizimler, fotoğraflar veya dijital görüntüler) ardışık bir şekilde gösterilmesiyle izleyende hareket algısı yarattığı çıkarımını yapmaları sağlanır. Animasyon karakterlerinin genellikle 2D veya 3D çizimlerin, modellemelerin veya bilgisayar ortamında oluşturulan görsellerin kullanılmasıyla oluşturulduğundan bahsedilir. Animasyonun eğlence, eğitim, reklamcılık ve film gibi pek çok alanda kullanıldığı hatırlatılır. Konuyla ilgili olarak öğrencilere animasyona yönelik karakter tasarım çalışması yapılacağı açıklanır. Öğrencilerin \"Nasreddin Hoca, Keloğlan, Karagöz ve Hacivat\" gibi Anadolu'ya özgü geleneksel figürlerden birini seçerek anlatmaları sağlanır ( D19.3 ).",
+    "Öğrencilerden karakter tasarımı ile ilgili fikir geliştirmeleri istenir. Karakterin doğası (gerçekçi ya da karikatürize), kişilik özellikleri (yaşı, cinsiyeti, mesleği, sosyal statüsü vb.), karakterin yüz ifadeleri (farklı duyguları yansıtabiliyor olması), vücut yapısına uygun olarak hareketleri (yürüme, oturma, kalkma, uzanma vb.), karakterin yaşa uygun anatomik yapısı, kıyafet ve aksesuar seçiminin karakterin kişiliği hakkında bilgi veriyor olmasının önemine değinilir. Öğrencilerin seçtikleri karaktere yönelik fikir geliştirirken bu unsurları da dikkate almaları sağlanır.",
+    "Tasarım eskizinde kullanılacak uygun araç gereçlerin belirlenmesi sağlanır. Olanaklar doğrultusunda geleneksel veya dijital araçların seçilebileceği hatırlatılır. Öğrencilerin eskiz sürecinde fikir alışverişi yapmaları ve istenen sonuçlara ulaşabilmek için yardımlaşmaları sağlanır. Eskiz çalışması sürecinde öğrencilerin ortaya çıkabilecek yeni ve belirsiz durumlar karşısında değişime açık ve istekli olmaları, gerektiğinde çalışmanın yönünü değiştirmeleri sağlanır ( SDB3.1 ). Öğrencilerin ortaya çıkan çalışmaları estetik ve işlevsel özelliklerine göre değerlendirmeleri sağlanır. Animasyon uygulamasının öğrencilerin yaptıkları karakter tasarım eskizlerine uygun yapılacağı öğrencilere açıklanır. Yapılan eskizler dereceli puanlama anahtarı veya öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D18.2",
+      "D19.3",
+      "D3.2",
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.1",
+      "E3.3",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/578"
+}

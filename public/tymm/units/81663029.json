@@ -1,0 +1,57 @@
+{
+  "unitId": 81663029,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "29. ÜNİTE: PROGRAMLAMA DİLLERİ (C#) - 5. ÜNİTE: FORMLAR",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.29.1",
+      "title": "Formları, form sınıflarını, kontrol sınıflarını ve konteyner sınıflarını tanır",
+      "processComponents": [
+        "Formları, işletim sistemi arayüzü uygulamalarında kullanılan düğmeler ve metin kutuları temel arayüz bileşenlerini kullanma anlatılır.",
+        "Pencere oluşturma, diğer giriş kontrollerini form üzerine yerleştirme ve form sınıfları açıklanır.",
+        "Kontrol sınıfları (butonlar, metin kutuları, etiketler vb.) ve bu kontrolleri bir form içine yerleştirme anlatılır.",
+        "Formdaki bileşenleri gruplamak amacıyla konteyner sınıflarının kullanılması, formdaki bileşenlerin düzenli bir şekilde yerleştirilmesi ve kullanıcı arayüzünün organize edilmesi çalışılır."
+      ]
+    },
+    {
+      "code": "BTY.29.2",
+      "title": "Menüler, MenuStrip kontrolü ve ContextMenuStrip kontrollerini tanır",
+      "processComponents": [
+        "Kullanıcı arayüzünü özelleştirmek için MenuStrip kontrolü ve ContextMenuStrip kontrolünün eklendiği örnekler uygulatılır.",
+        "Ana menüler ve alt menüler oluşturarak uygulamanın farklı bölümlerine hızlı erişim işlemi incelenir.",
+        "Etkileşimi artırmak için kullanıcıların belirli nesnelere sağ tıklandığında açılan dinamik menülerin oluşturulması anlatılır.",
+        "Kontrol seçeneklerini özelleştirme ve kullanıcılar için etkileşimli menülerin entegre edilmesi C# programlama arayüzünde gerçekleştirilir."
+      ]
+    },
+    {
+      "code": "BTY.29.3",
+      "title": "İletişim kutularını kullanır",
+      "processComponents": [
+        "MessageBox, OpenFileDialog, SaveFileDialog iletişim kutularını kullanıcılarla iletişim kurmak için eklemesi anlatılır.",
+        "Kullanıcıya bilgi vermek, doğrulama yapmak veya hataları bildirmek için iletişim kutularını kullanarak kullanıcıdan veri alma ve uyarı mesajları ekleme örnekleri incelenir.",
+        "Farklı senaryolar için iletişim kutularının mesaj içeriklerinin, başlıklarının ve düğme metinlerinin kişiselleştirilmesi uygulamaları ile dinamik ve kullanıcı dostu arayüzler oluşturulması durumları fark ettirilir."
+      ]
+    },
+    {
+      "code": "BTY.29.4",
+      "title": "Doğrulama ve veri bağlama işlemlerini yapar",
+      "processComponents": [
+        "Kullanıcı tarafından sağlanan verilerin doğruluğunu kontrol etmek için kullanıcı girişi doğrulama işlemleri (validasyon) icra ettirilir.",
+        "Veri bağlama ve verileri kullanıcı arayüzüne bağlama işlemleri anlatılır.",
+        "Kullanıcı arayüzü ile etkileşimli uygulamalar geliştirmek için doğrulama ve veri bağlama örnekleri uygulatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

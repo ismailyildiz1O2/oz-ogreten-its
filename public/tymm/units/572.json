@@ -1,0 +1,115 @@
+{
+  "unitId": 572,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "2. TEMA: ÇİZGİDEN BOYUTA",
+  "hours": "24",
+  "description": "Temada iç mekânların perspektif çiziminin oluşturulabilmesi, dış mekânların perspektif çiziminin oluşturulabilmesi, insan figürü çizimi ile ilgili sanatsal ürün tasarlanabilmesi, insan figürü çizimi ile ilgili sanatsal ürün oluşturulabilmesi, üç boyutlu insan veya hayvan figürü tasarlanabilmesi, üç boyutlu insan veya hayvan figürü oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.10.2.1",
+      "title": "İç mekânların perspektif çizimini oluşturabilme",
+      "processComponents": [
+        "a) İç mekânların perspektif çizimine uygun görsel anlatım araçlarını ifade eder.",
+        "b) İç mekânların perspektif çizimini sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.10.2.2",
+      "title": "Dış mekânların perspektif çizimini oluşturabilme",
+      "processComponents": [
+        "a) Dış mekânların perspektif çizimine uygun görsel anlatım araçlarını ifade eder.",
+        "b) Dış mekânların perspektif çizimini sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.10.2.3",
+      "title": "İnsan figürü çizimi ile ilgili sanatsal ürün tasarlayabilme",
+      "processComponents": [
+        "a) İnsan figürü kavramını inceler.",
+        "b) İnsan figürü bağlamında oluşturulan imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.10.2.4",
+      "title": "İnsan figürü çizimi ile ilgili sanatsal ürün oluşturabilme",
+      "processComponents": [
+        "a) İnsan figürü çizimine uygun görsel anlatım araçlarını ifade eder.",
+        "b) İnsan figürü taslağını sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.10.2.5",
+      "title": "Üç boyutlu insan veya hayvan figürü tasarlayabilme",
+      "processComponents": [
+        "a) İnsan veya hayvan figürlerinin anatomik yapılarını inceler.",
+        "b) İnsan veya hayvan figürleri bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.10.2.6",
+      "title": "Üç boyutlu insan veya hayvan figürü oluşturabilme",
+      "processComponents": [
+        "a) Üç boyutlu insan veya hayvan figürü çalışmasına uygun görsel anlatım araçlarını ifade eder.",
+        "b) Hazırladığı figürü sanatsal ürüne dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "figür, kaçma noktası, plastilin, şekillendirme (modelaj) kalemi, ufuk çizgisi, rakursi",
+  "support": [
+    "Öğrencilere perspektif çizimleriyle ilgili sunumlar izletilebilir. Dış mekânda hava perspektifi ile ilgili görünümlere resimlerinde yer vermiş olan Alfred Sisley (Alfred Sislıy), Camille Pissarro (Kemil Pisaro), Hikmet Onat gibi ressamların eserlerinden örnekler gösterilebilir.",
+    "Sanal sanat veya arkeoloji müzesi ziyaretleri yaparak sanatçıların insan figürünün anatomik yapısı ile ilgili iki boyutlu ve üç boyutlu eserleri inceletilebilir.",
+    "Üç boyutlu olarak modellenmiş basit nesneler farklı açılardan gösterilerek öğrencilerden oyun hamuru ile benzer şekillendirmeler yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden perspektif bilgilerini kullanarak mutfak, çalışma ofisi, kütüphane gibi günlük yaşantılarında ilgilerini çeken bir mekânı, geleneksel veya dijital yöntemlerle çizmeleri istenebilir. Öğrencilerin parlak renkli bir nesneyi kendilerine yakın, kendilerinden 5 m uzak ve kendilerinden 20 m uzak olacak şekilde gözlemlemelerini ve bu gözlemleriyle nesnenin renginde oluşan farkları bir perspektif çiziminde ifade etmeleri istenebilir.",
+    "Leonardo da Vinci (Leonardo da Vinçi) ile Michalangelo'nun (Mikelancelo) kadın, erkek ve çocuk çizimlerinden ilgilerini çeken görselleri eskizlerle ifade etmeleri istenebilir.",
+    "Sanal müze ziyareti yaptırılarak Zühtü Müridoğlu, Henry Moore (Henri Moor) gibi heykeltıraşların eserlerinden röprodüksiyon yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; giriş-çıkış kartı, dereceli puanlama anahtarı, dereceleme ölçeği, öz değerlendirme formu, açık uçlu sorular, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden kültürel miras olarak kabul edilen bir mekânın değişik açılardan fotoğraflarını çekmeleri ve bu otoğraflardan birinin perspektif çizimini yaparak sınıfta sergilemeleri istenebilir. Yapılan çalışma, dereceleme ölçeği veya kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.10.2.1. Bir iç mekanın farklı açılardan çizilmiş perspektif görünümleri gösterilerek öğrencilerin merak ettiği soruları sormaları sağlanır ( E3.8 , OB4 ). Bu görsellerden yola çıkarak bir iç mekânın perspektif uygulamasında kullanılabilecek araçlar öğrencilere tanıtılır.Öğrencilerin çizgisel perspektif uygulaması için kullanacakları resim kâğıdını, kalem çeşidini ve diğer araç gereçleri araçları belirleyerek ifade etmeleri sağlanır.",
+    "Perspektif tekniğinde iç mekân çizimine başlanır. Öğrencilerden iç mekân çizimi için bulundukları yere göre göz hizasında olan ufuk çizgisi çizmeleri istenir. Bulundukları yere göre bakış noktası belirlemeleri sağlanır. Öğrencilerden bakış noktasına göre ufuk çizgisi üzerinde kaçış noktalarını (tek/ iki/ üç) işaretlemeleri istenir.Tek/ iki/ üç kaçış noktalı perspektif kuralına göre kaçan çizgiler çizilerek iç mekânın duvarları belirlenir. Öğrencilerden tek/ iki/ üç kaçış noktalı perspektif kuralına göre kaçan çizgileri kullanarak kapının ve pencerenin yerlerini işaretlemeleri beklenir. Tüm çizim kaçış çizgileri ile yapılır. İç mekânda bulunan diğer nesneleri de çizmeleri istenir. Zamanı etkin bir şekilde yöneterek çizimi belirli bir düzen içinde tamamlayarak sanatsal ürüne dönüştürmeleri sağlanır ( D3.2 ). Süreç, giriş çıkış kartı veya dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden kültürel miras olarak kabul edilen bir mekânın değişik açılardan fotoğraflarını çekmeleri ve bu fotoğraflardan birinin perspektif çizimini yaparak sınıfta sergilemeleri istenebilir ( OB5 ). Yapılan çalışma dereceleme ölçeği veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.10.2.2. Öğrenciere bir dış mekanın farklı açılardan çizilmiş perspektif görünümleri gösterilerek merak ettikleri soruları sormaları sağlanır ( E3.8 , OB4 ). Bu görsellerden yola çıkarak bir dış mekânın perspektif uygulaması için gereken araçlar (35x50 cm boyutlarında resim kâğıdı, dereceli resim kalemleri, 50 cm'lik cetvel, sulu boya, pastel, kuru boya vb.) öğrencilere tanıtılır. Öğrencilerin perspektif uygulaması için kullanacakları resim kâğıdını, kalem ve boya çeşidini ve diğer araç gereçleri araçları belirleyerek ifade etmeleri sağlanır.",
+    "Öğrencilerin bir dış mekânda çizgisel teknikte perspektif çizimini gerçekleştirdikten sonra hava perspektifi hakkında öğrenme, araştırma ve keşfetme arzusunu harekete geçirmesini sağlayacak gözlemleri yapmaları için okul bahçesine çıkmaları sağlanır ( E1.1 ). Öğrencilerin çevrelerinde gördükleri nesnelerin renklerindeki değişimi gözlemlemeleri ve bu değişimin nedenini sorgulayarak hava (renk) perspektifini tespit etmeleri ve ulaştıkları verileri nedenlerine göre sınıflandırmaları sağlanır ( KB2.2 , OB1 ). Baskın renklerin zayıf renkleri arka plana atarak etkisini azaltacağı, pasif renklerin (gri, yeşil, mor) uzaklık ve yakınlık etkisi göstermeyeceği vurgulanarak renklendirme çalışması yapmaları sağlanır. Çalışma ortamının temiz ve düzenli bir biçimde bırakılması sağlanır ( D18.2 ). Süreç, üçgen, kare, çember tekniği kullanılarak veya kontrol listesi ile değerlendirilebilir.",
+    "GS.10.2.3. \"Figür kelimesinin daha önce hangi amaçla kullanıldığını duydunuz?\", \"Figür hakkında neler söyleyebilirsiniz?\", \"Çevrenizdeki figürlerden nasıl örnekler verebilirsiniz?\" gibi sorularla öğrencilerin figürle ilgili kısa açıklamalar yapmaları istenir ( E3.2 ). Figür kavramıyla ilgili kelime ilişkilendirme testi yapılabilir. Figürde ölçülendirmenin tarihsel gelişim süreci (Antik Mısır, Antik Yunan, Roma ve Rönesans Dönemleri'nden günümüze kadar olan süreç) ile kadın, erkek ve çocuk figürü anatomilerinin biçimsel yapı özellikleri örnek görseller üzerinden inceletilir ( OB4 ).",
+    "Öğrencilerden insan anatomisiyle ilgili oluşturdukları imgeleri eskiz çalışmalarıyla ifade etmeleri istenir. Süreç, kontrol listesi veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "GS.10.2.4. Öğrenciler figür çiziminde kara kalem tekniği ile çizgisel ya da gölgesel yöntemlerden birini seçerek çalışacakları yöntem ve tekniği belirler. Figür çiziminde rakursinin (kısaltım) nasıl kullanılacağı açıklanır. Öğrencilerden belirledikleri görsel anlatım araçlarını (35x50 cm boyutlarında resim kâğıdı, resim altlığı, farklı derecelerde resim kalemleri ve silgi gibi) ifade etmeleri istenir.",
+    "Figür çizimi ile ilgili seçilen bir sanatçı deseni veya oturan bir model fotoğrafı gösterilerek öğrencilerden modelin duruşunu, hareketini ve yönünü tespit etmeleri amacıyla resim yüzeyinin bir kenarına küçük bir eskiz çizmeleri istenir. Figürün resim yüzeyine yerleştirilmesinde bu eskizin kolaylık sağlayacağı hatırlatılır. Figürün baş büyüklüğü ölçü birimi olarak belirlenir. Figüre ait bölümler (baş, gövde, kollar, bacaklar, el ve ayaklar) ile figürün bütünü arasındaki ölçü ilişkisi (büyüklük, uzunluk, kısalık, genişlik) kalem ölçüsüyle taslak olarak çözümlenir ( KB2.4 ). Öğrencilerin figür taslağını görsel tasarım öge ve ilkelerini kullanarak sanatsal ürüne dönüştürmeleri sağlanır. Yapılan çalışmalar dereceleme ölçeği veya kontrol listesi ile değerlendirilebilir.",
+    "GS.10.2.5. Öğrencilere insan veya hayvan figürlerinin anatomik yapıları, görseller üzerinden inceletilir ( OB4 ). Heykel sanatı ve heykel yapımında kullanılan tekniklerden bahsedilerek farklı sanatçıların üç boyutlu biçimlendirme malzemelerini kullanarak yaptıkları figürlerle ilgili görseller gösterilebilir veya videolar izletilebilir. Öğrencilerin konu ile ilgili düşüncelerini ifade etmeleri sağlanır ( SDB2.1 ).",
+    "Öğrencilerden üç boyutlu insan veya hayvan figürü ile ilgili imgeler oluşturmaları ve oluşturdukları imgeleri eskizlerle ifade etmeleri istenir.Öğrencilerin kendi eskiz çalışmalarını ışık-gölge, denge, doku, oran-orantı ve form gibi görsel tasarım öge ve ilkelerine göre değerlendirmeleri istenir ( SDB1.3 ). Süreç öz değerlendirme formu veya kontrol listesi ile değerlendirilebilir.",
+    "GS.10.2.6. Öğrencilere insan veya hayvan figürü ile ilgili heykel yapmak için kullanılabilecek modelleme-biçimleme yöntemlerinin özellikleri açıklanır. Öğrencilerden bu yöntemleri uygularken kullanabilecekleri anlatım araçlarını belirleyerek ifade etmeleri istenir. Kullanılacak malzemelerin kâğıt hamuru, alçı, bal mumu, kil veya plastilin, iskelet oluşturmak için tel, üzerine yerleştirmek için ahşap kaide ve şekillendirmek için oyma kalemleri, spatül, metal veya plastik uçlu çubuklar olduğu belirtilir.",
+    "Öğrencilerden figürün ayakta durabilmesi için kaide üzerine telden iskeletini yapmaları istenir. Figüre form vermek üzere seçtikleri bal mumu, kil veya kâğıt hamuru gibi malzeme çalışmaya hazır hâle getirilir. Hazırlanan malzemenin iskelet üzerine elle parça parça yapıştırılıp figür formuna uygun olarak biçimlendirilmesi sağlanır. Öğrencilere bu süreçte ellerinin yanı sıra şekillendirme (modelaj) kalemleri de kullanabilecekleri hatırlatılır. Figürün üç boyutlu hacimsel bir görünüm kazanabilmesi için doku, ışık-gölge, form, denge, oran-orantı ve oylum-yükselti ilişkisine dikkat edilmesi istenir. Figürün anatomik yapı özelliklerine göre yüzeyin biçimlendirilmesinde hayal gücü, sezgi, bilgi ve becerilerin önemi vurgulanır. Öğrenciler belirledikleri malzemeler ve modelleme-biçimleme yöntemiyle figüre estetik bir görünüm kazandırarak sanatsal ürüne dönüştürürler ( D7.2 ). Tamamlanan çalışma ahşap kaide üzerine sabitlenerek sergilenir. Öğrencilerden çalışma ortamını temiz ve düzenli bırakmaları istenir ( D18.2 ). Yapılan çalışmalar, dereceli puanlama anahtarı veya öz değerlendirme formu ile ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D18.2",
+      "D3.2",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/572"
+}

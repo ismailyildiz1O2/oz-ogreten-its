@@ -1,0 +1,172 @@
+{
+  "unitId": 8,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "1. TEMA: ENERJİ",
+  "hours": "34",
+  "description": "Bu temanın içeriğini canlı yaşamında enerjinin önemi, besinlerden enerji eldesi ve enerji metabolizması oluşturmaktadır. Tema kapsamında öğrencilerin canlı yaşamının devamlılığı için enerjinin neden gerekli olduğunu sorgulamaları, besinlerden elde edilen enerjinin metabolik süreçlere katkısına ve insanda enerji eldesi için sindirim, emilim ve taşımanın gerekliliğine dair bilimsel çıkarım yapmaları, fotosentez ve fermantasyonla ilgili deney yapmaları, farklı besin gruplarından enerji eldesi süreçlerini karşılaştırmaları, kemosentez hakkında bilgi toplamaları, fotosentez ve hücresel solunum reaksiyonlarıyla ilgili bilimsel model oluşturmaları, canlılarda sindirim çeşitlerini ve yapılarını sınıflandırmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.10.1.1",
+      "title": "Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğini sorgulayabilme",
+      "processComponents": [
+        "a) Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğiyle ilgili merakını ifade eder.",
+        "b) Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğiyle ilgili sorular sorar.",
+        "c) Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğiyle ilgili bilgileri toplar.",
+        "ç) Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğiyle ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğiyle ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.10.1.2",
+      "title": "Fotosentez reaksiyonlarıyla ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Fotosentez reaksiyonlarının işleyişini açıklamak için model önerir.",
+        "b) Fotosentez reaksiyonlarının işleyişi ile ilgili önerdiği modeli bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniler."
+      ]
+    },
+    {
+      "code": "BİY.10.1.3",
+      "title": "Fotosentezde kullanılan ve üretilen maddelerle ilgili deney yapabilme",
+      "processComponents": [
+        "a) Fotosentezde kullanılan ve üretilen maddelerle ilgili deney tasarlar.",
+        "b) Tasarladığı deneyden elde ettiği sonuçların analizini yapar ve bu sonuçları fotosentezi açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "BİY.10.1.4",
+      "title": "Kemosentez hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Kemosentez hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak kemosentez ile ilgili bilgilere ulaşır.",
+        "c) Kemosentez ile ilgili ulaştığı bilgileri doğrular.",
+        "ç) Kemosentez ile ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "BİY.10.1.5",
+      "title": "Canlılarda sindirim çeşitlerini ve yapılarını sınıflandırabilme",
+      "processComponents": [
+        "a) Canlılarda sindirim çeşitleri ve yapılarını sınıflandırmak için ölçütler belirler.",
+        "b) Canlılarda sindirim çeşitleri ve yapılarını oluşturduğu ölçütlere göre ayrıştırır.",
+        "c) Canlılarda sindirim çeşitleri ve yapılarını gruplandırır.",
+        "ç) Canlılarda sindirim çeşitleri ve yapılarını isimlendirir."
+      ]
+    },
+    {
+      "code": "BİY.10.1.6",
+      "title": "İnsanda enerji eldesi için sindirim, emilim ve taşıma süreçlerinin gerekliliği ile ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) İnsanda sindirim, emilim ve taşıma süreçlerinin niteliklerini tanımlar.",
+        "b) İnsanda sindirim, emilim ve taşıma süreçlerinin besinlerden enerji eldesi için gerekliliğiyle ilgili bilgileri/verileri toplar ve kaydeder.",
+        "c) İnsanda sindirim, emilim ve taşıma süreçlerinin besinlerden enerji eldesi için gerekliliğiyle ilgili topladığı bilgileri/verileri yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "BİY.10.1.7",
+      "title": "Hücresel solunum reaksiyonlarıyla ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Hücresel solunum reaksiyonlarının işleyişini açıklamak için model önerir.",
+        "b) Hücresel solunum reaksiyonlarının işleyişi ile ilgili oluşturduğu modeli bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniden yapılandırır."
+      ]
+    },
+    {
+      "code": "BİY.10.1.8",
+      "title": "Farklı besin gruplarından enerji eldesi süreçlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Farklı besin gruplarından enerji eldesi süreçlerine ilişkin özellikleri belirler.",
+        "b) Farklı besin gruplarından enerji eldesi süreçlerine ilişkin benzerlikleri listeler.",
+        "c) Farklı besin gruplarından enerji eldesi süreçlerine ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "BİY.10.1.9",
+      "title": "Fermantasyon ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Fermantasyon ile ilgili deney tasarlar.",
+        "b) Tasarladığı deneyden elde ettiği sonuçların analizini yapar ve bu sonuçları fermantasyonu açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "BİY.10.1.10",
+      "title": "Besinlerden elde edilen enerjinin canlının metabolik süreçlerine katkısı ile ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Besinlerden elde edilen enerjinin özelliklerini tanımlar.",
+        "b) Besinlerden elde edilen enerjinin canlının metabolik süreçlerine katkısı ile ilgili bilgileri/verileri toplar ve kaydeder.",
+        "c) Besinlerden elde edilen enerjinin canlının metabolik süreçlerine katkısı ile ilgili topladığı bilgileri/verileri yorumlar ve değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "ışık enerjisi, kimyasal enerji, pigment, fotoliz, Calvin döngüsü, sindirim, sindirim sistemi, emilim, hücresel solunum, fermantasyon, elektron taşıma sistemi, ATP sentezi",
+  "support": [
+    "FFotosentez, sindirim ve hücresel solunumla ilgili görsel, işitsel vb. materyaller ve bilgi kartları kullanılabilir. Fotosentez ve fermantasyon deneylerinde düzenek kurma olanağının olmadığı durumlarda deney simülasyonlarından yararlanılabilir. Fotosentez ve solunum reaksiyonları ile ilgili modeller iki boyutlu olarak hazırlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, farklı yaşam ortamlarındaki canlıların enerji kaynaklarını ve canlının yaşadığı ortam özellikleri ile ilişkisini araştırıp rapor veya sunum hazırlayabilir. Öğrencilerden bitkilerde bulunan farklı pigmentleri kâğıt kromatografisi yöntemiyle tespit etmeleri istenebilir. Fotosentez reaksiyonlarında \"minimum kuralını\" gösteren deneyler tasarlamaları istenebilir. *Fotosentez reaksiyonlarında fotosistemlerin yapısını, ışık enerjisinin nasıl soğrulduğunu, bu süreçte neden farklı pigment türlerine ihtiyaç duyulduğunu, ışık enerjisi kullanılarak ATP üretimi süreçlerini araştırmaları ve fotofosforilasyonla ilgili akış şeması oluşturmaları istenebilir. Farklı hidrojen kaynaklarını kullanan fotosentetik canlıların fotosentez süreçlerini karşılaştırmaları istenebilir. Biyoremediasyon çalışmalarında kemosentetik canlıların rolü ile ilgili araştırma yapmaları istenebilir.",
+    "Öğrencilerden hücresel solunum reaksiyonlarıyla ilgili modelleri simülasyon şeklinde tasarlamaları, eş zamanlı gerçekleşen olayları ve olay akışını somutlaştırmaları istenebilir. Öğrencilerin karbohidrat, yağ ve protein içerikli besinlerin kalori düzeyini ölçmek için kullanılan \"bomba kalorimetre\" cihazının çalışma prensibi ve kullanım alanları hakkında araştırma yapmaları sağlanabilir. *Öğrencilerden fermantasyonun gıda ve ilaç endüstrisinde, biyoenerji üretiminde ve atık suların arıtılmasında nasıl kullanıldığını araştırmaları ve araştırmalarını raporlaştırmaları istenebilir. Fotosentez ve solunum tepkimeleri arasındaki ilişkileri ayrıntılı araştırarak bitkideki enerji metabolizmasını yapılandırmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; deney yapma, model oluşturma, broşür, performans görevi, öğrenme günlüğü, yapılandırılmış grid, sunum, araştırma raporu, bilgi görseli kullanılarak puanlama anahtarı, analitik ve bütüncül dereceli puanlama anahtarı ve öz değerlendirme ile değerlendirilebilir.",
+    "Öğrencilere fotosentez reaksiyonları hakkında bilimsel model oluşturmaya yönelik performans görevi verilebilir. Öğrencilerden oluşturacakları modeli sunmaları istenebilir. Performans görevi, bütüncül dereceli puanlama anahtarı ile puanlanabilir.",
+    "Öğrencilere fotosentezde kullanılan, üretilen maddeler ve fermantasyonla ilgili deneyler yaparak deney sürecini ve sonucunu raporlaştıracakları performans görevi verilebilir. Öğrencilerin deney süreci ve sonucuna ilişkin hazırlayacakları raporlar, analitik dereceli puanlama anahtarı ile puanlanabilir. Analitik dereceli puanlama anahtarında \"deneyde olası hatalar için alınacak önlemler, deney süreci ve sonucu\" gibi ölçütlere yer verilebilir. Öğrencinin kendini deney süreci bakımından değerlendirmesi için öz değerlendirme formu kullanılabilir.",
+    "Öğrencilere insanda enerji eldesi için sindirim, emilim ve taşıma süreçlerine ilişkin varsayımda ve önermede bulunabileceği, örüntü oluşturarak karşılaştırma ve değerlendirme yapabileceği broşür oluşturmaya yönelik performans görevi verilebilir. Oluşturulacak broşür, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilere hücresel solunum reaksiyonlarının işleyişine ilişkin model oluşturup bu modeli poster veya üç boyutlu model olarak sunmaya yönelik performans görevi verilebilir. Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı ve öğrencinin kendisini değerlendirmesi için öz değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BİY.10.1.1 a) \"Güneş olmasaydı canlılara ne olurdu?\", \"Fotosentez olmasaydı bundan sadece bitkiler mi etkilenirdi?\", \"Bir insan beslenmeden kaç gün yaşayabilir?\" gibi sorularla öğrencilerin merak duygusu harekete geçirilir. Öğrencilerden sorular hakkında bireysel olarak düşünmeleri, cevaplarını arkadaşlarıyla paylaşmaları istenir. Öğrencilerin iletişim engellerine dikkat ederek etkin dinlemeleri, düşüncelerini ifade etmeleri ve grup iletişimine katılmaları sağlanır ( E1.1, SDB2.1 ) .",
+    "b-c) Öğrencilerden canlıların yaşamına devam edebilmesi için enerjinin gerekliliği, ATP molekülünün yapısı ve enerji dönüşümlerindeki işlevi konularında merak ettikleri soruları sormaları beklenir. Sordukları sorulara cevap bulmak amacıyla araştırma yapmaları ve bilgi toplamaları istenir. Bu süreçte ATP sentezinin hangi yollarla gerçekleştiği (substrat düzeyinde fosforilasyon, fotofosforilasyon, oksidatif fosforilasyon) verilmez.",
+    "ç-d) Öğrencilerden ulaştıkları bilgilerin doğruluğunu bilim dergileri ve bilimsel makaleler gibi güvenilir kaynaklardan yararlanarak değerlendirmeleri istenir ( D3.3 , OB2 ) . Topladıkları bilgileri görsel ve şematik olarak sunmaları istenir ( OB4 ) . Hazırladıkları sunulardan yararlanarak canlılık ve enerji ilişkisi hakkında çıkarım yapmaları beklenir.",
+    "Öğrencilerden canlıların yaşamının devam edebilmesi için enerjinin gerekliliğini ve önemini tanımladıkları, konu hakkında sorular sorarak sorularını cevapladıkları, topladıkları bilgilerin doğruluğunu değerlendirerek çıkarım yaptıkları bir öğrenme günlüğü oluşturmaları istenir. Öğrenme günlüğü, bütüncül dereceli puanlama anahtarı ile puanlanabilir; öğrencilerin öz değerlendirme yapması sağlanır (E3.5) .",
+    "BİY.10.1.2 a) Öğrencilere fotosentez reaksiyonlarının temel adımlarını gösteren slayt gösterisi veya kısa animasyon/video izletilebilir. Öğrencilerden fotosentezin genel aşamalarını (ışığa bağlı evre, elektron taşıma sistemi, ATP sentezi, suyun parçalanması, ışıktan bağımsız evre, Calvin döngüsü) gösteren bir modeli grup çalışmasıyla oluşturmaları istenir. Öğrenciler diyagram, şema, maket veya etkileşimli görsel iletişim uygulamaları kullanarak tasarladıkları modelleri dijital araçlarla, etkileşimli olarak arkadaşlarıyla paylaşır ( OB2, E3.3 ) . Bu süreçte pigmentlerin (klorofil, ksantofil, karoten, likopen vb.) fotosentez sürecindeki görevleri verilir. Pigmentlerin yapısına ve klorofil çeşitlerine girilmez. Fotofosforilasyon olayının mekanizması, devirli ve devirsiz fotofosforilasyon, fotosistem çeşitleri, Calvin döngüsünün ara basamakları, CAM ve C4 bitkilerinde görülen farklı fotosentez türleri ve fotosenteze etki eden genetik faktörler verilmez..",
+    "b) Bilim insanlarının geliştirdiği fotosentez reaksiyonu modeli paylaşılarak öğrencilerden bu modeli kendi önerdikleri modellerle karşılaştırmaları istenir. Bu karşılaştırma sayesinde öğrencilerin aynı konuya ilişkin farklı bakış açılarını fark etmeleri sağlanır ( E3.10) . Öğrenciler, karşılaştırma sonucunda kendi modellerini yeniler. BİY.10.1.3 a-b) \"Fotosentezde bitkiler tarafından kullanılan ve üretilen maddeler nelerdir?\" gibi sorularla konuya dikkat çekilir ( E1.1) . Öğrencilerin fotosentezin gerçekleşme sürecine ilişkin bilgi ihtiyaçlarını fark etmeleri sağlanır. Bilim tarihinde fotosentez ile ilgili yapılan çalışmalara (Jan Baptist van Helmont, Joseph Priestley, Jan Ingenhousz, Melvin Calvin, Robert Hill'in çalışmaları) ilişkin bilgiler verilir. Öğrencilerden bu bilgileri fotosentezde kullanılan ve üretilen maddelere göre yapılandırmaları ve fotosentezle ilgili kontrollü bir deney tasarlamak üzere kullanmaları istenir. Sentezledikleri bilgileri kullanarak tasarladıkları deneylerin amaçları ile bağımlı ve bağımsız değişkenlerini tanımlamaları istenir. Deneylerini grup çalışması ile yapmaları beklenir. Öğrenciler, deneyi gerçekleştirirken dikkatlerini olumsuz etkileyen faktörleri kontrol etmeleri ve deneye devam etmek için isteklerini sürdürmeleri konusunda cesaretlendirilir ( SDB1.2 , D3.4 , D12.3 ) . Öğrenciler, deney sonuçlarının analizini yaparak ulaştıkları sonuçları fotosentez olayı ile ilişkilendirir; elde ettikleri verileri açıklamak için sunum veya rapor hazırlar. Öğrencilerden etkili iletişim becerilerini kullanmaları ve grup arkadaşlarına nazik davranmaları istenerek saygı değeri vurgulanır ( D14.1, OB7 , E3.7 ) .",
+    "BİY.10.1.4 a-b-c) Öğrencilerden \"Işık enerjisi kullanılmadan besin sentezi nasıl gerçekleşir?\" sorusuna cevap bulmaları istenir. Öğrenciler, bilgiye ulaşmak için kullanacakları araçları belirler. Öğrencilerden belirledikleri araçları kullanarak kemosentez hakkında araştırma yapmaları, bilgi toplamaları ( OB1 ) ve ulaştıkları bilgileri doğrulamaları istenir. Bu süreçte kemosentez tepkimelerine değinilmez.",
+    "ç) Öğrencilerden doğruladıkları bilgilere ve telif hakkı olmayan görsellere yer verdikleri bir bilgi görseli hazırlamaları istenir ( OB4 , E2.2 , D3.3 ) . Öğrencilerin oluşturacağı bilgi görseli, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.10.1.5 a-b) \"Sindirim nedir?\", \"Sindirim nerede ve nasıl gerçekleşir?\" gibi sorularla öğrencilerin sindirim konusundaki bilgi ihtiyaçlarını fark etmeleri sağlanır. Sindirim çeşitleri (hücre içi ve hücre dışı sindirim) ile ilgili bilgi verilir. Görseller kullanılarak öğrencilerden omurgalı canlıların mide ve diş yapılarını karşılaştırmaları, diş çeşitleri ile beslenme arasındaki ilişkiyi sorgulamaları, bağırsak uzunluklarının beslenme tipine göre değişip değişmediğine ilişkin soruları cevaplamaları istenir. Öğrenciler, ulaştıkları bilgiler ışığında canlılarda sindirim yapılarını kuş, kurt, inek, insan örnekleri üzerinden sınıflandırmak için ölçütler belirler ( SDB1.2 ) . Elde ettikleri bilgileri özetleyerek sindirim yapılarını oluşturdukları ölçütlere (dişlerin yapısı, mide yapısı ve bağırsak uzunluğu) göre ayrıştırır.",
+    "c-ç) Öğrencilerden tanımladıkları ölçütleri kullanarak canlılarda sindirim yapılarını sınıftaki arkadaşlarıyla iş birliği içinde ve saygı çerçevesinde gruplandırmaları istenir ( D14.1 ) . Yaptıkları gruplandırmaların bilimsel karşılığını güvenilir kaynaklardan bulmaları ve kendi gruplandırmalarını bilimsel gruplandırmalarla karşılaştırmaları beklenir.",
+    "Öğrenciler, canlılarda sindirim yapılarını isimlendirir. Öğrencilerden yaptıkları gruplandırmaları konunun daha iyi anlaşılması amacıyla posterle/modelle ya da uygun web araçlarını kullanarak yaratıcılıklarını ortaya koydukları farklı metotlarla sunmaları istenir ( OB1 , OB2 ) . Öğrencilerin örnek olarak verilen canlılarda sindirim çeşitleri ve sindirimde görevli yapıların özelliklerine yönelik ölçütler oluşturarak sınıflama ve ayrıştırma yapmalarını sağlamak için yapılandırılmış grid kullanılabilir. Yapılandırılmış grid, puanlama anahtarı ile puanlanabilir. BİY.10.1.6 a) Öğrenciler gruplara ayrılır. Her gruba \"Vücutta su, ilaç, vitamin, karbohidrat, yağ, protein gibi moleküllerin sindirimi, emilimi ve taşınımı nasıl gerçekleşir?\", \"Vücutta emilim süreci için hangi adaptasyonlar gelişmiştir?\" gibi sorular sorularak öğrencilerin sindirim, emilim ve taşıma süreçlerinin nitelikleriyle ilgili düşünmeleri sağlanır ( E1.1) . Öğrencilerden bu soruların cevaplarını grup içinde tartışarak sindirim, emilim ve taşıma süreçlerinin niteliklerini tanımlamaları beklenir.",
+    "b) Grup üyelerinden bilim dergileri, bilimsel makaleler gibi güvenilir kaynakları araştırarak besinlerden enerji eldesi için sindirim, emilim ve taşıma süreçlerinin gerekliliğine ilişkin bilgi toplamaları istenir ( OB7 , D3.3 ) . Bilgi toplama sürecinde sindirim basamaklarında görev alan enzim ve hormonlar verilmez. Sindirim ürünlerinin kan ve lenf sisteminde izlediği yollara değinilmez.",
+    "c) Gruplar, topladıkları bilgileri/verileri grafik, tablo veya diyagram gibi görsel formatlara dönüştürerek verilerin daha anlaşılır hâle gelmesini sağlar. Öğrenciler, bazı bilgi/veri setlerini özetler veya daha anlamlı hâle getirir. Öğretmen; toplanan bilgilerin gruplandırılması, bilgi/ veri setlerinin düzenlenmesi ve analiz edilmesi konularında öğrencilere rehberlik edebilir. Öğrencilerden topladıkları ve kaydettikleri bilgilerin hangilerini kullanacaklarına karar vermeleri, bu bilgilerden hareketle emilim ve taşıma süreçleri ile enerji eldesi arasındaki ilişkileri belirlemeleri istenir. Topladıkları bilgileri yorumlamaları ve bu bilgilere dayanarak sindirim sistemi süreçlerinin nasıl çalıştığını değerlendirmeleri beklenir. Öğrencilerin bu süreçlerin vücudun sağlıklı bir şekilde çalışması için neden önemli olduğunu düşünmeleri sağlanır ( OB7 ) .",
+    "BİY.10.1.7 a) Öğrencilere hücresel solunum reaksiyonlarının temel adımlarını (glikoliz, piruvatın oksidasyonu, Krebs döngüsü, elektron taşıma sistemi) gösteren bir slayt gösterisi yapılabilir veya kısa bir animasyon/video izletilebilir. Bu süreçte Krebs döngüsü ara reaksiyonlarının detayına değinilmez, sadece karbon sayılarındaki değişim ve ürünlerin çıkışı verilir. Elektron taşıma sisteminde görev alan proteinlerin yapı ve isimleri, kimyasal ozmoz verilmez; süreç sonunda ATP üretildiği vurgulanır. Öğrenciler, grup çalışması ile diyagram, şema, maket veya etkileşimli görsel iletişim uygulamaları kullanarak hücresel solunumun işleyişini gösteren bir model önerir ( E3.3 ).",
+    "b)Öğrencilerden grup çalışmasıyla oluşturdukları modelleri hücresel solunumla ilgili mevcut bilimsel modellerle ve diğer grupların modelleriyle karşılaştırmaları istenir ( E3.10 ) . Öğrencilerin oluşturdukları modelleri değerlendirmeleri ve kendi modellerinden hangisinin genel kabul görmüş modele en yakın olduğu konusunda karar vermeleri sağlanır ( KB3.1 , E3.4) . Bu değerlendirme sürecinde öğrencilerden kendisinin ve arkadaşlarının bakış açıları ve görüşlerini takip etmesi beklenir ( SDB1.1 ) . Karşılaştırmalar aracılığıyla hücresel solunum reaksiyonlarının farklı bakış açılarıyla değerlendirilmesi ve anlaşılması sağlanır. BİY.10.1.8 a) \"Besinlerin oksijenli solunumun hangi basamağında tepkimeye gireceği, içeriğindeki organik bileşiğin karbon sayısına bağlı mıdır?\", \"Farklı besin monomerleri hücresel solunum tepkimelerine aynı basamaktan katılabilir mi?\", \"Hücresel solunumda kullanılan her besin Krebs döngüsüne girer mi?\" gibi sorular kullanılarak öğrencilerin farklı besin gruplarından enerji eldesi süreçleriyle ilgili bilgi ihtiyaçlarını fark etmeleri sağlanır ( OB1 , D3.3 ) . Öğrencilerden bu soruların cevapları hakkında bilgi toplamaları beklenir. Topladıkları bilgileri sınıfta tartışarak farklı besin gruplarının hangi hücresel solunum basamağında hücresel solunuma dâhil olduğunu ve bu besin gruplarından enerji eldesi süreçlerine ilişkin özellikleri belirlemeleri istenir. Bu süreçte yağ asitlerinin oksidasyonu (alfa, beta ve omega-oksidasyonu) ve amino asitlerin transdeaminasyonu reaksiyonlarına, farklı monosakkaritlerin (fruktoz, galaktoz, mannoz vb.) glikolize nasıl girdiğine değinilmez.",
+    "b-c) Öğrenciler, elde ettikleri bilgilerin özetini kullanarak farklı besin gruplarından enerji eldesi süreçlerine ilişkin benzerlik ve farklılıkları listeler ( OB1 ) . Öğrencilerden farklı besin gruplarından enerji elde edilmesi süreçlerini karşılaştırabilmeleri için uygun web araçlarıyla yaratıcılıklarını kullanacakları bir sunum oluşturmaları istenebilir ( OB2 ) . Öğrencilerin farklı besin gruplarından enerji elde edilmesi süreçlerini benzerlik ve farklılıklarına göre listelemelerini sağlamak amacıyla yapılandırılmış grid kullanılabilir. Yapılandırılmış grid, puanlama anahtarı ile puanlanabilir.",
+    "BİY.10.1.9 a) \"Ekmeğin mayalanması, peynir ve yoğurt üretimi nasıl gerçekleşir?\", \"Fermantasyon sürecini etkileyen faktörler nelerdir?\" gibi sorularla fermantasyon konusuna dikkat çekilerek öğrencilerin bu konuyla ilgili bilgi ihtiyacını fark etmeleri sağlanır ( E1.1 ) . Öğrenciler, gruplar oluşturarak fermantasyon hakkında bilimsel kaynaklardan veya ders kitabından bilgi toplar ve topladıkları bilgileri özetleyerek enerji eldesi açısından yapılandırır. Bu bilgileri fermantasyon ile ilgili deney tasarlamak üzere sentezler ( OB1 , E3.11 ) ve fermantasyonla ilgili sınıf/ laboratuvar ortamında yapabilecekleri bir deney tasarlar. Saygı değerinin gereği olarak farklı düşünceler üzerinde uzlaşma sağlayıp hata kaynaklarını ortadan kaldıracak tedbirleri alır ( SDB2.2 , D14.1 ) .",
+    "b) Gruplardan deney sonuçlarının analizini yaparak fermantasyon ile yoğurdun, peynirin, kefirin ve ekmeğin mayalanması, turşu yapımı vb. arasında ilişki kurmaları ve fermantasyonu açıklamaları istenir. Fermantasyonun insan sağlığı açısından önemi vurgulanarak sağlıklı yaşam değerine dikkat çekilir ( D13.1 ) .",
+    "BİY.10.1.10 a) \"Farklı besinlerden nasıl ve ne kadar enerji elde edilebilir?\" sorusu sorularak öğrencilerden enerjinin özelliklerini düşünmeleri istenir. Besin gruplarındaki farklı bileşenlerin besinin enerji değerlerini belirlediği ifade edilir. Öğrencilerden besinlerden elde edilen enerjinin vücuttaki hücresel faaliyetlerin sürdürülmesi, organların çalışması, vücut ısısının korunması ve günlük yaşam aktivitesinin sürdürülmesindeki rolünü açıklamaları beklenir ( E1.1 ) .",
+    "b) Öğrencilerden bilim dergileri, bilimsel makaleler gibi güvenilir kaynakları kullanarak besinlerden elde edilen enerjinin canlının metabolik süreçlerine (kas faaliyetleri, biyosentez, sinirsel iletim, aktif taşıma vb.) katkısıyla ilgili bilgi/veri toplamaları ve topladıkları bilgileri/verileri kaydetmeleri istenir ( OB7 , D3.3 ) . Öğrenciler, topladıkları bilgileri öğretmen rehberliğinde tablo, grafik ve diyagram gibi görsel formatlara dönüştürerek daha anlaşılır hâle getirir. c) Öğrencilerden topladıkları bilgileri besinlerden elde edilen enerjinin canlıların metabolik süreçlerine etkisini ve katkısını belirlemek üzere yorumlamaları ve değerlendirmeleri beklenir. Hazır ve işlenmiş gıda tüketimi, tek tip besin tüketimi vb.nin metabolizmaya olan etkilerini tartışmaları istenir ( SDB2.3 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D13.1",
+      "D14.1",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.10",
+      "E3.11",
+      "E3.3",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/8"
+}

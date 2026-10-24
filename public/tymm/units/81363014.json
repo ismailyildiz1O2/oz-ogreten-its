@@ -1,0 +1,76 @@
+{
+  "unitId": 81363014,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "14. ÜNİTE: EDEBİYAT UYGULAMALARI IV - İLETİŞİM ÇALIŞMALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.4.4.1",
+      "title": "Önceden kararlaştırılmış bir iletişim süreci için hazırlık yapar",
+      "processComponents": [
+        "İş toplantısı, mülakat, e-posta gönderme, hazırlıklı konuşma gibi kararlaştırılmış iletişim süreçlerinde içerik hakkında bilgi edinme, içeriği destekleyici materyalleri hazırlama, prova işlemleri gibi hazırlıklar yapılır."
+      ]
+    },
+    {
+      "code": "EDU.4.4.2",
+      "title": "Başkalarını etkin şekilde dinler",
+      "processComponents": [
+        "Başkalarının anlatmak istediklerini dinlemek için zaman ayrılır. Başkalarını dinlerken nasıl karşılık vereceğini düşünmekten çok, ne söylendiğini anlamak için çaba gösterilir. Başkaları konuşurken yanıt vermeden önce onların sözlerini bitirmeleri beklenir. Anlaşılmayan konuları açığa kavuşturmak için etkili sorular sorulur."
+      ]
+    },
+    {
+      "code": "EDU.4.4.3",
+      "title": "Duygu, düşünceleri ifade eder",
+      "processComponents": [
+        "Duygu ve düşünceler fark edilir, uygun zaman ve ortam belirlenerek bağlama uygun şekilde beden dili ile uyumlu olarak bunlar açıklanır."
+      ]
+    },
+    {
+      "code": "EDU.4.4.4",
+      "title": "Sözlü ya da sözsüz olarak etkileşim sağlar",
+      "processComponents": [
+        "Sözlü iletiler kadar sözsüz iletilere de dikkat edilir. İletişim sürecinde kaynak ve/veya alıcıda gözlenen duraksama, ses tonundaki duygusallık, yüz ifadeleri, beden dili, beden yönelimi, seçilen kıyafetler, esneme vb. unsurların anlam oluşumuna katkısı dikkate alınır."
+      ]
+    },
+    {
+      "code": "EDU.4.4.5",
+      "title": "Grup iletişimine katılır",
+      "processComponents": [
+        "Grup iletişiminde ortak faydaya yönelik kişisel amaçlar yerine bağlama uygun, kısa, net ve tüm grubu ilgilendiren mesajlar vermek tercih edilir. İkili ya da grup iletişiminde, sosyal ve duygusal kazanımların ne düzeyde gerçekleştiğine dikkat edilir."
+      ]
+    },
+    {
+      "code": "EDU.4.4.6",
+      "title": "İletişim önündeki engelleri ortadan kaldırır",
+      "processComponents": [
+        "Verimi artırmak için iletişim önündeki engeller kaldırılır. Duygu ve düşünceler aktarılırken olumlu tavrın sürdürülmesi, sözlü ve sözsüz iletilerde kavgacı, aşağılayıcı, alaycı, iletişime zarar verici diğer üslup ve tavırlardan uzak durulması gerektiği dikkate alınır."
+      ]
+    },
+    {
+      "code": "EDU.4.4.7",
+      "title": "İletişim sürecini değerlendirir",
+      "processComponents": [
+        "Dinleyicilerin sayısı, alıcı dışında bir kalabalığın olması gibi iletişim sürecine etki eden çevresel etkenler değerlendirilir. Sözcük seçimi, cümlenin yapısı; ifadelerdeki duygusal ton, duygu ve düşünceyi destekleyen jest ve mimikler vb. unsurlar değerlendirilir. İletişim sürecine etki eden bilişsel ve duyuşsal etkenler değerlendirilir.",
+        "İletişim sürecine etki eden çevresel etkenler -dinleyicilerin sayısı, alıcı dışında bir kalabalığın olması gibialıcı konumundakilere uygun sözcük seçimi, cümlenin yapısı; ifadelerdeki duygusal ton, duygu ve düşünceyi destekleyen jest ve mimikler ile diğer materyaller değerlendirilir."
+      ]
+    },
+    {
+      "code": "EDU.4.4.8",
+      "title": "Öz tepki verir",
+      "processComponents": [
+        "İletişim sürecinde tercih edilen tür, üslup, anlatım biçimi, düşünceyi geliştirme yolları gerekçelendirilerek açıklanır. İletişim sürecindeki hatalar düzeltilir. Uygun davranış, duygu ve düşünceler pekiştirilip sonraki yaşantılarda kullanılarak özgün bir kimlik oluşturulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

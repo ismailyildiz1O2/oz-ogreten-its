@@ -1,0 +1,169 @@
+{
+  "unitId": 92,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "1. TEMA: ETKİLEŞİM",
+  "hours": "22",
+  "description": "Bu tema, Kimya Hayattır ve Atomdan Periyodik Tabloya olmak üzere iki bölümden oluşmaktadır. Bu temada öğrencilerin kimya biliminin günlük hayata katkısına ilişkin çıkarım yapmaları, kimyasal maddelerin kullanımından kaynaklanan problemleri çözmeleri, atomun yapısı hakkında bilimsel çıkarımda bulunmaları, elektron dizilimi ile ilgili tahminlerde bulunmaları, periyodik tabloda yer bulma ile ilgili akıl yürütmeleri ve elementlerin periyodik özelliklerinin periyodik tablodaki değişimini çözümleyebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.9.1.1",
+      "title": "Kimya biliminin günlük hayata katkısına ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Evde kullanılan kimyasal ürünlerin niteliklerini gözlemleyebileceği ortamlar oluşturarak kimyasal ürünlerin niteliklerindenki farklılıkları ortaya çıkarır.",
+        "b) Kimyasal ürünlerin niteliklerindeki farklılıkları kimya bilimiyle ilişkilendirmek üzere topladığı veri ya da verileri kaydeder.",
+        "c) Topladığı veri ya da verileri yorumlayarak kimya biliminin günlük hayata katkısına ilişkin değerlendirme yapar."
+      ]
+    },
+    {
+      "code": "KİM.9.1.2",
+      "title": "Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri çözebilme",
+      "processComponents": [
+        "a) Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri yapılandırır.",
+        "b) Farklı ortamlarda kimyasal maddelerin kullanımına yönelik yapılandırdığı problemleri özetler.",
+        "c) Farklı ortamlarda kimyasal maddelerin kullanımına yönelik yapılandırdığı problemlerin çözümünü gözleme/mevcut bilgiye/veriye dayalı tahmin eder.",
+        "ç) Kimyasal maddelerin kullanımına yönelik yapılandırdığı problemler hakkında kimyasal maddelerin kullanımı ve güvenlik konusu temelinde akıl yürütür.",
+        "d) Kimyasal maddelerin kullanımına yönelik yapılandırdığı problemlerin çözümüne ilişkin değerlendirmede bulunur."
+      ]
+    },
+    {
+      "code": "KİM.9.1.3",
+      "title": "Atom teorilerindeki varsayımları kullanarak bilimsel bilginin değişebilirliliğine ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Atom teorilerinin gelişim sürecinde atomun yapısına ilişkin niteliklerin farkını ortaya koyar.",
+        "b) Elektron, proton ve nötronun yükü, kütlesi ve keşif tarihlerine ilişkin hazır veri seti kullanır.",
+        "c) Atom ve atom altı parçacıklar ile ilgili bilimsel verileri inceleyerek bilimsel bilginin değişebilirliliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.9.1.4",
+      "title": "Atom orbitallerinin bağıl enerjilerine ilişkin bilimsel veriye dayalı tahminde bulunabilme",
+      "processComponents": [
+        "a) Verilere dayalı olarak atom orbitallerinin bağıl enerjilerine ilişkin önermeler oluşturur.",
+        "b) Atom orbitallerinin bağıl enerjilerine ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Orbitallere ait bağıl enerji diyagramlarından elde ettiği verileri inceleyerek geçersiz çıkarımları ayıklar.",
+        "ç) Atom orbitallerinin bağıl enerjilerine ilişkin geçerli tahminleri temelinde yargıya varır."
+      ]
+    },
+    {
+      "code": "KİM.9.1.5",
+      "title": "Elektronların atom orbitallerine yerleşimine ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Elektronların atom orbitallerine yerleşimine ilişkin örüntü bulur.",
+        "b) Bilimsel ilkelere ulaşmak için örüntülerden genellemeler yapar."
+      ]
+    },
+    {
+      "code": "KİM.9.1.6",
+      "title": "Elementlerin periyodik tablodaki yerlerine ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Atomların elektron dizilimiyle periyodik tablodaki yeri arasında bulduğu örüntüyü yeni örnekler üzerinde dener.",
+        "b) Atomların periyodik tablodaki yerini belirlemede kullanılan kurallara ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.9.1.7",
+      "title": "İyon oluşumuna ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Atomların elektron dizilimiyle iyonların elektron dizilimi arasında örüntü bulur.",
+        "b) İyon oluşumuna ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.9.1.8",
+      "title": "Elementlerin periyodik özelliklerinin periyodik tablodaki değişimini çözümleyebilme",
+      "processComponents": [
+        "a) Elementlerin periyodik özelliklerini etkileyen etmenleri belirler.",
+        "b) Elementlerin periyodik özelliklerini etkileyen etmenler ile periyodik tablodaki değişimler arasındaki ilişkiyi belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "atom yarıçapı, absorbsiyon, Aufbau ilkesi, elektronegatiflik, emisyon, Hund kuralı, iyonlaşma enerjisi, izoelektronik, kimya bilimi, kimyasal madde, küresel simetri, orbital, Pauli dışlama ilkesi, valans elektron",
+  "support": [
+    "Günlük hayatta kimyasal maddelerin yanlış kullanımı sonucu oluşan problemleri çözebilme becerisinin süreç bileşenleri gerçekleştirilirken öğrenciler için bileşenlerin takibini kolaylaştıracak dönütlerin sayısı artırılabilir. Problem çözme becerisi yerine kavramsal becerilerden tümevarımsal akıl yürütme becerisi tercih edilebilir. Öğrencilerin bilgiyi yeniden düzenleme, önceki bilgilerle birleştirme ve işleme süreçlerini kolaylaştırmak amacıyla atom teorileri ile ilgili görsel materyaller kullanılıp konunun daha iyi anlaşılması ve hatırlanması sağlanabilir. Gördükleri şekilleri algılama ve hatırlama güçlüğü çeken öğrenciler için bilgi kartları kullanılabilir. Atom teorileri, atom orbitalleri, periyodik özellikler konularında karşılaştırma becerisi işletilebilir. Bu becerinin kazandırılması sürecinde benzerlik ve farklılıkları belirlemeye yönelik sorular sorulabilir, öğrencilerin bilgileri daha kolay öğrenmesi ve genellemesi sağlanabilir. Öğrencilerin cevaplarına olumlu dönütler verilerek öz güvenlerinin artması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler; evde kullanılan temizlik malzemelerinin, ilaçların ve diğer kimyasal maddelerin güvenli kullanımına dikkat çekmek ve çevre dostu temizlik ürünlerinin üretimini desteklemek amacıyla bir bilinçlendirme kampanyası planlayabilir. Bu bağlamda broşürler, posterler, kamu spotu veya sosyal medya içerikleri hazırlayarak halkı kimyasal ürünlerin güvenli kullanımı konusunda bilgilendirebilirler. Ayrıca evde çevre dostu temizlik ürünlerinin nasıl üretileceğini gösteren rehberler oluşturabilirler. Öğrencilerden günlük hayatta kullandıkları gıda ürünlerinde bulunan gıda boyalarını, antioksidanları veya koruyucuları tespit etmeleri amacıyla kimyasal analizler gerçekleştirmeleri istenebilir. Öğrenciler; bu analizlerin her birini adım adım açıkladıkları, kullandıkları yöntemleri ve cihazları ayrıntılı olarak belirttikleri, analiz sonuçlarını detaylıca yorumladıkları bir rapor hazırlamaları için yönlendirilebilir. Öğrenciler, bulgularını arkadaşları ve yakın çevreleri ile paylaşmaları için teşvik edilebilir. Öğrencilerin gıda güvenliği ile ilgili önerilerde bulunmaları sağlanabilir. Öğrencilere kimyasal ürünlerin yanlış kullanımına ilişkin çevresel etki analizi yaptırılabilir. Öğrencilerden analizlerinden elde ettikleri verilerden hareketle kimyasal ürünlerin hatalı kullanımı sonucu oluşacak çevresel etkileri en aza indirgemek için çözüm önerileri sunmaları istenebilir. Öğrenme çıktısında işletilen bilimsel çıkarım becerisine ek olarak yeni örnekler üst düzey becerilerden olan karar verme becerisi temelinde de ele alınabilir. Bu beceri temelinde öğrencilerin kimya bilmenin sağlık, çevre, ekonomi ve kimyasal kirlilik açısından katkılarının neler olduğuna; hangi mesleğe daha fazla katkı sağladığına karar vermeleri ve bu katkılardan birine yönelik kısa, bilgilendirici bir konuşma hazırlayarak arkadaşlarına sunmaları sağlanabilir.",
+    "Öğrencilerden deşarj sularının temizlenmesine yönelik tasarımlar ortaya koymaları istenebilir. Bu amaçla öğrencilere STEM basamaklarını uygulayabilecekleri bir etkinlik yaptırılabilir. Öğrencilerden çevrelerinde evsel, tarımsal ya da endüstriyel atıkların etkisiyle kirlenen suları belirlemeleri istenebilir. Öğrenciler, deşarj sularının temizlenmesine ilişkin problemi tanımlayabilir. Öğrenciler grup çalışması ile problemin çözüm yollarını araştırabilir. Problemin çözümüne dair ürün ya da tasarım geliştirebilir. Öğrencilerden tasarımları için kullanacakları materyalleri belirlemeleri istenebilir. Ortaya çıkan ürün prototiplerini test etmeleri ve başarılı olan prototiplerini sunmaları için öğrencilerden bilgi görseli hazırlamaları istenebilir.",
+    "Öğrencilerin bir kimya işletmesinin iş güvenliği önlemlerini incelemeleri için bir saha ziyareti düzenlenebilir. Öğrenciler bu ziyaret sırasında kimyasal depolama, kimyasal atıkların imhası ve çalışanların kişisel koruyucu ekipman kullanımı gibi konuları araştırarak güvenlik raporu hazırlayabilirler.",
+    "Kimya biliminin farklı mesleki hayatları kolaylaştırması temelinde öğrencilerden gruplar hâlinde çalışmaları ve bir mesleği seçerek kimya biliminin ilgili mesleğe olan katkılarına ilişkin bir tanıtım broşürü hazırlamaları istenebilir. Kimya biliminin günlük hayata katkıları kapsamında öğrencilerin çeşitli mesleklerdeki alan uzmanları, kimyagerler, kimya mühendisleri vb. ile görüşmeler yapmaları sağlanabilir. Bu görüşmelerden sentezledikleri bilgiler ışığında öğrenciler, kimya biliminin günlük hayatı kolaylaştırmasına ilişkin yenilikçi çözüm önerileri sunma konusunda teşvik edilebilir. Aynı amaçla öğrencilere kimya biliminin mesleklere olan katkılarına yönelik bir kamu spotu hazırlatılabilir.",
+    "*Öğrenciler, atom modellerini kronolojik bir sıra ile gösteren ve açıklayan eğitici bir mobil uygulama veya web tabanlı bir simülasyon geliştirme projesini detaylı bir şekilde planlayabilir. Bu projenin aşamalarını belirlerken projeye hangi atom modellerinin dâhil edileceği ve bu modellerin nasıl görselleştirileceği kararını verirler. Ayrıca kullanıcıların etkileşimli olarak bu modelleri keşfetmelerini sağlayacak özellikleri tanımlayabilirler.",
+    "Öğrenciler; periyodik tablodan seçtikleri bir elementin tarihçesini, fiziksel ve kimyasal özelliklerini, kullanım alanlarını ve önemli kimyasal bileşikleri ayrıntılı bir şekilde araştırarak bilgi toplayabilir. Bu projenin sonunda hazırladıkları etkileyici poster veya sunumda elementin atom yapısından elektron dizilimine, kimyasal tepkimelerinden endüstriyel kullanımına kadar tüm yönlerini derinlemesine sunabilirler.",
+    "*Öğrencilerden kuantum atom modelini, Schrödinger denklemini ve orbital şekillerinin ilişkisini araştırmaları; web tasarım araçlarını kullanarak orbitallerin şekli ve uzaysal yönelimleri ile ilgili bilgi görseli/animasyon/sunu hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenmeöğretme uygulamalarında sınıf içi tartışma, çalışma yaprağı, performans görevi, kavram karikatürü, boşluk doldurma, zaman şeridi, yapılandırılmış grid ve etkinlik kâğıdı kullanılabilir.",
+    "Öğrencilerden performans görevi çerçevesinde kimyasal maddelerin özelliklerine ve günlük hayattaki kullanım alanlarının belirlenmesine yönelik haber yazısı yazmaları veya kamu spotu hazırlamaları istenebilir. Performan görevi \"gözlem ortamı oluşturma, kimyasal maddelerin ya da ürünlerin niteliklerindeki farklılıkları ortaya çıkarma, bu nitelikleri kimya bilimi ile ilişkilendirme ve niteliklerin günlük hayata katkısını değerlendirme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.9.1.1",
+    "Kimya alanında önemli projelerden biri olan İstanbul Kimya Teknoloji Merkezi (KTM) ve bunun gibi çalışmalar örnek verilerek kimya biliminin günlük hayata ve Türkiye ekonomisine katkısı vatanseverlik değeri kapsamında vurgulanabilir ( D19.3 , D19.4 , OB6 ) . Kimya biliminin günlük hayata katkısına ilişkin çıkarım yapabilmeleri için öğrencilere çeşitli ürünler (temizlik malzemeleri, mutfak gereç ve malzemeleri, öz bakım ürünleri, hazır gıdalar vb.) örnek olarak verilir. Öğrencilerden bu ürünlerin niteliklerini gözlemlemeleri istenir. Öğrencilerin bu ürünlerin özelliklerini, ürünlerin yapıldığı materyallerin kimyasal özellikleri ile kullanım biçimleri arasındaki ilişkiyi incelemeleri sağlanır. Öğrencilere bu süreçte gözlemledikleri ürünlere ilişkin niteliklerin farkını belirtmeleri amacıyla sınıf içi tartışma yaptırılabilir. Öğrencilerden ürünlerin kimya bilimi ile ilişkisini ve insan sağlığına etkisini belirlemek üzere veri toplamaları istenir ( OB7 ) . Öğrencilerin doğru ve güvenilir bilgiyi ayırt etmeleri, güvenilir bilgiye ulaşma yollarını bilmeleri sağlanır ( D3.3 ) . Kimya biliminin günlük hayata katkılarına ilişkin toplanan verilerin sağlık ve ekoloji açısından yorumlanması ve değerlendirilmesi için öğrenciler yönlendirilir ( OB1 ) . Böylece öğrencilerin edindikleri bilgileri eleştirel bakış açısıyla değerlendirmeleri, kimyasal maddelerin zararlı etkilerine karşı önlem almalarının sağlık açısından önemini fark etmeleri sağlanabilir ( D13.4 ) . Ayrıca veri toplama sürecinde öğrencilerin kendilerini değerlendirmeleri ve süreci geliştirmek için neler yapabileceklerini belirlemeleri istenebilir ( SDB1.2 ) . Kimya biliminin tanımı yapılır. Kimya biliminin alt disiplinleri, ele alınan örneklerle ilişkilendirilerek kısaca tanıtılır ( OB1 ) . Kimya biliminin gelişen teknolojilerle bağlantısı kurularak öğrencilerde kariyer bilinci oluşturulur. Kariyer bilinci oluşturulmasında Aziz Sancar ve Oktay Sinanoğlu'nun çalışmaları örnek verilir. Türk-İslam âlimlerinin ve kimya bilimine katkı sağlayan bilim insanlarının çalışmalarına ilişkin okuma parçası verilerek öğrencilerin kimya bilimine katkıda bulunan âlimlerin ve bilim insanlarının değerini bilmesi, onları takdir etmesi ve onlara karşı vefalı olması sağlanabilir ( D15.2 , OB5 ) . Öğrencilere sunulan çalışma yaprağı ile çeşitli kimyasal maddelerin özelliklerinin ve günlük hayattaki kullanım alanlarının belirlenmesi istenebilir. Performans görevi olarak öğrencilerden kimyasal maddelerin özelliklerini ve günlük hayattaki kullanım alanlarını belirlemeleri veya kimyasal maddelerin toplum ve çevre sağlığına etkilerine yönelik haber yazısı yazmaları veya kamu spotu hazırlamaları istenebilir ( D16.2 , E1.4 ) .",
+    "Öğrencilerin kimya dersine yönelik duygu ve düşüncelerini ifade etmeleri, bu dersin oluşturduğu yeni durumları fark etmeleri sağlanabilir; bu süreci kolaylaştırmak için neler yapılabileceği üzerinde durulabilir ( SDB3.1 ).",
+    "KİM.9.1.2",
+    "Kimyasal maddelerin kullanımı ve güvenlikle ilgili olarak Türk savaş gemilerini kimyasal, biyolojik, radyoaktif ve nükleer tehditlere karşı 7/24 koruma altına almak için geliştirilen Kimyasal, Biyolojik, Radyoaktif ve Nükleer (KBRN) Tespit ve Teşhis Sistemi Projesi ve bunun gibi çalışmalar örnek verilerek kimyasal maddelerin kullanımının önemine dikkat çekilebilir.Böylece vatanseverlik değerine vurgu yapılabilir ( OB6 , D19.1 , D19.4 ) . Laboratuvarda kimyasal maddeler ile çalışırken karşılaşılabilecek tehlikeleri önlemek için kimyasal maddelerin kullanımında nelere dikkat edilmesi gerektiği ile ilgili derse hazırlık aşamasında öğrencilere sorular sorulabilir. Kimyasal maddelerin zararlı etkileri ile ilgili sağlıklı yaşam çerçevesinde tartışma yürütülebilir ( D13.4 ) . Günlük hayatta kimyasal maddelerin hatalı kullanımı sonucu oluşan, farklı ortamlardaki kazalara ilişkin gerçek ya da kurgu örnek olaylar verilebilir. Öğrencilerden kimyasal maddelerin hatalı kullanımıyla ilgili olası problemleri belirlemeleri istenir. Bu sayede öğrencilerin fikirlerini birbirlerine saygılı davranarak ifade etmeleri, olayları ve durumları çok yönlü bir bakış açısıyla değerlendirmeleri sağlanır ( SDB2.3 , D14.1 ) . Belirledikleri problemlerin oluşma nedenleri tartışmaya açılır, öğrencilerden bu problemleri karşılaştırmaları ve genelleyerek özetlemeleri istenir ( E2.2 , OB7 ). Öğrencilerden probleme neden olan kimyasal maddeleri ve bu kimyasal maddelerin problemlere neden olabilecek tepkimelerini belirlemeleri istenebilir. Bu veriler temelinde söz konusu problemlerin veya kazaların önlenebilmesi için ne yapılması gerektiğine ilişkin öğrencilerden öneride bulunmaları beklenir ( OB7 ) . Bunun yanı sıra öğrencilerden günlük hayatlarında kimyasal maddelerin hatalı kullanımına ilişkin kendi davranışlarını, bunların olası sonuçlarını ve alabilecekleri önlemleri belirlemeleri istenebilir ( SDB1.3 , SDB3.3 ) . Öğrencilerin kazaların önlenmesi konusunda çözüm odaklı düşünmeleri, ayrıca kimyasal maddelerin yanlış kullanımından kaynaklanan problemler hakkında Kimyasal Maddelerin Kullanımı ve Güvenlik konusu temelinde akıl yürütmeleri sağlanır. Bu sayede öğrencilerde çevre sorunlarına yol açabilecek davranışlarla ilgili farkındalık oluşturularak kimyasal maddelerin zararlı etkilerine karşı önlem alınması konusunda duyarlı davranmaları istenir ( D5.2 , OB6 ) . Öğrencilerden laboratuvarda çalışma kuralları ve piktogramlar temelinde kimyasal maddelerin doğru şekilde kulla nılmamasından kaynaklanan problemlerin çözümüne ilişkin değerlendirmede bulunmaları istenir ( E3.10 , SDB2.2 , SDB3.3 , OB7 ) . Böylece öğrenciler, problemlere yaklaşırken olumlu bakış açısı sergileyerek çözüm odaklı düşünmeye yönlendirilir ( D12.1 ) . Bu bağlamda Türkiye Cumhuriyeti Çevre, Şehircilik ve İklim Değişikliği Bakanlığının kimyasal maddelerin yönetimi ve güvenliği konusunda yaptığı düzenlemelere dikkat çekilerek öğrencilerde çevre temizliğine ve sürdürülebilirliğe karşı duyarlılık geliştirilmesi sağlanır ( D5.2 , D18.3 ) . Boşluk doldurma soruları ile öğrencilerden sunulan piktogramların adlarını yazma ları istenebilir. Kavram karikatürleri verilebilir. Öğrencilerden kavram karikatürle rini inceleyerek karikatürlerde ortaya konan durumların hangilerinde laboratuvar güvenlik kurallarına uyulmadığını belirlemeleri istenebilir.",
+    "KİM.9.1.3",
+    "Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu (TENMAK) tarafından yürütülen, hızlandırıcı teknolojilerinin kullanıldığı atom veya atom altı düzeyde yapılan projeler örnek verilerek öğrencilerden ülkesinin kalkınmasını ve gelişmesini sağlayan millî projeleri tanıması beklenir ( OB6 , D19.1 , D19.4 ) . Öğrendikleri atom teorilerini kronolojik sıraya dikkat ederek sıralamaları ve atom teorilerinin varsayımlarını soru cevap tekniğiyle listelemeleri öğrencilerden istenir. Atom teorilerinin gelişim sürecinde atomun yapısına ilişkin niteliklerin farkını ortaya çıkarmaya ilişkin sorular sorulur. Böylece yeni bir atom modelinin gerekliliğine dikkat çekilir ve modern atom teorisine geçiş yapılır ( E1.1 , OB7 ) . Modern atom teorisi işlenirken Heisenberg belirsizlik ilkesi ve orbital kavramı vurgulanır. Elektron, proton ve nötronun keşif süreçleri animasyon, video vb. araçlarla öğrencilere sunulabilir ( OB2 ) . Proton, nötron ve elektronun keşif tarihi, yükü, kütlesi hazır veri seti olarak verilerek atom altı parçacıkların keşfi ile atom teorilerinin ilişkilendirilmesi sağlanır. Tarihsel süreçte atomun yapısındaki en küçük tanecikler hakkında ortaya konan görüşler, bilginin değişebilirliği ile ilişkilendirilerek değerlendirilir ( OB4 ) . Böylece öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olması sağlanır ( D3.3 ) . Dalton, Thomson ve Rutherford atom modellerini içeren elektronik içerik sunulur. Atomun temel tanecikleri açıklanır. Bohr atom teorisi ve bu teorinin eksiklikleri hakkında bilgi verilerek modern atom teorisi ile Bohr atom teorisi ilişkilendirilir. Öğrencilerden farklı atom teorilerini bir zaman şeridi üzerinde göstermeleri ve atom altı parçacıkların keşfine ilişkin değişen bilgileri listelemeleri istenebilir ( E3.7 ) .",
+    "KİM.9.1.4",
+    "Öğrencilere orbital türleri bilgisi verilir. Öğrenciler, etkinlik kâğıdında karışık olarak verilen atom orbitallerinin bağıl enerjileriyle ilgili önermeler oluşturmaları için yönlendirilir. Önerme oluştururken öğrencilerden konuyla ilgili hangi ön bilgilerini kullanacaklarını belirlemeleri de istenebilir ( SDB1.1 ) . Veriye dayalı olan ve olmayan önermeler, öğrenciler tarafından karşılaştırılır. Bu sayede olay ve durumların çok yönlü bakış açısıyla değerlendirilmesi, olay ve durumlar karşısında değişik bakış açılarının olabileceğinin fark edilmesi sağlanır ( SDB2.1 , D10.3 , D14.1 ) . Öğrencilerin orbital türleri ve bağıl enerji düzeylerini gösteren diyagramı kullanarak geçersiz çıkarımları ayıklamaları ve geçerli tahminleri üzerinden atom orbitallerinin bağıl enerjilerine ilişkin yargıya varmaları sağlanır ( KB2.10 , OB7 ) . Etkinlik kâğıtları \"öğrencilerin önerme oluşturabilmesi, önermelerin veriye dayalı olup olmadığını ayrıştırabilmesi, geçersiz çıkarımları ayıklayabilmesi ve bir yargıya varabilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Etkinlik kâğıtlarında öğrencilerin etkinlikteki öğrenme sürecini ve kendilerinde geliştirebilecekleri yönleri belirlemeleri istenebilir ( SDB1.2 ) . Öğrencilerden çalışma yaprağında karmaşık bir liste hâlinde verilen orbital türlerini bağıl enerjilerine göre sıralamaları istenebilir.",
+    "KİM.9.1.5",
+    "Elektronların atom orbitallerine yerleşimi ile atomun kararlılığı arasındaki ilişkiye dair tartışma ortamı oluşturulur ( SDB2.1 ) . Öğrencilerin elektronların atom orbitallerine dizilim ilkelerine ulaşmasını sağlamak için farklı atomlara ait elektron dizilimleri, orbital şemalarıyla birlikte örnek olarak verilir. Elektron dizilim ilkelerine ilişkin sorular sorularak elementlerin elektron dizilimlerindeki örüntüyü öğrencilerin belirlemeleri sağlanır. Örüntülerden genellemeler yaptırılarak Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına ulaşılması sağlanır ( OB7 ) . Valans elektron kavramı açıklanır. Küresel simetri özelliği gösteren atomların elektron dizilimi ile atomların kararlılığı arasında ilişki kurulur ( KB2.9 ) . Öğrencilerden çalışma yaprağında verilen farklı atomların elektron dizilimlerini Aufbau ilkesi, Pauli dışlama ilkesi ve Hund kuralına göre yazmaları istenebilir. Atom orbitallerinin ve elektron diziliminin renklerin algılanmasından elektronik cihazların işleyişine, ilaç geliştirmeden yenilenebilir enerji teknolojilerine kadar günlük hayatın birçok yönü ile nasıl bütünleştiğini gösteren örnekler verilebilir.",
+    "KİM.9.1.6",
+    "Periyodik tablodaki grupların harf ve sayı (1A, 2B gibi) kullanılarak ya da IUPAC sistemine göre numaralar (1. grup, 18. grup gibi) verilerek adlandırılabileceği bilgisi verilir. Katman elektron dağılımının ilk 36 element için uygulanabilirliğine dair sorular sorulabilir. Öğrencilerin elementlerin periyodik tabloda yerlerinin belirlenmesine ilişkin kurallarla ilgili akıl yürütebilmelerini sağlayacak örnekler etkinlik kâğıdında yer alır. Elementlerin elektron dizilimi ve periyodik tablodaki yer bilgisi örneklerde verilir. Öğrencilerden örnekleri inceleyerek atomların elektron dizilimi ile periyodik tablodaki yerleri arasındaki ilişkiyi açıklamaları istenir. Bu açıklamalar doğrultusunda verilen örnekleri kullanarak öğrencilerin periyodik tabloda yer bulma kurallarına ilişkin örüntü bulmaları sağlanır ( E3.4 , OB1 ) . Öğrencilerden buldukları örüntüyü A ve B grubu elementlerini içeren yeni örnekler üzerinde denemeleri istenir. Öğrenciler, elementlerin periyodik tablodaki yerlerini belirleyen kurallara ilişkin genelleme yapmaları için yönlendirilir. Elementlerin periyodik tablodaki yerlerini belirleyen bilimsel kurallar verilir. Öğrencilerden yaptıkları genellemeleri bilimsel kurallar ile karşılaştırmaları istenir ( OB1 ) . Elementlerin elektron dizilimleri, periyodik tabloda yer aldığı blok ile ilişkilendirilir. Periyodik tablo üzerinde d ve f blokları (lantanit ve aktinit) ile 1A, 2A, 3A, 7A ve 8A gruplarının özel adları ve bu grupların genel özellikleri verilir. Yapılandırılmış grid aracılığı ile öğrencilerden atomların periyodik tablo bilgilerini belirlemeleri istenebilir. Ayrıca etkinlik kâğıtları \"örüntü oluşturabilme, örüntüleri yeni örnekler üzerinde deneyebilme, örüntüleri genelleyebilme ve genellemeleri verilen kurallarla karşılaştırabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen veya öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.9.1.7",
+    "Öğrencilere katyon ve anyon oluşumunda son katmandaki elektronların etkililiği ile ilgili sorular sorulabilir. Elementlere (ilk 20 element) ait atomların elektron dizilimi kullanılarak valans elektronlarına göre oluşturulan katyon ve anyonların elektron dizilimleri hazır veri seti ile sunulur ( OB7 ) . Hazır veri seti kullanılarak katyon ve anyon oluşumuna ilişkin sorularla öğrencilerin örüntü bulması sağlanır. Öğrenciler, belirlenen örüntülerden yola çıkarak katyon ve anyon oluşumuna ilişkin genelleme yapmaları için yönlendirilir ( OB1 ) . İzoelektronik taneciklere ilişkin örnekler verilerek öğrencilerin izoelektronik kavramını tanımlamaları sağlanır ( KB2.7 , SDB2.1 , OB1 ) . Öğrencilerden çalışma yaprağında verilen atomların elektron dizilimlerini yazarak iyon oluşum sürecinde elektronların hangi orbitallerden verileceği veya hangi orbitallere alınacağını belirlemeleri istenebilir.",
+    "KİM.9.1.8",
+    "Atom yarıçapı kavramı tanımlanır. Öğrencilerden A grubu elementlerinin atom yarıçaplarına ilişkin verileri kullanarak periyodik tablonun aynı periyot veya grubunda atom yarıçapındaki (2 veya 3. periyot) değişim eğilimini ve bu eğilime neden olan etmenleri belirlemeleri istenir. Atom yarıçaplarının aynı gruptaki değişiminin enerji seviyeleri ile, aynı periyottaki atom yarıçaplarının değişiminin ise protonelektron sayısındaki değişim ile ilişkilendirilmesi sağlanır ( OB7 ) . Öğrencilerden çalışma yaprağında atom numaraları verilen farklı atomların yarıçaplarını periyodik tablodaki konumları ile ilişkilendirerek sıralaması istenir. Geometrik cisimlerdeki yarıçap sabit bir uzaklık olarak düşünülürken atom yarıçapının çeşitli faktörlere bağlı olarak değişkenlik gösterdiği ve net bir ölçümünün yapılamadığı düşüncesi oluşturulur. Öğrencilerin izoelektronik taneciklerin atom veya iyon yarıçaplarındaki farklılıkların çekirdek yükü ve elektronelektron itme etkileşimlerinden kaynaklandığını fark etmeleri sağlanır ( OB7 ) .",
+    "İyonlaşma enerjisi kavramı tanımlanır. Öğrencilerden A grubu elementlerinin 1. iyonlaşma enerjisi, atom numarası ve atom yarıçapına ilişkin verileri kullanarak periyodik tablonun aynı periyot (2 veya 3. periyot) veya grubunda 1. iyonlaşma enerjilerinin değişimini ve bu değişime neden olan etmenleri belirlemeleri istenir. Öğrenciler, bir periyot veya grup boyunca atom yarıçapı ve iyonlaşma enerjisi arasındaki ilişkinin geçerliliğini sorgulamak üzere yönlendirilir. Aynı periyotta bazı atomların iyonlaşma enerjisinin değişimindeki düzensizliğin nedeninin küresel simetri kavramı ile ilişkilendirilmesi sağlanır ( OB7 ) . A grubu elementlerine ait ardışık iyonlaşma enerjileri bilgisi verilerek kararlı iyon oluşumu ve valans elektron sayısı ilişkisinin belirlenmesi sağlanır. Öğrencilerden çalışma yaprağında atom numaraları verilen farklı atomların iyonlaşma enerjilerini periyodik tablodaki konumu ile ilişkilendirerek sıralamaları istenebilir.",
+    "Elektronegatiflik tanımı verilerek bu tanımın göreceli bir kavram olduğu belirtilir. Elektro negatifliğin moleküllerin bazı özelliklerinin (polarlık, apolarlık) anlaşılmasında önemli bir kavram olduğu vurgulanır. Periyodik tabloda elementlerin (ilk 20 element) Pauling ölçeğinde elektronegatiflik değerleri verilir. Öğrenciler, verilen elektronegatiflik değerleri üzerinden periyodik tabloda periyot ve gruplardaki değişim eğilimini, bu eğilime neden olan etmenleri belirlemeleri için yönlendirilir. Bu öğretim sürecinde öğrencilerin periyodik tabloda gözlenen elektronegatiflik değişimlerini atom yarıçapı ile ilişkilendirmeleri sağlanır ( OB7 ) . Öğrencilerden çalışma yaprağında atom numaraları verilen farklı atomların elektronegatiflik değerlerini periyodik tablodaki konumu ile ilişkilendirerek sıralamaları istenebilir. Ayrıca çalışma yaprağındaki farklı atom numaralarına sahip elementlerin elektronegatiflik değerlerini bu elementlerin periyodik tablodaki konumlarına göre analiz ederek sıralamaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D12.1",
+      "D13.4",
+      "D14.1",
+      "D15.2",
+      "D16.2",
+      "D18.3",
+      "D19.1",
+      "D19.3",
+      "D19.4",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4",
+      "E2.2",
+      "E3.10",
+      "E3.4",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.7",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5",
+      "OB6",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/92"
+}

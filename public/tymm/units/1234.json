@@ -1,0 +1,68 @@
+{
+  "unitId": 1234,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "2. TEMA: NEYDE MAKAMLAR VE UYGULAMALARI 6",
+  "hours": "17",
+  "description": "Temanın içeriğini Türk müziğindeki buselik ve karcığar makamlarında ney ile etüt ve Türk müziği eserlerini çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan buselik ve karcığar makamlarında etütleri ve eserleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.8.2.1",
+      "title": "Buselik makamında Türk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) Buselik makamında Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak buselik makamında Türk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "NEY.8.2.2",
+      "title": "Karcığar makamında Türk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) Karcığar makamında Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak karcığar makamında Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "makam, ney, Türk müziği",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Öğretmenin yardımı ile makamların barındırdığı seslerden oluşan etütler sık tekrar edilebilir. Eserler ve etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup, eseri ney ile seslendirirken diğer grup, eserin solfejini yapabilir. Türk müziği teori uygulama dersinde buselik, karcığar ve segâh makamlarında öğrendikleri eserleri ney ile çalmaları istenebilir"
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak tema içeriğinde öğrendiği makamlardan iki tanesini seçip kendi melodilerini oluşturmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.8.2.1",
+    "Öğretmen tarafından buselik makamından oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Buselik makamının genel özellikleri anlatılarak, makamın dizisi gösterilip solfeji yapılır ve öğrencilerin odaklanıp makamın genel özelliklerini yorumlamaları sağlanır ( OB1 , E3.2 ). Daha sonra öğretmen, buselik makamından oluşan etüt ve Türk müziği eserlerini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler öğretmen tarafından yapılan bona ve solfeji inceleyip, etüt ve Türk müziği eserlerinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği buselik makamındaki etüt ve Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin etütleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Buselik makamının belirgin şekilde algılanması için uzun seslerden oluşan etütler ve Türk müziği eserleri, öğretmen tarafından doğru teknik ile ezgisel yapıya uygun olarak çalınır. Öğrencilerin, gözlemlerinden sonra eserleri ve etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar kontrol listesi ile değerlendirilebilir. Performans görevi olarak tema içeriğinde öğrendiği makamlardan iki tanesini seçip kendi melodilerini oluşturmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir.",
+    "NEY.8.2.2",
+    "Öğretmen tarafından karcığar makamından oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Karcığar makamının genel özellikleri anlatılarak, makamın dizisi gösterilip solfeji yapılır ve öğrencilerin odaklanıp makamın genel özelliklerini yorumlamaları sağlanır ( OB1 , E3.2 ). Daha sonra öğretmen, karcığar makamından oluşan etüt ve Türk müziği eserlerini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler, öğretmen tarafından yapılan bona ve solfeji inceleyip, etüt ve Türk müziği eserlerinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği karcığar makamındaki etüt ve Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin etütleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Karcığar makamının belirgin şekilde algılanması için uzun seslerden oluşan etütler ve Türk müziği eserleri, öğretmen tarafından doğru teknik ile ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemlerinden sonra eserleri ve etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB10"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1234"
+}

@@ -1,0 +1,78 @@
+{
+  "unitId": 81663003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "3. ÜNİTE: PROGRAMLAMAYA GİRİŞ VE ALGORİTMA - 3. ÜNİTE: PROGRAMLAMANIN TEMEL KAVRAMLARI",
+  "hours": "14",
+  "description": "Bu ünitede sırasıyla; programlamada kullanılan işlem ve semboller, veri türleri, karar ve döngü yapıları ve ikisinin birlikte kullanıldığı bir program tasarlama üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.3.1",
+      "title": "Programlamada kullanılan işlem ve sembolleri listeler",
+      "processComponents": [
+        "Programlama dillerinde basit farklılıklar gözlemlense de ortak kullanılan kavramlar olduğu açıklanır. Operatörler, değişkenler, koşullar, döngüler gibi temel programlama kavramlarının gerekliliği ve programın akışını yönlendirmesi üzerinde durulur.",
+        "Matematikte kullanılan sembollerle programlamada kullanılan sembollerin benzer ve farklı yönleri gösterilerek kullanım amaçları açıklanır.",
+        "Yazılan programlama diline göre aynı sembollerin farklı anlamlar ifade edebileceği söylenir, bu durum örneklendirilir."
+      ]
+    },
+    {
+      "code": "BTY.3.2",
+      "title": "Veri türlerini amacına uygun şekilde programa tanımlar",
+      "processComponents": [
+        "Veri kavramının tanımı yapılarak farklı veri türleri olduğu ifade edilir.",
+        "Veri türlerini doğru bir şekilde tanımlamanın programlamadaki önemi üzerinde durulur.",
+        "Farklı programlama dillerine ait veri türleri olduğu dile getirilir. Programda değişkenlerde tutulacak verinin kullanım amacına uygun olarak saklanmasının önemi kavranır. Aynı verinin farklı amaçlarda kullanılabileceği ve programa tanımlanabileceği durumlar örneklendirilir.",
+        "Kullanılan programlama diline göre veri türlerinin isimlendirmesinin değişebildiğinden bahsedilir.",
+        "Sayısal veya metinsel veri türü tanımlamaları örnekler üzerinden gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.3.3",
+      "title": "Farklı veri türlerini program içerisinde kullanır",
+      "processComponents": [
+        "Her program farklı bir amaca hizmet edeceğinden ihtiyaç duyabileceği veri türlerinin farklı olabileceği açıklanır. Bu veri türlerinin programın amacına yönelik tanımlanması sağlanır. Tanımlanan verilerin sayı, metin, dizi gibi ait olduğu programın veri türüyle kullanılması sağlanır.",
+        "Seçilen veri türüne göre alt veri türleri açıklanır.",
+        "Sayısal veri türünde tam sayı veya ondalıklı sayı kullanımında tanımın değişeceği, program içerisinde veri türüne göre sonuçların etkilenebileceği örneklendirilir.",
+        "Byte, integer, long, float, string, boolean, char kavramları örneklerle açıklanır.",
+        "Birden fazla aynı tür veriyi depolayabilen dizi kavramından bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.3.4",
+      "title": "Karar yapılarını kullanarak programı geliştirir",
+      "processComponents": [
+        "Farklı problem durumlarında programın akışına yön vermenin gerekliliği açıklanır.",
+        "Karar yapılarında önemli bir yeri olan mantıksal operatörler ile ilgili bilgi verilir.",
+        "Programlama dillerinde kullanılan if-else ve else if yapılarına örnekler verilir.",
+        "Öğrencilerin birden fazla koşul durumuyla program tasarlaması sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.3.5",
+      "title": "Döngü yapılarını kullanarak programı geliştirir",
+      "processComponents": [
+        "Programda tekrar eden yapıları kullanmanın sağladığı kolaylıklar anlatılır. Programcının iş yükünü hafifletecek farklı döngü yapıları olduğundan bahsedilir.",
+        "Programlamada döngü yapılarını kullanmanın kod tekrarının önüne geçerek daha anlaşılır ve sade programlar yazmak için önemli olduğu vurgulanır.",
+        "Hangi döngü yapısının kullanılması gerektiğine programın amacına yönelik karar verileceği belirtilir. For, while vb gibi temel döngü yapılarının işlevi açıklanır.",
+        "Döngünün temel taşları olan başlangıç ve bitiş değeri, artış miktarı ve devam etme koşulunun ne olduğu ifadeleri açıklanır.",
+        "Verilen bir problemi döngü yapısı kullanarak ve kullanmadan çözmeleri istenerek aradaki farkı görmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.3.6",
+      "title": "Döngü ve karar yapıları ile program tasarlar",
+      "processComponents": [
+        "Öğrencilere döngü ve karar yapılarını içinde barındıran problemler verilerek bu problemin algoritmasını tasarlamaları ve akış diyagramlarını çizmeleri istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

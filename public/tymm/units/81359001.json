@@ -1,0 +1,41 @@
+{
+  "unitId": 81359001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Genetik Bilimine Giriş Dersi",
+  "title": "1. ÜNİTE: GENETİK BİLİMİ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GBG.1.1.1",
+      "title": "Genetik biliminin tarihî sürecini açıklar",
+      "processComponents": [
+        "Genetik bilimiyle ilgili olarak milattan önceki bilim insanlarından Pisagor, Empedokles ve Aristo'nun genetik bilimi ile ilgili görüşleri açıklanır.",
+        "Genetik bilimiyle ilgili milattan sonra yapılan bilimsel çalışmalar kronolojik sıraya göre açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.1.2.1",
+      "title": "Genetik kavramını açıklar",
+      "processComponents": [
+        "Genetik bilimi ile bu bilimin kapsadığı ve etkileşim içinde olduğu alanlar arasındaki ilişkiye değinilir."
+      ]
+    },
+    {
+      "code": "GBG.1.3.1",
+      "title": "Genetikle ilgili temel kavramları açıklar",
+      "processComponents": [
+        "Genetikle ilgili temel kavramlar (gen, alel, lokus, kromozom, homolog kromozom, homozigot, heterozigot, dominant/baskın, resesif/çekinik, genotip, fenotip, karakter, özellik, bağımsız gen ve bağlı genler) açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249593601-genetik.pdf"
+}

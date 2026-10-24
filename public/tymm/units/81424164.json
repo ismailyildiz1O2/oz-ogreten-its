@@ -1,0 +1,36 @@
+{
+  "unitId": 81424164,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "164. ÜNİTE: HALK OYUNLARI - BAR",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.5.1",
+      "title": "Bar oyunlarının çeşitlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.5.2",
+      "title": "Bar oyunlarının çeşitlerinin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.5.3",
+      "title": "Bar oyunlarını uygular",
+      "processComponents": [
+        "Çalışmalara bedensel ısınma hareketleri ile başlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

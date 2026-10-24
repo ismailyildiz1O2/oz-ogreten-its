@@ -1,0 +1,143 @@
+{
+  "unitId": 111,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "3. ÜNİTE: ELEKTRİK",
+  "hours": "22",
+  "description": "Bu ünitede öğrencilerin elektrik akımının günlük hayattaki yerinin farkına varmaları, basit elektrik devrelerinde elektrik akımının oluşumunu sağlayan sebepleri çözümlemeleri, elektrik akımının işlevsel tanımını yapmaları, potansiyel fark, direnç ve elektrik akımının ölçümü ve bu kavramlar arasındaki ilişkiyi analiz etmeleri amaçlanmaktadır. Ayrıca öğrencilerin dirençlerin bağlanma türüne göre eşdeğer direnci hesaplamaları, üreteçlerin bağlanma türüne göre devreye sağladığı potansiyel farkı hesaplamaları, elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkında bilgi toplamaları ve topraklama olayının önemini sorgulamaları hedeflenmektedir.",
+  "outcomes": [
+    {
+      "code": "FİZ.10.3.1",
+      "title": "Basit elektrik devresinde potansiyel fark, elektrik akımı ve direnç kavramlarının tanımına ilişkin analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Basit elektrik devresi ile su tesisatının bileşenlerini gözlemler.",
+        "b) Basit elektrik devresi ile su tesisatının bileşenleri arasındaki benzerlikleri ve farklılıkları tespit eder.",
+        "c) Benzerliklere dayalı olarak basit elektrik devresindeki potansiyel fark, elektrik akımı ve direncin tanımı hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FİZ.10.3.2",
+      "title": "Elektrik yükünün hareketi üzerinden elektrik akımı kavramını çözümleyebilme",
+      "processComponents": [
+        "a) Bir iletkende elektrik akımı oluşması ile ilgili değişkenleri belirler.",
+        "b) Elektrik akımını oluşturan değişkenler arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "FİZ.10.3.3",
+      "title": "Ohm Yasası ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Elektrik akımı, direnç ve potansiyel fark arasındaki ilişkiyi deney yoluyla keşfederek Ohm Yasası'nın matematiksel modeline ulaşır.",
+        "b) Ohm Yasası'nın matematiksel modeli üzerinden genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.10.3.4",
+      "title": "Dirençlerin bağlanma türüne göre eşdeğer dirence ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Dirençlerin seri, paralel ve birleşik bağlanma türlerini tanımlar.",
+        "b) Dirençlerin seri, paralel ve birleşik bağlanması ile eşdeğer direnç arasındaki ilişkiyi belirlemek üzere veri toplar ve kaydeder.",
+        "c) Elde ettiği verileri yorumlayarak ulaştığı çıkarımları matematiksel modellemeleri kullanarak test eder."
+      ]
+    },
+    {
+      "code": "FİZ.10.3.5",
+      "title": "Üreteçlerin bağlanma türüne göre devreye sağladıkları potansiyel farka ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Üreteçlerin seri ve paralel bağlanma türlerini tanımlar.",
+        "b) Üreteçlerin seri ve paralel bağlanması durumunda devrenin potansiyel fark, ana kol akımı ve üreteçlerin tükenme süreleri arasındaki ilişkiyi belirlemek üzere veri toplayarak kaydeder.",
+        "c) Elde ettiği verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.10.3.6",
+      "title": "Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlerle ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlere ilişkin bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler ile ilgili bilgileri bulur.",
+        "c) Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkında ulaşılan bilgileri doğrular.",
+        "ç) Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkındaki ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "FİZ.10.3.7",
+      "title": "Topraklama olayının önemini sorgulayabilme",
+      "processComponents": [
+        "a) Topraklama olayını tanımlar.",
+        "b) Topraklama olayıyla ilgili sorular sorar.",
+        "c) Topraklama olayı hakkında bilgi toplar.",
+        "ç) Topraklama olayı ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Topraklama olayının önemi hakkında çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "elektrik akımı, potansiyel fark, direnç, Ohm Yasası, kısa devre, eşdeğer direnç, topraklama",
+  "support": [
+    "Bileşenler ve bileşenlerin rolleri hakkında yönlendirici sorular kullanılabilir. Deney tasarlama, veri toplama, veri işleme ve sonuca varma süreçlerinde deneyin yapılışına dönük, adım adım yönergeler ve hazır veri toplama şablonları geliştirilebilir. Deney tasarlama, veri toplama, veri işleme ve sonuca varma süreçlerinde deneyin yapılışına dönük adım adım yönergeler ve hazır veri toplama şablonları geliştirilebilir. Dirençlerin birleşik bağlanması ve üreteçlerin seri bağlandığı devrelerde ters bağlanma işlemleri verilmeyebilir."
+  ],
+  "enrichment": [
+    "Katı bir iletkenin direncinin sıcaklığa bağlı olarak değişimi incelenebilir. Öğrencilerden dirençlerin renk kodları ile hesaplama yapmaları istenebilir. Öğrencilerin batarya üzerinde bulunan değerleri yorumlayarak bataryaların şarj olma veya tükenme süreleri hakkında çıkarımlarda bulunması sağlanabilir. Dirençlerin bağlanmasında Wheatstone köprüsüyle ilgili matematiksel işlemler yapılabilir.",
+    "*Elektromotor kuvvet kavramını açıklayarak iç dirençleri olan üreteçler ile ilgili matematiksel işlemler yapılabilir.",
+    "*Programlama ile sanal deney hazırlama ve paylaşma yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, kavram haritası, poster, grafik çizimi, bilgi görseli, deney tasarlama, afiş, sınıf içi sunum ve açık uçlu madde kullanılarak değerlendirilebilir.",
+    "Potansiyel fark, elektrik akımı ve direnç kavramlarının su tesisatı analojisi yoluyla açıklanması hakkında eşleştirmeli, boşluk doldurmalı ya da açık uçlu sorular içeren bir çalışma yaprağı kullanılabilir. Bir iletken içerisinde elektrik akımı oluşması ile ilgili değişkenleri (zaman ve yük miktarı) ve bu değişkenler arasındaki ilişkileri göstermek için kavram haritası hazırlanması istenebilir. Kavram haritasının değerlendirilmesinde kullanılan kavram sayısı, ilişkiler, örnekler vb. ölçütler kullanılarak oluşturulan analitik dereceli puanlama anahtarı kullanılabilir. Potansiyel fark ve elektrik akımı arasındaki ilişkiyi veren grafiğin çizilmesi istenebilir. Grafiğin değerlendirilmesi kontrol listesi ile yapılabilir. Öğrencilerden laboratuvar ya da bilgisayar ortamında elektrik akımı, direnç ve potansiyel fark arasındaki ilişkilerin irdelenebileceği bir deney yapmaları ve yapılan deneyle ilgili bir poster hazırlamaları istenebilir. Poster ve sunumun değerlendirilmesi için dereceli puanlama anahtarından yararlanılabilir. Açık uçlu sorular puanlama anahtarı ile değerlendirilebilir. Elektrik akımı, direnç ve potansiyel fark kavramlarına ait ulaştıkları matematiksel model ile ilgili açık uçlu madde türünden oluşan sorular verilebilir. Açık uçlu madde soruları ve çalışma yaprağı puanlama anahtarı ile değerlendirilebilir. Öğrenciler dirençlerin seri, paralel ve birleşik bağlanmaları hakkındaki bilgi görseli ile değerlendirilebilir. Dereceli puanlama anahtarı ve öz ya da akran değerlendirme formlarından biri kullanılabilir. Üreteçlerin seri ve paralel bağlanma nedenlerini açıklamak için bir deney tasarımı yapmaları ve ardından tasarımlarını sunmaları şeklinde bir performans görevi verilebilir. Deney tasarımı ve sunum için dereceli puanlama anahtarı kullanılabilir. Direnç ve üreteçlerin farklı şekillerde bağlı olduğu elektrik devreleri ile ilgili açık uçlu sorular yolu ile matematiksel işlemler yaptırılır. Yapılan işlemler puanlama anahtarı ile değerlendirilebilir. Elektrik akımı tehlikelerine karşı alınacak önlemler ile topraklamanın önemi hakkında daha önce toplanan bilgilerin grup çalışması hâlinde bir sunumunun hazırlanması istenir. Sunumlar öğretmen tarafından dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "FİZ.10.3.1",
+    "Öğretmen, öğrencilerin elektrik akımının oluşumunu anlamaları için su analojisinden yararlanır ( E1.1 ) . Elektrik akımının elektronların küçük hızlarla sürüklenmesi sonucu oluştuğuna vurgu yapar. Öğrenciler elektrik devresindeki elemanları ve devredeki rollerini, su tesisatındaki elemanları ve tesisattaki rollerini gözlemler. Bu gözlem ve öğretmenin soru cevap tekniğindeki yönlendirici sorularına dayalı olarak öğrenciler basit elektrik devresi ve su tesisatının elemanlarına ilişkin düşünceleri arasındaki benzerlikleri ve farklılıkları belirler ( KB2.7 , SDB2.2 ) . Öğrenciler analojide yer alan suyun akışı sırasında tesisat elemanlarının rolleri ile elektrik akımının oluştuğu basit elektrik devresindeki elemanların rolleri arasında ilişki kurar ( OB4 , SDB1.1 ) . Suyun akışı ile elektrik akımına yönelik çıkarımlar yapar ve çıkarımlarını arkadaşları ile paylaşır ( D1.3 , D5.1 ) . Basit elektrik devrelerinin temel kavramları olan potansiyel fark, elektrik akımı ve dirence yönelik çıkarımlar yapar. Öğrencilere potansiyel fark, elektrik akımı ve direnç kavramlarıyla ilgili bir çalışma yaprağı verilebilir.",
+    "FİZ.10.3.2",
+    "Öğrencilerden su analojisindeki su akışının debisini açıklamaları istenebilir. Öğrenciler, analoji görselinden ve yönlendirici sorulardan faydalanarak ve su debisi üzerinden çözümleyerek elektrik akımını oluşturan etmenleri belirler. Öğrenciler öğretmen rehberliğinde gruplar oluşturur ( SDB2.2 ) . Öğrenciler elektrik akımı, yük miktarı ve zaman arasındaki ilişkiyi belirler. Öğrencilerden bir iletkende elektrik akımı oluşması ile ilgili değişkenleri ve bu değişkenler arasındaki ilişkilere yönelik kavram haritası hazırlanması istenebilir. Elektrik akımının katı, sıvı ve gazlardaki iletimine değinilir.",
+    "FİZ.10.3.3",
+    "Öğretmen, basit elektrik devresinde potansiyel fark, elektrik akımı ve direnç arasındaki ilişkinin ortaya konulabilmesi için örnek olay veya problem çözme gibi yöntemlerden birinden ya da 5E öğrenme modelinden faydalanabilir. Potansiyel fark, elektrik akımı ve direnç arasındaki ilişki hakkında öğrencilerin görüşleri alınabilir. Potansiyel fark, elektrik akımı ve direnç arasındaki ilişkiye yönelik hipotezler kurulur. Benzer hipotezlere odaklanan ( E3.2 ) öğrenciler öğretmen rehberliğinde aynı gruplara dâhil edilebilir. Öğretmen bir devre elemanının uçları arasındaki potansiyel farkın ve üzerinden geçen akımın ölçüm yöntemini açıklar. Gruplar potansiyel fark ve elektrik akımı arasındaki ilişkiyi gözlemleyebilecekleri deneyler tasarlar ( SDB1.2 ) . Deneyden önce sağlığını olumsuz etkileyecek risk faktörlerine karşı gerekli güvenlik tedbirlerini alır ( D13.4 ) . Öğrenciler direncin sabit tutulduğu deney setinde, potansiyel farkı değiştirerek ölçtükleri elektrik akımı değerlerini tablo şeklinde not eder. Potansiyel fark, elektrik akımı ve direnç arasındaki ilişkileri ortaya koyan grafikleri çizerek analiz eder. Yaptığı analizden yararlanarak elektrik akımı, potansiyel fark ve direnç arasındaki ilişkiyi veren matematiksel modele ulaşır ( KB2.10 ) . Elde ettiği matematiksel modeli basit elektrik devreleri için kullanarak genelleme yapar. Öğrencilerden benzer bir deney tasarlamaları ve bu tasarımı poster hâlinde sunmaları istenebilir. Öğretmen ulaşılan matematiksel modelle ilgili açık uçlu sorularda reosta ve katı iletkenin direncinin bağlı olduğu değişkenlerden yararlanabilir. Üreteçlerin iç direnci ile ilgili matematiksel hesaplamalardan kaçınılır. Elektromotor kuvvet kavramına girilmez. Öğretmen ulaşılan matematiksel modelle ilgili açık uçlu sorular sorabilir.",
+    "FİZ.10.3.4",
+    "Öğretmen, öğrencilerin heterojen ve dengeli gruplar oluşturmalarını sağlayarak onları çalışmalarda aktif rol almak ve birbirlerine destek olmak konularında teşvik eder ( D1.3 , D3.1 , D4.1 , E2.2 , SDB2.1 ) .Öğretmen bir direnç yerine en az üç direnç olması durumunda bu dirençlerin kaç farklı şekilde bağlanabileceğini sorar. Öğrenciler dirençlerin farklı bağlandığı devrelerin şematik olarak çizimlerini yapar ve farklı bağlama türlerini tanımlar. Grupların oluşturdukları farklı bağlamaların isimlerinin seri, paralel ve birleşik (seri ve paralel bağlı dirençlerin bir arada bulunduğu devre) bağlama olduğu ifade edilir. Öğretmen, dirençlerin seri veya paralel bağlandığı durumlarda devrenin eşdeğer dirence ve ana koldaki akıma ilişkin öğrencilerin ön bilgilerine dayalı tahminlerini sorabilir. Gruplar, verdikleri cevaplar sonucunda kendi hipotezlerini oluşturabilir. Gruplara hipotezlerini test etmeleri için en az üç direnç, bağlantı kabloları, üreteç, ampermetre, voltmetre ve ohmmetre verilebilir. Öğrenciler seri, paralel ve birleşik bağlanma türlerine yönelik deney tasarlar ( SDB1.2 ) . Öğrenciler, deneysel gözlemlerden çıkardıkları sonuçlara dayanarak voltmetre ve ampermetrenin bağlama şekillerinin ve kısa devre oluşmasının nedenlerini ifade eder ( E1.5 , E3.4 , KB2.11 ) . Gruplar seri, paralel ve birleşik bağlı dirençlerin eşdeğer direncini, ana koldaki akımı ve dirençlerin uçları arasındaki gerilimi ölçerek verileri toplayıp kaydeder. Gruplarda aktif rol alan öğrenciler, elde ettikleri veriler ışığında çıkarım yapar. Eşdeğer direncin hesaplanması ile ilgili verilen matematiksel modelleri kullanarak çıkarımlarını test eder ( E3.6 ) . Gruplar dirençlerin seri, paralel ve birleşik bağlama konusunda sorumluluklarını yerine getirirken özverili davranarak ve yardımlaşarak ( D16.3 , SDB2.2 ) hazırladıkları bilgi görseli çalışmasını sınıfa sunar. Öğrencilerden açık uçlu sorularla eşdeğer direnç hesaplamayla ilgili matematiksel işlem yapmaları istenir. Dirençli devrelerle ilgili yapılan hesaplamalarda Kirchoff'un potansiyel fark ile ilgili ikinci yasasına girilmez.",
+    "FİZ.10.3.5",
+    "Kumanda, oyuncak, el feneri gibi üreteç kullanılan elektrikli aletler gösterilerek buradaki üreteçlerin bağlanma şekilleri ile ilgili tartışma yapılabilir. Tartışmada öğrencilerin üreteçlerin farklı şekilde bağlanmasının gerekçeleri hakkındaki düşüncelerini bağlama uygun şekilde ifade ederek ( SDB2.1 ) beyin fırtınası yapmaları sağlanır. Öğrenciler, öğretmen rehberliğinde gruplar oluşturabilir. Gruplardan üreteçlerin seri veya paralel bağlanmasının gerekçelerini ( E1.6 ) açıklayabilecekleri deney tasarlamaları ( SDB1.2 ) istenir. Tasarlanacak deneyde üreteçlerin seri olarak düz ve ters bağlanmasına da girileceği belirtilir. Öğrenciler, üreteçlerin seri ve paralel bağlama türlerini tanımlar. Öğrenciler, tasarladıkları deneyde akım ve potansiyel fark ölçümü yapar ve ölçümler sonucu elde ettikleri verileri toplayarak kaydeder ( E3.7 ) . Toplanan verilerin analizine dayalı olarak devredeki potansiyel fark ve üreteçlerin tükenme süreleri hakkında çıkarımlar yapar. Üreteçlerin farklı şekillerde bağlanmaları ile ilgili matematiksel işlemler yapar. Üreteçlerin farklı bağlanmalarına dayalı problem çözümlerinde üreteçlerin iç direnci ihmal edilir. Paralel bağlamalarda da sadece özdeş üreteçler kullanılır. Öğrencilerden üreteçlerin seri ve paralel bağlanma nedenlerini açıklamak için yapılan deney tasarımı hakkında sunum yapmaları istenebilir. Açık uçlu sorular ile öğrencilerin üreteçlerin farklı şekillerde bağlanmaları ile ilgili matematiksel işlemler yapması sağlanır.",
+    "FİZ.10.3.6",
+    "Öğretmen elektrik akımının günlük hayattaki önemine vurgu yapabilir. Günlük hayatta elektrik akımının ciddi tehlikeler oluşturabileceğini ifade edebilir. Bu tehlikelerin neler olabileceğini sorarak konu ile ilgili tartışma ortamı oluşturabilir. Elektrik akımı ile ilgili şu tür sorulardan faydalanılabilir: Elektrik kullanılırken ne gibi tehlikelerle karşılaşılabilir? Elektrik kullanılırken karşılaşılabilecek tehlikelere karşı ne tür tedbirler alınmalıdır? Elektrik çarpmasında tehlikenin boyutunu elektrik potansiyeli mi yoksa elektrik akımı mı belirler? İnsan vücudunun kuru, ıslak ya da terliyken direnci kaç ohmdur? Elektrik tesisatlarındaki kablolar tutuşabilir mi? Bununla ilgili ne tür tedbirler alınmaktadır? Banyo gibi ıslak zeminlerle diğer ortamlarda elektrik kullanımının tehlikeleri benzer midir ( D13.4 , D16.2 ) ? Öğrenciler, öğretmen rehberliğinde gruplara ayrılır ve elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler ile ilgili sunum hazırlar. Grupların konu hakkındaki bilgilere ulaşabilmek için kullanacağı genel ağ, kütüphaneler, dergiler, uzmanlar gibi kaynakları belirlemesi sağlanır. Gruplar belirledikleri kaynaklar yoluyla gerekli bilgilere ulaşır ( OB1 , OB7 ) . Elektriğin kullanımıyla ilgili tehlikeler ve alınması gereken tedbirler hakkında derlenen bilgiler sınıfla paylaşılır. Öğrenciler tartışma ortamında toplanan bilgilerin doğruluklarını test eder ( OB1 ) . Öğrenciler, doğruluğu teyit edilen bilgilerden elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler ile ilgili sunum hazırlar ( OB1 ) . Öğrenci sunumları dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FİZ.10.3.7",
+    "Öğrencilere, yıldırım düşme ihtimaline karşı binalarda kullanılan paratonerlerin veya elektrik akımının oluşturabileceği tehlikelere karşı elektrik tesisatında kullanılan topraklı prizlerin çalışma sistemleri hakkında sorular sorularak öğrencilerde konu hakkında merak duygusu oluşturulur ( E1.1 ) . Öğrenciler soru cevap tekniği ile topraklamayı tanımlar. Öğrenciler 5N1K sorularından yararlanarak topraklamanın işlevi, topraklama yöntemleri ve türleri hakkında sorular sorar ( E3.8 ) . Öğrenciler gelen cevaplar doğrultusunda topraklama hakkında güvenilir kaynaklardan araştırma yapar. Araştırma yapmak üzere hedefine uygun strateji, yöntem veya teknikleri seçer ( SDB1.2 ) . Elektrik kaçağı olan topraklı ve topraklanmamış bir buzdolabına dokunulduğunda insan üzerinden geçebilecek elektrik akımı ile ilgili hesaplama yapılabilir. Öğrenciler, topraklama hakkında elde ettikleri bilgilerin doğru olup olmadığını değerlendirir. Öğrenciler, doğruluğu teyit edilen bilgiler ışığında topraklamanın güvenli elektrik kullanımındaki önemine yönelik çıkarım yapar. Öğrenciler elektrik akımı tehlikelerine karşı alınacak önlemler ( D13.4 ) ile topraklamanın önemi hakkında topladıkları bilgilerle grup çalışması hâlinde bir sunum hazırlayabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.3",
+      "D13.4",
+      "D16.2",
+      "D16.3",
+      "D3.1",
+      "D4.1",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E1.6",
+      "E2.2",
+      "E3.2",
+      "E3.4",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.11",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/111"
+}

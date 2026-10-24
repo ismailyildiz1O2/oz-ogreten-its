@@ -1,0 +1,75 @@
+{
+  "unitId": 37,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "4. ÜNİTE: BEŞERÎ SİSTEMLER VE SÜREÇLER",
+  "hours": "16",
+  "description": "Bu ünitede nüfusun tarihsel değişimi, demografik dönüşüm süreci ve nüfus piramitlerinin tablo ve grafikler üzerinden yorumlanabilmesi; nüfus dağılışı ve bu dağılışı etkileyen faktörler hakkında haritalardan çıkarım yapılabilmesi; nüfusla ilgili fırsat, sorun ve politikaların coğrafi sorgulama yoluyla anlaşılır hâle getirilebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.9.4.1",
+      "title": "Nüfusun zaman içerisindeki değişimini tablo ve grafikler aracılığı ile yorumlayabilme",
+      "processComponents": [
+        "a) Nüfusun zaman içerisindeki değişimini gösteren tablo ve grafiklerdeki bileşenleri anlamlandırır.",
+        "b) Nüfusun zaman içerisindeki değişimini gösteren tablo ve grafiklerdeki bileşenler arası ilişkileri çözümler.",
+        "c) Nüfusun zaman içerisindeki değişimine dair incelediği tablo ve grafiklerden sonuçlar çıkarır.",
+        "ç) Farklı ülke nüfuslarındaki değişimi, incelediği tablo ve grafikleri kullanarak karşılaştırır."
+      ]
+    },
+    {
+      "code": "COĞ.9.4.2",
+      "title": "Dünya ve Türkiye'deki nüfusun dağılışı ve hareketlerini etkileyen faktörler hakkında haritalar üzerinden çıkarımda bulunabilme Dünya ve Türkiye'de nüfus yoğunluğunun fazla ve az olduğu alanlar ile nüfusun dağılışı ve hareketlerini etkileyen faktörlerin incelenebildiği haritaları ilişkilendirerek çıkarım yapar.",
+      "processComponents": []
+    },
+    {
+      "code": "COĞ.9.4.3",
+      "title": "Türkiye ve farklı ülkelerin nüfus piramitlerinden yararlanarak demografik dönüşüm sürecini yorumlayabilme",
+      "processComponents": [
+        "a) Türkiye ve farklı ülkelerin nüfus piramitlerini demografik dönüşüm modeline göre anlamlandırır.",
+        "b) Demografik dönüşüm modelinin aşamalarını doğum ve ölüm oranı ile nüfus yapısı arasındaki ilişkiye göre çözümler.",
+        "c) Türkiye ve farklı ülkelerin nüfus piramitlerini demografik dönüşüm modelinin aşamaları ile ilişkilendirerek buradan sonuç çıkarır.",
+        "ç) Türkiye ve farklı ülkelerin nüfus piramitleri ile demografik dönüşüm modelinin aşamalarını ilişkilendirerek elde ettiği sonuçları karşılaştırır."
+      ]
+    },
+    {
+      "code": "COĞ.9.4.4",
+      "title": "Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisini sorgulayabilme",
+      "processComponents": [
+        "a) Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin sorular sorar.",
+        "b) Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin bilgi toplar.",
+        "c) Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin topladığı bilgileri düzenler.",
+        "ç) Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin düzenlediği bilgileri çözümler.",
+        "d) Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin çözümlediği bilgilerden çıkardığı sonuçları paylaşır."
+      ]
+    }
+  ],
+  "keyConcepts": "bağımlı nüfus, demografik dönüşüm, doğum oranı, genç nüfus, göç, nüfus artış hızı, nüfus piramidi, nüfus politikası, nüfus yoğunluğu, ortanca yaş, ölüm oranı, yaşlı nüfus",
+  "support": [
+    "Tablo ve grafikleri anlamlandırma sürecinde daha fazla örnek sunulabilir, bu örneklere ilişkin açıklamaların yer aldığı ek metinler hazırlanarak öğrenme süreci desteklenebilir. Performans görevi; yaşanılan yerin nüfus yapısında meydana gelen değişimler, bu değişimlerin oluşturabileceği fırsat ve sorunlarla ilgili yakın çevreden bilgi toplama ve toplanan verileri çeşitli görseller ekleyerek sunma şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere yaşanılan yerdeki nüfusun değişimi ve bu sürecin demografik dönüşüm modeli ile ilişkilendirilmesi, *Türkiye ile kültürel açıdan köklü bağlara sahip ülkelerin (KKTC, Azerbaycan vb.) demografik dönüşümleri ve nüfus piramitleri, yoğun beyin göçü alan ve veren ülkeler, beyin göçüne neden olan faktörler, sanal beyin göçü, nüfus teorileri (Thomas Malthus, Karl Marx, Ester Boserup ve Yeni Maltusçular) ve örnek bir şehirde göçlerin oluşturduğu mekânsal etkiler konularında makale inceleme ve inceleme sonuçlarını raporlayarak sınıfta paylaşma görevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, açık uçlu sorular, öğrenme günlüğü, performans görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu, grup değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden grup etkinliği şeklinde Türkiye nüfusundaki değişim seyrinin nüfusla ilgili fırsat, sorun ve politikalara etkisini belirlemek amacıyla araştırma yapmaları ve bu araştırmayı raporlaştırmaları istenebilir. Performans görevi; hazırlık yapma, bilgi toplama, bilgileri çözümleme ve rapor yazma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.9.4.1",
+    "Türkiye, belirlenmiş ülkeler ve dünya nüfusunun geçirdiği ve geçirebileceği değişimlerle ilgili birincil ve ikincil kaynaklardan (TÜİK, UNFPA vb.) elde edilen tablo ve grafiklerin incelenmesi sağlanır. Bu tablo ve grafikler; gelişmişlik seviyesi ve nüfus yapısı bakımından farklı, nüfus miktarı bakımından ise dünyada önemli paya sahip ülkeler arasından seçilir. Ayrıca Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) ile bazı Türk devletlerinin nüfusunun da geçirdiği ve geçirebileceği değişimlere ilişkin tablo ve grafiklerin incelenmesi sağlanır. Tablo ve grafiklerdeki bileşenler ve bu bileşenlere ait işlevler çözümlenir. Tablolarda yer alan sütun ve satır verilerinin hangi aralıktaki değer veya zamanı gösterdiği tespit edilir. Daha sonra bu veriler düzenlenir ve çözümlenir ( MAB4). Grafiklerdeki renklendirme, sembol, veri ve zaman aralıklarının dağılımı ilişkilendirilir. Bu doğrultuda grafiklerdeki görsellerin incelenmesi sağlanır ve bu görsellerde yer alan veriler üzerinden akıl yürütülür (OB4, OB7 ). Tablo ve grafiklerdeki bileşenler arası ilişkiler sistematik bir yaklaşımla çözümlenir. Çözümleme sonrası ortaya çıkan sonuçlar tartışılarak yorumlanır ( D4.2, SDB2.1 ). Nüfusun zaman içinde büyük artış göstermesinde etkili olan süreçlere ilişkin bilgi toplanır. Bu süreçlerin nüfus artışındaki etkileri yorumlanır. 1950 sonrasında gerçekleşen hızlı nüfus artışının nedenleriyle ilgili bilgilere ulaşılır ( E3.7, SBAB1.2 ). Öğrenmeler, çalışma yaprağıyla izlenebilir.",
+    "COĞ.9.4.2",
+    "Dünya ve Türkiye'nin nüfus dağılış haritaları ile nüfusun dağılışı ve hareketlerinde etkili olan faktörlerle ilgili haritalar (topoğrafya, iklim, ulaşım, hidrografya haritaları vb.) incelenir (OB4). Bu haritalar arasında ilişkilendirme yapılır. Yapılan ilişkilendirmeye bağlı olarak nüfusun dağılışı ve hareketlerini etkileyen faktörlerle ilgili öğrencilerin çıkarımda bulunması sağlanır. Türkiye ve dünyada nüfus yoğunluğu ve hareketlerinin fazla ve az olduğu alanlar, yapılan çıkarımlar sonucu birbirinden ayrılır. Bu alanların benzerlik ve farklılıkları Venn şeması ile listelenebilir. Nüfusla ilgili verilere ulaşmada merakı ve disiplinli çalışmayı ön planda tutmanın amaca ulaşmayı kolaylaştırdığı belirtilir ( D3.1, E1.1 ). Öğrenmeler, nüfusun dağılışı ve hareketlerine yönelik haritalar üzerinden açık uçlu sorularla izlenebilir ( SDB2.1 ).",
+    "COĞ.9.4.3",
+    "Türkiye ve farklı ülkelerin nüfus piramitleri, demografik dönüşüm modeliyle ilişkilendirilerek anlamlandırılır (OB4 ). Ülkelerin demografik dönüşümü, doğum ve ölüm oranlarıyla nüfus yapısı arasındaki ilişkiye göre belirlenir. Söz konusu ülkelerin demografik dönüşüm modelinin hangi aşamalarından geçtiğiyle ilgili çeşitli sonuçlar elde edilir ( SBAB1 ). Türkiye ve farklı ülkelerin demografik dönüşüm sürecindeki benzerlik ve farklılıkları karşılaştırılır (KB2.7, E3.7) . Karşılaştırma sürecinde Philips 66 tekniği kullanılabilir. Bu amaçla her gruba tartışmaları için yeterli süre verilir, grup üyeleri tarafından üretilen fikirlerin ortaya konması sağlanır ve yapılan eleme sonucu tek bir fikirde karar kılınır. Çalışma sonunda grup sözcülerinin sunduğu fikirler üzerine bir tartışma başlatılabilir ( D14.1, SDB2.1, SDB2.2) . Ülkelerin nüfus piramitleri, hazırlanan çalışma yaprağı ile incelenerek demografik dönüşüm sürecine ilişkin öğrenmeler izlenebilir. COĞ.9.4.4",
+    "Türkiye ve farklı ülkelerin nüfus yapısında meydana gelen değişimin (doğum, ölüm, göç vb.) bir şehir, bölge veya ülke için oluşturabileceği fırsat ve sorunlara yönelik tespitlerde bulunulur. Bu tespitlerden yola çıkılarak çeşitli sorular hazırlanır (E1.1, E3.8, KB3.1). Bu sorulara yönelik bilgi toplanır. Elde edilen bilgiler düzenlenir ve çözümlenir. Nüfusa yönelik fırsat ve sorunlar ile nüfus politikaları arasındaki ilişki kapsamında sonuçlara ulaşılır ve bu sonuçlar paylaşılır ( D2.1, KB3.3, BTYAB5 ). Öğrencilere sonuçlarını resim, afiş gibi görsel; köşe yazısı, rapor gibi sözel veya drama gibi kinestetik etkinliklerle sunma imkânı verilebilir. Coğrafi sorgulama sürecinde birincil ve ikincil kaynaklar titizlikle incelenir. Öğrencilerin belirlenen araçları sistematik şekilde kullanarak doğru bilgiye ulaşmak için çaba göstermeleri ve toplanan verilerin doğruluğunu farklı kaynaklardan teyit ederek bu verileri tarafsız bir şekilde kaydetme konusunda bilimsel bir dürüstlük ve özveriyle davranmaları sağlanır ( D3.3, E1.4, E3.5, E3.7, OB1). Ünite boyunca öğrenme günlüğü tutulması sağlanarak öğrencilerin öğrenmelerini öğrenme günlükleri üzerinden değerlendirmeleri sağlanabilir ( SDB1.1, SDB2.1 ). Bu ünitede performans görevi kapsamında gruplardan Türkiye nüfusundaki değişimin oluşturduğu fırsat ve sorunların etkisini belirlemeye ve bu kapsamda alınacak önlemlere yönelik rapor hazırlamaları istenebilir (SDB3.3). Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin öğrenme süreçlerini bu ölçütlere göre değerlendirmeleri amacıyla öz ve grup değerlendirme formu uygulanabilir ( SDB1.2, SDB1.3 )."
+  ],
+  "skills": {
+    "diger": [
+      "SBAB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/37"
+}

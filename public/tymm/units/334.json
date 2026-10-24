@@ -1,0 +1,89 @@
+{
+  "unitId": 334,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "4. ÜNİTE: MADDEYİ TANIYALIM, KARIŞTIRIP AYIRALIM",
+  "hours": "15",
+  "description": "Bu ünitede maddenin katı, sıvı ve gaz hâli olmak üzere üç grupta sınıflandırılması ve karışımların ayrılmasına yönelik deney yapılması amaçlanmaktadır. Ayrıca karışımların ayrılması ile atıkların ayrıştırılması arasında bağlantı kurularak atıkların ayrıştırılmasına ilişkin problem çözülebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.3.4.1",
+      "title": "Çevresindeki maddeleri hâllerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Çevresindeki maddelerin niteliklerini tanımlar.",
+        "b) Çevresindeki maddeleri niteliklerine göre ayırır.",
+        "c) Çevresindeki maddeleri hâllerine göre gruplandırır.",
+        "ç) Maddeleri hâllerine göre katı, sıvı ve gaz olarak etiketler."
+      ]
+    },
+    {
+      "code": "FB.3.4.2",
+      "title": "Günlük yaşamda karşılaştığı karışımların ayrılmasında kullanılabilecek uygun yöntemleri kullanarak deney yapabilme",
+      "processComponents": [
+        "a) Karışımların ayrılmasında kullanılabilecek yöntemlerle ilgili deney tasarlar.",
+        "b) Karışımların ayrılmasına ilişkin deney sonucu ile hipotezi arasında uyumsuzluk olduğunda deneyini tekrar eder ve/veya hipotezini yeniler."
+      ]
+    },
+    {
+      "code": "FB.3.4.3",
+      "title": "Atıkların ayrıştırılmasına ilişkin problem çözebilme",
+      "processComponents": [
+        "a) Atıkların ayrıştırılmasına ilişkin problemi yapılandırır.",
+        "b) Atıkların ayrıştırılmasına ilişkin problemi özetler.",
+        "c) Atıkların ayrıştırılmasına ilişkin çözüm önerilerini gözleme ya da veriye dayalıtahmin eder.",
+        "ç) Atıkların ayrıştırılmasına ilişkin problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Atıkların ayrıştırılmasına ilişkin problemin çözümüne yönelik yansıtmada/değerlendirmede bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "katı, sıvı, gaz, karışım, eleme, süzme, dinlendirme, yüzdürme, mıknatısla ayırma, atık, ayrıştırma",
+  "support": [
+    "Deneyler sırasında yönerge verme veya gösterip yaptırma tekniği kullanılabilir. Hurdalıklarda metallerin nasıl ayrıştırıldığına dair görseller paylaşılabilir. Ünite içerikleri, sesli metin ya da video gibi birçok duyuya hitap eden görsel ve işitsel materyallerle desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden sınıfta gözlemlenen maddeler dışında farklı maddelerin hâllerine ilişkin tahminlerde bulunmaları ve çıkarım yapmaları istenebilir.Sınıfta yapılan deneyler dışında farklı karışım türlerini hangi yöntemlerle ayırabileceklerini araştırmaları istenebilir. İçme suyu, atık su arıtma veya geri dönüşüm tesislerini araştırmaları istenebilir ve/veya bu tesislere geziler düzenlenebilir. Sürdürülebilirliğin sağlanabilmesi için atık yönetiminin önemi konusunda farkındalık kazanmaları için gezi, gözlem ya da araştırmaya yönlendirilebilir. Okulda ve/veya evde atıkların ayrıştırılmasına yönelik farkındalık oluşturmak için sosyal sorumluluk görevi verilebilir. Atık yönetimine ilişkin çözüm önerilerini okul gazetesi ve okul internet sitesinde bir köşe yazısı yayınlatılabilir. Okul genelinde atıkların ayrıştırılmasına yönelik yaratıcı fikirler yarışmasına öncülük ederek vb. sosyal farkındalık oluşturmaları sağlanabilir. Öğrencilere karışımların ayrılması ve atıkların ayrıştırılması ile ilgili kurumlara çözüm önerilerini e-posta veya mektup ile iletmeleri önerilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde grup değerlendirme formu, V diyagramı, performans görevi, öğrenci ürün dosyası kullanılabilir.",
+    "Maddenin hâlleri keşfetme sürecinde oluşturulan grupların çalışmalarını değerlendirmek için grup değerlendirme formu kullanılabilir. Karışımların ayrılmasına yönelik yapılan deney çalışmasındaki süreçleri değerlendirmek için V Diyagramı kullanılabilir. Öğrencilere atıkların ayrıştırılması için oluşturdukları problemin çözümüne yönelik performans görevi verilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.3.4.1. Öğrencilerin çevrelerindeki maddeleri gözlemlemeleri ya da madde örneklerini sınıfa getirerek gruplar hâlinde incelemeleri sağlanabilir. Gözlem veya inceleme sonrasında maddelerin niteliklerini tanımlamaları sağlanır ( SDB1.2 ) . Nitelikleri belirlerken merak ettikleri soruları sormaları için öğrenciler teşvik edilebilir ( E3.8 ) . Maddeler incelenirken güvenlik önlemlerini almaları konusunda gerekli açıklamalar yapılarak öğrencilere sorumluluk verilir ( SDB3.3 , E2.2 , D16.1 ) . Öğrencilerden belirledikleri niteliklere göre maddeleri ayırmaları istenir ( KB2.5 ) . Ayrılan maddeleri hâllerine göre gruplandırmaları sağlanır ( KB2.13 , SDB1.2 ) . Gruplandırılan maddeleri katı, sıvı ve gaz hâlde olanlar şeklinde etiketlemeleri istenir ( KB2.4 , SDB1.2 ) . Ayrıştırma, gruplandırma ve etiketleme süreçlerinde öğrencilerin bilgiyi bilimsel ve sistematik bir yaklaşımla ele almaları, doğru bilgiyi ayırt etmeleri desteklenir ( E3.7 , D3.2 , D3.3 ) . Maddenin hâllerini keşfetme sürecinde grupların çalışmalarını değerlendirmek için grup değerlendirme formu kullanılabilir. Maddenin hâllerine günlük yaşamdan örnekler verilir fakat yapılarına (tanecikli, boşluklu yapı, tanecikler arası uzaklık, akışkanlık vb.) değinilmez.",
+    "FB.3.4.2. Öğrencilerin deney yapması için kullanabilecekleri malzemeler önceden hazırlanır. Öğrencilere farklı karışım örnekleri (demir tozu-talaş, talaş-su, su-kum-nohut, pirinç-toprak-tuz, su-zeytinyağı-nohut, toprak-su vb.) verilebilir. Karışımı oluşturan maddelerin nasıl ayrıştırılabileceğine ilişkin hipotez kurmaları istenir. Uygun yöntemleri kullanarak (eleme, süzme, dinlendirme, yüzdürme ve mıknatısla ayırma) karışımları ayırmak için deney tasarlamaları sağlanır ( E3.4 , SDB1.2 ) . Öğrencilere karışımlarla çalışırken güvenlik önlemlerini almaları konusunda gerekli açıklamalar yapılarak sorumluluk verilir ( SDB3.3 , E2.2 , D16.1 ) . Karışımların ayrılmasına ilişkin deney sonucu ile hipotezi arasında uyumsuzluk olduğunda öğrencilerden deneyi tekrar etmeleri ve/veya hipotezi yenilemeleri beklenir ( SDB1.2 ) . Öğrenciler deney sonucuna ilişkin gözlemlerini değerlendirirken çözüm odaklı düşünmeleri için yönlendirilir ( D12.1 ) . Karışımların ayrılmasına yönelik yapılan deney çalışmasındaki süreçleri değerlendirmek için V Diyagramı kullanılabilir ( E3.7 ) .",
+    "FB.3.4.3. Atıkların ayrıştırılmadan atılmasının çevreye olan etkilerine ilişkin bir problem durumu ders öncesinde hazırlanır. Öğrencilere atıkların ayrıştırılmasını konu alan görseller, gazete haberleri ya da videolar gösterilebilir. Karışımların ayrılmasından yola çıkarak verilen örnek durumdaki problemi yapılandırmaları sağlanır ( SDB3.3 , E3.2 ) . Öğrencilerin problemi kendi cümleleri ile özetlemeleri beklenir. Problemin çözümüne yönelik farklı bilgi kaynaklarını kullanarak araştırma yapmaları istenebilir, benzer problemin çözümü için geliştirilen projelerden yararlanabilecekleri belirtilebilir. Atık ayrıştırma tesislerine gezi düzenlenerek öğrencilerin atık ayrıştırma sürecini gözlemlemeleri sağlanabilir. Öğrenciler çevresel sürdürülebilirliğin sağlanmasında atık yönetimini önemseyen bir anlayış geliştirmeleri için desteklenir ( D5.2 ) . Kullanım ömrünü tamamlamış ürünleri dönüştürmenin önemli olduğu vurgulanır ( D17.3 ) . Öğrencilerin araştırma veya gözlemleri sonrasında çözüm önerilerini paylaşarak atıkların ayrıştırılma yöntemine yönelik gözleme ya da veriye dayalı tahminlerde bulunmaları sağlanır. Öğrencilerden problemin çözümüne yönelik önermeler üzerinden akıl yürütmeleri istenir ( SDB3.3 , E3.6 ) . Akıl yürütme sürecinde davranışlarının çevre temizliği ve sürdürülebilirlik üzerindeki etkilerini fark etmeleri sağlanabilir. Atıkların azaltılması, yeniden kullanımı ve özelliklerine göre ayrılması yoluyla atık yönetimi sağlanmasının önemine ilişkin duyarlılık geliştirmeleri ve bu yolla ekosistemi koruma bilinci kazanmaları desteklenir ( D5.2 , D18.3 ) . Bu aşamada beyin fırtınası tekniği kullanılabilir. Öğrencilere çevresel sürdürülebilirlik için atık yönetiminin önemli olduğu ve bunun karışımların ayrılması ile ilgili olduğu fark ettirilir ( OB8 ) . Öğrencilerin çözüm önerilerini sürdürülebilirlik ve uygulanabilirlik açısından sınıfça tartışmaları ve değerlendirmede bulunmaları sağlanır ( SDB2.2 ) . Öğrencilere evde veya okulda atıkların ayrıştırılmasında aktif katılım sağlayabilecekleri bir performans görevi verilebilir. Öğrencilerin performansları analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.1",
+      "D16.1",
+      "D17.3",
+      "D18.3",
+      "D3.2",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2",
+      "E3.4",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.4",
+      "KB2.5"
+    ],
+    "okuryazarlik": [
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/334"
+}

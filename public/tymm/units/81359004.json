@@ -1,0 +1,85 @@
+{
+  "unitId": 81359004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Genetik Bilimine Giriş Dersi",
+  "title": "4. ÜNİTE: BİYOTEKNOLOJİ VE GÜNCEL GENETİK UYGULAMALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GBG.4.1.1",
+      "title": "Biyoteknolojinin tanımını yapar",
+      "processComponents": [
+        "Biyoteknolojinin diğer bilim alanlarından ayrılan yönleri vurgulanır.",
+        "Geçmişten günümüze biyoteknolojinin gelişiminden bahsedilir.",
+        "Türkiye'deki biyoteknolojik çalışmalara ve bu alanda çalışma yürüten Türk bilim insanlarına örnekler verir."
+      ]
+    },
+    {
+      "code": "GBG.4.1.2",
+      "title": "Rekombinant DNA teknolojisinin bilimsel önemini fark eder",
+      "processComponents": [
+        "Rekombinant DNA teknolojisinin işlem basamaklarına model, şekil ve grafik kullanılarak dikkat çekilir.",
+        "Prokaryotlarda ve ökaryotlarda rekombinant DNA teknolojisinin benzerlik ve farklılıkları açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.4.1.3",
+      "title": "Biyoteknolojinin kullanım alanlarını açıklar",
+      "processComponents": [
+        "Tıbbi ve adli biyoteknoloji uygulamalarındaki farklılıklar örnekler üzerinden açıklanır.",
+        "Biyoteknolojinin tarım alanındaki uygulamaları örneklerle açıklanır.",
+        "Gıda teknolojisi alanındaki uygulamalar örneklerle açıklanır.",
+        "Biyomühendislik ve genetik endüstrisine yönelik çalışmalara değinilir."
+      ]
+    },
+    {
+      "code": "GBG.4.2.1",
+      "title": "Tıp alanındaki genetik uygulamaları açıklar",
+      "processComponents": [
+        "Hastalıkların teşhis ve tedavisinde kullanılan yöntemlere (CRISPR-CAS9, insülin, GH, interferon, vb.) temel düzeyde vurgu yapılır.",
+        "Genetik bozuklukların neden olduğu hastalıkların gen aktarımı ile düzeltilmesinin yöntemleri örneklerle açıklanır.",
+        "Tıp alanındaki genetik uygulamalar kanser tedavisinde kullanılan genetik uygulamalarla ilişkilendirilir.",
+        "Türk bilim insanı Prof. Dr. Aziz SANCAR'ın beyin kanseri tedavisinde kullandığı yöntem üzerinden çıkarımda bulunur."
+      ]
+    },
+    {
+      "code": "GBG.4.2.2",
+      "title": "Endüstri alanındaki genetik uygulamaları analiz eder",
+      "processComponents": [
+        "Endüstriyel enzimlerin sentezi ile ilgili bir araştırma çalışması yapılarak bu çalışmanın sonuçlarını veren bir sunum hazırlanır."
+      ]
+    },
+    {
+      "code": "GBG.4.2.3",
+      "title": "Tarım alanındaki genetik uygulamaları analiz eder",
+      "processComponents": [
+        "Daha üstün özelliklere sahip bitkilerin yetiştirilmesinde kullanılan genetik yöntemler irdelenir.",
+        "Tarım ürünlerine zarar veren böceklerle mücadele konusunda yapılan genetik çalışmalarla ilgili araştırma yapılır ve araştırma sonuçları bir sunum çalışması ile açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.4.2.4",
+      "title": "Çevre alanındaki genetik uygulamaları analiz eder",
+      "processComponents": [
+        "Çevre alanında yapılan çalışmalardaki (biyoremidiasyon, vb.) genetik uygulama örnekleri verilir."
+      ]
+    },
+    {
+      "code": "GBG.4.2.5",
+      "title": "Nanoteknoloji alanındaki uygulamaları açıklar",
+      "processComponents": [
+        "Nanoteknoloji ile ilgili örnek bir proje gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249593601-genetik.pdf"
+}

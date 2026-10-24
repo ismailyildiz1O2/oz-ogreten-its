@@ -1,0 +1,35 @@
+{
+  "unitId": 1500,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Spor ve Fiziki Etkinlikler Dersi",
+  "title": "I. Ünite: Spor Branşımı Öğreniyorum",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SFE.1.1",
+      "title": "Seçilen spor branşının tarihsel gelişimini özetleyebilme",
+      "processComponents": [
+        "a) Seçilen spor branşının tarihsel gelişimini çözümler.",
+        "b) Seçilen spor branşının gelişim sürecinde yer alan önemli dönem ve gelişmeleri sınıflandırır.",
+        "c) Seçilen spor branşının gelişimini etkileyen faktörleri neden sonuç ilişkileriyle yorumlar."
+      ]
+    },
+    {
+      "code": "SFE.1.2",
+      "title": "Seçilen spor branşının kurallarını çözümleyebilme",
+      "processComponents": [
+        "a) Seçilen spor branşının kurallarını oluşturan temel ögeleri belirler.",
+        "b) Seçilen spor branşının kuralları arasındaki mantıksal ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "bireysel sporlar, takım sporları, taktik, teknik",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1500"
+}

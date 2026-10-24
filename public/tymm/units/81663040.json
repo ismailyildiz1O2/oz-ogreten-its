@@ -1,0 +1,138 @@
+{
+  "unitId": 81663040,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "40. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVASCRIPT) - 3. ÜNİTE: JAVASCRIPT PROGRAMLAMA DİLİ İLE WEB GELİŞTİRME",
+  "hours": "36",
+  "description": "Bu ünitede; Javascript programlama dilinde DOM kavramı, DOM'un web sitelerindeki rolü, DOM aracılığı ile HTML elemanlarına erişimden bahsedilir. Javascript programlama dilinde eventler kullanılarak kullanıcı ile etkileşim kurma, asenkron programlamanın web sitelerindeki önemi üzerinde durulur. Jquery ve Ajax kütüphaneleri ile etkileşim kurma, fetch işlemleri ile asenkron veri alışverişi yapma işlemleri anlatılır. Javascript programlama dili kodlarını modüler hâle getirerek kullanmanın öneminden, NodeJS ve CommonJS modülleri kullanılarak arkaplanda yapılabilecek işlemlerden, NPM aracılığı ile Javascript programlama dili içerisine harici kütüphaneler yüklenebileceğinden bahsedilir. Javascript programlama dilinin popüler framework'lerinden React, Angular ve Vue kullanılarak web siteleri oluşturabilme, React Native framework'ü ile mobil uygulamalar oluşturabilme işlemleri anlatılacaktır. Ecmascript kullanarak Javascript programlama dilinin güncel standartlarına uygun şekilde çalışılabileceğinden bahsedilecektir.",
+  "outcomes": [
+    {
+      "code": "BTY.40.1",
+      "title": "DOM kavramını tanımlar",
+      "processComponents": [
+        "DOM (Document Object Model) teriminin ne anlama geldiği açıklanır.",
+        "Web sayfalarının ağaç yapısı olarak temsil edilmesi ve bu yapının kullanılma şekli açıklanır.",
+        "DOM ağacının her düğümünün birer HTML elemanını temsil etmesi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.40.2",
+      "title": "DOM'un web sayfalarındaki rolünü kavrar",
+      "processComponents": [
+        "DOM'un web sayfalarındaki içeriği, yapısı ve görünümü açıklanır.",
+        "Kullanıcı arayüzü ile etkileşim kurma, içerik ekleme veya değiştirme işlemlerinde DOM'un önemi vurgulanır.",
+        "DOM'un web geliştirme sürecinde aldığı rol vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.40.3",
+      "title": "DOM aracılığı ile HTML elemanlarına nasıl erişileceğini kavrar",
+      "processComponents": [
+        "DOM üzerinden HTML elemanlarına erişme yöntemi açıklanır.",
+        "Elemanlar seçilerek üzerinde değişiklik yapma yöntemleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.4",
+      "title": "Kullanıcılar ile etkileşim kurmayı kavrar",
+      "processComponents": [
+        "Kullanıcı etkileşimi oluşturmak için Javascript programlama dili eventlerinin (olaylarının) kullanılma şekli açıklanır.",
+        "Event dinleyicileri eklenerek sayfa üzerinde tepki verme işlemleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.5",
+      "title": "Asenkron programlamanın web uygulamalarındaki önemini kavrar",
+      "processComponents": [
+        "Asenkron programlama açıklanarak bunun web uygulamalarındaki önemi vurgulanır.",
+        "Asenkron programlamanın sayfa hızı ve kullanıcı deneyimine sağladığı katkı vurgulanır.",
+        "Callback fonksiyonlar ve async/await gibi asenkron programlama teknikleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.6",
+      "title": "Jquery ve Ajax kütüphaneleri ile etkileşimli şekilde çalışmayı kavrar",
+      "processComponents": [
+        "Jquery ve Ajax kavramları açıklanır.",
+        "Jquery ile HTML elemanlarının manipüle edilme yöntemleri açıklanır.",
+        "Ajax kullanılarak sunucu ile veri alışverişi yapma işlemi açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.7",
+      "title": "Fetch işlemlerini kullanarak asenkron çalışmayı kavrar",
+      "processComponents": [
+        "Fetch API kullanılarak sunucudan verilerin nasıl alınabileceği açıklanır.",
+        "JSON formatında çekilen verilerin nasıl işleneceği ve kullanılacağı açıklanır.",
+        "Fetch işlemlerinin web uygulamarındaki kullanılma şekilleri örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.8",
+      "title": "Javascript programlama dili kodlarını daha modüler hâle getirerek kullanmanın önemini kavrar",
+      "processComponents": [
+        "Kodu parçalara bölerek modüler çalışmanın önemi vurgulanır.",
+        "Javascript programlama dili modüllerini oluşturup kullanma konusunda örnek çalışmalar yapılır."
+      ]
+    },
+    {
+      "code": "BTY.40.9",
+      "title": "NodeJS modülünü kullanarak arkaplanda işlemler yapılabileceğini kavrar",
+      "processComponents": [
+        "NodeJS ile sunucu tarafında Javascript programlama dilinin geliştirilme işlemi açıklanır.",
+        "NodeJS ile dosya ve ağ işlemleri gibi arkaplan işlemlerinin gerçekleştirilebileceği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.40.10",
+      "title": "CommonJS modülünü kullanarak arkaplanda işlemler yapılabileceğini kavrar",
+      "processComponents": [
+        "CommonJS modül sistemi kullanılarak dosyaların modüler hâle getirilebileceği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.40.11",
+      "title": "Npm aracılığı ile harici kütüphaneler kullanarak modül ekleme işlemini kavrar",
+      "processComponents": [
+        "Npm (Node Package Manager) aracılığıyla harici Javascript kütüphanelerinin projeye eklenme şekli açıklanır.",
+        "Harici kütüphanelerin projeye dahil edilmesi işlemleri açıklanır.",
+        "Harici kütüphanelerin proje içerisinde güncellenmesi gibi yönetim işlemleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.12",
+      "title": "Javascript programlama dilindeki yaygın framework'lerin web geliştirmedeki rolünü kavrar",
+      "processComponents": [
+        "Yaygın Javascript programlama dili framework'leri açıklanır ve bu framework'lerin önemi vurgulanır.",
+        "Framework'lerin kullanılma şekli ve web uygulamalarını geliştirirken üstlendiği rol açıklanır.",
+        "Framework'lerin avantaj ve dezavantajları belirtilir."
+      ]
+    },
+    {
+      "code": "BTY.40.13",
+      "title": "Farklı açık kaynak kodlu web geliştirme framework'lerinin mobil uygulama geliştirmede nasıl kullanılacağını kavrar",
+      "processComponents": [
+        "Açık kaynak kodlu mobil uygulama geliştirme frameworklerinin ne olduğu ve nasıl çalıştığı açıklanır.",
+        "Web geliştirme bilgisinin mobil uygulama geliştirmede kullanılan framework'lere uyarlanarak mobil uygulama geliştirme sürecine sağladığı katkı vurgulanır.",
+        "Mobil uygulama geliştirme süreçleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.40.14",
+      "title": "Gelişmekte olan EcmaScript ile Javascript programlama dilinin güncel standartlara uyumlu şekilde çalışabileceğini kavrar",
+      "processComponents": [
+        "EcmaScript'in Javascript programlama dilinin güncelleme ve yeni özelliklerini içermesi durumu açıklanır.",
+        "Javascript programlama dilindeki kodun güncel standartlara uyumlu hâle getirmenin önemi vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

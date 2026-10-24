@@ -1,0 +1,61 @@
+{
+  "unitId": 1638,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Mantık Dersi",
+  "title": "2. Ünite: Aristotelesçi Mantık",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MAN.2.1",
+      "title": "Aristotelesçi mantıkta terimlere ilişkin özellikleri özetleyebilme",
+      "processComponents": [
+        "a) Terimin anlamını çözümler.",
+        "b) Terim çeşitlerini sınıflandırır.",
+        "c) Terimleri içlem-kaplam özellikleri açısından yorumlar."
+      ]
+    },
+    {
+      "code": "MAN.2.2",
+      "title": "Önermeleri çözümleyebilme",
+      "processComponents": [
+        "a) Önermelerin nitelik ve niceliklerini belirler.",
+        "b) Karşı olum/Aristoteles karesi aracılığı ile basit önermelerin parçaları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAN.2.3",
+      "title": "Çıkarım çeşitlerini özetleyebilme",
+      "processComponents": [
+        "a) Çıkarımın yapısını çözümler.",
+        "b) Çıkarım çeşitlerini sınıflandırır.",
+        "c) Çıkarımları geçerlilikleri açısından yorumlar."
+      ]
+    }
+  ],
+  "keyConcepts": "çıkarım, kavram, kıyas, önerme, terim",
+  "support": [
+    "Zihin haritası aracılığı ile terim çeşitlerini anlamaları sağlanabilir.",
+    "Kavram haritası aracılığı ile önermenin yapısı ve çeşitlerini kavramaları sağlanabilir.",
+    "Eşdeğerlik kuralları kodlanması yaptırılabilir."
+  ],
+  "enrichment": [
+    "*Porphyrios’un “İsagoji” adlı eserinde Aristoteles’in kategoriler görüşünün incelenmesi sağlanabilir.",
+    "Önermelerde doğrulanabilirlik ilkesinin araştırılması ve sunulması yaptırılabilir.",
+    "İsmail Gelenbevi’nin mantığın konusu hakkında iki temel yaklaşım olan “tasavvurât” ve “tasdikât” görüşü hakkında düşüncelerinin araştırılması ve sunulması sağlanabilir.",
+    "Öğrencilerden geçerli kıyas formlarını araştırmaları ve her biri için bir örnek yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarında zihin haritası, çalışma kâğıdı, soru-cevap, öz veya akran değerlendirme formu, kontrol listesi, grup değerlendirme ve performans görevi kullanılabilir. Performans Görevi: Öğrenciler yakın çevrelerinden hareketle günlük hayattan basit kıyas örnekleri verir, bunların geçerliliklerini yorumladıkları kısa film çalışması yapar ve çalışmalarını sınıf ortamında paylaşır. Performans görevi kıyas kurallarının doğru kullanımı, örneklerin doğru seçimi, hazırlanan içeriğin konuyla tutarlılığı, etkileyiciliği gibi kriterlerin yer aldığı dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAN.2.1",
+    "Kavramın ve terimin anlamlarını ifade eden yazılı ve görsel materyaller verilerek öğrencilerin kavram ve terim arasındaki ilişkinin ne olduğu üzerine fikir oluşturması sağlanır ( E1.1 ). Öğrencilerden kavramların ne anlama geldiğini, somut veya soyut olmasının neye göre belirlendiğini ve neyi/kimi işaret ettiğini gösteren bir zihin haritası yapmaları istenir ( E1.3 , E3.7 ). Öğrencilere terim çeşitlerinin (soyut, somut, tekil, tümel, tikel, kolektif, distribütif, olumlu ve olumsuz) adları ile atasözleri, deyim veya örnek ifadeleri eşleştirmeleri istenir. Terim çeşitlerine kendi örneklerini vermeleri sağlanır ( OB5 , KB2.5 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. İçlem, kaplam, beş tümel ve Porphyrios (Porfiryus) ağacına ilişkin tanım ve açıklamaların yer aldığı bir bilgi görseli verilerek öğrencilerin varlıkların sınıflandırılmasında nelere dikkat edildiği hakkında tartışma yapmaları sağlanır ( E1.1 , KB2.18 ). Süreçte büyük grup tartışma öğretim tekniği kullanılabilir. Öğrencilerden diğer derslerde öğrendikleri sınıflandırma örneklerinden (canlılar, müzik aletleri, sanat dalları vb.) birini taslak çizim yaparak ifade etmeleri ve bu taslaklar üzerinden içlem ve kaplam arasındaki ters orantılılığa ilişkin yorum yapmaları istenir ( OB4 , KB2.14 ). Süreçte öz veya akran değerlendirme formu kullanılabilir. MAN.2.2",
+    "Öğrencilere önerme türlerini (basit, basit olmayan, olumlu, olumsuz, tümel, tekil ve tikel) içeren karikatür, hikâye, fıkra veya animasyon üzerinden öğrencilerin verilen önerme örneklerinin yapısını, nitelik ve niceliklerini belirlemeleri sağlanır ( E1.1 , OB4 , KB2.5 ). Önerme türlerinin tanımları ve özellikleri konusunda bilgi notu verilerek öğrencilerin bunlara günlük hayattan örnek vermeleri sağlanır. Önerme türlerinin örneklerinin yer aldığı sürdürülebilir ve sürdürülebilir olmayan enerji kaynaklarıyla ilgili yapılandırılmış bir metin üzerinden alıştırma etkinliği yaptırılır ( SDB1.2 , OB8 ). Öğrencilerden önerme türlerine insan hakları, hayvan hakları, doğal afetler gibi toplumsal konularda bilinç kazandıracak nitelikte örnekler vermeleri ve bu örnekler üzerinden estetik biçime sahip bir afiş çalışması yapmaları istenir ( E3.3 , OB9 ). Doğaya ve hayvanlara iyi davranmanın çevreyi daha yaşanabilir hâle getireceğini fark eder ( D20.3 ). Tasarlanan afişler sınıfta veya okul ortamında paylaşılır ( OB2 ). Süreçte öğrenciler ülke kaynaklarını sürdürülebilir bir şekilde kullanmanın gerekliliğini ve davranışlarının çevre temizliği üzerindeki etkilerini fark eder ( D18.3 , D19.4 ). Afiş çalışması, kontrol listesi ile değerlendirilebilir. Öğrencilere karşı olum karesi ile birlikte karşıtlık, altıklık, çelişiklik kurallarının yer aldığı bilgi notu verilir. Öğrencilerin basit önermeler arasındaki ilişkileri belirlemeleri, söz konusu kuralları uygulamaları ve yorumlamaları sağlanır ( KB2.14 ). Bu aşamada alıştırma etkinliği yaptırılır ( SDB1.2 ). Süreçte konuşma halkası veya eğitsel oyun öğretim tekniği kullanılabilir.",
+    "MAN.2.3",
+    "Öğrencilere çeşitli alanlardan (sanat, bilim, felsefe, tarih, coğrafya vb.) çıkarım örnekleri yazılı veya görsel olarak verilir ( E1.1 , OB4 ). Bu örneklerde çıkarımı işaret eden bağlaçlar buldurulur. Çıkarım sürecinin çözümlenmesi için öncül önermeler verilerek öğrencilerin sonuç önermeleri oluşturmaları sağlanır. Süreçte alıştırma etkinliği yaptırılır ( SDB1.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Öğrencilere çıkarım çeşitlerinden doğrudan çıkarımın tanımı ve çeşitleri hakkında bilgi notu verilir. Aristoteles karesi hatırlatılarak buradaki önermelerin karşıtlık, altıklık ve çelişki ilişkileri bakımından doğrudan çıkarıma örnek olduğu vurgulanır. Karşı olum karesi kurallarının uygulandığı bir alıştırma etkinliği yaptırılır ( SDB1.2 ). Düz döndürme ve ters döndürme kuralları hakkında bilgi notu ile çeşitli alanlardan (spor, sanat, siyaset vb.) örnek önermeler verilerek öğrencilerin bu önermeleri eşdeğerlerine dönüştürmeleri sağlanır ( KB2.19 ). Süreçte çevrim içi bilgi işlemeyi mümkün kılan genel ağ uygulamaları kullanılabilir ( OB2 ). Öğrencilere çıkarım çeşitlerinden dolaylı çıkarımın (kıyas) yapısı, genel özellikleri ve kuralları ile basit kıyası açıklayan bilgi notu ile açık uçlu soruların yer aldığı bir çalışma kâğıdı verilir ( E1.3 ). Çalışma kâğıdında sistemli bir biçimde iş birlikli olarak farklı örnekler üzerinden basit kıyasların belirlenmesi, kıyasların yapısının (küçük, büyük, orta terimleri ile öncül ve sonuçları) gösterilmesi ve geçerliliklerinin ifade edilmesi sağlanır ( E3.7 ). Öğrencilerin kıyas çeşitlerine ilişkin kendi örneklerini sunması ve bunların geçerliliklerinin yorumlanması gerçekleştirilir ( SDB1.2 , KB2.14 ). Öğrenciler üstüne düşen görevleri kurallarına uygun biçimde yerine getirir ( D6.1 ). Süreçte küçük grup tartışması veya soru-cevap öğretim tekniği kullanılabilir. Grup değerlendirme formu uygulanabilir. Öğrencilerden yakın çevrelerinden hareketle günlük hayattan basit kıyas örnekleri vermeleri ve bunların geçerliliklerini yorumlamaları için kısa film çalışması, bir tiyatro metni ya da bir diyalog hazırlamaları ve çalışmalarını sınıf ortamında paylaşmaları istenir ( E3.3 , OB2 , KB2.14 ). Bu, performans görevi olarak verilir ( E1.4 , E2.2 ). Öğrenciler aile bireylerinin ve başkalarının görüntülerini izinsiz paylaşma, kişisel yaşam alanlarına izinsiz girme gibi özel hayatın gizliliğini ihlal edecek davranışlardan kaçınır ( D8.4 , D2.1 ). Performans görevi kıyas kurallarının doğru kullanımı, örneklerin doğru seçimi, hazırlanan içeriğin konuyla tutarlılığı, etkileyiciliği gibi kriterlerin yer aldığı dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilebilir ( E3.10 , OB7 ). Öğrenciler performans çalışmasında görev bilinci ile hareket eder, ödev ve sorumluluklarını yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1638"
+}

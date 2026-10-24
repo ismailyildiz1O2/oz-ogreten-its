@@ -1,0 +1,57 @@
+{
+  "unitId": 932,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları - Çalgı Toplulukları Dersi",
+  "title": "2. TEMA: KÜÇÜK USULLERLE TOPLU İCRA",
+  "hours": "16",
+  "description": "Temada usul kavramı ve küçük usullerden yola çıkarak belirlenen basit usuldeki eserlerin toplu icra edilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "ÇT.5.2.1",
+      "title": "Tek sesli küçük usullerdeki eserleri toplu çalabilme",
+      "processComponents": [
+        "a) Küçük usullerdeki eserleri toplu eseri çözümler.",
+        "b) Küçük usullerdeki eserleri toplu çalmada çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Küçük usullerdeki eserleri toplu çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Küçük usullerdeki eserleri toplu çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "küçük usuller, ritim, tempo, uyum",
+  "support": [
+    "Çalışılan eserlerin daha yavaş tempoda çalınması için yönlendirilebilir. Seviyeye göre farklı tempo ve küçük usullerde şarkı notaları oluşturulabilir. Öğrenciler, parçayı farklı hızlarda çalmayı deneyebilirler. Örneğin yavaş çalarken her notaya daha fazla dikkat ederken, hızlı çalarken ritmi ve tekniği koruma üzerine çalışabilirler."
+  ],
+  "enrichment": [
+    "Bu süreçte orta ve zor seviyede küçük usullerde ve tempolarda şarkılar dağıtılarak çalışma yapılabilir. Öğrenciler, tek sesli bir parça çalarken belirli bölümlerde doğaçlama yapmalarına olanak tanıyabilirsiniz. Örneğin melodinin bir kısmı belirli bir kalıp üzerinde oynanabilir veya ezgi üzerinde serbestçe çalışarak farklı varyasyonlar oluşturabilirler."
+  ],
+  "assessment": [
+    "Temada öğrenme çıktıları birlikte çalma performans gözlem formu, öz değerlendirme formu ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilerden çalgı toplulukları oluşturarak basit usullerdeki şarkıları topluluk önünde sergilenmesi istenen bir performans görevi verilebilir. Verilen performans görevi birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇT.5.2.1 Öğrencilere uygun zorluk seviyesindeki okul şarkıları dağıtılır. Şarkıların, kısa ezgilerden oluşan basit parçalar olmasına özen gösterilir. Şarkılar, 2/4, 3/4, 4/4 gibi küçük usullerden oluşmaktadır. İcra ve deşifre süreci öncesinde öğrencilerin doğru tutuş ve uygun pozisyon almaları sağlanır. Öğrencilerin çalgılarını doğru şekilde tuttuklarından emin olduktan sonra grup hâlinde tutuş pozisyonunu pekiştiren egzersizler yapılır. Her bir öğrencinin doğru tutuşu yapıp yapmadığı kontrol edilir. İlk olarak 2/4 usulde belirlenen öğrenci düzeyine uygun okul şarkısı öğrencilere dağıtılır. Şarkının notaları öğrencilere gösterilir ve öğretmen, şarkının temel ritmik ve ezgi yapısını açıklayarak deşifreye başlar. Öğrencilerle birlikte şarkının ritmi, notaları ve ezgisel yapısı analiz edilir. Öğrencilerin çalgılarına özgü doğru teknikle deşifre sürecini gerçekleştirmeleri istenir. Çalışmaya şarkının yavaş tempoda adım adım çalınmasıyla başlanır ( D3.2 ). Yavaş tempoda çalarken öğretmen; öğrencilerin ritme, doğru nota değerlerine ve tutuş tekniklerine odaklanmalarını sağlar ( E3.2 ). Tempoyu artırmak için öğrencilerle birlikte pratik yapılarak doğru hızda çalabilmeleri sağlanır. Grup çalışmasında her öğrenci, diğerlerinin çaldığına dikkat etmelidir ( D3.4 , E2.2 ). Öğrenciler arasında müzikal iletişimi artırmak için birbirlerini dinleme çalışmaları yapılır ( KB2.2 , D4.2 ). Öğrencilerden birbirlerini dinleyerek uyum içinde çalmaları istenir ( SDB2.1 , E2.1 ). Şarkının doğru temposuna ulaşana kadar çalışmaya devam edilir. Öğrenciler, deşifre sürecinden sonra çalınacak şarkıyı birkaç kere pratik ederler ( OB9 ). Sonrasında tüm grup birlikte çalmaya çalışır ve öğretmen her öğrenciyi yönlendirerek, müziksel bileşenlere dikkat ederek gerekli dönütlerde bulunur ( SDB2.2 ). 3/4 ve 4/4 usulde belirlenen okul şarkılarıyla aynı işlem süreçleriyle çalışmalar yapılır. Öğrencilerden çalgı toplulukları oluşturarak basit usullerdeki şarkıları topluluk önünde sergilenmesi istenen bir performans görevi verilebilir. Verilen performans görevi birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2",
+      "D3.4",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/932"
+}

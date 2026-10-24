@@ -1,0 +1,55 @@
+{
+  "unitId": 98038002,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "2. ÜNİTE: BİLGİSAYAR DESTEKLİ TASARIM VE AKILLI ÜRÜNLER",
+  "hours": "9",
+  "description": "Bu ünitede öğrencilerin üç boyutlu tasarım bilgisi ve akıllı ürünleri öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TT.8.B.1.1",
+      "title": "Tasarımı için taslak çizimler yapar",
+      "processComponents": [
+        "Gerçek hayatta karşılaştığı probleme ilişkin düşünülen çözüm önerisi kağıt üzerinde üç boyutlu olarak gösterilir."
+      ]
+    },
+    {
+      "code": "TT.8.B.1.2",
+      "title": "Taslak çizimlerini bilgisayar yardımıyla üç boyutlu görsellere dönüştürür",
+      "processComponents": [
+        "Bilgisayar destekli tasarım yapılırken üç boyutlu resim ve grafik işleme yazılımları açıklanarak bu yazılımlardan en az bir tanesi kullanılmak suretiyle görsel oluşturulması üzerinde durulur ve 3D (three dimension / üç boyutlu) yazıcılardan bahsedilir."
+      ]
+    },
+    {
+      "code": "TT.8.B.1.3",
+      "title": "Sensör teknolojisinin günlük hayattaki uygulamalarını değerlendirir",
+      "processComponents": [
+        "Fotoselli araçlar, sensörlü aydınlatmalar gibi teknolojilerin nasıl çalıştığı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.B.1.4",
+      "title": "İnternete bağlı teknolojik araçların günlük hayattaki kullanımlarına örnekler verir",
+      "processComponents": [
+        "ATM, taşıt tanıma sistemi, akıllı ev sistemi, modem, navigasyon vb. üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.B.1.5",
+      "title": "Akıllı ürün kavramına uygun olarak gelecekte kullanılabilecek bir ürün tasarlar",
+      "processComponents": [
+        "Gelecekte karşılaşılabilecek problemin belirlenmesi, tanımının yapılması ve tanımlanan problemin çözümüne ilişkin akıllı bir ürün tasarlanması üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Tasarım Süreci ve Tanıtım",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf"
+}

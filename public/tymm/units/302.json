@@ -1,0 +1,78 @@
+{
+  "unitId": 302,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "5. TEMA: NESNELERİN GEOMETRİSİ (2)",
+  "hours": "11",
+  "description": "Bu temada öğrencilerin günlük yaşamdan örneklerle açıyı bir dönme miktarı olarak yorumlayabilmesi; açı ölçümüne ilişkin standart ölçme araçlarının gerekliliğini değerlendirebilmesi; dik açıyı referans alarak açıyı dar ve geniş olarak sınıflandırabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.4.3.5",
+      "title": "Günlük yaşamdan örneklerle açıyı bir dönme miktarı olarak yorumlayabilme",
+      "processComponents": [
+        "a) Günlük hayattan örneklerle açıyı belirler.",
+        "b) Açıları bağlamından koparmadan günlük yaşam durumlarına dönüştürür.",
+        "c) Açıyı bir dönme miktarı olarak yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.4.3.6",
+      "title": "Açı ölçümüne ilişkin standart ölçme araçlarının gerekliliğini değerlendirebilme",
+      "processComponents": [
+        "a) Açı ölçümü için bir ölçüt belirler.",
+        "b) Ölçüte uygun olarak standart olmayan ölçü birimlerini kullanarak ölçme yapar.",
+        "c) Standart olmayan ölçü birimlerine dayalı olarak elde ettiği sonuçları ölçüt ile karşılaştırır.",
+        "ç) Karşılaştırmalarına ilişkin olarak standart ölçme araçlarının gerekliliğine ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAT.4.3.7",
+      "title": "Dik açıyı referans alarak açıları dar ve geniş olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Dik açının özelliklerini belirler.",
+        "b) Dik açıyı referans alarak açı çeşitlerini dar ve geniş açı olarak ayırır.",
+        "c) Dar ve geniş açının özelliklerini tasnif eder.",
+        "ç) Dar ve geniş açıyı adlandırır."
+      ]
+    }
+  ],
+  "keyConcepts": "• açı, dik açı, dar açı, geniş açı, Sembol ve Gösterimler, • -",
+  "support": [
+    "Somut materyaller kullanarak günlük yaşamdan açıyı belirlemeye yönelik örnekler sunulur. Saat modeli yapılarak akrep ve yelkovan arasındaki açıyı fark etmeleri sağlanır. Ayrıca kollar açıldığında kolların vücuda olan konumuna göre öğrencilere dik açı, dar açı ve geniş açı kavramlarını fark etmelerine yönelik etkinlikler yapılır. Dik açıyı ölçüt alıp, dar ve geniş açıyı belirleyerek adlandırmaya yönelik araç gereçle etkinlikler yapılır."
+  ],
+  "enrichment": [
+    "Öğrencilere verilecek bir fotoğrafta insanların kollarının ve bedenlerinin oluşturduğu açıları incelemeleri istenir. Ardından fotoğrafta yer alan açılara benzer görseller hazırlamaları beklenir.",
+    "Elektronik, lazer açı ölçme araçlarının varlığından haberdar edilir ve öğrencilerden konuyla ilgili dijital ortamda araştırma yapmaları istenir.",
+    "Dik açıyı referans alarak dar ve geniş açıyı belirleyip etiketlemeye yönelik öğrencilere bir açı hikâyesi yazma görevi verilir. Hikâyelerini sınıfta paylaşmaları istenerek öğrencilerin yazma becerileri ve anlama düzeyleri değerlendirilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları eşleştirme soruları, yapılandırılmış grid, performans görevi ve bütüncül dereceli puanlama anahtarı ile değerlendirilir.",
+    "Standart ve standart olmayan ölçme araçlarının birlikte ele alınabileceği bir performans görevi verilebilir. Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.4.3.5 Etkileşimli tahtadan veya görseller üzerinden öğrencilere açı kavramını hissettirecek günlük yaşam örnekleri gösterilerek ve öğrenecekleri konuya yönelik merak duygusu geliştirmeleri sağlanarak derse başlanır ( E1.1 ) . Bu süreçte ışın, doğru ve doğru parçası gibi temel geometrik kavramlara girilmeden günlük yaşam örnekleri incelenerek açının bir dönme miktarı olduğunun fark edilmesi sağlanır. Öğrencilere günlük yaşamdan çeşitli örnekler sunularak açıları nasıl belirleyebilecekleri konusunda tartışma ortamı oluşturulur ( KB2.18 ) . Bağlamından koparmadan kapıların açılması kolun yukarı kaldırılması sonucunda oluşan vücuda göre konum, akrep ve yelkovanın pozisyonu gibi günlük yaşam durumlarına dönüştürmeler yapılarak açı örneklendirilir. Örneğin menteşe tarafının sabit kalması ile kapalı durumdaki bir kapının açılması sonucunda oluşan açılma miktarı (kapının dönme miktarı) bir açı olarak ifade edilir. Burada kapının önceki ve sonraki konumları açının kollarını, menteşe ise açının sabit noktasını, dönme merkezini ya da köşesini belirtir. Bu durumda açılma miktarının açının kollarının uzunluğuna bağlı olmadığına, açının kolları ne kadar uzun olursa olsun açılma miktarının değişmediğine vurgu yapılır. Öğrencilerden de açıya günlük yaşamdan örnekler vermeleri istenir ve örneklerinden yola çıkılarak açının bir açılma miktarı olduğuna, diğer bir ifadeyle açının bir dönme miktarı olduğuna yönelik çıkarım yapmaları sağlanır. Bu süreçte tüm öğrencilerin aktif katılımını sağlayan eğitsel oyunlar oynanır ( E2.5 , D3.4 ) . Günlük yaşamdan örneklerin yer aldığı eşleştirme soruları ile öğrencilerin performansları değerlendirilebilir.",
+    "MAT.4.3.6 Öğrencilerden günlük yaşamda yer alan açılara örnekler vermeleri istenerek bu açıların ölçülebilip ölçülemeyeceği hakkında tartışma başlatılarak konuya dikkat çekilir. Çeşitli geometrik şekillerin ve günlük yaşamdan açı örneklerinin yer aldığı görseller öğrencilere dağıtılarak bu açıları ölçmek için standart olmayan bir birim belirlemelerine yönelik etkinlikler yapılır. Öğrencilerin belirlediği standart olmayan açı ölçme birimleri ile açıyı tahmin edebilme, ölçme ve ölçüm sonucu ile tahminini karşılaştırma etkinlikleri yapılır ( KB2.7 ) . Standart olmayan ölçme birimleriyle yapılan ölçüm sonuçlarının birbirinden farklı olabileceği etkinlikler ile öğrencilerden standart açı ölçme birimlerinin gerekliliği konusunda yargıda bulunmaları istenir ( SDB3.3 ) . Örneğin çeyrek daire dilimleri eş ölçülere sahip olacak şekilde daha küçük birimlere ayrılır. Devamında öğrencilere standart bir ölçme aracı ve biriminin gerekliliğinin fark edilmesine yönelik etkinlikler yapılır. Geometri setinden açı ölçer tanıtılır. Açı ölçer ile açı ölçme uygulamalarına girilmez. Bu süreçte açı ile açının dönme durumu arasındaki ilişkiyi ve standart ölçme araçlarının gerekliliğini ortaya çıkaracak performans görevi verilebilir. Elde edilen verilerin değerlendirilmesinde bütüncül puanlama anahtarı kullanılabilir.",
+    "MAT.4.3.7 Öğrencilere \"açı\" kavramı hatırlatılıp daha önce öğrendikleri açı kavramını gözden geçirmeleri sağlanır. Öğrenecekleri dik, dar ve geniş açı hakkında anlayış oluşturmalarını sağlayacak etkinlikler yapılır. Dik açının özelliklerini belirlemeye yönelik görseller gösterilerek ya da öğrencilerle bir dik açı çizilerek özellikleri belirlenir. Dik açıyı standart açı ölçme araçlarıyla fark etmeleri sağlanır. Dik açıdan büyük ve küçük açıları öğrencilerin fark etmelerine yönelik etkinlikler tasarlanır. Dik açıyı referans alarak dik açıdan büyük açıları geniş açı, dik açıdan küçük olan açıları dar açı şeklinde adlandırıp bu açıları sınıflandırır. Açı çeşitlerini ölçerek belirlemek amacıyla gönye tanıtılarak öğrencilerin gönyeyi kullanabilecekleri etkinliklere yer verilir ( MAB5.1 ) . Dik açıyı referans alarak açıları dar ve geniş olaraksınıflandırabilmeye yönelik yapılandırılmış grid kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.7"
+    ],
+    "alan": [
+      "MAB5.1"
+    ],
+    "sosyal_duygusal": [
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/302"
+}

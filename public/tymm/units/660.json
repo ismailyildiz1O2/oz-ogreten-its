@@ -1,0 +1,109 @@
+{
+  "unitId": 660,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. TEMA: MÜZİK KÜLTÜRÜ",
+  "hours": "17",
+  "description": "Bu temada, öğrencilerin Atatürk’ün güzel sanatlara verdiği önemi özetleyebilmeleri, nefesli çalgıları tanıyabilmeleri, klavyeli çalgıları tanıyabilmeleri, popüler müzik türlerini karşılaştırabilmeleri, farklı türdeki eserler ile belirli gün ve haftalarla ilgili eserleri söyleyebilmeleri, ortak repertuvardaki eserleri söyleyebilmeleri, müzik eserlerine bedensel hareketlerle eşlik edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.5.2.1",
+      "title": "Atatürk'ün güzel sanatlara verdiği önemi özetleyebilme",
+      "processComponents": [
+        "a) Atatürk'ün güzel sanatlara verdiği önemi çözümler.",
+        "b) Atatürk'ün güzel sanatlara verdiği önemi sınıflandırır.",
+        "c) Atatürk'ün güzel sanatlara verdiği önemi yorumlar (Kendi cümleleriyle aktarır.)"
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.2",
+      "title": "Farklı türdeki eserleri söyleyebilme",
+      "processComponents": [
+        "a) Bedenini söylemeye hazır hâle getirir.",
+        "b) Uygun söyleme tekniklerini kullanır.",
+        "c) Eserin müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.3",
+      "title": "Nefesli çalgıların özelliklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Nefesli çalgıların özelliklerini ifade eder.",
+        "b) Nefesli çalgıların özelliklerine ilişkin benzerlikleri ifade eder.",
+        "c) Nefesli çalgıların özelliklerine ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.4",
+      "title": "Klavyeli çalgıların özelliklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Klavyeli çalgıların özelliklerini ifade eder.",
+        "b) Klavyeli çalgıların özelliklerine ilişkin benzerlikleri ifade eder.",
+        "c) Klavyeli çalgıların özelliklerine ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.5",
+      "title": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme",
+      "processComponents": [
+        "a) Bedenini söylemeye hazır hâle getirir.",
+        "b) Uygun söyleme tekniklerini kullanır.",
+        "c) Eserin müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.6",
+      "title": "Popüler müzik türlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Popüler müzik türlerinin özelliklerini ifade eder.",
+        "b) Popüler müzik türlerine ilişkin benzerlikleri ifade eder.",
+        "c) Popüler müzik türlerine ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.7",
+      "title": "Ortak repertuvardaki eserleri söyleyebilme",
+      "processComponents": [
+        "a) Bedenini söylemeye hazır hâle getirir.",
+        "b) Uygun söyleme tekniklerini kullanır.",
+        "c) Eserin müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.5.2.8",
+      "title": "Müzik eserlerine bedensel hareketlerle eşlik edebilme",
+      "processComponents": [
+        "a) Ritmik yapıya/eserin anlamına uygun hareketler belirler.",
+        "b) Ritmik yapıya/eserin anlamına uygun hareketler sergiler."
+      ]
+    }
+  ],
+  "keyConcepts": "Atatürk ve güzel sanatlar",
+  "support": [
+    "Atatürk'ün güzel sanatlara verdiği önem, Popüler müzik türleri ile ilgili çevrim içi araçlar aracılığıyla konuyla ilgili videolar izlettirilebilir. Kısa sorular hazırlanarak soru-cevap etkinlikleri yaptırılabilir. Öğrencilere, nefesli ve klavyeli çalgıların sesleri dinletilir ve dinledikleri sesin hangi çalgıya ait olduğunu tahmin etmeleri istenebilir. Sınıf içerisinde nefesli ve klavyeli çalgılar varsa, bu çalgıları denemelerine izin verilebilir. Sınıfta nefesli ve klavyeli çalgılarla ilgili istasyonlar oluşturulabilir. Öğrencilere çalgılar inceletilebilir, oyunlar oynatılabilir, şarkılar dinletilebilir, kısa videolar izletilebilir ve çalgıların özelliklerini tanıtan etkinlikler düzenlenebilir. Öğrencilerin ilgisine, gelişim seviyesine uygun kısa, eğlenceli, kolay anlaşılır eserler belirlenebilir. Şarkı sözlerinin öğrenilmesini kolaylaştırmak için görsel materyallerden yararlanılabilir ya da eserlerin sözlerini anlatan devinimsel hareketler kullanılabilir. Bedensel hareketlerin nasıl yapılacağını gösteren görsel ve işitsel materyaller kullanılabilir. Bedensel hareketleri gösteren videolar düşük oynatma hızı ile oynatılarak öğrencilerin bedensel hareketleri tekrarlamaları istenebilir. Hareketlere basit ve yavaş ritimlerle başlanabilir. Sınıftaki öğrencilerden, iş birlikli öğrenme doğrultusunda akranlarına yardımcı olmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere Atatürk'ün güzel sanatlara verdiği önem, popüler müzik türleri ile ilgili çeşitli araştırma ödevleri verilebilir, projeler yaptırılabilir ve bunları sınıfta sunmaları istenebilir. Öğrencilerden, nefesli ve klavyeli çalgılar tasarlamaları istenebilir. Öğrencilerin yakından uzağa, çevreden evrene ilkesi kapsamında çeşitli nefesli ve klavyeli çalgıları araştırmaları ve sınıfta sunmaları istenebilir. Öğrencilerin nefesli ve klavyeli çalgıları bir karakter olarak düşünerek karikatür oluşturmaları istenebilir. Belirli gün ve haftalarla ilgili eserler oluşturmaları ve söylemeleri istenebilir. Farklı türlerde kendi seçtikleri ya da kendi ürettikleri eserleri doğru duruşla ezgisel yapılarına uygun olarak uygun olarak solo ya da küçük gruplar hâlinde söylemeleri istenebilir. Farklı formlardaki (şarkı, türkü, marş vb.) eserleri de araştırmaları ve sınıfta sunmaları istenebilir. Öğrencilerin dinledikleri müziklere, kendi oluşturdukları bedensel hareketlerle eşlik etmeleri ve bunu sınıfta sergilemeleri istenebilir. Öğrencilere eserlerin ritmik yapılarını ve anlatımlarını uygun bedensel hareketlerle ifade edebilecekleri projeler yaptırılabilir. Çalgı çalabilen öğrencilerin söylenen eserlere kendi çalgılarıyla eşlik etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; gözlem formu, kısa cevaplı ve açık uçlu sorular, kontrol listesi, çoktan seçmeli testler, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir. Atatürk'ün güzel sanatlara verdiği önemi özetleyebilmelerine, nefesli ve klavyeli çalgıların özelliklerini karşılaştırabilmelerine, popüler müzik türlerini karşılaştırabilmelerine yönelik performans görevi verilebilir.."
+  ],
+  "teachingApplications": [
+    "MÜZ.5.2.1.",
+    "Öğrencilere Atatürk'ün güzel sanatlar hakkındaki fikirleri ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Alınan cevaplar doğrultusunda öğrencilerin Atatürk'ün güzel sanatlara verdiği önem hakkında çeşitli basılı ve çevrim içi materyaller aracılığıyla (kitaplar, arşivler, anılar vb.) konuyu inceleyip araştırarak çözümlemeleri istenir. Yapılan bu araştırmalarla Atatürk'ün güzel sanatların korunup geliştirilmesi için harcadığı çabalar göz önüne serilir (OB2, D14.3, D15.2, D19.2). Ayrıca araştırıp buldukları ve çözümledikleri bu bilgiler ışığında Atatürk'ün güzel sanatlar hakkındaki fikirlerini sınıflandırmaları istenir (D7.3). Daha sonra öğrencilerden Atatürk'ün bu görüşlerini kendi cümleleri ile sunum yoluyla yorumlamaları istenir. Değerlendirmeler; kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formları gibi araçlardan biriyle yapılabilir. Atatürk'ün güzel sanatlara verdiği önemi özetleyebilmelerine yönelik performans görevi verilebilir.",
+    "MÜZ.5.2.2.",
+    "Öğrencilerden söylenecek okul şarkısı, marş, Türk halk müziği, Türk sanat müziği, pop müzik vb. türlerden seçilen eser(ler)i dikkatle dinlemeleri istenir (SAB9, E3.2). Öğrencilerin bedenlerini söylemeye hazır hâle getirmeleri için \"otururken veya ayakta; ayakların omuz hizasında açılarak vücudun dengeli ve dik bir şekilde durması\" gerektiği söylenir. Bu duruş öğretmen tarafından gösterilir ve omurga sağlığı bakımından önemine dikkat çekilir (D13.4). Daha sonra öğrencilerden bedenlerini söylemeye hazır hâle getirmeleri istenir ve bu sırada çeşitli ses egzersizleri yapılabilir. Ardından eserin sözleri önce öğretmen tarafından söylenir ve öğrencilerin tekrar etmeleri istenir. Sözlerin tekrar edilmesinden sonra öğrencilere şarkının nefes yerleri söylenir ve öğrencilerin doğru nefes yerlerinde nefes almaları sağlanır. Bu sırada eseri grup arkadaşları ile söylemeleri için öğrenciler cesaretlendirilir (E1.5). Son olarak, öğrencilerden eserleri grup olarak seslendirirken iş birliği içinde, doğru duruşla, nefes yerlerine odaklanarak ve müziksel bileşenlere uygun şekilde söylemeleri istenir (SDB2.1, SDB2.2, E1.4, E3.2, D3.4, D4.1, OB9). Ayrıca eserin ritmik yapısına ya da anlatımına uygun bedensel hareketler bireysel ve grup olarak yapılabilir. Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir.",
+    "MÜZ.5.2.3.",
+    "Öğrencilere ağaç ve bakır nefesli çalgıların (zurna, ney, flüt, kaval, tulum, sipsi, klarnet, obua, fagot, trompet, trombon, saksafon, tuba vb.) neler olabileceği ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Bu çalgıların özelliklerine dikkat çekebilmek amacıyla görsel ve işitsel materyaller kullanılabilir. Tanıtılan çalgılar soru-cevap etkinlikleri (bilgi yarışması, doğru-yanlış oyunları vb.) ile oyunlaştırılır (SDB1.1, E2.5, E3.8). Çalgıları görselleştirme sürecinde çevrim içi araçlardan yararlanılır (OB2, OB4) İlgili çalgının alan yazınındaki başlıca eserleri varsa dinletilir, kültürel mirasa katkısı olan başlıca icracıları tanıtılır (SAB9, D15.2, OB5). Öğrencilerin bu eserler ve icracılarına saygı duymaları gerektiği vurgulanır (D14.3). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Daha sonra öğrencilerin bu çalgıların özelliklerini, benzerliklerini ve farklılıklarını ayrı ayrı sözlü olarak ifade etmeleri istenir. Değerlendirmeler; gözlem formu, kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formu gibi araçlardan biriyle yapılabilir. Nefesli çalgıların özelliklerini karşılaştırabilmelerine yönelik performans görevi verilebilir. MÜZ.5.2.4. Öğrencilere klavyeli (tuşlu) çalgıların (piyano, org, melodika, akordeon vb.) neler olabileceği ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Bu çalgıların özelliklerine dikkat çekebilmek amacıyla görsel ve işitsel materyaller kullanılabilir. Tanıtılan çalgılar soru-cevap etkinlikleri (bilgi yarışması, doğru-yanlış oyunları vb.) ile oyunlaştırılır (SDB1.1, E2.5, E3.8). Çalgıları görselleştirme sürecinde çevrim içi araçlardan yararlanılır (OB2, OB4). İlgili çalgının alan yazınındaki başlıca eserleri varsa dinletilir, kültürel mirasa katkısı olan başlıca icracıları tanıtılır (SAB9, D15.2, OB5). Öğrencilerin bu eserler ve icracılarına saygı duymaları gerektiği vurgulanır (D14.3). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Daha sonra öğrencilerin bu çalgıların özelliklerini, benzerliklerini ve farklılıklarını ayrı ayrı sözlü olarak ifade etmeleri istenir. Değerlendirmeler; gözlem formu, kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formu gibi araçlardan biriyle yapılabilir. Klavyeli çalgıların özelliklerini karşılaştırabilmelerine, yönelik performans görevi verilebilir.",
+    "MÜZ.5.2.5.",
+    "Öğrencilerin millî kimliklerini tanımalarına olanak sağlayacak belirli gün ve haftaları konu alan şarkı, türkü ve marş türlerinde söyleyecekleri eser(ler)i dikkatle dinlemeleri istenir (D11.2, D14.3, D19.2, SAB9, E3.2). Bu tema içerisinde belirli gün ve haftalara denk gelen önemli günlerde farklı eserlerle, farklı etkinlikler yaptırılır. Öğrencilerin bedenlerini şarkı söylemeye hazır hâle getirmeleri için \"otururken veya ayakta; ayakların omuz hizasında açılarak vücudun dengeli ve dik bir şekilde durması\" gerektiği söylenir. Bu duruş öğretmen tarafından gösterilir ve omurga sağlığı bakımından önemine dikkat çekilir (D13.4). Daha sonra öğrencilerden bedenlerini söylemeye hazır hâle getirmeleri istenir ve bu sırada çeşitli ses egzersizleri yapılabilir. Ardından eserin sözleri önce öğretmen tarafından söylenir ve öğrencilerin tekrar etmeleri istenir. Sözlerin tekrar edilmesinden sonra öğrencilere şarkının nefes yerleri söylenir ve öğrencilerin doğru nefes yerlerinde nefes almaları sağlanır. Bu sırada eseri grup arkadaşları ile söylemeleri için öğrenciler cesaretlendirilir ve onlardan belirli gün ve haftalarla ilgili söylenen eserin ruhunu (coşku, hüzün vb.) yansıtmaları beklenir (E1.5). Son olarak, öğrencilerden eserleri grup olarak seslendirirken iş birliği içinde, doğru duruşla, nefes yerlerine odaklanarak ve müziksel bileşenlere uygun şekilde söylemeleri istenir (SDB2.1, SDB2.2, E1.4, E3.2, D3.4, D4.1, OB9). Ayrıca eserin ritmik yapısına ya da anlatımına uygun bedensel hareketler bireysel ve grup olarak yapılabilir. Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir.",
+    "MÜZ.5.2.6.",
+    "Öğrencilere ülkemizdeki ve dünyadaki popüler müzik türlerinden (Anadolu Rock, Türkçe sözlü pop, arabesk, caz vb.) örnekler, görsel ve işitsel materyaller aracılığıyla izletilir/dinletilir (SAB9). Daha sonra dinledikleri popüler müzik türlerinin neler olabileceği ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Bu müziklerin onlarda nasıl bir duygu uyandırdığını ifade etmeleri istenir (SDB2.3, OB1). Ardından popüler müzik türlerinin çalgısal, ezgisel ve sözlü niteliklerini pekiştirici eğitsel oyunlar oynanır (SDB1.1, E2.5, E3.8). Ülkemizdeki ve dünyadaki popüler müzik türlerinin başlıca icracılarından ve başlıca eserlerinden kültürel mirasa katkısı olan örnekler çeşitli çevrim içi araçlarla dinletilir (SAB9, OB2, OB5, D15.2, D19.3). Öğrencilerin bu eserler ve icracılarına saygı duymaları gerektiği vurgulanır (D14.3). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Öğrencilerin dinletilen müzik türlerinin özelliklerini fark etmeleri ve bu özellikleri kendi cümleleriyle yorumlamaları istenir (OB1). Öğrencilere dinledikleri müzik türlerinin benzer ve farklı özellik taşıyıp taşımadıkları hakkında sorular sorulur. Bu özellikleri ayrı ayrı açıklamaları istenir. Değerlendirmeler; kısa cevaplı ve açık uçlu sorular, gözlem formu, çoktan seçmeli testler gibi araçlardan biriyle yapılabilir. Popüler müzik türlerini karşılaştırabilmelerine yönelik performans görevi verilebilir.",
+    "MÜZ.5.2.7.",
+    "Öğrencilere somut olmayan kültürel mirasın korunmasına olanak sağlamak amacıyla ortak repertuvarda yer alan (Bkz: Ortak repertuvar listesi) şarkı, türkü ve marş türlerindeki eserleri dikkatle dinlemeleri istenir (D14.3, D15.2, D19.3, SAB9, E3.2). Öğrencilerin bedenlerini şarkı söylemeye hazır hâle getirmeleri için \"otururken veya ayakta; ayakların omuz hizasında açılarak vücudun dengeli ve dik bir şekilde durması\" gerektiği söylenir. Bu duruş öğretmen tarafından gösterilir ve omurga sağlığı bakımından önemine dikkat çekilir (D13.4). Daha sonra öğrencilerden bedenlerini söylemeye hazır hâle getirmeleri istenir ve bu sırada çeşitli ses egzersizleri yapılabilir. Ardından eserin sözleri önce öğretmen tarafından söylenir ve öğrencilerin tekrar etmeleri istenir. Sözlerin tekrar edilmesinden sonra öğrencilere şarkının nefes yerleri söylenir ve öğrencilerin doğru nefes yerlerinde nefes almaları sağlanır. Bu sırada ortak repertuvardaki eserlerin bütün yurtta söylendiğine özellikle dikkat çekilerek eserleri grup arkadaşları ile söylemeleri için öğrenciler cesaretlendirilir (E1.5). Son olarak, öğrencilerden eserleri grup olarak seslendirirken iş birliği içinde, doğru duruşla, nefes yerlerine odaklanarak ve müziksel bileşenlere uygun şekilde söylemeleri istenir (SDB2.1, SDB2.2, E1.4, E3.2, D3.4, D4.1, OB9). Ayrıca eserin ritmik yapısına ya da anlatımına uygun bedensel hareketler bireysel ve grup olarak yapılabilir. Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir. MÜZ.5.2.8.",
+    "Müzik kültürü temasında öğrenilen müzik eserlerinin ritmik yapısına (tempo) ve anlatımına (coşkulu, hüzünlü vb.) uygun bedensel hareketler öğrenciler tarafından belirlenir. Ardından birkaç deneme yapılarak hareketler pekiştirilir. Hareketleri uygun bir şekilde yapabilmeleri için öğrenciler öğretmen tarafından sözlü olarak cesaretlendirilir (E1.5). Öğrencilerden hareketlere odaklanarak bireysel/grup hâlinde eserin ritmik yapısına ya da anlamına uygun bedensel hareketleri sergilemeleri istenir (KB2.13, E3.2, OB9, SDB2.1, SDB2.2). Eserlere grup olarak bedensel hareketlerle eşlik ederken öğrencilerin dayanışma içinde olmaları sağlanır (D3.4, D4.1). Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir. Ritmik yapıya/eserin anlamına uygun hareketler belirlemelerine ve sergilemelerine yönelik performans görevi verilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/660"
+}

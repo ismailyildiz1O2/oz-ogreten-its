@@ -1,0 +1,58 @@
+{
+  "unitId": 81363007,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "7. ÜNİTE: EDEBİYAT UYGULAMALARI II - TARTIŞMA",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.2.3.1",
+      "title": "Bağlama ve belirlenen amaca uygun içerik, hedef, yöntem, strateji seçer",
+      "processComponents": [
+        "Verilen göreve uygun olarak hedef belirlenir, çalışmanın formatı belirlenir. Buna uygun strateji seçilir, işe vuruk yöntem ve teknikler listelenerek planlama yapılır."
+      ]
+    },
+    {
+      "code": "EDU.2.3.2",
+      "title": "Tartışma içeriği hakkında araştırma yapar",
+      "processComponents": [
+        "Tartışmada, süreç içerisinde edinilen önemli bilgiler ile ön bilgiler ve/veya başka kaynaklardan edinilen bilgiler arasında bağlantı kurulur.",
+        "Bir dizi belge veya metin; tutum, örnekler, kanıtlar, benzerlik, doğruluk, önem ve tutarlılık bakımından karşılaştırılır."
+      ]
+    },
+    {
+      "code": "EDU.2.3.3",
+      "title": "Taslak metin oluşturur",
+      "processComponents": [
+        "Tartışmadaki olay, durum, olgu, nesne vb. unsurlar belirli özelliklere göre sınıflandırılır.",
+        "Okunan, dinlenen ve/veya izlenen bir metindeki anlatı, yönergeler ve bilgiler mantıksal ilişkilere uygun olarak yeniden oluşturulur.",
+        "Kısa bir iletiye veya metne yönelik tartışma nezaketine uygun karşılık verilir."
+      ]
+    },
+    {
+      "code": "EDU.2.3.4",
+      "title": "Metinde destekleyici unsurlara yer verir",
+      "processComponents": [
+        "Tartışmada ses; fark edilebilir/işitilebilir bir düzeyde, dikkat çekme amacıyla vurgunun/tonlamanın yanı sıra anlam ayırıcı özelliğine dikkat edilerek kullanılır.",
+        "Argümanı desteklemek üzere fotoğraf, resim, tablo, şekil, grafik, şema, harita, kroki, diyagram, duygu belirten görsel ve renkler kullanılır."
+      ]
+    },
+    {
+      "code": "EDU.2.3.5",
+      "title": "Tartışma sürecini değerlendirir",
+      "processComponents": [
+        "Tartışma sürecine yönelik öz değerlendirme yapılır. Duygu, düşünce, davranışlar ve bu sürece etki eden ortamdaki olaylar, kişiler, fiziksel çevrenin etkileri, tartışmada kullanılan söz varlığı, dil yapısı, anlatım kuralları; hitap tarzı ve üslubun seçilmesindeki duyuşsal durum, ilgi alanları ve zihinsel faktörler değerlendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

@@ -1,0 +1,104 @@
+{
+  "unitId": 465,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "2.TEMA: İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+  "hours": "38",
+  "description": "Bu temada öğrencilerin cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyı bir cebirsel ifadeyle çarpma işlemini yorumlayabilmeleri, denklem ve eşitsizlikleri kullanarak matematiksel problemleri çözebilmeleri, sayılar ve özellikleri üzerine muhakeme yapabilmeleri, temel aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki süreci algoritma ifade yöntemlerini kullanarak yapılandırabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.7.2.1",
+      "title": "Gerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme",
+      "processComponents": [
+        "a) Gerçek yaşam durumlarına ya da matematiksel durumlara karşılık gelen cebirsel ifadelerle işlemleri inceler.",
+        "b) Toplama ve çarpma işlemlerinin özelliklerini, cebirsel ifadelerde işlem yaparken kullanır.",
+        "c) Bu işlemler ve sonuçları arasındaki denkliği açıklar."
+      ]
+    },
+    {
+      "code": "MAT.7.2.2",
+      "title": "Birinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme",
+      "processComponents": [
+        "a) Verilen gerçek yaşam problemlerindeki nicelikleri belirler.",
+        "b) Nicelikler arasındaki eşitlik ve eşitsizlik ilişkilerini belirler.",
+        "c) Belirlenen nicelikleri cebirsel olarak ifade eder.",
+        "ç) Belirlenen nicelikleri ve ilişkileri denklem veya eşitsizlik olarak ifade eder.",
+        "d) Denklem ve eşitsizliklerin çözümünde bir strateji oluşturur.",
+        "e) Belirlediği stratejiyi çözüm için uygular.",
+        "f) Çözümün doğruluğunu uygun örnek ve temsiller ile kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için olası farklı çözüm stratejilerini inceler.",
+        "ğ) Çözüme ulaştıran stratejilerin uyarlanabileceği uygun genelleme ve sınıflamalar yapar.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.7.2.3",
+      "title": "Sayılar ve özelliklerini içeren ispatlara ilişkin matematiksel muhakeme yapabilme",
+      "processComponents": [
+        "a) Sayılar ve özellikleriyle ilgili ilişkilere yönelik örneklere ve örüntülere dayalı varsayımlarda bulunur.",
+        "b) Varsayımına yönelik sayı örüntülerini listeler.",
+        "c) Elde ettiği örüntülerin, varsayımını karşılayıp karşılamadığını sınar.",
+        "ç) Ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel veya cebirsel olarak ifade eder.",
+        "d) Sunduğu önermenin katkısına yönelik gerekçeler sunar.",
+        "e) Sayılar ve özelliklerine ilişkin durumlarda cebirsel ispat yöntemlerini seçerek işe koşar.",
+        "f) Önermeyi gözden geçirerek yeni durumlara uyarlar."
+      ]
+    },
+    {
+      "code": "MAT.7.2.4",
+      "title": "Temel aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki süreci algoritma ifade yöntemlerini kullanarak yapılandırabilme",
+      "processComponents": [
+        "a) Aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki adımları ve ilişkileri açıklar.",
+        "b) Algoritma ifade yöntemlerini kullanarak incelediği adımlar ve ilişkilerden uyumlu bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Eşitsizliğin her iki tarafına aynı toplama veya çıkarma işlemi uygulanırsa eşitsizliğin yönü değişmez. •  Eşitsizliğin her iki tarafına aynı pozitif rasyonel sayılarla çarpma veya bölme işlemi uygulanırsa (bölen sıfırdan farklı olmak üzere) eşitsizliğin yönü değişmez. •  Eşitsizliğin her iki tarafına aynı negatif rasyonel sayılarla çarpma veya bölme işlemi uygulanırsa (bölen sıfırdan farklı olmak üzere) eşitsizliğin yönü değişir. •  Denklem veya eşitsizliklerin çözümleri, o denklemi veya eşitsizliği sağlayan değerlerdir. Anahtar Kavramlar algoritma, benzer terim, cebirsel ifadeler, denklem, eşitsizlik, ispat, katsayı, sabit terim Sembol ve Gösterimler ≤ , ≥",
+  "support": [
+    "Öğrencilerin cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayı ile cebirsel ifadeyi çarpma işlemlerini modeller üzerinden ele alarak kolaydan zora doğru ilerlemeleri sağlanabilir. Bu süreçte bireysel olarak öğrencilere destek olunabilir. Denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinin çözümlerinde öncelikle eşitliğin tek tarafında değişken bulunan denklem ve eşitsizlik problemleri ile başlanabilir ve süreçte daha karmaşık denklemlere geçilebilir. Problemlerin çözümünde öğrenciyle bireysel olarak ilgilenilebilir ve çözüm sürecine adım adım yönlendirilebilir. Sayılar ve özelliklerine ilişkin cebirsel ispatların adımları verilip öğrencilerin bunları incelemeleri ya da tamamlanmamış ispatlar verilip tamamlamaları istenebilir. Bu süreç grup çalışmaları ile desteklenebilir. Sayılar ve özelliklerini içeren cebirsel ispatlar görsel ispatlar ile desteklenerek verilebilir. Öğrencilerden algoritma adımlarını küçük parçalar hâlinde ve akış şeması gibi görsel araçlar üzerinde çalışmaları istenebilir. Öğrencilerin benzer algoritmaların farklı ifade yöntemleri ile gösterilmesi üzerine çalışarak uygulama yapmaları ve algoritma kavramlarını pekiştirmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin cebirsel ifade, denklem ve eşitsizliklerin kullanıldığı farklı disiplinlerle ilişkili gerçek yaşam problemlerini çözmeleri sağlanabilir. Böylece matematiğin farklı disiplinlerdeki kullanım alanlarına yönelik farkındalık geliştirmeleri beklenebilir. Denklem ve eşitsizlik içeren problem kurmaları ve çözmeleri beklenebilir. Geometrik şekillerin özelliklerine yönelik cebirsel ispatlar yapmaları sağlanabilir. Kendi tasarlayacakları bir oyuna ve oyunun çözümüne ait bir algoritma oluşturmaları beklenebilir. Gerçek yaşam problemlerinin çözümüne yönelik temel programlama dillerinde oluşturulmuş algoritmalar verilerek bu algoritmaları incelemeleri sağlanabilir. Bu algoritmalardan yararlanarak kendi sözde kodlarını bu programlama diline dönüştürmeleri istenebilir. Öğrencilerin ikili gruplar hâlinde çalışmaları ve birbirlerinin algoritmalarını incelemeleri sağlanabilir"
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu, doğru-yanlış veya eşleştirmeli sorulardan oluşan izleme testleri ve çalışma kâğıtları ile performans görevi kullanılarak değerlendirilebilir. Tarihsel süreçteki denklem ve eşitsizliklerle ilgili araştırma yapmalarına ve sunum hazırlamalarına yönelik bir performans görevi verilebilir. Bu görev bilgi toplama, bilgileri analiz etme ve sunum hazırlama kriterlerini barındıran bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca performans görevi hazırlama sürecinde öğrencilerin kendilerini ve arkadaşlarını değerlendirmelerini sağlamak amacıyla öz değerlendirme ve akran değerlendirme formları kullanılabilir. Performans ürünü, izleme testi ve çalışma kâğıtları sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.7.2.1 Öğrencilerin gerçek yaşam durumlarına ya da matematiksel durumlara karşılık gelen cebirsel ifadeleri ve işlemleri incelemeleri sağlanır. Bu süreçte öğrencilerden terimleri (bener terim, sabit terim ya da katsayı) ve işlemlerin anlamlarını belirlemeleri istenir. Cebirsel ifadeleri bir rasyonel sayıyla çarpma işlemlerinde paydası 1 olan rasyonel sayılarla (tamsayılarla) başlanır. Öğrencilerin cebirsel ifadelerle işlem yaparken toplama ve çarpma işlemlerinin özelliklerini kullanmaları sağlanır. Örneğin \"5(a-b)=(a-b)5=5a-5b ya da 3x+4+5x+2=3x+5x+4+2= x(3+5)+6=8x+6\" gibi cebirsel işlemlerde öğrencilerin işlem sonucunu bulmak için birleşme, değişme ve dağılma özelliklerinin kullanıldığını fark etmeleri beklenebilir. Bu süreçte grup çalışmaları yapılarak öğrencilerin işlemler üzerine tartışmaları sağlanabilir ( SDB2.2 ) . Grup çalışmaları yürütülürken geri bildirimler verilebilir. Grup çalışmaları sonucunda öğrencilerin başlangıçtaki ifadeye denk cebirsel ifadeler bulmaları beklenir. Bu bağlamda öğrencilerin cebirsel ifadelerle yapılan işlemler sonucunda elde edilen ifade değişse de değerinin değişmediğini fark etmeleri sağlanır. Öğrencilerden denk ifadelerin doğruluğunu kontrol etmeleri için değişkenlere değerler vermeleri ya da işlemleri çeşitli modeller ( MAB3 ) üzerinde göstermeleri istenir. Öğrencilere cebirsel ifadelerle işlem yapılmasını gerektiren açık uçlu, doğru-yanlış veya eşleştirmeli sorulardan oluşan izleme testi uygulanabilir.",
+    "MAT.7.2.2 Birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin öğretimi problem çözme süreciyle birlikte ele alınır. Gerçek yaşam problemlerinin çözümünde öncelikle öğrencilerin problemde verilen nicelikleri belirlemeleri istenir. Problem bağlamları sürdürülebilirlik gibi gerçek yaşam durumları arasından seçilebilir. Öğrenciler tarafından nicelikler ve ilişkiler tespit edilerek niceliklere uygun cebirsel ifadeleri oluşturmaları sağlanır. Cebirsel olarak ifade edilen nicelikler eşit, biri diğerinden büyük ya da küçük olabilir. Öğrencilerden problem durumlarında bilinmeyen niceliklerdeki eşitlik ve eşitsizlik durumlarını belirlemeleri ve ax + b = c, ax + b = cx + d veya ax+ b < cx + d gibi denklem ve eşitsizlikleri yazmaları sağlanır. Öğrencilerin sürdürülebilirlik okuryazarlıklarını geliştirmek için fen bilimleri dersi ile ilişkilendirilerek örneğin \"Bir şehrin günlük enerji tüketimi 500 megawatt (MW) ve günlük yenilenebilir enerji üretimi 'y' megawatt (MW) olarak ölçülüyor. Şehrin enerji tüketiminin sürdürülebilir olması için yenilenebilir enerji kaynaklarından elde edilen enerjinin toplam enerji tüketiminin en az %60'ını karşılaması gerekmektedir. Buna göre şehrin enerji tüketiminin sürdürülebilir olması için en az ne kadar enerji üretimi yapması gerekir?\" şeklinde bir problem seçilebilir. Bu problemin çözümünde sürdürülebilir sistemler oluşturmak ( OB8 ) ve tüketimi azaltmak için neler yapılabileceği tartışılarak sürdürülebilirlikle ilgili sorunlara öğrencilerin çeşitli çözümler önermeleri beklenebilir ( SDB2.3 , SDB3.3 ) . Öğrencilerin duyarlılık değerini kazanmaları için, temiz enerji kaynaklarının kullanımını önemsemeleri ( D5.2 ) ve enerji tasarrufuna yönelik planları uygulamaları ( D17.2 ) teşvik edilir. Ardından problemde verilen matematiksel eşitsizliğin ne olduğu belirlenir.",
+    "Bir problem durumuna karşılık gelen denklem veya eşitsizliklerin ifade edilmesinden sonra öğrencilerden her biri için çeşitli temsillerden ( MAB3 ) yararlanarak denklem ya da eşitsizlikleri çözmek için stratejiler oluşturmaları ve stratejilerini açıklamaları istenir. Öğrenciler tarafından denklem ve eşitsizlik çözümlerinde informal ya da formal stratejiler kullanılabilir. İnformal stratejiler (deneme ve yanılma, geriye doğru çalışma gibi) kullanan öğrencilerin stratejilerinin kullanışlılığı tartışılabilir ( SDB2.2 ) . Bu süreçte daha önce eşitlik korunumuna yönelik ön bilgiye sahip olan öğrencilerin denklem ve eşitsizliğin her iki tarafına aynı işlemleri uygulayarak çözüme ulaşmaları sağlanır. Ayrıca eşitsizliklerin çözümü yapılırken, öğrencilerden eşitsizliklerin aynı negatif sayıyla çarpılması ya da bölünmesi durumunda eşitsizliğin yön değiştirdiğini fark etmeleri beklenir. Bu uygulama sırasında örneğin denklemin her iki tarafı 2 ile çarpıldığında denklemin her bir teriminin 2 katına çıktığı ancak denklemin çözüm değerinin değişmediği tartışılabilir. Eşitsizliklerde ise öğrencilerin örneğin eşitsiliğin her iki tarafı -2 ile çarpıldığında eşitsizliğin yönünün nasıl etkilendiğini çeşitli değerler vererek fark etmeleri sağlanabilir. Diğer yandan denklem ve eşitsizliklerin çözümünde öğrencilerin daha akıcı ve esnek çözümler geliştirmeleri teşvik edilir. Bulunan çözümlerin doğruluğunun uygun temsiller ile kontrol edilmesi sağlanarak çözüme ulaştırmayan stratejileri değiştirmeleri beklenir. Bu yolla öğrencilerin yeni ve değişen durumlarla ilgili düşünce biçimi geliştirmeleri sağlanabilir ( SDB3.1 ) . Bu süreçte öğrencilerden bulunan çözüm değerlerini denklemde veya eşitsizliklerde yerine koyarak eşitliğin veya eşitsizliğin sağlanıp sağlanmadığını kontrol etmeleri istenir. Eşitsizliklerin çözümleri sayı doğrusu üzerinde gösterilerek aralıklar dışında kalan değerlerin eşitsizliği sağlamadığını görmeleri de beklenir ( E3.10 ) . Denklem ve eşitsizliklerin çözümü için öğrencilerden farklı ve yaratıcı stratejiler oluşturmaları ve bu stratejileri paylaşmaları istenir ( E3.3 ) . Ortaya çıkan stratejilerle öğrencilerin çözüme ulaştıran farklı yolların olabileceğine yönelik farkındalık geliştirmeleri sağlanır ( E3.5 ) . Denklem ve eşitsizliklerin çözümüne yönelik farklı matematiksel problemler oluşturularak öğrencilerin çözümler için geliştirdikleri stratejileri yeni durumlara uyarlamaları beklenir ( SDB3.2 ) . Öğrencilerin çözüme ulaştıran stratejilerde denklemlerin ve eşitsizliklerin çözümlerinin denklemi ya da eşitsizliği doğru yapan değerler olduğuna yönelik genellemeye ulaşmalarına fırsat verilir. Diğer yandan \"3x-x=4x-2x, 2x+6=x, 3x-2x=x+4\" şeklinde denklemlerle karşılaşan öğrencilerin bu denklemlerin çözümünün değişkenin alacağı her değer için doğru olduğu, yalnız bir değer için doğru olduğu ya da herhangi bir değer için doğru olmadığı gibi sonuçları fark etmeleri sağlanır. Benzer şekilde \"3x + 9 ≥ 3 (x+3), 3x - 1 < 0 , 5x - 3x > 4 + 2x\" şeklinde eşitsizliklerin çözümlerinde değişkenin alacağı her değer için doğru olduğu, bir veya bazı değerleri için doğru olduğu ya da hiçbir değer için doğru olmadığı şeklinde açıklama yapmaları beklenir. Denklem ve eşitsizliklerin kullanıldığı gerçek yaşam problemleri içeren bir çalışma kâğıdı uygulanabilir. Ayrıca öğrencilere tarihsel süreçte denklem ve eşitsizliklerin çözüm stratejilerine ilişkin araştırma yapmaya ve sunum hazırlamaya yönelik bir performans görevi verilebilir. Bu görev bilgi toplama, bilgileri analiz etme veya analitik dereceli puanlama anahtarı ile değerlendirilebilir. Bu performans görevinde öğrencilerin gruplar hâlinde çalışmaları istenebilir ( SDB2.2 ) . Grup çalışmaları sonunda öğrencilerin kendilerini ve arkadaşlarını değerlendirmelerini sağlamak amacıyla öz değerlendirme ve akran değerlendirme formları ( SDB1.1 ) kullanılabilir.",
+    "MAT.7.2.3 Öğrencilerle matematiksel bir ispat yapmanın ne anlama geldiği, neden önemli ve gerekli olduğu tartışılır. Sayılar ve özellikleriyle ilgili verilen durumlara ilişkin muhakeme sürecinde \"iki tek sayının toplamı veya ardışık üç sayının toplamı\" gibi durumlar ele alınır. Öğrencilerin verilen durumlarla ilgili çeşitli varsayımlar (\"İki tek sayının toplamı çifttir ya da tektir.\" gibi) oluşturmaları beklenir. Oluşturdukları varsayımlara yönelik örnek veya sayı örüntülerini belirleyerek varsayımlarını kontrol etmeleri istenir. Bu aşamada örnekler ve sayı örüntüleri liste, tablo gibi temsillerle gösterilerek incelenebileceği gibi; sayılar, nokta dizilimi veya somut materyal gibi temsiller ( MAB3 ) ile de incelenebilir ( OB4 ) . İki tek sayının toplamının tek olduğu varsayımında bulunan öğrencilerin, varsayımlarının doğru olmadığını tersine örnek ile görmeleri ve varsayımlarını değiştirmeleri sağlanır. İncelemelerini yapmalarının ardından örneğin \"x ve y tek sayı ise x+y çift sayıdır.\" şeklinde ispatlayabileceği bir önerme sunmaları istenir. Bu süreçte öğrencilerin ispatlanabilecek önermelerin neler olduğu ve ispatlama sürecinde ise \"her zaman, en az\" gibi kelimelerin kullanım yerlerini anlamaları sağlanır. Öğrencilerden bu önermelerin işlem hızını artırabileceği, büyük sayılarla işlem yaparken kolaylık sağlayabileceği ve işlem sonuçlarını kontrol etmelerine yardımcı olabileceği şeklinde gerekçelendirmeleri beklenir ( SDB3.3 ) . Öğrencilerin sayılar ve özelliklerine ilişkin doğrulanabilecek önermeleri cebirsel olarak ispatlamaları istenir. Örneğin öğrencilerden \"x ve y tek sayı ise x+y çift sayıdır.\" önermesinde kullanılabilecek cebirsel ispat; k ve m birer doğal sayı olmak üzere x=2k+1 ve y=2m+1 iki tek sayıdır. x+y=2k+1+2m+1=2(k+m+1) işleminin sonucu bir çift sayıdır.\" şeklinde bir ispat yapması beklenebilir. Bu süreçte öğrencilerin grup çalışmaları ile işbirliği yapmaları ve düşüncelerini paylaşıp tartışmaları teşvik edilebilir ( SDB2.2 ) . Bu çalışmalarda öğrencilerin birbirlerini ikna sürecinde düşüncelerini gerekçelendirmeleri istenir. Bu çalışmaların sonucunda öğrencilerin önermelerinin bütün sayılar için geçerli olduğunu görmeleri sağlanır. Öğrencilerin ispatlanan önermenin başka hangi durumlara uygulanabileceğini tartışmaları istenerek iletişim becerilerinin gelişmesine katkıda bulunulabilir ( SDB2.1 ) . Bu tartışmalarda öğrencilerden cebirsel ispatların \"iki çift sayının toplamının çift sayı olması\" ya da \"ardışık üç sayının toplamının 3'e tam bölünebilmesi\" gibi farklı durumlarda da kullanılıp kullanılmayacağını değerlendirmeleri beklenir. Bir önermenin farklı ispatların değerlendirilmesini, yarım bırakılmış ispatların tamamlanmasını ya da verilen bir önermenin ispatlanmasını gerektiren açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir.",
+    "MAT.7.2.4 Öğrencilerin aritmetik ve cebirsel ifadelerle işlem içeren durumlarda sonuca götüren süreci önceki sınıf seviyelerinde öğrendiği algoritma ifade yöntemlerini kullanarak yapılandırması sağlanır. Öncelikle aritmetik ve cebirsel ifadelerle işlemleri incelemeleri, sonuca götüren işlem adımları arasındaki ilişkileri belirlemeleri beklenir. Bu sınıf düzeyinde işlemler \"farklı stratejiler kullanılarak yapılan çarpma işlemleri, tam sayılarla yapılabilecek dört işlemler, işlem önceliği, kesirlerle bölme işlemleri, cebirsel ifadelerle işlemler\" gibi durumlar arasından seçilir. Bu sürecin bir problem bağlamında yürütülmesi sağlanır. Öğrencilerin seçtikleri işlem bileşenlerini incelemeleri, işlemde ya da problemin çözümünde sonuca götüren yollardaki adımların ve ilişkilerin algoritma oluşturma sürecinde nasıl kullanılabileceğini belirlemeleri beklenir. Bu süreçte, öğrencilerin çalışmalarını planlamaları ve planlarını uygulamaları desteklenir. Böylece çalışkanlık değerinin kazanılmasına yardımcı olunur ( D3.2 ) . Öğrencilerin belirledikleri algoritmaları doğal dil, sözde kod veya akış şeması kullanarak ifade etmelerine fırsat verilir. Sözde kod yazımında kullanılacak dilin Türkçe olması istenir. Öğrencilerin algoritma oluşum sürecinde iş birliği becerilerini geliştirmek amacıyla grup çalışması gerçekleştirilebilir ( SDB2.2 ) . Grup çalışmalarında oluşturulan algoritmalar tüm öğrencilerle paylaşılıp \"oluşturulan algoritmaların daha kısa şekilde ifade edilip edilemeyeceği\", \"daha uzun olan algoritmaların nasıl kısaltılacağı\", ya da \"hatalı algoritma adımlarının sonucu nasıl etkilediği\" gibi konularda algoritmalara ilişkin tartışmalar yapılması için uygun öğrenme ortamı oluşturulabilir ( SDB2.2 ) . Problem çözme sürecinde öğrencilerin toplumsal bir sorun seçerek belirlenen sorunun çözümünü açıklayan bir algoritma çalışması yapmaları istenebilir. Örneğin çevre kirliliği, trafik sorunları ve enerji tasarrufu gibi konular ele alınabilir. Seçilen problemi çözmek için basit bir algoritma tasarlanabilir. Algoritma oluşturma süreçlerinde öğrencilerin yaratıcılıklarının gelişimleri teşvik edilebilir. Bununla birlikte, algoritma oluşturmalarının ardından toplumsal sorunların çözümünde sorumluluk üstlenmeleri ( D16.2 ) ve enerji tasarrufuna yönelik planları uygulamaları ( D17.2 ) üzerine sınıf tartışmaları gerçekleştirilebilir. Verilen işlem ya da problemlerin çözümüne ait algoritmaları çeşitli ifade yöntemleri ile yazabilecekleri, hatalı algoritmalardaki hataları tespit ederek düzeltebilecekleri veya verilen bir algoritmayı farklı bir yöntemle ifade edebilecekleri açık uçlu, doğru-yanlış veya eşleştirmeli sorulardan oluşan çalışma kâğıdı uygulanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.2",
+      "D17.2",
+      "D3.2",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.3",
+      "E3.5"
+    ],
+    "alan": [
+      "MAB3"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/465"
+}

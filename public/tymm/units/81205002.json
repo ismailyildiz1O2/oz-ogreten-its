@@ -1,0 +1,39 @@
+{
+  "unitId": 81205002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Dünyası Coğrafyası Dersi",
+  "title": "2. ÜNİTE: TÜRK DÜNYASI COĞRAFYASI",
+  "hours": "48",
+  "description": "Bu ünitede Türk dünyasını oluşturan bölge, genel coğrafi özellikleri bakımından değerlendirilecektir. Bu doğrultuda sırasıyla “Türk Dünyasının Genel Coğrafi Özellikleri, Türk Devletleri, Türk Toplulukları ve Türk Dünyasında Bütünleşme” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TDC.2.1.1",
+      "title": "Türk dünyasını oluşturan devlet ve toplulukların dağılışını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.2.2.1",
+      "title": "Türk devletlerinin siyasi ve coğrafi özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.2.3.1",
+      "title": "Dünya genelinde farklı bölgelerde yaşayan Türk halkları ve etnik grupları açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.2.4.1",
+      "title": "Türk halkları arasındaki sosyal, ekonomik, tarihî ve kültürel ilişkileri analiz eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102631807-T%C3%BCrk%20D%C3%BCnyas%C4%B1%20Co%C4%9Frafyas%C4%B1%20d%C3%B6p.pdf"
+}

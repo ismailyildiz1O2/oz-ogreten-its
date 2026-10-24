@@ -1,0 +1,57 @@
+{
+  "unitId": 1575,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY II · 1. Tema: Robotik Sistemlere Giriş Ve Temel Programlama",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK2.1.1",
+      "title": "Robotik sistemlerde yapay zekâya ilişkin kavramları sınıflandırabilme",
+      "processComponents": [
+        "a) Robotik sistemlerde yapay zekâya ilişkin kavramları belirler.",
+        "b) Robotik sistemlerde yapay zekâya ilişkin kavramları günlük hayat ile ilişkilendirir.",
+        "c) Robotik sistemlerde yapay zekâya ilişkin kavramları kullanım alanlarına göre gruplandırır."
+      ]
+    },
+    {
+      "code": "RK2.1.2",
+      "title": "Robotik sistemlerde yapay zekâya ilişkin etik ve güvenlik-gizlilik önlemlerini yönetebilme",
+      "processComponents": [
+        "a) Robotik sistemlerde yapay zekâda etik ve güvenlik-gizlilik risklerini belirler.",
+        "b) Robotik sistemlerde yapay zekâda etik ve güvenlik-gizlilik önlemlerini belirler.",
+        "c) Robotik sistemlerde yapay zekâda etik ilkelerin ve bilgi güvenliğinin-gizliliğinin temel bileşenlerini ayırt eder.",
+        "ç) Robotik sistemlerde yapay zekâ uygulamalarını etik ilkeler ile güvenlik-gizlilik açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "RK2.1.3",
+      "title": "Yapay zekâ destekli robotik sistemlerde algoritmik düşünebilme",
+      "processComponents": [
+        "a) Yapay zekâ destekli robotik sistemlerle çözülebilecek günlük hayat problemi belirler.",
+        "b) Problemin girdi çıktılarını belirler.",
+        "c) Problemin çözümüne ilişkin işlem adımlarını listeler.",
+        "ç) İşlem adımlarını akış şeması ile gösterir."
+      ]
+    },
+    {
+      "code": "RK2.1.4",
+      "title": "Yapay Zekâ Destekli Robotik Sistemlerde Algoritmayı Test Edebilme",
+      "processComponents": [
+        "a) Yapay zekâ destekli robotik sistemlerde geliştirdiği algoritmayı örnek girdilerle test eder.",
+        "b) Algoritmadaki hataları ayıklayarak kullanıma hazır hâle getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "bilgi güvenliği, makine öğrenmesi, veri, yapay zekâ",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB1.Bilişim Teknolojilerini Kullanma (BTYAB1.1. Bilişim Teknolojilerini Sınıflandırma), BTYAB2. Bilgi İşlemsel Düşünme (BTYAB2.1. Algoritmik Düşünme, BTYAB2.4. Test Etme-Hata Ayıklama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1575"
+}

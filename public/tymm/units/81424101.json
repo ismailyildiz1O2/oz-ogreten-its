@@ -1,0 +1,45 @@
+{
+  "unitId": 81424101,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "101. ÜNİTE: GRAFİK TASARIM - GRAFİK TASARIMDA KOMPOZİSYON VE SAYFA TASARIMI",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.2.3.1",
+      "title": "Kompozisyon kurallarını uygular",
+      "processComponents": [
+        "Tipografinin yazıya etkilerini dikkate alarak yazı elemanlarıyla kompozisyon ilkelerine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.2.3.2",
+      "title": "İletişimde tasarımın önemini ayırt eder",
+      "processComponents": [
+        "Sözel ve görsel mesajları etkili ve çekici hâle getirmek için grafik tasarımının önemine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.2.3.3",
+      "title": "Grafik tasarımın sanatsal ve işlevsel yönlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GSA.2.3.4",
+      "title": "Layout (sayfa) tasarımı ve ilkelerini açıklar",
+      "processComponents": [
+        "Tasarımlarda yer alacak tasarım ögelerinin belli bir sayfa düzeni oluşturulmasına değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

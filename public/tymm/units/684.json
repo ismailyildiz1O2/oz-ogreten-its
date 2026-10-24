@@ -1,0 +1,96 @@
+{
+  "unitId": 684,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "3. TEMA: BILGISAYAR AĞLARI VE ILETIŞIM",
+  "hours": "4",
+  "description": "“Bilgisayar Ağları ve İletişim” teması kapsamında öğrencilerin internet ile amacına uygun olarak çalışabilmesi, iletişim teknolojilerini sınıflandırabilmesi ve iletişim teknolojileri ile çalışabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.6.3.1",
+      "title": "İnternet ile amacına uygun olarak çalışabilme",
+      "processComponents": [
+        "a) İleri düzey arama yapmak için kullanabileceği arama motorlarını belirler.",
+        "b) Belirlediği arama motorlarını kullanır.",
+        "c) Öğrendiği yeni internet teknolojilerini verimlilik kapsamında değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.6.3.2",
+      "title": "İletişim teknolojilerini sınıflandırabilme",
+      "processComponents": [
+        "a) Farklı ve eş zamanlı iletişim sürecinde kullanılan bileşenleri belirler.",
+        "b) İletişim araçlarını türlerine göre ilişkilendirir.",
+        "c) İletişim süreci açısından kullanılan araçları gruplandırır."
+      ]
+    },
+    {
+      "code": "BTY.6.3.3",
+      "title": "İletişim teknolojileri ile çalışabilme",
+      "processComponents": [
+        "a) Farklı ve eş zamanlı olarak kullanılan iletişim teknolojilerini amacına uygun olarak belirler.",
+        "b) Bir e-posta aracını amacına uygun olarak kullanır.",
+        "c) İletişim araçlarını kullanım amaçlarına uygunluğu açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "alıcı, arama motoru, eş zamanlı iletişim, farklı zamanlı iletişim, geri bildirim, gönderen, gürültü, internet tarayıcısı, kanal, mesaj",
+  "support": [
+    "Öğrencilere bir arama motorunun nasıl çalıştığını ve etkili arama yapmanın püf noktalarını adım adım gösteren görsel veya işitsel materyaller hazırlanarak öğretmenle birlikte örnek aramalar yapmaları sağlanabilir.",
+    "Öğrencilere farklı iletişim teknolojilerini içeren animasyonlar izletilebilir.",
+    "Öğrencilerin internetteki yanlış bilgileri içeren haberlerden oluşan videolar izletilerek videolardaki hatalar üzerinde tartışmaları sağlanabilir",
+    "Daha önceden web 2.0 araçları/e-içerikler üzerinden hazırlanan iletişim teknolojileri ve kullandıkları iletişim türlerini içeren dijital eşleştirme etkinlikleri yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere, verilen bir konu hakkında farklı arama motorlarını kullanarak bilgi toplamaları ardından elde ettikleri bilgileri karşılaştırmaları, güvenilir kaynakları belirlemeleri istenebilir. Öğrencilerden, belirlenen araştırma konusu için akademik içerikli arama motorlarını kullanarak bilgi toplamaları ve bulgularını sınıfla paylaşmaları istenebilir.",
+    "Öğrencilerden farklı iletişim araçları için farklı mesajlar hazırlaması istenebilir (sesli, görsel, yazılı).",
+    "Öğrencilerden güncel bir internet uygulamasını araştırmaları ve uygulamanın kullanım alanları, avantajları ve dezavantajları hakkında sunum yapmaları istenebilir.",
+    "Sınıf ortamında öğrenciler, iklim değişikliği, yapay zekâ gibi konulara yönelik olarak gruplar hâlinde çalışarak; podcast, haber bülteni gibi farklı sosyal medya platformlarında kullanılabilecek içerikler hazırlayıp sunabilirler. Hazırlanan içerikler okul web sayfası veya EBA üzerinden paylaşılabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; öz değerlendirme formu, dereceli puanlama anahtarı, akran değerlendirme formu, gözlem formu, kontrol listesi kullanılarak değerlendirilebilir.",
+    "Performans görevleri olarak öğrencilerden okulda düzenlenecek \"Bilim ve Teknoloji Haftası\" etkinliğinin duyurusu için web sitesinde kullanılacak bir etkinlik programı hazırlayıp e-posta oluşturarak katılımcılara iletilmesi istenebilir.",
+    "Performans görevi; bilimsel doğruluk, çeşitlilik, gereksiz bilgilerden arındırma, özgünlük ve tamamlanma süresi gibi ölçütler dikkate alınarak dereceleme ölçeği, puanlama anahtarı veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BTY.6.3.1.",
+    "Öğrencilerin bir konuyu araştırırken hangi arama motorlarını tercih ettikleri, hangi arama yöntemlerini kullandıklarına dair sorular sorularak kullanılan arama motorları ve bunları nasıl kullandıkları belirlenir. Öğretmen internette daha verimli ve amacına uygun arama yapabilmek için kullanılabilecek farklı arama motorlarını tanıtır. Arama motorunun özellikleri ve hangi durumda hangisinin kullanımının uygun olacağı hakkında bilgi verilir. Öğrencilere arama motorlarının nasıl çalıştığı, anahtar kelimelerin önemi ve arama operatörlerinin (Örneğin site: yalnızca belirli sitede arama, intitle: yalnızca başlık içinde arama, filetype: istenen dosya türünde arama vb.) nasıl kullanılacağı gösterilir. Öğretmen, arama motorlarını daha etkili kullanabilmek için ileri düzey arama tekniklerini (gelişmiş arama, özel anahtar kelimeler, filtreler) içeren örnek bir arama yapar. Öğrenciler, ileri düzey araştırma yapmak için farklı arama motorları arasından amacına en uygun olanı belirler ( KB2.6 , SDB2.2 ). Öğrenciler belirlenen arama motorlarında anahtar kelimeler kullanarak araştırma yaparlar. Öğrencilere internet aramalarında, doğru kaynağı bulmak için hangi yöntemleri kullandıkları sorulur ve öğrencilerin cevapları tahtaya listelenir ( OB1 ). Arama motoru sonuçlarından yola çıkılarak doğru kaynağı bulmak için dikkat edilmesi gereken yöntemler listelenir. Bilginin kaynağını (kim yazmış?), yayınlanma tarihini, amacını (bilgilendirme mi, reklam mı?), farklı güvenilir kaynaklarla (resmî kurumlar, akademik yayınlar, tanınmış haber kuruluşları) karşılaştırmaları gerektiği belirtilir. Tahtaya listelenen maddeler düzenlenerek ortak bir kontrol listesi hazırlanır. Öğrencilerden bu kontrol listesini internette yaptıkları aramalarda kullanmaları istenir. Hangi maddeleri daha sık kullandıkları ve araştırma sırasında keşfettikleri yeni maddeler olup olmadığı sorularak kontrol listesinin kullanılabilirliği test edilir. Öğrencilerden yaptıkları aramalarda elde ettikleri bilgilerin doğruluğunu nasıl sağladıklarını belirtmeleri istenir ( SDB2.2 ). İnternet aramalarında çıkan sonuçlar arasında karşılaştırma yapmaları üzerinde durulur. Öğrencilerin arama sonucunda elde ettikleri bilgileri dijital bir belge oluşturarak düzenleyip kaydetmeleri sağlanır ( KB2.6 ).",
+    "Öğrencilere \"Yeni internet teknolojileri nelerdir?\" sorusu sorulur. Gelen cevaplar tahtaya yazılır. Cevaplar arasından metin düzenleme, resim düzenleme, içerik oluşturmak için kullanılabilen web 2.0 araçları açıklanır. Bu araçlardan bir örnek seçilerek içerik oluşturma basamakları sınıfta gösterilir (resim ekleme, boyutunu değiştirme vb.). Ardından öğrencilere farklı kaynaklardan alınmış birkaç haber gösterilir ve bunlardan hangilerinin doğru, hangilerinin yanlış bilgi içerdiğini tespit etmeleri ve nedenleriyle açıklamaları istenir ( OB1 ). Bu süreçte, öğrencilerin doğru ve güvenilir bilgiye ulaşma konusunda bilinçlenmeleri ve bilgileri eleştirel bakış açısıyla değerlendirme alışkanlığı kazanmaları desteklenir ( D3.3 ). Öğrencilerin cevapları doğrultusunda, internetteki bilgilerin doğruluğunu teyit etmek için verinin kaynağı, paylaşılma tarihi, hangi kaynaktan alındığı gibi özelliklere dikkat edilmesi gerektiği belirtilir. Daha sonra öğrencilerden doğru bilgiye ulaşmak için dikkat edilmesi gereken noktaları içeren web 2.0 aracıyla dijital ortama aktarabileceği bir ürün oluşturmaları istenir ( E3.3 , OB2 ). Öğrencilerden web 2.0 aracıyla ürün oluştururken tasarım yapmaları, nesne ekleme ve biçimlendirmeleri, sayfayı düzenlemeleri, kayıt işlemi yapmaları istenir ( SDB3.1 ). Hazırlanan içerikler EBA üzerinden paylaşılır. Bu süreçte öğrencilerin dijital okuryazarlık becerilerini geliştirerek teknolojiyi bilinçli kullanmaları teşvik edilir ( D8.2 ). Diğer öğrenciler, arkadaşlarının paylaştıkları içerikleri sosyal ilişkilerde tarafsız davranma kuralını göz önünde bulundurarak akran değerlendirme formu ile değerlendirir (D6.1). Yeni internet teknolojileri incelenir; zaman kazandıran araçlar, daha doğru sonuçlar sunan teknolojik seçenekler ve verimli arama yöntemleri tartışılır, bu araçlar değerlendirilir. Öğrencilerin doğru bilgiye ulaşma yolları ve dijital okuryazarlık becerilerini ne kadar kavradıklarını belirlemek için kavram haritaları ve akış şemaları kullanılabilir. Web 2.0 araçları/e-içerikler üzerinden oluşturulan içeriklerin doğruluğu ve tasarımı için dereceli puanlama anahtarı, iş birliği süreçleri için akran ve öz değerlendirme formu kullanılabilir. Öğrencilerin dijital içerik oluşturma sürecindeki performanslarını ölçmek için gözlem formu, kontrol listesi ve performans görevi gibi araçlar kullanılabilir.",
+    "BTY.6.3.2.",
+    "Öğrencilere iletişim sürecinin temel bileşenlerini (gönderen, alıcı, mesaj, kanal, geri bildirim ve gürültü) içeren bir görsel gösterilir. Öğrenciler bu kavramları kendi cümleleriyle ifade eder (SDB2.1). Öğretmen gelen cevaplardan sonra bu kavramları açıklar. Öğrenciler, bu bileşenlerin dijital iletişimdeki işleyişini kısa bir tartışmayla ele alırlar. Tartışma sırasında öğrenciler arkadaşlarının fikirlerini dinleyerek belirtilen fikirlere katılıp katılmadıklarını saygı çerçevesinde ifade ederler ( D4.2 ). Öğretmen \"Başka bir şehirde yaşayan bir arkadaşınız/akrabanız ile nasıl iletişim kurarsınız?\" sorusunu sorarak öğrencilerin dikkatlerini iletişim sürecinde kullanılan bilişim teknolojilerine çeker. Gelen cevaplar üzerinden çeşitli iletişim araçlarının örnekleri (telefon, e-posta, sosyal medya, video konferans, anlık mesajlaşma uygulamaları vb.) tahtaya yazılır. Öğrencilere eş zamanlı ve farklı zamanlı iletişimin tanımı yapılır. Öğretmen, öğrencilere farklı ve eş zamanlı iletişim sürecinde kullanılan bileşenleri (video konferans, anlık mesajlaşma, e-posta, mektup vb.) içeren bir görsel gösterir. Öğrenciler, verilen bileşenleri kavram haritası kullanarak ilgili başlıklara göre sınıflandırır ( SDB2.1 ). Öğretmen farklı dijital iletişim araçları ve iletişim türlerini gösteren görselleri (telefon, video konferans, e-posta, mektup, televizyon, radyo, gazete, podcast vb.) akıllı tahtada açar. Öğrenciler bu iletişim araçlarını kişisel iletişim ve kitle iletişimi veya sözlü, yazılı, görsel-işitsel gibi türlerine göre sınıflama tablosu kullanarak ilişkilendirir ( KB2.5 ). Sınıflama tablosuna \"Eş zamanlı/ Farklı Zamanlı İletişim Araçları\" başlığı eklenir. Öğrenciler verilen araçları bu başlık altında gruplandırır.",
+    "Öğrencilerin iletişim bileşenlerini nasıl organize ettiklerini görmek için kavram haritası, sınıflama tablosu kullanılabilir. Öğrenciler, iletişim teknolojilerini belirleme ve gruplandırma konularındaki bilgi seviyelerini öz değerlendirme formu doldurarak değerlendirebilirler. Dereceli puanlama anahtarı, öğrencilerin sınıflama ve kavram haritası etkinliklerini belirlenen kriterlere göre değerlendirmek için kullanılabilir.",
+    "BTY.6.3.3.",
+    "Öğrencilerden farklı ve eş zamanlı olarak kullanılan iletişim teknolojilerinden hangilerini günlük hayatta, hangilerini resmî işler için kullanabileceklerini belirtmeleri istenir ( SDB1.1 ). Bu süreçte öğrenciler iletişim teknolojilerinin hangi amaç doğrultusunda kullanılabileceğini belirler.",
+    "Öğretmen akıllı tahta üzerinden e-posta hesabının nasıl açılacağını adım adım gösterir. Ardından EBA üzerinden öğrencilerin sınıf arkadaşlarına nasıl mesaj gönderebilecekleri gösterilir. Her öğrenci bir arkadaşına belli bir konuda (doğum günü, davet, bilgilendirme vb.) uygun bir mesaj hazırlayıp göndererek e-posta aracını amacına uygun şekilde kullanır ( SDB1.2 , OB2 ). Öğrenci, ileteceği mesajın içeriğini oluşturmak için olayla ilgili gerekli bilgileri belirler, bu bilgileri güvenilir kaynaklardan araştırarak doğrular ve uygun dijital araçlar (arama motoru, ansiklopedi,",
+    "dijital not defteri vb.) kullanarak topladığı verileri kaydeder. Bu süreçte öğrencilerin kendi duygu ve düşüncelerini ifade ederken karşısındaki kişiyi dikkatle dinleyerek anlamaya çalışmalarına önem verilir ( D14.1 ). Örneğin bir arkadaşının doğum gününü kutlarken onun hobilerine dair öğrendikleri detayları içeren özel bir mesaj hazırlayarak ona verdiği değeri göstermeleri sağlanabilir. Öğretmen, öğrencilere \"Resmî bir davet göndermek, acil bir mesaj iletmek veya grup çalışması yürütmek için hangi iletişim araçlarını seçersiniz?\" sorusunu yöneltir. Öğrenciler cevaplarını yapılandırarak arkadaşlarıyla paylaşır ( SDB2.1 ). Öğretmen farklı senaryolar (Okuldan izin almak, iş başvurusu yapmak, bir arkadaşınıza doğum günü mesajı göndermek vb.) içeren görevleri tahtada gösterir. Öğrenciler küçük gruplara ayrılarak bu senaryolardan birini seçer. Her grup, seçtiği duruma en uygun iletişim aracını belirler ve gerekçelerini açıklar ( OB1 ). Gruplar, sınıflama tablosu kullanarak iletişim araçlarını resmî/gayriresmî, hızlı/yavaş ve bireysel/kitle iletişimi başlıkları açısından değerlendirir.",
+    "Kontrol listesi kullanılarak hazırlanan mesajlar, dijital bir mesaj hazırlarken dikkat edilmesi gereken kuralları içerip içermediğine göre değerlendirilebilir. Gözlem formu kullanılarak öğrencilerin e-posta gönderme, mesaj yazma, iletişim araçlarını sınıflandırma ve senaryolara uygun araç seçme becerilerini tespit etmek için kullanılabilir. Performans görevi olarak öğrencilerden okulda düzenlenecek \"Bilim ve Teknoloji Haftası\" etkinliğinin duyurusunu hazırlamaları istenebilir. Bunun için web 2.0 araçlarından uygun bir tanesi kullanılabilir. Hazırlanan içerik okulun web sayfasında yayınlanabilir ya da öğrencilerden bu içeriği bir e-posta hesabı oluşturarak sınıf arkadaşlarına göndermeleri istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D3.3",
+      "D4.2",
+      "D8.2"
+    ],
+    "egilim": [
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.5",
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/684"
+}

@@ -1,0 +1,33 @@
+{
+  "unitId": 81424103,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "103. ÜNİTE: KISA FİLM - KISA FİLM TARİHİ VE TEMEL KAVRAMLAR",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.3.1.1",
+      "title": "Kısa film tarihini açıklar",
+      "processComponents": [
+        "Temel sinema terminolojisine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.3.1.2",
+      "title": "Kısa filmde anlatılmak istenen hikâyenin süreci hakkında çıkarımda bulunur",
+      "processComponents": [
+        "Hikâye anlatımının ilkeleri ve senaryo yazımı açıklanır. Storyboard (sıtorybord) oluşumuna değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

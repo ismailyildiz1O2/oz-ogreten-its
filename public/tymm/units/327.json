@@ -1,0 +1,70 @@
+{
+  "unitId": 327,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "1. ÜNİTE: BİLİMSEL KEŞİF YOLCULUĞU",
+  "hours": "9",
+  "description": "Bu ünitede bilimsel bilgiye ulaşma yollarının sorgulanması ve bilim insanlarının özelliklerine ilişkin genelleme yapılması amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "FB.3.1.1",
+      "title": "Bilimsel bilgiye ulaşma yollarını sorgulayabilme",
+      "processComponents": [
+        "a) Merak ettiği bilimsel bir konuyu tanımlar.",
+        "b) İlgili konu hakkında sorular sorar.",
+        "c) Sorularını cevaplamaya yönelik bilgi toplar.",
+        "ç) Bilimsel bilgiye ulaşma yollarının uygunluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden bilimsel bilgiye ulaşma yollarına ilişkin çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FB.3.1.2",
+      "title": "Bilim insanlarının özelliklerine ilişkin genelleme yapabilme",
+      "processComponents": [
+        "a) Bilim insanları hakkında bilgi toplar.",
+        "b) Bilim insanlarının ortak özelliklerini belirler.",
+        "c) Bilim insanlarının ortak olmayan özelliklerini belirler.",
+        "ç) Örüntüler üzerinden bilim insanlarının özellikleri hakkında önermede bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "bilim insanı, bilimsel bilgi, tahmin etme, gözlem yapma, model oluşturma, deney yapma, veri toplama, veri kaydetme, çıkarım yapma, karşılaştırma yapma, iletişim kurma",
+  "support": [
+    "Bilimsel bilgiye ulaşma yolları ile ilgili bir çizgi film izletilebilir.",
+    "Bilim insanlarının çalışmalarını anlatan öyküler okutulabilir. Örneğin Tübitak Bilim ve Çocuk dergisinde Simit ve Peynir'le Bilim İnsanı Öyküleri gibi diğer dijital basılı yayınlardan yararlanılabilir.",
+    "Bir bilim insanının yaşamı ve çalışmalarını konu alan video izletilebilir."
+  ],
+  "enrichment": [
+    "Bilimsel bilgiye ulaşma yolları veya bilim insanlarının özellikleri ile ilgili oyun oluşturmaları istenebilir.",
+    "Bir bilim insanının yaşamını konu edinen drama çalışması yaptırılabilir. Bir bilim insanının yaşamı ve çalışmaları hakkında hikâye yazmaları, karikatür veya çizgi roman çizmeleri veya bunları dijital ortamda hazırlamaları sağlanabilir.",
+    "İstanbul İslam Bilim ve Teknoloji Müzesi'nde ve bilim merkezlerinde sanal tur yaptırılabilir. Farklı konularda ülkemizin tarihini öğrenmek için daha istekli olmaları ve bu yolla millî kimlikleri ile ilgili farkındalıklarının da artırılması desteklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde akran değerlendirme formu, performans görevi, öğrenci ürün dosyası kullanılabilir.",
+    "Öğrencilerin bilimsel bilgiye ulaşma yolları hakkındaki çıkarımları akran değerlendirme formu ile değerlendirilebilir. Öğrencilerin bilim insanlarının özelliklerini gösteren bir poster hazırlamaları sağlanabilir. Bu görevin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.3.1.1. Öğretmen ders öncesinde öğrencilerin merak edebilecekleri konuların listesini hazırlayabilir veya TÜBİTAK Bilim Çocuk Yayınları arşivinden konu listesi oluşturabilir. Öğrenciler alan gezisine götürülebilir, okul/sınıf kütüphanesine veya dijital kaynaklardan konu belirlemeye yönlendirilebilir. Öğrencilerden araştırma yapmak için merak ettikleri konuyu belirleyerek tanımlamaları istenir ( E1.1 , SDB1.2 ) . Öğrencilerin belirledikleri konuyla ilgili sorular sormaları sağlanır. Sorularını cevaplamaya yönelik bilgi toplamaları istenir ( SDB1.2 ) . Bilgi toplama sürecinde öğrenciler tahmin etme, gözlem yapma, model oluşturma, deney yapma, veri toplama, veri kaydetme, çıkarım yapma, karşılaştırma yapma, iletişim kurma vb. bilimsel bilgiye ulaşma yollarından uygun olanlarını kullanmaları ya da araştırmada kullanıldığını tespit etmeleri için yönlendirilir. Öğrencilerden araştırma sürecinde yaşadıklarını sınıfla paylaşmaları ve eleştirel bir bakış açısı ile tartışarak bilimsel bilgiye ulaşma yollarının uygunluğunu değerlendirmeleri istenir ( SDB2.2 , D3.3 ) . Tartışmayı yönetmek için çember tekniği kullanılabilir. Böylece öğrencilerin sosyal etkileşim yoluyla elde ettikleri bilgileri sorgulayarak bilimsel bilgiye ulaşma yolları hakkında çıkarım yapmaları sağlanır ( SDB2.2 , OB1 ) . Süreç akran değerlendirme formu ile değerlendirilebilir. Bilimsel bilgiye ulaşmada her zaman aynı adımların aynı sırayla izlenmediği dikkate alınır. Bilimsel araştırmalarda çeşitli yöntemlerin kullanılabileceği vurgulanır.",
+    "FB.3.1.2. \"Hangi bilim insanlarını tanıyorsunuz? Bildiğiniz Türk bilim insanları var mı?\" gibi sorular sorularak öğrencilerin ön bilgileri ile ilişki kurulması sağlanabilir ( SDB1.1 ) . Bu aşamanın ardından merak ettikleri bilim insanlarının hayatlarına ilişkin bilgi toplamaları istenir ( SDB1.2 ) . Öğrencilerin topladıkları bilgileri birbirleriyle paylaşmaları için galeri yürüyüşü tekniği uygulanabilir. Paylaştıkları bilgiler doğrultusunda bilim insanlarının ortak özelliklerini belirlemeleri sağlanır. Bu sırada planlı olmak, bilimsellik, etkili iletişim kurabilmek, insanı ve doğayı sevmek, sabırlı ve kararlı olmak, yeni fikir ve eleştirilere açık olmak, duyarlılık, dürüstlük, sorumluluk gibi değerlere de vurgu yapılabilir. Ardından bilim insanlarının ortak olmayan özelliklerini (farklı alanlarda çalışmaları, farklı hobileri olması vb.) belirlemeleri sağlanabilir ( SDB2.2 ) . Belirlenen özelliklerden yola çıkarak bilim insanlarının ortak özelliklerine (meraklı, sistemli, yaratıcı, sabırlı, iş birliğine açık, eleştirel düşünebilen, eleştirel değerlendirme yapabilen vb.) ilişkin önermede bulunmaları sağlanır ( SDB2.2 , E3.6 , E3.7 ) . Önermede bulunurken öğrencilerin bilim insanlarının merak duygusunu takip etme, doğru bilgiye ulaşma, farklı fikir ve argümanlara açık olma gibi özelliklerini sürece yansıttıkları fark ettirilir ( D3.3 ) . Öğrencilerin bilim insanlarının özelliklerini gösteren bir poster hazırlamaları istenebilir. Bu görevin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.6",
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/327"
+}

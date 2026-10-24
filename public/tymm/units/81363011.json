@@ -1,0 +1,48 @@
+{
+  "unitId": 81363011,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "11. ÜNİTE: EDEBİYAT UYGULAMALARI IV - KÜLTÜR ÇALIŞMALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.4.1.1",
+      "title": "Kültürel miras kavramını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EDU.4.1.2",
+      "title": "Kültürel miras üzerine seçtiği unsurları hedef kitleye tanıtır",
+      "processComponents": [
+        "Belirtilen göreve uygun olarak hedef belirlenir, çalışmanın formatı belirlenir. Buna uygun strateji seçilir, işe vuruk yöntem ve teknikler listelenerek planlama yapılır.",
+        "Verilen göreve ya da tercihine göre tema, konu, karakter, mekân, anlatıcı belirlenir ve taslak oluşturulur.",
+        "Kültürel kavramlar ve kültür unsurları tespit edilir. Somut olan ve somut olmayan kültür mirasları arasındaki farklar belirlenir, yaşanan çevredeki somut olmayan kültürel miras örnekleri üzerine araştırma yapılır.",
+        "Görev içeriğine ve/veya iletiye uygun karakter, mekân, atmosfer oluşturulur. Dil düzeyi bakımından hedef kitleye, örgü ve yapı bakımından söylem amacına uygun olarak gerekli geçiş ve bağlantı ögesi, sözcük kullanılır. Destekleyici düşünceyi geliştirme yöntemlerinden faydalanılır."
+      ]
+    },
+    {
+      "code": "EDU.4.1.3",
+      "title": "Anlatı/tanıtım sürecini değerlendirir",
+      "processComponents": [
+        "Sürece yönelik duygu, düşünce, davranışlar ve bu sürece etki eden ortamdaki olaylar, kişiler, fiziksel çevrenin etkileri, süreçte kullanılan söz varlığı, dil yapısı, anlatım kuralları, içerik ve kullanılan üslubun seçilmesindeki duyuşsal durum, ilgi alanları ve zihinsel faktörler değerlendirilir."
+      ]
+    },
+    {
+      "code": "EDU.4.1.4",
+      "title": "Kültüre dönük olarak öz tepki ortaya koyar",
+      "processComponents": [
+        "Çalışma sürecinin başlangıcından sonuna kadar kültüre yönelik algı ve tutumlar gözden geçirilir. Tanıtım sürecindeki kültürel unsurlara yaklaşımlardaki hatalar düzeltilir; uygun davranış, duygu, düşünce ve planlamalar pekiştirilip kültüre ve kültürel unsurlara olumlu tutum geliştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

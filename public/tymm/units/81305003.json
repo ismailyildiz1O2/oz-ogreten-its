@@ -1,0 +1,51 @@
+{
+  "unitId": 81305003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sürdürülebilir Tarım ve Gıda Güvenliği Dersi",
+  "title": "3. ÜNİTE: GIDA GÜVENLİĞİ VE DEĞER ZİNCİRİ YÖNETİMİ",
+  "hours": "20",
+  "description": "Bu ünitenin sonunda öğrenciler gıda, gıda güvenliği, gıda değer zinciri, gıda okuryazarlığı, gıdada bilgi kirliliği, hijyen, sanitasyon kavramlarını açıklayabileceklerdir. Gıda güvenliğinin ilkelerini, amaçlarını, kapsamını öğreneceklerdir. Gıda üretimi ve gıda işletmelerinde iyi üretim uygulamalarını, gıda güvenliği bileşenleri olan kimyasal, biyolojik ve fiziksel riskler ile gıda kaynaklı sağlık risklerini, hijyen, sanitasyon ve kalite kontrol süreçlerini kavrayacaklardır. Bu bağlamda, HACCP, ISO 22000, TSE, helal gıda kalite yönetim sistemleri ve süreçlerini, dünyada ve Türkiye'de gıda güvenliğinin mevcut durumunu öğreneceklerdir. “Gıdada Değer Zinciri” kavramını ve bu kavramın tarımdaki önemini kavrayabileceklerdir. Tarımsal gıda sektöründe değer zincirinin kavramsal çerçevesini ve temel faaliyetlerini ifade edeceklerdir. Tarımsal gıda sektöründe değer zincirinde yer alan temel sorunları fark edebileceklerdir. Değer zincirindeki sorunların tarımsal üretime etkisini belirleyip derecelendirebileceklerdir.",
+  "outcomes": [
+    {
+      "code": "STG.3.1",
+      "title": "Gıda güvenliği ile ilgili temel kavramları açıklar",
+      "processComponents": [
+        "Gıda güvenliği, gıda okuryazarlığı ve gıdada bilgi kirliliği kavramlarına yer verilir.",
+        "Gıda etiketlerini okuma alışkanlığı kazanmaya yönelik olarak çeşitli gıda ürünlerinin son tüketim tarihleri, tavsiye edilen tüketim tarihleri ve içerikleri karşılaştırılır."
+      ]
+    },
+    {
+      "code": "STG.3.2",
+      "title": "Gıda üretim sürecinin temel bileşenlerini açıklar",
+      "processComponents": [
+        "Gıda üretim süreci açıklanır.",
+        "Gıda üretiminin temel bileşenlerine yer verilir."
+      ]
+    },
+    {
+      "code": "STG.3.3",
+      "title": "Dünyada ve Türkiye'de gıda güvenliğinin mevcut durumunu örneklerle ayırt eder",
+      "processComponents": [
+        "Dünyada ve Türkiye'de gıda güvenliğinin mevcut durumu ve gıda güvenliğinde yasal iletişim kanallarını örneklerle açıklamaları sağlanır.",
+        "Dünyada ve Türkiye'de gıda güvenliğinde israf ve tasarruf kavramlarına yer verilir."
+      ]
+    },
+    {
+      "code": "STG.3.4",
+      "title": "Gıdada değer zincirinin basamaklarını ve temel sorunlarını analiz eder",
+      "processComponents": [
+        "Gıda değer zincirinin basamaklarını ekonomik, sosyal ve çevresel boyutları açısından sınıf ortamında tartışmaları sağlanır.",
+        "Örnek bir gıda ürünü üzerinden değer zincirinin ekonomik, sosyal ve çevresel açıdan ortaya konmasına yönelik önerilerde bulunmaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311231660129-S%C3%9CRD%C3%9CR%C3%9CLEB%C4%B0L%C4%B0R%20TARIM%20VE%20GIDA%20G%C3%9CVENL%C4%B0%C4%9E%C4%B0%20DERS%C4%B0-11%20ekim.pdf"
+}

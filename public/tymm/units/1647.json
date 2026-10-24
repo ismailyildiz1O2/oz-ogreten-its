@@ -1,0 +1,64 @@
+{
+  "unitId": 1647,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "İklim, Çevre ve Yenilikçi Çözümler Dersi",
+  "title": "2. Ünite: Çevre Ve İnsan",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "İÇYÇ.2.1",
+      "title": "Çevre bilincinin gelişim sürecini neden ve sonuçlarıyla yorumlayabilme",
+      "processComponents": [
+        "a) Çevre bilincinin ortaya çıkmasına neden olan olayları inceler.",
+        "b) Çevre bilincinin gelişim sürecini etkileyen unsurları inceler.",
+        "c) Çevre bilincinin gelişim sürecinin niteliğini sorgular.",
+        "ç) Çevre bilincinin gelişim sürecinin nedenlerini ve sonuçlarını bağlamından kopmadan yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "İÇYÇ.2.2",
+      "title": "Çevresel olay ya da olgu üzerinden çevre etiği yaklaşımlarını karşılaştırabilme",
+      "processComponents": [
+        "a) Çevresel olay ya da olguya ilişkin çevre etiği yaklaşımlarının özelliklerini belirler.",
+        "b) Çevresel olay ya da olguya ilişkin çevre etiği yaklaşımlarının benzerliklerini listeler.",
+        "c) Çevresel olay ya da olguya ilişkin çevre etiği yaklaşımlarının farklılıklarını listeler. İÇYÇ.2.3. Doğal kaynakların insan hayatındaki önemini özetleyebilme",
+        "a) Doğal kaynakların insan hayatındaki kullanım alanlarını çözümler.",
+        "b) Doğal kaynakları kullanım alanlarına ve yenilenebilirlik özelliklerine göre sınıflandırılır.",
+        "c) Doğal kaynakların önemini kullanım alanlarına ve yenilenebilirlik özelliklerine göre yorumlar."
+      ]
+    },
+    {
+      "code": "İÇYÇ.2.4",
+      "title": "Ekolojik ayak izi ile biyolojik kapasite arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Ekolojik ayak izi ile biyolojik kapasiteye ilişkin parçaları belirler.",
+        "b) Ekolojik ayak izi ile biyolojik kapasite arasındaki ilişkiyi belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "biyolojik kapasite, çevre bilinci, çevre etiği, doğal kaynak, ekolojik ayak izi",
+  "support": [
+    "Öğrencilerin öğrenme düzeylerine göre bireyselleştirilmiş çalışma yaprakları hazırlanabilir. Çevre bilinci ve etiği, doğal kaynakların insan yaşamındaki önemi ile ekolojik ayak izi ve biyolojik kapasite arasındaki ilişkiyi ortaya koyan bir sunum düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere *dünya limit aşım günü hesaplamasına yönelik bir araştırma görevi verilebilir. Öğrencilerden araştırma sonuçlarını tablo, grafik, şekil ve/veya diyagram, harita, görsel vb. materyaller yardımıyla poster hâline getirerek sınıf ortamında sunum yapması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı; açık uçlu sorular, çalışma yaprağı, performans görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Bu ünitede performans görevi olarak öğrencilerden grup çalışması şeklinde ekolojik ayak izi ile biyolojik taşıma kapasitesi arasındaki ilişkiyi ortaya koyan poster, afiş, bilgi görseli vb. çalışmalar yaparak sunmaları istenebilir. Performans görevi; bilgi toplama, bilgileri düzenleme, görselleştirme ve sunum yapma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "İÇYÇ.2.1",
+    "Öğrencilerden çevre bilincinin ortaya çıkmasına neden olan olaylar ile çevre bilincinin gelişim sürecini etkileyen unsurları metin, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak incelemesi istenir ( SBAB11.1 ). İncelenen materyaller üzerinden çevre bilincinin gelişim sürecinin niteliği, çevre bilincinin gelişim sürecinin nedenleri ve sonuçları bağlamından kopmadan tartışma yöntemiyle sorgulanarak yeniden ifade edilmesi sağlanır. Öğrencilerin çevre bilincinin gelişim sürecine yönelik öğrenmeleri çalışma yaprağı üzerinden izlenebilir ( SDB2.1 , E3.10 ). İÇYÇ.2.2",
+    "Öğrencilerden iş birlikli öğrenme yöntemiyle örnek bir çevresel olay ya da olgu üzerinden çevre etiği yaklaşımlarının özelliklerini belirlemeleri, özellikleri belirlenen çevre etiği yaklaşımlarının benzerliklerini ve farklılıklarını karşılaştırma tablosu üzerinen listelemeleri istenir ( SDB2.1 , SDB2.2 , E3.4 ). Yapılacak çalışmalar sırasında farklı fikirlere saygı duymanın önemi vurgulanır ( D14.1 ). Öğrenmeler açık uçlu sorularla değerlendirilebilir.",
+    "İÇYÇ.2.3",
+    "Öğrencilerden metin, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak tüketim maddelerinin üretiminde kullanılan doğal kaynakları soru- cevap yöntemiyle çözümlemeleri istenir. Bu doğal kaynakların kullanım alanlarına ve yenilenebilirlik durumlarına göre sınıflandırılması sağlanır. Yapılan çalışmalar ile insan hayatının doğal kaynaklara bağımlılık durumunun tartışılarak yorumlanması istenir ( SDB3.3 , E3.4 ). Doğal kaynakların adil kullanımı ve gelecek nesillerin de bu kaynaklardan yararlanabilmesi için bireylere düşen sorumlulukların önemi vurgulanır ( D19.4 , OB5 ). Öğrenmeler açık uçlu sorularla değerlendirilebilir. İÇYÇ.2.4",
+    "Öğrencilerden metin, örnek olay, tablo, grafik, şekil ve/veya diyagram, görsel vb. materyalleri kullanarak ekolojik ayak izini ve biyolojik kapasiteyi oluşturan bileşenleri tartışma yöntemiyle belirlemeleri istenir. Grup çalışması yöntemiyle farklı gelişmişlik seviyesine sahip ülkelere ait verilerden yararlanılarak ekolojik ayak izi ile biyolojik kapasite arasındaki ilişki üzerinden ülkelerin ekolojik açık/fazla durumları hesaplanır. Elde edilen bulgular soru-cevap yöntemiyle yorumlanır ( SDB1.2 , SDB2.1 , SDB2.2 , OB7 , E3.6 ). Dünyanın ekolojik ayak izini biyolojik kapasitesinin altında tutmak ve dünyanın biyolojik kapasitesini artırmak için bireylere düşen sorumluluklar vurgulanır ( D16.3 ). Öğrencilerin ekolojik ayak izi ile biyolojik kapasite arasındaki ilişkiye yönelik öğrenmeleri çalışma yaprağı üzerinden izlenebilir. Bu ünitede performans görevi olarak öğrencilerden grup çalışması şeklinde ekolojik ayak izi ile biyolojik kapasite arasındaki ilişkiyi ortaya koyan poster, afiş, bilgi görseli vb. çalışmalar yaparak sunmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir ( SBAB11.2 , SDB1.2 , SDB2.1 , SDB2.2 , OB1 )."
+  ],
+  "skills": [
+    "SBAB4. Değişim ve Sürekliliği Algılama (SBAB4.2. Değişim ve Sürekliliği Neden ve Sonuçlarıyla Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1647"
+}

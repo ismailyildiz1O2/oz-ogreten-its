@@ -1,0 +1,49 @@
+{
+  "unitId": 81663013,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "13. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 2. ÜNİTE: İLKEL VERİ TİPLERİ",
+  "hours": "9",
+  "description": "Bu ünitede, Java programlamanın temelini oluşturan bilgiler verilecektir. Ekranda çıktı oluşturmak için metot kullanımı, dize değişmezi kullanımı, veri tiplerinin öğrenilerek amaca uygun olarak kullanımı yaptırılacaktır.",
+  "outcomes": [
+    {
+      "code": "BTY.13.1",
+      "title": "Ekranda çıktı oluşturabilmek için gereken kodları kullanır",
+      "processComponents": [
+        "“System.out.print” ve “System.out.println” kodlarını kullanarak ekrana yazı yazdırılır."
+      ]
+    },
+    {
+      "code": "BTY.13.2",
+      "title": "Dize değişmezleri oluşturur",
+      "processComponents": [
+        "Dize değişmezi çift tırnak içine alınarak oluşturulur."
+      ]
+    },
+    {
+      "code": "BTY.13.3",
+      "title": "En uygun veri tipinin hangisi olduğunu belirler",
+      "processComponents": [
+        "Veri tipleri ilkel, referans veya null olarak sınıflandırılır.",
+        "Sınıflandırılan veri tiplerinin hangi amaca uygun olduğu açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.13.4",
+      "title": "Doğru türlerde değişkenleri kullanır",
+      "processComponents": [
+        "Integer, double, boolean veri tiplerinin kullanım amacı öğretilir.",
+        "İlkel verileri temsil etmek için amaca uygun olan veri türü seçilerek değişkenler belirlenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

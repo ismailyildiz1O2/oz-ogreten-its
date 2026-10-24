@@ -1,0 +1,100 @@
+{
+  "unitId": 81203004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "4. ÜNİTE: İLK TÜRK İSLAM DEVLETLERİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.4.1",
+      "title": "Orta Asya'da İslamiyet'in yayılışını açıklar",
+      "processComponents": [
+        "Talas Savaşı'nın, Türklerin İslamiyet'i kabulüne etkisine değinilir."
+      ]
+    },
+    {
+      "code": "OTT.4.2",
+      "title": "Oğuz Yabguluğu'nun tarihî, kültürel ve ekonomik gelişim sürecini açıklar",
+      "processComponents": [
+        "Dede Korkut Hikâyeleri hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.4.3",
+      "title": "Karahanlılar Hakanlığı'nın Türk halkları arasında İslamiyet'in yayılmasındaki rolünü sorgular",
+      "processComponents": [
+        "Karahanlılar Hakanlığı'nın kuruluş ve siyasi gelişim süreci açıklanır.",
+        "Balasagunlu Yusuf, Kaşgarlı Mahmud ve Hoca Ahmet Yesevi hakkında bilgiler ve bu yazarlara ait eserlerden örnekler verilir."
+      ]
+    },
+    {
+      "code": "OTT.4.4",
+      "title": "Sâcoğulları'nın tarihsel gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.4.5",
+      "title": "İdil Bulgar Devleti'nin siyasi, ekonomik ve kültürel gelişimi arasında ilişki kurar",
+      "processComponents": [
+        "İdil Bulgarları Devleti döneminde İslamiyet'in kabul ve yayılmasında ticari ilişkilerin rolüne değinilir.",
+        "Kul Ali'nin eserinden yola çıkılarak o dönemde ortak bir Türk dili kullanıldığı belirtilir."
+      ]
+    },
+    {
+      "code": "OTT.4.6",
+      "title": "Gazneliler Devleti'nin siyasi ve kültürel gelişimi arasında ilişki kurar",
+      "processComponents": [
+        "Gazneli Mahmut'un Hindistan'da İslamiyet'in yayılmasındaki katkılarına değinilir.",
+        "Ebu Reyhan Biruni hakkında kısa bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.4.7",
+      "title": "Büyük Selçuklu Devleti ve Türkiye Selçuklu Devleti'nin siyasi gelişim sürecini analiz eder",
+      "processComponents": [
+        "Büyük Selçuklu Devleti'nin kuruluş ve yıkılış süreçleri açıklanır.",
+        "Dandanakan, Pasinler ve Malazgirt savaşları ve bu savaşların sonuçları hakkında bilgi verilir.",
+        "Türkiye Selçuklu Devleti'nin kuruluş ve yıkılış süreçleri açıklanır.",
+        "Miryokefalon Savaşı hakkında bilgi verilir.",
+        "Haçlı Seferleri'ne karşı verdikleri mücadelenin önemine değinilir.",
+        "“Atabeylik müessesesi” açıklanır.",
+        "Mevlâna Celaleddin Rumi, Yunus Emre hakkında bilgi verilir.",
+        "Gevher Nesibe Darüşşifası hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.4.8",
+      "title": "İldenizlilerin kökenlerini ve siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Nizami Gencevî ve eserleri hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.4.9",
+      "title": "Harezmşahlar Devleti'nin siyasi ve kültürel gelişim sürecini açıklar",
+      "processComponents": [
+        "Celaleddin Harezmşah ve Cengiz Han arasındaki mücadeleye değinilir.",
+        "Yassıçemen Savaşı hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.4.10",
+      "title": "İlk Türk İslam Devletlerindeki sosyal, ekonomik ve kültürel hayatı analiz eder",
+      "processComponents": [
+        "Dîvânu Lugâti't-Türk adlı eserde yer alan Türk dünyası haritası verilerek eserde yer alan Türk boyları ve yaşadıkları coğrafi bölgeler belirtilir.",
+        "Harezmî, Farabî gibi Müslüman düşünürler hakkında bilgi verilir.",
+        "Türk kadın şahsiyetler hakkında bilgi verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

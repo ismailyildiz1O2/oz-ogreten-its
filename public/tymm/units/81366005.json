@@ -1,0 +1,85 @@
+{
+  "unitId": 81366005,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Yönetim Bilimi Dersi",
+  "title": "5. ÜNİTE: TÜRKİYE'NİN İDARİ ÖRGÜTLENMESİ",
+  "hours": "9",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YNB.5.1",
+      "title": "Merkezden yönetimin temel ilkelerini yönetim bilimi açısından yorumlar",
+      "processComponents": [
+        "Türkiye'nin idari yapılanması şema üzerinde tanıtılır.",
+        "Merkezden yönetim ilkesinin tek başına uygulanmadığı, merkezden yönetim ve yerinden yönetimin birbirini tamamlayan ilkeler olduğu ve her ikisinin yan yana uygulandığı vurgulanır.",
+        "T.C. Anayasası'nın 123 ve 126. maddeleri vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.5.2",
+      "title": "Merkezden yönetimin özelliklerini, yararlarını ve sakıncalarını açıklar",
+      "processComponents": [
+        "Türkiye'de merkezi yönetimin; merkez örgütü ve taşra örgütü olmak üzere ikiye ayrıldığı vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.5.3",
+      "title": "Merkezden yönetim uygulamalarını tanır",
+      "processComponents": [
+        "Valilik bünyesinde yer alan il müdürlüklerinin, bakanlıkların taşradaki uzantıları (temsilcileri) olduğu vurgulanır.",
+        "Performans değerlendirme formu kullanılır."
+      ]
+    },
+    {
+      "code": "YNB.5.4",
+      "title": "Yerinden yönetim kuruluşlarının görev, yetki ve sorumluluklarını analiz eder",
+      "processComponents": [
+        "T.C. Anayasası'nın 127. maddesinden bahsedilir.",
+        "Yerinden yönetim kuruluşlarının; yerel yönetimler ve hizmet yönünden yerinden yönetim kuruluşları olmak üzere ikiye ayrıldığı vurgulanır.",
+        "Yerel yönetimlerin görev, yetki ve sorumlulukları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.5.5",
+      "title": "Yerinden yönetimin özelliklerini, yararlı ve sakıncalı yönlerini ayırt eder",
+      "processComponents": [
+        "Türkiye'nin yerinden yönetim kuruluşlarına ilişkin örnek uygulamalar üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.5.6",
+      "title": "Türkiye Cumhuriyeti devletinin idari örgüt şemasını inceler",
+      "processComponents": [
+        "Türkiye Cumhuriyeti devletinin örgüt şeması gösterilerek, teşkilatlanmanın nasıl olduğu üzerinde durulur.",
+        "Türkiye'nin devlet örgüt yapısı ile idari örgüt yapısı arasındaki farklar vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.5.7",
+      "title": "Türkiye' de planlamanın gelişimini açıklar",
+      "processComponents": [
+        "Tarih dersi ile ilişkilendirilir.",
+        "Güneydoğu Anadolu Projesi (GAP) vurgulanır",
+        "Devlet Planlama Teşkilatının (DPT) kuruluşu ve işleyişi incelenir.",
+        "Kalkınma planlarının hazırlanış ve kabul ediliş süreci açıklanır."
+      ]
+    },
+    {
+      "code": "YNB.5.8",
+      "title": "Daha önce uygulanmış örnek planları inceleyerek analiz eder",
+      "processComponents": [
+        "Kalkınma planlarının ülkenin ekonomik ve toplumsal gelişimindeki rolü vurgulanır.",
+        "Çoktan seçmeli, açık uçlu, kısa cevaplı, boşluk doldurma, eşleştirme tipi testler; öğrenci gözlem formu, öz değerlendirme formu kullanılarak değerlendirme yapılabilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112716320896-Y%C3%B6netim%20Bilimi.pdf"
+}

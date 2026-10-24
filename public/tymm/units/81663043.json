@@ -1,0 +1,111 @@
+{
+  "unitId": 81663043,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "43. ÜNİTE: PROGRAMLAMA DİLLERİ (PYTHON) - 3. ÜNİTE: NESNE YÖNELİMLİ PROJE GELİŞTİRME",
+  "hours": "36",
+  "description": "Nesne yönelimli programlama, programlama açısından düşünüldüğünde önemli bir kavramdır. Nesne yönelimli programlama ileri düzey ve gelişmiş programlar yazmayı sağlar. Karmaşık projelerdeki kodların daha iyi organize edilmesi, kod tekrarlarından kurtulma, hata düzeltmeyi kolaylaştırma gibi avantajlar sunar. Bu ünitede sırasıyla; nesne yönelimli programlamanın faydaları, sınıf tanımlaması, Pythona özgü temel sınıflar, programda kapsülleme, kalıtım ve çok biçimlilik kullanımı, liste, demet, küme, sözlük türündeki veriler, dosya işlemleri ve ileri seviye nesne yönelimli tekniklerle proje geliştirme üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.43.1",
+      "title": "Nesne yönelimli programlama kavramını açıklar",
+      "processComponents": [
+        "Nesne yönelimli programlamanın ve nesne kavramının tanımı yapılır. Attribute (nitelik) ve metot kavramları üzerinde durulur.",
+        "Nesnelerin metotlar ve niteliklerden oluştuğu vurgulanır. Niteliklerin nesnelerin sahip oldukları verilere, metotların ise bunlar üzerinde yapılabilecek işlemlere karşılık geldiği açıklanır.",
+        "Nesne yönelimli programlama ile yordamsal programlama arasındaki farkı kavrar.",
+        "Nesne kullanımının gerektirdiği durumları açıklar.",
+        "Dilin kurallarına uygun nesne tanımlamasını öğrenir.",
+        "Dosya ve grafik nesnelerinden bahsedilir, hangi projelerde bu nesnelere ihtiyaç duyulabileceği üzerine akıl yürütmesi istenir."
+      ]
+    },
+    {
+      "code": "BTY.43.2",
+      "title": "Nesne yönelimli programlamanın faydalarının farkına varır",
+      "processComponents": [
+        "Nesne yönelimli programlamaya neden ihtiyaç duyulabileceği öğrencilere açıklanır. İleri düzey programlar yazılmak istendiğinde temel programlama kavramlarının yetersiz kalacağının altı çizilir.",
+        "Aynı sınıfa tanımlanan verilerde değişiklik yapmak istendiğinde programcıya ne gibi kolaylıklar sağlayacağı üzerine akıl yürütmesi istenir.",
+        "Hangi durumlarda nesne tabanlı programlamaya ihtiyaç duyulabileceği örnek projeler üzerinden gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.43.3",
+      "title": "Programın ihtiyacına yönelik sınıf tanımlaması yapar",
+      "processComponents": [
+        "Farklı niteliklere sahip sınıf tanımlaması yapılır. Tanımlanan sınıfın niteliklerine özgü metodlar yazılır.",
+        "Tanımlanan sınıfa birden fazla metod eklenir. Tanımlanan sınıfa özgü nesne oluşturulması sağlanır.",
+        "Sınıf oluşturma birkaç örnekle öğrencilere anlatılır.",
+        "Sınıftan nesne tanımlama ve nesnenin özelliklerine değer atama işlemleri hakkında örnekler yapılır.",
+        "Öğrencilerden kendi sınıflarını oluşturarak bu sınıflar içinde nesneler oluşturacakları bir örnek çalışma yapmaları istenir."
+      ]
+    },
+    {
+      "code": "BTY.43.4",
+      "title": "Python programlama diline özgü temel sınıfları kullanır",
+      "processComponents": [
+        "Python programlama dilinin açık kaynak yapısından dolayı geniş bir kütüphaneye sahip olduğundan bahsedilir. Dolayısıyla her sınıfın yeniden tanımlanması gerekmez önceden tanımlanmış sınıflar da kullanılabilir. Time ve random gibi en çok kullanılan sınıflardan örnekler verilir.",
+        "Python programlama diline özgü sınıflar program içerisinde kullanılır.",
+        "Modül kavramından bahsedilir. Modüle ait komutlar program içerisinde kullanılır."
+      ]
+    },
+    {
+      "code": "BTY.43.5",
+      "title": "Geliştirdiği programda kapsülleme (encapsulation), kalıtım (inheritance) ve çok biçimlilik (polymorphism) prensiplerini kullanır",
+      "processComponents": [
+        "Nesne yönelimli programlama teknikleriyle sınıf tanımlaması yapar.",
+        "Kapsülleme, kalıtım, çok biçimlilik vb. ileri düzey nesne yönelimli programlama tekniklerini kullanarak program yazar."
+      ]
+    },
+    {
+      "code": "BTY.43.6",
+      "title": "List, tuple, set ve dictionary türlerinde verileri tanımlar",
+      "processComponents": [
+        "List (liste) veri türü açıklanarak örnek veri tanımlaması yapılır. List içerisindeki ögelerin esnek yapıda olabileceği vurgulanır.",
+        "Tuple (demet) veri türü List yapısı arasındaki benzerliklerden bahsedilir. Tuple'da sadece verilerin okunabildiği, veri ekleme veya çıkarma yapılamayacağı açıklanır. Bununla ilgili öğrencilerin bir örnek yazması istenir.",
+        "Set (küme) veri türünün tekrarlanabilir, değiştirilebilir ve yinelenen ögeleri olmayan sırasız bir veri türleri koleksiyonu olduğu açıklanır ve örneklerle pekiştirilir.",
+        "Dictionary (sözlük) veri türü; içerisinde yer alan verileri, anahtar kavram ve bu anahtar kavrama karşılık gelen değerler olarak tutar. Öğrencilerden bununla ilgili bir örnek yazması istenir."
+      ]
+    },
+    {
+      "code": "BTY.43.7",
+      "title": "Dosya nesnesi üzerinde okuma yazma silme işlemlerini uygular",
+      "processComponents": [
+        "Dosya nesnelerini kullanmanın programda veri depolama üzerine etkisi tartışılır. Metin dosyalarında var olan veriyi okuma, yazma ve silme işlemleri örneklendirilir.",
+        "Verileri kaybetmeme ve daha sonra tekrar erişebilmek için dosyaların önemli olduğu vurgulanır.",
+        "Dosya açma, bir dosyayı okuma ve dosyaya yazma işlemlerinin nasıl yapıldığı açıklanır. Dosya nesnesi ile ilgili metotlar üzerinde durulur. Dosya oluşturma ile ilgili örnek kodlama çalışmaları yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.43.8",
+      "title": "Dizi türündeki verileri dosya nesnesi içerisinde örneklendirir",
+      "processComponents": [
+        "Listede tutulan veriyi dosyaya yazdıran programı kodlar.",
+        "Dosyadan okunan veriyi bir listeye tanımlayan programı kodlar.",
+        "Dosyalara özgü metotları (with as, tell, seek) kullanır.",
+        "Programda işlevi tamamlanan dosyayı siler.",
+        "Dizi türündeki verilerin dosya içerisinde nasıl yazıldığının örneği yapılır.",
+        "Dizi kavramı açıklanır. Dizinin özellikleri ve metotları üzerinde durulur.",
+        "Metinsel ifadelerin dizi nesnesi olduğu vurgulanır. Metinsel ifadeler içeren bir dosya oluşturmaları ve bu metinsel ifadelerde metotlarla işlem yapacakları örnek çalışmalar oluşturmaları istenir."
+      ]
+    },
+    {
+      "code": "BTY.43.9",
+      "title": "İleri seviye nesne yönelimi teknikleriyle özgün projeler geliştirir",
+      "processComponents": [
+        "Sınıf ve nesneleri kullanarak özgün bir proje tasarlar. Geliştirdiği projede sınıfa özgü teknikleri kullanır. Dosya nesneleriyle işlemler yapar.",
+        "Projede karşılaşabileceği olası hataları göze alarak hata ayıklama yöntemlerini uygular.",
+        "Python için tanımlanan hazır grafik arayüzlerden bahsedilir. Bunlar kullanılarak özgün bir proje geliştirilmesi istenir.",
+        "Öğrencilerden özgün bir proje fikri sunmaları istenir. Proje fikirleri ile ilgili ön analiz çalışmaları yapmaları konusunda yönlendirilir.",
+        "Nesne yönelimli programlama özelliklerini kullanarak proje fikirlerini hayata geçirmeleri beklenir. Süreç boyunca öğretmen tarafından öğrencilere gerekli destek sağlanmalıdır. Proje sonunda öğrencilerden bir sunum gerçekleştirerek projelerini tanıtmaları, süreç içerisinde zorlandıkları ve gerçekleştiremedikleri noktaları paylaşmaları istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

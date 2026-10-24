@@ -1,0 +1,44 @@
+{
+  "unitId": 81424066,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "66. ÜNİTE: KAVAL - KAVALDA MAKAMLAR VE MAKAMLARIN UYGULAMALARI III",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.9.6.1",
+      "title": "Karcığar makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.6.2",
+      "title": "Hüzzam makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.6.3",
+      "title": "Rast makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.6.4",
+      "title": "Nihavent makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.6.5",
+      "title": "Nikriz makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

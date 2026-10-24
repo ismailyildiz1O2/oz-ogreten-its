@@ -1,0 +1,57 @@
+{
+  "unitId": 1096,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "1. TEMA: MÜZİĞİN TANIMI",
+  "hours": "4",
+  "description": "Temada müzikte ses kavramı, seslerin kalınlık-incelik, kuvvetli-hafif, uzunluk-kısalık özellikleri ve seste tını, müzikal olan ve olmayan sesleri ayırt etmek, seslerin belli sürelerinin olduğunu ve serbest zamanlı olarak da üretilebileceğini öğretmek amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TMT.1.1.1",
+      "title": "Müziği tanımlayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "TMT.1.1.2",
+      "title": "Müzikle ilgili materyalleri tanımlayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "duyguların yansıtılması, çalgı, hareket, müzik",
+  "support": [
+    "Öğretmen; öğrenciler için görseller veya daha basit örneklerle destek sağlayarak öğrenme sürecini kolaylaştırır. Müzik aletlerinin resimlerini ve adlarını eşleştirmesine yönelik oyunlaştırılmış etkinlik verilebilir. Müzik eserleri dinletilerek müziklerin kendilerini uyandırdığı duyguları görsel materyallerle (mutlu ve hüzünlü olan çocuk görselleri) göstererek ifade etmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Sınıfa getirilen enstrumanlar aracılığı ile önce sesler dinletilebilir ve öğrencilerden bu sesleri ''na'' hecesi ile seslendirmeleri istenebilir. Daha sonra öğrencilerin dinleyip seslendirdikleri seslerden basit melodiler oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; eşleştirme kartları, gözlem formu ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak poster hazırlama görevi verilebilir. Bir radyodan çıkan sese göre bir çocuğun mimikler yoluyla neşeli mi, hüzünlü mü, hareketli mi olduğu konusu işlenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "TMT.1.1.1. Öğrencilere dinledikleri müziklerin neşeli mi, hüzünlü mü, hareketli mi olduğu sorularak merak etmesi sağlanarak ( E1.1 ), sorulara birbirlerini etkin bir şekilde dinleyerek cevap vermeleri sağlanır (D14.1 ). Müzik konusunun görsellerini içeren sunumlar hazırlanır. Öğrencilerin müziği hem görsel hem de işitsel olarak fark etmeleri sağlanır ( OB1 ). Bu süreçte ortaya çıkan arkadaşlarının fikir ve görüşlerine değer verir ( D4.4 ). Bu süreç gözlem formu kullanılarak değerlendirilebilir. Müziğin eğlence, terapi, iletişim, kültürel ifade gibi çeşitli amaçları olduğu açıklanır. Öğrenciler her bir amacın günlük hayattaki yeri üzerine duygu ve düşüncelerini ifade ederek öğrencilerin birbirlerini etkin dinleme süreci desteklenir ( SDB2.1 ). Müzikle ilgili bilgi toplanabilecek güvenirliği kanıtlanmış dijital, basılı kaynaklar birlikte belirlenir ve öğrencilerin bu kaynakları araştırmaları istenir ( OB1 ). Bu araştırma sürecinde, öğrencinin Türk-İslam kültüründe var olan müzik tanımlarına ulaşması sağlanır ( D19.1 ). Performans görevi olarak poster hazırlama görevi verilebilir. Bir radyodan çıkan sese göre bir çocuğun mimikler yoluyla neşeli mi, hüzünlü mü, hareketli mi olduğu değerlendirilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir. Öğrencilerin belirlenen bu araçlardan müzikle ilgili görselleri bulmaları istenir ( OB4 ). Eriştikleri bu görseller ile öğrencilerin sınıfta seviyelerine uygun olarak bir sunum yapmaları ve bu bilgileri doğrulamaları sağlanır ( OB1 , D3.3 ), öğrencilerin bu sunum sonunda kendilerinin oluşturduğu müzik tanımını ifade etmeleri beklenir. Bu süreç,kontrol listesi kullanılarak değerlendirilebilir. TMT.1.1.2. Dinlediği müziğin içeriğine yönelik müziksel materyalleri ayırt etmesi amacı ile örnekler verilerek öğrencilerin müziksel materyaller ve müziksel olmayan materyalleri ayırt etmeleri sağlanır ve materyaller (bağlama, gitar, keman) öğrenciler tarafından belirlenir. Bu etkinlik için eşleştirme kartları kullanılarak gösterilen materyallerin müzik ile ilgili olup olmadıklarını ayırt etmeleri sağlanır ( E2.5 ). Odaklanmaları ve aktif rol almaları istenir (D3.4 ). Ayırt ettiği müziksel materyalleri daha önce görüp görmediklerini ifade etmeleri istenir ve müzikle ilgili materyaller ile ilgili grup çalışması yaparak görsel sunumlar hazırlamaları sağlanır ( D4.2 , D14.1 , SDB2.1 , SDB3.1 ). Müzikle ilgili ayırt ettiği materyaller ile ilgili soru cevap çalışması yaparak hangi materyallerin müzik ile ilgili olduğunu ifade etmesi sağlanır ( SDB2.1 ). Bu süreç gözlem formu ile değerlendirebilir. Dinleme çalışmaları yapılarak çeşitli müzik türleri dinletilip dinlediği türlerin eğlenceli veya hüzünlü gibi müzikal eserlerin basit özelliklerini ayırt etmesi istenebilir ( D7.1 ). Bu çalışma kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D19.1",
+      "D3.3",
+      "D4.2",
+      "D4.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1096"
+}

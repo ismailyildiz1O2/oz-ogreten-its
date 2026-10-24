@@ -1,0 +1,85 @@
+{
+  "unitId": 364,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "6. ÜNİTE: ENERJİ DEDEKTİFLERİ",
+  "hours": "12",
+  "description": "Bu ünitede çalışan basit bir elektrik devresi kurmaya ilişkin bilimsel sorgulama yapılması, eleştirel düşünme yoluyla elektrik üretiminde yenilenebilir ve yenilenemeyen enerji kaynaklarının kullanımına ilişkin değerlendirme yapılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.4.6.1",
+      "title": "Basit bir elektrik devresi kurmaya ilişkin bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Devre elemanlarını kullanarak basit bir elektrik devresi kurmaya ilişkin soru veya problemi tanımlar.",
+        "b) Sorusunu/problemini cevaplamada kullanacağı basit bir elektrik devresi modeli geliştirir.",
+        "c) Basit bir elektrik devresinde devre elemanlarına ve işlevlerine ilişkin araştırmayı planlayarak gerçekleştirir.",
+        "ç) Basit bir elektrik devresine ilişkin verileri analiz ederek yorumlar.",
+        "d) Elektrik devresinin çalışıp çalışmamasına yönelik kanıta dayalı açıklama yaparak çözüm üretir.",
+        "e) Çalışan basit bir elektrik devresi kurmaya ilişkin bilgiyi değerlendirerek paylaşır."
+      ]
+    },
+    {
+      "code": "FB.4.6.2",
+      "title": "Elektrik üretiminde yenilenebilir ve yenilenemeyen enerji kaynaklarını kullanmaya ilişkin eleştirel düşünebilme",
+      "processComponents": [
+        "a) Elektrik üretiminde yenilenebilir ve yenilenemeyen enerji kaynaklarını kullanmaya ilişkin bir durumu veya problemi sorgular.",
+        "b) Elektrik üretiminde yenilenebilir ve yenilenemeyen enerji kaynaklarını kullanmaya ilişkin durum veya problemin canlılar ve çevre üzerine etkileri konusunda akıl yürütür.",
+        "c) Enerji kaynaklarının sürdürülebilirliklerine ilişkin akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    }
+  ],
+  "keyConcepts": "anahtar, ampul, kablo, duy, pil, elektrik devresi, pil, yenilenebilir enerji, yenilenemeyen enerji",
+  "support": [
+    "Devre elemanlarına ilişkin bilmece, bulmaca veya şarkılarla konu pekiştirilebilir.",
+    "Basit elektrik devresi ile ilgili dijital oyunlar oynanabilir.",
+    "Elektrik devreleri ile ilgili açıklayıcı kartlar, bulmaca, eşleştirmeli kartlar paylaşılabilir.",
+    "Basit elektrik devresi oluşturma sürecinde iş birlikli öğrenme uygulanabilir.",
+    "Rüzgâr gülü yaptırılabilir.",
+    "Elektrik üretiminde yenilenebilir ve yenilenemeyen enerji kaynaklarını kullanmaya ilişkin hikâyeler okunabilir."
+  ],
+  "enrichment": [
+    "Basit bir elektrik devresi kullanarak bir oyun/oyuncak veya günlük yaşamda kullanılabilecek bir araç tasarlamaları istenebilir.",
+    "Yenilenebilir enerji kaynakları ile ilgili dijital içerikler hazırlamaları istenebilir.",
+    "Yenilenebilir enerji kaynaklarının farklı alanlardaki ve sürdürülebilirlik bağlamında farklı kültürlerdeki kullanımına ilişkin örnekleri araştırmaları istenebilir.",
+    "Okullarda yenilenebilir enerji kaynaklarının kullanımına dikkat çekmek için öğrencilere afiş, pano vb. hazırlatılarak onlarda sosyal farkındalık oluşturulabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma yaprağı, performans görevi ve öğrenci ürün dosyası kullanılabilir. Basit elektrik devresi modeli çizerken çalışma yaprağı kullanılabilir.",
+    "Basit elektrik devre modelinin tasarlama ve uygulama aşamalarının yapılandırılması için performans görevi verilebilir. Bu performanslar grup ve akran değerlendirme formlarıyla birlikte değerlendirilebilir. Poster çalışması için grup ve akran değerlendirme formu uygulanabilir. Öğrencilerin yenilenebilir ve yenilenemeyen enerji kaynaklarının kullanımı ile ilgili çıkarımları çalışma yaprağı ile değerlendirilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.4.6.1. Yanlış bağlanmış, çalışmayan ya da eksik devre elemanları olan bir ya da birden fazla elektrik devresi sınıfa getirilir. Devrenin çalışmama nedenleri tartışılır, öğrencilerin devre elemanlarıyla basit bir elektrik devresi kurmaya ilişkin soru veya problemi tanımlamaları sağlanır ( SDB1.2 ) . Bu problemin çözümüne ilişkin öğrencilerden çalışan basit bir elektrik devresi modeli geliştirmeleri beklenir. Düşündükleri modeli çalışma yaprağına çizmeleri ya da dijital ortamda göstermeleri istenebilir ( SDB1.2 , E3.3 ) . Basit bir elektrik devresinin kurulumuna ilişkin güvenlik önlemlerini dikkate alarak ve davranışlarının sonuçları üzerinde düşünerek araştırma planlayıp gerçekleştirmeleri sağlanır ( SDB3.3 , D16.3 ) . Öğrencilerden araştırmalarından yola çıkarak iş birliğiyle devre elemanlarının işlevlerini öğrenmeleri ve basit bir elektrik devresi oluşturmaları beklenir ( SDB2.2 , E3.7 ) . Hazırlanan devrenin çalışıp çalışmadığına yönelik verileri analiz etmeleri ve yorumlamaları istenir. Tasarlanan devre çalışmıyorsa yöntemi, malzemeleri vb. gözden geçirmeleri, oluşturdukları devreyle ilgili sorunlara kanıta dayalı açıklama yapmaları ve devreyi yeniden düzenlemek için çözüm üretmeleri desteklenir ( KB2.8 , SDB3.3 , SDB3.2 , D12.3 ) . Öğrencilerin hazırlanan basit elektrik devresi ile ilgili bilgilerini değerlendirmeleri ve sunum yapmaları sağlanır ( KB2.17 ) . Öğrencilerin devre oluşturma süreçlerini değerlendirmek için analitik veya bütüncül dereceli puanlama anahtarı ile birlikte grup ve akran değerlendirme formları kullanılabilir. Devre elemanlarından pilin farklı türlerine (pil, akü, telefon bataryası vb.) örnek verilebilir. Çevrelerinde gördükleri elektrikli araç gereçlerin benzer elektrik devrelerinden oluştuğuna dikkat çekilebilir.",
+    "FB.4.6.2. Öğretmen tarafından ders öncesinde hazırlanan yenilenebilir ve yenilenemeyen enerji kaynaklarının kullanımına ilişkin örnek olaylar verilir. Örnek olaylardan hareketle öğrencilerin elektrik üretiminde yenilenebilir ve yenilenemeyen enerji kaynaklarının kullanılmasına ilişkin problemi veya durumu sorgulamaları sağlanır ( SDB3.3 ) . Öğrencilerden sorgulanan problem veya durum ile ilgili yenilenebilir ve yenilenemeyen enerji kaynaklarının canlılar ve çevre üzerine etkileri konusunda akıl yürütmeleri istenir. Bu esnada öğrenciler; temiz enerji kaynaklarını kullanmanın önemi, tüm canlıların haklarınının korunması ve çevreyi koruma konularında duyarlılık göstermeleri için yönlendirilir ( SDB3.3 , D5.2 , E3.10 ) . Öğrenciler, yenilenebilir ve yenilenemeyen enerji kaynakları ile ilgili bilgi toplamaya teşvik edilebilir ( KB2.6 , SDB2.2 ) . Enerji kaynaklarının sürdürülebilirliklerine ilişkin akıl yürütme ile ulaştıkları çıkarımları yazı, çizim veya görseller kullanarak yansıtmaları sağlanır ( KB2.15 , SDB2.2 , OB1 , OB4 , OB8 ) . Öğrencilerin ulaştıkları çıkarımlar çalışma yaprağı ile değerlendirilebilir. Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D16.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.3",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.15",
+      "KB2.17",
+      "KB2.6",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/364"
+}

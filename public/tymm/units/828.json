@@ -1,0 +1,45 @@
+{
+  "unitId": 828,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "7. TEMA: MÜZE VE KÜLTÜR",
+  "hours": "6",
+  "description": "Öğrencilerin doğayı koruma konusunda farkındalık geliştirmeleri, tabiat tarihi müzesine uygun doğal nesneleri sınıflandırmaları, müze kültürünü tanımaları ve okullarında tabiat tarihi müzesi oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.1.7.1",
+      "title": "Tabiat tarihi müzesi koleksiyonunu sınıflandırabilme",
+      "processComponents": [
+        "a) Tabiat tarihi müzesindeki eserlere ait özellikleri belirler.",
+        "b) Tabiat tarihi müzesinde bulunan eserleri biçimsel özelliklerine göre ayrıştırır.",
+        "c) Tabiat tarihi müzesindeki eserleri bulundukları mekânlara göre tasnif eder.",
+        "ç) Tabiat tarihi müzesinde tasnif ettiği eserleri etiketler."
+      ]
+    },
+    {
+      "code": "GS.1.7.2",
+      "title": "Okulunda tabiat tarihi müzesi yapabilme",
+      "processComponents": [
+        "a) Tabiat tarihi müzesi koleksiyonuna uygun doğal objeler ve materyallerle müze tasarlar.",
+        "b) Tabiat tarihi müzesi koleksiyonuna uygun eserlerle müze oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "etiket, koleksiyon, müze, tabiat tarihi",
+  "support": [
+    "Öğrencilerden fosiller, mineraller, nesli tükenmiş bitki ve hayvan türlerini içeren sanal müzeleri ziyaret etmeleri istenebilir. Öğrencilerin bu türlere ait fotoğrafları bularak sergilemeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden somut olmayan kültürel miras müzelerini veya belirli bir temaya özel açılmış müzeleri araştırmaları istenebilir. İmkânlar dâhilinde ve mümkünse aileleriyle birlikte bu müzeleri ziyaret etmeleri istenebilir. Ziyaret ettikleri veya araştırdıkları müzeler hakkında kısa bir rapor tutmaları veya edindikleri bilgileri arkadaşlarına poster yoluyla sunmaları istenebilir. Tabiat tarihi müzesine yönelik broşür veya bilgi görseli hazırlayarak bu müzenin önemini ve işlevini tanıtmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları gözlem formları, dereceli puanlama anahtarları, öz değerlendirme formları ve akran değerlendirme formları kullanılarak değerlendirilebilir. Sınıf içi performans görevi olarak öğrencilerden tabiat tarihi müzesi koleksiyonuna uygun doğal nesneleri sınıflandırmaları ve sınıflandırdıkları nesnelerle okullarında müze oluşturmaları istenir. Müzede doğal nesnelerin coğrafi ve ekolojik çevrelerini yansıtan düzenlemeler yapmaları, nesneler hakkında kısa açıklamalar içeren etiketler hazırlamaları beklenir."
+  ],
+  "teachingApplications": [
+    "GS.1.7.1 Öğrencilerden tabiat tarihi müzesi koleksiyonunu sınıflandırabilmeleri beklenir. Bu amaçla pano veya tahtada sınıflandırma alanları oluşturulur. Taşlar, bitkiler, deniz canlılarına ait fosiller gibi doğal varlıkların modelleri veya görselleri dijital yahut basılı materyaller aracılığıyla öğrencilere gösterilir (OB1, OB2). Öğrencilerden bu varlıkların renk, şekil, büyüklük gibi kolay fark edilebilen özelliklerini belirlemeleri (a) beklenir (KB2.8). Benzer özellikler taşıyan varlıkları eşleştirme kartlarıyla biçimsel özelliklerine göre ayrıştırmaları (b) istenir (E2.5, OB4, KB2.5). Bunların doğada farklı çevrelerde bulunduğu bilgisi vurgulanarak görselleri pano veya tahtada orman, deniz, hava gibi başlıklar altında bulundukları mekânlara göre tasnif etmeleri (c) beklenir. Bu süreçte öğrencilerin bu varlıkları herkesin kolay tanıyabilmesi için eserleri etiketlemeleri (ç) sağlanır. Öğrencilerden etiketlerde varlığın adı, rengi, şekli, alındığı yer gibi doğrudan gözlemlenebilen özelliklerine yer vermeleri beklenir. Bu doğrultuda etiketlerde öğrencilere \"Yeşil yaprak-yuvarlak-okul bahçesi\", \"Kahverengi taş-küçük-deniz kenarı\" gibi tanımlamalar yapmaları önerilir. Etiketleme çalışmasıyla öğrencilerin doğal varlıkları tanımaları, benzer ve farklı yönlerini ayırt etmeleri sağlanır. Ayrıca doğal varlıkların sınıflandırılmasına yönelik eğitsel oyunlar, dijital kaynaklar veya sanal müze uygulamaları sürece dâhil edilerek öğrencilerin sürece aktif katılımı desteklenir (OB2, OB5, E2.5). Müzelerin doğayı korunduğu mekânlar olduğunu fark etmeleri beklenir. Öğrencilerin çevreyi koruma bilinci kazanmaları, farklı canlı türlerini tanımaya istekli hâle gelmeleri, çevrelerinde karşılaşabilecekleri canlı ve cansız varlık örneklerini fark etmeleri ve doğayı korumanın ülkemizi sevmek anlamına geldiğini kavramaları sağlanır (D5.2, D19.3). Süreç gözlem formu ile değerlendirilebilir.",
+    "GS.1.7.2 Öğrencilerden okullarında tabiat tarihi müzesi yapabilmeleri beklenir. Bu süreçte müze koleksiyonu oluşturmaları için çevrelerinde bulabilecekleri doğal nesneleri toplamaları istenir. Tabiat tarihi müzesi koleksiyonuna uygun doğal objeler ve materyallerle müze tasarlamaları için (a) topladıkları nesneleri renk, şekil ve büyüklük açısından estetik bir bakışla incelemeleri sağlanır (OB4). Nesnelerin doğal güzellikleri ve dikkat çekici yönlerine ilişkin sorularla öğrencilerin farkındalık kazanmaları beklenir (D7.1). Öğrencilerden seçtikleri nesneleri, renk ve şekil özelliklerini dikkate alarak resmetmeleri istenebilir. Bu aşamada ekosistemdeki işlevlerini ve bulundukları yerin özelliklerini açıklayarak nesnelerin doğal bağlamlarını anlamaları sağlanır (OB4, OB8). Tabiat tarihi müzesi koleksiyonuna uygun eserlerle müze oluşturmaları için (b) öğrencilerden nesneleri türlerine göre gruplara ayırmaları ve bulundukları mekânlara göre tasnif etmeleri istenir. Nesnelerin adını, rengini ve bulundukları yeri içeren etiketler hazırlamaları beklenir (E3.7, KB2.5). Öğrencilerin bu nesnelerle duygusal bağ kurmaları için nesnelere ilişkin kişisel görüşlerini veya anılarını içeren ifadeler yazmaları istenir. \"Bu taş bana yaz tatilinde gittiğim dağları hatırlatıyor.\" gibi cümlelerle koleksiyona anlam yüklemeleri sağlanır (SDB1.1). Müze hazırlama sürecinde doğayla estetik bağ kurmalarını sağlamak amacıyla öğrencilere doğal seslerden oluşan sözsüz müzikler dinletilir. Sergi hazırlık sürecinde öğrencilerden gruplar hâlinde keşfe çıkarak okul içinde veya bahçesinde sergilemeye uygun alanları belirlemeleri beklenir (SDB2.2). Sergi düzeni için raflar, stantlar, paspartular, teşhir kutuları ve etiketler öğrencilerle iş birliği içinde hazırlanır. Sergi alanının aydınlatması, çevre düzenlemesi ve estetik görünümü hakkında öğrencilere farklı seçenekler gösterilir ve öğrencilerden en uygun planı yapmaları beklenir (SDB1.2). Bu alanların küçük bir müzeyi anımsatacak şekilde düzenlenmesine özen gösterilir. Sergide resimler ve doğal nesneler birlikte sergilenir. Müzelerin temel kuralları müze açılmadan önce öğrencilere bilgilendirici videolar veya eğlenceli yöntemler aracılığıyla öğretilir (E2.5). Öğrencilerden hazırladıkları müzenin okullarına ve ülkelerine değer kattığını fark etmeleri ve bu çalışmayı ülkeye duydukları sevginin bir göstergesi olarak görmeleri beklenir (D15.2, D19.3). Öğrencilerden kuralları hatırlamaları için şarkı veya tekerleme söylemesi istenebilir. Öğrencilerle müzelerdeki kurallara ilişkin simülasyon yapılarak bu etkinlikte sessiz olma, eserlere dokunmama, dikkatli gözlem yapma davranışlarını pekiştirmeleri sağlanır (D11.3, D16.2). Ziyaret süresince öğrencilerin görgü kurallarına uygun şekilde davranmalarını ve doğal nesnelere ilişkin merak ettikleri konular hakkında sorular yönlendirmeleri sağlanır (D14.1, E2.3, E3.8). Müze koleksiyonu performans görevi olarak tanımlanarak dereceli puanlama anahtarı, öz değerlendirme formu veya akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/828"
+}

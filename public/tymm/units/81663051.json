@@ -1,0 +1,67 @@
+{
+  "unitId": 81663051,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "51. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 8. ÜNİTE: YAPAY ZEKÂ TEMEL KAVRAMLARI VE UYGULAMALARI",
+  "hours": "7",
+  "description": "Bu ünitede yapay zekâ temel kavramları ve yapay zekâ alt alanları üzerinde durulur. Yapay zekâ ile etik kavramları arasındaki ilişki öğretilir. Model ve tahmin modeli kavramları ile iki veri seti arasındaki korelasyon durumundan bahsedilir. Doğrusal ve çoklu doğrusal regresyon, karar ağacı ve rastgele orman regresyon algoritmaları ile ilgili uygulamalar yapılır. Lojistik regresyon, karar ağacı, rastgele orman, K en yakın komşuluk (KNN), destek vektör makinesi ve Naive Bayes sınıflandırma algoritmaları ile karmaşıklık matrisi konuları üzerinde durulur. Güdümsüz modeller tavsiye sistemleri ve görüntü sıkıştırma algoritmalarından bahsedilir.",
+  "outcomes": [
+    {
+      "code": "BTY.51.1",
+      "title": "Yapay zekâyla ilişkili olan kavramları açıklar",
+      "processComponents": [
+        "Makine öğrenmesi, doğal dil işleme ve görüntü işleme kavramları açıklanır.",
+        "Yapay zekâ ve etik arasındaki ilişki açıklanır.",
+        "Yapay zekâ ve veri bilimi arasındaki ilişki açıklanır.",
+        "Ülkemizin savunma sanayisinde kullandığı yapay zekâ uygulamaları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BTY.51.2",
+      "title": "İstatistiksel yöntemler ve farklı makine öğrenimi teknikleri kullanarak tahmin modelleri geliştirir",
+      "processComponents": [
+        "Tahmin modeli ve korelasyon kavramı açıklanır.",
+        "Bir veri setindeki bağımlı ve bağımsız değişkenler belirlenir.",
+        "Bağımlı ve bağımsız değişkenler arasındaki korelasyon değeri bulunur.",
+        "Bağımlı ve bağımsız değişkenler arasında doğrusal bir ilişkinin varlığı hakkında değerlendirme yapılır.",
+        "Bağımlı ve bağımsız değişkenler görselleştirilir.",
+        "Doğrusal regresyon algoritmasının kullanılabilmesi için Sklearn kütüphanesinin çalışma ortamına aktarılması gösterilir.",
+        "Doğrusal regresyon modelinin kurulumu, eğilimi ve y eksenini kestiği noktaları bulmak için LinearRegression(), fit(), coef_ ve intercept_ komutlarının kullanımı gösterilir.",
+        "Bir model oluşturulur ve bu model kullanılarak tahminlerde bulunulur.",
+        "Eğitim verisi ve test verisi kavramları açıklanır.",
+        "Veri setini eğitim ve test veri setlerine ayırmak için train_test_split fonksiyonunun kullanımı gösterilir.",
+        "Model kullanılarak tahminlerde bulunulur ve gerçek değerler ile karşılaştırılması için gerekli kod satırlarının yazımı gösterilir.",
+        "Birden fazla bağımsız değişken arasındaki ilişkiyi belirleyen ve bağımlı değişken için tahminler yapmaya yarayan çoklu doğrusal regresyon uygulamasının kullanımı gösterilir.",
+        "Karar ağacı regresyonu açıklanır ve uygulaması gösterilir.",
+        "Rastgele orman regresyonu açıklanır ve uygulaması gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.51.3",
+      "title": "Sınıflandırma modellerini kullanarak belirli sınıflara ait verileri tanımlar",
+      "processComponents": [
+        "Sınıflandırma modeli kavramı açıklanır.",
+        "Lojistik regresyon, karar ağacı, rastgele orman, K en yakın komşuluk (KNN), destek vektör makinesi ve Naive Bayes sınıflandırma algoritmaları açıklanır ve uygulaması gösterilir.",
+        "Karmaşıklık matrisi kullanarak sınıflandırma probleminin verimliliği gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.51.4",
+      "title": "Büyük ve karmaşık veri kümeleri içindeki desenleri keşfetmek ve veri setlerindeki bilgileri keşfetmek için güdümsüz modeller kullanır",
+      "processComponents": [
+        "Güdümsüz modeller açıklanır.",
+        "Bir veri seti üzerinde kümeleme işlemi gösterilir.",
+        "Tavsiye sistemleri ve görüntü sıkıştırma algoritmaları açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

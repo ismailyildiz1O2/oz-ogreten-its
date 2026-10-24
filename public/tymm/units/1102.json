@@ -1,0 +1,55 @@
+{
+  "unitId": 1102,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "1. TEMA: TAMPERE SES SİSTEMİNDE DİZİ KAVRAMI",
+  "hours": "12",
+  "description": "Temanın içeriğini tampere ses dizilerinin tam ses ve yarım ses birleşiminden oluştuğunu fark edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TMT3.1.1. Müzikte dizi (gam) kavramını işitebilme",
+      "processComponents": [
+        "a) Dizi kavramını tanır.",
+        "b) Dizi kavramını işitsel olarak ayırt eder.",
+        "c) Dizi kavramını uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, gam, ses, majör, minör",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu arttırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazırbulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa geliştirilebilir. Benzer öğrenme düzeyinde olan öğrencileri küçük gruplara ayırarak tam-yarım ses, temel diziler, diyatonik dizi ve kromatik dizi hakkında öğrendikleri hakkında panolar hazırlamaları ve buna benzer etkinlikler yapılırken öğrencilere dönütler verilerek sunum yapmaları desteklenebilir."
+  ],
+  "enrichment": [
+    "Dizilerden oluşturabileceği küçük ezgiler veya etütler tasarlamaları istenebilir. Bilgisayar veya mobil uygulamalar aracılığıyla deneyimler sunularak interaktif ortamda öğrendiği kavramlarla sesleri kayıt altına alarak becerilerini geliştirebilir. Diyatonik ve kromatik dizilerle alakalı seslendirme çalışmaları ile işitsel olarak bütün dizilerin diyatonik ve kromatik seslerini daha güçlü öğrenmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, dereceli puanlama anahtarı, eşleştirme soruları, kontrol listesi, performans görevi ile değerlendirilebilir. Duyduğu iki sesin aralıklarına ilişkin tahmin edebilmesine ilişkin performans çalışması yapılabilir. Dizilerin oluşumu ve kaç tam, kaç yarım aralıktan oluştuğunu içeren performans görevi istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "TMT3.1.1. Dizi (gam) olgusu ile ilişkili olarak merak uyandırıcı ve dikkat çekici eğitsel oyunlarla etkinlikler planlanır ( E1.1 , E2.5 ). Öğrencilerin yeni öğrenmelere ilişkin görsellere ait soru sorması sağlanır (E3.8). Sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma çerçevesinde desteklenir ( SDB1.1 ). Temel bir sesten başlayıp art arda sekiz sesin sıralanıp bir dizi bütününü oluşturması konusu ile ilgili etkinlikler yapılarak dizi kavramını tanıması sağlanır. Farklı diziler ile ilgili sunumlar hazırlanarak öğrencilerin hem görsel hem de işitsel olarak birbirinden farklı dizileri ayırt etmeleri sağlanır ( OB4 ). Dizilerin inici (pesleşen) ve çıkıcı (tizleşen) özelliklerini, çeşitli Türk müziği çalgıları ve yazı tahtası kullanılarak sınıf içinde işitsel ve görsel olarak ayrt etmeleri sağlanır. Çeşitli ses dizilerinin içinde de tam ve yarım ses olduğunu ifade edebilmeleri için ses dizileinin tam ses ve yarım ses birleşiminden oluştuğunu portede göstererek uygulayabilmeleri sağlanır ( SAB7 ). Görsel materyal ve animasyonlar yoluyla diyatonik dizideki tam ve yarım seslerin yerlerini fark etmesi sağlanır. Tam ve yarım seslerin yerlerini göstereceği örnek uygulamalar yapılarak diyatonik dizileri oluşturan sesleri yazarak uygulaması sağlanır. Diyatonik dizideki tam ve yarım seslerin duyulması ve seslendirilmesi için işitme ve seslendirme etkinlikleri yapılır. Eşleştirme kartları, bulmaca gibi etkinliklerle hangi ses aralıklarının yarım, hangi ses aralıklarının tam ses aralığı olduğunu bulmaları sağlanarak süreç daha keyifli ve eğlenceli hâle getirilebilir ( E2.5 ). Diyatonik dizilerden yola çıkarak tonal diziler, işitsel ve görsel örneklerle fark ettirilir ve bu diziler arasındaki farklılıkların ayırt edilmesi sağlanır ( OB4 ). Türk müziği ses sisteminde bulunan dizi kavramına karşılık gelen makamlara yönelik işitsel ve görsel örnekler verilir ( OB4 ). Çargâh makamı, majör ton ile ilişkilendirilirken buselik makamı minör ton ile ilişkilendirilir. Öğrencilerin birbirleriyle iletişim kurarken birbirlerine karşı nazik olmaları istenir ( D14.1 ). Bireysel ya da grup olarak içerikler hakkında birbirleri ile iletişim kurmaları sağlanır. Öğrencilerden iş birliğiyle çalışarak eba üzerinden paylaşım yapmaları, yapılan paylaşımlara yorum yaparak dijital araçlar ile etkileşime girmeleri beklenir ( OB2 , SDB2.2 , D4.2 ). Bu süreç kontrol listesi veya çalışma kâğıdı kullanılarak değerlendirilebilir. Dizilerin oluşumu ve kaç tam, kaç yarım aralıktan oluştuğunu içeren performans görevi istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SAB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1102"
+}

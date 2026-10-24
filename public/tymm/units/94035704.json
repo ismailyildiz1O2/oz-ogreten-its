@@ -1,0 +1,56 @@
+{
+  "unitId": 94035704,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "4. ÖĞRENME ALANI: MÜZİK KÜLTÜRÜ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.4.D.1",
+      "title": "Müzik arşivi oluşturmanın önemini fark eder",
+      "processComponents": [
+        "Arşiv hazırlanırken destan, öykü, şiir vb. türlerden esinlenilerek oluşturulmuş örneklerden yararlanılır."
+      ]
+    },
+    {
+      "code": "Mü.4.D.2",
+      "title": "Sınıfça ortak müzik arşivi oluşturur",
+      "processComponents": [
+        "Öğrencilerin müzik alanı ile ilgili edindikleri veya ürettikleri her türlü çalışmayı (eser ses kayıtları, nota yazıları vb.) sınıflandırıp çeşitli bilişim teknolojisi gereçlerinin (bilgisayar, çeşitli bellek birimleri vb.) desteğiyle gerek yazılı gerek sayısal (dijital) veri olarak bir müzik arşivi oluşturmaları sağlanır.",
+        "İnternet ortamında müzik dinlerken siber güvenliğe ve etik kurallara dikkat edilmesi gerekliliği hatırlatılır."
+      ]
+    },
+    {
+      "code": "Mü.4.D.3",
+      "title": "Farklı türlerdeki müzikleri dinleyerek müzik kültürünü geliştirir",
+      "processComponents": [
+        "Geleneksel müzik kültürümüzden örneklere yer verilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.4.D.4",
+      "title": "Öğrenilen müzikler aracılığıyla millî ve manevi bilinç kazanır",
+      "processComponents": [
+        "Vatanseverlik değeri ile ilgili bilinç kazandırılır."
+      ]
+    },
+    {
+      "code": "Mü.4.D.5",
+      "title": "Çevresindeki müzik etkinliklerine katılır",
+      "processComponents": [
+        "Öğrencilerin, çevresinde (sınıf, okul, ev, mahalle vb.) düzenlenen müzik etkinliklerine dinleyici veya görevli olarak katılımları konusunda yönlendirmeler yapılır. Daha sonra bu etkinliklerde edindikleri deneyim ve izlenimleri arkadaşları ile paylaşmaları istenir. Öğrencilerin okul ve ev dışındaki çevrelerde yapılan etkinliklere veli eşliğinde katılmaları sağlanmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Müzik Kültürü",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

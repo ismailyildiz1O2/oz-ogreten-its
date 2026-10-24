@@ -1,0 +1,136 @@
+{
+  "unitId": 582,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "4. TEMA: SANAT VE TEKNOLOJİ",
+  "hours": "24",
+  "description": "Temada giyilebilir teknoloji ürünü tasarım taslağı oluşturulabilmesi, amblem ve logo taslağı oluşturulabilmesi, yapay zekâ ile amblem ve logo oluşturulabilmesi, grafiti oluşturulabilmesi, kısa film taslağı tasarlanabilmesi ve kısa film taslağı oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.12.4.1",
+      "title": "Giyilebilir teknoloji ürünü tasarım taslağı oluşturabilme",
+      "processComponents": [
+        "a) Giyilebilir teknoloji ürünü tasarımına yönelik inceleme yapar.",
+        "b) Giyilebilir teknoloji ürünü tasarımına yönelik fikir geliştirir.",
+        "c) Giyilebilir teknoloji ürünü tasarımına yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.12.4.2",
+      "title": "Amblem ve logo taslağı oluşturabilme",
+      "processComponents": [
+        "a) Amblem ve logo örneklerine yönelik inceleme yapar.",
+        "b) Amblem ve logo taslağına yönelik fikir geliştirir.",
+        "c) Amblem ve logo taslağı fikrine yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.12.4.3",
+      "title": "Yapay zekâ ile amblem ve logo oluşturabilme",
+      "processComponents": [
+        "a) Amblem ve logo tasarıma uygun yöntem/teknik belirler.",
+        "b) Amblem ve logo yöntem/tekniğine uygun araç/gereçleri belirler.",
+        "c) Amblem ve logo yöntem/tekniğin üretim aşamalarını sıralar.",
+        "ç) Konuyu yapay zekâ ile amblem ve logoya dönüştürür.",
+        "d) Amblem ve logonun estetik ve işlevsel yeterliliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "GS.12.4.4",
+      "title": "Grafiti oluşturabilme",
+      "processComponents": [
+        "a) Grafitiye uygun görsel anlatım araçlarını ifade eder.",
+        "b) Grafitiye uygun eskizi sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.12.4.5",
+      "title": "Kısa film taslağı oluşturabilme",
+      "processComponents": [
+        "a) Kısa film ile ilgili konusuna yönelik inceleme yapar.",
+        "b) Kısa film taslağına yönelik fikir geliştirir.",
+        "c) Kısa film fikrine yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.12.4.6",
+      "title": "Kısa film oluşturabilme",
+      "processComponents": [
+        "a) Kısa film tasarımına uygun yöntem/teknik belirler.",
+        "b) Kısa film tasarımına uygun araç/gereçleri belirler.",
+        "c) Kısa film tasarımının üretim aşamalarını sıralar.",
+        "ç) Konuyu kısa filme dönüştürür.",
+        "d) Kısa film tasarımının estetik ve işlevsel yeterliliğini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "grafiti, istem (prompt), kısa film, piece (piys), sanal gerçeklik (VR), sprey boya, stencil (sitensil), hikâye planı [(storyboard) (sıtoribord)], tagging (tegin), throw-up (tırov ap), yapım (prodüksiyon)",
+  "support": [
+    "Öğrencilerden mevcut giyilebilir teknoloji ürününe eklemek istedikleri bir özelliği basit bir çizimle ifade etmeleri istenebilir.",
+    "Öğrencilerin yapay zekâ araçlarını kullanarak kendi adlarını farklı stillerde yazmaları sağlanabilir.",
+    "Öğrencilerden okullarının adını grafitinin görsel özelliklerine uygun bir şekilde kâğıt üzerine yazmaları istenebilir.",
+    "Öğrencilerden kısa film çekim aşamalarını anlatan bir şema çizmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden eskizi yapılan giyilebilir teknoloji ürününü çevrim içi programlar aracılığıyla modellemeleri istenebilir.",
+    "Öğrencilerden yapay zekâ destekli araçlar kullanarak bir okul etkinliği ile ilgili davetiye tasarımı yapmaları istenebilir.",
+    "Gerekli izinler alındıktan sonra öğrencilerden okulun belirlenen bir alanında çevre bilinci ve sürdürülebilirlik konusunda grafiti uygulaması yapmaları istenebilir.",
+    "Öğrencilerden Türk edebiyatından seçtikleri bir hikâyeyi senaryolaştırarak kısa filme dönüştürmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; dereceli puanlama anahtarı, grup değerlendirme formu, dereceleme ölçeği, performans görevi ve öz değerlendirme, kontrol listesi, gözlem formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden kendi seçtikleri bir spor dalı ile ilgili bir takım amblemini ve logosunu yapay zekâ uygulamalarını kullanarak tasarlamaları istenebilir. Yapılan çalışmalar, dereceleme ölçeği ya da dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.12.4.1. Giyilebilir teknoloji ürünleri ile ilgili görseller sunularak öğrencilerin incelemeleri istenir ( OB4 ). Bir tartışma ortamı oluşturularak öğrencilerin bu ürünlerin gerekliliğini sorgulamaları sağlanır ( E3.9 ). Bu aşamada akvaryum tekniğinden yararlanılabilir. Öğrencilerin konu hakkında öne sürülen fikirleri sorgulamaları beklenir ( KB3.3 ). Desteklenen doğru cevaplar aracılığıyla giyilebilir teknolojik ürünlerin bir sorunu çözmeye ya da bir gereksinimi karşılamaya yönelik amaçlarla tasarlandığının fark edilmesi sağlanır. İşlevsel amaçların giyilebilir teknoloji ürünlerinin tasarım süreci ile ilgili bir başlangıç noktası olduğu vurgulanır. Öğrencilerden günlük hayatta karşılaştıkları sorunları ifade etmeleri istenir. İfade edilen sorunlar arasından yaratıcı tasarım çözümleriyle giderilebilecek olanların belirlenmesi sağlanır. Bu aşamada konuşma biletleri tekniği kullanılabilir.",
+    "Öğrencilerden tespit ettikleri sorunları çözümleyebilecek giyilebilir teknoloji fikirleri geliştirmeleri ve paylaşmaları istenir ( KB3.2 ). Ortaya çıkan öneriler yazılarak bir liste hâline getirilir. Gruplara ayrılan öğrencilerin giyilebilir teknoloji ürünü hakkında çalışabilmeleri için hazırlanan listeden bir konu seçmeleri istenir ( SDB2.2 ). Öğrencilere marka değeri taşıyan özgün ürünler oluşturmada yerel özelliklere sahip görsel ögelerin önemi hatırlatılır. Grup üyelerinin kendi aralarında iş bölümü yaparak oluşturulan listeden seçtikleri konuya yönelik [akıllı saat, fitness (fitnıs) bileziği, akıllı gözlük, sanal gerçeklik (VR) gözlüğü, artırılmış gerçeklik (AR) gözlüğü, akıllı kulaklık, işitme cihazı, ışık entegreli kıyafetler, akıllı kask, kamera vb.] çalışmaları sağlanır ( SDB1.2 ).",
+    "Öğrencilerin tasarım eskizi yaparken geleneksel ya da dijital teknikleri ve araçları kullanabilecekleri belirtilir. Hazırlanacak eskizlerde giyilebilir teknoloji ürününün biçimi, boyutu, işlevi, çalışma prensibi ve kişisel verilerin korunması ile ilgili özelliklerin yer alması gerektiği vurgulanır ( D8.2 ). Konuya uygun olarak tasarlanacak ürünlerde geleneksel Türk motiflerinden yararlanılması istenir ( OB5 ). Tasarım sürecinde takip edilmesi gereken aşamalar hatırlatılarak grupların bu aşamaları sırayla gerçekleştirmeleri sağlanır ( E3.7 ). Süreç bitiminde grup üyelerinden çalışmaları bir araya getirerek sergilemeye hazırlamaları istenir. Yapılan çalışmalar, grup değerlendirme formu veya dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "GS.12.4.2. Öğrencilerden gelecekte yapmayı düşündükleri iş alanlarını ifade etmeleri ve bunlar arasından seçtikleri biri ile ilgili hayalî bir firma kurgulamaları istenir. Öğrencilerin seçtikleri alanla ilgili başarılı logo ve amblem örneklerini inceleyerek tasarım özelliklerini keşfetmeleri sağlanır ( E1.1 ). Öğrencilerden kendi logo ve amblem tasarımlarının stilini ve formatını belirlemeleri istenir. Tasarım sürecinde kullanabilecekleri yapay zekâ türleri ve oluşturabilecekleri istemler hakkında öğrencilerin inceleme yapmaları sağlanır.",
+    "Amblem ve logo tasarım fikrini somutlaştırmak için her öğrencinin hayal ettiği firmanın özelliklerini listelemesi sağlanır ( E2.3 ). Listeledikleri özelliklere göre firmanın imajını temsil eden fikirler geliştirmeleri sağlanır.",
+    "Öğrencilerden buldukları fikirlerden yola çıkarak üç eskiz çizmeleri istenir. Eskiz çizim sürecinde firmaya uygun olabilecek stil özelliklerini belirlemeleri sağlanır. Süreç, öz değerlendirme veya gözlem formu kullanılarak değerlendirilebilir.",
+    "GS.12.4.3. Öğrencilerin yaptıkları amblem ve logo tasarım denemelerinde ortaya çıkan sonuçları değerlendirmeleri, yapay zekâ istemlerinin sınırlamaları ve olası hata yapma durumları hakkında çıkarımlarda bulunmaları sağlanır ( OB2 ). Böylece öğrenciler yapay zekâ uygulamalarını kullanırken tasarım sonuçlarının kalitesini arttırmak için hangi yöntemleri izlemeleri gerektiğini belirler.",
+    "Öğrenciler tasarım sürecine hangi yapay zekâ sistemlerinin dâhil edilebileceği hakkında bilgilendirilir. Tasarım araçları ile ilgili olarak uygun yapay zekâ türlerini belirlemeleri ve ifade etmeleri istenir.",
+    "Öğrenciler önceki adımların çıktılarına göre belirledikleri tasarım aşamaları arasında bir öncelik sırası oluşturur ( SDB1.2 ). Tasarım sürecindeki her adımın süresi, ne zaman ve nasıl yapılacağı belirlenip öncelik sırasına göre düzenlenerek listelenir.",
+    "Öğrencilerin belirlenen adımlar ve planlar doğrultusunda gerekli tasarım aşamalarına başlamaları sağlanır. Tasarımın planlanan ölçü lerde dijital görüntüsü elde edilir. Mevcut donanım olanakları doğrultusunda tasarımın dijital baskısı alınabilir.",
+    "Öğrencilerin logo ve amblem tasarımlarını estetik ve işlevsel özellikler bakımından değerlendirmeleri sağlanır. Süreç, kontrol listesi veya öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğ rencilerden kendi seçtikleri bir spor dalı ile ilgili bir takım amblemini ve logosunu yapay zekâ uygulamalarını kullanarak tasarlamaları istenebilir. Yapılan çalışmalar dereceleme ölçeği veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "GS.12.4.4. Grafiti uygulamasına uygun araçların belirlenmesi amacıyla öğrencilere tagging (tegin), throw- up (tırov-ap), piece (piys) gibi bazı grafiti tarzları hakkında bilgi verilir. Bu grafiti tarzlarına uygun olarak hazırlanmış çeşitli örnek görseller gösterilerek öğrencilerin incelemeleri sağlanır ( OB4 ). Öğrencilerden inceledikleri grafiti çalışmalarını kendi deneyim ve değerlerine göre değerlendirmeleri ve yorumlamaları istenir. Grafitinin sanatçının amacına uygun olarak sanatsal ifade, sosyal mesajları iletme ya da varlığını göstermek için kendi isim ve simgelerinin yazılarak yapıldığından bahsedilebilir. Sokak sanatının içinde yer almasına rağmen son zamanlarda bazı grafiti örneklerinin modern sanat galerilerinde sergilendiğinden söz edilebilir. Banksy (Benksi), Jean-Michel Basquiat (Jan Mişel Baskiya) ve Shepard Fairey (Şepırd Feri) gibi sanatçıların bu alandaki eserlerinden örnekler öğrencilere gösterilebilir. Grafiti uygulamalarında sprey boya, kalem, fırça ve stencil (şablon) gibi araçların kullanıldığı bilgisi verilir. Öğrencilerin kendi grafiti çalışmaları için en uygun araçları belirleyerek ifade etmeleri istenir.",
+    "Öğrencilere grafiti çalışmasında \"tüketim kültürü\" temasını ele alabilecekleri söylenir. Öğrencilerden kullanılabilecek tekniklere ve temaya uygun en az üç adet eskiz yapmaları istenir. Eskizlerde emojiler, ikonlar, simgeler gibi dijital kültürün sembolleri hâline gelmiş görsel ögelerin kullanılabileceği belirtilir. Eskizlerin geleneksel ya da dijital tekniklerle yapılabileceği belirtilir. Her iki tekniğin uygulama sürecinde dikkat edilmesi gereken ayrıntılar vurgulanır. Öğrencilerden merak ettikleri ya da üzerinde daha fazla durulmasını istedikleri konularda öğretmenle ve birbirleriyle etkileşim kurmaları istenir ( E1.1 , SDB2.1 ). Tamamlanan eskiz çalışmalarının temaya ve tekniğe uygunluğu ve uygulanabilirliği hakkında öğrencilerin görüşlerini açıklamaları istenir. Eskizler arasından seçilenlerin sanatsal uygulamaya dönüşmesi için öğrencilerin çalışma yapmaları sağlanır. Yapılan çalışmalar, dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir.",
+    "GS.12.4.5. \"Sinema\", \"kısa film\", \"senaryo\", \"hikâye planı (storyboard)\", \"yapım (prodüksiyon)\" gibi kavramlar hakkında bilgi notları sunularak öğrencilerin incelemeleri istenir. Daha önce kısa film izleyen ve bu konuda fikirleri olan öğrencilere söz verilerek görüşlerini ifade etmelerine olanak tanınır ( SDB2.1 ). \"Sağlıklı yaşam\" konusunda bir kısa film etkinliği yapılacağı söylenerek öğrencilerin konu ile ilgili fikir ve düşüncelerini ifade etmeleri istenir.",
+    "Öğrenciler çalışma gruplarına ayrılır. Gruplardan sağlıklı yaşam için yapılması gerekenleri listelemeleri istenir ( D13.4 ). Öğrencilerin hazırlanan listeler doğrultusunda fikir geliştirmeleri ve senaryo oluşturmaları sağlanır. Senaryolar sınıf ortamında sunulur.",
+    "Kısa film çekimine başlamadan önce grupların senaryoya uygun bir hikâye planı çizimi hazırlamaları istenir. Hikâye planı çizimi için öğrencilerin geleneksel ya da dijital teknikleri kullanabilecekleri açıklanır. Çalışmalar kontrol listesi ile değerlendirilebilir.",
+    "GS.12.4.6. Öğrencilere kısa film yapımında kullanmaları için temel düzeyde çekim, aydınlatma, kurgu, ses ve görsel efekt teknikleri açıklanır. Bu açıklamalardan yola çıkarak öğrenci gruplarının kullanacakları teknikleri ve yöntemleri belirlemeleri sağlanır.",
+    "Kısa film çekim sürecinde öğrencilerin dijital kamera, ses kayıt cihazı, mikrofon, uygun yazılımlı bilgisayar, akıllı telefon, tablet gibi ekipmanları kullanabilecekleri açıklanır. Öğrencilerin öğretmen rehberliğinde uygun araç gereçleri belirlemeleri sağlanır.",
+    "Öğrencilerin seçtikleri konuya uygun olarak hazırlayacakları kısa film için izleyecekleri uygulama aşamalarını sıralamaları sağlanır.",
+    "Her gruptan kısa filmde oyuncu olarak görev alacak kişileri ve teknik ekibi belirlemeleri istenir. Grupların uygulama aşamalarını izleyerek planladıkları film çekimini gerçekleştirmeleri sağlanır. Çekim sonrasında ses, efekt, müzik gibi ögelerin eklenmesiyle filmin montaj süreci tamamlanır.",
+    "Ortaya çıkan kısa filmlerin estetik ve işlevsel özellikleri değerlendirilir. Değerlendirme sonrasında öğrenci filmleri \"sağlıklı yaşam\" etkinliği kapsamında izlenime sunulur (D3.2). Yapılan çalışmalar grup değerlendirme formu veya dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D8.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.3",
+      "E3.7",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB3.2",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/582"
+}

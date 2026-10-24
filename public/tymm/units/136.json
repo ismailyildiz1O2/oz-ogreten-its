@@ -1,0 +1,68 @@
+{
+  "unitId": 136,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi (Maarif Modeli)",
+  "title": "5. ÜNİTE: MÜSLÜMANLARIN BİLİM VE KÜLTÜRE KATKISI",
+  "hours": "12",
+  "description": "Ünitenin teması kültürdür. Bu ünitede Müslümanların bilim ve kültüre katkısı ele alınmaktadır. Öğrencilerin; İslam kültür ve medeniyetinin esaslarını sentezlemeleri, İslam’ın bilime verdiği önemi ve katkıyı sorgulamaları, Müslüman bilim insanlarını tarihsel şartları bağlamında değerlendirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "DKAB.8.5.1",
+      "title": "İslam kültür ve medeniyetinin esasları konusunu sentezleyebilme",
+      "processComponents": [
+        "a) İslam kültür ve medeniyetinin esaslarını inceler.",
+        "b) İslam kültür ve medeniyetinin esasları arasında ilişki kurar.",
+        "c) İslam kültür ve medeniyetinin esaslarını birleştirerek özgün bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "DKAB.8.5.2",
+      "title": "İslam'ın bilime verdiği önemi ve katkıyı sorgulayabilme",
+      "processComponents": [
+        "a) Bilim kavramını tanımlar.",
+        "b) İslam'ın bilime verdiği önem hakkında sorular sorar.",
+        "c) İslam'ın bilime verdiği önemle ilgili bilgi toplar.",
+        "ç) İslam'ın bilime verdiği önemle ilgili toplanan bilgilerin doğruluğunu öğretmen rehberliğinde değerlendirir.",
+        "d) İslam'ın bilime verdiği önemle ilgili toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DKAB.8.5.3",
+      "title": "Müslüman bilim insanlarının bilim ve kültüre katkısını tarihsel bağlamda değerlendirebilme",
+      "processComponents": [
+        "a) Müslüman bilim insanlarının bilim ve kültüre katkısını farkeder.",
+        "b) Müslüman bilim insanlarının bilim ve kültüre katkısını, yaşadıkları dönemlerin koşulları içerisinde açıklar.",
+        "c) Müslüman bilim insanlarının katkılarını analiz eder.",
+        "ç) Müslüman bilim insanlarının kendi koşullarını günümüz koşullarıyla karşılaştırır."
+      ]
+    }
+  ],
+  "keyConcepts": "bilim, kültür, medeniyet",
+  "support": [
+    "Öğrencilere, ünitede bilgi verilen bilim insanlarının isimlerinden ve bu insanların öne çıktığı bilim alanlarından oluşan eşleştirme etkinliği yaptırılabilir. Bu bilim insanlarının isimlerini içeren bir bulmaca veya kelime avı hazırlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere merak ettikleri bir bilim insanının hayatını araştırarak sunu hazırlama görevi verilebilir. (Farabi, Uluğ Bey vb.)"
+  ],
+  "assessment": [
+    "Bu ünitenin ölçme değerlendirme sürecinde açık uçlu soru, kısa cevaplı soru, çalışma yaprağı, kavram haritası, bulmacalar ve öz değerlendirme formu, kullanılabilir.",
+    "Performans Görevi: İslam kültür ve medeniyetinin esasları konulu panel etkinliği hazırlanabilir. İslam'da bilimin yerini ve önemini anlatan bir sunu hazırlanabilir. Bilim insanlarının hayatlarını ve çalışmalarını araştırarak okul panosu, afiş veya dergi hazırlanabilir. Performans görevleri ölçütlere göre oluşturulan puanlama anahtarı ile değerlendirilir. Öğrencinin ünite süresince yaptığı ürün çıktıları bir araya getirilerek öğrenci ürün dosyası oluşturulur.",
+    "Sonuç değerlendirmede performans görevlerine yer verilebileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.8.5.1 İslam kültür ve medeniyetinin esasları hakkında öğrencilere farkındalık kazandırmak ve konuya ilgilerini çekmek için sorular yöneltilir ( E3.8 ) . Kültür ve medeniyet kavramları açıklanır. İslam kültür ve medeniyetine ait örnekler verilerek öğrencilere kültürel mirasın önemi fark ettirilir. İslam kültür ve medeniyetinin esasları bütünsellik, özgünlük, evrensellik ve bilimsellik olarak belirlenir. Bu esaslar arasında parça-bütün ilişkisi kurulur. Öğrencilerin bu esasları birleştirerek İslam kültür ve medeniyeti hakkında bir metin yazması veya afiş, pano vs. hazırlaması sağlanır.",
+    "DKAB.8.5.2 Öğrenciler bilim kavramını tanımlar. Öğrencilerin, İslam'ın bilime verdiği önem hakkında merak ettikleri soruları sormaları ( E3.8 ) için sınıfta uygun bir ortam oluşturulur ve sorulan sorular cevaplanır. Öğrencilerin konuyla ilgili bilgi toplaması sağlanır. İslam dininin akla, düşünmeye, eğitime verdiği önem ayet ve hadislerin ışığında açıklanır. İslam biliminde Hz. Ali'nin önemi vurgulanır. Öğrenciler elde ettikleri bilgileri öğretmen rehberliğinde doğrulayarak değerlendirir. Öğrenciler bu bilgiler üzerinden çıkarım yapar. Konuyla ilgili olarak Bilim ve Teknoloji Haftası'na değinilir.",
+    "DKAB.8.5.3 Öğrencilerden Müslüman bilim insanlarının hayat hikâyeleriyle ilgili kaynaklara dayanarak sistematik ( E3.7 ) bir şekilde araştırma yapması ve onların bilim ve kültüre katkısını farketmesi sağlanır. Çalışmaların değerinin ve özgünlüğünün öneminin anlaşılması için Müslüman bilim insanlarının bilim ve kültüre katkısı, yaşadıkları dönemlerin koşulları içerisinde açıklanır. Konu içerisinde Cabir bin Hayyan, Harizmi, Fatıma el-Fihrî, İbni Sina, İbnülheysem, Cezeri, İbni Haldun, Ali Kuşçu, Mimar Sinan ve Fuat Sezgin isimlerine yer verilir. Bu bilim insanlarının içinde yaşadıkları dönemin zorluklarına rağmen çalışmalarını azim ve kararlılıkla ( D3.1 ) sürdürdüklerinin üzerinde durulur. Öğrenciler bu bilim insanlarının çalışkanlıklarını örnek almaları konusunda teşvik edilir. Öğrencilerin, Müslüman bilim insanlarının bilim dünyasına katkıları ve bu katkıların günümüze kadar devam eden etkilerini analiz etmeleri sağlanır. Müslüman bilim insanlarının koşulları günümüz koşullarıyla karşılaştırılır ve değerleri açıklanır. Çalışmalarının günümüzdeki yansımaları hakkında farkındalık kazandırılır."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E3.7",
+      "E3.8"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/136"
+}

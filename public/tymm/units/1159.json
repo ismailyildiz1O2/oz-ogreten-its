@@ -1,0 +1,52 @@
+{
+  "unitId": 1159,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: GİTARDA ARPEJ TEKNİĞİ",
+  "hours": "22",
+  "description": "Temada öğrencilerin arpej tekniğini öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.4.2.1",
+      "title": ". Gitarda arpej tekniğini uygulayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "arpej",
+  "support": [
+    "Arpej egzersizlerini metronom eşliğinde çalmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencileri gruplara ayırarak farklı akorlar üzerinde arpej çalmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilere arpej tekniğini basit bir şarkı veya ezgi üzerinde uygulamaları istenebilir.Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.4.2.1",
+    "Öğretmen, öğrencilere gitarın sağ elinin arpej tekniğindeki rolünü açıklayarak dersi başlatır. Arpej tekniğinin akorların seslerinin sırasıyla her bir notasının tek tek tınlatılıp çalınması olduğu anlatılır ( SDB2.1 ). Öğrencilere etkileşimli tahtadan günlük hayatta bir müzik parçasında nasıl bir arpej modelinin duyulabileceğini anlatan örnekler (popüler şarkılar veya klasik müzik eserleri) izletilir. Öğrenciler beğendikleri eserleri etkileşimli tahtadaki kişisel klasörlerine kaydederler ( OB2 ). Öğretmen, temel bir arpej modeli olan p – i – m – a (başparmak, işaret parmağı, orta parmak ve serçe parmağı) sırasını açık teller üzerinde gösterir. Öğrenciler gözlem yapmak için öğretmenlerini ölçüt olarak belirler ve konuyla ilgili veri toplayıp kaydeder ( KB2.2 ). Öğrencilere sağ el parmaklarını doğru sırasıyla nasıl kullanacakları ve her parmağın hangi teli çalacağı anlatılır. Öğrenciler; planlı bir şekilde öğretmenin gösterdiği gibi 6. tel ile başlayarak baş parmak (p) ile ardından 3. tel ile işaret parmağı (i) ile 2. tel ile orta parmak (m) ile ve son olarak 1. tel ile serçe parmak (a) ile arpeji uygularlar ( D3.2 ). Öğrenciler arpej modelini çalarken öğretmen; doğru parmak yerleşimi, doğal bilek hareketi ve parmakların gergin olmaması için dönütler verir. Öğrencilerden doğru hareketi yakalayabilmeleri için odaklanıp yavaşça çalmaları istenir ( E3.2 ). Öğretmen, dikkat edilmesi gereken noktaları sıralar:",
+    "• Başparmak (p) 6. telde hafif bir baskı yaparak teli çalmamalı, sadece parmak doğal bir şekilde teli çalmalıdır.",
+    "• Diğer parmaklar (i, m, a) sırasıyla teli çekmeli ve her bir parmak, parmağının doğal eğriliğiyle tel üzerinde kayarak sesi temiz çıkarmalıdır.",
+    "Öğrenciler, öğretmen rehberliğinde arpej modelini önce yavaş, sonra hızlarını kademeli olarak artırarak çalarlar. Hız arttıkça her bir parmağın tek tek, düzgün ve temiz bir şekilde teli vurduğundan emin olmaları sağlanır. Öğrenciler, metronom eşliğinde arpeji çalmaya devam ederler ( E3.1 ). Öğrenciler, do majör (C) ve sol majör (G) akorları üzerinde arpej tekniğini uygularlar. İlk başta sadece do majör akoru üzerinde arpej çalınması istenir. Öğrenciler arpeji yavaşça çalarak her bir akorun sesini ayrı ayrı net bir şekilde duymalıdır. Öğretmen, öğrencilerin her iki akorda da doğru şekilde arpej çalmalarını denetler. Öğrenciler arpej modelini bu akorlara uygun şekilde uygulayarak akorları net bir şekilde duymalıdırlar. Öğrencilerden performans görevi olarak arpej tekniğini basit bir şarkı veya ezgi üzerinde uygulamaları istenir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E3.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1159"
+}

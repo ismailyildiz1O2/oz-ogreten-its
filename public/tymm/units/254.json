@@ -1,0 +1,138 @@
+{
+  "unitId": 254,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "2. TEMA: SAYILAR VE NİCELİKLER (2)",
+  "hours": "46",
+  "description": "Bu temada öğrencilerin bütün, yarım ve çeyreğin kesirle gösterimi için modellerden yararlanabilmesi; bir bütünü eş parçalar oluşturacak şekilde birim kesir olarak çözümleyebilmesi; bir kesrin payı ile paydası arasındaki ilişkiyi çözümleyebilmesi; analog ve dijital saatleri okuyup yazabilmesi; zaman ölçme birimlerinden saat, dakika ve saniyeyi anlayıp dönüşümlerini yapabilmesi; olayların oluş sürelerini tahmin ederek yargıda bulunabilmesi amaçlanmaktadır. Ayrıca öğrenciler uzunluk ölçüm birimlerinden santimetre, metre ve kilometreyi; kütle ölçüm birimlerinden gram, kilogram ve tonu tanıyarak bunların kendi içlerinde dönüşümünü yapabilmesi; paralarımızı değerlerine göre madenî ve kâğıt paralar olarak birbirlerine dönüştürülebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.3.1.9",
+      "title": "Bütün, yarım ve çeyreğin kesirle gösterimi için modellerden yararlanabilme",
+      "processComponents": [
+        "a) Bütün, yarım ve çeyrek modellerinin temsillerini tanır.",
+        "b) Bütün, yarım ve çeyrek modellerine uygun kesir temsillerini belirler.",
+        "c) Belirlediği temsili bütün, yarım ve çeyrek modelleri için kullanır."
+      ]
+    },
+    {
+      "code": "MAT.3.1.10",
+      "title": "Bir bütünü eş parçalar oluşturacak şekilde birim kesir olarak çözümleyebilme",
+      "processComponents": [
+        "a) Bir bütünü oluşturan eş parçaları belirler.",
+        "b) Bütün ile eş parçaların her biri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "MAT.3.1.11",
+      "title": "Bir kesrin payı ile paydası arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Bir kesrin pay ve paydasına ait parçaları belirler.",
+        "b) Bir kesrin pay ve paydasına ait parçalar arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "MAT.3.1.12",
+      "title": "Analog ve dijital saatlerde zamanı okuyabilme ve yazabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MAT.3.1.13",
+      "title": "Zaman ölçü birimlerini çözümleyebilme",
+      "processComponents": [
+        "a) Zaman ölçü birimlerini (yıl, ay, hafta, gün, saat, dakika, saniye) belirler.",
+        "b) Zaman ölçü birimleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.3.1.14",
+      "title": "Olayların oluş sürelerini tahmin ederek yargıda bulunabilme",
+      "processComponents": [
+        "a) Olayların oluş sürelerini birbirleriyle ilişkilendirir.",
+        "b) Olayların oluş sürelerine ilişkin deneyimlerinden faydalanarak çıkarım yapar.",
+        "c) Olayların oluş sürelerine ilişkin yapılan çıkarımla gerçekte olan sürelerine ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAT.3.1.15",
+      "title": "Uzunluk ve kütle birimleri arasındaki ilişkileri kullanarak bu birimleri kendi içerisinde çözümleyebilme",
+      "processComponents": [
+        "a) Standart kütle ve uzunluk birimlerine ilişkin parçaları belirler.",
+        "b) Santimetre, metre, kilometre ve gram, kilogram ve ton arasındaki ilişkileri kendi içerisinde belirler."
+      ]
+    },
+    {
+      "code": "MAT.3.1.16",
+      "title": "Madenî ve kâğıt paraları değerlerine göre ilişkilendirerek yorumlayabilme",
+      "processComponents": [
+        "a) Paraları değerlerine göre inceler.",
+        "b) Madenî paraları ve kâğıt paraları değerlerine göre dönüştürür.",
+        "c) Paranın değerini, anlamını değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler, Ölçme birimlerin tekrarlanmasıdır., Saat zaman ölçme aracıdır., Para, mal ve hizmet alımında kullanılan bir araçtır., Anahtar kavramlar, kesir gösterimi, birim kesir, saniye, ton, kilometre, Sembol ve Gösterimler, t, km, sn.",
+  "support": [
+    "Bütün, yarım ve çeyrek kesir gösterimleri, birim kesir ve pay-payda ile ilgili görseller verilerek kesir temsillerini belirleyip boyamaları istenir. İçeriği kolaylaştırmak için öğrencilere görsel ipuçları ile desteklenmiş etkinlikler sunularak süreç desteklenir.",
+    "Öğrencilerin basit düzeyde bütün, yarım, çeyrek kesir gösterimleri yapmaları istenir. Ardından birim kesir, pay ve payda arasındaki ilişkiyi veren şekil modelleri oluşturabilme çalışmaları yapılır.",
+    "Öğrencilerin tam ve yarım saatleri içeren günlük planlama etkinliklerini kronolojik sıralamaya dikkat ederek yapmaları sağlanır. Bu sırada temel referans noktaları önceden hazırlanmış bir analog saat modeli hazırlanıp ara birimleri öğrencilerin doldurarak analog saati yeniden oluşturması istenir.",
+    "Nesnelerin uzunlukları ve kütleleriyle ilgili ölçüm yaparak hedefe ulaşacakları oyunlar oynatılır.",
+    "Akran desteği, oyunlaştırma, farklı öğretim yöntemleri, birden çok duyuya hitap eden içerikler kullanılarak öğrencilerden farklı madenî ve kâğıt paraları dönüştürmeleri istenir."
+  ],
+  "enrichment": [
+    "Öğrenciler gruplara ayrılır ve gruplardan belirli bir payda üzerinde farklı paylara sahip kesirler oluşturmaları sağlanır. Bir kesrin payı ile paydası arasındaki ilişkisini ele alan özgün modeller oluşturmaları istenir.",
+    "Bütün, yarım, çeyrek kesir gösterimleri yapılarak birim kesir, pay ve payda arasındaki ilişkiye yönelik dijital etkileşimli öğrenme araçlarından yararlanılan etkinlikler yapılır.",
+    "Günlük yaşamda dakika-saat olarak ifade edebileceği planlamalar yapmaları ve problem kurmaları istenir. Öğrencilerin dijital ortamda bilgiye erişim yollarını ve dijital bilgiyi karşılaştırma becerilerini geliştirmek için farklı ülkelerdeki saat dilimleri arasındaki saat farklarını dijital araçlar kullanarak araştırmaları istenir.",
+    "Öğrencilerden farklı ülkelere ait para kullanarak bu ülkelerin millî değeri olan parayı tanıma alıştırmaları yapmaları istenir. Belirli bir miktar paranın başka ülke paralarına nasıl dönüştürüldüğüne dair bir anlayış oluşturmaları sağlanır."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; zihin haritaları, açık uçlu sorular, kontrol listesi, çalışma kâğıdı, tanılayıcı dallanmış ağaç, performans görevi, eşleştirme soruları, doğru-yanlış soruları, analitik ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Zaman, uzunluk, kütle ve para birimlerini kendi içlerinde çevirmeye yönelik performans görevi verilebilir. Bu ödev analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin tahmin becerilerini ortaya çıkarmak için bütüncül dereceli puanlama anahtarından yararlanılabilir"
+  ],
+  "teachingApplications": [
+    "MAT.3.1.9 Öğrencilerin konuya dikkatini çekmek ve derse etkin katılımını sağlamak için öğrencilere bütün, yarım ve çeyrek modelleri üzerinde günlük yaşamla ilgili bir senaryo verilir. Bağlam içerisinde öğrencilerin bu senaryo ile ilgili duygu ve düşünceleri alınır. Bu süreç öğrencilerin etkin katılım göstereceği sınıf içi tartışmalarla zenginleştirilir ( SDB2.1 ) .",
+    "Öğrencilerin yaşantılarına göre bütün, yarım ve çeyrek ile ilgili modeller kullanılarak konu somutlaştırılır. Burada kesirleri parça-bütün olarak isimlendirebilmeleri için fırsat sunulur. Oluşturulan modellerin kesir temsilleri, kesir çizgisi de kullanılarak ifade edilir. Etkinlikler sonrasında öğrencilere bütün, yarım ve çeyrek modelleri üzerinde kesir gösteriminin olduğu çalışma kâğıdı verilebilir. Eşleştirme etkinlikleri ile öğrencilerden kesir temsilleri ile bütün, yarım, çeyrek modellerini eşleştirmeleri beklenir. Öğrencilerden modellere uygun kesir temsillerini belirlemeleri istenir. Süreç kontrol listesi ile değerlendirilebilir.",
+    "MAT.3.1.10 Öğrencilerin merakını artırmak için bir bütünü eş parçaya ayırmaya yönelik günlük yaşamdan örnekler verilir. Oluşturulacak parçaların kesir temsilleri verilir ( E1.1 ) . Uygun yönergelerle öğrencilerin bütün modelleri oluşturmaları ve bu bütünleri eş parçalara bölmeleri istenir. Bu modeller üzerinde farklı büyüklüklerde birim kesirler oluşturmaları sağlanır. Öğrencilere farklı kesir temsilleri gösterilerek bir bütünün eş parçalarının her birinin birim kesri ifade ettiği vurgulanır. Birim kesirlerin sayı doğrusundaki gösterimlerine yer verilir. Bir bütünü oluşturan eş parçalarını belirlemeye ve eş parçaların birim kesir ile arasındaki ilişkiyi ortaya koymaya yönelik çalışma kâğıdı kullanılabilir. Bu süreçler kontrol listesi ile değerlendirilebilir.",
+    "MAT.3.1.11 Öğrencilerin pay ve payda arasındaki ilişkiyi belirlemeleri için sayı doğrusu gibi modellerden yararlanılır. Öncelikle kesirlerin modeller üzerinde gösterimiyle başlanır. Devamında sayı doğrusunda gösterimi verilir. Daha sonra öğrencilerden sayı doğrusunda 0 ile 1 aralığını bir bütün olarak kabul etmeleri ve bütünü oluşturan eş parçaları belirlemeleri istenir. Bu şekilde öğrencilerin bir bütünde tekrarlanan eş parçaların kesir temsilindeki pay kısmını oluşturduğunu fark etmeleri sağlanarak pay ve paydaya ait parçalar arasındaki ilişkiyi belirlemeleri sağlanır. Pay ve payda kavramını anlamlandırmaları beklenir. Öğrencilerin pay ve paydaya ait kesir gösterimini anlamlandırma durumları, bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Pay ve paydaya ait kesir gösterimi verildikten sonra paydası 10 ve 100 olan kesirlerin birim kesir şeklindeki temsillerini belirtirken günlük yaşam örneklerinden yararlanılır. Öğrencilerden onluk ve yüzlük sayı tabloları hazırlamaları ve model üzerinde birim kesirleri göstermeleri istenir. Öğrenme süreci kontrol listesi ile değerlendirilebilir. Paydası 10 ve 100 olan kesirlere dikkat çekmek için öğrencilerin günlük yaşamda karşılaştığı durumlar sınıf içinde örneklerle desteklenir. Paydası 10 ve 100 olan birim kesir temsillerini yazmaları ve okumaları sağlanır. Bu şekilde etkinlikler yoluyla öğrencilerin bireysel ya da iş birliği içinde etkin olarak çalışmalarına olanak sağlanır ( D3.4 , SDB2.2 ) . Pay ve payda arasındaki ilişkiye ve paydası 10 ve 100 olan birim kesir temsillerine yönelik çalışma kâğıdı kullanılabilir. Tanılayıcı dallanmış ağaç ile pay ve payda arasındaki ilişkiyi çözümleyebilme durumları değerlendirilebilir. Öğrencilerin olanaklar çerçevesinde teknolojik ve çevrim içi araçlardan yararlanarak bütün, yarım, çeyrek kesir gösterimleri; birim kesir, pay ve payda arasındaki ilişkiyi veren modelleri göstermelerine yönelik çalışmalar yapılır. Böylece öğrencilerin dijital araçlardan yararlanmaları sağlanır ( OB2 ) . Öğrencilerin dijital ortamda farklı tasarımları kendilerinin oluşturmaları konusunda etkinlikler yapılır ( E3.3 ) . Öğrencilerden kesirlerin farklı temsillerinin birim kesirlerden elde edildiğini kavraması ve değişen durumlara uyum sağlaması beklenir ( SDB3.2 ) . Pay ile payda arasındaki ilişkinin çözümlenmesini içeren örnek modellerden oluşan etkinliklere yönelik performans görevi verilebilir ( SDB1.2 , SDB3.3 ) . Performans görevinin değerlendirilmesi amacıyla bütüncül dereceli puanlama nahtarı kullanılabilir.",
+    "MAT.3.1.12 Öğrencilerden analog saat maketi/resmi yapmaları istenir. Öğrencilerin bir daire etrafına eşit aralıklı 60 tane çizgi çizmeleri istenir (60 sayısı vurgulanır; ancak aralıkları tamamen eşit yapmaları beklenmez.). Analog saatin saniye çubuğunu takip ederek 60'a kadar saymaları istenir. Öğrencilerin bu becerileri öğretmen gözlem formu ile değerlendirilebilir. Böylelikle 60 saniyelik sürede yelkovanın hareketi üzerinden öğrencilere bir dakikalık süre deneyimi yaşatılır. Bir dakikalık süreyi kavradıktan sonra maket analog saat üzerindeki akrep ve yelkovanın konumları değiştirilerek örnekler gösterilip öğrencilerden okumaları istenir. Daha sonra okudukları saatleri nasıl yazacaklarını anlamaları sağlanır. Bu gösterimin, dijital saat gösterimi olduğu açıklanarak analog ve dijital saat arasında bağlantı kurulur. Öğrencilerden okudukları dijital saatleri maket analog saatlerde göstermeleri istenir. Öğrencilere analog ve dijital saatlerde zamanı okuyabilme ve yazabilmelerine ilişkin açık uçlu sorular yöneltilebilir. Açık uçlu soruların değerlendirilmesinde kontrol listesi kullanılabilir.",
+    "MAT.3.1.13 Bir dakikalık sürenin ne kadarlık bir aralığa denk geldiğini deneyimleyen öğrencilere, örneklendirerek (100 metre koşusu gibi) daha kısa süreleri ölçmek için neler yapılabileceği sorulur. Bunun için bir alt birime ihtiyaç olduğuna ilişkin farkındalığın arttırılmasına yönelik örnekler verilir. Bu alt birim hakkında konuşularak saniye cevabına ulaşmaları sağlanır. Öğrencilere bu birimler arasında değişim örnekleri gösterilerek hazırlanan çalışma kâğıtları ya da öğrencilerin dijital araçlarla iş görme becerilerini geliştirmek için interaktif dijital içerikler birlikte yapılır ( OB2 ) . Romen rakamlarını tarihsel süreç içerisinde kullanan medeniyetlerin incelendiği ve bazı analog saatlerin üzerinde Romen rakamları olmasından dolayı Romen rakamlarının temel tanımı ve kullanımı ile ilgili araştırma yapmaları istenir. Bunun yanında diğer derslerde de Romen rakamlarının kullanılma durumlarına değinilir. 1'den 24'e kadar Romen rakamlarını yazmaları ve Romen rakamlarından oluşan bir analog saat tasarlamaları istenir. 24 saatlik döngü anlatılarak bunun 1 gün olduğu belirtilir. Analog saatlerde sayıların 12'ye kadar olduğu hatırlatılarak öğleden önce ve öğleden sonra kavramları açıklanır. Okuldaki bir haftalık döngüleri hakkında konuşmaları sağlanarak haftanın günleri saydırılır. 1 haftanın 7 günden oluştuğu bilgisi tekrar ettirilir. Ortalama 4 haftalık veya 30 günlük süreye 1 ay denildiği belirtilerek ayrıntılar açıklanır. Takvim üzerinde tam zamanları bulma etkinlikleri yapılır. 52 hafta ve 365 günlük sürenin 1 yıl, 1 yılın ise 12 ay olduğu öğrencilere etkinlikler yardımıyla verilerek ( SDB1.2 ) zaman birimleri arasındaki ilişkileri çözümleyebilmeleri sağlanır. Eşleştirme soruları kullanılarak değerlendirme yapılabilir. Yıl, ay, hafta, gün, saat gibi ölçü birimlerinin saniye-dakika, dakika-saat ilişkisinden başlayarak parçadan bütüne olacak şekilde saat-gün, gün-hafta, hafta-ay ve ay-yıl arasında geçişleri belirlemeleri sağlanır ( SDB3.1 ) . Takvim üzerinden gün, ay, yıl olarak belirtilen zaman ifadelerine ilişkin açık uçlu sorular yöneltilebilir. Açık uçlu soruların değerlendirilmesinde kontrol listesi kullanılabilir.",
+    "MAT.3.1.14 Saat, dakika ve saniye olarak belirtilen süreleri öğrenen ve anlamlı olarak deneyimleyen öğrencilere, kısa ve uzun sürebilecek durumlar verilerek hangisinin kısa/uzun süreceği sorulur. Bu sorulara verilen cevaplardan hareketle öncelikle öğrencinin kendi deneyimlemiş olabilecekleri örneklerden yola çıkılır. Bu örneklerdeki olayların süreleriyle ilgili tahminde bulunmaları istenir. Bu tahminler kayıt altına alındıktan sonra belirtilen eylem süre tutularak yaptırılıp sonucu tahmin ile karşılaştırılır ( OB7 ) . Çıkan sonuçla ilgili konuşulup çıkarım yapılması sağlandıktan sonra öğrencilerin yargıda bulunmaları sağlanır ( SDB3.3 ) . Böylece öğrencilerin hem gerçek sonuca daha yakın tahminler yapması hem de eylemi yaparken ortaya çıkabilecek aksaklıklar hakkında öngörü kazanması sağlanır ( SDB3.3 ) . Öğrencinin yaptığı tahminin doğru sonuca ne kadar yakın olduğunu belirlemek amacıyla tablo üzerine tahminî ve ölçüm sonuçları yazılarak görselleştirilir. Böylece öğrencinin doğru sonuca ne kadar yaklaştığı bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.3.1.15 Öğrencilerden bir odadaki nesnelerin uzunluklarını tahmin etmeleri istenir ve ardından bir ölçme aracıyla kontrol etmeleri sağlanır. Cetvelle ölçüm görevleri verilerek öğrencilerin uzunlukları doğru bir şekilde ölçmeleri sağlanır.",
+    "Bir nesnenin uzunluk ölçümünün, boşluk veya üst üste binme olmadan onu kapsayan aynı boyuttaki uzunluk birimlerinin sayısı olduğunu anlamaları ve bunu fark etmeleri için etkinlikler yapılır. Cetveller sayı doğrusu ile ilişkilendirilir. Sayı doğrusu üzerinde bulunan birimlerin cetvel üzerinde bulunan birimlerle benzerlikleri tartışılır.",
+    "Uzunluğun, birim uzunluk ile ölçülen uzunluk arasında bir oran karşılaştırması olduğunu görmesi sağlanır. Yarım ve çeyrek gibi birim bölümleriyle çalışması amaçlanır.",
+    "Metre ile santimetre arasındaki ilişkiyi açıklamak için çeşitli nesneler gösterilerek bu nesnelerin hangi uzunluktaki cetvellerle (örneğin 10 cm, 30cm, 50cm, 1m gibi) daha rahat ölçülebileceği sorulur. Birimler arasındaki farka dikkat çekildikten sonra uygun örneklere uygun birimler seçilir. Sonrasında bu birimler arasındaki ilişkiler ile bu birimleri birim kesirlerle ilişkilendirerek birbiri cinsinden yazmaları sağlanır.",
+    "Dönüşümler önce somut uygulamalarla yapılır. Daha sonra daha büyük birimlerin olduğu ve çevrelerinde bu tür durumlarla karşılaşıp karşılaşmadıkları sorularak öğrencilerin kilometreyi bulmalarına yönelik sorular sorulur. Çeşitli örneklerle öğrencilerin kilometreyi tanımaları sağlanır ve kilometrenin kullanım alanları belirtilir. Kilometre ile metre arasındaki ilişkiyi fark etmelerine yönelik örnekler sunulur. Kilometre ile diğer birimler arası dönüşüm işlemlerine yer verilmez.",
+    "Kilogram ve gram arasındaki ilişkiyi açıklamak için çeşitli nesneler gösterilerek kütleleri hakkında yorum yapmaları sağlanır. Kilogramla gram arasındaki farka dikkat çekilir ve yine birim kesirlere dikkat çekilerek birimleri birbirine çevirmeleri sağlanır. Dönüşümler önce 10 tane 100 gramlık birimle 1 kilogramlık birimi terazide dengede kaldıklarını göstererek somutlaştırılır.",
+    "Öğrencilerin ton kavramını tanımaları, örneklerle zenginleştirilerek sağlanır ve öğrencilerin dijital ortamda bilgiye erişim yollarını bilme ve dijital bilgiyi karşılaştırma becerilerini geliştirmek için kullanıldığı alanların dijital ortamdan araştırılması istenir ( OB2 ) . Ton, kilogram ve gram ilişkisini fark etmelerine yönelik örnekler sunulur. Ton ile diğer birimler arası dönüşüm işlemlerine yer verilmez.",
+    "Yapılan dönüşümlere yönelik performans görevi verilerek ardından analitik dereceli puanlama anahtarına göre kontrol edilebilir. Öğrenciye konu ile ilgili fikirlerini günlük yaşamda kullanılan birim dönüşümlerini ifade edebileceği açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir.",
+    "Öğrencinin ölçüm yaparken ve ölçüm sonuçlarını birbirine çevirirken ne kadar doğruya ulaştığına dair performans görevleri verilir. Uzunluk ve kütle ölçümlerinin dönüşümü sonrasında doğru yanlış sorularından oluşan çalışma kâğıdı verilebilir.",
+    "Birimlerin dönüşümü için oyun oynatılır. Örneğin sınıftaki nesneleri ölçüp bir kâğıda metre cinsinden yazıp \"Dönüştürme Kutusuna\" atmaları istenebilir. Herkes attıktan sonra tahtaya çağrılan öğrenci kutudan bakmadan bir kâğıt çeker ve okuduğu metre cinsinden olan nesneyi santimetre cinsinden söyler. Kilogram cinsinden olan nesneyi gram cinsinden söyler. Bu oyun tüm öğrenciler dönüştürme yapana kadar devam ettirilir ( E2.5 , SDB2.1 ) . Uzunluk ve kütle birimlerinin dönüşümleri ile ilgili kavramlar arasındaki ilişkileri şema ile göstermek için zihin haritalarından yararlanılabilir.",
+    "MAT.3.1.16 Öğrencilere farklı paralar verilerek bu paraları değerlerine göre gruplandırmaları gereken etkinlikler yapılır. Öğrencilere basit toplama ve çıkarma problemleri verilerek farklı para değerlerini bir araya getirme ve değerlerini dönüştürme becerilerini geliştirmeleri sağlanır. Günlük yaşam durumları kullanarak öğrencilere para dönüşümünü öğretecek örnek hikâyeler paylaşılır. Bu hikâyelerle merak uyandırılarak öğrencilerin soru sormaları teşvik edilir ( E3.8 ) . Beş tane 1 TL'lik madenî paranın kâğıt 5 TL olduğu ile ilgili çıkarımda bulunmaları sağlanır. Bu şekilde madenî para ve kâğıt paranın dönüştürülmesine değinilir. Bir miktar paranın farklı madenî paralara ya da kâğıt paralara dönüştürülmesine değinilerek çeşitli etkinlikler yapılır. Bu süreçte aşamalılık ilkesine göz önünde bulundurarak 200 TL'ye kadar olan para değerlerini kendi içerisinde daha sonra ise 200 TL üzerindeki para değerlerinin oluşturulması sağlanır. Öğrencilere paralarımızın ülkemizin önemli bir ekonomik değeri olduğu bilgisi verilerek sorularla bu konu hakkında düşünmeleri sağlanır ( D19.3 ) . Para değerlerinin dönüşümü ile ilgili öğrenme kanıtları doğru yanlış soruları ile belirlenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.3",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/254"
+}

@@ -1,0 +1,56 @@
+{
+  "unitId": 81367001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Uluslararası İlişkiler Dersi",
+  "title": "1. ÜNİTE: ULUSLARARASI İLİŞKİLERE GİRİŞ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ULI.1.1",
+      "title": "Uluslararası ilişkilerle ilgili temel kavramları tanır",
+      "processComponents": [
+        "Uluslararası ilişkilerle ilgili temel kavramlar (ulus, uluslararası, uluslararası ilişki, devlet, egemenlik) açıklanır."
+      ]
+    },
+    {
+      "code": "ULI.1.2",
+      "title": "Uluslararası ilişkiler disiplininin bilim insanları tarafından oluşturulduğunu ayırt eder",
+      "processComponents": [
+        "Uluslararası ilişkilerde uygulama alanı ile bilim alanı arasındaki ilişki açıklanır.",
+        "Uluslararası ilişkiler disiplininin ortaya çıkış nedenlerini değerlendiriniz."
+      ]
+    },
+    {
+      "code": "ULI.1.3",
+      "title": "Uluslararası ilişkiler disiplininin alt dallarını ve bunların inceleme alanlarını açıklar",
+      "processComponents": [
+        "Uluslararası ilişkilerin iktisat, sosyoloji, siyaset, hukuk gibi disiplinlerle olan ilişkisi açıklanır."
+      ]
+    },
+    {
+      "code": "ULI.1.4",
+      "title": "Uluslararası ilişkiler bilimini oluşturan disiplinler arasındaki ilişkiyi analiz eder",
+      "processComponents": []
+    },
+    {
+      "code": "ULI.1.5",
+      "title": "Uluslararası ilişkilerde üç temel yaklaşımın (idealizm, realizm, pluralizm) ortaya çıkış nedenlerini ve uluslararası ilişkilere bakışını açıklar",
+      "processComponents": [
+        "İdealist yaklaşımın uluslararası örgütlerin kurulmasındaki rolü açıklanır.",
+        "Realizme göre uluslararası ilişkilerin temel aktörünün devlet olduğu vurgulanır.",
+        "Pluralist yaklaşımın uluslararası ilişkileri çok aktörlü bir yapı olarak kabul ettiği, uluslararası alanda artan bağımlılığın aktörleri iş birliğine yönelttiği üzerinde durulur.",
+        "Uluslararası ilişkilerin felsefi (kuramsal) temelleri nelerdir? Bu kuramların uluslararası ilişkilere nasıl yansıdığını açıklayınız."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163240412-Uluslararas%C4%B1%20ili%C5%9Fkiler.pdf"
+}

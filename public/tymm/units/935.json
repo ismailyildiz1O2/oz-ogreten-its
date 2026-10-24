@@ -1,0 +1,58 @@
+{
+  "unitId": 935,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları - Çalgı Toplulukları Dersi",
+  "title": "1. TEMA: 5/8, 7/8, 9/8'LIK USULLERLE TOPLU İCRA",
+  "hours": "16",
+  "description": "Temada 5/8, 7/8, 9/8'lik usullerden yola çıkarak belirlenen 5/8, 7/8, 9/8'lik usuldeki şarkıların toplu icra edilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "ÇT.6.1.1",
+      "title": "5/8, 7/8, 9/8'lik usullerdeki eserleri toplu olarak birlikte çalabilme",
+      "processComponents": [
+        "a) 5/8, 7/8, 9/8'lik usullerdeki eserleri çözümler.",
+        "b) 5/8, 7/8, 9/8'lik usullerdeki eserleri toplu çalmada çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) 5/8, 7/8, 9/8'lik usullerdeki eserleri toplu icra ederken çalgılara özgü teknikleri kullanır.",
+        "ç) 5/8, 7/8, 9/8'lik usullerdeki eserleri toplu icra ederken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "5/8, 7/8, 9/8, usul",
+  "support": [
+    "Bu süreçte çalınan eserlerin daha yavaş tempoda çalınması için yönlendirilebilir. Seviyeye göre farklı tempo ve 5/8, 7/8, 9/8'lik usullerde şarkı notaları oluşturulabilir. Öğrencilere büyük usulün temel ritmik kalıplarını (2+2+2 veya 3+3) çalışarak zaman ölçüsünü daha iyi kavrayabilmeleri adına rehberlik yapılabilir."
+  ],
+  "enrichment": [
+    "Bu süreçte orta ve zor seviyede 5/8, 7/8, 9/8'lik usullerde ve tempolarda şarkılar dağıtılarak çalışma yapılabilir. Öğrencilerle her zaman ölçüsünün belirli vurgularına ve zayıf vuruşlarına dikkat ederek çalışmalar yapılabilir. Toplu çalışmalarda doğru vurgulara odaklanmak, gruptaki herkesin uyum içinde çalmasını sağlayabilir. Öğrencilere ritim ve vurgular üzerine egzersizler verilerek bu vurguları çalışmaları istenebilir."
+  ],
+  "assessment": [
+    "Temada öğrenme çıktıları birlikte çalma performans gözlem formu, öz değerlendirme formu ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilere çalgı toplulukları oluşturarak bileşik usullerdeki şarkıları topluluk önünde sergilenmesi istenen bir performans görevi verilebilir. Verilen performans görevi birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇT.6.1.1 5/8, 7/8, 9/8'lik usuller listelenir. Örnek dinlemeler yapılır. \"Hangi usulde?\" adlı küçük bir dinleme oyunu kurgulanır. Dinlenen eserin hangi usulde olduğu tahmin edilmeye çalışılır ( KB2.11 ). Öğrencilere seviyelerine uygun büyük usuldeki 5/8'lik türkü dağıtılır. Öğretmen notası yansıtılan türkü hakkında bilgilendirmelerde bulunur ve eserin çözümlenmesi istenir ( OB9 ). Öğretmen, öğrencilerin ritmik yönden gözlem yapmasını ister ( KB2.2 ). Ardından öğrencilerden bireysel olarak deşifre etmeleri istenir ( E2.2 ). Deşifre sürecinde öğrencilerin doğru tutuş ve uygun pozisyon almaları sağlanır ( D7.2 ). Öğretmen, şarkının temel ritmik ve ezgi yapısını açıklayarak deşifreye başlar. Şarkının ritmi, notaları ve ezgisel yapısı analiz edilir. Öğrencilerin çalgılarına özgü doğru teknikle bireysel deşifre sürecini gerçekleştirmeleri istenir. Öğrencilerin görevini yerine getirirken özverili davranmaları beklenir ( D16.3 ). Çalışmaya şarkının yavaş tempoda adım adım çalınmasıyla başlanır ( D12.2 ). Yavaş tempoda çalarken öğretmen; öğrencilerin ritme, doğru nota değerlerine ve tutuş tekniklerine odaklanmalarını sağlar ( E3.2 , SDB1.2 ). Tempoyu artırmak için öğrencilerle birlikte pratik yapılarak doğru hızda çalabilmeleri sağlanır. Türkünün doğru temposuna ulaşana kadar çalışmaya devam edilir. Doğru tempoya gelindikten sonra öğrenciler çalarken müziksel bileşenleri uygular. Gruplar hâlinde performans sergilenir ( SDB2.2 , D3.4 ). Öğretmen birlikte çalma performans gözlem formuna göre değerlendirmelerde bulunur. 5/8, 7/8 ve 9/8 usulde belirlenen farklı türkülerle benzer çalışmalar yapılır. Öğrencilere çalgı toplulukları oluşturarak büyük usullerdeki şarkıları topluluk önünde sergilenmesi istenen bir performans görevi verilebilir. Verilen performans görevi birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D16.3",
+      "D3.4",
+      "D7.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/935"
+}

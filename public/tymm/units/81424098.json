@@ -1,0 +1,40 @@
+{
+  "unitId": 81424098,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "98. ÜNİTE: FOTOĞRAF - FOTOĞRAF UYGULAMALARI",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.1.4.1",
+      "title": "Doğal ve yapay ışıkta serbest konulu fotoğraf çeker",
+      "processComponents": [
+        "Doğal ve yapay ışıkta serbest konulu fotoğraf çekerken yaratıcı fikir ve yaratıcı donanımlardan yararlanılması gerektiği belirtilir."
+      ]
+    },
+    {
+      "code": "GSA.1.4.2",
+      "title": "Kurgusal fotoğraf çeker",
+      "processComponents": [
+        "Kurgusal fotoğrafın aşamaları açıklanır."
+      ]
+    },
+    {
+      "code": "GSA.1.4.3",
+      "title": "Serbest konulu fotoğraf sergisi açar",
+      "processComponents": [
+        "Fotoğraf sergisi açmak için yapılması gerekenler ve dikkat edilecek durumlar ele alınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

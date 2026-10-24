@@ -1,0 +1,118 @@
+{
+  "unitId": 81663039,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "39. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVASCRIPT) - 2. ÜNİTE: JAVASCRIPT PROGRAMLAMA DİLİ FONKSİYONLARI VE NESNE TABANLI PROGRAMLAMA",
+  "hours": "18",
+  "description": "Bu ünitede; Javascript programlama dilinde fonksiyonlarının genel tanımı, fonksiyonların düzenlenmesi ve yönetilmesi, fonksiyonlarda kullanılan parametreler, fonksiyonların değişkenlere atanabilmesi üzerinde durulur. Javascript programlama dilinde diziler ve döngüler anlatılarak dizi elemanlarını sıralama ve filtreleme olaylarından bahsedilir. Nesne ve sınıf kavramları anlatılarak constructor'lara özellikler ekleme, nesneler arası etkileşim kurma işlemleri uygulamalı olarak yapılır.",
+  "outcomes": [
+    {
+      "code": "BTY.39.1",
+      "title": "Javascript programlama dili ile fonksiyon tanımlar",
+      "processComponents": [
+        "Javascript programlama dili ile fonksiyonların nasıl tanımlandığı ve kullanıldığı açıklanır.",
+        "Fonksiyonlar kullanılarak tekrarlayan işlemlerin kolaylaştırıldığı vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.39.2",
+      "title": "Fonksiyonları çağırarak kodun düzenlenmesini kavrar",
+      "processComponents": [
+        "Fonksiyonların çağırılarak program içerisindeki kullanım şekli açıklanır.",
+        "Fonksiyonların kodun daha düzenli ve okunabilir olması konusunda sağladığı katkı vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.39.3",
+      "title": "Fonksiyonları çağırarak kodun yönetilmesini kavrar",
+      "processComponents": [
+        "Fonksiyonların return değerini yakalaması ve bu değerin kullanılması açıklanır.",
+        "Fonksiyonların farklı dosyalar içerisinde tutularak kod karmaşıklığının azaltılabileceği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.39.4",
+      "title": "Fonksiyonlara parametre eklemeyi kavrar",
+      "processComponents": [
+        "Fonksiyonlara parametre ekleme yöntemi ve bu parametrelerin kullanılma şekilleri açıklanır.",
+        "Paremetrelerin fonksiyonların kullanımında esnekliği artırdığı vurgulanır.",
+        "Fonksiyonların farklı tipteki parametreleri (sayı, dizi, nesne, vb.) işleyebilmesi açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.5",
+      "title": "Fonksiyonların değişkenlere atanarak kullanılabileceğini anlar",
+      "processComponents": [
+        "Fonksiyonların birer değeri olduğunu ve bunun değişkenlere atanarak başka yerden çağrılabileceği açıklanır.",
+        "Fonksiyonların anonim (isimsiz) olarak kullanılabileceği vurgulanır.",
+        "Fonksiyonların return değerinin değişkenlere atanabilme durumu açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.6",
+      "title": "Javascript programlama dili ile dizileri tanımlar",
+      "processComponents": [
+        "Javascript programlama dilinde dizilerin nasıl tanımlandığı ve elemanlarına nasıl erişileceği açıklanır.",
+        "Yeni dizi oluşturma, dizilere eleman ekleme ve çıkarma işlemlerinin nasıl yapılacağı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.7",
+      "title": "Javascript programlama dilinde döngülerin kullanımını kavrar",
+      "processComponents": [
+        "Javascript programlama dilindeki döngü yapıları (for, while, do-while) açıklanır.",
+        "Döngülerin kullanıldığı senaryo örnekleri verilir."
+      ]
+    },
+    {
+      "code": "BTY.39.8",
+      "title": "Diziler içerisinde gezinmeyi kavrar",
+      "processComponents": [
+        "Diziler içerisinde döngüler kullanılarak nasıl gezileceği açıklanır.",
+        "Dizilerin uzunluğunun kontrol edilme durumu açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.9",
+      "title": "Diziler içerisinde işlem yapmayı kavrar",
+      "processComponents": [
+        "Diziler içerisinde döngüler kullanılarak dizi elemanları üzerinde nasıl değişiklik yapılacağı açıklanır.",
+        "Dizi elemanlarını sıralama ve filtreleme işlemleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.10",
+      "title": "Javascript programlama dilindeki nesne ve sınıf kavramlarını tanımlar",
+      "processComponents": [
+        "Javascript programlama dilindeki nesnelerin ve sınıfların tanımlanması açıklanır.",
+        "Nesnelerin özellikleri ve metotlarının kullanılma şekli açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.11",
+      "title": "Constructor fonksiyonuyla nesne oluşturmayı kavrar",
+      "processComponents": [
+        "Constructor fonksiyonlarının tanımlanarak nesne oluşturulması açıklanır.",
+        "Constructor fonksiyonları ile nesnelere özellik ekleme durumu açıklanır.",
+        "Constructor fonksiyonları ile nesneleri özelleştirme durumu açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.39.12",
+      "title": "Nesnelere özellik ve metotlar ekleyerek diğer nesnelerle etkileşim kurmayı kavrar",
+      "processComponents": [
+        "Nesneler arası iletişim ve etkileşim sağlama yöntemleri açıklanır.",
+        "Nesneler arasında veri paylaşma ve metot çağırma işlemleri yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

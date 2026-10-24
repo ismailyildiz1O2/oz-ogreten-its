@@ -1,0 +1,79 @@
+{
+  "unitId": 447,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "1.TEMA: SAYILAR VE NİCELİKLER (1)",
+  "hours": "28",
+  "description": "Bu temada öğrencilerin onluk sayı sistemine ilişkin ön bilgilerini çok basamaklı sayılara genelleyerek kullanabilmeleri, doğal sayılarla ilgili gerçek yaşam problemlerini çözebilmeleri ve dört işlem becerilerini çok basamaklı işlemlere yansıtabilmeleri amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "MAT.5.1.1",
+      "title": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme",
+      "processComponents": [
+        "a) Günlük hayattaki farklı bağlamlardan yola çıkarak altıdan çok basamaklı sayılar hakkında bilgi toplar.",
+        "b) Sayıların bölükleri ile okunuşları arasındaki ortak özellikleri belirler.",
+        "c) Sayıların bölükleri ile okunuşları arasındaki örüntüler üzerinden basamak sayısı altıdan çok olan sayıların okunuş ve yazılışları hakkında önermelerde bulunur."
+      ]
+    },
+    {
+      "code": "MAT.5.1.2",
+      "title": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+      "processComponents": [
+        "a) Problemin içerdiği sayı ve işlem bileşenlerini belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç)  Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ)  Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Sayıların yazılışı ve okunuşu, basamak değeri ve bölük kavramına dayalı bir örüntü içerir. Anahtar Kavramlar basamak değeri, bölme, bölük, çarpma, çıkarma, doğal sayılar, toplama Sembol ve Gösterimler, _",
+  "support": [
+    "Öğrenme-öğretme süreci etkileşimli çevrim içi uygulamalar, oyunlar ve somut materyaller ile desteklenebilir. Verilen etkinliklerin sayısı, öğrencilerin ihtiyaçları doğrultusunda belirlenebilir. Öğrencilerin doğal sayılarla akıcı işlem yapma becerilerini desteklemek için belirli aralıklarla kısa süreli uygulamalar yapmaları sağlanabilir. Problemler öğrencilerin ilgi alanları doğrultusunda kolaydan zora doğru bir sıra izlenerek seçilebilir. Problemlerin çözümlerinde iş birlikli öğrenme ortamı oluşturularak öğrencilerin öz güvenlerini desteklemek için grup tartışmalarına katılımları teşvik edilebilir."
+  ],
+  "enrichment": [
+    "Matematikte onluk sayı sistemine 0'ı ekleyerek doğal sayı sistemini tamamlayan kişinin Hârizmî olduğu; antik medeniyetlerde (Babil ve Mısır gibi) sayıların nasıl yazıldığı (0'ın basamak tutucu özelliğinin önemi gibi) ya da bu medeniyetlere ait sayı sistemlerinin karşılaştırılması araştırma konuları olarak verilebilir. Antik medeniyetlerin kullandıkları sayı sistemleri üzerine araştırma yaparak, farklı sayı sistemlerini incelemeleri ve bu sistemleri onluk sistem ile karşılaştırarak avantaj ve dezavantajlarını açıklamaları istenebilir. Sayı sistemlerinin ve işlemlerin tarihi gelişimini anlatan özgün bir materyal (afiş, tarih şeridi, dijital materyal gibi) tasarlamaları sağlanabilir. Problem çözme çalışmalarında birden fazla çözüm yolunun olduğu durumlarda farklı çözüm yollarını keşfetmeleri veya eksik veri ya da hatalı işlem içeren problemleri incelemeleri istenebilir. Ayrıca problem kurma çalışmalarında öğrencilerin istedikleri metin türünü kullanarak (hikâye, bir masal kahramanının farklı bir macerası, problemin amacına uygun mektup yazma gibi) farklı anlamsal yapıda (çıkarma için ayırmanın yanı sıra karşılaştırma gibi) problem senaryoları oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorulardan oluşan çalışma kağıdı, izleme testi ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilere gerçek yaşam durumlarında karşılaştıkları problemler verilerek çözüme yönelik farklı stratejiler geliştirmeleri ve geliştirdikleri problem çözümlerini dijital bir sunum aracı yardımıyla arkadaşlarına sunmaları istenebilir. Bu görev, süreç bileşenlerini dikkate alarak performans kriterlerini barındıran bütüncül veya analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme-öğretme uygulamalarında yapılan grup çalışmalarında, öğrenciler tarafından öz değerlendirme ve akran değerlendirme formları ile kendi ve arkadaşlarının süreçleri; öğretmen tarafından da grup değerlendirme formu kullanılarak gruplar değerlendirilebilir.",
+    "Performans ürünleri, çalışma kağıtları ve izleme testleri sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.5.1.1 Çok basamaklı sayıları okuma ve yazmaya geçmeden önce farklı derslerin çalışma konuları matematik ile ilişkilendirilerek sosyal bilgiler, fen bilimleri gibi derslerin içeriğinde yer alan bazı konulardan (örneğin sırasıyla nüfus ve bütçe, Dünya'nın Güneş'e uzaklığı, güç, enerji) ve ölçme bağlamlarından (örneğin uzunluk) ilgi çekici örnekler verilebilir ( E1.1 ) ya da hesap makinesi kullanılarak çok basamaklı sayıların elde edildiği çalışmalar yapılabilir ( MAB5 ) . Örneğin Türkiye İstatistik Kurumunun nüfus gibi veri setlerinin araştırılması istenerek öğrencilerin dijital bilgiye ulaşmaları sağlanabilir ( OB2 ) . Öğrencilerin yaptığı araştırmalar incelenirken, doğru ve güvenilir bilimsel bilgiye ulaşmanın önemi vurgulanarak, öğrencilerin çeşitli fikir ve argümanlara açık olmaları teşvik edilerek çalışkanlık değerini kazanmaları desteklenir ( D3.3) . Aynı zamanda öğrencilerin günlük hayatlarında karşılaştıkları en fazla on iki basamaklı sayılara ilişkin örnekler vermeleri, tahminde bulunmaları, grup çalışmaları eşliğinde bu tahminlerine ilişkin veri toplamalarını gerektirecek çeşitli araştırmalar yapmaları sağlanır. Bu süreçte öğrencilerden elde edilen örneklerdeki sayıları incelemeleri ve bölükleri ile okunuşları arasında ortak özellikleri tartışmaları beklenir. Bu tartışmalardan hareketle çok basamaklı sayıları okuma ve yazmaya yönelik genellemelere ulaşmaları sağlanır ( E3.6 ) . Öğrencilerden basamak sayısı altıdan çok olan sayıları okuma ve yazmaya ilişkin sayıların üç basamağındaki sözlü ve yazılı örüntünün sola doğru her üç basamakta bölük isminin kullanılarak devam ettiğine yönelik bir önermeye ulaşmaları beklenir. Bu süreçte öğrencilerin sayıların basamak değerlerini belirleyerek çözümleme yapmaları sağlanır. Ayrıca öğrencilerin okuyup yazdıkları sayıların büyüklüklerini karşılaştırmaları istenir. Öğrencilerin çok basamaklı sayıları okuma ve yazma yeterliğini değerlendirebilmek için izleme testi kullanılabilir.",
+    "MAT.5.1.2 Doğal sayılarla dört işlem öğretimi problemler üzerinden gerçekleştirilir ve bu problemlerin seçiminde gerçek yaşam durumlarından yararlanılır. Örneğin sürdürülebilirliği anlama amacıyla \"Küresel ısınma nedeniyle kutup foklarının yaşam alanları azalmaktadır. Son 10 yılda yaklaşık 45 485 futbol sahası kadar ve sadece bu yıl 51 373 futbol sahası kadar buzul erimiştir.\" gibi bir bağlamda yazılabilecek dört işlem içeren bir problem kurgulanabilir ( OB8 ) . Matematiksel hesaplamalarla öğrencilerin buzul sisteminin bozulmasına ilişkin farkındalık geliştirmeleri ve bu bozulmaya etki eden nedenlere ilişkin tartışma yapmaları sağlanır ( SDB2.2 ) . Öğrenme-öğretme uygulamalarına toplama ve çıkarma işlemleri ile başlanır ve problemlerdeki işlemler en fazla beş basamak ile sınırlı tutulur. Çarpma problemleri en fazla üç basamaklı iki sayının çarpımı, bölme işlemine yönelik problemler ise en fazla dört basamaklı sayının iki basamaklı sayıya bölünmesi ile sınırlandırılır. Öğrencilerin işlemler konusunda ilgisini artırmak amacıyla aritmetik işlemlerin tarihsel gelişimine yönelik sorular sorulabilir. Bu süreçte öğrencilerin Mısır, Yunan veya Hint aritmetiği gibi konular hakkında bilgi toplamaları ve topladıkları bilgileri bir pano üzerinde sunmaları istenebilir. Bu etkinlik farklı kültürlerin matematiğe katkılarını keşfetmelerini ve kültürel zenginliklerin farkına varmalarını sağlar. Ayrıca bu etkinlikle öğrencilerin estetik açıdan özgün eserler ortaya koymaları ( D7.2 ) desteklenir ( OB1 ) . Toplama ve çıkarma işlemlerine yönelik problemlerde en fazla beş basamaklı sayıları içeren günlük hayat bağlamlarından ya da öğrencilerin yakın çevrelerinden birikim hesaplarındaki para miktarı ( D17.2 ) , uçakların uçuş mesafesini ölçme sayaçları, şehirlerin nüfusları, dünyanın ya da tarihî eserlerin yaşı, gezegenler arasındaki mesafeler gibi örnekler kullanılabilir. Çarpma ve bölme problemlerinde ise benzer şekilde daha küçük sayıların kullanıldığı kütüphaneye bağışlanan kitap sayısı ( D16.2 ) , ağaç dikme kampanyaları, adil paylaşım gibi bağlamlar kullanılarak sorumluluk değerinin kazanılması desteklenir. Bu öğrenme çıktısında ayrıca zaman ölçmeyi içeren problemler de (gün, ay ve yıl olarak verilen iki tarih arasındaki zamanı ve iki saat arasındaki süreyi hesaplama gibi) ele alınır. Alışverişlerde birim fiyatına göre ürünleri karşılaştırmayı gerektiren ve öğrencilerin bilinçli tüketici alışkanlıklarını destekleyen problem bağlamlarından da (ürün seçiminde birim fiyat kriterini dikkate alma) yararlanılır ( OB3) . Doğal sayılarla dört işlem içeren problemlerin çözümünde öğrencilerin problemi anlayarak verilenleri ve istenenleri, verilenlerin ve istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirlemeleri beklenir. Bu süreçte öğrencilerin problemdeki ilişkilere yönelik basit şekil ya da diyagram çizmeleri istenerek problemi anlamaları sağlanır. Öğrencilerin problem bağlamlarını yorumlarken problemle ilişkili verilenleri belirleyerek uygun matematiksel temsillere dönüştürebilmeleri ve problemi kendi ifadeleriyle açıklayabilmeleri beklenir. Problemlere yönelik çözümlere geçmeden önce öğrencilerin sonuca ilişkin tahminde bulunmaları, zihinden işlem yapmaları ve toplama, çıkarma, çarpma, bölme işlemlerini gerçekleştirmek için stratejiler geliştirmeleri istenir. Öğrenciler, bu stratejileri geliştirirken farklı temsillerden (somut ya da sanal manipülatifler, tablo ve sayı doğrusu gibi) yararlanmaları için teşvik edilir ( MAB3 , MAB5 ) . Ayrıca öğrencilerin çarpma ve bölme işleminin bileşenleri arasındaki ilişkilere yönelik çıkarımlar yapmalarını ve kalanı yorumlamalarını sağlayacak problemler ele alınır. Örneğin zaman ölçme problemlerinde birbirine tam bölünemeyen zaman birimleri var ise kalan birim yorumlanır. Öğrencilerin strateji geliştirmelerini desteklemek ve geliştirdikleri stratejileri kullanmalarını sağlamak için problem çözme sürecinde grup çalışmaları yapmaları sağlanabilir. Gruplar öğrencilerin akademik başarıları ve sosyal dinamikleri dikkate alınarak oluşturulur ( SDB2.2 ) . Gruplar stratejilerini kullanarak problemleri çözmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( SDB3.2 ) .",
+    "Problem çözümlerinin ardından öğrenciler çözüm yollarını kontrol etmeleri için teşvik edilir. Grup üyelerinin problem çözümlerindeki işlemlere yönelik tahmin ve stratejilerini gözden geçirmeleri, kısa yollara ilişkin çıkarımlar ve değerlendirmeler yapmaları beklenir. Örneğin tahminlerinde sayıları yuvarlarken kullandıkları stratejilerin nedenleri ve kullanılan stratejilerin toplama ve çıkarmada sağladığı kolaylıklar üzerine tartışarak öğrencilerin toplama ve çıkarma işlemlerindeki çıkarımlarını değerlendirmeleri sağlanır ( E3.10 ) . Benzer şekilde öğrencilerin çarpma ve bölme işlemlerine yönelik problem çözümlerinin ardından 10, 100 ve 1000 ile yaptıkları çarpma işlemlerinde neler gözlemledikleri ve kısa yoldan çarpma işlemi özelliğini nasıl keşfettikleri sorulur. Ayrıca çarpma ve bölme işlemi yaparken ne gibi stratejiler geliştirdikleri ve geliştirilen stratejilerin işlem yapmalarını nasıl kolaylaştırdığı, çarpma ve bölme yaparken işlem bileşenleri arasındaki ilişkilerin neler olduğu ve bölme işlemi içeren problemlerde kalanın nasıl yorumlanabileceği gibi konular üzerine problem bağlamları da göz önünde bulundurularak öğrencilerin çıkarımları üzerine değerlendirmeler yapmaları sağlanır. Öğrencilerden çözüm sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Bu değerlendirmelerde öğrencilerin farklı stratejileri kullanabilecekleri problem kurma çalışmaları yapmaları sağlanabilir. Öğrencilerin doğal sayılarla dört işlem becerilerini değerlendirmek amacıyla süreçte ve öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir. Öğretim süreçlerinde öğrencilerin farklı akademik başarıya sahip öğrenciler ile eşleştirilmesiyle akran öğrenmeleri desteklenebilir ( SDB2.2 ) . Performans görevi olarak öğrencilere gerçek yaşam durumlarında karşılaştıkları problemler verilerek çözüme yönelik farklı stratejiler geliştirmeleri, geliştirdikleri problem çözümlerini dijital araçlar kullanarak bir sunum hazırlamaları ve arkadaşlarına sunmaları istenebilir ( OB2 ) . Bu görev, süreç bileşenlerini dikkate alarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme-öğretme uygulamalarında yapılan grup çalışmalarında, öğrenciler tarafından öz değerlendirme ve akran değerlendirme formları ile kendi ve arkadaşlarının süreçleri; öğretmen tarafından da grup değerlendirme formu kullanılarak gruplar değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.2",
+      "D17.2",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10",
+      "E3.6"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/447"
+}

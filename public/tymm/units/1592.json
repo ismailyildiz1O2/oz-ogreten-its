@@ -1,0 +1,61 @@
+{
+  "unitId": 1592,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY II · 4.Tema: Strateji Oyunları",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.2.4.1",
+      "title": ". Ulusal ve uluslararası strateji oyunları turnuvalarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.2.4.2",
+      "title": ". Strateji oyunlarında kendine özgü stratejiler geliştirebilme",
+      "processComponents": [
+        "a) Strateji oyununun taktiksel problem durumunu belirler.",
+        "b) Strateji oyununda belirlenen problemin çözümüne ilişkin kendi önerisini sunar.",
+        "c) Kendi belirlediği taktiği uygular."
+      ]
+    },
+    {
+      "code": "OOEZO.2.4.3",
+      "title": ". Geri dönüşüm malzemelerini kullanarak strateji oyunu tasarlayabilme",
+      "processComponents": [
+        "a) Strateji oyununun mevcut durumunu inceler.",
+        "b) Strateji oyununun mevcut yapısından kopmadan geri dönüşüm malzemelerini kullanarak strateji oyununu yeniden düzenler.",
+        "c) Strateji oyununun mevcut durumunu, nesnel ve doğru anlamını değiştirmeden oyunu kendi cümleleriyle yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "OOEZO.2.4.4",
+      "title": ". Yeni strateji oyunları tasarlayabilme",
+      "processComponents": [
+        "a) Strateji oyunlarında kullanılacak araç-gereçleri belirler.",
+        "b) Strateji oyunlarında kullanılacak araç-gereçler arasında ilişki kurar",
+        "c) Strateji oyunlarında ilişki kurulan araç-gereçlerden hareketle özgün oyun tasarlar."
+      ]
+    },
+    {
+      "code": "OOEZO.2.4.5",
+      "title": "İleri seviye strateji oyunlarında taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Strateji oyununun stratejik problem durumunu belirler.",
+        "b) Problemin çözümüne yönelik değerlendirme yapar.",
+        "c) Stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "strateji, mangala, geri dönüşüm",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1592"
+}

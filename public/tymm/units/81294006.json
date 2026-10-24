@@ -1,0 +1,48 @@
+{
+  "unitId": 81294006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "6. ÜNİTE: II. DÜZEY 1. TEMA: BİLİM VE TEKNOLOJİ II",
+  "hours": "18",
+  "description": "“Bilim ve Teknoloji II” teması, bilimsel düşünme, problem çözme ve teknoloji kullanımı konularında derinlemesine bir içeriği kapsar. Bu temada öğrencilere ölçme, gözlemleme ve veri analizi yoluyla bilimsel sonuçlara ulaşma ve bilimsel yöntemi uygulama temel becerileri kazandırılır. “Bilim ve Teknoloji II” temasında öğrencilerden ölçme sonuçlarını ve görselleri kullanarak bilimsel sonuçlara ulaşmaları, bilimsel yöntem ve aşamalarını kullanarak problemi çözmeleri, teknolojinin canlılar üzerindeki etkisini inceledikleri deneyler yapmaları ve yenilikçi teknolojiler hakkında bilgi toplamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.2.1.1.1",
+      "title": "Ölçme, veri ve görselleştirilmiş veriler kullanarak bilimsel çıkarım yapar",
+      "processComponents": [
+        "Bilimsel çıkarım yapmanın bilimdeki önemine değinilir. Fen bilimlerindeki bilimsel çalışmalara ait verileri kullanarak yorumlaması ve değerlendirmesi sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.1.1.2",
+      "title": "Bilimsel yöntem aşamalarını kullanarak problem çözer",
+      "processComponents": [
+        "Okul içinde yaşanılan bir problemi bilimsel yöntem aşamalarını kullanarak yapılandırmaları ve belirle nen problemi özetlemeleri sağlanır. Bilimsel yöntem ve aşamalarını kullanarak problemin çözümüne yönelik gözleme dayalı/mevcut bilgiye/veriye dayalı tahminde bulunulur. Problemin çözümüne yönelik önermeler üzerinden akıl yürütmeleri ve yansıtma/değerlendirmede bulunmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.1.2.1",
+      "title": "Teknolojinin canlılar üzerindeki etkisi ile ilgili deney yapar",
+      "processComponents": [
+        "Teknolojinin canlılar üzerindeki dolaylı etkilerine günlük hayattaki uygulamalar üzerinden örnekler verilir. b) Kablosuz internet dağıtıcıların yaydığı radyasyonun bitki gelişimi üzerindeki etkileri ile ilgili deney yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.1.2.2",
+      "title": "Uzay araştırmaları için geliştirilen yenilikçi teknolojiler hakkında topladığı bilgiler ile ilgili rapor hazırlar",
+      "processComponents": [
+        "Uzay araştırmaları için geliştirilen yenilikçi teknolojiler ve bu teknolojilerin günlük hayattaki kullanım alanları açıklanır.",
+        "Millî Uzay Programı'nın yürüttüğü projeler hakkında araştırma yapmaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

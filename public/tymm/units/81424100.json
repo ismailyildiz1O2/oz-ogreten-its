@@ -1,0 +1,47 @@
+{
+  "unitId": 81424100,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "100. ÜNİTE: GRAFİK TASARIM - GRAFİK TASARIM ÇALIŞMA YÖNTEMİ VE YAZILIMLARI",
+  "hours": "24",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.2.2.1",
+      "title": "Renk teorisi ve uygulama çalışması yapar",
+      "processComponents": [
+        "Doğru renk tonlarını doğru yerlerde kullanarak renk çemberine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.2.2.2",
+      "title": "Tipografik temelleri bilir ve yazı stilleri tasarlar",
+      "processComponents": [
+        "Yazı karakteri türlerinin tarihçesi hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "GSA.2.2.3",
+      "title": "Font seçimini yapar",
+      "processComponents": [
+        "Tasarımda kullanacağı görseller ve konuya uygun font seçimine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.2.2.4",
+      "title": "Grafik tasarımda yazılımları kullanır",
+      "processComponents": [
+        "Tasarım yapmak için illusstrator (illüstreytır), photoshop (fotoşop), indesign (indizayn) yazılımları tanıtılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

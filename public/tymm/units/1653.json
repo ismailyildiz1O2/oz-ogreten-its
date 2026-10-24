@@ -1,0 +1,77 @@
+{
+  "unitId": 1653,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Psikoloji Dersi",
+  "title": "2. Ünite: Gelişimi Anlamak",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PSK.2.1",
+      "title": "Gelişim psikolojisinin temel kavramlarını, gelişimi etkileyen etmenleri ve gelişimin ilkelerini özetleyebilme",
+      "processComponents": [
+        "a) Gelişim psikolojisi ile ilgili temel kavramları çözümler.",
+        "b) Gelişimi etkileyen etmenleri sınıflandırır.",
+        "c) Kendisinin ve çevresindeki kişilerin gelişim sürecini, gelişim ilkelerini dikkate alarak yorumlar."
+      ]
+    },
+    {
+      "code": "PSK.2.2",
+      "title": "Gelişim dönemlerinde değişim ve sürekliliği algılayabilme",
+      "processComponents": [
+        "a) Gelişim özelliklerini dikkate alarak gelişim dönemlerini karşılaştırır.",
+        "b) Gelişim dönemlerine göre gelişim görevlerini sıralar.",
+        "c) Gelişim dönemlerindeki değişim ve sürekliliği neden ve sonuçları ile yorumlar.",
+        "ç) Gelişim dönemindeki değişim ve sürekliliği sentezler.",
+        "d) Kendisinin ve çevresindeki kişilerin gelişim dönemlerine göre yaşayacakları değişim ve sürekliliğe ilişkin gözleme dayalı öngörüde bulunur."
+      ]
+    },
+    {
+      "code": "PSK.2.3",
+      "title": "İnsan zekâsı ile yapay zekâyı karşılaştırabilme",
+      "processComponents": [
+        "a) İnsan zekâsı ile yapay zekânın özelliklerini belirler.",
+        "b) İnsan zekâsı ve yapay zekânın benzerliklerini listeler.",
+        "c) İnsan zekâsı ve yapay zekânın farklılıklarını listeler."
+      ]
+    },
+    {
+      "code": "PSK.2.4",
+      "title": "Kişilik ve benlik-dijital benliği karşılaştırabilme",
+      "processComponents": [
+        "a) Kişilik ve benlik-dijital benliğin özelliklerini belirler.",
+        "b) Kişilik ve benlik-dijital benliğin benzerliklerini listeler.",
+        "c) Kişilik ve benlik-dijital benliğin farklılıklarını listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "büyüme, gelişim, gelişme, kişilik, kritik dönem, olgunlaşma, zekâ",
+  "support": [
+    "Gelişim sürecinin kavram ve özelliklerini pekiştirmeye yönelik görsel ve işitsel uyaranların yoğunlukta olduğu öğretim materyalleri kullanılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler beyin esnekliği (nöroplastisite) kavramını araştırabilirler. Araştırma sonucunda elde ettikleri verilerden yola çıkarak beynin işlevlerinin günlük hayatı nasıl etkilediği konusunda poster hazırlayabilirler.",
+    "Öğrenciler, Lawrance Kolhberg'in “Ahlak Gelişimi Kuramı”na yönelik Carol Gilligan'ın eleştirilerini konu alan makale yazabilir.",
+    "*Öğrenciler, John L. Holland'ın “Kişilik Tipolojisi Kuramı”nda tanımladığı altı kişilik tipinin hangi meslek alanları ile ilişkili olduğunu değerlendirerek raporlaştırabilir.",
+    "Benlik algısının Türk resim sanatındaki yansımaları hakkında bir araştırma yapmaları ve araştırmalarını sunmaları sağlanabilir.",
+    "Geleneksel Türk çocuk oyunlarının gelişime olan olumlu etkilerini araştırmaları ve araştırmalarını bir poster üzerinde göstermeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarında çalışma kâğıdı, açık uçlu sorular, konuşma halkası, akvaryum, eşleştirme maddeleri, T tablosu, 3-2-1 tekniği, görüş geliştirme, düşün-eşleş-paylaş, venn şeması, yansıtma yazısı ve performans görevi kullanılabilir. Performans görevi: Öğrenciler iş birliği içinde Jean Piaget’nin Bilişsel Gelişim Kuramı’ndaki bilişsel gelişim dönemlerini, Lawrence Kohlberg’in Ahlak Gelişimi Kuramı’ndaki ahlaki gelişim düzeylerini, Erik Erikson’un Psikososyal Gelişim Kuramı’ndaki psikososyal gelişim dönemlerini ve Sigmund Freud’un Psikoseksüel Gelişim Kuramı’ndaki psikoseksüel gelişim dönemlerini güvenilir kaynaklardan araştırabilir. Yaptıkları araştırmalar sonucunda elde ettikleri bilgileri rapor hâline getirebilir ve hazırladıklaı raporlardan yola çıkarak bir sunum hazırlayıp sınıfta paylaşabilir. Öğrenciler sunum hazırlama ve sunma sürecinde kişisel verilerin yer aldığı dijital araçları bilinçli, güvenli ve etik biçimde kullanabilir, sunumlardan hareketle kendi yaşantıları ve yakın çevrelerindeki bireylerin deneyimleri ile ilgili kuramlar arasında ilişki kurabilir, bu ilişkilerden elde ettikleri verileri dikkate alarak bireysel farklılıklara saygı duymanın değerine yönelik özgün görüşler geliştirebilir. Performans görevi içeriğe uygunluğu, bilgilerin doğruluğu ve tutarlılığı, rapor düzeni, sunum ve zamanın etkili kullanımı gibi kriterler açısından dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PSK.2.1",
+    "Öğrencilere; gelişim psikolojisinin temel kavramlarının (büyüme, gelişim, gelişme, gelişim görevi, olgunlaşma, hazırbulunuşluk, öğrenme) açıklamalarının, örnek durumlarının ve konuya ilişkin açık uçlu soruların bulunduğu çalışma kâğıdı verilir. Verilen çalışma kâğıdındaki örneklerin dünyadaki ve Türk Kültür Medeniyetindeki çocuk gelişimine ilişkin kültürel davranışları yansıtacak biçimde olması sağlanır. Öğrenciler, ilgili kavramlara ilişkin kendi deneyimlerinden ya da ailesindeki ve yakın çevresindeki kişilerin deneyimlerinden, onların mahremiyetini koruyarak örnekler verir ( D2.1 ). Süreçte eşleştirme testi öğretim tekniği kullanılabilir. Söz konusu kavramların daha iyi anlaşılabilmesi için dünyadan ve Türk Kültür medeniyetinden kültürel örnekler ile desteklenmesi sağlanır. Bunun için geleneksel çocuk yetiştirme pratiklerinden (bebeklikte kundak, çocuklukta sorumluluk alma), geleneksel çocuk oyunlarının gelişim ve hazır bulunuşluğa etkisi, Nasreddin Hoca fıkralarındaki çocuk algısı ve bilgelik aktarımı, üzerinden tartışma gerçekleştirilir. Öğrencilere, gelişimi etkileyen etmenler [kalıtım, çevre (doğum öncesi, doğum sırası ve doğum sonrası) ve tarihsel zaman] ile ilgili alan çalışmalarından yazılı ya da görsel örnekler verilir ( E1.1 , OB1 , OB4 ). Bireysel farklılıkların nedenleri konusunda tartışma yaptırılır ( SDB2.1 , KB2.18 ). Bunun için görüş geliştirme öğretim tekniği kullanılabilir. Öğrencilere, gelişimi etkileyen etmenleri örnekleyen yapılandırılmış bir metin verilir ( OB1 ). Öğrencilerin; iş birliği yaparak gelişimi etkileyen etmenleri belirlemeleri, sınıflandırmaları ve bu etmenlere günlük hayattan örnek vermeleri sağlanır ( E3.5 , SDB2.2 , KB2.5 ). Öğrenciler, örneklerini görsellerle destekleyerek sunum hazırlar ve sunumlarını güvenli ağlarda yayımlar ( OB2 ). Öğrenciler, sunumu hazırlarken ihtiyacı olan arkadaşlarına yardım eder ( D20.4 ). Süreç sonunda öğrencilerden yansıtma yazısı yazmaları istenebilir. Öğrencilere, ”Gelişim yaşa ve bireye göre değişir mi? Bebeklerin ve yetişkinlerin fiziksel beceriler açısından farklılıkları nelerdir? Genetik faktörler ve çevre koşulları gelişimi nasıl etkiler?” gibi gelişim ilkelerini açığa çıkaracak nitelikte sorular sorulur ( E1.1 ). Süreçte öğrenciler çevre kirliliğinin gelişimi olumsuz etkilediğini ifade eder ( D18.3 ). Öğrenciler, iş birlikli olarak gelişim ilkelerinin neler olduğunu sorgular ve bu gelişim ilkelerini kendi cümleleri ile ifade etmeleri sağlanır ( SDB2.2 , KB2.8 ). Öğrencilere, kavram yanılgıları ve öğrenme eksiklikleri ile ilgili dönüt verilir. Öğrencilerin gelişim ilkelerini dikkate alarak kendisinin ve çevresindeki kişilerin gelişim sürecini yorumlamaları sağlanır ( KB2.14 ). Öğrenciler, kendi gelişim özelliklerini fark ederek bu özelliklerine ilişkin duygu ve düşüncelerini açıklar ( D6.2 , D10.1 ). Süreçte konuşma halkası ya da akvaryum tekniği kullanılabilir. Süreç sonunda çıkış kartı tekniğinden yararlanılabilir.",
+    "PSK.2.2",
+    "Öğrencilere; gelişim dönemlerinde yaşanan değişim ve süreklilikle ilgili olarak, farklı gelişim dönemlerini yansıtan günlük hayat örneklerine ya da Türk mitolojisi ve Dede Korkut hikayelerinde çocukların eğitimi ve büyüme sürecine ilişkin aktarımlar konusunda görseller ya da yapılandırılmış bir metin verilir ( E1.1 , OB4 ). Öğrencilerden, verilen içerikleri göz önünde bulundurarak gelişim dönemlerinin karşılaştırmaları istenir. Gelişim alanlarının (fiziksel, bilişsel, duygusal, sosyal ve ahlaki) ve gelişim dönemlerinin (bebeklik, ilk çocukluk, orta çocukluk, son çocukluk, ergenlik, ilk yetişkinlik, orta yetişkinlik, ileri yetişkinlik) temel özellikleri verilir. Öğrencilerin, her gelişim döneminde gerçekleşen değişimleri gelişim alanlarına göre sıralamaları sağlanır. Bunun için eşleştirme maddeleri ya da anlam çözümleme tablosu kullanılabilir. Öğrencilere, Havighurst'ün (Hevikhörst) “Gelişim Görevleri” yaklaşımı ile ilgili bilgi görseli verilir. Öğrencilerden, gelişim dönemlerindeki değişim ve sürekliliği nedenleri ve sonuçları ile yorumlamaları istenir ( OB4 , KB2.14 ). Bunun için balık kılçığı kullanılabilir ( OB4 , KB2.14 ). Öğrenciler, süreç içerisinde kendi deneyimlerinden örnekler verir ( SDB1.2 ). Öğrencilere; akademik başarı, meslek seçimi, arkadaşlık ilişkisi, olumlu beden algısı geliştirme konularında örnek senaryolar verilir. Öğrenciler ergenlik dönemi gelişim görevlerinin yerine getirildiği bu senaryoları inceler. Gelişim alanlarında meydana gelen değişimlerin sonuçlarını yorumlar. Senaryolardaki karakterlerle empati kurarak karakterlerin davranışlarının nedenlerine ilişkin mantıksal karar vermeleri istenir ( E2.1 , KB3.1 ). Öğrenciler karar verme sürecinde ön yargılı olmaktan kaçınır ( D1.4 ). Öğrencilerden deneyimlerinden yola çıkarak gelişim görevlerini yansıtan özgün bir metin yazmaları istenebilir. ( SDB1.1 , SDB1.3 ). Öğrencilerden, iş birliği içinde Jean Piaget’nin Bilişsel Gelişim Kuramı’ndaki bilişsel gelişim dönemlerini, Lawrence Kohlberg’in Ahlak Gelişimi Kuramı’ndaki ahlaki gelişim düzeylerini, Erik Erikson’un Psikososyal Gelişim Kuramı’ndaki psikososyal gelişim dönemlerini ve Sigmund Freud’un Psikoseksüel Gelişim Kuramı’ndaki psikoseksüel gelişim dönemlerini güvenilir kaynaklardan araştırmaları istenir. Öğrencilerin yaptıkları araştırmalar sonucunda elde ettikleri bilgileri rapor hâline getirmeleri, hazırlanan raporlardan yola çıkarak bir sunum hazırlayıp sınıfta paylaşmaları sağlanır. Raporlarda insanın felsefi boyutuna vurgu yaparak \"insan nedir?\", \"insanın varlık amacı nedir?\" gibi soruların cevaplarına yer verilmesi beklenir. Öğrencilerin sunum hazırlama ve sunma sürecinde kişisel verilerin yer aldığı dijital araçları bilinçli, güvenli ve etik biçimde kullanmaları beklenir ( D8.2 ). Öğrencilerden, sunumlardan hareketle kendi yaşantıları ve yakın çevrelerindeki bireylerin deneyimleri ile ilgili kuramlar arasında ilişki kurmaları istenir. Bu ilişkilerden elde ettikleri verileri dikkate alarak bireysel farklılıklara saygı duymanın değerine yönelik özgün görüşler geliştirmeleri sağlanır ( E3.3 , SDB1.3 ). Süreç boyunca öğrencilerin arkadaşlarının bireysel farklılıklarını kabul etmeleri desteklenir ( D4.4 ). Öğrencilerin bu çalışması performans görevi olarak kabul edilir. Performans görevi; içeriğe uygunluğu, bilgilerin doğruluğu ve tutarlılığı, rapor düzeni, sunum ve zamanın etkili kullanımı gibi kriterler açısından dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrenciler, performans çalışmasında görev bilinci ile hareket ederek ödev ve sorumluluklarını etik ilkelere uygun şekilde yerine getirir ( D3.3 , D16.3 ). Öğrencilerden, farklı gelişim dönemlerindeki kişilerin gelişim görevlerine ilişkin işbirlikli olarak özgün bir senaryo oluşturmaları istenir. Öğrencilerin senaryo hazırlarken bir bütün olarak gelişmenin ne anlama geldiğini, \"egonun aşılması\" ve \"yüksek değerler\"in bütün olarak gelişimde oynadığı rolün göz önünde bulundurulması sağlanır. Öğrencilerin senaryolardaki kişilerin bir bütün olarak gelişimleri ile ilgili çıkarım yapmaları ve bu karakterlerin gelecekteki gelişimlerine yönelik öngörüde bulunmaları sağlanır ( SDB2.3 , KB2.10 , D8.4 ).",
+    "PSK.2.3",
+    "Öğrencilere, zekânın işlevlerini anlatan ve satranç, akıl oyunları, film, haber gibi örnekleri içeren yazılı ya da görsel materyaller sunulur ( E1.1 , OB4 ). Ardından, zekânın gelişip gelişmediğine ilişkin bir tartışma yapmaları sağlanır ( SDB2.1 , KB2.18 ). Tartışma sürecinde, zekânın gelişiminde kalıtım ve çevrenin etkileşimine dikkat çekilir ve öğrencilerin bu etkileşimi fark etmeleri beklenir. Bu süreçte, zekânın çok boyutluluğuna ve kültürel bağlamda nasıl şekillendiğine de değinilebilir. Örneğin, Fatih Sultan Mehmet’in ve Mustafa Kemal Atatürk’ün bilim, sanat ve strateji alanlarındaki çok yönlü başarıları farklı zekâ türlerinin tarihsel bağlamda nasıl ortaya çıktığını tartışmaya açmak için kullanılabilir. Öğrencilere; sosyal zekâ, duygusal zekâ, zekâ bölümü zekânın bileşenleri (kristalize zekâ ve akışkan zekâ) analitik zekâ, ruhsal zekâ ile yapay zekânın tanımını ve özelliklerini içerenbilgi notu verilir ( OB1 ). Öğrencilerin; empati kurma, etik karar verme ve yaratıcılık kavramlarını göz önünde bulundurarak “Farklı zekâ türleri olmasının nedenleri nelerdir? Yapay zekâ insan zekâsını nasıl model alır?” sorularını göz önüne alarak tartışmaları sağlanır ( SDB2.1 , KB2.18 ). Bu aşamada büyük grup tartışması tekniği kullanılır. Öğrencilerden, insan zekâsının ve yapay zekânın duyguları fark etme, uyum sağlama, hız, deneyimden sonuç çıkarma, verilen görevi tamamlama ve akıl yürütme açısından benzerliklerini ve farklılıklarını listelemeleri istenir ( KB2.5 ). Bunun için venn şeması ya da T tablosu kullanılabilir.",
+    "PSK.2.4",
+    "Öğrencilere, kişilik özelliklerinde bireysel farklılıkları yansıtan örnek durumlar verilir ( E1.1 ). Örnekler içinde Karagöz, Hacivat, Kavuklu, Pişekar gibi karakterlere yer verilir. Öğrencilerden verilen örnek durumlardaki bireylerin tutumlarını, davranış biçimlerini ve sosyal ilişkilerini dikkate alarak onları birbirinden ayıran temel özellikleri belirtmeleri istenir. Ayrıca bireyleri değerlendirirken hangi ölçütleri göz önüne aldıkları (örneğin davranışlar, güvenilir olmak, dürüst olmak gibi) ifade etmeleri beklenir. Öğrencilerden örnek durumlarda bireylerin sosyal medya kullanımlarına ilişkin verilen bilgileri analiz ederek bireylerin dijital ortamlarda kendilerini nasıl ifade ettiklerini değerlendirmeleri istenir. Bu süreçte öğrencilerin kişilik, benlik ve dijital benlik kavramlarının temel özelliklerini belirlemeleri, bu kavramları tanımlamaları ve aralarındaki ilişkiyi yorumlamaları beklenir. Yorumlamada \"benlik\" ve \"kendi gerçekleştirme\" arasındaki ilişkinin vurgulanması ve insanın varlık amacına vurgu yapılması sağlanır. Öğrencilerin, değerlendirmelerini kısa bir konuşma ya da yansıtma yazısı ile ifade etmeleri sağlanır ( SDB2.1 , KB2.15 , KB2.18 ). Öğrencilere, uygulama sürecinde kavram yanılgılarına ve öğrenme eksikliklerine yönelik dönüt verilir. Öğrencilerden; aile, okul ve dijital ortam gibi farklı sosyal çevrelerde benliklerini nasıl ifade ettiklerini karşılaştırmaları istenir. Öğrencilerin, bu ortamlardaki benzerlik ve farklılıkları değerlendirerek sosyal rollerin benlik sunumuna etkisini fark etmeleri amaçlanır ( SDB1.2 ). Öğrencilerden, ailenin benlik gelişimine katkısını düşünmeleri ve aile bağlarının kendileri için taşıdığı önemi ifade etmeleri beklenir ( D2.1 )."
+  ],
+  "skills": [
+    "SBAB4. Değişim ve Sürekliliği Algılama"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1653"
+}

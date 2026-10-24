@@ -1,0 +1,48 @@
+{
+  "unitId": 81300006,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Klasik Ahlak Metinleri Dersi",
+  "title": "6. ÜNİTE: AHLAK VE EĞİTİM",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KAM.3.2.1",
+      "title": "Ahlak ile eğitim ilişkisini tartışır",
+      "processComponents": [
+        "Kalem suresinin 4. ayeti, Ahzap suresinin 21. ayeti ve “Ben güzel ahlakı tamamlamak üzere gönderildim.” hadisi üzerinden Peygamberimizin ahlaki yönüne vurgu yapılması sağlanır.",
+        "Ahlaklı bireyin karakter özelliklerinin neler olabileceği üzerinde durulur.",
+        "Ahlaklı bireylerin yetiştirilmesinde eğitimin önemi hakkında çıkarımların yapılması sağlanır. Bakara suresinin 177. ayetindeki “…. sevdiği maldan yakınlara, yetimlere, yoksullara, yolda kalmışlara, yardım isteyenlere ve özgürlüğünü kaybetmiş olanlara harcayan; namazı kılıp zekâtı verendir. Böyleleri anlaşma yaptıklarında sözlerini tutarlar; darlıkta, hastalıkta ve savaş zamanında sabrederler. İşte doğru olanlar bunlardır…” ifadelerine değinilir."
+      ]
+    },
+    {
+      "code": "KAM.3.2.2",
+      "title": "Klasik metinleri ahlak ve toplumsal düzen temelinde analiz eder",
+      "processComponents": [
+        "İbn Miskeveyh'in Tehzîbu'l-Ahlak adlı eserindeki mutluluk görüşü üzerinde durulur.",
+        "Ferîdüddin Attâr'ın Pendnâme adlı eserinde yer alan kötü huy ve erdemsiz davranışlar hakkındaki öğütlerinin toplum huzuru ve düzeni bağlamında incelenmesi sağlanır.",
+        "Nasîrüddîn Tûsî'nin Ahlâk-ı Nâsırî adlı eserinden hareketle ahlaki açıdan sevgi anlayışının yorumlanması sağlanır.",
+        "Devvânî'nin Ahlâk-ı Celâlî adlı eserindeki güzel ve kötü ahlak anlayışının değerlendirilmesi sağlanır.",
+        "Nâbî'nin Hayriyye adlı eserindeki ölçülü yaşamın değeri ile ilgili görüşleri üzerinde durulur.",
+        "Mehmet Âkif Ersoy'un Safahat adlı eserindeki şiirlerden hareketle görev ahlakı, yardımlaşma ve sorumluluk kavramlarına vurgu yapılır."
+      ]
+    },
+    {
+      "code": "KAM.3.2.3",
+      "title": "Birey-toplum ahlakı üzerine görüş ve argümanları değerlendirir",
+      "processComponents": [
+        "Özel hayatın mahremiyeti hususunda sosyal medyanın birey, aile ve toplum ahlakına etkileri değerlendirilir. Bu bağlamda “kendin için istediğini başkası için istemedikçe …” hadisi ile Hucurat suresi 6. ayetteki “verilen haberin doğruluğunun araştırılması” ve 12. ayetteki “özel hayatların araştırılmasının yasaklanması”na dair ifadelere yer verilir.",
+        "Ahlaki açıdan kurgulanmış bir toplumun kural ve değerlerini anlatan bir deneme yazmaları istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316030660-KlasikAhlakMetinleri%20%281%29.pdf"
+}

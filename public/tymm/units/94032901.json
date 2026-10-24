@@ -1,0 +1,55 @@
+{
+  "unitId": 94032901,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "1. ÖĞRENME ALANI: DOĞAL SAYILAR",
+  "hours": "18",
+  "description": "Terimler veya kavramlar: bölük",
+  "outcomes": [
+    {
+      "code": "M.4.1.1.1",
+      "title": "4, 5 ve 6 basamaklı doğal sayıları okur ve yazar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.1.2",
+      "title": "10 000’e kadar (10 000 dâhil) yüzer ve biner sayar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.1.3",
+      "title": "4, 5 ve 6 basamaklı doğal sayıların bölüklerini ve basamaklarını, basamaklarındaki rakamların basamak değerlerini belirler ve çözümler",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.1.4",
+      "title": "Doğal sayıları en yakın onluğa veya yüzlüğe yuvarlar",
+      "processComponents": [
+        "En çok dört basamaklı sayılarla çalışılır."
+      ]
+    },
+    {
+      "code": "M.4.1.1.5",
+      "title": "En çok altı basamaklı doğal sayıları büyük/küçük sembolü kullanarak sıralar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.1.6",
+      "title": "Belli bir kurala göre artan veya azalan sayı örüntüleri oluşturur ve kuralını açıklar",
+      "processComponents": [
+        "Artan veya azalan bir örüntüde her bir terimi (ögeyi), adım sayısı ile ilişkilendirir. Örneğin 2, 5, 8,11, … örüntüsünde birinci terim 2, ikinci terim 5 gibi.",
+        "Aralarındaki fark sabit olan sayı örüntüleri ile sınırlı kalınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sayılar ve İşlemler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

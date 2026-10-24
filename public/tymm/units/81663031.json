@@ -1,0 +1,86 @@
+{
+  "unitId": 81663031,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "31. ÜNİTE: PROGRAMLAMA DİLLERİ (DART) - 1. ÜNİTE: DART PROGRAMLAMA DİLİ TEMELLERİ",
+  "hours": "18",
+  "description": "Bu ünitede; dart programlama dilinin temel özellikleri, dart programlama dilindeki değişken tipleri, operatörler, fonksiyon ve parametreler, koşullu ifadeler ve döngüler üzerinde durulur. Dart programlama dili derleme süreci, derleme sürecinde AOT ve JIT arasındaki farklar, dart programlama dili paket yönetimi ile harici kütüphaneleri projeye ekleme anlatılır.",
+  "outcomes": [
+    {
+      "code": "BTY.31.1",
+      "title": "Dart programlama dilinin temel özelliklerini kavrar",
+      "processComponents": [
+        "Dart programlama dilinin geliştirilme nedeni ve kullanım alanları açıklanır.",
+        "Dart programlama dilinin temel özellikleri, güçlü ve zayıf yönleri vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.31.2",
+      "title": "Dart programlama dilindeki değişken tiplerini kavrar",
+      "processComponents": [
+        "Dart programlama dilinde kullanılan veri tipleri anlatılır. b Değişkenlerin tanımlanması ve veri tiplerine atanması durumları açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.31.3",
+      "title": "Dart programlama dilindeki operatörleri öğrenir",
+      "processComponents": [
+        "Matematiksel, karşılaştırma ve mantıksal operatörlerin Dart programlama dilindeki kullanımı anlatılır.",
+        "Operatörlerin öncelik sıralamaları ve gruplamaları örneklerle açıklanır.",
+        "Dart programlama dilinde özel operatörler ve atama operatörlerinin kullanımı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BTY.31.4",
+      "title": "Dart programlama dilinde fonksiyonları ve parametreleri tanımlar",
+      "processComponents": [
+        "Dart programlama dilinde fonksiyonların nasıl tanımlandığı ve çağrıldığı anlatılır.",
+        "Fonksiyonların parametreleri iletme ve değer döndürme işlemleri gösterilir.",
+        "Dart programlama dilinde anonim fonksiyonlar ve lambda ifadesinin önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.31.5",
+      "title": "Kontrol akışını yöneterek koşullu ifadeler ve döngüler kullanmayı kavrar",
+      "processComponents": [
+        "Dart programlama dilindeki koşullu ifadelerin (if-else, switch-case) kullanımı anlatılır.",
+        "Dart programlama dilinde döngülerin (for, while, do-while) kullanımı anlatılır.",
+        "Döngüler kullanılarak tekrarlı işlemler yapılabileceği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.31.6",
+      "title": "Dart programlama dilinde derleme sürecini kavrar",
+      "processComponents": [
+        "Dart programlama dilinde derleme ve çalışma süreci açıklanır.",
+        "Dart programlama dilinde derleme sürecinin performans ve hız açısından oluşturduğu etkiler vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.31.7",
+      "title": "Derleme aşamasında AOT ile JIT arasındaki farkları kavrar",
+      "processComponents": [
+        "Dart programlama dilininin JIT ve AOT derleme arasında seçenekler sunmasının nedeni anlatılır.",
+        "AOT derlemenin daha hızlı ve optimizasyonu yüksek kod üretme yeteneği olduğu vurgulanır.",
+        "Hangi senaryolarda JIT ve AOT derleme seçilmesi gerektiği açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.31.8",
+      "title": "Dart programlama dilinde paket yönetimini kullanarak harici kütüphaneleri projelerine dâhil etmeyi kavrar",
+      "processComponents": [
+        "Dart programlama dilinde paket yönetim sistemi (pub) ile projelere harici kütüphaneler eklenebileceği açıklanır.",
+        "Harici kütüphanelerin projeye dahil edilmesi ve bağımlılıkların yönetilmesi anlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

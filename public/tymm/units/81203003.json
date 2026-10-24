@@ -1,0 +1,86 @@
+{
+  "unitId": 81203003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "3. ÜNİTE: TÜRK KAĞANLIKLARI",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.3.1",
+      "title": "Kök Türk Devleti'nin kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Orhun Kitabelerinden Tonyukuk, Kültegin ve Bilge Kağan yazıtları hakkında bilgi verilir.",
+        "Ergenekon Destanı ile ilgili bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.3.2",
+      "title": "Avar Kağanlığı'nın kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.3.3",
+      "title": "Hazar Kağanlığı'nın kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Hazarların kuruldukları bölgede uzun süre hâkimiyet kurmasında etkili olan faktörler açıklanır."
+      ]
+    },
+    {
+      "code": "OTT.3.4",
+      "title": "Türgeş Kağanlığı'nın kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Talas Savaşı ve önemi açıklanır."
+      ]
+    },
+    {
+      "code": "OTT.3.5",
+      "title": "Uygur Kağanlığı'nın kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.3.6",
+      "title": "Koçu (İdikut) Uygur Devleti'nin kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.3.7",
+      "title": "Karluk Yabguluğu'nun kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.3.8",
+      "title": "Kırgız Kağanlığı'nın kuruluş ve siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Yenisey Yazıtları içerisinde değerlendirilen Suci Yazıtı hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.3.9",
+      "title": "Kimekler ve Kıpçakların tarihsel gelişim sürecini açıklar",
+      "processComponents": [
+        "Deşt-i Kıpçak (Kıpçak Bozkırı) terimi ile ilgili bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.3.10",
+      "title": "Türk Kağanlıkları döneminde sosyal, ekonomik ve kültürel hayatı analiz eder",
+      "processComponents": [
+        "Türk Kağanlıkları döneminde yönetim, iktisadi ve kültürel merkezlere örnekler verilir.",
+        "İpek Yolu'nun önemine değinilir.",
+        "Türk kağanlıkları döneminde inanç sistemlerine değinilir.",
+        "Eski Türklerde kadının konumuna değinilir.",
+        "Türk Kağanlıkları döneminde sanat hakkında bilgi verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

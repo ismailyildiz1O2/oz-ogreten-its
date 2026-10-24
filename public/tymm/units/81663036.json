@@ -1,0 +1,47 @@
+{
+  "unitId": 81663036,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "36. ÜNİTE: PROGRAMLAMA DİLLERİ (PHP) - 3. ÜNİTE: PHP FONKSİYONLARI, ARİTMETİKSEL VE MANTIKSAL İŞLEMLER",
+  "hours": "18",
+  "description": "Bu ünitede, PHP programlama dilinde kullanılan matematiksel ve metinsel fonksiyonların kullanımı, koşul yapılarıyla mantıksal ve aritmetiksel işlemler, döngü yapılarının çalışma şekilleri konularına değinilmiştir.",
+  "outcomes": [
+    {
+      "code": "BTY.36.1",
+      "title": "PHP programlama dili fonksiyonlarını tanır",
+      "processComponents": [
+        "Fonksiyonların işlevi anlatılır.",
+        "Fonksiyonların kullanım gereksinimi nedenleriyle açıklanır.",
+        "Fonksiyon kullanarak ve fonksiyon kullanmadan kod yazım örnekleri verilerek fonksiyonların avantajlarına değinilir.",
+        "Matematiksel ve metinsel fonksiyonlar anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.36.2",
+      "title": "PHP programlama dilinde mantıksal ve aritmetiksel işlemleri kavrar",
+      "processComponents": [
+        "Karar yapıları anlatılır.",
+        "Mantıksal ve aritmetiksel operatörler açıklanır.",
+        "Örnekler verilerek hangi operatörün kullanılacağı sorulur."
+      ]
+    },
+    {
+      "code": "BTY.36.3",
+      "title": "Döngüleri kullanır",
+      "processComponents": [
+        "PHP programlama dilindeki döngü yapılarından bahsedilir.",
+        "Aralarındaki farklar açıklanır.",
+        "Örnekler verilerek hangi döngü yapısını kullanmalarının daha uygun olacağı sorulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

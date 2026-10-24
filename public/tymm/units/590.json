@@ -1,0 +1,113 @@
+{
+  "unitId": 590,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. TEMA: MÜZİK KÜLTÜRÜ",
+  "hours": "36",
+  "description": "Bu temada Türk müziğindeki gelişim sürecinin neden ve sonuçlarının yorumlanabilmesi, Türk müziğine ait eserlerin müziksel söylenebilmesi, müzik türlerinin sınıflandırılabilmesi, marşların, şarkıların ve türkülerin müziksel söylenebilmesi ve yaşanılan şehrin müzik etkinliklerinin genellenebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.10.2.1",
+      "title": "Türk müziğinin gelişim sürecini neden ve sonuçlarıyla yorumlayabilme",
+      "processComponents": [
+        "a) Türk müziğinin gelişim sürecine neden olan unsurları inceler.",
+        "b) Türk müziğinin gelişim sürecinin etkilediği unsurları inceler.",
+        "c) Türk müziğinin gelişim sürecinin etkilerinin niteliğini sorgular.",
+        "ç) Türk müziğinin gelişim sürecinin nedenlerini ve sonuçlarını bağlamından kopmadan yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.10.2.2",
+      "title": "Türk müziğine ait eserleri müziksel söyleyebilme",
+      "processComponents": [
+        "a) Türk müziğine ait eserleri seslendirmeden önce bedenini söylemeye hazır hâle getirir.",
+        "b) Türk müziğine ait eserleri söylerken uygun teknikleri kullanır.",
+        "c) Türk müziğine ait eserleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.10.2.3",
+      "title": "Müzik türlerini sınıflandırabilme",
+      "processComponents": [
+        "a) Müzik türlerine ilişkin ölçüt belirler.",
+        "b) Müzik türlerini ayrıştırır.",
+        "c) Müzik türlerini tasnif eder.",
+        "ç) Müzik türlerini etiketler."
+      ]
+    },
+    {
+      "code": "MÜZ.10.2.4",
+      "title": "Marşları, şarkıları ve türküleri müziksel söyleyebilme",
+      "processComponents": [
+        "a) Marşları, şarkıları ve türküleri seslendirmeden önce bedenini söylemeye hazır hâle getirir.",
+        "b) Marşları, şarkıları ve türküleri söylerken uygun teknikleri kullanır.",
+        "c) Marşları, şarkıları ve türküleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.10.2.5",
+      "title": "Yaşanılan şehrin müzik etkinliklerini genelleyebilme",
+      "processComponents": [
+        "a) Yaşanılan şehrin müzik etkinlikleri hakkında bilgi toplar.",
+        "b) Yaşanılan şehrin müzik etkinlikleriyle ilgili ortak özellikleri belirler.",
+        "c) Yaşanılan şehrin müzik etkinlikleriyle ilgili ortak olmayan özellikleri belirler.",
+        "ç) Yaşanılan şehrin müzik etkinlikleriyle ilgili örüntüler üzerinden önermede bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "besteci, müzik türleri, söz yazarı",
+  "support": [
+    "Seçilen bir müzik türü ile ilgili çalma listesi oluşturarak dijital/teknolojik araçlar aracılığıyla dinleti yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Müzik aleti çalabilen öğrenciler verilen eserlere eşlik edebilir. Öğrencilerin verilen Türk müziğine ait eserleri, marşları, şarkıları ve türküleri ezgisel okumaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; çalışma yaprağı, derecelendirme ölçeği, yapılandırılmış grid, kontrol listesi ve öğrenme günlüğü kullanılarak izlenebilir. Dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir.",
+    "Türk müziğinin gelişim süreci neden ve sonuçlarıyla yorumlanırken yapılan çalışmalar, çalışma yaprağıyla izlenebilir. Türk müziğine ait eserleri müziksel söyleme çalışmalarında derecelendirme ölçeği kullanılabilir. Müzik türleri sınıflandırılırken yapılandırılmış grid kullanılabilir. Marşları, şarkıları ve türküleri müziksel söyleme çalışmalarında dereceli puanlama anahtarı veya kontrol listesi kullanılabilir. Yaşanılan şehrin müzik etkinlikleri genellenirken yapılan çalışmalar öğrenme günlüğüyle izlenebilir.",
+    "Performans görevi olarak öğrencilerin kültürümüzde önemli yeri olan sanatçılardan birinin hayatı ve eserleriyle ilgili araştırma yapıp sunmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.10.2.1. Müziğin insan hayatına ve toplum yaşamına etkileriyle ilgili düşüncelerini keşfetmeleri için öğrencilere sorular sorularak öğrencilerin keşfetme isteği harekete geçirilir ( E1.1 ). Türk müziğinin gelişim sürecini etkileyen tarihsel, kültürel, siyasi ve teknolojik etkenler İslamiyet öncesi, İslamiyetin kabulü, Selçuklu ve beylikler dönemi, Osmanlı Dönemi ve Cumhuriyet dönemine kadarki süreç çeşitli kaynaklardan incelenir. Bu süreçte serbest araştırma veya zincir haritaları gibi yöntemler kullanılabilir. Öğrencilerden Türk müziğinin yapısı, bestecileri, çalgılar, üslup ve icra biçimi, müzik formları (şarkı, beste, peşrev, saz semaisi, ilahi, mehter vb.), yayılma alanı, dinleyici kitlesi gibi etkilenen yönleri hakkında araştırma yapmaları istenir ( D3.3 , OB1 ). Türk müziğinin gelişim sürecinde müziğin toplum hayatına etki eden olumlu ve olumsuz yönlerini sorgulamaları sağlanır ( SDB3.3 ). Ayrıca Türk müziğinin toplum hayatına kültürel, toplumsal, eğitsel, estetik ve psikolojik etkilerini fark etmeleri sağlanır. Bu süreçte beyin fırtınası yöntemi kullanılabilir. Öğrencilerin, ulaştıkları bilgiler doğrultusunda Türk müziğinin gelişim sürecindeki değişimler, bu değişimlerin nedenleri ve sonuçlarını bağlamından kopmadan sözlü olarak ifade etmeleri istenir. Bu süreçte Türk kültür ve medeniyet tarihi disiplininden faydalanılabilir. Bu aşamada tartışma yöntemi kullanılabilir. Türk müziğinin gelişim sürecindeki değişimleri, bu değişimlerin nedenlerini ve sonuçlarını yorumlayabilmeye yönelik öğrenmeler çalışma yaprağıyla izlenebilir.",
+    "MÜZ.10.2.2. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, nefes ve ses egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır. Türk müziği türlerinden örnekler dinletilerek kullanılan çalgıları, Türk müziği formlarını ve söyleyiş özelliklerini ayırt etmeleri ve bu yolla kültürlerini fark etmeleri sağlanır ( SAB9 , OB5 ). Bu süreçte Türk dili ve edebiyatı disiplininin \"kültür yolculuğu\" konusundan faydalanılabilir. Öğrenciler gruplara ayrılır. Her grubun ortak çalışma sorumluluğu üstlenerek Türk müziği türüne ait bir eser seçmeleri istenir ( SDB2.2 ). Seçilen eserleri uygun söyleme tekniklerini kullanarak söylemeleri sağlanır. Bu süreçte kulaktan şarkı öğretim yöntemi kullanılabilir. Seslendirme çalışmalarında öğrencilerin öz güvenli olmaları desteklenir ( E1.5 ). Türk müziği eserleri söyletilirken seçilen eserlerin konu edindiği hikâye ve anlatımlardan hareketle dönemsel ya da coğrafi özelliklere, toplumun sosyokültürel yapısına ilişkin çıkarım yapmaları sağlanarak millî ve manevi değerlerin önemine dikkat çekilir ( D11.2 ). Seçilen eserler söylenirken öğrencilerin ritmik yapıyı ayırt etmeleri için esere alkış tutarak, parmak şıklatarak ve farklı materyaller kullanarak eşlik etmeleri istenir. Böylece eserlerin söylenmesi sırasında ritminin korunmasına yardımcı olunması sağlanır. Bu süreçte gösterip yaptırma tekniği kullanılabilir. Öğrencilerin seçilen eserleri müziksel bileşenleri uygulayarak toplu söylemeleri beklenir. Türk müziğine ait eserleri müziksel söylemeye yönelik öğrenmeler derecelendirme ölçeğiyle izlenebilir.",
+    "MÜZ.10.2.3. Öğrencilere günlük yaşantılarında hangi türde müzikler dinledikleri sorulur; ardından farklı müzik türlerinden örnekler dinletilir. Öğrencilerin çeşitli müzik örneklerini merak ederek ve ön yargısız şekilde dinlemeleri, farklı fikir ve önerilere açık olmaları istenir ( E3.5 , SDB2.3 ). Öğrencilere dinletilen farklı müzik türlerini tanımaları için türlerin özelliklerine dikkat çekilerek bilgiler verilir ( SAB9 ). Verilen bilgiler sonrası dinletilen müzik türünün ne olduğuna dair tartışma yapmaları istenir. Arkadaşlarının görüşlerine değer vermeleri, farklı kültürleri keşfetmeleri beklenir ( OB5 , D4.5 ). Bu tartışmalar doğrultusunda bir müziği \"tür\" olarak ele almak için gereken ölçütleri belirlemeleri istenir. \"Dinlediğiniz müzikte hangi çalgılar var?\", \"Dinlediğiniz müziklerin ritmik yapısını algılıyor musunuz?\", \"Dinlediğiniz müzikte duyduğunuz tınılar yerel mi evrensel mi?\" gibi sorular sorularak öğrencilerin müzik türlerini ayrıştırmaları sağlanır. Bu süreçte balık kılçığı tekniğinden yararlanılabilir. Ayrıştırmalar sonrası türkü, şarkı, enstrümantal müzik, klasik müzik, elektronik müzik, pop, rap, hip-hop, caz, rock, metal, blues gibi müzik türlerini tasnif etmeleri beklenir. Tasnif edilen müzik türlerini Türk müziği, Batı müziği, etnik müzik ve popüler müzik gibi ana başlıklarıyla etiketlemeleri istenir. Müzik türlerini sınıflandırmaya yönelik öğrenmeler yapılandırılmış grid ile izlenebilir.",
+    "MÜZ.10.2.4. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, nefes ve ses egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır ( D13.2 ). Çalışılacak eserin notaları, sözlerinin ve müziksel ifadelerinin takip edilebilmesi için basılı şekilde dağıtılabilir ya da dijital/teknolojik araçlar aracılığıyla yansıtılabilir. Öğrencilere zaman tanınarak sistematik bir şekilde notaları ve müziksel terim ve işaretleri incelemeleri beklenir ( E3.7 , OB9 ). Seslendirilecek eserler dinletilerek söz ve notayı takip etmeleri istenir ( SAB9 ). Eserin türü, bestecisi, söz yazarı vb. sorularak seslendirme çalışmalarına başlanır. Marşları, şarkıları ve türküleri uygun teknikleri kullanarak söylemeleri sağlanır. Bu süreçte kulaktan veya notayla şarkı öğretimi yöntemi kullanılabilir. Müziksel bileşenlerden ritmik yapının ayırt edilmesi ve eserin doğru seslendirilebilmesi için ana hatlarını oluşturan ritmik kalıplar tekrar ettirilir. Eserlerdeki ritim kalıplarının öğretimini kolaylaştırmak için şehir, çiçek, meyve isimleri veya tekerlemelerden faydalanılır. Seslendirilecek eserde entonasyona ve müziksel ifadelerin doğru kullanılmasına dikkat çekilerek performansın kalitesini ve müzikal iletişimi nasıl etkileyeceği hakkında tartışma ortamı oluşturularak sözlü etkileşime katılmaları sağlanır ( SDB2.1 ). Marş, şarkı ve türkü örneklerini müziksel bileşenlerini uygulayarak toplu söylemeleri beklenir. Marşlar, şarkılar ve türküler söyletilirken dönemin sosyokültürel yapısına, millî ve manevi değerlerin önemine dikkat çekilerek dağarcık oluşturmaları beklenir. Marşları, şarkıları ve türküleri müziksel söylemeye yönelik öğrenmeler dereceli puanlama anahtarı veya kontrol listesi ile izlenebilir.",
+    "MÜZ.10.2.5. Öğrencilere yaşadıkları şehirde önceki yıllarda düzenlenmiş müzik etkinliklerinin veya festivallerin kısa videolarından oluşan bir tanıtım filmi izletilir veya bu etkinliklerle ilgili fotoğraf, afiş vb. gösterilir. Öğrencilerin gözlem, araştırma, broşür ve afiş incelemesi yapma gibi tekniklerle o yıl içinde yapılacak müzik etkinliklerine yönelik bilgi toplamaları istenir. Müzik etkinliklerindeki \"etkinlik türü, katılımcı profili, mekân seçimi, etkinlikte yer alan sanatçılar\" gibi ayrıntıları araştırarak ortak olan ve olmayan özellikleri belirlemeleri istenir. Etkinlikler arasındaki çeşitlilik ve farklılıkları merak ederek keşfetmeleri sağlanır ( E1.1 ). Yaşadıkları şehirde periyodik şekilde gerçekleştirilen müzik etkinlikleriyle ilgili örüntüleri belirlemeleri istenir. Zaman-etkinlik türü, mekân-müzik türü, sanatçı-mekân ilişkisi, katılımcı profili-mekân ilişkisi, sosyal medya-etkinlik mekânı ilişkisi gibi verileri tablo üzerinde göstermeleri istenir ( OB7 ). Tablo üzerinde gösterilen veriler aracılığıyla yaşadıkları şehrin müzik yaşantısı hakkında çıkarım yapmaları istenir ( KB2.8 ). Tablo üzerinde gösterilen örüntüler aracılığıyla yaşadıkları şehrin müzik yaşantısı hakkında önermede bulunmaları istenir. Çıkarımlarını tartışmaları, bu esnada arkadaşlarını etkin şekilde dinlemeleri ve diğer öğrencilerin farklı görüşlerine saygılı olabilmeleri sağlanarak dostluk bilincini geliştirmeleri hedeflenir ( SDB2.2 , D4.2 ). Yaşanılan şehrin müzik etkinliklerini genellemeye yönelik öğrenmeler öğrenme günlüğüyle izlenebilir.",
+    "Bu temada performans görevi olarak öğrencilerin istedikleri bir müzik türünü seçmeleri, bu müzik türünde kültürümüze katkıda bulunmuş sanatçılardan biri hakkında araştırma yapmaları ve bu araştırmayı sunmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D13.2",
+      "D3.3",
+      "D4.2",
+      "D4.5"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E3.5",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB5",
+      "OB7",
+      "OB9"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/590"
+}

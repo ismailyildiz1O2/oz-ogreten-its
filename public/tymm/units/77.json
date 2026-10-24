@@ -1,0 +1,78 @@
+{
+  "unitId": 77,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "3. ÜNİTE: AKIL VE İNANÇ",
+  "hours": "10",
+  "description": "Bu ünitede öğrencilerin akıl-inanç ilişkisine yönelik felsefi soru ve problemleri hayatla ilişkilendirerek anlamlandırması, felsefi düşünce ortaya koyabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.11.3.1",
+      "title": "Akıl-inanç ilişkisiyle ilgili felsefi soru ve problemleri anlayabilme",
+      "processComponents": [
+        "a) Akıl-inanç ilişkisiyle ilgili felsefi soru ve problemleri açıklar.",
+        "b) Akıl-inanç ilişkisiyle ilgili felsefi soru ve problemleri hayatla ilişkilendirerek değerlendirir."
+      ]
+    },
+    {
+      "code": "FEL.11.3.2",
+      "title": "Akıl-inanç ilişkisiyle ilgili felsefi düşünce ortaya koyabilme",
+      "processComponents": [
+        "a) Akıl-inanç ilişkisiyle ilgili felsefi argümanları çözümler.",
+        "b) Akıl-inanç ilişkisiyle ilgili görüş ve argüman oluşturur.",
+        "c) Akıl-inanç ilişkisiyle ilgili felsefi metin yazar."
+      ]
+    }
+  ],
+  "keyConcepts": "akıl, gönül, inanç",
+  "support": [
+    "Akıl ve inanç problemlerinin hayatla ilişkilendirilmesinde iş birlikli öğrenme yöntemlerinden yararlanılabilir.",
+    "Akıl ve inanç ilişkisinin felsefe tarihindeki örnekler çerçevesinde çözümlenmesinde sadeleştirilmiş metinler verilebilir.",
+    "Felsefi metin yazma sürecinde akıl ve inanç ilişkisiyle ilgili görüş ve argümanlar sunularak yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "İslam felsefesindeki Gazali ile meşşai ekolü arasındaki tartışmalar hakkında görüş geliştirilebilir.",
+    "İbni Rüşd'ün \"Felsefe (akıl) dinin arkadaşı, süt kardeşidir. Hakikat hakikate ters düşmez, onu destekler.\" sözüyle I. Kant'ın \"İnanca yer açmak için bilgiyi sınırladım.\" sözü akıl ve inanç ilişkisi açısından karşılaştırılarak sorgulanabilir.",
+    "Korku ve Titreme eserinde S. Kierkegaard'ın akıl ve inanç ilişkisi üzerine görüşlerinin değerlendirildiği bir yansıtma yazısı yazılabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin öğrenme çıktıları; öz veya akran değerlendirme formu, çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrenciler, akıl-inanç ilişkisiyle ilgili felsefi bir metin yazmaları istenebilir. Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.11.3.1",
+    "Öğrencilerin akıl-inanç ilişkisiyle ilgili felsefi soru ve problemleri anlamaları amaçlanır. Bunun için;",
+    "• Bilme, anlama ve güvenme durumlarının inanç ile ilişkisini açığa çıkaracak nitelikte örnek durumlar verilerek yönlendirici sorular aracılığıyla öğrencilerin, bilgi- inanç-güven ilişkisi hakkında düşüncelerini açıklamaları sağlanır. Bu aşamada öğrencilerden kendi örneklerini vermeleri istenir ( OB1 ). Ardından akıl-inanç ilişkisine yönelik felsefi sorular (İnancın temellendirilmesinde aklın rolü nedir? İnançta akıl zorunlu mudur? Anlamak için mi inanılır? İnanç akıl üstü müdür?) verilerek öğrencilerin, bu sorulara yönelik görüşlerini iş birlikli olarak açıklamaları sağlanır ( SDB2.2 ). Verilen cevaplardan hareketle öğrencilerden, akıl–inanç ilişkisinden doğan felsefi problemin (inancın akılla temellendirilmesinin imkânı) insan hayatı açısından önemini sorgulayan kısa bir metin yazmaları ve sınıfta sunmaları istenir ( E3.3 , KB2.8 ). Bu aşamada öğrencilerin duygu ve düşüncelerini fark ederek davranışlarında kontrollü olmaları sağlanır ( D12.2 ). Süreç öz veya akran değerlendirme formu ile değerlendirilebilir.",
+    "FEL.11.3.2",
+    "Öğrencilerin akıl inanç ilişkisiyle ilgili felsefi düşünce ortaya koymaları amaçlanır. Bunun için;",
+    "• Öğrencilere felsefe tarihinde inancın temellendirilmesinde aklın rolü, önemi ve gereği üzerine yapılan tartışmalara ilişkin yapılandırılmış bir metin ya da bilgi görseli verilir. Yönlendirici sorular aracılığıyla öğrencilerden bu metin ya da bilgi görselinde yer alan düşünce ve argümanları çözümlemeleri istenir ( KB2.4 ). Ardından öğrencilerin akıl-inanç ilişkisinin tarihsel, kültürel ve düşünsel bağlamları hakkında görüş ve argümanlarını sözlü biçimde ifade etmeleri sağlanır ( E3.10 ).",
+    "• Akıl-inanç ilişkisi problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada öğrencilere filozofların (Tertullianus, Augustinus, Farabi, Gazali, Yûsuf Has Hâcib, Hacı Bektaş Veli, Yunus Emre, Mevlana, Âşık Paşa, S. Kierkegaard) eserlerinden alıntılanan ve her biri en fazla yüzer kelimeden oluşan metinler verilir. Bu alıntılar aracılığıyla öğrencilerin metinlerde geçen temel kavramları, soruları ve argümanları belirlemeleri; filozofların görüşlerini rasyonellik, irrasyonellik ile akıl–inanç– gönül ilişkisi bağlamında benzer ve farklı yönleriyle karşılaştırarak değerlendirmeleri sağlanır ( KB3.3 ).",
+    "Öğrencilere akıl-inanç ilişkisine yönelik felsefi bir metin yazma performans görevi verilebilir. Öncelikle öğrencilerin bu ilişkiye yönelik felsefi kavram, soru, düşünce ve argümanları doğru biçimde kullanmalarını desteklemek amacıyla öğrencilere görsel okuma, cümle ve paragraf tamamlama ile örnek felsefi paragrafları kendi cümleleriyle baştan yazma alıştırmaları yaptırılır ( OB1 , SDB1.2 ). Alıştırma çalışmasından sonra öğrencilerden akıl-inanç ilişkisi hakkında çeşitli kaynaklardan (kitap, makale, dergi, rapor, gazete, istatistikler vb.) araştırma yapmaları ve elde ettikleri bilgilerdeki düşünce ve argümanları belirlemeleri istenir. Öğrencilerin felsefi bir metin yazmaları sağlanır ( E3.7 , KB3.3 ). Öğrenciler görev bilinci içinde planlı davranır ve felsefe literatürüne ilişkin farkındalık kazanır ( D3.2 , D16.3 ). Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D16.3",
+      "D3.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.3",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.4",
+      "KB2.8",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/77"
+}

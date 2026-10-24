@@ -1,0 +1,53 @@
+{
+  "unitId": 171,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Kur'an-ı Kerim Dersi",
+  "title": "2. TEMA: KUR’AN-I KERİM’İ OKUMAYA GİRİŞ",
+  "hours": "16",
+  "description": "Bu temada öğrencilerin; cezim, şedde ve tenvini seslendirmesi ve Tahiyyat duasının anlamını yorumlayıp okunuşunu ezberlemesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KK.5.2.1",
+      "title": "Cezimi ve Şeddeyi seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.5.2.2",
+      "title": "Tenvini seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.5.2.3",
+      "title": "Tahiyyat duasının anlamını yorumlayabilme",
+      "processComponents": [
+        "a) Tahiyyat duasının anlamını inceler.",
+        "b) Tahiyyat duasını kendi hayatı için anlamlı hâle getirir.",
+        "c) Tahiyyat duasını anlamını değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "KK.5.2.4",
+      "title": "Tahiyyat duasını ezberleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "cezim, rahmet, sükûn, şedde, tahiyyat, tenvin",
+  "support": [
+    "Cezim, şedde ve tenvini seslendirme becerilerini geliştirmek için öğrencilere bireysel veya küçük grup çalışmaları ile her birinin kendi hızlarında ilerlemelerine ve öğrenmelerine imkân tanınır. Farklılaştırılmış öğretimin destekleme boyutu; öğrenme sürecinde daha fazla zaman ve tekrara ihtiyaç duyan öğrenciler için içerik, süreç, ürün ve öğrenme ortamındaki uyarlamaları kapsar."
+  ],
+  "enrichment": [
+    "Kur'an-ı Kerim'i okumayı önceden bilen öğrenciler, Al-i İmran suresinin 30-60. ayetlerini yüzünden okumaya yönlendirilebilir. Öğrencilerden namaz surelerinden birini seçmeleri ve o surenin mealini okuyup araştırarak yansıtıcı günlükler hazırlamaları istenebilir. Öğrenciler cezim, şedde ve tenvin hakkında bilgi verici kısa bir film, animasyon veya video hazırlamaya teşvik edilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; dereceli puanlama anahtarı, kontrol listesi, çalışma yaprağı, gözlem formu, bilgi kartları, zihin haritası ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak cezim, şedde ve tenvine dair bir poster hazırlamaları ve sunmaları istenebilir. Yapılan çalışmalar; görsel tasarım, açıklık, anlaşılırlık, hedef kitleye uygunluk ve özgünlük ölçütleri bulunan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KK.5.2.1 Cezim (sükûn) ve şedde işaretleri bulunan harflerin doğru bir şekilde öğrenilmesi ve telaffuz edilmesi gerektiği belirtilerek bilişsel çıraklık tekniğiyle bu harfler seslendirilebilir. Seslendirme çalışmaları sınıf ortamında ve koro hâlinde de yapılabilir. Bu süreçte harflerin, geçerli ve güvenilir dijital kaynaklar kullanılarak tekrar edilmesine imkân sağlanır (OB2) . Sürecin değerlendirilmesinde cezim ve şedde işaretlerini içeren kelimelerin bulunduğu çalışma yaprağı kullanılabilir.",
+    "KK.5.2.2 Öğrencilerin ilk temada öğrendiği üstün, esre ve ötre bilgileri üzerinden anlatım ve buldurma yöntemiyle tenvini tanımaları sağlanabilir. Tenvin işareti bulunan harflerin doğru bir şekilde öğrenilmesi ve telaffuz edilmesi gerektiği belirtilerek bilişsel çıraklık tekniğiyle bu harfler seslendirilebilir. Öğrencilerin öğrenme kanıtlarında belirtilen performans görevini yapması sağlanabilir. Öğrencilerin bu görevleri yerine getirirken azimli ve kararlı olmayı ve çalışmalarında aktif olmayı öğrenmesi teşvik edilir (D3.1) . Performans göreviyle ilgili öğrencilere geri bildirim verilir.",
+    "KK.5.2.3 Tahiyyat duasının anlamı, rahmet ve tahiyyat kavramlarının manalarına değinilerek açıklanır. Öğrencilerden Tahiyyat duasının anlamını incelemeleri istenir. Öğrencilerin, duanın manasını ve okunduğu durumları göz önünde bulundurarak bu duayı kendi hayatı için anlamlı hâle getirmesi sağlanır. Öğrencilerin, söz konusu duanın anlamını duadaki bağlamından koparmadan kendi cümleleriyle ifade etmesi teşvik edilir. Bu süreçte din kültürü ve ahlak bilgisi ile Türkçe disiplinlerinden yararlanılır. Öğrencilerden Tahiyyat duasındaki rahmet, kul ve elçi kelimelerini kullanarak duanın anlamını kendi cümleleriyle yazmaları veya duanın anlamıyla ilgili zihin haritası oluşturmaları istenebilir. Ölçme değerlendirme sürecinde öğrencilerin duada geçen rahmet ve tahiyyat kavramlarından birini gruplar hâlinde araştırmaları ve bu araştırmanın sonucunu sınıfta sunmaları istenebilir. Bu çalışmalar esnasında öğrenciler, yardımlaşma ve takım çalışmasının önemini fark eder (SDB2.2) ve diğer öğrencilerin araştırma sonuçlarını dinleyerek yeni bakış açılarını ve konularını öğrenmeye istekli olur (SDB3.1) .",
+    "KK.5.2.4 Öğrencilerden Tahiyyat duasını ezberlemeleri istenir. Ezber çalışmalarında bilişsel çıraklık tekniği kullanılabilir. Bu süreçte geçerli ve güvenilir dijital kaynaklardan yararlanılabilir. Öğrencilerin söz konusu duayı doğru telaffuz edebilmeleri için tekrar etmeleri istenebilir. Ezber çalışmaları sınıf ortamında ve koro hâlinde yapılabilir. Duanın nerede okunabileceğiyle ilgili bilgi kartları hazırlanabilir. Öğrencilerin, zihinsel ve bedensel yetilerini en iyi düzeyde kullanma ve gerekli çabayı gösterme (E3.2) konusunda teşvik edilerek Tahiyyat duasını ezberden okuma becerisini geliştirmesi sağlanır. Tahiyyat duasının ezberden okunması ve seslendirilmesine yönelik uygulamalar, kontrol listesi ve gözlem formu aracılığıyla değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/171"
+}

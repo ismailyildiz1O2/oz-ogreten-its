@@ -1,0 +1,66 @@
+{
+  "unitId": 80950001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "1. ÜNİTE: 9. SINIF - AKADEMİK GELİŞİM",
+  "hours": "9",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.1.1",
+      "title": "Okulun yakın çevresini, bölümlerini ve okulda çalışan personeli tanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.2",
+      "title": "Eğitim öğretim sürecine ilişkin yönetmeliklerin kendisini ilgilendiren kısımları hakkında bilgi sahibi olur",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.3",
+      "title": "Okulunun ve sınıfının bir üyesi olduğunu fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.4",
+      "title": "Okul hazırlığına ilişkin sorumluluklarını üstlenir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.5",
+      "title": "Okulun eğitsel imkânları hakkında bilgi edinir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.6",
+      "title": "Akademik gelişimi için amaçlar oluşturur",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.7",
+      "title": "Okula devam etme ile akademik gelişimi arasındaki ilişkiyi değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.1.8",
+      "title": "Okul ve çevresinde risk oluşturabilecek durum ve ortamlara karşı kendisini korur",
+      "processComponents": [
+        "Çalışan Sağlığı ve İş Güvenliği Kurulunun tanımladığı riskler ile okulda ve çevresinde çocukların yaşamlarını tehdit eden riskli durum (duvara tırmanma, güvenli olmayan gıdaları alma vb.) ve ortamlar (çay ocağı, kantin içi, bodrum katlar, internet kafeler, göletler, açık çukurlar vb.) üzerinde durulur."
+      ]
+    },
+    {
+      "code": "REH.1.9",
+      "title": "Akademik amaçlarını gerçekleştirme konusunda kendini değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

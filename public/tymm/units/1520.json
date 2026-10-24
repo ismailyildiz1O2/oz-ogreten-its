@@ -1,0 +1,38 @@
+{
+  "unitId": 1520,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Yapay Zekâ Uygulamaları Dersi",
+  "title": "DÜZEY II · 2. Tema: Yapay Zekâ Uygulama-Gelıştırme Ortamları",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YZU2.2.1",
+      "title": "Metin tabanlı yapay zekâ uygulama-geliştirme ortamını hazırlama",
+      "processComponents": [
+        "a) Metin tabanlı yapay zekâ uygulama-geliştirme ortamlarını tanır.",
+        "b) Metin tabanlı yapay zekâ uygulama-geliştirme ortamını belirler.",
+        "c) Metin tabanlı yapay zekâ uygulama-geliştirme ortamını düzenler."
+      ]
+    },
+    {
+      "code": "YZU2.2.2",
+      "title": "Metin tabanlı yapay zekâ uygulama-geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+      "processComponents": [
+        "a) Metin tabanlı yapay zekâ uygulama-geliştirme süreci bileşenlerini tanır.",
+        "b) Metin tabanlı yapay zekâ uygulama-geliştirme süreci bileşenlerini kullanır.",
+        "c) Metin tabanlı yapay zekâ uygulama-geliştirme süreci bileşenlerini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "metin tabanlı programlama, yapay zekâ kütüphaneleri",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB3. Yazılım Geliştirme (BTYAB3.1. Yazılım Geliştirme Ortamını Hazırlama), BTYAB3. Yazılım Geliştirme (BTYAB3.2. Yazılım Geliştirme Sürecinde Kullanılan Bileşen/Yapı/Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1520"
+}

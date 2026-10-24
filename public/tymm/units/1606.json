@@ -1,0 +1,57 @@
+{
+  "unitId": 1606,
+  "grade": 0,
+  "gradeName": "2. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY II · 5. Ünite: Drama Ve Diğer Sanatlar",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.2.5.1",
+      "title": "Drama ile tuluatı ve meddahı karşılaştırabilme",
+      "processComponents": [
+        "a) Tuluat ve meddahın özelliklerini belirler.",
+        "b) Tuluat ve meddahın drama ile benzerliklerini sıralar.",
+        "c) Tuluat ve meddahın drama ile farklılıklarını sıralar."
+      ]
+    },
+    {
+      "code": "OOED.2.5.2",
+      "title": "Canlandırılacak karakterin özelliklerini yansıtan özgün maske tasarlayabilme",
+      "processComponents": [
+        "a) Drama karakterinin özelliklerini maske tasarlayarak inceler.",
+        "b) Tasarladığı maskeden yararlanarak drama karakterinin özelliklerini canlandırmalar yoluyla ifade eder. OOED.2.5.3. Canlandırılacak karakterin özelliklerini yansıtan özgün kukla oluşturabilme",
+        "a) Drama karakterinin özelliklerini kukla tasarlayarak ifade eder.",
+        "b) Kukla tasarımını drama karakterinin özelliklerini yansıtacak biçimde sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "OOED.2.5.4",
+      "title": "Görsel sanat ürünlerini kullanarak canlandırmalar yoluyla rol oynayabilme",
+      "processComponents": [
+        "a) Görsel sanat ürünündeki tema, karakter, olay örgüsü ile rolün gerektirdiği bileşenler arasındaki ilişkiyi inceler.",
+        "b) Görsel sanat ürününün temasına, karakterine, olay örgüsüne uygun olarak canlandırma çalışmaları yapar. OOED.2.5.5. Drama yoluyla görsel sanat ürünü oluşturabilme",
+        "a) Görsel sanat ürünündeki konu veya kavramı doğaçlama tekniğiyle ifade eder.",
+        "b) Doğaçlamalar yoluyla konu veya kavramı resim, kolaj, doğal malzemeler aracılığıyla sanat ürününe dönüştürür."
+      ]
+    },
+    {
+      "code": "OOED.2.5.6",
+      "title": "Beden aracılığı ile heykel formları yapılandırabilme",
+      "processComponents": [
+        "a) Beden aracılığıyla heykel formları ortaya koyar.",
+        "b) Beden aracılığıyla heykel formlarından yararlanarak doğaçlama oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "doğaçlama, görsel sanatlar, heykel, kukla, maske, meddah, somut olmayan kültürel miras, tiyatro, tuluat",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB4. Sanatsal Üretim Yapma (SAB4.1. Sanatsal Ürün Tasarlama), SAB4. Sanatsal Üretim Yapma (SAB4.2. Sanatsal Ürün Oluşturma), SAB14. Sahneleme (SAB14.4. Rol Oynama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1606"
+}

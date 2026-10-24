@@ -1,0 +1,56 @@
+{
+  "unitId": 1416,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyolonsel Modülü",
+  "title": "3. TEMA: BOŞ TELLERDE YAY ÇALIŞMALARI",
+  "hours": "18",
+  "description": "Temada viyolonselde boş teller üzerinde doğru yay çekme tekniğini uygulamaya yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VLS.2.3.1",
+      "title": ". Boş tellerde yay çekme-itme hareketlerini uygulayarak çalabilme a)Çalınacak etüdü çözümler.",
+      "processComponents": [
+        "b) Boş tellerde yay çekme ve itme hareketlerini uygularken duruş ve tutuş pozisyonunu alır.",
+        "c) Boş tellerde yay çekme-itme hareketlerini çalgıya özgü tekniklerle kullanır.",
+        "ç) Boş tellerde yay çekme-itme hareketlerini müziksel bileşenlerle ilişkilendirerek uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "viyolonsel, yay",
+  "support": [
+    "Öğretmen, yay çekme tekniğinde öğrencilere bire bir rehberlik sunarak özellikle kol açısı, bilek hareketi ve duruş gibi ayrıntılarda yönlendirme yapabilir. Hareketin detaylarını daha iyi kavrayabilmeleri için yay çekme ve itme hareketlerini yavaşlatarak gösterir ve öğrencilerin adım adım tekrar etmelerini sağlanabilir. Öğrencinin yay çekme tekniğini dikkatle izleyip bireysel geri bildirim verir; doğru yapılan kısımları övgüyle pekiştirirken geliştirilebilecek alanlarda açıklamalar yapar ve teknik gelişimlerini desteklemesi sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin metronom kullanarak çeşitli hızlarda yay çekme alıştırmaları yapmaları sağlanarak tekniklerini geliştirmeleri teşvik edilebilir. Piyano ve forte çalma denemeleri yaparak yay çekme hızını müzikal ifadeye nasıl adapte edeceklerini araştırabilir. Ayrıca ünlü viyolonsel sanatçılarının performans videoları izletilerek yay çekme tekniklerini ve müzikal ifadelerini gözlemlemeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi ve performans görevi ile ölçülebilir. Performans görevi olarak öğrencilerden viyolonselin bakım ve korunmasıyla ilgili öğrendiklerine ilişkin sunum yapmaları ya da poster gibi bir materyal hazırlamaları istenebilir. Performans görevi, gözlem formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VLS.2.3.1",
+    "Öğretmen, öğrencilere boş telde yay çekme ve itme hareketlerinin temel unsurlarını göstermek için bir uygulama yapar. Bu süreçte öğretmen, öğrencilerin yay pozisyonu, kol açısı ve hızına dikkat ederek doğru duruş ve tutuş pozisyonunu almalarına rehberlik eder ( OB4 ). Öğretmen, \"Yay çekerken bileğimizin hareketi nasıl olmalı?\" ve \"Kol açısını koruyarak yay çekmek neden önemlidir?\" gibi sorularla öğrencilerin dikkat, öz disiplin ve odaklanma becerilerini geliştirmeye yönelik düşünmelerini sağlar. Öğrenciler, öğretmenin verdiği etüdün bonasını yaparak etüdün içindeki notaların, yay hareketlerinin ve ritmik yapının nasıl uygulanacağını çözümler. Öğrenciler, doğru duruş ve tutuş pozisyonlarını aldıktan sonra boş teller üzerinde yavaş bir hızda yay çekme ve itme hareketini uygulamaya başlar. Öğrenciler yay çekme sırasında bilek ve kol açısına dikkat ederek çalgıya özgü teknikleri kullanır ve deneyimlerini gözden geçirerek yay hareketlerini planlı bir şekilde kontrol eder ( KB2.15 ). Öğrenciler hedeflere ulaşmak için hazırladıkları planları uygular ( D3.2 ). Öğrenciler sırayla çalgı üzerinde uygulama yapar ve diğer arkadaşlarının yay pozisyonunu gözlemleyerek geri bildirimde bulunabilir. Bu süreçte, öğrencilerin birbirlerine saygı ve iş birliği içinde çalışması sağlanır ( SDB2.1 ). Daha sonra, öğrenciler belirlenen bir hızda yay çekme ve itme hareketlerini metronom eşliğinde uygular. Bu süreçte, öğrenciler yay çekme hızını ve hareketlerini müziksel bileşenlere uygun bir şekilde çalabilmek için odaklanır. Performans görevi olarak öğrencilerden, öğretmenin belirlediği bir tempoda yay çekmeleri istenebilir. Bu çalışmada, öğrenciler öz değerlendirme ve akran değerlendirme formlarıyla uygulamalarını analiz ederek eksik yönlerini fark edebilir. Öğrenciler zayıf ve güçlü yönlerinin farkında olur ( D10.1 , E3.2 , SDB1.1 , SDB2.3 ). Öğrenciler, öğretmenin sağladığı geri bildirimleri dikkate alarak doğru yay tekniği üzerinde çalışır ve her başarılı uygulama sonunda öz güvenlerini geliştirir ( E1.5 ). Performans görevi, gözlem formu veya analitik dereceli puanlama anahtarı kullanarak değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.15"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1416"
+}

@@ -1,0 +1,96 @@
+{
+  "unitId": 1508,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Çevre Eğitimi ve İklim Değişikliği Dersi",
+  "title": "6. Ünite: Sürdürülebilir Kalkınma Ve Çevre",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ÇEİD.6.1",
+      "title": "Sürdürülebilir kalkınma açısından geri dönüşüm ve geri kazanımı karşılaştırabilme",
+      "processComponents": [
+        "a) Sürdürülebilir kalkınma açısından geri dönüşüm ve geri kazanıma ilişkin özellikleri belirler.",
+        "b) Sürdürülebilir kalkınma açısından geri dönüşüm ve geri kazanıma ilişkin benzerlikleri listeler.",
+        "c) Sürdürülebilir kalkınma açısından geri dönüşüm ve geri kazanıma ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "ÇEİD.6.2",
+      "title": "Atık malzemelerden yararlanarak günlük hayatta kullanabileceği bilimsel bir ileri dönüşüm modeli oluşturabilme",
+      "processComponents": [
+        "a) Atık malzemelerden yararlanarak günlük hayatta kullanabileceği ileri dönüşüm modeli önerir.",
+        "b) Atık malzemelerden yararlanarak günlük hayatta kullanabileceği ileri dönüşüm modelini yeni kanıtlarla geliştirir."
+      ]
+    },
+    {
+      "code": "ÇEİD.6.3",
+      "title": "Sürdürülebilir kalkınmayı destekleyen örnek uygulamalara ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Sürdürülebilir kalkınmayı destekleyen örnek uygulamalarla ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Sürdürülebilir kalkınmayı destekleyen örnek uygulamalarla ilgili bilgileri bulur.",
+        "c) Sürdürülebilir kalkınmayı destekleyen örnek uygulamalara yönelik ulaşılan bilgileri doğrular.",
+        "ç) Sürdürülebilir kalkınmayı destekleyen örnek uygulamalara yönelik ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "ÇEİD.6.4",
+      "title": "Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemi çözebilme",
+      "processComponents": [
+        "a) Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemi yapılandırır.",
+        "b) Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemi özetler.",
+        "c) Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemin çözümüne yönelik gözleme dayalı tahminde bulunur.",
+        "ç) Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemin çözümüne yönelik değerlendirmede bulunur."
+      ]
+    },
+    {
+      "code": "ÇEİD.6.5",
+      "title": "Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarına yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarına yönelik bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarıyla ilgili bilgileri bulur.",
+        "c) Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarıyla ilgili bulduğu bilgileri doğrular.",
+        "ç) Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarıyla ilgili ulaşılan bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "bilinçli tüketim, çevre bilinci, geri dönüşüm, geri kazanım, ileri dönüşüm, ikiz dönüşüm, kariyer bilinci, sıfır atık, sürdürülebilir kalkınma, verimlilik, yeniden kullanım, yeşil dönüşüm, yeşil meslekler",
+  "support": [
+    "Günlük hayattaki istek ve ihtiyaçlarını belirlemeleri ve belirledikleri bu istek ve ihtiyaçların sürdürülebilir kalkınma açısından değerlendirmeleri istenebilir.",
+    "Su tasarrufu konusunda günlük uygulayabileceği önlemleri belirlemeleri istenebilir.",
+    "Evde ya da okulda ortaya çıkan atıklardan ileri dönüşüm bağlamında neler yapılabileceğine ilişkin bir öneri listesi hazırlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Evlerindeki su saatlerini okuyarak bir haftalık su tüketimini ve tüketilen suyun nerelerde kullanıldığını belirlemeleri istenebilir. Elde ettikleri verilere göre su tasarrufu konusunda uygulamaya dönük önlemler belirleyerek çevreleriyle paylaşmaları istenebilir.",
+    "Su faturalarını incelemeleri istenebilir. Bir aylık su tasarrufu planı oluşturup uygulamaları ardından gelen su faturasıyla ilk faturayı karşılaştırarak oluşturulan planların işlerliğini değerlendirmeleri istenebilir.",
+    "Yaşadıkları çevredeki yerel yönetimlerin sürdürülebilir kalkınmayı destekleyen örnek uygulamalarını araştırarak bu uygulamaların tanıtımları ve desteklenmesi konusunda bir sosyal farkındalık projesi hazırlamaları istenebilir.",
+    "Okulda ortaya çıkan atıkları değerlendirebileceği ve okul içerisinde kullanılabilecek bir ileri dönüşüm modeli tasarlamaları istenebilir. Aynı süreçler evde ortaya çıkan atıklar için de genişletilebilir.",
+    "Günlük hayatta sık kullanılan ürünleri istek ve ihtiyaçlar bağlamında değerlendirerek sürdürülebilir kaynak kullanımı açısından özetleyen ve farkındalık oluşturan bir öneri listesi oluşturmaları ve çevreleriyle paylaşmaları istenebilir.",
+    "Çevre, iklim ve sürdürülebilir kalkınma gibi alanlarda çalışan mühendis, bilim insanları vb. uzmanlarla önceden hazırladıkları sorular doğrultusunda röportaj yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, çalışma kâğıtları, yapılandırılmış grid, açık uçlu sorular, performans görevleri vb. ölçme ve değerlendirme araçları kullanılabilir. Ayrıca bu süreçte ortaya çıkan öğrenci ürünleri geleneksel veya eko dijital ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir.",
+    "Öğrencilere atık malzemelerden yararlanarak günlük hayatta kullanılabilecek bir model oluşturmalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Öğrencilere sürdürülebilir kalkınmayı destekleyen örnek uygulamalar konusunda bireysel ya da grup olarak poster, afiş, rapor vb. hazırlamalarını içeren performans görevleri verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştığı bir problemi belirleyerek çözüm üretmelerini içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanları konusunda afiş vb. hazırlamalarını içeren performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇEİD.6.1",
+    "Öğrencilere günlük hayattaki istek ve ihtiyaçlarıyla ilgili açık uçlu sorular yöneltilebilir ( E1.1 , E3.5 ). Öğrencilerin günlük hayattaki istek ve ihtiyaçlarının sürdürülebilir yaşama etkilerine ilişkin akvaryum, tereyağı-ekmek vb. tekniklerle sorgulama yapmaları sağlanabilir ( E3.8 , E3.10 ). İstek ve ihtiyaçların sürdürülebilir yaşam üzerinde önemli bir etkisinin olduğunu fark etmeleri sağlanır ( D5.2 , OB8 ). İstek ve ihtiyaçlar sonucu ortaya çıkan atıkların sürdürülebilir bir şekilde değerlendirilmesine ilişkin fikirleri sorulur. Öğrencilerin geri dönüşüm ve geri kazanım kavramlarına ilişkin görüşleri beyin fırtınası, açık uçlu sorular vb. sorgulanır ( E1.1 , E3.5 ). Kavramlar kısaca açıklanır. Öğrencilerin gruplara ayrılarak geri dönüşüm ve geri kazanımın sürdürülebilir kalkınmaya etkisini gösteren görsel, video/animasyonlar, basılı kaynak, dijital içerik vb. materyalleri incelemeleri sağlanır ( OB1 , OB2 , OB4 , OB8 , E1.1 , E3.4 ). İnceleme sonunda öğrencilerden sürdürülebilir kalkınma açısından geri dönüşüm ve geri kazanıma ilişkin özellikleri belirlemeleri istenir ( E3.6 ). Öğrencilerin bu kavramlara ait özellikleri belirledikten sonra bu kavramların benzerlik ve farklılıklarını belirlemeleri istenir. Öğrencilerin belirledikleri benzerlik ve farklılıkları kendi cümleleriyle listelemeleri beklenir ( OB1 , KB3.3 ). Öğrencilerin süreç içerisinde merak ettiği soruları sormaları beklenir ( E1.1 , E3.8 ). İleri dönüşüm ve yeniden kullanım kavramları açıklanarak öğrencilerin örnekler vermeleri istenebilir ( E3.5 ). Kırkyama, eşyaların onarılarak kullanılması, bitkisel atıkların hayvan yemi olarak kullanılması, kullanılmayan eşyaların ihtiyacı olanlarla paylaşılması vb. örneklerle Türk-İslam kültüründeki yerine değinilerek bu konuda kültürün önemini fark etmeleri sağlanır ( D19.3 ). T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından yürütülen Sıfır Atık Projesi ve atık değerlendirme konusunda yapılan farklı projelerden bahsedilir. “Okul Dışı Öğrenme Ortamları” genel ağ sayfasından da yararlanılabilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, eşleştirme testi vb. kullanılabilir.",
+    "ÇEİD.6.2",
+    "Öğrencilere atık malzemeler ve ileri dönüşüm kavramı ile ilgili açık uçlu sorular sorulur ( E3.5 ). Öğrencilerden performans görevi olarak atık malzemelerden yararlanarak günlük hayatta kullanabilecekleri Fen, Teknoloji, Mühendislik ve Matematik (FeTeMM) yaklaşımına uygun bir model oluşturmaları istenir. Gruplara ayrılan öğrencilerden atık malzemelerden yararlanarak hazırlayacakları ve günlük hayatta kullanabilecekleri ileri dönüşüm modeli önermeleri istenir ( E1.5 , E3.3 , SDB2.2 ). Önerilen modeli iş birlikli, sorgulayıcı veya proje tabanlı öğrenme model ve yaklaşımlarını kullanarak tasarlamaları beklenir ( SDB2.2 , E3.3 , E3.6 ). Öğrencilerden açık fikirli ve üretken davranmaları, grup içinde yardımlaşarak çalışmaları istenir ( SDB2.2 , E3.3 , E3.5 , D20.2 ). Model tasarlama sürecinde planlarını zamanında ve eksiksiz yürütmeleri istenir ( D12.3 , D16.3 ). Modellerini belirledikleri araç gereçten yola çıkarak estetik bakış açısıyla özgün ve bütüncül bir anlayışla tasarlamaları sağlanır ( D7.2 , OB1 , E3.3 ). Tasarladıkları modelleri diğer modellerle karşılaştırıp tespit ettikleri hata ve eksiklikleri değerlendirerek modellerini geliştirmeleri sağlanır ( SDB1.3 , E3.1 , KB2.14 ). Model tasarlama süreci teknoloji ve tasarım dersi ile ilişkilendirilebilir. Hazırlanan modeller bütüncül dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "ÇEİD.6.3",
+    "Öğrencilerin sürdürülebilir kalkınmayı destekleyen örnek uygulamalar konusundaki fikirleri beyin fırtınası yöntemiyle sorgulanabilir ( E1.1 , E3.5 ). Bu konuda öğrencilerin merak ettikleri soruları sormalarına fırsat tanınır ( E1.1 , E3.8 ). Öğrencilere sürdürülebilir kalkınmayı destekleyen örnek uygulamalar konusunda bireysel ya da grup olarak poster vb. hazırlamalarını içeren performans görevleri verilir ( SDB2.1 , SDB2.2 , OB1 , OB4 , OB8 ). Performans görevi sürecinde öğrencilerin görev bilinciyle sorumlu davranması ve süreçte plana göre hareket etmesi beklenir ( E2.2 , D3.2 , D16.3 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacağı araçları belirlemeleri beklenir ( KB3.1 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı kaynaklardan yararlanmaları istenir ( OB1 , OB2 ). Farklı kaynaklardan yararlanabilmeleri için öğrencilere rehberlik edilebilir. Bu süreçte gerçeği arama isteğiyle hareket etmeleri sağlanır ( OB1 , E3.4 ). Belirledikleri aracı kullanarak sürdürülebilir kalkınmayı destekleyen örnek uygulamalarla ilgili bilgileri bulmaları istenir ( OB1 , OB8 ). Öğrencilerin alan uzmanı veya bilimsel kaynaklardan elde ettikleri bilgileri arkadaşları ile tartışarak, bilimsel kaynaklara veya öğretmenlerine başvurarak doğrulamaları beklenir ( OB1 , OB7 ). Öğrencilerin sürdürülebilir kalkınmayı destekleyen örnek uygulamalara yönelik doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Kaydettikleri bilgileri görselleştirerek poster vb. hazırlamaları istenir ( OB4 ). Öğrencilerin hazırladıkları poster vb. sunmaları istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürdürülebilirlik uygulamalarını içeren teknolojiler, şehirler, ekolojik köyler, sürdürülebilir okullar vb. örneklere değinilir. Dijital dönüşüm, yeşil dönüşüm ve ikiz dönüşüm kavramları sorularak gelen yanıtlar alınır. Ardından kavramlar açıklanarak bu kavramların uygulama örnekleri sunulur. Öğrencilerin ikiz dönüşümün sürdürülebilir kalkınma açısından önemini açıklamaları istenir ( OB8 , SDB2.1 , D9.3 ). Geçmişten günümüze sürdürülebilirlik ve çevreyi koruma konusunda önemli uygulamalara örnekler verilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "ÇEİD.6.4",
+    "Öğrencilere ülkemizin kaynaklarının kullanımı ve sürdürülebilirliği ile ilgili açık uçlu sorular yöneltilebilir ( E1.1 , E3.5 ). Kaynakların sürdürülebilir kullanımının kalkınmaya etkisini içeren araştırma verileri sunularak öğrencilerin yorumlamaları istenir ( OB7 , OB8 ). Bu süreçte vatandaş olarak sorumluluklarımızı, kaynakların sürdürülebilir kullanımının çevresel, sosyal ve ekonomik açıdan önemini dikkate almaları istenir ( OB1 , OB3 , OB6 , OB8 ). Sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaşılan sorunlardan birine ilişkin örnek haber, görsel vb. inceletilerek öğrencilerin incelemeleri ve tartışmaları sağlanabilir ( OB4 , OB8 , SDB2.1 ). Tartışma sürecinde açık fikirli ve saygılı davranmaları desteklenir ( D14.1 , E3.5 ). Öğrencilerin bu sorunlar ile ilgili merak ettikleri soruları sormaları istenir ( E1.1 , E3.8 ). Dijital içerikler, sosyal platformlar, yazılı ve görsel kaynaklar vb. yardımıyla bu tür sorunlara yol açan insan faaliyetlerine dikkat çekilir ( OB1 , OB2 , OB4 ). Buradan hareketle öğrencilere sürdürülebilir kalkınma ve çevreye yönelik günlük hayatta karşılaştıkları bir problemi belirleyerek bu probleme çözüm üretmelerini içeren performans görevi verilir. Gruplara ayrılan öğrencilerden bir problem durumu belirleyerek bu problemi yapılandırmaları beklenir ( SDB2.1 , SDB2.2 , E3.4 ). Bu aşamada öğrencilerin seçtikleri bir problemi istedikleri yöntemlerle yapılandırmaları teşvik edilir ( OB1 , SDB1.2 , SDB2.3 ). Yapılandırdıkları problemi özetlemeleri istenir. Geçmiş yaşantılarından yararlanarak ve gözlem verilerine dayanarak sorunun çözümüne yönelik tahmin yürütmeleri beklenir ( SDB3.3 , KB3.3 ). Probleme yönelik güvenilir kaynaklardan bilgi toplamaları sağlanabilir ( OB1 , E3.4 ). Seçilen problem durumunun çözümüne yönelik grup arkadaşlarıyla önermeler üzerinden akıl yürütmeleri beklenir ( E3.10 , SDB2.1 , SDB3.3 ). Bu süreçte düşüncelerini uygun bir dille ifade ederek birbirlerinin çözüm önerilerini dinledikleri küçük grup tartışması vb. tartışma tekniklerinden biri kullanılabilir ( OB1 , E3.5 , SDB3.3 ). Problem durumu ve çözümüne yönelik önerileri sosyal, çevresel ve ekonomik açılardan değerlendirmeleri beklenir ( KB3.1 , KB3.3 , E3.1 ). Kaynakların sınırsız olmadığı vurgulanır ( OB8 ). Bu kaynakların bizlere emanet olduğu, bugünün ihtiyaçlarını karşılarken gelecek nesilleri de düşünerek hareket edilmesi gerektiği vurgulanır. Kaynakların sürdürülebilir kullanımının ülkemiz açısından önemine değinilerek sorumlu davranmaları desteklenir ( D19.3 ). Sorumlu birer vatandaş olarak sürdürülebilir kalkınma adına üzerimize düşen görevler vurgulanır ( OB6 , OB8 ). Sürdürülebilir enerji, ulaşım, üretim, tüketim, doğal kaynakların yönetimi, nüfus, göç gibi kavramların birbiriyle ilişkisine değinilir. Sürdürülebilir kalkınmanın çevresel boyutu açısından bu kavramlara ilişkin doğru kararlar almanın önemi vurgulanır. Yeşil becerilerin bu kararları alma konusundaki önemi vurgulanır. Öğrencilerin sürdürülebilir kalkınma ve çevreye yönelik sosyal sorumluluk projelerine gönüllü katılmaları teşvik edilebilir ( SDB2.3 , SDB3.2 , OB8 , D3.4 ). Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "ÇEİD.6.5",
+    "Yeşil becerilerin boyutlarından bahsedilerek bu becerilerin kullanılmasını içerecek mesleklere ilişkin öğrencilerin fikirleri sorulur. Ardından öğrencilerin çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarına ilişkin bilgileri açık uçlu sorularla sorgulanabilir ( OB8 , E3.8 ). Öğrencilere çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanları konusunda bireysel ya da grup olarak afiş vb. hazırlamalarını içeren performans görevleri verilir ( SDB1.2 , SDB2.2 ). Performans görevi sürecinde görev bilinciyle sorumlu davranmaları ve plana göre hareket etmeleri beklenir ( E2.2 , D3.3 , D16.3 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacağı araçları belirlemeleri beklenir ( KB3.1 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı kaynaklardan yararlanabilecekleri belirtilir ( OB1 , OB2 , OB4 ). Farklı kaynaklardan yararlanabilmeleri için öğrencilere rehberlik edilebilir. Bu süreçte gerçeği arama isteğiyle hareket etmeleri sağlanır ( OB1 , E3.4 ). Belirledikleri aracı kullanarak çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanları ile ilgili bilgileri bulmaları istenir ( OB1 , OB8 ). Öğrencilerden elde ettikleri bilgileri arkadaşları ile tartışarak, bilimsel kaynaklara veya öğretmenlerine başvurarak doğrulamaları beklenir ( OB1 , OB7 ). Öğrencilerin çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarına yönelik doğruladıkları bilgileri kaydetmeleri istenir ( D3.4 , OB1 ). Güvenilir genel ağ adreslerinden yararlanma aşamasında bilişim teknolojileri dersiyle ilişki kurulabilir ( OB2 ). Doğruladıkları bilgilerle hazırladıkları poster, afiş, rapor vb. sunmaları istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Yeşil mesleklerden gıda bilimi, yeşil tasarım uzmanlığı, kentsel tarımcılık, geri dönüşüm uzmanlığı, doğa bilimleri uzmanlığı, solar teknisyenlik, temiz otomobil mühendisliği vb. alanlara değinilir. İkiz dönüşüm kavramıyla ilişkili mesleklerden bahsedilir. Öğrencilerin meslekler hakkında merak ettikleri soruları sormaları sağlanır ( E3.8 ). Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular vb. kullanılabilir."
+  ],
+  "skills": [
+    "FBAB9. Bilimsel Model Oluşturma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1508"
+}

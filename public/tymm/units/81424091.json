@@ -1,0 +1,64 @@
+{
+  "unitId": 81424091,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "91. ÜNİTE: KEMANE - KEMANE ÇALMA TEKNİKLERİ II",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.13.3.1",
+      "title": "Bağlı-bağsız yay teknikleri kullanılarak icra edilmiş eserleri izler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.2",
+      "title": "Bağlı yay tekniğinde etüt çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.3",
+      "title": "Bağsız yay tekniğinde etüt çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.4",
+      "title": "Çarpma ve trill tekniklerinin kullanıldığı eser icralarını izler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.5",
+      "title": "Türk halk müziği repertuvarından ezgilerde çarpma tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.6",
+      "title": "Türk halk müziği repertuvarından ezgilerde trill tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.7",
+      "title": "Glisando ve vibrato tekniklerinin kullanıldığı eser icralarını izler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.8",
+      "title": "Türk halk müziği repertuvarından ezgilerde glissando tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.3.9",
+      "title": "Türk halk müziği repertuvarından ezgilerde vibrato tekniğini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

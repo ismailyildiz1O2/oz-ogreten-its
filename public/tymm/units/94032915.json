@@ -1,0 +1,51 @@
+{
+  "unitId": 94032915,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "15. ÖĞRENME ALANI: TARTMA",
+  "hours": "10",
+  "description": "Terimler veya kavramlar: ton (t), miligram (mg)",
+  "outcomes": [
+    {
+      "code": "M.4.3.5.1",
+      "title": "Yarım ve çeyrek kilogramı gram cinsinden ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.3.5.2",
+      "title": "Kilogram ve gramı kütle ölçerken birlikte kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.3.5.3",
+      "title": "Ton ve miligramın kullanıldığı yerleri belirler",
+      "processComponents": [
+        "Tonun ve miligramın kısaltma kullanılarak gösterimine yer verilir."
+      ]
+    },
+    {
+      "code": "M.4.3.5.4",
+      "title": "Ton-kilogram, kilogram-gram, gram-miligram arasındaki ilişkiyi açıklar ve birbirine dönüştürür",
+      "processComponents": [
+        "Ondalık gösterim gerektirmeyen dönüştürmeler yapılır."
+      ]
+    },
+    {
+      "code": "M.4.3.5.5",
+      "title": "Ton, kilogram, gram ve miligram ile ilgili problemleri çözer",
+      "processComponents": [
+        "Problem kurmaya yönelik çalışmalara da yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

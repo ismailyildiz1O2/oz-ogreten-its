@@ -1,0 +1,36 @@
+{
+  "unitId": 80791008,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "8. ÜNİTE: OSMANLI TÜRKÇESİNDE EL YAZISI (RİKA)",
+  "hours": "6",
+  "description": "Ünite konuları işlenirken örnek harf ve kelimeleri vermek için tablolar oluşturulmalıdır.",
+  "outcomes": [
+    {
+      "code": "OSM.11.2.1.1",
+      "title": "Osmanlı Türkçesi alfabesindeki rika harfleri adlarıyla okur",
+      "processComponents": [
+        "Rika harfleri, matbu harflerle karşılaştırılarak rika harflerindeki şekil değişikliklerinin fark edilmesi sağlanmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.11.2.1.2",
+      "title": "Rika harflerinin kelime başında, ortasında ve sonunda aldıkları şekilleri tanır",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.2.2.1",
+      "title": "Rika hattıyla yazılmış kelime, cümle ve metin örneklerini okur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

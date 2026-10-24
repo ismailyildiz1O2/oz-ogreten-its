@@ -1,0 +1,44 @@
+{
+  "unitId": 81424040,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "40. ÜNİTE: GİTAR - GİTAR MÜZİĞİ YAZIMINDA KULLANILAN TEMEL İŞARETLER",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.2.1",
+      "title": "Sağ el parmaklarının adını ve gitar müziği yazısında kullanılan harf sembollerini gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.2.2",
+      "title": "Sol el parmaklarının adını ve gitar müziği yazısında kullanılan rakam sembollerini gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.2.3",
+      "title": "Gitar tellerinin numaralandırılma sırasını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.2.4",
+      "title": "Gitarda perde numaralandırma sistemini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.2.5",
+      "title": "Tel numarası, perde numarası ile sol el parmak numaralarını birbirinden ayırt etme yollarını açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "unitId": 94032507,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "7. ÜNİTE: BASİT ELEKTRİK DEVRELERİ",
+  "hours": "6",
+  "description": "Bu ünitede öğrencilerin; işlevleriyle birlikte devre elemanlarını tanıyarak basit elektrik devresi oluşturmaları ve evlerdeki elektrik sistemleri ile basit elektrik devrelerini ilişkilendirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.4.7.1.1",
+      "title": "Basit elektrik devresini oluşturan devre elemanlarını işlevleri ile tanır",
+      "processComponents": [
+        "Devre elemanı olarak, pil, ampul, kablo ve anahtar tanıtılır."
+      ]
+    },
+    {
+      "code": "F.4.7.1.2",
+      "title": "Çalışan bir elektrik devresi kurar",
+      "processComponents": [
+        "Ampul, pilden ve anahtardan oluşan devre kurulması istenir."
+      ]
+    },
+    {
+      "code": "F.4.7.1.3",
+      "title": "Evde ve okuldaki elektrik düğmelerinin ve kabloların birer devre elemanı olduğunu bilir",
+      "processComponents": [
+        "Elektrik düğmeleri ile lambalar arasında, duvar içinden geçen bağlantı kabloları olduğu vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Fiziksel Olaylar",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

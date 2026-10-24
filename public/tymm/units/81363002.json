@@ -1,0 +1,84 @@
+{
+  "unitId": 81363002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "2. ÜNİTE: EDEBİYAT UYGULAMALARI I - DİNLEME/İZLEME",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.1.2.1",
+      "title": "Dinleme stratejisine karar verir",
+      "processComponents": [
+        "Amaca uygun dinleme öncesi (hazırlık yapma, sorular oluşturma vb.), dinleme esnası (not alma, soru sorma, görsel sahne oluşturma vb.), dinleme sonrası (özetleme, çıkarımda bulunma, tartışma vb.) stratejisine karar verilir."
+      ]
+    },
+    {
+      "code": "EDU.1.2.2",
+      "title": "Dinleme öncesi uygun strateji, yöntem ve teknikleri kullanır",
+      "processComponents": [
+        "Dinleme amacına göre ön araştırma yapılır. Edinilen bilgilerden hareketle içerik hakkında anahtar kelimeler oluşturulur. Sorulacak sorular hazırlanır."
+      ]
+    },
+    {
+      "code": "EDU.1.2.3",
+      "title": "Dinlediği/izlediği metinlerle farklı türlerden metinler arasında bağlantı kurar",
+      "processComponents": [
+        "Dinlenen/izlenen metinlerdeki bilgilerle sahip olunan ön bilgiler ve/veya başka kaynaklardan edinilen bilgiler arasında bağlantı kurulur.",
+        "Dinlenen/izlenen metinlerle yapı, biçim veya içerik unsurlarından belirlenen bir öge ile ilgili karşılaştırma yapılır.",
+        "Dinlenen/izlenen metinlerdeki söz varlığı unsurlarının anlamları, metnin bağlamından hareketle tahmin edilir."
+      ]
+    },
+    {
+      "code": "EDU.1.2.4",
+      "title": "Dinlediği/izlediği metinlerin içeriğini oluşturan unsurları özelliklerine ve işlevlerine göre sınıflandırır",
+      "processComponents": [
+        "Metinlerdeki konuyu, temayı, ana duyguyu/düşünceyi, yardımcı düşünceleri, düşünceyi geliştirme yollarını, anlatım biçimlerini, anlatım tekniklerini, millî ve manevi değerleri, metnin gönderimde bulunduğu toplumsal ve tarihî unsurları özelliklerine ve metindeki işlevlerine göre sınıflandırılır."
+      ]
+    },
+    {
+      "code": "EDU.1.2.5",
+      "title": "Dinlediği/izlediği metinlerdeki açık ve örtük iletileri çözümler",
+      "processComponents": [
+        "Metinlerdeki tanım, söylem, yönerge, açıklama, eleştiri ve yorumlar tespit edilerek metindeki açık ve örtük iletiler çözümlenir.",
+        "Metinlerdeki anlamsal bütünlüğü, kurguyu, söylemlere özgü yapıları ve metnin akışını oluşturan unsurlar ile bunlar arasındaki ilişkiden hareketle metnin iletisi çözümlenir."
+      ]
+    },
+    {
+      "code": "EDU.1.2.6",
+      "title": "Dinlediği/izlediği metinlerden hareketle çıkarımlar yapar",
+      "processComponents": [
+        "Metinlerdeki konuşmacının/anlatıcının amacına, verilen bilgilere, metin ile yazar/söyleyici arasındaki ilişkiye yönelik çıkarımlar yapılır.",
+        "Metinlerdeki açık veya örtük iletilerden, ele alınan konuya yönelik destekleyici veya karşıt görüşlerden hareketle çıkarımlar yapılır.",
+        "Metinlerdeki anlatıcının/söyleyicinin veya kişilerin karakter özelliklerine, görünüşlerine, davranışlarına, niyetlerine, duygu ve düşüncelerine yönelik çıkarımlar yapılır."
+      ]
+    },
+    {
+      "code": "EDU.1.2.7",
+      "title": "Dinlediği metinlere yönelik geri bildirimler sunar",
+      "processComponents": [
+        "Dinlenen metindeki iletiye uygun tepkide bulunulur ve eyleme geçilir.",
+        "Dinlenen/izlenen metinlerle ilgili sorulara uygun nitelikli cevaplar verilir, istenilenler doğrultusunda ayrıntılı açıklamalar yapılır.",
+        "Metinlerdeki kurguya, olay akışına, duruma, çatışmaya ya da karakterlerin davranışlarına etki eden unsurlara seçenekler üretilir."
+      ]
+    },
+    {
+      "code": "EDU.1.2.8",
+      "title": "Dinleme/izleme sürecindeki etkenleri değerlendirir",
+      "processComponents": [
+        "Dinleme/izleme sürecini olumlu veya olumsuz etkileyen görüntü, ses, ısı, koku vb. mekâna ait fiziksel özellikler değerlendirilir.",
+        "Dinleme/izleme sürecini olumlu veya olumsuz etkileyen bilişsel ve duyuşsal etkenler değerlendirilir.",
+        "Metinlerdeki konuşmacı veya karakterlerin duygu, düşünce ve davranışlarını yansıtan beden dili, anlatım tutumu, telaffuz özellikleri, vurgu ve tonlama farklılıkları, söz varlığı, üslup özellikleri, dış görünüş, hareket ve davranış gibi unsurların dinleyici/izleyici üzerindeki etkileri değerlendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

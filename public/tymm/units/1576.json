@@ -1,0 +1,38 @@
+{
+  "unitId": 1576,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY II · 2. Tema: Robotik Sistem Geliştirme Ortamları Ve Bileşenleri",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK2.2.1",
+      "title": "Robotik sistemlerde çevrim dışı kodlama ortamını hazırlayabilme",
+      "processComponents": [
+        "a) Robotik sistemlerde çevrim dışı kodlama ortamlarını tanır.",
+        "b) Robotik sistemlerde çevrim dışı kodlama ortamını belirler.",
+        "c) Robotik sistemlerde çevrim dışı kodlama ortamını düzenler."
+      ]
+    },
+    {
+      "code": "RK2.2.2",
+      "title": "Robotik sistemlerde çevrim dışı yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+      "processComponents": [
+        "a) Robotik sistemlerde çevrim dışı yazılım geliştirme süreci bileşenlerini tanır.",
+        "b) Robotik sistemlerde çevrim dışı yazılım geliştirme süreci bileşenlerini kullanır.",
+        "c) Robotik sistemlerde çevrim dışı yazılım geliştirme süreci bileşenlerini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "çevrim dışı kodlama, kod derleme",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB3.Yazılım Geliştirme (BTYAB3.1. Yazılım Geliştirme Ortamını Hazırlama, BTYAB3.2. Yazılım Geliştirme Sürecinde Kullanılan Bileşen/Yapı/Yöntemlerden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1576"
+}

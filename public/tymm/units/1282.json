@@ -1,0 +1,37 @@
+{
+  "unitId": 1282,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "2. TEMA: KANUNDA ÇARPMA TEKNİĞİNİ ÖĞRENİYORUM",
+  "hours": "7",
+  "description": "Temada öğrencinin çarpma tekniğini öğrenmesi ve kanunda çaldığı eserlerde bu tekniği uygulaması ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.5.2.1",
+      "title": "Çarpma tekniğini çaldığı eserlerde uygulayabilme",
+      "processComponents": [
+        "a) Çarpma tekniğini çalarken yazılmış etüt veya eserleri çözümler.",
+        "b) Çarpma tekniğini çalarken uygun duruş ve tutuş pozisyonu alır.",
+        "c) Çarpma tekniğini çalarken uygun teknikleri kullanır.",
+        "ç) Çarpma tekniğini çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "müzik, kanun, Türk müziği, perde",
+  "support": [
+    "Öğrencilerinçarpma tekniği ile ilgili öğrenmeleri takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom yavaşlatılarak çalınabilir. Yavaş metronom ile öğrenilen etütler, öğrencinin öğrenmelerine göre hızlandırılarak çaldırılabilir."
+  ],
+  "enrichment": [
+    "Çarpma avı oyunu çarpma tekniğini işitsel olarak keşfetmelerini sağlayacak bir oyun olabilir. Öğrencilere bir melodi çalınır ve içindeki çarpma tekniğini bulmaları istenir. Başlangıç seviyesinde öğrenciler çarpma olan ve olmayan melodileri dinleyerek farkı anlamaya çalışır. İleri seviye ise yanlış çalınan çarpma notalarını bulmaları istenebilir. Örnek olarak çarpma olmayan basit bir melodi arkasından aynı melodinin çarpma eklenmiş versiyonu kullanılabilir. Başka bir etkinlik olarak müzikal çarpışma – ikili eşli çalma çalışması yapılabilir. Bir öğrenci basit bir melodi çalar, diğeri aynı melodiyi çarpma ekleyerek tekrar eder. Öğrenciler sırayla roller değiştirerek çarpma tekniğini uygulama fırsatı bulur. İleri seviye öğrenciler, kendi küçük doğaçlamalarını yaparak çarpma tekniğini serbestçe kullanabilir. Bu konudaki son zenginleştirme etkinliğimiz çarpma ile şarkılar olabilir. Çarpma tekniği içeren basit şarkılar seçilip çalınabilir. Önerilen eserler olarak klasik Türk müziği eserlerinden segâh, rast, hicaz peşrevleri, Türk halk müziğinde süslemeli türkü melodileri verilebilir. Öğrenciler çarpma tekniğini müzikal bağlamda uygulayarak Türk müziği repertuvarında yer alan bir eser üzerinde çalışırlar."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden çarpma tekniğini çaldığı eserlerde uygulayabilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN5.2.1",
+    "Öğrencinin çalışacağı eser veya etütler öğrenciyle birlikte çözümlenir. Türk müziğinde çarpma tekniği, bir ana notanın hemen öncesinde veya sonrasında kısa bir yardımcı notanın hızlı bir şekilde icra edilmesiyle yapılan süsleme tekniğidir. Çarpma, melodilere hareket ve zenginlik katar ve özellikle Türk müziği enstrümanlarında ve ses icralarında oldukça sık kullanılır. Genellikle kanunda üstten çarpma tekniği kullanılır. Örneğin çalışacağımız esas perde nevâ (re) perdesi ise öncesinde hüseyni (mi) perdesine sol elimizle minik bir mızrap vuruşu yapıp esas çalacağımız nevâ (re) perdesi hemen arkasından çalınır (D3.3). Çarpma tekniğinin pekiştirilmesi için öğrenciye çarpmanın ne olduğu ve ne tip çarpmalar olduğu, elimizle ya da seslerle çarpmanın ne anlama geldiği konusunda sorular yöneltilerek neler bildiği anlaşılmaya çalışılır. Öğrenciden alınan dönüşlere göre yukarıda tanımı yapılan çarpma tekniği ya da süslemesi öğrenciye gösterilerek öğrencinin de kendi kanununda yapması istenir (SDB2.1) (E1.3). Yeni öğrenilen bu tekniğin hemen yapılabilmesi beklenmemeli sabırlı olunup çalışmalara devam edilmelidir (D12.3) (OB1).Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı, öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1282"
+}

@@ -1,0 +1,54 @@
+{
+  "unitId": 1161,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: GİTARDA KÜÇÜK USULLERLE RİTİM ÇALIŞMALARI 1",
+  "hours": "24",
+  "description": "Temada öğrencilerin gitarda küçük usullerle ritim çalışmaları yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.5.2.1",
+      "title": "Küçük usullerle gitar şarkıları çalabilme",
+      "processComponents": [
+        "a) Küçük usullerdeki şarkıları çözümler.",
+        "b) Küçük usullerdeki şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Küçük usullerdeki şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Küçük usullerdeki şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "basit ritim",
+  "support": [
+    "Öğretmen rehberliğinde ritimleri daha iyi anlamaları için beden perküsyonu (ellerle, ayaklarla ritim tutma) çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "2/4, 3/4 ve 4/4 usulleri istediği akorlarla birleştirerek uygulamaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilere basit ritimleri gruplar hâlinde çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.5.2.1",
+    "Öğrenciye her ritim için örnek şarkılar dinletilir (2/4 için bir marş, 3/4 için bir vals, 4/4 için popüler bir şarkı). Öğrenciler diledikleri şarkıları etkileşimli tahtadaki klasörlerine kaydederler ( OB2 ). Boş telde ritim çalışmaları yapılır. Öncelikle 2/4'lük ritimde aşağı yukarı tellere vurularak metronom eşliğinde basit çalışmalarla başlanır. Öğretmen kendi gitarıyla rehberlik eder. Öğrencinin odaklanması sağlanarak ritimleri uygulaması istenir ( E3.2 ). Öğrenci, boş tellerde ritim çalışmaları yaparak temel vuruşları öğrenir. Metronom eşliğinde \"1, 2\" vuruşlarında aşağı-yukarı tellere vurularak çalışılır. Öğretmen, kendi gitarıyla örnek çalar ve öğrencilerin ritmi takip ederek gözlem yapmalarını sağlar ( KB2.2 ). Öğrenciler, odaklanarak ritmi tekrar eder ve doğru vuruşları yakalamaya çalışır ( E3.2 ). Metronom eşliğinde \"1, 2, 3\" vuruşlarında aşağı-yukarı tellere vurularak çalışılır. Öğretmen, vals ritmini örnekler ve öğrencinin bu ritmi hissetmesini sağlar. Öğrenci, ritmi tekrar eder ve vuruşların akışını içselleştirir. Metronom eşliğinde \"1, 2, 3, 4\" vuruşlarında aşağı-yukarı tellere vurularak çalışılır. Öğretmen, popüler bir şarkıdan örnek verir ve öğrencinin ritmi takip etmesini sağlar. Öğrenciler düzenli çalışmanın başarı üzerindeki etkisini fark ederek ritmi tekrar eder ve düzenli vuruşları yakalamaya çalışır ( D3.2 ). Öğrencinin doğru vuruşları yakalayıp yakalamadığı kontrol edilir. Ritim duygusunun gelişip gelişmediği gözlemlenir. Öğrencilerin eksik olduğu noktalar üzerinde tekrar çalışılır.",
+    "Öğrencilere 2/4, 3/4, 4/4 gibi küçük usullerle yazılmış, kısa ezgilerden oluşan ve öğrenci düzeyine uygun basit gitar şarkıları dağıtılır. Öğrenciler verilen şarkıları çözümler. İcra ve deşifre sürecine başlamadan önce öğrencilerin gitarı doğru tutuş ve uygun pozisyonla çalmaları sağlanır. Grup hâlinde tutuş pozisyonunu pekiştiren egzersizler yapılır ve her öğrencinin doğru tutuşu yapıp yapmadığı kontrol edilir. Öğretmen; ilk olarak 2/4 usuldeki bir şarkının notalarını öğrencilere gösterir, ritmik ve ezgisel yapısını açıklar ( SDB2.1 ). Yavaş tempoda adım adım deşifre çalışmalarına başlanır. Öğrenciler ritme, nota değerlerine ve tutuş tekniklerine odaklanarak pratik yapar; tempoyu artırmak için grup hâlinde çalışırken birbirlerini dinleyerek uyum içinde çalmayı öğrenir. Aynı süreç 3/4 ve 4/4 usullerindeki şarkılar için de tekrarlanır. Öğrenciler parçaları müziksel bileşenlerine göre çalarlar. Performans görevi olarak öğrencilere basit ritimleri gruplar hâlinde çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1161"
+}

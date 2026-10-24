@@ -1,0 +1,51 @@
+{
+  "unitId": 94032910,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "10. ÖĞRENME ALANI: GEOMETRİDE TEMEL KAVRAMLAR",
+  "hours": "10",
+  "description": "Terimler veya kavramlar: düzlem, dar açı, dik açı, geniş açı, doğru açı",
+  "outcomes": [
+    {
+      "code": "M.4.2.3.1",
+      "title": "Düzlemi tanır ve örneklendirir",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.3.2",
+      "title": "Açıyı oluşturan ışınları ve köşeyi belirler, açıyı isimlendirir ve sembolle gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.3.3",
+      "title": "Açıları, standart olmayan birimlerle ölçer ve standart ölçme birimlerinin gerekliliğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.3.4",
+      "title": "Açıları standart açı ölçme araçlarıyla ölçerek dar, dik, geniş ve doğru açı olarak belirler",
+      "processComponents": [
+        "Dik açı referans alınarak karşılaştırma yapılır.",
+        "Geniş açı modelleri incelenirken doğru açıdan büyük olmamalarına dikkat edilir."
+      ]
+    },
+    {
+      "code": "M.4.2.3.5",
+      "title": "Standart açı ölçme araçları kullanarak ölçüsü verilen açıyı oluşturur",
+      "processComponents": [
+        "Açı ölçmeye yarayan araçların (iletki, gönye vb.) yardımıyla açının, bir ışının başlangıç noktası etrafında döndürülmesi ile oluştuğu fark ettirilir.",
+        "Aynı ölçüye sahip açıların duruşlarındaki farklılığın, açının ölçüsünde etkili olmadığı vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Geometri",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

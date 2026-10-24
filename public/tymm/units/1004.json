@@ -1,0 +1,86 @@
+{
+  "unitId": 1004,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları - Beden Eğitimi, Oyun ve Müzik Dersi",
+  "title": "1. TEMA: HAREKET VE MOTİVASYON",
+  "hours": "14",
+  "description": "Temada öğrencilerin ısınma ve hazırlık çalışmalarının fiziksel etkinliklerdeki önemi ile ilgili akıl yürütmeleri, motivasyon tekniklerini ve halk oyunlarında kullanılan temel hareketleri uygulayabilmeleri, özgün istasyon çalışmalarını oluşturabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BOM.8.1.1",
+      "title": "Isınma ve hazırlık çalışmalarının fiziksel etkinliklerdeki önemini yansıtabilme",
+      "processComponents": [
+        "a) Isınma ve hazırlık çalışmaları ile ilgili deneyimlerini gözden geçirir.",
+        "b) Isınma ve hazırlık çalışmalarının fiziksel etkinliklerdeki önemiyle ilgili deneyimlerine dayalı çıkarım yapar.",
+        "c) Ulaştığı çıkarımları değerlendirir."
+      ]
+    },
+    {
+      "code": "BOM.8.1.2",
+      "title": "Motivasyon kavramını ve tekniklerini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BOM.8.1.3",
+      "title": "Halk oyunlarında kullanılan temel hareketleri gözlemleyebilme",
+      "processComponents": [
+        "a) Halk oyunlarında kullanılan temel hareketleri gözlemleyerek belirler.",
+        "b) Halk oyunlarında kullanılan temel hareketlerin nasıl yapıldığı ile ilgili veri toplar.",
+        "c) Halk oyunlarında kullanılan temel hareketlerin nasıl yapıldığını kaydeder."
+      ]
+    },
+    {
+      "code": "BOM.8.1.4",
+      "title": "Öğrendiği hareketleri bir araya getirerek özgün bir bütün oluşturabilme",
+      "processComponents": [
+        "a) Öğrendiği temel hareketleri belirler.",
+        "b) Hareketler arasında ilişki kurar.",
+        "c) Hareketleri birleştirerek özgün bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "çökme, dengeleme, diz vurma, diz kırma, fiziksel etkinlik, hareket, ısınma, istasyon, motivasyon, nesne kontrolü, yer değiştirme",
+  "support": [
+    "Isınma ve hazırlık çalışmalarını desteklemek için hareketlerin zorluk seviyesi yavaşça arttırılabilir. Zıplama, yürüyüş ve koşma gibi hareketleri bir araya getirerek basit istasyonlar oluşturulabilir. Hareketler desteklenerek yaptırılabilir. Öğrencilerin birbirlerini gözlemleyerek ısınma ve hazırlık çalışmalarını doğru yapmaları sağlanabilir. Öğrencilere basit bir hedef konularak bu hedefe ulaşmak için neler yapabilecekleri sorulabilir. Dönütler verilerek bu söylemlerin onlarda yarattığı duygu ve düşünceleri paylaşmaları istenebilir. Olumlu dönütlerin onlarda ne gibi sonuçlar doğurduğu konusunda düşünmeleri sağlanabilir. Öğrencilere halk oyunlarındaki temel hareketler aşamalar hâlinde anlamayı kolaylaştıracak şekilde verilebilir. Hareketler desteklenerek yaptırılabilir. Öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu arttırılabilir. Akran öğretimi sağlanarak çalışmalar desteklenebilir. İstasyon çalışması yaptırılırken öğrencilerin kendi yapabildiği hareketlerden bir istasyon oluşturması ve öğrendikleri hareketleri tek tek göstermesi istenebilir. Hareketler desteklenerek yaptırılabilir. Öğrencilerin kendi öğrenme hızlarında ilerlemelerine olanak sağlanmalıdır. Akran geri bildirimi ve iş birlikli öğrenme fırsatları sunularak öğrencilerin birbirlerinden öğrenmeleri sağlanabilir. Çalışmalar oyunlaştırılarak da verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ısınma ve performans arasındaki ilişkiyi gözlemlemesi ve gözlem sonuçlarını paylaşması istenebilir. Anketler oluşturarak öğrencilerin ısınma ve hazırlık çalışmaları ile ilgili düşünceleri ve deneyimlerini keşfetmeleri sağlanabilir. Isınmanın fizyolojik açıklamaları ile ilgili araştırma ve sunum yaptırılabilir. Öğrencilerden motivasyon tekniklerinin hangi alanlarda kullanıldığını dijital kaynaklardan araştırarak araştırma sonuçlarını paylaşması ve sunum yapması istenebilir. Farklı alanlarda kullanılan motivasyon tekniklerini uygulaması istenebilir. Halk oyunlarında kullanılan çökme, diz vurma, diz kırma gibi hareketler komutlarla hız arttırılarak oyunlaştırılabilir. Öğrencilere istasyon çalışmaları süreli olarak yaptırılabilir. Süreli çalışmalar ile öğrencilerin hız ve çeviklikleri geliştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, grup değerlendirme formu performans görevi, öz değerlendirme formu, akran değerlendirme formu kullanılarak değerlendirilebilir. İstasyon çalışmaları ile ilgili bilgilerini yansıtmasına ilişkin performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir. Dijital kaynaklardan yararlanılarak motivasyon teknikleri ile ilgili yapılan sunumlar analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BOM.8.1.1 Öğrencilerden ısınma ve hazırlık çalışmaları ile ilgili deneyimlerini gözden geçirmeleri istenir. Yaptığı bu çalışmaların fiziksel etkinliklerdeki önemi ile ilgili tartışma yöntemini kullanarak deneyimlerine dayalı çıkarım yapmaları sağlanır. Öğrencilerden gruplara ayrılması istenir ( E3.1 , OB1 ). Oluşturulan grupların iş birliği içinde çalışması sağlanır ( SDB2.2 ). Öğrencilere grup çalışmaları sırasında ılımlı, iyimser ve sabırlı yaklaşımlar sergilemeleri; saygılı, nazik ve yardımsever olmaları gerektiği hatırlatılır ( D10.3 , D20.3 ). Grupların edindiği bilgilerle ilgili sunum yaparak ulaştıkları çıkarımları değerlendirecekleri ortamlar oluşturulur. Grupların çalışmaları ile ilgili hedeflerini gerçekleştirebilme sürecinde kendilerini değerlendirmeleri istenebilir ( SDB1.2 ). Yapılan çalışmalar gözlem formu ve grup değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir . BOM.8.1.2 Öğrencilere ipuçları verilerek tartışma yöntemiyle motivasyon kavramı ve motivasyon eknikleri ile ilgili bilgilere ulaşması sağlanır ( OB1 ). Öğrencilerin motivasyon teknikleri ile ilgili aktarılan bilgileri kendi deneyimlerinden yola çıkarak gözden geçirmesi sağlanır. Öğrencilerin fiziksel etkinliklerde kullandığı motivasyon tekniklerini kendi yaşantılarına nasıl yansıttıklarını açıklamaları istenir ( D3.1 , D16.1 , SDB1.2 ). Öğrencilerden fiziksel etkinliklerde kullandıkları motivasyon tekniklerini tartışma yöntemlerini kullanarak değerlendirmeleri ve bu değerlendirmeleri paylaşmaları beklenir ( KB2.18 ). Öğrencilerden dijital kaynaklardan yararlanarak motivasyon teknikleri ile ilgili araştırma yapıp sınıfta sunmaları istenebilir ( OB2 ). Yapılan çalışmalar kontrol listesi kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme formu kullanılabilir. t BOM.8.1.3 Öğrencilere dijital kaynaklar kullanılarak halk oyunları ile ilgili örnekler izletilir. Bu örneklerde çökme, diz vurma, diz kırma gibi hareketleri odaklanarak gözlemlemesi sağlanır (E3.2). Öğrencilerden hareketlere eşlik ederek hareketlerin nasıl yapıldığına dair veri toplaması beklenir. Öğrencilere öğrendikleri hareketler uygulatılarak hareketlerin kaydedilmesi sağlanır (OB9). Bu çalışmalarla öğrencilerin kültürel zenginlikleri fark etmesi beklenir (D19.2). Yapılan çalışmalar gözlem formu kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme formu kullanılabilir. BOM.8.1.4 Öğrencilere istasyon çalışmaları hakkındaki bilgileri soru cevap tekniği kullanılarak hatırlatılır. Öğrencilerin yer değiştirme ve dengeleme hareketleri ile nesne kontrolü gerektiren hareketleri hatırlamaları sağlanır. Deneyimlerinden yola çıkarak bu hareketleri tekrar etmeleri istenir. Öğrenciler gruplara ayrılır. Her grup bir müzik seçer ve bu müzik eşliğinde yapacağı istasyon çalışmasında kullanacağı hareketleri belirler. Öğrencilere istasyon çalışmasında hareketler belirlenirken sonraki adımlar düşünülerek istasyonun başlangıcında kolay, ilerledikçe zorluk seviyesi artan hareketler seçilmesi, her hareket grubunun kullanılması ve hareketlerin uyum içinde olması gerektiği vurgulanmalıdır ( SDB3.2 ). Grupların oluşturduğu özgün çalışmalarını müzik eşliğinde sergilemesi sağlanır ( D3.4 ). Öğrencilerin çalışmalarda aktif rol alması ve grup iletişimine katılması beklenir ( D3.4 , SDB2.2 , SDB2.1 ). Yaşına ve fiziksel özelliklerine uygun sosyal ve sportif etkinliklere katılması sağlanır (D13.2). Öğrencilere çalışmalar yapılırken ortak kullanım alanlarında kişisel eşyalarını ile ders materyallerini korumaları ve özenli kullanmaları, bedensel ve mekânsal mahremiyetlerine, kişisel ve ortak alanların temizliğine dikkat etmeleri ve başkalarını rahatsız edecek davranışlarda bulunmamaları gerektiği hatırlatılır ( D17.3 , D8.4 , D18.1 , D18.2 ). Öğrencilere istasyon çalışmalarını uygulayabilecekleri performans görevi verilebilir. Yapılan çalışmalar gözlem formu ve grup değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D16.1",
+      "D17.3",
+      "D18.1",
+      "D18.2",
+      "D20.3",
+      "D3.1",
+      "D3.4",
+      "D8.4"
+    ],
+    "egilim": [
+      "E3.1"
+    ],
+    "kavramsal": [
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1004"
+}

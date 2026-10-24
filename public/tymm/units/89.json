@@ -1,0 +1,67 @@
+{
+  "unitId": 89,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "5. ÜNİTE: EKONOMİK FAALİYETLER VE ETKİLERİ",
+  "hours": "10",
+  "description": "Bu ünitede ekonomik faaliyetlerin özelliklerinden yola çıkılarak bu faaliyet alanlarının birincil, ikincil, üçüncül, dördüncül ve beşincil sektörler şeklinde sınıflandırılabilmesi; ülke ekonomilerinin sektörel yapısını gösteren tablo, grafik, şekil ve/veya diyagramlar üzerinden ülkelerin gelişmişlik düzeylerinin karşılaştırılabilmesi; ekonomik faaliyetlerin Türkiye ekonomisindeki yeri ve öneminin hazırlanan tablo, grafik, şekil ve/veya diyagramlar üzerinden anlaşılır hâle getirilebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.10.5.1",
+      "title": "Ekonomik faaliyetleri sektörlere göre sınıflandırabilme",
+      "processComponents": [
+        "a) Ekonomik faaliyetlerin sınıflandırılmasındaki ölçütleri belirler.",
+        "b) Ekonomik faaliyetleri sektörlere göre ayırır.",
+        "c) Ekonomik faaliyetleri sektörlere göre tasnif eder.",
+        "ç) Ekonomik faaliyetleri sektörlere göre etiketler."
+      ]
+    },
+    {
+      "code": "COĞ.10.5.2",
+      "title": "Ekonomik sektörlerin dağılımını gösteren tablo, grafik, şekil ve/veya diyagramlar üzerinden farklı gelişmişlik seviyesine sahip ülkeleri karşılaştırabilme",
+      "processComponents": [
+        "a) Farklı gelişmişlik seviyesine sahip ülkelerde ekonomik sektörlerin dağılımını gösteren tablo, grafik, şekil ve/veya diyagramları bileşenleriyle tanır ve anlamlandırır.",
+        "b) Farklı gelişmişlik seviyesine sahip ülkelerde ekonomik sektörlerin dağılımını gösteren tablo, grafik, şekil ve/veya diyagramları çözümler.",
+        "c) Farklı gelişmişlik seviyesine sahip ülkelerde ekonomik sektörlerin dağılımını gösteren tablo, grafik, şekil ve/veya diyagramlardan sonuç çıkarır.",
+        "ç) Farklı gelişmişlik seviyesine sahip ülkelerde ekonomik sektörlerin dağılımını gösteren tablo, grafik, şekil ve/veya diyagramlardan elde ettiği sonuçları karşılaştırır."
+      ]
+    },
+    {
+      "code": "COĞ.10.5.3",
+      "title": "Ekonomik sektörlerin Türkiye ekonomisindeki yeri ve önemini gösteren tablo, grafik, şekil ve/veya diyagram hazırlayabilme",
+      "processComponents": [
+        "a) Ekonomik sektörlerin Türkiye ekonomisindeki yeri ve önemine ilişkin oluşturacağı tablo, grafik, şekil ve/veya diyagramın amacını belirler.",
+        "b) Ekonomik sektörlerin Türkiye ekonomisindeki yeri ve önemine ilişkin oluşturacağı tablo, grafik, şekil ve/veya diyagramın türünü ve kullanacağı araç gereci belirler.",
+        "c) Ekonomik sektörlerin Türkiye ekonomisindeki yeri ve önemine ilişkin oluşturacağı tablo, grafik, şekil ve/veya diyagramla ilgili veri toplar.",
+        "ç) Topladığı verileri ekonomik sektörlere göre sınıflandırır.",
+        "d) Ekonomik sektörlere göre sınıflandırdığı verileri görselleştirir.",
+        "e) Ekonomik sektörlerin Türkiye ekonomisindeki yeri ve önemini gösteren tablo, grafik, şekil ve/veya diyagramları amaca uygun şekilde kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "ekonomik faaliyet, ekonomik sektör, gayrisafi millî hasıla (GSMH), gayrisafi yurt içi hasıla (GSYİH), gelişmişlik, istihdam",
+  "support": [
+    "Öğrencilere yaşantısal öğrenmenin uygun adımlarında daha fazla zaman geçirme fırsatı verilebilir. Konuyla ilgili özet metinler kullanılabilir. Performans görevi, Türkiye'de yürütülen ekonomik faaliyetlerle ilgili hazırlanan kısa video, sunu vb. ürünlerin incelenmesi şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere dünyadan ekonomik sektörlerle kalkınma arasındaki ilişkiyi gösteren farklı modeller, *gelişmişlik seviyesi yüksek olan ülkelerin ekonomik özellikleri ve Türkiye'de mekânsal gelişim farklılıklarını gidermeye yönelik uygulanan bölgesel kalkınma projeleri konularında araştırma görevleri verilebilir. Öğrencilerin söz konusu araştırma görevlerini öğrenme profillerine göre farklı yollarla sunmalarına (rol oynama, eylem planı ve medya ürünü hazırlama, görsel ve sözlü sunum vb.) imkân sağlanır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; yapılandırılmış grid, çalışma yaprağı, kontrol listesi, öz değerlendirme formu, performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden Türkiye'de yürütülen ekonomik sektörler ve bu sektörlerin gelişimine yönelik bilgi görseli hazırlamaları istenebilir. Performans görevi; amaç belirleme, bilgi toplama, bilgileri düzenlenme, görselleştirme, sonuç çıkarma ve sunma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.10.5.1",
+    "Ön değerlendirme sürecinde oluşturulan zihin haritasındaki kavramlar ile ilişki kurularak ekonomik faaliyet kavramı tanımlanır. Ekonomik faaliyetlerin sınıflandırılmasında ölçüt olarak ekonomik sektörlerin üretim özellikleri esas alınır. Öğrencilerin ekonomik faaliyetlerin sınıflandırılması sürecinde gelir kaynaklarının önemine ilişkin görüşleri alınır ( OB3 ). Öğrencilerden beş ekonomik sektörün kapsadığı faaliyet alanlarını gerekçeleriyle ifade etmeleri istenir. Verilen bilgilerden yola çıkılarak ekonomik faaliyetlerin sınıflandırılması ile ilgili tablo, grafik, şekil ve/veya diyagram hazırlatılır. Çalışma kapsamında oluşturulan tablo, grafik, şekil ve/veya diyagramların sistematik şekilde tasnif edilmesi ve etiketlenmesi sağlanır (E3.7). Tasnifleme ve etiketleme sürecinde öğrencilerin tasniflemelerini sözel olarak da ifade etmelerine imkân verilir ( SDB2.1) . Öğrencilerden kendilerini bir girişimci olarak düşünmeleri ve ülkenin ekonomik anlamda gelişime ihtiyaç duyduğu bir sektör belirlemeleri istenebilir. Bireysel olarak veya grup çalışmasıyla bu sektörün gelişimine ve ülke ekonomisine katkıda bulunmak için ne tür faaliyetler yürütebileceklerini belirlemeleri istenebilir (KB3.3, SDB2.3, SDB3.3, D11.1). Ekonomik faaliyetlere ilişkin yapılandırılmış grid verilerek öğrencilerin öğrenmeleri izlenebilir.",
+    "COĞ.10.5.2",
+    "Ekonomik sektörler ve gelişmişlik ilişkisine ulaşmak için yaşantısal öğrenme döngüsü aracılığıyla düşünme ve yapma süreçleri arasında bağ kurulmaya çalışılır. Bu bağlamda öğrencilere farklı gelişmişlik seviyesine sahip ülkelerde çalışan nüfusun tarım, sanayi ve hizmet sektörlerine dağılışı ve bu sektörlerin GSYİH oranını gösteren tablo, grafik, şekil ve/ veya diyagramlar sunulur. Öğrencilerin bu coğrafi temsilleri tartışıp yorumlamaları istenebilir ( OB4, MAB4, BTYAB5) . Ülkelerin gelişmişlik seviyelerine yönelik yorum ve düşüncelerin tarafsız bir şekilde paylaşılması sağlanır (D3.3, E3.5 ). Paylaşımlar üzerine öğretmen tarafından farklı ülkelerin ekonomik gelişmişlik seviyeleri ile ilgili açıklamalarda bulunulur. Farklı tablolar üzerinden çözümlemeler yapılarak kavramsallaştırmalar desteklenir ve ilgili konuda yazılan gazete haberleri çerçevesinde ek çözümlemeler yapılabilir. Öğrencilerden ekonomik sektörler bakımından farklı gelişmişlik seviyesine sahip ülkeleri ele alan bir karşılaştırma yazısı yazmaları veya karşılaştırma tablosu oluşturmaları istenebilir. Bu ürünler üzerine tartışılarak ulaşılan sonuçlar özetlenir (SDB2.1). Öğrenmeler, çalışma yaprağıyla izlenebilir.",
+    "COĞ.10.5.3",
+    "Ekonomik sektörlerin Türkiye ekonomisindeki yeri ile ilgili oluşturulacak tablo, grafik, şekil ve/veya diyagramın amacı belirlenir. Öğrencilere tablo, grafik, şekil ve/veya diyagram hazırlama sürecinde izlemeleri gereken aşamaları içeren kontrol listesi verilir. Amaca uygun tablo, grafik, şekil ve/veya diyagram türü seçilir ve kullanılacak araç gereç temin edilir. Tablo, grafik, şekil ve/veya diyagramın hazırlanması sürecinde Türkiye'de ekonomik sektörlerin istihdam ve gayrisafi yurt içi hasıladaki yerine ilişkin ihtiyaç duyulan veriler toplanır. Geçerliliği teyit edilen veriler kaydedilir, sistematik şekilde tasnif edilir ve etiketlenir ( OB7, D3.3, E3.7, BTYAB5 ). Ekonomik sektörlerin Türkiye ekonomisindeki yerine ilişkin tablo, grafik şekil ve/veya diyagramlar hazırlanır. Bu süreçte Türkiye'deki yerli üretimin ülke ekonomisine katkısı yorumlanır (D19.3, E3.7, MAB4, TSRMAB 1). Çalışma süreci kontrol listesiyle izlenerek geri bildirim verilebilir. Bu ünitede performans görevi olarak öğrencilerden Türkiye'deki ekonomik sektörler ve bu sektörlerin gelişimine yönelik bilgi görseli hazırlamaları istenebilir. Performans görevlerinin değerlendirilmesinde analitik dereceli puanlama anahtarı ve öz değerlendirme formu kullanılabilir (SDB1.2)"
+  ],
+  "skills": {
+    "okuryazarlik": [
+      "OB3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/89"
+}

@@ -1,0 +1,140 @@
+{
+  "unitId": 273,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "3. ÜNİTE: DALGALAR",
+  "hours": "22",
+  "description": "Bu ünitede öğrencilerin su dalgalarında gerçekleşen girişim ve kırınım olaylarına ilişkin genellemeler yapmaları, ışıkta kırınım ve girişim deneyleri tasarlamaları, elektromanyetik dalgaları sınıflandırmaları, ışık renklerinin dalga boyları hakkında genellemeler yapmaları, mekanik veya elektromanyetik dalgaların kullanıldığı cihazlar hakkında bilgi toplamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.12.3.1",
+      "title": "Doğrusal su dalgalarında kırınım olayına ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Doğrusal su dalgalarında kırınım olayını gözlemler.",
+        "b) Doğrusal su dalgalarında kırınım olayını frekans, dalga boyu ve yarık genişliği değişkenleri ile ilişkilendirir.",
+        "c) Doğrusal su dalgalarında gerçekleşen kırınım olayına ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.3.2",
+      "title": "Dairesel su dalgalarında girişim olayına ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Dairesel su dalgalarında girişim olayını gözlemler.",
+        "b) Dairesel su dalgalarında girişim olayını frekans, dalga boyu ve kaynaklar arası mesafe değişkenleri ile ilişkilendirir.",
+        "c) Dairesel su dalgalarında gerçekleşen girişim olayına ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.3.3",
+      "title": "Işıkta girişim ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Işığın girişimi ile ilgili deney tasarlar.",
+        "b) Işığın girişimi ile ilgili deney düzeneğinden veri toplayarak analiz eder."
+      ]
+    },
+    {
+      "code": "FİZ.12.3.4",
+      "title": "Işıkta kırınım ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Işığın kırınımı ile ilgili deney tasarlar.",
+        "b) Işığın kırınımını deney düzeneğinden veri toplayarak analiz eder."
+      ]
+    },
+    {
+      "code": "FİZ.12.3.5",
+      "title": "Elektromanyetik dalgaları sınıflandırabilme",
+      "processComponents": [
+        "a) Elektromanyetik dalgaların niteliklerini belirler.",
+        "b) Elektromanyetik dalgaları niteliklerine göre ayrıştırır.",
+        "c) Elektromanyetik dalgaları niteliklerine göre gruplandırır.",
+        "ç) Elektromanyetik dalgaları adlandırır."
+      ]
+    },
+    {
+      "code": "FİZ.12.3.6",
+      "title": "Işık renklerinin dalga boyları hakkında tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Işık renkleri ve dalga boyları arasındaki ilişkiyi bulur.",
+        "b) Tüm ışık renklerinin ana ışık renkleri ile ilişkisine yönelik genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.3.7",
+      "title": "Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardaki dalga türlerini sorgulayabilme",
+      "processComponents": [
+        "a) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği cihazı belirler.",
+        "b) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği cihaz hakkında sorular sorar.",
+        "c) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği cihaz ile ilgili bilgi toplar.",
+        "ç) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği cihaz ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan merak ettiği cihaz ile ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "kırınım, girişim, yarıklar arası uzaklık, yarık genişliği, girişim deseni, elektromanyetik dalga spektrumu, elektromanyetik dalga enerjisi",
+  "support": [
+    "Girişim ve kırınım ile ilgili deney düzenekleri öğrencilere hazır verilebilir. Girişim olayının incelenmesinde mekanik dalgalar ile ilişkili analoji kullanılabilir."
+  ],
+  "enrichment": [
+    "Elektromanyetik spektrumda frekans sınırlarının net olmadığı, bazı dalgaların iki bölgede birden yer aldığı örnekleri araştırmaları istenebilir.",
+    "*Mekanik veya elektromanyetik dalgaların uygulamalarına ilişkin araştırmaya cihazın çalışma prensipleri eklenebilir.",
+    "*Elektromanyetik dalgaların polarizasyonu ve tıbbi görüntüleme cihazlarının çalışmalarında elektromanyetik ve mekanik dalgaların birbirine transdüserler ile dönüşümü hakkında araştırma yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; farklı madde türleri içeren çalışma kâğıdı, çıkış kartı, yapılandırılmış grid, tanılayıcı dallanmış ağaç ve açık uçlu maddeler kullanılarak değerlendirilebilir.",
+    "Kırınım olayı ile ilgili yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içeren bir çalışma kâğıdı ile değerlendirme yapılabilir. Işıkta kırınım deneyini tasarlayıp yapmaya yönelik tahmin et-gözle-açıkla yönteminin aşamalarını içeren bir çalışma yaprağı kullanılabilir. Dairesel su dalgalarında gerçekleşen girişim olayına yönelik genellemeler; yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içeren çıkış kartları gibi ölçme araçları ile değerlendirme yapılabilir. Işıkta girişim deneyi tasarlayıp yapma, tahmin et-gözle-açıkla yönteminin aşamalarını içeren bir çalışma yaprağı ile değerlendirilebilir. Elektromanyetik dalgaları sınıflandırabilme; tanılayıcı dallanmış ağaç, yapılandırılmış grid ya da açık uçlu soruların olduğu çalışma yaprağı ile değerlendirilebilir. Çalışma yaprağının değerlendirilmesinde puanlama anahtarlarından yararlanılabilir. Işık renklerinin dalga boyları hakkındaki genellemeler yapılandırılmış grid, tanılayıcı dallanmış ağaç ve açık uçlu sorulardan yararlanarak değerlendirilebilir. Mekanik veya elektromanyetik dalgaların kullanıldığı cihazlardan birinin çalışma prensiplerine yönelik araştırma yaparak poster ve sunum hazırlanması istenebilir. Çalışma yaprağı, çıkış kartı, yapılandırılmış grid, tanılayıcı dallanmış ağaç ve açık uçlu maddelerin değerlendirilmesinde puanlama anahtarlarından yararlanılabilir. Poster ve sunumun değerlendirilmesinde dereceli puanlama anahtarları ile öz ve akran değerlendirme formlarından yararlanılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.12.3.1.",
+    "Doğrusal su dalgalarında kırınım olayına ilişkin resim, video veya simülasyonlar gibi materyaller kullanılabilir. Öğrenciler kırınım olayına ilişkin gözlemler yapar. Öğrenciler kırınım olayına ilişkin gözlemledikleri durum hakkında özgün çizimler yapar ( D3.1 , OB4 ) . Çizimlerde dalga boyu ve yarık genişliğini gösterir. Öğrenciler frekansın, dalga boyunun ve yarık genişliğinin değişiminin kırınım olayına etkisine yönelik tahminler yapar ( KB2.11 ) . Öğrencilerin simülasyon, animasyon veya deney düzenekleri kullanarak tahminlere ilişkin gözlemler yapmaları sağlanır. Öğrenciler, doğrusal su dalgalarında kırınım olayını frekans, dalga boyu ve yarık genişliği değişkenleri ile ilişkilendirerek açıklar ( OB1 ) . Değişkenler üzerinden kırınım olayına ilişkin genellemeler yapar. Öğretmen; kırınım olayı ile ilgili yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içeren çalışma yaprağı ile değerlendirme yapabilir.",
+    "FİZ.12.3.2",
+    "Öğretmen yay dalgaları üzerinden girişim hakkında bilgi verir. Dairesel su dalgalarında girişim olayına ilişkin resim, video veya simülasyon gibi materyaller kullanılabilir. Öğrenciler girişim olayına ilişkin gözlemler yapar. Öğrenciler, girişim olayına ilişkin gözlemledikleri durum hakkında kendi çizimlerini yapar ( E1.4 , OB4 ) . Çizimlerde dalga boyu ve kaynaklar arası mesafeyi gösterilebilir. Öğretmen, dalga katarı ve düğüm çizgileri ile ilgili matematiksel modellere girmeden frekans, dalga boyu ve kaynaklar arası mesafe değişiminin girişim desenine etkisini öğrencilerin tahmin etmesini ister ( KB2.11 ) . Öğrencilerin simülasyon veya deney düzenekleri kullanarak tahminlerine ilişkin gözlemler yapmaları sağlanır. Öğrenciler dairesel su dalgalarında girişim olayını frekans, dalga boyu ve kaynaklar arası mesafe değişkenleri ile ilişkilendirerek açıklar ( OB1 ) . Değişkenler üzerinden girişim olayına ilişkin genellemeler yapar. Öğretmen, girişim olayı ile ilgili yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu maddeler içeren çıkış kartları gibi ölçme araçlarından biri ile değerlendirme yapabilir.",
+    "FİZ.12.3.3",
+    "Öğretmen, su dalgalarındaki girişim olayının diğer dalga türlerinde de olup olamayacağını sorar, müzikte armoni hakkında bilgi verebilir; ses ve ışık dalgalarında da girişim olayının geçerli olduğunu söyleyebilir. Öğretmen ışıkta girişim olayının anlatımı için tahmin et-gözle-açıkla yöntemini kullanmak üzere hazırladığı çalışma kâğıdını kullanabilir. Öğrencilerden, düşün-eşleş-paylaş, vızıltı gibi küçük grup tartışma tekniklerinden biri ile ışıkta girişim olayını etkileyebilecek değişkenleri tahmin etmeleri istenebilir. Öğrenciler, öğretmen rehberliğinde gruplara ayrılarak girişim olayını etkileyen yarıklar arası uzaklık ve ışığın dalga boyu ile ilgili hipotezler oluşturur ( D3.3 ) . Öğrenciler, ışıkta girişimi etkileyen yarıklar arası uzaklık ve ışığın dalga boyunu değiştirebilecek deney düzeneğini tek renkli ışık kullanarak tasarlar ( E3.4 , SDB1.2 ) . Öğrenciler çalışma kâğıdına yaptıkları deneye ilişkin gözlemlerini çizebilir. Öğrenciler, yaptıkları çizimlere ilişkin ulaştıkları sonuçları analiz ederek düşüncelerini bağlama uygun şekilde açıklar ve bunları sınıf arkadaşları ile paylaşır ( E1.5 , KB2.10 , OB1 , SDB2.1 ) . Öğretmen çalışma kâğıdını değerlendirebilir.",
+    "FİZ.12.3.4",
+    "Öğretmen, su dalgalarındaki kırınımın diğer dalga türlerinde de olup olamayacağını sorar, kırınım ağı hakkında bilgi verir; ses ve ışık dalgalarında da kırınım olayının geçerli olduğunu söyler. Işıkta kırınım olayına ilişkin süreci tahmin et-gözle-açıkla yöntemini kullanarak hazırladığı çalışma kâğıdı ile sürdürebilir. Çalışma yaprağında öğrencilerden ışıkta kırınım olayını etkileyebilecek değişkenleri tahmin etmeleri istenebilir. Öğrenciler kırınım olayını etkileyen yarık genişliği ve ışığın dalga boyu ile ilgili hipotezler kurabilir. Öğrenciler ışıkta kırınımı etkileyen yarık genişliği ve ışığın dalga boyu değişkenlerinin etkisini test edebilecekleri deney düzeneklerini tasarlar ( E3.4 , SDB1.2 ) . Öğrenciler, çalışma yaprağına tasarladıkları deney düzeneklerine ilişkin gözlemlerini çizer ( OB4 ) . Öğrenciler, yaptıkları çizimlere ilişkin ulaştıkları sonuçları analiz ederek düşüncelerini bağlama uygun şekilde açıklar ( SDB2.1 ) ve bunları sınıf arkadaşları ile paylaşır ( E1.5 , KB2.14 , OB1 ) . Öğretmen, çalışma kâğıdını dereceli puanlama anahtarı ile değerlendirebilir.",
+    "FİZ.12.3.5",
+    "Öğrencilerin gözle görülemeyen ışıkların olup olmadığı hakkında düşünmeleri istenerek dikkatleri çekilebilir. Öğrenciler ön bilgilerinden faydalanarak sürat, frekans ve dalga boyu arasındaki ilişkiyi tanımlar ( SDB1.1 ) . Öğretmen elektromanyetik dalgaların yayılımını açıklar ve genel özelliklerini listeler. Tüm elektromanyetik dalgaların boşlukta ışık sürati ile yayıldığını vurgular. Soru cevap veya beyin fırtınası gibi tekniklerden biri ile elektromanyetik dalgaların niteliklerini öğrencilerin tahmin etmelerini sağlayabilir. Elektromanyetik dalgaların frekans, sürat, dalga boyu ve enerji değişkenlerini içeren hazır veri seti verebilir. Öğrenciler veri seti üzerinden frekans ve dalga boyu değişkenleri ile elektromanyetik dalgaların enerjisini ilişkilendirir. Elektromanyetik dalgaların enerji, frekans ve dalga boyu niteliklerini belirler. Hazır veri seti üzerinden farklı ortamların elektromanyetik dalgaların süratine etkisini belirler ( OB1 , OB7 ) . Öğrenciler, öğretmen rehberliğinde gruplara ayrılarak elektromanyetik dalga spektrumunda yer alan radyo dalgaları, mikrodalga, kızılötesi ışınlar, görünür ışık, morötesi ışınlar, x ışınları, gama ışınlarını araştırır. Her grup ayrı bir dalga türünü araştırmak üzere grup üyeleriyle görev paylaşımı yapar ( SDB2.2 ) . Araştırma sonucu sınıfta paylaşılarak öğrencilerin dalga türlerini ayrıştırmaları ve gruplandırmaları sağlanır ( OB1 ) . Öğrenciler elektromanyetik spektrumu oluşturan dalgaları adlandırır. Öğretmen; tanılayıcı dallanmış ağaç, yapılandırılmış grid ya da açık uçlu soruların olduğu çalışma yaprağı ile değerlendirme yapabilir.",
+    "FİZ.12.3.6",
+    "Öğretmen, Newton'ın ışığın prizmada renklere ayrılmasına ilişkin yaptığı çalışmaları ve günlük hayatta gökkuşağının oluşumu gibi olayları kullanarak öğrencilerin dikkatini çekebilir. Öğrenciler simülasyon, deney veya görseller kullanarak ışık renklerinin dalga boyuna göre değiştiğini bulur ( OB1 ) . Öğretmen cisimlerin farklı renklerde görünme nedenlerini ışığın yansıması ile ilişkilendirerek açıklar. Işık spektrumunu oluşturan renklerin dalga boyuna ilişkin hazır veri setini kullanarak açıklamalar yapar. Öğrenciler, ışıktaki renkleri araştırarak ana ve ara ışık renklerini bulur ( E3.4 ) . Renklerin birleşimi ile ilgili sınıf içi etkinlikler yapabilir. Öğrenciler ana ışık renklerinin birleşiminden tüm renkli ışıkların oluşabileceğine ilişkin genelleme yapar ( OB1 ) . Öğretmen yapılandırılmış grid, tanılayıcı dallanmış ağaç veya açık uçlu sorulardan yararlanarak değerlendirme yapabilir.",
+    "FİZ.12.3.7",
+    "Öğretmen, mekanik ve elektromanyetik dalga türlerinin günlük hayatta kullanıldıkları yerlere ilişkin görsellerde kullanılan dalga türlerini öğrencilerin ön bilgilerinden faydalanarak belirtmelerini isteyebilir. Öğrenciler mekanik ve elektromanyetik dalga türlerinin kullanıldığı cihazlardan bir tanesine ilişkin araştırmalarında kullanacakları kaynaklara arkadaşları ile fikir alışverişi yaparak karar verir ( E2.4 , E3.9 , SDB1.2 ) ve bu kararını uygular ( D11.2 , D16.1 ) . Araştırmalarında sağlık alanında kullanılan ultrason, tomografi ve MR, askerî alanda kullanılan sonar ve radar, astronomi alanında kullanılan radyo teleskobu ve güvenlik alanında kullanılan X-ray ve metal dedektörü ile sınırlı kalınır. Öğrenciler, belirledikleri cihazın kullanım alanlarına, yöntemlerine ve bu cihazlarda kullanılan dalga türlerine ilişkin birbirlerine sorular sorar ( E3.8 ) .Öğrenciler belirledikleri sorulara ilişkin bilgi toplar ( KB2.6 ) . Öğrenciler topladığı bilgilerin doğru olup olmadığını farklı kaynakları kullanarak değerlendirir ( OB1 ) . TTopladığı bilgiler ile belirledikleri cihaza ilişkin poster hazırlayarak sınıf arkadaşlarına sunum yapabilir. Öğrenciler araştırdıkları cihazı, insan ve çevre sağlığı, kişisel mahremiye t ( D8.2 ) , askeri alanda Türkiye'nin bağımsızlığı ve korunması konularıyla ilişkilendirerek çıkarımda bulunur ( SDB3.3 ) ve bu çıkarımlarına sunumlarında yer verir ( D3.1 , D19.4 , OB1 ) . Öğrenciler, belirledikleri cihazın kullanım alanlarına ve cihazlarda kullanılan dalga türlerine ilişkin çıkarımlar yapar. Öğretmen, performans görevi olarak mekanik veya elektromanyetik dalgaların kullanıldığı cihazlara ilişkin öğrencilerin hazırladıkları ve sundukları posterleri değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D16.1",
+      "D19.4",
+      "D3.1",
+      "D3.3",
+      "D8.2"
+    ],
+    "egilim": [
+      "E1.4",
+      "E1.5",
+      "E2.4",
+      "E3.4",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.11",
+      "KB2.14",
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/273"
+}

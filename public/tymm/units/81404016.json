@@ -1,0 +1,43 @@
+{
+  "unitId": 81404016,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "16. ÜNİTE: ESKRİMDE TEMEL DURUŞ, TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.4.4.1",
+      "title": "Eskrimde temel duruş ve teknikleri açıklar",
+      "processComponents": [
+        "Kol hareketleri üzerinde durulur.",
+        "Ayak hareketleri üzerinde durulur.",
+        "Gard pozisyonu üzerinde durulur.",
+        "Hamle hareketi üzerinde durulur.",
+        "Yönler üzerinde durulur.",
+        "Siperler üzerinde durulur.",
+        "Çatma hareketi üzerinde durulur.",
+        "Karşı koyma hareketi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.4.4.2",
+      "title": "Eskrimde temel duruş ve teknikleri uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.4.4.3",
+      "title": "İzlediği ya da katıldığı eskrim müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

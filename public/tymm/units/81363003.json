@@ -1,0 +1,62 @@
+{
+  "unitId": 81363003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "3. ÜNİTE: EDEBİYAT UYGULAMALARI I - KONUŞMA",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.1.3.1",
+      "title": "Amaca uygun stratejisini seçer",
+      "processComponents": [
+        "Konuya ve amaca uygun konuşma öncesi (içerik hakkında araştırma yapma, sorular oluşturma, kılık kıyafetini seçme vb.), konuşma esnası (ses tonunu ayarlama, beden diline dikkat etme, soru sorma vb.), konuşma sonrası (özetleme, dinleyicilerden soru alma, tartışma vb.) stratejisine karar verilir."
+      ]
+    },
+    {
+      "code": "EDU.1.3.2",
+      "title": "Taslak konuşma metni oluşturur",
+      "processComponents": [
+        "Edinilen önemli bilgiler ile ön bilgiler ve/veya başka kaynaklardan elde edilen bilgiler arasında bağlantı kurulur.",
+        "Bir dizi belge veya metin (iyi yapılandırılmış uzun bir metindeki düşünceler, niyetler, olaylar, bilgiler; yazarın durum karşısındaki takındığı farklı tutumlar, örnekler, kanıtlar) benzerlik, doğruluk, önem ve tutarlılık bakımından karşılaştırılır.",
+        "Konuşma metnindeki olay, durum, olgu, nesne vb. unsurlar belirli özelliklere göre sınıflandırılır.",
+        "Okunan, dinlenen ve/veya izlenen bir metindeki olayların oluş sırasına ve mantıksal ilişkilere uygun olarak anlatı, yönergeler ve bilgiler kendi cümleleriyle yeniden oluşturulur."
+      ]
+    },
+    {
+      "code": "EDU.1.3.3",
+      "title": "Konuşma öncesi stratejilerini uygular",
+      "processComponents": [
+        "İçerik hakkında araştırma yapılır, bir konuşma metni tasarlanır ve konuşma provası yapılır. Koşullara, ortama ve belirlenen amaca uygun kıyafet seçilir. Konuşmaya başlamadan hemen önce dinleyici selamlanır ve dinleyicilere konuşmacı tanıtılır."
+      ]
+    },
+    {
+      "code": "EDU.1.3.4",
+      "title": "Konuşma esnası stratejilerini uygular",
+      "processComponents": [
+        "Kısa bir iletiye veya metne yönelik uygun şekilde sözlü karşılık verilir.",
+        "Konuşma sırasında karşıdaki kişiye ileti sunulurken sebep-sonuç ilişkilerinden, analojilerden, betimlemelerden yararlanılır.",
+        "Konuşmada ses, dikkat çekme amacıyla işitilebilir bir düzeyde vurgu ve tonlamanın yanı sıra sesinin anlam ayırıcı özelliğine önem verilerek kullanılır.",
+        "Konuşmada iletiyi desteklemek amacıyla beden dili kullanılır.",
+        "Konuşmayı desteklemek üzere fotoğraf, resim, tablo, şekil, grafik, şema, harita, kroki, diyagram, duygu belirten görsel ve renkler kullanılır.",
+        "Konuşma, belirlenen konu ve amaç doğrultusunda seçilen çeşitli yöntem ve tekniklerden faydalanılarak hedef kitleye sunulur."
+      ]
+    },
+    {
+      "code": "EDU.1.3.5",
+      "title": "Konuşma sonrası stratejilerini uygular",
+      "processComponents": [
+        "Konuşma sürecine yönelik duygu, düşünce, davranışlar ve bu sürece etki eden fiziksel, dilsel, duyuşsal ve zihinsel faktörler değerlendirilir. Konuşma tamamladıktan sonra iletilerin karşıya ulaşıp ulaşmadığı veya ne derece ulaştığı tespit edilir. Tespit edilen eksiklikler giderilir. Sonraki konuşma süreçlerinde benzer eksikliklerin oluşmaması için davranış ve tutumlar düzenlenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

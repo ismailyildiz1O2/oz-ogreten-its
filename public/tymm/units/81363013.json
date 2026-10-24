@@ -1,0 +1,77 @@
+{
+  "unitId": 81363013,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "13. ÜNİTE: EDEBİYAT UYGULAMALARI IV - BİLİM ÇALIŞMALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.4.3.1",
+      "title": "Bir problemi tespit edip bu problemin çözümüne yönelik amaç belirler",
+      "processComponents": [
+        "Bilimsel bir çalışma yapabilmek için belirli bir konuda doğruluğundan kuşkuya düşülen bir bilgiyle ilgili problem belirlenir, problemin çözümüne yönelik sorular sorularak ortaya konacak çalışmanın amacı ve hedefi tanımlanır."
+      ]
+    },
+    {
+      "code": "EDU.4.3.2",
+      "title": "Problemin çözümü için ihtiyaç duyulacak bilgileri belirler",
+      "processComponents": [
+        "Doğruluğundan kuşkuya düşülen bilginin geçerliliğini sorgulamak veya tespit edilen bir problemin çözümüne yönelik ihtiyaç duyulan bilgilerin kaynağı ve bu bilgilerin nasıl elde edilebileceği belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.4.3.3",
+      "title": "Problemin çözümüne yönelik varsayım (hipotez) öne sürer",
+      "processComponents": [
+        "Problemin kaynağına ulaşabilmenin yolları araştırılır. Farklı kaynaklardan elde edilen bilgi türlerinin problemin çözümünde nasıl kullanılacağının planlaması yapılır ve problemin çözümüne yönelik bir varsayım (hipotez) öne sürülür."
+      ]
+    },
+    {
+      "code": "EDU.4.3.4",
+      "title": "Bilgiye ulaşmak için kullanılacak yöntem ve araçları belirler",
+      "processComponents": [
+        "Belirlenen bir problemin çözümüne yönelik uygun araçlar seçilir; kullanılacak yöntem, teknik ve stratejiler belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.4.3.5",
+      "title": "Belirlenen yöntem ve araçlarla bilgi toplayıp bunları özelliklerine göre sınıflandırır",
+      "processComponents": [
+        "İhtiyaçlar doğrultusunda deney, gözlem, kaynak tarama, görüşme gibi yöntem ve araçlarla bilgi toplanır. Toplanan bilgiler, etik kurallara uygun hareket edilerek ve önceden planlanan yöntemlerle bir araya getirilir.",
+        "Elde edilen bilgiler karşılaştırılır, bunların doğruluğu ve tutarlılığı sorgulanarak kullanılacak sağlam bilgiler kaydedilir. Bu bilgilerin ayırt edici özellikleri belirlenir ve çeşitli ölçütlere göre belirlenen özelliklerine veya birbirleriyle ilişkilerine göre sınıflandırılır."
+      ]
+    },
+    {
+      "code": "EDU.4.3.6",
+      "title": "Elde edilen bilgileri işleyip problemin çözümüne yönelik akıl yürütür",
+      "processComponents": [
+        "Araştırmada elde edilen bilgiler sorgulanır, karşılaştırılır, çözümlenir, yorumlanır ve bunlardan çıkarımlar yapılarak akıl yürütülür. Yapılan gözlem, çözümleme, değerlendirme ve yorumlamalara göre veriler düzenlenip işlenir, örüntüler betimlenir, bilgiler analiz edilir. Bilgiler arasında tutarsızlık varsa bunların kaynağı bulunup var olan çelişkiler giderilir. Elde ettiği bilgiler yardımıyla genelden özele ya da özelden genele parçalar birleştirilerek özgün bir bütün oluşturulur. Problemin çözüme yönelik seçenekler oluşturulur, önermeler ortaya konur. Bu işlemler gerçekleştirilirken öznellikten uzak durulur, bilimsel bir tavır sergilenir."
+      ]
+    },
+    {
+      "code": "EDU.4.3.7",
+      "title": "Bilgileri değerlendirerek ulaştığı sonuçları paylaşır",
+      "processComponents": [
+        "Elde edilen bilgiler ışığında belirli bir sonuca ulaşılır ve problemin çözümüne yönelik bir yargı sunulur. Sonuç olarak sunulan bu yargının çalışmada elde edilen verilerle desteklenebilir ve bilimsel olarak kanıtlanabilir olmasına dikkat edilir.",
+        "Çalışmanın sonuçlarıyla ilgili bilgi vermek, elde edilen bulguları ortaya koymak ve bunları paylaşmak için makale, rapor, sunum gibi bilimsel bir dille yazılmış ve yapısal bütünlük taşıyan (özet, ön söz, içindekiler, kısaltmalar, giriş, ana bölüm, sonuç, kaynakça, dizin, ekler vb.) metinler üretilir. Üretilen bilimsel metinlerde uygun atıf, dipnot ve kaynak gösterme yöntemleri (APA, MLA, Chicago/Turabian, Harvard, IEEE vb.) uygulanır. Kitap, dergi, genel ağ vb. ortamlarda faaliyet gösteren hakemli yayınlara çalışmayla ilgili hazırlanan metin incelenmek üzere sunulur, uygun görüldüğünde yayımlanır."
+      ]
+    },
+    {
+      "code": "EDU.4.3.8",
+      "title": "Öz tepki verir",
+      "processComponents": [
+        "Bilimsel çalışma süreci boyunca bilimin etik kurallarına uyulur. Çalışmanın tüm aşamaları gözden geçirilerek çalışmada ortaya konan tavır gözden geçirilir, öz değerlendirme yapılır. Uygun davranış, düşünce ve tavırlar pekiştirilip olumlu tutumlar geliştirilir. Çalışma sürecinde edinilen bilgi ve tecrübeler sonraki çalışmalarda kullanılmak üzere not edilir. Elde edilen birikim ve tecrübe ışığında özgün araştırmacı kimliği oluşturulmaya ve geliştirilmeye çalışılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

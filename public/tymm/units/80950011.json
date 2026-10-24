@@ -1,0 +1,53 @@
+{
+  "unitId": 80950011,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "11. ÜNİTE: 11. SINIF - KARİYER GELİŞİMİ",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.11.1",
+      "title": "İlgi, yetenek ve mesleki değerlerini ilişkilendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.11.2",
+      "title": "Mesleki bilgi kaynaklarını kullanır",
+      "processComponents": [
+        "1. Hafta: Mesleki bilgi kaynaklarından güvenilir ve güvenilir olmayan kaynakları ayırt etmesine odaklanılır. 2. Hafta: YÖK Atlas, İŞKUR, MEB, üniversitelerin kariyer merkezleri ve üniversitelerin resmi genel ağ sitelerinin güvenilir mesleki bilgi kaynaklarını kullanmasına odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.11.3",
+      "title": "Seçmeyi düşündüğü mesleklerle ilgili kariyer planlaması yapar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.11.4",
+      "title": "Meslek seçiminde karar verme becerisini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.11.5",
+      "title": "Akademik amaçlarıyla kariyer seçenekleri arasındaki ilişkiyi açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.11.6",
+      "title": "Ortaöğretim sonrası kariyer tercihleri ile ilgili yardım alabileceği kaynaklara başvurur",
+      "processComponents": [
+        "Yükseköğretim ve iş yaşamına geçiş kapsamında kariyer tercihleri üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

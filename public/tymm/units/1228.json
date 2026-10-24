@@ -1,0 +1,56 @@
+{
+  "unitId": 1228,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "4. TEMA: NEYDE MAKAMLAR VE UYGULAMALARI 3",
+  "hours": "17",
+  "description": "Temanın içeriğini Türk müziğindeki uşşak makamında ney ile etüt ve Türk müziği eserlerini çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan uşşak makamında etütleri ve eserleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.6.4.1",
+      "title": ". Uşşak makamında Türk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) Uşşak makamında Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak uşşak makamında Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "makam, ney, Türk müziği",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Öğretmenin yardımı ile makamın barındırdığı seslerden oluşan etütler sık tekrar edilebilir. Eserler ve etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup, eseri ney ile seslendirirken diğer grup, eserin solfejini yapabilir. Türk müziği teori uygulama dersinde uşşak makamında öğrendikleri eserleri ney ile çalmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak uşşak, hüseyni ve hicaz makamlarında kendi melodilerini oluşturmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "NEY.6.4.1",
+    "Öğretmen tarafından uşşak makamından oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Uşşak makamının genel özellikleri anlatılarak, makamın dizisi gösterilip solfeji yapılır ve öğrencilerin odaklanıp makamın genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 .). Daha sonra öğretmen, uşşak makamından oluşan etüt ve Türk müziği eserlerini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler öğretmen tarafından yapılan bona ve solfeji inceleyip, etüt ve Türk müziği eserlerinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB9 ). Seslendireceği uşşak makamındaki etüt ve Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin etütleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Uşşak makamının belirgin şekilde algılanması için uzun seslerden oluşan etütler ve Türk müziği eserleri, öğretmen tarafından doğru teknik ile ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ve etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar, gözlem formu ile değerlendirilebilir. Performans görevi olarak uşşak, hüseyni ve hicaz makamlarında kendi melodilerini oluşturmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1228"
+}

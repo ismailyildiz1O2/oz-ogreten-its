@@ -1,0 +1,65 @@
+{
+  "unitId": 1538,
+  "grade": 0,
+  "gradeName": "II. DÜZEY BİLİM UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY IV · 2. Tema: Sağlık Ve Sporda Bilim",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.BU.2.2.1",
+      "title": "Bağımlılıkla mücadele konusunda bilimin rolüne ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Bağımlılıkla mücadele kavramına ilişkin nitelikleri tanımlar.",
+        "b) Bağımlılık ve bağımlılıkla mücadele konusunda bilimin rolüne ilişkin veri toplar ve kaydeder.",
+        "c) Bağımlılık ve bağımlılıkla mücadele konusunda bilimin rolüne ilişkin topladığı verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.BU.2.2.2",
+      "title": "Uygun aydınlatma kullanımının sağlık üzerindeki etkisi hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Uygun aydınlatma kullanımının sağlığa etkisi ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Uygun aydınlatma kullanımının sağlığa etkisi hakkında bilgiler bulur.",
+        "c) Uygun aydınlatma kullanımının sağlığa etkisi hakkında bulduğu bilgileri doğrular.",
+        "ç) Uygun aydınlatma kullanımının sağlığa etkisi hakkında bulduğu bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.BU.2.2.3",
+      "title": "Teknolojik gelişmelerin spor alanına etkisini tartışabilme",
+      "processComponents": [
+        "a) Teknolojik gelişmelerin spor alanına etkisine yönelik mantıksal temellendirme yapar.",
+        "b) Teknolojik gelişmelerin spor alanına etkisine yönelik mantıksal çelişkileri tespit eder.",
+        "c) Teknolojik gelişmelerin spor alanına etkisine yönelik fikirleri çürütür ya da kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "bağımlılık, spor alanında teknolojik gelişmeler, uygun aydınlatma",
+  "support": [
+    "Yeşilayı ve çalışmalarını tanıtan videolar izletilerek bağımlılıktan korunma yollarıyla ilgili özetleme yaptırılabilir.",
+    "Verilen aydınlatılmış ortam görselleri karşılaştırılarak bu görselleri uygun ve uygun olmayan aydınlatma olarak sınıflandırmaları istenebilir. Uygun olmayan aydınlatmanın insan sağlığı üzerindeki etkilerini listelemeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "1-7 Mart Yeşilay Haftası kapsamında Yeşilay’ın bağımlılıklar üzerindeki rolü ve gelecek vizyonu ile ilgili bir sosyal farkındalık projesi hazırlayarak uygulamalarına ilişkin bir görev verilebilir.",
+    "Mühendislik ve tasarım süreci kullanılarak aydınlatmaya yönelik kodlama ve FETEMM eğitim anlayışı doğrultusunda uygun bir aydınlatma aracı tasarlamaları istenebilir.",
+    "Uygun aydınlatmanın insan sağlığına etkisiyle ilgili yapılan bilimsel çalışmaları araştırarak bir rapor hazırlaması istenebilir.",
+    "Teknolojik gelişmelerin spor alanına etkisine ilişkin yenilikçi uygulamaları araştırarak bir tanıtım posteri oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, eşleştirme testleri, yapılandırılmış grid, açık uçlu sorular, araştırma ve performans görevleri kullanılabilir. Ayrıca tema sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Bağımlılıktan korunmak için yapılması gerekenler ile ilgili bireysel ya da grup olarak poster, afiş, broşür vb. hazırlamaya yönelik performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Öğrencilere uygun aydınlatma kullanımının sağlık üzerindeki etkisi ile ilgili bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilebilir. Bu görev bütüncül dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.BU.2.2.1 .",
+    "Bağımlılıkla ilgili açık uçlu sorular sorularak öğrencilerden kişilerin nelere bağımlı olunabileceğine yönelik örnekler vermeleri istenir ( E3.8 , E1.5 , SDB2.1 ). Öğrencilerin bağımlı bireylerin yaşadıkları sorunların neler olabileceği ile ilgili düşünmeleri sağlanır ( KB3.3 , SDB2.3 , E3.10 ). Öğrencilerin bağımlılıkla mücadele kavramına ilişkin nitelikleri tanımlamaları istenir. Öğrenciler gruplara ayrılarak tütün, teknoloji ve kumar bağımlılığının kişiye bedensel ve ruhsal olarak etkileri ile bu bağımlılıklardan korunmak için neler yapılabileceği ve bu konuda bilimin rolüne ilişkin veri toplamaları ve kaydetmeleri istenir ( E1.1 , OB1 ). Bu süreçte güvenilir genel ağ adresleri, basılı kaynaklar vb. yararlanabilecekleri belirtilir ( OB1 , OB2 , E3.4 ). Ardından ulaştıkları verileri sınıf ortamında tartışmaları ve yorumlayarak değerlendirmeleri istenir ( E3.5 , D14.1 ). Bilimin bağımlılıkla mücadele konusunda ne gibi çözümler ürettiğini; tütün, teknoloji ve kumar bağımlılıklarının insan sağlığına etkileri ve bu bağımlılıklardan korunmak için yapılması gerekenleri öğrencilerin yorumlaması beklenir ( E3.6 , E2.2 , D16.3 ). Bağımlılıktan uzak durarak sağlıklı yaşama özen göstermeleri desteklenir ( SDB1.3 , D5.2 , D13.3 ). Yeşilayın bağımlılıkla mücadeledeki işlevi vurgulanarak öğrencilerin bu çalışmaların önemini içselleştirmeleri desteklenir ( SDB2.3 , D3.3 ). Ayrıca Sağlık Bakanlığının bağımlıkla mücadele için hazırladığı uygulamalara değinilir ( SDB2.3 ). Tütün, teknoloji ve kumar bağımlılıklarından korunmak için yapılması gerekenler ile ilgili bireysel ya da grup olarak hazırlayabilecekleri poster, afiş, broşür vb. performans görevleri verilebilir ( SDB1.2 , SDB2.1 , SDB2.2 , KB2.5 ). Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç, açık uçlu sorular vb. kullanılabilir.",
+    "MBU.BU.2.2.2.",
+    "Uygun aydınlatma kavramı sorularak fikirleri alınır. Ardından uygun aydınlatmada ışığın rengi, yayılması, yönü ve miktarının doğru bir şekilde ayarlanmasının etkili olduğuna değinilir. Öğrencilere uygun aydınlatmanın nerelerde kullanılabileceğine yönelik açık uçlu sorular sorulur ( E1.1 ). Ayrıca uygun aydınlatma kullanımının sağlık üzerindeki etkisi ile ilgili düşünmeleri istenir ( E3.5 , E3.10 , D13.4 ). Öğrencilere uygun aydınlatma kullanımının sağlık üzerindeki etkisi ile ilgili bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilir ( SDB1.2 , SDB2.2 ). Bu süreçte görev bilinciyle hareket ederek sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 , D16.3 ). Uygun aydınlatma kullanımının sağlık üzerindeki etkisi ile ilgili bilgilere ulaşmak için kullanacağı araçları belirlemeleri istenir ( SDB3.3, D3.3 , D16.3 ). Bu araçlar dijital içerikler, yazılı ve görsel kaynaklar olabilir ( OB1 , OB2 , OB4 ). Uygun aydınlatma kullanımının sağlık üzerindeki etkileri ile ilgili ulaştıkları bilgileri arkadaşları ile tartışarak, öğretmeninden yardım alarak veya bilimsel kaynaklara başvurarak doğrulamaları istenir ( OB1 , D14.1 , E3.4 , SDB2.1 ). Doğruladığı bilgileri kaydedetmeleri ve raporlaştırarak sunmaları istenir ( SDB2.1 ). Uygun aydınlatmanın uyku düzeni, çalışma verimi, bağışıklık sistemi, göz ve ruh sağlığı üzerinde etkileri olduğuna değinilir ( D13.4 , E3.4 ). Hazırlanan ürünler bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç, açık uçlu sorular, eşleştirme testleri vb. kullanılabilir.",
+    "MBU.BU.2.2.3.",
+    "Öğrencilere teknolojik gelişmeler ile ilgili açık uçlu sorular yöneltilir. Teknolojik gelişmelerin spor alanındaki etkilerinin neler olabileceği sorularak öğrencilerin örnekler vermesi istenir. Teknolojik gelişmelerin spor alanındaki etkisine ilişkin grup tartışması yöntemlerinden altı şapkalı düşünme tekniğinden faydalanılabilir ( SDB2.1 , SDB2.2 , SDB3.3 ). Bu süreçte öğrencilerden açık fikirli davranmaları sağlanır ( E3.5 , D6.1 ). Öğrencilerin konu hakkındaki görüşlerini mantıksal olarak ifade etmeleri istenir ( SDB2.1 ). Bu aşamada ortaya çıkan fikirleri eleştirel bakış açısıyla irdeleyerek kendi görüşleri hakkında düşünmeleri sağlanır ( KB3.3 , E3.10 , SDB1.2 ). Teknolojik gelişmelerin spor alanına etkisine yönelik mantıksal çelişkileri tespit etmeleri beklenir ( SDB3.3 , E3.4 , E3.1 ). Teknolojik gelişmelerin spor alanına etkisine ilişkin geçerli fikirleri kabul eder ( SDB3.3 ). Bu süreçte öğrencilerin açık fikirli davranmaları, araştırmacı ve sorgulayıcı bakış açısıyla fikirlerini savunmaları sağlanır ( E3.5 , D3.3 ). Süreç sonunda ulaşılan fikirler değerlendirilerek çürütülmesi veya kabul edilmesi sağlanır ( OB1 , D3.3 , E2.2 ). Teknolojik gelişmelerin spor alanındaki uygulamaları tanıtılır ( OB2 ). Paralimpik oyunlardaki yarışmalarda kullanılan tekerlekli sandalye, koşu bacakları, akıllı boneler vb. araçlara değinilir. Tartışma sürecini değerlendirmede grup değerlendirme formu kullanılır ( SDB2.2 ). Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç, yapılandırılmış grid, açık uçlu sorular vb. kullanılabilir."
+  ],
+  "skills": [
+    "FBAB8. Bilimsel Çıkarım Yapma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1538"
+}

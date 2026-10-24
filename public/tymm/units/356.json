@@ -1,0 +1,83 @@
+{
+  "unitId": 356,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "2. ÜNİTE: SAĞLIKLI BESLENİYORUM",
+  "hours": "15",
+  "description": "Bu ünitede besin içeriklerini ayırt etmek için deney yapılması, besinlerde vitaminler ve minerallerin bulunduğuna ilişkin genellemelere ulaşılması, dengeli beslenmede besinlerin işlevleri ile ilgili hipotez oluşturulması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.4.2.1",
+      "title": "Besin içeriklerini ayırt etmek için deney yapabilme",
+      "processComponents": [
+        "a) Besinlerdeki protein, karbohidrat, yağ ve su içeriğini ayırt etmek için deney tasarlar.",
+        "b) Yaptığı deneyde veri analizi yapar."
+      ]
+    },
+    {
+      "code": "FB.4.2.2",
+      "title": "Besinlerde vitamin ve/veya mineral bulunduğuna ilişkin genelleme yapabilme",
+      "processComponents": [
+        "a) Besinlerdeki vitamin ve mineraller ile ilgili bilgi toplar.",
+        "b) Besinlerdeki ortak olan özellikleri belirler.",
+        "c) Besinlerdeki ortak olmayan özellikleri belirler.",
+        "ç) Örüntüler üzerinden besinlerde vitamin ve/veya minerallerin bulunduğu önermesinde bulunur."
+      ]
+    },
+    {
+      "code": "FB.4.2.3",
+      "title": "Besinlerin işlevleri ile ilgili hipotez oluşturabilme",
+      "processComponents": [
+        "a) Besinlerin işlevleri ile ilgili problemi tanımlar.",
+        "b) Besinlerin işlevleri ve vücudumuzdaki görevleri arasındaki neden-sonuç ilişkilerini belirler.",
+        "c) Besinlerin içerikleri ile ilgili verilen değişkenleri belirler.",
+        "ç) Besinlerin işlevleri ile ilgili değişkenleri kontrol eder.",
+        "d) Besinlerin işlevleri ve sağlıklı yaşam arasındaki ilişkiye yönelik önerme sunar."
+      ]
+    }
+  ],
+  "keyConcepts": "karbohidrat, protein, yağ, su, vitamin, mineral, sağlıklı yaşam",
+  "support": [
+    "Besin içerikleri ile ilgili dijital oyunlar oynamaları sağlanabilir. Besinlerin işlevleri ile ilgili belgesel, çizgi film izletilebilir. Ünite içerikleri sesli metin ya da video ile desteklenebilir. Grup deneyleri yaptırılarak iş birlikli öğrenme fırsatı sunulabilir. Deneyin şeması çizilerek ve özeti yapılarak öğrencilerden sınıfta tartışmaları istenebilir."
+  ],
+  "enrichment": [
+    "Dijital ortamda besin içerikleri ile ilgili oyun tasarlamaları istenebilir. Diyetisyenlik mesleğini araştırmaları veya bir diyetisyen ile röportaj yapmaları istenebilir. İlk Türk kadın doktor olan Safiye Ali'nin hayatını araştırmaları istenebilir. Okula en yakın aile sağlığı merkezi ile iletişim kurularak sağlıklı beslenmeye ilişkin seminer, bilgilendirme vb. talebinde bulunmaya teşvik edilebilir. Gıda tasarrufu ile ilgili sosyal farkındalık projesi tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde V diyagramı, çalışma yaprağı, performans görevi, öz değerlendirme formu ve öğrenci ürün dosyası kullanılabilir. Besinlerde karbohidrat, protein, yağ ve suyun varlığını tespit etmek için yapılan deney, V diyagramı ile değerlendirilebilir. Mineral ve vitaminlerin bulunduğu besinler ile ilgili süreci değerlendirmek için çalışma yaprağı kullanılabilir. Sağlıklı yaşam ve besinlerin içerikleri arasındaki ilişkiyi gösteren ürünler performans görevi (afiş, poster, sunum gibi) ve öz değerlendirme formu ile değerlendirilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.4.2.1. Deney için kullanılabilecek malzemeler önceden hazırlanır. Öğrencilerden sınıfa getirilen yiyeceklerdeki besin içeriklerini belirlemek için deney tasarlamaları beklenir. Öğrenciler deney planlama konusunda desteklenerek öz yeterlilik algılarının güçlenmesi sağlanır ( SDB1.2 , E1.4 , D3.2 , D3.3 ) . Örneğin öğrenciler besinlerin suyunu sıkabilir, besini kâğıda sürerek yağın varlığını gösterebilir, karbohidrat ve proteinin varlığını tespit etmek için lügol çözeltisi kullanabilir. Deney sırasında gerekli güvenlik önlemleri alınır. Karbohidrat, protein, yağ ve suyun besinlerdeki varlığını ayırt etmek için tasarlanan deneylerden elde edilen verilerin analiz edilmesi istenir ( SDB1.2 , E3.6 , KB2.14 ) . Çalışma sırasında öğrenciler, verilerini doğru kaydederek sorumluluklarını akademik dürüstlüğe uygun şekilde yerine getirmeleri için yönlendiriir ( D3.3 , D3.4 ) . Yapılan deneyin notları V diyagramı yardımıyla sistematik olarak alınır ve değerlendirilir ( SDB1.2 , E3.7 ) . Analiz sonuçlarını açıklamak için pazar yeri tekniği kullanılabilir ( SDB2.1 ) .",
+    "FB.4.2.2. Sınıfa su, maden suyu, meyve suyu gibi paketli içecekler getirilerek öğrencilerde merak uyandırılabilir; bu ürünlerin etiketlerinin incelenmesi sağlanır ( E1.1 ) . Öğrencilerin içecek etiketlerinde belirtilen besin içerikleri ile ilgili araştırma yaparak bilgi toplamaları sağlanır ( SDB1.2 , E3.4 ) . Öğrencilerin araştırma yapabilmesi için bilgi edinebilecekleri materyallere, internet kaynaklarına vb. ulaşabilmelerine ortam hazırlanabilir ( KB2.6 ) . Öğrencilerin topladıkları bilgileri birbirleriyle paylaşmaları için galeri yürüyüşü tekniği uygulanabilir. Etiketlerde ortak olan içerikler belirlenir (Bunlar vitamin ve/veya mineraller olabilir). Etiketlerdeki ortak olmayan içerikler belirlenir (Bunlar farklı vitaminler ve/veya mineraller olabilir) ( SDB1.2 , E3.7 ) . Ortak olan ve olmayan özelliklerden yola çıkılarak kurulan örüntüler ile bütün besinlerin vitamin ve/veya mineral içerdiği önermesinde bulunmaları beklenir ( SDB1.3 ) . Öğrenciler; merak duygusu ile takip etmeleri, doğru ve güvenilir bilgiyi ayırt etmeleri, edindikleri bilgileri eleştirel bakış açısıyla değerlendirmeleri için teşvik edilir ( D3.3 ) . Öğrencilerin yaptıkları önermeler çalışma yaprağı ile değerlendirilebilir.",
+    "FB.4.2.3. Tartışma, soru-cevap vb. yaklaşımlarla beslenme ve fiziksel, duygusal iyi oluş hâli arasındaki ilişkiye ve bu konudaki alışkanlıkların önemine dikkat çekilir ( D13.1 , D13.2 ) . Öğretmen ders öncesinde beslenme ile ilgili bir senaryo veya soru hazırlar. Örneğin besinler tartışması gibi bir senaryo çerçevesinde, \"Yumurta sağlıklı bir besin mi? Her öğün ve her gün yumurta yiyen biri sağlıklı beslenmiş olur mu?\" vb. sorular sorabilir. Verilen senaryo veya sorudaki problemi tanımlamaları sağlanır ( SDB3.3 , E3.4 ) . Her bir besin içeriğinin işlevi öğrencilere kanıt kartları ya da dijital içerik gibi araçlar kullanılarak tanıtılır. Besinlerin işlevleri ve sağlıklı yaşam arasındaki neden-sonuç ilişkilerini belirlemeleri beklenir ( SDB3.3 , E3.6 , D3.3 ) . Karbohidrat, protein, yağ, su, vitamin ve mineral içerikleri farklı olan besinlerin olduğu bir değişken tablosu verilebilir. Öğrencilerden değişkenleri belirlemeleri istenir. Besinlerin işlevlerini dikkate alarak öğrencilerden menüler hazırlamaları istenebilir ( SDB3.2 , E1.4 ) . Bu menüleri hazırlama aşamasında farklı ihtiyaçlara yönelik olarak öğrencilerden değişkenleri kontrol etmeleri beklenir. Oluşturulan menülerden yola çıkılarak tanımlanan problemin çözümüne yönelik besinlerin işlevleri ve sağlıklı yaşam arasında ilişki kuran önerme sunmaları sağlanır. Yapılan çalışmalar öz değerlendirme formu, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir ( SDB1.3 ) . Paketli, hazır ve dondurulmuş gıdaların tüketilmesinde dikkat edilmesi gerekenlere; taze sebze ve meyvelerin mevsiminde tüketilmesine örnekler verilir. Protein, karbohidrat, yağ, vitamin, su ve minerallerin ayrıntılı yapısına girilmez. Vitamin ve mineral çeşitlerinden örnekler verilebilir. Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D13.2",
+      "D3.2",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4",
+      "E3.4",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.6"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/356"
+}

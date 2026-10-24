@@ -1,0 +1,91 @@
+{
+  "unitId": 399,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "4. ÜNİTE: IŞIĞIN DÜNYASI",
+  "hours": "14",
+  "description": "Bu ünitede bir ışık kaynağından çıkan ışığın basit ışık ışınları ile çizilmesi, ışığın her yöne ve doğrusal bir yolla yayıldığının açıklanması, maddelerin ışık geçirme durumuna göre sınıflandırılması, tam gölgenin oluşumu gözlemlenerek tam gölgenin basit ışık ışını çizimleri ile gösterilmesi ve tam gölgenin boyunu etkileyen faktörlerin açıklanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Işığın Yayılması",
+      "processComponents": []
+    },
+    {
+      "code": "FB.5.4.1.1",
+      "title": "Bir kaynaktan çıkan ışığın her yönde doğrusal bir yol izlediğini gözlem yoluyla açıklayabilme",
+      "processComponents": [
+        "a) Bir kaynaktan çıkan ışığın izlediği yolu gözlemleyerek niteliklerini tanımlar.",
+        "b) Gözlemleri sonucunda ışığın izlediği yola ilişkin elde edilen verileri kaydeder.",
+        "c) Işığın her yönde doğrusal bir yol izlediğini açıklar. 2. Bölüm: Madde ve Işık"
+      ]
+    },
+    {
+      "code": "FB.5.4.2.1",
+      "title": "Maddeleri ışığı geçirme durumlarına göre sınıflandırabilme",
+      "processComponents": [
+        "a) Maddelerin ışığı geçirme durumlarına göre niteliklerini belirler.",
+        "b) Maddeleri ışığı geçirme durumlarına göre ayrıştırır.",
+        "c) Maddeleri ışığı geçirme durumlarına göre gruplandırır.",
+        "ç) Maddeleri ışığı geçirme durumlarına göre etiketler. 3. Bölüm: Tam Gölgenin Oluşumu"
+      ]
+    },
+    {
+      "code": "FB.5.4.3.1",
+      "title": "Tam gölgeye yönelik bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Tam gölgenin nitelikleri tanımlar.",
+        "b) Tam gölgeye ait elde ettiği verileri kaydeder.",
+        "c) Tam gölgeyi etkileyen değişkenleri açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "ışığın doğrusal olarak yayılması, saydam, yarı saydam, saydam olmayan (opak) madde, tam gölge",
+  "support": [
+    "Öğrencilerin bireysel ilerlemelerine olanak tanıyan animasyon, simülasyon gibi dijital öğrenme araçları kullanılabilir.",
+    "İçeriği anlamayı kolaylaştırmak için görsel ipuçları kullanılabilir.",
+    "Günlük yaşamdan kolay ulaşılabilir çeşitli malzemelerle öğrencilerin ek etkinlikler yapmaları sağlanarak konu somutlaştırılabilir."
+  ],
+  "enrichment": [
+    "Sivas Divriği Cami ve Darüşşifası'nın yapımı sürecinde mimari tasarımı ön plana çıkarmak amacıyla cami kapısında gölge olarak beliren insan silüetlerinin nasıl oluştuğuna yönelik araştırma ödevi verilebilir. Güneş saatinin çalışma prensibini araştırmaları istenebilir"
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde görsel tamamlamayı içeren çalışma kâğıtları ve performans görevi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Işığın madde ile etkileşimine bağlı olarak günlük yaşamdan maddenin sınıflandırılmasına yönelik poster, afiş hazırlamalarını içeren performans görevi verilebilir. Afişin, posterin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir. Ayrıca maddelerin ışık geçirgenliğine göre sınıflandırılması üzerine kavram haritaları hazırlatılabilir ve değerlendirilmesinde kontrol listeleri kullanılabilir"
+  ],
+  "teachingApplications": [
+    "FB.5.4.1.1 Öğrencilere doğal ve yapay ışık kaynaklarının özelliklerine yönelik sorular sorulur ( KB2.7 ) . El feneri, araba farları gibi araçların aydınlatma amaçlı kullanımı, bulutlu bir günde güneş ışığının yayılması vb. örnekler üzerinden deneyimlerini değerlendirebilmek için öğrenciler küçük gruplara ayrılır. Grup çalışmalarında öğrencilerin birbirleriyle uyumlu bir şekilde farklı roller alarak görev bilinciyle yardımlaşmaları istenir ( D10.3 ) . Gruplara doğrusal ve doğrusal olmayan pipet vb. araçlar verilerek öğrencilerin birbirini gözlemlemeleri istenir. Öğrencilerin gözlem sonuçlarını tartışarak ışığın yayılması ile ilgili nitelikleri tanımlamaları sağlanır ( OB1 , SDB2.1 ) . Optik biliminin mimarı kabul edilen İbnülheysem'in karanlık oda (kutu) deneyi ve ışık konusunda yaptığı çalışmalar hakkındaki bilgiler öğrencilerle paylaşılabilir. Gösteri deneyleri yapılarak öğrencilerin ışık kaynağından çıkan ışık ışınlarını bilimsel bir bakış açısıyla gözlemlemeleri ve ışık ışınlarını çizerek bilgileri kaydetmeleri istenir ( D3.3 , OB7 , KB2.6 ) . Işığın yayılması ile ilgili dijital içeriklerden yararlanılır ( OB2 ) . Verilen görevler çerçevesinde elde ettikleri verileri karşılaştırarak çizimlerinde ışığı bir doğru şeklinde çizmeleri, kaynağından çıkan ışık ışınlarının her yöne doğrusal bir yolla yayıldığını etkin bir şekilde açıklamaları beklenir ( SDB1.2 ) . Işık ışınları çizilirken matematik dersi, ışık kaynakları çizilirken görsel sanatlar dersi ile ilişkilendirilebilir. Tüm sürece ilişkin değerlendirmede görsel tamamlamayı içeren çalışma kâğıdı vb. kullanılabilir.",
+    "FB.5.4.2.1 Evlerde kullanılan perdelerin neden farklı olduğu maddenin ışığı geçirme durumları bağlamında sınıf içinde tartışılır ( SDB1.2 ) . Öğrenciler gruplara ayrılarak kitap, şeffaf dosya, karton, cam, buzlu cam, alüminyum folyo vb. maddelerin üzerine düşürülen ışık ışınlarını maddelerin ışık ışınlarını geçirgenliği açısından öğrencilerin gözlemlemeleri istenir. Grup içinde öğrencilerin görev bilinciyle gözlemlerini ifade etmeleri beklenir ( D16.3 , E1.2 ) . Öğrencilerin elde ettikleri deneyimleri ile maddenin ışık geçirgenliğine göre niteliklerini belirlemeleri istenir. Gözlem sonuçlarına ait verileri toplayarak tablo hâlinde kaydetmeleri istenir ( OB7 , KB2.6 ) . Öğrencilerden maddelerin hangilerinin ışığı geçirdiğini, kısmen geçirdiğini veya geçirmediğini tablolaştırarak sistematik şekilde ayrıştırmaları sağlanır ( E3.7 , KB2.7 ) . Öğrencilerin tabloya kaydettikleri verileri yorumlayarak gözlemleri sonucunda maddeleri ışık geçirgenliğine göre gruplandırmaları beklenir ( KB2.5 ) . Günlük yaşamda yakından uzağa ilkesi ile çevresindeki maddeleri ışık geçirgenliğine göre saydam, yarı saydam ve saydam olmayan (opak) cisim olarak etiketlemeleri ve bu maddelere örnekler vermeleri sağlanır ( OB1 , KB2.9 ) . Saydam ve yarı saydam maddelerin kalınlığı arttıkça ışık geçirgenliğinin azaldığı belirtilir. Bu duruma günlük hayattan sis olayı örnek olarak verilebilir. Performans görevi olarak ışığın madde ile etkileşimine bağlı olarak günlük yaşamdan maddelerin sınıflandırılmasını amaçlayan poster, afiş tasarlama vb. verilebilir. Performans değerlendirmede bütüncül dereceli puanlama anahtarı kullanılabilir. Öğrenme durumları için çalışma kâğıdı kullanılabilir.",
+    "FB.5.4.3.1 Gruplara ayrılan öğrencilerin etkin katılımları sağlanarak saydam olmayan maddelerden tangram oluşturmaları istenir ( SDB2.1 ) . Öğrencilerin hazırladıkları bu tangramları pipet,kalem vb. araçlara sabitleyip ışık ışınları göndererek ekran üzerinde gölge oluşturmaları beklenir. Ekranda oluşan gölgenin özelliklerini tanımlamaları istenir. Saydam olmayan kare veya daire şeklindeki cisimler kullanılarak yarı gölgeye girilmeden oluşan tam gölgeyi basit ışık ışınları kullanarak çizmeleri istenir ( E2.5 ) . Küresel ışık kaynağına değinilmeden noktasal ışık kaynağı ile saydam olmayan cisim arasındaki mesafeye göre tam gölgenin boyu ile ilgili sorular sorulur ( KB2.7 ) . Verilen cevaplar çerçevesinde benzer durumlara ilişkin öğrencilerin günlük yaşantılarından örneklendirme yapmaları istenir ( KB2.13 ) . Ekran sabit tutularak gölge boyunu etkileyen değişkenleri açıklamaları beklenir.Işık kaynağı sayısı arttıkça gölge sayısının değiştiğine girilmez. Tam gölgenin oluşumunun çizimle gösterilmesi için görsel tamamlamayı içeren çalışma kâğıtları vb. kullanılabilir. Işık ışınları çizimi ve tangram şekilleri matematik dersi, ışık kaynakları çizimi görsel sanatlar dersi ile ilişkilendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D16.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.2",
+      "E2.5",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.5",
+      "KB2.6",
+      "KB2.7",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/399"
+}

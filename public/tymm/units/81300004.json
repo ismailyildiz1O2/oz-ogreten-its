@@ -1,0 +1,49 @@
+{
+  "unitId": 81300004,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Klasik Ahlak Metinleri Dersi",
+  "title": "4. ÜNİTE: AHLAK VE ERDEM",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KAM.2.2.1",
+      "title": "Ahlak ile erdem ilişkisini tartışır",
+      "processComponents": [
+        "Temel erdemlerden olan “adalet, hikmet, iffet ve cesaret” kavramlarına değinilir.",
+        "Tartışma programı, film, televizyon haberleri veya sosyal medya içeriklerinde erdemli olan ve erdemli olmayan davranışları ayırt etmesi sağlanır.",
+        "Günlük durum ve olaylar çerçevesinde erdemli yaşamanın değeri hakkında çıkarımlarda bulunur."
+      ]
+    },
+    {
+      "code": "KAM.2.2.2",
+      "title": "Klasik metinleri ahlak ve erdem temelinde analiz eder",
+      "processComponents": [
+        "Gazzâlî'nin İhya'ü Ulûmi'd-Dîn adlı eserindeki güzel ahlak anlayışı üzerinde durulur.",
+        "Ahmed Yesevî'nin Dîvân-ı Hikmet adlı eserindeki ilim sahibi bir insanın özelliklerinin incelenmesi sağlanır.",
+        "Sadi Şirazi'nin Bostan ve Gülistan adlı eserindeki erdemli davranışlarla ilgili görüşlerine yer verilir.",
+        "Hacı Bektâş-ı Velî'nin Makalât adlı eserinden yola çıkarak insanın taşıdığı ahlaki özellikler üzerinde durulur.",
+        "Âşık Paşa'nın Garibnâme adlı eserinde yer alan insanın erdemli yaşamında sahip olması gereken vasıflar hakkındaki görüşü ahlaki değerler bağlamında ele alınır.",
+        "Abdürrezzâk el-Kâşânî'nin Tuhfetü'l-İhvan başlıklı fütüvvetnâmesinin 5. ve 8. babında ele alınan doğruluk ve vefa kavramları üzerinde durulur.",
+        "Taşköprizâde Ahmet Efendi'nin Şerhu'l-Ahlâki'l-Adudiyye adlı eserindeki erdem kavramının açıklanması sağlanır."
+      ]
+    },
+    {
+      "code": "KAM.2.2.3",
+      "title": "Bilgi ve erdem temelli ahlak üzerine görüş ve argümanları değerlendirir",
+      "processComponents": [
+        "Gülşehrî'nin Mantıku't-Tayr adlı eserinde geçen Himmeti Yüce Kuşun Sorusu metni incelenerek erdemli yaşamada azim ve gayretin öneminin yorumlanması sağlanır.",
+        "Günümüzde bilim ve teknoloji kullanımının ortaya çıkardığı sonuçları ahlaki açıdan değerlendiren bir metin yazmaları istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316030660-KlasikAhlakMetinleri%20%281%29.pdf"
+}

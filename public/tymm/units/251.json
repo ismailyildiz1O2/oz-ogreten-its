@@ -1,0 +1,82 @@
+{
+  "unitId": 251,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "5. TEMA: SAYMA, ALGORİTMA VE BİLİŞİM",
+  "hours": "28",
+  "description": "Bu temada öğrencilerin saymayı gerektiren durumlarda problem çözme becerisini uygulayabilmeleri, algoritmik bir dille cebirsel ve fonksiyonel işlemleri yapılandırabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.10.5.1",
+      "title": "Sayma stratejileri kullanarak problem çözebilme",
+      "processComponents": [
+        "a) Verilen sayma problemindeki sayılacak nesneleri belirler.",
+        "b) Sayma problemlerinde yer alan nesneler arasındaki ilişkileri belirler.",
+        "c) Problem durumlarındaki sözel ifadeleri görsel temsillere dönüştürür.",
+        "ç) Problem durumlarını onlara eş olan başka problem durumlarıyla ya da uygun görsel, tablo veya cebirsel temsillerle yeniden ifade eder.",
+        "d) Sayma problemlerindeki farklı durumlara uygun çözüm stratejisi oluşturur.",
+        "e) Seçtiği çözüm stratejisini kullanır.",
+        "f) Seçtiği çözüm stratejisini kontrol eder.",
+        "g) Sayma problemlerindeki olası çözüm stratejilerini gözden geçirir.",
+        "ğ) Sayma problemlerinde çözüme ulaştıran stratejilere yönelik çıkarımlar yapar.",
+        "h) Sayma problemlerinde çözüme ulaştıran stratejilere yönelik çıkarımları değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.10.5.2",
+      "title": "Cebirsel ve fonksiyonel işlemleri algoritmik bir dille yapılandırabilme",
+      "processComponents": [
+        "a) Karşılaşılan problem durumlarındaki cebirsel ve fonksiyonel işlemlerin algoritmik yapısını ortaya koyar.",
+        "b) Ön bilgilerini kullanarak cebirsel ve fonksiyonel yapılar ile bu yapıların algoritmaları arasında uyumlu bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "algoritma, faktöriyel, sayma, seçme sayısı, sıralama sayısı",
+  "support": [
+    "Sıralama ve seçme içeren gerçek yaşam durumu örnekleri, öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Cebirsel ve fonksiyonel işlemler algoritmik bir dille yapılandırılırken sadece doğal dil veya akış şemasının kullanıldığı basit örneklere yer verilebilir. Akış şemalarının belirli aşamaları hazır bir şekilde verilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivasyonları artırılır.",
+    "Seçme veya sıralama sayısının temsil edilebileceği somut materyaller kullanılabilir. Öğrencilere seçme veya sıralama sayısını yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir. Seçme veya sıralama sayısıyla ilgili performans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir."
+  ],
+  "enrichment": [
+    "(*) Bilgisayar bilimleriyle ilişkili matematik alanlarında [Boole (Bul) cebri, çizge kuramı, enformasyon kuramı gibi] karşılaşılan ve sayma gerektiren durumların araştırılması sağlanabilir.",
+    "(*) İş birlikli öğrenme temelinde sayma gerektiren farklı durumlar veya oyunlar (dört renk problemi, mayın tarlası oyunu, tic tac toe oyunu gibi) üzerinden grup çalışmaları veya projeler yaptırılabilir.",
+    "(*) Bilişim alanında kullanılan ve cebirsel, fonksiyonel işlemler içeren program veya uygulamaların sözde kod örnekleri incelenerek bunların akış şemasıyla ifade edilmesi istenebilir.",
+    "(*) Öğrencilerin bir problemin çözümüne yönelik elde ettikleri algoritmaları bildikleri bir programlama dilinde yansıtarak bilgisayarda çalıştırmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir.",
+    "Toplama ve çarpma yoluyla saymaya yönelik açık uçlu soruların yer aldığı çalışma kâğıtları, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öz değerlendirme formuyla öğrencilerin kendilerini değerlendirmeleri istenebilir.",
+    "Öğrencilere cebirsel ve fonksiyonel işlemleri algoritmik dille yapılandırarak akış şeması oluşturdukları bir performans görevi verilebilir. Verilen performans görevleri, derecelendirme ölçeği kullanılarak değerlendirilebilir.",
+    "Matematik tarihinde önemli yeri olan sayma veya seçme problemlerinin (\"Bir doğal sayı, doğal sayıların toplamı olarak kaç farklı biçimde yazılabilir?\" gibi) ve bu problemlerin çözümüne yönelik fikirlerin araştırılması hakkında öğrencilere proje ödevi verilebilir. Ortaya konan ürünün değerlendirilebilmesi için hazırlama, içerik ve sunum süreçlerini içine alan derecelendirme ölçeği kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.10.5.1 Günlük hayatta karşılaşılabilen ve doğal sayılarla eşleştirmenin ya da toplayarak saymanın mümkün olduğu durumlar öncelikli olarak ele alınır. Sayma yöntemleri adlandırılacağı için en eski sayma yönteminin eşleştirme yöntemi olduğu belirtilir. Sayma yöntemine karar vermeden önce nesneler arasındaki ilişkiler çözümlenir ve sözel ifadelerin uygun şekilde tablo ya da çizimlerle görselleştirilmesi teşvik edilir. Sayma stratejisi içeren zekâ oyunları ve çizgelerle ifade edilebilen saymaya dayalı problemler (el sıkışma problemi, çokgenlerde köşegen sayısı gibi) ele alınır. Daha karmaşık bir problem durumu, içerdiği sayma yöntemi bakımından daha sade olan başka bir problem durumu ile eşleştirilir. Bu sayede problemler, içerdikleri bağlamlara göre değil sayma yöntemlerine göre sınıflandırılır. Örneğin B şehrine uğramak koşuluyla A şehrinden C şehrine kaç farklı yoldan gidilebileceğini içeren bir problem ile belirli sayıda farklı gömlek ve ceket kullanılarak kaç farklı kombin yapılabileceğini içeren bir problem, çözüm yöntemleri bakımından birbiri ile eş olabilir. Çözüm stratejileri veya cevapları aynı olan problem durumlarının eşleştirilmesinin istendiği çalışma kâğıtları kullanılabilir.",
+    "Bir problem durumuna ilişkin çözüm stratejisinin daha verimli ve farklı yollar aranarak geliştirilmesi beklenir. Böylece öğrencilerin farklı ve zorlayıcı durumlarda alternatif çözümler üretme becerileri aracılığıyla esneklik becerilerinin gelişimi desteklenir ( SDB3.2 ) . Örneğin toplayarak saymadan sonra çarparak saymaya geçiş yapılmasının gerekli olduğu hissettirilir. Böylelikle çarpma yöntemiyle sayılabilecek durumlarda elde edilen strateji anlamlandırılır. Stratejileri formüllere dönüştürmek yerine genel sayma yaklaşımlarını anlamlandırma ön planda tutulur. Sıralama sayısı içeren problem durumları da çarparak sayma bağlamındaele alınır. Sonrasında işlemleri kısaltacak bir gösterim olarak faktöriyel gösterimi kullanılır. Doğal sayılarda tanımlı olan faktöriyel gösterimi, sadece sayma bağlamında ele alınır ( MAB3 ) . Bilgisayar bilimi ile ilişkili olarak ikili sistem ve bit/byte (bit/bayt) hesapları, sıralama gerektiren problemler bağlamında ele alınır. olmak üzere n nesneden r tanesinin sıralama sayısı, çarparak sayma stratejisinin kullanıldığı bir uygulama olarak ve formel tanımlamaya girilmeden ele alınır.",
+    "İçinde özdeş nesnelerin de olduğu topluluğun sıralama sayısını içeren problemlerde yeni bir çözüm stratejisi geliştirmek için çarparak sayma stratejisi kullanılır. Bu tür problemlerde faktöriyel gösterimi kullanılır. Buradan elde edilecek yeni strateji, farklı örnekler üzerinde incelenir. Bu incelemeler, çözüm stratejisi aynı olan farklı sorular (3 özdeş sarı, 2 özdeş beyaz topun sıralama sayısının 10 olabileceği ile birim karelerden oluşan yeterince büyük bir dikdörtgende bir birim karenin köşesinden yola çıkılıp 3 birim sağa, 2 birim yukarı gidilerek belirli bir köşe noktasına 10 farklı şekilde gidilebileceği gibi) içermelidir. İçinde özdeş nesnelerin de olduğu topluluğun sıralanmasına ilişkin kullanılan strateji hakkında çıkarım yapılır. Bu çıkarım, sözel ve cebirsel ifadelerle önerme olarak sunulur.",
+    "Farklı nesnelerden oluşan bir nesne topluluğundan nesne seçim sayılarını bulmayı gerektiren problemler incelenir. Bu problemlerin çözümünde daha önceki stratejilerin (içinde özdeş nesnelerin de olduğu topluluğun sıralanması) kullanılabilmesi hedeflenir. Problemlerin çözüm stratejilerindeki benzerlikler üzerinde durulur ve buradan yola çıkılarak seçim sayısı bulmayı gerektiren problem durumları için çıkarımda bulunma süreci işletilir. Bu sayede ulaşılan sonuçlar, sözel ve cebirsel olarak ifade edilir. n tane farklı nesne içerisinden r tane farklı nesnenin seçim sayısı şeklinde sözel temsille ifade edilir veya gösterimine yer verilir ( MAB3 ) . Öğrencilerin ulaştığı çıkarımları işe yararlık, verimlilik ve kapsayıcılık açısından değerlendirmesini sağlayacak farklı problem durumlarına yer verilir. Örneğin öğrenciler tarafından n tane eleman arasından 0, 1, 2, …, n tane elemanın kaç farklı şekilde seçilebileceği ayrı ayrı hesaplanır; elde edilen sonuçlar listelenir ve üçgen şekilde yerleştirilir. Bu modellemenin genellikle \"Pascal üçgeni\" olarak adlandırıldığı ancak Pascal'dan önce başka matematikçiler tarafından da kullanıldığı, bu konuya ilişkin araştırma ödevi verilerek sınıf ortamında tartışılır. Bu araştırmalar dijital ortamda yapıldığında öğrencilerin karşılaştırmalar yaparak bir çıkarımda bulunabilme becerisinin gelişimi de desteklenir ( MAB5 , OB2 ) . Araştırmanın sonuçları sınıfta tartışılırken Ömer Hayyam'ın çalışmalarından da bahsedilir. Türk-İslam kültüründe yetişen matematikçilere ve bu matematikçilerin çalışmalarına ilişkin yapılacak araştırmalarla öğrencilerin kültürel mirasa yönelik duyarlı olmaları sağlanır. Bir sayma stratejisi olarak güvercin yuvası ilkesinin kullanılabileceği sayma problemlerine yer verilir. Öğrencilere sayma stratejileri kullanmayı gerektiren farklı problemler içeren çalışma kâğıtları verilebilir.",
+    "MAT.10.5.2 Öğrencilerin mantık bağlaçlarını (ve, veya, ya da, ise, ancak ve ancak) ve niceleyicileri (her, bazı) kullanarak bunların problem durumlarına ait algoritmalardaki anlamlarına ve işlevlerine odaklanması sağlanır. Özellikle birden çok farklı durum veya döngü içeren algoritmik yapılarda \"ise\" bağlacının önemine vurgu yapılır. Cebirsel işlemler ve fonksiyonel işlemlere (katsayıları verilen fonksiyonun değerini hesaplama, referans fonksiyon üzerinden yeni fonksiyon türetme gibi) ilişkin algoritmaların nasıl oluşturulabileceği ve nelere dikkat edilmesi gerektiği konusunda eski bilgilerden yararlanılarak sınıf içi tartışmalar yapılır. Burada özellikle mantık bağlaçları ve niceleyicilerin anlamı ve önemi üzerinde durulur. Yapılacak tartışmaların öğrencilerin konu kapsamına yönelik hedef belirlemesine katkı sağlaması beklenir ( SDB1.2 ) . Ayrıca bu süreç, öğrencilerin bilgiyi çözümleyebilmesini destekler ( OB1 ) .",
+    "Cebirsel ve fonksiyonel işlemlere ilişkin algoritma oluşturma çalışmalarında bir fonksiyonun sıfırlarını bulmada kullanılan algoritmik yöntemi (ortalama alarak yineleme yöntemi) inceleme ve karekökle ifade edilmiş bir irrasyonel sayının yaklaşık değerini bulmada kullanılan farklı yöntemlerin algoritmalarını oluşturma gibi örneklere yer verilir. Oluşturulan algoritmalarda kullanılan mantık bağlaçlarının işlevini yorumlamaya dayalı olarak algoritma çözümlemesi yapılır. Bu algoritmaların teknolojik gelişmelerin odak noktasında bulunan programlama dillerinin temel yapısını oluşturduğu ve bu teknolojilere sahip olmanın ülkemizin gelişmesindeki önemi; yapay zekâ, enerji sistemleri ve savunma sanayisi gibi örneklerle açıklanır ( D19.4 ) .",
+    "Öğrencilere algoritma oluşturmadaki ön bilgilerini kullanarak cebirsel ve fonksiyonel işlemlerin algoritmik yapısını incelemeleri için fırsatlar tanınır. Bu noktada cebirsel ve fonksiyonel işlemleri kullanmayı gerektiren problem örnekleri verilerek öğrencilerin bu problemlere algoritma temelli (doğal dil, akış şeması ve sözde kod) bir çözüm üretmesi beklenir. Bu süreç, öğrencilerin özgün düşünme eğilimlerinin gelişiminde etkili olacaktır ( E3.11 ) . Örneğin verilen bir doğal sayının kaç basamaklı olduğunu belirlemeyi, a ve b (a, b ∈ ℝ, a ≠ 0) katsayılarına göre f(x) = ax + b doğrusal fonksiyonunun sıfırını bulmayı veya belirlenen kişi sayısına göre oluşturulan bir gruptaki insanların yan yana kaç farklı şekilde sıralanabileceğini hesaplamayı sağlayan algoritmalar (doğal dil, akış şeması ve sözde kod) oluşturmaları istenir. Bu ve bunun gibi örnekler üzerinden öğrencilerin olası tüm koşulları değerlendirmeleri beklenir. Problem çözümlerinde mantık bağlaçları ve niceleyicileri kullanmalarına yönelik uygulamalar yapmaları istenir. Bu sayede öğrenciler, cebirsel ve fonksiyonel yapılarla algoritmik dil arasında bir bütünlük sağlamaya yönelik genellemelere ulaşır. Öğrencilere cebirsel ve fonksiyonel işlemleri algoritmik dille yapılandırarak akış şeması oluşturdukları bir performans görevi verilebilir. Öğrencilere cebirsel ve fonksiyonel işlemler içeren problem durumlarına dair algoritmik çözümler geliştirme üzerine proje ödevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.4"
+    ],
+    "egilim": [
+      "E3.11"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/251"
+}

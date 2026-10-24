@@ -1,0 +1,32 @@
+{
+  "unitId": 98032911,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "11. ÖĞRENME ALANI: VERİ ANALİZİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.8.4.1.1",
+      "title": "En fazla üç veri grubuna ait çizgi ve sütun grafiklerini yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "M.8.4.1.2",
+      "title": "Verileri sütun, daire veya çizgi grafiği ile gösterir ve bu gösterimler arasında uygun olan dönüşümleri yapar",
+      "processComponents": [
+        "Farklı gösterimlerin birbirlerine göre üstün ve zayıf yönleri üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Veri İşleme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

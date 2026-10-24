@@ -1,0 +1,36 @@
+{
+  "unitId": 81424108,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "108. ÜNİTE: ANİMASYON - 2D ANİMASYON",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.4.2.1",
+      "title": "2D animasyon temellerini açıklar",
+      "processComponents": [
+        "Hareketsiz görsellerin belirli bir kurguya göre hareketlendirilerek video hâline getirilmesine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.4.2.2",
+      "title": "2D animasyon tasarımı yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GSA.4.2.3",
+      "title": "2D Render alır ve Post-Prodüksiyon yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

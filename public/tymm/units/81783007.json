@@ -1,0 +1,31 @@
+{
+  "unitId": 81783007,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "7. ÜNİTE: İŞ VE MESLEK HAYATINDA ADABIMUAŞERET",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.7.1",
+      "title": "İş görüşmelerinde adabımuaşerete uygun davranmanın önemini örneklerle açıklar",
+      "processComponents": [
+        "Giyim kuşama özen gösterme, görüşmeye zamanında gelme, el sıkma, göz kontağı kurma ve beden diline önem verme, isimle birlikte saygı içeren hitap sözcükleri (hanım, hanımefendi, bey, beyefendi vb.) kullanma vb. davranışların önemi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ADM.7.2",
+      "title": "İş ve meslek hayatında adabımuaşerete uymanın önemini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

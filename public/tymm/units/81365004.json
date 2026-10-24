@@ -1,0 +1,92 @@
+{
+  "unitId": 81365004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ekonomi Dersi",
+  "title": "4. ÜNİTE: PARA, BANKACILIK VE ENFLASYON",
+  "hours": "13",
+  "description": "Bu ünitede mübadele kavramı ortaya konularak bir mübadele aracı olan paranın görevleri açıklanmıştır. Ayrıca para ile ilgili kuruluşlar ve bu kuruluşların görev ve sorumluluklarına değinilmiş, günümüzün önemli ekonomik sorunu olan enflasyon ve enflasyona karşı alınması gereken önlemlere yer verilmiştir.",
+  "outcomes": [
+    {
+      "code": "EKO.4.1",
+      "title": "Mübadele ve para kavramlarını açıklar",
+      "processComponents": [
+        "Mübadele ve para kavramları açıklanarak mübadele ve para arasındaki ilişkiye değinilir. Bu kavramların ekonomik hayattaki işlevlerine vurgu yapılır.",
+        "Paranın tarihsel gelişimi vurgulanır.",
+        "Tarih dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.4.2",
+      "title": "Paranın tarihsel gelişimini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.4.3",
+      "title": "Ekonomide paranın yeri, önemi ve fonksiyonlarını örneklerle açıklar",
+      "processComponents": [
+        "Paranın ekonomideki yeri, önemi ve fonksiyonlarına vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.4.4",
+      "title": "Para ile ilgili kuruluşların görev yetki ve sorumluluklarını açıklar",
+      "processComponents": [
+        "Para ile ilgili kuruluşlardan Merkez Bankası, diğer bankalar ve mali kuruluşlara (SPK, BDDK, TMSF, İMKB) değinilir."
+      ]
+    },
+    {
+      "code": "EKO.4.5",
+      "title": "Bankaların ekonomideki görev ve sorumluluklarını açıklar",
+      "processComponents": [
+        "Merkez Bankası ile enflasyon arasındaki ilişkiye vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.4.6",
+      "title": "Merkez bankasının ekonomideki yerini ve önemini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.4.7",
+      "title": "Döviz piyasasını açıklar",
+      "processComponents": [
+        "Döviz kavramı tanımlanarak dövizin ekonomideki yeri ve önemine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.4.8",
+      "title": "Enflasyon kavramını açıklayarak enflasyon türlerini belirtir",
+      "processComponents": [
+        "Enflasyon türleri ele alınır."
+      ]
+    },
+    {
+      "code": "EKO.4.9",
+      "title": "Enflasyon endekslerinin (TÜFE ve ÜFE) farklılıklarını açıklar",
+      "processComponents": [
+        "Enflasyon endeksleri açıklanır."
+      ]
+    },
+    {
+      "code": "EKO.4.10",
+      "title": "Ekonomik sitem içerisinde enflasyonun yol açtığı etkileri ortaya koyar",
+      "processComponents": [
+        "Enflasyonun ekonomik sisteme etkisi ortaya konularak Türkiye'de gerçekleşen enflasyon ve enflasyondan korunmak için alınacak tedbirler hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "EKO.4.11",
+      "title": "Enflasyondan korunmak için alınması gereken önlemlerle ilgili öneriler geliştirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163132505-Ekonomi.pdf"
+}

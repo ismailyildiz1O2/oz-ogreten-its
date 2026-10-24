@@ -1,0 +1,44 @@
+{
+  "unitId": 1480,
+  "grade": 0,
+  "gradeName": "DÜŞÜNME EĞİTİMİ DERSİ DÜZEY I",
+  "subject": "Düşünme Eğitimi Dersi",
+  "title": "DÜZEY I · 4. Ünite: Düşün, Tasarla Ve Uygula",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DE.1.4.1",
+      "title": "Günlük hayatta karşılaşılan problemleri çözebilme",
+      "processComponents": [
+        "a) Günlük hayatta karşılaşılan sorunlara yönelik bir problemi yapılandırır.",
+        "b) Günlük hayatta karşılaşılan sorunlara yönelik bir problemi özetler.",
+        "c) Günlük hayatta karşılaşılan bir problemin çözümüne yönelik gözleme ve veriye dayalı tahminde bulunur.",
+        "ç) Günlük hayatta karşılaşılan bir problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Günlük hayatta karşılaşılan bir problemin çözümüne yönelik değerlendirmede bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "çıktı, deneme, problem, tasarım, uygulama, üretim, ürün, yanılma",
+  "support": [
+    "Öğrencilere kısa hikâyeler anlatılabilir. Bu hikayelerde yaşanan sorunlara yönelik farklı çözümler üretmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden millî ve manevi değerleri düşünme becerileriyle birleştirerek geleceğin dünyasına uyarlayabilecekleri disiplinler arası bir çalışma yapmaları beklenir. Öğrenciler, tarihteki Türk-İslam bilim insanlarını rehber alarak günlük yaşam sorunlarına yönelik çözümler geliştirebilirler. Öğrenciler, bu çalışmalarını TEKNOFEST’te sunabilirler."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; açık uçlu soru, kısa cevaplı soru, tartışma, çalışma yaprağı, gözlem formu, grup değerlendirme formu, kontrol listesi, öz değerlendirme formu, dereceli puanlama anahtarı ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden, verilen örnek durumların çözümüne yönelik problem çözme dosyası hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "DE.1.4.1",
+    "Öğrenciler gruplara ayrılarak her gruba farklı bir problem ve sorusu verilir. Örneğin: Yarın teslim etmeniz gereken iki önemli ödev var ancak sadece birine yetecek kadar zamanınız var. Hangi ödevi önce yapmayı tercih edersiniz?",
+    "Belirlenen problemler gruplar tarafından özetlenir ( SDB2.2 ). Özetlerde problemin neden önemli olduğu, kimleri etkilediği ve hangi yönleriyle dikkat çektiği vurgulanır.",
+    "Öğrencilerin grup içinde fikirlerini saygıyla paylaşmaları sağlanır ( SDB2.1 , D5.1 , D14.1 ). Yapılandırılan problemle ilgili okulda, evde ve çevrede gözlem yapılır. Bu gözlemler anket, fotoğraf, kısa video, grafik gibi zenginleştirilmiş bileşenlerle veri hâline getirilir ( OB2 , OB4 ).",
+    "Bu veriler üzerinden “Bu sorun neden ortaya çıkıyor?”, “Ne sıklıkta yaşanıyor?” gibi tahminler yürütülür ( E3.8 , SDB3.3 ). Öğrencilerden grup içinde problemlerle ilgili sorular sormaları ve problemlerin olası sonuçlarını düşünmeleri istenir. Açık uçlu sorular sormaları teşvik edilir ( E3.8 ). Örnek problem durumlarından yola çıkarak problem çözme basamaklarını tahmin etmeleri istenir. Ardından problem çözme basamakları verilir ve tahminleri ile karşılaştırmaları istenir. ( SDB2.2 ). Bu süreçte sorunların çözümüne yönelik tahminler yürütülür. Önermeler üzerinden akıl yürütülür.",
+    "Grupların önerileri grafik örgütleyicilerle sunulur. Her grubun önerdiği çözümün uygulanabilirliği, etkisi ve sınırlılıkları değerlendirilir ( E3.6 , E3.10 , D3.4 ). Öğrencilerin bireysel olarak “Bu süreçte ne öğrendim?”, “Hangi becerimi geliştirdim?” gibi sorulara yanıt bulmaları sağlanır ( SDB1.3 , E1.5 ). Öğrencilere yapılandırılmış metin verilir. Öğrencilerden metindeki sorunun çözümüne yönelik alternatif bir çözümü verilen materyallerle tasarlamaları istenebilir. Teknoloji ve tasarım dersinin \"Temel Tasarım\" ünitesi ile bağlantı kurulur. Hazırlanan ürünler sınıf panosunda sergilenebilir. Öğrencilerin günlük hayatta karşılaştıkları bir problemi çok yönlü biçimde analiz etmeleri, gözlem ve veriye dayalı çıkarımları özgün çözüm önerileriyle birleştirmeleri sağlanır ( KB2.20 ). Ünite sonunda işlenen konularla ilgili Türk-İslam düşünürlerinin eserlerinden örnek metinler verilerek öğrenciler düşünmeye yönlendirilebilir.",
+    "Öğrencilerden verilen örnek durumların çözümüne yönelik problem çözme dosyası hazırlamaları istenebilir.\"Çevrenizdeki insanların veya arkadaşlarınızın günlük konuşmalarda atasözleri ve deyimlerin anlamlarını birbirine karıştırdığını ve anlamlarını tam bilmedikleri için yanlış yerlerde kullandığınızı gözlemliyorsunuz.\" konusu ile ilgili öğrencilerden performans görevi hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1480"
+}

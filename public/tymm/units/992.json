@@ -1,0 +1,53 @@
+{
+  "unitId": 992,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "2. TEMA: REZONANS",
+  "hours": "2",
+  "description": "Rezonans bölgelerinin isimlerine ve vücuttaki yerine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.7.2.1",
+      "title": "Rezonans bölgelerinin isimlerini sayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.7.2.2",
+      "title": "Rezonans bölgelerini bedeninde işaret edebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "burun boşlukları, damak, yumuşak damak",
+  "support": [
+    "Öğrencilere rezonans bölgelerini gösteren çeşitli videolar izletilebilir"
+  ],
+  "enrichment": [
+    "Öğrencilerden rezonans bölgelerini gösteren çeşitli görsel materyaller hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi, kavram haritası, Frayer modeli, gözlem formu ve kontrol listesi ile değerlendirilebilir. Öğrencilere rezonans bölgeleri ile ilgili açıklayıcı bir görsel materyal hazırlayabilecekleri performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "BSE.7.2.1 Rezonans bölgelerinin neler olduğu sorularak konuya ilişkin merak oluşturulur ( E1.1 ). Öğrenciler tarafından öğretmenin yönelttiği sorular cevaplandırılırken duygu ve düşünceler ifade edilebilir ( SDB2.1 ). Etkin dinleme yapılarak, sözlü etkileşim sağlanarak rezonans bölgelerinin isimleri sayılabilir. Çeşitli görsel materyaller üzerinden rezonans bölgelerinin görüntüsü incelenebilir ( OB4 ). Böylelikle öğrencilerin görsel materyallerdeki rezonans bölgelerinin görüntüsünü algılayarak ( OB1 ) bu bölgelerin isimlerini (yumuşak damak, damak, burun boşlukları) söylemeleri sağlanabilir. Öğrencilere rezonans bölgeleri ile ilgili açıklayıcı görsel materyal hazırlamaya yönelik performans görevi verilir. Kavram haritası ile öğrencilerin rezonans bölgelerini tanıma becerisi değerlendirilebilir. Frayer modeli kullanılarak her bir rezonans bölgesi, özellikleri, ona örnek olanlar ve olmayanlarla kavramsal bilgileri gözden geçirilebilir. BSE.7.2.2 Çeşitli görsel materyaller üzerinden rezonans bölgeleri incelenerek ortak özellikler belirlenebilir ( OB4 , KB2.9 ). Öğrencilerden rezonans bölgelerini bedeninde göstermesi istenebilir. Böylelikle öğrenciler rezonans bölgelerini tanır ve görseli bağlamdan kopmadandönüştürüp, kendi ifadeleriyle rezonans bölgelerini bedeninde işaret ederek çalışmalarda aktif rol alırlar ( D3.4 , OB4 ). Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/992"
+}

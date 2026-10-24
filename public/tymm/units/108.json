@@ -1,0 +1,116 @@
+{
+  "unitId": 108,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "2. ÜNİTE: ENERJİ",
+  "hours": "16",
+  "description": "Bu ünitede öğrencilerin yapılan işin büyüklüğünü hesaplaması; iş, enerji ve güç arasındaki ilişkiye yönelik çıkarım yapması, güç hesapları yapması, enerji biçimlerini karşılaştırması, mekanik enerjinin korunumuna yönelik hesaplamalar yapması, yenilenebilen ve yenilenemeyen enerji kaynaklarını karşılaştırması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.10.2.1",
+      "title": "Kuvvet-yer değiştirme grafiği kullanılarak iş ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Kuvvet, yer değiştirme ve iş arasındaki ilişkiyi matematiksel olarak modeller.",
+        "b) Kuvvet, yer değiştirme ve iş arasındaki ilişki hakkında genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.10.2.2",
+      "title": "İş, enerji ve güç kavramlarına ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) İş, enerji ve güç kavramları hakkında mevcut bilgisi dâhilinde hipotez kurar.",
+        "b) İş, enerji ve güç kavramlarına yönelik ilişkileri listeler.",
+        "c) İş, enerji ve güç kavramlarını karşılaştırır.",
+        "ç) İş ve güç kavramları arasındaki ilişkiye yönelik önermelerde bulunur.",
+        "d) Önermelerini matematiksel modele dönüştürerek değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.10.2.3",
+      "title": "Enerji biçimlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Enerji biçimlerine ilişkin özellikleri belirler.",
+        "b) Enerji biçimlerine ilişkin benzerlikleri listeler.",
+        "c) Enerji biçimlerine ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "FİZ.10.2.4",
+      "title": "Mekanik enerjiyi çözümleyebilme",
+      "processComponents": [
+        "a) Mekanik enerjiye ilişkin bileşenleri belirler.",
+        "b) Mekanik enerjiyle ilgili bileşenler arasındaki matematiksel ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "FİZ.10.2.5",
+      "title": "Yenilenebilen ve yenilenemeyen enerji kaynaklarını karşılaştırabilme",
+      "processComponents": [
+        "a) Yenilenebilen ve yenilenemeyen enerji kaynaklarına ilişkin özellikleri belirler.",
+        "b) Yenilenebilen ve yenilenemeyen enerji kaynaklarının avantajlarını listeler.",
+        "c) Yenilenebilen ve yenilenemeyen enerji kaynaklarının dezavantajlarını listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "iş, enerji, güç, enerji biçimi, mekanik enerji, mekanik enerjinin korunumu, yenilenebilen enerji, yenilenemeyen enerji",
+  "support": [
+    "Deneylerde öğrencilere yönlendirici kılavuz kitapçıklar hazırlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, enerji tasarrufu hakkında anket yoluyla veri toplayarak raporlaştırabilir. Öğrenciler kendi okullarında enerji tasarrufu konusunda yapılabilecek faaliyetleri araştırıp önerilerini bir rapor hâlinde okul yönetimine sunabilir.",
+    "*Öğrenciler, yenilenebilen ve yenilenemeyen enerji kaynaklarının OECD'nin hazırlamış olduğu Sürdürülebilir Kalkınma Amaçları'ndaki yeri ve önemi konusunda bir araştırma yapabilir.",
+    "*Öğrenciler, STEM yaklaşımına uygun enerji tasarruflu binalar veya aydınlatmalara ilişkin modeller hazırlayabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kavram haritası, çalışma yaprağı, sanal pano veya bülten panosu, test, rapor, bilgi görseli, performans görevi kullanılarak değerlendirilebilir.",
+    "Net kuvvet-yer değiştirme grafiklerinden yararlanarak iş hesabı yapmak için çalışma yaprağı kullanılabilir. Benzer şekilde işin yapılma süresi ile güç kavramı arasındaki ilişki hakkında matematiksel hesaplar için çalışma yapraklarından faydalanılabilir. İş, enerji ve güç kavramlarına ilişkin yapılan çıkarımları bir sanal pano veya bülten panosuna yazmaları istenebilir. Hazırlanan panolar dereceli puanlama anahtarları ve öz değerlendirme formları ile değerlendirilebilir. Enerji biçimlerinin karşılaştırılması açık uçlu sorular, eşleştirme ve boşluk doldurma gibi farklı madde türlerinden oluşan test ile değerlendirilebilir. Performans görevi olarak enerji biçimlerinin karşılaştırılmasına yönelik bir rapor hazırlanması ve hazırlanan raporun bilgi görseli biçiminde sunumu istenebilir. Hazırlanan rapor ve sunumun değerlendirilmesinde dereceli puanlama anahtarı ve öz değerlendirme formlarından yararlanılabilir. Performans görevi olarak elektrikli eşya satın alınırken dikkat edilmesi gereken hususlar ile ilgili sürdürülebilirlik ve küresel ısınma konuları, tasarruf ve millî servet bilinci dikkate alınarak broşür, poster, afiş vb. hazırlamaları istenebilir. Öğrenciler ürünleri dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.10.2.1",
+    "Tahmin et-gözle-açıkla, beyin fırtınası gibi yöntem ve tekniklerden biri kullanılarak öğrencilere sunulan günlük hayat örneklerine ilişkin görsellerden kuvvetin yer değiştirmeye olan etkileri hakkında tahminde bulunmaları istenebilir. Öğrenciler, tahminlerini gözlemlemek ve pratik yapmak için simülasyon kullanarak kuvvetin yer değiştirmeye etkisini anlamaya yönelik çalışmalar yapar ( SDB1.2 ) . Simülasyondan elde ettikleri verileri veya hazır veri seti kullanarak kuvvet-yer değiştirme grafiğini çizer ( KB2.14 , OB7 ) . Öğrenciler, elde ettikleri grafikleri analiz ederek öğretmen yönlendirmesiyle kuvvet, yer değiştirme ve iş arasındaki ilişkiyi matematiksel olarak modeller. Öğretmen, kuvvetin sabit olmadığı durumlara ilişkin kuvvet-yer değiştirme grafiklerini gösterebilir. Öğrenciler, çizdikleri kuvvet-yer değiştirme grafikleri ile kendilerine verilen grafikleri analiz ederek grafikler üzerinden açıklamalar yapar. Kuvvet-yer değiştirme grafikleri yardımıyla iş kavramına ilişkin genellemeler yapar ( OB7 ) . Öğretmen, farklı kuvvet-yer değiştirme grafikleri ile ilgili sorular içeren bir çalışma yaprağı verebilir.",
+    "FİZ.10.2.2",
+    "Öğrenciler tahmin et-gözle-açıkla ve beyin fırtınası gibi öğretim yöntem ve tekniklerinden birinin kullanıldığı ortamda transfer edilen enerjiyi dikkate alıp yapılan iş, birim zamanda yapılan iş ve enerjiye ilişkin sorgulamalar yapar. İş, enerji ve güç kavramlarına ilişkin tahminde bulunur ( E3.4 ) . Öğrenciler, iş kavramı ile ilgili mevcut bilgisini kullanarak verdiği cevapları ilişkilendirir ve iş, enerji ve güç kavramları ile ilgili hipotezlerini ifade eder. İş ve enerji konularında negatif ve pozitif durumlar olabileceğine yönelik tahminler yaptırılır. Simülasyon veya animasyon üzerinden gözlem yaparak verdikleri cevapları tekrar yapılandırır ve iş, enerji ile güç kavramları arasındaki ilişkileri listeleyerek karşılaştırır ( OB7 ) . Öğrenciler, iş ve işin yapılma süresini ilişkilendirerek güç kavramı hakkında önermede bulunur ( KB2.11 ) . Öğrenciler iş ve güç kavramları arasındaki ilişkiden yararlanarak matematiksel model oluşturur. Öğrenciler, matematiksel modeli kullanarak evlerindeki elektrikli araçların güç etiketlerini okuyup kullanım süresine göre cihazların harcadığı enerjiyi hesaplar. Bunları aile bütçesinde tasarruf yapma ( D2.4 , D17.2 , OB3 ) ve topluma olumlu katkıda bulunma ( SDB2.3 ) açısından değerlendirir. Öğrencilerden iş, enerji ve güç kavramlarına ilişkin çıkarımlarını bir sanal pano veya bülten panosuna yazmaları istenebilir.",
+    "FİZ.10.2.3",
+    "Öğrenciler, öğretmen rehberliğinde gruplara ayrılır ( SDB2.2 ) . Grup üyeleri mekanik enerji, kimyasal enerji, nükleer enerji, ısı, ışık, ses ve elektrik enerjisi biçimlerini araştırır. Gruplar bulgularını tartışarak ( SDB2.2 ) enerji biçimlerinin özelliklerini belirler ( OB1 ) . Öğrenciler iş birlikli öğrenme yöntemlerinden ayrılıp birleşme tekniğine göre asıl ve uzman gruplarına ayrılabilir. Öğrenciler asıl gruplarında uzmanlaşmak istedikleri enerji biçimini belirleyebilir. Her öğrenci sorumlu olduğu enerji biçimine ilişkin uzman grubu ile bir araya gelerek enerji biçiminin özelliklerini müzakere eder ( D4.1 , D14.1 , SDB2.2 ) . Uzman grup üyeleri araştırılan enerji biçimine ilişkin benzerlik ve farklılıkları listeler. Tekrar asıl grubuna dönen öğrenciler grup arkadaşları ile belirledikleri enerji biçimine ilişkin benzerlik ve farklılıkları paylaşır. Öğrenciler açık uçlu test, eşleştirme ve boşluk doldurma gibi farklı madde türlerinden oluşan test ile değerlendirilebilir. Öğrenciler, performans görevi olarak yaşadıkları çevrede bulunan farklı enerji biçimlerini araştırıp kullanılan enerji kaynaklarına yönelik kısa bir rapor hazırlayabilir.",
+    "FİZ.10.2.4",
+    "Öğretmen, derse bir topla girip topu farklı yüksekliklerden serbest bırakarak topun sahip olduğu enerjinin değişimi hakkında öğrencilerin düşüncelerini sorabilir. Sorgulama sürecinin sonunda öğrenciler mekanik enerjinin bileşenlerini belirler. Öğrenciler, simülasyon veya animasyon ile mekanik enerjinin korunumunu deneyimleyebilir ve ortaya çıkan enerji biçimlerindeki değişimleri not alabilir. İlgili değişimlere yönelik elde ettikleri verileri karşılaştırabilir. Öğrenciler, simülasyondaki veya animasyondaki kinetik ve potansiyel enerji değişimleri ile mekanik enerjinin korunumuna yönelik matematiksel ilişkiyi belirler ( OB7 ) . Öğrencilerden bu kavramları ve aralarındaki ilişkiyi göstermeleri için bilgi görseli hazırlamaları istenebilir. Öğretmen, öğrencilerin hazırladıkları bilgi görselini dereceli puanlama anahtarı ile değerlendirebilir.",
+    "FİZ.10.2.5",
+    "Enerji kaynakları ile ilgili video ve benzer içerikleri izleyen öğrenciler konuşma halkası ( SDB2.1 ) , vızıltı grupları, düşün-eşleş-paylaş gibi öğretim tekniklerinden biri ile yenilenebilen ve yenilenemeyen enerji kaynaklarına ilişkin özellikleri belirler. Türkiye'de yürütülen yenilenebilen enerji projeleri, vampir cihazlar, tasarruflu (CFL) ampul, LED lambalar ile akkor ampullerin karşılaştırılması, enerji etiketlerinin anlamı gibi konularda metinler verilir ya da videolar üzerinden enerji tasarrufu hakkında farkındalık kazanmaları sağlanır ( D16.2 , D17.1 , E2.2 , OB4 ) . Öğrencilerin enerji kaynaklarının avantajlarını ve dezavantajlarını, çevresel temizlik ve sürdürülebilirlik ( D18.3 ) konuları ile küresel ısınma bağlamında zıt panel, münazara, altı şapkalı düşünme gibi yöntem ve tekniklerden biri kullanılarak saygı çerçevesinde tartışmaları ( SDB2.2 ) sağlanır ( KB3.3 ) . Öğrenciler, belirledikleri özelliklerden yola çıkarak enerji kaynaklarının avantaj ve dezavantajlarını listeler. Performans görevi olarak öğrencilerden elektrikli cihaz alınırken dikkat edilmesi gereken hususlar ile ilgili millî servet bilinci, sürdürülebilirlik, küresel ısınma ve tasarruf konularında topluma olumlu katkıda bulunmak için ( SDB2.3 ) ffarkındalık kazanmaları hedeflenerek broşür, poster, afiş vb. hazırlayarak sunmaları istenir ( D16.2 , D17.2 , D19.4 , OB8 ) . Performans görevi dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.2",
+      "D17.1",
+      "D17.2",
+      "D18.3",
+      "D19.4",
+      "D2.4",
+      "D4.1"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.14",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB3",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/108"
+}

@@ -1,0 +1,48 @@
+{
+  "unitId": 1270,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "3. TEMA: KANUNDA BURGULAR, TELLER, EŞİK VE MANDALLARI ÖĞRENİYORUM",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KNN.2.3",
+      "title": "Burgular, teller, eşik ve mandalların görevlerini çözümleyebilme",
+      "processComponents": [
+        "a) Kanundaki burgular, teller, eşik ve mandalların hangileri olduğuna ilişkin parçaları belirler.",
+        "b) Kanundaki burgular, teller, eşik ve mandalların arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "burgu, eşik, kanun, mandal, mızrap, tel, yüzük,",
+  "support": [
+    "Burgu, tel ve mandal kavramlarını öğrenmeyi kolaylaştırmak için hikâyeleştirme yöntemi kullanılabilir. Örneğin \"Kanunun Burguları Maceraya Çıkıyor\" adlı bir kısa hikâye oluşturularak burguların nasıl döndüğünde tellerin gerginliğini değiştirdiği anlatılabilir. Bu tür anlatılar, öğrencilerin konuyu hikâyeleştirerek hafızalarına daha iyi yerleştirmelerini sağlar. Bunun yanı sıra öğrenilen bilgileri daha kalıcı hâle getirmek için drama yöntemi kullanılabilir. Örneğin öğrenciler bir grup oluşturup bir kısmı burguları, bir kısmı mandalları ve bir kısmı telleri temsil ederek bu parçaların kanunda nasıl çalıştığını canlandırabilirler."
+  ],
+  "enrichment": [
+    "Daha eğlenceli bir öğrenme süreci sağlamak adına, \"Kanun Ustası\" adlı bir kart oyunu hazırlanabilir. Bu oyunda, öğrenciler kanunun parçalarını içeren resimli kartları eşleştirerek görevlerini açıklamalıdır. Örneğin \"Bu telin sesi nasıl değişir?\" gibi sorulara cevap vererek bilgilerini pekiştirebilirler. Ayrıca ritmik melodi deneyi yapılarak, öğrencilerin mandalları kullanarak aynı notayı farklı ses yüksekliklerine çıkartmaları ve basit melodiler oluşturmaları sağlanabilir. Böylece, mandalların müzikal işlevini deneyerek kavrayabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, eşleştirme kartları kullanıla-rak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden burgular, teller, eşik ve mandalların görevlerini çözümleyebilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.2.3",
+    "Öğretmen; kanundaki burgular, teller ve mandalların hangi malzemeden ve nasıl yapıldığına ilişkin neler bildiklerini sorar ( E1.1 ) ve alınan cevaplara göre genel bilgiler verir. Daha sonra öğrenciden burgu ismini verdiğimiz malzemeleri göstermeleri ( D3.4 ) istenebilir. Burgunun yapısının neden konik olduğu konusunda öğrencinin geri dönüt vermesi sağlanır ( OB1 ). Arkasından teller hakkında bilgi verilerek hangi malzemeden yapıldığına ilişkin açıklama yapılıp bu telleri başka nerelerde gördüğüne ilişkin geri dönüşleri istenebilir ( SDB2.1 ). Mandalların şekli ve yapısıyla ilgili bilgi verildikten sonra ne işe yaradığı ve nasıl çalıştığına ilişkin uygulamalı olarak bir gösteri yapılır. Kanun sazındaki eşiğin neresi olduğunu şekli ve yapısı hakkında bilgi verilir. Mandalların yaptığı iş anlatılırken paket lastiği deneyinden faydalanılır. Paket lastiği bir yere sabitlenerek lastiği gerdikten sonra parmağımızla lastiği titreştirip çıkan sese dikkat edilir. Bir de lastiği biraz gevşetip yine titreşim girdikten sonraki sese dikkat çekilir ve bu sesler arasındaki farkı hissettirir. Daha sonra paket lastiğinin sabit tarafının kanundaki eşik olduğu, esnek tarafın ise mandallar olduğu gerçeğinden yola çıkarak mandalların ses değişimi işine yaradığı vurgulanır. Öğrencilerden burgular, teller, eşik ve mandalların görevlerini çözümleyebilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1270"
+}

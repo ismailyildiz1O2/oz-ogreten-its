@@ -1,0 +1,81 @@
+{
+  "unitId": 1191,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "2.TEMA: KAVALDA USÜL(RİTM) UYGULAMALARI-1",
+  "hours": "17",
+  "description": "Tema içeriğini, Türk müziğinde yer alan usüllerden nim sofyan, semai ve sofyan usulllerinde kaval ile Türk halk müziği eserleri çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan usüllerden oluşan eserleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.5.2.1",
+      "title": "Nim sofyan usulünde Türk halk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Nim sofyan usulünde Türk halk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak nim sofyan usulünde Türk halk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "KVL.5.2.2",
+      "title": "Semai usulünde Türk halk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Semai usulünde Türk halk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak semai usulünde Türk halk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "KVL.5.2.3",
+      "title": "Sofyan usulünde Türk halk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Sofyan usulünde Türk halk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak semai usulünde Türk halk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "kaval, ritim, Türk halk müziği, usül",
+  "support": [
+    "Bu süreçte eserler, metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup eseri kaval ile seslendirirken diğer grup eserin usulünü çeşitli ritim aletleri ile çalabilir. Bu etkinlik, süreci eğlenceli hâle getirirken öğrencilerin sosyal iletişimi geliştirebilir"
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak nim sofyan, semai ve sofyan usullerinde çaldığı Türk halk müziği eserlerini metronom aleti yardımı ile hızlandırmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.5.2.1",
+    "Öğretmen tarafından nim sofyan usulünden oluşan Türk halk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Nim sofyan usulünün genel özellikleri anlatılarak bir ritim aleti ile usulün vuruluşu gösterilip öğrencilerin odaklanıp ritmin genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1.3 , E3.2 ). Daha sonra öğretmen, kavalda öğrenilen ses kademelerindeki ana ve ara seslerden oluşan Türk halk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler, öğretmen tarafından yapılan bona ve solfeji inceleyip uygun teknikleri kullanarak Türk halk müziği eserinin önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği nim sofyan usulündeki Türk halk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda nim sofyan usulündeeserleri çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Nim sofyan usulünün belirgin şekilde algılanması için uzun seslerden oluşan Türk halk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir.",
+    "KVL.5.2.2",
+    "Öğretmen tarafından semai usulünden oluşan Türk halk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Semai usulünün genel özellikleri anlatılarak bir ritim aleti ile usulün vuruluşu gösterilip öğrencilerin odaklanıp ritimin genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Daha sonra öğretmen, kavalda öğrenilen ses kademelerindeki ana ve ara seslerden oluşan Türk halk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler öğretmen tarafından yapılan bona ve solfeji inceleyip, Türk halk müziği eserini uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği semai usulündeki Türk halk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin semai usülünde eserleri çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Semai usulünün belirgin şekilde algılanması için uzun seslerden oluşan Türk halk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir.",
+    "KVL.5.2.3",
+    "Öğretmen tarafından sofyan usulünden oluşan Türk halk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Sofyan usulünün genel özellikleri anlatılarak bir ritim aleti ile usulün vuruluşu gösterilip öğrencilerin odaklanıp ritimin genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Daha sonra öğretmen, kavalda öğrenilen ses kademelerindeki ana ve ara seslerden oluşan Türk halk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler, öğretmen tarafından yapılan bona ve solfeji inceleyip uygun teknikleri kullanarak Türk halk müziği eserinin önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği sofyan usulündeki Türk halk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda sofyan usulündeki eserleri çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Semai usulünün belirgin şekilde algılanması için uzun seslerden oluşan Türk halk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Süreç sonunda performans görevi olarak nim sofyan, semai ve sofyan usullerinde çaldığı Türk halk müziği eserlerini metronom aleti yardımı ile hızlandırmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB1.3"
+    ],
+    "diger": [
+      "SAB10"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1191"
+}

@@ -1,0 +1,33 @@
+{
+  "unitId": 81424152,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "152. ÜNİTE: TİYATRO - SAHNE",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.1.6.1",
+      "title": "Sahnedeki rolüne uygun davranış modellerini gerçekleştirir",
+      "processComponents": [
+        "Sahnede dik ve sağlam durmanın önemine dikkat çekilir."
+      ]
+    },
+    {
+      "code": "SSA.1.6.2",
+      "title": "Sahne üzerinde özgün rol yapma becerisi geliştirir",
+      "processComponents": [
+        "Sahneyi, zamanı ve nesneyi kullanarak canlandırılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

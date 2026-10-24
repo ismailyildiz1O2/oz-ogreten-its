@@ -1,0 +1,46 @@
+{
+  "unitId": 81663020,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "20. ÜNİTE: PROGRAMLAMA DİLLERİ (C++) - 1. ÜNİTE: C++ ÇALIŞMA ORTAMI",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.20.1",
+      "title": "C++ programlama dilini tanır",
+      "processComponents": [
+        "C++ programlama dilinin doğuş süreci ve neden ihtiyaç duyulduğu söylenir.",
+        "Genel C++ programlama dili kavramları ve söz dizimi anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.20.2",
+      "title": "Kod düzenleyici arayüzünde temel işlemleri gerçekleştirir",
+      "processComponents": [
+        "C++ programlama dili arayüzünde kod yazma sürecinde hata ayıklama, otomatik tamamlama ve belge yönetimi araçları incelenir.",
+        "Yeni bir C++ arayüzü projesi açar, proje dosyalarını düzenler, projenin yapılandırması, dosyaların eklenmesi ve düzenlenmesi işlemleri uygulatılır.",
+        "Yazdığı kodları düzenli bir şekilde yönetmesi, değişiklikleri kaydetmesi ve ardından derleyerek çalışan bir uygulama yapması anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.20.3",
+      "title": "Temel veri türlerini ve değişken işlemlerini açıklar",
+      "processComponents": [
+        "Temel veri türleri (int, string, double vb.) ve farklı tipteki veriler (tam sayılar, metin, ondalık sayılar vb.) incelenir.",
+        "Program arayüzünde değişkenler oluşturulur, değerlerle ilişkilendirilir ve bu değerler güncellenir.",
+        "Matematiksel operatörler (+, -, *, / vb.) ile mantıksal operatörler (==, !=, <, > vb.) kullanılarak temel aritmetik ve karşılaştırma işlemleri gerçekleştirilir.",
+        "Bir değişkenin değeri diğer bir değişkene atanarak veya aralarında matematiksel işlemler yapılarak veri aktarımı ve dönüşümü gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

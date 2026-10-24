@@ -1,0 +1,59 @@
+{
+  "unitId": 1304,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "2. TEMA: SOL EL ÇALIŞMALARI",
+  "hours": "7",
+  "description": "Temanın içeriğini öğrencinin tuşe üzerine sol elini doğru şekilde yerleştirmesi, sol el başparmağı ve işaret parmağı arasındaki ilişkiyi fark etmesi oluşturmaktadır. Bu doğrultuda öğrencilerin belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.2.2.1",
+      "title": "Sol elini tuşe üzerine doğru şekilde yerleştirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KMN.2.2.2",
+      "title": "Sol el tutuşu ve başparmak uyumunu gözlemleyebilme",
+      "processComponents": [
+        "a) Başparmağın pozisyonunu belirler.",
+        "b) Parmakların alması gereken şeklin verisini toplar.",
+        "c) Parmakların tuşe üzerinde pozisyonlandırılmasını sınıflandırır."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, yay, sol kol çalışmaları",
+  "support": [
+    "Öğrencilerin el uyumları için resim yapmaları istenebilir. Etkinlikler yapılarak öğrencilerin eşlik etmesi sağlanabilir. Öğrencilere parmak tekerlemeleriyle parmaklarını sıkmadan rahatça nasıl kullanacakları anlatılabilir. Öğrencileri küçük gruplara ayırarak keman ile ilgili öğrendiklerini birbirleriyle paylaşmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ilgi ve öğrenme süreleri dikkate alınarak grup çalışmalarına ilişkin etkinlik ve materyal hazırlanır. Etkinlik çalışmasında Vivaldi'nin herhangi bir keman konçertosu dinletilir. Dinletilen müzik aniden durdurulur ve doğru duruş pozisyonunda bekleyen öğrencilerin müzik esnasında sol ellerini doğru yerleştirmeleri beklenir. Doğru yapan öğrenci ile oyuna devam edilir. Bu çalışma ile parmak esnekliği hızlı şekilde verilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir. Öğrenciden tuşe üzerinde sol el ve başparmak uyumunu ayna karşısında çalışarak gözlemlemesi, doğru tutuşu öğretmen rehberliğinde incelemesi ve başparmak–işaret parmağı uyumunu sıkmadan uygulaması performans görevi olarak istenebilir. Performans görevi parmak pozisyonu ile ilgili ölçütlerin bulunduğu dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.2.2.1",
+    "Öğrenciler sol elini bükmeden düz pozisyonda tuşe üzerinde doğru biçimde yerleştirir. Dik duruş ve tutuş pozisyonunda keman yastığını takar. Sol elini tuşe üzerine başparmak ve işaret parmağını doğru pozisyonlandırarak tutuşunu ayna karşısında merak eder (E1.1 ).",
+    "KMN.2.2.2",
+    "Öğrenciler tuşe üzerinde sol el ve başparmak uyumunu gözlemler. Ayna karşısında yaptıkları çalışmalarda kendilerini gözlemleyerek yorumlar ve tahmin eder ( KB2.11 ). Öğretmenin başparmak ve işaret parmak tutuşunu inceler. Öğretmen, tutuşu birkaç kez başa dönerek tekrarlar ve bu bilginin önemini vurgular. Öğretmen, öğrencilerin bilgi ihtiyacını fark etmelerini sağlar ( OB1 ). Öğrenciler başparmak ve işaret parmak uyumunun sıkmadan nasıl yapıldığını inceler. Tutuşu kendilerine ölçüt olarak belirler. Yapılan çalışma gözlem formu ile değerlendirilir. Öğrenci, öğretmen eşliğinde başparmağını salyangoza yaklaştırıp dik tutar. İşaret parmağını tuşeye sıkmadan değdirerek avuç içi açık biçimde ayna karşısında veri toplar. Öğretmeninin yaptığı çalışmayı etkin şekilde dinler ( SDB2.1 ). Çalışmayı bire bir kendileri de denemek ister ve yapabilecekleri konusunda kendilerine güvenir ( E1.5 ). Bu süreçte dinlediğini anlama becerisini içine alan performans görevi verilir. Öğrenciler bütün ders içi çalışmayı sözlü iletişim kurarak sınıflandırır. Öğretmen çalışmalarda uygulamalı olarak öğrencilere eşlik eder. Başparmak ve işaret parmağında duruş ile ilgili düşüncelerini ifade eder ( SDB2.1 ). Sol el uyumunu ve başparmak esnekliğini kazanabilmek için ödev ve sorumluluklarını yerine getirirken doğru tutuşla birlikte çalışmalar üzerine yoğunlaşır ( D3.3 ). Performans görevi olarak öğrenciden tuşe üzerinde sol el ve başparmak uyumunu ayna karşısında çalışarak gözlemlemesi, doğru tutuşu öğretmen rehberliğinde incelemesi ve başparmak–işaret parmağı uyumunu sıkmadan uygulaması istenir. Performans görevi, parmak pozisyonu ile ilgili ölçütlerin bulunduğu dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "kavramsal": [
+      "KB2.11"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1304"
+}

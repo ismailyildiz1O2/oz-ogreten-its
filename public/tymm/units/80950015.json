@@ -1,0 +1,66 @@
+{
+  "unitId": 80950015,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "15. ÜNİTE: 12. SINIF - KARİYER GELİŞİMİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.15.1",
+      "title": "Kariyer planlama sürecinde kişisel özelliklerini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.2",
+      "title": "Ortaöğretim sonrası kariyer tercihleri ile ilgili yardım alabileceği kaynaklara başvurur",
+      "processComponents": [
+        "Üniversite seçimi konusunda"
+      ]
+    },
+    {
+      "code": "REH.15.3",
+      "title": "Öz geçmiş yazar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.4",
+      "title": "İş görüşme becerilerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.5",
+      "title": "İş görüşme becerilerini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.6",
+      "title": "Mesleki bilgi kaynaklarını kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.7",
+      "title": "Seçmeyi düşündüğü mesleklerle ilgili kariyer planlaması yapar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.8",
+      "title": "Meslek seçiminde karar verme becerisini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.15.9",
+      "title": "Üst öğretim kurumuna ya da iş yaşamına ilişkin kariyer kararını verir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

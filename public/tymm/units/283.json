@@ -1,0 +1,113 @@
+{
+  "unitId": 283,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "6. ÜNİTE: AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+  "hours": "32",
+  "description": "Bu ünitede Türkiye’de toprakların sürdürülebilir kullanımının sorgulanabilmesi, Türkiye’deki bitki topluluklarında görülen değişim ve sürekliliğin algılanabilmesi, farklı ülkelerdeki çevre sorunlarının önlenmesinde yararlanılan politika ve uygulamaların karşılaştırılabilmesi, doğal çevrenin korunması amacıyla yapılan organizasyon ve anlaşmaların etkisine ilişkin bilgi toplanabilmesi, çevre sorunlarının önlenmesi için çözüm önerileri geliştirilebilmesi, doğal ve kültürel mirasın korunmasında hayata geçirilecek uygulamalara karar verilebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.12.6.1",
+      "title": "Türkiye'de toprağın sürdürülebilir kullanımını sorgulayabilme",
+      "processComponents": [
+        "a) Türkiye'de toprağın sürdürülebilir kullanımıyla ilgili merak ettiği soruları sorar.",
+        "b) Türkiye'de toprağın sürdürülebilir kullanımıyla ilgili bilgi toplar.",
+        "c) Türkiye'de toprağın sürdürülebilir kullanımıyla ilgili topladığı bilgileri düzenler.",
+        "ç) Türkiye'de toprağın sürdürülebilir kullanımıyla ilgili düzenlediği bilgileri çözümler.",
+        "d) Türkiye'de toprağın sürdürülebilir kullanımıyla ilgili çözümlediği bilgilerden sonuçlar çıkararak bu sonuçları paylaşır."
+      ]
+    },
+    {
+      "code": "COĞ.12.6.2",
+      "title": "Türkiye'deki bitki topluluklarında görülen değişim ve sürekliliği algılayabilme",
+      "processComponents": [
+        "a) Türkiye'de görülen bitki topluluklarını çeşitlilik ve mekânsal dağılış açısından karşılaştırır.",
+        "b) Türkiye'de görülen bitki topluluklarını çeşitlilik ve mekânsal dağılış açısından sıralar.",
+        "c) Türkiye'de görülen bitki topluluklarının zamansal değişimini neden ve sonuçlarıyla yorumlar.",
+        "ç) Türkiye'de görülen bitki topluluklarını çeşitlilik ve mekânsal dağılış açısından sentezler.",
+        "d) Türkiye'de görülen bitki topluluklarının geçmişteki ve bugünkü yapısına ilişkin bilgilere ve kendi gözlemlerine dayanarak öngörülerde bulunur."
+      ]
+    },
+    {
+      "code": "COĞ.12.6.3",
+      "title": "Türkiye ve farklı gelişmişlik seviyesine sahip ülkelerde çevre sorunlarının önlenmesi amacıyla hazırlanan politika ve uygulamaları karşılaştırabilme",
+      "processComponents": [
+        "a) Türkiye ve farklı gelişmişlik düzeyine sahip ülkelerdeki çevre sorunlarının önlenmesi amacıyla hazırlanan politika ve uygulamaları belirler.",
+        "b) Türkiye ve farklı gelişmişlik düzeyine sahip ülkelerdeki çevre sorunlarının önlenmesi amacıyla hazırlanan politika ve uygulamaların benzerliklerini listeler.",
+        "c) Türkiye ve farklı gelişmişlik düzeyine sahip ülkelerdeki çevre sorunlarının önlenmesi amacıyla hazırlanan politika ve uygulamaların farklılıklarını listeler."
+      ]
+    },
+    {
+      "code": "COĞ.12.6.4",
+      "title": "Doğal çevrenin korunması amacıyla yapılan organizasyon ve anlaşmaların etkisine ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Doğal çevrenin korunması ve yönetilmesi amacıyla yapılan organizasyon ve anlaşmaların etkilerine ilişkin bilgi toplamada kullanacağı araçları belirler.",
+        "b) Doğal çevrenin korunması ve yönetilmesi amacıyla yapılan organizasyon ve anlaşmaların etkilerine ilişkin bilgi toplar.",
+        "c) Doğal çevrenin korunması ve yönetilmesi amacıyla yapılan organizasyon ve anlaşmaların etkilerine ilişkin topladığı bilgileri doğrular.",
+        "ç) Doğal çevrenin korunması ve yönetilmesi amacıyla yapılan organizasyon ve anlaşmaların etkilerine ilişkin doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "COĞ.12.6.5",
+      "title": "Dünya veya Türkiye'den örnek bir çevre sorununa yönelik çözüm önerisi geliştirebilme",
+      "processComponents": [
+        "a) Dünya veya Türkiye'den örnek bir çevre sorununun nedenlerini yapılandırır.",
+        "b) Dünya veya Türkiye'den örnek bir çevre sorununun nedenlerini özetler.",
+        "c) Dünya veya Türkiye'den örnek bir çevre sorununun çözümüne ilişkin gözlem, bilgi veya verilere dayalı tahminde bulunur.",
+        "ç) Dünya veya Türkiye'den örnek bir çevre sorununun çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Dünya veya Türkiye'den örnek bir çevre sorununun çözümüne ilişkin değerlendirmelerde bulunur."
+      ]
+    },
+    {
+      "code": "COĞ.12.6.6",
+      "title": "Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırmak için ihtiyaç duyulan uygulamalara karar verebilme",
+      "processComponents": [
+        "a) Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırma sürecinde amacını belirler.",
+        "b) Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırmak için neler yapılması gerektiği konusunda bilgi toplar.",
+        "c) Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırmak için neler yapılması gerektiği konusunda alternatif önermeler oluşturur.",
+        "ç) Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırmak için oluşturduğu alternatif önermeler üzerinde mantıksal denetleme yapar.",
+        "d) Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırmak için ihtiyaç duyduğu uygulamalarla ilgili seçim yapar.",
+        "e) Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırmak için seçtiği uygulamalar üzerinde yansıtma yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "çevre politikaları, çevre sorunları, çevresel organizasyonlar, çoraklaşma, çölleşme, doğal miras, drenaj, endemik, erozyon, kültürel miras, relikt, sürdürülebilirlik, Yeşil Vatan",
+  "support": [
+    "Konuya ilişkin kısa bir belgesel/video üzerinden çıkarım yapılması sağlanabilir. Harita inceleme sürecinde iş birlikli öğrenme yönteminden yararlanılabilir. Performans görevi, Türkiye'de çevre sorunları veya ortak doğal ve kültürel mirasın korunmasına yönelik uygulamaların coğrafi temsiller üzerinden incelenmesi şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere *Ramsar Sözleşmesi kapsamında Türkiye'de koruma altında olan sulak alanlar, ulusal doğa koruma parkları, Türkiye ve dünyadan biyosfer rezerv alanları, T.C. Tarım ve Orman Bakanlığına bağlı Doğa Koruma ve Millî Parklar Genel Müdürlüğünün biyokaçakçılıkla mücadele çalışmaları ile ormanların kullanımı ve ormanlardan yararlanma şekilleri konularında araştırma görevleri verilebilir. Öğrencilerin söz konusu araştırma görevlerini tüm sınıf/okul ile paylaşabilmeleri için panel düzenlenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz değerlendirme formu, grup değerlendirme formu, öğrenme günlüğü, bütünsel dereceli puanlama anahtarı, karşılaştırma tablosu, gözlem formu, kontrol listesi, akran değerlendirme formu, performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden bir çevre sorununa karşı çözüm önerileri geliştirmeleri ve geliştirdikleri önerilerden yola çıkarak duvar gazetesi hazırlamaları istenebilir. Performans görevi; sorun belirleme, bilgi toplama, bilgileri düzenleme, çıkarım yapma, çözüm önerme ve gazete hazırlama ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.12.6.1",
+    "Öğrencilerin dikkatini çekmek amacıyla sınıfa çölleşmeyi yansıtan çeşitli görseller getirilir. Bu görsellerden yararlanılarak Türkiye'nin farklı zamanlarda hazırlanan çölleşme modelleri ve hassasiyet haritalarının incelenmesi sağlanır ( SBAB10.3, SBAB11.1 ). Yapılan incelemeden hareketle Türkiye'de toprak kullanımıyla ilgili sorunlara yönelik tartışma süreci başlatılabilir (SDB2.1 ). Söz konusu sorunların her biri (erozyon, çölleşme, tuzlanma, aşırı gübre kullanımı, arazinin yanlış kullanımı, drenaj yetersizliği vb.) iş birlikli öğrenme yöntemiyle incelenebilir. Bu kapsamda gruplar oluşturulur ve oluşturulan gruplardan toprağın kullanımıyla ilgili sorunlar, bu sorunların nedenleri ve etkileriyle toprağın sürdürülebilir kullanımına ilişkin araştırma soruları hazırlamaları istenir. Bu sorular üzerinden bilgi toplanır, toplanan bilgiler sistematik şekilde düzenlenip çözümlenir ( E3.7, E3.8, OB1, BTYAB5 ). Çözümlenen bilgilerden sonuçlar çıkarılır ve bu sonuçlar coğrafi temsil ve metinler şeklinde paylaşılır (KB3.3 ). Paylaşım sürecinde kullanılmak üzere her gruptan ele aldığı toprak sorununa ilişkin bir kavram karikatürü hazırlaması istenebilir. Yapılan çalışmalar, öz değerlendirme ve grup değerlendirme formuyla değerlendirilebilir ve öğrencilere geri bildirim verilir. Türkiye'de toprağın sürdürülebilir kullanımı konusunda bireysel ve toplumsal olarak yapılması gerekenler tartışılabilir ( SDB2.2, SDB2.3, SDB3.3, E2.2, OB8, D9.3, D17.2). Tartışma sürecinin öğrencilerde olumlu tutum, davranış ve duyguların gelişmesini desteklemesi hedeflenir. Bununla birlikte alanında uzman kişilerin katılımıyla toprak sorunlarına ilişkin seminerler düzenlenebilir. Öğrencilere örnek olay inceleme yöntemi kullanılarak toprağın sınırlı bir kaynak olduğunu yansıtan bir senaryo sunulabilir. Öğrencilerden senaryoda anlatılanların kendilerine neler hissettirdiğini ifade etmeleri, bu farkındalıktan sonra davranışlarında ne tür değişiklikler sergileyeceklerini belirlemeleri istenebilir (SDB1.1, SDB3.1, SDB3.2) . Konuya ilişkin tematik öğrenmeyi desteklemek üzere Türk dili ve edebiyatı, görsel sanatlar, müzik dersi öğretmenleri ile iletişime geçilerek resim yapma; şiir, şarkı sözü, hikâye veya kompozisyon yazma çalışmaları yapılabilir. Çalışmalar, okulda açılacak bir sergi aracılığıyla paylaşılabilir ( OB9 ). Çalışmaların değerlendirilmesinde öğrenme günlüğünden yararlanılabilir (SDB1.2 ).",
+    "COĞ.12.6.2",
+    "Türkiye'deki bitki toplulukları ve çeşitliliği, görseller ve haritalar aracılığıyla alansal ve zamansal açıdan karşılaştırılır (E3.2, SBAB10.3, OB4). Karşılaştırma sonucu elde edilen benzerlik ve farklılıklar, karşılaştırma tablosu kullanılarak yorumlanabilir (SDB2.1 ). Türkiye'deki bitki topluluklarının çeşitlilik ve mekânsal dağılışını gösteren özgün bir ürün oluşturulur. Bu kapsamda bitki topluluklarına ilişkin fotoğraf albümü veya bitki sözlüğü hazırlanabilir. Öğrencilerde Türkiye'deki millî parklar, doğa koruma alanları, endemik ve relikt türler, anıt ağaçlar ve kent ormanlarının mevcut durumu ile bu varlıkların korunmasına yönelik duyarlılık bilinci geliştirilmeye çalışılır (D5.2, D19.3). Öğrencilerden millî parklar üzerine araştırma yapan bir coğrafyacı olduklarını düşünerek millî parkları tanıtan afiş hazırlamaları; bir biyocoğrafya uzmanı olduklarını düşünerek anıt ağaçlar, endemik ve relikt türler, koruma altındaki hayvanlar hakkında konuşma hazırlamaları veya belediyede çalışan bir coğrafyacı olduklarını düşünerek kent ormanlarının durumu hakkında sunu hazırlamaları istenebilir. Rol oynama tekniğinden yararlanılan bu çalışmalarda öğrencilere istedikleri rolü seçmeleri için tercih hakkı tanınabilir ( SDB1.1, SDB2.3 ). Bununla birlikte insanın doğa üzerinde olumlu ve olumsuz etkilere sahip olduğundan bahsedilir. Türkiye'de ağaçlandırma çalışmaları ve ormanların iyileştirilmesi insanın doğa üzerindeki olumlu etkisine, orman yangınlarına neden olması ise olumsuz etkisine örnek verilebilir. Bu süreçte Yeşil Vatan'a sahip çıkmanın önemine ilişkin örnek olay inceleme tekniği kullanılabilir ( D19.3 ). Bu konu kapsamında bitki topluluklarını gözlemleyebilecekleri yerlere keşif gezileri düzenlenebilir, saha/sanal saha çalışmaları yapılabilir. Çalışmalar, bütünsel dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir ve öğrencilere geri bildirim verilir (SDB1.2) .",
+    "COĞ.12.6.3",
+    "Çevre sorunlarının önlenmesi konusunda Türkiye ve farklı gelişmişlik seviyesine sahip ülkelerden örnek politika ve uygulamalar belirlenir. Bu ülkelerde hayata geçirilen örnek politika ve uygulamalar, benzerlik ve farklılıkları yönünden karşılaştırılır. Bu aşamada Venn şeması tekniğinden yararlanılabilir ( SBAB10.3, SBAB11.2 ). Günümüzde çevre sorunlarının yerel ve küresel politikalarla çözülebilmesi için mevcut uygulamalarla birlikte bireysel sorumluluklara da önem verilmesi gerektiği vurgulanır. Düşün-eşleş-paylaş tekniğiyle öğrencilerden kendi sorumluluklarını belirlemeleri istenebilir (SDB3.3, D16.2, E2.2). Öğrenmeler, farklı gelişmişlik seviyesine sahip ülkelerdeki çevre sorunlarının önlenmesinde örnek politika ve uygulamaların benzer ve farklı yönlerden listelendiği bir karşılaştırma tablosuyla değerlendirilebilir.",
+    "COĞ.12.6.4",
+    "Doğal çevrenin yönetilmesi ve korunması amacıyla yapılan organizasyon ve anlaşmaların etkileri hakkında bilgi sahibi olmak için çeşitli araçlar belirlenir. Bu araçlar üzerinden ihtiyaç duyulan bilgilere ulaşılır. Ulaşılan bilgiler doğrulanır ve kaydedilir (OB1). Elde edilen sonuçların sınıfta sunulması sağlanır. Bu süreç gözlem formu veya kontrol listesiyle izlenebilir. Sonraki aşamada öğrenciler gruplara ayrılır. Her gruptan kendi araştırma konusuyla ilgili sorular hazırlaması istenir. Hazırlanan soruların tüm grupların katılımıyla cevaplanması sağlanır. Bu süreçte iş birlikli öğrenme yöntemi kullanılabilir. Bu süreçte öğrenciler, eleştirel düşünmeye teşvik edilir ( SDB2.1, SDB2.2, E3.10, D14.3) .",
+    "COĞ.12.6.5",
+    "Dünya veya Türkiye'den örnek bir çevre sorunu belirlenerek bu sorunun nedenlerine ilişkin bilgi toplanır. Toplanan bilgiler incelenir ve bir araya getirilir. Bu aşamada örnek olay inceleme yönteminden yararlanılabilir. Söz konusu soruna neden olan faktörler özetlenir. Ayrıca öğrencilerden çevre sorununa neden olabilecek davranışlarını belirlemeleri istenir (SDB1.3) . Bu süreçte yapılan gözlem, toplanan bilgi ve elde edilen veriler üzerinden çevre sorunlarının çözümüne yönelik tahminler yürütülür. Önermeler üzerinden akıl yürütülür, bireysel ve toplumsal olarak neler yapılabileceğine dair değerlendirmelerde bulunulur ( SDB3.3, D9.3, BTYAB2 ). Farklı çevre sorunlarını konu alan makale, bildiri, proje, tez vb. bilimsel çalışmalar incelenerek tartışılabilir. Öğrencilerden bu çalışmalardaki çevre sorunlarından herhangi birinin çözümüne yönelik değerlendirme yapmaları istenebilir (D5.2, D9.3, D18.3, D19.3). Bu çalışmalar, bütünsel dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "COĞ.12.6.6",
+    "Türkiye ve belirlenen bazı ülkelerin doğal ve kültürel miras değerleri ile bu değerlerden tehdit altında olanlar \"UNESCO Tehlike Altındaki Dünya Mirası Listesi\" haritasından tespit edilir ( SBAB10.1, SBAB10.2 ). Doğal ve kültürel mirasa yönelik tehditleri ortadan kaldırma konusunda yapılması gerekenler belirlenerek ihtiyaç duyulan bilgiler toplanır (OB1, E3.4) . Elde edilen bilgiler düzenlenerek söz konusu sorunların çözümüne yönelik alternatif önermeler oluşturulur ve bu önermeler üzerinde mantıksal denetleme yapılır (E3.10 ). Alternatif önermelerden en uygun olanının belirlenmesine yönelik çıkarımda bulunulur. Bu süreçte balık kılçığı tekniğinden yararlanılabilir. Seçilen uygulamaların sonuçları üzerinden yansıtma yapılır ( SDB3.3) . Öğrencilerden doğal ve kültürel mirasa yönelik olumlu duygu, tutum ve davranışlar geliştirebilmeleri için yazılı veya dijital öykü oluşturmaları istenebilir (SDB2.1, E3.3) . Oluşturulan öyküler üzerinden çevreyi sevme, çevresel temizlik ve çevrenin sürdürülebilirliğine önem verilmesi gerektiği vurgulanır ( SDB2.3, SDB3.3, D5.2, D9.3, D18.3, D19.3, OB8, OB9). Çalışmalar, öz ve akran değerlendirme formlarıyla değerlendirilerek öğrencilere geri bildirim verilir ( SDB1.2 ).",
+    "Bu ünitede performans görevi olarak öğrencilerden iş birlikli öğrenme yöntemi aracılığıyla bir çevre sorununa karşı çözüm önerileri geliştirmeleri ve geliştirdikleri bu önerilerden yola çıkarak duvar gazetesi hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.3"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/283"
+}

@@ -1,0 +1,51 @@
+{
+  "unitId": 1152,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: GİTARDA SAĞ EL (TİRANDO) TEKNİĞİ",
+  "hours": "6",
+  "description": "Temada öğrencilerin sağ el tekniğinin geliştirilmesi, metronom kullanımının faydaları, genel çalma tekniğinde koordinasyon gibi kavramları öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.2.3.1",
+      "title": "Sağ el tekniklerini çalabilme",
+      "processComponents": [
+        "a) Sağ el tekniklerini çözümler.",
+        "b) Gitarda doğru duruş ve tutuş pozisyonu alır.",
+        "c) Sağ elde gösterilen teknikleri kullanır.",
+        "ç) Verilen egzersizleri tirando tekniğini kullanarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "metronom, sağ el, tirando",
+  "support": [
+    "Öğrencilere akıllı tahtada yavaşlatılmış tirando vuruşları içeren videolar gösterilir. Öğrencilerin parmak hareketlerini net bir şekilde görebileceği animasyonlar veya resimli anlatımlar kullanılır."
+  ],
+  "enrichment": [
+    "Tirando tekniğinin kullanıldığı farklı müzik türlerinden örnekler dinletilebilir (klasik, flamenko, pop vb.). Öğrencilerin sağ ve sol el koordinasyonunu geliştirmek için ritmik oyunlar oynatılabilir. Örneğin sağ elle dizlere vururken sol elle karınlarına vurma oyunu gibi etkinlikler hem eğlenceli hem de öğretici olabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları, gözlem formu ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak sağ elin işlevine uygun bir şekilde tirando tekniğini uygulamaları ve verilen egzersizleri metronom eşliğinde çalmaları istenebilir. Akran değerlendirme formları kullanılabilir. Ayrıca tirando tekniği ve el koordinasyonuyla ilgili kısa cevaplı sorular ve doğru-yanlış soruları süreçte kullanılabilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.2.3.1",
+    "Öğrencilere akıllı tahtadan klasik gitar performansı videosu izletilir. Sağ elin gitar çalmadaki rolünden bahsedilir ( SDB2.1 ). Sağ elde tirando tekniği gösterilir ve bu tekniği anlatan dijital ortamda görsel materyaller bulmaları istenir. Öğrencilerden buldukları görselleri akıllı tahtadaki klasörlerine yüklemeleri istenebilir ( OB2 ). Öğrenciler çalma uygulamalarına yönlendirilirler. Öğrencilerden tirando tekniğini çözümlemeleri beklenir. Öğrencilerin doğru duruş, tutuş ve el konumlandırması sağlanır. Tirando tekniğine uygun egzersizler verilir. Yapabildiklerine dair zihinsel örüntülere sahip olabilmesi sağlanır ( E1.5 ). Öğrencilerden Çalışmalarda olumlu bakış açısına sahip olmaları beklenir ( D12.1 ). Öğrenciler gitardan ses elde ederler. Öğrencilerin bir eli açıkken diğerini kapatmalarını, sağ elleriyle dizlerine vururken sol elleriyle karınlarına vurmaları gibi oyunlar oynatarak keyif almaları sağlanır ( E2.5 ). Öğrencilere metronom kullanmanın doğru tempoda çalma alışkanlığı kazandıracağından bahsedilir. Öğrencilerin tirando egzersizlerini müziksel bileşenlerine uygun çalması istenir. Performans görevi kapsamında öğrencilerin sağ el koordinasyonunun nasıl uygulanacağına dair videolar izlemeleri istenebilir. Öğrencilere kısa cevaplı sorular sorularak süreç değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.1"
+    ],
+    "egilim": [
+      "E1.5",
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1152"
+}

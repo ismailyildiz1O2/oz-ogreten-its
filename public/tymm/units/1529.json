@@ -1,0 +1,85 @@
+{
+  "unitId": 1529,
+  "grade": 0,
+  "gradeName": "YAZARLIK VE YAZMA BECERİLERİ DERSİ (I)",
+  "subject": "Yazarlık ve Yazma Becerileri Dersi",
+  "title": "DÜZEY I · 1. Öğrenme Alanı: Yazının Planlanması",
+  "hours": "42",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YYB.1.1.1",
+      "title": "Yazma sürecini yönetebilme",
+      "processComponents": [
+        "a) Yazma ortamı ve araç gerecinin seçimini yapar.",
+        "b) Yazmaya hazırlık ile ilgili etkinliklere katılarak yazma süreciyle olan ilişkisini sürdürür.",
+        "a) Yazma amacına yönelik temel unsurları belirler.",
+        "b) Yazma amacına uygun içerik, üslup ve yapı arasındaki ilişkileri belirler.",
+        "a) Yazacağı metnin konu seçimine ilişkin mevcut bilgisi dâhilinde varsayımda bulunur.",
+        "b) Yazı planını oluşturan unsurların örüntülerini listeler.",
+        "c) Yazı planında oluşturduğu unsurların birbirleriyle olan uyumunu karşılaştırır.",
+        "ç) Yazı planında yer alan unsurlardan herhangi birine yönelik önerme sunar.",
+        "d) Yazısının planına yönelik süreci değerlendirir."
+      ]
+    },
+    {
+      "code": "YYB.1.1.4",
+      "title": "Yazısının zaman planını yapılandırabilme",
+      "processComponents": [
+        "a) Yazısının bölümlerini yazacağı metinle ilişkilendirerek ortaya koyar.",
+        "b) Yazısının bölümleri ile her bölüme ayıracağı süreyi ilişkilendirerek zaman planını oluşturur."
+      ]
+    },
+    {
+      "code": "YYB.1.1.5",
+      "title": "Yazısını yapılandırabilme",
+      "processComponents": [
+        "a) Hazırlık aşamasını göz önünde bulundurarak yazısını mantıksal ilişkiler içerisinde ortaya koyar.",
+        "b) Ortaya koyduğu yazısını ön bilgilerinden hareketle inceleyerek uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "YYB.1.1.6",
+      "title": "Yazma sürecinde kural uygulayabilme",
+      "processComponents": [
+        "a) Yazısının sayfa düzeni ve okunaklılığına dair plan hazırlar.",
+        "b) Yazısında düşünceyi geliştirme yollarını kullanır.",
+        "c) Yazısında uygun söz varlığını kullanır.",
+        "ç) Yazısında iletileri açık ve örtük biçimde ifade eder.",
+        "d) Yazısında dil yapılarını uygular.",
+        "e) Yazısında bağlama uygun bağdaşıklık ögelerini kullanır.",
+        "f) Yazısında yazım kurallarını uygular.",
+        "g) Yazısında noktalama kurallarını uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "ana fikir/ana duygu, anahtar sözcük, bağdaşıklık, başlık, içerik, konu, metin türü, noktala ma işaretleri, sayfa düzeni, söz varlığı, üslup, yazım kuralları, yazma amacı, yazma ortamı, yazı planı, zaman planı",
+  "support": [
+    "Öğrenme sürecinde daha fazla desteğe ihtiyaç duyan öğrenciler için yazma planını oluşturmaya yönelik yapılandırılmış uygulamalara yer verilebilir. Bu kapsamda örnek yazı planları, eksik bırakılmış plan şablonları, görsel destekli çalışma kâğıtları, aşamalı yönergeler ve kontrol listeleri kullanılabilir. Yazma amacı belirleme, metni planlama ve yazım kurallarını uygulama süreçlerinde yönlendirici sorular, örnek metinler, grafik düzenleyiciler, akran desteği ve öğretmen geri bildirimiyle öğrencilerin yazma süreci desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk düzeyleri, ilgi alanları ve öğrenme profilleri doğrultusunda yazma sürecini derinleştirecek uygulamalara yer verilebilir. Bu kapsamda öğrencilerden aynı konuya farklı hedef kitlelere yönelik yazı planları hazırlamaları, farklı metin türleri için alternatif planlar oluşturmaları, yazı planlarını dijital araçlarla geliştirmeleri, birden fazla taslağı karşılaştırarak en uygun planı gerekçelendirmeleri ve farklı bakış açılarıyla yeniden yapılandırmaları istenebilir. İleri düzey öğrenciler, özgün yazma stratejileri geliştirerek planlama süreçlerini akranlarıyla paylaşabilir veya ortak yazma platformlarında rehberlik üstlenebilir."
+  ],
+  "assessment": [
+    "Öğrenme kanıtlarını belirlemede kullanılabilecek ölçme araçları şunlardır: gözlem formları, kontrol listeleri, rubrikler, akran ve öz değerlendirme formları, performans görevleri, yaz ma dosyası/portfolyo, ürün dosyası değerlendirmesi ve dijital değerlendirme araçları. Performans görevi olarak öğrencilerden belirledikleri bir konu doğrultusunda yazma amaçlarını belirlemeleri, yazı planı ve zaman planı oluşturmaları, hazırladıkları plana uygun bir metin yazmaları ve yazılarını yazım kuralları açısından gözden geçirerek son hâline getirmeleri istenebilir. Performans görevi; dersin ölçme ve değerlendirme yaklaşımına uygun olarak bütüncül dereceli puanlama anahtarı, kontrol listesi, öz değerlendirme formu aracılığıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "YYB.1.1.1",
+    "Yazma ortamı ve araç gerecine yönelik tercihlerini belirlemesi istenir. Yazacağı ortamı yazmaya uygun hâle getirmesi, amacına ve metin türüne uygun araç gereci seçmesi sağlanır. Yazma ortamını düzenlerken dikkatini yazma sürecine verebileceği, ihtiyaç duyduğu araç gerece kolayca ulaşabileceği ve yazma amacına uygun bir çalışma düzeni oluşturabileceği bir ortam tasarlaması desteklenir ( E3.2 , E3.7 , SDB1.2 ). Bu süreçte yazma ortamını belirlemesi için “Okul Dışı Öğrenme Platformu”na (okuldisiogrenme.eba.gov.tr) yönlendirilmesi sağlanabilir. Öğrencinin yazmaya başlamadan önce yapacağı hazırlıkları arkadaşlarıyla paylaşması sağlanabilir. ( TAB3 ). Yazmaya hazırlık ile ilgili etkinliklere katılarak yazma süreciyle olan ilişkisini sürdürmesi desteklenir ( E2.2 ). Yazma öncesinde yapılacak kısa hazırlık uygulamalarıyla konuya odaklanması, yazma sürecine zihinsel olarak hazırlanması ve yazma görevine karşı sorumluluk bilinci geliştirmesi desteklenir ( E2.2 , E3.2 , D16.3 ). Yazma sürecine ilişkin görevlerini planlı ve düzenli bir şekilde yürütmesi desteklenir ( SDB1.2 , D3.2 ). Bu süreç kontrol listesi ile değerlendirilebilir.",
+    "YYB.1.1.2",
+    "Konuya ilişkin okuduğu içeriklerden elde ettiği bilgileri değerlendirerek yazısına aktarabilmesi sağlanır ( TAB2 ). Bu süreçte farklı içeriklerden edindiği bilgi, izlenim ve düşünceler arasından yazma amacına hizmet edecek olanları seçmesi ve yazısında kullanacağı içeriği bu doğrultuda belirlemesi desteklenir ( E1.6 , E3.1 , OB1 ). Yazma amacına yönelik temel unsurları belirlemesi istenir. Bu süreçte öğrencinin yazıyı hangi amaçla (bilgilendirme, duygu ve düşüncelerini paylaşma, ikna etme, eğlendirme vb.), kime yönelik (hedef kitle), hangi metin türünde ve nasıl bir üslupla yazacağını belirlemesi sağlanır. Yazısını planlarken hedef kitlenin ilgi, ihtiyaç ve bakış açısını dikkate alması, okurla empati kurarak yazma amacını belirlemesi desteklenir ( E2.1 ). Belirlediği bu unsurlar arasındaki ilişkiyi değerlendirerek yazısının amacına uygun içerik, üslup ve yapı oluşturması desteklenir ( E3.1 , E3.10 , SDB1.2 ). Bu süreç ürün dosyası ile değerlendirilebilir.",
+    "YYB.1.1.3",
+    "Yazacağı konu seçimine ilişkin ön bilgilerine dayanarak varsayımda bulunması istenir ( E1.6 , E3.7 , SDB1.1 ). Konuya ilişkin çağrışımlarını, önceki bilgi ve deneyimlerini gözden geçirerek yazının yönünü belirleyecek ilk fikirleri ortaya koyması desteklenir ( E3.1 , SDB1.1 ). Yazı planını oluşturan unsurların (konu, metin türü, anahtar sözcük, ana fikir/ana duygu ve başlık) örüntülerini listelemesi beklenir. Bu unsurlar arasındaki ilişkileri fark etmesi ve her bir unsurun yazının bütününe nasıl katkı sunduğunu değerlendirmesi sağlanır ( E3.1 , E3.7 ). Gerektiğinde ders materyali üzerinden veya öğretmen tarafından verilen yazı planını oluşturan unsurlarla (konu, metin türü, anahtar sözcük, ana fikir/ana duygu ve başlık) yazma sürecini yönetmesi beklenir. Yazı planında oluşturduğu unsurların birbirleriyle olan uyumunu karşılaştırması, bu unsurlardan herhangi birine yönelik alternatif önerilerde bulunması beklenir. Farklı başlık, anahtar sözcük ya da ana fikir önerileri üzerinde durularak yazı planının farklı biçimlerde nasıl geliştirilebileceği üzerine düşünmesi sağlanır ( E3.3 , E3.10 ). Farklı önerileri değerlendirirken olay ve durumlara çok yönlü bakması desteklenir ( E3.10 , D14.1 ). Yaptığı önerilerin ardından yazı planına yönelik süreci değerlendirmesi istenir. Bu değerlendirme sırasında planın yazma amacına, konuya ve seçilen türe uygunluğu üzerinde durularak sonraki aşamaya daha bilinçli biçimde geçmesi desteklenir ( E3.1 , SDB1.3 ). Bu süreç öz değerlendirme ile gerçekleştirilebilir.",
+    "YYB.1.1.4",
+    "Yazısına ilişkin şemayı genel hatlarıyla belirlemesi, yazısının bölümlerini (giriş, gelişme ve sonuç/serim, düğüm ve çözüm) yazacağı metinle ilişkilendirmesi ve yazısının bölümleri ile her bölüme ayıracağı süre planlamasını uyumlu bir şekilde ortaya koyması istenir. Yazının giriş, gelişme ve sonuç ya da serim, düğüm ve çözüm bölümlerini metnin akışıyla ilişkilendirerek her bölümün işlevi üzerinde durması sağlanır. Böylece yazının bütününü oluşturan bölümlerin sıralanışı ile bu bölümlere ayrılacak zaman arasında dengeli bir plan kurması desteklenir ( E3.1 , E3.7 , SDB1.2 ). Hazırladığı planı uygulaması ve gerektiğinde yeniden düzenlemesi desteklenir ( E3.7 , SDB1.2 , D3.2 ). Bu süreç öz değerlendirme ile gerçekleştirilebilir.",
+    "YYB.1.1.5",
+    "Hazırlık aşamasını göz önünde bulundurarak taslağını mantıksal ilişkiler içerisinde oluşturması beklenir. Taslağını oluştururken belirlediği konu, ana fikir/ana duygu, metin türü ve anahtar sözcükler arasındaki ilişkiyi dikkate alarak yazının akışını planlaması desteklenir ( E3.1 , E3.7 , SDB1.2 ). Yazısını hazırlık aşamasını göz önünde bulundurarak ön bilgilerin den hareketle incelemesi ve uyumlu bir bütün oluşturması sağlanır. Bu süreçte yazısının bölümleri arasında anlam ve yapı bakımından tutarlılık kurması, yazının bütününde anlatım birliğini koruması ve gerekli gördüğü yerlerde düzenlemeler yapması teşvik edilir. Metni oluştururken farklı kişi ve grupların duygu, düşünce ve bakış açılarını dikkate alması; temel hak ve hürriyetlere saygılı bir anlatım benimsemesi sağlanır. ( E3.10 , SDB1.3 , KB2.9 ). Yazısını geliştirme sürecinde karşılaştığı güçlükler karşısında çabasını sürdürmesi desteklenir ( D3.1 ). Bu süreç öz değerlendirme ile gerçekleştirilebilir.",
+    "YYB.1.1.6",
+    "Yazısında dil yapılarını uygulaması istenir. Bu uygulamayı yaparken anlaşılır ve etkili bir dil kullanması beklenir. Dil yapılarını; seçtiği metin türüne, anlatım amacına ve bağlama uygun biçimde kullanması istenir. Böylece cümlelerini anlam akışını destekleyecek bir düzen içinde kurması sağlanır ( E3.1 , E3.7 ). Yazısında yazım ve noktalama kurallarını uygulaması, Türkçeyi doğru, özenli ve etkili kullanmasına dikkat çekilir ( D19.2 ). Yazısının sayfa düzeni ve okunaklılığına (eğim, boşluk, ebat, biçim ve çizgi takibi) ilişkin plan hazırlaması; bu plan doğrultusunda yazısını okunaklı ve sayfa düzenine uygun biçimde oluşturması sağlanır. Yazısında okunaklılığa ve sayfa düzenine dikkat ederek estetik unsurları fark etmesi ve görsel düzen oluşturmaya yönelik duyarlılık geliştirmesi sağlanır ( E3.2 , SDB1.2 , D7.1 ). Oluşturduğu yazıda bağlama uygun bağdaşıklık ögelerini kullanması sağlanır ( E3.7 ). Bağ daşıklık ögelerinin metnin anlam akışını destekleyen işlevi üzerinde durularak cümleler ve paragraflar arasında uygun geçişler kurması desteklenir ( E3.1 , E3.10 ). Yazısında bağla ma uygun söz varlığını kullanması, tanımlama, örnekleme, karşılaştırma, benzetme, ta nık gösterme, sayısal verilerden yararlanma gibi düşünceyi geliştirme yollarını kullanması sağlanır. Bilgi ve düşüncelerini gerekçelendirerek ifade etmesi desteklenir ( E1.6 , SDB3.1 , D3.3 ). Kullanacağı söz varlığını yazma amacı, konu ve hedef kitle doğrultusunda seçmesi; düşünceyi geliştirme yollarını ise yazının anlamını güçlendirecek biçimde kullanması için yönlendirmelerde bulunulur ( E1.6 , E3.1 , OB1 ). Yazısındaki iletileri açık ve örtük biçimde ifade etmesi sağlanır. Açık ve örtük iletiler arasındaki fark üzerinde durularak anlatmak istediklerini doğrudan ya da sezdirerek ifade etmesinin metnin anlamını nasıl etkilediğini fark etmesi sağlanır ( E3.1 , E3.3 ). Performans görevi olarak öğrencilerden belirledikleri bir konu doğrultusunda yazma amaçlarını belirlemeleri, yazı planı ve zaman planı oluşturmaları, hazırladıkları plana uygun bir metin yazmaları ve yazılarını yazım kuralları açısından gözden geçirerek son hâline getirmeleri istenebilir. Performans görevi; dersin ölçme ve değerlendirme yaklaşımına uygun olarak bütüncül dereceli puanlama anahtarı, kontrol listesi ve öz değerlendirme formu aracılığıyla değerlendirilebilir."
+  ],
+  "skills": [
+    "Anlatma",
+    "TAB4. Yazma (TAB4.1. Yazmayı Yönetme, TAB4.3. Kural Uygulama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1529"
+}

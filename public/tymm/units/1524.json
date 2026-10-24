@@ -1,0 +1,67 @@
+{
+  "unitId": 1524,
+  "grade": 0,
+  "gradeName": "1. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY I · 2.Tema: Sözel Oyunlar",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OEZO.1.2.1",
+      "title": "Sözel oyunların kurallarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.2.2",
+      "title": "Sözel oyunlara uygun kelimeler üretebilme ",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.2.3",
+      "title": "Başlangıç ve orta seviye sözel oyunlarda akıl yürütme biçimlerini uygulayabilme ",
+      "processComponents": [
+        "a) Başlangıç ve orta seviye sözel oyunlarda parçadan bütüne ilişki kurarak sonuca varır.",
+        "b) Başlangıç ve orta seviye sözel oyunlarda genelden genele ilişki kurarak akıl yürütür.",
+        "c) Başlangıç ve orta seviye sözel oyunlarda özelden özele ilişki kurarak akıl yürütür.",
+        "d) Başlangıç ve orta seviye sözel oyunlara yönelik temel stratejileri kullanarak akıl yürütür."
+      ]
+    },
+    {
+      "code": "OOEZO.1.2.4",
+      "title": "Sözel oyunlarda verilen ipuçlarıyla mantıksal çıkarımlar yapabilme ",
+      "processComponents": [
+        "a) Sözel oyunlara ilişkin ön bilgileri kullanır.",
+        "b) Sözel oyunlarda ön bilgilerden hareketle kurala dayalı alternatif çözümler üretir.",
+        "c) Sözel oyunlarda sonuca yönelik yargıda bulunur."
+      ]
+    },
+    {
+      "code": "OOEZO.1.2.5",
+      "title": "Sözel oyunlara özgü temel stratejileri kullanabilme",
+      "processComponents": [
+        "a) Sözel oyunun stratejik problem durumunu belirler.",
+        "b) Sözel oyunda belirlenen problemin çözümüne ilişkin öneri sunar.",
+        "c) Sözel oyunda belirlediği stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "anagram, kelime, şifre",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [
+    "OOEZO.1.2.1",
+    "Öğrencilere sözel oyunların temel kuralları video veya slayt ile açıklanır. Ayrıca öğrencilerin bu bilgileri kaydetmeleri istenir (OB1). Öğrencilere izletilen video veya slaytla, onlarda sözel oyunlara yönelik merak duygusu uyandırılır. Süreçte soru-cevap tekniği kullanılır. Öğrencilerden araştırmak istedikleri bilgiye ulaşma yollarını belirlemeleri ve edindikleri bilgileri eleştirel bakış açısıyla değerlendirmeleri beklenir (D3.3) . Öğrencilerin sözel oyunlarda öğrendiği bilgileri ailesiyle paylaşmaya istekli olmaları beklenir ( D2.2). OOEZO.1.2.2",
+    "Öğrencilerin sözel oyunlardaki ses, hece ve kelime çalışmalarında verilen ipuçları arasındaki ilişkiyi öğrenmeleri beklenir (OB1 ). Öğrencilerin sözel oyunlarda özgün kelime oluşturmaları istenir. Özgün kelime oluştururken sebat etmeleri sağlanır ( OB1 , D12.3 ). Öğrencilerin sözel oyunlarda anlamlı kelime oluştururken Yaratıcılığını geliştirecek faaliyetlere katılmaları sağlanır ( D3.3) . Öğrencilerin sözel oyunlarda yeni bilgi ile ne yapacağına karar vermesi ve arkadaşlarıyla duygu ve düşüncelerini paylaşmaları sağlanır ( OB7, D4.2) . Öğrencilerden sözel oyunlar oynarken duygu ve düşüncelerini etkili bir şekilde ifade etmeleri ve arkadaşlarını etkin şekilde dinlemeleri beklenir ( SDB2.1 ).",
+    "OOEZO.1.2.3",
+    "Öğrencilerin başlangıç ve orta seviye sözel oyunlarda ulaştıkları değerlendirmeleri karşılaşacakları yeni oyunlara uyarlamaları beklenir ( SDB3.3).",
+    "OOEZO.1.2.4",
+    "Öğrencilerin sözel oyunlarda verilen ipuçlarına yönelik en uygun çözüm yollarını bulmaları istenir ( SDB3.2) . OOEZO.1.2.5",
+    "Öğrencilerden sözel oyunlarda belirlediği stratejinin uygulanmasında sorumluluk almaları istenir ( D11.2)."
+  ],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme, SBAB12. Mantıksal Muhakeme (SBAB12.1. Akıl Yürütme Biçimlerini Uygulama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1524"
+}

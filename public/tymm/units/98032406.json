@@ -1,0 +1,46 @@
+{
+  "unitId": 98032406,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "6. ÖĞRENME ALANI: KÜLTÜREL BİRİKİMLERİMİZ VE DEĞERLERİMİZ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BE.8.2.3.1",
+      "title": "Bayram, kutlama ve törenlerde sorumluluk alır",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.3.2",
+      "title": "Atatürk’ün spora ve sporcuya verdiği önemi inceleyerek çıkarımlarda bulunur",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.3.3",
+      "title": "Diğer kültürlere ait halk danslarını araştırır",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.3.4",
+      "title": "Olimpik ve Paralimpik okul günleri hazırlar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Aktif ve Sağlıklı Hayat",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf"
+}

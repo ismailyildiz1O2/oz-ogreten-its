@@ -1,0 +1,88 @@
+{
+  "unitId": 1493,
+  "grade": 0,
+  "gradeName": "I. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY I · 4. Tema: Doğada Matematik",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.1.4.1",
+      "title": "Nokta, doğru, doğru parçası, ışın, açı ve çember modellerini doğadaki örnekler üzerinden yorumlayabilme",
+      "processComponents": [
+        "a) Nokta, doğru, doğru parçası, ışın, açı ve çember modellerinin doğadaki örneklerini inceler.",
+        "b) İncelediği örneklerden yola çıkarak nokta, doğru, doğru parçası, ışın, açı ve çember modelleri oluşturur.",
+        "c) Nokta, doğru, doğru parçası, ışın, açı ve çembere ait özellikleri belirleyerek açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.4.2",
+      "title": "Kesişen iki doğru ile oluşan açı modellerini doğadaki örnekler üzerinden yorumlayabilme",
+      "processComponents": [
+        "a) Kesişen iki doğru ile oluşan açı modellerinin doğadaki örneklerini inceler.",
+        "b) İncelediği örneklerden yola çıkarak açı modelleri oluşturur.",
+        "c) Oluşturduğu modellerdeki açıların özelliklerini belirleyerek açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.4.3",
+      "title": "Günlük hayat durumlarına çokgenlerin birleşiminden oluşan şekillerin alanlarını hesaplamaya yönelik matematiksel problemleri çözebilme",
+      "processComponents": [
+        "a) Günlük hayat durumlarına çokgenlerin birleşiminden oluşan şekillerin alanlarını hesaplamaya yönelik problemlerdeki verilenleri ve istenenleri belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.4.4",
+      "title": "Matematik ve astronomi alanına katkı sunan bilim insanlarının çalışmaları hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Matematik ve astronomi alanına katkı sunan bilim insanlarının çalışmaları hakkında bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Doğada gözlemlenen pek çok düzen, yapı ve ilişkiler geometrik bakış açısıyla anlaşılabilir.\n\n Anahtar Kavramlar \n\n açı, bütünler açılar, çember, doğru, doğru parçası, ışın, nokta, ters açılar, tümler açılar",
+  "support": [
+    "Günlük hayatta ve doğada karşılaşılan nokta, doğru, doğru parçası, ışın, açı ve çember örneklerini içeren dijital ortamda eşleştirme oyununu oynamaları sağlanarak konuyu pekiştirmeleri desteklenebilir.",
+    "Düzgün olmayan düzlemsel bölgelerin alanlarını hesaplamaya yönelik dijital içerikler kullanarak pekiştirme yapmaları sağlanabilir.",
+    "Problem çözme basamaklarına ilişkin ek yönergeler verilerek süreçte destek olunabilir. Kitap, defter, silgi vb. farklı araçlarla masalarının alanlarını hesaplamaları istenebilir."
+  ],
+  "enrichment": [
+    "Günlük hayatta ve doğada karşılaşılan nokta, doğru, doğru parçası, ışın, açı ve çember modellerini içeren örneklerle ilgili dijital ortamda bir eşleştirme oyunu tasarlamaları istenebilir.",
+    "Güneş’in bir noktaya gün içinde düşme açılarını araştırarak bu açıların etkilerini açıklamaları istenebilir.",
+    "Okul bahçesinin alanını en az iki farklı çözüm yolu kullanarak hesaplamaları ve kullandıkları çözüm yollarını arkadaşlarının kullandıkları çözüm yolları ile karşılaştırmaları istenebilir.",
+    "Matematik ve astronomi alanına katkı sunan bilim insanı El-Cezeri’nin robotlarla ilgili çalışmalarını araştırarak bir tanıtım posteri hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevleri, açık uçlu sorular, eşleştirme, doğru-yanlış testi vb. kullanılarak değerlendirilebilir.",
+    "Nokta, doğru, doğru parçası, ışın, açı ve çemberi modellemeyle ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Doğada kesişen iki doğru ile oluşan açı modellerini örneklendirme ve model oluşturmayı içeren performans görevi verilebilir. Bu görevi kontrol listesi ile değerlendirilebilir.",
+    "Günlük hayatta karşılaşabilecekleri düzgün olmayan düzlemsel bölgelerinin alanları ile ilgili problemler verilerek çözüme yönelik farklı stratejiler geliştirmeleri, geliştirdikleri problem çözümleri ile ilgili sunum hazırlamaları ve arkadaşlarına sunmalarını içeren performans görevi verilebilir. Bu görev kontrol listesi ile değerlendirilebilir. Ayrıca grup değerlendirme, öz değerlendirme formu kullanılabilir.",
+    "Matematik ve astronomi alanına katkı sunan bilim insanlarının çalışmaları ile ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.1.4.1.",
+    "Öğrencilere nokta, doğru, doğru parçası, ışın, açı ve çemberin doğadan seçilen örneklerini içeren görseller sunularak incelenmesi sağlanır ( E1.1 , OB4 ). Görseller dijital ortamda da gösterilebilir ( OB2 ). Daha sonra öğrencilerden, inceledikleri örneklerden hareketle nokta, doğru, doğru parçası, ışın,açı ve çember kavramlarını modelleyerek bu kavramların özelliklerini açıklayacakları poster, afiş, resim, rapor vb. hazırlamalarını içeren bir performans görevi verilir. Performans görevini grup ya da bireysel olarak yapabilecekleri belirtilir. Performans görevi hazırlama sürecinde sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 ). Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca süreç çalışma kâğıdı ile değerlendirilebilir.",
+    "MBU.MU.1.4.2.",
+    "Öğrencilere ağaç dalları, makasın açılması, saatin akrep ve yelkovanı veya bir çit gibi kesişen doğru modellerinin olduğu görseller sunulur. Öğrencilerin bu görsellerde oluşan açı ve açı çeşitleri incelemeleri sağlanır ( E1.1 , OB4 ). Görseller dijital ortamlarda da inceletilebilir ( OB2 ). Bu incelemeler sonucunda öğrencilerden, kesişen doğruların oluşturduğu açıları belirlemeleri istenir. Ardından öğrencilerden, doğadan kesişen iki doğru ile oluşan açı modellerine örnekler vermeleri beklenir. Bu örnekler üzerinden, öğrencilere “Bu doğrular nerede kesişiyor? Oluşan açı dar mı, dik mi, yoksa geniş mi?” gibi sorular yöneltilerek sınıf içinde tartışma ortamı oluşturulur ( SDB2.1 , E3.1 , E3.10 ). Daha sonra öğrencilerden atık malzemeler kullanarak açı modelleri (komşu, tümler, bütünler, komşu tümler, komşu bütünler ve ters açılar) oluşturmaları istenir ( KB2.20 ) . Atık malzemeler kullanılmasıyla sürdürülebilir tüketim ve doğayı koruma konusuna vurgu yapılarak fen bilimleri dersi ile bağlantı kurulur ( OB8 , D17.3 ). Böylece atık azaltma konusunda sorumluluk alarak günlük hayatlarına yansıtmaları desteklenmiş olur ( SDB1.2 , SDB3.3 , D5.2 , D16.3 ). Modelleme etkinliği işbirlikli grup çalışması şeklinde yürütülebilir ( SDB2.1 , SDB2.2 ). Öğrencilerden oluşturdukları modellerin özelliklerini açıklamaları beklenir. Bu süreçte öğrencilerin “Bu açının dar açı olduğunu düşünüyorum çünkü …” vb. matematiksel gerekçelendirme ifadeleri kullanmaları teşvik edilir ( E3.1 ). Etkinlik boyunca öğrencilerin birbirlerinin modellerini inceleyerek açı türlerine göre sınıflandırma yapmaları sağlanır ( KB2.5 ). Her grubun kendi modelini sınıfta sunması sağlanabilir ( SDB2.1 ). Süreçte öğrencilerin görev bilinciyle hareket etmeleri, sorumluluk almaları ve planlı çalışmaları sağlanır ( D3.2 , D16.3 , E2.2 ). Süreç sonunda öğrencilerin doğada gözlemlenen pek çok düzen, yapı ve ilişkilerin geometrik bakış açısıyla anlaşılabileceğini kavramaları sağlanır. Öğrenme süreci kontrol listesi aracılığıyla değerlendirilebilir. Ayrıca sürecin sonunda öğrenme çıktıları, doğru yanlış etkinlikleri, eşleştirme testleri vb. ile değerlendirilebilir.",
+    "MBU.MU.1.4.3.",
+    "Öğrencilere alan hesaplamaya yönelik merak ve ilgi uyandıran bir problem durumu sunulur ( E1.1 ). Bu problemin seçiminde günlük hayat durumlarından yararlanılır. “Okul bahçesinin bir bölümüne çim ekmek istiyorsunuz. Çim ekmek istediğiniz bu bölüm kare ve dikdörtgenin birleşiminden oluşan bir şekle sahip. Çim ekeceğiniz bölümün alanını nasıl hesaplarsınız?” gibi sorular sorulur. Bu sorular aracılığıyla çokgenlerin birleşiminden oluşan şekillerin alanını hesaplamak için hangi bilgilere ihtiyaç duyulacağı düşündürülerek tartışma ortamı oluşturulur ( SDB2.1 , E3.1 , E3.10 ). Öğrencilerin konu hakkındaki düşünceleri alınır ( SDB2.1 ). Çokgenlerin birleşiminde kare ve dikdörtgen ile sınırlı kalınmalıdır. Çokgenlerin birleşimden oluşan şekillerle ilgili problemlerde yaklaşık alan bulunurken birim kareden yararlanılarak çözülebilecek problemler kurgulanmalıdır. Alan problemlerinin çözümünde öğrencilerden problemi anlayarak verilen ve istenenleri belirlemeleri beklenir. Daha sonra öğrencilerden verilen ve istenenler arasındaki işlem ilişkilerini tespit etmeleri beklenir. Öğrencilerin problemdeki şekli kareli kâğıda veya dijital ortama aktarmaları, şekli uygun matematiksel temsillerle göstermeleri, problemi kendi ifadeleriyle açıklamaları istenir ( MAB3 , OB2 , OB4 ). Öğrencilerin problem çözme adımına geçmeden önce problemin çözümüne yönelik tahminde bulunmaları istenir.Problemin çözümüne yönelik yolları geliştirirken farklı temsillerden ya da matematiksel araç ve teknolojiden yararlanmaları konusunda teşvik edilir ( MAB3 , MAB5 ). Öğrencilerin strateji geliştirmelerini desteklemek ve geliştirdikleri stratejileri kullanmalarını sağlamak için problem çözme sürecinde grup çalışmaları yapmaları sağlanabilir ( SDB2.1 , SDB2.2 ). Gruplar öğrencilerin akademik başarıları ve sosyal dinamikleri dikkate alınarak oluşturulur ( SDB2.2 ). Öğrenciler, belirledikleri stratejileri kullanarak problemleri çözmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( SDB3.2 ). Problem çözümlerinin ardından öğrencilerin çözüm yollarını kontrol etmeleri sağlanır ( E3.7 , E3.10 ). Öğrencilerden problem çözümlerindeki işlemlere yönelik tahmin ve stratejilerini gözden geçirmeleri, örneğin “Köşedeki yarım kareleri birleştirirsem saymam daha kolay olur.” vb. kısa yollara ilişkin çıkarım ve değerlendirmeler yapmaları beklenir ( SDB1.2 , E3.1 ). Ayrıca problemi çözerken ne gibi stratejiler geliştirdikleri ve bu stratejilerin problemin çözümünü nasıl kolaylaştırdığı konusunda tartışma ortamı oluşturulur ( SDB2.1 , E3.10 ). Daha sonra çözüm stratejileri ile ilgili öğrencilerin değerlendirmeler yapmaları sağlanır ( KB3.3 ). Öğrencilerden çözüm sürecinde yararlandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Bu değerlendirmelerde öğrencilerin farklı stratejiler kullanabilecekleri problem kurma çalışmaları yapmaları sağlanabilir. Öğrencilerin alan problemlerini çözme becerilerini değerlendirmek amacıyla süreçte ve öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir. Öğretim süreçlerinde farklı akademik başarıya sahip öğrencilerin eşleştirilmesiyle yardımlaşarak çalışmaları sağlanarak akran öğrenmelesi desteklenebilir ( SDB2.2 , D20.4 ). Performans görevi olarak öğrencilere günlük hayatta karşılaşabilecekleri problemler verilerek çözüme yönelik farklı stratejiler geliştirmeleri, geliştirdikleri problem çözümleri ile ilgili sunum hazırlamaları ve arkadaşlarına sunmaları istenebilir ( OB2 ). Bu görev, süreç bileşenleri dikkate alınarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Yapılan grup çalışmaları öğretmen tarafından grup değerlendirme formu kullanılarak değerlendirilebilir. Öğrenme çıktısı sonunda öğrencilerin problem çözme becerilerine ilişkin güçlü ve zayıf yönlerini tanımaları amacıyla öz değerlendirme formu da kullanılabilir.",
+    "MBU.MU.1.4.4.",
+    "Öğrencilere “Matematik ve astronomi alanında çalışmalar yapan bilim insanları kimlerdir?” ve “Matematik ve astronomi alanında tanınmış bilim insanlarını nasıl araştırabiliriz?” gibi sorular sorularak sınıfta tartışma ortamı oluşturulur ( SDB2.1 ). Tartışma esnasında Ali Kuşçu, Uluğ Bey, Harezmi, Takıyyüddin gibi bilim insanlarının matematik ve astronomiye katkılarına değinilir ( OB5 , D14.3 ). Daha sonra öğrencilerden matematik ve astronomi alanında çalışmaları olan bilim insanları ve bu bilim insanlarının çalışmaları hakkında bilgi toplamaları ve ulaştıkları bilgileri poster, afiş, resim, rapor vb. olarak sunmalarını içeren performans görevi verilir. Bu süreçte bireysel ya da grup olarak çalışmaları sağlanır. Performans görevi hazırlama sürecinde öğrencilerden sorumlu ve planlı davranmaları beklenir ( D3.2 , E2.2 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları sağlanır ( OB1 , OB2 ). Bu süreçte gerçeği arama isteğiyle merak ettikleri soruları sorarak güvenilir araçları belirlemeleri beklenir ( E3.4 , E3.8 ). Belirledikleri aracı kullanarak bilgileri bulmaları sağlanır. Öğrencilerin ulaştıkları bilgileri öğretmenlerinden, alan uzmanlarından, bilimsel kaynaklardan yardım alarak ya da arkadaşları ile tartışarak doğrulamaları sağlanır ( E3.10 , D3.3 , OB1 , OB7 ). Doğruladıkları bilgileri kaydederek düzenlemeleri ve sunmaları istenir ( SDB2.1 , OB1 ). Bu süreçte öğrencilerin birbirlerini saygı çerçevesinde dinlemeleri istenir ( SDB2.1 , D14.1 ). Öğretmen grup çalışmalarını grup değerlendirme formu kullanarak değerlendirebilir. Elde edilen sonuçlara dayalı olarak öğrencilere geri bildirim verilir. Öğrencilerin hazırladıkları poster, afiş, resim ya da raporları süreç bileşenlerinden oluşan performans kriterlerini barındıran analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı değerlendirme amacıyla kullanılabilir."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1493"
+}

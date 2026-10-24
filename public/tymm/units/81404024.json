@@ -1,0 +1,57 @@
+{
+  "unitId": 81404024,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "24. ÜNİTE: HALTERDE TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.6.4.1",
+      "title": "Halterde silkme tekniğini açıklar",
+      "processComponents": [
+        "Çöküş hareketi üzerinde durulur.",
+        "Omuzlama, sırttan presleme hareketi üzerinde durulur.",
+        "Sırttan çöküş hareketi üzerinde durulur.",
+        "Kilitli tutuş hareketi üzerinde durulur.",
+        "Omuzlama ölü çekiş hareketi üzerinde durulur.",
+        "Sabit omuzlama hareketi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.6.4.2",
+      "title": "Halterde silkme tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.6.4.3",
+      "title": "Halterde koparma tekniğini açıklar",
+      "processComponents": [
+        "Koparmada bar tutuşu üzerinde durulur.",
+        "Koparma ölü çekiş hareketi üzerinde durulur.",
+        "Koparma sırttan pres hareketi üzerinde durulur.",
+        "Sırttan koparma çekiş hareketi üzerinde durulur.",
+        "İterek koparma düşüşü hareketi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.6.4.4",
+      "title": "Halterde koparma tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.6.4.5",
+      "title": "İzlediği veya katıldığı halter müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

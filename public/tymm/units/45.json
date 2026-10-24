@@ -1,0 +1,115 @@
+{
+  "unitId": 45,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "1. TEMA: SAYILAR VE NİCELİKLER (1)",
+  "hours": "57",
+  "description": "Bu temada öğrencilerin rakam ve sayıları, niceliklerin büyüklüklerini temsil edebilmek için kullanabilmeleri, 20’ye kadar olan nesne grubunu sayarken (20 dâhil) parçalar arasındaki ilişkileri ve sayıların sırasını belirleyebilmeleri, iki niceliğin büyüklüğünü karşılaştırabilmeleri, 100’e kadar (100 dâhil) ileriye ve 20’den geriye ritmik sayabilmeleri, artan ve azalan sayı örüntüleri ile tekrar eden şekil örüntülerini çözümleyebilmeleri ve 20’ye kadar olan nesnelerin sayısını tahmin edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.1.1.1",
+      "title": "Rakamları ve 20'ye kadar olan sayıları (20 dâhil), niceliklerin büyüklüklerini temsil etmek için kullanabilme",
+      "processComponents": [
+        "a) Niceliklerin büyüklüklerinin farklı temsillerini tanır.",
+        "b) Karşılaştığı niceliklerin büyüklüklerini, farklı temsilleri bağlamında belirler.",
+        "c) Karşılaştığı niceliklerin büyüklüklerini rakam ve sayılarla okur ve yazar."
+      ]
+    },
+    {
+      "code": "MAT.1.1.2",
+      "title": "Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasında ilişkileri çözümleyebilme",
+      "processComponents": [
+        "a) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunun parçalarını belirler.",
+        "b) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.1.1.3",
+      "title": "Nesnelerin sıra sayısını gösterebilme",
+      "processComponents": []
+    },
+    {
+      "code": "MAT.1.1.4",
+      "title": "İki niceliğin büyüklüğünü \"çok\", \"daha çok\", \"az\", \"daha az\" veya \"eşit\" terimleriyle karşılaştırabilme",
+      "processComponents": [
+        "a) İki niceliğin büyüklüğünü \"çok\", \"daha çok\", \"az\", \"daha az\" veya \"eşit\" terimleriyle ifade eder.",
+        "b) İfade edilen büyüklüklere ilişkin benzerlikleri listeler.",
+        "c) İfade edilen büyüklüklere ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "MAT.1.1.5",
+      "title": "100'e kadar ileriye ve 20'den geriye doğru ritmik sayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MAT.1.1.6",
+      "title": "Artan veya azalan sayı ve şekil örüntülerini çözümleyebilme",
+      "processComponents": [
+        "a) Sayı ve şekil örüntülerinin ardışık ögelerini belirler. b ) Sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "MAT.1.1.7",
+      "title": "Verilen bir çokluktaki ilişkilerden yararlanarak 20'ye kadar (20 dâhil) olan nesnelerin sayısını tahmin edebilme",
+      "processComponents": [
+        "a) Verilen bir çokluktaki ilişkileri gözlem ve deneyimleri ile ilişkilendirir.",
+        "b) Bir çokluğun büyüklüğünü stratejiye dayanarak tahmin eder.",
+        "c) Tahmin edilen sonuç ile gerçek sonucu karşılaştırarak kendi tahminîne yönelik bir yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "rakamlar, sayılar, sıra sayısı, çözümleme, ritmik sayma, karşılaştırma, sayı ve şekil örüntüleri, Sembol ve Gösterimler, -",
+  "support": [
+    "Öğrencilerin ilgi, ihtiyaç ve hazır bulunuşlukları dikkate alınarak etkin olabilecekleri farklı zorluk seviyelerinde çeşitli aktif öğrenme tekniklerini kullanmaları, 20'ye kadar olan nesne grubunu sayarken parçalar arasındaki ilişkileri ve sayıların sırasını belirlemeleri, 100'e kadar (100 dâhil) ileriye ve 20' den geriye doğru ritmik saymaları, örüntüleri bulmaları ve tamamlamaları, 20'ye kadar olan nesnelerin sayısını tahmin etmeleri ile ilgili öğrenme çıktılarının öğrenme-öğretme uygulamalarında kullanıldığı etkinlikler yapılır.",
+    "Öğrencilerin öğrenme durumuna ilişkin durum tespiti yapıldıktan sonra etkinlikler basitten karmaşığa, somuttan soyuta ve matematiğin doğası gereği ön koşul ilişkisi dikkate alınarak çoğaltılır. Olanaklara ve öğrencilerin ilgilerine göre müzikten ve oyun içeren etkinliklerden yararlanılır. Öğretim sürecinde öğrencilere kendi hızlarında ilerleme, hedef belirleme ve kendi çalışmalarını değerlendirme gibi fırsatlar sunulur. Öğrencilerden kendi oyun hamurlarından belli bir sayıda parça koparmaları ve kopardıkları parçaları bir arttırıp bir azaltma şeklinde etkinlikler yapmaları istenir. Ayrıca bu süreçte iş birliğine dayalı öğrenme fırsatlarından yararlanılarak öğrencilerin birbirleri ile etkileşimi ve iletişiminin yanı sıra öğrenme süreçlerinin geliştirilmesi sağlanır."
+  ],
+  "enrichment": [
+    "100'e kadar ileriye ve 20'den geriye doğru ritmik sayabilmede ritmik saymalar öğrenme farklılıkları dikkate alınarak verilmeyen sayıyı bulma, bulunan sayının birden çok sayı ile karşılaştırılarak ilgili sayıdan az, çok ve eşit etkinlikleri yapılır.",
+    "Öğrencilere bir yapılandırılmış grid verilerek kendi seçtikleri ya da öğretmenin belirlemiş olduğu 1 ile 20 arasındaki sayıları kendi belirledikleri farka göre azalan veya artan sayı örüntüsüne göre sıralamaları istenir. Bu şekilde hem örüntü kurmaları hem de daha geniş aralıklarda öncelik, sonralık ve arasında olma durumlarını kendilerinin oluşturmaları sağlanır.",
+    "Öğrenme-öğretme uygulamalarında verilen örüntüleri artma ve azalma durumuna göre benzer bir örüntü oluşturmaları istenir. Öğrencilerin çeşitli renklere ve biçimsel özelliklere sahip şekilleri kullanarak farklı örüntüler oluşturmaları sağlanır.",
+    "Dağınık bir şekilde verilen 20'ye kadar olan birden çok nesnenin sayısını tahmin edebilme etkinlikleri düzenlenir. Etkinlikte öğrencilerin öğrenme-öğretme uygulamalarında olduğu gibi tek bir nesnenin miktarını değil birden fazla verilen dağınık nesnenin sayısını tahmin etmeleri istenir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; eşleştirme ve boşluk doldurma sorularından oluşan çalışma yaprağı, kontrol listesi, izleme testleri ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.1.1.1 Öğrencilere sınıf ortamında bulundurulabilecek ve kolay sayılabilecek nesnelerden oluşan bir nesne grubu gösterilerek nesneleri saymaları istenir. Burada farklı nesne grupları gösterilir ve öğrencilerin niceliklerin büyüklüğüne karşılık gelen farklı matematiksel temsilleri (örneğin beş nesnenin olduğu bir çokluğun \"IIIII\" veya \" \" şeklinde de temsil edilmesi) gözlemleyerek bir sayı ile ifade etmesi sağlanır ( OB7 ) . Böylelikle öğrencilerin niceliklerin büyüklüklerine karşılık gelen sayıları anlamları ile birlikte tanımaları sağlanır. Bu süreçte sıfırın hiçliği temsil ettiğine vurgu yapılır. Matematiksel temsili belirlenen nesne grubunun niceliksel büyüklüğü rakamlar ve sayılarla ifade edilir. Bu duruma ilişkin bir matematiksel temsilin günlük yaşam veya matematiksel bir durum içerisindeki kullanımının anlaşılması sağlanır. Süreç içinde öğrencinin aktif olduğu günlük yaşamda karşılaştığı nesnelerden sayısı 20'ye kadar (20 dâhil) olanların büyüklüklerini rakam ve sayılarla okuyup yazması sağlanır. Ayrıca süreçte çeşitli araç gereç kullanılarak öğrencilerin sayma, işaretleme, eşleştirme ve boyama yapmalarını gerektiren etkinlikler yapılır.",
+    "Öğrenme-öğretme uygulamalarında diğer derslerden de yararlanılarak disiplinler arası ilişki kurulur. Bu süreçte sayma gerektiren oyunlar oynatılır. Öğrencilerden vurmalı bir müzik aletine veya kendi masalarına belli bir niceliğe karşılık gelen sayı miktarı kadar ritimli vurmaları istenir. Örneğin sekiz kalemin bulunduğu bir kalem kutusundaki kalemleri saymaları, bunun ardından sekiz kez masalarına vurmaları beklenir. Öğrencilerin estetik algıları ön plana alarak istedikleri gibi ritim yapmaları sağlanır ( D7.3 ) . Süreçte öğrencilerin öğrenme düzeyleri, verilen nesneler ile nesnelerin büyüklüklerine karşılık gelen 20'ye kadar (20 dâhil) olan sayılar arası ilişkiler eşleştirme sorularından yararlanılarak belirlenebilir. Ayrıca süreçte çeşitli nesne ve araç gereç ile sayma çalışmaları yaptırılarak gözlem formu aracılığıyla öğrencilerin öğrenme düzeyleri belirlenebilir.",
+    "MAT.1.1.2 Öğrencilerin bir gruptaki nesneyi sayarken son söylenen sayının nesnelerin miktarını temsil ettiği ile ilgili etkinlikler yapılarak kardinal değeri keşfetmeleri sağlanır. Öğrencilere miktarı 10'dan az olan bir grup nesnenin sayısını belirlemeden nesnelerin dağınık ya da düzenli şekilde olan dizilimini dikkate alacakları etkinlikler sunulur. Araç gereç ya da görsellerden yararlanılarak bir çokluğu oluşturan nesnelerin parçaları ve parçalar arasındaki ilişki belirlenir. Parçalar birleştirilerek çokluğun sayısının bulunmasına yönelik aşamalara yer verilir ( KB2.16.2 ) . Miktarı 10 ile 20 arasında olan bir nesne grubunun sayısının belirlenmesi için 10'dan küçük sayılarda yapılan etkinliklere benzer şekilde gruplara ayırma etkinlikleri yaptırılarak bir çokluğun onluk ve birliklerine göre çözümlenmesine ilişkin anlayış oluşturmaları beklenir. Nesne miktarı 10 ile 20 arasında değişen bir çokluktaki nesnelerin onluk ve birlik modellerine göre gruplandırılması ve bu çokluğun sayısının ifade edildiği çeşitli gruplama etkinlikleri yapılır. Gruplandırılan nesnelerden 10 tanesi seçtirilerek öğrencilerin 10 sayısını fark etmeleri sağlanır. İlk aşamada 10'a kadar olan bir çokluğun bir araya gelerek bir onluk oluşturduğu, onluk gruba dâhil olmayan nesnelerin ise birlikleri oluşturduğu; onluk ve birlik kavramları kullanılmadan sezgisel olarak öğrencilerin anlamalarını sağlayacak etkinlikler yapılır. Devamında onluk ve birliklerin onluk taban blokları ile gösterimini sağlayacak etkinliklerle öğrencilerin onluk ve birlikleri ezberlemeden kavramsal olarak keşfetmeleri sağlanır. Sayıları çözümleyebilmek için çalışma yaprakları verilebilir, öğrencilerin uygun temsilleri kullanmaları ve 10'a kadar sayıları çözümleme durumlarının değerlendirilmesi için kontrol listelerinden yararlanılabilir. Ayrıca sayıların çözümlenmesine yönelik doğru yanlış soruları ile sayılar ve sayıların çözümlenmiş biçimlerinin eşleştirilmesini içeren eşleştirme sorularından yararlanılabilir. Bunların yanında öğrencilerin 10-20 arasındaki nesneleri onluk ve birlik şeklinde çözümleyerek ifade etme ile ilgili öğrenme durumları izleme testlerinden yararlanılarak değerlendirilebilir.",
+    "MAT.1.1.3 Öğrenme-öğretme uygulamalarından önce günlük yaşamdan örneklerle sıra bildirilen durumlar ele alınır. Süreçte öncelikle sayıların öncelik/sonralık ve arasında olma durumlarını ifade etmeleri sağlanır. Bunun ardından sıra bildiren ifadeleri öğrencilerin göstermesi beklenir. Etkinlikler öğrencilerin iletişim ve iş birliği hâlinde oldukları grup faaliyetleriyle yürütülür ( SDB2.1 , SDB2.2 ) . Ordinal değerlerle ilişkili olarak merak uyandırıcı ve dikkat çekici eğitsel oyunlarla etkinlikler, planlanır ( E1.1 , E2.5 ) . Eğitsel oyunlarla öğrencilerden 20'ye kadar olan sayıların sırasını bildiren durumları gösteren örnekler vermeleri istenir. Bu örneklerle ilgili öğrenme düzeyleri görsel içerikli açık uçlu sorulardan oluşan çalışma kâğıtlarından yararlanılarak belirlenebilir.",
+    "MAT.1.1.4 Öğrencilerin iki niceliğin büyüklüğünü \"çok\", \"daha çok\", \"az\", \"daha az\" veya \"eşit\" terimleriyle belirleyebilmeleri için aktif oldukları sınıf içi etkinlikler düzenlenir. Bu etkinliklerde öğrencinin günlük yaşamda sıklıkla karşılaşmış olduğu nesnelerden oluşan çokluklara yönelik (bir tarafta 6, diğer tarafta 10 elma bulunan sepetler gösterilmesi gibi) cevabı \"çok\", \"daha çok\", \"az\", \"daha az\" veya \"eşit\" olan durumları içeren sorular sorulur. 10 sayısı referans alınarak 10'dan az, 10'dan çok ve 10'a eşit cevabını gerektiren etkinlikler yapılır. Öğrencilerin verilen iki farklı nesne grubuyla ilk olarak sezgiye dayalı karşılaştırma etkinlikleri yapılır. Yapılan etkinliklerden sonra bire bir eşlemeye dayalı karşılaştırma yapmaları sağlanır. Karşılaştırma etkinliklerinde \"çok\", \"daha çok\", \"az\", \"daha az\" veya \"eşit\" kavramlarını ifade ederek cevap verebilmelerini değerlendirmek için görsel içerikli açık uçlu sorulardan oluşan çalışma kâğıtlarından yararlanılabilir.",
+    "MAT.1.1.5 Öğrencilere belli bir nesne grubunun miktarı sorularak saymaya olan ihtiyacı fark etmeleri sağlanır. Devamında ritmik sayma yapılır ( OB1 ) . 100'ü geçmeyecek sayıda nesneden oluşan bir çokluktaki nesne sayısını belirleyebilmeleri için 100'e kadar ritmik sayma gerektiren etkinliklerden faydalanır. İleriye doğru birer ritmik sayma yaptırılarak nesne sayısına ulaşmaları sağlanır. Etkileşimli bir şekilde sayılabilir nesneler gruplandırılarak sırasıyla 100'e kadar (100 dâhil) ileriye doğru birer, beşer ve onar; 20'ye kadar ileriye doğru ikişer ve 20'den geriye doğru birer ve ikişer ritmik sayma etkinlikleri yapılır. Bunun yanında beşer ve onar ritmik saymaların görseller yardımıyla yapılması da sağlanır. Süreçte öğrencilerin 100'e kadar ileriye birer, beşer, onar ve 20'den geriye doğru birer, ikişer ritmik sayabilmelerini değerlendirmek için boşluk doldurma sorularından oluşan çalışma kâğıtlarından yararlanılabilir.",
+    "MAT.1.1.6 Öğrencilere örüntüye örnek olabilecek görseller gösterilir ve görsellerle ilgili sorular sorulur. Örüntüler; somut nesneler, modeller, resimli kartlar, çizilmiş hazır sekiler vb. malzemelerle çizim yaptırılmadan oluşturulur. Oluşturulan örüntülerdeki ilişkileri sözel olarak da açıklamaları sağlanır. İlk aşamada tekrar eden sayı ve şekil örüntülerine yer verilir. Devamında öğrencilerden artan veya azalan sayı örüntülerinin günlük yaşamda karşılarına nasıl çıkabileceği konusunda örnekler vermeleri istenir. Sorularla örüntüyle ilgili merak oluşturulduktan sonra bu duruma ilişkin artan veya azalan sayı (100'e kadar birer, beşer, onar, 20'ye kadar ileriye/geriye doğru birer ve ikişer ritmik sayma durumu sınırına dikkat ederek) örüntü örnekleri; basılı görseller, matematiksel araç ve teknolojik olanaklar kullanılarak gösterilir. Artan veya azalan sayı örüntülerinde ilk üç adım verilerek öğrenciden dördüncü adımı ifade etmesi istenir. Öğrencilerin öğrenme durumlarına göre adım sayısı değiştirilir. Süreçte örüntü en fazla altıncı adıma kadar sürdürülür. Örüntü adımlarında artış ve azalışın bir arada verilmemesine ve artış ile azalışın sabit olmasına dikkat edilir. Bu duruma ilişkin öğrenme-öğretme uygulamaları yapılırken öğrencilerin verilen sayı veya şekil örüntüsünü devam ettirme aşamasında nasıl bir strateji kullandığına dikkat edilir ( SDB1.1 , SDB1.2 ) . Artan veya azalan sayı örüntüsü ile ilgili soru sormaları sağlanır ( SDB1.1 ) . Artan ve azalan sayı örüntüleri üzerinden sorgulama yaptırılarak örüntüdeki artış ve azalış durumlarının öğrenciler tarafından nasıl belirlendiği ve belirlenen artış ve azalış durumuna göre örüntüyü nasıl devam ettirdiklerine ilişkin karar verme durumları sorgulanır ( KB2.8 ) . Süreçte öğrencinin verilen örüntüyü devam ettirebilmesi için ilk üç adımdaki örüntüyü belirleyerek örüntüdeki dördüncü adımı bulup devam ettirmesi sağlanır ( KB2.10 ) . Verilen bir örüntüdeki artma, azalma ve tekrar etme durumlarını belirlemeleri ve örüntüde verilmeyen terimi bulmalarına yönelik çeşitli etkinlikler planlanır. Drama yöntemi ile öğrencilerin sorumluluk aldıkları artan veya azalan sayı ve şekil örüntüleri kullanılarak öğrencilerin grupla ya da bireysel katılım göstermeleri sağlanır ( SDB2.1 , D3.4 ) . Süreçte öğrencilerin artan veya azalan sayı ve şekil örüntüleri ile ilgili olarak ardışık ögelerin farkına varma, sayı ve şekil örüntülerinin ögeleri arasındaki ilişkiyi azalan veya artan şeklinde belirleyerek devam ettirmeye ilişkin öğrenme kanıtları kontrol listesi aracılığıyla belirlenebilir.",
+    "MAT.1.1.7 Öğrencilerin bir çokluktaki ilişkilerden yararlanarak 20'ye kadar olan nesnelerin sayısını tahmin edebilmeleri için grup çalışması yapılır. Grup çalışmaları esnasında öğrencilerden verilen bir çokluğun nesne sayısını gözlem ve deneyimleri ile ilişkilendirerek tahmin etmeleri istenir. Tahmin sürecinde bir çokluğu azlık çokluk bakımından kıyaslarken 5 ve 10 sayılarını referans alarak strateji geliştirmeleri sağlanır. Kıyaslama yapılırken beşi geçmeyen nesnelerin sayısını tahmin etmede şipşak sayılama etkinliklerinden yararlanılır. Oyunlardan ve görsel ögelerden yararlanılarak verilen bir çokluktaki ilişkiler yardımıyla 20'ye kadar olan nesnelerin sayısını tahmin etme etkinlikleri yapılır ( E2.5 ) . Öğrencilerden süreçte verilen bir çokluktaki nesne sayısını tahmin ettikten sonra tahminî ile gerçek sonucu sayarak karşılaştırma yapması istenir. Bu süreçte çoklukların miktarı hakkındaki veriler üzerinden sayma yapılarak öğrencilerin bir yargıda bulunması sağlanır ( SDB3.3 , KB2.12 ) . Öğrencilerin 20'ye kadar olan nesnelerin sayısını tahmin edebilmeleri ile ilgili öğrenme kanıtlarını ortaya çıkarmak için soru cevap tekniği ve izleme testlerinden yararlanılabilir. Açık uçlu sorular yöneltilirken öğrencinin tahmin etme sürecinde nasıl bir strateji kullandığına ve yapılan tahmine yönelik nasıl bir yargıda bulunduğuna dikkat edilir ( SDB1.2 , SDB2.1 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.12",
+      "KB2.16.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/45"
+}

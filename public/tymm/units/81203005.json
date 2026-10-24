@@ -1,0 +1,66 @@
+{
+  "unitId": 81203005,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "5. ÜNİTE: TÜRK-MOĞOL DEVLETLERİ",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.5.1",
+      "title": "Moğol İmparatorluğu'nun siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Moğol İmparatorluğu'ndan sonra kurulan Moğol devletleri belirtilir."
+      ]
+    },
+    {
+      "code": "OTT.5.2",
+      "title": "Altın Orda Devleti'nin siyasi gelişim sürecini analiz eder",
+      "processComponents": [
+        "Altın Orda Devleti'nin yıkılışından sonra ortaya çıkan hanlıkların isimleri belirtilir.",
+        "Altın Orda edebiyatının önemli temsilcilerinden Seyfi Sarayi, Kutb gibi düşünürler ve Codex Cumanicus (Kuman kitabı) hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.5.3",
+      "title": "Çağatay Devleti'nin siyasi, ekonomik ve kültürel gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.5.4",
+      "title": "Moğolistan (Doğu Çağatay) Hanlığı'nın siyasi gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.5.5",
+      "title": "İlhanlılar Hanlığı'nın siyasi gelişim sürecini analiz eder",
+      "processComponents": [
+        "Devletin dinî ve kültürel gelişimine değinilir."
+      ]
+    },
+    {
+      "code": "OTT.5.6",
+      "title": "Kubilay Hanlığı'nın siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Kubilay Hanlığı'nın Çin kültürünü benimseyen tek Moğol hanlığı olduğu vurgulanır.",
+        "Marco (Marko) Polo hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.5.7",
+      "title": "Türk-Moğol devletlerinin sosyal, ekonomik ve kültürel hayatı arasında ilişki kurar",
+      "processComponents": [
+        "Alaeddin Ata Melik Cuveyni, Reşid-eddin Fazlullah Hemedani gibi Müslüman tarihçilerin Türk Moğol devletleri ile ilgili eserleri hakkında bilgi verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

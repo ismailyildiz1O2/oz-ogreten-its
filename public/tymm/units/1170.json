@@ -1,0 +1,58 @@
+{
+  "unitId": 1170,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: BUSELİK MAKAM DİZİSİYLE İCRA",
+  "hours": "16",
+  "description": "Temada öğrencilerin buselik makamında dizi çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.7.3.1",
+      "title": "Gitarda buselik makamındaki şarkıları çalabilme",
+      "processComponents": [
+        "a) Gitarda buselik makamındaki şarkıları çözümler.",
+        "b) Gitarda buselik makamındaki şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Gitarda buselik makamındaki şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Gitarda buselik makamındaki şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "buselik, dizi",
+  "support": [
+    "Öğrencilere buselik dizisi yavaş çaldırılıp çalışmalar yaptırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin birlikte icra edebileceği buselik eserlerden küçük topluluk çalışmaları yapılabilir. Günümüz müziğinde buselik etkileri taşıyan eserleri keşfetmeleri istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak buselik makamındaki dizileri çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.7.3.1",
+    "Öğretmen buselik makam dizisinin hangi notalardan oluştuğunu (La Minör) açıklayarak etkileşimli tahtada diziyi gösteren bir görselle derse başlar ( OB4 ). Diziyi gitarla çalarak öğrencilerin gözlem yapmalarını sağlar ( KB2.2 ). Öğrencilere sol elin doğru yerleşimi, parmak numaraları ve nota basış noktaları gösterilir. Öğrenciler, diziyi çözümleyerek çalgıya özgü duruş ve tutuş pozisyonunu alır. Buselik makam dizisi, yerinde bir buselik beşlisine hüseyni perdesi üzerinde kürdi ya da hicaz dörtlüsünün eklenmesiyle oluşur. Batı müziğinde la minör tonuna karşılık gelmektedir. Bu noktada dikkat çekilmek istenen kısım beşli ve dörtlünün birleştiği yer olan hüseyni perdesidir. Öğrenciler; apoyando veya tirando tekniği kullanarak, metronom eşliğinde diziyi müziksel bileşenleri (ritim, ezgi, dinamikler) uygulayarak çalar. Bu süreçte öğrenciler kendi öz düzenleme becerilerini geliştirir ( SDB1.2 ). Tereddüt ettikleri noktalarda öğretmene sorular sorarak gerekli geri bildirimleri alırlar ( E3.8 ). Öğretmen rehberliğinde 2-3 kişilik gruplar hâlinde dizi çalışmaları yapılır; öğrenciler birbirlerini diziyi doğru çalma konusunda teşvik eder ( D4.1 ). Performans görevi olarak küçük gruplar hâlinde diziyi çalmaları istenir. Performans görevleri, öz/akran değerlendirme ve gözlem formu ile değerlendirilir.",
+    "Öğretmen, buselik makamındaki örnek şarkıları öğrencilere dağıtır ve bu şarkıların melodik yapısını, ritmik özelliklerini ve makamın duygusunu nasıl yansıttığını açıklar. Öğrenciler, şarkıları notalarıyla birlikte inceleyerek makamın perdelerini ve geçki noktalarını çözümler ( KB2.4 ). Bu aşamada öğrencilerin makamın seslerini tanımaları ve şarkıyı müzikal olarak anlamaları sağlanır. Öğrencilerin gitar çalarken rahat ve dengeli bir şekilde performans sergilemeleri sağlanır. Her öğrencinin doğru duruş ve tutuşu benimsediğinden emin olmak için bireysel ve grup hâlinde egzersizler yapılır ( SDB2.2 ). Öğrenciler, bu temel becerileri pekiştirerek buselik makamındaki şarkıları çalarken teknik hatalardan kaçınır ve daha verimli bir çalışma süreci geçirir. Buselik makamındaki şarkıları çalarken öğrenciler çalgıya özgü teknikleri doğru bir şekilde uygulanması istenir. Parmak pozisyonları, perdeler arası geçişler, ses temizliği kullanımı gibi teknikler üzerinde planlı çalışılır ( D3.2 ). Öğretmen, öğrencilere bu teknikleri adım adım gösterir ve her bir öğrencinin bu teknikleri doğru şekilde uyguladığından emin olur. Öğrenciler, bu teknikleri yavaş tempodan başlayarak sabırla pratik etmesi sağlanır ( D12.3 ). Tempoyu artırarak çalışmalar yapılır. Öğrencilerin şarkıyı çalarken ritim, ezgi, dinamikler, ifade gibi müziksel unsurlara dikkat ederek çalması sağlanır. Öğretmen, öğrencilere bu bileşenleri nasıl uygulayacaklarını gösterir ve şarkının müzikal anlamını vurgulamalarını sağlar. Öğrenme sürecinin son aşamasında öğrenciler buselik makamındaki şarkıları çalarak bireysel performans sergiler. Öğretmen, öğrencilere geri bildirimler verir ve performanslarını değerlendirir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.2",
+      "D4.1"
+    ],
+    "egilim": [
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1170"
+}

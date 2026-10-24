@@ -1,0 +1,51 @@
+{
+  "unitId": 1278,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "3. TEMA: KANUNDA TREMOLO TEKNİĞİNİ ÖĞRENİYORUM",
+  "hours": "10",
+  "description": "Temada öğrencinin tremolo tekniğini öğrenmesi ve kanunda çaldığı eserlerde bu tekniği uygulaması ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.4.3.1",
+      "title": "Tremolo tekniğini çaldığı eserlerde uygulayabilme",
+      "processComponents": [
+        "a) Tremolo tekniğini çaldığı etüt veya eserleri çözümler.",
+        "b) Tremolo tekniğini eserlerde çalmak için uygun duruş ve tutuş pozisyonu alır.",
+        "c) Tremolo tekniğini eserlerde çalmak için uygun teknikleri kullanır.",
+        "ç) Tremolo tekniğini eserlerde çalmak için uygun müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, makam, müzik, tremolo",
+  "support": [
+    "Öğrencilerin tremolo tekniği ile ilgili öğrenmeleri takip edilerek bireysel geri bildirimler verilebilir. Etütler metronom yavaşlatılarak çalınabilir. Yavaş metronom ile öğrenilen etütler, öğrencinin öğrenmelerine göre hızlandırılarak çaldırılabilir."
+  ],
+  "enrichment": [
+    "Tremolo tekniğini doğal seslerle bağdaştırarak çocukların zihninde bir hikâye oluşturabiliriz. Örneğin \"Rüzgârın Şarkısı\" hikâyesinde: Hafif rüzgâr (yavaş tremolo - yavaş tempoda parmak titretme), sert rüzgâr (hızlı tremolo - daha seri ve güçlü parmak hareketleri), yağmur damlaları (tek tek vuruşlar, tremoloya geçiş yapmadan önce). Çocuklardan, parmaklarını titretirken gözlerini kapatarak tremolonun bir doğa sesi olduğunu hayal etmelerini ister. Burada amaç tremolo sesini tanımak ve hissettirmektir. Diğer bir uygulama olarak \"Sihirli Parmaklar\" oyunu oynanabilir. Bu oyunda parmakları sırayla havada titretip sonra masaya hafifçe dokunabilir. Sonra masa, diz veya yumuşak bir yastık üzerinde titreyerek tremolo yapmaya çalışabilir. Hızlı ve yavaş tempolar deneyerek ritmik farkındalık oluşturulabilir. Bir başka etkinlik olarak farklı hayvan hareketleri ile tremolo pratiği yapılabilir: Kelebek için hafif ve narin tremolo, arı için hızlı ve titreşimli tremolo, köpek kuyruğu sallaması için sürekli ve dengeli tremolo olarak kabul etmesi istenebilir. Çocuklardan ellerini veya parmaklarını bu hayvanları taklit ederek tremolo vuruşlarıyla eşleştirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerin tremolo tekniğini içeren bir etüt veya eser üzerinde çalışarak doğru duruş ve tutuş, teknik uygulama, müzikal yorum ve analitik düşünme becerilerini geliştirmelerine yönelik performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.4.3.1",
+    "Tremolo tekniği ile ilgili öğrenciye genel bilgi verilip dijital materyallerden faydalanarak ( OB2 ) farklı enstrümanlardan tremolo sesi ve teknikleri dinletildikten sonra kanunda tremolo tekniğinin nasıl uygulanacağı anlatılır, çalınarak gösterilir ve öğrenciden aynı şekilde yapması istenir ( D3.2 ). Bu süreçte öğrencinin zorlandığı noktalarda pes etmemesi, tekrar deneyerek tekniği geliştirmesi teşvik edilir ( D3.1 ). Bu çalışma esnasında öğrenciden devamlı \"r\" sesi çıkartarak dikkatini dil hareketine ve sesine vermesi istenebilir ( SDB3.2 ). Öğrenci dil hareketlerini kontrol ederek ritmik düzeni daha iyi kavrar ve motor becerilerini geliştirir, bu süreçte disiplinli ve istikrarlı çalışma alışkanlıkları geliştirir ( D3.1 ). Buradan hareketle tremolo çalışması da aynı \"r\" sesi gibi iki mızrabımızla birlikte aynı tel ya da farklı tellerde birbirini hızlıca takip eden vuruşlar şeklinde pekiştirilmelidir ( E1.3 ). Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1",
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.3"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1278"
+}

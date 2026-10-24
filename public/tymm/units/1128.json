@@ -1,0 +1,55 @@
+{
+  "unitId": 1128,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "2.TEMA: BAĞLAMADA Sİ VE DO PERDELERİNİ ÖĞRENİYORUM",
+  "hours": "20",
+  "description": "Temada si ve do seslerinin bağlamadaki perde yerlerini tezene ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.3.2.1",
+      "title": "Bağlamada si ve do perdelerini çalabilme",
+      "processComponents": [
+        "a) Bağlamada si ve do perdelerini çözümler.",
+        "b) Bağlamada si ve do perdelerinde duruş ve tutuş pozisyonu alır.",
+        "c) Bağlamada si ve do perdelerinde çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlamada si ve do perdelerinde müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "pozisyon, teknik",
+  "support": [
+    "Öğrencilere teknik becerilerini geliştirmek için daha yavaş tempoda basit etütler üzerinde çalışmalar yapmaları önerilebilir. Ayrıca ses kaydından veya videolardan örnekler izletilerek öğrencilerin doğru teknik kullanımı hakkında daha fazla fikir sahibi olmaları sağlanabilir. Öğrencilerin kendi çaldıkları eserleri kaydedip dinleyerek hem çalma becerilerini geliştirmeleri hem de teknik hatalarını fark edip değerlendirme fırsatı bulmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere sadece si ve do perdeleri değil aynı zamanda diğer perdelerle ilgili ileri düzey teknikler de tanıtılabilir. Örneğin parmak hareketlerini daha hızlı ve temiz yapabilmeleri için etütler ve özel teknik çalışmaları eklenebilir."
+  ],
+  "assessment": [
+    "Bu temada öğrenme çıktıları; gözlem formu, öz değerlendirme formu, kontrol listesi, performans görevi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden si ve do perdelerini içeren eserleri çalmaları istenebilir. Verilen performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.3.2.1",
+    "Bağlamanın doğru şekilde tutularak si ve do perdelerinin rahatça çalınabilmesi için uygun parmak yerleşimi, bilek pozisyonu öğretilir. Öğrencilerden bağlamada si ve do perdelerini bulmaları istenerek merak uyandırılır ( E1.1 ). Öğretmen tarafından si ve do perdeleri çalınırken ellerin ve parmakların nasıl durduğu görsel ve materyaller aracılığıyla öğrencilere gösterilir ( OB4 ). Öğrenci, öğretmenin gösterdiği şekilde bağlamayı tutarak si ve do perdelerine parmaklarını yerleştirir. Öğrenci öğretmenin uyguladığı teknikleri dikkatle izler ve ardından kararlı bir şekilde uygular ( D12.3 ). Öğrenciler, bağlama tekniklerini doğru bir şekilde öğrenmek için sürekli pratik yapar, her bir parmağın ve bileğin doğru pozisyonda kalmasına özen gösterirler ( D3.2 ). Öğrenciler, bağlamada si ve do perdelerinde kullanılacak özel teknikleri öğrenir ve bu teknikleri yavaş bir tempoda uygulamaya başlarlar. Öğrencinin çaldığı seslerin temiz olup olmadığı, teknikleri doğru kullanıp kullanmadığı gözlem formu ile değerlendirilir ( E1.5 ). Öğrencilere si ve do perdelerine geçiş için pozisyon değiştirme tekniğine uygun olarak etütler uygulanır. Yavaş tempoda etütler yapılırken pozisyon geçiş tekniğiyle sol el ile sağ elin uyumunu sağlama sürecinde, öğrenciler sanatın ruhsal esenliğe olan etkisini fark ederler. Si ve do notaları içeren örnek eserlerle çalışmalarını sürdürürken çevrelerinden ve müzikle iç içe olmalarından aldıkları ilhamla kişiliklerine etkilerini öz değerlendirme formu ile değerlendirirler. Sanat eserleriyle donatılmış bir çevrenin öğrencilerin gelişimine ve olgunlaşmasına katkıda bulunduğunu fark ederler. Ayrıca estetik bakış açısını geliştirerek özgün ögeler ortaya koymaya başlarlar ( SDB1.2 , D7.2 ). Öğrenciler, etüt ve eserleri çalarken hangi teknikleri nasıl kullanacaklarını gruplar hâlinde pratikler yaparak öğrenirler ( SDB2.1 ). Öğrenciler, si ve do perdeleri ile çalınan ezgileri doğru bir şekilde uygulayarak melodiyi çıkarırken gruplar hâlinde hem ritme hem de ezgiye uygun bir şekilde çalışır ve iş birliği yaparlar ( SDB2.1 , D12.3 , D20.2 ). Öğrencilerin çalışmaları kontrol listesi ile değerlendirilir. Öğrencilere tekniklerde gelişim sağlanabilmesi için bireysel geri bildirimler verilir, hangi tekniklerin daha fazla çalışılması gerektiği açıklanır. Performans görevi olarak öğrencilerden bağlamada si ve do perdelerini doğru şekilde çalarak parmak yerleşimi, bilek pozisyonu ve tekniklerin uyumunu sergileyen bir ezgi çalmaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D20.2",
+      "D3.2",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1128"
+}

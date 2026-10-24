@@ -1,0 +1,69 @@
+{
+  "unitId": 1220,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "4. TEMA: NEYDE İKİNCİ KADEME SES ALANINDA ARA SESLER",
+  "hours": "17",
+  "description": "Temanın içeriğini neyde ikinci kademede ses alanında yer alan ara sesleri (kürdi, nim hicaz ve segâh) seslendirebilme oluşturmaktadır. Bu doğrultuda neyde ikinci kademede ses alanında yer alan ara sesleri seslendirebilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.4.4.1",
+      "title": "Kürdi ve nim hicaz notalarını çalabilme",
+      "processComponents": [
+        "a) Kürdi ve nim hicaz, notalarını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları uygun olarak çalar."
+      ]
+    },
+    {
+      "code": "NEY.4.4.2",
+      "title": "Segâh notasını çalabilme",
+      "processComponents": [
+        "a) Segâh notasını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notayı yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ana sesler, nota, ritim, süre",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Bu süreçte etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin seslendirdikleri notalar ve etütlerin yanı sıra neyde öğrendikleri ikinci ve üçüncü kademede yer alan ana ve ara seslerden oluşan basit usullü Türk müziği eserlerine yer verilebilir. Çaldığı seslerden, kendi melodilerini oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak neyde ikinci kademe ses alanındaki ara seslerin geçtiği Türk müziği eserlerini araştırmaları istenip, ulaştıkları bilgileri sunmaları sağlanabilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "NEY.4.4.1",
+    "Öğretmen tarafından neyde kürdi ve nim hicaz sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Neyde kürdi ve nim hicaz notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , SAB9 , E3.2 ). Ardından öğrencilerden ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir. ( D10.1 , SDB1.2 , SAB9 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde ikinci kademede yer alan kürdi ve nim hicaz notalarını çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. İkinci kademede yer alan kürdi ve nim hicaz notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır. Öğrencilerin gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 , KB2.2 , SAB9 ). Çalışmalar, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir.",
+    "NEY.4.4.2",
+    "Öğretmen tarafından neyde segâh sesi uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Neyde segâh notasının parmak ve doğru duruş pozisyonu öğrencilere uygulamalı olarak gösterilerek öğrencilerin bu pozisyonlara odaklanmaları ve pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , SAB9 , E3.2 .). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 , SAB9 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde ikinci kademede yer alan segâh notasını çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. İkinci kademede yer alan segâh notasının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır. Öğrencilerin gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 , KB2.2 ). Süreç sonunda performans görevi olarak neyde ikinci kademe ses alanındaki ara seslerin geçtiği Türk eserlerini araştırmaları istenip, ulaştıkları bilgileri sunmaları sağlanabilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1220"
+}

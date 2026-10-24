@@ -1,0 +1,67 @@
+{
+  "unitId": 81424160,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "160. ÜNİTE: HALK OYUNLARI - TEMEL KAVRAMLAR VE TANIMLARI",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.1.1",
+      "title": "Halk dansları ile ilgili kavramları açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.1.2",
+      "title": "Dünyada ve Türkiye'de halk oyunlarının tarihsel süreci hakkında çıkarım yapar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.1.3",
+      "title": "Halk dansı tanımının bölgelere/yörelere göre dağılımını açıklar",
+      "processComponents": [
+        "Türkiye'de bölgelerin kültürel yapısına, yerleşime, yaşam koşullarına ve etnik yapılara göre halk oyunlarının gösterdiği farklılıklar örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "SSA.3.1.4",
+      "title": "Halk danslarının yörelere göre giysilerini ve çalgılarını açıklar",
+      "processComponents": [
+        "Bölgelere göre giysi ve çalgıların görselleri gösterilerek yapısal özellikleri açıklanır."
+      ]
+    },
+    {
+      "code": "SSA.3.1.5",
+      "title": "Ritim, denge, duruş, pozisyon ve senkronize temel hareketlerini uygular",
+      "processComponents": [
+        "Çalışmalarda basitten zora hareketler seçilir, senkronize olana kadar alıştırma yapılır. Süreyi verimli kullanmak için ders dışı çalışma ve tekrarlama görevleri verilir."
+      ]
+    },
+    {
+      "code": "SSA.3.1.6",
+      "title": "Halk oyunu çalışmalarının grup çalışması olduğunu ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.1.7",
+      "title": "Halk oyunlarında gösteri ve yarışma kurallarının önemini açıklar",
+      "processComponents": [
+        "Yarışma videoları izletilir."
+      ]
+    },
+    {
+      "code": "SSA.3.1.8",
+      "title": "Gösteri ve yarışmalara katılmaya istekli olur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

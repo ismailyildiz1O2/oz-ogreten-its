@@ -1,0 +1,47 @@
+{
+  "unitId": 81403001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Matematik Uygulamaları Dersi (Lise)",
+  "title": "1. ÜNİTE: MATEMATİK VE PLANLAMA",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTU.1.1.1",
+      "title": "Belirlediği bir araştırma konusu ile ilgili veri toplar",
+      "processComponents": [
+        "Veri toplama çalışması yapılırken doküman ve anket hazırlama, görüşme gibi yöntemlerden yararlanılır."
+      ]
+    },
+    {
+      "code": "MTU.1.1.2",
+      "title": "Verileri tablo veya grafik kullanarak temsil eder",
+      "processComponents": [
+        "Çizgi grafiği, sütun grafiği, daire grafiği ve histograma yer verilir.",
+        "Serpme ve kutu grafiklerine yer verilmez."
+      ]
+    },
+    {
+      "code": "MTU.1.1.3",
+      "title": "Temsil edilen verileri yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "MTU.1.1.4",
+      "title": "Araştırma sonuçlarını değerlendirerek yazılı/sözlü şekilde sunar",
+      "processComponents": [
+        "Sunumda araştırma sonuçlarının dağılım yüzdelerine yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121111235666-MATEMAT%C4%B0K%20UYGULAMALARI%20DERS%C4%B0%20%28I-II%29%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI--21.11.2023.pdf"
+}

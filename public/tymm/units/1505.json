@@ -1,0 +1,90 @@
+{
+  "unitId": 1505,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Çevre Eğitimi ve İklim Değişikliği Dersi",
+  "title": "3. Ünite: Üretim Ve Kaynak Kullanımı Dengesi",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ÇEİD.3.1",
+      "title": "Günlük hayatta üretim ve kaynak kullanımı arasındaki dengenin önemine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Üretim ve kaynak kullanımı kavramlarına yönelik nitelikleri tanımlar.",
+        "b) Günlük hayatında kullandığı tüketim maddelerinin yaşam döngüsü analizlerine yönelik veri toplar ve kaydeder.",
+        "c) Günlük hayatındaki üretim ve kaynak kullanımı dengesine ilişkin ulaştığı verileri yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "ÇEİD.3.2",
+      "title": "Atık, çöp ve kirlilik kavramlarını yapılandırabilme",
+      "processComponents": [
+        "a) Atık, çöp ve kirlilik kavramları arasındaki nedensel ilişkileri ortaya koyar.",
+        "b) Tespit ettiği ilişkilerle ilgili ön bilgilerinden de yararlanarak bu kavramların tüketimle ilişkisini uyumlu bir bütün olarak ortaya koyar."
+      ]
+    },
+    {
+      "code": "ÇEİD.3.3",
+      "title": "Atık ve çöpün neden olduğu kirliliğe ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Atık ve çöpün neden olduğu kirlilik türlerini belirleyebilmek için kullanacağı araçları belirler.",
+        "b) Atık ve çöpün neden olduğu kirlilik türleri hakkında belirlediği araçları kullanarak bilgileri bulur.",
+        "c) Atık ve çöpün neden olduğu kirlilik türleri hakkında ulaştığı bilgileri doğrular.",
+        "ç) Atık ve çöpün neden olduğu kirlilik türleri hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "ÇEİD.3.4",
+      "title": "Ekolojik ayak izi kavramını yapılandırabilme",
+      "processComponents": [
+        "a) Ekolojik ayak izinde etkili olan faktörler arası nedensel ilişkileri ortaya koyar.",
+        "b) Tespit ettiği ilişkiler ile ön bilgilerinden de yararlanarak ekolojik ayak izi ve tüketim alışkanlıklarını uyumlu bir bütün olarak ortaya koyar."
+      ]
+    },
+    {
+      "code": "ÇEİD.3.5",
+      "title": "İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerine yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerini araştırmak için kullanacağı araçları belirler.",
+        "b) İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerine yönelik belirlediği araçları kullanarak bilgileri bulur.",
+        "c) İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerine yönelik ulaştığı bilgileri doğrular.",
+        "ç) İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerine yönelik bulduğu bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "atık yönetimi, çöp, dağıtım, ekolojik ayak izi, gıda israfı, hava kirliliği, kaynak kullanımı, kirlilik, Mavi Vatan, su ayak izi, su kirliliği, su verimliliği, tasarruf, toprak kirliliği, tüketim alışkanlıkları, üretim, yaşam döngüsü analizi, yeniden kullanım, yeşil beceriler",
+  "support": [
+    "Yaşadıkları çevredeki insan kaynaklı bir çevre sorununu gözlemleyip fotoğraflayarak arkadaşlarına sunmaları istenebilir.",
+    "Yaşadıkları çevredeki çöp depolama tesislerini ve bu alanların kullanım ömürlerini araştırmaları istenebilir."
+  ],
+  "enrichment": [
+    "Bir haftada evlerinde oluşan atıkları belirlemeleri ve bunların içeriğini incelemeleri, hangi ürün grubunda israfın daha fazla olduğunu belirleyerek bu israfı önleyebilmek için bir proje tasarlamaları istenebilir.",
+    "Günlük hayatta sık kullanılan tüketim maddelerinden seçtiklerine ilişkin yaşam döngüsü analizlerini araştırarak sürdürülebilirlik bağlamında değerlendirmelerini ve sunmalarını içeren bir görev verilebilir.",
+    "Yakın çevrelerindeki bireylerin ekolojik ayak izini artıran faktörleri belirleyerek bu faktörlerde yapılacak düzenlemelerle ekolojik ayak izini azaltmaya yönelik bir sosyal sorumluluk projesi hazırlamaları istenebilir.",
+    "Yaşadıkları bölgede belediyelerle birlikte atık önlemeye yönelik sosyal sorumluluk projesi geliştirmeleri istenebilir.",
+    "Millî ekolojik ayak izi hesaplama yapabilmek için interaktif bir uygulama geliştirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde yapılandırılmış grid, tanılayıcı dallanmış ağaç, açık uçlu sorular, performans görevleri vb. ölçme ve değerlendirme araçları kullanılabilir. Ayrıca bu süreçte ortaya çıkan öğrenci ürünleri geleneksel veya eko dijital ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir.",
+    "Performans görevi olarak günlük hayatında kullandığı tüketim maddelerinin yaşam döngüsü analizlerine yönelik bilgi toplamaları ve raporlaştırmaları istenebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Öğrencilere atık ve çöpün neden olduğu kirlilik konusunda bireysel ya da grup olarak poster vb. hazırlamalarını içeren bir performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkileri konusunda bireysel ya da grup olarak rapor vb. hazırlamalarını içeren performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇEİD.3.1",
+    "Öğrencilerin üretim ve kaynak kullanımı kavramlarına yönelik bilgileri beyin fırtınası yöntemiyle sorgulanabilir ( E1.1 , E3.5 ). Ortaya çıkan algılara ilişkin açık uçlu sorular yöneltilerek kavramları tartışmaları sağlanabilir ( E3.8 , SDB2.1 , KB2.18 ). Ardından üretim ve kaynak kullanımı kavramlarının niteliklerini tanımlamaları sağlanır ( OB1 ). Yaşam döngüsü analizi kavramına ilişkin fikirleri alınarak kavram açıklanır. Öğrenciler gruplara ayrılarak öğrencilerin iş birliği içinde çalışmaları sağlanır ( SDB2.2 ). Gruplara ayrılan öğrencilerden performans görevi olarak günlük hayatta kullanılan tüketim maddelerinin yaşam döngüsü analizlerine yönelik bilgi toplamaları ve bu bilgileri raporlaştırarak kaydetmeleri istenir ( OB1 , D3.3 , E3.7 ). Bu süreçte öğrencilerin olumlu iletişim kurarak birlikte çalışmaları ve merak ettikleri soruları sormaları sağlanır ( SDB2.1 , SDB2.2 , E1.1 , E3.8 ). Süreçte öğrencilerin araştırmacı ve sorgulayıcı bakış açısıyla düşünmeleri istenir ( D3.3 , E3.10 ). Hazırladıkları raporları sunmaları beklenir. Öğrenci raporları analitik dereceli puanlama anahtarıyla değerlendirilebilir. Ardından öğrencilerden günlük hayattaki üretim ve kaynak kullanımı dengesine ilişkin ulaştıkları bilgileri yorumlayarak değerlendirmeleri istenir ( KB3.3 , E3.1 , E3.10 , SDB3.3 , OB8 ). Bu dengenin sürdürülebilir bir çevre için önemine ve gerekliliğine değinilerek bu konuda farkındalık geliştirmeleri desteklenir ( OB8 , D5.2 ). Kaynak kullanımındaki dağıtım faktörüne değinilir. Gelişen dağıtım olanakları ve sürdürülebilirlik ilişkisi irdelenir. Yerel ürün kullanımının sürdürülebilirlik açısından önemine değinilir. Sürdürülebilirlik bağlamında israfı önlemenin neden önemli olduğu sorgulanır ( D17.2 ). Gıda israfı kavramı açıklanarak bu israfı önlemenin hem ülkemiz hem de dünya için neden önemli olduğunu kavramaları ve bu duyarlılıkla davranmaları desteklenir ( D9.3 , D17.2 ) İsrafın önüne geçmek için yapılması gerekenler konusunda sorumluluk bilinci ve farkındalık geliştirmeleri sağlanır ( OB8 , SDB3.3 , D16.3 , D17.2 ). Tanılayıcı dallanmış ağaç, açık uçlu sorular vb. değerlendirme amacıyla kullanılabilir.",
+    "ÇEİD.3.2",
+    "Atık, çöp ve kirlilik kavramları ile ilgili beyin fırtınası vb. tekniklerle öğrencilerin ön bilgileri belirlenir ( KB2.8 , SDB2.1 , D14.3 , E3.5 , E3.10 ). Atık ve çöpün kirlilik kavramıyla ilişkisini incelemeleri için grup tartışması tekniğinden faydalanılabilir ( KB2.18 , SDB2.1 , SDB2.2 ). Öğrencilerin atık ve çöpün kirlilik kavramı üzerindeki etkisini inceleyerek nedensel ilişkileri ortaya koymaları sağlanır ( KB3.3 , OB1 ). Tespit ettikleri ilişkilerle ilgili ön bilgilerinden de yararlanarak bu kavramların tüketimle ilişkisini uyumlu bir bütün olarak açıklamaları istenir ( OB1 ). Atık ve çöpün kirlilik kavramı üzerinde önemli bir etkisinin olduğunu fark etmeleri sağlanır ( D5.2 ). Öğrencilerden kendi tüketim alışkanlıklarını değerlendirerek doğru davranışları listelemeleri istenir ( SDB1.2 , SDB3.3 , D17.2 ). Bilinçsiz tüketim alışkanlıklarının atık ve çöp miktarını artırarak kirliliğe sebep olduğu, hem kirliliği hem de israfı önlemek için bu davranışların değiştirilmesi gerektiği vurgulanır. Öğrencilerin bu konuda doğa sevgisiyle ve doğayı koruma sorumluluğuyla hareket etmeleri sağlanır ( D9.3 , D17.2 , D18.3 ). Bilinçli tüketici olmanın ahlaki bir sorumluluk olduğu bilincine ulaşmaları sağlanır ( D17.1 ). Yeşil beceriler kavramının ne olduğu sorularak öğrencilerin fikirleri alınır. Ardından yeşil beceri kavramı açıklanarak bilinçli tüketici davranışlarının bu becerilerin bir boyutunu oluşturduğu belirtilir. Bu becerilerin sürdürülebilir bir dünya için önemi kısaca açıklanır. Sürecin tamamına ilişkin öğrenmeler açık uçlu sorular vb. ölçme araçlarıyla değerlendirilebilir.",
+    "ÇEİD.3.3",
+    "Öğrencilerin yakın çevrelerindeki atık ve çöpün neden olduğu kirliliğe ilişkin bilgileri açık uçlu sorularla sorgulanabilir. Bu konuda öğrencilerin merak ettikleri soruları sormalarına fırsat tanınır ( E1.1 , E3.8 ). Öğrencilere atık ve çöpün neden olduğu kirlilik konusunda bireysel ya da grup olarak poster vb. hazırlamalarını içeren performans görevleri verilir ( SDB1.2 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacağı araçları belirlemeleri beklenir. Öğrencilerin performans görevi sürecinde görev bilinciyle sorumlu davranmaları ve süreçte bir plan yapıp bu plana göre hareket etmeleri beklenir ( E2.2 , D3.2 , D16.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı kaynaklardan yararlanabilirler ( OB1 , OB2 , E3.4 ). Bu süreçte öğrencilere rehberlik edilir. Öğrencilerin gerçeği arama isteğiyle hareket ederek güvenilir araçları belirlemeleri sağlanır. Öğrencilerden belirledikleri aracı kullanarak atık ve çöpün neden olduğu kirlilik türleri hakkında bilgileri bulmaları istenir ( OB1 ). Öğrencilerin elde ettikleri bilgileri arkadaşları ile tartışarak, bilimsel kaynaklara veya öğretmenlerine başvurarak doğrulamaları beklenir ( OB1 , OB7 ). Öğrencilerin atık ve çöpün neden olduğu kirlilik türlerini kaydetmeleri istenir. Öğrencilerden bu bilgileri kullanarak hazırladıkları poster vb. arkadaşlarına sunmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Atık ve çöpün sebep olduğu kirliliğin doğaya olan etkisine değinilir. Atık yönetimi için neler yapılabileceği sorularak tartışmaları istenir. Atık yönetimi süreçleri ile ülkemizdeki atık yönetimi uygulamaları kısaca tanıtılır. Ekosistemi korumak için atık yönetimi uygulamalarının önemine değinilerek farkındalık geliştirmeleri sağlanır ( D18.3 ). Bu süreçte “Okul Dışı Öğrenme Ortamları” genel ağ sayfasından da yararlanılabilir. Sürdürülebilir bir çevre için atık ve çöpün neden olduğu kirlilik konusunda farkındalık oluşturmak için ilgili kurum ve kuruluşlarla işbirliği yapabilecekleri bir sosyal sorumluluk projesi geliştirmeleri desteklenebilir ( OB8 , D14.3 , D16.2 , D18.3 , SDB2.3 ). Sürecin tamamına ilişkin değerlendirmede yapılandırılmış grid, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "ÇEİD.3.4",
+    "Ekolojik ayak izi kavramı ile ilgili beyin fırtınası vb. tekniklerle öğrencilerin ön bilgileri belirlenir ( KB2.8 , E3.5 ). Ardından kavram açıklanır. Ekolojik ayak izini oluşturan faktörlere yönelik grup tartışması tekniğinden faydalanılabilir ( KB2.18 , SDB2.1 , SDB2.2 ). Öğrencilerin ekolojik ayak izinde etkili olan faktörleri inceleyerek nedensel ilişkileri ortaya koymaları sağlanır ( KB3.3 , E3.10 , OB1 ). Öğrencilerin güvenilir genel ağ üzerinden ekolojik ayak izlerini hesaplamaları sağlanır. Öğrencilerin tüketim alışkanlıklarıyla ekolojik ayak izlerine etki eden faktörleri ilişkilendirmeleri beklenir. Ekolojik ayak izinin tüketim alışkanlıklarına göre değiştiğini fark etmeleri sağlanır ( D5.2 ). Tespit ettikleri ilişkiler ile ön bilgilerinden de yararlanarak oluşturduğu kavram haritası, balık kılçığı diyagramı vb.üzerinden ekolojik ayak izi ve tüketim alışkanlıklarını uyumlu bir bütün olarak açıklamaları istenir ( OB1 , SDB3.1 ). Öğrencilere su ayak izi kavramı sorularak kısaca açıklanır. Su ayak izinin ekolojik ayak izindeki yeri sorgulanır. Su verimliliğinin önemi vurgulanır. Türk-İslam kültüründe suya verilen öneme değinilir. Öğrencilerin ekolojik ayak izini azaltacak tüketim alışkanlıklarını belirleyerek listelemeleri istenir ( SDB1.2 , SDB2.2 , OB4 , OB8 ). Listeledikleri tüketim alışkanlıklarını afiş vb. materyallere dönüştürerek çevreleriyle paylaşmaları istenebilir. Bu alışkanlıkların yeşil becerilerdeki yerine kısaca değinilir. Giyilebilir teknolojilerden bahsedilerek ekolojik ayak izi, su ayak izi vb. takip etmedeki işlevi açıklanır. Su ayak izinin azaltılmasının tasarruf, doğal kaynakları ve doğayı koruma vb. ülkemiz için önemi vurgulanır ( OB8 , D9.3 , D17.2 ). Sürecin tamamına ilişkin çalışma kâğıtları, açık uçlu sorular vb. ölçme araçlarıyla değerlendirilebilir.",
+    "ÇEİD.3.5",
+    "Öğrencilerin insan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerine ilişkin bilgileri açık uçlu sorularla sorgulanabilir ( E3.5 , D13.4 ). Öğrencilerin konu hakkında merak ettikleri soruları sormalarına fırsat tanınır ( E1.1 , E3.8 ). Öğrencilere insan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkileri konusunda bireysel ya da grup olarak rapor vb. hazırlamalarını içeren performans görevi verilir ( SDB1.2 , OB1 , OB4 ). İnsan kaynaklı çevre sorunlarından hava kirliliği, su kirliliği, toprak kirliliğine odaklanmaları istenir. Öğrencilerin hazırlayacakları performans görevi ile ilgili bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı kaynaklardan yararlanmaları sağlanır ( OB1 , OB2 , OB8 ). Bu süreçte öğrencilere rehberlik edilir. Öğrencilerin gerçeği arama isteğiyle hareket ederek güvenilir araçları belirlemeleri sağlanır ( OB1 , OB2 , E3.4 ). Öğrencilerden performans görevi sürecinde görev bilinciyle sorumlu davranmaları ve bir plan yapıp bu plana göre hareket etmeleri istenir ( E2.2 , D3.2 , D16.3 ). Belirledikleri aracı kullanarak insan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkileri hakkında bilgileri bulmaları istenir ( OB1 ). Öğrencilerin elde ettikleri bilgileri arkadaşları ile tartışarak, bilimsel kaynaklara veya öğretmenlerine başvurarak doğrulamaları beklenir ( D11.3 , OB1 , OB7 , KB2.18 ). İnsan kaynaklı çevre sorunları ve bu sorunların insan hayatı üzerindeki etkilerine ilişkin doğruladıkları bilgileri kaydederek hazırladıkları ürünleri arkadaşlarına sunmaları istenir ( SDB2.1 , D3.4 , OB1 ). Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Hava, su, toprak kirliliği kavramlarının sürdürülebilir çevreye olan etkileri incelenir ( OB8 , E3.5 ). Çevre sorunlarının insan hayatı üzerindeki etkilerini sorumluluk bilinci ve adalet duygusuyla ele alıp değişmesi gereken davranışlar konusunda sorumlu davranmaları sağlanır ( SDB3.3 , E2.2 , D1.2 , D16.2 ). Su kirliliğinin Mavi Vatan’a etkisi açıklanarak bu konunun ülke için önemini kavramaları ve ülkesini seven bireyler olarak sorumlu davranmaları desteklenir ( SDB3.3 , D15.2 , D19.3 ). Yeşil becerilerin bu süreçteki işlevi vurgulanır. Kirlilik konusunda kullanılabilecek giyilebilir teknoloji ürünlerinden bahsedilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir."
+  ],
+  "skills": [
+    "FBAB8. Bilimsel Çıkarım Yapma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1505"
+}

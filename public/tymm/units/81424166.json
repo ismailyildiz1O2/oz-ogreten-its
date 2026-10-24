@@ -1,0 +1,36 @@
+{
+  "unitId": 81424166,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "166. ÜNİTE: HALK OYUNLARI - ZEYBEK",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.7.1",
+      "title": "Zeybek oyunlarının çeşitlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.7.2",
+      "title": "Zeybek oyunlarının çeşitlerinin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.7.3",
+      "title": "Zeybek oyunlarını uygular",
+      "processComponents": [
+        "Zeybek oyunlarında kadın oyuncunun hareketleri ile erkek oyuncunun hareketleri grup oluşturularak ayrı gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

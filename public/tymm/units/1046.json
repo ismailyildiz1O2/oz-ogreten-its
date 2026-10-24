@@ -1,0 +1,49 @@
+{
+  "unitId": 1046,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları - Müziksel İşitme, Okuma ve Yazma Dersi",
+  "title": "1. TEMA: MÜZİĞİ KEŞFEDİYORUM",
+  "hours": "4",
+  "description": "Temada, öğrencilerin müzik ile ilgili fikirlerinin ortaya çıkarılmasını ve çevresinde duyduğu sesleri anlamlandırma süreçlerini alana yönelik bir farkındalık sürecine dönüştürülmesini amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MİOY.1.1.1",
+      "title": "Müziği tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "müzik, ses",
+  "support": [
+    "Öğrencilere, gerçek ses kaynakları dinletilerek sesleri tanımaları sağlanabilir. Örneğin kuş ötüşü, yağmur sesi, rüzgar sesi gibi doğadan alınan sesler tekrar tekrar dinletilebilir ve bu seslerin neye ait olduğu basit sorularla pekiştirilebilir. Destekleme sürecinde bilmece sorma, bulmaca çözme, şarkı ve tekerleme söyleme, görsel eşleştirme kartları kullanma gibi etkinliklerden yararlanılabilir. Bu etkinlikler sırasında, öğrencilerin zorlandıkları yerlerde onlara ipuçları verilerek süreç kolaylaştırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere, doğadan ya da çevrelerinden duydukları sesleri dinleyerek bu seslerin hangi müzik aletlerine benzediğini düşünmeleri sağlanabilir ve uygun müzik aletleriyle eşleştirme yapmaları istenebilir. Ayrıca farklı müzik türlerinden kısa dinletiler sunularak, dinleme sonrasında, öğrencilerden hissettikleri duyguları bir resimle ifade etmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi ve performans görevi ile değerlendirilebilir. Performans görevi olarak doğadaki seslerle müzik kavramının farklarını gösterebileceği görevler verilebilir. Performans görevi analitik dereceli puanlama anahtarı ve gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MİOY.1.1.1 Öğrencilerin müziğe karşı merak duymaları, öğretmen tarafından belirlenen görsel ve işitsel materyallerle desteklenir ( E1.1 ). Öğrencilerin müziği hem görsel hem de işitsel olarak tanımaları sağlanır ( OB4 ). Öğretmen, öğrencilerin izleme ve dinleme etkinliklerinden sonra müzikle ilgili daha önceki bilgileri ya da yaşantılarına dair anılarını paylaşmalarını teşvik eder ( SDB1.1 ). Süreç boyunca öğrencilerin konuya ilişkin sorular sormaları desteklenir ( E3.8 ). Müziğe yönelik farkındalık oluşturmak amacıyla öğretmen rehberliğinde ses tanıma oyunu ve eşleştirme gibi etkinlikler uygulanır ( SDB2.2 ). Doğadan ve günlük yaşamdan alınan kuş sesi, yağmur sesi gibi örnekler dinletilerek öğrencilerin bu seslerle müzik seslerini ayırt etmeleri ve tanımaları sağlanır ( OB1 ). Bir kuşun ötüşü ile bir müzik notasının nasıl benzer ya da farklı olabileceği üzerine düşünmeleri sağlanır. Bu süreçte öğrencilerin hem çevresel sesleri tanıma ve anlamlandırma becerileri hem de çevreye karşı duyarlılık geliştirmeleri desteklenir ( D5.1 ). Öğrencilere doğadaki seslerle müzik kavramının farklarını yansıtabilecekleri performans görevleri verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir. Öğrenilen kavramlarla ilgili öğrencilerle grup etkinlikleri düzenleyerek öğretmen rehberliğinde pano hazırlamaları sağlanır. Bu çalışmalar, öğrencilerin arkadaşları ile etkili iletişim kurarak ( SDB2.1 ) duygu ve düşüncelerini paylaşmasına olanak sağlarken ( D4.2 ) iş birliği içerisinde çalışmaları beklenir ( SDB2.2 ). Yapılan çalışmalar gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1046"
+}

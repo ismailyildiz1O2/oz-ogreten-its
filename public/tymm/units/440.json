@@ -1,0 +1,178 @@
+{
+  "unitId": 440,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "6. ÜNİTE: ELEKTRİĞİN YOLCULUĞU",
+  "hours": "26",
+  "description": "Bu ünitede seri ve paralel bağlama çeşitleri dikkate alınarak devre çizip kurdurulması ve buna bağlı olarak devredeki ampulün parlaklığının değişebileceğinin fark ettirilmesi, bir devre elemanının uçları arasındaki gerilim ile üzerinden geçen akımın ilişkilendirilmesi, özgün bir aydınlatma modelinin tasarlatılması amaçlanmaktadır. Bunun yanı sıra elektrik enerjisinin ısı, ışık, ses ve hareket enerjilerine dönüşümü, elektrik enerjisi üretim santrallerinde elektrik enerjisinin nasıl üretildiği ve bunun doğurabileceği avantaj veya dezavantaj durumları ile elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının öneminin tartışılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1.Bölüm: Ampullerin Bağlanma Şekli",
+      "processComponents": []
+    },
+    {
+      "code": "FB.8.6.1.1",
+      "title": "Ampullerin bağlanma durumunun ampul parlaklığına etkisine yönelik deney yapabilme",
+      "processComponents": [
+        "a) Ampullerin bağlanma durumuna göre parlaklıklarının değişimini gösteren deney tasarlar.",
+        "b) Deney sonucuna ait verileri toplar ve analiz eder."
+      ]
+    },
+    {
+      "code": "FB.8.6.1.2",
+      "title": "Elektrik akımını tanımlayabilme",
+      "processComponents": [
+        "a) Elektrik akımının niteliklerini tanımlar.",
+        "b) Akımın büyüklüğünü ampermetre ile ölçer.",
+        "c) Akımın büyüklüğünü amper birimi ile açıklar."
+      ]
+    },
+    {
+      "code": "FB.8.6.1.3",
+      "title": "Bir devre elemanının uçları arasındaki potansiyel farkı (gerilimi) tanımlayabilme",
+      "processComponents": [
+        "a) Potansiyel farkın niteliklerini tanımlar.",
+        "b) Potansiyel fark büyüklüğünü voltmetre ile ölçer.",
+        "c) Potansiyel farkın büyüklüğünü volt birimi ile açıklar."
+      ]
+    },
+    {
+      "code": "FB.8.6.1.4",
+      "title": "Bir devre elemanının uçları arasındaki gerilim ile üzerinden geçen akım ilişkisine yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Elektrik devresinde akım ve gerilim arasında örüntü oluşturur.",
+        "b) Bir elektrik devresi üzerinde akım-gerilim ilişkisine yönelik genelleme yapar."
+      ]
+    },
+    {
+      "code": "FB.8.6.1.5",
+      "title": "Özgün bir aydınlatma aracı modeli oluşturabilme",
+      "processComponents": [
+        "a) Özgün bir aydınlatma aracı modeli önerir.",
+        "b) Aydınlatma aracı modelini geliştirir. 2. BÖLÜM: Elektrik Enerjisinin Dönüşmesi"
+      ]
+    },
+    {
+      "code": "FB.8.6.2.1",
+      "title": "Elektrik enerjisinin dönüştüğü enerjileri sınıflandırabilme",
+      "processComponents": [
+        "a) Elektrik enerjisinin dönüşümüne ait nitelikleri belirler.",
+        "b) Elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşüm örneklerini ayrıştırır.",
+        "c) Elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşüm örneklerini gruplandırır.",
+        "ç) Elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşüm örneklerini etiketlendirir."
+      ]
+    },
+    {
+      "code": "FB.8.6.2.2",
+      "title": "Elektrik enerjisinin ısı, ışık, ses veya hareket enerjisine dönüşümüne yönelik bir model oluşturabilme",
+      "processComponents": [
+        "a) Elektrik enerjisinin ısı, ışık, ses veya hareket enerjisine dönüşümüne yönelik bir model tasarlar.",
+        "b) Tasarladığı modeli geliştirir."
+      ]
+    },
+    {
+      "code": "FB.8.6.2.3",
+      "title": "Elektrik enerjisi üretim santrallerini sınıflandırabilme",
+      "processComponents": [
+        "a) Elektrik üretimi için gerekli olan nitelikleri belirler.",
+        "b) Elektrik üretim santrallerini kullanılan enerji kaynaklarına göre ayrıştırır.",
+        "c) Elektrik üretim santrallerini kullanılan enerji kaynaklarına göre gruplandırır.",
+        "ç) Yenilenebilir ve yenilenemeyen enerji kaynaklarına göre elektrik üretim santrallerini etiketler."
+      ]
+    },
+    {
+      "code": "FB.8.6.2.4",
+      "title": "Elektrik enerjisi üretim santrallerinin avantaj ve dezavantajlarını tartışabilme",
+      "processComponents": [
+        "a) Elektrik üretim santralleri hakkında görüşlerini mantıksal temellendirme yapar.",
+        "b) Elektrik üretim santralleri hakkında kendi görüşlerini başka görüşlerle mantıksal açıdan kıyaslar.",
+        "c) Elektrik üretim santrallerini avantajları ve dezavantajları bakımından tartışır."
+      ]
+    },
+    {
+      "code": "FB.8.6.2.5",
+      "title": "Elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının önemini tartışabilme",
+      "processComponents": [
+        "a) Elektrik enerjisinin kullanılması hakkında görüşlerini mantıksal çerçevede sunar.",
+        "b) Elektrik enerjisinin kullanılması hakkında kendi görüşlerini başka görüşlerle kıyaslayarak mantıksal çelişkileri tespit eder.",
+        "c) Elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının aile ve ülke ekonomisine katkılarını kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "Yasalar Ohm yasası Anahtar Kavramlar seri bağlama, paralel bağlama, elektrik akımı, gerilim, ampermetre, voltmetre, elektrik enerjisi santrali",
+  "support": [
+    "Elektrik enerjisi üretim santralleri, elektrik enerjisinin bilinçli ve tasarruflu kullanılması ile ilgili kes yapıştır, yapbozlar gibi somut materyallerin kullanıldığı etkinlikler yapmaları sağlanabilir. Elektrik enerjisinin bilinçli ve tasarruflu kullanılmasıyla ilgili uzmanların sınıfa sunum yapmaları sağlanabilir. Deney aşamaları için ek açıklamalar ve yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "Yenilenebilir enerji kaynaklarına yönelik farkındalık kazandırılması adına basit jeneratör yapmaları istenebilir. Seri ve paralel bağlı elektrik devrelerinde ampul parlaklığının değişimi ile ilgili dijital içerik oluşturmaları istenebilir. Elektrik devrelerinde kullanılan devre elemanlarının yapısı araştırılarak yarı metallerin bu devre elemanlarında nasıl kullanıldığı ile ilgili bir araştırma yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde yazılı sınavlar, kısa cevaplı testler, yapılandırılmış grid, tanılayıcı dallanmış ağaç, eşleştirme testi, çalışma kâğıdı, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Yapılan deneylerde TGA tekniği kullanılarak rapor hazırlama görevi verilebilir. Rapor, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Model geliştirme performans görevi verilebilir. Modeller, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. TGA tekniği kullanılarak elektrik enerjisinin dönüşüm örneklerini içeren poster veya afiş hazırlama performans görevi verilebilir. Hazırlanan poster veya afiş bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.8.6.1.1 Basit elektrik devresindeki elemanlar ve görevlerine ilişkin mevcut bilgileri açık uçlu sorularla açığa çıkarılabilir. Öğrencilerin dijital ve basılı kaynaklar yardımıyla farklı şekillerde bağlanmış devre görsellerini odaklanarak incelemeleri sağlanır ( OB4 , E3.2 ) . Ampullerin devreye farklı şekillerde bağlanma durumları, ampullerin bağlanma durumlarının ampul parlaklığını nasıl etkilediği vb. konularda merak edilen sorular sorulur ( E3.8 ) . Seri ve paralel bağlı devre görsellerinden yola çıkılarak öğrencilerin seri ve paralel olmak üzere iki çeşit bağlama olduğu çıkarımını yapmaları beklenir ( KB2.10 , OB1 ) . Öğrencilerin iş birlikli öğrenme gruplarına ayrılıp görev bilinciyle yardımlaşmaları beklenir ( D16.3 , SDB2.2 ) . Öğrencilerin, ampullerin seri ve paralel bağlama durumlarını dikkate alarak devre çizmeleri istenir. Grup üyelerine, çizdikleri elektrik devrelerin düzeneğini araştırmacı ve sorgulayıcı bir yaklaşımla kurabilmeleri için uygun ortam ve malzemeler sağlanır ( D3.3 ) . Öğrencilerden, ampullerin bağlanma durumunun ampul parlaklığına etkisini gösteren deney düzeneği kurmaları istenir ( SDB1.2 ) . Bu süreçte öğrencilerin planlarını ertelemeden, kararlı ve sorumluluk bilinciyle deneyi yürütmeleri beklenir ( E2.2 , D3.2 ) . Deney sonucuna ait verileri tabloya kaydederek analiz yapmaları istenir ( KB2.8 ) . Bilimsel bir yaklaşımla ampullerin bağlanma durumunun ampul parlaklığına etkisine gösteren farklı deneyler yapmaları istenir ( D3.2 ) .Öğrencilerin deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Seri ve paralel bağlamada karışık bağlamaya girilmez. Ayrıca ampullerin bağlanma durumuna göre parlaklıklarının değişimi ile ilgili öğrenmelerini zenginleştirmek için öğrenciler dijital ortamlara yönlendirilir ( OB2 , KB2.6 ) . Güvenilir genel ağ adresleri yoluyla öğrencilerin sanal deneyler yaparak bilgiyi özetlemeleri sağlanır ( OB1 , KB2.3 ) . Öğrencilerin konuyla ilgili dijital ortamlardan yararlanmaları bilişim teknolojileri dersleri ile ilişkilendirilebilir. Elde edilen veriler TGA tekniği yoluyla raporlaştırılıp analitik dereceli puanlama anahtarı ile değerlendirilebilir. Bunun yanında kısa cevaplı testler kullanılabilir.",
+    "FB.8.6.1.2 Elektrik akımı kavramına yönelik açık uçlu sorular yöneltilerek beyin fırtınası tekniği ile fikirleri alınabilir ( E3.5 ) . Öğrencilerin iş birlikli öğrenme gruplarına ayrılıp görev bilinciyle yardımlaşmaları beklenir ( D16.3 , SDB2.2 ) . Grup üyelerine düzeneği kurabilmeleri için uygun malzemeler sağlanır. Öğrencilerin seri bağlı deney düzeneklerinde bağımlı ve bağımsız değişkenleri, kontrol değişkenlerini belirlemeleri sağlanır. Bağımlı değişkenin ölçülmesi için ampermetre kullanılır. Ampermetrenin devreye seri bağlandığı belirtilir. Öğrencilerin ortaya çıkan fikirlerden yola çıkarak elektrik akımının niteliklerini tanımlamaları sağlanır ( OB1 ) . Öğrencilerin, ampermetre kullanarak akımın büyüklüğünün ölçülebileceğini etkin bir şekilde ifade etmeleri beklenir ( SDB2.1 ) . Bilimsel bir yaklaşımla kurdukları elektrik devresinde ampermetre kullanarak elektrik akımının büyüklüğünü ölçmeleri ve ölçüm sonuçlarını tabloya kaydetmeleri istenir ( D3.3 , OB7 ) . Ardından öğrencilerin ölçüm sonuçlarını grup içi veya gruplar arasında karşılaştırmaları sağlanabilir. Bilimsel bir yaklaşımla pil sayısı veya ampul sayısı değişkenlerini kontrol ederek deneyi tekrarlamaları istenir ( D3.2 ) . Öğrencilerin, elde ettikleri sonuçlara dayanarak akımın ampermetre ile ölçülen bir büyüklük olduğunu ve birimini amper (A) olarak açıklamaları istenir ( OB1 ) . Öğrencilerin deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Elde edilen veriler TGA tekniği yoluyla raporlaştırılarak analitik dereceli puanlama anahtarı ile değerlendirilebilir. Tüm sürece ilişkin tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir.",
+    "FB.8.6.1.3 Potansiyel fark kavramına yönelik açık uçlu sorular sorularak beyin fırtınası tekniği ile öğrencilerin fikirleri alınır ( E3.5 , E3.8 ) . Öğrencilerin iş birlikli öğrenme gruplarına ayrılıp görev bilinciyle yardımlaşmaları beklenir ( D16.3 , SDB2.2 ) . Grup üyelerine, potansiyel farkı ölçebilecekleri düzeneği kurabilmeleri için uygun ortam ve malzemeler sağlanır. Seri bağlı deney düzeneklerinde kontrol değişkeni ampul sayısı, bağımsız değişken ise pil sayısı olarak belirlenir. Bağımlı değişkenin ölçülmesi için voltmetre kullanılması sağlanır. Voltmetrenin devreye paralel bağlandığı belirtilir. Öğrencilerin ortaya çıkan fikirlerden yola çıkarak potansiyel farkın niteliklerini tanımlamaları sağlanır ( OB1 ) . Öğrencilerin, voltmetre kullanarak potansiyel farkın büyüklüğünün ölçülebileceğini etkin bir şekilde ifade etmeleri beklenir ( SDB2.1 ) . Bilimsel bir yaklaşımla kurdukları elektrik devresinde voltmetre kullanarak potansiyel farkın büyüklüğünü ölçmeleri ve ölçüm sonuçlarını tabloya kaydetmeleri istenir ( D3.3 , OB7 ) . Ardından öğrencilerin ölçüm sonuçlarını grup içi veya gruplar arasında karşılaştırmaları sağlanabilir. Öğrencilerin elde ettikleri sonuçlara dayanarak potansiyel farkın voltmetre ile ölçülen bir büyüklük olduğunu ve birimini volt (V) ile açıklamaları istenir ( OB1 ) . Öğrencilerin deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Elde edilen veriler TGA tekniği yoluyla raporlaştırılıp analitik dereceli puanlama anahtarı ile değerlendirilebilir. Tüm sürece ilişkin tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir.",
+    "FB.8.6.1.4 Direnç kavramına yönelik açık uçlu sorular sorularak öğrencilerin ön öğrenmeleri açığa çıkarılır ( E3.8 ) . Öğrencilere bir devre elemanının uçları arasındaki gerilim ile üzerinden geçen akım hakkında sorular sorulur ( E3.8 ) . Öğrencilerin iş birlikli öğrenme gruplarına ayrılıp görev bilinciyle yardımlaşmaları beklenir ( D16.3 , SDB2.2 ) . Deney düzeneklerinde kontrol değişkeni ampul sayısı, bağımsız değişken ise pil sayısı olarak belirlenir. Grup üyelerine uygun ortam ve malzemeler sağlanır. Bilimsel bir yaklaşımla voltmetre ve ampermetre kullanarak kurdukları elektrik devresindeki potansiyel fark ile akımın büyüklüğünü ölçmeleri istenir. Ölçüm sonuçları ile oluşturulan akım-gerilim ilişkisini grafikler ile deney raporlarına kaydetmeleri istenir ( D3.3 , OB7 ) . Kaydettikleri ölçüm sonuçlarından yola çıkarak akım ve gerilim arasında örüntü oluşturmaları sağlanır. Örüntülerden yola çıkarak bir iletkenin iki ucu arasındaki gerilimin o iletkenden geçen akım şiddetine oranının sabit olduğuna yönelik genelleme yapmaları sağlanır ( OB1 ) . Öğrencilerin, oluşturdukları grafik verilerini okuyarak matematiksel modelleme yapmaları sonucunda Ohm yasasına ulaşmaları beklenir. Öğrencilerin deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Ayrıca akım-gerilim ilişkisiyle ilgili öğrenmelerini zenginleştirmek için öğrenciler dijital ortamlara yönlendirilebilir. Güvenilir genel ağ adresleri yoluyla öğrencilerin sanal deneyler yapmaları sağlanabilir. Öğrencilerin, Georg Simon Ohm hakkında dijital içerikler, yazılı ve görsel kaynaklar yoluyla araştırma yapmaları sağlanır ( OB2 ) . Dijital ortamlardan yararlanırken bilişim teknolojileri, matematiksel modelleme yaparken ise matematik dersi ile ilişkilendirilebilir. Elde edilen veriler TGA tekniği ile raporlaştırılıp analitik dereceli puanlama anahtarı ile değerlendirilebilir. Tüm sürece ilişkin kısa cevaplı testler, eşleştirme testi ve açık uçlu sorular vb. ölçme araçları kullanılabilir.",
+    "FB.8.6.1.5 Geçmişten günümüze aydınlatma araçları hakkında sorular sorularak öğrencilerin konuya yönelik dikkatleri çekilir ( E3.8 ) . Aydınlatma araçlarının nasıl geliştiği ile ilgili tahmin yapmaları sağlanır ( OB1 ) . Öğrencilerden gelecekteki aydınlatma araçlarının neler olabileceğine yönelik araştırma yaparak analiz etmeleri istenir ( OB1 , OB4 , OB7 ) . Araştırmalarını dijital içerikler, yazılı ve görsel kaynaklar yoluyla yapmaları istenebilir. Araştırma sonuçları doğrultusunda öğrencilerin özgün bir aydınlatma aracı modeli önermeleri istenir. Öğrenciler gruplara ayrılır. Grup içinde öğrencilerin aldıkları görevleri yerine getirmeleri beklenir ( D16.2 ) . Oluşturulan aydınlatma aracı modelinde öğrencilerin yaratıcılık becerileri ve özgün düşünmeleri sağlanır ( E3.3 , E3.11 ) . Öğrencilerin oluşturduğu modelleri inceleyerek karşılaştırmaları ve geliştirmeleri sağlanır ( OB1 , KB2.7 ) . Geliştirdikleri modelleri dijital sunu vb. yöntemlerle etkin bir şekilde sunmaları sağlanır ( SDB2.1 ) . Sunum sırasında öğrencilerin empati kurmaları, arkadaşlarına karşı nezaketli davranmaları istenir ( D14.1 ) . Model tasarım süreci görsel sanatlar dersi ile ilişkilendirilebilir. Geliştirilen model, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FB.8.6.2.1 Evlerindeki elektrik enerjisiyle çalışan aletler ile ilgili öğrencilerin örnekler vermeleri istenebilir. Bu süreçte merak ettikleri soruları sormaları beklenir ( E3.8 ) . Öğrencilerin, ampullerin ışık enerjisini nasıl elde edebildikleri ile ilgili fikir üretmeleri sağlanabilir. Elektrik enerjisinin dönüşümü ile ilgili dijital içerikler, yazılı ve görsel kaynaklar vb. yardımıyla bilgi toplamaları istenir ( OB1 , OB2 , OB4 , KB2.6 ) . Bu süreçte planlı bir şekilde çalışmalarını yürütmeleri sağlanır ( D3.2 ) . Öğrencilerin, topladıkları bilgilerden yola çıkarak elektrik enerjisinin dönüşümüne ait nitelikleri belirlemeleri istenir. Elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşüm örneklerini sistematik bir şekilde ayrıştırmaları istenir ( E3.7 ) . Ayrıştırdığı elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşüm örneklerini gruplandırmaları istenir. Elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşüm örneklerini kart eşleştirme gibi teknikler yoluyla eşleştirerek etiketlemeleri istenir ( KB2.7 ) . Elektrik enerjisinin dönüşüm örneklerini doğru şekilde sınıflandırarak çalışma kâğıtlarına not etmeleri sağlanır ( OB1 , SDB1.2 ) . Elde edilen bilgiler doğrultusunda TGA tekniği kullanılarak elektrik enerjisinin dönüşüm örneklerini içeren afiş, poster vb. hazırlamaları beklenebilir. Hazırlanan afiş, poster vb. holistik dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca kısa cevaplı testler, eşleştirme testi ve açık uçlu sorular vb. ölçme araçları kullanılabilir.",
+    "FB.8.6.2.2 Elektrik enerjisinin ısı, ışık, ses ve hareket enerjisine dönüşümü hakkında sorular sorularak öğrencilerin konuya yönelik dikkatleri çekilir ( E3.8 ) . Günlük yaşamda kullanılan elektrikli aletlerin elektrik enerjisini hangi tür enerjiye dönüştürdüğü ile ilgili tahminlerde bulunmaları istenebilir. Öğrencilerin iş birlikli öğrenme gruplarına ayrılıp görev bilinciyle yardımlaşmaları beklenir ( D16.3 , SDB2.2 ) . Elektrik enerjisinin ısı, ışık, ses veya hareket enerjisi dönüşümüne yönelik öğrencilerden bir model önermeleri istenir ( OB1 ) . Grup üyelerine uygun ortam ve malzemeler sağlanır. Grup içinde öğrencilerden aldıkları görevleri yerine getirmeleri beklenir. Model hazırlarken öğrencilerden estetik bir bakış açısıyla yaratıcılıkları ve özgün düşünmeleri beklenir ( D7.2 , E3.3 , E3.11 ) . Öğrencilerin oluşturdukları modelleri inceleyerek karşılaştırmaları ve geliştirmeleri istenir ( KB2.7 ) . Öğrencilerin geliştirdikleri modelleri dijital sunu vb. yöntemlerle etkin bir şekilde ifade etmeleri sağlanır ( SDB2.1 ) . Sunum sırasında öğrencilerin empati kurmaları, arkadaşlarına karşı nezaketli davranmaları istenir ( D14.1 ) . Model tasarım süreci görsel sanatlar dersi ile ilişkilendirilebilir. Geliştirilen model, holistik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FB.8.6.2.3 Günlük yaşamda kullanılabilen vantilatörlerin elektrik enerjisini hareket enerjisine dönüştürdüğü hatırlatılabilir. Bu bağlamda, hareket enerjisinin de elektrik enerjisine dönüşebileceği hakkında öğrencilerin sorgulama yöntemiyle fikir üretmeleri beklenir ( KB2.8 ) . Ortaya çıkan fikirleri eleştirel bakış açısıyla irdeleyip kendi görüşleri hakkında düşünmeleri sağlanır ( E3.10 , SDB1.2 ) . \"Elektrik enerjisi nasıl üretilir?\" vb. merak uyandıracak sorularla elektrik enerjisi üretim santrallerine odaklanmaları istenir ( E1.1 , E3.2 ) . Elektrik üretimi için gerekli olan nitelikleri belirlemeleri istenir. Elektrik enerjisi üretim santrallerini kullanılan enerji kaynaklarına göre sistematik bir şekilde ayrıştırmaları istenir ( E3.7 , OB1 ) . Ayrıştırdığı üretim santrallerini kullanılan enerji kaynaklarına göre yenilenebilir ve yenilenemeyen enerji kaynakları olarak gruplandırmaları istenir ( KB2.4 ) . Elektrik enerjisinin üretim santrallerini yenilenebilir ve yenilenemeyen enerji kaynakları olarak kart eşleştirme vb. teknikler yoluyla eşleştirerek etiketlemeleri istenir ( OB1 ) . Yenilenebilir enerji kaynağı olarak Güneş, dalga, hidroelektrik, rüzgâr ve jeotermal santralleri; yenilenemeyen enerji kaynağı olarak ise termik ve nükleer santralleri üzerinde durmaları istenir. Süreç, öğrencilerin hazırladıkları çalışma kâğıtları vb. araçlarla değerlendirilebilir.",
+    "FB.8.6.2.4. Elektrik üretim santralleri hakkında sorular sorularak öğrencilerin konuya yönelik dikkatleri çekilir ( E3.8 ) . Elektrik enerjisi üretim santrallerinin avantaj ve dezavantajlarının neler olduğunu ortaya koymak için tartışma yöntemlerinden kartopu tekniği kullanılır ( SDB3.3 ) . Bu süreçte merak ettikleri soruları sormaları beklenir ( E3.8 ) . Öğrencilerin elektrik üretim santralleri hakkındaki görüşlerini mantıksal açıdan ifade etmeleri istenir ( OB1 , KB2.8 , KB2.15 ) . Açık uçlu sorularla elektrik üretim santralleri hakkında daha fazla düşünmeleri sağlanabilir. Öğrencilerin, görüşlerini etkin bir şekilde ifade etmeleri beklenir ( SDB2.1 , KB2.13 , KB2.14 ) . Görüşlerini ifade ederken empati kurmaları, arkadaşlarına karşı nezaketli davranmaları beklenir ( D14.1 ) . Elektrik üretim santralleri hakkında kendi görüşleri ile arkadaşlarının görüşlerini mantıksal açıdan karşılaştırmaları istenir ( KB2.7 , OB1 ) . Öğrencilerin, elektrik üretim santrallerini avantaj ve dezavantaj yönünden değerlendirmeleri istenir ( OB1 ) . Tartışma sırasında Türkçe dersindeki dil becerilerinden yararlanılabilir. Süreç, tanılayıcı dallanmış ağaç ile değerlendirilebilir. Ayrıca akran ve grup değerlendirme formu kullanılabilir. Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( D1.2 ) .",
+    "FB.8.6.2.5 Öğrencilere, günlük yaşamda elektriğin bilinçli ve tasarruflu kullanılmasıyla ilgili neler yaptıklarına dair açık uçlu sorular sorularak konuya odaklanmaları sağlanır ( D17.1 , E3.2 , OB3 , KB2.9 ) . Elektrik enerjisinin bilinçli ve tasarruflu kullanılması konusunda öğrencilerin dijital içerikler, yazılı ve görsel kaynaklar vb. yardımıyla bilgi toplayarak analiz etmeleri sağlanır ( OB1 , OB4 , KB2.6 ) . Bu süreçte planlı bir şekilde çalışmalarını yürütmeleri sağlanır ( D3.2 ) . Öğrencilerin sınıfta gruplara ayrılarak takım çalışması içinde münazara, altı şapkalı düşünme vb. yöntem ve teknikler ile elektrik enerjisinin kullanılması hakkındaki görüşlerini mantıksal açıdan ifade etmeleri istenir ( SDB2.3 , KB2.8 , KB2.15 , OB1 ) . Öğrencilerin, görüşlerini ifade ederken empati kurmaları, arkadaşlarına karşı nezaketli davranmaları beklenir ( D14.1 ) . Elektrik enerjisinin kullanılması hakkında kendi görüşleri ile arkadaşlarının görüşleri arasındaki tutarsızlıkları karşılaştırmaları istenir ( KB2.7 ) . Öğrencilerin, elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının aile ve ülke ekonomisine katkısı olduğuna yönelik değerlendirme yapmaları istenir ( SDB3.3 , OB3 , OB8 , KB2.8 , KB2.14 ) . Tartışma esnasında Türkçe dersindeki dil becerilerinden yararlanılabilir. Süreç, tanılayıcı dallanmış ağaç ile değerlendirilebilir. Ayrıca akran ve grup değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D14.1",
+      "D16.2",
+      "D16.3",
+      "D17.1",
+      "D18.2",
+      "D3.2",
+      "D3.3",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.10",
+      "E3.11",
+      "E3.2",
+      "E3.3",
+      "E3.5",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.14",
+      "KB2.15",
+      "KB2.3",
+      "KB2.4",
+      "KB2.6",
+      "KB2.7",
+      "KB2.8",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/440"
+}

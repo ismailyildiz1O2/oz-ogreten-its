@@ -69,6 +69,7 @@ export const ChatStream: React.FC = () => {
     gravity,
     mass,
     skills,
+    activeUnit,
     addMessage,
     setQuickReplies,
     setIsTyping,
@@ -76,6 +77,7 @@ export const ChatStream: React.FC = () => {
     applyBKTUpdate,
     setActiveMisconception,
     setBktModalOpen,
+    setTymmModalOpen,
   } = useITSStore();
 
   const [inputText, setInputText] = useState("");
@@ -127,6 +129,7 @@ export const ChatStream: React.FC = () => {
             weight: mass * gravity,
           },
           skills,
+          activeUnit,
         }),
       });
 
@@ -219,21 +222,31 @@ export const ChatStream: React.FC = () => {
                 Canlı Rehber
               </span>
             </div>
-            <p className="text-[11px] text-slate-400">
-              Doğrudan cevap vermez; simülasyonla keşfettirir
+            <p className="text-[11px] text-slate-400 truncate max-w-[230px] sm:max-w-[300px]">
+              TYMM: {activeUnit.gradeName} • {activeUnit.title}
             </p>
           </div>
         </div>
 
-        <button
-          type="button"
-          onClick={() => setBktModalOpen(true)}
-          className="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-300 border border-indigo-500/30 transition flex items-center gap-1.5"
-          title="BKT Öğrenci Bilişsel Ustalık Modelini Aç"
-        >
-          <BrainCircuit className="w-3.5 h-3.5" />
-          <span className="hidden sm:inline">BKT Modeli</span>
-        </button>
+        <div className="flex items-center gap-1.5">
+          <button
+            type="button"
+            onClick={() => setTymmModalOpen(true)}
+            className="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/30 transition"
+            title="TYMM Müfredat ve Ünite Seçiciyi Aç"
+          >
+            <span>TYMM</span>
+          </button>
+          <button
+            type="button"
+            onClick={() => setBktModalOpen(true)}
+            className="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-300 border border-indigo-500/30 transition flex items-center gap-1.5"
+            title="BKT Öğrenci Bilişsel Ustalık Modelini Aç"
+          >
+            <BrainCircuit className="w-3.5 h-3.5" />
+            <span className="hidden sm:inline">BKT</span>
+          </button>
+        </div>
       </div>
 
       {/* Mesaj Akışı Alanı */}

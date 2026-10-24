@@ -1,0 +1,56 @@
+{
+  "unitId": 1142,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "3. TEMA: BAĞLAMADA ZEYBEK TAVRINI UYGULUYORUM",
+  "hours": "36",
+  "description": "Temada bağlamada zeybek tavrını tezene ile çalmaya yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.7.3.1",
+      "title": "Bağlamada zeybek tavrını çalabilme",
+      "processComponents": [
+        "a) Bağlamada zeybek tavrını çözümler.",
+        "b) Bağlamada zeybek tavrını çalarken duruş ve tutuş pozisyonu alır.",
+        "c) Bağlamada zeybek tavrını, çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlamada zeybek tavır tekniği ile müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "tavır, teknik",
+  "support": [
+    "Öğrencilerin zeybek tavrının tekniklerini daha iyi öğrenebilmeleri için öğrencilere basitleştirilmiş alıştırmalar ve tekrarlar yaptırılabilir. Bağlama tutuşunun doğru şekilde öğrenilmesi için öğretmen, öğrencileri rahatlatıcı duruş alıştırmalarına yönlendirir ve her öğrencinin bağlamayı doğal bir şekilde tutmasını sağlamak için ek rehberlik sunabilir.",
+    "Zeybek tavrına özgü tezene vuruşlarını anlamak için düşük tempoda pratik yaparak yavaşça ilerlemeleri desteklenebilir. Ayrıca öğrencilerin kendi hızlarında öğrenmelerine olanak tanıyacak şekilde örnek müziklerin bölümleri yavaşça çalınarak daha anlaşılır hâle getirilebilir. Öğrenciler, grup içinde karşılıklı geri bildirimlerle birbirlerinin çalma tekniklerini değerlendirir ve zeybek tavrının ruhunu en iyi şekilde yansıtmalarına yardımcı olabilirler. Öğrenciler, çalma sürecinde zeybek tavrını duygusal bir şekilde ifade etmeyi öğrenirler, böylece müziksel ifadelerinin gelişmesine katkıda bulunabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, zeybek tavrının teknik yönlerini (tezene vuruşları, parmak pozisyonları) çok daha karmaşık örnekler üzerinde uygulayarak müziğin daha estetik ve zengin bir şekilde ifade edilmesini hedefleyebilirler. İleri seviye zeybek melodileri ve örnekleri üzerinden uygulamalı çalışmalar yapılabilir. Öğrenciler, daha karmaşık zeybek tavrı parçalarını canlı olarak çalarak performanslarını sergileyebilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi ve öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden eserlerde zeybek tavır tekniklerini çalmaları ile ilgili performanslar istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.7.3.1",
+    "Zeybek tavrının yapısı ve özellikleri hakkında bilgi verilir. Öğrenciler, zeybek tavrının tarihsel ve kültürel bağlamını öğrenerek ( D19.2 ), bağlamada çalarken hangi teknikleri ve duygusal vurguları kullanacaklarını anlamalarına yardımcı olacak bilgiler edinirler. Öğrencilere zeybek tavrını içeren örnek müzikler dinletilir ve öğrencilerin bu örneklerden hangi tekniklerin kullanıldığını ve zeybek tavrının ruhunu nasıl yansıttığını fark etmeleri sağlanır ( SDB2.1 , OB9 ). Öğrenciler, zeybek tavrını çalarken duygusal ifadeyi nasıl vereceklerini keşfederler ( E3.2 ). Bağlamada zeybek tavrını doğru bir şekilde çalabilmek için öğrencilere doğru duruş ve tutuş pozisyonları öğretilir. Bağlamayı doğru tutarak rahat ve doğal bir pozisyon almaları gerektiği, sazın ne çok sert ne de gevşek tutulmaması gerektiği anlatılır. Zeybek tavrının tezene vuruşları gösterilir ve sağ bilek alıştırmaları yapılır ( E1.3 , OB1 ). Öğrencilerin önce basit zeybek melodilerini öğrenmeleri sağlanır. Ardından öğrenciler zeybek tavrına özgü tezene vuruşlarını örnek eserler üzerinde uygular ve öğretmen rehberliğinde her birini pratik ederler ( D3.1 ). Öğrenciler, çaldıkları parçaları sınıfta sunar ve öğretmen gözlem formunu doldurarak geri bildirim verir (D3.4, OB9 ). Öğrenciler, kendi çalma performanslarını gözden geçirip hangi alanlarda eksik olduklarını ve hangi alanlarda güçlü olduklarını belirlemek için öz değerlendirme yapabilirler ( D10.1 ). Bu süreç, öğrencilerin kendi gelişimlerini fark etmelerine ve hedef koymalarına yardımcı olur ( SDB1.2 ). Performans görevi olarak öğrencilerden eserlerde zeybek tavır tekniklerini çalmaları ile ilgili performanslar istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D19.2",
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.3",
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1142"
+}

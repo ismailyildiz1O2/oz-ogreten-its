@@ -1,0 +1,107 @@
+{
+  "unitId": 367,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "1. ÜNİTE: GÖKYÜZÜNDEKİ KOMŞULARIMIZ VE BİZ",
+  "hours": "22",
+  "description": "Bu ünitede Güneş’in yapısı ve dönme hareketinin açıklanması, Ay’ın özellikleri, evreleri, dönme ve dolanma hareketleri ile ilgili çıkarım yapılması, Ay’ın evreleri ile ilgili model hazırlanması amaçlanmaktadır. Bunun yanı sıra Güneş, Dünya ve Ay’ın hacimsel büyüklükleri ile hareketlerini dikkate alarak model hazırlanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Gökyüzündeki Komşumuz: Güneş",
+      "processComponents": []
+    },
+    {
+      "code": "FB.5.1.1.1",
+      "title": "Güneş'in yapısı ve dönme hareketi ile ilgili bilgileri toplayabilme",
+      "processComponents": [
+        "a) Güneş'in yapısı ve dönme hareketi ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak Güneş'in yapısı ve dönme hareketi hakkında bilgileri bulur.",
+        "c) Güneş'in yapısı ve dönme hareketi hakkında bulduğu bilgileri doğrular.",
+        "ç) Güneş'in yapısı ve dönme hareketi hakkında ulaşılan bilgileri kaydeder. 2. Bölüm: Gökyüzündeki Komşumuz: Ay"
+      ]
+    },
+    {
+      "code": "FB.5.1.2.1",
+      "title": "Ay'ın özellikleri, dönme ve dolanma hareketleri ile ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Ay'ın özellikleri, dönme ve dolanma hareketleri ile ilgili nitelikleri tanımlar.",
+        "b) Ay'ın özellikleri, dönme ve dolanma hareketleri ile ilgili topladığı verileri kaydeder.",
+        "c) Ay'ın özellikleri, dönme ve dolanma hareketleri ile ilgili verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.5.1.2.2",
+      "title": "Ay'ın evrelerini temsil eden bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Ay'ın evrelerini temsil eden bir model önerir.",
+        "b) Ay'ın evrelerini temsil eden modelini yeni kanıtlara bağlı olarak geliştirir. 3. Bölüm: Dünya'mız ve Gökyüzündeki Komşularımız"
+      ]
+    },
+    {
+      "code": "FB.5.1.3.1",
+      "title": "Güneş, Dünya ve Ay'ın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Güneş, Dünya ve Ay'ın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden bir model önerir.",
+        "b) Güneş, Dünya ve Ay'ın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden modelini yeni kanıtlara göre geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Güneş, Ay, Ay'ın evreleri, dönme ve dolanma hareket",
+  "support": [
+    "Modellerin yapımında kes yapıştır, yapbozlar gibi somut materyaller kullanılabilir.",
+    "Güneş, Dünya ve Ay'ın birbirlerine göre hareketleri rol oynama tekniği ile yapılabilir"
+  ],
+  "enrichment": [
+    "Ay'ın dönme ve dolanma hareketlerini içeren animasyonlar oluşturmaları sağlanabilir.",
+    "Güneş, Dünya ve Ay modelinin dijital ortamda çizimlerinin yapılması ve imkânlar dâhilinde 3B yazıcılardan çıktılarının alınması sağlanabilir.",
+    "On iki hayvanlı ilk Türk takvimi araştırılarak takvimin poster veya dijital içerik şeklinde oluşturmaları istenebilir. Süper Ay, Süper Dolunay, Süper Yeni Ay ve Mikro Ay kavramlarıyla ilgili araştırma görevi verilebilir. Araştırma görevlerinde bu kavramlara ve kavramsal yanılgılara yol açabilen ifadelere yer verilebilir.",
+    "Ay'ın dönme ve dolanma sürelerindeki değişimin ortaya çıkarabileceği durumları araştırıp afiş olarak sunması istenebilir.",
+    "Müslüman bilim insanlarından Battani ve Fergani'nin Güneş'le ilgili çalışmalarını kısaca araştırmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde kısa cevaplı testler, yapılandırılmış grid, eşleştirme testleri, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Güneş'in yapısı ve dönme hareketi ile ilgili kısa rapor, günlük, afiş ve poster şeklinde performans görevi verilebilir. Bu görevin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Ay'ın belli zaman dilimlerinde gözlenmesi ve modellenmesi üzerine performans görevi verilebilir. Bu görev, kontrol listeleri veya bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Güneş, Dünya, Ay'ın hareket ve hacimsel boyutları ile ilgili model tasarlama üzerine performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca öğrencilerin değerlendirme süreçlerine aktif katılımını teşvik etmek amacıyla öz, akran ve grup değerlendirme formları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FB.5.1.1.1 Öğrencilerden Güneş ile ilgili merak ettikleri soruları sormaları istenir ( E3.8 ) . Güneş'in özellikleri ve hareketleri ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir ( SDB1.2 ) . Bu araçlar dijital içerikler, yazılı ve görsel kaynaklar olabilir. Öğrenciler bilgi toplama sürecinde okul kütüphanesi, bilgisayar laboratuvarı vb. ortamları kullanabilirler. Güneş'in yapısı ve dönme hareketi hakkında dijital içerikler, basılı ve görsel kaynaklar vb. yardımıyla öğrencilerin bilimsel verileri toplamaları istenir ( OB7 , SDB1.2 ) . Ulaştıkları sonuçları günlük, bilgi notu, öğrenme matrisi vb. kullanarak kaydetmeleri istenir ( OB7 ) . Bilgi toplanan dijital kaynakların güvenilirliği öğrencilerle birlikte sorgulanır ( OB2 ) . Öğrencilerden Güneş lekelerini fark etmeleri beklenir. Güneş lekeleri ile Güneş'in dönmesi arasında bağlantı kurulup dönme yönünü keşfetmeleri sağlanabilir. Güneş'in sadece gazsal yapıda olduğuna ve katmanlardan oluştuğuna katman isimleri verilmeden değinilir. Güneş'in Dünya'dan çok büyük olduğu fakat Dünya'dan çok uzakta olduğu için küçük göründüğüne değinilir. Bu bağlamda farklı büyüklükteki cisimler kullanılarak öğrencilerin yakınlık-uzaklık bağlantısına bağlı büyüklük çıkarımı yapmaları sağlanır ( KB2.7 ) . Görsel sanatlar dersi ile bağlantı kurularak çizimler gerçekleştirilebilir. Güneş ışınlarına doğrudan bakmanın göz sağlığı için olumsuz etkiler oluşturacağı vurgusu yapılabilir. Güneş'e doğrudan ya da Güneş filtresi bulunmayan dürbün, teleskop, mercek vb. araçlar ile bakılmaması gerektiği vurgulanır. Öğrencilerden ulaştıkları bilgileri öğretmenlerinden yardım alarak veya bilimsel kaynaklara başvurarak doğrulamaları istenir ( OB1 ) . Güneş'in yapısı ve dönme hareketi hakkında sınıf içi sunumlar sonucunda doğru bilgileri kaydetmeleri istenir ( OB1 ) . Güneş'in yapısı ve dönme hareketi ile ilgili gerçeği arayarak çeşitli araçlarla buldukları bilgileri doğrulamaları ( E3.4 ) ve kısa rapor/ günlük şeklinde performans görevi hazırlamaları beklenir ( SDB1.1 , D16.3 ) . Bu performans görevindeki süreç bileşenleri analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FB.5.1.2.1 Öğrencilerden Ay ile ilgili merak ettikleri soruları sormaları istenir ( E3.8 ) . Ay'ın özellikleri ile ilgili güncel bilgiler, suyun bulunması vb. paylaşılarak öğrencilerin konuya ilişkin dikkatleri çekilebilir. Ay ile ilgili görseller vb. kullanılarak öğrencilerin Ay ile ilgili nitelikleri tanımlamaları istenir ( E3.4 ) . Öğrencilerin dijital içerikler, basılı kaynaklar vb. ile bilimsel gerçeği arayarak Ay'ın özellikleri, dönme ve dolanma hareketi ile ilgili verileri toplamaları sağlanır. Öğrencilerin topladıkları verileri çalışma yapraklarına kaydetmeleri sağlanır ( OB7 ) . Ay'ın dönme ve dolanma hareketleri ile yönleri, Dünya'dan bakıldığında Ay'ın neden hep aynı yüzünün görüldüğünü ifade etmeleri sağlanır. Öğrencilerin Ay'ın özellikleri, dönme ve dolanma hareketleri ile ilgili verileri yorumlamaları ve değerlendirmeleri sağlanır. Konuyu pekiştirmek için rol oynama tekniğinden faydalanılabilir. Bu süreçte öğrencilerin farklı rollere bürünerek eğlenceli bir şekilde ve ekipler hâlinde yardımlaşarak çalışmaları sağlanır ( E2.5 , SDB2.2 ) . Bunlara ek olarak öğrencilerin Ay'ın dönme ve dolanma hareketlerini çizmeleri sağlanabilir. Bu süreç görsel sanatlar dersi ile ilişkilendirilebilir. Öğrenci performansları kontrol listesi ile değerlendirilir ( SDB2.1 ) . Ay'ın ilk haritasını çıkaran Türkİslam bilim insanı Ali Kuşçu hakkında öğrencilerin araştırma yapmaları sağlanır ( D19.4 ) . Ay'ın yüzeyinde Toros (Taurus) sıra dağlarına denk geldiği kraterlere verilen Türk isimleri araştırılabilir. Ay'ın özellikleri, dönme ve dolanma hareketlerinin değerlendirilebilmesi için kısa cevaplı testler, yapılandırılmış grid vb. yöntemler kullanılabilir.",
+    "FB.5.1.2.2 Türk bayrağındaki Ay'ın şekli hakkında sorular sorularak öğrencilerin konuya yönelik dikkatleri çekilir ( D19.2 ) . Ay'ın farklı görünümleri ile ilgili tahmin yapmaları sağlanabilir. Ay'ın evreleri ve görünümlerine ilişkin Sokratik tartışma yöntemi kullanılabilir. Tartışma sürecinde her bir öğrencinin fikir belirtme ve karar alma hakkının olduğu belirtilir ( D8.1 ) . Öğrencilere performans görevi olarak Ay'ı belli zaman dilimlerinde gözlemlemeleri verilir. Gözlem kayıtlarını çizmeleri veya fotoğraflamaları beklenir ( D16.3 ) . Gözlem süreci yaklaşık bir aylık süreyi kapsayabilir. Gözlem yapmadan önce gözlem yapılacak ortama, süresine ve zamanına karar verilir. Gözlem yapılırken uygun açık alanlar tercih edilebilir. Ay'ın mevcut görülen evresinin ne kadar zamanda değişeceği ve tekrar aynı evrenin ne kadar zamanda görüleceği gibi sorular sorularak tartışma ortamı oluşturulur ( E3.8 ) . Öğrencilerin arkadaşlarını etkin şekilde dinlemeleri, duygu ve düşüncelerini ifade ederken etkili iletişim kurmaları sağlanır ( SDB2.1 ) . Zaman birimi olarak ay kavramına değinilir. Ay'ın evrelerinin her ay periyodik olarak oluştuğu genellemesine ulaşılır ( KB2.16.2 ) . Öğrencilerin Ay'ın evrelerini oluş sırasına göre isimlendirmeleri istenir. Ay takviminde dinî bayramlar ve Ramazan ayının hangi gök cisimlerinin hareketlerine göre belirlendiği araştırılması istenebilir. Öğrencilerin, Ay'ın evrelerini temsil eden model hazırlamaları beklenir. Modeli tasarlama sürecinde planlarını ertelemeden, istikrarlı bir şekilde modellerini tamamlamaları istenir ( D3.3 , D16.3 ) . Modelini hazırlarken arkadaşları ile yardımlaşmaları sağlanır ( D20.2 ) . Hazırlanan modellerde Dünya'dan ve uzaydan Ay'ın görünümleri karşılaştırılabilir. Öğrencilerin modelleri bilimsel kaynaklardan yaptığı araştırmalar veya diğer öğrenci modelleri ile karşılaştırarak yeniden geliştirmeleri beklenir ( OB1 ) . Öğrencilerin estetik bakış açısıyla özgün modeller oluşturması istenir ( D7.2 ) . Model tasarım süreci görsel sanatlar dersi ile ilişkilendirilebilir. Geliştirilen öğrenci modelleri, analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir.",
+    "FB.5.1.3.1 Güneş, Dünya ve Ay'ın birbirlerine göre hareketleri ve büyüklükleri ile ilgili açık uçlu sorular sorulabilir. Öğrencilerin mühendislik ve tasarım döngüsüne uygun Güneş, Dünya, Ay'ın hareket, yön ve temsilî hacimsel boyutlarını dikkate alan model hazırlamaları beklenir. Maddelerin boşlukta kapladıkları yerin, hacim olarak tanımlandığı ve biriminin cm3, m3, vb. olduğu vurgulanır. Güneş, Dünya ve Ay modelini hazırlamaları sürecinde arkadaşlarıyla yardımlaşarak çalışmaları istenir ( D20.2 ) . Öğrencilerin yaptıkları modelleri karşılaştırarak sınıfa sunmaları sağlanır. Öğrencilerin sunumları sırasında arkadaşlarını etkin şekilde dinlemeleri, duygu ve düşüncelerini ifade ederken etkili iletişim kurmaları sağlanır ( SDB2.1 ) . Modelleri, bilimsel kaynaklardan yaptığı araştırmalar veya diğer öğrenci modelleri ile karşılaştırarak yeniden geliştirmeleri beklenir ( OB1 ) . Modeli tasarlama sürecinde planlarını ertelemeden, istikrarlı bir şekilde modellerini tamamlamaları istenir ( D3.3 , D16.3 ) . Dijital içeriklerle eşleştirme oyunu oynanır ( E2.5 ) . Öğrenci modelleri, analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Etkinlik boyunca öğrencilerin performansları öz, akran ve grup değerlendirme formları ile değerlendirilebilir. Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( D6.1 , D1.2 ) . Ayrıca eşleştirme testleri kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D16.3",
+      "D19.2",
+      "D19.4",
+      "D20.2",
+      "D3.3",
+      "D6.1",
+      "D7.2",
+      "D8.1"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.4",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.16.2",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/367"
+}

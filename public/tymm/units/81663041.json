@@ -1,0 +1,93 @@
+{
+  "unitId": 81663041,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "41. ÜNİTE: PROGRAMLAMA DİLLERİ (PYTHON) - 1. ÜNİTE: PYTHON PROGRAMLAMAYA GİRİŞ",
+  "hours": "18",
+  "description": "Bu ünitede sırasıyla; Python çalışma ortamı türleri, değişken tanımlama, veri türleri, tanımlanan değişkenlerde işlem önceliği ve kullanıcıdan alınan verinin değişkene aktarılması üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.41.1",
+      "title": "Python programlama diliyle çalışılacak ortamları tanır",
+      "processComponents": [
+        "IDE (Integrated Development Environment) kavramı açıklanır.",
+        "Python IDE türlerini listeler. Öğrencilere popüler IDE'lerin avantaj ve dezavantajları açıklanır.",
+        "Derlenen ve yorumlanan dilllerden ve bunların farklarından bahsedililir.",
+        "Derleyici ve yorumlayıcı örnekleri verilir. Derleyici ve yorumlayıcı kullanmanın avantaj ve dezavantajları anlatılır.",
+        "Python programlama dilinin yorumlanan bir dil olduğu vurgulanır.",
+        "En yaygın kullanılan IDE'lerden (Atom, IDLE, Jupyter, PyCharm, Pydev, Spyder, Sublime Text ve Visual Studio Code) bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.41.2",
+      "title": "Farklı entegre geliştirme ortamlarını analiz ederek kendisine en uygun çalışma ortamını seçer",
+      "processComponents": [
+        "Ders akışında kullanılacak Python ide seçilir, kurulumu yapılır. Seçilen Python idesi öğrencilere tanıtılır. Python programlama diline özgü basit örnekler ile editörde üretilen sonuç gözlemlenir. Kod satırına yazılan 5+2 ifadesinden elde edilen sonuç ile Python programlamanın işlevselliği ve kodlama kolaylığı hususunda idenin rolü açıklanır.",
+        "Özellikleri anlatılan bir Python IDE'si seçilerek öğrencilerle birlikte kurulumu yapılır.",
+        "Hangi satırların hangi renklerde göründüğü örneklerle açıklanır.",
+        "Yorum satırından bahsedilir. Tek satır ve çok satır olması durumunda kullanılacak ifadeler gösterilir.",
+        "Ekrana yazdırma komutu print()'in önemi ve gerekliliği vurgulanır.",
+        "Kullanıcıdan veri alınması gereken durumlarda input() komutunun kullanıldığı örneklerle gösterilir.",
+        "Farklı Python çalışma ortamlarının avantaj ve dezavantajları listelenir.",
+        "Öğrencilerden kullanacakları Python çalışma ortamını, nedenlerini belirterek seçmeleri istenir."
+      ]
+    },
+    {
+      "code": "BTY.41.3",
+      "title": "Değişkenlerde tutulacak verileri tanımlar",
+      "processComponents": [
+        "Python programlama dilinde kullanılan veri türleri listelenir. Metinsel, sayısal, sıralama (list, tuple) ve sözlük türünde veri tanımlamaları yapılır.",
+        "Değişken tanımlama kurallarından bahsedilerek verilerin değişkenlere ataması yapılır.",
+        "Değişken ve sabit kavramlarının tanımı yapılır.",
+        "Bir değişkene veri ataması örnekler üzerinden anlatılır.",
+        "Değişken isimleri belirlerken dikkat edilmesi gereken kurallar açıklanır, kullanılabilecek bazı standartlar (camel case,pascal base, vb.) tanıtılır."
+      ]
+    },
+    {
+      "code": "BTY.41.4",
+      "title": "Bir değişkeni tanımlarken hangi tür veriyi tutacağını belirler",
+      "processComponents": [
+        "Değişkenlerin farklı türlerde verileri (tam sayı, ondalıklı sayı, metin, vb.) tutabileceği vurgulanır.",
+        "Veri türlerinden bahsedilir. Kullanım yerleri örneklerle açıklanır.",
+        "Kullanım amacına göre veri türü dönüşümlerinden bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.41.5",
+      "title": "Tanımlanan değişkenlerde işlem önceliğini gözetir",
+      "processComponents": [
+        "Programda kullanılan operatörler listelenir. Aritmetiksel, mantıksal ve atama operatörleri örneklendirilir. Farklı değişkenlerdeki verilerle karşılaştırma operatörlerini kullanarak işlemler yapılır.",
+        "Operatörlerle yapılan işlemlerde işlem önceliği gözetilir, farklı sonuçlar elde edilebileceği durumlar örneklendirilir.",
+        "Operatörler ile aritmetiksel ve mantıksal işlemlerden bahsedilir.",
+        "Eşitlik ve atama operatörü arasındaki fark örneklerle gösterilir.",
+        "Matematik dersindeki işlemler ile benzerlikleri anlatılır ve işlem sıralaması bir tablo ile gösterilebilir."
+      ]
+    },
+    {
+      "code": "BTY.41.6",
+      "title": "Kullanıcıdan veri alır",
+      "processComponents": [
+        "Pythonda kullanıcıdan veri almak için kullanılan “input” komutunun kullanımı açıklanır.",
+        "Kullanıcıdan veri almak için input() komutu kullanılacağı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.41.7",
+      "title": "Kullanıcıdan alınan veriyi değişkene tanımlar",
+      "processComponents": [
+        "Alınan verinin değişkene atılması örneklerle gösterilir.",
+        "input() komutunu kullanarak aldığı veriyi değişkene atar.",
+        "Verinin kullanım amacına göre türünün değiştirilmesi gerektiğinden bahsedilir. Bu değişimin nasıl olacağı örneklerde gösterilir. Örneğin matematiksel bir işlem yapılacaksa kullanıcıdan alınan verinin integer türüne dönüştürülmesi için input() komutunun başına int() ifadesinin yazılması gerektiği söylenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

@@ -1,0 +1,43 @@
+{
+  "unitId": 81424115,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "115. ÜNİTE: HÜSNÜHAT - YAZIYA HAZIRLIK: HÜSNÜHAT MALZEMELERİ",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.1.4.1",
+      "title": "Hat sanatıyla ilgili geçmişten günümüze kadar kullanılan araç ve gereçleri karşılaştırır",
+      "processComponents": [
+        "Hat sanatıyla ilgili geçmişten günümüze kadar kullanılan araç ve gereçlerin standartına vurgu yapılır."
+      ]
+    },
+    {
+      "code": "GTSA.1.4.2",
+      "title": "Hat sanatıyla ilgili malzemelerin hat sanatı için önemini açıklar",
+      "processComponents": [
+        "Meşk ederken gerekirse kuşe kâğıt kullanılabilir. Fakat eserlerin kesinlikle aharlı kâğıda yazılması sağlanır."
+      ]
+    },
+    {
+      "code": "GTSA.1.4.3",
+      "title": "Meşkin tarifi ve usulü hakkında çıkarımda bulunur",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.4.4",
+      "title": "Hat yazarken uyulması gereken kuralları benimser",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

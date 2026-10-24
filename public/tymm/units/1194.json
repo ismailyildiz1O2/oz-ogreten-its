@@ -1,0 +1,63 @@
+{
+  "unitId": 1194,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "1. TEMA: KAVALDA BİRİNCİ KADEME SES ALANINDA ANA SESLER",
+  "hours": "17",
+  "description": "Tema içeriğini, kavalda birinci kademede ses alanında yer alan ana sesleri (re, do, si, la ve sol) seslendirebilme oluşturmaktadır. Bu doğrultuda kavalda birinci kademe ses alanında yer alan ana notaları çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.6.1.1",
+      "title": "Re, do, si seslerini çalabilme",
+      "processComponents": [
+        "a) Notaları çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    },
+    {
+      "code": "KVL.6.1.2",
+      "title": ". La ve sol seslerini çalabilme",
+      "processComponents": [
+        "a) Notaları çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ana sesler, kaval, nota, ritim, süre",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Etütlerin yanı sıra kavalda birinci kademede öğrendiği notalardan oluşan basit usullü Türk halk müziği eserlerine yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak kavalda birinci kademe ses alanında yer alan re, do, si, la ve sol seslerinin geçtiği Türk halk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.6.1.1.",
+    "Öğretmen tarafından kavalda re, do ve si sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Kavalda re, do, si notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda birinci kademede yer alan re, do, si notalarını çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Birinci kademede yer alan re, do, si notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır, öğretmen gözlemlendikten sonra öğrencilerin ezgisel yapıya uygun olarak etütleri çalmaları ve sabırlı olmaları vurgulanır ( D12.3 ). Çalışmalar gözlem formu, kontrol listesi veya dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "KVL.6.1.2.",
+    "Öğretmen tarafından kavalda la ve sol sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Kavalda 'la ve sol' notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek, öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda birinci kademede yer alan la ve sol notalarını çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Birinci kademede yer alan la ve sol notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır, öğrencilerin gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Süreç sonunda performans görevi olarak kavalda birinci kademe ses alanında yer alan re, do, si, la ve sol seslerinin geçtiği Türk halk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1194"
+}

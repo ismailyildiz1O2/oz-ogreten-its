@@ -1,0 +1,60 @@
+{
+  "unitId": 1131,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "4.TEMA: BAĞLAMADA SENKOPLU VURUŞLARI ÖĞRENİYORUM",
+  "hours": "10",
+  "description": "Temada bağlamada senkoplu tartımların tezene ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.3.4.1",
+      "title": "Bağlamada senkop vuruşları çalabilme",
+      "processComponents": [
+        "a) Bağlamada senkop çalmayı çözümler.",
+        "b) Bağlamada senkop çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Bağlamada senkoplu tezene ile çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlamada senkoplu tezene tekniği ile müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "senkop",
+  "support": [
+    "Öğrencilere senkop kavramı, görsel ve işitsel materyallerle desteklenerek daha sade ve anlaşılır bir şekilde açıklanabilir. Öğrencilerden bağlama olmadan elleriyle senkoplu hareketleri (1-2-3-4 gibi) vurmaları istenir. Ardından öğrencilerden bu hareketleri bağlama üzerinde uygulamaları istenebilir. Ritim uygulamaları kullanılarak senkoplu ritimlerin metronom eşliğinde çalışılması sağlanabilir. Öğrencilerin senkoplu icralarını kaydedip daha sonra kaydı dinleyerek eksik yönlerini fark etmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden senkoplu vuruşları içeren daha karmaşık ve zor parçalar üzerinde çalışmaları istenebilir. Bu, öğrencilerin müzikal becerilerini test etmelerini ve geliştirmelerini sağlayabilir. Öğrenciler, senkoplu vuruşları içeren kısa yaratıcı parçalar yaratır ve bu parçalar üzerinde çalışabilirler. Yaratıcı süreçte öğrenciler, kendi tekniklerini ve ifadelerini geliştirme fırsatı bulabilirler. Öğrenciler, senkoplu vuruşları hem ritmik hem de melodik bağlamda kullanarak daha zengin müzikal yapılar oluşturabilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, akran değerlendirme, performans görevi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden senkop vuruşlarını tezene ile çalmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.3.4.1",
+    "Öğrencilere dörtlük ve sekizlik notaların nasıl senkoplu hâle geldiği gösterilerek öğrencilerin ritim farkındalıkları sağlanır ( OB4 ). Öğrenciler, bağlamada senkop vuruşları içeren video örneklerini izleyerek bu tekniklerin nasıl uygulanacağı hakkında fikir sahibi olurlar. Videoların yavaşlatılmış versiyonları kullanılarak dikkat edilmesi gereken detaylar, vuruşların yerleri ve teknik vurgular öğretilir ( SDB2.1 , KB2.6 ). Öğrenciye bağlama tutuşunun doğruluğu ve senkoplu vuruşları uygulama sürecindeki hassasiyeti gözlem formu ile değerlendirilerek geri bildirim verilir. Öğrenciler, öğretmenin rehberliğinde bağlama ile senkoplu vuruşları yavaş tempoda çalışmaları sağlanır. Ayrıca hatalarını değerlendirerek düzeltme yollarını arar ve gelişim için başkalarından yardım talep ederler ( D10.1 ). Öğrenciler, senkoplu vuruşları çalışırken doğru tezene tekniği ile nasıl uygulanacağına dair örneklerle planlı bir şekilde ilerler ( E1.5 , D3.2 ). Öğrenciler, öğretmenle birlikte senkoplu vuruşları çalarak ve her öğrencinin tekniğini izleyerek doğru uygulamaları öğrenirler ( OB9 , E3.2 ). Öğrenciler, senkoplu vuruşları yavaş bir tempoda çalarak doğru teknikleri kazandıkça tempo hızını artırır ve düzenli çalışmanın başarı üzerindeki etkisini fark eder ( D3.2 , D12.3 ). Öğrenciler, öğretmenin gösterdiği teknikle senkoplu vuruşları çalmaya başlar. Öğrenciler, senkoplu vuruşları içeren bir parça üzerinde birlikte çalışırlar. Öğrenciler senkoplu vuruşları bir arada çaldıkları bir parçada nasıl müzikal olarak birleştireceklerini öğrenirler. Öğrenciler, öğretmenin rehberliğinde ritmik ve melodik parçalar üzerinde senkoplu vuruşları uygularlar. Öğrenciler, senkoplu vuruşları uygularken grup çalışmalarında birbirlerinin hatalarını ve güçlü yönlerini akran değerlendirme formuyla değerlendirerek saygılı bir şekilde geri bildirimlerde bulunurlar ( SDB2.3 , SDB2.2 , D3.1 )."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3",
+      "D3.1",
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1131"
+}

@@ -1,0 +1,63 @@
+{
+  "unitId": 1637,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Mantık Dersi",
+  "title": "1. Ünite: Mantığın Doğası",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MAN.1.1",
+      "title": "Mantığı formel bir bilim olarak sorgulayabilme",
+      "processComponents": [
+        "a) Mantığı formel bir bilim dalı olarak tanımlar.",
+        "b) Mantıklı olmanın koşulları ve mantık hakkında sorular sorar.",
+        "c) Mantıklı olmanın koşulları ve mantık hakkında bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Topladığı bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MAN.1.2",
+      "title": "Mantığın tarihsel gelişim sürecini özetleyebilme",
+      "processComponents": [
+        "a) Mantığın tarihsel gelişimini ilgili olduğu alanlarla sebep-sonuç ilişkisi içerisinde çözümler.",
+        "b) Tarihsel dönemler dikkate alarak mantığın gelişimini sınıflandırır.",
+        "c) Mantığın tarihsel gelişimine etki eden unsurları sonuçları ile birlikte yorumlar."
+      ]
+    },
+    {
+      "code": "MAN.1.3",
+      "title": "Mantığın temel kavramsal çerçevesini yapılandırabilme",
+      "processComponents": [
+        "a) Tümce, önerme, yargı ve çıkarım kavramlarını inceleyerek aralarındaki mantıksal ilişkileri ortaya koyar.",
+        "b) Mantığın temel kavramsal çerçevesini bir bütün olarak ortaya koyar."
+      ]
+    }
+  ],
+  "keyConcepts": "formel, formelleştirme, informel mantık, mantık sistemleri, önerme, tümce, yargı",
+  "support": [
+    "Kavram haritası aracılığıyla mantığın anlamını kavramaları sağlanabilir.",
+    "Zihin haritası aracılığı ile mantığın tarihsel işlevi ve önemini anlamaları sağlanabilir.",
+    "Günlük hayattan basit önermeler ve çıkarımlar yazmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Ülkemizde mantık çalışmalarına katkı sağlayanlar hakkında sunum hazırlamaları sağlanabilir.",
+    "Mantığın tarihsel gelişimde felsefenin rolü üzerine araştırma yapmaları ve metin olarak sunmaları istenebilir.",
+    "Analitik, sentetik, a priori ve a posteriori önermelerin örneklerle açıklanması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarında soru-cevap, kavram haritası, cümle tamamlama, öz değerlendirme formu, akran değerlendirme formu, çalışma kâğıdı ve performans görevi kullanılabilir. Performans Görevi: Öğrenciler mantığın temel kavramsal çerçevesini bir bütün olarak ortaya koymaları için mantığın dil-düşünme ilişkisi temelinde hangi dilsel ifadelerle ilgilendiğini ve mantığa konu olan çıkarımların niteliklerini gösteren bir bilgi görseli hazırlayabilir. Performans görevi bilgilerin doğruluğu ile bilgi görselinin yapısı ve estetiği gibi kriterlerin yer aldığı dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAN.1.1",
+    "Mantık çalışmalarına katkı sağlamış düşünürlerin [Aristoteles (Aristoteles), Farabi, Bernard Russell (Bernart Rasıl), Necati Öner, Teo Gürünberg (Teo Gürünberk)] mantık tanımları öğrencilere verilir ( OB1 ). Öğrencilerden bu tanımlardaki benzerlikleri ve farklılıkları belirleyerek mantığın tanımını yapmaları istenir ( KB2.7 ). Öğrencilerin formel bir bilim olarak mantığı nasıl tanımladıkları hakkında kısa bir yansıtma yazısı yazması sağlanır ( E3.5 ). Ülkemizde mantık çalışmalarına katkı sağlandığını fark eder ve medeniyetin gelişimine katkısı olanların değerini bilir ( D15.2 ). Mantık hatalarını içeren hikâye ya da diyaloglar verilerek öğrencilerin ilgili mantık hatalarını bulmaları, mantıklı olmanın koşulları ve mantık hakkında soru sormaları sağlanır ( E1.1 , E3.8 , SDB2.3 ). Süreçte soru-cevap öğretim yöntemi kullanılabilir. Öğrencilerden iş birlikli olarak mantıklı olmanın koşulları ve mantık biliminin özellikleri hakkında güvenilir kaynaklardan araştırma yapmaları ve edindikleri bilgileri sınıfta paylaşmaları istenir ( E2.3 , KB2.6 ). Öğrenciler araştırmalarını planlarken açık ve ulaşılabilir hedefler belirler, zamanı etkili kullanır, görev ve sorumlulukları paylaşır ( D3.2 ). Öğrencilere mantıklı olmanın koşullarını (formel dil kullanımı, çıkarım kurallarına uyma, yanlışın ne olduğunu bilme, konuşma dilinin formelleştirilmesi ve formel dilin işleyiş kuralları) ve mantık biliminin özelliklerini (formel ve nesnel bir dile sahip olması, mantıksal düşünme/çıkarım kurallarına sahip olması ve denetlenebilir olması) açıklayan bilgi notu verilir. Öğrenciler araştırma sonuçlarını bilgi notuyla karşılaştırarak değerlendirir ( OB1 , KB2.7 ). Mantığın formel bir bilim olduğuna ilişkin çıkarım yapar ( KB2.10 ). Bu aşamada kavram haritası veya cümle tamamlama çalışmaları yaptırılabilir. Süreçte öz veya akran değerlendirme formu kullanılabilir.",
+    "MAN.1.2",
+    "Öğrencilere Antik Yunan, Orta Çağ, Yeni Çağ, Aydınlanma Çağı ile 19. yüzyıldan günümüze uzanan dönemin karakteristik özelliklerini; mantığın tarihsel gelişimini, felsefe, teoloji, doğa bilimleri, matematik ve teknoloji ile olan etkileşimine yönelik açıklamaların ve açık uçlu soruların yer aldığı çalışma kâğıdı verilir. Çalışma kâğıdında söz konusu dönemlerde mantığın gelişimine etki eden unsurların belirlenmesi, bunların sınıflandırılması ve mantığın tarihsel dönemlerdeki işlevi hakkında çıkarımda bulunmaları sağlanır ( E1.3 , E3.7 , KB2.5 ). Çalışmada günümüzde hangi alanlarda mantık bilimine ihtiyaç duyulduğu, bu durumun mantığın gelişimini nasıl etkilediği ve mantığın medeniyet kurucu özelliği hakkında yorum yapılması sağlanır ( KB2.14 ). Bu aşamada küçük grup tartışma öğretim tekniği kullanılabilir. Süreçte öğrenciler birbirlerinin sözünü kesmeden etkin bir şekilde dinler ( SDB2.1 , D14.1 ). Çalışma kâğıdındaki cevaplar puanlama anahtarı ile değerlendirilebilir.",
+    "MAN.1.3",
+    "Öğrencilere toplumsal konularla ilgili çeşitli istatistiksel bilgiler (göç, nüfus projeksiyonları vb.) ve bu bilgilerden yapılandırılmış tümce, önerme, yargı ve çıkarım örnekleri verilir, öğrencilerin iş birlikli olarak kendi örneklerini vermeleri sağlanır ( E1.1 , SDB2.2 , OB7 ). Öğrenciler grup çalışmasında uyumlu olur ( D10.3 ). Grup üyelerine nazik davranır, farklı görüşlere saygı duyar, alternatif fikirleri değerlendirir ve ortak düşünce oluşturur ( D4.1 , D5.1 ). Öğrencilerin Aşık Veysel’in “Aklımın Evine Vardım” şiiri üzerinden akıl yürütme ve sistemli düşünmede mantığın rolü ve önemi hakkında çıkarım yapmaları sağlanır. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Öğrencilere mantıksal çıkarımın ayırt edici özelliklerinin (formellik, nesnellik ve denetlenebilirlik) yer aldığı bilgi notu verilir. Öğrencilerin kültürel, sosyal, bireysel, antropolojik, psikolojik veya günlük deneyimlere dayalı mantıksal çıkarım örnekleri vermeleri sağlanır. Mantığın temel kavramsal çerçevesini bir bütün olarak ortaya koymaları için öğrencilerin iş birlikli olarak bir çalışma yapmaları sağlanır. Bu çalışmada öğrencilerden mantığın dil–düşünme ilişkisi bağlamında hangi dilsel ifadelerle ilgilendiğini ve mantığa konu olan çıkarımların niteliklerini gösteren bir bilgi görseli hazırlamaları istenir ( E1.4 , E3.7 ). Bu performans görevi olarak kabul edilir ( E2.2 ). Performans görevi bilgilerin doğruluğu ile bilgi görselinin yapısı ve estetiği gibi kriterlerin yer aldığı dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilebilir ( E3.10 ). Öğrenciler performans çalışmasında görev bilinci ile hareket eder, ödev ve sorumluluklarını yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1637"
+}

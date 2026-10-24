@@ -1,0 +1,42 @@
+{
+  "unitId": 81783001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "1. ÜNİTE: KÜLTÜRDEN KAVRAMA ADABIMUAŞERET",
+  "hours": "3",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.1.1",
+      "title": "Adabımuaşereti ve temel kavramlarını açıklar",
+      "processComponents": [
+        "Edep, görgü, terbiye, medenilik, sabır, zarafet ve nezaket kavramlarına örneklerle yer verilir."
+      ]
+    },
+    {
+      "code": "ADM.1.2",
+      "title": "Adabımuaşeretin felsefi, kültürel ve dinî dayanaklarını örneklerle açıklar",
+      "processComponents": [
+        "Adabımuaşeretin bireysel ve toplumsal hayattaki yeri ve önemi üzerinde durulur.",
+        "İslamiyet Öncesi Dönem'de, Türk İslam devletlerinde, Osmanlıda ve Cumhuriyet Dönemi'nde Türk kültüründen adabımuaşeret örneklerine yer verilir.",
+        "Dede Korkut Hikâyeleri, Kutadgu Bilig, Divânu Lugati't-Türk adlı eserlerde ve Türk tasavvuf kültüründe yer alan adabımuaşeret örneklerinin karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "ADM.1.3",
+      "title": "Farklı kültürlerden adabımuaşeret ile ilgili örnekler verir",
+      "processComponents": [
+        "Ülkelere göre farklı adabımuaşeret uygulamalarından örneklere yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

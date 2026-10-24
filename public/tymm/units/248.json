@@ -1,0 +1,195 @@
+{
+  "unitId": 248,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "2. ÜNİTE: ELEKTRİK VE MANYETİZMA",
+  "hours": "48",
+  "description": "Bu ünitede öğrencilerin elektrik motorları ve elektrik jeneratörleri arasındaki ilişki ile transformatörlerin yapısı ve kullanımı hakkında çıkarım yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "FİZ.11.2.1.Elektrik yükleri arasındaki elektriksel kuvvetin matematiksel modeline yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Elektrik yükleri arasındaki elektriksel kuvvetin bağlı olduğu değişkenler arasındaki keşfettiği ilişkiyi matematiksel olarak modeller.",
+        "b) Elektrik yükleri arasındaki elektriksel kuvvetin matematiksel modeli üzerinden genellemeler yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.2",
+      "title": "Elektriksel alanın matematiksel modeline yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Elektrik yüklerinin oluşturduğu elektriksel alana ilişkin keşfettiği etmenler arasındaki ilişkiyi matematiksel olarak modeller.",
+        "b) Elektrik yüklerinin oluşturduğu elektriksel alanın matematiksel modeli üzerinden genellemeler yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.3",
+      "title": "Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili bilgiye ulaşmak için kullanacağı kaynakları belirler.",
+        "b) Belirlediği kaynağı kullanarak Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili bilgileri bulur.",
+        "c) Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Faraday kafesi ve Faraday kafesinin kullanım alanları ile ilgili ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.4",
+      "title": "Mıknatısların birbiriyle etkileşimine yönelik bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Mıknatısların birbiriyle etkileşimiyle ilgili nitelikleri tanımlar.",
+        "b) Mıknatısların birbiriyle etkileşimiyle ilgili verileri toplayarak kaydeder.",
+        "c) Mıknatısların birbiriyle etkileşimiyle ilgili verileri manyetik alan çizgileriyle açıklar."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.5",
+      "title": "Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alana ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alana ilişkin matematiksel modeli bulur.",
+        "b) Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alana ilişkin matematiksel modeli geneller."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.6",
+      "title": "Akım makarasının merkez ekseninde oluşan manyetik alanın matematiksel modeline ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Akım makarasının merkez ekseninde oluşan manyetik alana ilişkin keşfettiği ilişkiyi matematiksel olarak modeller.",
+        "b) Akım makarasının merkez ekseninde oluşan manyetik alanın matematiksel modeli üzerinden genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.7",
+      "title": "Elektromıknatısların kullanım alanlarına ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Elektromıknatısların kullanım alanlarıyla ilgili bilgiye ulaşmak için kullanacağı kaynakları belirler.",
+        "b) Belirlediği kaynağı kullanarak elektromıknatısların kullanım alanlarıyla ilgili bilgileri bulur.",
+        "c) Elektromıknatısların kullanım alanlarıyla ilgili ulaştığı bilgilerin doğru olup olmadığını belirler.",
+        "ç) Elektromıknatısların günlük hayattaki kullanım alanlarıyla ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.8",
+      "title": "Manyetik alanda akım geçen düz bir tele etki eden kuvvete ilişkin matematiksel modele yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Manyetik alanda akım geçen düz bir tele etki eden kuvvetin etmenleri arasındaki keşfettiği ilişkiyi matematiksel olarak modeller.",
+        "b) Manyetik alanda akım geçen düz bir tele etki eden kuvvete ilişkin matematiksel model üzerinden genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.9",
+      "title": "Manyetik alanda akım geçen düz bir tele etki eden kuvvet ile ilgili deneyimini elektrik motorlarının çalışma prensibine yansıtabilme",
+      "processComponents": [
+        "a) Manyetik alanda akım geçen düz bir tele etki eden kuvvet ile ilgili deneyimini gözden geçirir.",
+        "b) Deneyimine dayalı olarak manyetik alanda akım geçen dikdörtgen telin bir eksen etrafında dönmesi hakkında çıkarım yapar.",
+        "c) Yaptığı çıkarımları elektrik motorlarının çalışma prensibi açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.10",
+      "title": "Manyetik akıya etki eden etmenleri çözümleyebilme",
+      "processComponents": [
+        "a) Manyetik akıya etki eden etmenleri belirler.",
+        "b) Manyetik akıya etki eden etmenler arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.11",
+      "title": "İndüksiyon geriliminin matematiksel modeline ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) İndüksiyon geriliminin oluşmasında keşfettiği etmenler arasındaki ilişkiyi matematiksel olarak modeller.",
+        "b) İndüksiyon geriliminin matematiksel modeli üzerinden genellemeler yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.12",
+      "title": "İndüklenme sonucu oluşan alternatif (değişken) akım hakkında bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) İndüklenme sonucu oluşan alternatif akımı etkileyen etmenleri belirler.",
+        "b) İndüklenme sonucu oluşan alternatif akımı etkileyen etmenler arasındaki ilişkiyi belirlemek üzere veri toplayarak kaydeder.",
+        "c) İndüklenme sonucu oluşan alternatif akımı topladığı verilerden yola çıkarak yorumlayıp değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.11.2.13",
+      "title": "Transformatörün yapısı ve kullanım alanlarına yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Transformatörün niteliklerini deney yaparak tanımlar.",
+        "b) Transformatörlerin kullanım alanlarına yönelik topladığı verileri kaydeder.",
+        "c) Elde ettiği verilerden yola çıkarak transformatörün kullanım alanlarındaki rolünü yorumlar ve değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "elektriksel kuvvet, elektriksel alan, manyetik alan, manyetik kuvvet, manyetik akı, indüksiyon akımı, indüksiyon gerilimi, alternatif akım, transformatör",
+  "support": [
+    "Deney tasarlama, veri toplama, veri işleme ve sonuca varma süreçlerinde deneyin yapılışına dönük adım adım yönergeler ve hazır veri toplama şablonları kullanılabilir."
+  ],
+  "enrichment": [
+    "Ferromanyetik, diyamanyetik ve paramanyetik maddelerin özellikleri ve manyetik alanla etkileşimleri araştırılabilir. Yüksek gerilim hatları ve trafoların etrafında oluşan manyetik alanın veya elektrikli cihazlar kullanılırken oluşan manyetik alanın sağlığa etkileri araştırılabilir.",
+    "*Elektrik jeneratörlerinde manyetik akı değişimiyle elektrik elde edilmesine ve cevher tespitinde metal dedektörlerin kullanılmasına yönelik uygulamalara yer verilebilir.",
+    "*STEM basamaklarını uygulayarak transformatörlerde elektrik gerilimini yükseltip alçaltma işlemine dayalı bir düzenek kurulabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; soru kutusu, test (açık uçlu maddeler), sunu, çıkış kartı, deney tasarlama, çalışma yaprağı, basit elektrik motoru tasarlama, bilgi görseli kullanılarak değerlendirilebilir.",
+    "Elektrik yükleri arasındaki kuvvetin matematiksel modeline ulaşmaları için farklı madde türlerinden oluşan bir soru kutusu hazırlama ve elektriksel alanın matematiksel modelini tanımlayabilmeleri için açık uçlu maddelerden oluşan bir test verilebilir. Faraday kafesi ve kullanım alanları ile ilgili bir performans görevi verilebilir. Mıknatısların oluşturduğu manyetik alan ve özellikleri manyetik alan çizgileriyle sorgulamak için bir çıkış kartı verilebilir. Ørsted'in deneyi ile benzerlik gösteren bir deney tasarlama performans görevi verilebilir. Akım makarasının merkez ekseninde oluşan manyetik alan ve elektromıknatısların kullanım alanları ile ilgili farklı soru maddelerinden oluşan bir çalışma yaprağı verilebilir. Manyetik alanda akım geçen tele etki eden manyetik kuvvet ve büyüklüğünü etkileyen faktörler hakkında deney ve basit bir elektrik motoru tasarlamaları ile ilgili performans görevleri verilebilir. Manyetik akı ile değişkenleri ve indüksiyon akımının matematiksel modeline ulaşabilmeleri için açık uçlu maddelerden oluşan bir test verilebilir. İndüksiyon akımı ile alternatif akım arasındaki ilişkiye yönelik grafik ve açık uçlu maddelerden oluşan bir çalışma yaprağı verilebilir. Transformatörün yapısı ve kullanım alanlarına yönelik bilgi görseli hazırlamaları performans görevi olarak istenebilir. Öğrenciler soru kutusu, test, çıkış kartı, çalışma yaprağı, puanlama anahtarı ile değerlendirilebilir. Performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmelerde öz/akran/grup değerlendirmesi yapılarak çeşitlilik sağlanabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.11.2.1",
+    "Öğretmen bu çıktının öğretiminde 5E öğrenme modelinden yararlanabilir. Öğretmen, öğrencilere otomobillerin üretim aşamasında homojen olarak boyanması veya fotokopi makinelerinde bir metnin çoğaltılması ile ilgili sorular sorabilir. Öğretmen elektriksel kuvvetin günlük hayattaki rolünden bahsederek bu tür uygulamalarda elektriksel kuvvetin önemini vurgulayabilir. Öğrencilerin konuya yönelik ilgileri çekilir ve yeni öğreneceği bilgilere ihtiyaçları olduğunu fark etmeleri sağlanır ( E1.1 , SDB1.1 ) . Öğretmen rehberliğinde öğrenciler gruplara ayrılır ( SDB2.2 ) . Öğrencilere noktasal yükler arasındaki elektriksel kuvvetin büyüklüğünün bağlı olduğu faktörlere yönelik sorular sorularak gruplardan iş birliği ( SDB2.2 ) ile hipotezler oluşturmaları istenir. Gruplar etkileşimli bir simülasyon aracılığıyla veri toplayarak tablo şeklinde kaydedebilir. Gruplardan tablodaki verilere dayalı olarak grafikler oluşturmaları, grafikleri kullanarak hipotezlerini desteklemeleri veya yanlışlamaları istenebilir. Gruplar simülasyon, tablo ve grafikler üzerinden topladıkları verilerden yararlanarak ve fikir alışverişinde bulunarak ( SDB2.1 ) elektriksel kuvvetin bağlı olduğu faktörler arasındaki ilişkiyi keşfeder ve bu ilişkiyi matematiksel olarak modeller ( E3.6 , KB2.10 , OB7 ) . Öğretmen Coulomb sabitinden bahsederek öğrencilerin yaptıkları çıkarımları açıklayan matematiksel modelin Coulomb Yasası olarak adlandırıldığını belirtir. Gruplar elektrik yüklü bir yalıtkanı belli mesafelerde elektroskoba yaklaştırarak yapraklarının açılma mesafelerini gözlemleyebilir. Gözlemlerini Coulomb Yasası'yla matematiksel hesaplamalara girmeden açıklayabilir. Öğrenciler, Coulomb Yasası ile ilgili farklı problem durumlarında matematiksel hesaplamalara girmeden uygulamalar yaparak matematiksel modeli geneller. Öğrencilerin Coulomb Yasası'nı kavrama durumları, farklı madde türlerinden oluşan bir soru kutusu hazırlanarak değerlendirilebilir.",
+    "FİZ.11.2.2",
+    "Öğretmen elektrik yüklerinin oluşturduğu elektriksel alanı açıklamak için 5E öğrenme modelinden yararlanabilir. Öğrenciler öğretmen rehberliğinde gruplara ayrılarak ( SDB2.1 ) elektriksel alanın bağlı olduğu faktörler hakkında sorular sorar ( E1.1 ) . Gruplar hipotezlerini oluşturarak not edebilir. Öğrenciler hipotezlerini test edebilecekleri bir simülasyon aracılığıyla ölçümler yaparak verileri tablo şeklinde kaydeder. Öğrenciler, toplanan verilerle oluşturulan grafikleri kullanarak elektriksel alanın bağlı olduğu faktörleri keşfeder ve elektriksel alana ilişkin buldukları ilişkileri öğretmen rehberliğinde matematiksel olarak modeller. Gruplar elektrik yüklü yalıtkan çubuğu belli mesafelerde elektroskoba yaklaştırarak yapraklarının açılma mesafelerini gözlemleyebilir. Öğrenciler gözlemlerini elektriksel alan ile matematiksel hesaplamalara girmeden matematiksel model ile ilişkilendirerek açıklayabilir. Öğrenciler, matematiksel hesaplara girmeden elektriksel alanla ilgili farklı problem türleri üzerinden uygulamalar yaparak matematiksel modeli geneller. Öğrencilerin elektriksel alanı kavrama durumları, farklı madde türlerinin bulunduğu soru kutusu yardımıyla değerlendirilebilir.",
+    "FİZ.11.2.3",
+    "Öğretmen, yolculuk sırasında uçaklara ve kara ulaşım araçlarına yıldırım çarpınca yolcuların etkilenmemesinin, cep telefonlarının asansör içerisinde genellikle baz istasyonuyla bağlantısının kesilmesi ya da MR cihazlarının bulunduğu odaların metal kaplı olmasının nedenleri gibi günlük hayattan örneklerle öğrencilerin dikkatlerini çekebilir. Öğrenciler öğretmen rehberliğinde gruplara ayrılır ( SDB2.1 ) . Öğrenciler konu hakkındaki bilgilere ulaşabilmek için kullanacağı kaynakları (genel ağ, kütüphaneler, dergiler vb.) belirler. Gruplar belirledikleri kaynaklar yoluyla Faraday kafesi ve kullanım alanlarına yönelik bilgilere ulaşır ( SDB1.2 ) . Faraday kafesi ve kullanım alanları hakkında derle nen bilgiler sınıfla paylaşılır. Öğrenciler tartışma ( SDB2.2 ) ortamında topladıkları bilgileri doğrular. Doğruluğu teyit edilen bilgilerden yararlanarak Faraday kafesi ve kullanım alanları ile ilgili sunum hazırlayabilir ( OB1 ) . Öz değerlendirme veya akran değerlendirme formu ile değerlendirme yapılabilir.",
+    "FİZ.11.2.4",
+    "Öğretmen öğrencilere kuşların göç yollarındaki önemli uğrak noktalarından birinin de Türkiye olduğunu vurgulayarak ( D19.3 ) , göç sırasında kuşların veya balina ve yunus gibi hayvanların yön bulma yetenekleri hakkında sorular sorar. Cevaplardan sonra insanların yönlerini bulma yöntemleri hakkında da sorular sorabilir. Bilim ve medeniyet tarihinde yer alan bilim insanlarının pusula ile ilgili yaptıkları çalışmalar hakkında bilgi verebilir. Öğrenciler pusulanın çalışma prensibinden yola çıkarak mıknatısların birbirleriyle etkileşimi ile ilgili nitelikleri tanımlar. Mıknatıs isminin Manisa ili ile olan ilişkisi de vurgulanabilir. Öğrenciler mıknatısların etkileşimlerinin manyetik alan çizgileriyle temsil edilebileceğini gözlemleyebilecekleri bir deney tasarlar ( SDB1.2 ) . Öğrenciler, tasarladıkları deney düzeneği üzerinden manyetik alan büyüklüğüyle alan çizgilerinin sıklığı arasındaki ilişkiyle ilgili verileri toplayıp kaydeder. Öğrenciler mıknatısların birbirleriyle etkileşimiyle ilgili verileri manyetik alan çizgileriyle açıklar. Öğretmen Dünya'nın manyetik alanının ve manyetik alan büyüklüğünün manyetik alan çizgileriyle açıklanabileceğini ifade eder. Mıknatısların oluşturduğu manyetik alan ve özelliklerini sorgulamak için bir çıkış kartı verilebilir.",
+    "FİZ.11.2.5",
+    "Öğretmen okul bahçesinde öğrencilere pusula kullanılan oryantiring (yönbul) gibi bir yarışa veya arama kurtarma faaliyetlerine dayalı bir etkinlik yaptırabilir. Öğrencilere bu tür yarışlarda veya arama kurtarma faaliyetlerinde pusulaların her yerde doğru çalışıp çalışmadığı sorulabilir. Ørsted'in, üzerinden akım geçen bir iletken ve pusula ile yaptığı çalışmalardan bahsedilebilir. Öğretmen rehberliğinde öğrenciler gruplara ayrılarak ( SDB2.1 ) Ørsted'in deneyi ile benzerlik gösteren bir deney tasarlar ( SDB1.2 ) . Manyetik alanın iletkene olan uzaklığı ve elektrik akımının büyüklüğünün değişimi hakkında öğrenci görüşleri alınarak hipotezler kurulur.Öğretmen manyetik alan katsayısı ve sağ el kuralı ile ilgili bilgi verir. Öğrenciler, deney düzeneği üzerinden hipotezlerini test eder ( KB2.19 ) . Manyetik alanın, iletkene olan uzaklığı ve elektrik akımının değişimi ile ilişkisini keşfeder ve matematiksel olarak modeller. Öğrenciler matematiksel hesaplamalara girmeden ulaştıkları matematiksel modelle ilgili problem çözümleri yaparak modeli geneller. Öğrencilere, tasarladıkları deneyle ilgili öz değerlendirme formu verilebilir.",
+    "FİZ.11.2.6",
+    "Öğretmen, düz bir iletken yerine akım makarası kullanılması durumunda oluşacak manyetik alanın yönü ve büyüklüğüne yönelik sorular sorabilir. Akım makarasından geçen akım, sarım sayısı ve akım makarasının boyunda yapılacak değişiklikler sonucu merkez ekseninde oluşan manyetik alandaki değişim hakkında Sokratik sorgulama yöntemini kullanarak öğrencilerin görüşlerini alabilir ve hipotez oluşturmalarını isteyebilir. Öğretmen rehberliğinde öğrenciler gruplara ayrılarak ( SDB2.1 ) vve hipotezlerini test edecekleri deneyler tasarlayarak ( SDB1.2 ) veri toplar. Öğrenciler veri analizine dayalı olarak manyetik alanın büyüklüğünün akım ve uzunlukla olan ilişkisini keşfederek matematiksel modele ulaşır. Matematiksel modele dayanarak akım makarasının merkez ekseninde oluşan manyetik alana yönelik genelleme yapar.",
+    "FİZ.11.2.7",
+    "Öğrenciler öğretmen rehberliğinde gruplara ayrılabilir. Gruplar elektromıknatıslar hakkındaki bilgilere ulaşabilmek için kullanacağı genel ağ, kütüphaneler, dergiler ve uzman kişiler gibi kaynakları belirler. Gruplar belirledikleri güvenilir kaynaklar yoluyla elektromıknatısların kullanım alanlarına yönelik bilgilere ulaşır ( OB1 ) . Öğrenciler, elektromıknatısların kullanım alanları hakkında topladıkları bilgileri akranlarıyla paylaşır. Öğretmen yönlendirici sorular içeren tartışma ortamı sağlayabilir. Öğrenciler toplanan bilgilerin doğru olup olmadıklarını tartışarak belirler ( SDB2.2 ) . Öğretmen, öğrencilerden yönlendirici sorular yardımıyla doğruluğu belirlenen bilgileri kaydederek elektromıknatısların kullanım alanları ile ilgili sunum hazırlamalarını ister. Akım makarasının merkez ekseninde oluşan manyetik alanla ve elektromıknatısların kullanım alanlarıyla ilgili farklı soru maddelerinden oluşan bir çalışma yaprağı verilebilir.",
+    "FİZ.11.2.8",
+    "Öğrencilere, üzerinden akım geçen bir telin çevresinde manyetik alan oluşturduğu hatırlatılır. Öğrencilere, üzerinden akım geçen düz bir tel manyetik alana bırakıldığında manyetik alanın tele etkileri sorulur ( E1.1 ) . Öğretmen manyetik alan içerisindeki akım geçen tele etki eden manyetik kuvvetin telin içerisinde hareketli yüklü parçacıklara etki eden kuvvetten kaynaklandığını vurgular. Öğrencilere iletken bir tel üzerinde manyetik kuvvet oluşmasını sağlayan etmenler hakkında sorular sorulur ( E1.1 ) . Öğrenciler, öğretmen rehberliğinde gruplara ayrılabilir. Gruplar manyetik alanda akım geçen tele etki eden manyetik kuvvet ve büyüklüğünü etkileyen faktörler hakkında bir deney tasarlayarak ( SDB1.2 ) veri toplar. Veri analizine dayalı olarak manyetik kuvvet ve büyüklüğünü etkileyen etmenler arasındaki ilişkiyi keşfeder ve matematiksel modele ulaşır. Öğrenciler manyetik alanda akım geçen tele etki eden manyetik kuvvetin büyüklüğünü etkileyen değişkenlere bağlı matematiksel modeli oluşturabilir. Öğretmen manyetik kuvvetin vektörel olduğundan bahsederek sağ el kuralını açıklar. Öğrenciler her bir değişkeni ayrı ayrı değiştirerek çözdüğü problemler üzerinden, manyetik kuvvet ile değişkenler arasındaki ilişkiyi geneller. Öğrencilerin grup içindeki performanslarını ölçmek üzere öz veya akran değerlendirme formu verilebilir.",
+    "FİZ.11.2.9",
+    "Öğretmen öğrencilere fosil yakıtlı araçların yerlerini elektrikli araçların almaya başladığını ve Türkiye'nin de bu alanda girişimleri ( D19.4 ) olduğunu söyler. Bu konuda güncel ve dikkat çekici haber metinleri öğrencilere gösterilebilir. Öğrencilere elektrikli motorların çalışma prensibi hakkında fikirleri olup olmadığı sorulabilir. Manyetik alandaki akım geçen düz tele etki eden kuvvet ile ilgili önceki bilgi ve deneyimleri hatırlatılır ( KB2.12 ) . Öğrenciler öğretmen rehberliğinde gruplara ayrılır ( SDB2.1 ) . Gruplara elektrik motorlarının iç yapıları ile ilgili görseller dağıtılabilir. Öğrenciler inceledikleri görsellere ( OB4 ) ve deneyimine dayalı olarak manyetik alanda akım geçen dikdörtgen şeklindeki telin bir eksen etrafında dönmesi hakkında çıkarım yapar. Öğrenciler çıkarımlara dayanarak basit bir elektrik motoru tasarlayıp çalıştırır. Görsellerden faydalanarak veya yaptıkları tasarımı kullanarak elektrik motorlarını, çalışma prensibi açısından değerlendirir.",
+    "FİZ.11.2.10",
+    "Öğretmen manyetik akı kavramını kavramsal olarak açıklar. Püskürtme boya ile kâğıt üzerine bir kez boya püskürterek manyetik akı ve püskürtülen boyanın tanecik yoğunluğu arasında analoji kurulabilir. Öğrencilerin analojideki boyanın tanecik yoğunluğunu etkileyebilecek etmenler üzerine düşünmeleri istenebilir. Öğretmen, öğrencilerin manyetik alanın boya gibi taneciklerden oluşmadığını fark etmelerini sağlar. Öğrenciler analojiden yola çıkarak manyetik akıya etki eden etmenleri belirler. Öğrenciler manyetik akının manyetik alanın büyüklüğü ve yüzey alanının büyüklüğü ile olan ilişkisini belirler ( OB4 ) .",
+    "FİZ.11.2.11",
+    "Öğretmen, öğrencilere Türkiye'de Atatürk Barajı ve Keban Barajı gibi elektrik üreten hidroelektrik santrallerin olduğunu belirterek suyun mekanik enerjisinin elektrik enerjisine dönüştürülmesine yönelik sorular sorar ( D19.4 ) . Öğretmen barajlarda olduğu gibi öğrencilerin de mekanik enerjiyle elektrik üretebileceklerini belirtebilir. Öğrenciler, öğretmen rehberliğinde gruplara ayrılabilir. Öğrenciler mekanik enerjiden elektrik üretebilecekleri basit araç gereçle yapılabilen bir düzenek tasarlar ( SDB1.2 ) . TTasarladığı düzenek üzerinden indüksiyon akımı oluşturabilir ve indüksiyon akımını etkileyen etmenleri tespit edebilir. Öğrenciler birim zamandaki manyetik akı değişiminin indüksiyon akımını oluşturduğunu fark eder. İndüksiyon akımının indüksiyon gerilimi ile birlikte oluştuğunu keşfederek indüksiyon geriliminin matematiksel modeline ulaşır. Oluşturduğu matematiksel modeli örnekler üzerinden geneller. Öğretmen, manyetik akı ve indüksiyon akımı ile ilgili dijital içerikler kullanarak öğrencilerden yaptıkları genellemeleri dijital içeriklerdeki gözlemleri ile karşılaştırarak değerlendirmelerini isteyebilir. Manyetik akı ve indüksiyon geriliminin matematiksel modeline yönelik açık uçlu maddelerden oluşan bir test verilebilir.",
+    "FİZ.11.2.12",
+    "Öğrencilere indüksiyon akımıyla ilgili önceki öğrenmeleri hatırlatılabilir. Öğrencilerin manyetik alandaki tel çerçeve bir tam turunu tamamlarken akımın büyüklüğü ve yönünün değişimini sorgulaması sağlanır. Öğretmen zamanla değişkenlik gösteren bu akımın alternatif (değişken) akım olarak adlandırıldığını ifade eder. Öğrenciler alternatif akımı etkileyen etmenleri öğretmenin yönlendirici soruları yardımıyla belirler. Öğrenciler indüksiyon akımının oluşturulabileceği bir deney tasarlar ( SDB1.2 ) . Deney sırasında LED lambanın parlaklığını gözlemleyerek indüklenme sonucu oluşan alternatif akımı etkileyen etmenler arasındaki ilişki ile ilgili verileri kaydeder. Kaydettikleri verilere dayalı olarak öğrenciler indüklenme sonucu oluşan alternatif akımı yorumlayarak değerlendirir ( OB7 ) . İİndüksiyon akımı ile alternatif akım arasındaki ilişkiye yönelik grafik ve açık uçlu maddelerden oluşan bir çalışma yaprağı verilebilir.",
+    "FİZ.11.2.13",
+    "Öğretmen, elektrik üretim santrallerinde üretilen elektriğin taşınması sırasında harcanan elektrik enerjisi miktarının iletkenlerin direncine bağlı olarak değiştiğini belirtir ( OB8 ) . Öğrencilere bu kaybı azaltmanın en verimli yolları sorularak verilen cevaplar doğrultusunda toplum yararına ( SDB2.3 ) en verimli yolun, elektriğin en düşük akımlarla taşınması olduğu sonucuna varmaları sağlanır ( D17.2 , KB3.2 ) . Öğretmen transformatörü tanıtarak tartışma ortamı oluşturur. Tartışma sonucunda öğrenciler transformatörün birincil gerilim, birincil akım, ikincil gerilim, ikincil akım ve sarım sayısı gibi niteliklerini tanımlar. Öğrenciler bu nitelikler arasındaki ilişkileri deneylerle veri toplayarak ortaya koyar ( SDB1.2 ) ve verileri kaydeder. Transformatörlerin nitelikleri arasındaki ilişkilere yönelik yorumlamalarla sınırlı kalınır. Matematiksel işlemlerden kaçınılır. Öğrenciler transformatörlerin kullanım alanlarını araştırarak kullanım alanlarındaki rolünü yorumlar ve değerlendirir. Transformatörlerin nitelikleri arasındaki ilişkilere yönelik açık uçlu maddelerden oluşan bir çalışma yaprağı verilebilir. Öğrencilerden performans görevi olarak transformatörün yapısı ve kullanım alanlarına yönelik bilgi görseli hazırlamaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D17.2",
+      "D19.3",
+      "D19.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.12",
+      "KB2.19",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/248"
+}

@@ -1,0 +1,30 @@
+{
+  "unitId": 94032907,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "7. ÖĞRENME ALANI: KESİRLERLE İŞLEMLER",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.4.1.7.1",
+      "title": "Paydaları eşit kesirlerle toplama ve çıkarma işlemi yapar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.7.2",
+      "title": "Kesirlerle toplama ve çıkarma işlemlerini gerektiren problemleri çözer",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sayılar ve İşlemler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

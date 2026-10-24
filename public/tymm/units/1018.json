@@ -1,0 +1,48 @@
+{
+  "unitId": 1018,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "1. TEMA: KOROYU TANIYALIM",
+  "hours": "",
+  "description": "Temada öğrencilerin yaş gruplarına göre oluşan koro türlerinin özelliklerini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.2.1.1",
+      "title": "Yaş gruplarına göre oluşan koro türlerini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "çocuk korosu, gençlik korosu, yetişkin korosu",
+  "support": [
+    "Öğrencilerin yaş gruplarına göre oluşan koro türlerini kavramalarına yönelik daha fazla görüntülü materyal kullanılarak, hazır bilgi kartları verilerek süreç desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler yaşadıkları il veya ilçede çeşitli kurumlar bünyesinde faaliyet gösteren çocukkorolarında görev almaya yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı, performans görevi kullanılarak değerlendirilebilir. Öğrencilere yaş gruplarına göre oluşan koro türlerini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.2.1.1 Soru-cevap tekniğiyle öğrencilerin koronun tanımına yönelik bilgilerini hatırlamaları sağlanır. Yaş gruplarına göre oluşan, \"çocuk korosu\", \"gençlik korosu\", \"yetişkin korosu\" gibi koro türleri ile ilgili sınıfta çeşitli görsel, işitsel ve görüntülü materyaller paylaşılarak öğrencilerin konuyu merak etmeleri sağlanır ( E1.1 , OB4 , TAB1 ). Paylaşılan her materyalin ardından kısa bir açıklama yapılır ve öğrencilerden ilk izlenimlerini paylaşmaları istenebilir. \"Sizce izlediğiniz koroların yaş grubu açısından birbirinden farkı nedir? Çocuk korosunun diğer korolardan farkı nedir? Gençlik korosunun diğer korolardan farkı nedir? Yetişkin korosunun diğer korolardan farkı nedir?\" gibi sorular sorularak öğrencilerin yaş gruplarına göre oluşan koro türleri ile ilgili düşüncelerini sınıf içinde ifade etmeleri beklenir ( D3.3 , E3.8 , SDB2.1 ). Sonra bu koroların özellikleri açıklanır. Öğrencilere yaş gruplarına göre oluşan koro türlerini açıklayabilmelerine yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ],
+    "diger": [
+      "TAB1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1018"
+}

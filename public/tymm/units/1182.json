@@ -1,0 +1,61 @@
+{
+  "unitId": 1182,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "3. TEMA: KAVALDA TEMEL DAVRANIŞLAR 1",
+  "hours": "11",
+  "description": "Tema içeriğini kavalda duruş, tutuş ve parmak pozisyonu gibi teknik özellikler oluşturmaktadır. Bu doğrultuda kavalda doğru duruş ve tutuş pozisyonu ile ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.2.3.1",
+      "title": ". Kavalın nasıl tutulacağını yorumlayabilme",
+      "processComponents": [
+        "a) Kavalın nasıl tutulacağını inceler.",
+        "b) Kavalın nasıl tutulacağını fiziksel özelliklerine göre uygular.",
+        "c) Kavalın nasıl tutulacağını fiziksel özelliklerine ifade eder."
+      ]
+    },
+    {
+      "code": "KVL.2.3.2",
+      "title": "Kaval üzerinde parmakların pozisyonunu yorumlayabilme",
+      "processComponents": [
+        "a) Kaval üzerinde parmakların alması gereken şekli inceler.",
+        "b) Kaval üzerinde parmakların alması gereken şekli fiziksel özelliklerine göre uygular.",
+        "c) Kaval üzerinde parmakların alması gereken şekli fiziksel özelliklerine göre ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "duruş, parmak pozisyonu, teknik, tutuş",
+  "support": [
+    "Bu süreçte, görsel materyaller ve video kayıtları izlettirilerek öğrencilerin motivasyonu arttırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazırbulunuşluk düzeyine göre değerlendirilerek sade ve basitten karmaşığa doğru düzenlenebilir. Kavalda doğru duruş ve tutuş pozisyonunu anlatan görseli öğrencilerin taklit etmesi istenip süreç eğlenceli hâle getirilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin Türkiye'deki ve dünyadaki farklı müzikal geleneklerde kavalın tutuş biçimlerinin nasıl farklılıklar gösterdiğini incelemeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz/akran veya grup değerlendirmeleri, gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla kavalın nasıl tutulacağını gösteren poster veya sunum hazırlamaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi veya dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KVL.2.3.1",
+    "Doğru oturma pozisyonu öğrencilere uygulamalı olarak gösterilip vücudun alması gerektiği şeklin öğrenciler tarafından incelenmesi sağlanır ( SDB2.1 , D3.3 ). Ardından öğrencilerin fiziksel uygunluklarına göre kaval boyutu seçip, doğru oturma pozisyonunda vücudun alması gereken şekli fiziksel uygunluklarına göre uygulayıp, ifade etmeleri ve sunmaları sağlanır. Daha sonra doğru duruşun hem sağlık hem de çalgı çalarken performans açısından büyük önem taşıdığına değinilir ( E3.7 , OB4 ). Süreç sonunda bireysel veya grup çalışması yoluyla kavalı tutarken vücudun alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir ( OB2 ). Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi, gözlem formu veya dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "KVL.2.3.2",
+    "Doğru oturma pozisyonu öğrencilere uygulamalı olarak gösterilip vücudun alması gerektiği şeklin öğrenciler tarafından incelenmesi sağlanır ( SDB2.1 , D3.3 ). Ardından öğrencilerin fiziksel uygunluklarına göre kaval boyutu seçip, doğru oturma pozisyonunda parmakların alması gereken şekli fiziksel uygunluklarına göre uygulayıp, ifade etmeleri ve sunmaları sağlanır ( E3.7 , OB4 ). Süreç sonunda bireysel veya grup çalışması yoluyla kavalı tutarken parmakların alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir ( OB2 ). Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi, gözlem formu veya dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1182"
+}

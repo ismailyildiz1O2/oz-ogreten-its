@@ -1,0 +1,36 @@
+{
+  "unitId": 81783003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "3. ÜNİTE: AİLEDE ADABIMUAŞERET",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.3.1",
+      "title": "Aile içi tutum ve davranışlarında adabımuaşerete uygun davranmaya özen gösterir",
+      "processComponents": [
+        "Aile içi ilişkilerde sevgi ve saygının önemi vurgulanır.",
+        "Ailede mahremiyetin gözetilmesinin önemi üzerinde durulur.",
+        "Kur'an-ı Kerim ve sünnette anne babaya hürmet ile ilgili örneklere yer verilir."
+      ]
+    },
+    {
+      "code": "ADM.3.2",
+      "title": "Akrabalık ilişkilerinde adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Sevinçte (doğum, nişan, evlilik vb.) ve üzüntüde (ölüm, kaza vb.) aile bireyleriyle bir araya gelinmesinin önemi üzerinde durulur.",
+        "Sılayırahmin önemi üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

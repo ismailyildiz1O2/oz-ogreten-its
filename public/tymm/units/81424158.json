@@ -1,0 +1,34 @@
+{
+  "unitId": 81424158,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "158. ÜNİTE: DRAMA - DRAMA VE SINIF DIŞI ÖĞRENME ORTAMLARI",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.2.6.1",
+      "title": "Sınıf dışındaki ortamlarda drama süreçlerine katılmaya istekli olur",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.2.6.2",
+      "title": "Müze ve galerilerden drama ortamı olarak yararlanabileceğini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.2.6.3",
+      "title": "Müze ve galerilerde bulunan nesnelerden yola çıkarak doğaçlamalar uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

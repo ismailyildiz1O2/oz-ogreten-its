@@ -1,0 +1,54 @@
+{
+  "unitId": 1171,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "4. TEMA: GİTARDA TÜRKÜ DÜZENLEMELERİ ÇALIŞIYORUM",
+  "hours": "16",
+  "description": "Temada öğrencilerin gitar üzerinde türkü düzenlemelerini çalabilmeleri amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "GTR.7.4.1",
+      "title": "Gitarda türkü düzenlemeleri çalabilme",
+      "processComponents": [
+        "a) Verilen türküleri çözümler.",
+        "b) Çalgıya özgü duruş, tutuş pozisyonunu alır.",
+        "c) Türkü düzenlemeleri çalarken gitara özgü teknikleri kullanır.",
+        "ç) Türkü düzenlemeleri çalarken müziksel bileşenlerine uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "akor, armoni, gitar, ritim, tempo",
+  "support": [
+    "Destekleme sürecinde öğrencilere çalacakları türkülerin melodik ve ritmik yapısını daha iyi anlamaları için öncelikle yavaş tempoda dinleme ve takip etme çalışmaları yaptırılabilir. Öğrenciler, eseri notalar veya sözler üzerinden takip ederken öğretmen tarafından ölçü ölçü açıklamalar yapılabilir. Türkülerin temel melodileri önce sadece tek sesli olarak çalışılabilir."
+  ],
+  "enrichment": [
+    "Türkülerin ritmik yapıları değiştirilerek öğrencilerin farklı vuruş teknikleri ile denemeleri teşvik edilebilir. Öğrenciler, çaldıkları türkünün hangi makamda olduğunu belirleyerek bu makamla ilgili daha fazla bilgi edinebilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilerin nihavend, kürdi ve hüseyni makamlarının teorik ve pratik özelliklerini öğrenmeleri; bu makamların ses dizilerini gitar üzerinde doğru pozisyonda icra etmeleri, makamların duygusal ve müzikal ifadelerini analiz etmeleri, her bir makama özgü eserler üzerinde çalışarak bu eserleri müziksel bileşenlere uygun şekilde çalmaları ve grup çalışmalarında ritim, melodi ve armoni uyumunu sergilemeleri istenebilir. Performans görevi, dereceli puanlama anahtarı, akran değerlendirme formları veya gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.7.4.1",
+    "Öğrenciler, dijital kaynakları kullanarak öğrendikleri türküyü listeler ( OB2 ). Türküler üzerinde çalışmaya başlamadan önce, türkünün ana melodisini ve ritmik yapısını nota üzerinden inceleyerek gözlemler yaparlar ( KB2.2 ). Öğrenciler, verilen türküyü analiz ederek türkünün akor yapısını, ritmik düzeni ve melodiyi çözümler. Türkü üzerinde çalınacak temel akorlar ve ritmik kalıplar öğrencilere tanıtılır. Öğrenciler, öğretmenden duydukları türküleri nota üzerinden veya dinleyerek deşifre eder. Öğrenciler, her bir akorun ve melodi çizgisinin nasıl geliştiğini tartışarak anlamaya çalışır ( SDB2.2 ). Öğrenciler çalgıya özgü duruş ve tutuş pozisyonu alır. Çalgıya özgü teknikleri kullanarak her akorun doğru ve temiz ses çıkarması için parmak yerleşimi ve tutuş tekniklerine özen gösterilir. Öğrenciler, gitarı doğru şekilde tutmaya çalışarak ellerinin pozisyonlarını gözden geçirir. Öğretmen, her öğrencinin ellerini gözlemleyerek gerektiğinde düzeltmeler yapar. Türkü düzenlemelerini çalarken öğrencilerin tüm bileşenlerine uygun şekilde çalar. Öğrenciler, çalma sürecinde düzenli planlı ve kararlı bir şekilde ilerler ( D3.2 , D12.3 , E2.2 ). Öğretmen, öğrencilerin ilerlemesini yakından izleyerek gerektiğinde geri bildirimde bulunur ve müzikal tekniklerin doğru bir şekilde uygulanmasını sağlar."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.2"
+    ],
+    "egilim": [
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1171"
+}

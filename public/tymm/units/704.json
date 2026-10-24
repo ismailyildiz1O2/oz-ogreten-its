@@ -1,0 +1,99 @@
+{
+  "unitId": 704,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "1. TEMA: SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+  "hours": "12",
+  "description": "Bu temada öğrencilerin sağlıkla ilgili fiziksel uygunluk bileşenlerini (kalp-damar sistemi dayanıklılığı, kas kuvveti, kas dayanıklılığı, esneklik ve vücut kompozisyonu) ayırt edip geliştirmeleri, fiziksel uygunluk ve zindelik arasındaki ilişkiyi çözümleyerek sağlıklı yaşam bilinci kazanmaları, fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım ilkelerini uygulayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.6.1.1",
+      "title": "Sağlıkla ilgili fiziksel uygunluğu sağlayabilme",
+      "processComponents": [
+        "a) Sağlıkla ilgili fiziksel uygunluk bileşenlerini açıklar.",
+        "b) Sağlıkla ilgili fiziksel uygunluk bileşenlerini içeren hareketleri uygular.",
+        "c) Sağlıkla ilgili fiziksel uygunluk bileşenlerini geliştirir."
+      ]
+    },
+    {
+      "code": "BES.6.1.2",
+      "title": "Fiziksel uygunluk ve zindelik arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Fiziksel uygunluk ve zindeliğe ilişkin parçaları belirler.",
+        "b) Fiziksel uygunluk ve zindelik arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "BES.6.1.3",
+      "title": "Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını sergileyebilme",
+      "processComponents": [
+        "a) Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını algılar.",
+        "b) Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını gösterir.",
+        "c) Fiziksel aktivite sırasında meydana gelebilecek farklı yaralanma durumlarında temel ilk yardımı uygular."
+      ]
+    },
+    {
+      "code": "BES.6.1.4",
+      "title": "Fiziksel aktiviteye katılımı destekleyen teknolojik araçları belirleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "fiziksel uygunluk ilkeleri, ilk yardım, sağlık, teknoloji, zindelik",
+  "support": [
+    "Fiziksel uygunluk hedefleri doğrultusunda derslerde bireyselleştirilmiş program ile çalışma yapmaları sağlanabilir. Verilen görev kartları aracılığıyla fiziksel uygunluk ve zindelik ilişkisini tekrar etmeleri sağlanabilir. Dijital kaynaklardan temel ilk yardım uygulamaları ile ilgili video ya da animasyon izlemeleri ve derslerde bunları akran desteği ile tekrar etmeleri sağlanabilir. Web 2.0 araçları üzerinden fiziksel aktiviteye katılımı destekleyen araçlar ile ilgili etkileşimli uygulamalara katılmaları istenebilir. Oyunlaştırma uygulamaları yoluyla fiziksel uygunluk hedefleri belirlemeleri sağlanabilir ve çeşitli ödül sistemleriyle motivasyonları artırılabilir."
+  ],
+  "enrichment": [
+    "Fiziksel uygunluk ve zindelik ile ilgili öğrenciler araştırma yapmaya ve elde ettikleri bilgileri sınıf ve okul panolarında paylaşmaya teşvik edilebilir. Ayrıca fiziksel uygunluk seviyesini etkileyen çeşitli faktörleri (bireysel, çevresel vb.) inceleyerek bu faktörlerin önemini tartışmaları sağlanabilir. Öğrencilerden fiziksel uygunluğun kronik hastalıklar üzerindeki koruyucu etkileri ile ilgili yayınları okumaları ve bu bilgileri arkadaşlarıyla paylaşmaları istenebilir. İlk yardım konusunda yalnızca temel uygulamalar yerine kas yırtıkları, burkulmalar, sıcak çarpması gibi daha detaylı senaryoları içeren durumları incelemeleri ve bu durumlara uygun prosedürleri öğrenerek grup hâlinde sunum yapmaları sağlanabilir. Fiziksel aktiviteye katılımı destekleyici giyilebilir teknoloji, yapay zekâ gibi farklı sistemleri araştırmaları ve bunların kullanım alanlarını belirlemeleri istenebilir. Öğrenciler okullarda sağlıklı yaşam tarzının ve fiziksel uygunluğun gelişimine yönelik ulusal ya da uluslararası projelere başvurmaları için yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları açık uçlu sorular, kontrol listesi, beceri testleri, performans görevi ve bütüncüldereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilere performans görevi olarak fiziksel uygunluk ve zindelik ilişkisi ile ilgili görsel materyal ya da kavram haritaları hazırlama verilebilir. Bu performans görevi süreç bileşenlerini içine alan ölçütlerden oluşan bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerden fiziksel uygunluğu destekleyici teknolojik araçları inceleyip belirledikleri bir aracı nasıl kullanabileceklerini paylaşmaya yönelik performans görevi istenebilir. Bu performans görevi derecelendirme ölçeği ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.6.1.1. Öğrencilerin statik ve dinamik esnetme içeren oyun ve fiziksel aktivitelere katılmaları sağlanır ( E2.5 ). Fiziksel uygunluğun sağlıkla ilgili bileşenlerine (kalp-damar sistemi dayanıklılığı, kas kuvveti, kas dayanıklılığı, esneklik ve vücut kompozisyonu) örnekler verilerek öğrencilerin bu bileşenleri fark etmeleri sağlanır. Seçilen bileşen ile ilgili oyun ve fiziksel etkinlikler tasarlanıp öğrencilerin oyunda esneklik, dayanıklılık, kuvvet gibi bileşenleri deneyimlemeleri sağlanır. Oyun ve fiziksel aktiviteler sonrası sorular sorularak öğrencilerden bu bileşenleri açıklamaları istenir. Bu süreç, öğrencilerin seçili fiziksel uygunluk bileşenlerini anlamalarına ve bileşenleri birbirlerine açıklamalarına yardımcı olacak uygun grup görevleri ile devam ettirilir ( E2.2 , D16.3 , SDB2.1 , SDB2.2 ). Fiziksel uygunluk geliştirici oyun türleri (dayanıklılık oyunları, kuvvet oyunları vb.) ya da istasyon çalışmaları açıklanarak öğrencilerin uygulama yapacakları etkinliklere odaklanmaları istenir ( E2.5 , E3.2 ). Bu etkinlikler sırasında fiziksel aktivitenin sıklığı, şiddeti (yoğunluk), süresi ve türü öğretmen tarafından açıklanır. Öğrencilerin fiziksel uygunluğun sağlıkla ilgili bileşenlerini içeren hareketleri oyun ve etkinliklerde uygulaması sağlanır ( D13.2 ). Öğrencilerin farklı yoğunluk, süre ve türlerde kuvvet ve dayanıklılık geliştiren bireysel ve grup çalışmalarına katılmaları sağlanarak öğrencilere kendi seviyelerini görme ve hareketleri tekrar etme fırsatı sunulur ( E1.3 , SDB1.2 ). Bu süreçte hem bireysel hem de grup çalışmaları sürdürülerek öğrencilerin kendi seviyelerine ilişkin farkındalıklarının artması gelişim için hedef koymaları ve bu hedef doğrultusunda belirlenecek fiziksel uygunluk bileşenlerini geliştirmeleri sağlanır ( SDB1.2 , SDB2.2 ). Öğrencilerin fiziksel uygunluğu sağlayabilme durumu, oyun ve fiziksel aktiviteler sırasında gözlemlenerek kontrol listesi ya da bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca fiziksel uygunluk testleri ile öğrencinin fiziksel uygunluk durumu değerlendirilebilir ve ön değerlendirmede gerçekleşen test sonucu ile karşılaştırılması sağlanabilir ( KB2.7 ).",
+    "BES.6.1.2. Öğrenciler gruplara ayrılarak fiziksel uygunluk ve zindelik ilişkisi konularında öğrenme takımları oluşturulur. Her gruba fiziksel uygunluk ve zihinsel sağlık ilişkisi, fiziksel uygunluk ve fiziksel sağlık ilişkisi, fiziksel uygunluk ve duygusal sağlık ilişkisi, fiziksel uygunluk ve sosyal sağlık ilişkisi gibi farklı konular dağıtılarak öğrencilerin ilgili konuda bilgi toplamaları ve ulaşılan bilgileri doğrulamaları sağlanır ( OB1 ). Grubun sorumlu olduğu konu üzerinde çalışarak birbirlerinin öğrenme süreçlerine yardımcı olmaları ve konunun özelliklerini belirlemeleri istenir ( D3.4 , SDB2.2 , SDB3.3 ). Bu süreçte öğrenciler fiziksel uygunluk ve zindelik konularında güvenilir bilgi kaynaklarından araştırma yapmaları konusunda yönlendirilir ( SBAB2 , OB1 ). Grupların bu ilişkiyi deneyim yoluyla pekiştirebilmeleri için önce fiziksel uygunluk geliştirici aktivitelere katılabilecekleri, sonra zindelik ilişkisi kurabileceklerii farklı istasyonlar kurulur ( SDB2.2 ). İlk istasyonda aerobik dayanıklılık çalışmaları yapılır. Öğrenciler belirli bir süre boyunca düşük ya da orta yoğunlukta aktivitelere dâhil edilerek öğrencilerin kalp atış hızları artırılır ve bu aktivitenin etkisini gözlemlemeleri sağlanır. İkinci istasyonda kas kuvveti ve dayanıklılığına yönelik hareketlerin şınav, plank veya direnç bantları kullanılarak yapılması sağlanır. Bu istasyonda öğrencilerden kas gücü ve dayanıklılıklarını artırmaları beklenir. Üçüncü istasyonda ise esneklik üzerine odaklanılır. Öğrencilerin pilates, yoga veya farklı tür esnetme çalışmalarıyla (dinamik, statik vb.) esnekliklerini geliştirmeleri sağlanır. İstasyonlar tamamlandıktan sonra vücut kompozisyonu ve zindelik ilişkisi de konuya dâhil edilerek öğrencilerin fiziksel uygunluk gelişimine bağlı zindelik gelişimini farklı yönleriyle tartışmaları ve arasındaki ilişkiyi belirlemeleri sağlanır ( D13.2 , KB2.18 , SDB2.1 ). Süreç sonunda öğrencilerden zindelik gelişimini destekleyen sağlıklı yaşam alışkanlıkları (düzenli fiziksel aktiviteye katılım, ekran süresini azaltma, dengeli beslenme, yeterli uyku vb.) ile ilgili örnekler vermeleri ve kendilerine hedefler koymaları istenir ( SDB1.2 , D13.1 , E3.2 ). Öğrencilere yedi günlük zindelik hedeflerini ve fiziksel aktivite yapma durumlarını içeren kontrol listesi dağıtılır. Listeye önce zindelik hedeflerini; sonra da bir hafta boyunca fiziksel aktivite, uyku ve ekran süresi bileşenlerini yazmaları istenir. Öğrencilerden üzerlerine düşen görevleri kuralına uygun şekilde gerçekleştirmeleri beklenir ( OB7 , E1.3 , E2.2 , D6.2 ). Öğrencilere bu hedeflerine ulaştıkça fiziksel uygunluk ve zindelik seviyelerinin artacağı ve böylece fiziksel aktiviteye daha öz güvenle katılacakları hatırlatılır. Öğrencilerin fiziksel uygunluk ve zindelik ilişkisini çözümleyebilme durumu açık uçlu sorular ile değerlendirilebilir.",
+    "BES.6.1.3. Öğrencilerden fiziksel aktivite sırasında meydana gelebilecek yaralanmalar ve bu durumlarda temel ilk yardım ilkelerinin neler olabileceği ile ilgili merak ettiklerini sormaları istenir ( E1.1 , E3.8 ). Yaralanmaları önlemek ya da azaltmak için ısınma-soğuma, esnetme, uygun ekipman kullanımı, dinlenme, beslenme gibi önleyici tedbirlerin neler olabileceği üzerinde durulur. İlk yardım ilkeleri konusunda bilgi verilirken öğrencilerin geçmiş yaşantılarından hareketle çeşitli yaralanma senaryoları oluşturmaları ve farklı durumlarda yapmaları gereken temel ilk yardım aşamalarını görmeleri sağlanır ( SDB1.1 , SDB1.2 , E3.2 ). Öğrencilerin küçük gruplar hâlinde fiziksel aktiviteler sırasında yaşanılan burkulma, çıkık, kanama, kırık, solunum yolu tıkanıklığı gibi farklı durumlara ilişkin çalışma yaprakları hazırlanır, içerik ile ilgili simülasyon uygulamaları için istasyonlar kurulur ve ortak hedeflere ulaşmak için arkadaşlarıyla dayanışma içinde olmaları sağlanır ( SDB2.1 , SDB2.2 , D4.1 ). Her bir istasyonda öncelikle temel ilk yardım uygulamaları gösterilir ve öğrencilerin fiziksel aktivite sırasında meydana gelebilecek yaralanmalarla ilgili temel ilk yardım uygulamalarını algılamaları sağlanır. Öğretmen rehberliğinde her istasyonda yaralanma türlerine yönelik uygulama yapılarak öğrencilerin uygulamaları sırasıyla göstermeleri istenir ( SDB3.2 ). Kesik veya sıyrığa bağlı kanama durumunda (1) temizleyin, (2) baskı uygulayın, (3) temiz bir bandaj ile yarayı kapatın ya da burkulma durumunda (1) hareket ettirmeyin, (2) soğuk uygulama yapın, (3) bandaj ya dabezle sarın, (4) yaralı uzvu kalp hizasında yukarıda tutun gibi aşamalar öğrencilere açıklanır ve öğrencilerin ilk yardım uygulamalarını göstermeleri sağlanır. Gruplardan kendi istasyonlarındaki uygulamaları bitirdikten sonra diğer istasyona geçip oradaki yaralanma türüne uygun şekilde temel ilk yardım uygulamalarını farklı durumlarda uygulamaları beklenir ( SDBS3.1 ). Öğrencilerin uygulama süreçlerindeki performanslarının değerlendirilmesi için bütüncül dereceli puanlama anahtarı kullanabilir.",
+    "BES.6.1.4. Fiziksel aktiviteye katılımı destekleyen teknolojik araçlardan bazıları (akıllı saat, adımsayar, mobil uygulamalar, web 2.0 araçları, giyilebilir teknolojiler, yapay zekâ vb.) öğrencilere gösterilerek bu araçların fiziksel aktiviteyi nasıl desteklediği ve nasıl etkili kullanabilecekleri ile ilgili sorularla öğrencilerin düşüncelerini ifade etmeleri sağlanır ( SDB2.1 ). Fiziksel aktiviteye katılımı destekleyen bu araçları deneyimleyebilmelerine olanak sağlayacak istasyonlar (mobil uygulamalar ile oyun ya da ölçüm, akıllı saat kullanımı, teknoloji destekli etkileşimli egzersiz vb.) hazırlanır ( E2.5 ). Öğrencilerin istasyonlarda yer alan araçları deneyimledikten sonra fikirlerini paylaşmaları sağlanır ( SDB3.3 , E3.5 ). Öğrencilerden bir haftalık fiziksel aktivite hedefi belirlemeleri (günde 30 dakika yürüyüş yapmak, belirli bir adım sayısına ulaşmak, kuvveti geliştirmek vb.) ve bu hedefe ulaşmak için teknolojik bir aracı kullanmaları ya da hangi araçların kullanılabileceğini araştırmaları istenir ( E3.2 , D3.4 , OB2 , SDB1.2 ). Araçların işlevselliği, öğrencinin hedefiyle uyumu, kullanım kolaylığı ve ulaşılabilirliği göz önünde bulundurulur. Süreç sonunda öğrencilerden hedeflerine ulaşma sürecinde teknolojik araçların ne kadar etkili olduğu, hangi araçları daha kullanışlı buldukları ve bu araçların fiziksel aktiviteye katılım motivasyonlarını nasıl etkilediği ile ilgili düşüncelerini ifade etmeleri istenir ( E3.4 , D16.3 , SDB1.2 ). Teknolojinin sağlıklı yaşamı desteklemek için etkili bir araç olabileceği vurgulanarak, teknolojiyi bağımlılığa dönüşmeden bilinçli ve dengeli bir şekilde kullanmanın önemi üzerinde durulur ( OB2 ). Fiziksel uygunluğu destekleyici teknolojik araçları inceleyip belirledikleri bir aracı nasıl kullanabileceklerini paylaşmaya yönelik performans görevi istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D13.2",
+      "D16.3",
+      "D3.4",
+      "D4.1",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E2.2",
+      "E2.5",
+      "E3.2",
+      "E3.4",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "diger": [
+      "SBAB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/704"
+}

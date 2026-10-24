@@ -1,0 +1,58 @@
+{
+  "unitId": 1440,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "4. ÜNİTE: BİLGİSAYAR DESTEKLİ TASARIM",
+  "hours": "8",
+  "description": "Dördüncü ünitede öğrencilerin bilgisayar destekli tasarım bilgisini ve süreçlerini öğrenmeleri amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.7.4.1",
+      "title": "Tasarım problemini çözmek için ürün oluşturabilme",
+      "processComponents": [
+        "a) Tasarım problemini çözmek için taslak oluşturur.",
+        "b) Tasarım programları ile tasarımı ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "TT.7.4.2",
+      "title": "Yapılan tasarımı paylaşmak için çoklu ortam sunusu hazırlayabilme",
+      "processComponents": [
+        "a) Bilgisayar destekli tasarım konusunda öğrendiklerini, ürettiklerini çoklu ortam sunum özelliklerine göre sunum planlar.",
+        "b) Kullanacağı materyalleri (ses, video, fotoğraf vb.) çoklu ortam sunum özelliklerine göre sunumda tasarlar.",
+        "c) Bilgisayar destekli tasarım konusunda öğrendiklerini, ürettiklerini çoklu ortam sunum özelliklerine göre sunumda uygular.",
+        "ç) Çoklu ortam sunusunu sunum planlaması, sunum tasarımı ve uygulama bağlamında değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "bilgisayar destekli tasarım, çoklu ortam sunusu, iki boyutlu çizim, iki ve üç boyutlu tasarım programları, üç boyutlu çizim",
+  "support": [
+    "Eğitsel videolar, çizim programlarını anlatan kitaplar ve filmler önerilebilir.",
+    "Öğrencilerin deftere veya bilgisayara yapacakları çizimlerde daha anlaşılır yönergeler ve kontrol listeleri verilebilir.",
+    "Öğrencilerin deftere veya bilgisayara yapacakları çizimlerde geri bildirimler daha çok kullanılabilir.",
+    "Öğrencinin yapacağı etkinlikler için kendi hızında öğrenmesine olanak sağlayan interaktif öğrenme araçları sunulabilir."
+  ],
+  "enrichment": [
+    "Çeşitli iki ve üç boyutlu programlar, çizim tabletleri, üç boyutlu yazıcılar kullanılabilir.",
+    "İmkân dâhilinde oluşturulan iki ve üç boyutlu tasarımlarının çıktıları alınabilir. Öğrencilerden açık uçlu tasarım problemleri için özgün çözümler geliştirmesi istenebilir. Öğrencilre temel tasarım programlarının yanı sıra daha ileri düzeyde 3D modelleme ve animasyon yazılımları öğretilebilir. Öğrencilerin imkân dâhilinde tasarımlarını sanal gerçeklik veya artırılmış gerçeklik ortamlarında deneyimlemeleri sağlanabilir. Bu sayede tasarımlarının kullanıcılar üzerindeki etkisini daha iyi anlaşılıp tasarımlar buna göre geliştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenciler fikir geliştirme yöntemlerini tablo veya şema şeklinde sınıflandırır.",
+    "Öğrenciler tasarım döngüsünü bilgilendirme tasarımı şeklinde sunar.",
+    "Öğrenciler belirledikleri probleme yönelik geliştirdikleri çözüm önerilerini paylaşabilecekleri çoklu ortam sunumları hazırlanır.",
+    "Ürün dosyası hâline getirilen bu çalışmalar öz-akran değerlendirme ile değerlendirilebilir. Performans görevi olarak öğrencilerden tasarımını tanıtmak amacıyla seçtiği materyalleri (tanıtım kartı-afiş-broşür-video-kısa film-dijital sunum vb.) planlayıp üretmesi, materyal de hedef kitle, mesaj, görsel hiyerarşi, tipografi-renk, içerik doğruluğu ve sunum akışını gerekçelendirmesi ve çalışmasını sınıfta sunarak geri bildirimlere göre kısa bir revizyon yapması istenebilir. Üretilen tanıtım materyali ve sunum; analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TT.7.4.1.",
+    "Öğrencilere günlük yaşantılarında karşılaştıkları herhangi bir tasarım problemini fark et melerini sağlamak için birtakım sorular sorulur. Öğrencilerin günlük hayatta karşılaştığı tasarım problemini tanımlayabilmesi için problemi belirlemeleri (KB2.4), problem durumuna yönelik inceleme yapmaları, çözüm önerileri geliştirmeleri, geliştirdikleri çözüm önerilerini birbirlerine saygı duyarak tartışmaları ve ortak bir tanımlama yapmaları sağlanır (SDB2.2, E3.5). Bu tanımı defterlerine kaydetmeleri istenir (KB1). Tanımladıkları problem durumlarına yönelik yazılı ve dijital kaynaklardan bilgi toplamaları sağlanır (OB1). Öğrencilerden problemin çözümüne yönelik yapılacak tasarım için elde ettikleri veriler ışığında çözüm önerileri-fikirleri geliştirmeleri istenir. Öğrenciler karar verirken ön yargılı olmaktan kaçınır ve alternatif çözümleri objektif bir bakış açısıyla değerlendirir (D1.4). Oluşturdukları önerileri-fikirleri defterlerine kaydetmeleri istenir (KB2.6). Kaydettikleri önerileri kâğıt üzerine iki boyutlu çizmeleri beklenir. Çizimler üzerinde akranlarıyla tartışarak eksikliklerin neler olduğunu tespit etmeleri, daha iyi bir tasarıma ulaşabilmek için neler yapılacağını açıklamaları istenir (SDB1.2, SDB3.3). İki boyutlu olarak tasarladıkları çözüm önerilerini bu defa kâğıt üzerine üç boyutlu çizimlerle eskiz yaparak görselleştirmeleri istenir. Öğrencilerin uygulamasını yapacağı tasarım için uygun araç gereci defterlerine kaydetmeleri istenir. Farklı görüşlerin tartışıldığı bir ortamda sağduyulu davranmaları için öğrencilerden fikirlerini savunurken karşı tarafın düşüncelerini de dikkate almaları beklenir (SDB2.2, SDB2.3). Örneğin bir öğrenci üç boyutlu tasarımın gerçekçiliği artırdığını savunurken bir diğerinin iki boyutlu tasarımın sadelik ve işlevsellik sunduğunu söylemesi, konunun çok yönlü ele alınmasını sağlar (D15.1). Daha sonra öğrencilere iki ve üç boyutlu resim ve grafik işleme programı ile görsel oluşturma videoları izletilir. Öğrencilerden bu videoları dikkatle izlemeleri ve gözlemlemeleri beklenir (OB4). Edindikleri izlenimleri açıklamaları için iki ve üç boyutlu resim ve grafik işleme programlarının nasıl bir çalışma mantığına dayandığı, ana menünün nasıl bir yöntemle çalıştığı, programda görsel oluşturmak için menüde hangi araçların bulunduğu, bu araçları kullanarak görsel oluşturmak için hangi çizim tekniklerinin bilinmesi gerektiği, çizim ve araç çubuklarının görevlerinin ne olduğu gibi sorular sorularak tartışmaları sağlanır (KB2.2). Öğrencilerin görevlerini zamanında ve eksiksiz yerine getirebilmeleri için izledikleri videolardan edindikleri bilgileri sistematik bir şekilde not etmeleri sağlanarak bundan sonraki çalışmalarda bu veriyi nasıl kullanabilecekleri sorulur (SDB1.2). Örneğin programın ana menüsünün işleyişini detaylandıran bir öğrenci, diğer ar kadaşlarının eksik kaldığı noktaları tamamlayarak bilgilerin bütüncül olarak anlaşılmasını sağlayabilir (D16.3).",
+    "Üretim aşamalarında konunun ne olduğu hangi işleve göre nasıl sıralanacağı ile ilgili araştırma yapar (KB2.1). Yaptığı araştırma verilerini bir rapor hâline getirerek yazılı olarak sunar (KB2.6, OB1). Araştırma sonucunda ulaşılan bilgilere dayalı olarak üretim aşamalarını tasarım oluşturma kriterlerine göre uygular. Ürünle ilgili maket-model-prototip (ilk örnek) oluşturmak için iki boyutlu temel şekiller olan çokgen, elips, dikdörtgen, daire vb. şekiller ile üç boyutlu programa alışabilmeleri ve kullanım becerilerinin geliştirilebilmesi için piramit, küp, küre vb. oluşan nesneleri bilgisayarda çizerek pratik yapmaları sağlanır. Çizimler üzerinde akranlarıyla tartışarak daha iyi sonuca ulaşılması sağlanır. Ayrıca bu tartışmadan sonra çizimine dair neleri fark ettiği, neleri değiştirmesi gerektiği sorulabilir (SDB2.2). Bu temel geometrik biçimlerden bir tanesini seçerek bilgisayarda üç boyutlu görselleştirmeleri istenebilir.",
+    "Bir nesnenin üç boyutlu görünebilmesi için nesne yüzeyine kazandırılması gereken özellikleri (ışık, doku, malzeme) çevrelerine bakarak gözlemlemeleri ve çıkarım yapmaları sağlanır. Işık, doku ve malzeme özelliklerini kullanarak geometrik nesnenin çizimini üç boyutlu hâlde tamamlamaları beklenir (KB2.11). Öğrencilerin estetik unsurların önemini fark etmeleri için ışık, doku ve malzemenin bir nesnenin görünümünü nasıl değiştirdiği üzerine gözlem yapmaları teşvik edilir. Örneğin ahşap dokusu eklenmiş bir modelin sıcak ve doğal bir his uyandırması, metal yüzeylerin ise modern ve soğuk bir etki yaratması üzerine değerlendirmeler yapabilirler (D7.1). Tamamladıkları iki ve üç boyutlu çalışmaların tasarım oluşturma kriterlerine göre yeterliliğini değerlendirmek üzere tartışmaları sağlanır (SDB2.2).",
+    "TT.7.4.2.",
+    "Öğrencilerden yapmış oldukları çalışmaları sunmak için gerekli olan programları araştırmaları istenir (KB2.1, SDB1.1). Bu programların özelliklerinin neler olduğu, sunum içerisinde hangi medya türlerini barındırdıklarını sorgulamaları ve ulaştıkları bilgileri farklı fikirlere, önerilere açık ve etkili bir biçimde iletişim kurarak tartışmaları istenir (KB2.8, KB1, SDB2.1).",
+    "Öğrencilerden bilgisayar destekli tasarım konusunda öğrendiklerini, ürettiklerini sunmak üzere planlama yapmaları, sunumda hangi materyalleri (ses, video, fotoğraf vb.) kullanacaklarını açık ve ulaşılabilir bir şekilde tasarlamaları, uygulamaları beklenir (D3.2, SDB1.2). Tasarımını sunmak için hazırlamış oldukları materyalleri, çoklu ortam sunusuna uygun program/programlara yerleştirmeleri ve oluşturdukları sunu vasıtasıyla sınıfta paylaşmaları istenir.",
+    "Öğrencilerin ürünü tasarlama süreci performans görevi olarak ele alınabilir. Tasarım, planlama ve uygulama süreci gözlem formu aracılığı ile değerlendirilebilir (SDB1.2)."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1440"
+}

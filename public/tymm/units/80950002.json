@@ -1,0 +1,59 @@
+{
+  "unitId": 80950002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "2. ÜNİTE: 9. SINIF - KARİYER GELİŞİMİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.2.1",
+      "title": "İlgi ve hobilerini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.2",
+      "title": "Kendi mesleki değerlerinin farkına varır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.3",
+      "title": "Yaşam değerleri ile mesleki değerlerini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.4",
+      "title": "Kısa ve uzun vadeli kariyer amaçlarını tekrar inceler",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.5",
+      "title": "Mesleklerin zaman içindeki değişimini ve gelişimini takip eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.6",
+      "title": "Kendi özellikleriyle kariyer kararlarını ilişkilendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.7",
+      "title": "Alan/bölüm/dal/ders seçiminde ilgi, yetenek ve mesleki değerleri dikkate alır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.2.8",
+      "title": "Kariyer hazırlığı sürecinde belirlediği amaçlar doğrultusunda alan/dal/ders seçiminde karar verme becerisini kullanır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

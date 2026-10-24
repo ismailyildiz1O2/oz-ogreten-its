@@ -1,0 +1,51 @@
+{
+  "unitId": 1111,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "1. TEMA: TÜRK MÜZİĞİNDE DİZİ",
+  "hours": "10",
+  "description": "Temanın içeriğini Türk müziği ses sisteminde dizileri işitme okuma ve yazma oluşturmaktadır. Bu doğrultuda Türk müziği ses sisteminde dizi ve Türk müziğinde dizilerin oluşumunda kullanılan dörtlü ve beşlileri işitme, okuma ve yazma ile ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TMT6.1.1. Türk müziği ses dizilerini işitebilme",
+      "processComponents": [
+        "a) Türk müziği ses dizilerinin bileşenlerini tanır.",
+        "b) Türk müziği ses dizilerinin bileşenlerini işitsel olarak ayırt eder.",
+        "c) Türk müziği ses dizilerinin bileşenlerini ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "bakiye, koma, perde, ses",
+  "support": [
+    "Öğrencilerin ilgi, ihtiyaç ve hazırbulunuşlukları dikkate alınarak etkin olabilecekleri yazma etkinlikleri yaptırılabilir. Örneğin 2 ölçülük kısa ezgilerlerle başlayıp daha sonra ölçü sayıları artan melodilerle öğrenme süreçleri desteklenebilir."
+  ],
+  "enrichment": [
+    "Türk müziği ses dizilerini içeren örnek eserler dinletilebilir. Dinledikleri bu eserlerin dizilerini tahmin ettikleri dinle-bul etkinliği ile öğrencilerin bu temadaki becerileri geliştirebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, dereceli puanlama anahtarı, eşleştirme soruları, kontrol listesi, performans görevi ile değerlendirilebilir.Performans görevi olarak öğrendikleri dörtlü ve beşlilerden oluşan diziler oluşturması, oluşturdukları bu dizilerin seslerini seslendirmeleri istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "teachingApplications": [
+    "TMT6.1.1. Türk müziği ses dizilerinin iki farklı küçük ses dizisinin birleştirilmesiyle oluşturulduğuna ilişkin makamsal ses dizisi ile ilgili görselleri içeren sunumlar hazırlanır ( OB4 , E3.2 ). Öğrencilerin Türk müziği ses dizisi kavramını hem görsel hem de işitsel olarak tanımaları sağlanır ( OB1 ). Öğrencilerin yeni öğrenmelere ilişkin görsellere ait soru sorması sağlanır ( E3.8 ). Farklı makamsal ses dizileri verilerek bu dizilerin birleşim yerleri ve hangi küçük dizi parçacıklarından oluşturulduğu incelenir. Öğrencilerin her basit makama ait ses dizisinin 4+5 veya 5+4 şeklinde oluştuğunu ayırt etmesi sağlanır ( OB4 ). Türk müziğindeki basit makamlar olan rast, uşşak, hicaz, çargâh, buselik, kürdi makamlarının oluştuğu dörtlü ve beşliler çeşitli görsel ve işitsel materyaller kullanılarak ayırt ettirilir ( OB4 ). Ses dizisi oluşturabilmek için dörtlü ve beşli ses dizilerine ihtiyaç duyulduğu öğrencilere fark ettirilir. Örnek diziler ile diziler içindeki dörtlülerin ayırt edilmesi sağlanıp işitme çalışmaları gibi uygulamalar yaptırılır. Bunun için küçük gruplar hâlinde çalışarak istasyon, öğrenme galerisi gibi tekniklerle ulaştıkları bilgileri ürüne dönüştürmeleri istenir ( D3.1 , SDB2.2 ). Öğrencilerin grup çalışmalarında sorumluluklarını yerine getirmeleri sağlanır ( D16.1 ). Bu süreç kontrol listesi kullanılarak değerlendirilebilir. Performans görevi olarak öğrendikleri dörtlü ve beşlilerden oluşan diziler oluşturması, oluşturdukları bu dizilerin seslerini seslendirmeleri istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D3.1"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1111"
+}

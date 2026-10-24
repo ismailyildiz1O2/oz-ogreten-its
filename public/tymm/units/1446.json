@@ -1,0 +1,66 @@
+{
+  "unitId": 1446,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi (Maarif Modeli)",
+  "title": "1. ÜNİTE: İNOVATİF DÜŞÜNCENİN GELİŞTİRİLMESİ, FİKİRLERİN KORUNMASI VE ETİK",
+  "hours": "8",
+  "description": "Birinci ünitede inovasyon (yenilikçilik) ve AR-GE kavramlarının bir ürünün patent ve faydalı model belgesi, marka tescili, endüstriyel tasarım tescili ile fikirlerin korunmasının teknolojik ilerlemeye katkısı konularının özgün fikirlerin kullanım hakları, koruma yöntemleri ve etik konularının öğrenilmesi hedeflenmiştir.",
+  "outcomes": [
+    {
+      "code": "TT.8.1.1",
+      "title": "Inovasyon ve AR-GE kavramlarını sorgulayabilme",
+      "processComponents": [
+        "a) İnovasyon ve AR-GE",
+        "b) kavramlarını tanımlar.",
+        "c) İnovasyon ve AR-GE kavramları ile ilgili sorular sorar.",
+        "d) İnovasyon ve AR-GE kavramları hakkında bilgi toplar.",
+        "ç) İnovasyon ve AR-GE kavramları hakkındaki bilgilerin doğruluğunu değerlendirir.",
+        "e) İnovasyon ve AR-GE kavramları hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TT.8.1.2",
+      "title": "Inovatif bir ürünün taslağını oluşturabilme",
+      "processComponents": [
+        "a) İnovatif bir ürün tasarımı oluşturmak üzere problem ve konu belirler.",
+        "b) İnovatif tasarım problemi ile ilgili konu, tema, kavrama yönelik inceleme yapar.",
+        "c) İnovatif tasarım probleminin çözümüne yönelik fikir geliştirir.",
+        "ç) İnovasyon tasarımı ile ilgili konu, tema, kavrama yönelik eskiz yapar. TT. 8.1.3. Fikrî ve Sınai Mülkiyet Haklarının Korunması hakkında bilgi toplayabilme",
+        "a) Fikrî ve Sınai Mülkiyet Haklarının Korunması hakkındaki bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Fikrî ve Sınai Mülkiyet Haklarının Korunması hakkındaki bilgileri bulur.",
+        "c) Fikrî ve Sınai Mülkiyet Haklarının Korunması hakkındaki bilgileri doğrular.",
+        "ç) Fikrî ve Sınai Mülkiyet Haklarının Korunması hakkındaki bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "etik, fikrî mülkiyet, inovasyon, sürdürülebilirlik.",
+  "support": [
+    "Öğrencilere inovasyon ve fikirlerin korunması konusunda ilgili materyaller sunulabilir. Fikri ve Sınai Mülkiyet Haklarının önemi üzerine interaktif videolar kullanılabilir.",
+    "Öğrencinin yapacağı araştırma ve çalışmalarda yönergeler daha basit ve anlaşılabilir verilebilir. Gerektiğinde öğrenciye rehberlik edilebilir.",
+    "Öğrencinin yapacağı çalışma ve araştırmalarda iş birlikçi öğrenme yolu ile akranından destek alması sağlanabilir.",
+    "Ürünün üretim ve tüketim süreçlerinin çevreye etkisi konusunda bilgi toplayabilmesi için ilgi ve ihtiyaçlarına göre bireysel planlamalar yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencinin özgün fikirlerin kullanım hakları ve etik konuları ile ilgili basına yansımış önemli mahkeme kararlarını araştırması sağlanabilir.",
+    "Öğrencilerin kurum, birey veya şirketlerin patent, marka tescili almadıkları takdirde yaşa dığı sorunları ve bu sorunları nasıl çözdüklerini araştırmaları sağlanabilir.",
+    "Öğrenciler Türkiye'nin eğitim, sağlık, sosyal hizmet, savunma, havacılık vb. alanlarda yaptığı AR-GE çalışmalarını araştırıp sonuçları sınıfta paylaşabilirler.",
+    "Bir ürünün üretim ve tüketiminde çevre duyarlılığına önem verilmesini ifade eden resim, afiş, hikâye, karikatür vb. yaptırılabilir.",
+    "Öğrenciler inovatif ürünlerini geliştirirken sensörler, servo motorlar, mikrodenetleyici platformları vb. elektronik devre elemanları kullanarak robotik uygulamalardan faydalanabilirler."
+  ],
+  "assessment": [
+    "Problem çözme becerisi, tasarımın özgünlüğü, ürünün uygulanabilirliği, sunum becerisi vb. başlıklarından oluşan rubrik değerlendirme ölçeği ile elde edilen inovatif ürün değerlendirilir.",
+    "Ürünlerinin sağladığı faydalar hakkında kısa bir öz değerlendirme yapılabilir.",
+    "Performans görevi olarak öğrencilerden bir inovatif ürün ya da fikre yönelik araştırma yapmaları, topladıkları bilgileri analiz etmeleri, ürün önerilerini ve korunma süreçlerine ilişkin görüşlerini sunmaları istenebilir. Bu dosya süreç değerlendirme formu veya rubrik ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TT.8.1.1.",
+    "Öğretmen sınıfa eski bir gaz lambası, bir ampul ve yeni bir LED ampul getirerek bu ürünlerin gelişim sürecindeki inovasyon içeren aşamalarını incelemelerini sağlar (E1.1). Ampul, internet, telefon, yapay zekâ, drone gibi ürünler üzerinden inovasyon kavramını anlatan kısa videolar da gösterilebilir. Öğrencilerin inovasyonun bir ürüne kattığı ekonomik değer, ergonomi, kullanışlılık, tasarruf vb. değişimlerin yanı sıra kullanıcı alışkanlıklarını ve toplumsal hayata olumlu-olumsuz etkilerini de tartışmaları teşvik edilir (OB4). Öğrenciler bilim, sanayi ve teknoloji alanındaki güncel gelişmeleri takip ederek yenilikçi süreçleri anlamaya çalışır (D3.3). İncelenen ürünler ve izlenen videolara dayalı olarak öğrencilerden inovasyon ve AR-GE kavramlarını tanımlamaları istenir (OB1). Daha sonra öğrencilere \"Sizce AR-GE olmadan yenilik ve gelişme olur muydu?\", \"İnovasyonun hayattaki önemi nedir?\" gibi sorular yöneltilerek öğrencilerden inovasyon ve AR-GE'nin toplumsal, ekonomik ve çevresel etkileri üzerine sorular sormaları sağlanır (SDB1.1). Öğrencilerin edindikleri bilgiler eleştirel bir yaklaşımla değerlendirilir ve süreç devam ettirilir (D3.3). Öğrenciler gruplara (3-5 kişilik) ayrılır ve her grup elektrikli araçlar, yapay zekâ araçları, internet, drone, nesnelerin interneti gibi örnekler üzerinden gerçek bir inovasyon hikâyesi seçerek inovasyon kavramı ve AR-GE sürecinin nasıl yürütüldüğü hakkında bilgi toplar (OB1, SDB1.2, SDB2.2). Araştırma süreci, güvenilir kaynaklardan elde edilen veriler doğrulanarak tamamlanır (OB7). Öğrenciler doğru ve güvenilir bilgiyi ayırt ederek araştırma sürecini yerine getirir (D3.3). Araştırma sürecinde öğrencilerin elde ettikleri verileri çevresindeki inovasyon ve AR-GE örneklerini gözlemleyerek desteklemeleri ve değerlendirmeleri sağlanır. Her bir gruptan seçmiş oldukları inovatif ürünün geçmişten günümüze geçirdiği gelişim aşamalarını ve dönüşümlerini dikkate alarak gelecekte nasıl bir inovasyon sürecinden geçebileceği ve hangi yönlerden gelişim gösterebileceği hususunda çıkarım yapmaları beklenir (SDB3.3). Her grubun araştırma sonuçlarını bir çoklu ortam sunumuna göre tasarlaması ve uygulaması istenir (TSRMAB3, OB7). Grupların araştırma süreci, bilgi toplama yöntemi, analiz etme, sunum kalitesi gibi kategorilerden oluşan bir süreç dosyası ile değerlendirilir. İmkânlar dâhilinde \"Sizce en yenilikçi inovasyon hikâyesi hangisiydi?\" vb. sorularla web 2.0 ve diğer dijital araçlarla bir oylama yoluyla tercihlerini yapmaları beklenir (OB2).",
+    "TT.8.1.2.",
+    "Öğrenciler çevresinde inovasyonun gerekli olduğunu düşündükleri ürünleri belirlerler. Bu ürünlerin nasıl geliştirilebileceğini anlamak için öğrencilere gerekli ihtiyaçları tespit etmeleri amacıyla yeterli zaman verilir. Bu sürede öğrencilerin belirledikleri ihtiyaç listesi fikirlerini defterlerine not almaları istenir (SDB1.2). Ardından öğrenciler kartopu tekniğine uygun olarak ikili gruplara ayrılır ve fikirlerini birbirleriyle paylaşarak tartışırlar. Bu süreç sonunda ikili gruplar birleştirilerek dörtlü gruplar oluşturulur ve fikir alışverişine devam ederler. Dörtlü gruplar sırası ile daha geniş gruplarla birleşerek tartışmaya devam edilir ve nihayetinde tüm sınıf olarak bir araya gelinir ve grupların vardığı sonuçlar sınıfla paylaşılır (OB1, SDB2.1, SDB2.2). Öğrenciler grupla çalışma becerisi sergileyerek ekip içi iş birliğinin önemini kavrar (D3.4). Öğrenciler bu sürecin sonucunda geliştirmek istediği ürünlerinden birini belirler. Belirledikleri ürün ile ilgili mevcut çözümleri, bu çözümlerin sağlamış olduğu avantajları ve sınırlılıkları incelemek üzere araştırma ve gözlem yaparlar. Öğrenciler yapmış oldukları araştırma ve gözlemlerden ilham alarak özgün (bu uygulama tamamen daha önceden var olmayan bir fikir olabileceği gibi var olan ve eksik olduğu düşünülen bir ürünün eksik yönünün tamamlanmasına yönelik bir fikir veya var olan ancak o ürüne alternatif olarak sunulabilecek bir ürün fikri de olabilir) inovasyon fikirlerini geliştirirler (SDB3.3). Bu fikirler ödev zamanını hatırlatan ve zaman yönetimi sağlayan mobil uygulama yazılım ürünü olabilir. Benzer şekilde kitap okurken boyun ve sırt ağrılarını engellemek için kitapların dik durmasını sağlayan kitap okuma destek aparatı tasarımı da olabilir. Bu aşamada her öğrencinin bireysel olarak özgün ürün fikir geliştirmesi sağlanır (E3.3). Öğrencilerin geliştirmeyi düşündüğü ürünün inovasyon içerecek özelliklerini yansıtan eskizlerini yapmaları beklenir. Eskiz üzerinde ürüne eklenen inovasyon içeren özellik açıkça gösterilir (SDB3.2). Öğrenciler bu eskizlerde inovasyon içeren ürünün nasıl çalışacağını basit ve net bir şekilde gösterir (OB8, E3.6). Her öğrenci inovasyon içeren ürünün tasarımını ve nasıl çalıştığını açıklayan bir sunum yapar (OB7). Diğer öğrencilerin görüşlerini dikkate alarak daha nitelikli inovatif ürünler üretmeye çalışır (D4.4). Ayrıca ürünlerinin sağladığı faydalar hakkında kısa bir öz değerlendirme yapmaları beklenir (E3.5, SDB2.1, OB8). Öğrenciler imkânlar dâhilinde eskizlerini dijital ürüne (bilgisayarda 3D katı model), model, maket veya prototip (ilk örnek) gibi fiziksel ürüne de dönüştürebilirler (TSRMAB1.2, OB2). Öğrencilere inovatif bir ürünün taslağını oluşturma sürecinde güçlü ve zayıf yönlerinin neler olduğu bundan sonrasında benzer bir çalışma yapacağında nelere dikkat edeceğine yönelik sorular sorulabilir (OB1). Öğrencilerin yapmış olduğu inovatif ürünlere yönelik çalışmalar performans görevi olarak değerlendirilebilir. Değerlendirme problem çözme becerisi, tasarımın özgünlüğü, ürünün uygulanabilirliği, sunum becerisi vb. başlıklarından oluşan rubrik ile yapılabilir.",
+    "TT.8.1.3.",
+    "Öğretmen öğrencilerden inovasyon içeren bir ürünün veya tasarımın kime ait olduğunu, korunmasının gerekliliğini, bu korumanın nasıl gerçekleştirileceğini, hangi yollarla ve nereden yapılarak fikrî ve sınai mülkiyet haklarını elde edilebileceğini sorgulamalarını ister. Her öğrenci, bir ürünü fikrî ve sınai mülkiyet hakları çerçevesinde nasıl koruyabileceğini araştırır (OB2). Öğrenciler inovatif ürünün taklit edilmemesi, izinsiz kullanılmaması ve yasal haklarının korunması için kullanacağı bilgi toplama araçlarını belirler. Bu aşamada emek ve fikirlerin korunmasının hak ve sorumluluklarının bir parçası olduğunu fark eder (D1.1). Bu süreçte TÜRKPATENT (Türk Patent ve Marka Kurumu), WIPO (Dünya Fikri Mülkiyet Örgütü), EUIPO (Avrupa Birliği Fikri Mülkiyet Ofisi) gibi güvenilir kurumların kaynaklarından yararlanarak konu hakkında bilgileri araştırırlar (OB2). Öğrencilerden araştırma süreçlerinde patent, telif hakkı, marka, tasarım tescili gibi fikrî mülkiyet türlerini de inceleyerek geliştirdikleri inovatif ürünleri için en uygun koruma yöntemini belirlemeleri beklenir (OB2, E3.7, SDB1.2). Öğrencilerden inovatif ürünlerinin hangi kategoriye girdiğini anlamaları ve bu korumanın daha önce alınıp alınmadığını Türk Patent ve Marka Kurumunun sayfasından kontrol etmeleri beklenir (OB2). Öğrenciler inovatif ürünün korunmasına yönelik süreçleri içeren bir dosya hazırlayarak bilgileri kaydederler. Bu dosyanın ürün adı, açıklaması, hangi yeniliği getirdiği, hedef kitlesi ve korunması için önerilen yöntemleri içermesi beklenir (SDB3.3). Ayrıca inovasyon içeren ürününün fikrî ve sınai mülkiyet hakları çerçevesinde hangi yöntemle koruyacağına ait başvuru için gerekli belgeleri ve sürecin nasıl işlediğini araştırarak bu bilgileri dosyalarına eklemesi istenir (OB2, E2.2). Örneğin geliştirilen bir ürünün yerli ve millî imkânlarla üretildiğinde ülkeye sağlayacağı katkıyı tartışma sürecine taşıyarak yerli ve millî ürünleri kullanmayı tercih eder davranışı pekiştirilir (D19.4). Bireysel başarılarını toplumsal faydaya dönüştürmek için bilgilerini arkadaşlarıyla paylaşarak iş birliği yapar (D3.4, SDB2.3). Performans görevi öğrencinin araştırma yapmasına, bilgi toplamasından video izlemesine, gözlem ve inceleme yapmasına fikir geliştirerek bir süreç dosyası oluşturmasına kadar geçen süreci sonuçlandırarak sunumunu yapmalarının sağlandığı bir yaklaşımla yerine getirmesi sağlanır."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1446"
+}

@@ -1,0 +1,93 @@
+{
+  "unitId": 1627,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Astronomi ve Uzay Bilimleri Dersi",
+  "title": "2. Ünite: Evrenin Keşfi",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AST.2.1",
+      "title": "Gök cisimlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Gök cisimlerine ilişkin özellikleri belirler.",
+        "b) Gök cisimlerine ilişkin benzerlikleri listeler.",
+        "c) Gök cisimlerine ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "AST.2.2",
+      "title": "Gök adaları sınıflandırabilme",
+      "processComponents": [
+        "a) Gök adaları ayıran nitelikleri belirler.",
+        "b) Gök adaları benzerlik ve farklılıklarına göre ayrıştırır.",
+        "c) Gök adaları benzerliklerine göre gruplandırır.",
+        "ç) Gruplandırdığı gök adaları adlandırır."
+      ]
+    },
+    {
+      "code": "AST.2.3",
+      "title": "Gök cisimleri arasındaki mesafeleri tahmin edebilme",
+      "processComponents": [
+        "a) Gök cisimleri arasındaki mesafeler hakkında bilgi toplar.",
+        "b) Gök cisimleri arasındaki mesafelere ilişkin hesaplama yapar.",
+        "c) Gök cisimleri arasındaki mesafelere ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "AST.2.4",
+      "title": "Samanyolu gök adasının yapısını bir model oluşturarak yorumlayabilme",
+      "processComponents": [
+        "a) Samanyolu gök adasının yapısını inceler.",
+        "b) Samanyolu gök adasını bir modele dönüştürür.",
+        "c) Samanyolu gök adası hakkındaki bilgilerini oluşturduğu model aracılığıyla yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "AST.2.5",
+      "title": "Güneş sisteminin özelliklerini özetleyebilme",
+      "processComponents": [
+        "a) Güneş sisteminin özelliklerini çözümler.",
+        "b) Güneş sistemini oluşturan gezegenleri sınıflandırır.",
+        "c) Güneş sistemini oluşturan gezegenlerin özelliklerini ve Güneş sisteminin oluşumunu yorumlar."
+      ]
+    },
+    {
+      "code": "AST.2.6",
+      "title": "Yıldızların yaşam süreci hakkında tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Yıldızların yaşam süreçleri arasında örüntü bulur.",
+        "b) Yıldızların yaşam süreçleri hakkında genelleme yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "bulutsu, doğal uydu, gezegen, gök ada, Güneş sistemi, kara delik, nötron yıldızı, süpernova",
+  "support": [
+    "Öğrencilere Güneş sisteminde bulunan gezegen ve cüce gezegenlerin büyüklüklerini ve yörünge hareketlerini gösteren bir animasyon ya da video izletilerek bu iki gök cismi grubunun sınıflandırılma gerekçeleri açıklanabilir. Öğrencilerin evrendeki gök cisimlerini tanıyabilmeleri amacıyla planetaryumların bulunduğu bilim merkezlerine gezi planlanabilir. Gezinin ardından öğrencilerin evrendeki gök cisimlerinin özelliklerini listeledikleri bir rapor hazırlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler Güneş’in son 30 yıllık manyetik dinamosu hakkında sunum yapabilir. Öğrenciler “Oort Bulutu” hakkında araştırma yaparak bu bulutun Güneş sisteminin ilk oluşum aşamalarına ait donmuş kalıntıları barındırdığı konusunda kısa makale yazabilir. Öğrenciler nötron yıldızları ve kara delikler hakkında araştırma yapabilir ve araştırma bulgularını bilişim teknolojilerini kullanarak sunabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; yapılandırılmış grid, açık uçlu sorular, çalışma yaprağı, çıkış kartı, öz değerlendirme formu, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak yıldızların yaşam süreci ile ilgili poster hazırlayıp sunmaları istenebilir. Performans görevi, öğrenciler tarafından öz ve akran değerlendirme formu, öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AST.2.1.",
+    "Öğretmen; öğrencilere her bir türden ikişer adet olmak üzere evrendeki gök ada (galaksi), bulutsu (nebula), yıldız, gezegen, cüce gezegen, doğal uydu, asteroit, kuyruklu yıldız ve gök taşı görselleri sunar. Öğrenciler beyin fırtınası veya sınıf içi tartışma yöntemini kullanarak verilen görsellerdeki gök cisimlerinin özelliklerini belirler ( SDB2.1 ). Belirlenen özelliklerin benzerliklerini ve farklılıklarını listeler ( E3.7 ). Öğrenciler görsellerdeki gök cisimlerini isimlendirir. Öğretmenin rehberliğinde öğrenciler isimlendirmeleri değerlendirir ve varsa yanlışlarını düzeltir. Öğrencilerin gök cisimlerini karşılaştırmaları için yapılandırılmış grid kullanılabilir.",
+    "AST.2.2.",
+    "Öğretmen sınıf adı vermeden farklı tipteki gök adaların her birinden en az üç görsel sunar. Öğrencilerden bu görselleri ayrılıp birleşme, beyin fırtınası, örnek olay veya sınıf içi tartışma gibi yöntem ve tekniklerden birini kullanarak yorumlamaları istenir ( SDB2.1 , OB4 ). Öğrenciler görsellerdeki gök ada görüntülerini birbirinden ayıran nitelikleri belirler. Öğrenciler gök adaları belirledikleri niteliklerine göre ayrıştırır. Benzer nitelikleri taşıyan gök adaları gruplandırırken dikkatini yaptığı çalışmaya yönlendirir ve odaklanma becerisini etkin biçimde kullanır ( E3.2 ). Gruplandırılan gök adalar adlandırılır. Öğretmen dijital içerik ve bazı görselleri kullanarak Edwin Hubble’ın hazırladığı sınıflandırmayı verir ve öğrencilerden kendi sınıflandırmalarıyla Hubble sınıflandırmasını karşılaştırmalarını ister. Öğrenciler gök ada türlerini tanıtan bilgi görseli hazırlayıp bunu sınıf panosunda sergiler. Çalışma yaprağı kullanılarak öğrencilerin öğrenmeleri izlenebilir.",
+    "AST.2.3.",
+    "Öğrenciler gruplara ayrılır ve kurgusal bir uzay yolculuğu tasarlar. Öğrenciler uzay yolculuğunda kullanılan araçların maksimum süratini, hangi yakıt türünün kullanıldığını, yolculukta ne kadar yakıt gerekeceğini ve yolculuğun mesafesini araştırıp bulur ( OB7 ). Öğrencilerden uzay yolculuğunun amacını, hedef gök cismini, uzay yolculuğunda kullanılacak aracı, araçta kullanılacak yakıtın türü ve miktarını, aracın maksimum süratini belirlemeleri istenir ( E3.3 , SDB2.2 ). Öğrenciler; dijital araçlar yardımıyla mesafeler için kullanılan parsek, ışık yılı, astronomik birim ve kilometre birimleri arasında anlamlı birim dönüşümü yaparak gök cisimleri arasındaki mesafeleri hesaplar. Öğrenciler, bu yolculuklar için gereken süreyi göz önünde bulundurarak bu tür seyahatlerin mümkün olup olmayacağı konusunda yargıda bulunurlar ( OB2 ). Öğrenciler ışığın aldığı yolu düşünerek yıldızların ve gezegenlerin geçmişini gözlemlemek üzerine nezaket kuralları çerçevesinde tartışma başlatırlar ( SDB2.1 , D14.1 ). Öğrencinin tartışmanın sonunda gök cisimlerinin Yer’e uzaklıklarıyla doğru orantılı olarak geçmişteki görüntülerine ulaşıldığını fark etmeleri sağlanır. Öğrenmeler açık uçlu sorularla izlenebilir.",
+    "AST.2.4.",
+    "Öğrencilere Samanyolu gök adasının büyüklüğü ve karmaşıklığı hakkında merak uyandıran bir video veya sunum izletilir. İzledikleri sunum veya videodan sonra görüş geliştirme tekniği kullanılabilir. Öğrenciler gruplara ayrılır ve grup üyelerinden kendi aralarında iş bölümü yaparak Samanyolu gök adası hakkında araştırma yapmaları ve araştırmalarında Samanyolu gök adasının farklı yapılarına (sarmal kollar, merkezdeki kara delik, şişkin bölge vb.) yer vermeleri istenir ( SDB2.2 , OB1 ). Grupların karton, strafor, ahşap gibi bir materyal üzerinde Samanyolu gök adasının kabartma modelini oluşturarak öğrenme sürecine etkin katılmaları ve süreç içerisinde yardımlaşmaları sağlanır ( D3.4 , D20.1 ). Öğrenciler, modellerinde Güneş sisteminin konumunu ve Samanyolu gök adasının diğer önemli yapılarını (kara delik vb.) etiketler ve Samanyolu gök adasının temel yapısı ile yıldızların dağılımını doğru şekilde göstermeye çalışırlar. Öğrenciler Samanyolu gök adası hakkında edindikleri bilgileri ve yaptıkları modelleri diğer gruplara sunarlar. Öğrencilerden öğrenme sürecini çıkış kartı ile değerlendirmeleri istenebilir.",
+    "AST.2.5.",
+    "Öğrenciler soru-cevap yöntemiyle Güneş sistemi hakkında bildiklerini birbirleriyle paylaşır. Öğrenciler gruplara ayrılır ve Güneş sistemini oluşturan gezegenlerin özelliklerini (Güneş’e olan ortalama uzaklığı, yarıçapı, yapısı, ortalama yoğunluğu, ortalama yüzey sıcaklığı, atmosferinin yapısı, dönme ve dolanma periyodu, eksen eğikliği ve başka ilginç özellikleri) güvenilir kaynaklardan araştırırlar ( SDB2.2 , OB1 ). Öğrenciler araştırdıkları gezegenlerin özelliklerini karşılaştırabilecekleri bir tablo oluşturur ve tablodan yola çıkarak gezegenleri karasal (kayaç) ve dev gaz gezegenler olarak sınıflandırırlar. Öğrenciler; karşılaştıkları gezegenlerin boyutlarını, Güneş’e uzaklıklarını ve eksen eğikliğini çeşitli boyutlardaki materyaller ve çeşitli uzunluklardaki ipler yardımıyla orantısal olarak modellerler. Güneş sisteminin oluşumu hakkında verilen bilgilerden yola çıkarak Güneş sisteminin oluşumuyla ilgili tartışma yaparlar. Güneş sisteminin oluşumunu açıklayan teorilerden benimsedikleri bir teoriye uygun animasyon veya sunum hazırlayarak arkadaşlarıyla paylaşırlar. Öğrenmeler çalışma yaprağıyla izlenebilir. Öğrencilerden etkinlik sonunda akran değerlendirme formu doldurmaları istenebilir.",
+    "AST.2.6.",
+    "Öğretmen; yıldızların yaşam süreci ile ilgili bir animasyon, video veya simülasyon gibi dijital içerikler kullanarak öğrencilerin yıldızların yaşam sürecine dair bilgi edinmelerini sağlar ( OB2 , OB4 ). Öğrenciler dijital içeriklerde verilen bilgiler üzerinden büyük ve küçük kütleli yıldızların yaşam süreçlerini karşılaştırır. Öğretmenin şekillendireceği “Tüm yıldızların oluşma ve yaşamlarını tamamlama süreçleri aynı mıdır?”, “Yıldızların yaşamlarının sonunda hangi gök cismine dönüşeceğini belirleyen en önemli etmen yıldızın hangi niceliğidir?”, “Küçük kütleli yıldızlar neden süpernova patlaması yapmaz?”, “Güneş, yaşamının sonunda kara deliğe dönüşebilir mi? Neden?”,” Büyük kütleli yıldızların yaşam süresi neden kısadır?”,” Dünya’daki elementlerin kaynağı nedir?” gibi örnek sorularla yıldızların yaşam süreçleri konusunda sınıfta bir tartışma ortamı oluşturulur. Öğrencilerin tartışma sırasında konuyu çok yönlü bakış açısıyla değerlendirerek süpernova, kara delik, nötron yıldızı ve beyaz cüce gibi kavramları açıklamak için bazı kanıtlar sunmaları sağlanır. Öğrencilerin karşı iddiaların yanlışlığını ortaya koyarken kendi argümanlarını savunmaları ve farklı fikirlere saygı duyacak şekilde iletişim becerilerini geliştirmeleri desteklenir ( E3.5 , SDB2.1 , D3.1 , D14.1 ). Öğrenciler sınıf tartışması neticesinde farklı kütlelerdeki yıldızların yaşam süreçleri arasındaki örüntüleri keşfeder ( SDB2.2 ). Keşfettiği örüntüler üzerinden yıldızların kütlelerinin büyüklüğüne göre yaşam süreçleri hakkında genelleme yapar ( E3.6 , KB2.9 ). Öğrenmeler açık uçlu sorularla izlenebilir. Performans görevi olarak öğrencilerden yıldızların yaşam süreci ile ilgili poster hazırlayarak sunmaları istenebilir. Öğrencilerin posterde kullanılan görsellerde renk, desen, doku gibi duyusal özelliklerin estetik algı ile ilişkisini fark edebilmeleri sağlanır ( D7.1 ). Performans görevi, öğrenciler tarafından öz değerlendirme formu ile, öğretmen tarafından ise analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "FBAB10. Tümevarımsal Akıl Yürütme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1627"
+}

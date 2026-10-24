@@ -1,0 +1,93 @@
+{
+  "unitId": 708,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "5. TEMA: HÜCUM OYUNLARI",
+  "hours": "20",
+  "description": "Bu temada öğrencilerin hücum oyunlarının dinamiklerini anlamaları; rakip savunmasını aşmak için etkili stratejiler geliştirmeleri; farklı hücum senaryolarını deneyimleyerek boş alan yaratma, pas verme, hareket etme,zamanlama gibi temel kavram ve taktikleri uygulamaları; hücum sporlarına hazırlayıcı becerileri geliştirmeleri ve güvenlik konularına dikkat edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.6.5.1",
+      "title": "Hücum oyunlarında güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Hücum oyunları oynarken oluşabilecek riskleri tanımlar.",
+        "b) Hücum oyunları oynarken oluşabilecek risklere ilişkin önleyici tedbirler alır."
+      ]
+    },
+    {
+      "code": "BES.6.5.2",
+      "title": "Hücum oyunlarına ilişkin hareket kavramlarını uygulayabilme",
+      "processComponents": [
+        "a) Hücum oyunlarına ilişkin hareket kavramlarını ayırt eder.",
+        "b) Hücum oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar.",
+        "c) Hücum oyunlarına ilişkin hareket kavramına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BES.6.5.3",
+      "title": "Hücum oyunlarına ilişkin hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Hücum oyunlarına ilişkin hareket becerilerini algılar.",
+        "b) Hücum oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir.",
+        "c) Hücum oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular."
+      ]
+    },
+    {
+      "code": "BES.6.5.4",
+      "title": "Hücum oyunlarına ilişkin taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Hücum oyunlarına ilişkin verilen taktiksel problemi belirler.",
+        "b) Hücum oyunlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar.",
+        "c) Hücum oyunlarına ilişkin seçilen taktik veya stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "boşluk yaratma, hücum, kontrol, pas, savunma, sonlandırma, şut, top sürme",
+  "support": [
+    "Hücum oyunlarının oynanacağı oyun alanları kontrol etmesi ve potansiyel tehlikeleri belirlemeleri istenebilir. Isınma ve soğuma hareketlerini arkadaş yardımıyla yapmaları sağlanabilir. Farklı hücum oyunlarının kavram, beceri ve taktiklerine ilişkin video örneklerini izlemeleri istenebilir. Bu kavram, beceri ve taktiklerin zorluk seviyesi uygun hâle getirilmiş oyunlarda uygulanması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden bir risk matrisi oluşturarak oyun alanındaki potansiyel tehlikeleri sınıflandırmaları ve bu riskleri önceliklendirmeleri istenebilir. Bu süreçte farklı oyunlar, ortamlar ve oyuncu özelliklerine uygun kişiselleştirilmiş güvenlik protokolleri tasarlamaya ve uygulamaya teşvik edilebilir. Ayrıca spor teknolojilerinin taktik ve strateji geliştirmedeki rolünü araştırmaları ve bu teknolojileri kullanarak müsabaka analizi yapmaları sağlanabilir. Öğrencilerden seçtikleri bir hücum oyununu izlemeleri ve bu oyunlara ilişkin kavram, beceri ve taktikleri değerlendirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları gözlem formu, bütüncül dereceli puanlama anahtarı, kontrol listesi, öz değerlendirme formu ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere performans görevi olarak hücum oyunlarına yönelik çeşitli materyaller (toplar, frizbi vb.) tasarlama ve tasarladıkları bu materyalleri taktik ve beceri geliştirici oyunlarda kullanma verilebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "B ES.6.5.1. Öğrencilerden hazırlanan oyun alanını gözlemleyerek güvenli olan ve olmayan durumları belirlemeleri istenir. Öğrencilerden her bir durumu değerlendirmeleri ve olası riskleri kaydedebilecekleri kontrol listesi hazırlamaları istenerek öğrencilerin oyunlar sırasında alabilecekleri güvenlik tedbirlerini tanımlamaları sağlanır ( OB7 ). Isınma-soğuma, esnetme hareketleri, doğru tekniği uygulama, kaliteli ve yaşa uygun malzeme kullanma, çevre özelliklerini kontrol etme (zemin, ekipman, hava şartları vb.) hususları tartışılarak riskleri önleyici tedbirler almaları istenir ( SDB3.3 ). Kişisel sınırlarını koruma, başkalarının sınırlarına saygı gösterme, kurallara uyma gibi güvenli alan oluşturma bileşenlerine vurgu yapılarak öğrencilerin oyunlarda bu hususlara dikkat etmeleri beklenir ( BEOSAB8 , D8.4 , D14.1 ) Öğrencilerin oyun alanlarında güvenli ortam oluşturabilme durumları kontrol listesi ile değerlendirilebilir.",
+    "BES.6.5.2. Öğrencilere hücum oyunları (futbol, basketbol, hentbol, frizbi, hokey vb.) ile ilgili çeşitli sorular sorularak bu oyunları tanıması sağlanır. Taktiksel benzerliklerine göre uygun oyunlar seçildikten sonra öğrencilere oyunun amacı, kuralları, roller, oyunun alanı, grup sayısı, taktiksel yapı gibi konularda bilgi verilir. Oyunun amacına ulaşabilmesi için pozisyon alma, alan kullanımı, savunma, hızlı ve doğru karar verme, zamanlama, sonlandırma gibi kavramları ayırt etmeleri sağlanır. Oyunlarda amaca ulaşabilmek için hangi bilgi ve becerilere ihtiyaç olduğu sorularak hem beceri ile kavramlar arasında ilişki kurması hem de bu becerileri geliştirebilmek için hazırlık yapmaları sağlanır ( SDB1.1 , SDB1.2 , E1.4 ). Öğrencilere bu kavram ve becerileri sergileyebilecekleri oyunlar oynatılır ve öğrencilerin gözlem ve geri bildirimler yoluyla ilgili kavramlara (alan kullanımı, pozisyon alma, hızlı ve doğru karar verme, zamanlama vb.) uygun hareket etmesi sağlanır ( E2.5 ). Öğrencilere hücum oyunlarına yönelik çeşitli materyaller (toplar, frizbi vb.) tasarlama ve tasarladıkları bu materyalleri hücum oyunlarında kullanma performans görevi verilebilir. Aynı zamanda öğrencilerin öz değerlendirme formu ile performans görevine ilişkin kendilerini değerlendirmeleri istenebilir ( KB2.17 , SDB1.3 ).",
+    "BES.6.5.3. Seçilen hücum oyunu esnek kurallı ve basit formuyla oynatılarak süreç başlatılır. Soru, ipucu ve açıklamalarla öğrencilerin oyunda ihtiyaç duyulan becerileri algılaması sağlanır. Öğrencilerin hücum oyunlarına ilişkin algıladıkları becerilerin basamaklarını (futbolda pas çalışması için duruş, topa yaklaşma, ayak pozisyonu, vuruş tekniği, pasın hızı ve yönü, geri dönüş ve pozisyon alma vb.) bireysel ya da grup olarak çalışması istenir. Beceri çalışmaları yapıldıktan sonra oyun tekrar düzenlenmiş formuyla gruba oynatılır. Bu oyun sonrasında eksik olduğu tespit edilen becerilerin gelişimine yönelik alıştırma etkinlikleri düzenlenir. Bu alıştırma etkinlikleri bittikten sonra öğrencilerin hareket becerilerini oyun alanında tekrar ve çeşitlendirmelerle birlikte farklı durumlarda uygulaması sağlanır ( SDB3.1 ). Bu süreçte becerinin gelişmesi için oyunları tekrar etmek yerine \"oyun-alıştırma-oyun\" döngüsü ile becerileri geliştirmesi için uygulama çalışmalarının tekrar etmesi sağlanır ( E1.3 ). Oyunlar arasında adil oyun anlayışına uygun davranışlar vurgulanarak oyun bitiminde haftanın adil oyuna uygun davranan grubu seçilir ( BEOSAB8 ). Adil oyun konusu vurgulanırken oyunlarda kendisine yapılması istenmeyen davranışların başkalarına da yapılmaması gerektiği örnekler üzerinden açıklanır ( D5.1 , E2.1 ). Oyunlar bittiğinde öğrenciler hem katılanı hem de kazananı takdir etmeye teşvik edilir ( D14.1 ). Bu öğrenme çıktısı hücum oyunlarının becerilerini geliştiren farklı oyun ve etkinliklerle de yapılandırılabilir. Örneğin beceri istasyonları kurularak seçili oyun türünün becerileri farklı istasyonlarda çalışılabilir. Bu öğrenme çıktısı bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BES.6.5.4. Hücum oyunlarına özgü yapılandırılmış bir öğrenme ortamı içerisinde öğrencilerin kavram, beceri ve taktiklerin bir bütün içerisinde olması konusunu tartışmaları sağlanır ( KB2.18 ). Oyun öncesi ya da sonrası \"Bu durumda ne yaparsınız?\" sorusuyla oyunun amacına ulaşabilmek için öğrencilerin oyundaki taktiksel problemi (boşluk oluşturma ve boşlukta hareket etme, topa sahip olma, hızlı hücum, alan savunması vb.) belirlemeleri sağlanır. Problem belirlendikten sonra öğrencilere grup olarak düşünmeleri ve kendi çözüm önerilerini geliştirmeleri için zaman verilir ( SDB2.2 , SDB3.3 ). Öğrencilere grup olarak çözüm ile ilgili verdikleri kararı uygulayabilmek için ihtiyaç duyulan becerileri oyun ya da alıştırmalar yoluyla geliştirme fırsatları sunulur. Çözümle ilişkili taktik ve stratejilerin oyun içerisinde gösterilmesi beklenir. Örneğin kuyruk kapma ile ilgili bir hazırlayıcı oyun yapısında taktiksel problem alan farkındalığı göstererek kuyruğu kapmak için etkili ve hızlı hücum stratejileri uygulamak şeklinde belirlenir. Öğrencilerin bu problemi belirlemeleri, çözüm önerileri geliştirmeleri, ihtiyaç duyulan becerileri çalışmaları ve oyunda uygulamaları sağlanır ( E2.5 , E3.3 , SDB3.3 ). Bu döngü öğrenme ortamı içerisinde çeşitlendirilerek işletilebilir. Öğrencilerin taktik ve strateji geliştirmelerine yardımcı olmak için \"Bu oyunda amaç ne?\", \"Bu amaca ulaşmak için hangi becerilere ihtiyacınız var?\", \"Bu durumda ne yapmanız gerekiyor?\", \"İlk stratejiniz neydi?\", \"Bu sorunu çözmek için kaç strateji denediniz?\", \"En etkili olanı neydi?\", \"Diğer grubun taktik ve stratejilerini izleyip bir şeyler öğrendiniz mi?\" gibi sorular sorulur ( SDB1.2 ). Öğrencilere grup hâlinde oyun tasarlama ve bu oyunlara özgü taktik/stratejileri belirleme performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D5.1",
+      "D8.4"
+    ],
+    "egilim": [
+      "E1.3",
+      "E1.4",
+      "E2.1",
+      "E2.5",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.17",
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/708"
+}

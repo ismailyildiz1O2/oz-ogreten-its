@@ -1,0 +1,44 @@
+{
+  "unitId": 81424122,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "122. ÜNİTE: TEZHİP - TEZHİP SANATINDA KENAR SUYU ÇEŞİTLERİ VE UYGULAMASI",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.2.6.1",
+      "title": "Tezhip sanatında kullanılan kenar suyu bezemelerinin çeşitlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.6.2",
+      "title": "Tezhip sanatında kullanılan kenar suyu bezemelerinden örnek uygulamalar gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.6.3",
+      "title": "Karamemi'nin “Muhibbi Divanı”ndaki gül dalı etrafına cetvel çeker",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.6.4",
+      "title": "“Karahisari Besmele”sine zencerek uygulamasını yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.6.5",
+      "title": "Zencereğe cetvel ve kuzuyu uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

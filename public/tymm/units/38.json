@@ -1,0 +1,87 @@
+{
+  "unitId": 38,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "4. ÜNİTE: BİLGİ FELSEFESİ",
+  "hours": "8",
+  "description": "Bu ünitede öğrencilerin bilgi felsefesinin temel kavram, konu ve problemlerini açıklayarak bu alandaki düşünce ve argümanlar üzerine felsefi muhakeme yapabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.4.1",
+      "title": "Bilgi felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme",
+      "processComponents": [
+        "a) Bilgi felsefesinin konusunu ve temel kavramlarını açıklar.",
+        "b) Bilgi felsefesinin temel problemlerini açıklar.",
+        "c) Bilgi felsefesinin temel problemlerine yönelik düşünce ve argümanları değerlendirir.",
+        "ç) Bilgi felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceler."
+      ]
+    }
+  ],
+  "keyConcepts": "bilgi, doğruluk, gerçeklik",
+  "support": [
+    "Bilgi felsefesinin konusu ve temel kavramlarını pekiştirmeye yönelik görsel, işitsel uyaranların ağırlıkta olduğu öğretim materyalleri kullanılabilir.",
+    "Bilgi felsefesinin temel problemlerinin açıklanması aşamasında akran öğretimi veya grup çalışmalarından yararlanılabilir.",
+    "İnceleme sürecinde sunulan metindeki kavram, problem ve argümanlar öğrenciye doğrudan verilerek bunları kendi cümleleriyle ifade etmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Bilgi felsefesine ilişkin bilgi türlerini (tanışıklık bilgisi, önermesel bilgi, nasılın bilgisi) araştırarak kısa açıklamaların, örneklerin ve görsellerin olduğu dijital bir zihin haritası oluşturulabilir.",
+    "Gazali'nin \"kesin bilgi\" arayışındaki şüphe yaklaşımı ile Descartes'ın \"metodik şüphe\" yöntemi arasındaki benzerlikler ve tarihsel etkileşim araştırılabilir.",
+    "D. Hume'un İnsanın Anlama Yetisi Üzerine Bir Soruşturma adlı eserinden seçilen bir metin üzerinden; \"nedensellik ilkesi\" eleştirisi ve deney-akıl ilişkisi analiz edilebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktısı; çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir. Performans görevi: Öğrenciler bilgi felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek metin inceleme formunu doldurmaları istenebilir. Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin, argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi ve eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.4.1",
+    "Öğrencilerin bilgi felsefesinin konusu ve temel kavramlarını açıklamaları amaçlanır. Bunun için;",
+    "• Bilgi olan ve bilgi olmayan örnek ifadeler karışık olarak verilerek öğrencilerden bu ifadelerin nasıl ayırt edilebileceğine ilişkin düşüncelerini açıklayarak sınıflandırmaları istenir ( KB2.5 ). Öğrencilerin Platon'un \"mağara benzetmesi\"nden yola çıkarak ilgili görsel veya animasyonlar aracılığıyla bilgi ve sanı kavramlarının arasındaki ilişkiyi sorgulamaları, gerçeklik ve doğruluk kavramları arasındaki ilişkiyi ifade etmeleri sağlanır ( OB2 , OB4 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "• Öğrencilere bilgi kavramının terim anlamı ve filozoflar tarafından yapılan çeşitli bilgi tanımları verilerek onlardan bilgi felsefesinin konusu hakkında çıkarım yapmaları istenir ( KB2.8 ). Süreçte öğrenciler görüşlerini yazılı ve sözlü olarak özetleyebilir veya metaforlar oluşturabilir ( KB2.3 ).",
+    "Öğrencilerin bilgi felsefesinin temel problemlerini (bilginin imkânı, bilginin kaynağı ve doğruluk ölçütleri) açıklamaları ve bu problemlere yönelik düşünce ve argümanları değerlendirmeleri amaçlanır. Bunun için;",
+    "• Protagoras, Gorgias, Pyrrhon, Sokrates ve Descartes'ın doğru bilginin imkânı hakkında görüş ve argümanlarından oluşan bilgi görseli veya tartışma senaryosu verilerek öğrencilerden doğru bilginin imkânı probleminin çıkış nedenlerini ve söz konusu filozofların bilgi anlayışlarını kendi cümleleriyle ifade etmeleri istenir ( OB1 , KB2.4 ). Süreçte kuşkuculuk ve dogmatizm hakkında bilgi verilir. Öğrencilerin ilgili filozofların görüş ve argümanlarını karşılıklı olarak değerlendirmeleri sağlanır ( KB2.7 ). Bu aşamada anlam çözümleme tablosu öğretim tekniği kullanılabilir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "• Bilginin kaynağına yönelik hazırlanmış çalışma kâğıdı öğrencilere sunulur. Çalışmada öğrencilerden bilginin kaynağının neler olabileceğini tartışmaları istenir. Bilginin kaynağı hakkında öne çıkan görüşleri (rasyonalizm, empirizm, kritisizm ve entüisyonizm) içeren yapılandırılmış kısa metin örnekleri verilerek öğrencilerin iş birlikli olarak bilginin kaynağı problemini açıklamaları ve ilgili görüşlerde geçen düşünce ve argümanları benzerlik ve farklılıkları açısından değerlendirmeleri sağlanır ( SDB2.2 , KB2.7 ). Bu aşamada karşılaştırma tablosu öğretim tekniği kullanılabilir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Sürecin sonunda Sokratik tartışma yöntemi kullanılarak bilginin kaynağında duyu, akıl ve sezgiden hangisinin daha geçerli olabileceği üzerinde öğrencilerin görüş oluşturmaları sağlanır ( E3.8 , KB3.3 ). Süreçte öğrencilerin birbirlerine nezaketli olmaları ve bilinçli bir tutum gerçekleştirmeleri sağlanır ( D14.1 ).",
+    "• Gazete, dergi, makale ve televizyon programlarından seçilen yazılı ve görsel örnek durumlar verilerek öğrencilerin bu örneklerde yer alan bilgilerin doğrulanmasında kullanılabilecek ölçütlerin neler olabileceği üzerine tartışmaları sağlanır ( OB1 , OB4 , KB2.18 ). Tartışmada öğrencilerden saygılı ve kontrollü bir tutum sergilemeleri istenir ( D12.2 ). Bilginin doğruluk ölçütleri (uygunluk, tutarlılık, tümel uzlaşım, apaçıklık ve yarar) hakkında bilgi görseli verilerek öğrencilerin iş birlikli olarak bu ölçütlerin dayandığı argümanların hangi durumlarda geçerli olabileceğini değerlendirmeleri sağlanır ( E3.10 , SDB2.2 ). Değerlendirmede öğrencilerden doğruluk ölçütlerinin her birinin hangi disiplinlerde daha yaygın olarak kullanıldığına ilişkin görüşlerini sözlü olarak ifade etmeleri istenir ( E3.6 , KB2.10 ).",
+    "Öğrencilerin bilgi felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları incelemeleri amaçlanır. Bu doğrultuda öğrencilere bir performans görevi verilir. Bunun için;",
+    "Platon'un Theaitetos veya Sofist,",
+    "- S. Empiricus'un Kuşkuculuk,",
+    "- Gazali'nin Hakikat Arayışı,",
+    "- R. Descartes'ın Felsefenin İlkeleri,",
+    "- J. Locke'ın İnsan Anlığı Üzerine Bir Deneme,",
+    "- Kant'ın Saf Aklın Eleştirisi,",
+    "- Necati Öner'in Bilginin Serüveni adlı eserlerinden kısaltılan veya alıntılanan metinler, öğrencilerin de görüşleri alınarak dengeli bir şekilde dağıtılır.",
+    "Öğrencilere bireysel ya da iş birlikli olarak metin inceleme formu doldurtulur ve çalışmalarını paylaşmaları sağlanır ( E3.7 ). Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin ve argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi, eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir. Bu süreçte öğrenciler çeşitli fikir, argüman ve yeni bilgilere açık olur; görev ve sorumluluklarını etik ilkelere uygun bir şekilde zamanında yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D14.1",
+      "D16.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.18",
+      "KB2.3",
+      "KB2.4",
+      "KB2.5",
+      "KB2.7",
+      "KB2.8",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/38"
+}

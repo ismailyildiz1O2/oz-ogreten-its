@@ -1,0 +1,59 @@
+{
+  "unitId": 81424056,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "56. ÜNİTE: KANUN - KANUN ÇALMADA TEMEL DAVRANIŞLAR",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.8.1.1",
+      "title": "Kanunun yapısal özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.2",
+      "title": "Doğru oturma ve çalma pozisyonunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.3",
+      "title": "Ayaklık ve nota sehpasının işlevini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.4",
+      "title": "Yüksük, mızrap ve akort anahtarının işlevini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.5",
+      "title": "Kanun çalgısının ses genişliğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.6",
+      "title": "Kanun çalgısındaki natürel seslerin isimlerini söyler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.7",
+      "title": "Akort etme yöntemlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.1.8",
+      "title": "Kanunu akort eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

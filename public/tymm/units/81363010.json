@@ -1,0 +1,72 @@
+{
+  "unitId": 81363010,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "10. ÜNİTE: EDEBİYAT UYGULAMALARI III - ARAŞTIRMA",
+  "hours": "36",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.3.2.1",
+      "title": "Merak edilen konuyu, soruyu veya problemi tanımlar",
+      "processComponents": [
+        "Amaç, ihtiyaç veya ilgi alanları doğrultusunda belirli bir konuya ilişkin problemler, varsayımlar, önermeler veya doğruluğundan kuşkuya düşülen bilgilere yönelik problem tanımlanır."
+      ]
+    },
+    {
+      "code": "EDU.3.2.2",
+      "title": "Araştırmaya konu olacak problem hakkında sorular sorar",
+      "processComponents": [
+        "Problemi ortaya çıkarmak, araştırmanın kapsam ve sınırlılıklarını belirlemek için sorular sorulur."
+      ]
+    },
+    {
+      "code": "EDU.3.2.3",
+      "title": "Araştırmanın kapsamını belirler",
+      "processComponents": [
+        "Belirlenen konuya ilişkin bir olayı, olguyu, durumu, değişkeni, etkenler arasındaki ilişkiyi veya dil, estetik, yapı ve biçim özellikleri taşıyan unsurları açıklamak, betimlemek, keşfetmek, ortaya koymak, bilgi toplamak, mevcut bilgileri sorgulamak için yapılacak araştırmanın amacı, kapsamı ve sınırlılıkları belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.3.2.4",
+      "title": "Araştırmada kullanılacak araç, yöntem ve teknikleri belirler",
+      "processComponents": [
+        "Araştırmanın kapsamı, sınırlılıkları ve amacı doğrultusunda uygun bir taslak plan hazırlanır; araştırmada kullanılacak nicel ve/veya nitel araştırma yöntemleri ile bu yöntemleri kullanırken faydalanılacak araştırma tekniklerini belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.3.2.5",
+      "title": "İstenen bilgiye ulaşmak için araştırma basamaklarını işletir",
+      "processComponents": [
+        "Araştırmanın amacı, konusu, kapsamı ve sınırlılıkları çerçevesinde veri toplanacak birincil ve ikincil kaynaklar tespit edilir; veri toplama stratejileri geliştirilir.",
+        "Araştırma için gerekli olan bilgiler; inceleme, analiz etme, karşılaştırma, çözümleme, derleme, tarama, ölçme, gözlem, deney, anket, görüşme gibi nitel ve/veya nicel veri toplama yöntem, araç ve teknikleri kullanılarak elde edilir.",
+        "Araştırma sürecinde elde edilen bilgiler kaydedilir. Bu bilgiler araştırmanın amacı, kapsamı ve sınırlılıklarına uygun olarak belirlenen özelliklerine göre sınıflandırılır.",
+        "Araştırma sürecinde elde edilen bilgiler değerlendirilerek, çözümlenerek, yorumlanarak, değişkenler tespit edilerek, neden sonuç ilişkileri ortaya konarak bulgulara ulaşılır. Elde edilen bulgular başka kaynaklardan elde edilen bilgilerle karşılaştırılır.",
+        "Araştırma sonucunda elde edilen bilgiler üzerinden çıkarımlar yapılır. Araştırmaya konu olan problemle ilgili çözümler üretilir."
+      ]
+    },
+    {
+      "code": "EDU.3.2.6",
+      "title": "Araştırma sonunda elde edilen bilgileri ve ulaşılan sonuçları sunar",
+      "processComponents": [
+        "Araştırma sonuçları hakkında bilgi vermek, elde edilen bulguları ortaya koymak ve bunları paylaşmak için makale, rapor, sunum gibi bilimsel bir dille yazılmış ve yapısal bütünlük taşıyan (özet, ön söz, içindekiler, kısaltmalar, giriş, ana bölüm, sonuç, kaynakça, dizin, ekler vb.) metinler üretilir. Üretilen bilimsel metinlerde uygun atıf, dipnot ve kaynak gösterme yöntemleri (APA, MLA, Chicago/Turabian, Harvard, IEEE vb.) uygulanır."
+      ]
+    },
+    {
+      "code": "EDU.3.2.7",
+      "title": "Araştırma sürecini değerlendirir",
+      "processComponents": [
+        "Araştırma süreci boyunca bilimsel etik kuralları uygulanır; araştırmanın hazırlık, uygulama ve sonuç aşamalarındaki geri bildirimler değerlendirilir; sürece ilişkin öz değerlendirme yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

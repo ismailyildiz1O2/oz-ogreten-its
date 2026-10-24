@@ -1,0 +1,46 @@
+{
+  "unitId": 81404067,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "67. ÜNİTE: BASKETBOLDA ŞUT TEKNİKLERİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TS.1.7.1",
+      "title": "Basketbolda şut tekniklerini açıklar",
+      "processComponents": [
+        "Durarak şut üzerinde durulur.",
+        "Sıçrayarak şut üzerinde durulur.",
+        "Serbest atış üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TS.1.7.2",
+      "title": "Basketbolda şut tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "TS.1.7.3",
+      "title": "Basketbolda turnike çeşitlerini açıklar",
+      "processComponents": [
+        "Sağ turnike üzerinde durulur.",
+        "Sol turnike üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TS.1.7.4",
+      "title": "Basketbolda turnike çeşitlerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

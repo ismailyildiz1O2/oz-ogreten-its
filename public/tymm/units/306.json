@@ -1,0 +1,94 @@
+{
+  "unitId": 306,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "1. TEMA: NİCELİKLER VE DEĞİŞİMLER (2)",
+  "hours": "22",
+  "description": "Bu temada öğrencilerin gerçek sayılarda tanımlı doğrusal ve karesel fonksiyonlar ile polinom fonksiyonlar arasındaki ilişkilere yönelik analojik akıl yürütebilmeleri, gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine dair çıkarım yapabilmeleri, polinom ve rasyonel fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri içeren problemleri çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.1.3",
+      "title": "Gerçek sayılarda tanımlı doğrusal ve karesel fonksiyonlar ile polinom fonksiyonlar arasındaki ilişkiyi ifade etmede analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Gerçek sayılarda tanımlı doğrusal ve karesel fonksiyonlarla formundaki gerçek katsayılı tek değişkenli polinom fonksiyonların sayısal, cebirsel ve grafiksel özelliklerini gözlemler.",
+        "b) Gözlemlerinden yola çıkarak gerçek sayılarda tanımlı doğrusal ve karesel fonksiyonlarla gerçek katsayılı tek değişkenli formundaki polinom fonksiyonların tanım ve değer kümesi ile işlem özelliklerinin benzer yanlarını tespit eder.",
+        "c) Tespit ettiği özelliklerden hareketle gerçek sayılarda tanımlı doğrusal ve karesel fonksiyonlarla formundaki polinom fonksiyonların aynı aileden olduğuna ve benzer nitel özelliklere sahip olabileceklerine dair çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MAT.12.1.4",
+      "title": "Gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine (tanım kümesi, görüntü kümesi, derecesi, bire birliği, örtenliği, işareti, sıfırları, tekliği-çiftliği) dair varsayımlarda bulunur.",
+        "b) Gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine dair varsayımlardan ulaştığı örüntüleri geneller.",
+        "c) Gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine dair genellemeleri ile varsayımlarını karşılaştırır.",
+        "ç) Gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine dair genellemelerinden önermeler sunar.",
+        "d) Gerçek katsayılı tek değişkenli polinom fonksiyonların nitel özelliklerine dair önermelerin faydasını gerçek yaşam durumlarında değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.1.5",
+      "title": "Polinom ve rasyonel fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri içeren problemleri çözebilme",
+      "processComponents": [
+        "a) Polinom ve rasyonel fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri içeren gerçek yaşam problemlerinin çözümü için stratejiler oluşturur.",
+        "b) Oluşturduğu stratejiyi kullanarak problemi çözer.",
+        "c) Problemin çözümünü kontrol eder.",
+        "ç) Problemin olası çözüm stratejilerini gözden geçirir.",
+        "d) Problemin olası çözüm stratejilerinin farklı problem durumlarında kullanımı ile ilgili çıkarımlar yapar.",
+        "e) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "artanlık-azalanlık, başkatsayı, bire birlik, derece, fonksiyonun işareti, fonksiyonun sıfırı, kök, örtenlik, polinom fonksiyon, rasyonel fonksiyon, sabit terim, teklik-çiftlik",
+  "support": [
+    "Üçüncü veya dördüncü dereceden polinom fonksiyonlara p(x)=x³ ve q(x)=x⁴ polinom fonksiyonlarının cebirsel ve grafik temsillerinin incelenmesi ve ilişkilendirilmesi ile başlanabilir. Rasyonel fonksiyonlara payı ve paydası birinci veya ikinci dereceden polinomlardan oluşan uygun koşullarda şeklinde tanımlı fonksiyonlar incelenerek başlanabilir.",
+    "Polinom fonksiyonların nitel özelliklerinin incelenmesine yönelik çözülen örneklerin sayısı artırılabilir ve incelemeler yapılırken matematik yazılımlarından yararlanılabilir. Polinom fonksiyonların nitel özellikleri ile ilgili genellemelere ulaşılamadığı durumlarda sayısal örnekler kullanılarak öğrencilerden sınırlı genellemeler yapmaları istenebilir.",
+    "Polinom ve rasyonel fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri içeren problemlerin çözümlerinde hesap makinesi, çevrim içi araçlar veya matematik yazılımlarından yararlanılabilir.",
+    "Polinom fonksiyonlar ile ilgili performans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam araçları (sözlü, yazılı, görsel gibi) kullanılabilir. Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulur ve polinom fonksiyonlar konusunda öğrencilerin bireysel ihtiyaçlarına uygun hedefler belirlenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilerin bir polinom fonksiyonun sıfırının işaretinin ne olacağına veya p ve q birer polinom fonksiyon olmak üzere p(x) = q(x)denkleminin çözüm kümesindeki elemanların hangi ardışık tam sayılar arasında olacağına dair çıkarımda bulunmaları fonksiyonların grafikleri incelenerek sağlanabilir.",
+    "(*) Polinom interpolasyonu yöntemi kullanılarak bir polinom fonksiyonun cebirsel temsilinin bulunmasına yönelik çalışmalar yapılabilir. Örneğin bazı noktalarda aldığı değerleri bilinen bir polinom fonksiyonun cebirsel temsili polinom interpolasyonu yöntemi ile bulunabilir. Farklı stratejiler kullanılarak ve elde edilen sonuçlardan yararlanılarak belirlenen cebirsel ifadenin doğruluğu kontrol edilebilir.",
+    "(*) Öğrencilere en fazla dördüncü dereceden gerçek katsayılı bir p polinom fonksiyonu için p(x) = 0 denkleminin kökleri ile katsayıları arasındaki bağıntıları veren Vieta (Viet) formüllerine yönelik araştırma ödevi verilebilir. Öğrencilerden araştırma sonucunda ulaşılan verileri kullanarak gerçek katsayılı polinom fonksiyonların sıfırlarının bulunmasına yönelik elde edilen cebirsel formülleri ispatlaması beklenebilir. Ayrıca öğrencilerden bir polinomun sıfırlarının gerçek sayı ya da karmaşık sayı olması durumlarına dair çıkarımlar yapmaları beklenebilir. Polinomlarda bölme algoritmasına ve Horner (Hornır) yöntemine yer verilir. Bir kökü tahmin edilen bir polinom fonksiyonun diğer köklerini araştırmak için bölme algoritması ve Horner yöntemi kullanılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi, proje ödevi, açık uçlu sorular ve araştırma ödevi ile değerlendirilebilir.",
+    "Üçüncü ve dördüncü dereceden polinom fonksiyonların matematik yazılımları yardımıyla çizilen grafik temsilleri incelenerek fonksiyonların cebirsel ve grafik temsili arasındaki ilişkilerin belirlenmesine yönelik performans görevi verilebilir. Bu görevin değerlendirilebilmesi için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Öğrencilere polinom fonksiyonların derecesinin, işaretinin, sıfırlarının, tekliğinin-çiftliğinin ve sonsuzdaki davranışının incelendiği sorulardan oluşan çalışma kâğıdı verilebilir. Ortaya konan veriler, bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Polinom ve rasyonel fonksiyonları içeren denklem ve eşitsizliklerin kullanıldığı gerçek yaşam problemlerinden oluşan, öğrencilerin matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağlayacak proje ödevi verilebilir. Ödevin değerlendirilmesinde projeye hazırlık, içerik oluşturma ve sunum süreçlerini içine alan derecelendirme ölçeği kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.1.3 Öğrencilerden doğrusal ve karesel fonksiyonların cebirsel ve grafik temsillerini inceleyerek ne gibi ortak özellikleri olduğuna dair gözlemlerini ifade etmeleri istenir. \"Bu tür fonksiyonların cebirsel temsillerinde bağımsız değişkenin kuvvetleri doğal sayı, katsayıları ise gerçek sayıdır.\" gibi sonuçlar elde etmeleri beklenir. Doğrusal ve karesel fonksiyonların cebirsel temsilleri ile yapılan toplama, çıkarma ve çarpma işlemleri sonucu elde edilen cebirsel temsillerin yine gerçek sayılarda fonksiyon ifade edeceğini fark etmeleri sağlanır. Bu gözlemlerden hareketle bu tür fonksiyonların cebirsel temsillerinin genelleştirmesi olarak p(x) = a n x n + a n-1 x n-1 + ... + a 1 x 1 + a 0 (n∈ℕ) formu tanıtılır ( MAB3 ) . Bu cebirsel formların polinom olarak adlandırıldığı belirtilerek polinomun derecesi, başkatsayısı, sabit terimi tanıtılır. Genellenen bu cebirsel forma sahip fonksiyonlar, gerçek sayılarda tanımlı n. dereceden tek değişkenli polinom fonksiyonlar olarak ifade edilir ve öğrencilerden bu fonksiyonların derecelerini belirleyebilmeleri beklenir. Bu bağlamda öğrencilerin doğrusal ve karesel fonksiyonların tanım ve değer kümesi ile işlem özelliklerini, birinci ve ikinci dereceden polinom fonksiyonların tanım ve değer kümesi ile işlem özelliklerini inceleyip karşılaştırması sağlanır. Öğrencilerden bu fonksiyonların polinom fonksiyonlarla aynı aileden olmasına ve benzer nitel özelliklerine yönelik çıkarımlarda bulunmaları beklenir. Öğrencilere bu çıkarımları yapmalarını sağlayacak performans görevi verilir.",
+    "MAT.12.1.4 Öğrencilere birinci ve ikinci dereceden polinom fonksiyonların grafik temsilleri üzerinden nitel özelliklerinin neler olduğuna ve bu özelliklerin nasıl belirlendiğine yönelik açık uçlu sorular sorulur. Bu bilgilerden hareketle öğrencilerden polinomların dereceleri ile fonksiyonların sıfırlarının sayısı arasındaki ilişkiye dair fikirler geliştirmeleri beklenir. En fazla dördüncü dereceden polinom fonksiyonların grafik temsilleri üzerinden bu fonksiyonların nitel özellikleri incelenir ( OB4 ) . Bu incelemelerde matematik yazılımlarından faydalanılır. Polinom fonksiyonların çarpanlarına ayrılmış formda verilen cebirsel temsili üzerinden hangi nitel özelliklerinin belirlenebileceğine yönelik sınıf içi tartışma yapılır. Bu tartışmalar yapılırken öğrencilerden birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve diğerlerinin düşüncelerini saygı çerçevesinde dinleyerek arkadaşlarıyla etkileşim kurmaları beklenir ( SDB2.1 , D14.1 ) . Tartışmalar sonucunda öğrencilerin en fazla dördüncü dereceden bir polinom fonksiyonun nitel özellikleri (tanım kümesi, görüntü kümesi, derecesi, bire birliği, örtenliği, işareti, sıfırları, tekliği-çiftliği, sonsuzdaki davranışı) ile ilgili varsayımlarda bulunmaları beklenir. Bu nitel özelliklerden fonksiyonun sıfırlarının sayısı ve sonsuzdaki davranışı ile polinomun derecesi ve başkatsayısı arasındaki ilişkileri keşfetme çalışmalarında matematik yazılımlarından da faydalanılır. Varsayımlar arasında bütün sıfırları birbirine eşit ve gerçek sayı olan üçüncü dereceden bir polinom fonksiyonun bire bir ve örten olacağı, buna karşılık dördüncü dereceden polinom fonksiyonların bire bir olamayacağı gibi sonuçlara ulaşılması sağlanır. Öğrencilerin teklik-çiftlik incelemesi yapabilecekleri uygun polinom fonksiyonların (p(x) = x³ + 3x, p(x) = x⁴+ x²− 5 gibi) matematik yazılımıyla oluşturulan grafik ve cebirsel temsillerini inceleyerek bu fonksiyonların teklik veya çiftlik durumlarına dair varsayımlarda bulunmaları sağlanır ( OB2 , MAB5 ) . Benzer şekilde bir polinom fonksiyonun grafik temsiline dönüşümler uygulanır. Elde edilen polinom fonksiyonlar ile dönüştürülen polinom fonksiyon karşılaştırılarak nitel özelliklerle ilgili varsayımlarda bulunulur. Ayrıca her üçüncü dereceden polinom fonksiyonun cebirsel temsili üzerinden artan veya azalan olduğu aralıkların belirlenemeyeceğinin fark edilmesi sağlanır. Bu varsayımlardan hareketle polinom fonksiyonlar için farklı sıfırlarının sayısının en fazla veya en az kaç olacağı, yapılan dönüşüme bağlı olarak nitel özelliklerinin nasıl değişeceği, hangi durumda tek veya çift olacağı gibi genellemelere ulaşılır. Elde edilen genellemeler ile varsayımların polinom fonksiyonların katsayılarının veya bağımsız değişkeninin aldığı değerlere göre cebirsel, grafik temsillerinden veya matematik yazılımlarından yararlanılarak karşılaştırılması sağlanır. Örneğin \" ∀n ∈ ℕ için p(x)=x 2n polinom fonksiyonları ve bu fonksiyonların toplam, fark ve çarpımları ile elde edilen fonksiyonlar çift fonksiyonlardır.\" veya \" n ∈ ℕ için p(x)=x 2n+1 polinom fonksiyonları tek fonksiyonlardır.\" önermeleri oluşturulur. Benzer şekilde \"p(x) polinom fonksiyonunun sıfırları k, m ise p(k)=p(m)=0 olur.\", \"p(x) polinom fonksiyonunun sıfırları k, m (k, m∈ℝ) iken a > 0 olmak üzere p(x - a) polinom fonksiyonunun sıfırları k + a ve m + a olur.\" gibi önermeler elde edilir ( MAB3 ) . Elde edilen önermeler polinom fonksiyonlarla modellenebilen gerçek yaşam durumlarında değerlendirilir. Bu fonksiyonlar fizik ve mühendislik bağlamında hareket, ivme, kuvvet, enerji, sürtünme gibi alanlarda incelenir. Örneğin yer çekimi etkisinde belirli bir hızla belirli bir yükseklikten aşağı bırakılan bir cismin zamana bağlı yerden yüksekliği polinom fonksiyonlarla modellenebilir. Ekonomi bağlamında ürün adedine bağlı maliyet ve kâr fonksiyonları, polinom fonksiyonlar kullanılarak oluşturulabilir ( OB3 ) . Biyoloji ve tıp bağlamında kandaki glikoz, üre ve oksijen miktarındaki veya kan basıncındaki zamana bağlı değişim polinom fonksiyonlarla modellenerek incelenebilir ( D13.4 ) . Öğrencilere polinom fonksiyonların derecesinin, işaretinin, sıfırlarının, tekliğinin-çiftliğinin ve sonsuzdaki davranışının incelendiği sorulardan oluşan çalışma kâğıdı verilebilir.",
+    "Harizmi, Ömer Hayyam, Ali Kuşçu ve Cahit Arf gibi matematikçilerin polinom fonksiyonlarla ilgili çalışmaları ve Kereci'nin bazı algoritmaları cebirsel ifadelerde (özellikle de polinomlarda) uygulamayı hedefleyen projesi incelenir ( OB5 ) . Polinom fonksiyonların tarihî gelişiminin incelendiği araştırma ödevi verilerek öğrencilerin sistematik bir şekilde konunun gelişimini incelemesi teşvik edilebilir ( E3.7 ) .",
+    "MAT.12.1.5 Rasyonel fonksiyonların iki polinom fonksiyonun birbirine bölümünden oluştuğu ifade edilir. Gerçek yaşam durumlarında polinom veya rasyonel fonksiyonlarla modellenebilen problemler incelenir. Problem durumlarında geçen polinom veya rasyonel fonksiyonların ax + b (a, b∈ℝ, a ≠ 0) veya ax² + bx + c (a, b, c∈ℝ, a ≠ 0) şeklindeki cebirsel ifadelerin çarpımı veya bölümü şeklinde olmasına dikkat edilir. Bu fonksiyonları içeren denklem ve eşitsizliklerin çözümlerine ulaşabilmek için deneme yanılma, fonksiyonun nitel özellikleri ve grafik temsilinden yararlanma, tablo oluşturma gibi yöntemler kullanılır ( OB4 , E3.7 ) . Verilen farklı problem durumlarında uygun bir strateji seçilerek denklem ve eşitsizliklerin çözüm kümeleri elde edilir. Cebirsel yöntemle f(x)<g(x) gibi polinom veya rasyonel fonksiyon içeren eşitsizliklerin çözümünde h(x)=f(x)-g(x) fonksiyonunun işaretini birinci dereceden çarpanlarının işaretine göre belirlemeyi sağlayan işaret tablosu adım adım oluşturulur. Elde edilen çözüm kümelerinin doğruluğu, sayısal değerleri deneme yoluyla veya matematik yazılımları kullanılarak kontrol edilir ( MAB5 ) . Öğrencilere polinom ve rasyonel fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri içeren problemlere ilişkin çalışma kâğıdı verilebilir. Çalışma sonunda öğrencilerin kendilerini değerlendirebilecekleri öz değerlendirme formu hazırlanabilir ( SDB1.2 ) .",
+    "Öğrencilerin polinom ve rasyonel fonksiyonları içeren denklem ve eşitsizlik çözümleri ile ilgili olası farklı çözüm stratejilerini analitik ve sistematik bir şekilde incelemeleri sağlanır ( E3.6 , E3.7 ) . Öğrenciler, problemlerde çözüme ulaştıran stratejilerin başka problem durumlarına uyarlanabilmesi için fonksiyonda sıfırlarının birbirine eşit olması veya ikinci dereceden çarpanının gerçek kökünün olmaması durumlarında fonksiyonun işaretine dikkat edilmesi gerekliliği gibi çıkarımlarda bulunur. Öğrencilerin bu çıkarımları matematiksel bir modele dönüştürmeleri sağlanır. Örneğin belirli bir fiyata alınan kartondan küp şeklinde bir kutu oluşturulduğu ve bu kutunun belirli bir birim küp fiyatı üzerinden satıldığı durumda satıcının kâr elde edebilmesi için kutunun ayrıt uzunluğunun en az kaç birim olabileceğine ilişkin matematiksel modelleme yapılabilir ( OB3 , D17.3 ) . Elde edilen matematiksel modeller sınırlılık, kullanışlılık ve verimlilik açısından değerlendirilir. Öğrencilere polinom ve rasyonel fonksiyonları içeren denklem ve eşitsizliklerin kullanıldığı gerçek yaşam problemlerinden oluşan proje ödevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D14.1",
+      "D17.3"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/306"
+}

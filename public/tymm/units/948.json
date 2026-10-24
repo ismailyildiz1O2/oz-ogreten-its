@@ -1,0 +1,114 @@
+{
+  "unitId": 948,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları - Beden Eğitimi, Oyun ve Müzik Dersi",
+  "title": "1. TEMA: HAREKET EDİYORUM, SAĞLIĞIMI KORUYORUM",
+  "hours": "34",
+  "description": "Temada öğrencilerin ısınma ve hazırlık çalışmaları ile nefes çalışmaları yapabilmeleri, kişisel ve genel alanlarını çözümleyebilmeleri, yer değiştirme ve dengeleme hareketleri ile nesne kontrolü gerektiren hareketleri yapabilmeleri, fiziksel etkinlikler sırasında vücutlarında meydana gelen değişiklikleri gözlemleyebilmeleri, dengeli ve düzenli beslenmenin önemini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BOM.1.1.1",
+      "title": "Isınma ve hazırlık çalışmaları yapabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BOM.1.1.2",
+      "title": "Nefes çalışmaları yapabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BOM.1.1.3",
+      "title": "Kişisel ve genel alanını çözümleyebilme",
+      "processComponents": [
+        "a) Kişisel ve genel alanını belirler.",
+        "b) Kişisel ve genel alanı arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BOM.1.1.4",
+      "title": "Yer değiştirme hareketlerini gözlemleyebilme",
+      "processComponents": [
+        "a) Yer değiştirme hareketlerini gözlemleyerek belirler.",
+        "b) Yer değiştirme hareketlerini gözlemleyerek veri toplar.",
+        "c) Yer değiştirme hareketlerinin nasıl yapıldığını kaydeder."
+      ]
+    },
+    {
+      "code": "BOM.1.1.5",
+      "title": "Dengeleme hareketlerini gözlemleyebilme",
+      "processComponents": [
+        "a) Dengeleme hareketlerini gözlemleyerek belirler.",
+        "b) Gözlemlediği dengeleme hareketleri ile ilgili veri toplar.",
+        "c) Dengeleme hareketlerinin nasıl yapıldığını kaydeder."
+      ]
+    },
+    {
+      "code": "BOM.1.1.6",
+      "title": "Nesne kontrolü gerektiren hareketleri gözlemleyebilme",
+      "processComponents": [
+        "a) Nesne kontrolü gerektiren hareketleri gözlemleyerek belirler.",
+        "b) Nesne kontrolü gerektiren hareketleri gözlemleyerek veri toplar.",
+        "c) Nesne kontrolü gerektiren hareketlerin nasıl yapıldığını kaydeder."
+      ]
+    },
+    {
+      "code": "BOM.1.1.7",
+      "title": "Fiziksel etkinlikler yapılırken vücudunda meydana gelen değişiklikleri gözlemleyebilme",
+      "processComponents": [
+        "a) Fiziksel etkinlik yaparken vücudunda meydana gelecek değişiklikleri belirler.",
+        "b) Fiziksel etkinlikler sırasında vücudunda meydana gelecek değişikliklerle ilgili veri toplar.",
+        "c) Fiziksel etkinlik sırasında vücudunda meydana gelen değişiklikler ile ilgili topladığı verileri kaydeder."
+      ]
+    },
+    {
+      "code": "BOM.1.1.8",
+      "title": "Dengeli ve düzenli beslenmenin önemini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "beslenme, dengeleme, hareket, ısınma, nefes, nesne kontrolü, sağlık, yer değiştirme",
+  "support": [
+    "Isınma ve hazırlık çalışmalarını desteklemek için hareketlerin hızı düşürülebilir. Hareketler parçalara bölünerek öğrencilerin algılaması kolaylaştırılabilir. Öğrencilere doğru nefes alıp verme alışkanlığı kazandırmak için burundan nefes alıp ağızdan nefes verme egzersizleri yaptırılabilir. Drama yöntemiyle hayvanların nefes alış verişi taklit ettirilerek egzersizlerin somutlaştırılması sağlanabilir. Öğrencilerin kişisel alanlarını kendileri belirlemeleri sağlanarak kişisel ve genel alan farkındalığı kazandırılabilir. Yer değiştirme ve dengeleme hareketleri ile nesne kontrolü gerektiren hareketler uygulanırken hareketler basitten karmaşığa olacak şekilde düzenlenerek öğrencilerin kendi öğrenme hızlarında ilerlemelerine olanak sağlanabilir. Öğrencilerden öğrendikleri hareketleri tek tek göstermesi istenebilir. Hareketler desteklenerek yaptırılabilir. Öğrencilere akran geri bildirimi ve iş birlikli öğrenme fırsatları sunularak öğrencilerin birbirlerinden öğrenmeleri sağlanabilir. Fiziksel etkinlik sırasında vücutta meydana gelen değişiklikler basamaklandırılabilir. Her bir kavram adım adım açıklanıp içerik küçük parçalara bölünerek sunulabilir (kalp atış hızının artması, nefesin hızlanması, kasların çalışması, vücut sıcaklığının artması, terleme). Sağlıklı besinler ile ilgili soru cevap yöntemi kullanılarak öğrencilerin fikirleri alınabilir. Öğrencilere sağlıklı beslenme ile ilgili içeriği anlamayı kolaylaştıracak ipuçları verilerek öğrencilerden kendi beslenmesini değerlendirmesi istenebilir. Sağlıklı besinler ile ilgili öğrenmeyi kolaylaştıracak görsel ve dijital materyaller kullanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere ısınma ve hazırlık çalışmaları, ekipman kullanarak, zorluk seviyesi artırılarak yaptırılabilir. Farklı spor dalları veya fiziksel etkinlikler için farklı ısınma türleri olup olmadığı, ısınmanın vücut üzerindeki fizyolojik etkileri (kan akışı, kas sıcaklığı,sinir sistemi aktivasyonu vb.) araştırılabilir. Nefes çalışmaları ile ilgili öğrencilere diyafram nefesini kavratabilmek için balon şişirme oyunu (karnı balon gibi düşünerek nefes aldığında balonu şişirip nefes verdiğinde söndürme) oynatılabilir. Diyafram nefesi öğrenildikten sonra 4-7-8 nefes tekniği (4 saniye boyunca burundan derin nefes alma, 7 saniye nefes tutma, 8 saniye boyunca ağızdan nefes verme) anlatılarak tekniğin uygulanması istenebilir. Öğrencilerden kişisel alanlarını kendilerinin belirlemesi istenebilir. Öğrencilere kişisel ve genel alanla ilgili farklı oyunlar oynatılabilir. Örneğin müzik eşliğinde dans ederken kişisel alan belli bir ölçüde genişletip daraltılabilir. Yer değiştirme hareketleri, hareketleri yaparken yön değiştirerek (ters yöne koşma ve zıplama gibi), hareketlerin hızı artırılarak oyunlaştırılabilir. Tek ayak üzerinde dönüşler yaptırılarak öğrencilerin çevikliği ve dengesi geliştirilebilir. Bir mesafe belirlenerek tek ayak üzerinde ileri sıçrama etkinlikleri yapılıp etkinlikler hız artırılarak tekrarlanabilir. Seksek oyunları oynatılabilir. Farklı nesneler kullanılarak nesne kontrolü gerektiren hareketler zenginleştirilebilir. Öğrencilere dijital kaynaklar kullanılarak farklı spor dallarından ve fiziksel etkinliklerden örnekler izletilerek öğrencilerden fiziksel egzersizler sırasında kişilerin vücutlarında ne gibi değişiklikler olduğunu gözlemlemesi ve bununla ilgili fikir belirtmesi istenebilir. Öğrencilere hızlı egzersizler ya da durağan egzersizler yaptırılarak öğrencilerin o sırada vücudunda meydana gelen değişiklikleri açıklaması sağlanabilir. Öğrencilere sporcu beslenmesi ile ilgili bilgiler verilebilir. Etkinlikler merak uyandıracak şekilde ve bireysel öğrenme ihtiyaçlarını karşılamaya yönelik olabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, performans görevi, öz değerlendirme formu ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilere ısınma ve hazırlık çalışmasındaki hareketlerin yansıtılmasına ilişkin bir performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BOM.1.1.1 Bir öyküden faydalanarak ısınma ve derse hazırlık çalışmalarına (yürüme etkinlikleri, otur kalk oyunları, uyum güven çalışmaları vb.) merak uyandırıcı ve ilgi çekici biçimde örnekler verilir ( E1.1 ). Yürüme etkinlikleri; serbest yürüme, eşli yürüme, \"s\" şeklinde yürüme, müzik eşliğinde yürüme, ritim eşliğinde yürüme şeklinde yapılır. Öğrencilerden yapılan çalışmaları gözlemlemesi beklenir. Hareketler yapılırken öğrencilerin etkin şekilde dinlemesi, arkadaşları ile etkili iletişim kurması ve grup iletişimine katılması sağlanır ( D4.2 , SDB2.1 , D3.4 ). Öğrencilerin yapılan çalışmalara odaklanmış bir şekilde eşlik etmesi beklenir ( E3.2 ). Isınma ve hazırlık çalışmaları fiziksel egzersizler öncesi sakatlanmaları engellemek amacıyla her dersin başında yapılmalıdır. Öğrencilere çalışmalar yapılırken ortak kullanım alanlarında kişisel eşyalarını ve ders materyallerini korumaları ve özenli kullanmaları, bedensel ve mekânsal mahremiyetlerine dikkat etmeleri ve başkalarını rahatsız edecek davranışlarda bulunmamaları gerektiği hatırlatılır ( D17.3 , D8.4 ). Yapılan çalışmalara ilişkin ısınma ve hazırlık çalışmalarını sergileyebileceği performans görevi verilebilir. BOM.1.1.2 Bir öyküden faydalanarak nefes çalışmalarına merak uyandırıcı ve ilgi çekici biçimde örnekler verilir ( E1.1 ). Öğrencilerden yapılan çalışmaları gözlemlemesi beklenir. Öğrencilerin gözlemlediği çalışmalara eşlik etmesi sağlanır. Öğrencilere doğru nefes alıp verme ile ilgili çalışmalar yaptırılır (örneğin burundan nefes alıp ağızdan vermek, doğru beden duruşu, dik durmak vb.). Doğru nefes alıp vermenin sağlıklı yaşamla ilişkisine değinilir ( D13.4 ). Öğrencilerin doğada duydukları sesleri taklit ederek nefes çalışmaları yapmasısağlanır. Yapılan çalışmaların değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir.",
+    "BOM.1.1.3 Tebeşir, ip, çember vb. malzemelerle kişisel ve genel alan belirlenir. Öğrencilere kişisel ve genel alan arasındaki ilişkiyi belirlemeleri için müzik eşliğinde (genel alanda yürümeleri, müzik sustuğunda kişisel alanlarına gitmeleri gibi) oyunlar oynatılır( E2.5 ). Öğrencilere yapılan çalışmalar esnasında odaklanarak zihinsel ve bedensel enerjilerini en iyi düzeyde kullanabilecekleri ortamlar oluşturulur ( E3.2 ). Çalışmalarda öğrencilerin aktif rol alması sağlanarak grupla çalışma becerilerini geliştirmeleri beklenir ( D3.4 , SDB2.2). Kişisel ve genel alanlar belirlenirken aynı zamanda güvenli ortam oluşturma becerisinin geliştirilmesi de sağlanır ( BEOSAB10 ). Öğrencilere oyunlar ve fiziksel etkinlikler sırasında kendilerinin ve çevredekilerin sağlığını tehdit edecek olumsuz davranışlardan kaçınmaları, duyarlı ve tedbirli davranmaları gerektiği hatırlatılır ( D5.1 , SDB2.3 ). Yapılan çalışmaların değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir. BOM.1.1.4 Yer değiştirme hareketlerine (yürüme, koşma, atlama-sıçrama, adım al sek, galop-kayma, yuvarlanma, tırmanma) örnekler verilir ve öğrencilerin hareketleri gözlemlemesi beklenir. Yürüme etkinliği, orta hızdaki bir müzik eşliğinde serbest yürüme olarak ya da bir öykü veya masaldan (tavşan ile kaplumbağa vb.) yola çıkılarak çevresindeki varlıkların hareket hızlarını taklit etme yoluyla ve oyunlaştırılarak verilir ( E2.5 ). Öğrencilerin gözlem yoluyla öğrendikleri yer değiştirme hareketlerine (yürüme, koşma, atlama-sıçrama, adım al sek, galop-kayma, yuvarlanma, tırmanma) eşlik etmesi sağlanır. Yer değiştirme hareketlerinin öğrencilerin koordinasyon, hız ve çevikliklerinin gelişmesi için önemli olduğu vurgulanır. Öğrencilerden öğrendikleri hareketlerden üç tanesini seçerek sergilemeleri istenir ( OB9 ). Öğrencilerin çalışmalarda aktif rol almaları sağlanarak grupla çalışma becerisinin geliştirilmesi beklenir ( SDB2.1 , SDB2.2 ). Öğrencilerin yaşlarına ve fiziksel özelliklerine uygun sosyal ve sportif etkinliklere katılmaları sağlanır ( D13.2 ). Yapılan çalışmaların değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme formu kullanılabilir. BOM.1.1.5 Dengeleme hareketlerine (eğilme, esnetme, dönme-salınım, ağırlık aktarımı, atlamakonma, başlama-durma, statik-dinamik denge, duruş-oturuş ve itme-çekme) örnekler vererek öğrencilerin hareketleri gözlemlemesi beklenir. Hareketler uygulanırken her hareketin nasıl yapıldığına dair dönüt verilerek öğrencilerin veri toplaması sağlanır ( OB7 ). Öğrencilerin gözlem yoluyla öğrendikleri hareketlere gösterip yaptırma gibi yöntemlerle eşlik etmesi istenir. Öğrencilerin öğrendikleri hareketleri sergileyebilmeleri için yaşlarına ve fiziksel özelliklerine uygun sosyal ve sportif faaliyetlere katılmaları sağlanır ( D13.2 , OB9 ). Yapılan çalışmaların değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir. BOM.1.1.6 Nesneleri (top, balon, sünger vb.) atma-tutma, yakalama, yuvarlama gibi hareketler örneklenip öğrencilerin hareketleri odaklanarak gözlemlemesi beklenir ( E3.2 ). Hareketler uygulanırken her hareketin nasıl yapıldığına dair dönüt verilerek öğrencilerin veri toplaması sağlanır ( OB7 ). Öğrencilerin gözlem yoluyla öğrendikleri hareketlere gösterip yaptırma vb. yöntemlerle eşlik etmesi istenir. Bu hareketler önce serbest sonra ritmik olarak tekrarlanır. Öğrencilerin öğrendikleri hareketleri sergilemeleri için yaşlarına ve fiziksel özelliklerine uygun sosyal ve sportif faaliyetlere katılmaları sağlanır ( D13.2 , OB9 ). Yapılan çalışmaların değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir.",
+    "BOM.1.1.7 Öğrencilere spor yaparken vücutlarında ne gibi değişikler olabileceği ile ilgili sorular sorulur. Ardından öğrencilerden düz koşu yaptırılarak vücutlarında meydana gelen değişiklikleri incelemeleri istenir. Soru cevap, tartışma gibi yöntemlerle fiziksel etkinlikler yapılırken öğrencilerin vücutlarında meydana gelen kalp atış hızı, nefes alma sıklığı, vücut sıcaklığı, cilt görünüşü, terleme gibi değişikliklerle ilgili cevaplar alınıp veri toplanması sağlanır ( E3.6 ). Öğrencilerin fiziksel etkinlikler sırasında vücutlarında meydana gelen değişikliklerle ilgili kaydettikleri bilgileri söylemesi istenir. Yapılan çalışmaların değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir. BOM.1.1.8 Öğrencilere önce dengeli ve düzenli beslenme hakkındaki fikirleri, ardından dengeli ve düzenli beslenmenin sağlıklarını nasıl etkilediği ile ilgili bilgi edinme ve anlama ihtiyacına yönelik sorular sorulur ( E3.8 ). Dengeli ve düzenli beslenmenin sağlık üzerindeki etkileri ile ilgili görsel, işitsel ve dijital kaynaklardan bilgiler paylaşılır. Sağlıklı yaşam için yeterli, dengeli ve sağlıklı beslenmenin, fiziksel aktivite alışkanlığının yaşam boyu devam etmesi gerektiği vurgulanır ( D13.2 ). Öğrencilerden yeterli, dengeli ve sağlıklı beslenmenin, sosyal ve sportif etkinliklere katılmanın önemini dijital kaynaklardan da yararlanarak afiş hazırlama, resim yapma, şiir yazma vb. etkinliklerle sunması istenir ( OB2 ). Yapılan çalışmalar okul ve sınıf panosunda sergilenir. Etkinliklerin değerlendirilmesinde gözlem formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D13.4",
+      "D17.3",
+      "D3.4",
+      "D4.2",
+      "D5.1",
+      "D8.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.2",
+      "E3.6",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB7",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/948"
+}

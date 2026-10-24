@@ -1,0 +1,81 @@
+{
+  "unitId": 81203002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "2. ÜNİTE: HUN İMPARATORLUKLARI VE SONRAKİ TÜRK DEVLETLERİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.2.1",
+      "title": "Asya Hun İmparatorluğu'nun tarihî ve kültürel ögeleri arasında ilişki kurar",
+      "processComponents": [
+        "Siyasi özelliklerine değinilir.",
+        "Hun dili ve dönemin arkeolojik buluntuları hakkında bilgi verilir.",
+        "Pazırık kurganı hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.2.2",
+      "title": "Usun Devleti'nin tarihi hakkında bilgi verir",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.3",
+      "title": "Kadim Kırgızların tarih sahnesine çıkışları hakkında bilgi verir",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.4",
+      "title": "Kangüy Devleti'nin siyasi tarihini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.5",
+      "title": "Parkana (Fergana) Devleti'nin kuruluşunu açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.6",
+      "title": "Kuşan İmparatorluğu'nun tarihî ve kültürel ögeleri arasında ilişki kurar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.7",
+      "title": "Avrupa Hun Devleti'nin tarihî ve kültürel ögeleri arasında ilişki kurar",
+      "processComponents": [
+        "Avrupa Hun Devleti'nin kuruluşuna ve bu devletin Avrupa'ya etkilerine değinilir.",
+        "Kavimler Göçü hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.2.8",
+      "title": "Güney Hun Devleti'nin tarihî ve kültürel ögeleri arasında ilişki kurar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.9",
+      "title": "Ak Hun (Eftalit) Devleti'nin tarihî ve kültürel ögeleri arasında ilişki kurar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.10",
+      "title": "Juan-Juan Kağanlığı'nın siyasi tarihini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.2.11",
+      "title": "Hun İmparatorluğu dönemi ve sonrasında kurulan Türk devletlerindeki sosyal, ekonomik ve kültürel hayatı analiz eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

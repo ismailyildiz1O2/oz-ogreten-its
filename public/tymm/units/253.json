@@ -1,0 +1,99 @@
+{
+  "unitId": 253,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "5. ÜNİTE: EKONOMİK FAALİYETLER VE ETKİLERİ",
+  "hours": "34",
+  "description": "Bu ünitede tarımsal faaliyetlerin gıda güvencesi açısından sorgulanabilmesi, tarım uygulamalarının sürdürülebilirlik açısından değerlendirilebilmesi, stratejik ve kritik madenlerin ülke ekonomilerindeki yeri hakkında çıkarım yapılabilmesi, enerji kaynaklarının değişim ve sürekliliğinin algılanabilmesi, sanayi faaliyetlerinin mekânsal etkilerinin sorgulanabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.11.5.1",
+      "title": "Tarımsal faaliyetleri gıda güvencesi açısından sorgulayabilme",
+      "processComponents": [
+        "a) Tarımsal faaliyetler ve gıda güvencesi ile ilgili merak ettiği soruları sorar.",
+        "b) Tarımsal faaliyetler ve gıda güvencesi ile ilgili bilgi toplar.",
+        "c) Tarımsal faaliyetler ve gıda güvencesi ile ilgili elde ettiği bilgileri düzenler.",
+        "ç) Tarımsal faaliyetler ve gıda güvencesi ile ilgili düzenlediği bilgileri çözümler.",
+        "d) Tarımsal faaliyetler ve gıda güvencesi ile ilgili çözümlediği bilgilerden çıkardığı sonuçları paylaşır."
+      ]
+    },
+    {
+      "code": "COĞ.11.5.2",
+      "title": "Dünya ve Türkiye'deki tarım uygulamalarını sürdürülebilirlik ölçütlerine göre değerlendirebilme",
+      "processComponents": [
+        "a) Dünya ve Türkiye'deki tarım uygulamalarına ait sürdürülebilirlik ölçütlerine ulaşır.",
+        "b) Dünya ve Türkiye'deki farklı tarım uygulamalarına ait özellikleri tespit eder.",
+        "c) Dünya ve Türkiye'deki farklı tarım uygulamalarına ait özellikleri sürdürülebilirlik ölçütleri ile karşılaştırır.",
+        "ç) Dünya ve Türkiye'deki tarım uygulamalarının sürdürülebilirliğiyle ilgili yargıda bulunur."
+      ]
+    },
+    {
+      "code": "COĞ.11.5.3",
+      "title": "Dünya ve Türkiye'de bulunan stratejik-kritik madenlerin ülke ekonomileri ve ülkeler arası ilişkilerdeki yerine yönelik çıkarım yapabilme",
+      "processComponents": [
+        "a) Dünya ve Türkiye'de bulunan stratejik-kritik madenlerin ülke ekonomileri ve ülkeler arası ilişkilerdeki yerine yönelik varsayımda bulunur.",
+        "b) Dünya ve Türkiye'de bulunan stratejik-kritik madenlerin ülke ekonomileri ve ülkeler arası ilişkilerdeki yerini gösteren coğrafi temsillere ait eğilimleri inceler.",
+        "c) Dünya ve Türkiye'de bulunan stratejik-kritik madenlerin ülke ekonomileri ve ülkeler arası ilişkilerdeki yerini coğrafi temsiller aracılığıyla karşılaştırır.",
+        "ç) Dünya ve Türkiye'de bulunan stratejik-kritik madenlerin ülke ekonomileri ve ülkeler arası ilişkilerdeki etkisine yönelik önerme sunar.",
+        "d) Dünya ve Türkiye'de bulunan stratejik-kritik madenlerin ülke ekonomileri ve ülkeler arası ilişkilerdeki etkisini değerlendirir."
+      ]
+    },
+    {
+      "code": "COĞ.11.5.4",
+      "title": "Dünya ve Türkiye'deki enerji kaynaklarının kullanımında meydana gelen değişim ve sürekliliği algılayabilme",
+      "processComponents": [
+        "a) Dünya ve Türkiye'deki enerji kaynaklarının kullanımında meydana gelen değişiklikleri coğrafi temsil ve veriler aracılığıyla karşılaştırır.",
+        "b) Dünya ve Türkiye'deki enerji kaynaklarında meydana gelen değişiklikleri sıralar.",
+        "c) Dünya ve Türkiye'deki enerji kullanımının gelişim sürecine ilişkin neden ve sonuçları yorumlar.",
+        "ç) Dünya ve Türkiye'deki enerji kaynaklarının kullanımının gelişim sürecini sentezler.",
+        "d) Dünya ve Türkiye'deki enerji kaynaklarının kullanımında meydana gelebilecek değişime ilişkin eldeki verilerden yararlanarak öngörüde bulunur."
+      ]
+    },
+    {
+      "code": "COĞ.11.5.5",
+      "title": "Sanayi faaliyetlerinin mekânsal etkilerini sorgulayabilme",
+      "processComponents": [
+        "a) Sanayi faaliyetlerinin mekânsal etkileriyle ilgili sorular sorar.",
+        "b) Sanayi faaliyetlerinin mekânsal etkileriyle ilgili bilgi toplar.",
+        "c) Sanayi faaliyetlerinin mekânsal etkileriyle ilgili topladığı bilgileri düzenler.",
+        "ç) Sanayi faaliyetlerinin mekânsal etkileriyle ilgili düzenlediği bilgileri çözümler.",
+        "d) Sanayi faaliyetlerinin mekânsal etkileriyle ilgili çıkarımda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "arazi kullanımı, endüstri 4.0, enerji yönetimi, gıda güvencesi, gıda güvenliği, ham madde, kritik maden, organize sanayi bölgesi (OSB), sanayi, sanayi türleri, stratejik maden, sürdürülebilirlik, tarım, tarım 4.0, tedarik zinciri, yenilenebilir enerji, yenilenemeyen enerji",
+  "support": [
+    "Konunun önemli noktalarını vurgulayan özet metinler hazırlanabilir, etkinliklerde grup çalışmaları kullanılarak akran öğretiminden faydalanılabilir. Performans görevi; yaşanılan ildeki tarım, sanayi, madenler ve enerji kaynaklarına ilişkin coğrafi temsillerin incelenmesi şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere tarım uygulamalarının mekânsal planlama üzerindeki etkisi, *Mavi Vatan'daki hidrokarbon enerji kaynakları, Cumhuriyetin ilanından bugüne kadar geçen süreçte uygulanan ekonomi politikaları, Türkiye'nin yurt dışında yaptığı üretim faaliyetleri, Türkiye sanayisinde yerli üretim, uluslararası sularda enerjinin geleceği; tarım, maden ve sanayi faaliyetlerine yönelik ulusal ve uluslararası kuruluşlar, uzay madenciliği, maden kazalarını önleme ve Türkiye'nin öncelikli gelişme alanları konularında panel hazırlama görevi verilebilir. Bu kapsamda öğrencilerden seçtikleri konuyla ilgili araştırma yaparak ön hazırlıklarını tamamlamaları ve çalışmalarını alanında uzman bir panelist rolünde arkadaşlarına sunmaları istenebilir. Panel sonunda gerçekleştirilecek forum ile soru-cevap etkinliği yapılabilir. Böylece sürecin etkileşimli bir şekilde tamamlanması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz değerlendirme formu, açık uçlu sorular, çalışma yaprağı, akran değerlendirme formu, bütüncül dereceli puanlama anahtarı, performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden gıda güvencesinin küresel iklim değişikliği ve nüfus artışına bağlı olarak gelecekteki durumuna yönelik bilgi görseli hazırlamaları istenebilir. Performans görevi; hazırlık yapma, bilgi toplama, bilgileri çözümleme, bilgi görseli oluşturma ve sunma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.11.5.1",
+    "Öğrencilere gıda güvencesi, gıda güvenliği ve tedarik zinciri kavramlarının zihinlerinde neler çağrıştırdığı sorulabilir, onlardan bu kavramlara yönelik tahmin yürütmeleri istenebilir. Ardından bu kavramların tanımı yapılır ve kavramlar, öğrencilerin tahminleri ile karşılaştırılır. Tarımsal faaliyetlerin (tarım ürünleri üretimi, hayvancılık, ormancılık, balıkçılık vb.) gıda güvencesine etkisi tartışmaya açılır ( SDB2.1 ). Öğrencilerin Türkiye ve dünyadaki tarımsal faaliyetler ve gıda güvencesi konularında sorgulama yapabilmeleri için çeşitli sorular hazırlanır. Öğrencilerden önceki bilgilerini gözden geçirerek bu soruların cevaplarını nasıl bulacaklarını planlamaları istenir. Hazırlanan soruların cevaplanabilmesi için birincil ve ikincil kaynaklardan bilgi toplanır. Toplanan bilgiler, sistematik olarak coğrafi temsiller ve metin şeklinde düzenlenir ve çözümlenir ( SBAB11.2, BTYAB5, E3.7 ). Süreç sonunda öğrencilerden başlangıçta hazırlanan soruların cevaplanma durumuyla ilgili öz değerlendirmede bulunmaları istenir. Bu süreçte öğrencilere önceki bilgilerini gözden geçirme, toplanan bilgileri doğrulama ve belirlenen araçları ihtiyaç duyulan bilgiler doğrultusunda kullanmanın önemi vurgulanır (SDB1.1, SDB1.2, E3.4). Tarımsal faaliyetler ve gıda güvencesi kapsamında çözümlenen bilgilerden sonuçlar çıkarılır ve bu sonuçlara ilişkin paylaşımda bulunulur ( OB1) . Paylaşımlarda gıda güvencesi, gıda güvenliği ve tedarik zincirini bozan dünyadaki önemli olaylara (savaşlar, salgın hastalıklar, küresel iklim değişikliği, afetler vb.) değinilerek bu durumun Türkiye ve dünya ekonomisine etkisine yer verilir. Mevcut tarım faaliyetlerinin artan Türkiye ve dünya nüfusunun ihtiyacını karşılamada yeterli olup olmadığına ilişkin görüş geliştirme tekniği uygulanabilir. Bu kapsamda yürütülmekte olan tarım faaliyetlerini yeterli gören ve görmeyen öğrencilerin iki ayrı grup olarak tartışması ve görüşlerini paylaşması sağlanabilir. Paylaşılan görüşler özetlenir, konuyla ilgili istatistikler üzerinden açıklamalar yapılır ve söz konusu açıklamalar paylaşılır. Bu süreçte yapılan çalışmalar öz değerlendirme formuyla değerlendirilebilir ve öğrencilere geri bildirim verilir. Türkiye'nin coğrafi konumunun gıda güvencesi ve tedarik zincirine etkisi vurgulanır. Gıda israfının önlenmesine yönelik çalışmalara nasıl katkı sağlanabileceği ile ilgili görüşler sunulur (D17.2, D19.4, SDB2.1, SDB2.2, SDB2.3 ). Öğrenmeler, açık uçlu sorularla değerlendirilebilir.",
+    "COĞ.11.5.2",
+    "Sürdürülebilir tarım kavramı açıklanır. Tarım uygulamaları sürdürülebilir tarım bağlamında tartışılır. Tarım uygulamalarının ekonomik, sosyal ve çevresel sürdürülebilirlik ölçütlerine ulaşılır. Öğrencilerden her bir ölçütün gıda üretme kabiliyetini nasıl etkilediği konusunda fikirlerini paylaşmaları istenir (FBAB4). Çevresel sürdürülebilirlik ölçütleri belirlenirken doğal çevrenin korunmasında duyarlı davranılarak sürdürülebilirlik bilinci oluşturulmaya çalışılır ( SDB2.1, D5.2) . Farklı tarım uygulamalarına ait özellikler birincil ve ikincil kaynaklardan tespit edilir ( E3.4) . Tespit edilen özellikler, sürdürülebilirlik ölçütleri ile karşılaştırılarak tarım uygulamalarının sürdürülebilirliği hakkında yargıda bulunulur. Elde edilen sonuçlar özetlenir ( SDB3.3) . Ayrıca Türkiye'nin üretim, tüketim veya dış ticaretinde önemli bir yere sahip olan seçili tarım ürünleri coğrafi temsiller ve haritalar üzerinden incelenir. Bu ürünlerin gelecekteki durumunun sürdürülebilirliği Türkiye'deki tarımsal gelişmeler bağlamında değerlendirilerek ortaya koyulur. Tarım uygulamalarının sürdürülebilirlik ölçütlerine göre değerlendirilmesinde altı şapkalı düşünme tekniği kullanılabilir. Bu yolla sürdürülebilir tarımın olumlu yönleri, sürdürülebilir tarım uygulamalarında karşılaşılan sorunların çözümü, sürdürülebilir tarım uygulamalarının dünya için önemi ve sürdürülebilir tarımın teşvik edilmesi konularında sunulan özgün öneriler bütünsel olarak değerlendirilebilir ( KB3.3). Türkiye ve dünya için önemi büyük olan sürdürülebilir tarım uygulamalarına ilişkin olumlu duygu, tutum ve davranışların geliştirilmesi amacıyla öğrencilerin duygu paylaşımında bulunmalarına imkân sağlanabilir ( SDB1.1, OB8). Öğrencilere bir tarım uygulamasının sürdürülebilirlik ölçütlerine göre değerlendirilmesini içeren bir çalışma verilebilir. Öğrenmeler, açık uçlu sorularla değerlendirilebilir .",
+    "COĞ.11.5.3",
+    "Madenlerin kullanım alanları, bulunabilirliği ve ekonomiye katkılarından hareketle stratejik- kritik madenler tanımlanır. Bu süreçte başta bor madeni olmak üzere Türkiye'nin stratejik- kritik madenlerinin dağılışı haritalar üzerinden incelenir. Bu özelliğe sahip madenlerin ülke ekonomisi ve ülkeler arası ilişkilerdeki önemine yönelik varsayımlar oluşturulur (D19.3). Stratejik-kritik madenlerin ülke ekonomisi ve ülkeler arası ilişkilerdeki yerini gösteren coğrafi temsiller incelenir ( SBAB10.3, SBAB11.1 ). Bu kapsamda bir zıt panel etkinliği gerçekleştirmek için soru-cevap grubu oluşturulur. Gerçekleştirilen zıt panelin sonunda stratejik-kritik madenlerin ülke ekonomisi ve ülkeler arası ilişkilerdeki yeri karşılaştırılır (E3.4). Karşılaştırma sürecinde öğrencilerin zamanı etkili şekilde kullanarak kendi öğrenme durumlarını geliştirmeye yönelik çalışmalar yapmalarına imkân verilebilir. Bu kapsamda öğrencilerin değerlendirme yapma ve tablo oluşturma, kavram haritası oluşturma, soru hazırlama, özetleme vb. çalışmalardan biriyle öğrenmelerini geliştirmeleri desteklenebilir. Aynı zamanda öğrencilerden zıt panel sürecindeki duygularını paylaşmaları istenebilir ( SDB1.1, SDB1.2, SDB1.3, SDB2.2 ). Stratejik-kritik madenlerin ülke ekonomisi ve ülkeler arası ilişkilerdeki yerine yönelik önermeler sunulur (OB7 ). Stratejik-kritik madenlerin ülke ekonomileri üzerindeki etkisi ve buna bağlı olarak ülkelerin bölgesel ve küresel ilişkileri değerlendirilir. Öğrenmeler, zıt panel tekniğiyle izlenebilir ve çalışma yaprağıyla değerlendirilebilir ( SDB2.2) .",
+    "COĞ.11.5.4",
+    "Enerji kaynaklarının kullanımında ortaya çıkan değişimler, coğrafi temsil ve veriler aracılığıyla karşılaştırılır. Öğrencilerle birlikte enerji kaynaklarının kullanımındaki değişim ve gelişime ilişkin bir tarih şeridi hazırlanır ( SBAB11.2 ). Kullanılan enerji kaynaklarının çeşitlenmesinin nedenleri belirlenir ve bu çeşitlenmenin ekonomik, çevresel ve politik sonuçları yorumlanır. Bu süreçte Türkiye'nin enerji koridoru olma özelliği ve Mavi Vatan'ın enerji üretimi açısından önemi ele alınır (D19.3). E nerji kaynaklarının bileşenleri belirlenir ve bu bileşenler arasında ilişki kurulur. Sonrasında öğrenilenlerden yola çıkılarak öğrencilerin enerji kaynaklarının değişim ve sürekliliğine yönelik özgün coğrafi temsil veya metin hazırlamaları sağlanır. Öğrencilerden enerjinin uygun olmayan kullanımı sonucunda ortaya çıkacak problemlerin bireyleri, toplumu ve çevreyi nasıl etkileyebileceği üzerinde tartışmaları istenebilir ( SDB2.3 ). Bu süreçte yenilenebilir enerji kaynaklarının kullanımı ve enerji tasarrufuna yönelik planların uygulanmasının önemi vurgulanır. Öğrencilere yenilenebilir enerji kaynaklarının kullanımı ve enerji tasarrufuna ilişkin afiş hazırlama çalışması verilebilir ( D5.2, D17.2, OB8 ). Enerji kaynaklarının kullanımında meydana gelebilecek değişim ve gelişime yönelik mevcut verilere dayalı öngörülerde bulunulur (E3.6, SDB3.3) . Öğrenciler tarafından hazırlanan afiş çalışmaları, öz ve akran değerlendirme formlarıyla değerlendirilebilir ve öğrencilere geri bildirim verilir (SDB1.2 ).",
+    "COĞ.11.5.5",
+    "Öğrenme ortamında küçük gruplar oluşturulur. Her grup için farklı bir sanayi tesisi belirlenir. Ardından gruplara sanayi tesisinin kurulabileceği birkaç yer örneği verilir. Gruplardan sanayi tesislerini nerede kurmayı tercih edeceklerini tartışmaları ve tercihlerini gerekçesiyle sunmaları istenir. Sunumların ardından örnek bir sanayi tesisi, bölgesi veya faaliyetinin mekân üzerindeki sosyal, ekonomik ve çevresel etkilerine ilişkin bir tartışma yapılandırılır ve merak edilenlerin sorgulanabilmesi için çeşitli sorular hazırlanır ( SDB1.2, SDB2.1, SDB2.2, SDB3.3, E1.1 ). Bu süreçte iş birlikli öğrenme yöntemi kullanılabilir. Hazırlanan soruların cevaplanabilmesi için birincil ve ikincil kaynaklardan bilgi toplanır. İmkânlar doğrultusunda yakın çevrede yer alan sanayi tesisi, bölgesi veya faaliyetinin mekânsal etkisinin incelenebilmesi için coğrafi gözlem, saha/sanal saha çalışması yapılabilir (SBAB9, OB2 ). Ulaşılan bilgiler, sistematik bir şekilde coğrafi temsil ve metinler şeklinde düzenlenerek çözümlenir ( BTYAB5 ). Çözümlemelerde ele alınan sanayi tesisi, bölgesi veya faaliyetinin kuruluş yerinin seçimini etkileyen doğal ve beşerî çevre faktörleri dikkate alınır. Bu süreçte örnek olay inceleme yöntemi kullanılabilir. Sanayi tesisi, bölgesi veya faaliyetinin mekân üzerindeki sosyal, ekonomik ve çevresel etkileri ile ilgili çözümlenen bilgilerden çıkarımda bulunulur ve bu çıkarımlar paylaşılır. Türkiye'de savunma sanayisi başta olmak üzere yerli sanayi üretiminin dış politikadaki önemine değinilir. Yapılan çalışma, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir ( SDB1.2) . Sanayileşmenin çevresel etkilerine yönelik çıkarımlar oluşturulurken Türkiye ve dünyada doğal kaynakların sürdürülebilir kullanımının önemini vurgulamak üzere kavram karikatürü veya slogan oluşturma çalışmaları yapılabilir ( OB1, D13.4, D18.3, SDB2.1 ). Bu ünitede performans görevi olarak öğrencilerden gıda güvencesinin küresel iklim değişikliği ve nüfus artışına bağlı olarak gelecekteki durumuna yönelik bilgi görseli hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir ( SDB1.2, SDB1.3) ."
+  ],
+  "skills": {
+    "diger": [
+      "BTYAB5",
+      "SBAB11.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/253"
+}

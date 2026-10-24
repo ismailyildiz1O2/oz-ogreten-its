@@ -1,0 +1,80 @@
+{
+  "unitId": 1545,
+  "grade": 0,
+  "gradeName": "I. DÜZEY BİLİM UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY III · 4. Tema: Doğada Bilim",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.BU.1.4.1",
+      "title": "Doğada gerçekleşen olayların bilimle ilişkisine yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Doğada gerçekleşen olayın bilimle ilişkisini araştırmak için kullanacağı kaynakları belirler.",
+        "b) Belirlediği araçları kullanarak seçtiği durum veya olayın bilimle ilişkisine yönelik bilgileri bulur.",
+        "c) Ulaştığı bilgileri doğrular.",
+        "ç) Doğada gerçekleşen olayın bilimle ilişkisine yönelik ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.4.2",
+      "title": "Biyomimikrinin kullanıldığı ürünlere yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Biyomimikrinin kullanıldığı ürünleri araştırmak için kullanacağı kaynakları belirler.",
+        "b) Belirlediği araçları kullanarak biyomimikrinin kullanıldığı ürünlere yönelik bilgileri bulur.",
+        "c) Bulduğu bilgileri doğrular.",
+        "ç) Biyomimikri kullanılan ürünlere yönelik bulduğu bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.4.3",
+      "title": "Teknolojide biyomimikrinin kullanımının sağladığı faydaları tartışabilme",
+      "processComponents": [
+        "a) Teknolojide biyomimikrinin kullanımına ilişkin mantıksal temellendirme yapar.",
+        "b) Teknolojide biyomimikrinin kullanımına ilişkin görüşlerdeki mantıksal çelişki veya tutarsızlıkları tespit eder.",
+        "c) Teknolojide biyomimikrinin kullanımına ilişkin ulaşılan görüşleri çürütür veya kabul eder."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.4.4",
+      "title": "Günlük hayatta karşılaşılan bir probleme çözüm üretmek için doğadan ilham alan inovatif bir bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Belirlediği problemin çözümüne yönelik bir model önerir.",
+        "b) Yeni kanıtlarla modelini yeniler."
+      ]
+    }
+  ],
+  "keyConcepts": "biyomimikri, doğada gerçekleşen olaylar, estetik, inovasyon",
+  "support": [
+    "Canlıların hayatta kalmak için kullandıkları doğa tasarımlarının bilimle ilişkisini gösteren basit görseller veya kısa videolar izlettirilebilir.",
+    "Biyomimikri örnekleri inceletilerek bilimde kullanılma şekillerini pekiştirmeleri sağlanabilir.",
+    "Model tasarlama sürecinde basamaklar ayrıntılı açıklanarak model oluşturmalarına destek sağlanabilir."
+  ],
+  "enrichment": [
+    "Termit yuvalarının mimarisi ve iklimlendirme sisteminin ardındaki fiziksel ve biyolojik prensipleri araştırmaları istenebilir. Ayrıca ulaştıkları bilgiler doğrultusunda termit yuvalarının mimarisini yansıtan bir ürün tasarlamaları ve tasarladıkları ürünü sınıfta sunmaları görevi verilebilir.",
+    "Biyomimikri kullanılan robotik, havacılık, tıp vb. bilim ve teknoloji alanını seçerek bu alanda biyomimikrinin insanlığa sağladığı faydaları (enerji verimliliği, çevre dostu çözümler vb.) ve gelecekteki potansiyelini araştırıp poster olarak sınıf ortamında sunulması sağlanabilir.",
+    "Doğadan esinlenerek yapılmış bir tasarımı seçip incelemeleri istenebilir. İnceledikleri tasarımda hangi doğa olayından veya canlıdan ilham alındığını, hangi bilimsel prensiplerin kullandığını ve toplum için sağlanan faydaları poster, sunu, video vb. ile şeklinde sunmaları beklenebilir.",
+    "Gelecekte karşılaşılabilecek su kıtlığı, hava kirliliği, sürdürülebilir enerji ihtiyacı vb. sorunlardan birini seçerek bu soruna çözüm yolu bulmak için doğadan ilham alan inovatif su arıtma sistemi, bir hava temizleme cihazı, yenilenebilir enerji kaynağı vb. bir bilimsel model oluşturmaları beklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca tema sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Doğada gerçekleşen olayların bilimle ilişkisine yönelik bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamaya yönelik performans görevleri verilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Biyomimikrinin kullanıldığı ürünlere yönelik bireysel ya da grup olarak poster, afiş, resim, video,sunu vb. hazırlamaya yönelik performans görevleri verilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Günlük hayatta karşılaşılan bir probleme çözüm üretmek için doğadan ilham alan inovatif bir model yapımına yönelik performans görevi verilebilir. Bu görevi değerlendirmek için kontrol listesi veya analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MBU.BU.1.4.1 .",
+    "Öğrencilerden doğada gerçekleşen olayların bilimle ilişkisine yönelik bir durumu örnek olay yöntemi ile tartışmaları istenir ( KB3.3 , SDB2.1 , SDB2.2 , E3.10 ). Örnek olay çerçevesinde merak ettiği soruları sormaları istenir ( E1.1 , E3.8 ). Kuşların uçmak için kemiklerinin ince ve boşluklu yapıda olması, penguenlerin ısınmak için daire şeklinde durup yer değiştirmesi vb. farklı durum örnekleri sunularak doğa ve bilim arasında ilişki kurmaları sağlanabilir. Öğrencilere doğada gerçekleşen olayların bilimle ilişkisine yönelik bireysel ya da grup olarak poster, afiş vb. hazırlamalarını içeren performans görevi verilir ( SDB2.1 , SDB2.2 , OB1 ). Öğrencilerden doğada gerçekleşen olaylardan birini seçerek bu olayın bilimle ilişkisini araştırmak için kullanacakları kaynakları belirlemeleri istenir ( SDB3.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanılır ( OB1 , OB2 ). Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak hareket etmeleri beklenir ( E3.4 , E3.8 ). Belirledikleri aracı kullanarak doğada gerçekleşen seçtikleri olayın bilimle ilişkisine yönelik bilgi toplamaları istenir ( OB1 ). Öğrencilerden ulaştıkları bilgileri öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulamaları beklenir ( KB3.3 , OB1 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Ardından doğruladıkları bilgileri poster, rapor vb. olarak arkadaşlarıyla paylaşmaları istenir. Öğrencilerin doğada gerçekleşen olayların bilimle ilişkisini fark etmeleri sağlanır ( E3.10 ). Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerden gelen örnek durum ve olaylar kısaca özetlenir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "MBU.BU.1.4.2.",
+    "Öğrencilere biyomimikri hakkında açık uçlu sorular yöneltilebilir. Biyomimikri kavramı açıklanır. Öğrencilerden biyomimikrinin kullanıldığı ürünlere örnekler vermeleri istenir ( OB4 , E1.1 , E1.5 ). Öğrencilerin biyomimikrinin kullanıldığı ürünleri fark etmeleri sağlanır ( E3.10 ). Öğrencilerin biyomimikrinin kullanıldığı ürünlere yönelik bireysel ya da grup olarak poster vb. hazırlama performans görevi verilir ( SDB2.1 , SDB2.2 , OB1 ). Öğrencilerden biyomimikrinin kullanıldığı ürünleri araştırmak için kullanacakları kaynakları belirlemeleri istenir ( SDB3.3, D16.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanıyla görüşme vb. farklı yöntemlerden yararlanılır ( OB1 , OB2 ). Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak hareket etmeleri beklenir ( E3.4 , E3.8 ). Belirledikleri kaynakları kullanarak biyomimikrinin kullanıldığı ürünlere yönelik bilgi toplamaları istenir ( OB7 ). Öğrencilerden ulaştıkları bilgileri öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulamaları beklenir ( KB3.3 , OB1 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Doğruladıkları bilgileri poster vb. olarak sunmaları beklenir. Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri ve yazılım dersiyle ilişki kurulur ( OB2 ). Pıtrak tohumundan ilham alınarak cırtcırt, günebakan bitkisinden ilham alınarak güneş paneli, yalıçapkını kuşundan ilham alınarak hızlı tren, kambur balina yüzgeçlerinden ilham alınarak rüzgâr türbini tasarlanması vb. biyomimikri örneklerine değinilir. Doğadan ilham almanın sağladığı faydalar vurgulanır. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. ölçme araçları kullanılabilir.",
+    "MBU.BU.1.4.3 .",
+    "Öğrencilere biyomimikrinin sağladığı faydaların neler olduğu sorulabilir ( E1.1 , E3.5 ). Öğrencilerin konuya ilişkin görüşleri alınır. Gruplara ayrılan öğrencilerden altı şapkalı tartışma yöntemiyle teknolojide biyomimikrinin kullanımının sağladığı faydaları tartışmaları istenir ( SDB2.1 , SDB2.2 , KB3.3 ). Öğrencilerin teknolojide biyomimikrinin kullanımına ilişkin mantıksal temellendirme yapmaları sağlanır. Ardından öğrencilerin görüşlerine ilişkin mantıksal çelişki veya tutarsızlıkları tespit etmeleri istenir. Bu süreçte açık fikirli olmaları ve kendi görüşlerini eleştirel bir şekilde değerlendirebilmeleri desteklenir ( E3.5 , E3.10 ). Tartışma sonunda teknolojide biyomimikrinin kullanımının sağladığı faydalara ilişkin ulaşılan görüşleri çürütmeleri veya kabul etmeleri beklenir ( E3.10 , KB3.1 , KB3.3 ). Tartışma süreci kontrol listesiyle değerlendirilebilir. Doğadan ilham almanın enerji verimliliği konusundaki faydaları vurgulanır. Biyomimikri sayesinde teknolojik gelişmelerin daha işlevsel ilerlediği ifade edilir. Doğa sevgisi ve doğada var olan sistemlere saygı duymaları sağlanır ( D14.3 ). Sürece ilişkin değerlendirme için eşleştirme testi, yapılandırılmış grid vb. kullanılabilir.",
+    "MBU.BU.1.4.4.",
+    "Öğrencilerden günlük hayatta karşılaşılan biyomimikri uygulamalarına örnek vermeleri istenir ( E1.1 , E1.5 ). Günlük hayatta karşılaştıkları bir probleme çözüm üretmek için doğadan ilham alan inovatif bir bilimsel model tasarlamaları istenir ( KB3.2 , E3.3 , D7.3 ). Model tasarım sürecinde gruplara ayrılıp iş birliği içerisinde yardımlaşarak çalışmaları teşvik edilir ( SDB2.1 , SDB2.2 , D14.1 , D20.1 ). Yenilikçi ve özgün bir model oluşturmaları beklenir ( E3.3 , E3.6 ). Mühendislik tasarım döngüsünü kullanarak model oluşturma süreçlerini yapılandırmaları istenir ( D16.3 , KB3.3 , E3.7 ). Bilimsel model tasarlama sürecinde bir planlama yaparak planlarını zamanında ve eksiksiz yürütmeleri istenir ( D3.3 , D16.3 , E2.2 ). Öğrencilerin belirledikleri araç gereçlerden yola çıkarak estetik bakış açısı, bütüncül bir anlayışla bir modeli önermeleri sağlanır ( D7.1 , OB1 , E3.3 , E3.10 ). Tasarladıkları modelleri arkadaşlarına sunmaları, diğer modellerle karşılaştırarak tespit edilen hata ve eksiklikleri gelişim fırsatı olarak değerlendirip geliştirmeleri sağlanır ( KB3.1, KB3.3 , SDB1.3 , D16.3 ). Süreç, kontrol listesi veya analitik dereceli puanlama anahtarlarıyla değerlendirilebilir."
+  ],
+  "skills": [
+    "FBAB9. Bilimsel Model Oluşturma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1545"
+}

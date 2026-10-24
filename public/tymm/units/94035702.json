@@ -1,0 +1,67 @@
+{
+  "unitId": 94035702,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. ÖĞRENME ALANI: MÜZİKSEL ALGI VE BİLGİLENME",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.4.B.1",
+      "title": "Temel müzik yazı ve ögelerini tanır",
+      "processComponents": [
+        "Bu sınıf düzeyinde dizek, sol anahtarı, zaman belirteci (ölçü sayısı), ölçü çizgisi, bitiş işareti, ve notalar (fa, sol, la) verilmelidir.",
+        "Bu sınıf düzeyinde 2/4’lük basit ölçü, dörtlük-sekizlik nota ve dörtlük-sekizlik sus değerleri verilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.4.B.2",
+      "title": "Müzikteki ses yüksekliklerini grafikle gösterir",
+      "processComponents": [
+        "Şarkının sözlerine karşılık gelen sesler, incelik ve kalınlığına göre grafiğe dönüştürülmelidir."
+      ]
+    },
+    {
+      "code": "Mü.4.B.3",
+      "title": "Şarkı, türkü ve oyun müziklerinde hız değişikliklerini fark eder",
+      "processComponents": [
+        "“Giderek yavaşlama’’ ve ‘’giderek hızlanma’’ gibi hız değişiklikleri hissettirilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.4.B.4",
+      "title": "Öğrendiği seslerin temel özelliklerini ayırt eder",
+      "processComponents": [
+        "Öğrendiği seslerin (fa, sol, la), önce kısalık ve uzunluk, daha sonra ise incelik ve kalınlık özellikleri üzerinde durulmalıdır.",
+        "Konu anlatımları oyunlaştırılarak verilmelidir.",
+        "Öğrenciler, öğrendikleri ses sürelerini içeren sınıf düzeylerine uygun basit yapıda ezgilerin vuruşlarını belirler ve belirledikleri süreleri dizekte ikinci çizgi (sol çizgisi) ya da tek çizgi üzerinde gösterirler. Öğrencilerden, bu süreleri bedensel hareketlerle içselleştirmelerinin ardından, vücut hareketleri ve çeşitli ritim çalgıları ile de seslendirmeleri beklenir.",
+        "Öğrencilere, öğrendiği sesler arasındaki incelik ve kalınlığı fark ettirmek için ilgili sesleri içeren bir şarkı üzerinde çalışma yaptırılır. Örneğin öğrencilere hangi sesin diğerinden daha ince veya daha kalın olduğu buldurulur. Duydukları sesin incelik ve kalınlık özelliğine göre hareket oluşturmaları istenir. Daha sonra ise bu çalışma, şaşırtmalar yaptırılarak oyunlaştırılır."
+      ]
+    },
+    {
+      "code": "Mü.4.B.5",
+      "title": "Dinlediği müziklerdeki gürlük değişikliklerini fark eder",
+      "processComponents": [
+        "Gürlük değişikliklerinden, ‘’giderek kuvvetlenme’’ ve ‘’giderek hafifleme’’ oyunlaştırılarak verilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.4.B.6",
+      "title": "Temel müzik yazı ve ögelerini (yükseklik, süre, hız, gürlük) bilişim destekli müzik teknolojilerini kullanarak ayırt eder",
+      "processComponents": [
+        "Kullanılacak uygulama (müzik yazılımı) sınıf düzeyine uygun seçilmelidir.",
+        "Notaların isimleri ve dizekteki yerleri önce her seferinde renklerle eşleştirilerek verilmelidir. Öğrenciler renklerle eşleştirmelerde belli bir başarı elde ettikten sonra kademeli olarak bazen notalar renksiz olarak da dizek üzerindeki yerlerine eşleştirilmek üzere verilmelidir. Her çalışmanın sonunda ise notalar tamamen renksiz olarak dizek üzerinde verilerek eşleştirme çalışmaları yapılır ve notaların dizekteki yerleri hakkında öğrencilerde farkındalık sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Müziksel Algı ve Bilgilenme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

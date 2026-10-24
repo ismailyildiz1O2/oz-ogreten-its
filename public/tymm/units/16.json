@@ -1,0 +1,192 @@
+{
+  "unitId": 16,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "2. TEMA: HOMEOSTAZİ",
+  "hours": "60",
+  "description": "Bu temanın içeriğini farklı düzeyde bileşenlerin (doku, organ, sistem) etkinliğiyle canlının hayatta kalmasını sağlayan bir denge unsuru olan homeostazi, homeostatik süreçler ve homeostazideki olası aksaklıkların neden olabileceği sağlık sorunları oluşturmaktadır. Tema kapsamında öğrencilerin homeostazinin canlılar için önemi ile ilgili bilimsel çıkarım yapmaları, homeostatik süreçleri sorgulamaları, pozitif ve negatif geri bildirim mekanizmalarını karşılaştırmaları; sinir, endokrin, dolaşım, solunum, boşaltım sistemlerinin eş güdümlü çalışmasıyla ilgili eleştirel düşünmeleri ve homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemleri hakkında hipotez oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.11.2.1",
+      "title": "Homeostazinin canlılar için önemiyle ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Homeostazinin işlevlerini tanımlar.",
+        "b) Farklı canlılardaki homeostaziye ilişkin verileri toplar ve kaydeder.",
+        "c) Farklı canlılardaki homeostaziye ilişkin topladığı verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "BİY.11.2.2",
+      "title": "Homeostatik süreçleri sorgulayabilme",
+      "processComponents": [
+        "a) Homeostatik süreçlerle ilgili merakını ifade eder.",
+        "b) Homeostatik süreçlerle ilgili sorular sorar.",
+        "c) Homeostatik süreçlerle ilgili bilgi toplar.",
+        "ç) Homeostatik süreçlerle ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Homeostatik süreçlerle ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.11.2.3",
+      "title": "Pozitif ve negatif geri bildirim mekanizmalarını karşılaştırabilme",
+      "processComponents": [
+        "a) Pozitif ve negatif geri bildirim mekanizmalarının özelliklerini belirler.",
+        "b) Pozitif ve negatif geri bildirim mekanizmalarının benzerliklerini listeler.",
+        "c) Pozitif ve negatif geri bildirim mekanizmalarının farklılıklarını listeler."
+      ]
+    },
+    {
+      "code": "BİY.11.2.4",
+      "title": "Homeostazinin sağlanmasında sinir sisteminin etkilerini çözümleyebilme",
+      "processComponents": [
+        "a) Homeostazinin sağlanmasında görev alan sinir sisteminin farklı yapılarını belirler.",
+        "b) Homeostazinin sağlanmasında sinir sisteminin farklı yapıları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BİY.11.2.5",
+      "title": "Endokrin sisteminin homeostazi işlevine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Endokrin sisteminin yapı ve görevlerini belirler.",
+        "b) Homeostazinin sağlanmasında endokrin sisteminin görevleriyle ilgili verileri toplar ve kaydeder.",
+        "c) Endokrin sistemi ve homeostazi ilişkisiyle ilgili topladığı verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "BİY.11.2.6",
+      "title": "Dolaşım sistemi ve homeostazi arasındaki ilişki ile ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Dolaşım sisteminin işleyişi ve dolaşım sistemi-homeostazi ilişkisini açıklamaya yönelik model önerir.",
+        "b) Dolaşım sisteminin işleyişi ve dolaşım sistemi-homeostazi ilişkisi ile ilgili oluşturduğu modeli bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniler."
+      ]
+    },
+    {
+      "code": "BİY.11.2.7",
+      "title": "Solunum sisteminin homeostazinin sağlanmasındaki rolünü kanıtlarla ortaya koyabilme",
+      "processComponents": [
+        "a) Solunum sisteminin homeostazinin sağlanmasındaki rolüyle ilgili verileri toplar ve kaydeder.",
+        "b) Solunum sisteminin homeostazinin sağlanmasındaki rolüyle ilgili topladığı verileri düzenler.",
+        "c) Solunum sisteminin homeostazinin sağlanmasındaki rolüyle ilgili topladığı verilere dayanarak açıklama yapar."
+      ]
+    },
+    {
+      "code": "BİY.11.2.8",
+      "title": "Boşaltım sisteminin homeostazi işlevine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Boşaltım sisteminde nefronların yapı ve görevlerini tanımlar.",
+        "b) Homeostazinin sağlanmasında boşaltım sisteminin görevleriyle ilgili verileri toplar ve kaydeder.",
+        "c) Boşaltım sistemi ve homeostazi ilişkisiyle ilgili topladığı verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "BİY.11.2.9",
+      "title": "Homeostazinin sağlanmasında sistemlerin eş güdümlü çalışmasıyla ilgili eleştirel düşünebilme",
+      "processComponents": [
+        "a) Sistemlerin eş güdümlü çalışmasını sorgular.",
+        "b) Sistemlerin eş güdümlü çalışması konusunda akıl yürütür.",
+        "c) Sistemlerin eş güdümlü çalışması konusunda akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "BİY.11.2.10",
+      "title": "Homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemleri hakkında hipotez oluşturabilme",
+      "processComponents": [
+        "a) Homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemlerine yönelik bir araştırma sorusu belirler.",
+        "b) Homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemlerinin neden-sonuç ilişkisini belirler.",
+        "c) Homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemlerinin bağımlı ve bağımsız değişkenlerini belirler.",
+        "ç) Homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemlerinin değişkenlerini belirlemek için gözlemler yapar.",
+        "d) Homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemleriyle ilgili bilimsel kuramlardan yola çıkarak önermeler sunar."
+      ]
+    }
+  ],
+  "keyConcepts": "elektrolit dengesi, geri bildirim, enerji dengesi, ısı dengesi, kan basıncı dengesi, pH dengesi, su dengesi",
+  "support": [
+    "Farklı canlılardaki ilginç homeostazi örnekleri (köpeklerin aşırı ısındıklarında vücut ısılarını düzenlemek için ağızlarını açarak tükürüklerini buharlaştırmaları vb.) verilebilir. Farklı canlılardaki (balık, kuş, sürüngen vb.) homeostazi örnekleri ile ilgili araştırma yaptırılabilir. Farklı canlılardaki homeostazi örneklerine ilişkin öğrenme halkası etkinliği uygulanabilir. Öğrencilerin homeostatik süreçleri ve bu süreçlerin etkili olduğu durumları ilişkilendirebilmeleri için eşleştirme kartlarından yararlanılabilir. Homeostazi kavramını açıklamak ve sinir sisteminin bu süreçteki rolünü vurgulamak amacıyla örnek olaylar ve senaryolar kullanılabilir.",
+    "Öğrencilerin endokrin sisteminden salgılanan ana hormonların görevlerini ve bunların homeostaziyi nasıl düzenlediğini anlamalarını sağlamak için konuya ilişkin görsel/işitsel materyaller veya animasyonlar kullanılabilir.",
+    "Öğrencilerden dolaşım sistemi modellerini defterlerine çizmeleri ya da renkli kartonlar kullanarak model oluşturmaları istenebilir. Öğrencilere kan basıncı ölçümü ve değişimi ile ilgili hazır veri setleri verilebilir.",
+    "Öğrenmeyi kolaylaştırmak amacıyla görsel, işitsel vb. materyaller kullanılarak öğrencilerin böbreğin yapısını ve böbreğin canlıdaki işlevlerini daha iyi anlamaları sağlanabilir.",
+    "Alanında uzman kişilerle problem durumuyla ilgili röportaj yapılırken kendini ifade etmek konusunda desteğe ihtiyaç duyan öğrenciler için aile veya öğretmen rehberliği alınabilir ya da heterojen röportaj grupları oluşturularak bu öğrencilerin grup arkadaşlarıyla birlikte röportaj yapmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden termal regülasyon ve nem yönetimi gibi özelliklere sahip akıllı kumaşların homeostazi ile ilişkisini araştırmaları istenebilir. Homeostazinin sağlanmasında negatif/ pozitif geri bildirim işleyiş mekanizmasını gösteren animasyon hazırlamaları beklenebilir. Bir diyabet hastasının kan şekeri seviyelerinin gün içinde değişiminin düzenli takibini yapmaları ve topladıkları verileri istatistiksel olarak analiz edip yorumlamaları istenebilir.",
+    "Öğrencilerden tansiyon aleti ile sınıf arkadaşlarının kan basıncını ölçmeleri, koşma gibi aktiviteler sonucunda oluşacak \"kalp atım sayısı, kan basıncı\" değişimlerini not almaları ve bu verilerden yola çıkarak tüm sınıfa ait grafikler oluşturmaları istenebilir. *Öğrencilerin Holter cihazının işleyişi ve kullanım amacını araştırarak dolaşım sisteminin homeostazi ile ilişkisi hakkında beyin fırtınası yapmaları sağlanabilir.",
+    "Öğrencilerden son yıllarda solunum yolu hastalıklarında görülen artışın hava kirliliği ile ilişkisini bilimsel kaynaklardan araştırmaları, tütün ürünlerinin kullanımının akciğer kanserini artırdığına dair bilgiler toplayıp topladıkları bilgileri değerlendirmeleri istenebilir. Diyaliz makinesine bağlı hastalarla ilgili araştırma yapmaları istenebilir. *Doku mühendisliği ürünlerinden biyonik böbrek konusunda yapılan çalışmaları araştırmaları istenebilir. Homeostazinin sağlanmasında organ ve sistemlerin eş güdümlü çalışması ile ilgili bilimsel model tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; video/animasyon, zihin haritası, balık kılçığı, kavram haritası, performans görevi, sunum, poster, araştırma raporu, öğrenme günlüğü, açık uçlu soruların yer aldığı çalışma yaprağı kullanılarak puanlama anahtarı, analitik ve dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilerin pozitif ve negatif geri bildirim olayının özelliklerini, benzerliklerini ve farklılıklarını listelemeleri amacıyla balık kılçığı kullanılabilir. Balık kılçığı, puanlama anahtarı ile puanlanabilir.",
+    "Homeostazinin canlılar için önemiyle ilgili bilimsel çıkarım yapabilmeleri için öğrencilere gruplara ayrılarak video/animasyon hazırlayacakları bir performans görevi verilebilir. Öğrencilerin hazırlayacağı belgesel, analitik dereceli puanlama anahtarı ile puanlanabilir; öz değerlendirme ve grup değerlendirme formu kullanılabilir.",
+    "Öğrencilere homeostazinin kurulmasında endokrin sisteminin yapı ve görevlerini belirleme, bu yapı ve görevler hakkında veri toplama, topladığı verilerin homeostazi ile ilişkisini yorumlama basamaklarını içeren poster oluşturacakları performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı ile puanlanabilir.",
+    "Öğrencilere dolaşım sistemi ve homeostazi ilişkisi hakkında bilimsel bir model oluşturup oluşturduğu bu modeli poster ile sunmaya yönelik performans görevi verilebilir. Öğrencilerin oluşturacağı poster, bütüncül dereceli puanlama anahtarı ile puanlanabilir ve öğrencilerin portfolyosuna eklenebilir.",
+    "Öğrencilerin sistemlerin eş güdümlü çalışmasının önemi konusunda sorgulama ve akıl yürütmeyle ulaştıkları çıkarımları ortaya koymalarını sağlayacak açık uçlu soruların yer aldığı çalışma yaprağı kullanılabilir. Öğrencilerin cevapları, analitik puanlama anahtarı ile puanlanabilir."
+  ],
+  "teachingApplications": [
+    "BİY.11.2.1 a) Öğrencilerden İbni Sina, İbnünnefis, Ebu Bekir Razi, Walter Cannon ve Claude Bernard gibi bilim insanlarının homeostazinin vücuttaki denge unsuru olmasıyla ilgili çalışmalarını araştırarak homeostazinin işlevlerini ve bunun sistemlerle ilişkisini (dolaşım, boşaltım ve diğer sistemlerin) belirlemeleri istenir. Medeniyetimizin gelişmesine katkıda bulunan bilim insanlarının başarıları vurgulanarak vefalı olmanın öneminden bahsedilir ( D15.2 ) .",
+    "b) Heterojen gruplar oluşturulur. Gruplardan bilimsel makale, kitap veya çevrim içi kaynakları; söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda ders kitabını kullanarak farklı canlılardaki homeostazinin sağlanmasında görevli yapılar (protistada kontraktil kofullar, balıklarda solungaçlar, bitkilerde stomalar vb.) ile ilgili bilgi/veri toplamaları ve topladıkları bilgileri/verileri nasıl düzenleyeceklerine birlikte karar vermeleri istenir ( OB1 , OB2 ) .",
+    "c) Gruplardan farklı canlıların geliştirdiği homeostazi durumlarının canlılar için önemini iş birliği içinde yorumlamaları istenir. Grupların yaptığı çalışmalar, süreç sonunda sınıfa sunularak birlikte değerlendirilir. Öğrencilerin grup olarak çalışmanın dostluğa katkısını fark etmeleri sağlanarak dostluk değeri vurgulanır ( D4.2 ) .",
+    "BİY.11.2.2 a-b) Öğrencilerden homeostatik süreçlerle ilgili daha önce yaşadıkları bir durumu (aşırı susuz kalmak, aşırı uykusuz kalmak, yüksek sıcaklığa maruz kalmak vb.) düşünmeleri ve bu durumun onları nasıl etkilediği konusunda merak ettiklerini ifade etmeleri beklenir. Öğrencilerden belirtilen durum veya benzer örnekler üzerinden homeostatik süreçlerle ilgili merak ettikleri konulara ilişkin \"Bu durumdaki bir kişide homeostatik süreçler neler olabilir?\", \"Homeostatik süreçlerle ilgili sorun yaşamamak için ne gibi önlemler almalıyım?\", \"Homeostatik süreçlerde sorun yaşarsam bu sorunları nasıl aşabilirim?\" gibi soruları sormaları beklenir. c) Öğrenciler, sordukları soruların cevaplarına ulaşabilmek için bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan homeostatik süreçler (su ve elektrolit dengesi, metabolizma ve enerji dengesi, toksinlerin uzaklaştırılması, vücut ısısının kontrolü, kan basıncının kontrolü, vücut ağırlığının kontrolü vb.) ile ilgili bilgi toplar. Öğrencilerin kimya disiplinindeki pH, elektrolitler ve çözeltilere ilişkin bilgilerinden yararlanmaları beklenir. Bu süreçte öğrenciler, motivasyonlarını sağlama konusunda desteklenir. Öğrencilerden elde ettikleri bilgileri kaydetmeleri istenir ( E3.4 ) .",
+    "ç-d) Öğrenciler, homeostatik süreçlerle ilgili topladıkları bilgilerin doğruluğunu ders kitabını kullanarak değerlendirir. Öğrencilerden değerlendirme sonuçlarını kaydetmeleri istenir. Topladıkları bilgilerden yararlanarak kendi homeostatik dengelerini korumak için neler yapabilecekleriyle ilgili çıkarım yapmaları beklenir.",
+    "Öğrencilerden homeostatik süreçlerle ilgili topladıkları bilgilerden yola çıkarak zihin haritası oluşturmaları istenebilir. Öğrencilerin oluşturacağı zihin haritaları, puanlama anahtarı ile puanlanabilir.",
+    "BİY.11.2.3 a) Öğrencilerden termometre ile kendilerinin ve sınıftaki arkadaşlarının vücut sıcaklığını tespit ederek sınıftaki tüm öğrencilerin vücut sıcaklığı aralığını belirlemeleri istenir. İnsanların sabit vücut sıcaklığına sahip olduğu tespit edildikten sonra vücut sıcaklığının düzenlenmesini örnekleyen/sorgulatan \"Ortam sıcaklığı arttığında neden terlersiniz?\", \"Terlemenin vücut sıcaklığınızın değişimine etkisi nedir?\", \"Ortam sıcaklığı arttığında kalp atış hızının nasıl değişir?\" gibi sorular sorularak öğrencilerin ilgi ve meraklarını ifade etmeleri sağlanır ( E3.8 , E3.9 ) . Öğrenciler, sorulara verdikleri cevaplardan yola çıkarak geri bildirim mekanizmalarının özelliklerini belirler.",
+    "b-c) Öğrencilerden pozitif ve negatif geri bildirim mekanizmalarının her biri için araştırma yapmaları istenir. Elde ettikleri sonuçlarla pozitif ve negatif geri bildirim mekanizmalarını gösteren farklı diyagramlar hazırlamaları, hazırladıkları diyagramları karşılaştırarak diyagramların benzerlik ve farklılıklarını listelemeleri istenir.",
+    "BİY.11.2.4 a) İnteraktif araçlar, video veya animasyonlar kullanılarak öğrencilerin homeostazinin sağlanmasında görev alan sinir sistemi yapılarının neler olduğunu ve sinir sisteminin homeostazi üzerindeki etkilerini belirlemeleri sağlanır.",
+    "b) Kan basıncının yükselmesiyle uyarılan hipotalamusun hipofiz bezini uyarmasına bağlı olarak salgılanan hormonların kan basıncını düşürücü etkiler gösterebileceği gibi örnek bir durum verilerek öğrencilerin homeostazinin sağlanmasında sinir sisteminin farklı yapıları arasındaki fonksiyonel ilişkileri belirlemeleri beklenir ( OB1 ) .",
+    "Homeostazinin öneminin ve homeostazinin sağlanmasında sinir sisteminin nasıl etkili olduğunun anlaşılmasını sağlamak amacıyla öğrencilerden korku, endişe, heyecan vb. durumlarda sinir sisteminde meydana gelen değişiklikleri inceleyerek homeostazinin sağlanmasında sinir sisteminin farklı yapıları arasındaki ilişkileri gösteren bir kavram haritası oluşturmaları istenebilir. Kavram haritası, puanlama anahtarı ile puanlanabilir.",
+    "BİY.11.2.5 a) Endokrin sistemini oluşturan bez (hipofiz, tiroid, paratiroid, pankreas, böbrek üstü bezleri, eşey bezleri) ve yapıların (yağ dokusu, mide-bağırsak sistemi) vücuttaki görevlerini, hormonların nasıl üretildiğini, salgılandığını ve hedef organlara nasıl etki ettiğini gösteren etkileşimli öğrenme materyalleri ve görseller kullanılarak, ayrıca örnek olaylar (kan şekerinin artışına bağlı olarak pankreastan salgılanan insülin hormonunun kan şekerini düzenlemesi gibi) sunularak öğrencilerden endokrin sisteminin yapı ve görevlerinin neler olduğunu belirlemeleri istenir. Bu süreçte peptit, protein, steroit ve katekolamin yapılı hormonların moleküler etki mekanizmalarına değinilmez. b) Öğrencilerden endokrin sisteminin [hipofiz bezi (kan basıncı, enerji dengesi, elektrolit dengesi, su dengesi, büyüme ve gelişme), tiroit bezi (metabolizma hızı, kan basıncı ve kalsiyum dengesi), paratiroid bezi (kalsiyum dengesi), pankreas (kan şekeri dengesi, metabolizma ve enerji dengesi), böbrek üstü bezleri (kan şekeri, mineral dengesi, su dengesi, metabolizma ve bağışıklık sistemi), mide-bağırsak sistemi ve yağ dokusu (açlık ve tokluk dengesi)] homeostazideki rolünü anlamalarına yardımcı olacak kaynakları (etkileşimli öğrenme materyalleri, diyagramlar, bilimsel makaleler, güvenilir sağlık siteleri, eğitim platformları, akademik kaynaklar, örnek vakalar vb.) kullanarak bilgi/veri toplamaları istenir. Öğrenciler topladıkları bilgileri/verileri not alır, özetler ve grafik, diyagram veya şemalar kullanarak kaydeder ( D3.3 ) .",
+    "c) Öğrencilerden topladıkları bilgilerden yola çıkarak kan şekerinin düzenlenmesi, su ve elektrolit dengesinin kurulması, metabolizmanın kontrol edilmesi, açlık ve tokluk dengesinin ayarlanması, kan basıncının dengelenmesi süreçlerinde endokrin sisteminin işlevlerini yorumlamaları istenir. Öğretmen, toplanan verilerin yorumlanması sürecinde veriler arasındaki ilişkilerin nasıl düzenleneceği ve verilerin nasıl analiz edileceği konusunda öğrencilerine rehberlik eder ( E3.7 ) .",
+    "BİY.11.2.6 a) Sınıfta heterojen öğrenci grupları oluşturulur. Gruplardan Starling hipotezinden yola çıkarak homeostatik dengeye sahip bir canlının dolaşım sisteminde besinlerin ve oksijenin hücrelere taşınmasının ve atık ürünlerin hücrelerden uzaklaştırılmasının genel hatlarını gösteren bilimsel bir model önermeleri istenir. Bu süreçte kalp, kan damarları ve lenf sisteminin yapısı ile dolaşım sisteminin homeostazi üzerine etkileri verilir; kalbin çalışma, kanın pıhtılaşma, karbondioksit ve oksijenin taşınma mekanizmalarına değinilmez. Öğrenciler; diyagram, şema, maket veya etkileşimli görsel iletişim uygulamalarını kullanarak tasarladıkları modelleri dijital araçlar aracılığıyla, etkileşimli bir şekilde arkadaşlarıyla paylaşır ( OB2 ) . Öğrencilerden dolaşım sistemi modelini birlikte tasarlarken sürece katkılarının farkına varmaları beklenir ( E1.4 , E1.5 ) .",
+    "b) Öğrenciler, oluşturdukları modelleri bilimde dolaşım sistemiyle ilgili kabul görmüş modeller ve sınıftaki diğer grupların oluşturduğu modellerle karşılaştırır. Yapılan karşılaştırmalarla farklı bakış açılarının anlaşılması sağlanır ( E3.10 ) . Grup çalışmalarında öğrencilerin iş birliği içinde çalışması, farklı düşüncelere saygı göstermesi, çalışmaya etkin katkı sağlaması beklenir ( SDB2.2 , D3.3, D14.1 ) . Öğrencilerden oluşturdukları modelleri değerlendirmeleri ve kendi modellerinden hangisinin kabul gören modele en yakın olduğu konusunda karar vererek modellerini yenilemeleri istenir.",
+    "BİY.11.2.7 a) Öğrencilere alveollerin yapısını (kılcal damarlarla birlikte) gösteren bilgi görselleri, videolar, animasyonlar, görseller vb. sunulur. Öğrencilerden bu görsel materyallerden yola çıkarak homeostatik dengeye sahip bir canlıda alveollerin yapısının gaz alışverişine etkilerini kanıtlarla ifade etmeleri istenir ( OB1 ) . Alveol ve kılcallar arasındaki gaz değişiminde difüzyon olayının nasıl gerçekleştiğini hücre zarından madde geçişleri konusuyla ilişki kurarak ifade etmeleri istenir. Bu süreçte karbondioksidin taşınma mekanizmasındaki kimyasal reaksiyonlara değinilmez. Öğrenciler, üç yada dört kişilik heterojen gruplara ayrılır ve kendi aralarından birer grup sözcüsü seçerler ( D1.4 ) .",
+    "Her gruba oksijen, karbondioksit, pH ve vücut sıcaklığı dengelenmesinin solunum sistemi aracılığıyla nasıl gerçekleştiği konusuna ilişkin araştırma görevi verilir. Öğrenciler, bilimsel kaynaklardan (dergi, makale, kitap vb.) araştırma konularıyla ilgili veri toplayarak topladıkları verileri kaydeder.",
+    "b) Grup üyelerinden seçtikleri konuyla ilgili kaydettikleri verileri incelemeleri; araştırma sorusuna cevap oluşturabilecek, kanıt olarak kullanılabilecek verileri bir araya getirerek düzenlemeleri istenir. Grup üyeleri, veriler arasındaki ilişkileri belirleyerek bireysel çalışmalarını tamamlar. Daha sonra her gruptan aynı konuyu çalışan üyeler bir araya getirilerek uzman grupları oluşturulur. Uzman gruplarına mensup üyeler, kendi yaptıkları çalışmaları ve belirledikleri kanıtları birbirleriyle paylaşır ( E1.2 ) . Fikir alışverişi yaparak hemfikir oldukları kanıtları içeren bir rapor oluşturur ve oluşturdukları raporu kaydeder ( E3.1 , OB7 ).Öğretmen, verdiği süre tamamlandıktan sonra uzman gruplarına mensup öğrencilerin kendi gruplarına dönmelerini ister.",
+    "c) Gruptaki her öğrenciden uzman gruplarında solunum sisteminin homeostazinin sağlanmasındaki rolü (oksijen alımı, karbondioksidin atılması, asit-baz dengesi, vücut sıcaklığının kontrolü vb.) ile ilgili oluşturdukları raporu arkadaşlarına sunması istenir ( SDB2.2 ) . Her üyenin anlatımı ve paylaşımı tamamlandığında öğrencilere konuların tamamını kapsayan genel bir soru yöneltilir. Tüm grup üyeleri uzman grubu raporlarındaki verileri de dikkate alarak değerlendirme yapar ve yöneltilen soru için kanıtlara dayalı ortak bir cevap hazırlar ( E3.6 ) . Sorunun cevabını içeren bir elektronik sunu grup üyelerince oluşturulur. Grup sunuları, grup sözcüleri tarafından sınıfta paylaşılır ( OB2 ) .",
+    "Gruplardan solunum sisteminin homeostazinin sağlanmasındaki rollerinden birini seçerek seçtikleri konuyla ilgili bir araştırma raporu hazırlamaları ve hazırladıkları raporu sınıfta sunmaları istenir. Öğrencilerin oluşturacağı rapor, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir; öz değerlendirme, akran değerlendirme ve grup değerlendirme formu kullanılabilir.",
+    "BİY.11.2.8 a) Öğrencilerden nefronların yapısı ve boşaltım sistemindeki görevlerini içeren video, animasyon veya görsellerden faydalanarak nefronların yapı ve görevlerini tanımlamaları beklenir. Bu süreçte emilim ve geri emilim olaylarında emilen maddelerin bölgesel ayrımına değinilmez.",
+    "b-c) Öğrencilerden nefronun homeostazi ile ilişkisi hakkında araştırma yapmaları istenir. Öğrenciler; araştırma yaparken bilimsel makaleler, çevrim içi kaynaklar, çeşitli vaka çalışmaları, anekdotlar vb. kaynaklardan yararlanabilir. Bu süreçte öğretmen, öğrencilere doğru bilgilere ulaşmaları için rehberlik eder. Söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda nefronun homeostazi ile ilişkisini içeren bilgiler öğrencilere çalışma yaprağında veya ders kitabında verilebilir. Öğrenciler, araştırma sonunda elde ettikleri verileri kullanarak boşaltım sisteminin homeostazi (atık maddeler ve fazla suyun vücuttan uzaklaştırılması, su ve elektrolit dengesi, asit-baz dengesi, kan basıncı vb.) açısından önemini yorumlar.",
+    "Öğrencilerden boşaltım sisteminin homeostaziyle ilişkisini gösteren öğrenme günlüğü hazırlamaları istenir. Öğrenme günlüğü, puanlama anahtarı ile puanlanabilir. BİY.11.2.9 a) Öğrencilere \"Açık bir alan veya ormanda yalıtımı ve ısınması olmayan bir kulübede kaldınız. Dışarıda kar fırtınası var ve hava gittikçe soğuyor.\" şeklinde bir örnek olay verilerek \"Bu durumda vücudunuzda hangi değişiklikler gerçekleşir?\", \"Neler hissedersiniz?\" gibi sorular sorulabilir. Bu yolla öğrencilerin dikkati konuya çekilebilir. Öğrencilerden bu sorulara cevap aramak için düşünmeleri ve derste öğrendikleri bilgilerden hareketle homeostazinin sağlanmasında sistemlerin eş güdümlü çalışmasının gerekliliğini sorgulamaları beklenir.",
+    "b) Öğrencilerden yanındaki arkadaşı ile eşleşerek böyle bir durum karşısında neler yapabileceklerini listelemeleri istenir ( E2.4 ) . Öğrencilerin belirlediği başa çıkma yollarının homeostazinin sağlanmasındaki etkileri tartışılarak en uygun yöntemler belirlenir ( KB2.18 ) . Öğrencilerden tartışılan yöntemlerin hangi sistemlerle ilişkili olduğu, sistemlerin homeostazi sürecinde nasıl eş güdümlü çalıştıkları konusunda akıl yürütmeleri beklenir ( SDB3.2 ) .",
+    "c) Öğrencilerden ulaştıkları bilgilere ilişkin akıl yürütmeleri ve farklı sistemlerin ilişkileri hakkında çıkarım yapmaları beklenir. Ulaşılan sonuçlar sınıfa sunulur ve sınıf panosunda paylaşılır.",
+    "BİY.11.2.10 a) Öğrencilerden kendi yaşantılarında veya sosyal yaşamda (televizyon, sosyal medya, çevresindeki kişiler vb.) duydukları, gördükleri sağlık problemlerinden yola çıkarak homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık sorunları ile ilgili \"Hipertansiyon hastalarının baş ağrısı, bulantı, nefes darlığı, bulanık görme şikâyetlerini yaşamalarının nedeni nedir?\" örneğinde ifade edildiği gibi araştırılabilir bir problem cümlesi belirlemeleri istenir.",
+    "b-c) Öğrencilerden belirledikleri problem durumuyla ilgili güvenilir kaynaklardan bilgi toplayarak problem durumuna yönelik neden-sonuç ilişkilerini \"Baş ağrısı hipertansiyon belirtisidir çünkü yüksek kan basıncı sonucunda kan damarlarında meydana gelen gerilme, zorlanma ya da hasar nedeniyle beyindeki kan akışı düzensizleşir.\" örneğinde ifade edildiği gibi belirler ( OB2 , E1.5 ) . Öğrencilerden problem sorusuna ilişkin bağımlı ve bağımsız değişkenleri belirlemeleri istenir.",
+    "ç) Öğrencilerden yakın çevrelerinde bulunan şeker, yüksek tansiyon hastası veya obez kişilerin bir günlük yaşamlarını gözlemlemeleri ya da bu kişilerle hastalıkları nedeniyle yaşadıkları durumlara ilişkin bir görüşme yapmaları istenir. Bu amaçla gözlem formu ya da görüşme soruları hazırlanabilir.",
+    "d) Öğrenciler, homeostazinin sağlanamadığı durumlarda oluşabilecek sağlık problemlerinin nedenlerini tespit etmek amacıyla yaptıkları literatür taraması, uzman görüşmesi ve vaka çalışmalarından yola çıkarak sağlık problemlerine yönelik \"Eğer kişi sık idrara çıkıyor, aşırı su tüketiyorsa şeker hastasıdır.\" örneğinde ifade edildiği gibi önermeler sunar ( D13.4 ) .",
+    "Öğrencilere homeostazinin sağlanamadığı durumlarda oluşabilecek bir sağlık problemi senaryosunu ele alıp çözümlemeye yönelik sunum hazırlayacakları performans görevi verilebilir. Performans görevi kapsamında öğrencilerden \"senaryo seçimi, analiz ve tanı, müdahale planı, güvenli ve etkili müdahale değerlendirmesi, sosyal ve psikolojik etkileşimleri değerlendirme\" adımlarını izleyerek bir sunum hazırlamaları istenebilir. Sunum, analitik dereceli puanlama anahtarı ile puanlanabilir. Öz değerlendirme formu ile öğrencinin kendini değerlendirmesi sağlanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.4",
+      "D13.4",
+      "D14.1",
+      "D15.2",
+      "D3.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.2",
+      "E1.4",
+      "E1.5",
+      "E2.4",
+      "E3.1",
+      "E3.10",
+      "E3.4",
+      "E3.6",
+      "E3.7",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/16"
+}

@@ -1,0 +1,51 @@
+{
+  "unitId": 81403002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Matematik Uygulamaları Dersi (Lise)",
+  "title": "2. ÜNİTE: MATEMATİK VE BÜTÇELEME",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTU.1.2.1",
+      "title": "Seçtiği bir proje bütçesindeki giderler ile ilgili veri toplar",
+      "processComponents": [
+        "Bütçe hazırlama aşamalarına değinilir.",
+        "Oda dekorasyonu, oyun alanı tasarlama, maket ev inşa etme gibi proje örneklerinde bütçelerin harcama kalemleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "MTU.1.2.2",
+      "title": "Proje bütçesindeki giderler ile ilgili verileri tablo veya grafik kullanarak karşılaştırır",
+      "processComponents": [
+        "Proje örneklerindeki kütle, hacim ve miktar bazında malzeme fiyatlarının karşılaştırılması sağlanır.",
+        "Çizgi grafiği, sütun grafiği, daire grafiği ve histograma yer verilir.",
+        "Serpme ve kutu grafiklerine yer verilmez."
+      ]
+    },
+    {
+      "code": "MTU.1.2.3",
+      "title": "Proje bütçesi örneği hazırlar",
+      "processComponents": [
+        "Farklı veriler, özel teklifler vb. durumlar dikkate alınır."
+      ]
+    },
+    {
+      "code": "MTU.1.2.4",
+      "title": "Hazırladığı proje bütçesi örneğini yazılı/sözlü şekilde sunar",
+      "processComponents": [
+        "Sunumda harcama kalemlerinin dağılım yüzdelerine yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121111235666-MATEMAT%C4%B0K%20UYGULAMALARI%20DERS%C4%B0%20%28I-II%29%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI--21.11.2023.pdf"
+}

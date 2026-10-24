@@ -1,0 +1,80 @@
+{
+  "unitId": 1221,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "1. TEMA: NEYDE USUL (RİTM) UYGULAMALARI",
+  "hours": "17",
+  "description": "Temanın içeriğini Türk müziğinde yer alan usullerden nim sofyan, semai ve sofyan usullerinde ney ile Türk müziği eserleri çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan usullerden oluşan eserleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.5.1.1",
+      "title": "Nim sofyan usulünde Türk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Nim sofyan usulünde Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak nim sofyan usulünde Türk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "NEY.5.1.2",
+      "title": "Semai usulünde Türk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Semai usulünde Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak semai usulünde Türk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "NEY.5.1.3",
+      "title": "Sofyan usulünde Türk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Sofyan usulünde Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak semai usulünde Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ney, ritim, Türk müziği, usul",
+  "support": [
+    "Bu süreçte eserler, metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup, eseri ney ile seslendirirken diğer grup, eserin usulünü çeşitli ritim aletleri ile çalabilir. Bu etkinlik, süreci eğlenceli hâle getirirken öğrencilerin sosyal iletişimi geliştirebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak nim sofyan, semai ve sofyan usullerinde çaldığı Türk müziği eserlerini metronom aleti yardımı ile hızlandırmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "NEY.5.1.1",
+    "Öğretmen tarafından nim sofyan usulünden oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Nim sofyan usulünün genel özellikleri anlatılarak, bir ritim aleti ile usulün vuruluşu gösterilip öğrencilerin usulün vuruluşuna odaklanıp ritmin genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1 , SAB10 , E3.2 ). Daha sonra öğretmen, neyde öğrenilen ses kademelerindeki ana ve ara seslerden oluşan Türk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler öğretmen tarafından yapılan bona ve solfeji inceleyip, Türk müziği eserinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği nim sofyan usulündeki Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 , SAB10 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde nim sofyan usulünde eserleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Nim sofyan usulünün belirgin şekilde algılanması için uzun seslerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır (D12.3). Çalışmalar analitik dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir.",
+    "NEY.5.1.2",
+    "Öğretmen tarafından semai usulünden oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Semai usulünün genel özellikleri anlatılarak, bir ritim aleti ile usulün vuruluşu gösterilip öğrencilerin odaklanıp ritmin genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 , SAB10 ). Daha sonra öğretmen, neyde öğrenilen ses kademelerindeki ana ve ara seslerden oluşan Türk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler öğretmen tarafından yapılan bona ve solfeji inceleyip, Türk müziği eserinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği semai usulündeki Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 , SAB10 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin semai usulünde eserleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Semai usulünün belirgin şekilde algılanması için uzun seslerden oluşan Türk halk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar analitik dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir.",
+    "NEY.5.1.3",
+    "Öğretmen tarafından sofyan usulünden oluşan Türk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Sofyan usulünün genel özellikleri öğrencilere anlatılır. Bir ritim aletiyle usulün vuruluşu gösterilir. Öğrencilerin, bu ritme odaklanmaları ve genel özellikleri kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Daha sonra öğretmen, neyde öğrenilen ses kademelerindeki ana ve ara seslerden oluşan Türk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler öğretmen tarafından yapılan bona ve solfeji inceleyip, Türk müziği eserinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği sofyan usulündeki Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde sofyan usulündeki eserleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Semai usulünün belirgin şekilde algılanması için uzun seslerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Süreç sonunda performans görevi olarak nim sofyan, semai ve sofyan usullerinde çaldığı Türk müziği eserlerini metronom aleti yardımı ile hızlandırmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB10"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1221"
+}

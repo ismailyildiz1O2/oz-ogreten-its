@@ -1,0 +1,53 @@
+{
+  "unitId": 94126401,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "1. ÖĞRENME ALANI: BİREY VE TOPLUM",
+  "hours": "12",
+  "description": "Bu öğrenme alanı işlenirken saygı ve sorumluluk gibi değerlerle kanıt kullanma, zaman ve kronolojiyi algılama ile empati kurma gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.1.1",
+      "title": "Resmî kimlik belgesini inceleyerek kişisel kimliğine ilişkin çıkarımlarda bulunur",
+      "processComponents": [
+        "Resmî kimlik belgesini inceleyerek bu belgenin içerdiği bilgiler açıklanır."
+      ]
+    },
+    {
+      "code": "SB.4.1.2",
+      "title": "Yaşamına ilişkin belli başlı olayları kronolojik sıraya koyar",
+      "processComponents": [
+        "Öğrencinin kendi hayatında önemli gördüğü (doğum, ilk konuşma, okula başlama vb.) olayları kronolojik olarak sıralaması sağlanır."
+      ]
+    },
+    {
+      "code": "SB.4.1.3",
+      "title": "Bireysel ilgi, ihtiyaç ve yeteneklerini tanır",
+      "processComponents": [
+        "İlgi ve istekleri doğrultusunda okulunda veya yakın çevresindeki eğitsel sosyal etkinliklere katılması için teşvik edilir."
+      ]
+    },
+    {
+      "code": "SB.4.1.4",
+      "title": "Kendisini farklı özelliklere sahip diğer bireylerin yerine koyar",
+      "processComponents": [
+        "Farklı yeteneklere, beğenilere ve kişilik özelliklerine sahip bireylerin yanı sıra dezavantajlı (engelli, yoksul, devlet bakımına muhtaç veya kronik sağlık sorunları yaşayan) bireylerin durumlarına da değinilir."
+      ]
+    },
+    {
+      "code": "SB.4.1.5",
+      "title": "Diğer bireylerin farklı özelliklerini saygı ile karşılar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Birey ve Toplum",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

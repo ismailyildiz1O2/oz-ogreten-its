@@ -1,0 +1,66 @@
+{
+  "unitId": 1186,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "1. TEMA: KAVALDA İKİNCİ KADEME SES ALANINDA ANA SESLER",
+  "hours": "17",
+  "description": "Tema içeriğini, kavalda ikinci kademe ses alanında yer alan ana sesleri (re, do, si, la ve sol) seslendirebilme oluşturmaktadır. Bu doğrultuda kavalda ikinci kademe ses alanında yer alan ana sesleri seslendirebilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.4.1.1",
+      "title": "Re, do, si notalarını çalabilme",
+      "processComponents": [
+        "a) Notaları çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    },
+    {
+      "code": "KVL.4.1.2",
+      "title": ". La ve sol notalarını çalabilme",
+      "processComponents": [
+        "a) Notaları çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Seslendireceği notaları yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ana sesler, kaval, nota",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Bu süreçte etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Bu süreçte etütler metronom aleti ile hızlandırılarak çalınabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin re, do, si, la ve sol notalarıyla kendi melodilerini oluşturup sunmaları istenebilir. Performans görevi gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.4.1.1",
+    "Öğretmen tarafından kavalda re, do ve si notalarının sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Kavalda re, do, si, notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda ikinci kademede yer alan re, do, si notalarını çalabilmeleri için kavala özgü teknikleri ifade etmeleri ve kullanmaları sağlanır. İkinci kademede yer alan re, do, si notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınıp öğrenciler gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 , KB2.2 ). Süreç sonunda performans görevi olarak öğrencilerin re, do ve si notalarıyla kendi melodilerini oluşturup sunmaları istenebilir. Performans görevi kontrol listesi, gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir.",
+    "KVL.4.1.2.",
+    "Öğretmen tarafından kavalda la ve sol notalarının sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Kavalda la ve sol notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda ikinci kademede yer alan la ve sol notalarını çalabilmeleri için kavala özgü teknikleri ifade etmeleri ve kullanmaları sağlanır. İkinci kademede yer alan la ve sol notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınıp, öğrenciler gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 , KB2.2 ). Süreç sonunda performans görevi olarak öğrencilerin re, do, si, la ve sol notalarıyla kendi melodilerini oluşturup sunmaları istenebilir. Performans görevi kontrol listesi, gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1186"
+}

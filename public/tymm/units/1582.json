@@ -1,0 +1,63 @@
+{
+  "unitId": 1582,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi",
+  "title": "4. Ünite: Proje Süreci",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PTU.4.1",
+      "title": "Problem durumunu belirleyerek fikir üretebilme",
+      "processComponents": [
+        "a) Konu/sorun/durumu fark eder.",
+        "b) Konu/sorun/duruma ilişkin benzer deneyimleri inceler.",
+        "c) Konu/sorun/duruma ilişkin fikir ve çözüm üretir."
+      ]
+    },
+    {
+      "code": "PTU.4.2",
+      "title": "Problem durumunu belirleyerek problemi çözebilme",
+      "processComponents": [
+        "a) Bir problem durumu belirleyerek yapılandırır.",
+        "b) Problemi özetler.",
+        "c) Problemin çözümüne yönelik gözleme, mevcut bilgiye, veriye dayalı tahminde bulunur.",
+        "ç) Problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Problemin çözümüne ilişkin yansıtma ve değerlendirmede bulunur."
+      ]
+    },
+    {
+      "code": "PTU.4.3",
+      "title": "Projeyi yapılandırabilme",
+      "processComponents": [
+        "a) Problemin çözümüne yönelik geliştirdiği fikir önerisini inceleyerek hiyerarşik, nedensel ya da mantıksal ilişkiler ortaya koyar.",
+        "b) Problemin çözümüne yönelik geliştirdiği fikir önerisine ilişkin ön bilgilerden yararlanarak uyumlu bir bütün oluşturarak projesini ortaya koyar."
+      ]
+    }
+  ],
+  "keyConcepts": "AR-GE, ekip, görev dağılımı, hedef kitle, imitasyon, inovasyon, iş kırılımı, kaynakça, özgünlük, paydaş analizi, proje planlama tekniği, proje süreci, risk analizi, sürdürülebilirlik, TÜBİTAK, veri, veri analiz teknikleri, veri toplama teknikleri",
+  "support": [
+    "Öğrencilere bilim insanlarının çalışmalarını anlatan öyküler okutulabilir.",
+    "TÜBİTAK Bilim ve Çocuk dergisinin dijital hâlinden yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler projelerin toplumsal katkısı üzerine araştırma yapıp ulaştıkları bilgileri arkadaşlarına sunabilir.",
+    "Örnek bir TÜBİTAK 2024-B Öğrenci Destek Projesini inceleyerek kendi yazacağı proje için bilgi edinebilir."
+  ],
+  "assessment": [
+    "Öğrencilerden iklim krizine çözüm üretilmediğinde 2050’ye kadar ortaya çıkabilecek olası zararları değerlendirip bunları kısa bir metin hâline getirmeleri performans görevi olarak istenebilir. Hazırlanan metinler sınıfa sunulur, öz değerlendirme ve akran değerlendirmesiyle değerlendirilir."
+  ],
+  "teachingApplications": [
+    "PTU.4.1",
+    "Öğrencilerden bir problem durumunu (iklim krizi vb.) belirleyip, insanlar ile diğer canlıları ilgilendiren bir problemi özetleyerek, problemin çözümüne yönelik gözlem, mevcut bilgi ve veriye dayalı tahminde bulunmaları istenir ( D5.2 , D9.3 , OB7 , SDB3.3 ). Öğrencilerden üzerine düşen görevleri yerine getirmeleri için belirledikleri iklim krizi sorunlarının çözümüne yönelik sorumluluk almaları ve çözüm önerilerini somutlaştırmaları istenir. Bu örneğe bağlı olarak fosil yakıtların çevreye verdiği zararı azaltmak için yenilenebilir enerji sistemleri geliştirme fikri üzerinde çalışabilirler. Öğrencilerin gelecek nesillere temiz bir çevre bırakmak için çaba göstermeleri sağlanır ( D18.3 ). Proje sürecinin etkili bir şekilde planlanması, izlenmesi ve değerlendirilmesi amacıyla görev dağılımı, zaman planlaması, gerçekleştirilen çalışmalar ve kaydedilen ilerlemelerin takibinde öğrencilerin gelişim düzeylerine uygun dijital takip formlarından yararlanılabilir. Öğrencilerden problemin çözümüne yönelik önermeler üzerinden akıl yürütmeleri, proje odaklı düşünme yaklaşımına göre bir proje önerisi sunmaları ve değerlendirmede bulunmaları istenir ( E3.3 , E1.4 , SDB3.2 ). Öğrencilerin sahip oldukları bilgi ve deneyimleri başkalarıyla paylaşmaları için proje sürecinde araştırmaları ve çözüm önerilerini sınıf içinde sunarak akranlarıyla fikir alışverişinde bulunmaları sağlanır. Örneğin çevresel sürdürülebilirliğe katkı sağlamak amacıyla temiz enerji üretebilmek için güneş enerji sistemi (GES) geliştirmeyi düşünen bir öğrenci bu fikrini arkadaşlarına açıklayarak öneriler alabilir ( D5.1 ).",
+    "PTU.4.2",
+    "Öğrencilere belgesel izletilir, belgeselde kendilerine ilginç gelen unsurları yorumlamaları ve maddeler hâlinde yazmaları sağlanır. Öğrencilerden iklim krizinin 2050 yılına kadar -çözüm üretilmezse- insanlığa ne gibi zararlar verebileceği ile ilgili düşüncelerini metne dönüştürmeleri performans görevi olarak istenebilir ( SBAB4.3 ). Öğrencilerden hazırladıkları metinleri sınıfta sunmaları istenebilir, metinler öz değerlendirme ve akran değerlendirmesi ile değerlendirilebilir. Öğrencilerin hem izledikleri belgesel ve videolardaki tespitlerini hem de 2050 yılına kadar öngörüde bulundukları metinleri akranlarıyla paylaşarak iklim krizinin verdiği ve ilerde verebileceği zararları fark etmeleri sağlanır. Öğretmen; öğrencilerin iklim krizine yönelik küresel ısınma, biyoçeşitliliğin azalması gibi zararlar ile bu zararların önlenmesine yönelik yapılan güneş tenceresi, güneş panelleri, güneş enerjisi sistemi (GES), rüzgâr türbinleri vb. benzer deneyimleri incelemelerini sağlar. Elde ettikleri bilgiler ve yaptıkları incelemeler sonucunda öğrencilerden iklim krizine yönelik fikir panosu oluşturmaları, üretilen bu fikirler arasından benzer ve farklı olanları gruplandırmaları beklenir. Öğrencilerin gruplandırılan fikirlerden proje yazım sürecine en uygun olanları ayrıştırmaları sağlanabilir.",
+    "PTU.4.3",
+    "Öğrenciler belirledikleri problemin çözümüne yönelik geliştirdikleri fikirleri hiyerarşik, nedensel veya mantıksal ilişkiler çerçevesinde inceler. Daha sonra öğrencilerden birbirlerinin proje fikirlerini saygılı, ön yargısız, fikir, öneri ve eleştirilere açık, ölçülü ve dengeli bir şekilde karşılıklı olarak incelemeleri istenir ( E3.5 , D1.3 , D14.1 ). İnceledikleri fikir önerilerini hiyerarşik, nedensel veya mantıksal bakış açısıyla ortaya koyarlar. Öğrenciler problemin çözümüne yönelik geliştirdiği fikir önerisine ilişkin ön bilgilerden yararlanarak uyumlu bir bütün oluşturup projesini ortaya koyar. Öğrencilerden geliştirdikleri fikirler arasında en iyisi olduğunu düşündükleri bir fikri çıktıya dönüştürebilmek için proje oluşturma sürecine göre planlama yapmaları, proje yazımına uygun araç gereç ve malzemeleri belirlemeleri beklenir. Öğrenciler proje içeriğine uygun yöntem ve teknikleri belirler. Proje yazım sürecinde problemin çözümüne yönelik geliştirdiği fikri proje uygulama basamaklarına (proje fikrini belirleme, başvuru formunu doldurma, amaç ve hedef yazımı, bütçe planı hazırlama, takvim oluşturma, onay ve değerlendirme süreci, projenin uygulanması, sonuç raporlama) göre sıralar. Proje içeriğini sıralanan bu basamaklara göre uygular. Proje öneri formunu proje çıktısı olarak oluşturur ( TSRMAB1.2 ). Örneğin öğretmen, öğrencilerin proje sürecinde görevlerini planlı ve eksiksiz şekilde yürütmelerini sağlayarak görevlerini zamanında ve eksiksiz yerine getirmelerini sağlar. ( D16.3 ). Öğrencilerden öğretmen tarafından hazırlanan kontrol listesi doğrultusunda hem öz değerlendirme yapmaları hem de birbirlerini değerlendirmeleri istenir. Öğrencilerden bir projenin hem insanlar hem de diğer canlılar için önemini anlatan kompozisyon yazmaları istenebilir ve onlara bu kompozisyonu çizimle betimlemeleri için performans görevi verilebilir. Bu kompozisyon ve performans görevi dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBSB5. Sosyal Katılım (SBSB5.3. Fikir Üretme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1582"
+}

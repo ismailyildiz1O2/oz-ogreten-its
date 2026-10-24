@@ -1,0 +1,67 @@
+{
+  "unitId": 1432,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyolonsel Modülü",
+  "title": "1. TEMA: DİZİ VE ETÜT UYGULAMALARI-4",
+  "hours": "24",
+  "description": "Temada öğrencilerin hicaz ve nikriz dizilerini öğrenmeleri, bu yapıları viyolonselde doğru tekniklerle çalabilmeleri ve bu yapılar arasındaki farkları anlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VLS.8.1.1",
+      "title": "Hicaz makamında etüt çalabilme",
+      "processComponents": [
+        "a) Hicaz makamı dizisinin kullanıldığı etüdü çözümler.",
+        "b) Hicaz makamını çalarken duruş ve tutuş pozisyonunu alır.",
+        "c) Hicaz makamını çalarken viyolonsele özgü teknikleri kullanır.",
+        "ç) Hicaz makamını çalarken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "VLS.8.1.2",
+      "title": "Nikriz makamında etüt çalabilme",
+      "processComponents": [
+        "a) Nikriz makamı dizisinin kullanıldığı etüdü çözümler.",
+        "b) Nikriz makamını çalarken duruş ve tutuş pozisyonunu alır.",
+        "c) Nikriz makamını çalarken viyolonsele özgü teknikleri kullanır.",
+        "ç) Nikriz makamını çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, makam, viyolonsel",
+  "support": [
+    "Öğretmen, makamların nota sıralamalarını ve seyir özelliklerini detaylı bir şekilde ele alarak öğrencilerin kavrayışını güçlendirecek bire bir rehberlik sağlayabilir. Dijital ortamda veya akıllı tahta üzerinde makamların adım adım analizi yapılabilir. Makamların karakteristik özelliklerini pekiştirmek amacıyla sadeleştirilmiş solfej ve çalma çalışmaları düzenlenebilir. Grup etkinliklerinde, görevler dengeli şekilde paylaştırılır ve her öğrencinin aktif katılımını artıracak düzenlemeler yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin makam bilgilerini derinleştirecek ve müzikal ifadelerini geliştirecek etkinlikler sunulabilir. Örneğin öğrenciler, bir makamı içeren eserleri dinleyip analiz ederek bu eserlerin duygusal yapısını ve karakteristik özelliklerini tartışabilir. Ayrıca dijital araçlar kullanarak makamların yapısını, kullanıldığı eserleri ve kültürel bağlamlarını açıklayan yaratıcı sunumlar hazırlayabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, öz değerlendirme ve akran değerlendirme kullanılarak değerlendirilebilir. Performans görevleri kapsamında, öğrencilerden öğretmenin belirlediği bir eseri hicaz ve nikriz makamı dizisinde çalmaları istenebilir. Performans görevi; gözlem formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VLS.8.1.1",
+    "Öğretmen, hicaz makamı dizisini içeren bir eserin kısa bir bölümünü dinleterek derse başlar. Dinleme sonrasında, \"Hicaz makamı size hangi duyguları çağrıştırıyor?\" ve \"Bu makamı diğer makamlardan ayıran seyir özellikleri nelerdir?\" gibi sorularla öğrencilerin dikkatini çeker. Öğrenciler, bireysel düşüncelerini ifade ettikten sonra gruplar hâlinde çalışarak hicaz makamının seyir ve yapı özelliklerini daha önce öğrendikleri makamlarla karşılaştırır ve birbirlerinin görüşlerini empatiyle değerlendirir ( KB2.7 , E2.1 ). Öğretmen, hicaz dizisi sıralamasını ve durak, güçlü noktalarını akıllı tahtada gösterir. Öğrencilerden, makamın müzikal yapısını gözlemlemeleri ve gözlemleri üzerinden tahminlerde bulunmaları istenir. Bu süreçte, makamın duygusal ifadesine yönelik çıkarımlar yaparak öğrenme süreçlerini derinleştirir ( KB2.11 , OB4 ). Öğrenciler, hicaz makamı dizisini içeren bir etüdün bona ve solfej çalışmasını yaparak etüdü analiz eder ve bu süreçte, nota okuma becerilerini kullanarak makamın seslerini müzikal bir bütünlük içinde ifade eder. Öğrenciler, grup çalışması sırasında birbirlerine teknik detaylar hakkında geri bildirim verir ve koma seslerin doğru çıkarılması için dikkatle çalışır ( D4.1 ). Öğrenciler, doğru duruş ve tutuş pozisyonlarını alır ve hicaz makamındaki sesleri çalarken viyolonsele özgü teknikleri doğru şekilde uygular. Makamın karakteristik özelliklerini vurgularken müziksel bileşenleri uygular. Grup içinde, yay hareketleri ve entonasyon hakkında geri bildirim vererek iş birliğini sürdürürler ( SDB2.1 ). Öğretmen, hicaz makamı dizisini içeren bir eserin performans görevi olarak çalınmasını istenebilir. Öğrenciler, bireysel performanslarını öz değerlendirme formlarıyla analiz edebilir ve grup içinde akran değerlendirme formları ile birbirlerine geri bildirim sağlayabilir ( SDB1.2 ). Performans görevi, gözlem formu veya analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "VLS.8.1.2",
+    "Öğretmen, nikriz makamı dizisini içeren bir eserin kısa bir bölümünü dinleterek derse başlar. Dinleme sonrasında, \"Nikriz makamı size hangi duyguları çağrıştırıyor?\" ve \"Bu makamı diğer makamlardan ayıran belirgin özellikler nelerdir?\" gibi sorularla öğrencilerin dikkatini çeker. Öğrenciler, bireysel düşüncelerini ifade ettikten sonra gruplar hâlinde çalışarak nikriz makamının seyir ve yapı özelliklerini önceki makamlarla karşılaştırır ve birbirlerinin görüşlerini empatiyle değerlendirir ( KB2.7 , E2.1 ). Öğretmen, nikriz dizisinin sıralamasını, durak, güçlü ve yeden noktalarını akıllı tahtada gösterir. Öğrencilerden, dijital kaynaklar kullanarak nikriz makamının temel unsurlarını gözlemlemeleri ve gözlemleri üzerinden tahminlerde bulunmaları istenir. Bu süreçte, makamın duygusal ifadesine yönelik çıkarımlar yaparak öğrenme süreçlerini derinleştirirler ( KB2.11 , OB4 ). Öğrenciler, nikriz makamını içeren bir etüdün bona ve solfej çalışmasını yaparak etüdü çözümler ve bu süreçte, nota okuma becerilerini kullanarak makamın seslerini doğru bir bütünlük içinde ifade eder. Grup çalışması sırasında, birbirlerine teknik detaylar hakkında geri bildirim verir ve koma seslerin doğru çıkarılması için dikkatle çalışır (D4.1). Öğrenciler, doğru duruş ve tutuş pozisyonlarını alır ve nikriz makamındaki sesleri çalarken viyolonsele özgü teknikleri doğru şekilde uygular. Makamın karakteristik özelliklerini vurgularken müziksel bileşenleri uygular. Grup içinde, yay hareketleri ve parmak pozisyonları hakkında geri bildirim vererek iş birliğini sürdürürler ( SDB2.1 ). Süreç sonunda öğretmen, öğrencilerden Nikriz makamı dizisini içeren bir eserin performans görevi olarak çalınmasını istenebilir. Öğrenciler, bireysel performanslarını öz değerlendirme formlarıyla analiz edebilir ve grup içinde akran değerlendirme formları ile birbirlerine geri bildirim sağlayabilir ( SDB1.2 ). Performans görevi, gözlem formu veya analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.1"
+    ],
+    "egilim": [
+      "E2.1"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1432"
+}

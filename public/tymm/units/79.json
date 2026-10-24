@@ -1,0 +1,101 @@
+{
+  "unitId": 79,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "3. ÜNİTE: AHLAKİ DAVRANIŞLAR",
+  "hours": "12",
+  "description": "Bu ünitenin teması din ve hayattır. Ünitede ahlaki davranışlar ele alınmaktadır. Öğrencilerin; doğru sözlü olmayı kendi hayatlarına yansıtmaları, merhametli olmanın bireysel ve toplumsal faydalarını yorumlamaları, adap ve nezaket kurallarını özetlemeleri, vatanı sevmenin önemi hakkında çıkarım yapmaları amaçlanmaktadır. Kunut dualarını ve bu duaların anlamlarını okuyarak yorumlamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "DKAB.6.3.1",
+      "title": "Doğru sözlü olmayı kendi hayatına yansıtabilme",
+      "processComponents": [
+        "a) Doğru sözlü olmanın önemini kendisinden ve çevresinden hareketle gözden geçirir.",
+        "b) Doğru sözlü olmanın bireysel ve toplumsal açıdan önemine dair çıkarımda bulunur.",
+        "c) Doğru sözlü olmanın önemiyle ilgili ulaştığı çıkarımları değerlendirir."
+      ]
+    },
+    {
+      "code": "DKAB.6.3.2",
+      "title": "Merhametli olmayı yorumlayabilme",
+      "processComponents": [
+        "a) Merhametli olmanın bireysel ve toplumsal boyutlarını inceler.",
+        "b) Merhametli olmayı kendi hayatı için anlamlı hâle getirir.",
+        "c) Merhametli olmanın önemini kendi cümleleriyle yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "DKAB.6.3.3",
+      "title": "Adap ve nezaket kurallarını özetleyebilme",
+      "processComponents": [
+        "a) Adap ve nezaket kurallarını çözümler.",
+        "b) Adap ve nezaket kurallarını sınıflandırır.",
+        "c) Adap ve nezaket kurallarını yorumlar."
+      ]
+    },
+    {
+      "code": "DKAB.6.3.4",
+      "title": "Vatanını sevmenin önemi hakkında çıkarım yapabilme",
+      "processComponents": [
+        "a) Vatanını sevmenin önemi hakkında mevcut bilgisi dâhilinde varsayımda bulunur.",
+        "b) Vatan sevgisiyle ilişkili kavramları listeler.",
+        "c) Vatan sevgisiyle ilişkili kavramları birbirleriyle ilişkisi açısından karşılaştırır.",
+        "ç) Vatan sevgisinin önemi hakkında önermeler sunar.",
+        "d) Vatan sevgisinin önemi hakkında önermelerle ilgili değerlendirmede bulunur."
+      ]
+    },
+    {
+      "code": "DKAB.6.3.5",
+      "title": "Kunut dualarını ve bu duaların anlamlarını okuyarak yorumlayabilme",
+      "processComponents": [
+        "a) Kunut dualarını ve bu duaların anlamlarını okur.",
+        "b) Kunut dualarının anlamlarını kendi hayatı için anlamlı hâle getirir.",
+        "c) Kunut dualarının anlamlarını değiştirmeyecek şekilde özetler."
+      ]
+    }
+  ],
+  "keyConcepts": "adap, dürüstlük, gazi, merhamet, şehit, vatan",
+  "support": [
+    "Doğru sözlülük, merhamet, sorumluluk ve vatan sevgisi değerlerinin anlamını kavramaları için öğrencilere kısa animasyonlar izlettirilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere şehit yakınlarıyla veya gazilerle vatan sevgisi hakkında röportaj yaptırılabilir. Doğru sözlü olmanın önemi hakkında hikâye yazdırılabilir. Ahlaki davranışlar sergileyen ve bunun aksi davranışlarda bulunan iki kişinin özelliklerini belirten drama hazırlatılabilir."
+  ],
+  "assessment": [
+    "Bu ünitede ölçme değerlendirme sürecinde açık uçlu soru, kısa cevaplı soru, kelime ilişkilendirme, çalışma yaprağı, kavram haritası, neden sonuç diyagramı (balık kılçığı), yapılandırılmış grid ve öz değerlendirme formu kullanılabilir.",
+    "Performans Görevi: Doğru sözlü olmanın önemi hakkında bir sunu hazırlanabilir. Merhametli olmanın bireysel ve toplumsal faydalarını anlatan bir drama-canlandırma etkinliği de yaptırılabilir. Toplumsal hayatta adap ve nezaket kurallarına uymanın önemiyle ilgili drama çalışması hazırlanabilir. Vatan sevgisi ile ilgili kavramları kullanarak örnek olay/kişi üzerinden sunu hazırlanabilir. Kunut duaları ve bu duaların anlamlarıyla ilgili eşleştirme etkinliği hazırlanabilir. Performans görevleri ölçütlere göre oluşturulan puanlama anahtarı ile değerlendirilir. Öğrencinin ünite süresince yaptığı ürün çıktıları bir araya getirilerek öğrenci ürün dosyası oluşturulabilir.",
+    "Sonuç değerlendirmede performans görevlerine yer verilebileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.6.3.1 Öğrencilere doğru sözlü olmanın gerekliliği hakkında sorular sorulur. Verilen cevaplar listelenir. Doğru sözlü olmayı kendi hayatına yansıtabilmeleri için dürüstlük ( D6.2 ) ve dostluk ( D4.3 ) değerleri ele alınır.Davranışlar üzerinden bu değerler arasındaki ilişki açıklanır. Bu değerlerin İslam dinindeki yeri ve önemi ayet ve hadisler ışığında açıklanır. Bu konu hakkında öğrencilerin kendi görüşlerini ifade etmelerine fırsat verilir. Öğrencilerin doğru sözlü olmanın önemini kendisinden ve çevresinden hareketle gözden geçirmesi sağlanır. Öğrencilerden doğru sözlü olmanın bireysel ve toplumsal açıdan önemine dair çıkarımda bulunmak üzere grup çalışması yürütmeleri istenir. Her bir grubun ulaştığı sonuçlar, diğer gruplar tarafından değerlendirilir. Yapılan değerlendirmede ulaşılan sonuçlar öğretmen tarafından bir araya getirilir ve öğrenciler tarafından kaydedilir. Doğru sözlü olmanın insanlar arasındaki iletişim ve etkileşime katkıda bulunduğu sonucuna ulaşılarak öğrencilerin bu konudaki duygu, düşünce ve davranışlarını değerlendirmeleri beklenir ( SDB1.3 ) . Hz. Şuayb kıssası üzerinden öğrencilerin doğruluk ve dürüstlük değerlerini ( D6.2 ) kavraması sağlanır. Kıssada yer alan hadiseler, ahlaki davranışlar kapsamında değerlendirilerek öğrencilere dürüstlük değeri kazandırılır.",
+    "DKAB.6.3.2 Öğrencilere Eğitim Bilişim Ağı'ndan (EBA) merhametli olmanın önemini anlatan dijital içerikler izletilir. Merhametli olmanın birey ve topluma yansımaları hakkında sorular sorularak öğrencilere beyin fırtınası yaptırılır. Vicdanlı ve şefkatli olmanın, insanı, doğayı ve hayvanları sevmenin merhametle bağlantısı vurgulanır ( D9.3 ) . Böylece merhamet ve sevgi ( D15.1 ) arasında ilişki kurulur. Allah'ın (cc) adil, merhametli ve affedici olması ile Hz. Muhammed'in (sav) merhametli ve affedici oluşuna ayet ve hadislerden örnekler verilir. Öğrencilerden merhametli olmanın bireysel ve toplumsal boyutlarını fark edebilecekleri bir örnek olay bulmaları, özgün bir yaklaşımla ( E3.11 ) bunu incelemeleri ve sınıfta sunmaları istenir. Öğrencilerden merhametli olmayı kendi yaşantılarında uyguladıklarına dair örnekler vermeleri istenir. Öğrencilerin merhametli olmanın önemini kendi cümleleriyle yeniden ifade edebildikleri bir afiş çalışması yapmaları sağlanır.",
+    "DKAB.6.3.3 Adap ve nezaket kurallarıyla ilgili günlük hayattan örnek olaylar incelenir. Örnek olaylardan hareketle toplumda bu kurallara neden ihtiyaç duyulduğu, nezaketli olmanın önemi ( D14.1 ) ve bu kurallara uymanın her insanın sorumluluğu olduğu ( D16.3 ) fark ettirilir. Adap ve nezaket kavramları tanımlanır. Günlük hayattan farklı örnekler verilerek bu kurallar çözümlenir. Toplumda bu kurallara uymanın neden önemli olduğuna dair beyin fırtınası yaptırılır. Öğrencilerin düşüncelerini kısa ve akılda kalıcı cümlelerle ifade etmeleri ve kaydetmeleri sağlanır. Adap ve nezaket kuralları selamlaşma adabı, iletişim ve konuşma adabı, sofra adabı olarak sınıflandırılır. Selamlaşmanın İslam dinindeki yeri, toplumsal birlik ve beraberliğe katkısı ayet ve hadislerle açıklanır. İletişim ve konuşma adabıyla ilgili olarak doğru sözlü olmak, açık ve anlaşılır ifadeler kullanmak, nazik bir üsluba sahip olmanın önemine dikkat çekilir. Sosyal medya ve internette de nezaket kurallarına uymak gerektiği ve mahremiyete dikkat etmenin önemi vurgulanır. Öğrencilere yemek yerken nelere dikkat ettikleri sorularak sofra adabıyla ilgili kurallar fark ettirilir. Sofra adabına dair Hz. Muhammed'in (sav) tavsiyelerine ve ayetlere yer verilir. Öğrencilerin selamlaşma, konuşma ve sofra adabıyla ilgili öğrendiklerinden hareketle nezaket kurallarını kendi cümleleriyle ifade edebileceği etkinlikler yapılır.",
+    "DKAB.6.3.4 Vatanını sevmenin ( D19.1 ) önemi hakkında öğrencilerin vatanımıza, milletimize, bayrağımıza ve millî marşımıza karşı görev ve sorumluluklarımız olduğunu fark etmeleri sağlanır ( OB1 ) . Vatan sevgisiyle ilişkili vatan, millet, bayrak, şehitlik ve gazilik kavramları listelenir. Bu kavramlar Kuzey Kıbrıs Türk Cumhuriyeti bağlamında da özel olarak örneklendirilir ve vurgulanır. İlgili kavramların millî birlik ve beraberliğe katkısı karşılaştırılır. Konuyla ilgili olarak Çanakkale zaferine, İstiklal savaşına, 15 Temmuz Demokrasi ve Millî Birlik Günü'ne değinilir. Edindiği bilgilerden hareketle öğrencilerin vatan sevgisinin önemi hakkında önermeler sunmaları ve bunları değerlendirmeleri sağlanır. Vatanın bağımsızlığını korumak, vatanı geliştirmek ve güzelleştirmek için neler yapılabileceği bağlamında duygularını fark etmeleri sağlanır ( SDB1.1 ) . Bu amaçla savunma sanayinde yerli firmaların millî imkanlarla geliştirdiği ürün ve projelerin araştırılmasını içeren etkinlik yaptırılabilir.",
+    "DKAB.6.3.5 Öğrencilere \"Kunut duaları hakkında neler biliyorsunuz?\" sorusu yöneltilir. Kunut kelimesinin anlamı açıklanarak Kunut dualarının içerdiği mesajlar ve nerelerde okunduğu hakkında bilgi verilir. Kunut dualarını dinlemek üzere Diyanet İşleri Başkanlığına bağlı genel ağ adresleri belirlenir. Öğrencilerin bu adresleri kullanmaları sağlanarak ( OB2 ) duaların doğru telaffuzunu öğrenmeleri için dinleme etkinliği yapılır. Öğrencilerin bu duaları kendine güvenerek ( E1.5 ) okuması için sesli okuma etkinliği yapılabilir. Duaların anlamı incelenir. Duaların anlamından çıkarılacak mesajlarla ilgili etkinlikler yapılarak dualar değerlendirilebilir. Öğrencilerin duaların anlamını kendi hayatı için anlamlı hâle getirmesi sağlanır. Öğrencilerin Kunut dualarının anlamlarını değiştirmeyecek şekilde kendi cümleleriyle yeniden ifade etmeleri için yazma etkinliği yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D15.1",
+      "D16.3",
+      "D19.1",
+      "D4.3",
+      "D6.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.5",
+      "E3.11"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/79"
+}

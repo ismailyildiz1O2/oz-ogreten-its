@@ -1,0 +1,50 @@
+{
+  "unitId": 1474,
+  "grade": 0,
+  "gradeName": "DÜŞÜNME EĞİTİMİ DERSİ DÜZEY I",
+  "subject": "Düşünme Eğitimi Dersi",
+  "title": "DÜZEY I · 3. Ünite: Veri, Malumat Ve Bilgi",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DE.1.3.1",
+      "title": "Veri-malumat-bilgi ayrımlarını yorumlayabilme",
+      "processComponents": [
+        "a) Veri-malumat-bilgi ayrımını inceler.",
+        "b) Veri ve malumatları bağlamdan kopmadan bilgiye dönüştürür.",
+        "c) Veri-malumat- bilgi ayrımını doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "DE.1.3.2",
+      "title": "Veri ve malumatların doğruluğunu tartışabilme",
+      "processComponents": [
+        "a) Veri ve malumatların doğruluğuna dair mantıksal temellendirme yapar.",
+        "b) Veri ve malumatların doğruluğunu, mantıksal çelişkilerini ve/veya tutarsızlıklarını tespit eder.",
+        "c) Veri ve malumatların doğruluğunu çürütür veya kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "açıklama, bilgi, malumat, nedensel bağ, örüntü tanıma, veri, yeterli/yetersiz veri",
+  "support": [
+    "Öğrencilere \"Sayıları sınıfta nerelerde görüyorsunuz?\" sorusu sorulabilir. Ardından \"Bu sayılardan ne anlıyorsunuz?\" ve \"Bu sayılardan yararlanarak hangi bilgilere ulaşabilirsiniz?\" soruları ile öğrencilerin veri-malumat-bilgi ayrımını somutlaştırmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere bir veri cümlesi verilerek öğrencilerin bu cümleyi önce malumat içeren cümleye, daha sonra bilgi cümlesine dönüştürmeleri istenebilir. \"Türkçe testi 5 yanlış.\" cümlesi veri, \"Türkçe testinden 5 yanlış yaptım.\" cümlesi malumat ve \"Türkçeden eksik konularıma çalışmalıyım.\" cümlesi bilgi olarak örneklendirilebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; tartışma, çalışma kâğıdı, yansıtıcı yazı, tablo hazırlama, kontrol listesi, performans görevi, gözlem formu, frayer modeli, dereceli puanlama anahtarı, grup değerlendirme formu ve öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden ünite sürecinde öğrendikleri kavramları ve açıklamalarını içeren bir broşür hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "DE.1.3.1",
+    "Öğrencilere günlük hayattan veri örnekleri verilir ve bu verilerden bir sonuç çıkarıp çıkaramayacakları sorulur ( OB1 ). Verilere ait ek bilgiler verilerek öğrencilerin bu verileri sorgulaması sağlanır. Öğrencilere veri, malumat ve bilgi farkına yönelik çalışma kâğıdı verilir. Böylece öğrencilerin veriden malumata ve bilgiye ulaşma sürecini kavramaları beklenir. Öğrencilere veri-malumat ve bilginin ne olduğuna ilişkin açıklamaların yer aldığı yapılandırılmış bir metin ve farklı alanlardan örnekler verilerek öğrencilerin veriden bilgiye nasıl ulaşıldığını incelemeleri sağlanır ( E3.1 ). Öğrencilerin gruplara ayrılmaları ve verilen örnekleri veri/malumat/bilgi olarak ayrıştırmaları beklenir ( SDB2.1 ). Ulaştıkları sonuçları sınıfta paylaşarak veri/malumat/bilgi tablosu hazırlamaları istenir. Öğrencilerden grup içinde aldığı görevleri yerine getirerek gruba katkı sağlamaları beklenir ( SDB2.2 , D1.2 , D3.4 ). Öncelikle her grubun kendi yakın çevresinden gözlem yaparak verilere ulaşabileceği bir konu belirlemesi beklenir. Öğrencilerden konuyu belirlerken millî ve manevi değerleri dikkate almaları beklenir ( D14.3 ). Gruplardan belirledikleri konuya uygun veri toplama yöntemlerini (gözlem, anket vb.) kullanarak veri toplamaları istenir ( OB1 ). Bu verileri, veri ve malumatları düzenleme tekniklerini (veri temizleme, sınıflandırma, kodlama, sıralama ve özetleme) kullanarak grafik örgütleyicilerle görselleştirmeleri ve sınıfta paylaşmaları sağlanır ( KB2.2 , E3.7 , OB4 ). Matematik dersi \"İstatistiksel Araştırma Süreci\" teması ile bağlantı kurulur. Süreç; grup değerlendirme formu, gözlem listesi veya kontrol listesi ile değerlendirilebilir. Daha fazla kaynak için \"okuldisiogrenme. eba.gov.tr\" genel ağ adresini ziyaret edebilirsiniz.",
+    "DE.1.3.2",
+    "Öğrencilere günlük hayattan örnekler verilerek bu örneklerde sunulan bilgilerin güvenilir olup olmadığı ve buna nasıl karar verdikleri sorulur ( E3.4 ). Öğrencilere “Bu bilgi, hangi verilere dayanıyor olabilir?”, “Bilgiye ulaşmada veriler yeterli midir?”, “Yetersiz verilere dayanan bilgi yanıltıcı mıdır?”, \"Bu bilgileri hangi güvenilir kaynaktan elde edebilirsiniz?\" gibi sorular yöneltilir. Toplumda yanıltıcı bilgi kullanımının olası etkileri üzerine öğrenci görüşleri alınır ( D6.2 ). Öğrencilerin yapay zekâ araçlarını kullanırken edindikleri bilgilerin doğruluğunu tek bir kaynakla yetinmeden diğer kaynaklarla karşılaştırarak sorgulamaları ve yetersiz veriye dayanan bilginin yanıltıcı olabileceği çıkarımına ulaşmaları sağlanır. Öğrencilerin bilginin verilere ve malumatlara dayandığı, bu veri ve malumatlar eksik olduğunda doğru bilgiye ulaşılamayacağı sonucuna varmaları beklenir. Öğrencilere veri ve malumatların düzenlenmesinde eksik verileri tamamlama, örüntüleri tanıma, veriler ve malumatlar arasındaki nedensel bağlar konuları ile ilgili yapılandırılmış metinler ile soru ve uygulamaların yer aldığı bir çalışma kâğıdı verilir ( OB1 ). Çalışma kâğıdındaki soru ve uygulamalarla bilgiye ulaşmada eksik veri ve malumatları tamamlamaları istenir. Örüntüyü tanıma, veriler ve malumatlar arasındaki nedensel bağları kavrama ile ilgili öğrencilerin akıl yürütmesi sağlanır ( E3.1 ). Öğrencilerden küçük gruplara ayrılarak öğretmenin verdiği eksik veri içeren senaryoları incelemeleri istenir. Öğrencilere yapılandırılmış metin verilerek öğrencilerden metindeki veri ve malumatların doğruluğunu veya çelişkilerini tespit etmeleri istenir. Daha sonra öğrencilerin veri ve malumatların doğruluğunu çürütmeleri veya kabul etmeleri sağlanır. Örüntü tanıma ve nedensel bağlar kurma kavramlarını kullanarak bu senaryoyu değerlendirmeleri beklenir ( KB2.17 , E3.1 , OB1 ). Yapılan çalışmalar sonunda grupların senaryolarındaki eksik verileri tamamlayarak senaryoyu yeniden yazmaları ve sınıfta paylaşmaları sağlanır. ( SDB2.1 , SDB2.2 ).",
+    "Bu süreç, grup değerlendirme formu veya öz değerlendirme formu ile değerlendirilir. Öğrencilerden veri ve malumatları düzenlemenin neden önemli olduğuna ilişkin kısa bir yansıtıcı yazı yazmaları istenir ( OB1 ).",
+    "Gönüllü öğrenciler yazılarını sınıfta paylaşır. Paylaşımlar sırasında öne çıkan görüşler tahtaya yazılarak öğrencilerin veri ve malumatları düzenlemede eksik verinin tamamlanmasının, örüntü tanımanın, veriler ve malumatlar arasındaki nedensel bağların bilgiye ulaşmadaki rolü ve önemi hakkında çıkarımlarda bulunmaları sağlanır ( KB2.10 ). Bu çalışma gözlem formu veya öz değerlendirme formu ile değerlendirilebilir. Ünite sonunda işlenen konularla ilgili Türk-İslam düşünürlerinin eserlerinden örnek metinler verilerek öğrenciler düşünmeye yönlendirilebilir.",
+    "Performans görevi olarak öğrencilerden ünite sürecinde öğrendikleri kavramları ve bu kavramlarla ilgili açıklamaları içeren bir broşür hazırlamaları istenebilir. Performans görevi dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1474"
+}

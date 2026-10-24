@@ -1,0 +1,43 @@
+{
+  "unitId": 81663045,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "45. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 2. ÜNİTE: TEMEL İSTATİSTİK",
+  "hours": "7",
+  "description": "Bu ünitede veri biliminde sıklıkla kullanılan istatistiksel yapılardan bahsedilir. Veri analizinde merkezi eğilim ve yayılım ölçülerinin hesaplanması konusu üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.45.1",
+      "title": "Bir seri veri yapısı oluşturur",
+      "processComponents": [
+        "Bir kütüphane (Pandas) kullanılarak seri veri yapısı oluşturulur.",
+        "Bir seri veri yapısının liste ve sözlük veri yapılarıyla olan farkı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.45.2",
+      "title": "Bir serinin ortalama, mod ve medyan değerlerini hesaplar",
+      "processComponents": [
+        "Merkezi dağılım ölçülerinden ortalama, mod ve medyan kavramları açıklanır.",
+        "Pandas kütüphanesindeki metotlar kullanılarak nümerik değerlerden oluşan bir serinin ortalama, mod ve medyan değerlerinin nasıl bulunacağı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.45.3",
+      "title": "Bir serinin merkezi eğilim ve yayılım ölçülerini hesaplar",
+      "processComponents": [
+        "Merkezi yayılım ölçülerinde standart sapma ve varyans kavramları açıklanır.",
+        "Bir serinin merkezi eğilim ve yayılım ölçüleri hesaplanarak seri hakkında çıkarım yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

@@ -1,0 +1,46 @@
+{
+  "unitId": 98038006,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "6. ÜNİTE: MÜHENDİSLİK VE TASARIM",
+  "hours": "7",
+  "description": "Bu ünitede öğrencilerin mühendislik ve tasarım ilişkisi, robotik teknoloji ve mühendislerin kullandığı tasarım süreci hakkında bilgi sahibi olmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TT.8.C.3.1",
+      "title": "Mühendislik ve tasarım ilişkisini ifade eder",
+      "processComponents": [
+        "Mühendislik alanları ile tasarım boyutu arasındaki ilişki üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.3.2",
+      "title": "Çevresindeki ürünleri mühendislik ve tasarım kavramları açısından ilişkilendirir",
+      "processComponents": []
+    },
+    {
+      "code": "TT.8.C.3.3",
+      "title": "Mühendislik tasarım sürecindeki sınırlılıkları değerlendirir",
+      "processComponents": [
+        "Tasarım sürecinde dikkate alınması gereken zaman, kültür, mekân, bütçe gibi sınırlılıklardan bahsedilir."
+      ]
+    },
+    {
+      "code": "TT.8.C.3.4",
+      "title": "Mühendislik tasarım sürecini kullanarak bir ürün tasarlar",
+      "processComponents": [
+        "İhtiyaç veya problem içeren bir senaryo verilmesi ve bu senaryodaki ihtiyaç yahut problemi, iş birliği ile belirli sınırlılıkları dikkate alarak çözen bir ürün geliştirilmesi üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Yapılı Çevre ve Ürün",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf"
+}

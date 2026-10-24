@@ -1,0 +1,36 @@
+{
+  "unitId": 81424150,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "150. ÜNİTE: TİYATRO - TİYATRO KURAMLARI",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.1.4.1",
+      "title": "Tiyatro tarihinin gelişim sürecini açıklar",
+      "processComponents": [
+        "Tiyatro tarihinin gelişim sürecinin araştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "SSA.1.4.2",
+      "title": "Tanzimat ve Birinci Meşrutiyet Dönemlerinde tiyatronun genel özelliklerini karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.4.3",
+      "title": "Cumhuriyet Dönemi Türk Tiyatro'sunun genel özelliklerini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

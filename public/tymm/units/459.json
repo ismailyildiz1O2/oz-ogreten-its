@@ -1,0 +1,100 @@
+{
+  "unitId": 459,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "3.TEMA: GEOMETRİK ŞEKİLLER",
+  "hours": "20",
+  "description": "Bu temada öğrencilerin düzlemde iki paralel doğru ve bir kesenle oluşan açıları sınıflandırabilmeleri; iki paralel doğrunun iki kesenle oluşturduğu şekillerin özelliklerine dair çıkarım yapabilmeleri; yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin özelliklerini ifade edebilmeleri, üçgen ve dörtgenlerle ilgili problemleri çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.6.3.1",
+      "title": "Düzlemde iki paralel doğru ve bir kesen ile oluşan açıları sınıflandırabilme",
+      "processComponents": [
+        "a) Düzlemde iki paralel doğru ve bir kesen ile oluşan açıları belirler.",
+        "b) Düzlemde iki paralel doğru ve bir kesen ile oluşan açıları ayrıştırır.",
+        "c) Düzlemde iki paralel doğru ve bir kesen ile oluşan açıları tasnif eder.",
+        "ç) Bu tasnife göre açıları adlandırır."
+      ]
+    },
+    {
+      "code": "MAT.6.3.2",
+      "title": "Matematiksel araç ve teknolojiden yararlanarak iki paralel doğrunun iki kesenle oluşturduğu şekillerin özelliklerine dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Düzlemde iki paralel doğrunun iki kesenle oluşturduğu şekillerin özelliklerine dair varsayımda bulunur.",
+        "b) Oluşan şekilleri çeşitli özelliklerine göre listeler.",
+        "c) Oluşan şekilleri kenar ve açı özelliklerini dikkate alarak varsayımları ile karşılaştırır.",
+        "ç) Oluşan şekillerin iç açılarının ölçüleri toplamına ve yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen, karenin ortak özelliklerine dair önermeler sunar.",
+        "d) Sunduğu önermelerin dörtgenlerin sınıflandırılmasına yönelik katkısını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.3.3",
+      "title": "Matematiksel araç ve teknolojiden yararlanarak birbirlerini ortalayan doğru parçalarını köşegen kabul eden dörtgenlere yönelik çıkarım yapabilme",
+      "processComponents": [
+        "a) Birbirlerini ortalayan doğru parçalarını köşegen kabul eden dörtgenlere yönelik varsayımlarda bulunur.",
+        "b) Birbirlerini ortalayan doğru parçalarını köşegen kabul eden dörtgenleri oluşturur ve listeler.",
+        "c) Oluşturulan dörtgenleri varsayımları ile karşılaştırır.",
+        "ç) Özelliklerine bağlı olarak birbirlerini ortalayan doğru parçalarını köşegen kabul eden dörtgenlere yönelik önermeler sunar.",
+        "d) Sunduğu önermelerin dörtgenlerin farklı yollardan tanımlanmasına yönelik katkısını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.3.4",
+      "title": "Üçgen, yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin açıları ile ilgili problemleri çözebilme",
+      "processComponents": [
+        "a) Üçgen, yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin açıları ile ilgili problemlerde matematiksel bileşenleri (şekil, açı ölçüsü, kenar uzunluğu, paralellik, diklik gibi) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemin çözümü için stratejiler geliştirir.",
+        "e) Belirlenen stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Paralel doğrular ve kesenler ile yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve kare oluşturulabilir. • Köşegen özelliklerine göre dörtgenler oluşturulabilir ve sınıflandırılabilir. Anahtar Kavramlar dış ters açılar, eşkenar dörtgen, iç ters açılar, paralelkenar, yamuk, yöndeş açılar Sembol ve Gösterimler -",
+  "support": [
+    "İki paralel doğrunun bir kesenle oluşturduğu açıların incelenmesine yönelik renkli kâğıtlar üzerinde oluşturulan eş açı modellerini kesme ve birleştirme çalışmaları yapılabilir. Ayrıca üçgenin ve dörtgenin iç açıları ölçüleri toplamını incelerken kâğıt kesme ve katlama çalışmalarından yararlanmaları sağlanabilir. Öğrencilere matematik yazılımında hazırlanan manipülatifleri kullanma fırsatı da verilebilir. Gönye ve cetvel kullanarak verilen bir doğru parçasını kenar kabul eden dikdörtgen ve kare çizmeleri istenebilir. Dörtgenlere ilişkin yaratıcı drama çalışmaları yapılabilir. Çalışmalar içerisinde, örneğin sadece dörtgenlerden meydana gelen alternatif bir dünya içerisinde her öğrencinin yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve kare arasından seçtiği bir dörtgen olduğu, birbirleriyle tanışırken sahip oldukları özellikleri açıkladıkları ve ortak özelliklerini fark ettikleri canlandırma etkinlikleri yapılabilir. Basitten karmaşığa, kolaydan zora problemler verilerek öğrencilerin kendi hızında öğrenmeleri sağlanabilir. Öğrenme uygulamaları çoklu duyuya hitap eden somut materyallerle desteklenebilir. Öğrencilerin görev paylaşımı ve karar verme süreçlerinde ön yargısız olmalarını ve yeteneklerine uygun görevler almalarını destekleyen, adil ve iş birlikli bir öğrenme ortamı oluşturulabilir"
+  ],
+  "enrichment": [
+    "Öğrencilerin, geometrik şekiller üzerine tarih boyunca çalışmalar yapan matematikçilerin (Öklid, Arşimet, Fârâbî, Ebü'l-Vefâ el-Bûzcânî gibi) çalışmalarını dijital ortamda uygun veri kaynaklarını kullanarak araştırmaları, ardından elde edilen dijital bilgiyi telif haklarına dikkat ederek raporlaştırmaları istenebilir. İki paralel doğrunun bir kesenle oluşturduğu açıların özelliklerini dikkate alarak, verilen herhangi iki doğrunun paralel olup olmadığını cetvel ve açıölçer yardımıyla yaptıkları çizimler ve ölçümlerden hareketle gerekçelendirmeleri istenebilir. Düzlemde verilen iki kesişen doğru üzerinde pergel yardımıyla çalışarak dikdörtgenin ve paralelkenarın köşegenlerini, ardından özel olarak iki dik doğru üzerinde pergel yardımıyla çalışarak karenin ve eşkenar dörtgenin köşegenlerini inşa etmeleri istenebilir. Pergel ve ölçüsüz cetvel kullanarak verilen bir doğru parçasını kenar kabul eden eşkenar dörtgen inşa etmeleri istenebilir. Ayrıca yine pergel ve ölçüsüz cetvel kullanarak verilen bir doğru parçası köşegenlerden biri olacak biçimde eşkenar dörtgen inşa etmeleri sağlanabilir. Gönye ve pergel kullanarak bir doğru parçasını kenar kabul eden kare oluşturmaları; açıölçer ve cetvel kullanarak bir doğru parçasını kenar kabul eden yamuk ve paralelkenar çizmeleri beklenebilir. Dörtgenlerde ardışık kenarların orta noktalarının birleştirilmesiyle oluşturulan dörtgenlerin özelliklerini incelemeleri ve söz konusu çizimler eşkenar dörtgen, dikdörtgen ve karenin kenarlarının orta noktalarından yapıldığında hangi dörtgenlerin meydana geldiğini belirlemeleri istenebilir. Süreçte öğrencilerin matematik yazılımından yararlanmaları sağlanabilir.",
+    "Öğrencilere dörtgenlerin ve üçgenlerin açılarına yönelik birden fazla çözümü olan problemler verilerek öğrencilerin farklı çözüm yolları geliştirmeleri istenebilir. Böylece yaratıcılıkları ve matematiksel düşünme süreçleri desteklenebilir. Çeşitli şehirlerin kültürel ögelerinden (Türkiye'deki tarihî mekânlardaki ve mozaik müzelerindeki eserlerin incelenmesi) esinlenerek özgün geometrik mozaik tasarımlar oluşturmaları istenebilir. Oluşturdukları tasarımları sınıf ortamında sunmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kağıdı, performans görevi, zihin haritası ve izleme testi ile değerlendirilebilir. Öğrencilere grup çalışması ile yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve kareyi kullanarak yakın çevrelerinden belli şekiller oluşturmalarını (uçurtma yapma gibi) gerektiren performans görevi verilebilir. Bu performans görevi yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin kenar, açı ve köşegen özelliklerine bağlı olarak belirlenen kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Grup çalışması sonunda öz, akran ve grup değerlendirme formları kullanılabilir. Performans ürünleri, çalışma kâğıtları ve zihin haritası sonuç değerlendirme için kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.6.3.1 Öğrencilerin matematiksel araç ve teknoloji yardımıyla kareli düzlemde iki paralel doğru ve bir kesen oluşturmaları sağlanarak meydana gelen açıları belirlemeleri istenir. Belirledikleri açıların özelliklerini (eş açılar, bütünler açılar gibi) açıölçer yardımıyla ölçme yaparak ayrıştırmaları sağlanır. Bu süreçte öğrencilere matematik yazılımındaki açı ölçme aracını kullanma olanağı da verilebilir ( MAB5 , OB2 ) . Öğrencilerin iki paralel doğru ve bir kesenin oluşturduğu açıları çeşitli özelliklerine göre (aynı yöne bakan açılar, iç bölgedeki açılar, iç bölgedeki ters yöne bakan açılar gibi) gruplandırmaları ve adlandırmaları beklenir. Gruplara dâhil olan açıların ilişkisini (eş olanlar, bütünler olanlar gibi) tartışmalarına fırsat verilir. İki doğru ve bir kesenle oluşan yöndeş açılar, iç ters açılar ve dış ters açılar tanıtılır. Öğrencilerin iki paralel doğru ve bir kesenle oluşan yöndeş, iç ters ve dış ters açı çiftlerinin eş açılar olduğunu ifade etmeleri sağlanır. Öğrencilere, verilen iki doğrunun paralel olup olmadığını nasıl belirleyebilecekleri sorulur. Öğrencilere, iki paralel doğru ve bir kesen ile oluşan açıların sınıflandırılmasına yönelik çalışma kağıdı uygulanabilir. Çalışma kâğıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.6.3.2 Öğrencilere iki paralel doğru ve iki kesenin hangi şekilleri oluşturabileceği sorularak varsayımlarda bulunmaları sağlanır. Öğrencilerin tüm durumları görebilmeleri için varsayımlarını sistematik bir yol izleyerek (kesenlerin kesişip kesişmediği durumlar, kesenlerin kesiştikleri bölgelere göre durumları gibi başlıklar altında) gözden geçirmeleri beklenir ( E3.7 ) .",
+    "Öğrencilerin matematiksel araç ve teknoloji yardımıyla (cetvel, gönye, geometri tahtası, asetat kağıtları, matematik yazılımı gibi) paralel doğruların iki kesenle oluşturduğu farklı şekilleri çizerek belirlemeleri sağlanır. Oluşturabilecekleri şekiller gözlem formu aracılığıyla değerlendirilir. Bu gözlem formu kullanılarak öğrencilere geri bildirim verilebilir. Öğrencilerin iki paralel doğrunun iki kesenle oluşturduğu şekilleri varsayımları ile karşılaştırmaları beklenir. İki kesenin, paralel doğruların arasında kesiştiği durumda ortaya çıkan üçgenlerin iç açıları arasındaki ilişkinin açıklanması sağlanır. İki kesenin, paralel doğrulardan biri üzerinde kesiştiği durumda meydana gelen üçgen ve açılardan hareketle öğrencilerin üçgenin iç açılarına eş olan açıları şekil üzerinde belirlemeleri ve bu açıların birleşimiyle doğru açı oluştuğuna dair önerme sunmaları beklenir. Böylece öğrencilerin üçgende iç açıların ölçüleri toplamının 180° olduğunu doğrulamalarına fırsat verilir. Ayrıca üçgende bir dış açının kendisine komşu olmayan iki iç açı ile ilişkisine dair önerme sunmaları için uygun öğrenme ortamı oluşturulur. Öğrencilerin üçgende dış açıların ölçüleri toplamını sorgulamaları ve dış açıların ölçüleri toplamının 360° olduğunu fark etmeleri sağlanır. Süreçte öğrencilerin açıölçerden, matematik yazılımındaki açı ölçme aracından veya kâğıt kesme çalışmalarından yararlanmaları için uygun öğrenme ortamı oluşturulabilir. Öğrencilerin, iki paralel doğru ve iki kesenin oluşturduğu dörtgenlerin açı ve kenar özelliklerini incelemeleri istenir. Oluşan dörtgenlerin özellikleri öğrencilerle tartışılarak tanımları yapılır. Tanımlanan dörtgenlerin ortak özelliklerine dair önermeler (yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin tümünde paralel bir kenar çiftinin bulunması, ardışık ve bütünler iç açı çiftinin bulunması, iç açılarının ölçüleri toplamının 360° olması, dış açılarının ölçülerinin toplamının 360° olması gibi) sunmaları beklenir. Öğrencilerin iki paralel doğru ve iki kesenin oluşturduğu dörtgenlerin ortak özelliklerinin (eşkenar dörtgenin paralelkenarın tanımında kullanılan özellikleri içermesi, dikdörtgenin paralelkenarın tanımında kullanılan özellikleri içermesi gibi) dörtgenlerin sınıflandırılmasına katkı sağlayabileceğini fark etmeleri sağlanır. Ayrıca öğrencilerin üçgenin iç açılarının ölçüleri toplamına ilişkin edindikleri bilginin diğer çokgenlerin iç açılarının ölçüleri toplamının incelenmesine nasıl katkı sağlayacağını değerlendirmeleri istenir. Üçgen, yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin dış açılarının ölçülerinin toplamının 360˚ olduğunu göz önüne alarak bu özelliğin diğer çokgenlerin dış açılarının ölçüleri toplamı için de geçerli olup olmadığını sorgulamalarına ve matematiksel araç yardımıyla incelemelerine fırsat verilir. Yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin özelliklerini dikkate alarak aralarındaki ilişkileri belirlemeye yönelik zihin haritası hazırlamaları istenebilir. Hazırlanan zihin haritaları dörtgenlerin ortak özelliklerine göre belirlenen kriterleri içeren kontrol listesi veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin yasaklı kelimeler (paralel, dik veya eşit uzunluk gibi) kullanılmadan anlatıldığı ve açıklanan özellikler üzerinden dörtgenlerin tahmin edildiği oyunlar oynanabilir ( E2.5 ) . Ölçme değerlendirme sürecinde öğrencilerden origami çalışmaları yapmaları istenerek katlama sonucu oluşan üçgen ve dörtgenlerin özelliklerini sınıfta sunmaları istenebilir ( SDB2.1 ) . Bu çalışma anlama, içerik, planlama, doğruluk, sunu yapma gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı ile değerlendirilebilir. Yürütülen çalışma ile öğrencilerde görev bilincinin oluşması desteklenir. Öğrenciler konudaki kavramlara ve kavramlar arasındaki ilişkilere yönelik öğrenme süreçleri içerisinde öz düzenleme yaparak sorumluluk değerini kazanmaları beklenir ( SDB1.2 , D16.3 ) . Ayrıca öğrencilere grup çalışması kapsamında üçgen ve dörtgenleri kullanarak bir uçurtma hazırlamaya yönelik performans görevi verilebilir. Böylece performans görevi, teknoloji ve tasarım dersi ile ilişkilendirilir. Performans görevi dörtgenlerin kenar, açı ve köşegen özelliklerine bağlı olarak belirlenen kriterleri içeren bütüncül veya analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Grup çalışmalarında öğrencilerin birbirlerini etkili bir şekilde dinleyerek duygu ve düşüncelerini karşılıklı saygı ve anlayış içinde paylaşmaları beklenir. Bu çalışmalar esnasında öğrencilerin dostluk değerini kazanmaları desteklenir ( D4.2 ) .",
+    "MAT.6.3.3 Öğrencilerin birbirini ortalayan doğru parçalarını köşegen kabul eden dörtgenlere yönelik varsayımda bulunmaları istenir. Öğrencilerden, birbirini ortalayan doğru parçalarını matematiksel araç ve teknoloji yardımıyla (cetvel, gönye, açıölçer, geometri şeritleri, geometri tahtası, asetat kağıtları, matematik yazılımı gibi) oluşturmaları beklenir. Oluşturdukları doğru parçalarını köşegen kabul eden dörtgenlerin özelliklerine ilişkin tartışma ortamı oluşturulur. Öğrencilerden dörtgenleri, köşegen özelliklerini (\"Köşegenler birbirine diktir, eşit uzunluktadır, birbirini iki eş parçaya ayırır.\" gibi) dikkate alarak listelemeleri beklenir. Öğrencilerin listelenen dörtgenlerin kenar uzunluklarını ve iç açılarının ölçülerini cetvel ve açıölçer (veya matematik yazılımındaki uzunluk ve açı ölçme araçları ( OB2 ) yardımıyla belirleyerek bu dörtgenleri varsayımları ile karşılaştırmaları sağlanır. Öğrencilerin karşılaştırmalar sonucunda köşegenlerin özelliklerine göre (birbirini dik ortalaması, eşit uzunlukta olması gibi) ortaya çıkan dörtgenlere dair önermeler (\"Birbirini ortalayan eşit uzunluktaki doğru parçaları dikdörtgenin köşegenlerini meydana getirir, birbirini dik ortalayan doğru parçaları eşkenar dörtgenin köşegenlerini meydana getirir.\" gibi) sunmaları sağlanır. Paralelkenar, dikdörtgen, eşkenar dörtgen ve kareye yönelik alternatif tanım yapma çalışmalarına girmeksizin öğrencilerin bu dörtgenlerin kenar ve açı özellikleri haricinde köşegen özellikleri yardımıyla da tanımlanabileceğine dair gerekçeler sunmaları beklenir ( SDB3.3 ) . Dörtgenlerde köşegen özelliklerinin incelenmesiyle birlikte, öğrencilerin seçtikleri bir dörtgeni yine yasaklı kelimeleri kullanmadan anlattıkları ve arkadaşlarının da açıklanan özellikler üzerinden söz konusu dörtgeni tahmin ettiği oyunlar oynanabilir ( E2.5 ) . Ölçme değerlendirme sürecinde öğrencilere, birbirini ortalayan doğru parçalarını köşegen kabul eden dörtgenlere yönelik çalışma kağıdı uygulanabilir. Çalışma kâğıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.6.3.4 Öğrencilerin üçgen ve dörtgenlerin açıları ile ilgili günlük hayatla ilişkili problemlerin çözümünde problemle ilgili matematiksel bileşenleri (şekil, açı ölçüsü, kenar uzunluğu, paralellik, diklik gibi) belirlemeleri istenir. Bu süreçte öğrencilerin problemden ne tür bilgiler elde edeceklerini belirlemeleri, olaylara ve ilişkilere yönelik basit şekil ya da diyagram çizmeleri istenerek problemi anlamaları sağlanır. Ardından öğrencilerin matematiksel bileşenler arasındaki ilişkileri belirleyip problem bağlamındaki temsillerini farklı temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları istenir. Öğrencilerden problemlerin çözümü için stratejiler geliştirmeleri, seçtikleri stratejileri kullanarak problemi çözmeleri istenir. Çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaları sağlanır. Problem çözümlerinin ardından öğrenciler çözüm yollarını kontrol etmeleri için yönlendirilir. Öğrencilerin stratejilerini ve buldukları yolları gözden geçirmeleri, kısa yollara ilişkin çıkarım ve değerlendirmeler yapmaları sağlanır. Öğrencilerden çözüm sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapabilmeleri, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Kurdukları problem bağlamlarına yönelik yansıtmalar yapılır ( SDB3.3 ) . Üçgen ve dörtgenlerin açıları ile ilgili günlük hayat durumlarına yönelik problem durumlarını içeren izleme testi hazırlanabilir. İzleme testi değerlendirilerek öğrencilere dönüt verilebilir. Ayrıca öğrencilerden grup çalışması ile dijital öyküler oluşturmaları, bu öykülere paralel olarak problem kurmaları ve kurdukları problemleri çözmeleri istenebilir ( OB2 ) . Bu görev dijital öykü oluşturma, problem kurma ve problem çözme süreçlerini içeren bir kontrol listesi ile değerlendirilebilir. Görsel sanatlar dersi ile ilişkilendirilen bu çalışma kapsamında öğrencilerin etkili bir yol haritası oluşturarak görev ve sorumluluklarını yerine getirmeleri beklenir. Böylece öğrencilerin planlama ve organizasyon becerilerini geliştirmelerine fırsat verilerek çalışkanlık değerini kazanmaları desteklenir ( D3.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D3.2",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/459"
+}

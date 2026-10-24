@@ -1,0 +1,78 @@
+{
+  "unitId": 81663001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "1. ÜNİTE: PROGRAMLAMAYA GİRİŞ VE ALGORİTMA - 1. ÜNİTE: BİLİŞİM TEKNOLOJİLERİNİN PROGRAMLAMADAKİ YERİ",
+  "hours": "8",
+  "description": "Bilişim teknolojileri, programlama dünyasının temel yapılarından biridir. Programlama, bilgisayarlar ve diğer dijital cihazlar tarafından anlaşılabilir komutlar dizisi olarak yazılır ve bu komutlar, bilişim teknolojileri kullanılarak işlenir. Bilişim teknolojileri yazılım geliştirme, veri tabanı yönetimi, ağ iletişimi, web uygulamaları, mobil uygulamalar gibi birçok alanda kullanılır. Bilişim teknolojileri, programlamayı kolaylaştırır ve program geliştiricilere entegre geliştirme ortamları (IDE'ler), veri tabanları ve diğer yazılım geliştirme araçları gibi güçlü araçlar sunar. Bilgi işleme, depolama ve iletişim konularında da programlara destek sağlar.",
+  "outcomes": [
+    {
+      "code": "BTY.1.1",
+      "title": "Bilişim teknolojilerine ilişkin temel kavramları tanımlar",
+      "processComponents": [
+        "Bilgi, teknoloji ve iletişim kavramlarının açıklaması yapılır."
+      ]
+    },
+    {
+      "code": "BTY.1.2",
+      "title": "Bilişim teknolojisi araçlarını listeler",
+      "processComponents": [
+        "Ülkemizde teknolojik alanda kullanılan araçlar örneklendirilir. Örneğin Türk uzay yolcusu ve bilim misyonu gibi bilimsel projeler tanıtılır.",
+        "Bu araçların insanların hayatlarını kolaylaştırmak ve ihtiyaçlarını gidermek için kullanıldığı, kullanım alanlarının esnek olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.1.3",
+      "title": "Bilişim teknolojileri cihazlarının gelişimini açıklar",
+      "processComponents": [
+        "Ülkemizde yaygın olarak kullanılan bilişim teknolojisi cihazlarının (bilgisayar, telefon, tablet, hesap makinesi, vb.) tarihsel gelişimi ile ilgili bilgilendirme yapılır. Örneğin günümüzde üretilen yerli otomobilin mekanik sistem araçlarından bahsedilir.",
+        "Gelecekte ne gibi gelişmeler olabileceği hakkında fikir yürütülür.",
+        "Bilişim cihazlarının gelişimini takip etmenin kendi geleceği ve meslek hayatı için sorumluluğu olduğunu bilir."
+      ]
+    },
+    {
+      "code": "BTY.1.4",
+      "title": "Bilişim teknolojilerinin gelişiminde önemli rol oynayan keşifler, buluşlar, olaylar ve dönüm noktalarını tartışır",
+      "processComponents": [
+        "Bilişim teknolojisi araçlarının keşfinden günümüze olan gelişimi örneklendirilir. Tarihte Cezeri'nin şifreli kilit sisteminin, günümüz kriptoloji biliminin temelini oluşturduğu açıklanır.",
+        "Teknolojik araçların gelişimine yön veren kişiler ve bu araçların insanlık tarihinde yarattığı dönüm noktaları tartışılır. Telefonun icat edilmesiyle birlikte iletişim araçlarındaki değişimin, zamanla mobil uygulama geliştirme gerekliliğini ortaya çıkardığından bahsedilir ."
+      ]
+    },
+    {
+      "code": "BTY.1.5",
+      "title": "Bilişim teknolojilerinin kullanım alanlarını açıklar",
+      "processComponents": [
+        "Bilişim teknolojilerinin günümüzde kendine birçok alanda yer bulduğundan bahsedilir. Kullanım alanlarına dair tahmin yürütülmesi istenir.",
+        "Bilişim teknolojilerinin eğitim, sağlık, iletişim, güvenlik, ulaşım gibi birçok alanda kullanıldığı anlatılır ve tüm bu alanlara örnekler verilerek konu pekiştirilir."
+      ]
+    },
+    {
+      "code": "BTY.1.6",
+      "title": "Bilişim teknolojilerinin olumlu ve olumsuz yönlerini tartışır",
+      "processComponents": [
+        "Teknolojik gelişmelerin olumlu yönleri olduğu kadar olumsuz yönlerinin de olabileceği vurgusu yapılır. Olumlu ve olumsuz yönlerin neler olabileceği tartışılır.",
+        "Olumlu ve olumsuz yönlere örnekler verilerek konu kavratılır.",
+        "Gelecekte olumsuz sonuçlar doğurabilecek teknolojilerin varlığı tartışılır."
+      ]
+    },
+    {
+      "code": "BTY.1.7",
+      "title": "Teknolojik gelişmeleri takip etmenin öneminin farkına varır",
+      "processComponents": [
+        "Teknolojinin sürekli gelişen ve yenilenen bir kavram olduğu vurgulanır. Bu yenilikleri takip etmenin ülkesi için önemini kavrar.",
+        "Teknolojik yenilikleri takip eden bir birey olmasının ülkesine karşı sorumluluklarından biri olduğunu bilir.",
+        "Öğrenciler bilişim teknolojileri alanındaki son gelişmelere yönelik (yapay zekâ vb.) araştırma yapmaya yönlendirilir.",
+        "Gelişmeleri takip edebilmek, alanda güncel kalabilmek için yaşam boyu öğrenme kavramından bahsedilir, yaşam boyu öğrenmenin önemi vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

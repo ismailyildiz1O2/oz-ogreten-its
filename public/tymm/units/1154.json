@@ -1,0 +1,49 @@
+{
+  "unitId": 1154,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "1. TEMA: GİTARDA SAĞ EL (APOYANDO) TEKNİĞİ",
+  "hours": "22",
+  "description": "Temada öğrencilerin sağ el tekniğinin geliştirilmesi, metronom kullanımının faydaları, genel çalma tekniğinde koordinasyon gibi kavramları öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.3.1.1",
+      "title": "Sağ el (apoyando) tekniğini tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "apoyando, metronom, sağ el",
+  "support": [
+    "Öğrencilere akıllı tahtada yavaşlatılmış apoyando vuruşları içeren videolar gösterilebilir. Öğrencilerin parmak hareketlerini net bir şekilde görebileceği animasyonlar veya resimli anlatımlar kullanılabilir."
+  ],
+  "enrichment": [
+    "Apoyando tekniğinin kullanıldığı farklı müzik türlerinden örnekler dinletilebilir (klasik, flamenko, pop vb.). Öğrencilerin sağ ve sol el koordinasyonunu geliştirmek için ritmik oyunlar oynatılabilir. Örneğin sağ elle dizlere vururken sol elle karınlarına vurma oyunu gibi etkinlikler hem eğlenceli hem de öğretici olabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kağıtları, gözlem formu, kontrol listesi ile değerlendirilebilir. Performans görevi olarak öğrencilerin apoyando tekniğine uygun duruş ve tutuş tekniklerini uygulamaları, boş tel egzersizlerini metronom eşliğinde doğru teknikle çalmaları ve grup içinde diğer arkadaşlarının hareketlerini gözlemleyerek geri bildirimlerde bulunmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.3.1.1",
+    "Öğretmen derse görsel materyallerle başlar ( OB4 ). Gitar çalma pozisyonu, sağ-sol elin teller ve klavyeye yerleştirilmesi, doğru duruş ve oturuş şekline dair öğrencilerden gözlem yapmaları istenir ( KB2.2 , SDB2.1 ). Ardından öğrenciler öğretmene sorular sorarak doğru bilgilere ulaşır ( E3.8 ). Öğretmen, gitarın nasıl tutulması gerektiğini adım adım gösterir ve öğrencilerin bu duruşu tekrar etmelerini sağlar. Öğrencilerden sağ ve sol ellerinin tellere ve klavyeye yerleştirmeleri doğru duruş ve tutuş pozisyonunu sabırla tekrarlamaları istenir ( D12.3 ). Öğretmen, apoyando tekniğinde sağ elin parmaklarının nasıl hareket ettiğini gösterir; örneğin parmak tellere vurduktan sonra bir üst tele yaslanmalı ve güçlü net bir ses çıkarmalıdır. Öğrenciler, başta işaret (i) ve orta (m) parmaklarını kullanarak açık teller üzerinde bu vuruşu gerçekleştirir. Yapılan tekrar sonrasında öğrencilerden doğru duruş ve tutuşu göstermeleri ve ellerini yerleştirmeleri beklenir ( E3.7 ). Öğretmen performans görevi olarak öğrencilerin apoyando tekniğine uygun duruş ve tutuş tekniklerini uygulamaları, boş tel egzersizlerini metronom eşliğinde doğru teknikle çalmaları ve grup içinde diğer arkadaşlarının hareketlerini gözlemleyerek geri bildirimlerde bulunmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1154"
+}

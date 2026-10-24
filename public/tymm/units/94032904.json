@@ -1,0 +1,55 @@
+{
+  "unitId": 94032904,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "4. ÖĞRENME ALANI: DOĞAL SAYILARLA ÇARPMA İŞLEMİ",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.4.1.4.1",
+      "title": "Üç basamaklı doğal sayılarla iki basamaklı doğal sayıları çarpar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.4.2",
+      "title": "Üç doğal sayı ile yapılan çarpma işleminde sayıların birbirleriyle çarpılma sırasının değişmesinin, sonucu değiştirmediğini gösterir",
+      "processComponents": [
+        "İşlemlerde parantez işareti bulunan örneklere de yer verilir."
+      ]
+    },
+    {
+      "code": "M.4.1.4.3",
+      "title": "En çok üç basamaklı doğal sayıları 10, 100 ve 1000’in en çok dokuz katı olan doğal sayılarla; en çok iki basamaklı doğal sayıları 5, 25 ve 50 ile kısa yoldan çarpar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.4.4",
+      "title": "En çok üç basamaklı doğal sayıları 10, 100 ve 1000 ile zihinden çarpar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.4.5",
+      "title": "En çok iki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayının çarpımını tahmin eder ve tahminini işlem sonucu ile karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.4.6",
+      "title": "Doğal sayılarla çarpma işlemini gerektiren problemleri çözer",
+      "processComponents": [
+        "En çok üç işlemli problemlerle çalışılır.",
+        "Problem kurmaya yönelik çalışmalara da yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sayılar ve İşlemler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

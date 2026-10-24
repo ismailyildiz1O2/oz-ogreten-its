@@ -1,0 +1,54 @@
+{
+  "unitId": 81424086,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "86. ÜNİTE: TAR - TAR HAKKINDA GENEL BİLGİLER",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.12.1.1",
+      "title": "Tarın tarihî gelişimini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.1.2",
+      "title": "Tarın yapısını ve bölümlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.1.3",
+      "title": "Tarın tellerinin akort edildiği sesleri ve tellerin aldığı isimleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.1.4",
+      "title": "Tar icrasında doğru tutuş ve duruş pozisyonunu açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.1.5",
+      "title": "Tar tutuş pozisyonunda sağ kol ve sağ elin konumunu gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.1.6",
+      "title": "Boş teller üzerinde üst–alt mızrap vuruşlarını çalgısında uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.1.7",
+      "title": "Tartımlar üzerinde gösterilen mızrap vuruşlarını çalgısında boş teller üzerinde uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

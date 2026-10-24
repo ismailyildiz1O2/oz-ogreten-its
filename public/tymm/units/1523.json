@@ -1,0 +1,39 @@
+{
+  "unitId": 1523,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY I · 2. Tema: Dijital Sanat Ve Etik",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.1.2.1",
+      "title": "Dijital ortamdaki etik davranışlara ilişkin kavramları sorgulayabilme",
+      "processComponents": [
+        "a) Dijital ortamda etik davranış ve özgünlükle ilgili merak ettiklerini tanımlar.",
+        "b) Etik ilkelere uygun dijital içerikler hakkında sorular sorar.",
+        "c) Etik ilkelere uygun dijital içeriklere nasıl erişeceğine ilişkin bilgi toplar.",
+        "ç) Edindiği bilgilerin doğruluğunu değerlendirir.",
+        "d) Etik davranışların dijital içerik üretimine etkisi hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DS.1.2.2",
+      "title": "Dijital görsellerde özgünlük ve kopya içerikleri sanatsal ögeler üzerinden karşılaştırabilme",
+      "processComponents": [
+        "a) Dijital içeriklerde yer alan görsel bileşenlerdeki benzerlikleri belirler.",
+        "b) Dijital içeriklerde yer alan görsel bileşenlerdeki farklılıkları belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "etik, dijital ayak izi, dijital mahremiyet, dijital zorbalık, özgünlük, telif, yapay zekâ",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB1. Sanatsal Algılama (SAB1.2. Sanatsal Karşılaştırma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1523"
+}

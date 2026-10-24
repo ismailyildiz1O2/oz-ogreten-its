@@ -1,0 +1,51 @@
+{
+  "unitId": 1226,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "2. TEMA: NEYDE ÜÇÜNCÜ KADEME SES ALANINDA ARA SESLER",
+  "hours": "17",
+  "description": "Temanın içeriğini neyde üçüncü kademe ses alanında yer alan ara sesleri eviç ve nim şehnaz seslerini çalabilme oluşturmaktadır. Bu doğrultuda neyde üçüncü kademe ses alanında yer alan ara sesleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.6.2.1",
+      "title": ". Eviç ve nim şehnaz notalarını çalabilme",
+      "processComponents": [
+        "a) Eviç ve nim şehnaz notalarını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ara sesler, ney, nota, ritim, süre",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom aleti ile yavaşlatılarak çalınabil"
+  ],
+  "enrichment": [
+    "Etütlerin yanı sıra neyde üçüncü kademede öğrendiği notalardan oluşan basit usullü Türk müziği eserlerine yer verilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak neyde birinci kademe ses alanında yer alan eviç ve nim şehnaz seslerinin geçtiği Türk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.6.2.1",
+    "Öğretmen tarafından neyde eviç ve nim şehnaz sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Neyde eviç ve nim şehnaz notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak öğrencilere gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde üçüncü kademede yer alan eviç ve nim şehnaz notalarını çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Üçüncü kademede yer alan eviç ve nim şehnaz notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır. Öğrencilerin gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar, gözlem formu veya analitik dereceli puanlama anahtarı ile değerlendirilebilir. Süreç sonunda performans görevi olarak neyde üçüncü kademe ses alanında yer alan eviç ve nim şehnaz seslerinin geçtiği Türk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1226"
+}

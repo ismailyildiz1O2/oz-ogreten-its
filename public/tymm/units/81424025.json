@@ -1,0 +1,59 @@
+{
+  "unitId": 81424025,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "25. ÜNİTE: FLÜT - FLÜT MÜZİĞİNDE DÖNEMLER",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.3.10.1",
+      "title": "Barok Dönemi açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.2",
+      "title": "Barok Dönem ile ilgili çok sesli ya da solo eserler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.3",
+      "title": "Klasik Dönemi açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.4",
+      "title": "Klasik Dönem ile ilgili çok sesli ya da solo eserler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.5",
+      "title": "Romantik Dönemi açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.6",
+      "title": "Romantik Dönem ile ilgili çok sesli ya da solo eserler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.7",
+      "title": "Çağdaş Dönemi açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.10.8",
+      "title": "Çağdaş Dönem ile ilgili çok sesli ya da solo eserler çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,63 @@
+{
+  "unitId": 1603,
+  "grade": 0,
+  "gradeName": "2. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY II · 2. Ünite: Duyu, Uyum Ve Güven",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.2.2.1",
+      "title": ". Drama sürecinde duyularını etkin biçimde kullanarak hareketi sergileyebilme",
+      "processComponents": [
+        "a) Duyularını etkin kullanacağı hareket becerilerini algılar.",
+        "b) Drama etkinliklerinde duyularını etkin kullanarak hareket becerilerini gösterir.",
+        "c) Duyulara dayalı hareket becerilerini drama etkinliklerinde uygular."
+      ]
+    },
+    {
+      "code": "OOED.2.2.2",
+      "title": "Drama sürecinde eşle veya grupla uyumlu hareket edebilme",
+      "processComponents": [
+        "a) Drama etkinliklerinde eşle veya grupla hareket ederken rollerini tanımlar.",
+        "b) Grup içi görev paylaşımına uygun şekilde tanımlanan rolünü yerine getirir.",
+        "c) Eşle veya grupla uyumlu hareket eder."
+      ]
+    },
+    {
+      "code": "OOED.2.2.3",
+      "title": ". Drama sürecinde eşle veya grupla güven ile hareket edebilme",
+      "processComponents": [
+        "a) Drama etkinliklerinde eşle veya grupla hareket ederken rollerini tanımlar.",
+        "b) Grup içi görev paylaşımına uygun şekilde tanımlanan rolünü yerine getirir.",
+        "c) Eşle veya grupla güven ile hareket eder."
+      ]
+    },
+    {
+      "code": "OOED.2.2.4",
+      "title": "Güveni etkileyen faktörleri drama yoluyla çözümleyebilme",
+      "processComponents": [
+        "a) Drama çalışmalarıyla güveni etkileyen faktörleri belirler."
+      ]
+    },
+    {
+      "code": "OOED.2.2.5",
+      "title": ". Drama etkinliklerinde ritmik hareket edebilme",
+      "processComponents": [
+        "a) Müziğe ve ritme uygun devinimler geliştirerek müzik ve ritimle uyumunu algılar.",
+        "b) Ritimli etkinliklerde bedeniyle doğaçlamalar yaparak hareket eder.",
+        "c) Doğaçlamalarda ritimden yararlanarak hareket becerisini sergiler."
+      ]
+    }
+  ],
+  "keyConcepts": "doğaçlama, drama, duyu, grup, güven, hareket, müzik, ritim, ritmik hareket, rol, uyum",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB1. Hareketi Sergileme, BEOSAB5. Ritmik Hareket Etme, BEOSAB7. Eşle/Grupla Hareket Etme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1603"
+}

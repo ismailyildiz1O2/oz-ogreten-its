@@ -1,0 +1,42 @@
+{
+  "unitId": 81357004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Metin Tahlilleri Dersi",
+  "title": "4. ÜNİTE: METİN TAHLİLLERİ II - BİLGİLENDİRİCİ (ÖĞRETİCİ) METİNLERİN TAHLİLİ",
+  "hours": "36",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTT.II.2.1",
+      "title": "Bilgilendirici metinleri analiz eder",
+      "processComponents": [
+        "Bilgilendirici (öğretici) metinlerin içerik, yapı, dil ve üslup özelliklerinin metin tahliline katkısına değinilir.",
+        "Bilgilendirici (öğretici) metin örnekleri (makale, deneme, fıkra, eleştiri, sohbet) arasında fen bilimleri ve sosyal bilimler gibi farklı alanlardan örneklerle de uygulamalar yaptırılır.",
+        "Metin tahlili aşamalarındaki öğrenme çıktıları, metnin tür özelliklerine göre uygulatılır.",
+        "Kaynak gösterme, kaynakça hazırlama, dipnot verme gibi unsurlara yönelik uygulamalar yaptırılır."
+      ]
+    },
+    {
+      "code": "MTT.II.2.2",
+      "title": "Bilgilendirici metinleri değerlendirir",
+      "processComponents": [
+        "Metin tahlili aşamalarından eleştiri-yorum basamağı işe koşulur.",
+        "Metinlerin değerlendirilmesinde ifade etme becerilerinin geliştirilmesi için yazma ve konuşma uygulamaları yaptırılır."
+      ]
+    },
+    {
+      "code": "MTT.II.2.3",
+      "title": "Bilgilendirici metinlerin özelliklerinin metin tahliline etkisini değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249558132-metintahlilleri.pdf"
+}

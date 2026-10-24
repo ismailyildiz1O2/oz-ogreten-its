@@ -1,0 +1,61 @@
+{
+  "unitId": 81424113,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "113. ÜNİTE: HÜSNÜHAT - HAT SANATINDA YAZI ÇEŞİTLERİ",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.1.2.1",
+      "title": "Yazı çeşitlerini ayırt edici özellikleriyle karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.2.2",
+      "title": "Yazı çeşitlerinin kullanıldıkları yerlere örnekler verir",
+      "processComponents": [
+        "Tüm yazı çeşitleri ile ilgili örnek eserlere yer verilir."
+      ]
+    },
+    {
+      "code": "GTSA.1.2.3",
+      "title": "Bir hat eseri gördüğünde yazısının türünü ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.2.4",
+      "title": "Sülüs yazısının istifli levhalar yazmaya uygun bir yazı olduğunu ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.2.5",
+      "title": "Nesih hattının gelişim dönemlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.2.6",
+      "title": "Nesih hattının Mushaf yazımında kullanım sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.2.7",
+      "title": "Rik'a yazısının ortaya çıkışı ve gelişim süreci hakkında çıkarımda bulunur",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.1.2.8",
+      "title": "Rik'a yazısının talimiyle Osmanlı Türkçesi eserleri yazar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

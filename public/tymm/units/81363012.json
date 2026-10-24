@@ -1,0 +1,83 @@
+{
+  "unitId": 81363012,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "12. ÜNİTE: EDEBİYAT UYGULAMALARI IV - DEĞER ÇALIŞMALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.4.2.1",
+      "title": "Değerleri açıklar",
+      "processComponents": [
+        "Öğretim programında belirlenen kök değerler başta olmak üzere değer kavramını somutlaştıran çalışmalar yapılır."
+      ]
+    },
+    {
+      "code": "EDU.4.2.2",
+      "title": "Değerler üzerine yapacağı uygulamalar için planlama yapar",
+      "processComponents": [
+        "Değerler eğitiminin yaklaşımları üzerine açıklamalar yapılır. Değer Geliştirme Yaklaşımları “ahlaki muhakeme, değer analizi ve değer açıklama” olmak üzere açıklanır."
+      ]
+    },
+    {
+      "code": "EDU.4.2.3",
+      "title": "Bağlama ve belirlenen amaca uygun içerik, hedef, yöntem, strateji seçer",
+      "processComponents": [
+        "Değerler üzerine örnek olaylar/metinler belirlenir, çalışmanın formatı belirlenir. Buna uygun strateji seçilir, işe vuruk yöntem ve teknikler listelenerek planlama yapılır."
+      ]
+    },
+    {
+      "code": "EDU.4.2.4",
+      "title": "Amaca, bağlama ve hedef kitleye uygun olarak uygulama sürecini yönetir",
+      "processComponents": []
+    },
+    {
+      "code": "EDU.4.2.5",
+      "title": "Değerlere yönelik yaklaşımların kullanılmasıyla kendinde var olan insani değerleri fark eder",
+      "processComponents": [
+        "Gerçek hayat problemleri içeren örnek olaylar üzerinden insani değerlerin problemlerin çözümündeki etkilerine yönelik çıkarımlar yapılır."
+      ]
+    },
+    {
+      "code": "EDU.4.2.6",
+      "title": "Bireysel olarak öz saygı edinmenin değerlerle ilişkili olduğunu fark eder",
+      "processComponents": [
+        "Örnek olaylar üzerinden öz saygı duyma, hedeflerini gerçekleştirme, saygın bir kimlik oluşturma gibi kişilik ve davranışlarla ilgili bireysel gelişimin değerlerle ilişkisi değerlendirilir."
+      ]
+    },
+    {
+      "code": "EDU.4.2.7",
+      "title": "Değerlerin davranışa dönüşerek karakter üzerinde etkisi olacağını değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "EDU.4.2.8",
+      "title": "Toplumda bir vatandaşın sorumluluğundaki görevlerin farkına varır",
+      "processComponents": []
+    },
+    {
+      "code": "EDU.4.2.9",
+      "title": "Davranışlarını millî ve evrensel değerleri göz önünde bulundurarak düzenler",
+      "processComponents": [
+        "Vatanseverlik, yardımseverlik, sorumluluk gibi değerlerle bireysel davranışların toplumun da yararına olacak şekilde özümlenmesi sağlanır."
+      ]
+    },
+    {
+      "code": "EDU.4.2.10",
+      "title": "Değerlere dönük olarak öz tepki ortaya koyar",
+      "processComponents": [
+        "Çalışma sürecinin başlangıcından sonuna kadar değerlere yönelik algı ve tutumlar gözden geçirilir. Kişinin öz değerlendirme yapması sağlanır; uygun davranış, duygu, düşünce ve planlamalar pekiştirilip olumlu tutum geliştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

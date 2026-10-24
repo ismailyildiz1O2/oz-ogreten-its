@@ -1,0 +1,29 @@
+{
+  "unitId": 81424083,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "83. ÜNİTE: UT - ETÜT VE ESER İCRASI – III",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.11.7.1",
+      "title": "Hicazkâr makamında etüt uygulamaları yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.7.2",
+      "title": "Hicazkâr makamında eser uygulamaları yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

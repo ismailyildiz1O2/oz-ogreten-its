@@ -1,0 +1,57 @@
+{
+  "unitId": 1436,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "4.TEMA: MÜZİK DİNLİYORUM",
+  "hours": "12",
+  "description": "Temanın içeriğini iyi bir müzik dinleyicisi olma ve toplumda dinlediği müzik türleri ile kültürünü yaşayıp yansıtabilme oluşturmaktadır. Tema içeriğine uygun Türk müziği eserleri dinletilirken müzik dinleme sürecine ilişkin belirlenen öğrenme çıktılarına ulaşmak amaçlanır",
+  "outcomes": [
+    {
+      "code": "NEY.1.4.1",
+      "title": "Müzik dinleyebilme",
+      "processComponents": [
+        "a) Dinlediği eserin müziksel bileşenlerini tanır.",
+        "b) Dinlediği eserin müziksel bileşenlerini ayırt eder.",
+        "c) Dinlediği eserin müziksel bileşenlerini açıklar."
+      ]
+    },
+    {
+      "code": "NEY.1.4.2",
+      "title": "Dinlediği Türk müziği eserleri içerisinde nefesli çalgıları seçebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "müzik, ney, Türk müziği",
+  "support": [
+    "Dinletilen müziklerin içeriği basitleştirilerek sade ve net melodilere yer verilebilir. Dinlediği müziklerin ritimlerine uygun bedensel hareketler yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak dinleyeceği müziklerle ilgili canlandırma, oyun tasarlama, görsel oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilere çeşitli müzik türleri dinletilip öğrencilerin dinledikleri müzik türlerinin hız, gürlük vb. özelliklerini anlamaları ve müzikler içerisinde nefesli çalgıları seçmeleri istenebilir. Performans görevi; analitik dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.1.4.1",
+    "Öğrencilere dinledikleri müziklerin vuruşlarını saydırarak hızlı veya yavaş olup olmadığını anlamaları sağlanır. Dinlediği müziğin içeriğine yönelik müziksel bileşenleri (gürlük, hız vb.) ayırt etmesi amacı ile örnekler verilerek öğrencilerin müziksel bileşenleri ayırt etmeleri sağlanır. Ardından ayırt ettiği müziksel bileşenleri kendi duygu ve düşünceleriyle ifade etmeleri istenir ( D11.2 , SDB2.1 ). Bu süreç gözlem formu ile değerlendirebilir.",
+    "NEY.1.4.2",
+    "Dinletilen Türk halk müziği eserlerinin içinde, nefesli çalgıların ayırt edilebilmesi için, bu çalgıların sesleri ayrıca dinletilir (kaval, ney, zurna, sipsi, mey vb.). Daha sonra görseller ile çalgılar tanıtılarak, eşleşme kartları ile dinlediği çalgı türünü seçmeleri istenir ( OB4 , SDB2.1 , D3.3 , E2.5 ). Bu süreç analitik dereceli puanlama anahtarı ile değerlendirebilir. Performans görevi olarak öğrencilere çeşitli müzik türleri dinletilip öğrencilerin dinledikleri müzik türlerinin hız, gürlük vb. özelliklerini anlamaları ve müzikler içerisinde nefesli çalgıları seçmeleri istenebilir. Performans görevi; analitik dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir"
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1436"
+}

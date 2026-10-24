@@ -1,0 +1,52 @@
+{
+  "unitId": 1584,
+  "grade": 0,
+  "gradeName": "1. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY I · 4.Tema: Strateji Oyunları",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.1.4.1",
+      "title": ". Strateji oyunlarının temel kurallarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.4.2",
+      "title": ". Strateji oyunlarında başlangıç seviyesinde hamle planlaması yapabilme",
+      "processComponents": [
+        "a) Strateji oyunlarında başlangıç seviyesindeki hamleleri gözden geçirir.",
+        "b) Strateji oyunlarında başlangıç seviyesindeki hamlelerden çıkarımlar yapar.",
+        "c) Strateji oyunlarında başlangıç seviyesindeki hamleler üzerinden yaptığı çıkarımları değerlendirir ve hamleleri uygular."
+      ]
+    },
+    {
+      "code": "OOEZO.1.4.3",
+      "title": ". Strateji oyunlarına özgü temel stratejileri kullanabilme",
+      "processComponents": [
+        "a) Strateji oyununun taktiksel problem durumunu belirler.",
+        "b) Strateji oyununda belirlenen temel stratejileri problemin çözümüne ilişkin öneri olarak sunar.",
+        "c) Belirlediği temel strateji taktiğini uygular."
+      ]
+    },
+    {
+      "code": "OOEZO.1.4.4",
+      "title": "Başlangıç ve orta seviye strateji oyunlarında taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Strateji oyununun stratejik problem durumunu belirler.",
+        "b) Problemin çözümüne yönelik değerlendirme yapar.",
+        "c) Stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "hamle, mangala, strateji, plan",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1584"
+}

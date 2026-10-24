@@ -1,0 +1,121 @@
+{
+  "unitId": 596,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. TEMA: MÜZİK KÜLTÜRÜ",
+  "hours": "48",
+  "description": "Bu temada geleneklerimizde kullanılan müzikler hakkında bilgi toplanabilmesi, dünya müziğine ait eserlerin müziksel dinlenebilmesi, çok sesli eserlerin, marşların, şarkıların ve türkülerin müziksel söylenebilmesi, yaşadığı şehrin müzik etkinlikleri hakkında tümevarımsal akıl yürütülebilmesi ve müzik endüstrisinin gözlemlenebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.12.2.1",
+      "title": "Geleneklerimizde kullanılan müzikler hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Geleneklerimizde kullanılan müzikler hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçlarla geleneklerimizde kullanılan müzikler hakkında bilgiler bulur.",
+        "c) Geleneklerimizde kullanılan müzikler hakkında ulaştığı bilgileri doğrular.",
+        "ç) Geleneklerimizde kullanılan müzikler hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MÜZ.12.2.2",
+      "title": "Dünya müziğine ait eserleri müziksel dinleyebilme",
+      "processComponents": [
+        "a) Dünya müziğine ait eserlerdeki müziksel bileşenleri tanır.",
+        "b) Dünya müziğine ait eserlerdeki müziksel bileşenleri ayırt eder.",
+        "c) Dünya müziğine ait eserlerdeki müziksel bileşenleri açıklar."
+      ]
+    },
+    {
+      "code": "MÜZ.12.2.3",
+      "title": "Çok sesli eserleri müziksel söyleyebilme",
+      "processComponents": [
+        "a) Çok sesli eserleri söylemeden önce bedenini hazır hâle getirir.",
+        "b) Çok sesli eserleri söylerken uygun teknikleri kullanır.",
+        "c) Çok sesli eserleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.12.2.4",
+      "title": "Marşları, şarkıları ve türküleri müziksel söyleyebilme",
+      "processComponents": [
+        "a) Marşları, şarkıları ve türküleri söylemeden önce bedenini hazır hâle getirir.",
+        "b) Marşları, şarkıları ve türküleri söylerken uygun teknikleri kullanır.",
+        "c) Marşları, şarkıları ve türküleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.12.2.5",
+      "title": "Yaşanılan şehrin müzik etkinlikleri hakkında tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Yaşanılan şehrin müzik etkinlikleri hakkında gözlem yapar.",
+        "b) Yaşanılan şehrin müzik etkinlikleri hakkında örüntü bulur.",
+        "c) Yaşanılan şehrin müzik etkinlikleri hakkında genelleme yapar."
+      ]
+    },
+    {
+      "code": "MÜZ.12.2.6",
+      "title": "Müzik endüstrisini gözlemleyebilme",
+      "processComponents": [
+        "a) Müzik endüstrisini gözlemlemeye ilişkin ölçüt belirler.",
+        "b) Müzik endüstrisini gözlemlemeye ilişkin belirlediği ölçütler doğrultusunda veri toplar.",
+        "c) Müzik endüstrisi ile ilgili topladığı verileri sınıflandırır ve kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "çok seslilik, müzik endüstrisi",
+  "support": [
+    "Öğrencilerin bulundukları bölgenin geleneklerinde kullanılan müzikleri ve müziklerde kullanılan çalgıları listelemeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden geleneklerimizde yer alan marş, şarkı ve türkü formlarından birini seçerek eser bestelemeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; dereceleme ölçeği, öz değerlendirme formu, kontrol listesi, açık uçlu sorular kullanılarak izlenebilir. Performans görevi kullanılarak değerlendirilebilir.",
+    "Geleneklerimizde kullanılan müzikler hakkında bilgi toplanırken dereceleme ölçeği kullanılabilir. Dünya müziğine ait eserleri müziksel dinlerken öz değerlendirme formundan yararlanılabilir. Çok sesli eserlerin, marşların, şarkıların ve türkülerin müziksel söylenmesinde kontrol listesi kullanılabilir. Yaşanılan şehrin müzik etkinlikleri hakkında tümevarımsal akıl yürütülürken açık uçlu sorulardan yararlanılabilir. Müzik endüstrisi gözlemlenirken öz değerlendirme formundan yararlanılabilir.",
+    "Performans görevi olarak öğrencilerin geleneksel müziklerden birini seslendirmeleri istenebilir. Performans görevi dereceleme ölçeği ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.12.2.1. Öğrencilere geleneklerimizden hangilerini bildikleri sorulur. Bildikleri geleneklerde müziğin kullanılıp kullanılmadığı tartışılır. Öğrencilerin geleneksel müziğimizin kullanıldığı alanları araştırmaları ve bu araştırmalar için kullanacakları araçları belirlemeleri istenir. Bu süreçte araştırma inceleme yöntemi kullanılabilir. Araştırmaların, yazılı kaynaklar, kaynak kişiler, dijital/teknolojik araçlar vb. kullanılarak yapılabileceği hatırlatılır. Öğrencilerin belirlediği araçlarla çeşitli yörelerin geleneklerinde kullanılan müzikler hakkındaki bilgileri keşfetme arzusuyla bulmaları hedeflenir ( E1.1 ). Halk müziğinin yaşanmış olaylardan esinlenilerek ortaya çıktığı ve bölgesel olarak farklılıklar gösterdiği açıklanır. Geleneklerimizde müziğin kullanım alanları; sıra geceleri, halk dansları, âşıklık geleneği, mevlit, kaside, mevlevi ayinleri, tasavvuf müziği, kına gecesi, asker uğurlama, mehter, ağıt vb. olarak örneklenir. Dijital/teknolojik araçlar aracılığıyla videolar izletilerek kültürel miraslarını tanımaları ve bu geleneklerin farkına varmaları sağlanır ( D15.2 ). Öğrencilerin araştırmalarıyla ulaştığı bilgileri çeşitli kaynaklardan doğrulamaları istenir ( OB1 ). Farklı yörelerin geleneklerinde kullanılan müzikler hakkında ulaştığı bilgileri toplumsal normlar hakkında bir anlayış geliştirerek kaydetmeleri sağlanır ( SDB2.3 ). Öğrencilerin kaydettikleri bilgileri okul panosunda sergilemeleri istenebilir. Geleneklerimizde kullanılan müzikler hakkında bilgi toplamaya yönelik öğrenmeler dereceleme ölçeğiyle izlenebilir. MÜZ.12.2.2. Dünya müziğine ait farklı eserler dinletilir veya dijital/teknolojik araçlar aracılığıyla izletilebilir. Dinletilen müziklerdeki ritmik ve melodik çeşitlilik, çalgılar, kültürel yapı vb. hakkında bilgiler verilir ( OB1 ). Dinlediği halk ezgilerindeki ritmik ve melodik çeşitliliğin o bölgenin kültürel yapısını ve yaşam biçimini yansıtıp yansıtmadığı sorulabilir. Dinletilen eserlerdeki anlam, içerik, yazılma amacı gibi unsurları inceleyerek farklı kültürlerin toplumsal normları hakkında anlayış geliştirmeleri istenir ( SDB2.3 ). Bu süreçte sosyoloji disiplininden faydalanılabilir. Eserlerdeki vurgu, stil, melodik yapı, çalgılar vb. unsurlara odaklanmaları sağlanarak müziksel bileşenleri tanımaları sağlanır ( E3.2 ). Bu süreçte beyin fırtınası tekniği kullanılabilir. Dinlediği eserlerdeki çalgıları fark ederek bu eserlerin kullanım alanlarına göre sınıflandırmaları istenir ( KB2.3 ). Dinlediği eserlerin ait olduğu coğrafyaların kültürel yapısını gözlemleyerek kültürel çeşitliliği fark etmeleri sağlanır ( D4.5 ). Farklı eserlerdeki müziksel bileşenleri ayırt etmeleri beklenir. Öğrencilere farklı kültürlerden ve bölgelerden müzikler dinletilerek bu müziklerin hangi kültürlere ve bölgelere ait olduğu sorulur. Bu müziklerle ilgili liste yapmaları istenir. Listelediği eserlerdeki müziksel bileşenleri açıklamaları sağlanır. Dünya müziğine ait eserleri müziksel dinlemeye yönelik öğrenmeler öz değerlendirme formuyla izlenebilir.",
+    "MÜZ.12.2.3. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, ses ve nefes egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır. Öğrencilere kanonlar, çok sesli eserler ve geleneksel türkülerimizin çok sesli düzenlenmiş örneklerinden oluşan bir seçki dinletilerek müziksel bileşenleri ayırt etmeleri beklenir. Bu eserlerde kaç farklı grup olduğu sorularak grupları ayırt edebilmeleri ve kendilerini değerlendirmeleri istenir ( SDB1.3 ). Çok sesli bir eser seçilir. Seçilen eserin ritmik yapısına ve içinde geçen müziksel ifadelere dikkat çekilir. Seslendirmenin keyifli ve eğlenceli hâle getirilmesi için bedensel hareketlerle birlikte toplu söyleme yaptırılarak grupla çalışma becerilerini geliştirmeleri beklenir ( E2.5 , D3.4 ). Eseri seslendirirken uygun teknikleri kullanarak ve müziksel bileşenleri uygulayarak söylemeleri beklenir. Çok sesli eserleri müziksel söylemeye yönelik öğrenmeler kontrol listesiyle izlenebilir.",
+    "MÜZ.12.2.4. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, nefes ve ses egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır. Öğrencilerin belirli gün ve haftalarda seslendirilen marşlardan hangilerini bildikleri ile ilgili ve bu marşların dinleyicide bıraktığı etkiler hakkında öğrencilere açık uçlu sorular sorulur. Vatan ve bayrak sevgisini, millî birlik ve beraberliği, Atatürk sevgisini, kahramanlığı ve bağımsızlığı konu alan marşların, şarkıların ve türkülerin sözleri ve notaları verilir. Öğretilecek eserin türkü olması durumunda öğrencilerin bildikleri ya da yaşadıkları şehre ait türkülerden örnekler vermeleri istenir. Kültürel çeşitliliğin müziklere yansımalarına dikkat çekilerek farklı kültürlere, kendisine ve çevresine önem vermenin ve saygı göstermenin gerekliliğine değinilir ( D14.2 , OB5 ). Halk kültürünün türkülere yansıması vurgulanır. Farklı yörelerden türküleri, Türk halk müziğine yönelik farkındalık oluşturmak amacıyla müziksel bileşenlerini ayırt ederek dinlemeleri sağlanır ( SAB9 ). Türk müziği sanatçılarını tanımak için Türk müziği tarihinde iz bırakan eserler seçilir. Seçilen türlerde eserleri seslendirirken uygun teknikleri kullanarak söylemeleri sağlanır. Ritmik yapı, entonasyon ve müziksel ifade gibi bileşenleri uygulayarak söylemeleri istenir. Bu süreçte kulaktan şarkı öğretimi yöntemi kullanılabilir. Öğrencilerin müzik türlerimizden farklı eserleri topluca seslendirerek toplumsal normlar hakkında anlayış geliştirmeleri ve dönemin sosyokültürel yapısının farkında olmaları beklenir ( SDB2.3 ). Çeşitli türlerden eserlerin öğretilmesi ve seslendirilmesi aracılığıyla öğrencilerin geniş bir arşive sahip olmaları sağlanır. Oluşturulan bu arşiv sayesinde her eseri seslendirdiklerinde yeteneklerine ve kapasitelerine güvenmeleri hedeflenir ( E1.5 ). Marşları, şarkıları ve türküleri müziksel söylemeye yönelik öğrenmeler kontrol listesiyle izlenebilir.",
+    "MÜZ.12.2.5. Öğrencilerin yaşadıkları şehirdeki müzik etkinliklerini dijital/teknolojik araçlar ve sosyal medya platformlarından araştırarak yerel gazeteleri inceleyerek veya doğrudan etkinlik mekânlarını ziyaret ederek gözlemlemeleri ve bu gözlemlerini not etmeleri istenir. Bu süreçte gözlem tekniği kullanılabilir. Gözlemledikleri farklı etkinliklerin çeşitliliğine ve belirli türdeki etkinliklerin sıklığına dair örüntüleri tespit ederek sınıfta paylaşmaları istenir. Örüntüleri paylaşırken öğrencilerin birbirini saygılı, meraklı ve açık fikirlilikle dinleyecekleri ortam oluşturulması hedeflenir ( E3.5 ). Paylaşılan örüntülerden yola çıkarak etkinliklere yönelik genellemeler yapmaları istenir. Bu süreçte tartışma yöntemi kullanılabilir. Öğrencilerin kendi duygularına ilişkin farkındalıklarını artırmak amacıyla şehrin müzik yaşantısına yönelik yapılan genellemelerden nasıl faydalanacakları sorulur ( SDB1.1 ). Öğrencilerin toplumsal ve kültürel zenginliklere değer vermeleri amaçlanarak yaşadıkları şehrin müzik etkinliklerine katılmaları teşvik edilir ( D5.1 , OB5 ). Yaşanılan şehrin müzik etkinlikleri hakkında tümevarımsal akıl yürütmeye yönelik öğrenmeler açık uçlu sorularla izlenebilir.",
+    "MÜZ.12.2.6. Müzik yapıtlarının dinleyiciye ulaşmadan önce hangi süreçlerden geçtiğine değinilir. Müzik endüstrisinin bileşenleri ve ilgili meslek dalları hakkında bilgiler verilir. Verilen bilgiler doğrultusunda gözlemleyeceği ölçütleri belirlemeleri istenir. Müziğin üretim, dağıtım ve tüketim sürecine yönelik verileri gözlemleri doğrultusunda toplamaları istenir ( OB7 ). Topladıkları verileri sınıflandırıp kaydetmeleri sağlanır. Müzik endüstrisi ile ilgili verilerin toplanması sürecinde planlı ve düzenli çalışmalarının önemi vurgulanır ( D3.2 ). Müziğin üretim veya dağıtım sürecinde telif haklarına dikkat edilmediği durumlarda yaşanmış sorunlara dair örnekler verilir. Böylece üreten insanların hak kaybı konusunda neler hissettiklerini empati yoluyla anlamaları sağlanır ( E2.1 ). Öğrencilerin yaşadıkları şehirde müzik üretimi yapan kayıt stüdyolarının işleyişi hakkında bilgi toplamaları istenir. Bu süreçte araştırma tekniği kullanılabilir. Müzik endüstrisinin bir alanı olarak canlı performansın önemine ve değerine vurgu yapılır. Öğrencilerin dinledikleri müziklerde değişik duygular hissedebileceğinin farkına varmaları sağlanır ( SDB1.1 ). Müzik endüstrisini gözlemlemeye yönelik öğrenmeler öz değerlendirme formuyla izlenebilir.",
+    "Performans görevi olarak geleneksel müziklerden bir eser seçilir. Seçilen eserin ana ezgisi bir grup tarafından seslendirilirken diğer grubun da bu ezgiye ostinato eşlikle katılması sağlanır. Yapılan seslendirmelerin sınıf ortamında ulaşılabilecek bir ses kayıt cihazıyla kaydedilmesi istenebilir. Performans görevi dereceleme ölçeği ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.2",
+      "D15.2",
+      "D3.2",
+      "D3.4",
+      "D4.5",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.1",
+      "E2.5",
+      "E3.2",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB5",
+      "OB7"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.3",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/596"
+}

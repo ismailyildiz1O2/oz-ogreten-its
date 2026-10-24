@@ -1,0 +1,60 @@
+{
+  "unitId": 1184,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "2.TEMA: NEFES TEKNİKLERİ",
+  "hours": "23",
+  "description": "Tema içeriğini nefes kontrolü, nefes pozisyonu, göğüs ve diyafram nefesi oluşturmaktadır. Bu doğrultuda nefes teknikleri ile ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.3.2.1",
+      "title": "Nefes kontrolünü yapabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KVL.3.2.2",
+      "title": "Göğüs nefesini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KVL.3.2.3",
+      "title": "Diyafram nefesini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "diyafram, diyafram nefesi, göğüs nefesi, nefes",
+  "support": [
+    "Öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak ve bunlara ilişkin, nefesle ilgili video, infografikler, çizimler hazırlanabilir. Sınıf içerisinde çeşitli nefes egzersizleri yaptırılarak deneyim kazandırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak ileri düzey nefes teknikleri ile ilgili videolar izlettirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz/akran veya grup değerlendirmeleri, gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin bireysel veya grup çalışması yoluyla nefes kontrolünü arttırmaları amaçlanarak 4 saniye boyunca nefes almayı, 4 saniye boyunca aldıkları nefesi tutmayı ve 4 saniye boyunca nefes vermeleri istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Performans görevi gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.3.2.1",
+    "Nefesin nasıl alınması konusunda bilgiler verilip öğrencilerin doğru nefes tekniklerini incelemeleri sağlanır. Öğrenciler rahat bir sandalyeye oturtulup doğru nefes pozisyonunda ayakların ve sırtın şeklinin nasıl olması gerektiği gösterildikten sonra nefes kontrolünü uygulamaları sağlanır ( E3.7 ). Öğrencileri küçük gruplara ayırarak doğru nefes egzersizlerini, birbirlerine destek olarak uygulamaları ve ifade etmeleri sağlanır ( D4.2 , SDB2.2 ), . Süreç sonunda performans görevi olarak bireysel veya grup çalışması yoluyla nefes kontrolünü arttırmaları amaçlanıp 4 saniye boyunca nefes almaları, 4 saniye boyunca aldıkları nefesi tutmaları ve 4 saniye boyunca nefes vermeleri istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Performans görevi kontrol listesi, gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir.",
+    "KVL. 3.2.2",
+    "Göğüs nefesinin nasıl alınması konusunda bilgiler verilip öğrencilerin doğru göğüs nefes tekniklerini incelemeleri sağlanır. Öğrenciler rahat bir sandalyeye oturtulup, doğru göğüs nefesi pozisyonunda ayak, sırt ve göğüs şeklinin nasıl olması gerektiği gösterildikten sonra doğru göğüs nefesini uygulamaları ve açıklamaları sağlanır ( E3.7 ). Öğrencileri küçük gruplara ayırarak doğru göğüs nefesi egzersizlerini birbirlerine destek olarak uygulamaları ve ifade etmeleri istenir ( SDB2.2 ). Süreç sonunda performans görevi olarak bireysel veya grup çalışması yoluyla nefes kontrolünü arttırmaları amaçlanıp 4 saniye boyunca nefes almaları, 4 saniye boyunca aldıkları nefesi tutmaları ve 4 saniye boyunca nefes vermeleri istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Performans görevi kontrol listesi, gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir.",
+    "KVL. 3.2.3",
+    "Diyafram nefesinin nasıl alınması konusunda bilgiler verilip öğrencilerin doğru diyafram nefes tekniklerini incelemeleri sağlanır. Öğrenciler rahat bir sandalyeye oturtulup doğru diyafram nefesi pozisyonunda ayak, sırt ve karın şeklinin nasıl olması gerektiği gösterildikten sonra doğru diyafram nefesini uygulamaları ve açıklamaları sağlanır ( OB1 , E1.5 ). Öğrencileri küçük gruplara ayırarak doğru diyafram nefesi egzersizlerini birbirlerine destek olarak uygulamaları ve ifade etmeleri istenir ( SDB2.2 ). Süreç sonunda performans görevi olarak bireysel veya grup çalışması yoluyla, nefes kontrolünü arttırmaları amaçlanıp, 4 saniye boyunca nefes almaları, 4 saniye boyunca aldıkları nefesi tutmaları ve 4 saniye boyunca nefes vermeleri istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Performans görevi kontrol listesi, gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir"
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.5",
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1184"
+}

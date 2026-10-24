@@ -1,0 +1,101 @@
+{
+  "unitId": 298,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "1. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+  "hours": "24",
+  "description": "Bu temada öğrencilerin iki nicel değişken arasındaki ilişkililiğe odaklanan gerçek yaşam durumları bağlamında bir istatistiksel araştırma süreci yürütebilmeleri; başkaları tarafından oluşturulan iki nicel değişken arasındaki ilişkililiğe odaklanan veri dağılımlarına ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminleri eleştirel bir bakış açısıyla değerlendirebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.11.1.1",
+      "title": "İki nicel değişkenli veri ile çalışabilme ve iki nicel değişken arasındaki ilişkililiğe dayalı karar verebilme",
+      "processComponents": [
+        "a) İki nicel değişkenli veriye dayalı istatistiksel araştırma gerektiren gerçek yaşam durumlarını belirler.",
+        "b) Bağlam içerisinde iki nicel değişken arasındaki ilişkililiğe odaklanan araştırma soruları oluşturur.",
+        "c) İki nicel değişkenli veri toplamak/elde etmek için plan yapar.",
+        "ç) İki nicel değişkenli verileri toplayarak/elde ederek analize hazırlar.",
+        "d) Araştırma sorusu bağlamında toplanan/elde edilen iki nicel değişkenli verileri analiz etmek için görselleştirme ve/veya özetleme [tablo, serpme diyagramı (saçılım grafiği), bölgelere göre sayım oranı, korelasyon katsayısı] araçlarından uygun olanı seçer.",
+        "e) Araştırma sorusu bağlamında toplanan/elde edilen verileri belirlediği araçlarla analiz eder.",
+        "f) İki nicel değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan elde edilen bulguları yorumlayarak sonuç çıkarır.",
+        "g) İki nicel değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan elde edilen sonuçları araştırma sorusu bağlamında değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.1.2",
+      "title": "Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "processComponents": [
+        "a) Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.",
+        "b) Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.",
+        "c) Başkaları tarafından oluşturulan iki nicel değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "bölgelere göre sayım oranı, iki nicel değişkenli veri dağılımları, ilişkililik, korelasyon katsayısı, serpme diyagramı (saçılım grafiği), tablo",
+  "support": [
+    "Öğrencilerin iki nicel değişkenin ilişkililiğini içeren istatistiksel araştırma sürecine dâhil olmaları için grup çalışması yapılabilir. Gruplar heterojen şekilde düzenlenebilir. Bu sayede öğrenciler akran öğrenmesi ile istatistiksel araştırma sürecini anlamlandırabilir.",
+    "Öğrencilerden günlük hayatlarında karşılarına çıkma ihtimali daha fazla olan nicel veri setlerinden (boy, sıcaklık değerleri gibi) hareketle araştırma sorusu oluşturmaları, veri toplamaları ve bu verileri analiz ederek yorumlamaları istenebilir.",
+    "Öğrencilerin daha küçük veri setleri üzerine çalışmaları sağlanabilir.",
+    "Öğrencilere iki nicel değişkenin ilişkililiğine odaklanan istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminler daha basit düzeyde (öğrencilerin daha aşina oldukları durumları içermesi gibi) sunulur ve öğrencilerden bunlara ilişkin değerlendirme yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilerden kendilerine verilen çok değişkenli veri setlerinden hareketle uygun iki nicel değişken belirleyerek bir araştırma sorusu hazırlamaları ve bu doğrultuda istatistiksel araştırma süreci tasarlayarak yürütmelerine yönelik proje hazırlamaları istenebilir. Öğrencilerin elde ettiği sonuçları sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak diğer arkadaşları ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir.",
+    "Öğrencilerden iki nicel değişkenin ilişkililiğine yönelik dağılımlar içeren istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminleri içeren durumları araştırmaları istenebilir. Bu durumları araştırırken hangi kaynakları (gazete haberleri, dijital kaynaklar, resmî kaynaklar gibi) kullanabileceklerine ve bu kaynakları kullanırken nelere dikkat etmeleri gerektiğine dair paylaşımlar yapmaları beklenebilir. Bu araştırmalarında fark ettikleri noktaları eleştirel olarak değerlendirmeleri istenebilir. Örneğin bireylerin beyinlerinin dış kabuk kısmının kalınlığının zekâ düzeyi ile ilişkililiğini inceleyen bir araştırmanın sonuçlarını öğrencilerin değerlendirmeleri istenebilir. Elde edilen sonuçlar ile görsel (saçılım grafiği) ve sayısal değer (korelasyon katsayısı) arasında tutarlılık olup olmadığı; yanlı, yanlış veya eksik bilgilerin olup olmadığı incelenerek öğrenciler tarafından değerlendirilir. Öğrencilerin yaptıkları bu değerlendirmeleri sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak arkadaşları ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir.",
+    "Öğrencilerden korelasyon katsayısının nasıl hesaplandığına ilişkin kendilerine verilen formülü kullanarak gerçek yaşam durumları üzerinden hesaplamalar yapmaları istenebilir. Öğrenciler, yapılan bu hesaplamalarda teknolojik araçlardan (örneğin hesap makinesi) faydalanılabilir. Bu süreçte öğrencilerden yaptıkları hesaplamalara ilişkin gerekçelendirmeler sunarak bu gerekçeleri ifade etmeleri beklenebilir.",
+    "(*) Öğrencilerin korelasyonel araştırma yöntemi kullanılarak yapılmış bir bilimsel çalışmayı analiz etmesi, arkadaşlarıyla tartışması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi ve kavram haritası, performans görevi ile değerlendirilebilir.",
+    "Öğrencilerden istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir kavram haritası oluşturmaları istenebilir. Oluşturulan kavram haritası bir kontrol listesiyle değerlendirilebilir.",
+    "Öğrencilere iki nicel değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma süreçlerinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Bu performans görevinin sonunda öğrencilerin elde ettikleri sonuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkinlikleri, akran ve grup değerlendirme formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.11.1.1 İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri toplama planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumlama aşamalarının tamamını içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, iki nicel değişken içeren dağılımlarla istatistiksel araştırma sürecini yürütür.",
+    "İki nicel değişkenli verilerdeki ilişkililiğe yönelik araştırma sorularına kaynaklık eden bağlamlar, öğrencilerin merak ettiği gerçek yaşam durumlarını içermelidir ( E1.1 ) . Öğrencilerin istatistiksel araştırma gerektirebilecek gerçek yaşam durumlarını belirleyebilmeleri için sağlık, eğitim, çevre, doğa veya iklim gibi alanlardan gerçek yaşam durumlarına ilişkin bilgilere ihtiyaçları olduğunu gözlemlemeleri sağlanır ( OB1 ) . Toplumsal konulara yer verilmesi öğrencilerin etrafında olup bitenleri merak etmesini ve merak ettiği konular doğrultusunda sorular sormasını destekleyerek kendisine, topluma, çevreye ve canlılara karşı hassasiyetle yaklaşmasını destekler ( SDB1.1 , D5.2 , E1.1 , E3.8 ) . Öğrenciler bireysel çalışma veya grup çalışması ile belirledikleri gerçek yaşam durumlarını (örümcek ağı, kavram haritası gibi tekniklerle) gösterir veya dijital ortamlarda zihin haritası gibi araçlarla oluşturarak paylaşır ( OB2 ) . Belirlenen gerçek yaşam durumları, veri toplamayı gerektirip gerektirmeme ölçütüne göre sınıf içi tartışmayla incelenir. Bu süreçte öğrencilerin düşüncelerini ifade etmelerinin yanı sıra diğer arkadaşlarının düşüncelerini nazik bir şekilde dinleyerek onlarla empati kurabilmesine yönelik yönlendirmeler yapılır ( SDB2.1 , D14.1 ) .",
+    "Öğrencilerin belirlenen bağlamlardan yola çıkarak merak ettikleri soruları ifade edebilmelerine izin verilir ( E3.8 ) . Bu aşamada örnek bir bağlamdan hareketle bir araştırma sorusu oluşturulur. Örneğin bireylerin boylarının inceleneceği bir problemle hangi değişkenlerin boy ile ilişkili olabileceğine yönelik sınıf içi tartışma başlatılabilir. Uygun değişkenin belirlenmesi sürecinde öğrencilerin birbirlerinin fikirlerini dinlemeleri ve bu fikirlerden hareketle yorum yapabilmeleri sınıf içi tartışma ile desteklenir. Tartışma sırasında öğrencilerden farklı bakış açılarını dikkate almaları ve birbirleriyle etkili iletişim kurmaları konusunda özveriyle davranmaları beklenir ( SDB2.1 , D14.1 ) . Bu tartışmanın sonunda öğrencilerle bir bireyin boyunun çeşitli değişkenlerle (zıplama yüksekliği, günlük süt tüketim miktarı, uyku süresi gibi) ilişkili olabileceğinden hareketle araştırma soruları oluşturulabilir. Öğrencilerin farklı bağlamlardan hareketle hazırladıkları araştırma sorularına ilişkin fikirlerini gerekçeleriyle tartışmaları ve bu tartışmalar sonucunda iki nicel değişkenli veri dağılımlarının ilişkililiğine odaklanan istatistiksel araştırma sorularına ulaşmaları sağlanır ( SDB2.1 ) .",
+    "Ayrıca öğrencilerden farklı disiplinlerle ilişkili araştırma soruları hazırlamaları istenir. Örneğin öğrenciler; ekonomi dersi konularından yola çıkarak kişilerin gelir miktarları ile yaptıkları tasarruf miktarı arasında bir ilişkililik olup olmadığını, astronomi ve uzay bilimleri dersi konularından yola çıkarak gezegenlerin Güneş'e olan uzaklıkları ile dönme hızları arasındaki ilişkililiği, biyoloji dersi konularından yola çıkarak omurgalı hayvanların kilosu ile yaşam süreleri arasındaki ilişkililiği inceleyebilir ( OB3 ) . Bunun yanı sıra bilinçli tüketici olmaya dikkat çekmek amacıyla öğrencilerin \"Ev yaşam alanı (m²) ile tüketilen elektrik miktarı (kWh) arasında bir ilişkililik var mıdır?\" şeklinde bir soru üzerinde tartışmaları sağlanır ( OB3 , D17.1 ) . Bu süreçte öğrenciler tarafından hazırlanacak bazı araştırma soruları, sağlıklı yaşama ilişkin duyarlılığı artırma amacı gözetebilir. Örneğin bireylerin spor yapma süresi ile kalp atış hızı arasındaki ilişki üzerine sınıf içi tartışma yapılarak öğrencilerin düşüncelerinin ortaya çıkarılması sağlanabilir ( SDB2.1 , D13.2 ) .",
+    "Hazırlanan araştırma sorularına cevap bulabilmek amacıyla öğrencilerle veri toplama sürecine geçilir. Bu süreçte verileri öğrencilerin kendilerinin toplayabileceği ya da hazır veri kaynaklarından elde edebileceği ifade edilmelidir. Öğrencilerin hazır veriye ulaşmaları sürecinde dijital kaynakları nasıl doğru kullanmaları gerektiğine yönelik tartışmalar yapmaları teşvik edilmelidir ( OB2 ) . Öğrencilerden iki nicel değişkenli veri setlerinin nasıl toplanacağına yönelik veri toplama planı oluşturmaları istenir. Bu plan doğrultusunda veri toplama araçlarını (anket, görüşme, gözlem, ölçüm gibi) belirleyip oluşturmaları, verileri toplamaları ve analize hazır hâle getirmeleri beklenir ( OB1 ) . Bu süreçte dijital araçlar oluşturulup kullanılır ( OB2 ) . Verileri toplarken kişisel verilerin gizliliğine; tutarlı, tarafsız, doğru ve güvenilir olmasına dikkat edilmesinin önemine vurgu yapılmalıdır ( D6.2 , D8.2 ) . Ayrıca bu süreçte toplanan verilerin araştırma sorusuna cevap vermesi ile elde edilen sonuçların evrene genellenip genellenemeyeceği, eleştirel bir bakış açısıyla tartışılmalıdır ( E3.10 ) . Örneğin A okulunda öğrenim gören 11. sınıf öğrencilerinden belirlenen bir örneklemden elde edilen sonuçlarla B okulunda öğrenim gören 11. sınıf öğrencilerinden elde edilen sonuçların benzerlik veya farklılık gösterip göstermeyeceği, bu sonuçların aynı ildeki tüm 11. sınıf öğrencilerine genellenip genellenemeyeceği tartışılabilir.",
+    "Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve veri toplama planları, istatistiksel araştırma sorusu ve veri toplama planı ölçütleri doğrultusunda oluşturulan kontrol listesiyle değerlendirilebilir. İstatistiksel araştırma sorusu ölçütleri arasında yer alan değişebilirlik ölçütü incelenirken değişebilirlik türlerine değinilmez.",
+    "Öğrencilerin iki nicel değişken arasındaki ilişkililiğin mantığını anlamaları için öncelikle bölgelere göre sayım oranı kullanılır ve öğrencilerin iki nicel değişken arasındaki ilişkililiği anlamlandırmaları sağlanır. İki nicel değişken arasındaki ilişkiyi analiz etme aşamasında öğrencilerden araştırma soruları bağlamında iki nicel değişken arasındaki ilişkililiği görselleştirmeleri, özetleme araçlarıyla (serpme diyagramı, korelasyon katsayısı) verileri gözlemlemeleri ve analiz etmeleri istenir ( MAB3 ) . Burada öğrencilerin bir değişkenin değerleri değişirken diğer değişkenin değerlerinin değişimine (veri setindeki değişkenlerin birlikte değişebilirliği) odaklanmaları sağlanır. Korelasyon katsayısının anlamlandırılabilmesi için istatistik yazılımları yardımıyla serpme diyagramı oluşturulur ve bölgelere göre sayım oranı hesaplanır ancak korelasyon katsayısının formülle hesabı yaptırılmaz ( MAB5 ) . İki değişkenin ilişkililiğinde aykırı değerlerin korelasyon katsayısını etkileyeceği dikkate alınmalıdır.",
+    "Analiz süreci tamamlandığında elde edilen sonuçlara ilişkin olarak öğrencilerle sınıf içi tartışma yapılmalıdır. Öğrenciler, elde ettikleri sonuçları arkadaşlarıyla paylaşarak birbirlerinin düşüncelerini nazik bir şekilde dinler; ayrıca kendi sonuçlarıyla arkadaşlarınınkileri karşılaştırır ( SDB2.1 , D14.1 ) . Bu tartışma sürecinde öğrencilerin iki nicel değişken arasındaki doğrusal ilişkinin yönü (pozitif/negatif) ve gücüne (ilişki yok/zayıf/orta/güçlü) ilişkin yorumlar yapmaları istenir. Sonuçları yorumlarken öğrencilerin iki nicel değişkenli verilerde ortaya çıkan ilişkinin bir neden-sonuç ilişkisi olmadığını ayırt etmelerine yönelik tasarımlar yapılmalıdır. Örneğin atomların ağırlığı ile yoğunluğu arasında pozitif yönde bir ilişki ortaya çıktığında atomların atomik ağırlığı arttıkça yoğunluğunun artma eğiliminde olduğu yorumu yapılabilir. Ancak bu durum, atomun atomik ağırlığının artmasının yoğunluğun artmasına sebep olduğu anlamına gelmemektedir. Atomun farklı özellikleri (metal olup olmaması, katı, sıvı, gaz olma hâli) yoğunluğu etkileyebilir.",
+    "Analizler tamamlandıktan sonra öğrencilerin araştırma sorularına dönerek elde ettikleri sonuçlardan hareketle araştırma sorusuna belirsizliği dikkate alarak cevap vermeleri beklenir. Bu süreçte öğrencilerin istatistiksel araştırma sürecinin bütün bileşenlerini sistematik bir şekilde gözden geçirmeleri desteklenmelidir ( E3.7 ) . Araştırma sorularına verilecek cevapların istatistiksel ifadeler içermesi önemlidir. Bu süreçte ayrıca öğrencilerin seçilen örneklem dağılımından hareketle evren dağılımı hakkında genellemeler yapmaları ve elde edilen sonuçları, belirsizliği dikkate alan bir dille ifade etmeleri beklenir. Öğrencilerden istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir kavram haritası oluşturmaları istenebilir. Öğrencilere iki nicel değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma süreçlerinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir.",
+    "MAT 11.1.2 Öğrencilerin başkaları tarafından oluşturulan istatistiksel bilgilere eleştirel gözle bakabilmesi ve bu bilgileri derinlemesine düşünerek değerlendirmesi önemlidir ( E1.6 , E3.10 , SDB3.3 ) . Bu bağlamda öğrencilere iki nicel değişkenli verilerin ilişkililiğine yönelik hatalı/yanlı sonuç, yorum, çıkarım ve/veya tahminleri içeren çalışma kâğıdı verilerek bunları incelemeleri istenebilir. Öğrencilerin var olan istatistik bilgileri doğrultusunda istatistiksel temellendirme yapmalarına imkân verecek ortamlar oluşturulmalıdır. Buradan hareketle öğrencilerin verilen durumlara şüpheyle ve eleştirel bakmaları, istatistik bilgilerini kullanarak hataları/yanlılıkları tespit etmeleri istenmelidir ( E1.6 , E3.9 , E3.10 ) . Öğrencilerin belirlediği hatalar ve yanlılıklar tartışmaya açılmalıdır ( SDB2.1 ) . Öğrencilerden bu hata ve yanlılıkları eleştirel gözle değerlendirmeleri beklenir ( KB3.3 ) . Öğrenciler ürettikleri fikir ve değerlendirmelerinden hareketle iki nicel değişkenli verilerin ilişkililiğine yönelik hatalı/yanlı sonuç, yorum, çıkarım ve/veya tahminleri çürütmeli ya da kabul etmelidir. Öğrencilerin bu süreçte hem verileri doğru ve objektif değerlendirmesi hem de bu değerlendirmenin önemini ve yanlılığın yol açacağı olumsuz sonuçları dikkate alması önemlidir ( D6.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D14.1",
+      "D17.1",
+      "D5.2",
+      "D6.2",
+      "D8.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.6",
+      "E3.10",
+      "E3.7",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/298"
+}

@@ -1,0 +1,79 @@
+{
+  "unitId": 263,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "6. TEMA: ANALİTİK İNCELEME",
+  "hours": "22",
+  "description": "Bu temada öğrencilerin dik koordinat sisteminde iki nokta arasındaki uzaklıkla ve bir doğru parçasını belli oranda bölen bir noktanın koordinatlarıyla ilgili çıkarım yapabilmeleri, dik koordinat sistemini doğrunun özelliklerini incelemek ve doğru ile ilgili problemleri çözebilmek için uygun bir temsil aracı olarak kullanabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.10.6.1",
+      "title": "Dik koordinat sisteminde iki nokta arasındaki uzaklık ve bir doğru parçasını belli oranda bölen noktanın koordinatlarıyla ilgili çıkarım yapabilme",
+      "processComponents": [
+        "a) Dik koordinat sisteminde iki nokta arasındaki uzaklık bağıntısı ve bir doğru parçasını belli oranda bölen noktanın koordinatlarıyla ilgili varsayımda bulunur.",
+        "b) Farklı örnekler üzerinden varsayımlarına yönelik örüntüleri geneller.",
+        "c) İki nokta arasındaki uzaklık bağıntısına ve bir doğru parçasını belli oranda bölen noktanın koordinatlarına ilişkin genellemeleri ile varsayımlarını karşılaştırır.",
+        "ç) İki nokta arasındaki uzaklık bağıntısına ve bir doğru parçasını belli oranda bölen noktanın koordinatlarına yönelik önermeler sunar.",
+        "d) Önermeleri gerçek yaşam problemleri bağlamında değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.10.6.2",
+      "title": "Dik koordinat sistemini doğrunun özelliklerini incelemek ve doğru ile ilgili problemleri çözebilmek için uygun bir temsil aracı olarak kullanabilme",
+      "processComponents": [
+        "a) Dik koordinat sistemini doğrunun eğim açısını, eğimini ve doğruların birbirlerine göre konumlarını belirlemede araç olarak tanır.",
+        "b) Karşılaştığı problem durumlarında dik koordinat sistemini doğrunun eğim açısını, eğimini ve doğruların birbirlerine göre konumlarını belirlemede uygun bir temsil aracı olarak seçer.",
+        "c) Dik koordinat sistemini doğrunun eğim açısını, eğimini ve doğruların birbirlerine göre konumlarını temsil etme aracı olarak kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "çakışma, dik koordinat sistemi, doğru, eğim, eğim açısı, iki nokta arasındaki uzaklık, kesişme, paralellik",
+  "support": [
+    "İki nokta arasındaki uzaklık hesaplanırken dik koordinat sistemi kareli ya da noktalı kâğıt üzerinde gösterilerek dik üçgenlerden yararlanılabilir. Derste video, animasyon gibi görsel ve işitsel materyallere yer verilebilir. Öğrencilerin dik koordinat sisteminde nokta ve doğrularla ilgili ön bilgileri yoklanarak bireyselleştirilmiş öğretim çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "İki doğru arasındaki açının ölçüsünün hangi koşullarda belirlenebileceğine dair sorgulama yapılabilir. Tanjantı bilinen özel eğim açılarına (30°, 45°, 60°, 90°, 120°, 135° gibi) sahip iki doğru arasındaki açının nasıl belirlenebileceğinin araştırılması istenebilir.",
+    "(*) Dik koordinat sisteminde bir noktanın, doğru parçasının, doğrunun ya da çokgenin öteleme, yansıma ve dönme dönüşümü altındaki görüntüsünün bulunması ile ilgili çalışmalar yapılabilir.",
+    "Öğrencilere bir noktanın bir doğruya olan en kısa uzaklığının hangi koşullarda ve nasıl belirlenebileceği sorgulatılabilir. Bu uzaklığın doğruya indirilen dikme ile ilişkilendirilerek ve iki nokta arasındaki uzaklık bilgisi kullanılarak gerekçelendirilmesi istenebilir.",
+    "Düzlemde iki doğrunun kesişmesiyle oluşan açılara ait açıortay doğrularının birbirine göre durumları incelenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, çalışma kâğıdı ve proje ödevi ile değerlendirilebilir.",
+    "Öğrencilerden performans görevi olarak bulundukları ilin ya da ilçenin ölçekli bir haritasını dik koordinat sistemi ile ilişkilendirerek okulu orijin kabul edip ilin önemli merkezlerinin ve kendi evlerinin koordinatlarını gösteren görsel bir materyal hazırlamaları istenir. Bu materyal üzerindeki uzunlukları kullanarak herhangi iki nokta arasındaki uzaklığı koordinatlar üzerinden hesaplamaları beklenir. Bu performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrencilerden öz değerlendirme formları ile kendilerini, akran değerlendirme formları ile birbirlerini değerlendirmeleri istenebilir.",
+    "Öğrencilere doğru parçasını belli oranda bölen noktanın koordinatlarını bulmayı gerektiren gerçek yaşam problemleri içeren bir çalışma kâğıdı verilebilir. Bu çalışma kâğıdı, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Gerçek yaşam durumlarında karşılaşılan problemler üzerinden doğrunun eğimini, doğruların birbirlerine göre konumlarını kullanmayı gerektiren proje ödevi; analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.10.6.1 Ömer Hayyam, Descartes (Dekart) ve Fermat'nın analitik geometriyle ilgili çalışmaları tanıtılarak öğrencilerin konuya merak duymaları sağlanır ( E1.1 ) . Sayı doğrusu üzerinde iki nokta aracılığıyla belirlenen bir doğru parçasının uzunluğunu hesaplayabilen öğrencilerin bu düzeyde gruplar hâlinde çalışmaları ve dik koordinat sisteminde herhangi bir şekilde konumlandırılan doğru parçasının uzunluğunun eksenlere paralel doğru parçalarından yararlanılarak nasıl hesaplanacağına dair varsayımlarda bulunmaları beklenir. Farklı grupların varsayımlarındaki örneklerin genellemelere dönüştürülmesi için varsayımların doğruluğu veya yanlışlığı üzerine tartışılır ( SDB2.2 ) . Bu tartışma; öğrencilerin etkili iletişim kurmasını, arkadaşlarının düşüncelerine empati ile yaklaşmasını ve olumlu bir bakış açısına sahip olmasını sağlar ( D12.2 , D14.1 ) . Öğrencilerin seçilen farklı doğru parçalarının uzunlukları üzerinden elde ettikleri varsayımlarını ve genellemelerini gruplarda karşılaştırmaları istenir ( SDB2.1 ) . Dik koordinat sisteminde iki nokta arasındaki uzaklık bağıntısına dair ulaşılan genellemelerden yola çıkarak bir önerme sunmaları sağlanır. Her grup kendi ulaştığı önermeleri sınıfta sunarak bu önermelerin doğruluğunu akran değerlendirme formu yardımıyla değerlendirebilir ( SDB2.2 ) .",
+    "Öğrencilerden üçgende benzerlik bilgilerini kullanarak dik koordinat sisteminde herhangi bir şekilde konumlandırılan doğru parçasını belli bir oranda içten veya dıştan bölen noktanın koordinatlarının nasıl belirleneceğine ilişkin varsayımlarda bulunmaları beklenir. Sınıf içi tartışmalarla varsayımlardaki örüntülerin genellemelere dönüştürülmesi sağlanır. Öğrencilerden seçilen farklı doğru parçalarını içten veya dıştan belli bir oranda bölen noktaların koordinatlarına ilişkin elde ettikleri varsayım ve genellemelerini karşılaştırmaları beklenir. Dik koordinat sisteminde doğru parçasını içten veya dıştan belli bir oranda bölen noktaların koordinatlarına ilişkin ulaşılan genellemelere yönelik olarak öğrencilerin önermeler sunması ve bu önermeleri değerlendirmesi sağlanır. Dik koordinat sisteminde alınan belirli bir doğru parçasının orta noktasının koordinatlarını ve köşelerinin koordinatları verilen bir üçgenin ağırlık merkezinin koordinatlarını veren bağıntılara da bu değerlendirme kapsamında ulaşılması sağlanır. Değerlendirmeleri yapabilmek için matematik yazılımlarından yararlanılır ( MAB5 ) . Çevrim içi haritalarda enlem ve boylamın ne için kullanıldığı üzerinde durularak coğrafya dersi ile ilişki kurulur. Ayrıca harita üzerinde iki nokta arasındaki uzaklık (kuş bakışı ve yol olarak) analitik olarak hesaplanıp gerçek uzaklıkla karşılaştırılarak dijital okuryazarlık becerisi kullanılır ( OB2 ) .",
+    "Öğrencilere dik koordinat sisteminde iki nokta arasındaki uzaklık ilişkisini kullanabilecekleri bir performans görevi ve bir doğru parçasını içten veya dıştan belli bir oranda bölen noktanın koordinatlarını bulmayı gerektiren, gerçek yaşam problemleri içeren bir çalışma kâğıdı verilebilir.",
+    "MAT.10.6.2 Öğrencilerin önceden öğrendikleri eğim ve doğru ile ilgili bilgileri cebirsel olarak ve dik koordinat sistemi üzerinde temsil edebileceği ifade edilir. Bununla birlikte doğrunun eğimini dik koordinat sisteminde anlamlandırabilmek için eğim açısı kavramı tanıtılır. Öğrencilerin bir doğru üzerinde belirledikleri iki noktadan eksenlere paraleller çizerek oluşturdukları dik üçgenlerde dikey değişimin yatay değişime oranını incelemeleri ve bu sayede doğrunun eğimi ile eğim açısının tanjantı arasındaki ilişkiyi keşfetmeleri sağlanır. Doğruların eğiminin pozitif ya da negatif sayılar olmasının nedenleri (tanjant değerinin bölgelere göre işaret değiştirmesi) üzerinde tartışılır. Dik koordinat sistemi, bu bağlamda bahsedilen ifadelerin temsil edileceği bir araç olarak tanıtılır. Öğrencilerden bir doğru denklemi ile o doğrunun üzerindeki noktaların apsis ve ordinatları arasında bir ilişki olduğunu fark etmeleri beklenir. Doğru üzerindeki noktaların koordinatları ya da bir doğrunun eğiminden hareketle oluşacak doğru denklemi ile ilgili özellikleri anlamlandırmak için dik koordinat sistemini kullanmaları beklenir. Eğim açısının ölçüsünün 0° ve 90° olduğu durumlardaki doğruların denklemlerini yorumlamada dik koordinat sisteminin nasıl kullanıldığı ve bu doğruların denklemlerinin nasıl ifade edildiği üzerinde durulur.",
+    "Denklemleri verilen doğruların birbirine göre durumlarını (paralellik, kesişme, çakışma) belirlemede de dik koordinat sisteminin kullanılabileceği üzerinde durulur. Dik koordinat sisteminde doğruların eğim açıları ve doğruların üzerindeki noktalar incelenerek bu doğruların paralellik, kesişme ve çakışma durumları belirlenir. Bu süreçte öğrencilerin dik kesişen doğruları incelemeleri sağlanarak eksenlere paralel olmayan ve dik kesişen doğruların eğimleri çarpımının -1 olduğu sonucuna ulaşmaları beklenir. Öğrencilerin dik kesişen doğruların dik koordinat sisteminde grafikleri incelemeleri sağlanır. Öğrencilerin iletişim becerilerinin geliştirilmesi için bu süreç, sınıf içi tartışmalarla yürütülür ( SDB2.1 ) . Bu tartışma sürecinde matematiksel araç ve teknolojilerden yararlanılır ( MAB5 ) .",
+    "Doğrular ve bu doğrulara ait eğim açılarının dik koordinat sisteminde görünümleri incelenerek öğrencilerden iki noktası veya bir noktası ve eğim açısının ölçüsü bilinen doğruların denklemlerinin nasıl oluşturulabileceğini ifade etmeleri beklenir.",
+    "Öğrencilerin sunulan farklı problem durumlarında dik koordinat sistemini bir temsil aracı olarak kullanmaları ve problemleri çözmeleri beklenir. Bir doğrunun eğimi ile o doğrunun denklemi arasındaki ilişkileri incelemeleri; incelemelerden yola çıkarak bu ilişkileri hız-zaman, gelir-gider, telefonların kullanım süresi ile kalan pil süresi gibi gerçek yaşam durumlarında kullanmaları sağlanır ( MAB2 ) . Öğretmenin bir doğru denklemine uyan sayılarla oluşturacağı gelir-gider tabloları, öğrencilerin finansal okuryazarlık becerilerine de katkı sunar ( OB3 ) . Öğrencilerden bu verileri grafikle temsil etmeleri istenir ( MAB3 ) . Öğrencilere bu çıktıya yönelik proje ödevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D14.1"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "alan": [
+      "MAB2",
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/263"
+}

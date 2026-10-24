@@ -1,0 +1,129 @@
+{
+  "unitId": 679,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+  "hours": "24",
+  "description": "“Yazılım Tasarımı ve Programlama” teması kapsamında öğrencilerin problem çözümü için algoritmik düşünebilmesi, algoritma oluşturmada hata ayıklayabilmesi, yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilmesi, blok tabanlı ortamda yazılım geliştirme sürecini yönetebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.5.6.1",
+      "title": "Problem çözümü için algoritmik düşünebilme",
+      "processComponents": [
+        "a) Günlük yaşamda karşılaştığı bir problemi belirler.",
+        "b) Belirlediği problemin girdi ve çıktılarını belirler.",
+        "c) Belirlediği problemin çözümüne ilişkin işlem adımlarını listeler.",
+        "ç) İşlem adımlarını akış şeması ile gösterir."
+      ]
+    },
+    {
+      "code": "BTY.5.6.2",
+      "title": "Algoritma oluşturmada test edebilme-hata ayıklayabilme",
+      "processComponents": [
+        "a) Geliştirdiği algoritmayı test eder.",
+        "b) Hataları ayıklayarak algoritmayı kullanıma hazır hâle getirir."
+      ]
+    },
+    {
+      "code": "BTY.5.6.3",
+      "title": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+      "processComponents": [
+        "a) Yazılım geliştirme sürecinin bileşenlerini tanımlar.",
+        "b) Yazılım geliştirme sürecinin bileşenlerini kullanır.",
+        "c) Yazılım geliştirme sürecinde kullandığı bileşenleri değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.6.4",
+      "title": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme",
+      "processComponents": [
+        "a) Blok tabanlı ortamda yazılım geliştirme sürecini planlar.",
+        "b) Blok tabanlı ortamda yazılımı tasarlar.",
+        "c) Blok tabanlı ortamda yazılımı oluşturur.",
+        "ç) Blok tabanlı ortamda oluşturulan yazılımı değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "algoritma, analitik düşünme, bilgi işlemsel düşünme, değişken, doğrusal mantık, döngü, hata ayıklama, karar, mantıksal operatörler, matematiksel operatörler, operatör, sabit, test etme",
+  "support": [
+    "Öğrencilerin algoritma geliştirme, problem çözme ve veri işleme becerilerini geliştirmek için interaktif simülasyon, uygulama ve çevrim içi araçlar kullanılabilir.",
+    "Öğrencilerin günlük yaşamlarında karşılaştıkları problemleri sınıfa getirip çözüm süreçlerini algoritma tabanlı yöntemlerle analiz etmeleri sağlanabilir.",
+    "Öğrencileri küçük gruplara ayırarak problem çözme ve algoritma geliştirme çalışmalarını takım hâlinde yürütmeleri teşvik edilebilir.",
+    "Algoritmik düşünme süreçlerini görselleştirmek için Frayer diyagramları, akış şemaları, kavram haritaları ve veri görselleştirme araçları kullanılabilir.",
+    "Öğrencilerden algoritmik süreçleri çizim veya modellerle açıklamaları istenebilir.",
+    "EBA ve BTK Akademi benzeri platformlar ile öğrencilere bireysel çalışma için zengin içerikler sunularak konuları pekiştirme fırsatı verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere klasik kurt, kuzu, ot problemine benzer şekilde ancak daha fazla öge içeren ve daha karmaşık kurallar barındıran bir senaryo sunulabilir. Örneğin çiftçi; iki kuzu, bir kurt, iki ot balyası ve bir keçiyi nehrin karşısına geçirmek zorundadır. Ancak botuna en fazla iki nesne alabilir. Kurt yalnız kalırsa kuzuya saldırır, keçi yalnız kalırsa ot balyasını yer, iki kuzu birlikte kalırsa kavga eder. Öğrencilerden senaryolar hazırlayıp çözüm yollarını bulmaları istenebilir ve bu çözüm yollarını rapor hâlinde sunabilirler.",
+    "Öğrenciler, okullarındaki sorunlara yönelik projeler geliştirebilir. Örneğin kütüphanedeki kitapları düzenleyen bir sistem veya okul etkinlikleri için bir duyuru sistemi tasarlayabilirler.",
+    "Çevre kirliliği ya da trafik gibi toplumsal sorunlara yönelik projeler geliştirebilirler. Örneğin yerlere çöp atmayı azaltacak bir uygulama veya trafik akışını iyileştirecek bir yazılım tasarlayabilirler.",
+    "Kodlama yarışmaları, hackathonlar, robotik projeler ve bilim fuarları düzenlenerek öğrencilerin yazılım ve teknoloji alanında kendilerini geliştirmeleri sağlanabilir.",
+    "Öğrencilerden aynı problemi farklı bakış açılarıyla çözmeleri istenebilir. Karmaşık bir problemin çözümü için algoritmalar geliştirmeleri istenebilir. Problem üzerindeki her işlem adımını belirleyerek algoritmaların nasıl işlemesi gerektiğini tasarlamaları sağlanabilir.",
+    "Üniversitelerin bilgisayar bilimleri bölümlerinden öğrenci ve akademisyenlerle iş birliği yapılarak öğrencilerin daha ileri düzey konuları öğrenmelerine olanak sağlanabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; rubrik ölçeği, akran değerlendirme formu, kontrol listesi, Frayer diyagramı, grup değerlendirme formu, gözlem formu, öz değerlendirme formu, puanlama anahtarı, kavram haritası ve derecelendirme ölçeği kullanılarak değerlendirilebilir.",
+    "Performans görevi kapsamında öğrencilerin algoritmik düşünme becerilerini kullanarak ülke çapında yaşanan bir problemi sistematik bir şekilde analiz etmeleri, çözüm önerileri geliştirmeleri ve bu süreci algoritmalar ile akış şemaları kullanarak modellemeleri istenebilir.",
+    "Performans görevi; bilimsel doğruluk, çeşitlilik, gereksiz bilgilerden arındırma, özgünlük ve tamamlanma süresi gibi ölçütler dikkate alınarak dereceleme ölçeği, puanlama anahtarı veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BTY.5.6.1.",
+    "Öğrencilerin günlük yaşamla bağlantı kurmalarını sağlamak amacıyla \"Okuldan eve giderken hangi sorunlarla karşılaşıyorsunuz?\" sorusu yöneltilir. Alınan cevaplar problem olarak tahtaya yazılır. Her öğrenciden günlük yaşamda karşılaştığı bir problemi belirleyip dağıtılan küçük not kâğıtlarına yazarak öğretmenine teslim etmesi istenir ( SDB3.3 ). Öğrencilerin belirlediği problemler sınıfa okunur. Öğretmen tarafından \"Okula zamanında gelememenin nedenleri neler olabilir?\" sorusu yöneltilerek alınan cevaplar problem olarak tahtaya yazılır. Öğrenciler, grup içi çalışma becerilerini ortaya koymaları için beş altı kişilik rastgele öğrenme gruplarına ayrılır. Tahtaya yazılan alt problemler için akıl yürüterek bir veya daha fazla çözüm önerisi geliştirirler ( E3.6 , SDB3.2 ). Bu çözüm önerileri sınıfa sunulur ve diğer öğrencilerden bunları değerlendirip katkıda bulunmaları istenir ( OB1 ). Ayrıca \"Kurt, kuzu, ot\" etkinliği de alternatif olarak uygulanabilir ve animasyonu izletilebilir. Geliştirilen çözüm önerilerinin kapsam ve uygulanabilirliğini değerlendirebilmek için rubrik ölçeği kullanılır. Grupların sunduğu çözüm önerileri ve grup üyelerinin sürece yaptıkları katkı, akran değerlendirme formu ile değerlendirilir.",
+    "Öğretmen \"Bir problemi çözerken neler kullanırız ve çözüm sonunda ne elde ederiz?\" sorusunu sorarak sınıfta tartışma ortamı oluşturur ve öğrencilerin keşfetme arzusu ile sorgulamalar yapmasını sağlar ( E3.8 , SDB2.2 ). Girdi ve çıktı kavramlarının tanımı yapılarak öğrencilerden kendi cümleleriyle belirli bir yöntemle sistematik olarak açıklamaları istenir ( E3.7 ). Bu süreçte öğrencilerin, bilgisayar bulunan sınıflarda dijital kaynakları kullanarak örnek bilimsel problem- leri araştırmaları sağlanır. Öğrencilerden, farklı kaynaklardan bilgi toplarken bilgilerin güvenilirliğini sorgulamaları ve doğru bilgiye nasıl ulaşabileceklerini keşfetmeleri istenir. Böylece öğrenciler, bilimsel gelişmelerin doğru ve güvenilir bilgilere dayanarak gerçekleştiğini fark ederler ( D3.3 ). Her öğrenci grubuna bir problem senaryosu verilir. Gruplar, bu problemin girdi ve çıktısını tanımlayıp sunum, şema ya da çizim araçları kullanarak sınıfa aktarır. Diğer gruplar sunumları değerlendirir, eksik veya geliştirilebilecek yönler hakkında dijital yorum ya da sözlü katkı sunar ( SDB2.1 , SDB2.2 ). Bu problemin girdi ve çıktıları belirlenip sınıfa sunulur. Diğer gruplar eksik ya da eklenmesi gereken noktaları tartışır ( SDB2.1 , SDB2.2 ). Teknolojik altyapı mevcut değilse problemin girdi ve çıktıları kâğıt üzerinde anlatılıp sınıfa aktarılır. Öğrencilerin girdi ve çıktı kavramlarını doğru belirleyip belirlemedikleri kontrol listeleri kullanılarak değerlendirilebilir. Frayer diyagramı ile öğrencilerin kavramsal derinliği ve anlayış düzeyi değerlendirilebilir. Örneğin Frayer modelini uygulamak için sürükle-bırak etkinliği gerçekleştirilebilir.",
+    "Tahtaya/dijital panoya \"Sabah okula zamanında gitmekte zorlanıyorum.\" problemi yazılır. Ardından problemin tanımlanması, problemi oluşturan nedenlerin belirlenmesi, çözüm yollarının düşünülmesi, en uygun çözümün seçilmesi ve çözümün uygulanması adımları için örnek cevaplar verilir. Algoritmanın tanımı yapılır ve algoritma yazımında dikkat edilecek kurallar (başla ile başlama, basit dil kullanımı, adım adım sıralama, emir cümlesi kullanma vb.) belirtilir. Öğrenci grupları içerisindeki üyeler değiştirilir. Her grup, günlük yaşamda karşılaşabileceği bir problemi belirler ( E3.6 ). Bu problemin çözümüne ilişkin işlem adımlarını bilgisayarda/tahtada algoritmik biçimde listeler. Bu listeleme sürecinde dijital araçlar kullanılabilir ( OB1 ). Bu aşamada öğrencilerin toplumsal sorunları fark edip çözüm üretmeye yönelik sorumluluk bilinci geliştirmeleri desteklenir ( D5.1 ). Öğrencilerin problemin çözümüne ilişkin işlem adımlarını ne kadar doğru ve derinlemesine yaptıkları dereceleme ölçeği kullanılarak değerlendirilebilir.",
+    "Problemi çözmede takip edilen adımları göstermek için akış şeması kavramı tanıtılır. Bu kavram, görsel ve örneklerle desteklenen bir sunum yoluyla öğrencilere açıklanır. Akış şemalarında kullanılan temel bileşenler (başlangıç, işlem, karar, yön oku, bitiş gibi) dijital olarak tanıtılır. Öğrenciler beş altı kişilik rastgele gruplara ayrılır ve daha önce oluşturdukları algoritmaları (sıralı, döngüsel, karar yapılı) dikkate alarak bu algoritmaları bir akış şeması hâline getirirler. Her grup, kelime işlemci programları kullanarak şemasını dijital ortamda oluşturur ve kaydeder. Teknolojik altyapı mevcut değilse daha önce oluşturdukları algoritmaları (sıralı, döngüsel, karar yapılı) dikkate alarak gruplar hâlinde kâğıt üzerinde akış şemaları çizer. Böylece her grup, problemin çözüm sürecini adım adım ifade eden bir akış diyagramı hazırlar ( SDB3.3 ). Grup çalışmaları sırasında her öğrencinin sürece etkin şekilde katılımı sağlanır. Görev paylaşımı adil bir şekilde yapılır, öğrenciler iş birliği ve sorumluluk alma becerilerini geliştirir ( D1.2 ). Hazırlanan akış şemaları sınıfa sunulur. Ardından öğrenciler, dosyalarını EBA platformunun bilgi duvarında paylaşır ( OB2 ). Diğer gruplar, her çalışmayı dikkatle inceleyerek eksik veya geliştirilebilir yönler hakkında geri bildirimde bulunur ( E3.10 ). Akış şeması gösterimi yapılandırılmış grid ile değerlendirilebilir. EBA platformunun bilgi duvarındaki bilgi paylaşım sürecinde, öğrencilerin katkıları web 2.0 araçları/e-içerikler aracılığıyla değerlendirilebilir. Grup çalışmalarında her öğrencinin gruba katkısını değerlendirmek için grup değerlendirme veya gözlem formu kullanılabilir.",
+    "BTY.5.6.2.",
+    "Öğrencilere \"Bir yemek veya yol tarifi oluşturduğumuzda doğru çalışıp çalışmadığını nasıl anlarız?\" sorusu yöneltilerek beyin fırtınası yapılır. Algoritmada test etme kavramı açıklanır ve öğrencilerden bu kavramı anlamını değiştirmeyecek şekilde kendi cümleleriyle ifade etmeleri istenir ( SDB2.1 ). Bu süreçte öğrencilerin doğru ve yanlışları ayırt ederek düşüncelerini sistematik bir şekilde ifade etmeleri desteklenir. Sabah okula zamanında gidememe problemi verilir. Her öğrenciden algoritmayı oluşturup birebir uygulayarak hangi adımlarının eksik veya hatalı olduğunu test etmeleri beklenir. Ortaya çıkan test sonuçları sınıfla paylaşılır ve diğer öğrencilerden geri bildirim alınır ( E3.10 ). Ayrıca öğrenci kendisini \"Hataları nasıl fark ettin ve nasıl düzelttin?\", \"Algoritmayı oluştururken en çok zorlandığın adım neydi? Neden?\" vb. sorulara cevap vererek değerlendirir ( SDB1.2 ). Eleştirel düşünme becerilerini kullanarak hatalarını fark etme ve onları düzeltmenin bir öğrenme süreci olduğunu kavrarlar ( D10.1 ). Öğrencilere \"Algoritmayı test etmek neden önemlidir?\" sorusu sorularak değerlendirme yapılır. Öğrencilerin algoritmadaki eksik ya da hatalı adımları tespit ederken kendi gelişimlerini takip etmelerini sağlayan öz değerlendirme formu kullanılabilir. Öğrencilerin etkinlik sürecinde verilen görevleri tamamlayıp tamamlamadıkları kontrol listesi ile değerlendirilebilir.",
+    "Problemin test sonucunda ortaya çıkan hatalar, gelen geri bildirimlere göre listelenir. Listelenen bu hatalar ayıklanarak algoritma kullanıma hazır hâle getirilir. Öğrenciler geri bildirimlere göre hatalarını düzeltirken bu süreçte esnek ve gelişime açık bir tutum sergilerler ( D3.3 ). Öğrencilerin hatalarını fark etme, geri bildirimleri dikkate alma ve geliştirme süreçleri gözlem formu ile değerlendirilebilir.",
+    "BTY.5.6.3.",
+    "Öğretmen öğrencilere \"Bir bilgisayara belirli bir işlemi yaptırmak için nasıl bir yönlendirme yapmalıyız?\" sorusunu yönelterek sınıfta bir tartışma ortamı başlatır. Öğrenciler günlük hayattaki basit işlemleri adım adım nasıl gerçekleştirdiklerini örneklerle açıklar. Öğretmen öğrencilerin verdiği örnekler üzerinden bilgisayarların da bir işlemi gerçekleştirebilmesi için belirli adımlarla yönlendirilmesi gerektiğini vurgular ve bu yönlendirmelerin \"komut\" olarak adlandırıldığını açıklar ( OB1 ). Yapılandırılmış, eğitim odaklı ve öğretmen rehberliğinde kullanılmaya uygun blok tabanlı yazılım geliştirme ortamı tanıtılarak bu ortamda kodlamanın sürükle-bırak yöntemiyle yapıldığı gösterilir. Öğrenciler, öğretmenin yönlendirmesiyle blok tabanlı ortamda sıralı komutlar kullanarak algoritma oluşturma işlemi gerçekleştirir. Blok tabanlı kodlama ile komut verme mantığını tanır ve bu yöntemin hangi durumlarda kullanılabileceğini fark eder.",
+    "Öğrencilere sabit ve değişken kavramlarının tanımı yapılır. \"Günlük yaşamımızdaki sabit ve değişkenlerin neler olduğunu düşünüyorsunuz?\" sorusu yöneltilir. Böylece öğrencilerin hayatlarındaki sabit ve değişkenleri fark etmeleri sağlanır ( SDB1.1 ). Daha sonra öğrencilerin yaşam deneyimleriyle bağlantı kurabilmeleri amacıyla oynadıkları bir oyunu (futbol, saklambaç, voleybol, ip atlama vb.) düşünmeleri istenir. Seçilen oyun içerisindeki sabitler (örneğin oyun alanı, kurallar) ve değişkenler (örneğin oyuncu sayısı, skor, süre) gruplar hâlinde belirlenir. Gruplar, bulgularını dijital ortamda hazırlayarak sınıfa sunar. Teknolojik altyapı mevcut değilse öğrenciler, işlemi kâğıt üzerinde ya da tahtada yaparak temel çıkarımlarda bulunur. Gelen cevaplar tahta ya da dijital panoda oyun isimleriyle birlikte listelenir ( OB1 ). Sabit ve değişken kavramları pekiştirildikten sonra operatör kavramına geçiş yapılır. Öğrencilere \"Okula kaç dakikada geliyorsunuz?\" sorusu yöneltilir. Bu soruyu cevaplamaları için saat kaçta evden çıktıkları ve kaçta okula vardıkları bilgilerini kullanmaları gerektiği vurgulanır. Öğrenciler bu hesaplamaları dijital hesaplayıcı, çizelge ya da kod bloklarıyla destekleyerek yapar ( SDB1.1 , SDB1.2 ). Son olarak farklı grupların oyun analizleri sınıfça karşılaştırılır. Oyunlarda belirtilen sabit ve değişkenler arasında eksik ya da fazla olan unsurlar tartışılır. Bu aşamada öğrencilerin farklı bakış açılarını değerlendirmeleri ve mantıklı çıkarımlarda bulunmaları teşvik edilir ( D10.3 ). Tartışma sonrasında öğrenciler doğru anlamı değiştirmeyecek şekilde kendi cümleleri ile sabit ve değişken kavramlarını tanımlar. Sabit ve değişken kavramlarını pekiştirmek amacıyla web 2.0 aracı ile bir eşleştirme etkinliği yapılabilir.",
+    "Hesaplama yaparken hangi matematiksel işlemi yaptıkları sorulur. Öğretmen işlem içerisinde kullanılan operatör kavramı ve operatörlerin sınıflandırılmasına (aritmetik ve mantıksal) ilişkin bir sunum yapar. Bu süreçte öğrenciler, bilgiyi analiz ederek akılcı ve sorgulayıcı bir yaklaşım geliştirmeye teşvik edilir ( D3.3 ). Mantıksal operatörlerin kullanımı için daha önceden hazırlanan senaryo öğrenciler ile paylaşılır. \"Ayşe A şehrinden B şehrine gitmek üzere yola çıkmıştır. Yol üzerindeki köprülerin kanatları kapalı olduğunda köprülerden geçebilmektedir. Ayşe'nin B şehrine sorunsuz varabilmesi için nasıl bir mantıksal ifade kullanılabilir?\" (Önerilen mantıksal ifade içerisinde en az bir defa VE, VEYA, DEĞİL operatörlerinden biri kullanılmalıdır.) Bu senaryo, üzerinde açık ve kapalı köprü görselleri bulunan bir resim desteği ile sunulur. Örneğin yol üzerinde, \"Köprü 1\" ve \"Köprü 2\" paralel olarak ve devamında \"Köprü 3\" ile \"Köprü 4\" ise bu köprülere seri olarak bulunsun. Şu durumlar ortaya çıkabilir:",
+    "Eğer \"Köprü 1\" VEYA \"Köprü 2\" Kanatları AÇIK ve \"Köprü 3\" VE \"Köprü 4\" Kanatları AÇIK ise AYŞE KARŞIYA GEÇEMEZ",
+    "Eğer \"Köprü 1\" VEYA \"Köprü 2\" Kanatları AÇIK DEĞİL ve \"Köprü 3\" VE \"Köprü 4\" Kanatları KAPALI ise AYŞE KARŞIYA GEÇER",
+    "Eğer \"Köprü 1\" VEYA \"Köprü 2\" Kanatları KAPALI ve \"Köprü 3\" VE \"Köprü 4\" Kanatları KAPALI ise AYŞE KARŞIYA GEÇER",
+    "Öğrencilerden kendilerinin seçeceği bir problemin çözümü için aritmetiksel ve mantıksal operatörleri kullanarak bir algoritma geliştirmeleri istenir. Geliştirdikleri algoritmayı düzenleyip, EBA üzerinden yayımlayarak sınıfla paylaşırlar ( OB2 ). Böylece öğrenciler bilgiyi doğru bir şekilde analiz edip, mantıklı ve tutarlı çıkarımlar yaparak eleştirel düşünme becerilerini geliştirir ( D3.3 ). Mantıksal ve matematiksel operatör kavramlarının tanımı, örnekleri ve özellikleri açısından anlamayı değerlendirebilmek için Frayer modeli veya kavram haritası kullanılabilir. Öğrencilerin operatör kullanımındaki gelişimlerini takip etme amacı ile öz değerlendirme formu kullanılabilir.",
+    "Öğrencilere \"Bir işlemin nasıl yapılacağına karar verirken hangi adımları izleriz?\" ve \"Bir işlemi tekrar etmek gerektiğinde nasıl bir yol izleriz?\" soruları yöneltilir. Bu sorular etrafında öğrencilerin farklı açılardan düşünmeleri ve önceki bilgilerini hatırlamaları amacıyla beyin fırtınası yapılır ( E3.3 ). Blok tabanlı yazılım geliştirme ortamı üzerinde bir sunum yapılır. Karar yapıları, döngüler, koşullar ve diğer temel bileşenlerin işlevi tanıtılır. Öğretmen rehberliğinde örnek bir yazılım uygulaması oluşturularak bu yapıların kullanımına dair canlı bir gösterim yapılır. Teknolojik altyapı mevcut değilse blok tabanlı yazılım geliştirme ortamının temel bileşenleri (karar yapıları, döngüler, koşullar vb.) tahtada çizimler ve görsellerle açıklanır. Bilgisayar ortamı olmadan da anlaşılabilecek basit bir örnek üzerinden bu yapıların nasıl çalıştığı adım adım açıklanır. Böylece öğrenciler yazılım geliştirme sürecinin bileşenlerini tanır ve bu bileşenlerin hangi durumlarda kullanılması gerektiğini fark eder.",
+    "Öğrencilere, öğretmenin rehberliğinde blok tabanlı programlama ortamında belirlenen bir problemi çözmek için uygun karar yapıları veya döngüleri kullanarak basit bir yazılım uygulaması geliştirmeleri yönünde bir performans görevi verilir. Teknolojik altyapı mevcut değilse blok tabanlı programlama ortamlarında nasıl karar yapıları ve döngüler kullanıldığı tahtada örneklerle açıklanır. Öğrencilerden belirlenen bir probleme yönelik olarak bu yapıları kâğıt üzerinde temsil eden bir uygulama (akış şeması ya da blok dizilimi) geliştirmeleri istenir. Uygulama tamamlandıktan sonra öğrenciler performans görevlerini sınıf ortamında birbirlerine sunar. Her grup, diğer grupların çözümlerini inceleyerek hangi bileşenleri neden kullandıklarını, farklı çözüm yollarının avantajlarını ve eksik yönlerini tartışma yoluyla değerlendirir ( OB1 ). Bu süreçte öğrenciler, yazılım geliştirme sürecinde kullandıkları bileşenlerin problem çözmedeki etkisini fark eder ve çözümün ne derece etkili olduğunu kendi deneyimleriyle değerlendirir.",
+    "BTY.5.6.4.",
+    "Öğrenciler grupla çalışma becerilerini geliştirmesi açısından beş altı kişilik rastgele öğrenme gruplarına ayrılır. Her grup kendine göre keyifli ve eğlenceli bir yazılım fikri seçer (oyun yapma, karakter hareket ettirme vb.) ( E2.5 , SDB1.1 , SDB2.2 ). Seçilen yazılım için amaç, kullanıcı, karakter ve objeler, kontrol ve koşullar vb. adımların her biri üzerinde düşünerek planlama yaparlar ( E1.4 , SDB1.2 ). Yazılımın tasarımı bir kâğıt üzerine çizilir veya bir şemaya dökülür. Bu tasarım üzerinden yapılacak ekleme ve çıkarmalara grup üyeleri tarafından karar verilir ( SDB2.2 ). Bu süreçte öğrenciler, farklı fikirleri bir araya getirerek ortak bir ürün oluşturmanın önemini kavrar ( D3.4 ). Seçilen yazılım teması için kullanılacak olan karakter, arka plan, ses, etkileşim ve hareketler belirlenir ( E1.2 ).",
+    "Belirlenen bu bileşenler blok tabanlı ortam kullanılarak tasarlanır ( OB2 ). Teknolojik altyapı mevcut değilse kâğıt üzerinde taslak yazılım tasarımı şeklinde yapılır. Planlanıp tasarlanan bu yazılım örneği sınıfa sunulur. Tasarımların nasıl çalışacağına dair genel bir açıklama yapılır. Tasarımların ne kadar iyi çalıştığı ve ihtiyaçları karşılayıp karşılamadıkları diğer öğrenciler tarafından değerlendirilir ( E3.10 , SDB3.3 , OB2 ). Grup çalışmalarında her öğrencinin gruba katkılarını değerlendirmek için grup değerlendirme formu kullanılabilir. Ayrıca her bir öğrencinin gruba katkısını değerlendirmek amacıyla akran değerlendirme formu kullanılabilir. Planlama ve tasarlama becerilerini tamamlayıp tamamlamadıkları kontrol listesi ile değerlendirilebilir.",
+    "Öğrenci grupları kendi seçtikleri yazılım örneğini blok tabanlı ortamın bileşenlerini (karar ve döngü yapılarını vb.) kullanarak oluşturur. Her grup oluşturduğu yazılımı sınıfa sunar ve kullanılan bileşenlerin yapılarını açıklar. Yazılım geliştirmede kullanılan temel yapıları uygulamalı bir şekilde öğrenir ( OB2 ). Yazılım oluşturma sürecinde her bir öğrencinin katkısı gözlem formu ile değerlendirilebilir. Blok tabanlı ortamda oluşturulan yazılım, puanlama anahtarı ile değerlendirilebilir.",
+    "\"Bir yazılımın iyi olup olmadığını nasıl anlayabiliriz?\" ve \" Bir yazılımı değerlendirirken hangi özelliklere bakmalıyız?\" diye öğrencilere sorulur. Öğrencilerin sorular üzerine düşünüp tartışmaları için gerekli ortam oluşturulur. Yazılım değerlendirilirken dikkat edilmesi gereken kriterler (Çalışıyor mu, hata var mı, kullanıcı için kolay mı, görsel olarak anlaşılır mı?) anlatılır. Gruplar oluşturdukları yazılımı çalıştırarak belirlenen ölçütlere göre değerlendirme yapar ( E3.10 , SDB2.2 ). Gruplar, kendi yazılımlarını nasıl daha iyi hâle getirebilecekleri üzerine yorum yaparak öneriler sunar ( SDB3.3 ). Öğrenciler, yazılımı belirlenen kriterler doğrultusunda gözlem formu kullanarak değerlendirebilir. Akran değerlendirme formu ile her öğrencinin birbirini değerlendirip birbirlerine geri bildirim vermesi sağlanır.",
+    "Performans görevi için öğrencilerden, grup çalışması kapsamında seçtikleri bir yazılım fikrini (örneğin oyun yapma, karakter hareket ettirme vb.) planlamaları ve tasarlamaları istenir. Her grup, yazılımın amacını, kullanıcı kitlesini, karakter ve objelerini, kontrol ve koşullarını belirler. Bu adımlar kâğıt üzerinde veya blok tabanlı ortamda şematik olarak planlanır. Tasarım üzerinde yapılacak ekleme ve çıkarmalar grup üyeleriyle birlikte kararlaştırılır. Belirlenen yazılım teması için kullanılacak karakter, arka plan, ses ve hareketler planlanır ve blok tabanlı ortamda uygulanır. Öğrenciler, oluşturdukları yazılımı sınıfa sunar ve kullandıkları bileşenlerin yapılarını (örneğin karar ve döngü yapıları) açıklar. Yazılım, çalışırlığı, hata durumu, kullanıcı için uygunluğu ve görsel anlaşılabilirliği gibi ölçütlere göre değerlendirilir. Gruplar, kendi yazılımlarını belirlenen kriterler doğrultusunda gözlem formu, akran değerlendirme formu ve puanlama anahtarı aracılığıyla değerlendirir. Ayrıca yazılımın nasıl geliştirilebileceği üzerine önerilerde bulunur. Bu görevle öğrencilerin yazılım geliştirme sürecinde planlama, tasarlama, uygulama ve değerlendirme basamaklarını deneyimlemeleri; grup içinde iletişim, iş birliği, problem çözme ve yaratıcılık becerilerini geliştirmeleri amaçlanır."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D10.1",
+      "D10.3",
+      "D3.3",
+      "D3.4",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.2",
+      "E1.4",
+      "E2.5",
+      "E3.10",
+      "E3.3",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/679"
+}

@@ -1,0 +1,55 @@
+{
+  "unitId": 1276,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "1. TEMA: KANUNDA KÜRDİ DİZİSİNİ ÖĞRENİYORUM",
+  "hours": "22",
+  "description": "Temada öğrencinin kanunda kürdi dizisini öğrenmesi, örnek etüt ve eser çalabilmesi ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.4.1.1",
+      "title": "Kürdi dizisini, özelliklerini örnek etüt ve eserlerle birlikte çalabilme",
+      "processComponents": [
+        "a) Kürdi dizisini seslerini ve mandal sayılarını öğrenmesi için yazılmış etüt veya eserleri çözümler.",
+        "b) Kürdi dizisini seslerini ve mandal sayılarını öğrenerek kanuna özgü duruş pozisyonu alır.",
+        "c) Kürdi dizisini seslerini ve mandal sayılarını öğrenerek kanuna özgü teknikleri kullanır.",
+        "ç) Kürdi dizisini seslerini ve mandal sayılarını öğrenerek kanuna özgü müziksel bileşenleri kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, müzik, perde, Türk müziği, usul",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu artırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazır bulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak kanun hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Etkinlikler yapılırken öğrencilere ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Kürdi makamı eserleriyle taklit oyunu oynanabilir. Uygulamada öğretmen bir kürdi dizisi melodisi çalar ve öğrencilerden aynısını tekrar etmesini isteyebilir. Başlangıçta kısa melodiler, sonra yavaş yavaş uzun cümleler eklenebilir. Grup etkinliği olarak çocuklar sırayla farklı melodilerle birbirlerine soru sorabilirler. Ayrıca mandal dedektifi oyunu oynanabilir. Çocuklara hatalı mandalların olduğu bir kanun verilip onlardan hataları bulmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden kürdi dizisini ve özelliklerini örnek etüt ve eserlerle birlikte teknik çalışmalarla beraber çalabilme ile ilgili performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.4.1.1",
+    "Öğretmen tarafından kürdi dizisinin genel özellikleri anlatılarak dizinin seyri gösterilip solfej çalışmaları yapılır ve öğrencilerin odaklanması sağlanır ( E3.2 ). Öğrencinin çalışacağı eser veya etütler öğrenciyle birlikte çözümlenir. ( KB2.4 ) Öğrencilere kürdi dizisinin sesleri ve mandal sayılarıyla ilgili kanun üzerinde bilgi verilerek öğrencinin mandal sistemine odaklanması sağlanır ( E3.2 ). Daha sonra kürdi dizisinden oluşan etüt ve Türk sanat müziği eserleri, bona ve solfej teknikleri kullanılarak öğretmen tarafından öğrencilere sergilenir ( SDB2.1 ). Öğrencilerin öğretmen tarafından yapılan bona ve solfeji inceleyip etüt ve Türk sanat müziği eserlerinin uygun teknikleri kullanarak önce bona ardından solfejini yapmaları beklenir ( D3.1 ). Ardından bona ve solfeji yapılan etüt ve Türk sanat müziği eserleri öğretmen tarafından kanunda çalınır. Öğrencinin dikkati duruş, oturuş ve mızrap tekniğine çekildikten sonra aynı şekilde öğrencinin de kanunda bunları tekrar etmesi sağlanır ( D3.1 ). Kürdi dizisinde sözlü ve sözsüz eserlerden öğrencinin düzeyine uygun olanlardan seçilip makamın seyrini pekiştirerek yorumlaması beklenir. ( KB2.14 ) Bu aşamada klasik Türk müziğinin farklı formlardaki saz ve sözlü eserlerinden faydalanılabilir ( D19.3 ). Ayrıca öğrencinin dijital platformlarda bu makamda çeşitli formlarda eserler dinleyip konserler seyrederek makamı pekiştirmesi sağlanır ( OB2 ).Öğrencilerden kürdi dizisini ve özelliklerini örnek etüt ve eserlerle birlikte teknik çalışmalarla çalma performans görevi istenebilir. Performans görevi, dereceli puanlama anahtarı öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.3",
+      "D3.1"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1276"
+}

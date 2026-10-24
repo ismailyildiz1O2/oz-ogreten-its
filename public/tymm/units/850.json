@@ -1,0 +1,73 @@
+{
+  "unitId": 850,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Spor Okulları - Oyun ve Taktiksel Farkındalık Dersi",
+  "title": "2. ÜNİTE: OYUNUN DOĞASI",
+  "hours": "18",
+  "description": "\"Oyunun Doğası\" ünitesinde öğrencilerin oyunların nitelik ve fiziksel uygunluklarını anlamaları, oyunları analiz ederek geliştirilmesi gereken yönlerini belirlemeleri ve oyun oynamanın çocuk gelişimine olan olumlu etkilerini keşfetmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "OTF.5.2.1",
+      "title": "Oyunları özelliklerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Oyunlara ait özellikleri belirler.",
+        "b) Oyunları oynanma şekli ve amacına göre ayırır.",
+        "c) Oyunları oynanma şekli ve amacına göre tasnif eder.",
+        "ç) Oyunları oynanma şekli ve amacına göre etiketler."
+      ]
+    },
+    {
+      "code": "OTF.5.2.2",
+      "title": "Oyunlarla fiziksel uygunluğu sağlayabilme",
+      "processComponents": [
+        "a) Oyunlarla fiziksel uygunluk bileşenlerini açıklar.",
+        "b) Oyunlarda fiziksel uygunluk bileşenlerini içeren hareketleri uygular.",
+        "c) Oyunlarla fiziksel uygunluk bileşenlerini geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "çocuk, fiziksel uygunluk, gelişim, iletişim, oyun, oyun kuralları, spor",
+  "support": [
+    "Kamuya ait dijital kaynaklardan (EBA vb.) yararlanılarak oyunların çocuk gelişimine olumlu etkilerini doğrulamaları sağlanabilir. Plan dâhilinde belirli aralıklarla parkur oyununun düzenlenip tekrar oynanması sağlanabilir. Öğretmen, öğrencilerin oyunların temel kurallarını anlamalarına yardımcı olmak için oyun öncesi açıklamalar yapabilir ve gerekirse oyunun kısa bir provasını sınıfta gerçekleştirebilir. Öğretmen, karmaşık kuralları basitleştirerek veya örnekler vererek açıklayabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, öğretmen rehberliğinde mevcut oyunun kurallarını değiştirebilir ve yeni oyun varyasyonları tasarlayabilirler. Öğrencilerden fiziksel uygunluk bileşenlerinin yanı sıra zihinsel egzersizleri de içeren parkurlar hazırlamaları istenebilir. Öğrencilerden yakın çevrelerinde bulunan oyun, park ve rekreasyon alanlarını araştırarak ders ortamında sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; broşür, sınıflandırma tablosu, yapılandırılmış grid, gözlem, öz ve akran değerlendirme formları ile değerlendirilebilir. Öğrencilerden oynadıkları oyunun temel özelliklerini, oyuncuların görev ve sorumluluklarını ve bu unsurlar arasındaki işlevsel ilişkileri güvenilir kaynaklardan doğrulamaları istenebilir. Ayrıca bu ilişkileri gösteren bir bilgi görseli hazırlayarak arkadaşlarına sunmaları beklenebilir. Vücutlarında meydana gelen fiziksel değişiklikleri fark etmeleri için daha önceden seçilmiş bir oyun oynatılabilir. Oyun öncesi ve sonrasında nabız ve vücut ısısı ölçümleri yapılabilir. Fiziksel aktivitenin ölçülebilir yönleri öğrenciler tarafından gözlem formuna kaydedilebilir. Öğrencilerden performans görevi olarak bireysel veya grup hâlinde oyun oynamanın sağlığa etkisini tanıtan broşür hazırlamaları ve bu broşürleri arkadaşlarıyla paylaşmaları istenebilir. Hazırlanan broşür analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "OTF.5.2.1. Öğretmen oyunlara ait özellikleri örnek bir oyunla sunar. Öğrencilerden oyunun özelliklerini; ayrılıp birleşme, beyin fırtınası, sınıf içi tartışma vb. yöntem ve tekniklerden birini kullanarak yorumlamaları istenir ( SDB2.1 ). Seçilen oyun oynatılır. Oyun oynarken öğrencilerin kişisel sınırlara saygı göstermeleri, fiziksel temasa ilişkin kurallara uymaları ve kendilerini güvende hissetmeleri sağlanır ( D8.4 ). Oyunun temel niteliklerini (oyunun kuralları, amacı, atmosferi, oyuncu rol ve sorumlulukları vb.) öğretmen rehberliğinde belirlemeleri istenir. Öğretmen, oyunun çok yönlü bir yapıya sahip olduğunu ve oynanma şekli ile oynanma amacının değişiklik gösterebileceğini açıklar. Öğrencilerin oyunun oynanma şekli ve amacına göre birbirinden ayıran özelliklerini belirlemeleri sağlanır. Söz konusu oyunları, oynanma şekli ve oynanma amacına göre tasnif etmeleri sağlanır. Oyunları sınıflandırma tablosu ile etiketlemeleri istenir. Öğrencilerden oyunun özellikleri ve bu özellikler arasındaki işlevsel ilişkileri güvenilir kaynaklardan doğrulamaları istenir. Ayrıca bu ilişkileri gösteren bir bilgi görseli hazırlayarak sınıfa sunmaları beklenir ( D3.3 , OB4 ).",
+    "OTF.5.2.2. Öğretmen rehberliğinde öğrencilerin fiziksel uygunluk bileşenlerini kavrayabilmeleri için parkur oyunu oynatılır. Öğrencilerin vücutlarında meydana gelen değişiklikleri fark etmeleri için oyun öncesinde ve sonrasında nabız ve vücut ısısı ölçümleri yapılabilir. ( D13.2 , SDB1.1 ). Oyun sonrası fiziksel uygunluk bileşenleri olan esneklik, çabukluk, kas kuvveti, vücut kompozisyonu vb. çocuğun fiziksel gelişimine etki eden yönlerini belirlemek amacıyla tartışma ortamı sağlanır. Tartışma esnasında söz hakkı vermek, söz kesmemek, etkin dinlemek gibi etkili iletişim becerilerinin kullanılması beklenir ( E3.5 , SDB2.1 ). Öğrencilerden fiziksel uygunluk bileşenlerini açıklamaları istenir. \"Oyunda fiziksel uygunluğumuzu geliştirmek için neler yapabiliriz?\" sorusu sorularak öğrencilerden çözüm önerileri sunmaları beklenir ( D3.4 ). Öğrencilerin gruplara ayrılması ve parkurun tasarımı ile ilgili fikirler üreterek katılım göstermeleri sağlanır ( SDB2.1 , SDB2.2 ). \"Bu parkurda hangi fiziksel uygunluk bileşenlerini geliştirebiliriz?\" sorusu sorulur ve her grubun çözüm önerisi sunması istenir ( KB3.3 ). Sunulan öneriler değerlendirilir ve uygun görülen önerilerle parkur tasarlanır. Parkur oyununun yeni şekli ile oynanması sağlanır ( SDB3.1 , SDB3.2 , E2.5 ). Öğrencilerin performansı gözlemlenirken diğer öğrencilerin de cesaretlendirici sözler söylemesi beklenir. \"Hangi yönlerinizin geliştirilmesi için desteğe ihtiyacınız var?\", \"Oyun esnasında performansınızı olumlu ya da olumsuz etkileyen durumlar oldu mu?\", \"Böyle durumlarla karşılaştığınızda neler yapabilirsiniz?\" ( D10.1 ). Öğrencilerin öz değerlendirme formlarını doldurarak kendi performans ve gelişim alanlarını belirlemeleri sağlanır. Akran değerlendirme formlarıyla da arkadaşlarının görüşlerini almaları beklenir. Değerlendirme sonucunda tespit edilen yönlerin geliştirilmesi için fiziksel aktivite planı oluşturulur ( SDB1.2 ). Plan dâhilinde belirli aralıklarla parkur oyunu düzenlenerek tekrar oynanır ( SDB3.1 ). Süreç sonunda oyunlar ile öğrencilerin fiziksel uygunluk bileşenlerini geliştirmeleri sağlanır. Öğrencilerden performans görevi olarak parkurlarda bireysel veya grup hâlinde hareket etmenin bütünsel gelişime etkisini tanıtan broşür hazırlamaları ve bu broşürleri arkadaşlarıyla paylaşmaları istenir ( D16.3 , OB4 , SDB2.2 ). Hazırlanan broşür, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D13.2",
+      "D16.3",
+      "D3.3",
+      "D3.4",
+      "D8.4"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/850"
+}

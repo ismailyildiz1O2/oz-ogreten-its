@@ -1,0 +1,37 @@
+{
+  "unitId": 94032913,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "13. ÖĞRENME ALANI: ALAN ÖLÇME",
+  "hours": "5",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.4.3.3.1",
+      "title": "Şekillerin alanlarının, bu alanı kaplayan birimkarelerin sayısı olduğunu belirler",
+      "processComponents": [
+        "Tanınan şekillerin yanı sıra kareli kâğıt üzerine çizilen yaprak, el gibi girintili şekillerle de çalışılır.",
+        "Örnekler verilirken çevre uzunlukları aynı, alanları farklı şekiller üzerinde çalışmalar yapılır."
+      ]
+    },
+    {
+      "code": "M.4.3.3.2",
+      "title": "Kare ve dikdörtgenin alanını toplama ve çarpma işlemleri ile ilişkilendirir",
+      "processComponents": [
+        "Kare ve dikdörtgenin alanlarını birimkareleri sayarak hesaplar.",
+        "Sayma, tekrarlı toplama ve çarpma işlemleri yapılarak alan hesaplama çalışmaları yapılır.",
+        "Bu çalışmalar yapılırken satır-sütun ilişkisinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

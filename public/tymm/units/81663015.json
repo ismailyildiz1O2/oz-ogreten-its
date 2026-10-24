@@ -1,0 +1,39 @@
+{
+  "unitId": 81663015,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "15. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 4. ÜNİTE: KARŞILAŞTIRMA OPERATÖRLERİ, MANTIKSAL OPERATÖRLER VE KOŞULLU İFADELER",
+  "hours": "9",
+  "description": "Bu ünitede, karşılaştırma operatörleri tanıtılarak aritmetik ifadelerin değerlerini kıyaslama öğretilir. Mantıksal operatörler açıklanır ve örnek uygulama yaptırılır. Koşullara göre karar verme imkanı tanıyan koşullu ifadeler tanıtılarak uygulamalar yaptırılır.",
+  "outcomes": [
+    {
+      "code": "BTY.15.1",
+      "title": "Java programlama dili kurallarıyla karşılaştırma operatörleri ve mantıksal operatörler kullanır",
+      "processComponents": [
+        "Aritmetik ifadelerin değerlerini kıyaslamak için karşılaştırma operatörleri (==, !=, <, >, <=, >=) ile örnek üzerinde açıklama ve uygulama yapılır.",
+        "Mantıksal operatörler (&, |, ^, ||, &&, !) açıklanarak uygulama yapılır."
+      ]
+    },
+    {
+      "code": "BTY.15.2",
+      "title": "Koşullu ifadeleri (if, If-else ve if else-if else) kullanır",
+      "processComponents": [
+        "If koşullu ifadesi kullanımında mantıksal ifade doğru olduğu zaman yapı altında verilen kod parçasının çalıştığı anlatılır.",
+        "If koşullu ifadesi ile uygulama yapılır.",
+        "If-else koşullu ifadesi kullanımında mantıksal ifade doğru olduğu zaman if altındaki kod bloğunun yürütüleceğini, aksi takdirde ise else gövdesi altındaki kod bloğunun yürütüleceği anlatılır.",
+        "If-else koşullu ifadesi ile uygulama yapılır.",
+        "Bir dizi seçenek olduğunda kullanılan çok yönlü seçimlerin (if-else if-else), her koşul için farklı ifadeler içeren bir dallanma yapısı olduğunda oluşturulacağı anlatılır.",
+        "if else-if else koşullu ifadesi ile uygulama yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

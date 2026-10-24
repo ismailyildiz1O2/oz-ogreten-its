@@ -1,0 +1,90 @@
+{
+  "unitId": 414,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+  "hours": "18",
+  "description": "Bu ünitede; maddelerin elektriği iletme durumlarını gösteren deneyler yapılarak günlük yaşamdaki maddeleri iletkenlik ve yalıtkanlık durumlarına göre sınıflandırılması, bir elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenlerin test edilmesi, ayarlanabilir direncin ampul parlaklığına etkisine yönelik çıkarım yapılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Elektriğin İletimi",
+      "processComponents": []
+    },
+    {
+      "code": "FB.6.6.1.1",
+      "title": "Maddelerin elektriği iletme durumlarını gösteren deney yapabilme",
+      "processComponents": [
+        "a) Maddelerin iletme durumlarını test etmek için elektrik devresi kurar.",
+        "b) Deney sonucuna göre maddelerin elektrik iletme durumları ile ilgili analiz yapar. 2. Bölüm: Elektriksel Direnç ve Bağlı Olduğu Faktörler"
+      ]
+    },
+    {
+      "code": "FB.6.6.2.1",
+      "title": "Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme",
+      "processComponents": [
+        "a) Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirleyebilecek bir deney tasarlar.",
+        "b) Ampulün parlaklığının bağlı olduğu değişkenlere yönelik ölçüm yaparak analiz eder."
+      ]
+    },
+    {
+      "code": "FB.6.6.2.2",
+      "title": "Ayarlanabilir direncin ampulün parlaklığına etkilerine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Reosta kullanarak elektriksel direnci belirler.",
+        "b) Direncin değişkenliğini dikkate alarak topladığı verileri kaydeder.",
+        "c) Ampulün parlaklığı üzerinde elektriksel direncin etkili olduğunu değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "iletken maddeler, yalıtkan maddeler, elektriksel direnç, reosta, elektriksel direncin bağlı olduğu faktörler (kesit alanı, uzunluk, iletkenin cinsi)",
+  "support": [
+    "İletken ve yalıtkan maddeler hakkında animasyonlardan yararlanılabilir"
+  ],
+  "enrichment": [
+    "İletken-yalıtkan maddeler ve günlük yaşamdaki kullanım alanları ile ilgili uzman olan kişiler (meslek grupları, üniversitelerin ilgili bölümlerinden araştırmacılar vb.) sınıfa davet edilebilir veya çevrim içi toplantılar planlanabilir. Uzman görüşmesi öncesinde öğrencilerden öncül araştırmalarını yapmaları istenebilir ve sormak istediği soruları belirlemeleri istenebilir. Öğrenciler, elektronik devreler hakkında sahip oldukları bilgiler dâhilinde internetten araştırma yaparak programlar üzerinden sanal devre kurabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktının değerlendirilmesinde eşleştirme testi, çalışma kâğıdı, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Maddelerin elektriği iletme durumlarını gösteren poster, afiş vb. kullanılabilir. Hazırlanan poster, afiş kontrol listesi ile değerlendirilebilir. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenler ile ilgili deneyleri TGA gibi teknikler kullanılarak raporlaştırmaları istenebilir. Bu performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Ayarlanabilir direncin ampulün parlaklığına etkilerine yönelik hazırlanan V diyagramı analitik dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öz, akran değerlendirme formları ile ölçme araçlarında çeşitlilik sağlanabilir."
+  ],
+  "teachingApplications": [
+    "FB.6.6.1.1 Öğrencilerin elektrik devrelerinin kurulması hakkındaki ön bilgi ve becerileri açık uçlu sorularla açığa çıkarılabilir. Öğrenciler gruplara ayrılır ve öğrencilerden grup içinde uyumlu bir şekilde görev bilincine sahip olarak yardımlaşmaları istenir ( D16.3 , D20.2 , SDB2.2 ) . Bilimsel bir yaklaşımla grup üyelerinin kendi aralarında sorumluluklarını üstlenmeleri beklenir ( D3.3 , E2.2 , SDB2.1 ) . Daha sonra aktif bir rol sergileyerek maddelerin elektriği iletme durumlarını test edebilecek elektrik devre düzeneğini kurmaları istenir ( SDB1.2 ) . Deney için uygun ortam ve malzemeler sağlanır. Öğrencilerin sistematik bir şekilde maddelerin iletkenlik durumlarını test etmeleri beklenir ( E3.2 , E3.4 , E3.7 ) . Deney düzeneğini kurarken öğrencilerin çalışmalarını planlı bir şekilde yürütmeleri sağlanır ( D3.2 ) . Öğrencilerin kurdukları devrede maddelerin iletkenlik durumlarını gözlemlemeleri ve gözlem sonuçlarını iletken ve yalıtkan olarak kaydetmeleri beklenir ( OB7 , KB2.7 ) . Kaydettikleri verileri analiz etmeleri istenir. Ayrıca elektriksel iletkenlik ve yalıtkanlık konusuyla ilgili öğrenmeleri zenginleştirmek için öğrenciler dijital ortamlara yönlendirilir ( E3.1 , OB2 , KB2.6 ). Güvenilir genel ağ adresleri yoluyla sanal deneyler yaparak öğrencilerin bilgiyi özetlemeleri sağlanır ( OB1 ) . Performans görevi olarak öğrencilerin hazırladıkları poster, afiş kontrol listeleri ile değerlendirilebilir. Ayrıca yapılandırılmış grid, doğru-yanlış testleri, kısa cevaplı testler, eşleştirme testleri vb. kullanılabilir.",
+    "FB.6.6.2.1 Öğrencilere bir elektrik devresindeki ampul parlaklığının nasıl değişebileceği yönünde açık uçlu sorular sorulur ( E3.1 , E3.8 ) . Bu süreçte, ampul parlaklığının iletkenin uzunluğuna, dik kesit alanına ve cinsine bağlı olarak değişebileceğine yönelik bilimsel sorgulamalaryapmaları istenir ( D3.3 ) . Günlük yaşamdaki aynı sayıda aracın uzun yol ve kısa yol; tek şeritli yol ve çift şeritli yol; çakıllı yol ve asfalt yolda hedefe ulaşma zorluğu gibi benzetmeler hedef alınarak analoji tekniği ile elektriksel direncin bağlı olduğu değişkenler arasında ilişki kurulur ( OB1 ) . Öğrenciler gruplara ayrılır ve öğrencilerden grup içinde görev bilinciyle yardımlaşmaları istenir ( D16.3 , D20.1 , SDB2.2 ) . Bilimsel bir yaklaşımla grup üyelerinin kendi aralarında sorumluluklarını üstlenmeleri beklenir ( D3.3 , E2.2 ) . Ampul parlaklığının değişimini göstermeye yönelik deney düzeneği kurmaları istenir. Öğrencilerin, deney düzeneğini kurarken planlı bir şekilde deneyi yürütmeleri beklenir ( D3.2 ) . Deneyler için uygun ortam ve malzemeler sağlanır. Verilen performans görevleri çerçevesinde, öğrencilerin devredeki iletkenin uzunluğu, dik kesit alanı ve cinsi değişkenlerini sistematik bir şekilde kullanarak devredeki ampul parlaklığını gözlemlemeleri istenir ( E3.7 , SDB1.2 ) . Gözlem sonuçları ile elde ettiği verileri tabloya kaydederek etkin bir şekilde yorumlamaları sağlanır ( OB7 ) . Elekriksel direncin bağlı olduğu faktörlerle ilgili olarak matematiksel bağlantıya girilmemesi istenir. Öğrencilerin deney verilerini raporlaştırmaları istenir. Raporlaştırma sürecinde TGA gibi teknikler kullanılabilir. Öğrenmeleri zenginleştirmek için öğrenciler dijital ortamlara yönlendirilir ( KB2.6 ) . Güvenilir genel ağ adresleri yoluyla öğrencilerin sanal deneyler yaparak bilgiyi özetlemeleri sağlanır ( OB1 , OB2 ) . Öğrencilerin bilgileri özetlemeleri Türkçe dersi ile ilişkilendirilebilir. Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Ampul parlaklığındaki değişimi göstermek için görsel tamamlama testleri kullanılabilir. Tüm sürece ilişkin öğrencilerin öğrenme durumlarını sınamak için tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir.",
+    "FB.6.6.2.2 Öğrencilere elektriksel direnç ile ilgili açık uçlu sorular sorulur ( E3.8 ) . Günlük yaşamdan elektriksel direncin kullanıldığı alanlar örneklendirilebilir. Öğrencilerin elektriksel direncin bağlı olduğu nitelikleri tanımlamaları istenir. Daha sonra öğrencilerin araştırmacı ve sorgulayıcı bir yaklaşımla reostayı kullanarak ampul parlaklığının değiştiği ile ilgili deney düzeneği kurmaları istenir ( D3.3 ) . Reosta bulunmadığı durumlarda basit bir reosta yapmaları sağlanır. Öğrencilerden devredeki reostayı kullanarak ampul parlaklığının değiştiğini gözlemlemeleri beklenir. Daha sonra, gözlem sonuçlarından elde ettikleri verileri toplamaları ve tablolara kaydetmeleri istenir ( OB7 ) . Öğrencilerin kaydettiği verileri değerlendirmeleri istenir ( OB7 , KB2.6 ) . Gözlemleri sonucunda topladıkları bilgiyi özetleyerek reostanın değiştirilebilir bir direnç olduğu çıkarımına ulaşmaları beklenir ( OB1 , SDB1.2 ) . Ohm ve akım yasasına girilmeden direncin birimi verilir. Bu bağlamda, planlı ve sorumluluk bilinciyle elektriksel direnci kapsayan çalışma yaprağı hazırlamaları istenir ( D3.2 , E2.2 ) . Öğrenciler verileri V diyagramı yoluyla raporlaştırabilir. V diyagramı analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Ayrıca öz/akran değerlendirme formları ile ölçme araçlarında çeşitlilik sağlanabilir. Bu süreçte öğrencilerin tarafsız davranmaları istenir ( D6.2 , D1.2 ) . Tüm sürece ilişkin öğrencilerin öğrenme durumlarını sınamak için çalışma kâğıdı, yazılı sınavlar, eşleştirme testleri vb. kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D16.3",
+      "D20.1",
+      "D20.2",
+      "D3.2",
+      "D3.3",
+      "D6.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.1",
+      "E3.2",
+      "E3.4",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.6",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/414"
+}

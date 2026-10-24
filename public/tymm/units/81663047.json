@@ -1,0 +1,54 @@
+{
+  "unitId": 81663047,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "47. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 4. ÜNİTE: VERİ GÖRSELLEŞTİRME",
+  "hours": "7",
+  "description": "Bu ünitede verinin daha iyi anlaşılması, yorumlanması için veri görselleştirmenin öneminden bahsedilir. Çizgi grafiği, histogram grafiği, kutu grafiği, bar grafiği ve saçılma grafiklerinin nasıl oluşturulacağı gösterilir.",
+  "outcomes": [
+    {
+      "code": "BTY.47.1",
+      "title": "Veriyi görselleştirmek için çizgi grafiği çizer",
+      "processComponents": [
+        "Çizgi grafiği çizmek için plot() fonksiyonunun kullanımı ile ilgili bir uygulama yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.47.2",
+      "title": "Veriyi görselleştirmek için histogram grafiği çizer",
+      "processComponents": [
+        "Histogram grafiği çizmek için hist() fonksiyonunun kullanımı ile ilgili bir uygulama yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.47.3",
+      "title": "Veriyi görselleştirmek için kutu grafiği çizer",
+      "processComponents": [
+        "Kutu grafiği çizmek için box() fonksiyonunun kullanımı ile ilgili bir uygulama yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.47.4",
+      "title": "Veriyi görselleştirmek için bar grafiği çizer",
+      "processComponents": [
+        "Bar grafiği çizmek için bar() fonksiyonunun kullanımı ile ilgili bir uygulama yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.47.5",
+      "title": "Veriyi görselleştirmek için saçılım grafiği çizer",
+      "processComponents": [
+        "Bar grafiği çizmek için scatter() fonksiyonunun kullanımı ile ilgili bir uygulama yaptırılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

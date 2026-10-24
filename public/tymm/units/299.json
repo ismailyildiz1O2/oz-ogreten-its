@@ -1,0 +1,137 @@
+{
+  "unitId": 299,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "2. TEMA: SAYILAR VE NİCELİKLER (2)",
+  "hours": "43",
+  "description": "Bu temada öğrencilerin basit, bileşik ve tam sayılı kesirler ile denk kesirleri oluşturmak için matematiksel temsillerden yararlanabilmesi; birim kesirler ile paydaları eşit olan kesirlerin büyüklük küçüklük ilişkilerini çözümleyebilmesi; bir çokluğun basit kesir kadarını veya basit kesir kadarı verilen çokluğun tamamını çözümleyebilmesi; paydaları eşit kesirlerle toplama ve çıkarma işlemini yapılandırabilmesi ve gerçekleştirebilmesi; uzunluk ve kütle ölçüm biriminin alt ve üst birimlerini birbirlerine çevirebilmesi amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "MAT.4.1.6",
+      "title": "Basit, bileşik ve tam sayılı kesirleri kullanmak için matematiksel temsillerden yararlanabilme",
+      "processComponents": [
+        "a) Basit, bileşik ve tam sayılı kesirlerin temsillerini tanır.",
+        "b) Günlük yaşam durumuna uygun basit, bileşik ve tam sayılı kesir temsillerini belirler.",
+        "c) Belirlediği basit, bileşik ve tam sayılı kesirlerin temsillerini kullanır."
+      ]
+    },
+    {
+      "code": "MAT.4.1.7",
+      "title": "Denk kesirleri kullanmak için matematiksel temsillerden yararlanabilme",
+      "processComponents": [
+        "a) Denk kesirlerin temsillerini tanır.",
+        "b) Denk kesirlere uygun temsilleri belirler.",
+        "c) Belirlediği denk kesirlerin temsillerini kullanır."
+      ]
+    },
+    {
+      "code": "MAT.4.1.8",
+      "title": "Birim kesirlerin büyüklük küçüklük ilişkilerini çözümleyebilme",
+      "processComponents": [
+        "a) Birim kesirleri büyüklük küçüklük bağlamında ifade eder.",
+        "b) Birim kesirler arasındaki büyüklük küçüklük ilişkisini belirler."
+      ]
+    },
+    {
+      "code": "MAT.4.1.9",
+      "title": "Paydaları eşit olan kesirlerin büyüklük küçüklük ilişkilerini çözümleyebilme",
+      "processComponents": [
+        "a) Paydaları eşit kesirleri büyüklük küçüklük bağlamında ifade eder.",
+        "b) Paydaları eşit kesirler arasındaki büyüklük küçüklük ilişkisini belirler."
+      ]
+    },
+    {
+      "code": "MAT.4.1.10",
+      "title": "Bir çokluğun basit kesir kadarını ve bir basit kesir kadarı verilen çokluğun tamamını çözümleyebilme",
+      "processComponents": [
+        "a) Bir çokluğu oluşturan eş parçaları ve eş parçaları verilen bir çokluğu kesire uygun olacak şekilde belirler.",
+        "b) Çokluk ile eş parçalar ve eş parçalar ile çokluk arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "MAT.4.1.11",
+      "title": "Paydaları eşit kesirlerle toplama ve çıkarma işlemini yapılandırabilme",
+      "processComponents": [
+        "a) Paydaları eşit kesirlerle toplama ve çıkarma işleminde mantıksal ilişkileri ortaya koyar.",
+        "b) Paydaları eşit kesirlerle toplama ve çıkarma işleminde kendi öz bilgisi ile elde ettiği ilişkilere dayalı bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.4.1.12",
+      "title": "Paydaları eşit kesirlerle toplama ve çıkarma işlemi gerektiren günlük yaşam problemlerini çözebilme",
+      "processComponents": [
+        "a) Problemin çözümü için uygun stratejiyi oluşturur.",
+        "b) Problemi çözmek için uygun stratejiyi kullanır.",
+        "c) Problemin çözümünü kontrol eder."
+      ]
+    },
+    {
+      "code": "MAT.4.1.13",
+      "title": "Uzunluk ve kütle birimlerinin kendi içerisindeki dönüşümlerini yorumlayabilme",
+      "processComponents": [
+        "a) Uzunluk ve kütle birimlerinin kendi içindeki ilişkileri inceler.",
+        "b) Uzunluk ve kütle birimlerini kendi içinde birbirine dönüştürür.",
+        "c) Uzunluk ve kütle birimlerini kendi içinde farklı birim cinsinden yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "• basit kesir, bileşik kesir, tam sayılı kesir, denk kesir, milimetre, Sembol ve Gösterimler, • mm",
+  "support": [
+    "Kesir temsilleri ile kesirlerle toplama ve çıkarma işlemlerine yönelik oyun hamuruyla çalışmalar yapılır. Kesir temsilleri ile ilgili görseller verilerek kesir temsillerini belirleyip boyamaları istenir. İçeriği kolaylaştırmak için öğrencilere görsel ipuçları verilerek süreç desteklenir. Etkileşimli öğrenmenin kalıcı olduğu ilkesinden yola çıkılarak gruplar oluşturulup grup içerisinde öğrencilerin birbirlerine yönelik basit dönüşüm gerektiren sorular sormaları sağlanır. Olanaklar çerçevesinde EBA ve dijital pano uygulamaları üzerinden bu çalışma gerçekleştirilir. Bunun yannda ölçüm birimlerini temsil eden görseller ile afiş hazırlanarak sınıfta öğrencilere sergilenir."
+  ],
+  "enrichment": [
+    "Parçaları denk kesirlerin eşleştirmesiyle tamamlanan bir yapboz tasarlamaları istenir. Bütünü kare, dikdörtgen veya daire olacak şekilde yapboz çeşitleri tasarlatılır. Bununla birlikte çeşitli kesir modelleri inşa ettirilir.",
+    "Çevrim içi araç kullanılarak kesir çeşitleri, denk kesirleri, birim kesirler ile paydaları eşit olan kesirlerin büyüklük küçüklük ilişkisini ve paydaları eşit olan kesirlerin toplamlarını gösteren eğitsel oyunlar oynatılır.",
+    "Öğrencilerin uzunluk ve kütle konusunda problemleri kurup çözmeleri istenir. Kütle konusunda modern bilimin temellerini atan Isaac Newton'un hayatı ve çalışmaları konusunda kısa bir sunum hazırlama görevi verilir. Öğrencilerin bu süreçte görsel temsilleri dijital araçlar ile bulmaları, sunumlarını dijital ortamda yapmaları sağlanır.",
+    "Dijital ortamda milimetre ve gram gibi küçük birimleri kullanmayı gerektiren, hassasiyet gerektiren durumlar (cerrahi işlemler, teknolojik tasarımlar gibi) hakkında araştırma yapmaları istenir.",
+    "Öğrencilerden uzunluk ve kütle ölçü birimlerini söylemeleri istenir. Sonrasında farklı ülkelerin (farklı birimleri kullanan ülkelere yönlendirilerek) hangi ölçüm sistemini kullandığını dijital araçlar üzerinden araştırmaları istenir. Öğrencilerin bazı ülkelerin metrik sistemi kullanmadıklarını keşfetmeleri sağlanır. Bu birimlerin farklı olmasının nasıl bir karışıklığa yol açabileceğini tartışmaları ve çözüm önerileri sunmaları sağlanır. Öğrencilerin kendi boylarını hem santimetre cinsinden hem de fit ve inç cinsinden grafikler üzerinde göstermeleri istenir."
+  ],
+  "assessment": [
+    "Bu temaya ait öğrenme çıktıları; boşluk doldurma, tanılayıcı dallanmış ağaç, eşleştirme soruları, kontrol listesi, kavram haritası, performans görevi (afiş, pano vb.) ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Temanın sonunda öğrencilere bütün öğrenme çıktılarını kapsayan (kesir çeşitleri, denk kesirler, birim kesirler ile paydaları eşit kesirleri büyüklük küçüklük ilişkilerini yorumlama, bir çokluğun basit kesir kadarını belirleme, paydaları eşit kesirlerle toplama ve çıkarma işlemlerini yapılandırma ve çözme) bir performans görevi verilebilir. Öğrencilerin öğrenme süreçleri bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilerin ölçüm yapmalarına yönelik performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.4.1.6 Öğrencilerle pay ve payda kavramlarının gözden geçirileceği etkinlikler planlanır. Etkinliklerde öğrencilere basit, bileşik ve tam sayılı kesir modelleri verilerek aynı bütüne göre azlık çokluk durumları hakkında fikir yürütmeleri sağlanır. Böylece bir bütünden büyük kesirleri anlamaları sağlanır. Konu ile ilgili çalışmalar yapılırken kesir türlerinin basit, bileşik ve tam sayılı temsillerinin sırasına göre ele alınmasına dikkat edilir. Kesir temsilleri tanıtılan etkinliklerde günlük yaşamdan somut örnekler verilir (bir su bardağının yarısı, iki bütün elma, bir bütün kek vb.). Öğrencilere birden fazla bütünün parçalarının nasıl ifade edileceği hakkında sorular sorularak çıkarımda bulunmaları sağlanır. Öğrencilerin kesir modellerindeki bütünleri değil, kesri oluşturan parçaları saymaları kesir temsillerini belirlemeyi kolaylaştırır.",
+    "Öğrencilere kesir temsillerini sayı doğrusunda göstermeden önce kesir şeritleri kullanılarak basit, bileşik ve tam sayılı kesirler modellemelerle gösterilir. Öğrenciler kâğıt şeritleri, kesirlerin gösterimi olacak şekilde renklendirerek modeller. Sayı doğrusundaki aralıkların öğrencilere hissettirilmesinde eş uzunluktaki kâğıt şeritler kullanılır. Oluşturulan kesir şeritleri sayı doğrusunda uygun yerlere yerleştirilir. Bu aşamada öğrencilere her bir parçanın sayı doğrusundaki yeri ile kesri ilişkilendirmeleri için fırsat verilir. Daha sonra kesir şeritleri yerine çizgiler kullanılarak sayı doğrusundaki parçalar gösterilir. Yapılan temsiller basit, bileşik ve tam sayılı kesirlerin incelenmesi için kullanılır. Kesir şeritlerindeki gösterimler sayı doğrusuna aktarılarak öğrencilerin kesir şeridi ile sayı doğrusunda gösterimi arasında bağlantı kurmalarına yardımcı olunur ( SDB1.1 ) .",
+    "Basit, bileşik ve tam sayılı kesirlerin temsilleri verildikten sonra öğrenciler eşleştirme soruları ile değerlendirilebilir. Ayrıca öğrencilerin kesir çeşitlerine yönelik çalışmaları için dijital araçlardan da yararlanılabilir ( OB2 ) . Öğrencilerin bu süreçleri kontrol listesi ile değerlendirilebilir.",
+    "MAT.4.1.7 Öğrencilere aynı görsele ait birden fazla yapbozun farklı sayıda eş parçalara bölünmüş şekli gösterilir. Öğrencilerin farklı değerdeki parçaların temsil ettiği kesirlerin denk olduğunu fark etmeleri sağlanır. Öncelikle öğrencilere kâğıt şeritler katlatılarak denk kesirler oluşturmaları istenir. Kâğıt şeridin ilk katlamada (1/2), ikinci katlamada (2/4) ve üçüncü katlamada (4/8) oluşturduğu denk kesirler gösterilir. Böylece öğrencilere başka hangi denkliklerin mümkün olup olmadığı şeklinde sorular sorularak verilen cevaplar üzerinde tartışma yapılır ( SDB2.1 ) . Yapılacak çalışmalarda açık uçlu sorular üzerinde öğrencilerin düşünmelerine ve çözüm yolları bulmalarına fırsat verilir. Bu çalışmalarda kesirlerin günlük yaşamda karşılaşılan eşit paylaşım durumları ile ilişkilendirilmesine yönelik örnekler verilir ( D1.2 ) . Ardından öğrencilerin kesir temsillerini karşılaştırmaları istenir. Bu şekilde öğrencilerin belirtilen iki kesrin aynı miktarı veya çokluğu temsil ettiğini fark etmeleri sağlanır. Süreçte basit kesirlerden yararlanılır. Denk kesirleri anlamak için uzunluk modelleri de kullanılır. Kesirleri temsil etmede kullanılan uzunluk modeli aynı zamanda bir matematiksel araç olduğu için öğrenciler bu aracı bağlamlarındaki anlamları ile tanımış olur ( MAB5.1 ) . Sınıf içersinde bir ip kullanarak öğrencilerin sayı doğrusu oluşturmaları sağlanır. Yapılan etkinliklerde işlemsel uygulamalara girilmez. Ardından sayı doğrusu üzerinde denk kesirler içeren gösterimler yapılır. Öğrencilerin öğrenme süreçleri boşluk doldurma ile değerlendirilebilir. Ayrıca öğrencilerin denk kesirlere uygun temsilleri belirlemesinde dijital araçlardan yararlanması sağlanır ( OB2 ). Öğrencilerin bu süreçleri kontrol listesi ile değerlendirilebilir.",
+    "MAT.4.1.8 Bir bütünü oluşturan eş parçalara dikkat çekmek için öğrencilerin bütünden parçaya ulaşabileceği yönergeler, günlük yaşam durumlarıyla ilişkilendirilerek hazırlanır. Paydası en çok 20 olan kesir temsilleri modellenerek bütün kesirlerin birim kesirlerden oluştuğu belirtilir. Oluşturulacak parçaların kesir temsilleri istenir. Bu şekilde öğrenciye bütünü oluşturan her bir parçanın birim kesri oluşturduğu ifade edilir. Daha sonra öğrencilere iki veya daha fazla kesir verilir. Öğrencilerden bu kesirlerin denk olup olmama durumlarını belirlemeleri istenir. Öğrencilerin öğrenme süreçleri tanılayıcı dallanmış ağaç ile değerlendirilebilir. Kesirler denk değilse hangisinin daha küçük veya daha büyük olduğu hakkında öğrencilerin tartışmaları sağlanır ( SDB2.2 ) . Böylece öğrencilere kesirler arasındaki büyüklük küçüklük ilişkisi sezdirilmiş olunur. Daha sonra öğrencilere aynı bütünü temsil ettiği varsayılan bir dizi birim kesrin modellerle gösterimi yapılır. Öğrencilerden modeller yardımı ile birim kesirler arasındaki büyüklük küçüklük ilişkisini sorgulamaları beklenir. Ardından birim kesirleri matematik temsillerine uygun büyüktür ve küçüktür sembollerini kullanarak karşılaştırmaları istenir ( SDB2.1 ) . Öğretmen tarafından birim kesir modelleri ve matematiksel temsillerinin olduğu oyunlar tasarlanır. Tasarlanan oyunlara öğrencilerin etkin bir şekilde katılımı sağlanır ( E2.5 ) . Birim kesirler arasındaki büyüklük küçüklük ilişkisine yönelik gösterimi için dijital araçlardan (EBA vb.) yararlanır. Öğrencilerin birim kesirlerde büyüklük küçüklük ilişkileri boşluk doldurma ve eşleştirme soruları ile değerlendirilebilir.",
+    "MAT.4.1.9 Öğrencilere paydaları eşit olan kesirlerin büyüklük küçüklük ilişkilerini belirleyebilmeleri için günlük yaşamdan karşılaşabilecekleri örnekler verilir. Daha sonra öğrencilerden paydaları eşit olarak modellenmiş en çok üç kesri matematiksel temsillerle belirleyerek karşılaştırmaları istenir. Karşılaştırma yapılan kesirlerin aynı büyüklükteki paydalardan oluştuğuna dikkat çekilir. Öğrencilerden paydaları eşit kesirlerin payları arasındaki büyüklük küçüklük ilişkisini belirlemeleri ve kendi ifadeleri ile karşılaştırmaları istenir ( SDB2.1 ) . Öğrencilere kesirler ile ilgili oyunlar ve etkileşimli etkinlikler düzenleyerek paydaları eşit kesirlerin büyüklük/küçüklük ilişkilerini açıklama fırsatı verilir ( SDB2.2 ) . Daha sonra paydaları eşit olan kesirlerin sayı doğrusu üzerinde gösterimleri yapılır. Sayı doğrusu üzerindeki gösterimlerden yararlanarak öğrencilerin paydaları eşit olan kesirlerin büyüklük küçüklük ilişkilerini kendi ifadeleri ile açıklamaları istenir ( SDB1.1 ) . Öğrenciler paydaları eşit olan kesirlerin büyüklük küçüklük ilişkilerinin verilmesine yönelik dijital araçlardan (EBA vb.) yararlanır. Öğrencilere paydaları eşit olan kesirlerin büyüklük küçüklük ilişkisine yönelik boşluk doldurma ve kavram haritaları kâğıdı verilebilir. Öğrenme süreçleri kontrol listesi ile değerlendirilebilir.",
+    "MAT.4.1.10 Bir çokluğun eş parçalarını belirlemek için öğrencilere günlük yaşamdan örnekler (meyve dilimleri, eşit büyüklükte yapboz parçaları gibi) verilir. Gösterilen çoklukları belirleyerek kesir temsili olarak ifade etmeleri istenir. Öğrencilerin bu çokluklarla payı, paydasından küçük olan kesirleri ifade etmeleri sağlanır. Böylelikle çokluk ile eş parçalar arasındaki ilişki ortaya konularak bir bütünden oluşan basit kesirlere dikkat çekilmiş olur. Daha sonra öğrencilere bir çokluğun belirtilen basit kesir kadarını bulmak için bütüne ulaştıracak payda miktarı kadar çokluk verilir. Bu çokluklardan kendi öz bilgileriyle elde ettiği ilişkiye dayalı olarak kesirden bütüne [2/5+1/5=3/5 işleminin ardından bütüne (5/5'e) nasıl ulaşacağını belirlemesi şeklinde] ulaşır. Öğrencilerce verilen çokluk ile eş parçalar arasındakiilişki belirlenir. Öğrencilerin bir çokluğun basit kesir kadarını veya bir basit kesir kadarı verilen çokluğun tamamını belirleme süreci eşleştirme soruları ile değerlendirilebilir. Çokluğu belirtilen sayı en çok üç basamaklı olmalıdır. Sayılar ile kesrin çarpma ve bölme işlemlerine girilmez.",
+    "MAT.4.1.11 Paydaları eşit olan kesirlerle toplama ve çıkarma işleminin mantıksal ilişkiler oluşturmasına yönelik öğrencilere bir problem durumu verilir. Paydaları eşit kesirlerle toplama ve çıkarma işlemleri yapılırken alan ve uzunluk modellerinin kullanılması öğrencilerin mantıksal ilişkiler oluşturmasına yardımcı olur.",
+    "Eş parçalara ayrılabilecek nesnelerle (kâğıt, kek vb.) ya da modellerle iki bütün eş parçalara ayrılır. Öğrencilerin kesir temsillerini ifade etmeleri ve paydalarının eşit olduğunu vurgulamaları sağlanır. Bu iki bütünün toplanması ya da çıkarılması nesneler ya da modellerle somut bir şekilde gösterilir. Bu işlemin kesir temsilleriyle ve toplama ya da çıkarma işlemine ilişkin sembollerle ifade edilmesi sağlanır. Paydaların eşit olduğu vurgulanarak paydası eşit kesirlerin toplanması ya da çıkarılması sürecine ilişkin mantıksal ilişkileri fark etmeleri ve ifade etmeleri beklenir. Yapılan çalışmalarda öğrencilerin paydası eşit kesirlerle toplama ve çıkarma işlemi yaparken paydanın değiştirilmeden yazılacağı bilgisini elde etmeleri sağlanır. Bu durumda öğrenciler yaptığı işleme yönelik elde ettiği bilgilere dayalı bir bütün oluşturmuş olur.",
+    "Paydaları eşit kesirlerle toplama ve çıkarma işleminin mantıksal ilişkiler kurmasına yönelik etkinlikler sayı doğrusu veya cetvel üzerinde gösterilir. Bu şekilde öğrencilere farklı gösterimler kullandırarak elde ettiği bilgilere dayalı bir bütün oluşturması sağlanır ( SDB1.2 ) . Paydaları eşit olan kesirlerle toplama ve çıkarma işlemlerinin mantıksal ilişkiler oluşturmalarına yönelik boşluk doldurma soruları kullanılabilir.",
+    "MAT.4.1.12 Öğrencilere günlük yaşamlarında karşılaşabileceği bir problem durumu verilir. Verilen örneklerde paydaları eşit kesirlerle toplama ve çıkarma işlemi yapmaya olanak sağlayacak durumların olmasına dikkat edilir. Devamında paydaları eşit olan kesirlerle toplama ve çıkarma işlemi gerektiren durumlar üzerinde tartışma ortamı oluşturulur ( SDB2.2 ) . Bu aşamada problem örgüsünde artma ve eksilme durumlarına dikkat çekilerek öğrencilerin toplama ve çıkarma işlemlerindeki ön bilgilerini yeni durumlara aktarmaları sağlanır ( SDB1.1 ) . Daha sonra öğrenciler küçük gruplara ayrılarak günlük yaşam durumlarına dayalı paydaları eşit kesirlerle toplama ve çıkarma işlemi gerektiren bir problem belirler. Öğrencilerin belirlenen bu problemin çözümü için stratejiler geliştirmeleri sağlanır. Öğrenciler, geliştirdikleri çözüm stratejilerini kullanarak problemi çözer. Daha sonra problemin çözümü kontrol edilir. Öğrenme sürecinin sonunda öğrencilerin paydaları eşit kesirlerle toplama ve çıkarma işlemi gerektiren problemin çözümü için uygun stratejiyi seçmeleri, seçtikleri stratejiyi kullanmaları ve çözümlerini kontrol etmelerini gerektiren performans görevi verilebilir ( SDB1.2 , SDB3.3 ) . Öğrencilerin öğrenme süreçleri bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.4.1.13 Öğrencilerin uzunluk ölçü birimi olarak metrenin ast ve üst katları olabileceğini sorularla fark etmeleri sağlanır (Tüm katlar bu aşamada verilmeyeceği için kural olarak onar artma ve azalmadan bahsedilmez.). Büyüklüklerini deneyimlemeleri için metre ile ölçümler yapıldıktan sonra santimetre ile de ölçümler yapılır. Bu iki uzunluk ölçü birimi arasındaki dönüşümler gösterilip etkinlikler yapılır. Ölçülerin dönüştürülmesi, nesnelerin farklı ölçü birimleri kullanılarak ölçülmesini içeren çalışmalar yapılır. Daha hassas ölçümler için daha küçük birimlere ihtiyaç olduğunu hissetmeleri sağlanır. Örneğin altın tasarımcılarının bir kolye ucu tasarlarken hangi ölçü birimi kullanacağını araştırmaları istenebilir. Sonra cetvellerindeki her iki santimetre arasındaki eşit aralıklı çizgilerin ne anlama geldiği sorulup alt birimin ismi verilir ( MAB5.1 ) . Öğrencilere milimetre ile neleri ölçebilecekleri sorulup sınıftaki uygun nesneler ölçtürülerek bu uzunluğu deneyimlemeleri sağlanır. Sonrasında santimetre milimetre dönüşümleri gösterilerek öğrencilerin etkinlik yapmaları sağlanır. Yeterince pekiştirme yapıldıktan sonra milimetre-metre dönüşümleri gösterilerek bununla ilgili öğrencilerin arkadaşları ile etkileşim hâlinde olduğu etkinlikler yapılır ( SDB2.1 ) . Kendilerinin ve birbirlerinin hatalarını görmeleri ve bunları düzeltme yollarını aramaları sağlanır ( D10.1 ) .",
+    "Kilometreye olan ihtiyacı fark etmeleri amacıyla kilometre ile ifade edilebilecek uzaklıklar söylenir. Bu tür uzaklıkların ölçülmesinde metrenin yeterli olamayabileceğini ve üst bir birime ihtiyaç olduğunu fark etmeleri sağlanır. Öğrencilerin bir üst uzunluk birimine ihtiyaç olduğunu fark etmelerinden sonra kilometre ile ilgili açıklamalar yapılır. Kilometre ile ilgili deneyimler konusunda yakın çevrede yapılabilecek gözlemlerden yararlanılır. Sosyal bilimler disiplini ile ilişkili olarak dijital harita üzerinden öğrencilerin merak ettiği şehirler arasındaki mesafeleri gösteren bir içerik hazırlamaları sağlanarak ölçüm yapmaları sağlanır ( OB7 , SDB1.1 ) . \"Metre-kilometre\" dönüşümü gösterildikten sonra basitten zora doğru çeşitli örnekler yapılır. Yapılan dönüşümler eşleştirme sorularıyla değerlendirilebilir. Öğrencilerin olanaklar doğrultusunda dijital bir kroki hazırlamalarını ve evlerine 100 m, 200 m, 1 km veya 2 km mesafedeki yerleri çizmeleri istenir. Harita veya kroki üzerinde farklı mesafelerdeki yerlerin gösterilmesine yönelik performans görevleri verilebilir. Verilen performans görevi bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Öğrencilere farklı kütlelerdeki (800 gr, 500 gr, 1 kg, 2 kg gibi) nesneler gösterilir ve nesneler dijital tartıda tartılarak nesnelerin üzerine kütleleri yazılır. Sonra öğrencilerin kendilerinden istenen ağırlığı (3 kg, 1500 g gibi) dijital tartıda elde edebilmeleri için tartı üzerine nesneleri koymaları istenir. Öğrenciler örneklerle bu alıştırmaları yeterince deneyimledikten sonra önce nesnelerin kilogram cinsinden kütlelerini tahmin edip ardından nesneleri ölçmeleri istenir. Sonrasında kütlesi gram ile ifade edilebilecek örnekler gösterilip kütlesi sorularak örneklerin kütlelerini tahmin edip ardından ölçmeleri istenebilir. Tahminleri ölçüm sonuçlarıyla karşılaştırılır. Tahminlerinin gerçek değere ne kadar yakın olduğu tablo üzerinden incelenir. Ardından çevrelerindeki 1 kg, 500 g, 250 g, 100 g, 50 g ve 1 g'lık nesneleri bulmaları istenir. Bu nesnelerin kütleleri ile eşit ölçüde çamur topakları yapmaları istenir. Çamur topaklarının şekilleri değiştirilerek eş kütledeki nesneleri temsil eden çamur topaklarının farklı şekillere dönüştürülmesinde kütlelerinin değişmediği ifade edilir ( E2.5 , E3.3 ) . Sonra ton ile ifade edilebilecek büyük kütleli cisimlere örnekler verilir (1 kamyon kum gibi). Ortaya çıkan çok büyük sayılara bir çözüm üretmeleri istenerek yönlendirmeler ile bir üst birimin gerekliliğini keşfetmelerine yönelik sorular sorulurak \"ton\" birimine ulaşmaları sağlanır ( E3.8 ) . Ton ile kilogram arasındaki ilişki verilerek dönüşüm örnekleri yapılır. Etkileşimli etkinlikler ve çalışma kâğıtları ile öğrencilerin ton-kilogram ve gram dönüşümlerini yapmaları sağlanabilir. Dönüşümlerin yapılmasında doğru yanlış ve eşleştirme sorularından yararlanılarak öğrenciler değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D10.1"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.3",
+      "E3.8"
+    ],
+    "alan": [
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/299"
+}

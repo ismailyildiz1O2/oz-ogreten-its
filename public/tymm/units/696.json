@@ -1,0 +1,93 @@
+{
+  "unitId": 696,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "1. TEMA: HAREKET VE ZİNDELİK",
+  "hours": "12",
+  "description": "Bu temada öğrencilerin oyun ve fiziksel aktiviteler sırasında vücudunda meydana gelen değişimleri sorgulayabilmeleri, fiziksel hareketsizliğin getirdiği sonuçları yorumlayabilmeleri, fiziksel aktivite ve zindelik arasındaki ilişkiyi çözümleyebilmeleri ve fiziksel uygunluk kavramını açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.5.1.1",
+      "title": "Fiziksel aktiviteler sırasında vücudunda meydana gelen değişimleri sorgulayabilme",
+      "processComponents": [
+        "a) Fiziksel aktiviteler sırasında vücudunda meydana gelen değişimleri tanımlar.",
+        "b) Vücudunda meydana gelen değişimler hakkında sorular sorar.",
+        "c) Vücudunda meydana gelen değişimler hakkında bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Topladığı bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BES.5.1.2",
+      "title": "Fiziksel hareketsizliğin getirdiği sonuçları yorumlayabilme",
+      "processComponents": [
+        "a) Fiziksel hareketsizliğin getirdiği sonuçları inceler.",
+        "b) Fiziksel hareketsizliğin getirdiği sonuçları farklı örneklerle açıklar.",
+        "c) Fiziksel hareketsizliğin getirdiği sonuçları yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "BES.5.1.3",
+      "title": "Fiziksel aktivite ve zindelik ilişkisini çözümleyebilme",
+      "processComponents": [
+        "a) Fiziksel aktivite ve zindeliğe ilişkin bileşenleri belirler.",
+        "b) Fiziksel aktivite ve zindeliğe ilişkin bileşenler arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "BES.5.1.4",
+      "title": "Fiziksel uygunluk kavramını açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "Beslenme, fiziksel aktivite, fiziksel uygunluk, hareketsizlik, kalp atış hızı, terleme, uyku, zindelik",
+  "support": [
+    "Vücutta meydana gelen değişimleri göstermek için kas gruplarını, nabız ölçüm yöntemlerini veya fiziksel aktivitenin etkilerini anlatan posterler ve modeller kullanılabilir. Vücutlarında meydana gelen değişiklikleri kaydetmekte zorlanan öğrenciler için akran desteğine başvurulabilir. Fiziksel aktivite ve zindelik ilişkisi ile ilgili yazılı, görsel ve dijital materyaller sunulabilir. Farklı fiziksel uygunluğa sahip kişiler (sporcu, masa başında çalışan vb.) ile ilgili senaryolar canlandırmaları istenebilir."
+  ],
+  "enrichment": [
+    "Hazırlanan parkurlar görevlerin belirli bir süre içinde tamamlanması, geçilmesi gereken engellerin sıklaştırılması gibi unsurlarla daha karmaşık hâle getirilerek öğrencilerin vücutlarında meydana gelen değişimleri sorgulamaları sağlanabilir. Öğrencilere adımsayar, nabız ölçer gibi teknolojik araçlar sunularak aktiviteler sırasında vücutlarında meydana gelen değişimlere ilişkin topladıkları verilerin doğruluğunu test etmeleri sağlanabilir. Öğrencilerin sınıf arkadaşlarının nabız, terleme düzeyleri, solunum hızı, adım sayısı gibi verilerini analiz edip yorumlamaları sağlanabilir. Fiziksel aktivite, beslenme, uyku ve diğer yaşam tarzı faktörlerinin kronik hastalıklar (kalp hastalıkları, diyabet, obezite vb.) üzerindeki etkilerini araştırmaya ve bu konu ile ilgili yayınları okumaya teşvik edilirler. Spor hekimleri, fizyoterapistler, diyetisyenler veya egzersiz uzmanları ile iletişim kurmaları ve onlardan bilgi ve geri bildirim almaları sağlanabilir. Öğrencilerin kendi aktivitelerini ve zindelik durumlarını (uyku düzeni, adım sayısı vb.) kaydedip takip edebilecekleri uygulamaları kullanmaları ve kendi verilerini analiz etmeleri istenerek teknolojinin olumlu yanlarını kavramaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları performans görevi, öğrenme günlüğü, açık uçlu sorular ve öz değerlendirme formu ile değerlendirilebilir. Öğrencilere günlük hayatta yaptıkları aktiviteler sonrası vücutlarında meydana gelen değişimleri içeren günlük tutma; fiziksel hareketsizliğin olumsuz etkilerini önlemek için bireylerin ve toplumun neler yapabileceğini içeren afişler, broşürler veya poster hazırlamaları ile ilgili performans görevi verilebilir. Bu performans görevi süreç bileşenlerini içine alan ölçütlerden oluşan analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenciler okul sonrası zamanlarında uyku sürelerini, beslenme şekillerini, teknoloji kullanım sürelerini ve fiziksel aktivitelerini not etmelerine yönelik öğrenme günlüğü kullanabilir. Verilen öğrenme günlüğü kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.5.1.1. Öğrencilerin okulun uygun alanlarında merdiven çıkma, eğimli bir rampada yürüme, düz bir alanda hızlanıp yavaşlama gibi aktivitelere katılımı sağlanır. \"Şu an nasıl hissediyorsunuz?\", \"Nefes alışınız değişti mi?\", \"Hızlandığınızda vücudunuzda ne gibi değişiklikler fark ettiniz?\" gibi sorularla öğrencilerin vücutlarında meydana gelen değişimleri gözlemlemeleri ve fark etmeleri sağlanır ( SDB1.1 , KB2.2 ). Sorulara verilen yanıtlar göz önünde bulundurularak öğrencilerin aktiviteleri yeniden deneyimlemeleri ve fiziksel aktiviteler sırasında vücutlarında meydana gelen değişimleri tanımlamaları sağlanır. Öğrenciler denge tahtası, hedef atışları, su kovası taşıma, minder üzerinde yürüme, yön bulma, tırmanma duvarı, sürünme tüneli gibi etkinlikleri içeren macera parkuruna dâhil edilir. Öğrencilerin gruplar hâlinde macera parkurunu deneyimlemeleri sağlanır. Uygulamalar sırasında \"Tırmanırken neler hissettiniz? Hissettiklerinizle ilgili bana ya da arkadaşlarınıza sormak istediğiniz sorular var mı?\" gibi sorularla öğrencilerin oyun ve fiziksel aktiviteler sırasında vücutlarında meydana gelen değişimler hakkında soru sormaları sağlanır ( SDB1.1 ). Öğrencilerin soruları sorarken kendilerini etki altında kalmadan özgürce ifade etmeleri desteklenir ( D11.2 , E3.8). Öğrencilerden parkur sırasında vücutlarında meydana gelen değişimleri gözlemleyip not almaları istenir ( KB2.2 ). \"Şu anki nabzınızı ölçüp not alınız, terleme durumunuzu gözlemleyiniz.\" ifadesiyle oyun ve etkinlikler sırasında öğrencilerin vücutlarında meydana gelen değişimlerle ilgili veri toplamaları ve bunları kaydetmeleri sağlanır ( SDB1.2 , KB2.6 , OB1 ). Oyun ve fiziksel aktiviteler sırasında aktivitenin şiddetine bağlı olarak nabız, terleme gibi fizyolojik tepkilerin değişebileceği vurgulanarak öğrencilerin aktivite sürecinde topladığı bilgilerin doğruluğunu değerlendirmeleri sağlanır ( KB2.6 , KB2.17 , E3.10 ). Öğrencilerden fiziksel aktiviteler sırasında vücutlarında meydana gelen değişimler hakkında topladıkları ve doğruluğunu değerlendirdikleri bilgileri tablolaştırmaları istenir. \"Hangi aktivitelerde nabzınız çok arttı?\", \"Terleme düzeyiniz hangi aktivitede daha azdı?\" gibi sorularla öğrencilerin topladıkları bilgiler üzerinden çıkarım yapmaları sağlanır. Öğrencilerin topladıkları bilgileri karşılaştırmaları ve değerlendirmeleri istenerek bir sonuca ulaşmaları sağlanır ( KB2.10 , SDB3.3 ). Günlük yaşamlarında yaptıkları aktivitelerden sonra vücutlarında meydana gelen değişimleri günlüğe kaydetmeleri istenir ve \"günlük tutma\" performans görevi verilebilir ( SDB1.2 ).",
+    "BES.5.1.2. Öğrencilere fiziksel hareketsizliğin bireylerin fiziksel, duygusal ve sosyal sağlığına etkilerinin neler olabileceği ile ilgili sorular sorularak öğrencilerin bu etkileri düşünmeleri sağlanır ( KB2.8 ). Fiziksel hareketsizliğin şişmanlık, obezite, diyabet, kas kaybı, kalp-damar hastalıkları gibi sağlık sorunlarına neden olabileceği; bunun yanında öz güven kaybı, stres, motivasyon eksikliği gibi duygusal etkiler yaratabileceği üzerinde durularak öğrencilerin fiziksel hareketsizliğin getirdiği sonuçları incelemeleri sağlanır. Fiziksel hareketsizlik nedeniyle oluşabilecek sorunları ve bu sorunların günlük hayata etkilerini içeren metinler, istatistikler, grafikler veya videolar sürece dâhil edilerek öğrencilerin gruplar hâlinde fiziksel hareketsizliğin getirdiği sonuçları farklı örneklerle açıklamaları istenir ( SDB2.2 , OB4 , OB7 ). Her grubun fiziksel hareketsizliğin getirdiği sonuçlara ilişkin düşüncelerini paylaşması istenir ve sonuçları kendi bakış açıları ile yeniden ifade etmeleri sağlanır ( SDB2.1 ). Öğrencilere fiziksel hareketsizliğin sonuçlarına ilişkin farkındalık oluşturmayı hedefleyen, fiziksel hareketsizliğin olumsuz etkilerini önlemek için bireylerin ve toplumun neler yapabileceğini içeren afişler, broşürler veya posterler hazırlama görevi verilebilir ( SDB1.2 , D13.4 , OB4 ).",
+    "BES.5.1.3. Öğrencilere fiziksel aktivite ve zindeliğe ilişkin bileşenlerle ilgili çeşitli senaryolar sunularak öğrencilerin fiziksel aktivite ve bu bu bileşenler arasındaki ilişkiyi belirlemeleri sağlanır. Örneğin \"Bir gece çok güzel uyuduğunuzu hayal edin, spor yaparken enerjiniz nasıl olur?\", \"Bir hafta boyunca düzenli olarak fiziksel aktivite yaptığınızı düşünün, vücudunuzda nasıl değişiklikler olur?\" gibi sorular yönlendirilir. Sorular aracılığıyla öğrencilerin beslenme, uyku, teknoloji bağımlılığı ve fiziksel aktivite bileşenlerinin zindelik üzerindeki etkilerini fark etmeleri sağlanır ( SDB1.1 ). Verilen cevaplar doğrultusunda sorular yapılandırılarak öğrencilerin düzenli aktivite, sağlıklı beslenme, uyku gibi fiziksel aktivite ve zindeliğe ilişkin bileşenleri belirlemeleri sağlanır. Öğrencilerin gruplar hâlinde \"sağlıklı beslenme, fiziksel aktivitenin vücuda etkileri, uykunun zindelik ile ilişkisi, teknoloji bağımlılığının zindelik ve fiziksel aktivite üzerindeki olumsuz etkileri\" başlıklarını temel alarak araştırma yapmaları istenir ( KB2.6 ). Öğrencilerden bu kavramları eleştirel bir bakış açısıyla tartışmaları ve fiziksel aktivite ile zindelik arasındaki ilişkiyi belirlemeleri sağlanır ( SDB2.1 , SDB3.3 , E3.10 ). Tartışmalarda obezite, diyabet, kalp hastalıkları, postür bozukluğu gibi konulara değinilerek öğrencilerin fiziksel aktivite ve zindelik arasındaki ilişkiyle ilgili çıkarım yapmaları sağlanır ( KB2.10 ). Bu bağlamda öğrencilerin sağlıklı beslenme ve fiziksel aktiviteye katılma konusunda istekli olmaları beklenir ( D13.1 , D13.2 ). Öğrencilere öğrenme günlükleri verilerek onlardan uyku sürelerini, beslenme şekillerini, teknoloji kullanım sürelerini ve fiziksel aktivitelerini not etmeleri istenebilir.",
+    "BES.5.1.4. Öğrencilerden merdiven çıkma, uzun süre yürüme, ağır bir çantayı taşıma gibi günlük aktiviteleri zorlanmadan yapabilmek için vücutlarının hangi özelliklere sahip olması gerektiğini tahmin etmeleri istenir. Bu sorularla fiziksel uygunluk kavramına yönelik merak uyandırılır ve öğrenciler düşünmeye teşvik edilir ( E1.1 ). Öğrencilerin ip atlama, hafif tempoda koşma, diz çekme gibi fiziksel aktiviteleri içeren uygulamalara katılımı sağlanır. \"Bu aktiviteleri yaparken zorlandınız mı?\", \"Bu aktiviteleri düzenli olarak yapmanın faydaları neler olabilir?\", \"Fiziksel aktiviteleri daha kolay yapabilmek için neye ihtiyaç duyarsınız?\" gibi sorular sorularak fiziksel uygunluğun bileşenleri (kalp-damar sistemi dayanıklılığı, kas kuvveti, kas dayanıklılığı, esneklik, vücut kompozisyonu vb.) ile ilgili açıklamalar yapılır. Bileşenlerin sağlıklı bir yaşam sürdürmedeki rolleri açıklanarak fiziksel uygunluğu sağlamak ve korumak için dengeli beslenme, aktif bir yaşam tarzı benimseme konularında öğrencilerin istekli olmaları beklenir ( D13.2 ). Öğrencilerden fiziksel uygunluk kavramını açıklamaları istenir ve bu süreç açık uçlu sorular ile değerlendirilebilir. Ayrıca fiziksel uygunluk bileşenlerini içeren öz değerlendirme formları ile öğrencilerin kendi fiziksel uygunluklarına yönelik değerlendirme yapmaları istenebilir ( KB2.17 , SDB1.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D13.1",
+      "D13.2",
+      "D13.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.17",
+      "KB2.2",
+      "KB2.6",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/696"
+}

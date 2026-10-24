@@ -1,0 +1,69 @@
+{
+  "unitId": 1324,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "3. TEMA: NÜANSLAR VE SES DEĞİŞTİRİCİ İŞARETLER-2",
+  "hours": "18",
+  "description": "Temanın içeriğini öğrencilerin nüanslar ve ses değiştirici işaretlerle eser ve etütlerde bona yapmaları ve kemanda doğru teknikle çalmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.7.3.1",
+      "title": "Nüanslar ve ses değiştirici işaretlerin ritmik bileşenleri ayırt edilerek akıcı ve bütünsel şekilde okuyabilme",
+      "processComponents": [
+        "a) Değiştirici işaretler ve nüanslar kullanılarak ritmik ve ezgisel bileşenleri tanır.",
+        "b) Ritmik ve ezgisel bileşenleri ayırt eder.",
+        "c) Ritmik ve ezgisel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "KMN.7.3.2",
+      "title": ". Nüansları ve ses değiştirici işaretleri kullanarak eser ve etüt çalabilme",
+      "processComponents": [
+        "a) Çalınacak eserleri çözümler.",
+        "b) Ses değiştirici işaretleri ve nüansları çalarken ritmik ve ezgisel bileşenleri tanır.",
+        "c) Çalarken kemana özgü teknikleri kullanır.",
+        "ç) Çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, yay, metronom, teorik bilgiler",
+  "support": [
+    "Öğrencilerle bire bir çalışmalar yapılabilir. Öğrenciler motive edilerek kısa etütler metronom eşliğinde çaldırılabilir. Etütler tekrar edilerek metronomla çalışılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler gruplara ayrılır ve her gruba kısa eserler verilerek bu eserleri çalmaları istenebilir. Çalışmalar sonucunda iletişimin güçlenmesi için sonatinler verilerek sınıf ortamında eşlikli dinletilere yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; ritmik okuma çalışmaları, işaret tanıma etkinlikleri, gözlem formu, açık uçlu sorular, uygulamalı okuma performansı ve kısa yazılılar ile değerlendirilebilir. Öğrenciye bu bileşenleri içeren kısa bir müzik cümlesi verilir ve öğrenciden bunu sesli olarak doğru ritmik yapı ve vurgularla okuması performans görevi olarak istenebilir. Performansın video ya da ses kaydı alınabilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.7.3.1",
+    "Çift diyez ve çift bemolün özellikleri anlatılır ve eser üzerindeki yazımı gösterilip bona ve solfej çalışmaları akıcı ve bütünsel şekilde okunur. Bona ve solfej çalışmaları yapılırken öğrencilerin odaklanması sağlanır ( E3.2 ). Kısa etütler seçilir. Kısa etütler öğretmenle eşlikli olarak çalınır. Grup çalışmalarında grup ikiye ayrılır, birinci grup bona ve solfej yaparken diğer grup etüdü çalar ( SDB2.2 ). Öğretmen bu çalışmada öğrencilerin ses uyumuna, ritmik yapıya ve kemanda ses tınısına bakar. Öğrenci motivasyonunu sürdürerek çalışmayı tekrar ettirir ( D12.1 ). Öğrencilerin çalışmayı iş birliği yaptığı kişiyi dinleyerek ritmik devam etmeleri sağlanır ( SDB3.1 ). Nüans ve ses değiştirici işaretlerin bulunduğu eser ve etütlerde bona yapılırken ritme ve nota sürelerine dikkat edilir. Solfej çalışmasında nüans ve değiştirici işaretler doğru şekilde uygulanmalı, ses tınılarına dikkat edilerek icra gerçekleştirilmelidir. Çift diyez (##) işareti, ilgili notanın sesini bir tam ses tizleştirir. Buna karşılık, çift bemol (♭♭) işareti ise notanın sesini bir tam ses pesleştirir. Öğrenci, bu çalışmada değiştirici işaretlerin ses üzerindeki etkilerini fark eder; çift diyez ile sesin tizleştiği, çift bemol ile sesin pesleştiği bilgisini edinir ( KB2.6 ). Nüans ve ses değiştirici işaretlerde bona yapılırken nota süreleri ayırt edilir. Solfeje başlamadan önce sorular sorularak ses dizilimi ve nüanslar öğretmen eşliğinde yapılır (E3.8 ). Öğretmen etkin şekilde dinlenir ve solfej yapılırken ses değiştirici işaretlere ve nüanslara dikkat edilerek önceki derslerde işlenen nüans ve değiştirici işaretlerle ilgili karşılaştırma yapılır. Benzerlik ve farklılıklar incelenir. Öğrencilerin nüanslar ve ses değiştirici işaretler ile ilgili bilgi toplayıp yeni kavramlara aşina olmaları sağlanır. Konuyla ilgili parçalar dinletilir ve aralarındaki tını farklılıkları incelenir ( OB9 ). Kavramlarla ilgili bona ve solfej bir arada etütler aracılığıyla uygulanır. Kısa etüt ve parçaları çalınmadan önce solfeji yapılır. Öğretmen keman eşliğinde öğrenciye eşlik eder. Bu çalışma grup eşliğinde yapılır, bir grup bona yaparken diğer grup ise solfej eşliğinde devam eder ( E2.2 ). Öğretmen çalışmaları dijital ortamda örneklerle izletir.",
+    "KMN.7.3.2",
+    "Nüanslar ve ses değiştirici işaretler ile ilgili öğretmen, öğrencilere verdiği eser veya etütleri çalarak ses aşinalığı sağlar. Öğrenciler, ritim ve nota çalışmaları yaparak bona ve solfejle birlikte parçanın çözümlenmesini yapar. Kısa etütleri öğretmen rehberliğinde bona ve solfej yaptıktan sonra çalmaları istenir. Öğrenciler, duruş ve tutuş pozisyonunu ayarladıktan sonra kemana özgü teknikleri kullanarak öğretmen rehberliğinde eser çalmaya geçer. Eserlerde kendini geliştirmeye yönelik çalışmalara devam eder ( D3.1 ). Öğrenciler; nüans çalışmalarında diminuendo, ritardando, crescendo ve decrescendo nüanslarını kullanarak grup veya bire bir çalışmalar yapar. Öğretmen bu çalışmalarla birlikte genel bilgilere de yer verir. Öğrencilere crescendo teriminin parçanın başladığı notadan sona erdiği notaya kadar notaların şiddeti artırılarak, diminuendo veya decrescendo teriminin parçanın başladığı notadan sona erdiği notaya kadar notaların şiddeti hafifletilerek uygulandığı bilgisi verilir. Rittardando teriminin ise parçanın sonuna doğru yavaşlatılarak bitirilmesi gerektiği aktarılır. ( OB1 ). Öğrenci ses değiştirici ve nüans terimlerini kemanda çalarken ritmik yapı ve ezgisel yapıya dikkat ederek çalışmaları uygular. Öğretmen çalışmalarda bazı eserler dinletir. Öğrencilerin terim ve nüanslara kulaklarının aşina olmasını sağlar. Dinlenilen eserlere tekrarlar sonucunda grup olarak eşlik etmeleri istenir ( D4.2 ). Öğrenciye bu bileşenleri içeren kısa bir müzik cümlesi verilir ve öğrenciden bunu sesli olarak doğru ritmik yapı ve vurgularla okuması performans görevi olarak istenebilir. Performans video ya da ses kaydına alınabilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.1",
+      "D3.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1324"
+}

@@ -1,0 +1,53 @@
+{
+  "unitId": 1591,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY II · 3.Tema: Akıl Yürütme Ve İşlem Oyunları",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.2.3.1",
+      "title": ". Dünya genelinde oynanan akıl yürütme ve işlem oyunlarını tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.2.3.2",
+      "title": ". Akıl yürütme ve işlem oyunlarında çözüm basamaklarını oyunun özelliğine göre sıralayabilme. OOEZO.2.3.3. İleri seviye akıl yürütme ve işlem oyunlarında akıl yürütme, işlem ve strateji biçimlerini uygulayabilme",
+      "processComponents": [
+        "a) İleri seviye akıl yürütme ve işlem oyunlarında parçadan bütüne ilişki kurarak sonuca varır.",
+        "b) İleri seviye akıl yürütme ve işlem oyunlarında genelden genele ilişki kurarak akıl yürütür.",
+        "c) İleri seviye akıl yürütme ve işlem oyunlarında genelden özele ilişki kurarak akıl yürütür.",
+        "d) İleri seviye akıl yürütme ve işlem oyunlarında özelden özele ilişki kurarak akıl yürütür."
+      ]
+    },
+    {
+      "code": "OOEZO.2.3.4",
+      "title": "Akıl yürütme ve işlem oyunlarında kendine özgü stratejiler geliştirir",
+      "processComponents": [
+        "a) Akıl yürütme ve işlem oyunlarının çözümü için bir strateji oluşturur.",
+        "b) Stratejiyi kullanarak akıl yürütme ve işlem oyunu çözer.",
+        "c) Akıl yürütme ve işlem oyununun çözümünü̈ kontrol eder."
+      ]
+    },
+    {
+      "code": "OOEZO.2.3.5",
+      "title": "Geri dönüşüm malzemelerini kullanarak akıl yürütme ve işlem oyunu tasarlayabilme",
+      "processComponents": [
+        "a) Akıl yürütme ve işlem oyununun mevcut durumunu inceler.",
+        "b) Akıl yürütme ve işlem oyununun mevcut yapısından kopmadan, geri dönüşüm malzemeleri kullanarak yeniden düzenler.",
+        "c) Akıl yürütme ve işlem oyununun mevcut durumunu, nesnel ve doğru anlamını değiştirmeden, kendi cümleleriyle yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "asarım, geri dönüşüm, matematiksel işlem",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme (MAB2.1. Matematiksel Çözümler Geliştirme SBAB12. Mantıksal Muhakeme (SBAB12.1. Akıl Yürütme Biçimlerini Uygulama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1591"
+}

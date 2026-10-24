@@ -1,0 +1,61 @@
+{
+  "unitId": 1713,
+  "grade": 0,
+  "gradeName": "AFET BİLİNCİ DERSİ I. DÜZEY",
+  "subject": "Afet Bilinci Dersi",
+  "title": "DÜZEY I · 3. Ünite: Doğa Kaynaklı Afetler",
+  "hours": "24",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AB.1.3.1",
+      "title": "Doğa kaynaklı afetler ve türleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Doğa kaynaklı afetler ve türleri hakkında bilgi toplayabileceği araçları belirler.",
+        "b) Doğa kaynaklı afetler ve türleri hakkında belirlediği araçlardan bilgileri bulur.",
+        "c) Doğa kaynaklı afetler ve türleri hakkında belirlediği araçlardan ulaşılan bilgileri doğrular.",
+        "ç) Doğa kaynaklı afetler ve türleri hakkında belirlediği araçlardan ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "AB.1.3.2",
+      "title": "Doğa kaynaklı afetlerin neden ve sonuçlarını sorgulayabilme",
+      "processComponents": [
+        "a) Doğa kaynaklı afetlerin nedenleri ve sonuçlarıyla ilgili merak ettiği konuları tanımlar.",
+        "b) Doğa kaynaklı afetlerin nedenleri ve sonuçlarıyla ilgili sorular sorar.",
+        "c) Doğa kaynaklı afetlerin nedenleri ve sonuçlarıyla ilgili bilgi toplar.",
+        "ç) Doğa kaynaklı afetlerin nedenleri ve sonuçlarıyla ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Doğa kaynaklı afetlerin nedenleri ve sonuçlarıyla ilgili topladığı bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "AB.1.3.3",
+      "title": "Doğa kaynaklı afetlere karşı alınabilecek önlemleri yorumlayabilme",
+      "processComponents": [
+        "a) Doğa kaynaklı afetlere karşı alınabilecek önlemleri inceler.",
+        "b) Doğa kaynaklı afetlere karşı alınabilecek önlemleri bağlamdan kopmadan dönüş türür.",
+        "c) Doğa kaynaklı afetlere karşı alınabilecek önlemleri nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "afet dirençli toplum, doğa kaynaklı afet türleri, çığ, deprem, heyelan, psikolojik iyi oluş, sel, volkanik patlama",
+  "support": [
+    "Öğrencilerden doğa kaynaklı afet türlerinden birini seçerek bu afeti yansıtan bir resim yapmaları istenebilir. Ayrıca öğrencilere doğa kaynaklı afetlerle ilgili görseller verilerek neden-sonuç eşleştirmesi yapmaları sağlanabilir. Bunun yanı sıra doğa kaynaklı afetlere karşı alınabilecek önlemlerle ilgili doğru-yanlış oyunu oynatılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden doğa kaynaklı afetlerden birini seçerek bu afetle ilgili alınabilecek önlemleri konu alan dijital bir çizgi roman hazırlamaları istenebilir. Ayrıca öğrencilerden seçtikleri afetin neden ve sonuçlarını yansıtan bir zihin haritası oluşturmaları ve aynı afet türüne yönelik bir tatbikat planı hazırlamaları da beklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde akran değerlendirme formu, öz değerlendirme formu, kontrol listesi, dereceli puanlama anahtarı, performans görevi vb. ölçme ve değer lendirme araçları kullanılabilir. Performans görevi olarak öğrencilerden doğa kaynaklı afetlerle ilgili bilgi kitapçığı, resimli bilgi kartları, sunum vb. ürün hazırlamaları istenebilir. Performans görevi dereceli puanla ma anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AB.1.3.1",
+    "Öğrencilere doğa kaynaklı afetler ve türleriyle ilgili görseller, bilgi kartları, belgeseller, videolar vb. kaynaklar sunulur ( OB1 , OB2 , OB4 ). Bu aşamada afetlerin sadece doğa olayı olmadığı, yerleşim yerlerinin konumu nedeniyle oluşan maruziyet ile can ve mal kaybı riskinin arttığı vurgulanır. Ardından öğrencilerden doğa kaynaklı afetler ve türleri hakkında bilgi toplamak için kullanabilecekleri araçları belirlemeleri istenir. Öğrenciler gruplara ayrılarak belirledikleri araçlar aracılığıyla doğa kaynaklı afetler ve türlerine ilişkin bilgi toplar. Bu süreçte öğrencilerin sorumluluk bilinciyle hareket etmeleri ve çalışmalarını özveriyle yürütmeleri beklenir ( D16.3 ). Grup çalışmasının ardından öğrencilerden topladıkları bilgilerin doğruluğunu değerlendirmek amacıyla “Küçük Grup Tartışma” tekniğini kullanarak birbirlerinin bilgilerindeki doğru ve eksik yönlerini ortaya koymaları ve gerekçeli açıklamaları sınıf ortamında sunmaları istenir ( SDB2.1 , SDB2.2 , SDB3.3 ). Performans görevi kapsamında öğrencilerden doğa kaynaklı afetler ve türleri ile ilgili özgün bir şekilde bilgi kitapçığı, resimli bilgi kartları, sunum vb. ürün oluşturarak ulaştıkları bilgileri kaydetmeleri istenebilir ( E3.3 ). Ürünlerin sınıfta sunulması sağlanır. Öğrencilerin doğa kaynaklı afetler ve türleriyle ilgili hazırladığı çalışmalar dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "AB.1.3.2",
+    "Öğrencilere doğa kaynaklı afetlerin nedenleri ve sonuçları ile ilgili örnek olaylar sunulur. Öğrencilerden doğa kaynaklı afetlerin nedenleri ve sonuçlarına ilişkin merak ettikleri konuları tanımlayarak listelemeleri istenir ( E1.1 ). Öğrencilerin tanımlanan konular üzerinden “5N1K” tekniğiyle afetlerin nedenleri ve sonuçlarına ilişkin sorular sorması sağlanır ( SDB2.1 ). Öğrencilerden doğa kaynaklı afetlerin nedenleri ve sonuçlarıyla ilgili haberler, resmî kurum raporları, AFAD verileri gibi görsel ve yazılı kaynakları grup çalışmasıyla inceleyerek bilgi toplamaları istenir ( OB1 , OB4 , SDB2.2 ). Doğa kaynaklı afetlerle ilgili hari talardan yararlanılarak doğa kaynaklı afetlerin nedenleri ve sonuçları mekânsal yönden incelenir ( SBAB10.3 , SBAB7.5 ). Öğrencilerin sorumluluk değeri kapsamında görev bilincine sahip olmalarının, yardımseverlik değeri kapsamında afetler karşısında dayanışma ve fedakârlık göstermelerinin gerekliliği vurgulanır ( D16.3 , D20.2 ). Öğrencilerden kaynak lardan topladıkları bilgilerin doğruluğunu “Büyük Grup Tartışması” tekniği ile değerlendir meleri istenir ( E3.10 ). Bu tartışma sürecinde farklı fikirleri ve verileri tarafsızca değerlen direrek adalet değerine uygun hareket etmenin, arkadaşlarının görüşlerini sonuna kadar sükûnetle dinleyerek sabır göstermenin önemi vurgulanır ( D1.2 , D12.2 ). Öğrenci grupları topladıkları verileri analiz ederek seçtikleri doğa kaynaklı afetin nedenleri ve sonuçlarını balık kılçığı diyagramı üzerinde görselleştirir ( E3.6 ). Bu diyagram üzerinden doğa kaynaklı afetlerin nedenleri ve sonuçları ile ilgili çıkarım yaparlar. Grup faaliyetleri akran değerlen dirme formu ile değerlendirilebilir.",
+    "AB.1.3.3",
+    "Öğrencilere evde, okulda ve yakın çevrede edindikleri gözlem ve deneyimlerden yola çıkarak deprem, sel, heyelan, çığ, volkanik patlama gibi doğa kaynaklı afetlere karşı alınabilecek önlemleri içeren yazılı, görsel veya dijital kaynaklar sunulur ( OB1 , OB2 , OB4 ). Sunulan kaynaklar üzerinden bu afetlere karşı alınacak önlemler öğrenciler tarafından incelenir. Bu süreçte depremsel simülasyon uygulamalarından yararlanılarak öğrencilerin doğru davranış basamaklarını somutlaştırmaları sağlanır. Ayrıca bu süreçte duyarlılık değeri kapsamında afetlere karşı hazırlıklı olmanın, bireylerin zorlu süreçlerle başa çıkabilmesi için psikolojik yön bulma becerilerini geliştirmelerinin ve psikolojik iyi oluş düzey lerini korumalarının önemi vurgulanır ( D5.3 ). Yardımseverlik değeri kapsamında afetler karşısında dayanışma ve fedakârlık göstermenin, aile fertlerinin sevgi bağlarıyla birbirine destek olmalarının gerekliliği vurgulanır ( D2.2 , D15.4 , D20.2 ). Öğretmen rehberliğinde gruplar oluşturulur. Gruplardan her bir afete karşı alınacak önlemleri tablolar hâlinde hazırlaması istenir ( KB2.5 , SDB2.2 ). Bu süreçte afet ve acil durum hazırlıklarında (örneğin acil durum çantası içeriğinde veya sığınak alanlarında) hijyen standartlarının korunması ve salgın hastalıkların önlenmesi açısından temizlik değerinin önemine değinilir ( D18.2 ). Öğrencilerden tablodaki bilgilerden yararlanarak insan kaynaklı afetlere karşı alınabilecek önlemleri konu alan hikâye, şiir veya kompozisyon yazmaları ya da bu konuyu yansıtan bir resim oluşturmaları istenir ( E3.3 ). Süreç sonunda her grup hazırladığı ürünü sözlü veya yazılı olarak sınıfta sunar ( SDB2.1 ). Öğrencilerden doğa kaynaklı afetlerin mekânsal etkilerini hafifletmede arazi planlaması, yapısal önlemler gibi yapısal risk azaltma durumlarını yorumlamaları beklenir. Öğrencilerden afet önlemlerinin önemini kendi ifadeleriyle yeniden ortaya koymaları ve bu önlemlerin insan yaşamının korunması ve toplumsal psikolojik iyi oluşun sürdürülebilirliği açısından neden gerekli olduğunu yorumlamaları istenir ( D5.1 ). Öğrenci ürünleri dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1713"
+}

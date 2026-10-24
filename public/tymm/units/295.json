@@ -1,0 +1,127 @@
+{
+  "unitId": 295,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "3. TEMA: NİCELİKLER VE DEĞİŞİMLER (2)",
+  "hours": "42",
+  "description": "Bu temada öğrencilerin gerçek sayılarda veya bir alt kümesinde tanımlı üstel ve logaritmik referans fonksiyonlarla bu fonksiyonlardan türetilebilecek fonksiyonların nitel özelliklerine yönelik muhakeme yapabilmeleri, üstel fonksiyonların ters fonksiyonlarını inceleyerek logaritmik fonksiyona dair çıkarım yapabilmeleri, bu fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren gerçek yaşam problemlerini çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.11.3.3",
+      "title": "Gerçek sayılarda f(x) = aˣ (a>0, a≠1) şeklinde tanımlı üstel referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen [g(x)=k∙f(mx ± r)±s (k, m, r, s ∈ ℝ, k≠0, m≠0)] üstel fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "processComponents": [
+        "a) Üstel referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftliği, örtenliği) matematiksel temsilleri kullanarak belirler.",
+        "b) Üstel referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasındaki ilişkileri belirler.",
+        "c) Üstel referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle diğer üstel fonksiyonlara dönüştürür.",
+        "ç) Üstel referans fonksiyon ve bu fonksiyondan türetilen fonksiyonların grafik temsili ile cebirsel temsili arasındaki ilişkiyi ifade eder.",
+        "d) Üstel referans fonksiyonun nitel özelliklerinden hareketle diğer üstel fonksiyonların nitel özellikleri hakkında varsayımlarda bulunur.",
+        "e) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeler ve türetilen fonksiyonların nitel özellikleri ile ilgili örüntüleri geneller.",
+        "f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "g) Genellemelerinden elde ettiği önermeleri matematiksel olarak doğrulayabileceği şekilde sunar.",
+        "ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.3.4",
+      "title": "Üstel fonksiyonların ters fonksiyonlarını inceleyerek logaritmik fonksiyona dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Üstel fonksiyonların ters fonksiyonları ile ilgili varsayımlarda bulunur.",
+        "b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek üstel fonksiyonların ters fonksiyonları ile ilgili örüntüleri geneller.",
+        "c) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "ç) Logaritmik fonksiyonu üstel fonksiyonun ters fonksiyonu olarak ifade eden önermeler sunar.",
+        "d) Logaritmik fonksiyonu gerçek yaşam bağlamında kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.3.5",
+      "title": "f(x)=logₐx (a>0, a≠1, x>0 ) şeklinde tanımlı logaritmik referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen [g(x)=k∙f(mx±r)±s (k, m, r, s ∈ ℝ, k≠0, m≠0)] logaritmik fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "processComponents": [
+        "a) Logaritmik referans fonksiyonu grafik ve cebirsel temsili üzerinde yapılan işlemlerle diğer logaritmik fonksiyonlara dönüştürür.",
+        "b) Logaritmik referans fonksiyon ile elde ettiği logaritmik fonksiyonların grafik ve cebirsel temsilleri arasındaki ilişkiyi ifade eder.",
+        "c) Logaritmik referans fonksiyonun nitel özelliklerinden hareketle diğer logaritmik fonksiyonların nitel özellikleri hakkında varsayımlarda bulunur.",
+        "ç) Logaritmik fonksiyonun nitel özelliklerine ve işlem özelliklerine ilişkin varsayımlarına dair örüntüleri geneller.",
+        "d) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "e) Genellemelerinden elde ettiği önermeleri matematiksel olarak doğrulayabileceği şekilde sunar.",
+        "f) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir.",
+        "g) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.",
+        "ğ) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.3.6",
+      "title": "Gerçek yaşam durumlarında üstel ve logaritmik fonksiyonlarla ifade edilen denklem ve eşitsizlikleri içeren problemler çözebilme",
+      "processComponents": [
+        "a) Üstel ve logaritmik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bileşenleri (denklemi oluşturan fonksiyonların nitel özellikleri ile cebirsel ve grafik temsilleri) belirler.",
+        "b) Üstel ve logaritmik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bileşenlerin aralarındaki ilişkileri belirler.",
+        "c) Üstel ve logaritmik fonksiyonlarla ifade edilebilen denklem ve eşitsizliklerin problem bağlamındaki temsillerini farklı temsillere dönüştürür.",
+        "ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.",
+        "d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.",
+        "e) Belirlediği stratejiyi kullanır.",
+        "f) Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.",
+        "g) Problemin olası çözüm stratejilerini gözden geçirir.",
+        "ğ) Problemin olası çözüm stratejilerinin üstel veya logaritmik fonksiyon içeren farklı problem durumlarında kullanımı ile ilgili çıkarımlar yapar.",
+        "h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "artanlık-azalanlık, bire birlik, doğal logaritmik fonksiyon, e sayısı, fonksiyonun işareti, fonksiyonun sıfırı, logaritmik fonksiyon, örtenlik, teklik-çiftlik, üstel fonksiyon",
+  "support": [
+    "Üstel ve logaritmik fonksiyonlara ilişkin örnek veya problemlerde hesap makinelerinden veya çevrim içi araçlardan yararlanılabilir. Üstel ve logaritmik fonksiyonlar ile ilgili özelliklere ulaşılamadığı durumlarda öğrencilerden sayısal örnekler kullanarak sınırlı genellemeler yapmaları istenebilir. Üstel ve logaritmik referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksiyonların nitel özellikleri incelenirken görselleştirme için matematik yazılımlarından yararlanılabilir.",
+    "Öğrencilere gerçek yaşamla ilişkili verilen örnekler üzerinden üstel ve logaritmik fonksiyonları cebirsel olarak ifade edebilme ve grafik temsilde yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir.",
+    "Üstel ve logaritmik fonksiyonlar ile ilgili performans görevleri ve çalışma kâğıtları için öğrencilere daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir. Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulabilir, üstel ve logaritmik fonksiyonlar ile ilgili olarak öğrencilerin bireysel ihtiyaçlarına uygun hedefler belirlenebilir."
+  ],
+  "enrichment": [
+    "(*) e sayısının önemine yönelik vurgu, bileşik faiz/kâr payı ve şapka problemi gibi bağlamlarda ortaya çıkan uygun koşullarda şeklinde tanımlı fonksiyonla yapılır. Bu problem durumlarında fonksiyon elde edildikten sonra matematik yazılımları kullanılarak fonksiyonun sonsuzdaki davranışıyla e sayısı arasındaki ilişki incelenebilir.",
+    "(*) Öğrencilere logaritmanın tarihî gelişimi hakkında araştırma ödevi verilebilir. Araştırma ödevinde öğrencilerden John Napier'ın ölçüleri 0° ile 60° arasında olan açıların sinüslerini hesapladığı tablo ile logaritmik fonksiyon arasındaki ilişkiye dair çıkarımda bulunmaları istenebilir. Farklı disiplinlerde karşılaşılan üstel veya logaritmik fonksiyonlara yönelik problemlere (astronomide bir cismin yörüngesini tamamlama süresinin belirlenmesi gibi) yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, araştırma ödevi ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere üstel ve logaritmik referans fonksiyonlardan türetilen fonksiyonlara yönelik denklem ve eşitsizliklerin kullanıldığı gerçek yaşam problemlerinden oluşan, öğrencilerin matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağlayacak performans görevi verilebilir. Verilen performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Üstel ve logaritmik fonksiyonların grafiklerine uygulanan dönüşümlerin fonksiyonun cebirsel temsilinde oluşturduğu değişime yönelik inceleme içeren çalışma kâğıdı kullanılabilir. Ayrıca çalışma sonunda öğrenciler, öz değerlendirme formuyla kendilerini değerlendirebilir. Logaritmik fonksiyonun gerçek yaşamda kullanımına ilişkin verilen araştırma ödevi, derecelendirme ölçeği kullanılarak değerlendirilebilir.",
+    "Fizik, kimya ya da biyoloji alanlarına ilişkin gerçek yaşam durumlarında karşılaşılan problemlerde üstel ve logaritmik fonksiyonların nitel özelliklerini ve işlem özelliklerini incelemeyi gerektiren performans görevi; analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.11.3.3 Üstel artış içeren ilişkiler, gerçek yaşam verileri kullanılarak (biyolojide hücrelerin bölünerek belirli bir örüntü oluşturacak biçimde sayılarının zamana bağlı katlanarak çoğalması gibi) incelenir. Elde edilen veriler tablo ve grafik ile gösterilir. Gerçek sayılarda f(x)=aˣ (a>0, a≠1) şeklinde bir fonksiyon tanımlanarak bu fonksiyonun grafik temsili elde edilir. Bu fonksiyonun nitel özellikleri, a nın aldığı değerlere göre (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, bire birliği, örtenliği) grafik temsiliyle ilişkilendirilerek belirlenir. Bu noktada özel olarak e sayısı ve cebirsel ifadesi f(x) = eˣ kuralıyla verilen fonksiyon üzerinde durulur. f üstel referans fonksiyonu olmak üzere f nin grafiğine yapılan dönüşümlerle [g(x)=k∙f(mx ± r)±s (k, m, r, s ∈ ℝ, k≠0, m≠0)] diğer üstel fonksiyonların cebirsel ve grafik temsilleri elde edilir. Dönüşümler yapılırken r ve s değerlerinin her ikisinin veya birinin 0 olduğu durumlar aşamalı olarak ele alınır. Öğrencilerin grafik temsiller ile cebirsel temsillerdeki k, m, r, s sayılarının ilişkilerini yorumlamaları sağlanır. Bu dönüşümler elde edilip yorumlanırken öğrencilerin dijital araçlarla çalışma becerilerini de destekleyecek şekilde matematik yazılımlarından yararlanılır ( OB2 ) . Fonksiyonların grafik temsilleri üzerinde yapılan bu işlemler ile elde edilen fonksiyonların cebirsel temsillerindeki katsayılar arasındaki ilişkiler yorumlanır.",
+    "Cebirsel temsilleri verilen üstel referans fonksiyondan türetilmiş fonksiyonların grafik temsilini bulma çalışmaları yapılır. Cebirsel temsili verilen fonksiyonun grafik temsilinde işaretini, eksenleri kestiği noktaları bulmaları için öğrencilerden elde ettikleri sonuçları hem kâğıt ve kalemle hem de matematik yazılımları ile karşılaştırmaları istenir. Aynı zamanda fonksiyonun (varsa) sıfırı, işareti, artanlığı-azalanlığı cebirsel incelemeler ile eşleştirilir.",
+    "Öğrencilerin gerçek sayılarda f(x)=aˣ (a>0, a≠1) şeklinde tanımlı fonksiyonun grafik temsiline dönüşümler uygulanarak elde edilen fonksiyonların nitel özelliklerine dair varsayımlar (a değerinin fonksiyonun artanlığı-azalanlığı ile olan ilişkisi, üstel fonksiyonun hangi durumda sıfırının olabileceği gibi) öne sürmeleri beklenir. Farklı üstel fonksiyon örnekleri incelenerek bu örneklerin öğrencilerin varsayımlarını karşılayıp karşılamadığı kontrol edilir. Bu varsayımlardan üstel fonksiyonların nitel özelliklerine ilişkin genellemeler elde edilir. Varsayımlar ile genellemeler karşılaştırılarak elde edilen önermeler, matematiksel olarak doğrulanabilecek şekilde sunulur. Bu önermelerin kullanışlılığı ekonomi (bileşik faiz/kâr payı hesabı, yatırımların üstel artışı ile gelirin değerlendirilmesi), coğrafya (belirli bir nüfus artış hızına göre belirli bir süre sonunda nüfusun belirlenmesi) gibi farklı disiplinlerde karşılaşılan problemler aracılığı ile değerlendirilir ( OB3 , SDB3.3 ) .",
+    "MAT.11.3.4 Üstel referans fonksiyonun cebirsel ifadesinde bağımlı ve bağımsız değişkenin yer değiştirdiği durum, tablo temsili kullanılarak incelenir. Bu inceleme sonucunda öğrencilerden üstel referans fonksiyonun ters fonksiyonunun tablo ve grafik temsiline dair varsayımlarda bulunması beklenir. Bu varsayımlardan yararlanarak üstel referans fonksiyonların ters fonksiyonunun grafiğine dair genellemeler yapılır. Bu genellemeler; uygun koşullarda f(x)=aˣ (a>0, a≠1)şeklinde tanımlı fonksiyon ile bu fonksiyonun tersi olan ve logaritmik fonksiyon olarak adlandırılan şeklinde tanımlı fonksiyonun grafik temsilleri arasındaki ilişkiler, kâğıt ve kalem veya matematik yazılımları kullanılarak çizilen grafikler üzerinden kontrol edilir ( OB2 , MAB5 ) . Uygun koşullarda f(x)=aˣ (a>0, a≠1) şeklinde tanımlı üstel referans fonksiyonun tersinin cebirsel temsilinin bir fonksiyon olmasına ilişkin şartlar önerme olarak sunulur. Bu önermelerden hareketle fonksiyonların terslerinin cebirsel temsilleri elde edilir. Öğrencilerin üstel ve logaritmik fonksiyonların grafik temsilleri üzerinden bir fonksiyonun y = x doğrusuna göre simetriği ile fonksiyonun tersinin cebirsel temsili arasındaki ilişkiye dair çıkarımda bulunmaları sağlanır. Örneğin üstel referans fonksiyonun artanlığı-azalanlığı ile logaritmik referans fonksiyonun artanlığı-azalanlığı arasında çıkarımda bulunmaları beklenir. Burada özel olarak gerçek sayılarda tanımlı ve cebirsel temsili f(x) = eˣ olan fonksiyonun tersi olan fonksiyonun cebirsel temsilinin olduğu ve doğal logaritmik fonksiyon olarak adlandırıldığı üzerinde durulur. Öğrencilerin üstel ve logaritmik fonksiyonların ters fonksiyonlarını matematiksel araç ve teknolojiden yararlanarak bulmaları desteklenir ( OB2 , MAB5 ) . Elde edilen logaritmik fonksiyonun kullanışlılığı gerçek yaşam durumları üzerinden incelenir. Örneğin depremin büyüklüğü, ses şiddeti, çözeltilerin pH değeri gibi niceliklerin ölçülmesini içeren uygun problemler bağlamında logaritmik fonksiyonun kullanımı değerlendirilir. Ayrıca arkeoloji ve kimya disiplinleri bağlamında fosillerin yaşının hesaplanmasında kullanılan karbon-14 yöntemi incelenebilir. Bu yöntemde logaritmik fonksiyon kullanılarak fosillerin yaşının bulunabileceği gösterilir ( D3.3 ) . Benzer çıkarım yapma süreci üstel referans fonksiyondan türetilen üstel fonksiyonlar için de işletilir. Logaritmik fonksiyonun derste ele alınmayan farklı gerçek yaşam bağlamlarında kullanımına ilişkin araştırma ödevi verilebilir. Logaritmik fonksiyonun tarihî gelişimi bağlamında Gelenbevi İsmail Efendi ve John Napier'ın (Can Nepiyır) çalışmaları incelenir.",
+    "MAT.11.3.5 Logaritmik referans fonksiyonlara örnek teşkil eden gerçek yaşam durumları, grafik ve tablo yöntemiyle ele alınır. Tablo ve grafikler üzerinden verilen herhangi bir sayının logaritmasının rasyonelliği tartışılır. Grafik temsiliyle ilişkilendirilerek logaritmik referans fonksiyonun nitel özellikleri (tanım kümesi, görüntü kümesi, işareti, sıfırı, artanlığı-azalanlığı, bire birliği) ve işlem özellikleri (dört işlem, taban değiştirme gibi) belirlenir ( E3.6 , E3.7 ) . Ayrıca tabanın 10 olması durumunda logaritmik fonksiyonun özel olarak \"logx\" şeklinde gösterildiği ifade edilir. f logaritmik referans fonksiyonu olmak üzere f fonksiyonunun grafiğine uygulanan dönüşümlerle [g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] diğer logaritmik fonksiyonların grafikleri ve cebirsel temsilleri elde edilir. Bu dönüşümler elde edilip yorumlanırken matematik yazılımlarından yararlanılır ( OB2 , MAB5 ) . Dönüşümler yapılırken r ve s değerlerinin her ikisinin veya birinin 0 olduğu durumlar aşamalı olarak ele alınır. Öğrencilerin grafik temsilleri ile cebirsel temsillerdeki katsayıların ilişkilerini yorumlamaları sağlanır ( MAB3 ) . Bu fonksiyonların grafik temsilinde işaretini, eksenleri kestiği noktaları bulmaları için öğrencilerden elde ettikleri sonuçları hem kâğıt ve kalemle hem de matematik yazılımları ile karşılaştırmaları istenir ( OB2 , OB4 , MAB5 ) . İncelemeler kapsamında fonksiyonun sıfırı, işareti, artanlığı-azalanlığı ile ilgili değerlendirmelere de yer verilir. Bu fonksiyonlar için uygun koşullarda f (x) = logₐx şeklinde tanımlı fonksiyonların referans alınabileceği belirtilir. Öğrencilere grafik temsiline yapılan dönüşümlerin, fonksiyonun cebirsel temsilinde oluşturduğu değişimin incelenmesine yönelik çalışma kâğıdı verilebilir.",
+    "Öğrencilerin logaritmik referans fonksiyonun grafik temsiline dönüşümler uygulanarak elde edilen fonksiyonların nitel özellikleri (tanım kümesi, değer kümesi, işareti, artanlığı-azalanlığı, bire birliği) hakkında varsayımlar geliştirmeleri sağlanır. Varsayımlar geliştirilirken cebirsel ve grafiksel incelemelerin birlikte yürütülmesine önem verilir. Örneğin cebirsel temsili f (x) = log₂(3x − 2) olan fonksiyonun tanım kümesine yönelik varsayım geliştirilebilir. Varsayımda bulunurken fonksiyonun matematik yazılımlarıyla elde edilen grafiği ile 3x-2>0 eşitsizliği arasında ilişkilendirme yapılır ( OB2 ) . Benzer şekilde öğrencilerin fonksiyonun cebirsel temsiliyle fonksiyonun sıfırı, artanlığı-azalanlığı arasındaki ilişkilere dair varsayımda bulunmaları sağlanır. Bu varsayımlardan hareketle fonksiyonların nitel özelliklerine ilişkin genellemeler elde etmeleri ve genellemelerle varsayımlarını karşılaştırarak matematiksel olarak doğrulayabilecekleri şekilde önermeler sunmaları için öğrenciler teşvik edilir. Örneğin varsayımlar ile genellemeler karşılaştırılarak cebirsel temsili uygun koşullarda f (x)=log₂(mx + n) (m, n ∈ ℝ, m≠0) şeklinde tanımlı fonksiyonun tanım kümesinin m>0 olduğu durumlarda (- n/m , ∞), m<0 olduğu durumlarda ise (-∞, - n/m ) olduğuna dair bir önerme sunulur. Logaritmik fonksiyonların matematiksel temsilleri, dönüşüm süreçleri ve nitel özellikleri hakkında elde edilen önermelere ilişkin cebirsel ispat ve grafiksel doğrulama yapmaları hususunda öğrenciler desteklenir. Örneğin cebirsel temsili f (x)=log₂(mx + n) (m, n ∈ ℝ, m≠0) olan bir fonksiyonda tanım kümesinde yer alan her bir x elemanı için mx + n>0 sağlanması gerektiği ve bu duruma uygun olarak bu fonksiyonun tersinin uygun koşullarda şeklinde tanımlı fonksiyon olduğu ifade edilir. fonksiyonlarının matematik yazılımları ile grafikleri çizilerek y=x doğrusuna göre simetrik olma durumları kontrol edilir ( OB2 , MAB5 ) . Ayrıca öğrencilerden uyguladıkları doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını problemler üzerinden değerlendirmeleri beklenir.",
+    "Logaritmik referans fonksiyonda farklı x değerleri için elde edilen sonuçlardan yararlanılarak logaritmik fonksiyonun işlem özelliklerine dair v arsayımlar elde edilir. Örneğin f(x)=log₂x (x ∈ ℝ, x > 0) fonksiyonunda x = 2, x = 4 ve x = 8 için elde edilen f(2)+f(4)=log₂2+log₂4=3 ve log₂8=3 sonuçlarından yola çıkılarak \"m>0, n>0 olmak üzere log₂m+log₂n=log₂(m.n) elde edilir.\" varsayımında bulunulur. Bu ve buna benzer varsayımlardan hareketle öğrencilerin logaritmik fonksiyonların işlem özelliklerine ilişkin genellemelere ulaşmaları sağlanır.",
+    "Genellemelerin varsayımları karşılayıp karşılamadığı, farklı örnekler üzerinden cebirsel olarak veya logaritmik fonksiyonların grafik temsilleri üzerinden (örneğin cebirsel temsilleri f(x)=log x² ve g(x)=2.logx (x>0) olan fonksiyonların grafiklerinin belirli aralıktaki eşitliği) kontrol edilir. Genellemelerden logaritmanın işlem özellikleri ile ilgili matematiksel olarak doğrulanabilecek önermeler elde edilir. Elde edilen önermelerin kullanışlılığı, fizikte ses düzeyinin belirlenmesi veya deprem büyüklüğünün ölçülmesi gibi farklı disiplinlerde karşılaşılan problem durumları üzerinden değerlendirilir. Önermelerini üstel fonksiyonların özelliklerinden yararlanarak ispatlayabilmeleri için öğrencilere gerekli destek verilir. Öğrencilere logaritmanın işlem özelliklerini kullanıp ispat yapabilecekleri çalışma kâğıdı verilebilir. Bu çalışmalar sonunda öğrencilerin matematiksel çaba ve çalışkanlığın bir ürünü olan matematiksel ispatın matematiksel kavram ve ilişkilerin nedenselliğini anlamlandırmadaki rolünü fark etmeleri sağlanır ( D3.3 ) . Grafik temsilini kullanma, logaritmik fonksiyonların işlem özelliklerinden yararlanma gibi matematiksel doğrulama ve ispat yöntemleri kullanışlılık açısından değerlendirilir. Öğrencilere üstel ve logaritmik fonksiyonların nitel özelliklerine yönelik performans görevi verilebilir.",
+    "MAT.11.3.6 Üstel veya logaritmik fonksiyonların kullanımını gerektiren gerçek yaşam durumu problemleri biyoloji, ekonomi, fizik ve kimya gibi bağlamlarda incelenir. Bu problemlerde üstel veya logaritmik referans fonksiyonlardan türetilen fonksiyonları içeren denklem ve eşitsizliklere ilişkin matematiksel bileşenler belirlenir. Bu bileşenlerin aralarındaki ilişkiler kullanılarak f (x) = 0, f (x) = g(x), f (x) < g (x), f (x) ≤ g(x) denklem ve eşitsizliklerinin tanımlanması sağlanır. Üstel veya logaritmik fonksiyonları içeren problem durumlarından elde edilen denklem ve eşitsizliklerin matematiksel temsilleri arasında (sözel, tablo, grafik, cebirsel) dönüşüm yapılır. Öğrencilerin problemin gerektirdiği temsiller arası geçişleri yapabilmesi ve problem çözümlerine analitik ve sistematik bir şekilde yaklaşabilmesi için elektronik tablolardan ve matematik yazılımlarından yararlanılır ( OB2 , E3.6 , E3.7 , MAB5 ) .",
+    "Verilen problem durumlarına ilişkin denklem ve eşitsizliklerin çözümlerine ulaşabilmeleri için öğrencilerin belirli değerlerle denklem veya eşitsizliği test etme, logaritmik ve üstel fonksiyonun nitel özelliklerini ve işlem özelliklerini uygulama, elektronik tablolardan ve grafik temsilinden yararlanma gibi farklı yöntemleri kullanmaları teşvik edilir ( OB2 , MAB5 ) . Verilen farklı problem durumlarında uygun bir strateji seçilerek denklem ve eşitsizliklerin çözüm kümeleri elde edilir. Fonksiyon grafiklerinin, logaritmik ve üstel fonksiyonların işlem özelliklerinin kullanılması ve matematik yazılımlarından yararlanılması gibi farklı yöntemlerle çözümlerin doğruluğunun kontrol edilmesi sağlanır ( OB2 , MAB5 ) .",
+    "Gerçek yaşam durumlarında üstel ve logaritmik fonksiyonları içeren denklem ve eşitsizliklerin çözümleri ile ilgili farklı stratejiler belirlenir. Bu stratejilerden uygun olanlar, gerçek yaşam durumu problemlerinde kullanılarak verimlilik ve kullanışlılık açısından gözden geçirilir. Örneğin Richter (Rihta) ölçeğine göre bir depremin büyüklüğünün hesaplanması gibi doğa olaylarının logaritmik fonksiyonlarla modellenmesini içeren problemlerde, bulunan çözümlerin kullanışlılığı ve afetlere karşı alınabilecek tedbirlerde (kentsel dönüşüm, deprem sonrası sürdürülebilir yaşam gibi) matematiğin rolü değerlendirilir ( OB8 , D5.3 ) . Ayrıca kimyada bir çözeltinin pH değerine göre asidik veya bazik olma durumu incelenebilir. Özel olarak temizlik ürünlerinin pH değerlerinin on tabanındaki logaritmik fonksiyonla ilişkisi gösterilerek temizlik ürünlerinin niteliği konusunda öğrencilerin bilinçlenmesi sağlanır ( D18.1 ) . Salgın hastalıkların zaman içerisindeki yayılma miktarını belirlemede kullanılan SIR ve SEIR gibi epidemik modeller, üstel ve logaritmik fonksiyonlar bağlamında incelenir. Bu sayede öğrencilerin bulaşıcı hastalıklarla ilgili bilinçlenmesi desteklenir ( D13.4 ) . Logaritmik, üstel denklem ve eşitsizliklere ilişkin daha karmaşık problemlere çözümler geliştirilebilmesi için öğrencilerin gruplar hâlinde çalışması sağlanarak iş birliği ve iletişim becerilerinin gelişimi desteklenir ( SDB2.1 , SDB2.2 ) . Çözüme ulaştıran stratejilerin başka problem durumlarına uyarlanıp uyarlanamayacağına dair çıkarımlar yapılır ( SDB3.1 ) . Öğrencilerden bu çıkarımları matematiksel bir modele dönüştürmeleri beklenir. Elde edilen matematiksel modeller, sınırlılık ve verimlilik açısından değerlendirilir. Öğrencilere konuyla ilgili bir problemin farklı yollardan çözülmesine yönelik çalışma kâğıdı verilebilir. Böylece öğrenciler bir problemin farklı, daha yalın ve kullanışlı çözüm yollarını araştırmaya teşvik edilir ( SDB3.2 ) . Öğrencilere üstel ve logaritmik referans fonksiyonlardan türetilen fonksiyonlara yönelik denklem ve eşitsizliklerin kullanıldığı gerçek yaşam problemlerinden oluşan, öğrencilerin matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağlayacak performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D18.1",
+      "D3.3",
+      "D5.3"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/295"
+}

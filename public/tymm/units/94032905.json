@@ -1,0 +1,70 @@
+{
+  "unitId": 94032905,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "5. ÖĞRENME ALANI: DOĞAL SAYILARLA BÖLME İŞLEMİ",
+  "hours": "20",
+  "description": "Semboller: ≠",
+  "outcomes": [
+    {
+      "code": "M.4.1.5.1",
+      "title": "Üç basamaklı doğal sayıları en çok iki basamaklı doğal sayılara böler",
+      "processComponents": [
+        "Bölünen ve bölüm arasındaki basamak sayısı ilişkisi fark ettirilir.",
+        "Bölme işleminde bölümün basamak sayısını işlem yapmadan belirleyerek işlemin doğruluğunun kontrol edilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "M.4.1.5.2",
+      "title": "En çok dört basamaklı bir sayıyı bir basamaklı bir sayıya böler",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.5.3",
+      "title": "Son üç basamağı sıfır olan en çok beş basamaklı doğal sayıları 10, 100 ve 1000’e zihinden böler",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.5.4",
+      "title": "Bir bölme işleminin sonucunu tahmin eder ve tahminini işlem sonucu ile karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.5.5",
+      "title": "Çarpma ve bölme arasındaki ilişkiyi fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.5.6",
+      "title": "Doğal sayılarla en az bir bölme işlemi gerektiren problemleri çözer",
+      "processComponents": [
+        "Problem çözerken en çok üç işlem gerektiren problem üzerinde çalışılır.",
+        "En çok iki işlem gerektiren problem kurma çalışmalarına da yer verilir."
+      ]
+    },
+    {
+      "code": "M.4.1.5.7",
+      "title": "Aralarında eşitlik durumu olan iki matematiksel ifadeden birinde verilmeyen değeri belirler ve eşitliğin sağlandığını açıklar",
+      "processComponents": [
+        "Örneğin 8 + □ = 15 - 3; 12 : 4 = △ + 1; 6 x ☆ = 48 - 12"
+      ]
+    },
+    {
+      "code": "M.4.1.5.8",
+      "title": "Aralarında eşitlik durumu olmayan iki matematiksel ifadenin eşit olması için yapılması gereken işlemleri açıklar",
+      "processComponents": [
+        "Örneğin 8+5 ≠ 12-3 ifadesinde eşitlik durumunun sağlanabilmesi için yapılabilecek işlemler üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sayılar ve İşlemler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

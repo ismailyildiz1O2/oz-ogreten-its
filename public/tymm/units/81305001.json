@@ -1,0 +1,35 @@
+{
+  "unitId": 81305001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sürdürülebilir Tarım ve Gıda Güvenliği Dersi",
+  "title": "1. ÜNİTE: ÜRETİMDEN TÜKETİME TARIM",
+  "hours": "10",
+  "description": "Bu ünitenin sonunda öğrenciler; tarımsal faaliyetlerin çeşitlerini, özelliklerini, gelişimini ve geleceğini kavrayabileceklerdir. Tarımda yönetim ve organizasyonun yapısını açıklayabileceklerdir.",
+  "outcomes": [
+    {
+      "code": "STG.1.1",
+      "title": "Tarımsal faaliyetlerin özelliklerini ve gelişimini açıklar",
+      "processComponents": [
+        "Tarımsal faaliyetlerin çeşitlerini ve bunların gelişim süreçlerini irdelemeleri sağlanır.",
+        "Tarımsal faaliyetin gelişim süreci hakkında infografik hazırlamaları ve bu sunuyu sınıf arkadaşlarıyla paylaşmaları sağlanır."
+      ]
+    },
+    {
+      "code": "STG.1.2",
+      "title": "Tarımda yönetim ve organizasyonun yapısını tanımlar",
+      "processComponents": [
+        "Tarımda yönetim ve organizasyon yapı şeması ile ilgili bilgi kartları hazırlamaları sağlanır.",
+        "Türkiye'de yetişen tarımsal bir ürünün üretimden tüketime kadar olan yönetim ve organizasyon yapısını sınıf ortamında tartışmaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311231660129-S%C3%9CRD%C3%9CR%C3%9CLEB%C4%B0L%C4%B0R%20TARIM%20VE%20GIDA%20G%C3%9CVENL%C4%B0%C4%9E%C4%B0%20DERS%C4%B0-11%20ekim.pdf"
+}

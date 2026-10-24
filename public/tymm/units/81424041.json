@@ -1,0 +1,44 @@
+{
+  "unitId": 81424041,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "41. ÜNİTE: GİTAR - TEMEL OTURUŞ VE TUTUŞ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.3.1",
+      "title": "Gitarda doğru duruş ve oturuşu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.3.2",
+      "title": "Sağ eli doğru konumlar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.3.3",
+      "title": "Sol eli doğru konumlar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.3.4",
+      "title": "Sağ el parmaklarını teller üzerinde doğru konumlar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.3.5",
+      "title": "Sol el parmaklarını sap üzerinde doğru konumlar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

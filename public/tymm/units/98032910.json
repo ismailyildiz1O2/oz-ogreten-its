@@ -1,0 +1,72 @@
+{
+  "unitId": 98032910,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "10. ÖĞRENME ALANI: GEOMETRİK CİSİMLER",
+  "hours": "15",
+  "description": "Terimler veya kavramlar: taban, yükseklik, yüzey alanı, piramit, silindir, prizma",
+  "outcomes": [
+    {
+      "code": "M.8.3.4.1",
+      "title": "Dik prizmaları tanır, temel elemanlarını belirler, inşa eder ve açınımını çizer",
+      "processComponents": [
+        "Somut modellerle çalışmalara yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılabilir."
+      ]
+    },
+    {
+      "code": "M.8.3.4.2",
+      "title": "Dik dairesel silindirin temel elemanlarını belirler, inşa eder ve açınımını çizer",
+      "processComponents": [
+        "Somut modellerle çalışmalara yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılabilir."
+      ]
+    },
+    {
+      "code": "M.8.3.4.3",
+      "title": "Dik dairesel silindirin yüzey alanı bağıntısını oluşturur, ilgili problemleri çözer",
+      "processComponents": [
+        "Somut modellerle çalışmalara yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılabilir."
+      ]
+    },
+    {
+      "code": "M.8.3.4.4",
+      "title": "Dik dairesel silindirin hacim bağıntısını oluşturur; ilgili problemleri çözer",
+      "processComponents": [
+        "Somut modellerle çalışmalara yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılabilir.",
+        "Dik dairesel silindirin hacmini tahmin etmeye yönelik çalışmalara yer verilir.",
+        "Dik dairesel silindirin hacim bağıntısını dik prizmanın hacim bağıntısı ile ilişkilendirmeye yönelik çalışmalara yer verilir."
+      ]
+    },
+    {
+      "code": "M.8.3.4.5",
+      "title": "Dik piramidi tanır, temel elemanlarını belirler, inşa eder ve açınımını çizer",
+      "processComponents": [
+        "Somut modellerle çalışmalara yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılabilir.",
+        "Alan ve hacim problemlerine girilmez."
+      ]
+    },
+    {
+      "code": "M.8.3.4.6",
+      "title": "Dik koniyi tanır, temel elemanlarını belirler, inşa eder ve açınımını çizer",
+      "processComponents": [
+        "Somut modellerle çalışmalara yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılabilir.",
+        "Alan ve hacim problemlerine girilmez."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Geometri ve Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

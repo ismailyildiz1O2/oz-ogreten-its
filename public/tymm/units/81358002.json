@@ -1,0 +1,75 @@
+{
+  "unitId": 81358002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+  "title": "2. ÜNİTE: TEMEL KONULARIYLA KUR'AN-I KERİM",
+  "hours": "17",
+  "description": "Bu ünitede sırasıyla “Her Şeyin Başı: Allah (cc) İnancı”, “İnsanın Yaratılışı”, “Ebedî Âlem: Ahiret”, “Vazgeçilmez Değer: Güzel Ahlak”, “Kur'an-ı Kerim'de Toplumsal İlkeler”, “İlahi Tecelliler: Kâinat ve Tabiat” ve “Ayetlerden Mesajlar: Hz. Yusuf Kıssası” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "KKAD.1.2.1",
+      "title": "Allah (cc) inancı ile ilgili ayetleri kavrar",
+      "processComponents": [
+        "Bakara suresinin 255. ayeti, Neml suresinin 59-66. ayetleri ve Enbiya suresinin 22. ayetinden yararlanılarak Allah'a (cc) imanın Kur'an-ı Kerim'deki merkezî konumuna, O'nun birliğine inanmanın hayatın bütün alanlarını nasıl etkilediğine değinilir."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.2",
+      "title": "Ayetler bağlamında insanın değeri ve konumunu fark eder",
+      "processComponents": [
+        "Zariyat suresinin 56. ayeti, İsra suresinin 70. ayeti, Bakara suresinin 30. ayeti ve Ahzab suresinin 72. ayeti bağlamında insanın değeri ve sorumlulukları üzerinde durulur. İnsanın sorumluluğuna vurgu yapan halifelik ve emanet kavramlarına değinilir."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.3",
+      "title": "Ayetlerden hareketle yeniden dirilişi açıklar",
+      "processComponents": [
+        "Bakara suresinin 258-260. ayetleri, Kehf suresinin 9-26. ayetleri ve Yasin suresinin 78-81. ayetleri bağlamında öldükten sonra yeniden diriliş konusu ele alınır."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.4",
+      "title": "Ayetlerden hareketle ahirette insanın kendisiyle yüzleşmesine örnekler verir",
+      "processComponents": [
+        "Ahiret gününde insanın kendisiyle yüzleşmesi; İsra suresinin 13-15. ayetleri, Kehf suresinin 48-49. ayetleri, Müminun suresinin 97-118. ayetleri, Araf suresinin 42-52. ayetleri ve İbrahim suresinin 22. ayeti bağlamında açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.5",
+      "title": "Ayetlerden hareketle güzel ahlakı açıklar",
+      "processComponents": [
+        "İnsanın vazgeçilmez değeri olan ahlak; Nahl suresinin 90. ayeti, Bakara suresinin 177, 261-263. ayetleri, Fecr suresinin 15-30. ayetleri ve Şems suresinin 9-10. ayetleri bağlamında açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.6",
+      "title": "Ayetlerden hareketle Kur'an-ı Kerim'in toplum hayatıyla ilgili ilkelerini açıklar",
+      "processComponents": [
+        "Enam suresinin 151-152. ayetleri, İsra suresinin 23-24. ayetleri, Rum suresinin 21. ayeti, Nisa suresinin 36. ayeti ve Necm suresinin 38. ayeti bağlamında Kur'an-ı Kerim'in; aile hayatı, akrabalık ilişkileri, medeni yasalar, hukuk, iktisat vb. konularla ilgili insana yaraşır bir toplumsal düzen kurmaya çalıştığı vurgulanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.7",
+      "title": "Ayetlerden örneklerle tabiattaki düzeni açıklar",
+      "processComponents": [
+        "Yasin suresinin 33-40. ayetleri, Enbiya suresinin 33. ayeti, Neml suresinin 86, 88. ayetleri, Gaşiye suresinin 17-20. ayetleri ve Mülk suresinin 3. ayeti bağlamında kâinat ve tabiattaki kusursuz ahenk ile düzen örneklerle açıklanır. İlgili ayetler bilimsel gelişmelerle örneklendirilir."
+      ]
+    },
+    {
+      "code": "KKAD.1.2.8",
+      "title": "Yusuf suresinden yararlanarak Hz. Yusuf'un kıssasından çıkarımlarda bulunur",
+      "processComponents": [
+        "Yusuf suresinden yararlanarak Hz. Yusuf'un hayatı anlatılır. Bu kıssadan çıkarılan mesajlar açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124957523-Kuran%C4%B1kerim.pdf"
+}

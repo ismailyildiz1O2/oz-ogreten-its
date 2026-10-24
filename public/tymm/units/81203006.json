@@ -1,0 +1,66 @@
+{
+  "unitId": 81203006,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Tarihi Dersi",
+  "title": "6. ÜNİTE: TÜRK DÜNYASI (XIII-XV. YÜZYILLAR)",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTT.6.1",
+      "title": "Delhi Türk Sultanlığı'nın siyasi ve kültürel gelişim sürecini açıklar",
+      "processComponents": [
+        "Sultan Raziye hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.6.2",
+      "title": "Mısır Memluklerin siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "Sultan Baybars'ın Haçlılara karşı mücadelelerine değinilir."
+      ]
+    },
+    {
+      "code": "OTT.6.3",
+      "title": "Osmanlı İmparatorluğu'nun siyasi, sosyal, ekonomik ve kültürel gelişim sürecini analiz eder",
+      "processComponents": [
+        "Osmanlı Beyliği'nin kurulduğu dönem ile ilgili bilgi verilir.",
+        "İstanbul'un Fethi ve fethin Türk ve Dünya tarihi açısından öneminden bahsedilir.",
+        "Osmanlı Devleti'nin yönetim anlayışından bahsedilir.",
+        "Fatih Sultan Mehmet'in 28 Mayıs 1463 tarihli Ahidnamesi (ferman) verilerek Osmanlı Devleti'nin hâkim olduğu bölgelerde uzun süre egemenlik sağlamasında kullandığı yöntemler açıklanır.",
+        "Ali Kuşçu hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "OTT.6.4",
+      "title": "Timurlular Devleti'nin siyasi, sosyal, ekonomik ve kültürel hayatını açıklar",
+      "processComponents": [
+        "Timur'un devlet anlayışı ve Ulu Dağ Kitabesi hakkında bilgi verilir.",
+        "Ali Şîr Nevaî ve “Lisânu't-Tayr” adlı eseri hakkında bilgi verilir.",
+        "Ferhad ve Şirin Destanı'ndan örnek verilir."
+      ]
+    },
+    {
+      "code": "OTT.6.5",
+      "title": "Karakoyunlular Devleti'nin siyasi gelişim sürecini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OTT.6.6",
+      "title": "Akkoyunlular Devleti'nin siyasi gelişim sürecini açıklar",
+      "processComponents": [
+        "“Hasan Padişah Kanunları” hakkında bilgi verilir.",
+        "İmadeddin Nesimî hakkında bilgi verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102516505-Ortak%20T%C3%BCrk%20Tarihi%20d%C3%B6p.pdf"
+}

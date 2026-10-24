@@ -1,0 +1,73 @@
+{
+  "unitId": 81404075,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "75. ÜNİTE: FUTBOLDA TOP KONTROL TEKNİKLERİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TS.2.6.1",
+      "title": "Futbolda top kontrol tekniklerini açıklar",
+      "processComponents": [
+        "Ayak içi top kontrolü üzerinde durulur.",
+        "Ayak dışı top kontrolü üzerinde durulur.",
+        "Ayak üstü top kontrolü üzerinde durulur.",
+        "Göğüs ile top kontrolü üzerinde durulur.",
+        "Diz üstü top kontrolü üzerinde durulur.",
+        "Kafa ile top kontrolü üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TS.2.6.2",
+      "title": "Futbolda top kontrol tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "TS.2.6.3",
+      "title": "Futbolda kalecinin temel duruş pozisyonunu açıklar",
+      "processComponents": [
+        "Dizler gergin top tutma pozisyonu üzerinde durulur.",
+        "Dizleri bükerek top tutma pozisyonu üzerinde durulur.",
+        "Bel ve göğüs seviyesinde top tutma pozisyonu üzerinde durulur.",
+        "Boyun ve baş hizasında top tutma pozisyonu üzerinde durulur.",
+        "Yüksekten gelen top tutma pozisyonu üzerinde durulur.",
+        "Uçarak top tutma pozisyonu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TS.2.6.4",
+      "title": "Futbolda kalecinin temel duruş pozisyonunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "TS.2.6.5",
+      "title": "Futbolda kalecinin oyun kurallarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TS.2.6.6",
+      "title": "Futbolda kalecinin oyun kurallarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "TS.2.6.7",
+      "title": "Futbolda kalecinin temel top tutma tekniklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TS.2.6.8",
+      "title": "Futbolda kalecinin temel top tutma tekniklerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

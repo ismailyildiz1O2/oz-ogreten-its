@@ -1,0 +1,79 @@
+{
+  "unitId": 575,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "1. TEMA: SANATA BAKIŞ",
+  "hours": "4",
+  "description": "Temada sanat ve özgünlük ilişkisinin tartışılabilmesi, sanat ve özgünlük konusunda karikatür tasarlanabilmesi ve oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.11.1.1",
+      "title": "Sanat ve özgünlük ilişkisini tartışabilme",
+      "processComponents": [
+        "a) Sanat ve özgünlük ilişkisi hakkında mantıksal temellendirme yapar.",
+        "b) Sanat ve özgünlük ilişkisi hakkındaki mantıksal çelişkileri ve tutarsızlıkları tespit eder.",
+        "c) Sanat ve özgünlük ilişkisi hakkındaki çelişkileri ve tutarsızlıkları çürütür veya kabul eder."
+      ]
+    },
+    {
+      "code": "GS.11.1.2",
+      "title": "Sanat ve özgünlük konusunda karikatür tasarlayabilme",
+      "processComponents": [
+        "a) Sanat ve özgünlük konusunu inceler.",
+        "b) Sanat ve özgünlük konulu karikatür bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.11.1.3",
+      "title": "Sanat ve özgünlük konusunda karikatür oluşturabilme",
+      "processComponents": [
+        "a) Karikatür çalışmasına uygun görsel anlatım araçlarını ifade eder.",
+        "b) Sanat ve özgünlük konusundaki eskizlerini karikatüre dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "bant karikatür (strip), çini mürekkebi, editoryal, tarama ucu",
+  "support": [
+    "Bir ressam hakkında hazırlanmış metin ve görseller sunularak sanatçı, sanat eseri oluşturma süreci ve sanatın özgünlüğü hakkında öğrencilerin konuşmaları sağlanabilir.",
+    "Öğrencilere hazır bir karikatür kompozisyonu verilerek sanatın özgünlüğü hakkında diyalog oluşturabilecek şekilde konuşma balonları yazmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden Sabri Berkel ve Abidin Dino'nun birer eserini karşılaştırarak bu eserlerde özgünlüğü sağlayan niteliklerin neler olduğunu açıklayan bir sunum hazırlamaları istenebilir.",
+    "Öğrencilerin Nasreddin Hoca fıkralarından birini 4-5 karelik bir bant karikatür düzeninde çizmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları çalışma yaprağı, dereceleme ölçeği, grup değerlendirme formu, açık uçlu sorular, dereceli puanlama anahtarı, performans görevi ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden empresyonizm ve kübizm akımına ait eserlerde özgünlüğü sağlayan niteliklerle ilgili araştırma yapmaları ve araştırma sonuçlarını sunmaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.11.1.1. Öğrencilerden Vincent Van Gogh'un (Vinsınt Van Goh) eserlerinden birisini seçerek özgünlük bağlamında incelemeleri istenir ( OB9 ). Bu incelemeyi yaparken sanatsal, teknik, tarihsel ve kişisel unsurların analizinin yapılmasının gerektiği öğrenciye anlatılır. Bu nedenle sanatçının hayatı ve eserleri üzerine yazılmış bir metnin incelenmesi sağlanır. Öğrencilerin gruplara ayrılarak \"Sanatsal ürünün değerini artıran temel ölçüt özgünlük müdür?\", \"Taklit, sanatın değerini düşürür mü?\", \"Özgünlük sanatı bir üst seviyeye taşır mı?\" gibi soruları tartışmaları istenir. Öğrencilerin tartışma sırasında sırasında birbirlerine nazik davranmaları ve birbirlerini etkin dinlemeleri sağlanır ( D4.2 ). Bu süreçte üçlü değişim tekniği kullanılabilir. Tartışma sürecinde sorulan sorularla özgünlüğün güzellik ve anlam kavramlarıyla ilişkisinin sorgulanması sağlanır. İnsanın kendini ifade etme biçiminin sanat olduğu, sanatın bireyin yaratıcılığıyla oluştuğu ve bireyin dünyayı algılama ve yorumlama biçiminin benzersizliğini yansıttığı; özgünlüğün ise yaratıcılığın temel unsurlarından biri olduğu gibi mantıksal temellendirmeler yapmaları sağlanır.",
+    "Tartışma gruplarından sanat ve özgünlük ilişkisi hakkındaki mantıksal çelişkileri ve tutarsızlıkları tespit ederek tablolaştırmaları ve paylaşmaları istenir (D3.4).",
+    "Gruplar tespit ettikleri çelişki ve tutarsızlıkları kabul eder veya çürütür. Grupların tartışma sonunda edindikleri deneyimleri özgün bir çalışma yoluyla somutlaştırmaları istenebilir ( E3.3 ). Öğrencilerin olaylar ve durumlar karşısında farklı bakış açıları olabileceğini kabul ederek birbirlerini dinlemeleri ve kendi düşüncelerini ifade ederek grup etkileşimine katılmaları sağlanır ( D10.3 , SDB2.1 ). Süreç ve çalışmalar çalışma yaprağı veya grup değerlendirme formu ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden empresyonizm ve kübizm akımına ait eserlerde özgünlüğü sağlayan niteliklerle ilgili araştırma yapmaları ve araştırma sonuçlarını sunmaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği ile değerlendirilebilir.",
+    "GS.11.1.2. Öğrencilerin sanat ve özgünlük konusunda bir karikatür çalışması tasarlayabilmeleri için birbirine yakın özelliklere sahip sanat eserlerini incelemeleri sağlanır. Özgün olan ve özgün olmayan eserlerin hangileri olabileceği öğrencilere sorularak farklı fikirlerin ifade edilebildiği bir tartışma ortamı oluşturulur ( E3.5 ). Tartışma sonucunda bir eserde özgünlüğü sağlayan niteliklerle ilgili öğrencilerin gerekçeli yargılara ulaşmaları sağlanır ( SDB3.3 ).",
+    "Öğrencilerden sanat ve özgünlük bağlamında oluşturdukları imgeleri sözel veya çizgisel olarak ifade etmeleri sağlanır ( SDB2.1 ). Bu imgelerin hem soyut hem de somut kavramları barındırabileceğinden bahsedilebilir. Oluşturulan imgeler bir araya getirilerek öğrencilerin bu imgeler hakkında konuşmaları sağlanır. Süreç, soru ağı tekniği kullanılarak açık uçlu sorularla değerlendirilebilir.",
+    "GS.11.1.3. Öğrencilere sanat ve özgünlük bağlamında oluşturdukları imgeleri karikatür sanatının özelliklerine göre bir sanatsal ürüne dönüştürecekleri açıklanır. Öğrencilerin portre, editoryal, grafik karikatür, bant karikatür gibi karikatür türlerini görseller üzerinden incelemeleri sağlanır ( OB4 ). Öğrencilere bu karikatür alanlarının özellikleri hakkında kısa açıklamalar yapılabilir.",
+    "Öğrencilerin seçtikleri karikatür türüne uygun görsel anlatım araçlarını belirleyerek ifade etmeleri sağlanır. Geleneksel araçların (resim kalemi, tarama ucu, çini mürekkebi, çeşitli kalınlıklara sahip mürekkepli kalemler, kuru boya, sulu boya vb.) yanı sıra çeşitli dijital araçları da kullanabilecekleri açıklanır. Öğrencilerden sanat ve özgünlük bağlamında oluşturdukları imgeleri karikatüre dönüştürmeleri istenir. Öğrencilere seçtikleri araçların karikatür çiziminde nasıl kullanılacağı ile ilgili gerekli bilgiler verilir. Uygulama sürecinde öğrencilerin merak ettiği soruları sormaları sağlanır ( E3.8 ). Süreç, dereceli puanlama anahtarı veya öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.3",
+      "E3.5",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/575"
+}

@@ -1,0 +1,166 @@
+{
+  "unitId": 81663044,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "44. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 1. ÜNİTE: VERİ BİLİMİ TEMEL KAVRAMLARI",
+  "hours": "16",
+  "description": "Bu ünitede öğrenciler veri biliminin temel kavramlarını öğrenir. Veri bilimi alanında çalışmak için Python programlama dilinin önemini kavrar ve çalışma ortamını hazırlar. Veri etiği konusunda bilgi sahibi olur. Python programlama dili altında kullanılan temel modüller, paketler ve kütüphaneleri kullanır.",
+  "outcomes": [
+    {
+      "code": "BTY.44.1",
+      "title": "Veri bilimi temel kavramlarını açıklar",
+      "processComponents": [
+        "Veri biliminin temel kavramları açıklanır.",
+        "Veri biliminin kullanıldığı alanlar ve günlük hayata olan etkisi açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.44.2",
+      "title": "Soru tiplerini açıklar",
+      "processComponents": [
+        "Doğru verilere ulaşmak için doğru soru sormanın önemi açıklanır.",
+        "Veriye dayalı olarak karar verme sürecinin önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.44.3",
+      "title": "Veri bilimcilerin çalışma basamaklarını açıklar",
+      "processComponents": [
+        "Veri bilimcinin çalışma alanları açıklanır.",
+        "Veri bilimcide bulunması gereken özellikler açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.44.4",
+      "title": "Keşifçi veri analizini açıklar",
+      "processComponents": [
+        "Veriyi her yönüyle keşfetmenin veri analizindeki önemi vurgulanır.",
+        "Veriler arasındaki ilişkinin ve veriyi görselleştirmenin veri analizi sürecine etkilerinden bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.44.5",
+      "title": "Veri döngüsü basamaklarını açıklar",
+      "processComponents": [
+        "Veri döngüsü basamakları açıklanır.",
+        "Verilerin analiz edilmesi, modelleme yapılması, sonuçların yorumlanması ve tekrardan kullanılabilmesi için veri döngüsüne olan ihtiyaç vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.44.6",
+      "title": "Veri türlerini açıklar",
+      "processComponents": [
+        "Nicel ve nitel veri kavramları açıklanır.",
+        "Veri yönetiminin kolaylaşması için veri türlerinin önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.44.7",
+      "title": "Veri etiği kavramını açıklar",
+      "processComponents": [
+        "Veri etiği, veri mahremiyeti, dijital veri kavramları açıklanır.",
+        "Günlük hayatta kullanılan verilerin mahremiyeti ve veri etiği üzerindeki etkisi açıklanır.",
+        "Kişisel verilerin korunması ve veri mahremiyetinin sağlanması için bireylere ve toplumlara düşen görevler açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.44.8",
+      "title": "Python programlama dili için etkileşimli tasarım ortamı kurar",
+      "processComponents": [
+        "Python programlama dilinin kullanıldığı öğrenme ve çalışma ortamı hazırlanır.",
+        "Veri analizinde yaygın olarak kullanılan etkileşimli tasarım ortamları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BTY.44.9",
+      "title": "Python programlama dili temellerini veri bilimi bağlamında kullanır",
+      "processComponents": [
+        "Python programlama dilinde mantıksal operatör kavramı açıklanır.",
+        "Mantıksal operatörlerle ilgili uygulamalar yapılır.",
+        "Python programlama dilinde liste ve değişken kavramı açıklanır.",
+        "Liste ve değişkenlerle ilgili uygulama yapılır."
+      ]
+    },
+    {
+      "code": "BTY.44.10",
+      "title": "Açık kaynak kodlu programlama dili kavramını tanımlar",
+      "processComponents": [
+        "Açık kaynak kodlu programlama dili kavramı açıklanır.",
+        "Açık kaynak kodlu programlama dili çalışmalarında geliştirici topluluklarının önemine değinilir."
+      ]
+    },
+    {
+      "code": "BTY.44.11",
+      "title": "Veri bilimi için gerekli olan Python programlama dili kütüphanelerini tanımlar",
+      "processComponents": [
+        "Çeşitli kütüphaneler (Numpy, Pandas, Scikit-learn, Matplotlib veya Seaborn vb.) tanıtılır."
+      ]
+    },
+    {
+      "code": "BTY.44.12",
+      "title": "Array veri yapısını kullanır",
+      "processComponents": [
+        "Array veri yapısı kavramı tanımlanır ve örnekler verilir.",
+        "Array veri yapısı ile liste veri yapısının kullanımı karşılaştırılır.",
+        "Farklı metotlar kullanarak array oluşturulur.",
+        "Array veri yapısı içerisindeki elemanları bulma işlemleri gerçekleştirilir."
+      ]
+    },
+    {
+      "code": "BTY.44.13",
+      "title": "Arraylerde birleştirme, sıralama, ayırma ve matematiksel işlemler yapar",
+      "processComponents": [
+        "Herhangi bir array kullanılarak farklı arrayler oluşturulur.",
+        "Arraylerde birleştirme, sıralama, ayırma ve matematiksel işlemler gerçekleştirilir."
+      ]
+    },
+    {
+      "code": "BTY.44.14",
+      "title": "Arraylerde biçim, boyut ve boy işlemlerini uygular",
+      "processComponents": [
+        "Arraylerde şekil, boyut ve boy kavramları açıklanır.",
+        "Arraylerde şekil, boyut ve boy bilgilerine ulaşmak için shape, reshape, ndim ve size komutlarının kullanımı gösterilir.",
+        "Bir arraydeki değişkenlerin tipini belirlemek için dytpe komutunun kullanımı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.44.15",
+      "title": "Veri seti oluşturarak veri çerçevesine dönüşüm işlemleri gerçekleştirir",
+      "processComponents": [
+        "Liste, array ve sözlük veri yapıları kullanılarak bir veri seti oluşturulur.",
+        "Pandas kütüphanesi kullanılarak veri seti, veri çerçevesine dönüştürülür.",
+        "Veri seti ile ilgili temel özellikleri incelemek için head(), tail(), columns, axes, values(), types, info() ve describe() komutlarının kullanımı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.44.16",
+      "title": "Belirli koşullara dayanarak bir veri çerçevesini filtreler",
+      "processComponents": [
+        "Veri çerçevelerinde belirli koşulları karşılayan satırları seçmek için koşullu ifadelerin kullanımı gösterilir.",
+        "Veri çerçevesinin belirli sütunlarını seçmek için sütun isimlerin kullanımı gösterilir.",
+        "Belirli değerlere sahip satırları seçmek için isin() fonksiyonunun kullanımı gösterilir.",
+        "SQL benzeri ifadelerle veri çerçevesini filtrelemek için query() fonksiyonunun kullanımı gösterilir.",
+        "Bir sütundaki değerlerin belirli bir aralıkta olup olmadığını kontrol etmek için between() fonksiyonunun kullanımı gösterilir.",
+        "Belirli satır ve sütunları seçmek için loc[] ve iloc[] fonksiyonunun kullanımı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.44.17",
+      "title": "Bir veri çerçevesinde indeksleme, satır ve sütun işlemlerini gerçekleştirir",
+      "processComponents": [
+        "Bir veri çerçevesinin indekslerini ayarlama ve sıfırlama işlemleri gösterilir.",
+        "Bir veri çerçevesi üzerinde fonksiyon kullanımı gösterilir.",
+        "Bir veri çerçevesi üzerinde yeni sütun oluşturma işlemi gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

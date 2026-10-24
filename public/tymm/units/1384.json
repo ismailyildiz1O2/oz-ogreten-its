@@ -1,0 +1,50 @@
+{
+  "unitId": 1384,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "3. TEMA: ÇALGIMI TANIYORUM (VİYOLA)",
+  "hours": "15",
+  "description": "Temada öğrencilerin viyola çalgısının yapısal özelliklerini tanıyabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.1.3.1",
+      "title": "Viyola çalgısını tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "özellik, viyola, yapısal",
+  "support": [
+    "Destekleme sürecinde hafıza oyunları veya viyola bölümlerini eşleştirme kartları hazırlanabilir. Öğrenciden viyola bölümlerini içeren basit bir el işi etkinliği ya da eğlenceli bir boyama çalışması yapması istenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, viyolanın bölümleriyle ilgili bir dijital etkileşimli simülasyon veya animasyon izleyerek çalgının yapısal özelliklerini daha ayrıntılı inceleyebilirler. Ayrıca viyolanın farklı bölümlerinden çıkarılan seslerin örneklerini dinleyerek bu seslerin müzik içindeki rolünü keşfetmeleri sağlanabilir. İleri bir etkinlik olarak viyola ve diğer yaylı çalgıların görselleri üzerinde sürükle-bırak eşleştirme oyunları oynanabilir. Proje çalışmaları kapsamında öğrenciler, viyolanın tarihçesi ve kullanım alanları üzerine kısa bir sunum hazırlayarak sınıf arkadaşlarına sunabilirler. Ayrıca öğrencilerden seçilen bir yaylı çalgının (viyola, keman, çello ya da kontrbas) bölümlerinin hangi malzemeden yapıldığını araştırarak küçük bir poster hazırlamaları istenebilir. Böylece öğrenciler, viyola ve diğer yaylı çalgıların özelliklerini hem işitsel hem görsel hem de yaratıcı yollarla daha iyi anlayabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, kontrol listesi ve performans görevi ile ölçülebilir. Performans görevi olarak öğrencilerden viyolanın bölümleri ile ilgili şema ya da poster gibi bir materyal hazırlamaları istenir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VİY.1.3.1",
+    "Öğrencilere viyolanın büyük bir görseli gösterilir ve bölümleri (gövde, klavye, teller, burgular, eşik, f delikleri, yay, çenelik, kuyruk vb.) tanıtılır ( SDB2.1 ). Viyolanın bölümlerinin isimleri sorulup öğrencilerin viyolanın bölümlerini merak etmeleri sağlanır ( E1.1. ). Öğrencilerle birlikte viyolanın her bölümünün ne işe yaradığı açıklanır. Dersin eğlenceli bir ortamda işlenmesi adına öğrencilere viyolanın bölümlerinin isimlerinin bulunduğu kartlar verilir. Bölüm isimlerini doğru şekilde viyola görseli üzerinde eşleştirmeleri istenir ( E2.5 ). Sonrasında öğrencilere viyola resmi dağıtılıp bölümlerini boyama etkinliği düzenlenebilir. Öğretmen tarafından viyolanın açık tellerinden sesler çıkararak öğrencilere dinletilir. Öğrencilerin gözlem yapmaları beklenir ( KB2.2 ). Öğrenciler arasında sesin kalın mı ince mi olduğu tartışılır ve hissettikleri paylaşılır. Daha sonra öğrencilerle yeni bir oyun daha oynanabilir. Çocuklara viyola sesi duyduklarında ayakta durmaları başka bir ses duyduklarında oturmaları söylenip hem spor yapmanın hem de bilgi öğrenmelerinin sosyalleşerek gerçekleşmesi sağlanır ( D13.2.1 ).Öğrencilerin çalışmalarda aktif rol almaları ve grupla çalışma becerisi sergilemeleri beklenilir ( D3.4.1 ). Viyola, keman, çello ve kontrbasın görselleri gösterilir. Viyola çalgısını görsellerden ayırt etmeleri beklenilir ( OB4 ). Öğrencilerden bu çalgıları büyüklük, ses rengi ve kullanım alanları açısından karşılaştırmaları istenir. Öğretmen, keman ve viyolanın boyut ve ses farklarını açıklayarak öğrencilerle birlikte bir karşılaştırma tablosu oluşturur. Öğrenciler gördükleri tabloları etkileşimli tahtada bulunan şahsi klasörlerine bir harici bellek vasıtasıyla kopyalarlar ( OB2 ). Performans görevi olarak öğrencilerden viyolanın bölümleri ile ilgili şema ya da poster gibi bir materyal hazırlamaları istenir. Sürecin sonunda öğretmen gözlem formu ya da dereceli puanlama anahtarı ile süreci değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2.1",
+      "D3.4.1"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1384"
+}

@@ -1,0 +1,47 @@
+{
+  "unitId": 80791011,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "11. ÜNİTE: OSMANLI TÜRKÇESİNDE EL YAZISI (RİKA) METİNLER",
+  "hours": "32",
+  "description": "Bu ünitenin işlenişinde; farklı okuma (sesli, sessiz, paylaşarak okuma vb.) ve dinleme/ izleme (katılımsız, eleştirel, seçici vb.) teknikleri kullanılmalıdır.",
+  "outcomes": [
+    {
+      "code": "OSM.11.5.1.1",
+      "title": "Rika hattıyla yazılmış metinleri okur",
+      "processComponents": [
+        "Okuma hızının arttırılmasına yönelik çalışmalar yapılmalıdır.",
+        "Osmanlı Türkçesiyle yazılmış eserlere ilgiyi artırmak ve öğrencilerde bu eserleri okumaya istek uyandırmak amacıyla rika harflerle yazılmış kitaplar okunmasına ilişkin yönlendirmeler yapılmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.11.5.1.2",
+      "title": "Osmanlı Türkçesiyle yazılmış metinleri içerik bakımından değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.5.1.3",
+      "title": "Bilmediği kelimelerin anlamını Osmanlı Türkçesi lügati kullanarak bulur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.5.1.4",
+      "title": "Metinlerdeki Arapça ve Farsça asıllı dil ögelerini belirler",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.5.1.5",
+      "title": "Osmanlı Türkçesiyle yazılmış metinleri okumaya istek duyar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

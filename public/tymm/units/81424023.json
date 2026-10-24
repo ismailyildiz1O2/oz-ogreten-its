@@ -1,0 +1,29 @@
+{
+  "unitId": 81424023,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "23. ÜNİTE: FLÜT - HIZ VE GÜRLÜK TERİMLERİ",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.3.8.1",
+      "title": "Flütte largo, andante, moderato, allegro hız terimlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.8.2",
+      "title": "Flütte piano (p), mezzoforte (mf), forte(f) gürlük terimlerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

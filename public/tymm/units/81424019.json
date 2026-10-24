@@ -1,0 +1,29 @@
+{
+  "unitId": 81424019,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "19. ÜNİTE: FLÜT - FLÜTTE DURUŞ VE TUTUŞ TEKNİĞİ",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.3.4.1",
+      "title": "Flüt çalarken vücudun alması gereken doğru duruş pozisyonunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.4.2",
+      "title": "Flütün parçalarını birleştirerek doğru bir tutuş pozisyonu uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

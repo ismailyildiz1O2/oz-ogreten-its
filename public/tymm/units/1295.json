@@ -1,0 +1,50 @@
+{
+  "unitId": 1295,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "2. TEMA: KANUN ÇALARKEN AKSAK SEMAÎ USULÜNÜ ÖĞRENİYORUM",
+  "hours": "8",
+  "description": "Temada öğrencinin aksak semai usulünü kavranması üstünde durulur.",
+  "outcomes": [
+    {
+      "code": "KNN.8.2.1",
+      "title": ". Aksak semâi usulünü çalabilme",
+      "processComponents": [
+        "a) Aksak semâi usulünü sağ ve sol dizinin üstüne vurarak çalmak için yazılmış etüt veya eserleri çözümler.",
+        "b) Aksak semâi usulünü sağ ve sol dizinin üstüne vurarak çalmak için duruş pozisyonu alır.",
+        "c) Aksak semâi usulünü sağ ve sol dizinin üstüne vurarak çalmak için usule uygun teknikleri kullanır.",
+        "ç) Aksak semâi usulünü sağ ve sol dizinin üstüne vurarak çalmak için usulün bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, makam, müzik, perde",
+  "support": [
+    "Öğrencilerin aksak usülleri ile ilgili öğrenmeleri takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom yavaşlatılarak çalınabilir. Yavaş metronom ile öğrenilen etütler, öğrencinin öğrenmelerine göre hızlandırılarak çaldırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin öğrendiği dizilerde eser ve etütleri farklı metronom hızları ile çalışılabilir. Ayrıca öğrenilen dizinin 1, 4 ve 5 ses transpoze çalışmaları ile öğrenmeler geliştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden aksak semâi usulünü ve özelliklerini örnek etüt ve eserlerle çalabilme performasn görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.8.2.1",
+    "Öğrencinin çalışacağı eser veya etütler öğrenciyle çözümlenir ( KB2.4 ). Daha önceden öğrenciye usul kavramı geleneksel Türk müziğimiz içerisinde usulün ne olduğu, eserlerde nasıl kullanıldığı ile ilgili genel bilgi verildiğinden birleşik usullerimizden olan aksak semâi usulü vuruşları (darpları) uygulamalı şekilde gösterilerek öğrencinin usule ve usul vurmaya odaklanması sağlanır ( E3.2 , OB1 ). Daha sonra öğrenciden bunları tekrar etmesi istenir. Ardından bu usullerde yazılmış Türk müziğine ait etüt ve örnek eserler çalınarak usul kavramı pekiştirilir ( D12.3 ). Öğrencilerden aksak semâi usulünü ve özelliklerini örnek etüt ve eserlerle çalabilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı, öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1295"
+}

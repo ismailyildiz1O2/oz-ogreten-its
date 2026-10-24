@@ -1,0 +1,69 @@
+{
+  "unitId": 81424032,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "32. ÜNİTE: KLARNET - KLARNETTE TONAL DİZİLER ARALIKLARI VE ARPEJ ÇALIŞMALARI",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.5.2.1",
+      "title": "Do majör dizisini bir oktav çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.2",
+      "title": "Do majör dizisinin aralıkları arpeji ve kırık arpejini çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.3",
+      "title": "Öğrendiği artikülasyonları do majör gam, aralık, arpej ve kırık arpej çalışmaları üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.4",
+      "title": "Do majör tonunda etüt çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.5",
+      "title": "Do majör tonunda eser çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.6",
+      "title": "La minör dizisini doğal, armonik ve melodik biçimleriyle bir oktav çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.7",
+      "title": "La minör dizisinin aralık, arpej ve kırık arpejini çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.8",
+      "title": "Öğrendiği artikülasyonları la minör gam, aralık, arpej ve kırık arpej çalışmaları üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.9",
+      "title": "La minör tonunda etüt çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.5.2.10",
+      "title": "La minör tonunda eser çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

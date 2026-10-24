@@ -1,0 +1,40 @@
+{
+  "unitId": 81424124,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "124. ÜNİTE: EBRU - EBRU SANATI",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.3.1.1",
+      "title": "Ebru sanatını açıklar",
+      "processComponents": [
+        "Bazen bir murakkaada yazı pervazı, bazen bir mushafın cilt yan kâğıdı, bazen ciltlerinin ön kapaklarında cilt yerine, bazen de bir hat levhasının etrafında iç ve dış pervaz olarak yer bulan Ebru sanatının; sabır, ritim, denge ve güzelliğin sanatı olduğu açıklanır."
+      ]
+    },
+    {
+      "code": "GTSA.3.1.2",
+      "title": "Ebru kelimesinin kökenini irdeler",
+      "processComponents": [
+        "Ebru sanatı isminin neden “ebru” olduğuna değinilir."
+      ]
+    },
+    {
+      "code": "GTSA.3.1.3",
+      "title": "Ebru sanatının iç dünyamıza kattığı değerleri benimser",
+      "processComponents": [
+        "Ebru teknesinin küçük bir kainat kitabı gibi olduğu, okumasını bilene her daim derin manalar, varlığın sırrını anlamada emsalsiz mülâhazalar sunduğu vurgulanır. Ebru sanatının manevi dünyamıza etkilerine önem ve ağırlık verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

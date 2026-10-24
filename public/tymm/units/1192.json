@@ -1,0 +1,53 @@
+{
+  "unitId": 1192,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "3.TEMA: KAVAL MAKAMLAR VE UYGULAMALARI 1.",
+  "hours": "17",
+  "description": "Tema içeriğini, Türk müziğindeki çargâh makamında kaval ile etüt ve Türk halk müziği eserleri çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan çargâh makamında etütleri ve eserleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.5.3.1",
+      "title": "Çargâh makamında Türk halk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) Çargâh makamında Türk halk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak çargâh makamında Türk halk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "kaval, makam, Türk müziği",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Öğretmenin yardımı ile makamların barındırdığı seslerden oluşan etütler sık tekrar edilebilir. Eserler ve etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup eseri kaval ile seslendirirken diğer grup eserin solfejini yapabilir. Bu etkinlik süreci eğlenceli hâle getirirken öğrencilerin sosyal iletişimi geliştirebilir. Türk müziği teori uygulama dersinde çargâh makamında öğrendikleri eserleri kaval ile seslendirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak çargâh makamında kendi melodilerini oluşturmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.5.3.1",
+    "Öğretmen tarafından çargâh makamından oluşan Türk halk müziği eserleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden eserleri çözümlemeleri beklenir. Çargâh makamının genel özellikleri anlatılarak makamın dizisi gösterilip solfeji yapılır ve öğrencilerin odaklanıp makamın genel özelliklerini kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2) . Daha sonra öğretmen, çargâh makamında Türk halk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler.Öğrenciler, öğretmen tarafından yapılan bona ve solfeji inceleyip uygun teknikleri kullanarak Türk halk müziği eserinin önce bona ardından solfejini sergiler ( KB2.14 , SAB10 ). Seslendireceği çargâh makamındaki etüt ve Türk halk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kaval ile çargâh makamından oluşan eserleri çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Çargâh makamının belirgin şekilde algılanması için uzun seslerden Türk halk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrenciler gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Performans görevi olarak çargâh makamında kendi melodilerini oluşturmaları istenebilir. Çalışmalar gözlem formu veya dereceli puanlama anahtarı ile değerlendirilebilir"
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB10"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1192"
+}

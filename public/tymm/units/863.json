@@ -1,0 +1,74 @@
+{
+  "unitId": 863,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Spor Okulları - Çocuklarda Atletik Performans Uygulamaları Dersi",
+  "title": "2. ÜNİTE: ÇEVİKLİK KAVRAM VE UYGULAMALARI",
+  "hours": "16",
+  "description": "Bu ünitenin amacı; öğrencilerin çeviklik kavramını teorik ve uygulamalı olarak anlamalarını, çevikliğin sportif performans üzerindeki etkilerini analiz etmelerini ve bu beceriyi geliştirmelerine yönelik yöntemleri öğrenmelerini sağlamaktır. Öğrencilerin çeviklik testleri ve egzersizleri aracılığıyla kendi çeviklik düzeylerini değerlendirerek bireysel hedefler koymalarına olanak sağlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "ÇAPU.6.2.1",
+      "title": "Çevikliğin sportif performans üzerindeki etkilerini özetleyebilme",
+      "processComponents": [
+        "a) Çevikliğin sportif performans üzerindeki etkilerini çözümler.",
+        "b) Çevikliğin sportif performans üzerindeki etkilerini sınıflandırır.",
+        "c) Çevikliğin sportif performans üzerindeki etkilerini yorumlar."
+      ]
+    },
+    {
+      "code": "ÇAPU.6.2.2",
+      "title": "Test sonuçlarına dayalı olarak çeviklik düzeyini değerlendirebilme",
+      "processComponents": [
+        "a) Çevikliğe ilişkin ölçüt belirler.",
+        "b) Çeviklik düzeyini ölçer.",
+        "c) Test sonuçlarını ölçütlerle karşılaştırır.",
+        "ç) Karşılaştırmalarına ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "ÇAPU.6.2.3",
+      "title": "Çeviklik alıştırmaları ile fiziksel uygunluğunu sağlayabilme",
+      "processComponents": [
+        "a) Çeviklik bileşenlerini açıklar.",
+        "b) Çeviklik bileşeni egzersizlerini uygular.",
+        "c) Çeviklik egzersizleri ile fiziksel uygunluğunu geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "çeviklik, performans, reaksiyon hızı",
+  "support": [
+    "Öğrencilere bireysel geri bildirim verilip geliştirilmesi gereken yönlerine ilişkin bireyselleştirilmiş programlarda süreç devam ederken gerekli düzenlemeler yapılabilir. Çeviklik egzersizleri sırasında yeterli dinlenme süreleri tanınarak öğrencilerin kaslarının toparlanması sağlanabilir ve tekrarlarla becerilerin pekiştirilmesi desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden kendi çevikliklerini geliştirmeleri için bireysel hedefler belirlemeleri ve bu hedeflere yönelik bir egzersiz planı tasarlamaları istenebilir. Grup çalışmalarıyla farklı spor branşlarında çevikliğin önemini analiz eden bir poster veya sunum hazırlanabilir. Çabukluk, denge, esneklik ve koordinasyon egzersizleri yaşantıda kullanılarak çeviklik egzersizlerinin etkinliği artırılabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin çıktıları çeviklik testi, gözlem ve değerlendirme formlarıyla değerlendirilebilir. Öğrencilerin hız, denge, yön değiştirme gibi çeviklik unsurları Illinois, çeviklik vb. testler ile ölçülebilir. Çeviklik egzersizlerinde öğrencilerin koordinasyon, hız ve denge becerileri öğretmen tarafından gözlemlenir ve değerlendirme formlarıyla kayıt altına alınabilir. Sürecin değerlendirilmesi için bir performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "ÇAPU.6.2.1. Çevikliğin performans üzerindeki etkilerini çözümlemek için öğrencilerle çevikliğin tanımı yapılır ve çevikliğin günlük hayatta ya da spor branşlarındaki önemi tartışılır ( SDB2.1 ). Çeviklik parkuru düzenlenir; yön değiştirme, geri dönme gibi görevler içeren bu parkurda öğrenciler sırayla performans sergiler ve öğrencilerin süreleri kaydedilir ( D3.4 ). Parkurun ardından \"Dönüşleri daha hızlı yapabilseydiniz performansınız nasıl etkilenirdi?\", \"Yön değiştirme sırasında hızınızı kontrol etmek neden önemliydi?\", \"Parkuru kısa sürede tamamlamak için neler yapılabilir?\" gibi sorularla öğrencilerin deneyimlerini analiz etmeleri sağlanır ( SDB3.3 ). Ayrıca çeviklik gerektiren sporlarla ilgili kısa videolar izletilerek çevikliğin performans üzerindeki etkileri açıklanır ( OB4 ). Öğrenciler küçük gruplara ayrılır ve onlardan çevikliğin performans üzerindeki etkilerini farklı açılardan sınıflandırmaları istenir. Ayrıca istasyon tekniği kullanılarak her grubun çevikliği farklı yönleriyle keşfetmesi sağlanabilir ( SDB3.1 ). Farklı spor branşlarında çeviklik gerektiren hareketlerin neler olduğu ve bu branşlarda sporcuya sağladığı avantajların tartışılması sağlanır. Örneğin futbolda ani yön değiştirme, basketbolda savunma hareketleri veya teniste hızlı pozisyon alma gibi durumlar üzerinden öğrencilerden çevikliğin performansa katkılarını yorumlamaları istenir ( SDB2.1 , SDB3.3 ).",
+    "ÇAPU.6.2.2. Çevikliğin hangi ölçütlerle değerlendirilebileceği açıklanır. Örneğin \"Illinois Çeviklik Testi\" veya \"T-Testi\" gibi çeviklik ölçen bir test seçilir. Seçilen testin protokolüne göre test uygulanır. Örneğin Illinois Çeviklik Testi'nde koniler arasında yön değiştirme ve hızla bitiş noktasına varma süresi kronometre, fotosel vb. ile ölçülebilir. Her öğrencinin bireysel sonucu kayıt altına alınır ve bireysel gelişim dosyasına kaydedilir ( OB7 ). Testler tamamlandıktan sonra öğrencilerin sonuçları önceden belirlenen ölçütlerle karşılaştırılır.",
+    "ÇAPU.6.2.3. Çevikliğin sportif performansta oyuncuların hızlı pozisyon değiştirmesi, rakibin hareketlerine yanıt vermesi gibi durumlarda nasıl öne çıktığı; spor müsabakalarından örneklerle video, görsel gibi materyallerle desteklenerek gösterilir ( OB4 ). Öğrencilere belirli bir hızda ilerlerken yön değiştirmeleri, zıplayarak farklı konumlara geçmeleri veya dengelerini koruyarak geri çekilmeleri gibi uygulamaların olduğu farklı çeviklik egzersizleri yaptırılır ( D3.4 , SDB3.1 ). Bu etkinlete öğrencilerin çevikliğin sportif performanstaki rolünü kavramaları ve açıklamaları sağlanır. Öğrencilere farklı spor branşlarına özgü çeviklik alıştırmaları uygulanır. Tüm çeviklik egzersizlerinde vücudun kontrollü hareketi ve doğru postür sağlanmalı, hareketlerin doğruluğu gözlemlenmeli ve gerektiğinde düzeltmeler yapılmalıdır. Egzersizlerde öğrencilerin kaslarının toparlanması ve kontrolün sürekliliği için dinlenme süreleri dikkatlice ayarlanarak yeterli aralar verilmelidir. Uygun durumlarda hareketlerin hızları artırılır. Öğrencilerden daha hızlı bir tempoda hareket etmeleri ve yön değiştirmeleri istenir. Ek olarak hareket sıklığı artırılarak koniler arasında daha kısa mesafelerde yön değiştirme gibi hızlı tepkiler gerektiren egzersizler yapılır. Çeviklik egzersizlerine denge gerektiren pozisyonlar eklenerek yön değiştirirken tek ayak üzerinde durma veya kısa süreli denge pozisyonları gibi hareketin daha karmaşık düzeye getirilmesi sağlanır ( SDB3.1 , SDB3.2 ). Çeviklik etkinliklerine zamanla hız, denge ve koordinasyon gibi diğer fiziksel uygunluk bileşenleri de eklenerek gelişim süreçleri daha kapsamlı bir şekilde desteklenir. Sürecin sonunda çeviklik ile ilgili testler uygulanarak her öğrencinin gelişim düzeyi ölçülür ( E3.7 ). Başlangıçta alınan ön test ve son testler karşılaştırılarak çeviklik egzersizlerinin fiziksel uygunluğa katkısı değerlendirilir. Öğrencinin kendi sonuçlarını göz önünde bulundurarak ne gibi eklemeler yapması gerektiğini, süreci yönetirken nasıl hissettiğini ve sürecin kendisine sunduğu katkıları ifade etmesi istenir ( SDB1.3 ). Sürecin değerlendirmesi ile ilgili bir performans görevi verilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/863"
+}

@@ -1,0 +1,58 @@
+{
+  "unitId": 81354003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Girişimcilik Dersi",
+  "title": "3. ÜNİTE: İŞLETME VE İŞLETME TÜRLERİ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GRS.3.1",
+      "title": "İşletme kavramının anlamını insan-ihtiyaç ve kâr-hizmet ilişkisi bağlamında açıklar",
+      "processComponents": [
+        "İşletme kavramının tanımı yapılır ve işletmenin amaçları açıklanır.",
+        "Başarılı işletmelerle ilgili somut örnekler verilir."
+      ]
+    },
+    {
+      "code": "GRS.3.2",
+      "title": "İşletmelerin temel fonksiyonlarını yorumlar",
+      "processComponents": [
+        "İşletmelerin temel fonksiyonları somut örnekler üzerinden açıklanır.",
+        "Yönetim fonksiyonları ile ilgili planlama, örgütleme, yöneltme, eş güdüm ve kontrol bilgisi üzerinde durulur.",
+        "İşletmelerin iyi yönetilememesi durumunda yaşanabilecek sonuçların neler olabileceği açıklanır.",
+        "Finansman kaynakları üzerinde durulur.",
+        "Reklamın satın alma kararına etkisi irdelenerek bilinçli tüketimin önemine değinilir; toplum ve insan psikolojisi üzerindeki etkisi, sosyal psikoloji biliminden yararlanılarak açıklanır. Güncel reklamlardan örnekler verilir."
+      ]
+    },
+    {
+      "code": "GRS.3.3",
+      "title": "İşletme türlerini sınıflandırır",
+      "processComponents": [
+        "İşletmeler; faaliyet alanlarına, üretim araçlarının mülkiyetine, hukuki yapılarına, büyüklüklerine, kullandıkları üretim teknolojilerine göre sınıflandırılarak açıklanır.",
+        "İşletmelerin Türk Ticaret Kanunu, Borçlar Kanunu, Kooperatifler Kanunu'na göre hukuki açıdan sınıflandırılmaları yapılır.",
+        "Türk Ticaret Kanunu, Ticaret Sicili Gazetesi ilanları, Resmî Gazete örneklerinden yararlanılarak anonim şirket veya limited şirketin ana sözleşmeleri sınıfta incelenir.",
+        "İşletmelerin işleyiş bakımından sınıflandırılması yapılır.",
+        "İşletmelerin ekonomik bakımdan sınıflandırılması yapılır."
+      ]
+    },
+    {
+      "code": "GRS.3.4",
+      "title": "Bir işletme örneğini yerinde inceleyerek gözlem sonuçlarına yönelik rapor hazırlar",
+      "processComponents": [
+        "İşletme ziyaretiyle ilgili bir organizasyon yapılır.",
+        "Yönetim, pazarlama, insan kaynakları, pazarlama ve satış bölümünde çalışan kişilerle görüşülür.",
+        "İşletmenin faaliyet alanı, türü ve çalışan sayısı hakkında bilgi alınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112494851663-giri%C5%9Fimcilik%C3%B6%C4%9Fretimprogram%C4%B1.pdf"
+}

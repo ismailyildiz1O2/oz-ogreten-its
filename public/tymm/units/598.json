@@ -1,0 +1,57 @@
+{
+  "unitId": 598,
+  "grade": 0,
+  "gradeName": "Genel",
+  "subject": "Beden Eğitimi ve Spor Dersi Hazirlik 1. TEMA: ZİNDELİK VE FİZİKSEL AKTİVİTE Teması",
+  "title": "1. TEMA: ZİNDELİK VE FİZİKSEL AKTİVİTE",
+  "hours": "12",
+  "description": "Öğrencilerin fiziksel etkinliğin beden ve ruh sağlığına etkisini yorumlayabilmeleri ve hareket kalıplarını kullanarak ritmik hareket edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.H.1.1",
+      "title": "Fiziksel etkinliğin beden ve ruh sağlığına etkisini yorumlayabilme",
+      "processComponents": [
+        "a) Fiziksel etkinliğin beden ve ruh sağlığı üzerindeki etkisini inceler.",
+        "b) Fiziksel etkinliğin beden ve ruh sağlığına etkisine ilişkin edindiği bilgileri yazılı veya görsel biçimlere dönüştürür.",
+        "c) Fiziksel etkinliğin beden ve ruh sağlığı üzerindeki etkisini özgün bir şekilde ifade eder. BES.H.1.2. Hareket kalıplarını kullanarak ritmik hareket edebilme",
+        "a) Verilen ritmi algılar.",
+        "b) Ritme göre hareket kalıplarını uygular.",
+        "c) Hareket kalıplarını farklı ritimler eşliğinde sergiler."
+      ]
+    }
+  ],
+  "keyConcepts": "hareket kalıbı, ritim",
+  "support": [
+    "Öğretmen veya akran yardımıyla fiziksel etkinliğin beden ve ruh sağlığına etkisini ifade eden bilgi kartı hazırlaması istenebilir. El çırpma, kolları sallama, diz çekme vb. hareket kalıplarını uygulaması istenebilir."
+  ],
+  "enrichment": [
+    "Beden ve ruh sağlığının iyileştirilmesinde fiziksel etkinliğin önemi hakkında profesyonel sporcularla röportaj yapması istenebilir. Hareket kalıplarını kullanarak kendine özgü bir figür oluşturması istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; dereceli puanlama anahtarı, grup değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Grupların ritmik hareket edebilme ile ilgili çalışmaları; yardımlaşma, grup uyumu, alan kullanımı vb. ölçütler kullanılarak oluşturulan grup değerlendirme formu ile değerlendirilebilir.",
+    "Fiziksel aktivitenin beden ve ruh sağlığına etkisine yönelik çıkarımlarını içeren 150-200 kelimeden oluşan metin hazırlamaları performans görevi olarak verilebilir. Performans görevi dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.H.1.1. Öğrenciler, verilen kaynaklardan (kısa film, karikatür, slayt, belgesel, makale vb.) hareketle fiziksel aktivitenin beden ve ruh sağlığına etkisini inceler ( OB1 ). Öğrenciler, tartışma yoluyla düzenli yapılan fiziksel aktivitenin beden ve ruh sağlığı (fizyolojik, kardiyovasküler sistem, depresyon, anksiyete bozukluğu, dikkat eksikliği vb.) üzerindeki olumlu etkilerini belirler ( D13.2 ). Öğretmen rehberliğinde öğrenciler gruplara ayrılır. Gruplar, belirledikleri bir fiziksel aktivitenin (yürüyüş, koşu, yüzme, bisiklet sürme vb.) beden ve ruh sağlığına yararlarını gösteren afiş hazırlar ( SDB2.2 , E3.3 ). Hazırladıkları afişleri sınıf ya da okul panosunda sergiler. Gruplardan fiziksel aktivitenin beden ve ruh sağlığına etkisine yönelik 100-150 kelimeden oluşan kısa bir metin hazırlamaları performans görevi olarak verilebilir. Performans görevi dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BES.H.1.2. Öğrencilerin ritmik hareketlerle (el çırpma, kolları sallama, diz çekme vb.) ısınmaları sağlanır. Verilen ritimler (alkış, düdük, melodi vb.) dinlenerek bu ritimlerin algılanması sağlanır. Öğrenciler, öğretmen rehberliğinde gruplara ayrılır. Gruplar, algıladıkları ritimlere göre hareket kalıplarını farklı seviye (yüksek-alçak), yön (ileri-geri, sağa-sola vb.) ve hızlarda (yavaş, orta, yüksek) uygular ( SDB2.2 ). Uygulama esnasında arkadaşlarına yapıcı geri bildirimler vermeleri istenir ( SDB2.1 , D4.1 ). Gruplardan ritim eşliğinde uyguladıkları hareket kalıplarıyla koreografi oluşturmaları istenir ( E3.3 , D7.2 ). Oluşturulan koreografiler gruplar tarafından sergilenir ( BEOSAB4 ). Öğrenciler, hafif tempolu yürüyüş yaparak soğuma hareketlerini gerçekleştirirler. Gruplar birbirlerinin performanslarını izler. Performanslar; hareketlerin çeşitliliği, grup uyumu, alan kullanımı vb. ölçütler kullanılarak oluşturulan grup değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D4.1",
+      "D7.2"
+    ],
+    "egilim": [
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/598"
+}

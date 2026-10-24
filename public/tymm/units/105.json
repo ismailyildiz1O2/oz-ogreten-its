@@ -1,0 +1,68 @@
+{
+  "unitId": 105,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Hayat Bilgisi Dersi",
+  "title": "3. ÖĞRENME ALANI: AİLEM VE TOPLUM",
+  "hours": "20",
+  "description": "Bu öğrenme alanının içeriğini; ailenin önemi, ailede görgü ve nezaket kuralları, öğrencinin ailesindeki görev ve sorumlulukları oluşturmaktadır. Bu doğrultuda öğrencilerin ailenin önemini fark etmeleri, aile yaşamında nezaket kurallarına uygun davranmaları, aile bireylerinin üzerine düşen görev ve sorumlulukları çözümlemeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "HB.1.3.1",
+      "title": "Aile olmanın önemini fark edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.3.2",
+      "title": "Aile yaşamında nezaket ve görgü kurallarına uygun davranabilme",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.3.3",
+      "title": "Aile bireylerinin görev ve sorumluluklarını çözümleyebilme",
+      "processComponents": [
+        "a) Aile içindeki görev ve sorumlulukları belirler.",
+        "b) Aile bireylerinin görev ve sorumluluklarını ilişkilendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "aile, nezaket, görgü, görev, sorumluluk, saygı, sevgi",
+  "support": [
+    "Öğrencilerden aile olmanın önemini belirlerken aile bireylerinin resimlerini çizmeleri, aile yaşamında uydukları nezaket kuralları ile görev ve sorumluluklarını; sunulan görsellerden yararlanarak ifade etmeleri istenebilir. Hatırlamayı kolaylaştıracak biçimde düzenlenen grafikler, resimler, zihin haritaları gibi görseller de eklenerek öğretim desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden aile bireylerinin tanıtıldığı ve aile bireyleri arasındaki bağların anlatıldığı kısa film, video gibi özgün ürünler oluşturmaları ve sunmaları istenebilir. Aile yaşamında bireylerin nezaket kurallarına, görevlerine ve sorumluluklarına ilişkin şarkı şiir, hikâye gibi özgün ürünler oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; anekdot kaydı, canlandırma, kontrol listesi, eşleştirme kartları kullanılarak değerlendirilebilir. Sınıf içi performans görevi olarak öğrencilerden aile albümü hazırlamaları istenebilir. Hazırlanan albümler bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Bütüncül dereceli puanlama anahtarında görsellerin kullanımı ve uygun yerleştirilmesi gibi kriterler temel alınabilir."
+  ],
+  "teachingApplications": [
+    "HB.1.3.1 Öğrencilerden aile olmanın önemini fark edebilmeleri ( KB1 ) beklenir. Bunun için öğrencilerden aile bireylerinin kimler olduğunu ifade etmeleri istenir. Konuşma halkası, vızıltı grupları, tek cümlelik özetler gibi teknikler kullanılarak çekirdek ve geniş aileyi oluşturan bireylere örnekler verilir. Öğrencilerden de aile bireylerine örnek vermeleri istenir. Ailenin önemine ilişkin hikâye, masal gibi eğitici içeriklerden örnek metinler istenir. Öğrencilerin aile ilişkilerinin önemini verilen örnekler üzerinden incelemeleri beklenir. Ailedeki birlik, beraberlik, fedakârlık, sevgi, anlayışlı olmak gibi temel değerler üzerine tartışma yapılarak öğrencilerin konuya ilişkin çıkarım yapmaları sağlanır ( D2.1 , D9.2 , D15.1 ) . Öğrencilerden sınıf içi performans görevi olarak fotoğraf veya görsellerle oluşturdukları bir aile albümü hazırlamaları ( E1.4 ) istenir ( OB4.4 ) . Oluşturulan ürünler bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "HB.1.3.2 Öğrencilerden aile yaşamında nezaket ve görgü kurallarına uygun davranabilmeleri ( KB1 ) beklenir. Bunun için öğrencilerin aile yaşamında uyulması gereken nezaket ve görgü kurallarını ifade etmeleri istenir. Konu ile ilgili görsel ve işitsel eğitici materyaller ( OB4.1 ) kullanılarak örnekler sunulur. Aile yaşamında \"günaydın\", \"eline sağlık\", \"lütfen\", \"teşekkür ederim\" gibi nezaket ifadeleri kullanmak, aile bireylerinin odalarına girerken kapıyı çalmak ( D8.3 , D14.1 ) gibi nezaket kuralları üzerinde durulur. Sofraya beraber oturup beraber kalkmak, üstüne dökmeden yemek yemeye dikkat etmek, çatal, kaşık, peçete kullanmak gibi görgü kurallarına vurgu yapılır. Ailede nezaket ve görgü kurallarına uygun davranmanın aile içi iletişimi güçlendireceği üzerinde durulur ( D2.3 ) . Öğrencilere konuya ilişkin örnek olay, canlandırma gibi tekniklerle çeşitli etkinlikler yaptırılır. Öğrencilerin konu ile ilgili davranışları anekdot kaydı ile değerlendirilebilir.",
+    "HB.1.3.3 Öğrencilerden aile bireylerinin görev ve sorumluluklarını çözümleyebilmeleri ( KB2.4 ) beklenir. Bunun için öğrencilerden öncelikle aile içindeki görev ve sorumlulukları belirlemeleri (a) istenir. Bu aşamada öğrencilerin aile yaşantısından ve örnek olaylardan yola çıkarak aile bireylerinin görev ve sorumluluklarına ilişkin örnekler vermeleri istenir ( D2.4 , D16.3 ) . Ardından öğrencilerden aile bireylerinin görev ve sorumluluklarını ilişkilendirmeleri (b) istenir. Öğrencilerin, aile bireylerinin görev ve sorumluluklarını sunulan görsel kartlar, görsel kavram haritası gibi materyallerle açıklamaları beklenir. Konuya ilişkin görsellerin yer aldığı eşleştirme kartları kullanılarak ( OB4.1 ) değerlendirme yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D15.1",
+      "D16.3",
+      "D2.1",
+      "D2.3",
+      "D2.4",
+      "D8.3",
+      "D9.2"
+    ],
+    "egilim": [
+      "E1.4"
+    ],
+    "kavramsal": [
+      "KB1",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB4.1",
+      "OB4.4"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/105"
+}

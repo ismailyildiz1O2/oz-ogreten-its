@@ -1,0 +1,120 @@
+{
+  "unitId": 1662,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "İslam Bilim Tarihi Dersi",
+  "title": "1. Ünite: Yeni Bir Medeniyetin Doğuşu",
+  "hours": "15",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "İBT.1.1",
+      "title": "İslam biliminin temel kavramları ve genel özellikleri ile ilgili kaynağı yorumlayabilme",
+      "processComponents": [
+        "a) İslam biliminin ilim, taakkul, tefekkür, tefekkuh, tedebbür, tezekkür, hikmet, irfan anlayışı ve İslam biliminin genel özellikleri ile ilgili kaynağın içeriğini inceler.",
+        "b) İslam biliminin ilim, taakkul, tefekkür, tefekkuh, tedebbür, tezekkür, hikmet, irfan anlayışı ve İslam biliminin genel özellikleri ile ilgili kaynağı bağlamından koparmadan dönüştürür.",
+        "c) İslam biliminin ilim, taakkul, tefekkür, tefekkuh, tedebbür, tezekkür, hikmet, irfan anlayışı ve İslam biliminin genel özelliklerini anlamı değiştirmeyecek şekilde kendi ifadeleriyle yeniden yorumlar."
+      ]
+    },
+    {
+      "code": "İBT.1.2",
+      "title": "İslam’ın doğduğu ortamın kültürel, ekonomik ve dinî özelliklerini sentezleyebilme",
+      "processComponents": [
+        "a) İslam’ın doğduğu ortamın kültürel, ekonomik ve dinî özelliklerini belirler.",
+        "b) İslam’ın doğduğu ortamın kültürel, ekonomik ve dinî özellikleri arasında ilişki kurar.",
+        "c) İslam’ın doğduğu ortamın kültürel, ekonomik ve dinî özelliklerinden özgün bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "İBT.1.3",
+      "title": "İslam dünyasında bilimin gelişmesinde etkili olan unsurları yorumlayabilme",
+      "processComponents": [
+        "a) İslam dünyasında bilimin gelişmesinde etkili olan unsurları inceler.",
+        "b) İslam dünyasında bilimin gelişmesinde etkili olan unsurları bağlamından kopmadan dönüştürür.",
+        "c) İslam dünyasında bilimin gelişmesinde etkili olan unsurları yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "İBT.1.4",
+      "title": "Şehirlerin bilim, sanat ve irfana etkisi ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Şehirlerin bilim, sanat ve irfana etkisi ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak şehirlerin bilim, sanat ve irfana etkisi ile ilgili bilgileri bulur.",
+        "c) Şehirlerin bilim, sanat ve irfana etkisi ile ilgili ilgili ulaştığı bilgileri doğrular.",
+        "ç) Şehirlerin bilim, sanat ve irfana etkisi ile ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "İBT.1.5",
+      "title": "İslami ilimlerin oluşumunu kaynağından inceleyebilme",
+      "processComponents": [
+        "a) İslami ilimlerden hadis, tefsir, fıkıh ve kelamın temel unsurlarını belirler.",
+        "b) İslami ilimlerden hadis, tefsir, fıkıh ve kelamın temel kavramlarını tanımlar."
+      ]
+    },
+    {
+      "code": "İBT.1.6",
+      "title": "Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanları ile ilgili çıkarım yapabilme",
+      "processComponents": [
+        "a) Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanları ile ilgili varsayımda bulunur.",
+        "b) Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanları ile ilgili örüntüleri listeler.",
+        "c) Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanlarını karşılaştırır.",
+        "ç) Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanları ile ilgili önermeler sunar.",
+        "d) Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "İBT.1.7",
+      "title": "İslam dünyasında tercüme faaliyetlerinin nedenlerini sorgulayabilme",
+      "processComponents": [
+        "a) Tercüme kavramını tanımlar.",
+        "b) İslam dünyasındaki tercüme faaliyetlerinin nedenleri hakkında sorular sorar.",
+        "c) İslam dünyasında tercüme faaliyetleri hakkında bilgi toplar.",
+        "ç) İslam dünyasında tercüme faaliyetleri ile ilgili toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) İslam dünyasında tercüme faaliyetleri ile ilgili toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "İBT.1.8",
+      "title": "Bilim alanlarını yeniden sınıflandırabilme",
+      "processComponents": [
+        "a) Bilim alanlarını sınıflandırmanın ölçütlerini belirler.",
+        "b) Bilim alanlarını konularına göre ayrıştırır.",
+        "c) Bilim alanlarını yeniden tasnif eder.",
+        "ç) Bilim alanlarını konularına göre etiketler."
+      ]
+    }
+  ],
+  "keyConcepts": "ayet, fıkıh, hadis, hikmet, ilim, irfan, kelam, taakkul, tedebbür, tefekkuh, tefsir, tercüme, tezekkür, tıbb-ı Nebevi",
+  "support": [
+    "Öğrencilerden İslamiyet’in bilim ve bilimsel çalışmaları teşvik eden ayet ve hadislerle ilgili sunum yapmaları ve düşüncelerini açıklamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden İslam bilim tarihi alanında araştırmalar yapan George Sarton’un (Corc Sarton) Introduction to the History of Science (Bilim Tarihine Giriş) ve Osmanlı’daki ilk bilim tarihçisi Salih Zeki’nin Âsâr-ı Bâkiye (Bize Kalan Eserler) adlı eserlerinin İslam bilim tarihi açısından önemini yazılı, görsel veya dijital olarak sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, çalışma yaprağı, öz değerlendirme formu, Frayer diyagramı, düşün-eşleş-paylaş tekniği, sözlü sunum, kontrol listesi, grup değerlendirme formu ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak temel bir usturlap yapmaları istenir. Performans görevi; kaynakları belirleme, bilgi toplama, bilgileri kontrol etme, poster hazırlama ve sunum yapma ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "İBT.1.1",
+    "Öğrencilerden İslam biliminin temel kavramlarından ilim, taakkul, tefekkür, tefekkuh, tedebbür, tezekkür, hikmet, irfan ile ilgili bildiklerini sözlü olarak ifade etmeleri istenir ( SDB2.1 ) . Bu kavramların İslam anlayışındaki bilimsellik, akılcılık, fikir üretme, varoluş gerçeği ve insani yeteneklerle ilişkili olduğu üzerinde durulur. İlmin inanç ve vicdan bağlantısı vurgulanır ( SDB2.1 ) . Öğrencilerin kavramlar ile ilgili verilen kaynakları incelemeleri, kavramları bağlamından koparmadan kendi ifadeleri ile yorumlamaları, ilim ve bilim kelimelerinin aynı anlama geldiğini fark etmeleri sağlanır ( E1.5 ) . Arkadaşlarının düşüncelerini mütevazı bir şekilde dinlemeleri beklenir ( D10.3 ) . İslam biliminin genel özellikleri (evrensel, yöntemsel, ahlaki vb.) ile ilgili verilen kaynakları incelemeleri, bağlamından koparmadan kendi ifadeleri ile listelemeleri istenir. Öğrencilerden İslam biliminin temel kavramlarını ve genel özelliklerini anlamı değiştirmeyecek şekilde yeniden yorumlamaları için kendi ifadeleri ile kısa bir metin yazmaları ve sınıf ortamında paylaşmaları istenir ( D14.1 ) . Süreç, açık uçlu sorular ve öz değerlendirme formu ile değerlendirilebilir.",
+    "İBT.1.2",
+    "Öğrencilerden Arap Yarımadası’nın bulunduğu yeri ve konumu harita üzerinde bulmaları istenir ( SBAB10.3 ) . Öğrencilerin coğrafya disiplininden yararlanarak Arap Yarımadası’nın coğrafi konumunun önemini belirlemeleri sağlanır ( SBAB5.3 ) . Öğrencilerin İslamiyet'in doğduğu ortamın kültürel, ekonomik ve toplumsal yapısı hakkındaki görüşleri alınır. Görüşlerini ifade ederken farklı bakış açılarına saygı duymaları sağlanır ( D14.1 ) . Sunulan kaynaklardan yararlanarak İslamiyet’in doğduğu dönemin özelliklerini ve bu özellikler arasındaki ilişkileri belirlemeleri sağlanır. İslam’ın doğduğu ortamın özellikleriyle ilgili özgün bir bütün oluşturmak amacıyla kısa metin yazmaları ve paylaşmaları istenebilir ( E3.3 ) . Dönemin özelliklerini değerlendirmek amacıyla öz değerlendirme formu kullanılabilir, açık uçlu sorular sormaları beklenir.",
+    "İBT.1.3",
+    "“İslam dünyasında bilimin gelişmesinde etkili olan unsurlar neler olabilir?“, “İlim ve bilim sözcükleri arasında nasıl bir ilişki bulunmaktadır?“ soruları ile tartışma ortamı sağlanarak öğrencilerden fikirlerini açık bir şekilde ifade etmeleri beklenir ( E1.1 , E3.5 , SDB2.1 ) . Tartışma sürecinde öğrencilerin birbirlerini nezaketle dinlemeleri ve arkadaşlarının düşüncelerine saygı duymaları beklenir ( D6.1 , D14.1 ) . Grup çalışması yoluyla öğrencilerin verilen kaynaklar üzerinden İslam dünyasında bilimin gelişmesinde etkili olan iç unsurları incelemeleri sağlanır ( SDB2.2 ) . Dinin yalnızca maneviyat ve içsel yaşamı düzenleyen bir unsur değil evrenin fizik ve metafizik olarak kavranmasını sağlayan bir olgu olduğu vurgulanır. Grup çalışması yoluyla öğrencilerin verilen kaynak metinler üzerinden İslam dünyasında bilimin gelişmesinde etkili olan iç unsurları incelemeleri sağlanır ( SDB2.2 ) . Öğrencilerden İslam dünyasında bilimin gelişmesinde etkili olan iç unsurlardan tevhit inancının, ayet ve hadislerin ilim öğrenmeyi teşvikinin, Hz. Muhammed’in (sav) tıbb-ı Nebevi adıyla literatüre geçen uygulamalarının, Kur’an-ı Kerim ayetlerini vahiy kâtiplerine Mushaflar hâlinde yazdırmasının, dil öğrenimini teşvik etmesinin, bazı devletlerin hükümdarlarına İslam‘a davet mektubu göndermesinin, Dört Halife Dönemi’nde Kur’an-ı Kerim’in kitap hâline getirilerek çoğaltılmasının, Emeviler Dönemi’nden başlayarak bilim insanlarının yöneticiler tarafından desteklenmesinin ve Arap filolojisinin katkılarını açıklamaları istenir ( OB5 ) . İslam‘ın yayılması ve İslam coğrafyasının genişlemesine paralel olarak İslam medeniyetinin diğer medeniyetlerle iletişiminin artması sonucu İslam bilimin gelişmesinde etkili olan dış unsurlardan Mezopotamya, Mısır, Çin, Hint, Antik Yunan, Helenistik, Doğu Roma, Türkistan gibi farklı medeniyetlerin etkilerini öğretmen rehberliğinde listelemeleri istenir ve yeniden ifade etmeleri beklenir. Süreç sonunda çalışma yaprağı etkinliği uygulanabilir.",
+    "İBT.1.4",
+    "İslam medeniyetinin önemli şehirlerinden Mekke, Medine, Bağdat, Kahire, Kurtuba, Semerkant, Buhara, Tinbüktü ve Merakeş’in bilim, sanat ve irfana etkisini araştırmak için öğretmen rehberliğinde oluşturulacak grupların güvenilir kaynakları belirlemeleri istenir. Belirlenen kaynaklardan elde edilen bilgilerle Mekke’nin hac ve umre merkezi olması nedeniyle aynı zamanda bir ticaret merkezine dönüşmesi durumunu; Medine’nin ise İslamiyet’le birlikte bir eğitim, kültür ve ticaret merkezi hâline gelmesini açıklamaları sağlanır. Bağdat’ın kurulması ile birlikte farklı milletlerden bilim insanlarının bu şehirde uyum içinde çalışmalar yaptığını, halifenin bilim ve sanatın hamiliğini üstlendiğini, irfan sahiplerine değer verildiğini ve Bağdat’ın cazibe merkezi hâline geldiğini fark etmeleri beklenir ( D1.2 , D3.3 , D16.3 , OB5 ) . Eğitim, ziraat, ticaret ve endüstrileşmede ileri giden Kahire’nin bölgeyi zenginleştirmesine, bilimsel ve sanatsal etkinliklerin gelişimine katkı sağlamasına odaklanılır ( E3.2 ) . İslam medeniyetinin en batısında kurulmuş olan Kurtuba’nın gök bilimi, tıp, felsefe, botanik, mimari ve sanat konularında önemli eserlerin hazırlandığı bir merkez hâline geldiğini kaynaklar üzerinden irdelemeleri sağlanır ( OB1 ) . Türkistan bölgesinde bulunan Semerkant ve Buhara’yı bilim merkezi hâline getiren bilimsel çalışmaların farkına varmaları sağlanır. Batı Afrika’da bulunan Tinbüktü ve Merakeş’in ilim ve kültür merkezi hâline gelmesinin nedenlerini fark etmeleri beklenir. Farklı kaynaklardan bilgileri doğrulamaları ve kaydetmeleri istenir ( E3.10 ) . Süreç, Frayer diyagramı ve grup değerlendirme kullanılarak değerlendirilebilir.",
+    "İBT.1.5",
+    "Öğrencilere İslamiyet’le birlikte ortaya çıkan bilim dallarının neler olduğuna yönelik sorular sorularak cevaplamaları istenir. Öğrencilere hadis, tefsir, fıkıh ve kelamın temel unsurları ile ilgili verilen metinlere odaklanarak temel unsurlarını belirlemeleri sağlanır ( E3.2 ) . Öğrencilerin hadis, tefsir, fıkıh ve kelamın temel kavramları üzerine düşünmeleri ve açık fikirlilikle düşüncelerini ifade etmeleri sağlanır ( E3.5 ) . Bunun için düşün-eşleş-paylaş tekniğinden yararlanılabilir. Öğrencilerin arkadaşlarının düşüncelerine saygı duymaları beklenir ( D14.1 ) . Bu teknik kapsamında öğrencilerden söz konusu kavramlara ilişkin önce bireysel düşünmeleri, sonra düşüncelerini arkadaşları ile paylaşarak ortak tanımlarını belirlemeleri beklenir ( KB2.18 , SDB2.1 ) . Öğrenme süreci kontrol listesi ile değerlendirilebilir.",
+    "İBT.1.6",
+    "Öğrencilerden teori ve pratik kavramlarının anlamlarını yazılı veya dijital sözlükleri kullanarak bulmaları istenir ( OB1 , OB2 ) . İslam dünyasında hangi bilim dallarının öncelikli olarak çalışma alanı seçildiği ile ilgili varsayımlarda bulunmaları beklenir. Öğrencilerden teori ve pratiğin kavramsal farklılıklarına yönelik örnek vermeleri, bu kavramları karşılaştırmaları istenir ( E3.3 , KB2.7 ) . Öğrencilerden gök cisimleri referans alınarak kıble yönünün tayini, dinî gün ve bayramların tespiti, namaz vakitlerinin tespiti, miras paylaşımı, arazi ölçümleri, hac yollarının belirlenmesi gibi dinî pratiklerden beslenen bilim dallarının hangileri olduğunu söylemeleri beklenir. Öğrencilerin söyledikleri bilim dallarının İslam dünyasında bilimin gelişimine katkısı ile ilgili tartışma yapmaları sağlanarak bilime yönelik ilk çalışma alanları ile ilgili örüntüleri listelemeleri istenir ( SDB2.1 , E3.7 ) . Bilimlerin gelişmesinin temelinde toplumun ihtiyaçları, ekonomi ve gereksinimlerin bulunduğu; fizik, tıp, mühendislik, mimari gibi alanların tecrübeyle edinilmiş kazanımların geliştirilmesiyle ilerlediği vurgulanır. Bilimin gelişiminde dinî uygulamaların ve gündelik ihtiyaçların etkisini örnekler üzerinden karşılaştırıp aralarında ilişki kurmaları beklenir ( E1.5 , E3.5 ) . Bu örneklerin günlük yaşama olan etkilerini değerlendirmeleri ve bu örneklerin farklı zamanlarda değişebileceğine ilişkin önermelerde bulunmaları istenir ( KB2.17 ) . Öğrencilerin bu örneklerin günümüzde hangi metotlarla yapıldığına yönelik düşüncelerini saygı ve nezaket kuralları çerçevesinde paylaşmaları sağlanır ( D14.1 ) . Kıblenin ve namaz vakitlerinin tayin edilmesi, şehirlerin enlem ve boylamlarının belirlenmesi amacıyla usturlap kullanıldığı açıklanır. Teoriden pratiğe İslam dünyasında bilime yönelik ilk çalışma alanlarını giriş-çıkış etkinliğini kullanarak değerlendirmeleri istenir. Süreç, açık uçlu sorular ve çalışma kâğıdı ile değerlendirilebilir. Öğrencilerden performans görevi olarak temel bir usturlap yapmaları istenir. Performans görevi öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "İBT.1.7",
+    "Öğrencilerden tercüme kavramının anlamını yazılı ve dijital sözlükleri kullanarak bulmaları ve tanımlamaları istenir ( OB1 , OB2 ) . İslam dünyasında tercüme hareketlerinin başlamasının nedenleri ile ilgili sorular sormaları, soruları soru kartlarına dönüştürmeleri istenebilir. Hazırladıkları sorulardan hareketle tercüme faaliyetleri ile ilgili bilgi toplamaları ve bilgilerin doğruluğunu değerlendirmeleri istenebilir. İlk tercüme örnekleri olarak Halid bin Yezid bin Muaviye’nin kimya biliminin doğuşunun temeli olan simya konulu eserinden, İbnülmukaffa’nın Kelîle ve Dimne çevirisinden, Buhtişu ailesine mensup ünlü hekimlerin Grekçe çevirilerine ve tercüme faaliyetlerine olan desteklerinden, İbrahim Fezari’nin Siddhanta tercümesinden, Harizmi’nin Zîcü’s-Sind-Hind adlı çalışmasından bahsedilir ( E3.2 ) . Günümüzde yapılmış çeviri eserlerden öğrencilerin ilgi alanlarına uygun bir tane seçmeleri ve bu eserin bilim dünyasına katkıları ile ilgili yorumlama becerisini kullanarak çıkarım yapmaları istenebilir ( D16.3 ) . Süreç, kontrol listesi ile değerlendirilebilir.",
+    "İBT.1.8",
+    "Öğrencilerden bilim dallarının sınıflandırılmasının faydaları ile ilgili görüşlerini ifade etmeleri istenir ( SDB2.1 , E3.6 ) . Verilen kaynak metinlerden faydalanarak İslam bilim tarihinde bilimlerin nasıl sınıflandırıldığına odaklanmaları sağlanır ( OB2 ) . Farabi’nin İhsâü’l-Ulûm (İlimlerin Sayımı) adlı çalışmasında yaptığı bilim tasnifini incelemeleri sağlanarak bilimleri sınıflandırma ölçütlerini belirlemeleri istenir. Öğrencilerden sistematik bir yaklaşımla kendi sınıflandırmalarını yapmaları istenir ( E3.7 ) . Ayrıştırılan ölçütleri tasnif etmeleri ve konularına göre etiketlemeleri istenir. Süreç açık uçlu sorularla değerlendirilir."
+  ],
+  "skills": [
+    "SBAB2. Kanıta Dayalı Sorgulama ve Araştırma (SBAB2.3. Kaynağı İnceleme, SBAB2.5. Kaynağı Yorumlama), SBAB3. Tarihsel Empati (KB2.14. Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1662"
+}

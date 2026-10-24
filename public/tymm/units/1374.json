@@ -1,0 +1,83 @@
+{
+  "unitId": 1374,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "1. TEMA: TÜRK AKSAĞI, YÜRÜK SEMAİ VE DEVR-İ HİNDİ USULLERİNDE ETÜT VE ESER UYGULAMALARI",
+  "hours": "34",
+  "description": "Temanın içeriğini Türk müziğinde yer alan usullerden Türk aksağı (5/8) yürük semai (6/8) ve devrihindi (7/8) usullerinde ud ile Türk müziği eserleri çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan usullerden oluşan eserleri çalmak için doğru pozisyon alma, çalgıya özgü teknikleri kullanarak çalmaya ilişkin belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "UD.6.1.1",
+      "title": "Türk aksağı usulünde Türk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Türk aksağı usulündeki egzersiz ve eserleri çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alarak Türk aksağı usulünde Türk müziği eserleri çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak Türk aksağı usulünde Türk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "UD.6.1.2",
+      "title": "Yürük semai usulünde Türk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Yürük semai usulündeki egzersiz ve eserleri çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alarak yürük semai usulünde Türk müziği eserleri çalar.",
+        "c) Çalgıya özgü teknikleri doğru kullanır.",
+        "ç) Ezgisel yapıya uygun olarak yürük semai usulünde Türk müziği eserlerini çalar."
+      ]
+    },
+    {
+      "code": "UD.6.1.3",
+      "title": "Devrihindi usulünde Türk müziği eserleri çalabilme",
+      "processComponents": [
+        "a) Devrihindi usulündeki egzersiz ve eserleri çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alarak semai usulünde Türk müziği eserleri çalar.",
+        "c) Çalgıya özgü teknikleri doğru kullanır.",
+        "ç) Ezgisel yapıya uygun olarak semai usulünde Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ritim, Türk müziği, formu",
+  "support": [
+    "Öğrencilere 5, 6 ve 7 zamanlı usulleri çalıştırırken metronom kullanmaları önerilebilir. Metronomun hızı yavaşlatılarak öğrenciler her bir vuruşu doğru bir şekilde takip edebilirler. 5, 6 ve 7 zamanlı usulleri daha somut hâle getirmek için ritim kartları kullanılabilir. Her bir zaman ölçüsüne ait kartlar hazırlanıp öğrencilerin bu kartlarla çalışması sağlanabilir. Öğrenciler küçük gruplara ayrılabilir. Her grup farklı bir zamanlı usulü çalışarak kendi aralarında uygulama yapabilirler. Gruplar arasında performans sergileyerek diğer öğrencilerle bilgi ve deneyim paylaşımı yapabilirler. Bir grup 5 zamanlı usul üzerinde çalışırken diğer grup 6 zamanlı bir usul çalar. Her grup, diğer gruplara göre kendi usulünü tanıtarak farklı zaman ölçülerinin nasıl çalıştığını daha iyi kavrayabilir. Öğrencilere her bir vuruş belirgin bir şekilde sesli söyleme veya parmakla vurma yoluyla gösterilebilir. Bu, özellikle öğrencilerin 5, 6 ve 7 zamanlı usullerin ritmik yapısını anlamalarına yardımcı olabilir. Öğrenciler bir eseri çalmaya başlamadan önce, öğretmen her vuruşu sesli olarak \"bir, iki, üç, dört, beş\" gibi söyleyebilir ve aynı zamanda el işaretiyle vuruşları gösterebilir. Zorluk çeken öğrencilere usulün belli bir kısmını tekrar ettirilerek doğru vuruşları bulması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup eseri ud ile seslendirirken diğer grup eserin usulünü çeşitli ritim aletleri ile çalabilir. Sadece form ve tempo değil aynı zamanda usul ve melodik yapı açısından da analiz yapma görevi verilebilir. Ud icrasında kullanılan farklı üslupları Tatyos Efendi'nin icrası ile modern bir yorumcunun icrasını kıyaslamaları ve karşılaştırmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, kontrol listesi ve gözlem formu kullanılarak değerlendirilebilir. Usul uygulamasına yönelik performans görevi verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.6.1.1",
+    "Türk aksağı usulünün kuvvetli zayıf darpları ve usulün nasıl vurulduğu görseller ( OB4 ) aracılığı ile anlatılır. Bir ritim aleti (bendir vb.) ile usulün vuruluşu gösterilir. Öğrencilerin odaklanması sağlanır ( E3.2 ). Daha sonra öğretmen, ud üzerinde öğrenilen pozisyon ve dörtlü-beşlilerden oluşan Türk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler ve bu çalışmanın amacını ifade etmeleri beklenir ( KB2.2 ). Öğrencilerin öğretmen tarafından yapılan bona ve solfeji incelemeleri istenir. Türk müziği eserini uygun teknikleri kullanarak önce bona, ardından solfej yaparak çözümlemeleri ve çalmaları beklenir. Bu süreç gözlem formu kullanılarak değerlendirilebilir ( KB2.14 , SAB9 ). Seslendireceği Türk aksağı usulündeki Türk müziği eserlerinde kullanılacak parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri ve kendilerini değerlendirmeleri beklenir ( D10.1 , SDB1.2 ). Doğru duruş ve tutuş pozisyonunda çalmaları beklenir. Bu süreç; usul kademeleri, vurarak söyleme, oturuş, tutuş, temiz icra, akıcı icra bileşenlerini içeren kontrol listesi kullanılarak değerlendirilebilir. Doğru duruş ve parmak pozisyonlarını sağlamaları beklenir. Sonra öğrencilerin Türk aksağı usulünde eserleri çalabilmek için uda özgü mızrap ve parmak tekniklerini sözlü olarak ifade etmeleri, ( OB1 ) ardından bu teknikleri kullanmaları istenir ( KB2.14 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir. Türk aksağı usulünün belirgin şekilde algılanması için orta uzunlukta seslerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenir ( OB1 ). Çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Bu süreç, usul uygulamasına yönelik performans görevi ile değerlendirilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir.",
+    "UD.6.1.2",
+    "Yürük semai usulünün kuvvetli zayıf darpları ve usulün nasıl vurulduğu görseller ( OB4 ) aracılığı ile anlatılır. Bir ritim aleti (bendir vb.) ile usulün vuruluşu gösterilir. Öğrencilerin odaklanması sağlanır ( E3.2 ). Daha sonra öğretmen, ud üzerinde öğrenilen pozisyon ve dörtlü-beşlilerden oluşan Türk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrencilerden bu çalışmanın amacını ifade etmeleri beklenir ( KB2.2 ). Öğrencilerin öğretmen tarafından yapılan bona ve solfeji incelemeleri istenir. Türk müziği eserini uygun teknikleri kullanarak önce bona ardından solfej yaparak çözümlemeleri ve çalmaları beklenir. Bu süreç, gözlem formu kullanılarak değerlendirilebilir ( KB2.14 , SAB9 ). Seslendireceği yürük semai usulündeki Türk müziği eserlerinde kullanılacak parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri ve kendilerini değerlendirmeleri beklenir ( D10.1 , SDB1.2 ). Doğru duruş ve tutuş pozisyonunda çalmaları beklenir. Bu süreç; usul kademeleri, vurarak söyleme, oturuş, tutuş, temiz icra, akıcı icra bileşenlerini içeren kontrol listesi kullanılarak değerlendirilebilir. Doğru duruş ve parmak pozisyonlarını sağlamaları beklenir. Sonra öğrencilerin yürük semai usulünde eserleri çalabilmeleri için uda özgü mızrap ve parmak tekniklerini sözlü olarak ifade etmeleri, ( OB1 ) ardından bu teknikleri kullanmaları istenir ( KB2.14 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir. Yürük semai usulünün belirgin şekilde algılanması için orta uzunlukta seslerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenir ( OB1 ). Çalışmalarında sabırlı olmaları beklenir ( D12.3 ). Bu süreç, usul uygulamasına yönelik performans görevi ile değerlendirilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir.",
+    "UD.6.1.3",
+    "Devrihindi usulünün kuvvetli zayıf darpları ve usulün nasıl vurulduğu görseller ( OB4 ) aracılığı ile anlatılır. Bir ritim aleti (bendir vb.) ile usulün vuruluşu gösterilir. Öğrencilerin odaklanması sağlanır ( E3.2 ). Daha sonra öğretmen, ud üzerinde öğrenilen pozisyon ve dörtlü-beşlilerden oluşan Türk müziği eserini uygun bona ve solfej tekniklerini kullanarak sergiler ve bu çalışmanın amacını ifade etmeleri beklenir ( KB2.2 ). Öğrencilerin öğretmen tarafından yapılan ritmik solfej ve solfej çalışmalarını incelemeleri istenir. Türk müziği eserini uygun teknikleri kullanarak önce bona, ardından solfej yaparak çözümlemeleri ve çalmaları beklenir ( KB2.14 , SAB9 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir. Seslendireceği devrihindi usulündeki Türk müziği eserlerinde kullanılacak parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri ve kendilerini değerlendirmeleri beklenir ( D10.1 , SDB1.2 ). Doğru duruş ve tutuş pozisyonunda çalmaları beklenir. Bu süreç, usul kademeleri, vurarak söyleme, oturuş, tutuş, temiz icra ve akıcı icra bileşenlerini içeren kontrol listesi kullanılarak değerlendirilebilir. Doğru duruş ve parmak pozisyonlarını sağlamaları beklenir. Sonra öğrencilerin devrihindi usulünde eserleri çalmak için uda özgü mızrap ve parmak tekniklerini sözlü olarak ifade etmeleri ( OB1 ), ardından bu teknikleri kullanmaları istenir ( KB2.14 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir. Yürük semai usulünün belirgin şekilde algılanması için orta uzunlukta seslerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenir ( OB1 ). Çalışmalarında sabırlı olmaları beklenir ( D12.3 ). Bu süreç, usul uygulamasına yönelik performans görevi ile değerlendirilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1374"
+}

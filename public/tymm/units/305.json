@@ -1,0 +1,80 @@
+{
+  "unitId": 305,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "1. TEMA: NİCELİKLER VE DEĞİŞİMLER (1)",
+  "hours": "14",
+  "description": "Bu temada öğrencilerin aritmetik ve geometrik dizilerin özelliklerine ilişkin muhakeme yapabilmeleri, gerçek sayılarda tanımlı fonksiyonlar ile gerçek sayı dizilerini karşılaştırabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.1.1",
+      "title": "Aritmetik ve geometrik dizilerin özelliklerine ilişkin muhakeme yapabilme",
+      "processComponents": [
+        "a) Sayı örüntülerinin ardışık terimlerini belirler.",
+        "b) Ardışık terimler arasındaki ortak fark/oran (çarpan) ilişkisini belirler.",
+        "c) Sayı örüntülerinin her bir terimini belirlediği ortak farkı/oranı kullanarak ifade eder.",
+        "ç) Ortak farkı/oranı kullanarak örüntülerin genel terimini belirler.",
+        "d) Aritmetik/geometrik dizilerin sonlu toplamlarına ilişkin varsayımlarda bulunur.",
+        "e) Varsayımlarından yararlanıp aritmetik/geometrik dizilerin sonlu toplamları ile ilgili örüntüleri geneller.",
+        "f) Aritmetik/geometrik dizilerin sonlu toplamlarına ilişkin genellemeleri ile varsayımlarını karşılaştırır.",
+        "g) Elde ettiği genellemelerden aritmetik/geometrik dizilerin sonlu toplamlarına ilişkin önermeler sunar.",
+        "ğ) Sunduğu önermelerin faydasını gerçek yaşam problemleri bağlamında değerlendirir.",
+        "h) Aritmetik ve geometrik dizilerin sonlu toplamlarına ilişkin elde edilen önermeleri görsel olarak doğrular ve cebirsel olarak ispatlar.",
+        "ı) Aritmetik ve geometrik dizilerin sonlu toplamlarına ilişkin uyguladığı ispat yöntemlerini kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.1.2",
+      "title": "Gerçek sayılarda tanımlı fonksiyonlar ile gerçek sayı dizilerini karşılaştırabilme",
+      "processComponents": [
+        "a) Gerçek sayı dizileri ve gerçek sayılarda tanımlı fonksiyonların özelliklerini belirler.",
+        "b) Gerçek sayı dizileri ve gerçek sayılarda tanımlı fonksiyonların özelliklerine ilişkin benzerlikleri listeler.",
+        "c) Gerçek sayı dizileri ve gerçek sayılarda tanımlı fonksiyonların özelliklerine ilişkin farklılıkları listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "aritmetik dizi, dizi, genel terim, geometrik dizi, monoton artan, monoton azalan, ortak fark, ortak oran (çarpan), terim",
+  "support": [
+    "Aritmetik ve geometrik diziler konusuna önceden öğrendikleri sayı örüntüleri hakkında yapılacak çalışmalarla başlanabilir. Öğrencilerden sınırlı sayıda elemanı olan sayı örüntülerini girdi (adım sayısı) ve çıktı (örüntünün elemanı) olarak elektronik tablolarda işleyerek örüntünün kuralını bulmaları, bu fikri aritmetik ve geometrik dizilere uyarlamaları istenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilerden aritmetik ve geometrik diziler dışında farklı gerçek sayı dizilerini araştırmaları, bu dizilerin aritmetik ve geometrik diziler ile benzerlik ve farklılıklarını ortaya koymaları istenebilir.",
+    "(*) Rekürsif (öz yinelemeli) ve iteratif (yinelemeli) diziler ile bu dizilerin algoritma ve akış şemalarının yazımı araştırma ödevi olarak verilerek öğrencilerden örnek uygulamalar istenebilir.",
+    "(*) Ayrıca aritmetik dizilerin öz yinelemeli dizilere dönüşen örneklerine yer verilebilir. Toplam sembolleri ve dizilerin bu sembollerle gösterimleri ile ilgili araştırma ödevi verilebilir. Aritmetik ve geometrik seriye örnekler verilerek seri toplamları ile ilgili örneklere yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, çalışma kâğıdı ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere farklı aritmetik ve geometrik dizi örneklerinin sunulacağı ve bu dizilerin toplamlarına ilişkin önermeler geliştirilip bu önermelerin gerçek yaşam durumları bağlamında değerlendirileceği bir performans görevi verilebilir. Bu performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Gerçek sayı dizileri ile gerçek sayılarda tanımlı fonksiyonlar birlikte incelenip ilişki kurulduktan sonra öğrencilere bu dizi ve fonksiyonların gerçek yaşam durumlarına yansımalarını araştırmayı gerektiren bir performans görevi verilebilir. Performans görevleri, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.1.1 Öğrenciler gruplara ayrılarak her gruba farklı sayı örüntüleri içeren çalışma kâğıdı verilebilir. Böylelikle öğrencilerin iletişim ve iş birliği becerilerinin geliştirilmesine olanak sağlanır ( SDB2.2 ) . Öğrencilerin sayı örüntülerindeki ardışık terimleri inceleyerek bu terimler arasındaki fark ya da orana odaklanmaları istenir. Her grubun kendi sayı örüntülerindeki ardışık terimler arasındaki aritmetik ilişkileri ortaya çıkarmaları istenir. Öğrencilerden ardışık terimleri arasındaki farkı ya da oranı sabit olan örüntüleri ve terimleri arasında bu tür bir ilişki olmayan örüntülerden ayırt edebilmeleri beklenir. Bu örüntülerin terimlerini ifade etmek için adım sayısı n sıfır hariç bir doğal sayı olmak üzere örüntünün n. teriminin şeklinde temsil edildiği ifade edilerek farklı örnekler üzerinden örüntünün genel terimini bulmaya yönelik çalışmalar yapılır ( MAB3 ) . Bu dizilerin genel terimlerinin elde edilen ortak fark/ortak oran ile ifade edileceği üzerinde durulur. Bu çalışma sürecinde öğrencilerin kendi düşüncelerini etkin bir şekilde ifade edebilmeleri, arkadaşlarıyla düşüncelerini paylaşabilmeleri ve diğerlerinin düşüncelerini saygı çerçevesinde dinleyerek sözlü/sözsüz iletişimde bulunabilmeleri desteklenir ( SDB2.1 , SDB2.2 , D14.1 ) . Aritmetik ve geometrik dizi tanımları birlikte verilir. Öğrencilerden verilen farklı aritmetik ya da geometrik dizilerin ilk n teriminin toplamının ne olabileceği hakkında varsayımlarda bulunmaları istenir. Bu toplamların dizinin genel terimi ile ifade edilmesine dair genellemeler elde edilir. Öğrencilerin farklı örnekler üzerinden ulaştıkları genellemeleri varsayımları ile karşılaştırmaları beklenir. Buradan yola çıkarak öğrencilerin \"Aritmetik dizilerde ilk n terimin toplamının ilk terim ile son terim toplamı terim sayısının yarısı ile çarpımına eşittir.\", \"ardışık terimleri arasındaki ortak oranı r olan bir geometrik dizisinin ilk n teriminin toplamı ye eşittir.\" gibi önermeleri elde edebilecekleri çalışmalar yapılır ( D17.2 ) . Elde edilen önermeler gerçek yaşam durumlarında ve farklı problem durumlarında (birikim yapma, bir sonraki doğum gününün hangi güne geleceğini belirleme, belli bir yükseklikten serbest bırakılan topun her defasında belirli bir oranda sıçradığı durumlar gibi) kullanılarak değerlendirilir.",
+    "Sonlu aritmetik ve geometrik dizilerin toplamlarına ilişkin elde edilen önermelerin görsel olarak doğrulanması ve cebirsel olarak ispat edilmesi sağlanır. Görsel doğrulamalarda oluşan şekillerin estetik açıdan değerlendirilmesi yapılır ( D7.1 ) . İspat adımlarının sistematik ve aşamalı olarak yapılması önemlidir ( E3.6 , E3.7 ) . Görsel doğrulamalar ve farklı cebirsel ispatlar incelenerek kullanışlılık açısından değerlendirilir.",
+    "Öğrencilerden ekonomi ve fizik gibi alanlarla ilgili farklı aritmetik ve geometrik dizi örnekleri sunmaları ve bu dizilerin toplamlarını belirlemeleri istenir. Öğrencilerin buldukları dizi örneklerinden seçilenler, dijital içerik üretme ve paylaşma becerilerini geliştirmelerine destek olacak biçimde çevrim içi araçlardan da yararlanılarak sergilenir ( OB2 , MAB5 ) . Öğrencilere farklı aritmetik ve geometrik dizi örneklerinin sunulacağı ve bu dizilerin toplamlarına ilişkin önermeler geliştirilip bu önermelerin gerçek yaşam durumları bağlamında değerlendirileceği bir performans görevi verilebilir.",
+    "MAT.12.1.2 Gerçek sayılarda tanımlı fonksiyonlar ile gerçek sayı dizilerinin özelliklerinin ilişkilendirilmesi için öğrencilere farklı fonksiyon ve dizi örnekleri sunulur. Örneğin rasyonel referans fonksiyon ile dizisi incelenir. Rasyonel referans fonksiyonun alacağı değerler ile dizisinin terimlerinin karşılaştırılması sağlanır. Bu bağlamda rasyonel fonksiyonun değerleri ile dizisinin hangi terimlerinin eşleştiği sorusuna cevap aranır. Daha sonra fonksiyonun görüntü kümesinde eşleşmeyen elemanların olup olmadığı sorularak bu elemanlardan bazılarının tanım kümesinden yararlanılarak belirlenmesi istenir. Fonksiyonların nitel özelliklerinden artanlık-azalanlık, dizilerde monoton artan-monoton azalan olarak ifade edilir. Doğrusal ve karesel fonksiyonlardan faydalanılarak monoton olmayan diziler için örnek teşkil edecek genel terimlerin yazılması çalışmalarına yer verilir. Benzerliklerin ve farklılıkların incelendiği fonksiyon ve dizi örnekleri incelenir. Fonksiyonlar ile gerçek sayı dizileri arasındaki ilişkiler, \"Diziler, tanım kümesi pozitif tam sayılar olan fonksiyonlardır.\" gibi çıkarımlarla ortaya konur. Gerçek sayı dizileri ile gerçek sayılarda tanımlı fonksiyonlar birlikte incelenip ilişki kurulduktan sonra öğrencilere bu dizi ve fonksiyonların gerçek yaşam durumlarına yansımalarını araştırmayı gerektiren bir performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D17.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/305"
+}

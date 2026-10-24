@@ -1,0 +1,47 @@
+{
+  "unitId": 94032503,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "3. ÜNİTE: KUVVETİN ETKİLERİ",
+  "hours": "12",
+  "description": "Bu ünitede öğrencilerin; kuvvetin cisimler üzerindeki etkilerini fark etmeleri, mıknatısların temel özelliklerini anlamaları ve kullanıldıkları yerleri keşfetmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.4.3.1.1",
+      "title": "Kuvvetin, cisimlere hareket kazandırmasına ve cisimlerin şekillerini değiştirmesine yönelik deneyler yapar",
+      "processComponents": []
+    },
+    {
+      "code": "F.4.3.2.1",
+      "title": "Mıknatısı tanır ve kutupları olduğunu keşfeder",
+      "processComponents": []
+    },
+    {
+      "code": "F.4.3.2.2",
+      "title": "Mıknatısın etki ettiği maddeleri deney yaparak keşfeder",
+      "processComponents": [
+        "Mıknatısın uyguladığı kuvvetin, temas gerektiren kuvvetlerden farklı olarak temas gerektirmediği vurgulanır."
+      ]
+    },
+    {
+      "code": "F.4.3.2.3",
+      "title": "Mıknatısların günlük yaşamdaki kullanım alanlarına örnekler verir",
+      "processComponents": []
+    },
+    {
+      "code": "F.4.3.2.4",
+      "title": "Mıknatısların yeni kullanım alanları konusunda fikirlerini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Fiziksel Olaylar",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

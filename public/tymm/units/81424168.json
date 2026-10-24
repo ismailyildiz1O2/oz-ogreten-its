@@ -1,0 +1,54 @@
+{
+  "unitId": 81424168,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "168. ÜNİTE: MÜZE EĞİTİMİ - MÜZE VE MÜZECİLİĞİN GELİŞİMİ",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MEA.1.1.1",
+      "title": "Müzenin değişen tanımlarını inceler",
+      "processComponents": [
+        "International Council of Museums – ICOM (Uluslararası Müzeler Konseyi) tarafından yapılan müze tanımları arasındaki benzerlik ve farklılıklar karşılaştırılarak eleştirel bakış açısı ile yorumlanır. Kendi müze tanımlarını yapmaları istenir. Zamana ve gereksinimlere göre tanımların yenilendiğini fark etmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "MEA.1.1.2",
+      "title": "Müzeciliğin tarihsel gelişimini irdeler",
+      "processComponents": [
+        "Dünyada ve Türkiye'de müzeciliğin gelişim süreci kronolojik olarak incelenerek dönüm noktalarını kavramaları sağlanır.",
+        "Osman Hamdi Bey'in müzecilik alanındaki çalışmalarının incelenmesi sağlanır.",
+        "Mustafa Kemal Atatürk'ün müzelerimizin kurulmasındaki katkılarının incelenmesi sağlanır.",
+        "Yaşadıkları bölgede kurulan ilk müze hakkında araştırma yapmaları sağlanır. Edinilen bilgi ve izlenimler farklı sanatsal yollarla yansıtılır."
+      ]
+    },
+    {
+      "code": "MEA.1.1.3",
+      "title": "Müzeleri koleksiyonlarına göre sınıflandırır",
+      "processComponents": [
+        "Müzelerin topladıkları ve biriktirdikleri koleksiyonlara göre adlandırılan türleri hakkında araştırma yaptırılır.",
+        "Koleksiyonlara göre sınıflandırılan müze türlerine örnekler verilir."
+      ]
+    },
+    {
+      "code": "MEA.1.1.4",
+      "title": "Çağdaş müzelerin özelliklerini inceler",
+      "processComponents": [
+        "Çağdaş müzenin özellikleri örnek müzeler üzerinden incelenmesi sağlanır.",
+        "Mimari tasarımlarıyla gündeme gelen müzeler araştırılır.",
+        "Müzelerin bulundukları çevre ve kente katkısı değerlendirilir.",
+        "Gelecekte müzelerin sahip olabileceği özellikler konusunda fikirler üretmeleri sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

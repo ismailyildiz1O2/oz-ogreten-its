@@ -1,0 +1,194 @@
+{
+  "unitId": 138,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "1. TEMA: ETKİLEŞİM",
+  "hours": "32",
+  "description": "Bu tema Kimyasal Tepkimeler ve Gazlar olmak üzere iki farklı bölümden oluşmaktadır. Bu temada öğrencilerin kimyasal değişimlere ilişkin bilimsel gözlem yapmaları ve model oluşturmaları, kimyasal tepkime türlerinin oluşum sürecine ilişkin bilimsel gözlem yapmaları, mol kavramına ilişkin operasyonel tanımlama yapmaları, stokiyometrik hesaplamalara ilişkin tümdengelimsel akıl yürütmeleri, gazların özelliklerine ilişkin bilimsel gözlem ve bilimsel sorgulama yapmaları, ideal gaz denklemini tümevarımsal akıl yürütme yoluyla oluşturmaları, gazların farklı ortamlarda yayılmasına ilişkin deney yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.10.1.1",
+      "title": "Kimyasal değişimlere ilişkin kanıtları belirlemeye yönelik bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Kimyasal değişimlerin gözlemlenebilir göstergelerini (enerji değişimi, gaz çıkışı, renk değişimi veya yeni bir katının oluşumu) tanımlar.",
+        "b) Kimyasal değişimlerin gözlemlenebilir göstergelerine ilişkin veri toplar ve kaydeder.",
+        "c) Kimyasal değişimlerin gözlemlenebilir göstergelerine ilişkin topladığı verileri tepkenlerin alt mikro seviyedeki değişimi temelinde açıklar."
+      ]
+    },
+    {
+      "code": "KİM.10.1.2",
+      "title": "Kimyasal tepkimelerin oluşumunu açıklamak için bilimsel model oluşturabilme a)Taneciklerin yeniden düzenlenmesi temelinde kimyasal tepkimelerin oluşumu için önerdiği modeli farklı kimyasal tepkimelerin oluşum süreçlerini inceleyerek sınar.",
+      "processComponents": [
+        "b) Sınama sürecinde elde ettiği kanıtlara uygun olarak modelini geliştirir."
+      ]
+    },
+    {
+      "code": "KİM.10.1.3",
+      "title": "Kimyasal tepkime türlerinin oluşum sürecine ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Tepkime türlerinin (çökelme, indirgenme-yükseltgenme, asit-baz) oluşum sürecine ilişkin gözlemlenebilir göstergeleri (renk değişimi, çökelek oluşumu, enerji değişimi, gaz çıkışı) tanımlar.",
+        "b) Tepkime türlerinin oluşum sürecine ilişkin gözlemlenebilir göstergelere yönelik veri toplar ve kaydeder.",
+        "c) Tepkimelerin oluşum sürecine ilişkin verileri sembolik ve alt mikro seviyedeki gösterimlerle açıklar."
+      ]
+    },
+    {
+      "code": "KİM.10.1.4",
+      "title": "Mol kavramına ilişkin operasyonel tanımlama yapabilme",
+      "processComponents": [
+        "a) Maddelerin miktarını ifade etmek için ölçülebilir (kütle, tanecik sayısı vb.) özellikleri belirler.",
+        "b) Maddelerin aynı sayıda tanecik içeren örneklerinin kütlesini ölçer.",
+        "c) Maddelerin tanecik sayısını ifade etmek için yaptığı işlemlere uygun tanım yapar."
+      ]
+    },
+    {
+      "code": "KİM.10.1.5",
+      "title": "Saf maddelerin ölçülebilir özellikleri arasındaki ilişkileri belirlemeye yönelik tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) Atom sayısı, molekül sayısı, kütle ile mol sayısı arasındaki ilişkiyi kuramsal temele dayalı kurduğu hipotezleri ile test eder.",
+        "b) Değişkenler arasındaki orantısal ilişkilere yönelik hipotezlerini yeni durumları açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "KİM.10.1.6",
+      "title": "Kimyasal tepkime denklemlerinde tanecik sayılarının tutarsızlıklarına ilişkin çelişkiyi giderebilme",
+      "processComponents": [
+        "a) Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarındaki tutarsızlıkların nerede olduğunu belirler.",
+        "b) Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarının denkleştirilmesi için olası yolları araştırır.",
+        "c) Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarının denkleştirilmesi için uygun yolu seçerek uygular.",
+        "ç) Kimyasal tepkime denklemlerinde tanecik sayılarının denkliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.10.1.7",
+      "title": "Kimyasal tepkimelerde stokiyometrik ilişkilere yönelik tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünlerin katsayıları ile mol sayıları arasındaki ilişkileri belirler.",
+        "b) Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik ilişkileri kurar.",
+        "c) Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik ilişkilere yönelik çıkarım yapar."
+      ]
+    },
+    {
+      "code": "KİM.10.1.8",
+      "title": "Gazların özelliklerine ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Gazların özelliklerinin (hacim, basınç, genleşme, sıkıştırılabilirlik, karışabilirlik, yoğunluk) farkını ortaya koyar.",
+        "b) Gazların özelliklerine ilişkin veri toplar ve kaydeder.",
+        "c) Topladığı veriler üzerinden gazların özelliklerine (basınç, hacim, sıcaklık ve madde miktarı) ilişkin keşfettiği örüntüleri tanecikli model ile açıklar."
+      ]
+    },
+    {
+      "code": "KİM.10.1.9",
+      "title": "Gazların özellikleri arasındaki ilişkileri bilimsel sorgulayabilme",
+      "processComponents": [
+        "a) Gazların hacim, basınç, sıcaklık ve madde miktarı değişkenleri arasındaki ilişkilere yönelik araştırılabilir sorular oluşturur.",
+        "b) Değişkenler arasındaki ilişkiyi belirlemek üzere hipotez kurar.",
+        "c) Basınç, hacim, sıcaklık ve madde miktarı arasındaki ikili ilişkileri gösteren gaz yasalarına yönelik araştırma planlar ve planladığı araştırmayı gerçekleştirir.",
+        "ç) Çizdiği grafikler üzerinden matematiksel modeller önerir.",
+        "d) Elde ettiği grafiksel ve matematiksel modelleri kullanarak gazlara ilişkin değişkenler (P, V, T,",
+        "n) arasındaki ilişkileri açıklar.",
+        "e) Gaz yasalarını kinetik moleküler teori ile değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.10.1.10",
+      "title": "İdeal gaz denklemini tümevarımsal akıl yürütme yoluyla oluşturabilme",
+      "processComponents": [
+        "a) Boyle, Charles ve Avogadro yasaları arasında örüntü oluşturur.",
+        "b) Gazların basınç, hacim, sıcaklık ve mol sayısı değişkenleri arasındaki ilişkiyi genel matematiksel bir eşitlikle ifade eder."
+      ]
+    },
+    {
+      "code": "KİM.10.1.11",
+      "title": "Gazların farklı ortamlarda yayılmasına ilişkin deney yapabilme",
+      "processComponents": [
+        "a) Efüzyon ve difüzyon ile ilgili deney tasarlar.",
+        "b) Deney sonuçlarını günlük hayattaki durumları açıklamak için kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "asit-baz tepkimesi, çökelme tepkimesi, difüzyon, efüzyon, gaz basıncı, hacim, ideal gaz, indirgenme-yükseltgenme tepkimesi (redoks), kimyasal tepkime, mol, mutlak sıcaklık, sınırlayıcı bileşen, standart-normal şartlar, tepkime denklemleri, yüzde verim",
+  "support": [
+    "Saf maddelerin ölçülebilir özellikleri arasındaki ilişkileri belirlemeye yönelik tümdengelimsel akıl yürütebilme becerisi işe koşulurken mol sayısı ile kütle, molekül sayısı ve atom sayısı arasındaki ilişkiyi Avogadro yasasını kullanarak test etme süreci öğretmen rehberliğinde gerçekleştirilebilir. Gazların özellikleri arasındaki ilişkilerin öğrenilmesi sürecinde bilimsel sorgulayabilme becerisi yerine kanıt kullanma becerisi işe koşulabilir. Veri toplama ve kaydetme işlemleri görsel materyaller kullanılarak öğretmen rehberliğinde gerçekleştirilebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, \"akıllı tepkime izleyici sistemi\" geliştirebilir. Bu sistemin geliştirilmesinde çeşitli kimyasal tepkimelerin gerçek zamanlı olarak izlenmesini sağlayacak sensörler ve gelişmiş görüntüleme teknikleri kullanılabilir. Özellikle renk değişimi, enerji değişimi ve gaz çıkışı gibi göstergelerin izlenmesi üzerine odaklanılması sağlanabilir. Öğrenciler, yapay zekâ algoritmaları ile işlenen bu veriler sayesinde tepkime mekanizmalarını daha iyi anlayabilir. Ayrıca yapay zekâ, tepkimelerin tahmin edilmesi ve analiz edilmesinde de kullanılabilir.",
+    "*Öğrenciler, kimyasal tepkime türlerini öğretmek için kullanılabilecek bir sanal gerçeklik (VR) deney seti geliştirebilir. Bu set; asit-baz, indirgenme-yükseltgenme gibi farklı tepkime türlerini etkileşimli ve görsel olarak sunabilir. Böylece öğrenciler, sanal ortamda tehlikeli kimyasal maddelerle doğrudan temas etmeden deney yapabilir ve tepkimelerin sonuçlarını gözlemleyebilir.",
+    "Öğrenciler, kimyasal tepkime denklemlerinin denkleştirilmesini öğreten ve pratik yapma imkânı sunan bir mobil uygulama geliştirebilir. Geliştirdikleri uygulamada kullanıcıya rastgele tepkime denklemleri sunulabilir ve bu tepkime denkleminin denkleştirme süreci adım adım gösterilebilir. Ayrıca kullanıcının denkleştirme becerilerini geliştirmek amacıyla oyunlaştırılmış ögeler de konabilir.",
+    "Öğrencilerden çevresel izleme, sağlık, güvenlik ve endüstriyel uygulamalar için hassas ve hızlı tepki veren gaz sensörleri geliştirmeleri istenebilir. Öğrenciler; spesifik gaz moleküllerine duyarlı sensörlerin tasarlanmasında karbon nanotüpler, grafen, metal oksitler gibi nanomalzemelerin yüzey alanı ve elektronik özelliklerinden yararlanabilir. Sensörlerin yüzeylerini belirli gaz moleküllerine daha duyarlı hâle getirecek kimyasal gruplarla modifiye edebilir.",
+    "*Öğrenciler çeşitli endüstriyel gazları ayırma, sera gazı emisyonlarını azaltma, hava saflaştırma, tıbbi gaz ayırma ve saflaştırma işlemlerini verimli ve etkili bir şekilde gerçekleştirebilecek nano filtreler geliştirebilir. Bu amaçla zeolit, metal-organik çerçeveler (MOF) ve nanoporöz karbon yapılar gibi nanoporöz malzemeler kullanarak belirli boyut ve şekildeki gaz moleküllerini seçici olarak geçirecek filtreler tasarlayabilir. Tıbbi cihazlar yapabilir veya bunları kullanabilir.",
+    "Öğrenciler, nano ölçekte gaz davranışlarını inceleyerek nanoteknoloji ve malzeme bilimi alanlarında yeni uygulamalar geliştirebilir. Örneğin nano ölçekli gaz sensörleri veya gaz moleküllerini etkin bir şekilde ayıran nano filtreler tasarlayabilir.",
+    "Öğrencilere oksijen tedavisinde kullanılan sistemlerin tasarımı ve çalışma prensipleri inceletilebilir. Öğrenciler, hastanelerde kullanılan oksijen tüpleri, maske sistemleri ve ventilatörler gibi ekipmanların nasıl çalıştığını araştırmaları için yönlendirilebilir. Böylece gazların tıbbi alandaki hayati önemini anlayabilir ve bu sistemlerin hastalar üzerindeki etkilerini keşfedebilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, deney raporu, yansıtma notu, performans görevi, kısa cevaplı sorular, çalışma yaprağı, akran değerlendirme formu ve öz değerlendirme formu kullanılabilir.",
+    "Performans görevi çerçevesinde öğrencilerden seçtiği kimyasal bir tepkimenin gerçekleşme sürecini farklı materyaller kullanarak süreç aşamalı modellemesi istenebilir. Performans görevi \"tepkimeyi belirleme, uygun materyal seçme, tepkime aşamalarını takip etme, kendi modelinin bilimsel modele uygunluğu\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrenciler performans görevi çerçevesinde gazların madde miktarı, hacmi, basıncı ve sıcaklığı arasındaki ilişkileri ortaya koyacağı bir deneyi tasarlayabilir; uygulayabilir ve raporlayabilir. Performans görevi \"araştırma sorusu oluşturabilme, bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirleyebilme, denemeler yapabilme, elde ettiği sonuçlara dayalı grafik çizebilme ve belirlediği ilişkileri matematiksel modelleyebilme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.10.1.1",
+    "Öğrencilerden herhangi bir kimyasal değişimin gözlemlenebilir göstergelerinin neler olduğuna ilişkin fikirlerini açıkça paylaşmaları istenir ( SDB2.1 ) . Öğrenciler; kimyasal değişimlerin kanıtları olarak enerji değişimi (sıcaklık değişimi veya ışık oluşumu), gaz çıkışı, renk değişimi veya yeni bir katının oluşumu gibi göstergeleri tanımlar ( OB1 ) . Öğrenciler, farklı gözlemlenebilir göstergelere sahip kimyasal tepkimelere ilişkin deneyleri gözlemler; veri toplar ve gözlem sonucunda bilimsel bakış açısıyla elde ettiği veri sonuçlarını etkinlik kâğıdına kaydeder ( KB2.2 , D3.3 , OB1 , OB7 ) . Bu şekilde araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir. Öğrencilerin gözlemlenen göstergeleri alt mikro seviyede tepken taneciklerinin yeniden düzenlenmesi (kimyasal değişim)temelinde açıklamaları açık uçlu sorular sorularak sağlanır ( OB1 ) . Etkinlik kâğıtları \"öğrencilerin kimyasal değişimlerin kanıtlarını tanımlayabilmesi, kanıtlara ilişkin veri toplayabilmesi ve kanıtları açıklayabilmesi\" ölçütlerine ilişkin dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.10.1.2",
+    "Öğrencilerden herhangi bir kimyasal tepkimenin oluşumunu alt mikro seviyede gösteren süreç aşamalı tepkime oluşum modeli veya modelleri çizmeleri ve her aşamayı kısaca açıklamaları istenir ( OB1 , OB4 ). Bu süreçte öğrencilerin düşüncelerini arkadaşları ile paylaşmaları, arkadaşlarının düşüncelerini anlamaya çalışmaları sağlanır. Böylece dostluk değeri kazanmaları desteklenir ( SDB2.1 , D4.2 , E2.1 ). Herhangi bir tepkimenin gerçekleşme sürecini gösteren görsel materyaller seçilerek öğrencilere gösterilir. Öğrencilerden bu materyaller ile kendi geliştirdikleri süreç aşamalı modelleri karşılaştırmaları istenir. Daha sonra öğrencilere birkaç farklı tepkime süreci deney videosu izletilir ve öğrencilerin çizmiş oldukları süreç aşamalı modeller ile ilgili tepkimeleri açıklayıp açıklayamadıklarını değerlendirmeleri, kendi modellerini geliştirmek için neler yapmaları gerektiğini belirlemeleri, elde ettikleri kanıtlara uygun olarak modellerini geliştirmeleri, araştırmacı olmaya teşvik edilerek çalışkanlık değeri kazanmaları sağlanır ( SDB1.2 , D3.2 , D3.3 , OB4 ). Performans görevi çerçevesinde öğrencilerden seçtikleri kimyasal bir tepkimenin gerçekleşme sürecini farklı materyaller kullanarak aşamalı bir şekilde modellemeleri istenebilir.",
+    "KİM.10.1.3",
+    "Sembolik düzeyde bir çökelme tepkimesi verilerek öğrencilerden tepkimenin oluşum sürecine ilişkin gözlemlenebilir göstergeleri (renk değişimi, çökelek oluşumu, enerji değişimi, gaz çıkışı) tanımlamaları istenir. Öğrenciler, çökelme tepkimesini gözlemler; tepkime oluşum sürecine yönelik belirlediği göstergelere ilişkin veri toplar ve topladığı verileri kaydeder ( KB2.2 ). Öğrencilerden gözlem verilerine dayanarak çökelme tepkimesinin oluşum sürecini sembolik ve alt mikro seviyede tanecik davranışları ve etkileşimlerini dikkate alarak detaylı bir şekilde açıklamaları istenir. Çökelme tepkimesi oluşum sürecini alt mikro seviyedeki animasyonlar üzerinden gözlemleyen öğrenciler, kendi açıklamalarını animasyon üzerinden yaptıkları gözlemlerle karşılaştırır ( OB1 ) . Bu süreç, indirgenme-yükseltgenme ve asit-baz tepkimelerinin oluşum sürecini gözlemlemek için de tekrarlanır. İndirgenme-yükseltgenme tepkimeleri için metallerin seyreltik hidroklorik asit veya tuz çözeltileriyle olan tepkimeleri ve magnezyum ile demirin yanma tepkimeleri kullanılır. Asitbaz tepkimeleri için ise kuvvetli asit ve kuvvetli bazların sulu çözeltileri arasında gerçekleşen tepkime örnekleri kullanılır. Öğrenme-öğretme sürecinde çökelme tepkimelerinin çift yönlü yer değiştirme tepkimeleri olduğuna, bazı indirgenme-yükseltgenme tepkimelerinin de aynı zamanda tekli yer değiştirme tepkimeleri olduğuna değinilir ( KB2.7 ) .",
+    "Öğrenciler, kimyasal tepkime türlerine ilişkin bir deneyi bilimsel bakış açısıyla tasarlayabilir, uygulayabilir ve raporlayabilir. Planlı ve araştırmacı olmanın öneminden bahsedilerek öğrencilerin çalışkanlık değeri kazanmalarına yardımcı olunur ( D3.2 , D3.3 ) . Sürecin bütünü \"öğrencilerin deney tasarım adımlarını takip ederek çökelme, indirgenme-yükseltgenme ve asit-baz tepkimelerinin gerçekleşme sürecindeki olayları belirleyebilmeleri, bu olaylardan elde ettikleri gözlem verileri temelinde alt mikro seviyede tanecik davranışlarını ve etkileşimlerini dikkate alarak açıklayabilmeleri, tepkimeyi sembolik kimyasal tepkime denklemi olarak da yazabilmeleri\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir ( SDB1.2 , OB7 , E3.6 ) .",
+    "KİM.10.1.4",
+    "Öğrencilerden küçük taneciklere sahip mercimek, pirinç, nohut gibi maddelerin miktarınıifade etmede kullanabilecekleri kütle, tanecik sayısı gibi ölçülebilir özellikleri belirlemeleri istenir ( OB1 ) . Öğrenciler, belirlenen özelliklerden yola çıkarak küçük taneciklere sahip maddelerin aynı sayıda tanecik içeren örneklerinin kütlesini ölçer. Madde örneklerinden herhangi biri standart madde (örneğin mercimek) olarak seçilir. Her bir kütle ölçümü,standart olarak alınan maddenin kütlesine bölünür. Ardından her bir madde örneği için bulunan kütle oranına karşılık gelecek kadar tanecik tartılır. Bu kütledeki tanecik sayısı belirlenir. Öğrenciler, ölçümleri sonucunda belirledikleri tanecik sayısına karşılık gelen bir birimi tanımlar. Tanımladığı birimi kullanarak küçük taneciklere sahip her bir maddenin miktarını ifade eder. Küçük taneciklere sahip maddelerin tanecik sayısı ve kütlesi arasındaki ilişkiyi veren bu birime benzer olarak kimya biliminde de aynı amaçla tanımlanmış birbirim olduğuna, bu birime mol denildiğine dikkat çekilir. Son olarak mol kavramının tanımı verilir ( OB1 ). Bu bağlamda izotop atom, ortalama atom kütlesi ve atomik kütle biriminin sadece tanımları yapılır. Öğrencilerden ders öncesi ve sonrasında, madde miktarının ifade edilmesinde kullanılan birimlerle ilgili değişen görüşlerini özetledikleri bir yansıtma notu yazmaları istenebilir ( SDB2.1 ).",
+    "KİM.10.1.5",
+    "Öğrencilerden 1 mol metal örneğinin içerdiği atom sayısı ve kütlesi arasındaki ilişkiye dair hipotez kurmaları ve hipotezlerini hesaplamalarla test etmeleri istenir. Bu şekilde araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir ( D3.3 ) . Öğrenciler; metal örneği için belirledikleri mol-atom sayısı ve mol-kütle arasındaki ilişkilere yönelik hipotezlerini su, karbon dioksit gibi yeni örneklerin mol-molekül sayısı ve mol-kütle ilişkilerini belirlemek için kullanır ( OB7 ) . Öğrencilere farklı maddelerin mol sayısı ile atom sayısı, molekül sayısı ve kütlesi arasındaki ilişkiyi hesaplamaları için kısa cevaplı sorular yöneltilir ve bu soruların cevaplandırılması istenir. Öğrencilere ilk defa karşılaştıkları mol kavramı ile ilgili öğrenme sürecindeki düşüncelerini belirttikleri bir metin yazdırılabilir ( SDB1.1 ).",
+    "KİM.10.1.6",
+    "Denkleştirilmemiş bir tepkime denklemi verilir ve öğrencilerden tepkime denkleminde sayıları eşit olmayan atomları belirlemeleri istenir. Öğrenciler, kimyasal tepkime denklemlerinin denkleştirilmesi ile ilgili hesaplamaları yapar. Denkleştirilmemiş tepkime denkleminin kütlenin korunumu yasasına uyup uymadığına, ilgili tepkimedeki taneciklerin sayılarını eşitlemek için katsayıların nasıl belirlenmesi gerektiğine dair sorular sorularak öğrencilerin düşüncelerini etki altında kalmadan özgürce ifade etmeleri sağlanır ( D11.2 , E3.5 ) . Öğrenciler, tepken ve ürünlerdeki taneciklerin sayılarının eşitlenmesi için olası yolların neler olabileceği ile ilgili araştırma yapmaları için yönlendirilir, bu sayede öğrencilerin araştırmacı ve sorgulayıcı olmaları teşvik edilerek çalışkanlık değeri kazanmaları desteklenir ( OB7 , D3.3 ). Deneme yanılma yöntemi ile tepkime denklemindeki tepken ve ürünlerdeki taneciklerin sayılarının eşitlenmesi istenir. Öğrencilere yapılan denkleştirmenin daha az basamaklı olması için tanecik sayılarının denkleştirme sırasının nasıl olması gerektiği sorulur. Öğrencilerin etkili iletişim kurmaları, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri, farklı bakış açılarını dikkate almaları sağlanır; en uygun denkleştirme yönteminin ne olduğuna sınıf içi tartışma ile karar verilir ( E1.6 ). Karar verme aşamasında adalet ve saygı değerleri hatırlatılır ( SDB2.1 , D1.2 , D14.1 ). Öğrenciler, en uygun denkleştirme yöntemini kullanarak çeşitli kimyasal tepkime denklemlerini denkleştirerek değerlendirir ( OB7 ). Çalışma yaprağında verilen çeşitli denkleşmemiş tepkime denklemlerinin denkleştirilmesi istenebilir.",
+    "KİM.10.1.7",
+    "Öğrencilerden denkleştirilmiş bir tepkime denklemi için tepkenlerin verilen herhangi bir mol sayısı için tepken-tepken ve tepken-ürün arasındaki olası kütle, mol sayısı ve tanecik sayısı ilişkilerini belirlemeleri istenir. Belirledikleri ilişkileri aynı tepkimenin tepken ve ürünlerinin mol sayıları, kütleleri, tanecik sayıları arasındaki ilişkileri hesaplamada kullanmaları sağlanır ( OB7 ). Öğrencilerden kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik ilişkilere yönelik çıkarım yapmaları istenir. Bu şekilde öğrencilerin araştırmacı olmaları teşvik edilerek çalışkanlık değeri kazanmaları desteklenir ( D3.3 ). Öğrenciler, bu çıkarımlarını diğer kimyasal tepkimelerdeki stokiyometrik hesaplamaları yapmak için kullanır. Bu aşamadan sonra sınırlayıcı bileşen ve yüzde verim hesaplamaları temel düzeyde yapılır ( OB7 ) . Öğrencilerden çalışma yaprağında verilen çeşitli kimyasal tepkimelerde mol sayısı, kütle ve tanecik sayısı arasında ilişki kurmayı gerektiren problemleri cevaplandırmaları istenebilir.",
+    "KİM.10.1.8",
+    "Günlük hayattan seçilen örneklerle gazların genel özelliklerine dikkat çekilir ( OB1 ). Öğrencilerin düşüncelerini açıkça ifade edebilecekleri, aynı zamanda iletişim becerilerini geliştirebilecekleri bir tartışma ortamı oluşturulur ( D6.2 , D14.1 ). Etkinlik kâğıdı aracılığı ile öğrencilerden gazların kütle, hacim, basınç, genleşme, sıkıştırılabilirlik, karışabilirlik, yoğunluk özelliklerini sıvı ve katıların özellikleri ile karşılaştırmaları; aralarındaki farkları ortaya koymaları istenir ( OB1 ) . Öğrencilerin gruplara ayrılmaları sağlanır. Öğrenciler, grup arkadaşlarıyla gazların her bir özelliğini gözlemlemeye uygun deneyler yaparak, simülasyonlar veya kanıt kartları kullanarak veri toplar ve topladığı verileri kaydeder ( KB2.2 , SDB2.1 , SDB2.2 , OB1 , OB7 ). Böylece öğrencilerin grupla çalışma becerisi sergilemelerine, hedeflerine ulaşmak için plan hazırlayıp uygulayabilmelerine yardımcı olunarak çalışkanlık değerini kazanmaları desteklenir ( D3.2 , D3.4 ). Öğrenciler, elde ettikleri verileri kullanarak gazların gözlemlenebilir özelliklerini tanecik modeli çizerek açıklar ( OB1 , OB4 ) . Öğrencilerin grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. Etkinlik sonunda gazların özellikleri, kinetik moleküler teori ile açıklanır. Etkinlik kâğıtları \"öğrencilerin gazların niteliklerinin farkını ortaya koyabilmeleri, gözlemlerinden veri elde edebilmeleri ve gazların özelliklerini tanecikli yapı modeli ile açıklayabilmeleri\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem de öğrenci tarafından değerlendirilebilir ( SDB1.2 , E3.6 ).",
+    "KİM.10.1.9",
+    "Dinamitin patlaması, hamurun kabarması, oksijenli solunum olaylarının gerçekleşmesi, araba motorunda benzinin yanması gibi olaylar gaz yasalarını içeren örnekler olarak verilir. Öğrencilerin iletişim becerilerini kullanmaları amacıyla gaz davranışlarını etkileyen değişkenler ve bunların etkileri hakkında tartışma açılarak saygı değeri çerçevesinde tartışmaları sağlanır ( SDB2.1 , D14.1 , OB1 , E1.5 ) . Öğrencilerden gazların basınç, hacim, sıcaklık ve madde miktarı değişkenleri arasındaki ilişkilerin belirlenmesine yönelik araştırılabilir sorular oluşturmaları istenir. Öğrenciler, gaz basıncı kavramını katı ve sıvıların basıncıyla ilişkilendirir; gazların basınç, hacim, sıcaklık ve madde miktarı değişkenleri arasındaki ilişkilere yönelik hipotez oluşturur ( OB1 ) . Öğrenciler, simülasyonlar kullanarak ya da deney yaparak hipotezlerini test eder ( OB7 ). Böylece öğrencilerin görev ve sorumluluklarını yerine getirmeleri için planlama yapmaları ve bu planı uygulamaları sağlanır ( D16.3 ). Elde ettikleri verileri kullanarak gazların basıncı, hacmi, sıcaklığı ve madde miktarı arasındaki ikili ilişkileri gösteren grafikleri çizmeleri öğrencilerden istenir. Öğrencilerden her bir grafikteki değişkenler arasındaki ilişkiyi ifade eden matematiksel modelleri yazmaları istenir. Her bir matematiksel modelin bilimdeki karşılığının hangi gaz yasasını (Boyle, Charles, Gay Lussac, Avogadro) ifade ettiği bilgisi verilir ( OB7 ). Öğrenciler, elde ettikleri grafiksel ve matematiksel modellerden hareketle gazlara ilişkin değişkenler (P, V, T, n) arasındaki ilişkileri açıklar ( KB2.8 ). Gaz yasaları ile ilgili hesaplamalara girilmez. Öğrencilerden tanecik modelleri çizerek gaz yasalarını gazların kinetik moleküler teorisi ile açıklamaları istenir ( OB7 ). Öğrenciler, yaptıkları çalışmayı öz değerlendirme formu ile değerlendirebilir ( SDB1.2 ). Öğrenciler; performans görevi çerçevesinde gazların madde miktarı, hacmi, basıncı ve sıcaklığı arasındaki ilişkileri ortaya koyacağı bir deneyi tasarlayabilir, uygulayabilir, raporlayabilir ve göreve ilişkin kendi performansını değerlendirebilir ( SDB1.2 , E1.4 ).",
+    "KİM.10.1.10",
+    "Öğrenciler; Boyle, Charles ve Avogadro yasalarındaki hacmin (V) diğer tüm değişkenlerle (P, T ve n) olan ikili ilişkilerini kullanarak örüntü oluşturmaları için yönlendirilir. Oluşturdukları örüntüden yararlanarak gazların tüm değişkenleri arasındaki ilişkiyi göstermek için ideal gaz denklemi adı verilen genel bir eşitlik yazmaları öğrencilerden istenir. Bu ilişkideki orantı sabitine ideal gaz sabiti (R) adı verildiği ifade edilir ( OB4 ). Öğrenciler, ideal gaz denklemini test eder ( OB4 ). Öğrenciler ideal gaz denkleminde değişkenler arasındaki ilişkileri açıklar. Ayrıca ideal gaz denklemi ile ilgili hesaplamalara girilmez. Öğrencilerden çalışma yaprağında verilen çeşitli problemleri ideal gaz denklemini kullanarak çözmeleri istenebilir.",
+    "KİM.10.1.11",
+    "Araba lastiklerindeki hava basıncının zamanla azalması gibi efüzyon; oda ya da araba parfümlerinin ortama hoş koku vermesi, feromonların hava içinde yayılması sayesinde çok uzaktaki hayvanların birbirini bulması vb. difüzyon örnekleri verilir. Verilen örneklerden hareketle öğrencilerden gaz taneciklerinin davranışlarını gazların kinetik moleküler teorisine dayalı olarak açıklamaları istenir ( OB7 ). Öğrencilerin gruplara ayrılmaları sağlanarak grup çalışmasında uyumlu davranmaları ve etkili iletişim kurmaları desteklenir ( D4.2 ). Grup çalışması ile öğrencilerden gazların efüzyon ve difüzyonuna yönelik deney tasarlamaları ve deneyi gerçekleştirmeleri istenir. Deney yapmanın araştırmacı ve sorgulayıcı olmanın bir parçası olduğundan bahsedilerek çalışkanlık değeri vurgulanır ( KB2.2 , OB7 , D3.2 , D3.4 , E2.1 ). Öğrenciler, deney sonuçlarını günlük hayattaki efüzyon ve difüzyon olaylarını açıklamak amacıyla kullanır ( KB2.14 , OB7 ). Öğrenciler, gazların farklı ortamlarda yayılması sırasında difüzyon hızlarının sıcaklık ve mol kütlesi ile ilişkilerini ortaya koyacağı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Deney sonrasında elde ettikleri sonuçlardan hareketle konunun günlük hayatla ilişkilendirilmesi sağlanabilir. Sürecin bütünü \"öğrencilerin deney tasarım adımlarını takip ederek gazların difüzyon hızını etkileyen faktörleri belirleyebilmeleri, faktörlerin birbiriyle ilişkisini açıklayabilmeleri, günlük hayatla ilişki kurabilmeleri\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Bu ölçekle hem öğrenci hem de öğretmen tarafından değerlendirme yapılabilir ( SDB1.2 ). Öğrencilere deney sürecinde zor durumlarla karşılaştıklarında alternatif çözümler üretip üretmedikleri sorulabilir ve yeni bir durumla karşılaştıklarında yeni duruma nasıl uyum sağladıklarıyla ilgili bir tartışma yaptırılabilir ( SDB3.2 )."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D11.2",
+      "D14.1",
+      "D16.3",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D4.2",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.4",
+      "E1.5",
+      "E1.6",
+      "E2.1",
+      "E3.5",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.2",
+      "KB2.7",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/138"
+}

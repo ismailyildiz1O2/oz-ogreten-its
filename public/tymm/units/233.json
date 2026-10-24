@@ -1,0 +1,34 @@
+{
+  "unitId": 233,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Peygamberimizin Hayatı Dersi",
+  "title": "4. ÜNİTE: ÇETİN BİR İMTİHAN",
+  "hours": "6",
+  "description": "Bu ünitede Uhud Savaşı’nda yaşanan olayların duygusal boyutlarıyla birlikte ele alınarak yapılandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PH.12.4.1",
+      "title": "Uhud Savaşı'nda yaşanan süreci yapılandırabilme",
+      "processComponents": [
+        "a) Uhud Savaşı'nın seyrini inceleyerek nedensel ilişkiler ortaya koyar.",
+        "b) Uhud Savaşı'ndaki olaylarla kendi öz bilgisi ile elde ettiği ilişkilere dayalı unsurlardan uyumlu bir bütün ortaya koyar."
+      ]
+    }
+  ],
+  "keyConcepts": "-",
+  "support": [
+    "Uhud Savaşı konusu, bilgisayar destekli öğretim aracılığıyla öğrencinin öğrenme hızına göre görsel ve işitsel uyarıcılarla desteklenerek işlenebilir. Öğrencilerden Uhud şehitleriyle ilgili bilgi kartları hazırlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, grup çalışması yaparak Uhud Savaşı'nın planını gösteren bir maket hazırlamaları istenebilir. Bu maket üzerinden \"Ayneyn Tepesi'ne yerleştirilen okçular, savaşın seyrini etkileyecek kadar stratejik bir öneme sahip miydi?\" sorusuna cevap aranırken her aşamada öğrencilere dönütler verilerek Uhud Savaşı'nın ayrıntılı bir şekilde tetkik edilmesi sağlanabilir (E3.9) . Öğrencilerden, RAFT tekniğini kullanarak Uhud şehitleri veya Ayneyn Tepesi'ndeki okçularla ilgili bir hikâye yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; doğru-yanlış, eşleştirme ve boşluk doldurma soruları, bütüncül dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilere Uhud Savaşı'yla ilgili bir performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "PH.12.4.1 Mekkeli müşriklerin Uhud Savaşı için yaptıkları hazırlıklar, sebepleriyle birlikte ele alınır. Hz. Peygamber'in savaş stratejisi konusunda ashabıyla yaptığı istişare, savaştan önce İslam ordusunda yaşanan gelişmelerin sebepleri ve Hz. Peygamber'in savaş öncesindeki talimatları açıklanır. Müslümanların üstünlüğüyle başlayan savaşın bir süre sonra seyir değiştirmesi, nedenleriyle birlikte incelenir. Savaşın Müslümanlar açısından çetin geçen safhası ayrıntılı olarak ele alınır. Bu sırada ashabın Hz. Peygamber'in etrafında kenetlendiğine ve sabırla direndiğine (D12.3) vurgu yapılır. Savaşın sona ermesi ve şehitlerin defnedilmesi örnekler verilerek ele alınır. Öğrencilerden, Uhud Savaşı'nı bütüncül bir bakış açısı ve açık fikirlilikle değerlendirdikten (SDB3.3) sonra bu savaştan çıkardıkları dersleri kendi cümleleriyle ifade etmeleri istenir. Bu konuyla ilgili bir şiir yazmaları istenebilir. Ölçme ve değerlendirme sürecinde doğru-yanlış, eşleştirme ve boşluk doldurma soruları kullanılabilir. Öğrencilerden performans görevi olarak Uhud şehitlerine hitaben bir şiir ya da mektup yazmaları istenebilir. Bu kapsamda konu Türk dili ve edebiyatı ile ilişkilendirilir. Yapılan çalışmalar; içinde ilişki kurma, konuya uygunluk, özgünlük, dil ve anlatım ölçütleri bulunan bütüncül dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/233"
+}

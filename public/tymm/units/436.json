@@ -1,0 +1,74 @@
+{
+  "unitId": 436,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "2. ÜNİTE: YAŞAMI KOLAYLAŞTIRAN KUVVET",
+  "hours": "16",
+  "description": "Bu ünitede basit makinelerde yapılan işe yönelik bir kolaylaştırma hedefi ile enerjinin korunumu dikkate alınarak; basit makinelerin sınıflandırılması, günlük yaşam problemlerine yönelik iş kolaylığı sağlayacak basit makine modelinin tasarlanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Basit Makineler",
+      "processComponents": []
+    },
+    {
+      "code": "FB.8.2.1.1",
+      "title": "Basit makineleri sınıflandırabilme",
+      "processComponents": [
+        "a) Basit makinelere ilişkin nitelikleri belirler.",
+        "b) Basit makineleri niteliklerine göre ayrıştırır.",
+        "c) Basit makineleri niteliklerine göre gruplandırır.",
+        "ç) Basit makineleri etiketlendirir."
+      ]
+    },
+    {
+      "code": "FB.8.2.1.2",
+      "title": "Günlük yaşamda iş kolaylığı sağlayacak bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Günlük yaşamda iş kolaylığı sağlayacak basit makine modeli önerir.",
+        "b) Günlük yaşamda iş kolaylığı sağlaması için hazırladığı modeli yeni kanıtlara göre geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "kaldıraç, sabit ve hareketli makara, makara sistemi, eğik düzlem, çıkrık, vida, çark ve kasnaklar, giriş ve çıkış kuvveti, bileşik makine",
+  "support": [
+    "Eğitsel dijital içeriklerden video, animasyon, simülasyon vb. kullanılarak soyut kavramların somutlaştırılmasında, kavramsal anlayışın kolaylaştırılmasında ve pekiştirilmesinde kullanılabilir. Araştırma problemlerine yönelik çalışma süreçlerinde öğrenci seviyelerine uygun problemler hazırlanarak tüm öğrencilerin ilgili çalışmalara katılımları sağlanabilir."
+  ],
+  "enrichment": [
+    "Mühendislik ve tasarım sürecini kullanarak basit makinelere yönelik kodlama veya FETEMM eğitim anlayışına uygun araç tasarımları ya da modelleri oluşturmaları istenebilir. Matematik ve fiziğin uygulama sahası olarak basit makinelerin geliştirilme sürecini yansıtan ve makine teknolojisi/makine bilimi olarak da belirtilen tedbirler (hiyel) ilmi konusunda merak uyandırılır. Bu doğrultuda Philon, Arşimet, Farabi, El Cezeri, Harezmi ve Ali Kuşçu gibi bilim insanlarının bilime katkıları dikkate alınır. Bilim doğası anlayışı kapsamında oluşan bilimsel bilgileri sınıflandırarak zihin haritası, bilgi haritası gibi diyagramları kullanabilecekleri performans ödevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, eşleştirme testi ve performans görevi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Öğrencilerin günlük yaşantı problemlerinde iş kolaylığı sağlayacağı basit araç gereçlerle tasarladığı basit makine modeli performans görevi verilebilir. Kontrol listesi veya analitik dereceli puanlama anahtarlarıyla süreç değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.8.2.1.1 Öğrencilere basit makineler hakkında sorular sorulabilir. Ardından günlük yaşantısında gözlemledikleri basit makinelerin örneklerini sınıf içerisinde arkadaşlarıyla paylaşmaları istenir ( SDB2.1 ) . Basit makinelerin avantajları hakkında tartışmaları sağlanır ( SDB2.2 ) . Öğrencilerin fiziksel anlamda yapılan iş ve enerji korunumuna yönelik ön bilgileriyle basit makineler ilişkilendirilir. Verilen günlük yaşamdaki örnekler üzerinden kuvveti harekete, hareketi tekrar kuvvete dönüştüren ve günlük yaşamda iş kolaylığı sağlayan uygun basit makinelere ilişkin nitelikleri belirlemeleri istenir. Belirlediği niteliklere göre basit makineleri ayrıştırmaları sağlanır. Basit makineleri niteliklerine göre kuvvetten veya yoldan kazanç sağlama, uygulanan kuvvetin yönünü değiştirme veya bir enerji türünü başka bir enerji türüne dönüştürme amaçlarına uygun olarak gruplandırmaları sağlanır. Bu gruplardan hareketle basit makineleri niteliklerine göre kaldıraç, sabit ve hareketli makara, makara sistemi, eğik düzlem, çıkrık, vida, çark ve kasnaklar şeklinde etiketlemeleri istenir. Günlük yaşantı içinden basit makinelere yönelik görseller kullanılarak örnekler sunulabilir. Öğrencilerin bu görselleri inceleyerek basit makinelerin niteliklerine, günlük yaşamda hangi amaçla kullanılabileceğine ve avantajlarına ilişkin bilimsel bir yaklaşımla akıl yürütmeleri istenebilir ( OB4 , D3.3 ) . Basit makine çeşitlerinden kaldıraç, sabit ve hareketli makara, makara sistemi, eğik düzlem, çıkrık, vida, çark ve kasnakların günlük yaşamdaki kullanım amaçlarına uygun olarak formüllere girilmeden yalnızca oran-orantı kullanarak incelenir. Ayrıca giriş ve çıkış kuvvetlerine de değinilir. Bu süreç, matematik dersi ile ilişkilendirilebilir. Bileşik makinelerin sadece günlük yaşamdaki avantajlarına, niteliklerine ve kullanım amaçlarına değinilerek matematiksel ifadelere girilmeden konu sınırlandırılır. Öğrenciler süreç içerisinde etkin bir katılım sağlayarak merak ettikleri soruları sorabilir. Değerlendirme aracı olarak eşleştirme testi vb. kullanılabilir ( SDB2.1 , E1.1 , E3.8 ) .",
+    "FB.8.2.1.2 Öğrencilerden yaşantısında iş kolaylığı sağlayacak bir basit makine modeli tasarlamaları istenir. Basit makine tasarım sürecinde iş birlikli, sorgulayıcı ve proje tabanlı öğrenme model ve yaklaşımları kullanılabilir ( SDB2.2 ) . Öğrenciler gruplara ayrılır ve öğrencilerden düşünce ve ifadelerinde özgür seçimler yaparak grup içinde yardımlaşmaları istenir ( SDB2.1 , E1.2 , D20.2 ) . Basit makine modeli tasarlama sürecinde planlarını zamanında ve eksiksiz yürütmeleri istenir ( D3.2 , D12.3 , D16.3 ) . Öğrencilerin belirledikleri araç gereçlerden yola çıkarak estetik bakış açısıyla özgün ve bütüncül bir anlayışla herhangi bir basit makine modeli önermeleri sağlanır ( D7.2 , OB1 , E3.11 ) . Tasarladıkları modelleri diğer modellerle karşılaştırarak tespit edilen hata ve eksiklikleri gelişim fırsatı olarak değerlendirip modellerini geliştirmeleri sağlanır ( SDB1.3 , D16.3 ) . Model tasarlanırken teknoloji ve tasarım dersi ile ilişkilendirilebilir. Ölçüt ve sınırlılıklar dikkate alınarak hazırlanan kontrol listesi veya analitik dereceli puanlama anahtarlarıyla süreç değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D16.3",
+      "D20.2",
+      "D3.2",
+      "D3.3",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E3.11",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/436"
+}

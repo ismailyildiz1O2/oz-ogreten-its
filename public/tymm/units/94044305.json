@@ -1,0 +1,91 @@
+{
+  "unitId": 94044305,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "5. ÖĞRENME ALANI: FİZİKSEL ETKİNLİK KAVRAMLARI, İLKELERİ VE İLGİLİ HAYAT BECERİLERİ",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BO.4.2.2.1",
+      "title": "Fiziksel uygunluğunu geliştirecek uygun programlar tasarlar",
+      "processComponents": [
+        "Öğrencilere fiziksel uygunluklarını geliştirecek orta ve yüksek şiddetli fiziki etkinlik için haftalık etkinlik sıklığı, şiddeti, süresi ve etkinlik tipinin ele alındığı basit programlar hazırlatılmalıdır.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.2",
+      "title": "Sağlığını korumak için günlük ve haftalık beslenme listesi hazırlar",
+      "processComponents": [
+        "“Beslenme Piramidi” sarı FEK’inden yararlanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.3",
+      "title": "Oyun ve fiziki etkinliklere uygun spor kıyafetiyle katılır",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.4",
+      "title": "Oyun ve fiziki etkinliklerde kendinin ve başkalarının güvenliğiyle ilgili sorumluluk alır",
+      "processComponents": [
+        "Tüm FEK’lerin “Güvenlik ve Ekipman” bölümlerinden yararlanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.5",
+      "title": "Oyun ve fiziki etkinliklerde zamanını etkili kullanır",
+      "processComponents": [
+        "Tüm FEK’lerden yararlanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.6",
+      "title": "Oyun ve fiziki etkinliklerde çevreye duyarlılık gösterir",
+      "processComponents": [
+        "“Açık Alan Oyunları” (mor 2) FEK’lerindeki etkinlikler kullanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.7",
+      "title": "Oyun ve fiziki etkinliklerde iş birliği yapar",
+      "processComponents": [
+        "“Açık Alan Oyunları”, “İş Birliği Yapalım” (mor 1. kart) FEK’lerindeki etkinlikler kullanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.8",
+      "title": "Oyun ve fiziki etkinliklerde adil oyun anlayışı sergiler",
+      "processComponents": [
+        "Tüm FEK’lerden yararlanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.2.2.9",
+      "title": "Oyun ve fiziki etkinliklerde karşılaştığı problemleri çözer",
+      "processComponents": [
+        "“Açık Alan Oyunları”, “Yönümüzü Bulalım (Oryantiring)” (mor 2. kart), “Problemi Çözdüm” (mor 3. kart) ve “Uçan Disk” (mor 4. kart) FEK’leri kullanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Aktif ve Sağlıklı Hayat",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20181023115223781-06-Beden%20E%C4%9Ftimi%20ve%20Oyun%202018-124%20Eki%20%C3%96P.pdf.pdf"
+}

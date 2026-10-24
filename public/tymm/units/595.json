@@ -1,0 +1,55 @@
+{
+  "unitId": 595,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "1. TEMA: MÜZİK DİLİ",
+  "hours": "8",
+  "description": "Bu temada çeşitli ölçü türlerindeki eserlerin yönetiminin yansıtılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.12.1.1",
+      "title": "Çeşitli ölçü türlerindeki eserlerin yönetimini yansıtabilme",
+      "processComponents": [
+        "a) Çeşitli ölçü türlerindeki eserlerin yönetimini gözden geçirir.",
+        "b) Çeşitli ölçü türlerindeki eserlerin yönetimi üzerinden çıkarım yapar.",
+        "c) Çeşitli ölçü türlerindeki eserlerin yönetimi üzerine çıkarımlarını değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "orkestra, şef",
+  "support": [
+    "Çeşitli ölçü türlerindeki vuruş şekillerini gösteren tablo/pano hazırlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin çeşitli törenlerde İstiklal Marşı'nı ve belirli gün ve haftalar ile ilgili eserleri öğretmen rehberliğinde yönetmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktısı; kontrol listesi kullanılarak izlenebilir. Performans görevi kullanılarak değerlendirilebilir.",
+    "Çeşitli ölçü türlerindeki eserlerin yönetimini yansıtmaya yönelik öğrenmelerin izlenmesinde kontrol listesi kullanılabilir.",
+    "Bu temada performans görevi olarak öğrencilerin Türk orkestra-koro şefleriyle ilgili araştırma yapmaları ve sunum hazırlamaları istenebilir. Performans görevi, dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.12.1.1. \"İki vuruşlu\", \"üç vuruşlu\" ve \"dört vuruşlu\" ölçü türlerinin vuruş şekilleri hatırlatılır. Çeşitli koro ve orkestra şeflerinin görüntüleri izletilerek yönetim şekillerini incelemeleri beklenir. Öğrencilerin bayrak törenlerinde İstiklal Marşı'nı yöneten öğretmeni izleyerek yönetim şeklini gözden geçirmeleri istenir. Bu süreçte gözlem tekniği kullanılabilir. Şeflerin eserleri yönetirken yaptığı hareketlerin ne anlama geldiği ile ilgili sorular sorulur. Bir eserin temposunun korunması, esere giriş-çıkışların belirlenmesi, müzikal ifadelerin sağlanması vb. bağlamında çıkarım yapmaları istenir. Çeşitli ölçü türlerindeki vuruş şekilleri gösterilir ve eser yönetme sırasında bu şekilleri kullanmaları sağlanır ( OB4 ). Çeşitli ölçü türlerinde seçilen eserleri odaklanarak yönetmeleri hedeflenir ( E3.2 ). Müziksel bileşenlere uyarak toplu seslendirme ve yönetme çalışmaları yaptırılır ( SAB10 , SAB13 ). Bu süreçte öğrencilerin grup çalışmasına uyumlu davranmaları hedeflenir ( D10.3 ). Öğrencilerin verilen eserleri yönetirken kendi davranışlarını ve çıkarımlarını değerlendirmeleri istenir ( SDB1.2 ). Çeşitli ölçü türlerindeki eserlerin yönetimini yansıtmaya yönelik öğrenmeler kontrol listesiyle izlenebilir.",
+    "Bu temada performans görevi olarak öğrencilerin Türk orkestra-koro şefleriyle ilgili araştırma yapmaları ve sunum hazırlamaları istenebilir. Performans görevi, dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "diger": [
+      "SAB10",
+      "SAB13"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/595"
+}

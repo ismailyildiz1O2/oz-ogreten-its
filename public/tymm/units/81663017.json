@@ -1,0 +1,64 @@
+{
+  "unitId": 81663017,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "17. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 6. ÜNİTE: ARRAY VE ARRAYLİST SINIFI",
+  "hours": "9",
+  "description": "Bu ünitede sırasıyla; Array oluşturma, Array ile işlemler yapma, ArrayList ve ArrayList metotlarının kullanımı, ArrayList üzerinde dolaşım yapma ve algoritma oluşturma konuları hakkında açıklamalar ve uygulamalar yapılır.",
+  "outcomes": [
+    {
+      "code": "BTY.17.1",
+      "title": "Array (dizi) oluşturur",
+      "processComponents": [
+        "Dizi kullanımının, birden çok ilgili ögenin tek bir değişken kullanılarak temsil edilmesine olanak tanıdığı açıklanır.",
+        "Dizinin boyutunun, oluşturma sırasında belirlendiği ve değiştirilmediği açıklanır.",
+        "Dizilerin ilkel verileri veya nesne referans verilerini depolayabildiği açıklanır.",
+        "New anahtar kelimesi kullanarak dizi oluşturulur."
+      ]
+    },
+    {
+      "code": "BTY.17.2",
+      "title": "Array ile işlemler yapar",
+      "processComponents": [
+        "Dizi uzunluğunu bulunur.",
+        "Dizi indis numaraları kullanarak erişim yapılır.",
+        "Dizi elemanları sıralanır.",
+        "Aynı türde bulunan iki dizi karşılaştırılır.",
+        "Dizi içerisinde arama yapılır.",
+        "İhtiyaç hâlinde döngü kullanılır."
+      ]
+    },
+    {
+      "code": "BTY.17.3",
+      "title": "ArrayList kullanımını bilir",
+      "processComponents": [
+        "Array ve ArrayList farkı açıklanır.",
+        "ArrayList tanımlama yöntemleri gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.17.4",
+      "title": "ArrayList metotlarını kullanır",
+      "processComponents": [
+        "Add, get, set, remove, clear, count, contains, sort, size metodlarının ne işe yaradığı anlatılır.",
+        "Add, get, set, remove, clear, count, contains, sort, size metodları kullanılır."
+      ]
+    },
+    {
+      "code": "BTY.17.5",
+      "title": "ArrayList üzerinde dolaşım yapar",
+      "processComponents": [
+        "Döngüler ArrayList içindeki tüm elemanlara erişmek için kullanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

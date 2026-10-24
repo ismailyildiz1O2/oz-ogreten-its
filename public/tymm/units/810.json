@@ -1,0 +1,96 @@
+{
+  "unitId": 810,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Spor Okulları - Kapsamlı Spor Eğitimi Dersi",
+  "title": "2. ÜNİTE: BİREYSEL SPORLAR (SEÇMELİ1)",
+  "hours": "36",
+  "description": "Ünite kapsamında öğrencilerin bireysel spor branşlarının tarihçesini, kurallarını, branşa özgü temel beceri, teknik ve stratejileri öğrenmeleri, bunları uygulamalı olarak kavramaları ve performanslarını geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KSE.1.1",
+      "title": "Bireysel sporlarda seçilen spor branşının geçmişten günümüze gelişimini ve tarihçesini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KSE.1.2",
+      "title": "Bireysel sporlarda seçilen spor branşının oyun kurallarını ifade edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KSE.1.3",
+      "title": "Seçilen spor branşına ilişkin hareket becerileri sergileyebilme",
+      "processComponents": [
+        "a) Seçilen spor branşına ilişkin hareket becerilerini algılar.",
+        "b) Seçilen spor branşına ilişkin hareket becerilerinin basamaklarını gösterir.",
+        "c) Seçilen spor branşına ilişkin hareket becerilerini farklı ortamlarda uygular."
+      ]
+    },
+    {
+      "code": "KSE.1.4",
+      "title": "Bireysel sporlarda seçilen spor branşına ilişkin taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Bireysel sporlarda seçilen spor branşına ilişkin taktiksel problemi belirler.",
+        "b) Bireysel sporlarda seçilen spor branşına ilişkin taktiksel problemin çözümüne yönelik öneri sunar.",
+        "c) Bireysel sporlarda seçilen spor branşına ilişkin taktik ve stratejileri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "adil oyun, bireysel sporlar, güvenli ortam, hareket becerisi, kurallar, strateji, taktik, tarihçe, teknik",
+  "support": [
+    "Hareket becerilerinde zorlanan öğrenciler için bireysel geri bildirim ve rehberlik sağlanabilir. Öğrenciler için bireysel programlar hazırlanabilir. Kademeli öğrenme tekniğiyle hareketleri yavaş tempoda uygulayıp daha sonra hızlandırarak tekrar etme, basit hareketlerden karmaşık hareketlere gibi çalışmalar yaptırılarak öğrencilerin gelişimleri desteklenebilir. Spor branşına özgü beceriler adım adım öğrenme tekniğiyle geliştirilebilir. Öğrencilere akran desteği sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden seçilen spor branşına özgü müsabakalar, turnuvalar ve yarışmalardaki farklı rol ve görevleri yürütmeleri istenebilir. Öğrencilerden profesyonel sporcuların maçlarını, yarışmalarını analiz ederek stratejik hamlelerini değerlendirmeleri istenebilir. Öğrencilerin seçili bireysel spor branşını farklı zemin ve ortamlarda deneyerek adaptasyon becerilerini geliştirmeleri sağlanabilir. Öğrencilere federasyon, kulüp ziyaretleri ile spor branşı hakkında daha fazla bilgi toplamaları ya da profesyonel sporcularla röportaj, öncü sporcuların hayatını araştırma gibi görevler verilebilir."
+  ],
+  "assessment": [
+    "Bu dersin öğrenme çıktılarında yer alan performanslar; gözlem formları, akran değerlendirme, öz değerlendirme, dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrenme çıktılarında yer alan performans görevi, dereceli puanlama anahtarları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KSE.1.1. Öğrencilere seçilen spor branşı ile ilgili genel bir açıklama yapılır. Bu spor branşındaki temel sportif becerileri de göz önünde bulundurarak spor branşının ne zaman ve nasıl ortaya çıkmış olabileceği ile ilgili öğrencilerden bir hikâye düşünmeleri istenir. Öğrencilerin hikâyelerini paylaşmalarına fırsat verildikten sonra ilk bireysel sporların avlanma ve hayatta kalma mücadelesi sırasında ortaya çıktığı; koşmak, atlamak, güç ölçmek gibi temel etkinliklerin zamanla daha düzenli hâle geldiği açıklanır ( SDB2.1 ). Görsel ve dijital kaynaklardan yararlanılarak öğrencilerle seçilen spor branşının tarihsel gelişimi, öne çıkan sporcuları, önemli olayları, organizasyonları ve kuruluşları ile ilgili materyaller paylaşılır ( OB2 , OB4 ). Öğrencilerin spor branşının gelişimini takip edebilecekleri bir zaman çizelgesi oluşturmaları sağlanır ( E3.7 ). Oluşturulan zaman çizelgeleri yardımı ile öğrencilerin seçilen spor branşının tarihçesini ve geçmişten günümüze nasıl geliştiğini açıklamaları sağlanır.",
+    "KSE.1.2. Seçilen spor branşının kurallarının nasıl oluştuğu ya da mevcut kuralların neler olabileceğine yönelik sorular sorularak kurallara dair öğrencilerin görüşleri alınır ( E1.1 ). Yarışma ya da maç formatında mini oyunlar oynatılır. Oyun sırasında ve sonunda öğrencilerin buldukları kuralları belirlemeleri istenerek kurallar tablosu oluşturmaları sağlanır ( KB2.11 , SDB2.1 , SDB2.2 ). Görsel ve dijital kaynaklardan yararlanılarak seçilen spor branşında kullanılan araç gereçler, tesisler ve spor alanı vb. tanıtılır ( OB2 ). Öğrencilerden belirlenen kuralları içeren broşür, poster, bilgi kartları vb. hazırlamaları istenip öğrendiklerini pekiştirmeleri desteklenir. Ayrıca etkinliklerde öğrencilerin kurallara uyma ve oyun ortamında dürüstlük gösterme davranışları teşvik edilir ( D6.2 ). Böylece spor branşına ait kuralları ifade edebilmeleri sağlanır ( E2.2 ). Kurallarla ilgili performans görevi verilebilir. Performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "KSE.1.3. Öğrencilere bireysel sporlarda seçilen spor branşına özgü hazırlayıcı oyunlar oynatılarak oyunlarda kullandıkları ya da ihtiyaç duydukları becerilere odaklanmaları istenir ( E2.5 , E3.2 ). Oyun ve etkinlikler sonrasında seçilen spor branşı için hangi becerilerin gerektiği ile ilgili öğrenci düşünceleri alınarak öğrencilerin hem becerileri belirleyebilmesi hem de becerileri öğrenmeye istek duyması sağlanır ( SDB2.1 , KB2.15 ). Seçilen spor branşına özgü temel hareket becerileri ve teknikleri öğrencilere sırasıyla gösterilir. Spor branşında kullanılan nesne ile ilgili tutuş, vuruş, pozisyon gibi temel hareketlerin amaçları açıklanır. Bu süreçte, öğrencilerin hareketleri gözlemlemelerine, analiz etmelerine ve deneyimlemelerine fırsat verilir ( E3.6 , KB2.2 ). Böylece öğrencilerin seçilen spor branşına özgü hareket becerilerini algılamaları sağlanır. Seçilen spor branşına özgü becerilerden oluşan (tenis topunu rakette sektirme, topa basit ve karmaşık vuruş şekilleri; atletizmde kısa mesafe koşuları, engelli koşular, atlamalar; Jimnastik temel hareketleri içeren nesneli-nesnesiz seriler vb.) bir çalışma alanı veya parkur hazırlanarak öğrencilerin bu alanları kullanması sağlanır. Ardından öğrencilerden ön gözlem formları aracılığıyla kendi performanslarını değerlendirmeleri istenir ( SDB1.3 ). Öğrencilerin seçilen spor branşına özgü temel hareket, beceri ve teknikleri aşamalı olarak uygulayabilecekleri çalışma alanları hazırlanıp farklı öğretim yöntem ve tekniklerinden yararlanılarak çalışmaları sağlanır. Seçilen spor branşının tekniklerinin pekiştirilmesinde yazılı, görsel ve dijital materyallerden yararlanılabilir. Ayrıca çeşitli çalışmalar (hareket merkezleri, istasyon çalışmaları vb.) yoluyla öğretmen ve akran geri bildirimlerinden yararlanılarak öğrencilerin performanslarını geliştirebilmeleri desteklenir ( SDB1.2 , SDB3.2 ). Öğrencilerin temel hareket beceri ve tekniklerini geliştirebilmeleri için spor branşının becerilerine özgü esneklik, koordinasyon, denge, sürat, çabukluk, dayanıklılık, kas kuvveti geliştirici vb. çalışmalar yapılır. Bu süreçte öğrencilerin istikrarlı biçimde çalışmaya devam etmeleri ve duygularını kontrol ederek öğrenme sürecini tamamlamaları teşvik edilir ( D12.2 ). Bu çalışmalarla öğrencilerin spor branşına özgü hareket beceri ve tekniklerinde gelişerek hareket becerilerinin basamaklarını göstermesi sağlanır. Öğrencilere hazırlanan senaryo ve oyunlarla hareket becerilerini uygulayarak test etme imkânı verilir ( SDB1.2 ). Müsabaka formatında etkinlik ve oyunlarla performanslarını sergilemeleri sağlanır ( E1.4 ). Performanslar, beceri alanları hazırlanarak en son gözlem formları ile değerlendirilebilir. Öğrencilere sporla ilgili önceki öğrenme deneyimlerinden yola çıkarak \"adil oyun\" ve \"güvenli oyun ortamı\" kavramları hatırlatılır. Her oyun ve etkinlik öncesinde ve sırasında bu kavramların gerektirdiği tedbirlerin uygulanması ve oyunların adil oyun anlayışına uygun bir şekilde oynanmasına dikkat etmeleri istenir ( BEOSAB8 ., BEOSAB10 ., D1.3 , D14.1 , D16.3 ). Öğrenme süreçlerinin uygun periyotlarında bireysel gelişime dair farkındalık değerlendirmelerin yapılması sağlanır ( SDB1.3 ). Çalışmaların açık-kapalı alan, farklı zemin, ortam ve koşullarda yaptırılarak öğrencilerin spor branşına özgü temel hareket, beceri ve teknikleri farklı ortamlarda uygulamaları sağlanır ( SDB3.2 ).",
+    "KSE.1.4. Seçilen spor branşına özgü hareket becerilerinin sergilendiği müsabaka formatında örnek oyunlar öğrencilere oynatılır. Ardından öğrencilerden branşa özgü taktiksel problemlerin neler olabileceğini sözlü olarak ifade etmeleri istenir ( SDB3.3 ). Örnek müsabaka ve olayları içeren görsellerden yararlanılarak (bir atletin, yüzücünün, bisiklet yarışçısının yarış sırasında stratejik hızlanma noktalarını belirlemesi; bir tenis ya da badminton oyuncusunun rakibinin güçlü ve zayıf yönlerini analiz etmesi vb.) ya da seçilen spor branşına özgü taktiksel ve stratejik durumları içeren senaryo ve canlandırmalarla öğrencilerin taktiksel problemleri belirlemeleri istenir ( E2.1 , E3.2 , OB4 , SDB3.3 ). Öğrenciler, eşli ya da küçük gruplara ayrılarak her gruptan belirledikleri bir taktiksel problemin çözümüne yönelik öneriler üretmeleri istenir ( KB3.2 , SDB2.2 ). Öğrencilere önerdikleri taktikleri oyunlaştırılmış müsabakalarda deneyimlemeleri sağlanır ( D3.4 ). Spor branşının öncü sporcularının taktikleri görsel dijital kaynaklardan araştırılıp analiz edilerek yeni fikirler edinebilirler. ( OB2 ). Örnek oyunlar ve farklı senaryolar üzerinden analizler yapılarak öğrencilerin karar alma becerileri desteklenebilir ( E3.1 , SDB3.2 ). Verilen öğretmen ve akran geri bildirimleriyle öğrencilerin taktiklerini ve stratejilerini geliştirmeleri sağlanır ( SDB1.3 , SDB2.3 ). Bu süreçte kontrol listeleri, antrenman günlükleri vb. kullanılarak öğrencilerin performanslarına yönelik analiz yapabilmeleri ve performanslarını geliştirebilmeleri desteklenebilir ( SDB1.2 ). Öğrenciler antrenmanlarda, maçlarda, turnuvalarda, yarışmalarda ya da bireysel uygulamalarda geliştirdikleri taktik ve stratejileri uygularlar."
+  ],
+  "skills": {
+    "deger": [
+      "D1.3",
+      "D12.2",
+      "D14.1",
+      "D16.3",
+      "D3.4",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4",
+      "E2.1",
+      "E2.2",
+      "E2.5",
+      "E3.1",
+      "E3.2",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.15",
+      "KB2.2",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/810"
+}

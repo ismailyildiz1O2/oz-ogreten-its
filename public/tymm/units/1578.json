@@ -1,0 +1,40 @@
+{
+  "unitId": 1578,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY II · 4. Tema: Farklı Düzeylerde Robotik Uygulamalar",
+  "hours": "32",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK2.4.1",
+      "title": "Yazılım geliştirme sürecinde robotik sistemler ile entegre ileri düzey bir ürün geliştirebilme",
+      "processComponents": [
+        "a) Robotik sistemler ile entegre ileri düzey bir ürün için gereksinimleri belirler.",
+        "b) Robotik sistemler ile entegre ileri düzey bir ürün için kullanılacak araç gereçleri seçer.",
+        "c) Robotik sistemler ile entegre ileri düzey bir ürünü oluşturur.",
+        "ç) Robotik sistemler ile entegre ileri düzey bir ürünü belirlenen ölçütleri karşılayacak şekilde çalışır hâle getirir."
+      ]
+    },
+    {
+      "code": "RK2.4.2",
+      "title": "Yapay zekâ destekli robotik sistemler ile entegre bir ürün geliştirebilme",
+      "processComponents": [
+        "a) Yapay zekâ destekli robotik sistemler ile entegre bir ürün için gereksinimleri belirler.",
+        "b) Yapay zekâ destekli robotik sistemler ile entegre bir ürün için kullanılacak araç gereçleri seçer.",
+        "c) Yapay zekâ destekli robotik sistemler ile entegre bir ürünü oluşturur.",
+        "ç) Yapay zekâ destekli robotik sistemler ile entegre bir ürünü belirlenen ölçütleri karşılayacak şekilde çalışır hâle getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "akıllı robotik uygulama, ürün geliştirme, yapay zekâ entegrasyonu",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB3.Yazılım Geliştirme (BTYAB3.4. Yazılım Geliştirme Sürecinde Robotik Ürün Ortaya Koyma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1578"
+}

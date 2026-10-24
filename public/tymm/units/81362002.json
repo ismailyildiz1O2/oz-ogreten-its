@@ -1,0 +1,120 @@
+{
+  "unitId": 81362002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Sosyal Hayatında Aile Dersi (Lise)",
+  "title": "2. ÜNİTE: TARİHSEL SÜREÇTE TÜRK AİLE YAPISI",
+  "hours": "22",
+  "description": "Bu ünitede “İslamiyet Öncesi Türk Ailesi”, “İslamiyet'in Kabülünden Sonraki Dönemde Türk Ailesi” ve “Batılılaşma Sürecinde Türk Aile Yapısı” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TSA.2.1.1",
+      "title": "İslamiyet öncesi Türk destanlarından yola çıkarak İslamiyet öncesi Türk aile yapısını analiz eder",
+      "processComponents": [
+        "İslamiyet öncesi Türk aile yapısının özelliklerini içeren Türk destanlarından örnek metinler verilir."
+      ]
+    },
+    {
+      "code": "TSA.2.1.2",
+      "title": "İslamiyet öncesi Türk toplumunda ailenin yapısını yorumlar",
+      "processComponents": [
+        "Köktürk Yazıtları ve Uygur yazılı metinlerinden yola çıkılarak Türk aile yapısı hakkında kısaca bilgi verilir.",
+        "İslamiyet öncesi Türk toplumunda aile birliğinin kurulması için gerekli ön koşullara (nişan, evlilik) ve aile birliğinin sona erdiği durumlara (boşanma ve ölüm) örnekler verilir.",
+        "İslamiyet öncesi Türk ailesinde evlenen oğulların hisselerini alıp yeni aile kurmak için evden çıkması ile baba evinin en küçük oğula kalması vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.2.1.3",
+      "title": "İslamiyet Öncesi Dönem'de atlı göçebe yaşam tarzının Türk aile yapısının şekillenmesine etkilerini analiz eder",
+      "processComponents": [
+        "Atlı göçebe toplum yapısının özelliklerine kısaca değinilir.",
+        "Konar-göçer yaşam tarzının Türklerde çekirdek aile yapısını oluşturduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.2.2.1",
+      "title": "İslamiyet sonrası Türk toplumunda ailenin yapısını yorumlar",
+      "processComponents": [
+        "İslamiyet sonrası Türk toplumunda aile yapısının değişen özelliklerine değinilir.",
+        "Aile reisinin hak ve sorumlulukları ile devlet yönetiminde kağanın hak ve sorumlulukları arasındaki benzerliklere değinilir."
+      ]
+    },
+    {
+      "code": "TSA.2.2.2",
+      "title": "İslamiyet'in kabulünün Türk aile yapısı üzerindeki etkilerini analiz eder",
+      "processComponents": [
+        "İslamiyet'te ailenin evlilik yoluyla oluştuğu ve nikâhın şartlarının neler olduğu vurgulanır.",
+        "Ayet ve hadisler ışığında İslamiyet'in aile kurumuna verdiği önemin Türk aile yapısına yansımalarına değinilir.",
+        "Öğrencilerin, Hz. Peygamber'in Veda Hutbesi bağlamında eşlerin birbiri üzerindeki hak ve sorumluluklarını tespit etmeleri sağlanır.",
+        "Türklerin aile kurumuna verdiği değer ile İslamiyet'in aile kurumuna verdiği değerin ortak yönleri üzerinde durulur.",
+        "İbni Fadlan, İbni Batuta ve Evliya Çelebi seyahatnamelerinden seçilen Türk aile yapısına ilişkin örnek metinler verilir."
+      ]
+    },
+    {
+      "code": "TSA.2.2.3",
+      "title": "Geçiş Dönemi'nin beş büyük eserinden hareketle Türk aile yapısını yorumlar",
+      "processComponents": [
+        "Geçiş Dönemi'nin beş büyük eserinden (Dede Korkut Hikâyeleri, Divanu Lügati't-Türk, Kutadgu Bilig, Atabetü'l-Hakayık ve Divan-ı Hikmet) seçilen Türk aile yapısına ilişkin örnek metinler verilir."
+      ]
+    },
+    {
+      "code": "TSA.2.2.4",
+      "title": "Seçuklu ve Osmanlı döneminde Türk aile yapısını analiz eder",
+      "processComponents": [
+        "Selçuklu Devleti Dönemi'nde Türk aile yapısının temel özelliklerine değinilir.",
+        "Osmanlı Devleti Dönemi'nde Türk aile yapısının temel özelliklerine değinilir.",
+        "Selçuklu ve Osmanlı dönemi Türk aile yapısının benzer ve farklı özellikleri vurgulanır.",
+        "Selçuklu ve Osmanlı Devleti'ndeki Türk aile yapısının, İslamiyet öncesi ile İslamiyet'in kabülünden sonraki Türk aile yapısının bir sentezi olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.2.3.1",
+      "title": "Batılılaşma hareketleriyle birlikte Osmanlı Dönemi Türk aile yapısında meydana gelen değişimi analiz eder",
+      "processComponents": [
+        "Tanzimat ve Meşrutiyet dönemlerinde kadınların eğitim hayatına girmesi ile başlayan değişim sürecine değinilir."
+      ]
+    },
+    {
+      "code": "TSA.2.3.2",
+      "title": "Hukuki düzenlemelerin Osmanlı Dönemi Türk aile yapısına etkilerini değerlendirir",
+      "processComponents": [
+        "Mecelle'den ve Hukuk-ı Aile Kararnamesi'nin içeriğinden hareketle aile yapısı vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.2.3.3",
+      "title": "Batılılaşma Dönemi'nin Türk aile yapısı üzerindeki etkilerini seçilen metin örnekleri üzerinden analiz eder",
+      "processComponents": [
+        "Batılılaşma Dönemi'nde Türk aile yapısında yaşanan değişimlerin hikâye ve roman türündeki edebî eserlere yansıyan örnek paragrafları verilir."
+      ]
+    },
+    {
+      "code": "TSA.2.3.4",
+      "title": "Cumhuriyet Dönemi'nde Türk ailesinin yapısını yorumlar",
+      "processComponents": [
+        "Cumhuriyet Dönemi'nde Türk aile yapısında sosyal, kültürel ve ekonomik bakımdan aile içindeki rollerin değişimi vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.2.3.5",
+      "title": "Cumhuriyet Dönemi'nde yapılan hukuki düzenlemelerin Türk aile yapısında meydana getirdiği değişimleri analiz eder",
+      "processComponents": [
+        "1926 Medeni Kanun aracılığı ile aile hukuku alanında yapılan değişiklikler vurgulanır.",
+        "Türk kadınının siyasal yaşama aktif olarak katılmasının önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.2.3.6",
+      "title": "Atatürk'ün aile kurumuna ve Türk kadınına verdiği önemi kavrar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124145026554-t%C3%BCrksosyalhayat%C4%B1ndaaile.pdf"
+}

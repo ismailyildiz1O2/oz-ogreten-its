@@ -1,0 +1,56 @@
+{
+  "unitId": 1169,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: GİTARDA İLERİ DÜZEY AKORLAR",
+  "hours": "18",
+  "description": "Temada öğrencilerin gitarda ileri düzey akorları basarak çalabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.7.2.1",
+      "title": "Gitarda ileri düzey akorları uygulayabilme çalabilme",
+      "processComponents": [
+        "a) Gösterilen akorları çözümleyebilme",
+        "b) Çalgıya özgü duruş ve tutuş pozisyonu alabilme",
+        "c) Akorları çalarken çalgıya özgü teknikleri kullanabilme",
+        "ç) Verilen akorları müziksel bileşenleri uygulayarak çalabilme"
+      ]
+    }
+  ],
+  "keyConcepts": "armoni, akor, gitar, ritim",
+  "support": [
+    "Destekleme sürecinde öğrencilerin rahatça akor değiştirebilmeleri için önce iki akor arasında gidip gelme çalışmaları yapılabilir, ardından bu değişimler üç ve dört akor içeren kalıplarla genişletilebilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde öğrencilerin doğaçlama yetenekleri desteklenebilir. Belirlenen akor dizileri üzerine doğaçlama yapmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilere arpej tekniğini basit bir şarkı veya ezgi üzerinde uygulamaları istenir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.7.2.1",
+    "Öğrenciler, verilen akorları çözümler ve gitarlarını doğru şekilde tutarak oturma pozisyonlarına dikkat ederek çalışmaya başlar. Çalışmanın başında öğrencilere doğru bir tutuş ve duruş hatırlatılır. Ardından öğrenciler sağ ve sol ellerinin koordinasyonuna dikkat ederek daha karmaşık akorlar üzerinde iş birliği içerisinde ders için hazırlık yaparlar ( SDB2.2 ). Öğrencilere ileri düzey akorların temellerini öğretmek için önce parmak yerleşimleri ve çalınarak akorların doğru basılması gerektiği hatırlatılır. Bu aşamada majör 7'li, minör 7'li, dominant 7'li akorlar gibi daha karmaşık akor yapıları görseller ve kısa videolar üzerinde gösterilerek tanıtılır ( OB4 ). Öğrenciler, bu akorların basılma şekillerini ve hangi tellerin çalınması gerektiğini notalar üzerinde gözlemler ( KB2.2 ). Öğrenciler, ilk olarak karmaşık akorları hava çalgısı (havada elleriyle akor pozisyonlarını şekillendirme) ile deneyerek parmak kaslarını ısıtırlar. Öğretmen, her akor için doğru parmak yerleşimlerini gösterir ve klavyedeki basılan tellerin net ve temiz bir şekilde ses çıkardığından emin olur. Daha sonra, öğrenciler karmaşık akorlar arasında geçiş yapmaya başlar. Öğrenciler akorlar arasındaki geçişlerde çalgıya özgü teknikleri kullanırlar. Bu aşamada majör 7'li, minör 7'li ve dominant 7'li akorlar arasındaki geçişler planlı bir şekilde çalışılır ( D3.2 ).",
+    "Akor değişimlerinin daha pürüzsüz olması için öğretmen öğrencilere farklı akor dizileri verir. Örneğin do majör 7 -sol 7- re minör 7- do majör gibi geçişler üzerinde yoğunlaşılır. İlk başta öğrenciler yavaş tempoda akor değişimlerini yapar. Ardından tempoyu artırarak geçişlerin daha akıcı hâle gelmesi sağlanır. Öğrenciler verilen akorları müziksel bileşenlere uygun olarak çalarlar. Öğretmen, öğrencilerin parmaklarını gözlemleyerek doğru açılarda basılıp basılmadığını kontrol eder ve gerektiğinde düzeltme yapar. Öğrenciler merak ettikleri soruları öğretmene sorarak gerekli dönütleri alır ( E1.1 , E3.8 ). Gerekli dönütleri alan öğrenciler, öğrendikleri ileri düzey akorları bir ritim üzerinde odaklanarak uygulamaya başlar ( E3.2 ). Öğretmen, öğrencilerin akor geçişlerinin düzgünlüğünü ve çaldıkları eserin müzikal ifadesini gözlemler ve geri bildirimlerde bulunur. Performans görevi olarak öğrencilerden arpej tekniğini basit bir şarkı veya ezgi üzerinde uygulamaları istenir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1169"
+}

@@ -1,0 +1,56 @@
+{
+  "unitId": 1534,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Okuma Becerileri Dersi",
+  "title": "3. Öğrenme Alanı: Dijital Ve Çevrim İçi Okuma",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OB.3.1",
+      "title": "Çevrim içi okumayı yönetebilme",
+      "processComponents": [
+        "a) Dijital kaynaktan doğru anahtar sözcükleri bularak inceler ve incelediği sözcüklere dair görüş oluşturur.",
+        "b) Okuma amacına uygun güvenilir ve doğru dijital kaynaklara dair seçim yapar."
+      ]
+    },
+    {
+      "code": "OB.3.2",
+      "title": "Dijital bilgi üzerinden anlam oluşturabilme",
+      "processComponents": [
+        "a) Dijital kaynaktan elde ettiği bilgilerle ön bilgileri arasında bağlantı kurar.",
+        "b) Dijital kaynaktan elde ettiği bilgilerin içeriğine ilişkin tahminde bulunur.",
+        "c) Dijital kaynaktan elde ettiği bilgiler üzerinden çıkarım yapar.",
+        "ç) Farklı dijital kaynaklardan elde ettiği bilgileri karşılaştırır.",
+        "d) Dijital kaynaktan elde ettiği bilgileri belirlenen ölçütlere göre sınıflandırır.",
+        "e) Dijital kaynaktan elde ettiği bilgiler ile ilgili tepki verir."
+      ]
+    }
+  ],
+  "keyConcepts": "anahtar sözcük, çevrim içi okuma, çıkarım, dijital bilgi, dijital kaynak, güvenilir kaynak, oku ma amacı, doğrulama",
+  "support": [
+    "Öğrencilerin hazır bulunuşluk düzeyleri, ilgi alanları ve öğrenme stilleri dikkate alınarak araştırma görevleri ve bu görevlerde kullanacağı dijital kaynaklar öğretmen tarafından sınırlandırılarak sadeleştirilebilir. Anahtar sözcük belirleme, dijital kaynak seçme ve dijital bilgileri değerlendirme süreçleri; örnek uygulamalar, aşamalı yönergeler ve görsel desteklerle yapılandırılabilir. Örneğin; bilgi arama çalışmaları, dijital içerik karşılaştırma etkinlikleri; öğretmen tarafından yöneltilen yönlendirici sorularla desteklenebilir. Etkinlikler sırasında öğrencilerin ihtiyaç duydukları durumlarda ipuçları ve geri bildirimlerle öğretmen tarafından bireysel rehberlik sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk düzeyleri, ilgi alanları ve öğrenme stilleri dikkate alınarak farklı dijital platformlar ve kaynaklar üzerinden araştırma çalışmaları yapılabilir. Aynı konuya ilişkin dijital içerikleri karşılaştırma, farklı anahtar sözcüklerle bilgi arama, güvenilirlik ölçütleri belirleme, dijital bilgileri sınıflandırma ve elde edilen bilgileri bilgi görseli, dijital sunu veya bilgi notuna dönüştürme gibi etkinliklerle süreç zenginleştirilebilir.",
+    "Öğrenme ortamları öğrencilerin bireysel ve iş birlikli dijital araştırmalar yapmalarını destekleyecek şekilde düzenlenebilir. Güvenilir dijital kütüphaneler, eğitim platformları ve çevrim içi veri tabanlarından yararlanılabilir. Öğrencilerden ulaştıkları bilgilerin kaynağını ve güvenilirliğini belirlemeleri, aynı konuya ilişkin iki farklı dijital kaynağı karşılaştırarak benzer ve farklı yönlerini açıklamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme kanıtlarını belirlemede kullanılabilecek ölçme araçları şunlardır: gözlem formları, kontrol listeleri, rubrikler, akran ve öz değerlendirme formları, performans görevleri, ürün dosyası değerlendirmesi ve dijital değerlendirme araçları.",
+    "Performans görevi olarak öğrencilerden belirledikleri bir konuya ilişkin uygun anahtar sözcükleri kullanarak güvenilir dijital kaynaklara ulaşmaları, elde ettikleri sonuçları dijital sunu, bilgi görseli veya bilgi notu hâlinde paylaşmaları istenebilir.",
+    "Performans görevi; bütüncül dereceli puanlama anahtarı, kontrol listesi, gözlem formu ve ürün dosyası değerlendirmesi gibi araçlarla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "OB.3.1",
+    "Öğrenciden metinde yer alan konu ile ilgili anahtar sözcükleri dijital kaynaktan incelemesi ve incelediği sözcüklere dair görüş oluşturması beklenir ( OB1 , E3.1 ). Görüş oluşturduktan sonra güvenilir ve doğru dijital kaynakların seçimini yapması beklenir ( OB2 ). Bu kaynakların seçimini yaparken araştırmacı ve sorgulayıcı olması teşvik edilir ( SDB1.2 , D3.3 ). Öğrencinin farklı dijital kaynaklardan ulaştıkları bilgileri akranlarıyla karşılaştırarak görüş alışverişinde bulunması sağlanır. Öğrencinin dijital kaynak seçimi sırasında farklı görüş ve yorumları değerlendirirken saygılı iletişim kurması beklenir ( SDB1.1 , TAB3 ). Düşüncelerini uygun şekilde ifade etmesi teşvik edilir. ( SDB2.1 , D14.1 , KB2.18 ). Bu süreç öz değerlendirme ile değerlendirilebilir.",
+    "OB.3.2",
+    "Öğrenciden dijital kaynaktan elde ettiği bilgilerle ön bilgileri arasında bağlantı kurması istenir. Öğrencinin okuma amacına uygun dijital kaynaktan edindiği bilgilerin içeriğine ilişkin tahminde bulunması sağlanır ( E3.1 , OB2 ). Öğrenciden dijital kaynaktan elde ettiği bilgiler üzerinden çıkarım yapması; aynı konuya ilişkin farklı dijital kaynaklardan elde ettiği bilgileri karşılaştırması; bu bilgileri uygun ölçütlere (kaynak, ortak/farklı bilgi vb.) göre sınıflandırması ve elde ettiği bilgilerle ilgili etkinlikler üzerinden sözlü veya yazılı olarak görüşlerini ifade etmesi beklenir ( E2.2 , E3.1 , SDB1.3 , OB2 ). Bu süreçte dijital kaynakları kullanırken kişisel verilerin korunmasına özen göstermesi, sosyal medya ve çevrim içi ortamlarda kişisel bilgi, belge ve fotoğrafların güvenliğini gözetmesi; başkalarına ait içerikleri izin almadan paylaşmaması ve dijital ortamlarda mahremiyet ile etik ilkelere uygun davranması teşvik edilir ( D8.2 , D8.4 ). Dijital ortamlarda metinlerin bağlantılar, yönlendirmeler ve çoklu ortam ögeleri aracılığıyla doğrusal olmayan bir yapıda sunulabileceği dikkate alınarak öğrencilerin bu tür metinleri amacına uygun biçimde takip etmeleri, anlamlandırmaları ve değerlendirmeleri desteklenir ( SDB1.1 , E3.1 ). Performans görevi olarak öğrenciden belirlediği bir konuya ilişkin uygun anahtar sözcükleri kullanarak güvenilir dijital kaynaklara ulaşması, elde ettiği sonuçları dijital sunu, bilgi görseli veya bilgi notu hâlinde paylaşması istenebilir.",
+    "Performans görevi; öğretmen tarafından bütüncül dereceli puanlama anahtarı, kontrol listesi, gözlem formu ve ürün dosyası değerlendirmesi gibi araçlarla değerlendirilebilir."
+  ],
+  "skills": [
+    "Anlama",
+    "TAB2. Okuma (TAB2.1. Okumayı Yönetme, TAB2.2. Anlam Oluşturma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1534"
+}

@@ -1,0 +1,88 @@
+{
+  "unitId": 96,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Hayat Bilgisi Dersi",
+  "title": "1. ÖĞRENME ALANI: BEN VE OKULUM",
+  "hours": "24",
+  "description": "Bu öğrenme alanının içeriğini; öğretmen ve arkadaşları ile tanışma, okul ortamı, sınıf ve okul kuralları, fiziksel özellikler ve duygular oluşturmaktadır. Bu doğrultuda öğrencilerin öğretmen ve arkadaşlarıyla tanışmaları, okul ortamını tanımaları, sınıf ve okul kurallarına uygun davranmaları, kendi fiziksel özelliklerini ve temel duygularını ifade etmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "HB.1.1.1",
+      "title": "Öğretmeni ve arkadaşlarıyla tanışabilme",
+      "processComponents": [
+        "a) Öğretmeni ve arkadaşları kendilerini tanıtırken onları etkin bir şekilde dinler.",
+        "b) Öğretmenine ve arkadaşlarına kendisini tanıtırken sözlü ve sözsüz olarak etkileşim kurar."
+      ]
+    },
+    {
+      "code": "HB.1.1.2",
+      "title": "Okul ortamını tanıyabilme",
+      "processComponents": [
+        "a) Kendisi için yeni olan sınıfını, okulunun bölümlerini ve okul çalışanlarını fark eder.",
+        "b) Okul ortamına ve çalışanlarına ilişkin gözlemlerini ifade eder."
+      ]
+    },
+    {
+      "code": "HB.1.1.3",
+      "title": "Sınıf ve okul ortamında kurallara uygun davranabilme",
+      "processComponents": [
+        "a) Sınıf ve okul ortamındaki kuralları fark eder.",
+        "b) Sınıf ve okul ortamında kurallara uygun davranışlar sergiler."
+      ]
+    },
+    {
+      "code": "HB.1.1.4",
+      "title": "Fiziksel özelliklerini ve temel duygularını açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "tanışma, arkadaş, iletişim, duygu, sınıf ve okul ortamı, kural, uyum, fiziksel özellik",
+  "support": [
+    "Öğrencilerin iletişim becerilerini güçlendirmek, fiziksel özellikleri ve duygularını fark etmelerini sağlamak için görsel, işitsel, dokunsal veya harekete dayalı materyaller ile öğrenme süreci desteklenebilir. Okul ortamını tanıma ve kurallara uygun davranışlar sergileme sürecinde içerik öğretiminin basamakları, küçük parçalara ayrılarak ve somutlaştırılarak sunulur ve kurallar tekrar uygulanır."
+  ],
+  "enrichment": [
+    "Öğrencilerden öğretmeni ve sınıf arkadaşlarıyla iletişim kurma; fiziksel özelliklerini, duygularını fark etme sürecinde müzik ya da beden eğitimi ve oyun dersi ile ilişkilendirerek bir ritim eşliğinde kendini tanıtmaları, sözsüz olarak hareketlerle duygularını ifade etmeleri istenebilir. Okul ortamını tanıyabilmeleri için öğrencilere akran öğretimi ve grup çalışmalarını destekleyen görevler verilebilir. Sınıf ve okul ortamında uygun davranışlarla ilgili afiş, poster gibi özgün ürünler oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi, gözlem formu, görsellerle oluşturulmuş öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "HB.1.1.1 Öğrencilerden öğretmeni ve arkadaşlarıyla tanışabilmeleri ( SDB2.1 , SDB2.1.SB1, SDB2.1.SB3) beklenir. Bunun için öğretmeni ve arkadaşları kendilerini tanıtırken onları etkin bir şekilde dinlemeleri (a) istenir. Söz istemeden önce konuşan kişinin sözünü bitirmesini beklemek, konuşan kişi ile göz teması kurmak, nezaketli olmak ( D14.1 ) gibi etkili iletişim becerileri öğrencilere kısaca hatırlatılır. Öğrencilerden, öğretmenine ve arkadaşlarına kendisini tanıtırken sözlü ve sözsüz etkileşim kurmaları (b) beklenir. Öğrencilerin birbirlerini daha iyi tanımaları ve aralarındaki iletişimi güçlendirmeleri amacıyla tanışma ifadelerini kullanmaları istenir. Görüşme gibi tekniklerden istop, örümcek ağı gibi grup oyunlarından yararlanılarak öğrencilere çeşitli tanışma etkinlikleri yaptırılır. Öğrencilerin bu etkinliklere katılımı teşvik edilerek ( E1.5 ) arkadaşları ile olan ortak yönlerini bulmaları, onları daha yakından tanımaları, onlarla etkili iletişim kurmaları ( D14.1 ) , kendilerini ifade etmeleri ( E1.4 ) , arkadaşlarına karşı anlayışlı davranışlar sergilemeleri ( D15.1 ) istenir. Bunun için örnek olaylardan yararlanılabilir. Öğretmen ve arkadaşlarıyla tanışma sürecindeki davranışları içeren bir kontrol listesi hazırlanarak öğrencilerin davranışları değerlendirilebilir.",
+    "HB.1.1.2 Öğrencilerden okul ortamını tanıyabilmeleri ( SDB3.1 , SDB3.1.SB1, SDB3.1.SB2) beklenir. Bunun için öğrencilerden kendisi için yeni olan sınıfını, okulunun bölümlerini ve okul çalışanlarını fark etmeleri (a) istenir. Öğrencilere sınıfta bulunan ders araç gereçleri, şeref köşesi tanıtılır. Okulun bölümleri gezdirilerek öğrencilerin okulu tanıma süreci desteklenir. Sınıfta ve okul bahçesinde çeşitli oyunlar oynanır ( E2.5 ) . Okul çalışanları ile buz kırma gibi tanışma etkinlikleri yaptırılır. Bu süreçte öğrencilerle sürekli iletişim kurulup alınan dönütler pekiştirilerek öğrencilerin kendilerine güven duymaları ( E1.5 ) ve kararlı bir tutum sergilemeleri ( D11.2 ) sağlanır. Öğrencilerden okul ortamı ve çalışanlarına ilişkin gözlemlerini ifade etmeleri (b) istenir. Okula uyum sürecindeki davranışları içeren bir kontrol listesi hazırlanarak öğrenciler değerlendirilebilir.",
+    "HB.1.1.3 Öğrencilerden sınıf ve okul ortamında kurallara uygun davranabilmeleri ( SDB3.1 , SDB3.1.SB1, SDB3.1.SB4 ) beklenir. Bunun için öğrencilerden sınıf ve okul ortamındaki kuralları fark etmeleri (a) istenir. Öğrencilerin kendi hak ve sorumluluklarını düşünürken başkalarının haklarına saygı duymalarının gerekliliği ( D1.1 ) konusunda beyin fırtınası, iş birlikli öğretim gibi teknikler kullanılarak öğrencilerle birlikte sınıf kuralları oluşturulur. Bu süreçte öğrencilerden düşüncelerini arkadaşlarıyla ( E3.5 ) paylaşmaları, sınıf kuralları ile ilgili farklı düşünceler üzerinde uzlaşmaları beklenir ( SDB2.2 , SDB2.2.SB1, SDB2.2.SB2, SDB2.2.SB3) . Bunun gibi grup etkinliklerinde öğrencilerin sorumluluk almaları ( E2.2 ) , kendilerini ifade ederken duygu, düşünce ve davranışlarında kontrollü olmaları ( D12.2 ) ve başkalarının bakış açılarını anlamaları ( E2.1 ) üzerinde durulur. Sınıf kurallarından yola çıkarak koridorda koşmamak, ortak kullanım alanlarını temiz tutmak gibi okulda uyulması gereken kurallara örnekler verilir. Ardından öğrencilere okul ortamındaki genel davranışlar hakkında gözlem yapma fırsatı verilerek ( OB1.2 ) öğrencilerden okul kurallarına örnekler vermeleri istenir. Öğrencilerden sınıf ve okul ortamında kurallara uygun davranışlar sergilemeleri (b) beklenir. Sınıf ve okul kuralları ile ilgili boyama, kesme-yapıştırma etkinliklerinden oluşan çalışma yaprakları kullanılabilir. Bu çalışmalar sınıf panosu gibi alanlarda sergilenir. Öğrencilerin sınıf ve okul kuralları ile ilgili davranışları görsellerle oluşturulmuş öz değerlendirme formu ile değerlendirilebilir.",
+    "HB.1.1.4 Öğrencilerden fiziksel özelliklerini ve temel duygularını açıklayabilmeleri ( KB1 ) beklenir. Bunun için öğrencilerden saç ve göz rengi gibi fiziksel özelliklerini ifade etmeleri istenir. Öğrencilerden fiziksel özelliklerini inceleyerek resim yapmaları, fotoğrafına bakarak ( OB4.1 ) ya da ayna kullanarak fiziksel özelliklerini ifade etmeleri istenir. Ardından temel duygularını fark etmeleri beklenir. Öğrencilerin çeşitli olaylar ve durumlar karşısında heyecan, sevinç gibi hangi duyguları yaşadıklarını ( SDB1.1 , SDB1.1.SB2) konuşma halkası, kartopu gibi tekniklerle paylaşmaları sağlanır. Duygularını fark etmelerini sağlamak için ( D10.1 ) öğrencilerle kendini keşfet, kukla oyunları ve pandomim gibi etkinlikler yapılır. Yapılan etkinlikler, gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.1",
+      "D10.1",
+      "D11.2",
+      "D12.2",
+      "D14.1",
+      "D15.1"
+    ],
+    "egilim": [
+      "E1.4",
+      "E1.5",
+      "E2.1",
+      "E2.2",
+      "E2.5",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB1"
+    ],
+    "okuryazarlik": [
+      "OB1.2",
+      "OB4.1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/96"
+}

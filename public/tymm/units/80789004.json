@@ -1,0 +1,49 @@
+{
+  "unitId": 80789004,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "İşletme Dersi",
+  "title": "4. ÜNİTE: İŞLETMELERİN KURULUŞ YERİ SEÇİMİ VE KURULUŞU",
+  "hours": "12",
+  "description": "Bu ünitede, işletmelerin kuruluş yeri seçimi ve kuruluşunda dikkat edilmesi gereken özellikler üzerinde durulmuştur. İşletme kurarken nelere dikkat edilmesi gerektiği, yasal süreç ve resmi kurumlarla ilişkiler üzerinde durulmuştur. Bu ünitedeki amacımız öğrencilere etkili ve verimli bir işletmeninin nasıl kurulacağı ve nerelere kurulacağını kavratmaktır.",
+  "outcomes": [
+    {
+      "code": "ISL.4.1",
+      "title": "İşletmelerin kuruluş yeri seçimine etki eden faktörleri açıklar",
+      "processComponents": [
+        "Kuruluş yerinin seçiminde ham madde, ulaştırma, pazara yakınlık, iş gücü (emek), enerji ve yakıt, su, iklim koşulları, atıkların atılması, özendirme (teşvik) önlemleri, yerel yönetim imkânları üzerinde durulur.",
+        "Coğrafya dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.4.2",
+      "title": "İşletmelerin kuruluşunda yerel yönetim işlemlerini sıralar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.4.3",
+      "title": "İşletmelerin kuruluşunda maliyeyle ilgili işlemleri sıralar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.4.4",
+      "title": "İşletmelerin kuruluşunda sosyal güvenlik kurumlarına ait işlemleri sıralar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.4.5",
+      "title": "İşletmelerin meslek kuruluşlarına üye olmasının gerekliliğini açıklar",
+      "processComponents": [
+        "İşletmelerin kuruluş aşamasında işletme sahiplerinin; vergi dairesi, sosyal güvenlik kurumu, belediye ve meslek kuruluşları ile ilgili yapacakları işlemler üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930143930838-%C4%B0%C5%9ELETME%20DERS%C4%B0%20%C3%96%C4%9ERT.%20PROGR..pdf"
+}

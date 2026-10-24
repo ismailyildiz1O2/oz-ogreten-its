@@ -1,0 +1,85 @@
+{
+  "unitId": 967,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "1. TEMA: SES ÖZELLİKLERİ",
+  "hours": "8",
+  "description": "Sesin yüksekliği, gürlüğü ve tınısına yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.2.1.1",
+      "title": "Dinlediği sesleri yükseklik özelliklerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Sesin yükseklik özelliğine ilişkin değişkenleri belirler.",
+        "b) Üzerinde çeşitli görseller bulunan kartları ses yüksekliklerine göre ayırır.",
+        "c) Dinlediği sesleri yüksekliğine göre tasnif eder.",
+        "ç) Dinlediği sesleri kalın veya ince olarak isimlendirir."
+      ]
+    },
+    {
+      "code": "BSE.2.1.2",
+      "title": "Dinlediği sözlü veya sözsüz müzik eserlerini gürlük özelliklerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Sesin gürlüğüne ilişkin değişkenleri belirler.",
+        "b) Dinlediği müziklerdeki sesleri ayırır.",
+        "c) Dinlediği müzikleri gürlüğüne göre tasnif eder.",
+        "ç) Dinlediği müzikleri kuvvetli veya hafif olarak isimlendirir."
+      ]
+    },
+    {
+      "code": "BSE.2.1.3",
+      "title": "Duyduğu seslerdeki tını farklılıklarını ayırt edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.2.1.4",
+      "title": ". İnsan sesini özelliklerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Duyduğu insan sesinin özelliğine ilişkin değişkenleri belirler.",
+        "b) Duyduğu insan sesini yüksekliğine göre ayırır.",
+        "c) Duyduğu insan sesini yüksekliğine göre tasnif eder.",
+        "ç) Duyduğu insan sesini tını farklılıklarına göre isimlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "hafif ses, ince ses, kalın ses, kuvvetli ses, tını",
+  "support": [
+    "Öğrencilerin duydukları sesleri somutlaştırmaları için oyunlar oynatılabilir. Örneğin piyanodaki kalın do ve ince sol sesleri kullanılarak deve-cüce oyunu oynatılabilir. Öğrencilerden kalın ses için aşağı çökmeleri, ince ses için ise ayağa kalkmaları istenebilir. Aynı oyun piyanodan çalınacak kuvvetli ve hafif akorlarla da oynatılabilir. Öğrencilerden hafif akor için aşağı çökmeleri, kuvvetli akor için ise ayağa kalkmaları istenebilir. Öğrencilerin duydukları insan sesini incelik-kalınlık ve cinsiyet özelliklerine göre sınıflandırmalarına yönelik dinleme etkinliklerine yer verilebilir. Örneğin soprano-bas veya alto- tenor ses gruplarını içeren örnekler dinletilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin duydukları sesleri somut ve yaratıcı yollarla ifade edecekleri etkinliklere yer verilebilir. Örneğin keman sesi ardından kontrbas sesi dinletilip kendilerinde uyandırdığı hissi bir resimle ifade etmeleri istenir veya ince bir ses için küçük daireler, kuvvetli bir ses için büyük ve koyu renkli çizgiler çizerek seslerin tınısına uygun renklendirme yapmaları istenebilir. Öğrencilere farklı hayvan, müzik aletleri veya doğa seslerini içeren ses kayıtları dinletilebilir ve bu seslerin kalın mı ince mi olduğunu tahmin etmeleri istenebilir. Tahminini yaptıktan sonra öğrencinin sesin kaynağını açıklaması ve neden kalın ya da ince olduğunu yorumlaması istenebilir. Öğrencilere rüzgâr, gök gürültüsü, kuş cıvıltısı, su damlaması gibi doğa sesleri dinletilerek bu sesleri kalın ve ince olarak sınıflandırmaları istenebilir. Öğrencilerin duydukları insan sesini incelik-kalınlık ve cinsiyet özelliklerine göre sınıflandırmalarına yönelik dinleme etkinliklerine yer verilebilir. Örneğin soprano-alto veya tenor- bas ses gruplarını içeren örnekler dinletilebilir. Dijital araçlar (cep telefonu, bilgisayar gibi) kullanılarak öğrenciler farklı sesleri dinleyebilir ve bu sesleri bir kategori tablosuna yerleştirerek cinsiyet ve tını farklılıklarını ayırt etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi, öz değerlendirme formu, değerlendirme soruları, kontrol listesi ve kavram haritası ile değerlendirilebilir. Öğrencilere insan sesinin özelliklerini sınıflandırma ile ilgili açıklayıcı bir görsel materyal hazırlayabilecekleri performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "BSE.2.1.1 Sesin yüksekliğinin ne demek olduğu sorularak konuya ilişkin merak oluşturulur ( E1.1 ). Öğrencilerin öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade etmeleri beklenir. Seslerin sınıflandırılması için başkalarının etkin biçimde dinlenmesi ve sözlü etkileşim sağlanması ( SDB2.1 ) yoluyla sesin yüksekliği ile ilgili değişkenlerin (kalınlık‑incelik) belirlenmesi sağlanır. Çeşitli nesne, hayvan vb. görsel kartlar ile oynanan oyunlar aracılığıyla ( E2.5 ) kartlar üzerindeki görseller algılanabilir, tanınabilir ve görseller hakkında eleştirel düşünme becerisi kullanılabilir ( OB4 ). Görsel kartların üzerindeki nesnelerin ya da varlıkların seslerinin yükseklik özelliklerinin ne olduğunu sorgulamasına, akıl yürütmesine ve ulaştığı çıkarımlar sonucu ( OB4 ) kartları kalınlık ve incelik farklılıklarına göre ayırmasına yönelik etkinlikler gerçekleştirilir. Öğrencilerin çeşitli nesne, hayvan vb. sesler aracılığıyla sesleri kalınlık ve incelik farklılıklarına göre tasnif edebilmesine yönelik dinleme etkinlikleri gerçekleştirilir. Daha sonra öğrencilerden, dinletilen bu seslerin kalınlık ve incelik bilgisinin çözümlenerek, seslerin yüksekliklerinin yorumlanarak sınıflandırılması istenir ( OB1 , KB2.3 ). Öğrencinin eleştirel düşünme becerisini geliştirmek için sesin yüksekliği ile ilgili bilgileri sorgulamasına, bu bilgileri kullanıp akıl yürütmesine ( OB1 ) ve bu yolla ulaştığı çıkarımlar doğrultusunda sesleri kalın veya ince olarak isimlendirip sınıflandırmasına yönelik dinleme etkinlikleri gerçekleştirilir. Süreç, kontrol listesi, öz değerlendirme formu ve değerlendirme soruları ile değerlendirilebilir. BSE.2.1.2 Sesin gürlüğünün ne demek olduğu sorularak konuya ilişkin merak oluşturulur ( E1.1 ). Öğrencinin öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade etmesi sağlanır. Başkalarını etkin bir şekilde dinleyerek, sözlü etkileşim sağlayarak ( SDB2.1 ) sesleri sınıflandırmak için sesin gürlüğü ile ilgili değişkenler (kuvvetli-hafif) belirlenir. Duyduğu seslere odaklanarak ( E3.2 ) sesleri (kuvvetli-hafif) farklılıklarına göre ayırmasına yönelik dinleme etkinlikleri gerçekleştirilir. Hafif sese örnek olarak ninniler dinletilebilir. Kuvvetli sese örnek olarak marşlar dinletilebilir. Böylece öğrencilerin dinlediği müziklerin gürlük özelliklerini ayırmaları sağlanabilir. Ninniler aracılığıyla aileye ait olma duygusu ve aile bağları geliştirilebilir ( D2.1 ). Marşlar aracılığıyla millî ve manevi değerlere duyarlı davranması ( D14.3 ), ülke varlıklarına sahip çıkması sağlanabilir ( D19.3 ). Doğadaki seslerin gürlük özelliklerini keşfetmelerine yönelik dinleme etkinlikleri gerçekleştirilir. Örneğin rüzgâr uğultusu, gök gürültüsü, arı vızıltısı gibi görsellerin bulunduğu kartlar gösterilerek bu kartlara ait sesler dinletilir. Her bir sesin kuvvetli mi, hafif mi olduğu sorulabilir. Öğrencilerin duyduğu seslere odaklanarak ( E3.2 ) bu seslerin gürlük özelliklerini belirlemeleri, yorumlamaları ( OB1 ) ve tasnif etmeleri sağlanabilir. Öğrencinin eleştirel düşünme becerisini geliştirmek için duyduğu seslere odaklanıp ( E3.2 ) sesin gürlüğü ile ilgili bilgileri sorgulamasına, bu bilgileri kullanıp, akıl yürüterek ve bu yolla ulaştığı çıkarımlar doğrultusunda müzikleri kuvvetli veya hafif olarak isimlendirip sınıflandırmasına ( OB1 , KB2.3 ) yönelik dinleme etkinlikleri gerçekleştirilir. Süreç, kontrol listesi, öz değerlendirme formu ve değerlendirme soruları ile değerlendirilebilir. BSE.2.1.3 Öğrencilerin işittiği seslere ilişkin ön gözlem veya deneyimlerinden yola çıkarak, çeşitli ses kaynaklarından gelen seslere (insan, hayvan, doğa, taşıt ve müzik aletleri gibi) odaklanarak ( E3.2) bu seslerin tını farklılıklarını ilişkilendirmesine yönelik dinleme etkinlikleri gerçekleştirilir. Örneğin etkileşimli tahta, bilgisayar, cep telefonu gibi dijital araçlar ile öğrencilere kuş cıvıltısı, su sesi, kapı zili, enstrüman sesi gibi sesler dinletilir. Duyduğu sesin kaynağını tahmin etmesine yönelik sorular sorulur. Öğrencilerin öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade edip sözlü etkileşim sağlayabilmeleri beklenir ( SDB2.1 ). Böylece duydukları seslerin tını farklılıklarını ilişkilendirip, çıkarım yaparak ( KB2.15 ) yargıda bulunmaları sağlanır ( KB2.11 ). Bu etkinliklerle öğrencilerin duydukları seslerdeki tını farklılıklarını ayırt edebilmeleri amaçlanır. Süreç, kontrol listesi, öz değerlendirme formu ve değerlendirme soruları ile değerlendirilebilir. BSE.2.1.4 Kadın ve erkek seslerinin birbirinden farkının neler olduğu sorularak konuya ilişkin merak oluşturulur ( E1.1 ). Öğrencilerin öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade etmeleri sağlanır. Başkalarının etkin bir şekilde dinlenmesiyle sözlü ya da sözsüz etkileşim sağlanabilir ( SDB2.1 ). Böylelikle insan sesinin özelliğine ilişkin değişkenler (cinsiyet) belirlenebilir. Öğrencilere duyduğu seslere odaklanarak ( E3.2 ) insan sesini cinsiyet farklılığına göre ayırmalarına yönelik çeşitli eserlerden kısa bölümler dinletilir. Bu eserleri seslendirenlerin kadın mı yoksa erkek mi olduğunu tespit etmeleri, duyduğu insan sesini cinsiyet farklılıklarına göre yorumlamaları ( OB1 ) ve ayırmaları istenir. İsim kartları ve kartların yerleştirilebileceği bir tablo (ilk satırda iki sütuna kalın ses ve ince ses, ikinci satırda iki sütuna kadın ve erkek yazılır) ile oynanan oyunlar aracılığıyla ( E2.5 ) duyduğu seslere odaklanarak ( E3.2 ) insan sesini kalınlık, incelik ve cinsiyet farklılıklarına göre tasnif etmesine yönelik etkinlikler gerçekleştirilir. Öğrencilerin bu çalışmalarda aktif rol almaları ( D3.4 ) sağlanır. Öğrencilere duydukları insan sesinin tını farklılığına göre isimlendirilmesine yönelik etkileşimli tahta, bilgisayar, cep telefonu gibi dijital araçlar ile çeşitli eserlerden kısa bölümler dinletilir. Böylece öğrencinin eleştirel düşünme becerisini kullanarak, insan sesinin isimlendirilmesi ile ilgili edindiği bilgileri sorgulayarak, bu bilgileri kullanıp akıl yürüterek ( OB1 ) ve bu yolla ulaştığı çıkarımlar doğrultusunda duyduğu insan sesini (soprano, alto, tenor ve bas) isimlendirerek sınıflandırması sağlanır ( KB2.3 ). İnsan sesinin özelliklerini sınıflandırma ile ilgili açıklayıcı görsel materyal hazırlamaya yönelik performans görevi verilir. Kavram haritası ile öğrencilerin insan sesini sınıflandırma becerisi değerlendirilebilir. Ayrıca kontrol listesi kullanılarak öğrencilerin duyduğu insan seslerini türlerine göre sınıflandırma süreçlerine geri bildirim verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D19.3",
+      "D2.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.15",
+      "KB2.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/967"
+}

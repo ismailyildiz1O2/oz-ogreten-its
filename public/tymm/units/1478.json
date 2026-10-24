@@ -1,0 +1,71 @@
+{
+  "unitId": 1478,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Geleneksel Sanatlar Dersi",
+  "title": "DÜZEY II · 3. Tema: Minyatür Sanatı",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GS.2.3.1",
+      "title": "Minyatür sanatı hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Minyatür sanatı hakkındaki bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak minyatür sanatı hakkındaki bilgileri bulur.",
+        "c) Minyatür sanatı hakkında ulaştığı bilgileri doğrular.",
+        "ç) Minyatür sanatı hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "GS.2.3.2",
+      "title": "Minyatür sanatında ürün tasarlayabilme",
+      "processComponents": [
+        "a) Minyatür sanatına ait örnek görselleri inceler.",
+        "b) Minyatür sanatına ait örnek görseller bağlamında oluşturduğu imgeleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.2.3.3",
+      "title": "Minyatür sanatı uygulamalarıyla ürün oluşturabilme",
+      "processComponents": [
+        "a) Minyatürün konusuna uygun görsel anlatım aracını ifade eder.",
+        "b) Konuyu minyatür sanatı ürününe dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "ahar, eskiz, mühreleme, nakış, nakkaş, nakkaşhane, noktalama, nüans, saydam boyama, sulandırma tekniği, tarama, tasvir",
+  "support": [
+    "Öğrencilere genel ağ üzerinden minyatür boyama teknikleri ile ilgili bir video izletilebilir ve öğrencilerden videodan öğrendiklerini defterlerine not almaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden geleneksel Türk minyatür sanatında kullanılan ağaç çeşitlerini araştırmaları ve bunları kullanarak doğa temalı kompozisyon tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, gösterip yaptırma, görsel ve metin analizi, 3-2-1 çıkış kartları tekniği, öğrenme günlüğü, boşluk doldurma, büyük grup tartışması, bilgi görseli, afiş, bülten panosu, soru-cevap tekniği, sunum teknikleri, portfolyo (ürün dosyası), gözlem formu, kontrol listesi, öz değerlendirme formu, grup değerlendirme formu, analitik dereceli puanlama anahtarı ve performans görevi ile değerlendirilebilir.",
+    "Sürece ilişkin öğrenmeler uygulama basamaklarını takip etme, yüzey hazırlama, eskiz oluşturma, minyatür tekniklerini uygulama, konuyu minyatür sanatsal ürününe dönüştürme ve zamanında teslim etme ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir",
+    "Performans görevi olarak öğrencilere yaptıkları minyatürlerden oluşan bir sergi hazırlatılabilir. Performans görevi; amaç belirleme ve görev dağılımı, bilgi toplama ve içerik hazırlama, sergi ürünlerini düzenleme ve görselleştirme, sergi düzeni ölçütleriyle grup değerlendirme formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.2.3.1",
+    "Öğretmen öğrencilerin minyatür sanatı ile ilgili gerekli bilgilere ulaşabilmeleri için kullanabilecekleri araçları belirlemelerinde onlara rehberlik eder ( OB1 , OB2 ) . Öğrencilerden kütüphane arşivleri, güvenilir dijital veri tabanları, akademik kaynaklar gibi bilgi edinme araçlarını grup hâlinde belirlemeleri istenir. Kitap, makale, broşür gibi materyalleri seçerek incelemeleri sağlanır. Öğrencilerden önerilen farklı kaynaklar üzerinden minyatür sanatının tanımı, genel özellikleri ve gelişimi ile ilgili ulaştıkları bilgileri doğrulamaları için birden fazla kaynağı eleştirel bir bakış açısıyla karşılaştırmaları, bilgileri teyit etmeleri ve kaynaklarının güvenilirliğini analiz etmeleri beklenir ( E3.9 , E3.10 , KB2.7 ) . Ulaştıkları bilgileri düzenli bir şekilde kaydetmeleri için dijital veya geleneksel yöntemler kullanmaları teşvik edilir. Minyatür sanatının yapıldığı döneme ışık tutan tarihî bir belge niteliğinde olduğu vurgulanarak öğrencilerden bununla ilgili düşüncelerini paylaşmaları istenir. Öğrencilerden hazırlayacakları kaynak fişine eserin adı, sanatçısı, konusu (betimlenen olay veya tema), yapıldığı tarih veya dönem; eserdeki figür–mekân ilişkisi, kompozisyon, renk kullanımı gibi bilgileri not etmeleri ve her minyatür için kısa bir değerlendirme yazısı hazırlamaları istenebilir.",
+    "Öğrenciler görevlerini zamanında ve eksiksiz yerine getirme bilinciyle bu bilgileri sunum hâlinde sınıfta arkadaşlarıyla paylaşır ( SDB2.1 , D16.3 ) . Konu içinde geçen minyatür sanatı ile ilgili tasvir, nakış, nakkaş, nakkaşhane, üslup gibi kavramları anlamak/keşfetmek amacıyla sorular sorar ( E1.1 ) . Günümüzde kullanılan benzer kavramlar hakkında fikir yürütür ve bu kavramlar ile minyatür sanatı arasında ilişki kurar ( KB2.9 ) .",
+    "Farklı dönemlerden seçilen minyatür sanatına ait örnekler etkileşimli tahtaya yansıtılır ( OB2 ) . Öğrencilerden bu örnekleri incelemeleri istenir. Böylece öğrencilerde merak uyandırılması ve öğrencilerin dikkatinin çekilmesi sağlanır ( E1.1 , E3.2 ) . Öğrenciler örnekler üzerinden Uygur, Selçuklu ve Osmanlı Dönemi minyatürlerinin konuları, renk kullanımları, kompozisyon özellikleri, sanatçıları (Nakkaş Sinan Bey, Nakkaş Osman, Nakkaş Nigârî, Matrakçı Nasuh, Levnî) ile ilgili sorularla düşünmeye ve farklı bakış açılarına saygı duyarak tartışmaya teşvik edilir ( D14.3 , D19.2 , E3.8 ) .",
+    "Öğrenciler minyatürü ortaya çıkaran sanatçıya ait üslup özelliklerini (eserlerinde tercih ettiği konular, renk, teknik ve kompozisyon düzeni) kendi cümleleri ile ifade eder ( OB1 , SDB1.1 ) . Öğrencilerden seçtikleri dönemin sanatçıları ile ilgili afiş çalışması yapmaları istenebilir.",
+    "Hazırlanan çalışmalar sınıf panosunda sergilenerek öz ve grup değerlendirme formları, dereceli puanlama anahtarı ve kontrol listesi ile değerlendirilebilir.",
+    "GS.2.3.2",
+    "Derse başlarken eskiz, stilizasyon ve nüans kavramları üzerinde durulur. Minyatürde tasarıma geçmeden önce hazırlanan eskiz örnekleri etkileşimli tahtaya yansıtılarak öğrencilerin incelemeleri sağlanır. Öğrenciler eskiz hazırlama ve uygulama etkinliklerine geçmeden önce kalemle çizgi hâkimiyetini kazanmak için nüanslı çizgi alıştırmaları yapar. Türk tezyinî sanatlarında kullanılan yaprak, çiçek, bitki ve hayvan figürleriyle alıştırmalar sürdürülür ( OB9 , D12.3 ) .",
+    "Öğrenciler minyatür sanatında kullanılan tarama, noktalama, sulandırma, yarı saydam ve tam boyama teknikleri ile ilgili örnekleri sınıfa/atölyeye getirir ( E2.2 ) . Etkileşimli tahtaya yansıtılan minyatür örnekleri incelenerek kullanılan boyama teknikleri tartışma yöntemi ile müzakere edilir ( OB4 , SDB2.2 , D3.3 , D3.4 ) . Öğrenciler minyatür sanatı örneklerinden esinlenerek ve bu görselleri temel alarak kendi zihinlerinde oluşturdukları çağrışımları yorumlayabilir. Minyatürün konusu, kompozisyon özellikleri, kullanılan renkler, kıyafetler, mekân, teknik ve malzeme ile eserin uyandırdığı duygu, öğrencilerin ifade biçimlerini etkileyebilir.",
+    "Tasarım öncesi öğrencilerden olay-konu seçimi, ana figür, mekân düzeni, renk seçimi, kompozisyon düzeni, geleneksel minyatür diline uygunluk gibi basamakları içeren bir olay şeması oluşturmaları istenebilir. Ardından öğrencilerin daha önce yaptıkları bitki ve hayvan figürü stilizasyonlarından ve seçtikleri minyatürlerdeki kompozisyon elemanlarından yararlanarak taslaklarını oluşturmaları sağlanır.",
+    "GS.2.3.3",
+    "Öğrenciler öğretmen rehberliğinde sanatsal ürün oluşturabilmek amacıyla minyatür boyama tekniklerinden hangisini/hangilerini kullanacaklarını belirleyerek tekniğe uygun malzemelerini hazırlar ( E3.2 ) . Minyatür uygulamasına geçmeden önce kâğıt renklendirme, aharlama ve mühreleme işlemlerinin basamakları gösterip yaptırma tekniği ile gerçekleştirilir.",
+    "Araştırılarak seçilen örnek minyatür üzerine aydınger kâğıdı yerleştirilerek eskiz hazırlanır. Tamamlanan eskizler renklendirilip aharlanmış kâğıda aktarılarak bunların fırça ile nüanslı çizimleri yapılır. Bu aşamada çizimler fırça yerine kalemle de yapılabilir. Öğrenciler gösterip yaptırma yöntemi ile tekniğin uygulanmasına yönelik basamakları takip ederek bu uygulamayı dikkatlice gözlemler ( SDB1.2 ) . Öğrenciler gözlemledikleri tekniği uygun minyatür malzemelerini kullanarak uygular.",
+    "Kolaydan zora doğru minyatürde kullanılan boyama teknikleri (tam boyama, saydam boyama, tarama, noktalama ve sulandırma) örneklerle açıklanarak gösterilir. Saç, sakal, bıyık, tül, kumaş, bitki, ağaç, hayvan, kürk gibi birçok yüzeyde tarama tekniği kullanıldığı belirtilir. Gölge ve hacim verilmek istenen bölümlerin boyanmasında ise yan yana konulan noktaların boyamada yumuşak geçişler sağladığı noktalama tekniği uygulanır. Sulu boya ile yapılan noktalamalar su ile yumuşatılır, böylece pürüzsüz ve yumuşak geçişli bir görünüm elde edilir. Bu teknik portre, bulut, gökyüzü, kumaş gibi örnekler üzerinde uygulanarak gösterilir. Öğrenciler bu tekniklerin uygulanması sürecinde disiplinli ve istikrarlı çalışma alışkanlıkları geliştirmenin önemini fark eder ( D3.1 ) .",
+    "Minyatür sanatında kullanılan temel tekniklerin uygulamalarını tamamlayan öğrenciler, belirledikleri konularda kompozisyonlar tasarlayarak çalışmalarını sanatsal ürüne dönüştürür ( E1.3 ) . Sürece ilişkin öğrenmeler uygulama basamaklarını takip etme, yüzey hazırlama, eskiz oluşturma, minyatür tekniklerini uygulama, konuyu minyatür sanatsal ürününe dönüştürme ve zamanında teslim etme ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir. Minyatürlerin tamamlanmasının ardından sergi hazırlığı aşamasına geçilir ( OB9 ) .",
+    "Performans görevi olarak öğrencilere yaptıkları minyatürlerden oluşan bir sergi hazırlatılabilir. Performans görevi; amaç belirleme ve görev dağılımı, bilgi toplama ve içerik hazırlama, sergi ürünlerini düzenleme ve görselleştirme, sergi düzeni ölçütleriyle grup değerlendirme formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SAB4. Sanatsal Üretim Yapma (SAB4.1. Sanatsal Ürün Tasarlama, SAB4.2. Sanatsal Ürün Oluşturma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1478"
+}

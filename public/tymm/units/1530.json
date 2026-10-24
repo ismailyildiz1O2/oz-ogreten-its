@@ -1,0 +1,28 @@
+{
+  "unitId": 1530,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY II · 1. Tema: Dijital Sanatları Keşfediyorum",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.2.1.1",
+      "title": "Dijital sanat eserlerini estetik açıdan yorumlayabilme",
+      "processComponents": [
+        "a) Dijital sanat eserlerinde yer alan görsel ögeler ile konu / mesaj arasında ilişki kurar.",
+        "b) Dijital sanat eserinin teması ya da destekleyici temaları hakkında çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "dijital sanat okuryazarlığı, estetik yorum, görsel analiz, sanatsal ifade",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB3. Sanat Eserini İnceleme (SAB3.3. Sanatsal Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1530"
+}

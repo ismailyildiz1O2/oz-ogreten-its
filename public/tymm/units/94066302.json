@@ -1,0 +1,61 @@
+{
+  "unitId": 94066302,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Türkçe Dersi",
+  "title": "2. ÖĞRENME ALANI: KONUŞMA",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.4.2.1",
+      "title": "Kelimeleri anlamlarına uygun kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.2.2",
+      "title": "Hazırlıksız konuşmalar yapar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.2.3",
+      "title": "Hazırlıklı konuşmalar yapar",
+      "processComponents": [
+        "Öğrencilerin izledikleri bir filmi tanıtmaları, görüş ve düşüncelerini belirterek anlatmaları sağlanır.",
+        "Öğrencilerin verilen bir konuyu görsellerle destekleyerek kısa sunum hazırlamaları ve prova yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.2.4",
+      "title": "Konuşma stratejilerini uygular",
+      "processComponents": [
+        "Nezaket kurallarına uygun konuşulması gerektiği hatırlatılır.",
+        "Beden dilini etkin kullanmanın önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "T.4.2.5",
+      "title": "Sınıf içindeki tartışma ve konuşmalara katılır",
+      "processComponents": [
+        "Öğrenciler konuşma/tartışma sırasında kendi düşüncelerini uygun şekilde ifade etmeleri için teşvik edilir.",
+        "Farklı bakış açılarına anlayışla yaklaşmanın önemi vurgulanır.",
+        "Başkalarını dinleme, uygun hitap ifadeleri kullanma, başkalarının sözünü kesmeme, konuşmanın bitmesini bekleme, akış içinde söz alarak konuşmaya katılma, karşısındakini saygıyla ve sabırla dinlemenin gerekliliği hatırlatılır.",
+        "Bir konuşmadaki/tartışmadaki bakış açılarını ayırt etmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.2.6",
+      "title": "Konuşmalarında yabancı dillerden alınmış, dilimize henüz yerleşmemiş kelimelerin Türkçelerini kullanır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

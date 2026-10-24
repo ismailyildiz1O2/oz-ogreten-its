@@ -1,0 +1,73 @@
+{
+  "unitId": 81363004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "4. ÜNİTE: EDEBİYAT UYGULAMALARI I - YAZMA",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.1.4.1",
+      "title": "Yazılacak metni planlar",
+      "processComponents": [
+        "Kime, neyin, nasıl, nerede, hangi araçlar ve düşünceyi geliştirme yolları kullanılarak yazılacağı dikkate alınarak planlama yapılır.",
+        "Konuya, amaca, hedef kitleye ve bağlama göre uygun metin türüne karar verilir.",
+        "Konuyla ilgili okuma ve araştırma yapılarak yazıda kullanılacak bilgi, gözlem, düşünce, duygu, izlenim ve deneyimlerle ilgili notlar çıkarılır.",
+        "Not alma, özet çıkarma, eleştirel, yaratıcı, serbest, kelime ve kavram havuzundan seçerek yazma, bir metinden ve duyulardan hareketle yazma gibi yöntem ve tekniklerden amaca uygun olanlar seçilir."
+      ]
+    },
+    {
+      "code": "EDU.1.4.2",
+      "title": "Taslak metin oluşturur",
+      "processComponents": [
+        "Nesneler, kişiler, olaylar, durumlar, bilgiler ve düşünceler arasında önem, doğruluk, geçerlilik, tutarlılık bakımından karşılaştırma içeren iletiler oluşturulur.",
+        "Bir anlatı (masal, roman, film vb.), okunmak veya izlenmek koşuluyla olayların oluş sırasına ve mantıksal ilişkilere uygun olarak yeniden yazılır.",
+        "Yazıda içerik oluşturmak, içeriği desteklemek amacıyla renk, fotoğraf, resim, tablo, şekil, grafik, grafik simge, şema, harita, kroki, diyagram ve duygu belirten görseller kullanılır.",
+        "Yazıda düşünceyi geliştirme yollarından benzetme, karşılaştırma, örneklendirme, tanımlama, tanık gösterme ve sayısal verilerden yararlanma kullanılır.",
+        "Yazıda sözcük, deyim, atasözü, terim ve kalıp ifadeler ayrıntılarına dikkat edilerek bağlama uygun kullanılır.",
+        "Yazıda iletiler açık veya örtük bir biçimde ayrıntılandırılarak ifade edilir.",
+        "Yazıda şahıs ve zaman ekleri ile cümledeki ögeleri birbirine bağlayan ekler doğru kullanılır."
+      ]
+    },
+    {
+      "code": "EDU.1.4.3",
+      "title": "Başlık belirler ve gerekirse alt başlık/bölüm başlığı ve epigraf kullanır",
+      "processComponents": [
+        "Taslak metin oluşturulduktan sonra amaca ve iletiye uygun, metin hakkında ipucu verebilen, ilgi çekici nitelikte başlık oluşturulur. Metnin türüne ve/veya yapısına uygun olarak bölümlere yönelik alt başlıklar ve bölüm ile ilişki kurabilen epigraflar kullanılır."
+      ]
+    },
+    {
+      "code": "EDU.1.4.4",
+      "title": "Taslak metni anlamsal ve biçimsel olarak gözden geçirir",
+      "processComponents": [
+        "Yararlanılan söz varlığının amaca uygunluğu, metnin iletiyi beklenen düzeyde karşılayabilmesi, okura yaşatılmak istenen duygu ve atmosferin yoğunluğu değerlendirilir.",
+        "Araştırmaya ve ispatlamaya dayalı metinlerde kaynak ve dipnot kullanımının hukuki ve etik boyutlarının bilinciyle gerekli kontroller yapılır.",
+        "Yazıda yazım kurallarına ve noktalama işaretlerinin kullanımına dikkat edilir."
+      ]
+    },
+    {
+      "code": "EDU.1.4.5",
+      "title": "Yazma sürecini değerlendirir",
+      "processComponents": [
+        "Yazma sürecindeki duygu, düşünce, davranışlar ile bunlara etki eden fiziksel (araçlar, ortam, düzlem vb.), dilsel (söz varlığı, dil yapısı vb.), duyuşsal (ilgi alanı vb.) ve zihinsel etkenler gözden geçirilir.",
+        "Yazıda tercih edilen tür, üslup, anlatım biçimi, düşünceyi geliştirme yolları gerekçelendirilerek açıklanır."
+      ]
+    },
+    {
+      "code": "EDU.1.4.6",
+      "title": "Yazdığı metni paylaşır",
+      "processComponents": [
+        "Yazılan metin yüksek sesle okuma, panoda sergileme; güvenli elektronik ortamlarda, kitap, dergi ve gazetelerde yayımlama, yarışmalara katılma gibi yollarla paylaşılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

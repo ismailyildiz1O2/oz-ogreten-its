@@ -1,0 +1,86 @@
+{
+  "unitId": 1054,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları - Müziksel İşitme, Okuma ve Yazma Dersi",
+  "title": "4. TEMA: MÜZİK YAZI VE TERİMLERİNİ ÖĞRENİYORUM-3",
+  "hours": "9",
+  "description": "Temada nota yazım kuralları, uzatma noktası ve bağ kavramları tema içeriğine uygun şekilde ele alınarak belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MİOY.2.4.1",
+      "title": ". Nota yazım kurallarına uygun yazabilme",
+      "processComponents": [
+        "a) Nota yazım kurallarının bileşenlerini tanır.",
+        "b) Nota yazım kurallarının bileşenlerini ayırt eder.",
+        "c) Nota yazım kurallarının bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MİOY.2.4.2",
+      "title": "Uzatma noktası ve bağ işaretlerini okuyabilme",
+      "processComponents": [
+        "a) Uzatma noktası ve bağ işaretlerini tanır.",
+        "b) Uzatma noktası ve bağ işaretlerini ayırt eder.",
+        "c) Uzatma noktası ve bağ işaretlerini uygular."
+      ]
+    },
+    {
+      "code": "MİOY.2.4.3",
+      "title": "Uzatma noktası ve bağ işaretlerini yazabilme",
+      "processComponents": [
+        "a) Uzatma noktası ve bağ işaretlerini tanır.",
+        "b) Uzatma noktası ve bağ işaretlerini ayırt eder.",
+        "c) Uzatma noktası ve bağ işaretlerini uygular."
+      ]
+    },
+    {
+      "code": "MİOY.2.4.4",
+      "title": "Uzatma noktası ve bağ işaretlerini işitebilme",
+      "processComponents": [
+        "a) Uzatma noktası ve bağ işaretlerini tanır.",
+        "b) Uzatma noktası ve bağ işaretlerini ayırt eder.",
+        "c) Uzatma noktası ve bağ işaretlerini ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "ek çizgi, nota yazımı, uzatma bağı, uzatma noktası",
+  "support": [
+    "Öğrencilerin ilgi, ihtiyaç ve hazır bulunuşlukları dikkate alınarak etkin olabilecekleri tekrarlar ve oyunlarla pekiştirme yapılabilir. Görseller eşliğinde öğrencilere, \"Bağ mı Nokta mı?\" oyunu oynatılır. Öğretmen, bir ritim çalar ve öğrenciden \"Bağ mı Nokta mı?\" olduğunu tahmin etmesi istenir. Zorluk çeken öğrencilere, ritim daha yavaş çalınarak tekrar ettirilir. Doğru cevabı bulması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere matematikteki ritmik değerleri kullanarak kavramları anlatabiliriz. Örneğin uzatma noktası, önüne geldiği notanın süre değerini yarısı kadar uzatır. 4 vuruşluk notaya (birlik nota) uzatma noktası eklediğimizde nota, 4 + 2 = 6 vuruş olur. Müzik tarihindeki bestecilerin uzatma noktası ve bağını nasıl kullandıklarını anlatmaları istenebilir. Öğrencilere boyama ve çizme çalışmaları yaptırılarak yazma becerisinin gelişmesi sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; boşluk doldurma soruları ve doğru-yanlış sorularından oluşturulacak çalışma kâğıtları, kontrol listesi, gözlem formu ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak, yazım kuralları, uzatma noktası ve bağ ile ilgili pano hazırlamaya yönelik performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MİOY.2.4.1 Nota yazım kurallarını içeren görsel metinler öğrencilere sunularak öğrencilerin nota yazımına dair şemaları merak etmeleri sağlanır. ( E1.1 ) Öğrencilere sunulan şemalarla ön öğrenmeleri hatırlaması sağlanır. Etkinlikler sırasında öğrencilerin birbirlerini dikkatle dinlemeleri, sırasını bekleyerek konuşmaları ve iletişimde saygılı bir tutum sergilemeleri teşvik edilir. Öğrencilerin yeni öğrenmelerde sunulan görsellere ilişkin sorular sorması sağlanır ( E3.8 ). Sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma desteklenir ( SDB1.1 ). Dizek üzerine nota yuvarlaklarını taşırmadan yazabilmeleri, anahtarları dizek üzerine konumlandırabilmeleri, boyama etkinlikleri yapmaları sağlanır (E1.2 ). Doğru ve yanlış yazıma dair görseller sunularak öğrencilerin doğru ve yanlış yazımları fark etmeleri sağlanır ( OB1 ). (Örneğin 3. çizgi üzerine yazılan sol anahtarını gördüğünde yazımın yanlış olduğunu ifade etmesi) ( OB4. ) Bu durumu sözlü ve yazılı olarak ifade eder. Bu süreç boşluk doldurma, doğru yanlış sorularından oluşan çalışma kâğıtları kullanılarak değerlendirilebilir. MİOY.2.4.2 Uzatma noktası ve bağ terimlerini içeren görsel metinler öğrencilere sunularak öğrencilerin nota yazımına dair şemaları merak etmeleri sağlanır ( E1.1. ). Öğrencilere sunulan şemalarla ön öğrenmeleri hatırlaması sağlanır. Süreçte, soru-cevap etkinlikleri yapılarak öğrencinin nezaket kuralları çerçevesinde söz alması ve kendini ifade etmesi desteklenir ( D14.1 ). Etkinlikler sırasında öğrencilerin birbirlerini dikkatle dinlemeleri, sırasını bekleyerek konuşmaları ve iletişimde saygılı bir tutum sergilemeleri teşvik edilir. Öğretmen tarafından basılı veya dijital ortamda sunulan görsellerle ilgili, öğrencilerin sorular sorması sağlanır. Sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma desteklenir ( SDB1.1 .). Uzatma noktası ve bağını okumaya yönelik görseller, etkileşimli tahta aracılığıyla öğretmen tarafından örneklenir. Öğrencilerin ritmik solfej ve solfej çalışmaları yaparak okuma sürecini pekiştirmeleri sağlanır. Bu süreç boşluk doldurma, doğru yanlış sorularından oluşan çalışma kâğıtları kullanılarak değerlendirilebilir. MİOY.2.4.3 Öğrencilere uzatma noktası ve bağın ne demek olduğu sorularak konuya ilişkin merak oluşturulur ( E1.1 ). Soru-cevap etkinliğiyle öğrenciler, dinledikleri müzikle ilgili duygu ve düşüncelerini ifade eder ( SDB2.1 ). Öğrencilerin uzatma noktası ve bağ ifadelerinin kısaltmaları, nota yazım kurallarına uygun bir şekilde tanımaları sağlanır. Kısaltma işaretleri ile ifade edilen görseller, etkileşimli tahtadan gösterilerek öğrencilerin tanıdığı ifadeleri ayırt ederek örneklemeleri sağlanır. Örnek eserlerde geçen uzatma noktası ve bağ terimlerinin etkili bir şekilde kullanılmasına yönelik uzatma noktası ve bağ terimlerinin olmadığı çalışma kâğıtları verilerek öğrencilerin seslendirme yapmaları istenir. Bu süreç, gözlem formu kullanılarak değerlendirilebilir.",
+    "MİOY.2.4.4 Uzatma noktası ve bağ ile ilgili görsel ve işitsel materyaller ile öğrencilerin temel ögeleri merak etmesi sağlanır ( E1.1 ). Uzatma noktası ve bağ ile ilgili öğrencilerin soru sorması sağlanır ( E3.8 ). Sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma desteklenir ( SDB1.1 ). Öğrencilere öz güvenlerini artıracak dönütler verilir ( E1.5 ). Bu süreç, gözlem formu veya kontrol listesi kullanılarak değerlendirilebilir. Uzatma noktası ve bağ terimleri ile ilgili sunumlar hazırlanarak kavramları hem görsel hem de işitsel olarak fark etmeleri sağlanır ( OB1 ). Öğrencilerin izleme ve dinleme etkinliklerinden sonra müzikle ilgili bilgilerinin veya anılarının olup olmadığı sorulur. Cevaplardan yola çıkılarak öğrencilerin anılarıyla öğreneceği bilgiler ilişkilendirilir ( SDB1.1 ). Öğrencilerin sınıf içerisinde görsellerle desteklenerek ifade edilen uzatma noktası ve bağ ögelerini, nota yazım kurallarına uygun bir şekilde çizmeleri için boyama etkinlikleri yapılması sağlanır ( E1.2 ). Bu süreç, eşleştirme sorularından oluşan çalışma kâğıtları kullanılarak değerlendirilebilir. Sınıf içerisinde görsel materyallerle desteklenen öğrencilerin, uzatma noktası ve bağ gibi ögeleri, metronoma uygun bir şekilde eliyle veya ayağıyla tempo tutarak süredeki değişiklikleri fark etmesi sağlanır. Öğrenciler, ögeler arasında ilişkileri belirler ve bu ilişkiler arasında bağ kurar. (Örneğin nota yazısı üzerinde bağın kullanılma durumlarını tespit edilebilmesi) ( OB4 ). Bu durumu sözlü ve yazılı olarak ifade eder ( KB2.7 .). Bu süreçte, uzatma noktası ve bağ konularına yönelik bir performans görevi verilebilir. Değerlendirme aşamasında, sürecin izlenmesi için analitik dereceli puanlama anahtarı kullanılabilir. Öğrencilerin konularla ilgili sunum yapmaları teşvik edilir ve gruplar oluşturarak birbirlerine karşı olumlu tutum geliştirmeleri beklenir. Böylece, iş birliği içinde çalışma ve grup içindeki uyumu deneyimlemeleri sağlanır ( SDB2.2 , D10.3 ). Bu süreçte, yazım kuralları, uzatma noktası ve bağ ile ilgili pano hazırlamaya yönelik performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D14.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E1.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1054"
+}

@@ -1,0 +1,47 @@
+{
+  "unitId": 1587,
+  "grade": 0,
+  "gradeName": "1. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY I · 6.Tema: Zekâ Soruları",
+  "hours": "9",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.1.6.1",
+      "title": ". Örnek zekâ sorularını inceleyerek, bu sorulara yönelik yapabileceklerini belirleyebilme. OOEZO.1.6.2. Zekâ sorularında verilen yönergelere ilişkin sorgulama, akıl yürütme ve yansıtma yapabilme",
+      "processComponents": [
+        "a) Zekâ sorularında verilen yönergelerden hareketle zekâ sorusunu sorgular.",
+        "b) Zekâ sorularında verilen yönergelerden hareketle zekâ sorusu ile ilgili akıl yürütür.",
+        "c) Zekâ sorularında verilen yönergelerden hareketle zekâ sorusuna yönelik ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "OOEZO.1.6.3",
+      "title": ". Zekâ sorunlarında kullanılan temel stratejileri uygulayabilme",
+      "processComponents": [
+        "a) Zekâ sorularında stratejik problem durumunu belirler.",
+        "b) Zekâ sorularında belirlenen problemin çözümüne ilişkin öneri sunar.",
+        "c) Belirlediği stratejiyi uygular."
+      ]
+    },
+    {
+      "code": "OOEZO.1.6.4",
+      "title": ". Başlangıç ve orta seviye zekâ sorularında duruma ilişkin tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) Başlangıç ve orta seviye zekâ sorularında durumu belirler.",
+        "b) Başlangıç ve orta seviye zekâ sorularında durumdan yola çıkarak bütün-bütün veya bütün-parça ilişkisi kurar.",
+        "c) Başlangıç ve orta seviye zekâ sorularında genelden genele veya genelden özele çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "zekâ sorusu, analitik düşünce",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1587"
+}

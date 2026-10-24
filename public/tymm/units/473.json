@@ -1,0 +1,95 @@
+{
+  "unitId": 473,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi (Maarif Modeli)",
+  "title": "2.TEMA: CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+  "hours": "42",
+  "description": "Bu temada öğrencilerin gerçek yaşam durumlarında dik koordinat sistemini çözümleyebilmeleri, doğrusal fonksiyonları matematiksel olarak temsil edebilmeleri, iki doğrusal fonksiyonun birbirine göre durumuna ilişkin çıkarım yapabilmeleri ve doğrusal fonksiyonlara ilişkin problemlerin çözümlerini algoritma ifade yöntemlerini kullanarak yapılandırabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.8.2.1",
+      "title": "Gerçek yaşam durumları üzerinden dik koordinat sistemini çözümleyebilme",
+      "processComponents": [
+        "a) Dik koordinat sisteminin bileşenlerini (düzlem, eksenler, sayı ikilileri gibi) belirler.",
+        "b) Dik koordinat sisteminde bileşenler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.8.2.2",
+      "title": "Gerçek yaşam durumlarındaki doğrusal ilişkileri doğrusal fonksiyonlarla temsil edebilme",
+      "processComponents": [
+        "a) Doğrusal fonksiyonların cebirsel, tablo ve grafik temsillerini tanır.",
+        "b) Gerçek yaşam durumlarındaki doğrusal ilişkileri incelemek için doğrusal fonksiyonların temsillerinden uygun olanını belirler.",
+        "c) Belirlediği temsili gerçek yaşam durumunu modellemek veya problemi çözmek için gerektiğinde temsiller arası geçiş yaparak kullanır.",
+        "ç) Kullandığı temsilin problem durumuna uygunluğunu değerlendirir.",
+        "d) Aynı durumda kullanılabilecek farklı temsilleri ekonomiklik ve kullanışlılık açısından karşılaştırır.",
+        "e) Karşılaştırdığı temsillerin ekonomikliğine ve kullanışlılığına ilişkin karar verir."
+      ]
+    },
+    {
+      "code": "MAT.8.2.3",
+      "title": "Dik koordinat sisteminde iki doğrusal fonksiyonun birbirine göre durumuna ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) Dik koordinat sisteminde iki doğrusal fonksiyonun birbirine göre durumuna ilişkin varsayım oluşturur.",
+        "b) Dik koordinat sisteminde farklı doğrusal fonksiyonların birbirlerine göre durumlarını inceleyerek genellemeler yapar.",
+        "c) Genellemeleri ile varsayımlarını karşılaştırır.",
+        "ç) Bulmuş olduğu ilişkilere yönelik önermeler sunar.",
+        "d) Dik koordinat sisteminde verilen doğruların konumlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.8.2.4",
+      "title": "Doğrusal fonksiyonlara ilişkin problemlerin çözümlerini algoritma ifade yöntemlerini kullanarak yapılandırabilme",
+      "processComponents": [
+        "a) Doğrusal fonksiyonlara ilişkin problemlerin çözümlerindeki adımları ve ilişkileri açıklar.",
+        "b) Algoritma ifade yöntemlerini kullanarak incelediği adımlar ve ilişkilerden uyumlu bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Düzlemde her noktaya bir gerçek sayı ikilisi, her gerçek sayı ikilisine düzlemin bir noktası karşılık gelir. • Doğrusal fonksiyonlarda değişkenler arasındaki değişim oranı (eğim) sabittir., • Eğimleri eşit iki doğru birbirine paraleldir. • İki doğru birbirine dik ise, eğimlerinin çarpımı -1' dir., Anahtar Kavramlar algoritma, bağımlı değişken, bağımsız değişken, eğim, fonksiyon, Sembol ve Gösterimler f(x), sıralı ikili: \"(x,y)\"",
+  "support": [
+    "Öğrencilerin günlük hayatta sıkça karşılaştıkları bisiklet sürme, kayak yapma, dağ tırmanma, rampa çıkma, yokuş inme gibi faaliyetler eğim kavramı ile ilişkilendirilebilir. Bu süreçte çeşitli eğimlere sahip bir yokuşu tırmanırken farklı bisikletçilerin hangilerinin daha çok zorlanacağı gibi durumlar tartışılabilir. Dik koordinat sistemi üzerinde somut materyal veya oyunla yapılacak çalışmalar aracılığıyla öğrencilerin sıralı ikilileri göstermeleri pekiştirilebilir. Öğrencilerin doğrusal fonksiyonların temsilleri arasında geçiş yaparken kendi hızlarında ilerlemelerine fırsat verilebilir. Öğrencilerle bireysel ya da iş birlikli çalışmalar yapılabilir. Öğrencilerin grup arkadaşları ile çalışarak grafikleri çizmeleri ve doğruların konumlarını yorumlamaları sağlanabilir. Somut materyaller kullanarak bir rampa oluşturmaları ve bu rampa üzerinde çeşitli deneyler yaparak eğimi anlamlandırmaları sağlanabilir. Doğrusal fonksiyonlara ilişkin problemlerin çözümlerine yönelik algoritmaları öğrencilerin kendi hızında ilerlemesine fırsat verilerek yapılandırmaları beklenebilir. Algoritmaların oluşumunda görsel araçlardan yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin Hooke (Huk) yasasına yönelik araştırma yapmaları istenebilir. Araştırmalarında doğrusal fonksiyonlara ilişkin buldukları bilgileri farklı temsil biçimlerini kullanarak bir poster üzerinde sunmaları beklenebilir. Öğrencilerin dik koordinat sisteminde iki doğrunun dik kesişmesi durumunda eğimleri arasındaki ilişkiyi ispatlamaları istenebilir. Tarihsel süreçte Decartes'in (Dekart) dik koordinat sistemini nasıl keşfettiği, dik koordinat sistemininin hangi alanlarda işe koşulduğu araştırılabilir. Öğrencilerin aynı problemlerin çözümü için farklı algoritmalar geliştirmeleri beklenebilir. Ayrıca geliştirdikleri algoritmaları bilgisayarda kodlama diline dönüştürerek algoritmaların çalışıp çalışmadığını kontrol etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve açık uçlu, doğru-yanlış ya da eşleştirmeli sorulardan oluşan izleme testleri ile değerlendirilebilir. Doğrusal fonksiyonların eğimlerine yönelik örneğin tekerlekli sandalye kullanan bireylerin herhangi birinden yardım almadan merdiven yerine kullandıkları rampaların eğiminin en fazla ne kadar olabileceğinin modellenmesini içeren performans görevi verilebilir. Öğrencilerden problemlerin çözümlerine yönelik sunum hazırlamaları istenebilir. Performans görevi araştırma yapma, rampanın dikey ve yatay değişimlerini inceleme, matematiksel modelini oluşturma kriterlerini içeren analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Performans ürünü, çalışma kâğıdı ve izleme testleri sonuç değerlendirme olarak kullanılabilir"
+  ],
+  "teachingApplications": [
+    "MAT.8.2.1 Öğrencilerin gerçek yaşam durumlarında verilen bir konumu belirlemek için bir eksen sisteminin farkına varmaları sağlanır. Bu süreçte öğrencilerin grup çalışması yapmaları sağlanabilir. Gruplardan örneğin sinema salonunun koltuk dizilimlerinin modelini kareli kâğıt üzerine çizmeleri istenerek eksenleri ve sıralı ikilileri belirlemeleri sağlanır. Bu çalışmanın sonucunda 0 (sıfır) noktasında dik kesişen iki sayı doğrusunun oluşturduğu sistemin dik koordinat sistemi, bu doğruların kesiştiği 0 (sıfır) noktası orijin, sayı doğruları x (apsis) ve y (ordinat) eksenleri olarak tanımlanır. Ayrıca dik koordinat sisteminin bölgeleri tanıtılır.",
+    "Öğrencilerin gerçek yaşam durumlarında verilen bir konumu belirlemede fark ettikleri ilişkileri dik koordinat sisteminde bir noktanın yerini belirten sıralı ikilileri belirlemede kullanabilmeleri sağlanır. Öğrencilerden sıralı ikilileri dik koordinat sisteminde bir noktayla eşleştirmeleri ya da verilen bir noktanın koordinatlarını sıralı ikili olarak ifade etmeleri istenir. Bu süreçte öğrencilerin matematik yazılımları üzerinde de çalışmaları sağlanabilir ( MAB5 ) . Böylece öğrencilerin dik koordinat sisteminde her noktaya bir gerçek sayı ikilisi, her gerçek sayı ikilisinin de dik koordinat sisteminde bir noktaya karşılık geldiğine yönelik genellemeye ulaşmaları beklenir ( KB2.9 ) . Bu öğrenme çıktısının değerlendirilmesinde, sıralı ikililerin dik koordinat sisteminde bir noktayla eşleştirilmesini ve verilen bir noktanın koordinatlarının sıralı ikili olarak ifade edilmesini gerektiren açık uçlu, doğru-yanlış ya da eşleştirmeli sorulardan oluşan izleme testleri kullanılabilir.",
+    "MAT.8.2.2 Öğrencilere telefon tarifelerindeki kullanım süresine bağlı ücretlendirme, antrenmanlardaki zamana bağlı yakılan kalori miktarı ve ürün sayısına bağlı toplam maliyet hesapları gibi gerçek yaşam durumları ile hareket eden bir cismin konum-zaman ilişkisi ve elektrik devrelerinde direnç sabit olduğunda oluşan akım-voltaj ilişkisi gibi farklı disiplinlerde (fen bilimleri gibi) karşılaşılan doğrusal ilişki içeren durumlar sunulabilir. Seçilen bağlamlar arasında spor antremanlarıyla ilgili problemler varsa zamana bağlı yakılan kalori miktarının önemi vurgulanarak, öğrencilerle sağlıklı bir yaşam sürmek için spor ve egzersiz yapmanın fiziksel ve psikolojik iyi oluşa katkıları üzerine konuşulabilir ( D13.2 ) . Öğrencilerin bu durumlardaki değişkenleri ve değişkenler arasındaki ilişkileri incelemeleri istenir. Bu incelemede öğrencilerin değişkenleri girdi (bağımsız değişken) ve çıktı (bağımlı değişken) olacak şekilde tanımlamaları ve her bir girdi değerinin yalnız bir çıktı değerine karşılık geldiğini fark etmeleri beklenir. Bu sınıf seviyesinde yapılacak çalışmalar, fonksiyon tanımına girilmeden doğrusal fonksiyonun temsilleri üzerinden gerçekleştirilir. Öğrencilerin doğrusal fonksiyonları matematiksel temsillerle ifade etmeleri (sözel, tablo, sembolik ve grafik temsili gibi) ve temsillerin birbirine dönüşümlerini yapmaları beklenir. Örneğin \"bir maraton koşusunda dakika başına koşulan mesafe\"yi ele alan bir durumda değişkenlerin belirlenmesi, belirlenen değişken değerlerinin tablo temsili üzerinde gösterilmesi, belirli bir zamandaki değişime bağlı olarak mesafedeki değişimin incelenmesi (değişim oranı) yorumlanarak ( OB4 ) zamana bağlı alınan mesafenin cebirsel olarak ifade edilmesi sağlanır. Fonksiyonlar f(x)=mx+n şeklinde ifade edilir. Doğrusal fonksiyonların temsil edilmesinde grafiklerden yararlanılır. Öğrencilerin maraton koşusundaki zamana bağlı mesafe örneğinde olduğu gibi fonksiyon grafiğinde her birim zamanın mesafedeki sabit bir artışa karşılık geldiğini (\"1 dakikada 60 metre yol alır.\" gibi) ve grafikteki noktaların bir doğru üzerinde olduğunu fark etmeleri sağlanır. Ayrıca öğrencilerin grafik çizimlerinde f(x)=mx+n, f(x)=kx ve f(x)=k gibi çeşitli doğrusal fonksiyonları ele almaları ve bu fonksiyonlardaki bileşenleri incelemeleri de (f(x)=kx için k>0 ve k değeri büyüdükçe fonksiyon grafiğinin nasıl değiştiğinin incelenmesi gibi) istenir. Öğrenciler bu incelemeleri yaparken matematik yazılımlarından ya da elektronik tablolardan yararlanabilir ( MAB5 ) . Doğrusal fonksiyonlar tablo veya grafik temsilleri üzerinde incelenirken fonksiyonların eğimlerine de yer verilir. Öğrencilerin değişim oranının fonksiyonun cebirsel temsili f(x)=mx+n ile nasıl ilişkili olduğunu tartışmaları sağlanarak doğrusal fonksiyonlarda değişim oranının sabit olduğunu ve bu değerin eğimi verdiğini yorumlamaları beklenir ( SDB2.1 ) . Ayrıca öğrencilerden fonksiyonun kuralında x ve f(x)'in iki değişken olduğunu, m'nin sabit değişim oranı, yani eğim olduğunu keşfetmeleri ve açıklamaları sağlanır. Doğrusal fonksiyonlarda eğimin incelenmesi, sözel temsiller ile yapılabileceği gibi tablodaki değişim değerleri ve grafik üzerinde de yapılır. Grafikte doğruların eğim üçgenlerinin benzer olması durumundan hareketle değişim oranının (dikey değişimin yatay değişime oranı) sabit olduğu tartışılır. Öğrencilerden matematik yazılımlarında verilen doğru döndürüldüğünde eğiminin nasıl değiştiğine yönelik incelemeler yapmaları istenebilir ( MAB5 ) . Böylece öğrencilerin negatif eğimi gözlemlemeleri sağlanır. Ayrıca, gerçek yaşam durumlarında eğimin sadece pozitif olacağı da tartışılır.",
+    "Öğrencilerle tekerlekli sandalye kullanan bireylerin merdiven yerine rampa kullanmalarının önemi tartışılarak hastaların, yaşlıların ve özel gereksinimli bireylerin ihtiyaçlarına öncelik verilmesi gerektiği hakkında konuşulur, böylece yardımseverlik değerinin kazanılması desteklenir ( D20.2 ) ve bu rampaların eğiminin en fazla ne kadar olabileceğinin araştırılması ve modellenmesi bir performans görevi olarak istenebilir. Gerçek yaşam durumlarında verilen matematiksel temsillerin doğrusal fonksiyonu göstermek için uygun olup olmadığı da yorumlanır. İncelenen durumlardan tablo ve grafik temsillerinin hangisinin yorumlanmasının daha işlevsel olduğu tartışılır. Öğrencilerden verilen gerçek yaşam durumları farklı matematiksel temsiller ile gösterilerek belirlenen temsilin ekonomiklik ve kullanışlılık açısından karşılaştırmaları istenir. Bu karşılaştırma sonucunda, fonksiyonu ve durumu yorumlamak için hangi temsilin daha ekonomik ve kullanışlı olduğuna dair (örneğin bazı fonksiyonlarda cebirsel temsil üzerinden yorum yapmak tablo temsiline göre daha kullanışlı olabilir) karar vermeleri beklenir. Performans görevinin değerlendirilmesinde araştırma yapma, rampanın dikey ve yatay değişimlerini inceleme, matematiksel modelini oluşturma kriterlerini içeren analitik dereceli puanlama anahtarı kullanılabilir. Öğrenme çıktısının değerlendirilmesinde ise doğrusal fonksiyonların kullanıldığı gerçek yaşam problemlerinin çözümünü gerektiren açık uçlu sorulardan oluşan izleme testleri ya da çalışma kâğıtları kullanılabilir.",
+    "MAT.8.2.3 Doğrusal fonksiyonların grafiklerini çizebilen öğrencilerden, dik koordinat sisteminde iki doğrunun birbirine göre durumunu karşılaştırmaları beklenir. Bu bağlamda öncelikle öğrencilerden iki doğrunun birbirine göre durumuna ilişkin çeşitli varsayımlarda (paralel gibi) bulunmaları istenir. Bu varsayımlarına ait ilişkileri gözlemlemeleri için matematik yazılımı kullanarak grup çalışmaları eşliğinde ( SDB2.2 , MAB5 ) öğrencilerin y=mx+n şeklindeki denklemlerin grafiklerini çizmeleri ve denklemde m değişkenini sabit bir değerde tutup n değişkenine farklı değerler vermeleri sağlanır. Burada m değişkeni için pozitif ve negatif değerler seçilmelidir. Diğer yandan doğru denklemlerinde n=0 ya da m=0 olma durumları da dikkate alınmalıdır. Matematik yazılımı kullanma imkanı olmadığı durumlarda ise grafikler kareli bir düzlemde çizilebilir. Aynı dik koordinat sisteminde çizdikleri grafikleri inceleyen öğrencilerin doğruları karşılaştırmaları istenerek \"Grafiklerini çizdiğiniz doğruların birbirine göre konumları hakkında ne söyleyebilirsiniz?\" sorusunu yanıtlamaları istenir ( SDB3.3 ) . Öğrencilerden doğrular için \"paralel ya da kesişir\" gibi yanıtlar vermeleri beklenir. Bu noktada öğrencilerin doğruların konumları ve eğimleri arasındaki ilişkiyi fark etmeleri de sağlanır. Öğrencilere \"Doğruların eğimleri ile konumları arasında nasıl bir ilişki vardır?\" gibi bir soru yöneltilebilir. Ayrıca öğrencilerin kesişen iki doğruyu incelemeleri de istenir. \"İki doğrunun kesişim noktasının koordinatları nedir?\", \"Bu nokta yani (a, b) noktası ile iki doğru arasında nasıl bir ilişki vardır?\" şeklinde sorular yöneltilereköğrencilerin tartışmaları sağlanır. Öğrencilerden f(a)=b ve g(a)=b olduğunu keşfetmeleri beklenir. Diğer yandan örneğin \"Eğimleri eşit iki doğru birbirine paraleldir.\" \"İki doğru birbirine dikse, eğimlerinin çarpımı -1' dir.\" gibi önermelerde bulunan öğrencilerin \"y=mx+n şeklindeki doğru denkleminde m ve n'nin değişimleri doğru grafiğinde değişimlere yol açar.\" gibi bir değerlendirme yapmaları beklenir ( E3.7 ) . Öğrenme çıktısının sonunda öğrencilere çeşitli doğru denklemlerinin yer aldığı ya da çeşitli gerçek yaşam durumları üzerinden dik koordinat sisteminde iki doğrunun birbirine göre durumunun karşılaştırılmasının istendiği açık uçlu, doğru-yanlış ya da eşleştirmeli sorulardan oluşan çalışma kâğıtları verilebilir.",
+    "MAT.8.2.4 Doğrusal fonksiyonlara ait problemlerin çözümlerini veren algoritmalar ile yapılandırılırken gerçek yaşam durumlarından yararlanılır. Örneğin atık miktarı ile geri dönüştürülen malzeme miktarı, toplu taşıma kullanımı ile karbon emisyonu, enerji tüketimi ve maliyeti, bir aracın kat ettiği mesafe ile tükettiği yakıt miktarı gibi durumlardan oluşturulan ve değişkenler arasındaki ilişkinin doğrusal olarak ele alındığı problemler ile başlanabilir ( SDB2.3 ) . Seçilen problemler arasında geri dönüşüm ve karbon emisyonu ile ilgili durumlar varsa, öğrencilerle kullanım ömrünü tamamlamış ürünlerin dönüştürülmesinin ( D17.3 ) ve tüketim tercihlerinin tasarruf değeri ve sürdürülebilirliğe katkıda bulunacak şekilde yapılmasının önemi hakkında konuşulabilir, böylece öğrencilerin geri dönüşüm ve sürdürülebilirlik konularında duyarlılık değerini kazanmaları desteklenebilir ( D5.2 ) . Problemlerde bağımlı ve bağımsız değişkenler yani algoritmada kullanılacak girdi ve çıktı değerleri, problemi çözmek için kullanılabilecek stratejiler, seçilen stratejide kullanılacak adımlar ile adımlar ve değişkenler arasındaki ilişkiler belirlenir ( SDB3.3 ) . Örneğin Celsius (Selsiyıs) cinsinden verilen bir sıcaklık değerini Fahrenheit (Fahrenhayt) cinsinden sıcaklığa dönüştürme probleminde girdi değeri Celsius cinsinden verilen bir sıcaklık iken çıktı değeri Fahrenheit cinsinden sıcaklıktır [f(x)= 9x 5 +32)]. Problem çözme sürecindeki adım ve ilişkilerin açıklanmasının ardından çözüme ait algoritma sözde kod, akış şeması veya doğal dil kullanılarak ifade edilir. Sözde kod yazımında kullanılacak dilin Türkçe olması istenir. Algoritmanın her adımı için kullanılacak işlemler sınıf içi tartışmalar ( SDB2.2 ) aracılığıyla kararlaştırılabilir. Örneğin öğrenciler fonksiyona bağlı olarak önce hangi işlemi yapacaklarına ya da belirli koşula göre hangi seçenekten ilerleyeceklerine yönelik kararlar verebilir. Gerçek yaşam problemlerinin çözümlerini veren algoritmaların farklı ifade yöntemleriyle oluşturulmasını gerektiren ve açık uçlu sorulardan oluşan izleme testleri aracılığıyla öğrenciler değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D17.3",
+      "D20.2",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.9"
+    ],
+    "alan": [
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/473"
+}

@@ -1,0 +1,68 @@
+{
+  "unitId": 81360004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Tıp Bilimine Giriş Dersi",
+  "title": "4. ÜNİTE: TIPTA MÜHENDİSLİK UYGULAMALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TBG.4.1",
+      "title": "Tıp alanında yararlanılan fen ve mühendislik dallarını araştırır",
+      "processComponents": [
+        "Tıbbi bilimlerin gelişim sürecinde fizik, kimya ve biyolojinin katkıları örneklerle açıklanır.",
+        "Matematiğin ve matematiksel modellemenin tıbbi bilimlerdeki yeniliklere olan etkisi örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "TBG.4.2",
+      "title": "İnsan vücudunu, makine ve bilgisayar sistemleriyle karşılaştırır",
+      "processComponents": [
+        "İnsan vücudunu oluşturan sistemler ve bilgisayar sistemleri arasındaki benzerlikler ve farklılıklar incelenir.",
+        "İnsan beyninin ve sinir sisteminin çalışma biçimleri bilgisayarların ve elektronik aygıtların çalışma biçimleri karşılaştırılır."
+      ]
+    },
+    {
+      "code": "TBG.4.3",
+      "title": "Temel tıp bilimlerindeki güncel mühendislik uygulamalarını araştırır",
+      "processComponents": [
+        "Temel tıp bilimlerinin laboratuvar çalışmalarında mühendislik uygulamalarının sağladığı yararlar incelenir.",
+        "Beyin-bilgisayar arayüzü araştırmalarına değinilerek örnekler paylaşılır."
+      ]
+    },
+    {
+      "code": "TBG.4.4",
+      "title": "Dâhilî tıp bilimlerindeki güncel mühendislik uygulamalarını inceler",
+      "processComponents": [
+        "Hasta muayenesi ve tedavisinde hekimlerin kullandığı mühendislik ürünleri tanıtılır.",
+        "Dâhilî tıp bilimlerinin uzmanlık alanına giren çeşitli hastalıklara yaklaşımda mühendislik modellemelerinin ve uygulamalarının önemi tartışılır."
+      ]
+    },
+    {
+      "code": "TBG.4.5",
+      "title": "Güncel cerrahi mühendislik uygulamalarını inceler",
+      "processComponents": [
+        "Robotik cerrahi, görüntüleme teknolojileri, nanoteknolojiler, biyomateryaller ve yapay zekâ uygulamaları üzerinde durulur.",
+        "Gazi YAŞARGİL'in cerrahi alanında öncü olduğu çalışmalar üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.4.6",
+      "title": "Tıp doktorlarının mezuniyet sonrasında temel bilim veya tıbbi mühendislik alanlarında uzmanlık yapmalarının önemini açıklar",
+      "processComponents": [
+        "Tıp lisansının yanı sıra farklı lisans ve lisansüstü dereceye sahip hekimlerin öz geçmişlerinden örnekler paylaşılır.",
+        "Türkiye'de ve dünyada tıp lisansının yanı sıra farklı lisans ve lisansüstü derecelere sahip hekimlerin tıp alanındaki bilimsel ve uygulamaya dayalı katkıları örneklerle incelenir.",
+        "Aziz SANCAR'ın farklı disiplinler üzerinden tıp bilimine katkıları örnekler üzerinden açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112410022320-t%C4%B1pbilimi.pdf"
+}

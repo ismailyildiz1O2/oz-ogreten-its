@@ -1,0 +1,50 @@
+{
+  "unitId": 1345,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "3. TEMA: PİYANODA BUSELİK MAKAMI",
+  "hours": "16",
+  "description": "Temada öğrencilere piyanoda buselik makamının çalınmasına yönelik beceri kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.5.3.1",
+      "title": "Buselik makamına yönelik eser çalabilme",
+      "processComponents": [
+        "a) Buselik makamına yönelik eseri çözümler.",
+        "b) Buselik makamını çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Buselik makamını çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Buselik makamın müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, makam",
+  "support": [
+    "Buselik ve rast makamı dizisinin ve eserinin temel müzik bileşenlerini daha basit parçalarla ve adım adım tekrarlar yaparak öğretmek, ritmik ve melodik yapıların pekişmesini sağlamak için faydalı olabilir. Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Buselik makamını daha derinlemesine analiz etmeleri, makamın farklı varyasyonlarını yaratmaları, özgün yorumlar geliştirmeleri ve grup çalışmaları ile eser üzerinde daha ileri düzeyde ifade becerileri kazanmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları gözlem formu, öz değerlendirme, dereceli puanlama anahtarı ve öz değerlendirme ile ölçülebilir. Performans görevi kapsamında öğrenciden buselik makamında yazılmış kısa bir eser veya etüdü dijital kaynaklardan incelemesi, çözümlemesi istenebilir. Performans süreci, öğretmenin hazırladığı dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PYN.5.3.1",
+    "Buselik makamına yönelik eserin çalınması sürecinde öğrenciler eserin notalarını dijital müzik platformlarından inceleyip farklı versiyonlarını dinleyerek çeşitli müzikal yorumları keşfederler ( OB2 , D3.3 ). Öğrencilerin buselik makamı dizisini öğrenmeye nasıl başlayacakları ve bu makamın müzikal bileşenlerini anlatılır ( OB1 ). Öğrenciden buselik makamında yazılmış eser veya etüdü çözümlemesi istenir. Bu süreçte merak duyguları devreye girer ve öğrenciler, makamın özelliklerini anlamak için araştırmalar yaparak derinlemesine öğrenirler ( E1.1 ). Öğrenciler buselik makamını çalmada duruş ve tutuş pozisyonu alır ve çalgıya özgü teknikleri kullanır. Öğrenciler, eser içerisinde buselik makamının özelliklerini anlar. Eseri müziksel bileşenlere uygun bir şekilde çalmaya başladıklarında öz güvenleri, daha belirgin hâle gelir ( OB9 , E1.5 ). Performans görevi kapsamında öğrenciden buselik makamında yazılmış kısa bir eser veya etüdü dijital kaynaklardan incelemesi, çözümlemesi ve ardından teknik doğrulukla müziksel bileşenlere uygun biçimde çalması istenir. Öğrenci, makamın karakteristik yapılarını tanımladığı kısa bir yazılı metin, video anlatımı veya sunum hazırlar. Öğrenciden farklı müzikal yorumları karşılaştırarak kendi yorumunu gerekçelendirmesi beklenir. Performans süreci, öğretmenin hazırladığı dereceli puanlama anahtarı veya gözlem formu ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB9"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1345"
+}

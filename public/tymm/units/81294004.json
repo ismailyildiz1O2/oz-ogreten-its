@@ -1,0 +1,65 @@
+{
+  "unitId": 81294004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "4. ÜNİTE: I. DÜZEY 4. TEMA: BİLİMİN SERÜVENİ I",
+  "hours": "20",
+  "description": "“Bilimin Serüveni I” teması, bilimin modern dönemindeki bilimsel keşifler ve dönüşümleri, bilimsel çağda sosyal ve teknolojik dönüşümler gibi konuları kapsar. Bu üniteyle öğrencilere bilim insanlarının ve buluşlarının toplum ve teknoloji üzerindeki etkilerini değerlendirme becerisi kazandırılması amaçlanır. “Bilimin Serüveni I” teması kapsamında öğrencilerden Newton kanunlarını kullanarak galaksilerin çarpışmasını çözümlemeleri, modern bilim dönemindeki bilgilerden hareketle deney yapmaları, tıp ve sağlık alanına etki eden buluşların canlıların hayatı üzerindeki etkisini değerlendirmeleri, dijital çağın getirdiği yenilikler hakkında bilgi sahibi olmaları, lazer ile hologram oluşturma sürecini çözümlemeleri, radyasyon ölçüm cihazı modeli tasarlamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.1.4.1.1",
+      "title": "Newton kanunlarını kullanarak galaksilerin çarpışmasını çözümler",
+      "processComponents": [
+        "Makroskobik nesnelere etki eden kuvvetin yarattığı etkinin Newton kanunları ve teknoloji kullanılarak açıklanması sağlanır.",
+        "Denge ve hareket kanunlarına ilişkin deney yapılır. Deneyin sonuçları gerçek hayattaki nesneleri, olayları ve olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.1.4.1.2",
+      "title": "Modern bilim dönemindeki bilgilerden hareketle deney yapar",
+      "processComponents": [
+        "20. yüzyılın başlarında önemli bilimsel keşifler ve bu keşiflere öncülük etmiş bilim insanları tanıtılır ve bu bilim insanlarının buluşları tanımlanır. 20. yüzyıldan itibaren Türk bilim insanlarının hayatı ve buluşlarıyla ilgili bilgi edinmeleri ve bunları rapor hâline getirmeleri sağlanır.",
+        "Modern bilim döneminde keşfedilen ilaçlar ve bu ilaçların toplum hayatı üzerindeki etkileri açıklanır. Enzim aktivitesi üzerine ilaçların etkisi hakkında deney yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.4.1.3",
+      "title": "Tıp ve sağlık alanındaki buluşların canlıların hayatı üzerindeki etkisini değerlendirir",
+      "processComponents": [
+        "Tıp ve sağlık alanındaki ilerlemeler ve bu ilerlemelere öncülük eden bilim insanları tanıtılır ve bu bilim insanlarının buluşları tanımlanır, bu buluşların toplum ve çevre üzerindeki etkilerini irdelemeleri sağlanır.",
+        "Antibiyotiklerin bakteriler üzerindeki etkisi hakkında deney yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.4.2.1",
+      "title": "Dijital çağın yenilikleri hakkında topladığı bilgiler ile ilgili rapor hazırlar",
+      "processComponents": [
+        "Bilgi teknolojilerinin yükselişi ve dijital teknolojilerin öncüleri ile bu teknolojilerin topluma sağladığı katkılar tanımlanır. Dijital çağın yenilikleri hakkında bilgi edinmeleri ve bunları rapor hâline getirmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.4.2.2",
+      "title": "Lazer ile hologram oluşturma sürecini çözümler",
+      "processComponents": [
+        "Lazer ile hologram oluşturma sürecinin bileşenlerini tanımlamaları ve bu bileşenler arasındaki ilişkileri belirlemeleri sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.4.2.3",
+      "title": "Radyasyon ölçüm cihazı modeli tasarlar",
+      "processComponents": [
+        "Radyasyonun canlı hayatı üzerindeki etkilerine değinilir ve bu etkilere günlük hayattan örnek verilir.",
+        "Radyasyon dedektör örneği yapılır. Radyasyon dedektöründeki eksiklikleri belirlemeleri ve dedektörü güncellemek için gerekli düzeltmeleri yapmaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

@@ -1,0 +1,59 @@
+{
+  "unitId": 81424053,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "53. ÜNİTE: BAĞLAMA - BAĞLAMADA BOZUK DÜZENDE TAVIRLAR",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.7.6.1",
+      "title": "Çalgı üzerinde Teke tavrı tezene vuruşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.2",
+      "title": "Çalgı üzerinde Azeri tavrı tezene vuruşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.3",
+      "title": "Çalgı üzerinde Zeybek tavrı tezene vuruşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.4",
+      "title": "Çalgı üzerinde Konya tavrı tezene vuruşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.5",
+      "title": "Verilen eserler üzerinde Konya tavrını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.6",
+      "title": "Çalgı üzerinde Silifke tavrı tezene vuruşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.7",
+      "title": "Verilen eserler üzerinde Silifke tavrını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.6.8",
+      "title": "Öğrendiği tavırlarla eserleri icra eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

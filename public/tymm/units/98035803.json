@@ -1,0 +1,63 @@
+{
+  "unitId": 98035803,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "3. ÖĞRENME ALANI: SANAT ELEŞTİRİSİ VE ESTETİK",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "G.8.3.1",
+      "title": "Sanat eserinde kullanılan görsel dilin ifadeleri aktarmadaki etkisini analiz eder",
+      "processComponents": [
+        "Sanat elemanları ve tasarım ilkeleri bağlamında sanat eserleri incelenir."
+      ]
+    },
+    {
+      "code": "G.8.3.2",
+      "title": "Bir sanat eserinin değerlendirilmesinde bilgi ve deneyimlerin etkisini söyler",
+      "processComponents": []
+    },
+    {
+      "code": "G.8.3.3",
+      "title": "Sanatla ilişkili olarak estetiğin ne olduğunu açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "G.8.3.4",
+      "title": "Kendisinin ve akranlarının çalışmalarını analiz eder",
+      "processComponents": []
+    },
+    {
+      "code": "G.8.3.5",
+      "title": "Sanatın tanımlamasını yapar",
+      "processComponents": [
+        "Sanatın farklı zaman dilimlerindeki tanımlarının, türlerinin ve değişiminin tartışılması sağlanır."
+      ]
+    },
+    {
+      "code": "G.8.3.6",
+      "title": "Çağdaş medyadaki imaj, yazı ve sembol gibi unsurların etkisini analiz eder",
+      "processComponents": [
+        "Markaların, şirketlerin vb. kurumların kullandıkları logo, slogan, yazı karakteri, renk, koku vb. imaj oluşturan kurumsal kimlik tasarımlarının hem ekonomik hem de tanıtım anlamında önemli etkisi olduğu irdelenir. Burada finansal okuryazarlık, sosyal-finansal girişimcilik, enerji tasarrufu ve vergi bilinci konuları üzerinde durulabilir."
+      ]
+    },
+    {
+      "code": "G.8.3.7",
+      "title": "Popüler kültürün günümüz görsel sanatlarına etkisini açıklar",
+      "processComponents": [
+        "Türk ressamlardan Erol Akyavaş’ın ve Avrupa sokak sanatçısı Banksy’in eserlerinden örnekler gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sanat Eleştirisi ve Estetik",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf"
+}

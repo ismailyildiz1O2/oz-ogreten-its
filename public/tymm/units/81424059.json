@@ -1,0 +1,64 @@
+{
+  "unitId": 81424059,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "59. ÜNİTE: KANUN - ETÜT VE ESER İCRASI I",
+  "hours": "22",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.8.4.1",
+      "title": "Çargâh makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.2",
+      "title": "Çargâh makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.3",
+      "title": "Buselik makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.4",
+      "title": "Buselik makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.5",
+      "title": "Tremolo tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.6",
+      "title": "Kürdi makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.7",
+      "title": "Kürdi makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.8",
+      "title": "Rast makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.4.9",
+      "title": "Rast makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

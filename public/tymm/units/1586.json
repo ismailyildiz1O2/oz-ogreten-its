@@ -1,0 +1,40 @@
+{
+  "unitId": 1586,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi",
+  "title": "5. Ünite: Proje Sunumu",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PTU.5.1",
+      "title": "Proje çıktısına yönelik çoklu ortam sunumu yapabilme",
+      "processComponents": [
+        "a) Proje çıktısına yönelik çoklu ortam sunumunu planlar.",
+        "b) Proje çıktısına yönelik çoklu ortam sunumunu tasarlar.",
+        "c) Proje çıktısına yönelik çoklu ortam sunumunu uygular.",
+        "ç) Çoklu ortam sunum özelliklerine göre sunumunu değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "analiz, bulgu, çoklu ortam, değerlendirme, etik, kaynak gösterme, proje, proje çıktısı, proje raporu, sonuç raporu, sunu, sunum teknikleri, veri, veri işleme",
+  "support": [
+    "Öğrencilerin proje hazırlama sürecini içeren sunumu poster sunumu şeklinde tasarlaması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler proje sunumunu zenginleştirmek için proje hazırlama sürecini de içeren bir video hazırlayabilir."
+  ],
+  "assessment": [
+    "Öğrencilere hazırlamış oldukları proje çıktı sürecini gösteren çoklu ortam sunuları performans görevi olarak verilebilir ve rubrik aracılığı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PTU.5.1",
+    "Öğrencilerden hazırladıkları proje çıktısına (proje öneri formu) ilişkin bulguların analiz (içerik analizi vb.) yöntemlerini (nicel, nitel vb.) seçebilmeleri için bu konuda araştırma yapmaları istenir. Öğrencilerden araştırma sonucunda kendi proje çıktısı için uygun olan analiz yöntem veya yöntemlerini belirlemesi beklenir. Öğrenciler bu doğrultuda verilerini şekil, tablo veya görsel olarak işler ( BTYAB5.3 ). Örneğin anket verilerini pasta grafiği şeklinde gösterebilir. Proje çıktıları içerisinde bir ürün varsa bu ürün ile ilgili bir poster veya bilgilendirme tasarımı yapılabilir. Öğrencilerin analiz ettiği bulguları kaynak göstererek yorumlamaları ve sonuç/sonuçlar çıkarmaları sağlanır ( BTYAB5.4 ). Öğrencilerden yaptıkları proje çıktısını sunmak için gerekli olan programları araştırmaları istenir. Öğrencilerden bu programların özelliklerinin neler olduğunu, sunumun içerisinde hangi medya türlerini barındırdığını sorgulayıp, ulaştıkları bilgileri farklı fikirlere ve önerilere açık, etkili bir biçimde iletişim kurarak tartışmaları istenir.",
+    "Öğrencilerden yapay zekâ araçlarını kullanırken MEB tarafından yayımlanan Yapay Zekâ Etik İlkeleri ve ilgili etik kurulların önerileri doğrultusunda hareket etmeleri beklenir. ( E3.5 , SDB2.1 ). Öğrencilerden “proje süreci” konusunda öğrendiklerini ve ürettiklerini sunmak üzere planlama yapmaları, sunumda hangi materyalleri (ses, video, fotoğraf vb.) kullanacaklarını açık ve anlaşılabilir bir şekilde tasarlayıp uygulamaları beklenir ( D3.4 , SDB1.2 ). Öğrencilerin proje çıktılarını sunmak için hazırladıkları materyalleri çoklu ortam sunusuna uygun program veya programlara yerleştirip oluşturdukları sunu vasıtasıyla sınıfta paylaşmaları sağlanır ( OB2 ). Öğrencilere hazırladıkları projelerinin tanıtımını yapmak amacıyla sosyal medya post tasarımları hazırlayıp \"Proje Pazarı\" sloganını içeren afiş tasarımları yapmaları performans görevi olarak verilebilir. Değerlendirme öğretmen tarafından rubrik aracılığı ile yapılabilir. Öğrencilerin proje geliştirme sürecine ilişkin araştırma notlarını, taslak çalışmalarını, görsel kayıtlarını, veri analizlerini ve proje çıktılarını içeren dijital portfolyo (e-portfolyo) oluşturmaları teşvik edilebilir. Böylece öğrencilerin öğrenme süreçlerini sistematik biçimde belgeleme, izleme, değerlendirme ve paylaşmaları desteklenebilir."
+  ],
+  "skills": [
+    "TSRMAB3. Çoklu Ortam Sunum"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1586"
+}

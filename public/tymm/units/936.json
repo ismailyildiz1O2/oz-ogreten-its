@@ -1,0 +1,53 @@
+{
+  "unitId": 936,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları - Çalgı Toplulukları Dersi",
+  "title": "2. TEMA: KÜRDİ MAKAMI DİZİSİYLE TOPLU İCRA",
+  "hours": "16",
+  "description": "Temada kürdi makam dizisindeki türkülerin birlikte çalınması ve makam dizisi özelliklerine uygun bir şekilde birlikte müzik yapma becerilerinin geliştirilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "Ç.T.6.2.1",
+      "title": "Kürdi makam dizisindeki eserleri toplu çalabilme",
+      "processComponents": [
+        "a) Kürdi makam dizisindeki çalınacak eseri çözümler.",
+        "b) Kürdi makam dizisindeki eserleri toplu çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Kürdi makam dizisindeki eserleri toplu çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Kürdi makam dizisindeki eserleri toplu çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, kürdi, makam, toplu icra",
+  "support": [
+    "Bu süreçte öğrencilere eserle ilgili detaylı bir hazırlık süreci sunarak parçaya her yönüyle hâkim olmalarını sağlamak önemlidir. Prova sırasında eksik kalan noktalar üzerinde çalışılabilir. Kürdi makamındaki türkülerin yavaş tempoda çalınması istenebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte kürdi makamında farklı türküler verilerek oluşturulan topluluklarla çalınması istenebilir. Öğrenciler, belirli bir tema veya motif etrafında doğaçlama yaparak melodiyi daha özgün bir hâle getirerek doğaçlama çalışmaları yapabilir."
+  ],
+  "assessment": [
+    "Temada öğrenme çıktıları; birlikte çalma performans gözlem formu, öğrenci ürün dosyası, öz değerlendirme formu, derecelendirme ölçeği ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilere derste çalınan kürdi makamındaki eserleri ve öğretmenin çalışmaları için verdiği eserleri topluluklar hâlinde sınıfta sunmaları istenen bir performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "Ç.T.6.2.1 İlk olarak makam dizisini hatırlatmaya yönelik çalışmalar yapılır. Kürdi makam dizisi belirlenen tempoda önce bireysel sonra toplu bir şekilde icra edilir. Çalışılacak olan kürdi makamındaki eser yansıtılarak nota üzerinden gözlem yapılması istenir ( KB2.2 ). Eser dinletilir, öğrencilerin nota kâğıdından takip ederek türküyü incelemeleri ve eseri çözümlemeleri istenir (OB9). Ardından bireysel olarak deşifre yapılması istenir ( E2.2 ). Deşifre sürecinde öğrencilerin çalgılarına uygun doğru bir duruş ve tutuş pozisyonu almaları sağlanır ( D7.2 ). Ölçüler hâlinde deşifre sürecinin tamamlanması istenir ( D12.3 ). Öğretmen belirlenen çalgı topluluklarını ayrı ayrı ziyaret ederek kontrol eder. Her öğrencinin çalgısına özgü doğru teknikle çalmasına dikkat edilir. Öğrenciler, öğretmenden gelen geri bildirimlere göre teknik, tutuş ve deşifre sürecini tamamlamaya çalışır ( D3.1 ). Oluşturulan karma çalgı gruplarıyla birlikte çalma sürecine geçilir. Türkü grup hâlinde çalınmaya başlar. Çalışma sırasında yavaş tempodan başlayarak, birbirlerinin tempo ve müzikal dinamik uyumuna ve ezgisel yapıya dikkat ederek müziksel bileşenlere uygun çalınması istenir ( E3.2 , SDB2.1 ). Öğretmen şef görevini üstlenerek grupları çalıştırır ( SDB2.2 ). Grup çalışmaları bittikten sonra her çalgı topluluğunun şarkıyı icra etmesi istenerek birlikte çalma performansı sergilenir ( SDB2.2 ). Farklı kürdi makamındaki türkülerle çalışmalar yapılır. Öğrencilere derste çalınan kürdi makamındaki eserleri ve öğretmenin çalışmaları için verdiği eserleri topluluklar hâlinde sınıfta sunmaları istenen bir performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.1",
+      "D7.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/936"
+}

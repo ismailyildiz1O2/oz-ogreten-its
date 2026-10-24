@@ -1,0 +1,48 @@
+{
+  "unitId": 98031803,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "3. ÜNİTE: DİN VE HAYAT",
+  "hours": "14",
+  "description": "Bu ünitede sırasıyla; “Din, Birey ve Toplum”, “Dinin Temel Gayesi”, “Bir Peygamber Tanıyorum: Hz. Yusuf (a.s.)”, “Bir Sure Tanıyorum: Asr Suresi ve Anlamı” konularına yer verilir. Ünite genelinde konular, günlük hayattan ve öğrencilerin somut deneyimlerinden örneklerle işlenir. Konular; ayet ve hadisler başta olmak üzere, öğrenci seviyesine uygun atasözü, vecize, beyit, ilahi, nefes gibi edebî örneklerle ele alınır.",
+  "outcomes": [
+    {
+      "code": "DKAB.8.3.1",
+      "title": "Din, birey ve toplum arasındaki ilişkiyi yorumlar",
+      "processComponents": [
+        "İslam dininin temel inanç, ibadet ve ahlaki esasları bireysel, sosyal ve iktisadi hayatla ilişkilendirilerek ele alınır."
+      ]
+    },
+    {
+      "code": "DKAB.8.3.2",
+      "title": "İslam dininin can, nesil, akıl, mal ve din emniyetiyle ilgili ortaya koyduğu ilke ve hedefleri analiz eder",
+      "processComponents": [
+        "Canın korunmasında, “iş sağlığı ve güvenliği”; malın korunmasında, “haksız kazanç”; aklın korunmasında, “zararlı alışkanlıklar”; neslin korunmasında, “aile kurumunun önemi” gibi konulara da değinilir."
+      ]
+    },
+    {
+      "code": "DKAB.8.3.3",
+      "title": "Hz. Yusuf’un (a.s.) örnek hayatından ilkeler çıkarır",
+      "processComponents": [
+        "Hz. Yusuf’un (a.s.) hayatı, sahih kaynaklarda yer alan rivayetler ışığında ayrıntıya girilmeden ve öğrenci düzeyi dikkate alınarak ele alınır."
+      ]
+    },
+    {
+      "code": "DKAB.8.3.4",
+      "title": "Asr suresini okur, anlamını söyler",
+      "processComponents": [
+        "Asr suresiyle ilgili kısa açıklamalara yer verilir; surede verilen mesajlar belirlenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf"
+}

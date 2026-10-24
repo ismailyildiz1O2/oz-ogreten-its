@@ -1,0 +1,61 @@
+{
+  "unitId": 81424147,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "147. ÜNİTE: TİYATRO - SES, NEFES VE DİKSİYON",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.1.1.1",
+      "title": "Beden ve nefes bütünlüğünün önemini korumaya yönelik davranış geliştirir",
+      "processComponents": [
+        "Beden ve nefes bütünlüğü konusunda farkındalık kazanılması sağlanır. Bireysel olarak beden ve nefes kapasitesinin keşfedilmesine yönelik çalışmaların yapılması sağlanır."
+      ]
+    },
+    {
+      "code": "SSA.1.1.2",
+      "title": "Nefes çalışmalarının önemini benimser",
+      "processComponents": [
+        "Doğal, göğüs ve diyafram nefesini bulmaya yönelik uygulama çalışmalarının yapılması sağlanır."
+      ]
+    },
+    {
+      "code": "SSA.1.1.3",
+      "title": "Nefes ve ses aygıtlarının anatomik yapısını açıklar",
+      "processComponents": [
+        "İnsan bedenindeki nefes, ses ve konuşma organları tanıtılır."
+      ]
+    },
+    {
+      "code": "SSA.1.1.4",
+      "title": "Nefes, ses ve boğulama/boğumlama çalışmalarını düzenler",
+      "processComponents": [
+        "Doğal sesi geliştirme çalışmaları uygulatılır. Doğal sesi genişletme ve güçlendirme egzersizleri yapılır. Tüm nefes ve ses teknikleri kullanılarak tekerleme metinleri üzerinde boğumala çalışmaları yapılır."
+      ]
+    },
+    {
+      "code": "SSA.1.1.5",
+      "title": "Ses ile ilgili temel bilgilerle özgün sesi kullanma becerisi geliştirilir",
+      "processComponents": [
+        "Seslerin işlevleri karşılaştırılır. Seslerin işlevleri üzerine uygulama çalışmaları yaptırılır."
+      ]
+    },
+    {
+      "code": "SSA.1.1.6",
+      "title": "Ses ve nefesini etkili kullanmaya yönelik çalışmalar planlar",
+      "processComponents": [
+        "Bir metin üzerinde nefesini etkin kullanma yöntemleri uygulanır. Ses ve nefesini okuduğu metne göre doğru kullanma becerisi geliştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "unitId": 81424062,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "62. ÜNİTE: KAVAL - KAVALDA MAKAMLAR VE MAKAMLARIN UYGULAMALARI I",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.9.2.1",
+      "title": "Çargâh makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.2.2",
+      "title": "Kürdi makamı dizisinde saz eserleri seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

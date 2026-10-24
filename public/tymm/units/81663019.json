@@ -1,0 +1,33 @@
+{
+  "unitId": 81663019,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "19. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 8. ÜNİTE: RECURSIVE (ÖZYİNELEMELİ) FONKSİYON",
+  "hours": "9",
+  "description": "Bu ünitede, recursive fonksiyon açıklanarak ve örneklenerek tanıtılır. Öğrenciye recursive fonksiyon ile ilgili uygulama yaptırılır.",
+  "outcomes": [
+    {
+      "code": "BTY.19.1",
+      "title": "Recursive fonksiyonun ne olduğunu kavrar",
+      "processComponents": [
+        "Recursive fonksiyonun kendisini çağıran bir metot olduğu örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.19.2",
+      "title": "Recursive fonksiyon kullanımı yapar",
+      "processComponents": [
+        "Verilen problemi recursive fonksiyon kullanarak çözen kodlar yazılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

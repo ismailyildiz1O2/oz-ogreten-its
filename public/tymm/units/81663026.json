@@ -1,0 +1,46 @@
+{
+  "unitId": 81663026,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "26. ÜNİTE: PROGRAMLAMA DİLLERİ (C#) - 2. ÜNİTE: KARAR VE DÖNGÜ YAPILARI",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.26.1",
+      "title": "Karar ifadelerini örneklerle açıklar",
+      "processComponents": [
+        "Programın belirli koşullara göre farklı davranışlar sergilemesini sağlayan karar ifadelerini farklı durumlar altında kontrol edip programlarında belirli şartlara göre yönlendirmesi anlatılır.",
+        "Karar ifadeleriyle ilgili karşılaştırmanın mantıksal operatörlerle (eşitlik, büyüklük-küçüklük kontrolü vb.) tanımlanması ve karşılaştırılması örneklendirilir.",
+        "Programlamanın temel yapı taşı olan karar ifadelerini, kullanıcıdan alınan girdilere veya belirli şartlara bağlı olarak kullanacağı örnek uygulamalar yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.26.2",
+      "title": "Mantıksal operatörleri kullanarak koşullar oluşturur",
+      "processComponents": [
+        "Mantıksal operatörler (AND, OR, NOT) anlatılır.",
+        "İki veya daha fazla koşulun aynı anda doğru olması gerektiği durumlarda mantıksal operatörleri (AND, OR, NOT) birleştirerek kullanması sağlanır.",
+        "Mantıksal operatörler karmaşık koşulların analizi için farklı örneklerde çalışılır."
+      ]
+    },
+    {
+      "code": "BTY.26.3",
+      "title": "Döngü yapılarını kullanarak tekrarlayan işlemler gerçekleştirir",
+      "processComponents": [
+        "Döngü yapıları ile belirli işlemlerin tekrarlanması öğretilir.",
+        "Farklı türdeki döngü yapılarının (for, while, do-while) çalışma prensibi açıklanır.",
+        "Veri koleksiyonları üzerinde dolaşma, belirli bir aşamaya kadar işlem yapma, işlemi devam ettirme ve tekrar eden görevleri otomatikleştirme işlemlerinde döngüleri kullanma durumları örneklendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

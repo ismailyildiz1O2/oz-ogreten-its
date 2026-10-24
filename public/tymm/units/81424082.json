@@ -1,0 +1,39 @@
+{
+  "unitId": 81424082,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "82. ÜNİTE: UT - TEKNİK ÇALIŞMALAR – II",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.11.6.1",
+      "title": "Tremolo tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.6.2",
+      "title": "Ut icrasında tremolo tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.6.3",
+      "title": "Glissanndo tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.6.4",
+      "title": "Ut icrasında glissando tekniğini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,171 @@
+{
+  "unitId": 430,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+  "hours": "32",
+  "description": "Bu ünitede sindirim, dolaşım, solunum ve boşaltım sistemlerine ait yapı ve organlar ile bu yapı ve organların görevlerinin açıklanması amaçlanmaktadır. Bu sistemlerin sağlığı konusunda yapılması gerekenlerin araştırma verileriyle tartışılarak açıklanması, kan bağışı ve organ bağışının toplumsal dayanışma açısından öneminin tartışılarak fark edilmesi, Yeşilay ve bağımlılık konusunda farkındalık kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Sindirim Sistemi",
+      "processComponents": []
+    },
+    {
+      "code": "FB.7.3.1.1",
+      "title": "Sindirim sistemini oluşturan yapı ve organların görevlerini model üzerinde gözlemleyebilme",
+      "processComponents": [
+        "a) Sindirim sistemini oluşturan yapı ve organların niteliklerini tanımlar.",
+        "b) Sindirim sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder.",
+        "c) Sindirim sistemini oluşturan yapı ve organların görevlerini açıklar."
+      ]
+    },
+    {
+      "code": "FB.7.3.1.2",
+      "title": "Sindirim sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+      "processComponents": [
+        "a) Sindirim sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak sindirim sisteminin sağlığı hakkında bilgiler bulur.",
+        "c) Sindirim sisteminin sağlığı hakkında bulduğu bilgileri doğrular.",
+        "ç) Sindirim sisteminin sağlığı hakkında bulduğu bilgileri kaydeder. 2. Bölüm: Dolaşım Sistemi"
+      ]
+    },
+    {
+      "code": "FB.7.3.2.1",
+      "title": "Dolaşım sistemini oluşturan yapı ve organların görevlerini model üzerinde gözlemleyebilme",
+      "processComponents": [
+        "a) Dolaşım sistemini oluşturan yapı ve organların niteliklerini tanımlar.",
+        "b) Dolaşım sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder.",
+        "c) Dolaşım sistemini oluşturan yapı ve organların görevlerini açıklar."
+      ]
+    },
+    {
+      "code": "FB.7.3.2.2",
+      "title": "Kan bağışının toplumsal dayanışma açısından önemini tartışabilme",
+      "processComponents": [
+        "a) Kan bağışının toplumsal dayanışma açısından önemine yönelik mantıksal temellendirme yapar.",
+        "b) Kan bağışının toplumsal dayanışma açısından önemine yönelik mantıksal çelişkileri tespit eder.",
+        "c) Kan bağışının toplumsal dayanışma açısından önemi konusunda geçerli fikirler oluşturur."
+      ]
+    },
+    {
+      "code": "FB.7.3.2.3",
+      "title": "Dolaşım sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+      "processComponents": [
+        "a) Dolaşım sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak dolaşım sisteminin sağlığı hakkında bilgiler bulur.",
+        "c) Dolaşım sisteminin sağlığı hakkında bulduğu bilgileri doğrular.",
+        "ç) Dolaşım sisteminin sağlığı hakkında bulduğu bilgileri kaydeder. 3. Bölüm: Solunum Sistemi"
+      ]
+    },
+    {
+      "code": "FB.7.3.3.1",
+      "title": "Solunum sistemini oluşturan yapı ve organların görevlerini model üzerinde gözlemleyebilme",
+      "processComponents": [
+        "a) Solunum sistemini oluşturan yapı ve organların niteliklerini tanımlar.",
+        "b) Solunum sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder.",
+        "c) Solunum sistemini oluşturan yapı ve organların görevlerini açıklar."
+      ]
+    },
+    {
+      "code": "FB.7.3.3.2",
+      "title": "Solunum sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+      "processComponents": [
+        "a) Solunum sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak solunum sisteminin sağlığı hakkında bilgiler bulur.",
+        "c) Solunum sisteminin sağlığı hakkında bulduğu bilgileri doğrular.",
+        "ç) Solunum sisteminin sağlığı hakkında bulduğu bilgileri kaydeder. 4. Bölüm: Boşaltım Sistemi"
+      ]
+    },
+    {
+      "code": "FB.7.3.4.1",
+      "title": "Boşaltım sistemini oluşturan yapı ve organları model üzerinde gözlemleyebilme",
+      "processComponents": [
+        "a) Boşaltım sistemini oluşturan yapı ve organları tanımlar.",
+        "b) Boşaltım sistemini oluşturan yapı ve organları model üzerinde inceler.",
+        "c) Boşaltım sistemini oluşturan yapı ve organların özelliklerini açıklar."
+      ]
+    },
+    {
+      "code": "FB.7.3.4.2",
+      "title": "Boşaltım sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+      "processComponents": [
+        "a) Boşaltım sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak boşaltım sisteminin sağlığı hakkında bilgiler bulur.",
+        "c) Boşaltım sisteminin sağlığı hakkında bulduğu bilgileri doğrular.",
+        "ç) Ulaştığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "sindirim sistemini oluşturan yapı ve organlar, enzim, karaciğer, pankreas, kalp, kan, kan damarları, kan bağışı, organ bağışı, solunum sistemini oluşturan yapı ve organlar, Yeşilay, bağımlılık, boşaltımda görevli yapı ve organlar, deri, akciğer, kalın bağırsak",
+  "support": [
+    "Sistemlere ilişkin daha fazla inceleme yapabilmeleri için dijital kaynaklardan videolar veya animasyonlar izletilebilir. Performans görevleri sırasında izleyecekleri basamaklar yönerge hâlinde hazırlanarak kılavuzluk yapılabilir. Sistemlere ait yapı ve organlara yönelik eşleştirme kartlarıyla oyun oynayarak pekiştirmeleri sağlanabilir. Her sistemde gözlem verilerine ait açıklamalar yapıldıktan sonra tekrar bir özetleme yapılarak eksik kalan bölümlerin tamamlaması sağlanabilir. Sistemler ile ilgili 3B modeller gösterilebilir."
+  ],
+  "enrichment": [
+    "Sistemlerin sağlığına yönelik bilinçlendirme çalışması için sosyal sorumluluk projesi hazırlatılabilir. Kan ve organ bağışı konusunda resmî kurumlardan uzmanlarla röportaj yapmaları ve sınıfta sunmaları sağlanabilir. İbnü'n Nefîs'in dolaşım sistemi konusunda çalışmalarıyla ilgili araştırma yaparak sunmaları sağlanabilir. Zehravi'nin sistemler konusundaki çalışmalarıyla ilgili araştırma yaparak sunmaları sağlanabilir. Seçtikleri sisteme yönelik tanıtıcı bir video/animasyon hazırlatılabilir. Bağımlılık konusunda yapılan araştırmaları derleyip bir rapor hazırlatılabilir. Yeşilayı ve çalışmalarını tanıtan bir sunum hazırlatılabilir. Sistemlerin sağlığı, organ bağışı ve kan bağışı konuları ile ilgili afiş veya slogan yarışması yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde eşleştirme testi, tanılayıcı dallanmış ağaç, çalışma kâğıdı, yapılandırılmış grid, açık uçlu sorular, boşluk doldurma testi, anlam çözümleme tablosu ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri, bir ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. Yeniden kullanılabilir malzemelerle sindirim sistemini oluşturan yapı ve organları ile bu yapı ve organların özelliklerini tanıtacakları poster hazırlama performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Sindirim sisteminin sağlığı konusunda yapılması gerekenlere ilişkin poster, afiş, resim, rapor vb. hazırlama performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Öğrencilerin dolaşım sistemi hastalıkları ve sistemin sağlığı için yapılması gerekenleri açıkladıkları bir poster, afiş, resim, rapor vb. hazırlama ve sunmayı içeren performans görevi verilebilir. Bu görev ve süreci analitik dereceli puanlama anahtarıyla değerlendirilebilir. Solunum sistemi maketi hazırlama performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Solunum sistemi hastalıklarına ilişkin farkındalık çalışması için poster, afiş, resim, rapor vb. hazırlama performans görevi verilebilir. Süreç kontrol listesi, öz/akran değerlendirme formları vb. değerlendirilebilir. Boşaltım sisteminin sağlığı konusunda yapılması gerekenlere ilişkin poster, afiş, resim, rapor vb. hazırlamayı içeren performans görevi verilebilir. Bu performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FB.7.3.1.1 Öğrencilere besinlerin vücudumuzda izlediği yol sorularak sindirim sistemine ait yapı ve organlara beyin fırtınası tekniğiyle odaklanmaları sağlanır ( E3.2 , E3.5 ) . Öğrencilerin sindirim sistemini oluşturan yapı ve organların niteliklerini tanımlamaları beklenir. Bu süreçte gruplara ayrılarak olumlu iletişimin sağlandığı grup tartışması kullanılır ( SDB2.1 , SDB2.2 ) . Sindirim sistemini oluşturan yapı ve organları maket, model, poster, video, animasyon vb. araçları kullanarak merak ile incelemeleri istenir ( OB4 , OB2 , E1.1 ) . İnceleme sonucunda ulaştıkları bilgileri kaydetmeleri istenir ( OB1 ) . Sindirime yardımcı organlardan karaciğer ve pankreasa değinilir. Enzimlerin yapısına girilmeden tanımı verilir. Fiziksel ve kimyasal sindirimin farkları açıklanır. Sindirim sistemini oluşturan yapı ve organların görevlerine ait elde edilen verileri açıklamaları istenir. Bu süreçte öğrencilerin bilimsel bakış açısıyla hareket ederek fikirlerini savunmaları sağlanır ( E3.5 , D3.3 ) . Süreci değerlendirmek için sindirim sistemini oluşturan yapı ve organlar ile bu yapı ve organların özelliklerini tanıtacakları poster hazırlamaları istenebilir. Poster yapımında kumaş, kâğıt vb. yeniden kullanılabilir malzemeler kullanılması önerilir ( D17.2 ) . Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Ayrıca çalışma kâğıdı biçimlendirici değerlendirme amacıyla kullanılabilir.",
+    "FB.7.3.1.2 Öğrencilerden sindirim sisteminin sağlığını etkileyen bir durumu örnek olay yöntemi ile tartışmaları istenir ( KB2.8 , SDB2.1 ) . Örnek olay çerçevesinde merak duygusunu artırmak için açık uçlu sorular sorulur ( E1.1 ) . Öğrencilere sindirim sistemi hastalıklarına girilmeden bu sistemin sağlığı konusunda bireysel ya da grup olarak poster, afiş, resim, rapor vb. performans görevleri verilir ( SDB1.2 ) . Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları sağlanır ( OB2 , OB1 ) . Bu süreçte gerçeği arama isteğiyle, merak ettikleri soruları sorarak güvenilir araçları belirlemeleri sağlanır ( E3.4 , E3.8 ) . Belirledikleri aracı kullanarak bu sistemin sağlığı hakkında bilgi toplamaları istenir ( OB7 ) . Ulaştıkları bilgileri doğrulamaları beklenir. Bu doğrulama işlemini öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak yürütmeleri sağlanır ( D3.3 , OB7 , OB1 ) . Video, sunu, röportaj yapma vb. sunum teknikleri de kullanılabilir ( SDB2.1 ) . Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ) . Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri dersleriyle ilişki kurulur ( OB2 ) . Süreçte görev bilinciyle hareket ederek sorumlu ve planlı davranmaları beklenir ( D3.2 , E2.2 , D16.3 ) . Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilir. Araştırma sonuçlarından yola çıkarak sağlıklı beslenme alışkanlıkları ve sindirim sisteminin sağlığı konusunda duyarlı davranmaları, yanlış uygulamalarını belirleyerek doğru davranışlarla değiştirmeleri beklenir ( KB2.15 , SDB2.2 , SDB3.3 , D13.4 ) . Ayrıca ulaştıkları bilgiler doğrultusunda yeterli ve dengeli beslenmenin, sosyal ve sportif faaliyetler ile teknoloji bağımlılığının sindirim sisteminin sağlığı üzerindeki etkisine değinilerek sağlıklı yaşama özen göstermeleri beklenir ( D13.4 ) . Değerlendirmede tanılayıcı dallanmış ağaç, açık uçlu sorular vb. izleme amaçlı kullanılabilir.",
+    "FB.7.3.2.1 Öğrencilerin kalp sesini veya nabzını dinleyerek dolaşım sistemi organlarına odaklanmaları ve konuya merak duymaları sağlanır ( E1.1 , E3.2 ) . Öğrencilerin dolaşım sistemini oluşturan yapı ve organların niteliklerini tanımlamaları istenir. Bu süreci gruplara ayrılarak ve tartışma yöntemiyle yapmaları sağlanır ( SDB2.1 , SDB2.2 ) . Dolaşım sistemini oluşturan yapı ve organları maket, model, poster, video, animasyon vb. araçlarla inceleyerek ulaştıkları bilgileri kaydetmeleri sağlanır ( OB4 , OB1 ) . Dolaşım sistemini oluşturan yapı ve organların görevlerine ait elde edilen bilgileri özetleyip açıklamaları istenir ( SDB2.2 ) . Kalbin odacıklarına ve aort gibi özel damar isimlerine değinilmeden küçük ve büyük kan dolaşımları açıklanır. Damar çeşitlerinden atardamar, toplardamar ve kılcal damar olarak bahsedilir. Ayrıca küçük kan dolaşımında kanın oksijen oranının arttığı, büyük kan dolaşımında ise azaldığına değinilir. Küçük kan dolaşım sisteminin ilk defa İbnü'n Nefîs tarafından keşfedilerek anatomik çiziminin yapıldığına değinilir. Bundan 4 asır sonra Harwey tarafından ortaya konduğu vurgulanır. Moleküler temellerine girilmeden kanın yapısına değinilir. Kan hücrelerinin yapısı verilmeden sadece görevleri kısaca açıklanır. Dolaşım sistemindeki yapı ve organların görevlerine ilişkin rol oynama tekniği kullanılarak öğrencilerin eğlenerek öğrenmeleri sağlanır ( E2.5 , SDB2.1 , SDB2.2 , SDB1.2 ) . Bu süreçte öğrencilerin araştırmacı ve sorgulayıcı bakış açısıyla hareket ederek görevleri anlatmaları sağlanır ( D3.3 ) . Rol oynama sürecinde beden eğitimi ve Türkçe dersleriyle ilişki kurulabilir. Değerlendirme için çalışma kâğıdı vb. kullanılabilir.",
+    "FB.7.3.2.2 Öğrencilere kan bağışıyla ilgili açık uçlu sorular yöneltilir. Kan bağışının toplumsal dayanışma açısından önemine ilişkin grup tartışması yöntemlerinde altı şapka düşünme tekniğinden faydalanılır ( SDB2.1 , SDB3.3 , D20.1 ) . Öğrencilerin bu konudaki görüşlerini mantıksal olarak ifade etmeleri istenir. Açık uçlu sorularla konu üzerine daha fazla düşünmeleri sağlanabilir. Görüşlerindeki çelişkileri fark etmeleri beklenir. Bu aşamada ortaya çıkan fikirleri eleştirel bakış açısıyla irdeleyip kendi görüşleri hakkında düşünmeleri beklenir ( KB3.3 , E3.10 , SDB1.2 ) . Kan bağışının toplumsal dayanışma açısından önemine ilişkin geçerli fikir oluşturmaları istenir ( SDB3.3 , SDB2.3 ) . Bu süreçte öğrencilerin açık fikirli davranmaları, araştırmacı ve sorgulayıcı bakış açısıyla fikirlerini savunmaları sağlanır ( E3.5 , D3.3 ) . Tartışma sırasında Türkçe dersindeki dil becerilerinden yararlanılabilir. Kan bağışı konusunda ülkemizde resmî olarak çalışan kurumlar ve bu kurumlara nasıl başvurulabileceği tanıtılır. Türk Kızılay'ın önemi vurgulanır. ( D20.1 , OB6 ) . Kan bağışından hareketle organ bağışının önemi konusu da vurgulanır ( D20.1 ) . Kan ve organ bağışlarının ihtiyacı olan insanlar için ne kadar önemli olduğu vurgulanarak bu tür gönüllü faaliyetlerin duyurulmasında ve ileride gönüllü birer bağışçı olmaları noktasında farkındalıklarının oluşturulması sağlanır ( OB6 ) . Süreç sonunda yapılması gerekenler listelenir. Süreç tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. araçlarla değerlendirilebilir. Tartışma sürecini değerlendirmede akran/grup değerlendirme formu kullanılır ( SDB2.2 ) . Bu süreçte öğrencilerin tarafsız davranmaları beklenir ( D6.2 , D1.2 ) .",
+    "FB.7.3.2.3 Öğrencilerden dolaşım sisteminin sağlığını etkileyen bir durumu örnek olay yöntemi ile tartışmaları istenir ( SDB2.1 , SDB2.2 ) . Örnek olay çerçevesinde merak duygusunu artırmak için açık uçlu sorular sorulur ( E1.1 ) . Öğrencilere dolaşım sistemi hastalıklarına girilmeden bu sistemin sağlığı konusunda bireysel ya da grup olarak poster, afiş, resim, rapor vb. performans görevleri verilir ( SDB1.2 ) . Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanılır ( OB4 , OB2 , OB1 ) . Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak güvenilir araçları belirlemeleri beklenir ( OB2 , OB1 , E3.4 , E3.8 ) . Belirledikleri aracı kullanarak bu sistemin sağlığı hakkında bilgi toplamaları istenir ( OB7 ) . Ulaştıkları bilgileri doğrulamaları beklenir. Bu noktada öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulama yapması beklenir ( OB7 , OB1 ) . Bu süreçte öğrencilerin açık fikirli davranmaları, bilimsel bakış açısıyla fikirlerini savunmaları sağlanır ( E3.5 , D3.3 ) . Video, sunu, röportaj yapma vb. sunum teknikleri de kullanılabilir ( SDB2.1 ) . Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ) . Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri dersleriyle ilişki kurulur ( OB2 ) . Süreçte öğrencilerden görev bilinciyle hareket ederek sorumlu ve planlı davranmaları beklenir ( D3.2 , E2.2 , D16.3 ) . Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca ulaştıkları bilgiler doğrultusunda uyku düzeninin, yeterli ve dengeli beslenmenin, sosyal ve sportif faaliyetler ile teknoloji bağımlılığının dolaşım sisteminin sağlığı üzerindeki etkisine değinilerek sağlıklı yaşama özen göstermeleri beklenir ( D13.3 ) . Öğrencilerin bu sistemin sağlığına yönelik günlük hayattaki yanlış uygulamalarını belirleyip doğru davranışa yönelmeleri beklenir ( KB2.15 , SDB1.2 , SDB2.2 , SDB3.3 ) . Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "FB.7.3.3.1 Öğrencilere doğru nefes alma yönteminin nasıl olduğu sorulabilir. Nefes alıp vermeleri istenerek solunum sistemi yapı ve organlarına odaklanıp vücutlarında bu yapı ve organları fark etmeleri sağlanır ( E3.2 ) . Ardından öğrencilerin bu yapı ve organlara ait nitelikleri tanımlamaları istenir. Solunum sistemini oluşturan yapı ve organları maket, model, video, animasyon vb. araçlarla incelemeleri istenir ( OB4 , OB2 , OB1 ) . Solunum sistemi ile ilgili elde ettikleri bilgileri kaydetmeleri beklenir. Akciğerlerin görevinin kandaki karbon dioksit ve oksijen değişimi olduğu vurgulanır. Doğru nefes alma tekniği açıklanır. Öğrencilerin küçük çalışma gruplarına ayrılarak kaydettikleri verileri bilimsel bakış açısıyla birleştirmeleri, ardından tüm sınıfla paylaşmaları sağlanır ( D3.3 ) . Grup paylaşımının ardından öğrencilerin yapı ve organların görevlerini açıklamaları beklenir ( SDB2.2 ) . Süreçte öğrencilerin analojiler ile eğlenerek öğrenmeleri desteklenir ( E2.5 ) . Süreci değerlendirmek için öğrencilerin solunum sistemi maketi hazırlamaları istenir ( SDB1.2 ) . Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir. Ayrıca boşluk doldurma ve eşleştirme testleri vb. de değerlendirmede kullanılabilir.",
+    "FB.7.3.3.2 Öğrencilerden solunum sisteminin sağlığını etkileyen bir durumu örnek olay yöntemi ile tartışmaları istenir. Örnek olay çerçevesinde merak duygusunu artırmak için açık uçlu sorular sorulur ( E1.1 ) . Öğrencilere solunum sistemi hastalıklarına girilmeden bu sistemin sağlığı konusunda bireysel ya da grup olarak poster, afiş, resim, rapor vb. performans görevleri verilir ( SDB1.2 ) . Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanır. Bu noktada öğrencilere rehberlik edilebilir. Bu süreçte gerçeği arama isteğiyle merak ettikleri soruları sorarak güvenilir araçları belirlemeleri beklenir ( OB2 , OB1 , E3.4 , E3.8 ) . Belirledikleri aracı kullanarak bu sistemin sağlığı hakkında bilgi toplamaları istenir ( OB7 ) . Öğrencilerin uzman veya bilimsel kaynaklardan elde ettiği bilgileri arkadaşları ile tartışarak doğrulamaları beklenir ( D3.3 , OB7 , OB1 ) . Video, sunu, röportaj yapma vb. sunum teknikleri de kullanılabilir. Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ) . Ayrıca ulaştıkları bilgiler doğrultusunda yeterli ve dengeli beslenmenin, sosyal ve sportif faaliyetlerin solunum sisteminin sağlığı üzerindeki etkisine değinilerek sağlıklı yaşama özen göstermeleri beklenir ( D13.3 ) . Öğrencilere bağımlı bireylerin yaşadıkları sorunların neler olabileceği sorularak düşünmeleri sağlanır ( KB3.3 , SDB2.3 ) . Bağımlılık kavramı ve olumsuz etkileri hakkında açıklama yapılarak bu konuda düşünerek farkındalık kazanmaları sağlanır ( OB1 ) . Yeşilay logosu ve işlevi tanıtılır ( OB4 ) . Ayrıca Sağlık Bakanlığının uygulamalarına da değinilip bu birimlerden nasıl hizmet alınacağı konusuna vurgu yapılarak günlük hayatla ilişki kurmaları sağlanır ( OB6 ) . Öğrencilerin gruplara ayrılarak solunum sisteminin sağlığı konusunda farkındalık oluşturmak için kullanacakları yöntemi belirleyip poster, broşür, konuşma metni vb. seçerek tasarlamaları sağlanır ( OB1 , SDB2.1 , SDB2.2 , SDB2.3 , D13.3 ) . Ardından okulda ya da çevrelerinde bu farkındalık çalışmasını özgüven ve sorumluluk bilinciyle yürütmelerine rehberlik edilir ( E1.5 , E2.2 , SDB2.1 , SDB2.2 , SDB2.3 ) . Öğrencilerin bu sistemin sağlığına yönelik günlük hayattaki yanlış uygulamalarını belirleyip doğru davranışa yönelmeleri beklenir ( KB2.15 , SDB1.2 , SDB2.2 , SDB3.3 , D5.1 ) . Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri dersleriyle ilişki kurulur ( OB2 ) . Süreçte görev bilinciyle hareket ederek sorumlu ve planlı davranmaları beklenir ( E2.2 , D16.3 ) . Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç, açık uçlu sorular vb. kullanılabilir.",
+    "FB.7.3.4.1 Öğrencilere boşaltım sistemini oluşturan yapı ve organlarla ilgili mevcut bilgilerini belirlemek amacıyla açık uçlu sorular yöneltilir. Ayrıca öğrencilerin süreçte odaklanmaları ve merak ettikleri soruları sormaları istenir ( E3.2 ., E3.8 ) . Ardından boşaltım sistemini oluşturan yapı ve organlar kavram haritası üzerinden tanıtılır. Öğrencilerin bu yapı ve organlara ait nitelikleri tanımlamaları sağlanır ( OB4 ) . Boşaltım sistemini oluşturan yapı ve organları poster, maket, model, video, animasyon vb. araçlarla incelemeleri sağlanır. Boşaltım sistemi ile ilgili elde ettikleri bilgileri kaydetmeleri beklenir ( OB1 ) . Boşaltım sistemini oluşturan yapı ve organlara ait elde edilen bilgileri açıklamaları beklenir. Bu süreçte öğrencilerin saygı çerçevesinde fikir üretmelerine, olumlu iletişim ve görev bilinciyle hareket etmelerine fırsat verilir ( SDB2.1 , SDB2.2 , D14.2 , D16.3 ) . Vücuttan atıkları uzaklaştıran diğer organlar olarak deri, akciğer, kalın bağırsak tanıtılır. Böbreklerin ayrıntılı yapısı (nefron, kabuk, havuzcuk, öz vb.) verilmeden boşaltım sistemindeki görev ve önemi vurgulanır. Öğrencilere sisteme ait yapı ve organlar ile görevlerini tanıtan bir poster veya model tasarlayıp sunmalarını içeren performans görevi verilir ( SDB1.2 , OB4 ) . Süreçte grup olarak çalışmaları, atık malzemeleri kullanarak yaratıcı fikirler üretmeleri sağlanır ( SDB2.1 , SDB2.2 , D17.2 , E3.3 ) . Bu performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Performans görevinin tasarlanmasında teknoloji tasarım dersiyle, görevin sunumunda ise Türkçe dersiyle ilişki kurulabilir. Biçimlendirici değerlendirmede anlam çözümleme tablosu, açık uçlu sorular vb. kullanılabilir.",
+    "FB.7.3.4.2 Öğrencilerden boşaltım sisteminin sağlığını etkileyen bir durumu örnek olay yöntemi ile tartışmaları istenebilir. Örnek olay çerçevesinde merak duygusunu artırmak için açık uçlu sorular sorulur ( E1.1 ) . Öğrencilere boşaltım sistemi hastalıklarına girilmeden bu sistemin sağlığı konusunda bireysel ya da grup olarak poster, afiş, resim, rapor vb. performans görevleri verilir ( SDB1.2 ) . Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanabilirler. Bu noktada öğrencilere rehberlik edilebilir. Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak güvenilir araçları belirlemeleri beklenir ( OB2 , OB1 , E3.4 , E3.8 ) . Belirlediği aracı kullanarak bu sistemin sağlığı hakkında bilgi toplamaları istenir ( OB7 ) . Öğrencilerin uzman veya bilimsel kaynaklardan elde ettiği bilgileri arkadaşları ile tartışarak doğrulamaları beklenir ( D3.3 , OB7 , OB1 ) . Video, sunu, röportaj yapma vb. sunum teknikleri de kullanılabilir. Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ) . Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri dersleriyle ilişki kurulur ( OB2 ) . Süreçte görev bilinciyle hareket ederek sorumlu ve planlı davranışlar sergilemeleri beklenir ( D3.2 , E2.2 , D16.3 ) . Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ulaştıkları bilgiler doğrultusunda yeterli ve dengeli beslenmenin, sosyal ve sportif faaliyetler ile teknoloji bağımlılığının boşaltım sisteminin sağlığı üzerindeki etkisine değinilerek sağlıklı yaşama özen göstermeleri beklenir ( KB2.15 , D13.4 ) . Ayrıca ulaştıkları bilgiler doğrultusunda yeterli su tüketiminin boşaltım sistemin sağlığı üzerindeki etkisine değinilir ( D17.1 ) . Öğrencilerin bu sistemin sağlığına yönelik günlük hayattaki yanlış uygulamalarını belirleyip beden sağlığını korumak için gerekli davranışlara yönelmeleri ve duyarlı olmaları beklenir ( SDB1.2 , SDB2.2 , SDB3.3 ) . Değerlendirmede tanılayıcı dallanmış ağaç, açık uçlu sorularla desteklenmiş çalışma kâğıtları vb. kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D13.3",
+      "D13.4",
+      "D14.2",
+      "D16.3",
+      "D17.1",
+      "D17.2",
+      "D20.1",
+      "D3.2",
+      "D3.3",
+      "D5.1",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.2",
+      "E2.5",
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.15",
+      "KB2.8",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB6",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/430"
+}

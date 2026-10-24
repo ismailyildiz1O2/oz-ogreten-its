@@ -1,0 +1,32 @@
+{
+  "unitId": 94032909,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "9. ÖĞRENME ALANI: UZAMSAL İLİŞKİLER",
+  "hours": "5",
+  "description": "Terimler veya kavramlar: ayna simetrisi",
+  "outcomes": [
+    {
+      "code": "M.4.2.2.1",
+      "title": "Ayna simetrisini, geometrik şekiller ve modeller üzerinde açıklayarak simetri doğrusunu çizer",
+      "processComponents": [
+        "Kelebeğin kanatları, çiçek, yaprak, kumaş, kilim desenleri, harfler vb. modeller üzerinde uygun yerlere ayna yerleştirilip eş parçalar gözlemlenerek bu nesnelerin simetrik oldukları fark ettirilir. Bu tür simetriye “ayna simetrisi” veya “aynaya göre simetri” veya “doğruya göre simetri” denildiği vurgulanır."
+      ]
+    },
+    {
+      "code": "M.4.2.2.2",
+      "title": "Verilen şeklin doğruya göre simetriğini çizer",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Geometri",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

@@ -1,0 +1,48 @@
+{
+  "unitId": 81424138,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "138. ÜNİTE: MİNYATÜR - MİNYATÜR SANATININ TARİHÇESİ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.5.1.1",
+      "title": "Bilişim araçlarını kullanarak minyatür sanatının eserlerini ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.1.2",
+      "title": "Minyatür sanatının tarihçesini açıklar",
+      "processComponents": [
+        "Uygur, Selçuklu ve Osmanlı Dönemi minyatürleri hakkında görsellerden yararlanılarak bilgi verilmelidir."
+      ]
+    },
+    {
+      "code": "GTSA.5.1.3",
+      "title": "Minyatür sanatının önemli nakkaşlarını ve eserlerini ifade eder",
+      "processComponents": [
+        "Nakkaş Nigari, Nakkaş Sinan Bey, Nakkaş Osman, Seyyid Lokman, Nakkaş Nakşi, Levni gibi sanatçıların eserlerinden örnekler gösterilir."
+      ]
+    },
+    {
+      "code": "GTSA.5.1.4",
+      "title": "Türk minyatür sanatının genel özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.1.5",
+      "title": "Minyatür sanatının çağdaş sanatlar üzerindeki etkisini değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,92 @@
+{
+  "unitId": 375,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi (Maarif Modeli)",
+  "title": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+  "hours": "17",
+  "description": "Bu öğrenme alanında öğrencilerin doğal kaynakların sınırlı olduğunu kavramaları, istek ve ihtiyaçlarını belirlerken bilinçli seçimler yapabilmeleri, istek ve ihtiyaç olarak nitelendirilebilecek ürünlerin hangi aşamalardan geçerek insanların tüketimine sunulduğu hakkında bir farkındalık geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.4.5.1",
+      "title": "Doğal kaynakların tüketimi ile ilgili grafik yorumlayabilme",
+      "processComponents": [
+        "a) Doğal kaynakların tüketimi ile ilgili verilen grafik üzerindeki simgelerin karşılık geldiği ifadeleri tanır.",
+        "b) Doğal kaynakların tüketimi ile ilgili verilen grafiği çözümler.",
+        "c) Doğal kaynakların tüketimi ile ilgili verilen grafikteki zaman içinde değişen tüketim oranlarını karşılaştırır.",
+        "ç) Doğal kaynakların tüketimi ile ilgili verilen grafikte kaynaklar ve tüketim arasındaki ilişkiye yönelik çıkarımda bulunur."
+      ]
+    },
+    {
+      "code": "SB.4.5.2",
+      "title": "İstek ve ihtiyaçları arasındaki bilinçli seçimleri hayatına yansıtabilme",
+      "processComponents": [
+        "a) İstek ve ihtiyaç kavramlarına ilişkin deneyimleri inceler.",
+        "b) İstek ve ihtiyaçları arasında bilinçli seçim yapmaya yönelik çıkarımda bulunur.",
+        "c) İstek ve ihtiyaçları arasında yaptığı seçimleri değerlendirir."
+      ]
+    },
+    {
+      "code": "SB.4.5.3",
+      "title": "Bir ürünün üretim, dağıtım ve tüketim süreçlerini çözümleyebilme",
+      "processComponents": [
+        "a) Bir ürünün geçirdiği yolculuğun süreçlerini belirler.",
+        "b) Ürünlerin üretim, dağıtım ve tüketim süreçleri arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "doğal kaynak, istek, ihtiyaç, rezerv, bilinçli tüketim, üretim-dağıtım-tüketim",
+  "support": [
+    "Doğal kaynakların kullanım düzeyi ile rezerv durumları arasındaki tutarsızlığı anlatan dijital bir içerik izletilebilir. İhtiyaçlarını resim çizerek ya da ilgili görselleri edinerek anlatmaları istenebilir. Günlük yaşantılarında aşina oldukları bir ürünün üretim, tüketim ve dağıtım süreçlerini anlatan görseller öğrencilerle paylaşılabilir veya ilgili süreçler bir animasyon aracılığıyla gösterilebilir."
+  ],
+  "enrichment": [
+    "Doğal kaynakların tüketimi konusunda seçtikleri bir doğal kaynağa ilişkin araştırma yaparak edindiği veriler ışığında bir grafik oluşturmaları ve oluşturdukları grafiği sınıfta paylaşmaları istenebilir. Çevresindeki doğal kaynaklara ilişkin bir harita hazırlamaları istenebilir. Bir ürünün üretim, dağıtım ve tüketim aşamalarını gösteren kısa bir video çekmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; performans görevi, bütüncül dereceli puanlama anahtarı, kavram haritası ve çalışma yaprağı kullanılarak değerlendirilebilir. Performans görevi: Bir ürünün yolculuğu ile ilgili araştırma yapmaya yönelik görevdir."
+  ],
+  "teachingApplications": [
+    "SB.4.5.1 Evde ve okulda kullanılan kaynakların neler olduğu hatırlatılarak doğal kaynaklara geçiş yapılır. Doğal kaynakların neler olduğuna ilişkin örnekler sunulur. Öğrencilere doğal kaynakların tüketimi ile ilgili düzeye uygun belgesel, gazete haberi gibi yazılı, görsel veya dijital kaynaklar sunulur. Öğrencilerden duygu ve düşüncelerini paylaşmaları istenir. Ülkemizin doğal yer altı ve yer üstü kaynaklarına ve bu kaynakların kullanım alanlarına kısaca değinilir. Ülkemizin doğal kaynaklarının bilinçsizce tüketiminin sonuçlarının neler olabileceği hakkında bir tartışma ortamı oluşturulur. Böylece vatanseverlik değeri kapsamında doğal kaynaklarımızın korunması gerektiği üzerinde durularak sürdürülebilirliğe ilişkin farkındalık oluşturulur ( D19.3 , OB8 ) . Doğal kaynakların kullanımı (Su, bor, mermer vb.) ve tüketimi ile ilgili grafik öğrencilerle paylaşılır. Öğrencilere grafikte hangi unsurların dikkatlerini çektiği sorulur. Grafikte yer alan simgeler tanıtılır.",
+    "Grafiğin ana düşüncesini anlayabilmeleri için soru cevap yönteminden yararlanılır. Grafiğin ana hatlarını öğrencilerin çözümlemeleri ve grafikteki tüketim oranlarını karşılaştırmaları sağlanır ( OB7 ). Grafik bağlamında öğrencilerden dünyamızdaki ve ülkemizdeki doğal kaynakların gittikçe azalmakta olduğuna yönelik çıkarım yapmaları beklenir ( E3.10 , OB8 ).",
+    "Öğrencilere diğer bir doğal kaynağın rezerv durumu ve insanların bu kaynağı tüketim oranlarını karşılaştırabilecekleri yeni bir grafik verilir ( KB2.7 ). Öğrencilerden grafik üzerindeki simgeleri kullanarak doğal kaynağa ilişkin tüketim oranlarını karşılaştırmaları ve grafiği çözümlemeleri beklenir. Öğrencilerin grafiği inceleyerek kaynağın rezervi ve tüketimi arasındaki farkı görmeleri sağlanır ( E3.4 , OB4 ).",
+    "Yukarıda incelenen kaynaklara ilişkin mevcut rezervin az, tüketim miktarının ise fazla olduğunu gösteren grafik ya da grafiklerin yer aldığı bir çalışma yaprağı öğrencilere sunulur. Öğrencilerden grafiği yorumlayarak israfa yönelik çıkarım yapmaları beklenir ( D17.2 ). Rezerv ve tüketim dengesinin sağlanması için neler yapılabileceğine ilişkin öğrenci görüşleri alınarak israfın ortadan kaldırıldığı durumda yeni grafiğin nasıl olabileceği üzerine konuşulur. Bu aşamada beyin fırtınası tekniğinden yararlanılabilir. Öğrencilerden verilen çalışma yaprağındaki grafiğin, ortaya koydukları önlemler ve tavsiyelere uyulduğu takdirde nasıl bir değişim göstereceğini düşünmeleri ve buna bağlı olarak grafiği yeniden çizmeleri istenir ( OB7 ). Grafikleri doğru şekilde kullanmaları beklenir ve çizilen grafikler bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "SB.4.5.2 Öğrencilere istek ve ihtiyaç kavramları ile ilgili görsellerle desteklenmiş deneyimlere dayalı kısa senaryolar sunulur. Senaryolar soru cevap tekniği ile incelenerek istek ve ihtiyaç kavramlarına ulaşılır ( E3.10 ).",
+    "İstek ve ihtiyaçlarımızı karşılamak için alışveriş yaptığımız vurgulanır. İstek ve ihtiyaçlarımızı karşılamak için kaynaklarımızı etkili ve verimli kullanmak amacıyla neler yapmamız gerektiği sorularak tartışma başlatılır ( OB3 ). Bu aşamada istek ve ihtiyaçlarımızın çoğunun satın alındığı ve maddi kaynakların bir sınırı olduğu konusu hatırlatılarak ihtiyaçlarımızı karşılarken bilinçli karar vermenin önemli olduğu çıkarımı yapılır ( D17.1 , OB3 ). Bilinçli tüketici kavramı üzerinde durularak öğrencilerle birlikte bilinçli tüketici davranışlarının neler olduğu belirlenir. Bu aşamada kavram karikatürleri, kavram haritaları gibi farklı kavram öğretimi tekniklerinden yararlanılabilir.",
+    "Öğrencilerin farklı ürünler içerisinden seçim yapabilecekleri ortamlar oluşturularak seçimlerini ifade etmeleri sağlanır ( KB3.1 ). Yaptıkları seçimi gerekçeleriyle açıklayarak değerlendirmeleri istenir ( SDB3.3 ). Öğrencilere örnek olayların yazılı olduğu çalışma yaprakları dağıtılır. Bu çalışma yapraklarında örnek olaylar ve her örnek olay için ürün listeleri sunulur. Öğrencilerden her örnek olay için listelerden ihtiyaç olan ürünleri belirlemeleri istenir ( D17.2 , E2.2 , SDB1.2 ). Tamamlanan çalışma yaprakları değerlendirilebilir.",
+    "SB.4.5.3 Bir ürünün tüketiciye ulaşana kadar geçtiği aşamaları anlatan görseller öğrencilerle paylaşılır ve öğrencilerden görsellerdeki süreçleri tahmin etmeleri istenir ( OB4 , E1.1 ). Büyük grup çalışması yapılarak aşamalar listelenir. \"Bu aşamalara birer isim vermek gerekirse hangi isimleri verirdiniz?\" sorusu öğrencilere yöneltilerek farklı isim önerileri alındıktan sonra \"üretim\", \"dağıtım\" ve \"tüketim\" kavramları tahtaya yazılır. Öğrencilere bir ürünün yolculuğunu anlatan kavram haritası verilerek bu süreçleri incelemeleri beklenir. Her bir alt etkinliği gruplayarak, bu etkinliklerin \"üretim\", \"dağıtım\" ve \"tüketim\" aşamalarından hangisi ile ilgili olduğunu belirlemeleri istenir.",
+    "Performans görevi olarak öğrencilerden grup çalışması yoluyla merak ettikleri ( SDB2.2 ) bir ürünün üretim, dağıtım ve tüketim yolculuğu hakkında bilgi toplamaları istenir ( OB1 ). Bilgi topladıkları ürünün üretim, dağıtım ve tüketim yolculuğuna ilişkin süreçleri belirlemeleri ve bunlar arasındaki ilişkiye yönelik çıkarım yapmaları beklenir ( KB2.10 , E3.6 ). Bu çıkarımlara dayalı olarak üzerinde çalıştıkları ürünün üretim, dağıtım, tüketim aşamalarını gösteren kendi kavram haritalarını oluşturmaları istenir. Oluşturulan kavram haritaları değerlendirme amacı ile kullanılabilir. Ürünlerin birçok aşamadan geçerek tüketiciye ulaştığı ve bu nedenle sahip olduklarının değerini bilerek tasarrufa dikkat edilmesi gerektiği vurgulanır ( D17.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D17.1",
+      "D17.2",
+      "D17.3",
+      "D19.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.10",
+      "E3.4",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.7",
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB3",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/375"
+}

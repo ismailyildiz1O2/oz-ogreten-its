@@ -1,0 +1,80 @@
+{
+  "unitId": 1444,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "8. ÜNİTE: BÜTÜNLEŞİK ÖĞRENME: STEAM",
+  "hours": "10",
+  "description": "Sekizinci ünitede üst düzey öğrenme becerilerini içerisinde barındıran bütünleşik öğrenme yaklaşımlarından STEAM (science/bilim, technology/teknoloji, engineering/mühendislik, arts/sanat, mathematics/matematik) bileşenlerine yönelik kavramların ve bu kavramlar arasındaki ilişkinin öğrenilmesi, disiplinler arası öğrenme ve proje odaklı düşünebilme kapasitesinin geliştirilebilmesi ayrıca günlük yaşamda STEAM yaklaşımına göre ortaya konulan uygulama örneği analizlerinin yapılabilmesi amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.7.8.1",
+      "title": "STEAM'i oluşturan disiplinler ile alt bileşenlerinin ne olduğunu sorgulayabilme",
+      "processComponents": [
+        "a) STEAM'i oluşturan disiplinler ile alt bileşenlerini tanımlar.",
+        "b) STEAM'i oluşturan disiplinler ile alt bileşenleri hakkında sorular sorar.",
+        "c) STEAM'i oluşturan disiplinler ile alt bileşenleri hakkında bilgi toplar.",
+        "ç) STEAM'i oluşturan disiplinler ile alt bileşenleri hakkında toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) STEAM'i oluşturan disiplinler ile alt bileşenleri hakkında toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TT.7.8.2",
+      "title": "STEAM disiplinlerinin arasındaki ilişkiyi gözlemleyebilme",
+      "processComponents": [
+        "a) STEAM disiplinlerinin arasındaki ilişkiyi gözlemleyebileceği ölçüt belirler.",
+        "b) STEAM disiplinlerinin arasındaki ilişkiye yönelik uygun veri toplama aracı ile veri toplar.",
+        "c) STEAM disiplinlerinin arasındaki ilişkiye yönelik topladığı verileri sınıflandırarak kaydeder."
+      ]
+    },
+    {
+      "code": "TT.7.8.3",
+      "title": "Proje türlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Proje türlerine ilişkin birden fazla kavram veya duruma ilişkin özellikleri belirler.",
+        "b) Proje türlerine ilişkin birden fazla kavram veya duruma ilişkin benzerlikleri listeler.",
+        "c) Proje türlerine ilişkin birden fazla kavram veya duruma ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "TT.7.8.4",
+      "title": "STEAM yaklaşımına göre problem çözebilme",
+      "processComponents": [
+        "a) STEAM yaklaşımına göre belirlediği problemi yapılandırır.",
+        "b) STEAM yaklaşımına göre belirlediği problemi özetler.",
+        "c) STEAM yaklaşımına göre belirlediği problemin çözümüne yönelik gözleme, mevcut bilgiye ve veriye dayalı tahminde bulunur.",
+        "ç) STEAM yaklaşımına göre belirlediği problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) STEAM yaklaşımına göre belirlediği problemin çözümüne ilişkin yansıtma ve değerlendirmede bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "biyomimikri, bütünleşik, eleştirel düşünme, inovasyon, odaklı düşünme, özgünlük, problem, STEAM, tasarım süreci.",
+  "support": [
+    "STEAM'in önemi ile ilgili belgesel, video vb. görsel işitsel yayınlar gösterilebilir.",
+    "Biyomimikri ve biyomorfizm ile ilgili öğretmen tarafından sunu yapılabilir veya buna dair hazırlanmış video ve animasyonlar izlettirilebilir."
+  ],
+  "enrichment": [
+    "Doğa veya canlıların renk, doku vb. özellikleri taklit edilerek hazırlanan tekstil veya seramik tabak örneklerinin biyomorfizm olduğuna ilişkin araştırma yapmaları söylenebilir.",
+    "Atık malzemeler veya ömrünü tamamlamış uçak, gemi vb. nesnelerin STEAM yaklaşımına göre yeniden hayat bulmalarına dair örnekleri incelemeleri ve sınıfta bunları sunmaları istenebilir.",
+    "Tasarım kavramı, türleri ve bu yaklaşım ile ortaya nelerin çıkarılabileceğine dair sunum yapabilmeleri için eğer imkân var ise üniversitelerden akademisyenler okula davet edilerek konferans vermeleri sağlanabilir.",
+    "Farklı disiplinlerin bir arada kullanılmasının ne kadar önemli olduğuna dair bilimsel yayınların incelenmesi sağlanabilir."
+  ],
+  "assessment": [
+    "Elde edilen verilere göre eser-ürün analizi formu, proje öneri değerlendirme formu, kavram haritası ve rubrikler, öğrenme kanıtlarının değerlendirilmesinde kullanılabilir.",
+    "Performans görevi olarak öğrencilerden çevresel sürdürülebilirlikle ilişkili seçtiği bir problemi STEAM yaklaşımına göre problem tanımı, gerekçe, hedef kitle/yarar, çözüm fikri, disiplinlerin katkı haritası (bilim-teknoloji-mühendislik-sanat-matematik) şeklinde yapılandırarak proje önerisi hazırlaması ve önerisini kanıta/veriye dayalı kısa bir değerlendirme ile sunması istenebilir.",
+    "Proje önerisi; analitik bütüncül puanlama anahtarı, akran değerlendirme formu veya performans değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TT. 7.8.1.",
+    "Sınıfa iki veya üç dakikalık tasarruf, geri dönüşüm, israf, sürdürülebilirlik vb. temalarında animasyon filmi getirilir ve izlenmesi sağlanır. İzlenen filmdeki konuların tanımlanması istenir. Daha sonra bu filmin bilim, teknoloji, mühendislik, sanat ve matematik disiplinlerinden hangisi veya hangilerinden yararlanılarak oluşturulmuş olabileceği ile ilgili öğrencilerin sorgulama yapmaları sağlanır (E1.1, E3.2, OB4). Öğrencilerden STEAM bileşenlerini oluşturan bilim, teknoloji, mühendislik, sanat ve matematik disiplinlerinin ürün geliştirme sürecinde birlikte kullanılmasının sonuçları ile ilgili bilgi toplamaları (OB1), topladıkları bilgilerin doğruluğunu değerlendirip çıkarımda bulunmaları istenir (KB2.10). Elde edilen bilgilerin toplum hizmeti ve sosyal sorumluluk çalışmalarında nasıl kullanılabileceği sorgulanarak düşüncelerini paylaşması istenir (D3.4, SDB2.1).",
+    "TT. 7.8.2.",
+    "Öğrencilerin çevresindeki kule, su şişesi, sinema filmi, otomobil gibi ürünleri STEAM'i oluşturan disiplinlerden yararlanılarak nasıl oluşturulduklarını ürün analizi yoluyla belirlemeleri sağlanır. STEAM konusunda uygun veri toplama aracı ile veri toplamaları beklenir (OB7). Toplanan verileri sınıflandırarak kaydetmeleri, başka ne gibi ürünlerin bu disiplinlerin birleşimi ile ortaya konulmuş olabileceğine dair tahminde bulunmaları istenir (E1.5). Öğrencilerin bilimsel gelişim için merak duygularını kullanmaları amacıyla STEAM disiplinlerinin günlük hayattaki etkilerini sorgulamaları teşvik edilir. Örneğin bir öğrenci akıllı telefonların hem mühendislik hem de sanatsal tasarım bileşenlerini içerdiğini fark ederken bir diğeri animasyon filmlerinin bilim, matematik ve sanatın birleşimiyle nasıl üretildiğini analiz edebilir (D3.3). STEAM'i oluşturan disiplinlerin alt bileşenlerinin neler olduğu konusunda (\"Bilimin altında var olan dallar nelerdir?\") bilgiye ulaşabilmeleri için istenilen bilgiye ulaşabilecekleri aracı belirlemeleri, bilgileri bulmaları konu hakkında ulaşılan bilgileri doğrulamaları konu hakkında ulaşılan bilgileri kaydetmeleri sağlanır (KB2.6, OB1). Öğrencilerden STEAM'i oluşturan ana ve alt bileşenler ile ilgili kavram haritası vb. planlı bir şekilde çizmeleri istenebilir (E3.3). STEAM bileşenlerini analiz eden öğrencilerin estetik unsurların bilim ve sanatla nasıl bir bütün oluşturduğunu fark etmeleri ve bir animasyonun hem görsel hem de teknik açıdan estetik olmasını değerlendirirken renk, desen, doku gibi duyusal özelliklerin estetik algı ile ilişkisini dikkate almaları sağlanabilir (D7.1). Öğrenci çizimleri ile ortaya çıkan ürün ya da sonuç, dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Öğrencilerin STEAM bileşenini oluşturan bilim, teknoloji, mühendislik, sanat ve matematik disiplinlerinin bir arada kullanılmasının günümüzde ne kadar önemli olduğunu sorgulamaları sağlanır (E1.1, E3.2). Bu konuya ilişkin akranlarıyla birlikte çevresinde var olan gözleme-araştırmaya dayalı ürün, hizmet vb. unsurları dikkate alarak tartışmaları ve tahminde bulunmaları istenir (KB2.11, SDB2.1). Bu süreçte öğrencilerin başkalarının görüşlerine saygı göstererek farklı bakış açılarını dinlemesi ve dikkate alması sağlanır (SDB2.3). Örneğin arkadaşlarının önerdiği bir projeye itiraz etmeden önce onun neden bu projeyi seçtiğini anlamaya çalışır (D4.4). Bu konuda gerçek yaşamdan örnekler vermeleri istenir. Sinema, endüstriyel ürün, mimari vb. farklı sektörlerdeki örneklerden birini beyin fırtınası yöntemiyle ele alarak hangi boyutlarıyla STEAM yaklaşımının dikkate alınmasının gerekli olduğunun fark edilmesi sağlanır. Bu sayede farklı sektörler için STEAM yaklaşımının önemli bir öğrenme yaklaşımı olduğuna ilişkin özellikleri (parçaları) belirlemeleri istenir (KB2.16). Bu süreçte bireysel ve grup sorumluluklarını yerine getirirken başkalarının fikirlerine saygı duymaları beklenir (D4.4). Sonra özellikler arasındaki ilişkilerin birbirleri için ne kadar gerekli olduğunu belirlemeleri beklenir (KB2.4). Belirledikleri bu ilişkileri bir örnek ürün üzerinden yazılı bir metin ile ifade etmeleri sağlanır (E3.6). Öğrencilerden gözleme dayalı olarak STEAM yaklaşımına göre ortaya konulan ürün veya uygulamalara örnekler vermeleri istenir. Öğrencilerin verdikleri örneklerden birini seçmeleri sağlanır. Seçim yaparken topluma katkı sağlayacak bir ürünü önceliklendirmeleri istenir. Örneğin çevre dostu bir otomobil tasarımını ele alarak bu tasarımın çevresel etkilerini değerlendirir ve bu bilgiyi grup çalışmasında sorumluluk bilinciyle paylaşırlar (D16.3). Seçilen uygulama örneklerinden birinin STEAM yaklaşımına göre analiz edilmesi istenir (Analiz yöntemi, ürünün fikir aşamasından tasarımına, malzeme seçiminden üretim sürecine ve üretiminden pazarlanmasına kadar geçen sürecin irdelenmesidir.) (E3.6., E3.7.). Bununla birlikte STEAM bileşenini oluşturan disiplinlerin örneğin bir çizgi film animasyon filmi analiz edilmişse bilimden, teknolojiden, mühendislikten, sanattan ve matematikten film üretimi sürecinin hangi safhasında ve boyutunda yararlanıldığı üzerinde durulması ve bunların bir tablo hâline getirilmesi sağlanabilir (E2.2). Görev paylaşımı yapılırken kişilerin yetkinliklerinin dikkate alınması gerektiği belirtilir. Örneğin matematik konusunda daha güçlü olan bir öğrenci tabloya sayısal verileri eklerken sanatla ilgilenen bir öğrenci animasyonun estetik yönlerini araştırır (D1.4). Bu tabloda oluşturulan bilgilerle öğrencilerin özgün sunu hazırlamaları istenir. Hazırlanan bu sunumlar dereceli puanlama anahtarı ile değerlendirilebilir. Sunu sırasında her öğrenci kendi sorumluluk alanıyla ilgili katkıda bulunarak takım çalışmasını destekler ve birbirlerini motive ederler (D3.1, SDB2.1).",
+    "TT.7.8.3.",
+    "Öğrencilerin proje belirlemede problem, proje kavramı ve proje türleri ile ilgili araştırma yapmaları sağlanır. Elde edilen verilerin kaydedilmesi istenir (KB2.6, OB1). Öğretmen açık veya kapalı uçlu sorularla öğrencilerin elde ettikleri bu bilgilerin ne düzeyde olduğunu değerlendirebilir. STEAM yaklaşımının proje tabanlı bir öğrenme modeli olduğunun belirlenebilmesi için STEAM'in öngördüğü proje tabanlı öğrenme dışında ortaya konulan diğer proje türleri ile karşılaştırılması sağlanır. Birden fazla proje türüne ilişkin özelliklerin ortak yönlerini analiz ederek belirler. Öğrencilerin edindikleri bilgileri eleştirel bakış açısıyla değerlendirmeleri için inceledikleri proje türlerini yalnızca avantajlarıyla değil sınırlılıklarıyla da ele almaları ifade edilir. Örneğin STEAM projelerinin yaratıcılığı desteklediğini ancak uygulama sürecinin zaman alıcı olabileceğini fark edebilir, buna karşılık geleneksel projelerin daha yapılandırılmış olduğunu ancak öğrencilere daha az özgünlük sunduğunu tartışabilirler (D3.3). STEAM'e uygun daha önce hazırlanmış proje örneklerinin araştırılması istenir. Bu anlamda biyomimikri ve biyomorfizm yaklaşımı ile ortaya konulmuş örneklerin incelenmesi sağlanabilir. Belirlenen özelliklere ilişkin benzerliklerin listelenmesi istenir. Ayrıca belirlenen özelliklere ilişkin farklılıkların listelenmesi gerektiği söylenir (OB7).",
+    "TT.7.8.4.",
+    "Öğrencilerden çevresel sürdürülebilirliği dikkate alarak kendisi, ailesi, toplumu, ülkesi ve tüm insanlar ile diğer canlıları ilgilendiren bir problemi yapılandırmaları (belirlemeleri), problemi özetlemeleri, problemin çözümüne yönelik gözleme dayalı veya mevcut bilgi ile veriye dayalı tahmin etmeleri istenir (D19.4). Öğrencilerin üzerine düşen görevleri kuralına uygun olarak yerine getirmeleri için belirledikleri çevresel sorunların çözümüne yönelik sorumluluk almaları ve çözüm önerilerini somutlaştırmaları istenir. Örneğin plastik atıkların çevreye verdiği zararı azaltmak için geri dönüşüm sistemleri geliştirme fikri üzerinde çalışabilirler (D6.1). Performans görevi olarak problemin çözümüne yönelik önermeler üzerinden akıl yürütmeleri, bu problemin çözümüne yönelik STEAM yaklaşımına göre bir proje önerisi sunmaları ve değerlendirmede bulunmaları istenir (E3.3, E1.4, SDB3.2). Öğrencilerin sahip oldukları bilgi ve deneyimleri başkalarıyla paylaşmaları için proje sürecin de araştırmalarını ve çözüm önerilerini grup içinde sunarak fikir alışverişinde bulunmaları sağlanır. Örneğin su tasarrufu sağlamak için akıllı sulama sistemleri geliştirmeyi düşünen bir öğrenci bu fikrini arkadaşlarına açıklayarak öneriler alabilir (D20.1, SDB2.3). Öğrencilerin bedensel, ruhsal ve sosyal iyi oluşları için proje sürecinde iş birliği yapmaları, yaratıcı düşüncelerini özgürce ifade etmeleri ve çözümlerini toplumun yararına olacak şekilde geliştirmeleri teşvik edilir. Örneğin şehir içi ulaşımda bisiklet kullanımını artırmaya yönelik bir proje geliştirerek hem çevresel sürdürülebilirliğe hem de sağlıklı yaşama katkı sağlamayı amaçlayabilirler (D16.1). Bu proje önerisi performans görevi bütüncül analitik puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1444"
+}

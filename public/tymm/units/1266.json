@@ -1,0 +1,57 @@
+{
+  "unitId": 1266,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "3. TEMA: KANUN ÇALGIMI TANIYORUM",
+  "hours": "13",
+  "description": "Temada kanun sazının tanınması ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.1.3.1",
+      "title": "Kanun hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Kanun hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak kanun hakkında bilgileri bulur.",
+        "c) Kanunla ilgili ulaştığı bilgileri doğrular.",
+        "ç) Kanun ile ilgili ulaşılan bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, müzik, ses",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu artırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazır bulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak kanun hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Etkinlikler yapılırken öğrencilere ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik ve materyal hazırlanabilir. Kanun sesi kullanarak grup oyunları düzenlenebilir. Örnek olarak kanun sesini dinleyip tanıma yarışmaları yapılabilir. Kanunun tarihini ve kültürel bağlamını anlatan hikâyeler anlatılarak öğrencilerin bağ kurması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden kanun, yüzük ve mızrapları ile akort anahtarının hangi malzemelerden yapıldığını, bunların ölçülerinin nasıl ayarlandığını araştırmaları performans görevi istenebilir. Performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.1.1.3",
+    "Kanunla ilgili belirlenen video, sunu gibi materyal veya etkinliklerle çalgının merak edilmesi sağlanır ( E1.1 ). Öğrencilerin dinleme / izleme etkinliklerinin ardından kanun ile ilgili bilgilerinin veya anılarının olup olmadığı sorulur. Öğrenciler bu bilgi ve anıları, yeni öğreneceği bilgilerle ilişkilendirir ( SDB1.1 ). Alınan cevaplar öğretmen tarafından yorumlanır. Daha sonra öğrencilerle bu çalgı ile ilgili bilgi toplayacağı güvenirliği kanıtlanmış dijital ve basılı kaynaklar belirlenir ( OB1 ). Belirledikleri bu araçlardan kanun çalgısının görsellerini bulmaları istenebilir ( OB4 ). Eriştikleri bu görseller ile öğrencilerin sınıfta seviyelerine uygun olarak bir sunum yapmaları ve bu bilgileri doğrulamaları sağlanır ( KB2.8 , OB1 ). Kanun çalgısının geliştirilme süreci hakkında bilgi verilir ( D15.2 , D19.2 ). Ardından öğretmen kanun çalgısını gösterir. Öğrencilere bu çalgının yamuk şeklinde olduğuyla ilgili bilgi verdikten sonra beyin fırtınası tekniği kullanılarak \"Kanun çalgısı kare olsaydı ne olurdu?\" sorusunu yöneltir. Bu süreçte öğrencilerin kanun çalgısının şekli ile ilgili değerlendirme yapmaları ve alternatif düşünceler ortaya koymaları beklenir ( SDB2.2 , KB2.10 ). Öğrencilerden aldığı cevaplardan sonra öğretmen kanunun yamuk şeklinin sese olan etkisini uygulamalı olarak gösterir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D15.2",
+      "D19.2"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1266"
+}

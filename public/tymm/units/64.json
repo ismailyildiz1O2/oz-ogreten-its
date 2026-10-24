@@ -1,0 +1,83 @@
+{
+  "unitId": 64,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "3. ÜNİTE: KUR’AN-I KERİM",
+  "hours": "14",
+  "description": "Ünitenin teması din ve hayattır. Bu ünitede Kur’an-ı Kerim’in tanımı, iç düzeni, temel özellikleri ve ana konuları ele alınmaktadır. Öğrencilerin Kur’an-ı Kerim’in iç düzenini çözümlemeleri, temel konuları hakkında bilgi toplamaları, ana konularını sınıflandırılmaları amaçlanmaktadır. Kevser suresini ve bu surenin anlamını okuyarak yorumlamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "DKAB.5.3.1",
+      "title": "Kur'an-ı Kerim'in iç düzenini çözümleyebilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'in iç düzenini inceler.",
+        "b) Ayet, sure ve cüz arasındaki ilişkileri inceler."
+      ]
+    },
+    {
+      "code": "DKAB.5.3.2",
+      "title": "Kur'an-ı Kerim'in temel özellikleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'in temel özellikleri konusunu araştırır.",
+        "b) Kur'an-ı Kerim'in temel özellikleri hakkında bilgi toplar.",
+        "c) Kur'an-ı Kerim'in temel özellikleri hakkında ulaştığı bilgileri öğretmen rehberliğinde doğrular.",
+        "ç) Kur'an-ı Kerim'in temel özellikleri hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "DKAB.5.3.3",
+      "title": "Kuran-ı Kerim'in ana konularını sınıflandırabilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'i, hayatı tüm yönleriyle ele alan bir ölçüt olarak kabul eder.",
+        "b) Kur'an-ı Kerim'in ana konularını bölümlere ayırır.",
+        "c) Kur'an-ı Kerim'in ana konularını tasnif eder.",
+        "ç) Kur'an-ı Kerim'in ana konularını listeler."
+      ]
+    },
+    {
+      "code": "DKAB.5.3.4",
+      "title": "Kevser suresini ve bu surenin anlamını okuyarak yorumlayabilme",
+      "processComponents": [
+        "a) Kevser suresini ve bu surenin anlamını okur.",
+        "b) Kevser suresinin anlamını kendi hayatı için anlamlı bir hâle getirir.",
+        "c) Kevser suresinin anlamını değiştirmeyecek şekilde özetler."
+      ]
+    }
+  ],
+  "keyConcepts": "ayet, cüz, kıssa, sure",
+  "support": [
+    "Öğrencilerin ilgisini çekecek ve konuyu anlamalarını kolaylaştıracak hikâyeler, görsel materyaller ve etkileşimli dijital uygulamalar kullanılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, Kur'an-ı Kerim'in temel özellikleri ve ana konuları hakkında infografik (bilgi grafiği) hazırlayabilir. Ünitede öğrenilen konular bağlamında Kur'an-ı Kerim bülteni veya panosu hazırlayabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin ölçme değerlendirme sürecinde açık uçlu soru, kısa cevaplı soru, çalışma yaprağı, kavram haritaları, bulmacalar (anagram, çengel, sözcük avı vb.) ve öz değerlendirme formu kullanılabilir.",
+    "Performans Görevi: Kur'an-ı Kerim'in iç düzeniyle ilgili poster hazırlanabilir. Kur'an-ı Kerim'in temel özellikleri hakkında çalışma yaprağı hazırlanabilir. Kur'an-ı Kerim'in ana konuları hakkında çalışma yaprağı hazırlanabilir. Kevser suresi ve bu surenin anlamıyla ilgili eşleştirme etkinliği hazırlanabilir. Performans görevleri, ölçütlere göre oluşturulan puanlama anahtarıyla değerlendirilir. Öğrencinin ünite süresince yaptığı ürün çıktıları bir araya getirilerek öğrenci ürün dosyası oluşturulur.",
+    "Sonuç değerlendirmede performans görevlerine yer verilebileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.5.3.1 Öğrencilerin Kur'an-ı Kerim'in iç düzenini merak ederek ( E1.1 ) çözümlemeleri için Kur'an-ı Kerim görseli verilir ve bu görseli tanımaları sağlanır ( OB4 ) . Kur'an-ı Kerim'in iç düzeniyle ilgili ayet, sure ve cüz kavramları belirlenir. Kur'an-ı Kerim'in iç sayfalarından görseller verilerek ayet, sure ve cüz kavramları hakkında bilgi verilir. Öğrencilerin ayet, sure ve cüz kavramları arasındaki parça-bütün ilişkisini belirlemeleri istenir.",
+    "DKAB.5.3.2 Öğrencilerin Kur'an-ı Kerim'in temel özellikleri hakkında sistematik olarak ( E3.7 ) bilgi toplamaları için onlara \"Kur'an-ı Kerim hakkında neler biliyorsunuz?\" sorusu yöneltilir. Kur'an-ı Kerim'in temel özellikleri hakkında ayet ve hadisler belirlenir. Öğrencilerin belirlenen ayet ve hadislerden yararlanarak Kur'an-ı Kerim'in temel özellikleri hakkında bilgi toplaması sağlanır. \"Kur'an-ı Kerim'in temel özellikleri çözümlenir ve bu özellikler; iyiye, doğruya ve güzele yönlendirmesi, kötülüklerden sakındırması, yol göstermesi, açıklayıcı olması, insanları düşünmeye ve aklını kullanmaya yöneltmesi şeklinde listelenir ( OB1 ) . Öğrencilere vicdanlı ( D9.1 ) , doğru ve güvenilir ( D6.2 ) olmak hakkında bilinç kazandırılır. Dürüstlük ve merhametle ilişkili ayet örnekleri verilir. Bu ayetlerden hareketle örnek olaylar verilerek öğrencilerin sınıfta fikir paylaşımında bulunmaları sağlanır. Öğrenciler, Kur'an-ı Kerim'in temel özellikleriyle ilgili elde ettikleri bilgileri öğretmenleriyle birlikte değerlendirerek doğrular ve afiş, broşür, pano, duvar gazetesi gibi yollarla kaydeder.",
+    "DKAB.5.3.3 Öğrencilerin Kur'an-ı Kerim'in ana konularını sınıflandırmaları için onlara \"Kur'an-ı Kerim'in ana konuları hakkında neler biliyorsunuz?\" sorusu yöneltilir ve öğrencilerden Kur'an-ı Kerim'in ana konularını yorumlamaları istenir ( OB1 ) . Kur'an-ı Kerim'i bireysel ve toplumsal hayatı tüm yönleriyle ele alan ilahi bir kitap olarak açıklaması sağlanır. Kur'an-ı Kerim'in ana konuları bölümlere ayrılarak tasnif edilir. İnanç, ibadet, ahlak, sosyal hayat ve kıssalar olarak listelenir. İnanç, ibadet, ahlak, sosyal hayat ve kıssalar Kur'an'ın ana konuları olarak ayrıntıya girilmeksizin açıklanır.",
+    "DKAB.5.3.4 Öğrencilere \"Kevser suresi hakkında neler biliyorsunuz?\" sorusu yöneltilir. Kevser suresinin içerdiği mesajlar ve nerelerde okunduğu hakkında bilgi verilir. Kevser kelimesinin bolluk, bereket ve neslin çoğalması anlamlarına geldiğinden bahsedilir. Allah'ın (cc) Hz. Peygamber'e pek çok nimet verdiğine, bu nimetlerden birinin de Hz. Peygamber'in neslini devam ettiren Hz. Fatıma (ra) olduğuna değinilir. Kevser suresi hakkında bilgi verilirken surenin Mekki-Medeni ayrımı, ayet sayısı ve Kur'an-ı Kerim'deki sıralaması gibi konulara değinilmez. Kevser suresinin doğru telaffuzunu öğretmek için öğrencilerin genel ağ araçlarını tanımaları ve kullanmaları sağlanır. Kevser suresini dinlemek üzere Diyanet İşleri Başkanlığına bağlı genel ağ adresleri belirlenir. Öğrencilerin bu adresleri kullanmaları sağlanarak ( OB2 ) surenin doğru telaffuzunu öğrenmeleri için dinleme etkinliği yapılır. Öğrencilerin bu sureyi kendine güvenerek ( E1.5 ) okuması için sesli okuma etkinliği yapılabilir. Surenin anlamı incelenir. Surenin anlamından çıkarılacak mesajlarla ilgili etkinlikler yapılarak sure değerlendirilebilir. Öğrencilerin surenin anlamını kendi hayatı için anlamlı hâle getirmesi sağlanır. Öğrencilerin Kevser suresinin anlamını değiştirmeyecek şekilde kendi cümleleriyle yeniden ifade etmeleri için yazma etkinliği yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D6.2",
+      "D9.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/64"
+}

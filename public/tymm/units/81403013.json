@@ -1,0 +1,51 @@
+{
+  "unitId": 81403013,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Matematik Uygulamaları Dersi (Lise)",
+  "title": "13. ÜNİTE: MATEMATİK VE İŞ HAYATI",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTU.2.6.1",
+      "title": "Belirlediği bir iş alanı için gereken harcamaların araştırmasını yapar",
+      "processComponents": [
+        "İşçilik giderleri, vergi ödemeleri, finansal kredilerin faizleri, faturalar (iletişim, ısınma, elektrik, su vb.) ve diğer giderler ile ilgili araştırma çalışmalarına yer verilir.",
+        "Bir mekânın dekore edilmesi, bir nesnenin onarılması, bir eşyanın üretilmesi veya bir hizmetin sunulması gibi örneklerden yararlanılır."
+      ]
+    },
+    {
+      "code": "MTU.2.6.2",
+      "title": "Belirlediği bir iş alanı için gelir ve gidere ilişkin verileri tablo veya grafik kullanarak karşılaştırır",
+      "processComponents": [
+        "Çizgi grafiği, sütun grafiği, daire grafiği ve histograma yer verilir.",
+        "Serpme ve kutu grafiklerine yer verilmez."
+      ]
+    },
+    {
+      "code": "MTU.2.6.3",
+      "title": "İş bütçesi örneği hazırlar",
+      "processComponents": [
+        "İş bütçesi örneği hazırlanırken gelir ve gider dengesi göz önünde bulundurulur.",
+        "Örnek iş bütçelerinden yararlanılır."
+      ]
+    },
+    {
+      "code": "MTU.2.6.4",
+      "title": "Hazırladığı iş bütçesi örneğini yazılı/sözlü şekilde sunar",
+      "processComponents": [
+        "Sunumda gelir ve gider dağılımlarının yüzdelerine yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121111235666-MATEMAT%C4%B0K%20UYGULAMALARI%20DERS%C4%B0%20%28I-II%29%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI--21.11.2023.pdf"
+}

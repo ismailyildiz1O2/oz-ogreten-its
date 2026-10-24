@@ -1,0 +1,34 @@
+{
+  "unitId": 98035702,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. ÖĞRENME ALANI: MÜZİKSEL ALGI VE BİLGİLENME",
+  "hours": "5",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.8.B.1",
+      "title": "Temel müzik yazı ve ögelerini kullanır",
+      "processComponents": [
+        "Senkop, 9/8’lik aksak ölçüler/usuller verilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.8.B.2",
+      "title": "Müzikte dizileri tanır",
+      "processComponents": [
+        "Tonal dizilerden tek diyezli ve tek bemollü diziler, makamsal dizilerden de kürdi, acemkürdi ve muhayyerkürdi makam dizileri verilmelidir. Söz konusu diziler kuramsal boyutta tonalitenin, seyir özellikleri bakımından makamın ayrıntılarına girilmeden sadece dizi olarak ve hissetmeye yönelik verilmelidir. İlgili diziler belirtilen tonal ve makamsal dizilerle sınırlandırılarak, öğrenci ses sınırlarına ve düzeylerine uygun hem şarkı hem de türkülerin dinletilmesi ve seslendirilmesi ile verilmelidir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Müziksel Algı ve Bilgilenme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

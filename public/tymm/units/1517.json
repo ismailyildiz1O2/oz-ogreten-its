@@ -1,0 +1,61 @@
+{
+  "unitId": 1517,
+  "grade": 0,
+  "gradeName": "1. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY I · 1.Tema: Geometrik-Mekanik Oyunlar",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.1.1.1",
+      "title": "Geometrik-mekanik oyunların temel kurallarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.1.2",
+      "title": "Geometrik şekilleri tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.1.3",
+      "title": "Başlangıç ve orta seviye geometrik-mekanik oyunlar oynayabilme ",
+      "processComponents": [
+        "a) Geometrik-mekanik oyunlarını inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) Geometrik-mekanik oyunlarda tespit ettiği ilişkilerle ilgili ön bilgilerini kullanarak uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "OOEZO.1.1.4",
+      "title": "Üç boyutlu cisimler arasında hareket, ilişki ve örüntüyü açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.1.5",
+      "title": "Geometrik-mekanik oyunlarda duruma ilişkin tümevarımsal akıl yürütebilme ",
+      "processComponents": [
+        "a) Geometrik-mekanik oyunlarda duruma ilişkin gözlem yapar.",
+        "b) Geometrik-mekanik oyunlarda duruma ilişkin örüntüyü bulur.",
+        "c) Geometrik-mekanik oyunlarda duruma ilişkin genelleme yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "geometrik şekil, mekanik oyun, üç boyut, örüntü",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [
+    "OOEZO.1.1.1",
+    "Labirentler Düğüm Oyunları Mikado Küp Sayma Oyunları Yapbozlar Öğrencilere geometrik-mekanik oyunların temel kuralları video veya slayt ile açıklanır. Ayrıca öğrencilerin bu bilgileri kaydetmeleri istenir (OB1) . Öğrencilere izletilen video veya slaytla onlarda geometrik-mekanik oyunlara yönelik merak duygusu uyandırılır. Süreçte soru-cevap tekniği kullanılır. Öğrencilerden araştırmak istedikleri bilgiye ulaşma yollarını belirlemeleri ve edindikleri bilgileri eleştirel bakış açısıyla değerlendirmeleri istenir ( D3.3). Öğrencilerin geometrik-mekanik oyunlarda öğrendiği bilgileri ailesiyle paylaşmaya istekli olmaları beklenir ( D2.2 ).",
+    "OOEZO.1.1.2",
+    "Öğrencilerin verilen geometrik parçaları dikkatli biçimde incelemeleri sağlanır. Ayrıca şekilleri tanıyıp sınıflandırarak ulaştıkları bilgileri kaydetmeleri istenir (OB1). Öğrencilerin inceledikleri oyunlardan elde ettikleri bilgileri tartışma yöntemiyle değerlendirip yorumlamaları sağlanır ( D3.3) . Öğrencilerin oyunlardan edindikleri bilgileri tartışırken birbirlerinin duygu ve düşüncelerini anlamak için dikkatle dinlemeleri gerektiği vurgulanır (D15.1 ).",
+    "OOEZO.1.1.3",
+    "Öğrencilerin geometrik-mekanik oyunların parçaları arasındaki ilişkileri incelemeleri ve çözüm yollarını deneyerek uygun sonuca ulaşmaları istenir ( SDB3.2) . Öğrencilerin geometrik-mekanik oyunlarda başlangıç ve orta seviye oyun oynarken yaratıcılığını geliştirecek faaliyetlere katılmaları sağlanır ( D3.3) . Öğrencilerin geometrik-mekanik oyunlar oynarken mekânın temizliğine özen göstermeleri gerektiği vurgulanır (D18.2).",
+    "OOEZO.1.1.4",
+    "Öğrencilerin geometrik-mekanik oyunlarda örüntü kavramını fark etmeleri sağlanır. Öğrenciler, bu kavramla ilgili daha önce edindikleri bilgileri gözden geçirir. Öğrenme sürecinde öğrenciler geometrik-mekanik oyunlarındaki üç boyutlu cisimlerin hareketi ile örüntü arasında ilişki kurar. Sürecin sonunda öğrencilerin geometrik-mekanik oyunlara ait üç boyutlu cisimlerin hareketini ve örüntüyü doğru ve anlamlı biçimde açıklamaları, öğrenme sürecinde kendi potansiyellerine güven duymaları beklenir ( SDB1.1 , D14.2 ). Öğrencilerin etkinliklerde arkadaşlarına karşı sabırlı olmaları, nazik davranmaları ve onların düşüncelerine anlayış göstermeleri beklenir ( D10.3 ).",
+    "OOEZO.1.1.5",
+    "Öğrencilerin geometrik-mekanik oyun etkinliklerindeki görselleri anlamını bozmadan kendi cümleleriyle yeniden ifade etmeleri istenir ( OB4 ). Öğrencilerin geometrik-mekanik oyunlara yönelik örüntü bulma çalışmalarını kararlılıkla tamamlamaları beklenir (D12.3)."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1517"
+}

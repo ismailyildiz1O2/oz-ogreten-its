@@ -1,0 +1,92 @@
+{
+  "unitId": 950,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları - Beden Eğitimi, Oyun ve Müzik Dersi",
+  "title": "2. TEMA: RİTİMLE HAREKET EDİYORUM",
+  "hours": "56",
+  "description": "Temada öğrencilerin tekerleme ve sayışmacaların ritmine uygun hareket edebilmeleri, vücudunu ritim çalgısı gibi kullanarak müziklere uygun hareketler sergileyebilmeleri, dinlediği müziklerin ritmine uygun hareketler sergileyebilmeleri, tekerleme ve sayışmacalara ritim çalgıları ile eşlik edebilmeleri ve dinlediği öyküdeki varlıkların seslerini farklı ses kaynakları kullanarak taklit edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BOM.1.2.1",
+      "title": "Tekerleme ve sayışmacaların ritmine uygun hareket edebilme",
+      "processComponents": [
+        "a) Tekerleme ve sayışmacaların ritmini algılar.",
+        "b) Tekerleme ve sayışmacaların ritmine uygun hareket eder.",
+        "c) Tekerleme ve sayışmacalar yoluyla ritmik hareket becerilerini sergiler."
+      ]
+    },
+    {
+      "code": "BOM.1.2.2",
+      "title": "Vücudunu ritim çalgısı gibi kullanarak müziklere uygun hareketler sergileyebilme",
+      "processComponents": [
+        "a) Vücudunu ritim çalgısı gibi kullanarak müziklere uygun hareket belirler.",
+        "b) Vücudunu ritim çalgısı gibi kullanarak belirlediği hareketleri sergiler."
+      ]
+    },
+    {
+      "code": "BOM.1.2.3",
+      "title": "Dinlediği müziklerin ritmine uygun hareketler sergileyebilme",
+      "processComponents": [
+        "a) Dinlediği müziklerin ritmik yapısına uygun hareketler belirler.",
+        "b) Dinlediği müziklerin ritmik yapısına uygun hareketler sergiler."
+      ]
+    },
+    {
+      "code": "BOM.1.2.4",
+      "title": "Tekerleme ve sayışmacalara ritim çalgıları ile eşlik edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "BOM.1.2.5",
+      "title": "Dinlediği öyküdeki varlıkların seslerini farklı ses kaynakları kullanarak taklit edebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "alkış, bedensel hareketler, ritim çalgısı, ritim kalıbı, sayışmaca, tekerleme, yürüme",
+  "support": [
+    "Öğrencilere kolay tekerlemeler ve sayışmacalar verilerek süreç desteklenebilir. İçerik, küçük parçalara bölünerek ve öğrencilerin kendi hızlarında ilerlemelerine olanak sağlayacak şekilde verilebilir. Basit ve yavaş hızlarda ritimler verilerek öğrencilerden bunlara eşlik etmesi istenebilir. Etkinlikler, oyunlaştırılarak ve öğrencilerin kendi seçtikleri ritim aletleriyle eşlik etmeleri sağlanarak yaptırılabilir. Örneğin ritim aleti çalarken şarkıya uygun hareket edip şarkı durduğunda heykel olunabilir.Öğrencilerin kendi seçtikleri müziklere uygun hareket etmesi sağlanarak süreç desteklenebilir. Doğada duyduğu sesleri ve hayvan seslerini taklit etmesi istenebilir. Süreç küçük parçalara bölünerek (önce sadece kalın ses, sonra ince ses gibi) öğrencilerin kendi hızlarında ilerlemeleri sağlanabilir. Öğrencilere ipuçları verilerek desteksağlanabilir. Öğrencilere akran geri bildirimi ve iş birlikli öğrenme fırsatları sunularak öğrencilerin birbirlerinden öğrenmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere farklı tekerleme ve sayışmacalar gösterilerek metinlerdeki hangi kelimelerin hangi seslerle tekrarlandığı, hangi seslerin daha kuvvetli söylendiği, metinlerdeki bazı kelimelerin anlamı gibi derinlemesine analiz yaptırılabilir. Tekerlemeler ve sayışmacalar farklı hızlarda ve tonlarda söyletilerek ritmik yapı pekiştirilebilir. Öğrencilerden vücutlarını ritim çalgısı gibi kullanırken tempo artırılarak müziklere uygun hareketler sergilemeleri istenebilir. Grup çalışmasında hareketleri eşlemeye dikkat ederek uygulamaları istenebilir. Farklı beden hareketleri bulmaları istenebilir. Öğrencilere farklı ritim aletleri gösterilerek karmaşık ritimlerle müziklere eşlik edilmesi istenebilir. Grup çalışması yaptırılarak öğrencilerden eş zamanlı çalmaları istenebilir. Öğrencilere hızlı ve yavaş tempolar arasında geçiş yaptırılarak öğrencilerin ritme uygun farklı kas gruplarını çalıştıracak hareketler geliştirmeleri sağlanabilir. Grup çalışması yaptırılarak öğrencilerden eş zamanlı hareketler yapmaları istenebilir. Öğrencilerden dijital kaynakları kullanarak farklı ses kaynaklarını araştırmaları ve araştırma sonuçlarını sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, öz değerlendirme formu, akran değerlendirme formu ve grup değerlendirme formu kullanılarak ölçülebilir. Öğrencilere vücudunu ritim çalgısı gibi kullanarak müziklere eşlik edebileceği ve ritim çalışmaları yapabileceği bir performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, öğrencilerin birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BOM.1.2.1 Tekerleme ve sayışmacalar dinletilerek ve söylenerek derse başlanır. Tekerleme ve sayışmacalara her heceye bir alkış gelecek şekilde ritim tutulur. Öğrencilerin dinlediğitekerleme ve sayışmacaların ritmine odaklanarak gözlemlemesi ve ritmi fark etmesibeklenir ( E3.2 ). Öğrencilerin dinlediği tekerleme ve sayışmacalara her heceye bir alkışgelecek şekilde eşlik etmesi sağlanır. Öğrencilere farklı tekerleme ve sayışmacalarla çalışmalar yaptırılarak öğrencilerin ritme eşlik etmesi sağlanır ( E3.1 ). Öğrencilerden kendi seçtikleri tekerlemelere ve sayışmacalara eşlik etmeleri ve çalışmalarını sergilemeleri istenir. Bu çalışmalar grup çalışmaları şeklinde iş birlikli olarak yaptırılır, öğrencilerin iletişim becerilerinin gelişmesi sağlanır ( D3.4 ). Öğrencilere grup çalışmalarında arkadaşlarıyla etkili iletişim ve duygudaşlık kurması, ahlaka uygun, adaletli ve yapıcı davranışlarda bulunması gerektiği vurgulanır ( SDB2.1 , E2.1 , D1.2 , D10.3 , E2.4 ). Yapılan çalışmalar gözlem formu kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme, bulundukları grubu değerlendirmeleri için grup değerlendirme formu kullanılabilir. BOM.1.2.2 Öğrencilere vücudunu kullanarak nasıl ses çıkarabileceği sorulur. Parmak şıklatma, alkış, dizlere vurma, ayakları yere vurma gibi hareketler örneklenerek öğrencilerin çıkarılan sesleri merakla incelemesi beklenir ( E1.1 ). Öğrencilere yeni hareketler bulabilmelerine için beyin fırtınası yaptırılır ( E3.6 ). Bu sayede öğrencilerin vücutlarını ritim çalgısı gibi kullanabileceklerini fark etmeleri sağlanır. Öğrencilere bir müzik dinletilir. Öğrencilerden dinledikleri müziğin ritmine uygun vücut hareketleri seçmesi istenir. Öğrencilerin belirlediği hareketlerle vücudunu ritim çalgısı gibi kullanarak dinlenen müziğe eşlik etmeleri ve çalışmalarını sergilemeleri sağlanır ( OB9 ). Çalışmalar değerlendirilirken öğrencilerin çalışmalarını sergileme konusundaki gayreti ve bu yöndeki kararlarını uygulama çabası göz önünde bulundurulur ( E1.3 , SDB1.2 ). Öğrenciler çalışmalarını sergilemeleri için cesaretlendirilir ( E2.3 , D11.1 ). Öğrencilere vücudunu ritim çalgısı gibi kullanarak müziklere eşlik edebileceği ve ritim çalışmaları yapabileceği bir performans görevi verilebilir. BOM.1.2.3 Öğrencilere 2/4 ve 4/4'lük ritmik yapıdaki şarkılar dinletilerek öğrencilerin dinlediği şarkıların ritmik yapısını algılamaları beklenir. Öğrencilerden dinledikleri şarkının ritmine uygun alkış yaparak şarkıya eşlik etmeleri istenir. Şarkıların ritmik yapıları algılandıktan sonra öğrencilerden bu şarkıların ritmine uygun hareketler belirlemeleri istenir. Öğrencilere 2/4 ve 4/4'lük ritmik yapıda farklı şarkılar dinletilir. Öğrencilerden dinletilen şarkılardan birini seçmesi ve bu şarkıya uygun hareketler oluşturması istenir. Öğrencilere seçtiği şarkıların ritmik yapısına uygun hareketler sergileyebileceği ortamlar oluşturulur( OB9 ). Öğrencilere çalışmalarını sergilerken kendine inanması ve güvenmesini sağlayacak dönütler verilir. ( E1.4 , E1.5 ). Beceri oyunlaştırılarak da verilebilir ( E2.5 ). Öğrencilere çalışmalar yapılırken ortak kullanım alanlarında kişisel eşyalarını ve ders materyallerini korumaları ve özenli kullanmaları, bedensel ve mekânsal mahremiyetlerine dikkat etmeleri ve başkalarını rahatsız edecek davranışlarda bulunmamaları gerektiği hatırlatılır( D17.3 , D8.4 ). Öğrencilere müziklere ritmine uygun hareketlerle eşlik edebileceği performans görevi verilebilir.",
+    "BOM.1.2.4 Orff çalgıları kullanılarak derse başlanır. Bir tekerleme veya sayışmaca söylenerek tekerleme veya sayışmacaya orff çalgılarıyla eşlik edilir. Öğrencilerin odaklanarak merak içinde gözlemlemesi beklenir ( E3.2 , E1.1 ). Öğrencilerin seslendirilen tekerleme veya sayışmacanın ritmini fark etmesi sağlanır. Öğrencilerden birer Orff çalgısı seçmesi ve tekerleme veya sayışmacaya çalgıyla eşlik etmesi istenir. Yansılama yoluyla farklı tekerleme ve sayışmacalar öğretilerek çalışmalar sürdürülür. Yapılan çalışmalar gözlem formu kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir. BOM.1.2.5 Bir öykü veya masal ile derse başlanır. Öğrencilerden dinlediği öykü veya masaldaki varlıkların seslerini yaşantılarından yola çıkarak gözden geçirmesi beklenir. Öykü veya masaldaki varlıkların sesleri taklit edilirken varlıkların seslerinin incelik-kalınlık ve gürlük özelliklerine dikkat edilmesi sağlanır. Öğrencilerden gruplara ayrılarak kendi öykülerini oluşturmaları istenir ( SDB2.1 , D3.4 , E3.3 ). Diğer gruplardan öyküde geçen varlıkların seslerini ritim çalgıları, beden perküsyonu gibi farklı ses kaynakları kullanarak uygulamaları beklenir ( OB9 ). Yapılan çalışmalar gözlem formu kullanılarak değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme, arkadaşlarını değerlendirmeleri için akran değerlendirme, bulundukları grupları değerlendirmeleri için grup değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D10.3",
+      "D11.1",
+      "D17.3",
+      "D3.4",
+      "D8.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E1.4",
+      "E1.5",
+      "E2.1",
+      "E2.3",
+      "E2.4",
+      "E2.5",
+      "E3.1",
+      "E3.2",
+      "E3.3",
+      "E3.6"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/950"
+}

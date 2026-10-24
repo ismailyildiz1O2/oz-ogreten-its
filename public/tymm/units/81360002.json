@@ -1,0 +1,45 @@
+{
+  "unitId": 81360002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Tıp Bilimine Giriş Dersi",
+  "title": "2. ÜNİTE: İNSAN FİZYOLOJİSİNİN TEMEL KAVRAMLARI",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TBG.2.1",
+      "title": "Canlı kavramını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TBG.2.2",
+      "title": "Canlıyı oluşturan temel bileşenleri açıklar",
+      "processComponents": [
+        "Canlıların temel bileşenleri ve vücut yapısındaki önemleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.2.3",
+      "title": "İnsan vücudunu oluşturan sistemleri ifade eder",
+      "processComponents": [
+        "İnsan vücudundaki sistemlerin dolaşım sistemi, solunum sistemi, üriner sistem, hematolojik sistem, immünolojik sistem, gastrointestinal sistem, sinir sistemi, kas sistemi, iskelet sistemi, endokrin sistem, integumenter sistem, lenfatik sistem ve üreme sistemi olduğu belirtilir."
+      ]
+    },
+    {
+      "code": "TBG.2.4",
+      "title": "İnsan vücudunu oluşturan sistemlerin birbiriyle ilişkisini inceler",
+      "processComponents": [
+        "Organizmayı oluşturan bir sistemde işleyiş esnasında meydana gelen değişikliklerin diğer sistemler üzerindeki etkileri mekanizma örnekleriyle açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112410022320-t%C4%B1pbilimi.pdf"
+}

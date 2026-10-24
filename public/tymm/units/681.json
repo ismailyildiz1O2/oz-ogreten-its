@@ -1,0 +1,86 @@
+{
+  "unitId": 681,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+  "hours": "4",
+  "description": "\"Bilişim Teknolojilerinin Hayatımızdaki Yeri” teması kapsamında öğrencilerin yenilikçi bilişim teknolojilerini sınıflandırabilmeleri ve bilişim teknolojilerinin gelecekteki durumuna yönelik çıkarım yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.6.1.1",
+      "title": "Yenilikçi bilişim teknolojilerini sınıflandırabilme",
+      "processComponents": [
+        "a) Yenilikçi bilişim teknolojilerine ilişkin kavramları belirler.",
+        "b) Yenilikçi teknolojileri, bilişim teknolojilerinin günlük hayatı kolaylaştırmadaki rolüyle ilişkilendirir.",
+        "c) Yenilikçi bilişim teknolojilerini kullanım alanlarına göre gruplandırır."
+      ]
+    },
+    {
+      "code": "BTY.6.1.2",
+      "title": "Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme",
+      "processComponents": [
+        "a) Bilişim teknolojilerinin günümüze kadar olan gelişiminden yola çıkarak varsayımlarda bulunur.",
+        "b) Bilişim teknolojilerinin gelecekteki olası durumlarına yönelik örüntüleri listeler.",
+        "c) Bilişim teknolojilerinin gelecekteki olası durumlarına yönelik karşılaştırmalar yapar.",
+        "ç) Bilişim teknolojilerinin olası gelişimlerinin toplum üzerindeki etkilerine ilişkin önermeler sunar. d). Bilişim teknolojilerinin olası gelişimlerinin toplum üzerindeki etkilerini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "artırılmış gerçeklik, bilişim teknolojileri, gelecek teknolojileri, giyilebilir teknolojiler, yapay zekâ, yenilikçi bilişim teknolojileri",
+  "support": [
+    "Öğrencilerin bilişim teknolojileri tarihsel gelişimini görselleştirebilmeleri için zaman çizelgesi görselleri kullanılabilir.",
+    "Sanal teknoloji müzesi gezisi yaptırılabilir.",
+    "Bilişim teknolojileri kavramlarını içeren kartlar hazırlanabilir. Öğrencilerin bu kartları kullanarak eşleştirme oyunları oynamaları veya basit bilgi yarışmaları düzenlemeleri sağlanabilir.",
+    "Bir teknoloji cihazının geçmişten günümüze gelişimini ve bu gelişimin insanların yaşamına olan etkisini anlatan bir hikâye yazmaları ya da resim çizmeleri istenebilir.",
+    "Öğrencilere gerçek hayattan senaryolar (Çevrim içi alışveriş ve mahremiyet vb.) sunarak öğrencilerin teknolojinin toplum üzerindeki etkilerini eleştirel bir bakış açısıyla tartışmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, farklı teknolojilerin kullanım alanlarını içeren bir sunum yapabilir ya da sınıfta bir \"teknoloji fuarı\" düzenleyerek farklı kategorilerdeki yenilikçi teknolojileri tanıtabilirler.",
+    "Öğrenciler sınıf içinde artırılmış gerçeklik uygulamalarını kullanarak bitki ve hayvanların özelliklerinin keşfedildiği bir doğa keşif etkinliği düzenleyebilirler.",
+    "Öğrenciler ilk kadın programcının hayatını araştırabilirler. Onun programlama ile ilgili düşüncelerini ve bilgisayarların geleceğine dair vizyonunu keşfederek onun programlamadaki öncülüğünü tartışabilirler.",
+    "Öğrencilerin dünyaca ünlü bir teknoloji liderinin hayatını araştırarak yenilikçi teknolojilerin gelişimine katkıda bulunan önemli figürleri tanımaları sağlanabilir. Öğrenciler, araştırılan kişinin teknolojiye getirdiği yenilikleri ve tasarım felsefesini keşfederek onun etkisiyle teknoloji dünyasının nasıl değiştiği üzerine tartışma yapabilirler.",
+    "Öğrencilerden yapay zekâ ve diğer yenilikçi teknolojilerin gelecekte toplumda ne gibi değişiklikler yaratacağına dair bir kısa film veya skeç yazmaları ve yazdıkları senaryoları sınıfta canlandırmaları istenebilir. Ayrıca okul web sitesinde veya sosyal medya hesaplarında bu ürünler paylaşılabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; Frayer modeli, performans görevi, web 2.0 araçları/e-içerikler, etkileşimli eşleştirme soruları ve dereceli puanlama anahtarı gibi araçlar kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak Frayer modeli ile öğrenilen yeni bir kavram ile ilişkili olan ve olmayan özelliklerin listelenmesi, örneklendirilmesi, kavramlar arasındaki ilişkilerin belirlenmesi, kavramların öğrencilerin kendi cümleleriyle yeniden tanımlanarak cümle içinde kullanılması istenebilir.",
+    "Ayrıca öğrencilerden yenilikçi bilişim teknolojilerinin günlük yaşamdaki avantaj ve dezavantajlarını araştırarak bir sunum hazırlamaları veya bilişim teknolojilerinin tarihsel gelişimi ve gelecekteki yönelimleri konusunda bir proje hazırlamaları istenebilir.",
+    "Performans görevi; bilgi toplama, bilgileri düzenleme, sunum becerisi ve yaratıcı düşünme ölçütlerine göre dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BTY.6.1.1.",
+    "Öğretmen, artırılmış gerçeklik uygulamasıyla zenginleştirilmiş boyama sayfalarını öğrencilere basılı olarak dağıtır ve belirli yönergeler doğrultusunda diledikleri gibi renklendirmelerini ister. Artırılmış gerçeklik uygulaması aracılığıyla öğrencilerin dikkati çekilir ( E1.1 , E3.3 ). Öğretmen bu etkinlikte kullanılan uygulamanın hangi yenilikçi bilişim teknolojisi olduğunu öğrencilerin belirlemelerini ister. Artırılmış gerçeklik ve sanal gerçeklik arasındaki farkları belirlemeleri amacıyla öğrencilere sorular yöneltilir. Öğretmen, yenilikçi bilişim teknolojileri (yapay zekâ, giyilebilir teknolojiler, bulut depolama vb.) hakkında kısa bir sunum yapar. Öğrenciler rastgele gruplara ayrılarak belirledikleri bir teknolojiyi araştırabilir, sunum yapabilir ve yenilikçi teknolojilerin günlük yaşamdaki avantaj ve dezavantajlarını tartışabilir ( OB2 , E3.3 , SDB1.2 , SDB2.2 ). Örneğin teknolojilerin potansiyelini yeni fikirlerle yorumlayarak özgün çözümler üretebilmeyi ve yaratıcılığını geliştirecek faaliyetlere katılması gerektiğini öğrenir ( D3.3 ). Değerlendirme sürecinde öğretmen; öğrencilerin sunum içerikleri, araştırma becerileri ve eleştirel düşünme düzeylerini dereceli puanlama anahtarı ile değerlendirebilir ya da öğrencilerin yenilikçi bilişim teknolojilerini tanıyıp tanımadığını değerlendirmek için kısa cevaplı sorular içeren bir kontrol listesi kullanabilir.",
+    "\"Akıllı telefonlar hayatımızda nasıl bir rol oynuyor?\" ya da \"Akıllı telefonların kullanım alanları nelerdir?\" gibi sorular sorularak öğrenciler bu konuda düşünmeye teşvik edilir ( SDB1.1 ). Öğrencilerden akıllı telefonların hangi alanlarda nasıl kullanıldığını tartışmaları istenir ( SDB2.1 ). Öğrenciler, grup üyelerini kendileri belirleyerek oluşturdukları münazara gruplarında yenilikçi bilişim teknolojilerini günlük yaşamı kolaylaştıran örneklerle ilişkilendirir. Bu süreçte iletişim, eğitim, sağlık ve sosyal yaşam gibi alanlarda teknoloji kullanımının nasıl değiştiği ele alınır. İletişimde anlık mesajlaşma uygulamalarının hızla yayılarak yüz yüze iletişimi nasıl etkilediği, eğitimde uzaktan öğrenme imkânlarının öğrencilerin erişimini nasıl artırdığı veya sağlık alanında giyilebilir teknolojilerin bireylerin sağlık durumunu nasıl takip ettiği tartışılabilir ( KB2.18 ). Tartışmanın sonunda her grup, kendi görüşlerini özetleyerek teknolojinin günlük yaşama etkilerine dair eleştirel düşüncelerini paylaşır ( SDB3.3 ). Frayer modeli ile öğrencilerin yenilikçi bilişim teknolojileri hakkındaki kavramları öğrenme düzeyleri gözden geçirilebilir. Öğrencilerin hazırladığı Frayer modelleri nitelik, uygunluk ve kapsam kriterlerine göre incelenerek geri bildirim verilebilir. Web 2.0 araçları/e-içerikler kullanılarak değerlendirme süreci etkileşimli hâle getirilebilir.",
+    "Öğrenciler, yenilikçi bilişim teknolojilerinin farklı kullanım alanlarını sınıflandırma etkinliğiyle keşfederken bu teknolojilerin kendi yaşam ve çevrelerine etkileri üzerine özgürce sorgulamalar yapar ( E3.8 ). Öğretmen sağlık, eğitim, sanayi, eğlence ve iletişim gibi çeşitli alanlarda kullanılan teknolojiler hakkında örnekler verir. Öğrencilere heterojen gruplar hâlinde her bir alan için belirli teknolojileri araştırma görevi verilir ( SDB2.2 ). Bu etkinlikte öğrenciler teknolojileri ele alırken toplumsal fayda sağlama odaklı düşünmeyi deneyimler ve yenilikçi bilişim teknolojilerini kullanım alanlarına göre gruplandırır. Her grup, kendi alanında kullanılan teknolojilerin özellik ve işlevlerini belirler ( SDB2.1 ). Belirlenen alanlardaki teknolojilerin özelliklerini ve işlevlerini açıklayan bir poster veya dijital sunum hazırlar. Sunum sırasında teknolojilerin toplumsal fayda sağlama açısından değerlendirilmesi istenir. Öğretmen; öğrencilerin araştırmalarını, sınıflandırma doğruluğunu ve toplumsal sorumluluk farkındalıklarını ölçmek için gözlem formu ve dereceli puanlama anahtarı kullanır. Ayrıca öğrencilere açık uçlu sorular içeren bir değerlendirme formu verilir. Bu formda öğrencilere \"Seçtiğiniz teknolojinin toplum üzerindeki en büyük etkisi nedir?\" gibi sorular yöneltilerek eleştirel düşünme becerileri de değerlendirilir.",
+    "BTY.6.1.2.",
+    "Öğretmen, öğrencilerin bilişim teknolojilerinin günümüze kadarki gelişimini değerlendirmeleri için sınıfa eski bir bilgisayar veya cep telefonu getirir. Bu cihazı göstererek öğrencilerin dikkatini çeker ve bu cihazın icadıyla ilgili kısa bir bilgi paylaşır ( E1.1 ). İlk bilgisayarların boyut ve işlevleri hakkında bilgi vererek günümüzdeki cihazlarla karşılaştırmalar yapılır. Ayrıca Alan Turing gibi bilinen bir bilim insanının bu teknolojilerin gelişimine katkılarını öğrenmelerine yardımcı olacak şekilde tartışma ortamı oluşturabilir ( E3.8 , SDB2.1 ). Bu süreçte öğrenciler bilim insanlarının teknolojiye yaptığı katkıları fark ederek bilim, sanayi ve teknoloji alanındaki güncel gelişmeleri takip etmenin önemini kavrarlar ( D3.3 ). Öğrenciler Turing'in hayatı ve çalışmalarıyla bilgisayar teknolojisinin ilerleyişini öğrenerek bilim insanlarının yenilikçi teknolojilere katkısının önemini açıklar. Ayrıca öğretmen, sınıfa bir zaman çizelgesi sunarak bilgisayar, internet ve mobil teknolojilerin tarihsel evrimini gösterir. Öğrenciler rastgele gruplara ayrılarak belirli bilişim teknolojilerinin geçmiş ve günümüzdeki durumlarını araştırır, gelecekteki gelişmeleri geçmişle karşılaştırarak bilişim teknolojilerinin toplumsal, kültürel ve ekonomik açıdan nasıl evrileceği konusunda varsayımlarda bulunur. Gruplar, bilişim teknolojilerinin gelecekteki olası durumlarına yönelik çıkardıkları örüntüleri listeler. Birbirlerinin listeledikleri öngörüler üzerinden karşılaştırmalar yapar. Her grup, bulgularını sunarken bu teknolojilerin günlük hayattaki değişimlerini tartışır ( SDB2.2 , E3.8 ). Öğretmen, öğrencilerin değerlendirme becerilerini ölçmek için gözlem formu ve dereceli puanlama anahtarı kullanabilir ya da gruplar, birbirlerinin sunumlarını akran değerlendirme formuna göre değerlendirerek sunumun içeriği, bilgilerin doğruluğu ve iletişim becerileri açısından geri bildirim verebilir. Öğretmen, öğrencilere bilişim teknolojilerinin gelecekteki olası gelişimlerinin toplum üzerindeki etkilerini tartışmaları için çeşitli örnekler sunar. Öğrenciler yapay zekâ ile çalışan robotların ev işlerine nasıl yardımcı olabileceğini veya sanal gerçeklik gözlükleri ile eğitimlerin nasıl daha eğlenceli hâle geleceğini tartışır ( E3.3 ). Heterojen gruplara ayrılan öğrenciler bilişim teknolojilerinin eğitim, iş ve sosyal yaşam üzerindeki etkilerini araştırarak bu alanlardaki dönüşümleri inceler ( SDB2.2 ). Elde ettikleri bilgiler doğrultusunda, gelecekteki olası teknolojik gelişmelerin toplumsal etkilerine dair önermelerde bulunur. Gruplar hayal ettikleri teknolojik araçları görsel olarak sunarak tanıtır ( E3.3 , SDB3.3 ). Bu etkinlik sırasında öğrencilerin toplum yararına olabilecek teknoloji fikirlerini geliştirmeye zaman ayırmaları teşvik edilir ( D20.2 ). Örneğin her grubun çevreyi koruyacak veya yaşlı bireylerin hayatını kolaylaştıracak teknolojik araç fikirleri üzerinde düşünmeleri sağlanarak insanların hayatına katkı yapacak projeler geliştirmeleri desteklenir. Bilişim teknolojilerindeki olası gelişmelerin toplum üzerindeki etkilerini tartışmak amacıyla öğrencilere çeşitli senaryolar sunularak beyin fırtınası yapılır ( E1.1 ). Örneğin okulda derslerin daha eğlenceli ve öğretici hâle gelmesi için sanal gerçeklik teknolojisi kullanılmaya başlanabilir. Bu bağlamda öğrenciler matematik dersinde sanal ortamda problemleri çözebilir ve fen bilimleri dersinde uzayda gezegenleri keşfedebilir ancak bazı öğrenciler, bu teknolojinin derslere olan ilgilerini azaltabileceğinden endişe edebilir. Bu senaryo ile öğrenciler, sanal gerçekliğin eğitimdeki olumlu ve olumsuz etkilerini tartışırken yapay zekâ ve otomasyonun iş gücünde yarattığı değişiklikler, uzaktan eğitimin eğitim sistemine etkileri ve sosyal medyanın insan ilişkileri üzerindeki rolü gibi konular da ele alınabilir ( SDB3.1 ). Her grup, bilişim teknolojilerinin olası gelişimlerinin toplum üzerindeki etkilerini değerlendirir ( SDB2.1 ). Bu etkinlik sürecinde öğrencilerin bilimsel bilgiyi toplumun yararına nasıl kullanabilecekleri üzerinde düşünmeleri desteklenir ( D20.3 ). Öğrencilerden, 'bilişim teknolojilerinin tarihsel gelişimi', 'günümüzdeki durumu' veya 'gelecekteki potansiyel yönleri' konularından birini seçerek grup hâlinde araştırma yapmaları ve elde ettikleri bilgileri bir sunum, afiş ya da dijital ürünle ifade etmeleri beklenir. Süreç sonunda ortaya koydukları bu ürün, bir performans görevi olarak değerlendirilir ( SDB1.2 , SDB2.1 , SDB2.2 ). Araştırma bulgularını görsel materyal ya da posterler gibi sunum araçlarıyla sergileyebilirler. Dereceli puanlama anahtarlarıyla (yaratıcı düşünme, bilgiyi toplama, özetleme, sunum becerisi vb.) her gruba detaylı geri bildirim verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D20.2",
+      "D20.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.3",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/681"
+}

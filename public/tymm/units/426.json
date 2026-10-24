@@ -1,0 +1,111 @@
+{
+  "unitId": 426,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+  "hours": "22",
+  "description": "Bu öğrenme alanında öğrencilerin Türkiye Cumhuriyeti’nin temel niteliklerini özetleyebilmeleri, Türkiye Cumhuriyeti Devleti’nin yönetim yapısını çözümleyebilmeleri, ülkemizde demokrasinin geçmişten günümüze gelişimini demokrasinin temel ilkeleri açısından yorumlayabilmeleri, demokrasinin uygulama sürecinde karşılaşılan sorunları özetleyebilmelerine yönelik bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.7.4.1",
+      "title": "Türkiye Cumhuriyeti'nin temel niteliklerini özetleyebilme",
+      "processComponents": [
+        "a) Türkiye Cumhuriyeti'nin temel niteliklerini çözümler.",
+        "b) Türkiye Cumhuriyeti'nin temel niteliklerini sınıflandırır.",
+        "c) Türkiye Cumhuriyeti'nin temel niteliklerini yorumlar."
+      ]
+    },
+    {
+      "code": "SB.7.4.2",
+      "title": "Türkiye Cumhuriyeti Devleti'nin yönetim yapısını çözümleyebilme",
+      "processComponents": [
+        "a) Türkiye Cumhuriyeti Devleti'nin yönetim yapısını belirler.",
+        "b) Türkiye Cumhuriyeti Devleti'nin yönetim yapısını oluşturan unsurlar arası ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "SB.7.4.3",
+      "title": "Ülkemizdeki demokrasinin gelişimini, demokrasinin temel ilkeleri açısından yorumlayabilme",
+      "processComponents": [
+        "a) Demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiyi görsel/işitsel/dijital tarihî kaynaklardan inceler.",
+        "b) Demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiyi kendi ifadeleriyle anlamı değiştirmeyecek şekilde görsel/işitsel/dijital yollarla ifade eder."
+      ]
+    },
+    {
+      "code": "SB.7.4.4",
+      "title": "Demokrasinin uygulama sürecinde karşılaşılan sorunları özetleyebilme",
+      "processComponents": [
+        "a) Demokrasinin uygulama sürecinde karşılaşılabilecek sorunları çözümler.",
+        "b) Demokrasinin uygulama sürecinde karşılaşılabilecek sorunları sınıflandırır.",
+        "c) Demokrasinin uygulama sürecinde karşılaşılabilecek sorunları yorumlar."
+      ]
+    }
+  ],
+  "keyConcepts": "demokratik devlet, genel oy ilkesi, hukuk devleti, kuvvetler ayrılığı, kuvvetler birliği, laik devlet, siyasi parti, sosyal devlet, yargı, yasama, yürütme.",
+  "support": [
+    "Cumhuriyetin temel niteliklerine ilişkin bilgi/görsel eşleştirme kartları hazırlanıp oynanabilir.",
+    "Kuvvetler ayrılığını gösteren akış şemaları öğretmen ya da akran desteği ile hazırlanabilir.",
+    "Okulda karşılaşılabilecek demokratik olmayan davranışları önlemeye yönelik resim veya afişler hazırlanabilir, sergi yapılabilir.",
+    "Demokratik davranışların toplum huzuru için önemine yönelik drama etkinlikleri yapılabilir.",
+    "Anayasa'nın 10. maddesi incelenerek dezavantajlı gruplar için gerçekleştirilecek demokratik uygulamalara örnekler verilebilir.",
+    "Demokrasi tarihinin önemli noktalarını gösteren görsel tarih şeridi oluşturulabilir."
+  ],
+  "enrichment": [
+    "Yasama, yürütme ve yargı organlarının işleyişine yönelik dijital pano hazırlayabilir.",
+    "Meclisin yaptığı çalışmalara yönelik güncel haberler incelenebilir.",
+    "Öğrencilerden https://www.kulturportali.gov.tr/medya/video sayfasından Gazi Mustafa Kemal Atatürk'ün TBMM açılış konuşmalarını içeren videoları izlemeleri önerilebilir veya ilgili belgesel ve videolar sınıfta izlenebilir.",
+    "Ankara-Kurtuluş Savaşı Müzesi (I. TBMM Binası) ve Ankara- Cumhuriyet Müzesi (II. TBMM Binası) https://sanalmuze.gov.tr/ adresinden sanal olarak gezilebilir. Adalet sarayına, muhtarlığa veya belediye meclislerine imkânlar dâhilinde gezi düzenlenebilir. Okulun bulunduğu yerde varsa Cumhuriyet Müzesi, Atatürk Evi gibi tarihî mekânlar ziyaret edilebilir.",
+    "Öğrenciler tarafından demokrasi tarihi ile ilgili canlı zaman şeridi oluşturulabilir. Zaman şeritleri dijital olarak da yapılabilir.",
+    "\"Tarihte bugün ne olmuş?\" adlı bir televizyon programı hazırlanabilir. Öğrencilere demokrasi tarihinin önemli olayları paylaştırılarak program sunucusu gibi tarihî olaylarla ilgili yaptıkları araştırmaları sunmaları istenebilir.",
+    "Demokrasinin uygulama sürecinde karşılaşılabilecek sorunlar öğrenciler tarafından yazılan şiirle ifade edilir.",
+    "Demokratik olan ve olmayan tutuma sahip aile konusuna dair öğrenciler tarafından hikaye yazılabilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; kavram haritası, kontrol listesi, gözlem formu, anekdot kaydı, bütüncül dereceli puanlama anahtarı, öz ve akran değerlendirme formu ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi: Ülkemizin demokrasi tarihindeki önemli olaylarına ilişkin tarih şeridi oluşturma görevidir.",
+    "Performans görevi: Demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiyi yazılı, sözlü ya da görsel olarak ifade etmeye yönelik resim çizme, afiş, poster tasarlama ya da bir sunum oluşturma görevidir."
+  ],
+  "teachingApplications": [
+    "SB.7.4.1 T.C. Anayasa'nın II. maddesi incelenerek öğrencilerden Türkiye Cumhuriyeti'nin temel niteliklerini belirlemeleri ve bir liste oluşturmaları istenir ( OB1 , OB6 ). Bireysel olarak oluşturulan listeler diğer öğrencilerle kartopu tekniği kullanılarak paylaşılır ( SDB2.2 ) . Verilen yazılı ve görsel kaynaklardan temel nitelikler ve uygulama örneklerini incelemeleri ( OB1 , OB4 ) , bu niteliklerin günlük yaşama yansımalarına ilişkin çözümlemeler yaparak örnekler vermeleri istenir.",
+    "Cumhuriyetin nitelikleri ve ilişkili ifadeler öğrencilerle belirlenerek anlam çözümleme tablosu oluşturulur. Bu süreçte öğrencilerin cumhuriyetin temel niteliklerini \"demokratik devlet, laik devlet, sosyal devlet, hukuk devleti\" olarak sınıflandırmaları sağlanır ( OB6 ).",
+    "Sınıf dört gruba ayrılır ve her bir gruba \"Katıldığınız bir toplantıda ülkenizin demokratik bir devlet olduğuna yönelik kanıtlar sunmanız bekleniyor. Kanıtlarınız neler olur?\" sorusu yöneltilerek öğrencilerden kendi ifadeleri ile ( E3.3 ) Türkiye Cumhuriyeti'nin temel niteliklerini Atatürk milliyetçiliğine bağlı, demokratik, laik, sosyal, hukuk devleti kavramları ile açıklamaları istenir ( SDB3.3 ). Ayrıca öğrencilere adalet değeri bağlamında hak ve özgürlüklerini bilmeleri ve korumalarına yönelik açıklamalar yapıldıktan sonra öğrencilerden bu nitelikler çerçevesinde toplumsal hayatı cumhuriyetin ilanından önce ve cumhuriyetin ilanından sonra şeklinde karşılaştırarak cumhuriyetin temel niteliklerinin insan hak ve özgürlükleri açısından önemini yorumlamaları istenir ( D1.1 ). Cumhuriyetin temel niteliklerini yorumlamaya dönük metin yazma etkinliği yapılır ( E3.11 , OB6 ). Öğrenci ürünleri kontrol listesi, gözlem formu ve anekdot kaydı gibi tekniklerle değerlendirilebilir.",
+    "SB.7.4.2 Öğrencilerin verilen yazılı ve görsel kaynaklar üzerinde kuvvetler ayrılığı ve kuvvetler birliğini yasama, yürütme ve yargı organları ve işlevlerini inceleyerek ( OB1 , OB4 ) Türkiye Cumhuriyeti Devleti'nin yönetim yapısını belirlemeleri sağlanır. Bu aşamada dijital kaynaklardan da konuya ilişkin bilgiler incelenebilir ( OB2 , OB6 , E3.2 ).",
+    "Cumhuriyet'in ilk yıllarında, yasama ve yürütme yetkilerinin mecliste toplanmasının nedenlerine yönelik görüşler sunmaları istenir ( E3.10 ). Günümüzde yürütme yetkisinin kullanımına ilişkin yazılı ve görsel kaynakları inceleyerek ( OB1 , OB4 ) cumhurbaşkanlığı hükûmet sisteminin özelliklerini ifade etmeleri istenir, teknolojik imkânlar dâhilinde dijital kaynaklara da başvurulabilir ( OB2 ). Kuvvetler ayrılığı ve kuvvetler birliği uygulamalarını karşılaştırarak avantaj ve dezavantajlarını ifade etmeleri sağlanır ( E3.10 ). Grup çalışması yoluyla Anayasa'nın yasama, yürütme ve yargı ile ilgili bölümleri incelenerek yasama, yürütme ve yargı arasındaki ilişkiyi belirlemeleri istenir ( OB1 , OB6 , SDB2.2 ). Ayrıca adalet değeri kapsamında öğrencilerin kendi hak ve özgürlüklerini yasama, yürütme ve yargı organları açısından nasıl kullanacağına ilişkin açıklamalar yapılır ( D1.1 ). Yasama, yürütme ve yargı yetkisi ile organlarına ilişkin \"Ben kimim?\" ve \"Nesi var?\" gibi eğitsel oyunlar oynanır ( E2.5 ). Etkinlik öz ve akran değerlendirme formları ile değerlendirilebilir.",
+    "SB.7.4.3 Öğrencilerden demokrasinin temel niteliklerinden insan haklarına saygı, özgürlük, eşitlik, seçme ve seçilme hakkı, millî egemenlik, çoğulculuk, katılımcılık ve hukukun üstünlüğü kavramlarının verilen yazılı ve görsel kaynaklar üzerinden incelemeleri istenir ( OB1 , OB4 ).",
+    "Ülkemizde demokrasinin gelişimine ilişkin TBMM'nin açılması, Cumhuriyet'in ilanı, 1924 Anayasası, çok partili hayata geçiş denemeleri, kadınlara seçme ve seçilme hakkının verilmesi, 1946 seçimleri ile ilgili yazılı ve görsel kaynaklar incelenir ( OB1 , OB4 ). Öğrenciler ülkesinin tarihini araştırıp öğrenmeye teşvik edilerek öğrencilerde vatanseverlik değerinin geliştirilmesine çalışılır ( D19.2 ).",
+    "Öğrenciler, demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiye dair görüşlerini, konuşma halkası tekniği ile ifade eder ( SDB2.1 ) Verilen kaynaklardan elde edilen bilgiler doğrultusunda öğrencilerden ülkemizin demokrasi tarihindeki önemli olaylara ilişkin tarih şeridi oluşturmaları ve bu olayların demokrasinin hangi temel ilkeleri ile ilişkili olduğunu tarih şeridinde göstermeleri istenir ( OB1 , OB4 ) . Öğrencilerden demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiyi yazılı, sözlü ya da görsel olarak ifade etmeleri istenir. Öğrenciler tarafından bu amaçla performans görevi kapsamında resim çizme, afiş, poster tasarlama ya da bir sunum oluşturma etkinliklerinden en az biri yapılmalıdır. Öğrenci ürünlerinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "SB.7.4.4 Öğrencilerden ailede, okulda, yakın çevrede gözlemledikleri demokratik olan ve olmayan davranışlar ile ilgili örnekler vermeleri istenir ( E1.2 ). Aile içi sevgi/saygıya dayalı iletişimin sağlayacağı yararlar, aileyi ilgilendiren kararlarda tüm aile fertlerine söz hakkı verilmesinin demokrasi açısından önemi açıklanarak aile bütünlüğü değeri vurgulanır ( D2.3 ). Verilen yazılı ve görsel kaynaklardan demokrasinin uygulama sürecinde karşılaşılabilecek sorunları ve nedenlerini çözümlemeleri sağlanır ( OB1 , OB4 ). Bu aşamada dijital kaynaklarda yer alan örnekler de incelenebilir ( OB2 ). Toplumsal sorunlar incelenirken duyarlılık değeri üzerinde durulur ( D5.1 ). Bu süreçte 27 Mayıs 1960 ve 12 Eylül 1980 Darbeleri örnek olarak verilir.",
+    "Dünyanın farklı bölgelerinde yaşanan antidemokratik uygulamalara örnekler verilerek öğrenciler tarafından incelenmesi sağlanır. Bu süreçte adalet değeri ( D1.1 ) üzerinde durularak her insanın temel hak ve özgürlüklere sahip olduğu, ayrımcılık yapılmaması gerektiği, hak ve özgürlüklerinden yararlanırken diğer insanların haklarının da savunulması gerektiği açıklanır. Demokrasi tarihinde geçmişten günümüze dünyanın farklı bölgelerinde yaşanan antidemokratik uygulamaları darbeler, ırkçılık, ayrımcılık, savaş, şiddet konuları kapsamında sınıflandırmaları sağlanır.",
+    "Öğrencilerden yakın çevresinde karşılaştığı demokratik uygulamalardan yola çıkarak antidemokratik uygulamaların, ülkesinde ve dünyada barış ve birlikte yaşama kültürüne etkisini yorumlamaları istenir ( SDB2.3 , OB6 ). Antidemokratik davranışları önlemek amacıyla özgün fikirler öne sürebilmeleri ( E3.11 ) için küçük grup tartışma teknikleri uygulanır ( SDB2.2 ). Sınıf dört gruba ayrılarak öğrenme galerisi tekniği ile demokrasinin uygulanma sürecinde karşılaşılan sorunlara ilişkin öğrenilen bilgiler panoda sergilenir. Her gruptan galeriyi inceleyerek kendi yazdıkları ile diğer grupların yazdıklarını karşılaştırmaları istenir. Süreç boyunca gözlem formu, kontrol listesi veya anektod kaydı ile değerlendirme yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.1",
+      "D19.2",
+      "D2.3",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.2",
+      "E2.5",
+      "E3.10",
+      "E3.11",
+      "E3.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB6"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/426"
+}

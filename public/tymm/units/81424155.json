@@ -1,0 +1,51 @@
+{
+  "unitId": 81424155,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "155. ÜNİTE: DRAMA - ROL ALMA VE DOĞAÇLAMA",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.2.3.1",
+      "title": "Rol oynama ve doğaçlamanın temel özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.2.3.2",
+      "title": "Rol oynama ve doğaçlamanın drama açısından önemini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.2.3.3",
+      "title": "Canlandırmalarını, doğaçlama ve rol oynama ilkelerine göre oluşturur",
+      "processComponents": [
+        "Canlandırma etkinlikleri içerisinde canlandırma aşamasının kuralları, dramatik kurgunun bileşenleri dramatik durum örnekleri, bireysel ve küçük grupla canlandırma teknikleri üzerinde durulacaktır. Ayrıca dramatik kurgunun bileşenleri olarak rol, konu, gerilim, odak, mekân, zaman, dil, hareket, atmosfer, sembol kavramları vurgulanacaktır."
+      ]
+    },
+    {
+      "code": "SSA.2.3.4",
+      "title": "Doğaçlama ve rol oynama çalışmalarında çatışma ya da gerilimin bireyi geliştirici yönünü ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.2.3.5",
+      "title": "Bir drama etkinliğini aşamalarına ayırarak değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.2.3.6",
+      "title": "Canlandırma mekânını düzenler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

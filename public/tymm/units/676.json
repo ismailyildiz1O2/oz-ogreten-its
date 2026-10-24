@@ -1,0 +1,105 @@
+{
+  "unitId": 676,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "3. TEMA: BİLGİSAYAR AĞLARI VE İLETİŞİM",
+  "hours": "6",
+  "description": "“Bilgisayar Ağları ve İletişim” teması kapsamında öğrencilerin bilgisayar ağları ve bileşenlerini sorgulayabilmesi, bilgisayar ağları ve bağlanma yöntemlerini sınıflandırabilmesi ve internet ile amacına uygun olarak çalışabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.5.3.1",
+      "title": "Bilgisayar ağları ve bileşenlerini sorgulayabilme",
+      "processComponents": [
+        "a) Bilgisayar ağları ve bileşenleri ile ilgili merak ettiği konuları tanımlar.",
+        "b) Bilgisayar ağları ve bileşenleri hakkında sorular sorar.",
+        "c) Bilgisayar ağları ve bileşenleri hakkında bilgi toplar.",
+        "ç) Bilgisayar ağları ve bileşenleri hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Bilgisayar ağları ve bileşenleri hakkında topladığı bilgiler hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BTY.5.3.2",
+      "title": "Bilgisayar ağları ve bağlanma yöntemlerini sınıflandırabilme",
+      "processComponents": [
+        "a) Bilgisayar ağlarında kullanılan bağlanma yöntemlerini belirler.",
+        "b) Bilgisayar ağlarında kullanılan bağlanma yöntem ve teknolojilerini ilişkilendirir.",
+        "c) Bilgisayar ağlarında kullanılan bileşenlerin işlevlerini gruplandırır."
+      ]
+    },
+    {
+      "code": "BTY.5.3.3",
+      "title": "İnternet ile amacına uygun olarak çalışabilme",
+      "processComponents": [
+        "a) İnternette bilgiye ulaşmak için uygun kaynakları belirler.",
+        "b) Bilginin doğruluğunu değerlendirmek için internetteki farklı bilgi kaynaklarını kullanır. c). Bilgiye ulaşmak için kullandığı kaynakları uygunluk/verimlilik kapsamında değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "ağ, ağ bileşenleri, arama motoru, ethernet, internet, modem, web tarayıcı, wi-fi",
+  "support": [
+    "Bilgisayar ağlarının nasıl çalıştığını gösteren animasyonlar izletilebilir. Temel bileşen ve kavramların anlaşılmasını kolaylaştıracak görsel materyaller ve somut örnekler kullanılabilir.",
+    "Öğrenciler, belirli bir konuda çeşitli kaynakları inceleyerek bilgi toplayabilir. Bu bilgileri karşılaştırarak doğru ve güncel bilgilere ulaşmanın önemini kavramaları sağlanabilir.",
+    "Bilgisayar ağları hakkında bilgi yarışması ya da bilgi avı gibi oyunlar tasarlanıp sınıfta kullanılarak öğrenmenin kalıcı hâle gelmesi sağlanabilir.",
+    "Öğrencilerden internette karşılaşabilecekleri durumlar için senaryolar oluşturarak bu tip durumlarda nasıl hareket edeceklerini canlandırmaları istenebilir."
+  ],
+  "enrichment": [
+    "Bilgisayar ağları konusunda öğrencilerin çevrelerinde gözleyebildikleri ağları listelemeleri istenebilir.",
+    "Öğrencilerden sınıfta oluşturulacak bir simülasyon ortamında veya gerçek bir ağ üzerinde belirli bir süre içinde ortaya çıkan çeşitli ağ sorunlarını (bağlantı sorunları, güvenlik ihlalleri, performans düşüklüğü vb.) tespit edip çözmek için gruplar hâlinde çalışmaları istenebilir. Ayrıca çözüm süreçlerini anlatan bir rapor hazırlamaları ve ekip çalışmasının önemini kavramaları sağlanabilir.",
+    "Öğrencilerden farklı medya kaynaklarından alınan haberleri analiz etmeleri ve bu haberlerin güvenilirliklerini tartışmaları istenebilir. Öğrencilerden internet üzerinden ulaşabilecekleri kaynaklarla bilimsel bir sorunu araştırarak çözüm önerileri geliştirmeleri beklenebilir.",
+    "Yakınlardaki bir üniversitenin bilgi işlem merkezine gezi planlanabilir. Oradaki ağ incelenerek gerçek ortamında gözlem yapılabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; akran değerlendirme formu, kavram haritası, eşleştirmeli sorular ve kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilerden bilgisayar ağı oluşturmak için gerekli olan donanımları içeren afiş veya poster hazırlamaları performans görevi olarak istenebilir. Hazırlanan içerikler sınıf ortamında paylaşılabildiği gibi EBA üzerinden dijital ortamlarda da paylaşılabilir.",
+    "Performans görevi; bilimsel doğruluk, çeşitlilik, gereksiz bilgilerden arındırma, özgünlük ve tamamlanma süresi gibi ölçütler dikkate alınarak dereceleme ölçeği, puanlama anahtarı veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BTY.5.3.1.",
+    "Dersin giriş kısmında öğrencilere \"İlk iletişim yöntemi olarak kablolu bağlantı mı, kablosuz bağlantı mı kullanılmıştır?\" sorusu sorulur. Gelen cevaplar doğrultusunda iletişimin tarihçesine değinilir. Öğrencilerin farklı bakış açılarını kabul ederek fikirlerini özgürce ifade etmeleri teşvik edilir. Örneğin bir öğrenci dumanla iletişimin en eski yöntemlerden biri olduğunu savunurken bir diğeri telgrafın kablolu iletişimde devrim yarattığını belirtebilir ( D10.3 ). Dumanla iletişim, mektup, telgraf, telefon gibi iletişim araçlarının gelişimlerini gösteren görseller üzerinden öğrencilerin dikkati çekilir ( OB4 ). \"Ağ\" kelimesinin çağrıştırdığı fikirler sorularak öğrencinin kendi cevaplarını yapılandırması beklenir ( E3.3 ). Günlük hayatta kullandıkları \"ağ\" kelimesi ile \"bilgisayar ağları\" kelimesi arasında nasıl bir benzerlik olabileceği sorularak gelen cevaplar doğrultusunda bu iki kavram arasında ilişki kurulması sağlanır ( KB2.13 , OB1 ). Ardından öğrencilere bilgisayar ağları ve bileşenleriyle ilgili merak ettikleri konuları belirlemeleri için beyin fırtınası yaptırılır. Öğrenciler belirledikleri bu konular üzerinden, hem birbirlerine hem de öğretmene yöneltecekleri sorular geliştirir. Öğretmen tarafından bilgisayar ağı kavramının açıklaması yapılır. Ardından günlük hayatta kullanılan diğer ağlara örnekler verilir (okulun internet ağı, evde kullanılan Wi-Fi, cep telefonlarının bağlandığı mobil ağlar vb.). Öğrenci anlamı değiştirmeyecek şekilde kendi cümleleri ile bilgisayar ağı kavramını tanımlar. Bilgisayar ağı kurmak için gerekli bileşenler olarak ethernet kartı, veri, sunucu, istemci, modem gibi temel kavramlar öğrencilere açıklanır. Bilgisayar ağı oluşturmak için gerekli donanım ve yazılımlar belirtilir. Bu donanımlar ve yazılımların eksik olması durumunda bağlantı kurulup kurulamayacağı öğrencilerle tartışılır ( KB2.7 , OB1 ). Öğrencilerin tartışma esnasında \"Ağ bağlantısında hangi donanım bağlantıyı sağlar? Hangi donanım ağ bağlantı hızını belirler?\" şeklinde konuyla ilgili soru sormaları ve sınıftaki diğer öğrencilerin bu sorulara cevap vermeleri teşvik edilebilir. Gözlem formu kullanılarak öğrencilerin tartışmaya katılım performansları değerlendirilebilir.",
+    "Ağ üzerinden veri aktarımını somutlaştırmak için öğrencilerin çember şeklinde sıralanmaları istenir. Ardından seçilen bir nesne (top, boş bir kâğıt vb.) öğrencilere gösterilerek \"Bu nesneyi kullanarak arkadaşlarımıza bazı mesajlar göndereceğiz.\" açıklaması yapılır. Nesne bir öğrenciye uzatılır ve gönderilmek istenen mesaj söylenir (Ayşe sana bir resim gönderiyorum, Ali sana bir şarkı gönderiyorum vb.). Öğrencilerin nesneyi kullanarak arkadaşlarına mesaj göndermeleri sağlanır. Grup hâlinde çalışma becerisi sergileyen öğrencilerin etkinlikten en iyi şekilde yararlanmaları için birbirlerine sırayla veri göndermeleri ve bu sürecin bilgisayar ağı içindeki veri iletimiyle nasıl benzerlik gösterdiğini tartışmaları sağlanır ( SDB2.2 ). Öğrenciler, rastgele oluşturulan gruplarla çalışırken veri paketlerinin ağ üzerinde belirli bir rota izlediğini ve bu sırada bazılarının kaybolabileceği ya da gecikebileceğini fark ederler; bu durumu açıklamak ve süreci modellemek için görev paylaşımı yaparak iş birliği içinde çalışırlar ( D3.4 ). Etkinliğin sonunda \"Eğer bilgisayardan bir dosya göndermek istersek bunu nasıl yapabiliriz?\" sorusu sorulur. Gelen cevaplardan sonra bilgisayar üzerinde ağları kullanarak dosya transferinin nasıl gerçekleştiği anlatılır. Dijital ortamlarda verinin nasıl aktarıldığını açıklayan öğretici bir video izletilebilir.",
+    "Oluşturulabilecek ağ türleri, bilgisayar ağlarının büyüklüğüne göre listelenir. Ağ türleri arasındaki farklar tartışılır ( KB2.7 , KB2.18 , OB1 ). Öğrencilerin oluşturulacak grup sayısı kadar belirlenen sayı aralığında (örneğin 4 grup için 1–4 arası) rastgele sayılar söyleyerek gruplara ayrılmaları sağlanır. Ardından her gruptan bir ağ türünü (LAN/Yerel Alan Ağı, WAN/Geniş Alan Ağı vb.) tarafsız olacak şekilde seçmesi istenir. Bu ağı oluşturan bileşenlerle ilgili bilgi toplayarak bir dijital afiş hazırlamaları istenir ( E3.4 , SDB2.2 , OB2 ). Öğrenciler dijital bir afiş oluştururken elde ettikleri verileri görselleştirler. Afiş hazırlanırken öğrencilerden afişin kurgusunu hazırlamaları, sayfa özelliklerini belirlemeleri, resim ve yazı ögelerini kullanarak bu ögeleri hizalamaları ve tasarım aşamalarını kullanmaları istenir ( SDB1.2 ). Ürün hazırlanırken dosya kaydetme işlemleri yapılır. Hazırlanan afişlerin çıktısı alınarak sınıf panosuna asılır. Öğrenciler birbirlerinin afişinde yer alan ağ türüne göre belirledikleri ağ bileşenlerinin doğruluğunu değerlendirir. Bu süreçte öğrencilerin sosyal ilişkilerinde tarafsız davranmaları ve birbirlerinin çalışmalarını objektif bir şekilde değerlendirmeleri için hazırlanan afişlerin diğer gruplar tarafından saygılı ve yapıcı eleştirilerle değerlendirilmesi sağlanır ( D6.1 , SDB2.3 ). Hazırlanan afişler, diğer gruplar tarafından sosyal ilişkilerde tarafsız davranma kuralı göz önünde bulundurularak \"akran değerlendirme formu\" ile değerlendirilir.",
+    "Öğrencilere farklı ağ türlerinin hangi durumlarda kullanmaları gerektiği hakkında sorular yöneltilerek öğrendikleri bilgiler doğrultusunda çıkarım yapmaları sağlanır. Öğrenciler bu süreçte ağ türlerini (LAN, WAN, MAN vb.) tartışarak günlük yaşamdaki kullanım alanlarını değerlendirirler. Tartışma etkinliği sırasında verilen cevaplar, Frayer modeli kullanılarak tahtada görselleştirilir. Modelin dört bileşeni olan tanım, özellikler, örnekler ve örnek olmayanlar kullanılarak ağ türleri arasındaki farklar net bir şekilde ortaya konur. Bu etkinlik sayesinde öğrenciler, ağ türlerini karşılaştırarak anlamlı öğrenme gerçekleştirir ve farklı durumlarda hangi ağ türünün daha uygun olacağını kavrayarak karar verme ve kıyaslama becerilerini geliştirirler.",
+    "BTY.5.3.2.",
+    "Öğrencilere günlük hayatta kullandıkları Wi-Fi ile bluetooth kavramlarını nerelerde ve hangi anlamda kullandıkları sorularak dikkatleri çekilir ( E1.1 ). Öğrencilerden ev, okul veya halka açık alanlarda internete nasıl bağlandıklarını düşünmeleri istenir. \"Kablosuz internet mi kullanıyorsunuz yoksa internete bir kablo ile mi bağlanıyorsunuz?\" gibi sorularla yönlendirme yapılır. Cevaplar doğrultusunda bilgisayar ağlarına kablolu ve kablosuz bağlanma yöntemlerini açıklayan görseller gösterilir. Öğrenciler kablolu ve kablosuz ağlara bağlanmak için gerekli donanımları tartışarak belirler ( OB1 ). Öğrencilerin düşünce ve davranışlarında tutarlı olmaları için kablolu ve kablosuz ağların avantaj ve dezavantajlarını değerlendirirken alan bilgilerini mantıklı ve çelişkisiz bir şekilde ifade etmeleri sağlanır. Öğretmen, öğrencilere çeşitli teknolojik araçların görsellerini (dizüstü bilgisayar, tablet, akıllı telefon, modem, yönlendirici vb.) gösterir. Öğrencilerden bu görselleri inceleyerek her aracın hangi bağlanma yöntemi (kablolu, ethernet, kablosuz, Wi-Fi, mobil veri vb.) ve hangi teknolojiyi (3G, 4G, 5G, fiber internet vb.) kullandığını tartışarak belirlemeleri istenir. Öğrenciler görseli dikkatlice inceleyip her bir aracın bağlantı türü ve kullanabileceği internet teknolojilerine göre analiz yaparak ilişkilendirir. Örneğin bir dizüstü bilgisayarın Wi-Fi veya Ethernet ile bağlanabileceği, bir akıllı telefonun ise genellikle mobil veri veya Wi-Fi kullanabileceği gibi çıkarımlar yapar ( KB2.10 ). Öğrenciler bilgisayar ağlarında kullanılan bileşenlerin (ör. modem, yönlendirici, erişim noktası) işlevlerini gruplandırır. Hangi araçların farklı bağlantı seçeneklerine sahip olduğu ve hangi durumda, hangi bağlantı türünün daha uygun olacağı hakkında grup tartışmaları yapılır.",
+    "Öğrencilerin bilgisayar ağ kavramları ve bileşenlerine ilişkin kavramsal bilgi düzeyleri, kavram haritası veya eşleştirme soruları kullanılarak değerlendirilebilir. Kavram haritası ile bilgisayar ağ bileşenlerinin kavram şemalarına, eşleştirme soruları ile bilgisayar ağ ve bileşenleri konusunda temel kavramlar ve açıklamalara ilişkin geri bildirim verilebilir. Web 2.0 araçları/e-içerikler üzerinden eşleştirme sorularını etkileşimli hâle getirilebilir.",
+    "BTY.5.3.3.",
+    "Öğrencilere \"internet\" kavramı hakkında neler bildikleri sorularak derse başlanır. Öğrencilerin paylaştıkları cevaplar üzerinden konuya giriş yapılır. Öğrencilerle birlikte \"internet\"in tanımı yapılır: ne olduğu, nasıl çalıştığı (istemci-sunucu ilişkisi, ağ yapısı), internetin bilgiye erişim aracı olarak rolü açıklanır. Öğretmen, günlük yaşamdan örneklerle internetin kullanıldığı durumları sınıfa sorar. Öğrencilerin internetin öğrenme, iletişim ve üretim alanlarındaki işlevlerini tartışmaları sağlanır. İnternet bağlantısı için gerekli donanım ve yazılımlar hakkında bilgi verilir. İnternetin günlük hayattaki yeri ve önemi tartışılır ( OB1 ). Öğrencilerin sahip oldukları bilgileri eleştirel bir bakış açısıyla değerlendirebilmeleri için internetin avantaj ve dezavantajlarını tartışmaları teşvik edilir. İnternet adreslerinde bulunan kısımlar açıklanır (www, alan adı, site uzantısı vb.). İnternet sitelerinin uzantıları hakkında bilgilendirme yapılır, hangi uzantının ne anlama geldiği açıklanır.",
+    "En sık kullandıkları internet adreslerini tahtaya yazmaları öğrencilerden istenir. Yazılan internet adreslerinin doğru yazılıp yazılmadığı sınıfça tartışılır ( KB3.3 ). Hatalı yazılan internet adresleri üzerinde düzeltmeler yapılır.İnternet adreslerinin uzantılarının anlamları tekrarlanır. İnternet adresindeki bölümler (alan adı, site uzantısı, bulunduğu ülke vb.) tahtaya yazılır. Öğrencilerden seçtikleri başlıkla ilgili bir kavramı küçük bir kâğıda yazmaları istenir. Her öğrenci yazdığı kavramı sırayla açıklayarak uygun başlığın altına yapıştırır ( KB2.10 ). Site uzantıları ve ülke kodları gibi internet adres yapılarının eşleştirildiği bir değerlendirme etkinliği bir web 2.0 aracı kullanılarak yapılır. Etkinlik sonrasında öğrencilerin yaptıkları eşleştirmelerin doğruluğuna yönelik açıklamalarla öğrencilerin geri bildirim almaları sağlanabilir.",
+    "Öğretmen, internete bağlanmak için kullanılan web tarayıcısının arayüz özelliklerini (internet sayfasını yenileme, sayfalar arasında ileri geri gitme, sayfada arama yapma vb.) açıklar. Öğrencilerden bunlardan hangilerini sıklıkla kullandıklarını açıklamaları istenir. Arama motorları hakkında gerekli bilgilendirme yapıldıktan sonra araştırma yapmak için hangi yöntemleri kullandıkları sorulur ( SDB1.1 ). Arama motorlarında belirli amaçlara yönelik aramaların (görsel, haber, dosya türüne göre vb.) nasıl yapıldığı belirtilir. Öğrenciler seçtikleri bir konu hakkında araştırma yaparken kullanacakları arama moturunu belirler. Arama yaparken güvenilir ve doğru bilgilere ulaşma yollarını kullanmaları ve elde ettikleri bilgileri etik ilkelere uygun olarak sunmaları öğrencilerden beklenir ( D3.3 ). Bu süreçte öğrencilere dijital bilgiye ulaşmada doğru yöntemleri belirlemeleri için öğretmenler tarafından rehberlik edilir ( D3.3 ). Öğrencilere aynı konuda (Örneğin: Mars'ta yaşam mümkün mü?) üç farklı internet sitesinden alınmış içerikler gösterilir. Bu içeriklerin bir tanesinin bilimsel olmasına (akademik çalışmalardan alınmış bir içerik), bir tanesinin kişisel yorum içermesine, diğerinin de yanlış bilgiler içermesine dikkat edilir. Öğrenciler gruplara ayrılır ve her grubun verilen kaynakları şu üç kritere göre değerlendirmesi istenir: güvenilirlik (kaynağın türü, kim tarafından yazıldığı), güncellik (içeriklerin yayınlanma tarihleri) ve içerik uygunluğu (konuyla ne kadar ilgili). Her grup içerikleri bu kriterlere göre analiz ederek bulduğu sonuçları sınıfla paylaşır. Bu süreçte öğrencilere; bilgi kaynağını doğrulama, bilginin güncelliğini sorgulama ve yanlış bilgi içerip içermediğini belirleme becerileri kazandırılmaya çalışılır. Grup etkinliğinden sonra öğrencilerin bireysel olarak seçtikleri konuda araştırma yapmaları ve bu araştırmayı dijital ürüne (sunum, afiş, rapor vb.) dönüştürmeleri istenir ( SDB1.2 ). Dijital ürün oluşturulurken öğrencilerin tasarım yapmaları, nesneleri ekleme ve biçimlendirmeleri, sayfayı düzenlemeleri ve kayıt işlemi yapmaları istenir. Öğrencilerin hazırladıkları ürünlerde kaynak belirtmeleri gerektiği söylenir ve bunu dijital ürünlerine yansıtmaları istenir. Ardından öğrencilerin hazırladıkları ürünü diğer arkadaşlarına anlatmaları, araştırma sürecini nasıl yürüttükleri ( OB1 , SDB1.2 ) ve kullandıkları kaynakları (web sayfaları, arama motorları vb.) açıklamaları sağlanır ( OB1 , OB2 , E3.2 ). Bilginin kaynağını (kim tarafından yazıldığı), yayınlanma tarihini, amacını (bilgilendirme, tanıtım, reklam vb.), farklı güvenilir kaynaklarla (resmî kurumlar, akademik yayınlar, tanınmış haber kuruluşları) karşılaştırmaları gerektiği belirtilir. Tahtaya listelenen maddeler düzenlenerek ortak bir kontrol listesi hazırlanır. Bu kontrol listesini internette yaptıkları aramalarda kullanmaları istenir. Hangi maddelerin daha sık kullanıldığı veya araştırma sırasında keşfettikleri yeni maddeler olup olmadığı sorularak kontrol listesisinin kullanılabilirliği test edilmiş olur ( OB1 , OB2 , E3.2 ). Öğrenciler, arkadaşlarının hazırladığı içeriklerde kullandıkları internet sayfalarını uygunluk ve verimlilik bakımından değerlendirir. Öğrencilerin hazırladıkları içerikleri EBA üzerinden sınıfıyla paylaşmaları sağlanır ( OB2 ). Hazırlanan dijital ürünler, akranları tarafından kontrol listesi ile değerlendirilir ve yapıcı geri bildirim vermeleri sağlanabilir. Öğrencilere çevrim içi bir belge üzerinde ortak çalışmanın nasıl yapılacağı açıklanır. Bunun için uygun olan çevrimiçi paylaşım yapılabilecek platformlara örnek verilir ve uygun olan bir tanesi seçilir. Öğretmen seçilen platform üzerinde örnek bir dosya oluşturup öğrencileri katılımcı olarak ekleyerek düzenleme yetkisi verir. Belge üzerinde ortak çalışmanın nasıl yapıldığı açıklanır. Her öğrencinin belge üzerinde ekleme, değişiklik yapma ve silme işlemlerini denemeleri istenir. Yapılan değişikliklerin otomatik olarak kaydedildiği açıklanır. Öğrenciler küçük gruplara ayrılarak çevrim içi ortak belge üzerinde belirlenen bir konu hakkında buldukları bilgileri ekler. Her öğrenci belgeye katkıda bulunarak içerik ekler, düzenler veya gerekirse siler. Çalışma sonunda her grubun belgeleri sınfta paylaşılır. Bu süreç, öğrencilerin iş birliği içinde çalışma, dijital araçları bilinçli kullanma, sorumluluk alma ve iletişim kurma becerilerini geliştirmelerine olanak tanır.",
+    "Öğrencilerden performans görevi kapsamında, günlük hayatta karşılaştıkları ilginç bir konu hakkında internet üzerinden araştırma yapmaları istenebilir. Araştırma sürecinde öğrencilerin; internette bilgiye ulaşmak için uygun kaynakları belirlemeleri, farklı kaynakları karşılaştırarak bilgilerin doğruluğunu değerlendirmeleri, kaynakları uygunluk ve verimlilik ölçütlerine göre incelemeleri beklenebilir. Araştırma sonucunda öğrencilerin ulaştıkları bilgileri dijital bir ürün (sunum, afiş, rapor) hâline getirmeleri ve arkadaşlarıyla paylaşmaları sağlanabilir. Hazırlanan içerikler kontrol listesi veya akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D3.3",
+      "D3.4",
+      "D6.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2",
+      "E3.3",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.18",
+      "KB2.7",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/676"
+}

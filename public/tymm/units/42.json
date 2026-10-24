@@ -1,0 +1,60 @@
+{
+  "unitId": 42,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "6. ÜNİTE: AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+  "hours": "8",
+  "description": "Bu ünitede tehlike, risk ve afet kavramlarının çözümlenebilmesi; afetlerin sınıflandırılabilmesi ve bütüncül afet yönetimi uygulamalarının şekil ve diyagramlar aracılığıyla yorumlanabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.9.6.1",
+      "title": "Tehlike, risk ve afet kavramlarını çözümleyebilme",
+      "processComponents": [
+        "a) Tehlike, risk ve afet kavramlarının özelliklerini belirler.",
+        "b) Tehlike, risk ve afet kavramları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "COĞ.9.6.2",
+      "title": "Afetleri sınıflandırabilme",
+      "processComponents": [
+        "a) Oluşum kaynağına göre afetleri belirler.",
+        "b) Oluşum kaynağına göre afetleri ayrıştırır.",
+        "c) Oluşum kaynağına göre afetleri tasnif eder.",
+        "ç) Oluşum kaynağına göre afetleri etiketler."
+      ]
+    },
+    {
+      "code": "COĞ.9.6.3",
+      "title": "Bütüncül afet yönetimi uygulamalarını tablo, grafik, şekil ve/veya diyagramlar aracılığıyla yorumlayabilme",
+      "processComponents": [
+        "a) Bütüncül afet yönetimi uygulamalarını gösteren tablo, grafik, şekil ve/veya diyagramlardaki bileşenleri anlamlandırır.",
+        "b) Bütüncül afet yönetimi uygulamalarını gösteren tablo, grafik, şekil ve/veya diyagramlardaki bileşenleri ve bu bileşenler arası ilişkileri çözümler.",
+        "c) Bütüncül afet yönetimi uygulamalarını gösteren tablo, grafik, şekil ve/veya diyagramlardaki bileşenlerle ilgili sonuçlar çıkarır.",
+        "ç) Bütüncül afet yönetimi uygulamalarını gösteren tablo, grafik, şekil ve/veya diyagramlardaki bileşenlerle ilgili ulaştığı sonuçları karşılaştırır."
+      ]
+    }
+  ],
+  "keyConcepts": "afet, bütüncül afet yönetimi, ekstrem doğa olayı, erken uyarı sistemi, maruziyet, risk, tehlike, Yeşil Vatan",
+  "support": [
+    "Dijital kaynaklar kullanılarak afetlerle ilgili haber, görsel ve eğitici videolar inceletilir/ İzletilir. Konuya ilişkin hatırlamayı kolaylaştıracak biçimde grafik, resim, zihin haritaları vb. görseller aracılığıyla öğrenme desteklenebilir. Öğrencilerden farklı zamanlarda yaşanmış afetlerden etkilenen kişilerle röportaj yaparak bu röportajı sınıfta sunmaları istenebilir. Performans görevi; tehlike, risk ve afet kavramlarına yönelik sunum hazırlama şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Afetlere yönelik okul genelinde resim, öykü vb. yarışmalar düzenlenebilir. Öğrencilere *Türkiye'de afetlerle mücadelede faaliyet gösteren kurum ve kuruluşlar, 13 Ekim Dünya Afet Risklerinin Azaltılması Günü, farklı ülkelerde (Japonya, İzlanda, Endonezya vb.) yaşanmış afetler ve bu afetlere karşı geliştirilen korunma uygulamaları konularında araştırma görevleri verilebilir. Öğrencilerin araştırma görevlerine ilişkin sonuç raporlarını sınıfta sunmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, yapılandırılmış grid, performans görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden örnek bir senaryo üzerinden bütüncül afet yönetimine ilişkin önerilerini içeren bir sunum hazırlamaları istenebilir. Performans görevi; bilgi inceleme, içerik, sonuç çıkarma, rapor hazırlama ve sunma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.9.6.1",
+    "Bir olayın hangi durumda afet kabul edilebileceğine ilişkin Türkiye ve dünyada yaşanan örnek olaylar üzerinden bir tartışma yapılandırılabilir. Bu kapsamda örnek olarak Türkiye'den Kuzey Anadolu Fay Sistemi, Doğu Anadolu Fay Sistemi ve Batı Anadolu'daki fay hatları incelenebilir. Bu fay hatlarının geçtiği bölgelerin deprem tehlikesi taşıdığı, bu bölgelerde depreme dirençli olmayan yerleşim alanları kurulmasının risk oluşturduğu ve deprem yaşanması durumunda can ve mal kaybı olmasının ise afet olarak nitelendirildiği bilgisi paylaşılır ( D5.3). Bu süreçte diri fay haritası, afet risk haritası ve yerleşme haritaları incelenebilir ( SBAB10.2). Öğrencilerden tehlike, risk ve afet kavramları arasındaki ilişkiyi açıklayabilmeleri için bu kavramlara ilişkin görsel içerikli örnekler oluşturmaları istenebilir. Örnekler üzerinden tehlike, risk ve afet kavramlarının özellikleri özetlenebilir, tehlike kavramı içerisinde ekstrem doğa olayı kavramına yer verilir ( OB1, SDB2.1, E3.4 ). Öğrencilerin bu süreçteki öğrenmeleri, çalışma yaprağıyla değerlendirilebilir.",
+    "COĞ.9.6.2",
+    "Öğrencilerin kişisel özellikleri ve afetlere yönelik algıları göz önünde bulundurularak afetler konusuna uygun bir giriş yapabilmeleri sağlanır. Bu kapsamda öğrencilere afetlerle ilgili gazete haberi ve makale okuma, fotoğraf ve harita inceleme, sayısal veriler içeren tablo yorumlama gibi çalışmalar yaptırılabilir. Bu çalışmalar öğrenciler tarafından sunulabilir ve öğrencilerin seçtiği materyallerin incelenmesiyle derse başlanabilir. İncelenen materyaller bağlamında görüşlerin paylaşıldığı bir tartışma ortamı yapılandırılabilir (SDB2.1) . Afetlere yönelik videolar izlenerek öğrencilerden bildikleri afetlerle ilgili görüş paylaşımında bulunmaları istenebilir ( OB4). Tüm sınıfa bir afet listesi (kuraklık, deprem, tsunami, çığ, sel, taşkın, erozyon, salgın hastalık, yangın, savaş, nükleer santral kazaları, heyelan, kaya düşmesi vb.) verilerek afet sınıflandırma çalışması yapılabilir. Bu kapsamda öğrencilerden verilen afet listesinde yer alan afetleri, belirledikleri özelliklere göre sınıflandırmaları ve küçük gruplar içinde tartışmaları istenebilir. Sonuçları itibarıyla Türkiye'de en yıkıcı etkiye sahip afetler, ilgili kaynaklardan incelenerek bu afetlerin nedenleri ve dağılışları tespit edilir ( D5.3, SBAB10.3) . Afetler, oluşum türlerine göre tasnif edilir ve etiketlenir (E3.7, SDB2.2). Öğrencilerin bu süreçteki öğrenmeleri yapılandırılmış gridle değerlendirilebilir.",
+    "COĞ.9.6.3",
+    "Bütüncül afet yönetimini oluşturan bileşenler, tablo, grafik, şekil ve/veya diyagramlar üzerinden incelenerek anlamlandırılır (OB4 ). Söz konusu bileşenler arasındaki ilişki çözümlenir ve buradan sonuçlar çıkarılır. Konuya ilişkin istasyon çalışması yapılabilir. Bu kapsamda sınıfta afet öncesi, afet esnası ve afet sonrası olmak üzere üç istasyon oluşturulur. Öğrenciler, oluşturulan istasyonlara atanır ve her istasyon için belirlenen konulara göre afiş hazırlama çalışması başlatılır. Her beş dakikada bir öğrencilerin yeri değiştirilir, diğer istasyona geçen öğrencilerin o istasyonda başlanmış olan çalışmaya devam etmesi sağlanır. Herkes ilk istasyonuna döndüğünde son düzenleme için süre verilir ve ardından çalışmalar paylaşılır. Öğrencilerden istasyon değiştirerek gerçekleştirilen bu süreci değerlendirmeleri, farklı bakış açılarının afişlerde meydana getirdiği değişiklikleri sorgulamaları istenir. Ardından afişler paylaşılarak afet öncesi, afet esnası ve afet sonrasında yapılması gerekenler karşılaştırılır. Öğrencilerden bu konuda kendileri ve çevrelerini değerlendirmeleri istenerek bütüncül afet yönetiminin etkin şekilde yapılmamasının insan ve toplum üzerindeki etkilerine ilişkin duygu ve düşüncelerini ifade etmeleri istenebilir ( SDB1.1, SDB1.2, SDB1.3, SDB3.3). Öğrenmeler, çalışma yaprağıyla izlenebilir. Afet öncesi, afet esnası ve afet sonrasında ihtiyaç duyulan verilere hızlı ve doğru şekilde ulaşılması, bu verilerden yeni bilgiler üretilmesi ve bu bilgilerin kullanılması bağlamında afete uğramış ve afet riski taşıyan bölgelerde yapılacak mekânsal sorgu ve analizler yoluyla hızlı karar verilebilmesine imkân sağlayan mekânsal bilgi teknolojilerinden bahsedilir (OB2 ).",
+    "Afet ve acil durumlarda yaşanan bilgi kirliliğine karşı doğru bilgiye nereden veya nasıl ulaşılacağına ilişkin görüşlerin paylaşıldığı bir tartışma ortamı yapılandırılabilir. Afet öncesi, afet esnası ve afet sonrasında savunmasız grupların (yaşlılar, özel gereksinimi olan bireyler vb.) ihtiyaçlarının karşılanması gerektiği ifade edilir. Ayrıca afet ve acil durumlarda çocuk hakları temelli yaklaşım kapsamında çocukların sahip olduğu hakların neler olduğu ve bu hakların nasıl korunabileceği konusunda öğrencilerin fikirleri alınır. Öğrencilerden yaşanan afetlerde ihtiyaç duyulan yardımların amaca uygun şekilde ulaştırılması, bu süreçte başkalarının hakkına saygı gösterilmesi veya \"Yeşil Vatan\" bilincinin yaygınlaştırılmasına yönelik slogan oluşturmaları istenebilir ( SDB2.3, E1.4, E3.5, D1.2, D16.2, D20.2) . Oluşturulan sloganlar belirtilen özellikleri vurgulaması açısından değerlendirilir ( SDB2.1). Afet ve acil durumlarda uluslararası iş birliğinin önemi Türkiye ve dünyadan örneklerle vurgulanır ( D20.2). Bu ünite kapsamında Türkiye'de görülebilen afetlere yönelik eğitimlerden bahsedilerek deprem simülasyon merkezi, rasathane gibi yerler ziyaret edilebilir; afet uzmanlarının katılacağı panel veya seminerler düzenlenebilir. Bu ünitede performans görevi olarak öğrencilerden örnek bir senaryo üzerinden bütüncül afet yönetimine ilişkin önerilerini içeren bir sunum hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerden öğrenmelerini izlemelerine yönelik önceden hazırlanan öz değerlendirme formlarıyla kendilerini değerlendirmeleri ve öğrenme sürecini geliştirmeleri için neler yapabileceklerini belirlemeleri istenebilir ( SDB1.2, KB3.2 )."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/42"
+}

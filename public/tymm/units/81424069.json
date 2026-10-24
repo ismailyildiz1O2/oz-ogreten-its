@@ -1,0 +1,39 @@
+{
+  "unitId": 81424069,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "69. ÜNİTE: NEY - NEY ÜFLEMENİN TEMELLERİ",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.10.1.1",
+      "title": "Neyden ses üretme çalışmaları yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.1.2",
+      "title": "Ney üflerken doğru nefes tekniği uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.1.3",
+      "title": "Neyde nizami oturuş ve neyi tutuşu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.1.4",
+      "title": "Nizami oturuş ve neyi tutuş pozisyonunda uzun nefesle neyden ses üretir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

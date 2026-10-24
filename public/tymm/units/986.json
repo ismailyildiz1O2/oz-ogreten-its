@@ -1,0 +1,57 @@
+{
+  "unitId": 986,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "2. TEMA: ARTİKÜLASYON",
+  "hours": "2",
+  "description": "Artikülasyon, artikülasyon organlarının isimleri ve bedendeki yerlerine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.6.2.1",
+      "title": "Artikülasyon kavramını tanımlayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.6.2.2",
+      "title": "Artikülasyon organlarının isimlerini sırasıyla sayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.6.2.3",
+      "title": "Artikülasyon organlarını bedeninde gösterebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "artikülasyon, beden, organ",
+  "support": [
+    "Öğrenciye artikülasyon ile ilgili bilgiler içeren görüntü kaydı izletilebilir. Öğrenciye artikülasyon organlarının yer aldığı boş bir yüz şeması verilip organların doğru yerlere etiketlenmesi istenebilir. Her bir artikülasyon organının kullanılmasına yönelik hece çalışmaları yapılırken telaffuzu kolay heceler seçilebilir."
+  ],
+  "enrichment": [
+    "Öğrenciden artikülasyon ile ilgili akademik makaleler araştırması ve edindiği bilgileri sınıfta sunması istenebilir. Öğrencilerden artikülasyon organlarının isimlerini gösteren görsel materyal hazırlamaları istenebilir. Her bir artikülasyon organının kullanılmasına yönelik hece çalışmaları yapılırken telaffuzu zor heceler seçilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi, kavram haritası, öz değerlendirme formu, değerlendirme soruları, Frayer (Freyır) modeli, gözlem formu ve kontrol listesi ile değerlendirilebilir. Öğrencilere artikülasyon organları ile ilgili açıklayıcı bir görsel materyal hazırlayabilecekleri performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "BSE.6.2.1 Artikülatörler aracılığıyla sesin; harf, hece, kelime olarak biçimlendiğine dikkat çekmeye yönelik etkinlikler yapılır. Böylelikle öğrenciler sesi biçimlendiren parçaları belirleyebilir ( KB2.4 ). Öğrenciler bu deneyimlerini artikülasyon ile ilgili bilgileriyle ilişkilendirerek sesi biçimlendiren parçalar arası ilişkileri belirleyip artikülasyonun tanımını yapar. Kavram haritası ile öğrencilerin harf, hece, kelime ögeleri arasındaki ilişkileri kurma becerisi değerlendirilebilir. BSE.6.2.2 Öğrencilerin artikülasyon organlarını fark etmesine yönelik sorular sorularak konuya ilişkin merak oluşturulabilir ( E1.1 ). Öğrenciler öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade edebilir. Başkalarının etkin bir şekilde dinlenmesi ve sözlü etkileşim sağlanması ( SDB2.1 ) yoluyla artikülasyon organları hakkında ön bilgi edinilmesi sağlanabilir. Kavram haritası kullanılarak öğrencilerin artikülasyon organları arasındaki ilişkileri kurma becerilerinin geliştirilmesi hedeflenir. Bu amaçla, öğrencilere artikülasyonorganları ile ilgili açıklayıcı görsel materyal hazırlama temelli bir performans görevi verilir. Ayrıca Frayer modeli kullanılarak bu organların tanımı, özellikleri, örnek olanları ve olmayanları analiz edilip geri bildirim sağlanabilir. BSE.6.2.3 Çeşitli görsel materyaller üzerinden artikülasyon organlarının bedende bulunduğu yer incelenir ve öğrencilerden artikülasyon organlarının bulunduğu yeri bedeninde göstermesi istenir. Görsel materyaller üzerindeki artikülasyon organlarının görüntüsünün algılanması ( OB1 ) sağlanarak öğrencilerin kendi ifadeleriyle bu organların beden üzerinde işaret edilmesi yoluyla çalışmalarda aktif rol almaları sağlanabilir ( D3.4 ). Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/986"
+}

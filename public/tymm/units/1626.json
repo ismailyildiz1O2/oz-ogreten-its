@@ -1,0 +1,95 @@
+{
+  "unitId": 1626,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Astronomi ve Uzay Bilimleri Dersi",
+  "title": "1. Ünite: Astronomiye Giriş",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AST.1.1",
+      "title": "Astronominin bilimsel düşüncenin gelişmesindeki rolünü sorgulayabilme",
+      "processComponents": [
+        "a) Astronominin bilimsel düşüncenin gelişmesindeki rolü hakkında merak ettiği soruları tanımlar.",
+        "b) Astronominin bilimsel düşüncenin gelişmesindeki rolü hakkında sorular sorar.",
+        "c) Astronominin bilimsel düşüncenin gelişmesindeki rolü hakkında bilgi edinir.",
+        "ç) Edindiği bilgileri bilimsel düşünceye uygunluğuna göre değerlendirir.",
+        "d) Edinilen bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "AST.1.2",
+      "title": "Astronominin doğuşu ve gelişiminin nedenleri ile astronominin önemi hakkında tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Astronominin doğuşu ve gelişimini sağlayan olayları inceler.",
+        "b) Astronominin doğuşu ve gelişimini sağlayan olayların ortak amacını tespit eder.",
+        "c) Astronominin doğuşu ve gelişiminin nedenleri ve astronominin önemi hakkında genelleme yapar."
+      ]
+    },
+    {
+      "code": "AST.1.3",
+      "title": "Astronomi tarihine damgasını vuran bilim insanlarının katkılarını yorumlayabilme",
+      "processComponents": [
+        "a) Bilim insanlarının çalışmalarının bilime etkilerini inceler.",
+        "b) Bilim insanlarının çalışmalarını bağlamdan kopmadan sözlü ifadelere dönüştürür.",
+        "c) Bilim insanlarının çalışmalarını yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "AST.1.4",
+      "title": "Astronominin ilişkili olduğu bilim dalları ile ilişkisini çözümleyebilme",
+      "processComponents": [
+        "a) Astronominin ilişkili olduğu bilim dallarını belirler.",
+        "b) Astronominin ilişkili olduğu bilim dalları ile astronominin alt dalları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "AST.1.5",
+      "title": "Gözlem ve kuramın astronomideki önemini özetleyebilme",
+      "processComponents": [
+        "a) Astronomi çalışmalarında gözlem ve kuramın kullanımı ile ilgili çözümleme yapar.",
+        "b) Astronomi çalışmalarında gözlem ve kuramın kullanımı ile ilgili sınıflandırma yapar.",
+        "c) Gözlem ve kuramın astronomideki önemini yorumlar."
+      ]
+    },
+    {
+      "code": "AST.1.6",
+      "title": "Teleskopları sınıflandırabilme",
+      "processComponents": [
+        "a) Topladığı ışığın niteliklerine göre teleskopları belirler.",
+        "b) Teleskopları niteliklerine göre ayrıştırır.",
+        "c) Farklı optik teleskop türlerini gruplandırır.",
+        "ç) Farklı optik teleskop türlerini etiketler."
+      ]
+    }
+  ],
+  "keyConcepts": "astronomi, elektromanyetik dalgalar, teleskop",
+  "support": [
+    "Öğrencilere bilim insanlarının çalışmaları veya astronomi bilimi ile ilişkili bazı olay ve olgulara ait görsel ve açıklamaların yer aldığı hazır bilgi kartları verilebilir. Astronomi biliminin alt dallarının sınıflandırılması öğretmenin rehberliğinde yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden gökyüzünde anlık olarak görülebilen yıldızlar, takımyıldızları, bulutsular ve gezegenlerin konumlarını takip edebilecekleri dijital uygulamaları araştırarak sınıf içinde örnek uygulamalar yapmaları istenebilir. Öğrenciler; ilk Türk bilim tarihçisi Salih Zeki, Kandilli Rasathanesinin kurucusu Mehmet Fatin Gökmen, Türkiye’nin ilk kadın astronomu Nüzhet Gökdoğan gibi Türk bilim insanlarının astronomi bilimine katkılarını içeren bir kitapçık hazırlayıp bu kitapçığı dijital ortamda paylaşabilir. Öğrenciler Türkiye Ulusal Gözlemevleri Antalya Yerleşkesi (TUG) ve Erzurum Yerleşkesi (DAG) bünyesinde kurulu bulunan teleskopların özellikleri ve bu teleskoplarla şimdiye kadar yapılmış keşifler hakkında broşür hazırlayıp paylaşabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çıkış kartı, yansıtıcı yazı, öğrenme günlüğü, açık uçlu sorular, tanılayıcı dallanmış ağaç, yapılandırılmış grid, öz değerlendirme formu, performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğretmen, öğrencilerden performans görevi için grup çalışması veya bireysel çalışma şeklinde özgün bir teleskop tasarlayarak bir ürün ortaya koymalarını isteyebilir. Performans görevleri öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AST.1.1.",
+    "Öğrencilere astronomi sözcüğünü duyduklarında sözcüğün zihinlerinde ne gibi çağrışımlar oluşturduğu sorulur ve verilen cevapların tamamı tahtaya yazılır. Bu çağrışımlardan yola çıkılarak öğrencilerden astronominin ne olabileceği hakkında beyin fırtınası tekniği ile fikir yürütmeleri istenir. Bu fikirler doğrultusunda astronominin temel konusunun ne olabileceği sınıfça tartışılır; tartışma esnasında söz kesmeme, etkin dinleme gibi etkili iletişim becerilerinin kullanılması sağlanır ( SDB2.1 , D14.1 ). Öğrenciler astronomiyi tanımlar. Öğretmen astronominin temel bilimlerden biri olduğunu, temel bilimlerin bilimsel düşünceye dayalı ve bilimsel çalışma yöntemleri ile uygulandığını vurgular. Astronominin bilimsel düşüncenin gelişimindeki rolü hakkında öğrencilerin merak ettiği konuları belirlemesi ve bu konulara ilişkin sorular sorması sağlanır ( E3.8 ). Öğrenciler Dünya ve Güneş’in yapısı, hareketi, uzay ve doğa olayları hakkında batıl inançların konu alındığı birkaç okuma metni okur. Öğrenciler, metindeki tarihsel dönemlerde ortaya konulmuş ve bilimsel yöntemle sınanmamış açıklama örneklerini ve bu açıklamalara dayanak oluşturan doğa olaylarını bilimsel açıklamalarla karşılaştırarak bilimsel düşüncenin nasıl geliştiğine ve astronominin bu süreçteki katkılarına ilişkin çıkarımlar yapar. Astronominin ilk gelişen temel bilim olduğu vurgulanarak bilimsel araştırma ve düşüncenin gelişiminde astronominin rolü açıklanır. Öğrencilerden öğrenme süreciyle ilgili öğrenme günlüğü yazmaları istenebilir.",
+    "AST.1.2.",
+    "Öğrencilerin astronominin doğuşu ve gelişiminin nedenleri konusunda varsayımda bulunmaları istenir. Öğrencilere astronominin doğuşuna ve gelişimine yönelik olayların yer aldığı bilgi kartları verilir. Öğrenciler bilgi kartlarında verilen olaylarda yer alan astronomik gözlemlerin ortak amacını tespit eder ( OB1 ). Gelgit olayı, gece ve gündüzün oluşumu, mevsimlerin oluşumu, Ay’ın evreleri, Güneş, Ay tutulmaları gibi örnek olaylar verilir. Bu olayların açıklanmasının insan yaşamına katkıları konusunda öğrencilerden beyin fırtınası tekniğiyle tahminde bulunmaları istenir. Öğrenciler doğayı, doğal olayları ve bir bütün olarak evreni anlayabilmek için astronomi biliminin önemine dair genellemelerde bulunur. Öğrencilerden astronominin doğuşu ve gelişiminin nedenleri ve astronominin önemi hakkında çıkış kartı veya yansıtıcı yazı istenebilir.",
+    "AST.1.3.",
+    "Öğrencilere astronomi tarihinde yer alan önemli bilim insanlarını (Aristoteles, Batlamyus, Abdurrahman es-Sûfî, El-Biruni, Nasîrüddin el-Tûsi, İbnü’ş-Şâtır, Uluğ Bey, Ali Kuşçu, Nicolaus Copernicus, Takıyüddin er-Râsıd, Tycho Brahe, Johannes Kepler, Isaac Newton, Caroline Herschel, Edwin Hubble vb.) ve bu kişilerin astronomi alanındaki çalışmalarını tanıtan bilgi kartları verilir. Öğrencilerin yaratıcı drama veya rol oynama gibi yöntemlerden biri ile bir bilim insanının hayatını, düşüncelerini, astronomiye katkılarını canlandırmaları istenir. Canlandırmadan bir hafta önce öğrenciler gruplara ayrılır ve her bir grup araştırmak istediği bir bilim insanını öğretmen rehberliğinde seçer. Öğrenciler seçtikleri bilim insanı hakkında güvenilir kaynaklardan bilgi toplar. Gruplar kendi içinde iş bölümü ve hazırlık yaparak her grup bir anlatıcı ve bir bilim insanı rolünü canlandıracak öğrenciyi seçer ( SDB2.2 ). Bilim insanının yaşadığı dönemi yansıtması açısından öğrencilere o dönemin kıyafetini giyebilecekleri ve makyaj yapabilecekleri ifade edilir. Gruplar, sunumlarını ele aldıkları bilim insanının yaşadığı döneme göre kronolojik bir sırayla gerçekleştirir. Sınıfın rol oynamaya uygun bir şekilde düzenlenmesine, rahat ve samimi bir ortamın oluşturulmasına dikkat edilir. Öğrencilerin sürece aktif katılımı ve eğlenerek öğrenmeleri desteklenir ( E2.5 , SDB1.2 , D3.4 , OB9 ). Etkinliğin sonunda öğrenciler sunumu yapılan bilim insanıyla ilgili merak ettikleri soruları saygı çerçevesinde o bilim insanıyla ilgili araştırma yapmış gruplara sorarlar ( E1.1 , E3.8 , D14.1 ). Öğrenciler öğretmenlerinin rehberliğinde beyin fırtınası, tartışma gibi öğretim yöntem ve teknikleri kullanarak astronomi biliminin tarihsel ilerlemesi ile bilimsel sürecin evrilmesi konusunda yorum yapar. Öğrencilerden öğrenme süreçlerinin gelişimini, süreçte zorlandıkları aşamaları ve bu zorlanma anlarında kendilerini nasıl motive ettiklerini değerlendirmeleri için öz değerlendirme formunu doldurmaları istenebilir. Performans görevi olarak öğrencilerden astronomi tarihinde yer alan bilim insanlarıyla ilgili açıklamalı tarih şeridi hazırlayıp sunmaları istenir. Öğrencilerin ortak çalışma sorumluluğunu üstlenmeleri sağlanır ( SDB2.2 ). Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "AST.1.4.",
+    "Öğrencilere astronomi temelli ve astronominin ilişkili olduğu bilim dallarına ait bilgileri içeren kurgusal bir okuma metni sunulur. Öğrencilerden metni incelemeleri istenir (OB1). Metinden yola çıkılarak öğrencilerin düşün-eşleş-paylaş tekniğiyle bilim dallarını belirlemeleri sağlanır. Astronomi biliminin ilişkili olduğu bilimlerin sistematik bir şekilde belirlenmesi sürecinde öğrencilerin farklı bakış açılarına saygı duymaları sağlanır ( E3.7 , D14.1 ). Öğrencilere astronomi ile ilişkili bilimlerin çalışma alanları (fizik, kimya, biyoloji, matematik, jeoloji, arkeoloji vb.) hakkında bilgi kartları verilir. Öğrencilerden astronominin bu bilim dallarından hangi çalışmalarda yararlanabileceği konusunda tahmin yürütmeleri istenir ve öğrenciye bu konuda dönüt verilir. Astronominin alt dallarının isimleri verilerek astronominin ilişkili olduğu bilim dalları ile astronominin alt dalları arasındaki ilişkilerden hareketle öğrencilerin astronominin alt dallarının çalışma alanlarını belirlemeleri sağlanır. Öğrencilerden bu ilişkileri göstermeleri için bilgi görseli hazırlamaları istenebilir. Öğrenmeler; tanılayıcı dallanmış ağaç, yapılandırılmış grid veya açık uçlu sorular ile değerlendirilebilir.",
+    "AST.1.5.",
+    "“Yaz ve kış mevsimlerinde gece ve gündüz süreleri nasıl değişir? Mevsimler neden oluşur? Ay evre gösterir mi? Ay neden evre gösterir? Ay yüzeyindeki kraterler neden oluşmuştur?” gibi sorulara gözlemsel veya kuramsal yöntemlerden hangisiyle cevap bulunabileceği konusunda nezaket kuralları çerçevesinde öğrencilerin tartışmaları istenir ( SDB2.1 , D14.1 ). Gözlemsel ve kuramsal yöntemler arasındaki farkın ayırt edilmesi sağlanır. Öğrencilerin gözlemsel ve kuramsal yöntemleri bir bütün olarak düşünmesi için öğrencilere bazı örneklerin yer aldığı bir metin verilir. Bu örnekler; Kepler’in Güneş sistemi ile ilgili teorilerini oluştururken Tycho Brahe’nin gözlemlerinden yararlandığı ve Newton’un Kepler yasalarını da kullanarak genel çekim yasasını matematiksel olarak oluşturduğu, Neptün’ün varlığının ve konumunun ilk defa Jean-Joseph Le Verrier tarafından matematiksel olarak tahmin edildiği sonrasında ise Johann Galle tarafından teleskopla gözlenerek ispat edildiği gibi bilgilerden oluşabilir. Bu örnekler üzerinden öğrenciler bilim insanlarının hangi çalışma yöntemini kullandığını tespit ederek sınıflandırır. Öğrenciler elde ettikleri bilgiler ışığında gözlem ve kuramın astronomi çalışmalarında birlikte kullanılmasının önemini yorumlar ( OB1 ). Gözlem ve kuramın astronomideki önemi açık uçlu sorular ile değerlendirilebilir.",
+    "AST.1.6.",
+    "Öğretmen elektromanyetik dalgalar ile ilgili bilgilendirme yapar. Gök cisimlerinin sıcaklığına, kimyasal yapısına veya geçirdiği fiziksel sürece göre elektromanyetik dalgalar yaydığı ve bazı dalgaların atmosfer tarafından soğrulduğu belirtilir. Bazı teleskopların atmosfer dışına yerleştirilmesi gerektiği vurgulanır. Gök cisimlerinden birine ait farklı dalga boylarından alınmış görüntüler sınıf ortamında öğrencilerle paylaşılır. Öğretmen, “Bu görüntülerin alınabilmesi için teleskopların hangi niteliklere sahip olması gerekir?” sorusu üzerinden bir tartışma başlatır ( SDB2.1 ). Öğrenciler topladığı ışığın niteliklerine göre teleskopların özelliklerini yaptıkları tartışmalar doğrultusunda belirler. Öğrenciler teleskopları belirledikleri niteliklere göre ayrıştırır. Öğretmenin rehberliğinde öğrenciler üç gruba ayrılır. Öğrencilere farklı optik teleskop türleri hakkında bilgi kartları verilir. Her grup bu optik teleskop türlerinden birini seçer ve öğrenciler seçtikleri optik teleskop türünü gök cisminden yayılan ışığın göze ulaşıncaya kadar izlediği yola, teleskopta kullanılan malzemeye ve teleskobun kullanım alanına göre sistematik bir şekilde tablo üzerinde gruplandırır ( E3.7 , OB1 ). Öğrencilerin teleskopların ışığı toplayan kısmı ve topladığı ışığın niteliği arasındaki ilişkiden yola çıkarak optik teleskopları; mercekli, aynalı ve katadioptrik olarak etiketlemeleri sağlanır ( E3.6 , SDB1.2 ). Son aşamada gruplar optik teleskopların avantajlarını ve dezavantajlarını belirlemek üzere araştırma yapar, elde ettikleri bilgileri kullanarak karşılaştırmalı bir poster veya dijital sunum hâlinde bu bilgileri sunar. Öğrencilerin öğrenme süreci yapılandırılmış grid ile değerlendirilebilir. Öğretmen, öğrencilerden performans görevi olarak grup çalışması veya bireysel çalışma şeklinde özgün teleskop tasarımıyla bir ürün ortaya koymalarını isteyebilir. Performans görevi öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "FBAB2. Sınıflandırma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1626"
+}

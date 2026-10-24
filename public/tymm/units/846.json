@@ -1,0 +1,72 @@
+{
+  "unitId": 846,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Spor Okulları - Kapsamlı Spor Eğitimi Dersi",
+  "title": "3. ÜNİTE: KIŞ SPORLARI",
+  "hours": "12",
+  "description": "Öğrencilerin kış sporlarına ilişkin temel kavramları öğrenmeleri, malzemelerin işlevlerini kavramaları ve güvenlik önlemleri hakkında bilgi edinmeleri hedeflenmektedir. Ayrıca öğrencilerin kış sporlarına özgü hareket becerilerini uygulamaları, bu becerileri geliştirmeleri ve farklı ortamlarda deneyimlemeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KSE.5.1",
+      "title": "Kış sporlarının tarihsel gelişimini ve genel kavramlarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KSE.5.2",
+      "title": "Seçilen kış sporlarında güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Seçilen kış sporlarına yönelik riskleri tanımlar.",
+        "b) Seçilen kış sporlarına yönelik önleyici tedbirler alır."
+      ]
+    },
+    {
+      "code": "KSE.5.3",
+      "title": "Seçilen kış sporlarına özgü hareketleri sergileyebilme",
+      "processComponents": [
+        "a) Seçilen kış sporlarına özgü hareket becerilerini algılar.",
+        "b) Seçilen kış sporlarına özgü hareket becerilerinin basamaklarını gösterir.",
+        "c) Seçilen kış sporlarına özgü hareket becerilerini farklı ortamlarda uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "beceri, dağ, denge, dikkat, gelişim, güvenlik, hız, kayak, kış sporu, koordinasyon",
+  "support": [
+    "Öğrencilere kış sporlarına yönelik görsel materyaller sunulabilir. Öğrencilerin zorlandığı kavramları öğrenebilmeleri için grup çalışmaları düzenlenebilir. Özellikle kavramları anlamakta zorlanan öğrenciler, daha hızlı öğrenen veya ileri düzeydeki öğrencilerle birlikte çalışarak kavramaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Kış sporları hakkında araştırmalar yapıp sınıfta sunum yapmaları beklenebilir. Olimpiyat sporcularının başarılarına ilişkin yazılı, görsel ve dijital materyalleri incelemeleri istenebilir. Öğrencilerin öğrendikleri bilgileri kullanarak kendi kış sporu oyunlarını tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu ünitenin öğrenme çıktıları; çalışma yaprakları, bütüncül dereceli puanlama anahtarı, kontrol listesi, öz, akran değerlendirme ve gözlem formları kullanılarak değerlendirilebilir. Öğrencilerin kış sporlarının kapsamını ve tarihsel gelişimini içeren çalışma yapraklarını doldurmaları sağlanabilir. Güvenlik amacıyla alınması planlanan tedbirler kontrol listesiyle karşılaştırılabilir. Öz, akran değerlendirme ve gözlem formları kullanılabilir. Öğrencilerin gelişimi, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrencilerden performans görevi olarak seçilen bir kış sporuna ilişkin temel kuralları, güvenlik önlemlerini ve uygulama aşamalarını içeren bir sunum hazırlamaları istenebilir."
+  ],
+  "teachingApplications": [
+    "KSE.5.1. Öğretmen, ders ortamına kış sporuna özgü malzemeler ile gelerek ya da bu malzemeleri görsel ve dijital kaynaklar aracılığıyla göstererek öğrencilerde merak uyandırır ( E.1.1 ). \"Bu spor branşında tarihsel gelişim nasıl olmuştur?\", \"Kış sporlarında kullanılan malzemeler ile teknoloji arasında nasıl bir ilişki vardır?\" vb. sorular sorularak beyin fırtınası tekniği ile kış spor branşları hakkında öğrencilerin cevapları alınır. Öğretmen kış sporlarının tarihçesini açıklar. \"Ülkemizde kış sporları nerelerde yapılıyor veya yapılabilir?\", \"Kış sporlarında ülkemiz uluslarası düzeyde hangi noktada?\" vb. sorular sorularak verilen cevaplar listelenir ( SDB1.1 ). Öğrenciler gruplara ayrılır, üzerinde kış sporları branşlarının yer aldığı bilgi kartları dağıtılır ( SDB2.2 ). Öğrencilerin kış sporlarına ait kavramları ve özellikleri belirlemeleri sağlanır. Öğrencilerden bu sporların yapıldığı ortamları (kar, buz vb.), kullanılan ekipmanları (kayak, paten, kask, baton, kızak vb.) bilgi kartlarını kullanarak açıklamaları istenir ( OB1 ). Öğrencilerin ulaştıkları bilgilerden yola çıkarak kış sporlarının kapsamını ve tarihsel gelişimini içeren çalışma yapraklarını doldurmaları sağlanabilir.",
+    "KSE.5.2. Seçilen kış sporlarına ilişkin ekipmanlar gösterilerek işlevlerini düşünmeleri istenir. Öğrencilere ekipmanların nasıl kullanılması gerektiği gösterilip güvenlik önlemleri üzerinde durulur. Seçilen kış sporlarında olumsuz hava koşulları, çarpışma, düşme, uygun olmayan ekipman gibi risklerin neler olabileceği belirlenerek kontrol listesi oluşturmaları istenir ( E3.4 , SDB3.3 ). Öğrencilerin görüşleri alındıktan sonra alıştırmalar, doğru kıyafet, ekipman kullanımı gibi konularda önleyici tedbirlerin alınması sağlanır. Alınan tedbirler kontrol listesiyle karşılaştırılabilir. Öğrencilere seçilen bir kış sporuna ilişkin temel kuralları, güvenlik önlemlerini ve uygulama aşamalarını içeren bir sunum hazırlamaları performans görevi olarak verilebilir.",
+    "KSE.5.3. Seçilen kış sporlarına ilişkin hareketler, öğretmen rehberliğinde görsel kaynaklar, örnek uygulamalar, gösterip yaptırma gibi yöntemlerle gösterilir ve pratik uygulamalarla desteklenir ( D3.4 ). Öğrencilere bu becerileri keşfetmeleri için başlangıç seviyesinde ipuçları verilir. \"Kayak yaparken nasıl bir pozisyon alırsınız?\", \"Dengeyi nasıl sağlayabilirsiniz?\" gibi sorularla öğrenciler düşünmeye teşvik edilir ( E3.2 ). Seçilen kış sporuna uygun kayma, denge sağlama, hız kontrolü gibi hareket becerilerini algılamaları sağlanır. Öğrencilerin seçilen kış sporuna ilişkin hareket becerilerini adım adım uygulamaları sağlanır ( E3.7 ). Öğretmen tarafından her aşamada geri bildirimler verilir. Uygulama sırasında öğrencilere \"Bu hareket sırasında hangi vücut bölgeleriniz aktif?\", \"Hareketi yaparken vücudunuz nasıl bir pozisyonda duruyor?\" gibi sorular sorularak beceri gelişimi için durumlarını değerlendirmeleri beklenir. Öğrencilerden hareket sırasında hissettikleri duyguları ifade etmeleri istenebilir ( SDB1.1 ). Serbest alanda seçilen kış sporlarına özgü beceriler geliştirilirken her adımda öğrencilerin zorlandıkları noktaları belirlemelerine ve daha iyi performans göstermelerini sağlamak amacıyla \"Bu adımı daha iyi yapabilmeniz için neyi değiştirmelisiniz?\" gibi sorular yöneltilerek geri bildirimler verilir ( SDB1.2 ). Seçilen kış sporlarına ilişkin hareket becerilerinin basamaklarını göstermeleri istenir. Her basamakta yeterli tekrar yapmaları sağlanır ( D3.1 ). Öğrencilere geri bildirimler verilerek öğrenciler zorlandıkları noktalarda desteklenir ve öğrencilerin başarıları vurgulanarak öz güvenleri güçlendirilir ( E1.5 ). Öğrencilerin seçilen kış sporuna yönelik hareket becerilerini farklı zeminlerde ve ortamlarda deneyimleyerek uygulamaları ve becerilerini geliştirmeleri sağlanır ( SDB3.1 ). Öğrencilerden çalışma sonrasında kullanılan malzemeleri ve ortamı temiz tutmaları beklenir ( D18.2 ). Bu süreçte öğrencilerin hareketleri gözlemlenerek bireysel geri bildirimler verilir ve hatalı uygulamalar düzeltilir. Öz, akran değerlendirme ve gözlem formları kullanılabilir. Öğrencilerin gelişimi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D18.2",
+      "D3.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.5",
+      "E3.2",
+      "E3.4",
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/846"
+}

@@ -1,0 +1,28 @@
+{
+  "unitId": 1611,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "3.Tema: Satranç Taşları Ve Hareketleri",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.3.1",
+      "title": ". Satranç taşlarını adlarına, başlangıç konumlarına ve hareket özelliklerine göre tanıyabilme. OOEST.3.2. Satranç tahtasının özelliklerinden ve taşların kendine özgü hareket kurallarından yola çıkarak kural dışı taş hareketlerini belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.3.3",
+      "title": "Satranç oyununda rakip oyuncunun taşını kurallara uygun alma yöntemlerini açıklayabilme. OOEST.3.4 . Satranç taşlarını hareket alanı, taşın değeri, konumu, şahın önemi gibi etkenleri göz önünde bulundurarak güçlerine göre sınıflandırabilme. a) Satranç taşlarının hareket alanından yola çıkarak taşların gücüne yönelik ölçütleri belirler. b) Satranç taşlarını güçlerine göre ayırır. c) Satranç taşlarını güçlerine göre sıralar. d) Satranç taşlarını güçlerine göre etiketler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1611"
+}

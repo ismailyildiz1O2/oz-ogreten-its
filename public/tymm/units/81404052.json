@@ -1,0 +1,106 @@
+{
+  "unitId": 81404052,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "52. ÜNİTE: TEKVANDODA TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "60",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.13.4.1",
+      "title": "Tekvandoda temel duruş tekniklerini açıklar",
+      "processComponents": [
+        "Mao-Seogi (Mao-Sogi) duruş tekniği üzerinde durulur.",
+        "Naranhi-Seogi (Narani-Sogi) duruş tekniği üzerinde durulur.",
+        "Ap-Seogi (Ap-Sogi) duruş tekniği üzerinde durulur.",
+        "Apkubi-Seogi (Apkubi-Sogi) duruş tekniği üzerinde durulur.",
+        "Dwitkubi-Seogi (Dutkubi-Sogi) duruş tekniği üzerinde durulur.",
+        "Beom-Seogi (Bom-Sogi) duruş tekniği üzerinde durulur.",
+        "Juchum-Seogi (Çucum-Sogi) duruş tekniği üzerinde durulur.",
+        "Hakdari-Seogi (Hakdari-Sogi) duruş tekniği üzerinde durulur.",
+        "Dwitkoa-Seogi (Dutkoa-Sogi) duruş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.13.4.2",
+      "title": "Tekvandoda temel duruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.13.4.3",
+      "title": "Tekvandoda elle yapılan atak tekniklerini açıklar",
+      "processComponents": [
+        "Kyorugide yapılan el atak tekniği üzerinde durulur.",
+        "Poomsaede, Jireugi (Çirigi) tekniği üzerinde durulur.",
+        "Poomsaede, Deungjumeog-Apchigi (Dıngjumok-Apçigi) tekniği üzerinde durulur.",
+        "Poomsaede, Mejumeok-Pyojeokchigi (Mejumok-Piyojokçigi) tekniği üzerinde durulur.",
+        "Poomsaede, Kaljebi (Kaljebi) tekniği üzerinde durulur.",
+        "Poomsaede, Palkup-Dollyo-Chigi (PalkupTolyo-Çigi) tekniği üzerinde durulur.",
+        "Poomsaede, Hansonnal-Mokchigi (Hansonnal-Mokçigi) tekniği üzerinde durulur.",
+        "Poomsaede, Batangson-Teokchigi (Batangson-Tokçigi) tekniği üzerinde durulur.",
+        "Poomsaede, Pyonson-Keutjireugi (Pyonson-Kıtçirigi) tekniği üzerinde durulur.",
+        "Poomsaede, Palkup-Yopchigi (Palkup-Yopçigi) tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.13.4.4",
+      "title": "Tekvandoda elle yapılan atak tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.13.4.5",
+      "title": "Tekvandoda ayakla yapılan atak tekniklerini açıklar",
+      "processComponents": [
+        "Ap-Chagi (Ap-Çagi) atak tekniği üzerinde durulur.",
+        "Baldeung-Chagi (Paldınk-Çagi) atak tekniği üzerinde durulur.",
+        "Dollyeo-Chagi (Tolyo-Çagi) atak tekniği üzerinde durulur.",
+        "Yeop-Chagi (Yop-Çagi) atak tekniği üzerinde durulur.",
+        "Naeryo-Chagi (Neryo-Çagi) atak tekniği üzerinde durulur.",
+        "Mireo-Chagi (Miro-Çagi) atak tekniği üzerinde durulur.",
+        "Bituro-Chagi (Bitro-Çagi) atak tekniği üzerinde durulur.",
+        "Dwi-Chagi (Dvi-Çagi) atak tekniği üzerinde durulur.",
+        "Bandaedollyeo-Chagi (Pandatolyo-Çagi) atak tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.13.4.6",
+      "title": "Tekvandoda ayakla yapılan atak tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.13.4.7",
+      "title": "Tekvandoda savunma tekniklerini açıklar",
+      "processComponents": [
+        "Arae-Makki (Are-Maki) savunma tekniği üzerinde durulur.",
+        "An-Makki (An-Maki) savunma tekniği üzerinde durulur.",
+        "Olgul-Makki (Olgul-Maki) savunma tekniği üzerinde durulur.",
+        "Sonnal-Momtong-Makki (Sonnal-Momton-Maki) savunma tekniği üzerinde durulur.",
+        "Sonnal-Arae-Makki (Sonnal-Are-Maki) savunma tekniği üzerinde durulur.",
+        "Sonnal-Olgul-Makki (Sonnal-Olgul-Maki) savunma tekniği üzerinde durulur.",
+        "Gawi-Makki (Gavi-Maki) savunma tekniği üzerinde durulur.",
+        "Geumgang-Makki (Kımgan-Maki) savunma tekniği üzerinde durulur.",
+        "Santeul-Makki (Santıl-Maki) savunma tekniği üzerinde durulur.",
+        "Oesanteul-Makki (Osantıl-Maki) savunma tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.13.4.8",
+      "title": "Tekvandoda savunma tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.13.4.9",
+      "title": "İzlediği veya katıldığı tekvando müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

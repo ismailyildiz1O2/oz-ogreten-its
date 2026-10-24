@@ -1,0 +1,49 @@
+{
+  "unitId": 1158,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: GİTARDA TEMEL AKORLAR",
+  "hours": "20",
+  "description": "Temada öğrencilerin gitarda temel akorları basarak çalabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.4.3.1",
+      "title": "Gitarda temel akorları uygulayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "akor",
+  "support": [
+    "Öğrencilere öğretmen rehberliğinde parmak açma ve esnetme ve çift tel üzerinde çalışmalar yaptırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere 7'li akorlar verilerek deneyimlemeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrendikleri akorları kullanarak kısa ve tanıdık bir çocuk şarkısını akor eşliklerini çalmaları istenebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.4.3.1",
+    "Öğrenciler, gitarlarını doğru şekilde tutarak ve oturma pozisyonlarına dikkat ederek çalışmaya başlarlar. Bu süreçte her öğrencinin çalgısına ve çalışmasına karşı sorumluluk bilinci geliştirmesi teşvik edilir ( E2.2 ). Öncelikle sol elin klavye üzerindeki pozisyonunu anlamak için parmak numaraları ve perde yerleşimleri hatırlatılır. Öğrenciler, doğru yerleşimi gözlemleyerek ve görsel materyallerden yararlanarak kendilerini yönlendirirler ( KB2.2 , OB4 ). Öğrenciler, parmaklarını rahatça yerleştirebilmek için boş tellerde hafif egzersizler yaparlar. Öğretmen, gitarın klavyesindeki temel akorları (do majör, sol majör ve la minör) tahtada veya görsellerle tanıtır. Her akor için parmak yerleşimleri ve basılması gereken teller açıklanır. Öğrenciler, önce hava havada elleriyle akor pozisyonlarını şekillendirme ile akorları deneyerek parmak kaslarını hazırlarlar. Bu aşamada güven duygusunun geliştirilmesi için öğrencilerin kendilerini rahat hissetmeleri sağlanır ve hata yapmanın doğal olduğu vurgulanır ( E2.4 ). Ardından öğrenciler, tek tek akor basarak doğru parmak yerleşimlerini kontrol ederler. Öğretmen, öğrencilerin ellerini gözlemleyerek gerektiğinde düzeltmeler yapar. Öğrenciler birbirlerini de gözlemleyerek iş birliği içinde çalışırlar ( SDB2.2 ). Parmakların klavyeye doğru açıda bastığından ve tellerin net bir şekilde ses çıkardığından emin olunur. Öğrenciler, planlı bir şekilde sırayla her bir akoru çalarak temiz ses elde etmeye çalışırlar ( D3.2 ). Akor değişimlerini kolaylaştırmak için öğretmen, la minör-do majör-sol majör gibi basit geçişler içeren bir akor sıralaması verir. Öğrenciler önce yavaş tempoda akorları değiştirerek pratik yaparlar. Öğrenciler, öğrendikleri akorları kullanarak basit bir ritimle çalma denemesi yaparlar. Önce dört vuruşluk basit bir ritim modeli öğretmen tarafından gösterilir ve öğrenciler bu modeli akorlarla uygulamaya çalışırlar. Öğrenciler performans görevi olarak öğrendikleri akorları kullanarak kısa ve tanıdık bir çocuk şarkısının akor eşliklerini çalmaları istenir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir. Öğretmen, öğrencilerin çaldıkları müzikte akor geçişlerinin düzgün olup olmadığını gözlemleyerek geri bildirim verir. Çalışma sürecinin ardından öğrenciler, öğrendikleri akorları günlük pratiklerinde nasıl kullanabileceklerini düşünerek küçük bir değerlendirme yaparlar. Öğretmen, her öğrencinin zorlandığı noktaları göz önünde bulundurarak bireysel önerilerde bulunur."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E2.4"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1158"
+}

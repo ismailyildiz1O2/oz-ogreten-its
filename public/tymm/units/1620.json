@@ -1,0 +1,30 @@
+{
+  "unitId": 1620,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "12.Tema: Satranç Kültürü",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.12.1",
+      "title": ". Satrancın ülkemizdeki gelişimine yönelik bilgi toplayabilme. a) Satrancın ülkemizdeki gelişimi hakkında bilgi toplayabileceği araçları belirler. b) Belirlediği araçları kullanarak satrancın gelişimine yönelik bilgilere ulaşır. c) Ulaştığı bilgileri doğrular. d) Satrancın ülkemizdeki gelişimiyle ilgili ulaştığı bilgileri kaydeder. OOEST.12.2. Türkiye’den ve dünyadan seçilen birer satranç şampiyonu hakkında belirlenen ölçüte göre güvenilir kaynaklardan bilgi toplayabilme. a) Seçilen satranç şampiyonları hakkında araştırma yapacağı kaynakları belirler. b) Belirlediği kaynakları kullanarak bilgilere ulaşır. c) Kullanacağı kaynakların bilgi edineceği konuya uygunluğunu açıklar. d) Kullandığı kaynaklardan satranç şampiyonları ile ilgili edindiği bilgileri kaydeder",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.12.3",
+      "title": "Satranç oyununda edindiği bilgileri öğretmen denetimli ve güvenli çevrimiçi ortamlarda uygulayabilme. a) Satranç oyunu hakkında edindiği bilgileri öğretmen denetimli ve güvenli çevrimiçi ortamlarda uygulayabileceği araç ve teknolojileri belirler. b) Belirlediği araç ve teknolojileri kullanır. c) Kullandığı araç ve teknolojilerin oyun kazanma ve pratik yapmaya yönelik verimliliğini değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "satranç tarihi, şampiyon oyuncular, çevrimiçi satranç",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB1. Bilişim Teknolojilerini Kullanma (BTYAB1.2. Bilişim Teknolojileri ile Çalışma) SBAB2. Kanıta Dayalı Sorgulama ve Araştırma (SBAB2.2. Kaynaklardan Bilgi Toplama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1620"
+}

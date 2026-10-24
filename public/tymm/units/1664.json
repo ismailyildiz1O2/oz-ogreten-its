@@ -1,0 +1,86 @@
+{
+  "unitId": 1664,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "İslam Bilim Tarihi Dersi",
+  "title": "2. Ünite: İslam Biliminde Kurumsallaşma Ve İhtisaslaşma",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "İBT.2.1",
+      "title": "Yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumu ile ilgili kaynağı yorumlayabilme",
+      "processComponents": [
+        "a) Yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumu ile ilgili kaynağın içeriğini inceler.",
+        "b) Yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumu ile ilgili görüşlerini bağlamdan kopmadan dönüştürür.",
+        "c) Yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumunu anlamı değiştirmeyecek şekilde kendi ifadeleriyle yeniden yorumlar."
+      ]
+    },
+    {
+      "code": "İBT.2.2",
+      "title": "İslam dünyasında ilk medreselerin kuruluş nedenlerini sorgulayabilme",
+      "processComponents": [
+        "a) Medrese kavramını tanımlar.",
+        "b) İslam dünyasında ilk kurulan medreseler hakkında sorular sorar.",
+        "c) İslam dünyasında ilk kurulan medreseler hakkında bilgi toplar.",
+        "ç) İslam dünyasında ilk kurulan medreseler ile ilgili toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) İslam dünyasında ilk kurulan medreseler ile ilgili toplanan bilgiler üzerinden çıkarımlar yapar."
+      ]
+    },
+    {
+      "code": "İBT.2.3",
+      "title": "İslam bilim tarihinde gözlem ve deneye yönelimi tarihsel bağlamsallaştırma ile değerlendirebilme",
+      "processComponents": [
+        "a) İslam bilim tarihinde gözlem ve deneye yönelimi kanıtlara dayalı olarak analiz eder.",
+        "b) İslam bilim tarihinde gözlem ve deneye yönelimin başladığı dönemin koşullarını fark eder.",
+        "c) İslam bilim tarihinde gözlem ve deneye yönelimin başladığı koşullar ile günümüz koşullarını karşılaştırır.",
+        "ç) İslam bilim tarihinde gözlem ve deneye yönelimi ait olduğu dönemin koşulları içerisinde açıklar."
+      ]
+    },
+    {
+      "code": "İBT.2.4",
+      "title": "İslam dünyasında gök bilimi, matematik, fen, sağlık bilimleri ve sosyal bilimler alanında yapılan çalışmaları yorumlayabilme",
+      "processComponents": [
+        "a) İslam dünyasında gök bilimi, matematik, fen, sağlık bilimleri ve sosyal bilimler alanında yapılan çalışmaları inceler.",
+        "b) İslam dünyasında gök bilimi, matematik, fen, sağlık bilimleri ve sosyal bilimler alanında yapılan çalışmaları bağlamından koparmadan kendi ifadeleriyle dönüştürür.",
+        "c) İslam dünyasında gök bilimi, matematik, fen, sağlık bilimleri ve sosyal bilimler alanında yapılan çalışmaların önemini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "İBT.2.5",
+      "title": "İslam dünyasında yapılan teknik ürünlerle ilgili analojik akıl yürütebilme",
+      "processComponents": [
+        "a) İslam dünyasında yapılan teknik ürünlerle ilgili kaynakları ve örneklerin durumunu gözlemler.",
+        "b) İslam dünyasında yapılan teknik ürünlerin niteliklerini tespit eder.",
+        "c) İslam dünyasında yapılan teknik ürünlerin günümüzdeki benzerleri ile ilgili çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "Beytülhikme, deney, gök bilimi, gözlem, ihtisaslaşma, kurumsallaşma, medrese, teknik, usturlap",
+  "support": [
+    "Öğrencilerden grup çalışması yoluyla mekanik alanında çalışmalar yapan Benî Musa Kardeşlerin çalışmalarından oluşan görsel sunu hazırlamaları ve paylaşmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden tercüme eserlerden Dioskorides’in Materia Medica adlı eserinin İslam dünyasında tıp ve eczacılık alanındaki çalışmalara katkısını araştırmaları, eserdeki bitkilerin hangi hastalıkların tedavilerinde kullanıldığını görsellerle destekleyerek yazılı, görsel ya da dijital olarak sunmaları istenebilir.",
+    "Kimya alanında çalışmalar yapan ve kimyanın kurucularından kabul edilen Ebu Bekir Razi’nin deneysel çalışmalarını araştırmaları ve bu araştırmaların bilim dünyası açısından önemini yazılı, görsel ya da dijital olarak sunmaları istenebilir. Öğrencilerden Ay’daki kraterlere verilen Türk isimlerini araştırmaları ve sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, çalışma yaprağı, öz değerlendirme formu, Frayer di yagramı,doğru-yanlış, eşeleştirme, sözlü sunum, kontrol listesi, gözlem formu ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak İslam bilim tarihinde sosyal bilimler ile matematik, fen, gök bilimi ve sağlık bilimleri alanında yapılan çalışmalardan birisini seçerek araştırma yapmaları ve bu çalışmayı sınıf ortamında sunmaları istenebilir. Performans görevi; bilgi toplama, rapor etme, çalışmanın yorumlanması, görsel materyal kullanımı, sunum yapma ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "İBT.2.1",
+    "VIII-IX. yüzyıllarda İslam dünyasında ihtisaslaşma ve kurumsallaşma ile ilgili olarak yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumuna yönelik bilgi edinebilmeleri için öğrencilere kaynak metinler verilir ve bu metinlerin öğrencilerce incelenmesi sağlanır ( SDB2.2 ) . Verilen kaynak metinlerin incelenmesi sonucu ulaşılan bilgilerle kültürel bir değişimin yaşanması, tarım eksenli yeni bir iktisadi modelin oluşturulması, yeni devlet yapılanmasında vezirlik kurumunun oluşturulması ve halifenin yetkilerinin paylaşımı ile ilgili örnekler üzerinde durulur ( OB1 ) . Yeni yapılanma ile birlikte Abbasi halifelerinin bilim ve sanatı himaye etmelerine, ilim merkezleri kurmalarına, tercüme hareketlerini desteklemelerine odaklanmaları sağlanır ( E3.2 ) . İncelediği kaynak metinlerden hareketle yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumunun nedenlerini yorumlamaları istenir. Halife Mansur, Halife Harun Reşid, Halife Memun ve Bermeki ailesinin çalışmalarını verilen kaynak metinler üzerinden incelemeleri istenir. Bu sayede Halife Mansur’un kütüphanesini ve tercüme hareketlerini başlatmasını, Halife Harun Reşid’in Hizanetülhikme’sini (Hikmet Hazineleri), Halife Memun’un Beytülhikme’sini (Bilgelik Evi), Bermeki ailesinin kitap kültürünün oluşumuna katkısını fark etmeleri sağlanır ( OB5 ) . Verilen kaynak metinlerden elde ettikleri VIII-IX. yüzyıllarda İslam dünyasında yeni siyasi, iktisadi, kültürel yapılanma ve ilim merkezlerinin oluşumuna ait bilgileri bağlamından koparmadan yorumlamaları istenir ( E3.10 , D3.4 , D16.3 ) . Süreç, açık uçlu sorular, doğru yanlış etkinliği ve kontrol listesi ile değerlendirilebilir.",
+    "İBT.2.2",
+    "Öğrencilerden medrese kavramını yazılı ve dijital sözlüklerden bularak tanımlamaları istenir ( OB1 , OB2 ) . İslam dünyasında vakıflara bağlı kurulan medreselerin amaçları ve eğitim yöntemleri ile ilgili soru sorularak tartışma ortamı oluşturulur ( SDB2.1 ) . Tartışma sırasında birbirlerine saygılı olmaları, düşüncelerinde açık fikirli olmaları beklenir ( D14.2 , E3.5 ) . Medreselerle ilgili verilen yazılı ve görsel kaynakları incelemeleri sağlanır ( OB1 , OB4 ) . Grup çalışması yoluyla medreselerle ilgili merak ettikleri konular hakkında sorular sormaları ve bu soruları cevaplamaları istenir ( E1.1 , E3.8 , SDB2.2 ) . Cami merkezli oluşturulmuş eğitim kurumlarından Kayrevan ve Karaviyyîn ile ilk kurulan Nizamiye Medreseleri ve Müstansıriyye Medresesine yönelik yazılı, dijital ve görsel kaynaklardan bilgi toplamaları istenir ( OB1 , OB2 , OB4 ) . Toplanan bilgilerin doğruluğunu farklı kaynaklardan değerlendirmeleri ve beyin fırtınası yoluyla ilk medreselerin kuruluşu ile ilgili çıkarımda bulunmaları beklenir ( E3.10 , KB2.10 ) . Süreç, kontrol listesi ile değerlendirilebilir.",
+    "İBT.2.3",
+    "Öğrencilere “Bilimsel çalışmaların değişmeyen unsurları nelerdir?” sorusu sorularak öğrencilerden bu soruyu sözlü olarak cevaplamaları istenir ( SDB2.1 ) . Kâinatı keşfetmek için zamana, mekâna, gökyüzüne, tabiata ve insana dair ölçülebilir verilere ulaşmaya çalışan bilim insanlarının gözlem ve deneyi bilimin bileşenleri olarak kabul ettiklerini, İslam biliminin başlangıcından beri gözlem ve deneyin önemsendiğini verilen kaynaklar üzerinden öğrencilerin fark etmeleri sağlanır. Namaz vakitlerinin belirlenmesi için doğal saat olan Güneş saatlerinin kullanıldığını, gece ve gündüzün ayrı ayrı on iki saate bölündüğünü ancak mevsimlere göre gece ve gündüz süresinde saat farkı olduğunu anlamaları için İbrahim Fezari ve Yakub bin Tarık’ın çalışmalarından faydalanıldığını kavramaları sağlanır. Halife Memun Dönemi’nde gözleme dayalı olarak hazırlanan dünya haritasını incelemeleri ve harita üzerinde bildikleri bölgeleri gösterip isimlerini yazmaları istenir ( SBAB10.3 ) . Halife Memun Dönemi’nde hazırlanan dünya haritası ile günümüz dünya haritasının benzer ve farklı yönlerini karşılaştırmaları sağlanarak karşılaştırma tablosu oluşturmaları istenir ( KB2.7 ) . Öğrencilere Kereci’nin yüzey ölçümlerine ilişkin gözlem tüpü çalışması inceletilir, gözlem sonuçlarını açıklamaları beklenir ( E3.5 ) . Süreç ise açık uçlu sorular ve kontrol listesi ile değerlendirilebilir.",
+    "İBT.2.4",
+    "Öğrencilerden bildikleri yıldız isimlerini listelemeleri istenir. Günümüzde bilinen birçok yıldız isminin Müslüman gök bilimcileri tarafından verildiği vurgulanır. Öğrencilerin Şemmâsiye ve Kasiyûn Rasathanelerinde yapılan faaliyetleri inceleyerek İslam dünyasındaki rasathanelerin kuruluşu ve gök bilimi çalışmalarını fark etmeleri sağlanır. İslam dünyasında erken dönem gök bilimi çalışmaları ile tanınan Harizmi, Huneyn bin İshak, Abdurrahman Sufi ve Abdurrahman Hazini’nin çalışmalarını verilen kaynaklar üzerinden incelemeleri ve bunlardan çıkarımda bulunmaları sağlanır ( SBAB2.5 , KB2.10 ) . Bu Müslüman bilim insanlarının gök bilimi çalışmalarında daha hassas sonuçlara ulaşmak için gözlem yöntem ve araçlarını geliştirdikleri vurgulanır. Öğrencilerin Müslüman gök bilimcilerinin adlandırdıkları yıldızların isimlerini araştırmaları, elde ettikleri verileri bilgi görseli ve tarih şeridine dönüştürerek okul/sınıf panosunda sergilemeleri sağlanır ( D3.4 ) . Öğrencilerin araştırmaları sonucunda bilim insanlarının çok yönlü bilimsel çalışmalar yaptıklarını fark etmeleri sağlanır. Öğrencilerden matematik ve fen bilimlerinin günlük hayata yansımaları ile ilgili örnekler vermeleri istenir. Öğrencilerden matematik alanında Harizmi’nin Kitâbü’l-Muhtasar fî Hisâbi’l-Cebr ve’l-Mukâbele (Sade Anlatımlı Cebir ve Denklem Hesapları Kitabı), kimya alanında Cabir bin Hayyan’ın Havâssü’l-Kebîr (Büyük Tanımlar Kitabı), fizik alanında İbnülheysem’in Kitâbü’l-Menâzır (Optik Kitabı), biyoloji alanında İbnünnefis’in Mûcez fi’t-Tıb (Tıbbın Özü) eserlerini verilen kaynak metinler üzerinden incelemeleri ve tarihsel bağlamda yorumlamaları istenir ( E3.2 , KB2.10 ) . Öğrencilerden fizik biliminden yararlanarak İbnülheysem’in ışığın kırılması deneyini katılımlı öğrenme yöntemi ile yapmaları, deneyden çıkarımda bulunmaları, çalışmaları sırasında sorumluluk almaları ve deneyin sonuçlarını açıklamaları istenir ( SDB2.2 , FBAB7 , D16.3 ) . İbnülheysem’in karanlık oda deneyini yapmaları ve deneyi öz değerlendirme formu ile değerlendirmeleri sağlanır. Öğrencilerden Galen’in kan dolaşımı görüşüne eleştiri getiren İbnünnefis’in küçük kan dolaşımı çalışması ile William Harvey’nin (Vılyim Harvi) kan dolaşımı çalışmalarını görseller üzerinden karşılaştırmaları, sonuçlarını yazılı olarak ifade etmeleri istenir ( OB1 , KB2.7 ) . Öğrencilerden tıp ve sağlık hizmetlerinde tedavi yöntemlerinin neler olduğu konusunda vızıltı grupları tekniği kullanılarak fikir üretmeleri istenir ( SDB2.2 , SBAB5.3 ) . İbni Sina ve İbnülbaytar’ın tıp ve eczacılık alanındaki çalışmalarını verilen örnekler üzerinden incelemeleri ve düşüncelerini ifade etmeleri, ifade edilen düşünceleri saygılı bir şekilde dinlemeleri beklenir ( SDB2.1 , D14.1 ) . Öğrencilerden 600 yıl boyunca tıp dünyasının otoritesi kabul edilen İbni Sina’nın ve tıp dünyasının temel kaynağı kabul edilen El-Kânûn fi’t-Tıbb adlı eserinin sağlık bilimlerine etkisini verilen kaynak metin ve görsellerden inceleyerek yorumlamaları istenir (OB1). İbnülbaytar’ın el-Müfredât (Bitkiler ve İlaçlar Sözlüğü) adlı eserindeki bitkilerin sınıflandırılmasına, alfabetik kataloglanmasına, hastalıklara göre etkilerinin belirlenmesine ve böylece farmakolojinin temellerinin oluşturulmasına öğrencilerin odaklanması sağlanır ( E3.2 ) . Bu incelemeler sonucunda bilim insanlarının çok yönlü bilimsel çalışmalar yaptığını öğrencilerin fark etmeleri sağlanır. Süreç; dereceli puanlama anahtarı, çalışma yaprağı ve gözlem formu ile değerlendirilebilir. Performans görevi olarak İslam bilim tarihinde sosyal bilimler ile matematik, fen (özellikle fizik, kimya ve biyoloji), gök bilimi ve sağlık bilimleri alanında yapılan çalışmalardan birisini seçerek araştırma yapmaları ve sınıf ortamında sunmaları istenebilir. Performans görevi; bilgi toplama, rapor etme, çalışmanın yorumlanması, görsel materyal kullanımı, sunum yapma ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerden “İslam bilim düşüncesinin temel kaynakları neler olabilir?” sorusunu cevaplamaları istenir. Öğrencilerden sosyal bilimlerle ilgili Kindi ve Farabi’nin felsefe, Taberi’nin tarih, İbnünnedim’in fihrist, Mesudi’nin coğrafya çalışmalarını, İbni Haldun’un ise yeni metot arayışlarını ve umrân kavramını evrensel etkileriyle birlikte verilen kaynak metinler üzerinden incelemeleri ve bunlardan çıkarımda bulunmaları sağlanır ( KB2.10 ) . Öğrencilerden İslam dünyasında sosyal bilimler alanında yapılan çalışmaları bağlamından koparmadan kendi ifadeleriyle kısa, sade ve anlaşılır bir metne dönüştürerek öğrenme günlüğü şeklinde sunmaları ve değerlendirmeleri istenir ( D3.4 , D16.3 , OB2 ) .",
+    "İBT.2.5.",
+    "Öğrencilerin İslam dünyasında yapılan teknik ürünlerle ilgili araştırma yapabilmesi için verilen yazılı, dijital ve görsel kaynakları grup çalışması yoluyla incelemeleri sağlanır ( OB1 , OB2 , OB4 , SDB2.2 ) . Öğrenciler; Halife Memun Dönemi’nde bilimsel çalışmalar yapan Benî Musa Kardeşler’e ait şaşırtmalı kapların, sönmeyen kandilin, sıcak ve soğuk suyu sıra ile veren otomatın çalışma prensiplerini tespit eder ( OB1 ) . Öğrencilerden rol yapma tekniğini kullanarak Benî Musa Kardeşler’in çalışmalarını niçin yaptıklarını söylemeleri istenebilir. Öğrencilerin Benî Musa Kardeşler’in yaptığı aletlerin görsellerini incelemeleri ve çalışma prensipleri hakkında yorum yapmaları istenir ( OB4 ) . Öğrencilerin akvaryum tekniğini kullanarak Benî Musa Kardeşler’in buluşları ile ilgili tartışma yapmaları ve öğrencilerden tartışmanın sonuçlarını yazmaları istenir ( SDB2.1 ) . Tartışmaları sırasında birbirlerinin fikirlerine saygı ve nezaket göstermeleri, açık fikirli olmaları sağlanır ( D14.1 , E3.5 ) . Askerî teknolojilerin gelişimiyle ilgili Memlüklü silah ustası Hasan Rammah’ın çalışmalarını ve İslam dünyasında kullanılan tıbbi ve cerrahi aletlerin çeşitliliğini kaynak metinler üzerinden öğrencilerin incelemeleri sağlanır. Öğrencilerden bunların günümüzdeki benzerleri ile ilgili çıkarımda bulunmaları istenir ( D16.3 ) . Süreç; açık uçlu sorular, eşleştirme ve gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB3. Tarihsel Empati (SBAB3.1. Tarihsel Bağlamsallaştırma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1664"
+}

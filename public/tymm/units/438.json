@@ -1,0 +1,143 @@
+{
+  "unitId": 438,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "4. ÜNİTE: SESİN DÜNYASI",
+  "hours": "18",
+  "description": "Bu ünitede sesin maddesel ortamda yayılma hızının sınıflandırılması, sesin frekansına göre ince veya kalın olarak işitilmesine neden olan ses özellikleri ile ilgili deney yapılması, sesin günlük yaşama etkilerinin açıklanması amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Sesin Oluşumu ve Yayılması",
+      "processComponents": []
+    },
+    {
+      "code": "FB.8.4.1.1",
+      "title": "Sesin oluşumuna yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Sesi oluşturan nitelikleri tanımlar.",
+        "b) Sesin oluşumuna ilişkin topladığı verileri kaydeder.",
+        "c) Sesin titreşim sonucunda oluşarak dalgalar halinde yayıldığına yönelik değerlendirme yapar."
+      ]
+    },
+    {
+      "code": "FB.8.4.1.2",
+      "title": "Sesin yayılabildiği ortamlara yönelik deney yapabilme",
+      "processComponents": [
+        "a) Sesin yayılabildiği ortamlar ile ilgili deney yapar.",
+        "b) Aynı sesin farklı ortamlarda farklı duyulması ile ilgili gözlem yaparak elde edilen verileri analiz eder."
+      ]
+    },
+    {
+      "code": "FB.8.4.1.3",
+      "title": "Sesin frekansına göre ince veya kalın olarak işitilmesine neden olan ses özellikleri ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Çevresindeki seslerin, ince ve kalın işitilmesine neden olan özellikleri ile ilgili deney yapar.",
+        "b) Deney ile ilgili ölçme yaparak elde edilen verileri analiz eder. 2. Bölüm: Sesin Madde İle Etkileşimi"
+      ]
+    },
+    {
+      "code": "FB.8.4.2.1",
+      "title": "Ses ile ilgili değişkenlerin işitmeye etkisi hakkında hipotez oluşturabilme",
+      "processComponents": [
+        "a) Ses kaynağından uzaklık ile ses şiddetinin işitmeye etkisi hakkında problemi tanımlar.",
+        "b) Ses kaynağından uzaklık ile ses şiddetinin işitmeye etkisi ile ilgili neden sonuç ilişkilerini belirler.",
+        "c) Ses kaynağından uzaklık ile ses şiddetinin işitmeye etkisini araştırmaya yönelik değişkenleri belirler.",
+        "ç) Ses kaynağından uzaklık ile ses şiddetinin işitmeye etkisini araştırmaya yönelik değişkenleri kontrol eder.",
+        "d) Ses kaynağından uzaklık ile ses şiddetinin işitmeye etkisine ilişkin önerme sunar."
+      ]
+    },
+    {
+      "code": "FB.8.4.2.2",
+      "title": "Farklı maddeler ile etkileşimi sonucunda sesin iletilmesi, yansıması ve soğurulmasına ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Sesin iletilmesi, yansıması ve soğurulmasını tanımlar.",
+        "b) Sesin iletilmesi, yansıması ve soğrulmasına ilişkin veri toplar ve kaydeder.",
+        "c) Akustik uygulamalarının sesin özellikleri ile ilişkili olduğunu değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.8.4.2.3",
+      "title": "Ses kirliliğini önlemeye yönelik bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Ses kirliliğinin canlılara etkisine ilişkin soru veya problem tanımlar.",
+        "b) Sorusunu/problemini cevaplamada kullanabileceği ses kirliliğini önlemeye yönelik bir fikir/model geliştirir.",
+        "c) Ses kirliliğini önlemeye yönelik araştırma planlayarak gerçekleştirir.",
+        "ç) Ses kirliliğini önlemeye yönelik fikir/modelle ilgili verileri analiz ederek yorumlar.",
+        "d) Ses kirliliğini önlemeye yönelik fikir/modelle ilgili kanıta dayalı açıklama yaparak çözüm üretir.",
+        "e) Ses kirliliğini önlemeye yönelik bilgiyi değerlendirerek paylaşır."
+      ]
+    }
+  ],
+  "keyConcepts": "ses oluşumu, titreşim, ses kaynağından uzaklık, ses şiddeti, işitme kaybı, yalıtım, ses kirliliği, akustik, hertz, frekans",
+  "support": [
+    "Öğrencilerin bireysel ilerlemelerine olanak tanıyan animasyon, simülasyon gibi dijital öğrenme araçları kullanılabilir. Günlük yaşamdan kolay ulaşılabilir çeşitli malzemelerle öğrencilerin ek etkinlikler yapmaları sağlanarak konu somutlaştırılabilir. Deney aşamaları için ek açıklamalar ve yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin Graham Bell, Thomas Edison gibi ses konusunda çalışmalar yapmış bilim insanlarını ve onların ses ile ilgili yaptığı çalışmaları araştırmaları ve paylaşmaları sağlanabilir. Farklı yükseklik ve şiddette sesler oluşturabilecekleri bir müzik aleti tasarlamaları istenebilir. Balina, yunus ve yarasa gibi canlıların avlarının yerlerini sesin yansıma özelliğinden yararlanarak nasıl tespit ettiği araştırma ödevi olarak verilebilir. Mühendislik ve tasarım döngüsüne uygun bir şekilde sesin yansıma özelliğinden yola çıkılarak görme engelliler için bir araç tasarlamaları istenebilir. Hayalet uçakların radara nasıl yakalanmadığı konusunda araştırma yapmaları istenebilir. Öğrencilere ses kirliliğinin suda, havada veya karada yaşayan canlı türlerine etkilerine ilişkin araştırma yaptırılabilir. Araştırma sonuçlarıyla ilgili görsel ve yazılardan oluşan okul panosu/gazetesi vb. hazırlatılabilir (Türkçe)."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma yaprağı, V diyagramı, performans görevi ve öğrenci ürün dosyası kullanılabilir. Ses kaynaklarına yönelik gözlem sürecini değerlendirmek üzere çalışma yaprağı kullanılabilir. Ses kaynağının uzaklığının ve ses şiddetinin işitmeye etkisini belirlemek için hazırlanan deney, V diyagramı ile değerlendirilebilir. Ses kirliliğini önlemeye yönelik süreci de kanıta dayalı çözüm önerilerini değerlendirmek amacıyla performans görevi olarak öğrencilerden poster ya da sunum hazırlaması istenebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir. Öğrencilerin farklı cisimlerde oluşturulan sesin farklı duyulmasına ilişkin müzik aleti tasarlamaları için performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.8.4.1.1. Öğrencilerin istedikleri bir müzik aletini sınıf ortamına getirmeleri istenebilir. Çeşitli müzik aletlerini (saz, davul, flüt vb.) kullanarak sesin oluşumuna yönelik gözlem yapmaları sağlanır ( SDB1.2 , E2.5 ) . Sınıf veya laboratuvar ortamında olabildiğince sessiz bir ortam oluşturularak öğrencilerin dışarıdan duydukları seslerin oluşumunu tartışmaları sağlanır. Öğrencilerden sınıf, okul, okul bahçesi ve doğa gibi ortamlarda çeşitli ses kaynaklarını belirlemeleri istenir ( SDB1.2 ) . Böylelikle sesin oluşumuna ilişkin birden fazla ses kaynağını fark etmeleri sağlanır. Öğrencilerin sırasıyla çevrelerindeki cetvel, masa, sıra, kapı gibi cisimlere vurarak veya cisimleri tıklatarak ses oluşturmaları için yönlendirilir ( KB2.2 , SDB1.2 ) . Sınıf veya laboratuvar ortamında bir kabın içerisine (pet şişe, kova vb.) su doldurularak belirli bir yükseklikten damlalık ile kaba su damlatılarak yüzeyinde meydana gelen dalgalanmanın öğrenciler tarafından gözlemlenmesi sağlanır. Öğrencilerden gözlemleri sonucunda birden fazla ses kaynağının ses oluşturmadaki ortak niteliklere ait verileri kaydetmeleri istenir ( E3.2 ) . Gözlemlerinden yola çıkarak sesin titreşim sonucu oluştuğu ve dalgalar halinde yayıldığına yönelik değerlendirme yapmaları sağlanır. Değerlendirme esnasında öğrenci, fikirlerini özgürce ifade edebilmesi sağlanır ( KB2.10 , SDB1.2 , D11.3 ) . Değerlendirmek için çalışma kâğıtları kullanılabilir.",
+    "FB.8.4.1.2 Öğrencilerin sesin yayıldığı ortam ile ilgili ön öğrenmelerini açığa çıkarmak için açık uçlu sorular sorulabilir. Fârâbî'nin ses dalgaları ile ilgili yaptığı çalışmalardan bahsedilerek öğrencilerde merak uyandırılır ( E1.1 ) . Öğrencilere \"Ses dalgaları her ortamda yayılır mı?\", \"Güneşte gerçekleşen patlamaları duyabiliyor muyuz?\" vb. günlük hayatla ilişkili sorular sorularak tartışmaları ve grup içerisinde sesin yayılması ile ilgili değişkenleri tahmin etmeleri istenir ( SDB3.3 , OB1 ) . Öğrenciler gruplara ayrılır. Gruplara özdeş ses kaynağı verilerek, sesin katı, sıvı ve gaz ortamlarda yayılmasına ilişkin deney yaparak gözlem yapmaları istenir ( KB2.7 , KB2.2 ) . Öğrenciler gruplara ayrılarak grup içinde farklı roller almaları ve görev bilinciyle yardımlaşmaları istenir ( D20.4 , D3.4 ) . Grup içerisinde görev dağılımı yapılarak sesin yayılmasını etkileyen faktörleri araştırmaları istenebilir ( D16.3 ) . Öğrencilerin topladıkları verileri değerlendirerek sesin yayılabilmesi için maddesel ortama ihtiyaç duyulduğu çıkarımını yapmaları beklenir ( OB7 , KB2.10 ) . Sesin yayılabilmesi için maddesel ortamın gerekliliği vurgulanarak sesin boşlukta yayılmadığına değinilir. Benzer şekilde uzayda madde yoğunluğunun çok az (eser düzeyde) olmasından dolayı Güneş'ten gelen patlama seslerinin duyulmadığı ifade edilir. Ses kaynağının bulunduğu ortamın değişmesinin duyulan sesi etkilediğinden bahsedilir. Sesin maddesel ortamda yayılmasına yönelik güvenli dijital içerikler, sanal laboratuvarlar vb. üzerinden etkinlikler yapılır ( OB2 ) . Öğrenme çıktıları eşleştirme testi, tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ile değerlendirilebilir.",
+    "FB.8.4.1.3 Öğrencilerden kedi ve aslanın çıkardıkları sesleri ve bu seslerin arasındaki farkı düşünmeleri istenir. Öğrenciler gruplara ayrılarak her gruba ksilofon, gitar, saz, flüt vb. müzik aletleri verilebilir ve bu müzik aletlerinden çıkan sesleri incelemeleri istenebilir. Çeşitli müzik aletleriyle oluşturulan besteler dinletilerek öğrencinin hangi sesin hangi enstrümana ait olduğunu tahmin etmelerine yönelik etkinlik yapılarak ya da orkestra müziği dinletilerek müzik aletinden çıkan seslerin farklılığını gözlemlemeleri istenir ( OB9 ) . Öğrencilerin gözlem sonuçlarını arkadaşları ile paylaşmaları sağlanarak farklı kaynaklarda üretilen seslerin titreşimlerinin de farklı olduğuna değinilir ( D20.1 ) . Öğrenciler gruplara ayrılarak sesin ince ve kalın duyulmasına ilişkin deney düzeneğini kurabilmeleri için uygun ortam ve malzemeler sağlanır ( SDB1.2 ) . Öğrencilerden aynı kaynaktan çıkan seslerin, ince ve kalın işitilmesine neden olan özellikleri ile ilgili deney tasarlamaları istenir. Deney tasarımında kullanılan malzemeye göre sesin frekansının değişimine yönelik kullanılan araca vurma veya üfleme işlemleri yaptırılabilir. Deney sonucunda elde edilen verileri açıklayarak seslerin ince ve kalın duyulmasını sağlayan ses özelliğinin frekans olduğunu tanımlanır ( KB2.7 ) . Frekans biriminin hertz olduğu belirtilir. Müzik aletlerinin ürettikleri seslerin farklı olduğu konusunda beyin fırtınası vb. tekniklerle tartışmaları sağlanır ( SDB3.3 ) . Öğrencilere farklı müzik aletlerine ait aynı frekanstaki sesleri kulağımızın nasıl ayırt ettiğine dair sorular yöneltilerek sesin bu özelliğine sesin tınısı adı verildiği belirtilir. Öğrencilerden performans görevi olarak farklı frekanslarda ses oluşturabilecekleri müzik aleti tasarlamaları istenebilir. Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilere ASELSAN'ın geliştirdiği ormanlık alanlardan gelebilecek tehditlere karşı güvenliği artırmaya yönelik olarak ağaç, dal ve yaprak gibi engellere nüfuz edebilecek frekans bandında çalışan, askeri koşullara uyumlu bir orman içi gözetleme radarı hakkında araştırma görevi verilebilir. Konuyu derinlemesine düşünmelerini sağlamak için açık uçlu sorularla desteklenmiş çalışma kâğıtları kullanılabilir. Konuyu somutlaştırmak için dijital içeriklerden faydalanır ( OB2 ) . Öğrencilerin oluşturdukları sesin ince ve kalın olarak belirlenmesi müzik dersi ile ilişkilendirilebilir. Öğrenme çıktıları eşleştirme testi, tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ile değerlendirilebilir.",
+    "FB.8.4.2.1. Ders öncesinde, ses kaynağından uzaklığın ve ses şiddetinin işitmeye etkisi ile ilgili bir senaryo veya problem durumu öğretmen tarafından hazırlanır. Öğrencilerden bu senaryoda verilen problemi tanımlamaları istenir ( SDB3.3 ) . Tanımladıkları problemde ses kaynağından uzaklığın ve ses şiddetinin işitmeye etkisi ile ilgili neden sonuç ilişkisi kurmaları sağlanır. Burada sesin bir enerji türü olduğu vurgulanır. Çığ oluşumu, alçaktan uçan uçakların camları titreştirmesi, böbrek taşlarının kırılmasında ses enerjisinden yararlanılması, ses dalgaları ile cam bardağın kırılması vb. günlük yaşamdan merak uyandıran farklı örnekler verilir ( E3.8 , OB1 ) . Öğrenciler eleştirel bir bakış açısıyla ve açık fikirlilikle çalışmaları için desteklenirler ( KB2.8 , SDB3.3 , E3.6 , D3.3 ) . Bunun için tartışma yöntemi kullanılabilir. Öğrencilerden tanımladıkları problem durumunda işitmeyi etkileyen değişkenleri belirlemeleri istenir ( SDB1.2 ) . Ses kaynağından uzaklığın ve ses şiddetinin işitmeye etkisini araştırmaya yönelik değişkenleri kontrol etmeleri beklenir. Ses kaynağından uzaklık ve ses şiddeti teker teker kontrol edilerek deney yapılabilir. Öğrencilerin deney sürecinde V diyagramı kullanmaları teşvik edilebilir ( SDB1.2 , E3.7 ) . Örneğin ses şiddeti sabit tutulabilir, öğrencilerden ses kaynağına yaklaşıp uzaklaşmaları istenebilir. Ses kaynağının uzaklığı sabit tutularak sesin şiddeti artırılabilir ve azaltılabilir. Öğrencilerin ses kaynağından uzaklığın ve ses şiddetinin işitmeye etkilerine yönelik iki ayrı önerme oluşturmaları sağlanır ( SDB1.2 ) . Ses şiddeti ve uzaklık arasındaki matematiksel ilişki ve ses şiddetinin birimi verilmez. Ses şiddetinin sesleri şiddetli veya zayıf işitmemize neden olan ses özelliği olarak ifade edilir. Şiddetli seslerin insan sağlığına zararları üzerinde durulur. Süreci değerlendirmek için analitik veya bütüncül dereceli puanlama anahtarı kullanılabilir. Öğrenme çıktıları kısa cevaplı testler, açık uçlu sorular eşleştirme testi, vb. ile değerlendirilebilir.",
+    "FB.8.4.2.2 Bir kaynaktan yayılan sesin salonda ve banyoda aynı mı yoksa farklı mı duyulacağı tartışma ortamı oluşturularak sesin soğurulma ve yansıma özelliklerine dikkat çekilir ( KB2.18 , SDB2.1 ) . Bu süreçte öğrencilerden birbirlerinin duygu ve düşüncelerini anlamak için karşılarındakini dikkatle dinlemeleri istenir ( D15.1 ) . Öğrencilere sesin soğrulmasına, yansımasına ve iletimine yönelik günlük hayatta karşılaştıkları örnekler sunulur. Öğrencilerden verilen örneklerden yola çıkarak sesin soğurulmasına, yansımasına ve iletilmesine yönelik niteliklerini tanımlamaları istenir. Öğrencilere sesin madde ile etkileşimi sonucunda sesin soğurulması, yansıması ve iletilmesine yönelik deney ve gözlem yaptırılır. Öğrencilerin deney ve gözlemleri esnasında sesin soğurulması, yansıması ve iletilmesine yönelik topladıkları verileri kaydetmeleri sağlanır. Öğrencilerin topladıkları verileri değerlendirerek farklı madde ile etkileşen sesin soğurulduğu, yansıdığı veya iletildiği çıkarımını yapmaları beklenir. Sesin yansıması deneylerinde öğrencilerden yüzeyin sert, düz ya da pürüzlü olmasının sesin farklı oranlarda yansımasına neden olduğunu analiz etmeleri sağlanır. Yankı olayına girilmez. Öğrencilerin sesin soğurulması deneylerinden elde ettikleri verileri yorumlayarak girintili çıkıntılı yapıyla birlikte gözenekli, pürüzlü ve yumuşak dokulu yüzeylerde sesin soğurulduğu çıkarımını yapmaları sağlanır. Deneylerden elde edilen veriler yorumlanarak maddelerin sesi soğurma özelliklerinin birbirinden farklı olduğunu açıklamaları sağlanır. Öğrencilerden bilimsel kaynaklardan araştırma yaparak ulaştıkları bilgileri arkadaşları ile tartışarak öğretmen rehberliğinde doğrulamaları istenir ( OB1 ) . Sesin yayılırken maddesel ortamla karşılaştığında bu ortam tarafından sesin bir kısmının iletilebildiği, bir kısmının yansıtılabildiği, bir kısmı da tutulabildiği belirtilir. Yankı olayına girmeden yüzeyin sert, düz ya da pürüzlü olmasının sesin farklı oranlarda yansımasına neden olduğu belirtilir. Girintili çıkıntılı yapıyla birlikte gözenekli, pürüzlü ve yumuşak dokulu yüzeylerde sesin soğurulduğu belirtilir. Maddelerin sesi soğurma özelliklerinin birbirinden farklı olduğu açıklanır. Sesin soğurulmasında ses yalıtım malzeme çeşitlerine girilmez. Sesin meydana gelişi, iletilmesi, duyulması, soğurulması ve gürültü kontrolü gibi konuları inceleyen bilim dalına akustik (ses bilimi) denildiği belirtilir. Sesin kontrol altında tutularak akustik bir ortam meydana getirilmesinin önemi üzerinde durulur. Mimar Sinan'ın yaptığı Selimiye Camii'nin iç mimarisindeki akustik uygulamalardan bahsedilebilir. Türk İslam mimarisinde akustik uygulamalarla ilgili afiş, poster, sunu vb. hazırlamalarını içeren performans görevi verilir ( D19.1 ) . Performans görevi analitik dereceli puanlama anahtarı ,kontrol listesi vb. ile değerlendirilebilir. Eşleştirme testi, yapılandırılmış grid vb. ölçme araçları biçimlendirici değerlendirmede kullanılabilir.",
+    "FB.8.4.2.3 Öğretmen tarafından ders öncesinde hazırlanan ses kirliliğinin canlılara etkisini konu alan materyaller (hikâye, görsel, gazete haberi, video, belgesel kesiti vb.) gösterilir. Verilen örnekler ya da görseller tartışılır ve öğrencilerin ses kirliliğinin canlılara etkisine ilişkin soru veya problemi tanımlamaları sağlanır ( SDB3.3 ) . Öğrencilerin ses kirliliğine yönelik problemi tanımlama aşamasında ilgili kavramlara (işitme kaybı, ses kirliliği ve olumsuz etkileri, ses kirliliğini önlemek için yapılması gerekenler) odaklanmaları istenir ( E3.2 ) . Tanımladıkları probleme çözüm oluşturabilecek bir fikir ya da model geliştirmeleri istenir ( SDB2.3 , OB1 , E3.3 ) . Fikirlerini/modellerini geliştirirken ses kirliliğini önlemeye yönelik araştırma planlayarak gerçekleştirmeleri sağlanır ( KB2.6 ) . Bu süreçte öğrenciler, bilgi ve becerilerini toplumsal bir sorunun çözümüne yoğunlaştırmaları ve bu konuda sorumluluk almaları konusunda yönlendirilir ( E3.1 , E2.2 , D5.2 ) . Öğrencilerden araştırma sonuçlarına göre fikrin/modelin ses kirliliğini önlemeye yönelik özelliklerini analiz ederek yorumlamaları beklenir ( KB2.4 , OB4 , E3.6 ) . Ses kirliliğinin çözümü için çaba göstermenin bir saygı göstergesi ve sorumluluk olduğu fark ettirilebilir. Bu konudaki davranışlarının canlılar üzerindeki etkilerini değerlendirmeleri ve uygun davranış geliştirmeleri desteklenir ( SDB2.3 , D5.2 , D13.4 , D14.1 ) . Süreç boyunca öğrencilerin fikirlerini/modellerini gerekliyse düzenlemeleri veya geliştirmeleri istenir ( SDB3.2 ) . Öğrencilerin fikirlerini/modellerini canlılar üzerindeki etkileri bakımından gerekçeleriyle açıklamaları sağlanır ( KB2.17 , SDB3.3 ) . Bunun için tasarım odaklı düşünme ya da konuşma halkası tekniği kullanılabilir. Yapılan tartışmalar doğrultusunda açıklama yaparak kanıta dayalı çözüm üretmeleri beklenir ( OB8 ) . Çözüm önerilerini değerlendirerek sunum veya poster yoluyla paylaşmaları sağlanır ( SDB2.3 ) . Eski Türk geleneklerinden olan musiki ile tedavi yöntemlerini Evliya Çelebi'nin Seyahatnamesi'nde yazdığı ifadelerden yola çıkarak ve İbni Sina ile Farabi'nin eserlerini kullanarak araştırıp sınıfta sunmaları istenebilir ( D19.1 ) . Bu yöntemde kullanılan bazı eserleri sınıfta akıllı tahta ile arkadaşlarına dinletmesi istenebilir. Süreci değerlendirmek için analitik veya bütüncül dereceli puanlama anahtarı kullanılabilir. Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.3",
+      "D13.4",
+      "D14.1",
+      "D15.1",
+      "D16.3",
+      "D19.1",
+      "D20.1",
+      "D20.4",
+      "D3.3",
+      "D3.4",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E2.5",
+      "E3.1",
+      "E3.2",
+      "E3.3",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.17",
+      "KB2.18",
+      "KB2.2",
+      "KB2.4",
+      "KB2.6",
+      "KB2.7",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7",
+      "OB8",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/438"
+}

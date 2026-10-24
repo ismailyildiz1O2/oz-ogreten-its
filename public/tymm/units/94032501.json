@@ -1,0 +1,59 @@
+{
+  "unitId": 94032501,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "1. ÜNİTE: YER KABUĞU VE DÜNYA’MIZIN HAREKETLERİ",
+  "hours": "15",
+  "description": "Bu ünitede öğrencilerin; Dünya’nın yapısını oluşturan kayaçları tanımaları, fosillerin oluşumu hakkında fikir sahibi olmaları, Dünya’nın dönme ve dolanma hareketlerini kavramaları, Güneş ve Dünya arasında hareket ilişkisi kurabilmeleri ve bu hareketlerle ilişkilendirilen zaman dilimleri (gece-gündüz, gün-yıl) hakkında bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.4.1.1.1",
+      "title": "Yer kabuğunun kara tabakasının kayaçlardan oluştuğunu belirtir",
+      "processComponents": [
+        "Kayaçların sınıflandırılmasına girilmez."
+      ]
+    },
+    {
+      "code": "F.4.1.1.2",
+      "title": "Kayaçlarla madenleri ilişkilendirir ve kayaçların ham madde olarak önemini tartışır",
+      "processComponents": [
+        "Türkiye’deki önemli kayaçlara ve madenlere değinilir; altın, bor, mermer, linyit, bakır, taşkömürü, gümüş vb. örnekler verilir."
+      ]
+    },
+    {
+      "code": "F.4.1.1.3",
+      "title": "Fosillerin oluşumunu açıklar",
+      "processComponents": [
+        "Fosil çeşitlerine girilmez."
+      ]
+    },
+    {
+      "code": "F.4.1.2.1",
+      "title": "Dünya’nın dönme ve dolanma hareketleri arasındaki farkı açıklar",
+      "processComponents": [
+        "Dönme ve dolanma hareketine günlük yaşamdan örnek verilir."
+      ]
+    },
+    {
+      "code": "F.4.1.2.2",
+      "title": "Dünya’nın hareketleri sonucu gerçekleşen olayları açıklar",
+      "processComponents": [
+        "Dünya’nın dönme hareketine değinilir.",
+        "Dünya’nın dolanma hareketine değinilir.",
+        "Dünya’nın dönmesine bağlı olarak Güneş’in gün içerisindeki konumunun değişimine değinilir.",
+        "Gece ve gündüzün oluşumuna değinilir.",
+        "Gün, yıl, zaman kavramları verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Dünya ve Evren",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

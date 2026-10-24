@@ -1,0 +1,54 @@
+{
+  "unitId": 1476,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Geleneksel Sanatlar Dersi",
+  "title": "DÜZEY II · 1. Tema: Hüsnühat Sanatı",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GS.2.1.1",
+      "title": "Hüsnühat sanatının tarihsel süreci ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Hüsnühat sanatı hakkındaki bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak hüsnühat sanatı ile ilgili ihtiyaç duyduğu bilgilere ulaşır.",
+        "c) Hüsnühat sanatı ile ilgili bilgileri doğrular.",
+        "ç) Hüsnühat sanatı ile ilgili bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "GS.2.1.2",
+      "title": "Hüsnühat sanatındaki meşk uygulamalarıyla sanatsal ürün oluşturabilme",
+      "processComponents": [
+        "a) Harfleri ve harf birleşmelerini yazabilmek için gerekli araçları ifade eder.",
+        "b) Harfleri ve harf birleşmelerini sanatsal ürüne dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "hattat, meşk",
+  "support": [
+    "Meşkleri kamış kalem ve mürekkeple yazamayan öğrenciler için mürekkep kullanmadan bakarak ve kurşun kalemle bir harf kopya ederek ürün ortaya çıkarabilmeleri için olanak sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden farklı rika meşk örneklerinin yazılışlarını dijital ortamdan bulmaları ve bu örnekler ile ilgili bir sunu hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; soru-cevap tekniği, açık uçlu sorular, çalışma yaprağı, gösterip yaptırma, grup değerlendirme formu, dereceli puanlama anahtarı, performans görevi ve kontrol listesi ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden hüsnühat kitabındaki rika, nesih veya sülüs meşklerinden birisini kurşun kalemle boş bir kâğıda yazmaları istenebilir. Öğrencilerin meşk çalışmaları okul panolarında sergilenebilir.",
+    "Performans görevi; amaç belirleme, bilgi toplama, bilgileri düzenleme ve görselleştirme, sonuç çıkarma ve sunma ölçütlerine göre analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.2.1.1",
+    "Öğrencilere hat sanatını nereden ve hangi kaynaklardan öğrenecekleri ile ilgili sorular sorulur. Öğrencilerin bilgiye ulaşmaları amacıyla kullanacakları yazılı ve görsel kaynaklar öğretmen rehberliğinde belirlenir. Öğrencilerden kütüphane arşivleri, güvenilir dijital veri tabanları, bilimsel kaynaklar gibi bilgi edinme araçlarını grup hâlinde belirlemeleri istenir. Kitap, broşür gibi materyalleri seçerek incelemeleri sağlanır. Öğrencilerin hat sanatının tanımı ile ilgili elde ettikleri bilgiler üzerinden akıl yürüterek en uygun tanımı bulmaları sağlanır ( OB1 ) . Öğrencilere kurşun kalemle dikkatli bir şekilde estetik bir A harfi yazdırılır ( OB9 ) . Ardından öğrencilerden yazdıkları üzerinden duygu ve düşüncelerini ifade etmeleri istenir ( SDB2.1 ) . Öğrencilere konuyla ilgili hat eserleri inceletilir. Süreç boyunca öğrencilerin inceledikleri eserleri; yazı türü, hattatı, dönemi, eserin bulunduğu yer ve estetik özellikleri bakımından değerlendirebilecekleri eser inceleme fişi kullanılabilir. Öğrencilerin ulaştıkları bilgileri doğrulamaları için birden fazla kaynağı eleştirel bir bakış açısıyla karşılaştırmaları, bilgileri teyit etmeleri ve kaynaklarının güvenilirliğini analiz etmeleri sağlanır ve bilgileri doğrulamalarına imkân verilir ( KB2.9 ) . Öğrencilerden ulaştığı bilgileri düzenli bir şekilde kaydetmeleri için dijital veya geleneksel yöntemleri kullanmaları istenir ( D7.3 , OB9 ) . Mushaf örnekleri tahtaya yansıtılır ve öğrencilerden bu örnekleri Kur’an-ı Kerim ile karşılaştırmaları istenir. Öğrencilerin bu konu hakkında fikirleri alınır ( OB1 ) . Öğrencilerden öğrendikleri bilgileri not alarak kaydetmeleri istenir. Öğrencilere Mehmet İzzet Efendi, Halim Özyazıcı ve Hamit Aytaç’ın eserlerinden örnek görseller gösterilir. Bu örneklerden yola çıkarak hat eserlerinin çok kıymetli bir manevi miras olduğu ve bu eserlere saygı gösterilmesi gerektiği vurgulanır ( D14.3 , SDB2.3 ) . Hat sanatının Kur’an-ı Kerim, kitabeler ve yazma eserler aracılığıyla kültürel mirasın kuşaktan kuşağa aktarılmasındaki rolü üzerinde durularak din kültürü ve ahlak bilgisi ile sosyal bilgiler dersleriyle ilişki kurulabilir.",
+    "GS.2.1.2",
+    "Kamış kalem, aharlı kâğıt, kalemtıraş, hokka, lika, mürekkep, meşk kitabı gibi gerekli malzemelerin sınıfta hazır bulundurulması sağlanır. Kamış kalemin ucunun kalınlığı öğrencilerin göreceği şekilde öğretmen tarafından yavaş yavaş ayarlanır ( E3.2 ) . Bu gözlemlemeden sonra her öğrencinin kamış kalemi öğretmen yardımıyla hazırlanır. İs mürekkebi veya akrilik mürekkebin kullanım şekli gösterilir. Öğretmen mürekkep, hokka, lika, peçete gibi malzemeleri hazırlar ve öğrencilerden de dikkatli bir biçimde bu malzemeleri hazırlamalarını ister ( E3.7 , E3.2 ) . Öğrencilere yazı kâğıtları hazırlatılır ( D16.3 ) .",
+    "Öğretmen öğrencilere kalemi nasıl ve hangi açıyla tutmaları gerektiğini gösterir ve dikkatli bir şekilde gözlem yapmaları gerektiğini hatırlatır ( E3.2 ) . Öğretmen birkaç ders öğrencilere harflerin nasıl yazılacağını gösterir ve sonrasında her öğrencinin kâğıdına bir harf yazar. Öğrenciler aynı harfi yazmaya çalışır ( D12.3 , D3.1 ) . Sonraki derslerde öğrenciler çalışmayı sürdürerek yazdıklarını öğretmene teker teker gösterir. Öğrenciler harfleri istenen biçimde yazma seviyesine gelinceye kadar çalışmalarını öğretmene göstermeye devam eder ( E3.7 , D16.3 , D12.3 ) . Öğrenciler meşk kitabından bakarak harfleri yazmaya çalışır ( E3.7 , E3.2 ) . Sanatsal ölçütlere en uygun şekilde yazmayı başarıncaya kadar çalışmalarını sürdürür ( D12.3 , D3.1 ) .",
+    "Bu süreçler tamamlandıktan sonra öğrenciler ürün oluşturma aşamasına gelir ( OB9 ) . Öğrenciler çalışma yapacakları kâğıdın yüzeyine pudra veya tebeşir tozu uygulayarak kâğıdı yazmaya hazır hâle getirir. Öğrenciler kendi seçtikleri bir harfi veya harf birleşmelerini öğrendikleri yol ve yöntemlerle yazmaya başlar ( E3.3 , E3.2 ) . Bu yazı daha sonra “tashih” denilen bir metotla düzeltilir. Yazının kenarlarındaki ufak tefek boşluklar doldurulur ve fazlalıkları alınır. Bu süreçte harflerin yapısının bozulmamasına özen gösterilir ( OB9 , D7.1 , E3.2 ) . Öğrencilerin ilk meşk çalışmalarını ve süreç sonunda oluşturdukları ürünleri içeren içeren bir portfolyo hazırlamaları istenebilir. Sürece ilişkin öğrenmeler; harf oranı, satır düzeni, meşk adabına uygun çalışma alışkanlığı, hüsnühat eserlerinin estetik ve kültürel özelliklerini dikkate alma ölçütlerini içeren bir kontrol listesi ile değerlendirilebilir.",
+    "Performans görevi olarak hüsnühat kitabındaki rika, nesih ve sülüs meşklerinden birini kurşun kalemle boş bir kâğıda yazması istenebilir. Öğrencilerin meşk çalışmaları okul panolarında sergilenebilir. Performans görevi; amaç belirleme, bilgi toplama, bilgileri düzenleme ve görselleştirme, sonuç çıkarma ve sunma ölçütlerine göre analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SAB4. Sanatsal Üretim Yapma (SAB4.2. Sanatsal Ürün Oluşturma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1476"
+}

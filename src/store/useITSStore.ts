@@ -6,9 +6,12 @@ import {
   PlanetId,
   SimulationUpdatePayload,
   SkillMastery,
+  TymmUnitDetail,
 } from "@/types/its";
 import {
+  convertTymmUnitToSkills,
   DEFAULT_QUICK_REPLIES,
+  DEFAULT_TYMM_UNIT,
   INITIAL_SKILLS,
   MISCONCEPTIONS,
   PLANETS,
@@ -20,7 +23,11 @@ interface ITSStoreState {
   planet: PlanetId;
   gravity: number;
   mass: number; // kg (1 - 20)
-  simulationPulse: number; // Yay salınımını yeniden tetiklemek için sayaç
+  simulationPulse: number;
+
+  // TYMM (Türkiye Yüzyılı Maarif Modeli) Aktif Ünite Durumu
+  activeUnit: TymmUnitDetail;
+  isTymmModalOpen: boolean;
 
   // BKT Bilişsel Öğrenci Modeli
   skills: Record<string, SkillMastery>;
@@ -45,6 +52,9 @@ interface ITSStoreState {
   triggerPulse: () => void;
   applySimulationUpdate: (update: SimulationUpdatePayload) => void;
 
+  setActiveUnit: (unit: TymmUnitDetail) => void;
+  setTymmModalOpen: (isOpen: boolean) => void;
+
   applyBKTUpdate: (
     skillId: string,
     isCorrect: boolean,
@@ -66,7 +76,7 @@ const INITIAL_WELCOME_MESSAGE: ChatMessage = {
   id: "welcome-1",
   role: "tutor",
   content:
-    "Merhaba! Ben **Öz-Öğreten AI**, Sokratik fizik rehberin. Sol taraftaki laboratuvarda bir **Eşit Kollu Terazi** ve bir **Dinamometre** görüyorsun. Şu an **Dünya**'dayız ($g = 9.81\\text{ m/s}^2$) ve her iki araçta da **$5\\text{ kg}$** kütleli özdeş bloklar asılı.\n\nSence bu iki ölçüm aleti ile **Ay'a** ($g = 1.62\\text{ m/s}^2$) gidersek, eşit kollu terazinin ve dinamometrenin gösterdiği değerler nasıl değişir?",
+    "Merhaba! Ben **Öz-Öğreten AI**, Türkiye Yüzyılı Maarif Modeli (**TYMM**) Sokratik rehberin. Şu an **Kuvveti Tanıyalım — Kütle ve Ağırlık İlişkisi (`FB.5.2.2.1`)** ünitesindeyiz. Sol taraftaki laboratuvarda bir **Eşit Kollu Terazi** ve bir **Dinamometre** görüyorsun. **Dünya**'dayız ($g = 9.81\\text{ m/s}^2$) ve her iki araçta da **$5\\text{ kg}$** kütleli özdeş bloklar asılı.\n\nSence bu iki ölçüm aleti ile **Ay'a** ($g = 1.62\\text{ m/s}^2$) gidersek, eşit kollu terazinin ve dinamometrenin gösterdiği değerler nasıl değişir?",
   timestamp: "Şimdi",
   detectedMisconception: null,
   simulationApplied: null,
@@ -78,17 +88,22 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   mass: 5,
   simulationPulse: 0,
 
+  activeUnit: DEFAULT_TYMM_UNIT,
+  isTymmModalOpen: false,
+
   skills: INITIAL_SKILLS,
   bktHistory: [
     {
       id: "init-bkt",
       timestamp: "Başlangıç",
-      skillId: "F.7.3.1.1",
-      skillTitle: INITIAL_SKILLS["F.7.3.1.1"].title,
-      previousPL: 0.42,
-      newPL: 0.42,
+      skillId: "FB.5.2.2.1",
+      skillTitle:
+        INITIAL_SKILLS["FB.5.2.2.1"]?.title ||
+        "Kütleye etki eden yer çekimi kuvvetini ağırlık olarak tanımlayabilme",
+      previousPL: 0.3,
+      newPL: 0.3,
       isCorrect: true,
-      reason: "Ön-test başlangıç bilişsel profili yüklendi.",
+      reason: "TYMM Öğrenme Çıktısı başlangıç bilişsel profili yüklendi.",
     },
   ],
   isBktModalOpen: false,
@@ -142,9 +157,72 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
     });
   },
 
+  setActiveUnit: (unit) => {
+    const newSkills = convertTymmUnitToSkills(unit);
+    const firstSkill = Object.values(newSkills)[0];
+    const now = new Date().toLocaleTimeString("tr-TR", {
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+
+    const outcomeChips = (unit.outcomes || [])
+      .filter((o) => !o.code.startsWith("KAZ."))
+      .slice(0, 3)
+      .map((o) => `${o.code} çıktısını Sokratik olarak çalışalım`);
+
+    const customReplies =
+      outcomeChips.length > 0
+        ? [
+            ...outcomeChips,
+            "Bu ünitenin anahtar kavramlarını simülasyonla ilişkilendir",
+            "Zenginleştirme (Farklılaştırma) sorusu sor!",
+          ]
+        : DEFAULT_QUICK_REPLIES;
+
+    const unitAnnouncement: ChatMessage = {
+      id: `unit-${Date.now()}`,
+      role: "tutor",
+      content: `📚 **TYMM Müfredat Ünitesi Güncellendi:**\n**${unit.gradeName} • ${unit.subject}** — *${unit.title}*\n\n**Hedef Öğrenme Çıktıları:** ${(
+        unit.outcomes || []
+      )
+        .filter((o) => !o.code.startsWith("KAZ."))
+        .map((o) => `\`${o.code}\``)
+        .join(", ")}\n**Anahtar Kavramlar:** ${
+        unit.keyConcepts || "Müfredat kazanımları"
+      }\n\nBu ünitenin süreç bileşenlerini birlikte keşfetmeye hazır mısın? İlk sorumu yöneltmemi ister misin?`,
+      timestamp: now,
+    };
+
+    set((state) => ({
+      activeUnit: unit,
+      skills: newSkills,
+      isTymmModalOpen: false,
+      quickReplies: customReplies,
+      messages: [...state.messages, unitAnnouncement],
+      bktHistory: [
+        {
+          id: `unit-bkt-${Date.now()}`,
+          timestamp: now,
+          skillId: firstSkill?.skillId || `ÜNİTE-${unit.unitId}`,
+          skillTitle: firstSkill?.title || unit.title,
+          previousPL: firstSkill?.params.pL || 0.35,
+          newPL: firstSkill?.params.pL || 0.35,
+          isCorrect: true,
+          reason: `TYMM Ünite #${unit.unitId} (${unit.title}) BKT modeline yüklendi.`,
+        },
+        ...state.bktHistory,
+      ].slice(0, 25),
+    }));
+  },
+
+  setTymmModalOpen: (isOpen) => set({ isTymmModalOpen: isOpen }),
+
   applyBKTUpdate: (skillId, isCorrect, reason) => {
     const currentSkills = get().skills;
-    const targetId = currentSkills[skillId] ? skillId : "F.7.3.1.1";
+    const skillKeys = Object.keys(currentSkills);
+    const targetId = currentSkills[skillId]
+      ? skillId
+      : skillKeys[0] || "FB.5.2.2.1";
     const skill = currentSkills[targetId];
     const previousPL = skill.params.pL;
     const newPL = updateBKT(skill.params, isCorrect);
@@ -175,7 +253,7 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
       reason:
         reason ||
         (isCorrect
-          ? "Kavramsal çıkarım doğrulandı."
+          ? "TYMM süreç bileşeni çıkarımı doğrulandı."
           : "Kavram yanılgısı veya hatalı çıkarım gözlemlendi."),
     };
 
@@ -191,8 +269,11 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
   },
 
   resetBKT: () => {
+    const currentUnit = get().activeUnit;
+    const resetSkills = convertTymmUnitToSkills(currentUnit);
+    const firstSkill = Object.values(resetSkills)[0];
     set({
-      skills: INITIAL_SKILLS,
+      skills: resetSkills,
       bktHistory: [
         {
           id: `reset-${Date.now()}`,
@@ -200,12 +281,12 @@ export const useITSStore = create<ITSStoreState>((set, get) => ({
             hour: "2-digit",
             minute: "2-digit",
           }),
-          skillId: "F.7.3.1.1",
-          skillTitle: "Tüm Kazanımlar Sıfırlandı",
+          skillId: firstSkill?.skillId || "FB.5.2.2.1",
+          skillTitle: "Tüm Öğrenme Çıktıları Sıfırlandı",
           previousPL: 0.35,
           newPL: 0.35,
           isCorrect: true,
-          reason: "Öğrenci modeli başlangıç parametrelerine sıfırlandı.",
+          reason: "Öğrenci BKT modeli başlangıç parametrelerine sıfırlandı.",
         },
       ],
     });

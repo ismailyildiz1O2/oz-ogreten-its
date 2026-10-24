@@ -1,0 +1,120 @@
+{
+  "unitId": 81365001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ekonomi Dersi",
+  "title": "1. ÜNİTE: EKONOMİ NEDİR?",
+  "hours": "16",
+  "description": "Bu ünite diğer ünitelerin temeli olarak düşünülmüş, bu nedenle diğerlerinin daha anlaşılabilir olması açısından ihtiyaç, mal, hizmet, fayda, gelir gibi ekonomi ile ilgili temel kavramlara değinilmiştir. Ayrıca bu ünitede Türkiye'nin ekonomik kaynaklarına, ekonomik sistemlere, ekonominin konusuna ve Atatürk'ün ekonomi ile ilgili görüşlerine yer verilmiştir.",
+  "outcomes": [
+    {
+      "code": "EKO.1.1",
+      "title": "Ekonomi biliminin insana ilişkin temel varsayımını belirtir",
+      "processComponents": [
+        "Ekonomi dersi öğretim programının giriş bölümünde yer alan ekonomi ile ilgili bilgiler dikkate alınır.",
+        "Öğrencilerin temel ekonomi kavramları hakkındaki ön öğrenmeleri, geçmiş yaşantıları, hazır bulunuşluluk düzeyleri dikkate alınır.",
+        "Felsefe dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.1.2",
+      "title": "İhtiyaç kavramını örneklerle açıklar",
+      "processComponents": [
+        "İhtiyaçları gidermenin insan mutluluğuna etkisine vurgu yapılır. Gelir ile ihtiyaç arasında bağlantı kurulur. Öğrencilerin sahip oldukları imkânları nasıl etkin kullanacaklarına vurgu yapılır.",
+        "Maslow'un “İhtiyaçlar Hiyerarşisi”ne değinilir.",
+        "Psikoloji dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.1.3",
+      "title": "Mal ve hizmet kavramlarını açıklayarak sınıflandırır",
+      "processComponents": [
+        "Mal ve hizmet kavramları açıklanarak, mal ve hizmet arasındaki ilişkiye değinilir."
+      ]
+    },
+    {
+      "code": "EKO.1.4",
+      "title": "Fayda kavramını örneklerle açıklar",
+      "processComponents": [
+        "Fayda kavramı tanımlanır."
+      ]
+    },
+    {
+      "code": "EKO.1.5",
+      "title": "Gelir kavramını örneklerle açıklar",
+      "processComponents": [
+        "Gelir kavramının tanımı yapılarak gelir ve ihtiyaç arasında ilişki kurulur."
+      ]
+    },
+    {
+      "code": "EKO.1.6",
+      "title": "Üretim kavramını açıklayarak üretim faktörlerini sıralar",
+      "processComponents": [
+        "Tarım, sanayi ve hizmet sektöründen örnekler verilir.",
+        "Coğrafya dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.1.7",
+      "title": "Tüketim kavramını örneklerle açıklar",
+      "processComponents": [
+        "Bilinçli tüketim ve tüketici haklarına vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.1.8",
+      "title": "Kaynaklar ile ihtiyaçlar arasındaki dengesizliği örneklendirir",
+      "processComponents": [
+        "Kaynakların kıt olduğu ve ihtiyaçların sınırsız olduğuna vurgu yapılır.",
+        "Coğrafya dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.1.9",
+      "title": "Kıtlık kavramını örneklerle açıklar",
+      "processComponents": [
+        "Kıt mallar ile serbest mallar arasındaki farklılıklara vurgu yapılır.",
+        "Kıt kaynakların etkin kullanımına ilişkin proje çalışması yaptırılabilir."
+      ]
+    },
+    {
+      "code": "EKO.1.10",
+      "title": "Ekonomi biliminin konusunu ve amacını açıklar",
+      "processComponents": [
+        "Ekonomi bilimin tanımı yapılarak diğer bilimler arasındaki yerine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.1.11",
+      "title": "Ekonominin temel hedeflerini açıklar",
+      "processComponents": [
+        "Ekonominin temel hedefleri olan kaynakların etkin kullanımı, adil gelir dağılımı, büyüme, istikrar vb. ele alınır.",
+        "Etkinlik ve verimlilik arasındaki ilişkiye değinilir."
+      ]
+    },
+    {
+      "code": "EKO.1.12",
+      "title": "Ekonomik sistem kavramını açıklayarak ekonomik sistemlerin farklılıklarını ortaya koyar",
+      "processComponents": [
+        "Ekonomik sistemler hakkında bilgi verilir.",
+        "Felsefe dersi ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.1.13",
+      "title": "Atatürk'ün ekonomi ile ilgili görüş ve uygulamalarını örneklerle açıklar",
+      "processComponents": [
+        "Ekonomik sistemler ile Atatürk'ün uyguladığı ekonomik sistem arasında karşılaştırma yapılarak karma ekonomik sistem hakkında bilgi verilir.",
+        "T.C. inkılap tarihi ve Atatürkçülük dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163132505-Ekonomi.pdf"
+}

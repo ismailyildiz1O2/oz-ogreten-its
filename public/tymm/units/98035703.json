@@ -1,0 +1,51 @@
+{
+  "unitId": 98035703,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "3. ÖĞRENME ALANI: MÜZİKSEL YARATICILIK",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.8.C.1",
+      "title": "Türkülerin yaşanmış öykülerini canlandırır",
+      "processComponents": [
+        "Yaşadığı çevredeki kültürel zenginlikleri, müziğin birleştirici etkisini kullanarak tanıması ve öğrencilerin araştırmacı kişiliklerini ortaya çıkarması sağlanmalıdır."
+      ]
+    },
+    {
+      "code": "Mü.8.C.2",
+      "title": "Farklı ve tekrarlanan bölümlerden oluşan ritim kalıpları oluşturur",
+      "processComponents": [
+        "Öğrencilerin bildikleri müzikler için basit ritim eşlikleri yazmaları sağlanmalıdır.",
+        "Müziklerde düzeye uygun üç bölümlü şarkı, türkü vb. müzik biçimlerine yer verilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.8.C.3",
+      "title": "Kendi oluşturduğu ezgileri seslendirir",
+      "processComponents": [
+        "Ezgi denemeleri; öğrenilen dizi, zaman belirteçleri ve süre değerleri ile sınırlanmalıdır.",
+        "Öğrencilerin oluşturdukları ezgileri bireysel veya toplu olarak seslendirmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "Mü.8.C.4",
+      "title": "Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır",
+      "processComponents": [
+        "Öğrencilerin kendi yarattıkları çalışmalarını (beste, düzenleme vb.) bilgisayarlı müzik kayıt teknolojilerini kullanarak kayıt altına almaları sağlanır. Örneğin öğrenciler bireysel olarak veya grup oluşturarak eser ve çalışmalarını, nota yazım programları ile notaya alma; müzik ve ses düzenleme programları ile de kaydetme ve düzenleme etkinlikleri yaparlar.",
+        "İnternet ortamında müzik dinlerken siber güvenliğe ve etik kurallara dikkat edilmesi gerekliliği hatırlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Müziksel Yaratıcılık",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

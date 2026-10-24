@@ -1,0 +1,37 @@
+{
+  "unitId": 885,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Spor Okulları - Beden Eğitimi ve Sporun Temelleri Dersi",
+  "title": "2. ÜNİTE: SPORDA YÖNETİM",
+  "hours": "16",
+  "description": "Bu ünite öğrencilere spor yönetimi kapsamında yer alan yönetim fonksiyonlarını, spor yönetimi yapılanmalarını, yönetici, liderlik vb. kavramlarını tanıtmayı; bu kavramlarla ilgili öğrencilerin bilgi sahibi olmalarını amaçlamaktadır.",
+  "outcomes": [
+    {
+      "code": "BEST.8.2.1",
+      "title": "Spor yönetimi kavramını sorgulayabilme",
+      "processComponents": [
+        "a) Spor yönetimi kavramını tanımlar.",
+        "b) Spor yönetimi kavramı hakkında sorular sorar.",
+        "c) Spor yönetimi kavramı hakkında istenilen bilgileri toplar.",
+        "ç) Spor yönetimi kavramı hakkında toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Spor yönetimi kavramı hakkında toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "Kulüp, lider, spor yöneticisi, yönetici, yönetim",
+  "support": [
+    "Yönetimde başarılı bir spor kulübünün yönetici pozisyonunda olan bir uzman/uzmanlar sınıf ortamına davet edilerek öğrencilerin konu ile ilgili bilgileri edinmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden seçtikleri bir spor branşına ait bir kulübü başarıya götürebilecek unsurları belirleyip o kulübün yöneticisi rolü ile kulübün yönetilmesine yönelik dijital içerik üretmesi istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları çalışma yaprağı, kısa cevaplı sorular ve performans görevi teknikleri kullanılarak değerlendirilebilir. Öğrencilerden performans görevi kapsamında gruplara ayrılarak sınıf ortamında kulüp, federasyon vb. spor organizasyonlarında yönetici ve liderlik yetilerinin nasıl kullanılacağına ilişkin drama veya rol oynama çalışmaları yapmaları istenebilir. Bu çalışmalar, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEST.8.2.1 Derse üzerinde spor yönetiminin içeriğinde yer alan yönetim, yönetici, lider, planlama, kulüp vb. yazan kartlar getirilir. Kartlar öğrencilere dağıtılarak/gösterilerek bu kelimelerin ne ifade ettiğiyle ilgili sorular sorulur ve öğrencilerde derse karşı merak uyandırılır (E1.1). Öğretmen öğrencilere yönetim, spor yönetimi, spor yönetiminin fonksiyonları, yönetici, lider, spor yönetimi yapılanmaları vb. tanımları ile ilgili bilgilendirme yaptıktan sonra her öğrencinin spor yönetimi kapsamında yer alan içeriklerden merak ettikleri konuları belirlemeleri sağlanır (SDB1.2). Öğrencilerden merak ettikleri konulara ilişkin sorular sormaları istenir. Ayrıca öğrencilerden belirledikleri soruların cevaplarını kütüphane, uzman görüşü, dijital medya vb. kanallar vasıtasıyla araştırmaları ve bilgi toplamaları istenir (D3.3, OB1, OB2). Elde ettikleri bilgileri sınıfta paylaşmaları sağlanır. Sürecin ardından öğretmen spor yönetimi konusunun içeriğinde yer alan yönetim, yönetici, lider, spor yapılanmaları, federasyon vb. konularını öğrencilere dijital ve görsel kaynaklar aracılığı ile aktarır (OB2, OB4). Öğrencilerin araştırma yaparak edindikleri bilgiler ile öğretmenin kaynaklar aracılığı ile verdiği bilgiler karşılaştırılarak toplanan bilgilerin doğruluğu değerlendirilir. Öğrencilerden performans görevi olarak kulüp, federasyon vb. alanlar oluşturulup bu alanlarda bir spor organizasyonu içinde yönetici ve liderlik yetisinin nasıl kullanılacağına ilişkin drama ya da rol oynama gibi çalışmalar yapmaları istenir (E3.3). Bu süreçte yöneticilerin ve liderlerin davranışlarının yönetim süreçlerini nasıl etkileyebileceği hakkında öğrencilerin fikirleri alınır (SDB1.2, SDB2.2, SDB3.3). Öğretmen öğrencilere üzerinde \"Ben iyi bir yöneticiyim çünkü\" ve \"Ben iyi bir liderim çünkü...\" yazılı çalışma kâğıt dağıtır. Öğrencilerin edinilen bilgiler üzerinden çıkarım yapmaları istenir (E1.2, SDB3.3). Süreç analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/885"
+}

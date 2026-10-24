@@ -1,0 +1,46 @@
+{
+  "unitId": 81783002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "2. ÜNİTE: KİŞİSEL TUTUM VE ADABIMUAŞERET",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.2.1",
+      "title": "Güven verici davranışları ayırt eder",
+      "processComponents": [
+        "Güven duygusunun oluşturulmasında doğru sözlü olma, sözünde durma ve emanete sahip çıkmanın gerekliliği vurgulanır.",
+        "Kur'an-ı Kerim ve hadislerden örneklere yer verilir."
+      ]
+    },
+    {
+      "code": "ADM.2.2",
+      "title": "İyiliğin insan ilişkilerine etkisini açıklar",
+      "processComponents": [
+        "Cömertlik, yardımlaşma, vefa, duyarlı olma, diğerkâmlık ve sorumlu davranmanın insan ilişkileri açısından önemi vurgulanır.",
+        "Kur'an-ı Kerim ve hadislerden örneklere yer verilir.",
+        "Emr-i bi'l-maruf nehy-i ani'l-münker (iyiliği emredip kötülükten sakındırma) ilkesine değinilir."
+      ]
+    },
+    {
+      "code": "ADM.2.3",
+      "title": "Kişisel bakım ve temizliğin adabımuaşeret açısından önemini örneklerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ADM.2.4",
+      "title": "Bulunacağı ortama uygun giyinmenin adabımuaşeret açısından önemini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

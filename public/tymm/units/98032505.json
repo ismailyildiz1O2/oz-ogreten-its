@@ -1,0 +1,37 @@
+{
+  "unitId": 98032505,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "5. ÜNİTE: BASİT MAKİNELER",
+  "hours": "10",
+  "description": "Bu ünitede öğrencilerin; günlük yaşamda sıkça karşılaştıkları basit makine çeşitleri hakkında bilgi ve beceriler kazanmaları; kazandıkları bilgi ve becerileri ortaya koyarak günlük yaşamda iş kolaylığı sağlayacak özgün basit makine düzenekleri tasarlamaları; böylece yaratıcı ve yenilikçi düşünme becerisi kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.8.5.1.1",
+      "title": "Basit makinelerin sağladığı avantajları örnekler üzerinden açıklar",
+      "processComponents": [
+        "Basit makinelerden, sabit makara, hareketli makara, palanga, kaldıraç, eğik düzlem ve çıkrık üzerinde durulur.",
+        "Dişli çarklar, vida ve kasnakların da birer basit makine olduğu görsellerle belirtilir, ayrıntıya girilmez.",
+        "Basit makinelerde işten kazanç olmadığı vurgulanır.",
+        "Matematiksel bağıntılara girilmez."
+      ]
+    },
+    {
+      "code": "F.8.5.1.2",
+      "title": "Basit makinelerden yararlanarak günlük yaşamda iş kolaylığı sağlayacak bir düzenek tasarlar",
+      "processComponents": [
+        "Öncelikle tasarımını çizimle ifade etmesi istenir. Şartlar uygunsa üç boyutlu modele dönüştürmesi istenebilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Fiziksel Olaylar",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

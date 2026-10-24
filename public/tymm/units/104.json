@@ -1,0 +1,92 @@
+{
+  "unitId": 104,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Ortaokul Türkçe Dersi",
+  "title": "1. TEMA: DİLİMİZİN ZENGİNLİĞİ",
+  "hours": "35",
+  "description": "Dilimizin zenginliği teması aracılığıyla materyal seçimini yönetebilme, anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme, konuşma ve yazısını zenginleştirecek biçimde söz varlığını kullanabilme gibi öğrenme çıktıları ile saygı, vatanseverlik, estetik gibi değerlerin öğrencilere aktarılması amaçlanmaktadır. Ayrıca öğrencilerde kendine güvenme (öz güven), sorumluluk, yaratıcılık gibi eğilimlerin; kendini tanıma (öz farkındalık), kendini düzenleme (öz düzenleme), iletişim gibi sosyal-duygusal öğrenme becerilerinin ve bilgi okuryazarlığı, dijital okuryazarlık, kültür okuryazarlığı gibi becerilerin de geliştirilmesi hedeflenmektedir. Dersin anlama alan becerileri olan dinleme/izleme ve okuma becerileriyle anlatma becerileri olan konuşma ve yazma becerileri birbiriyle ilişkilendirilmiştir.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "Dinleme/İzleme T.D.6.1. Dinlemede/izlemede materyal seçimini yönetebilme T.D.6.2. Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme T.D.6.4. Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme T.D.6.5. Dinlediğinin/izlediğinin yüzey anlamını belirleyebilme T.D.6.15. Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme T.D.6.19. Dinlediğinden/izlediğinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme T.D.6.25. Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Okuma T.O.6.1. Okumada materyal seçimini yönetebilme T.O.6.2.Sesli ve sessiz okurken akıcı okuma unsurlarını yönetebilme T.O.6.3. Okumada strateji ve yöntem seçimlerini yönetebilme T.O.6.4. Okuyacağı metnin içeriğine yönelik tahminde bulunabilme T.O.6.5. Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme T.O.6.6. Metnin yüzey anlamını belirleyebilme T.O.6.16. Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme T.O.6.21. Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme T.O.6.27. Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Konuşma T.K.6.1. Konuşma sürecini yönetebilme T.K.6.2. Konuşma yöntem ve tekniklerine yönelik seçimlerini yönetebilme T.K.6.3. Konuşmasında amaç ve içeriğe yönelik seçimlerini yönetebilme T.K.6.9. Konuşmasında sesini uygun şekilde kullanabilme T.K.6.22. Konuşmasını zenginleştirecek biçimde söz varlığını kullanabilme T.K.6.26. Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Yazma T.Y.6.1. Yazma sürecini yönetebilme T.Y.6.2. Yazma strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilme T.Y.6.3. Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme T.Y.6.18. Yazısını zenginleştirecek biçimde söz varlığını kullanabilme T.Y.6.21. Yazım kuralları ve noktalama işaretlerini uygulayabilme T.Y.6.22. Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "Türkçe, türkü, tekerleme, bilmece, mâni, ninni, atasözleri ve deyimler, merak, açık fikirlilik, akıcı okuma, söz varlığı, anahtar kelime, yüzey anlam, tahmin, kendini uyarlama (öz yansıtma)",
+  "support": [
+    "Dinleme/izleme ya da okuma etkinliği öncesinde, metinde geçen önemli kelimeler listelenir ve bu kelimelerin özellikleri (gerçek, mecaz, yan, eş ve zıt anlamları vb.) görsel araçlar ve şematik düzenleyiciler yardımıyla verilir.",
+    "Metnin özetlenebilmesi için metindeki anahtar kelimelerin yer aldığı bir özet planı, çalışma kâğıdı veya görsellerden oluşan bir grafik organize edici kullanılır.",
+    "Dinleme/izleme ya da okuma etkinliği öncesinde bilgilendirici metinlerdeki kavram, bilgi; öyküleyici metinlerdeki kişi, yer, zaman vb. yapılara ilişkin unsurların yer aldığı kavram ya da hikâye haritası gibi şemalar oluşturulup sunulur.",
+    "\"Türkü\", \"mâni\", \"tekerleme\" vb. türlere yönelik okuma etkinlikleri düzenlenebilir ve bu etkinlikler sırasında iş birlikli öğrenme ortamları oluşturulur.",
+    "Kütüphane, sahaflar vb. yerlerin ziyareti gerçekleştirilerek tema içerisinde verilen bilgilerin karşılaştırılması ve somutlaştırılması sağlanır.",
+    "Okuma ve yazma çalışmalarında işleyişin nasıl olması gerektiği bire bir anlatılarak süreç öğrenci ile yürütülür."
+  ],
+  "enrichment": [
+    "Aile büyükleri birincil kaynak olmak üzere mâni, ninni ya da tekerleme türleri üzerine bir araştırma yapılarak araştırmalar neticesinde ulaşılan ürünlerin sınıfta ya da uygun dijital ortamlarda paylaşımı istenir.",
+    "Teknoloji, fen bilimleri, matematik, tıp vb. alanlara ilişkin yabancı dillerden alınarak doğrudan kullanılan kelimelerden bazılarının belirlenmesi ve bunlara Türkçe karşılıklar oluşturularak sunulması istenir.",
+    "Varsa bulunulan yerdeki alanda söz sahibi kişilerle \"âşıklık geleneği\", \"halk şiiri\", \"müzik ve şiir\" vb. konu başlıklarına ilişkin röportaj yapılması ve bu röportajın ses dosyası ya da video kaydının dijital araçlar kullanılarak içerik hâline getirilmesi ve bu içeriğin sınıfta ya da uygun dijital ortamlarda paylaşılması istenir.",
+    "Görsellerden hareketle bilmediği deyim ve atasözlerinin anlamlarını tahmin etmelerini sağlayacak web tabanlı oyunlar geliştirmeleri ve hazırladıkları oyunu uygun dijital ortamlarda paylaşmaları istenir."
+  ],
+  "assessment": [
+    "Dinleme/izleme ve okuma becerilerinin öğrenme çıktılarına ulaşılıp ulaşılmadığını değerlendirmek için kontrol listesi, öz bildirim, gelişim çizelgesi, cümle tamamlama, sözcük ilişkilendirme, boşluk doldurma/açık uçlu soru, bilgi aktarımı, öz değerlendirme görevlerinden biri kullanılır.",
+    "Öğrencinin dinleme/izleme ve okumada materyal, strateji ve yöntem seçimini yönetebilmesi için öz bildirim görevi kullanılır. Sesli ve sessiz okurken akıcı okuma unsurlarını yönetebilmesinde gelişim çizelgesinden yararlanılır. Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilmesinde cümle tamamlama görevi kullanılır. Okuyacağı metnin içeriğine yönelik tahminde bulunabilmesinde sözcük ilişkilendirme görevi verilir. Dinlediği/izlediği ve okuduğu metnin yüzey anlamını belirleyebilmesinde boşluk doldurma/açık uçlu soru görevleri verilir.",
+    "Dinlediği/izlediği, okuduğu bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilmesi için öğrenciye bilgi aktarımı görevi verilir. Dinlediği/izlediği ve okuduğu metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilmesinde sözcük ilişkilendirme görevinden yararlanılır. Öğrencinin dinleme/izleme ve okuma sürecine yönelik öz yansıtma yapılabilmesinde/kendini uyarlayabilmesinde öz değerlendirme görevi verilir.",
+    "Konuşma ve yazma becerilerine ait öğrenme çıktılarına ulaşılıp ulaşılmadığını değerlendirmek için paragraf yazma, sunum yapma, sorulardan/kavramlardan/görsellerden hareketle sözlü metin oluşturma, sözcük ve kavram havuzundan seçerek yazma ve öz bildirim çalışmaları yapılarak bu çalışmalara yönelik öz değerlendirme, kontrol listesi ve dereceli puanlama anahtarı gibi seçeneklerden biri kullanılır.",
+    "Öğrencinin konuşma ve yazma sürecini; yöntem, teknik ve yazma stratejisine yönelik seçimlerini yönetebilmesinde öz bildirim görevi verilir. Konuşmasında amaç ve içeriğe yönelik seçimlerini yönetebilmesinde dereceli puanlama anahtarından yararlanılır. Yazısında içerik ve yapıya yönelik seçimlerini yönetebilmesinde paragraf yazma görevi verilir. Konuşmasında sesini uygun şekilde kullanabilmesi için sunum yapma görevi kullanılabilir. Konuşmasını zenginleştirecek biçimde söz varlığını kullanabilmesi için sorulardan/kavramlardan/görsellerden hareketle sözlü metin oluşturma görevi verilir. Yazısını zenginleştirecek biçimde söz varlığını kullanabilmesi için sözcük ve kavram havuzundan seçerek yazma görevi kullanılır. Öğrencinin konuşma ve yazma sürecine yönelik öz yansıtma yapabilmesi/kendini uyarlayabilmesi için öz değerlendirme görevinden yararlanılır.",
+    "Konuşma ve yazma becerilerinde yukarıda verilen üretim görevleri gerçekleştirildikten sonra öğrencinin performansı, öğrenme çıktılarına uygun yapılandırılan kontrol listesi veya dereceli puanlama anahtarı ile değerlendirilir. Sonrasında öğrenciye geri bildirim verilmelidir."
+  ],
+  "teachingApplications": [
+    "Derse başlamadan önce öğrencilerin Türkçenin zenginliği hakkındaki hazır bulunuşluklarını belirlemek ve varsa gelişmeye açık yönlerini güçlendirmek için gerekli çalışmalar yapılır. Bu çalışmalar kapsamında tema ile ilgili konular (Türkçenin anlatım gücü, Türkçenin tarihî gelişimi, Türkçenin söz varlığı, türküler, tekerlemeler, bilmeceler, maniler vb.) ile temaya ait değerler arasındaki ilişkiye yönelik etkinlikler yaptırılır.",
+    "Öğrencilere; öğrenme çıktısına ve metnin konusuna yönelik ön bilgilerinden yararlanarak cevaplayabileceği sorular sorulup öğrencilerin motive ve derse dâhil olmaları sağlanır. Hazırlık aşamasında gerekirse destekleyici materyaller kullanılır. Öğrencilerin daha önce okudukları, dinledikleri/izledikleri bir materyaldeki yüzey anlamla ilgili yer, zaman, konu, ana fikir, kişi vb. bulmalarına yönelik hazırlık çalışmalarına yer verilir.",
+    "Metnin özelliğine göre okuma ve dinlemede/izlemede kullanılacak strateji ve yöntemlerin bağımsız ve sistematik bir şekilde seçimi ile ilgili aşamalar üzerinde durulur (T.O.6.3, T.D.6.2), ( E1.2 , E3.7 ).",
+    "Dinleme/izleme veya sesli okuma sürecinde öğrencilerin okunan, dinlenen/izlenen metnin içeriğine odaklanarak dinlemeleri sağlanır ( E3.2 ). Öğrenciler okuma, dinleme/izleme çalışmalarını tamamladıktan sonra gerekli görüldüğü takdirde metnin bir bölümü ve/veya tamamı tekrar okunur, dinlenir/izlenir. Sesli ve sessiz okuma çalışmaları yapılırken öğrencilerin akıcı okumaları sağlanır (T.O.6.2).",
+    "Okuma, dinleme/izleme uygulanırken öğrencilerin materyal seçimlerini yönetebilmelerine yönelik T.D.6.1 ve T.O.6.1 'deki aşamalar uygulanır.",
+    "Okuma çalışmaları yapılırken öğrencilerin tema ile ilgili konularda sunulan metinlere yönelik tahminde bulunmaları sağlanır (T.O.6.4).",
+    "Öğrenciler okuduklarında, dinlediklerinde/izlediklerinde geçen ve anlamını bilmedikleri kelime ve/veya kelime gruplarının anlamlarını tahmin eder (T.D.6.4., T.O.6.5.). \"Dilimizin Zenginliği\" temasıyla ilişkilendirilen söz varlığı geliştirme çalışmalarında öğrencilerin dil-kültür ilişkisini ( OB5.3 , OB4 ) , dilin toplumsal ve kültürel önemini ( D19.1 ) fark edeceği eğilimler ( E3.1 , E3.3 ) ile ilgili etkinliklere yer verilir (T.D.6.19., T.O.6.21.).",
+    "Öğrenciler, okuduklarının, dinlediklerinin/izlediklerinin yüzey anlamını (T.O.6.6., T.D.6.5.) belirlerken elde ettikleri verileri arkadaşlarıyla saygı ve dostluk çerçevesinde etkili iletişim kurarak ( SDB2.1.SB1 , D4.2 , D14.1 ) açık fikirlilikle paylaşır ( E3.5 ) . Okuma, dinleme/izleme sürecinde yüzey anlam belirlenirken ön bilgiler ile okunanlar, dinlenenler/izlenenler arasında ilişki kurmaları sağlanır. Bu deneyimler, yaşamla ilişki kurmayı geliştirecek biçimde olabilir. Yapılacak dinleme/izleme ve okuma çalışmaları; Türkçenin söz varlığını ve anlatım gücünü, bilim ve kültür dili olarak zenginliğini fark ettirmeye yönelik olmalıdır. Metinler yoluyla öğrencilerde kültürel mirasa karşı duyarlılık ve millî kimliği tanıma konularında değer oluşturma amaçlanmaktadır.",
+    "Okudukları, dinledikleri/izledikleri metinlerde anahtar kelimelerin belirlenmesine yönelik çözümleme etkinlikleri yapılır (T.O.6.16., T.D.6.15.).",
+    "Kültürel kavramları ve kültür unsurlarını tanıtmaya yönelik konuşma çalışmalarında öğrencilerden süreci uygun şekilde yönetmeleri beklenir (T.K.6.1.).",
+    "Tema içeriğine uygun konuşmalar yaparken konuşma yöntem ve tekniklerine yönelik seçimlerini yönetebilmeleri sağlanır (T.K.6.2.).",
+    "Farklı amaçlara yönelik konuşma etkinlikleri yapılırken millî, manevi ve kültürel değerlere ;çevreye, ülke varlıklarına ( D19.3 ) sahip çıkmak ve saygı duymak hakkında konuşmaları sağlanır (T.K.6.3.). Bu konuşmalarda bilgilendirici anlatımlara da yer verilir.",
+    "Dilimizin zenginlikleri konusunda konuşma çalışmaları yapılırken öğrencilerin önceki söz varlıklarını ve yeni öğrendikleri söz varlıklarını kullanmaları (T.K.6.22.), konuşmalarında seslerini uygun şekilde kullanarak içerik oluşturmaları sağlanır (T.K.6.9.). Etkileşimli konuşmalar yaparken merak ettiği soruları açık fikirlilikle sormaları yönünde teşvikte bulunulur ( E3.1 , E3.8 ).",
+    "Tema içeriğine uygun konularda yapılacak yazma çalışmalarında öğrencilerden süreci uygun şekilde yönetmeleri beklenir (T.Y.6.1.).",
+    "Kültürel mirası korumak, dil kültür ilişkisini fark etmek, kültürel mirasa değer vermek, farklı kültürleri keşfetmek ( OB5.3 ) vb. konularda yazma çalışmaları yapılırken yazma strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilmeleri sağlanır (T.Y.6.2.), ( E3.7 ).",
+    "Dönem başındaki temalarda veya yeni metin yapısına geçerken paragraf seviyesinde yazma etkinlikleri yapılması (T.Y.6.3.) amacıyla açıklayıcı paragraf yazma çalışmalarına yer verilir. Önceki ve yeni öğrendikleri söz varlığı unsurlarını birlikte kullanmaları sağlanır (T.Y.6.18.).",
+    "Yazma çalışmalarında sınıf düzeyine uygun yazım kurallarını (bitişik ve ayrı yazılan dil yapılarıyla (dA/-DA, ki/-ki, mI) kuralları işlevine uygun) uygular ve noktalama işaretlerini işlevlerine (virgülün 5. sınıf düzeyinde üzerinde durulmayan özne olarak kullanıldığında isimlerin yerine geçen bu, şu, o kelimelerini cümledeki diğer kelimelerden ayırma, sıralı cümleleri ayırma, tırnak içinde olmayan alıntı cümlelerini belirtme, konuşma çizgisinden sonra gelen alıntı cümlesini belirtme, edebi eserlerde konuşma bölümünden önceki ifadeyi belirtme ve kendisinden sonraki cümleye bağlı olarak ret, kabul ve teşvik bildiren ifadeleri belirtme) uygun kullanır. (T.Y.6.21.).",
+    "Öğrencilerin okuma, dinleme/izleme, konuşma ve yazma becerilerini edinme süreci ile ilgili kendilerine yönelik yansıtma yapmaları sağlanır (T.O.6.27., T.D.6.25., T.K.6.26., T.Y.6.22.), ( SDB1.3 ).",
+    "Üretim Atölyesi",
+    "Öğrencilerden hikâyesi olan türkülerin birini basılı veya dijital kaynaklardan araştırmaları ( OB2.1 ) ve edindikleri bilgileri arkadaşlarıyla paylaşmaları sağlanabilir. Gönüllü öğrencilerden türküyü seslendirmeleri istenebilir ( D7.2 , D19.2 ).",
+    "Öğrencilerin yönergelerde belirtilen sorumlulukları planlanan sürede tamamlamaları sağlanabilir ( D16.3 , E2.2 )."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D19.1",
+      "D19.2",
+      "D19.3",
+      "D4.2",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.2",
+      "E2.2",
+      "E3.1",
+      "E3.2",
+      "E3.3",
+      "E3.5",
+      "E3.7",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB2.1",
+      "OB4",
+      "OB5.3"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/104"
+}

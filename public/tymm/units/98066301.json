@@ -1,0 +1,98 @@
+{
+  "unitId": 98066301,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Türkçe Dersi",
+  "title": "1. ÖĞRENME ALANI: DİNLEME/İZLEME",
+  "hours": "33",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.8.1.1",
+      "title": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.2",
+      "title": "Dinlediklerinde/izlediklerinde geçen bilmediği kelimelerin anlamını tahmin eder",
+      "processComponents": [
+        "Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.1.3",
+      "title": "Dinlediklerini/izlediklerini özetler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.4",
+      "title": "Dinledikleri/izlediklerine yönelik sorulara cevap verir",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.5",
+      "title": "Dinlediklerinin/izlediklerinin konusunu tespit eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.6",
+      "title": "Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu tespit eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.7",
+      "title": "Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.8",
+      "title": "Dinlediği/izlediği hikâye edici metinleri canlandırır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.9",
+      "title": "Dinlediklerinde/izlediklerinde tutarlılığı sorgular",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.10",
+      "title": "Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.11",
+      "title": "Dinledikleri/izledikleri medya metinlerini değerlendirir",
+      "processComponents": [
+        "Medya metinlerinin amacını ve kaynağını sorgulamaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.1.12",
+      "title": "Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder",
+      "processComponents": [
+        "Düşünceyi geliştirme yollarından örneklendirme, tanık gösterme ve sayısal verilerden yararlanma belirlenir."
+      ]
+    },
+    {
+      "code": "T.8.1.13",
+      "title": "Konuşmacının sözlü olmayan mesajlarını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.1.14",
+      "title": "Dinleme stratejilerini uygular",
+      "processComponents": [
+        "Seçici, yaratıcı, eleştirel, empati kurarak, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

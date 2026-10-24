@@ -1,0 +1,54 @@
+{
+  "unitId": 1174,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: İKİ GİTAR ÇALIŞMALARI YAPIYORUM",
+  "hours": "16",
+  "description": "Temada ikili icra ederken dikkat edilmesi gerekenler, öğrencilerin ikili eserler dinlerken müzikal ögeleri fark etmesi ve ikili icra sürecine başlanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.8.3.1",
+      "title": "İki gitar çalışmalarını çalabilme",
+      "processComponents": [
+        "a) İki gitar şarkıları çalacağı eseri çözümler.",
+        "b) İki gitar şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) İki gitar şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) İki gitar şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "gitar, ikili, uyum",
+  "support": [
+    "Çalınan eser, küçük birimlere ayrılarak yavaş tempoda etüt edilmesi istenebilir. İkili eserlerde iki çalgıcı arasındaki teknik yük paylaşılabilir. Örneğin bir çalgıcı hızlı pasajlar çalarken diğeri daha sakin bir tempo ile çalarak denge sağlayıcı çalışmalar yapılabilir. Bir öğrenci arpejlerle destek sağlarken diğeri belirgin ve net notalar çalarak dengeyi kuran alıştırmalar yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrenme ortamları öğrencilerin farklı öğrenme stillerine göre bireysel ve işbirlikçi çalışmalara katkı sağlayacak şekilde tasarlanabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; birlikte çalma performans gözlem formu, öz değerlendirme formu, derecelendirme ölçeği ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilerden ikili eser örnekleri istenerek bu örneklerin sınıf ortamında sunulması ve eserlerin hangi çalgılardan oluştuğu, müziksel bileşenlerin açıklanması istenen bir performans görevi verilebilir. Öğrencilerden derste çalınan eseri ve öğretmenin çalışmaları için verdiği şarkıyı ikili topluluklar belirleyerek sınıfta birlikte çalma performans sergilemesi istenebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.8.3.1",
+    "Öğretmen dersin başında çalınacak parçanın notalarını etkileşimli tahta üzerinden gösterir ( OB4 ). Öğrenciler; iki gitarla çalacakları şarkıları çalmaya başlamadan önce şarkıların ritmik yapısını, akor sıralanışlarını ve melodik hatlarını analiz ederek parçayı çözümler ( KB2.4 ). Her öğrenciden şarkının formlarını (intro, nakarat, köprü) ve teknik zorluklarını incelemesi beklenir ( E2.2 ). Öğrenciler kararlarını arkadaşlarıyla fikir alışverişi yaparak hangi gitarın hangi rolü üstleneceğine karar verir ( D16.1 ). Öğrencilere dinletilen ikili eserler üzerinden eserin temposu, ritmik yapısı, melodik ilerleyişi, dinamik değişimleri gibi müzikal bileşenler hakkında sorular sorularak ilk gözlemlerini yapmaları sağlanır ( KB2.2 ). Bu süreç, öğrencilerin müziği daha derinlemesine anlamalarını, ritim ve melodi yönünden incelemelerini ve müziksel bileşenleri fark etmelerini sağlar. İki gitarın birbirini tamamlayan şekilde çalabilmesi için akorlar ve melodiler arasındaki dengeyi doğru bir şekilde kurar, böylece her gitarın özgün rolünü yerine getirmesini sağlarlar. Öğrenciler, gitarları çalarken doğru duruş ve tutuş pozisyonları alırlar. Her öğrencinin çalarken rahat ve sağlıklı bir pozisyonda olması sağlanır, bu sayede uzun süreli çalmada ergonomik sorunlar önlenir. Gitar tekniklerine (parmakla çalma, arpej, akor geçişlerine odaklanarak her iki gitarist de şarkının melodik ve ritmik yapısına uygun şekilde teknikleri doğru bir biçimde kullanır. İki gitarın uyum içinde çalabilmesi için öğrenciler, dinamik yapıdaki değişimlere (yumuşama, güçlenme vb.) dikkat eder ve müziksel bileşenleri (ritmik, melodik, armonik) doğru bir şekilde uygularlar. Bu süreçte öğrenciler birbirlerine geri bildirimde bulunarak çalım sırasında iş birliği yapar ve performanslarını geliştirirler ( SDB2.2 ). Sonuç olarak şarkının her iki gitarla uyumlu bir şekilde çalınabilmesi için teknik, sanatsal ve müzikal ifadelerini birleştirerek toplu bir performans sergilerler."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1"
+    ],
+    "egilim": [
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1174"
+}

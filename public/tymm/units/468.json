@@ -1,0 +1,97 @@
+{
+  "unitId": 468,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "4.TEMA: GEOMETRİK NİCELİKLER (2)",
+  "hours": "18",
+  "description": "Bu temada öğrencilerin yamuk, eşkenar dörtgen ve dairenin alan bağıntılarına yönelik çıkarımlar yapabilmeleri ve edindikleri deneyimleri işe koşarak daire, daire dilimi, eşkenar dörtgen ve yamuğun alanına yönelik günlük hayat problemlerini çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.7.4.7",
+      "title": "Dikdörtgenin, paralelkenarın alanına ve çemberin uzunluğuna ilişkin deneyimlerini dairenin alan bağıntısına yansıtabilme",
+      "processComponents": [
+        "a) Dikdörtgenin, paralelkenarın alanı ve çemberin uzunluğuna yönelik deneyimlerini gözden geçirir.",
+        "b) Dikdörtgenin alan bağıntısı ve çemberin uzunluğundan yola çıkarak dairenin alan bağıntısına yönelik çıkarım yapar.",
+        "c) Çıkarımını farklı örnekler üzerinden değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.7.4.8",
+      "title": "Çemberde merkez açı ve gördüğü yay uzunluğu arasındaki ilişkiden yola çıkarak daire ve daire diliminin alanları arasındaki ilişkiye yönelik analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Çemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkileri gözlemler.",
+        "b) Çemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkiyi tespit eder.",
+        "c) Çemberde merkez açı ve gördüğü yay uzunluğuyla daire ve daire diliminin alanı arasında kurulan ilişkiden hareketle daire diliminin alanına dair çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MAT.7.4.9",
+      "title": "Eşkenar dörtgen ve yamuğun alan bağıntılarına dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Dikdörtgen, paralelkenar ve üçgenin alan bağıntısına dair ön bilgisiyle eşkenar dörtgenin ve yamuğun alan hesabına yönelik varsayımda bulunur.",
+        "b) Eşkenar dörtgeni ve yamuğu parçalayarak veya tamamlayarak oluşturduğu geometrik şekillerin alanlarını belirler.",
+        "c) Oluşturulan geometrik şekillerin alanlarını varsayımlarıyla karşılaştırır.",
+        "ç) Eşkenar dörtgenin ve yamuğun alan bağıntılarına dair önermeler sunar.",
+        "d) Çeşitli geometrik şekillerin alanlarının hesaplanmasında eşkenar dörtgenin ve yamuğun alan bağıntılarının katkılarını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.7.4.10",
+      "title": "Günlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanına ilişkin problem çözebilme",
+      "processComponents": [
+        "a) Günlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarına ilişkin problemde ilgili matematiksel bileşenleri (şekil, uzunluk, alan, açı, köşegen, yarıçap, yükseklik gibi) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkileri belirler.",
+        "c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Dairenin alanı yarıçap uzunluğunun karesi ile pi sayısının çarpımıdır. • Daire diliminin alanı, daire diliminin açısının ölçüsüyle orantılıdır. • Yamuğun alanı, paralel olan kenar çiftinin uzunlukları toplamının yükseklikle çarpımının yarısıdır. • Eşkenar dörtgenin alanı köşegen uzunluklarının çarpımının yarısıdır. Anahtar Kavramlar dairenin alanı, daire dilimi, daire diliminin alanı, eşkenar dörtgenin alanı, yamuğun alanı Sembol ve Gösterimler, -",
+  "support": [
+    "Dairenin, daire diliminin, yamuğun ve eşkenar dörtgenin alanının hesaplanmasında iş birlikli öğretim uygulamalarından yararlanılabilir. Dairenin, daire diliminin, yamuğun ve eşkenar dörtgenin alanının hesaplanmasında kâğıt katlama çalışmalarından faydalanılabilir. Eşkenar dörtgen ve yamuğun alan bağıntılarının oluşturulmasında matematik yazılımında hazırlanan manipülatiflerden yararlanılabilir. Bu bağlamda görsel materyaller kullanılarak süreç desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden dairenin ve daire diliminin alanını hesaplamada kullanılabilecek algoritmaları sahte kod ve akış şeması ile ifade etmeleri istenebilir. Öğrencilerin dairenin ve daire diliminin alanı üzerine matematik tarihinde yer alan çalışmaları incelemeleri sağlanabilir. Çeşitli dörtgenlerde komşu kenarların orta noktalarını birleştiren doğru parçalarının çizilmesiyle oluşturulan dörtgenlerin özelliklerini ve alanlarını incelemeleri (dijital araçlar ile iş görme becerilerini geliştirmek için matematik yazılımında sürükleme özelliğinden ve alan ölçme aracından yararlanma) sağlanabilir. Daire ve daire diliminin alanına yönelik farklı çözüm yollarının kullanıldığı gerçek yaşam problemlerine yer verilebilir. Öğrencilerin eşkenar dörtgen, yamuk, daire ve daire diliminin alanına yönelik olimpiyat sorularını çözmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; izleme testi, zihin veya kavram haritası, öz değerlendirme formu, akran değerlendirme formu, çalışma kâğıtları ve performans görevi ile değerlendirilebilir. Dairenin alan bağıntısına ilişkin bir materyal tasarımı içeren performans görevi kapsamında öğrencilerin ilgili konuya yönelik afiş hazırlamaları istenebilir. Bu performans görevi içerik, doğruluk, görsel materyal gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarıyla değerlendirilebilir. Tema boyunca işlenen öğrenme çıktıları/süreç bileşenleri hakkında öğrencilerin eksik öğrenmelerini belirlemek ve gidermek amacıyla izleme testi uygulanabilir. Performans ürünü, izleme testi, çalışma kâğıtları ve kontrol listesi sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.7.4.7 Öğrencilerin çembersel kâğıt modelinden çeşitli büyüklüklerde (4, 8, 16, 32 gibi çift sayılarda) kestikleri eş daire dilimlerini yeniden birleştirerek oluşturdukları şekilleri incelemeleri için uygun öğrenme ortamı oluşturulur. Daha küçük daire dilimleriyle ne tür şekiller oluşturabileceklerini sorgulamaları sağlanarak merak eğilimleri desteklenir ( E1.1 ) . Oluşturulan şekiller arasında dörtgene benzeyenler üzerinde tartışmalar yaparak şekilleri yorumlamaları istenir ( OB4 ) . Bireysel çalışma veya grup çalışması ( SDB2.2 ) ile yürütülen süreçte öğredairenin farklı sayıdaki eş dilimleri ile oluşturdukları ve dörtgene benzettikleri şekilleri birbirleriyle karşılaştırmaları sağlanır. İşlemlerini sürdürerek paralelkenara benzettikleri şekiller oluşturmaları beklenir. Kullanılan daire dilimlerinin boyutu ne kadar küçülürse oluşturulan şeklin özel bir paralelkenar olan dikdörtgene dönüşmekte olduğunun farkına varmaları sağlanır. Süreçte matematik yazılımında tasarlanan sanal manipülatifler kullanılabilir. Dikdörtgenin alanı ve çemberin uzunluğuna ilişkin ön bilgisiyle dairenin alan bağıntısına yönelik çıkarım yapmaları beklenir ( OB4 ) . Bu süreçte dairenin yarıçap ve çevre uzunluğunu, oluşan dikdörtgenin kenarları ile ilişkilendirmeleri ve alan bağıntısını oluşturmaları beklenir. Elde ettikleri alan bağıntısından hareketle dairenin alan hesabının farklı yarıçap uzunluğuna sahip dairelerde de geçerli olduğuna yönelik değerlendirme yapmaları beklenir. Öğrenme çıktısının değerlendirilmesinde çalışma kağıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir. Ayrıca dairenin alan bağıntısına ilişkin bir materyal tasarımı istenen performans görevi kapsamında öğrencilerden ilgili konuya yönelik afiş hazırlamaları beklenebilir. Öğrenci; tasarımları anlama, içerik, doğruluk, planlama, özgünlük gibi ölçütlerden oluşan bütüncül veya analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "MAT.7.4.8 Öğrencilerin çembersel geometri tahtasında paket lastiği kullanarak oluşturdukları bir çemberi, çeşitli sayılarda eş parçalara ayırınca elde ettikleri yayların uzunluklarını hesaplamaları istenir ( MAB3 ) . Ardından öğrencilere günlük hayat durumları üzerinden merak uyandırıcı çeşitli örnekler (pizza dilimi, yelpaze, arabanın cam sileceği gibi) ( E1.1 ) sunularak arkadaşlarının eşit miktarda pizza yiyebilmesi için adalet değerinin kazanılmasını sağlamak adına adil dilimlemeyi nasıl yapmaları gerektiği sorulur ( D1.2 ) . Bu sorudan hareketle daire diliminin alanının hesaplanmasında yay uzunluğunu belirlerken benimsenen yaklaşımın kullanılıp kullanılamayacağını tartışmaları sağlanır. Daire diliminin alanını hesaplayabilmek için, dairenin alanının eş dilimlerin sayısına bölünmesiyle her birinin alanını hesaplayabileceklerine dair açıklama yapmaları beklenir. Diğer yandan merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki orantılı ilişkiden hareketle merkez açının ölçüsü ile daire diliminin alanı arasındaki orantılı ilişkiye dair çıkarım yapmaları beklenir. Daire diliminin alanına ilişkin çalışma kağıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.7.4.9 Öğrencilerin kareli kâğıt, geometri tahtası, matematik yazılımı gibi araçlar yardımıyla eşkenar dörtgen ve yamuk oluşturmaları sağlanır ( MAB5 ) . Bu süreçte grup çalışmaları yapılır. Her grubun şekillerin alanının nasıl hesaplanacağına yönelik varsayımda bulunmaları istenir. Örneğin eşkenar dörtgenin alanının (sadece köşegen uzunlukları bilindiğinde), köşegenlerin oluşturduğu dik üçgenlerin alanlarından yararlanılarak hesaplanabileceği gibi varsayımlarda bulunmaları beklenir. Öğrencilerden eşkenar dörtgenin ve yamuğun bir veya iki köşegenini çizerek üçgenler oluşturma, iki eş yamuğu birleştirerek paralelkenar oluşturma gibi yöntemleri belirlemeleri ve yöntemlerini varsayımlarıyla karşılaştırmaları beklenir ( OB4 . Öğrencilerin deneyimlerinden elde ettikleri bilgilerle yamuğun ve eşkenardörtgenin alan bağıntısına dair önermeler sunmaları istenir. Elde ettikleri alan bağıntılarının farklı geometrik şekillerin alanlarının hesaplanmasına yönelik katkısını açıklamalarına fırsat verilir. Bu süreçte oluşturdukları ürünlere yönelik zihin veya kavram haritası hazırlamaları istenebilir. Hazırladıkları zihin veya kavram haritaları panoda sergilenebilir. Zihin veya kavram haritasının değerlendirilmesinde kontrol listesi veya dereceli puanlama anahtarı kullanılabilir. Öğrencilerin zihin veya kavram haritalarını grup çalışması ile hazırlamaları sağlanarak yapılan grup çalışmalarında öz değerlendirme ve akran değerlendirme formları ( SDB1.2 , SDB2.3 ) ile kendi ve akranlarının süreçlerini değerlendirmeleri beklenebilir.",
+    "MAT.7.4.10 Daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarına yönelik problemlerde günlük hayat bağlamlarından (örneğin döner kapı, dairesel havuz soruları, hız göstergesi, eşkenar dörtgen ve yamuk modellemeleri, uçurtma gibi problem bağlamları) yararlanılır. Daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarıyla ilgili problemlerin çözümünde öğrencilerden öncelikle problemde ilgili matematiksel bileşenleri (şekil, uzunluk, alan, açı, yarıçap, köşegen, yükseklik gibi) belirlemeleri beklenir. Daha sonra öğrencilerin matematiksel bileşenler arasındaki ilişkileri belirleyip, problem bağlamındaki temsillerini farklı temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları istenir. Problemlere yönelik çözümlere geçmeden önce sonuca ilişkin tahminde bulunmaları, kullandıkları tahmin stratejilerini tartışmaları sağlanır. Ardından öğrencilerin daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarına yönelik bağıntıları işe koşabilmek için stratejiler geliştirmeleri ve geliştirdikleri stratejileri uygulamaları istenir. Öğrenciler stratejileri geliştirirken ve uygularken çembersel kâğıt, noktalı kâğıt, geometri tahtası gibi somut manipülatifleri ( MAB3 ) kullanmaları sağlanır. Alternatif olarak matematik yazılımlarından ( MAB5 ) yararlanmaları için teşvik edilebilir ( SDB3.3 ) . Stratejilerin geliştirilmesinde ve problemin çözümü için stratejilerin uygulanmasında öğrencilerin grup çalışması yapmaları sağlanarak dostluk değerini kazanmaları desteklenir ( D4.4 ) . Problem çözümlerinin ardından öğrenciler çözüm yollarını kontrol etmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( SDB3.1 ) . Süreçte öğrencilerin görev ve sorumluluklarını yerine getirmeleri, kendi öğrenme süreçlerinin farkında olmaları ve arkadaşlarıyla dayanışma içinde çalışmaları için uygun öğrenme ortamı oluşturulur. Böylece çalışkanlık değerinin kazanılması desteklenir ( D3.4 ) . Grup üyelerinin bulunan daire, daire dilimi, eşkenar dörtgen ve yamuğun alanına yönelik problemlere dair stratejilerini ve buldukları yolları gözden geçirmeleri, kısa yollara ilişkin çıkarımlar ve değerlendirmeler yapmaları sağlanır. Örneğin daire diliminin alan hesabında hangi yolları kullandıkları, bulunan yolların ne tür kolaylıklar sağladığı, eşkenar dörtgen ve yamuğun alan hesabında dikdörtgen, üçgen ve paralelkenarın alan bağıntısını kullanmanın çözümü nasıl kolaylaştırdığı gibi konular üzerine tartışarak öğrencilerin daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarına yönelik çıkarımlarını değerlendirmeleri beklenir. Problem çözme sürecinde kullandıkları stratejilerin ne tür problemlerde kullanılabileceğine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirebilmeleri beklenir. Öğrencilerden konuya ilişkin yeni bir problem kurmaları ve bu problemi çözmeleri istenir. Çözüm sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Kurdukları problem bağlamlarına yönelik yansıtmalar yapılarak öğrencilerin çıkarımlarını değerlendirmeleri sağlanır. Öğrenme çıktısının değerlendirilmesinde daire, daire dilimi, eşkenar dörtgen ve yamuğun alanları ile ilgili günlük hayat problemlerinden oluşan izleme testi kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D3.4",
+      "D4.4"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/468"
+}

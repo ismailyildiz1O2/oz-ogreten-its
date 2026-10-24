@@ -1,0 +1,45 @@
+{
+  "unitId": 81204001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ortak Türk Edebiyatı Dersi",
+  "title": "1. ÜNİTE: TÜRKLERİN ORTAK EDEBÎ MİRASI",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OTE.1.1.1",
+      "title": "Sözlü eserlerin özelliklerini açıklar",
+      "processComponents": [
+        "Sözlü Dönem'in özelliklerine değinilir.",
+        "Sözlü eserlerin Türk dünyasının ortak edebî mirası olduğu vurgulanır.",
+        "Ergenekon Destanı, Manas Destanı, Alpamış Destanı, Oğuznâme, Dede Korkut Hikâyeleri gibi ortak sözlü eserlere ve bu eserlerden alınan örnek metinlere yer verilir."
+      ]
+    },
+    {
+      "code": "OTE.1.2.1",
+      "title": "Eski Türk devletlerine ait ilk yazılı eserlerin özelliklerini açıklar",
+      "processComponents": [
+        "Bu eserlerin Türk dünyasının ortak edebî mirası olduğu vurgulanır.",
+        "Bilge Kağan, Tonyukuk, Kül Tegin, Barsbek Kağan Yazıtlarına ve bu yazıtlardan alınan örnek metinlere yer verilir."
+      ]
+    },
+    {
+      "code": "OTE.1.2.2",
+      "title": "İslami Dönem Türk Edebiyatı'na ait eserlerin özelliklerini açıklar",
+      "processComponents": [
+        "İslami Dönem Türk Edebiyatı'na ait eserlerin Türk dünyasının ortak edebî mirası olduğu vurgulanır.",
+        "Yusuf Has Hacib, Kutadgu Bilig; Kâşgarlı Mahmut, Dîvânu Lugâti't-Türk; Edib Ahmed Yükneki, Atebetü'l-Hakâyık; Hoca Ahmed Yesevi, Dîvân-ı Hikmet'e ve bu eserlerden alınan örnek metinlere yer verilir.",
+        "Nizâmî-i Gencevi, Yedi Güzel; Kul Ali, Kıssa-i Yûsuf; Mevlânâ Celaleddîn-i Rûmî; Yunus Emre, Divan; Kutb, Hüsrev ü Şirin; Ali Şîr Nevaî, Muhâkemetü'l Lugâteyn; Fuzûlî; Zahireddin Muhammed Babur, Baburnâme; Ebülgazi Bahadır Han, Şecere-i Türk gibi şair/yazar ve eserlere, bu eserlerden alınan örnek metinlere yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202212210260466-Ortak%20T%C3%BCrk%20Edebiyat%C4%B1%20d%C3%B6p.pdf"
+}

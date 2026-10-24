@@ -1,0 +1,86 @@
+{
+  "unitId": 296,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "3. TEMA: NİCELİKLER VE DEĞİŞİMLER (3)",
+  "hours": "36",
+  "description": "Bu temada öğrencilerin gerçek sayılarda tanımlı ve değerli fonksiyonların bileşkesine ilişkin muhakeme yapabilmeleri, bu fonksiyonların dört işlem özelliklerini yorumlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.11.3.7",
+      "title": "Fonksiyonların bileşkelerine ilişkin muhakeme yapabilme",
+      "processComponents": [
+        "a) İki veya daha fazla fonksiyonun bileşkesinden oluşan bir fonksiyonun bileşenlerini (bileşke fonksiyon ile bileşkeyi oluşturan fonksiyonların cebirsel ve grafik temsilleri) belirler.",
+        "b) İki veya daha fazla fonksiyonun bileşkesinden oluşan bir fonksiyonun bileşenleri arasındaki ilişkileri belirler.",
+        "c) İki veya daha fazla fonksiyonun bileşkesiyle elde ettiği fonksiyonları sembolik bir dile dönüştürür.",
+        "ç) Verilen fonksiyonları iki veya daha fazla fonksiyonun bileşkesi şeklinde ifade eder.",
+        "d) Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine (işareti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftliği, örtenliği) ilişkin varsayımlarda bulunur.",
+        "e) Varsayımlarına dayalı olarak bileşke fonksiyonlara ve bileşke fonksiyonların nitel özelliklerine ilişkin örüntüleri geneller.",
+        "f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "g) Genellemelerinden elde ettiği önermeleri matematiksel olarak doğrulayabileceği şekilde sunar.",
+        "ğ) Bileşke fonksiyonu gerçek yaşam bağlamında kullanışlılık açısından değerlendirir.",
+        "h) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.",
+        "ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.3.8",
+      "title": "Fonksiyonlarda dört işlem özelliklerini yorumlayabilme",
+      "processComponents": [
+        "a) Fonksiyonlarda dört işlemin yapılabilme koşullarını inceler.",
+        "b) Fonksiyonlarda dört işlemi uygun cebirsel veya grafik temsillerle ifade eder.",
+        "c) Fonksiyonlarda dört işlem özelliklerini dönüştürdüğü fonksiyonlar bağlamında sözel olarak açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "artanlık-azalanlık, bileşke fonksiyon, bire birlik, fonksiyonun işareti, fonksiyonun sıfırı, maksimum-minimum değer, maksimum-minimum nokta, örtenlik, teklik-çiftlik, ters fonksiyon",
+  "support": [
+    "Bileşke fonksiyonlar ve fonksiyonlarda dört işlem özellikleri incelenirken genellikle sayısal verilerden yararlanılabilir. Örneğin verilen f ve g fonksiyonlarında fog fonksiyonunu elde etmek yerine anlamlandırma sağlanana kadar fog fonksiyonunun sayısal değerleriyle işlem yapılabilir. Bileşke fonksiyonun nitel özellikleriyle ilgili önermeler, sayısal verilerden ve grafik temsillerden yararlanılarak doğrulanabilir. Ayrıca bu doğrulamaların veya ispatların belli aşamaları verilerek diğer aşamalarının öğrenciler tarafından tamamlanması beklenebilir.",
+    "Bileşke fonksiyonların kullanıldığı gerçek yaşam durumu örnekleri, öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivasyonları artırılabilir. Bileşke fonksiyonların temsil edilebileceği somut materyaller kullanılabilir. Öğrencilere bileşke fonksiyonları cebirsel olarak ifade edebilmeye ve grafik temsilde yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir. Bileşke fonksiyonlar ve fonksiyonlarda dört işlemle ilgili performans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir. Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulur ve öğrencilerin bileşke fonksiyonlarla ilgili bireysel ihtiyaçlarına uygun hedefler belirlenebilir."
+  ],
+  "enrichment": [
+    "(*) Bileşke fonksiyonlarla yapılan işlemler, n adet fonksiyondan elde edilen bileşke fonksiyonlara ve bir fonksiyonun n adet bileşkesinden elde edilen fonksiyonlara genellenir. Periyodik fonksiyonların kullanıldığı bileşke fonksiyon örnekleri incelenebilir. Bileşke fonksiyonlardan oluşturulan denklem ve eşitsizliklerde fonksiyonlar tanım kümesinin elemanı kabul edilerek yeni denklem veya eşitsizlikler oluşturulabilir. Örneğin ∀x ∈ ℝ için f(x) < g(x) ise (fof)(x) < (fog)(x) gibi önermelerin hangi durumlarda doğru olabileceği tartışılabilir. Fonksiyonlarla toplama, çıkarma, çarpma, bölme ve bileşke gibi fonksiyonel işlemler algoritmik bir dille yapılandırılabilir.",
+    "(*) Algoritma konusunda çözümlenen sözde kod örneklerinden yola çıkılarak iç içe (nested) fonksiyonlar ile bileşke fonksiyonun ilişkisini ortaya koyan örnekler incelenebilir. Döngüler kullanılarak çözülebilen problemlerin öz yinelemeli fonksiyonlarla daha kolay çözülebileceğine yönelik örnekler verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, çalışma kâğıdı, araştırma ödevi ve performans görevi ile değerlendirilebilir.",
+    "Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine ilişkin verilen performans görevi, analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Gerçek yaşam bağlamında bileşke fonksiyonların kullanım alanlarını incelemeye yönelik araştırma ödevi, derecelendirme ölçeği kullanılarak değerlendirilebilir.",
+    "Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine ilişkin önermelerde doğrulama veya ispat yapılmasını içeren çalışma kâğıdı, analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Fonksiyonlarda dört işlem özelliklerini yorumlamaya ilişkin açık uçlu sorulardan oluşan çalışma kâğıdı, analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.11.1.7 Bir referans fonksiyon ile bu fonksiyondan türetilmiş bir fonksiyonun cebirsel ve grafik temsilleri incelenir. Referans fonksiyona hangi dönüşümler uygulandığı tespit edilerek iki fonksiyon arasında bileşke ilişkisi kurulur. Bu dönüşümler cebirsel bir işlem olarak yeniden ifade edilerek bileşke işlemi gösterimine geçilir. İki farklı fonksiyonun bileşke işlemini göstermek için f (g(x)) veya (fog) (x) gösterimleri kullanılır ( MAB3 ) . fog fonksiyonunun tanımlı olabilmesinin asgari koşullarının belirlenebilmesinde cebirsel ve grafik temsillerin veya tabloların sistematik ve analitik bir şekilde kullanılması sağlanır ( E3.6 , E3.7 ) . f ve g fonksiyonlarından elde edilen fog ve gof fonksiyonlarının grafikleri, matematik yazılımları kullanılarak incelenir ( OB4 , MAB5 ) . Bu sayede öğrencilerin dijital araçlarla iş görme becerilerinin geliştirilmesine de katkı sağlanır ( OB2 ) .",
+    "Bir ilişkinin fonksiyon olma şartları ve fonksiyonların nitel özellikleri ele alınarak elde edilen bileşke fonksiyonların nitel özelliklerine ilişkin varsayımlar geliştirilir. Bu varsayımlar, herhangi bir nitel özelliği verilen fakat cebirsel temsili verilmeyen fonksiyonları da içerir. Örneğin f veya g fonksiyonlarının bire bir, örten, artan-azalan, tek-çift olmasına ve maksimum-minimum noktaları ile sıfırlarına yönelik kabuller verilerek fog veya gof fonksiyonlarının nitel özellikleri hakkında varsayımlar geliştirilir. Öğrencilerden (fog)(x)=(gof)(x) eşitliğinin her f ve g fonksiyonu için sağlanıp sağlanamayacağına ve gerçek sayılarda tanımlı bir fonksiyon ile tersi olan fonksiyonun bileşkesinin uygun koşullarda tanımlı doğrusal referans fonksiyonu verdiğine yönelik varsayıma ulaşmaları beklenir.",
+    "Keyfî fonksiyonlar üzerinden bileşke işleminin ve ters fonksiyonun özelliklerine değinilmez. Elde edilen varsayımlar bir araya getirilerek genellemeler oluşturulur. Bu bağlamda sadece gerçek sayılarda tanımlı ve değerli fonksiyonlar ele alınır ve bileşke işleminin getirdiği dönüşümler, cebirsel ve grafik temsillerinin eş zamanlı kullanılmasıyla yorumlanır. Genellemelerin varsayımları karşılayıp karşılamadığı kontrol edilerek bu genellemelerden bileşke fonksiyonların nitel özelliklerine ilişkin önermeler elde edilir. Bu önermeler, matematiksel olarak doğrulanabilecek şekilde sunulur. Bileşke fonksiyonlara ilişkin önermeler; ekonomi, fizik, kimya ve biyoloji gibi disiplinlerdeki kullanımları açısından değerlendirilir. Örneğin bir ürünün etiket fiyatına bağlı olarak sırasıyla indirimler uygulanır ve ürünün indirimler sonrası oluşan satış fiyatına vergi kesintileri uygulanır. Son durumda birim adetteki gelir, bileşke fonksiyonlarla modellenir ( OB3 ) . Ayrıca bir aracın zamana bağlı olarak harcadığı yakıt miktarını modellemek için zamana bağlı olarak aldığı yolu modelleyen fonksiyonla aracın harcadığı yakıt miktarını katettiği mesafeye göre modelleyen fonksiyon, bileşke fonksiyon olarak ifade edilebilir. Bu tür modellemeler, öğrencilerin bilinçli tüketim alışkanlıklarını destekler ( OB3 , D17.1 ) . Kimyada şişirilen bir balonun içerisindeki gaz kütlesinin zamana bağlı değişimini veren bir fonksiyon ile gaz basıncının balonun içerisindeki gaz kütlesine bağlı değişimini veren fonksiyondan bileşke fonksiyon elde edilebilir. Biyolojide bir canlı türü popülasyonunun zamana bağlı değişimini veren fonksiyon ile bu canlı türü popülasyonuna bağlı olarak ortamda kalan yiyecek miktarını veren bir fonksiyon, bileşke fonksiyon bağlamında incelenebilir ( D5.2 ) . Öğrencilere gerçek yaşam durumlarında bileşke fonksiyonların kullanım alanlarını incelemeye yönelik araştırma ödevi verilerek görev bilincine sahip olması desteklenir ( D16.3 , SDB1.1 ) . Bileşke fonksiyonların nitel özelliklerinden elde edilen önermelerin değerlendirilebileceği çalışma kâğıdı verilebilir.",
+    "Öğrencilerden bileşke fonksiyonlara ilişkin elde ettiği önermeleri grafiksel olarak doğrulamaları veya cebirsel olarak ispatlamaları beklenir ( SDB1.2 ) . Fonksiyonların nitel özelliklerinin tanımları bağlamında cebirsel ispatlarda mantık bağlaçları ve niceleyicilerin kullanılması sağlanır. Örneğin f ve g fonksiyonları bire bir iken fog ve gof fonksiyonlarının bire birliğinin cebirsel olarak ispatlanmasında fonksiyonların bire birlik tanımının cebirsel ifadesi kullanılır. Bileşke işlemi için tanım ve değer kümelerinin belirlenmesinden ispatın adım adım gerçekleştirilmesine kadar olan süreçte mantık bağlaçları ve niceleyicilerin ispatın sistematikliğini ve matematiksel kesinliğini yansıtacak şekilde kullanılması beklenir. Ayrıca öğrencilerden \"f fonksiyonu çift ise gof fonksiyonu çifttir.\" gibi önermeleri grafiksel olarak doğrulamaları ve cebirsel olarak ispatlamaları beklenir ( D3.3 ) . Bu şekilde yapılan doğrulama ve ispatlar kullanışlılık açısından değerlendirilir. Bileşke fonksiyonlara ve bu fonksiyonların nitel özelliklerine yönelik performans görevi verilebilir.",
+    "MAT.11.3.8 Referans fonksiyonlar ve onlardan türetilebilen fonksiyonlarla yapılan toplama ve çıkarma işlemleri, hem cebirsel hem de grafik olarak incelenir. Çarpma ve bölme işlemlerinin incelenmesi cebirsel olarak yapılarak grafik temsillerindeki yapısal değişiklikler matematik yazılımlarıyla gözlemlenir ( OB2 , MAB5 ) . Bu incelemelerden yola çıkılarak fonksiyonlarla dört işlemin tanımlı olabilmesinin asgari koşullarının keşfedilmesi sağlanır. Belirlenen tanım kümelerine göre fonksiyonlarla yapılan işlemler, uygun cebirsel veya grafik temsillerle ifade edilir. Örneğin gerçek sayılarda f(x)=x² ve g(x)=x şeklinde tanımlı fonksiyonlarla elde edilen f + g ve f - g fonksiyonlarının cebirsel ve grafik temsilleri oluşturulabilir. Ardından f, g, f + g, f - g fonksiyonlarında oluşan değişim; hem grafik üzerinde hem de cebirsel olarak değerlendirilir. Buradan yola çıkılarak iki fonksiyonla yapılan toplama, çıkarma, çarpma ve bölme işlemleri sonucunda yeni fonksiyonların elde edilebilmesi ile bu iki fonksiyonun tanım kümelerinin ilişkisi; hem sözel hem de cebirsel olarak ifade edilir. Öğrencilere fonksiyonlarda dört işlem özelliklerini yorumlamaya ilişkin açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D17.1",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/296"
+}

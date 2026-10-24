@@ -1,0 +1,126 @@
+{
+  "unitId": 1456,
+  "grade": 0,
+  "gradeName": "MASAL VE DESTANLARIMIZ DERSİ I",
+  "subject": "Masal ve Destanlarımız Dersi",
+  "title": "DÜZEY I · 1. Tema: Masallar I",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MD.1.1.1",
+      "title": "Masal türü hakkında anlam oluşturabilme",
+      "processComponents": [
+        "a) Masalın, yazarı bilinmeyen bir tür olduğu hususunda ön bilgileri ile bağlantı kurar.",
+        "b) Masalın olağanüstü ögeler, bir öğüt, kalıplaşmış sözcük ve söz grupları içerdiğini tahmin eder.",
+        "c) Masalda zaman ve yerin belirsiz olduğu hakkında çıkarım yapar.",
+        "ç) Masallarda bulunan tezatlıkları karşılaştırır.",
+        "d) Masaldaki kişi ve varlık ögelerini özelliklerine göre sınıflandırır.",
+        "e) Edindiği bilgilere göre masalla ilgili tepki verir."
+      ]
+    },
+    {
+      "code": "MD.1.1.2",
+      "title": "Masal metninde verilenler hakkında gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Masalın başlık ve görsellerinden hareketle yaptığı tahminlerini içerik ile ilişkilendirir.",
+        "b) Masalın başlığı ve görsellerine ilişkin çıkarım yapar.",
+        "c) Masalın verilen bölümünden yararlanarak öncesi veya sonrası hakkında yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MD.1.1.3",
+      "title": "Masalın yapı unsurlarını çözümleyebilme",
+      "processComponents": [
+        "a) Masalın yapı unsurları ve bölümlerine ilişkin parçaları belirler.",
+        "b) Masalın yapı unsurları ve bölümlerine ilişkin parçalar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MD.1.1.4",
+      "title": "Masalın vermek istediği ileti ile ilgili anlam oluşturabilme",
+      "processComponents": [
+        "a) Masalın konusunu bulmak için ön bilgilerle bağlantı kurar.",
+        "b) Masaldaki ana fikri ve yardımcı düşünceleri tahmin eder.",
+        "c) Masalda yer alan değerler ile ilgili çıkarım yapar.",
+        "ç) Masaldaki değerler ile günlük yaşantısındaki deneyimlerini karşılaştırır.",
+        "d) Masaldaki örtük iletileri sınıflandırır.",
+        "e) Masalda verilmek istenen iletilere tepki verir."
+      ]
+    },
+    {
+      "code": "MD.1.1.5",
+      "title": "Masallar hakkında araştırma yaparak bilgi toplayabilme",
+      "processComponents": [
+        "a) Yöresindeki masallar hakkında araştırma yaparken kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak yöresine ait masallar hakkındaki bilgileri bulur.",
+        "c) Yöresindeki masallara dair ulaşılan bilgileri doğrular.",
+        "ç) Ulaşıp doğruladığı bilgilerden yola çıkarak yöresindeki masallardan birini kaydeder."
+      ]
+    },
+    {
+      "code": "MD.1.1.6",
+      "title": "Araştırdığı masalı sunmada kural uygulayabilme",
+      "processComponents": [
+        "a) Araştırdığı masalın sunumu ile ilgili plan hazırlar.",
+        "b) Araştırdığı masalı sunarken düşünceyi geliştirme yollarını kullanır.",
+        "c) Araştırdığı masalı sunarken içeriğe uygun söz varlığını kullanır.",
+        "ç) Araştırdığı masalı sunarken iletileri açık ve örtük biçimde ifade eder.",
+        "d) Araştırdığı masalı sunarken dil yapılarını uygular.",
+        "e) Araştırdığı masalı sunarken bağdaşıklık ögelerini kullanır.",
+        "f) Araştırdığı masalı sunarken beden dilini ve mekânı etkili bir şekilde kullanır.",
+        "g) İçeriğe uygun oluşturduğu masalı sunar."
+      ]
+    },
+    {
+      "code": "MD.1.1.7",
+      "title": "Masalın özelliklerine uygun içerik oluşturabilme",
+      "processComponents": [
+        "a) Masalında vereceği iletiyi ve kullanacağı değerleri ifade ederken ön bilgileriyle bağlantı kurar.",
+        "b) Masalında kullanacağı yer ve zaman ögelerini, kişi ve varlık kadrosunu, kurgulayacağı olay örgüsünü, olağanüstü ögeleri, sözcükleri ve söz gruplarını tahmin eder.",
+        "c) Masalında işleyeceği tezatlıkları karşılaştırır.",
+        "ç) Masalında döşeme, serim, düğüm, çözüm ve dilek bölümlerini sınıflandırır.",
+        "d) Masalında kullanacağı yer ve zaman ögelerini, kişi ve varlık kadrosunu, kurgulayacağı olay örgüsünü, olağanüstü ögeleri, tezatlıkları, sözcükleri ve söz gruplarını yeniden ifade eder.",
+        "e) Masalının içeriğine uygun yazarak tepki verir.",
+        "f) Yazdığı masalın içeriğine uygun görselle anlam oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "anlatı, anonimlik, değer, hayal gücü, ileti, kahraman, karşıtlık, masal, olağanüstülük, olay örgüsü, sözlü kültür, yapı unsuru",
+  "support": [
+    "Kısa ve sadeleştirilmiş masal metinleriyle okuma çalışmaları yaptırılabilir. Görseller ve hikâye sıralama kartlarından yararlanılarak olay akışı oluşturmaları sağlanabilir. Yarım bırakılmış masalları yönlendirmeler doğrultusunda tamamlamaları istenebilir. Kişi, yer ve olayları eşleştirmeye yönelik etkinlikler uygulanabilir. Dinleme temelli masal anlatımları ve basit sorular aracılığıyla anlama çalışmaları yapılabilir. Kukla, drama ve oyunlardan yararlanılarak masalın somutlaştırılması sağlanabilir. Kelime havuzları ve görsel ipuçları kullanılarak kısa cümleler kurmaları desteklenebilir. Öğretmen rehberliğinde birlikte masal oluşturma çalışmaları gerçekleştirilebilir.",
+    "Bu süreçte öğretmen, öğrencinin etkinliklere aktif katılım göstermesini sağlayacak biçim de aşamalı ve destekleyici öğrenme yaşantıları planlayabilir."
+  ],
+  "enrichment": [
+    "Basit yapıdaki masallarda olay, kişi ve temel mesajı belirlemeye yönelik çözümleme çalışmaları yaptırılabilir. Günlük yaşamdan hareketle kısa ve özgün masallar oluşturmaları istenebilir. Masalları resim, afiş veya basit dijital hikâyeye dönüştürmeleri sağlanabilir. Masal kişilerine yeni özellikler kazandırarak alternatif durumlar oluşturmaları desteklenebilir. Yerel masalları aile büyüklerinden dinlemeleri, aile büyükleriyle bu masallar üzerine görüş alışverişinde bulunmaları, edindikleri bilgileri sınıfta paylaşmaları istenebilir. Masallardan hareketle kısa drama çalışmaları yaptırılabilir. Sınıf içinde oluşturulacak \"masal köşesi\"nde öğrenci ürünleri sergilenebilir.",
+    "Bu etkinlikler aracılığıyla öğrencinin masal türünü tanıması, hayal gücünü kullanması ve temel anlatı unsurlarına yönelik farkındalık geliştirmesi sağlanabilir."
+  ],
+  "assessment": [
+    "Bu temada yer alan öğrenme çıktıları: açık uçlu sorular, kısa cevaplı sorular, tartışma etkinlikleri, beyin fırtınası, zihin haritaları, örnek olay inceleme, grup çalışmaları, rol oynama, dramatizasyon, vızıltı tekniği, kontrol listeleri, gözlem formları, performans görevleri, de receli puanlama anahtarları, sunum değerlendirme formları, akran değerlendirme formları ve öz değerlendirme formları kullanılarak değerlendirilebilir.",
+    "Performans görevlerinde ana fikir, kahraman, olay örgüsü olmayan afiş veya dijital posterin eksiklikleri belirtilerek öğrencinin tekrar yapması sağlanabilir.",
+    "Performans görevi şu araçlarla değerlendirilebilir: dereceli puanlama anahtarı, kontrol listesi, gözlem formu, portfolyo değerlendirme formu, dijital ürün değerlendirme rubriği."
+  ],
+  "teachingApplications": [
+    "MD.1.1.1",
+    "Öğrenciden daha önce dinlediği veya okuduğu masalları hatırlaması ve bu masalların ortak özellikleri üzerine düşünmesi istenir. Öğrenciden okuduğu masalların yazarının olup olmadığını tartışması ve masalın yazarı bilinmeyen bir tür olduğuna ilişkin ön bilgileriyle bağlantı kurması sağlanır ( E1.1 , OB1 ) . Masalda gerçekleşen olayların ve masal kişilerinin yaptıklarının gerçek hayatta yapılıp yapılamayacağını tartışması, masalın olağanüstü ögeler içerdiğini tahmin etmesi desteklenir. Masalın kalıplaşmış sözcük ve söz grupları ile bir öğüt içerdiğine dair tahminlerde bulunması beklenir. Masal işlendikten sonra masalda zaman ve yerin belirsiz olduğuna ilişkin çıkarım yapması, masallardaki tezatlıkları karşılaştırması sağlanır ( E3.4 ) . Masaldaki kişi ve varlık ögelerini özelliklerine göre sınıflandırması beklenir. Edindiği bilgilerden hareketle masal türünü tanıyarak masalla ilgili tepki vermesi ve bu bilgiler doğrultusunda masalın tanımını yapması istenir ( OB1 ) . Yapılan çalışmalar aracılığıyla öğrencinin masalların sözlü kültürün önemli bir parçası olduğunu fark etmesi ve millî kültüre yönelik duyarlılık geliştirmesi desteklenir ( D19.1 ) .",
+    "MD.1.1.2",
+    "Öğrencinin ders kitabında karşılaştığı masalın başlığı ve görsellerinden hareketle masalın içeriği hakkında tahminlerde bulunması, yaptığı tahminleri içerikle ilişkilendirmesi ve başlık ile görsellere ilişkin çıkarım yapması beklenir ( E3.1 , OB4 ) . Masalın verilen bölümünden hareketle öncesi veya sonrası hakkında yargıda bulunması sağlanır ( E3.1 ) .",
+    "MD.1.1.3",
+    "Masalın sesli ve sessiz okunması tamamlandıktan sonra masalın döşeme, serim, düğüm, çözüm ve dilek bölümlerinden oluştuğu üzerinde durulur ( E3.1 ) . Masalın yapı unsurlarından olan yer ve zamanı, kişi ve varlık ögelerini, onların özelliklerini, masalda geçen olay örgüsüne ve bölümlerine ilişkin parçaları, bu parçalar arasındaki ilişkiyi belirlemesi istenir.",
+    "MD.1.1.4",
+    "Masalın konusunu bulurken ön bilgileriyle bağlantı kurması, ana fikrini ve yardımcı düşüncelerini tahmin etmesi istenir ( E2.2 , E3.4 ) . Bu tahminlerden sonra masalda yer alan değerler ile ilgili çıkarım yapması ve bu değerleri günlük yaşantısındaki deneyimleriyle karşılaştırması sağlanır ( E3.2 , E3.4 , SDB3.1 ) . Öğrencinin masaldaki örtük iletileri sınıflan dırması sağlanır. Yapılan çalışmalar aracılığıyla öğrencinin görev bilinci doğrultusunda öz disiplinli ve sorumluluk sahibi davranışlar göstermesi desteklenir ( E2.2 , E3.1 , D16.3 ) . Edindiği bilgilere göre verilmek istenen iletilere dair tepki vermesi beklenir.",
+    "MD.1.1.5",
+    "Öğrencinin yöresindeki masalları araştırması istenir. Araştırma sürecinde aile büyüklerinin sözlü anlatımlarından da yararlanması teşvik edilir. Bu araştırması sırasında öğrencinin \"Okul Dışı Öğrenme Platformu\"na (okuldisiogrenme.eba.gov.tr) yönlendirilmesi sağlanabilir ( E1.3 , E2.2 , OB5 ) . Bu araştırmayı yaparken kullanacağı araçları belirlemesi, bu araçları kullanarak yöresine ait masallar hakkında bilgi toplaması, bu masallara dair ulaşılan bilgileri doğrulaması ve doğruladığı bilgilerden hareketle bu masallardan birini yazıya aktararak kaydetmesi istenir ( E1.6 , E2.2 , OB5 ) . Yapılan çalışmalar aracılığıyla öğrencinin yöresine ait masalları kültürel mirasın bir parçası olarak değerlendirmesi ve millî kültüre yönelik duyarlılık geliştirmesi desteklenir ( D19.1 ) .",
+    "MD.1.1.6",
+    "Araştırdığı masalla ilgili plan yapması ve sunumu için hazırlığını tamamlaması beklenir. Öğrencinin araştırma sürecinde yazdığı masalın sunumunda tanımlama, örnekleme, karşılaştırma, benzetme, tanık gösterme ve sayısal verilerden yararlanma gibi düşünceyi geliştirme yollarını kullanması beklenir. Araştırdığı masalı sunarken uygun söz varlığını kullanarak iletileri açık ve örtük biçimde ifade etmesi sağlanır. Sunum sırasında dil yapılarını doğru ve etkili biçimde kullanması, anlatımında bağdaşıklık ögelerine dikkat etmesi sağlanır. Masalın sunumunda ses özelliklerini (vurgu, tonlama), beden dilini ve mekânı etkili bir şekilde kullanması sağlanır. Yapılan çalışmalar aracılığıyla öğrencinin estetik değere yönelik duyarlılık geliştirmesi, üretkenliğini ortaya koyması, duygu dünyasını estetik yollarla ifade etmesi ve ruhsal gelişimini destekleyen farkındalıklar kazanması teşvik edilir ( E2.3 , SDB2.1 , D7.2 ) . Araştırdığı masalı hazırladığı sunum planı doğrultusunda içeriğine uygun biçimde sunması sağlanır ( D16.3 ) . Araştırdığı masalla ilgili dinleyicilerin/izleyicilerin sorularını cevaplaması ve sunumunu kendi belirlediği veya belirlenen ölçütlerle değerlendirmesi istenir.",
+    "MD.1.1.7",
+    "Yazacağı masalda içerik oluştururken vereceği iletiyi, kullanacağı değerleri ifade ederken ön bilgileriyle bağlantı kurması sağlanır. Masalında kurgulayacağı olay örgüsünü, kişi ve varlık kadrosunu, yer ve zaman ögelerini, olağanüstü ögeleri, sözcükleri ve söz gruplarını tahmin etmesi, tezatlıkları karşılaştırması ve bunları yeniden ifade etmesi sağlanır. Bu süreçte öğrencinin özgür düşünerek karar verebilmesi, seçimlerini bağımsız biçimde oluşturabilmesi ve tercihlerini kararlılıkla ortaya koyması desteklenir ( E1.2 , E3.3 , D11.2 ) . Öğrenciden masalında döşeme, serim, düğüm, çözüm ve dilek bölümlerini sınıflandırması istenir ( E3.2 ) . Öğrenciden oluşturduğu içeriğe uygun bir şekilde masalını yazması istenir ( E3.3 ) . Öğrencinin masalına uygun görsellerle masalını desteklemesi beklenir ( OB4 ). Yapılan çalışmalar aracılığıyla öğrencinin görsel düzen ile içerik arasındaki uyumu gözetmesi, estetik değere yönelik duyarlılık geliştirmesi teşvik edilir ( D7.2 ) . Öğrencinin oluşturduğu masalla ilgili plan yapması ve sunumu için hazırlıklarını tamamlayıp masalını sunması beklenir. Öğrenciden masalını tamamladıktan sonra ses özelliklerine (vurgu, tonlama) ve beden diline dikkat etmesi, görsel vb. kullanarak masalını sunması istenir ( E1.2 , E2.2 , SDB1.3 , SDB2.1 ) . Yapılan çalışmalar aracılığıyla öğrencinin oluşturduğu masalda millî kültürü yansıtan ögelere yer vermesinin önemi üzerinde durularak millî kültüre yönelik duyarlılık geliştirmesi desteklenir ( D19.1 ) ."
+  ],
+  "skills": [
+    "Anlama",
+    "TAB2. Okuma",
+    "Anlatma",
+    "TAB3. Konuşma,TAB4. Yazma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1456"
+}

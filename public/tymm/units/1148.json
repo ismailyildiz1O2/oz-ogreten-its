@@ -1,0 +1,57 @@
+{
+  "unitId": 1148,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: ÇALGIMI TANIYORUM (GİTAR)",
+  "hours": "9",
+  "description": "Temada öğrencinin gitarın özelliklerini, fiziksel yapısını ve çeşitlerini gördükten sonra gitar çalgısını tanıyabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.1.3.1",
+      "title": "Gitarın yapısı ve bölümlerini tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.1.3.2",
+      "title": ". Farklı boyutlardaki gitarları tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "boyut, gitar",
+  "support": [
+    "Çeşitli boyutlardaki gitar görselleri gösterilerek bunları boyutlarına göre küçükten büyüğe doğru sıralamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, gitar türlerini ve boyutlarını inceledikten sonra grup hâlinde bir sunum yaparak öğrendikleri bilgileri sınıf arkadaşlarına aktarabilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı, doğru-yanlış ve eşleştirme soruları ile ölçülebilir. Gitar bölümleri ile ilgili bilgiler doğru-yanlış ve eşleştirme sorularıyla ölçülebilir. Performans görevi olarak öğrencilere gitarın özelliklerini görsellerle eşleştirerek incelemeleri ve bulgularını bir grup tartışmasında sunmaları istenebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.1.3.1",
+    "Öğrencilere klasik gitar veya görseli gösterilerek çalgı hakkında görüşleri sorulur. Gitarın; insan kalbine en yakın çalgı olduğu bilgisi verilir. Böylece öğrencilerin öğreneceği konu hakkında merak duyması ve konuya ilişkin bilgi toplamaları sağlanır ( E1.1 ). Gitarın yapısı ve bölümleri açıklanır. Öğrenciler öğretmenin sınıf ortamına getirdiği farklı boyutlardaki gitarları tanımak için bilgi toplarlar. Öğrencilerden gitarların boyutlarıyla ilgili soru sormaları beklenir ( E3.8, SDB2.1 ). Öğrenciler ulaştıkları bilgileri birbirleriyle istişare ederek doğrular ve kaydeder ( KB2.6 ). Öğrencilere çalgı boyutlarıyla ilgili eşleştirme soruları yöneltilebilir. Gitar bölümleri ile ilgili bilgiler doğru-yanlış ve eşleştirme sorularıyla ölçülebilir.",
+    "GTR.1.3.2",
+    "Görsellerden yararlanılarak farklı boyutlardaki gitarları tanımaları sağlanabilir. Öğrenciler gösterilen gitar görsellerini incelerler ( OB4 ). Gitarların boyutlarıyla ilgili hazırlanmış yapbozlar aracılığıyla öğrenme süreci eğlenceli hâle getirilebilir ( E2.5 ). Aşağıdaki konularla ilgili performans görevleri verilebilir. Öğrencilerin görev bilincine sahip olmaları hedeflenir ( D16.3 ). Farklı gitarlar gösterilerek bu gitar çeşitlerini incelemeleri, görsel sanatlar dersi ile ilişkilendirilerek hayallerindeki gitar modelinin resmini çizmeleri istenebilir ( E3.3 ). Performans görevi olarak öğrencilere gitarın özelliklerini görsellerle eşleştirerek incelemeleri ve bulgularını bir grup tartışmasında sunmaları istenebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1148"
+}

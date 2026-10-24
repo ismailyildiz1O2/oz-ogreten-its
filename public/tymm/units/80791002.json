@@ -1,0 +1,49 @@
+{
+  "unitId": 80791002,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "2. ÜNİTE: OSMANLI TÜRKÇESİ ALFABESİ (MATBU)",
+  "hours": "6",
+  "description": "Bu ünitede konu anlatımlarında tablolardan yararlanılmalıdır.",
+  "outcomes": [
+    {
+      "code": "OSM.10.2.1.1",
+      "title": "Osmanlı Türkçesi alfabesindeki matbu harfleri adlarıyla okur",
+      "processComponents": [
+        "Harfler tanıtılırken öğrencilerin hazır bulunuşluluk düzeyi dikkate alınmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.10.2.1.2",
+      "title": "Osmanlı Türkçesi alfabesini Kur'an alfabesiyle karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.2.2.1",
+      "title": "Harflerin; kelimenin başında, ortasında ve sonunda aldıkları şekilleri tanır",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.2.2.2",
+      "title": "Kendinden sonraki harflere birleşmeyen harfleri ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.2.3.1",
+      "title": "Rakamları ve noktalama işaretlerini tanır",
+      "processComponents": [
+        "Rakamların soldan sağa doğru yazılıp okunduğu vurgulanmalıdır.",
+        "Tarihlerin, rakamlarla yazılışı gösterilmelidir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

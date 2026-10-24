@@ -1,0 +1,61 @@
+{
+  "unitId": 1225,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "1. TEMA: NEYDE BİRİNCİ KADEME SES ALANINDA ARA SESLER",
+  "hours": "17",
+  "description": "Temanın içeriğini neyde birinci kademede ses alanında yer alan ara sesleri kaba kürdi, kaba nim hicaz ve kaba segâh notalarını çalabilme oluşturmaktadır. Bu doğrultuda neyde birinci kademe ses alanında yer alan ara sesleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.6.1.1",
+      "title": ". Kaba kürdi ve kaba nim hicaz notalarını çalabilme",
+      "processComponents": [
+        "a) Kaba kürdi ve kaba nim hicaz notalarını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    },
+    {
+      "code": "NEY.6.1.2",
+      "title": "Kaba segâh notasını çalabilme",
+      "processComponents": [
+        "a) Kaba segâh notasını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notayı yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ara sesler, ney, nota, ritim, süre",
+  "support": [
+    "Etütlerin yanı sıra neyde birinci kademede öğrendiği notalardan oluşan basit usullü Türk müziği eserlerine yer verilebilir."
+  ],
+  "enrichment": [
+    "NEY.6.1.1",
+    "Öğretmen tarafından neyde kaba kürdi ve kaba nim hicaz sesleri uygulamalı olarak gösterilip dinletildikten sonra öğrencilerden bu sesleri çözümlemeleri beklenir. Neyde kaba kürdi ve kaba nim hicaz notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak öğrencilere gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde birinci kademede yer alan kaba kürdi ve kaba nim hicaz notalarını çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Birinci kademede yer alan kaba kürdi ve kaba nim hicaz notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından seslendirilir. Öğrencilerin gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar analitik dereceli puanlama anahtarı, gözlem formu veya kontrol listesi ile değerlendirilebilir.",
+    "NEY.6.1.2",
+    "Öğretmen tarafından neyde kaba segâh sesi uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesi çözümlemeleri beklenir. Neyde kaba segâh notasının parmak ve doğru duruş pozisyonu öğrencilere uygulamalı olarak gösterilir. Öğrencilerin bu pozisyona odaklanmaları ve kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 .). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin neyde birinci kademede yer alan kaba segâh notasını çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Birinci kademede yer alan kaba segâh notasının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır. Öğrencilerin gözlemledikten sonra etütleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Süreç sonunda performans görevi olarak neyde birinci kademe ses alanında yer alan seslerinin geçtiği kaba kürdi, kaba nim hicaz ve kaba segâh Türk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak neyde birinci kademe ses alanında yer alan kaba kürdi, kaba nim hicaz ve kaba segâh seslerinin geçtiği Türk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1225"
+}

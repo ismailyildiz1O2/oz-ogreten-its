@@ -1,0 +1,53 @@
+{
+  "unitId": 1268,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "1. TEMA: KANUNDA BOŞLUKSUZ MANDALLARI TANIYORUM",
+  "hours": "10",
+  "description": "Temada öğrencinin kanunda bulunan boşluksuz mandalların hangi notalara denk geldiği üstünde durulur.",
+  "outcomes": [
+    {
+      "code": "KNN.2.1",
+      "title": "Boşluksuz mandal gruplarını sınıflandırabilme",
+      "processComponents": [
+        "a) Kanundaki mandalların hangilerinin boşluksuz olduğunu saptamak için ölçütler belirler.",
+        "b) Kanundaki mandalları, boşluksuz olup olmamalarına göre sınıflandırır.",
+        "c) Kanundaki mandalları boşluksuz oluşuna göre tasnif eder.",
+        "ç) Kanundaki mandalları boşluksuz oluşuna göre isimlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, müzik, ses",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu artırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazır bulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak kanun hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Etkinlikler yapılırken öğrencilere ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte geri dönüşüm malzemeleri ile bir kanun modeli oluşturulması ve mandal sistemlerinin özelliklerine göre farklı renklerle tasarlanması istenebilir. Öğrenciler, kanun üzerindeki boşluklu ve boşluksuz mandalları kâğıt üzerinde modelleyip sınıf panosunda sergileyebilir; kâğıt üzerinde basitçe çizdikleri ya da çıktısını aldıkları bir kanun resminde mandalları farklı özelliklerine göre gruplandırabilir ve 3D kalem veya renkli asetat kâğıtlarla benzer yapıdaki mandalları modelleyebilir. Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik ve materyal hazırlanabilir. Kanun sesi kullanarak grup oyunları düzenlenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden boşluklu ve boşluksuz mandalların hangileri olduğunu göstermesi; tel, burgu, eşik ve mandalların ne işe yaradıklarını, birbirleriyle olan ilişkilerini bir ödev raporu hâlinde sunması performans görevi istenebilir."
+  ],
+  "teachingApplications": [
+    "KNN.2.1.",
+    "Öğretmen kanun çalgısının temel özellikleri ile Türk müziğinde kanunun önemine dair kısa bir açıklama yapar. Öğretmen, öğrencilerin dikkatini çekmek ve ilgilerini artırmak amacıyla \"soru cevap tekniği\" kullanarak mandalların görevleri ile ses üzerindeki etkilerini sorar. Örneğin \"Mandal gruplarının her bir sesin doğru yere yerleşmesinde nasıl bir etkisi olabilir?\" gibi sorular yönelterek merak uyandırır ( E1.1 ). Gelen cevapların ardından öğretmen kanundaki boşluklu ve boşluksuz mandal gruplarını gösterir. Öğrenciler, kanundaki boşluksuz mandalların özelliklerini tanıyarak bunları sayıca az ya da çok olma durumlarına göre belirler ve ölçütler oluşturur. ( KB2.4 ) Öğrenci tarafından boşluksuz mandallar gösterilir ( OB1 ). Bu süreçte öğrenciler, bilgiyi analiz edip doğru ve güvenilir bilgiye ulaşma yollarını öğrenirler ( D3.3 ). Öğrencilerin mandalların sayısı ile ses arasındaki ilişkiyi belirlemeleri sağlanır. Belirlenen bu ölçütlere göre öğrenciler boşluksuz mandalları diğer mandallardan ayırır. Öğrenciler, kanundaki hangi mandalların boşluksuz olduğunu seçer ve bir kontrol listesi veya işaretleme tablosu kullanarak bu mandalları işaretleyebilir. Ayrıştırma sürecinde öğretmen, öğrencilere rehberlik eder ( SDB2.1 ). Öğrenciler, boşluksuz mandalları diziliş düzeni ve seslerine göre ayırt eder; bu mandalları notalarına göre sınıflandırır. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1268"
+}

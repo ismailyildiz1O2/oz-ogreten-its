@@ -1,0 +1,49 @@
+{
+  "unitId": 81424049,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "49. ÜNİTE: BAĞLAMA - BAĞLAMA ÇALMADA TEMEL DAVRANIŞLAR",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.7.2.1",
+      "title": "Bağlamada doğru duruş ve tutuşu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.2.2",
+      "title": "Tezene ve klavye ellerinin konumlandırılmasını bağlama üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.2.3",
+      "title": "Çalgı üzerinde tezene vuruş işaretlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.2.4",
+      "title": "Tezene vuruşlarını bağlama üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.2.5",
+      "title": "Tezene vuruş etüt ve egzersizlerini bağlamada uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.2.6",
+      "title": "Grup çalışmaları yaparak doğru duruş ve tutuşunu kontrol eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

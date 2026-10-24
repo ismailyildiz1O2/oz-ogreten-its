@@ -1,0 +1,125 @@
+{
+  "unitId": 81663002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "2. ÜNİTE: PROGRAMLAMAYA GİRİŞ VE ALGORİTMA - 2. ÜNİTE: ALGORİTMA İLE PROBLEM ÇÖZME VE AKIŞ DİYAGRAMI",
+  "hours": "20",
+  "description": "Akış diyagramları, bir sürecin işlem adımlarını sıralı bir şekilde özetlemek için semboller kullanan görsel şemalardır. Akış diyagramları programcıların en verimli kodlamayı geliştirmelerine ve programcıların potansiyel sorunlu alanın nerede olduğunu anlamalarına yardımcı olur. Bu ünitede sırasıyla; programlamanın önemi, programlama dillerinin gelişimi, algoritma kavramı, çözümü istenen bir problemin kavranması, gereksinimleri ve çözümü için gerekli olan en doğru algoritmanın yazımı, akış diyagramının nerelerde kullanıldığı, akış diyagramı şekilleri ve elemanlarının listesi, var olan akış diyagramından problemin kavranması ve bir problemin akış diyagramının tasarlanması üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.2.1",
+      "title": "Çözümü istenen problemi kavrar",
+      "processComponents": [
+        "Algoritma çözüm sürecinde en önemli aşamanın problemi anlamak ve problemin çözümüne yönelik adımları tahmin etmek olduğu açıklanır. Çözüm gerektirecek ortak problemler tartışılır.",
+        "Probleme neden olan durumların araştırılması gerektiği belirtilir.",
+        "Problemin etki alanı sorularla buldurmaya çalışılır.",
+        "Çözüme ulaşmış benzer problem örnekleri verilerek çözüm hakkında bilgi sahibi olunması sağlanır.",
+        "Problemde verilen ve istenen bilgileri listelemenin, problemi daha iyi anlayabilmek için önemli olduğu vurgulanır.",
+        "Eğer verilen problem karmaşık bir problemse problemin alt basamaklara ayrılabileceği belirtilir."
+      ]
+    },
+    {
+      "code": "BTY.2.2",
+      "title": "Çözüm için gereksinimlerini belirler",
+      "processComponents": [
+        "Belirlenen problem durumunun çözümünü kolaylaştıracak unsurlar üzerinde durulur. Problemin açık anlaşılır ve net hâle getirilmesi sağlanır.",
+        "Günlük hayatta karşılaşılan problemlere çözüm önerileri sunulur.",
+        "Bir problemin çözümü için farklı çözüm yolları olabileceği vurgulanır.",
+        "Problem çözme süreci ile ilgili geliştirilmiş kuram ve yaklaşımlardan bahsedilerek bu sürecin temel basamakları açıklanır.",
+        "Bir problemin çözümü için kullanılabilecek temel yöntem ve teknikler ile ilgili öğrencilere bilgilendirme yapılır."
+      ]
+    },
+    {
+      "code": "BTY.2.3",
+      "title": "Problemin girdi, çıktı ve işlem aşamalarını belirler",
+      "processComponents": [
+        "Öğrencilere girdi ve çıktı kavramları açıklanır.",
+        "Örnek problem durumlarının girdi ve çıktıları belirlenir.",
+        "Problem alt basamaklara ayrılarak çözüm için işlem basamakları belirlenir.",
+        "İşlem aşamaları belirlenirken bulunan farklı çözüm yollarından çözüme en kısa sürede ulaştıracak olan seçilmeye çalışılır."
+      ]
+    },
+    {
+      "code": "BTY.2.4",
+      "title": "Algoritma kavramını açıklar",
+      "processComponents": [
+        "Günlük hayattaki rutin işler üzerine öğrencilerin fikri alınır. Bu işlerin mantığı ve sırası değiştiğinde işin sonucuna nasıl etki edeceğini söyler.",
+        "Örnek algoritmalar üzerinden yola çıkılarak algoritma kavramı öğrencilere anlatılır.",
+        "Algoritma kelimesinin 9. yüzyılda yaşamış matematikçi Ebu Cafer Muhammed bin Musa el Harezmi'nin adının Latince okunuşundan geldiği açıklanır.",
+        "İlk algoritmanın, el-Harezmi tarafından “Hisab el-cebir ve el-mukabala” kitabında sunulduğundan bahsedilir.",
+        "Öğrencilerden el-Harezmi ve onun algoritma ve bilgisayar bilimine katkılarıyla ilgili araştırma yapmaları istenir. Araştırma sonuçları sınıfla paylaşılır."
+      ]
+    },
+    {
+      "code": "BTY.2.5",
+      "title": "Bir problemin çözümü için en doğru algoritmayı geliştirir",
+      "processComponents": [
+        "Belirlenen girdi ve çıktıları kullanarak işlem adımlarını doğru sıralamanın önemi açıklanır.",
+        "Algoritma yazımında oluşabilecek hatalar üzerinde düşünülmesi istenir.",
+        "Toplumu ilgilendiren bir problemin çözümüne yönelik öğrencilerden girdi, çıktı ve işlem adımlarıyla algoritma yazmaları istenir.",
+        "Tasarlanan algoritmanın doğruluğu tartışılır. Geliştirilmesi gereken noktalar yeniden çalışılarak algoritma en doğru ve işlevsel hâle getirilir."
+      ]
+    },
+    {
+      "code": "BTY.2.6",
+      "title": "Programlamanın önemini yorumlar",
+      "processComponents": [
+        "Öğrencilere programlama kavramının ne olduğu açıklanır. Neden önemli olduğu saygı çerçevesinde tartışılır."
+      ]
+    },
+    {
+      "code": "BTY.2.7",
+      "title": "Programlama dillerinin gelişimini açıklar",
+      "processComponents": [
+        "Programlama dillerinin farklı kullanım amaçları ile ilgili bilgilendirme yapılır.",
+        "Programın amacına yönelik programlama dili kullanılabileceği açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.2.8",
+      "title": "Akış diyagramının kullanım amaçlarını açıklar",
+      "processComponents": [
+        "Akış diyagramı kavramı öğrencilere açıklanır.",
+        "Karmaşık bir problemin çözümüne yönelik akış diyagramı oluşturmanın sağlayacağı avantajlar üzerinde durulur.",
+        "Akış diyagramı tasarlarken herkes tarafından anlaşılır olabilmesi için standart anlamlar taşıyan şekillerin kullanılması gerektiği anlatılır.",
+        "Akış diyagramlarının programın akışını görebilmek ve süreçteki hatayı bulmakta kolaylık sağladığı vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.2.9",
+      "title": "Temel akış diyagramı şekillerini ve elemanlarını listeler",
+      "processComponents": [
+        "Temel akış diyagramı şekilleri ve yardımcı elemanları öğrencilere gösterilir. Şekillerin anlamları açıklanır, kullanıldığı durumlar örneklendirilir.",
+        "Akış diyagramının tüm sembollerinin oklarla bağlı olması ve diyagramın yönünün belli bir yönde hazırlanması gerektiği vurgulanmalıdır.",
+        "Akış diyagramlarının içerik ve türlerine göre; doğrusal, mantıksal ve döngü içeren akış diyagramları olmak üzere üçe ayrıldığı söylenir. Daha iyi anlaşılması için örnek akış diyagramları incelenir."
+      ]
+    },
+    {
+      "code": "BTY.2.10",
+      "title": "Var olan bir akış diyagramını okuyarak problemi kavrar",
+      "processComponents": [
+        "Akış diyagramının girdi ve çıktıları belirlenir. Girdi ve çıktılardan yola çıkarak akış diyagramının hangi amaca hizmet edebileceği tahmin edilir.",
+        "Akış diyagramının türünü belirlerken öncelikle diyagram içerisinde karar veya döngü yapıları aranması gerektiği vurgulanır.",
+        "Diyagramda istenen veri girişleri tespit edilerek yapılacak işlemler listelenir ve istenilen sonuç bulunur."
+      ]
+    },
+    {
+      "code": "BTY.2.11",
+      "title": "Problemin akış diyagramını tasarlar",
+      "processComponents": [
+        "Belirlenen problem durumuna yönelik akış diyagramı türü seçildikten sonra uygun semboller kullanılarak diyagram taslak olarak çizilir.",
+        "Akış diyagramının elektronik ortamdaki çizimi için kelime işlemci programları veya diğer çizim programları kullandırılır.",
+        "Günlük hayatta yaygın olarak kullanılan bir uygulamada akış diyagramı tasarlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

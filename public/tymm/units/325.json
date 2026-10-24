@@ -1,0 +1,98 @@
+{
+  "unitId": 325,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "2. TEMA: GEOMETRİK ŞEKİLLER",
+  "hours": "26",
+  "description": "Bu temada öğrencilerin çemberin elemanlarını (kesen, kiriş, teğet, çap ve yay) çözümleyebilmeleri; çemberde açı, kiriş ve teğetin özelliklerine ilişkin çıkarım yapabilmeleri; bu özellikleri ve dairenin alanını farklı problem durumlarında kullanabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.2.1",
+      "title": "Çemberle ilişkili elemanları (kesen, kiriş, teğet, çap, yay) çözümleyebilme",
+      "processComponents": [
+        "a) Kesen, kiriş, teğet, çap ve yayı çemberin elemanları olarak belirler.",
+        "b) Çemberde kesen, kiriş, teğet, çap ve yay arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.12.2.2",
+      "title": "Çemberin açı, kiriş ve teğet özellikleri ile ilgili çıkarım yapabilme",
+      "processComponents": [
+        "a) Çemberde açı, kiriş ve teğetin özelliklerine ilişkin varsayımlarda bulunur.",
+        "b) Varsayımlarından yararlanarak çemberde açı, kiriş ve teğetin özelliklerine ilişkin örüntüleri geneller.",
+        "c) Genellemelerini varsayımlarıyla karşılaştırır.",
+        "ç) Elde ettiği genellemelerden önermeler sunar.",
+        "d) Önermelerinin farklı problem durumlarındaki kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.2.3",
+      "title": "Çemberin açı, kiriş, teğet özelliklerini ve dairenin alanını kullanarak problem çözme",
+      "processComponents": [
+        "a) Çemberde açı, kiriş, teğetin özelliklerini ve dairenin alanını içeren problemlerin bileşenlerini (nicelik, şekil gibi) belirler.",
+        "b) Problemlerde verilen bileşenler arasındaki ilişkileri belirler.",
+        "c) Problemin bileşenlerini ve bileşenlerin aralarındaki ilişkileri uygun matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemin öncüllerini ve problemde ulaşmak istediği sonucu kendi ifadeleri ile açıklar.",
+        "d) Problemlerin çözümü için stratejiler geliştirir.",
+        "e) Geliştirdiği stratejileri kullanarak problemi çözer .",
+        "f) Çözümünü kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problem çözme sürecini gözden geçirir.",
+        "ğ) Çözüme ulaştıran stratejilerin hangi problemlere uyarlanabileceğine yönelik çıkarımlar yapar.",
+        "h) Ulaştığı çıkarımları değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "çap, çember, çevre açı, daire, daire dilimi, dairenin alanı, dış açı, iç açı, kesen, kiriş, kirişler dörtgeni, merkez açı, teğet, teğetler dörtgeni, teğet-kiriş açı, yay, yay uzunluğu",
+  "support": [
+    "Konunun görsel ve işitsel materyaller kullanılarak, oyunlaştırılarak öğrencilere sunulmasına dikkat edilir. Böylece çıkarım yapma sürecinde kavramlar, öğrencilere ilişkilerin somutlaştırılması yoluyla verilebilir. Etkileşimli çevrim içi öğrenme uygulamaları kullanılarak öğrencilerin hedeflenen becerileri kazanmalarına yardımcı olunabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden çemberin uzunluğu ve dairenin alanı için yapacakları görsel ispatları açıklayan bir video ve benzeri dijital materyal oluşturmaları ve oluşturdukları materyalleri dijital ortamda paylaşmaları beklenebilir.",
+    "(*) Dairenin alanı ve pi sayısı üzerine Arşimet'in yaptığı çalışmaların araştırılması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, doğru-yanlış soruları, tanılayıcı dallanmış ağaç ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere çemberde kesen, kiriş, teğet, çap ve yay arasındaki ilişkilere yönelik çalışma kâğıdı verilebilir. Yapılan çalışmalar, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilere çemberde açı, kiriş ve teğetin özelliklerini, dairenin alan bağıntısını içeren gerçek yaşam durumları üzerinden problemler çözmelerini gerektiren performans görevi verilebilir. Performans görevinde çözülen problemler; öz değerlendirme, akran değerlendirme formları ve analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Çemberde açı, kiriş ve teğetin özellikleri ile bunların problem durumlarında kullanımlarını gerektiren açık uçlu sorulardan oluşan çalışma kâğıtları verilebilir. Cevaplar, analitik ya da bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.2.1 Öğrencilerin önceden öğrendikleri çember, merkez, çap, yarıçap, çemberin uzunluğu, yay uzunluğu, dairenin alanı ve daire diliminin alanı gibi konular üzerinde tekrar düşünmeleri sağlanır. Hastalıklardan korunmak için insanlar arasında 1,5 metre sosyal mesafenin korunması durumu, sürdürülebilirlik ve sağlıklı yaşam için motorlu taşıt kullanımının azaltılması, bisikletin aldığı yol ile tekerleğin uzunluğu arasındaki ilişki, sudan tasarruf için bahçe ve tarla gibi ziraat yapılan bölgelerde dairesel sulama sistemlerinin kullanılması gibi gerçek yaşam durumlarıyla çember ilişkilendirilir ( OB8 , D13.4 , D16.2 , D17.2 , E2.1 , E2.2 ) . Öğrenciler gruplar hâlinde çalışarak matematik yazılımları, pergel, ölçüsüz cetvel veya kâğıt katlama gibi matematiksel araç ve teknolojiler yardımıyla düzlemde çember ile doğrunun birbirlerine göre durumlarını değerlendirir ( MAB5 ) . Bu değerlendirmeler esnasında gruplar çemberi farklı şekillerde kesen doğrular oluşturarak teğet, kesen ve kiriş kavramlarını belirlemeye yönelik çalışmalar yapar.",
+    "Öğrencilerin çemberi kesen bir doğrunun çemberi kestiği noktalardan yararlanarak kiriş ve yay kavramlarını, çembere bir noktada değen doğrudan yararlanarak teğet kavramını incelemeleri sağlanır. Sınıf içi tartışmalarla öğrencilerin grup iletişimine katılma, etkin dinleme ve düşüncelerini ifade etme süreçleri de dikkate alınarak çemberde kesen, kiriş, teğet, çap ve yay arasındaki ilişkilerin belirlenmesi sağlanır ( SDB2.1 , SDB2.2 , D14.1 ) . Öğrencilere çemberde kesen, kiriş, teğet, çap ve yay arasındaki ilişkilere yönelik çalışma kâğıdı verilebilir.",
+    "MAT.12.2.2 Öğrencilerin matematik yazılımları veya pergel, ölçüsüz cetvel gibi matematiksel araç ve teknolojiler kullanarak çember ve çemberde açı, teğet ve kiriş özelliklerine ilişkin varsayımlarda bulunmaları sağlanır ( MAB5 ) . Bu varsayımlardan hareketle merkez açı, çevre açı, iç açı, dış açı, teğet-kiriş açının çemberde oluşturduğu yayların ölçüleri arasındaki ilişiklere dair genellemeler yapmaları istenir. Öğrencilerin varsayımlar oluşturma ve genellemelere ulaşma sürecinde dijital uygulamalar kullanmaları durumunda dijital okuryazarlık becerilerinin gelişimi de sağlanır ( OB2 ) . Bu genellemeler ile varsayımlarını bilimsel bir bakış açısıyla karşılaştırmaları beklenir ( D3.3 ) . Elde ettikleri genellemeleri kullanarak \"Merkez açının ölçüsü, aynı yayı gören çevre açının ölçüsünün iki katıdır.\", \"Kirişler dörtgeninde karşılıklı açıların ölçüleri toplamı birbirine eşit ve 180 derecedir.\" gibi önermelerde bulunmaları; bu önermeleri yeni durumlara uyarlayarak değerlendirmeleri öğrencilerden beklenir.",
+    "Teğetler dörtgeninin özellikleri ile ilgili de öğrencilerin benzer şekilde çıkarımda bulunmaları sağlanır. Öğrenciler teğetler dörtgeninin alanının nasıl hesaplanacağına ilişkin dijital araçlar kullanarak bir bilgi notu hazırlar ve bunu arkadaşlarıyla dijital ortamda paylaşır ( OB2 ) . Öğrenciler ayrıca çemberlerin birbirine göre durumlarından elde edilen uzunluk özelliklerine dair benzer bir süreç işleterek önermelerde bulunur.",
+    "Çemberde açı, kiriş ve teğetin özellikleri ile bunların problem durumlarında kullanımlarını gerektiren açık uçlu sorulardan oluşan çalışma kâğıtları verilebilir.",
+    "MAT.12.2.3 Öğrencilere çemberde açı, kiriş ve teğetle ilgili çıkarımlarını kullanmayı gerektiren problem durumları sunulur. Bu problemler fizik dersinde yer alan dairesel hareketle ilişkilendirilebilir. Öğrencilerden sunulan problem durumlarına ilişkin olarak öncelikle problemin parçaları (alan, çevre açı, teğet noktası, çap, kiriş, yay uzunluğu gibi) ve bu parçalar arasındaki ilişkileri belirlemeleri beklenir. Bu tür problemlerdeki parçalar ile bunlar arasındaki ilişkiler; öğrencilerin bilgiyi çözümleme, yorumlama ve sentezleme becerilerinin de gelişimini sağlar ( OB1 ) . Öğrencilerden özellikle gerçek yaşam durumlarını içeren problemleri analitik bir yaklaşımla ve görsel bir temsili kullanarak dönüştürmesi ve problemin bileşenlerini ifade etmesi beklenir ( E3.6 , MAB3 ) . Öğrencilerin problemin çözümü için geliştirdikleri stratejileri uygulayarak problemi çözmeleri ve çözümlerini kontrol etmeleri sağlanır. Bu tür problemlerin çözümünde çemberle birlikte üçgen ve çokgenin özellikleri (ikizkenar üçgen, eşkenar üçgen, benzerlik, alan gibi), kâğıt katlama stratejileri, matematik yazılımlarının kullanımını içeren stratejiler kullanılır. Daha sonra öğrencilerin farklı çözüm yollarını ve stratejilerini eleştirel bir yaklaşımla incelemeleri beklenir ( E3.10 ) . Bunun için çözümleri tartışma ortamında ele almaları sağlanır. Tartışılan çözüm stratejileri üzerinden problemin çözümünü sağlayan stratejilerin benzer tüm durumlara genellenip genellenemeyeceği incelenir. Çözüm stratejilerinden hangilerinin hangi tür problemlerde kullanılabileceğine ilişkin (pergel, cetvel, ölçüsüz cetvel veya matematik yazılımları ile çokgenlerin özelliklerinin kullanımı gibi) genellemeler matematiksel örneklerle desteklenerek gözden geçirilir. Öğrencilerin kendi uyguladıkları stratejilerin doğruluğu ya da yanlışlığı ile ilgili ayrıca bir değerlendirme yaparak belirledikleri stratejileri farklı problem durumlarına uyarlamaları sağlanır ( SDB1.3 ) . Bu değerlendirmeler sonucunda öğrencilerden elde ettikleri genellemeleri farklı problem durumlarına yansıtmaları beklenir. Bu süreçte çemberin uzunluğu, yayın uzunluğu, dairenin alanı, daire diliminin alanı kavramlarını farklı çokgenlerle ilişkilendirmelerini gerektiren problemlere yer verilir. Öğrencilerin çember ve özelliklerine dair bilgi ve çıkarımlarının değerlendirilmesi, tanılayıcı dallanmış ağaç ya da doğru-yanlış soruları kullanılarak yapılabilir. Öğrencilere çemberde açı, kiriş ve teğetin özelliklerini ve dairenin alan bağıntısını içeren problemler çözmelerini gerektiren performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D14.1",
+      "D16.2",
+      "D17.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.2",
+      "E3.10",
+      "E3.6"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/325"
+}

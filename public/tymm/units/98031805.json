@@ -1,0 +1,49 @@
+{
+  "unitId": 98031805,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "5. ÜNİTE: KUR’AN-I KERİM VE ÖZELLİKLERİ",
+  "hours": "14",
+  "description": "Bu ünitede sırasıyla; “İslam Dininin Temel Kaynakları”, “Kur’an-ı Kerim’in Ana Konuları”, “Kur’an-ı Kerim’in Temel Özellikleri”, “Bir Peygamber Tanıyorum: Hz. Nuh (a.s.)” konularına yer verilir. Ünite genelinde konular, günlük hayattan ve öğrencilerin somut deneyimlerinden örneklerle işlenir. Konular; ayet ve hadisler başta olmak üzere öğrenci seviyesine uygun atasözü, vecize, beyit, ilahi, nefes gibi edebî metinlerle desteklenir.",
+  "outcomes": [
+    {
+      "code": "DKAB.8.5.1",
+      "title": "İslam dininin temel kaynaklarını tanır",
+      "processComponents": [
+        "İslam dininin temel kaynakları; öğrenci düzeyi dikkate alınarak Kur’an ve sünnet ile sınırlandırılır.",
+        "İslam dininde sünnetin konumu örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "DKAB.8.5.2",
+      "title": "Ayetlerden hareketle Kur’an’ın ana konularını sınıflandırır",
+      "processComponents": [
+        "Kur’an-ı Kerim’in ana konuları; inanç, ibadet, ahlak, sosyal hayat ve kıssalar öğrenci düzeyine uygun olarak ele alınır."
+      ]
+    },
+    {
+      "code": "DKAB.8.5.3",
+      "title": "Kur’an-ı Kerim’in temel özelliklerini değerlendirir",
+      "processComponents": [
+        "Kur’an-ı Kerim’in temel özellikleri; Kur’an’ın iyiye, doğruya ve güzele yönlendirmesi, kötülüklerden sakındırması, yol göstermesi, açıklayıcı olması, insanları düşünmeye ve aklını kullanmaya yöneltmesi gibi konular öğrenci düzeyine uygun olarak ele alınır."
+      ]
+    },
+    {
+      "code": "DKAB.8.5.4",
+      "title": "Hz. Nuh’un (a.s.) tevhide davetini özetler",
+      "processComponents": [
+        "Kazanım; Yunus, Hud ve Nuh surelerindeki ilgili ayetler kapsamında ve öğrenci düzeyi dikkate alınarak ele alınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf"
+}

@@ -1,0 +1,61 @@
+{
+  "unitId": 80791009,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "9. ÜNİTE: TÜRKÇELEŞMİŞ ARAPÇA VE FARSÇA KELİMELERİN OKUNUŞU",
+  "hours": "10",
+  "description": "Ünite konuları verilirken; a) Örnek kelimeleri vermek için tablolardan yararlanılmalı, b) Konular, içinde örnek kelimelerin geçtiği cümlelerle desteklenmeli, c) Anlamı bilinmeyen kelimelerle ilgili lügat çalışması yaptırılmalıdır.",
+  "outcomes": [
+    {
+      "code": "OSM.11.3.1.1",
+      "title": "Arapça kelimelerin ortak bir kökten çekimlenerek türetildiğini kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.3.1.2",
+      "title": "Kelimelerin yapısındaki asli ve zait harfleri ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.3.2.1",
+      "title": "Zait harflerin kelime türetmede kullanıldığını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.3.2.2",
+      "title": "Arapça asıllı kelime örneklerini vezinlerine dikkat ederek okur",
+      "processComponents": [
+        "Sülasi mücerret mastarlar, mezidün fih mastarlar ve bunların ism-i fail ve ism-i mefulleri okutulmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.11.3.2.3",
+      "title": "Vezni aynı olan kelimelerdeki anlam benzerliğini kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.3.3.1",
+      "title": "Ön ve son ek almış Farsça asıllı kelimeleri okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.3.3.2",
+      "title": "Farsça asıllı yalın ve fiilden türemiş isimleri okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.3.3.3",
+      "title": "Farsça asıllı yalın ve fiilden türemiş sıfatları okur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

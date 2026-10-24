@@ -1,0 +1,144 @@
+{
+  "unitId": 98066304,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Türkçe Dersi",
+  "title": "4. ÖĞRENME ALANI: YAZMA",
+  "hours": "47",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.8.4.1",
+      "title": "Şiir yazar",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.2",
+      "title": "Bilgilendirici metin yazar",
+      "processComponents": [
+        "Öğrencilerin belirledikleri bir konu ve ana fikir etrafında giriş, gelişme ve sonuç bölümlerinden oluşan bir metin taslağı oluşturmaları, gelişme bölümünde düşünceyi geliştirme yollarını kullanarak görüşlerini ifade etmeleri, görüşlerini destekleyecek kanıtlar sunmaları, sonuç bölümünde ise görüşlerini sonuca bağlamaları sağlanır.",
+        "Öğrenciler günlük hayattan örnekler vermeye teşvik edilir."
+      ]
+    },
+    {
+      "code": "T.8.4.3",
+      "title": "Hikâye edici metin yazar",
+      "processComponents": [
+        "Öğrencilerin anlatımın türü ve konusuna göre gerçekçi veya hayalî ögeleri tasarlamaları, uyumlu bir zaman ve mekân kurgusu yapmaları, serim, düğüm ve çözüm bölümlerine yer vermeleri sağlanır.",
+        "Öğrenciler yazım kılavuzundan yaralanmaya, günlük hayattan örnekler vermeye yönlendirilir."
+      ]
+    },
+    {
+      "code": "T.8.4.4",
+      "title": "Yazma stratejilerini uygular",
+      "processComponents": [
+        "Not alma, özet çıkarma, eleştirel, yaratıcı, serbest, kelime ve kavram havuzundan seçerek yazma, bir metinden ve duyulardan hareketle yazma gibi yöntem ve tekniklerin kullanılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.4.5",
+      "title": "Anlatımı desteklemek için grafik ve tablo kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.6",
+      "title": "Bir işi işlem basamaklarına göre yazar",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.7",
+      "title": "Yazılarını zenginleştirmek için atasözleri, deyimler ve özdeyişler kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.8",
+      "title": "Yazılarında mizahi ögeler kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.9",
+      "title": "Yazılarında anlatım biçimlerini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.10",
+      "title": "Yazdıklarında yabancı dillerden alınmış, dilimize henüz yerleşmemiş kelimelerin Türkçelerini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.11",
+      "title": "Formları yönergelerine uygun doldurur",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.12",
+      "title": "Kısa metinler yazar",
+      "processComponents": [
+        "Haber metni, günlük ve anı yazmaya teşvik edilir."
+      ]
+    },
+    {
+      "code": "T.8.4.13",
+      "title": "Yazdıklarının içeriğine uygun başlık belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.14",
+      "title": "Araştırmalarının sonuçlarını yazılı olarak sunar",
+      "processComponents": [
+        "Öğrencilerin taslak hazırlamaları, taslaklarında giriş, gelişme, sonuç bölümlerine yer vermeleri sağlanır.",
+        "Kaynak gösterme hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "T.8.4.15",
+      "title": "Yazılarında uygun geçiş ve bağlantı ifadelerini kullanır",
+      "processComponents": [
+        "Oysaki, başka bir deyişle, özellikle, ilk olarak ve son olarak ifadelerinin kullanılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.4.16",
+      "title": "Yazdıklarını düzenler",
+      "processComponents": [
+        "Dil bilgisine dayalı anlatım bozuklukları bakımından yazdıklarını gözden geçirmesi ve düzeltmesi sağlanır.",
+        "Metinde yer alan yazım ve noktalama kuralları ile sınırlı tutulur."
+      ]
+    },
+    {
+      "code": "T.8.4.17",
+      "title": "Yazdıklarını paylaşır",
+      "processComponents": [
+        "Öğrenciler yazdıklarını sınıf ve okul panosu ile sosyal medya ortamlarında paylaşmaya, şiir ve kompozisyon yarışmalarına katılmaya teşvik edilir."
+      ]
+    },
+    {
+      "code": "T.8.4.18",
+      "title": "Cümlenin ögelerini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.4.19",
+      "title": "Cümle türlerini tanır",
+      "processComponents": [
+        "Kavramsal tanımlamalara girilmez."
+      ]
+    },
+    {
+      "code": "T.8.4.20",
+      "title": "Fiillerin çatı özelliklerinin anlama olan katkısını kavrar",
+      "processComponents": [
+        "Kavram tanımlarına girilmeden anlamsal farklılıklara değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

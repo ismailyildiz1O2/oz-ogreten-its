@@ -1,0 +1,68 @@
+{
+  "unitId": 170,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Kur'an-ı Kerim Dersi",
+  "title": "1. TEMA: KUR’AN-I KERİM’İ TANIYORUM",
+  "hours": "18",
+  "description": "Bu temada öğrencilerin; Kur’an-ı Kerim öğrenmenin önemi ve okumanın adabıyla ilgili çözümleme yapması, Kur’an harflerini yazması, Kur’an harfleri ile harekelerini tanıyıp seslendirmesi, Sübhaneke duası ve Rabbena dualarının anlamlarını yorumlayıp okunuşlarını ezberlemesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KK.5.1.1",
+      "title": "Kur'an-ı Kerim'i öğrenmenin önemini ve okumanın adabını çözümleyebilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'i öğrenmenin önemini ve okumanın adabını açıklar.",
+        "b) Kur'an-ı Kerim'i öğrenmenin önemini ve okumanın adabı arasındaki ilişkiyi açıklar."
+      ]
+    },
+    {
+      "code": "KK.5.1.2",
+      "title": "Harfleri seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.5.1.3",
+      "title": "Harfleri yazabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.5.1.4",
+      "title": "Harfleri harekelerle seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.5.1.5",
+      "title": "Sübhaneke duası ve Rabbena dualarının anlamlarını yorumlayabilme",
+      "processComponents": [
+        "a) Sübhaneke duası ve Rabbena dualarının anlamlarını inceler.",
+        "b) Sübhaneke duası ve Rabbena dualarını kendi hayatı için anlamlı hâle getirir.",
+        "c) Sübhaneke duası ve Rabbena dualarının anlamlarını değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "KK.5.1.6",
+      "title": "Sübhaneke duası ve Rabbena dualarını ezberleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "dua, euzübesmele, hareke, istiğfar, Kur’an-ı Kerim, mahreç",
+  "support": [
+    "Noktaları birleştirerek Arap harflerini yazma konulu bir çalışma yaprağı verilebilir. Harfleri seslendirme ve yazma becerilerini geliştirmek için öğrencilere bireysel veya küçük grup çalışmaları sunarak her birinin kendi hızlarında ilerlemelerine ve öğrenmelerini somutlaştırmalarına olanak tanınır. Farklılaştırılmış öğretimin destekleme boyutu; öğrenme sürecinde daha fazla zaman ve tekrara ihtiyaç duyan öğrenciler için içerik, süreç, ürün ve öğrenme ortamındaki uyarlamaları kapsar."
+  ],
+  "enrichment": [
+    "Öğrencilerden öğrenme özelliklerine ve içerik çerçevesine göre afiş, rapor, sunum, blog yazısı gibi ürünlerden birini hazırlamaları istenebilir. Kur'an-ı Kerim'i okumayı önceden bilen öğrenciler, Al-i İmran suresinin 1-29. ayetlerini yüzünden okumaya yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; görsel tamamlama, dereceli puanlama anahtarı, kontrol listesi, çalışma yaprağı, gelişim günlükleri, öz değerlendirme formu, gözlem formu, tanılayıcı dallanmış ağaç, açık uçlu sorular ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak Kur'an harflerini öğrenme ve öğretmeye yönelik karmaşık olmayan bir oyun veya bir materyal tasarlamaları istenebilir. Bu çalışma, bilgi toplama, ilişki kurma, öğretici nitelik, yaş grubuna uygunluk, kullanışlılık ve özgünlük ölçütleri bulunan dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KK.5.1.1 Kur'an kelimesinin sözlük anlamı verilerek Kur'an-ı Kerim'in tüm insanlara gönderildiği, İslam dininin temellerini ortaya koyduğu, dünya ve ahiret hayatını anlamlandırdığı belirtilir. Kur'an okumanın Müslümanlar için önemli bir ibadet olduğu vurgulanarak Kur'an'ı okumanın, anlamanın ve onun emirlerini uygulamanın değeri arasında ilişki kurulur. Kur'an'ı okumanın önemi üzerinde durulurken Türkçe disiplininden yararlanılır. Kur'an okumadan önce abdest alınması gerektiğinden bahsedilerek kişisel temizliğin önemi vurgulanır (D18.1) . Euzübesmeleden bahsedilerek Kur'an okumaya başlarken istiaze ve besmele okunması gerektiği belirtilir. Öğrencilerden Kur'an'ı öğrenmenin önemine dair röportaj yapmaları istenebilir (KB2.6.SB1) . Röportajda öğrenciler topladığı verileri (OB7) farklı şekillerde (yazılı rapor, sözlü sunum, blog yazısı vb.) sunabilir. Sunum yapan öğrencinin performansını geliştirmesine ve gelecekteki sunumlarını daha etkili hâle getirmesine yardımcı olacak dönütler verilir. Yapılan sunumlar dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "KK.5.1.2 Harfleri seslendirmede öğrencilerin Kur'an harflerini doğru bir şekilde öğrenmeleri, bilişsel çıraklık tekniği ile sağlanabilir. Harflerin tekrarı, koro hâlinde yapılabilir. Öğrencilerin kendi ilerlemesini takip etmesine ve kendini değerlendirmesine imkân veren gelişim günlükleri tutmaları istenebilir (SDB1.2) . Öğrencilerin ince, kalın, peltek harfler ile boğaz harflerini doğru bir şekilde seslendirebilmelerini sağlamak için bilişsel çıraklık tekniği kullanılabilir. Öğrenme kanıtlarında verilen performans görevinin keyifli ve eğlenceli bir şekilde yapılması sağlanabilir (E2.5) . Performans göreviyle ilgili öğrencilere geri bildirim verilir.",
+    "KK.5.1.3 Kur'an harfleri ile bu harflerin başta, ortada ve sonda yazılışları, seslendirme ve yazma becerisi şeklinde ele alınır. Harfleri yazarken öğrencilerin harfleri tanımasına ve harflerin başta, ortada ve sonda nasıl yazıldıklarını öğrenmesine önem verilir. Bu aşamada her öğrenciden kendi yeteneği doğrultusunda yazması beklenir. Konu değerlendirilirken görsel tamamlama, kontrol listesi ve gözlem formu kullanılabilir.",
+    "KK.5.1.4 Hareke kavramıyla harekelerin doğru bir şekilde öğrenilmesi ve telaffuz edilmesi gerektiği belirtilerek üstün, esre ve ötre harekeleri seslendirilir. Bu seslendirme esnasında bilişsel çıraklık tekniği kullanılabilir. Bu süreçte harekelerin, geçerli ve güvenilir dijital kaynaklar kullanılarak tekrar edilmesine imkân sağlanır. Öğrenciler, harekeler hakkında bilgi görseli hazırlayabilir. Harekelerin okunuşuna yönelik seslendirme çalışmalarında öğrencilerin kendilerini değerlendirmesi amacıyla gelişim günlükleri kullanılabilir.",
+    "KK.5.1.5 Sübhaneke duası ile Rabbena Âtina, Rabbicalni ve Rabbenağfirli dualarının anlamı, dua ve istiğfar kavramları vurgulanarak açıklanır. Öğrencilerden bu duaların anlamını incelemeleri istenir. Öğrencilerin, duaların okunduğu yerleri ve manasını öğrenerek duaları kendi hayatı için anlamlı hâle getirmesi sağlanır. Öğrencilerin, söz konusu duaların anlamını suredeki bağlamından koparmadan kendi cümleleriyle ifade etmesi teşvik edilir. Bu süreçte din kültürü ve ahlak bilgisi ile Türkçe disiplinlerinden yararlanılır. Dualarda geçen kavramlar Frayer modeli kullanılarak açıklanabilir. Ölçme ve değerlendirme sürecinde tanılayıcı dallanmış ağaç, kısa cevaplı ve açık uçlu sorulardan oluşan çalışma yaprağı kullanılabilir.",
+    "KK.5.1.6 Öğrencilerin; Sübhaneke, Rabbena Âtina, Rabbicalni ve Rabbenağfirli dualarını okunuşuna uygun bir şekilde bilişsel çıraklık tekniği ile ezberlemeleri sağlanabilir. Bu süreçte geçerli ve güvenilir dijital kaynaklardan yararlanılabilir. Öğrencilerin söz konusu duaları doğru telaffuz edebilmeleri için tekrar yöntemi kullanılabilir. Ezber çalışmaları sınıf ortamında ve koro hâlinde yapılabilir. Duaların nerede okunabileceğine dair bilgi kartları hazırlanabilir. Öğrenciler, zihinsel ve bedensel yetilerini en iyi düzeyde kullanma ve gerekli çabayı gösterme (E3.2) konusunda teşvik edilerek Sübhaneke duası ile Rabbena dualarını ezberden okuma becerisinin geliştirilmesi beklenir. Duaların ezberden okunması ve seslendirilmesine yönelik uygulamalar, kontrol listesi ve gözlem formu aracılığıyla değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/170"
+}

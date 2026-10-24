@@ -1,0 +1,46 @@
+{
+  "unitId": 80791015,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "15. ÜNİTE: TÜRKÇELEŞMİŞ ARAPÇA VE FARSÇA KELİMELERİN OKUNUŞU",
+  "hours": "10",
+  "description": "Ünite konularının işlenişinde; a) Örnek kelimeler verilirken tablolardan yararlanılmalı, b) Arapça ve Farsça asıllı kelimelerin geçtiği örnek cümlelere yer verilmeli, c) Arapça ve Farsça asıllı kelimelerle ilgili lügat çalışması yaptırılmalıdır.",
+  "outcomes": [
+    {
+      "code": "OSM.12.3.1.1",
+      "title": "Osmanlı Türkçesinde Arapça asıllı camit ve müştak isimlerin kullanıldığını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.3.1.2",
+      "title": "Arapça asıllı camit isim örneklerini okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.3.1.3",
+      "title": "Arapça asıllı müştak isim örneklerini vezinlerine dikkat ederek okur",
+      "processComponents": [
+        "Konu, kavramsal bir yaklaşımla ele alınmamalı; vezinlerin sadece okuma ve anlamlandırmaya katkısı üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.12.3.2.1",
+      "title": "Osmanlı Türkçesinde kullanılan Farsça asıllı zarfları ve birleşik kelimeleri tanır",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.3.2.2",
+      "title": "Farsça asıllı zarfları ve birleşik kelimeleri okur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

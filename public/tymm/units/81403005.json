@@ -1,0 +1,49 @@
+{
+  "unitId": 81403005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Matematik Uygulamaları Dersi (Lise)",
+  "title": "5. ÜNİTE: MATEMATİK VE GÜNCEL OLAYLAR",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTU.1.5.1",
+      "title": "Güncel bir olay ile ilgili anket oluşturur",
+      "processComponents": [
+        "Anket hazırlama aşamalarına değinilir.",
+        "Yerel, ulusal veya küresel kapsamda güncel konulara (sera gazı etkisi, doğal kaynakların sınırlılığı, ulusal bütçe vb.) yer verilir.",
+        "MEB, TÜİK, BM, UNESCO vb. ulusal ve uluslararası kurumların açık kaynak verilerinden faydalanılır."
+      ]
+    },
+    {
+      "code": "MTU.1.5.2",
+      "title": "Anket verilerini tablo veya grafik kullanarak temsil eder",
+      "processComponents": [
+        "Çizgi grafiği, sütun grafiği, daire grafiği ve histograma yer verilir.",
+        "Serpme ve kutu grafiklerine yer verilmez."
+      ]
+    },
+    {
+      "code": "MTU.1.5.3",
+      "title": "Temsil edilen verileri yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "MTU.1.5.4",
+      "title": "Hazırladığı anket örneğini yazılı/sözlü şekilde sunar",
+      "processComponents": [
+        "Sunumda anket sonuçlarının dağılım yüzdelerine yer verilir.",
+        "Bilgi ve iletişim teknolojilerinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121111235666-MATEMAT%C4%B0K%20UYGULAMALARI%20DERS%C4%B0%20%28I-II%29%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI--21.11.2023.pdf"
+}

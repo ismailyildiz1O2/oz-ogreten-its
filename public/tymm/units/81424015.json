@@ -1,0 +1,29 @@
+{
+  "unitId": 81424015,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "15. ÜNİTE: KEMAN - GELİŞTİRME VE SERGİLEME",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.2.5.1",
+      "title": "I. pozisyonda tonal eserler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.2.5.2",
+      "title": "I. pozisyonda makamsal eserler çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

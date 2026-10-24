@@ -1,0 +1,54 @@
+{
+  "unitId": 1205,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "4.TEMA: KAVALDA AÇIŞ VE TAKSİM UYGULAMALARI",
+  "hours": "16",
+  "description": "Tema içeriğini, öğrendiği makamlarda kaval ile açış ve taksim çalışmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.8.4.1",
+      "title": "Kaval ile açış ve taksim yapabilme",
+      "processComponents": [
+        "b) Kaval ile açış ve taksim yapacağı makamı belirler.",
+        "c) Kaval ile yapacağı makam dizisine göre duruş ve tutuş pozisyonunu alır.",
+        "d) Seçtiği makamlar ile açış ve taksim çalışmalarında kavala özgü çalma tekniklerini kullanır.",
+        "e) Kaval ile yapılacak açış ve taksimlerde müziksel bileşenleri kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "açış, kaval, makam, taksim",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Usta icracılar tarafından yapılan açış ve taksimler sık sık tekrarlanarak dinlettirilebilir. Açış ve taksime hazırlık için öğrendiği makamların dizilerini usulsüz (serbest) olarak çalmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere kısa film veya kısa hikâyeler izlettirilerek, izledikleri duruma yönelik bir makam seçip seçtikleri makamda açış ve taksim yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; akran değerlendirme formu, gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak seçeceği makamlarda açış yaptıktan sonra bir Türk halk müziği eseri belirleyip çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.8.4.1",
+    "Açış ve taksim kavramlarının genel özellikleri anlatılarak öğrencilerin dijital ortamda usta icracılar tarafından yapılan açış ve taksim çalışmalarını araştırıp, gözlemleyerek, odaklanmaları ve değerlendirmeleri sağlanır ( OB2 , KB2.2 , E3.2 ). Ardından açış ve taksimin temel amaçlarından, nefes ve ton kontrolü, parmak ve teknik beceri, duygusal aktarım gibi unsurları belirlemeleri ve değerlendirmeleri istenir. Daha sonra açış ve taksim yapmak üzere öğrendiği makamlardan birini seçmeleri sağlanır. Öğrencileri küçük gruplara ayırarak, seçtikleri makamlarda açış ve taksim çalışmalarını birbirlerini gözlemleyerek etkileşim içinde yapmaları ve ardından sunmaları sağlanır ( SDB1.2 , KB2.2 , E3.3 , D4.2 ). Çalışmalar akran değerlendirme formu, gözlem formu, dereceli puanlama anahtarı veya kontrol listesi ile değerlendirilebilir. Süreç sonunda performans görevi olarak seçeceği makamlarda açış yaptıktan sonra bir Türk halk müziği eseri belirleyip çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1205"
+}

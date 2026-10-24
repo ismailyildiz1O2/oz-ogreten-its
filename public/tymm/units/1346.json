@@ -1,0 +1,55 @@
+{
+  "unitId": 1346,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "1. TEMA: PEDAL VE TRİLL",
+  "hours": "22",
+  "description": "Temada öğrencilere piyanoda pedal kullanımı ve trill tekniğine yönelik beceri kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.6.1.1",
+      "title": "Piyanoda pedal kullanımını tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "PYN.6.1.2",
+      "title": "Trill tekniğini içeren etüdü çalabilme",
+      "processComponents": [
+        "a) Trill tekniğini içeren etüdü çözümler.",
+        "b) Trill tekniğini içeren etüt için duruş ve tutuş pozisyonu alır.",
+        "c) Trill tekniğini içeren etüdü için çalgıya özgü teknikleri kullanır.",
+        "ç) Trill tekniğini içeren etüdün müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "pedal, trill",
+  "support": [
+    "Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir. Pedal kullanımı için her pedalın işlevini daha basit ve anlaşılır şekilde açıklamak, örnekler üzerinden göstermek ve başlangıç seviyesinde kısa, yavaş tempolu eserler veya etütler vererek adım adım pedal kullanımını öğretmek etkili olabilir. Trill tekniğinde önce düşük tempoda her iki elin koordinasyonunu sağlamak amacıyla kısa trill egzersizleri ve yavaş tempolu etütler verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Öğrencilere daha karmaşık trill etütleri veya eserleri verilebilir. Ayrıca trillin temposunu artırmak ve daha kontrollü hâle getirmek amacıyla metronom ile çalışmaya yönlendirilebilirler. Bu süreçte sağ ve sol el koordinasyonunu artıran çift ellerle trill çalışmaları yapılabilir. Pedalların tekniksel ve müzikal yönlerini daha derinlemesine keşfetmelerini sağlayacak eserler verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde gözlem formu, öz değerlendirme, dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "PYN.6.1.1",
+    "Öğretmen öğrencilerde piyanonun pedallarının nasıl kullanılacağı ile ilgili merak uyandırır. ( E1.1 ). Öğretmen her bir pedalın farklı bir özelliğinin olduğununa dair bilgilendirme yapar. Öğrencilerden her bir pedal için nasıl bir görevi olduğunu uygulamalı olarak göstermeleri istenir. Öğrencilerden çalacağı herhangi bir etüt veya eser içerisinde pedal kullanmaları istenir. Performans görevi kapsamında öğrenciden pedal kullanımına uygun kısa bir eser veya etüdü çalması, çalma sürecinde hangi pedalları ne amaçla kullandığını açıklaması istenir. Öğrenci, pedalların ses üzerindeki etkisini sözlü veya yazılı olarak ifade edebilir; dilerse pedal kullanımına dair küçük bir afiş, görsel anlatım ya da video sunumu hazırlayabilir.",
+    "PYN.6.1.2",
+    "Trill tekniğinin nasıl gerçekleştiği ile ilgili anlatım yapılır. Trill tekniğini barındıran videolar öğrencilere izletilir ( OB4 ). Öğrenci trill tekniği için yazılmış etüdü çözümler. Çözümleme öğretmen rehberliğinde yapılabilir. Çözümleme tamamlandıktan sonra öğrenciden duruş ve tutuş pozisyonu alması ve çalgıya özgü tekniklerini kullanması istenir ( SDB1.1 ). Öğrenciye trill tekniği gösterip yaptırma tekniği ile ders içerisinde birkaç defa gösterilir. Öğrenci trill tekniğini içeren etüdü müziksel bileşenlere uygun çalar ( OB9 ). Performans görevi olarak öğrencilerden trill tekniğini içeren kısa bir etüdü teknik doğrulukla, çalgıya özgü hareketlerle ve müziksel ifadelere uygun şekilde icra etmesi istenir. Öğrenci, trill tekniğinin nasıl çalışıldığını kısa sözlü bir açıklamayla ifade eder ya da uygulama sırasında tekniğe özel dikkat ettiğini belirtir. Dileyen öğrenciler, trill tekniğini içeren pasajların yer aldığı afiş, grafik ya da mini video sunumu da hazırlayabilir. Performans görevi, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "egilim": [
+      "E1.1"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1346"
+}

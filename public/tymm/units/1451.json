@@ -1,0 +1,67 @@
+{
+  "unitId": 1451,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi (Maarif Modeli)",
+  "title": "6. ÜNİTE: ULAŞIM TEKNOLOJİLERİ",
+  "hours": "8",
+  "description": "Altıncı ünitede öğrencilerin kara, su, hava ve uzay ulaşım teknolojilerini tanıyabilmesi, ulaşım araçlarının tasarımında dikkate alınan temel prensipleri açıklayabilmesi, farklı ortamlarda kullanılan ulaşım araçlarını temel prensiplerine göre kendi içinde sınıflandırabilmesi, öğrendiği tasarım ve ulaşım teknolojisi bilgilerini kullanarak bir araç tasarımı yapabilmesi amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.8.6.1",
+      "title": "Ulaşım araçlarının tasarımında dikkate alınan temel prensipleri genelleyebilme",
+      "processComponents": [
+        "a) Ulaşım araçlarının tasarımında dikkate alınan kavramları araştırarak bilgi toplar.",
+        "b) Ulaşım araçlarının tasarımında dikkate alınan kavramları araştırarak ortak özelliklerini belirler.",
+        "c) Ulaşım araçlarının tasarımında dikkate alınan kavramları araştırarak ortak olmayan özelliklerini belirler.",
+        "ç) Ulaşım araçlarının tasarımında dikkate alınan temel prensiplere göre önermelerde bulunur."
+      ]
+    },
+    {
+      "code": "TT.8.6.2",
+      "title": "Farklı ortamlarda kullanılan ulaşım araçlarını temel prensiplerine göre kendi içinde sınıflandırabilme",
+      "processComponents": [
+        "a) Farklı ortamlarda kullanılan ulaşım araçlarına ilişkin değişkenleri belirler.",
+        "b) Farklı ortamlarda kullanılan ulaşım araçlarını birbirinden ayrıştırır.",
+        "c) Farklı ortamlarda kullanılan ulaşım araçlarını alt türlerine göre tasnif eder.",
+        "ç) Farklı ortamlarda kullanılan ulaşım araçlarını tanımlar ve etiketler."
+      ]
+    },
+    {
+      "code": "KAZ.3",
+      "title": "TT.8.6.3.Farklı ortamlarda çalışabilecek bir ulaşım aracı tasarımını ürüne dönüştürebilme",
+      "processComponents": [
+        "a) Farklı ortamların en az iki tanesinde çalışabilecek bir araç tasarımına uygun araç gereci belirler.",
+        "b) Farklı ortamların en az iki tanesinde çalışabilecek bir araç tasarımı için uygulama yöntemlerini ve tekniklerini belirler.",
+        "c) Farklı ortamların en az iki tanesinde çalışabilecek bir araç tasarımı için üretim aşamalarını konuya ve işleve göre sıralar.",
+        "ç) Farklı ortamların en az iki tanesinde çalışabilecek bir araç tasarımı için üretim aşamalarını tasarım oluşturma kriterlerine göre uygular.",
+        "d) Farklı ortamların en az iki tanesinde çalışabilecek bir araç tasarımı için ürünle ilgili maket-model-prototip (ilk örnek) oluşturur.",
+        "e) Farklı ortamlar için oluşturulan ürün örneğinin tasarım oluşturma kriterlerine göre yeterliliğini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "mühendislik, teknoloji, ulaşım.",
+  "support": [
+    "Ulaşım teknolojisi ile ilgili bilgi toplama, tanımlama, sıralama, etiketleme gibi çalışmalarda talimatlar daha basit ve anlaşılır biçimde verilebilir.,",
+    "Öğrencinin yapılacak çalışmalarda iş birlikçi öğrenme yolu ile akranından destek alması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenme ortamı olan sınıf dışında birçok farklı ortamda hareket eden ulaşım araçları olduğundan bunların imalatının yapıldığı farklı firma ziyaretleri öğretmen rehberliğinde gerçekleştirilebilir (otomobil üreten fabrika vb.). Bu ziyaretler eğer imkân dâhilinde değilse güvenilir web siteleri aracılığı ile sanal olarak da yerine getirilebilir.",
+    "Öğrenciler bir mühendis veya tasarımcıyla röportaj yapabilir, gerçek ulaşım aracı üreticileriyle bağlantıya geçilebilir ya da fabrikalara sanal veya fiziksel geziler düzenlenebilir.",
+    "Farklı ülkelerde üretilen otomobil markalarını temel prensipler çerçevesinde (Alman üretimi otomobiller, Japon üretimi otomobiller vb.) dünyada öne çıkan markaların tercih sebepleri ile temel prensipler arasındaki ilişkiyi araştırması istenebilir."
+  ],
+  "assessment": [
+    "Performans görevi olarak öğrencilerden bir araç tasarımına ait problem tanımlama, fikir geliştirme, tasarlama ve değerlendirme aşamalarını gösteren tasarım süreci diyagramı oluşturmaları ve bu diyagramı açıklamaları istenebilir. Süreç ve performans değerlendirme formu, öz değerlendirme formu, karşılaştırmalı tablo gibi ölçekler veya ürün dosyası kullanılabilir. Ürünlerin akran görüşlerine göre değerlendirilebilmesi sağlanabilir."
+  ],
+  "teachingApplications": [
+    "TT.8.6.1.",
+    "Öğrencilere ulaşım teknolojilerinin kronolojik gelişimini anlatan bir belgesel veya video izletilir. Belgesel veya video izlenmesi esnasında öğrencilerden ulaşıma dair kavramlara ait dikkatlerini çeken hususları defterlerine not almaları istenir (E1.1). Belgesel veya video izlendikten sonra burada hangi ulaşım teknolojilerinin konu edildiği, bu ulaşım teknolojilerinde hangi enerji türlerinin kullanıldığı, araçların hangi ortamlarda hareket ettiği ve hangisinin daha ekonomik olduğu üzerine tartışmaları beklenir (OB4). Belgesel veya videoda gördüğü ulaşım araçlarına ait ortak olan ve olmayan özelliklerin neler olduğunu belirlemeleri istenir. Öğrencilerden aralarında grup oluşturmaları (3-5 kişilik) istenir, oluşturulan grupların kendi aralarından bir sözcü seçmeleri sağlanır (SDB2.1). Oluşturulan grupların izledikleri belgesel veya videodan yola çıkarak konuyu tartışmaları sağlanır (KB2.18). Tartışma sonunda elde ettikleri verileri yakıt tasarrufu, yakıt türü, sürtünme, aerodinamik, konfor, ergonomi, maliyet gibi değişkenleri dikkate alarak bir tablo hâline getirmeleri istenir (OB7, D3.2). Öğrencilerden oluşturdukları tabloları yorumlayarak verimli ve etkin bir ulaşım aracının nasıl olması gerektiği yönünde önerilerde bulunmaları beklenir (E3.5). Örneğin elektrikli araçların aerodinamik tasarımının enerji verimliliğine etkisini incelerken bilimsel gelişim için merak duygusunu kullanarak farklı ulaşım modellerini karşılaştırır ve sürdürülebilir çözümler üretmeye çalışır (KB2.7, D3.3). Bu önermeler grup sözcüsü tarafından ifade edilir. Daha önce oluşturdukları tablo verileri ile araştırma sonuçlarından elde ettikleri bilgileri kullanarak iki farklı ulaşım aracının karşılaştırılması ve hangi faktörlerin dikkate alınarak bu aracın üstün olarak belirlendiğinin gerekçelerinin açıklanması da istenerek önermelerde bulunmaları beklenir. Bu süreç öğrencilerin oluşturdukları tablo ve ifade ettikleri önermeler dikkate alınarak değerlendirilebilir.",
+    "TT.8.6.2.",
+    "Öğrencilerden ders öncesinde çevresindeki veya yaptığı araştırmalarında elde ettiği bilgilere dayalı olarak kara, hava, su ve uzay ulaşım araçlarının türlerini ve bunları birbirinden ayıran özelliklerinin neler olduğunu gözlemlemeleri ve bu araçları birbirinden ayıran değişkenleri belirlemeleri istenir. Benzer şekilde kara, su, hava ve uzayda hareket eden farklı ulaşım araçlarını da daha önce belirlediği değişkenleri (yakıt tasarrufu, yakıt türü, sürtünme, aerodinamik, konfor, ergonomi, maliyet vb.) göz önünde bulundurarak birbirinden ayrıştırır (OB1). Öğrenciler araştırma sonuçlarından elde ettikleri bilgilere bağlı olarak ulaşım araçlarını avantaj ve dezavantajlarını da dikkate alarak tasnif eder. Daha sonra önceden oluşturulan grup arkadaşları ile bu konular üzerinde karşılıklı fikirlere saygı kurallarına riayet ederek tartışırlar ve bu tartışma sonucunda ortaya çıkan görüşleri listeleyerek yazılı doküman hâline getirmeleri sağlanır (D14.1, E3.7). Farklı ulaşım araçlarını değerlendirirken onların çevresel etkilerini ve enerji verimliliklerini göz önünde bulundurur, sürdürülebilir seçenekleri belirlemek için çevre sorunlarına yol açabilecek unsurlardan kaçınmaya çalışırlar (D17.2, D5.2). Her grubun farklı ulaşım araçları hakkında oluşturduğu tablolardaki benzerlik ve farklılıkları aralarında müzakere edip, etiketleyip kayıt altına almaları sağlanır. Bu süreçte öğrencilerin oluşturdukları tablo ve müzakere sürecindeki yaklaşımları gözlemlenerek değerlendirilebilir.",
+    "TT.8.6.3.",
+    "Öğrencilerin bir araç tasarımını yaparken izleyecekleri tasarım süreci diyagramını oluşturmaları ve bunu defterlerine çizmeleri performans görevi olarak verilebilir. Sınıfta daha önce oluşturulan grupların (3-5 kişilik) önceki araştırmalarına dayanarak farklı iki ortamda hareket edebilecek araç tasarlamaları ve ürüne dönüştürebilmeleri için gerekli olacak uygun araç gereci belirlemeleri istenir (KB3.1). Kara-su, hava-kara gibi iki farklı ortam şartları belirtilerek bu ortamlara uygun tasarlanacak araçlarda oluşabilecek su sızdırmazlık, hava uçuş güvenliği, ergonomi, ağırlık, yakıt türü vb. problemlerin sıralanıp tanımlanması ve bu problemlerin çözümüne yönelik gerekli uygulama yöntem ve tekniklerini belirlemeleri sağlanır (SDB3.3).",
+    "Çalışmaları sırasında görev ve sorumluluklarını kuralına uygun olarak yerine getirir ve grup içinde adil bir iş bölümü yapmaya özen gösterir (D1.2). Grup bireylerinin iş birliği içerisinde tasarımlarının eskizini hazırlamaları beklenir (E2.3, SDB3.3). Mevcut üretim aşamalarını konuya ve işleve göre sıralayarak, nezaket çerçevesinde akran değerlendirmesinden de faydalanılarak ve uygulanabilirlik kriterleri de gözetilerek geliştirilmek üzere seçilmesi sağlanır (D4.2). Belirlenen en uygun kriterler dikkate alınarak seçilen öneriyi, tasarım odaklı süreç ile geri dönüştürülebilir karton, pet şişe, tahta çay karıştırıcısı, plastik kapak gibi atık malzemelere öncelik vererek ve üretim aşamalarını tasarım oluşturma kriterlerini de dikkate alarak uygulamalarını yaparlar. Daha sonra tasarımlarından yola çıkarak imkânlar dâhilinde model, maket veya prototiplerini (ilk örnek) üretmeleri beklenir (OB8). Model, maket veya prototipler (ilk örnek) grup sözcülerinin aracılığı ile sınıfta sunulduktan sonra akranlarının fikirlerinden yararlanılarak tasarımların geliştirilmesine yönelik önerileri defterlerine not etmeleri sağlanır. Bu değişiklik önerileri grup içerisinde tartışılarak grup tarafından uygun görülen değişiklik veya değişikliklerin gerçekleştirilmesi sağlanır. Ürünün tasarım oluşturma kriterlerine göre yeterliliğinin değerlendirilmesi beklenir (SDB2.2). Örneğin geliştirilen araç tasarımlarında yerli üretim imkânlarının nasıl kullanılabileceğini tartışarak ve buna uygun malzeme tercihleri yaparak yerli ve millî ürünleri kullanmayı tercih eder davranışı sürece yansıtılır (D19.4). Gruplar seçtikleri malzemeleri kullanarak araçlarını komisyonun belirlediği ölçekte imkânlar dâhilinde model, maket veya prototip (ilk örnek) olarak üretip tamamlar ve hareket ettirir. Sınıfta oluşturulan komisyonun (Her grubun sözcüsü komisyon üyesidir.) yakıt tasarrufu, türü, sürtünme, aerodinamik, konfor, ergonomi, maliyet gibi faktörleri dikkate alarak en iyi aracın hangisi olduğunu belirlemeleri sağlanır. Daha sonra öğretmen sınıfa farklı ortamda hareket edebilen araçlarla ilgili görsel veya videolar getirerek öğrencilerin görmesi veya izlemesini sağlar. Öğrencilere yaptıkları ile izledikleri arasında bir karşılaştırma yaptırılarak hangi ortak fikirde buluştukları, neyi düşünemedikleri, hangi bilgiye sahip olamadıkları veya neleri eksik bildikleri gibi öz değerlendirme yoluyla konunun kapsamlı öğrenilmesi sağlanabilir (OB4)."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1451"
+}

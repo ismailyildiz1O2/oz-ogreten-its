@@ -1,0 +1,76 @@
+{
+  "unitId": 976,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "2. TEMA: SES EĞİTİMİ",
+  "hours": "15",
+  "description": "Diyaframın tanınması, düzeye uygun eserler seslendirilmesi ve artikülasyonun doğru gerçekleştirilmesine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.4.2.1",
+      "title": "Diyaframı tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.4.2.2",
+      "title": "Düzeyine uygun eserleri seslendirebilme",
+      "processComponents": [
+        "a) Anatomik yapısına ve ses özelliklerine uygun eserleri seslendirmek için bedenini söylemeye hazır hâle getirir.",
+        "b) Anatomik yapısına ve ses özelliklerine uygun eserleri seslendirirken uygun söyleme tekniklerini kullanır.",
+        "c) Anatomik yapısına ve ses özelliklerine uygun eserleri seslendirirken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "BSE.4.2.3",
+      "title": "Dilin özelliklerine uygun artikülasyon metinleri okuyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.4.2.4",
+      "title": "Açık ve anlaşılır konuşmanın günlük yaşamdaki önemini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.4.2.5",
+      "title": "Dilin özelliklerine uygun şekilde şarkı söylemenin önemini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "artikülasyon, diyafram, kas, nefes, ses",
+  "support": [
+    "Öğrenciye diyaframın solunum kontrolü ve desteği işlevi ile ilgili çeşitli görsel içerikler izletilebilir. Nefes çalışmaları (köpek nefesi, yılan sesi, kahkaha gibi) bir hikâye eşliğinde drama yöntemiyle yaptırılabilir. Ses çalışmaları 2'li, 3'lü, 4'lü aralıklar ayrı ayrı kullanılarak (do-re-do, do-mi-do, do-fa-do) yapılabilir. Öğrenciye seslendireceği eserin ses kaydı dinletilebilir. Öğrencinin eserleri doğru bir şekilde seslendirebilmesi için eserlerin söyleniş şeklini taklit etmesi sağlanabilir. Öğrencilerin solunum desteği ile sesini uygun gürlükte kullanabilmesine ilişkin kısa müzik cümleleri olan eserler tercih edilebilir. Öğrencilerin doğru artikülasyon gerçekleştirmesine yönelik yapılan çalışmalardaki metinler kısa cümlelerden oluşabilir. Eserler sözlü müzik altyapı kaydı eşliğinde seslendirilebilir."
+  ],
+  "enrichment": [
+    "Öğrenciden diyaframın solunum kontrolü, desteği ve işlevi ile ilgili çeşitli model ve görsel materyaller hazırlaması istenebilir. Diyaframın solunumdaki rolünü anlatan bir poster veya dijital sunum oluşturulabilir. Diyaframın görevini eğlenceli bir şekilde anlatan hikâye ya da şiir yazılabilir. Nefes çalışmaları (köpek nefesi, yılan sesi, kahkaha gibi) bir hikâye eşliğinde drama yöntemiyle yaptırılabilir. Ses çalışmaları 2'li, 3'lü, 4'lü aralıklar birleştirilerek (do, re, do, mi, do, fa, mi, re, do) yapılabilir. Öğrencinin dağarcığındaki bir şarkıyı seslendirerek kaydetmesi sağlanabilir. Daha sonra bu kayıt dinlenerek öğrencinin şarkı söylerken solunum desteği ile ilgili performansını analiz etmesi sağlanabilir. Öğrencinin öğrenme sürecinde seslendirdiği diğer eserleri de kayıt altına alarak kişisel arşiv oluşturması sağlanabilir. Eserler sözsüz müzik altyapı kaydı eşliğinde seslendirilebilir. Öğrencilerin solunum desteği ile sesini uygun gürlükte kullanabilmesine ilişkin uzun müzik cümleleri olan eserler tercih edilebilir. Öğrencilerin doğru artikülasyon gerçekleştirmesine yönelik yapılan çalışmalardaki metinler uzun cümlelerden oluşabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, gözlem formu, kontrol listesi, performans görevi, bütüncül dereceli puanlama anahtarı, öz değerlendirme formu ve değerlendirme soruları ile değerlendirilebilir. Drama temelli bir performans görevi ile öğrencilerin düzeyine uygun eserleri seslendirme becerileri izlenebilir. Öğrencilerin performansları izlenerek öğrencilere anlık geri bildirim verilebilir. Geri bildirimlerde müziksel bileşenlere dikkat edilir. Bütüncül dereceli puanlama anahtarı ile süreç değerlendirmesi yapılabilir. Aynı zamanda her bir aşama kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BSE.4.2.1 Öğrencilerin diyafram kasını algılamaları ve tanımalarına yönelik çeşitli görsel materyaller üzerinden inceleme etkinlikleri yapılarak ( OB4 ) diyafram kasının çalışma şekli anlatılır. Diyaframın solunum kontrolünü sağlamadaki etkisinin öğretmenin etkin biçimde dinlenmesi ( SDB2.1 ) yoluyla fark edilmesi sağlanabilir. Öğrencilere diyaframın solunum kontrolündeki öneminin ne olduğu sorulur. Böylelikle öğrencilerin görseli bağlamdan kopmadan dönüştürmesi yoluyla duygu ve düşüncelerini ifade edebilmeleri sağlanır ( SDB2.1 ). Diyaframın solunum kontrolü ve desteğini sağlayan bir kas olduğu açıklanabilir ( KB2.3 ). Diyaframın insan vücudunda nerede olduğu sorularak konuya ilişkin merak oluşturulabilir ( E1.1 ). Öğrenciler öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade edebilirler ( SDB2.1 ). Başkalarını etkin bir şekilde dinlemek ve sözlü etkileşim sağlamak yoluyla diyaframın bedende bulunduğu bölge hakkında ön bilgi edinmeleri sağlanabilir. Öğrencilerin diyaframın bedende bulunduğu yeri bulabilmesine yönelik çeşitli görsel materyaller üzerinden inceleme etkinlikleri yapılabilir. Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir. BSE.4.2.2 Öğrencilerin anatomik yapısına ve ses özelliklerine uygun eserleri seslendirebilmeleri için bedenini söylemeye hazır hâle getirebilmelerine yönelik ses ve nefes egzersizleri yapılır, vücudun rahatlamasına ve iç dinamiğin sağlanmasına yönelik etkinlikler uygulanır. Örneğin öğrencilere diyafram kası desteğiyle derin nefes alıp verme etkinlikleri yaptırılarak bu etkinlikler sırasında karın ve bel çevresindeki hareketlere dikkat etmeleri istenebilir. Köpek nefesi, tıslama gibi nefes çalışmaları yaptırılarak diyafram kasını fark etmeleri sağlanabilir. Öğrencilerin diyaframın solunum kontrolünü sağlamadaki işlevi ile ilgili önceki bilgilerini ilişkilendirmeleri sağlanarak ( SDB1.1 ) nefes alıp verirken karın, bel çevresindeki genişleme ve daralmayı incelemelerine imkân verilir ( KB2.14 ). Öğrencilerin solunum kontrolüne odaklanmaları sağlanıp, zihinsel ve bedensel enerjilerini en iyi düzeyde kullanıp ( E3.2 ), diyafram destekli nefes alıp vererek karın, bel çevresindeki genişleme ve daralmayı fark etmeleri sağlanabilir. Böylelikle öğrencilerin diyafram kasını nefes egzersizlerinde kullanabilmeleri sağlanır. Piyano eşliğinde 2'li, 3'lü ve 4'lü aralıklarla ses çalışmaları yapılabilir. Öğrencilere ses çalışmaları ve seslendirme çalışmaları yaparken doğru soluk alabilmek için neden diyafram kasını kullanması gerektiği sorularak konuya ilişkin merak oluşturulabilir ( E1.1 ). Öğrencilerin, duygu ve düşüncelerini ifade ederken sözlü etkileşim kurmaları sağlanabilir. ( SDB2.1 ). Böylelikle mevcut olay, konu veya durumu inceleyerek hiyerarşik, nedensel ya da mantıksal ilişkiler ortaya koyarak ses çalışmaları ve seslendirme çalışmaları yaparken doğru soluk alabilmek için neden diyafram kasının kullanılması gerektiği açıklanabilir ( KB2.13 ).",
+    "Öğrencinin diyaframın solunum kontrolündeki işlevine yönelik önceki bilgileri ( SDB1.1 ) ile bağlantı kurması sağlanır, ses ve seslendirme çalışmalarında aktif rol alması (D3.4 ) desteklenerek öğrenciye diyafram kasının kullanımı ve doğru soluk alma becerileri kazandırılır. Öğrencilere seslerini doğru kullanabilmeleri için nelere dikkat etmeleri gerektiği sorularak konuya ilişkin merak oluşturulabilir ( E1.1 ). Duygu ve düşüncelerin ifade edilmesi sırasında sözlü etkileşim sağlanabilir.( SDB2.1 ). Konuşurken ve şarkı söylerken sesin doğru kullanılabilmesi için nelere dikkat edilmesi gerektiği (ses ve nefes egzersizleri, vücudun rahatlaması, esnemesi ve iç dinamiğin sağlanması, sesini uygun ton ve gürlükte kullanması) bilgisi öğrencilerin önceki bilgileriyle ilişkilendirilir ( SDB1.1 ). Böylece ses zorlanmadan, uygun ton ve gürlükte kullanılır. Öğrencilerin eserde anlatılan konu ve hissettirilmek istenen duygu üzerine fikirlerini sunabileceği etkinliklere yer verilebilir. Örneğin eserin ses kaydı dinlenebilir, görüntü kaydı izlenebilir ya da eserin varsa hikâyesinin araştırılması istenebilir. Öğrencilere esere ilişkin duygu ve düşünceleri sorulabilir. Böylelikle öğrencilerin seslendirdiği eserlere ilişkin duygu ve düşüncelerini ifade edebilmeleri sağlanır ( SDB2.1 ). Anatomik yapısına ve ses özelliklerine uygun eserlerin müziksel bileşenlerinin ayırt edilmesine yönelik seslendirme öncesinde eser inceleme çalışmaları yapılabilir. Örneğin eserin nefes, gürlük, hız, ezgisel yapı, ritmik yapı gibi müziksel bileşenleri seslendirme öncesinde öğretmenle birlikte incelenebilir. Eserlerin seslendirilmesi sırasında öğretmen tarafından yapılan uyarı ve yönlendirmelerin etkin bir şekilde dinlenmesi ile sözlü ya da sözsüz etkileşim sağlanabilir ( SDB2.1 ). Böylelikle öğrenci uygun söyleme tekniklerini kullanıp müziksel bileşenlere uygun söyleyebilir. Müziksel bileşenlere dikkat ederek söylemeleri için seslendirilecek eser, öğretmen rehberliğinde, öğrencinin öğretmeni taklit etmesi sağlanarak ortak bir şekilde seslendirilebilir ( SDB2.2 ). Öğrencilere düzeylerine uygun eserleri seslendirecekleri bir performans görevi verilebilir. Bütüncül dereceli puanlama anahtarı, öz değerlendirme formu ve değerlendirme soruları ile süreç değerlendirmesi yapılabilir.",
+    "BSE.4.2.3 Doğru artikülasyonun gerçekleştirilmesine yönelik uygulamalara yer verilir. Örneğin dilin özelliklerine uygun artikülasyon metinleri okutulur ( E2.2 ). Süreç, dereceli puanlama anahtarı, öz değerlendirme formu ve değerlendirme soruları ile değerlendirilebilir. BSE.4.2.4 Öğretmen tarafından dilin özelliklerine uygun ve anlaşılır şekilde konuşmanın önemine dikkat çekilir. Dilin özelliklerine uygun ve anlaşılır şekilde konuşma etkenlerinin neler olduğu sorulur. Öğrencilerden öğretmenin yönelttiği soruları duygu ve düşüncelerini ifade edecek biçimde yanıtlamaları istenebilir. Dil özelliklerine uygun ve anlaşılır şekilde konuşma etkenlerinin neler olduğunun başkalarının etkin bir şekilde dinlenmesi ve sözlü etkileşim sağlanması ( SDB2.1 ) yoluyla belirlenmesi sağlanır. Bu etkenler arasındaki ilişkiler belirlenerek açık ve anlaşılır şekilde konuşmanın günlük yaşamdaki önemi açıklanır. Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir. BSE.4.2.5 Doğru artikülasyonun dilin özelliklerine uygun şekilde şarkı söyleyebilmek için neden önemli olduğu sorularak konuya ilişkin merak oluşturulabilir ( E1.1 ). Öğretmenin yönelttiği sorular cevaplandırılırken duygu ve düşüncelerin ifade edilmesiyle sözlü etkileşim sağlanabilir ( SDB2.1 ). Doğru artikülasyonun ses tekniğini oluşturmadaki etkisi, eserin anlam ve duygusunu yansıtmadaki önemi öğrenci tarafından anlaşılabilir. Dilin özelliklerine uygun şekilde şarkı söylemenin önemi açıklanır. Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.14",
+      "KB2.3"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/976"
+}

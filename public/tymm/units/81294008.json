@@ -1,0 +1,45 @@
+{
+  "unitId": 81294008,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "8. ÜNİTE: II. DÜZEY 3. TEMA: ENERJİ II",
+  "hours": "16",
+  "description": "“Enerji II” teması, enerjinin önemi, sürdürülebilirlik, enerji kaynakları ve çevresel etkileri, enerji yönetimi ve ekonomisi gibi içerikleri kapsar. Bu temada öğrencilerin enerji konularında bilinçli ve sürdürülebilir kararlar alabilmeleri için onlara rehberlik edilir. “Enerji II” temasında öğrencilerden enerji kaynaklarının çevresel etkilerini eleştirel bir bakış açısıyla değerlendirmeleri, enerji tasarrufu ürünlerinin enerji sarfiyatına etkisini gözlemleyebileceği deney yapmaları, enerji yönetimi ile ülkelerin gelişmişlik düzeyi arasındaki ilişkiyi çözümlemeleri, Türkiye'deki enerji yönetimi konusunda bilgi toplamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.2.3.1.1",
+      "title": "Enerji kaynaklarının çevresel etkilerini eleştirel bir bakış açısıyla değerlendirir",
+      "processComponents": [
+        "Geçmişten günümüze enerji kaynaklarının kullanımının istatistiksel bilgilere dayanarak açıklanması sağlanır. Enerji kaynakları, sürdürülebilirlik kavramları ve sürdürülebilir enerji kaynakları vurgulanır.",
+        "Çevresel sorunları tespit etmeleri ve fosil yakıtların kullanımının ''iklim değişikliği, hava, su, toprak ve ekosistem” üzerindeki çevresel etkilerini değerlendirmeleri sağlanır.",
+        "Dünya ülkelerinin nükleer enerji kullanımı, nükleer enerjinin gerekliliği, enerji ihtiyacı ve çevresel etkileri göz önünde bulundurarak akıl yürütmeleri ve çıkarımlarda bulunmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.3.1.2",
+      "title": "Enerji tasarrufu ürünlerinin enerji sarfiyatına etkisini gözlemleyebileceği deney yapar",
+      "processComponents": [
+        "Yeşil enerji etiketine sahip ürünlerin ülke ekonomisine katkısı, toplumdaki davranış değişikliğinin enerji tasarrufuna ve çevreye etkileri ele alınır.",
+        "Ülkemizde en çok enerji kaybının yaşandığı bölgeler ve bu bölgelerde hangi tür enerji kaybının meydana geldiği vurgulanır.",
+        "Farklı ampul türlerinin enerji sarfiyatına etkisi üzerine deney yapılır. Deney sonuçları gerçek yaşamda gözlenen nesne, olay veya olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.2.3.1.3",
+      "title": "Enerji yönetimi ile ülkelerin gelişmişlik düzeyi arasındaki ilişkiyi çözümler",
+      "processComponents": [
+        "Enerji politikalarını etkileyen faktörleri açıklamaları ve enerji yönetimi ile ülkelerin gelişmişlik düzeyi arasındaki ilişkiyi belirlemeleri sağlanır.",
+        "Millî Enerji Politikası ve son yıllardaki yenilenebilir enerji yatırımlarıyla ilgili bilgi edinmeleri ve rapor hâlinde kaydetmeleri sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

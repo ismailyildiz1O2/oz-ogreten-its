@@ -1,0 +1,81 @@
+{
+  "unitId": 1487,
+  "grade": 0,
+  "gradeName": "I. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY I · 3. Tema: Sanatta Matematik",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.1.3.1",
+      "title": "Sanat eserlerindeki simetrik durumları sorgulayabilme",
+      "processComponents": [
+        "a) Sanatta simetrinin kullanım alanlarına ait problemi tanımlar.",
+        "b) Sanat eserlerinde simetrinin kullanımına yönelik sorular sorar.",
+        "c) Sanat eserlerinde simetrinin kullanıldığı durumlara ilişkin bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu simetri özelliklerini kullanarak değerlendirir.",
+        "d) Sanat eserlerinin simetrik olup olmadığını yönelik çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.3.2",
+      "title": "Sanat eserlerinde bulunan süslemelerdeki şekil örüntülerini yapılandırabilme",
+      "processComponents": [
+        "a) Sanat eserlerinde bulunan süslemelerdeki şekil örüntülerini inceleyerek örüntülerdeki ilişkileri ortaya koyar.",
+        "b) Tespit ettiği ilişkilerle ilgili bir şekil örüntüsü oluşturur."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.3.3",
+      "title": "Sanatta geometrik şekil ve cisimlerin kullanım alanlarına yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Sanatta geometrik şekil ve cisimlerin kullanım alanları ile ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.3.4",
+      "title": "Geometrik şekillere dayalı deneyimlerini resim, heykel, dokuma ve dijital sanatlar gibi tasarımlara yansıtabilme",
+      "processComponents": [
+        "a) Geometrik şekillerle ilgili deneyimlerini gözden geçirir.",
+        "b) Tasarlama sürecinde geometrik şekillerin kullanımına yönelik çıkarımlar yapar.",
+        "c) Çıkarımlarını farklı tasarımlar üzerinden değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Sanatta matematik, düzen, denge ve estetik için kullanılır.\n\n Anahtar Kavramlar \n\n açı, altıgen, beşgen, dikdörtgenler prizması, dörtgen, kare prizma, kenar, köşe, küp, küre, örüntü, sekizgen, silindir, simetri, üçgen prizma",
+  "support": [
+    "Mimari, resim, müzik gibi sanat eserlerindeki ya da hologram gibi tekniklerdeki simetrik durumlara ilişkin video/etkileşimli içerikler yoluyla inceleme yapmaları sağlanabilir.",
+    "Sunulan sanat eseri ve mimari yapılardaki geometrik şekil ve cisimleri bulmalarını içeren dijital içerikler kullanılabilir."
+  ],
+  "enrichment": [
+    "Mimari, resim, müzik vb. sanat dallarından ya da hologram gibi tekniklerden birini seçerek bu alanda ünlü bir sanatçının eserlerini simetri bağlamında tanıtan bir poster hazırlamaları istenebilir.",
+    "Mimar Sinan'ın hangi eserlerinde hangi simetrik öğeleri kullandığını araştırarak sınıf ortamında sunmaları istenebilir.",
+    "Geometrik şekillerden küp, prizma, küre, piramit, silindire benzeyen rulo, pet şişe, karton kutu vb. atık malzemeler kullanarak simetrik bir tasarım yapmaları istenebilir. Tasarım oluşturulurken kesme, katlama ve süslemelerden yararlanmaları sağlanabilir.",
+    "Eserlerinde geometrik şekilleri kullanan sanatçıları araştırarak bu şekillerin sanat eserlerine nasıl farklı bir bakış açısı katabileceğini açıklamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevleri, açık uçlu sorular, eşleştirme testi vb. araçlar kullanılarak değerlendirilebilir.",
+    "Öğrendikleri sanattaki simetri bilgilerini kullanarak oluşturacakları özgün tasarımlarla ilgili performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sanat eserleri ve mimari yapılardaki motif ve örüntülere benzeyen şekil örüntüleri oluş turmaya yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir. Ayrıca öz değerlendirme veya akran değerlendirme formlarıyla değerlendirme araçlarında çeşitlilik sağlanabilir.",
+    "Sanatta geometrik şekil ve cisimlerin kullanım alanlarıyla ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Geometrik şekillere dayalı deneyimlerini kullanarak resim, heykel, dokuma ve dijital sanat alanlarında tasarım yapmalarını içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.1.3.1.",
+    "Öğrencilere sanat eserlerinde simetrinin kullanım alanları ile ilgili görseller sunularak veya dijital ortamda sanal müze gezisi yapmaları sağlanarak dikkatleri çekilebilir ( OB2 , OB4 ). Bu süreçte “Okul Dışı Öğrenme Ortamları” genel ağ sayfasından da yararlanılabilir. Öğrencilere kilim, çini, ebru, mimari vb. sanat eserlerindeki simetrik durumlar sunulabilir ( D7.1 ). Sunulan görseller veya sanal müze gezisindeki eserlerdeki simetrinin kullanım alanlarını belirlemeleri beklenir. İncelenen sanat eserlerinde simetrinin kullanımına yönelik \"Sanat eserlerinde simetrinin kullanım nedeni nedir?”, “Simetri kullanımının sanat eserlerine katkısı nedir?\" vb. sorular sormaları sağlanır ( E3.8 ). Öğrencilerin sanat eserlerinde ve hologram gibi tekniklerde simetrinin kullanımına dair bilgi toplamaları istenir. Bilgi toplarken dijital platform, görsel ve basılı kaynaklar, vb. yararlanmaları sağlanır ( OB2 ) . Elde ettikleri bilgileri görsel, yazılı veya sözlü sunum tekniklerini kullanarak ifade etmeleri ve bu bilgilerin doğruluğunu simetri özelliklerini kullanarak etkin bir tartışma ortamında eleştirel bakış açısı ile değerlendirmeleri sağlanır ( SDB2.1 , E3.1 , E3.10 , KB2.9 ). Örneğin “İncelediğim sanat eserlerinden bazıları simetri özelliği taşıyordu bazıları taşımıyordu.” vb. Daha sonra inceledikleri sanat eserlerinin simetrik olup olmadığına dair çıkarım yapmaları sağlanır. Örneğin “Bu eser simetriktir çünkü sağ ve sol tarafları birbirinin eşidir.” vb. ( KB2.10 ). Öğrencilere simetri ile ilgili öğrendiği bilgileri kullanarak özgün bir tasarım hazırlamalarına yönelik performans görevi verilebilir ( SDB1.2 , D7.2 , E3.3 ). Bu performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenme çıktısı sonunda kontrol listesi kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.1.3.2.",
+    "Öğrencilerden mimari yapılardaki süslemelere ait görselleri sınıfa getirmeleri istenebilir ya da öğretmen tarafından bu görseller sınıfa getirilebilir. Sanat eserlerindeki şekil örüntüleri dijital ortamda da incelenebilir ( OB2 ) . Öğrencilerin bu görsellerde bulunan şekil örüntülerini belirlemeleri istenir ( SDB2.1 , KB2.9 ). Daha sonra öğrencilerden belirledikleri şekil örüntülerindeki ilişkileri ortaya koymaları istenir. Ardından öğrencilerin cami, çeşme, geleneksel Türk hamamı gibi millî ve manevi önemi olan mekânlarda kullanılan süslemelerdeki şekil örüntülerini araştırarak sunum hazırlamaları istenir ( OB1 , D19.3 ) . Araştırmalarında “Okul Dışı Öğrenme Ortamları” genel ağ sayfasından da yararlanmaları desteklenir. Sunumlar so rumluluk bilinciyle grup çalışması veya bireysel olarak hazırlanabilir ( D16.3 , SDB2.1 ). Araştırmanın dijital ortamda yapılması hâlinde güvenilir genel ağ adreslerinden (edu, gov vb.) bilgi toplanmaları beklenir ( OB2 ). Millî ve manevi değeri olan mekânlar incelenirken sosyal bilgiler dersi ile ilişki kurulabilir ( OB5 , D19.3 ). Hazırlanan sunumlar üzerinden tartışma ortamı oluşturularak öğrencilerin sanat eserlerinde bulunan şekil örüntüleri hakkındaki görüşleri alınır ( SDB2.1 , KB2.9 ). Daha sonra öğrencilere inceledikleri süslemelerdeki yapıları dikkate alarak şekil örüntüsü oluşturmalarını içeren performans görevi verilir ( D7.2 , E3.3 ). Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Ayrıca öğrencilerin kendi çalışmaları hakkında yargıda bulunabilecekleri öz değerlendirme formu veya arkadaşlarının çalışmaları hakkında görüşlerini belirtebilecekleri akran değerlendirme formu da kullanılabilir.",
+    "MBU.MU.1.3.3.",
+    "Öğrencilere sanat eserlerinde geometrik şekil ve cisimlerin kullanım alanlarına yönelik açık uçlu sorular sorularak tartışma ortamı oluşturulur ( SDB2.1 , E3.10 ). Örneğin “Geometrik şekil ve cisim modelleri kullanılarak oluşturulan sanat eserlerine örnekler verebilir misiniz?” gibi sorularla öğrencinin merak duygusu artırılabilir ( E1.1 ). Öğrencilere sanatta geometrik şekil ve cisimlerin kullanım alanlarına ilişkin bireysel ya da grup olarak poster, afiş, rapor vb. hazırlayacakları bir performans görevi verilir. Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları sağlanır ( OB1 , OB2 ). Bu süreçte gerçeği arama isteğiyle merak ettikleri soruları sorarak güvenilir araçları belirlemeleri sağlanır ( E3.4 , E3.8 ). Belirledikleri aracı kullanarak geometrik cisim ve şekillerin kullanım alanları hakkında bilgi toplamaları istenir ( OB7 ). Ulaştıkları bilgileri doğrulamaları beklenir. Bu doğrulama işlemini öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak yürütmeleri sağlanır ( D3.3 , OB7 , OB1 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Kaydedilen bilgiler dijital sunum, poster, afiş vb. yöntemlerle sunulabilir ( OB2 , SDB2.1 ). Süreçte görev bilinciyle hareket ederek sorumlu ve planlı davranmaları sağlanır ( D3.2 , D16.3 , E2.2 ). Performans görevi sürecini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Öğrenme durumlarını değerlendirmek için açık uçlu sorular vb. kullanılabilir.",
+    "MBU.MU.1.3.4.",
+    "Öğrencilere üzerlerinde geometrik şekiller (üçgen, kare, daire, dikdörtgen, beşgen, sekizgen vb.) bulunan Türk halı ve kilim motifleri sunulur ( OB5 ). Öğrencilerden halı ve kilim motiflerindeki geometrik şekilleri belirlemeleri istenir. Bu motiflerin kültürümüzdeki anlam ve önemine vurgu yapılarak farkındalık oluşturmaları desteklenir ( OB5 , D19.3 ). Daha sonra öğrencilerin resim, heykel, dokuma, mimari ve dijital sanat eseri örneklerini incelemeleri sağlanır. İnceledikleri eserlerindeki geometrik şekillerin sanat eserine katkısı ile ilgili tartışma ortamı oluşturulur. \"Şekillerin sanat eserlerine katkısı nedir?\" vb. sorular yöneltilerek öğrencilerin görsel algı ve farkındalıkları artırılır ( OB9 , D7.1 ). Buradan hareketle öğrencilerden geometrik şekillerin sanatsal tasarımlara katkısına yönelik çıkarımda bulunmaları sağlanır. Öğrencilerin çıkarımlarını arkadaşlarıyla tartışarak değerlendirmeleri istenir ( SDB2.1 , KB2.17 ). Sanatta matematiğin düzen, denge ve estetik için kullanıldığı vurgulanır. Estetik bir bakış açısıyla üçgen, dörtgen, kare, beşgen, sekizgen ve daire içeren özgün tasarım çalışmaları (resim, heykel, dokuma, logo, halı veya kilim deseni tasarımı vb.) ortaya koymalarına yönelik performans görevi verilebilir. Ürün tasarlanırken geometrik şekillerin kenar köşe ve açı özelliklerinin dikkate alınması gerektiği vurgulanır. Bu tasarımlar görsel sanatlar dersi ile ilişkili olarak okul ortamında sergilenebilir ( SDB2.1 , D7.2 ). Performans görevinin değerlendirilmesinde içerik, tasarım ve teknoloji kullanımı gibi kriterlerden oluşan analitik dereceli puanlama anahtarı kullanılabilir. Öğrenme çıktısı sonunda açık uçlu sorular, eşleştirme testi vb. kullanılarak değerlendirme yapılabilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1487"
+}

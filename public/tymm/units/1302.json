@@ -1,0 +1,55 @@
+{
+  "unitId": 1302,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "4. TEMA: ÇALGIDA TEMEL DAVRANIŞLAR",
+  "hours": "14",
+  "description": "Temanın içeriğini öğrencilerin çalgı ve yayın bakımını yapmaları, çalgılarını nasıl korumaları gerektiğini öğrenmeleri oluşturmaktadır. Bu doğrultuda öğrencilerin belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.1.4.1",
+      "title": "Kemanın bakımını yapabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KMN.1.4.2",
+      "title": ". Yayın bakımını yapabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "keman, arşe",
+  "support": [
+    "Dikkat süreleri öngörülerek ve çalışmalar sadeleştirilerek devam edilebilir. Öğrenciler tek tek çalıştırılabilir. Yay ve keman bakımı, öğretmen eşliğinde sözlü iletişim kurarak ilerletilebilir."
+  ],
+  "enrichment": [
+    "Bu çalışmada daha hızlı öğrenen öğrenciler, çalgı bakımını yalnızca temel düzeyde uygulamakla kalmayıp bakım sürecinin neden önemli olduğunu kavrayarak bilgi düzeylerini derinleştirebilir. Öğrenciler, farklı yay ve çalgı malzemelerinin temizlik gereksinimlerini araştırabilir; kullanılan bez türü, reçine ya da temizleme ürünlerinin etkilerini karşılaştırmalı olarak inceleyebilir. İlgili öğrenciler, yay mekanizmasının çalışma prensibini kavrayarak burgunun işlevi üzerine kısa bir sunum hazırlayabilir. Ayrıca kendi çalgısının dışında farklı yaylı çalgılarda (viyola, çello, kontrbas vb.) temizlik ve bakım yöntemlerinin benzerlik ve farklılıklarını inceleyerek poster ya da dijital sunum oluşturabilir. İsteyen öğrenciler, çalgı bakımında yapılan hataların uzun vadeli etkilerini araştırarak sınıf arkadaşlarını bilgilendirebilir. Keman kutularının iç tasarımının çalgıyı nasıl koruduğu üzerine düşünerek bir tasarım önerisi geliştirebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; hikâye canlandırma, gözlem formları, dinlediğini anlama ve tanıma becerisini ifade eden performans göreviyle değerlendirilebilir. Öğrencilerden bireysel olarak resim ya da grup hâlinde şema çalışmaları yapmaları performans görevi olarak istenebilir."
+  ],
+  "teachingApplications": [
+    "KMN.1.4.1",
+    "Öğrencinin çalgısını hafif nemli bir bezle amacına uygun şekilde temizlemesi hedeflenir. Bu hedef doğrultusunda öğrencinin sınıf ortamında çalgısını ve yayını temizlemesi için öğrenciye nemli bir bez verilir. Öğretmen rehberliğinde temizleme aşamasına geçilir. Bu çalışmada öğrenciye baskı uygulamadan köprü ve diğer gövde kısımlarını dikkatli temizlemesi için yardım edilir ( SDB2.1 ). Öğrenciler temizleme çalışmasında sabırlı davranarak görevlerini yapmaya çalışır ( D12.3 ). Böylece çalgısını kılıfından çıkarıp çaldıktan sonra temizlemesi gerektiğini fark eder ( OB1 ). Öğrencilere çalgılarını taşıma ve saklamaya dair bilgiler verilir. Süreç sonunda dinlediğini anlama ve tanıma becerisini ifade eden performans görevi verilir.",
+    "KMN.1.4.2",
+    "Öğrencilere gövde temizleme çalışması uygulamalı olarak gösterildikten sonra yayın bakımı için yapılacak çalışmaya geçilir. Öğrenciler, öğretmen rehberliğinde yayı hafifçe gerer. Yayı gererken burgunun soldan sağa doğru hafif bir şekilde sıkmadan döndürülmesi gerektiğini, yayı esnetirken sağdan sola doğru çevrildiğini fark eder ( E1.1 ). Öğrenciler yayı çalma pozisyonunda gerekli gerginliğe getirmek için bilgi toplar ( KB2.8 ). Topladığı bilgileri sınıf ortamında sergiler. Yayı gevşeterek, kutuya yerleştirme çalışması yaparak çalgılarını nasıl koruması gerektiğini kaydeder (OB1 ). Süreç gözlem formu ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1302"
+}

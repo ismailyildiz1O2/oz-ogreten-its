@@ -1,0 +1,50 @@
+{
+  "unitId": 1027,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "2. TEMA: KORO OLUŞTURALIM",
+  "hours": "4",
+  "description": "Temada öğrencilerin diyaframın yapısını ve önemini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.4.2.1",
+      "title": "Diyaframın yapısını ve önemini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "diyafram, diyafram nefesi, diyaframın yapısı, nefes çalışmaları",
+  "support": [
+    "Destekleme sürecinde öğrencilerin diyafram nefesini daha iyi öğrenmeleri için basitten zora doğru yeni egzersizler yapmaları ve önceki çalışmaları tekrar etmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin diyafram nefesi çalışmalarına yönelik araştırma yapmaları ve araştırma sonuçlarını arkadaşlarıyla paylaşmaları istenebilir. Ayrıca diyafram nefesi kullanmanın koro icrasındaki olumlu etkilerine yönelik sınıfta bir sunum yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı, verilen performans görevi ile değerlendirilebilir. Öğrencilere diyaframın yapısını ve önemini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.4.2.1 Öğretmen tarafından sınıfa görsel materyaller ve/veya bir insan vücudu maketi getirilerek diyafram kasının ne olduğuna, yapısına ve insan vücudunda nerede bulunduğuna dair açıklamalar yapılır. Öğrencilerin ilgisini çekecek, diyaframın işlevini açıklayan kısa animasyonlar/ videolar izletilebilir ( OB4 , E1.1 , FBAB1 , TAB1 ). Öğrencilere diyafram nefesinin nasıl alındığını keşfetmeleri için nefes egzersizleri yaptırılabilir ( D3.4 ). Örneğin öğrencilerden ayağa kalkmaları, ellerini karınlarına koymaları ve derin bir nefes alarak karınlarının nasıl şiştiğini hissetmeleri istenir. Daha sonra nefes vererek karınlarındaki şişliğin nasıl indiğini hissetmeleri istenir. Ayrıca yine ellerini karınlarına koyarak kahkaha atmaları ya da şaşırma refleksi göstermeleri istenir ve bu eylemleri yaptıklarında karınlarında olan değişim ile diyafram nefesini keşfetmeleri sağlanır. Öğrencilerin diyaframı kullanmanın daha derin ve sağlıklı nefes alıp vermeyi sağladığı ve bunun da koroda şarkı söylerken ses bütünlüğünün sağlanması açısından önemli olduğu bilgisine ulaşmaları sağlanır ( D13.4 , OB1 ). Diyafram nefesiyle şarkı söylemenin eserin anlamını güçlendireceği vurgulanır. Öğrencilerin diyafram nefesi hakkında kendi düşüncelerini de ifade etmeleri istenebilir ( SDB2.1 ). Öğrencilere diyaframın yapısını ve önemini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "diger": [
+      "FBAB1",
+      "TAB1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1027"
+}

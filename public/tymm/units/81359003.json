@@ -1,0 +1,102 @@
+{
+  "unitId": 81359003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Genetik Bilimine Giriş Dersi",
+  "title": "3. ÜNİTE: KALITIMIN TEMELLERİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GBG.3.1.1",
+      "title": "Genetikte kullanılan temel kavramları ifade eder",
+      "processComponents": [
+        "Arı döl, melezleme, P kuşağı, F1 kuşağı ve F2 kuşağı kavramları Mendel genetiği ile ilişkilendirilerek açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.3.1.2",
+      "title": "Mendel genetiğinin yasalarını açıklar",
+      "processComponents": [
+        "Ayrılma kuralı örneklerle açıklanır.",
+        "Punnett karesi kullanılarak çaprazlama örnekleri yapılır."
+      ]
+    },
+    {
+      "code": "GBG.3.1.3",
+      "title": "Çaprazlama yaparak oğul döllerin fenotip ve genotiplerini bulur",
+      "processComponents": [
+        "Monohibrit çaprazlama örnekleri çözülür ve genotip, fenotip oranları belirtilir.",
+        "Dihibrit çaprazlamaya Punnet karesi de kullanılarak örnekler verilir."
+      ]
+    },
+    {
+      "code": "GBG.3.1.4",
+      "title": "Mendel genetiği çaprazlamalarında olasılık ilkelerini kullanır",
+      "processComponents": [
+        "Monohibrit çaprazlamalarda uygulanan çarpma ve toplama kuralları örnekler üzerinden açıklanır.",
+        "Genetik problemleri olasılık ilkeleri kullanılarak çözülür."
+      ]
+    },
+    {
+      "code": "GBG.3.1.5",
+      "title": "Mendel genetiğinin uzantılarını açıklar",
+      "processComponents": [
+        "Kırmızı kan hücreleri yüzeyinde karbonhidrat taşıma durumlarına değinilir.",
+        "Bombay fenotipi Rh antijeni sistemi olarak belirtilir.",
+        "Rh antijeninin kan transferlerindeki önemine dikkat çekilir.",
+        "Salgı lokusunun adli tıptaki önemine değinilir.",
+        "Epistasi örneklerle ifade edilir."
+      ]
+    },
+    {
+      "code": "GBG.3.2.1",
+      "title": "Kantitatif genetiğin temellerini kavrar",
+      "processComponents": [
+        "RNA dizileme ve DNA mikrodizi testleri çoklu gen hesaplamalarına örnek verilir.",
+        "Kantitatif karakterin Mendel grubu karakter olmadığına dikkat çekillir.",
+        "Yapay seçilim ve ıslah çalışmalarının ülke ekonomisine katkıları tartışılır."
+      ]
+    },
+    {
+      "code": "GBG.3.2.2",
+      "title": "Eşey kromozomları ve cinsiyetin belirlenmesini açıklar",
+      "processComponents": [
+        "İnsan hücresindeki eşey kromozomları belirtilir.",
+        "Eşey belirlenmesi, genotipik ve çevresel eşey belirleme sistemleri üzerinden örneklendirilerek açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.3.2.3",
+      "title": "Kromozomlarda ayrılmama sonucu oluşacak anomalileri açıklar",
+      "processComponents": [
+        "Down sendromu (Trisomi 21), Patau sendromu (Trisomi 13), Edward sendromu (Trizomi 18), Turner sendromu ve Klinefelter sendromunun hangi ayrılmama durumunda oluştuğu ifade edilir."
+      ]
+    },
+    {
+      "code": "GBG.3.2.4",
+      "title": "Eş baskınlık (kodominanslık), eksik baskınlık (ekivalentlik) ve pleiotropiye örnek verir",
+      "processComponents": [
+        "Başatlığın dereceleri aleller arasındaki baskınlık ilişkisi ile açıklanır.",
+        "Eş baskınlık (kodominanslık), eksik baskınlık (ekivalentlik) ve pleiotropinin Mendel kalıtımı modellerinden sapma olduğuna dikkat çekilir."
+      ]
+    },
+    {
+      "code": "GBG.3.2.5",
+      "title": "Mutasyonların oluşumunu ve çeşitlerini tanımlar",
+      "processComponents": [
+        "Mutasyonlar genom mutasyonları ve gen mutasyonları olarak sınıflandırılır.",
+        "Genom mutasyonları, kromozom sayısında meydana gelen mutasyonlar ve kromozom yapısında meydana gelen mutasyonlar olarak incelenir.",
+        "Mutasyonların oluşumu ve çeşitleri örneklerle ifade edilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249593601-genetik.pdf"
+}

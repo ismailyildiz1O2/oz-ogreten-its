@@ -1,0 +1,52 @@
+{
+  "unitId": 1112,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "2. TEMA: TÜRK MÜZİĞİ SES SİSTEMİ",
+  "hours": "10",
+  "description": "Temada Türk müziğinde kullanılan ses istemi olan Arel-Ezgi-Uzdilek ses sisteminin oluşturulma şekli, yirmi dörtlü ses sisteminin oluşumu ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TMT6.2.1. Türk müziği ses sistemini oluşturan unsurları işitebilme",
+      "processComponents": [
+        "a) Türk müziği ses sistemini tanır.",
+        "b) Türk müziği ses sistemin bileşenlerini ayırt eder.",
+        "c) Türk müziği ses sistemini işitsel olarak ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "perde, Türk müziği ses sistemi",
+  "support": [
+    "Bu süreçte öğrencilerin konuyu daha iyi kavrayabilmeleri için basit ve anlaşılır görsel ve işitsel materyaller kullanılabilir. Koma, perde, Arel Ezgi Uzdilek sistemi gibi kavramlar çizimlerle ve tanıdık ezgilerle örneklendirilebilir. Öğrenciler küçük ses aralıklarını duyabilmek için kısa dinleme etkinlikleri yapabilir, bu aralıkları çizgiler üzerinde görebilmek için renkli şekillerle çalışmalar yapılması istenebilir. Değiştirici işaretleri ve ses aralıklarını daha iyi anlayabilmeleri için basit ezgiler üzerinde birlikte inceleme yapılabilir."
+  ],
+  "enrichment": [
+    "Hazırbulunuşluğu yüksek, Türk müziğine ve enstrümanlara aşina olan ya da hızlı öğrenen öğrencilerin öğrendiği ses sistemi ve perdelerle ilgili basit ezgiler üretmesi istenebilir. Öğrenciye grup liderliği yaptırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, dereceli puanlama anahtarı, eşleştirme soruları, kontrol listesi, performans görevi ile değerlendirilebilir. Duyduğu komalı seslerden yola çıkarak perde ismi tahmininde bulunabileceği performans görevi istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "TMT6.2.1. Türk müziği basit makamlarından rast, uşşak, hicaz, çargâh, buselik ve kürdi makam dizilerini",
+    "hatırlaması sağlanır ( OB1 ). Arel Ezgi Uzdilek sistemi kuramcıları ve kuramı geliştirme amaçları ile ilgili önbilgilendirme yapılır. Arel Ezgi Uzdilek yirmi dörtlü ses sistemi ve perde kavramları ile ilgili görseller hazırlanır ( OB4 ). Öğrencilere çeşitli eğitici videolardan kısa kesitler izletilir ve Arel Ezgi Uzdilek ses sisteminin nasıl elde edildiği sorulur ( E1.1 ). Yirmi dörtlü ses sistemi ve perdelerin oluşumuna ilişkin görseller ile ele alınan bu ses sistemi tanımaları sağlanır. Öğrencilerin Türk müziği ses sistemi ile ilgili bilgi toplayacağı, güvenirliği kanıtlanmış dijital ve basılı kaynaklar açıklanır ( OB1 ). Belirledikleri bu araçlardan batı müziği ses sistemi ve Arel Ezgi Uzdilek ses sistemi ile ilgili öğrendikleri kavramları ayırt etmeleri istenir ( OB4 ).",
+    "Öğrenciler, eriştikleri görselleri inceleyerek sınıfta seviyelerine uygun bir sunum hazırlar. Sunum sürecinde bilgileri karşılaştırarak değerlendirmeleri ve elde ettikleri verilerin doğruluğunu sorgulamaları beklenir ( OB1 , D3.3 , SDB2.1 ). Öğrencilere, yakın çevrelerinden öğrendikleri türküleri ya da ezgileri paylaşma fırsatı sunulur. Bu süreçte, kültürel mirasın önemini fark ederek geleneksel değerleri tanımaları ve bu değerleri yaşatarak sonraki kuşaklara aktarma konusunda bilinçli adımlar atmaları teşvik edilir ( D19.3 ). Bu süreç, gözlem formu veya kontrol listesi kullanılarak değerlendirilebilir. Duyduğu komalı seslerden yola çıkarak perde ismi tahmininde bulunabileceği performans görevi istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1112"
+}

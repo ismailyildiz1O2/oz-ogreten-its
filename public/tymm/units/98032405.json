@@ -1,0 +1,64 @@
+{
+  "unitId": 98032405,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "5. ÖĞRENME ALANI: FİZİKSEL ETKİNLİK KAVRAMLARI, İLKELERİ VE İLGİLİ HAYAT BECERİLERİ",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BE.8.2.2.1",
+      "title": "Fiziksel etkinlik düzeyini korumak için çeşitli motivasyon tekniklerini kullanır",
+      "processComponents": [
+        "Bireysel motivasyon yöntemleri geliştirme ve etkilerini takip etme vb. teknikler üzerinde durulur.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.2.2",
+      "title": "Düzenli olarak yaptığı spor etkinliklerinin, fiziksel uygunluğuna etkilerini değerlendirir",
+      "processComponents": [
+        "Yaptığı fiziksel etkinlik ve spor programının, fiziksel uygunluğuna (vücut kompozisyonu, kalp-dolaşım sistemi dayanıklılığı, vb.) etkisi ele alınır."
+      ]
+    },
+    {
+      "code": "BE.8.2.2.3",
+      "title": "Fiziksel etkinliklerde yiyecek ve içecek seçiminde bilinçli tüketici davranışları sergiler",
+      "processComponents": [
+        "Hangi besin desteklerinin yararlı (vitamin B grubu, vitamin C ve vitamin D; mineraller- kalsiyum, magnezyum, sporcu içeceği vb.) hangi besin desteklerinin zararlı (aşırı protein destekleri, enerji içecekleri vb.) olduğu açıklanır.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.2.4",
+      "title": "Spor ortamlarında gerekli güvenlik önlemleri alır",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.2.5",
+      "title": "Spor sakatlıklarından korunma yöntemlerini bilir",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BE.8.2.2.6",
+      "title": "Fiziksel etkinlikler ve spor konusunda medyada çıkan haberleri takip eder",
+      "processComponents": [
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Aktif ve Sağlıklı Hayat",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018120201950145-BEDEN%20EGITIMI%20VE%20SPOR%20OGRETIM%20PROGRAM%202018.pdf"
+}

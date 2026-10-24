@@ -1,0 +1,39 @@
+{
+  "unitId": 1646,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "İklim, Çevre ve Yenilikçi Çözümler Dersi",
+  "title": "1. Ünite: İklim Değişikliği",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "İÇYÇ.1.1",
+      "title": "Küresel iklim sisteminde meydana gelen değişiklikleri yorumlayabilme",
+      "processComponents": [
+        "a) İklim değişikliğine neden olan unsurları inceler.",
+        "b) İklim değişikliğinin etkilediği unsurları inceler.",
+        "c) İklim değişikliğinin etkilerinin niteliğini sorgular.",
+        "ç) İklim değişikliğinin nedenlerini ve sonuçlarını bağlamından kopmadan yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "iklim, iklim değişikliği, iklim sistemi, küresel ısınma, sera etkisi",
+  "support": [
+    "Öğrencilerin öğrenme düzeylerine göre bireyselleştirilmiş çalışma yaprakları hazırlanabilir. İklim değişikliğinin neden ve sonuçlarını ortaya koyan bir sunum düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere *ikim değişikliğinin biyoçeşitliliğe ve günlük yaşama olan etkilerini ortaya koyan bir araştırma görevi verilebilir. Öğrencilerden araştırma sonuçlarını tablo, grafik, şekil ve/veya diyagram, harita, görsel vb. materyaller yardımıyla poster hâline getirerek sınıf ortamında sunum yapması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı; açık uçlu sorular, öğrenme günlüğü, performans görevi, analitik dereceli puanlama anahtarı, grup değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden grup çalışması şeklinde iklim değişikliğine neden olan beşerî faaliyetlere yönelik poster, afiş, bilgi görseli vb. çalışmalar yapmaları istenebilir. Performans görevi; bilgi toplama, bilgileri düzenleme, görselleştirme ve sunum yapma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "İÇYÇ.1.1",
+    "Öğrencilerden tablo, grafik, şekil ve/veya diyagram, görsel, metin vb. materyalleri kullanarak iklim değişikliğine neden olan doğal ve beşerî unsurlar ile bu değişiklikten etkilenen unsurları incelemesi istenir ( OB1 , OB4 ). İncelenen materyaller üzerinden iklim değişikliğine neden olan ve bu değişiklikten etkilenen unsurlar belirlenir ( SBAB1 , SBAB10 , SBAB11.1 , E1.1 ). Doğal ve beşerî unsurlar sonucu ortaya çıkan iklim değişikliğinin etkilerinin boyutları sorgulanır ( E3.8 , D5.2 ). İklim değişikliğinin nedenleri ve sonuçları, bağlamından kopmadan geleceğe yönelik senaryolarla ifade edilir ( KB2.14 , SBAB1 ). Öğrencilerin iklim değişikliğinin nedenleri ve sonuçlarına yönelik öğrenmeleri öğrenme günlüğüyle izlenebilir ( SDB1.3 ). Bu ünitede performans görevi olarak öğrencilerden grup çalışmasıyla iklim değişikliğine neden olan beşerî faaliyetlere yönelik poster, afiş, bilgi görseli vb. çalışmalar yapmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve grup değerlendirme formuyla değerlendirilebilir ( KB2.14 , SDB2.1 , SDB2.2 )."
+  ],
+  "skills": [
+    "SBAB 4. Değişim ve Sürekliliği Algılama (SBAB4.2. Değişim ve Sürekliliği Neden ve Sonuçlarıyla Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1646"
+}

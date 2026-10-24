@@ -1,0 +1,34 @@
+{
+  "unitId": 81424094,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "94. ÜNİTE: KEMANE - ETÜTLER VE DAĞARCIK II",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.13.6.1",
+      "title": "Öğrendiği eserleri istenilen teknik ve tavırla icra eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.6.2",
+      "title": "Öğrendiği eserleri tavrına uygun olarak icra eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.6.3",
+      "title": "Grup çalışmaları içerisinde eserleri icra eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

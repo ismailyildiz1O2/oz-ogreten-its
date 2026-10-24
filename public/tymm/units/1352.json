@@ -1,0 +1,48 @@
+{
+  "unitId": 1352,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "3. TEMA: PİYANODA TONALİTE 3",
+  "hours": "6",
+  "description": "Temada öğrencilere piyano çalgısı üzerinde si bemol majör ve sol minör tonalitesini çalmaya yönelik beceri kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.7.3.1",
+      "title": "Si bemol majör ve sol minör tonalitesinde eser veya etüdü çalabilme",
+      "processComponents": [
+        "a) Si bemol majör ve sol minör eser veya etüdü çözümler.",
+        "b) Si bemol majör ve sol minör eser veya etüt çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Si bemol majör ve sol minör eser veya etüt çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Si bemol majör ve sol minör eser veya etüdün müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "majör, minör",
+  "support": [
+    "Öğrenciler si bemol majör ve si minör tonalitenin işleyişini anlamaları için notaların ve akorların nasıl yerleştirildiğini adım adım anlatılabilir. Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Öğrenciler, si bemol majör ve sol minör tonları ile diğer tonları karşılaştırarak modülasyonları ve akorlar arasındaki geçişleri anlamaya çalışabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, öz değerlendirme formu ve dereceli puanlama anahtarı ile ölçülebilir. Öğrenciden si bemol majör ve sol minör tonlarında yazılmış kısa bir eser veya etüdü teknik doğrulukla duygusal ifade ile ve müziksel bileşenlere uygun biçimde çalması istenebilir. Performans görevi, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PYN.7.3.1",
+    "Si bemol majör ve sol minör tonlarının özellikleri hakkında kısa bir bilgi verilir, bu tonların hangi duygusal etkileri yarattığı ve hangi müzik eserlerinde kullanıldığı tartışılır ( SDB2.1 ). Öğrencilerden bu tonları daha iyi anlamaları için örnek eserler dinlemeleri ve analiz etmeleri istenir. Öğrenciler si bemol majör ve sol minör eser veya etüdü çözümler. Öğrenciden duruş ve tutuş pozisyonu alması ve çalgıya özgü teknikleri kullanması istenir. Öğrenciler adım adım doğru notaları, tonları ve geçişleri uygularken öz güvenlerini artırmak için başarılı olduklarında olumlu geri bildirim verilir ( E1.5 ). Öğrenciler si bemol majör ve sol minör tonlarının eser veya etüt içinde müziksel bileşenlere uygun çalar ( OB9 ). Öğrencilerin çaldıkları parçayı bireysel olarak kaydetmeleri, kendi ilerlemelerini dinlemeleri ve eksik oldukları alanlarda tekrar yapmaları teşvik edilir ( SDB1.2 ). Performans görevi kapsamında öğrenciden si bemol majör ve sol minör tonlarında yazılmış kısa bir eser veya etüdü teknik doğrulukla duygusal ifade ile ve müziksel bileşenlere uygun biçimde çalması istenir. Öğrenci, çalıştığı eserde tonal karakterin nasıl hissedildiğini açıklayan kısa bir sözlü ya da yazılı değerlendirme yapar. Kendi performans kaydını izleyip dinleyerek güçlü ve gelişime açık yönlerini belirler. Performans görevi, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "egilim": [
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1352"
+}

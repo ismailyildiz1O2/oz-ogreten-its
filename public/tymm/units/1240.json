@@ -1,0 +1,80 @@
+{
+  "unitId": 1240,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Flüt Modülü",
+  "title": "4. TEMA: FLÜTTE TEMEL DAVRANIŞLAR",
+  "hours": "13",
+  "description": "Temada öğrencilerin nefes kontrolü geliştirmeleri, solunum farkındalığı, vücut ve zihin dengelemesi ile farkındalık oluşturmalarına ilişkin belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FLT.1.4.1",
+      "title": "Pasif nefesi tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "FLT.1.4.2",
+      "title": "Aktif nefesi tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "FLT.1.4.3",
+      "title": "Diyafram nefesini tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "FLT.1.4.4",
+      "title": "Diyafram nefesi tekniğini yorumlayabilme",
+      "processComponents": [
+        "a) Diyafram nefesi tekniğini inceler.",
+        "b) Diyafram nefesi tekniğini kullanım alanlarına göre uygun şekilde yorumlar.",
+        "c) Diyafram nefesi tekniğini doğru bir şekilde ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "aktif nefes, derin nefes, diyafram nefesi, gevşeme, nefes farkındalığı, pasif nefes, stres yönetimi",
+  "support": [
+    "Öğrenme sürecini daha erişilebilir ve anlaşılır hâle getirebilmek için öğrencilere daha küçük, yönetilebilir adımlarla rehberlik edilebilir. Her nefes egzersizinin aşaması tek tek anlatılabilir ve öğrenciler her adımı başarıyla tamamladıkça bir sonraki adıma geçebilirler. Öğrencilere nefes tekniklerini anlamalarına yardımcı olacak görsel ve dokunsal materyaller sunulabilir. Örneğin \"Balon Karın\" oyununda kullanılan oyuncakları daha fazla vurgulamak veya görsel kartlar ile adımları tamamlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, nefes egzersizlerini zihinsel farkındalıkla birleştirerek bedensel ve duygusal farkındalıklarını artırabilirler. Aktif nefes çalışmalarıyla öğrenciler, daha hareketli oyunlar ve egzersizler aracılığıyla nefesin bedensel etkilerini keşfedebilirler. Nefes egzersizleri, yaratıcı hikâye anlatımı, drama veya doğa gözlemleri gibi etkinliklerle birleştirerek öğrenciler hem zihinsel hem de bedensel becerilerini daha yaratıcı bir şekilde geliştirebilirler."
+  ],
+  "assessment": [
+    "Performans görevi; flüt çeşitlerini tanıma, flütlerin fiziksel farklılıklarını belirleme, malzeme ve ses özelliklerini karşılaştırma, mağaza görevlisiyle etkileşim, soru sorma gibi kriterler belirlenerek analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FLT.1.4.1",
+    "Öğrenciler, pasif nefesin doğal ve rahat bir nefes türü olduğunu öğrenir. Pasif nefes, vücudun zorlanmadan nefes almasıdır ve sakinleşmeye, gevşemeye yardımcı olur. Öğretmen, öğrencilerden gözlerini kapatmalarını ve rahatlamalarını isteyerek derse başlar. \"Hayal edin, gökyüzünde süzülen bir bulut var. Bu bulut yavaşça ve sakin bir şekilde hareket ediyor. Siz de nefesinizi bu bulut gibi rahat ve yavaş alıp verin.\" şeklinde yönlendirmeler yapılır. Öğrencilere \"Nefesinizi nasıl aldığınızı hiç düşündünüz mü? Nefes alıp verirken vücudunuz ne yapar?\" gibi sorular sorularak bilgi ihtiyacını fark etmeleri sağlanır ( OB1 ). Öğrencilerden sadece nefeslerini izlemeleri, değiştirmemeleri istenir. Daha sonra öğrencilerin merak duygularını harekete geçirmek için \"Pasif nefes nedir, ne işe yarar?\", \"Vücudunuz nasıl nefes alır?\" gibi sorular yöneltilir. Öğrenciler bu konuda kendi düşüncelerini paylaşır, sorular sorarak bilgi toplar ve öğrendiklerinin doğruluğunu değerlendirir. Etkinlik sonunda \"Nefes alırken zorlanmadığınızda bedeniniz nasıl etkilenir?\" gibi çıkarım yapmalarını sağlayacak sorular sorulur ( KB2.8 ). Sonrasında \"Hangi Grup En Sessiz Nefes Alabiliyor?\" oyunu oynanır. Bu oyun sırasında öğrenciler hem ekip çalışması yapar hem de keyifli bir şekilde nefeslerini kontrol etmeyi öğrenir. Oyun, öğrencilerin öğrenme sürecinde eğlenerek etkin katılım sağlamalarına olanak tanır ( E2.5 ). Ayrıca etkinlik sırasında öğrenciler birbirlerini dikkatlice dinleyerek grup hedeflerine ulaşmak için birlikte çalışır ve grup iş birliği içerisinde etkin şekilde katılarak fikirlerini paylaşırlar ( SDB2.1 ). Etkinlik sonunda öğretmen öğrencilerle nefes almanın gevşeme ve duygusal denge üzerindeki etkisini tartışır. Bu süreçte düzenli nefes çalışmalarının bedensel ve ruhsal iyi oluşa katkıda bulunduğunu fark ederler ( D16.1 ). Doğru yanlış soruları ile öğrencilerin öğrenme düzeyleri belirlenebilir.",
+    "FLT.1.4.2",
+    "Aktif nefesi tanıtmak, öğrencilerin nefeslerini bilinçli olarak kontrol etmeyi öğrenmelerine yardımcı olabilir. Aktif nefes, enerji ve hareket gerektiren nefes şeklinde tanımlanabilir. Öğrencinin pasif ve aktif nefes arasındaki farkı fark etmesi, nefes alışverişinin farkında olup aktif nefesin daha enerjik ve kas gücü gerektirdiğini anlaması sağlanabilir. Örneğin balon şişirme oyunu ile nefes alırken göğüs ve karnın nasıl genişlediğini fark etmeleri sağlanabilir. Böylece nefes alırken bedenlerini daha fazla doldurmaları gerektiğini de öğrenmeleri kaçınılmazdır. Öğrenci derin nefes alıp kontrollü bir şekilde vermeyi başarabilmelidir. Örneğin \"Rüzgâr Nefesi\" oyunu ile nefes alırken bir rüzgârı içine çektiği, nefes verirken ise rüzgârı dışarı üflediği hayal ettirilebilir. Öğrenci, bu şekilde nefesin gücünü ve hızını kontrol etmeyi öğrenebilir ( E1.4 ). Öğrencinin aktif nefesin bedene enerji verdiğini fark etmesi sağlanabilir. \"Zıplama Nefesi\" (Nefes alırken derin bir nefes alıp zıplayın, nefes verirken yere inin.) oyunu ile öğrencilerin aktif nefesin bedeni harekete geçirdiğini, enerjik hissettirdiğini ve en önemlisi sağlıklı yaşamak için doğru nefes almanın önemli olduğunu ayrıca vücudu için gerekli olan temel ihtiyaçları karşılamanın sağlık üzerindeki etkisini fark etmeleri sağlanabilir ( D13.1 ). Grup oyunlarıyla aktif nefes kullanılarak takım çalışması geliştirilebilir. Öğrencilerin grupla çalışma becerilerinin geliştirilebilmesi için \"Nefes Balon Yarışı\" ile gruplar hâlinde bir balonu nefes gücüyle hareket ettirme oyunu oynanabilir. Böylece öğrencilerin hem grup içerisindeki etkileşimi artar hem de aktif nefesin takım çalışmasında nasıl kullanıldığını ve hızın nefes ile nasıl ayarlandığını fark etmesi sağlanabilir ( SDB2.1 , D4.2 ). Böylece öğrencilerin öğrenme düzeyleri belirlenebilir.",
+    "FLT.1.4.3",
+    "Öğrencinin nefes alırken diyaframını (karın bölgesini) kullanması sağlanmalıdır. Çünkü diyafram nefesini tanımak, öğrencilerin doğru ve derin nefes alma becerilerini geliştirmelerine yardımcı olur. Böylece öğrenci, diyafram nefesi alırken karnının şiştiğini verirken de karnının indiğini anlar. Örneğin \"Balon Karın\" oyununda öğrenciler sırt üstü yatar karınlarına küçük bir oyuncak koyar. Nefes alırken oyuncağın yukarı kalktığını, nefes verirken oyuncağın aşağı indiğini gözlemlerler. Bu sayede diyafram nefesinin nasıl çalıştığını fark etmeleri sağlanır ( E2.5 ). Öğrenci diyaframını kullanarak derin ve yavaş nefes alır, nefes alıp verme süresini kontrol eder. Nefes alıp verirken karınlarını yavaşça şişirip balon gibi doldurduklarını hayal edebilirler. Nefes verirken balonu yavaşça söndürürler. Bu çalışma derin nefesin etkisini anlamalarına yardımcı olacaktır ( E1.4 , SDB1.2 ). Öğrencilerin diyafram nefesini kullanarak nefes alma sürelerini uzatmayı öğrenmeleri sağlanabilir. \"Çiçek ve Mum\" uygulaması ile öğrenciler nefes alırken bir çiçeği kokladıklarını nefes verirken bir mumu üflediklerini hayal ederler. Böylece nefes alma ve verme sürelerini uzatarak nefeslerinin daha uzun olduğunu fark etmeleri sağlanabilir ( OB1 ). Öğrenciler, diyafram nefesini stresli ya da zorlayıcı durumlarda kullanmayı öğrenebilir. \"Sakinleşme Nefesi\" ile öğrencilere stresli anlarda derin diyafram nefesi alarak bedenlerini nasıl sakinleştirebilecekleri öğretilebilir. \"Derin bir nefes al. 3'e kadar say. Sonra nefes ver.\" çalışmasıyla stres yönetimi sağlanabilir ( E1.2 , SDB1.2 ). Uygulanacak grup nefes egzersizleriyle öğrencilerin öğrenme düzeyleri belirlenebilir.",
+    "FLT.1.4.4",
+    "Diyafram nefesi tekniğini öğrenmek için öğrenciler basit etkinliklerle yönlendirilir. Ayna karşısında nefes alıp verirken göbeklerinin hareketini gözlemler ve nefes alma-verme sürelerini ölçerek bir ölçüt belirlerler. Bu çalışma, mevcut durumu inceleyerek gözlem yapmalarını sağlar. Öğrenciler, ellerini göbeklerine koyarak diyafram kasının hareketini hisseder ve bu tekniği spor, müzik, rahatlama gibi alanlara nasıl uyarlayabileceklerini öğrenirler. Böylece öğrendikleri bilgiyi bağlamdan koparmadan farklı durumlara uyarlamayı öğrenirler. Daha sonra öğrendiklerini kendi cümleleriyle ifade ederek diyafram nefesinin nasıl işlediğini ve faydalarını anlatırlar ( OB1 ). Öğrenciler, süreleri ölçmek için kronometre veya saat gibi araçlar kullanır ve verileri bir tabloya kaydederler. Toplanan veriler kısa, orta ve uzun nefes olarak sınıflandırılır ve sınıf genelinde değerlendirilir ( KB2.2 ). Bu süreçte öğrenciler, grup çalışması yaparak birlikte veriler toplar ve analiz eder ( D3.4 ). Hikâye yazma etkinliğiyle öğrenciler diyafram nefesini eğlenceli bir şekilde açıklar. Örneğin nefes alıp veren bir karakter üzerinden tekniği anlatırlar ( SDB2.1 ). Bu süreçte öğrenciler, hikâyelerini paylaşarak ve tartışmalara katılarak grup iletişiminde etkin rol alırlar ( SDB2.1 ). Bu çalışmalar, öğrencilerin diyafram nefesini anlamalarına, farklı durumlarda uygulamalarına ve grup içinde etkili bir şekilde iş birliği yapmalarına yardımcı olur ( D3.4 ). Öğrencilerin öğrenme düzeyleri hikâye canlandırma, gözlem formları, grup nefes egzersizleri kullanılarak ölçülebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D16.1",
+      "D3.4",
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.2",
+      "E1.4",
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1240"
+}

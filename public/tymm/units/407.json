@@ -1,0 +1,96 @@
+{
+  "unitId": 407,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "6. ÜNİTE: YAŞAMIMIZDAKİ ELEKTRİK",
+  "hours": "16",
+  "description": "Bu ünitede öğrencilerin devre elemanlarını sembollerle göstererek devre şeması çizmesi, devre şemalarının ortak bilimsel dil açısından önemini kavraması, çizdikleri devreleri kurarak çalıştırması, farklı elektrik devrelerindeki pil ve ampul sayısını değiştirerek bu değişimin devre üzerindeki etkilerini keşfetmesi, farklı elektrik devrelerindeki pil ve ampul sayısını değiştirerek bu değişimin devre üzerindeki etkilerini yorumlaması amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Devre Elemanlarının Sembollerle Gösterimi ve Devre Şemaları",
+      "processComponents": []
+    },
+    {
+      "code": "FB.5.6.1.1",
+      "title": "Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre sınıflandırabilme",
+      "processComponents": [
+        "a) Bir elektrik devresindeki elemanların sembollerini belirler.",
+        "b) Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre ayrıştırır.",
+        "c) Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre gruplandırır.",
+        "ç) Bir elektrik devresindeki elemanların sembollerini niteliklerine göre etiketler."
+      ]
+    },
+    {
+      "code": "FB.5.6.1.2",
+      "title": "Şemasını çizdiği elektrik devresine uygun deney yapabilme",
+      "processComponents": [
+        "a) Çizdiği elektrik devresine uygun deney düzeneği tasarlar.",
+        "b) Deneyle ilgili topladığı verilerin analizini yapar. 2. Bölüm: Basit Bir Elektrik Devresinde Ampul Parlaklığını Etkileyen Değişkenler"
+      ]
+    },
+    {
+      "code": "FB.5.6.2.1",
+      "title": "Bir elektrik devresindeki ampul parlaklığını etkileyen değişkenlerin neler olduğuna ilişkin hipotez oluşturabilme",
+      "processComponents": [
+        "a) Elektrik devrelerindeki ampul parlaklığını etkileyen değişkenleri tanımlar.",
+        "b) Pil ve ampul sayısını değiştirerek ampul parlaklığındaki değişimi neden-sonuç ilişkisi bağlamında belirler.",
+        "c) Ampul parlaklığındaki bağımlı, bağımsız ve kontrol edilen değişkenleri belirler.",
+        "ç) Bağımsız değişken olarak pil sayısı ve ampul sayısını kontrol eder.",
+        "d) Farklı elektrik devreleri üzerinden ampul parlaklığının pil sayısı ve ampul sayısına bağlı olarak değiştiğine yönelik önermelerde bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "basit elektrik devre elemanlarının sembolleri, devre şeması, pil sayısı, ampul sayısı",
+  "support": [
+    "Deney aşamaları için ek açıklamalar ve yönlendirmeler yapılabilir. Devredeki ampul parlaklığının pil ve ampul sayısındaki değişikliğe bağlı olarak artıp azalabildiğini gösteren dijital içerikler kullanmaları istenebilir."
+  ],
+  "enrichment": [
+    "Elektrik devre elemanları ile sembollerinin eşleştirilebileceği dijital bir oyun tasarlanarak sınıfta oynamaları istenebilir.",
+    "Thomas Edison ile bilinen ampulün icadının tarihsel olarak nasıl değiştiği hakkında araştırma yapmaları istenebilir.",
+    "Günlük yaşamda sıkça kullanılan, basit elektrik devrelerine enerji sağlayan kalem pillerin, şarj edilebilir ve şarj edilemeyen türlerini de içerek şekilde araştırıldığı bir performans görevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktının değerlendirilmesinde eşleştirme testi, çalışma kâğıdı, açık uçlu sorular, tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri, bir ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. Basit elektrik devresine yönelik deney düzeneği tasarlamaları istenebilir. Öğrencilerin TGA gibi teknikler kullanarak deneyi raporlaştırmaları istenebilir. Bu performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Elektrik devresindeki ampulün parlaklığının pil ve ampul sayısına göre değişimini içeren deney düzenekleri düzenekleri kurmaları istenebilir. Öğrencilerin TGA gibi teknikler kullanarak deneyi raporlaştırmaları istenebilir. Bu deney analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.5.6.1.1 Devre elemanları sembollerinin günlük hayattaki kullanım alanlarında aynı anlamı taşımalarının sağladığı avantajların tartışılması istenir. Bu noktada öğrencilerin sembol kullanmanın ortak bilimsel dil açısından önemini etkin bir şekilde ifade etmeleri beklenir ( SDB2.1 , KB2.9 ) . Basit elektrik devresindeki elemanları semboller ile nitelemeleri istenir. Elektrik devresindeki elemanları, sembollerinin olup olmamasına göre sistematik bir şekilde ayrıştırmaları istenir ( E3.7 ) . Ayrıştırdığı devre elemanlarını gruplandırmaları istenir. Elektrik devre elemanları ile sembollerini kart eşleştirme gibi teknikler yoluyla eşleştirerek etiketlemeleri sağlanır. Devre elemanlarının sembollerini doğru şekilde sınıflandırarak çalışma kâğıtlarına çizmeleri sağlanılır ( SDB1.2 ) . Süreç sonunda elektrik devre elemanları ile sembollerinin bir arada bulunduğu afiş, poster vb. hazırlamaları beklenebilir. Hazırlanan öğrenme ürünleri, kontrol listesi veya analitik dereceli puanlama anahtarı ile değerlendirilebilir. Tüm sürece ilişkin öğrencilerin öğrenme durumlarını sınamak için açık uçlu sorular, eşleştirme testi, tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir.",
+    "FB.5.6.1.2 Öğrencilerin öğrendikleri sembolleri kullanarak bir elektrik devresi şeması çizmeleri istenir. Öğrencilerin gruplara ayrılıp görev bilinciyle yardımlaşmaları beklenir ( D16.3 , D20.1 , SDB2.2 ) . Bu süreçte öğrencilerden birbirlerinin duygu ve düşüncelerini anlamak için karşılarındakini dikkatle dinlemeleri istenebilir. Çizdikleri elektrik devre şemasının düzeneğini bilimsel bir yaklaşımla kurabilmeleri için grup üyelerine uygun ortam ve malzemeler sağlanır ( D3.3 ) . Öğrencilerin çizdiği elektrik devresine uygun bir deney düzeneği tasarlamaları sağlanır. Bu süreçte öğrencilerin planlarını ertelemeden ve sorumluluk bilinciyle deneyi yürütmeleri beklenir ( E2.2 , D3.3 ) . Deney ile ilgili verileri tabloya kaydederek analiz yapmaları istenir ( OB7 ) . Öğrencilerin deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Öğrencilerin deney verilerini raporlaştırmaları istenir. Raporlaştırma sürecinde TGA gibi teknikler kullanılabilir. Deney raporlarında öğrencilerin geçerli bilgileri etkili bir biçimde açıklamaları beklenir ( SDB2.1 ) . Öğrenci raporları, kontrol listesi veya analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Ek olarak dijital içeriklerden faydalanılır ( OB2 , KB2.6 ) . Ayrıca tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. kullanılarak değerlendirlendirme yapılabilir. Konuyu zenginleştirmek adına rol oynama tekniği ile devre şemalarında kullanılan semboller arasında ilişki kurulur ( E2.5 ) . Bu sayede öğrenme ortamı eğlenceli hâle getirilebilir. Rol oynama tekniği sürecinde öğrencilerin kendilerini ifade etmeleri Türkçe dersi ile ilişkilendirilebilir.",
+    "FB.5.6.2.1 Öğrencilere bir elektrik devresindeki ampul parlaklığının nasıl değişebileceği yönünde sorular sorulur ( E3.8 ) . Öğrenciler gruplara ayrılır ve öğrencilerden grup içinde aktif olarak sürece dâhil olmaları, görev bilinciyle çalışmaları beklenir ( D3.3 , D16.3 , SDB2.2 ) . Grup üyelerinin yardımlaşmaları beklenir ( D20.2 ) . Öğrencilerin elektrik devrelerindeki ampul parlaklığını etkileyen değişkenleri, pil sayısı ve ampul sayısını dikkate alarak tanımlamaları sağlanır. Bu süreçte öğrencilerin ampul parlaklığını etkileyen değişkenler olarak pil veya ampul sayısındaki değişimi neden sonuç ilişkisi bağlamında belirlemeleri sağlanır. Öğrencilerden paralel devreye girmeden devredeki ampul parlaklığının değişimi ile ilgili deney düzeneği kurmaları istenir. Deney düzeneklerinin kurulması için uygun ortam ve malzemeler sağlanır. Deney sürecinde öğrencilerin bağımlı ve bağımsız değişkenleri, kontrol değişkenlerini belirlemeleri sağlanır. Bilimsel bir yaklaşımla pil sayısı veya ampul sayısı değişkenlerini kontrol ederek deneyi tekrarlamaları istenir ( D3.2 ) . Farklı elektrik devreleri üzerinden ampul parlaklığının pil sayısı veya ampul sayısına bağlı olarak değiştiğine yönelik önermelerde bulunmaları sağlanır ( KB3.2 ) . Ampul parlaklığının pil sayısı veya ampul sayısına bağlı olarak değiştiği konusunda dijital ortamlar yoluyla oluşturulan deney düzeneklerine güvenilir kaynaklardan erişip elde ettikleri bilgiyi özetlemeleri sağlanır ( E3.1 , SDB1.1 , OB1 , OB2 , KB2.6 ) . Öğrencilerin deney sürecindeki performansları analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Ayrıca ampul parlaklığındaki değişimi göstermek için görsel tamamlama içeren çalışma kâğıtları kullanılabilir. Öğrencilerin değerlendirme süreçlerine aktif katılımını teşvik etmek amacıyla öz/akran ve grup değerlendirme formları kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D18.2",
+      "D20.1",
+      "D20.2",
+      "D3.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E2.2",
+      "E2.5",
+      "E3.1",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.6",
+      "KB2.9",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/407"
+}

@@ -1,0 +1,46 @@
+{
+  "unitId": 81424099,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "99. ÜNİTE: GRAFİK TASARIM - GRAFİK TASARIMIN TEMEL KAVRAMLARI VE UYGULAMA YÖNTEMLERİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.2.1.1",
+      "title": "Tasarım ve sanat ilişkisini ayırt eder",
+      "processComponents": [
+        "Sanat eseri eleştirisi ve değerlendirmesinde temel tasarım ilkelerine ihtiyaç duyulduğu açıklanır."
+      ]
+    },
+    {
+      "code": "GSA.2.1.2",
+      "title": "Grafik tasarımın temel kavramlarını açıklar",
+      "processComponents": [
+        "Tasarımda “nokta, çizgi, biçim, doku, değer, renk” kavramları belirtilir.",
+        "Bir sanat eserinde kullanılan “birlik, uyum, denge, vurgu, hareket, ritim ve oran” kavramlarının tanımlanması sağlanır."
+      ]
+    },
+    {
+      "code": "GSA.2.1.3",
+      "title": "Grafik tasarım öge ve ilkelerini örneklendirir",
+      "processComponents": []
+    },
+    {
+      "code": "GSA.2.1.4",
+      "title": "Grafik tasarımın diğer disiplinlerle ilişkisini açıklar",
+      "processComponents": [
+        "Grafik sözcüğünün litografi, serigrafi, fotoğraf, animasyon, web tasarımı vb. alanlarla ilişkisinin araştırılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

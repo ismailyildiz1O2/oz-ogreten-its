@@ -1,0 +1,79 @@
+{
+  "unitId": 304,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "7. TEMA: OLAYLARIN OLASILIĞI VE VERİYE DAYALI ARAŞTIRMA",
+  "hours": "15",
+  "description": "Bu temada, öğrencilerin günlük yaşamdan herhangi bir olayın olma olasılığını “imkansız, olabilir, kesin” olarak belirleyebilmesi ve istatistiksel araştırma sürecinin adımlarını kategorik ve sayma ile elde edilen nicel veriye dayalı en çok iki veri grubuna yönelik yürütebilmesi; kategorik veriye ve sayma ile elde edilen nicel veriye dayalı en çok iki veri grubu ile çalışabilmesi ve veriye dayalı karar verebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.4.4.1",
+      "title": "Günlük yaşamdan herhangi bir olayın olasılığını \"imkânsız, olabilir, kesin\" olarak belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "MAT.4.4.2",
+      "title": "Kategorik veriye ve sayma ile elde edilen nicel veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) Kategorik ve nicel veriye dayalı istatistiksel araştırma gerektiren günlük yaşam ile ilgili bir problem belirler.",
+        "b) Kategorik ve nicel veriye dayalı betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur.",
+        "c) Kategorik ve nicel verileri toplamak için plan yapar.",
+        "ç) Kategorik ve nicel verileri toplar.",
+        "d) Toplanan verileri analiz etmek için uygun görselleştirme araçlarını (çetele ve sıklık tablosu ile nesne, şekil ve nokta grafiği) seçer.",
+        "e) Seçtiği araçlarla verileri görselleştirerek analiz eder.",
+        "f) Araştırma sonuçlarını yorumlar.",
+        "g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "• imkansız, olabilir, kesin, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrencilere \"imkânsız, olabilir, kesin\" durumları içeren olaylarla ilgili basit görseller verilerek olası durumları belirlemeleri sağlanır.",
+    "Öğrencilere tek veri grubu içeren her bir verinin 1, 2, 3, 4, 5 ya da 10 nesne veya durumu temsil ettiği hazır bir grafik (nesne, şekil veya nokta grafiği) verilir. Renksiz verilen nesne veya durumun resimleri öğrenciler tarafından boyanır. Öğrencilerden belirlenen grafiği yorumlamaları istenir. Öğrencilerden grafikteki verileri çetele ve sıklık tablosunda göstermeleri istenir.",
+    "Öğrencilere seçilen bir bağlamla ilgili toplanan verilerden hareketle hazır bir çetele ve sıklık tabloları sunulur. Öğrencilerden nesne, şekil veya nokta grafiği ile görselleştirmeleri istenir."
+  ],
+  "enrichment": [
+    "Öğrencilere \"imkansız, olabilir, kesin\" durumlarını içeren kısa hikâyeler verilerek bu hikâyede geçen olayları incelemeleri sağlanır. Hikâyede geçen olası durumları anlatmaları istenir. Devamında öğrencilerin \"imkânsız, olabilir, kesin\" terimlerine yönelik bir olay örgüsü oluşturmaları istenir. Oluşturulan olay örgüsünde \"imkânsız, olabilir, kesin\" terimlerinin yer alması sağlanır.",
+    "Öğrencilerden iki veri grubu içeren, TÜİK verilerinden seçilen bağlama uygun bilgilendirici bir afiş hazırlamaları istenir. Öğrencilere afiş çalışmasında kullanacağı görselleştirme araçlarına uygun dijital kaynakları belirlemede yardımcı olunur.Böylelikle uygun görselleştirme araçlarından (nesne, şekil ve nokta grafiği ve çetele, sıklık tablosu) uygun olanı/ olanlarını seçilerek dijital araçlarla görselleştirilir.",
+    "Çeşitli özelliklere göre ayrılmış nesne veya durumlar verilip bunların hangi özelliğe göre sınıflandırıldığını bulmaları sağlanır. Sonrasında farklı bir özelliğe göre gruplayıp nesne, şekil ya da nokta grafiğinde göstermeleri beklenir. Öğrencilerden oluşturdukları bu grafiği yorumlamaları istenir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu ve eşleştirme sorularından oluşan çalışma kâğıdı, kontrol listesi, performans görevi, analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.4.4.1 Öğrencilerin günlük yaşamdan herhangi bir olayın olma olasılığını ele alan, ilgi ve merak uyandıran belirsiz durumlara uygun örnekler (Bu yaz, kurak geçecek. Yarın kuşlar, bizimle konuşacak. vb.) verilir ( E1.1 ) . Daha sonra iyi analiz edilmiş farklı araç gereçler (çark, cam kavanoz veya şeffaf bir torbadan çekilen renkli küpler vb.) bir olayın olma olasılığını tahmin etmelerinde kullanılır. Örneğin bir öğrenciden bir olayın olma olasılığını kendisine göre tahminde bulunması, rastgele kullanması ve sonucu analiz etmesi istenir. Öğrencilerden verilen bu durumları \"imkânsız, olabilir, kesin\" terimlerine uygun olarak belirlemeleri sağlanır. Öğrenciler verilen cevaplar doğrultusunda önce \"imkânsız/kesin\" daha sonra \"olabilir\" terimlerine yönlendirilir. Bu şekilde öğrencilerin bu tür sorularla kişisel deneyimlerini ve düşüncelerini sorgulamaları beklenir. Ayrıca öğrencilerin birbirlerinin düşüncelerini etkin ve saygılı bir şekilde dinlemeleri ve grup iletişimine katılmaları sağlanır ( D14.2 , SDB2.1 , SDB2.2 ) . Böylece öğrencilerin gerçekleşme ihtimali olmayan durumlar için \"imkânsız\", mutlaka ya da gerçekleşme olasılığı çok yüksek durumlar için ise \"kesin\" terimlerine yönelik farkındalık kazanmaları sağlanır. Öğrencilerin bu süreçleri kontrol listesi ile değerlendirilebilir ( OB4 ) . Olasılık tahminlerinde oran, kesir ve yüzde gibi sayı temsilleri kullanmaları beklenmez. Öğrenme sürecinin sonunda öğrencilere \"imkansız, olabilir, kesin\" terimlerine yönelik çeşitli olasılıksal durumlar içeren açık uçlu sorular vb. verilebilir. Öğrenme süreçleri kontrol listesi ile değerlendirilebilir.",
+    "MAT.4.4.2 Öğrencilerin ilgisini çeken ve deneyimlerine dayanan örnek durumlar veya olaylar ile günlük yaşamda araştırma gerektiren durumları fark etmeleri ve sınıf içinde tartışmaları sağlanır ( SDB2.1 ) . Öğrenciler seçtikleri bağlama göre kategorik ve sayma ile elde edilen nicel veriye dayalı iki veri grubuna yönelik günlük yaşam durumu belirler ( SDB3.3 ) . Belirlenen bağlam, farklı disiplinlerle (hayat bilgisi, beden eğitimi ve oyun) ilişkilendirilir. Belirlenen günlük yaşam durumundan hareketle öğrencilerin cevaplayabileceği ve betimleyebileceği/karşılaştırabileceği araştırma soruları oluşturmaları sağlanır ( SDB2.1 , D3.2 ) . Araştırma sorularının istatistiksel araştırma sorusu olup olmadığı, verilerin toplanmasına imkân verip vermediği, araştırmanın amacına hizmet edip etmediği, veri toplanacak grubun açık ve net olup olmadığı, soruların cevaplanabilir ve cevapların da değişebilir olup olmadığına dikkat edilir. Bağlam içerisinde \"Bu sorunun cevabını nasıl öğrenebiliriz? Soruyu kimlere sorabiliriz?\" gibi sorular ile veri toplama süreci planlanır ( SDB2.1 ) . Böylece öğrencilerin varsayımlarda bulunularak dikkatlerini toplamaları ve sürece odaklanmaları sağlanır ( E3.2 ) . Hazırlanan veri toplama planı doğrultusunda kendi grupları ile aktif bir şekilde çalışarak veri toplama süreci gerçekleştirilir ( D3.4 , SDB2.1 , SDB2.2 ) . Toplanan verilerin belirlenen duruma cevap veriyor olup olmadığı öğrencilerle birlikte değerlendirilir ( SDB2.1 ) . Öğrencilere topladıkları verileri kaydetmelerinin gerekliliğinden bahsedilir. Bu gerekliliği ortaya koymak için öğrencilere \"Bu veri yarın toplansa aynı sonuçlar elde edilir mi?\" gibi sorular sorulur. Burada öğrencilerin verilerin değişebilirliğini fark etmeleri sağlanır. Belirlenen durum bağlamında toplanan verilerin nasıl görselleştirileceğine yönelik öğrencilere \"Veriyi gruplamamız gerekiyor mu? Veri gruplamayı nasıl yapabilirsiniz?\" gibi sorular sorulur, cevapları tartışılır ( SDB2.1 ) .",
+    "Toplanan veriyi özetlemek ve görselleştirmek için kullanılacak araç/araçların (çetele, sıklık tablosu, nesne, şekil, nokta grafiği) uygunluğu konusunda öğrencilerin düşünceleri alınır ( SDB2.1 ) . Öğrencilerden topladıkları veriyi kendi belirledikleri özelliklerine göre gruplamalarının ardından çetele ve sıklık tablosu ile özetlemeleri istenir. Daha sonra öğrencilerin topladıkları verileri nasıl görselleştirebilecekleri üzerine düşünmeleri ve düşüncelerini sınıf içinde tartışmaları ve şekil, nesne ya da nokta grafiği ile görselleştirme üzerine karar vermeleri sağlanır ( SDB2.1 ) . Her bir verinin bir nesne/şekle/noktaya karşılık geldiği belirtilerek öğrencilerin sıklık tablosundan hareketle verileri seçilen grafiğe yerleştirmeleri sağlanır. Bu süreçte öğrencilerin çetele ve sıklık tablosunda gösterimleri ile nokta-veri eşleştirmelerinin gösterimleri kontrol listesi ile değerlendirilebilir. Böylelikle bu verilerin belirli bir yöntemle düzenli ve sistematik bir şekilde ele alınması sağlanır ( E3.7 , D3.4 ) . Öğrencilerin verileri görselleştirmede kullanılan çetele, sıklık tablosu ve nokta grafiğinin aynı zamanda birer matematiksel temsil olduğu ve bu temsilleri bağlamlarındaki anlamları ile tanımış olmaları sağlanır. Ayrıca grafiği oluşturma adımında verileri görselleştirmek için çevrim içi araçlardan (istatistik yazılım vb.) yararlanılır. Öğrencilerden grafiklerin birbirine dönüşümlerine (örn. şekil grafiğinin nokta grafiğine dönüşümü vb.) yönelik etkinlikler hazırlamaları istenir ( MAB3 , MAB5.1 , OB2 ) .",
+    "Veri görselleştirme adımı tamamlandıktan sonra öğrencilerden elde ettikleri grafiğe dayalı olarak \"Grafikle ilgili ne söyleyebilirsiniz? Hangisi daha fazladır/daha azdır?\" gibi sorular sorularak araştırma sonuçlarının yorumlanması istenir ( SDB2.1 ) . Veri yorumlama adımında grafikten ne anladıklarına yönelik sorular sorularak elde edilen araştırma sonuçlarının araştırma sorularına ne derece cevap verdiğini değerlendirmeleri istenir ( SDB1.3 ) . Bu süreçte öğrencilerin nesne/şekil/nokta-veri eşleştirmeleri boşluk doldurma soruları ile değerlendirilebilir. Öğrencilere sınıf içinde farklı verilerle hazırlanan grafiklerin yorumlanmasının eldeki verilere göre yapıldığı ve yorumların sadece o grafiğin bağlamı içinde sunulduğu çeşitli örneklerle gösterilir. Bu süreçte öğrencilere \"Bu veriler 4/A sınıfından toplandı, 4/B sınıfında da toplansaydı aynı sonuçları elde eder miydik?\" gibi sorular sorarak veri toplanan kişilerin değişebilirliğini fark etmeleri ve çıkarım yapmaları sağlanır ( SDB2.1 ).",
+    "Bir ve iki veri grubuna yönelik öğrencilerin ayakkabı numarası gibi belirledikleri bir özelliğe göre kendilerinden ve çevrelerinden elde ettikleri bilgileri görselleştirerek arkadaşlarına sunmalarını temel alan bir performans görevi verilebilir ( SDB1.2 , SDB3.3 ) . Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir. Aynı zamanda öğrencilere öz değerlendirme formu uygulanarak performans görevine ilişkin kendilerini değerlendirmeleri istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.2",
+      "D3.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/304"
+}

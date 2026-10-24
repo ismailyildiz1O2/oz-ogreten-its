@@ -1,0 +1,92 @@
+{
+  "unitId": 69,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "2. ÜNİTE: TEKNOLOJİ VE HAYAT",
+  "hours": "12",
+  "description": "Bu ünitede öğrencilerin teknoloji ile ilgili felsefi soru ve problemleri hayatla ilişkilendirerek anlamlandırması, teknoloji ve hayat ilişkisine yönelik felsefi düşünce ortaya koyabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.11.2.1",
+      "title": "Teknoloji ile ilgili felsefi soru ve problemleri anlayabilme",
+      "processComponents": [
+        "a) Teknoloji ile ilgili felsefi soru ve problemleri açıklar.",
+        "b) Teknoloji ile ilgili felsefi soru ve problemleri hayatla ilişkilendirerek değerlendirir."
+      ]
+    },
+    {
+      "code": "FEL.11.2.2",
+      "title": "Teknoloji ve hayat ilişkisiyle ilgili felsefi düşünce ortaya koyabilme",
+      "processComponents": [
+        "a) Teknoloji ve hayat ilişkisiyle ilgili felsefi argümanları çözümler.",
+        "b) Teknoloji ve hayat ilişkisiyle ilgili görüş ve argüman oluşturur.",
+        "c) Teknoloji ve hayat ilişkisiyle ilgili felsefi metin yazar."
+      ]
+    }
+  ],
+  "keyConcepts": "ontolojik anlam, tekhne, teknoloji karşıtlığı, teknoloji taraftarlığı, zaman ve mekân",
+  "support": [
+    "Teknoloji hayat ilişkisi ile ilgili felsefi soru ve problemlerin açıklanmasında görsellerle zenginleştirilmiş bilgi kartları ve günlük hayat örneklerini içeren dijital materyaller kullanılabilir.",
+    "Teknoloji ve hayat ilişkisi ile ilgili ontolojik ve aksiyolojik problemlerin çözümlenme sürecinde akran destekli öğrenmeden yararlanılabilir.",
+    "Felsefi metin yazma sürecinde teknoloji ve hayat ilişkisiyle görüş ve argümanlar sunularak yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "J. Searle'ün Çin odası deneyinden hareketle yapay zekânın zihin, anlayış ve bilince sahip olup olamayacağına dair argüman oluşturulabilir.",
+    "Cahit Arf'ın \"Makine Düşünebilir mi ve Nasıl Düşünebilir?\" adlı eserinden hareketle düşünebilen makinelerin imkânı yazarın perspektifinden değerlendirilebilir.",
+    "N. Postman'ın \"teknopoli\" kavramı çerçevesinde teknolojinin insan doğasına uygunluğu problemine ilişkin kişisel görüşlerin açıklanması sağlanabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin öğrenme çıktıları; öz veya akran değerlendirme formu, çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrenciler teknoloji felsefe ilişkisine yönelik felsefi bir metin yazmaları istenebilir. Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.11.2.1",
+    "Öğrencilerin teknoloji ile ilgili felsefi soru ve problemleri anlamaları amaçlanır. Bunun için;",
+    "• Teknoloji ve hayat ilişkisini yansıtan çeşitli materyaller (görsel, video, belgesel, film kesiti vb.) verilerek öğrencilerin, teknoloji hakkındaki farklı felsefi soruları (Teknoloji, insan hayatını nasıl etkiler? Teknolojinin tutsağı olmadan bir hayat nasıl mümkündür? Teknoloji, insanın değer dünyasını nasıl etkiler? Teknoloji, zaman ve mekân algısını değiştirebilir mi? Teknoloji, insanın güvenliğini tehdit eder mi? Teknoloji, varlıkları başta oldukları şeyden uzaklaştırır mı?) düşünmeleri, bu sorulara ilişkin ön kabullerini sorgulayarak farkındalık kazanmaları sağlanır ( E3.10 , SDB1.1 , OB4 , KB2.8 ). Süreçte öğrencilerden bu sorular hakkında düşüncelerini kısaca yazmaları ve yeni sorular eklemeleri istenir. Öğrencilerin teknoloji bağımlılığının nedenleri hakkında düşüncelerini ifade etmeleri sağlanır ( D13.3 ).",
+    "• Teknoloji ve hayat ilişkisine ait felsefi problemleri [teknoloji bağlamında ontolojik problemleri (ontolojik anlam kaybı, yabancılaşma) ile teknoloji bağlamında aksiyolojik problemler (güvenlik sorunları, değerlerin tahribatı, ahlaki eylemin imkânı) yansıtan olay ve ikilem örnekleri verilerek öğrencilerin, yönlendirici sorular aracılığıyla bu problemleri fark etmeleri sağlanır ( SDB2.2 ). Bu aşamada öğrencilerden yakın çevrelerinden hareketle söz konusu sorunlara yönelik örnek vermeleri istenir. Teknoloji hakkındaki felsefi problemleri kısaca açıklayan bilgi görselleri verilerek öğrencilerin ilgili felsefi problemlerin nedenleri ve etkileri hakkında düşüncelerini ifade etmeleri sağlanır. Süreçte öğrencilerin teknoloji kullanımında kişisel bilgilerin korunması hakkında gerekli önemi kazanarak farkındalık oluşturmaları gerçekleştirilir ( D8.2 ). Bu aşamada röportaj, drama veya haber inceleme çalışmaları uygulanabilir.",
+    "• Öğrencilere iletişim, sanayi ve finans alanlarındaki teknolojilerin birey, aile ve toplum yaşamına etkilerini yansıtan örnek olaylar verilir; öğrencilerden bu etkilere ilişkin kendi örneklerini ortaya koymaları istenir. Bunlardan hareketle öğrencilerin üretim-tüketim ilişkileri bağlamında teknolojinin kullanımının sağladığı konfor ile yol açtığı felsefi problemlere ilişkin tartışma yapmaları sağlanır ( KB2.18 ). Tartışmada öğrencilerden bilinçli tüketici olmanın önemini ifade etmeleri beklenir ( D17.1 ).",
+    "• Ülkemizde yaşanan doğal felaketler (deprem, heyelan, yangın, sel vb.) ve salgın hastalıklar sürecini yansıtan materyaller verilerek öğrencilerin, iş birlikli olarak teknolojinin insan hayatındaki yeri ve önemini değerlendirmeleri sağlanır ( SDB2.2 , KB2.17 ). Bu doğrultuda öğrencilerden ülkemizde yürütülen ilgili projeleri araştırmaları, projeler üzerinden teknoloji ve insan hayatı ilişkisinin nasıl olması gerektiği üzerinde çıkarım yapmaları istenir ( E3.4 , KB2.10 ). Süreçte öğrencilerden teknolojik gelişmelerin kendi hayatlarını nasıl etkilediği ve teknolojinin olumsuz etkileriyle baş edebilmek için neler yapabilecekleri hakkında görüşlerini ifade etmeleri beklenir. Süreç öz veya akran değerlendirme formu ile değerlendirilebilir.",
+    "FEL.11.2.2",
+    "Öğrencilerin teknoloji ve hayat ilişkisiyle ilgili felsefi düşünce ortaya koymaları amaçlanır. Bunun için;",
+    "• Teknoloji bağlamında ontolojik problemlere yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada öğrencilere filozofların (M. Heidegger, G. Marcel) ontolojik problemlere yönelik görüşlerini yansıtan yapılandırılmış metinler ya da bilgi görselleri verilir. Yönlendirici sorular ile öğrencilerin ilgili görüşlerde geçen felsefi kavram, problem ve argümanları belirlemeleri; söz konusu filozofların ontolojik anlam kaybı, yabancılaşma problemlerine nasıl yaklaştıklarını değerlendirmeleri sağlanır ( KB2.17 ). Süreç sonunda öğrencilerden sunulan görüş ve argümanları çözümlemeleri veya problemlere yönelik çözüm önerisi sunmaları istenir ( KB2.4 ). Öğrencilerin kendi görüşlerini oluşturmaları desteklenir ( E3.3 , SDB1.2 ).",
+    "• J. Baudrillard'ın simülasyon kuramına ilişkin bilgi görselleri verilerek öğrencilerin, insanın gerçeklik algısı üzerine tartışmaları sağlanır ( E3.4 , OB2 , KB2.18 ). Öğrencilerden iş birlikli olarak teknolojinin geleceği şekillendirmedeki etkisine ilişkin argümanlar oluşturmaları ve bu argümanların tutarlılıklarını değerlendirmeleri istenir ( SDB2.2 , KB3.3 ). Bu aşamada senaryo, kavram haritası veya argüman ağacı çalışması uygulanabilir.",
+    "• Teknoloji bağlamında aksiyolojik problemlere yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada teknolojik gelişmelerin neden olduğu güvenlik sorunlarını içeren bilgi görseli verilerek öğrencilerden bu sorunların önüne geçmek için alınacak önlemler ve geliştirilebilecek sistemler üzerine tartışmaları istenir ( KB2.18 ). Tartışmada yönlendirici sorular aracılığı ile öğrencilerin güvenlik sorunlarına ilişkin görüş ve argüman oluşturmaları sağlanır ( E3.10 ). Bu aşamada öğrencilerin güvenliğin millî birlik ve beraberlikteki önemi ile güvenlik tedbirlerinin ülkenin bağımsızlığını korumadaki değerini ifade etmeleri istenir ( D19.4 ). Ardından Z. Bauman'ın sosyal medya hakkındaki görüşlerini yansıtan yapılandırılmış kısa bir metin verilerek öğrencilerin, değerlerin tahribatı sorunuyla ilgili görüş ve argüman oluşturmaları sağlanır. Süreç sonunda, dünyada ilk robotu icat ettiği kabul edilen Cezeri'nin çalışmalarına dikkat çekilir ve \"Robotlar ahlaklı davranabilir mi?\" sorusu üzerinden öğrencilerin ahlaki eylemin imkânı sorununa yönelik görüş ve argüman oluşturmaları sağlanır. Öğrencilerden robot teknolojisinin insan hayatına olan etkilerini sözlü olarak değerlendirmeleri istenir ( KB2.17 ).",
+    "Öğrencilere teknoloji ve felsefe ilişkisine yönelik felsefi bir metin yazma performans görevi verilebilir. Öncelikle öğrencilerin teknolojiye ilişkin felsefi kavram, soru, düşünce ve argümanları doğru kullanmalarını desteklemek için öğrencilere görsel okuma, cümle ve paragraf tamamlama ile örnek felsefi paragrafları kendi cümleleriyle baştan yazma alıştırmaları yaptırılır ( OB1 , SDB1.2 ). Alıştırma çalışmasından sonra öğrencilerden teknoloji ve felsefe ilişkisi hakkında çeşitli kaynaklardan (kitap, makale, dergi, rapor, gazete, istatistikler vb.) araştırma yapmaları ve elde ettikleri bilgilerdeki düşünce ve argümanları belirlemeleri istenir. Öğrencilerin felsefi bir metin yazmaları sağlanır ( E3.7 , KB3.3 ). Öğrenciler görev bilinci içinde planlı davranır ve felsefe literatürüne ilişkin farkındalık kazanır ( D3.2 , D16.3 ). Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.3",
+      "D16.3",
+      "D17.1",
+      "D19.4",
+      "D3.2",
+      "D8.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.3",
+      "E3.4",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.17",
+      "KB2.18",
+      "KB2.4",
+      "KB2.8",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/69"
+}

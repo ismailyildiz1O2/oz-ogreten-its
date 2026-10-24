@@ -1,0 +1,44 @@
+{
+  "unitId": 98032503,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "3. ÜNİTE: BASINÇ",
+  "hours": "10",
+  "description": "Bu ünitede öğrencilerin; katı, sıvı ve gaz basınçlarını ve bu basınçları etkileyen faktörler hakkında bilgi ve beceriler kazanmaları, aynı zamanda basıncın günlük hayattaki uygulamalarını fark etmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.8.3.1.1",
+      "title": "Katı basıncını etkileyen değişkenleri deneyerek keşfeder",
+      "processComponents": [
+        "Basınç birimi olarak Pascal verilir. Matematiksel bağıntılara girilmez."
+      ]
+    },
+    {
+      "code": "F.8.3.1.2",
+      "title": "Sıvı basıncını etkileyen değişkenleri tahmin eder ve tahminlerini test eder",
+      "processComponents": [
+        "Gazların da sıvılara benzer şekilde basınç uyguladıkları belirtilir. Açık hava basıncı örneklendirilir.",
+        "Matematiksel bağıntılara girilmez.",
+        "Gaz basıncını etkileyen değişkenlere girilmez."
+      ]
+    },
+    {
+      "code": "F.8.3.1.3",
+      "title": "Katı, sıvı ve gazların basınç özelliklerinin günlük yaşam ve teknolojideki uygulamalarına örnekler verir",
+      "processComponents": [
+        "Sıvı basıncı ile ilgili Pascal prensibinin uygulamalarından örnekler verilir.",
+        "Bilimsel bilgi türü olarak ilke ve prensiplere vurgu yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Fiziksel Olaylar",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

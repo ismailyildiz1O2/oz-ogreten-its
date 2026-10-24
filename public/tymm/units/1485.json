@@ -1,0 +1,70 @@
+{
+  "unitId": 1485,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Halk Oyunları Dersi",
+  "title": "1. Tema: Halk Oyunlarına Giriş",
+  "hours": "28",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "HO.1.1",
+      "title": "Halk oyunlarının temel kavramlarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "HO.1.2",
+      "title": "Seçilen halk oyunlarının ortaya çıkış hikâyelerini yorumlayabilme",
+      "processComponents": [
+        "a) Seçilen halk oyunlarının hikâyelerini inceler.",
+        "b) Seçilen halk oyunlarının hikâyelerini bağlamından kopmadan yazılı, görsel veya dijital ürünlere dönüştürür.",
+        "c) Seçilen halk oyunlarının hikâyelerini anlamını değiştirmeden yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "HO.1.3",
+      "title": "Farklı ölçü ve tartım kalıplarına göre ritmik hareket edebilme",
+      "processComponents": [
+        "a) Farklı ölçü ve tartım kalıplarına ilişkin ritmi algılar.",
+        "b) Farklı ölçü ve tartım kalıplarına uygun ritmik hareket eder.",
+        "c) Farklı ölçü ve tartım kalıplarına uygun hareket becerilerini sergiler."
+      ]
+    },
+    {
+      "code": "HO.1.4",
+      "title": "Basit ölçülü ritim kalıplarıyla ritmik hareket edebilme",
+      "processComponents": [
+        "a) Ritmik çalışmalarla basit ölçülü ritim kalıplarını algılar.",
+        "b) Basit ölçülü ritim kalıplarıyla yapılan temel halk oyunları adımlama çalışmalarında ritme uygun hareket eder.",
+        "c) Basit ölçülü ritim kalıpları ve müzik eşliğinde seçilen halk oyunlarını sergiler."
+      ]
+    },
+    {
+      "code": "HO.1.5",
+      "title": "Birleşik ölçülü ritim kalıplarıyla ritmik hareket edebilme",
+      "processComponents": [
+        "a) Ritmik çalışmalarla birleşik ölçülü ritim kalıplarını algılar.",
+        "b) Birleşik ölçülü ritim kalıplarıyla yapılan halk oyunları çalışmalarında ritme uygun hareket eder.",
+        "c) Birleşik ölçülü ritim kalıpları ile seçilen halk oyunlarının adımlamalarını sergiler."
+      ]
+    },
+    {
+      "code": "HO.1.6",
+      "title": "Seçilen halk oyununda ritmik hareket edebilme",
+      "processComponents": [
+        "a) Seçilen halk oyununun ritmini algılar.",
+        "b) Seçilen halk oyununa uygun ritmik hareket eder.",
+        "c) Seçilen halk oyununun hareket becerilerini sergiler."
+      ]
+    }
+  ],
+  "keyConcepts": "ahenk, estetik, ezgi, figür (adım), halk oyunları, hikâye, komut, ölçü, ritim, sahne, sınıflandırma, tavır, temel figürler, temel kavramlar, yöre",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB5. Ritmik Hareket Etme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1485"
+}

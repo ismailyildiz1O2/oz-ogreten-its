@@ -1,0 +1,191 @@
+{
+  "unitId": 432,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+  "hours": "34",
+  "description": "Bu ünitede atomun proton, nötron ve elektrondan oluşan yapısının bilinmesi, saf ve saf olmayan madde temelinde element, bileşik ve karışımların sınıflandırılması, elementlerin sembollerle, moleküler elementlerin ve bileşiklerin formüllerle ifade edilebilmesi, çözünme olayını etkileyen değişkenlerin ve karışımların ayrılmasında kullanılan bazı ayırma tekniklerinin deney yoluyla keşfedilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Maddenin Tanecikli Yapısı",
+      "processComponents": []
+    },
+    {
+      "code": "FB.7.5.1.1",
+      "title": "Atomun yapısını ve yapısındaki temel parçacıkları çözümleyebilme",
+      "processComponents": [
+        "a) Atomu oluşturan temel parçacıkları belirler.",
+        "b) Atomu oluşturan temel parçacıklar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "FB.7.5.1.2",
+      "title": "Geçmişten günümüze atom kavramı ile ilgili bilimsel bilgilerin değişebileceğini sorgulayabilme",
+      "processComponents": [
+        "a) Geçmişten günümüze atomun sürecini açıklar.",
+        "b) Geçmişten günümüze atom ile ilgili sorular sorar (5N1K).",
+        "c) Geçmişten günümüze atom ile ilgili bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FB.7.5.1.3",
+      "title": "Farklı molekül modelleri oluşturabilme",
+      "processComponents": [
+        "a) Aynı veya farklı atomların bir araya gelmesiyle ilgili molekül modeli önerir.",
+        "b) Yeni kanıtlarla modeli yeniler."
+      ]
+    },
+    {
+      "code": "FB.7.5.1.4",
+      "title": "Atomların elektron dizilimlerini yapılandırabilme",
+      "processComponents": [
+        "a) Atomlarda elektronların diziliminde dublet ve oktet kuralına göre mantıksal ilişkileri ortaya koyar.",
+        "b) Atomların kararlı hâlini ve iyonlaşmayı uyumlu bir bütün olarak açıklar. 2. Bölüm: Saf Maddeler"
+      ]
+    },
+    {
+      "code": "FB.7.5.2.1",
+      "title": "Saf maddeleri element ve bileşik olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Saf maddelerin farklı yapıda olduğunu belirler.",
+        "b) Saf maddeleri niteliklerine göre ayrıştırır.",
+        "c) Saf maddeleri element ve bileşik olarak sınıflar.",
+        "ç) Çevresindeki maddeleri element ve bileşik olarak etiketlendirir."
+      ]
+    },
+    {
+      "code": "FB.7.5.2.2",
+      "title": "Periyodik tablodaki ilk 18 elementin isimlerini sembolleriyle ifade edebilme",
+      "processComponents": [
+        "a) Periyodik tablodaki ilk 18 elementin isimlerini ve sembollerini inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) Konu ile ilgili ön öğrenmelerine bağlı olarak uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "FB.7.5.2.3",
+      "title": "Periyodik tabloda grup ve periyotları karşılaştırabilme",
+      "processComponents": [
+        "a) Periyodik tabloda grup ve periyotlara ilişkin özellikleri belirler.",
+        "b) Belirlenen özelliklere ilişkin benzerlikleri listeler.",
+        "c) Belirlenen özelliklere ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "FB.7.5.2.4",
+      "title": "Bileşiklerin isimlerini formülleriyle yapılandırabilme",
+      "processComponents": [
+        "a) Yaygın kullanılan bileşiklerin formüllerini inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) Konu ile ilgili ön öğrenmelerine bağlı olarak uyumlu bir bütün oluşturur. 3. Bölüm: Karışımlar"
+      ]
+    },
+    {
+      "code": "FB.7.5.3.1",
+      "title": "Karışımları homojen ve heterojen olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Karışımların görünümlerinin farklı yapıda olduğunu belirler.",
+        "b) Farklı görünümlerdeki karışımları niteliklerine göre ayrıştırır.",
+        "c) Karışımları homojen ve heterojen olarak gruplandırır.",
+        "ç) Çevresindeki maddeleri homojen ve heterojen karışım olarak etiketler."
+      ]
+    },
+    {
+      "code": "FB.7.5.3.2",
+      "title": "Çözünme hızına etki eden faktörler ile ilgili hipotez oluşturabilme",
+      "processComponents": [
+        "a) Çözünme hızını etkileyen faktörleri tanımlar.",
+        "b) Çözünme hızı ile onu etkileyen faktörler arasındaki neden sonuç ilişkilerini belirler.",
+        "c) Çözünme hızını etkileyen değişkenleri belirler.",
+        "ç) Temas yüzeyi, karıştırma ve sıcaklık değişkenlerini kontrol eder.",
+        "d) Çözünme hızını etkileyen faktörlere ait önermeler sunar. 4. Bölüm: Karışımların Ayrılması"
+      ]
+    },
+    {
+      "code": "FB.7.5.4.1",
+      "title": "Karışımları ayırmak için çeşitli deneyler yapabilme",
+      "processComponents": [
+        "a) Farklı karışımları ayırmak için deney tasarlar.",
+        "b) Deney ile ilgili ölçme ve veri analizi yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "atom (çekirdek, katman, proton, nötron, elektron), atom modelleri bağlamında bilimsel bilginin özelliği, molekül, element ve sembolleri, bileşik ve formülleri, homojen karışım, heterojen karışım, çözelti (çözünen, çözücü), çözünme ve çözünme hızına etki eden faktörler, karışımları ayırma yöntemleri (buharlaştırma, yoğunluk farkı, damıtma)",
+  "support": [
+    "Öğrencilerin atom, molekül, element ve bileşik kavramları arasında tümevarımsal bir bağlantı kurmaları sağlanabilir. Bireysel öğrenmelerine olanak tanıyan animasyon, simülasyon vb. dijital öğrenme araçları kullanılabilir. Elementlerin sembollerinin ve proton sayılarının kolay öğrenilebilmesi için kodlama yöntemi kullanılabilir. Periyodik tablo için analojiler kullanılabilir. Deney aşamaları için ek açıklamalar ve yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "Periyodik tablonun tarihçesini araştırmaları için öğrenciler yönlendirilebilir. Ham petrolün ayrıştırılma metodları ile oluşan ürünleri inceleyip raporlaştırmaları ve afiş olarak sunmaları istenebilir. Elementleri kendi oluşturdukları semboller ile yeniden isimlendirmeleri teşvik edilir. Öğrencilerden kendi periyodik tablolarını oluşturmaları istenebilir. Farklı büyüklüklerdeki tanecikleri ayıran bir düzenek tasarımı oluşturmaları istenebilir. Uzay madenciliğinde ülkelerin hangi elementleri kendilerine hedef olarak seçtiklerine, uzaydan hangi yöntemlerle madenlerin taşınabildiğine ve getirebilecek elementlerin hangi alanlarda nasıl kullanılabileceğine yönelik bir araştırma görevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, tanılayıcı dallanmış ağaç, yapılandırılmış grid, boşluk doldurma, yazılı yoklama, eşleştirme testi, doğru-yanlış testi vb. araçlar kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Geçmişten günümüze atom kavramı ile ilgili bilimsel bilgilerin nasıl değiştiğini gösteren poster, afiş vb. görsel araçlar oluşturmaları istenebilir. Hazırlanan araçları değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Molekül modelleri oluşturma performans görevi verilerek geliştirilen molekül modelleri analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Bu süreçte; sorular üretme, plan yapma, oluşturma, test etme, geliştirme vb. ölçütler dikkate alınıp değerlendirme yapılabilir. Element ve bileşiklerin etiketlemelerini içeren zihin haritaları, anlam çözümleme tabloları hazırlama görevi verilebilir. Hazırlanan ürünleri değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Periyodik tablodaki ilk 18 elementin isimleri ve sembolleri ile ilgili kart eşleştirme oyunu hazırlatılabilir. Kart eşleştirme etkinliğinde sorular ve eşleştirilen yanıtlar, doğru-yanlış testi olarak puanlanıp değerlendirilebilir. Öğrencilerin deney raporları TGA gibi teknikler kullanılarak raporlaştırılabilir. Öğrenci raporları, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.7.5.1.1. Öğrencilere maddenin tanecikli yapıdan oluştuğu hatırlatılır. Öğrencilerden parkta oynadıkları sırada bir avuç kum alarak kumu diğer avucuna dökmeleri hayal ettirilebilir. Kum dökerken kum tanelerini fark etmeleri istenebilir. Park zemininin bu kum tanelerinin bir araya gelmesiyle oluştuğu belirtilir. Aynı şekilde maddelerin de çok küçük taneciklerden oluştuğu sonucuna ulaşmaları beklenir. Öğrencilere ip, kâğıt, kürdan, alüminyum folyo vb. malzemeler dağıtılarak bunları mümkün olan en küçük parçalara ayırmaları istenebilir. Elde edilen en küçük parçanın daha da küçülüp küçülemeyeceği ve elde edilebilecek en küçük parçanın gözle görülüp görülemeyeceği merak ettirilir ( E1.1 ) . Maddelerin, kendilerini oluşturan sayısız parçacıktan meydana geldiği ve bu parçacıklara atom adı verildiği belirtilir ( KB2.16.2 ) . Öğrencilerin atomu oluşturan temel parçacıklarından proton, nötron ve elektronu belirlemeleri sağlanır. Proton ve nötronların atom çekirdeğinde, elektronların ise çekirdeğin çevresindeki boşluklarda yer alan parçacıklar olduğu belirtilir. Proton, nötron ve elektronun yükleri ve kütleleri karşılaştırılarak birbirlerini nasıl etkiledikleri hakkında öğrencilere sorular yöneltilir ( SDB2.1 ) . Bu bağlamdan hareketle atomun kütlesinin neredeyse tamamının çekirdekten oluştuğu belirtilir. Atomun kimliğini belirleyen temel parçacığın proton olduğu ve farklı maddelere ait atomların proton sayılarının farklı olduğu belirtilir. Elektronların katmanlarda bulunduğu fakat elektronların çok hızlı hareket etmesi nedeniyle yerlerinin tespit edilemediği ve bu nedenle elektronların bulunma ihtimalinin fazla olduğu yerlerden bahsedilir ( OB1 ) . Atomun yarıçapını elektronların bulunabildiği son sınırın belirlediği vurgulanır. Bu açıklamalar doğrultusunda öğrencilerin atomu bir bütün olarak düşünmeleri istenebilir. Öğrencilerin, yeni bilgiler karşısında duygularını fark etmeleri sağlanır, düşünceleri ve merak ettikleri sorulur ( SDB3.1 , E3.8 , D11.1 ) . Öğrencilere atomu oluşturan temel parçacıklar ile ilgili dijital içerik, çizim veya modellemeler yaparak aralarındaki ilişkileri belirlemeleri istenir ( OB2 ) . Temel parçacıkların bulundukları yerleri gösteren eğlenceli etkinlikler yaptırılarak atomların boşluklu yapıda olduğunu keşfetmeleri sağlanır ( E2.5 ) . Konu içinde geçen temel kavramlar ve aralarındaki ilişkiler tanılayıcı dallanmış ağaç, yapılandırılmış grid, boşluk doldurma vb. teknikler kullanılarak değerlendirilebilir.",
+    "FB.7.5.1.2. Atom kavramı ile ilgili bilginin ilk olarak ne zaman ortaya çıktığı ve Democritus'tan günümüze nasıl geliştiği öğrencilere belgeseller izletilerek merak uyandırılır. ( E1.1 ) . Öğrencilerin atom ile ilgili 5N1K tekniğine göre sorular sormaları istenir ( E3.8 , SDB2.1 ) . Bu sorular tahtaya ya da defterlerine yazdırılabilir. Geçmişten günümüze kabul gören atom modelleri ile ilgili araştırma yapmaları ve bilgi toplamaları beklenir ( OB1 , SDB1.2 , KB2.6 ) . Dalton, Thomson ve Rutherford'un önerdiği modellere detaylara girilmeden değinmeleri, Bohr'un önerdiği modelde elektronların belirli katmanlarda dolandığına, modern atom teorisinde ise elektronların yerlerini saptamanın mümkün olmadığına ve elektron bulutu kavramından bahsetmeleri beklenir. Öğrencilerden topladıkları bilgiler doğrultusunda poster, afiş vb. performans görevleri hazırlamaları istenir ( OB7 , D3.4 ) . Performans görevi içeriği kim, ne, nasıl, ne zaman başıklıkları altında gruplandırılarak sunulabilir ( SDB3.3 ) . Öğrencilerin poster, afiş tasarımları analitik dereceli puanlama anahtarları ile değerlendirilebilir. Poster, afiş vb. içeriklerin hazırlanma sürecinde görsel sanatlar dersinden faydalanılabilir. Bir atomda yer alan proton, nötron ve elektronların bulundukları yerler üzerinde durularak öğrencilere atomun yapısı ile ilgili rol oynama tekniği yaptırılabilir. Etkinlik sürecinde öğrenciler kendilerini ifade ederken Türkçe dersiyle ilişki kurulabilir. Dijital içerik, çizim veya modellemeler ek uygulamalar olarak kullanılabilir ( OB2 ) . Bu süreçte öğrencilerin hazırlayacakları ürünlerinde özgünlüklerini ve yaratıcılıklarını kararlılıkla kullanmaları istenir ( E3.3 , E3.11 , E1.4 , D12.3 ) . Bilimsel bilgi türlerinden teori hakkında genel bilgi verilir. Teorilerin doğada gerçekleşen olaylara açıklama getirmeye çalıştığı üzerinde durulur. Ayrılıp birleşme tekniği ile öğrenciler gruplara ayrılarak güvenilir genel ağ adresleri, ansiklopediler, bilimsel dergiler, makaleler vb. kaynaklardan bilim tarihine bağlı olarak atom modellerini araştırmaları ve ulaştıkları bilgileri bilgi haritası gibi araçlar kullanarak özetlemeleri istenir ( SDB2.2 ) . Öğrencilerin ulaştıkları atom modellerini modern atom teorisine göre değerlendirerek doğrulamaları beklenir. Öğrencilere atom modellerinin geçmişten günümüze değişkenlik gösterip göstermediği ile ilgili sorular sorularak öğrencilerden bilginin yeni bilimsel bilgiler ışığında zamanla değişkenlik gösterebileceği çıkarımına ulaşmaları beklenir ( SDB1.1 ) .",
+    "FB.7.5.1.3. Maddelerin tanecikli yapısının molekül şeklinde de olabileceği, aynı veya farklı atomların belirli oranlarda bir araya gelerek molekülü oluşturabileceği belirtilir. Atomları modellemede oyun hamuru, pinpon topu vb. malzemeler kullanılarak ( E2.5 ) öğrencilerin aynı ya da farklı cins atomlardan oluşan molekül modelleri önermeleri istenir. Öğrenciler gruplara ayrılabilir ( D3.4 , SDB2.2 ) . Grup içinde öğrencilerden aldıkları görevleri yerine getirmeleri beklenir ( D16.3 ) . Aynı cins atomlar kullanılırken aynı renk ve büyüklükte, farklı cins atomlar için ise farklı renklerde ya da farklı büyüklüklerde malzemeler kullanmaları gerektiği üzerinde durulur ( OB7 ) . Oluşturulacak modellerde öğrencilerin estetik bakış açısıyla yaratıcılıkları ve özgün düşünmeleri sağlanır ( D7.2 , E3.3 , E3.11 ) . Öğrencilerin oluşturduğu modelleri inceleyerek karşılaştırmaları ve geliştirmeleri sağlanır. Geliştirdikleri modelleri dijital sunu vb. yöntemlerle sunmaları istenir. Sunum sırasında öğrencilerin empati kurmaları, arkadaşlarına karşı nazik davranmaları beklenir ( SDB2.1 , OB2 ) . Geliştirilen molekül modelleri ve sunumları analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir.",
+    "FB.7.5.1.4. Öğrencilere elektronların katmanlara dizilimi ile ilgili açık uçlu sorular sorulur. Dublet ve oktet kuralı orbital şemalarına girilmeden verilir. Öğrencilerin atomlarda elektronların dizilimindeki mantıksal ilişkileri ortaya koymaları beklenir. Periyodik tabloda yer alan ilk 18 element atomlarından örnek elektron dizilimleri göstermeleri istenir. Proton sayısı elektron sayısına eşit olan atomların nötr atom olduğuna değinilir. Bir atomun son katmanının alabileceği en fazla elektron ile dolu olması durumunda kararlı yapıda olduğu belirtilir. Son katmanları tam dolu olmayan element atomlarının ise kararlı yapıya geçmek için elektron almaları ya da elektron vermeleri gerektiği belirtilir ( KB2.9 ) . Örneğin son katmanı 5, 6, 7 ile biten atomların genellikle elektron almaya; 1, 2, 3 ile bitenlerin genellikle elektron vermeye yatkın oldukları söylenir. Bir atomun elektron almış ya da vermiş hâline iyon adı verildiği, atomun elektron alması durumunda negatif yüklü, elektron vermesi durumunda pozitif yüklü olduğu belirtilir ( E3.7 ) . Konuyu derinleştirmek için çalışma kâğıtları üzerinde etkinlikler ile öğrencilere performans görevi verilebilir ( SDB1.2 ) . Çalışma kâğıtları analitik dereceli puanlama anahtarları vb. ile değerlendirilir. Öğrencilerden drama vb. etkinlikler içerisinde atomların kararlı hâlini ve iyonlaşmayı uyumlu bir bütün olarak açıklaması istenir ( E2.5 , D3.4 , D4.3 ) . Drama sürecinde öğrenciler kendini ifade ederken Türkçe dersiyle ilişki kurulabilir. Konuyu somutlaştırmak için görsellerden veya dijital içeriklerden faydalanılır ( OB4 , OB2 ) . Katyon ve anyon terimlerine girilmeden iyonların da maddenin tanecikli yapıları arasında olduğu belirtilir. Hesaplamalarda matematik dersiyle ilişki kurulabilir. Değerlendirmede dijital ortamda ya da basılı kaynaklarda eşleştirme testi vb. araçlar kullanılabilir.",
+    "FB.7.5.2.1. Tahtaya saf maddeleri temsil edebilecek çeşitli tanecikli yapı örnekleri çizilerek öğrencilerden bu örnekleri dikkatli bir şekilde incelemeleri istenir ( OB4 ) . Öğrencilerden saf maddelerin aynı veya farklı cins atomlardan meydana geldiğini fark etmeleri beklenir. Bu kısımda görsel zenginlik açısından etkileşimli tahta yardımıyla dijital içerikler veya görseller sunulur ( OB2 ) . Öğrencilere molekül modelleri takımı veya kâğıt, misket, oyun hamuru vb. farklı materyallerle çeşitli modeller yaptırılır ( OB7 , E3.3 , E3.11 ) . Saf madde örnekleri vermeleri istenir. Verdikleri örneklerin aynı ve değişmeyen bir özelliğe sahip olup olmadıkları sorulur. Saf maddelerin tek veya farklı cins atomlardan oluştuğunu belirlemeleri beklenir ( SDB1.1 ) . Saf maddelerin de kendi içinde farklı yapıda oldukları belirtilir. Örneğin oksijen, demir, bakır vb. maddelerin yapısında tek cins atom olduğu; su, karbon dioksit vb. maddelerin farklı cins atomlar içerdiği belirtilir. Saf maddeleri aynı ya da farklı cins atom içermelerine göre ayrıştırmaları sağlanır ( E3.7 ) . Aynı ve farklı cins atom içeren maddeler niteliklerine göre element ve bileşik olarak adlandırılır ( KB2.16.1 ) . Aynı cins atomlardan oluşan saf maddelere element, farklı cins atomlardan oluşan saf maddelere bileşik adı verildiğini belirtmeleri istenir. Çevresindeki oksijen, azot, demir, bakır, su, karbon dioksit, etil alkol vb. saf maddeleri daha önce öğrendikleri nitelikleri göz önünde bulundurarak zihin haritaları, anlam çözümleme tabloları vb. ile element ya da bileşik olarak etiketlemeleri beklenir ( SDB1.2 ) . Hazırlanan zihin haritaları ve anlam çözümleme tabloları vb. çalışmaları değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "FB.7.5.2.2. Elementleri farklı ülkelerdeki bilim insanlarının kendi dillerinde isimlendirmelerinden dolayı ortak dil bakımından problemlerin oluştuğu belirtilir. Öğrencilere bu problemlerin çözümüne ilişkin neler yapılabileceği sorusu yöneltilir ( SDB3.3 , E1.3 , E3.4 , D11.1 ) . Sınıfta öğrencilerin birbirlerinin fikirlerine saygı duymaları beklenir ( D14.1 ) . İsimlendirilirken dil olarak Latincenin seçildiği ve elementlerin ortak sembollerle gösterildiği üzerinde durulur. Öğrencilerden periyodik tablodaki ilk 18 elementin isimlerini ve sembollerini incelemesi sağlanır. Element sembollerinin uluslararası bir kullanım ve standardının olmasının kolaylık sağladığına değinilerek öğrencilerden mantıksal ilişkiyi keşfetmesi beklenir ( E3.6 ) . Semboller oluşturulurken tek harfli ise büyük, birden çok harfli ise ilk harfi büyük diğer harfleri küçük yazıldığı mantığına dayandırıldığından bahsedilir ( E3.7 , OB1 ) . Elementlerin kullanım alanlarına girilmeden, öğrencilerin bir önceki konuda öğrendikleri proton sayısı ile ilişkilendirilerek ilk 18 elementin ve altın, gümüş, bakır, çinko, kurşun, cıva, platin, demir ve iyot elementlerinin isimlerini ve sembollerini uyumlu bir bütün olarak öğrenmeleri beklenir ( D3.1 ) . Bunlarla ilgili kart eşleştirme oyunları, dijital içerikler vb. kullanılır ( OB2 , OB4 ) . Kart eşleştirme etkinliğinde sorular ve eşleştirilen yanıtlar, doğru-yanlış testi olarak puanlanıp değerlendirilebilir.",
+    "FB.7.5.2.3. Öğrencilere kitaplarını raflara yerleştirirken belirli ölçütleri dikkate alıp almadıkları ve düzen açısından belirli ölçütlerin olmasının nasıl bir fayda sağlayacağı sorulabilir ( SDB2.1 , E3.10 ) . Öğrencilerin düşüncelerini özgürce ve kendine güvenerek ifade etmeleri ve arkadaşlarını nezaketle dinlemeleri beklenir ( E1.2 , E1.5 , D11.3 , D14.1 ) . Verilen cevaplar değerlendirilir. Elementleri de bir arada görebileceğimiz, belirli ölçütleri bulunan bir sistemin olduğundan bahsedilir. Bu süreçte kütüphanede de yerleştirilen kitap düzeni ile periyodik tablodaki elementlerin yerleştirilmesi arasında benzerlik kurulabilir. Etkileşimli tahtadan veya sınıf duvarına asılabilecek afiş üzerinden periyodik tabloyu öğrencilerin incelemeleri istenir ( OB4 ) . Periyodik tablo oluşturulurken elementlerin hangi özelliklerine bakılabileceği sorulur. Periyodik tablonun özellikleri verilirken geçmişte sadece artan atom kütlelerine göre oluşturulduğu, günümüzde ise artan atom numarasına/proton sayısına göre dizildiği belirtilir. Periyodik tablodaki sütunlara grup, satırlara da periyot adı verildiği söylenerek elementlerin sınıflandırılmasına girilmeden özellikleri belirtilir. Öğrencilerden periyodik tablodaki ilk 18 elementin katman sayısını periyot numarası ile son katmandaki elektron sayısını grup numarası ile ilişkilendirmeleri istenir. Helyum elementinin istisna oluşturduğuna değinilir ( E3.7 , OB1 ) . Periyodik tabloda elementlerin atom numaraları değiştikçe periyot veya grup numaralarının da farklılaştığını keşfetmeleri beklenir. Bugün bilinen elementleri tanımlamak için periyodik tabloda 7 periyot olduğu, grupların özel isimlerine değinilmeden 8 tane A ve 10 tane B grubu olduğu belirtilir ( OB7 ) . Süreci değerlendirmek için tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir.",
+    "FB.7.5.2.4. Öğrencilere farklı cins elementlerin bir araya gelerek bileşikleri oluşturabildiği hatırlatılır. Elementlerin sembollerle gösterilmesinden yola çıkılarak bileşiklerin nasıl gösterilebileceğine dair sorular yöneltilir ( SDB2.1 , SDB3.1 , E3.4 ) . Bileşiklerin de elementler gibi uluslararası bilim dünyasında kullanılabilecek ortak dile ihtiyacı olduğu dile getirilir ( E3.7 ) . Yaygın bileşik formülleri inceletilerek öğrencilerden mantıksal ilişkileri fark etmeleri istenir ( E3.6 ) . Ayrıca molekül yapılı elementlerin de formülle gösterildiğinden bahsedilir. Bileşiklerin içerisindeki elementlerin sembollerinin kullanıldığı belirtilerek öğrencilerden formülleri yapılandırmaları beklenir ( OB1 ) . Örnekleri somutlaştırmak adına kart eşleştirme oyunları, çalışma kâğıtları, dijital içerikler vb. kullanılarak farklı modellerdeki atomların çeşitleri ve sayıları ile bileşik formülünün bir bütün oluşturduğunu keşfetmeleri sağlanır ( OB2 , OB4 ) . Kullanım alanlarına girilmeden yaygın bileşiklere sadece su, sodyum klorür, karbon dioksit, karbonmonoksit, amonyak, kükürt dioksit, hidrojen klorür, sülfürik asit, sodyum hidroksit ve glikoz örnek olarak verilir. Sürece ilişkin değerlendirmede çalışma kâğıtları vb. araçlar kullanılabilir.",
+    "FB.7.5.3.1. Öğrencilerin karışım kavramı ile ilgili ön öğrenmelerini açığa çıkarmak için açık uçlu sorular sorulabilir ( SDB2.1 , E1.1 ) . Saf maddelerin özellikleri hatırlatılarak saf olmayan maddelerin özelliklerini nitelemeleri istenir ( SDB3.1 ) . Bileşiklerle karışımların birbirinden farklı özellikte olduğuna değinilir. Karışımı oluşturan maddelerin belirli oranlarının ve formüllerinin olmadığı, belirli erime ve kaynama noktalarının bulunmadığı ve karışımı oluşturan maddelerin özelliklerini koruduğu vurgulanır. Sınıf ortamında şeker-su, tuzsu, kum-su, zeytinyağı-su vb. karışımları oluşturmaları sağlanır. Karışımların her yerinde aynı özelliği gösterme durumuna göre yapılarının farklı olduğunu belirlemeleri sağlanır ( E3.6 ) . Örneğin şekerin suda çözünerek her yerinde aynı özelliği gösterdiği, kumun suda çözünmeyip her yerinde aynı özelliği göstermediği sonucuna ulaşmaları beklenir ( KB2.2 ) . Şeker-su, tuz-su vb. karışımları homojen; kum-su, zeytinyağı-su vb. karışımları ise heterojen olarak gruplandırmaları istenir. Homojen karışımların özel adının çözelti olduğu, çözücü ve çözünenden oluştuğu belirtilir ( E3.7 , OB1 ) . Bazı maddelerin suya atıldığında iyonlarına ayrışabildiği belirtilerek suya tuz atılması durumunda sodyum ve klor iyonlarına ayrıştığı örnek olarak verilebilir. Öğrenciler gruplara ayrılarak çevresindeki sıvı-katı, sıvıgaz, sıvı-sıvı, katı-katı, katı-gaz ve gaz-gaz karışımlara örnekler vermeleri ve homojen yada heterojen karışım olarak anlam çözümleme tablolarında etiketlendirmeleri istenir ( SDB2.2 ) . Hazırlanan anlam çözümleme tablolarını değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Bunlarla ilgili kartlı eşleştirme oyunları, görsel modeller, çalışma kâğıtları, dijital içerikler vb. değerlendirmeler için kullanılır ( OB2 , OB4 , E2.5 ) .",
+    "FB.7.5.3.2. Çözeltiler ile ilgili örnekler vermeleri istenerek öğrencilere çözünme süresi ile ilgili açık uçlu sorular sorulabilir ( SDB2.1 ) . Çözelti oluştururken çözünme süresinin değişiklik gösterebileceği belirtilir. Çayda şekerin çözünmesi vb. örnek olaylar üzerinden konuyu tartışmaları sağlanır. Öğrencilerden çözünme hızının nelere bağlı değiştiğini tanımlamaları istenir ( E3.4 ) . Öğrencilerin verdikleri cevaplarda öncül ve ardıl etkiler üzerinden nedensonuç ilişkisini gerekçelendirmeleri beklenir ( SDB3.3 ) . Belirlenen neden-sonuç ilişkileri üzerinden bağımlı ve bağımsız değişkenleri belirlemeleri istenir. Öğrenciler gruplara ayrılarak bağımsız değişkenin temas yüzeyi, karıştırma ve suyun sıcaklığı olduğu düzenekler ayrı ayrı hazırlatılır ( SDB2.2 , D4.1 ) . Bağımlı değişkenin çözünme hızı olduğu vurgulanır. Hazırladıkları şeker-su çözeltisinde şekerin çözünme hızının bağlı olduğu değişkenleri tahmin etmeleri istenebilir. Çözünen maddenin tanecik boyutu, karıştırma işlemi, suyun sıcaklığı gibi bağımsız değişkenleri değiştirerek bağımlı değişken üzerindeki etkisine ilişkin denemeler yapmaları sağlanır ( SDB1.1 , E3.7 ) . Kontrol edilen değişkenlere dikkat edilmesi gerektiği vurgulanarak deney düzeneklerindeki çözünme hızlarına ilişkin gözlemler yaptırılır. Bağımsız değişkene göre çözünme hızının değiştiği belirtilir ( OB7 ) . Yapılan deneylere bağlı olarak gruplardan çözünme hızına etki eden faktörler ile ilgili kurdukları önermeleri sunmaları istenir ( OB7 ) . Öğrencilerden TGA gibi teknikler kullanarak verileri raporlaştırmaları istenebilir. Öğrenci raporları analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Deney sonunda akran değerlendirme formu kullanılabilir. Öğrencilerden deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Konuyu derinlemesine düşünmelerini sağlamak için açık uçlu sorularla desteklenmiş çalışma kâğıtları kullanılabilir ( SDB3.3 ) . Konuyu somutlaştırmak için dijital içeriklerden faydalanılabilir ( OB2 ) .",
+    "FB.7.5.4.1. Öğrencilere günlük hayattan örnekler verilerek karışımların ayrılıp ayrılamayacağı ile ilgili açık uçlu sorular yöneltilebilir. Karışımları ayırmak için hangi fiziksel yöntemlerin kullanılabileceği ile ilgili beyin fırtınası tekniği yaptırılabilir ( E3.4 , SDB2.1 ) . Karışımları bileşenlerine ayırmak için karışımı oluşturan maddelerin tanecik boyutları, çözünürlükleri, yoğunlukları, erime ve kaynama noktaları vb. özelliklerinin farklarından yararlanabilecekleri vurgulanır. Karışımları oluşturan maddeleri bileşenlerine ayrıştırabilmek için buharlaştırma, yoğunluk farkından yararlanma, damıtma vb. fiziksel ayrıştırma yöntemleri kullanabilmeleri için öğrenciler iş birlikli öğrenme gruplarına ayrılabilir ( E3.6 , D3.4 , D4.1 , SDB2.2 ) . Kâğıtlara; kum-su, tuz-su, zeytinyağı-su, etil alkol-su, kepek-un, odun talaşı-su vb. karışımlar yazılarak gruplardan bu kâğıtlardan birini çekmeleri istenebilir. Grupların çektikleri kâğıttaki karışıma göre uygun yöntemi seçmeleri konusunda hipotez kurmaları ve kurdukları hipoteze göre deney düzeneği oluşturmaları beklenir ( E3.3 , E3.11 ) . Öğrencilerden seçtikleri karışımı oluşturan maddeleri yazmaları istenebilir. Deney sonunda bu maddeleri elde edip etmediklerini değerlendirmeleri sağlanır. Kullandıkları ayırma yönteminin doğru olup olmadığı test ettirilir ( OB7 , SDB1.2 ) . Karışımı oluşturan maddelere ulaşamazlarsa yeni bir yöntem kullanmaları istenir ( SDB3.1 ) . Öğrencilerin TGA vb. teknikler kullanarak verileri raporlaştırmaları istenebilir. Öğrenci raporları, analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. İlaç sektöründe kullanılan damıtma imbiği ve bugün kullanılan deney tüplerinin Cabir bin Hayyan'ın eseri olduğu vurgulanır.Laboratuvarlarda kullanılan araç gereçlerin birçoğunun mucidi olan bilim insanının ilk kimya laboratuvarını oluşturduğu açıklanır ( D19.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D11.1",
+      "D11.3",
+      "D12.3",
+      "D14.1",
+      "D16.3",
+      "D18.2",
+      "D19.2",
+      "D3.1",
+      "D3.4",
+      "D4.1",
+      "D4.3",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E1.3",
+      "E1.4",
+      "E1.5",
+      "E2.5",
+      "E3.10",
+      "E3.11",
+      "E3.3",
+      "E3.4",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.16.1",
+      "KB2.16.2",
+      "KB2.2",
+      "KB2.6",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/432"
+}

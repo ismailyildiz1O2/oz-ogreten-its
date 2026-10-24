@@ -1,0 +1,143 @@
+{
+  "unitId": 412,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+  "hours": "22",
+  "description": "Bu ünitede ışığın yansımasını gözlemleme, düzgün ve pürüzlü yüzeylerden ışığın yansımasını sınıflandırma, ışığın yansımasında gelen ışın, yansıyan ışın, yüzey normali, gelme ve yansıma açısı arasındaki ilişkinin açıklanması amaçlanmaktadır. Bununla beraber, ayna çeşitlerinin gözlemlenerek görüntü özelliklerinin karşılaştırılması, düz, çukur ve tümsek aynanın kullanım alanlarına günlük yaşamdan örneklerin verilmesi, ışığın cisimler tarafından soğurulmasının açıklanması, gözlemler sonucunda beyaz ışığı oluşturan renklerin neler olduğu çıkarımının yapılması, cisimlerin farklı renkte görülebilmesi için ışığın yansıma ve soğurulma olaylarının açıklanması, günümüzde ve gelecekte güneş enerjisinden yararlanma yolları hakkında yorum yapılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Işığın Yansıması",
+      "processComponents": []
+    },
+    {
+      "code": "FB.6.4.1.1",
+      "title": "Işığın farklı yüzeylerdeki yansıma olaylarına ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Işığın farklı yüzeylerdeki yansıma olaylarının niteliklerini tanımlar.",
+        "b) şığın farklı yüzeylerdeki yansıma olayları ile ilgili topladığı verileri kaydeder.",
+        "c) Işığın farklı yüzeylerdeki yansımasını düzgün ve dağınık yansıma olarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.6.4.1.2",
+      "title": "Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişkiyi kanıt kullanarak açıklayabilme",
+      "processComponents": [
+        "a) Işığın yansımasına ilişkin deneysel verileri kaydeder.",
+        "b) Işığın yansımasına ilişkin veri setleri oluşturur.",
+        "c) Işığın yansımasına dair topladığı verilere dayalı açıklama yapar. 2. Bölüm: Aynalar"
+      ]
+    },
+    {
+      "code": "FB.6.4.2.1",
+      "title": "Günlük hayattaki ayna çeşitlerine ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Ayna çeşitlerinin niteliklerini deneyerek tanımlar.",
+        "b) Ayna çeşitlerini kullanarak özelliklerine yönelik topladığı verileri kaydeder.",
+        "c) Günlük yaşamdaki aynaları düz, çukur ve tümsek ayna olarak özelliklerine göre değerlendirir. 3. Bölüm: Işığın Soğurulması"
+      ]
+    },
+    {
+      "code": "FB.6.4.3.1",
+      "title": "Işığın madde ile etkileşimi sonucunda soğurulabileceğini gözlemleyebilme",
+      "processComponents": [
+        "a) Işığın madde ile etkileşimine yönelik nitelikleri tanımlar.",
+        "b) Işığın madde ile etkileşimine yönelik topladığı verileri kaydeder.",
+        "c) Işığın madde tarafından soğurulabileceğini elde ettiği veriler doğrultusunda açıklar."
+      ]
+    },
+    {
+      "code": "FB.6.4.3.2",
+      "title": "Beyaz ışığın tüm ışık renklerinin bileşiminden oluştuğuna ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Beyaz ışığı oluşturan nitelikleri tanımlar.",
+        "b) Beyaz ışığın oluşumuna ilişkin topladığı verileri kaydeder.",
+        "c) Beyaz ışığın oluşumuna dair verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.6.4.3.3",
+      "title": "Cisimlerin siyah, beyaz ve renkli görünmesinin nedenini gözlem verileriyle açıklayabilme",
+      "processComponents": [
+        "a) Cisimlerin siyah, beyaz ve renkli görünmesine yönelik nitelikleri tanımlar.",
+        "b) Cisimlerin siyah, beyaz ve renkli görünmesine yönelik verileri kaydeder.",
+        "c) Cisimlerin siyah, beyaz ve renkli görünmesine yönelik verileri açıklar."
+      ]
+    },
+    {
+      "code": "FB.6.4.3.4",
+      "title": "Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme",
+      "processComponents": [
+        "a) Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına ilişkin fikirleri sorgular.",
+        "b) Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına ilişkin akıl yürütür.",
+        "c) Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına ilişkin ulaştığı çıkarımları yansıtır."
+      ]
+    }
+  ],
+  "keyConcepts": "yansıma, gelen ışın, yansıyan ışın, yüzey normali, gelme açısı, yansıma açısı, düz ayna, çukur ayna, tümsek ayna, soğurma, cisimlerin siyah, beyaz ve renkli görünmesi",
+  "support": [
+    "Öğrencilerin bireysel ilerlemelerine olanak tanıyan animasyon, simülasyon gibi dijital öğrenme araçları kullanılabilir.",
+    "İçerikte anlamayı kolaylaştırmak için görsel ipuçları kullanılabilir.",
+    "Günlük yaşamdan kolay ulaşılabilir çeşitli malzemelerle öğrencilerin ek etkinlikler yapmaları sağlanarak konu somutlaştırılabilir.",
+    "Performans görevinde yönergelere ait basamaklar ayrıntılı açıklanarak anlaşılırlığı sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden ışığın yansımasında teknolojik gelişmeleri fiber optik kablo vb. araştırılmasıistenebilir.",
+    "Öğrencilerden güneş fırını tasarlamaları istenebilir.",
+    "Fotoğrafçıların kullandıkları spot lambaların monte edildiği çanağın parlak ve pürüzlüyapılmasının sebebine ilişkin araştırma görevi verilebilir.",
+    "Öğrencilerden periskop modeli tasarlamaları istenebilir. Kahkaha aynalarının nasıl yapıldığına dair araştırma görevi verilebilir.",
+    "Yakıt tanklarının beyaz, kar yağışının fazla olduğu yerlerde yol çizgilerinin sarı, araçlarda kedigözlerinin de sarı ve uzun olmasının nedeninin araştırılması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktının değerlendirilmesinde çalışma kâğıdı, yapılandırılmış grid, kontrol listesi, doğru-yanlış testleri ve açık uçlu sorular, tanılayıcı dallanmış ağaç, eşleştirme, dereceli puanlama anahtarı ve performans görevi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Güneş enerjisinin gelecekte kullanımına ilişkin fikir üretmeleri ve sunmalarını içeren performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sonuç değerlendirmede öğrenme çıktıları; çalışma kâğıdı, doğru-yanlış ve eşleştirme testleri, kısa cevaplı testler, açık uçlu sorular, yazılı yoklamalar vb. ile de değerlendirilebilir.",
+    "Ayrıca süreçte kullanılan performans ürünleri sonuç değerlendirmeye dâhil edilebilir."
+  ],
+  "teachingApplications": [
+    "FB.6.4.1.1 \"Ay bir ışık kaynağı mıdır?\" vb. sorular ile tartışma ortamı yaratılarak yansıma kavramına dikkat çekilir ( KB2.18 , SDB2.1 ) . Sınıfa getirilen düzgün ve buruşturulmuş alüminyum folyo öğrencilere verilir ve folyoda oluşan görüntülerini gözlemleyerek ifade etmeleri beklenir ( OB1 , E1.2 ) . Gözlemleri sonucunda öğrencilerden ışığın farklı yüzeylerdeki yansıma niteliğini tanımlamaları istenir ( KB2.2 ) . Gruplara ayrılan öğrencilerin grup içinde görev bilinciyle yardımlaşmaları istenir ( D16.3 , D20.2 ) . Öğrencilerin grup içinde birbirleriyle uyumlu bir şekilde davranmaları sağlanır ( D10.3 ) . Öğrencilerden, düzgün ve buruşturulmuş alüminyum folyoya ışık tutulduğunda izlediği yolu gözlemleyerek veri toplamaları istenir ( OB7 , KB2.6 ) . Öğrencilerin topladıkları verileri değerlendirerek ışığın farklı yüzeylerde düzgün ve dağınık şekilde yansıdığı çıkarımını yapmaları beklenir ( KB2.10 ) . Düzgün ve dağınık yansıma konusu işlenirken özel ışınlarla görüntü çizimine ve matematiksel bağıntılara girilmez. Işığın yansıması konusu bağlamında ışığın madde üzerindeki etkisini anlamlandırmak için öğrencilere fotoğraf sanatında ışığın kullanımına verilen önem anlatılabilir ya da örnek sanatsal fotoğraf çekimleri gösterilir ( OB9 ) . Sürece ilişkin değerlendirmede TGA, yapılandırılmış grid vb. kullanılabilir.",
+    "FB.6.4.1.2 Öğrenciler gruplara ayrılarak her gruba ışık kaynağı ve ayna verilir. Işık kaynağından çıkan ışınların aynadan yansıdıktan sonra izledikleri yolu gözlemleyerek elde ettikleri veriler doğrultusunda çizmeleri istenir ( D16.3 , OB7 , KB2.2 ) . Oluşturulan çizimler sınıfla paylaşılarak çizimlerin ortak ve farklı yönleri tartışmaya açılır ( SDB2.1 , SDB2.2 , KB2.14 ) . Öğrenci gruplarının aynaya gönderilen ışığın açısını değiştirerek gelme açısı, yansıma açısı değişimini tabloya kaydetmeleri ve arkadaşlarıyla karşılaştırarak paylaşımda bulunmaları sağlanır ( OB7 , OB1 , SDB2.1 , KB2.10 ) . Elde ettikleri veriler sonucunda gelen ışın, yansıyan ışın, yüzey normali, gelme ve yansıma açıları arasındaki ilişkiyi açıklamaları beklenir ( OB1 , KB2.10 ) . Aynalarda özel ışınlarla görüntü çizimine ve matematiksel bağıntılara girilmez. Gözlem süreci kontrol listesiyle değerlendirilebilir. Tüm sürece ilişkin değerlendirmede çalışma kâğıdı kullanılabilir.",
+    "FB.6.4.2.1 Sınıfa çeşitli aynalar getirilerek öğrenciler gruplara ayrılır ve grup içinde yardımlaşmaları istenir ( D20.1 , SDB2.2 ) . Her gruba üç ayna çeşidi de verilerek aynalardaki görüntülerini gözlemlemeleri ve gözlem sonuçlarını kaydetmeleri istenir ( OB1 , OB7 , KB2.6 ) . Gözlem sonuçlarını grup içerisinde tartışmaları istenir ( SDB2.1 , KB2.18 ) . Daha sonra öğrenciler aynaları kendilerine yaklaştırıp uzaklaştırarak kendi görüntülerinin değişimini gözlemlemeleri ve gözlem verilerini tekrar kaydetmeleri istenir ( D16.3 , OB7 ) . Gözlemleri sonucunda günlük hayatta kullanılan aynaları düz, tümsek ve çukur ayna olarak açıklamaları sağlanır ( OB7 , KB2.10 ) . Düz ve Tümsek aynada görüntü özellikleri belirtilir. Çukur aynada cismin görüntüsünün özelliklerinin (büyük / küçük, ters / düz) cismin aynaya olan uzaklığına göre değişebileceği belirtilir. İbnülheysem'in ışık kaynaklarının yaydığı ışıkların düz ve küresel aynalarda nasıl yansıdıklarını deneysel olarak inceleyen ve yansıma kanununu geometrik yöntemlerle kanıtlayan Türk-İslam bilim insanlarından olduğu bilgisi öğrencilerle paylaşılır ( D19.2 ) . Değerlendirmede tanılayıcı dallanmış ağaç vb. ölçme araçları kullanılabilir.",
+    "FB.6.4.3.1 \"Yaz aylarında açık renkli kıyafetler tercih edilmesinin nedeni ne olabilir? vb. sorular ile ışığın soğurulması bağlamında sınıf içinde tartışılır ( SDB2.1 , KB2.18 ) . Tartışma sonucunda öğrencilerden ışığın soğurulmasına yönelik nitelikleri tanımlamaları istenir ( KB2.10 ) . Öğrenciler gruplara ayrılarak ve grup içi görev paylaşımı yapılarak sorumluluk bilinciyle çalışmaları beklenir ( SDB2.1 , SDB2.2 , E2.2 ) . Her grubun bu konu ile ilgili yaptırılacak etkinlik sonucunda sıcaklık değişimlerini tabloya kaydetmeleri istenir ( KB2.6 ) . Öğrencilerden topladıkları verileri değerlendirerek ışığın madde tarafından soğurulabileceği çıkarımını yapmaları beklenir ( OB1 , OB7 , KB2.10 ) . Değerlendirmede eşleştirme, doğru-yanlış, açık uçlu sorular vb. kullanılabilir.",
+    "FB.6.4.3.2 \"Çevrenizde bulunan cisimleri renkli görmenizin nedeni sizce ne olabilir?\" vb. sorular ile beyaz ışığın tüm ışık renklerinden oluşumu bağlamında sınıf içinde tartışılır ( SDB2.1 , KB2.18 ) . Günlük hayatta karşılaşılan benzer durumlardan verilen örnekler ile öğrencilerden beyaz ışığı oluşturan nitelikleri tanımlamaları beklenir ( KB2.10 ) . Öğrenciler gruplara ayrılarak Newton çarkı yapmaları istenir. Newton çarkını döndürerek gözlemlerini kaydetmeleri istenir ( OB7 , KB2.2 ) . Topladıkları verileri değerlendirerek beyaz ışığın tüm ışık renklerinin bileşiminden oluştuğu çıkarımını yapmaları beklenir ( KB2.10 ) . Işık spektrumuna ve ışık filtrelerine girilmeden ışığın ana ve ara renklerinden bahsedilir. Değerlendirmede eşleştirme, doğru-yanlış, açık uçlu soru vb. ölçme araçları kullanılabilir.",
+    "FB.6.4.3.3. \"Bazı zamanlarda satın aldığınız giysinin renginin evde mağazadakinden farklı olduğunu görebilirsiniz. Sizce bu durumun nedeni nedir?\" vb sorular ile tartışma sağlanır ( E1.1 , SDB2.1 , KB2.18 ) . Sınıfa getirilen beyaz renkli bir cisim Güneş ışığı ve kırmızı ışık altında gözlemleyerek cismin rengini ifade etmeleri beklenir ( OB1 , E1.2 ) . Gözlemleri sonucunda öğrencilerden cisimlerin siyah, beyaz ve renkli görünmesine yönelik nitelikleri tanımlamaları istenir. Ali Kuşçu ve İbnülheysem'in yaklaşımlarını ele alarak renk ile ışık ilişkisini yorumlayan ve cisimlerin renkli görülmesini açıklayan Türk-İslam bilim insanlarından olduğu bilgisi öğrencilerle paylaşılır ( D19.2 ) . Öğrenciler gruplara ayrılır. Öğrencilerden grup içi görev paylaşımı yaparak sorumluluk bilinciyle çalışmaları beklenir ( SDB2.1 , SDB2.2 , E2.2 ) . Öğrencilerden farklı renklerdeki cisimlere farklı renkte ışık tutmaları istenir. Renk filtrelerine girilmeden cisimlerin beyaz ışık ve renkli ışık altında hangi renkte gördüğünü gözlemleyerek tabloda kaydetmeleri istenir ( OB7 , KB2.6 ) . Topladıkları verileri değerlendirerek cisimlerin siyah, beyaz ve renkli görünmesinin nedenini ışığın yansıması ve soğurulmasıyla ilişkilendirerek açıklamaları beklenir ( KB2.10 ) . Tüm süreç değerlendirmesinde TGA, eşleştirme vb. ölçme araçları kullanılabilir.",
+    "FB.6.4.3.4 \"Kışın güneşli günlerde evinizin güneş ışığı alan odalarının güneş ışığı almayan diğer odalara göre daha sıcak olduğunu fark etmişsinizdir. Evin güneş ışığı alan odalarının almayan odalara göre daha sıcak olmasının nedeni nedir?\" vb sorular sorular ile sınıfta tartışma ortamı sağlanır ( SDB2.1 ) . Daha sonra öğrencilerden günlük yaşamda güneş enerjisinin kullanıldığı alanlara örnekler vermeleri istenir ( OB1 ) . Performans görevi olarak güneş enerjisinin gelecekte kullanımına ilişkin fikir üretmeleri ve sunmaları istenebilir. Güneş enerjisi kullanımının yaygınlaşmasının insanlara ve doğaya sağladığı faydaları sorgulamaları istenir ( OB8 , D5.2 , KB2.14 ) . Gelecekte güneş enerjisinden nasıl yararlanabileceğine ilişkin özgün fikir üretmeleri sağlanır. Öğrencilerden güneş enerjisinden gelecekte nasıl faydalanılabileceğine dair ürettiği özgün fikirleri arkadaşlarına sunmaları istenir ( SDB3.3 ) . Bu ortamın olumlu iletişim ve saygı çerçevesinde yürütülmesi sağlanır ( SDB2.1 , D14.1 ) . Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Süreci değerlendirmek için tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D14.1",
+      "D16.3",
+      "D19.2",
+      "D20.1",
+      "D20.2",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.14",
+      "KB2.18",
+      "KB2.2",
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB7",
+      "OB8",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/412"
+}

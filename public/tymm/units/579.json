@@ -1,0 +1,70 @@
+{
+  "unitId": 579,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "1. TEMA: SANATA BAKIŞ",
+  "hours": "4",
+  "description": "Temada sanatın yaşam ve kültür ilişkisi ile ilgili sanatsal ürün tasarlanabilmesi, görsel sanatlar ile ilgili mesleklerin karşılaştırılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.12.1.1",
+      "title": "Millî kültürümüzü yansıtan yapı ve eserler ile ilgili sanatsal ürün tasarlayabilme",
+      "processComponents": [
+        "a) Millî kültürümüzü yansıtan yapı ve eserleri inceler.",
+        "b) Millî kültürümüzü yansıtan yapı ve eserler bağlamında oluşturduğu imgeleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.12.1.2",
+      "title": "Görsel sanatlarla ilgili meslekleri karşılaştırabilme",
+      "processComponents": [
+        "a) Görsel sanatlarla ilgili mesleklerin genel özelliklerini belirler.",
+        "b) Görsel sanatlarla ilgili mesleklerin benzerliklerini listeler.",
+        "c) Görsel sanatlarla ilgili mesleklerin farklılıklarını listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "animatör, desinatör, endüstriyel tasarımcı, illüstratör, seramik sanatçısı, tekstil tasarımcısı",
+  "support": [
+    "Öğrencilerden kendi kültürünü temsil eden eserleri inceleyerek bu eserlerde yer alan kültürel ögeleri soru cevap ya da eşleştirme yoluyla tespit etmeleri istenebilir.",
+    "Öğrencilerden görsel sanatlarla ilgili meslekler hakkındaki eşleştirme kartları ile görsel ve metin ilişkilendirmeleri yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden seçtikleri farklı bir kültürün geleneksel el sanatlarını, yemeklerini ve kıyafetlerini araştırarak tanıtıcı bir poster hazırlamaları istenebilir.",
+    "Okul rehberlik servisinin düzenleyeceği meslek tanıtım etkinliğinde yer alması için görsel sanatlarla ilişkili bir meslek hakkında öğrencilerin tanıtım broşürü hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; tanılayıcı dallanmış ağaç, yapılandırılmış grid, dereceli puanlama anahtarı, öz değerlendirme formu, kontrol listesi performans görevi ve dereceleme ölçeği kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden farklı sanat dallarında çalışan kişilerle röportaj yapmaları ve yaptıkları röportajı sunmaları istenebilir. Yapılan çalışmalar dereceleme ölçeği veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.12.1.1. \"Tarihi yapıların ve eserlerin kültürel kimlik açısından önemi nedir?\" sorusu üzerinden yapacakları bir tartışma ile öğrencilerin merak duyguları harekete geçirilir ( SDB2.2 , E1.1 ). Tartışma sonrasında ulaşılan sonuçlar bir araya getirilerek listelenir. Sanal müzelerden ve diğer kaynaklardan milli yapı ve eserleri incelemeleri sağlanarak öğrencilerin kültürel kimliğimizi oluşturan bileşenleri fark etmeleri sağlanır. Öğrencilerden bu yapı ve eserleri incelerken neler hissettiklerini ifade etmeleri istenir. Böylece milli ve manevi değerlerin toplumsal sanat ve kültür hafızamızdaki yerinin ve öneminin anlaşılabilmesi sağlanır. Bu aşamada soru cevap tekniği kullanılabilir.",
+    "Öğrencilerden milli kültürümüze ait yapı ve eserlerle ilgili bilgi ve görselleri içeren kültürel miras kimlik kartları hazırlamaları istenir. Çalışma için Unesco dünya mirası listelerine de geçen Divriği Ulu Camii ve Darüşşifası, Edirne Selimiye Camii ve Külliyesi, Selçuklu Kervansarayları, Birgi Tarihî Kenti, Anadolu Selçuklu Medreseleri, Safranbolu Şehri, Bursa ve Cumalıkızık, Topkapı Sarayı gibi millî kültürümüzü yansıtan yapı ve eserleri içeren bir tablo sunularak öğrencilerden beş eser seçmeleri sağlanır. Öğrencilerden çalışmalarını kolaj, çizim, boyama, dijital tasarım vb. tekniklerden istediklerini kullanarak oluşturmaları istenir ( E3.3 ). Öğrencilerin kültürel miras kimlik kartları hazırlarken seçtikleri yapı ve eserlerle ilgili en önemli özellikleri vurgulamaları sağlanır ( OB5 , D7.1 ). Sonuçların zamanında tamamlanması ve bir sunu şeklinde ifade edilmesi istenir ( D16.3 ). Süreç, dereceli puanlama anahtarı veya öz değerlendirme formu ile değerlendirilebilir.",
+    "GS.12.1.2. Görsel sanatlara ilişkin meslekler [animasyon sanatçısı (animatör), desinatör, endüstriyel tasarımcı, grafik tasarımcı, heykeltıraş, iç mimar, illüstratör, mimar, ressam, seramik sanatçısı, tekstil tasarımcısı] öğrencilere fotoğraflar ya da konu hakkında hazırlanmış bir sunu yoluyla inceletilir ( OB4 ). Öğrencilerin bu mesleklerin çalışma alanları ile ilgili merak ettiklerini sormaları sağlanır ( E3.8 ). Öğrencilerin mesleklere ait özellikleri belirlemeleri sağlanır. Bu aşamada grup tartışması tekniğinden yararlanılabilir ( SDB2.1 ). Meslekleri icra edenlere karşı öğrencilerin empati geliştirmeleri için basit sahneler kurgulanarak drama etkinlikleri yapılır ( E2.1 ).",
+    "Öğrencilerden görsel sanatlara ilişkin mesleklerin benzerliklerini belirlemeleri istenir. Belirlenen özellikler listelenerek panoya asılır. Doğru yanlış tablosu hazırlanarak çıkış noktasına göre öğrencilerin ilgileri olan mesleği anlamaları sağlanabilir. Öğrencilerin bu mesleklerle ilgili merak ettiklerini sormaları sağlanır ( E3.8 ).",
+    "Mesleklerin daha iyi tanınmasına yardımcı olmak amacıyla bu meslekler arasındaki farklılıklar irdelenerek öğrencilerin mesleklerin farklılıklarını listelemeleri sağlanır. Öğrencilere görsel sanatlarla ilişkili meslekleri yapabilmeleri için başvuru yapmaları gereken üniversite bölümleri ve alacakları eğitimin kapsamı ile ilgili örnekler verilebilir. Süreç, tanılayıcı dallanmış ağaç veya yapılandırılmış grid ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden farklı sanat dallarında çalışan kişilerle röportaj yapmaları ve yaptıkları röportajı sunmaları istenebilir. Yapılan çalışmalar dereceleme ölçeği veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E3.3",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/579"
+}

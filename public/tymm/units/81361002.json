@@ -1,0 +1,90 @@
+{
+  "unitId": 81361002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi (Lise)",
+  "title": "2. ÜNİTE: PROJE TASARIMI VE UYGULAMA YÖNTEMİ",
+  "hours": "54",
+  "description": "Bu ünitede öğrenciler, bilimsel çalışma yöntemi ve basamaklarından yararlanarak belirledikleri bir sorunun çözümüne yönelik ürün odaklı bir proje hazırlayabilecektir. Hazırlanan projenin ulusal veya uluslararası düzeyde bir proje yarışmasına katılabilecek nitelikte olması beklenmektedir.",
+  "outcomes": [
+    {
+      "code": "PTU.2.1",
+      "title": "Günlük hayatta gözlemlediği bir sorundan etkilenen paydaşlarla empati kurar",
+      "processComponents": [
+        "Sosyal yaşamda gözlemlenen sorunlardan birinin belirlenmesi sağlanır.",
+        "“Burada dikkati çeken sorun nedir? Bu sorunu yaşayanlar neler hissetmiş olabilir? “Bu sorunun nedenleri nelerdir? Bu sorundan en fazla kimler veya neler etkilenmektedir?” gibi sorulardan hareketle öğrencilerin sorunu yorumlamaları sağlanır.",
+        "Belirlenen sorundan etkilenen kişilerle görüşme yapılması sağlanır.",
+        "Görüşmeler sonucunda elde edilen veriler sentezlenerek sorunu yaşayanların söyledikleri, düşündükleri, yaptıkları ve hissettiklerini içeren bir empati haritası hazırlatılır.",
+        "Öğrencilerin çalışmalar sırasında deneyimlerini, duygusal yaşantılarını içeren ve karşılaşılan güçlükler, işe yarayanlar, geliştirilmesi gerekenler vb. başlıklardan oluşan yansıtma formu üzerinden empati sürecini değerlendirmeleri sağlanır.",
+        "Yaşanılan bir sorundan etkilenen insanlara ve diğer canlılara yardım etmenin ve daha iyi bir dünya için çabalamanın önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "PTU.2.2",
+      "title": "Belirlediği soruna yenilikçi çözümler geliştirmeye yönelik çalışma problemini tanımlar",
+      "processComponents": [
+        "Empati aşamasındaki çalışmalarından yararlanılarak çözülmek istenen temel sorunu ve buna neden olan alt sorunları gösteren “Sorunlar Tablosu” hazırlatılır.",
+        "“Toplumsal fayda, özgünlük, yaratıcılık, yenilikçilik ve yapılabilirlik” ölçütleri üzerinden sorunlar tablosundan en uygunu belirlenir.",
+        "Sorunlar tablosunda seçilen bir sorun hakkında öğrenme ihtiyacına yönelik araştırma yöntem ve teknikleriyle bilgi toplanılır.",
+        "Ulaşılan bilgilerden hareketle araştırılan sorunun problem cümlesi olarak ifade edilmesi sağlanır.",
+        "Bir sorundan etkilen kişilerle empati kurmanın ve başkalarının ihtiyaç ve beklentilerine karşı duyarlı olmanın önemine değinilir."
+      ]
+    },
+    {
+      "code": "PTU.2.3",
+      "title": "Tanımladığı probleme yönelik yenilikçi fikirler geliştirir",
+      "processComponents": [
+        "Ülkemizdeki havacılık, uzay ve teknoloji alanlarında yapılan çalışmalar ve yeni gelişmeler üzerinde durulur.",
+        "Belirlenen probleme yönelik fikir havuzunun oluşturulması sağlanır.",
+        "Görsel beyin fırtınası tekniğini kullanarak birbirinden farklı en az beş yenilikçi çözüm üretilmesi sağlanır.",
+        "Öğrencilerin yenilikçi çözüm önerilerini görsel veya fiziksel olarak ortaya koymaları sağlanır.",
+        "Öğrencilerin yenilikçi çözüm önerilerini paylaşarak geri bildirim almaları sağlanır.",
+        "Estetik, sürdürülebilirlik, güvenirlik, organize edilebilirlik, yönetilebilirlik, yaygınlaştırılabilirlik, işlevsellik ve etik ölçütlerine göre en uygun çözümün belirlenmesi sağlanır.",
+        "Bir soruna yönelik yenilikçi fikirler geliştirmeye ve çalışmalar yapmaya istekli olmanın vatan sevgisinin bir yansıması olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "PTU.2.4",
+      "title": "Geliştirilen yenilikçi çözüm fikrine yönelik model tasarlar",
+      "processComponents": [
+        "Model geliştirme ölçütlerinin (yönetilebilirlik, toplumsal fayda, organize edilebilirlik, performans, güvenlik, sağlamlık, ekonomiklik, ergonomiklik, estetik görünüm vb.) araştırılması sağlanır.",
+        "Belirlenen model için gerekli olan malzemelerin ve diğer unsurların maliyet analizinin nasıl yapılacağı hakkında bilgi verilir.",
+        "Yenilikçi çözüm fikrine yönelik gerekli olan malzemelerin ve diğer unsurların maliyet analizi yapılarak ilk model tasarlanır.",
+        "Bir proje tasarım sürecinde kendisine ve başkalarına karşı üstlendiği görevleri yerine getirmenin önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "PTU.2.5",
+      "title": "Geliştirdiği modeli test eder",
+      "processComponents": [
+        "“Prototipte geliştirilebileceğini düşündüğünüz hususlar nelerdir? Bu ürünün çözümüne yönelik farklı fikirleriniz varsa bizimle paylaşır mısınız?” gibi sorulardan hareketle kullanıcılardan model hakkında geri bildirim alınması ve geri dönütler doğrultusunda modelin geliştirilmesi sağlanır.",
+        "“Yönetilebilirlik, toplumsal fayda, organize edilebilirlik, performans, güvenlik, sağlamlık, ekonomiklik, ergonomiklik, estetik görünüm” gibi ölçütleri içeren avantaj ve dezavantaj tablosu üzerinden modelin değerlendirilmesi yaptırılır.",
+        "Bir proje tasarım sürecinde bireyin karar ve davranışlarının kendisi ile başkaları üzerindeki etkisini değerlendirebilmenin önemi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "PTU.2.6",
+      "title": "Geliştirdiği projenin (modelin) yaygınlaştırma süreçlerini planlar",
+      "processComponents": [
+        "Öğrencilerin proje tanıtımı ve pazarlamasına yönelik stratejiler geliştirmeleri sağlanır.",
+        "Öğrencilerin geliştirilen modeli tanıtmaları (ürüne isim bulma, akış şeması yapma, logo tasarlama, ürünün tanıtımı için medya içerikleri geliştirme vb.) sağlanır.",
+        "Öğrencilerin ulusal ve uluslararası proje yarışmalarının genel ilke ve ölçütlerini genel ağ üzerinden araştırmaları istenir.",
+        "Proje çalışmalarında “etkin zaman yönetimi”, “raporlama”, “iletişim/sunum becerileri” ve “ihtiyaç analizi” gibi çalışmalar hakkında bilgi verilir.",
+        "Öğrencilere sunum becerileri, teknikleri ve araçları (video sunumu, film çekimi, WEB 2.0-WEB 3.0, sanal gerçeklik uygulamaları, hikâye kartı vb.) üzerinden modelin sunumu yaptırılır.",
+        "Projelerle ulusal ve uluslararası proje yarışmalarına katılım sağlanır.",
+        "Örnekler üzerinden patent ve faydalı model süreçleri hakkında bilgi verilir.",
+        "Patent veya faydalı model örnekleri, patent alma süreci ve kurumların destekleri inceletilir.",
+        "Projelerin patent veya faydalı model değerini taşıyıp taşımadığının değerlendirilmesi sağlanır.",
+        "Projeler için patent veya faydalı model başvurusu yapılması teşvik edilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414435385-projetarasar%C4%B1m%C4%B1.pdf"
+}

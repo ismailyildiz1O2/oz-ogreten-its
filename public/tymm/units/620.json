@@ -1,0 +1,97 @@
+{
+  "unitId": 620,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "2. TEMA: OYUNUN KURALLARINI UYGULUYORUM",
+  "hours": "30",
+  "description": "Bu temada öğrencilerin hareket kavramları bileşenlerini (beden farkındalığı, alan farkındalığı, efor ve hareket ilişkileri) ayırt ederek temel hareket becerileri ile ilişki kurabilmeleri; oyun kurallarına uygun şekilde öğrenilen becerileri uygulayabilmeleri; oyunlarda belirlenen taktik ve stratejileri uygulayarak hareket becerilerini geliştirebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.2.2.1",
+      "title": "Oyunlarda hareket kavramlarını uygulayabilme",
+      "processComponents": [
+        "a) Beden farkındalığı, alan farkındalığı, efor ve hareket ilişkileri kavram bileşenlerini ayırt eder.",
+        "b) Temel hareket becerileri ile hareket kavramları arasında ilişki kurar.",
+        "c) Oyunlarda hareket kavramlarına ve temel hareket becerilerine uygun olarak hareket eder."
+      ]
+    },
+    {
+      "code": "BEO.2.2.2",
+      "title": "Oyun kurallarını uygulayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BEO.2.2.3",
+      "title": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme",
+      "processComponents": [
+        "a) Oyunlarda taktiksel problemi belirler.",
+        "b) Oyunlarda belirlenen problemin çözümüne ilişkin öneri sunar.",
+        "c) Oyunlarda taktik ve stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "alan, denge, efor, hareket ilişkisi, kural, nesne kontrolü, oyun, strateji, taktik, yer değiştirme",
+  "support": [
+    "Öğrencilerin kendi hızında ilerlemesine olanak sağlayan, görsel ya da işitsel materyallerle sunulabilir.",
+    "Oyun kuralları basitleştirilerek taktik ve strateji ile ilgili esneklik sağlanabilir. Bireyselleştirilmiş öğrenme planları oluşturularak her öğrencinin gereksinim duyduğu ve geliştirmesi gereken beceriye cevap verecek şekilde planlar düzenlenebilir."
+  ],
+  "enrichment": [
+    "Oyun ve fiziksel aktivitelerde hareket kavramlarının alt bileşenlerine özgü yaşantılar sunularak farklı hareket kavramları ve becerileri ilişkilendirmeleri istenebilir.",
+    "Hakemlik, liderlik gibi farklı roller verilerek arkadaşlarının oyunlarda kuralları uygulayabilme durumları kontrol ettirilebilir.",
+    "Öğrencilerden sevdikleri bir spor branşı ile ilgili bir maça gitmeleri ya da maçı televizyonda izlemeleri istenerek taktik ve stratejileri gözlemlemeleri beklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları gözlem formları, öz değerlendirme, akran değerlendirme ve grup değerlendirme formu kullanılarak değerlendirilebilir.",
+    "\"En Sevdiğim Oyunu Tanıtıyorum\", \"Kendi Oyunumu Üretiyorum\", \"Ailemle Oynuyorum\" gibi başlıklarla yeni oyun tasarlama ve sunma ya da geleneksel çocuk oyunlarıyla ilgili performans görevi verilebilir. Performans görevlerinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir"
+  ],
+  "teachingApplications": [
+    "BEO.2.2.1.",
+    "Öğrencilerden okul bahçesinde hareket eden çocukları (yürüyen, koşan, top oynayan, ip atlayan vb.) gözlemlemeleri istenir. Gözlem yapılırken dikkat edilmesi gereken kurallar açıklanır. Hareketleri gözlemleyen öğrencilerden önceki öğrenmelerini de düşünerek konuya ilişkin tahmin yürütmeleri beklenir ( KB2.11 , SDB1.1 ). Öğrenciler düşüncelerini ifade etmeleri konusunda cesaretlendirilir ( D11.1 ). Öğrencilere hareket kavramları ile ilgili görsel, animasyon, video vb. eğitici içerikler sunularak öğrencilerden beden farkındalığı, alan farkındalığı, efor ve hareket ilişkileri bileşenleri ile ilgili materyalleri yorumlamaları ve bunlar arasındaki farklılıkları gözlemlemeleri istenir ( OB4 , KB2.11 ). Görseller üzerindeki hareketlerden ve değerlendirme ölçütlerinden oluşan etkinlik kartları hazırlanır. Çalışma; hazırlanan etkinlik kartları ile eşle, grupla veya bireysel olarak uygulatılır. Uygulama sırasında öğrencilerden etkinlik kartlarındaki ölçütlere göre performanslarını değerlendirmeleri istenir ( SDB1.3 ). Uygulama esnasında öğrencilere ipucu, geri bildirim ve düzeltmeler verilerek hareketlerin ayırt edilmesi sağlanır. Bunun yanı sıra hareketler sırasında öğrencilere zorlandıklarında \"Kendime ne söylemeliyim?\" sorusuyla içsel konuşma stratejileri öğretilebilir. \"Bu hareket zor olabilir ama denemeye devam edeceğim.\" gibi motivasyon ifadeleri kullandırılabilir. Ardından öğrencilerin kendi gözlemleriyle öğretmenin verdiği geri bildirimleri karşılaştırmaları sağlanır ( SDB1.2 ). Bu çalışma eş ya da grupla uygulatılarak akran ve grup değerlendirmeleri de yapılabilir.",
+    "Temel hareket becerileri ile ilgili sorular sorularak öğrencilerde merak uyandırılır ( E1.1 ). Temel hareket becerileri ile ilgili örnekler vermeleri istenir. Öğrencilerin verdikleri örnek hareketlerin uygulanmasının ardından hareketlerin çeşitliliğini artırmak için yönlendirmeler (mutlu, heyecanlı, farklı hayvan taklitleri yaparak, farklı zeminlerde yürüme; farklı yüksekliklerden, tek ayak, çift ayak, mesafeyi değiştirerek atlama-konma; farklı yönlere, eş yardımıyla, topu elinde tutarak yuvarlanma vb.) yapılır. Temel hareket becerilerini içeren; beden ve alan farkındalığı, efor ve hareket ilişkileri ile çeşitlendirilmiş etkinlikler düzenlenir. Etkinliklerde becerilere ilişkin görevler, ekipmanlar, mekân çeşitlendirilerek (örneğin düz, zikzak, engebeli zeminde koşu; slalom çubukları arasından geçerek, ip atlayarak koşu; top kontrolü sağlayarak koşu; eş ya da grupla koşu; kısa adımla, parmak ucunda, serbest koşu; farklı yönlere serbest bir şekilde, geniş ya da dar alanda, minder üzerinde, çimlerde, el ya da ayakta araç taşıyarak, bireysel ya da eşle yuvarlanma; tırmanma duvarına, tavandan asılı bir ipe, sabit alanlara tırmanma; destek noktalarını azaltarak yardımsız ya da eşle tırmanma vb.) fiziksel aktivite ve parkur çalışmaları düzenlenebilir. Uygulama esnasında (Bakışların karşıda olmalı, vücudun hafifçe öne eğilmeli, kollar ileri ve yukarı doğru salınım yapmalı, öne-geriye yuvarlanma yaparken ellerden destek alarak boyna gelen yük azaltılmalı. Beş tekrardan üçü başarılıydı, iyi gidiyorsun, komutlara en kısa sürede uymalısın, vücut ağırlığın destek noktalarına eşit dağıtılmalı vb.) öğrencilere ipucu ve geri bildirimler verilir. Ardından öğrencilere \"Sizce hareketi daha iyi yapabilmek için nelere dikkat etmeniz gerekir?\", \"Tırmanmada size en kolay gelen ya da sizi en çok zorlayan neydi?\", \"Hareketler vücudunuzun hangi bölümünün gelişmesine katkı sundu?\" gibi sorular sorularak öğrencilerin hareket kavramları ile temel hareket becerileri arasında ilişki kurmaları sağlanır ( SDB1.1 , SDB1.2 ). Öğrencilerin hareket kavramlarını uygulama durumu, gözlem formu (güçlü ve zayıf yönlerim vb.), hareket kavramları bilgi düzeyi soru formu (\"Dengeleme hareketleri nelerdir?\", \"Yer değiştirme hareketlerini hangi oyunlarda kullanırısınz?\" vb.), temel hareket becerileri öz, akran ve grup değerlendirme formu hazırlanarak değerlendirilebilir.",
+    "Öğrencilerin hareket kavramları ve temel hareket becerilerine uygun olarak oyunlarda hareket etmelerini sağlamak için çeşitli ekipmanlar kullanılıp oluşturulan etkinlikler (koniler, ipler, çemberler, toplar, minderler, farklı yükseklikte jimnastik sıraları vb.) eğitsel oyunlar (sıranı bul, oynayan minder, horoz dövüşü vb.) ve geleneksel çocuk oyunları (seksek, yakantop, ip atlama vb.) hazırlanır. Seçilen etkinlik ve oyunların başında grup içi iletişim kuralları belirlenir ve ardından oyunun adı, amacı, oyuncu sayısı, süresi ve kuralları (birbirini etkin dinleme, söz hakkı almadan konuşmama, farklı fikirlere ve bireysel farklılıklara saygı duyma, zorlanan arkadaşına destek olma ve ona yardım etme vb.) açıklanır. Öğrenciler, kendi seçtikleri ya da ortak bir hedefe ulaşmak adına grup arkadaşlarıyla belirledikleri fiziksel aktivite ve oyunlara etkin katılım sağlamaya teşvik edilerek öğrenme süreci daha keyifli ve eğlenceli hâle getirilir ( E2.5 , SDB1.2 ). Seçilen aktivite ya da oyunlarda her öğrenciye farklı görevler verilerek öğrencilerin duygu ve düşüncelerini ifade etmeleri, başkalarını etkin dinlemeleri, aktiviteye aktif katılımları, ekip çalışmasıyla yardımlaşmayı öğrenmeleri, arkadaşlarıyla iletişim kurmaları ve iş birliği içerisinde (oyunun türü ve yapısına göre malzeme taşıma, bir grubun lideri olma, hakem olma vb.) hareket etmeleri sağlanır. ( SDB2.1 , SDB2.2 , D20.2 ). Fiziksel aktivite ve oyunlarda rekabet ve kazanma duygusu ile oluşabilecek durumlar için kendilerini arkadaşlarının yerine koyarak uygun davranış sergilemeleri beklenir ( E2.1 ). Oyun sonunda deneyimler ve hissedilen duygular paylaşılır ( SDB1.1 ). Bununla birlikte öğrencilere kültürümüzün bir parçası olan, değerlerimizin gelecek nesillere aktarımını hedefleyen geleneksel çocuk oyunlarımızı araştırma görevi verilebilir. Öğrencilerden aile büyüklerinin çocukken oynadığı oyunlar hakkında bilgi toplamaları istenir. Ardından aileden öğrenilen geleneksel çocuk oyununu sınıfta arkadaşları ile paylaşıp oynamaları istenir ( OB1 , OB5 ). Böylelikle öğrencilerin farklı kültürlere ait oyunları keşfederken hareket kavramları ve temel hareket becerilerine uygun hareket etmeleri sağlanır ( OB5 ). Öğrencilere \"En Sevdiğim Oyunu Tanıtıyorum\" isimli bir proje görevi verilebilir.",
+    "BEO.2.2.2.",
+    "Öğrencilere sınıfça oynamayı en çok sevdikleri oyunlar sorulur. Oyunlara başlamadan önce öğrencilere \"Sizce oyun kurallarını belirlemek neden önemlidir?\", \"Kurallar olmadan oyun oynanabilir mi?\", \"Eğer oyunları kurallarına göre oynamazsanız arkadaşlarınız nasıl hisseder?\" gibi sorular sorularak kurallara uymanın önemine değinilir ( SDB2.3 ). Ardından seçilen oyunun kuralları açıklanarak öğrencilerin bu kuralları oyunda uygulamaları istenir. Oyun kurallarıyla ilgili ikilem öyküleri okunarak oyunlar sırasında kurallara uygun hareket etmenin gereği ve önemi, hakkaniyetli bir oyunun kurallara bağlı kalarak oynanması gerektiği, etik değerlere uygun oyun sergileyebilmenin değeri öğrencilerle örnek olaylar üzerinden tartışılır ( BEOSAB8 , D1.2 , D6.2 ). İkilem öykülerine verilen cevaplar doğrultusunda öğrencilere geri bildirimde bulunulur. Oyun sırasında bazı kuralları değiştirmeleri ve yeni belirlenen kurallara göre oynamaları sağlanır. Öğrencilerden değişikliklere uyum sağlaması; karşılaştıkları yeni durumlara, problemlere ve zorluklara farklı çözümler üretmeleri beklenir ( SDB3.1 , SDB3.2 ).",
+    "Öğrencilerin kendilerine bir grup kurarak \"Benim Oyunum\", \"Kendi Oyunumu Üretiyorum\", \"Aileme Kendi Oyunumu Oynatıyorum\" gibi yeni oyun tasarlamaları, bununla ilgili afiş hazırlamaları ve \"Okulda Oyun Günleri\" gibi bir etkinlik düzenlemeleri sağlanır. Böylelikle öğrenciler, birbirleriyle iş birliği içerisinde iletişim kurarak özgün bir fikir doğrultusunda ortak bir amaca odaklanmaya teşvik edilir ( SDB2.1 , SDB2.2 , E3.2 ). Bu süreçte \"Kendi Oyunumu Üretiyorum\", \"Ailemle Birlikte Oynuyorum\" gibi başlıklar altında belirlenen oyun ve oyun kurallarına vurgu yapan proje görevi verilebilir. Ayrıca öğrenme çıktısına yönelik bir performans görevi verilebilir.",
+    "BEO.2.2.3.",
+    "Öğrencilere önceki haftalarda oynadıkları oyunlardan oluşan ve bu oyunları kura yöntemiyle seçmelerini sağlayacak bir materyal (cırt cırtlı dart seti, kutu, poşet, torba vb.) hazırlanır ve bunun ne olduğu sorularak öğrencilerde merak uyandırılır ( E1.1 ). Ardından öğrenciler sınıf mevcudu, oyunların türü, oyuncu sayısı göz önünde bulundurularak gruplara ayrılır. Sosyal etkileşimde bulunabilmeye, özenli ve yapıcı seçimler yapabilmeye teşvik edilebilmeleri için eş ya da grup seçimlerini kendilerinin yapmaları istenir. Böylelikle öğrencilerin grup iletişimine katılarak fikirlerini özgürce ifade etmeleri, ekip çalışması yapmaları, sosyal etkileşimle seçtikleri eş ya da grup arkadaşlarıyla oyun oynama becerilerini geliştirmeleri için uygun bir ortam sağlanır ( SDB1.2 , SDB2.2 ). Öğrenciler gruplara ayrıldıktan sonra gruplardan kendilerine bir isim bulması istenerek grup aidiyeti geliştirilmeye çalışılır. Gruplar A, B, C, D grupları şeklinde planlanıp her grup kendi içerisinde (A1 ve A2, B1 ve B2, C1 ve C2, D1 ve D2) oyunu deneyimledikten sonra oyunlarda istasyon çalışması şeklinde yer değişikliği yapılabilir (A1 ve A2 grubu 1 numaralı yakantop oyununu oynadıktan sonra sırasıyla 2 numaralı balık ağı oyununa, 3 numaralı ateş-buz oyununa, 4 numaralı ada oyununa geçer). Gruplardan seçilen her bir öğrenciye oyunun adı, amacı ve kuralları sırasıyla okutulur. Ardından oyunlar öğrenciler tarafından deneyimlenir ve oyunların taktiksel problemlerinin ne olabileceği noktasında fikirler üretilir. Oyunların deneyimlenmesi sırasında ipucu ve geri bildirim verilerek taktiksel problemin belirlenmesi sağlanır ( SDB3.3 ).",
+    "Öğrencilere güçlü yönlerini bir kâğıda yazmaları ya da aileleriyle güçlü yönler kartı hazırlamaları söylenir ( SDB1.1 ). Böylelikle öğrencilerin oyunlarda takımlarına güçlü yönleriyle ilgili destek olmayı deneyimlemeleri sağlanırken geliştirmeleri gereken yönlerinin de farkına varmalarına yardımcı olunur. Oyunları deneyimlerken grup olarak düşünme fırsatı verilerek öğrencilerden karşılaşılan problemin çözümüne ilişkin öneriler (taktiksel probleme göre oyunlarda hızlı manevra yapabilecek kişiyi, savunma oyuncusunu, hızlı koşan kişiyi seçme vb.) sunmaları istenir. Böylelikle yeni duruma uyum sağlanarak mevcut çözümler güncellenir ve farklı çözümler üretilir ( SDB3.1 , SDB3.2 ). Bunun yanı sıra öğrencilerin karşılaştıkları taktiksel problemleri farklı oyunlarda deneyimlemelerine ve hareket becerilerini geliştirilmelerine fırsat sağlanır. Oyunlar değişen durumlarda deneyimlendikten sonra öğrencilere \"Takımınızın problemlere karşı güçlü yönleri nelerdi?\", \"Etkili bir savunma için farklı çözüm önerileriniz olur mu?\", \"Alan kullanımını istenilen düzeyde yaptınız mı?\" gibi sorular sorulur ( SDB1.2 , SDB3.3 ). Öğrencilerden oyunlarda seçilen taktik ve stratejileri uygulamaları beklenir. Bu süreç için grup çalışması değerlendirme formu kullanılır. Oyunlar sırasında adil oyun anlayışına uygun davranışlar sergileme, görev bilincine sahip olma, empati yapma, yardımsever olma, yeni durumlara uyum sağlama gibi beceriler üzerinde durulur ( BEOSAB8 . SDB3.2 , E2.1 , D16.3 , D20.2 ) Adalet, dostluk, dürüstlük, özgürlük, saygı vb. kavramlar oyunlarda örnek olaylar, farkındalık soruları, oyunu durdurup geri bildirim verme vb. yöntemlerle kazandırılmaya çalışılır ( D1.2 , D4.1 , D6.2 , D14.1 ). Öğrencilerin oyunlarda taktik ve strateji geliştirebilme durumları kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D11.1",
+      "D14.1",
+      "D16.3",
+      "D20.2",
+      "D4.1",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.11"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/620"
+}

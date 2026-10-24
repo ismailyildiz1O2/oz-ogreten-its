@@ -1,0 +1,39 @@
+{
+  "unitId": 1531,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY II · 2. Tema: Dijital Sanat Ve Etik",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.2.2.1",
+      "title": "Dijital sanat içeriklerinde telif hakkı türlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Telif hakkı, lisans türleri ve açık kaynak kavramlarının özelliklerini belirler.",
+        "b) Telif hakkı, lisans türleri ve açık kaynak kavramlarının etik ve yasal yönleri açısından benzerliklerini listeler.",
+        "c) Dijital sanat içerik üretimi bağlamında telif hakkı, lisans türleri ve açık kaynak kavramları arasındaki farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "DS.2.2.2",
+      "title": "Dijital içeriklerdeki etik risklerle ilgili dijital güvenlik önlemlerini yönetebilme",
+      "processComponents": [
+        "a) Dijital içerik üretiminde karşılaşılabilecek etik riskleri belirler.",
+        "b) Yapay zekâ ile içerik üretiminde etik ve şeffaf kullanıma yönelik ilkeleri ve telif ihlali, intihal gibi hukuka aykırı durumlara karşı alınabilecek güvenlik önlemlerini belirler.",
+        "c) Dijital içeriklerinin güvenli ve etik şekilde üretilebilmesi için bilgi güvenliğinin temel bileşenlerini ayırt eder.",
+        "ç) Etik ihlallerle üretilen farklı dijital içerik örneklerini dijital güvenlik önlemleri açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "açık kaynak, bilgi güvenliği, dijital güvenlik, dijital mahremiyet, intihal, lisans, özgünlük, telif hakkı, yapay zekâ etiği",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB6. Dijital Güvenlik Önlemleri Alma (BTYAB6.1. Dijital Güvenlik Önlemlerini Yönetme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1531"
+}

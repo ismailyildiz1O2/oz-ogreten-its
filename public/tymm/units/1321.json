@@ -1,0 +1,55 @@
+{
+  "unitId": 1321,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "4. TEMA: KÜRDİ, HİCAZ VE MAHUR DİZELERİNDE ETÜT VE ESER ÇALIŞMALARI",
+  "hours": "26",
+  "description": "Temanın içeriğini öğrencilerin kürdi, hicaz, mahur dizilerinde düzeylerine uygun etüt ve eser çalabilmeleri oluşturmaktadır. Bu doğrultuda öğrencilerin kemanda kürdi, hicaz, mahur dizilerinden oluşan etüt ve eser çalabilmeleri ile ilgili belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.6.4.1",
+      "title": "Kürdi, hicaz, mahur dizilerinde etüt ve eserleri çalabilme",
+      "processComponents": [
+        "a) Kürdi, hicaz, mahur dizilerinde bulunan etüt ve eserleri çözümler.",
+        "b) Duruş ve tutuş pozisyonu alarak kürdi, hicaz, mahur dizilerinde bulunan etüt ve eserleri çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak kürdi, hicaz, mahur dizilerinde bulunan etüt ve eserleri çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, yay, metronom, dizi, süre, ritim",
+  "support": [
+    "Öğrencilere uygun olarak belirlenen basit etütler öğretmen eşlikli çalınabilir. Öğrencilere çaldığı etütlerle ilgili geri bildirimler verilir. Öğrenciler ile çalınacak parça veya eser metronom hızı yavaş ayarlanarak ve ayna karşısında öğrencilerin kendilerini gözlemlemelerine izin verilerek yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere çalacakları eser ve etütler dinletilerek eserlerin nasıl çalındığına dikkat çekilir. Metronomda süreler hızlandırılarak bu dizilere ait diğer eserlerden örnekler çaldırılır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kavram haritası, gözlem form, kısa rapor veya sunum ile değerlendirilebilir. Öğrenciden kürdi, hicaz ve mahur makamı dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması performans görevi istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.6.4.1",
+    "Öğretmen öncelikle etkileşimli tahtayı kullanarak öğrencilere kürdi, hicaz, mahur dizileriyle ilgili eserler dinletir ( OB2 ). Öğrencilerden dinledikleri eserler ile ilgili çözümlemeler yapmaları beklenir. Öğretmen öğrencilerin düzeylerine uygun etüt ve eserler belirler. Öğrenciler, seslendirecekleri etütlerde kemanda doğru duruş ve tutuş pozisyonunu alarak öğretmen eşliğinde etüt ve eser çalışmalarına geçer. ( OB1 ). Öğrenciler etüt ve eserin bona çalışmasını yapar. Etüt ve eserler ile ilgili bona çalışmasını ritim hatası olmayacak şekilde tekrarlarla çalışır ( D3.1 ). Bu çalışmalar sonucunda etüt ve eseri çözümler. Etüt ve eserdeki ritim ve nota sürelerine odaklanır ( E3.2 ). Öğrencilerin ayna karşısında doğru duruş ve tutuşla kemanı alarak öğretmen eşliğinde etüt ve eseri çalar ( SDB2.1 ). Öğrenciler ayna karşısında doğru duruş ve tutuş pozisyonunu aldıktan sonra öğrencilerin kürdi, hicaz, mahur dizilerinde etüt ve eserleri çalmak için kemana özgü teknikleri kullanmaları sağlanır. Grup çalışmaları ile öğrencilerin kendi aralarında iletişim kurmaları ve birbirlerine etüt ve eserler konusunda yardımcı olmaları istenir. Çalışmalarda kendilerini ifade etmeleri ve eserleri yorumlamaları sağlanır ( E3.1 ) Grup çalışmalarından sonra öğretmen verilen etüt çalışmalarını öğrencilerle tekrar çalar ve öğrencilerden eşlikli olarak çalgıya özgü teknikleri kullanarak verilen etüt ve eserleri çalmalarını ister. Öğretmen, öğrencileri bu çalışmalar esnasında gözlem formu ve dereceli puanlama anahtarı ile değerlendirir ( KB2.2 ). Öğrenciden kürdi, hicaz ve mahur makamı dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması performans görevi olarak istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E3.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1321"
+}

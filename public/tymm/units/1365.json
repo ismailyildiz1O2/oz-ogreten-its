@@ -1,0 +1,61 @@
+{
+  "unitId": 1365,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "1. TEMA: RİTİM KALIPLARINI OKUMA",
+  "hours": "23",
+  "description": "Temanın amacını; temel ritmik kalıpları ve usulleri okuma çalışmaları oluşturmaktadır. Bu doğrultuda temel ritim kalıplarını tanımak, ayırt etmek ve okuyabilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "UD.3.1.1",
+      "title": ". Seslendireceği egzersizleri okuyabilme",
+      "processComponents": [
+        "a) Ritmik bileşenleri tanır.",
+        "b) Ritmik bileşenleri ayırt eder.",
+        "c) Ritmik bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "müziksel okuma, ud, usul",
+  "support": [
+    "Tekrarlayan Öğretim: Öğrendiklerini sık sık tekrar ettirip küçük adımlarla ilerlenebilir.",
+    "Gösterip Yaptırma: Kalem tutabilen öğrencilere dörtlük, sekizlik nota, sus ya da sol anahtarı çizdirilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin daha karmaşık (sus ve senkop ögelerinin olduğu) örnekler seslendirmesi istenebilir. Öğrencilerden ud için yazılmış önemli eserleri ve bestecileri araştırmaları istenebilir. Öğrenciler forteden piyanoya veya tam tersi aşamalı geçiş yaparak mızrap kontrolünü artırabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kısa cevaplı sorular, doğru-yanlış sorularından oluşan çalışma kâğıtları kullanılarak değerlendirilebilir. Öğrencilerin kendi yazdığı örnekleri seslendirmesine yönelik performans görevi verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.3.1.1",
+    "Öğrencilere temel ritmik kalıplar sözlü olarak verilir ve yüksek sesle tekrarlamaları istenir ( E1.5 , SDB2.1 ). Tekrarlanan kalıplar nim sofyan, sofyan, semai gibi temel ölçüleri oluşturacak şekilde yazılır ve bu ifadelere Türk müziği uygulamalarında sıkça yer verileceği açıklanır (OB5). Usul-ölçü kavramları arasındaki ortak noktalar usul vurarak ve ölçülerin birim vuruşları yazılarak aktarılır ( OB4 , KB2.2 ), merak etmeleri beklenir ( E1.1 ). Öğrencilerin temel ritmik ifadeleri ölçü içinde göstermeleri istenir ( KB2.4 ). Doğru-yanlış sorularından oluşan çalışma kâğıdı kullanılarak değerlendirilebilir. Belli bir göz alışkanlığı kazanana kadar hatalar yapılabileceği fakat bunun herhangi bir eksiklik olmadığı, gayret ve sabır ile ( D3.1 ) çalışması gerektiğini kavramaları beklenir ( E1.5 , D12.3 ). Kontrol listesi kullanılabilir. Temel usuller kullanılarak verilen örneklerde küçük hatalar yapılır ve öğrencilerden bu hataları bulmaları beklenir ( SDB2.1 ). Verilen farklı usullerdeki örnekler birbiri ile karşılaştırılır ve ritmik yapıları bakımından farklılıklarına dikkat çekilir ( KB2.7 , D3.1 ). Ölçü rakamları yazılmadan örnekler yazılır. Öğrencilerin tahminde bulunmaları istenir ( SDB2.1 ). Öğrencilerin bu usulleri (sofyan ve nim sofyan) birbirinden ayırt etmeleri beklenir ( KB2.16 ). Bu süreç kısa cevaplı sorulardan oluşan çalışma kâğıdı kullanılarak değerlendirilebilir. Daha sonra örnek alıştırmalar verilir. Önce el ile vurarak daha sonra da metronom aleti kullanarak akıcı bir şekilde okumaları istenir. Öğrenciler bu süreçte kendi yazdığı örneklerini seslendirir ( SAB11 ). Öğrencilerin bu süreçte kendi yazdığı örnekleri seslendirmesine yönelik performans görevi verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "kavramsal": [
+      "KB2.16",
+      "KB2.2",
+      "KB2.4",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "diger": [
+      "SAB11"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1365"
+}

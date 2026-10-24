@@ -1,0 +1,89 @@
+{
+  "unitId": 625,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "1. TEMA: İŞ BİRLİKLİ OYUNLARLA HAREKET EDİYORUM",
+  "hours": "32",
+  "description": "Bu temada öğrencilerin iş birlikli oyunlarda birleştirilmiş hareket becerilerini sergileyebilmeleri, taktiksel problem çözme ve strateji geliştirme becerileri kazanabilmeleri ve adil oyun anlayışına uygun davranabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.3.1.1",
+      "title": "İş birlikli oyunlarda adil oyun anlayışına uygun davranabilme",
+      "processComponents": [
+        "a) İş birlikli oyunlarda adil oyun anlayışını açıklar.",
+        "b) İş birlikli oyunlarda adil oyun anlayışına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BEO.3.1.2",
+      "title": "İş birlikli oyunlarda birleştirilmiş hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) İş birlikli oyunlarda birleştirilmiş hareket becerilerini algılar.",
+        "b) İş birlikli oyunlarda birleştirilmiş hareket becerilerinin basamaklarını gösterir.",
+        "c) İş birlikli oyunlarda birleştirilmiş hareket becerilerini farklı oyunlarda uygular."
+      ]
+    },
+    {
+      "code": "BEO.3.1.3",
+      "title": "İş birlikli oyunlarda taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) İş birlikli oyunlarda taktiksel problemi belirler.",
+        "b) İş birlikli oyunlarda belirlenen problemin çözümüne ilişkin öneri sunar.",
+        "c) İş birlikli oyunlarda taktik ve strateji uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "adil oyun, hareket becerileri, iletişim, iş birliği, problem çözme, stratejik düşünme, takım farkındalığı",
+  "support": [
+    "Oyun sırasında farklı beceri seviyelerine sahip öğrenciler eşleştirilir ve her öğrenciyi kapsayacak şekilde roller dağıtılabilir.",
+    "İş birlikli oyunlarda daha kolay taktiksel problem içeren oyunlar tercih edilebilir. Ayrıca görsel yönergeler ve sözel ipuçları verilebilir"
+  ],
+  "enrichment": [
+    "Öğrencilerden birleştirilmiş hareket becerilerini içeren ve adil oyun anlayışına uygun iş birlikli bir oyun tasarlamaları istenebilir.",
+    "Belirlenen problemlerin çözümlerine ilişkin oluşturulan taktiksel çözüm önerilerini farklı oyunlarda nasıl kullanabilecekleri üzerinde tartışmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları kontrol listesi, analitik dereceli puanlama anahtarı ve grup değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Öğrencilere bir oyun tasarlamaları ve bu oyunda karşılaşabilecekleri bir problemi belirleyerek çözüm önerileri geliştirme performans görevi verilebilir, süreç ve öğrenci ürünleri analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEO.3.1.1. Oyunlarda ve sporlarda adil oyun anlayışı ile ilgili video ve görseller paylaşılır. Video ve görseller izlendikten sonra bu bağlamda öğrencilere \"Siz olsaydınız nasıl davranırdınız?\", \"Sizce kişi/kişiler adil oyun anlayışına uygun hareket etti mi?\", \"Adil oyun anlayışı oyunlarda veya sporlarda neden önemlidir?\" gibi sorular sorulur ( E2.1 , D6.1 ). Ardından öğrencilerden adil oyunun önemini farklı örnekler (oyun sırasında sırasını beklemek, hile yapmamak, takım arkadaşı ve rakiplere saygılı davranmak vb.) vererek ifade etmeleri istenir ( SDB2.1 ).",
+    "Öğrencilerin iş birliği yaparak bir hedefe ulaşmalarını sağlamak, adil oyun anlayışını geliştirmek ve takım ruhunu pekiştirmek için bir oyun seçilir. Öğrenciler takımlara ayrılır. Takım üyelerinden görevlerini yerine getirmeleri istenir. Oyunlar sırasında takım arkadaşlarına daha fazla yardımcı olan ve kurallara uygun hareket eden takıma adil oyun ödülü (yeşil kart, rozet, bir alkış töreni vb.) verilir ( SDB2.2 , D4.2 ). Bu öğrenme çıktısını değerlendirmek için grup değerlendirme formu kullanılabilir.",
+    "BEO.3.1.2. Öğrencilere oyunlarda iş birliği hakkında şu sorulara benzer sorular yöneltilir: ''Oyunlarda iş birliği nedir ve neden önemlidir?\", \"Oynadığınız oyunlardan iş birlikli oyunlara örnek verebilir misiniz?'' Kendi düşüncelerini ifade etmeleri sağlanır. Oyunların başında yardımlaşmanın önemi üzerinde durulur ( D4.1 ). Oyunlar başlamadan önce 3-5 dakika hafif tempoda yürüyüş, derin nefes alma ve esnetme gibi ısınma hareketlerinin yapılmasına dikkat edilir. Ortak bir hedef/amaç için oluşturulmuş, birleştirilmiş hareket becerilerini içeren bir iş birlikli oyun oynatılır ( SDB2. 2). İş birlikli oyunlarda bireysel hareket becerilerinin takıma nasıl katkı sağladığını fark etmeleri sağlanır. Oyunların sonunda öğrencilere ''Hangi hareket becerilerini kullandınız?\", \"İş birliği bu oyunda neden önemliydi?\" gibi sorular yöneltilir.",
+    "Yer değiştirme, nesne kontrolü ve denge becerilerinden en az ikisinin yer aldığı birleştirilmiş hareket becerilerinin sergilenebileceği bir oyun düzenlenir ( E2.5 ). Örneğin düzenlenen oyunların içinde denge, koşma, galop, top taşıma gibi hareket becerilerine yer verilir. Bu beceriler sergilenirken becerilerin basamaklarına uygun şekilde gösterilmesi istenir. Öğrencilerden oyunlarda etkili iletişim kurarak dayanışma içinde olmaları ve birbirlerini motive ederek grup dinamiğini oluşturmaları beklenir ( SBAB5.2 , D3.4 ).",
+    "Yer değiştirme, nesne kontrolü ve denge becerilerinden en az ikisinin yer aldığı birleştirilmiş hareket becerilerinin sergilenebileceği oyunlar açık alan, kapalı alan, çim saha, toprak zemin gibi alanlarda düzenlenebilir. Oyunlar sırasında iş birliğini teşvik etmek ve takım çalışmasını desteklemek gibi durumlar ön plana çıkarılır ( D3.4 , SDB2.2 ). Öğrencilerin düzenlenen oyunlara katılması sağlanır. Bu öğrenme çıktısının değerlendirilmesinde kontrol listesi kullanılabilir.",
+    "BEO.3.1.3. Öğrencilerin birlikte düşünüp karar vermelerini gerektiren oyun seçilerek oyunun amacı hakkında bilgilendirme yapılır. İş birlikli oyunu deneyimleme fırsatı verilerek oyun sırasında karşılaştıkları problemleri fark etmeleri sağlanır ( E3.2 ). Bu doğrultuda öğrencilerin takımlara ayrılmaları ve her takımdan bir gözlemci olması istenir. Bu oyunda engeller ve görevler (engel atlama, takım olarak belirli bir nesneyi taşımak, topu hızla paslaşmak vb.) yer alır. Oyunun ortasında gözlemcinin komutuyla takımların oyunu durdurulur ve gözlemci tarafından \"Şu ana kadar takımınızın ilerlemesini zorlaştıran neydi?\" sorusu sorulur. Öğrencilerin taktiksel problemleri (paslaşmada zorlanma, engelleri aşarken takım olarak uyum sağlayamama vb.) iş birliği içinde belirlemesi sağlanır ( SDB2.2 ).",
+    "\"Belirlenen problemin çözümüne destek olurken oyunda hangi zorluklarla karşılaştınız?\", \"Takım olarak neleri daha iyi yapabilirdiniz?\", \"Oyunu yeniden oynasaydınız hangi farklı taktikleri denerdiniz?\" gibi sorular sorulur. Bu doğrultuda öğrencilerden \"Oyunda çok dik durmamalıyız.\", \"Vücudumuzun çok fazla savrulmamasına dikkat ederek, el ve kol açılarımızı daraltıp hızımızı ayarlamalıyız.'' gibi çözüm önerileri sunmaları istenir ( E3.6 , SDB3.2 , KB2.1 ).",
+    "Öğrencilerden belirledikleri çözüm önerilerini oyun esnasında uygulamaları istenir ( E2.5 ). Geliştirilen taktiksel çözümler; iş birlikli oyunlar sırasında görevlere, ekipmanlara, oyun alanına ve kişi sayısına dikkat edilerek tekrar edilir veya farklı oyunlarda uygulanır. Uygulanan taktiklerin başarısı hakkında gruplardan geri bildirim alınır. ''Geliştirdiğiniz taktiksel çözümü takım olarak uygulayabildiniz mi?\", \"Taktiksel çözümü uygularken ne gibi zorluklar yaşadınız?'' gibi sorular sorulur. Geliştirilen taktiklerin farklı oyunlara transfer edilmesinin önemi üzerinde durulur. Bu öğrenme çıktısının değerlendirilmesinde öğrencilere bir oyun tasarlama ve bu oyunda karşılaşabilecekleri bir problemi belirleyerek çözüm önerileri geliştirme performans görevi verilebilir, süreç ve öğrenci ürünleri analitik dereceli puanlama anahtarı ile değerlendirilebilir ( KB3.1 , E1.4 , SDB1.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D4.1",
+      "D4.2",
+      "D6.1"
+    ],
+    "egilim": [
+      "E1.4",
+      "E2.1",
+      "E2.5",
+      "E3.2",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.1",
+      "KB3.1"
+    ],
+    "diger": [
+      "SBAB5.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/625"
+}

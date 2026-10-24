@@ -1,0 +1,44 @@
+{
+  "unitId": 98035802,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "2. ÖĞRENME ALANI: KÜLTÜREL MİRAS",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "G.8.2.1",
+      "title": "Sanat eserinin sosyal, politik ve ekonomik faktörlerden nasıl etkilendiğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "G.8.2.2",
+      "title": "Sanatçıların toplumda üstlendiği rolleri yorumlar",
+      "processComponents": [
+        "Özel gereksinimli bireyler konusunda farkındalık oluşturmak için hazırlanmış kamu spotları izletilebilir."
+      ]
+    },
+    {
+      "code": "G.8.2.3",
+      "title": "Dönem, üslup ve kullanılan malzemelere göre sanat eserlerinin özelliklerini karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "G.8.2.4",
+      "title": "Müzelerdeki eserlerin korunmasının önemini açıklar",
+      "processComponents": [
+        "Tarihî yapılar ile müzelerdeki eserlerin öncelikle bir milletin, sonra tüm insanlığın ortak malı olduğu üzerinde durulur. Sanatın “evrensel bir dil” olma özelliğinin buradan geldiği açıklanır. Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Kültürel Miras",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf"
+}

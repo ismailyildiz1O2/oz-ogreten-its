@@ -1,0 +1,44 @@
+{
+  "unitId": 94126407,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "7. ÖĞRENME ALANI: KÜRESEL BAĞLANTILAR",
+  "hours": "14",
+  "description": "Bu öğrenme alanı işlenirken kültürel mirasa duyarlılık ve saygı gibi değerlerle araştırma ve empati gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.7.1",
+      "title": "Dünya üzerindeki çeşitli ülkeleri tanıtır",
+      "processComponents": [
+        "Araştırdığı bir ülkenin önemli özelliklerini görsel materyaller kullanarak sınıfta tanıtması sağlanır."
+      ]
+    },
+    {
+      "code": "SB.4.7.2",
+      "title": "Türkiye’nin komşuları ve diğer Türk Cumhuriyetleri ile olan ilişkilerini kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.7.3",
+      "title": "Farklı ülkelere ait kültürel unsurlarla ülkemizin sahip olduğu kültürel unsurları karşılaştırır",
+      "processComponents": [
+        "Görsel ve yazılı iletişim araçları ile kültürel unsurlardan kıyafet, yemek, oyun, aile ilişkileri gibi konular üzerinde durulur."
+      ]
+    },
+    {
+      "code": "SB.4.7.4",
+      "title": "Farklı kültürlere saygı gösterir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Küresel Bağlantılar",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

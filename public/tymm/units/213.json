@@ -1,0 +1,44 @@
+{
+  "unitId": 213,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Peygamberimizin Hayatı Dersi",
+  "title": "4. ÜNİTE: İLİM HAYATINDA PEYGAMBERİMİZ",
+  "hours": "16",
+  "description": "Bu ünitede Peygamberimizin ilme yaklaşımının sentezlenmesi, Peygamberimizin ilme teşvik ettiği sahabilerin ilme verdikleri önemin çözümlenmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PH.7.4.1",
+      "title": "Peygamberimizin ilme yönelik yaklaşımını sentezleyebilme",
+      "processComponents": [
+        "a) Peygamberimizin ilme yönelik yaklaşımıyla ilgili bilgileri araştırır.",
+        "b) Peygamberimizin ilme yönelik yaklaşımıyla ilgili bilgiler arasında ilişki kurar.",
+        "c) Peygamberimizin ilme yönelik yaklaşımıyla ilgili bilgileri birleştirerek özgün bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "PH.7.4.2",
+      "title": "Sahabilerin ilme verdikleri önemi çözümleyebilme",
+      "processComponents": [
+        "a) Sahabilerin ilme verdikleri öneme dair unsurları açıklar.",
+        "b) Sahabilerin ilme verdikleri öneme dair unsurlar arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "ilim, Darülerkam, Suffe",
+  "support": [
+    "Öğrencilerden ilme öncülük eden en az iki sahabenin ismini sıralamaları beklenebilir. Öğrencilerin Suffe ashabı hakkında bildiklerini sözlü olarak ifade etmeleri beklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden ashabın ilme verdiği değeri anlamalarını ve yorumlamalarını sağlamak amacıyla RAFT tekniğiyle bir yazı yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; dereceli puanlama anahtarı, grup değerlendirme formu, öğrenme günlüğü, çıkış kartı, zihin haritaları, dereceleme ölçeği, öz değerlendirme formu ve 3-2-1 kartı kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak Peygamberimizin eğitim ve öğretimde kullandığı ilkeler ile uyguladığı metotları içeren bir el kitapçığı hazırlamaları istenebilir. Yapılan çalışmalar; bilgi toplama, ilişki kurma, sentezleme, içerik ve özgünlük ölçütlerinin bulunduğu dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PH.7.4.1 Hz. Peygamber'in eğitime verdiği önem, eğitim faaliyetleri, eğitim ve öğretimde kullandığı ilkeler ve uyguladığı metotlar aralarında ilişki kurularak ele alınır. Öğrencilerin Peygamberimizin ilme yaklaşımıyla ilgili dijital kaynaklardan topladıkları bilgileri kullanarak bunlardan bir çıkarım yapması sağlanır (OB2) . Sahabilerin Hz. Peygamber'in ilim meclisinden en iyi şekilde istifade ettiklerine dair bilgi verilir. İlgili konu bağlamında ilim, Darülerkam ve Suffe kavramlarına değinilir. Öğrencilere kendi hayatlarında iletişimde oldukları insanların anlatmak istediklerini dinlemek için zaman ayırmanın önemi belirtilir (SDB2.1) . Öğrencilerden Hz. Peygamber'in ilme yaklaşımındaki tutum ve davranışlarını konu alan bir ürün hazırlamaları istenir. Bu kapsamda kısa bir hikâyenin sonuç kısmını yazarak tamamlamaları istenebilir. Hikâyelerin değerlendirilmesinde dereceleme ölçeği kullanılabilir. Öğrencilerin öğrenme kanıtlarında belirtilen performans görevini yapması sağlanabilir. Performans göreviyle ilgili öğrencilere geri bildirim verilir. Hz. Peygamber'in ilme yaklaşımına dair bilgilerin edinilmesi aşamasında din kültürü ve ahlak bilgisi disiplininden yararlanılır.",
+    "PH.7.4.2 Peygamberimizin ilme teşvik ettiği sahabilerden Hz. Aişe, Abdullah bin Mesud, Zeyd bin Sabit, Abdullah bin Zübeyr ve Abdullah bin Amr bin As'ın ilme verdikleri öneme ilişkin bilgi verilir. Bu sahabilerin ilmî yönlerine dair özelliklerinin aralarında ilişki kurularak ele alınması sağlanır. Sahabilerin çeşitli alanlarda kendilerine uygun görevleri almaya istekli olduklarına değinilir. Öğrencilerden öğrenmeye dair ilgi duydukları alanların neler olduğunu listelemeleri ve bu alanlarla ilgili kendilerini geliştirme noktasında yapabilecekleri somut adımları yazmaları istenebilir (D3.5, E2.2) . İlme önem veren sahabilerin eğitim ve öğretimde gösterdikleri çabaya dikkat çekilir. Öğrencilerin beyin fırtınası tekniği ile sahabilerin gösterdikleri çabanın sebeplerini sorgulayarak bir sonuca varmaları istenebilir (E3.4) . Zeyd bin Sabit'in Kur'an ayetlerinin yazılı olduğu sayfaları bir araya getirip Kur'an'ı cemetmekle görevlendirilmesine dair bilgi verilir. Öğrencilerin yaşadıkları topluma nasıl katkı sağlayabileceklerini konu alan bir yazı yazmaları istenebilir (SDB2.3) . Arkası yarın tekniği kullanılarak öğrencilerin Peygamberimizin ilme teşvik ettiği sahabilerin ilme verdikleri öneme dair bilgileri ölçülebilir. Ölçme ve değerlendirme faaliyetlerinde 3-2-1 kartı kullanılabilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/213"
+}

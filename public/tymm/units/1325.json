@@ -1,0 +1,55 @@
+{
+  "unitId": 1325,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "4. TEMA: PIYANO EŞLİKLİ PARÇA ÇALIŞMALARI",
+  "hours": "14",
+  "description": "Temanın içeriğini öğrencilerin düzeyine uygun piyano ve keman eşlikli etüt ve eser çalmaları oluşturmaktadır. Bu doğrultuda öğrencilerin kemanda seviyelerine uygun eşlikli etüt ve eser çalma ile ilgili bilinen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.6.4.1",
+      "title": "Piyano ve keman eşlikli etüt ve eserleri çalabilme",
+      "processComponents": [
+        "a) Seviyesine uygun eşlikli etüt ve eserleri çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alarak eşlikli etüt ve eserleri çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak keman ve piyano eşlikli etüt ve eserleri çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, yay, metronom, eşlikli parçalar, süre, ritim",
+  "support": [
+    "Öğrencilere uygun basit etütler belirlenerek eşlikli çalınabilir. Öğrencilere çaldığı etütlerle ilgili geri bildirimler vermesi sağlanabilir. Öğrenci ile çalınacak parça veya eser metronom hızı yavaş ayarlanarak ve ayna karşısında öğrencinin kendini gözlemlemesine izin verilerek yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere çalacakları eser ve etütleri dinletilerek eserlerin nasıl çalındığına dikkat çekilebilir. Metronomda süreler hızlandırılarak, eşlikli parçaların nüanslarına dikkat edilerek sonatine eserlerden örnekler çaldırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öğretmen gözlem formu, kontrol listesi, öz değerlendirme formu ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenciden eşlikli bir eser ya da etüdü (piyano veya ikinci kemanla) çalarak video kaydıyla sunması performans görevi olarak istenebilir. Bu performans görevi; teknik yeterlilik, birlikte çalma becerisi, müzikal uyum ve ifade yönünden bütüncül dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "KMN.7.4.1",
+    "Etkileşimli tahta kullanılarak öğrencilere piyano eşlikli eserler dinletilir ( OB2 ). Öğrencilerden dinledikleri eserler ile ilgili çözümlemeler yapmaları beklenir. Öğrencilerin düzeylerine uygun etüt ve eserler belirlenir. Öğrenciler, kemanda doğru duruş ve tutuş pozisyonunu alarak öğretmen eşliğinde etüt ve eser çalışmalarına geçer ( OB1 ). Etüt ve eserin bona çalışmasını yaparak seslendirilecek olan etüt ve eserlerin çözümlenmesini yapar. Etüt ve eserler ile ilgili bona çalışmasını ritim hatası olmayacak şekilde tekrarlarla çalışır ( D3.1 ). Etüt ve eserdeki ritim ve nota sürelerine odaklanır ( E3.2 ). Ayna karşısında doğru duruş ve tutuşla kemanı alarak öğretmen eşliğinde etüt ve eser çalınır ( SDB2.1 ). Kemanda ayna karşısında doğru duruş ve tutuşu ayarladıktan sonra seçilen etüt ve eserleri çalmak için kemana özgü teknikleri piyano ile uyum içerisinde kullanmaları sağlanır. Grup çalışmaları verilerek öğrencilerden birbirleriyle iletişim kurmaları ve birbirlerine etüt ve eserler ile ilgili yardımcı olmaları istenir. Öğrencilerin kendilerini ifade etmeleri ve eserleri yorumlamaları sağlanır ( E3.1 ). Yapılan eşlikli çalışmaların entonasyon ve müzikalite ile ritim becerilerinin gelişmesi açısından kendilerine büyük katkısı olacağı vurgulanır. Verilen etüt çalışmaları grup çalışmalarından sonra öğrencilerle tekrar çalınır ve öğrencilerden eşlikli olarak, çalgıya özgü teknikler kullanılarak çalmaları istenir. Bu çalışmalar esnasında gözlem formu ve dereceli puanlama anahtarı kullanılarak öğrenciler değerlendirilebilir ( KB2.2 ). Öğrenciden eşlikli bir eser ya da etüdü piyano veya ikinci kemanla çalarak video kaydıyla sunması performans görevi istenebilir. Bu performans görevi; teknik yeterlilik, birlikte çalma becerisi, müzikal uyum ve ifade yönünden bütüncül dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E3.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1325"
+}

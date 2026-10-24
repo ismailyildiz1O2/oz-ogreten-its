@@ -1,0 +1,90 @@
+{
+  "unitId": 677,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "4. TEMA: BİLİŞİM ETİĞİ VE SİBER GÜVENLİK",
+  "hours": "4",
+  "description": "“Bilişim Etiği ve Siber Güvenlik” teması kapsamında öğrencilerin bilişim etiği kural ve ilkelerini yorumlayabilmesi, siber güvenlik ilkelerini kavrayabilmesi ve dijital ortamlarda gizlilik ve güvenlik önlemlerini yönetebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.5.4.1",
+      "title": "Bilişim etiği kural ve ilkelerini yorumlayabilme",
+      "processComponents": [
+        "a) Bilişim etiği ile ilgili temel kavramları inceler.",
+        "b) Bilişim etiği kural ve ilkelerini bağlamdan kopmadan günlük hayatta kullanılacak şekilde dönüştürür.",
+        "c) Bilişim etiği kural ve ilkelerine uygun davranmanın önemini yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "BTY.5.4.2",
+      "title": "Dijital ortamlarda gizlilik ve güvenlik önlemlerini yönetebilme",
+      "processComponents": [
+        "a) Dijital ortamlarda karşılaşabileceği gizlilik ve güvenlik risklerini belirler.",
+        "b) Dijital ortamlarda alabileceği gizlilik ve güvenlik önlemlerini belirler.",
+        "c) Dijital ortamlarda bilgi gizliliği ve güvenliğinin temel bileşenlerini ayırt eder.",
+        "ç) Dijital ortamda karşılaşılan bir durumu gizlilik ve güvenlik önlemleri açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "bilişim etiği, dijital ortam, dijital ortamlarda gizlilik, dijital ortamlarda güvenlik, erişilebilirlik, etik, kişisel veri, siber güvenlik",
+  "support": [
+    "Bilişim etiği kurallarını içeren animasyonlar izletilebilir ya da bilişim etiği ile ilgili temel bilgilerin sunulduğu bir atölye veya seminer düzenlenebilir.",
+    "EBA üzerinden gizlilik ve güvenlik temalı videolar izlenip üzerinde tartışılabilir.",
+    "Öğrencilere bilişim etiği kurallarını öğreten oyunlar oynatılabilir (örneğin doğru yanlış etkinliği eşleştirme).",
+    "Öğrencilerden gerçek hayatta yaşanmış gizlilik veya güvenlik ihlali örneklerini inceleyip bu tür durumların yaşanmaması için neler yapılabileceğini anlatmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden bilişim etiğini konu alan kısa bir film veya animasyon hazırlayarak bu konunun önemini ve kurallarını eğlenceli bir biçimde aktarmaları istenebilir.",
+    "Öğrencilerden belirli bir bilişim etiği senaryosu üzerinde derinlemesine analiz yapmaları ve senaryoya uygun çözüm önerileri geliştirmeleri istenebilir.",
+    "Öğrencilerden gizlilik ve güvenlik ile ilgili bir bilgilendirme kampanyası tasarlamaları istenebilir (poster, video, sosyal medya içerikleri vb.).",
+    "Öğrencilerden siber güvenlik veya gizlilik ihlali içeren kurgusal hikâyeler yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ya da akran değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden dijital kaynak ve ihtiyaçları içeren afiş hazırlamaları ya da bilişim etiği hakkında senaryo oluşturup canlandırmaları istenebilir.",
+    "Performans görevi; bilimsel doğruluk, çeşitlilik, gereksiz bilgilerden arındırma, özgünlük ve tamamlanma süresi gibi ölçütler dikkate alınarak dereceleme ölçeği, puanlama anahtarı veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BTY.5.4.1.",
+    "Tahtaya \"etik\" ifadesi yazılır. Etik kavramını kendi ifadeleriyle tanımlamaları için öğrencilere fırsat verilir ( E1.1 ). Etik kavramı ile ilgili somut senaryo örnekleri verilerek öğrencilerin bu senaryoları incelemeleri istenir. Bu senaryolar incelenirken \"Bu senaryoda etik bir sorun var mı?\", \"Bu sorunu çözmek için hangi adımları atmalıyız?\", \"Bu kişilerin davranışlarını nasıl değerlendiriyorsunuz?\", \"Siz bu durumda nasıl davranırdınız?\" gibi sorular eklenerek öğrencilerin problemi fark edip buna uygun çözüm aramaları sağlanır ( SDB3.3 ). Daha sonra etik kavramı bilişim kavramıyla birleştirilerek \"bilişim etiği\" kavramı açıklanır. Öğrenciler, bilişim etiği kapsamında yer alan temel kavramları (telif hakkı, siber zorbalık, dijital vatandaşlık vb.) araştırarak örneklerle açıklar. Her bir kavramın günlük yaşamda karşılaşılabilecek durumlarla ilişkisini kurarak bilişim etiğinin sınırlarını ve kapsamını tartışırlar ( SDB2.3 , KB2.18 ).",
+    "Tahtaya bilişim etiği ilkelerinden 1-2 örnek yazılır (Bilişim teknolojilerini yararlı amaçlar için kullanmalıyız, lisanslı yazılımlar kullanmalıyız vb.). Öğrencilerin de ilkeler eklemesi sağlanarak öğrencilerle etkileşim içinde bilişim etiği listesi oluşturulur ( KB2.10 ).",
+    "Öğrencilerin listeye ekleme yapmak için günlük hayatta karşılaştıkları bilişim etiğine uygun ve aykırı olabilecek durumlardan yola çıkmaları istenir. Karşılaştıkları durumlarda sergiledikleri davranışların olumlu ve olumsuz sonuçlarını belirtmeleri istenir ( SDB1.2 ). Örneğin bir öğrenci \"Başkalarının kişisel bilgilerini izinsiz paylaşmamalıyız.\" ilkesini eklediğinde bunun sosyal medya kullanımı açısından neden önemli olduğu üzerine konuşulur ( D8.4 ). Etik kuralların çerçevesi çizildikten sonra yapay zekânın etik kullanımı konusuna yönelik bir farkındalık çalışması yapılır. Öğrencilere, \"Yapay zekâ tarafından yazılan bir kompozisyonu kendi yazısı gibi göstermek doğru mudur? Ödevleri yapay zekaya yaptırmak sizce etik midir? Yapay zekâyla oluşturulan bir görselin sahte bir haber için kullanılması sizce etik midir?\" gibi senaryo soruları sunularak küçük gruplarda tartışmaları sağlanır. Her grup, etik olup olmadığını gerekçeleriyle açıklayarak sınıfla paylaşır. Bu etkinlik, öğrencilerin yapay zekâ ile etkileşimde bulunurken etik ilkeleri göz önünde bulundurmalarını teşvik eder. Bu ilkelerin neden önemli olduğu aktarılır. Öğrenciler bilişim etiğine uygun olan ve olmayan durumları karşılaştırırlar ( KB2.13 , SDB3.3 ). Bu etkinlik sırasında, bilişim etiğiyle ilgili durumların hem \"safety\" (örneğin çevrim içi ortamda psikolojik zarar görme, siber zorbalık) hem de \"security\" (örneğin hesap çalınması, kişisel verilerin izinsiz paylaşılması) boyutları olduğu açıklanır. Öğrencilerden bu iki tür tehdidi ayırt etmeleri beklenir. Öğrencilere, sanal ortamda karşılaşabilecekleri olumsuz durumlarda yalnız olmadıkları ve bu durumlarla başa çıkmak için başvurabilecekleri yollar olduğu açıklanır. Bu kapsamda, siber zorbalık gibi dijital tehditlerle karşılaştıklarında güvendikleri bir yetişkine (aile, öğretmen, rehber öğretmen) başvurmaları gerektiği vurgulanır; Bilgi Teknolojileri ve İletişim Kurumu (BTK)'nun Bilgi İhbar Merkezi gibi resmi kanalları tanıtılır. Çevrim içi emniyet (safety) kavramının yalnızca teknik önlemlerle değil aynı zamanda psikolojik ve sosyal farkındalıkla da ilgili olduğu belirtilir. Okul rehberlik servisinin bu süreçte öğrencilere destek sağlamak, onları doğru yönlendirmek ve güvenli dijital davranışlar kazandırmak açısından önemli bir rol üstlendiği belirtilir. Öğrencilerin hem dijital ortamda karşılaştıkları sorunları ifade etmeleri hem de çözüm yollarını öğrenerek güvenli internet kullanımı konusunda bilinçlenmeleri sağlanır. Öğrenciler küçük gruplar hâlinde kendi belirledikleri bir bilişim etiği ilkesini canlandırırak günlük hayatta kullanılacak şekle dönüştürür (OB1, SDB2.2 ). Diğer gruplardan canlandırılan senaryolar üzerinde fikirlerini belirtmeleri istenir ( SDB2.3 ). Öğrenciler bilişim etiği kural ve ilkelerine uygun davranmanın önem ve etkilerini kendi cümleleriyle yeniden ifade eder.",
+    "Gözlem formu veya puanlama anahtarı kullanılarak her öğrencinin bilişim etiği konusundaki bilgi ve farkındalık düzeyi değerlendirilebilir, bireysel geri bildirim sağlanabilir. Gözlem formu ile öğrencilerin bilişim etiği ilkelerine uygun davranış sergileyip sergilemedikleri ve senaryoları yorumlama becerileri gözden geçirilebilir. Öğrencilerin bilişim etiği ilkeleri hakkındaki bilgi düzeyleri, senaryoları analiz etme ve geri bildirim verme becerileri puanlama anahtarı ile değerlendirilebilir.",
+    "BTY.5.4.2.",
+    "Öğrencilere günlük hayatta interneti ne sıklıkla kullandıkları sorulur. Dijital ortamların ne kadar gizli ve güvenli olduğu hakkında fikirleri alınır ( E1.1 , OB1 ). \"Günlük hayatta dijital ortamda karşılaşabileceğimiz güvenlik tehditleri neler olabilir?\" sorusu sorularak öğrencilerin dijital ortamlarda karşılaşabilecekleri riskleri fark etmeleri sağlanır. Öğretmen, dijital ortamlarda karşılaşılabilecek tehditlere örnekler verir (zararlı yazılımlar, kimlik hırsızlığı, kişisel bilgilerin çalınması, sosyal mühendislik saldırıları vb.) ve öğrencileri bu tehditleri analiz etmek üzere gruplara ayırır. Her grup, sosyal medya, e-ticaret siteleri, çevrim içi bankacılık, oyun platformları gibi belirli bir dijital ortamı seçerek, bu ortamda karşılaşılabilecek gizlilik ve güvenlik risklerini araştırır. Ardından, elde ettikleri bulguları tahtada sunar. Sunumlar sırasında her grup, tespit ettiği tehditleri bilgi güvenliğinin temel bileşenleri olan \"gizlilik, bütünlük ve erişilebilirlik\" bağlamında sınıflandırır. Ayrıca, her tehdidin bireyin dijital güvenliğini (security) mi yoksa çevrim içi emniyetini (safety) mi tehdit ettiğini analiz ederek açıklamalarda bulunur.",
+    "Öğrencilere kişisel verinin ne olduğu sorulur. Öğrenciler birbirleriyle eşleşerek hangi bilgilerin kişisel veri olabileceğini tartışır ( SDB2.1 ). Bu tartışmanın ardından öğrenciler söz alarak fikirlerini sınıfla paylaşır ( SDB2.2 ). Dijital ortamlarda paylaşılması ve paylaşılmaması gereken bilgiler tahtaya yazılır. Öğrenciler, dijital ortamlarda hak ve özgürlüklerden yararlanırken diğer insanların kişisel sınırlarını gözetmeyi öğrenirler. Örneğin bir başkasının izni olmadan fotoğraf veya bilgilerini paylaşmamaları gerektiğini kavrarlar ( D8.4 ). Kişisel verileri genel verilerden ayırt etmek için web 2.0 araçları/e-içerikler üzerinden eşleştirme etkinliği yapılır ( KB2.10 , KB2.13 , E3.2 ). Öğrencilerin dijital ortamlarda kişisel bilgilerini güvenle korumaları ve bu bilgilere kimlerin erişebileceğini dikkatle değerlendirmeleri gerektiği vurgulanır. Kullandıkları sosyal medya araçlarında öğrencilerin kişisel verilerini paylaşmamalarının önemine dikkatleri çekilir. Öğrenciler, sosyal medyada kişisel bilgi, belge ve fotoğraflarının erişilebilirliğini nasıl sınırlayabileceklerini uygulamalı olarak keşfeder ve çevrim içi gizliliği koruma yollarını paylaşır ( D8.2 ).",
+    "Öğretmen önceden hazırlanmış bir dijital güvenlik senaryosunu öğrencilere sunar. Senaryoya göre bir kişinin kişisel bilgilerini korumak için alması gereken güvenlik önlemlerinin neler olabileceği sorulur. Öğrenciler, güçlü şifreler oluşturma, gizlilik ayarlarını kontrol etme, iki faktörlü doğrulama ve güvenli bağlantılar kullanma gibi temel güvenlik önlemlerini bu senaryoya göre belirler ( SDB3.3 ). Bu aşamada, yapay zekâ destekli uygulamaların (örneğin sohbet botları, görsel üreticiler vb.) kullanımıyla ilgili güvenlik risklerine de dikkat çekilir. Öğrencilere \"Yapay zekâ uygulamalarına kişisel bilgilerinizi yazmak güvenli midir? Bu tür araçları kullanırken nelere dikkat etmeliyiz?\" gibi sorular yöneltilir. Öğrencilerden küçük gruplar oluşturmaları, yapay zekâ araçlarını kullanırken dikkat edilmesi gereken güvenlik kurallarını grup olarak belirlemeleri ve kısa bir poster ya da dijital pano hazırlamaları istenir. Öğrencilere güçlü şifre oluşturmak için gerekli kurallar anlatılır (büyük-küçük harf, rakam ya da özel karakter kullanmak vb.). Öğrencilerden birer güçlü şifre örneği oluşturmaları istenir.",
+    "Bilgi güvenliğinin temel bileşenleri olan gizlilik, bütünlük ve erişilebilirlik kavramları öğrencilere açıklanır. Öğrencilere bu kavramların ne anlama geldiği sorulur ve günlük hayatta karşılarına çıkabilecek farklı dijital senaryolar içeren kartlar dağıtılır. Örneğin bir şirketin müşteri bilgilerini yanlışlıkla sızdırması (gizlilik ihlali), önemli bir dosyanın izinsiz değiştirilmesi (bütünlük ihlali) veya bir web sitesine erişimin kesilmesi (erişilebilirlik ihlali) gibi senaryolar yer alır. Öğrenciler senaryoları analiz eder. Verilen senaryolarda hangi güvenlik bileşeninin ihlal edildiğini belirler. Öğrenciler bu senaryolar aracılığıyla dijital ortamlarda gizlilik, bütünlük ve erişilebilirlik kavramlarını ayırt eder. Gruplar bu senaryolardaki güvenlik ihlallerini analiz ederek her bir duruma yönelik alabilecekleri gizlilik ve güvenlik önlemlerini tartışırlar. Örneğin gizlilik ve erişilebilirlik ihlali durumunda kişisel verilerin korunması için alınabilecek önlemleri ya da bütünlük ihlali durumunda veri değişikliklerinin engellenmesi için uygulanabilecek yöntemleri değerlendirirler. Her grup, bu önlemlerle ilgili çözüm önerileri geliştirerek sınıfla paylaşır. Öğrencilere dijital güvenlik konularını daha somut ve anlaşılır şekilde öğretmek amacıyla güçlü parola oluşturma ilkeleri (parolanın uzun olması, harf, rakam ve sembol içermesi gibi) üzerinde durulur. Öğrenciler, örneklerle güçlü ve zayıf parolaları ayırt etmeye yönelik etkinlikler yapabilir. Ayrıca, iki faktörlü kimlik doğrulamanın (örneğin şifre + telefon doğrulaması) ne olduğu ve neden önemli olduğu basit örneklerle açıklanabilir. Web sitelerinin adres çubuğundaki kilit simgesi (HTTPS) işaretinin ne anlama geldiği ve bu tür sitelerin güvenilirlik açısından neden tercih edilmesi gerektiği anlatılır. Öğrencilere, umuma açık kablosuz ağlarında kişisel bilgilerini paylaşmamaları gerektiği vurgulanarak bu ağların taşıdığı riskler fark ettirilir.",
+    "Öğrencilerden derste edinilen kavramları anlamlandırmaları, bu kavramlarla ilişkili dijital kaynak ve ihtiyaçları belirlemeleri ve bu doğrultuda sunum, animasyon, infografik gibi araçları kullanarak özgün bir dijital içerik üretmeleri performans görevi olarak istenir ( OB2 , SDB1.2 ). Bu süreçte öğrencilere internetten alınan görsel, metin, müzik ve benzeri içeriklerin telif hakkı ile korunduğu; bu nedenle bu içerikleri kullanmadan önce kullanım izinlerinin kontrol edilmesi gerektiği vurgulanır. Öğrencilere özgürce kullanılabilecek materyallerin bulunduğu Creative Commons (CC) lisans türleri tanıtılır. CC lisanslarının içerik sahibinin hangi koşullarda paylaşım ve kullanım izni verdiğini gösterdiği açıklanır. Örneğin \"ticari olmayan, alıntı yapılarak kullanılabilir ya da üzerinde değişiklik yapılamaz\" gibi farklı haklar içerebilir. Öğrencilerden, hazırladıkları dijital içeriklerde kullandıkları materyallerin lisans türlerine uygun olduğuna dikkat etmeleri, bu lisans bilgilerini gerekirse çalışmalarda belirtmeleri istenir. Böylece öğrencilerin dijital etik, yasal sorumluluk ve bilgiye saygı çerçevesinde üretim yapmaları teşvik edilir ( OB2 ). Başkalarının haklarına saygılı olmaları için telif hakkı bulunan içeriklerin izinsiz kullanılmasının etik olmayacağı vurgulanır. Örneğin öğrenci sunumunda bir görsel kullanmak istediğinde bu görselin telif durumunu kontrol etmesi gerektiği ve lisanssız içerikler yerine açık kaynak görseller tercih edebileceği açıklanır ( D1.1 ). Toplum ve bilişim etiği arasında ilişki kurulabilir.",
+    "Kontrol listesi veya puanlama anahtarı ile öğrencilerin dijital güvenlik ve gizlilik farkındalıkları değerlendirilerek süreç odaklı geri bildirim sağlanabilir. Kontrol listesi ile öğrencilerin dijital içerik hazırlama sürecinde gizlilik ve güvenlik ilkelerine uyum sağlama düzeyleri gözden geçirilebilir. Puanlama anahtarı ile öğrencilerin dijital içerik hazırlama sürecindeki telif haklarına dikkat etme, güçlü şifre oluşturma ve kişisel veri koruma becerileri değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.1",
+      "D8.2",
+      "D8.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/677"
+}

@@ -1,0 +1,65 @@
+{
+  "unitId": 98032905,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "5. ÖĞRENME ALANI: DOĞRUSAL DENKLEMLER",
+  "hours": "30",
+  "description": "Terimler veya kavramlar: bağımlı değişken, bağımsız değişken, doğrusal denklem, eğim",
+  "outcomes": [
+    {
+      "code": "M.8.2.2.1",
+      "title": "Birinci dereceden bir bilinmeyenli denklemleri çözer",
+      "processComponents": [
+        "Bu sınıf düzeyinde katsayıları rasyonel sayı olan denklemlere yer verilir."
+      ]
+    },
+    {
+      "code": "M.8.2.2.2",
+      "title": "Koordinat sistemini özellikleriyle tanır ve sıralı ikilileri gösterir",
+      "processComponents": [
+        "Koordinat sistemi üzerinde yer belirlemeyle gerçek hayat durumlarını ilişkilendirmeye yönelik çalışmalara yer verilir."
+      ]
+    },
+    {
+      "code": "M.8.2.2.3",
+      "title": "Aralarında doğrusal ilişki bulunan iki değişkenden birinin diğerine bağlı olarak nasıl değiştiğini tablo ve denklem ile ifade eder",
+      "processComponents": [
+        "Tablo ile yapılan gösterimlerde sıralı ikililer biçiminde ifadelere de yer verilir.",
+        "İki değişkenden birinin değerinin, diğer değişkenin aldığı değere göre nasıl değiştiği ve bu durumda hangisinin bağımlı hangisinin bağımsız değişken olduğu incelenir."
+      ]
+    },
+    {
+      "code": "M.8.2.2.4",
+      "title": "Doğrusal denklemlerin grafiğini çizer",
+      "processComponents": [
+        "Doğrunun eksenleri hangi noktalarda kestiği, eksenlere paralelliği, orijinden geçip geçmediği durumlar ele alınır."
+      ]
+    },
+    {
+      "code": "M.8.2.2.5",
+      "title": "Doğrusal ilişki içeren gerçek hayat durumlarına ait denklem, tablo ve grafiği oluşturur ve yorumlar",
+      "processComponents": [
+        "Doğrunun grafiği yorumlanırken doğru üzerindeki noktaların x ve y koordinatları arasındaki ilişki, eksenleri hangi noktalarda kestiği, orijinden geçip geçmediği, eksenlere paralelliği durumları ele alınır."
+      ]
+    },
+    {
+      "code": "M.8.2.2.6",
+      "title": "Doğrunun eğimini modellerle açıklar, doğrusal denklemleri ve grafiklerini eğimle ilişkilendirir",
+      "processComponents": [
+        "Eğimin işaretinin ve büyüklüğünün anlamı üzerinde durulur.",
+        "Günlük hayatla ilişkili modellemelerde eğimin dikey uzunluğun yatay uzunluğa oranı olduğu dikkate alınarak işareti üzerinde durulmaz.",
+        "Gerektiğinde uygun bilgi ve iletişim teknolojilerinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Cebir",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

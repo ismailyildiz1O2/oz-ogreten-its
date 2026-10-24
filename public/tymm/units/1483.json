@@ -1,0 +1,39 @@
+{
+  "unitId": 1483,
+  "grade": 0,
+  "gradeName": "DÜŞÜNME EĞİTİMİ DERSİ DÜZEY II",
+  "subject": "Düşünme Eğitimi Dersi",
+  "title": "DÜZEY II · 2. Ünite: Açıklama Türleri",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DE.2.2.1",
+      "title": "Açıklama türleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Açıklama türleri hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Açıklama türleri hakkında bilgiler bulur.",
+        "ç) Açıklama türleri hakkında ulaştığı bilgileri kaydeder"
+      ]
+    }
+  ],
+  "keyConcepts": "açıklama, anlama, bilgi, kaynak çeşitliliği, malumat, örüntü tanıma, tutarlılık, veri, yeterli/yetersiz açıklama",
+  "support": [
+    "Öğrencilere “Cam kırıldı ... taş çarptı.” , ” Okulu bitirmek ... ders çalışmalıyım.\" cümleleri verilerek açıklama türlerine göre tamamlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere \"Kredi kartı kullanımı yaygınlaştı.\" şeklinde bir durum tespiti verilerek bu durum üzerinden farklı düşünme türlerine göre açıklama geliştirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; açık uçlu sorular, tartışma, beyin fırtınası, çalışma kâğıdı, zihin haritası, dijital sunum veya poster çalışması, kontrol listesi, performans görevi, gözlem formu, dereceli puanlama anahtarı, grup değerlendirme formu ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden açıklama türleri ile ilgili dijital bir sunu hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "DE.2.2.1",
+    "Açıklama türleri hakkında yazılı ve görsel kaynaklar öğretmen rehberliğinde belirlenir ( OB1 , OB4 ). Öğrencilere bilgi toplayabilmeleri için “Bu bilgiye nereden ulaşabiliriz?” sorusu sorularak beyin fırtınası yaptırılır ( SDB2.1 ). Ayrıca dijital kaynaklardan da yararlanılabilir ( OB2 ).",
+    "Bunun için ders kitapları, bilim ve tarih dergileri, görsel materyaller, kütüphaneler, akademik kaynaklar, öğretmen görüşmeleri, belgeseller veya güvenilir genel ağ siteleri (gov., edu. vb.) kullanılabilir ( OB1 , OB2 , OB4 ). Bu kaynakları listelemek için öğrencilere bir tablo hazırlatılabilir. Öğrenciler, öğretmen rehberliğinde 3-5 kişilik gruplara ayrılır. Gruplara ayrılan öğrencilerden bilgi kaynaklarından açıklama türleri hakkında araştırmalar yapmaları istenir ( SDB2.2 ). Açıklama türleri hakkında ulaşılan bilgileri doğrulamak amacıyla toplanan bilgilerin güvenilirliği ve kaynak çeşitliliği kontrol edilir. Farklı kaynaklardan bilgilerin tutarlılığı sorgulanır ( E3.10 ). Bilgilerin güncelliği gözden geçirilir. Öğrencilerden ulaşılan bilgileri farklı türden kaynaklarla karşılaştırmaları ve gruplardan buldukları bilgileri birbirleriyle karşılaştırarak doğrulamaları istenir ( E3.10 ). Öğrencilerin açıklama türleri hakkında ulaştıkları bilgileri kaydetmeleri amacıyla zihin haritası, dijital sunum veya poster şeklinde kayıt altına almaları, sınıf panosunda paylaşmaları ve sergilemeleri istenir ( D3.3 , E1.4 ). Ünite sonunda işlenen konularla ilgili Türk-İslam düşünürlerinin eserlerinden örnek metinler verilerek öğrenciler düşünmeye yönlendirilebilir.",
+    "Performans görevi olarak öğrencilerden açıklama türleri ile ilgili dijital bir sunu hazırlamaları istenebilir. Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1483"
+}

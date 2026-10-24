@@ -1,0 +1,80 @@
+{
+  "unitId": 429,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "2. ÜNİTE: KUVVET VE ENERJİYİ KEŞFEDELİM",
+  "hours": "20",
+  "description": "Bu ünitede bir cisme etki eden kuvvet sonucunda fiziksel anlamda yapılan işin bağlı olduğu faktörlere yönelik çıkarım yapılması, günlük yaşamından örnekler üzerinden fiziksel anlamda iş yapma durumlarının analiz edilmesi, fiziksel anlamda yapılan iş ve enerji kavramı arasında ilişki kurulması, kinetik ve potansiyel enerjinin karşılaştırılıp niteliklerinin belirlenmesi, enerjinin korunumundan hareketle kinetik ve potansiyel enerjinin birbirine dönüşümüne yönelik akıl yürütülmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Kuvvet, İş ve Enerji İlişkisi",
+      "processComponents": []
+    },
+    {
+      "code": "FB.7.2.1.1",
+      "title": "Fiziksel anlamda yapılan işin bağlı olduğu faktörlere ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Fiziksel anlamda yapılan işin niteliklerini tanımlar.",
+        "b) Fiziksel anlamda yapılan işin farklı örneklerini gözlemleyerek verileri toplar ve kaydeder.",
+        "c) Fiziksel anlamda yapılan işin kuvvet ve yer değiştirmeye bağlı olduğunu yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.7.2.1.2",
+      "title": "Enerji çeşitlerinden kinetik ve potansiyel enerjiyi karşılaştırabilme",
+      "processComponents": [
+        "a) Kinetik ve potansiyel enerjinin özelliklerini belirler.",
+        "b) Kinetik ve potansiyel enerjinin benzer özelliklerini listeler.",
+        "c) Kinetik ve potansiyel enerjinin farklı özelliklerini listeler. 2. Bölüm: Enerji Dönüşümleri"
+      ]
+    },
+    {
+      "code": "FB.7.2.2.1",
+      "title": "Enerji dönüşümünden hareketle enerjinin korunduğu tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Kinetik ve potansiyel enerjinin birbirine dönüşümüne yönelik örüntü bulur.",
+        "b) Enerjinin korunumuna yönelik genelleme yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "iş, enerji, joule, kinetik ve potansiyel enerji (esneklik ve çekim), ısı, kalori",
+  "support": [
+    "Eğitsel dijital içeriklerden video, animasyon, simülasyon vb. kullanılarak soyut kavramların somutlaştırılmasında, kavramsal anlayışın kolaylaştırılmasında ve pekiştirilmesinde kullanılabilir. Araştırma problemlerine yönelik çalışma süreçlerinde öğrenci seviyelerine uygun problemler hazırlanarak tüm öğrencilerin ilgili çalışmalara katılımları sağlanabilir."
+  ],
+  "enrichment": [
+    "Mühendislik ve tasarım sürecini kullanarak enerji dönüşümlerine yönelik kodlama veya FETEMM eğitim anlayışına uygun araç tasarımları ya da modelleri oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, eşleştirme testi ve performans görevi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Kinetik ve potansiyel enerjinin birbirine dönüştürülmesine ilişkin balık kılçığı diyagramı kullanılabilir. Bu performans görevi analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Ayrıca öz, akran ve grup değerlendirme formları ile ölçme araçlarında çeşitlilik sağlanabilir."
+  ],
+  "teachingApplications": [
+    "FB.7.2.1.1. Kuvvetin cisimler üzerindeki etkisine yönelik açık uçlu sorular yöneltilerek beyin fırtınası tekniği ile öğrencilerin fikirleri alınır ( E3.5 ) . Bu fikirlerden yola çıkarak fiziksel anlamda yapılan işin niteliklerini tanımlamaları sağlanır. Öğrencilere günlük yaşamdan görsel örnekler içeren çalışma kâğıdı dağıtılır ( OB4 ) . Verilen örnekler incelenerek cismin hareket doğrultusu ve cisme uygulanan kuvvetin büyüklüğü, yönü ve doğrultusuyla ilgili gözlem verilerini matris tabloya kaydetmeleri sağlanır ( OB7 , KB2.6 ) . Öğrencilere, cisme bir kuvvet uygulanması ve cismin uygulanan kuvvetle aynı doğrultuda yer değiştirmesi sonucunda fiziksel anlamda iş yapılabileceği vurgusu yapılır. Öğrencilerden verileri yorumlayarak fiziksel anlamda iş yapma durumuna göre günlük yaşam örneklerini değerlendirmeleri istenir ( OB7 ) . Öğrencilerin fiziksel anlamda yapılan iş ile günlük yaşamda kullandığı iş kavramlarının birbirinden farklı olduğunu keşfetmeleri sağlanır ( OB1 ) . Ardından fiziksel anlamda yapılan işin birimi \"joule\" olarak tanımlanır. Değerlendirme için çalışma kâğıdı kullanılabilir.",
+    "FB.7.2.1.2. Öğrencilerin günlük yaşamda karşılaşılan fiziksel anlamda iş yapma örneklerini görsel olarak incelemeleri sağlanabilir. Bu örnekler üzerinden iş ve enerji kavramları arasında ilişki kurmaları istenebilir. Günlük yaşamdan cisimlerin hareketi dikkate alınarak enerji çeşitleri hakkında sorular sorulabilir. Enerji çeşitlerinden kinetik ve potansiyel enerjiye odaklanılır. Esneklik ve çekim potansiyel enerji çeşitlerine değinilir. Kinetik ve potansiyel enerjiyle ilgili günlük yaşam örneklerine ait görseller öğrencilerin etkin katılım ile incelemeleri sağlanır ( SDB2.1 , OB4 ) . Bu görsellerdeki enerjiyi, bir cismin hareketinden veya konumundan dolayı sahip olduğu enerji olarak sınıflandırması sağlanır. Öğrencilerden sınıflandırma sonuçları üzerinden akıl yürütüp cismin hareketi ve konumundan çıkarım yapmaları, kinetik ve potansiyel enerji kavramlarına ilişkin özellikleri belirlemeleri istenir ( OB4 ) . Öğrencilere günlük yaşam örneklerinden yola çıkılarak kinetik ve potansiyel enerji kavramları arasındaki benzerlik ve farklılıklar sorulur. Öğrencilerin aktif bir rol sergileyerek elde ettikleri verilerden çıkarım yaparak verilen çalışma kâğıdı üzerinden kendi cümleleri ile soruları cevaplamaları, benzerlik ve farklılıkları listelemeleri istenir ( D3.4 , OB7 ) . Öğrenciler bu sırada merak ettiği soruları sorulur ( E1.1 , E3.8 ) . Süreç içerisinde kinetik ve potansiyel enerji kavramları dışında enerji çeşitlerine girilmez. Sürecin pekiştirilmesi için etkinlikler, rol oynama tekniği ve dijital içerikler kullanılabilir. Değerlendirme aracı olarak çalışma kâğıdı kullanılabilir.",
+    "FB.7.2.2.1. Öğrencilerden kinetik ve potansiyel enerjinin birbirine dönüşmesine ilişkin günlük yaşamından örnekler vermeleri istenebilir. Sınıf veya laboratuvar ortamında basit araç gereçler kullanarak sarkaç, serbest düşmeye bırakılan cisim, sarmal yaylar, eğik düzlem vb. cismin hareketi gibi gözleme dayalı etkinlikler yapılabilir. Öğretmen rehberliğinde öğrencilerin etkin katılımıyla bu örneklere ilişkin gözlemleri karşılaştırmaları sağlanır ( SDB2.1 ) . Öğrencilerin yükseklik, kütle ve hız kavramlarına ilişkin gözlemlerini değerlendirerek kinetik ve potansiyel enerjinin birbirine dönüşebildiğine yönelik örüntü bulmaları sağlanır. Bu örüntülerden yola çıkarak kinetik ve potansiyel enerjinin birbirine dönüşebileceği, süreç içerisinde enerjinin yok olamayacağı, bir türden başka bir türe dönüşmesi sonucunda enerjinin korunacağına yönelik genelleme yapmaları sağlanır ( OB1 , OB7 ) . Ayrıca enerji dönüşümlerinde sürtünme kuvvetinin olumsuz etkisine ve ihmal edildiğine vurgu yapılır. Kinetik ve potansiyel enerjinin birbirine dönüşümleri ile ilgili matematiksel bağlantılara girilmez. Öğrencilerin hazırladıkları balık kılçığı diyagramında sürtünmenin olumlu ve olumsuz etkilerini göstermeleri sağlanabilir. Bu süreçte yüzeyin özellikleri, sürtünme kuvvetinin niteliği ve günlük yaşamda olumlu ve olumsuz etkileri ile neden sonuç ilişkisi boyutlarını içeren analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Ayrıca öz, akran ve grup değerlendirme formları ile ölçme araçlarında çeşitlilik sağlanabilir. Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( D1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/429"
+}

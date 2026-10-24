@@ -1,0 +1,63 @@
+{
+  "unitId": 1628,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Astronomi ve Uzay Bilimleri Dersi",
+  "title": "3. Ünite: Gök Cisimlerinin Görünür Hareketi",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AST.3.1",
+      "title": "Gök cisimlerinin hareketlerini açıklamakta kullanılan temel kavramları yorumlayabilme",
+      "processComponents": [
+        "a) Gök cisimlerinin hareketlerini açıklamakta kullanılan temel kavramları inceler.",
+        "b) Gök cisimlerinin hareketlerini açıklamakta kullanılan temel kavramları bağlamdan kopmadan dönüştürür.",
+        "c) Gök cisimlerinin hareketlerini açıklamakta kullanılan temel kavramları yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "AST.3.2",
+      "title": "Gök cisimlerinin günlük görünür hareketlerinin nedeni hakkında tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Gök cisimlerinin günlük görünür hareketlerini gözlemler.",
+        "b) Gök cisimlerinin günlük görünür hareketleri ile Yer’in kendi ekseni etrafındaki dönüşü arasında örüntü bulur.",
+        "c) Gök cisimlerinin günlük görünür hareketleri hakkında genelleme yapar."
+      ]
+    },
+    {
+      "code": "AST.3.3",
+      "title": "Yer’in eksen eğikliği ve Güneş etrafındaki dolanımı nedeniyle Güneş’in yıllık görünür hareketine bağlı olarak, Güneş’in doğma ve batma noktalarının yıl boyunca değişimini ve izlediği yörüngeyi bilimsel gözlemlere dayalı olarak tahmin edebilme",
+      "processComponents": [
+        "a) Yer’in eksen eğikliği ve Güneş etrafındaki dolanımı nedeniyle Güneş’in yıllık görünür hareketine bağlı olarak, Güneş’in doğma ve batma noktalarının yıl boyunca değişimi ve izlediği yörüngeye ilişkin ön bilgi ve deneyimleriyle önerme oluşturur.",
+        "b) Yer’in eksen eğikliği ve Güneş etrafındaki dolanımı nedeniyle Güneş’in yıllık görünür hareketine bağlı olarak, Güneş’in doğma ve batma noktalarının yıl boyunca değişimi ve izlediği yörüngeye ilişkin gözleme dayalı olan önermeleri karşılaştırır.",
+        "c) Yer’in eksen eğikliği ve Güneş etrafındaki dolanımı nedeniyle Güneş’in yıllık görünür hareketine bağlı olarak, Güneş’in doğma ve batma noktalarının yıl boyunca değişimi ve izlediği yörüngeye ilişkin tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Yer’in eksen eğikliği ve Güneş etrafındaki dolanımı nedeniyle Güneş’in yıllık görünür hareketine bağlı olarak, Güneş’in doğma ve batma noktalarının yıl boyunca değişimi ve izlediği yörünge ile ilgili gözlemlenmemiş duruma ilişkin tahminde bulunur.",
+        "d) Yer’in eksen eğikliği ve Güneş etrafındaki dolanımı nedeniyle Güneş’in yıllık görünür hareketine bağlı olarak, Güneş’in doğma ve batma noktalarının yıl boyunca değişimi ve izlediği yörünge ile ilgili tahminlerinin geçerliliğini sorgular."
+      ]
+    }
+  ],
+  "keyConcepts": "çevren çemberi, çevren düzlemi, eşlek çemberi, gök eşleği, gök küre, gök uçlağı, nadir, tutulum çemberi, yer eşleği, zenit",
+  "support": [
+    "Öğrencilerden Güneş’in yıllık görünür hareketini Güneş’in yıl boyunca birer ay aralıklarla çekilmiş fotoğrafları üzerinden yorumlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler grup çalışmasıyla Güneş ışınlarının Dünya üzerine düşme açısını kullanarak Dünya’nın yaklaşık çevresini hesaplayabilir. Öğrenciler havanın açık olduğu bir gecede Kutup Yıldızı’nı merkeze alıp birkaç saatlik uzun pozlama yaparak çektikleri fotoğraflardan oluşan bir sergi açabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, çıkış kartı, yansıtıcı yazı, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden yıl içinde Güneş’in doğma ve batma noktalarındaki değişimini gösteren bir model veya poster hazırlamaları istenebilir. Model veya postere gün dönümleri (21 Haziran, 21 Aralık) ve ekinokslar (21 Mart, 23 Eylül) dâhil edilir. Performans görevi öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AST.3.1.",
+    "Öğrencilere gök cisimlerinin hareketlerini açıklamakta kullanılan temel kavramlara (gök küre, zenit, nadir, çevren düzlemi, çevren çemberi, yer eşleği, gök eşleği, eşlek çemberi, tutulum çemberi ve gök uçlağı) ilişkin bilgi kartları ve görseller sunulur ( OB4 ). Öğrencilerden bu materyalleri incelemeleri istenir. Daha sonra öğretmen tarafından farklı coğrafi konumlarda bulunan gözlemcilere ait yer ve gök küre görselleri ya da dijital içerikler verilir. Öğrencilerden bu içerikler üzerinde temel kavramları çizerek göstermeleri ve gök cisimlerinin gözlemcinin bulunduğu konumlara göre nasıl değişiklik gösterdiğini açıklamaları beklenir ( E3.7 ). Gök cisimlerinin hareketini açıklamakta kullanılan kavramlar konusunda öğrencilerin öz değerlendirmeleri için 3-2-1 çıkış kartı kullanılabilir.",
+    "AST.3.2.",
+    "Öğretmen, öğrencilerden gök cisimlerinin gökyüzündeki günlük görünür hareketlerinin nasıl olacağını tahmin etmelerini isteyebilir. Öğrencilerin Kutup Yıldızı civarından birkaç saatlik uzun pozlama yapılarak çekilmiş yıldız izi görselleri veya dijital içeriklerden yararlanarak gök cisimlerinin günlük görünür hareketlerini gözlemlemesi sağlanır ( OB2 , OB4 ). Öğrencilerden toplam çekim süresinin 24 saat olması durumunda yıldızların açısal yer değiştirmesinin kaç derece olacağını tahmin etmeleri istenir. Öğrenciler düşüncelerini sınıf ortamında düşün-eşleş- paylaş veya vızıltı grupları gibi tartışma teknikleri ile ifade ederek tartışır ( SDB2.1 , D9.2 ).",
+    "Öğrenciler gök cisimlerinin görünür günlük hareketi ile Yer’in kendi ekseni etrafındaki dönüşü arasındaki örüntüyü bulur. Öğrenciler, görsel veya animasyondaki hareketsiz noktanın Kutup Yıldızı olduğu ve Yer’in dönme ekseninin uzantısının kuzey yarım kürede bu yıldızın çok yakınından geçtiği bilgilerinden hareketle gök cisimlerinin günlük görünür hareketlerini geneller ( OB7 ). Öğrenciler bir simülasyon yardımıyla ulaştıkları genellemelerin doğruluğunu test eder. Öğretmen tarafından doğup batan, hiç batmayan ve hiç doğmayan yıldızlar vurgulanır. Öğrenciler gök cisimlerinin günlük görünür hareketlerinin nedeni konusunda oluşturulan açık uçlu sorular ile değerlendirilebilir.",
+    "AST.3.3.",
+    "Öğretmen tarafından öğrencilere gökyüzünde görülebilen takımyıldızlarıyla ilgili bilgilendirme yapılır. Öğrenciler kuzey yarım kürede herhangi bir konumdaki gözlemci için verilen görsel üzerinde tutulum çemberindeki Güneş’in konumunu dikkate alarak Yer’in eksen eğikliği, kendi ekseni etrafında dönüşü ve Güneş etrafındaki dolanma hareketi sonucunda Güneş’in görünen doğma, batma noktalarının değişimi ile gökyüzünde izlediği yörünge hakkında tahminde bulunur. Öğrenciler aynı konum ve farklı tarihler için Güneş’in günlük hareketinin değişimine dair ön bilgileriyle önermede bulunur ( SDB1.2 ). Öğrenciler beş gün boyunca Güneş’in doğma ve batma noktaları ile gökyüzünde izlediği yörüngeyi gözlemleyerek görselleştirir ( OB4 ). Öğrenciler yıl boyunca Güneş’in doğma-batma noktalarıyla gökyüzünde izlediği yörüngenin nasıl değiştiği konusunda yaptıkları tahmin ile gözlem sonuçlarını karşılaştırarak öğretmenlerinin rehberliğinde yorumlar ( D6.2 ). Öğrenciler Dünya üzerinde Türkiye’nin dışında (kutup noktaları, Ekvator, güney yarım küre gibi) farklı konumlardaki gözlemciler için Güneş’in doğma-batma noktalarıyla gökyüzünde izlediği yörüngenin nasıl değişeceğini tahmin eder ( KB2.19 ). Öğrenciler bir simülasyon yardımıyla tahminlerinin geçerliliğini sorgular ( E3.10 ). Öğretmen tarafından Güneş’in yıllık görünür hareketinin sonuçlarına ilişkin mevsimlerin oluşumu, analemma gibi örnekler verilir. Öğrencilerden öğrenme süreciyle ilgili yansıtıcı yazı yazmaları istenebilir. Performans görevi olarak öğrencilerden yıl içinde Güneş’in doğma ve batma noktalarındaki değişimini gösteren veya analemma olayını açıklayan bir model ya da poster hazırlamaları istenebilir. Model veya postere gün dönümleri (21 Haziran, 21 Aralık) ve ekinokslar (21 Mart, 23 Eylül) dâhil edilir. Performans görevi, öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "FBAB3. Bilimsel Gözleme Dayalı Tahmin"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1628"
+}

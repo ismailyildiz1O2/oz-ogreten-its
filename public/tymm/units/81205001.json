@@ -1,0 +1,86 @@
+{
+  "unitId": 81205001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Dünyası Coğrafyası Dersi",
+  "title": "1. ÜNİTE: TÜRK HALKLARINDA COĞRAFİ ANLAYIŞIN OLUŞUMU",
+  "hours": "24",
+  "description": "Bu ünitede Türk dünyasında coğrafya biliminin gelişimi, Türk kültürünün doğuşu, gelişimi ve özelliklerinin mekânla ilişkisi ile Türk dünyasının doğal, tarihî ve kültürel miras unsurları ele alınacaktır. Bu doğrultuda sırasıyla “Eski Türklerde Coğrafi Düşünce ve Anlayışlar, Eski Türklerde Coğrafi Terimler, Muhtelif Dönemlere Ait Kaynaklarda Türk Dünyası, Türk Dünyası ve Büyük İpek Yolu, Türk Dünyasının Kutlu Coğrafyası” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TDC.1.1.1",
+      "title": "Türklerde coğrafya biliminin gelişimine katkı sağlayan bilim insanları ve araştırmacıların çalışmalarını değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.1.2",
+      "title": "Türk kültürünün doğuşu, gelişimi ve özelliklerini mekân ilişkisi bakımından analiz eder",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.2.1",
+      "title": "Türk dünyasındaki coğrafi terimleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.2.2",
+      "title": "Türk dünyasındaki yer adlarını harita üzerinde gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.3.1",
+      "title": "Eski Yunan, Çin, Arap ve Fars kaynakları ve ünlü seyyahların eserlerinde geçen Türklere ilişkin bilgileri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.3.2",
+      "title": "Modern dönem bilim insanlarının Türk Dünyasına ilişkin görüşlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.3.3",
+      "title": "Türk kaynaklarında geçen coğrafi bilgilerin gelişimini analiz eder",
+      "processComponents": [
+        "Manas Destanı, Dede Korkut Kitabı, Dîvânu Lugâti't-Türk vb. kaynaklara yer verilir."
+      ]
+    },
+    {
+      "code": "TDC.1.4.1",
+      "title": "İpek Yolu'nun oluşmasında ve gelişmesinde Türk medeniyetinin rolünü değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.4.2",
+      "title": "Büyük İpek Yolu'nun çağdaş Türk devletlerinin ekonomik gelişimindeki rolünü analiz eder",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.4.3",
+      "title": "Türk dünyasının doğal, tarihî ve kültürel miras unsurlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.5.1",
+      "title": "Türk dünyası için özel önem taşıyan doğal, tarihî ve kültürel miras unsurlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.5.2",
+      "title": "Türk dünyası için ülkeler bazında özel önem taşıyan doğal, tarihî ve kültürel miras unsurlarının haritasını oluşturur",
+      "processComponents": []
+    },
+    {
+      "code": "TDC.1.5.3",
+      "title": "Yaşadığı çevrede Türk dünyası için özel önem taşıyan doğal, tarihî ve kültürel miras unsurlarının tanıtılmasına dair projeler oluşturur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2022122102631807-T%C3%BCrk%20D%C3%BCnyas%C4%B1%20Co%C4%9Frafyas%C4%B1%20d%C3%B6p.pdf"
+}

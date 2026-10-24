@@ -1,0 +1,64 @@
+{
+  "unitId": 1464,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Medya Okuryazarlığı Dersi",
+  "title": "3. Ünite: Dijital Dünyada Yaşam",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MOY.3.1",
+      "title": "Yapay zekâ kavramının medya üzerindeki etkisini sorgulayabilme",
+      "processComponents": [
+        "a) Yapay zekâ kavramının medyadaki kullanım alanlarını tanımlar.",
+        "b) Yapay zekâ kavramının medya içerikleri ve kullanıcıları üzerindeki etkisiyle ilgili sorular sorar.",
+        "c) Yapay zekâ kavramının medya içerikleri ve kullanıcıları üzerindeki etkisiyle ilgili bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu farklı kaynaklarla karşılaştırarak değerlendirir.",
+        "d) Yapay zekâ kavramının medya üzerindeki etkisiyle ilgili çıkarımda bulunur."
+      ]
+    },
+    {
+      "code": "MOY.3.2",
+      "title": "Dijital ayak izinin medyada nasıl kullanıldığını fark ederek günlük yaşamına yansıtabilme",
+      "processComponents": [
+        "a) Günlük yaşamındaki medya kullanım deneyimlerini gözden geçirir.",
+        "b) Medya kullanım deneyimlerine dayanarak dijital ayak izi hakkında çıkarımda bulunur.",
+        "c) Dijital ayak izinin medya içeriklerinde nasıl kullanıldığına dair çıkarımlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "MOY.3.3",
+      "title": "Günlük yaşamda karşılaştığı siber zorbalık problemlerini çözme",
+      "processComponents": [
+        "a) Günlük yaşamda karşılaşabileceği siber zorbalık durumlarıyla ilgili örnek bir problem yapılandırır.",
+        "b) Yapılandırdığı siber zorbalıkla ilgili örnek problemi özetler.",
+        "c) Siber zorbalığa maruz kalmamak için nelere dikkat etmesi gerektiğiyle ilgili tahminlerde bulunur.",
+        "ç) Siber zorbalığa maruz kalındığında neler yapılması gerektiğiyle ilgili akıl yürütür.",
+        "d) Bulduğu çözümlere yönelik değerlendirme yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "algoritma, ayak izi farkındalığı, denetimsiz alan, dijital ayak izi, dijital medya, etik farkındalık, etik problem, kişisel verilerin korunması, manipülasyon, sanal ortam, siber nezaket, siber zorbalık, siber zorbalığa dayanıklılık, yapay zekâ, X-Y-Z kuşağı",
+  "support": [
+    "Öğrencilere medyada zorbalık konulu örnek bir olay okunur, “Senin başına bu olay gelseydi ne yapardın?” sorusu sorulur. Öğrencinin empati yaparak düşüncelerini yazması istenir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, yapay zekâ araçlarındaki görsel blok uygulamalarından birini kullanarak “Gelecekteki Okul Kütüphanesi” veya “Mars’ta Piknik Yapan Çocuklar” gibi hayalî sahneler tasarlamaları istenir. Ardından öğrencilere “Tasarlanan görsel, gerçek bir fotoğraftan ayırt edilebiliyor mu?” sorusu yöneltilerek görselin gerçeklik algısı üzerine tartışma yapılır. Öğret men tarafından medyada manipülasyona veya etik dışı reklam kullanımına ilişkin “kısa hikâ yeler ya da senaryolar” hazırlanabilir. Bu senaryolar üzerinden öğrencilere, “Bu durumda ne yapardın?” ve “Bu haberin toplum üzerindeki etkileri neler olabilir?” gibi sorular yöneltilerek eleştirel düşünmeleri sağlanabilir. Öğrencilerden, bir medya içeriğinin (örneğin bir reklamın) oluşturulma sürecini canlandırmaları istenebilir. Ardından hazırlanan görseller incelenerek “Görseldeki hangi ayrıntılar (ışık, gölge, insan uzuvları, yazılar veya nesne oranları) bu sahne nin bir insan tarafından çekilmiş gerçek bir fotoğraf değil de yapay zekâ tarafından üretilmiş bir görsel olduğunu düşündürüyor?” sorusu üzerinde değerlendirme yapılabilir. Öğrencilere ayrıca “Bu görsel bir sosyal medya platformunda veya haber sitesinde gerçek bir olaya aitmiş gibi paylaşılsaydı insanları yanıltma ihtimali ne olurdu?” ve “Bu görselin yapay zekâ tarafından üretildiğini doğrulamak için hangi yöntemleri kullanabilirdik?” soruları yö neltilerek öğrencilerin medya içeriklerini sorgulama, doğrulama ve eleştirel değerlendirme becerileri geliştirmeleri desteklenebilir. Öğrencilerden yapay zekâ araçlarındaki müzik/ses blok uygulamalarından birini kullanarak üzerine 30 saniyelik bir şarkı yapmaları istenir. Öğrencilere “Bu şarkıyı bir insan mı yoksa makine mi besteledi?” sorusu sorulabilir. Öğrencilerden medyada karşılaştıkları bu tür içe riklerle ilgili düşüncelerini paylaşmaları istenebilir. Öğrencilerden televizyonda en çok neyi izledikleriyle ilgili sınıfta mini bir anket çalışması yapmaları ve çalışmalarını frekans dağılımı nı gösteren bir liste ile yansıtmaları istenebilir. Öğrencilere dijital etik ile ilgili kurallar listesi yaptırılabilir."
+  ],
+  "assessment": [
+    "Bu ünitede yer alan öğrenme çıktıları performans görevleri, kontrol listesi, kavram ağı haritası, listeleme formu, gözlem formu, öz değerlendirme formu, akran değerlendirme formu, beyin fırtınası, eşleştirme oyunu, panel, ödev, grup çalışması, dereceli puanlama ölçeği, tanılayıcı dallanmış ağaç, listeleme formu vb. ile değerlendirilebilir. Dijital ayak izinin önemi hakkında farkındalık oluşturmak için “Genel ağda paylaştığın bir şeyin ileride sana zarar verebileceğini düşündün mü?” temalı bir metin yazmaları veya di jital ayak izinin olumlu ve olumsuz yönlerini içeren bir afiş ya da poster tasarlama perfor mans görevlerinden biri verilebilir."
+  ],
+  "teachingApplications": [
+    "MOY.3.1.",
+    "Öğretmen, öğrencilerden yapay zekâ kavramının medyanın üretim sürecinde ve içerik dağıtımında getirdiği değişimlere ilişkin merak ettikleri konuları tanımlamalarını ister ( E1.1 ). Ardından öğretmen, yapay zekânın medya dünyasındaki işlevi ve medyanın bu teknolojiyi nasıl şekillendirdiği üzerine tartışma soruları yöneltir ( E3.4 ). Öğretmen rehberliğinde gruplara ayrılan öğrenciler; yazılı, görsel ve dijital kaynaklardan yapay zekânın medya kullanım alanlarını (haber üretimi, veri analizi, izleyici davranışları, içerik yönetimi vb.) araştırır ve bilgi toplama süreçlerini yürütürler ( OB1 , OB2 , SDB2.2 , KB2.6 ). Öğrenciler, ulaştıkları farklı kaynaklar ve örnekler üzerinden yapay zekânın medyada kullanım biçimlerini değerlendirir ( E3.6 ). Öğretmen, öğrencilerden bir haberin yapay zekâ tarafından nasıl analiz edilebileceği veya yönlendirilebileceği konusunda araştırma yapmalarını ister ( E3.1 ). Bu süreçte haberlerin doğruluğu, yapay zekânın süreçteki rolü temel alınarak analiz edilir. Öğrenciler, yapay zekâ kullanılan ve kullanılmayan medya içeriklerini karşılaştırırlar. Dijital dünyada nezaket, millî ve manevi değerlere saygı ve bunları koruma bilinciyle ( D14.1 , D14.3 ) bu teknolojilerin gelecekte medya içerikleri ve kullanıcıları üzerindeki etkileri ne dair çıkarımlarda bulunurlar ( SDB3.3 , KB2.10 ). Tüm bu çalışmalarla öğrencilerin medya içeriklerini çözümleme ve değerlendirme sürecinde güçlü eleştirel düşünme becerileri geliştirmeleri sağlanır. Öğrencilerin, algoritmaların dijital ortamda karşılarına çıkan içerikleri filtreleyen ve yönlendiren birer yapı olduğunu fark etmelerini sağlayacak incelemelere yer verilir. Öğretmen, içerik inceleme sürecinde algoritmaların sadece bir araç değil aynı zamanda izleme alışkanlıklarını yönlendiren bir yönetici olduğunu öğrencilere fark ettirir ( KB3.3 ).",
+    "MOY.3.2.",
+    "Öğrenciler; genel ağda yaptıkları etkinlikler, en çok çevrim içi oldukları alanlar ve arama kayıtlarından medya kullanım alışkanlıklarına kadar dijital etkinliklerinin izlenebilirliği gerçeğini tartışırlar. Öğretmen, Kişisel Verileri Koruma Kanunu (KVKK) hakkında kısaca bilgi verir. Bu tartışmanın ardından öğrencilerden kendi dijital geçmişlerini gözden geçirmeleri istenir ( OB2, SDB1.1 ). Öğrencilerin dijital ortamlarda kişisel veri güvenliği ile mahremiyet arasındaki ilişkiyi farketmeleri, kendilerinin ve başkalarının özel yaşamın gizliliğine saygı göstererek paylaşım yapmaları sağlanır. Öğrenciler haber bültenlerine üye olma, sosyal medyada içerik paylaşma, yorum yapma, çevrim içi alışveriş ve mobil uygulama izinleri gibi günlük dijital etkinlikler ile dijital ayak izi arasındaki bağlantıyı inceleyerek süreç üzerine çıkarımlarda bulunur ( E3.1 , SDB1.2 ). Dijital ayak izinin, bireyin çevrim içi dünyadaki özgeçmişiyle olan ilişkisi irdelenerek bu izlerin gelecekteki yansımaları üzerine değerlendirmeler yapılır. Süreçte, üstün bir kamu yararı olmadığı sürece dijital vatandaşlık gereği sahip olunan kişisel verilerin silinmesini ve unutulmasını isteme hakkı olarak tanımlanan “unutulma hakkı”; öğrencilerin hak arama bilinci ile adalet ve kişisel mahremiyet değerleri çerçevesinde değerlendirilir ( D1.1 , D8.2 ). Öğretmen, öğrencilerin dijital ayak izi konusundaki farkındalıklarını artırmak amacıyla; “Genel ağda paylaştığın bir içeriğin gelecekteki etkilerini düşündün mü?” temalı metinler yazmalarını veya dijital ayak izinin olumlu/olumsuz yönlerini anlatan afişler tasarlamalarını ister ( OB2 , SDB3.3 ). Bu çalışmalarda öğrencilerin metin yazarlığı veya görsel üretim desteği sunan yapay zekâ araçlarını bir öğrenme desteği olarak kullanmaları ve dijital dünyada etik sorumluluk ile mahremiyet sınırlarını koruyarak üretim yapmaları teşvik edilir ( D8.4 ).",
+    "MOY.3.3.",
+    "Öğretmen, öğrencilerin dikkatini çekecek kısa bir video veya örnek olay (sosyal medyada dışlanma vb.) üzerinden tartışma başlatır ve “Bu olaydaki sorun nedir?” sorusunu yönelterek farkındalık oluşturur ( SDB2.1 ). Ardından 5237 sayılı Türk Ceza Kanunu’nun “Bilişim Ala nında Suçlar” bölümünden seçilmiş maddeler paylaşılır. Öğretmen, “Bu maddeler sadece siber suçluları mı ilgilendiriyor yoksa günlük hayatımızda da mı karşımıza çıkıyor?” soruları üzerinden öğrencilerin siber zorbalık kavramını tanımlamalarını sağlar. Siber zorbalıkla mücadeleye yönelik etkinliklerde Emniyet Genel Müdürlüğü SİBERAY Programı tarafın dan hazırlanan yaş düzeyine uygun eğitim materyalleri ve farkındalık içeriklerinden yararlanılabilir. Öğrencilerin, senaryolar üzerinden siber zorbalığın birey üzerindeki etkilerini analiz ederek problemi yapılandırmaları ve dijital dünyada etik ile mahremiyet sınırlarını korumanın önemini kavramaları sağlanır ( OB2 , D8.4 , KB3.3 ). Genel ağ veya sosyal medyada benzer tehditlerle karşılaşıp karşılaşmadıkları üzerine konuşulur. Öğrenciler, siber zorbalık davranışlarını listeleyerek problemi tanımlayıcı ifadelerle özetler ( KB2.3 ). Öğretmen rehberliğinde; izinsiz fotoğraf paylaşma, sosyal medyada dışlama veya özel hayatın gizliliğini ihlal etme gibi siber suç örnekleri üzerinden öğrencilerin toplumsal duyarlılık, temel insan haklarına saygı, hukuka uyma ilkeleri bağlamında bu davranışların dijital vatandaşlık bağlamında hukuki ve psikolojik boyutlarını değerlendirmeleri ve bu davranışlara yönelik duyarlılık geliştirmeleri sağlanır ( D14.1 ). Gruplar hâlin de siber zorbalıkla karşılaşıldığında yapılması gerekenler üzerine akıl yürütülür ve dijital etik çerçevesinde mantıklı çözüm yolları geliştirilir. Öğretmen öğrencileri siber zorbalık konusunda bilinçlendirir. Öğrencilerin kendilerine sunulan siber zorbalık senaryolarını inceleyerek karşılaştıkları olaylara vicdanlı ve duyarlı bir yaklaşım sergilemeleri, dijital etik ilkeleri doğrultusunda uygun çözüm önerileri geliştirmeleri sağlanır ( E1.5 , D9.1 ). Öğretmen, öğrencilere “Sosyal medya uygulamaları hangi verilere erişiyor (konum, mikrofon, kişiler)?”, “Bu verilerin hangisini kapatabilirim?” sorularını cevaplayan bir gizlilik denetim çizelgesi doldurtabilir ( E1.6 , KB3.3 ). Son aşamada dijital ortamda ahlak, nezaket ve sorumluluk bilincini pekiştirmeye yönelik bir değerlendirme yapılır. Öğretmen, öğrencilerden dijital ortamda ahlak, nezaket ve sorumluluk ilkelerini nasıl uygulayacaklarını ortaya koydukları bir listeleme formu ve tanılayıcı dallanmış ağaç hazırlamalarını isteyebilir. Oluşturulan “Dijital Sorumluluk Listesi” sınıf panosuna asılır, insan ilişkilerinde yapıcı olmanın önemi vurgulanarak bu değerlerin içselleştirilmesi desteklenir ( SDB3.3 , D10.3 )."
+  ],
+  "skills": [
+    "SBAB2 Kanıta Dayalı Sorgulama Becerisi ve Araştırma (SBAB2.4. Kaynağı Sorgulama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1464"
+}

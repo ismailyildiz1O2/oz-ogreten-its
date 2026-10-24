@@ -1,0 +1,79 @@
+{
+  "unitId": 646,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "6. TEMA: KÜLTÜREL BİRİKİMLERİMİZ VE GELENEKSEL OYUNLAR",
+  "hours": "30",
+  "description": "Bu temada öğrencilerin geleneksel çocuk oyunlarına ilişkin hareket becerilerini sergileyebilmeleri, başarı elde etmiş Türk sporcularını tanıyabilmeleri, Mustafa Kemal Atatürk'ün ilgilendiği spor branşlarını ifade edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.3.6.1",
+      "title": "Geleneksel çocuk oyunlarında hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Geleneksel çocuk oyunlarında yer alan hareket becerilerini algılar.",
+        "b) Geleneksel çocuk oyunlarında yer alan hareket becerilerinin basamaklarını gösterir.",
+        "c) Geleneksel çocuk oyunlarında yer alan hareket becerilerini farklı oyunlarda uygular."
+      ]
+    },
+    {
+      "code": "BEO.3.6.2",
+      "title": "Başarılı Türk sporcuları tanıyabilme BEO. 3.6.3. Mustafa Kemal Atatürk'ün ilgilendiği sporları açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "hareket becerileri, millî bayramlar, spor kültürü, törenler",
+  "support": [
+    "Oyunların zorluk seviyelerine göre kurallar sadeleştirilebilir.",
+    "Mustafa Kemal Atatürk'ün ilgilendiği sporları anlatan ve başarılı Türk sporcularını gösteren büyük görseller kullanılabilir.",
+    "Oyunlar ve etkinliklerde daha fazla duyuya hitap edilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden farklı bölgelere ait çeşitli geleneksel çocuk oyunlarını belirlemeleri, oyunların hangi hareket becerilerini içerdiğini ifade etmeleri istenebilir.",
+    "Geleneksel çocuk oyunlarına dayalı yeni kuralların olduğu özgün bir oyun tasarlamaları ve tasarladıkları oyunu oynamaları istenebilir.",
+    "Elde ettikleri başarılara göre sporcuları karşılaştırmaları ve sıralamaları istenebilir. Mustafa Kemal Atatürk'ün ilgilendiği sporları, bu sporlarda o dönem için kullanılan ekipmanları ve bu sporların dünyanın hangi bölgelerinde daha yaygın olduklarını araştırıp sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları akran değerlendirme formu, açık uçlu sorular, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir.",
+    "Öğrencilerden başarılı Türk sporculara ait görsel ve içeriklerden oluşan bir pano hazırlama performans görevi verilebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BEO.3.6.1. Öğrencilerden farklı kültür ve bölgelere ait olan geleneksel çocuk oyunları ile ilgili görsel materyaller (resimler, fotoğraflar, dergi veya gazete kupürleri, posterler vb.) getirmeleri istenir ( D16.3 , OB4 ). Getirilen görsel materyaller ile öğrencilerin fikir alışverişinde bulunmaları sağlanır ( SDB2.1 ). Geleneksel çocuk oyunlarından biri seçilir. Öğrencilerden oyun sırasında aktif rol almaları istenir ve oyun oynanır ( E2.5 , D3.4 ). Oyunun sonunda öğrencilerin kullanmış oldukları hareket becerilerini (koşma, eğilme, vurma, sıçrama, galop, atma gibi) ifade etmeleri için \"Oyunda hangi hareket becerilerini kullandınız?\" sorusu sorulur ve öğrencilerin geleneksel çocuk oyunlarını oynarken kullandıkları hareket becerilerini algılamaları ve ifade etmeleri sağlanır ( KB2.10 ).",
+    "Isınma-soğuma, uygun kıyafet seçimi ve oyun sırasında saygılı davranmanın önemi üzerinde durulur ( D14.1 ). Öğrencilerden bir tane geleneksel çocuk oyunu seçmeleri ve oyunda yer alan hareket becerilerini basamaklarına uygun şekilde yapmaları istenir. Örnek olarak oyunun amacına göre öğrencilerden önce el-göz koordinasyonarını düzenlemeleri, hız ve çevikliği belirlemeleri, atış hızını ve yönünü ayarlayarak becerileri basamaklı bir şekilde yapmaları istenir ( E2.5 ).",
+    "Öğrencilerin farklı kültürlere ve bölgelere ait geleneksel çocuk oyunlarında oyunların amaçlarının, sürelerinin, alanlarının, kullanılan malzemelerinin, hareket becerilerinin ve kişi sayılarının değişebileceğini düşünmeleri sağlanır ( KB2.8 ). Bu doğrultuda öğrencilerden iki farklı geleneksel çocuk oyununu birleştirmeleri ve ortaya yeni bir oyun çıkarmaları istenir ( E3.3 , KB2.13 ). Ardından oyun başlatılır, öğrencilerin oyuna aktif olarak katılmalarına ve motivasyon düzeylerinin yüksek olmasına dikkat edilir ( D3.4 , E2.5 ). Oyuncu sayısına göre alan büyütülebilir. Bu öğrenme çıktısı gözlem formu ile değerlendirilebilir.",
+    "BEO.3.6.2. Öğrenciler arasında görev paylaşımı yapılır. Güvenilir bilgi kaynaklarından görsel içerik, biyografi anlatımı, video gibi dijital içeriklerden faydalanarak tarihimizde başarılı olmuş Türk sporcularını araştırmaları istenir ( E2.2 , D3.2 , D16.3 , OB2 ). Öğrencilerden araştırma yaptıkları başarılı Türk sporcularından birini seçerek oyuncuların isimlerini belirtmeden hayatlarını ve başarılarını anlatmaları ve diğer öğrencilerden bu sporcunun kim olduğunu tahmin etmeleri istenir ( SDB2.1 , E2.5 ). Daha sonra tahmin edilen sporcular için bir madalya töreni canlandırmaları istenir ( E2.1 , D19.2 , SDB2.3 ). Canlandırma sonrasında \"Madalya alırken ve İstiklal Marşımız okunurken neler hissettiniz?\" sorusu sorulur. Öğrencilerden araştırma sürecinde edindikleri bilgileri kullanarak başarılı Türk sporculara ait görsel ve içeriklerden oluşan bir pano hazırlama performans görevi verilir; bu performans görevi grup çalışmasına katılım, bilginin doğruluğu, görsel düzen ve görev paylaşımına dayalı grup değerlendirme formu ile değerlendirilebilir.",
+    "BEO.3.6.3. Öğrencilerden gruplar oluşturmaları ve görev paylaşımı yapmaları istenir ( E3.2 , D16.3 ). Gruplardan Mustafa Kemal Atatürk'ün ilgilendiği sporları içeren video, kısa hikâye, görsel gibi dijital içerikleri araştırmaları istenir ( D19.2 , OB5 ). Araştırma konularını arkadaşlarına sunmaları veya aktarmaları istenir. Daha sonra öğrencilere geçmişte ve günümüzde millî bayramlarda yapılan spor etkinliklerine ait görüntüler (23 Nisan Ulusal Egemenlik ve Çocuk Bayramı için çocukların düzenlediği spor şenlikleri ve halk dansları gösterileri; 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı için gençlik yürüyüşleri, atletizm yarışmaları, jimnastik ve halk dansları; 29 Ekim Cumhuriyet Bayramı için halk koşuları, binicilik gösterileri, deniz sporları ve bayrak taşıma törenleri) izletilir ( D19.2 ). Bu öğrenme çıktısının değerlendirilmesi için öğrencilere \"Sizce Mustafa Kemal Atatürk neden bu bayramları çocuklara ve gençlere armağan etmiştir?\", \"Millî bayramlarda spor etkinlikleri neden önemlidir?\",",
+    "\"Mustafa Kemal Atatürk'ün ilgilendiği sporlar nelerdir?\", \"Mustafa Kemal Atatürk spor ile yakından ilgilenerek nasıl bir mesaj vermek istiyordu?'' gibi açık uçlu sorular yöneltilebilir ve öğrencilerin bu soruları cevaplamaları sağlanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D19.2",
+      "D3.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.2",
+      "E2.5",
+      "E3.2",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/646"
+}

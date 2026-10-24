@@ -1,0 +1,44 @@
+{
+  "unitId": 81359005,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Genetik Bilimine Giriş Dersi",
+  "title": "5. ÜNİTE: GENETİK VE ETİK",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GBG.5.1.1",
+      "title": "Tıbbi etik kavramının tanımını yapar",
+      "processComponents": [
+        "Tıp alanında uygulanan genetik hizmetlerde etik kurallar hukuki, toplumsal, ahlaki vb. değerler yönünden açıklanır.",
+        "Tıp alanında uygulanan genetik biliminin kötüye kullanımının yanlışlığı etik kurallara vurgu yapılarak açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.5.2.1",
+      "title": "Genetik teknolojisinin uygulamaları ve ahlaki sınırları ile ilgili çıkarımda bulunur",
+      "processComponents": [
+        "İnsan Genom Projesi'nin ahlaki, yasal ve sosyal yönleri irdelenir.",
+        "Adli uygulamalarda genetik biliminin kullanılması ahlaki, yasal ve sosyal yönden irdelenir.",
+        "İnsanlığın zararına olabilecek genetik uygulamaları etik ve ahlaki yönleri bakımından irdelenir."
+      ]
+    },
+    {
+      "code": "GBG.5.3.1",
+      "title": "Genetik danışmanlık kavramının tanımını yapar",
+      "processComponents": [
+        "Genetik danışmanlığın kimlere yapılacağı vurgulanır.",
+        "Genetik danışmada dikkat edilmesi gereken noktalar belirtilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249593601-genetik.pdf"
+}

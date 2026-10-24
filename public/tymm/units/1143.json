@@ -1,0 +1,57 @@
+{
+  "unitId": 1143,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "1. TEMA: BAĞLAMADA ANKARA TAVRINI UYGULUYORUM",
+  "hours": "24",
+  "description": "Temada bağlamada Ankara tavrını tezene ile çalmaya yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.8.1.1",
+      "title": "Bağlamada Ankara tavrını çalabilme",
+      "processComponents": [
+        "a) Bağlamada Ankara tavrını çözümler.",
+        "b) Bağlamada Ankara tavrını çalarken duruş ve tutuş pozisyonunu alır.",
+        "c) Bağlamada Ankara tavrını, çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlamada Ankara tavır tekniği ile müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "kültür",
+  "support": [
+    "Öğretmen, Ankara tavrını öğrenmede güçlük çeken öğrencilere adım adım anlatımlar ve görsel desteklerle yardımcı olabilir. Öğrencilere Ankara tavrının tekniklerini daha kolay öğrenmeleri için basitleştirilmiş alıştırmalar ve tekrarlar sunulabilir. Bağlama tutuşu ve duruşu hakkında öğrencilere daha fazla rehberlik sağlanır ve öğrenciler, çalarken vücut duruşlarını rahatlatıcı alıştırmalar yapabilirler. Ayrıca sesli ve görsel materyaller kullanarak öğrencilerin doğru teknikleri gözlemlemeleri sağlanabilir.",
+    "Bireysel pratikler yapılırken öğretmenin rehberliğinde eksik noktalar belirlenir ve pratik yapılarak bu eksikler giderilebilir. Grup çalışmalarıyla, öğrencilere karşılıklı destek ve paylaşımlar sağlanarak zorlandıkları alanlarda birbirlerine yardımcı olmaları teşvik edilebilir. Öğrenciler, öz değerlendirme yaparak hangi tekniklerinde gelişim gösterdiklerini ve hangi alanlarda daha fazla pratik yapmaları gerektiğini fark edebilirler."
+  ],
+  "enrichment": [
+    "Öğrenciler, Ankara tavrının daha karmaşık ve uzun melodilerini çalışarak tavrın daha derinlikli yönlerini keşfedebilirler. Bu çalışmalarda melodinin ritmi ve hızındaki değişiklikler üzerinde durulur ve öğrenciler, melodiyi ifade ederken farklı duygusal tonlar yaratabilirler. Ankara tavrında öğrenciler özgün yaratıcı geçişler (emprovizasyon) yaparak zeybek tavrına benzer bir şekilde bağlamada kendi melodilerini ve figürlerini oluşturabilirler. Bu süreç, öğrencilerin müziksel özgürlüklerini geliştirir ve tavrın geleneksel yapısını nasıl dönüştürebileceklerini keşfetmelerini sağlayabilir. Öğrenciler, Ankara tavrını farklı zorluk seviyelerinde çaldıktan sonra performanslarını grup içinde sergileyebilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi ve öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden eserlerde Ankara tavır tekniklerini çalmaları ile ilgili performanslar istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.8.1.1",
+    "Ankara tavrının yapısı ve özellikleri hakkında bilgi verilir. Öğrencilere Ankara tavrının tarihsel ve kültürel bağlamı tanıtılır ( D19.2 ). Öğrencilere Ankara tavrını içeren örnek müzikler dinletilir ve öğrencilerin bu örneklerden hangi tekniklerin kullanıldığını ve Ankara tavrının ruhunu nasıl yansıttığını fark etmeleri sağlanır ( SDB2.1 , OB9 ). Öğrenciler, Ankara tavrını çalarken duygusal ifadeyi nasıl vereceklerini keşfederler ( E3.2 ). Bağlamada Ankara tavrını doğru bir şekilde çalabilmek için öğrencilere doğru duruş ve tutuş pozisyonları öğretilir. Bağlamayı doğru tutarak rahat ve doğal bir pozisyon almaları gerektiği, sazın ne çok sert ne de gevşek tutulması gerektiği anlatılır.Ankara tavrının tezene vuruşları gösterilir ve sağ bilek alıştırmaları yapılır ( E1.3 OB1 ). Öğrenciler, öğretmenin rehberliğinde basit Ankara tavrı melodilerini çalmaya başlarlar. Ardından öğrenciler Ankara tavrına özgü tezene vuruşlarını örnek eserler üzerinde uygular ve öğretmen rehberliğinde her birini pratik ederler ( D3.1 ). Öğrenciler, çaldıkları parçaları sınıfta diğer arkadaşlarına sunar, grup olarak çalma pratiği yaparlar. Öğrenciler, sınıf içinde karşılıklı olarak deneyimlerini paylaşarak birbirlerinden öğrenirler ( D3.4 , OB9 ). Öğrenciler, kendi çalma performanslarını gözden geçirip hangi alanlarda eksik olduklarını ve hangi alanlarda güçlü olduklarını belirlemek için kısa bir öz değerlendirme yapabilirler ( D10.1 ). Bu süreç, öğrencilerin kendi gelişimlerini fark etmelerine ve hedef koymalarına yardımcı olur ( SDB1.2 )."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D19.2",
+      "D3.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.3",
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1143"
+}

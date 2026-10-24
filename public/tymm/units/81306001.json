@@ -1,0 +1,103 @@
+{
+  "unitId": 81306001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Hukuk Bilgisi Dersi",
+  "title": "1. ÜNİTE: HAKLARIMIZI, BORÇLARIMIZI VE YÜKÜMLÜLÜKLERİMİZİ BİLİYOR MUYUZ?",
+  "hours": "18",
+  "description": "Bu ünitede; hukuk, hukukun kaynakları, hak ve borç kavramlarına, hakların ve borçların kaynaklarının neler olduğunun örneklerle açıklanmasına, ''iyi niyet'' ve ''dürüstlük'' kuralları ile ilgili çıkarımlarda bulunabilmeye, hakların nasıl sınıflandırılacağına ve hakların hangi şartlar altında sınırlandırılabileceğine, borç ilişkisinin unsurları arasında ilişki kurabilmeye, borç ilişkisini sonlandıran unsurlara ve sözleşme türlerine yer verilmiştir.",
+  "outcomes": [
+    {
+      "code": "THB.1.1",
+      "title": "Hak, borç ve yükümlülük kavramlarını açıklar",
+      "processComponents": [
+        "Öğrencilerin gruplara ayrılmaları sağlanır. Günlük hayat içerisinde sahip oldukları hakların, borç ve yükümlülüklerin neler olabileceğini düşünmeleri, gerekli gözlem ve araştırmaları yapmaları bunları listelemeleri istenir. Hazırladıkları listeleri sınıfta arkadaşlarıyla paylaşmaları istenir.",
+        "Hak, borç ve yükümlülüklerin ortaya çıkmasında etkili olan olay, olgu ve durumların sosyal ekonomik ve siyasi etkileri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "THB.1.2",
+      "title": "Hakların kaynağını ve dayanağını örneklerle açıklar",
+      "processComponents": [
+        "Öğrencilerden haklarımızın sınırlarını belirleyen yasalara uygun olarak davranmanın toplumsal düzenin uyum içerisinde devamına katkısını ifade eden bir kompozisyon yazması istenir. Yazılan yazıların sınıfta okunarak paylaşılması istenir.",
+        "Yasal dayanağı olmayan bir menfaatin hak sayılıp sayılamayacağı konusunda bir münazara düzenlenir. Münazarada savlara yönelik öne sürülen gerekçelerin geçerliliğine sınıfça karar vermeleri münazarada varılan sonuç gerekçeleri ile panoda sergilenmesi istenir."
+      ]
+    },
+    {
+      "code": "THB.1.3",
+      "title": "Hakların kazanılmasını sağlayan yolları ve kaybedilmesine yol açan durumları örneklendirir",
+      "processComponents": [
+        "Öğrencilerden hukuki çerçevede hakların kazanılması ve kaybedilmesi hakkında bir poster hazırlamaları istenir.",
+        "Hakların kazanılması ve kaybedilmesi konularının her birini kapsayacak şekilde bireylere düşen sorumluluklar üzerinde durulur.",
+        "Türkiye İnsan Hakları Eşitlik Kurumu (TİHEK) görev ve çalışma alanlarına değinilir."
+      ]
+    },
+    {
+      "code": "THB.1.4",
+      "title": "Hakların kazanılmasında, iyi niyet kullanılmasında dürüstlük kuralının önemini açıklar",
+      "processComponents": [
+        "Öğrencilerin gruplara ayrılmaları sağlanır. Gruplardan birinin hakların kazanımını hukuken geçerli kılacak olan iyi niyet davranışı içeren ve içermeyen örnek olaylar; gruplardan diğerinin ise hakların kullanılmasında hukuken dikkat edilmesi gerekli olan dürüstlük davranışı içeren ve içermeyen örnek olaylar oluşturmaları istenir. Bu örnek olaylar üzerinden sınıf ortamında soru-cevap etkinliği yapmaları sağlanır. Etkinlikte öğrencilerin oluşturduğu örnek olayı sınıfla paylaşmaları sağlanır. Hemen ardından diğer öğrencilere “Sizce bu hak, hukuken kazanılmış mı, neden?” ya da “Sizce bu hakkın kullanımında hak sahibi hukuka uygun hareket etmiş mi, nasıl?” soruları yöneltilir."
+      ]
+    },
+    {
+      "code": "THB.1.5",
+      "title": "Hakları, sınıflandırma gerekçelerine göre karşılaştırır",
+      "processComponents": [
+        "Medeni Kanun'umuzda yer alan özel haklarımızın neler olduğu, bunların hangi kriterlere göre hangi sınıflandırmaya dâhil edildiği ve bu haklara saygı göstermenin önemi üzerinde durulur.",
+        "Öğrencilerden Anayasamızda yer alan haklarımızın neler olduğunu ve bunların gündelik faaliyet alanına göre nasıl sınıflandırıldığını araştırmaları istenir. Yapılan araştırmanın sonunda her öğrenci bir anayasal hakkı temsil edecek şekilde kendisini tanımlayacak küçük ipuçları vererek her verdiği ipucundan sonra sınıfa “Beni tanıdınız mı?” diye sorar, doğru cevap alamazsa yeni bir ipucu verir ve yine “Beni tanıdınız mı?” sorusunu sınıfa yöneltir. Böylelikle tartışma ortamı sağlanır."
+      ]
+    },
+    {
+      "code": "THB.1.6",
+      "title": "Hakların sınırlandırılma durumlarını açıklar",
+      "processComponents": [
+        "Öğrencilerden Anayasamızda yer alan haklarımızın hangi durumlarda nasıl ve ne ölçüde sınırlandırılabileceği, yapılacak olan sınırlandırmaların amacının, kapsamının ve dayanağının neler olduğu hususunda bir araştırma yapmaları ve yaptıkları araştırma sonuçlarını sınıfta paylaşmaları istenir."
+      ]
+    },
+    {
+      "code": "THB.1.7",
+      "title": "Borç ilişkisinin unsurlarını açıklar",
+      "processComponents": [
+        "Öğrencilerden günlük hayatta karşılaştıkları ya da deneyimledikleri borç ilişki durumlarını sınıf ortamında paylaşmaları istenir."
+      ]
+    },
+    {
+      "code": "THB.1.8",
+      "title": "Borç ilişkisinden doğan haklarını günlük hayatta etkili kullanabilme yollarını açıklar",
+      "processComponents": [
+        "Sınıftaki öğrencilerin beşerli gruplara ayrılması sağlanır. Grup üyelerinin her birinden, borç ilişkisinden doğan haklardan bir tanesini seçerek araştırma yapması istenir. Gruplarda aynı konuyu araştıran öğrencilerin bulundukları gruplardan ayrılarak konu bazlı birleşip yeni bir grup oluşturmaları sağlanır. Bu aşamada öğrencilerden konuyu kendi aralarında pekiştirip, eksiklerini tamamlayıp irdelemeleri istenir. Daha sonra her öğrencinin ilk başta oluşturulmuş olan gruplarına dönerek kendi konularını grup içerisindeki diğer arkadaşlarına anlatması istenir. Böylece her öğrencinin tüm konular hakkında öğrenmelerinin gerçekleştirilmiş olması sağlanır."
+      ]
+    },
+    {
+      "code": "THB.1.9",
+      "title": "Borcun konusu ile borcun kaynaklarını ilişkilendirir",
+      "processComponents": [
+        "Borcun kaynakları ile borcun “hukuki işlem, haksız fiil ve sebepsiz zenginleşme” konuları üzerinde durulur. Öğrencilerden bu konular ile günlük hayatta deneyimledikleri ya da gözlemlemiş oldukları farklı borç konularını içeren durumları ilişkilendirmeleri istenir."
+      ]
+    },
+    {
+      "code": "THB.1.10",
+      "title": "Borç ilişkisini ortadan kaldıran durumların muhataplarına (borçlu ve alacaklı) etkilerini değerlendirir",
+      "processComponents": [
+        "Borç ilişkisini sona erdiren sebeplerin neler olduğu konusu üzerinde durulur.",
+        "Öğrenciden borçlu ve alacaklı taraflar açısından karşılaşılabilecek muhtemel risk durumlarının neler olabileceğini tespit etmesi istenir. Bu risk durumlarının gerçekleşmesi hâlinde riskin oluşturacağı zararın nasıl giderilebileceğini açıklayan bir rapor oluşturmaları istenir. Oluşturdukları raporlarda yer verdikleri değişik fikirleri sınıf ortamında paylaşması sağlanır."
+      ]
+    },
+    {
+      "code": "THB.1.11",
+      "title": "Sözleşme türlerini açıklar",
+      "processComponents": [
+        "Kanundan doğan “iş sözleşmesi, üyelik sözleşmesi, satış sözleşmesi, lisans sözleşmesi'' türlerinin içerikleri üzerinde durulur.",
+        "Öğrencilerden sözleşme türlerine uygun örnekler oluşturması istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316654661-Temel%20Hukuk%20d%C3%B6p.pdf"
+}

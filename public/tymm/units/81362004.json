@@ -1,0 +1,72 @@
+{
+  "unitId": 81362004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Sosyal Hayatında Aile Dersi (Lise)",
+  "title": "4. ÜNİTE: TÜRK AİLE YAPISININ KARŞILAŞTIĞI GÜNCEL SORUNLAR",
+  "hours": "18",
+  "description": "Bu ünitede “Güncel Sorunlar Karşısında Türk Ailesinin Konumu”, “Dağılan Ailelerde Ortaya Çıkan Problemler ve Çözüm Önerileri”, “Yalnızlaşan Yaşlılar ve Ailedeki Engelli Bireyler” ve “Değişen Değerler Karşısında Türk Aile Yapısı” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TSA.4.1.1",
+      "title": "Modernleşme ve kentleşme sürecindeki Türk ailesini, karşılaştığı sorunlar açısından değerlendirir",
+      "processComponents": [
+        "Kentleşme sürecinin olumlu yönleri yanında beraberinde getirdiği bazı olumsuzlukların da olduğu vurgulanır.",
+        "Kentleşme süreciyle birlikte; çekirdek ailelerin sayısındaki artış, kadının çalışma hayatına girmesi, ailedeki kadın-erkek rolleri, ailenin çocuk sayısı, çocuğun ailedeki konumu, ilk evlenme yaşı, boşanma-ayrılma, tek ebeveynli aileler gibi konularda yaşanan değişimler üzerinde durulur.",
+        "Çocukların ve aile büyüklerinin bakımında aile dışı kurumların da (kreşler, anaokulları, bakım evleri gibi) görev ihya ettiğine değinilir."
+      ]
+    },
+    {
+      "code": "TSA.4.1.2",
+      "title": "Teknolojik gelişmeleri, Türk ailesi üzerindeki etkileri açısından analiz eder",
+      "processComponents": [
+        "Kitle iletişim araçları ve sosyal medya unsurlarının yoğun şekilde kullanımının aile içi iletişim üzerindeki olumsuz etkileri üzerinde durulur.",
+        "Teknolojinin hızlı gelişimi ve kitle iletişim araçlarının yaygınlaşması sonucunda ailenin değer üretme ve aktarma işlevinin zayıflamaya başlaması vurgulanır.",
+        "Öğrencilerin, aile içi iletişimin dijital ortamlara kayması ve bireyselleşmenin artmasının Türk kültür yapısını olumsuz yönde etkilediğine dair çıkarımda bulunmaları sağlanır.",
+        "Aile içi iletişimin artırılması ve ekran bağımlılığının önlenmesi konuları hakkında çözüm önerilerine değinilir."
+      ]
+    },
+    {
+      "code": "TSA.4.2.1",
+      "title": "Boşanmaları aile bireylerine olan etkileri açısından analiz eder",
+      "processComponents": [
+        "Boşanma sürecinde velayet anlaşmazlıklarının çocuklar üzerindeki olumsuz etkileri ele alınır.",
+        "Tek ebeveynli ailelerin sorunlarına ve çözüm önerilerine değinilir.",
+        "Ebeveyn bakımından yoksun çocukların sorunlarına ve çözüm önerilerine değinilir.",
+        "Ölüm veya ayrılık sonrasında oluşan miras ve mal paylaşımı sorunlarının aile bireyleri üzerindeki etkileri ele alınır. (Kazanım ele alınırken öğrencilerin aile durumlarına dikkat edilir.)"
+      ]
+    },
+    {
+      "code": "TSA.4.3.1",
+      "title": "Yalnızlaşan yaşlılar ve ailedeki engelli bireylerin durumunu çözüm önerileri bağlamında değerlendirir",
+      "processComponents": [
+        "Yaşlıların yalnızlaşma nedenleri ele alınarak çözüm önerilerine değinilir.",
+        "Engelli bireylerin aile içerisindeki problemlerinin ele alınması sağlanır."
+      ]
+    },
+    {
+      "code": "TSA.4.4.1",
+      "title": "Değer, anlayış ve yaklaşım farklılıklarından kaynaklanan kuşak çatışmalarına çevresinden örnekler verir",
+      "processComponents": [
+        "Ailelerin genç ve yetişkin üyeleri arasındaki olay, olgu ve değer yargılarına bakış açılarındaki farklılıktan kaynaklanan gerilim ve çatışmaların tarihin tüm dönemlerinde yaşandığı vurgulanır.",
+        "Hızla değişen modern dünyada kuşak farklılaşmasının ele alınması sağlanır.",
+        "Yetişkinlerin ailenin genç üyelerine karşı göstereceği ilgi, sevgi ve anlayışın kuşaklar arası çatışmayı yumuşatmada etkili olacağı vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.4.4.2",
+      "title": "Aile kurumu ile ilgili çalışan ulusal kurum ve kuruluşları tanır",
+      "processComponents": [
+        "T.C. Aile ve Sosyal Hizmetler Bakanlığı, Aile ve Toplum Hizmetleri Genel Müdürlüğü, Çocuk Hizmetleri Genel Müdürlüğü, kurum ve kuruluşların aile ile ilgili faaliyetlerine değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124145026554-t%C3%BCrksosyalhayat%C4%B1ndaaile.pdf"
+}

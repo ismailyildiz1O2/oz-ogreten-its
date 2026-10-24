@@ -1,0 +1,64 @@
+{
+  "unitId": 469,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "5.TEMA: GEOMETRİK ŞEKİLLER",
+  "hours": "6",
+  "description": "Bu temada öğrencilerin üçgende yardımcı elemanları belirleyebilmeleri ve deneyimlerini üçgenlerde kenarortay inşasına yansıtabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.7.5.1",
+      "title": "Matematiksel araç ve teknolojiden yararlanarak üçgende kenarortayı, açıortayı ve yüksekliği çözümleyebilme",
+      "processComponents": [
+        "a) Üçgende kenarortayı, açıortayı ve yüksekliği belirler.",
+        "b) Üçgende kenarortay, açıortay ve yükseklik arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.7.5.2",
+      "title": "Orta dikme inşasına yönelik deneyimlerini üçgende kenarortay inşasına yansıtabilme",
+      "processComponents": [
+        "a) Orta dikme inşasına yönelik deneyimlerini gözden geçirir.",
+        "b) Üçgende kenarortay inşasına yönelik çıkarım yapar.",
+        "c) Çıkarımını farklı örnekler üzerinden değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Üçgende bir köşe ile karşı kenarın orta noktasını birleştiren doğru parçası kenarortaydır. • İkizkenar üçgende farklı uzunluktaki kenara ait kenarortay aynı zamanda açıortay ve yüksekliktir. • Eşkenar üçgende her bir kenara ait kenarortay aynı zamanda açıortaydır ve yüksekliktir. Anahtar Kavramlar ağırlık merkezi, kenarortay, orta dikme, üçgende açıortay Sembol ve Gösterimler, -",
+  "support": [
+    "Üçgende uzunluk ölçme ve açı ölçme çalışmaları aracılığıyla kenarortaylar ve açıortaylar çizilebilir. İkizkenar ve eşkenar üçgenin simetri doğrularından hareketle bunların kenarortay ve açıortay olduğunu belirlemeye yönelik özgün kâğıt katlama çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "Eşkenar üçgen şeklindeki bir parkta, kenarlara olan uzaklıkları toplamı en az olacak şekilde bir ağaç dikilmek istendiğinde, yerinin nasıl tespit edilebileceği üzerine tartışma yapılması sağlanabilir. Bu süreçte matematik yazılımındaki sürükleme özelliğinden yararlanılabilir. Pergel ve ölçüsüz cetvel yardımıyla üçgenlerde yükseklik inşa etme çalışmaları yürütülebilir. İnşa süreçlerinde matematik yazılımındaki çember ve doğru araçlarının kullanımına da fırsat verilebilir.",
+    "Pergel ve ölçüsüz cetvel yardımıyla, verilen bir doğru parçası kenarortay olacak şelilde üçgen inşa etme çalışması yürütülebilir. Pergel ve ölçüsüz cetvel kullanarak, verilen bir doğru kenar orta dikmelerinden biri olacak biçimde eşkenar üçgen inşa etme çalışması yapılabilir. İnşa süreçlerinde matematik yazılımındaki çember ve doğru araçlarının kullanımına da fırsat verilebilir. Açıortayların kesişim noktası, ağırlık merkezi ve yüksekliklerin kesişim noktasının durumuna bağlı olarak üçgen çeşitlerini inceleme çalışmaları yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; tanılayıcı dallanmış ağaç, kontrol listesi ve performans görevi ile değerlendirilebilir. Performans görevi kapsamında öğrencilerin gönye, cetvel ve açıölçer kullanarak verilen bir doğru parçası kenarortaylardan biri olmak koşuluyla kenarlarına göre farklı üçgenler çizmeleri ve çizimlerinin aşamalarını açıkladıkları afiş veya poster hazırlamaları istenebilir. Performans görevi anlama, içerik, doğruluk, görsel materyal gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarıyla değerlendirilebilir. Performans ürünü ve kontrol listesi sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.7.5.1 Öğrencilerin üçgen modelleri üzerinde kâğıt katlama çalışmaları yaparak (örneğin üçgenin bir kenarını diğerinin üzerine gelecek biçimde katlama) farklı kenarlara veya açılara ait yükseklik, açıortay, kenar orta dikme ve kenarortay oluşturmaları istenir. Açıortay bilgilerini, ışınların düz aynadaki yansımalarının oluşturduğu açılar ile ilişkilendirmelerine ve fen bilimleri dersi ile disiplinler arası etkileşim kurmalarına olanak verilir. Kâğıt katlama yardımıyla yaptıkları çizimler üzerinde sorgulama ve akıl yürütme becerilerini işe koşarak oluşan doğruların veya doğru parçalarının özelliklerini belirlemeleri istenir ( OB4 ) . Üçgende yardımcı elemanlardan kenarortay ve açıortay tanıtılarak özelliklerinin öğrenciler tarafından tartışılması sağlanabilir ( SDB2.1 ) . Öğrencilerin cetvel, gönye ve açıölçer yardımıyla (veya matematik yazılımındaki orta nokta, açıortay ve dik doğru araçlarıyla ( OB2 ) kenarlarına ve açılarına göre üçgen çeşitlerinde yardımcı elemanları çizerek, aralarındaki ilişkileri (örneğin bir kenara ait yükseklik, kenarortay ve açıortay uzunluklarının karşılaştırılması) ve kesişim noktalarını incelemeleri beklenir ( OB4 ) . Üçgende ağırlık merkezi tanıtılır. İkizkenar üçgende farklı uzunluktaki kenara ait kenarortayın aynı zamanda yükseklik, açıortay, kenar orta dikme ve üçgenin simetri doğrusu olduğuna; eşkenar üçgende tüm kenarlara ait kenarortayların aynı zamanda yükseklik, açıortay, kenar orta dikme ve üçgene ait simetri doğruları olduğuna yönelik çıkarım yapmaları beklenir. Üçgenin yardımcı elemanlarının oluşturulma yollarına ve özelliklerine yönelik tanılayıcı dallanmış ağaç kullanılabilir. Öğrencilerin ikizkenar ve eşkenar üçgenleri içeren desen çalışmaları yaparak bu çalışmaların estetik değerini fark etmeleri sağlanabilir ( D7.1 ) .",
+    "MAT.7.5.2 Öğrencilerin pergel ve ölçüsüz cetvel yardımıyla orta dikmeye ilişkin yürüttükleri inşa sürecini ve üçgenin yardımcı elemanlarına yönelik yürüttükleri kâğıt katlama çalışmalarını gözden geçirerek üçgende kenarortayın inşa adımlarını planlamaları ve mevcut bilgilerini sentezlemeleri istenir ( OB1 ) . Öğrencilerin pergel ve ölçüsüz cetvel kullanarak üçgende kenarortayın inşasına yönelik çıkarımda bulunmaları beklenir. İnşa sürecinde eleştirel bakış açısıyla yaklaşarak adımların gerekçelerini sunmaları beklenir ( E3.10 ) . Üçgen çeşitleri arasından ikizkenar ve eşkenar üçgenlerdeki kenarortay inşaları özel olarak ele alınır. Öğrencilerin planladıkları inşa adımlarını pergel ve ölçüsüz cetvel yardımıyla uygulamaları ve çıkarımlarını değerlendirmeleri beklenir. Süreçte öğrencilerin dijital araç ile içerik oluşturma, iş görme becerilerini desteklemek için matematik yazılımındaki çember ve doğru araçlarını kullanmaları da sağlanabilir ( MAB5 , OB2 ) . Özel olarak ikizkenar ve eşkenar üçgenlerdeki kenarortay inşalarında, öğrencilere açıortay inşasına yönelik deneyimlerinden de yararlanıp yararlanamayacaklarını tartışmaları için fırsat verilir. Üçgenlerde kenarortay inşa süreçlerinin değerlendirilmesi için kontrol listesi kullanılabilir.",
+    "Performans görevi kapsamında öğrencilerin gönye, cetvel ve açıölçer kullanarak verilen bir doğru parçası kenarortaylardan biri olmak koşuluyla kenarlarına göre farklı üçgenler çizmeleri ve çizimlerinin aşamalarını açıkladıkları afiş veya poster hazırlamaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D7.1"
+    ],
+    "egilim": [
+      "E3.10"
+    ],
+    "alan": [
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/469"
+}

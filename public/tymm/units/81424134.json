@@ -1,0 +1,58 @@
+{
+  "unitId": 81424134,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "134. ÜNİTE: VİTRAY - BOYAMA VİTRAY",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.4.4.1",
+      "title": "Boyama vitrayın teknik özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.4.2",
+      "title": "Boyama vitrayda kullanılan araç ve gereçleri açıklar",
+      "processComponents": [
+        "Bu teknikle yapılmış eserlerin görselleri örnek olarak gösterilir."
+      ]
+    },
+    {
+      "code": "GTSA.4.4.3",
+      "title": "Boyama vitray tekniğinde desen çizer",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.4.4",
+      "title": "Desene uygun şablon hazırlar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.4.5",
+      "title": "Hazırladığı şablonu cama yerleştirir",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.4.6",
+      "title": "Kontur boyası ile kontur çizgilerini çizer",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.4.7",
+      "title": "Desene uygun renklerle cam boyama yapar",
+      "processComponents": [
+        "Boyama yapılırken açıktan koyuya, kolaydan zora doğru çalışma yapılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

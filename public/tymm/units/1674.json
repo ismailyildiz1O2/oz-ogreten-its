@@ -1,0 +1,57 @@
+{
+  "unitId": 1674,
+  "grade": 0,
+  "gradeName": "SOSYOLOJİ DERSİ 1",
+  "subject": "Sosyoloji Dersi",
+  "title": "DÜZEY I · 5. Ünite: Güncel Sosyolojik Meseleler",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SOS.11.5.1",
+      "title": "İslam karşıtlığı problemi ile ilgili eleştirel düşünebilme",
+      "processComponents": [
+        "a) İslam karşıtlığı problemini sorgular.",
+        "b) İslam karşıtlığı problemi ile ilgili akıl yürütür.",
+        "c) Akıl yürütmeyle ulaştığı çıkarımları yansıtır. SOS.11.5.2. Küreselleşme olgusunun toplumsal etkilerini çözümleme",
+        "a) Küreselleşme olgusunu meydana getiren unsurları belirler.",
+        "b) Küreselleşme olgusunu meydana getiren unsurlar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "SOS.11.5.3",
+      "title": "Yapay zekâ teknolojileri kaynaklı toplumsal sorunlar hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) Yapay zekâ teknolojileri kaynaklı toplumsal sorunları sorgular.",
+        "b) Sorgulanan durumla ilgili akıl yürütür.",
+        "c) Akıl yürütme ile ulaştığı çıkarımı yansıtır."
+      ]
+    }
+  ],
+  "keyConcepts": "algoritma, ayrımcılık, hegemonya, öteki, stereotip",
+  "support": [
+    "Kültürel ayrımcılık konusunun pekiştirilmesinde akran öğretimi veya grup çalışmalarından yararlanılabilir.",
+    "Küreselleşmenin tarihsel gelişim sürecini gösteren görsel ve işitsel materyaller kullanılabilir.",
+    "Yapay zekânın kullanım alanlarını gösteren görsel materyaller kullanılabilir."
+  ],
+  "enrichment": [
+    "İslam karşıtlığı konusu oryantalizm, hegemonya, emperyalizm kavramları ile ilişkisi içinde ele alınarak raporlaştırılabilir.",
+    "’’Küreselleşme dünya üzerindeki egemen güçlerin hâkimiyetini pekiştiren bir olgu mu yoksa eşitliğe hizmet eden bir olgu mudur?’’ sorusu tartışılabilir.",
+    "Yapay zekânın kullanılmaya başlanması ile eğitim kurum ve aktörlerini nasıl bir geleceğin beklediği hakkında çıkarımlar yapılarak bir sunum hazırlanabilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; açık uçlu sorular, kelime ilişkilendirme testi, öz değerlendirme formu, cümle tamamlama, kısa cevaplı sorular, giriş- çıkış kartları, dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden grup çalışmasıyla nefret suçu, ayrımcılık, kültürel ön yargı, etnosentrizm, ötekileştirme gibi kavramlar çerçevesinde İslam karşıtlığı ile baş etmeyi amaçlayan bir kamu spotu sunumu hazırlamaları istenebilir. Performans görevi dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "SOS.11.5.1",
+    "Öğrencilere İslam karşıtlığı problemine dair yazılı veya görsel materyaller (haber, akademik yayın, kitap bölümü vb.) ve açıklamaların yer aldığı bilgi notu verilir ( E1.1 , OB4 ). Bilgi notunda ayrımcılık, ön yargı, stereotip, öteki kavramlarının açıklamalarına da yer verilir. Yönlendirici sorularla İslam karşıtlığı problemini ilgili kavramlarla ilişkisi içinde tartışarak sorgulamaları sağlanır. Öğrencilere çalışma kâğıdı verilerek İslam karşıtlığı ile ilgili bilimsel çalışmalardan örnekler sunulur. Bu çalışmalar, Batı’da İslam hakkındaki ön yargıların tarihsel kökenlerini, medyadaki temsil biçimlerini ve siyasal söylemlerle kurduğu ilişkiyi ele alan sosyolojik analizler içerir. Bu çalışmalardan yola çıkarak İslam karşıtlığının tarihsel arka planı, nedenleri, nasıl üretildiği, yayıldığı, uygulandığı, gözlenebilir sonuçları ve bu sorunun paydaşları (fail, mağdur, sorunun çözümünde rol oynayacak olanlar) üzerine akıl yürütülmesi sağlanır. Bu aşamada sokratik tartışma yöntemi kullanılabilir ( KB2.18 ). Öğrencilere Alev Alatlı’nın İslam karşıtlığı hakkındaki görüşlerini içeren yapılandırılmış bir metin verilerek İslam karşıtlığından kaynaklanan ötekileştirme, ayrımcılık, nefret, şiddet, haksızlık vb. problemlerin, hukuk ve etik dışı unsurların fark edilmesi ve bu problemin çözümüne dair akıl yürütülmesi sağlanır ( E3.1 , OB5 , KB2.16 ). Süreçte İslam karşıtlığının doğal bir olgu olmadığı, art niyetli karikatürler, taraflı haberler ve olumsuz örneklerin öne çıkarılması ile oluşturulmuş bir hegemonya çalışması olduğu ve İslam ülkelerine yönelik işgal, sömürü ve saldırıları meşrulaştırmak için kullanıldığı vurgulanır. Öğrencilerden performans görevi olarak grup çalışmasıyla nefret suçu, ayrımcılık, kültürel ön yargı, stereotip, etnosentrizm, ötekileştirme gibi kavramlar çerçevesinde İslam karşıtlığı ile baş etmeyi amaçlayan bir kamu spotu sunumu hazırlamaları istenebilir ( E1.3 , OB7 ).",
+    "SOS.11.5.2",
+    "Küreselleşmenin tarihsel kökenlerini (kapitalizm, sömürgecilik, Sanayi Devrimi), güncel dinamiklerini (neoliberalizm, iletişim, ulaşım), toplumsal etkilerini yansıtan yazılı veya görsel materyaller verilerek öğrencilerin küreselleşmeyi meydana getiren unsurları belirlemesi sağlanır ( E1.1 , OB4 ). Öğrencilerin iş birlikli olarak ithal ürünler, nüfus hareketleri, beyin göçü, dünya çapında kılık kıyafetlerin aynılaşması, sosyal medya içerikleri, tüketim alışkanlıkları, ortak dilin yaygınlaşması gibi durumlara ilişkin gözlemlerini sınıfta paylaşması sağlanır ( E3.2 , SDB2.2 , KB2.2 ). Paylaşımlardan hareketle küreselleşmenin yol açtığı sorunların belirlenmesi için öğrencilerin “Küreselleşmeye dâhil olarak dinî ve millî değerlerin korunması mümkün müdür? Küresel şirketlerin varlığı, yerli üretim ve ekonomik bağımsızlık açısından ne tür sorunlar yaratıyor?Küreselleşme, gelir dağılımı ve sosyal adaleti nasıl etkiliyor? Türkiye gibi gelişmekte olan ülkeler, küresel ekonomik düzende gelişmiş ülkelerle eşit söz hakkına sahip midir? Küreselleşme, ulus devletlerin politik ve kültürel egemenliği üzerinde nasıl bir baskı oluşturuyor? Küresel bilgi akışı, eğitimde fırsat eşitsizliklerini azaltıyor mu, artırıyor mu? Küreselleşme, Türkiye için bir fırsat mı yoksa bir tehdit midir? Sosyal medyada en çok hangi ülkelerin ürettiği içeriklere maruz kalıyorsunuz?” gibi sorular çerçevesinde anket yapması sağlanır ( E3.7 , E3.8 ). Anket için web araçlarını kullanabilecekleri belirtilir ( OB2 ). Öğrenciler çalışmada aktif rol alır ( D3.4 ). Öğrencilere grup arkadaşlarına yardımcı olmanın ve bencil davranışlardan kaçınmanın önemi belirtilir ( D10.3 , D20.4 ). Anket sonuçlarının hem sayısal hem de yoruma dayalı biçimde sınıfta sunulması sağlanır ( OB7 ). Küreselleşme sürecinin farklı ülkelerde yol açtığı sorunlar (göç, işsizlik, gelir dağılımı adaletsizliği, tekdüzeleşme vb.) hakkında kısa bir analiz metni yazdırılır ( KB2.11 ). Metinde küreselleşmenin bazı dünya ülkelerine avantajlar sağlarken bazı ülkelerde ekonomik, siyasal, sosyal ve kültürel olumsuzluklar yaratması konusu da yorumlanır ( OB5 , KB2.14 ). Öğrencilerden yazılarında toplumsal yapı, sınıf, güç ilişkileri, eşitsizlik, egemenlik, hegemonya, kültürel tekdüzeleşme gibi kavramları kullanmaları istenir. Yazıların sunum yoluyla sınıfta paylaşılması sağlanır ( E1.5 ). Sunumlarda arkadaşlarının farklı perspektiflerinden yararlanarak kendi düşüncelerini yeniden değerlendirmeleri teşvik edilir ( SDB1.2 , KB2.17 ). Süreçte öz değerlendirme formu kullanılabilir.",
+    "SOS.11.5.3",
+    "Öğrencilere yapay zekâ teknolojilerine ilişkin yazılı ve görsel materyaller verilir. Görsellerden yola çıkarak yapay zekânın bireyleri ve toplumsal yaşamı nasıl etkilediği ve gelecekte nasıl etkileyebileceği, bu konuda ne gibi sorunların yaşandığı ve yaşanabileceği sorgulatılır ( E1.1 ). Öğrenciler farklı sektörlerden örnekler vererek yapay zekânın kullanım alanlarını analiz eder ve bu teknolojinin toplumsal etkileri üzerine akıl yürütür ( E3.1 ). Öğrenciler yapay zekâ nedeniyle yok olması veya dönüşmesi muhtemel meslekler hakkında akıl yürütür. Süreçte soru-cevap öğretim tekniği kullanılabilir. Öğrencilerin yapay zekâ kaynaklı sorun ve çözümleri derinlemesine analiz edebilmeleri için münazara etkinliği düzenlenir ( SDB2.1 ). Bu etkinlik kapsamında öğrenciler, “Yapay zekâ ulusal ve uluslararası alanda eşitsizlikleri azaltan bir araç mıdır, yoksa mevcut eşitsizlikleri pekiştirip arttıran bir araç mıdır?” sorusunu tartışır ( OB6 , KB2.18 ). Süreçte öğrenciler duygu ve düşüncelerini açıkça ifade eder ve münazarada doğru ve güvenilir olmanın tartışmanın verimliliğine etkisi hakkında yargıda bulunur ( D6.2 ). Öğrencilerden yapay zekânın toplumsal yaşam üzerindeki olumlu (verimlilik, erişilebilirlik, sağlıkta erken teşhis vb.) ve olumsuz (işsizlik, mahremiyetin ihlali, algoritmik ayrımcılık, hegemonya vb.) etkilerine dair gerekçeli görüşler oluşturmaları istenir ( D8.1 , D8.2 , D13.4 ). Süreç, giriş çıkış kartları ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB16. Eleştirel Sosyolojik Düşünme (KB3.3. Eleştirel Düşünme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1674"
+}

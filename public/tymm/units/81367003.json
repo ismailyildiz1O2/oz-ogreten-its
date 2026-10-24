@@ -1,0 +1,61 @@
+{
+  "unitId": 81367003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Uluslararası İlişkiler Dersi",
+  "title": "3. ÜNİTE: ULUSLARARASI İLİŞKİLERİN TARİHSEL GELİŞİMİ",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ULI.3.1",
+      "title": "İlk Çağda uluslararası ilişkilerin niteliğini açıklar",
+      "processComponents": [
+        "İlk çağlarda uluslararası ilişkilere dair belge ve metinlerin hem kısıtlı hem de içeriklerinin sınırlı olduğu vurgulanır. Bu dönemde Sümer, Hitit, Asur ve diğer İlk Çağ devletlerinin ticari ve savaş ilişkilerine örnekler verilir.",
+        "Uluslararası alanda imzalanan ilk yazılı antlaşma olan Kadeş Antlaşması üzerinde durulur.",
+        "İlk Çağdaki uluslararası ilişkilerin nitelikleri nelerdir?",
+        "Uluslararası ilişkilerin gelişmesinde Kadeş Antlaşması'nın önemini değerlendiriniz."
+      ]
+    },
+    {
+      "code": "ULI.3.2",
+      "title": "Orta Çağda uluslararası ilişkilerin temelini oluşturan unsurları açıklar",
+      "processComponents": [
+        "Orta Çağda uluslararası ilişkilerin oluşumunda din savaşlarının etkileri açıklanır.",
+        "Orta Çağda yönetim sistemi ve devlet yapısında meydana gelen değişimler açıklanır.",
+        "Orta Çağda uluslararası ilişkilerin din temelinde gelişmesinin devlet yapısı üzerindeki etkilerini örneklerle açıklayınız."
+      ]
+    },
+    {
+      "code": "ULI.3.3",
+      "title": "Modern Çağda uluslararası ilişkilerin özelliklerini açıklar",
+      "processComponents": [
+        "Uluslararası ilişkilerin modern anlamda Vestfalya Barışı ile ortaya çıktığı açıklanır.",
+        "Amerikan ve Fransız devrimlerinin uluslararası ilişkilere etkisi, ulus-devletin temel birim olması, ulusçuluk, iktisadi liberalizm, serbest ticaret anlayışlarının dünyaya yayılması bakımından incelenir.",
+        "Sömürgeciliğin günümüzde boyut değiştirerek devam ettiği üzerinde durulur.",
+        "Güçler dengesinin tarihî seyri içerisinde farklı dönemlerde farklı özellikler gösterdiği örneklerle açıklanır.",
+        "Güçler dengesi sisteminin ortaya çıkış nedenlerini tartışınız."
+      ]
+    },
+    {
+      "code": "ULI.3.4",
+      "title": "Uluslararası alanda temel birim/aktör olan modern devletin niteliklerini açıklar",
+      "processComponents": [
+        "Modern devletin egemen ve merkezî olma özelliğine sahip olduğu açıklanır."
+      ]
+    },
+    {
+      "code": "ULI.3.5",
+      "title": "Soğuk Savaş Döneminde uluslararası ilişkilerin esaslarını ve bunu belirleyen temel aktörleri değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163240412-Uluslararas%C4%B1%20ili%C5%9Fkiler.pdf"
+}

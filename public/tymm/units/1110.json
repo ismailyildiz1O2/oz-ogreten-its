@@ -1,0 +1,53 @@
+{
+  "unitId": 1110,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "3. TEMA: KENDİ EZGİMİ YAZIYORUM",
+  "hours": "4",
+  "description": "Temada öğrencilerin öğrendiği dörtlü ve beşli ses dizilerini kullanarak kendilerine özgü ezgiler üretmeleri için gerekli öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TMT5.3.1. Öğrendiği dörtlü ve beşli ses dizilerinden ezgi yazabilme",
+      "processComponents": [
+        "a) Yazdığı ezgilerin dörtlü ve beşlilerinin bileşenlerini tanır.",
+        "b) Yazdığı ezgilerin dörtlü ve beşlilerinin bileşenlerini ayırt eder.",
+        "c) Yazdığı ezgilerin dörtlü ve beşlilerinin bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "beşli, dörtlü, ezgi",
+  "support": [
+    "Öğrencilerin ilgi, ihtiyaç ve hazırbulunuşlukları dikkate alınarak etkin olabilecekleri yazma etkinlikleri yaptırılabilir. Örneğin 2 ölçülük kısa ezgilerlerle başlayıp daha sonra ölçü sayıları artan melodilerle öğrenme süreçleri desteklenebilir."
+  ],
+  "enrichment": [
+    "Kendi ezgisini yazabilen öğrencilere bu ezgilerin devamını yazdırarak daha büyük ve geniş ezgiler yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları çalışma kâğıdı veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrendiği dörtlü ve beşlilerin birleşiminden oluşan ezgiler yazmaları istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "teachingApplications": [
+    "TMT5.3.1. Ezgi üretmeyle ilgili dinamikleri oluşturan görsel ve işitsel materyallerle öğrencilerin dörtlüler ve beşliler ile ilgili ön öğrenmeleri hatırlaması ve merak etmesi sağlanır ( E1.1 ). Ezgi bileşenleri ile ilgili sunumlar hazırlanarak öğrencilerin kavramları hem görsel hem de işitsel olarak tanımaları sağlanır ( OB1 , OB4 ). Ezgiyi oluşturan temel ögelerle (ölçü, ölçü sayısı, donanım, karar sesi, vb) ilgili görsel sunumlar ve işitsel örnekler hazırlanarak öğrencilerin bu kavramları hem duyarak hem de görerek öğrenmeleri sağlanır ( OB4 ). Yeni öğrenmelerle ilgili sunulan görsellere öğrencilerin soru sormaları teşvik edilir ( E3.8 ). Bu sorulara verilen cevaplar sırasında, öğrencilerin düşünmeleri sağlanarak öz farkındalıklarının gelişmesine destek verilir ( SDB1.1 ). Ezgilerin yapısal özellikleri açıklanırken bütün ile uyumlu ve akıcı olması gerektiği vurgulanır. Bu bileşenleri göstermek için örnek ezgiler üzerinden açıklamalar yapılır. Böylece öğrenciler, ezgiyi oluşturan öğeleri ayırt edebilir hâle gelir. Öğrencilerin dörtlü ve beşlileri kullanarak oluşturdukları kendi ezgilerini seslendirmeleri istenir. Dijital ortamda kayıt ederek arkadaşları ile paylaşması teşvik edilir ( SDB2.2 ). Öğrenciler gruplara ayrılarak grupla beraber yapılan ezgi yazma çalışmalarında etkin rol alır ( SDB2.1 ) ve ortak hedeflere ulaşmak için arkadaşlarıyla dayanışma içinde olur ( D4.1 ). Ezgileri oluşturan müzikal cümle özelliklerinin estetik algı ile ilişkisini fark eder ( D7.1 ). Bu süreç, çalışma kâğıdı veya akran değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrendiği dörtlü ve beşlilerin birleşiminden oluşan ezgiler yazmaları istenebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "skills": {
+    "deger": [
+      "D4.1",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1110"
+}

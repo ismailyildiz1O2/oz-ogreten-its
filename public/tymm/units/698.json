@@ -1,0 +1,88 @@
+{
+  "unitId": 698,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "2. TEMA: İŞ BİRLİKLİ OYUNLAR",
+  "hours": "18",
+  "description": "Bu temada öğrencilerin iş birliği gerektiren oyunlarda hareket kavramlarını uygulayabilmeleri, hareket becerilerini sergileyebilmeleri ve birlikte taktik ve strateji geliştirebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.5.2.1",
+      "title": "İş birlikli oyunlarda hareket kavramlarını uygulayabilme",
+      "processComponents": [
+        "a) İş birlikli oyunlarda hareket kavramlarını ayırt eder.",
+        "b) İş birlikli oyunlarda hareket becerileri ile hareket kavramları arasında ilişki kurar.",
+        "c) İş birlikli oyunlarda kavramlara uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BES.5.2.2",
+      "title": "İş birlikli oyunlarda hareket becerisi sergileyebilme",
+      "processComponents": [
+        "a) İş birlikli oyunlarda hareket becerilerini algılar.",
+        "b) İş birlikli oyunlarda hareket becerilerinin basamaklarını gösterir.",
+        "c) İş birlikli oyunlarda hareket becerilerini farklı ortamlarda uygular."
+      ]
+    },
+    {
+      "code": "BES.5.2.3",
+      "title": "İş birlikli oyunlarda taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) İş birlikli oyunlarda taktiksel problemi belirler.",
+        "b) İş birlikli oyunlarda belirlenen problemin çözümüne ilişkin öneri sunar.",
+        "c) İş birlikli oyunlarda seçilen taktik ve stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "beceri, bireysel sorumluluk, hareket, iş birliği, strateji, taktik, yardımlaşma",
+  "support": [
+    "Yazılı, görsel ve dijital materyaller kullanılarak hareket kavramları ve beceriler arasındaki ilişki anlamlandırılabilir. Oyunlarda küçük alan kullanmak, hedef alanını büyütmek, gruplardaki öğrenci sayısını artırmak, atılması ya da yuvarlanması daha kolay olan topları seçmek şeklinde değişiklikler ile oyunlar yapılandırılabilir."
+  ],
+  "enrichment": [
+    "Birden fazla beceriyi içeren daha karmaşık, eş zamanlı koordinasyon gerektiren iş birlikli oyunlar tasarlanabilir. Örneğin bir nesneyi taşırken çeşitli engellerin üzerinden atlamayı gerektiren oyun alanları tasarlanabilir. Standart oyun alanları ve ekipmanları yerine farklı zeminler (kum, çim, minder), eğimli yüzeyler ve farklı boyutlarda ve ağırlıklarda nesneler kullanılarak oyunların zorluk seviyeleri artırılabilir. Öğrencilerden oynadıkları oyunları video kaydına almaları ve bu kayıtları analiz ederek kullandıkları taktiklerin etkinliğini değerlendirmeleri istenebilir. Oyunlara beklenmedik durumlar, değişen kurallar veya hedefler eklenerek öğrencilerin grup ile iş birliği içerisinde taktiklerini ve stratejilerini sürekli olarak değişen durumlara uyarlamaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları öz değerlendirme, akran değerlendirme, performans görevi ve kontrol listesi kullanılarak değerlendirilebilir. Öğrencilere performans görevi olarak iş birlikli oyunlarda kullanılabilecek çeşitli materyaller tasarlama görevi verilebilir. Bu performans görevi, süreç bileşenlerini içine alan ölçütlerden oluşan bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.5.2.1. Öğrencilerin ortak bir amaca ulaşmak için birlikte hareket etmelerini gerektiren oyunlar sürece dâhil edilir. Seçilen iş birlikli oyunlarda yardımlaşma, paylaşma, görev dağılımı, sorumluluk, roller, birlikte hareket etmenin önemi gibi kavramları fark etmeleri sağlanır ( E2.2 , D16.3 , D20.2 ). Öğrencilerden öğretmen rehberliğinde heterojen gruplara ayrılarak grubun ortak amaçlarını, grup üyelerinin sorumluluklarını belirlemeleri istenir ( SDB2.2 ). Seçilen iş birlikli oyunlarda öğrencilerin grup üyeleri ile hareket ederek alan, yön, ebat, tempo gibi hareket kavramlarını ayırt etmeleri sağlanır. Nesneyi grup üyeleri ile yardımlaşarak hedefe ulaştırma, farklı yönlerde yavaş ya da hızlı hareket etme gibi çeşitli durumları içeren iş birliğine dayalı oyun ortamları oluşturulur. Bu oyunlarla öğrencilerin bireysel sorumluluk almaları, eşle ya da grupla senkronize hareket etmeleri istenerek hareket becerileri ile hareket kavramları arasında ilişki kurmaları sağlanır ( SDB3.1 ). Öğrencilerden oyunlarda yer alan görevleri grup arkadaşlarıyla tamamlamaları istenerek iş birlikli oyunlarda ilgili kavramlara uygun hareket etmeleri sağlanır. Oynanan oyunlarda öğrencilere \"Takım arkadaşlarınızla nasıl bir etkileşim kurdunuz?\", \"Birlikte çalışırken neyi daha iyi yapabilirsiniz?\" gibi sorular sorularak grupla iş birliği yapmanın, yardımlaşmanın, düşüncelerini başkaları ile tartışmanın önemi üzerinde durulur ( SDB1.2 , SDB2.2 ). Öğrencilerin deneyimledikleri iş birlikli oyunlardaki grup çalışmaları ve gruptaki bireysel sorumlulukları öz ve akran değerlendirme formları ile değerlendirilebilir ( E2.2 ).",
+    "BES.5.2.2. Öğrenciler atlama, dönme, tutma, yakalama, raketle topa vurma, top sektirme, hedef oyunları gibi hareket becerilerini deneyimleyebilecekleri iş birlikli oyunlara dâhil edilir. Oyunlarda eğimli, düz veya sert zeminlerde farklı yönlere hareket etme, nesneleri grupla hedefe ulaştırma gibi görevlere yer verilerek hareket becerilerini algılamaları sağlanır ( SDB2.2 ). Öğrencilerin ortak bir amaca ulaşmak için birlikte çalışmaları gerektiği vurgulanır. Farklı hareket becerilerini içeren ve iş birliği gerektiren istasyonlar hazırlanır. Öğrencilerden öğretmen rehberliğinde heterojen gruplara ayrılarak istasyonlarda yer alan hareket becerilerini uygulamaları istenir ( D3.4 ). Öğrencilerden istasyonda yer alan hareket becerilerinin uygulama adımlarını grup üyeleri ile çözümleyip, belirlemeleri istenerek hareket becerilerinin basamaklarını göstermeleri sağlanır ( KB2.4 , SDB2.2 ). Süreç, istasyonlara yerleştirilen becerilerin basamaklarına ilişkin görseller ile desteklenir ( OB4 ). Öğrencilerden hareket becerilerinin basamaklarını belirlerken grup üyeleri ile hareketi analiz etmeleri istenir (E3.6). Tüm gruplar istasyonları tamamlandıktan sonra öğrencilerin hareket becerilerinin basamaklarını tartışmaları sağlanır. Öğrencilerin deneyimledikleri hareket becerilerini içeren farklı oyunlar sürece dâhil edilir. Oyunun içerdiği hedeflere ulaşabilmek için grubun birlikte, dayanışma içinde hareket etmesinin önemi vurgulanır ve öğrencilerin iş birlikli oyunlardaki hareket becerilerini farklı ortamlarda uygulamaları sağlanır ( SDB2.2 , D4.1 ). Öğrencilerin oyunlarda farklı rolleri ve farklı pozisyonları denemelerine fırsat verilerek birbirlerinin öğrenmelerine yardımcı olmalarının önemi vurgulanır ve oyunlardan keyif almaları sağlanır ( E2.5 , SDB3.1 ).",
+    "Öğrencilere \"Gruptaki arkadaşlarınıza nasıl yardımcı oldunuz?\", \"Bu oyunda önemli olan neydi?\" gibi sorular sorularak iş birliği, iletişim, dayanışma ve grup dinamiği kavramlarına ilişkin farkındalık kazandırılır ( SDB1.2 , SDB2.1 , D20.2 , SBAB5.2 ). Öğrencilerden süreç boyunca birbirlerinin öğrenmelerine destek olmaları, sorumluluk alarak ekip içinde aktif roller üstlenmeleri ve liderlik becerilerini geliştirmeleri istenir ( BEOSAB9 ). Öğrencilerden performans görevi olarak iş birlikli oyunlarda kullanılabilecek çeşitli materyaller (paraşüt, farklı boyutlarda çemberler, toplar, engeller, deniz makarnaları vb.) tasarlamaları istenebilir. Öğrencilerin değerlendirme sonuçlarını analiz ederek materyallerini yeniden yapılandırmaları istenebilir ( OB7 ).",
+    "BES.5.2.3. İş birliği gerektiren oyunlar sürece dâhil edilerek öğrencilerden bu oyunların amaçlarını keşfetmeleri istenir ( KB1 ). Öğrencilerin oyunları deneyimlemeleri sağlanır ve iş birlikli oyun esnasında karşılaştıkları taktiksel problemleri belirlemeleri istenir ( KB1 ). Öğrencilere \"Birlikte hareket ederken karşılaştığınız en büyük zorluk neydi?\", \"Birlikte hedefe ulaşmak için nasıl bir görev paylaşımı yaptınız?\" gibi sorular sorularak problem durumlarını belirlemeleri ve problem durumları üzerinde tartışmaları sağlanır ( KB3.2 , SDB1.2 ). Öğrenciler tarafından oyunun amaçlarına yönelik belirlenen taktiksel problemler yapılandırılır ve grupların problemlerin çözümüne ilişkin öneri sunmaları sağlanır ( KB3.2 , SDB3.3 ). Örneğin \"Bir nesneyi birlikte taşırken gruptaki herkesin hızını nasıl senkronize edebilirsiniz?\", \"Görevinizi kolaylaştırmak için gruptaki üyelerin görev dağılımında nasıl bir değişiklik yapardınız?\" gibi sorularla öğrencilerin iş birliğine dayalı taktiksel çözüm önerileri geliştirmeleri istenir. Grupların belirledikleri ve geliştirdikleri taktik ve stratejileri uygulamaları sağlanır. Grupların uygulamalar esnasında önerilerinin etkililiğini test etmeleri istenir ( SDB3.3 ). Uygulama sırasında \"Taktik ya da stratejinizin işe yaradığını nasıl anladınız?\", \"Birlikte hareket ederken eksik kalan yönleriniz nelerdi? Bunları nasıl geliştirebilirsiniz?\" gibi sorularla öğrencilerin grup arkadaşları ile çözüm önerilerinin etkililiğini tartışmaları sağlanır ( KB2.17 , SDB2.2 , D10.1 ). Öğrencilere iş birliği gerektiren oyunlara ilişkin taktik ve strateji geliştirmeleri için problem durumları verilerek çözüm yollarını bulma görevleri verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D16.3",
+      "D20.2",
+      "D3.4",
+      "D4.1"
+    ],
+    "egilim": [
+      "E2.2",
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB1",
+      "KB2.17",
+      "KB2.4",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7"
+    ],
+    "diger": [
+      "SBAB5.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/698"
+}

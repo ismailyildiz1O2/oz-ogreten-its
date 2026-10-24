@@ -1,0 +1,50 @@
+{
+  "unitId": 1296,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "3. TEMA:KANUN ÇALARKEN KROMATİK TEKNİĞİNİ ÖĞRENİYORUM",
+  "hours": "9",
+  "description": "Temada öğrencinin kanunda kromatik tekniğinin kullanılmasını öğrenmesi, örnek etüt ve eser çalabilmesi ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.8.3.1",
+      "title": "Kromatik tekniğini uygulayabilme",
+      "processComponents": [
+        "a) Kromatik tekniği çalışmalarını çalmak için yazılmış etüt veya eserleri çözümler.",
+        "b) Kromatik tekniği çalışmalarını çalmak için uygun duruş ve tutuş pozisyonu alır.",
+        "c) Kromatik tekniği çalışmalarını çalmak için uygun teknikleri kullanır.",
+        "ç) Kromatik tekniği çalışmalarını çalmak için uygun müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, makam, müzik, perde",
+  "support": [
+    "Öğrencilerin kromatik tekniği ile ilgili öğrenmeleri takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom yavaşlatılarak çalınabilir. Yavaş metronom ile öğrenilen etütler, öğrencinin öğrenmelerine göre hızlandırılarak çaldırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin öğrendiği dizilerde eser ve etütleri farklı metronom hızları ile çalışılabilir. Ayrıca öğrenilen dizi 1, 4 ve 5 ses transpoze çalışmaları ile öğrenmeler geliştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini ölçen performans görevi verilebilir. Öğrencilerden kromatik tekniğini gösterebilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.8.3.1",
+    "Öğrencinin çalışacağı eser veya etütler öğrenciyle çözümlenir. Bu zamana kadar öğrencinin kanun üzerindeki hakimiyeti, sağ sol el koordinasyonu açısından tekrar değerlendirildiğinde öğrencinin gelişimi göz önünde bulundurularak kanun üzerinde daha teknik çalışmalar yapılır ( D3.1 ). Bunların en önemlilerinden biri de kromatik çalışmalardır. Öğrenciye kromatik seslerle ilgili bilgisinin olup olmadığı, bu sesleri duyup duymadığı sorulur ( OB1 , SDB2.1 ). Kromatik çalışmalar, başlanılan sesten yarım ses artırılarak (diyezlenerek) ya da yarım ses eksiltilerek (bemollenerek) bir oktavın tamamlanması şeklinde yapılır. Nihavent dizisinden örnek verecek olursak sol, sol diyez, la, si bemol, si, do, do diyez, re, mi bemol, mi, fa, fa diyez sol seslerinden oluşmalıdır. Bu örnek çalışma diğer dizilerde de (koma sesleri olanlar hariç) yapılabilir. Bu sesler çalınırken sağ el tele mızrap vurma, sol el ise mandallarda yarım sesleri yapmakla görevlendirilir. Bu çalışmalar yapılırken çok yavaştan hızlıya doğru yapılmalıdır. Metronomda çok yavaştan başlayıp olabileceği kadar hızlandırılmasıyla öğrencinin kanun üzerindeki hakimiyetinin artması sağlanır ( E1.3 ). Öğrencilerden kromatik tekniğini gösterebilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı, öz değerlendirme ve akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1296"
+}

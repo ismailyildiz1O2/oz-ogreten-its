@@ -1,0 +1,49 @@
+{
+  "unitId": 597,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "3. TEMA: MÜZİKSEL TASARIM",
+  "hours": "12",
+  "description": "Bu temada kendi sahnesinin yapılandırılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.12.3.1",
+      "title": "Kendi sahnesini yapılandırabilme",
+      "processComponents": [
+        "a) Kendi sahnesi ile sahneleme süreci arasında ilişki ortaya koyar.",
+        "b) Kendi sahnesi ile sahneleme süreci arasında uyumlu bir bütün ortaya koyar."
+      ]
+    }
+  ],
+  "keyConcepts": "sahne",
+  "support": [
+    "Etkinliklerde yapılacak sahnelemenin organizasyonuna yönelik görevler verilebilir."
+  ],
+  "enrichment": [
+    "Sınıfta çalgı çalabilen öğrencilerin yapılacak etkinliklerde arkadaşlarına çalgılarıyla eşlik etmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktısı; dereceleme ölçeği kullanılarak izlenebilir. Performans görevi kullanılarak değerlendirilebilir. ,",
+    "Bu temada öğrencilerin yıl sonu gösterisinde performans sergilemeleri beklenir. Performans görevi; dereceli puanlama anahtarı, öz veya grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.12.3.1. Öğrencilerin bireysel olarak ya da gruplar oluşturarak bir gösteri planlamaları istenir. Öğrencilere kendi sahnesini oluştururken nelere dikkat etmeleri gerektiği hakkında bilgi verilir. Öğrencilerin sahneleme yapacağı içeriği belirleyerek içerik ve sahneleme süreci arasında ilişki ortaya koymaları sağlanır. Seçilecek konu, kostüm, müzik vb. hakkında karar vermeleri istenir. Bu süreçte beyin fırtınası tekniği kullanılabilir. Sahne etkinliklerini; solo, koro ya da vokal topluluğu şeklinde şarkı söyleme, bireysel ya da gruplar hâlinde çalgı çalma, bedensel hareket ya da drama performansı, müzikli şiir dinletisi, müzikli slayt gösterisi gibi alanlardan seçmeleri istenir. Toplulukla ya da solo şarkı söyleme gibi etkinliklerde canlı çalgı eşliklerinden ya da müzik teknolojisinden yararlanılabilir. Bunların dışında loop (müzikal döngü), midi vb. programlar kullanılarak eşlik kayıtları oluşturulabilir ya da karaoke uygulamalarından yararlanılabilir. Arkadaşlarıyla iş birliği yaparak yapılandıracakları sahneleme sırasında görev almaları sağlanır ( SDB2.2 ). Öğrencilerin organizasyonun planlanmasında ve hayata geçirilmesinde dayanışma içinde olmaları beklenir ( D20.2 ). Öz yeterliliğinin farkında olarak yapılacak etkinliğe katkıda bulunmaları istenir ( E1.4 ). Öğrencilerin topluluk önünde kendi sahnesini gerçekleştirirken grup arkadaşlarıyla ve izleyiciyle etkileşim içinde olmaları beklenir ( SDB2.1 , OB9 ). Sahneleyeceği içerik ve sahneleme süreci arasında uyumlu bir bütün oluşturmaları sağlanır. Sahnelenecek içerikler ile ilgili yarışma etkinliği düzenlenebilir. Kendi sahnesini yapılandırmaya yönelik öğrenmeler, dereceleme ölçeği kullanılarak izlenebilir. Çalışma grup hâlinde yapıldığında öğrencilerin grup çalışmalarına yönelik değerlendirme yapabilmesi için grup değerlendirme formu kullanılabilir. Bu temada öğrencilerin yıl sonu gösterisinde müzik eşlikli şiir dinletisi, oratoryo, koro, bireysel, toplu performans gibi etkinliklerden birini seçerek sahnelemeleri beklenebilir. Performans görevi; dereceli puanlama anahtarı, öz veya grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D20.2"
+    ],
+    "egilim": [
+      "E1.4"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/597"
+}

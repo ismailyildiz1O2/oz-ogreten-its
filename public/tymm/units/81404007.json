@@ -1,0 +1,34 @@
+{
+  "unitId": 81404007,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "7. ÜNİTE: BİSİKLET SPORUNDA PARKUR, MALZEME VE KURALLAR",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.2.3.1",
+      "title": "Bisiklet sporunda yarışma parkurunu ve kullanılan malzemeleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.2.3.2",
+      "title": "Bisiklet sporunda yarışma kurallarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.2.3.3",
+      "title": "Bisiklet sporunda veledrom ölçülerini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

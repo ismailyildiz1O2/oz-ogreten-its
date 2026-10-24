@@ -1,0 +1,156 @@
+{
+  "unitId": 581,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "3. TEMA: ZAMANIN İZİNDE SANAT",
+  "hours": "18",
+  "description": "Temada Cumhuriyet Dönemi Türk sanat eserinin sanatsal betimlemesinin yapılabilmesi, Cumhuriyet Dönemi Türk sanat eserinin sanatsal çözümlemesinin yapılabilmesi, Cumhuriyet Dönemi Türk sanat eserinin sanatsal yorumlamasının yapılabilmesi, Cumhuriyet Dönemi Türk sanat eseri ile ilgili sanatsal yargıda bulunulabilmesi, Cumhuriyet Dönemi sanat anlayışı ile ilgili sanatsal ürün tasarlanabilmesi, Cumhuriyet Dönemi sanat anlayışı ile ilgili sanatsal ürün oluşturulabilmesi, Türk sanatının tarihsel sürecinin özetlenebilmesi, Avrupa sanatında çağdaş sanat akımlarının sanatsal olarak karşılaştırılabilmesi ve Avrupa sanatı ile ilgili çağdaş sanat akımlarından bir eserin kompozisyon açısından sanatsal olarak çözümlenebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.12.3.1",
+      "title": "Cumhuriyet Dönemi Türk sanat eserini sanatsal olarak betimleyebilme",
+      "processComponents": [
+        "a) Eser ile ilgili bilgileri tespit eder.",
+        "b) Eserde görülenleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.12.3.2",
+      "title": "Cumhuriyet Dönemi Türk sanat eserini sanatsal olarak çözümleyebilme",
+      "processComponents": [
+        "a) Eserdeki görsel bileşenleri/konuyu/konuyu oluşturan bileşenleri belirler.",
+        "b) Eserdeki görsel bileşenler/konuyu oluşturan bileşenler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "GS.12.3.3",
+      "title": "Cumhuriyet Dönemi Türk sanat eserini sanatsal olarak yorumlayabilme",
+      "processComponents": [
+        "a) Eserin konusuyla görsel bileşenler/konuyu oluşturan bileşenler arasında ilişki kurar.",
+        "b) Eserin temasına/destekleyici temalarına ilişkin çıkarım yapar."
+      ]
+    },
+    {
+      "code": "GS.12.3.4",
+      "title": "Cumhuriyet Dönemi Türk sanat eseri ile ilgili sanatsal yargıda bulunabilme",
+      "processComponents": [
+        "a) Eserin özelliklerini belirli ölçüt(ler) ile karşılaştırır.",
+        "b) Eser hakkında ölçüt(ler) çerçevesinde karar verir."
+      ]
+    },
+    {
+      "code": "GS.12.3.5",
+      "title": "Cumhuriyet Dönemi sanat anlayışı ile ilgili sanatsal ürün tasarlayabilme",
+      "processComponents": [
+        "a) Cumhuriyet Dönemi sanat anlayışı ile ilgili örnekleri inceler.",
+        "b) Cumhuriyet Dönemi sanat anlayışı bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.12.3.6",
+      "title": "Cumhuriyet Dönemi sanat anlayışı ile ilgili sanatsal ürün oluşturabilme",
+      "processComponents": [
+        "a) Çalışmaya uygun görsel anlatım araçlarını ifade eder.",
+        "b) Cumhuriyet Dönemi sanat anlayışı ile ilgili eskizlerini sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.12.3.7",
+      "title": "Türk sanatının tarihsel sürecini özetleyebilme",
+      "processComponents": [
+        "a) Türk sanatının tarihsel süreci ile ilgili çözümleme yapar.",
+        "b) Türk sanatının tarihsel süreci ile ilgili sınıflandırma yapar.",
+        "c) Türk sanatının tarihsel sürecini yorumlar."
+      ]
+    },
+    {
+      "code": "GS.12.3.8",
+      "title": "Avrupa sanatında çağdaş sanat akımlarını sanatsal olarak karşılaştırabilme",
+      "processComponents": [
+        "a) Çağdaş sanat akımlarına ait sanat eserlerinin görsel bileşenlerindeki benzerlikleri belirler.",
+        "b) Çağdaş sanat akımlarına ait sanat eserlerinin görsel bileşenlerindeki farklılıkları belirler."
+      ]
+    },
+    {
+      "code": "GS.12.3.9",
+      "title": "Avrupa sanatı ile ilgili çağdaş sanat akımlarından bir eseri kompozisyon açısından sanatsal olarak çözümleyebilme",
+      "processComponents": [
+        "a) Çağdaş sanat akımlarından bir eserin kompozisyon yapısını oluşturan bileşenleri belirler.",
+        "b) Çağdaş sanat akımlarından bir eserin kompozisyon yapısını oluşturan bileşenler arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "çağdaş sanat, güncel sanat, kavramsal sanat, pop art, postmodernizm",
+  "support": [
+    "Öğrencilerden Cumhuriyet Dönemi Türk resimlerinden birini inceleyerek eserin genel özelliklerini açıklamaları istenebilir.",
+    "Öğrencilerden Cumhuriyet Dönemi ressamlarından birini seçerek ressamın sanat anlayışı hakkında kısa bir bilgi notu yazmaları istenebilir.",
+    "Öğrencilerle sanal müze ziyareti yapılarak Türk sanatına ait sanat eserlerini incelemeleri sağlanabilir.",
+    "Öğrencilerden çağdaş sanat akımlarının özellikleri ile ilgili soru cevap kartları hazırlamaları istenebilir. Kartların ön yüzüne soru cümlesini yazarak ipucu niteliğinde basit bir çizim yapmaları, arka yüzüne ise cevapları yazmaları istenebilir.",
+    "Sanal müze ziyaretleri yapılarak çağdaş sanat akımlarına ait eserlerin incelenmesi sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden Cumhuriyet Dönemi Türk resimlerinden biriyle ilgili ilgili kopya çalışması yapmaları istenebilir.",
+    "Öğrencilerden Cumhuriyet Dönemi'nin ulusal bağımsızlık ruhuna uygun simgeler içeren rozetler tasarlamaları istenebilir.",
+    "Öğrencilerden Türk sanatının farklı dönemlerinden sanatçılar seçmeleri, bu sanatçıların sanat anlayışları ile ilgili tartışmalarını içeren kurgusal bir zamanlar arası diyalog yazmaları ve canlandırmaları istenebilir.",
+    "Öğrencilerden bilinen bir modern sanat dönemi eserinde farklılıklar yaparak postmodern anlayışa uygun eser üretmeleri istenebilir.",
+    "Öğrencilerden kullanmadıkları bir eşyanın üzerine çizim ve boyama ile yazılar, semboller, çeşitli görseller ya da materyaller eklemeleri ve böylece yeni anlamlar kazanan kendi çağdaş sanat eserlerini üretmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, tanılayıcı dallanmış ağaç, çalışma yaprağı, öz değerlendirme formu, kontrol listesi, dereceli puanlama anahtarı, dereceleme ölçeği, anlam çözümleme tablosu ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden Cumhuriyet Dönemi Türk resim sanatında Atatürk'ün konu alındığı resim örneklerini ve resimlerin (sanatçısı, resmin adı, yapılış tarihi, tekniği, ölçüleri, hangi müzede ya da koleksiyonda yer aldığı gibi) künye bilgilerini içeren bir sunum hazırlayarak sınıfta paylaşmaları istenebilir. Yapılan çalışmalar, dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.12.3.1. Öğrencilerin Cumhuriyet Dönemi Türk sanat eserlerinin bilinen örneklerinden biri olarak kabul edilen \"Atatürk Telgraf Başında\" adlı eseri incelemeleri sağlanır ( OB4 ). \"Sizce bu eser ne zaman üretilmiştir?\", \"Eserin yapımında hangi malzemeler kullanılmış olabilir?\", \"Bu eserin ölçüleri yaklaşık olarak ne kadardır?\" gibi sorular sorularak öğrencilerin eserin yapısıyla ilgili tahmin yürütmeleri istenir. Eserle ilgili bilgiler verilerek öğrencilerin eserin adını, ölçüsünü, biçimini, malzemesini, tekniğini ve bulunduğu yeri tespit etmeleri sağlanır.",
+    "Öğrencilerden eserde görülen figür, hayvan, nesne, bitki, motif, renk, şekil gibi unsurları betimlemeleri istenir ( OB9 ). Sorulan sorularla öğrencilerin figürlerin ve eserin uyandırdığı duyguyu ifade etmeleri sağlanır. Süreç, açık uçlu sorular ile değerlendirilebilir.",
+    "GS.12.3.2. \"Atatürk Telgraf Başında\" adlı eserde yer alan sembollerin anlamları, figürlerin kimlikleri ve eserin konusuna kaynaklık eden anlatı ya da olay ile ilgili bilgiler açıklanır. Bu bilgiler doğrultusunda sorular sorularak öğrencilerin eserin görsel bileşenlerini, konusunu ve konuyu oluşturan bileşenlerini belirlemeleri istenir.",
+    "Eserde kullanılan kompozisyon yapısı, geometrik kurgu, perspektif, desen, espas, doku, ışık-gölge ve renk ilişkileri ile ilgili sorular sorularak öğrencilerin eserin görsel yapısını çözümlemeleri sağlanır. Doğru cevapların desteklenmesi yoluyla eseri oluşturan bileşenler arasındaki ilişkiler belirlenir ( E3.4 ). Süreç, açık uçlu sorular veya gözlem formu ile değerlendirilebilir.",
+    "GS.12.3.3. Öğrencilerden, kendilerini \"Atatürk Telgraf Başında\" adlı eseri üreten sanatçının yerine koyarak böyle bir görsel düzenleme ile nasıl bir etkinin amaçlanmış olabileceğini düşünmeleri istenir ( E2.1 ). Bu doğrultuda sorular sorularak eserde kullanılan görsel bileşenlerin oluşturduğu anlamların bulunması sağlanır ( E3.4 ). Öğrencilerden tekrar eden biçimsel unsurlarla oluşan hareket akışlarını ve yönlerini tespit etmeleri istenir. Böylece eserin ritim ve hareket şeması sistematik bir şekilde çözümlenmiş olur ( E3.7 ). Bu kurgunun anlatıma yönelik amaçları sorgulanarak öğrencilerin görsel bileşenler ile konuyu oluşturan bileşenler arasında ilişki kurmaları sağlanır.",
+    "Eserin genelinde görsel tasarım öge ve ilkeleri aracılığıyla en fazla vurgu yapılan bölümün neresi olduğu sorularak öğrencilerin eserin odak noktasını tespit etmeleri ve bu bölüme nasıl bir olay/anlatım yerleştirildiğini tanımlamaları sağlanır. Böylece eserin temasına ilişkin çıkarımlar yapılır. Asıl odak noktasından sonra ikincil olay ya da anlatımlara yer verilen diğer odak noktaları aynı yolla çözümlenir ( KB2.4 ). Böylece destekleyici temalara ilişkin çıkarımlar yapılır. Sürecin değerlendirilmesinde açık uçlu sorular kullanılabilir.",
+    "GS.12.3.4. \"Atatürk Telgraf Başında\" adlı eserin sanat tarihindeki yeri ve önemi konusunda bilgi verilir. Öğrencilerin eserin özelliklerini teknik yetkinlik, biçim-içerik uyumu, özgünlük gibi belirli ölçütlerle karşılaştırmaları sağlanır ( KB2.7 , OB9 ).",
+    "Tartışma ortamı yaratılarak öğrencilerin eserin sanatsal değeri hakkında ölçütler çerçevesinde bir yargıda bulunmaları sağlanır. Bir eseri anlamanın ve doğru değerlendirmenin uzun bir süreç gerektirebileceği hatırlatılarak öğrencilerin çalışma motivasyonlarını sürdürmeleri sağlanır ( D12.3 ). Süreç, açık uçlu sorular veya çalışma yaprağı kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden Cumhuriyet Dönemi Türk resim sanatında Atatürk'ün konu alındığı resim örneklerini ve resimlerin künye bilgilerini (sanatçısı, resmin adı, yapılış tarihi, tekniği, ölçüleri, hangi müzede ya da koleksiyonda yer aldığı gibi) içeren bir sunum hazırlayarak sınıfta paylaşmaları istenebilir ( D3.4 ). Yapılan çalışmalar dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.12.3.5. Öğrencilerin Cumhuriyet Dönemi'ni temsil eden sanat eserlerinden örnekleri incelemeleri sağlanır ( OB9 ). Öğrencilere bu dönemde Atatürk'ün kültür ve sanat alanında başlattığı yenilikçi hareketler kapsamında sanat eğitimi almaları için yurt dışına gönderilen sanatçılar hakkında bilgi verilir. Bu sanatçıların sonraki yıllarda yurda dönerek Türkiye'deki sanat eğitimi ve sanat yaşamı üzerinde bıraktığı etkilerden söz edilir. Bu süreçte öğrencilerin merak ettikleri soruları sormaları sağlanır.",
+    "Cumhuriyet Dönemi'nden belli bir sanatçının ya da eserin örnek olarak seçilmesinin çalışmanın kurgulama sürecine yardımcı olacağı belirtilir. Öğrencilerin Türk İzlenimcileri (1914/Çallı Kuşağı), Müstakil Ressam ve Heykeltıraşlar Birliği, D Grubu, Yeniler Grubu gibi Cumhuriyet Dönemi sanatçı topluluklarını ya da Malik Aksel, İbrahim Çallı, Hikmet Onat, Hale Asaf, Abidin Dino, Nurullah Berk, Nuri İyem gibi belirgin üsluplara sahip sanatçılardan birini seçmeleri sağlanır ( D19.2 ). Bir eserin yapım sürecinin sanatçının zihninde başladığına, hayal kurmanın ve başka sanat eserlerinden esinlenmenin önemine dikkat çekilir. Öğrencilerin esinlendikleri Cumhuriyet Dönemi resimlerinin ve yapmak istedikleri resmin özelliklerini anlatmaları ve resme dönüştürmek istedikleri imgeleri eskizlerle ifade etmeleri sağlanır ( SDB2.1 ). Süreç, gözlem formu veya öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "GS.12.3.6. Öğrencilerin Cumhuriyet Dönemi sanat anlayışı ile ilgili hazırlamayı düşündükleri kompozisyona uygun araçları belirleyerek ifade etmeleri sağlanır. Bu aşamada öğrencilere kuru boya, sulu boya, pastel boya, akrilik boya tekniklerinden birini seçebilecekleri hatırlatılır. Öğrencilerin yapacakları çalışma için seçtikleri çizim ve boyama tekniğinin özelliklerine uygun kalem ve fırça numaraları, kâğıt türü gibi özellikleri belirlemeleri sağlanır.",
+    "Öğrencilerden Cumhuriyet Dönemi sanat anlayışına uygun iki eskiz çalışması yapmaları istenir. Öğrencilerin kendi sanatsal seçimlerine güvenerek hazırladıkları eskizlerden birini tercih etmeleri ve bu eskizden yararlanarak kompozisyonu resim kâğıdına çizmeleri istenir ( E1.4 ). Çizim sürecinin seçilen boyama tekniğinin özelliklerine göre planlanması sağlanır. Çizimlerin renklendirme sürecinde verilen geri bildirimlerle öğrencilerin öz güven duyguları desteklenerek çalışmalarını tamamlamaları sağlanır ( E1.5 ). Öğrencilerin çalışma sonrası öğrenme alanını temiz ve düzenli bırakmaları istenir ( D18.2 ). Süreç, dereceleme ölçeği veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.12.3.7. Öğ rencilerin Türk sanatının İslamiyet öncesinden yirminci yüzyılın ortalarına kadar olan süreçte öne çıkan örneklerini incelemeleri sağlanır (OB4). Gösterilen örnekler üzerinden Türk sanatında kullanılan sembolik anlatım biçimlerinin ifade edilmesi sağlanır. Bu veriler ışığında öğ rencilerin Türk sanatının tarihsel süreci ile ilgili çö zümlemeler yapmaları sağlanır. Çözümlemeler yapılırken İslamiyet öncesi, Selçuklu, Osmanlı dönemlerine ait seçilmiş eserlerdeki malzeme, teknik, biçim ve kompozisyon özelliklerinin dikkate alınması istenir. Bu aşamada soru cevap tekniği kullanılabilir ( OB5 ).",
+    "Öğrencilerin Türk sanatının tarihsel süreçleri arasındaki değişimleri üslup özellikleri açısından karşılaştırarak ifade etmeleri sağlanır. İslamiyet öncesinde görülen sembolik unsurların İslamiyet sonrasında geçirdiği biçimsel ve anlamsal değişimlere, Türk-İslam sanatının ürettiği özgün yaklaşımlara, Batı sanatının etkisiyle gelişen farklı arayışlara dikkat çekilir. Öğrencilerden Türk sanatının dönemleri ile ilgili sınıflandırma yaparak sınıflandırmayı bir tablo ile göstermeleri istenir. Öğrencilerin elde ettikleri sonuçlara göre sistematik bir zaman çizelgesi hazırlamaları ve çizelgede Türk sanat tarihinin önemli değişim aşamalarını (İslamiyet'in kabulü, Batı etkileri, modernleşme gibi) ve bu dönemlere ait örnek eserlerin hangileri olduğunu belirtmeleri sağlanır ( E3.7 ).",
+    "Öğrencilerden inceledikleri görsellerde yer alan sembolik ve stilize anlatım ögelerine dikkat ederek Türk sanatının tarihsel sürecini yorumladıkları kısa bir metin yazmaları istenir ( KB2.14 ). Bu süreçte Türk sanatında anlam taşıyan simgelerin tarihsel süreçteki dönüşümünü (örneğin çift başlı kartal, ejder, hayat ağacı, lale vb.) dikkate almaları sağlanır. Süreç, çalışma yaprağı veya tanılayıcı dallanmış ağaç tekniği ile değerlendirilebilir.",
+    "GS.12.3.8. Çağdaş sanat akımlarına ait örnekler gösterilerek öğrencilerin bu görselleri incelemeleri sağlanır ( OB4 ). Seçilecek eserlerin pop art akımı için Andy Warhol'a (Endi Varhol) ait \"Campbell Çorbaları\", kavramsal sanat için Joseph Kosuth'a (Cozef Kasıt) ait \"Bir ve Üç Sandalye\", postmodernizm için Jeff Koons'a (Cef Kuuns) ait \"Balon Köpek\", güncel sanat için Banksy'ye (Benksi) ait \"Balonlu Kız\" gibi döneminin özelliklerini temsil eden eserler olmasına dikkat edilmelidir. Öğrencilerin görselleri incelemeleri ve ilişkilendirmeler yaparak üç dönem arasındaki benzerlikleri belirlemeleri istenir ( E3.6 ). Öğrencilere kişisel tespitlerini paylaşmaları için söz hakkı tanınır ve doğru çıkarımlar desteklenerek net sonuçlara ulaşılması sağlanır ( SDB2.1 ).",
+    "Görseller incelenirken öğrencilerin genelden ayrıntılara doğru ilerleyen bir sıralamaya uymaları sağlanır ( E3.7 ). Öğrencilerin kavramsal sanat, postmodernizm, modernizm, pop art ve güncel sanat akımlarındaki farklılıkların nedenlerini tartışmaları istenir. Öğrencilerin çağdaş sanat anlayışıyla toplumsal koşullar arasındaki ilişkileri fark etmeleri ve ulaştıkları sonuçları ifade etmeleri sağlanır ( SDB2.1 ). Bu süreçte soru cevap tekniğinden faydalanılabilir. Öğrencilerin dönemsel farklılıklarla ilgili tespitleri, karşılaştırma tablosu veya anlam çözümleme tablosu kullanılarak değerlendirilebilir.",
+    "GS.12.3.9. Çağdaş sanat akımları ile ilgili eser görselleri gösterilerek öğrencilerin bu eserlerin kompozisyon yapısını oluşturan ögeleri incelemeleri sağlanır ( OB9 ). Öğrencilerden seçtikleri bir eserin siyah beyaz çıktısını almaları ve çıktı üzerinde eserin kompozisyon bileşenlerini şematik çizim ve işaretlemeler yaparak belirlemeleri istenir ( D7.1 ). Bu süreçte pastel, kuru boya veya sulu boya gibi anlatım araçlarından birini seçerek uygulama yapabilecekleri açıklanır.",
+    "\"Sanatçı hangi nedenlerle böyle bir kompozisyon düzenini tercih etmiş olabilir?\", \"Bu düzenlemenin eserin estetik ve anlam yapısına nasıl etkileri olabilir?\" gibi sorular sorularak öğrencilerin eserin kompozisyon yapısıyla ilgili değerlendirmelerini ifade etmeleri sağlanır ( SDB2.1 ). Resmin temasının genellikle odak noktasına yerleştirildiği, odak noktasının ise kompozisyon yapısından yararlanarak vurgulandığı hatırlatılır. Bu bilgiler doğrultusunda öğrencilerin eserin temasını tespit etmeleri ve temanın vurgulandığı odak noktasından hareketle kompozisyon yapısını oluşturan bileşenler arasındaki ilişkileri belirlemeleri sağlanır. Yapılan çalışmaların sınıf panosunda sergilenmesi istenir. Çalışmalar dereceli puanlama anahtarı veya öz değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D18.2",
+      "D19.2",
+      "D3.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.4",
+      "E1.5",
+      "E2.1",
+      "E3.4",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.4",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB5",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/581"
+}

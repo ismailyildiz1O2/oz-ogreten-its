@@ -1,0 +1,100 @@
+{
+  "unitId": 292,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Türkçe Dersi",
+  "title": "5. TEMA: YETENEKLERİMİZİ KEŞFEDİYORUZ",
+  "hours": "38",
+  "description": "Bu temada yeteneklerin keşfi vb. tema içeriğine uygun dört okuma ve bir dinleme metni işlenirken dinleme/izleme, konuşma, okuma, yazma becerilerine ilişkin belirlenen öğrenme çıktılarına ulaşmak amaçlanır",
+  "outcomes": [
+    {
+      "code": "T.D.1.1",
+      "title": "Dinleme/izlemeyi yönetebilme",
+      "processComponents": [
+        "c) Dinleme kurallarına uygun olarak dinler. T.D.1.3. Dinlediklerini/izlediklerini çözümleyebilme",
+        "c) Dinlediği/izlediği metnin konusunu bulur. T.K.1.1. Konuşmalarını yönetebilme",
+        "b) Konuşma sırasında dinleyiciler ile göz teması kurar. T.K.1.2. Konuşmalarında içerik oluşturabilme",
+        "c) Kendisi ve ailesi hakkında konuşmalar yapar.",
+        "ç) Dinlediklerini/izlediklerini ifade ederken ön bilgilerini kullanır.",
+        "h) İlgi alanına yönelik seçtiği bir konu hakkında konuşur.",
+        "ı) Konuşmalarını desteklemek için görseller kullanır. T.K.1.3. Konuşma kurallarını uygulayabilme",
+        "b) Konuşmalarında konuşma hızını ayarlar.",
+        "d) Konuşmalarında sözcükleri yerinde ve anlamına uygun kullanır. T.O.1.1. Okuma sürecini yönetebilme",
+        "e) Okuyacağı metnin başlığı ve görsellerini inceler.",
+        "f) Kuralına uygun sesli ve sessiz okur.",
+        "g) Anlaşılabilir ve uygun bir hızda sesli okur.",
+        "h) Noktalama işaretlerine dikkat ederek okur. T.O.1.2. Okudukları ile ilgili anlam oluşturabilme",
+        "b) Okuduğu metindeki bilgiler ile ön bilgileri arasında bağlantı kurar.",
+        "c) Okuyacağı metnin başlığından ve görsellerinden hareketle metnin konusu hakkında tahminde bulunur. T.O.1.3. Okuduklarını çözümleyebilme",
+        "a) Okuduğu metnin konusunu bulur. T.Y.1.1. Yazılı anlatım becerilerini yönetebilme",
+        "c) Hece, sözcük ve cümleler yazar.",
+        "d) Verilen bir metni metne bakarak yazar. T.Y.1.2. Yazılarında içerik oluşturabilme",
+        "e) Dinlediği/izlediği veya okuduğu bir metindeki olayları oluş sırasına göre kendi ifadeleriyle yazar.",
+        "g) Seçtiği görselden hareketle kısa bir metin yazar. T.Y.1.3. Yazma kurallarını uygulayabilme",
+        "e) Anlamını bilmediği sözcüğün anlamını çevrim içi veya basılı kaynaklardan araştırarak yazar.",
+        "h) Rakam ve sayıları kuralına uygun yazar."
+      ]
+    }
+  ],
+  "keyConcepts": "çocuk kültürü, dijital oyunlar, eğlence, geleneksel sanatlar, hayal",
+  "support": [
+    "Destekleme sürecinde öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınırken etkinlikler/materyal sade, kolay ve anlaşılır olabilir. Bunlar tüm duyulara hitap edecek şekilde basitten karmaşığa, yakından uzağa, somuttan soyuta gibi öğrenme ilkelerine uygun ve tüm öğrenme ortamlarında uygulanacak şekilde düzenlenebilir.",
+    "Destekleme sürecinde oyun, bilmece sorma, bulmaca çözme şarkı ve tekerleme söyleme, sayışma ve canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Etkinlikler yapılırken öğrencilerin zorlandıkları yerlerde onlara ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınır ve bunlara ilişkin etkinlik/materyal hazırlanabilir. Bunlar merak uyandıracak, üst düzey düşünmeye yöneltecek ve bireysel öğrenme ihtiyaçlarını karşılamaya yönelik olabilir. Dinleyeceği/izleyeceği/okuyacağı metinle ilişkili hikâye oluşturma, canlandırma yapma, dijital araçlardan yararlanma, görsel oluşturma, oyun tasarlama, sunu hazırlama, yazarın iletilerini sorgulama, tartışma, metni yeniden kurgulama gibi etkinliklerle süreç zenginleştirilebilir.",
+    "Zenginleştirme sürecinde öğrenme ortamları öğrencilerin farklı öğrenme stillerine göre bireysel ve iş birlikli çalışmalara katkı sağlayacak şekilde tasarlanabilir. Bununla birlikte okul dışı öğrenme ortamları da sürece dâhil edilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, performans görevi, dereceli puanlama anahtarı, kontrol listesi, öz değerlendirme formu, çalışma kâğıdı, öğrenci öğrenme dosyası kullanılarak değerlendirilebilir. Okuduğunu ve dinlediğini anlama, yazma ve konuşma becerisini içine alan bir performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "Öğrenme-öğretme uygulamaları aşağıdaki sırayla yapılacaktır:",
+    "İşlenecek metinle ilgili belirlenen video, sunu, şarkı gibi materyal veya etkinliklerle metnin içeriğinin merak edilmesi sağlanır ( E1.1 ). Öğrencilerin öğrenmeye istekli hâle gelmeleri ve yeni bakış açıları kazanmaları sağlanarak uyum becerileri desteklenir. ( E3.8 , SDB2.1 , SDB3.1 ).",
+    "Metnin görselleri ve başlığı incelenerek okunacak metnin konusu hakkında tahminde bulundurulur ( KB2.12 ). Tahminler ifade edilirken uygun zamanda söz alınması gerektiği hatırlatılır ( D14) . Görsellerin incelenmesi esnasında görsel okuryazarlığı desteklenir ( OB4 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir.",
+    "Metin, vurgu ve tonlamaya dikkat edilerek sesli bir şekilde örnek olarak okunur. Sesli okuma yapılırken metnin dinleme kurallarına uygun dinlenmesi istenir ( D14 ). Daha sonra öğretmeni takip ederek (yankılayıcı okuma) sesli okuma ve öğretmenle (koro hâlinde okuma) sesli okuma çalışmaları yapılır. Anlaşılabilir, uygun bir hızda ve noktalama işaretlerine dikkat edilerek sesli okuma çalışmaları yaptırılır. Sesli okuma esnasında öğrencilerden metni parmakla takip etmeden, uygun oturuş pozisyonunda, metin ve göz arasındaki mesafeye dikkat ederek okumaları istenir ( KB1 ). Metinde anlamı bilinmeyen sözcüklerin belirlenmesi istenir. Bu süreç, kontrol listesi kullanılarak değerlendirilebilir.",
+    "Dinleme esnasında öğrencilere dinleyeceklerine odaklanmaları, uygun oturuş pozisyonu almaları, sessiz olmaları gibi dinleme kuralları hatırlatılır ( D14 ). Dinleme esnasında anlamı bilinmeyen sözcükleri belirlemeye yönelik çalışmalar yaptırılır. Bu süreç, gözlem formu veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "Metinle etkileşim öncesinde video, sunu, şarkı vb. materyal veya etkinlikler yoluyla dönütler doğrultusunda metin ile bağlantı kurdurulur ( KB2.7 ). Bu süreç, dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Dinleme/izleme ve okuma esnasında belirledikleri anlamını bilmedikleri sözcüklerin anlamları çevrim içi veya basılı kaynaklardan (resimli sözlük, sözlük, kelime haritası, kelime kartları ve benzer araçlardan) buldurulur ( KB2.6 ). Çevrim içi yapılacak araştırma sürecinde dijital okuryazarlığı desteklenir ( OB2 ). Anlamı yeni öğrenilen sözcüklerin cümle içinde kullanılması istenir. Öğrenilen sözcüklerden hareketle öğrencilerin kendi ilgileri doğrultusunda duygu ve düşüncelerini sözlü veya yazılı olarak serbestçe ifade edebilecekleri cümle veya metin oluşturmaları istenerek bağımsızlık eğilimleri desteklenir ( E1.2 , KB3.1 ). Bu süreç, gözlem veya dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Metnin konusuna yönelik yapılan tahminler üzerine konuşulur. Verilen ipuçları ile metnin konusu buldurulur. Metnin konusuna yönelik yapılan tahminlerin doğruluğu kontrol edilir ( KB2.10 , E3.4 ). Bu süreç, gözlem formu veya çalışma kâğıdı kullanılarak değerlendirilebilir.",
+    "Öğrencilerden metnin konusu ile ilgili kendi yaşantılarından örnekler vermeleri istenir ( KB2.14 ). Örnekler esnasında kendisi ve ailesi hakkında da konuşma yapması istenir. Bu esnada dinleyicilerle göz teması kurması, sözcükleri yerinde ve anlamına uygun kullanmaları sağlanır. Konuşma esnasında yaşantılarından örnekler verilirken duygu ve düşüncelerin fark edilmesi yoluyla iletişim becerisi desteklenir ( SDB2.1 ). Bu süreç, gözlem formu veya çalışma kâğıdı kullanılarak değerlendirilebilir.",
+    "Metnin anlaşılıp anlaşılmadığına yönelik yazılı veya sözlü ifade edilebilecek etkinlikler yapılır. Sorular sözlü olarak cevaplanırken konuşma hızının ayarlanması sağlanır. Metinle ilgili sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma desteklenir ( SDB1.1 ). İfade etme esnasında öğrencilere öz güvenlerini artıracak dönütler verilir ( E1.5 ). Bu süreç, gözlem veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilerden metinde geçen olayları/durumları oluş sırasına göre yazılı olarak kendi cümleleriyle ifade etmeleri istenir ( KB1 , KB2.3 ). Bu süreç, çalışma kâğıdı veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Metnin en beğenilen bölümünün anlatılması ve anlatılan bölümle ilgili görseller oluşturulması istenir. Görsel oluşturulurken görselin öğrencilerin kendi bakış açılarını yansıtacak nitelikte olmasına dikkat edilir ( KB3.1 , E3.3 , D7 ). İlgi alanına yönelik seçtiği bir konuyla görselleri oluşturduktan sonra anlatmaları istenir. Oluşturduğu ve anlattığı görselden hareketle kısa bir metin yazması istenir. Bu süreç, gözlem formu ve performans görevi kullanılarak değerlendirilebilir.",
+    "Metin içerisinde belirlenen bir bölüm veya temanın içeriğine uygun başka bir metin verilir. Bu metnin bakarak yazılması istenir. Yazılan metnin sözcük ve cümle sayılarının belirlenmesi ve uygun alana yazılması istenir. Bu süreç, gözlem formu veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14",
+      "D7"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E1.5",
+      "E3.3",
+      "E3.4",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB1",
+      "KB2.10",
+      "KB2.12",
+      "KB2.14",
+      "KB2.3",
+      "KB2.6",
+      "KB2.7",
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/292"
+}

@@ -1,0 +1,68 @@
+{
+  "unitId": 612,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "3. TEMA: SPOR KÜLTÜRÜ",
+  "hours": "6",
+  "description": "Öğrencilerin sporun diplomatik gücü hakkında çözümleme yapabilmeleri, örnek Türk sporcuları hakkında bilgi edinebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.12.3.1",
+      "title": "Sporun diplomatik gücünü çözümleyebilme",
+      "processComponents": [
+        "a) Uluslararası organizasyonlarda sporun diplomatik gücünü ortaya koyan olay/durumları belirler.",
+        "b) Belirlenen olay/durumların devletler arasındaki siyasi ve sosyal gelişmelere etkilerini ilişkilendirir."
+      ]
+    },
+    {
+      "code": "BES.12.3.2",
+      "title": "Örnek Türk sporcuları hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Örnek Türk sporcuları hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Örnek Türk sporcuları hakkında bilgileri bulur.",
+        "c) Örnek Türk sporcuları hakkında bilgileri doğrular.",
+        "d) Örnek Türk sporcuları hakkında bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "spor diplomasisi",
+  "support": [
+    "Naim Süleymanoğlu'nun hayatını anlatan film, belgesel izlemesi istenebilir.",
+    "Belirlenen örnek Türk sporcularının branşlarını listelemesi istenebilir."
+  ],
+  "enrichment": [
+    "Dünyada spor diplomasisinin etkili olduğu kararlar konusunda araştırma yapması istenebilir.",
+    "Türk spor tarihinde örnek sporculardan birinin hayat hikâyesiyle ilgili bir sunum yapması istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; dereceli puanlama anahtarı, akran değerlendirme formu ve performans görevi kullanılarak değerlendirilebilir.",
+    "Sporun diplomatik gücü hakkında hazırlanan kısa metinlerin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir.",
+    "Belirlenen sporcuların başarıları ile ilgili tarih şeridi hazırlanmasına yönelik verilen performans görevi akran değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.12.3.1. \"Spor diplomasisi için ülkelerin hangi kaynaklara (spor elçileri, spor altyapısı, spor kulüpleri, uluslararası spor etkinlikleri vb.) ihtiyaçları olabilir?\", \"Ülkeler arası ilişkilerde sporun ne gibi etkileri olabilir?\" vb. sorular doğrultusunda beyin fırtınası yapılması sağlanır ( E3.4 ). Öğrencilere spor diplomasisine yönelik örnek olayları/durumları içeren (sporun toplumlara etkisi, sporun barışa katkısı, spor organizasyonları olimpiyatlar, sporun uluslararası ilişkilere etkisi vb.) yazılı, görsel ve dijital materyaller sunulur ( OB2 , OB4 ). Öğrenciler öğretmen rehberliğinde gruplara ayrılır. Gruplar örnek olay/durumları inceler ( SDB2.2 ). İnceledikleri örnek olay/durumları spor diplomasisinin etkilediği ekonomi, kültür, teknoloji, iletişim ve medya vb. alanlarla ilişkilendirmeleri istenir. Öğrenciler ülkeler arası dostluğun gelişmesinde sporun rolü hakkında fikirlerini paylaşmaları sağlanır ( D4.5 ). Her grup sporun diplomatik gücü hakkında 150-200 kelimeden oluşan kısa metin hazırlayarak paylaşır. Hazırlanan metinler sınıf panosunda sergilenebilir. Hazırlanan metinler dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BES.12.3.2. Sınıf içerisinde Türk spor tarihine damga vurmuş örnek sporcularla ilgili poster, dergi, kitap, genel ağ vb. doküman köşeleri hazırlanır. Öğrencilere örnek Türk sporculardan hangileri hakkında bilgi sahibi oldukları sorulur. Gelen cevaplardan en çok bilinen beş örnek sporcu belirlenir. Öğrenciler gruplara ayrılır. Gruplardan sınıf ortamında hazırlanmış doküman köşeleri ve/veya genel ağdan yararlanarak belirlenen sporcuları seçtikleri kaynaktan incelemeleri istenir ( SDB2.2 , D19.2 ). Gruplar tarafından incelenen kaynaklardan elde edilen bilgilerin öğretmen rehberliğinde tartışılarak doğrulanması sağlanır ( SDB2.1 ). Belirlenen sporcuların başarıları ile ilgili tarih şeridi hazırlanması performans görevi olarak verilebilir ( SBAB11.2 ). Hazırlanan tarih şeritleri akran değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.2",
+      "D4.5"
+    ],
+    "egilim": [
+      "E3.4"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SBAB11.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/612"
+}

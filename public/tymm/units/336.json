@@ -1,0 +1,76 @@
+{
+  "unitId": 336,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "5. ÜNİTE: HAREKETİ KEŞFEDİYORUM",
+  "hours": "12",
+  "description": "Bu ünitede kuvvetin nesneler üzerindeki etkilerinin gözleme dayalı tahmin edilmesi ve hareket eden varlıkların hareketlerinin bilimsel gözleme dayalı tahmin edilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.3.5.1",
+      "title": "Varlıkların hareket durumlarını gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Varlıkların hareket durumlarına ilişkin ön gözlem ve/veya deneyimlerini ilişkilendirir.",
+        "b) Varlıkların hareket durumlarına ilişkin çıkarım yapar.",
+        "c) Varlıkların hareket durumlarının sonuçlarına ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "FB.3.5.2",
+      "title": "Kuvvetin varlıklar üzerindeki etkilerini bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Varlıkların hareketinin ve şekil değiştirmesinin nedenine ilişkin ön bilgi ve deneyimleriyle önerme oluşturur.",
+        "b) Varlıkların hareketinin ve şekil değiştirmesinin nedenine ilişkin gözleme dayalı olan önermeleri karşılaştırır.",
+        "c) Kuvvetin varlıkların hareketine ve şekil değiştirmesine etkilerine ilişkin tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Kuvvetin varlıkların hareketine ve şekil değiştirmesine etkileri ile ilgili gözlemlenmemiş duruma ilişkin tahminde bulunur.",
+        "d) Kuvvetin varlıkların hareketine ve şekil değiştirmesine etkileri ile ilgili tahminlerinin geçerliliğini sorgular."
+      ]
+    }
+  ],
+  "keyConcepts": "kuvvet, hızlanma, yavaşlama, dönme, sallanma, yön değiştirme, itme, çekme, durdurma, hareket ettirme, şekil değiştirme",
+  "support": [
+    "Belirlenen bir oyuncakla hareket durumlarını (hızlanma, yavaşlama, dönme, sallanma, yön değiştirme) fark etmeleri sağlanabilir. Öğrencilerden kil, kâğıt, sünger, bakır tel, yay, oyun hamuru vb. malzemelerle tasarım yapmaları ve bu sırada kullandıkları malzemeler üzerinde kuvvetin etkisini açıklamaları istenebilir. Kuvvetin harekete etkisi süreci oyunlaştırılabilir. Bir heykeltıraşın mermere ya da çömlek ustasının toprağa nasıl şekil verdiği ile ilgili video izletilebilir."
+  ],
+  "enrichment": [
+    "Varlıkların hareketlerinin birbirine bağlanması ile bir görevi gerçekleştirmeye yönelik Rube Goldberg makine düzeneği oluşturabilir. Öğrencilerden kuvvetin nesneler üzerindeki etkilerini gösteren bir düzenek, ürün veya oyuncak tasarlamaları ve bunları sunmaları istenebilir. Öğrencilere kuvvetin nasıl ölçüleceği ile ilgili araştırma konusu verilebilir ve ölçme aracı tasarlatılabilir. Mühendislik alanlarıyla ilişki kurmaları sağlanabilir. Örneğin robotik hareketleri gerçekleştirmek için kuvvet etkisinin nasıl sağlandığına ilişkin öğrencilere bir araştırma yaptırılabilir ya da robotun bir görevi gerçekleştirmesine yönelik tasarım yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde kontrol listesi, performans görevi, öz değerlendirme formu, öğrenci ürün dosyası kullanılabilir. Varlıkların hareket durumları için yapılan listelerin değerlendirilmesinde kontrol listesi kullanılabilir. Öğrenciler varlıkların hareket durumlarına ilişkin bir poster hazırlayabilir. Bu görevin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Hareketli cisimlerin neden olabileceği tehlikelere karşı gösterdiği davranışlarla ilgili öz değerlendirme formu kullanılabilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.3.5.1. Varlıkların hareket durumlarını gözlemlemeleri için öğrencilere okul bahçesinde uygulamalı etkinlikler yaptırılabilir ya da dijital içeriklerden yararlanılabilir. Öğrencilerin oyun oynarken varlıkların hareketlerini ön gözlem ve deneyimleriyle ilişkilendirirken aktif rol almaları sağlanır ( SDB1.1 , D3.4 , SDB2.2 , E2.5 ) . Gözlem sonucunda öğrencilerden iş birlikli öğrenme ya da tartışma gibi yöntemler kullanarak varlıkların hareket durumlarına (hızlanma, yavaşlama, dönme, sallanma ve yön değiştirme) ilişkin çıkarım yapmaları beklenir ( SDB2.2 , E3.4 , KB2.10 ) . Yapılan çalışmalar kontrol listesi kullanılarak değerlendirilebilir. Günlük yaşamda varlıkların hareketlerinin sonuçlarını tartışmaları sağlanabilir ( SDB1.2 ) . Öğrencilerin varlıkların hareket durumlarının olumlu ve olumsuz sonuçlarına ilişkin yargıda bulunmaları sağlanır ( KB2.13 , SDB3.3 , E3.6 ) . Öğrenciler varlıkların hareket durumlarına ilişkin bir poster hazırlayabilir. Bu görevin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "FB.3.5.2. Öğrencilere hareket etmenin, spor yapmanın fiziksel ve psikolojik sağlığa katkıda bulunduğu söylenir ( D13.2 ) . Sınıfta, okul bahçesinde ya da oyun parkında bir oyun oynatılabilir ya da hareket eden ve şekil değiştiren varlıklar dijital ortamlarda izletilebilir ( E2.5 , KB2.2 ) . Öğrencilerin oyundaki deneyimlerini ve önceki bilgilerini gözden geçirerek varlıkların hareketinin ve şekil değiştirmesinin nedenlerine ilişkin ön bilgi ve deneyimleriyle önerme oluşturmaları sağlanır ( SDB1.2 ) . Öğrencilerden varlıkların hareketinin ve şekil değiştirmesinin nedenlerine ilişkin gözleme dayalı önermelerini karşılaştırmaları istenir ( SDB2.1 , E3.4 ) . Bunun için düşün-eşleş-paylaş tekniği kullanılabilir. Arkadaşlarını etkin dinlemeleri ve önermelerini oluşturan ortak düşünceleri belirlemeleri için yönlendirilebilir ( SDB2.2 ) . Öğrencilerden gözlem verilerinden yola çıkarak itme ve çekmenin varlıkların hareketine ve şekil değiştirmesine neden olduğu sonucunu çıkarmaları beklenir ( SDB1.2 ) . Farklı durumlarda kuvvetin hareket durumuna ve şekil değiştirmeye etkisi ile ilgili gözlemlenmemiş duruma ilişkin tahminde bulunmaları istenir. Bunun için çalışma yaprağı kullanılabilir ya da dijital içeriklerden yararlanılabilir. Etkileşime geçtikleri dijital içerik üzerinden bilgiyi karşılaştırmaları, değerlendirmeleri ve çıkarım yapmaları sağlanır ( OB2 ) . Kuvvetin hareket durumuna ve şekil değiştirmeye etkisi ile ilgili tahminlerinin geçerliliğini sorgulamaları sağlanır ( SDB3.3 , E3.10 , KB2.8 ) . Doğru ve güvenilir bilgiyi ayırt edebilmeleri ve eleştirel bir bakış açısıyla hareket etmeleri için yönlendirilir ( D3.3 ) . Öğrenciler bu süreçte öz değerlendirme formu ile değerlendirilebilir ( SDB1.3 ) . Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.10",
+      "E3.4",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/336"
+}

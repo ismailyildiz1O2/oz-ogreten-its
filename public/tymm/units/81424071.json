@@ -1,0 +1,49 @@
+{
+  "unitId": 81424071,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "71. ÜNİTE: NEY - NEYDE PERDE UYGULAMALARI II",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.10.3.1",
+      "title": "Üçüncü kademedeki perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.3.2",
+      "title": "İkinci ve üçüncü kademedeki perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.3.3",
+      "title": "Dördüncü kademedeki perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.3.4",
+      "title": "İkinci, üçüncü ve dördüncü kademedeki perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.3.5",
+      "title": "Dem ses bölgesindeki perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.3.6",
+      "title": "İkinci kademe ile birinci kademe arasındaki köprü perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

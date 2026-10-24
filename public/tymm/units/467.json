@@ -1,0 +1,122 @@
+{
+  "unitId": 467,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "4. TEMA: GEOMETRİK NİCELİKLER (1)",
+  "hours": "19",
+  "description": "Bu temada öğrencilerin geometrik cisimler ve görünümlerini yorumlayabilmeleri, dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanını ve hacmini hesaplayabilmeleri, hacim ölçme birimleri arasındaki ilişkileri değerlendirebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.7.4.1",
+      "title": "Eş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Eş küplerle oluşturulan yapıların farklı yönlerden görünümlerini çizer ve görünümleri verilen yapıları eş küplerle oluşturur.",
+        "b) Oluşturduğu yapı ile görünümleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.7.4.2",
+      "title": "Dikdörtgenler prizmasının yüzey alanını yorumlayabilme",
+      "processComponents": [
+        "a) Dikdörtgenler prizmasının farklı yüzey açınımlarını inceler.",
+        "b) Dikdörtgenler prizmasının yüzey açınımı ile yüzey alanı arasındaki ilişkileri ifade eder.",
+        "c) Dikdörtgenler prizmalarının yüzey açınımlarından yararlanarak yüzey alanlarını hesaplar."
+      ]
+    },
+    {
+      "code": "MAT.7.4.3",
+      "title": "Dikdörtgenler prizmasının hacmini eş nesneler aracılığıyla yorumlayabilme",
+      "processComponents": [
+        "a) Dikdörtgenler prizmalarının hacimlerini karşılaştırarak inceler.",
+        "b) Eş nesneler ile doldurulmuş dikdörtgenler prizmasını oluşturur.",
+        "c) Dikdörtgenler prizmasını oluşturan eş nesnelerin sayısını prizmanın hacmi olarak ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.7.4.4",
+      "title": "Dikdörtgenler prizmasının hacim bağıntısını değerlendirebilme",
+      "processComponents": [
+        "a) Dikdörtgenler prizmasının hacmini belirlemede ölçüt olarak birimküpleri belirler.",
+        "b) Dikdörtgenler prizmasının hacmini belirlemek için prizmaların içine yerleştirilen birimküpleri sayar.",
+        "c) Toplam birimküp sayısı ile dikdörtgenler prizmasının ayrıt uzunluklarını karşılaştırır.",
+        "ç) Birimküpleri farklı stratejilerle sayarak dikdörtgenler prizmasının hacmini taban alanı ile yüksekliğin çarpımı olarak ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.7.4.5",
+      "title": "Hacim ölçme birimleri arasındaki ilişkileri değerlendirebilme",
+      "processComponents": [
+        "a) Bir cismin hacmini ölçmede metreküpü ve litreyi ölçüt olarak belirler.",
+        "b) Metreküp ve litreyi kullanarak ölçme yapar.",
+        "c) Hacim ölçme sonuçlarını desimetreküp, santimetreküp ve milimetreküp; sıvı ölçme sonuçlarını desilitre, santilitre ve mililitre ile ilişkilendirerek karşılaştırır.",
+        "ç) Karşılaştırmalarına ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAT.7.4.6",
+      "title": "Günlük hayat durumlarında dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problem çözebilme",
+      "processComponents": [
+        "a) Dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problemde ilgili matematiksel bileşenleri (şekil, cisim, uzunluk, alan, yükseklik gibi) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkileri belirler.",
+        "c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunarak işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlediği stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Dikdörtgenler prizmasının yüzey alanı, yüzlerinin alanları toplamına eşittir. • Dikdörtgenler prizmasının hacmi taban alanı ile yüksekliğin çarpımına eşittir. • Aynı hacme sahip, ayrıt uzunlukları birbirinden farklı birden çok dikdörtgenler prizması bulunur. • Hacim ölçmede temel birim metreküp olup birimler arası dönüşüm 1000 kata dayalı olarak değişir. Anahtar Kavramlar ayrıt, desilitre, desimetreküp, dikdörtgenler prizması, hacim, litre, metreküp, mililitre, milimetreküp, prizma, santilitre, santimetreküp, taban, yüz, yüzey, yüzey alanı Sembol ve Gösterimler m³, dm³, cm³, mm³, L, dL, cL, mL",
+  "support": [
+    "Öğrencilerin geometrik cisimleri farklı yönlerden görünümlerini içeren kartlar ile eşleştirdikleri şeklinde oyunlar oynamaları sağlanabilir. Dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmi ile ilgili çocuk edebiyatı eserlerinin okunması sağlanabilir. İlgili kavramlara yönelik kitap bulunamaması hâlinde öğrencinin sevdiği bir karakterden bu kavramlarla ilişkili bir hikaye oluşturması istenebilir. Hacim ölçme birimlerine yönelik dönüşümlerde sonucu doğal sayı olacak dönüşümlere yer verilebilir. Problemlere ilişkin hazırlanan çalışma kâğıdında öğrencinin öğrenme hızına yönelik daha küçük ve tam sayılar içeren, daha az basamaklı çözüm gerektiren problemlerin seçimi gibi uyarlamalar yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden eş küplerle oluşturulmuş bir yapının izometrik kâğıtta temsil edilmesi istenebilir. Ayrıca verilen ön, sağ ve üst görünümlere uygun yapıları dijital üç boyutlu modelleme uygulamalarında en az sayıda küp kullanarak oluşturmaya dair alternatif stratejiler geliştirmeleri istenebilir. Sanal manipülatifler aracılığıyla dikdörtgenler prizmasının farklı yüzey açınımları üzerinde çalışmalarına fırsat verilebilir. Prizmalarda köşe, ayrıt ve yüzey sayılarının ilişkisini içeren Euler (Öyler) bağıntısını araştırmaları sağlanabilir. Sıvı maddelerin ölçümünde neden sıklıkla silindir şeklinde kaplar kullanıldığına ve neden dikdörtgenler prizmasının daha az tercih edildiğine ilişkin bir araştırma yapılması istenebilir. Aynı hacme sahip ayrıt uzunlukları tam sayı olan olası tüm dikdörtgenler prizmalarını, dijital araç ile iş görme becerilerini desteklemeleri için sanal ortamda oluşturmaları ve yüzey alanlarını hesaplamaları istenebilir. Bu prizmalar yüzey alanı en küçük olandan en büyük olana doğru sıralanarak aynı hacme sahip dikdörtgenler prizmalarının hangi durumda maksimum yüzey alanına sahip olduğu üzerine çıkarımda bulunmaları sağlanabilir. Ayrıt uzunluğu, alan ve hacim ilişkisi üzerine önermeler sunmaları beklenebilir. Hacim ölçme birimlerinde metreküpten daha büyük ölçme birimleri (km3, hm3, dam3) arasındaki dönüşümler üzerine çalışmalar yapılabilir. Sıvı ölçme birimlerine ve dikdörtgenler prizmasının hacmine ve yüzey alanına ilişkin problem kurmaları ve çözmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıtları, açık uçlu sorular, zihin haritası, kontrol listesi, öz değerlendirme formu ve performans görevi ile değerlendirilebilir. Öğrencilere bir grup çalışması ile farklı ülkelerde ve geçmişte kullanılan hacim ve sıvı ölçme birimlerini araştırmalarını ve farklılıklara dair rapor hazırlamalarını amaçlayan performans görevi verilebilir. Öğrencilerden araştırma sonuçlarını bir poster hâline getirerek EBA platformunda paylaşmaları istenebilir. Performans görevi; bilgi toplama ve raporlaştırma, görsel tasarım ilkeleri gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarıyla değerlendirilebilir. Tema boyunca işlenen öğrenme çıktıları/süreç bileşenleri hakkında öğrencilerin eksik öğrenmelerini belirlemek ve gidermek amacıyla izleme testi uygulanabilir. Performans ürünü, izleme testi, çalışma kağıtları ve kontrol listesi sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.7.4.1 Öğrencilerin eş küplerle herhangi bir yapı oluşturmaları istenir ve farklı yönlerden (önden, üstten, sağdan, soldan) bakıldığında kaç kare gördüklerini ifade etmeleri sağlanır. Ardından eş küplerle oluşturdukları yapıların sol, sağ, ön, arka ve üst kısımlarının görünümlerini kareli veya noktalı kâğıda çizmeleri beklenir. Çeşitli yapıların farklı yönlerden görünümleri verilerek bu yapıları eş küplerle oluşturmaları istenir. Öğrencilerden oluşturdukları yapıları inceleyerek farklı yönlerden görünümleri arasındaki ilişkileri açıklamaları beklenir. Bu süreçte öğrencilerin oluşturdukları yapıların sağ-sol, ön-arka ve üst-alt görünümlerinin simetrik olduğuna ilişkin yorum yapmalarına fırsat verilir ( OB4 ) . Yapılar ve görünümleri arasındaki ilişkiyi çözümleyebilmelerine yönelik öğrenme eksikliklerinin ve kavram yanılgılarının ortaya çıkarılmasına ilişkin ( SDB1.1 ) çalışma kâğıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.7.4.2 Öğrencilerden verilen dikdörtgenler prizması modellerinin (ilaç kutusu, parfüm kutusu, diş macunu kutusu, çikolata kutusu gibi) yüzey açınımlarını kâğıda çizmeleri istenir. Sınıfa getirilen kutular ayrıtlarından kesilip açılarak yapılan çizimlerle karşılaştırılır. Kutular ayrıtlarından kesilirken farklı yüzey açınımlarını oluşturabileceklerini fark etmeleri ve bu açınımları incelemeleri sağlanır ( OB4 ) . Bu süreçte matematik yazılımındaki yüzey açınımı aracından da yararlanılabilir ( MAB5 , OB2 ) . Sınıfa getirilen dikdörtgenler prizması şeklindeki kutunun yüzeyinin paket kâğıdı ile kaplanması istendiğinde bunun için ihtiyaç duyulan kâğıt miktarının belirlenmesini amaçlayan bir problem üzerinden öğrencilerin yüzey açınımı ile yüzey alanı arasındaki ilişkiyi ifade etmelerine fırsat verilir. Öğrencilerin sahip oldukları paket kağıdını en verimli şekilde kullanmaları için kutu kaplama sürecinde gereken minimum kâğıt miktarını belirlemeleri istenerek tasarruf değerini kazanmaları desteklenir ( D17.3 ) . Öğrencilerin alan ölçmenin gerekliliğini hissetmeleri sağlanarak ( OB1 ) dikdörtgenler prizmasının yüzey alanının nasıl hesaplanacağına dair çözüm üretmeleri sağlanır. Öğrencilerin prizmanın yüzey alanını belirlemek için tüm yüzlerin alanlarının toplanması gerektiği sonucuna ulaşmaları ve yüzey alanını hesaplamaları beklenir. Ardından dikdörtgenler prizmasının özel durumları olarak kare prizma ve küp örneklerine yer verilir. Öğrencilerin dikdörtgenler prizmalarının yüzey açınımlarını incelemelerine ve yüzey açınımlarından yararlanarak yüzey alanlarını hesaplamalarına yönelik çalışma kâğıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.7.4.3 Öğrencilerin kapasitelerini karşılaştırmada zorlanacakları dikdörtgenler prizması şeklindeki iki benzer kutu sınıfa getirilerek öğrencilerin bu kutuların kapasitelerini tahmin etmeleri ( KB2.11 ) ve karşılaştırmaları istenir. Bu süreçte kutuların kapasitelerini standart olmayan birimlerle (süt kutusu, sayı küpü, pinpon topu gibi) ölçerek kendi karşılaştırma yöntemlerini geliştirmeleri için fırsat verilir. Öğrenciler prizmayı doldurmak için kullanılabilecek birim seçiminde özgür bırakılır. Hacmi ölçülecek kutuların içerisine birim olarak belirlenen nesnelerden kaç tanesinin yerleştirilebildiğini saymaları ve farklı kutuların hacimlerini tablo temsili ( MAB3 ) kullanarak incelemeleri sağlanır. Bir kutuyu aynı büyüklükteki nesneler ile doldurmanın ne anlama geldiğini tartışmaları için uygun öğrenme ortamı oluşturulur. Dikdörtgenler prizmasının özel durumları olarak kare prizma ve küp örneklerine de yer verilir. Öğrencilerin dikdörtgenler prizmasını, belirlenen eş nesnelerden oluşan yapıya dönüştürme ve eş nesnelerin sayısını prizmanın hacmi olarak ifade etmelerine yönelik açık uçlu sorular sorulabilir. Böylece öğrencilerin zihinlerinde hacim ile ilgili anlamlı bir yapının oluşup oluşmadığı değerlendirilebilir ( SDB3.3 ) .",
+    "MAT.7.4.4 Öğrencilerin dikdörtgenler prizmasının hacminin ölçülmesinde kullanılabilecek en uygun birimin ne olduğunu tartışmaları sağlanır. Öğrencilerden dikdörtgenler prizmasının hacmini belirlemede birimküpleri ölçüt olarak belirleyerek bir dikdörtgenler prizmasının hacmini ölçmeleri beklenir. Bu süreçte öğrencilerin farklı stratejiler kullanarak (farklı yüzlerden başlayarak çalışma gibi) dikdörtgenler prizmasının içine küp yerleştirmelerine ve yerleştirilen küp sayısını belirlemelerine fırsat verilir. Öğrencilerin daha büyük hacimler söz konusu olduğunda birimküp saymanın fazla zaman alacağını fark etmeleri sağlanır. Toplam birimküp sayısına -birimküpleri saymadan -farklı bir yoldan nasıl ulaşabileceklerini tartışmaları için uygun öğrenme ortamı oluşturulur ( SDB3.1 ) . Bu süreçte öğrencilerin toplam küp sayısı ile dikdörtgenler prizmasının ayrıt uzunlukları arasındaki ilişkiyi inceleyerek dikdörtgenler prizmasının hacminin taban alanı ile yüksekliğin çarpımına eşit olduğu sonucuna ulaşmaları beklenir ( SDB3.3 ) . Öğrencilerin eşit sayıda birimküplerle kendi dikdörtgenler prizmalarını oluşturmaları sağlanır. Böylece aynı hacme sahip farklı dikdörtgenler prizmalarının varlığını fark etmeleri beklenir. Buradan hareketle cismin şekli değiştiğinde hacmin korunup korunmadığına yönelik tartışma ortamı oluşturulur ( SDB2.1 ) . Verilen bir hacim ölçüsüne sahip, prizma olmayan farklı yapılar oluşturmaya yönelik çalışmalara da yer verilir. Öğrencilerin kare prizma ve küpün hacimlerini dikdörtgenler prizmasının hacim bağıntısına göre yorumlamalarına fırsat verilir. Bu öğrenme çıktısının değerlendirilmesinde çalışma kâğıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.7.4.5 Öğrencilerin hacim ve sıvı ölçmede kullanılabilecek ölçütleri fark edebilmelerine fırsat vermek için günlük hayattan örnekler verilir. Hacim ölçmede metreküpün (m³), sıvı ölçmede litrenin (L) öğrenciler tarafından ölçüt olarak belirlenmesi beklenir. Öğrencilerin bir kamyonun kasasını bir ayrıtı 1 m uzunluğunda olan küp şeklindeki koliler ile doldurmak istediklerinde kaç koli kullanmaları gerektiğini tartışmaları sağlanabilir. Daha sonra ayrıtı 1 m uzunluğunda olan küp şeklindeki koliyi, ayrıt uzunluğu 1 dm olan küp şeklindeki kutular ile doldurmak istediklerinde kaç kutu kullanmaları gerektiğini hesaplayarak metreküp (m³) ile desimetreküp (dm3) arasındaki ilişkiyi tartışmalarına fırsat verilebilir. Gözlemledikleri ilişkiden yola çıkarak metreküp (m³) ile santimetreküp (cm³) ve milimetreküpü (mm³) karşılaştırmaları ve aralarındaki ilişkileri sorgulamaları istenir. Süreçte somut ve sanal manipülatiflerden yararlanılabilir ( MAB3 , MAB5 ) . Sınıfa ölçüleri desimetre cinsinden doğal sayı olan dikdörtgenler prizması şeklinde plastik kap veya yağ tenekesi getirilerek bu kabın veya tenekenin hacminin öğrenciler tarafından desimetreküp (dm³) cinsinden hesaplanması sağlanır. Ardından kabın veya tenekenin 1 litrelik su şişesiyle kaç defada doldurulabileceği konusunda öğrencilerde merak uyandırılır ( E1.1 ) . Öğrencilerle beraber 1 litrelik su şişesi kullanılarak kap veya teneke su ile doldurulur. Öğrencilerin 1 litrelik su şişesinin kullanım sayısı ile kabın veya tenekenin hacminin desimetreküp cinsinden sayısal büyüklüğünü karşılaştırmaları sağlanır. Uygulama sonucunda öğrencilerin 1 litrenin 1 desimetreküpe eşit olduğunu ifade etmeleri beklenir. Böylece sıvı ölçme birimi olarak kullanılan birimin aynı zamanda hacim ölçme birimi olduğunu fark etmeleri sağlanır. Ardından 1 litrelik su şişesini 1 desilitre (dL) hacme sahip bardak kullanarak sıvı ile doldurmak istediklerinde bardağı kaç kez doldurmaları gerektiğini incelemeleri için uygun öğrenme ortamı oluşturulur. Gözlemledikleri ilişkilere dayanarak litre (L) ile santilitre (cL) ve mililitreyi (mL) karşılaştırmaları ve aralarındaki ilişkileri sorgulamaları beklenir. Diğer yandan bir nesnenin (taş, patates, kaşık gibi) hacmini ölçmek için dereceli kaptaki sıvının yükselme seviyesi incelenerek sıvı seviyesindeki artış ile nesnenin hacmi arasındaki ilişkinin öğrenciler tarafından tartışılması sağlanır. Çalışmaların sonucunda öğrencilerin hacim ölçme birimleri arasında 1000 kata dayalı, sıvı ölçme birimleri arasında ise 10 kata dayalı ilişkinin bulunduğuna yönelik yargıya varmaları beklenir. Öğrencilerin ön öğrenmeleri ile yeni öğrenmelerini ilişkilendirmelerini sağlamak, konu ile ilgili zihinlerindeki kavram ve ilişkileri belirlemek amacıyla zihin haritası kullanılabilir. Zihin haritaları dereceli puanlama anahtarı veya kontrol listesi ile değerlendirilebilir. Ayrıca öğrencilerin bir grup çalışması ile ( SDB2.2 , SDB2.3 ) farklı ülkelerde ve geçmişte kullanılan hacim ve sıvı ölçme birimlerini araştırmaları istenebilir. Araştırmalarda öğrencilerin ölçme birimlerinin gelişimine etki eden kültürel mirasları da açıklayarak birimlerin farklılıklarına dair rapor hazırlamalarını amaçlayan performans görevi verilebilir. Öğrencilerden araştırma sonuçlarını bir poster hâline getirerek EBA platformunda paylaşmaları istenebilir ( OB2 ) . Performans görevinin değerlendirilmesinde bilgi toplama ve raporlaştırma, görsel tasarım ilkeleri gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı, grup çalışmalarının değerlendirilmesinde ise grup değerlendirme formu kullanılabilir.",
+    "MAT.7.4.6 Öğrencilerin odaklanmasını sağlamak için merak ve ilgi uyandırıcı problemler sunulur (örneğin gemi taşımacılığında standart konteyner büyüklüğüne göre yerleştirilecek kolilerin hacim ve yüzey alanlarının belirlenmesi gibi), problemlere çözümler geliştirmeleri için öğrencilere yeterli süre tanınır ( E3.2 ) . Benzer şekilde sıvı ölçme birimleriyle ilgili problem bağlamlarına da yer verilir. Problemlerin çözümünde öncelikle öğrencilerden problemle ilgili şekil, cisim, uzunluk, alan ölçüleri, yükseklik gibi matematiksel bileşenleri belirlemeleri istenir. Bu süreçte öğrencilerden problemden ne tür bilgiler elde edeceklerini ifade etmeleri, olaylara ve ilişkilere yönelik basit şekil ya da diyagram çizmeleri beklenir. Böylece problemlerin anlaşılıp anlaşılmadığı değerlendirilir. Öğrencilerin matematiksel bileşenler arasındaki ilişkileri belirleyip, problem bağlamındaki temsillerini farklı temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları istenir. Problemlere yönelik matematiksel çözümler geliştirilirken öğrencilerin sonuca ilişkin tahminde bulunmaları ve stratejiler geliştirmeleri beklenir. Öğrencilerin çözüm stratejileri geliştirirken farklı temsillerden (birimküpler, sanal manipülatifler, tablo gibi) ( MAB3 , MAB5) yararlanmaları sağlanır. Öğrencilerin seçtikleri farklı stratejiler ile problemleri çözmelerine fırsat verilir ( SDB3.3 ) . Çözüm stratejileri geliştirme ve uygulama sürecinde iş birliği içinde grup çalışmaları yapmaları sağlanır ( SDB2.2 ) . Öğrencilerden grup çalışmaları sırasında çözüm stratejilerini gözden geçirmeleri, çözüme ulaştırmayan stratejileri değiştirmeleri beklenir. Kullandıkları veya geliştirdikleri stratejileri gözden geçirip alternatif yollara ilişkin çıkarımlar ve değerlendirmeler yapmaları istenerek sınıfta stratejilerini paylaşmalarına olanak verilir. Problem çözme sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları ve yaptıkları genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Öğrencilerin benzer türde günlük hayat problemleri kurmaları ve problemlerin bağlamlarına yönelik yansıtmalar yapmaları da sağlanır. Ayrıca çıkarımlarını değerlendirmeleri ve seçtikleri stratejilere karar verme sürecine ait davranışlarının sorumluluğunu kabul etmeleri beklenir ( SDB3.3 ) . Dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanları ve hacimleri ile ilgili problemlerde öğrencilerin problem çözme süreçlerine yönelik kontrol listesi hazırlanabilir. Problem çözmeye ilişkin güçlü ve zayıf yönlerinin değerlendirilmesinde ve öğrenmelerini geliştirme sorumluluğunun üstlenilmesinde öz değerlendirme formu kullanılabilir ( SDB1.2 ) . Benzer problemler aracılığıyla malzemelerin üretim ve kullanım süreçlerinde kaynakların verimli kullanılması için dikdörtgenler prizması şeklindeki nesnelerin tercih edilmesinin önemini öğrencilerin fark etmesi sağlanır. Bu incelemelerde ele alınan dikdörtgenler prizmalarının yüzey alanları ve hacimlerinin belirlenmesi beklenir"
+  ],
+  "skills": {
+    "deger": [
+      "D17.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.11"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/467"
+}

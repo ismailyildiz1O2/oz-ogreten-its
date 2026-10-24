@@ -1,0 +1,65 @@
+{
+  "unitId": 81365002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ekonomi Dersi",
+  "title": "2. ÜNİTE: PİYASA MEKANİZMASI: TALEP, ARZ VE FİYAT OLUŞUMU",
+  "hours": "8",
+  "description": "Bu ünitede malların değişim değerlerini belirleyen fiyatın tanıtılması, arz ve talep ilkelerine göre oluşumunun açıklanması hedeflenmiştir. Ayrıca arz ve talep mekanizmalarının işleyişine yer verilmiş, tam rekabet piyasası kavramı verilerek piyasada rekabetin aksadığı durumlara değinilmiştir.",
+  "outcomes": [
+    {
+      "code": "EKO.2.1",
+      "title": "Talep kavramını ve talebe etki eden faktörleri örneklerle açıklar",
+      "processComponents": [
+        "Talebin özelliklerine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.2.2",
+      "title": "Arz kavramını ve arza etki eden faktörleri örneklerle açıklar",
+      "processComponents": [
+        "Arz kavramı tanımlanarak arzın özelliklerine ve arza etki eden faktörlere vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.2.3",
+      "title": "Fiyat oluşumunu etkileyen faktörleri açıklar",
+      "processComponents": [
+        "Fiyat oluşumuna etki eden faktörler ele alınır."
+      ]
+    },
+    {
+      "code": "EKO.2.4",
+      "title": "Piyasa denge fiyatını grafikle gösterir",
+      "processComponents": [
+        "Piyasalardaki fiyatın belirlenmesinde arz ve talebin etkisine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "EKO.2.5",
+      "title": "Arz ve talepte meydana gelen değişmelerin fiyat üzerindeki etkilerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.2.6",
+      "title": "Rekabet ile fiyat arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Firma sayısının fiyata etkisine değinilir. Rekabet kavramı tanımlanarak rekabetin olduğu piyasalar ile rekabetin olmadığı piyasalardaki fiyat oluşumuna vurgu yapılır.",
+        "Tam rekabet, eksik rekabet [monopol (tekel), oligopol, monopollü (tekelci) rekabet] piyasalarına değinilir."
+      ]
+    },
+    {
+      "code": "EKO.2.7",
+      "title": "Piyasa yapılarını açıklayarak bu yapıların farklılıklarını ortaya koyar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163132505-Ekonomi.pdf"
+}

@@ -1,0 +1,80 @@
+{
+  "unitId": 32,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "2. ÜNİTE: FELSEFE, MANTIK VE ARGÜMANTASYON",
+  "hours": "8",
+  "description": "Bu ünitede öğrencilerin düşünme ve dil ilişkisini, mantık ve argümantasyon ile ilgili kavramları ve argümantasyonun yapısını yorumlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.2.1",
+      "title": "Düşünme ve dil ilişkisini yapılandırabilme",
+      "processComponents": [
+        "a) Düşünme ve dil ilişkisini inceleyerek nedensel ilişkiler ortaya koyar.",
+        "b) Tespit ettiği ilişkilerden hareketle uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "FEL.10.2.2",
+      "title": "Mantığın temel kavramlarını ve argümantasyon sürecini yorumlayabilme.",
+      "processComponents": [
+        "a) Mantık ve argümantasyonla ilgili kavramları inceler.",
+        "b) İfadeleri bağlamından koparmadan mantıksal yapılarına göre öncül ve sonuç bileşenlerine ayırarak dönüştürür.",
+        "c) İfadeleri anlamını değiştirmeden, kendi cümleleriyle nesnel ve doğru biçimde yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "akıl yürütme, argüman, dil, düşünme, mantık, safsata, tutarlılık",
+  "support": [
+    "Mantık, akıl yürütme ve argümantasyonda kullanılan temel kavramların incelenmesi sürecinde şemalar ve görseller içeren kısa bilgi kartları kullanılabilir. Örnek durumlardaki çıkarımlar belirlenerek akıl yürütme türü ve argümantasyon yapısına uygun olarak yeniden ifade etme sürecinde akran destekli öğrenmeden faydalanılabilir. Safsataların tespit edilmesinde ve değerlendirilmesinde grup çalışmaları yaptırılabilir."
+  ],
+  "enrichment": [
+    "* Çok değerli mantık, deontik mantık ve bulanık mantığın temel kavramları araştırılarak düşünme ve akıl yürütmede kullanılan temel mantık kavramları ile karşılaştırılabilir. Wittgenstein'ın \"dil oyunu\" kuramı ile ilgili araştırma yapılabilir. Bilimsel hipotezlerin oluşturulma süreci, akıl ilkeleri ve geri çıkarım düşüncesinden hareketle değerlendirilebilir. Kodlama becerisine sahip öğrenciler, argüman diyagramını bir algoritmaya dönüştürebilir; yazılım sürecinde mantıksal boşlukları (bugları) tespit ederek argümanın tutarlılığını test edebilirler.' 'Schrödinger'in kedisi'' düşünce deneyine yönelik yorumlarda (Kopenhag yorumu, Ensemble yorumu, ilişkisel yorum vb.) öne sürülen argümanlar değerlendirilebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktıları; çalışma kağıdı, açık uçlu sorular, öz değerlendirme formu, akran değerlendirme formu ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrencilerden, verilen safsataları tespit etmeleri, bunları toplumsal açıdan değerlendirmeleri ve değerlendirmelerini sınıf ortamında sunmaları istenebilir. Performans görevi; safsataları belirleyebilme, safsata türlerini ayırt edebilme, toplumsal açıdan etkisini değerlendirebilme ve çözüm önerilerini sunabilme gibi ölçütler üzerinden dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.2.1",
+    "Öğrencilerin düşünme ve dil ilişkisini yapılandırmaları amaçlanır. Bunun için;",
+    "• Düşünme ve dil ilişkisine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada, düşünme ve dilin farklı tanımlarını, genel özelliklerini ve aralarındaki ilişkiyi yansıtan bilgi görsellerine yer verilerek öğrencilerden iş birlikli biçimde düşünme ve dil arasındaki nedensel ilişkiler hakkında tahminde bulunmaları istenir ( SDB2.2 , KB2.11 ). Sürecin sonunda öğrencilerin tespit ettikleri ilişkilerden hareketle düşünme ve dil ilişkisine yönelik uyumlu bir bütün oluşturmaları sağlanır. Bu doğrultuda öğrencilerden yargılar oluşturmaları ve ulaştıkları yargıların doğruluğunu değerlendirmeleri beklenir ( E3.10 ). Kavram yanılgıları ve öğrenme eksikliklerine ilişkin dönüt verilir; öz değerlendirme formu kullanılabilir.",
+    "10.2.2.",
+    "Öğrencilerin ifadeleri mantıksal açıdan değerlendirmeleri için mantık ve argümantasyonda kullanılan temel kavramları incelemeleri amaçlanır. Bunun için;",
+    "• Farklı mantık tanımları verilerek öğrencilerin mantığın anlamını ifade etmeleri sağlanır ( OB1 ).",
+    "• Akıl ilkelerini (özdeşlik, çelişmezlik, üçüncü hâlin imkânsızlığı ve yeter-sebep) örneklerle açıklayan bilgi görseli verilerek öğrencilerden bu ilkelere kendi örneklerini vermeleri istenir.",
+    "• Önerme olan ve önerme olmayan ifadeler karışık olarak verilerek öğrencilerden bu ifadeleri \"önerme olan\" ve \"önerme olmayan\" biçimde listelemeleri ve önerme olanlardan hangilerinin doğru olabileceğini belirlemeleri istenir ( E3.10 , KB2.5 ). Öğrencilerin önermeyi ve doğruluk kavramını kendi cümleleriyle tanımlamaları sağlanır (OB1). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "• Öğrencilere akıl yürütme ve türlerini (tümdengelim, tümevarım ve analoji); argüman ve tutarlılık kavramlarını örneklerle açıklayan bilgi görseli verilir. Öğrencilere verilen örneklerde geçen ifadelerde akıl yürütme türlerinin ve argümanların nasıl belirleneceği ve tutarlılığın nasıl değerlendirileceği gösterilir. Yapılandırılmış metinler verilerek öğrencilerin bu metinlerde akıl yürütme türlerini ve argümanları tespit etmeleri ve tutarlılıklarına karar vermeleri sağlanır ( KB3.1 ).",
+    "• Öğrencilere safsata kavramının anlamı ile safsata türlerinin özelliklerinin (otoriteye başvurma, adam karalama, cımbızlama, popülerliğe baş vurma, nedensellik, yanlış analoji) ve örneklerinin yer aldığı bilgi notu verilir ve onlardan safsata türlerine kendi yaşantılarından ve çevrelerinden belirgin örnekler vermeleri istenir ( E1.6 ). Ardından öğrencilerin doğru ve güvenilir olmanın önemini belirterek farkındalık geliştirmeleri sağlanır ( D6.2 ).",
+    "Öğrencilere performans görevi olarak safsataları tespit edebilmeleri, toplumsal açıdan değerlendirmeleri ve değerlendirmelerini yazılı olarak sınıfta sunmaları verilebilir. Bu bağlamda öğrencilere safsata türlerinin (otoriteye başvurma, adam karalama, cımbızlama, popülerliğe baş vurma, nedensellik, yanlış analoji) yer aldığı tartışma programı diyalogları, gazete haberleri, röportaj videoları, sosyal medya yazışmaları örnekleri verilir. Öğrencilerden söz konusu örneklerde yer alan safsata türlerini doğru biçimde belirlemeleri ve bu safsataların toplumda oluşturduğu etkiyi değerlendirmeleri istenir ( OB5 ). Öğrenciler, değerlendirme sürecinde sorumluluk alarak safsataların toplumsal ilişkiler (aile, okul vb.) üzerindeki olumsuz etkilerine örnekler verir ve bu olumsuzluklara yönelik çözüm önerilerini yazılı olarak sunar ( D2.1 , D16.2 ). Performans görevi; safsataları belirleyebilme, safsata türlerini ayırt edebilme, toplumsal açıdan etkisini değerlendirebilme ve çözüm önerilerini sunabilme gibi ölçütler üzerinden dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilerin, ifadeleri bağlamından koparmadan mantıksal yapılarına göre dönüştürmeleri ve bu yapıyı koruyarak ilgili ifadeleri kendi cümleleriyle, anlamını değiştirmeden nesnel ve doğru biçimde yeniden ifade etmeleri amaçlanır. Bunun için;",
+    "• Günlük dilde ifade edilmiş örnek cümleler verilerek öğrencilerin bu cümleleri bağlamından koparmadan öncül–sonuç ilişkisine dayalı mantıksal bir yapıya nasıl dönüştürebileceği ve bu yapıyı temel alarak ilgili cümlelerin anlamını değiştirmeden nesnel ve doğru biçimde yeniden nasıl ifade edebileceği gösterilir. Mantıksal yapının oluşturulmasına öncül ve sonuçların harfle gösterimi (Öncül: P, Sonuç: C) açıklanır. Ardından iş birlikli olarak alıştırma çalışması yaptırılır ( E3.3 , SDB1.2 , SDB2.2 ). Süreç sonunda akran değerlendirme formu uygulanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.2",
+      "D2.1",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.6",
+      "E3.10",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.5",
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/32"
+}

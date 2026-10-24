@@ -1,0 +1,92 @@
+{
+  "unitId": 80950013,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "13. ÜNİTE: 12. SINIF - SOSYAL DUYGUSAL GELİŞİM",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.13.1",
+      "title": "Sahip olduğu karakter güçlerini zorluklar karşısında kullanır",
+      "processComponents": [
+        "Sınava ilişkin yaşadığı zorluklara odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.13.2",
+      "title": "Bilişim teknolojileri kullanımı konusunda kendini değerlendirir",
+      "processComponents": [
+        "Medya ve sosyal medyaya odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.13.3",
+      "title": "Kendi bedenine ilişkin olumlu tutum geliştirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.4",
+      "title": "Kültürel farklılıklara duyarlı bakış açısı geliştirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.5",
+      "title": "Kültürel farklılıklara duyarlı davranışlar sergiler",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.6",
+      "title": "Adil olmayı güçlendirmek için “hak savunuculuğu” yapar",
+      "processComponents": [
+        "Bu kazanımda hak savunuculuğu yaparken uygun olan ve olmayan yollara ilişkin farkındalık kazandırılır."
+      ]
+    },
+    {
+      "code": "REH.13.7",
+      "title": "Yaşam amaçlarıyla ilgili eylem planını gözden geçirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.8",
+      "title": "Yaşadığı yoğun duyguları yönetir",
+      "processComponents": [
+        "Sınav ile ilgili duygularına odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.13.9",
+      "title": "Stres yaratan kaynakları fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.10",
+      "title": "Toplum için gönüllü çalışmada duyarlı davranır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.11",
+      "title": "Karakter güçleri ile iyi oluş arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.12",
+      "title": "İyi oluşunu destekleyen duyguları yaşamında sıklıkla deneyimler",
+      "processComponents": []
+    },
+    {
+      "code": "REH.13.13",
+      "title": "Değişim ve belirsizlikle baş eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

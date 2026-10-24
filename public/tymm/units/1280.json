@@ -1,0 +1,37 @@
+{
+  "unitId": 1280,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "5. TEMA: KANUN ÇALARKEN TÜRK AKSAĞI VE YÜRÜK SEMAÎ USULLERİNİ ÖĞRENİYORUM",
+  "hours": "8",
+  "description": "Temada öğrencinin Türk aksağı ve yürük semai usullerini öğrenerek bu usulde yazılmış eser ve etütleri çalması ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.4.5.1",
+      "title": "Türk aksağı ve yürük semai usullerini usul vurarak çalabilme",
+      "processComponents": [
+        "a) Türk aksağı ve yürük semaî usullerinde yazılmış etüt veya eserleri çözümler.",
+        "b) Türk aksağı ve yürük semaî usullerini vurarak çalmak için duruş pozisyonu alır.",
+        "c) Türk aksağı ve yürük semaî usullerini vurarak çalmak için usule uygun teknikleri kullanır.",
+        "ç) Türk aksağı ve yürük semaî usullerini vurarak çalmak için usulün bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, makam, müzik, usul",
+  "support": [
+    "Öğrencilerin Türk aksağı ile ilgili öğrenmeleri takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom yavaşlatılarak çalınabilir. Yavaş metronom ile öğrenilen etütler, öğrencinin öğrenmelerine göre hızlandırılarak çaldırılabilir."
+  ],
+  "enrichment": [
+    "Türk aksağı ve yürük semaî usullerini hikâyeyle öğretmek için bir öykü oluşturulabilir. Örneğin \"Bir zamanlar Aksak Krallığı ve Yürük Krallığı diye iki ülke varmış. Aksak Krallığı biraz düzensiz, sürprizlerle dolu bir ritme sahipken Yürük Krallığı hızlı ve hareketliymiş. Bu iki krallık, müziklerini tanıtmak için bir yarışma düzenlemiş.\" hikâyesi anlatılabilir. Öğrencilerden her krallığın ritmini elleriyle dizlerine vurarak veya enstrümanlarla canlandırmaları istenebilir. Türk aksağı usulü: (2+3=5 zamanlı) düüm-teeek. Yürük semaî usulü: (6 zamanlı) düm-tek-tek, düm-teek. Bir başka etkinlik olarak ritim kartları oyunu oynanabilir. Usul ritim kartları hazırlanabilir. Kartlardan biri Türk aksağı, diğeri yürük semaî içerebilir. Öğrenci bir kart seçer ve kartta verilen ritmi doğru usulde çalmaya çalışır. İleri seviye öğrenciler için bir öğrenci ritmi çalar, diğer öğrenci hangi usul olduğunu tahmin edebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Türk aksağı ve yürük semai usullerini usul vurarak çalabilme performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.4.5.1",
+    "Öğrencinin çalışacağı eser veya etütler öğrenciyle birlikte çözümlenir. Öğrenciye usul kavramı, geleneksel Türk müziğimiz içerisinde ve Türk müzik kültüründe (OB5) usulün ne olduğu, eserlerde nasıl kullanıldığı ile ilgili genel bilgi verildikten sonra birleşik usullerden olan sofyan usulünün vuruşları (darpları) ile uygulamalı bir şekilde gösterilerek öğrencinin usule ve usul vurmaya odaklanması sağlanır (E3.2). Daha sonra öğrenciden bunları tekrar etmesi istenebilir. Öğrencinin müziğin ritmik yapısını daha iyi kavrayarak kültürel mirasın bir parçası olan geleneksel usulleri tanıması ve bunları gelecek nesillere aktarma bilinci geliştirmesi desteklenir (D19.3). Öğrenilen bu usullerin yaşantımızda nerelerde duyulduğuna örnekler verilerek bu örnekler çeşitlendirilir (SDB1.3). Ardından bu usullerde yazılmış etüt ve örnek eserler çalınarak usul kavramı pekiştirilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı, öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1280"
+}

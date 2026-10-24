@@ -1,0 +1,49 @@
+{
+  "unitId": 81424054,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "54. ÜNİTE: BAĞLAMA - BAĞLAMADA DÜZENLER",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.7.7.1",
+      "title": "Bağlamada misket düzeni akordunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.7.2",
+      "title": "Öğrendiği tavırları pozisyonlara göre misket düzeni üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.7.3",
+      "title": "Bağlama çalgısı üzerinde fa müstezat düzeni akordunu yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.7.4",
+      "title": "Örnek eserleri fa müstezat düzeni üzerinde istenilen tavırla uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.7.5",
+      "title": "Bağlama çalgısı üzerinde do müstezat düzeni akordunu yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.7.6",
+      "title": "Öğrendiği pozisyon ve tezene tekniklerini do müstezat düzeninde uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,33 @@
+{
+  "unitId": 81424110,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "110. ÜNİTE: ANİMASYON - EFEKTLER",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.4.4.1",
+      "title": "Özel efektler ve hareket grafiklerini uygular",
+      "processComponents": [
+        "Teknik olarak gerçek ortamda çekilmesi imkânsız, zor, zaman alıcı ve maliyetli olan planların yazılım yardımıyla oluşturulacağına değinilir."
+      ]
+    },
+    {
+      "code": "GSA.4.4.2",
+      "title": "Motion capture (moşın kepçır) ve animasyon uygulaması yapar",
+      "processComponents": [
+        "Motion capture daha gerçekçi bir 3 boyutlu modelleme için insan, hayvan veya bitkilerin üzerine hareketi sırasında kayıt yapabilme özelliğine sahip cihazların yaptıkları kaydı dijital ortama aktarma işi olarak açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

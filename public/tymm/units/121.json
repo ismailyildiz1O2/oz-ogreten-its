@@ -1,0 +1,231 @@
+{
+  "unitId": 121,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "2. TEMA: ÇEŞİTLİLİK",
+  "hours": "38",
+  "description": "Bu tema Etkileşimler ve Etkileşimden Maddeye olmak üzere iki bölümden oluşmaktadır. Bu temada öğrencilerin metalik bağın oluşumuna yönelik akıl yürütmeleri, iyonik ve kovalent bağ oluşum sürecine ilişkin gözleme dayalı tahminde bulunmaları, moleküllerin Lewis nokta yapısına ilişkin çıkarım yapmaları, molekülleri polar ya da apolar olarak sınıflandırmaları, bileşiklerin adlandırma kurallarına ilişkin akıl yürütmeleri, moleküller arası etkileşimleri sınıflandırmaları, etkileşimlerin katıların özellikleri üzerine etkisine ilişkin çıkarım yapmaları, sıvıların özellikleri ve bu özellikleri etkileyen faktörlere ilişkin kanıt kullanmaları, hipotez oluşturmaları, bilimsel gözlem yapmaları, çıkarımda bulunmaları ve bilimsel sorgulama yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.9.2.1",
+      "title": "Metalik bağın oluşumuna yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Pozitif yüklü metal iyonları ile negatif yüklü elektron denizi arasında örüntü oluşturur.",
+        "b) Metalik bağın oluşumuna ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.9.2.2",
+      "title": "İyonik bağın oluşumunu bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Metal ve ametallerden oluşan katyonlar ve anyonlar arasındaki elektrostatik etkileşim sürecine ilişkin gözlem temelinde önermeler oluşturur.",
+        "b) Katyonlar ve anyonlar arasındaki etkileşim sürecine ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Katyonlar ve anyonlar arasındaki etkileşim sürecine ilişkin tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Katyonlar ve anyonlar arasındaki etkileşim süreci ile ilgili gözlemlenmemiş durumlara ilişkin tahminde bulunur.",
+        "d) Katyonlar ve anyonlar arasındaki etkileşimle ilgili tahminlerinin geçerliliğini sorgular."
+      ]
+    },
+    {
+      "code": "KİM.9.2.3",
+      "title": "Kovalent bağ oluşumunu bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Bağ yapan ametal atomlarının çekirdekleri ve ortak kullanılan elektronlar arasındaki elektrostatik etkileşim sürecine ilişkin gözlem temelinde önermeler oluşturur.",
+        "b) Gözleme dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Ametal atomları arasındaki etkileşim sürecine ilişkin tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Ametal atomları arasındaki etkileşimler ile ilgili gözlemlenmemiş durumlara ilişkin tahminde bulunur.",
+        "d) Tahminlerinin geçerliliğini sorgular."
+      ]
+    },
+    {
+      "code": "KİM.9.2.4",
+      "title": "Moleküllerin Lewis nokta yapısına ilişkin çıkarımda bulunabilme",
+      "processComponents": [
+        "a) Moleküllerin Lewis nokta yapısına ilişkin varsayımda bulunur.",
+        "b) Lewis nokta yapısını kullanarak moleküllerin yapısına ilişkin örüntüler oluşturur.",
+        "c) Oluşturduğu örüntüleri kullanarak farklı moleküllerin yapılarını karşılaştırır.",
+        "ç) Lewis nokta yapısının oluşturulmasına ilişkin önermeler sunar.",
+        "d) Önermelerini farklı moleküllerin Lewis nokta yapılarını kullanarak değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.9.2.5",
+      "title": "Molekülleri polar ya da apolar olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Moleküllerin polarlığını belirlemek için ölçütler (elektronegatiflik farkı ve merkez atomdaki ortaklanmamış elektron çifti) oluşturur.",
+        "b) Elektronegatiflik farkının ve elektron çifti itmesinin etkisiyle oluşan molekül yapılarını ayrıştırır.",
+        "c) Molekülleri dipol momentine göre gruplandırır.",
+        "ç) Molekülleri polar ya da apolar olarak adlandırır."
+      ]
+    },
+    {
+      "code": "KİM.9.2.6",
+      "title": "Bileşikleri adlandırma kurallarına ilişkin tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) İyonik ve kovalent bağlı bileşikleri oluşturan atom veya iyonları belirler.",
+        "b) İyonik ve kovalent bağlı bileşikleri oluşturan atomların veya iyonların adları ile bileşiklerin adları arasında ilişki kurar.",
+        "c) İyonik ve kovalent bağlı bileşiklerin adlandırma kurallarına ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.9.2.7",
+      "title": "Moleküller arası etkileşimleri sınıflandırabilme",
+      "processComponents": [
+        "a) Moleküller arası etkileşimlerin sınıflandırılmasına ilişkin ölçütler (atom, iyon, polar molekül, apolar molekül) belirler.",
+        "b) Belirlediği ölçütler doğrultusunda aynı ya da farklı kimyasal türler arasında oluşan moleküller arası etkileşimleri ayrıştırır.",
+        "c) Moleküller arası etkileşimleri gruplandırır.",
+        "ç) Oluşturduğu grupları adlandırıp bilimsel karşılığıyla kıyaslar."
+      ]
+    },
+    {
+      "code": "KİM.9.2.8",
+      "title": "Etkileşimlerin katıların özellikleri üzerindeki etkilerine ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Aynı ya da farklı etkileşimlere sahip katılara ilişkin niteliklerin farkını ortaya koyar.",
+        "b) Etkileşimlerle katılar arasındaki ilişkiyi belirlemek üzere gözlem verilerini veya hazır veri setini kullanır.",
+        "c) Çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırır."
+      ]
+    },
+    {
+      "code": "KİM.9.2.9",
+      "title": "Sıvıların buhar basıncını etkileyen faktörlere ilişkin hipotez oluşturabilme",
+      "processComponents": [
+        "a) Buhar basıncını etkileyebilecek faktörleri belirlemek amacıyla sorular oluşturur.",
+        "b) Belirlediği faktörlerin buhar basıncına etkilerini neden-sonuç ilişkileri kurarak belirtir.",
+        "c) Belirlediği faktörlerin buhar basıncına etkilerini araştırabilmek için bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler.",
+        "ç) Değişkenler arasındaki ilişkiyi belirlemek üzere denemeler yapar.",
+        "d) Sıvıların buhar basıncını etkileyen faktörleri belirlemek için sunduğu önermeleri bilimsel kuramlar ile destekler."
+      ]
+    },
+    {
+      "code": "KİM.9.2.10",
+      "title": "Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik kanıt kullanabilme",
+      "processComponents": [
+        "a) Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik ölçütler (moleküller arası etkileşimin türü ve açık hava basıncı) belirler.",
+        "b) Gözlem veya hazır veri setinden seçtiği verileri değişkenler arası ilişkileri belirleyecek şekilde düzenler.",
+        "c) Kaynama sıcaklığını etkileyen faktörlere yönelik iddialarını kanıtlara dayalı açıklar."
+      ]
+    },
+    {
+      "code": "KİM.9.2.11",
+      "title": "Sıvıların viskozitesini etkileyen faktörlere ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Sıvıların viskozitesine ilişkin niteliklerin farkını ortaya koyar.",
+        "b) Belirlediği nitelikler ile sıvıların viskozitesi arasındaki ilişkiyi tespit etmek üzere veriler toplayarak bu verileri kaydeder.",
+        "c) Sıvılar hakkında elde ettiği benzer verilerden hareketle keşfettiği örüntüleri açıklar."
+      ]
+    },
+    {
+      "code": "KİM.9.2.12",
+      "title": "Adezyon ve kohezyon kuvvetlerinin sıvıların özelliklerine etkilerine ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Aynı ya da farklı etkileşimlere sahip sıvıların özellikleri ile ilgili farkları ortaya koyar.",
+        "b) Etkileşimler ile sıvıların özellikleri arasındaki ilişkiyi belirlemek üzere gözlem verilerini ve hazır veri setini kullanır.",
+        "c) Çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırır."
+      ]
+    },
+    {
+      "code": "KİM.9.2.13",
+      "title": "Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin araştırılabilir sorular oluşturur.",
+        "b) Araştırma sorularını cevaplamak üzere moleküller arası etkileşimlere ilişkin teorileri kullanarak önermeler sunar.",
+        "c) Sıvıların yüzey gerilimini etkileyen faktörleri belirlemeye yönelik planladığı araştırmayı uygular.",
+        "ç) Araştırmadan elde ettiği verileri yorumlar.",
+        "d) Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin ulaştığı sonuçları bilimsel bilgilerle karşılaştırır.",
+        "e) Günlük hayatta yüzey geriliminden kaynaklanan problemlerin çözüm sürecini bi-limsel bilgilerle ilişkilendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "adezyon kuvveti, akışkanlık, amorf katı, apolar kovalent, apolar molekül, buhar basıncı, dipol, dipol-dipol etkileşimi, dipol moment, hidrojen bağı, indüklenmiş dipol, iyonik bağ, iyonik katı, kaynama noktası, kılcallık (kapiler etki), kohezyon kuvveti, kovalent bağ, kristal katı, London kuvveti, metalik bağ, metalik katı, moleküler katı, polar kovalent, polar molekül, van der Waals etkileşimi, viskozite, yüzey gerilimi",
+  "support": [
+    "Öğrenciler, etkileşimlerin katı ve sıvı maddelere kazandırdığı özellikleri belirlerken farklı beceriler kullanabilir. Bu becerilerin sadeleştirilmesi için düşük seviyedeki beceri göstergeleri kullanılabilir. Örneğin öğrenci, bilimsel gözlem yapıyorsa birden fazla gözlem aracı kullanmak yerine tek bir gözlem aracı kullanarak gözlemini gerçekleştirebilir. Buna alternatif olarak öğrencinin kendisinin tasarladığı bir ortamı gözlemlemesi yerine öğretmenin tasarladığı bir ortamı gözlemlemesi sağlanabilir. Hipotez oluşturma ve bilimsel sorgulama becerilerini işe koşmak amacıyla verilen araştırma sorularının öğrenciler tarafından belirlenmesi yerine problem durumları ya da sorular öğretmen rehberliğinde verilebilir. Sıvıların buhar basıncı, viskozitesi ve yüzey gerilimine ilişkin deneylerin tasarımı öğrencilerin önerileri alındıktan sonra öğretmen tarafından gerçekleştirilebilir. İçerik bağlamında da sadeleştirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere süperhidrofilik ve süperhidrofobik malzemelerin günlük hayattaki uygulamalarını araştırmaları için bir görev verilebilir. Ayrıca öğrencilerin bu malzemelerin karakterizasyonunda temas açısı değerinin önemini ve örnek uygulamaları incelemeleri için uzmanlardan destek almaları sağlanabilir. Öğrenciler, süperhidrofilik ve süperhidrofobik malzemelerin farklı uygulamalardaki önemi hakkında bilgi veren bilgi görselleri hazırlayabilir.",
+    "Öğrencilere farklı malzemelerin yüzey temas açılarını ölçmeleri için bir görev verilebilir. Öğrenciler, gonyometre cihazını veya ImageJ akıllı telefon uygulamalarını kullanarak temas açılarını ölçebilir ve bu verileri analiz edebilir. Öğrencilerden farklı malzemelerin hidrofilik, hidrofobik veya süperhidrofobik özelliklerine göre sınıflandırıldığı bir rapor hazırlayarak sunmaları istenebilir.",
+    "*Öğrencilere süperhidrofobik malzemelerin tasarımında doğadaki hangi varlıklardan ilham alındığını araştırmaları için bir görev verilebilir. Öğrenciler, doğadaki örnekleri inceleyerek süperhidrofobik malzemelerin tasarımında kullanılan biyomimikri yöntemleri belirleyebilir. Öğrencilerden süperhidrofobik malzemelerin biyomimikri kaynakları ve tasarım ilkeleri hakkında bir rapor hazırlamaları istenebilir.",
+    "*Öğrenciler, Newton tipi olan ve olmayan akışkanların viskozite özelliklerini belirlemek için laboratuvar deneyleri yapabilir. Bu akışkanların viskozitesini etkileyen faktörleri açıklayan teorik hesaplamalar yapmaları da öğrencilerden istenebilir. Öğrenciler, yaptıkları deneylerden elde ettikleri verileri analiz ederek Newton tipi olan ve olmayan akışkanların viskozite davranışları arasındaki farkları belirleyebilir. Ayrıca bu farkların pratik uygulamalara nasıl yansıdığını, endüstriyel ve biyomedikal uygulamalardaki yenilikçi çözümlerini ve avantajlarını değerlendirebilir. Öğrenciler elde ettikleri bulguları raporlayabilir ve sunabilir.",
+    "Öğrencilere hidrojellerin fiziksel ve kimyasal davranışlarını ayrıntılı bir şekilde incelemeleri için bir araştırma projesi verilebilir. Bu proje kapsamında öğrencilerden hidrojellerin yüzey gerilimleri, viskoelastik özellikleri ve hidrofilik davranışları üzerinde etkili olan güçlü ve zayıf kimyasal etkileşimlerini araştırmaları istenebilir. Öğrenciler; hidrojellerin moleküler düzeydeki yapılarını, suyla etkileşimlerini ve bu etkileşimlerin hidrojellerin fiziksel özellikleri üzerindeki etkilerini analiz edebilir. Proje sürecinde öğrencilere deneyler yaptırılarak hidrojellerin özelliklerini karakterize etme fırsatı sunulabilir. Ayrıca öğrenciler hidrojellerin biyomedikal uygulamalarını, ilaç taşıma sistemlerini veya dokusal mühendislik gibi pratik alanlardaki potansiyel kullanım alanlarını da inceleyebilir. Öğrencilerden araştırma projesi sonucunda elde ettikleri verileri analiz ederek hidrojellerin fiziksel ve kimyasal özellikleri ile etkileşimlerini detaylı bir şekilde açıklayan bir araştırma raporu sunmaları istenebilir. Elmas, grafit gibi aynı birim taneciğe sahip olan ancak farklı kimyasal özellikler sergileyen katıların özelliklerini anlamaları için öğrencilerin uzmanlarla görüşmeleri sağlanabilir. Bu görüşmeler, öğrencilerin malzeme bilimi ve kimya alanında derinlemesine bilgiye sahip olmalarına katkı sağlayabilir. Ayrıca öğrenciler, farklı kimyasal özelliklere sahip bu katıların farklı endüstriyel ve bilimsel alanlarda nasıl kullanılabileceği konusunda düşünmeleri için teşvik edilebilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında kavram karikatürü, etkinlik kâğıdı, yansıtma notu, sınıf içi tartışma, yapılandırılmış grid, çalışma yaprağı, tarsia yapboz, deney raporu, boşluk doldurma, akran değerlendirme, grup değerlendirme ve öz değerlendirme kullanılabilir.",
+    "Öğrenciler, performans görevi çerçevesinde sıvıların viskozitesi ile moleküller arası etkileşimlerin neden-sonuç ilişkisini ortaya koyacakları bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Performans görevi \"öğrencilerin moleküller arası etkileşimlerin ve sıcaklığın sıvıların viskozitesine etkisinin belirlenmesi sürecinde sıvıların viskozitesine ilişkin niteliklerin farkını ortaya koyması, topladığı verileri kaydetmesi ve benzer veriler üzerinden keşfettiği örüntüleri açıklaması\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.9.2.1",
+    "Metalik bağ kavramına ilişkin etkinliğe başlamadan önce öğrencilerden bağların oluşumunu gösteren model oluşturmaları istenir. Bu bağlamda öğrencilerin iki hidrojen atomu arasındaki itme ve çekme kuvvetlerini temsil eden bir modeli elektrostatik çekim kuvvetleri ile ilişkilendirerek çizmeleri sağlanır ( OB1 ) . Öğrencilerden bireysel modellemelerini bilimsel gösterim ile karşılaştırmaları istenir ( D3.3 ) . İki atom birbirine yaklaşırken aralarında oluşan itme ve çekme kuvvetlerinin nasıl değiştiği açıklanır. İki atom arasında bağ oluşabilmesi için net kuvvetin büyüklüğünün sıfır olması gerektiği ifade edilir.",
+    "Valans elektron sayısı farklı olan metallerin metalik bağ gösterimleri verilir. Öğrencilerden atomlar arası elektrostatik etkileşimleri değerlendirmeleri ve metalik bağın doğasına ilişkin genel bir örüntü bulmaları istenir. Valans elektron sayıları değişse de atomları bir arada tutan elektrostatik etkileşimlerin pozitif iyonlar ile serbest valans elektronları arasında olduğunu fark etmelerini sağlayacak sondaj soruları sorulur. Soru cevap yöntemiyle öğrencilerin etkili iletişim kurmaları, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri sağlanır ( SDB2.1 , D4.2 , D14.1 , E1.4 , E3.2 , E3.10 ) . Öğrenciler metalik bağın oluşumuna ilişkin genellemeye ulaştırıldıktan sonra metalik bağın tanımının yapılması sağlanır. Serbest valans elektron sayısı ve pozitif iyon yükü ile metalik bağın kuvveti arasındaki ilişkiye vurgu yapılır ( KB2.9 ) . Bu bağlamda kavram karikatürleri verilerek öğrencilerin bu karikatürleri incelemeleri sağlanabilir. Öğrencilerden kavram karikatürlerinde metalik bağ oluşumu ile ilgili kavram yanılgısı içeren karakterleri belirlemeleri ve belirledikleri yanılgıyı düzeltmeleri istenebilir ( OB4 ) .",
+    "KİM.9.2.2",
+    "Öğrencilere deney videosu izletilerek metal ve ametal elementleri arasında gerçekleşen tepkime sürecinin gözlemlenmesi sağlanır. Öğrencilerden gözlemlerinden hareketle atomlardan katyon ve anyon oluşum sürecini sorgulamaları ( OB2 , OB4 ) , iyonların elektrostatik etkileşimleri ile ilgili önermeler oluşturmaları ve oluşturdukları önermeleri etkinlik kâğıdında listelemeleri istenir. Öğrencilerden tepkime sürecinde gerçekleşen etkileşimlere ilişkin önermelerini iletişim becerilerini kullanarak paylaşmaları istenir ( SDB2.1 , D14.1 ) . Öğrencilere önermelerinin tepkime sürecindeki hangi gözleme dayandığı sorulur. Öğrencilerin gözleme dayalı olan ve olmayan önermelerini karşılaştırmaları sağlanır ( OB7 ) . Öğrenciler, tahminlerini ön bilgileri ve gözlemleri ışığında temellendirir; bu sayede öğrencilerin açıklama yapmalarına, çıkarımda bulunmalarına fırsat verilir. Araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir ( SDB1.1 , D3.3 ) . Öğrencilere iyonik bağ oluşumuna ilişkin açıklamalarını derinleştirmeleri ve belli kavramlarla ilişkilendirmeleri (örneğin iyonlaşma enerjisi) için sorular yöneltilebilir. Öğrenciler, daha sonra deney videosunu izleyerek farklı iyonik tuzların bileşenleri (metal ve ametal elementleri) arasında gerçekleşen tepkime süreçlerini gözlemler. Öğrencilerden gözlemlerine dayanarak farklı iyonik tuzların oluşum sürecine ilişkin tahminlerde bulunmaları; tahminlerini, gözlemlerini ve açıklamalarını ilk deney videosunda gözlemledikleri örnekle karşılaştırmaları istenir. Öğrenciler, iyonik bağ oluşumuna ilişkin açıklamalarını bilimsel açıklamalarla karşılaştırmaya ve tahminlerinin geçerliliğini sorgulamaya yönlendirilir ( OB2 , OB7 ) . Öğrencilere gözlemlerinden elde ettikleri kanıtlara dayanarak iyonik bağ oluşumunu tanecik seviyesinde açıkladıkları bir metin yazdırılabilir. Ayrıca öğrencilerden farklı bileşiklerdeki iyonik bağın oluşum süreci hakkında bir yansıtma notu yazmaları istenebilir. Sınıf içi tartışma ile öğrencilerin farklı bileşiklerdeki iyonik bağın oluşum sürecine ilişkin tahminlerini paylaşmaları ve değerlendirmeleri sağlanabilir ( SDB2.1 ) . Tek atomlu katyon ve anyonlar ile çok atomlu katyon (NH4+) ve anyonların (CO32-, NO3-, PO43-, HCO3-, CH3COO-, SO42-, OH-) formül ve adlarını içeren tablo verilebilir. Katyonlar ve anyonlardan oluşan iyonik bileşiklerin formüllerini tahmin etmeleri öğrencilerden istenebilir. Etkinlik kâğıtları \"önerme oluşturabilme, gözleme dayalı olan ve olmayan önermeleri belirleyebilme, açıklama yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme yapması istenebilir ( SDB1.2 ) .",
+    "KİM.9.2.3",
+    "Öğrenciler, gösterilen animasyonu inceleyerek iki ametal atom birbirine yaklaşırken bu atomlardaki elektronların davranışında meydana gelen değişimi gözlemler ( OB2 , OB4 ) . Gözlem sonrasında öğrencilerden kovalent bağın oluşum sürecine ilişkin önermeler oluşturmaları, önermelerini etkinlik kâğıdına yazmaları, yazdıkları önermeleri açık fikirlilikle paylaşmaları istenir ( SDB2.1 , D6.2 ) . Oluşturulan önermeler, öğrenciler tarafından karşılaştırılarak gözleme dayalı olan ve olmayan önermeler belirlenir. Gözlemlerinden edindikleri verilere dayanarak öğrencilerden kovalent bağın nasıl oluştuğu ile ilgili bir yargıya varmaları istenir ( E3.10 , D3.3 ) . Öğrencilerden farklı ametal atomların birbirine yeterince yaklaşması sırasında oluşan gözlemleyemedikleri etkileşimleri (özellikle çekim kuvvetlerini) tahmin etmeleri ve yaptıkları tahminleri model çizerek göstermeleri istenir ( OB4 ) . Öğrencilerin özgün modeller ortaya koyması sağlanarak estetik değerine vurgu yapılır ( D7.2 ) . Öğrencilere bu çizimi yaparken kendisinin ne yapması gerektiği, konu ile ilgili önceki bilgilerinin neler olduğu, önceki bilgilerini nasıl kullanacağı, bu görevi nasıl yapacağı ve bu süreçten ne öğrenmeyi beklediği ile ilgili bir form verilerek öğrencilerden çizim sürecinin planlanması istenebilir ( E2.2 , SDB1.1 ) . Öğrencilerden çizimlerini süreç aşamalı görsel materyaller ile karşılaştırarak tahminlerinin geçerliğini sorgulamaları beklenir ( E3.10 ) . Öğrenciler, gözlem sonunda etkinlik kâğıdında kovalent bağın oluşum sürecine ilişkin önermeler oluşturmaları için yönlendirilir. Öğrencilerden önermelerini gözleme dayalı olan ve olmayan önermeler şeklinde sınıflandırmaları istenir. Öğrencilere gözlemlerinden elde ettikleri kanıtlara dayanarak kovalent bağ oluşumunu tanecik seviyesinde açıkladıkları bir metin yazdırılabilir. Ayrıca farklı bileşiklerdeki kovalent bağın oluşum sürecine ilişkin bir çizim yaptırılabilir, öğrencilerden çizimlerini süreç aşamalı görsel materyaller ile karşılaştırmaları istenebilir. Etkinlik kâğıtları \"önerme oluşturabilme, doğru sınıflandırabilme, açıklama yapabilme ve bilimsel olarak kabul gören çizime ulaşabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme yapması istenebilir ( SDB1.2 , SDB1.3 , OB1 ) .",
+    "KİM.9.2.4",
+    "Öğrencilere valans elektronlarının element sembolünün etrafına nasıl yerleştirildiği bilgisi verilir. Çeşitli moleküler element ve bileşiklerin Lewis nokta yapıları verilir. Öğrencilerden verilen Lewis nokta yapılarının benzerlik ve farklılıklarını karşılaştırarak moleküllerin Lewis nokta yapılarına ilişkin varsayımlarda bulunmaları ve Lewis nokta yapısının oluşturulmasına ilişkin örüntüler bulmaları istenir ( E3.7 ) . Oktet ve dublet kuralı verilerek farklı örneklerin Lewis nokta yapılarının karşılaştırılması sağlanır. Lewis nokta yapısının oluşturulmasına ilişkin önermeler sunmaları öğrencilerden beklenir. Merkez atomunda ortaklanmamış elektron çifti içeren moleküllerin Lewis nokta yapılarıyla birlikte uzay-dolgu molekül modelleri gösterilerek elektron itmesinin molekül yapısını nasıl etkilediği konusu ile ilgili saygı çerçevesinde tartışma ortamı oluşturulur ( SDB2.1 , D14.1 , OB4 ) . Öğrenciler, farklı moleküller için Lewis nokta yapılarını oluşturarak Lewis nokta yapısına ilişkin önermelerini değerlendirir ( OB1 ) . Öğrencilerden çalışma yaprağında verilen farklı element ve bileşiklerin Lewis nokta yapılarını çizmeleri istenebilir.",
+    "KİM.9.2.5",
+    "Kovalent bağlı element ve bileşiklerin adları, formülleri, Lewis nokta yapıları, uzay-dolgu gösterimleri ve elementlerin elektronegatiflik değerleri tablo olarak verilir. Öğrencilerden ilgili molekülleri polar ya da apolar olarak sınıflandırabilmeleri için ölçütler oluşturmaları istenir. Öğrencilerin uzay-dolgu modelleri verilen molekülleri merkez atomda ortaklanmamış elektron çifti bulunma durumuna ve elektronegatiflik farkına göre ayrıştırmaları sağlanır ( OB7 ) . Öğrencilerden molekülleri dipol momentine göre polar ya da apolar olarak gruplandırmaları istenir. Öğrenciler, her bir molekülün polar ya da apolar olup olmadığına ilişkin gerekçelerini belirtir ( E1.5 , SDB2.1 ) . Öğrenciler, molekülleri polar ya da apolar olarak adlandırmaları için yönlendirilir. Öğrencilerden çalışma yaprağında verilen farklı element ve bileşikleri polar yapılı ya da apolar yapılı şeklinde sınıflandırmaları ve yaptıkları sınıflandırmaları gerekçeleriyle açıklamaları istenebilir.",
+    "KİM.9.2.6",
+    "Öğrencilere tek bir tür katyonu olan metallerin oluşturduğu iyonik bileşiklerin sistematik adları ve formülleri verilir. Öğrencilerden iyonik bileşiği oluşturan iyonları belirlemeleri istenir. Öğrencilerin bir bileşikte bulunan pozitif ve negatif yüklü iyonların adlarıyla bileşiğin adı arasında ilişki kurmaları sağlanır. Öğrenciler, tek bir tür katyonu olan metallerin oluşturduğu iyonik bileşiklerden yola çıkarak adlandırma kurallarını oluşturmaları için yönlendirilir. Bu sayede edindikleri bilgilerin eleştirel bakış açısıyla değerlendirilmesi sağlanır ( D3.3 , E3.10 ) . Öğrencilerin tek bir tür katyonu olan metallerinin oluşturduğu iyonik bileşiklerin adlandırma kurallarını genellemeleri sağlanır. Birden fazla katyonu olan bazı geçiş metallerinin (Cr, Mn, Cu, Pb, Sn, Fe ve Co) oluşturduğu bileşiklerin formülleri ve adları birlikte verilir. Sabit değerlikli metallerin oluşturduğu bileşiklerin adlandırılmasıyla değişken değerlikli metallerin oluşturduğu bileşiklerin adlandırılması arasındaki farkın öğrenciler tarafından belirlenmesi sağlanır ( OB7 ) .",
+    "Öğrencilere kovalent bağlı bileşiklerin sistematik adları, formülleri ve atom sayılarını belirten Latince ön ekler verilir. Öğrencilerden kovalent bağlı bileşikleri oluşturan atomları belirlemeleri istenir. Kovalent bağlı bileşikleri oluşturan ametal atomların adları ile bileşik adları arasında ilişki kurulması sağlanır. Öğrencilerden bileşiği oluşturan birinci ve ikinci ametalin adlandırılması arasındaki farkı belirlemeleri istenir. Kovalent bağlı bileşiklerin adlandırma kurallarının genellenmesi sağlanır ( OB7 ) . Öğrenciler, tarsia yapboz etkinliğinde iyonik ve kovalent bağlı bileşiklerin adları ile formüllerini eşleştirebilir.",
+    "KİM.9.2.7",
+    "Gecko kertenkelesinin dik ve düz bir yüzeyde nasıl yürüyebildiği, neden bazı toz parçacıklarının bilgisayar ekranına yapıştığı ile ilgili sorularla öğrencilerde tanecikler arası etkileşim kuvvetlerine yönelik merak uyandırılabilir ( E1.1 ) . Öğrencilere moleküller (aynı ya da farklı) arasında etkileşim olabileceği gibi moleküller ile iyonlar ve soy gaz atomları arasında da etkileşim olabileceğini fark ettirecek sorular sorulur, öğrencilerin fikir belirtme hakkını kullanarak düşünce ve izlenimlerini etki altında kalmadan ifade etmeleri ve etkili iletişim becerilerini kullanmaları sağlanabilir ( SDB2.1 , D8.1 , D11.2 , D14.1 ) . Öğrenciler, kendilerine verilen çeşitli molekül örneklerinin diğer bir molekülle veya iyonla olan etkileşimleri ile soy gaz atomları arasındaki etkileşimlerini inceler. Öğrencilerden inceledikleri etkileşimlerin türüne ilişkin ölçütler belirlemeleri istenir ( OB1 ) . Öğrencilerden inceledikleri etkileşimleri molekül-molekül, iyon-molekül ya da atom-atom etkileşimleri olarak ayrıştırmaları istenir. Ayrıştırılan etkileşimlerin dipol-dipol, dipol-indüklenmiş dipol, iyon-dipol, iyon-indüklenmiş dipol ve indüklenmiş dipol-indüklenmiş dipol (London) etkileşimleri olarak gruplandırılması sağlanır. Öğrencilerden oluşturdukları grupları bilimdeki karşılığı ile kıyaslamaları istenir ( D3.3 ) . Tanecikler arası etkileşimler ile ilişkilendirilebilecek biyomimikri uygulamalarına yönelik araştırma ödevi verilerek öğrencilerin sorumluluk bilinci kazanmaları sağlanabilir ( D16.3 ) . Öğrencilere polar bileşiklerde moleküller arası etkileşimlerin gösterildiği kanıt kartları verilir. Öğrencilerden dipol-dipol etkileşiminin oluşum sürecine ilişkin ölçütler belirlemeleri istenir. Belirlenen ölçütler temelinde dipol-dipol etkileşiminin aynı ya da farklı tür moleküller arası dipol dipol etkileşimi veya yapısında F-H, O-H ve N-H bağlarından en az bir tane bulunduran moleküllerin dipol-dipol etkileşimi olarak ayrıştırılması sağlanır. Yapısında F-H, O-H ve N-H bağlarından en az bir tane bulunduran moleküllerin hidrojen bağı oluşturabilen moleküller olarak gruplandırılması istenir. Öğrencilerden oluşturdukları grupları bilimsel karşılığı ile kıyaslamaları istenir.",
+    "DNA'nın ikili sarmal yapısındaki zincirleri bir arada tutan hidrojen bağlarının genetik kodun korunmasındaki rolünü konu alan bir okuma parçası verilebilir. Yapılandırılmış grid aracılığı ile öğrencilerden farklı madde çiftleri arasındaki etkileşimleri belirlemeleri istenebilir.",
+    "KİM.9.2.8",
+    "Sofra tuzu, çelik kaşık, bilgisayar ekranı, kurşun kalem ucu, elmas, kar taneleri, cam gibi katıların fiziksel görünümleri ve özelliklerinin neden birbirinden farklı olduğuna dikkat çekilerek kristal ve amorf katılara ilişkin bir tartışma ortamı oluşturulabilir. Öğrencilerin kristal katılardaki etkileşim türünün kristal katıların sertlik, erime noktası, iletkenlik gibi niteliklerine etkisini incelemeleri ve bu niteliklerdeki farkı saygı çerçevesinde sınıf içi tartışma ile ortaya koymaları sağlanır ( SDB2.1 , D14.1 ) . Etkileşimlerin kristal katıların niteliklerini nasıl etkilediğini ortaya koyan gözlem verilerinin (görsel, video vb.) veya hazır veri setinin yer aldığı etkinlik kâğıdı öğrencilere verilir. Öğrencilerin verileri incelemesi sağlanır. Öğrencilerden gözlemleri veya hazır veri seti üzerinden hangi kristal katının ne tür niteliklere sahip olduğu ile ilgili genellemeler yapmaları, çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırmaları istenir. Böylece öğrencilerin farklı katı türlerinin sahip olduğu genel özellikleri açıklamaları sağlanır ( OB7 ) . Etkinlik kâğıtları \"nitelikleri belirleme, genellemeye ulaşma ve bilimsel kabul edilebilirlik ile karşılaştırma\" ölçütlerine ilişkin dereceli puanlama anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme yapması istenebilir ( SDB1.2 , SDB1.3 ) . Türkiye'nin ilk endüstriyel boyutta kristal silisyum ingot külçesinin üretim projesinden ve bu projenin güneş enerjisi teknolojilerinde çığır açma potansiyelinden kısaca bahsedilerek öğrencilerin bu tür yerli ve millî projelerin ülkenin kalkınmasındaki önemini fark etmesi sağlanabilir ( D19.4 ) . Ardından bu projeyi değerli kılan durumun silisyum ingot külçesinin kristal özellikleri olduğu vurgusu yapılabilir.",
+    "KİM.9.2.9",
+    "Özdeş kaplarda bulunan aynı miktardaki farklı saf sıvı örneklerinin buharlaşma hızlarının neden farklı olduğu öğrencilere sorulur ( SDB2.1 ) . Buhar basıncı ve denge buhar basıncı tanımı verilir, öğrencilerden bir sıvının buhar basıncını etkileyen faktörleri belirlemeleri amacıyla sorular oluşturmaları istenir. Oluşturulan sorulardan hareketle öğrencilerin bir sıvının buhar basıncını etkileyen faktörlerin neler olabileceğine dair tespitlerde bulunmaları sağlanır. Farklı sıvıların 25 °C ve 1 atm basınç koşullarındaki buhar basınçlarına ilişkin hazır veriler verilir. Öğrenciler, bu hazır verileri tespit ettikleri faktörlerin sıvıların buhar basıncına etkisini neden-sonuç ilişkisi bağlamında değerlendirmek amacıyla kullanır. Öğrencilerden belirledikleri faktörlerin sıvıların buhar basıncına etkisini araştırabilmeleri için bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini tespit etmeleri istenir. Öğrencilerin sıvıların buhar basıncına etki eden değişkenleri kontrol altına alarak denemeler yapmaları sağlanır. Öğrencilerden sıvıların buhar basıncına etki eden faktörlere ilişkin sundukları önermeleri bilimsel kuramlar ile desteklemeleri istenir ( OB1 ) . Sıvıların buhar basıncına etki eden faktörlerin moleküller arası etkileşimler temelinde açıklanması sağlanır. Öğrenciler, etkili iletişim becerilerini kullanarak açıklamalarını sınıf arkadaşlarıyla paylaşmaları için yönlendirilir ( SDB2.1 , D14.1 , E1.4 ) . Öğrenciler, sıvıların buhar basıncını etkileyen faktörlere ilişkin bir deney tasarlayabilir. Öğrencilerden çalışma öncesinde bir form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini belirtmeleri istenebilir ( SDB1.1 ) . Sürecin bütünü \"deney tasarım adımlarının takip edilerek buhar basıncına etki eden faktörlerin belirlenebilmesi ve bu faktörlerin moleküller arası etkileşimler göz önüne alınarak açıklanabilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrencilerden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve bu süreçte neleri daha farklı yapabileceğini belirlemesi istenebilir ( SDB1.2 , SDB1.3 , OB7 ) .",
+    "KİM.9.2.10",
+    "Suyun 100 °C'tan farklı sıcaklıklarda kaynayabildiğinin gözlemlenebileceği gösteri deneyi yapılır ya da öğrencilere bu örneğe ilişkin video seyrettirilir. Öğrencilerin saf sıvıların kaynama özelliği ve kaynama sıcaklığına etki eden faktörleri belirlemede kullanılabilecek ölçütleri tespit etmelerini sağlamak amacıyla sınıf içi tartışma yaptırılabilir, tartışma esnasında saygı kurallarına dikkat edilmesi gerektiği hatırlatılır ( D14.1 ) . Bu tartışma sonunda öğrencilerin saf sıvının kaynama sıcaklığını etkileyen ölçütlere (sıvı yüzeyine etki eden açık hava basıncı ve moleküller arası etkileşimin türü) ulaşmaları sağlanır ( SDB2.1 , OB2 ) . Öğrencilerden hidrojen bağının sıvıların kaynama noktasına etkisini verilen kanıtlar üzerinden değerlendirmeleri istenir. Hidrojen bağı içeren sıvıların aynı ortamdaki kaynama noktaları arasındaki farklılığın nedeni; hidrojen bağ sayısı ile F, O ve N atomlarının elektronegatiflik değerleri ölçüt alınarak açıklanır. Öğrencilere saf bir sıvının sıcaklık-buhar basıncı ilişkisini gösteren grafik ve kaynama olayını açıklamada kullanılabilecekleri tanecikli model verilir. Öğrencilerin verilen modeli ve grafiği inceleyerek sıvının buhar basıncının sıvı yüzeyine etki eden dış basınca eşit olduğu andaki sıcaklık değerinde kaynadığı çıkarımına ulaşmaları sağlanır. Öğrencilerden grup arkadaşları ile dayanışma içinde çalışarak hem dış basıncın hem de sıvı türünün kaynama noktasına etkisini açıklayabilmeleri için verileri düzenlemeleri istenir ( D4.1 ) . Öğrencilerden sıvı yüzeyine etki eden dış basıncın sıvının kaynama noktasını nasıl etkilediğini gösteren kanıtlar kullanarak iddialarını açıklamaları istenir ( OB1 , OB4 ) . Açıklamalarını desteklemeleri için bilimsel bilgileri kullanmaları sağlanır. Sınıf içi tartışma ortamında dış basınç ve sıvı türünün kaynama noktasına etkisi belirtilir ve bilimsel bilgiler ile karşılaştırma yaptırılır ( SDB2.2 ) .",
+    "KİM.9.2.11",
+    "Viskozite, sıvıların akmaya karşı gösterdiği direnç şeklinde tanımlandıktan sonra öğrencilerin etkili iletişim kurması sağlanarak sıvıların akışkanlığını etkileyen faktörlerin neler olabileceği tartışmaya açılabilir ( SDB2.1 , D4.2 ) . Öğrencilerden sıvıların akışkanlığı ve viskozite kavramı arasında ilişki kurmaları ve sıvıların viskozitesine ilişkin niteliklerin farkını ortaya koymaları istenir. Öğrenciler, farklı saf sıvıların (su, etil alkol, propanol, glikol, gliserin gibi) akışkanlıklarını karşılaştırabilecekleri bir deney yaparlar. Böylece öğrencilerin planlı olmalarına yardımcı olunur ( D3.2 ) . Öğrencilerin moleküller arası etkileşimlerin sıvıların akışkanlığını nasıl etkilediğine ilişkin keşfettikleri örüntüleri açıklamaları sağlanır. Öğrenciler; sıcaklığın sıvıların akışkanlığını nasıl etkilediğine ilişkin yeni bir deney yapmaları, veri toplamaları ve bu verileri kaydetmeleri için yönlendirilir ( KB2.2 , OB7 ) . Öğrencilerden sıcaklığın sıvıların akışkanlığı üzerindeki etkisine ilişkin keşfettiği örüntüleri açıklamaları istenir. Deneylerden elde ettikleri verileri moleküller arasındaki etkileşim kuvvetlerinin büyüklüğü ve sıcaklık ile ilişkilendirebilmeleri amacıyla öğrencilere sorular sorulur. Öğrenciler, performans görevi çerçevesinde moleküller arası etkileşimler ile sıvıların akışkanlığı arasındaki neden-sonuç ilişkisini ortaya koyan bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Öğrencilerden çalışma öncesinde bir form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini belirlemesi istenebilir ( SDB1.1 ) . Ayrıca öğrencilerden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve bu süreçte neleri daha farklı yapabileceğini belirlemesi istenebilir ( SDB1.2 , SDB1.3 ) .",
+    "KİM.9.2.12",
+    "Öğrencilerin gözlemlerinden ve hazır veri setinden hareketle sıvıların adezyon ve kohezyon kuvvetleri, yüzey gerilimi, kılcallık ve ıslatmazlık gibi niteliklerini fark etmeleri sağlanır. Öğrencilerin farklı sıvıların belirli bir sıcaklıktaki yüzey gerilimi verileri ile bu sıvıların alt mikro gösterimlerinin verildiği hazır veri setinden ve gözlemlerinden hareketle adezyon- kohezyon kuvvetleri ile sıvıların yüzey gerilimi, kılcallık (kapiler etki), içbükey-dışbükey görünümü ve yüzeyi ıslatma/ıslatmama özelliği arasındaki ilişkileri belirlemek üzere çıkarımlar yapmaları sağlanır. Öğrencilerden çıkarımlarını bilim insanlarının çıkarımları ile karşılaştırmaları istenir ( OB1 ) . Suyun organizmalardaki hayati rolü konusu adezyon-kohezyon kuvvetleri, kılcallık, yüzey gerilimi gibi kavramlarla ilişkilendirilebilir. Öğrencilerden tanecikler arası etkileşim kuvveti belirtilen sıvıların yüzey gerilimi, adezyon-kohezyon kuvvetleri, kılcallık, içbükey-dışbükey görünüm ve yüzeyi ıslatma özelliği ile ilgili boşluk doldurma sorularını cevaplandırmaları istenebilir.",
+    "KİM.9.2.13",
+    "Öğrencilerin etkili iletişim becerilerini kullanmaları sağlanarak sıvıların yüzey gerilimini etkileyen faktörlerin neler olabileceğine ilişkin tartışma ortamı oluşturulabilir ( SDB2.1 , D14.1 ) . Öğrencilerden yaptıkları açıklamalar doğrultusunda yüzey gerilimini etkileyen faktörlerle ilgili araştırılabilir sorular oluşturmaları istenir. Soruların moleküller arası etkileşimler temelinde cevaplanması için çeşitli önermeler oluşturulması sağlanır. Bu aşamada aynı önermeyi oluşturan öğrencilerin grup çalışması yapmaları istenebilir ( SDB2.2 , D3.4 ) . Öğrenciler gerekli malzemeyi seçmeleri, araştırmayı planlamaları ve gerçekleştirmeleri için yönlendirilir ( D3.2 ) . Öğrencilerin grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. Öğrenciler, sıvıların yüzey gerilimine sıcaklığın ve çözünen madde cinsinin etkisini dolaylı olarak belirlemek için yöntemler araştırmak üzere yönlendirilir. İlgili faktörlerin sıvıların yüzey gerilimine etkisini dolaylı olarak belirlemek için deney yapılması sağlanır. Öğrencilerden gözlemlerini veya ölçüm verilerini kaydetmeleri istenir ( OB7 ) . Öğrenciler, kaydettikleri verilerden yüzey gerilimini etkileyen faktörlere ilişkin sonuçlar çıkararak yorumlarda bulunmaları için yönlendirilir ( KB2.14 ) . Öğrenciler, suyun yüzey gerilimini etkileyen faktörlere ilişkin çıkarımlarını sıvının moleküller arası etkileşim kuvvetlerinin büyüklüğü temelinde gerekçelendirir ( OB1 ) . Yüzey gerilimini etkileyen faktörleri belirleyen öğrenciler, sonuçlarını bilimsel bilgilerle karşılaştırmaları için yönlendirilir. Yüzey gerilimi ile ilintili günlük hayat problemlerinin bilimsel bilgilerle ilişkilendirilmesi sağlanır. Öğrenciler, sıvıların yüzey gerilimini etkileyen faktörlere ilişkin öğretim sürecindeki deneyden farklı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Sürecin bütünü \"deney tasarım adımlarının takip edilerek sıvıların yüzey gerilimini etkileyen faktörlerin belirlenebilmesi ve bu faktörlerin moleküller arası etkileşim göz önüne alınarak açıklanabilmesi, deney sonuçlarının raporlanarak deneyden elde edilen çıktıların bilimsel bilgilerle karşılaştırılabilmesi ve günlük hayatla ilişkilendirilebilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Aynı zamanda öğrencilerden öz değerlendirme formu aracılığıyla hedef belirlemesi, deney sürecinde duygularını ve davranışlarını kontrol edebilmesi, sonraki öğrenmeleri geliştirmek için neler yapabileceğini belirlemesi istenebilir ( SDB1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D14.1",
+      "D16.3",
+      "D19.4",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D4.1",
+      "D4.2",
+      "D6.2",
+      "D7.2",
+      "D8.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4",
+      "E1.5",
+      "E2.2",
+      "E3.10",
+      "E3.2",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.2",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/121"
+}

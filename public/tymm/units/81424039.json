@@ -1,0 +1,34 @@
+{
+  "unitId": 81424039,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "39. ÜNİTE: GİTAR - GİTARIN YAPISI VE BÖLÜMLERİ",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.1.1",
+      "title": "Gitarın yapısını ve kullanılan malzemeleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.1.2",
+      "title": "Gitarın bölümlerini ve parçalarını gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.1.3",
+      "title": "Klasik gitarın diğer gitarlardan farklı olan özelliklerini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

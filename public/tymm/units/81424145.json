@@ -1,0 +1,29 @@
+{
+  "unitId": 81424145,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "145. ÜNİTE: AHŞAP OYMACILIĞI - AHŞAP OYMACILIĞINDA DESEN ÇİZİMİ",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.6.4.1",
+      "title": "Ahşap oyma desen çizimlerini yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.6.4.2",
+      "title": "Ahşap oyma desenini farklı yöntemlerle ahşap üzerine aktarır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

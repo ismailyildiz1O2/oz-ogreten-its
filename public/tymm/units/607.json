@@ -1,0 +1,63 @@
+{
+  "unitId": 607,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "1. TEMA: ZİNDELİK VE FİZİKSEL AKTİVİTE",
+  "hours": "10",
+  "description": "Öğrencilerin sporcu sakatlanma/yaralanmalarına yönelik tedbir alabilmeleri, fiziksel uygunluk bileşenlerinden sürati sağlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.11.1.1",
+      "title": "Sporcu sakatlanma/yaralanmalarını önlemeye yönelik güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Sporcu sakatlanma/yaralanmalarına yönelik riskleri tanımlar.",
+        "b) Sporcu sakatlanma/yaralanmalarını önlemeye yönelik tedbirler alır."
+      ]
+    },
+    {
+      "code": "BES.11.1.2",
+      "title": "Fiziksel uygunluk bileşenlerinden sürati sağlayabilme",
+      "processComponents": [
+        "a) Fiziksel uygunluk bileşenlerinden sürati açıklar.",
+        "b) Fiziksel uygunluk bileşenlerinden sürati içeren hareketleri uygular.",
+        "c) Fiziksel uygunluk bileşenlerinden sürati geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "ekipman, sürat.",
+  "support": [
+    "Sakatlanma/yaralanmaları önlemek için yapacağı spora uygun kıyafetleri listelemesi istenebilir.",
+    "Temel ve düşük yoğunluklu (düşük yoğunluklu sprintler, hafif hızlanma koşuları vb.) sürat çalışmaları yaptırılabilir."
+  ],
+  "enrichment": [
+    "Spor branşlarına özgü sakatlanma/yaralanma risklerini ve alınabilecek önlemlere yönelik bir araştırma yapması istenebilir.",
+    "Sürati sağlamaya yönelik bir antrenman programı hazırlaması ve bu programı belirli bir süre boyunca uygulaması istenebilir. Program sonunda kaydettiği sürat gelişim verilerini analiz etmesi ve bu sonuçları grafiklerle destekleyerek performans artışını bir rapor hâlinde sunması istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; kontrol listesi, gözlem formu ve performans görevi ile değerlendirilebilir. Sürate ilişkin çalışmalar gözlem formu ile değerlendirilebilir. Sporcu sakatlanma/yaralanma riski ve alınacak tedbirleri içeren güvenli ortam oluşturmaya yönelik senaryo hazırlama ve canlandırma çalışması performans görevi olarak verilebilir. Performans görevi kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.11.1.1. Sınıf gruplara ayrılır. Gruplar verilen kaynaklardan sporcu sakatlanma/yaralanmalarına yönelik riskleri (aşırı antrenman, yetersiz ısınma, yanlış ekipman vb.) ve önlemleri inceleyerek tanımlar ( SDB2.2 , OB1 ). Her gruba tanımladığı sporcu sakatlanma risklerinden ikisine yönelik, seçilen risklerden kaynaklı sakatlanma/yaralanmayı ve bunu önlemeye ilişkin tedbirleri içeren güvenli ortam oluşturmaya yönelik senaryo hazırlama ve canlandırma çalışması performans görevi olarak verilebilir ( D16.1 , E3.3 ). Gruptaki öğrenciler rol paylaşımı yaparak hazırladıkları senaryoyu canlandırır. Canlandırma sonunda diğer gruplardaki öğrenciler senaryodaki sakatlanma riskini önlemeye yönelik alternatif çözümlerini arkadaşlarıyla paylaşır ( SDB2.1 , SDB3.2 ). Performans görevi kontrol listesi ile değerlendirilebilir.",
+    "BES.11.1.2. Öğrencilere \"Sizce müsabakalarda süratin sporculara avantajları neler olabilir?\", \"Sürati geliştirmek için ne gibi çalışmalar yapılabilir?\" vb. sorular sorulabilir. Verilen cevaplardan hareketle öğrencilerin tartışma yoluyla sürati açıklamaları sağlanır. Öğrenciler etkinlik öncesi ısınma hareketleri (hafif tempolu koşu, sıçrama vb.) yapar. Öğretmen rehberliğinde 30 m kısa mesafe koşusu, 30 m engel koşusu, ip atlama ve merdiven çalışması vb. yapılabilecek istasyonlar belirler ve istasyonların adlarının yazıldığı kartları hazırlar. İstasyonlardaki çalışmaları bireysel uygular. Öğrencilerin istasyon sayısı kadar gruplara ayrılması sağlanır. Her grup bir lider belirler ve grup liderleri, istasyonun adının yazılı olduğu kartlardan birini çekerek grubunu o istasyona götürür ( SDB2.2 ). İstasyondaki çalışmayı gruplardaki her öğrenci eksiksiz uygular ( D3.4 , E3.2 ). Çalışmaların doğru forma ulaşması için öğrencilere geri bildirimler verilir. Gruplar istasyon değişimi yaparak tüm istasyonlardaki çalışmaları uygular. Öğrencilerin fiziksel uygunluk bileşenlerinden sürati geliştirmeleri için istasyonlardaki çalışmaların tekrar sayıları artırılır. Öğrenciler etkinliğin ardından esneme hareketleriyle vücutlarını soğuturlar. Öğrencilerin sürate ilişkin çalışmaları gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/607"
+}

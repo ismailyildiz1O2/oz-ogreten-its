@@ -1,0 +1,92 @@
+{
+  "unitId": 152,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "4. ÜNİTE: İNANÇLA İLGİLİ MESELELER",
+  "hours": "16",
+  "description": "Bu ünitenin odak noktasını inançla ilgili meseleler oluşturmaktadır. Öğrencilerin inançla ilgili felsefi yaklaşımları sorgulayabilmesi, kötülük problemi hakkında eleştirel düşünebilmesi, din istismarının ve yeni dinî hareketlerin ortaya çıkış sebeplerini-sonuçlarını sorgulayabilmesi amaçlanır. Kur’an’dan mesajlar bölümünde Hadid suresinin 1-5. ayetleri ele alınır. Öğrencilerin bu ayetlerde verilen mesajları özetleyebilmesi beklenir.",
+  "outcomes": [
+    {
+      "code": "DKAB.11.4.1",
+      "title": "İnançla ilgili felsefi yaklaşımları sorgulayabilme",
+      "processComponents": [
+        "a) İnançla ilgili felsefi yaklaşımlar hakkında merak ettiklerini tanımlar.",
+        "b) İnançla ilgili felsefi yaklaşımlar hakkında soru sorar.",
+        "c) İnançla ilgili felsefi yaklaşımlar hakkında bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DKAB.11.4.2",
+      "title": "Kötülük problemi hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) Kötülük problemini sorgular.",
+        "b) Kötülük problemi ve tanrı inancıyla ilgili akıl yürütür.",
+        "c) Akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "DKAB.11.4.3",
+      "title": "Din istismarının ve yeni dinî hareketlerin ortaya çıkış sebeplerinisonuçlarını sorgulayabilme",
+      "processComponents": [
+        "a) Din istismarı ve yeni dinî hareketlerle ilgili merak ettiklerini tanımlar.",
+        "b) Din istismarı ve yeni dinî hareketlerle ilgili sorular sorar.",
+        "c) Din istismarı ve yeni dinî hareketlerle ilgili bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu temel kaynakları dikkate alarak değerlendirir.",
+        "d) Toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DKAB.11.4.4",
+      "title": "Hadid suresi 1-5. ayetlerin mesajlarını özetleyebilme",
+      "processComponents": [
+        "a) Ayetlerde verilen mesajlarla ilgili çözümleme yapar.",
+        "b) Ayetlerde geçen konuları sınıflandırır.",
+        "c) Ayetlerde verilen mesajları açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "din istismarı, İslamofobi, iyilik, kötülük",
+  "support": [
+    "Öğrenmeyi desteklemek için dijital uygulamalardan, eşleştirme, soru cevap ve görsel yorumlama tekniklerinden kullanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden kötülük problemini İmam Matüridi'nin nasıl yorumlandığını araştırmaları istenebilir.",
+    "Öğrencilerden 15 Temmuz gazileriyle din istismarının bireye ve topluma verdiği zararlara dair röportaj yapmaları veya konuyla ilgili hazırlanmış röportajlardan faydalanarak bir metin hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, öğrenme günlükleri, dereceleme ölçeği, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "İnançla ilgili felsefi yaklaşımlarla ilgili araştırma yaparak bir deneme yazma, performans görevi olarak verilebilir. Bu performans görevi \"dil ve anlatım kurallarına uyma, kaynaklardan yararlanabilme, araştırmayı derinleştirme, raporlaştırma ve sunma\" gibi ölçütlere göre dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir.",
+    "Sonuç değerlendirmede performans görevleri kullanılabileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.11.4.1 İnançla ilgili felsefi yaklaşımlar hakkında bilgi verilir. Öğrenciler konuyla ilgili merak ettiklerini ifade eder ve sorular sorar ( E3.8 ) . Beyin fırtınası tekniği bu süreçte kullanılabilir. Teizm, deizm, materyalizm, pozitivizm, sekülarizm, agnostisizm, ateizm, nihilizm ve transhümanizm yaklaşımları öğretmen rehberliğinde açıklanır ( OB1 ) . Yapılandırılmış bir metinden hareketle öğrencilerin konu hakkında bilgi toplamaları sağlanır. Öğrenciler topladıkları bilgileri öğretmen rehberliğinde değerlendirir. Öğrencilerin bu yaklaşımların ortaya koyduğu meseleleri İslam'ın temel kaynaklarından hareketle ve eleştirel bir bakış açısıyla değerlendirerek çıkarımda bulunmaları sağlanır ( E3.10 ) . Ayrıca bu felsefi yaklaşımlar İslam'ın ahiret inancı açısından da ele alınır. Ölçme ve değerlendirme uygulamalarında öğrencilerden konuyla ilgili özet bir metin yazmaları ve hazırladıkları metinleri arkadaşlarıyla paylaşmaları istenebilir ( SDB2.1 ) . Yazılan metinler dereceleme ölçeği ile değerlendirilebilir.",
+    "DKAB.11.4.2 Öğrencilere iyilik ve kötülük kavramlarıyla ilgili neler bildikleri sorulur. Kelam disiplinine göre iyilik ve kötülük kavramları açıklanır. Öğrencilerin, kötülük problemine dair merak ettiklerini sormaları sağlanır ( E3.8 ) . Bu süreçte soru kutusu tekniği kullanılabilir. Yapılandırılmış bir metinden hareketle öğrencilerin konu hakkında akıl yürütmeleri sağlanır. Örnek olay incelemesi tekniğinden faydalanılabilir. Kötülük problemiyle ilgili görüşlerde tanrı inancına dair öne sürülen iddialar öğretmen rehberliğinde ele alınır. Kötülüğün ortaya çıkmasında insan iradesine ve sorumluluğuna vurgu yapılarak öğrencilerin eleştirel düşünmeleri ve çıkarım yapmaları sağlanır ( E3.4 , E3.10 ) . Buradan hareketle öğrenciler kötülük problemine dair çıkarım yapar. Öğrenciler çıkarımlarını görüş geliştirme tekniğiyle yansıtabilir ( SDB1.3 ) . Ölçme ve değerlendirme uygulamalarında açık uçlu sorular kullanılabilir.",
+    "DKAB.11.4.3 Öğrencilerin din istismarıyla ilgili bildikleri yoklanır ve din istismarı konu bağlamında açıklanır. Yeni dinî hareketler ve FETÖ, DAEŞ gibi din istismarında bulunan oluşumlarla ilgili öğrencilerin merak ettiklerini dile getirmeleri sağlanır. Bunların ortaya çıkma ve yaygınlaşma sebeplerine, ortak yönlerine, ülkemize olan olumsuz yansımalarına güncel örneklerle yer verilir. Konu ile ilgili yapılandırılmış bir metin üzerinden öğrenciler merak ettikleri sorulara dair bilgi toplar. Toplanan bilgilerin doğruluğu öğretmen rehberliğinde değerlendirilir. Bu süreçte balık kılçığı diyagramı kullanılabilir. Terörist, illegal, çıkarcı yapı ve gruplara değinilir. Batı'da ortaya çıkan \"İslamofobi/İslam karşıtlığı\" sebebiyle başta Müslümanlar olmak üzere dünya üzerinde yaşayan pek çok insana zarar veren söylem ve eylemlere dikkat çekilir. Bu hareketlerin bireysel, toplumsal, ekonomik ve siyasal etkenleri ile ilgili çıkarım yapmalarına imkân tanınır. Ülkemize verdiği zararların farkında olarak yeni dinî hareketlere ve din istismarına karşı mücadelede bireysel ve toplumsal sorumluluklar vurgulanır. Öğrencilerden bu ve benzeri toplumsal sorunların çözümü için öneriler sunmaları istenir ( SDB3.3 , SDB2.3 , D16.2 ) . Öğrencilerin dinî konularda alanında uzman olmayan kişilerin verdiği bilgilere şüpheyle yaklaşmaları ve doğru bilgiye ulaşmak için araştırma yapmaları sağlanır. ( E3.9 ) . Ölçme ve değerlendirme uygulamalarında öğrenme günlükleri kullanılabilir.",
+    "DKAB.11.4.4 Hadid suresi 1-5. ayetleri Diyanet İşleri Başkanlığı tarafından yayımlanan matbu ve dijital meallerden bulunarak incelenir ( OB2 ) . Ayetlerin nüzul sebeplerine, ayetlerde geçen şahıslara, yerlere, konulara ve kavramlara yer verilir. Öğrenciler bu ayetlerde verilen mesajları çözümler ve sınıflandırır. Bu süreçte bilgi kartları kullanılabilir. Öğrenciler ayetlerde ele alınan konuları açıklar ( SDB2.1 ) . Ölçme ve değerlendirme uygulamalarında açık uçlu sorular kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.4",
+      "E3.8",
+      "E3.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/152"
+}

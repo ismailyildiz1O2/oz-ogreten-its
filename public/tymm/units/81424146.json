@@ -1,0 +1,48 @@
+{
+  "unitId": 81424146,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "146. ÜNİTE: AHŞAP OYMACILIĞI - AHŞAP OYMACILIĞINDA UYGULAMA TEKNİKLERİ",
+  "hours": "55",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.6.5.1",
+      "title": "İnce zımpara ile ahşap oyma üzerinde kalan parçaları temizler",
+      "processComponents": [
+        "Tozdan korunmak için maske kullanımı zorunlu tutulmalıdır."
+      ]
+    },
+    {
+      "code": "GTSA.6.5.2",
+      "title": "Yaratıcı çalışmalar yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.6.5.3",
+      "title": "Ahşap oyma işini ahşap koruyucu, vernik veya gomalak ile kaplar",
+      "processComponents": [
+        "Su bazlı malzemeler kullanılmalıdır."
+      ]
+    },
+    {
+      "code": "GTSA.6.5.4",
+      "title": "Ahşap oyma işini sergiye hazır hâle getirir",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.6.5.5",
+      "title": "Çalışmalarını sergiler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

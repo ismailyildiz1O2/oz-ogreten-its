@@ -1,0 +1,49 @@
+{
+  "unitId": 1115,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "2. TEMA: ÇEŞNİ",
+  "hours": "6",
+  "description": "Temanın içeriğini Türk müziği makamlarında kullanılan çeşni kavramı oluşturmaktadır. Bu doğrultuda çeşni kavramını işitme, okuma ve yazma ile ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TMT7.2.1. Çeşnileri işitebilme",
+      "processComponents": [
+        "a) Çeşniyi oluşturan sesleri tanır.",
+        "b) Ezgilerde kullanılan çeşnileri işitsel ve görsel olarak ayırt eder.",
+        "c) Nota üzerinde çeşnileri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, çeşni, renk",
+  "support": [
+    "Öğrendiklerini sık sık tekrar ettirip küçük adımlarla ilerlenebilir."
+  ],
+  "enrichment": [
+    "Hazır bulunuşluğu yüksek, müziğe ve enstrümanlara aşina olan ya da hızlı öğrenen öğrencilerinkendilerine özgü çeşniler yazarak seslendirmeyi denemesi istenebilir. Öğrenciye grup liderliği yaptırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve öz değerlendirme formu kullanılarak değerlendirilebilir.Performans görevi olarak ön öğrenmlerinde öğrendikleri dörtüler ve beşlilerden oluşan önceden yazılmış dizileri çeşnilendirilmesi verilebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "teachingApplications": [
+    "TMT7.2.1. Çeşni kavramı, görsel ve işitsel materyallerle desteklenerek öğrencilerin ön öğrenmelerini hatırlaması ve merak etmesi sağlanır ( E1.1 ). Öğrencilerin yeni öğrenmelere ilişkin görsellere ait soru sorması sağlanır ( E3.8 ). Sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma desteklenir ( SDB1.1 ). Çeşni ile ilgili sunumlar hazırlanarak öğrencilerin kavramları hem görsel hem de işitsel olarak fark etmeleri sağlanır ( OB4 ). Öğrencilerin ön öğrenmelerde öğrendiği çeşni kavramının işitilmesine yönelik yapılan çalışmaların ardından Türk müziği dizilerinde çeşni olgusunun eseri renklendirmek için kullanılan ana diziden farklı; üçlü, dörtlü veya beşli dizilerle oluşturulan kısa melodik yapılar olduğuna ilişkin çalışmalar yaparak çeşni kavramını tanımaları sağlanır. Görsel ve işitsel sunumlar hazırlanarak çeşnilerin insan üzerinde ana melodiye göre farklı etkiler bıraktığına işitsel olarak ayırt etmesi sağlanır.\" Verilen örnek notasyon zerinde bu çeşnileri doğru icra etmeye yönelik uygulama örnekleri yaptırılır.\" cümlesi ekleyelim. Cümle başındaki noktayı önceki cümlenin sonuna koymayı unutmayalım ( D3.1 ). Bu süreç, gözlem formu veya çalışma kâğıdı kullanılarak değerlendirilebilir. Performans görevi olarak ön öğrenmelerinde öğrendikleri dörtüler ve beşlilerden oluşan önceden yazılmış dizileri çeşnilendirilmesi verilebilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1115"
+}

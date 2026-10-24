@@ -1,0 +1,41 @@
+{
+  "unitId": 80791006,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "6. ÜNİTE: HARF, KELİME VE CÜMLE YAZMA (MATBU)",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OSM.10.6.1.1",
+      "title": "Osmanlı Türkçesi alfabesindeki matbu harfleri yazar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.6.2.1",
+      "title": "Türkçe kelimeleri Osmanlı Türkçesiyle yazar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.6.2.2",
+      "title": "Osmanlı Türkçesi alfabesiyle yazma çalışmaları yapar",
+      "processComponents": [
+        "Basit kelime ve cümle örnekleriyle bakarak yazma çalışmaları yaptırılmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.10.6.2.3",
+      "title": "Osmanlı Türkçesi alfabesindeki estetik yönü fark eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

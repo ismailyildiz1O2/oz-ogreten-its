@@ -1,0 +1,114 @@
+{
+  "unitId": 81359002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Genetik Bilimine Giriş Dersi",
+  "title": "2. ÜNİTE: GENETİK MADDENİN YAPISI VE İŞLEVİ",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GBG.2.1.1",
+      "title": "Nükleik asitlerin yapı ve görevlerini tanımlar",
+      "processComponents": [
+        "Nükleik asitlerin bileşenleri açıklanır ve nükleotitlerin polimer olduğu belirtilir.",
+        "DNA ve RNA'nın genel özellikleri açıklanır.",
+        "DNA' nın moleküler yapısı üzerinde durulur. Tüm canlılarda DNA'da bulunan nükleotit çeşitlerinin aynı olduğuna vurgu yapılır.",
+        "RNA'nın yapısı ve çeşitleri üzerinde durulur. Canlılardaki RNA çeşitlerinin işlevlerine değinilir."
+      ]
+    },
+    {
+      "code": "GBG.2.1.2",
+      "title": "DNA ve RNA'nın moleküler yapısını tasarladığı model üzerinde açıklar",
+      "processComponents": [
+        "Geri dönüşüm malzemelerinin kullanılacağı bir DNA ve RNA modeli tasarlanması istenir."
+      ]
+    },
+    {
+      "code": "GBG.2.2.1",
+      "title": "DNA replikasyonunu açıklar",
+      "processComponents": [
+        "DNA replikasyon modelleri üzerinde durulur. Saklı (konservatif) ve Dağınık (dispersif ) modeller temel düzeyde, Yarı saklı (semikonservatif) model görsel ögeler üzerinden ayrıntılara girilerek açıklanır.",
+        "Replikasyon orijini ve replikasyon çatalı kavramlarına vurgu yapılır.",
+        "Farklı tip nükleik asitlerin genom olarak kullanıldığı belirtilerek virüslerde DNA replikasyonu açıklanır.",
+        "Dönen halka modeliyle λ DNA replikasyonu ve retrovirüslerde aracı DNA üzerinden RNA genomunun replikasyonu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "GBG.2.2.2",
+      "title": "Prokaryot ve ökaryotlarda DNA replikasyonunu açıklar",
+      "processComponents": [
+        "E. colinin replikasyon mekanizmasından yola çıkarak prokaryotlardaki replikasyon mekanizması açıklanır.",
+        "Replikasyon sürecinde görev alan helikaz, topoizomeraz, DNA polimeraz, DNA ligaz enzimlerinin isimleri ve görevlerine temel düzeyde yer verilir.",
+        "Ökaryotlarda altı tip DNA polimeraz olduğu açıklanır. Ökaryotlarda kromozomların uçlarının replikasyon geçirdiği belirtilerek telomeraz enziminin işlevine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "GBG.2.2.3",
+      "title": "DNA tamir mekanizmalarını analiz eder",
+      "processComponents": [
+        "DNA tamir mekanizmalarından, yanlış eşleme tamiri ve nükleotit kesip çıkarma tamiri üzerinde durulur.",
+        "DNA tamir mekanizmalarında meydana gelecek aksaklıkların olası sonuçları üzerine bir araştırma çalışması yaptırılır."
+      ]
+    },
+    {
+      "code": "GBG.2.3.1",
+      "title": "Genlerin, transkripsiyon ve translasyon yoluyla proteinleri belirlediğini açıklar",
+      "processComponents": [
+        "Genler ve proteinler arasındaki temel ilişkinin nasıl keşfedildiği açıklanır.",
+        "Transkripsiyon ve translasyonun temel prensipleri üzerinde durulur.",
+        "Genetik kod, kodon ve kalıp zincir kavramları üzerinden genetik bilginin akışında transkripsiyon ve translasyonun rollerine dikkat çekilir."
+      ]
+    },
+    {
+      "code": "GBG.2.3.2",
+      "title": "Transkripsiyon mekanizmalarını ifade eder",
+      "processComponents": [
+        "Transkripsiyonun DNA yönetiminde RNA sentezi olduğu üzerinde durulur.",
+        "Transkripsiyonun başlama, uzama ve sonlanma aşamalarından meydana geldiği açıklanır.",
+        "Mesajcı RNA, taşıyıcı RNA ve ribozomal RNA'nın transkipsiyonu temel düzeyde verilir."
+      ]
+    },
+    {
+      "code": "GBG.2.3.3",
+      "title": "Translasyonun RNA yönetiminde polipeptit sentezi olduğunu açıklar",
+      "processComponents": [
+        "Taşıyıcı RNA'nın yapısı ve işlevine değinilerek antikodon kavramı açıklanır.",
+        "Aminoaçil-tRNA sentetaz enziminin işlevine değinilir.",
+        "Polipeptit yapımında translasyonun başlaması, polipeptit zincirinin uzaması ve translasyonun sonlanması aşamaları olduğuna değinilir ve poliribozomlar vurgulanır.",
+        "Translasyon sonrası gerçekleşen modifikasyonlar açıklanır.",
+        "Protein katlanması ve translasyon sonrası değişiklikler açıklanır.",
+        "Polipeptitlerin özel yerlere yönlendirilmesi örnek verilerek proteinlerin ER'a yönlendirilmesinde kullanılan sinyal mekanizması açıklanır."
+      ]
+    },
+    {
+      "code": "GBG.2.3.4",
+      "title": "Gen ifadesinin regülasyonu ile ilişkili mekanizmaları tanımlar",
+      "processComponents": [
+        "Prokaryotlarda gen ifadesinin düzenlenmesi temel düzeyde açıklanır.",
+        "Prokaryotların çevre koşullarına cevap veren etkin genetik mekanizmalara sahip olduğu belirtilir. Bakterilerde gen ifadesinin düzenlenmesinin genellikle hücrenin metabolik ihtiyaçları ile ilişkili olduğuna değinilir.",
+        "Ökaryotik gen regülasyonunun prokaryotik gen regülasyonundan farklı yönleri üzerinde durulur.",
+        "Kromozomlardaki nükleotit dizilişinin gen ifadesini etkilediğine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "GBG.2.4.1",
+      "title": "Prokaryot ve ökaryotlarda kromozom organizasyonu ile ilgili çıkarımlarda bulunur",
+      "processComponents": [
+        "Prokaryotlarda genetik materyalin organizasyonundan temel düzeyde bahsedilir.",
+        "Viral ve bakteriyel kromozomların nispeten basit DNA molekülleri olduğuna değinilir.",
+        "Kromozom yapısı, öğrencilere hazırlatılacak model üzerinden açıklanır.",
+        "Bazı canlılarda normal kromozomlara göre çok büyük kromozomlara rastlandığından bahsedilir.",
+        "Politen kromozomlar ve lamba şişesi fırçası kromozomlar üzerinden özelleşmiş kromozomlar açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249593601-genetik.pdf"
+}

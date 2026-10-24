@@ -1,0 +1,71 @@
+{
+  "unitId": 1029,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "4. TEMA: KONSER ETKİNLİKLERİ",
+  "hours": "6",
+  "description": "Temada öğrencilerin Türk müziği etkinliklerine katılmaları, müzik etkinliklerinde uyulması gereken kuralları öğrenmeleri ve ders repertuvarındaki eserleri sınıf konserinde seslendirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.4.4.1",
+      "title": "Türk müziği etkinliklerine katılmanın önemini yansıtabilme",
+      "processComponents": [
+        "a) Katıldığı Türk müziği etkinlikleri ile ilgili deneyimlerini gözden geçirir.",
+        "b) Katıldığı Türk müziği etkinlikleri ile ilgili deneyimlerinden hareketle çıkarım yapar.",
+        "c) Ulaştığı çıkarımları değerlendirir."
+      ]
+    },
+    {
+      "code": "KOREP.4.4.2",
+      "title": ". Koro eserlerini sınıf korosu konserinde söyleyebilme",
+      "processComponents": [
+        "a) Koro eserlerini sınıf korosu konserinde söylemeye hazırlanır.",
+        "b) Koro eserlerini sınıf korosu konserinde söylerken uygun teknikleri kullanır.",
+        "c) Koro eserlerini sınıf korosu konserinde söylerken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "konser, konser izleme, konser verme, müzik etkinlikleri",
+  "support": [
+    "Öğrencilerin okulda düzenlenecek Türk müziği etkinliklerini takip etmeleri ve bu etkinlikleri arkadaşlarıyla paylaşmaları sağlanabilir. Öğrencilerin seçilecek daha kolay bir Türk müziği eserini önce sınıf içindeki koro çalışmalarında daha sonra da düzenlenecek olan konser etkinliğinde söylemeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin katıldıkları Türk müziği koro konserlerine ilişkin konser programları, afişleri, biletleri gibi materyallerden koleksiyon yapmaları istenebilir. Öğrencilerin düzenlenecek sınıf korosu konserinde kendi belirleyeceği bir Türk müziği eserini solo olarak söylemeleri sağlanabilir ."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi ve öz değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilere Türk müziği etkinliklerine katılmanın önemini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.4.4.1 Öğrencilerin farklı Türk müziği icra ortamlarını, müzik türlerini, çalgıları tanıyabilmeleri, repertuvarlarını zenginleştirmeleri ve konser etkinlikleri gerçekleştirmeleri konusunda motive olmaları için onlara müzik etkinliklerine katılmalarının önemi vurgulanır ( E3.5 , D3.1 , D7.3 , SDB1.2 ). Öğrencilerin çevrelerinde (okul, mahalle, ilçe, il) düzenlenen müzik etkinlikleriyle ilgili deneyimlerini ifade etmeleri sağlanır ( E2.3 , OB5 , SDB2.3 ). Deneyimlerinden yola çıkarak Türk müziği etkinliklerine katılmanın önemi ile ilgili çıkarım yapmaları beklenir ( SDB2.1 ). Öğrencilerin Türk müziği etkinliklerine katılmanın önemi ile ilgili çıkarımlarını arkadaşlarıyla paylaşarak değerlendirmeleri beklenir ( D4.2 ). Yapılan çalışmalar performans görevi verilerek değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir. KOREP.4.4.2 Öğrencilerin öz güvenlerini desteklemek amacıyla koro ve repertuvar dersine ait eserleri sunmalarına yönelik sınıf korosu konseri düzenlenir ( E1.5 , OB9 ). Bütün öğrencilerin bu etkinlikte görev almaları beklenir ( D3.4 , SDB2.2 ). Etkinlik için gerekli provalar ve çalışmalar yapılır. Öğrencilerin konsere başlamadan önce bedensel esneme, nefes ve ses açma çalışmaları ile hazırlık yapmaları sağlanır ( D3.2 ). Konserde eserleri seslendirirken birlikte söyleme kurallarına uymak, nefes yerlerine dikkat etmek ve anlamsal bütünlüğü bozmadan söylemeye özen göstermek gibi uygun söyleme tekniklerini kullanmaları gerektiği vurgulanır. Öğrencilerin konserde eserleri müziksel bileşenlerine uygun şekilde söylemeleri sağlanır ( E2.2 ). Konser sonrasında sınıfta konser ile ilgili işitsel ve görsel materyaller paylaşılarak öğrencilerin duygu ve düşüncelerini ifade etmeleri sağlanabilir ( SDB2.1 , TAB1 ). Konserin tüm aşamalarını içeren maddelerden oluşan öz değerlendirme formu kullanılarak öğrencilerden kendilerini değerlendirmeleri istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1",
+      "D3.2",
+      "D3.4",
+      "D4.2",
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.5",
+      "E2.2",
+      "E2.3",
+      "E3.5"
+    ],
+    "okuryazarlik": [
+      "OB5",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ],
+    "diger": [
+      "TAB1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1029"
+}

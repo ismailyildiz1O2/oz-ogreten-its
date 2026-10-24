@@ -5,9 +5,11 @@ import katex from "katex";
 import { useITSStore } from "@/store/useITSStore";
 import { getMasteryStatus } from "@/lib/bkt-engine";
 import {
+  BookOpen,
   BrainCircuit,
   CheckCircle2,
   History,
+  Layers,
   RotateCcw,
   X,
   XCircle,
@@ -17,6 +19,8 @@ export const BktModal: React.FC = () => {
   const {
     isBktModalOpen,
     setBktModalOpen,
+    setTymmModalOpen,
+    activeUnit,
     skills,
     bktHistory,
     applyBKTUpdate,
@@ -39,7 +43,9 @@ export const BktModal: React.FC = () => {
 
   const skillList = Object.values(skills);
   const averageMastery =
-    skillList.reduce((acc, s) => acc + s.params.pL, 0) / skillList.length;
+    skillList.length > 0
+      ? skillList.reduce((acc, s) => acc + s.params.pL, 0) / skillList.length
+      : 0.35;
 
   const handleSimulateObservation = async (
     skillId: string,
@@ -63,7 +69,7 @@ export const BktModal: React.FC = () => {
       skillId,
       isCorrect,
       isCorrect
-        ? "BKT Simülatörü: Doğru kavramsal gözlem uygulandı."
+        ? "BKT Simülatörü: Doğru TYMM süreç bileşeni gözlemi uygulandı."
         : "BKT Simülatörü: Yanılgı / hatalı gözlem uygulandı."
     );
   };
@@ -75,7 +81,7 @@ export const BktModal: React.FC = () => {
       aria-modal="true"
       aria-labelledby="bkt-modal-title"
     >
-      <div className="bg-slate-900 border border-slate-700/90 rounded-2xl max-w-3xl w-full max-h-[90vh] flex flex-col shadow-2xl overflow-hidden">
+      <div className="bg-slate-900 border border-slate-700/90 rounded-2xl max-w-4xl w-full max-h-[90vh] flex flex-col shadow-2xl overflow-hidden">
         {/* Modal Üst Başlık */}
         <div className="px-5 py-4 border-b border-slate-800 flex items-center justify-between bg-slate-950/70">
           <div className="flex items-center gap-3">
@@ -87,16 +93,29 @@ export const BktModal: React.FC = () => {
                 id="bkt-modal-title"
                 className="text-base font-bold text-white"
               >
-                Bayesian Knowledge Tracing (BKT) Öğrenci Modeli
+                Bayesian Knowledge Tracing (BKT) & TYMM Öğrenci Modeli
               </h2>
               <p className="text-xs text-slate-400">
-                Gerçek zamanlı bilişsel ustalık olasılığı $P(L_n)$ ve kazanım
-                analizi
+                Aktif Ünite:{" "}
+                <strong className="text-slate-200">
+                  {activeUnit.gradeName} • {activeUnit.title}
+                </strong>
               </p>
             </div>
           </div>
 
           <div className="flex items-center gap-2">
+            <button
+              type="button"
+              onClick={() => {
+                setBktModalOpen(false);
+                setTymmModalOpen(true);
+              }}
+              className="px-3 py-1.5 rounded-lg text-xs font-medium bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/30 transition flex items-center gap-1.5"
+            >
+              <BookOpen className="w-3.5 h-3.5" />
+              <span>TYMM Ünite Değiştir</span>
+            </button>
             <button
               type="button"
               onClick={resetBKT}
@@ -123,7 +142,7 @@ export const BktModal: React.FC = () => {
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div>
                 <span className="text-xs font-semibold uppercase tracking-wider text-indigo-400">
-                  Genel Ünite Ustalık Skoru (MEB F.7.3.1)
+                  Genel Ünite Ustalık Skoru ({activeUnit.title})
                 </span>
                 <div className="text-2xl font-bold text-white mt-0.5">
                   %{(averageMastery * 100).toFixed(1)}
@@ -142,10 +161,37 @@ export const BktModal: React.FC = () => {
             />
           </div>
 
-          {/* Kazanım Bazlı BKT Kartları */}
+          {/* Eşleşen TYMM Beceri, Eğilim ve Değer Kodları (codes.json) */}
+          {activeUnit.resolvedSkills &&
+            activeUnit.resolvedSkills.length > 0 && (
+              <div className="space-y-2">
+                <h3 className="text-xs font-semibold uppercase tracking-wider text-slate-400 flex items-center gap-1.5">
+                  <Layers className="w-3.5 h-3.5 text-emerald-400" />
+                  <span>
+                    Ünitenin TYMM Beceri, Eğilim ve Değer Profili (codes.json)
+                  </span>
+                </h3>
+                <div className="flex flex-wrap gap-1.5">
+                  {activeUnit.resolvedSkills.map((sk) => (
+                    <div
+                      key={sk.code}
+                      className="px-2.5 py-1 rounded-lg bg-slate-950/80 border border-slate-800 text-xs flex items-center gap-1.5"
+                      title={sk.category}
+                    >
+                      <span className="font-bold text-emerald-400">
+                        {sk.code}
+                      </span>
+                      <span className="text-slate-300">{sk.label}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+          {/* Kazanım / Öğrenme Çıktısı Bazlı BKT Kartları */}
           <div className="space-y-3">
             <h3 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
-              MEB Kazanımları ve BKT Parametreleri
+              TYMM Öğrenme Çıktıları, Süreç Bileşenleri ve BKT Parametreleri
             </h3>
 
             {skillList.map((skill) => {
@@ -158,7 +204,7 @@ export const BktModal: React.FC = () => {
                   className="bg-slate-950/70 border border-slate-800 rounded-xl p-4 space-y-3"
                 >
                   <div className="flex flex-wrap items-start justify-between gap-2">
-                    <div>
+                    <div className="space-y-1.5 flex-1">
                       <div className="flex items-center gap-2">
                         <span className="text-xs font-bold px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
                           {skill.code}
@@ -167,9 +213,18 @@ export const BktModal: React.FC = () => {
                           {skill.title}
                         </h4>
                       </div>
-                      <p className="text-xs text-slate-400 mt-1">
-                        {skill.description}
-                      </p>
+                      {skill.processComponents &&
+                      skill.processComponents.length > 0 ? (
+                        <ul className="pl-3 space-y-0.5 text-xs text-slate-400 border-l-2 border-slate-800 ml-1">
+                          {skill.processComponents.map((pc, i) => (
+                            <li key={i}>{pc}</li>
+                          ))}
+                        </ul>
+                      ) : (
+                        <p className="text-xs text-slate-400">
+                          {skill.description}
+                        </p>
+                      )}
                     </div>
 
                     <div className="flex items-center gap-2">

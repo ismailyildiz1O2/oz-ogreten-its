@@ -1,0 +1,53 @@
+{
+  "unitId": 1557,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Geleneksel Oyunlar)",
+  "title": "2. Tema",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEGO.2.1",
+      "title": "Geleneksel oyunlar aracılığıyla fiziksel aktiviteye katılabilme",
+      "processComponents": [
+        "a) Geleneksel oyunlar aracılığıyla fiziksel etkinlik ihtiyacını fark eder.",
+        "b) Geleneksel oyunlarla katılacağı fiziksel etkinliği planlar.",
+        "c) Geleneksel oyunlar aracılığıyla gerçekleştireceği fiziksel etkinlik planını uygular."
+      ]
+    },
+    {
+      "code": "OOEGO.2.2",
+      "title": "Geleneksel oyunların kişisel ve sosyal gelişimdeki etkisini çözümleyebilme",
+      "processComponents": [
+        "a) Geleneksel oyunların kişisel ve sosyal gelişime katkıda bulunan unsurlarını belirler.",
+        "b) Belirlenen unsurlar arasındaki ilişkiyi ve gelişime olan etkilerini belirler."
+      ]
+    },
+    {
+      "code": "OOEGO.2.3",
+      "title": "Geleneksel oyunlarda adil oyun anlayışına uygun davranabilme",
+      "processComponents": [
+        "a) Geleneksel oyunlarda adil oyun anlayışının temel ilkelerini açıklar.",
+        "b) Geleneksel oyunlarda adil oyun anlayışına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "OOEGO.2.4",
+      "title": "Geleneksel oyun etkinliklerinde liderlik sergileyebilme",
+      "processComponents": [
+        "a) Geleneksel oyun etkinliğinde liderlik rollerini tanımlar.",
+        "b) Tanımladığı liderlik rollerini etkinlik sürecinde gösterir."
+      ]
+    }
+  ],
+  "keyConcepts": "adil oyun, liderlik",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB4. Fiziksel Aktiviteye Katılma, BEOSAB8. Adil Oyun Anlayışına Uygun Davranma, BEOSAB9. Takım/Grup Liderliği Sergileme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1557"
+}

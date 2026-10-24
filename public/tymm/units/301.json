@@ -1,0 +1,83 @@
+{
+  "unitId": 301,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "4. TEMA: NESNELERİN GEOMETRİSİ (1)",
+  "hours": "17",
+  "description": "Bu temada öğrencilerin geometrik cisimlerin farklı açınımlarını yapılandırabilmesi; üçgen, kare ve dikdörtgenin köşe ve kenar özelliklerini yorumlayabilmesi amaçlanmaktadır. Ayrıca bu temada öğrencilerin geometrik şekillerin çevre uzunluğunu ölçmede matematiksel araç ve teknolojiden yararlanabilmesi; standart olmayan ölçü birimini kullanarak şeklin alanına ilişkin tahminde bulunabilmesi; tahminini ölçüm sonuçlarıyla karşılaştırarak tahminine ilişkin yargıda bulunabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.4.3.1",
+      "title": "Geometrik cisimlerin açınımlarını yapılandırabilme",
+      "processComponents": [
+        "a) Geometrik cisimlerin açınımlarını inceleyerek yüzler arasında mantıksal ilişkiler ortaya koyar.",
+        "b) Ortaya koyduğu ilişkilerden yola çıkarak geometrik cismi oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.4.3.2",
+      "title": "Geometrik şekilleri köşe ve kenarlarına göre yorumlayabilme",
+      "processComponents": [
+        "a) Üçgen, kare ve dikdörtgenin köşe ve kenarlarını belirler.",
+        "b) Üçgen, kare ve dikdörtgenin köşe ve kenarları arasında ilişki kurar.",
+        "c) Kenarlarına göre üçgen çeşitlerini ve kare ile dikdörtgen ilişkisini ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.4.3.3",
+      "title": "Geometrik şekillerin çevre uzunluğunu ölçmede matematiksel araç ve teknolojiden yararlanabilme",
+      "processComponents": [
+        "a) Geometrik şekillerin çevre uzunluğunu ölçmede kullanılabilecek matematiksel araç ve teknolojiyi tanır.",
+        "b) Üçgen, kare ve dikdörtgenin çevre uzunluğunu ölçmede kullanılabilecek matematiksel araç ve teknolojiyi belirler.",
+        "c) Üçgen, kare ve dikdörtgenin çevre uzunluğunu ölçmek için ilgili matematiksel araç ve teknolojiyi kullanır."
+      ]
+    },
+    {
+      "code": "MAT.4.3.4",
+      "title": "Standart olmayan ölçü birimleri cinsinden şekillerin alanlarını tahmin edebilme",
+      "processComponents": [
+        "a) Standart olmayan ölçü birimlerine ilişkin deneyimini, tahmine konu olan şeklin alanıyla ilişkilendirir.",
+        "b) Belirlenen standart olmayan ölçü birimini kullanarak şeklin alanına ilişkin tahminde bulunur.",
+        "c) Tahminini ölçüm sonuçlarıyla karşılaştırarak tahminine ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "• alan, Sembol ve Gösterimler, • -",
+  "support": [
+    "Sınıfa getirilen modeller üzerinden öğrencilerin geometrik cisimleri farklı açılardan gözlemlemeleri ve karşılıklı yüzler arasındaki ilişkinin anlaşılması sağlanır. Örneğin geometrik cisimde yer alan yüzler arasındaki mantıksal ilişkiyi ortaya koymak adına yüzleri farklı renklere boyamaları veya numaralandırmaları istenir. Yüzler arasındaki mantıksal ilişkileri ortaya koymaları beklenir. Bununla birlikte patates baskısı gibi kaplama etkinlikler yapılarak cisimlerin yüzeyindeki şekillerin fark edilmesi sağlanarak şeklin alanına ilişkin yorumlama yapılması istenir."
+  ],
+  "enrichment": [
+    "Öğrencilere seçtikleri geometrik yapıları, geometrik cisimlerden yararlanarak fiziksel olarak modelleme veya dijital olarak tasarlama görevi verilir. Örneğin öğrencilere bir geometrik yapı tasarlaması için küp, prizma, dik dairesel silindir gibi geometrik cisimler sunulur ve anlamlı bir bütün oluşturması istenir. Ayrıca geometrik şekillerden bir geometrik cisim tasarlanması sürecinde şekiller arasında anlamlı bir ilişki kurulmasına yönelik etkinlik yapılır ve açınımı verilen bir geometrik cismin yüzleri arasında mantıksal bir ilişkinin olması gerekliliği kavratılır. Geometrik cisimlerin temel açınımlarının haricinde farklı açınımlarının da gösterilmesi ile öğrencilerde mantıksal farkındalık yaratılır.",
+    "Eşkenar üçgenin aynı zamanda bir ikizkenar üçgen olduğuna ilişkin geometri tahtası üzerinden ya da kâğıt katlama etkinlikleri ile farkındalık oluşturulur.",
+    "Öğrenciler gruplara ayrılır ve her bir gruptan farklı araç gereçle (mezura, lazer mesafe ölçer vb.) karmaşık şekle sahip bir yüzeyin çevresinin ölçülmesi istenir. Ayrıca etkileşimli geometri yazılımları ile bu yüzeyin bir modeli üzerinden çevre ölçümü yapılmaya da çalışılır. Farklı araç gereçle ölçülen yüzeyin çevresi sınıf ortamında tartışılır, ölçme araçlarının süreçteki esnekliğine ve faydasına ilişkin yorum yapılır. Aynı çevre uzunluklarına sahip farklı geometrik şekiller oluşturur.",
+    "Alan ölçümü sürecinde, geometrik olmayan eş şekiller de kullanılır ve geometrik şekiller ile geometrik olmayan şekillerin kullanımına ilişkin ortaya çıkan sonuçlar arasındaki fark öğrenciye yorumlatılır."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları, performans görevi, açık uçlu sorular, kontrol listesi, eşleştirme soruları, analitik ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Standart olmayan ölçü birimleri cinsinden şekillerin alanlarını tahmin edilebilmesine yönelik performans görevi verilebilir ve analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.4.3.1 Geometrik cisimler ile geometrik şekiller arasındaki mantıksal ilişkinin öğrenciler tarafından keşfedilmesi amacıyla okul dışı öğrenme ortamlarındaki geometrik yapılara dikkat çekilir. Okul dışı öğrenme ortamının uygun olmadığı durumlarda uygun geometrik cisim modelleri ya da görseller sınıf ortamına getirilir. Getirilen geometrik cisim modelleri öğrencilere verilir ya da varsa uygun görseller etkileşimli tahta üzerinden ya da basılı araçlar üzerinden sunulur. Sınıf ortamına getirilen veya sunulan modeller üzerinden geometrik cisimlerin farklı açılardan gözlemlenmesi ve karşılıklı yüzler arasındaki ilişkinin fark edilmesi sağlanır. Öğrencilerden verilen geometrik cismin yüzey açınımlarını oluşturan geometrik şekiller üzerine tahminde ( KB2.12 ) bulunmaları beklenir. Tahminleri test etmek için söz konusu geometrik şekillerin geometrik cismin açınımındaki konumlarını belirlemeleri sağlanır. Öğrencilerden meydana gelebilecek hatalı açınımları sorgulamaları ve bir tartışma ortamında bu hataları nedenleri ile birlikte açıklamaları beklenir ( SDB2.2 ) . Ayrıca öğrencilerden bir geometrik cismin köşe, yüz ve ayrıtları arasındaki mantıksal ilişkileri incelemeleri ve bu ilişkilerden yola çıkarak geometrik cisim oluşturmaları beklenir ( SDB1.2 , SDB3.2 ) . Geometrik cisimlerin ve şekillerin düzgün ve estetik olması açısından açınımlara yönelik öğrencilerin çizim çalışmaları yapmaları sağlanır. Çizimlerin estetik özelliklerinin estetik bakış açısını geliştirerek insanın özgün eserler tasarlamasına katkı sağlayacağı vurgulanır ( D7.3 ) . Bu süreçte geometrik cisimlerin temel açınımlarına yer verilir, farklı açınımlarına ise girilmez. Geometrik cisimlere ve açınımlarına ilişkin değerlendirme eşleştirme soruları ile yapılabilir.",
+    "MAT.4.3.2 Sınıfa geometri tahtası veya geometri şeritleri gibi araç gereç getirilir ve üçgen, kare, dikdörtgen şekillerinin nasıl gösterilebileceğine ilişkin öğrencilere keşfedici sorular sorulur ( E1.1 ) . Örneğin tahta üzerinde gösterilen şekillerin köşe sayılarına ve kenar uzunluklarına dikkat çekilir. Tahta üzerinde gösterilen bir üçgenin kenar uzunlukları incelenir ve farklı kenar uzunluklarına sahip üçgenin çeşitkenar üçgen olduğu belirtilir. Kenarlarından ikisi eş uzunlukta olan üçgenin ikizkenar üçgen olduğu, bütün kenarları eş uzunlukta olan üçgenin ise eşkenar üçgen olduğu ifade edilir. Öte yandan tahta üzerinde gösterilen bir dikdörtgenin kenar uzunlukları incelendiğinde karşılıklı iki kenar uzunluğunun eş olduğuna dikkat çekilir. Karenin de benzer şekilde karşılıklı iki kenar uzunluğunun eş olduğu gösterilir ve kare ile dikdörtgen arasındaki ilişkiye vurgu yapılır. Kare ve dikdörtgen arasındaki ilişkinin fark edilmesi sürecinde dikdörtgenin kenarlarını adlandırırken uzun ve kısa kenar ifadelerinden kaçınılır. Bunun yerine karşılıklı iki kenar uzunluğunun eş olduğu vurgusu yapılır. Ayrıca açı kavramına girilmeden dikdörtgenin ve karenin köşelerinin dik olduğunu fark etmeleri sağlanır. Üçgen, kare, dikdörtgenin kenar ve köşelerinin adlandırılmasına ve üçgen çeşitlerinin açıklanmasına ilişkin açık uçlu sorular kullanılabilir. Elde edilen verilerin değerlendirilmesinde ise kontrol listesi kullanılabilir.",
+    "MAT.4.3.3 Öğretmen derse öğrencilerin geometrik şekillerin çevre uzunluklarını ölçmeleri için cetvel ve ölçüm bandı gibi matematiksel araç ve gereçler getirir. Bu araçların doğrudan uzunluk ölçümü yapmak için kullanıldığına ilişkin vurgu yapılır. Geometri seti içerisinde yer alan pergel tanıtılır ve uzunluk ölçümünde cetvel ile birlikte kullanımına ilişkin bilgi sunulur. Çizilen geometrik şekillerin kenar uzunlukları konusunda öğrencilerin tahmin ve ölçüm yapmaları sağlanır. Ardından ölçüm sonuçları ile tahmin sonuçlarının karşılaştırılması istenir. Ayrıca etkileşimli geometri yazılımları üzerinden üçgen, kare ve dikdörtgenin çevre uzunluklarını ölçmeleri sağlanır. Bu süreçte öğrencilerin üçgen, kare ve dikdörtgenin kenar uzunluklarının toplamının çevre uzunluğuna eşit olduğunu fark etmeleri beklenir. Örneğin öğrencinin geometrik şekillerin etkileşimli ortamda çizilebileceğini fark etmesi ve öğrencilere bu şekillerin çevre uzunluklarının hesaplanmasına yönelik uygulamalar yapılır. Öğrenciler, matematiksel araç ve teknolojilerden yararlanarak geometrik şekilleri çizebilmeleri için hazırlanan açık uçlu sorular ve kontrol listesi ile değerlendirilebilir.",
+    "MAT.4.3.4 Öğrencilerden boş bir zeminin (dikdörtgen ve kare gibi) kare, dikdörtgen ve üçgen gibi geometrik şekillerden birisinin sürekli ve boşluk bırakmayacak şekilde kaplanması istenir. Öğrencilerden zeminin geometrik şekil cinsinden kaplanan miktarı hakkında yorum yapması beklenir. Bu kaplanan zeminin alan olduğu, kullanılan şekillerin de alanın birimi olduğunun fark edilmesi sağlanır. Bu süreçte öğrencilerin de sürece dâhil olabileceği ölçüme ve tahmine dayalı çeşitli etkinlikler yapılır. Örneğin öğrencilerden bir bahçe tasarlamaları istenir. Düzenli veya düzensiz şekle sahip bu bahçenin alanını belirledikleri uygun bir şekille kaplayarak bahçenin kaç şekil ile kaplandığını bulmaları sağlanır ( SDB1.1 , SDB1.2 ) . Alan ölçme çalışmaları kareli kâğıda çizilen şekillerle tekrar edilmesi sağlanarak öğrencilerin süreçte öğrenmiş olduklarını pekiştirmeleri sağlanır. Örneğin kareli kâğıda çizilen geometrik şekillerin alanı hesaplanırken renkli kalemler kullanılır ve her birim kare renkli kalemle taranır. Taranan birim kareler birlikte sayılır ve kaç birim kare olduğunun yazılması istenir. Her bir kenarının uzunluğu bir birim olan kareye birim kare denildiğine göre, bu süreçte farklı büyüklüklerde birim karelere yer verilir. Geometrik cisimlerin açınımlarının yapılandırılmasına, geometrik şekillerin köşe ve kenar özelliklerinin yorumlanmasına, matematiksel araç ve teknolojiden yararlanılmasına ve şekillerin alanlarını standart olmayan ölçü birimleri cinsinden tahmin edilmesine yönelik performans görevi verilebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.12"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/301"
+}

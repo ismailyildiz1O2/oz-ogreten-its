@@ -1,0 +1,88 @@
+{
+  "unitId": 30,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "1. ÜNİTE: FELSEFENİN DOĞASI",
+  "hours": "10",
+  "description": "Bu ünitede öğrencilerin felsefenin anlamını, gelişim sürecini, özelliklerini, farklı alanlarla ilişkisini ve işlevini sorgulaması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.1.1",
+      "title": "Felsefenin anlamını, gelişim sürecini ve işlevini sorgulayabilme",
+      "processComponents": [
+        "a) Felsefenin anlamını merak eder ve felsefenin ortak tanımının imkânına yönelik şüphe duyar.",
+        "b) Felsefi düşüncenin genel özellikleri, ortaya çıkışı ve tarihsel gelişimi üzerine derinlemesine düşünür.",
+        "c) Felsefi soruların temel özelliklerini ifade ederek felsefi soru sorar.",
+        "ç) Felsefenin bilim, din ve sanat alanlarıyla ilişkisine eleştirel yaklaşır.",
+        "d) Felsefenin bireysel ve toplumsal işlevlerini tartışır."
+      ]
+    }
+  ],
+  "keyConcepts": "bilgelik, felsefe, filozof, refleksiyon, sorgulama",
+  "support": [
+    "Felsefenin anlamını, temel kavram ve özelliklerini pekiştirmeye yönelik görsel, işitsel uyaranların ağırlıkta olduğu öğretim materyalleri kullanılabilir. Felsefi soruların ayırt edilmesine ilişkin içeriği anlamayı kolaylaştıran yöntem ve öğretim materyalleri kullanılabilir. Günlük hayatla ilişkisinin daha görünür olduğu, yapılandırılmış örnek durum ve olaylardan yararlanılabilir. Felsefenin diğer alanlarla ilişkisine, bireysel ve toplumsal işlevlerine yönelik öğrenme-öğretme uygulamalarında dijital materyaller kullanılabilir. Dünyada öne çıkan felsefe geleneklerinin kavranması için dijital materyaller kullanılabilir."
+  ],
+  "enrichment": [
+    "\"Felsefe üzerine felsefe yapılabilir mi?\" sorusu üzerine görüş geliştirilebilir. Âşık Veysel ve Neşet Ertaş'ın eserlerindeki felsefi temalar incelenerek felsefenin sanat ve kültürle ilişkisi kurulabilir. * Farklı medeniyetlerde felsefeye katkısı olan kadın düşünür ve filozoflar hakkında bir sunu hazırlanabilir. Felsefenin ortaya çıkışı temalı kısa film senaryosu yazdırılıp eğitim videosu hazırlatılabilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktısı; çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir. Performans görevi: Öğrenciler, \"Felsefe nedir? Filozof kime denir? Bildiğiniz filozoflar kimlerdir? Felsefe ne işe yarar? Felsefe nasıl yapılır?\" soruları hakkında röportaj yapmaları ve okul genel ağ sayfasında yayımlamaları istenebilir. Performans görevi röportajın uygun yapılması, düzenlemede konu birliği ve akışın gözetilmesi ile yayınlamanın gerçekleştirilmesi gibi ölçütlerinden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.1.1",
+    "Öğrencilerin felsefenin anlamını merak etmeleri ve felsefenin ortak tanımının imkânına yönelik şüphe duymaları amaçlanır. Bunun için;",
+    "• Öğrencilerden iş birlikli olarak günlük hayatta felsefenin nasıl tanımlandığını ifade etmeleri istenir ( E1.1 ). Bu tanımların doğruluğu üzerine öğrencilerin tartışmaları sağlanır ( KB2.18 ). Tartışmada öğrencilerden felsefenin anlamına yönelik ön yargıları fark etmeleri, felsefeye yönelik duygu ve düşüncelerini açıkça ifade etmeleri beklenir ( D6.2 ).",
+    "• Öğrencilere felsefenin terim anlamı ve ilişkili olduğu kavramlar (sevgi, arayış, hakikat, bilgi, erdem, bilinç ve düşünme) hakkında bilgi görseli verilir. Felsefenin hangi kavramlarla nasıl ilişkili olduğunu öğrencilerin kendi cümleleriyle ifade etmesi sağlanır ( OB1 ).",
+    "• Yapılandırılmış metinler üzerinden farklı filozofların felsefe tanımları hakkında bilgi görseli verilerek öğrencilerin iş birlikli olarak \"Filozofların felsefe tanımları neden farklılık içeriyor? Felsefenin farklı tanımlarının olması sizde ne uyandırdı? Bu tanımlar felsefeyi yeterince açıklıyor mu? Bu tanımların benzer yanları nelerdir? Felsefenin ortak bir tanımı yapılabilir mi?\" gibi yönlendirici sorular kullanılarak felsefenin ortak bir tanımının imkanına yönelik şüphe duymaları sağlanır ( E3.9 , SDB2.2 ). Süreçte öğrenciler birbirlerine destek olarak etkili iletişim kurmaları gerçekleştirilir ( D4.2 ). Öğrencilerden felsefenin anlamını ifade etmede peşin hükümden kaçınmanın ve şüpheyi araç olarak kullanmanın önemini belirtmeleri istenir.",
+    "Öğrencilerin felsefi düşüncenin genel özellikleri, ortaya çıkışı ve tarihsel gelişimi ile dünya felsefe gelenekleri üzerine derinlemesine düşünmesi amaçlanır. Bunun için;",
+    "• Öğrencilere aynı olay veya durum karşısında farklı düşüncelerin olabileceğini yansıtan bir karikatür verilerek öğrencilerden bu karikatürde geçen düşünme biçimleri hakkında fikir üretmeleri istenir ( OB4 ).",
+    "• Felsefi düşüncenin temel özelliklerine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada felsefi düşüncenin genel özellikleri (hayret etme, merak etme, şüphe duyma, sorgulama, yığılımlı ilerleme; rasyonel, tutarlı, refleksif, eleştirel, sistemli ve evrensel olma) hakkında bilgi görseli verilerek öğrencilerin bu özelliklerin birbirleriyle ilişkisi hakkında çıkarım yapması sağlanır ( KB2.10 ). Ardından öğrencilere farklı durumlar sunularak felsefi düşüncenin teorik ve pratik sonuçlarını analiz etmeleri; bu sonuçları kendi düşünce tarzlarıyla açık fikirlilikle karşılaştırarak değerlendirdikleri bir yansıtma yazısı yazmaları sağlanır ( E3.5 , 0B1 , KB2.7 ). Öğrencilerden, felsefi düşüncede karşılaştıkları unsurlar doğrultusunda kendi düşünce tarzlarında meydana gelen değişimleri tartışmaları istenir ( KB2.18 ). Tartışma sürecinde, düşüncelerin gerektiğinde değiştirilebilmesinde felsefi düşüncenin önemini değerlendirmeleri beklenir ( E3.10 ).",
+    "• Felsefi düşüncenin ortaya çıkışı ve tarihsel gelişimine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada felsefenin ortaya çıkışını ve tarihsel gelişimini açıklayan bir bilgi görseli verilerek öğrencilerin konuyu incelemeleri; kültürel, ekonomik, siyasal ve bilimsel koşulların felsefenin ortaya çıkışı ve tarihsel gelişimi üzerindeki etkilerini iş birlikli ve açık fikirlilikle analiz etmeleri sağlanır ( SDB2.2 ). Bu aşamada dört köşe öğretim tekniği kullanılabilir ve farklı görüşlerin karşılaştırılması ile gerekçelendirilmesi teşvik edilir. Öğrencilerin felsefenin doğuşu ve gelişiminin tek bir nedene bağlanıp bağlanamayacağı hakkında görüşlerini ifade etmeleri sağlanır. Farklı felsefe geleneklerinin (Hint, Çin, Türk-İslam, Antik Yunan, Fransız, Alman, Anglosakson ve Amerikan) adlarına yer verilerek felsefi düşüncenin tek bir kültüre, coğrafyaya ya da herhangi bir düşünme biçimine indirgenemeyeceği; farklı tarihsel ve kültürel bağlamlarda farklı felsefi soruların, kavramların ve bakış açılarının ortaya çıkabildiği vurgulanır ( OB5 ). Bu aşamada soru-cevap öğretim tekniği kullanılabilir. Çalışmanın sonunda öğrencilerin yansıtma yazısı aracılığıyla süreçteki düşüncelerini gözden geçirmeleri ve düşünsel değişimlerini gerekçelendirerek ifade etmeleri sağlanır ( E3.10 , OB1 ).",
+    "Öğrencilerin felsefi soruların temel özelliklerini ifade ederek felsefi soru sormaları amaçlanır. Bunun için;",
+    "• Felsefi soru örneklerinin de yer aldığı farklı türden sorular karışık biçimde öğrencilere sunulur. Öğrencilerden bu soruları felsefi olup olmamalarına göre sınıflandırmaları ve her bir sınıflandırma için gerekçelerini açıklamaları istenir ( KB2.5 ). Öğrencilere felsefi sorunun genel özelliklerini gösteren bilgi görseli sunulur. Öğrencilerin ilk değerlendirmelerini yeniden gözden geçirmeleri, gerekçelerini güçlendirerek sınıflandırmalarını gözden geçirmeleri sağlanır ( E3.1 , SDB1.2 ). • Günlük yaşamdan ya da felsefe tarihinden seçilen düşündürücü olay, durum, ikilem veya alıntı metinler üzerinden öğrencilerden özgün felsefi sorular üretmeleri istenir ( E3.3 , SDB2.2 ). Yönlendirici sorular aracılığıyla öğrencilerin ürettikleri soruları bütüncül biçimde değerlendirmeleri ve sorularını yeniden düzenleyerek sınıf ortamında paylaşmaları sağlanır ( SDB1.2 ). Bu aşamada refleksif sorgulama kartları hazırlanabilir. Sokratik tartışma yöntemini kullanarak öğrencilerden paylaşılan soruları iş birlikli olarak sınamaları ve geliştirmeleri istenir ( E3.8 ). Süreçte öğrencilerin oluşturdukları felsefi soruları yığılımlı bir biçimde yapılandırarak daha nitelikli hâle getirmeleri sağlanır ( KB2.13 ).",
+    "Öğrencilerin felsefenin bilim, din ve sanat alanlarıyla ilişkisine eleştirel bir bakış geliştirmeleri amaçlanır. Bunun için;",
+    "• Yönlendirici sorular yöneltilerek öğrencilerden iş birlikli olarak felsefenin bilim, din ve sanatla benzer ve farklı yönlerine ilişkin görüşlerini sınıfta paylaşmaları istenir ( SDB2.2 , KB2.7 ). Felsefenin bilim, din ve sanat alanlarıyla ilişkisini gösteren bilgi görseli sunularak öğrencilerin paylaşılan görüşlerin güçlü ve zayıf yönlerini tespit etmeleri sağlanır. Bu aşamada öğrencilere görüşlerini yeniden gözden geçirme ve düzenleme fırsatı verilir ( E3.2 , SDB1.2 ). Sürecin sonunda öğrencilerden felsefenin bilim, din ve sanatla olan ilişkisini amaç, yöntem ve konu ölçütleri gibi boyutlar üzerinden irdelemeleri ve değerlendirmeleri istenir ( E3.1 ) Değerlendirmede karşılaştırma tablosu öğretim tekniği kullanılabilir.",
+    "Öğrencilerin felsefenin bireysel ve toplumsal işlevlerini tartışmaları amaçlanır. Bunun için;",
+    "• Öğrencilerden felsefenin işlevlerine ilişkin görüşlerini yansıtan bir liste oluşturmaları istenir. Öğrencilerin, görüşlerin tutarlılığını tartışarak onları kabul etmeleri veya reddetmeleri sağlanır ( E3.7 , KB2.18 , KB3.3 ). Tartışma sonrasında öğrencilerden felsefenin işlevlerini bireysel ve toplumsal açıdan sınıflamaları istenir. Öğrencilere kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "Öğrencilere performans görevi olarak \"Felsefe nedir? Filozof kime denir? Bildiğiniz filozoflar kimlerdir? Felsefe ne işe yarar? Felsefe nasıl yapılır?\" gibi soruları hakkında farklı yaş ve meslek gruplarını temsil eden kişilerle empati kurup onlara nezaketli davranarak röportaj yapmaları, yaptıkları röportajları özverili bir biçimde dijital veya yazılı olarak düzenlemeleri ve okul genel ağ sayfasında yayımlamaları istenebilir ( D3.2 , D14.1 , D16.3 , OB2). Performans görevi; röportajın uygun yapılması, düzenlemede konu birliği ve akışın gözetilmesi ile yayımlamanın gerçekleştirilmesi gibi ölçütlerinden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D3.2",
+      "D4.2",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.1",
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.5",
+      "E3.7",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.18",
+      "KB2.5",
+      "KB2.7",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/30"
+}

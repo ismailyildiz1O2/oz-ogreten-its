@@ -1,0 +1,61 @@
+{
+  "unitId": 1334,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "1. TEMA: PİYANODA TEMEL KAVRAMLAR 1",
+  "hours": "13",
+  "description": "Temada öğrencilerin çocuk şarkılarını piyanoda sağ el ile çalmaları, nota değerini ve notasyonlarda yer alan müzik yazı ve işaretlerini kavramaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.2.1.1",
+      "title": "Piyanoda nota değerlerini çalabilme",
+      "processComponents": [
+        "a) Piyanoda nota değerlerinin yer aldığı eseri çözümler.",
+        "b) Piyanoda nota değerlerini çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Piyanoda nota değerlerini çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Piyanoda nota değerlerini müzik bileşenlerine uygun çalar."
+      ]
+    },
+    {
+      "code": "PYN.2.1.2",
+      "title": "Notasyonlarda yer alan müzik yazı ve işaretleri çalabilme",
+      "processComponents": [
+        "a) Notasyonlarda yer alan müzik yazı ve işaretlerinin yer aldığı eseri çözümler.",
+        "b) Notasyonlarda yer alan müzik yazı ve işaretleri çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Notasyonlarda yer alan müzik yazı ve işaretleri çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Notasyonlarda yer alan müzik yazı ve işaretlerinin müzik bileşenlerini uygun çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "müzik ögeleri, performans",
+  "support": [
+    "Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir. Eserlerin tempoları öğrenci düzeyine göre düşürülebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Çalınan eserlerin tempoları öğrenci düzeyine göre artırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde gözlem formu, öz değerlendirme formu ve bütüncül dereceli puanlama anahtarı kullanılabilir. Performans görevi kapsamında öğrencilerden üzerinde çeşitli müzik işaretlerinin yer aldığı kısa bir piyano eserini çözümleyerek her işaretin eser içindeki anlamını açıklamaları ve ardından eseri teknik olarak doğru biçimde seslendirmeleri istenebilir. Bütüncül değerlendirme için tüm öğrenme çıktılarından oluşan bir izleme testi uygulanabilir."
+  ],
+  "teachingApplications": [
+    "PYN.2.1.1",
+    "Öğrencilere birlik, ikilik ve dörtlük nota değerlerini içeren görseller sunum ve oyun kartları ile gösterilir ( OB4 , E2.5 ). Öğrenciden birlik notadan başlayarak ikilik ve dörtlük notaların yer aldığı eseri çözümlemesi istenir. Çözümleme sürecinde öğretmen öğrenciye rehberlik eder. Çözümleme sonunda öğrenci duruş ve tutuş pozisyonu alır. Öğrenciden nota değerlerinin yer aldığı eseri piyanoya özgü teknikle ve müzik bileşenlerine uygun bir şekilde çalması beklenir ( D3.4 ). Performans görevi olarak öğrencilerden içinde birlik, ikilik ve dörtlük nota değerlerinin yer aldığı kısa bir eseri nota çözümlemesi yaparak ve doğru oturuşla piyanoya özgü teknik kullanarak çalmaları istenir. Öğrenciler performans sürecini açıklayan kısa bir video, sesli anlatım eşliğinde performans kaydı veya basit bir performans günlüğü ile belgeleyebilir. Bu görev sayesinde öğrencilerin müziksel işitme, ritim algısı, el-koordinasyonu ve teknik becerileri gözlemlenir. Performans görevi, kontrol listesi ile değerlendirilerek öğrenci portfolyosuna dâhil edilebilir.",
+    "PYN.2.1.2",
+    "Müzikte kullanılan işaretlerin (diyez, bemol, natürel, sus işareti, dolap ve tekrar işareti, eksik ölçü, oktav işareti vb.) olduğu eşleştirme kartları verilerek öğrencilerden müzik işaretlerini kartlar ile eşleştirmeleri istenir ( OB4 , E2.5 ). Öğrencilere başka müzik işaretleri olup olmadığı hakkında görüşmeler yapılır ( OB1 ). Öğrenciden müzik yazı ve işaretlerinin yer aldığı eseri çözümlemesi beklenir. Eser çözümleme sürecinde öğretmen öğrenciye rehberlik eder. Öğrenci çalacağı eser için duruş ve tutuş pozisyonu alır. Öğrenciden çalacağı eser ile ilgili piyanoya özgü teknikleri kullanması ve müzik bileşenlerine uygun çalması beklenir ( OB9 ). Çalışma, analitik veya bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi kapsamında öğrencilerden üzerinde çeşitli müzik işaretlerinin yer aldığı kısa bir piyano eserini çözümleyerek her işaretin eser içindeki anlamını açıklamaları ve ardından eseri teknik olarak doğru biçimde seslendirmeleri istenir. Performans görevi dereceli puanlama anahtarı kullanılarak değerlendirilebilir ve performans çalışması öğrenci portfolyosuna eklenir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB9"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1334"
+}

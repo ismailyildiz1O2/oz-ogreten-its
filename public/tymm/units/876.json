@@ -1,0 +1,69 @@
+{
+  "unitId": 876,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Spor Okulları - Beden Eğitimi ve Sporun Temelleri Dersi",
+  "title": "1. ÜNİTE: İNSAN VÜCUDUNUN TEMEL ANATOMİSİ",
+  "hours": "20",
+  "description": "Bu ünitede öğrencilerin insan vücudunun temel anatomik yapıları ile egzersizin vücut üzerindeki etkileri hakkında bilgi edinmeleri ve bu bilgileri değerlendirmeleri amaçlanmaktadır. Öğrenciler, anatomik yapıları tanıyıp bilgi toplarken aynı zamanda çıkarım yapma ve değerlendirme becerilerini geliştirme fırsatı bulurlar. Ayrıca egzersizin vücut sistemlerine etkilerini anlamaları, bu etkileri karşılaştırmaları ve yorumlamaları hedeflenmektedir. Bu süreçte öğrencilerin spor, egzersiz ve insan vücudu arasındaki ilişkiye dair farkındalık kazanmaları; bilimsel düşünme becerilerini geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEST.6.1.1",
+      "title": "İnsan vücudunun temel anatomik yapılarını sorgulayabilme",
+      "processComponents": [
+        "a) İnsan vücudunun temel anatomik yapılarını tanımlar.",
+        "b) İnsan vücudunun temel anatomik yapıları hakkında sorular sorar.",
+        "c) İnsan vücudunun temel anatomik yapıları hakkında bilgi toplar.",
+        "ç) İnsan vücudunun temel anatomik yapıları hakkında toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) İnsan vücudunun temel anatomik yapıları hakkında toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BEST.6.1.2",
+      "title": "Egzersizin insan vücudu üzerine olan etkilerini sorgulayabilme",
+      "processComponents": [
+        "a) Egzersizin vücudun sistemleri üzerine olan etkileri hakkında mevcut bilgisi dâhilinde varsayımda bulunur.",
+        "b) Egzersizin vücudun sistemleri üzerine olan etkileri hakkında örüntüleri listeler.",
+        "c) Egzersizin vücudun sistemleri üzerine olan etkilerini karşılaştırır.",
+        "ç) Egzersizin vücudun sistemleri üzerine olan etkileri hakkında önerme sunar.",
+        "d) Egzersizin vücudun sistemleri üzerine olan etkilerini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Egzersiz, organizma, temel anatomik yapılar, vücut sistemleri",
+  "support": [
+    "Vücudun sistemlerine ilişkin inceleme yapabilmeleri için öğrencilere dijital kaynaklardan videolar veya animasyonlar izletilebilir. Vücudun sistemlerine ait yapı ve organlara yönelik eşleştirme kartlarıyla oyun oynayarak pekiştirmeleri sağlanabilir. Vücut sistemleri ile ilgili üç boyutlu modeller gösterilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin farklı egzersiz türlerinin (örneğin aerobik, anaerobik, direnç antrenmanı, yoga vb.) organizma üzerindeki etkilerini incelemek için ders ortamında küçük gruplara ayrılarak antrenmanlar yapmaları istenebilir. Öğrencilerden farklı yaş grupları, sağlık koşulları ve spor branşlarına yönelik özelleştirilmiş egzersiz programları oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; performans, açık uçlu, kısa cevaplı ve çoktan seçmeli sorularla değerlendirilebilir. Performans görevi olarak sınıf; solunum sistemi, dolaşım sistemi, sinir sistemi, enerji sistemleri ve endokrin sistem gibi gruplara ayrılabilir. Her öğrenciden ait olduğu grubun vücut sistemine uygun maket, poster, resim veya pano gibi performans çalışmaları hazırlamaları ve bunları sınıf ortamında sunmaları istenebilir. Sunumlar dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEST.6.1.1. İnsan vücudunun temel anatomik yapılarını anlatmak amacıyla önceden hazırlanan materyaller (insan iskeleti, maket, poster, görseller, video sunum vb.) sınıfa getirilir. Bu sayede öğrencilerin derse olan merakı ve ilgisi artırılır ( E1.1 , OB4 ).Öğrencilerden bu materyalleri kullanarak temel anatomik yapıları tanımlamaları istenir. Tanımlama yapıldıktan sonra insan vücudunun temel anatomik yapıları hakkında sorular sorulur. Elde edilen cevaplar doğrultusunda öğrencilerden geçerli bilgi toplama araçlarından (kitap, internet vb.) faydalanarak insan vücudunun temel anatomik yapıları hakkında bilgi toplamaları istenir ( OB1 , OB2 ). Toplanan bilgiler öğretmen rehberliğinde soru turu, soru-cevap vb. teknikler kullanılarak konunun derinlemesine incelenmesi sağlanır. Bu süreçte çoktan seçmeli, açık uçlu, eşleştirme ve kısa cevaplı testlerle bilgilerin doğruluğu değerlendirilir. Sınıf; öğretmen tarafından solunum sistemi, dolaşım sistemi, sinir sistemi, enerji sistemleri ve endokrin sistem gibi gruplara ayrılır. Performans görevi olarak öğrencilerden ait olduğu grubun vücut sistemine uygun maket, poster, resim veya pano gibi çalışmalar hazırlamaları ve bunları sınıf ortamında sunmaları istenir ( D16.3 , E2.2 , SDB2.2 ). Böylece insan vücudunun temel anatomik yapıları hakkında toplanan bilgiler üzerinden çıkarımlar yapılır. Sunumlar dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BEST.6.1.2. Öğrencilerin spor ortamlarındaki kendi deneyimlerinden yola çıkarak egzersizin insan vücudu üzerindeki etkilerine dair varsayım yapmaları sağlanır. Farklı şiddet, süre ve türdeki egzersizlerin vücut üzerindeki etkileri bilimsel veriler ışığında analiz edilir. Böylece egzersiz esnasında ve sonrasında vücudun sistemlerine etkileri hakkında örüntüler listelenir. Egzersiz yapan ve yapmayan bireyleri temsil eden yazılı, görsel, dijital materyaller kullanılarak öğrencilere açıklanır ( OB2 , OB4 ). Verilen bilgiler doğrultusunda egzersiz yapan ve yapmayan bireyleri karşılaştırmaları istenir. Egzersiz türlerinin bireylerin yaşına, fiziksel durumuna ve sağlık geçmişine göre nasıl düzenlenebileceği tartışılarak egzersizin vücudun sistemleri üzerine olan etkileri hakkında önerme sunulur. Örneğin dayanıklılığı artırmak için aerobik egzersizlerinin, kas gücünü geliştirmek için direnç antrenmanlarının, esnekliği artırmak için ise düzenli germe hareketlerinin önemine dikkat çekilir. Öğrencilerden bireylerin farklı yaşam tarzlarını, fiziksel aktivitelerini göz önünde bulundurarak egzersizin organizma üzerindeki kısa ve uzun vadeli etkilerini tartışmaları istenebilir ( KB2.18 , SDB2.1 ). Düzenli egzersizin kalp ve damar sağlığı, solunum kapasitesi, kas ve iskelet dayanıklılığı ve sinir sistemi üzerindeki olumlu etkileri bilimsel verilerle desteklenerek incelenir. Ayrıca egzersiz eksikliğinin obezite, kas kaybı, dolaşım ve psikolojik bozukluklara yol açabileceği vurgulanarak öğrencilerden egzersizin vücut sistemleri üzerindeki etkilerini değerlendirmeleri istenir. Bu süreçte çoktan seçmeli, açık uçlu, eşleştirme ve kısa cevaplı testlerle ölçme değerlendirme yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/876"
+}

@@ -1,0 +1,59 @@
+{
+  "unitId": 1420,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyolonsel Modülü",
+  "title": "1. TEMA YAYIN BÖLÜMLERİ",
+  "hours": "14",
+  "description": "Temada öğrencilerin yayın farklı bölümlerini kullanarak etüt çalabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VLS.4.1.1",
+      "title": "Yayın farklı bölümlerini kullanarak etüt çalabilme",
+      "processComponents": [
+        "a) Yayın farklı bölümlerini kullanacağı etüdü çözümler.",
+        "b) Yayın farklı bölümlerini kullanmak için duruş ve tutuş pozisyonunu alır.",
+        "c) Yayın uç, orta ve dip bölümlerini çalgıya özgü teknikle kullanır.",
+        "ç) Yayın farklı bölgelerini kullanarak etüt çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "viyolonsel, yay",
+  "support": [
+    "Teknik becerilerde öğrenciler için yayın farklı bölümlerinin kullanımına odaklanan yavaşlatılmış uygulamalar ve temel hareketler üzerinde bire bir çalışmalar yapılabilir. Yayın uç, orta ve dip bölümlerinin çalgı üzerindeki etkisini kavrayabilmeleri için her bir bölüm ayrıntılı şekilde uygulamalı olarak gösterilebilir. Görsel destekli materyaller ve şemalar kullanılarak yayın farklı bölümlerinin çalım üzerindeki etkileri hakkında öğrencilerin farkındalık kazanmaları sağlanabilir. Daha yavaş bir metronom eşliğinde, her bölümü bilinçli şekilde kullanmaya yönelik kolay etüt çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin viyolonselde yayın farklı bölümlerini daha derinlemesine keşfetmeleri ve bu konudaki farkındalıklarını artırmaları için çeşitli viyolonsel sanatçılarının yayın farklı bölümlerini bilinçli bir şekilde kullandıkları performans videoları izletilebilir. Ayrıca yayın farklı bölümlerini vurgulayan özel etütler ve kısa eserler seçilerek öğrencilerin bu bölümleri kontrollü şekilde kullanmaları sağlanabilir. Daha hızlı bir metronom eşliğinde yapılan çalışmalarla, yayın her bölgesinin farklı bir direnç ve ses karakteri yarattığı deneyimlenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, öz değerlendirme ve akran değerlendirme formları ile ölçülebilir. Performans görevi olarak öğrencilerden, belirlenen eseri yay bölümlerini kullanarak çalmaları istenebilir. Performans görevi; gözlem formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VLS.4.1.1",
+    "Öğretmen, öğrencilere \"Yay kullanımında uç, orta ve dip bölgeleri nasıl farklılık gösterir?\" gibi yönlendirici sorular sorarak öğrencilerin konuya ilişkin ön bilgilerini aktif hâle getirir ( E1.1 ). Öğrenciler, dijital kaynaklar, kitaplar veya görsel materyaller üzerinden araştırma yaparak yay bölümlerini hakkında bilgi toplar ( KB2.6 , OB4 , OB2 ). Öğrenciler, öğretmenin rehberliğinde yay bölümlerinin her birini tanıyarak yay tutuşu ve hareketlerinde her bölümü doğru bir şekilde ayırt eder. Uygulamaya geçmeden önce öğrenciler, öğretmenin rehberliğinde etüdün bonasını ve solfejini yaparak yay kullanımına dair temel hareketleri analiz eder ve ilgili bölümleri çözümler. Daha sonra, uygulamaya geçmek için doğru duruş ve tutuş pozisyonunu alır. Öğretmen, her bölümdeki yay çekme tekniğini uygulamalı olarak gösterir ve her bir bölüm için yay tutuşu ve kol hareketi gibi temel teknikleri tanıtır ( OB4 ). Öğrenciler, çalgıya özgü teknikleri doğru kullanarak sırayla yay çekme pratiği yapar ve öğretmenin geri bildirimlerine dayanarak duruş, tutuş ve hareketlerini ayırt eder ve gerektiğinde düzeltir. Çiftler hâlinde veya ayna karşısında çalışan öğrenciler, teknikleri doğru kullanarak hem kendilerinin hem de birbirlerinin yay kullanımını gözlemler ve öz değerlendirme ile akran değerlendirmesi yaparken arkadaşlarının hakkını onların bulunmadığı ortamlarda da savunurlar ( D4.1 , SDB2.1 , SDB2.3 ). Son olarak öğrenciler öğrendikleri bilgileri kullanarak etüdü çalarken müziksel bileşenleri uygular. Performans görevi olarak bir eseri yayın bölümlerine dikkat ederek çalmaları istenebilir. Öğrenciler, yay bölümlerinde çaldıkları etütte hem teknik doğruluğa hem de müzikal ifadeye dikkat eder. Bu süreçte belirli bir planlamayla düzenli, odaklı, gayretli ve istikrarlı bir şekilde ilerlerken görev ve sorumluklarını yerine getirme konusunda kararlı davranır ( D12.3 , E3.7 ). Hedeflerine ulaşmak için etkili bir yol haritası çizer ve çalışmalarında sebat eder ( D3.1 , D3.2 ). Performans görevi, gözlem formu ve analitik dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.1",
+      "D3.2",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1420"
+}

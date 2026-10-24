@@ -1,0 +1,55 @@
+{
+  "unitId": 984,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "1. TEMA: İNSAN SESİ",
+  "hours": "2",
+  "description": "Bu temada ergenlik döneminde seste meydana gelen değişim özelliklerine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.6.1.1",
+      "title": "Ergenlik döneminde seste meydana gelen değişimi açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.6.1.2",
+      "title": "Ergenlik dönemindeki ses sağlığının önemini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "değişim, ergenlik dönemi, ses, ses sağlığı",
+  "support": [
+    "Öğrencilere ergenlik döneminde bedende oluşan fizyolojik değişimin ses üzerindeki etkisinden yola çıkarak somut ve yaratıcı yollarla ifade edecekleri etkinliklere yer verilebilir. Örneğin 1 ve 4. sınıfta seslendirdiği eserlerin ses kayıtları dinletilebilir. Sesinde ne gibi değişikler fark ettiği sorulabilir. Ergenlik döneminde bedende oluşan fizyolojik değişimin ses üzerindeki etkisinden yola çıkarak somut ve yaratıcı yollarla ifade edecekleri sorular sorulabilir. Örneğin \"Bu etki hayvan seslerinde de geçerli midir?\" \"Yavru köpek sesi ile yetişkin köpek sesi arasında nasıl bir fark vardır?\" gibi sorular sorulabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere yetişkin ve çocuk ses kayıtları dinletilebilir. Bu kayıtları karşılaştırarak seslerin neden farklı olduğunu analiz etmeleri istenebilir. Ses tellerinin yapısını, hormonların etkisini ve değişim sürecini içeren bilgi görseli tasarlamaları istenebilir. \"Sesini Koru!\" temalı posterler veya dijital broşürlerin hazırlanarak doğru ses kullanımı kurallarının sınıfta paylaşılması sağlanabilir ."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi, gözlem formu, değerlendirme soruları ve öz değerlendirme formu ile değerlendirilebilir. Öğrencilere ergenlik dönemindeki ses sağlığı ile ilgili açıklayıcı bir görsel materyal hazırlayabilecekleri performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "BSE.6.1.1 Öğrencilere ergenlik döneminde bedende oluşan fizyolojik değişimin ses üzerinde nasıl bir etkisi olduğu sorularak konuya ilişkin merak oluşturulur ( E1.1 ). Duygu ve düşünceler ifade edilirken sözlü etkileşim sağlanabilir ( SDB2.1 ). Böylelikle ergenlik döneminde bedende oluşan fizyolojik değişimlerin ses üzerinde etkili olduğu fark edilebilir ( OB1 ). Öğrenciye konu ile ilgili bir hikâye okutulabilir. Hikâye ile ilgili sorular sorulabilir. Sesin oluşumu ile ilgili deneyler yapılabilir. Böylelikle ses tonundaki değişiklikler düşünülerek zayıf ve güçlü yönlerin fark edilmesi sağlanabilir ( D10.1 ). Önceki bilgilerle (ses tellerinde meydana gelen hareketler, insan sesinin oluşumu, insan sesinin özellikleri gibi) ilişkilendirilerek ( SDB1.1 ) bu değişimlerin sesteki etkileri açıklanabilir ( KB2.3 ). Böylelikle ergenlik döneminde seste meydana gelen değişim açıklanabilir. Süreç, gözlem formu, değerlendirme soruları ve öz değerlendirme formu ile değerlendirilebilir.",
+    "BSE.6.1.2 Öğrencilere sesin kişinin kimliğinin bir parçası olduğu ve korunması gerektiği vurgulanarak merak uyandırılır ( E1.1 ). Sağlıklı bir ses ile bireyin kendini ifade etme gücü artırılır. Şarkı söylerken ses sınırlarına dikkat etmek, doğru nefes teknikleri kullanmak, günlük yaşamda ses seviyesini dengeli kullanmak, bağırmamak, ses ve nefes egzersizleri yapmak, dengeli ve sağlıklı beslenmek ( D13.1 ), zararlı gıdalardan uzak durmak gibi unsurların ergenlik döneminde ses sağlığını korumak için önemli olduğunun fark edilmesine yönelik etkinlikler yapılır. Öğrencilere ergenlik dönemindeki ses sağlığı ile ilgili açıklayıcı görsel materyal hazırlamaya yönelik performans görevi verilir. Böylelikle öğrenciler ergenlik döneminde ses sağlığını korumaya yönelik davranışları açıklayabilir. Süreç, gözlem formu, değerlendirme soruları ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D13.1"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/984"
+}

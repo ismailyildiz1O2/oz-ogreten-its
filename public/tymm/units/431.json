@@ -1,0 +1,90 @@
+{
+  "unitId": 431,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "4. ÜNİTE: IŞIĞIN KIRILMASI VE MERCEKLER",
+  "hours": "14",
+  "description": "Bu ünitede ortam değiştiren ışığın izlediği yolun gözlemlenerek kırılma olayının açıklanması, mercek çeşitlerinin ince ve kalın kenarlı mercek olarak çıkarım yapılması ve merceklerin günlük hayatta kullanım alanlarının örneklerle sınıflandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Işığın Kırılması",
+      "processComponents": []
+    },
+    {
+      "code": "FB.7.4.1.1",
+      "title": "Ortam değiştiren ışığın izlediği yolu gözlemleyerek kırılma olayına yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Işık ışınlarının kırılmasına yönelik nitelikleri tanımlar.",
+        "b) Farklı yoğunluklara sahip ortamlarda ışığın kırılmasına yönelik verileri toplayarak kaydeder.",
+        "c) Az yoğun ortamda ve çok yoğun ortamda ışığın izlediği yolları gerekçeleri ile açıklar. 2. Bölüm: Mercekler"
+      ]
+    },
+    {
+      "code": "FB.7.4.2.1",
+      "title": "Mercek çeşitlerine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Mercek çeşitlerinin niteliklerini deneyerek tanımlar.",
+        "b) Mercek çeşitlerini kullanarak özelliklerine yönelik veri kaydeder.",
+        "c) Mercekleri ince ve kalın kenarlı mercek olarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.7.4.2.2",
+      "title": "Merceklerin günlük hayatta kullanım alanlarını örneklerle sınıflandırabilme",
+      "processComponents": [
+        "a) Merceklerin kullanım alanlarını belirler.",
+        "b) Merceklerin kullanım alanlarını niteliklerine göre ayrıştırır.",
+        "c) Merceklerin kullanım alanlarını gruplandırır.",
+        "ç) Merceklerin kullanım alanlarını niteliklerine göre etiketler."
+      ]
+    }
+  ],
+  "keyConcepts": "gelen ışın, kırılan ışın, gelme açısı, kırılma açısı, kırılma, ince kenarlı mercek, kalın kenarlı mercek, odak noktası",
+  "support": [
+    "Deney ve gözlem şartları uygun olmayan durumlarda video, animasyon vb. dijital içerikler soyut kavramların somutlaştırılmasında kullanılabilir. Öğrencilerin bireysel ilerlemelerine olanak tanıyan animasyon, simülasyon vb. dijital öğrenme araçları kullanılabilir. Günlük yaşamdan kolay, ulaşılabilir çeşitli malzemelerle öğrencilerin ek etkinlikler yapmaları sağlanarak konu pekiştirilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden mercekleri kullanarak teleskop, mikroskop ya da özgün bir gözlem aracı tasarlamaları istenebilir. Görme olayı ve fotoğraf makinesinin çalışma prensibinin benzerliğinden yararlanılarak öğrencilerden karanlık oda modeli oluşturmaları istenebilir. \"Serap olayı\" araştırma görevi olarak verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, görsel tamamlamayı içeren çalışma kâğıdı, yapılandırılmış grid, doğru-yanlış testleri, kısa cevaplı sorular, açık uçlu sorular, eşleştirme testleri ve performans görevi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri, bir ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. Merceklerin günlük hayatta kullanım alanları ile ilgili performans görevi verilebilir. Bu performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.7.4.1.1 Sınıfa getirilen bir bardak su ve kalem ile \"ışığın kırılması\" deneyi yapılır. Öğrencilerden su içerisindeki kalemi gözlemlemeleri ve bu gözlemlerini ifade etmeleri istenir ( OB1 , E1.2 , KB2.2 ) . Gözlemleri sonucunda öğrencilerden ışık ışınlarının kırılmasına yönelik nitelikleri tanımlamaları beklenir. Öğrenciler gruplara ayrılarak az yoğun saydam ortamdan çok yoğun saydam ortama, çok yoğun saydam ortamdan az yoğun saydam ortama geçen ışığın izlediği yolu gözlemleyerek verileri toplaması ve çizerek kaydetmesi beklenir ( OB7 , KB2.2 ) . Topladıkları verilerden yola çıkarak yoğunlukları farklı saydam ortamlarda ışığın izlediği yolu gerekçeleri ile açıklamaları istenir ( SDB1.2 ) . Snell yasası ve matematiksel hesaplamalara girilmeden kırılma kanunları açıklanır. Çok yoğun saydam ortamdan az yoğun saydam ortama gönderilen ışık ışınları için sınır açısı ve tam yansıma olaylarına girilmez. Hava, su veya cam gibi saydam ortamların birinden diğerine dik olarak gönderilen ışığın kırılmaya uğramadığı belirtilir. Öğrencilere günlük yaşamdan karşılaştıkları olaylara ve durumlara ilişkin ışığın kırılmasına yönelik sorular yöneltilerek sınıfta tartışma ortamı oluşturulur ( SDB2.1 ) . Prizmada beyaz ışığın kırılarak renklerine ayrılmasına değinilir. Işığın kırılmasının günlük yaşamdaki kullanım alanlarına yönelik Mirim Çelebi'nin çalışmalarından söz edilerek tartışma kapsamı genişletilir ( OB5 ) . Tartışma süresince öğrencilerin düşünceleri özgürce ifade etmeleri ve kendinden farklı görüşe sahip kişilerin düşüncelerine saygı duymaları sağlanır ( D14.1 ) . Tüm sürece ilişkin değerlendirmede tanılayıcı dallanmış ağaç, görsel tamamlamayı içeren çalışma kâğıdı vb. kullanılabilir.",
+    "FB.7.4.2.1 Yapraktaki yağmur damlalarının altında bulunan damarların daha belirgin olduğu, üzerine su damlamış yazının diğerlerinden daha büyük göründüğü vb. örnekler gösterilir. Günlük hayatta karşılaşılan bu durumlar mercekler göz önüne alınarak sınıf ortamında tartışılması sağlanır ( SDB2.1 ) . Öğrenciler gruplara ayrılır ve grup içinde yardımlaşmaları istenir ( D20.1 , SDB2.2 ) . Her bir gruba ince ve kalın kenarlı mercek verilerek cisimlerin görüntülerini inceleyip merceklerin benzerlik ve farklılıklarını belirlemeleri istenir. Öğrencilerden mercekleri kullanarak çevrelerini gözlemlemeleri ve gözlem sonuçlarını kaydetmeleri istenir ( OB1 , E1.2 ) . Gözlemleri sonucunda öğrencilerden ince ve kalın kenarlı merceklerin niteliklerini tanımlamaları istenir ( KB2.5 ) . Öğrencilerden merceklere ışık ışınları göndererek ışığın izlediği yolu gözlemlemeleri ve gözlem verilerini kaydetmeleri istenir ( OB7 ) . Gözlemleri sonucunda, mercekleri ışığı kırma özelliğine göre ince ve kalın kenarlı mercek olarak değerlendirmeleri sağlanır ( OB7 , KB2.17 ) . Özel ışınlarla görüntü çizimine ve matematiksel bağıntıya girilmeden kırılma olayı açıklanır. Ormana bırakılan cam kırıkları veya içi su dolu pet şişelerin sebep olduğu olumsuz durumlar açıklanarak çevreyi koruma ve değer verme konusunda farkındalık kazandırılır ( D16.2 , SDB2.3 , SDB3.3 ) . Tüm sürece ilişkin değerlendirmede kısa cevaplı sorular, açık uçlu sorular, doğru-yanlış testleri, çalışma kâğıdı vb. kullanılabilir.",
+    "FB.7.4.2.2 Günlük yaşamda kullanılan mercek örnekleri sınıf ortamında getirilebilir. Öğrenciler gruplara ayrılarak merceklerle gözlem yapmaları istenir ( OB1 , OB4 ) . Öğrencilerin merceklerin cisimleri olduğundan büyük ya da küçük gösterme özelliğinden yola çıkarak kullanım alanlarını belirlemeleri sağlanır. Öğrencilerin merceklerin kullanım alanlarını merceklerin niteliklerine göre ayrıştırmaları istenir. İnce kenarlı mercek ve kalın kenarlı mercekleri kullanım alanlarına göre gruplandırmaları sağlanır ( KB2.5 ) . Gruplandırılan mercekleri kullanım alanlarına göre etiketlemeleri beklenir. TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü çatısı altında kurulan Optik Sistemler Araştırma Laboratuvarı'nda yerli uyduların mercek, prizma gibi optik bileşenlerinin Türkiye'de üretildiğinden bahsedilir ( D19.4 ) . Merceklerin kullanım alanları ile ilgili araştırma görevi verilerek öğrencilere sunum yaptırılabilir ( SDB1.2 ) . Öğrenciler süreç içerisinde merceklerle ilgili merak ettikleri soruları sorulur ( E3.8 ) . Verilen performans görevleri çerçevesinde elde ettikleri verileri karşılaştırarak merceklerin kullanım alanlarını etkin bir şekilde açıklamaları beklenebilir ( SDB2.1 ) . Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Tüm sürece ilişkin değerlendirmede eşleştirme testi, tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.2",
+      "D19.4",
+      "D20.1"
+    ],
+    "egilim": [
+      "E1.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.17",
+      "KB2.2",
+      "KB2.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB5",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/431"
+}

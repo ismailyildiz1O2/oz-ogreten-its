@@ -1,0 +1,85 @@
+{
+  "unitId": 81363001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "1. ÜNİTE: EDEBİYAT UYGULAMALARI I - OKUMA",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.1.1.1",
+      "title": "Okuyacağı metni seçer",
+      "processComponents": [
+        "Amaca ve ilgi alanına uygun olarak sanatsal ya da öğretici metinler arasından okunacak metin belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.1.1.2",
+      "title": "Okuma stratejisine karar verir",
+      "processComponents": [
+        "Konuya ve amaca uygun okuma öncesi (göz gezdirme, tahmin etme vb.), okuma esnası (akıcı okuma, sesli-sessiz okuma, not alma vb.), okuma sonrası (özetleme, çözümleme, okuduklarını paylaşma vb.) stratejisine karar verilir."
+      ]
+    },
+    {
+      "code": "EDU.1.1.3",
+      "title": "Okuma öncesi stratejilerini uygular",
+      "processComponents": [
+        "Okumaya başlamadan önce seçilen metnin başlığı, yazarı, tanıtım yazıları, yazı tipi, yazı puntosu, resimleri, görselleri, içindekiler listesi, ön sözü, kaynakçası incelenir.",
+        "Metnin içeriği hakkında görüş oluşturulur."
+      ]
+    },
+    {
+      "code": "EDU.1.1.4",
+      "title": "Okuma esnası stratejilerini uygular",
+      "processComponents": [
+        "Sesli, sessiz, göz atarak, özetleyerek, not alarak, tahmin ederek, işaretleyerek, eleştirel, metinlerle ilişkilendirerek okuma vb. yöntem ve tekniklerden amacına uygun olanı kullanılır.",
+        "Okunan metinde yer alan bilgiler ile ön bilgileri arasında bağlantı kurulur.",
+        "Okuma sırasında okuduklarındaki açık verilerden, ön bilgilerden ve görsellerden hareketle bilgiye/olaya ve söz varlığına yönelik tahminde bulunulur."
+      ]
+    },
+    {
+      "code": "EDU.1.1.5",
+      "title": "Okuma stratejisi doğrultusunda sesli okuma yaparken vurgu, tonlama ve telaffuza dikkat eder",
+      "processComponents": []
+    },
+    {
+      "code": "EDU.1.1.6",
+      "title": "Metinden hareketle çıkarımlarda bulunur",
+      "processComponents": [
+        "Metinde yer alan amaç, sebep, karşılaştırma, örnek, benzetme, örtük bilgi gibi verilerden yararlanılarak ilgi alanı ve amaç doğrultusunda çıkarımlarda bulunulur."
+      ]
+    },
+    {
+      "code": "EDU.1.1.7",
+      "title": "Metni sınıflar",
+      "processComponents": [
+        "Metindeki olay, durum, olgu, nesne vb. unsurları; tür, nitelik, öncelik-sonralık, sebep-sonuç, benzerlik-farklılık, büyüklük-küçüklük vb. özelliklere göre sınıflandırır."
+      ]
+    },
+    {
+      "code": "EDU.1.1.8",
+      "title": "Okuduğu metne yönelik çözümleme yapar",
+      "processComponents": [
+        "Sanatsal ya da öğretici bir metinde tercih edilen anlatım türleri belirlenir.",
+        "Sanatsal ya da öğretici bir metinde düzen, tutarlılık ve olay unsurları ile düşünceyi geliştirme yolları belirlenir.",
+        "Sanatsal ya da öğretici bir metinde içerik, görsel ve noktalama işaretleri arasındaki etkileşimler belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.1.1.9",
+      "title": "Okuduğu metne yönelik değerlendirme yapar",
+      "processComponents": [
+        "Bir okuma metninin içeriğine, türüne, dil ve anlatımına ilişkin eleştirel ve gerekçelendirilmiş görüş bildirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

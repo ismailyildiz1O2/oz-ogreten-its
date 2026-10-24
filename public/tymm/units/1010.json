@@ -1,0 +1,87 @@
+{
+  "unitId": 1010,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları - Müzik Kültürü Dersi",
+  "title": "3. TEMA: ÜLKEMİZİN MÜZİK KÜLTÜRÜNÜ TANIYORUM",
+  "hours": "11",
+  "description": "Temada öğrencilerin müzik kültürümüzün genel özelliklerini açıklayabilmeleri, müzik kültürümüzün çeşitliliğini ve zenginliğini fark etmeleri, müzik kültürümüze özgü çalgıları tanıyabilmeleri ve müziğimizin doğa ile bağını yorumlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MK.3.3.1",
+      "title": "Müzik kültürümüzün genel özelliklerini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.3.3.2",
+      "title": "Müzik kültürümüzdeki çeşitliliği ve zenginliği fark edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.3.3.3",
+      "title": "Müzik kültürümüze özgü çalgıları tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.3.3.4",
+      "title": "Müzik kültürümüzün doğa ile bağını yorumlayabilme",
+      "processComponents": [
+        "a) Müzik kültürümüzdeki doğal unsurları inceler.",
+        "b) Bildiği türkülerdeki doğal unsurlara örnek verir.",
+        "c) Müzik kültürümüzün doğa ile bağını kendi cümleleriyle ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "çalgı, çok seslilik, doğa, tek seslilik",
+  "support": [
+    "Öğrencilerden dinledikleri müzik türlerinden birini seçerek onunla ilgili bir poster tasarlamaları istenebilir. Posterde müzik türünün adı, hangi bölgeden geldiği, hangi çalgıların kullanıldığı ve hangi etkinliklerde bu müziğin çalındığı gibi bilgilerin yer alması istenebilir. Öğrencilerden yerel çalgılardan üç tanesini seçerek bu çalgıların resimlerini çizmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden ülkemiz müzik kültüründeki yerel çalgıların çeşitliliğinin müziğin zenginliği ile ilişkisine dair düşüncelerini yazılı olarak ifade etmeleri istenebilir. Öğrencilerden Türkiye fiziki haritasını veri alarak ülkemizdeki en yaygın yer şeklinin ne olduğuna dair çıkarım yapmaları ve bu yer şeklinin adının geçtiği üç türkü tespit edip sınıfa sunmaları istenebilir. Öğrencilerden Türkiye haritası üzerine bölgelere göre en fazla kullanılan çalgı ve halk oyunu görsellerinin yapıştırılarak müzik kültürü haritası oluşturmaları istenebilir (Karadeniz yörelerine kemençe, horon görselleri ve uygun kıyafetler vb. yapıştırılabilir.)."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, gözlem formu, kontrol listesi, doğru-yanlış soruları ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca öğretmenler, öğrenme çıktıları ve içerik çerçevesi doğrultusunda mevcut ölçme araçlarını uyarlayabilir ya da gerektiğinde farklı araçlar geliştirerek süreci zenginleştirebilir. Öğrencilere, dinledikleri bir Türk halk müziği eserini temsil eden bir afiş tasarlama veya bu eserin ait olduğu yöreye özgü bir çalgının (kartondan bağlama) modelini yapma konulu bir performans görevi verilir. Performans görevleri, dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MK.3.3.1",
+    "Öğrencilere örnek niteliğinde çalgısal, çok sesli bir Batı müziği eseri dinletilir. Öğrenciler gruplara ayrılır ve dinledikleri eserin bildikleri Türk halk müziği ve Türk sanat müziği eserleriyle benzerlik ve farklılıklarını venn şeması oluşturarak belirlemeleri istenir ( SDB2.1 , SDB2.2 , E2.2 , E3.2 ). Türk halk müziği eserlerinden bağlamanın kullanıldığı örnek bir eser dinletilir, ardından bu eserin piyano ya da gitarla icrası dinletilerek öğrencilerin eserlerdeki armonik değişimi fark etmesi sağlanır ( SAB9 ). Türk müziği eserlerinin tek bir melodik çizgiye sahip olduğunu, Türk müziğinin geleneksel yapısının tek sesli olduğunu tüm öğrencilerin ifade etmeleri sağlanır. Türk müziğini özel kılan bir diğer noktanın makamsal yapısı olduğu öğretmen tarafından belirtilir. Makam konusunda ayrıntılı bilgi verilmeden makamın eserin derinliğini ve duygusunu belirleyen, eseri zenginleştiren bir unsur olduğu söylenir. Türk sanat müziğinin makamsal olduğu, Türk halk müziğinin de makamsal eserler içerdiği söylenir ve örnek eserler dinletilir. Öğrenciler dinledikleri eserlerdeki duyusal derinliği ve sanatsal inceliği ifade etmeleri yönünde desteklenir ( D7.1 ). Öğrenci çıkarımlarını içerik ve kapsam açısından değerlendirmek için dereceli puanlama anahtarı, etkinliklere katılım ve yaratıcılık düzeylerini izlemek için gözlem formu kullanılabilir.",
+    "MK.3.3.2",
+    "Öğrencilere dijital kaynaklardan yararlanılarak ülkemizin müzik kültürüne ait farklı türden eserler dinletilir. Öğrencilerin dinledikleri eserlerle ilgili duygu ve düşüncelerini ifade etmeleri sağlanır. Öğrencilerden performans görevi olarak ülkemiz müzik kültürüne ait çeşitli eserlerden bir çalma listesi oluşturmaları istenir. Öğrenciler çalma listesine koydukları eserler hakkında kısa bilgiler derlemeleri, bu eserleri seçkilerine neden dâhil ettiklerine dair kısa yazılar yazmaları yönünde teşvik edilir. Öğrencilerden aldıkları görevi zamanında yerine getirmeleri beklenir ( E2.2 , D16.3 ). Performans görevleri içerik doğruluğu, ifade netliği kriterleri dikkate alınarak kontrol listesi ve doğru-yanlış sorularıyla değerlendirilebilir.",
+    "MK.3.3.3",
+    "Öğrencilere Eğitim Bilişim Ağı (EBA) ve başka güvenilir genel ağ adresleri ile çeşitli basılı ve görsel kaynaklardan yerel özellik gösteren çalgıları tanıtıcı, eğitici videolar, bilgilendirici metinler araştırma ve beğendiklerini öğretmenle paylaşma görevi verilir ( E3.2 , E3.4 , OB1 , OB2 , OB4 ). Öğrenciler araştırma sürecinde planlı ve sorgulayıcı olmaları ve görevlerini eksiksiz yapmaları yönünde desteklenir ( D3.2 , D16.3 , E2.2 ). Uygun içerikler sınıfta izletilir, yazılar okunur. Çalgıların bölgeden bölgeye değişerek çeşitlendiğini öğrencilerin fark etmesi sağlanır ve öğrencilere bunun sebeplerinin neler olduğuna dair düşünceleri sorulur. Yerel çalgılardaki çeşitliliğin müzik kültürümüzün zenginliğinin ifadesi olduğu çıkarımını öğrencilerin yapması sağlanır ( KB2.10 , D19.2 , OB5 ). Öğrencilerin gruplara ayrılarak üç telli cura, kabak kemane, Anadolu kamançası, Karadeniz kemençe, klasik kemençe, tırnak kemane, tarhu, kaval, mey, çığırtma, tulum, sipsi, kudüm, kaşık, cümbüş, yaybahar gibi çalgıların resimlerini içeren bilgi kartları hazırlamaları sağlanır ( SDB2.2 ). Hazırlanan kartlar kullanılarak ve çalgılara ait ses kayıtları dinletilerek \"Ben Kimim?\" oyunu oynanır, gruplar arası yarışma düzenlenir ( E2.5 ). Oyun, öğrenciler tarafından etkileşimli tahta, tablet gibi eğitim araçları kullanılarak tekrarlanır ( OB2 ). Ülkemizin müzik kültürüne özgü çalgıların fotoğrafları ile bülten panosu oluşturularak sınıfa asılabilir. Süreç kontrol listesi, doğru-yanlış soruları ve gözlem formu ile değerlendirilebilir.",
+    "MK.3.3.4",
+    "Öğrencilere müzik kültürünün toplumsal kültürün yansıması olduğu yönünde daha önce edindikleri bilgileri hatırlatmaya yönelik açık uçlu sorular sorulur. Müzik ile insan yaşamı arasında güçlü bir bağ olduğu vurgulanır. Öğretmen tarafından türkülerin halkın duygu ve düşüncelerini yansıttığı gibi yaşadığı yere ilişkin ipuçları da verdiği belirtilerek öğrencilere bir keşif oyunu oynayacakları söylenir ve öğrencilerin türkülerimizdeki doğal unsurları incelemesi sağlanır ( E2.5 ). Öğrencilere yeryüzü şekillerinin işlendiği Türkiye fiziki haritası açılır ve içinde \"dağ\" kelimesi geçen türkülerden kısa kesitler dinletilir ( SAB9 ). Bu türkülerin ait olduğu yöreler öğretmen tarafından söylenir ve bu yöreler öğrencilere harita üzerinde buldurulur. Öğrencilerin içinde \"dağ\" kelimesi geçen türkülerin dağlık yörelere ait olduğunu fark etmesi sağlanır. Öğrencilere içinde \"dağ\", \"geyik\", \"yayla\", \"iğde\",\"ayva\", \"dere\", \"kar\" gibi sözcüklerin geçtiği türkülerden kesitler dinletilerek öğrencilerin müzik kültürünün doğa ile bağını kavraması sağlanır. Öğrencilerin bildikleri türkülerdeki doğal unsurlara örnekler vermeleri istenir. Ülkemizin doğal güzelliklerini ve soyut kültür mirası olan türküleri korumaları yönünde öğrenciler desteklenir ( D19.3 ). Müzik kültürünün doğal çevre ile güçlü bir bağı olduğunu öğrencilerin kendi cümleleriyle ifade etmeleri sağlanır. Öğrencilerin etkinliklere katılım ve yaratıcılık düzeylerini izlemek için gözlem formu, öğrenci çıkarımlarının doğruluk ve kapsamını izlemek için kontrol listesi kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D19.2",
+      "D19.3",
+      "D3.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E2.2",
+      "E2.5",
+      "E3.2",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.10"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1010"
+}

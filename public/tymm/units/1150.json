@@ -1,0 +1,45 @@
+{
+  "unitId": 1150,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "1. TEMA: ÇALGININ BAKIMI VE KORUNMASI",
+  "hours": "6",
+  "description": "Temada öğrencilerin gitarın bakımını ve korunmasını nasıl yapacaklarını bilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.2.1.1",
+      "title": ". Gitarın günlük bakımının nasıl yapılacağını açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "bakım, koruma",
+  "support": [
+    "Gitar bakımını ihmal eden bir müzisyenin başına gelebilecek durumları içeren bir karikatür çizmeleri istenir."
+  ],
+  "enrichment": [
+    "Öğrenciler gruplara ayrılır ve gitar bakımıyla ilgili kendi öğretici videolarını çeker. Video içeriğinde gitar temizleme, telleri değiştirme ve saklama ipuçları olabilir. Videolar sınıfta izlenerek geri bildirim verilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kağıtları, analitik dereceli puanlama anahtarı, gözlem formu ve kontrol listesi ile değerlendirilebilir. Performans görevi olarak öğrencilerden çalgının bakımı ve korunmasıyla ilgili poster veya şema hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.2.1.1",
+    "Öğrencilere gitarın tellerinin ve sapının temiz bir bez ile ne şekilde silinmesi gerektiği gösterilir. Bakımsız bir gitardan zamanla nasıl sesler çıkabileceğiyle ilgili sorular sorulup, gitarın temizliğinin ve bakımının nasıl yapıldığını merak etmeleri sağlanır (E1.1 ). Böylece gitarı çaldıktan sonra bakımını zamanında yapmaları gerektiğine dair görev bilincine sahip olmaları sağlanır ( D16.3 ). Öğrencilere kısa cevaplı sorular sorulabilir. Gitarı taşıma şeklinden, saklama koşullarından ve çalım tarzından dolayı oluşabilecek arıza ve hasarlar öğrencilere anlatılarak öğrencilerin olası hasarları nasıl giderebileceklerine dair sorular sormaları ve tahmini sonuçlarda bulunmaları istenir.",
+    "Öğrenciler çıkarımlarda bulunur ve beklentileriyle ilişkilendirirler ( OB7 ). Gitarı koruma yöntemleri anlatılarak öğrencilere önerilerde bulunulabilir ( SDB2.1 ). Enstrümanın uzun süre kullanılması ve sesin ilk günkü gibi kalması için öğrencilerin gitarlarını iyi korumaları istenir ( D16.1 ). Öğrencilerin sahip olduklarının değerini bilmeleri beklenebilir ( D17.3 ). Performans görevi olarak öğrencilerden çalgının bakımı ve korunmasıyla ilgili poster veya şema hazırlamaları istenir. Öğrencilerden çalgının bakımı ve korunmasıyla ilgili poster veya şema hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D16.3",
+      "D17.3"
+    ],
+    "okuryazarlik": [
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1150"
+}

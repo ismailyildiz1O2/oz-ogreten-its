@@ -1,0 +1,74 @@
+{
+  "unitId": 81424042,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "42. ÜNİTE: GİTAR - 1. TEL Mİ VE 2. TEL Sİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.4.1",
+      "title": "Mi telinde mi, fa ve sol notalarını gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.2",
+      "title": "Mi telinde sağ elini doğru konumlandırır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.3",
+      "title": "Mi telinde sol elini doğru konumlandırır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.4",
+      "title": "Fa ve sol notalarının doğru basar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.5",
+      "title": "Si telinde si, do ve re notalarını gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.6",
+      "title": "Si telinde sağ ve sol elini doğru konumlar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.7",
+      "title": "Si telinde si, do ve re notalarının doğru çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.8",
+      "title": "Sağ el tel değişimlerinde karşılaşabileceği sorunların farkında olur",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.9",
+      "title": "Mi ve si tellerinde bulunan notalarla basit tekerlemeler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.10",
+      "title": "Majör ve minör kavramlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.4.11",
+      "title": "Majör ve minör akorların isimlendirmelerini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

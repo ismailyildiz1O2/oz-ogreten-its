@@ -1,0 +1,239 @@
+{
+  "unitId": 98066303,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Türkçe Dersi",
+  "title": "3. ÖĞRENME ALANI: OKUMA",
+  "hours": "83",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.8.3.1",
+      "title": "Noktalama işaretlerine dikkat ederek sesli ve sessiz okur",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.2",
+      "title": "Metni türün özelliklerine uygun biçimde okur",
+      "processComponents": [
+        "Öğrencilerin seviyelerine uygun, edebî değeri olan şiirleri ve kısa yazıları türünün özelliğine göre okumaları ve ezberlemeleri sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.3",
+      "title": "Farklı yazı karakterleri ile yazılmış yazıları okur",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.4",
+      "title": "Okuma stratejilerini kullanır",
+      "processComponents": [
+        "Göz atarak, özetleyerek, not alarak, tartışarak ve eleştirerek okuma gibi yöntem ve teknikleri kullanmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.5",
+      "title": "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder",
+      "processComponents": [
+        "Öğrencilerin tahmin ettikleri kelime ve kelime gruplarını öğrenmek için sözlük, atasözleri ve deyimler sözlüğü vb. araçları kullanmaları sağlanır.",
+        "Öğrencinin öğrendiği kelime ve kelime gruplarından sözlük oluşturması teşvik edilir."
+      ]
+    },
+    {
+      "code": "T.8.3.6",
+      "title": "Deyim, atasözü ve özdeyişlerin metne katkısını belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.7",
+      "title": "Metindeki söz sanatlarını tespit eder",
+      "processComponents": [
+        "Benzetme (teşbih), kişileştirme (teşhis), konuşturma (intak) ve karşıtlık (tezat), abartma (mübalağa) söz sanatlarının belirlenmesi sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.8",
+      "title": "Metindeki anlatım bozukluklarını belirler",
+      "processComponents": [
+        "Dil bilgisi yönünden anlatım bozuklukları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.8.3.9",
+      "title": "Fiilimsilerin cümledeki işlevlerini kavrar",
+      "processComponents": [
+        "Fiilimsilerin türleri fark ettirilir. Ekler ezberletilmez."
+      ]
+    },
+    {
+      "code": "T.8.3.10",
+      "title": "Geçiş ve bağlantı ifadelerinin metnin anlamına olan katkısını değerlendirir",
+      "processComponents": [
+        "Oysaki, başka bir deyişle, özellikle, kısaca, böylece, ilk olarak ve son olarak ifadeleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.8.3.11",
+      "title": "Metindeki anlatım biçimlerini belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.12",
+      "title": "Görsel ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.13",
+      "title": "Okuduklarını özetler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.14",
+      "title": "Metinle ilgili soruları cevaplar",
+      "processComponents": [
+        "Metin içi ve metin dışı anlam ilişkisi kurulur."
+      ]
+    },
+    {
+      "code": "T.8.3.15",
+      "title": "Metinle ilgili sorular sorar",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.16",
+      "title": "Metnin konusunu belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.17",
+      "title": "Metnin ana fikrini/ana duygusunu belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.18",
+      "title": "Metindeki yardımcı fikirleri belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.19",
+      "title": "Metnin içeriğine uygun başlık/başlıklar belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.20",
+      "title": "Okuduğu metinlerdeki hikâye unsurlarını belirler",
+      "processComponents": [
+        "Olay örgüsü, mekân, zaman, şahıs ve varlık kadrosu, anlatıcı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.8.3.21",
+      "title": "Metnin içeriğini yorumlar",
+      "processComponents": [
+        "Yazarın olaylara bakış açısının tespit edilmesi sağlanır.",
+        "Metindeki öznel ve nesnel yaklaşımların tespit edilmesi sağlanır.",
+        "Metindeki örnek ve ayrıntılara atıf yapılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.22",
+      "title": "Metinde ele alınan sorunlara farklı çözümler üretir",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.23",
+      "title": "Metinler arasında karşılaştırma yapar",
+      "processComponents": [
+        "Aynı metnin çeviri, farklı baskı vb. özellikleri itibarıyla karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.24",
+      "title": "Metindeki gerçek ve kurgusal unsurları ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.25",
+      "title": "Okudukları ile ilgili çıkarımlarda bulunur",
+      "processComponents": [
+        "Neden-sonuç, amaç-sonuç, koşul, karşılaştırma, benzetme, örneklendirme, abartma, nesnel, öznel ve duygu belirten ifadeler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.8.3.26",
+      "title": "Metin türlerini ayırt eder",
+      "processComponents": [
+        "Fıkra (köşe yazısı), makale, deneme, roman, destan türleri üzerinde durulur.",
+        "Metin türlerine ilişkin ayrıntılı bilgi verilmemelidir."
+      ]
+    },
+    {
+      "code": "T.8.3.27",
+      "title": "Görsellerle ilgili soruları cevaplar",
+      "processComponents": [
+        "Çizgi roman ve karikatürleri yorumlayarak görüşlerini bildirmeleri sağlanır.",
+        "Haberi/bilgiyi görsel yorumcuların nasıl ilettikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.8.3.28",
+      "title": "Metinde önemli noktaların vurgulanış biçimlerini kavrar",
+      "processComponents": [
+        "Altını çizmenin, koyu veya italik yazmanın, renklendirmenin, farklı punto veya font kullanmanın işlevi vurgulanır."
+      ]
+    },
+    {
+      "code": "T.8.3.29",
+      "title": "Medya metinlerini analiz eder",
+      "processComponents": [
+        "Medya metinlerinin amaçlarının (kültür aktarma, olay yorumlama, bilgilendirme, eğlendirme, ikna etme) belirlenmesi sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.30",
+      "title": "Bilgi kaynaklarını etkili bir şekilde kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.31",
+      "title": "Bilgi kaynaklarının güvenilirliğini sorgular",
+      "processComponents": [
+        "Blog ve şahsi internet sayfalarındaki bilgilerin güvenilirliği konusunda çalışmalar yapılır.",
+        "Bilimsel çalışmalarda ağırlıklı olarak “edu” ve “gov” uzantılı sitelerin kullanıldığı vurgulanır."
+      ]
+    },
+    {
+      "code": "T.8.3.32",
+      "title": "Grafik, tablo ve çizelgeyle sunulan bilgileri yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.33",
+      "title": "Edebî eserin yazılı metni ile medya sunumunu karşılaştırır",
+      "processComponents": [
+        "Kahramanlar, mekân, zaman ve olay yönünden karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.8.3.34",
+      "title": "Okuduklarında kullanılan düşünceyi geliştirme yollarını belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.8.3.35",
+      "title": "Metindeki iş ve işlem basamaklarını kavrar",
+      "processComponents": [
+        "Kullanım kılavuzları inceletilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

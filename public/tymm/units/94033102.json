@@ -1,0 +1,46 @@
+{
+  "unitId": 94033102,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Trafik Güvenliği Dersi",
+  "title": "2. ÜNİTE: TRAFİKTE İLK YARDIM",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TG.4.2.1",
+      "title": "Taşıtlarda bulunması gereken ilk yardım malzemelerini tanır",
+      "processComponents": []
+    },
+    {
+      "code": "TG.4.2.2",
+      "title": "Trafikte ilk yardım gerektiren durumlarda kimlerden ve nasıl yardım istenmesi gerektiğini açıklar",
+      "processComponents": [
+        "Kaza anında ambulans 112, polis imdat 155, jandarma 156 ve itfaiye 110 gibi numaraların aranması gerektiği ve arandığında verilmesi gereken bilgiler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.2.3",
+      "title": "İlk yardım uygulamalarında doğru müdahalenin önemini tartışır",
+      "processComponents": [
+        "İlk yardım uygulamalarının kimler tarafından ve nasıl yapılması gerektiği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TG.4.2.4",
+      "title": "Hafif yaralanmalarda yapılacak ilk yardım uygulamalarını araştırır",
+      "processComponents": [
+        "Solunum yolunu açık tutma, sıyrık, bere, çürük, ezik vb. hafif yaralanmalarda yapılması gereken ilk yardım uygulamaları üzerinde durulur. İlk yardım uygulamalarında öncelikli amacın hastaya zarar vermemek olduğu belirtilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018120202936103-TRAFIK%20GUVENLIGI%20OGRETIM%20PROGRAMI.pdf"
+}

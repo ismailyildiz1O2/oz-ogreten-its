@@ -1,0 +1,44 @@
+{
+  "unitId": 1604,
+  "grade": 0,
+  "gradeName": "2. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY II · 3. Ünite: Drama Ve Oyun",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.2.3.1",
+      "title": ". Oyun içinde strateji geliştirebilme",
+      "processComponents": [
+        "a) Oyun içinde strateji geliştirmeyi gerektiren durumu belirler.",
+        "b) Oyun içinde belirlediği durumun çözümüne yönelik farklı strateji önerileri sunar.",
+        "c) Oyun içinde belirlediği farklı stratejileri uygular."
+      ]
+    },
+    {
+      "code": "OOED.2.3.2",
+      "title": "Kurallı oyunlar oluşturabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOED.2.3.3",
+      "title": ". Oyunda yer alan rolleri yaşamdaki rollerle yapılandırabilme",
+      "processComponents": [
+        "a) Oyunda yer alan rolleri inceleyerek yaşamdaki rollerle ilişkisini ortaya koyar.",
+        "b) Oyunda yer alan rollerden yararlanarak oyun, rol ve yaşam ilişkisine dönük uyumlu bir bütün oluşturur. OOED.2.3.4 . Drama sürecinde adil oyun anlayışına uygun davranabilme",
+        "a) Oyun ve etkinliklerde bireysel farklılıklara ve başkalarının haklarına saygı göstermenin önemini açıklar.",
+        "b) Oyun ve etkinliklerde adil oyun anlayışıyla uyum ve iş birliği içinde hareket eder."
+      ]
+    }
+  ],
+  "keyConcepts": "doğaçlama, etkinlik, kural, oyun, rol, saygı, strateji",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme, BEOSAB8. Adil Oyun Anlayışına Uygun Davranma"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1604"
+}

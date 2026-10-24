@@ -1,0 +1,34 @@
+{
+  "unitId": 81424003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "3. ÜNİTE: PİYANO - PİYANODA TEMEL KAVRAMLAR VE TEKNİKLER I",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.1.3.1",
+      "title": "Etüt ve eserleri staccato (sıtakatto) tekniğine uygun seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.3.2",
+      "title": "Staccato ve legato tekniklerini içeren etüt ve eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.3.3",
+      "title": "Etüt ve eserleri temel hız terimlerine uygun seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

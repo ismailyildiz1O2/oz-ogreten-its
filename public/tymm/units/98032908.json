@@ -1,0 +1,48 @@
+{
+  "unitId": 98032908,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "8. ÖĞRENME ALANI: DÖNÜŞÜM GEOMETRİSİ",
+  "hours": "10",
+  "description": "Terimler veya kavramlar: yansıma, öteleme, görüntü, simetri doğrusu",
+  "outcomes": [
+    {
+      "code": "M.8.3.2.1",
+      "title": "Nokta, doğru parçası ve diğer şekillerin öteleme sonucundaki görüntülerini çizer",
+      "processComponents": [
+        "Kareli veya noktalı kâğıt, koordinat sistemi üzerinde çalışmalar yapılır.",
+        "Dinamik geometri yazılımları ile yapılacak çalışmalara da yer verilebilir.",
+        "Ötelemede şekil üzerindeki her bir noktanın aynı yönde hareket ettiği ve şekil ile görüntüsünün eş olduğu fark ettirilir."
+      ]
+    },
+    {
+      "code": "M.8.3.2.2",
+      "title": "Nokta, doğru parçası ve diğer şekillerin yansıma sonucu oluşan görüntüsünü oluşturur",
+      "processComponents": [
+        "Kareli veya noktalı kâğıt, koordinat sistemi üzerinde çalışmalar yapılır.",
+        "Dinamik geometri yazılımları ile yapılacak çalışmalara da yer verilebilir.",
+        "Yansımada şekil ile görüntüsü üzerinde birbirlerine karşılık gelen noktaların simetri doğrusuna dik ve aralarındaki uzaklıkların eşit olduğu bu nedenle şekil ile görüntüsünün eş olduğu fark ettirilir.",
+        "Simetri doğrularının üzerinde olan şekillerle de çalışmalar yapılır."
+      ]
+    },
+    {
+      "code": "M.8.3.2.3",
+      "title": "Çokgenlerin öteleme ve yansımalar sonucunda ortaya çıkan görüntüsünü oluşturur",
+      "processComponents": [
+        "En çok iki ardışık öteleme veya yansımaya yer verilir.",
+        "Desen, motif ve benzeri görsellerde öteleme veya yansıma dönüşümlerini belirlemeye yönelik çalışmalara yer verilir.",
+        "Geleneksel sanatlarımızdan (çini, seramik, dokuma vb.) örnekler de dikkate alınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Geometri ve Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

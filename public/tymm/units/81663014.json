@@ -1,0 +1,47 @@
+{
+  "unitId": 81663014,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "14. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 3. ÜNİTE: SINIFLAR VE NESNELER",
+  "hours": "9",
+  "description": "Bu ünitede, nesne tabanlı programlamanın temel kavramları olan nesne ve sınıf tanıtılarak öğretilir. Public, private, yapılandırıcı metot kavramları öğretilir. Öğrencinin, sınıftan parametreli ve parametresiz nesne oluşturması beklenir. Öğrenciye Void ve Non-Void Metot çağrımı yaptırılır.",
+  "outcomes": [
+    {
+      "code": "BTY.14.1",
+      "title": "Nesne ve sınıf kavramlarını açıklar",
+      "processComponents": [
+        "Sınıfın nesne oluşturmak için kullanılan şablon olduğu açıklanır.",
+        "Sınıfın yapısını etkileyen public, private kavramları fark ettirilir.",
+        "Yapılandırıcı metot kavramı açıklanır.",
+        "Nesnenin sınıfın bir örneği olduğu açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.14.2",
+      "title": "Sınıftan nesne oluşturur",
+      "processComponents": [
+        "Parametreli yapılandırıcı ile nesne oluşturulur.",
+        "Parametresiz yapılandırıcı ile nesne oluşturulur."
+      ]
+    },
+    {
+      "code": "BTY.14.3",
+      "title": "Void ve Non-Void Metotları çağırır",
+      "processComponents": [
+        "Void metodun ne olduğu tanıtılır.",
+        "Void metot kullanımı yapılır.",
+        "Non-Void Metodun ne olduğu tanıtılır.",
+        "Non-Void Metot kullanımı yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

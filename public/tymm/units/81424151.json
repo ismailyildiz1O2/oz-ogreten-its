@@ -1,0 +1,44 @@
+{
+  "unitId": 81424151,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "151. ÜNİTE: TİYATRO - METİN ÇÖZÜMLEME",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.1.5.1",
+      "title": "Bir tiyatro metninin eleştirisini çözümler",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.5.2",
+      "title": "Dramaturji çalışmalarında olay örgüsünü açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.5.3",
+      "title": "Bir tiyatro metnindeki çatışma türlerini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.5.4",
+      "title": "Bir tiyatro metnindeki oyun kişilerinin karakter özelliklerini betimler",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.5.5",
+      "title": "Bir tiyatro metninde düşünce unsurunu tahmin eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

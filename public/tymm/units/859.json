@@ -1,0 +1,83 @@
+{
+  "unitId": 859,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Spor Okulları - Çocuklarda Atletik Performans Uygulamaları Dersi",
+  "title": "1. ÜNİTE: DENGE VE KAVRAM UYGULAMALARI",
+  "hours": "22",
+  "description": "Bu ünitenin amacı öğrencilerin denge kavramının sportif performans üzerindeki rolünü kavramalarıdır. Öğrencilerin denge türlerini (statik, dinamik, derin duyu, vestibüler ve görsel denge) teorik ve pratik olarak öğrenmelerinin yanında denge düzeylerini testlerle değerlendirerek güçlü ve geliştirmeleri gereken yönlerini belirlemeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "ÇAPU.5.1.1",
+      "title": "Dengenin sportif performans üzerindeki etkileri özetleyebilme",
+      "processComponents": [
+        "a) Dengenin sportif performans üzerindeki etkilerini çözümler.",
+        "b) Dengenin sportif performans üzerindeki etkilerini sınıflandırır.",
+        "c) Dengenin sportif performans üzerindeki etkilerini yorumlar."
+      ]
+    },
+    {
+      "code": "ÇAPU.5.1.2",
+      "title": "Test sonuçlarına dayalı olarak denge düzeyini değerlendirebilme",
+      "processComponents": [
+        "a) Dengeye ilişkin ölçüt belirler.",
+        "b) Denge düzeyini ölçer.",
+        "c) Test sonuçlarını belirlenen ölçütlerle karşılaştırır.",
+        "ç) Karşılaştırmalarına ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "ÇAPU.5.1.3",
+      "title": "Denge egzersizleri ile fiziksel uygunluğunu sağlayabilme",
+      "processComponents": [
+        "a) Denge bileşenlerini açıklar.",
+        "b) Denge bileşeni egzersizlerini uygular.",
+        "c) Denge egzersizleri ile fiziksel uygunluğunu geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "dinamik denge, fiziksel uygunluk, statik denge, vestibüler",
+  "support": [
+    "Öğrencilerin derin duyu/Vestibüler/Görsel denge hareketlerinde zorlandığı aşamaları parçalara bölerek hareketleri temel düzeyde uygulaması sağlanabilir. Denge egzersiz programlarında öğrencilerin düzeyine göre düzenlemeler yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere artırılmış gerçeklik, dijital oyunlar vb. ile denge egzersizleri yaptırılabilir. Denge egzersizlerinden oluşan parkurlar hazırlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem, performans görevi, denge testleri, portfolyo, öz ve akran değerlendirme ve kontrol listesi kullanılarak değerlendirilebilir. Öğrencilere branşa özgü statik ve dinamik denge hareketlerini içeren bir performans görevi verilebilir. Tek ayak üzerinde durma veya denge tahtası gibi testler uygulanarak sonuçlar sınıf ortalaması veya bilimsel normlarla karşılaştırılabilir. Öğrencilerin öz ve akran değerlendirmeleri, dengenin sağlık ve performansa etkilerini açıklayan yazılı veya sözlü yansıtma çalışmaları ve bireysel gelişim hedeflerini içeren gözlem raporları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇAPU.5.1.1. Öğrencilere dengenin sağlık ve spor performansı üzerindeki kritik rolü sorularak öğrencilerin dikkatleri çekilir ( E1.1 ). Dengenin günlük hayatta sakatlanmaları önleme ve spor performansını artırmadaki etkisi ile ilgili örnekler verilir. Bir basketbolcunun ani yön değiştirmesinde veya bir jimnastikçinin performansında hangi denge türlerinin devreye girdiği gibi konular farklı spor branşları da eklenerek tartışılır ( KB2.18 ). Öğrenciler tarafından dengenin sağlık ve performansa katkıları incelenerek bunların farklı durumlara göre faydaları ile ilgili çözümleme yapmaları sağlanır. Öğrencilere dengenin farklı sınıflamaları ve spor branşlarına göre farklı denge egzersizlerinin olduğu ifade edilir. Statik ve dinamik dengeyi içeren hareket örnekleri verilerek bunları deneyimlemeleri sağlanır. Daha sonra spor branşları ya da günlük hayatta meydana gelen hareket veya hareket örüntülerinin hangilerinin statik hangilerinin dinamik dengeye ait oldukları ile ilgili sorular sorulur ( E1.1 ). Verilen cevaplar doğrultusunda öğrencilerden dengenin sağlık ve performans üzerindeki etkilerini ayrı ayrı sınıflandırmaları istenir. Öğrencilerin dengenin sağlık ve performans üzerindeki etkilerini kendi cümleleriyle yorumlamaları sağlanır. Öğrencilerden dengedeki iyileşmelerin vücut kontrolünü nasıl artırdığını, günlük hayat veya spor performansını nasıl etkilediğini yaşanmış örneklerle açıklamaları istenir ( E3.1 ). Öğrencilerin kendi hayatlarından veya ilgilendikleri sporlardan örnekler vererek dengenin sağlık ve performansa katkıları hakkında çıkarımlar yapmaları sağlanır ( SDB3.3 ). Öğrencilerden düzenli denge egzersizlerinin bireylerin gündelik hayatlarına etkilerinin nasıl olacağı konusunu yorumlamaları istenir.",
+    "ÇAPU.5.1.2. Çeşitli denge testleri (tek ayak üzerinde durma, denge tahtası testi gibi) görseller ve videolar yardımıyla gösterilir ( OB4 ). Öğrencilere denge düzeylerini değerlendirebilmek için kullanılacak ölçütler tanıtılır. Uygulama imkânlarına göre bu testlerden biri veya birkaçı seçilir ve yaş grubuna uygun bilimsel normlar ölçüt olarak belirlenir. Öğretmen rehberliğinde öğrencilerin seçilen denge testi protokollerine uygun olarak ölçümler yapmaları sağlanır ( D16.3 ). Testlerin uygulanması sırasında doğru duruş, ısınma ve güvenlik önlemlerine dikkat edilmesi sağlanır. Test sonuçları öğrencilerin bireysel gelişim dosyalarına kaydedilir ( OB1 ). Test sonuçları bilimsel normlar veya sınıfta uygulanan denge test ortalamaları ile karşılaştırılarak öğrencilerin kendi denge seviyelerini değerlendirmesi beklenir. Bilimsel normlar veya sınıf ortalaması ile yapılan karşılaştırma sayesinde öğrencilerin kendi güçlü ve gelişime açık yönlerini tanımlamaları sağlanır ( SDB1.2 ). Öğrenciler tarafından değerlendirme sırasında denge düzeylerinin güçlü ve geliştirilmesi gereken yönleri tartışılır ( SDB2.1 ). Tartışma esnasında denge test sonuçlarını analiz ederken elde ettikleri değerleri sınıf ortalaması veya bilimsel verilerle karşılaştırarak kendi denge seviyeleri hakkında bir yargıya varmaları sağlanır ( E3.6 , SDB1.3 ).",
+    "ÇAPU.5.1.3. Öğrencilere derin duyu (proprioseptif), vestibüler ve görsel denge vb. egzersizler görsel ve video gibi eğitici içeriklerle anlatılır. Her bir denge türünün sağlık ve spor performansındaki rolü açıklanır ve bu türlere özgü egzersizler (tek ayak üzerinde gözler kapalı durma, baş döndürme gibi) açıklanarak bunu deneyimlemeleri sağlanır ( OB4 ). Öğrenciler her denge türüne yönelik uygulamalı egzersizlere katılır ( D3.4 ). Derin duyu egzersizlerde değişken yüzeylerde durma veya denge tahtası egzersizleri, vestibüler egzersizlerde baş hareketleriyle yapılan denge egzersizleri, görsel denge egzersizlerinde ise belirli bir noktaya odaklanarak yapılan denge hareketleri gibi farklı egzersizler uygulanır ( D16.3 ). Farklı denge türlerinde egzersiz çeşitliliğine önem verilir. Doğru form ve güvenli uygulamaya özen gösterilir ( D13.4 ). Öğrencilerin derin duyu (proprioseptif), vestibüler ve görsel denge egzersizlerini içeren bir plan doğrultusunda kademeli olarak çalışmaları sağlanır ( D12.3 , D13.4 ). Program, öğrencilerin başlangıç seviyesine uygun olarak düşük yoğunlukla başlar ve zorluk derecesi her hafta artırılarak denge becerilerinin gelişimi hedeflenir ( E3.7 , SDB3.2 ). Programın sonunda öğrencilerin gelişim düzeyini belirlemek amacıyla ünite başında yapılan denge testi tekrarlanır. Öğrencilerin test sonuçları başlangıç ölçümleri ile karşılaştırılarak her öğrencinin denge becerilerindeki durumları gözlemlenir. Öğrenciler gelişim süreçleri hakkında değerlendirmelerde bulunur. Öğrenciler tarafından dengeyle ilişkili fiziksel uygunluk gelişimleri değerlendirilir ( SDB1.2 ). Sürecin değerlendirilmesi ile ilgili bir performans görevi verilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D13.4",
+      "D16.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.1",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/859"
+}

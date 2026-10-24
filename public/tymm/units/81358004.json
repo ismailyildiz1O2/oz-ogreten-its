@@ -1,0 +1,76 @@
+{
+  "unitId": 81358004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+  "title": "4. ÜNİTE: KUR'AN-I KERİM'DE İNSANIN BİREYSEL VE TOPLUMSAL SORUMLULUKLARI",
+  "hours": "18",
+  "description": "Bu ünitede sırasıyla “Yardımlaşma ve Pay laşma”, “Emir Bilmaruf Nehiy Anilmünker”, “Emin Olma”, “Şehitlik”, “İstişare ile İş Yapma”, “Kul Hakkı Yememe”, “Kur'an-ı Kerim'de İktisadi İlkeler” ve “Ayetlerden Mesajlar: Kasas Suresi, 76-84. Ayetler” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "KKAD.1.4.1",
+      "title": "Ayetler bağlamında yardımlaşma ve paylaşmanın önemini kavrar",
+      "processComponents": [
+        "Yardımlaşma ve paylaşmanın önemi Bakara suresinin 3, 262 ve 274. ayetleri ve Al-i İmran suresinin 92 ve 134. ayetleri bağlamında açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.2",
+      "title": "Ayetler bağlamında örnek bir toplum oluşturmada iyiliği emredip kötülükten sakındırmanın önemini kavrar",
+      "processComponents": [
+        "Al-i İmran suresinin 104 ve 110. ayetleri ile Nisa suresinin 114. ayeti bağlamında emir bilmaruf nehiy anilmünker kavramı işlenir. İyiliğin yaygınlaştırılması ve kötülüğün önlenmesi çabasının örnek bir toplumun oluşmasındaki önemi vurgulanarak açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.3",
+      "title": "Ayetler bağlamında emanete riayet etmenin önemini açıklar",
+      "processComponents": [
+        "Müminun suresinin 8. ayeti ve Al-i İmran suresinin 75. ayeti ve Mearic suresinin 32. ayeti bağlamında Kur'an'da emanet kavramı açıklanır. Emanete riayetin toplumsal güveni sağlamadaki yeri vurgulanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.4",
+      "title": "Ayetler bağlamında cihat ve şehitlik kavramlarını açıklar",
+      "processComponents": [
+        "Bakara suresinin 190, 216, 218. ayetleri, Nisa suresinin 95-96,135. ayetleri, Bakara suresinin 153-154. ayetleri, Al-i İmran suresinin 169-175. ayetleri, Tevbe suresinin 111. ayeti ve Saf suresinin 10-14. ayetleri bağlamında cihat, şehitlik kavramları ve şehitlerin Allah (cc) katındaki yeri açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.5",
+      "title": "İstişare ayetleri çerçevesinde iş birliğine dayalı çözüm üretmenin toplumsal yararını fark eder",
+      "processComponents": [
+        "Al-i İmran suresinin 159. ayeti ve Şûra suresinin 38. ayeti bağlamında kişilerin sorumluluk alanlarına giren işler hakkında ilgililere danışmasının önemi vurgulanır.",
+        "İstişarenin Kur'an-ı Kerim'de tavsiye edilen toplumsal bir tutum olduğu örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.6",
+      "title": "Kul hakkı ile ilgili ayetleri insanlar arasındaki ilişki bağlamında yorumlar",
+      "processComponents": [
+        "İnsanların sahip olduğu maddi ve manevi şeyleri çeşitli yollarla gasbetmenin kul hakkı olduğu Bakara suresinin 188. ayeti ile Nisa suresinin 2 ve 29. ayetleri bağlamında açıklanır. Kul hakkına giren davranışların yasaklandığı ve bunların hak ve özgürlük alanlarını aşmaması gerektiği örneklendirilir."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.7",
+      "title": "Temiz ve helal kazanç için gerekli ilkeleri açıklar",
+      "processComponents": [
+        "Bakara suresinin 168 ve 172. ayetleri, Maide suresinin 88. ayeti, Mutaffifin suresinin 1-3. ayetleri ve Araf suresinin 85. ayeti bağlamında temiz ve helal kazanç için gerekli ilkeler açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.4.8",
+      "title": "Karun kıssası ile çıkarımlarda bulunur",
+      "processComponents": [
+        "Kasas suresinin 76-84. ayetlerinde geçen Karun kıssası açıklanır. Bu kıssadan çıkarılan mesajlar anlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124957523-Kuran%C4%B1kerim.pdf"
+}

@@ -1,0 +1,111 @@
+{
+  "unitId": 165,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "4. TEMA: NESNELERİN GEOMETRİSİ (1)",
+  "hours": "25",
+  "description": "Bu temada öğrencilerin günlük yaşamda kullanılan farklı nesneleri biçimsel özelliklerine göre belirleyebilmesi, ayırabilmesi, tasnif edebilmesi ve adlandırabilmesi; geometrik yapılardaki geometrik cisimleri belirleyebilmesi; bu geometrik cisimlerin aralarında ilişki kurması ve geometrik cisimlerden özgün bir yapı modeli oluşturabilmesi; üçgen, kare, dikdörtgen, çember ve daire arasında ilişkiler kurması ve bu şekilleri birleştirerek özgün modeller oluşturabilmesi amaçlanmaktadır. Ayrıca bu temada öğrencilerin geometrik cisim ve şekillerin yön, konum veya büyüklükleri değiştiğinde biçimsel özelliklerinin değişmediğinin farkına varabilmesi; standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin etmesi ve ölçüm sonuçlarını tahmin sonuçlarıyla karşılaştırabilmesi amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "MAT.2.3.1",
+      "title": "Günlük yaşamda kullanılan nesneleri biçimsel özelliklerine göre geometrik cisim olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Günlük yaşamda kullanılan nesnelerin biçimsel özelliklerini belirler.",
+        "b) Farklı nesneleri biçimsel özelliklerine göre ayırır.",
+        "c) Nesneleri geometrik cisim olarak tasnif eder.",
+        "ç) Geometrik cisimleri adlandırır."
+      ]
+    },
+    {
+      "code": "MAT.2.3.2",
+      "title": "Geometrik cisim modellerini kullanarak yapılar sentezleyebilme",
+      "processComponents": [
+        "a) Geometrik yapılardaki geometrik cisimleri belirler.",
+        "b) Geometrik cisimler arasında ilişki kurar.",
+        "c) Geometrik cisimleri birleştirerek özgün bir yapı oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.2.3.3",
+      "title": "Geometrik şekiller kullanarak modeller sentezleyebilme",
+      "processComponents": [
+        "a) Geometrik yapılardaki geometrik şekilleri belirler.",
+        "b) Geometrik şekiller arasında ilişki kurar.",
+        "c) Geometrik şekilleri birleştirerek özgün model oluşturur."
+      ]
+    },
+    {
+      "code": "MAT.2.3.4",
+      "title": "Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değiştiğinde biçimsel özelliklerinin değişmediğini yorumlayabilme",
+      "processComponents": [
+        "a) Geometrik cisim ve şekillerin mevcut yön, konum veya büyüklüklerini inceler.",
+        "b) Geometrik cisim ve şekillerin mevcut yön, konum veya büyüklüklerini biçimsel özelliklerinden kopmadan farklı büyüklüklere veya farklı yönlere dönüştürerek gösterir.",
+        "c) Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değişsede geometrik cisim ve şekil olarak aynı kaldığını ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.2.3.5",
+      "title": "Standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin edebilme",
+      "processComponents": [
+        "a) Standart olmayan sıvı ölçme araçlarına ilişkin deneyimini, tahmine konu olan sıvı miktarı ile ilişkilendirir.",
+        "b) Belirlenen standart olmayan sıvı ölçme araçlarına göre sıvının miktarını tahmin eder.",
+        "c) Tahminini ölçüm sonuçlarıyla karşılaştırarak tahminîne ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "• daire, küp, kare prizma, dikdörtgen prizma, üçgen prizma, küre, dik dairesel silindir, Sembol ve Gösterimler, • -",
+  "support": [
+    "Geometrik cisim modelleri gösterilerek öğrencilerin günlük yaşamda bu cisimlere benzer nesneleri adlandırmadan örneklendirmesi sağlanır.",
+    "Öğrencilerin ihtiyaçları göz önüne alınarak üçgen, kare, dikdörtgen ve çember şekillerinden birini veya birkaçını kullanarak şekil modelleri oluşturabilme çalışması yapılır.",
+    "Geometrik cisim ve şekil modellerinin yeri değişse de biçimsel özellikleri değişmediğine yönelik günlük yaşam senaryoları oluşturulur.",
+    "Standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin edebilme ile ilgili somut örneklerden yararlanılır. Bu kapsamda bir kovaya farklı nesnelerle sıvı eklenmesine yönelik sınıf içi uygulamalar yapılır. Buna bağlı olarak öğrencilerin kovayı hangi nesne ile kaç kez kullanılarak doldurulabileceğine yönelik sorularla öğrencilerin sıvı miktarını tahmin etmeleri istenir."
+  ],
+  "enrichment": [
+    "Küp, kare prizma, dikdörtgen prizma, üçgen prizma, dik dairesel silindir, küreyi kullanarak robot tasarlamaları istenir. Ayrıca etkileşimli geometri yazılımlarından da cisimlerin üç boyutlu somutlaştırılmış hâli sunulur. Daha fazla geometrik şekil ile özgün şekil modeli oluşturabilme çalışmaları yapılır. Üç boyutlu etkileşimli geometri yazılımları kullanılarak öğrencilerden kendi tasarımlarını yapmaları istenir.",
+    "Bilgisayar veya mobil uygulamalar aracılığıyla sanal deneyimler sunarak öğrencilere interaktif bir ortamda sıvı ölçme becerilerini geliştirmeye yönelik etkinlik yapılır. Örneğin boş bir kova, standart olmayan farklı sıvı ölçme araçları kullanılarak doldurulduğunda hangi ölçme aracının daha hızlı bir şekilde kovayı sıvı ile doldurabileceğini tahmin etmesi istenir. Daha sonra bu tahminleri test etmek amacıyla farklı ölçme araçları kullanılarak kovayı sıvı ile doldurması ve elde ettiği sonuçları başlangıçta yaptığı tahminlerle karşılaştırması istenir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları, analitik ve bütüncül dereceli puanlama anahtarı, kontrol listeleri, tanılayıcı dallanmış ağaç, eşleştirme soruları, gözlem formları, kavram haritaları, yapılandırılmış grid ile değerlendirilebilir.",
+    "Geometrik cisim modellerinden şekilleri oluşturmaya yönelik performans görevi istenebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.2.3.1 Tenis topu, ilaç kutusu, konserve kutusu gibi nesneler öğrencilere gösterilerek bu nesnelerin biçimsel özellikleri hakkında öğrencilerin görüşleri sorulur. Öğrencilerden sınıfa günlük yaşamda karşılaştığı malzemeleri getirmeleri istenir. Böylece öğrencilerin öğreneceği konu hakkında merak duyması ve yeni konuya ilişkin bilgileri fark etmesi sağlanır ( E1.1 , SDB1.1 ) . Günlük yaşamda kullanılan cisimlerin biçimsel özelliklerini belirlemesi, bu cisimleri ayırması, ayırdığı cisimleri benzerlik ve farklılıklarına göre tasnif etmesi istenir. Sıkça karşılaşılan geometrik cisimler benzer ve farklı özelliklerine göre sınıflandırıldıktan sonra biçimsel özelliklerine dikkat edilerek öğrencilerden geometrik cisimleri adlandırmaları istenir. Geometrik cisimleri belirleme, ayırma, tasnif etme ve adlandırmaya yönelik yapılandırılmış grid çalışması yapılır. Ayrıca geometrik cisimlerin adlandırılmasına yönelik olarak eşleştirme soruları kullanılabilir.",
+    "MAT.2.3.2 Geometrik yapılardaki geometrik cisimlerin fark edilmesi adına günlük yaşamdan çeşitli örnekler verilir. Bu örneklere ilişkin somut modeller sınıf ortamına getirilir ve modelin parçalarına ayrılması ile modeli oluşturan cisimler arasında ilişki kurulur. Ayrıca bu cisimler ile cisimlerin birleştirilmesi yoluyla oluşan geometrik yapı arasındaki ilişkiye de dikkat çekilir. Daha sonra öğrencilerden verilen farklı geometrik cisimleri kullanarak bu cisimlerden özgün bir yapı modeli oluşturmaları istenir ( E3.11 , OB1 ) . Öğrencilerin oynamaktan zevk aldığı \"dokunarak geometrik cismi tanıma\" gibi çeşitli eğitsel oyunlar oynatılır ( E2.5 ) . Bu süreçte öğrencilerden bir takım oluşturulması ile grup etkinliği ön plana çıkarılır ve öğrenciden grup çalışmasında verilen görevi yerine getirmesi için aktif rol alması istenir ( D3.4 , SDB2.2 ) . Gerek iletişim becerilerinin gerekse dokunma duyusunun gelişimine yönelik katkı sağlanır. Öğrencilere geometrik cisimlerin günlük yaşama yansımalarına yönelik performans görevi verilebilir. Bunun değerlendirilmesine yönelik olarak analitik dereceli puanlama anahtarı kullanılabilir.",
+    "MAT.2.3.3 Öğrencilere içerisinde üçgen, kare, dikdörtgen ve çemberin yer aldığı çeşitli geometrik şekiller ve dairesel modeller gösterilerek bu modelleri incelemeleri sağlanır. Görsel sanatlar dersi ile ilişkilendirilerek gerek kendi kültürümüze gerekse farklı kültürlere ait üzerinde geometrik şekillerin olduğu desenler (kilim, mozaik vb.) incelenir ( OB4 , D7.1 ) . İncelemeler yapıldıktan sonra öğrencilere kâğıt üzerinde bulunan geometrik şekilleri kesme, boyama ya da modeller (bloklar, manyetik şekil setleri, tangram vb.) üzerinde bulunan şekilleri belirleme sorumluluğu verilir ( KB2.4 , E2.2 ) . Öğrencilerden şekil modellerinde yer alan geometrik şekilleri belirledikten sonra bu şekiller arasında ilişki kurmaları sağlanır. Bu süreçte öğrencilerin yeni ürün ortaya koymaları sağlanarak ( E3.3 ) özgün modeller oluşturmaları istenir ( E3.11 , SDB1.2 ) . Ayrıca öğrencilerden oluşturduğu şekil modelini çizmeleri istenir. Çizdikleri model kontrol listesi kullanılarak değerlendirilebilir.",
+    "MAT.2.3.4 Geometrik cisimlerin ve şekillerin biçimsel özelliklerinin öğrencilere hatırlatılıp cisimlerin farklı açılardan incelendiğinde biçimsel özelliklerinin değişip değişmeyeceğine yönelik bir tartışma yapılır ( SDB2.2 ) . Sınıfa farklı büyüklükte geometrik cisim ve şekil modeller getirilerek öğreneceği konuya merak uyandırmaya çalışılır ( E1.1 ) . Geometrik cisim ve şekillerin yön ve konumu değiştiğinde biçimsel özelliklerinin değişmediğine yönelik etkinlikler yaparak öğrenme sürecinde aktif rol alması beklenir. Geometrik cisim ve şekillerin yön ve konumu değiştiğinde biçimsel özelliklerinin değişmediğini somutlaştırmak için öğrencilerin dijital bir araçla etkinlik yapmalarına yönelik etkileşimli geometri yazılımlarından yararlanılır ( MAB5.1 , OB2 ) . Çeşitli eğitsel içerikli oyunlar oynatılır ( E2.5 ) . Tüm öğrencilerin etkinlik ve oyun sürecinde aktif katılımı sağlanıp verilen görevleri yerine getirmeleri istenir ( D16.3 ) . Farklı yön, konum ve büyüklükteki geometrik cisim ve şekillerin yer aldığı görseller öğrencilere dağıtılıp kolaj çalışması gibi kes, yapıştır boya etkinliği yapılarak görsel sanatlar panosuna asılır. Bu süreçte öğrencilerin görevi yerine getirip getirmediği gözlem formu ve kontrol listeleri kullanılarak tespit edilebilir.",
+    "MAT.2.3.5 Farklı boyutlardaki standart olmayan sıvı ölçme araçları tanıtılır. Öğrencilere bir kap içinde bulunan sıvının ne kadar olduğuna yönelik tahminde bulunmaları istenir. Sonra ölçüm yaparak tahminî sonuç ile gerçek sonucu karşılaştırmaları sağlanır. Bir miktar sıvı, farklı boyutlardaki standart olmayan sıvı ölçme araçlarıyla ölçülerek tahminî sonuç ile ölçüm sonucunun karşılaştırılması istenir ( OB7 ) . Standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin edebilmek ve tahminini ölçüm sonuçlarıyla karşılaştırmak için eşleştirme soruları veya tanılayıcı dallanmış ağaç kullanılabilir. Elde edilen veriler dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D3.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E2.5",
+      "E3.11",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "alan": [
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/165"
+}

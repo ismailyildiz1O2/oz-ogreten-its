@@ -1,0 +1,65 @@
+{
+  "unitId": 1579,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi",
+  "title": "3. Ünite: Proje Yaşam Döngüsü",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PTU.3.1",
+      "title": "Girişimcilik kavramını ve girişimci bireyin özelliklerini sorgulayabilme",
+      "processComponents": [
+        "a) Girişimcilik kavramını ve girişimci bireyin özelliklerini tanımlar.",
+        "b) Girişimcilik kavramı ve girişimci bireyin özellikleri hakkında sorular sorar.",
+        "c) Girişimcilik kavramı ve girişimci bireyin özellikleri hakkında bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "PTU.3.2",
+      "title": "Proje yazım sürecinde dikkat edilmesi gereken unsurları sorgulayabilme",
+      "processComponents": [
+        "a) Proje yazım sürecinde dikkat edilmesi gereken unsurları tanımlar.",
+        "b) Proje yazım sürecinde dikkat edilmesi gereken unsurlar hakkında sorular sorar.",
+        "c) Proje yazım sürecinde dikkat edilmesi gereken unsurlar hakkında bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "PTU.3.3",
+      "title": "Proje destek programlarına başvuru sürecinin adımlarını yapılandırabilme",
+      "processComponents": [
+        "a) Proje destek programlarına başvuru sürecini inceleyerek hiyerarşik, nedensel ya da mantıksal ilişkiler ortaya koyar.",
+        "b) Ortaya koyduğu mantıksal ilişkilerle ilgili ön bilgilerden yararlanarak uyumlu bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "bağımlı değişken, bağımsız değişken, etik, girişimci birey, girişimcilik, girişimcilik özellikleri, hipotez ve denence, problem, problem durumu, proje, proje destek programı, proje fikri, proje yazımı, proje yaşam döngüsü, ULAKBİM, Ulusal Tez Merkezi, özgünlük",
+  "support": [
+    "Öğrencilerden daha önce okulunda veya çevresinde proje yürüten bir öğretmen, öğrenci, akademisyen vb. ile görüşme yapmaları ve elde ettikleri bilgileri sınıfta sunmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin yazım kurallarına uyarak bir proje önerisi geliştirmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde öğrencilerden hangi girişimci proje örneğinin inovatif, topluma katkı sağlayan, katma değeri yüksek özellikler içerdiğini yazılı olarak kayıt altına almaları ve renkli, yapışkanlı kâğıt ile tahtaya yapıştırmaları istenebilir.",
+    "Performans görevi olarak öğrencilerin sorgulamadan bilgi toplamaya, yapılandırmadan proje önerisi geliştirmeye kadar geçen süreci içeren bir dosya hazırlamaları ve bu dosyanın rubrik ile değerlendirilmesi sağlanabilir."
+  ],
+  "teachingApplications": [
+    "PTU.3.1",
+    "Öğretmen; öğrencilerinden bir devlet memuru ile bir işletme sahibinin iş tanımlarını karşılaştırmalı olarak analiz etmelerini, bu analizden yola çıkarak girişimcilik kavramını ve girişimci özelliklerini tanımlamalarını ister. Öğrencilerin bu tanımlardan hareketle cesaret, yenilikçilik, risk alma, vizyonerlik gibi girişimci özelliklerini içeren bir ''soru sepeti'' hazırlamaları sağlanır. Ardından sınıftan gönüllü bir öğrenci, sepetten bir kavram seçerek bu kavramın anlamını veya girişimcilikteki karşılığını arkadaşlarına soru olarak yöneltir. Öğrencilerden girişimcilik kavramı ve girişimci bireyin özellikleri hakkında araştırma yapmaları istenir. Toplanacak bilgilerin farklı ve güvenilir kaynaklardan elde edilmesi sağlanır ( D3.3 ). Örneğin öğrenciler den topluma katkı sağlayan girişimcilik örneklerini inceleyerek ülkesinin kalkınmasını ve gelişmesini desteklemeleri beklenir ( D19.4 ). Buna ek olarak öğrencilerden girişimci bireylerin topluma ve bir ülkeye katkısının ne olabileceğini sorgulamaları, günümüzde ilginç girişimcilik örneklerini sergileyen bireylerin hayat hikâyelerini bulmaları, bunları sınıf ortamında paylaşmaları beklenir. Toplanan bilgiler, öğrenciler tarafından eleştirel bir bakış açısıyla değerlendirilir. Öğrencilerin bilgilerin doğruluğunu sorgulaması, farklı bakış açılarını analiz etmesi ve güvenilir kaynakları ayırt etmesi için çeşitli etkinlikler düzenlenir ( E1.1 , E3.2 ). Örneğin her öğrenciden kendisini girişimci bir birey olarak düşünmesi, bir girişimcilik örneği oluşturması ve bunu sınıfta paylaşması istenebilir. Paylaşımlar sonrasında öğrencilerden hangi girişimci proje örneğinin inovatif, topluma katkı sağlayan, katma değeri yüksek özellikler içerdiği ile ilgili çıkarımda bulunmaları, bunu yazılı olarak kayıt altına almaları ve renkli, yapışkanlı kâğıt ile tahtaya yapıştırmaları istenebilir. Daha sonra buradaki verilerden hareketle hangi projenin en inovatif, topluma katkı sağlayan, katma değeri yüksek özellikler içerdiği tespit edilebilir.",
+    "PTU.3.2",
+    "Öğretmen, öğrencilerin proje yazım sürecinde dikkat etmesi gereken unsur ve aşamaları çeşitli proje yazım kılavuzları ve örnek projeler üzerinden incelemelerini sağlar. Öğrencilerden yaptıkları incelemeler sonucunda elde ettikleri verilere bağlı olarak proje yazım sürecinde dikkat edilmesi gereken unsurları tanımlamaları istenir. Öğrencilerden proje yazım sürecinde dikkat edilmesi gereken unsurlar hakkında en az üçer soru hazırlamaları ve bu soruları farklı renklerde kâğıtlar üzerine yazmaları istenir. Tahtaya öğretmen veya çizimi iyi olan bir öğrenci tarafından meyve ağacı çizilir. Öğrencilerin sorularını yazdıkları renkli kâğıtları bu meyve ağacının üzerine o ağacın meyvesiymiş gibi yapıştırmaları sağlanır. Daha sonra benzer sorular tespit edilir ve bir soru havuzu oluşturulur. Tespit edilen bu soruların cevaplarına yönelik olarak öğrencilerden bilgi toplamaları istenir ( OB1 ). Bilgi toplama süreci, güvenilir kaynaklardan elde edilen veriler doğrulanarak tamamlanır ( OB7 ).",
+    "Öğrenciler doğru ve güvenilir bilgiyi ayırt ederek araştırma sürecini yerine getirir. Toplanan bilgilerin doğruluğunu eleştirel bir bakış açışıyla değerlendirir ( D3.3 ). Süreç sonunda öğrenciler bu bilgiler üzerinden çıkarım yaparlar.",
+    "PTU.3.3",
+    "Öğrencilerden süreç, hiyerarşi ve mantıksal ilişkiler ile ilgili kavramlar hakkında sorgulama yapmaları istenir ( E1.1 , E3.8 ). Örnek bir destek programının başvuru rehberi (TÜBİTAK 4006, yerel belediye destekleri vb.) üzerinden süreç, hiyerarşi ve mantıksal ilişkiler ile ilgili kavramları belirlemeleri öğrencilerden beklenir. Öğrencilerin destek programının başvuru rehberini okumaları ve başvuru sürecinde yer alan adımları çıkarmaları sağlanır ( E2.2 , OB1 ). Emek verilerek elde edilenlere değer verme bilinciyle örnek bir proje üzerinden “proje fikrini belirleme, başvuru formunu doldurma, amaç ve hedef yazımı, bütçe planı hazırlama, takvim oluşturma, onay ve değerlendirme süreci, sonuç raporlama” basamaklarını inceleyerek hiyerarşik, nedensel ya da mantıksal ilişkileri ortaya koymaları sağlanır ( E3.1 , D17.3 ). Öğrenciler; mantıksal ilişkilerle ilgili ön bilgilerden yararlanarak oluşturduğu uyumlu bütünü, çevresinde gördüğü problemi proje basamaklarını dikkate alarak proje önerisi şeklinde ortaya koyar ( SBAB6 ). Bunu yaparken olaylar ve durumlar karşısında motivasyonunu sürdürerek çalışmalarında sebat eder ( D12.3 ). Öğrencilere bir proje hazırlamadan önce proje fikrinin nasıl belirlenebileceğine ilişkin hangi yöntem veya yöntemlerden yararlanılabileceğine dair araştırma yapabilecekleri bu verileri bir tablo hâline getirerek karşılaştırabilecekleri bir performans görevi verilir. Verilen performans görevi analitik/bütüncül dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1579"
+}

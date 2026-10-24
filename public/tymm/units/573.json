@@ -1,0 +1,142 @@
+{
+  "unitId": 573,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "3. TEMA: ZAMANIN İZİNDE SANAT",
+  "hours": "16",
+  "description": "Temada Selçuklu Dönemi Türk sanat eserinin sanatsal olarak betimlenebilmesi, Selçuklu Dönemi Türk sanat eserinin sanatsal olarak çözümlenebilmesi, Selçuklu Dönemi Türk sanat eserinin sanatsal olarak yorumlanabilmesi, Selçuklu Dönemi Türk sanat eseri ile ilgili sanatsal yargıda bulunulabilmesi, Selçuklu Dönemi desenleriyle çini motifi tasarlanabilmesi, Selçuklu Dönemi desenleriyle çini motifi oluşturulabilmesi, Avrupa sanatının neoklasisizm, romantizm, realizm dönemlerinin sanatsal olarak karşılaştırılabilmesi, Avrupa sanatının neoklasisizm, romantizm, realizm dönemlerinden bir eserin perspektif açısından sanatsal olarak çözümlenebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.10.3.1",
+      "title": "Selçuklu Dönemi Türk sanat eserini sanatsal olarak betimleyebilme",
+      "processComponents": [
+        "a) Eser ile ilgili bilgileri tespit eder.",
+        "b) Eserde görülenleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.10.3.2",
+      "title": "Selçuklu Dönemi Türk sanat eserini sanatsal olarak çözümleyebilme",
+      "processComponents": [
+        "a) Eserdeki görsel bileşenleri/konuyu/konuyu oluşturan bileşenleri belirler.",
+        "b) Eserdeki görsel bileşenler/konuyu oluşturan bileşenler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "GS.10.3.3",
+      "title": "Selçuklu Dönemi Türk sanat eserini sanatsal olarak yorumlayabilme",
+      "processComponents": [
+        "a) Eserin konusuyla görsel bileşenler/konuyu oluşturan bileşenler arasında ilişki kurar.",
+        "b) Eserin temasına/destekleyici temalarına ilişkin çıkarım yapar."
+      ]
+    },
+    {
+      "code": "GS.10.3.4",
+      "title": "Selçuklu Dönemi Türk sanat eseri ile ilgili sanatsal yargıda bulunabilme",
+      "processComponents": [
+        "a) Eserin özelliklerini belirli ölçüt(ler) ile karşılaştırır.",
+        "b) Eser hakkında ölçüt(ler) çerçevesinde karar verir."
+      ]
+    },
+    {
+      "code": "GS.10.3.5",
+      "title": "Selçuklu Dönemi desenleriyle çini motifi tasarlayabilme",
+      "processComponents": [
+        "a) Selçuklu Dönemi çini sanatına ait motifleri inceler.",
+        "b) Selçuklu Dönemi çini sanatı bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.10.3.6",
+      "title": "Selçuklu Dönemi desenleriyle çini motifi oluşturabilme",
+      "processComponents": [
+        "a) Çini çalışmasına uygun görsel anlatım araçlarını ifade eder.",
+        "b) Hazırladığı eskizleri çini motiflerine dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.10.3.7",
+      "title": "Avrupa sanatının neoklasisizm, romantizm, realizm dönemlerini sanatsal olarak karşılaştırabilme",
+      "processComponents": [
+        "a) Neoklasisizm, romantizm, realizm dönemi sanat eserlerinin görsel bileşenlerindeki benzerlikleri belirler.",
+        "b) Neoklasisizm, romantizm, realizm dönemi sanat eserlerinin görsel bileşenlerindeki farklılıkları belirler."
+      ]
+    },
+    {
+      "code": "GS.10.3.8",
+      "title": "Avrupa sanatının neoklasisizm, romantizm, realizm dönemlerinden bir eseri perspektif açısından sanatsal olarak çözümleyebilme",
+      "processComponents": [
+        "a) Neoklasisizm, romantizm, realizm dönemlerinden bir eserin perspektifle ilgili bileşenleri belirler.",
+        "b) Neoklasisizm, romantizm, realizm dönemlerinden bir eserin perspektifle ilgili bileşenleri arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "diyagram, minyatür, neoklasisizm, romantizm, realizm, sembol",
+  "support": [
+    "Öğrencilerden \"Kelile ve Dimne\" adlı eserde yer alan minyatür resimlerden seçtikleri hayvan figürleri ile ilgili resimler yapmaları istenebilir.",
+    "Çini desenlerinde yer alan motiflere uygun renkli kâğıtlar keserek yüzey düzenlemesi yapmaları sağlanabilir.",
+    "Öğrencilerden neoklasisizm, romantizm, realizm dönemlerinin sanatsal özelliklerinin en belirgin birer özelliğini gösterecek şekilde düzenlenmiş basit bir tablo oluşturmaları istenebilir.",
+    "Neoklasisizm, romantizm, realizm dönemi sanat eserlerinden biri seçilerek kullanılan perspektif türünü tespit etmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere \"Kelile ve Dimne adlı esere bir anlatı daha eklemek mümkün olsaydı günümüz dünyası ile ilgili hangi konuyu ele alırdınız?\" sorusu sorularak belirledikleri konu ile ilgili eserin anlatım tarzına uygun, ders verici nitelikte kısa bir hikâye yazmaları ve Selçuklu minyatür resim sanatı özelliklerine göre resimlemeleri istenebilir.",
+    "Öğrencilerden çini ile ilgili kendi desenlerini veya tasarımlarını yapmaları, kendilerine ait özgün kompozisyonlar oluşturmaları ve boyamaları istenebilir.",
+    "Neoklasisizm, romantizm, realizm dönemlerinden biri seçilerek öğrencilerden dönemi temsil eden özelliklerle ilgili kısa notları, basit çizimleri ve renklerle oluşturulan görselleri içerecek şekilde renkli bir zihin haritası çizmeleri istenebilir.",
+    "Neoklasisizm, romantizm, realizm dönemi sanat eserlerinde inceledikleri bir perspektif kurgusundan yararlanarak bir resim çalışması yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; zihin haritası, tanılayıcı dallanmış ağaç, açık uçlu sorular, çalışma yaprağı, karşılaştırma tablosu, kontrol listesi, dereceli puanlama anahtarı, dereceleme ölçeği, gözlem formu, öz değerlendirme formu ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden Selçuklu Dönemi Türk sanatı örneklerinden biri olan \"Kelile ve Dimne\" adlı eserdeki anlatılardan birini yeniden ele alarak minyatür tarzında çizgi hikâye şeklinde çizmeleri istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.10.3.1. Öğrencilerin Selçuklu Dönemi Türk minyatür sanatının önemli örneklerinden biri olarak kabul edilen \"Kelile ve Dimne\" adlı eseri incelemeleri sağlanır ( OB4 ). \"Sizce bu eser ne zaman üretilmiştir?\", \"Eserin yapımında hangi malzemeler kullanılmış olabilir?\", \"Bu eserin ölçüleri yaklaşık olarak ne kadardır?\" gibi sorular sorularak öğrencilerin eserin yapısıyla ilgili tahmin yürütmeleri istenir. Eserle ilgili bilgiler verilerek öğrencilerin eserin adını, ölçüsünü, biçimini, malzemesini, tekniğini ve bulunduğu yeri tespit etmeleri sağlanır.",
+    "Öğrencilerden eserde görülen figür, hayvan, nesne, bitki, motif, renk, şekil gibi unsurları betimlemeleri istenir ( OB9 ). Sorulan sorularla öğrencilerin figürlerin ve eserin uyandırdığı duyguyu ifade etmeleri sağlanır ( OB4 ). Süreç, açık uçlu sorular ile değerlendirilebilir.",
+    "GS. 10.3.2. \"Kelile ve Dimne\" adlı eserde yer alan sembollerin anlamları, figürlerin kimlikleri ve eserin konusuna kaynaklık eden anlatı ya da olay ile ilgili bilgiler açıklanır. Bu bilgiler doğrultusunda sorular sorularak öğrencilerin eserin görsel bileşenlerini, konusunu ve konuyu oluşturan bileşenlerini belirlemeleri istenir.",
+    "Eserde kullanılan kompozisyon yapısı, geometrik kurgu, perspektif, desen, espas, doku, ışık-gölge ve renk ilişkileri ile ilgili sorular sorularak öğrencilerin eserin görsel yapısını çözümlemeleri sağlanır. Doğru cevapların desteklenmesi yoluyla eseri oluşturan bileşenler arasındaki ilişkiler belirlenir ( E3.4 ). Süreç, açık uçlu sorular veya gözlem formu ile değerlendirilebilir.",
+    "GS. 10.3.3. Öğrencilerden, kendilerini \"Kelile ve Dimne\" adlı eseri üreten sanatçının yerine koyarak böyle bir görsel düzenleme ile nasıl bir etkinin amaçlanmış olabileceğini düşünmeleri istenir ( E2.1 ). Bu doğrultuda sorular sorularak eserde kullanılan görsel bileşenlerin oluşturduğu anlamların bulunması sağlanır ( E3.4 ). Öğrencilerden tekrar eden biçimsel unsurlarla oluşan hareket akışlarını ve yönlerini tespit etmeleri istenir. Böylece eserin ritim ve hareket şeması sistematik bir şekilde çözümlenmiş olur ( E3.7 ). Bu kurgunun anlatıma yönelik amaçları sorgulanarak öğrencilerin görsel bileşenler ile konuyu oluşturan bileşenler arasında ilişki kurmaları sağlanır.",
+    "Eserin genelinde görsel tasarım öge ve ilkeleri aracılığıyla en fazla vurgu yapılan bölümün neresi olduğu sorularak öğrencilerin eserin odak noktasını tespit etmeleri ve bu bölüme nasıl bir olay/anlatım yerleştirildiğini tanımlamaları sağlanır. Böylece eserin temasına ilişkin çıkarımlar yapılır. Asıl odak noktasından sonra ikincil olay ya da anlatımlara yer verilen diğer odak noktaları aynı yolla çözümlenir ( KB2.4 ). Böylece destekleyici temalara ilişkin çıkarımlar yapılır. Sürecin değerlendirilmesinde açık uçlu sorular kullanılabilir.",
+    "GS. 10.3.4. \"Kelile ve Dimne\" adlı eserin sanat tarihindeki yeri ve önemi konusunda bilgi verilir. Öğrencilerin eserin özelliklerini teknik yetkinlik, biçim-içerik uyumu, özgünlük gibi belirli ölçütlerle karşılaştırmaları sağlanır ( KB2.7 , OB9 ).",
+    "Tartışma ortamı yaratılarak öğrencilerin ölçütler çerçevesinde eserin sanatsal değeri hakkında karar vererek yargıda bulunmaları sağlanır. Bir eseri anlamanın ve doğru değerlendirmenin uzun bir süreç gerektirebileceği hatırlatılarak öğrencilerin çalışma motivasyonlarını sürdürmeleri sağlanır ( D12.3 ). Süreç, açık uçlu sorular veya çalışma yaprağı kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden Selçuklu Dönemi Türk sanatı örneklerinden biri olan \"Kelile ve Dimne\" adlı eserde yer alan anlatılardan birini yeniden ele alarak minyatür tarzında bir çizgi hikâye şeklinde çizmeleri istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir.",
+    "GS.10.3.5. Selçuklu dönemine ait Kubadabad Sarayı, Konya Karatay Medresesi, Sivas Gök Medrese, Erzurum Çifte Minareli Medrese gibi önemli mimari eserlerde yer alan çini örnekleri gösterilerek öğrencilerin çini sanatının özelliklerini incelemeleri sağlanır ( OB4 ). Öğrencilerin çini sanatı ile ilgili merak ettikleri soruları sormaları sağlanır ( E1.1 , E3.8 ). Selçukluların, İslam sanatının estetik dilini Orta Asya'dan getirdikleri Türk gelenekleriyle birleştirerek yeni bir üslup oluşturdukları; bu süreçte Karahanlıların mimari tecrübeleri ve Gaznelilerin anıtsal yapı geleneğinden yararlanarak Anadolu'da özgün bir Türk-İslam sanatı dili geliştirdikleri vurgulanır.Selçuklu sanatındaki zengin geometrik motiflerin anlamları hakkında bilgiler verilerek öğrencilerin bu döneme ait eserlerin arka planındaki düşünsel alt yapıyı ve felsefeyi fark etmeleri sağlanır. Çini sanatının gelecek nesillere aktarılması için yapılabilecek çalışmalar hakkında öğrencilerin konuşmaları ve gerçekçi sonuçlara ulaşmaları sağlanır ( D11.2 , OB5 ).",
+    "Selçuklu çinilerinde kullanılan geometrik motiflerden, bitki motiflerinden ve hayvan figürlerinden örnekler verilir. Öğrencilerin örnekler üzerinden seçerek çalışmalarında yer vermek istedikleri Selçuklu çini sanatına özgü imgeleri eskizlerle ifade etmeleri istenir ( D7.3 ). Süreç, gözlem formu ile değerlendirilebilir.",
+    "GS.10.3.6. Öğrencilere çini boyama teknikleri ile ilgili kısa ve açıklayıcı bilgiler verilir. Uygulanabilecek çini teknikleri açıklanır, bu süreçte malzeme olanakları göz önüne alınarak resim araç gereç ve tekniklerinin de kullanılabileceği belirtilir. Öğrencilerin kendi çalışmaları için en uygun görsel anlatım araçlarını belirleyerek ifade etmeleri sağlanır.",
+    "Gerekli malzeme ve teknik seçimi yapıldıktan sonra öğrencilerin Selçuklu çini motiflerinden seçtikleri desenlerden yararlanarak taslak çizimleri yapmaları istenir. Tasarlanan zemin üzerine (kâğıt, karton, kap, vazo, pano vb.) uygun motif desenleri çizdirilebilir. Seçilen taslakların çizimleri yapıldıktan sonra boyama sürecine geçilerek çalışmanın tamamlanması sağlanır. Boyaması biten ürün sergilemeye hazır hâle getirilir. Öğrencilerin çini çalışması sürecindeki duygu ve düşüncelerini ifade etmeleri sağlanır ( SDB1.1 ). Yapılan çalışmalar dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.10.3.7. Neoklasisizm, romantizm, realizm dönemlerine ait sanat eserlerinden örnekler gösterilerek öğrencilerin incelemeleri sağlanır (OB4). Seçilecek eserlerin neoklasisizm dönemi için Jacques Louis David'e (Jal Lui Deyvid) ait \"Horas Kardeşlerin Yemini\", romantizm dönemi için Caspar David Friedrich'e (Kespır Deyvid Firederik) ait \"Sis Denizi Üzerindeki Gezgin\", realizm dönemi için Jean-François Millet'ye (Can Fransuva Mile) ait \"Başak Toplayan Kadınlar\" gibi döneminin özelliklerini temsil eden eserler olmasına dikkat edilmelidir. Öğrencilerin görselleri incelemeleri ve ilişkilendirmeler yaparak üç dönem arasındaki benzerlikleri belirlemeleri istenir ( E3.6 ). Öğrencilere kişisel tespitlerini paylaşmaları için söz hakkı tanınır ve doğru çıkarımlar desteklenerek sonuçlara ulaşılması sağlanır. Bu süreçte öğrencilerin kendi tespitlerini açıklamaları ve birbirlerini dinlemeleri için doğru iletişim ortamının korunmasına dikkat edilir ( SDB2.1 ). Bu aşamada soru ağı tekniğinden yararlanılabilir.",
+    "Görseller incelenirken eserdeki görsel tasarım öge ve ilkelerinin kullanım şeklinin genelden ayrıntılara doğru değerlendirilebileceği vurgulanarak öğrencilerin sistematik bir sıralamayı takip etmeleri sağlanır ( E3.7 ). Öğrencilerin bu dönemler arasındaki farklılıkları belirleyerek nedenlerini tartışmaları ve her dönemin sanatsal anlayışıyla toplumsal koşulları arasında ilişkiler kurarak nesnel bir yaklaşımla gerçek sonuçlara ulaşmaları sağlanır ( OB9 ). Bu yaklaşımla öğrencilerin diğer görsel unsurları da incelemeleri ve eserlerin görsel bileşenleri arasındaki farklılıkları belirlemeleri sağlanır. Öğrencilerin dönemsel farklılıklarla ilgili tespitleri, karşılaştırma tablosu veya çalışma yaprağı kullanılarak değerlendirilebilir.",
+    "GS.10.3.8. Neoklasisizm, romantizm, realizm dönemlerine ait eserler gösterilerek öğrencilerin bu eserleri perspektif özelliklerine göre incelemeleri sağlanır ( OB4 ). Öğrencilerden bir eser seçmeleri ve seçtikleri eserde yer alan figür ve nesnelerin silüet şeklinde bir diyagramını çizmeleri istenir. Diyagram üzerine farklı renkteki kalemlerle işaretlemeler yaparak perspektif yapıyı oluşturan çizgiler çizmeleri, renk perspektifinin kullanıldığı bölümler varsa ton ve renk farklılıklarına göre alanlara bölmeleri istenir. Öğrencilerden işaretlemeler yaparak hazırladıkları şemayı özgün eserle karşılaştırıp ufuk çizgisi, bakış noktası, kaçış noktaları, ton ve renk farklılıklarını göstermeleri beklenir. Böylece eserin perspektifle ilgili bileşenleri belirlenerek bir şemaya dönüştürülür.",
+    "Kullanılan perspektif türünün vurgu noktaları ile ilişkisi hakkında bir tartışma ortamı oluşturulur ( KB2.18 ). Öğrencilerin tartışma sürecinde farklı görüşlerin olabileceğini kabul etmeleri ve birbirlerini dinlemeleri sağlanır ( D1.2 ). Doğru cevaplar desteklenerek her eserin kendi içeriğine uygun bir perspektif yapısının olduğunun fark edilmesi sağlanır. Bu aşamada resmin temasının genellikle odak noktasına yerleştirildiği, odak noktasının ise perspektiften yararlanarak vurgulandığı öğrencilere hatırlatılır. Bu bilgiler doğrultusunda öğrencilerin öğretmenle birlikte eserin temasını tespit etmeleri ve temanın vurgulandığı odak noktasından hareketle çizgisel perspektifin, varsa renk perspektifinin yapısını çözümlemeleri sağlanır ( OB9 ). Öğrencilere \"Sanatçı hangi nedenlerle böyle bir perspektif kurgulamayı tercih etmiş olabilir?\", \"Perspektifle ilgili bu ögelerin eserin estetik ve anlam yapısına etkileri neler olabilir?\" gibi sorular sorulur. Böylece öğrencilerin eserdeki perspektif bileşenleri arasındaki ilişkileri belirleyerek ifade etmeleri sağlanır. Süreç, çalışma yaprağı veya açık uçlu sorularla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D11.2",
+      "D12.3",
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E3.4",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.4",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB5",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/573"
+}

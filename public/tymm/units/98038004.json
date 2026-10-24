@@ -1,0 +1,67 @@
+{
+  "unitId": 98038004,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "4. ÜNİTE: GÖRSEL İLETİŞİM TASARIMI",
+  "hours": "12",
+  "description": "Bu ünitede öğrencilerin görsel iletişim tasarımı fikrini ifade edecek sunum, mizanpaj (sayfa düzenlenmesi) ve farklı grafik tasarımlar üretmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TT.8.C.1.1",
+      "title": "Görsel iletişim tasarımı kavramını açıklar",
+      "processComponents": [
+        "İletişim, iletişim türleri, iletişim ve görselliğin insanla ilişkisi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.1.2",
+      "title": "Grafik tasarım eleman ve ilkelerini kullanarak ürün tasarlar",
+      "processComponents": [
+        "Hayali bir kurum, kuruluş veya ürün üzerinde sanat/tasarım elemanları çizgi, renk, doku, mekân, biçim/form ile denge, simetri, vurgu, ritim, çeşitlilik, hareket, oran-orantı, bütünlük vb. sanat/tasarım ilkelerini kullanarak logo veya amblem tasarlaması üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.1.3",
+      "title": "Tasarladığı grafik tasarım ürününü geri bildirimler doğrultusunda yeniden yapılandırır",
+      "processComponents": []
+    },
+    {
+      "code": "TT.8.C.1.4",
+      "title": "Yayın grafiği tasarımı kavramını açıklar",
+      "processComponents": [
+        "Kitap, dergi ve gazete gibi masaüstü yayıncılık ürünlerinden örnekler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.1.5",
+      "title": "Mizanpaj ilkelerini açıklar",
+      "processComponents": [
+        "Bir gazete veya derginin sayfa düzenini (mizanpaj) oluşturan çeşitli ögelerin açıklanması; bir sayfa tasarımında anlatımı oluşturan (kompozisyonun) vurgu, odak noktası oluşturma, birlik, elemanlar arası geçiş, çeşitlilik ve karşıtlık gibi temel bileşenler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.1.6",
+      "title": "Mizanpaj ilkelerini kullanarak bir tasarım oluşturur",
+      "processComponents": [
+        "Kitap, dergi ve gazete gibi masaüstü yayıncılık ürünlerinden biri, grup çalışması yapılarak tasarlanır."
+      ]
+    },
+    {
+      "code": "TT.8.C.1.7",
+      "title": "Seçtiği herhangi bir ürün için tanıtım ve pazarlama tekniklerini uygular",
+      "processComponents": [
+        "Tanıtım ve pazarlama teknileri olarak marka, reklam senaryosu ve reklam filmi hazırlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Yapılı Çevre ve Ürün",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf"
+}

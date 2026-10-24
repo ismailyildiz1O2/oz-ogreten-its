@@ -1,0 +1,41 @@
+{
+  "unitId": 81424140,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "140. ÜNİTE: MİNYATÜR - MİNYATÜR SANATINDA KULLANILAN MALZEMELER VE STİLİZASYON",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.5.3.1",
+      "title": "Minyatür sanatında kullanılan malzemeleri listeler",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.3.2",
+      "title": "Bitkilerin stilizasyonunu yapar",
+      "processComponents": [
+        "Objelerin doğadaki biçimlerinin şematikleştirilip yalınlaştırılarak betimlenmesine stilizasyon denir. Stilizasyon çalışmasında nesnenin karakter özelliklerinin bozulmadan sadeleştirme yöntemleri anlatılır."
+      ]
+    },
+    {
+      "code": "GTSA.5.3.3",
+      "title": "Hayvan figürlerinin stilizasyonunu yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.3.4",
+      "title": "İnsan figürlerinin stilizasyonunu yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

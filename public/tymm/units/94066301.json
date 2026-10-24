@@ -1,0 +1,93 @@
+{
+  "unitId": 94066301,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Türkçe Dersi",
+  "title": "1. ÖĞRENME ALANI: DİNLEME/İZLEME",
+  "hours": "30",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.4.1.1",
+      "title": "Görselden/görsellerden hareketle dinleyeceği/izleyeceği metnin konusunu tahmin eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.2",
+      "title": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.3",
+      "title": "Dinlediği/izlediği metni ana hatlarıyla anlatır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.4",
+      "title": "Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.5",
+      "title": "Dinlediklerinin/izlediklerinin konusunu belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.6",
+      "title": "Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.7",
+      "title": "Dinlediklerine/izlediklerine yönelik sorulara cevap verir",
+      "processComponents": [
+        "Olay, şahıs, varlık kadrosu ve mekâna yönelik sorular (ne, kim, nerede, nasıl, neden ve ne zaman) yöneltilir."
+      ]
+    },
+    {
+      "code": "T.4.1.8",
+      "title": "Dinlediklerine/izlediklerine farklı başlıklar önerir",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.9",
+      "title": "Dinledikleriyle/izledikleriyle ilgili görüşlerini ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.10",
+      "title": "Dinlediği/izlediği hikâye edici metinleri canlandırır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.1.11",
+      "title": "Dinlediklerinin/izlediklerinin içeriğini değerlendirir",
+      "processComponents": [
+        "Öğrencilere medya metinleri (reklam, kamu spotu vb.) dinletilerek/izletilerek bunların hedef kitlesi ve amacı hakkında çıkarımda bulunmaları sağlanır.",
+        "Öğrencilerin dinledikleri/izlediklerinin içeriğini tutarlılık açısından sorgulamaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.1.12",
+      "title": "Dinleme stratejilerini uygular",
+      "processComponents": [
+        "Öğrencilerin dikkatlerini yoğunlaştırmaları sağlanır.",
+        "Dinlerken/izlerken hoşuna giden cümleleri, önemli bilgileri vb. not almaları konusunda teşvik edilir."
+      ]
+    },
+    {
+      "code": "T.4.1.13",
+      "title": "Konuşmacının sözlü olmayan mesajlarını kavrar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

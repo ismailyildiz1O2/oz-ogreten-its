@@ -1,0 +1,74 @@
+{
+  "unitId": 1629,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Astronomi ve Uzay Bilimleri Dersi",
+  "title": "4. Ünite: Kozmoloji",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AST.4.1",
+      "title": "Evrenin oluşumuyla ilgili teoriler hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) Evrenin oluşumuyla ilgili çeşitli teorileri sorgular.",
+        "b) Evrenin oluşumuyla ilgili teorilerin güçlü ve zayıf yönleri hakkında akıl yürütür.",
+        "c) Akıl yürütmesinin sonucunda ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "AST.4.2",
+      "title": "Evrenin genişleme hızına ilişkin hesaplamalar yaparak evrenin geleceği ile ilgili bilimsel veriye dayalı tahminde bulunabilme",
+      "processComponents": [
+        "a) Evrenin genişlemesiyle ilgili verilere ve ön bilgilere dayalı önermeler oluşturur.",
+        "b) Evrenin genişlemesine ilişkin verilere dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Evrenin genişleme hızını hesaplayarak evrenin geleceğine yönelik tahminde bulunur.",
+        "ç) Tahminlerinin geçerliğini sorgular."
+      ]
+    },
+    {
+      "code": "AST.4.3",
+      "title": "Evrendeki büyük ölçekli yapılar ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Evrendeki büyük ölçekli yapılar ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak evrendeki büyük ölçekli yapılar ile ilgili bilgileri bulur.",
+        "c) Evrendeki büyük ölçekli yapılar hakkında ulaşılan bilgileri doğrular.",
+        "ç) Evrendeki büyük ölçekli yapılar hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "AST.4.4",
+      "title": "Evrenin muhtemel sonu ile ilgili bilimsel verileri kullanarak farklı senaryolar hakkında tartışabilme",
+      "processComponents": [
+        "a) Evrenin muhtemel sonuyla ilgili bilimsel verilere dayanarak mantıksal temellendirme yapar.",
+        "b) Farklı senaryolar arasındaki mantıksal çelişkileri ve/veya tutarsızlıkları tespit eder.",
+        "c) Bilimsel verilere dayalı olarak farklı senaryoları çürütür veya kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "büyük patlama, evren, ipliksi yapı, süper küme, yerel küme",
+  "support": [
+    "Öğrenciler küçük gruplar hâlinde çalışarak evrenin oluşumuyla ilgili teorileri inceleyebilir. Öğrencilere evrenin genişlemesini gösteren video veya animasyon izletilebilir. Evrenin büyük ölçekli yapılarını açıklamak için ölçeklendirilmiş modeller veya analojilerden yararlanılabilir."
+  ],
+  "enrichment": [
+    "Evrenin genişleme hızındaki değişimler (kozmik ivme) ve değişimlerin etkileri neden-sonuç ilişkisi içinde analiz edilip bu konuda rapor hazırlanabilir. Sloan Dijital Gökyüzü Araştırması veri tabanından seçilen gök adaların Dünya’ya uzaklıkları ve kırmızıya kayma değerlerinden yararlanılarak gök adaların uzaklaşma hızları hesaplanabilir ve gök adaların hız ve uzaklık verilerinden yararlanarak çizilecek bir grafik yardımıyla Hubble sabiti hesaplanabilir. İllustris Projesi hakkında araştırma yapılarak elde edilen bilgiler dijital sunu hâline getirilip sınıfta sunulabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, yansıtıcı yazı, öz değerlendirme formu, analitik dereceli puanlama anahtarı kullanarak değerlendirilebilir. Performans görevi olarak öğrenciler, öğretmenin rehberliğinde sekizer kişilik gruplara ayrılarak karanlık madde ve karanlık enerjinin varlığını destekleyen teorileri araştırır ve buldukları sonuçları bilgi görseli hâline getirerek arkadaşlarına sunabilir. Performans görevi öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AST.4.1.",
+    "Evrenin oluşumuyla ilgili çeşitli teorilerin (büyük patlama teorisi, sabit durum teorisi, salınımlı evren teorisi, çoklu evrenler teorisi, sicim teorisi) temel prensipleri ve varsa bu teorileri destekleyen kanıtlar öğrenciler tarafından incelenir. Öğrencilerin evrenin oluşumu ile ilgili verilen teorileri sorgulamaları sağlanır. Kanıtların güvenilirliği, sınırlılığı, bu kanıtların nasıl değerlendirildiği ve yorumlandığı tartışılır. Öğrencilerden her bir teoriyi ele alarak teorilerin evrenin oluşumuyla ilgili hangi sorulara cevap verdiği, hangi sorulara cevap veremediği, teorinin güçlü ve zayıf yönleriyle ilgili akıl yürütmeleri istenir ( E3.10 , SDB3.3 , KB2.10 ). Öğrencilerin akıl yürütme ile ulaştığı çıkarımları ve hangi teorilerin kendilerine daha mantıklı geldiğini ifade ederek yansıtmaları sağlanır ( KB2.15 ). Öğrenciler farklı bakış açılarını değerlendirerek kendi fikirlerini savunurlar. Bu ortamın olumlu iletişim ve saygı çerçevesinde yürütülmesi sağlanır ( SDB2.1 , D14.1 ). Öğrenme süreci sonunda öğrencilerden öğrenmelerini öz değerlendirme formuyla değerlendirmeleri istenebilir.",
+    "AST.4.2.",
+    "Öğrencilere evrenin genişlemesinin büyük patlama teorisinin kanıtlarından biri olduğu hatırlatılır ve konuyla ilgili okuma parçası veya makale verilir. Okuma parçasında veya makalede Edwin Hubble’ın galaksilerin uzaklıkları ve hızları arasındaki ilişkiyi gösteren gözlem verileri öğrencilere sunulur. Öğretmen sınıfta evrenin genişlemesiyle ilgili balon analojisi yapar. Öğrenciler evrenin genişlemesiyle ilgili bilimsel verilere ve/veya ön bilgilere dayalı çeşitli önermeler oluşturur ve bu önermelerin hangilerinin verilere dayalı olduğunu, hangilerinin verilere dayalı olmadığını gerekçeleriyle açıklar ( E3.10 , OB7 , KB2.7 ). Öğrenciler farklı tarihlerde kabul edilen Hubble sabiti ve Hubble yasasından yola çıkarak evrenin genişleme hızını hesaplar. Öğrencilerden genişleme hızındaki değişime göre evrenin geleceğiyle ilgili tahminlerde bulunmaları istenir. Tahminde bulunma sürecinde evrenin sonu ile ilgili teorilere girilmemesine dikkat edilir. Yapılan tahminlerin geçerliliği ve olası hataları tartışılır ve tartışma esnasında öğrencilerin birbirlerinin düşüncelerini anlamaya çalışmaları sağlanır ( SDB2.1 , D4.2 ). Karanlık enerji ve karanlık madde hakkında bilgi verilir ve bu kavramların evrenin genişlemesi üzerindeki etkileri tartışılır. Öğrenme süreci sonunda öğrencilerden yansıtıcı yazı yazmaları istenir. Performans görevi olarak öğrenciler, öğretmenin rehberliğinde sekizer kişilik gruplara ayrılarak karanlık madde ve karanlık enerjinin varlığını destekleyen teorileri araştırır ve bulduğu sonuçları bilgi görseli hâline getirerek arkadaşlarına sunabilir ( SDB2.2 ). Performans görevi öğretmen tarafından analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "AST.4.3.",
+    "Öğrenciler; öğretmenin rehberliğinde gruplara ayrılarak evrende bulunan büyük ölçekli yapıları (yerel küme, süper küme, ipliksi yapılar) ve bu yapıların bileşenlerini, bu bileşenlerin birbirlerine uzaklığını ve etkilerini öğrendikleri fizik yasalarıyla ilişkilendirerek açıklayabilmek için bir araştırma planı hazırlar ( SDB2.1 ).",
+    "Öğrencilerden ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Öğrencilerin bilgiye ulaşmak için kütüphane, güvenilir genel ağ adresleri, uzman kişiler, kurumlar gibi kaynaklardan yararlanmaları ve merak ettikleri soruları sormaları sağlanır ( E3.4 , E3.8 , OB1 , OB2 ). Gruplardan belirledikleri aracı kullanarak evrenin büyük ölçekli yapıları hakkında bilgi toplamaları istenir. Öğrencilerin elde ettiği bilgileri arkadaşları ile tartışarak doğrulamaları beklenir ( D11.2 , OB1 , OB7 ). Araştırma sonucunda elde edilen sonuçlar poster veya sunum şeklinde hazırlanabilir. Öğrencilerin sınıf içi sunumları sırasında doğruladıkları bilgileri kaydetmeleri istenir (OB1). Öğrencilerden araştırma ve değerlendirme süreci ile ilgili öz değerlendirme formu doldurmaları istenebilir. Öğrencilerden bu süreçte görev bilinciyle hareket ederek sorumluluk almaları ve planlı şekilde çalışmaları beklenir ( E2.2 , D3.2 , D16.3 ).",
+    "AST.4.4.",
+    "Öğrencilere evrenin muhtemel sonuyla ilgili oluşturulan modellerde kullanılan bilimsel verileri açıklayan bir metin verilir. Bu verilerden birinin entropi diğerinin ise evrendeki madde, karanlık madde, karanlık enerji miktarının dikkate alındığı evrenin yoğunluk değeri olduğu bilgisi verilir. Entropinin genel olarak bir sistemdeki düzensizliğin ölçüsü olduğu ve evrenin de yalıtılmış bir sistem olması nedeniyle büyük patlama anında düşük entropiye sahipken yüksek entropili duruma doğru ilerlediği ifade edilir. Diğer bir ifadeyle evrenin düzenden düzensizliğe doğru gittiği bilgisi verilir. Öğrenciler sunulan bilimsel verilere dayanarak evrenin muhtemel sonuna ilişkin mantıksal temellendirme yapar. Öğrenciler evrenin muhtemel sonu ile ilgili farklı senaryoları analiz eder ve bunlar arasındaki mantıksal çelişkileri veya tutarsızlıkları belirlerler ( SDB2.1 , E3.10 ). Öğrenciler tespit ettikleri çelişkileri bilimsel verilere dayandırarak açıklar ve bu çelişkilerin neden kaynaklandığını tartışır. Öğrenciler tespit ettikleri çelişkileri bilimsel verilere dayandırarak açıklar ve bu çelişkilerin neden kaynaklandığını tartışır, bu süreçte senaryoları çürütür veya kabul ederler ( SDB3.1 , D14.1 ). Son olarak öğrenciler tartışma sürecinde ulaştıkları sonuçları arkadaşlarıyla paylaşarak evrenin muhtemel sonu hakkında fikirlerini belirtir. Öğrenmeler açık uçlu sorularla değerlendirilebilir."
+  ],
+  "skills": [
+    "FBAB4. Bilimsel Veriye Dayalı Tahmin"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1629"
+}

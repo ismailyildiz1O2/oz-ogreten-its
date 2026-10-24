@@ -1,0 +1,53 @@
+{
+  "unitId": 81663034,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "34. ÜNİTE: PROGRAMLAMA DİLLERİ (PHP) - 1. ÜNİTE: PHP TEMEL KAVRAMLAR",
+  "hours": "18",
+  "description": "Bu ünitede, PHP programlama dilinin hangi ortamda çalıştığı ve nasıl kurulacağı konularına değinilmiştir.",
+  "outcomes": [
+    {
+      "code": "BTY.34.1",
+      "title": "Sunucu ve istemci tarafında çalışma mantığını kavrar",
+      "processComponents": [
+        "Sunucu ve istemci kavramları açıklanır.",
+        "Sunucu tarafında çalışan yapılardan bahsedilir. Javascript kısaca açıklanır ve PHP programlama dili ile arasındaki farklar anlatılır.",
+        "Sunucu ve istemci tarafında çalışan yapıların farkları anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.34.2",
+      "title": "PHP programlama dili için gerekli programları tanır",
+      "processComponents": [
+        "PHP programlama dilinin çalışması için gerekli olan programlar tanıtılır.",
+        "Gerekli olan programların işlevleri açıklanır.",
+        "Her bir programın ne işlem yaptığından bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.34.3",
+      "title": "PHP programlama dili için gerekli programların kurulumunu yapar",
+      "processComponents": [
+        "Bilgisayarda uygulamalı olarak gerekli programların kurulumu yaptırılır.",
+        "Kurulum adımları açıklanarak, farklı yol ve yöntemlerin kullanılabileceğinden bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.34.4",
+      "title": "PHP programlama dilinin farklı işletim sistemlerinde nasıl çalıştığını kavrar",
+      "processComponents": [
+        "PHP programlama dilinin çalışabildiği her bir işletim sisteminde nasıl çalıştığından bahsedilir.",
+        "İşletim sistemlerinde PHP programlama dilinin çalışmasındaki farklar, avantajlar ve dezavantajlar anlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

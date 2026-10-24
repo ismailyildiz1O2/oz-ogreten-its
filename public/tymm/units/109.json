@@ -1,0 +1,67 @@
+{
+  "unitId": 109,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "5. TEMA: NESNELERİN GEOMETRİSİ (1)",
+  "hours": "15",
+  "description": "Bu temada öğrencilerin yer, yön ve konum bildiren kavramları belirleyebilmesi; yönergeleri kullanarak başlangıç noktası ve hedef arasında ilişki kurabilmesi ve yönergeleri uygulayarak hedefe ulaşabilmesi amaçlanmaktadır. Ayrıca bu temada öğrencilerin çevresinde gördüğü nesnelerin eşini bulmak için rengi, boyu, şekli gibi görsel özelliklerini ölçüt olarak belirleyebilmesi; belirlediği ölçütü kullanarak eş olabilecek nesnelerin bilgilerine ulaşması ve ulaştığı bilgiler doğrultusunda nesnelerin eşliği hakkında yargıda bulunabilmesi amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "MAT.1.3.1",
+      "title": "Hedefe ulaşmak için mesafeleri ve yönleri içeren yönergeleri çözümleyebilme",
+      "processComponents": [
+        "a) Yönergede yer alan mesafe ve yönleri içeren kavramları belirler.",
+        "b) Yönergeleri kullanarak başlangıç noktası ve hedef arasında ilişki kurar."
+      ]
+    },
+    {
+      "code": "MAT.1.3.2",
+      "title": "Nesnelerin eşliğini değerlendirebilme",
+      "processComponents": [
+        "a) Nesnelerin eşliği için bir ölçüt belirler.",
+        "b) Ölçüte uygun bilgileri kullanarak ölçme yapar.",
+        "c) Yapılan ölçmeye dayalı olarak elde ettiği sonuçları ölçüt ile karşılaştırır.",
+        "ç) Karşılaştırmalarına ilişkin olarak yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "• yer, yön, konum, hareket, referans noktası, altında, üstünde, etrafında, arasında, önünde, arkasında, yüksekte, alçakta, uzakta, yakında, içinde, dışında, sağında, solunda, çukurda, tümsekte, ileri, geri, eş, eşlik, aynı, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrencinin kendi konumunu referans almasını kolaylaştıracak nesneler ya da görseller belirlenir. Ayrıca yönergeler, ok işaretleri veya diğer görsel işaretler de konumu belirtmeye yönelik görseller olarak nitelendirilir. Bu tür belirteçler, öğrencilerin çevrelerini daha iyi anlamalarını, konumlarını belirlemelerini ve yönlerini bulmalarını kolaylaştırmak için kullanılır. Yer, yön ve konum içeren çalışmalarda ise daha fazla araç gereçten yararlanılarak etkinlikler planlanır. Öğrencilerin günlük yaşamda sıklıkla kullandığı ve ilgi duyduğu nesnelerin görsel özelliklerinin kullanıldığı etkileşimli ve etkileşimsiz etkinlikler tasarlanır."
+  ],
+  "enrichment": [
+    "Öğrenme-öğretme uygulamaları sürecinde oryantiring sporundan faydalanılır. Yer, yön ve konum içeren dijital içerikli oyunlar oynatılır ve zorluk dereceleri arttırılarak süreç çeşitlendirilir. Eş şekiller oluşturmak amacıyla afiş çalışması yapılır."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; gözlem formu, performans görevi, görüşme formu, çalışma kâğıdı, kontrol listesi ile değerlendirilebilir. Öğrencilerin belirlenen bir hedefe ulaşmak için mesafeleri ve yönleri içeren yönergeleri çözümlemesine ilişkin bir performans görevi verilebilir. Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.1.3.1 Günlük yaşam durumlarında yer, yön (ileri ve geri) ve konum bildiren (altında, üstünde, etrafında, önünde, arkasında, arasında, yüksekte, alçakta, uzakta, yakında, içinde, dışında, sağında, solunda, çukurda, tümsekte) ifadelere yönelik merak uyandıran etkinliklerle ya da akranlarıyla vakit geçirebileceği eğitsel oyunlarla konuya giriş yapılır ( E1.1 , E2.5 , D4.4 ) . Yer, yön ve konum bildiren kavramların öğretiminde kavramlar tek tek veya birden fazla kavramın birbiriyle ilişkili olduğu şekilde bir süreç gerçekleştirilir. Örneğin sabit ve hareketli bir nesnenin yer aldığı bir görselde, sabit nesne referans noktası alınarak hareketli nesnenin sabit nesneye ulaşmasına ilişkin yön tarifinde bulunulması istenir ( OB4 ) . Oyun ve etkinliklerde hedefe ulaştıracak olay örgüsü tasarlanır ( E2.5 ) . Hedefe ulaşırken kullanacağı yer, yön ve konum belirten yönergelerin bulunduğu görev listeleri hazırlanır. Görev listelerindeki hedefin ve yönergelerin belirlenmesinde ise öğrencilerin günlük yaşamdaki gözlemlerinden yararlanılarak çevrelerinde sıklıkla karşılaştıkları yer ve yön gösteren görsel işaretler kullanılır ( KB2.2 ) . Öğrencilerin yer, yön ve konum ifadelerini amacına uygun kullanabilmek için öncelikle konumuna dair referans bilgisine ihtiyacı olduğunu ( OB1 ) fark etmeleri sağlanır. Konumuyla hedef arasındaki mesafe ve yönleri içeren yönergeleri karşılaştırarak gözden geçirmeleri sağlanır ( KB2.7 ) . Bir konumdan diğerine giderken izleyecekleri yolu ve yönergeler arasındaki ilişkileri zihinsel görselleştirme ile sıralamaları istenir ( OB4 ) . Başlangıç, süreç ve sonuç ilişkisi kurulur. Bu yönergeleri sırasıyla uygulayarak belirlenen hedefe ulaşabilecekleri bir plan oluşturulur ( D3.2 ) . Etkinliklerde birden fazla hareket bildiren mesafe yönergelerine yer verilir. Öğrencilerin öğrenme çıktısına ulaşma durumlarını belirlemek amacıyla çalışma kâğıdı kullanılabilir. Öğrencilerin bulundukları yerden okula gelirken izledikleri yol için mesafeleri ve yönleri çözümlediği bir performans görevi verilebilir ( SDB1.1 ) . Değerlendirme amacıyla da bütüncül dereceli puanlama anahtarı kullanılabilir. Ayrıca öğrencilerin bu süreçteki gelişimlerini görmek ve görev listesinde bulunan yönergelerin uygulama durumunu belirlemek amacıyla gözlem formu ve görüşme formları kullanılabilir.",
+    "MAT.1.3.2 Öğrenme-öğretme uygulamalarına görseller arası eşleştirme etkinlikleri ve eşini bulma gibi merak duygularını harekete geçirebilecek oyunlarla konuya başlanır ( E1.1 , E2.5 ) . Günlük yaşamda karşılaşılan veya sınıf içerisinde bulunan eş nesneler renk, boy ve şekil gibi biçimsel özellikleri yönünden karşılaştırma yapılarak eşlik kavratılır ( KB2.7 ) . Eşlik kavramının eşitlik kavramından farklı olduğu ve sayıların miktar olarak aynı olması durumuna eşitlik denildiği ifade edilir. Öğrencilerden nesnelerin eşini bulmaları istendiğinde öncelikle görsel özelliklerini sınırlamaları ve ölçütünü belirlemeleri istenir.",
+    "Öğrencilerden belirledikleri renk, şekil ve büyüklük gibi ölçütleri kullanarak gözlem yapmaları ve nesnelerin görsel özelliklerini incelemeleri istenir ( KB2.2 , E3.2 ) . Ölçüt ile gözlemlenen özellikler karşılaştırılır ( KB2.7 ) . Elde edilen sonuca göre nesnenin eşi ha kında yargıda bulunulur. Görseller arasından nesnelerin eşlerine ulaşabilmelerini değerlendirmek için kontrol listesi kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2",
+      "D4.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/109"
+}

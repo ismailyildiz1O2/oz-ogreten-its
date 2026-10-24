@@ -1,0 +1,163 @@
+{
+  "unitId": 161,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "1. TEMA: ETKİLEŞİM",
+  "hours": "48",
+  "description": "Bu tema Enerji ve Kimyasal Tepkimelerde Hız olmak üzere iki farklı bölümden oluşmaktadır. Bu temada öğrencilerin fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin deney yapmaları, çeşitli maddelerin enerji kaynağı olma potansiyeline ilişkin hipotezler oluşturmaları, bağ enerjileri üzerinden tepkimelerin entalpi değişimine ilişkin akıl yürütmeleri, standart oluşum entalpi verileri üzerinden kimyasal tepkimelerin entalpi değişimini tahmin etmeleri, kimyasal tepkimelerin gerçekleşme şartlarını açıklamaya yönelik kanıt kullanmaları, kimyasal tepkimelerin hızını bilimsel veriye dayalı tahmin etmeleri, kimyasal tepkimelerin hızını etkileyen faktörlere ilişkin bilimsel sorgulama yapmaları, kimyasal tepkimelerin hız denklemini bilimsel veriye dayalı tahmin etmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.11.1.1",
+      "title": "Fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin deney yapabilme",
+      "processComponents": [
+        "a) Fiziksel ve kimyasal olaylardaki enerji değişimini gözlemlemek amacıyla deney tasarlar ve tasarladığı deneyi gerçekleştirir.",
+        "b) Fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin elde ettiği sonuçları günlük hayattaki olayları açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "KİM.11.1.2",
+      "title": "Maddelerin enerji kaynağı olma potansiyeline ilişkin hipotezler oluşturabilme",
+      "processComponents": [
+        "a) Yanma tepkimeleri temelinde maddelerin enerji kaynağı olma potansiyeline ilişkin problemleri tanımlar.",
+        "b) Yanma tepkimeleri temelinde maddelerin enerji kaynağı olma potansiyeline ilişkin neden-sonuç ilişkilerini belirler.",
+        "c) Maddelerin enerji kaynağı olma potansiyellerinin tespitine yönelik oluşturduğu neden-sonuç ilişkileri temelinde bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler.",
+        "ç) Değişkenler arasındaki ilişkiyi belirlemek üzere deneyler yapar.",
+        "d) Deneyler sonucunda yakıtların veya canlılara enerji veren maddelerin enerji kaynağı olma potansiyeline ilişkin önermelerini bilimsel veriler temelinde geliştirir."
+      ]
+    },
+    {
+      "code": "KİM.11.1.3",
+      "title": "Bağ enerjileri temelinde tepkimelerin entalpi değişimine ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Farklı tepkimelerde kırılan ve oluşan bağların enerjileri ile tepkimelerin entalpi değişimi arasında keşfettiği örüntüyü matematiksel olarak modeller.",
+        "b) Matematiksel modelini kullanarak bir tepkimenin endotermik ya da ekzotermik olma durumuna ilişkin genellemeler yapar."
+      ]
+    },
+    {
+      "code": "KİM.11.1.4",
+      "title": "Kimyasal tepkimelerin standart tepkime entalpilerini standart oluşum entalpi verilerini kullanarak tahmin edebilme",
+      "processComponents": [
+        "a) Standart oluşum entalpi verileri üzerinden kimyasal tepkimelerin standart tepkime entalpilerinin hesaplanmasına ilişkin önermeler oluşturur.",
+        "b) Entalpi değişimine ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Standart oluşum entalpi verileriyle farklı tepkimelerin standart tepkime entalpilerini hesaplar.",
+        "ç) Standart tepkime entalpi hesaplamalarının sonuçlarını önermelerinin geçerliliğini sorgulamak için kullanır."
+      ]
+    },
+    {
+      "code": "KİM.11.1.5",
+      "title": "Kimyasal tepkimelerin gerçekleşme şartlarını açıklamak için kanıt kullanabilme",
+      "processComponents": [
+        "a) Kimyasal tepkimelerin gerçekleşmesi için gerekli şartları belirlemeye yönelik ölçütler (gerekli enerji ve uygun doğrultuda çarpışma) oluşturur.",
+        "b) Kimyasal tepkimelerin oluşum sürecine ilişkin alt mikro seviyedeki gösterimlerden seçtiği verilerden örüntüler oluşturur.",
+        "c) Kimyasal tepkimelerin gerçekleşme şartlarına yönelik iddialarını veriye dayalı olarak açıklayarak bu açıklamalarını desteklemek için çarpışma teorisi ile sembolik modelleri kullanır."
+      ]
+    },
+    {
+      "code": "KİM.11.1.6",
+      "title": "Tepkime hızının zamanla değişimini bilimsel veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Bir kimyasal tepkimede tepken ve ürünlerin derişimlerinin zamanla değişimi ile ilgili hazır verileri kullanarak tepkime hızının zamanla değişimine ilişkin önermeler oluşturur.",
+        "b) Tepkime hızının zamanla değişimine ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Bir tepkimenin farklı zaman aralıklarındaki ortalama hızlarına ilişkin hesaplamalar yapar.",
+        "ç) Tepkime hızının zamanla değişimine ilişkin çıkarımlarının geçerliliğini çarpışma teorisi temelinde sorgular."
+      ]
+    },
+    {
+      "code": "KİM.11.1.7",
+      "title": "Tepkime hızına etki eden faktörleri bilimsel sorgulayabilme",
+      "processComponents": [
+        "a) Tepken cinsinin, fiziksel hâlin, tepken derişiminin, sıcaklığın, katı tepkenin temas yüzeyinin ve katalizörün tepkime hızına etkisine ilişkin araştırılabilir sorular oluşturur.",
+        "b) İlgili değişkenlerin tepkime hızına etkisini belirlemek üzere hipotezler oluşturur.",
+        "c) Tepken cinsinin, fiziksel hâlinin ve derişiminin, sıcaklığın, katı tepkenin temas yüzeyinin ve katalizörün tepkime hızına etkisine ilişkin bir deney planlar ve deneyi gerçekleştirir.",
+        "ç) Deney verilerini analiz ederek yorumlar.",
+        "d) Deney sonuçlarını kullanarak her bir değişkenin tepkime hızına etkisini alt mikro seviyede açıklar.",
+        "e) Tepkime hızına etki eden faktörleri çarpışma teorisi ile ilişkilendirir."
+      ]
+    },
+    {
+      "code": "KİM.11.1.8",
+      "title": "Kimyasal tepkimelerin hız denklemini bilimsel veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Bir tepkimenin tepken derişimlerine ve başlangıç hızlarına ait hazır veri seti kullanarak tepken derişiminin tepkime hızına etkisine ilişkin önermeler oluşturur.",
+        "b) Tepken derişiminin tepkime hızına etkisine ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Veri setini kullanarak belirlediği tepkimenin hız denkleminden hareketle tepken derişiminin tepkime hızına etkisine ilişkin tahminlerde bulunur.",
+        "ç) Kimyasal tepkimelerin hız denklemine ilişkin tahminlerinin geçerliliğini sorgular"
+      ]
+    }
+  ],
+  "keyConcepts": "aktivasyon enerjisi, bağ enerjisi, çarpışma teorisi, ekzotermik tepkime, endotermik tepkime, enerji, entalpi, hız sabiti, katalizör, ortalama tepkime hızı, standart oluşum entalpisi, tepkime derecesi, tepkime entalpisi, tepkime hızı",
+  "support": [
+    "Endotermik ve ekzotermik tepkimelerin anlaşılmasını kolaylaştırmak için gösteri deneyleri yapılabilir. Kimyasal tepkime sırasındaki ısınma ve soğuma süreçleri öğrenciler tarafından deneyimlenebilir. Tepkime hızına etki eden faktörlere yönelik bilimsel sorgulama yaptırmak yerine deney yapma becerisi kullanılabilir. Öğrenciler, problem durumuna karar verme ve deneyi tasarlama süreçleri yerine kendilerine verilen yönergeyi kullanarak deneyleri yapabilir. Bunun yanı sıra deneyler gösteri deneyi olarak yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere Enerji ve Kimyasal Tepkimelerde Hız konusu temelinde ilaç kapsüllerinin kimyasal yapısı, sindirim sisteminde çözünme süreci, çözünme hızı, çözünme sırasındaki enerji değişimi ve etki mekanizmasına yönelik proje görevleri verilebilir. Proje görevi ile Kimyasal Tepkimelerde Hız konusu ele alınırken aynı zamanda sağlık ile ilgili kavramlar da kullanılır. Aynı kapsamda ilaç kapsüllerinin mide ya da bağırsakta çözünmesine yönelik tercihlerin neler olabileceği veya aynı organda çözünme hızını artırmak ya da azaltmak amacıyla kapsül tasarımı olarak neler yapılabileceği ile ilgili proje görevleri verilebilir. İlaç kapsülünün tasarım sürecinde mevcut yapay zekâ uygulamalarından (Quantum Machine Learning Predicting ADME, ReactionDataExtractor 2.0 vb.) destek alınabilir. Benzer proje ödevi ilaç tabletleri için de gerçekleştirilebilir. Kapsüllerle ilgili proje görevinden farklı olarak tablet şeklindeki ilaçların etken maddesinin miktarı ile diğer yan maddelerin (dağıtıcı madde, dolgu maddesi; bağlayıcı, kaydırıcı, topaklanmayı önleyici maddeler, aroma ve renk verici maddeler vb.) oranlarının belirlenmesi, yan maddelerin tepkime sürecindeki enerji değişimleri ve hıza etkileri, sağlık açısından etkileri ve bitkisel kökenli alternatiflerinin denenmesi konularında da projelerin yapılması sağlanabilir. Tabletlerin kimyasal bileşimini belirlemede ve etkilerine ilişkin öngörülerin tespitinde yapay zekânın özellikle makine öğrenmesinin kullanımı tercih edilebilir. Ebu Bekir Razi'nin ilaçlar üzerine yaptığı çalışmalar konusunda araştırma görevi verilebilir. Öğrenciler, evsel atıkların kimyasal ve fiziksel değişim süreçlerinin toplum sağlığına etkilerini belirlemek amacıyla evsel atık örnekleri üzerinde deneyler yapabilir. Kimyasal analizler ile evsel atıkların içeriğini belirleyebilir. Öğrencilerden evsel atıkların içerikleri ve toplum sağlığına zararları ile ilgili kamu spotu oluşturmaları istenebilir. Böylece öğrencilerin bilgi ve sağlık okuryazarlığı ile görsel okuryazarlık becerilerinin işe koşulması desteklenebilir. Öğrenciler, toplumsal bilinci artırmak adına okullar ile iş birliği içerisinde seminerler düzenleyebilir. Bu durum, alt kademede öğrenim gören öğrencilerin evsel atık yönetimi konusunda fikir edinmelerini destekleyebilir.",
+    "Öğrencilere paslanma tepkimesindeki enerji değişiminin inceleneceği, paslanmanın önlenmesi için alınabilecek tedbirler, paslanma hızının yavaşlatılması için kullanılabilecek inhibitörler ve paslanma önleyici sıvıların tepkime hızına etki mekanizmasının inceleneceği projeler yaptırılabilir. Demirin paslanma sürecini görselleştiren animasyonlar ve farklı metallerin korozyon süreçlerini görselleştiren simülasyonlar kullanılabilir. Öğrencilerin mevcut yapay zekâ uygulamaları (Nvidia, Leonardo vb.) kullanarak paslanma sürecine ilişkin taslak çizimler yapmaları ve kendi içerikleri üzerinden simülasyonlar oluşturmaları sağlanabilir. Bunların yanı sıra öğrencilerden paslanmaz malzemelerin yapılarını incelemeleri ve \"İnşaatlarda kullanılabilecek ve korozyona uğramayacak ekonomik alternatifler oluşturulabilir mi?\" sorusuna cevap aramaları istenebilir.",
+    "*Hazır gıdaların içeriği ve kullanılan korucuyu maddelerin gıdanın bozunma hızına etkisinin inceleneceği proje görevleri verilebilir. Koruyucu maddelere alternatiflerinin denendiği ve bu alternatiflerin gıdanın bozunma hızı üzerine etkilerinin incelendiği projeler yaptırılabilir. \"Gelecekte karşılaşılabilecek bir gıda krizi için var olan gıdaların bozunma hızını düşürmeye ve raf ömrünü artırmaya yönelik neler yapılabilir?\" sorusu çerçevesinde proje görevleri de verilebilir. Öğrencilerin çeşitli kimyasal tepkimelerin enerji verimliliğini belirlemeleri amacıyla deneyler gerçekleştirmeleri ve tepkimelerin atom ekonomisi hesaplamalarını yapmaları sağlanabilir. Öğrencilerin yapay zekâ uygulamaları (Quantum Machine Learning Predicting ADME, ReactionDataExtractor 2.0 vb.) ile yeşil kimya ilkelerine uygun kimyasal tepkimeleri seçmeleri, tepkimelerin oluşum süreçlerini hızlandırmaları ve atom ekonomisini hesaplamaları sağlanabilir. Öğrencilere belirli endüstriyel süreçlerin tepkime entalpisi üzerindeki etkileri inceletilebilir. Finansal okuryazarlık becerileri işe koşularak bu süreçlerin maliyetleri hesaplatılabilir. Öğrencilerden kimyasal süreçleri ekonomik açıdan değerlendirmeleri, ekonomik fayda ve inovasyona yönelik öneriler geliştirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, çalışma yaprağı, sınıf içi tartışma, performans görevi ve deney raporu kullanılabilir.",
+    "Öğrenciler performans görevi çerçevesinde tepkenlerin cinsini ve fiziksel hâlini; derişim, sıcaklık, temas yüzeyi ve katalizörün tepkime hızına etkisini araştırmak için neden-sonuç ilişkisini ortaya koyacağı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Sürecin bütünü \"araştırma sorusunu, neden-sonuç ilişkisini, bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirleyebilme, deneyler yapabilme ve elde ettiği sonuçları bilimsel kuram ile destekleyebilme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrenciler, çeşitli malzemelerin enerji kaynağı olma potansiyelini araştırmak amacıyla bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Sürecin bütünü \"deney tasarım adımlarının takip edilerek çeşitli malzemelerin enerji kaynağı olma potansiyelinin belirlenebilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasındatoplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.11.1.1",
+    "Günlük hayatta karşılaşılan fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin örnekler sunularak tartışma ortamı oluşturulabilir. Böylece öğrencilerin etkili iletişim becerilerini kullanmaları, olaylar ve durumlar karşısında farklı bakış açıları olabileceğini kabul etmeleri sağlanabilir ( D14.1 , E2.1 ) . Öğrenciler, gruplara ayrılarak farklı fiziksel ve kimyasal olayların enerji değişimini gözlemleyebilecekleri deney düzeneklerini tasarlayarak deneylerini gerçekleştirir ( KB2.2 , OB7 ) . Öğrencilerden planlı olmaları, zamanı etkili bir şekilde yönetmeleri ve grup çalışmalarında uyumlu davranmaları beklenir. Bu şekilde çalışkanlık ve mütevazılık değerlerini kazanmaları desteklenir ( D3.2 , D10.3 ) . Öğrenciler, grup çalışması ve deney sürecinde hangi bilgileri nasıl öğrendiklerini, hangi duyguları yaşadıklarını ve istenmeyen durumlarda nasıl tepki verdiklerini sınıf içinde tartışır ( SDB1.1 , SDB2.2 ) . Öğrencilerin grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. Öğrenciler, deney sonuçlarına göre fiziksel ve kimyasal değişimleri ısıveren (ekzotermik) ve ısıalan (endotermik) değişimler olarak belirler. Deneyden elde ettikleri sonuçları günlük hayatta sık karşılaşılan olaylardaki enerji değişimini açıklamak için kullanır ( KB2.14 , OB7 ) . Öğrenciler, fiziksel ve kimyasal olaylardaki enerji değişimine ilişkin yaptıkları deneyi raporlayabilir. Sürecin bütünü \"öğrencilerin deney adımlarını takip ederek fiziksel ve kimyasal değişimleri ekzotermik ve endotermik değişimler olarak belirlemeleri, deneyden elde ettikleri çıktıları bilimsel bilgilerle karşılaştırabilmeleri ve günlük hayattaki olayları açıklamak için kullanabilmeleri\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen ve öğrenci tarafından değerlendirilebilir. Ayrıca öğrencilerden süreci geliştirmek için neler yapabilecekleri konusunda da kendilerini değerlendirmeleri istenebilir ( SDB1.2 , SDB1.3 , E3.10 ) .",
+    "KİM.11.1.2",
+    "Öğrenciler, verilen kimyasal tepkime örneklerini (yanma) ve bu tepkimelere ait ısıları inceleyerek tepkimeler sonucu açığa çıkan enerjileri karşılaştırır. Öğrencilerden yanma tepkimelerini inceleyerek oksijenle tepkimeye giren maddelerin enerji kaynağı olma potansiyeli ile ilgili fikir yürütmeleri istenir. Böylece öğrencilerin edindikleri bilgileri eleştirel bakış açısıyla değerlendirmesi sağlanarak çalışkanlık değeri kazanmaları desteklenir ( D3.3 ) . Öğrencilere enerji kaynağı olabilecek yakıtların ve canlıların hayatını sürdürebilmesi için gerekli enerji kaynaklarının neler olabileceği sorulabilir. Öğrencilerden çeşitli malzemelerin enerji kaynağı olma potansiyelini araştırmak üzere hipotezler oluşturmaları istenir. Enerji kaynağı olabilecek maddelerden (odun, kamp yakıtı, yağ, ceviz, fındık, badem, kabuklar, şeker, tatlandırıcı vb.) örnekler verilir ve öğrencilerin grup oluşturmaları sağlanarak seçtikleri maddelerin enerji kaynağı olma potansiyellerine ilişkin problemleri tanımlamaları ve araştırma soruları yazmaları sağlanır ( OB7 ) . Soruların araştırılabilir olup olmadığı sınıfça tartışıldıktan sonra gruplar, seçtikleri maddelerin enerji kaynağı olma potansiyeline ilişkin neden-sonuç ilişkilerini ve yapacakları deneye ilişkin bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler. Değişkenler arasındaki ilişkiyi belirlemek üzere deneyler tasarlar ve tasarladıkları deneyi gerçekleştirirler ( D3.2 , OB7 ) . Deney uygulamaları ile çalışkanlık değeri desteklenir. Gruplar, deney verileri temelinde seçtikleri yakıtların veya canlılara enerji veren maddelerin enerji kaynağı olma potansiyeline ilişkin önermeler sunarlar. Öğrenciler, deneysel veriler temelinde sundukları önermelerini bilimsel verilerden (ürünlerin etiketleri, kimyasal içerik vb.) hareketle karşılaştırır ve seçtikleri yakıtların yanma tepkimesine ait denklemi yazarlar. Çeşitli maddelerin oksijen ile yanması sonucu enerji açığa çıkmasından yola çıkılarak hidrojenin de bir enerji kaynağı olabileceği öğrencilere fark ettirilebilir. Enerji kaynaklarında yanma ürününün çoğunlukla sera gazı olduğu ancak hidrojen yandığında sera gazı çıkışı olmadığına dikkat çekilebilir. Yapay tatlandırıcılar ile enerji içeceklerinin enerji verme özellikleri ve yanma ürünlerinin canlı organizmada oluşturabileceği sağlık sorunları tartışmaya açılarak sağlıklı yaşam kapsamında değerlendirme yapılması istenebilir ( SDB2.3 , D13.1 ) . Enerji içeceği ve tatlandırıcıların su pireleri üzerindeki etkisinin mikroskop aracılığı ile veya deney videosu yardımıyla gözlemlenmesi sağlanabilir ( OB2 ) . Öğrenciler çeşitli maddelerin enerji kaynağı olma potansiyelini araştırmak amacıyla bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir ( SDB1.2 ).",
+    "KİM.11.1.3",
+    "Öğrencilere tekli bağlara veya çoklu bağlara ait ortalama bağ enerjilerinin listelendiği bir tablo verilir. Öğrencilerin tablodaki verileri incelemeleri ve bağ enerjilerinin birbirinden farklı olduğunu görmeleri sağlanır ( OB7 ) . Atmosferdeki azot gazının oksijenle kolay tepkime vermemesinin nedenine ilişkin tartışma ortamı oluşturulabilir. Kırılan ve oluşan bağların gösterildiği tepkimelerin denklemleri ve tepkimelerin entalpi değişimleri (ΔH°tepkime) verilir. Öğrenciler, tepkimelerin entalpi değişimi ile kırılan ve oluşan bağların enerjileri arasında örüntü keşfeder ve bu örüntüyü matematiksel olarak modeller ( D3.3 ) . Matematiksel modelini farklı tepkimelerin kırılan ve oluşan bağ enerjilerinden entalpi değişimlerini hesaplayarak test eder. Her bir tepkimeye ilişkin elde ettiği entalpi değişiminin negatif ya da pozitif olmasının gerekçesini potansiyel enerji-tepkime koordinatı grafiğinden yararlanarak açıklar ( OB7 ) . Tepkimelerin entalpi değişiminin pozitif veya negatif olma durumuna göre endotermik veya ekzotermik tepkimeler olarak sınıflanabileceği genellemesinin yapılması sağlanır ( KB2.16.1 ). Yapılan genellemelerin ardından öğrencilerden günlük hayatta karşılaştıkları ekzotermik ve endotermik olaylara ilişkin örnekler vermeleri istenebilir. Öğrencilerden çalışma yaprağında verilen tepkimelerin entalpi değişimlerini bağ enerjilerini kullanarak hesaplaması ve tepkimeleri endotermik ya da ekzotermik olarak sınıflaması istenebilir.",
+    "KİM.11.1.4",
+    "Öğrencilere çeşitli kimyasal tepkimeler ve bu tepkimelere ait standart oluşum entalpilerinin ve standart tepkime entalpilerinin yer aldığı bir tablo verilir. Öğrencilerden tepkimelerin standart tepkime entalpilerinin hesaplanmasına ilişkin önermeler oluşturmaları istenir ( OB7 ) . Öğrenciler, standart oluşum entalpi verilerine dayalı oluşturduğu önermeleri ile standart tepkime entalpilerine ilişkin ön bilgilerine dayalı olarak oluşturduğu veriye dayalı olmayan önermelerini karşılaştırmaları için yönlendirilir. Ardından öğrencilerin standart tepkime entalpilerinin hesaplanmasına ilişkin oluşturduğu önermede tablodaki standart oluşum entalpi verilerini kullanarak farklı tepkime örneklerinin standart tepkime entalpilerini hesaplamaları sağlanır ( OB7 ) . Öğrencilere tepkimelerin standart tepkime entalpilerinin hesaplanmasına ilişkin bilimsel matematiksel model verilir. Öğrencilerden hesaplamalarının sonucunu verilen matematiksel modelden elde ettiği hesaplama sonuçlarıyla karşılaştırarak sorgulamaları istenir. Öğrenciler, sorgulamalarını etkili iletişim kurarak sınıf içi tartışmalarla arkadaşlarıyla paylaşabilirler ( SDB2.1 , D14.1 , E2.2 ) . Etkinlik kâğıtları \"öğrencilerin önerme oluşturabilmeleri, standart tepkime entalpisini belirlemeye yönelik çıkarım yapabilmeleri, standart tepkime entalpisini hesaplayabilmeleri ve hesaplamalarıyla tahminlerini karşılaştırabilmeleri\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen ve öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.11.1.5",
+    "Öğrencilerin kimyasal bir tepkimenin oluşum sürecine ilişkin ön bilgilerinin ortaya çıkarıldığı bir tartışma ortamı oluşturulabilir. Uygulanan tartışma yöntemi ile öğrencilerin düşünce ve izlenimlerini etki altında kalmadan ifade etmeleri ve etkili iletişim becerilerini kullanmaları sağlanabilir ( SDB2.1 , D11.2 , D14.1 , E1.2 ) . Öğrencilerden günlük hayatta karşılaştıkları yemeklerin bozulması, metallerin paslanması gibi istenmeyen durumları kimyasal tepkimeler ile ilişkilendirmeleri ve bu tepkimelerin gerçekleşme şartlarını tartışarak çözüm üretmeleri istenebilir ( SDB3.3 , E1.4 ) . Tartışma süresince verilen günlük hayatta karşılaşılan kimyasal tepkime örnekleri üzerinden kimyasal bir değişimin gerçekleşme ya da gerçekleşmeme durumuna ilişkin ölçütler (gerekli enerji ve uygun doğrultuda çarpışma) belirlenmesi sağlanır. Kimyasal bir değişimin gerçekleşme ya da gerçekleşmeme durumunu alt mikro seviyede gözlemleyebilmeleri için çarpışma teorisi ile ilişkili görsel materyaller kullanılır. Öğrenciler, görsel materyallerden elde ettiği gözlem verilerini kullanarak bir kimyasal tepkimenin gerçekleşebilmesi için gerekli şartlar ile ilgili örüntüler oluşturur ( OB4 , E3.7 ) . Öğrencilerden kimyasal tepkimelerin gerçekleşme şartlarına yönelik iddialarını görsel materyallerden elde ettiği gözlem verilerine dayalı olarak açıklamaları istenir. Öğrencilere etkin çarpışma, eşik değeri, aktivasyon enerjisi ve aralarındaki ilişki açıklanır. Öğrenciler, açıklamalarını desteklemek için çarpışma teorisine ilişkin bilgileri ve sembolik modelleri kullanır. Etkinlik kâğıtları \"öğrencilerin bir tepkimenin gerçekleşmesi için gerekli şartları belirleyebilmek adına ölçütler geliştirebilmesi, gerekli şartlarla ilgili örüntü oluşturabilmesi, gerekli şartları sembolik modeller ve çarpışma teorisini kullanarak açıklayabilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen ve öğrenci tarafından değerlendirilebilir. Hazırlanan öz değerlendirme formu ile öğrenci kendi öğrenme sürecini de değerlendirebilir ( SDB1.2 , SDB1.3 ) .",
+    "KİM.11.1.6",
+    "Günlük hayatta karşılaşılan çok hızlı ve çok yavaş gerçekleşen tepkime örnekleri üzerinden tepkimelerin hızlarının farklı olabileceğine dikkat çekilir. Öğrencilere belirli bir tepkimeye ait tepken ve ürünlerin derişiminin zamanla değişimine ilişkin hazır veri seti verilir. Öğrenciler, bu veri setini kullanarak etkinlik kâğıdına derişim-zaman grafiğini çizer ( OB7 ) . Çizdiği derişim-zaman grafiğini kullanarak tepkime hızının zamanla değişimi ile ilgili önermeler oluşturur. Öğrenciler önermelerini arkadaşlarıyla paylaşabilir. Bunu yaparken öğrencilerin düşünce ve izlenimlerini etki altında kalmadan ifade etmeleri, arkadaşlarının sözünü kesmemeleri, arkadaşlarını etkin dinlemeleri gibi etkili iletişim becerilerini kullanmaları sağlanabilir ( SDB2.1 , D11.2 , D14.1 , E2.1 ) . Öğrenciler, tepkime hızının değişimine ilişkin derişim-zaman grafiğini kullanarak ulaştığı önermeleri ve tepkime hızları ile ilgili önceki bilgilerine dayalı olarak oluşturduğu önermeleri karşılaştırır ( OB1 ) . Tepkime hızı kavramı, tepken ve ürünlerin birim zamanda derişimlerindeki değişim temelinde hem sözel olarak hem de matematiksel bir eşitlikle tanımlanır. Ardından ortalama hız kavramı, derişim-zaman grafiği ile ilişkilendirilerek açıklanır. Öğrenciler, bu bilgileri kullanarak ellerindeki veri setinden verilen tepkimenin farklı zaman aralıklarına ilişkin ortalama hızlarını hesaplar ve tepkime hızının zamanla değişimine yönelik çıkarımda bulunur ( KB2.10 ) . Öğrencilerden tepkime hızının zamanla değişimini çarpışma teorisi ile ilişkilendirerek çıkarımlarının geçerliliğini sorgulamaları istenir ( OB1 ) . Etkinlik kâğıtları \"öğrencilerin derişim-zaman grafiklerini çizebilmesi, tepkime hızının zamanla değişimine ilişkin önerme oluşturabilmesi, matematiksel bir eşitlikle tepkime hızını hesaplayabilmesi ve çarpışma teorisi ile tepkime hızındaki değişimi açıklayabilmesi\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerden çalışma yaprağında verilen farklı tepkimeler üzerinden maddelerin harcanma ve oluşum hızlarını hesaplamaları istenebilir.",
+    "KİM.11.1.7",
+    "Öğrencilere farklı tepkimelerde tepkime hızındaki farklılığının nedenlerini sorgulayabilecekleri \"Sebze ya da meyveler neden buzdolabında saklanır?'', \"Kâğıdın yanması ile demirin paslanması olaylarında benzerlik ve farklılıklar nelerdir?'' gibi sorular sorulur. Öğrencilerden günlük hayattaki farklı örnek olaylar üzerinden kimyasal tepkimelerin hızını etkileyen faktörlere yönelik araştırılabilir sorular oluşturmaları istenir. Öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları; bilimsel gelişim için merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri sağlanır ( D3.3 ) . Öğrenciler; tepken cinsinin ve fiziksel hâlinin, tepken derişiminin, sıcaklığın, katı tepkenin temas yüzeyinin ve katalizörün tepkime hızına etkisini belirlemek üzere hipotezler oluşturur ( OB1 ) . Öğrencilerden gruplara ayrılmaları, arkadaşlarıyla iş birliği içinde kimyasal tepkimelerin hızına etki eden her bir faktörün tepkime hızı ile ilişkisine yönelik bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirlemeleri istenir. Bu şekilde çalışkanlık ve dostluk değeri desteklenir ( SDB2.2 , D3.3 , D4.1 ) . Öğrenciler, her bir faktörün tepkime hızına etkisini araştırmaları için deneyler planlamaları ve planladıkları deneyleri gerçekleştirmeleri için yönlendirilir. Buna alternatif olarak öğrenciler, deneyi sanal ortamlarda simülasyon veya yapay zekâ programları (IBM RXN for Chemistry, Chemputer, Chematica, ChemAl vb.) kullanarak da yapabilir ( OB2 ) . Böylece öğrencilerin görev ve sorumluluklarını yerine getirmeleri için etkili bir yol haritası çizmeleri, hedeflerine ulaşmak için hazırladıkları planı uygulamaları, güvenilir bilgiye ulaşma yollarını bilmeleri sağlanabilir ( SDB1.2 , D3.2 , D3.3 , E3.7 ) . Öğrenciler, deney verilerini yorumlayarak her bir değişkenin tepkime hızına etkisini alt mikro seviyede açıklar ( OB1 ) . Tepkime hızına etki eden faktörleri çarpışma teorisi ile ilişkilendirir. Çalışma öncesinde öğrencilerden bir form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini belirlemesi istenebilir ( SDB1.1 ) . Ayrıca öğrencilerden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve neleri daha farklı yapabileceğini belirlemesi istenebilir ( SDB1.2 , SDB1.3 ) . Öğrenciler performans görevi çerçevesinde tepkenlerin cinsi ve fiziksel hâlini; derişim, sıcaklık, temas yüzeyi ve katalizörün tepkime hızına etkisini araştırmak amacıyla neden sonuç ilişkisini ortaya koyacağı bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Öğrenciler, hazırlanan öz değerlendirme raporu ile deney sürecinde hedeflerine ulaşabilme düzeyine, öğrenme sürecini nasıl gerçekleştirdiğine, bu süreçte hangi duyguları yaşadığına ve neleri daha farklı yapabileceğine ilişkin kendi değerlendirmelerini yapabilir ( SDB1.1 , SDB1.3 ) .",
+    "KİM.11.1.8",
+    "Öğrencilere tek ve çok basamaklı tepkimelerde her deneyde bir tepkenin başlangıç derişimi değiştirilirken diğer tepken ya da tepkenlerin derişimlerinin sabit tutulduğu şartlarda tepkimelerin başlangıç hızlarının (t = 0 s) belirlendiği bir dizi deneye ilişkin tepken derişimleri-başlangıç tepkime hız verileri verilir. Öğrenciler, hazır veri setini inceleyerek tepken derişiminin tepkime hızına etkisine ilişkin önermeler oluşturur ( OB7 ) . Öğrencilerin tepken derişimindeki değişimin tepkime hızına etkisine ilişkin veriye dayalı olan önermeleri ile tepkime hızına ilişkin ön bilgilerinden hareketle oluşturduğu, veriye dayalı olmayan önermelerini karşılaştırmaları sağlanır. Öğrencilerden inceledikleri tepkimenin tepken derişimlerinden biri sabit iken diğerinin değiştiği farklı deneylere ait başlangıç hızlarını ve başlangıç derişimlerini karşılaştırarak her bir tepken derişimindeki değişimin tepkime hızına etkisini matematiksel olarak modelleyebilmeleri amacıyla hesaplamalar yapmaları istenir. Öğrenciler bu hesaplamalar sonucunda tepkenlerin tepkime hızına etkisini gösteren, bir matematiksel model olan hız denklemini belirler. Hız denklemine ait orantı sabiti k hız sabiti olarak tanımlanır. Öğrencilerin tepken derişiminin tepkime hızına etkisine ilişkin tahminde bulunmaları sağlanır. Öğrencilerden tepkime denklemindeki tepkenlerin üstel sayılarını kullanarak tepkime derecesini belirlemeleri istenir. Öğrenciler, tepken derişimindeki değişimin tepkime hız denklemine etkisine ilişkin tahminlerinin geçerliliğini bilimsel bilgilere dayalı olarak sorgular ( E3.10 , OB7 ) . Öğrencilerden çalışma yaprağında verilen tepkimeler üzerinden tepkime hız denklemini, hız sabitini ve derecesini belirlemeleri istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D11.2",
+      "D13.1",
+      "D14.1",
+      "D3.2",
+      "D3.3",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.2",
+      "E1.4",
+      "E2.1",
+      "E2.2",
+      "E3.10",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.14",
+      "KB2.16.1",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/161"
+}

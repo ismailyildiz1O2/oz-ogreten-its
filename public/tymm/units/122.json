@@ -1,0 +1,156 @@
+{
+  "unitId": 122,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "4. ÜNİTE: DALGALAR",
+  "hours": "16",
+  "description": "Bu ünitede öğrencilerin periyodik hareketlere ilişkin deneyimlerini yansıtmaları, dalgaların temel kavramlarını tanımlamaları, dalgaları özelliklerine göre sınıflandırmaları ve dalgaların yayılma süratini etkileyen etmenleri gözlemlemeleri, su dalgalarında yansıma ve kırılma olaylarına ilişkin çıkarımlar yapmaları, rezonans ve depreme ilişkin kavramları sorgulamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.10.4.1",
+      "title": "Periyodik hareketlere ilişkin deneyimlerini yansıtabilme",
+      "processComponents": [
+        "a) Periyodik hareketlere ilişkin deneyimlerini gözden geçirir.",
+        "b) Periyodik hareketlere ilişkin deneyimlerinden çıkarım yapar.",
+        "c) Periyodik hareketlere ilişkin deneyimlerinden ulaştığı çıkarımı değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.10.4.2",
+      "title": "Dalgaların temel kavramlarına ilişkin operasyonel tanımlama yapabilme",
+      "processComponents": [
+        "a) Dalgaların temel kavramlarına ilişkin nitelikleri tanımlar.",
+        "b) Dalgaların temel kavramlarına ilişkin niteliklerin ölçümünü yapar.",
+        "c) Dalgaların temel kavramlarını niteliklerine bağlı olarak tanımlar."
+      ]
+    },
+    {
+      "code": "FİZ.10.4.3",
+      "title": "Dalgaları özelliklerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Dalgaların özelliklerini belirler.",
+        "b) Dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre ayrıştırır.",
+        "c) Dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre gruplandırır.",
+        "ç) Dalgaları enine, boyuna, hem enine hem boyuna, mekanik ve elektromanyetik olarak adlandırır."
+      ]
+    },
+    {
+      "code": "FİZ.10.4.4",
+      "title": "Dalgaların yayılma süratini etkileyen etmenlere ilişkin bilimsel gözleme dayalı tahmin yapabilme",
+      "processComponents": [
+        "a) Dalgaların yayılma süratine etki eden etmenleri tahmin eder.",
+        "b) Dalgaların farklı ortamlardaki yayılma süratini karşılaştırır.",
+        "c) Dalgaların farklı ortamlardaki yayılma süratlerine ilişkin sonuç çıkarır.",
+        "ç) Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerde bulunur.",
+        "d) Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerinin geçerliliğini sorgular."
+      ]
+    },
+    {
+      "code": "FİZ.10.4.5",
+      "title": "Su dalgalarında yansıma ve kırılma ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Su dalgalarında yansıma ve kırılma olaylarına ilişkin gözlemler yapar.",
+        "b) Su dalgalarında yansıma ve kırılma olayları sırasındaki açılar arasında ilişki kurar.",
+        "c) Su dalgalarında yansıma ve kırılma olaylarına ilişkin genellemeler yapar."
+      ]
+    },
+    {
+      "code": "FİZ.10.4.6",
+      "title": "Rezonans ve depreme ilişkin kavramlar üzerinden depremi sorgulayabilme",
+      "processComponents": [
+        "a) Rezonans ve depremle ilişkili olan kavramları tanımlar.",
+        "b) Rezonans ve depremle ilişkili olan kavramlar ile ilgili sorular sorar.",
+        "c) Rezonans ve depremle ilişkili olan kavramlar hakkında bilgi toplar.",
+        "ç) Rezonans ve depremle ilişkili olan kavramlar ile ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Rezonans ve depreme ilişkin kavramlar üzerinden depreme yönelik çıkarımlar yapar."
+      ]
+    },
+    {
+      "code": "FİZ.10.4.7",
+      "title": "Depremle ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Depremle ilgili bir model önerir.",
+        "b) Depremle ilgili önerilen modeli geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "periyodik hareket, salınım hareketi, dalga tepesi, dalga çukuru, dalga boyu, frekans, periyot, genlik, dalgaların yayılma sürati, mekanik dalga, elektromanyetik dalga, titreşim doğrultusu, doğal titreşim frekansı, yansıma, kırılma, deprem, rezonans, odak noktası, merkez üssü, depremin şiddeti, depremin büyüklüğü",
+  "support": [
+    "Öğrenciler dalga boyunun bulunmasında ölçeklenmiş milimetrik kâğıt üzerine çizilmiş enine dalga görseli kullanabilir, deprem dalgalarında sismograf modeli geliştirmek yerine modelin çizimini yapabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, yaylarda (tellerde) dalgaların yayılma süratinin yayın birim uzunluğunun kütlesi ile yaya etki eden kuvvetin büyüklüğüne bağlı olduğunu ifade eden matematiksel modele araştırma yaparak ulaşabilirler. Müzik aletlerinde kullanılan tellerin cinsi, gerginlikleri ve uzunlukları ile oluşan ses dalgalarının frekansı arasındaki ilişki araştırılabilir. Öğrenciler, geçmişten bugüne kullanılan zaman ölçümünde periyot kavramını kullanan saatlerin çalışma prensipleri hakkında araştırma yaparak saatlerin değişimini gösteren bir tarih şeridi hazırlayıp paylaşabilir. Yay ve basit sarkacın periyodu ile ilgili matematiksel model verilerek hesaplamalar yaptırılabilir. Öğrencilerin yay dalgalarında yaptıkları etkinliklere yapıcı ve yıkıcı girişim durumları eklenebilir. Su dalgalarında ayrılma olayına ilişkin araştırmalar yapılabilir. Ses dalgalarının sağlık alanında uygulanmasına örnek olarak böbrek taşının kırılmasında kullanılan aletin çalışma prensibi araştırılarak rapor hazırlanabilir. Öğrenciler, Türkiye'de ve dünyadaki rasathaneler hakkında araştırma yapıp okul ortamında paylaşabilir. Rasathanelerin ve deprem üzerine yapılan çalışmaların deprem bilincine katkısı üzerine sunum hazırlayabilir. Öğrencilerin deprem konusunda yapacakları araştırmalara cisim ve yüzey dalgalarının (P ve S, Rayleigh ve Love) özellikleri ile deprem öncesi ve sonrasında Türkiye'deki acil yardım kurumlarının faaliyetleri eklenebilir. Depremin frekansı ile bina uzunluğu arasındaki ilişkiden, bina titreşimlerinin karşılaştırılabileceği maket yapılabilir.",
+    "*Depreme dayanıklı yapılar ile ilgili araştırma yapılabilir ve araştırma sonuçlarını öğrencilerin derste öğrendiği konu ve kavramlar ile ilişkilendirerek depreme dayanıklı bir yapı modeli fikri ortaya konulabilir.",
+    "*Fizik ve diğer derslerinden edindiği bilgi ve becerilerinden hareketle deprem bilinci, uyarı sistemleri veya dayanışma platformu gibi mobil uygulamalar geliştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu, kısa ve uzun cevaplı, eşleştirme, boşluk doldurma soruları madde türlerinden oluşan test; öz değerlendirme formu, yapılandırılmış grid, tanılayıcı dallanmış ağaç, doğru yanlış sorularından oluşan çalışma yaprağı, ürün veya model geliştirme kavram haritası ve slogan ile değerlendirilebilir.",
+    "Dalga tepesi, dalga çukuru, dalga boyu, frekans, periyot, genlik ve dalgaların yayılma sürati kavramlarını içeren bir çalışma yaprağı ve çeşitli dalga örneklerini sınıflandırmaları için farklı soru türlerinden oluşan test verilebilir. Dalgaların yayılma süratinin ortama bağlılığını yansıtacak slogan oluşturmaları istenebilir. Öğrenciler, öz veya grup değerlendirme formları kullanılarak değerlendirilebilir. Dalgaların temel kavramları, dalgaların sınıflandırılması ve ortamların dalgaların yayılma süratine etkisi ile ilgili kavram haritası hazırlayıp öğrencilerin sunum yapmalarına yönelik bir performans görevi verilir. Bu görev için daha önce verilen çalışma yaprağı, test ve slogan oluşturma çalışmalarını yaparken karşılaştıkları kavramları kaydetmeleri ve not almaları hatırlatılır. Hazırladıkları kavram haritası ve sunumlar dereceli puanlama anahtarı ile değerlendirilebilir. Öz ve akran değerlendirme formları kullanılabilir. Öğrencilerin öz değerlendirmeleri için kullanılan form puanlama anahtarı ile değerlendirme yapılabilir. Testlerin değerlendirilmesi puanlama anahtarı ile yapılabilir. Su dalgalarının yansıma ve kırılma olaylarına ilişkin farklı madde türlerinden oluşan çalışma yaprağı kullanılabilir. Çalışma yaprağının değerlendirilmesinde puanlama anahtarı kullanılabilir. Öğrencilerden depremle ilişkili kavramlar ile kavram haritası oluşturmaları istenebilir. Kavram haritasının değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.10.4.1",
+    "Öğretmen zaman ve zamanın ölçülmesi (zemberekli ve sarkaçlı saatlerin çalışma prensipleri) ile ilgili sorular sorar. Yay sarkacı ve basit sarkaçta periyot kavramına ilişkin simülasyon, görsel, gösteri deneyi veya videolar ile Galileo'nun ilk basit sarkacı kullanarak yaptığı deneylere ilişkin hikâyeleri kullanarak merak uyandırır ( E1.1 ) . Öğrenciler öğretmen rehberliğinde gruplara ayrılır ( SDB2.2 ) . Öğretmen, öğrencilerin periyot kavramını yakından deneyimleyebilmeleri için sınıfa farklı uzunlukta ipler, farklı sertlikte yaylar ve farklı kütlelerde cisimler getirebilir. Öğrenciler yay sarkacının ve basit sarkacın periyoduna ilişkin deneyimlerini grup hâlinde tartışarak ( E1.6 , SDB2.2 ) gözden geçirir. Grup arkadaşları ile birlikte alternatif fikirler ortaya koyarak ( SDB2.1 ) yay sarkacının ve basit sarkacın periyodunu belirleyen özellikleri tahmin eder. Arkadaşlarıyla dayanışma içinde ( D4.1 ) periyodu etkileyen değişkenleri belirler ve bu değişkenlerin periyoda etkisine ilişkin çıkarımlar yapar. Deneyimlerinden yola çıkararak yay sarkacının ve basit sarkacın periyodunu etkileyen etmenler ile periyot arasındaki ilişkiyi yorumlayarak periyodik hareketlerin yapısını değerlendirir ( OB7 ) . Öğretmen öğrencilerin değerlendirmelerini doğal titreşim frekansı kavramı ile ilişkilendirir. Günlük hayattan doğal titreşim frekansına örnekler verir. Yay sarkacı ve basit sarkacın periyoduna ilişkin matematiksel modelden ve matematiksel işlemlerden kaçınılır. Öğrenciler bir form ile deneyimlerine ilişkin öz değerlendirmelerini ve kendi öğrenmelerini geliştirmeye yönelik paylaşım yapabilir ( SDB1.3 ) . Yay sarkacı ve basit sarkacın periyodunu etkileyen etmenler ile ilgili eşleştirme, açık uçlu ve boşluk doldurma soruları ile oluşturulmuş test kullanılabilir.",
+    "FİZ.10.4.2",
+    "Öğrenciler dönme, öteleme ve titreşim hareketlerini önceki öğrenme-öğretme yaşantılarına bağlı olarak tanımlayabilir. Öğretmen, çeşitli dalga hareketlerine ilişkin maçlardaki Meksika dalgası, bayrağın dalgalanması, yağmur yağarken durgun su yüzeyinde oluşan dairesel dalga örneklerini paylaşır ya da video, simülasyon, animasyon ve dijital öyküleme gibi materyallerden birini kullanarak çeşitli dalga örnekleri gösterebilir. Öğrencilerin yaratıcı drama veya rol oynama ( D3.3 , E2.5 , OB9 ) gibi yöntem ve tekniklerden biri ile dalga bağlamına ilişkin olarak aşağı-yukarı ve sağa-sola hareketlerini arkadaşları ile yapması sağlanır ( SDB2.1 ) . Öğrencilerden, öğretmen rehberliğinde gruplara ayrılarak dalga hareketinin niteliklerini gözlemlemek için sınıfta yapabilecekleri bir çalışma planlamaları ( SDB1.2 ) is tenir. Öğrenciler grup arkadaşları ile yapacakları çalışmaların niteliğine uygun olarak kullanacakları ip, yay, küçük tahta bloklar gibi malzemelere karar vererek hedefleriyle ilgili çalışmalar yapmak için gerekli araç gereci temin eder ( SDB1.2 ) . Öğrenciler, planladık ları çalışmayı zamanında ve eksiksiz yaparak ( D16.3 ) dalga hareketi ile ilişkili kavramları gözlemler ( KB2.11 ) . Bu çalışmalara dayanarak öğrenciler dalga boyunu dalga tepesi ve dalga çukuru kavramları ile açıklar. Öğretmen genlik kavramından bahseder. Öğrenciler dalga boyu, frekans ve periyot kavramlarını kendi cümleleri ile ( OB1 ) tanımlar. Öğrenciler dalga boyunun uzunlukla, periyot ve frekansın ise zamanla ilişkisini keşfederek bu kavramlar için uygun ölçme araçlarını ( E3.4 , OB1 ) belirler. Öğrenciler, ölçüm araçlarını veya simülasyonları kullanarak dalga boyu, frekans ve periyot ölçümlerini yapar ( OB7 ) . Alınan yol, zaman ve sürat arasındaki ilişkiye yönelik ön bilgi ve yaptığı ölçümlere dayalı olarak dalga sürati kavramını dalga boyu, frekans ve periyot etmenleri üzerinden ilişkilendirerek ( SDB1.1 ) tanımlar. Dalgaların temel kavramları ile ilgili matematiksel işlemler yaptırılır. Öğretmen; dalga tepesi, dalga çukuru, dalga boyu, frekans, periyot, genlik ve dalga sürati kavramlarını içeren bir çalışma yaprağı verebilir. Performans görevi olarak öğrenciler hazırlayacakları kavram haritasının ilk bölümüne dalgalarla ilgili temel kavramları kaydedebilir.",
+    "FİZ.10.4.3",
+    "Öğretmen, dalgaları farklı özelliklerine göre sınıflandırmaları için su, ses, yay, deprem ve elektromanyetik dalga içeren fotoğraf veya video gibi öğretim materyallerini sınıf ortamında göstererek ( OB4 ) öğrencilerin dikkatlerini çeker. Öğrenciler, öğretmen rehberliğinde gruplara ayrılır ve bu dalgaların ilişkili olduğu etmenleri odaklanarak ( E3.2 ) belirler. Öğretmen, dalgaların titreşim doğrultusuna ve taşıdığı enerjiye göre sınıflandırıldığını açıklar ve öğrencilerden dalgalara ilişkin günlük hayattan örnekler vermelerini ister ( OB1 ) . Öğrenciler dalgaları birbirinden ayıran özellikleri belirler. Öğretmen dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre dalgaların isimleriyle sınırlı kalarak ifade eder. Öğrenciler, dalgaları birbirinden ayıran özellikler hakkındaki gerekçelerini ( E1.6 ) belirterek gruplandırır. Öğrenciler, grup arkadaşları ile tartışarak ( SDB2.2 ) dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre ayrıştırır ve gruplandırır. Gruplandırma yapıldıktan sonra öğretmen dalgaları açıklayarak adlandırır. Öğrenciler; grup içi iletişimle ( SDB2.1 ) zihin haritası, kavram haritası, sınıflandırma tablosu veya anlam çözümleme tablosu ( E3.7 ) gibi araçlardan birini seçer. Seçtikleri aracı dalgaları sınıflandırma hedefine uygun şekilde planlayarak ( SDB1.2 ) oluşturur ( D3.4 ) . Eşleştirme tablosu, boşluk doldurma ve açık uçlu sorulardan oluşan bir test kullanılarak verilen çeşitli dalga örneklerini öğrencilerin sınıflandırmaları istenir. Öğrenciler, performans görevi olarak hazırlayacağı kavram haritasının ikinci bölümünde yer alacak kavramları kaydedebilir.",
+    "FİZ.10.4.4",
+    "Öğretmen, dalgaların yayılma süratini etkileyen etmenlere ilişkin gözlem yaptırmak için 5E öğrenme modeli, argümantasyon, örnek olay, gezi-gözlem veya beyin fırtınası gibi öğretim yöntem ve tekniklerden birini kullanabilir. Öğrencilerin ön bilgileri ile dalgaların yayılma sürati arasında ilişki kurmalarını sağlayacak ( SDB1.1 ) video ve simülasyon gibi materyaller veya dijital öyküleme ( OB4 ) kullanarak dikkatlerini çeker. Öğrenciler su ve ses dalgalarında yayılma süratini etkileyen etmenleri sınıf arkadaşlarının bakış açılarını da dikkate alarak ( SDB2.1 ) tahmin eder. Öğrenciler, öğretmen rehberliğinde gruplara ayrılarak su ve ses dalgalarının yayılma süratini test edebileceği ortamları planlar ( SDB1.2 ) ve bu planları kapsamında tartışırlar ( D3.3 , E1.5 ) . Su ve ses gibi mekanik dalgaların yayılması için maddesel ortamın gerekliliği vurgulanarak sesin boşlukta yayılmadığına değinilir. Sesin yayılma sürati ile ortamın katı, sıvı ve gaz hâli arasında ilişki kurulur. Öğretmen, sesin oluşumunu titreşim ve ortam ilişkisi üzerinden ele alan Farabi'nin açıklamalarından bahsedebilir. Su dalgalarının hareketi farklı derinlikte ortamlar oluşturularak gözlemlenir. Öğrenciler, su ve ses dalgalarının farklı ortamlardaki yayılma süratlerini karşılaştırırlar ( KB2.7 ) . Öğrenciler, yaptıkları gözlemler ile dalgaların yayılma süratini etkileyen etmenlere ilişkin bir sonuca ulaşır ( E3.4 ) . Grup üyeleri kendi aralarında tartışarak ( SDB2.2 ) elektromanyetik dalgaların farklı ortamlarındaki yayılma sürati ile ilgili tahminlerde bulunurlar ve diğer gruplar ile tahminlerini paylaşırlar. Öğrenciler, tahminlerinin geçerliliğini sınıf ortamında arkadaşlarıyla tartışarak ( SDB2.2 ) sorgular. Öğretmen, öğrencilerden dalga süratinin ortama bağlılığı ile ilgili slogan oluşturmalarını isteyebilir. Öğrencilerin performans görevi olarak hazırlayacağı kavram haritasının üçüncü bölümünde yer alacak kavramları kaydetmesi sağlanabilir. Öğrenciler bu ünite kapsamında ele alınan ilk üç öğrenme çıktısında kaydettiği kavramları kullanarak kavram haritası oluşturup sunabilir.",
+    "FİZ.10.4.5",
+    "Öğretmen su dalgalarında yansıma ve kırılma olaylarını fark ettirmek için argümantasyon ve tahmin et-gözle-açıkla gibi öğretim yöntemlerinden birini kullanabilir. Öğrencilerin su dalgalarının farklı derinlikteki ortamlarda yansıma ve kırılma olayları sırasında yayılma doğrultusu, yönü ve süratinin değişimine ilişkin tahminler yapması sağlanabilir. Öğrencilerden tahminleri ile ses ve yay dalgalarının yayılma süratinin ortama bağlılığı ön bilgisi ve günlük hayattaki deneyimleri arasında ilişki kurması istenir ( KB2.12 , SDB1.1 ) . Deney, simülasyon veya video gibi öğretim materyallerinden biri ile dalgaların hareketlerini gözlemler ( OB4 ) . Öğretmen doğrusal su dalgalarını kullanarak yansıma ve kırılma olaylarını açıklar. Öğrencilere ses dalgalarının bir engelden yansımasına özel bir isim verildiğinden bahsederek yankı olayını günlük hayattan örnekler kullanarak açıklar. Mimar Sinan'ın bazı eserlerinde akustiğe verdiği önem hakkında bilgi verilebilir. Yankı ile ilgili matematiksel işlemlere girilmez. Doğrusal su dalgalarının oluşumunu simülasyon ve görsel gibi materyaller kullanarak gösterebilir. Doğrusal dalgaların düz engelden yansıma ve farklı derinliklere geçişi sırasındaki kırılma olaylarında gelme açısı, yansıma açısı, kırılma açısı kavramlarına bağlı olarak yansıma ve kırılma yasalarını açıklar. Öğrencilerin, doğrusal su dalgalarının doğrusal engelden yansımasını ve farklı derinlikteki ortamlarda kırılmasını çizim yaparak ( OB4 ) karşılaştırması sağlar. Öğrenciler doğrusal su dalgalarının doğrusal engelden yansıması sırasında gelme açısı ile yansıma açısı, farklı derinlikteki ortamlar arasındaki kırılması sırasında gelme açısı ile kırılma açısı hakkında tartışarak ( SDB2.2 ) kavramlar arasında ilişki kurar. Öğrenciler yapılan gözlem ve ilişkilerden sonra su dalgalarında derinliğin yayılma doğrultusu, yönü ve süratine etkisi üzerine genelleme yapar. Öğretmen, öğrencileri yapılandırılmış grid ve tanılayıcı dallanmış ağaç sorularından oluşan çalışma yaprağı ile değerlendirebilir.",
+    "FİZ.10.4.6",
+    "Frekansları aynı iki diyapozondan birinin titreşiminin diğerinde de titreşime neden olduğu gösteri deneyi veya dijital içerikler gösterilebilir. Köprülerin rezonans ile salınımı üzerine videolar izletilebilir. Öğretmen; rezonans, depreme ilişkin depremin odak noktası, merkez üssü, şiddeti ve büyüklüğü kavramları ile ilgili dijital içerikler sunar. Öğrenciler bu kavramları kendi cümleleri ile tanımlar. Öğretmen tartışma, soru cevap veya beyin fırtınası tekniklerini kullanarak öğrencilerin açık fikirlilikle ( E3.5 ) sorular sormasını sağlar ( E3.8 ) . Öğrenciler öğretmen rehberliğinde gruplar oluşturabilir ( SDB2.2 ) . Gruplar soruların cevaplarını ve depremle ilişkili kavram ları planlama yaparak araştırır ( D3.3 , OB1 ) . İş birlikli öğrenme yöntemiyle ( SDB2.2 ) her grup kendi içinde topladığı bilgilerin güvenilirliği ve doğruluğu ile ilgili fikir alışverişinde bulunarak sonuçları değerlendirir ( KB2.6 ) . Gruplar sorumlu oldukları araştırmaları sınıf arkadaşlarına sunar ( E2.2 , OB1 ) . Öğrenciler rezonans ve depreme ilişkin kavramlardan yola çıkarak depreme yönelik çıkarımlar yapar. Öğretmen öğrencilerden kavram haritası hazırlamalarını isteyebilir. Kavram haritaları dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "FİZ.10.4.7",
+    "Öğretmen sismograf ve izolatör gibi depremle ilişkili aygıtların fotoğraf ya da videoları ile öğrencilerin dikkatini çeker ( OB4 ) . Öğretmen sismograf ve izolatörün çalışma prensibine ilişkin açıklamalarda bulunabilir. Öğrenciler, STEM yaklaşımı doğrultusunda depremin büyüklüğünü ölçmeye, depremin etkilerini azaltmaya veya depreme ilişkin bir günlük hayat problemini tanımlayıp çözmeye yönelik bir ürün ( D5.3 , D16.2 , D20.3 ) ya da model geliştirir ( E3.1 , E3.3 , SDB1.2 , SDB2.3 ) . Öğrenciler bu süreçte problemi saptayıp probleme ilişkin alternatif çözümler üretir, en uygun çözümü belirler ve uygular ( SDB3.3 ) . Öğrenciler bu süreçte karşı karşıya kaldığı zor durumlarla baş edebilmek için önünde farklı birçok seçeneğin olacağını fark eder ( SDB3.2 ) . Önerdikleri modeli sınıf arkadaşları ile paylaşarak modelin geliştirilmesine yönelik tartışma ( SDB2.2 ) yapar ( D3.3 ) . Öğrenciler aktif rol alarak önerdikleri modeli geliştirir ( KB3.2 ) . Öğretmen oluşturulan modelleri dereceli puanlama ölçeği ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.2",
+      "D16.3",
+      "D20.3",
+      "D3.3",
+      "D3.4",
+      "D4.1",
+      "D5.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E1.6",
+      "E2.2",
+      "E2.5",
+      "E3.1",
+      "E3.2",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.12",
+      "KB2.6",
+      "KB2.7",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/122"
+}

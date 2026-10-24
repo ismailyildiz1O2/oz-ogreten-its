@@ -1,0 +1,44 @@
+{
+  "unitId": 81424047,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "47. ÜNİTE: GİTAR - REPERTUVAR ÇALIŞMALARI",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.9.1",
+      "title": "La minör tonda şarkılardan oluşan eserler bulur",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.9.2",
+      "title": "Mi minör tonda şarkılardan oluşan eserler bulur",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.9.3",
+      "title": "Do majör tonda eserler bulur",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.9.4",
+      "title": "Sol majör tonda eserler bulur",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.9.5",
+      "title": "Eserleri doğru icra eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

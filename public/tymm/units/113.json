@@ -1,0 +1,61 @@
+{
+  "unitId": 113,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "6. TEMA: NESNELERİN GEOMETRİSİ (2)",
+  "hours": "15",
+  "description": "Bu temada öğrencilerin günlük yaşamda karşılaştığı farklı geometrik cisim modellerine uygun nesneleri yuvarlak ve köşeli olarak ifade edebilmeleri; günlük yaşamdaki geometrik yapıları inceleyerek geometrik yapılarda yer alan geometrik şekilleri, köşe (üç köşeli, dört köşeli, köşesi olmayan vb.) ve kenar sayılarını (üç kenarlı, dört kenarlı ve kenarı olmayan vb.) dikkate alarak belirleyebilmeleri; üçgen, kare, dikdörtgen ve çemberi biçimsel özelliklerine göre sınıflandırabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "MAT. 1.3.3. Günlük yaşamdaki nesneleri biçimsel özelliklerine göre ayırt edebilme MAT. 1.3.4. Günlük yaşamda karşılaşılan geometrik yapılardaki geometrik şekilleri çözümleyebilme",
+      "processComponents": [
+        "a) Geometrik yapılardaki şekilleri belirler.",
+        "b) Şekiller arasında ilişki kurar. MAT. 1.3.5. Biçimsel özelliklerine göre geometrik şekilleri sınıflandırabilme",
+        "a) Geometrik şekillerin biçimsel özelliklerini belirler. b ) Geometrik şekilleri biçimsel özelliklerine göre ayırır.",
+        "c) Geometrik şekilleri tasnif eder.",
+        "ç) Geometrik şekilleri adlandırır."
+      ]
+    }
+  ],
+  "keyConcepts": "• nesne, köşe, kenar, üçgen, kare, dikdörtgen, çember, Sembol ve Gösterimler, • -",
+  "support": [
+    "Nesnelerin biçimsel özelliğinin ve geometrik yapı modellerinde bulunan geometrik şekillerin belirlenmesini, adlandırılmasını kolaylaştıracak gereçle desteklenen farklı zorluk seviyelerinde kolaj çalışmaları yapılır. İş birliğine dayalı öğrenme, grup çalışmaları veya bireysel etkinlikler aracılığıyla öğrenciler öğrenme sürecine etkin bir şekilde katılmaya teşvik edilir. Öte yandan konunun desteklenmesi için görsel araç gereçle maket çalışmaları yapılır veya öğretim süreci oyun temelli olarak tasarlanır."
+  ],
+  "enrichment": [
+    "Günlük yaşamda yer alan geometrik yapılar ile geometrik şekiller arasındaki ilişkinin öğrenciler tarafından keşfedilmesi amacıyla okul dışı öğrenme ortamları kullanılır. Ayrıca gerek Türkiye'de gerekse dünya mimarisinde yer alan geometrik yapı modellerinin görselleri sunulur. Çevrim içi araçlar ya da matematiksel yazılımlar ile bu yapıların farklı açılardan görünümleri gösterilir ve üç boyutlu bir yapı olduğu açıklanır.",
+    "Geometrik şekillerden oluşan yapboz parçaları öğrencilere dağınık hâlde verilir ve öğrencilerden yapbozu tamamlamaları istenir. Daha fazla geometrik şekil ile farklı tasarım ya da özgün model oluşturma çalışmalarına yer verilir. Öğrencilerin kendi geometrik şekillerini tasarlamaları ve bu şekillerin diğer geometrik şekiller ile olan benzerlik ve farklılıklarını listelemeleri için bir öğrenme ortamı oluşturulur."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; çalışma kâğıdı, performans görevi, bütüncül dereceli puanlama anahtarı ve yapılandırılmış grid ile değerlendirilebilir.",
+    "Öğrencilere, günlük yaşamda kullanılan nesneleri biçimsel özelliğine değinmeden yuvarlak ve köşeli nesneler olarak eşleştirmelerini gerektiren bir performans görevi verilebilir. Performans görevinin değerlendirilmesinde bir bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.1.3.3 Sınıfa günlük yaşamda karşılaşılan biçimsel özelliği aynı olan en az iki nesne getirilerek ya da akıllı tahta bulunan sınıflarda bu nesnelerin görselleri sunularak öğrencilerden biçimsel özellikleri bakımından benzer olan nesneleri gruplandırmaları istenir. Öğrencilere sınıfa biçimsel özellikleri aynı ve farklı olan nesneler getirme sorumluluğu verilir ve bu nesnelerin benzer ve farklı yönlerine ilişkin tartışmalar yapılır ( D16.3 , E2.2 , KB2.7 ) . Sınıf içinde, günlük yaşamda kullanılan nesneleri geometrik özelliklerine değinmeden benzer özelliklerine göre gruplandırmayı gerektiren oyunlar oynanır. Oyunlar sırasında öğrencilerin kişi ve gruplarla iş birliği yapmanın önemini algılayabilecekleri düzenlemeler yapılır ( SDB2.2 ) . Öğrencilerin görsel algılarını zenginleştirmek için uygun çevrim içi araçlara yer verilir. Örneğin öğrencilerle birlikte etkileşimli tahta üzerinden oyun oynamaya izin veren eşleştirme, uygun görselleri bulma, farklı olanı bulma gibi eğitsel oyunlar oynatılır ( E2.5 , OB2 ) . Öğrencilerin, nesneleri biçimsel özelliklerine göre ayırt edebilme durumlarının değerlendirilmesinde çalışma kâğıdı kullanılabilir.",
+    "MAT.1.3.4 Öğrencilerden çevresinde gördükleri geometrik yapıları anlatmaları istenir. Ayrıca günlük yaşamda yer alan çeşitli yapı modeller sınıf ortamına getirilir ya da akıllı tahta üzerinde gösterilir. Böylece geometrik yapılar ile geometrik şekiller arasındaki ilişkinin öğrenciler tarafından keşfedilmesi sağlanır ( KB2.16.2 ) . Geometrik yapı modelleri görsellerle veya modellerle somut olarak öğrencilere gösterilip kenar ve köşe sayıları dikkate alınır. Yapı modelinin içinden geometrik şekilleri görsellerden keserek veya modelleri parçalayarak ayırmaları ve sınıflandırmaları beklenir. Öğrencilere bir geometrik yapı modeli araştırıp bulmaları, bu modeller üzerinde yer alan geometrik şekilleri köşe ve kenar sayılarına göre belirlemeleri, oyun hamuru gibi araç-gereç kullanarak geometrik yapılar üzerinde belirlediği şekilleri oluşturmaları için performans görevi verilebilir ( SDB1.2 ) . Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "MAT.1.3.5 Öğrencilere üçgen, kare, dikdörtgen ve çemberin biçimsel özelliklerini belirlemeye yönelik oyunlar oynatılır. Bu özelliklerin benzer ve farklı yönlerini belirlemelerine, geometrik şekilleri özelliklerine göre ayırmalarına ve tasnif etmelerine yönelik etkinlikler yapılır. Biçimsel özelliklerine göre sistematik bir şekilde ( E3.7 ) üçgen, kare, dikdörtgen, ve çember şeklinde adlandırabilmelerine yönelik çalışmalara yer verilir. Geometrik şekillerin biçimsel özelliklerinin belirlenmesine, şekillerin ayrılmasına ve adlandırılmasına yönelik çeşitli oyunlar oynatılır ( E2.5 ) . Geometrik şekillerin sınıflandırılmasında yapılandırılmış grid kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3"
+    ],
+    "egilim": [
+      "E2.2",
+      "E2.5",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.16.2",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/113"
+}

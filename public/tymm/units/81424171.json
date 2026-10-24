@@ -1,0 +1,36 @@
+{
+  "unitId": 81424171,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "171. ÜNİTE: MÜZE EĞİTİMİ - OKUL MÜZESİ UYGULAMA SÜRECİ",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MEA.1.4.1",
+      "title": "Okul müzesi ile ilgili özgün fikirler üretir",
+      "processComponents": [
+        "Okul müzelerinin tarihsel süreci ile ilgili açıklama yapılır.",
+        "Dünyadan ve Türkiye'den okul müzesi örneklerinin incelenmesi sağlanır.",
+        "Okul müzesi konusunda özgün fikirler üretilmesi ve okul müzesi proje planının hazırlanması sağlanır."
+      ]
+    },
+    {
+      "code": "MEA.1.4.2",
+      "title": "Okul müzesi uygulama süreçlerini gerçekleştirir",
+      "processComponents": [
+        "Okul müzesinde sergilenecek objelerin belgeleme, envanter çıkarma ve koruma işlemlerinin yapılması sağlanır.",
+        "Okul müzesi proje planında belirlenen yöntem ve teknolojilere uygun sergileme ve düzenleme çalışmalarının tamamlaması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

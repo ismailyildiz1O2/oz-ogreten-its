@@ -1,0 +1,40 @@
+{
+  "unitId": 1619,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "11.Tema: Satrançta Beraberlik Ve Açılış",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.11.1",
+      "title": ". Ön öğrenmelerden hareketle satrançta beraberlik durumlarına yönelik çıkarım yapabilme",
+      "processComponents": [
+        "a) Mevcut bilgisi dâhilinde beraberliğin ne olduğu hakkında varsayımda bulunur.",
+        "b) Beraberlik durumlarını listeler.",
+        "c) Beraberlik durumlarını karşılaştırır.",
+        "d) Beraberlik durumları hakkında önerme sunar.",
+        "e) Beraberlik durumlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "OOEST.11.2",
+      "title": ". Satrançta temel açılış ilkelerini kullanarak taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Satrançta temel açılış ilkelerinden hareketle taktiksel durum belirlemesi yapar.",
+        "b) Belirlenen durumun çözümüne ilişkin öneri sunar.",
+        "c) Taktiği uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "açılış ilkeleri, pat durumu, yetersiz güç",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1619"
+}

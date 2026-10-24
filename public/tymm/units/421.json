@@ -1,0 +1,101 @@
+{
+  "unitId": 421,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+  "hours": "18",
+  "description": "Bu öğrenme alanında öğrencilerin ülkemizin kaynakları ile ekonomik faaliyetler arasındaki ilişkiyi çözümleyebilme, ekonomik faaliyetler ile meslekler arasındaki ilişkiye yönelik çıkarımda bulunabilme, tasarlanan bir ürünün yatırım ve pazarlama sürecine ilişkin proje hazırlayabilmelerine yönelik bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.6.5.1",
+      "title": "Ülkemizin kaynakları ile ekonomik faaliyetler arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Ülkemizin kaynakları ve ekonomik faaliyetlerin özelliklerini belirler.",
+        "b) Ülkemizin kaynakları ve ekonomik faaliyetler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "SB.6.5.2",
+      "title": "Ekonomik faaliyetler ve meslekler arasındaki ilişki hakkında çıkarımda bulunabilme",
+      "processComponents": [
+        "a) Gözlem ve deneyimlerinden yola çıkarak ekonomik faaliyetler ve meslekleri ilişkilendirir.",
+        "b) Ekonomik faaliyetlerdeki değişime bağlı olarak gelecekte ortaya çıkabilecek meslekler hakkında çıkarımda bulunur."
+      ]
+    },
+    {
+      "code": "SB.6.5.3",
+      "title": "Tasarladığı bir ürün için yatırım ve pazarlama proje önerisi hazırlayabilme",
+      "processComponents": [
+        "a) Tasarladığı bir ürün için yatırım ve pazarlama projelerini sorgular.",
+        "b) Tasarladığı ürünün yatırım ve pazarlama alanlarına ilişkin gözlemlerine dayalı tahminlerde bulunur.",
+        "c) Olası riskleri değerlendirerek tasarladığı ürünün yatırım ve pazarlama alanlarının belirlenmesine gerekçe sunarak karar verir.",
+        "ç) Tasarladığı ürünün yatırım ve pazarlama aşaması için gerekli kaynakları yönetir.",
+        "d) Tasarladığı ürün için yatırım ve pazarlama proje öneri raporu oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "doğal kaynak, ekonomik faaliyet, meslek, pazarlama, tasarım, üretim-dağıtım-tüketim, yatırım",
+  "support": [
+    "Ülkemizin kaynakları ile ekonomik faaliyetler arasındaki ilişkiyi gösteren görseller aracılığıyla öğrenme desteklenebilir. Ülkemize ait bir kaynak ve o kaynağa dayalı yapılan ekonomik faaliyete yönelik bir görsel çizmeleri istenebilir.",
+    "Ekonomik faaliyetler ve mesleklerle arasındaki ilişkiyi ortaya koyan dijital içeriklerle öğrenme desteklenebilir.",
+    "Öğrencilerden ailelerinde veya yakın çevrelerindeki bir kişinin mesleği ve mesleğin ilgili olduğu ekonomik faaliyetle ilgili bilgi toplamaları istenebilir.",
+    "Öğrencilerden yatırım ve pazarlaması yapılan ürünlere örnekler vermeleri istenebilir.",
+    "Yakın çevrelerindeki yatırım ve pazarlama süreçlerinin yürütüldüğü faaliyet alanlarına örnek vermeleri istenebilir."
+  ],
+  "enrichment": [
+    "Ülkemizin kaynakları ile ilgili gelecekte ortaya çıkabilecek ekonomik faaliyetlere yönelik araştırma yapmaları ve sunum hazırlamaları istenebilir.",
+    "Ekonomik faaliyetlerle ilgili gelecekte ortaya çıkabilecek mesleklere yönelik araştırma yapmaları ve sunmaları sağlanabilir. \"Unutulmaya yüz tutmuş meslekler\" ile \"Geleceğin meslekleri\" nin karşılaştırıldığı bir infografik hazırlamaları istenebilir.",
+    "Yatırım ve pazarlamaya ilişkin tasarlanan ürünün prototip olarak ortaya konması sağlanabilir. Çevrelerindeki yatırım ve pazarlama faaliyetlerinin yürütüldüğü bir üretim alanını ziyaret edip yatırım ve pazarlama ağı hakkında bilgi toplayarak bir rapor hazırlamaları istenebilir"
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktılarının değerlendirilmesi için kontrol listesi, gözlem formu, anekdot kaydı, derecelendirme ölçeği, kavram haritası, zihin haritası, performans görevi, analitik ve bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "Performans görevi: Ülkemizdeki doğal kaynaklar ve bu kaynaklarla ilgili öne çıkan ekonomik faaliyetleri gösteren bir harita çizmeleri veya dijital harita oluşturmaları görevidir.",
+    "Performans görevi: Gelecekte ortaya çıkabilecek mesleklerle ilgili olarak gelecekten bugüne bir mektup veya kartpostal hazırlama görevidir.",
+    "Performans görevi: Bir yatırım ve pazarlama projesi hazırlama görevidir."
+  ],
+  "teachingApplications": [
+    "SB.6.5.1 Yazılı ve görsel kaynaklar üzerinden ülkemizin doğal kaynakları ve bu kaynaklara dayalı olarak yapılan ekonomik faaliyetler incelenir ( OB1 , OB4 ). İncelemeler yapılırken dijital kaynaklardan da faydalanılabilir ( OB2 ). Kaynaklar üzerinden öğrencilerden toprak, su, orman, maden kaynakları ile tarım, balıkçılık, mobilyacılık, madencilik, turizm gibi ekonomik faaliyetleri belirlemeleri istenir. Bu süreçte tablo, şekil veya grafiklerden yararlanılabilir ( SBAB11 ).",
+    "Öğrencilerin performans görevi kapsamında ülkemizdeki doğal kaynaklar ve bu kaynaklarla ilgili öne çıkan ekonomik faaliyetleri gösteren bir harita çizmeleri veya dijital harita oluşturmaları sağlanır ( E3.11 , E3.3 , SBAB10 ). Oluşturulan haritalar derecelendirme ölçekleri ile değerlendirilir. Verilen kaynaklar üzerinden bir ekonomik faaliyetin doğal kaynakları nasıl etkilediğine ilişkin tartışma teknikleri uygulanır ( SDB2.1 ). Vatanseverlik değeri vurgulanarak öğrencilerin, kaynaklarımıza sahip çıkma bilinci kazanmaları sağlanır ( D19.3 ). Tartışma süreçleri kontrol listesi, gözlem formu veya anekdot kaydı ile değerlendirilebilir. Öğrencilerden ülkemizdeki kaynaklar ve ekonomik faaliyetler arasındaki ilişkileri belirleyen kavram haritası oluşturmaları istenir.",
+    "SB.6.5.2 Öğrencilerden gözlemleri ve daha önce öğrendikleri bilgiler doğrultusunda bildikleri meslekleri paylaşmaları istenir ( SDB2.1 ). Bu mesleklerin ilgili olabileceği ekonomik faaliyetleri tahmin etmeleri sağlanır. Yazılı ve görsel kaynaklar üzerinden ekonomik faaliyetleri ve bu faaliyetlerle bağlantılı olan meslekleri belirlemeleri istenir ( OB1 , OB4 ). Öğrencilerin ekonomik faaliyetler ve bu faaliyetlere dayalı mesleklerin korunarak geliştirilmesinin ülkemiz için önemini fark etmeleri sağlanır ( D19.3 ). Bu süreçte dijital kaynaklardan da yararlanılabilir ( OB2 ). Eğitsel oyunlar kullanılarak ekonomik faaliyetler ile meslekler ilişkilendirilir ( E2.5 ).",
+    "Geçmişten günümüze ekonomik faaliyetler ve mesleklerde yaşanan değişimlere değinilir. Öğrencilerin ekonomik faaliyetlerde yaşanan değişim ve bu değişimler sonucunda ortaya çıkan yeni mesleklerle ilgili fikir taraması tekniği ile görüşleri alınır. Öğrencilerin ekonomik faaliyetlerdeki değişimin mesleklere etkisini çoklu bakış açısıyla değerlendirmeleri sağlanır. Beyin fırtınası tekniği ile öğrencilerin ekonomik faaliyetlerdeki değişime bağlı olarak gelecekte ortaya çıkabilecek meslekler hakkında çıkarımda bulunmaları sağlanır ( SDB3.1 ). Bu süreçte teknolojik gelişmeler, yapay zekâ ve dijitalleşmenin gelecekte ortaya çıkabilecek mesleklere etkisi göz önünde bulundurulur. Öğrencilerden performans görevi kapsamında gelecekte ortaya çıkabilecek mesleklerle ilgili olarak gelecekten bugüne bir mektup veya kartpostal hazırlamaları istenir ( E3.11 , E3.3 , SDB2.1 ). Bu ürünler bütüncül dereceli puanlama anahtarı aracılığı ile değerlendirilebilir.",
+    "SB.6.5.3 Grup çalışması yoluyla öğrencilerden çevrelerindeki kaynak ve faaliyet alanlarını dikkate alarak ekonomiye katkı sağlayabilecek bir ürün tasarlamaları istenir ( SDB2.2 ). Gruplara yazılı ve görsel kaynaklar sunularak öğrencilerin bir ürünün tasarlanma sürecine yönelik bilgi edinmeleri sağlanır ( OB1 , OB4 ). Bu süreçte dijital kaynaklardan yararlanılabilir ( OB2 ). Ürünün tasarlanması, yatırım ve pazarlanmasına ilişkin örnek araştırma geliştirme (AR-GE) çalışmalarına ve inovasyon süreçlerine değinilir. Gruplardan edindikleri bilgiler doğrultusunda ürünü tasarlamaları, tasarladıkları ürünü ekonomiye kazandırmak amacıyla performans görevi kapsamında bir yatırım ve pazarlama projesi hazırlamaları istenir ( E2.3 , E3.3 , E3.11 , SBAB2.6 ). Bu süreçte çalışkanlık değeri vurgulanarak öğrencilerin grup içi etkinliklerdeki sorumluluklarını yerine getirmeleri sağlanır ( D3.4 ). Verilen kaynaklar üzerinden örnek yatırım ve pazarlama projeler sorgulanır.",
+    "Öğrencilerden inceledikleri kaynaklardan ve gözlemlerinden yola çıkarak tasarladıkları ürün için yatırım ve pazarlama alanlarını tahmin etmeleri istenir.",
+    "Tasarladıkları ürünün yatırım ve pazarlama sürecine ilişkin çevrelerindeki deneyimli girişimciler okula davet edilir ya da öğrencilerden deneyimli girişimciler ile röportaj yapmaları istenir ( SDB2.1 ). Kaynaklardan ve girişimcilerin deneyimlerinden edindikleri bilgiler doğrultusunda yatırım ve pazarlama projelerinin olası risk durumları belirlenir. Güçlü-zayıf yönler-fırsatlar-tehditler (GZFT) formu ile olası riskler ve fırsatlar değerlendirilerek yatırım ve pazarlama alanlarına karar verilir ( SDB3.3 ).",
+    "Öğrenci grupları tarafından tasarlanan ürünün yatırım ve pazarlaması için gerekli olan araç gereç, malzeme, sermaye ve işgücü gibi kaynaklar, incelenen örnek projeler üzerinden belirlenir.",
+    "Öğrencilerin drama, rol oynama gibi teknikler ile bütçe sorumlusu, malzeme yöneticisi, insan kaynağı uzmanı gibi roller almaları sağlanarak iş birliği, liderlik ve iletişim becerilerini geliştirmeleri sağlanır ( SDB3.2 ). Gruplardan tasarladıkları ürünün yatırım ve pazarlama sürecini yansıtan bir proje raporu hazırlamaları ve sunmaları istenir ( E1.4 , E1.5 ). Bu süreçte pazarlama stratejilerine yer verilebilir. Ürünün pazarlama sürecinde tüketiciyi yanıltıcı tutum ve davranışlardan kaçınılmasına dikkat edilerek ürün her yönüyle tanıtılır. Bu süreçte söz ve davranışlarında tutarlı, tarafsız, doğru ve güvenilir olmanın önemi üzerinde durularak dürüstlük değerine vurgu yapılır ( D6.2 ). Grupların yürüttükleri proje süreçleri analitik dereceli puanlama anahtarı ile sunum süreçleri kontrol listeleri ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.3",
+      "D3.4",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.4",
+      "E1.5",
+      "E2.3",
+      "E2.5",
+      "E3.11",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SBAB10",
+      "SBAB11",
+      "SBAB2.6"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/421"
+}

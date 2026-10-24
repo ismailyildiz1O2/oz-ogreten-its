@@ -1,0 +1,50 @@
+{
+  "unitId": 81663052,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "52. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 9. ÜNİTE: YAPAY ZEKÂ TABANLI OYUN GELİŞTİRME",
+  "hours": "7",
+  "description": "Bu ünitede oyunlarda yapay zekânın nasıl kullanıldığından bahsedilir. Python programlama dilinde oyun oluşturulması ve minimaks fonksiyonunun kullanımı öğretilir. Kural tabanlı, örüntü eşleştirme tabanlı ve yapay zekâ tabanlı sohbet robotlarının Python programlama dili kullanarak nasıl geliştirildiğinden bahsedilir.",
+  "outcomes": [
+    {
+      "code": "BTY.52.1",
+      "title": "Oyunlarda yapay zekânın kullanımını açıklar",
+      "processComponents": [
+        "Oyunlarda yapay zekâ kullanımına günümüzden örnekler verilir.",
+        "Oyunlarda yapay zekânın geleceği hakkında fikir yürütülmesi sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.52.2",
+      "title": "Bir yapay zekâ oyun uygulaması geliştirir",
+      "processComponents": [
+        "Tic Tac Toe oyunu anlatılır ve gerekli olan fonksiyonların kullanımı gösterilir.",
+        "Oyuncu olmayan karakterler oluşturulur.",
+        "Recursive tekniği ve minimax algoritması kullanımı gösterilir.",
+        "Derinlik parametresinin eklenmesi gösterilir ve budama kavramı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.52.3",
+      "title": "Yapay zekâ tabanlı Chatbot uygulamaları geliştirir",
+      "processComponents": [
+        "Sohbet robotlarının nasıl çalıştığı açıklanır.",
+        "Kural tabanlı sohbet robotu geliştirilir.",
+        "Örüntü eşleştirme tabanlı sohbet robotu geliştirilir.",
+        "Kullanıcının duygu durumunu analiz eden bir uygulama gösterilir.",
+        "Sohbet robotu oluşturmak için Chatterbot kütüphanesinin kullanımı gösterilir.",
+        "Sohbet robotunu eğitmek için ListTrainer modülünün kullanımı gösterilir.",
+        "Atatürk'ün hayatı ile ilgili bir dizi soruya cevap verebilen sohbet robotu uygulaması gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

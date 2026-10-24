@@ -1,0 +1,60 @@
+{
+  "unitId": 81424132,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "132. ÜNİTE: VİTRAY - TİFFANY (TİFANİY) VİTRAY",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.4.2.1",
+      "title": "Tiffany vitrayın teknik özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.2.2",
+      "title": "Tiffany vitrayda kullanılan araç ve gereçleri açıklar",
+      "processComponents": [
+        "Bu teknikle yapılmış eserlerin görselleri örnek olarak gösterilir."
+      ]
+    },
+    {
+      "code": "GTSA.4.2.3",
+      "title": "Tiffany vitray tekniğinde desen çizer",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.2.4",
+      "title": "Tiffany vitray tekniğinde karton kalıp hazırlar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.2.5",
+      "title": "Tiffany vitray tekniğinde cam kesimi yapar",
+      "processComponents": [
+        "Tiffany vitray tekniği, fiziksel şartların uygun olmaması hâlinde renkli mika ya da asetat kâğıtlar kullanılarak uygulanabilir. Kurallara uygun çalışma yapma Estetik algısını geliştirme Planlı, özenli ve temiz çalışma yapma Tasarım yapma Gözlem yapma, gözlemlediğini uygulama Sanat terminolojisini doğru ve yerinde kullanma VİTRAY ALAN BECERİLERİ"
+      ]
+    },
+    {
+      "code": "GTSA.4.2.6",
+      "title": "Kesilen camlara rodaj ve bakır kaplama yapar",
+      "processComponents": [
+        "Alüminyum, bakır, pirinç yapışkan şeritlerle cam yerine kullanılan malzemeler kaplanabilir. Motif parçalarının birleştirilmesi çift taraflı metal bantlarla sağlanabilir."
+      ]
+    },
+    {
+      "code": "GTSA.4.2.7",
+      "title": "Vitray parçalarının birleştirmesini yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

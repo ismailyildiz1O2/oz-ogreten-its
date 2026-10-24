@@ -1,0 +1,44 @@
+{
+  "unitId": 81424010,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "10. ÜNİTE: PİYANO - DAĞARCIK",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.1.10.1",
+      "title": "Barok Dönemi eserlerini dönem özelliklerine uygun olarak seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.10.2",
+      "title": "Klasik Dönem eserlerini dönem özelliklerine uygun olarak seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.10.3",
+      "title": "Romantik Dönem eserlerini dönem özelliklerine uygun olarak seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.10.4",
+      "title": "Caz müziğini temel özelliklerine uygun olarak seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.10.5",
+      "title": "Türk bestecilerinin eserlerini seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

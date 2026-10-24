@@ -1,0 +1,45 @@
+{
+  "unitId": 81663035,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "35. ÜNİTE: PROGRAMLAMA DİLLERİ (PHP) - 2. ÜNİTE: PHP PROGRAMLAMA DİLİNİ TANIYALIM",
+  "hours": "18",
+  "description": "Bu ünitede, PHP programlama dilinin çalışma mantığı, yazım kuralları ve yapılandırma ayarları konularına değinilmiştir.",
+  "outcomes": [
+    {
+      "code": "BTY.35.1",
+      "title": "PHP programlama dilinin nasıl çalıştığını kavrar",
+      "processComponents": [
+        "PHP programlama dilinin nasıl çalıştığı görsel olarak anlatılır.",
+        "Kullanıcının yapmak istediği iş ve işlemler hangi yollardan geçerek sonuca ulaştığı anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.35.2",
+      "title": "Yazım kurallarını kavrar",
+      "processComponents": [
+        "$ karakterinin neden kullanıldığı anlatılır.",
+        "Kod yazımında parantezlerin ve noktalama işaretlerinin nerelerde ve nasıl kullanılacağı açıklanır.",
+        "Değişken tanımlama kuralları açıklanır.",
+        "Veri türleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.35.3",
+      "title": "Yapılandırma ayarlarını uygular",
+      "processComponents": [
+        "Php.ini dosyasındaki ayarlar açıklanır.",
+        "Öğrencilerden uygulamalı olarak php.ini dosyasında farklı ayarlar yapmaları istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

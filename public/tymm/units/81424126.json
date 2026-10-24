@@ -1,0 +1,50 @@
+{
+  "unitId": 81424126,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "126. ÜNİTE: EBRU - EBRU SANATINDA ÖN HAZIRLIK",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.3.3.1",
+      "title": "Ebru sanatında kullanılan malzemeleri açıklar",
+      "processComponents": [
+        "Ebru sanatında kullanılan malzemeler şamua kâğıt, kıvam arttırıcı, ebru boyası, ebru fırçası, su, sığır ödü, kavanoz, at kılı, gül dalı, biz ve tarak ile sınırlandırılır."
+      ]
+    },
+    {
+      "code": "GTSA.3.3.2",
+      "title": "Geleneksel usulle boya tekniğini uygular",
+      "processComponents": [
+        "Malzemelerin hazırlanışına değinilir ve geleneksel ebru fırçası bağlama tekniği uygulamasına yer verilir."
+      ]
+    },
+    {
+      "code": "GTSA.3.3.3",
+      "title": "Renkleri ve renklerin kullanılışını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.3.3.4",
+      "title": "Tekne materyalinin hazırlanışı konusundaki yöntem ve teknikleri uygular",
+      "processComponents": [
+        "Kitre ayarlarına yer verilir."
+      ]
+    },
+    {
+      "code": "GTSA.3.3.5",
+      "title": "Boya ayarlarının yapımını uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

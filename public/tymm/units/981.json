@@ -1,0 +1,64 @@
+{
+  "unitId": 981,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "2. TEMA: SOLUNUM ORGANLARI",
+  "hours": "3",
+  "description": "Solunum organlarının tanınmasına yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.5.2.1",
+      "title": ". Solunum organları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Solunum organları ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak solunum organları ile ilgili bilgileri bulur.",
+        "c) Solunum organları ile ilgili bilgileri doğrular.",
+        "ç) Solunum organları ile ilgili bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "BSE.5.2.2",
+      "title": "Solunum organlarının yerini bedeninde gösterebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "organ, solunum",
+  "support": [
+    "Öğrencilere solunum organlarının ismi ve bedenimizdeki yeri ile ilgili basit eğitim videoları ve animasyonlar izletilebilir. İzledikleri videolarla ilgili kısa bir tartışma yaparak bilgiyi pekiştirmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden solunum organlarının birbirleriyle nasıl çalıştığını anlatan bir hikâye yazmaları istenebilir. Öğrencilerden solunum organları hakkında detaylı bilgi toplamaları ve bunu dijital bir sunum, poster veya broşür hâline getirmeleri istenebilir. Öğrencilerden balon, pipet, plastik şişe gibi malzemelerle çalışan bir akciğer modeli oluşturmaları istenebilir. Öğrencilerden doktor veya fen bilimleri öğretmeni ile röportaj yaparak solunum sistemi hakkında bilgi edinmeleri istenebilir. Solunum organlarının yerini gösteren poster, afiş, maket gibi görsel materyaller üretmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi, derecelendirme ölçeği, gözlem öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir. Öğrencilere solunum organları hakkında bilgi toplayacakları bir performans görevi verilebilir. Derecelendirme ölçeği ile öğrencilerin solunum organları hakkında topladıkları bilgilerin doğruluğu, kapsamı ve sunumu değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "5.2.1 Öğrencilere solunum organları ile ilgili bilgiye ulaşmaları için kullanabilecekleri kaynaklar tanıtılarak bilgi ihtiyacı fark ettirilir. Örneğin basılı kaynaklar, dijital kaynaklar, uygulamalı kaynaklar veya insan kaynakları gibi kaynaklar hakkında bilgi verilerek istenen bilgiye ulaşmak için kullanacağı araçları belirlemeleri sağlanır ( OB1 ). Öğrencilerin belirlediği araçların kullanılarak solunum organları ile ilgili bilgileri bulacağı çalışmalar yapmaları sağlanır. Öğretmen, belirlenen bu araçların nasıl kullanılacağına dair rehberlik edebilir. Bu süreçte öğrenciler tarafından belirlenen araç kullanılarak solunum organları ile ilgili bilgiler bulunabilir, dijital bir görevin yerine getirilmesinde dijital kaynaklar belirlenebilir( OB2 ), solunum organları ile ilgili görseller kullanılabilir ( OB4 ), veri toplanabilir ( OB7 ). Solunum organları ile ilgili ulaşılan bilgiler paylaşılır. Elde edilen bilgiler, kaynaklar aracılığıyla karşılaştırılır ( KB2.10 ), kaynağın güvenilirliği ve bilgilerin doğruluğu değerlendirilir ( KB2.8 ), konu günlük hayattan örneklerle ve deneyimlerle ilişkilendirilir ( KB2.11 ). Eğitici oyunlar ( E2.5 ) ve uygulamalar sayesinde solunum organlarıyla ilgili bilgiler doğrulanır ve güvenilir bilgiye ulaşma yolları öğrenilir ( D3.3 ). Öğrencilerin solunum organları ile ilgili ulaştığı bilgileri kaydedeceği ( OB1 ) çalışmalara yer verilir. Poster veya sunum hazırlama, kavram haritaları oluşturma, tablo hazırlama, dijital araçlarla kayıt alma, bilgi kartları hazırlama gibi uygulamalara yer verilebilir. Bu uygulamalarla hedeflere uygun planlamalar yapılabilir ( SDB1.2 ), toplanan veriler sınıflandırılıp kaydedilebilir ( KB2.2 ). Böylelikle öğrencilerin solunum organlarının isimlerini sırasıyla (burun, ağız, yutak, gırtlak, soluk borusu, akciğer, bronş̧, bronşçuk, diyafram) belirtmeleri sağlanır. Çeşitli görsel materyaller aracılığıyla her bir solunum organının görünümü tanınır ( OB4 ). Öğrencilere solunum organları hakkında bilgi toplayacakları bir performans görevi verilebilir. Bütüncül dereceli puanlama anahtarı, öz değerlendirme formu ve değerlendirme soruları ile süreç değerlendirmesi yapılabilir. BSE.5.2.2 Öğrencilere solunum organlarının neler olduğu sorularak sahip oldukları bilgilerin önceki bilgilerle ilişkilendirilmesi sağlanır ( SDB1.1 ). Daha sonra sırasıyla solunum organlarının yerini kendi bedeninde göstermeleri istenir. Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.11",
+      "KB2.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/981"
+}

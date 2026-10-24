@@ -1,0 +1,79 @@
+{
+  "unitId": 81663049,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "49. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 6. ÜNİTE: VERİ MANİPÜLASYONU",
+  "hours": "7",
+  "description": "Bu ünitede bir veri setinin kullanılabilir hâle getirilmesi işlemleri üzerinde durulur. Toplulaştırma ve gruplaştırma işlemleri gösterilir. Veri seti üzerinden Label Encoder uygulaması ve One-Hot dönüşümü öğretilir.",
+  "outcomes": [
+    {
+      "code": "BTY.49.1",
+      "title": "Veri setleri ile ilgili olan kavramları açıklar",
+      "processComponents": [
+        "Bir veri seti oluşturarak tamlık, teklik, geçerlik, doğruluk ve tutarlılık kavramı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.49.2",
+      "title": "Veri setleri üzerinde toplulaştırma ve gruplama işlemleri yapar",
+      "processComponents": [
+        "Bir veri seti üzerinde count(), first(), last(), mean(), median(), min(), max(), std(), var(), sum() komutlarını kullanarak toplulaştırma işlemleri gerçekleştirilir.",
+        "Gruplama işleminin toplulaştırma fonksiyonları ile kullanılması gerektiği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.49.3",
+      "title": "Bir veri setindeki eksik ve aykırı değerleri tespit eder",
+      "processComponents": [
+        "Eksik ve aykırı değer kavramları açıklanır.",
+        "Aykırı değerleri belirlemenin en kolay yolunun kutu grafiği olduğu bilgisi vurgulanır ve bir liste üzerinden kutu grafiği çizimi gösterilir.",
+        "Aykırı değere ulaşmak için 1.çeyreklik, 3.çeyreklik ve çeyrekler arası açıklık değerleri açıklanır ve quantile() komutunun kullanımı gösterilir.",
+        "Aykırı değerlerden kurtulmak için silme ve baskılama yöntemleri gösterilir.",
+        "Veri setinde bulunan eksik değerler isnull() komutu kullanılarak gösterilir.",
+        "Eksik verilerin silinmesi için dropna() komutu, eksik verinin yerini bir değer ile doldurmak için fillna() komutu ve methods parametresinin kullanımı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.49.4",
+      "title": "One-Hot dönüşümü ile kategorik değişkenleri sayısal değişkenlere dönüştürür",
+      "processComponents": [
+        "Bir veri setinin doğru yorumlanabilmesi için kategorik değişkenlerin sayısal değişkenlere dönüşümü gösterilir.",
+        "Kategorik değişkenlerin sayısal değişkenlere dönüştürülmesi için get_dummies() komutu, columns ve prefix() parametreleri kullanımı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.49.5",
+      "title": "Label Encoder ile kategorik değişkenleri sayısal değişkenlere dönüştürür",
+      "processComponents": [
+        "Kategorik değişkenlerin sayısal değişkenlere dönüştürülmesi için Label Encoder yönteminin kullanımı gösterilir.",
+        "Bir veri seti üzerinde One-Hot dönüşümü ve Label Encoder yöntemi kullanılarak kategorik değişkenleri sayısal değişkenlere dönüştürülür.",
+        "One-Hot dönüşümü ve Label Encoder yöntemi arasındaki fark açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.49.6",
+      "title": "Verileri standart hâle getirmek için gerekli olan fonksiyonları kullanır",
+      "processComponents": [
+        "Verilerin neden standart hâle getirilmesi gerektiği açıklanır.",
+        "Verileri standart hâle getirmek için StandartScaler() ve preprocessing.scale() komutlarının kullanımı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.49.7",
+      "title": "Fonksiyon kullanarak verileri normalleştirir",
+      "processComponents": [
+        "Verilerin neden normalleştirilmesi gerektiği açıklanır.",
+        "Scikit-learn kütüphanesinin Preprocessing modülüne ait normalize() fonksiyonunun kullanımı gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

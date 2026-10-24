@@ -1,0 +1,46 @@
+{
+  "unitId": 81424123,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "123. ÜNİTE: TEZHİP - 16. YÜZYIL KLASİK DÖNEM TEZHİBİNİN UYGULANMASI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.2.7.1",
+      "title": "16. yüzyıl Klasik Dönem tezhipini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.7.2",
+      "title": "Yazma eser tezhipinin bölümlerini ifade eder",
+      "processComponents": [
+        "Zahriye sayfası, serlevha, sure başı tezhipi, cüz, hizip ve secde gülleri, duraklar, tığlar, hâtime sayfası ile sınırlandırılır."
+      ]
+    },
+    {
+      "code": "GTSA.2.7.3",
+      "title": "16. yüzyıl klasik dönem tezhipi kurallarına göre bir kitap ayracı tasarlar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.7.4",
+      "title": "Kitap ayracı olarak Rumî ve bitkisel motifleri kullanarak serbest desen tasarımı yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.7.5",
+      "title": "Kitap ayracı desenlerinin altınlarını ve çiçek zeminlerini boyar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

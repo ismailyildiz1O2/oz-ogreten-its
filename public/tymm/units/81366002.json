@@ -1,0 +1,105 @@
+{
+  "unitId": 81366002,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Yönetim Bilimi Dersi",
+  "title": "2. ÜNİTE: YÖNETİMİN TEMEL FONKSİYONLARI - I",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YNB.2.1",
+      "title": "Karar vermenin anlamını açıklar",
+      "processComponents": [
+        "Karar verme kavramın anlamı üzerinde durulur.",
+        "Sorun çözme ve karar verme arasındaki ilişki vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.2.2",
+      "title": "Yönetimde karar vermenin önemini açıklar",
+      "processComponents": [
+        "Karar verme ve etkililik ilişkisi vurgulanır.",
+        "Geleneksel yönetim anlayışında karar vermenin sezgiye ve deneyime dayandığı, yeni yönetim yaklaşımlarında ise karar vermenin bir bilimsel yöntem olarak ele alındığı vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.2.3",
+      "title": "Karar verme sürecini analiz eder",
+      "processComponents": [
+        "Karara katılmanın kişisel ve örgütsel sonuçları vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.2.4",
+      "title": "Planlama kavramını açıklar",
+      "processComponents": [
+        "Planlama kavramı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.2.5",
+      "title": "Planlamanın önemini örnekler vererek açıklar",
+      "processComponents": [
+        "Planlama yapmanın yararları ve sağladığı kolaylıklar hakkında bilgi verilir.",
+        "Başarı ve planlama arasındaki ilişki vurgulanır.",
+        "Planlama hangi sorulara cevap arar?"
+      ]
+    },
+    {
+      "code": "YNB.2.6",
+      "title": "Yönetimde planlamanın yararlarını irdeler",
+      "processComponents": [
+        "Planlamanın yararları ile ilgili okuma parçası verilir.",
+        "Planlama yapmanın yöneticiye kazandıracağı olumlu nitelikler üzerinde durulur.",
+        "Etkili bir planlama için gerekli koşullar vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.2.7",
+      "title": "Planlama sürecini analiz eder",
+      "processComponents": [
+        "Planlama sürecinin aşamalarından her hangi birinin eksik ya da hiç olmaması durumunda hazırlanan plan nasıl etkilenir?"
+      ]
+    },
+    {
+      "code": "YNB.2.8",
+      "title": "Plan türlerini sınıflandırır",
+      "processComponents": [
+        "Kalkınma planları ile stratejik planlama üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.2.9",
+      "title": "Örgütlenmenin önemini açıklar",
+      "processComponents": [
+        "Örgüt ve örgütlenmeye günlük yaşantıdan örnekler verilir.",
+        "Örgütü etkileyen çevresel ögeler (endüstri, hammadde, insan kaynakları, finansal kaynaklar, pazar, teknoloji, ekonomik koşullar, hükûmet, kültür) üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.2.10",
+      "title": "Örgütlenmenin yararlarını yönetim bilimi açısından değerlendirir",
+      "processComponents": [
+        "Örgütleme süreci ve örgütleme sürecinin planlama ile ilişkisine değinilir."
+      ]
+    },
+    {
+      "code": "YNB.2.11",
+      "title": "Örgütleri türlerine göre irdeler",
+      "processComponents": [
+        "Örnek örgüt şemaları incelenir.",
+        "Örgüt kültürü kavramı üzerinde durulur.",
+        "Çoktan seçmeli, açık uçlu, kısa cevaplı, boşluk doldurma, eşleştirme tipi testler; öğrenci gözlem formu, öz değerlendirme formu kullanılarak değerlendirme yapılabilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112716320896-Y%C3%B6netim%20Bilimi.pdf"
+}

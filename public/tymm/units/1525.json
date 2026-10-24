@@ -1,0 +1,38 @@
+{
+  "unitId": 1525,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY I · 3. Tema: Dijital Tasarım Elemanları Ve İlkeleri",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.1.3.1",
+      "title": "Görsel sanat eserlerinde temel sanat elemanlarını gözlemleyebilme",
+      "processComponents": [
+        "a) Görsel sanat eserlerinde yer alan bileşenleri fark eder.",
+        "b) Görsel sanat eserlerinde yer alan bileşenleri sözel olarak ifade eder."
+      ]
+    },
+    {
+      "code": "DS.1.3.2",
+      "title": "Görsel düzenleme sürecinde dijital tasarım araç, teknoloji ve yöntemlerinden yararlanabilme",
+      "processComponents": [
+        "a) Görsel düzenleme sürecinde kullanılan dijital araç, teknoloji ve yöntemleri tanır.",
+        "b) Görsel düzenleme sürecine uygun araç, teknoloji ve yöntemleri belirler.",
+        "c) Görsel düzenleme yapmak için tasarım ilkelerine uygun belirlediği araç, teknoloji ve yöntemleri kullanır.",
+        "ç) Görsel düzenlemede kullanılan araç, teknoloji ve yöntemleri değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "biçim, denge, dijital araçlar, doku, görsel tasarım, kompozisyon, renk, tasarım ilkeleri",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB1. Sanatsal Algılama (SAB1.1. Sanatsal Gözlemleme), BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1525"
+}

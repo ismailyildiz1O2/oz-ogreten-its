@@ -1,0 +1,104 @@
+{
+  "unitId": 80950007,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "7. ÜNİTE: 10. SINIF - SOSYAL DUYGUSAL GELİŞİM",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.7.1",
+      "title": "Yaşamındaki karar verme sürecini etkileyen faktörleri açıklar",
+      "processComponents": [
+        "Karar verme sürecindeki faktörlerin (kişisel özellikleri, ailesinin görüşleri, yaşadığı çevrenin özellikleri vb.) etkisi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "REH.7.2",
+      "title": "Karar verme basamaklarını kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.3",
+      "title": "Beden imgesini etkileyen faktörler açısından kendini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.4",
+      "title": "Gelişim dönemi ile duygusal dalgalanmaları arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.5",
+      "title": "Sosyal ipuçlarını yorumlayarak uygun tepkiler verir",
+      "processComponents": [
+        "Beden dili, ses tonu, giyimi gibi sosyal ipuçlarına"
+      ]
+    },
+    {
+      "code": "REH.7.6",
+      "title": "Sahip olduğu karakter güçlerini geliştirmek için çaba gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.7",
+      "title": "Yaşamda karşılaşılan zorlukların çaba ve zaman ile üstesinden gelinebileceğini fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.8",
+      "title": "Çatışma çözme becerilerini kullanır",
+      "processComponents": [
+        "Ben Sorun Çözebilirim modeli temeline dayanarak etkinlik planlanır."
+      ]
+    },
+    {
+      "code": "REH.7.9",
+      "title": "İyilik hâline ilişkin edindiği bilgileri yaşamında uygulamayı alışkanlık hâline getirir",
+      "processComponents": [
+        "İyilik hâli kapsamında öz bakım, fiziksel egzersiz, beslenme, uyku düzeni vb. ele alınır."
+      ]
+    },
+    {
+      "code": "REH.7.10",
+      "title": "Bilişim teknolojileri kullanımında kendini yönetir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.11",
+      "title": "Yerel ve küresel sorunları fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.12",
+      "title": "Gerektiğinde arkadaşlığını sonlandırır",
+      "processComponents": [
+        "1. Hafta: Arkadaşlık ilişkilerini sonlandırma gerektiren durumlara odaklanılır 2. Hafta: Arkadaş şiddetine odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.7.13",
+      "title": "Takım çalışmalarının kişisel gelişimine olan etkilerini fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.14",
+      "title": "Kişisel hakların korunması ve kişisel güvenliğin sağlanması için yönergeleri izlemeyi alışkanlık hâline getirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.7.15",
+      "title": "Doğal yaşamı korumak için duyarlı davranır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

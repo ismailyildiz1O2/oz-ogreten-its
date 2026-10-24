@@ -1,0 +1,45 @@
+{
+  "unitId": 1581,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Spor ve Fiziki Etkinlikler Dersi",
+  "title": "III. Ünite: Spor Branşının Taktik Becerilerini Öğreniyorum",
+  "hours": "28",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SFE.3.1",
+      "title": "Seçilen Spor branşına özgü taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Seçilen spor branşına özgü taktiksel ve stratejik problemleri belirler.",
+        "b) Seçilen spor branşına özgü belirlenen taktiksel ve stratejik duruma yönelik çözüm önerileri sunar.",
+        "c) Seçilen spor branşına özgü geliştirilen taktik veya stratejiyi oyun ve yarışma ortamında uygular."
+      ]
+    },
+    {
+      "code": "SFE.3.2",
+      "title": "Seçilen spor branşında adil oyun anlayışına uygun davranabilme",
+      "processComponents": [
+        "a) Seçilen spor branşında adil oyun ilkelerini açıklar.",
+        "b) Seçilen spor branşında adil oyun anlayışına uygun davranır."
+      ]
+    },
+    {
+      "code": "SFE.3.3",
+      "title": "Seçilen spor branşında takım/grup liderliği sergileme",
+      "processComponents": [
+        "a) Seçilen spor branşında takım/grup liderliği özelliklerini tanır.",
+        "b) Seçilen spor branşında takım/grup liderliği özelliklerini gösterir."
+      ]
+    }
+  ],
+  "keyConcepts": "adil oyun, liderlik, strateji, taktik",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme, BEOSAB8. Adil Oyun Anlayışına Uygun Davranma, BEOSAB9. Takım/Grup Liderliği Sergileme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1581"
+}

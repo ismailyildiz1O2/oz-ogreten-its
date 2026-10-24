@@ -1,0 +1,107 @@
+{
+  "unitId": 1095,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları - Müzik Tarihi Dersi",
+  "title": "4. TEMA: TÜRK MÜZİĞİNDE YENİ TÜRLER",
+  "hours": "8",
+  "description": "Temada öğrencilerin Türk tango ve valslerini çözümleyebilmeleri, Türkçe sözlü hafif Batı müziği hakkında bilgi toplayabilmeleri, Türk pop müziğinin tarihsel gelişimini yorumlayabilmeleri, Anadolu rock müziğini çözümleyebilmeleri ve arabesk müziğin gelişimini yorumlayabilmelerine yönelik bilgi ve beceri kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MT.8.4.1",
+      "title": "Türk tango ve valslerini çözümleyebilme",
+      "processComponents": [
+        "a) Türk tango ve valslerinin müzikal unsurlarını belirler.",
+        "b) Türk tango ve valslerinin belirlenen unsurları arasındaki ilişkileri analiz eder."
+      ]
+    },
+    {
+      "code": "MT.8.4.2",
+      "title": "Türkçe sözlü hafif Batı müziği hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Türkçe sözlü hafif Batı müziği hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Türkçe sözlü hafif Batı müziğinin tarihsel gelişimi, önemli sanatçıları ve eserleri hakkında bilgi toplar.",
+        "c) Türkçe sözlü hafif Batı müziği hakkında ulaşılan bilgileri doğrular.",
+        "ç) Türkçe sözlü hafif Batı müziği hakkında ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MT.8.4.3",
+      "title": "Türk pop müziğinin tarihsel gelişimi ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Konu ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak konu ile ilgili bilgileri bulur.",
+        "c) Konu ile ilgili bilgileri doğrular.",
+        "ç) Konu ile ilgili bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MT.8.4.4",
+      "title": "Anadolu rock müziğini çözümleyebilme",
+      "processComponents": [
+        "a) Anadolu rock müziği eserlerinde kullanılan müzikal unsurları belirler.",
+        "b) Anadolu rock müziği eserlerinde Türk halk müziği ile Batı müziği unsurlarının bir araya gelmesinin etkilerini analiz eder."
+      ]
+    },
+    {
+      "code": "MT.8.4.5",
+      "title": "Arabesk müziğin gelişimi ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Konu ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak konu ile ilgili bilgileri bulur.",
+        "c) Konu ile ilgili bilgileri doğrular.",
+        "ç) Konu ile ilgili bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "kentleşme, popüler kültür",
+  "support": [
+    "Öğrencilerden seçtikleri bir tango veya valsin müzikal özelliklerini tanıtan sunum hazırlamaları istenebilir. Öğrencilerden seçtikleri Türkçe sözlü hafif müzik eserinin müzikal özelliklerini tanıtan bilgi görseli hazırlamaları istenebilir. Öğrencilerden Türk pop müziğinin tarihsel gelişimini gösteren afiş hazırlamaları istenebilir. Öğrencilerden Anadolu rock müziğinin özelliklerini listelemeleri istenebilir. Öğrencilerden Arabesk müziğin ortaya çıkışı, tarihsel gelişimi ve kültürel etkilerini açıklayan bir araştırma yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden tango ve valslerin evrensel örnekleri ile Türk tango ve valslerini karşılaştırmaları istenebilir. Öğrenciler Türkçe sözlü hafif Batı müziğinde Türkçe sözlerle yeniden düzenlenen şarkıları orijinalleriyle karşılaştırabilirler. Öğrencilere farklı dillerde söz yazılmış Türk müziği eserlerini araştırma görevi verilebilir. Öğrenciler pop müziğin teknolojik gelişmelerle nasıl şekillendiğini göstermek için bir zaman çizelgesi oluşturabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, grup değerlendirme formu, öz değerlendirme formu, akran değerlendirme formu, analitik dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden Anadolu rock müziği türünde eserlerden birini analiz ederek bu şarkıda kullanılan halk müziği motiflerini ve Batı müziği unsurlarını belirlemeleri istenebilir. Performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MT.8.4.1 Öğrencilere Türk tango ve valslerinin Cumhuriyet Dönemi müzik tarihinin önemli bir parçasını oluşturduğu belirtilir. Türk tango ve valslerinin önemli örnekleri dinletilir ( SAB9 ). Dinletilen eserlerin ritmik yapısını, ezgisel karakterini, temalarını ve eserlerde kullanılan çalgıları belirlemeleri için öğrencilere dinleme formu dağıtılır ( E2.2 ). Öğrencilerin doldurduğu dinleme formları toplanarak sonuçlar değerlendirilir. Öğrenciler, analiz ettikleri eserlerin arasındaki benzerlikleri ve farklılıkları grup tartışması yoluyla belirlerler ( KB2.7 , OB9 , E3.6 ). Gruplar belirledikleri benzerlikleri ve farklılıkları hazırladıkları bir karşılaştırma tablosu ile sunarlar ( OB1 , SDB2.2 ). Sunumlar sırasında tangoların ve valslerin ortak yönleri, duygusal etkileri, eserlerdeki kültürel ve tarihsel bağlam gibi unsurlar tartışılır ( D19.2 ). Performans görevi olarak öğrencilerden Türk tango veya valslerinden birini seçmeleri ve bu eserin kültürel bağlamını, ritmik yapısını, ezgisel karakterini ve eserde kullanılan çalgıları analiz etmeleri, analiz sonuçlarını görsel ve işitsel materyallerle zenginleştirerek dijital bir sunum hâlinde hazırlayarak sınıfta sunmaları istenebilir. Öğrencilerin grup tartışmalarına katılımı ve iş birliği gözlem formuyla değerlendirilebilir. Öğrencilerin bireysel katkılarını ve grup sürecine olan etkilerini değerlendirebilmeleri için öz değerlendirme formu, grupların birbirlerinin sunumlarını değerlendirebilmeleri için akran değerlendirme formu kullanılabilir. Performans görevleri ve sunumlar kapsam, içerik gibi belirlenen ölçütler çerçevesinde analitik dereceli puanlama anahtarı ile değerlendirilebilir. MT.8.4.2 Öğrencilere dinletilen eserlerin ritmik yapısı, sözleri, temaları, eserlerde kullanılan çalgılar gibi özellikleri analiz etmeleri için bir dinleme formu dağıtılır ( OB9 ). Analiz etmeleri için bir dinleme formu dağıtılır ( OB9 ). Öğretmen rehberliğinde formlar değerlendirilir. Öğrenciler gruplara ayrılarak Türkçe sözlü hafif Batı müziğinin önemli sanatçılarını, eserlerini, dönemin sosyal ve kültürel yapısını araştırırlar ( E2.2 , SBAB2.2 , OB1 , D15.3 , D19.2 ). Her grup, belirlenen bir konu hakkında güvenilir genel ağ adresleri, basılı kaynaklar ve dijital içerikler kullanarak bilgi toplar. Öğrenciler, buldukları bilgileri ve belirledikleri kaynakların doğruluğunu tartışarak teyit ederler. Kaynak belirleme, gelişmeleri içeren bilgileri bulma, bu bilgilerin doğrulanmasına dair kanıtlar ve bilgilerin kaydedilmesine yönelik her çalışma için öğrencilerden küçük gruplar oluşturmaları istenebilir ( E3.4 , OB1 ). Gruplar araştırdıkları bilgileri içeren bir bilgi görseli oluştururlar. Bu bilgi görselinde Türkçe sözlü hafif Batı müziğinin tarihsel gelişimindeki önemli isimler, dönemin öne çıkan eserleri, sosyal ve kültürel bağlamları ile ilgili açıklamalar, görsel materyaller yer alır. Görsel olarak zenginleştirilmiş bilgi görseli, dijital sunum hâline getirilir ve sınıfta paylaşılır ( OB1 , OB2 , OB4 , E3.7 , D16.3 ). Öğrencilerin çalışmalarını değerlendirmek ve grup çalışmasındaki iş birliği ile etkinlik düzeyini ölçmek için grup değerlendirme formu, araştırmanın içeriğinin doğruluğunu ve kapsamını değerlendirmek için kontrol listesi, sunum sırasında öğrencilerin iletişim ve ifade becerilerini değerlendirmek için gözlem formu kullanılabilir.",
+    "MT.8.4.3 Öğrencilere Türk pop müziğinin tarihsel gelişimi ile ilgili bilgiye ulaşmaları için kullanabilecekleri kaynaklar tanıtılarak öğrencilerin bu amaçla kullanacağı araçları belirlemeleri sağlanır ( OB1 ). Öğrencilerin belirlediği araçlarla konu ile ilgili bilgileri bulacakları çalışmalar yapmaları sağlanır. Öğrenciler gruplara ayrılır ve her grup 1970'ler, 1980'ler veya 1990'lar gibi belirli bir dönemi seçer. Gruplar seçtikleri döneme ait sanatçıları, eserleri, dönemin toplumsal yapısını, teknolojik ilerlemelerin müzik üretim süreçlerindeki yansımalarını araştırırlar ( E1.1 , E2.2 , SBAB2.2 , OB1 , D15.3 , D19.2 ). Grupların konu ile ilgili edindikleri bilgileri farklı kaynaklardan araştırma yaparak doğrulaması beklenir ( KB2.8 ). Gruplardan görsel ve işitsel materyallerle zenginleştirilmiş bir sunum hazırlamaları istenerek edinilen bilgilerin kaydedilmesi sağlanır ( OB1 , OB2 , OB4 , OB9 , SDB2.2 ). Hazırlanan sunumlar sınıf ortamında paylaşılır. Bu uygulamalarla hedeflere uygun planlamalar yapılabilir, toplanan veriler sınıflandırılıp kaydedilebilir ( SDB1.2 , KB2.2 ). Gözlem formu, öz değerlendirme formu, akran değerlendirme formu kullanılarak süreç değerlendirilebilir. Sunumlar kapsam, içerik gibi belirlenen ölçütler çerçevesinde analitik dereceli puanlama anahtarı ile değerlendirilebilir. MT.8.4.4 Öğrencilere rock müziğinin dünya çapında klasikleşmiş eserlerinden örnekler dinletilir. Dinleme sırasında rock müziğine özgü ritmik yapı, vokal tarzı, çalgı düzenlemeleri, bas hattı ve gitar riffleri gibi unsurlara dikkat çekilir ( E3.2 ). Ardından Anadolu rock müziği eserleri dinletilir ( SAB9 ). Öğrencilere dinletilen eserlerin halk müziği motiflerini, bu eserlerde kullanılan Batı müziği ve Türk müziği çalgılarını, eserlerin ritmik yapıları ve tematik unsurlarını analiz etmeleri için dinleme formları dağıtılır ( E3.2 , OB9 ). Öğrencilerin doldurduğu dinleme formları toplanarak sonuçlar öğretmen rehberliğinde değerlendirilir. Öğrenciler gruplara ayrılır. Her grup belirli bir eser seçer ve dinler. Grupların dinledikleri eserlerle ilgili \"Bu eserde hangi Türk halk müziği motifleri kullanılmıştır?\" \"Bu türün dönemin toplumsal olaylarını ve değişimlerini yansıtma şekli nedir?\" \"Batı müziği çalgıları ve ritimlerinin Anadolu motifleriyle uyumu nasıl sağlanmıştır?\" gibi soruları tartışarak Anadolu rock müziğinin müzikal yapısını ve kültürel bağlamını anlamaları desteklenir ( SDB2.1 ). Performans görevi olarak öğrencilerden Anadolu rock müziği türünde eserlerinden birini seçerek bu şarkıda kullanılan Türk halk müziği motiflerinive Batı müziği unsurlarını belirlemeleri istenebilir. Öğrencilerin grup tartışmalarına katılımı ve iş birliği düzeyi gözlem formuyla değerlendirilebilir. Öğrencilerin kendi bireysel katkılarını ve grup sürecine olan etkilerini değerlendirebilmeleri için öz değerlendirme formu, grupların birbirlerinin sunumlarını değerlendirebilmeleri için akran değerlendirme formu kullanılabilir. Sunumlar ve performans görevleri kapsam, içerik gibi belirlenen ölçütler çerçevesinde analitik dereceli puanlama anahtarı ile değerlendirilebilir. MT.8.4.5 Öğrencilere arabesk müziğin gelişimi ile ilgili bilgiye ulaşmaları için kullanabilecekleri kaynaklar tanıtılarak öğrencilerin bu amaçla kullanacağı araçları belirlemeleri sağlanır ( OB1 ). Öğrencilerin belirlediği araçlarla konu ile ilgili bilgileri bulacakları çalışmalar yapmaları sağlanır. Öğrenciler gruplara ayrılır ve her grup arabesk müziğin gelişimindeki belirli bir dönemi seçer. Gruplar seçtikleri döneme ait sanatçıları, eserleri, dönemin toplumsal yapısını ve arabesk müziğin bu toplumsal koşullarla ilişkisini araştırırlar ( E1.1 , E2.2 , SBAB2.2 , OB1 , D15.3 , D19.2 ). Grupların konu ile ilgili edindikleri bilgileri farklı kaynaklardan araştırma yaparak doğrulaması beklenir ( KB2.8 ). Gruplardan görsel ve işitsel materyallerle zenginleştirilmiş bir bilgi görseli hazırlamaları istenerek edinilen bilgilerin kaydedilmesi sağlanır ( OB1 , OB2 , OB4 , OB9 , SDB2.2 ). Hazırlanan bilgi görseli sınıf panosunda paylaşılır. Bu uygulamalarla hedeflere uygun planlamalar yapılabilir, toplanan veriler sınıflandırılıp kaydedilebilir ( SDB1.2 , KB2.2 ). Gözlem formu, öz değerlendirme formu, akran değerlendirme formu kullanılarak süreç değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D15.3",
+      "D16.3",
+      "D19.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.2",
+      "E3.4",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.7",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB9"
+    ],
+    "diger": [
+      "SAB9",
+      "SBAB2.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1095"
+}

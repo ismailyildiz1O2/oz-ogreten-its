@@ -1,0 +1,134 @@
+{
+  "unitId": 81366004,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Yönetim Bilimi Dersi",
+  "title": "4. ÜNİTE: YÖNETİM BİLİMİNDE YENİ YAKLAŞIMLAR",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YNB.4.1",
+      "title": "Sistem yaklaşımını yaşamının her alanıyla ilişkilendirir",
+      "processComponents": [
+        "Alt sistemler arasında denge, uyum ve sıkı bir ilişkinin olduğu vurgulanır.",
+        "Sistem yaklaşımının ortaya çıkış nedenleri vurgulanır.",
+        "Sistem yaklaşımın bütüncül bir yaklaşım geliştirme amacı vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.4.2",
+      "title": "Sistem yaklaşımı ile ilgili temel kavramları analiz eder",
+      "processComponents": [
+        "Açık ve kapalı sistem üzerinde durulur.",
+        "Açık sistemler ile entropi arasındaki ilişki vurgulanır.",
+        "Örgütün başarısının, iç sistemin özellikleri ( maddi kaynaklar, beşerî kaynaklar vb.) kadar dış çevrenin özellikleri ve bu çevreye uyum gücüne de bağlı olduğu vurgulanır.",
+        "Büyük şehirlerin trafik sorunu sistem yaklaşımı çerçevesinde nasıl çözümlenebilir?"
+      ]
+    },
+    {
+      "code": "YNB.4.3",
+      "title": "Durumsallık yaklaşımı hakkında çıkarımlarda bulunur",
+      "processComponents": [
+        "Durumsallık yaklaşımının büyük ölçüde işletmelerle ilgili araştırma sonuçlarına dayandığı vurgulanır.",
+        "Felsefe dersiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "YNB.4.4",
+      "title": "Durumsallık yaklaşımının nedenlerini ve sonuçlarını analiz eder",
+      "processComponents": [
+        "Durumsallık yaklaşımına göre bir örgütün ve örgüt yöneticisinin başarısı iç ve dış koşulların gözlemlenmesine dayalı olduğu vurgulanır.",
+        "Kitle üretiminin yapıldığı işletmelerde niceliksel değerlendirmelerin daha önemli olduğu, yoğun teknoloji ve yaratıcılığın kullanıldığı işletmelerde ise niteliksel değerlendirmenin daha önemli olduğu belirtilir."
+      ]
+    },
+    {
+      "code": "YNB.4.5",
+      "title": "Z teorisi ile X ve Y teorisi arasındaki ilişkiyi yorumlar",
+      "processComponents": [
+        "X ve Y teorisiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "YNB.4.6",
+      "title": "Z teorisi ile X ve Y teorisini karşılaştırır",
+      "processComponents": [
+        "Japon yönetim anlayışı ile Amerikan yönetim anlayışının ben ve biz kültürlerine bakışı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.4.7",
+      "title": "Toplam Kalite Yönetimi (TKY) uygulamalarını açıklar",
+      "processComponents": [
+        "TKY ile stratejik planlama ve performans denetiminin ilişkisi vurgulanır.",
+        "TKY' nin hizmet ya da mal üretiminin her aşamasında, en alt kademedeki çalışandan üst yönetime kadar devam eden bir süreç olduğu vurgulanır.",
+        "Klasik gelişme yaklaşımı ile sürekli gelişme yaklaşımı grafik ile vurgulanır.",
+        "Kalite belgesinin TKY' nin unsurlarından sadece biri olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.4.8",
+      "title": "Toplam Kalite Yönetimi sürecini analiz eder",
+      "processComponents": [
+        "PUKÖ ile POSDCORB ilişkisi kurulur.",
+        "Özel sektörün değerleri ile kamu yönetiminin değerleri karşılaştırılarak kamu yönetiminin müşterilere değil vatandaşa hizmet ettiği vurgulanır.",
+        "Toplam Kalite Yönetimine yöneltilen eleştiriler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.4.9",
+      "title": "Çatışma ve kriz yönetimini açıklar",
+      "processComponents": [
+        "Çatışma türleri (bireysel, örgütsel ve örgütler arası çatışma) vurgulanır.",
+        "Çatışma, kriz, zaman ve stres yönetimi gibi konuların yönetim sürecinin bir parçası olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.4.10",
+      "title": "Çatışma yönetimi tekniklerini irdeler",
+      "processComponents": [
+        "Çatışmayı yönetmenin neden önemli olduğu vurgulanır.",
+        "Çatışma düzeylerini, örgüt ve çalışanı için hangi düzey çatışmanın daha yararlı olduğu vurgulanır.",
+        "Çatışma türünün çatışmayı çözmek için kullanılan tekniklerin belirlenmesinde etkisi var mıdır?"
+      ]
+    },
+    {
+      "code": "YNB.4.11",
+      "title": "Kriz kavramın anlamını açıklar",
+      "processComponents": [
+        "Kamu örgütlerinin krizi çözmeye yönelik (Başbakanlık Kriz Yönetim Merkezi, Bakanlıkların Kriz Merkezi, Valiliklerin Kriz Merkezi vb.) birimlerinin olduğu ve bu birimlerin işlevleri vurgulanır.",
+        "Krizin çatışmaya dönüşmemesi için neler yapılabilir?",
+        "Kriz anında oluşabilecek iletişim sorunları neler olabilir?",
+        "Çoktan seçmeli, açık uçlu, kısa cevaplı, boşluk doldurma, eşleştirme tipi testler; öğrenci gözlem formu, öz değerlendirme formu kullanılarak değerlendirme yapılabilir."
+      ]
+    },
+    {
+      "code": "YNB.4.12",
+      "title": "Krizin nedenlerini irdeler",
+      "processComponents": []
+    },
+    {
+      "code": "YNB.4.13",
+      "title": "Zaman yönetimi kavramını anlamını açıklar",
+      "processComponents": [
+        "Zaman yönetimi için yapılması gereken ilk şeyin zamanın nasıl geçirildiğini belirlemek olduğu vurgulanır. Uyku, yemek, kişisel bakım, temizlik ve ulaşım gibi zorunlu işler için harcanan zaman çıkarıldıktan sonra kalan süre için planlama yapılması gerektiği belirtilir."
+      ]
+    },
+    {
+      "code": "YNB.4.14",
+      "title": "Stratejik yönetim kavramının anlamını açıklar",
+      "processComponents": [
+        "Stratejik yönetim planının bütün kurumlar için gerekli olduğu vurgulanır.",
+        "Stratejik yönetim sürecinin önleyici boyutu vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112716320896-Y%C3%B6netim%20Bilimi.pdf"
+}

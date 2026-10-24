@@ -1,0 +1,56 @@
+{
+  "unitId": 1403,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "2. TEMA: MAKAM DİZİLERİ İLE ETÜTLER-1",
+  "hours": "16",
+  "description": "Temada öğrencilerin çargâh, buselik, kürdi dizilerini pekiştirmeleri ve bu dizilere uygun etütleri viyolada doğru tekniklerle çalabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.7.2.1",
+      "title": "Makam dizilerinde etüt çalışmaları yapabilme",
+      "processComponents": [
+        "a) Çargâh, buselik, kürdi makamı dizilerine uygun etütleri çözümler.",
+        "b) Makam dizilerine uygun etütleri çalarken doğru duruş ve tutuş pozisyonlarını alır.",
+        "c) Makam dizilerine uygun etütleri çalarken viyolaya özgü teknikleri kullanır.",
+        "ç) Makam dizilerine uygun etütleri çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "buselik, çargâh, dizi, kürdi, viyola",
+  "support": [
+    "Sadeleştirilmiş etütler ve solfej çalışmaları düzenlenerek öğrencilerin bu dizileri hem bireysel hem de grup çalışmasıyla pekiştirmesi sağlanabilir. Performans hazırlıkları sırasında, yay hareketleri, duruş ve entonasyon gibi detaylarda bireysel geri bildirim verilebilir."
+  ],
+  "enrichment": [
+    "Dijital platformlar veya müzik yazılımları kullanılarak bu makamların karakteristik yapısını gösteren kısa sunumlar hazırlayabilirler. Grup etkinliklerinde farklı makamların kullanım alanlarını araştırarak bu bilgileri sınıf içinde paylaşabilirler. Örneğin Türk müziğinde bu makamların hangi tür eserlerde kullanıldığını analiz eden bir proje hazırlayabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, öz değerlendirme ve akran değerlendirme ile ölçülebilir. Performans görevi olarak öğrencilerden belirledikleri bir makamda etüt bestelemeleri istenebilir. Bestelenen etütler; durak, güçlü ve yeden perdeleri içerecek şekilde yapılandırılarak sınıfta icra edilebilir. Performans görevi dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VİY.7.2.1",
+    "Öncelikle öğretmen tarafından etkileşimli tahta kullanarak öğrencilere buselik, çargâh ve kürdi dizileri ile ilgili eserler dinletir. Öğrencilerden dinledikleri eserler ile ilgili çözümlemeler yapmaları beklenir ( KB2.4 ). Daha sonra öğrencilere düzeylerine uygun etütler nota kâğıtlarıyla verilir ( OB4 ).Öğrencilerden etüt ve eserin bona çalışması yapılarak çözümlemesi istenir. Etüt ve eserler ile ilgili bona çalışması ritim hatası olmayacak şekilde tekrarlarla çalışılır ( D12 ). Seslendirecekleri etütlerde viyolada doğru tutuş ve duruş pozisyonunu alarak öğretmen eşliğinde etüt ve eser çalışmalarına geçerler. Bu aşamada öğrencilerden kendilerini değerlendirmeleri beklenir ( SDB1.2 ).Öğretmenle eşlikli olarak çalan öğrenci çalışmalarda öğretmeniyle çaldığı etüt veya eseri öğretmenin de çaldığı sesleri dinleyerek eşlik eder. Eşliklerde eserdeki ritim ve nota sürelerine odaklanılır ( E3.2 ). Buselik, çargâh ve kürdi dizilerinde etütleri çalmak için viyolaya özgü teknikleri kullanmaları sağlanır. Çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12 ). Grup çalışmaları verilerek öğrencilerin kendi aralarında birbirleriyle iletişim kurmaları ve birbirlerine etütler ile ilgili yardımcı olmaları istenerek çalışmalarda kendilerini ifade etmeleri ve yorumlamaları sağlanır ( SDB2.1 , SDB2.2 .) Bu çalışmaları gerçekleştirirken öğrencilerden müziksel bileşenleri uygulamaları beklenir. Öğrencilerin çalabildikleri etütleri kayıt altına alarak bu videoları kendi kişisel klasörlerine etkileşimli tahtayı kullanarak kopyalamaları sağlanır ( OB2 ). Performans görevi olarak çargâh, buselik veya kürdi dizilerinde 2-3 kişilik gruplar hâlinde egzersiz çalışmaları istenebilir. Verilen performans görevi öz ve akran değerlendirme formları, analitik dereceli puanlama anahtarı ve gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1403"
+}

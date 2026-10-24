@@ -1,0 +1,38 @@
+{
+  "unitId": 1572,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY I · 2. Tema: Robotik Sistem Geliştirme Ortamları Ve Bileşenleri",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK1.2.1",
+      "title": "Robotik sistemlerde çevrim içi blok tabanlı yazılım geliştirme ortamını hazırlayabilme",
+      "processComponents": [
+        "a) Robotik sistemlerde çevrim içi blok tabanlı yazılım geliştirme ortamlarını tanır.",
+        "b) Robotik sistemlerde çevrim içi blok tabanlı yazılım geliştirme ortamını belirler.",
+        "c) Robotik sistemlerde çevrim içi blok tabanlı yazılım geliştirme ortamını düzenler."
+      ]
+    },
+    {
+      "code": "RK1.2.2",
+      "title": "Robotik sistemlerde çevrim içi yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+      "processComponents": [
+        "a) Robotik sistemlerde çevrim içi yazılım geliştirme süreci bileşenlerini tanımlar.",
+        "b) Robotik sistemlerde çevrim içi yazılım geliştirme süreci bileşenlerini kullanır.",
+        "c) Robotik sistemlerde çevrim içi yazılım geliştirme süreci bileşenlerini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "arayüz, araç kutusu, blok tabanlı kodlama, çevrim içi kodlama, kod akışı, kod blokları, komut",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB3.Yazılım Geliştirme (BTYAB3.1. Yazılım Geliştirme Ortamını Hazırlama, BTYAB3.2. Yazılım Geliştirme Sürecinde Kullanılan Bileşen-Yapı-Yöntemlerden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1572"
+}

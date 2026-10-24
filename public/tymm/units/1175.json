@@ -1,0 +1,64 @@
+{
+  "unitId": 1175,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "4. TEMA: REPERTUVAR OLUŞTURUYORUM",
+  "hours": "20",
+  "description": "Temada öğrencilerin gitarda kendi repertuvarlarını oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.8.4.1",
+      "title": "Repertuvarını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.8.4.2",
+      "title": "Repertuvarını çalabilme",
+      "processComponents": [
+        "a) Repertuvarındaki çalınacak eserleri çözümler.",
+        "b) Repertuvarını çalarken duruş ve tutuş pozisyonu alır.",
+        "c) Repertuvarını çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Repertuvarını çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "gitar, performans, repertuvar",
+  "support": [
+    "Öğrenciler belirli teknikleri içeren egzersizlerle repertuvarlarını çalışabilirler. Öğretmen, çalgıya özgü önemli teknikleri gösterebilir ve bu tekniklerin repertuvar parçasında nasıl uygulanması gerektiği üzerine açıklamalar yapabilir. Örneğin yaylı çalgı çalan bir öğrenci için yay tekniğini geliştirecek çalışmalara yer verilebilir."
+  ],
+  "enrichment": [
+    "Belirlenen repertuvarı tamamlayan topluluklara yeni şarkılar verilebilir. Yeni şarkılar eklenerek öğrencilerin repertuvarlarını geliştirmeleri istenebilir. Repertuvara farklı çalgılar eklenebilir. Örneğin bir şarkıya ritmik çalgılar (davul, darbuka, bendir vb.) veya melodik çalgılar (kanun, ney, flüt vb.) eklenerek repertuvar içeriği zenginleştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; grup değerlendirme formu, öz değerlendirme formu, akran değerlendirme formu, derecelendirme ölçeği ve birlikte çalma performans gözlem formu kullanılarak ölçülebilir. Öğrencilere repertuvar oluşturmaları ve bunu çalmaları şeklinde performans görevi verilebilir. Performans görevi, dereceli puanlama anahtarıyla değerlendirilebilir. Verilen performans görevi, birlikte çalma performans gözlem formuna göre değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.8.4.1",
+    "Öğretmen, dersin başında öğrencilerin gitar repertuvarlarını belirlerken nelere dikkat etmeleri gerektiği hususunda onlara rehberlik eder. Öğrencilerin kendi teknik seviyelerine uygun hem öğrendikleri teknikleri pekiştirecekleri hem de yeni beceriler kazanacakları parçaları seçmeleri sağlanır. Bir sonraki aşamada öğrenciler hangi kaynağı kullanacaklarını belirlerler ( OB1 ). Öğrencilerin sevdikleri ve çalmaktan keyif alacakları eserleri seçmeleri teşvik edilir. Böylelikle motivasyonlarının artması sağlanır ( D3.1 ). Ayrıca öğrencilerin yaratıcılıklarını geliştirecek, yorum gücünü artıracak ve kendilerini müzikal anlamda ifade etmelerine olanak tanıyacak eserler üzerinde durulmalıdır. Bu süreçte öğrencilerin odaklanma becerilerini de ön plana çıkarmaları sağlanır ( E3.2 ). Öğrencilerin eserleri analiz ederken ayrıntılara dikkat etmeleri, ritmik ve melodik yapılarına yoğunlaşmaları sağlanmalıdır.",
+    "GTR.8.4.2",
+    "Öğretmen dersin başında öğrencilerine kendilerine ait bir gitar repertuvarı oluşturmaları ve seçtikleri eserleri etkileşimli tahtadaki kendi kişisel klasörlerine kopyalamaları gerektiğini belirtir. Öğrenciler etkileşimli tahtayı kullanarak istedikleri eserleri belirleyip seçerler ( OB1 ). Öğrenciler seçtikleri eserleri analiz edip çözümlerler ( KB2.4 ). Her öğrenci seçtiği eserin notalarını diğer arkadaşlarıyla iş birliği yaparak etkileşimli tahtadaki kendi kişisel klasörlerine hafıza kartı aracılığıyla yüklerler ( SDB2.2 , OB2 ). Öğrencilere repertuvar oluşturmaları ve bunu çalmaları şeklinde performans görevi verilebilir. Öğrenciler gitarda doğru duruş ve tutuş pozisyonlarını alırlar. Ardından öğrenciler kendi aralarında gruplara ayrılıp notaları inceler ve eserin farklı bölümlerini çalışarak sorumluluk alırlar ( D16.1 ). Böylece sorumluluk bilinçlerini geliştirmeleri sağlanır ( E2.2 ). Öğrenciler belirledikleri yerleri çalgıya özgü teknikleri kullanarak çalışırlar. Bu esnada diğer arkadaşlarını gözlemler ve hataları tespit ederek akran değerlendirmesinde bulunurlar ( KB2.2 ). Öğrenciler belirledikleri eserleri müziksel bileşenlerine uyarak çalarlar. Performans görevi, dereceli puanlama anahtarıyla değerlendirilebilir. Verilen performans görevi, birlikte çalma performans gözlem formuna göre değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D3.1"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1175"
+}

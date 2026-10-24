@@ -1,0 +1,65 @@
+{
+  "unitId": 115,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "7. TEMA: VERİYE DAYALI ARAŞTIRMA",
+  "hours": "10",
+  "description": "Bu temada, öğrencilerin istatistiksel araştırma sürecinin adımlarını kategorik veriye dayalı tek veri grubuna yönelik yürütebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.1.4.1",
+      "title": "Kategorik veriye dayalı temel veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) Kategorik veriye dayalı istatiksel araştırma gerektiren günlük yaşam durumu belirler.",
+        "b) Kategorik veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur.",
+        "c) Kategorik verileri toplamak için plan yapar.",
+        "ç) Kategorik verileri toplar.",
+        "d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık tablosu ve nesne grafini seçer.",
+        "e) Seçtiği araçlarla verileri görselleştirerek analiz eder.",
+        "f) Araştırma sonuçlarını yorumlar.",
+        "g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "• kategorik veri, çetele tablosu, sıklık tablosu, nesne grafiği, değişebilirlik, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrencilere her bir verinin bir nesneyi veya durumu temsil ettiği hazır nesne grafiği verilir. Renksiz verilen nesnelerin resimlerini boyalamaları istenir. Ardından kısa cevaplı sorular sorularak araştırma sonuçlarını yorumlamaları istenir. Daha sonra nesne grafiğindeki verileri çetele ve sıklık tablosunda göstermesi beklenir."
+  ],
+  "enrichment": [
+    "Öğrencilere her bir verinin iki nesne veya durumu temsil ettiği hazır bir nesne grafiği verilir. Öğrencilerden bu grafiği yorumlamaları beklenir. Ardından öğrencilerden nesne grafiğindeki verileri sıklık tablosunda göstermeleri istenir."
+  ],
+  "assessment": [
+    "Bu temaya ait öğrenme çıktısı, performans görevi, açık uçlu ve eşleştirme sorularından oluşan çalışma kâğıdı ve kontrol listesi ile değerlendirilebilir.",
+    "Öğrencilerin topladıkları veriye dayalı bir araştırma sürecini deneyimlemeleri için performans görevi verilebilir. Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.1.4.1 Öğrencilerin ilgisini çeken ve deneyimlerine dayanan örnek durumlar veya olaylar ile istatistiksel araştırma gerektiren durumları fark etmeleri ve sınıf içinde tartışmaları sağlanır ( SDB2.1 ) . Öğrenciler seçtikleri bağlama göre kategorik veriye dayalı tek veri grubuna yönelik günlük yaşam durumu belirler ( SDB3.3 ) . Bu kapsamda öğrencilerin aile bireylerine kategorik olarak ayırt edilebilecek nesnelerle bir faaliyet yaparken yardım etmelerini gerektiren örnekler verilir. (Örneğin markette çalışan babasına ürünleri yerleştirirken yardım etme gibi) ( D20.1 , D2.2 ) . Belirlenen günlük yaşam durumundan hareketle öğrencilerin cevaplayabileceği ve betimleyebileceği araştırma soruları oluşturmaları sağlanır ( SDB2.1 , D3.4 ) . Araştırma sorularının istatistiksel araştırma sorusu olup olmadığı, verilerin toplanmasına imkân verip vermediği, araştırmanın amacına hizmet edip etmediği, veri toplanacak grubun açık ve net olup olmadığı, soruların cevaplanabilir ve cevapların da değişebilir olup olmadığına dikkat edilir. Bağlam içerisinde \"Bu sorunun cevabını nasıl öğrenebiliriz? Soruyu kimlere sorabiliriz?\" gibi sorular ile veri toplama süreci planlanır ( SDB2.1 ) . Böylece öğrencilerin varsayımlarda bulunularak dikkatlerini toplamaları ve sürece odaklanmaları sağlanır ( E3.2 ) . Öğrenciler, hazırlanan veri toplama planı doğrultusunda fikir alışverişinde bulunarak ve oyunlarla eğlenceli hâle getirilerek veriler toplanır ( E2.5 , SDB2.1 , SDB2.2 ) . Toplanan verilerin belirlenen duruma cevap veriyor olup olmadığı öğrencilerle birlikte değerlendirilir ( SDB2.1 ) . Öğrencilere topladıkları verileri kaydetmelerinin gerekliliğinden bahsedilir. Bu gerekliliği ortaya koymak için öğrencilere \"Bu veri yarın toplansa aynı sonuçlar elde edilir mi?\" gibi sorular sorulur. Burada öğrencilerin verilerin değişebilirliğini fark etmeleri sağlanır. Belirlenen durum bağlamında toplanan verilerin nasıl görselleştirileceğine yönelik öğrencilere \"Veriyi gruplamamız gerekiyor mu? Veri gruplamayı nasıl yapabilirsiniz?\" gibi sorular sorulur, cevapları tartışılır ( SDB2.1 ).",
+    "Toplanan veriyi özetlemek ve görselleştirmek için kullanılacak araç/araçların (nesne grafiği) uygunluğu konusunda öğrencilerin düşünceleri alınır ( SDB2.1 ) . Öğrencilerden belli bir nesne grubu ile oluşturulan verinin, nesnelerin özelliklerine göre gruplandırılarak öncelikle çetele tablosu sonrasında ise sıklık tablosu ile göstermeleri sağlanır. Daha sonra öğrencilerin topladıkları veriye dayalı karar verebilmeleri için nasıl görselleştirebilecekleri üzerine düşünmeleri sağlanır ( SDB2.1 ) . Her bir verinin bir nesneye karşılık geldiği belirtilerek öğrencilerin sıklık tablosundan hareketle verileri nesne grafiğine yerleştirmeleri sağlanır. Bu süreçte öğrencilerin somut nesnelerle (örneğin çocuğun kalemi, sayı çubukları gibi) çetele ve sıklık tablosunda nesne-veri eşleştirmelerinin gösterimleri kontrol listesi ile değerlendirilebilir. Böylelikle bu verilerin belirli bir yöntemle düzenli ve sistematik bir şekilde ele alınması sağlanır ( E3.7 , D3.2 ) . Öğrencilerin verileri görselleştirmede kullanılan çetele, sıklık tablosu ve nesne grafiğinin aynı zamanda birer matematiksel temsil olduğu ve bu temsilleri bağlamlarındaki anlamları ile tanımış olmaları sağlanır ( MAB3.1 ) . Verileri görselleştirme sürecinde çevrim içi araçlardan yararlanılır ( OB2 ) . Veri görselleştirme adımı tamamlandıktan sonra öğrencilere elde ettikleri grafik üzerinde sayısal işlem yapmadan nesne-veri eşleştirmesine yönelik \"Grafikle ilgili ne söyleyebilirsiniz? Hangisi daha fazladır/daha azdır?\" gibi sorular sorularak grafik yorumlatılır ( SDB2.1 ) . Yine bu adımda öğrencilere grafikten ne anladıklarına yönelik sorular sorularak elde edilen araştırma sonuçlarının araştırma sorularına ne derece cevap verdiğini değerlendirmeleri istenir. Bu süreçte öğrencilerin nesne-veri eşleştirmeleri boşluk doldurma soruları ile değerlendirilebilir. Öğrencilere sınıf içinde farklı verilerle hazırlanan grafiklerin yorumlanmasının eldeki verilere göre yapıldığı ve yorumların sadece o grafiğin bağlamı çinde sunulduğu çeşitli örneklerle verilir. Bu süreçte öğrencilere \"Bu veriler 1/A sınıfından toplandı, 1/B sınıfında da toplansaydı aynı sonuçları elde eder miydik?\" gibi sorular sorarak veri toplanan kişilerin değişebilirliğini fark etmeleri sağlanır ( SDB2.1 ) . Öğrencilere tek veri grubunu içeren çetele, sıklık tablosu ve nesne grafiğine yönelik açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir. Öğrencilere nesne grafiğindeki verilerine ilişkin nesne-veri eşleştirmelerine yönelik birçok duyuya hitap edeceği dijital araçlardan yararlanılacak çalışmalar yapılır. Dijital araçlarıyla yapılacak olan etkinlik sonrasında eşleştirme sorularından oluşan çalışma kâğıdı kullanılabilir. Öğrenciler nesne grafiği, çetele ve sıklık tablosunu dijital araçlarla görselleştirileceği için iletişim araçlarındaki görseller algılanmış ve tanınmış olur ( OB2 ) . Öğrencilerin topladıkları veriye dayalı bir araştırma sürecini deneyimlemeleri için performans görevi verilebilir. Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D2.2",
+      "D20.1",
+      "D3.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.2",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3.1"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/115"
+}

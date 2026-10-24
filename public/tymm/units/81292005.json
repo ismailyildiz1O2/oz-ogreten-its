@@ -1,0 +1,68 @@
+{
+  "unitId": 81292005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Düşünme Eğitimi Dersi (Lise)",
+  "title": "5. ÜNİTE: ELEŞTİREL DÜŞÜNME VE ÖZ ELEŞTİRİ",
+  "hours": "20",
+  "description": "Bu ünitenin sonunda öğrenciler, eleştirel düşünmeyi herhangi bir düşünme etkinliğinden ayırt ederek eleştirel bakışla metin okuyabilme ve yazabilme, kendilerini kuşatan sosyal gerçekliği eleştirel bakışla değerlendirebilme yetilerini kazanacaklardır.",
+  "outcomes": [
+    {
+      "code": "DEL.5.1",
+      "title": "Eleştirel düşünme sürecini aşamalarına uygun olarak yürütür",
+      "processComponents": [
+        "Eleştiri (tenkit/kritik) kavramına değinilir.",
+        "Eleştirel düşünme açıklanır.",
+        "Eleştirel düşünmenin temel özellikleri ile eleştirel düşünme sürecinde dikkat edilmesi gereken hususlara yer verilir.",
+        "Eleştirel düşünme sürecinin aşamaları açıklanır. Belirlenen bir konuda aşamalarına uygun eleştirel düşünme sürecinin yürütülmesi sağlanır.",
+        "Eleştirel düşünmenin önündeki engellerin eleştirel düşünme sürecine etkileri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "DEL.5.2",
+      "title": "Eleştirel bakışla metin okur",
+      "processComponents": [
+        "Metin kavramı ve metin türleri (akademik/bilimsel metinler, sanat yapıtları, toplumsal ilişkilerde ve günlük hayatta karşılaşılan ritüeller vb.) üzerinde durulur.",
+        "Metin okuma yöntemleri (tarama, göz gezdirme, eleştirel okuma, not alma, özetleme vb.) açıklanarak bu yöntemlerin verilen bir metin üzerinde uygulanması sağlanır.",
+        "Metin okuma sürecinin aşamalarına değinilerek örnek bir metnin, metin okuma sürecinin aşamaları kullanılarak okunması ve eleştirel bir bakışla yorumlanması sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.5.3",
+      "title": "Eleştirel bakışla metin yazar",
+      "processComponents": [
+        "Metinde savunulacak tezi belirleme, fikirlerini etkili biçimde düzenleme ve metnin biçimsel şartları (bölümlendirme, alıntılama, dipnot-sonnot verme, kaynakça hazırlama, yazı karakteri seçimi) üzerinde durularak eleştirel metin yazma süreci açıklanır.",
+        "Verilen yönerge doğrultusunda eleştirel bakışla metin yazma ilkelerinin uygulanması sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.5.4",
+      "title": "Toplumsal yaşamı eleştirel bakışla değerlendirir",
+      "processComponents": [
+        "Sosyal çevre ilişkilerinde eleştirel düşünmenin önemi üzerinde durulur.",
+        "Toplumsal yaşamda görülen manipülasyon (yönlendirme) ve algı yönetimi eylemlerinin reklam, medya, propaganda ve ikna, anakronizm (çağ uyumsuzluğu) kavramları ile ilişkilendirilerek eleştirel bakışla sorgulanması sağlanır.",
+        "İkna süreçlerine safsataların hâkim olmasının toplumsal sonuçlarının günlük yaşamdan örneklerle tartışılması sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.5.5",
+      "title": "Eleştirel düşünmenin özelliklerine uygun, öz eleştiriye açık düşünce ve davranış biçimleri geliştirir",
+      "processComponents": [
+        "Eleştirel düşünme süreçlerinde dikkat edilmesi gereken değerler ve kurallar açıklanır.",
+        "Hayatı ve zamanı nasıl yönettiği konusunda, ahlaki bakımdan ve kişiler arası ilişkilerde öz eleştirinin önemi üzerinde durulur.",
+        "Öz eleştiri yapabilmek için zaman yönetimi tekniklerinin bir hafta boyunca uygulanması ve bu sürecin sonunda gerçekleşen değişikliklerin farkına varılması sağlanır.",
+        "Johari penceresi uygulaması üzerinden eleştirme ve eleştirilmenin önemi üzerinde durularak ideal benlik ile gerçek benlik arasındaki mesafenin farkına varılması sağlanır.",
+        "Eleştiriye açık olmanın yararları vurgulanır.",
+        "İnsanın bağımsız bir kişilik yapısı geliştirmesi ve kendini gerçekleştirmesinde eleştirel düşünmenin rolüne değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112315487348-DUSUNME%20E%C4%9E%C4%B0T%C4%B0M%C4%B0%20D%C3%96P%2024ekim202.pdf"
+}

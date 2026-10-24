@@ -1,0 +1,56 @@
+{
+  "unitId": 81357003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Metin Tahlilleri Dersi",
+  "title": "3. ÜNİTE: METİN TAHLİLLERİ II - EDEBÎ METİNLERİN TAHLİLİ",
+  "hours": "36",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTT.II.1.1",
+      "title": "Olaya dayalı edebî metinleri analiz eder",
+      "processComponents": [
+        "Olay anlatımına dayalı edebî metinlerin içerik, yapı, dil ve üslup özelliklerinin metin tahliline etkisi vurgulanır.",
+        "Metin tahlili aşamalarındaki öğrenme çıktıları, metnin tür özelliklerine göre uygulanır."
+      ]
+    },
+    {
+      "code": "MTT.II.1.2",
+      "title": "Olaya dayalı edebî metinleri değerlendirir",
+      "processComponents": [
+        "Metin tahlili aşamalarından eleştiri-yorum basamağı işe koşulur.",
+        "Metinlerin değerlendirilmesinde ifade etme becerilerinin geliştirilmesi için yazma ve konuşma uygulamaları yaptırılır."
+      ]
+    },
+    {
+      "code": "MTT.II.1.3",
+      "title": "Şiir türündeki edebî metinleri analiz eder",
+      "processComponents": [
+        "Şiir türünün içerik, yapı, dil ve üslup özelliklerinin metin tahliline etkisi vurgulanır.",
+        "Metin tahlili aşamalarındaki öğrenme çıktıları, metnin tür özelliklerine göre uygulanır."
+      ]
+    },
+    {
+      "code": "MTT.II.1.4",
+      "title": "Şiir türündeki edebî metinleri değerlendirir",
+      "processComponents": [
+        "Metin tahlili aşamalarından eleştiri-yorum basamağı işe koşulur.",
+        "Metinlerin değerlendirilmesinde ifade etme becerilerinin geliştirilmesi için yazma ve konuşma uygulamaları yaptırılır."
+      ]
+    },
+    {
+      "code": "MTT.II.1.5",
+      "title": "Edebî metinlerin özelliklerinin metin tahliline etkisini değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249558132-metintahlilleri.pdf"
+}

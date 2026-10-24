@@ -1,0 +1,62 @@
+{
+  "unitId": 80789002,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "İşletme Dersi",
+  "title": "2. ÜNİTE: İŞLETMENİN AMACI VE DİĞER BİLİMLERLE İLİŞKİSİ",
+  "hours": "4",
+  "description": "Bu ünitede, işletme biliminin amacı ve diğer bilimlerle ilişkisi üzerinde durulmuştur. İşletmenin genel amaçları, özel amaçları ve işletmenin ilişki içinde olduğu bilim alanları kazanımlarıyla birlikte verilmiştir. İşletme biliminin ekonomi, istatistik, hukuk ve davranış bilimleri ile ilişkisini kavratmak bu ünitenin temel amacını oluşturmaktadır.",
+  "outcomes": [
+    {
+      "code": "ISL.2.1",
+      "title": "İşletmenin genel amaçlarını sıralar",
+      "processComponents": [
+        "İşletmenin temel amaçları ve işlevleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ISL.2.2",
+      "title": "İşletmenin özel amaçlarını sıralar",
+      "processComponents": [
+        "İşletmenin özel amaçları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ISL.2.3",
+      "title": "İşletme biliminin ekonomi bilimiyle ilişkisini açıklar",
+      "processComponents": [
+        "İşletmenin diğer bilimlerle ilişkisi vurgulanır.",
+        "Ekonomi ve girişimcilik dersleri ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.2.4",
+      "title": "İşletme biliminin davranış bilimleriyle ilişkisini açıklar",
+      "processComponents": [
+        "Psikoloji ve sosyoloji dersleri ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.2.5",
+      "title": "İşletme biliminin hukuk bilimiyle ilişkisini açıklar",
+      "processComponents": [
+        "Hukuk biliminin tanımı yapılır."
+      ]
+    },
+    {
+      "code": "ISL.2.6",
+      "title": "İşletme biliminin istatistik bilimiyle ilişkisini açıklar",
+      "processComponents": [
+        "İstatistik biliminin tanımı yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930143930838-%C4%B0%C5%9ELETME%20DERS%C4%B0%20%C3%96%C4%9ERT.%20PROGR..pdf"
+}

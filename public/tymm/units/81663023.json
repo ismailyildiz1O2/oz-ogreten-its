@@ -1,0 +1,46 @@
+{
+  "unitId": 81663023,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "23. ÜNİTE: PROGRAMLAMA DİLLERİ (C++) - 4. ÜNİTE: FORMLAR",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.23.1",
+      "title": "Formları, form sınıflarını, kontrol sınıflarını ve konteyner sınıflarını tanır ve bu yapıları kullanır",
+      "processComponents": [
+        "İşletim sistemi uygulamalarında kullanılan temel arayüz bileşenleri ve form sınıflarının nasıl oluşturulup kullanılacağı anlatılır.",
+        "Kontrol sınıfları (butonlar, metin kutuları, etiketler vb.) tanıtılır ve bu kontrollerin form içine nasıl yerleştirileceği gösterilir.",
+        "Konteyner sınıflarını (panel, grup kutusu, sekme kontrolü vb.) kullanarak formdaki bileşenleri düzenleme ve gruplama anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.23.2",
+      "title": "İletişim kutularını kullanır",
+      "processComponents": [
+        "MessageBox, OpenFileDialog, SaveFileDialog iletişim kutularını kullanıcılarla iletişim kurmak için eklemesi anlatılır.",
+        "Kullanıcıya bilgi vermek, doğrulama yapmak veya hataları bildirmek için iletişim kutularını kullanarak kullanıcıdan veri alma ve uyarı mesajları ekleme örnekleri incelenir.",
+        "Farklı senaryolar için iletişim kutularının mesaj içeriklerinin, başlıklarının ve düğme metinlerinin kişiselleştirilmesi uygulamaları ile dinamik ve kullanıcı dostu arayüzler oluşturulması durumları fark ettirilir."
+      ]
+    },
+    {
+      "code": "BTY.23.3",
+      "title": "Doğrulama ve veri bağlama işlemlerini öğrenir",
+      "processComponents": [
+        "Kullanıcı tarafından sağlanan verilerin doğruluğunu kontrol etmek için kullanıcı girişi doğrulama işlemleri (validasyon) icra ettirilir.",
+        "Veri bağlama ve verileri kullanıcı arayüzüne bağlama işlemleri öğretilir.",
+        "Kullanıcı arayüzü ile etkileşimli uygulamalar geliştirmek için doğrulama ve veri bağlama örnekleri uygulatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

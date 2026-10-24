@@ -1,0 +1,74 @@
+{
+  "unitId": 352,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "1. ÜNİTE: BİLİME YOLCULUK",
+  "hours": "12",
+  "description": "Bu ünitede bilimin özellikleri ile ilgili yansıtma yapılması ve bilimsel bilgi kaynaklarının güvenilirliğinin sorgulanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.4.1.1",
+      "title": "Bilimin özellikleri ile ilgili yansıtma yapabilme",
+      "processComponents": [
+        "a) Bilim ile ilgili bilgi ve deneyimini gözden geçirir.",
+        "b) Bilimin özellikleri ile ilgili çıkarım yapar.",
+        "c) Bilimin özellikleri ile ilgili ulaşılan çıkarımları değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.4.1.2",
+      "title": "Bilgi kaynağının güvenilirliğini sorgulayabilme",
+      "processComponents": [
+        "a) Merak ettiği bilimsel bir konuyu tanımlar.",
+        "b) İlgili konu hakkında sorular sorar.",
+        "c) İlgili konu hakkında teknolojik araçlar ve diğer kaynakları kullanarak bilgi toplar.",
+        "ç) Toplanan bilgilerden hareketle bilginin doğruluğunu değerlendirir.",
+        "d) Yaptığı değerlendirmeler sonucunda bilgi kaynaklarının güvenilirliği ile ilgili çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "bilim, bilimsel bilgi, bilgi kaynağı",
+  "support": [
+    "Bir bilim insanının çalışması veya bilim tarihi ile ilgili bir belgesel ya da çizgi film izletilebilir.",
+    "Ünite içerikleri sesli metin, dijital içerik ya da video ile desteklenebilir.",
+    "Bilimsel çalışmaları anlatan hikâyeler okutulabilir. Dijital ve basılı yayınlardan yararlanılabilir.",
+    "Bilgi kaynağının güvenilirliğini değerlendirmek için bir ölçüt listesi verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden ülkemizde bilimin gelişmesinde, yayılmasında hangi kurum ve kuruluşların rol aldığını araştırmaları istenebilir. Öğrencilerden yakın çevrelerindeki yetişkinlerle bilginin güvenilirliği ile ilgili röportaj yapmaları istenebilir. Yetişkinlerin bu konudaki görüş ve bakış açılarını öğrenmeleri sağlanabilir. Farklı bilgi kaynaklarını inceleyip bunların güvenilirliğini değerlendirmeleri beklenebilir. Öğrencilerin seçtikleri bilimsel bir konuda dijital kaynaklardan yararlanarak bilgi grafiği oluşturmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde doğru yanlış kartları, dijital ölçme araçları, performans görevi ve öğrenci ürün dosyası kullanılabilir.",
+    "Öğrencilerin bilimin özellikleri ile ilgili çıkarımlarının değerlendirilmesinde doğru yanlış kartları ya da dijital ölçme araçları kullanılabilir. Bilgi kaynağının güvenilirliği konusunda yaptıkları çalışmalar performans görevi olarak değerlendirilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.4.1.1. Öğrencilere sorular sorularak bilimle ilgili bilgi ve deneyimlerini gözden geçirmeleri sağlanır ( SDB1.1 ) . Ders öncesinde bilimin ve bilimsel bilginin özelliklerini yansıtan senaryo ve örnekler hazırlanır. Öğrencilerden senaryo ve örneklerden yola çıkarak bilimin özellikleri ile ilgili çıkarım yapmaları istenir. Doğru bilgiye ulaşabilmelerini sağlamak amacıyla sorgulayıcı yaklaşım sergilemeleri için öğrenciler desteklenir ( OB1 , SDB3.3 , E3.4 , D3.3 ) . Yaptıkları çıkarımlar sınıfça tartışılır. Tartışma sırasında öğrencilerin farklı fikirlere, önerilere açık; saygılı olmaları ve etkili bir biçimde iletişim kurabilmeleri beklenir ( SDB2.2 , E3.5 , D14.1 ) . Bilimin kanıta dayalı olduğu, bilimin güvenilirliği, bilimsel bilginin değişebileceği, bilimin hayal gücü ve yaratıcılık içerdiği vb. özelliklerden bir ya da birkaçına vurgu yapılabilir. Soru-cevap, değer telkini, tartışma vb. yöntemler kullanılarak öğrencilerin bilimin özellikleri ile ilgili ulaşılan çıkarımları eleştirel bir bakış açısı ile değerlendirmeleri sağlanır ( D3.3 ) . Belirlenen özellikler doğru yanlış kartları ya da dijital ölçme araçları ile değerlendirilebilir.",
+    "FB.4.1.2. Ders öncesinde bilimsel yollarla araştırılabilecek konuların listesi hazırlanır. Öğrencilerin merak ettikleri ve incelemek istedikleri, bilimsel yollarla araştırılabilecek bir konuyu gruplar hâlinde belirleyerek tanımlamaları sağlanır. İlgi duydukları, merak ettikleri konuyu belirlemeleri desteklenerek motivasyonları artırılır ( SDB1.2 , E1.1 , D3.3 ) . Belirledikleri konu doğrultusunda sorular sormaları istenir ( E3.8 ) . Soruları cevaplamak üzere konu hakkında teknolojik araçlar ve diğer kaynakları kullanarak bilgi toplamaları sağlanır. Güvenli bilgi kaynaklarına erişmeleri için dijital ortamdaki bilgi kaynaklarının güvenirliğinin sorgulanmasında nelere dikkat edilmesi gerektiği (edu, gov uzantılı siteler vb.) hakkında öğrencilere bilgi verilebilir. Dijital ortamdan bilgi alma konusunda öğrencilerin fikrî mülkiyet haklarını bilerek ona uygun davranmaları sağlanır ( OB2 ) . Öğrenciler bilgi toplamak için farklı kaynaklara (güvenilir genel ağ, uzman kişi, aile büyükleri vb.) yönlendirilebilir ( SDB1.2 , E3.4 ) . Topladıkları bilgilerin doğruluğunu değerlendirmeleri için öğrencilere \"Bilgiyi hangi kaynak sağlıyor? Kaynak hakkında ne biliyorsunuz? Bilgiyi desteklemek için hangi kanıtlar kullanılmış?\" gibi sorular yöneltilebilir. Öğrencilerin bu sorulara verdikleri cevaplardan hareketle edindikleri bilgi kaynaklarının doğruluğunu değerlendirmeleri sağlanır ( SDB1.2 , E3.10 ) . Yaptıkları değerlendirmeler sonucunda güvenirliği ile ilgili çıkarım yapmaları beklenir ( SDB1.2 , SDB3.3 ) . Burada çember tekniği kullanılabilir. Bilgi kaynağının güvenilirliği konusunda yaptıkları çalışmalar performans görevi olarak değerlendirilebilir ( SDB1.3 ) . Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10",
+      "E3.4",
+      "E3.5",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/352"
+}

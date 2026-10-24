@@ -1,0 +1,51 @@
+{
+  "unitId": 687,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "5. TEMA: YAPAY ZEK�",
+  "hours": "10",
+  "description": "Yapay Zek�\u001d temas1 kapsam1nda �\u001frencilerin yapay zek� ara� ve teknolojilerinin �al1_abilmesi i�in gerekli olan verinin ne oldu\u001funu, veri t�rlerini ve verinin bu sistemlerdeki �nemini fark ederek uygun veri toplayabilmesi, yapay zek� ara� ve teknolojilerini tan1malar1, bu ara� ve teknolojiler �zerinden basit uygulamalar yapmalar1 ve �rnek verilerle basit yapay zek� modellerinin nas1l olu_turulabilece\u001fini kavramalar1 ama�lanmaktad1r.",
+  "outcomes": [],
+  "keyConcepts": "girdi, model geli_tirme, yapay zekâ araçlar1, yapay zekâ teknolojileri, �\u001frenme Kan1tlar1 (�l�me ve De\u001ferlendirme), Ö\u001frenme ç1kt1lar1; puanlama anahtar1, kontrol listesi, gözlem formu, akran de\u001ferlendirme formu, bilgi duvar1 ve dereceleme ölçe\u001fi kullan1larak de\u001ferlendirilebilir., Performans görevi olarak ö\u001frencilerden yapay zekâ araçlar1 deste\u001fiyle millî ve manevi de\u001ferlere uygun, özgün bir model geli_tirmeleri ve bunu sunmalar1 istenebilir., Performans görevi; bilimsel do\u001fruluk, çe_itlilik, gereksiz bilgilerden ar1nd1rma, özgünlük ve tamamlanma süresi gibi ölçütler dikkate al1narak dereceleme ölçe\u001fi, puanlama anahtar1 veya kontrol listesi ile de\u001ferlendirilebilir., �\u001frenme-�\u001fretme Ya_ant1lar1",
+  "support": [
+    "Yapay zekâ uygulamalar1n1n nas1l çal1_t1\u001f1n1 gösteren video izletilerek ö\u001frencilerin kavram1 daha iyi anlamalar1 sa\u001flanabilir.",
+    "Ö\u001frencilerin sesli asistanlar ve öneri sistemleri gibi belirli yapay zekâ uygulamalar1n1 kullanarak (hava durumu sorgulama veya film, müzik önerisi alma vb.) basit görevleri yerine getirmeleri sa\u001flanabilir.",
+    "Ö\u001frencilerin yapay zekâ araçlar1n1 kullan1p içerik geli_tirebilecekleri online platformlar (tasar1m/görsel üreten araçlar, dil araçlar1 vb.) tan1t1larak basit içerikler olu_turmalar1 istenebilir."
+  ],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D14.1",
+      "D2.3",
+      "D3.1",
+      "D3.3",
+      "D3.4",
+      "D8.4"
+    ],
+    "egilim": [
+      "E2.3",
+      "E3.4",
+      "E3.6",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/687"
+}

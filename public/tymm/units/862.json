@@ -1,0 +1,80 @@
+{
+  "unitId": 862,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Spor Okulları - Çocuklarda Atletik Performans Uygulamaları Dersi",
+  "title": "1. ÜNİTE: ÇABUKLUK KAVRAM VE UYGULAMALARI",
+  "hours": "16",
+  "description": "Bu ünitenin amacı; öğrencilere çabukluk kavramını tanıtarak öğrencilerin çabukluğun sportif performans üzerindeki etkilerini anlamalarını, değerlendirmelerini ve geliştirmelerini sağlamaktır. Öğrencilerin çabukluk düzeylerini bilimsel yöntemlerle ölçmeleri, sonuçlarını analiz etmeleri ve çabukluk düzeylerini artırmaya yönelik uygulamalar yapmaları hedeflenmektedir.",
+  "outcomes": [
+    {
+      "code": "ÇAPU.6.1.1",
+      "title": "Çabukluğun sportif performans üzerindeki etkilerini özetleyebilme",
+      "processComponents": [
+        "a) Çabukluğun sportif performans üzerindeki etkilerini çözümler.",
+        "b) Çabukluğun sportif performans üzerindeki etkilerini sınıflandırır.",
+        "c) Çabukluğun sportif performans üzerindeki etkilerini yorumlar."
+      ]
+    },
+    {
+      "code": "ÇAPU.6.1.2",
+      "title": "Test sonuçlarına göre çabukluk düzeyini değerlendirebilme",
+      "processComponents": [
+        "a) Çabukluğa ilişkin ölçütler belirler.",
+        "b) Çabukluk düzeyini ölçer.",
+        "c) Test sonuçlarını belirlediği ölçütlerle karşılaştırır.",
+        "ç) Test sonuçlarına ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "ÇAPU.6.1.3",
+      "title": "Çabukluk egzersizleri ile fiziksel uygunluğunu sağlayabilme",
+      "processComponents": [
+        "a) Çabukluk bileşenlerini açıklar.",
+        "b) Çabukluk bileşeni egzersizlerini uygular.",
+        "c) Çabukluk egzersizleri ile fiziksel uygunluğunu geliştirir."
+      ]
+    }
+  ],
+  "keyConcepts": "çabukluk testleri, denge performansı, hız",
+  "support": [
+    "Öğrencilere çabukluk testleri ve egzersizleri sırasında ek süre ve tekrar fırsatları sunulabilir, egzersizler parçalara bölünerek yönlendirme yapılabilir. Çabukluk gelişimi, süreç temelli değerlendirme yöntemleriyle izlenip öğrencilerin kendi düzeylerine göre ilerlemelerine olanak tanınır ve performans açısından akranlarına yetişmeleri desteklenebilir."
+  ],
+  "enrichment": [
+    "Denge, esneklik ve koordinasyon egzersizleri kullanılarak çabukluk egzersizlerinin etkinliği artırılabilir. Teknolojiden yararlanılarak interaktif simülasyonlar veya oyun tabanlı uygulamalar kullanılabilir."
+  ],
+  "assessment": [
+    "Ünitenin çıktılarının değerlendirilmesinde çabukluk testleri, bireysel değerlendirmeler, grafiksel analizler ve öz değerlendirme araçları kullanılabilir. Öğrencilere bilimsel çabukluk testleri uygulanarak bireysel sonuçlar, referans ölçütler ve sınıf ortalamaları ile karşılaştırılıp öğrencilerin güçlü ve gelişime açık yönleri değerlendirilebilir. Çabukluk egzersizleri sırasında doğru tekniklerin uygulanması ve bireysel hedeflere ulaşılması desteklenirken önce ve sonra yapılan test sonuçları ile fiziksel uygunluk gelişimlerinin ölçüldüğü performans görevleri verilebilir. Bu süreçte grafiksel analizler ve öz değerlendirme araçları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇAPU.6.1.1. Çabukluğun performans üzerindeki etkilerini fark ettirmek amacıyla derse bir oyunla başlanabilir. Öğrencilere çabukluk gerektiren bir parkur hazırlanır. Bu çalışma reaksiyon süreleri, hızları ve sonuçları gözlemlenir. Çalışma boyunca zorluk ve kolaylıklar üzerine sorular sorularak öğrencilerin çabukluğun performansa etkisi hakkında düşünmeleri sağlanır ( E3.2 ). \"Daha çabuk hareket etmenizin sonuca ulaşmanızda nasıl bir etkisi oldu?\", \"Davranışınızı nasıl kontrol ettiniz?\", \"Bu davranış sizi ve çevrenizi nasıl etkiledi?\" vb. sorular ile çabukluğun etkisi üzerine bireysel çözümler yapmaları desteklenir ( E3.6 , SDB2.1 , SDB2.2 , OB4 ). Öğrencilerden çabukluğun spor performansı üzerindeki gözlemlerini sunmaları veya spor yaşantılarındaki deneyimlerine göre değerlendirme yapmaları istenebilir ( SDB1.2 ). Farklı spor branşlarında çabukluk gerektiren hareketler ve bu hareketlerin performans üzerindeki etkileri anlatılırken öğrencilerin gösterdiği çalışkanlık bu süreçte önemli bir yer tutar ( D3.1 )",
+    "ÇAPU.6.1.2. Çabukluk düzeyini ölçmek için çabukluğu değerlendiren bilimsel testler öğrencilere yazılı, görsel ve dijital içeriklerle tanıtılır ( OB2 , OB4 ). Uygun bir çabukluk testi seçilir. Değerlendirme için öğrencilerin yaş grubuna uygun makale ve tezlerdeki çabukluk norm değerleri kriter olarak alınabilir ( OB7 ). Seçilen çabukluk testinin protokolü detaylı şekilde açıklanır. Testten önce güvenlik tedbirleri alınır. Bedensel ve mekansal mahremiyetin korunmasına özen gösterilerek ısınma hareketleri yapılır ve güvenli bir alan oluşturulur ( BEOSAB10 , D8.4 ).",
+    "ÇAPU.6.1.3. Çabukluğun geliştirilebilmesi için gerekli egzersizleri daha iyi anlatabilmek ve öğrencilere bu kavramı keşfettirebilmek için bir çabukluk antrenman örneği izletilir. İçerik izletildikten sonra çabukluk özelliklerini nasıl geliştirebilecekleri hakkında tartışma yapmaları sağlanır. Bu uygulamalar ile öğrencilere farklı çabukluk egzersiz türlerini deneyimleme fırsatı sunulur ( SDB3.2 ). Çabukluk çalışmaları sırasında dinlenme süreleri dikkatle ayarlanmalı, aralar verilerek öğrencilerin toparlanmasına fırsat tanınmalıdır. Gözlem formundan elde edilen sonuçlar doğrultusunda her öğrenciye başlangıç seviyesine göre bireysel hedefler koyulur. Gelişimlerinin sağlanması için çabukluk egzersiz içeriklerinin kişiye özgü kademeli olarak artırılması sağlanır. Dinlenme aralığının azaltılması, etkinliklerin kapsam ve çeşitliliğinin artırılması gibi kademeli artışlar kişiye veya gruba özgü olarak düzenlenebilir. Etkinliklerin içeriğine denge, koordinasyon gibi farklı fiziksel uygunluk bileşenleri eklenerek öğrencilerin gelişimleri desteklenir ve bu şekilde çabukluk performans gelişiminin artırılması sağlanır. Süreç sonunda çabukluk ile ilgili test uygulanarak öğrencilerin gelişim düzeyleri ölçülür. Önceden yapılan test sonuçlarıyla son test sonuçları karşılaştırılarak her öğrencinin çabukluk egzersizlerinin fiziksel uygunluğuna katkısı değerlendirilir ( KB2.10 ). Bu süreçte öğrencilerin sorumluluk duygusu gelişir ve bireysel değerlendirmeler, grafiksel analizler ve öz değerlendirme araçları ile desteklenir, arttırılması sağlanır ( D16.1 ). Çabukluk becerisi, öğrencilerin motor gelişiminde önemli bir performans göstergesidir ve bu becerinin ölçülmesi gelişim takibine katkı sağlar. Öğrencilerin çabukluk gelişim sürecinin değerlendirilmesi amacıyla bir performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D3.1",
+      "D8.4"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.10"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/862"
+}

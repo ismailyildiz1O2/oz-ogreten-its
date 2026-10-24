@@ -1,0 +1,47 @@
+{
+  "unitId": 1336,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "3. TEMA: PİYANODA DİNLETİLEN ESERİ ÇALMA",
+  "hours": "4",
+  "description": "Temada öğrencilerin çocuk şarkılarını piyanoda sağ el ile çalmaları, nota değerini ve notasyonlarda yer alan müzik yazı ve işaretlerini kavramaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.2.3.1",
+      "title": "Dinletilen çocuk şarkısını piyanoda sağ el ile çalabilme",
+      "processComponents": [
+        "a) Dinletilen çocuk şarkısını piyanoda sağ el ile çalınacak eseri çözümler.",
+        "b) Dinletilen çocuk şarkısını piyanoda sağ el ile çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Dinletilen çocuk şarkısını piyanoda sağ el ile çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Dinletilen çocuk şarkısını piyanoda sağ el çalmada ile müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "performans",
+  "support": [
+    "Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir. Eserlerin tempoları öğrenci düzeyine göre düşürülebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Çalınan eserlerin tempoları öğrenci düzeyine göre artırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde gözlem formu, öz değerlendirme formu ve bütüncül dereceli puanlama anahtarı kullanılabilir. Performans görevi kapsamında öğrenciden önceden dinlediği çocuk şarkısını sağ eliyle teknik ve müzikal olarak doğru bir biçimde çalması istenebilir. Bütüncül değerlendirme için tüm öğrenme çıktılarından oluşan bir izleme testi uygulanabilir."
+  ],
+  "teachingApplications": [
+    "PYN.2.3.1",
+    "Öğrenciye ders esnasında çalacağı çocuk şarkısı dinletilir. Çocuk şarkılarını sağ el ile çalan öğrencilerin olduğu video izletilir ( SDB1.2 ). Öğrenciye doğru duruş ve pozisyonun yer aldığı görseller gösterilir ( OB4 ). Öğrenciden çalınacak eseri çözümlemesi beklenir. Çözümleme sonunda öğrenci duruş ve tutuş pozisyonu alır. Öğretmen öğrencinin çalgıya özgü teknik kullanarak müzik bileşenlerine uygun çalmasını ister. Öğrenciden çaldığı eser ile ilgili dönüt vermesi beklenir ( E1.5 ). Performans görevi kapsamında öğrenciden önceden dinlediği çocuk şarkısını sağ eliyle teknik ve müzikal olarak doğru bir biçimde çalması istenir. Öğrenci, çalma öncesinde eseri kısa bir şekilde analiz ederek hangi nota değerlerinin ve müzik işaretlerinin yer aldığını açıklar. Çalışma, analitik veya bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "egilim": [
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1336"
+}

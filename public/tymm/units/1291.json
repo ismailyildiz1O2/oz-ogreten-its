@@ -1,0 +1,37 @@
+{
+  "unitId": 1291,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "2. TEMA: KANUNDA OKTAVLI ÇALMA VE GLİSSANDO TEKNİĞİNİ ÖĞRENİYORUM",
+  "hours": "11",
+  "description": "Temada öğrencinin kanunda oktavlı çalma ve glissando tekniğini öğrenmesi, örnek etüt ve eser çalabilmesi ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.7.2.1",
+      "title": "Oktavlı çalma ve glissando tekniğini eserlerde uygulayarak çalabilme",
+      "processComponents": [
+        "a) Oktavlı çalma ve glissando tekniğini eserlerde çalmak için yazılmış etüt veya eserleri çözümler.",
+        "b) Oktavlı çalma ve glissando tekniğini eserlerde çalmak için uygun duruş ve tutuş pozisyonu alır.",
+        "c) Oktavlı çalma ve glissando tekniğini eserlerde çalmak için uygun teknikleri kullanır. ,",
+        "ç) Oktavlı çalma ve glissando tekniğini eserlerde çalmak için uygun müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, kanun, müzik, perde, Türk müziği",
+  "support": [
+    "Öğrencilerin öğrendiği dizilerle ile ilgili öğrenmeleri takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom yavaşlatılarak çalınabilir. Yavaş metronom ile öğrenilen etütler, öğrencinin öğrenmelerine göre hızlandırılarak çaldırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin öğrendiği dizilerde eser ve etütleri farklı metronom hızları ile çalışılabilir. Ayrıca öğrenilen dizinin 1, 4 ve 5 ses transpoze çalışmaları ile zenginleştirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini ölçen performans görevi verilebilir. Performans görevi olarak oktavlı çalma ve glissando tekniğini eserlerde uygulayarak çalabilme performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.7.2.1",
+    "Çalınan etüt ve eserlerin uygun bölümlerinden faydalanılarak oktav tekniği öğrenciye öğretilir. Öğrencinin çalışacağı eser veya etütler öğrenciyle çözümlenir (SDB3.1). Oktavlı çalımda sağ ve sol elin çaldığı sesler arasında bir oktav (sekiz ses) olması esası gözetilerek öğrencinin bu konuya odaklanması sağlanmalıdır (E3.2). Örneğin sağ el yukarıda sol el aşağıda olmak üzere sağ el çargâh perdesinde ise sol el kaba çargâh perdesine vurulmalıdır. Etüt ve eserler bu mantık üzerine kurularak uygun bölümler çalınmalıdır. Glissando tekniği ile ilgili öğrenciye genel bilgi verilip dijital materyallerden faydalanılarak (OB2) farklı enstrümanlardan glissando sesi ve teknikleri dinletildikten sonra kanunda glissando tekniğinin nasıl uygulanacağı, hangi perdelerde kullanılabileceği anlatılır. Glissando tekniğinde önemli olan diyez bir sesin diyezden natürele doğru kaydırılarak ya da natürel bir sesin natürelden bemole doğru kaydırılarak elde edilmesi şeklidir. Sol elimizin baş ve orta parmaklarının arasına mandalları alarak tele vurduktan sonra mandalları diyezden natürele ya da natürelden bemole doğru sırayla bırakma hadisesi kanunda glissando tekniği olarak bilinmektedir. Öğrencilerden oktavlı çalma ve glissando tekniğini eserlerde uygulayarak çalabilme performans görevi istenebilir (D12.1). Performans görevi analitik dereceli puanlama anahtarı öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1291"
+}

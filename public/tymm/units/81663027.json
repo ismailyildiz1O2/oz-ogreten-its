@@ -1,0 +1,83 @@
+{
+  "unitId": 81663027,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "27. ÜNİTE: PROGRAMLAMA DİLLERİ (C#) - 3. ÜNİTE: SINIFLAR (CLASS)",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.27.1",
+      "title": "Nesne tabanlı programlamanın C# programlama dili içerisinde nasıl uygulandığını açıklar",
+      "processComponents": [
+        "C# programlama dili içinde sınıflar, nesneler, kalıtım ve çok biçimlilik olarak ifade edilen nesne tabanlı yapıların gerçek dünya entegrasyonu sağlanarak kodun daha organize ve sürdürülebilir hâle gelmesini sağlayan avantajlar öğretilir.",
+        "Nesne tabanlı programlama yapılarını kullanarak gerçek dünya sorunları incelenir.",
+        "Nesne tabanlı programlama yapılarının prensipleri ve uygulamaların arka planındaki mantık açıklanarak örnek uygulamalar gerçekleştirilir."
+      ]
+    },
+    {
+      "code": "BTY.27.2",
+      "title": "Kapsülleme, alanlar ve özellikler kavramlarını açıklar",
+      "processComponents": [
+        "Kapsülleme kavramı ve neden önemli olduğu anlatılır.",
+        "Alanların özellikleri vurgulanır.",
+        "Kapsüllemenin sınıf tasarımında kullanımı ve güvenli erişim yöntemleri açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.27.3",
+      "title": "Metotları kullanır",
+      "processComponents": [
+        "Belirli bir işlevi yerine getiren kod bloklarını tanımlamak için metotlar ve kod blokları anlatılır.",
+        "Metotların parametre alması ve bu parametreleri kullanması vurgulanır.",
+        "Metotların geri dönüş değerlerini ve sonuçları nasıl ilettiği incelenir.",
+        "Instance metotlar, statik metotlar ve sanal metotlar arasındaki farklar açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.27.4",
+      "title": "Yapıcı ve yıkıcı metotların rolünü açıklar",
+      "processComponents": [
+        "Yapıcı ve yıkıcı metotların sınıfların süresini nasıl etkilediği incelenir.",
+        "Yapıcı metotların parametreleri ve farklı aşırı yüklenmiş yapıcı metotların nasıl tanımlandığı anlatılır.",
+        "Yıkıcı metotlarda kaynağın serbest bırakılması ve sınıfın sonlandırılması süreçlerindeki rolü açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.27.5",
+      "title": "Değer ve referans tipleri arasındaki farkı kavrar",
+      "processComponents": [
+        "Değer tipleri (int, float, bool) ve referans tipleri (sınıflar, diziler) arasındaki temel farklar anlatılır.",
+        "Değer tiplerinin değer kopyalama, referans tiplerinin referans kopyalama üzerinde çalışması açıklanır.",
+        "Değer-referans tiplerinin farklı kullanım senaryoları ve avantajları vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.27.6",
+      "title": "Kalıtım kavramını kavrar",
+      "processComponents": [
+        "Bir sınıfın diğer bir sınıftan kalıtım alması anlatılır.",
+        "Alt sınıfların üst sınıflardan türetildiği ve temel sınıf ile türetilmiş sınıf arasındaki ilişki açıklanır.",
+        "Kalıtım kavramının sınıf tasarımında kullanımı ve kodun yeniden kullanılabilirliği uygulamalarla incelenir."
+      ]
+    },
+    {
+      "code": "BTY.27.7",
+      "title": "Nesneye yönelik C# programlama dili temel yapılarını kullanır",
+      "processComponents": [
+        "Soyut sınıflar ve arayüzlerin kullanımı açıklanır.",
+        "Çok biçimlilik ile farklı nesnelerin aynı metodları farklı şekillerde uygulayabilmesi incelenir.",
+        "Statik sınıflar, isimsiz sınıflar, mühürlü sınıflar, parçalı sınıflar ve numaralandırmalar C# programlama arayüzünde çalıştırılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

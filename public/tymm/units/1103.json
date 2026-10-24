@@ -1,0 +1,54 @@
+{
+  "unitId": 1103,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları - Türk Müziği Teori ve Uygulaması Dersi",
+  "title": "2. TEMA: ARALIKLAR",
+  "hours": "10",
+  "description": "Temada müzikte kullanılan aralık kavramlarının tanınması ve bu aralıkların oluşturulması, ayrıca ikili, üçlü, dörtlü, beşli, altılı, yedili ve sekizli aralıklarla ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TMT3.2.1. Aralık kavramını yazabilme",
+      "processComponents": [
+        "a) Aralık kavramını tanır.",
+        "b) Aralıkları ayırt eder.",
+        "c) Aralıkları uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "aralık",
+  "support": [
+    "Hazırlanan materyaller ile basit örneklerden daha karmaşık örneklere doğru gidilen etkinlikler düzenlenebilir. Eşleştirme kartları kullanılarak öğrencilerin aralıkları görsel olarak gördükten sonra ifade etmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Aralıklardan oluşturabileceği özgün küçük ezgiler veya etütler tasarlamaları istenebilir. Aralıklardan oluşan görsellerle pano oluşturmak için grup etkinlikleri düzenlenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, dereceli puanlama anahtarı, eşleştirme soruları, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere performans görevi olarak ikili aralıklar ile ilgili araştırma ve sunum hazırlama görevleri verilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "teachingApplications": [
+    "TMT3.2.1. Aralık kavramı ile ilgili görsel ve işitsel materyalleri öğrencilerin merak etmesi sağlanır( E1.1 ). Öğrencilerin yeni öğrenmelere ilişkin görsellere ait soru sorması sağlanır ( E3.8 ). Sorulara verilen cevaplar esnasında öğrencilerin potansiyellerini fark etmelerini sağlayacak dönütlerle öz farkındalık/kendini tanıma desteklenir ( SDB1.1 ). Aralık ile ilgili ses ile desteklenmiş sunumlar hazırlanarak öğrencilerin kavramları hem görsel hem de işitsel olarak fark etmeleri sağlanır ( OB4 ). Bu süreç çalışma kâğıdı kullanılarak değerlendirilebilir. Notaların birbirlerine olan uzaklıklarını gösteren görsel materyaller ile 2, 3, 4, 5, 6, 7, 8'li aralıkları, nota yazım kurallarına uygun bir şekilde çizmeleri için etkileşimli tahta ve müzik defteri üzerinde yazı çalışmaları yapmaları sağlanır. Öğrenciler aralıklar ile ilgili farkları belirler ve bu farklılıklar arasında bağ kurmaları sağlanır Yatay ve dikey aralıkların ne olduğu ile işitsel ve görsel örnekler verilir. Örneğin la ve mi notalarını yanyana yazıldığında ve art arda çalındığında yatay aralık olduğu, bu sesler aynı anda çalındığında ve üst üste yazıldığında dikey aralık olduğu ile ilgili görsel işitsel örnekler verilebilir ( KB2.20 ). Öğrencilere performans görevi olarak ikili aralıklar ile ilgili araştırma ve sunum hazırlama görevleri verilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır. Öğrenciler araştırma ve sunum hazırlama sürecinde planlı ve sorgulayıcı olmaları ve görevlerini eksiksiz yapmaları yönünde desteklenir, yapılan çalışmalarla sorumluluk değeri vurgulanarak görev bilincinin önemi üzerinde durulur. ( D3.2 , D16.3 ). Öğrencilerden yaptıkları araştırmayı sözlü ve yazılı olarak ifade etmesi istenebilir. Bu süreç çalışma kâğıdı veya kontrol listesi kullanılarak değerlendirilebilir. Türk müziği sazlarından herhangi bir enstrüman eşliği ile yapılan çalışmalar ile 2, 3, 4, 5, 6, 7, 8'li aralıkları basitten karmaşığa doğru tanır. İşitme etkinlikleri yapılarak seslerin birbirlerine yakın ya da uzak olduğunu işitmeleri sağlanır. Bu 2, 3, 4, 5, 6,7, 8'li aralıkları ayırt etmeleri ve ayırt ettikleri aralıkları işiterek yazmaları sağlanır. Öğrenciler dinledikleri eserlerdeki duyusal derinliği ve sanatsal inceliği ifade etmeleri yönünde desteklenir ( D7.1 ). Bu süreç gözlem formu veya çalışma kâğıdı kullanılarak değerlendirilebilir. Öğrencilere performans görevi olarak ikili aralıklar ile ilgili araştırma ve sunum hazırlama görevleri verilir. Performans görevinin değerlendirilmesinde dereceli puanlama anahtarı kullanılır."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D3.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.20"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1103"
+}

@@ -1,0 +1,84 @@
+{
+  "unitId": 731,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi (Maarif Modeli)",
+  "title": "4. TEMA: FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BESLENİYORUM",
+  "hours": "14",
+  "description": "Bu temada öğrencilerin fiziksel aktivite ve beslenme ilişkisini açıklayabilmeleri, fiziksel aktivite ve beslenmeye ilişkin oyunlarda hareket becerilerini sergileyebilmeleri ve beslenme programı hazırlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.4.4.1",
+      "title": "Fiziksel aktivite ve beslenme ilişkisini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BEO.4.4.2",
+      "title": "Fiziksel aktivite ve beslenme ilişkisini destekleyici oyunlarda hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Oyunlarda hareket becerilerini algılar.",
+        "b) Oyunlarda hareket becerilerinin basamaklarını gösterir.",
+        "c) Oyunlarda hareket becerilerini uygular."
+      ]
+    },
+    {
+      "code": "BEO.4.4.3",
+      "title": "Beslenme programı hazırlayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "beslenme, beslenme piramidi, fiziksel aktivite, oyun, sağlık",
+  "support": [
+    "Örnek beslenme programları üzerinden konu somutlaştırılabilir.",
+    "Beslenme ile ilgili görsellere daha fazla yer verilerek öğrenme ve öğretme süreci dijital içeriklerle desteklenebilir."
+  ],
+  "enrichment": [
+    "Fiziksel aktivite esnasında vücutlarındaki değişimleri gözlemlemeleri, teknolojik aletleri kullanarak verilerini kaydetmeleri istenebilir. Kendi fiziksel aktivite programlarını ve sağlıklı beslenme programlarına ilişkin verilerini kaydederek arkadaşları ile paylaşmaları istenebilir. Öğrencilerden ilgi duydukları bir sporcunun beslenme programını araştırmaları ve sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları öz değerlendirme formu, grup ve akran değerlendirme formu, performans görevi ve kontrol listeleri kullanılarak değerlendirilebilir.",
+    "Öğrencilere performans görevi olarak fiziksel aktivite günlüğü/haftalığı tutma görevi verilebilir. Bu performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir. Fiziksel aktivite ve sağlıklı beslenmenin önemi ile ilgili slogan hazırlamaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya grup değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEO.4.4.1.",
+    "Öğrencilere \"Günlük hayatımızda yaptığımız hangi etkinlikler fiziksel aktivitedir?\",\"Bunlara örnek verebilecek var mı?\" gibi sorular sorularak öğrencilerin fiziksel aktivite ile ilgili ön bilgileri yoklanabilir ( SDB1.1 , E1.1 ). Okul bahçesi veya spor salonunda öğrenciler gruplara ayrılarak fiziksel aktivite örnekleri gösterebilirler. Eş veya grupla sergileyebilecekleri istasyon çalışmaları ile günlük hayattaki fiziksel aktivite örneklerine bu etkinlikte yer vermeleri istenir ( SDB2.2 , D3.4 ). \"Koştuğunuzda, sıçradığınızda, topa vurduğunuzda vücudunuzun hangi bölümleri çalışır?\", \"Koştuğumuzda kalbimiz neden hızlı atar?\", \"Bu ne anlama gelir?\", \"Oyun oynadığınızda kendinizi nasıl hissedersiniz?\" gibi sorularla etkinlikler sırasında neler hissettiklerini fark etmeleri sağlanır ( SDB1.1 ). Fiziksel aktivitenin sağlığımızı nasıl etkilediği ve vücudumuzda meydana gelen değişiklikler üzerine düşünmeleri sağlanır ( E3.2 ). Fiziksel aktiviteler sırasında değişen nabız sayılarını, nefes alıp verme sıklıklarını kayıt altına almaları ve bunları arkadaşlarıyla karşılaştırmaları istenir ( SDB1.2 , D13.2 ). \"Hareket etmek, yürümek, koşmak için vücudunuzun enerjiye ihtiyacı vardır. Bu enerji kaynakları hangi besinlerden alınır?\", \"Kahvaltı yaptığınızda kendinizi neden enerji dolu hissedersiniz?\" gibi sorular sorularak fiziksel aktivite ve beslenme arasındaki ilişkiyi fark etmeleri sağlanır ( E3.2 ). \"Vücudunuz için sağlıklı/sağlıksız yiyecekler nelerdir?\", \"Dengeli beslenme nedir ve neden önemlidir?\" gibi sorularla vücudumuz için sağlıklı besinler almanın gerekliliği; yeterli ve dengeli beslenmenin sağlığımız üzerindeki önemi üzerine düşünmeleri sağlanır ( D13.1 ). Fiziksel aktiviteler sırasında sıvı alımının önemi üzerinde durulur. Fiziksel aktivite ve sağlıklı beslenmenin önemini vurgulayan slogan hazırlamaları ve bu çalışmaları arkadaşları ile paylaşmaları istenebilir. Çalışmaları hep birlikte değerlendirmeleri sağlanabilir. Yapılan çalışmalar dereceli puanlama anahtarı veya grup değerlendirme formu ile değerlendirilebilir. Öğrencilerden sağlıklı besinlerle ilgili görsel sunular hazırlamaları, bunları arkadaşları ile paylaşmaları istenebilir. Getirdikleri içerikler hakkında tartışmaları istenebilir ( OB4 , E2.2 ).",
+    "BEO.4.4.2. Öğrencilere sağlıklı besinler ile ilgili görsel, animasyon, video gibi eğitici içerikler sunulabilir veya sağlıklı besinlerle ilgili araştırma yaptırılarak içerikleri paylaşmaları istenebilir ( OB1 , OB2 ). Öğrencilere \"Hareket etmeniz için enerji kaynaklarına ihtiyacınız vardır. Peki, bu enerji kaynakları nelerdir?\", \"Tahıllar, sebzeler, meyveler, süt ve süt ürünleri, et ve baklagiller hakkında neler biliyoruz?\", \"Süt ve süt ürünlerine örnekler verebilecek olan var mı?\" gibi sorular sorularak öğrencilerin ön bilgileri kontrol edilir. Öğrenciler düşüncelerini ifade etmeleri konusunda cesaretlendirilir ( E3.2 , E3.5 , SDB2.1 ).",
+    "Çeşitli fiziksel aktiviteler ve oyunlarla (sağlık için doğru besin, hangisi yararlı gibi) uygulamalar yapılarak öğrencilerde sağlıklı beslenme algısı oluşturulur. Öğrencilere fiziksel aktivite ve beslenme ilişkisini destekleyici (nesneleri besinlerle eşleştirilmiş hedef veya görsellere atarak vurmaya çalışma, farklı nesneleri taşıyarak bir besin piramidi oluşturma vb.) oyunlar oynatılabilir. Öğrencilerin oyun sırasında yer değiştirme, denge ve nesne kontrol hareket becerilerini nasıl kullanmaları gerektiğini tartışmaları sağlanır. \"Hareket becerilerinden (galop-kayma, dinamik-statik denge, ayakla vurma vb.) hangisini kullandınız?\", \"Hareket becerilerini etkinlikte daha hızlı/yavaş nasıl kullandınız?\" gibi sorular sorularak öğrencilerin oyunlara ilişkin hareket becerilerini fark etmeleri sağlanır. Etkinliklerin sonunda öğrencilerden kısa bir değerlendirme yapmaları istenir. \"Oyunda topu hedefe atarken vücudunuzu nasıl kullandınız?\", \"Hareketlerden hangisi sizin için zorlayıcıydı?\" gibi sorularla konu p kiştirilir ( SDB1.2 ). Belirlenen fiziksel aktivite ve oyunların başında grup içi iletişim kuralları belirlenir ardından oyunun adı, amacı, süresi, kuralları (birbirini etkin dinleme, söz hakkı alarak konuşma, farklı fikirlere ve bireysel farklılıklara saygı duyma, zorlanan arkadaşına destek olma vb.) ve oyuncu sayısı açıklanır. Öğrencilerin oyunlardaki yönergeleri dikkate alarak oyunları kurallarına uygun bir şekilde uygulamaları sağlanır ( SDB2.3 , D14.1 , D15.1 , E2.1 ). Bu süreç gözlem formları, kontrol listeleri, akran değerlendirme ve grup değerlendirme formları ile değerlendirilebilir.",
+    "Oyun ve etkinliklerde olası kaza ve yaralanmalara karşı neler yapılması gerektiği hakkında öğrencilere bilgi verilir. Öğrencilere okulda, sınıfta, beden eğitimi ve oyun derslerinde karşılaşabilecekleri ilk yardım gerektiren durumlarla ilgili temel ilk yardım kurallarından bahsedilir. Konu ile ilişkili eğitici içerikler, görseller (video, fotoğraf, bilgi kartları vb.) sunulabilir. İlk yardım malzemeleri getirilerek malzemelerin kullanımı konusunda bilgilendirme yapılır ve örnekler üzerinden ilk yardım kurallarını uygulamaları istenebilir.",
+    "BEO.4.4.3.",
+    "Öğrencilerden sağlığımız için faydalı besinleri araştırarak edindikleri bilgileri ve görsel sunuları arkadaşları ile paylaşmaları istenir ( KB2.6 , D16.3 , OB1 , OB4 ). Öğrencilerin getirdikleri içerikler hakkında tartışmaları sağlandıktan sonra \"Sağlıklı beslenmek ne anlama gelir?\", \"Sağlığınız için yararlı/zararlı besinler nelerdir?\", \"Oyun ve fiziksel aktivitenin öncesinde, sırasında, sonrasında beslenme nasıl olmalıdır?\" gibi sorularla öğrenciler düşünmeye teşvik edilir ve öğrencilerin sağlıklı/sağlıksız besinleri ayırt etmeleri sağlanır ( D13.1 , E3.2 ). Sınıfça belirledikleri bir oyun veya istasyon çalışması hazırlanarak öğrencilerden sağlıklı besinlerin yer aldığı kart ve görsellerle sağlıklı bir öğün tabağı hazırlamaları istenebilir ( OB4 , SDB1.2 ). Öğrencilerden sağlıklarını korumak için günlük/haftalık olarak yaptıkları fiziksel aktiviteleri bir çizelgeye kaydetmeleri istenir ve çizelgede tükettikleri sağlıklı besin örneklerine de yer vermeleri istenebilir ( BEOSAB4 ). Çizelgede günlük yapılan aktiviteler (sabah okula yürümek, koşmak, top oynamak, merdiven çıkmak vb.), aktivitenin süresi, kalp atış hızı (normal, orta, hızlı), nefes alışverişi (normal, orta, hızlı), tükettikleri sağlıklı besinler, neler hissettiklerine dair bilgileri yazabilecekleri bölümler yer alabilir. Öğrencilerden kayıt altına aldıkları bilgileri derse getirmeleri ve birbirlerine sorular sorarak bilgilerini karşılaştırmaları istenebilir ( SDB1.2 , SDB2.1 ). Öğrencilere fiziksel aktivite günlüğü/haftalığı ile ilgili performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D13.2",
+      "D14.1",
+      "D15.1",
+      "D16.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E2.2",
+      "E3.2",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/731"
+}

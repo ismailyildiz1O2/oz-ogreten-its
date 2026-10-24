@@ -1,0 +1,66 @@
+{
+  "unitId": 1185,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "3.TEMA: KAVALDAN SES ELDE EDEBILME",
+  "hours": "23",
+  "description": "Tema içeriğini kavaldan doğru ses elde edebilme oluşturmaktadır. Bu doğrultuda kavaldan ses elde edebilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.3.3.1",
+      "title": "Kavaldan ses çıkartmadan önce dudağın alması gereken pozisyonu yorumlayabilme",
+      "processComponents": [
+        "a) Dudağın alması gereken şekli inceler.",
+        "b) Doğru dudak pozisyonunu fiziksel özelliklerine uygun olarak uygular.",
+        "c) Dudağın alması gereken şekli fiziksel özelliklerine uygun olarak ifade eder."
+      ]
+    },
+    {
+      "code": "KVL.3.3.2",
+      "title": "Doğru tutuş, duruş ve dudak pozisyonunda kavaldan ses elde edebilme",
+      "processComponents": [
+        "a) Elde edeceği sesi çözümler.",
+        "b) Doğru tutuş, duruş ve dudak pozisyonunu sergiler.",
+        "c) Kavala özgü teknikleri kullanır.",
+        "ç) Sesi, yapısına uygun olarak elde eder."
+      ]
+    }
+  ],
+  "keyConcepts": "duruş, dudak pozisyonu, kaval, ses",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Öğrencilerin dudaklarını güçlendirmek amacıyla egzersizler verilebilir. Bu ses çıkarma becerilerini destekleyebilir."
+  ],
+  "enrichment": [
+    "Okulun bulunduğu şehirde yaşayan usta icracılar davet edilerek veya uzaktan bağlantı ile atölye çalışmaları yapılabilir. Öğrenciler ses çıkarma tekniğini gözlemleyebilir ve sorular sorabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin kavaldan elde ettikleri sesi akort aleti ile doğru frekansta üfleyip sunmaları istenebilir. Performans görevi gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.3.3.1",
+    "Dudakların hangi pozisyonda olması gerektiği ile ilgili bilgiler verilip, kaval üzerinde doğru dudak pozisyonu gösterilerek öğrencilerin pozisyonu incelemeleri sağlanabilir ( D3.3 , OB4 ). Ardından dudak pozisyonu, fiziksel özelliklere göre değişiklik gösterebileceğinden dolayı, fiziksel özelliklerine uygun olarak pozisyonu uygulayabilir. Daha sonra doğru dudak pozisyonu ile kavala 30-45 derece açıyla üflendiğinde doğru sesin elde edilebileceği uygulamalı olarak gösterilip öğrencilerin ifade etmesi ve sunması sağlanabilir ( E3.7 ). Süreç sonunda performans görevi olarak öğrencilerin kavaldan elde ettikleri sesi akort aleti ile doğru frekansta üfleyip, sunmaları istenebilir. Performans görevi gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir.",
+    "KVL.3.3.2",
+    "Öğretmen tarafından kavaldan elde edilebileceği sesler uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Doğru tutuş, duruş ve dudak pozisyonu öğretmen tarafından sergilenip kavaldan ilk ses elde ediş uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru tutuş, duruş ve dudak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri ve doğru pozisyonu sergilemeleri istenir ( SDB1.2 ). Doğru pozisyonlar sağlandıktan sonra öğrencilere küçük gruplara ayrılarak birlikte pratik yapmaları, kavaldan ilk denemelerde ses çıkarmanın zor olabileceği konusunda sabırlı olmaları gerektiği bilgisi verilip kavala özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır ( D3.4 , D12.3 ). Kavaldan doğru ses elde edebilmenin belirgin şekilde algılanması için öğretmen tarafından doğru ses elde edebilmenin aşamaları örneklendirilir. Öğrencilerin gözlemledikten doğru sesi yapısına uygun şekilde ifade etmeleri sağlanır ( D12.3 , KB2.2 ). Süreç sonunda performans görevi olarak öğrencilerin kavaldan elde ettikleri sesi akort aleti ile doğru frekansta üfleyip sunmaları istenebilir. Performans görevi gözlem formu veya dereceli puanlama anahtarı ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1185"
+}

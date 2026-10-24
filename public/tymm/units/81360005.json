@@ -1,0 +1,46 @@
+{
+  "unitId": 81360005,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Tıp Bilimine Giriş Dersi",
+  "title": "5. ÜNİTE: TIBBİ BİLİMLERDE GÜNCEL ARAŞTIRMA ALANLARI",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TBG.5.1",
+      "title": "Tıbbi literatür taramasının araştırma sürecindeki önemini açıklar",
+      "processComponents": [
+        "Tıpta bilgi üretimine ve tıbbi bilgilerin güncellenme hızına değinilir."
+      ]
+    },
+    {
+      "code": "TBG.5.2",
+      "title": "Tıbbi literatür taramasında kullanılan veri tabanlarını araştırır",
+      "processComponents": []
+    },
+    {
+      "code": "TBG.5.3",
+      "title": "Tıp alanında yürütülen güncel araştırma konularını inceler",
+      "processComponents": [
+        "Tıbbın farklı dallarına ait güncel araştırma konuları incelenir.",
+        "Güncel araştırma konularının bilimsel ve yaşamsal önemi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.5.4",
+      "title": "Gelecekte tıbbi araştırma konusu olabilecek olgularla ilgili öngörüde bulunur",
+      "processComponents": [
+        "Yapılan araştırmaların sonuçlarının değerlendirilmesi ve gelecek araştırmalar üzerindeki olası etkileri tartışılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112410022320-t%C4%B1pbilimi.pdf"
+}

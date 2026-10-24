@@ -1,0 +1,59 @@
+{
+  "unitId": 94032502,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "2. ÜNİTE: BESİNLERİMİZ",
+  "hours": "18",
+  "description": "Bu ünitede öğrencilerde; besin çeşitleri, sağlıklı ve dengeli beslenme, sigara ve alkol kullanımının zararları, sağlıklı beslenmenin faydalarına yönelik bilinç oluşturulması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.4.2.1.1",
+      "title": "Canlı yaşamı ve besin içerikleri arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Protein, karbonhidrat, yağ, vitamin, su ve minerallerin ayrıntılı yapısına girilmeden yalnızca önemleri vurgulanır.",
+        "Vitamin çeşitlerine girilmez."
+      ]
+    },
+    {
+      "code": "F.4.2.1.2",
+      "title": "Su ve minerallerin bütün besinlerde bulunduğu çıkarımını yapar",
+      "processComponents": []
+    },
+    {
+      "code": "F.4.2.1.3",
+      "title": "Sağlıklı bir yaşam için besinlerin tazeliğinin ve doğallığının önemini, araştırma verilerine dayalı olarak tartışır",
+      "processComponents": [
+        "Dondurulmuş besinler, paketlenmiş besinler, son kullanma tarihi gibi kavramlar üzerinde durulur. Ayrıca besinlerin temizliği konusuna öğrencilerin dikkati çekilir."
+      ]
+    },
+    {
+      "code": "F.4.2.1.4",
+      "title": "İnsan sağlığı ile dengeli beslenmeyi ilişkilendirir",
+      "processComponents": [
+        "Obezitenin beslenme alışkanlığı ile ilişkisi vurgulanır. Besin israfının önlenmesine dikkat çekilir."
+      ]
+    },
+    {
+      "code": "F.4.2.1.5",
+      "title": "Alkol ve sigara kullanımının insan sağlığına olan olumsuz etkilerinin farkına varır",
+      "processComponents": []
+    },
+    {
+      "code": "F.4.2.1.6",
+      "title": "Yakın çevresinde sigara kullanımını azaltmaya yönelik sorumluluk üstlenir",
+      "processComponents": [
+        "Yakın çevresindeki kişilere sigaranın sağlığa zararlı olduğu konusunda uyarılarda bulunması beklenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Canlılar ve Yaşam",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

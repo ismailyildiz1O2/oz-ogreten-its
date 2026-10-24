@@ -1,0 +1,114 @@
+{
+  "unitId": 416,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "1. ÜNİTE: UZAY ÇAĞI",
+  "hours": "14",
+  "description": "Bu ünitede uzay araştırmaları için geliştirilen teknolojilerin sınıflandırılması, uzay gözlemi için model hazırlanması ve uzay çalışmalarının yol açabileceği problemlerin çözülmesine yönelik fikirlerin oluşturulması amaçlanmaktadır. Bunun yanı sıra yıldızların yaşamı, yıldız, galaksi ve evren kavramları arasındaki hiyerarşik ilişkiler ortaya koyularak bir bütün oluşturulması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Türkiye ve Uzay Araştırmaları",
+      "processComponents": []
+    },
+    {
+      "code": "FB.7.1.1.1",
+      "title": "Uzay araştırmaları için geliştirilen teknolojileri karşılaştırabilme",
+      "processComponents": [
+        "a) Uzay araştırmaları için geliştirilen teknolojilerin özelliklerini belirler.",
+        "b) Uzay araştırmaları için geliştirilen teknolojilerin özelliklerine göre benzerliklerini listeler.",
+        "c) Uzay araştırmaları için geliştirilen teknolojilerin özelliklerine göre farklılıklarını listeler."
+      ]
+    },
+    {
+      "code": "FB.7.1.1.2",
+      "title": "Uzay gözlem araçları ile ilgili bilimsel model oluşturabilm e",
+      "processComponents": [
+        "a) Uzay gözlem araçları ile ilgili model önerir.",
+        "b) Uzay gözlem araçları ile ilgili hazırladığı modeli geliştirir."
+      ]
+    },
+    {
+      "code": "FB.7.1.1.3",
+      "title": "Uzay araştırmalarının yol açabileceği problemleri çözebilme",
+      "processComponents": [
+        "a) Uzay araştırmalarının yol açabileceği problemleri yapılandırır.",
+        "b) Uzay araştırmalarının yol açabileceği problemleri özetler.",
+        "c) Uzay araştırmalarının yol açabileceği problemlerin çözümüne yönelik veriye dayalı tahminde bulunur.",
+        "ç) Uzay araştırmalarının yol açabileceği problemlerin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Uzay araştırmalarının yol açabileceği problemlerin çözümüne ilişkin değerlendirmede bulunur. 2. Bölüm: Uzayda Neler Var?"
+      ]
+    },
+    {
+      "code": "FB.7.1.2.1",
+      "title": "Yıldızların yaşamını açıklayarak yapılandırabilme",
+      "processComponents": [
+        "a) Yıldızların yaşamını inceleyerek hiyerarşik ilişkileri ortaya koyar.",
+        "b) Yıldızların yaşamı ile ilgili elde ettiği ilişkilere dayalı unsurlardan uyumlu bir bütün oluşturur."
+      ]
+    },
+    {
+      "code": "FB.7.1.2.2",
+      "title": "Yıldız, galaksi ve evren kavramlarını açıklayarak yapılandırabilme",
+      "processComponents": [
+        "a) Yıldız, galaksi ve evren kavramlarını inceleyerek hiyerarşik ilişkileri ortaya koyar.",
+        "b) Yıldız, galaksi ve evren kavramları ile ilgili elde ettiği ilişkilere dayalı unsurlardan uyumlu bir bütün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "uzay teknolojileri, yıldız, takımyıldız, galaksi, evren",
+  "support": [
+    "Animasyonların bulunduğu dijital içeriklerle uzay teknoloji araçlarının somutlaştırılması sağlanabilir. Yıldız, galaksi ve evren kavramları ile ilgili kart eşleştirme tekniği kullanılabilir."
+  ],
+  "enrichment": [
+    "Uzay madenciliği konusunda uzay sondalarının önemini içeren araştırma görevi verilir. Uzay madenciliğinin ülkeler için sağladığı fırsatlar ve tehditler incelenebilir. Uluslararası Uzay İstasyonu'nda yapılan araştırma örneklerinin incelenerek araştırma önerisi oluşturulması istenebilir. Uzay araştırmalarında teknolojik gelişmelerin Dünya'nın geleceğine etkisine yönelik araştırma görevi verilebilir. Takımyıldızlarını hayal gücüne bağlı olarak isimlendirmeleri ve gök atlası modeli oluşturmaları istenebilir. Türkiye'de kurulan ve kurulması planlanan gözlemevlerinin özellikleri ile ilgili araştırma görevi verilebilir. Uzay gözlemleri ile ışık kirliliği arasındaki ilişkiye odaklanmaları sağlanabilir. Türk kültüründe Büyükayı, Küçükayı, Kraliçe, Avcı takımyıldızlarına verilen isimler ve bu isimlerin hikayeleri ile ilgili araştırma görevleri verilebilir. Ord. Prof. Dr. Ali YAR'ın yazdığı Türk astronomi kitabı \"Kozmoğrafya\"' ile ilgili araştırma görevleri verilebilir. İbrâhim Hakkı Erzurûmî'nin Marifetname adlı eserinde astronomi alanında çalışmalarını incelemeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde eşleştirme testleri, yapılandırılmış grid, tanılayıcı dallanmış ağaç, çalışma kâğıdı, kısa cevaplı testler vb. kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Uzay gözlem araçları ile ilgili model yapımı performans görevi verilebilir. Bu görevin değerlendirilmesi için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Uzay araştırmalarının yol açabileceği problem durumu, çözüm önerileri ve çözüme yönelik değerlendirmeyi içeren rapor hazırlama performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Yıldız yaşam süreci ile ilgili afiş, poster hazırlama süreci görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Performans görevini değerlendirmede bütüncül dereceli puanlama anahtarı ile öğrencilerin değerlendirme süreçlerine aktif katılımını teşvik etmek amacıyla öz, akran ve grup değerlendirme formları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FB.7.1.1.1 Öğrencilerden Türkiye ve diğer ülkelerin uzay araştırmaları ile ilgili merak ettikleri soruları sormaları istenir ( E3.4 , E3.8 ) . Öğrenciler iş birlikli öğrenme gruplarına ayrılır ( SDB2.1 , SDB2.2 ) . Öğrencilerin gruplarda bilimsel bakış açısıyla oluşturdukları görüşlerini açık fikirlilikle ve saygı çerçevesinde ifade etmeleri istenir ( D14.1 , D3.3 , E3.5 ) . Dijital, yazılı ve görsel vb. bilimsel kaynaklar yardımıyla uzay araştırmaları için geliştirilen teknolojilere yönelik veri oluşturarak bu teknolojilerin özelliklerini belirlemeleri sağlanır ( OB4 , OB7 , OB1 ) . Bilgi kaynaklarının güvenilirliğine yönelik elde edilen veriler öğrencilerle birlikte değerlendirilir. Öğrencilerin uzay araştırmaları için geliştirilen uzay sondası, uzay mekiği, uzay istasyonu, uzay roketi, yapay uydular, teleskoplar vb. teknolojileri benzerliklerine göre listemeleri istenir. Yapay uyduları haberleşme, gözlem, hava tahmini vb. alanlardaki yansımalarına göre sınıflandırabilir. Ülkemize ait yerli haberleşme, iletişim ve gözlem uydularına örnekler verilir ( D19.4 ) . Uzay teknolojilerinden olan teleskoplar, uzay teleskopları ve yer tabanlı teleskop olarak sınıflandırılabilir. Bu aşamada James Webb ile Hubble uzay teleskoplarına değinilebilir. Ayrıca gözlemevlerinde yer tabanlı teleskopların bulunduğuna ve bu gözlemevlerinin kurulduğu yerlerin özelliklerine değinilebilir. Ülkemizde bulunan gözlemevlerine örnekler verilebilir. Öğrencilerin uzay araştırmaları için geliştirilen teknolojilerin farklılıklarını listelemeleri sağlanır. Uzay teknolojisi sayesinde geliştirilen ve günlük hayatta kullanılan araçlara değinilir. Türkiye Bilimsel ve Teknik Araştırma Kurulu Uzay Teknolojileri Araştırma Enstitüsü (TÜBİTAK UZAY) ile Türkiye Uzay Ajansı (TUA) tarafından yürütülen çalışmalara değinilebilir. Uzay araştırmaları yapan kişilere astronom, uzay bilimine astronomi, uzayda çalışmalar yapan kişilere astronot, kozmonot, taykonot vb. isimler verildiğine değinilebilir. Türkiye'nin ilk uzay yolcusu Alper Gezeravcı'nın görev armasının anlamına, uzaya çıkış tarihine ve görevine değinilir. İlk Türk kadın astronom olan Nüzhet Gökdoğan'ın çalışmalarından bahsedilir ( D19.4 ) . Uzay araştırmaları için geliştirilen teknolojileri karşılaştırmak için eşleştirme testleri, yapılandırılmış grid, tanılayıcı dallanmış ağaç kullanılabilir.",
+    "FB.7.1.1.2 Uzay teknolojisi ile ilgili açık uçlu sorular sorulabilir. Öğrencilerin uzay gözlem araçlarını temsil eden model hazırlamaları beklenir. Model tasarlama sürecinde planlarını ertelemeden, istikrarlı bir şekilde, zamanında ve eksiksiz yürütmeleri istenir ( D16.3 ) . Uzay gözlemi yapmak için uygun malzemeler ile dürbün, teleskop, yapay uydu modelleri, Ay yüzeyinde inceleme yapması için gezici araç modeli vb. tasarlatılır ( SDB1.2 ) . Öğrencilerin yaptıkları modelleri karşılaştırarak arkadaşlarına sunmaları sağlanabilir. Öğrencilerin arkadaşlarını etkin şekilde dinlemeleri, duygu ve düşüncelerini ifade etmeleri ve iletişim engeli oluşturmadan modellerini paylaşmaları sağlanır ( SDB2.1 ) . Modelleri bilimsel kaynaklardan yaptığı araştırmalar veya diğer öğrenci modelleri ile karşılaştırarak yeniden geliştirmeleri beklenir ( OB1 ) . Model tasarım süreci teknoloji ve tasarım dersi ile ilişkilendirilebilir. Geliştirilen öğrenci modelleri analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Etkinlik boyunca öğrencilerin performanslarını öz, akran değerlendirme formları ile değerlendirmeleri sağlanabilir.",
+    "FB.7.1.1.3 Uzayda görevini tamamlamış uyduların, uzay sondalarının, roket parçalarının vb. araçların ne gibi sorunlara yol açabileceği sorulur ( E3.4 , E3.8 ) . Öğrenciler iş birlikli öğrenme gruplarına ayrılır ( SDB2.1 , SDB2.2 ) . Öğrencilerin uzay araştırmalarının yol açabileceği problemlerin neler olduğunu güvenilir dijital platformlar, yazılı ve görsel kaynaklar vb. yardımıyla veri oluşturup yapılandırmaları beklenir ( D3.3 , OB7 ) . Yapılandırdığı problemleri rapor, sunum vb. şeklinde kendi ifadeleriyle özetlemeleri sağlanır. Öğrencilerin gruplarda araştırmacı ve sorgulayıcı bakış açısıyla oluşturduğu görüşlerini açık fikirlilikle ve saygı çerçevesinde ifade etmeleri istenir ( D14.1 , D3.3 , E3.5 ) . Dijital ortamlardan, bilimsel kaynaklardan yararlanarak yollarla belirlenen problemlerin çözümüne yönelik topladığı verilere göre tahminlerde bulunmaları istenir ( OB1 , OB2 ) . Bu tahminler sınıfta etkin bir dinleme ortamında tartışılabilir. Bu problemin çözümüne yönelik toplanan veriler ve yapılan tahminler ışığında problemin çözümüne yönelik akıl yürütmeleri beklenir ( OB1 , KB2.4 ) . Akıl yürütmeler sonucunda oluşan çözüm yolları hakkında değerlendirmede bulunmaları istenir ( KB3.3 ) . Sürecin sonunda uzay araştırmalarının yol açabileceği problemlerin çözümüne yönelik rapor oluşturmaları istenir ( SDB3.3 ) . Bütün bu problem çözme süreçleri altı ayakkabı tekniği kullanılarak yapılabilir. Bu yöntem sayesinde olaylara ön yargısız bakmaları ve oluşabilecek farklı durumlara göre davranışlarını, duygularını fark edip geliştirmeleri sağlanır ( SDB2.2 , SDB1.1 ) . Öğrenci raporları analitik dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öz, akran değerlendirme formları kullanılabilir.",
+    "FB.7.1.2.1 Öğrencilerden Güneş'in yaşam süreci ile ilgili merak ettikleri soruları sormaları istenir ( E3.4 , E3.8 ) . Bulutsu, önyıldız, küçük ve büyük kütleli yıldız, kırmızı süperdev, kırmızı dev, süpernova, nötron yıldızı, kara delik, gezegenimsi bulutsu, beyaz cüce kavramlarını çeşitli kaynaklardan veriler toplayarak açıklamaları beklenir ( OB7 ) . Yıldızların sıcaklık durumları ile hacimsel büyüklüklerine ayrıntıya girmeden değinilir. Yıldızların genel özelliklerinden bahsedilirken yıldızların renkleri ile sıcaklık ilişkisi ifade edilebilir. Işık yılı kavramına değinilir. Işık yılı kavramı ile matematik dersi arasında ilişki kurulabilir. Kavramların yapılandırılması sırasında rol oynama tekniği kullanılabilir. Rol oynama sırasında olumlu iletişim dili kullanmaları sağlanır ( SDB2.1 ) . Bu süreçte eğlenerek öğrenmeleri ve görev bilinciyle hareket etmeleri sağlanır ( D16.3 , E2.5 ) . Öğrencilerin kavramlar arası hiyerarşik ilişkileri açıklamaları istenir ( KB2.4 ) . Öğrencilerin elde ettiği bilgilerle var olan bilgilerini bütünleştirerek küçük ve büyük kütleli yıldızların doğumundan ölümüne kadar geçen sürecin uyumlu bir bütün oluşturduğuna ulaşmaları sağlanır. Öğrencilerin yıldız yaşam süreci ile ilgili afiş, poster hazırlamaları sağlanabilir. Büyükayı, Küçükayı, Kraliçe, Avcı takımyıldızlarına değinilir. Takımyıldızlarının yer ve yön bulmadaki önemini fark etmeleri sağlanarak gök atlası modeli yaptırılabilir. Öğrenci afiş ve posterleri analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "FB.7.1.2.2 Yıldız, galaksi ve evren kavramları ile ilgili açık uçlu sorular sorulabilir. Dijital, yazılı ve görsel vb. kaynaklar yardımıyla kavramlara yönelik bilgilere ulaşmaları sağlanır ( OB4 , OB7 , OB1 ) . Kavramların yapılandırılması sırasında gruplarla birlikte istasyon tekniği kullanılabilir. İstasyonlarda ulaştıkları bilgileri kullanarak afiş, metin vb. oluşturmaları sağlanabilir. Bu süreçte galaksilerin çeşitlerine girilmeden Samanyolu ve Andromeda galaksi örnekleri verilebilir. Grupla çalışma sürecinde öğrencilerin olumlu iletişim dili kullanmaları beklenir ( SDB2.1 , SDB2.2 ) . Bu süreçte öğrencilerin eğlenerek öğrenmeleri ve görev bilinciyle hareket etmeleri sağlanır ( D16.3 , E2.5 ) . İstasyon tekniği sonunda akran değerlendirme formu kullanılabilir. Öğrencilerin yıldız, galaksi ve evren arasındaki hiyerarşik ilişkileri açıklamaları istenir ( KB2.13 ) . Öğrencilerin kavramlar arasındaki ilişkileri keşfetmeleri için analoji tekniği kullanılabilir. Öğrencilerden Dünya'nın evrende bulunduğu konum ile evinin Türkiye'deki konumu arasında ilişki kurmaları istenebilir. Elde ettiği bilgilerle var olan bilgilerini bütünleştirerek evrenin uyumlu bir bütün oluşturduğu sonucuna ulaşmaları beklenir. Öğrencilerin öğrenme durumları çalışma kâğıdı, kısa cevaplı testler, eşleştirme testleri vb. araçlarla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D19.4",
+      "D3.3"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.4",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.4",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/416"
+}

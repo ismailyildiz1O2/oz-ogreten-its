@@ -1,0 +1,66 @@
+{
+  "unitId": 94035801,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "1. ÖĞRENME ALANI: GÖRSEL İLETİŞİM VE BİÇİMLENDİRME",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "G.4.1.1",
+      "title": "Görsel sanat çalışmasını oluştururken biçimlendirme basamaklarını kullanır",
+      "processComponents": [
+        "Beyin fırtınası ile başlayan, fikirleri sentezleme, tasarlama, eskiz yapma ve görsel sanat çalışmasını oluşturmaya kadar devam eden sürecin bilinmesi ve uygulanması sağlanır.",
+        "İsraf konusunun ele alınacağı ve biçimlendirme basamaklarını (fikir, eskiz, malzeme seçimi, tasarım ve ürün) içeren bir çalışma yapması istenir. Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "G.4.1.2",
+      "title": "Deneyimlerini farklı fikirler, sanat formları ve kültürel temalarla ilişkilendirerek görsel sanat çalışması oluşturur",
+      "processComponents": []
+    },
+    {
+      "code": "G.4.1.3",
+      "title": "Görsel sanat çalışmasında kompozisyon birliğini oluşturmak için seçimler yapar",
+      "processComponents": [
+        "Görsel sanat çalışmasında sanat elemanları ve tasarım ilkelerinin bir kompozisyon dâhilinde kullanılması sağlanır."
+      ]
+    },
+    {
+      "code": "G.4.1.4",
+      "title": "İki boyutlu yüzey üzerinde derinlik etkisi oluşturur",
+      "processComponents": [
+        "Oluşturulan biçimlerle derinlik etkisi sağlamak için üst üste yerleştirme, ölçüde değişiklik ve kompozisyonda yer değişikliği kullanılır."
+      ]
+    },
+    {
+      "code": "G.4.1.5",
+      "title": "Gözleme dayalı çizimlerinde kontur çizgisini ve gölgeleme tekniklerini kullanır",
+      "processComponents": [
+        "Kontur, tek çizgi olarak ele alınmalıdır. Örneğin çevredeki mimari yapılar seçilebilir. Mimari yapının ışık alan ve almayan yüzeylerini basit düzeyde karalayarak gölgelendirmesi sağlanır."
+      ]
+    },
+    {
+      "code": "G.4.1.6",
+      "title": "Farklı materyalleri kullanarak üç boyutlu çalışmalar yapar",
+      "processComponents": [
+        "4.2.4. numaralı kazanımda belirtildiği gibi müzelerdeki farklı kültürlere ait eserler incelendikten sonra öğrencilerde oluşan fikirler doğrultusunda (kil vb. malzemelerle) uygulamalar yaptırılabilir. Ayrıca 4.1.7. numaralı kazanımda belirtilen renk ve doku elemanlarını çalışmasında gösterir."
+      ]
+    },
+    {
+      "code": "G.4.1.7",
+      "title": "Görsel sanat çalışmalarını oluştururken sanat elemanları ve tasarım ilkelerini kullanır. Renk: Rengin türleri, açık, koyu, yoğun Doku: Gerçek, yapay Değer (valör): Bir rengin şiddeti, derecelendirme ve gölgelendirme Çeşitlilik: Bir veya birden fazla sanat elemanının ilgi yaratmak için bir arada kullanılması",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Görsel İletişim ve Biçimlendirme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf"
+}

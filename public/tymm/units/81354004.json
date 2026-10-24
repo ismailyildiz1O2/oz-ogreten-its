@@ -1,0 +1,83 @@
+{
+  "unitId": 81354004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Girişimcilik Dersi",
+  "title": "4. ÜNİTE: PROJE GELİŞTİRME",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GRS.4.1",
+      "title": "İş fikrini kavramsal olarak açıklar",
+      "processComponents": [
+        "İş fikri kavramının önemi üzerinde durulur.",
+        "İş fikri bulmanın girişimcilik açısından önem taşıdığına dikkat çekilir.",
+        "''Yaratıcı bir iş fikri; fayda sağlıyor mu, yenilik getiriyor mu, ilerleme sağlıyor mu?” sorularının cevapları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "GRS.4.2",
+      "title": "Yaratıcı bir iş fikri oluşturur",
+      "processComponents": [
+        "Sorun çözmeye çalışma, kişisel becerilerini geliştirme, yeni iş fikirleri bulunabileceğine inanma, fikirler hakkında konuşma gibi unsurların iş fikri bulmada önemli olduğu vurgulanır.",
+        "İş fikri bulma konusunda girişimcilerin nasıl bir yol izledikleri açıklanır.",
+        "Girişimciliğin, insan ve toplum ihtiyaçları doğrultusunda yaratıcı fikirlerin ve piyasadaki fırsatların değerlendirilmesi ile gelişip değiştiği vurgulanır."
+      ]
+    },
+    {
+      "code": "GRS.4.3",
+      "title": "Bir iş fikrinin projeye dönüşüm sürecini aşamalarıyla açıklar",
+      "processComponents": [
+        "Proje kavramı açıklanır ve bir iş fikrinin yatırıma dönüşmesinde projenin önemi vurgulanır.",
+        "Bir iş fikrinin projeye dönüşümü için hangi sorulara cevap bulunması gerektiği açıklanır.",
+        "Girişimcinin ve işletme yönetiminin proje planlamada dikkat etmesi gereken unsurların neler olduğu açıklanır.",
+        "Ön proje araştırmaları ekonomi disiplininden yararlanılarak açıklanır.",
+        "Projenin yatırıma dönüşmesi için en önemli basamakların neler olduğu açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.4.4",
+      "title": "Bir iş fikrinden hareketle örnek proje çalışması hazırlar",
+      "processComponents": [
+        "Bir iş fikriyle ilgili sınıfta her öğrencinin katılacağı örnek proje çalışması yapılır."
+      ]
+    },
+    {
+      "code": "GRS.4.5",
+      "title": "Fizibilite çalışmasının amacını açıklar",
+      "processComponents": [
+        "Fizibilite kavramı üzerinde durulur.",
+        "Fizibilite çalışmalarının yapılış amacı, aşamaları ve fizibilite raporu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "GRS.4.6",
+      "title": "İş planı kavramını açıklayarak amacını belirtir",
+      "processComponents": [
+        "Plan yapmanın başarı üzerindeki etkisi açıklanır.",
+        "Plan kavramından yola çıkarak iş planı açıklanır.",
+        "Girişimci açısından iş planının önemi ve yararları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "GRS.4.7",
+      "title": "Örnek bir iş planını inceleyerek kendi taslak iş planını hazırlar",
+      "processComponents": [
+        "Girişimcilerin hazırladıkları iş planı örnekleri ile ilgili araştırma yapılır. Araştırma sonuçları sınıf içinde yazılı, sözlü ve görsel olarak paylaşılır.",
+        "İş planı örnekleri üzerinden finansal risk konusuna değinilir.",
+        "İyi hazırlanan iş planının girişimcinin ve işletme yönetiminin başarıya ulaşmasına olan katkısı vurgulanır.",
+        "İş planında; iş tanımı, pazarlama planı, mali plan, faaliyete geçme, çalışma ve organizasyon bölümlerinin bulunması gerektiği vurgulanır.",
+        "İş planının zayıf ve güçlü yönlerini belirlemek amacıyla Swot Analizi yani GZFT (güçlü-zayıf yönler, fırsat ve tehditler) yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112494851663-giri%C5%9Fimcilik%C3%B6%C4%9Fretimprogram%C4%B1.pdf"
+}

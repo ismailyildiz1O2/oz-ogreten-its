@@ -1,0 +1,116 @@
+{
+  "unitId": 664,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. TEMA: MÜZİK KÜLTÜRÜ",
+  "hours": "",
+  "description": "Bu temada, öğrencilerin Klasik Batı Müziği dönemlerini karşılaştırabilmeleri, Klasik Batı Müziği topluluklarını karşılaştırabilmeleri, insan seslerini sınıflandırabilmeleri, insan sesi topluluklarını karşılaştırabilmeleri, ülkemizdeki mesleki müzik eğitimi kurumlarını karşılaştırabilmeleri, Atatürk’ün müzik eğitimine verdiği önemi özetleyebilmeleri, farklı türdeki eserler ile belirli gün ve haftalarla ilgili eserleri söyleyebilmeleri, ortak repertuvardaki eserleri söyleyebilmeleri, müzik eserlerine bedensel hareketlerle eşlik edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.7.2.1",
+      "title": "Klasik Batı Müziği dönemlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Klasik Batı Müziği dönemlerinin özelliklerini ifade eder.",
+        "b) Klasik Batı Müziği dönemlerine ilişkin benzerlikleri ifade eder.",
+        "c) Klasik Batı Müziği dönemlerine ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.2",
+      "title": "Klasik Batı Müziği topluluklarını karşılaştırabilme",
+      "processComponents": [
+        "a) Klasik Batı Müziği topluluklarının özelliklerini ifade eder.",
+        "b) Klasik Batı Müziği topluluklarına ilişkin benzerlikleri ifade eder.",
+        "c) Klasik Batı Müziği topluluklarına ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.3",
+      "title": "Farklı türdeki eserleri söyleyebilme",
+      "processComponents": [
+        "a) Bedenini söylemeye hazır hâle getirir.",
+        "b) Uygun söyleme tekniklerini kullanır.",
+        "c) Eserin müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.4",
+      "title": "İnsan seslerini sınıflandırabilme",
+      "processComponents": [
+        "a) İnsan seslerine ilişkin değişkenleri belirler.",
+        "b) İnsan seslerini ayrıştırır.",
+        "c) İnsan seslerini tasnif eder.",
+        "ç) İnsan seslerini etiketler."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.5",
+      "title": "İnsan ses topluluklarını karşılaştırabilme",
+      "processComponents": [
+        "a) İnsan ses topluluklarının özelliklerini ifade eder.",
+        "b) İnsan ses topluluklarına ilişkin benzerlikleri ifade eder.",
+        "c) İnsan ses topluluklarına ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.6",
+      "title": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme",
+      "processComponents": [
+        "a) Bedenini söylemeye hazır hâle getirir.",
+        "b) Uygun söyleme tekniklerini kullanır.",
+        "c) Eserin müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.7",
+      "title": "Ülkemizdeki mesleki müzik eğitimi kurumlarını karşılaştırabilme",
+      "processComponents": [
+        "a) Ülkemizdeki mesleki müzik eğitimi kurumlarının özelliklerini ifade eder.",
+        "b) Ülkemizdeki mesleki müzik eğitimi kurumlarına ilişkin benzerlikleri ifade eder.",
+        "c) Ülkemizdeki mesleki müzik eğitimi kurumlarına ilişkin farklılıkları ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.8",
+      "title": "Atatürk'ün müzik eğitimine verdiği önemi özetleyebilme",
+      "processComponents": [
+        "a) Atatürk'ün müzik eğitimine verdiği önemi çözümler.",
+        "b) Atatürk'ün müzik eğitimine verdiği önemi sınıflandırır.",
+        "c) Atatürk'ün müzik eğitimine verdiği önemi yorumlar (Kendi cümleleriyle aktarır.)."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.9",
+      "title": "Ortak repertuvardaki eserleri söyleyebilme",
+      "processComponents": [
+        "a) Bedenini söylemeye hazır hâle getirir.",
+        "b) Uygun söyleme tekniklerini kullanır.",
+        "c) Eserin müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.7.2.10",
+      "title": "Müzik eserlerine bedensel hareketlerle eşlik edebilme",
+      "processComponents": [
+        "a) Ritmik yapıya/eserin anlamına uygun hareketler belirler.",
+        "b) Ritmik yapıya/eserin anlamına uygun hareketler sergiler."
+      ]
+    }
+  ],
+  "keyConcepts": "Barok, klasik, romantik, çağdaş, duo, trio, kuartet, oda müziği, senfonik orkestra, acapella, polifonik, soprano, alto, tenor, bas, Musiki Muallim Mektebi (MMM)",
+  "support": [
+    "Öğrencilere Klasik Batı Müziği dönemleri, Klasik Batı Müziği toplulukları, insan sesi ve ses toplulukları, ülkemizdeki mesleki müzik eğitimi kurumları, Atatürk'ün müzik eğitimine verdiği önem ile ilgili çevrim içi araçlar aracılığıyla konuyla ilgili çeşitli görsel ve işitsel materyaller kullanılabilir, posterler gösterilebilir, videolar izlettirilebilir. Kısa sorular hazırlanarak soru-cevap etkinlikleri yaptırılabilir. Öğrencilerin ilgisine, gelişim seviyesine uygun kısa, eğlenceli, kolay anlaşılır eserler belirlenebilir. Şarkı sözlerinin öğrenilmesini kolaylaştırmak için görsel materyallerden yararlanılabilir ya da eserlerin sözlerini anlatan devinimsel hareketler kullanılabilir. Bedensel hareketlerin nasıl yapılacağını gösteren görsel ve işitsel materyaller kullanılabilir. Bedensel hareketleri gösteren videolar düşük oynatma hızı ile oynatılarak öğrencilerin bedensel hareketleri tekrarlamaları istenebilir. Hareketlere basit ve yavaş ritimlerle başlanabilir. Sınıftaki öğrencilerden, iş birlikli öğrenme doğrultusunda akranlarına yardımcı olmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere Klasik Batı Müziği dönemleri, Klasik Batı Müziği toplulukları, insan sesi ve ses toplulukları, ülkemizdeki mesleki müzik eğitimi kurumları, Atatürk'ün müzik eğitimine verdiği önem ile ilgili çeşitli araştırma ödevleri verilebilir, projeler yaptırılabilir ve bunları sınıfta sunmaları istenebilir. Belirli gün ve haftalarla ilgili eserler oluşturmaları ve söylemeleri istenebilir. Farklı türlerde kendi seçtikleri ya da kendi ürettikleri eserleri doğru duruşla ezgisel yapılarına uygun olarak uygun olarak solo ya da küçük gruplar hâlinde söylemeleri istenebilir. Farklı formlardaki (şarkı, türkü, marş vb.) eserleri de araştırmaları ve sınıfta sunmaları istenebilir. Öğrencilerin dinledikleri müziklere, kendi oluşturdukları bedensel hareketlerle eşlik etmeleri ve bunu sınıfta sergilemeleri istenebilir. Öğrencilere eserlerin ritmik yapılarını ve anlatımlarını uygun bedensel hareketlerle ifade edebilecekleri projeler yaptırılabilir. Çalgı çalabilen öğrencilerin söylenen eserlere kendi çalgılarıyla eşlik etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; gözlem formu, kısa cevaplı ve açık uçlu sorular, kontrol listesi, çoktan seçmeli testler, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir. Klasik Batı Müziği dönemlerini ve Klasik Batı Müziği topluluklarını karşılaştırabilmelerine, insan seslerini sınıflandırabilmelerine yönelik performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.7.2.1. Öğrencilere Klasik Batı Müziği dönemlerinden (Barok, Klasik, Romantik, Çağdaş) örnekler, görsel ve işitsel materyaller aracılığıyla izletilir/dinletilir (SAB9). Daha sonra dinledikleri örneklerin hangi Klasik Batı Müziği dönemine ait olabileceği ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Bu müziklerin onlarda nasıl bir duygu uyandırdığını ifade etmeleri istenir (SDB2.3, OB1). Ardından bu dönemlerin niteliklerini pekiştirici eğitsel oyunlar oynanır (SDB1.1, E2.5, E3.8). Bu dönemlerin başlıca icracılarından ve eserlerinden dünya kültürel mirasına katkısı olan örnekler çeşitli çevrim içi araçlarla dinletilir (SAB9, OB2, OB5). Öğrencilerin bu eserler ve icracılarına saygı duymaları gerektiği vurgulanır (D14.3). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Öğrencilerin dinledikleri dönemi yansıtan müziklerin özelliklerini fark etmeleri ve kendi cümleleriyle yorumlamaları istenir (OB1). Öğrencilere bu müziklerin benzer ve farklı özellik taşıyıp taşımadıkları hakkında sorular sorulur. Bu özellikleri ayrı ayrı açıklamaları istenir. Değerlendirmeler performans görevi, kısa cevaplı ve açık uçlu sorular, gözlem formu, çoktan seçmeli testler gibi araçlardan biriyle yapılabilir. Klasik Batı Müziği dönemlerini karşılaştırabilmelerine yönelik performans görevi verilebilir. MÜZ.7.2.2. Öğrencilere Klasik Batı Müziği topluluklarının (duo, trio, kuartet, oda müziği, senfonik orkestra, eşlikli ve eşliksiz korolar vb.) neler olabileceği ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Bu toplulukların özelliklerine dikkat çekebilmek amacıyla görsel ve işitsel materyaller kullanılabilir. Tanıtılan müzik toplulukları soru-cevap etkinlikleri (bilgi yarışması, doğru-yanlış oyunları vb.) ile oyunlaştırılır (SDB1.1, E2.5, E3.8). Toplulukları görselleştirme sürecinde çevrim içi araçlardan yararlanılır (OB2, OB4). İlgili müzik topluluklarının alan yazınındaki başlıca eserleri dinletilir, kültürel mirasa katkısı olan başlıca topluluklar tanıtılır (SAB9, OB5). Öğrencilerin bunlara saygı duymaları gerektiği vurgulanır (D14.3). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Daha sonra bu müzik topluluklarının özelliklerini, benzerliklerini ve farklılıklarını ayrı ayrı sözlü olarak ifade etmeleri istenir. Değerlendirmeler; gözlem formu, kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formu gibi araçlardan biriyle yapılabilir. Klasik Batı Müziği topluluklarını karşılaştırabilmelerine yönelik performans görevi verilebilir. MÜZ.7.2.3. Öğrencilerden söylenecek Klasik Batı Müziği türleri ve çocuk korolarıyla ilgili seçilecek eser(- ler)i dikkatle dinlemeleri istenir (SAB9, E3.2). Öğrencilerin bedenlerini söylemeye hazır hâle getirmeleri için \"otururken veya ayakta; ayakların omuz hizasında açılarak vücudun dengeli ve dik bir şekilde durması\" gerektiği söylenir. Bu duruş öğretmen tarafından gösterilir ve omurga sağlığı bakımından önemine dikkat çekilir (D13.4). Daha sonra öğrencilerden bedenlerini söylemeye hazır hâle getirmeleri istenir ve bu sırada çeşitli diyafram ve ses egzersizleri yapılabilir. Ardından eserin sözleri önce öğretmen tarafından söylenir ve öğrencilerin tekrar etmeleri istenir. Sözlerin tekrar edilmesinden sonra öğrencilere şarkının nefes yerleri söylenir ve öğrencilerin doğru nefes yerlerinde nefes almaları sağlanır. Bu sırada eseri grup arkadaşları ile söylemeleri için öğrenciler cesaretlendirilir (E1.5). Son olarak, öğrencilerden eserleri grup olarak seslendirirken iş birliği içinde, doğru duruşla, nefes yerlerine odaklanarak ve müziksel bileşenlere uygun şekilde söylemeleri istenir (SDB2.1, SDB2.2, E1.4, E3.2, D3.4, D4.1, OB9). Ayrıca eserin ritmik yapısına ya da anlatımına uygun bedensel hareketler bireysel ve grup olarak yapılabilir. Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir. MÜZ.7.2.4. Öğrencilere insan sesinin nasıl oluştuğu ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Alınan cevaplar doğrultusunda insan sesinin nasıl oluştuğu hakkında bilgiler verilir. Ses çıkarmada \"diyafram nefesinin\" önemi açıklanır ve öğrencilere diyafram nefesini kullanabilmeleri için çeşitli etkinlikler (çiçek koklama, köpek soluması vb.) yaptırılır. Daha sonra insan sesinin çocukluktan ergenliğe kadar değişime (mutasyona) uğradığına ve bu dönemlerde ses sağlığının korunmasının önemine vurgu yapılır (D13.4). İnsan seslerinin ince kadın sesi-soprano; kalın kadın sesi-alto; ince erkek sesi-tenor; kalın erkek sesi-bas şeklinde değişkenlerden oluştuğu belirlenir. Bu seslerin özelliklerine dikkat çekebilmek amacıyla işitsel ve çevrim içi araçlardan yararlanılır (OB2). Tanıtılan sesler soru-cevap etkinlikleri (bilgi yarışması, doğru-yanlış oyunları vb.) ile oyunlaştırılır (SDB1.1. E2.5, E3.8). Bu seslerle ilgili kültürel mirasa katkısı olan önemli sanatçılar dinletilir, öğrencilerin bu eserler ve icracılarına saygı duymaları gerektiği vurgulanır (SAB9, D14.3, OB5). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Daha sonra öğrencilerden dinletilen insan seslerinin her birini ayrıştırmaları, tasnif etmeleri, etiketlemeleri ve kendi cümleleriyle ifade etmeleri istenir (OB1). Değerlendirmeler; gözlem formu, çoktan seçmeli testler, kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formu gibi araçlardan biriyle yapılabilir. İnsan seslerini sınıflandırabilmelerine yönelik performans görevi verilebilir. MÜZ.7.2.5. Öğrencilere insan ses topluluklarının türleri olan çocuk korosu, gençlik korosu, kadınlar korosu, erkekler korosu, karma koro, eşlikli/eşliksiz (acapella) koro, tek sesli ve çok sesli (polifonik) korolar ile ilgili sorular sorularak konuya dikkatleri çekilir (E1.1). Bu toplulukların özelliklerine dikkat çekebilmek amacıyla görsel ve işitsel materyaller kullanılabilir. Tanıtılan ses toplulukları soru-cevap etkinlikleri (bilgi yarışması, doğru-yanlış oyunları vb.) ile oyunlaştırılır (SDB1.1. E2.5, E3.8). Toplulukları görselleştirme sürecinde çevrim içi araçlardan yararlanılır (OB2, OB4). İlgili ses topluluklarının alan yazınındaki başlıca eserleri dinletilir, kültürel mirasa katkısı olan başlıca topluluklar tanıtılır (SAB9, OB5). Öğrencilerin bu eserler ve icracılarına saygı duymaları gerektiği vurgulanır (D14.3). Bu yolla öğrencilerin müzik yaşantıları estetik unsurlarla zenginleştirilir (D7.3). Daha sonra öğrencilerin bu toplulukların özelliklerini, benzerliklerini ve farklılıklarını ayrı ayrı sözlü olarak ifade etmeleri istenir. Değerlendirmeler; gözlem formu, çoktan seçmeli testler, kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formu gibi araçlardan biriyle yapılabilir. MÜZ.7.2.6. Öğrencilerin millî kimliklerini tanımalarına olanak sağlayacak belirli gün ve haftaları konu alan şarkı, türkü ve marş türlerinde söyleyecekleri eser(ler)i dikkatle dinlemeleri istenir (D11.2, D14.3, D19.2, SAB9, E3.2). Bu tema içerisinde belirli gün ve haftalara denk gelen önemli günlerde farklı eserlerle, farklı etkinlikler yaptırılır. Öğrencilerin bedenlerini şarkı söylemeye hazır hâle getirmeleri için \"otururken veya ayakta; ayakların omuz hizasında açılarak vücudun dengeli ve dik bir şekilde durması\" gerektiği söylenir. Bu duruş öğretmentarafından gösterilir ve omurga sağlığı bakımından önemine dikkat çekilir (D13.4). Daha sonra öğrencilerden bedenini söylemeye hazır hâle getirmeleri istenir ve bu sırada çeşitli diyafram ve ses egzersizleri yapılabilir. Ardından eserin sözleri önce öğretmen tarafından söylenir ve öğrencilerin tekrar etmeleri istenir. Sözlerin tekrar edilmesinden sonra öğrencilere şarkının nefes yerleri söylenir ve öğrencilerin doğru nefes yerlerinde nefes almaları sağlanır. Bu sırada eseri grup arkadaşları ile söylemeleri için öğrenciler cesaretlendirilir ve onlardan belirli gün ve haftalarla ilgili söylenen eserin ruhunu (coşku, hüzün vb.) yansıtmaları beklenir (E1.5). Son olarak, öğrencilerden eserleri grup olarak seslendirirken iş birliği içinde, doğru duruşla, nefes yerlerine odaklanarak ve müziksel bileşenlere uygun şekilde söylemeleri istenir (SDB2.1, SDB2.2, E1.4, E3.2, D3.4, D4.1, OB9). Ayrıca eserin ritmik yapısına ya da anlatımına uygun bedensel hareketler bireysel ve grup olarak yapılabilir. Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir. MÜZ.7.2.7. Öğrencilerin ülkemizdeki mesleki müzik eğitimi verilen kurumların neler olabileceği sorusunu yanıtlamaları ve fikirlerini paylaşmaları istenir (SDB2.2, E1.1.). Daha sonra öğrencilere bu kurumların ilköğretim, ortaöğretim ve yükseköğretim düzeylerinde değişiklik gösterdiği; ilköğretim düzeyinde bazı konservatuvarların ortaokul kısımlarında, ortaöğretim düzeyinde güzel sanatlar liselerinde, yükseköğretim düzeyinde ise üniversitelerin eğitim fakülteleri, güzel sanatlar fakülteleri, konservatuvarları ile askerî/bando müzik okulunda verildiğine vurgu yapılır. Tanıtılan müzik okullarıyla ilgili soru-cevap etkinlikleri düzenlenir (SDB1.1, E3.8). Bu okullarda öğrenim görebilmek için ilgili okulun \"müzik yetenek sınavını\" geçmek gerektiğine vurgu yapılarak müziğe yeteneği ve ilgisi olan öğrenciler bu okullara yönlendirilebilir. Öğrencilerin yakın çevrede bulunan mesleki müzik eğitimi kurumlarını ziyaret etmeleri teşvik edilir (E1.6). Daha sonra öğrencilerin bu kurumların özelliklerini, benzerliklerini ve farklılıklarını ayrı sözlü olarak ifade etmeleri istenir. Değerlendirmeler; gözlem formu, çoktan seçmeli testler, kısa cevaplı ve açık uçlu sorular, kontrol listeleri, öz değerlendirme formu gibi araçlardan biriyle yapılabilir. MÜZ.7.2.8. Öğrencilere Atatürk'ün müzik eğitimine verdiği önem hakkında sorular sorularak konuya dikkatleri çekilir (E1.1). Alınan cevaplar doğrultusunda öğrencilerin Atatürk'ün müzik eğitimine verdiği önem hakkında çeşitli basılı ve çevrim içi materyaller aracılığıyla (kitaplar, arşivler, anılar vb.) konuyu inceleyip araştırarak çözümlemeleri istenir. Yapılan bu araştırmalarla Atatürk'ün cumhuriyetin ilanından sonra ilk kurduğu yükseköğretim kurumunun \"Musiki Muallim Mektebi (MMM)\" olduğu ve 1 Kasım 1924 yılında kurulduğu belirtilerek kronolojik olarak müzik eğitiminin geliştirilmesi için harcadığı çabalar göz önüne serilir (SBAB1, OB2, D14.3, D15.2, D19.2). Ayrıca araştırıp buldukları ve çözümledikleri bu bilgiler ışığında Atatürk'ün müzik eğitimine verdiği önem hakkındaki fikirlerini sınıflandırmaları istenir. Daha sonra öğrencilerden Atatürk'ün görüşlerini kendi cümleleri ile sunum yoluyla yorumlamaları istenir (D7.3). Değerlendirmeler; kısa cevaplı ve açık uçlu sorular, gözlem formu, çoktan seçmeli testler gibi araçlardan biriyle yapılabilir. MÜZ.7.2.9. Öğrencilere somut olmayan kültürel mirasın korunmasına olanak sağlamak amacıyla ortak repertuvarda yer alan (Bkz: Ortak repertuvar listesi) şarkı, türkü ve marş türlerindeki eserleri dikkatle dinlemeleri istenir (D14.3, D15.2, D19.3, SAB9, E3.2). Öğrencilerin bedenlerini şarkı söylemeye hazır hâle getirmeleri için \"otururken veya ayakta; ayakların omuz hizasında açılarak vücudun dengeli ve dik bir şekilde durması\" gerektiği söylenir. Bu duruş öğretmen tarafından gösterilir ve omurga sağlığı bakımından önemine dikkat çekilir (D13.4). Daha sonra öğrencilerden bedenlerini söylemeye hazır hâle getirmeleri istenir ve bu sırada çeşitli diyafram ve ses egzersizleri yapılabilir. Ardından eserin sözleri önce öğretmen tarafından söylenir ve öğrencilerin tekrar etmeleri istenir. Sözlerin tekrar edilmesinden sonra öğrencilere şarkının nefes yerleri söylenir ve öğrencilerin doğru nefes yerlerinde nefes almaları sağlanır. Bu sırada ortak repertuvardaki eserlerin bütün yurtta söylendiğine özellikle dikkat çekilerek eserleri grup arkadaşları ile söylemeleri için öğrenciler cesaretlendirilir (E1.5). Son olarak, öğrencilerden eserleri grup olarak seslendirirken iş birliği içinde, doğru duruşla, nefes yerlerine odaklanarak ve müziksel bileşenlere uygun şekilde söylemeleri istenir (SDB2.1, SDB2.2, E1.4, E3.2, D3.4, D4.1, OB9). Ayrıca eserin ritmik yapısına ya da anlatımına uygun bedensel hareketler bireysel ve grup olarak yapılabilir. Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir. MÜZ.7.2.10. Müzik kültürü temasında öğrenilen müzik eserlerinin ritmik yapısına (tempo) ve anlatımına (coşkulu, hüzünlü vb.) uygun bedensel hareketler öğrenciler tarafından belirlenir. Ardından birkaç deneme yapılarak hareketler pekiştirilir. Bunun yanı sıra öğrenciler eğer var ise daha önce öğrenilen türkülerin \"halk oyunları\" ile ilgili bedensel hareketleri uygun bir şekilde yapabilmeleri için öğretmen tarafından sözlü olarak cesaretlendirilir (E1.5). Öğrencilerden hareketlere odaklanarak bireysel/grup hâlinde eserin ritmik yapısına ya da anlamına uygun bedensel hareketleri sergilemeleri istenir (KB2.13, E3.2, OB9, SDB2.1, SDB2.2). Eserlere grup olarak bedensel hareketlerle eşlik ederken öğrencilerin dayanışma içinde olmaları sağlanır (D3.4, D4.1). Bu beceriye yönelik bireysel değerlendirmeler; dereceli puanlama anahtarı, gözlem formu, kontrol listesi gibi araçlardan biriyle yapılabilir. Ritmik yapıya/eserin anlamına uygun hareketler belirlemelerine ve sergilemelerine yönelik performans görevi verilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/664"
+}

@@ -1,0 +1,37 @@
+{
+  "unitId": 624,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Trafik Güvenliği Dersi (Maarif Modeli)",
+  "title": "4. ÖĞRENME ALANI: TRAFİKTE İLK YARDIM VE ACİL DURUMLAR",
+  "hours": "5",
+  "description": "Bu öğrenme alanında öğrencilerin taşıtlarda bulunması gereken ilk yardım malzemelerine dair bilgi toplayabilmeleri ve trafikle ilgili acil durumlarda doğru davranışları uygulayabilmelerini sağlamak amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "TG. 4.4.1. Taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak taşıtlarda bulunması gereken ilk yardım malzemelerine dair bilgilere ulaşır.",
+        "c) Taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin ulaşılan bilgileri doğrular.",
+        "ç) Taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin ulaşılan bilgileri kaydeder. TG. 4.4.2 . Trafikte acil durumlarda doğru davranış biçimlerini belirleyebilme"
+      ]
+    }
+  ],
+  "keyConcepts": "acil durum, ilk yardım, ilk yardım malzemeleri",
+  "support": [
+    "Öğretim sürecini kolaylaştırmak için öğrencilere ilk yardım malzemeleri konulu boyama ve çizim çalışmaları yaptırılabilir. Trafikte acil durumlarda doğru davranış biçimlerini konu alan eğitici videolar izletilebilir."
+  ],
+  "enrichment": [
+    "Sınıfa uzman sağlık personeli veya ilk yardım uzmanı davet edilerek deneyim ve bilgilerinden yararlanılabilir. Öğrencilerden ilk yardım çantası ve içindeki malzemelerin modellerini yapmaları istenebilir. Bu modeller üzerinde malzemelerin işlev ve kullanım yöntemlerini detaylı olarak açıklamaları istenebilir. Trafikte acil durumlarda doğru davranış biçimlerini anlatan bir el kitapçığı hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktılarının değerlendirilmesinde çalışma yaprağı ve performans görevi kullanılabilir. Tüm çalışmalar öğrencilerin ürün dosyalarına eklenir. Öğrencilerin taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin doğru ve yanlış bilgilerinin değerlendirilmesinde çalışma yaprağı kullanılabilir. Öğrencilere belirli acil durum senaryolarını analiz edebilecekleri, doğru ve yanlış davranış biçimlerini belirleyebilecekleri ve canlandırma yapacakları bir performans görevi verilebilir. Öğrenci performansları analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerin çalışmaları öğrenci ürün dosyalarına eklenir."
+  ],
+  "teachingApplications": [
+    "TG.4.4.1 . Öğrencilerden taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin bilgi toplayabilmeleri beklenir. Bunun için öğrencilere öğretmen tarafından hazırlanan bilgi toplama formu verilir. Bu formda taşıtlarda bulunması gereken ilk yardım malzemelerine ilişkin bilgi toplamaya yönelik farklı kaynaklara (kitap, genel ağ, sınıf arkadaşı) yer verilir (OB2). Öğrencilerin bu formdan faydalanarak bilgiye ulaşmak için kullanacakları kaynağı belirlemeleri sağlanır. Bilgi toplama formunda aynı kaynağı seçen öğrencilerin bir araya gelerek grup oluşturmaları sağlanır. Gruplardan taşıtlarda bulunması gereken ilk yardım malzemeleri ve bu malzemelerin kullanım amaçlarına yönelik bilgi toplamaları istenir(OB1). Öğrencilerden görevlerini yerine getirirken özverili davranmaları beklenir (D16.3). Grupların topladıkları bilgilerin doğruluğunu küçük grup tartışma tekniklerini kullanarak tartışmaları sağlanır (E3.4, SDB2.2). Ardından her grubun topladığı bilgileri diğer gruplar ile değiştirmeleri istenir. Grupların \"Doğru mu? Yanlış mı?\" tekniğini kullanarak diğer grubun topladığı bilgilerin doğru olup olmadığını aralarında tartışmaları sağlanır (E3.10, SDB2.1). Tartışma sonucu ortaya çıkan bilgilerin doğruluğu veya yanlışlığı gerekçeleri ile sınıfta sunulur (KB2.20, SDB3.3). Öğretmen tarafından sunumlara ilişkin geri bildirimler verilir. Daha sonra öğrencilerden ilk yardım çantasında bulunması gereken malzemeler ve bunların kullanım amaçlarıyla ilgili ilk yardım malzemelerinin görsellerinin de olacağı bilgi kartları hazırlamaları istenir (OB4). Süreç, çalışma yaprağı ile değerlendirebilir.",
+    "TG.4.4.2. Öğrencilerden trafikte acil durumlarda doğru davranış biçimlerini belirlemeleri beklenir. Bunun için trafikte farklı acil durumları konu alan hikâyeler anlatılır. Hikâyelerin belirli bölümlerinde durularak bahsedilen acil durumlarda neler yapılması gerektiği konusunda öğrencilerden önerilerde bulunmaları beklenir. Öğrencilere acil bir durumdaki doğru ve yanlış davranış biçimlerinin olduğu görsel ve/veya işitsel materyaller sunularak onlardan doğru ve yanlış davranışları belirlemeleri istenir (OB1). Cevaplar sınıfça değerlendirilerek öğretmen rehberliğinde acil durumlarda yapılması gerekenler ile ilgili ortak bir liste hazırlanır. Öğrencilerin bu ortak listede yer alan \"acil durumlarda soğukkanlı davranmak\", \"birey ve çevre güvenliğine dikkat etmek\", \"Acil Çağrı Merkezi 1-1-2'nin aranarak olay yeri ve durumu hakkında doğru ve eksiksiz bilgi vermek\", \"ilk yardım gerektiren durumlarda yapılması ve yapılmaması gerekenler\" gibi konularda doğru davranış biçimlerine ulaşmaları sağlanır (D5.1, D16.2, E3.7). Sağlık Bakanlığının, Jandarma Genel Komutanlığının ve Emniyet Genel Müdürlüğünün trafik ile ilgili acil durumlardaki görev ve sorumluluklarına yönelik bilgilendirme yapılır. Öğrenciler küçük gruplara ayrılır ve her gruba trafikte yangın, yaralanma gibi acil durum örneklerini yansıtabilecek çeşitli senaryo kartları verilir. Öğrencilerden senaryoları incelemeleri istenir. İnceledikleri senaryolardaki farklı acil durumlarda nasıl davranılması gerektiği hakkında konuşmaları istenir. Böylece her bir acil durumun farklı müdahale yöntemleri gerektirdiğini fark etmeleri sağlanır (SDB2.2). Öğrencilerden ilgili senaryolarda verilen acil durumlardaki doğru davranışları belirleyerek canlandırma yapmaları istenir. Canlandırma yaparken acil durumlarda yardımlaşma ve dayanışmanın önemi üzerinde durmaları beklenir (D20.2). Canlandırmanın ardından farklı acil durumlardaki doğru davranış biçimlerinin neler olduğu hakkında zıt panel, fikir taraması gibi tekniklerle tartışma yapılır. Bu tartışmada farklı acil durumlardaki doğru davranış biçimlerinin önemi üzerinde durulur. Öğrencilerin canlandırma performansları analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerin çalışmaları öğrenci ürün dosyalarına eklenir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/624"
+}

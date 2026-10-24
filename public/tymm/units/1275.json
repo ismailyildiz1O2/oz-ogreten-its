@@ -1,0 +1,50 @@
+{
+  "unitId": 1275,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "5. TEMA: KANUN ÇALARKEN NİM SOFYAN VE SEMAİ USULLERİNİ ÖĞRENİYORUM",
+  "hours": "14",
+  "description": "Temada öğrencinin nim sofyan ve semai usulünü öğrenmesiyle birlikte nim sofyan ve semai usulündeki eserleri çalması ile ilgili öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.3.5.1",
+      "title": "Nim sofyan ve semai usullerini usul vurarak çalabilme",
+      "processComponents": [
+        "a) Nim sofyan ve semai usullerini dizlerinin üstüne vurarak çalmak için yazılmış etüt veya eserleri çözümler.",
+        "b) Nim sofyan ve semai usullerini dizlerinin üstüne vurarak çalmak için duruş pozisyonu alır.",
+        "c) Nim sofyan ve semai usullerini dizlerinin üstüne vurarak çalmak için usule uygun teknikleri kullanır.",
+        "ç) Nim sofyan ve semai usullerini dizlerinin üstüne vurarak çalmak için usulün bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "darp, kanun, makam, müzik, usul",
+  "support": [
+    "Öğrencilerin bireysel öğrenmeleri dikkate alınarak, çalışılan etütlerin metronomları yavaşlatılarak çalmaları istenebilir. Öğrenme düzeyine göre metronom artırılarak öğrencilerin bireysel performansları artırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin öğrendikleri dizilerde ve usullerdeki etütleri farklı metronom hızlarıyla çalışmaları istenerek dizilerdeki sesleri ve etütlerdeki melodik yapılardaki hakimiyetinin artırılması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir.Öğrencilerden dinlediğini anlama ve tanıma becerisini ölçen performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.3.5.1",
+    "Öğrenciye usul kavramı geleneksel Türk müziğimiz içerisinde ve Türk müzik kültüründe ( OB5 ) usulün ne olduğu, eserlerde nasıl kullanıldığı ile ilgili genel bilgi verildikten sonra küçük usullerden olan nim sofyan ve semai usulleri vuruşları (darpları) ile uygulamalı bir şekilde gösterilerek öğrencinin usule ve usul vurmaya odaklanması sağlanır ( E3.2 ). Öğrencinin çalışacağı eser veya etütler öğrenciyle birlikte çözümlenir. Daha sonra öğrenciden bunları tekrar etmesi istenebilir ( D3.1 ). Öğrenilen bu usullerin yaşantımızda nerelerde duyulduğuna örnekler verilerek bu örnekler çeşitlendirilir ( SDB2.1 ). Ardından bu usullerde yazılmış etüt ve örnek eserler çalınarak usul kavramı pekiştirilir. Öğrencilerden nim sofyan ve semai usullerini usul vurarak çalabilme performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı, öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1275"
+}

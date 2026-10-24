@@ -1,0 +1,54 @@
+{
+  "unitId": 1417,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyolonsel Modülü",
+  "title": "1. TEMA: NOTALARI KEŞFET",
+  "hours": "10",
+  "description": "Temada öğrencilerin viyolonselin boş tellerindeki notaları keşfetmeleri, bu notaların çalgı üzerindeki yerlerini öğrenmeleri ve farklı tellerdeki notalar arasındaki ilişkileri anlamaları ile ilgili belirlenen öğrenme çıktısına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VLS.3.1.1",
+      "title": "Viyolonseldeki boş teller üzerindeki notaların yerlerini çözümleyebilme",
+      "processComponents": [
+        "a) Viyolonselin boş tellerindeki notaları ve fiziksel yerlerini belirler.",
+        "b) Boş teller üzerindeki notaların yerleri arasındaki sıralamayı ve ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "nota, tel, viyolonsel",
+  "support": [
+    "Öğrencilere boş tellerdeki notaların fiziksel yerlerini öğrenmeleri için görsel şemalar ve notaların yer aldığı dijital uygulamalar sunulabilir. Öğretmen, her tel üzerindeki notayı çalarak öğrencilerden bu sesleri tekrar etmelerini istenebilir. Her teli ayrı ayrı ele alarak adım adım öğrenme sağlanabilir. Öğrenciler, öğretmenin rehberliğinde boş tellerdeki notaların sırasını küçük gruplar hâlinde çalışabilir ve arkadaşlarının desteğiyle eksiklerini tamamlayabilir. Daha eğlenceli bir yaklaşım olarak sınıfta herkesin katılabileceği bir \"hızlı nota bulma\" oyunu düzenlenebilir. Oyunda ihtiyacı olan öğrencinin bildiği notalar sorularak motivasyonu artırılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, viyolonselin boş tellerindeki notaları öğrenirken bu notalarla ilgili yaratıcı etkinliklere katılabilir. Örneğin viyolonselin tellerine ait notaları içeren bir müzik bulmacası veya \"notaları eşleştirme\" oyunu oynayabilirler. Ayrıca grup çalışmaları sırasında, öğrenciler boş tellerdeki notaları kullanarak temel bir melodi oluşturabilir ve bu melodiyi sınıfta arkadaşlarına sunabilir. Daha ileri bir etkinlik olarak öğretmen öğrencilerden viyolonsel üzerindeki boş telleri temel alarak bir \"nota yolculuğu\" haritası çizmelerini istenebilir ve bu haritayı diğer gruplarla paylaşarak tartışmalar yapabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, öz değerlendirme ve akran değerlendirme formları ile ölçülebilir. Performans görevi olarak öğrencilerden viyolonsel üzerindeki belirli bir teldeki notaları fiziksel olarak göstermeleri, bu notaların sırasını bir çizimle sunmaları veya gruplandırarak düzenlemeleri istenebilir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VLS.3.1.1",
+    "Öğrenciler, öğretmenin rehberliğinde viyolonselin boş tellerindeki notaların isimlerini hatırlayarak derse başlar. Öğretmen, viyolonsel üzerindeki boş tellerde yer alan notalara ilişkin parçaları belirlemelerine yardımcı olacak görsel materyaller ve yönergeler sunar ( OB4 ). Öğrenciler, boş tellerdeki notaları tek tek inceleyerek bu notaların fiziksel yerlerini belirler. Bu süreçte öğretmen, \"Do teli üzerinde hangi notalar var?\", \"Bu tel üzerindeki notaların diğer tellerle bağlantısı nedir?\" gibi sorularla öğrencilerin dikkatini parçaların tespiti ve belirlenmesine çeker. Öğrenciler, belirledikleri notaların fiziksel yerleri arasındaki sıralamayı ve ilişkileri belirlerken nesnel kanıtlar kullanır ve akıl yürüterek çıkarımlarda bulunur ( E3.6 ). Bu aşamada, öğrencilerden aynı tel üzerindeki notaların sıralamasını ve farklı teller üzerindeki notaların birbirleriyle olan ilişkilerini açıklamaları istenir. Öğretmen, \"Sol teli üzerindeki notalar ile Do teli üzerindeki notalar nasıl bir ilişki oluşturuyor?\" gibi sorular yönelterek çözümleme sürecini pekiştirir. Daha sonra, öğrenciler viyolonseldeki notaları sınıflandırarak aynı tel üzerindeki notaları gruplar hâlinde düzenler ( KB2.5 ). Öğrenciler, aynı oktavda yer alan notaları veya aynı tel üzerindeki notaları gruplandırmak için tartışmalara nezaket ölçülerinde katılır ( D4.2 , SDB2.2 ). Öğrenciler, öğrendikleri bilgileri görsel materyallere (şema veya çizim) dönüştürerek kaydeder. Bu materyaller, grup içinde paylaşılır, gerektiğinde başkalarından yardım talep edilir ve eksik bilgiler tamamlanır ( D10.1 ). Öğretmen, süreç boyunca öğrencilerin doğru notaları belirleyip belirlemediğini gözlemleyerek geri bildirim verir ve öğrencilerin kendi kendilerini değerlendirmelerine rehberlik eder ( SDB1.2 ). Performans görevi olarak öğrencilerden viyolonseldeki belirli notaları fiziksel olarak göstermeleri ya da notaların sırasını bir çizimle sunmaları istenebilir. Bu süreçte öz ve akran değerlendirme formları kullanılabilir ( SDB1.2 , SDB2.3 ). Çalışmalar, kontrol listesi veya gözlem formu ile yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1417"
+}

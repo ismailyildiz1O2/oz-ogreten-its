@@ -1,0 +1,59 @@
+{
+  "unitId": 81424061,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "61. ÜNİTE: KAVAL - KAVAL ÇALMADA TEMEL TEKNİKLER",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.9.1.1",
+      "title": "Kavalda ilk sesi elde eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.2",
+      "title": "Ağızlıkta dudak pozisyonunu koruyarak farklı sürelerde ses üfler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.3",
+      "title": "Ağızlığa temel dil vurma tekniğini kullanarak üfler",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.4",
+      "title": "Kavalın tutuş pozisyonunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.5",
+      "title": "Kavalda parmak boğumlarını kullanarak perdeleri kapatır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.6",
+      "title": "Kavalda ikinci kademe sesleri çalışır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.7",
+      "title": "Kavalda üçüncü kademe sesleri çalışır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.1.8",
+      "title": "Kavalda ikinci ve üçüncü kademe ses değiştirici işaretli notaları seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

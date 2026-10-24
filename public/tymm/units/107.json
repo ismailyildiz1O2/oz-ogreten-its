@@ -1,0 +1,37 @@
+{
+  "unitId": 107,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "1. ÜNİTE: COĞRAFYANIN DOĞASI",
+  "hours": "6",
+  "description": "Bu ünitede mekânsal sorunlara karşı geliştirilen çözüm önerilerine coğrafya biliminin sunduğu katkıların yapılandırılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.11.1.1",
+      "title": "Mekânsal sorunların çözümünde coğrafya biliminin katkılarını yapılandırabilme",
+      "processComponents": [
+        "a) Coğrafya biliminin mekânsal sorunların çözümüne sunduğu katkıları inceleyerek nedensel veya mantıksal ilişkiler ortaya koyar.",
+        "b) Coğrafya biliminin mekânsal sorunların çözümüne sunduğu katkılarla ilgili elde ettiği bilgileri uyumlu bir bütün hâline getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "bağlantı, bilimsel yaklaşım, dağılış, mekânsal sorunlar",
+  "support": [
+    "Öğrencilere mekânsal sorunların anlaşılmasını kolaylaştırmak amacıyla fotoğraf, video gibi görsel materyaller üzerinden görsel okuma yaptırılabilir. Performans görevi; öğrencilerin örnek bir kitap, belgesel veya makaleden yola çıkarak coğrafyanın mekânsal sorunların çözümüne sunduğu katkılara ilişkin çıkarımlarını raporlamaları şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden belirleyecekleri *mekânsal bir soruna karşı çözüm önerileri geliştirmeleri istenebilir. Çözüm önerilerinin sunulması yoluyla bir tartışma süreci başlatılabilir ve öğrenme ortamındaki etkileşim artırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktısı; açık uçlu sorular, performans görevi, analitik dereceli puanlama anahtarı, öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden bir belgesel, kitap veya bilimsel çalışmalardan (makale, bildiri, proje vb.) yola çıkarak mekânsal sorunların çözümünde coğrafyanın katkılarını içeren bir rapor hazırlamaları istenebilir. Performans görevi; bilgi toplama, bilgileri düzenlenme ve rapor hazırlama ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.11.1.1",
+    "Çevre kirliliği, plansız kentleşme, arazinin yanlış kullanımı gibi mekânsal çevre sorunlarına örnekler verilir ve bu sorunların neden ve sonuçlarının incelenmesi sağlanır. Öğrencilerden coğrafya biliminin bu sorunların çözümüne katkılarını nedensel veya mantıksal çerçevede ifade etmeleri istenir (OB1) . Bu sorunlar; coğrafya biliminin yaklaşımı doğrultusunda \"Coğrafya, mekânsal sorunlarla ilgili bağlantıları nasıl inceler?\", \"Mekânsal sorunların neden ve sonuçlarını nasıl yapılandırır?\", \"Mekânsal sorunların dağılışını nasıl ortaya koyar?\", \"Bu sorunların çözümüne ne gibi katkılarda bulunur?\", \"Mekânsal sorunlarla mücadelede diğer disiplinlerden farklı olarak ne gibi çözüm önerileri sunar?\", \"Mekânsal sorunların çözümünde diğer bilimlerle nasıl iş birliği yapar?\" gibi açık uçlu sorular üzerinden bir tartışma süreci içinde ele alınabilir ( SBAB7.1, SBAB7.3, SBAB7.5, SDB2.1 ). Bu kapsamda elde edilen bilgiler eleştirel bir yaklaşımla değerlendirilir (D3.3, E3.10) . Daha sonra mekânsal sorunların ele alındığı makale, bildiri, tez, proje vb. bilimsel çalışma örnekleri öğrencilerle paylaşılabilir. Bu çalışmalar analiz edilerek ulaşılan çıkarımlar bir bütün hâline getirilir. Süreç sonunda ortaya çıkan bilgiler; mevcut duygu, düşünce ve davranışların öz bilgilerle bütünleşmesi kapsamında yapılandırılır (SDB2.3 ). Ayrıca öğrencilerden mekânsal sorunlar bağlamında kendileri ve/veya yakın çevrelerini değerlendirmeleri ve uygulamalardaki hataları belirlemeleri istenebilir ( KB3.3, SDB1.3) . Bilimsel çalışmalarda geçen mekânsal sorunlara ilişkin çözüm önerilerini ve yapılması gerekenleri belirlemeye yönelik bir tartışma yürütülebilir ( SDB3.3) . Öğrenmeler açık uçlu sorularla değerlendirilebilir.",
+    "Bu ünitede performans görevi olarak öğrencilerden bir belgesel, kitap veya bilimsel çalışmalardan (makale, bildiri, proje vb.) yola çıkarak mekânsal sorunların çözümünde coğrafyanın katkılarını içeren bir rapor hazırlamaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir ( SDB1.2)."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/107"
+}

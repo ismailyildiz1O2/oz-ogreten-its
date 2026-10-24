@@ -1,0 +1,63 @@
+{
+  "unitId": 81424161,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "161. ÜNİTE: HALK OYUNLARI - HALK DANSLARININ TEMEL TEKNİKLERİ VE UYGULAMALARI",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.2.1",
+      "title": "Ritmin ne olduğunu açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.2.2",
+      "title": "Farklı ritim çalışmalarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.2.3",
+      "title": "Müzikte kullanılan notaları söyler",
+      "processComponents": [
+        "Halk oyunlarında müziğin hareketleri yönlendirdiği açıklanır."
+      ]
+    },
+    {
+      "code": "SSA.3.2.4",
+      "title": "Ölçüyü ifade eder",
+      "processComponents": [
+        "Ölçüye göre vuruş çalışması yapılır."
+      ]
+    },
+    {
+      "code": "SSA.3.2.5",
+      "title": "Ritmik alıştırmalardaki adım çalışmalarının önemini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.2.6",
+      "title": "Tam nota değerindeki adım çeşitlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.2.7",
+      "title": "Sekizlik değerindeki adım çeşitlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.2.8",
+      "title": "Değişik nota değerindeki adım çeşitlerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

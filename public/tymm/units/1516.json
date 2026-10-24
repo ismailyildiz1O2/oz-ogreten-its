@@ -1,0 +1,40 @@
+{
+  "unitId": 1516,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Yapay Zekâ Uygulamaları Dersi",
+  "title": "DÜZEY I · 3. Tema: Yapay Zekâ Uygulamaları",
+  "hours": "34",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YZU1.3.1",
+      "title": "Yapay zekâ modeli geliştirmek için bilgi toplayabilme",
+      "processComponents": [
+        "a) Yapay zekâ modeli girdileri için uygun araçları belirler.",
+        "b) Yapay zekâ modeli girdileri hakkında bilgileri bulur.",
+        "c) Yapay zekâ modeli girdilerini doğrular.",
+        "ç) Yapay zekâ modeli girdilerini kaydeder."
+      ]
+    },
+    {
+      "code": "YZU1.3.2",
+      "title": "Blok tabanlı ortamda yapay zekâ modeli geliştirme",
+      "processComponents": [
+        "a) Blok tabanlı ortamda yapay zekâ modeli için gerçek hayat problemi belirler.",
+        "b) Belirlenen problemin çözümü veya olası risklerin önlenmesi için girdileri kullanarak yapay zekâ modeli oluşturur.",
+        "c) Yapay zekâ modelini uygular.",
+        "ç) Yapay zekâ modelinin süreç ve sonuçlarını değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "basit yapay zekâ modeli, problem tanımlama, veri doğrulama, veri kaydetme, veri toplama",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.4. Simülasyon/ Model Geliştirme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1516"
+}

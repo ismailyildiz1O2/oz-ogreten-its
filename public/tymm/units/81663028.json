@@ -1,0 +1,49 @@
+{
+  "unitId": 81663028,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "28. ÜNİTE: PROGRAMLAMA DİLLERİ (C#) - 4. ÜNİTE: DİZİLER VE KOLEKSİYONLAR",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.28.1",
+      "title": "Tek boyutlu ve çok boyutlu dizileri kavrar",
+      "processComponents": [
+        "Tek boyutlu ve çok boyutlu dizilere değişkenleri doğru bir şekilde tanımlayarak değer atama uygulamaları C# programlama arayüzünde kullanılır.",
+        "Verileri sıralama, arama ve değiştirme işlemleri için indeks numarası kullanarak dizi elemanlarına erişim uygulamaları gerçekleştirilir.",
+        "Dizilerde sayıların, metinlerin ve diğer veri türlerinin kullanımı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.28.2",
+      "title": "Koleksiyonlarda boxing ve unboxing kavramlarını açıklar",
+      "processComponents": [
+        "Değer tiplerinin (int, char, vb.) ve referans tiplerinin (object, interface, vb.) değişimi anlamına gelen boxing ve unboxing kavramları tanıtılır.",
+        "Farklı tipteki ögeleri dinamik bir şekilde saklayabilen ArrayList koleksiyonunun oluşturulması ve dinamik verilerin depolanması anlatılır.",
+        "Farklı tipteki verileri ArrayList koleksiyonu ile saklama açıklanır.",
+        "Koleksiyon elemanlarına erişme örnekleri çalışılır.",
+        "Koleksiyonların verileri düzenlemek, filtrelemek ve hızlı erişim sağlamak için kullanılması anlatılır.",
+        "Dinamik boyutları, veri yönetimi kolaylığı ve performans optimizasyonu özelliklerine sahip koleksiyonların avantajları vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.28.3",
+      "title": "Koleksiyon türlerini kavrar",
+      "processComponents": [
+        "List, queue-stack, dictionary, hashtable ve sortedlist koleksiyon türleri anlatılır.",
+        "Her bir koleksiyon türünün kullanımı ve tercih edilme durumları incelenir.",
+        "Veri saklama ve işleme gibi uygulama örnekleriyle koleksiyonların işlevselliği fark ettirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

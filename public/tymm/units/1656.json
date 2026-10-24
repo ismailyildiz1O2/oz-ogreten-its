@@ -1,0 +1,70 @@
+{
+  "unitId": 1656,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Psikoloji Dersi",
+  "title": "3. Ünite: Nasıl Öğreniriz?",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PSK.3.1",
+      "title": "Öğrenmenin temel kavramlarını çözümleyebilme",
+      "processComponents": [
+        "a) Öğrenme ile ilgili temel kavramları belirler.",
+        "b) Öğrenme ile ilgili temel kavramlar arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "PSK.3.2",
+      "title": "Öğrenmeyi etkileyen etmenleri özetleyebilme",
+      "processComponents": [
+        "a) Doğuştan, geçici ve öğrenilmiş davranış türlerini çözümler.",
+        "b) Öğrenmeyi etkileyen etmenleri sınıflandırır.",
+        "c) Öğrenmeyi etkileyen etmenleri yorumlar."
+      ]
+    },
+    {
+      "code": "PSK.3.3",
+      "title": "Öğrenme yaklaşımlarını özetleyebilme",
+      "processComponents": [
+        "a) Öğrenme yaklaşımlarını çözümler.",
+        "b) Öğrenme yaklaşımlarını sınıflandırır.",
+        "c) Öğrenme yaklaşımlarını yorumlar."
+      ]
+    },
+    {
+      "code": "PSK.3.4",
+      "title": "İnsan öğrenmesi ile makine öğrenmesini karşılaştırabilme",
+      "processComponents": [
+        "a) İnsan öğrenmesi ve makine öğrenmesinin özelliklerini belirler.",
+        "b) İnsan öğrenmesi ve makine öğrenmesinin benzerliklerini listeler.",
+        "c) İnsan öğrenmesi ve makine öğrenmesinin farklılıklarını listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "biliş, hazırbulunuşluk, öğrenme, öğretim",
+  "support": [
+    "Öğrenmenin temel kavramlarını ve öğrenmenin nasıl gerçekleştiğini pekiştirmeye yönelik görsel ve işitsel uyaranların yoğunlukta olduğu öğretim materyalleri kullanılabilir."
+  ],
+  "enrichment": [
+    "*Öğrencilerden, Türkiye Uzay Ajansının ”Millî Uzay Programı” çerçevesinde yürüttüğü çalışmalar kapsamında uzaya giden ilk Türk Astronot Alper Gezeravcı’nın uluslararası uzay üssünde gerçekleştirdiği on üç deneyden biri olan ”Oksijen Saturasyonu deneyinin sonuçlarını psikolojinin ”genel uyarılmışlık hâli” kavramı çerçevesinde değerlendiren bir sunum hazırlamaları istenebilir.",
+    "Öğrencilerden, “Bilgiyi İşleme Kuramı” na göre öğrenmenin nasıl gerçekleştiğine ilişkin bir şema oluşturarak öğrenmeyi etkileyen temel yapıları ve süreçleri açıkladıkları bir poster hazırlamaları istenebilir.",
+    "Öğrencilerden, “Davranışçı Öğrenme ve Bilişsel Öğrenme” kuramlarının karşılaştırıldığı bir makale yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarında kavram haritası, çalışma kâğıdı, yapılandırılmış grid, yansıtma yazısı, eşleştirme maddeleri, zihin haritası, soru-cevap, T tablosu, performans görevi ve kontrol listesi kullanılabilir. Performans görevi: Öğrencile Cahit Arf'ın ”Makine Düşünebilir mi ve Nasıl Düşünebilir?” makalesinden yola çıkarak, insanın öğrenme süreci ile makine öğrenmesini karşılaştıran bir sunum hazırlayabilir. Performans görevi; ulaşılan sonuçların doğruluğu, içerik, özgünlük, görsel kullanımı, sunum ve dil anlatım gibi kriterler açısından dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PSK.3.1",
+    "Öğrencilere öğrenmenin temel kavramlarını (öğrenme, öğretme, öğretim, hazırbulunuşluk) konu alan öğrenme ile ilgili deney [Edward Thorndike’ın (Edvırt Törndayk) “Bulmaca Kutusu Deneyi” ya da Wolfgang Köhler’in (Volfgank Köhler) “Şempanze Deneyi”] verilir ( E1.1 ). Öğrencilerden, deneyde yer alan öğrenmenin temel kavramlarını belirlemeleri ve kendi cümleleri ile ifade etmeleri istenir ( SDB2.1 ). Öğrencilerin, belirlenen kavramları karşılaştırarak söz konusu kavramların birbirleri ile ilişkilerini belirlemeleri ve kendi örneklerini vermeleri sağlanır. Süreç sonunda öğrenciler kavram haritası hazırlar.",
+    "PSK.3.2",
+    "Öğrencilere günlük hayattaki öğrenilmiş ve öğrenilmemiş davranışlara ilişkin örnek olaylar ya da durumlar verilir ( E1.1 ). Öğrencilere, yönlendirici sorular (Bu olay ya da durumlardaki davranışların hangileri bir türün tüm üyelerinde görülür? Hangi davranışlar refleksiftir? Hangi davranışlar kalıcıdır? Hangi davranışlar gerektiğinde ortaya çıkar? Hangi davranışlar deneyim sonucunda oluşur? Zihinsel çaba ile ortaya çıkan davranışların diğerlerinden farkı nedir? vb.) sorularak bu davranışlardan hangilerinin doğuştan, geçici ya da öğrenilmiş olduğuna ilişkin bir sınıflandırmanın iş birliği içinde yapılması sağlanır ( SDB2.2 , KB2.4 , KB2.5 ). Bunun için yapılandırılmış grid ya da kavram haritası öğretim tekniği kullanılabilir. Öğrenilmiş davranışların yaşantı ürünü, sonradan edinilmiş ve nispeten kalıcı izli olduğu vurgulanır. Süreç sonunda öğrencilerden kültür ögesi içeren bir davranışın öğrenilme süreci ile ilgili afiş ya da karikatür hazırlaması istenebilir. Öğrencilere kavram yanılgıları ve öğrenme eksiklikleri ile ilgili dönüt verilir. Öğrencilere, öğrenmeyi etkileyen etmenlerin (türe özgü hazırbulunuşluk, dikkat, genel uyarılmışlık hâli, zekâ, fizyolojik durum, kaygı, transfer, olgunlaşma, aralıklı öğrenme, toplu öğrenme, parçalara bölerek öğrenme, bütün öğrenme, geri bildirim, telaffuz edilebilirlik, algısal ayırt edilebilirlik, anlamsal çağrışım, kavramsal gruplama) kısa tanımlarının yer aldığı bilgi notu verilir (OB1). Öğrencilerin, bu etmenleri öğrenenden, öğrenme malzemesinden ve öğrenme yönteminden kaynaklananlar şeklinde iş birliği yaparak gruplamaları sağlanır ( SDB2.2 , KB2.5 ). Öğrencilere, bunun için kavram haritası hazırlatılır. Söz konusu etmenlerle ilgili örnekler verilerek öğrencilerin bu örneklerin hangi etmen ya da etmenlerle ilişkili olduğunu bulması sağlanır. Bunun için eşleştirme maddeleri kullanılabilir. Öğrencilerin öğrenmeyi etkileyen etmenleri yorumlayabilmeleri için bu etmenlerin akademik başarıya etkisi konusunda eleştirel bir metin yazmaları sağlanır ( E3.10 , KB3.3 ). Çalışmanın sonunda öğrencilerden, bu etmenlerin kendi öğrenme süreçlerine nasıl etki ettiğine ilişkin kısa bir örnek ya da durum yazısı hazırlayarak öz eleştiri yapmaları ve davranışlarını düzenlemeleri beklenir ( D9.1 ).",
+    "PSK.3.3",
+    "Öğrencilere insanların ve hayvanların öğrenme davranışlarına ilişkin örnek olaylar ya da durumlar verilir. İnsanların ve hayvanların öğrenme davranışlardaki farklılıklar konusunda tartışmaları sağlanır ( SDB2.1 , KB2.18 ). Bunun için küçük grup tartışma öğretim tekniği kullanılabilir. Öğrencilere öğrenme yaklaşımlarının [davranışçı (klasik ve edimsel koşullanma), sosyal-bilişsel, bilişsel] tanımlarını, temel özelliklerini, bu yaklaşımları içeren örnek durumları ve açık uçlu soruları içeren çalışma kâğıdı verilir. Öğrencilerin farklı öğrenme türlerinde öğrenmenin nasıl gerçekleştiğini sorgulamaları sağlanır ( KB2.8 ). Farklı kaynaklardan alınan örnekler (yaşanmış ya da kurgulanmış olaylar, gazete haberleri, deneyler vb.) göz önüne alınarak uyarıcı-tepki ilişkisine ve bilişsel süreçlere dikkat çeken sorular sorulur. Söz konusu örneklerdeki öğrenilen davranışları; gözlenebilir olması, modelden öğrenilmesi ve zihinsel bir süreç içermesi ölçütlerine göre gruplamaları istenir ( KB2.5 ). Bunun için soru-cevap ve zihin haritası öğretim teknikleri kullanılabilir. Öğrencilere Ahilik geleneğindeki usta-çırak ilişkisi üzerinden, gözlem ve pekiştirme temelli öğrenmenin tarihsel örnekleri sunulur. Zanaatların kuşaktan kuşağa aktarımında gözlem ve pekiştirmenin rolü açıklanarak, öğrencilerin bu öğrenme yaklaşımlarını günlük hayatta hangi durumlarda ve nasıl kullandıklarını tartışmaları sağlanır ( SDB2.1 , KB2.18 ). Öğrencilerden, tartışma sonucunda öğrenme yaklaşımlarının tanım ve özelliklerini özetleyerek güçlü ve zayıf yönlerini eleştirel bir bakış açısıyla Frayer modeli kullanarak yorumlamaları istenebilir ( E3.5 , KB2.14 , KB3.3 ).",
+    "PSK.3.4",
+    "Öğrencilere, makine öğrenmesine ilişkin yazılı ya da görsel materyaller verilir. Öğrenciler, makine öğrenmesinin mantık ve matematik ile ilişkisi konusunda çıkarımda bulunur ( KB2.10 ). Öğrencilere insanın öğrenme süreci (uyarıcı, tanıma, dikkat, algı, bilginin kodlanması, depolanması ve geri getirilmesi), makine öğrenmesinin bileşenleri (girdi, süreç, çıktı) ile nöron ve yapay sinir ağı arasındaki ilişkiyi açıklayan bilgi görseli verilir ( E1.1 , OB4 ). Öğrencilerin; insan öğrenmesi ve makine öğrenmesinin özelliklerini, bu öğrenmeler arasındaki benzerlikleri ve farklılıkları belirlemeleri sağlanır. Bunun için T tablosu ya da venn şeması kullanılabilir. Öğrencilerden, Cahit Arf'in “Makine Düşünebilir mi ve Nasıl Düşünebilir?” makalesini veya bu makaleyi açıklayan yapılandırılmış bir metni okumaları ve incelemeleri istenir. Öğrencilere, ilgili incelemelerinden hareketle insanın öğrenme sürecini makine öğrenmesi ile karşılaştırmaları konusunda performans görevi verilir. Öğrencilerden Cahit Arf'ın hayatına ve bilim dünyasına katkılarına kısaca değinen ve insan öğrenmesi ve makine öğrenmesini karşılaştıran bir sunum hazırlamaları istenir ( E3.4 , TAB2.1 ). Öğrenciler gerçekleştirdikleri bilimsel çalışmalarla ülkemizi temsil eden bilim insanlarını takdir eder ( D19.2 ). Performans görevi; ulaşılan sonuçların doğruluğu, içerik, özgünlük, görsel kullanımı, sunum ve dil anlatım gibi kriterleri açısından dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrenciler performans çalışmasında görev bilinci ile hareket eder. Ödev ve sorumluluklarını görev etiğine uygun olarak yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1656"
+}

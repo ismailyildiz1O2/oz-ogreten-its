@@ -1,0 +1,55 @@
+{
+  "unitId": 94035703,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "3. ÖĞRENME ALANI: MÜZİKSEL YARATICILIK",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.4.C.1",
+      "title": "Dinlediği müziklerle ilgili duygu ve düşüncelerini ifade eder",
+      "processComponents": [
+        "Öğrencinin tercihine bağlı olarak resim yapma, yazılı ve sözlü anlatım, drama ve dans gibi farklı anlatım yolları kullanılabilir."
+      ]
+    },
+    {
+      "code": "Mü.4.C.2",
+      "title": "Müziklere kendi oluşturduğu ritim kalıpları ile eşlik eder",
+      "processComponents": [
+        "Öğrenci müzik seçiminde özgür bırakılır, gerek duyuluyorsa basit ölçülerler sınırlandırılabilir."
+      ]
+    },
+    {
+      "code": "Mü.4.C.3",
+      "title": "Kendi oluşturduğu ezgileri seslendirir",
+      "processComponents": [
+        "Öğrenci müzik seçiminde özgür bırakılır, gerek duyuluyorsa basit ölçülerler sınırlandırılabilir."
+      ]
+    },
+    {
+      "code": "Mü.4.C.4",
+      "title": "Farklı ritmik yapıdaki ezgilere uygun hareket eder",
+      "processComponents": [
+        "Öğrenci müzik seçiminde özgür bırakılır, gerek duyuluyorsa basit ölçülerler sınırlandırılabilir."
+      ]
+    },
+    {
+      "code": "Mü.4.C.5",
+      "title": "Müziklerde aynı ve farklı ezgi cümlelerini dansa dönüştürür",
+      "processComponents": [
+        "Söz kümelerine yönelik hareket oluştururken, tekrar eden sözlere aynı, değişen sözlere ise farklı hareket biçimleri kullanılmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Müziksel Yaratıcılık",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

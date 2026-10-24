@@ -1,0 +1,95 @@
+{
+  "unitId": 732,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi (Maarif Modeli)",
+  "title": "5. TEMA: HAREKET EDEREK DOĞAYI KEŞFEDİYORUM",
+  "hours": "10",
+  "description": "Bu temada öğrencilerin doğada yapılan açık alan ve macera etkinliklerinde güvenli ortam oluşturabilmeleri, fiziksel aktivitelere ilişkin hareket kavramlarını uygulayabilmeleri, fiziksel aktivitelere ilişkin hareket becerilerini sergileyebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.4.5.1",
+      "title": "Açık alan ve macera etkinliklerinde güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Açık alan ve macera etkinliklerinde ortaya çıkabilecek riskleri tanımlar.",
+        "b) Açık alan ve macera etkinliklerinde ortaya çıkabilecek risklere ilişkin önleyici tedbirler alır."
+      ]
+    },
+    {
+      "code": "BEO.4.5.2",
+      "title": "Açık alan ve macera etkinliklerine ilişkin hareket kavramlarını uygulayabilme",
+      "processComponents": [
+        "a) Açık alan ve macera etkinliklerine ilişkin ilişkin hareket kavramlarını ayırt eder.",
+        "b) Açık alan ve macera etkinliklerine ilişkin ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar.",
+        "c) Açık alan ve macera etkinliklerine ilişkin hareket kavramına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BEO.4.5.3",
+      "title": "Açık alan ve macera etkinliklerine ilişkin hareketi sergileyebilme",
+      "processComponents": [
+        "a) Açık alan ve macera etkinliklerine ilişkin hareket becerilerini algılar.",
+        "b) Açık alan ve macera etkinliklerine ilişkin hareket becerilerinin basamaklarını gösterir.",
+        "c) Açık alan ve macera etkinliklerine ilişkin hareket becerilerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "açık alan etkinlikleri, çevreye duyarlılık, macera eğitimi, sorumluluk",
+  "support": [
+    "Hareketler parçalara ayrılarak yapılabilir. Öğrenciler desteklenebilir ve öğrencilere akran desteği sağlanabilir. Öğrenciler grup içinde sorumluluk almaya teşvik edilebilir.",
+    "Açık alanda yapılan fiziksel aktiviteler ve hareket becerileri için video veya resimler gösterilebilir. Kullanılan materyallerin görsel olarak dikkat çekici, öğrencilerin fiziksel yeterliliklerine uygun ve güvenli olması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden farklı kültürlerdeki açık alan ve macera etkinliklerini araştırarak bu aktivitelerde hangi hareket becerilerinin ön plana çıktığını karşılaştırmaları istenebilir.",
+    "Öğrencilerden bir açık alan etkinliği seçip bu aktivitede kullanılan hareket becerilerini analiz etmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları gözlem formu, kontrol listesi, günlük, öz değerlendirme formu, akran değerlendirme formu, grup değerlendirme formu ve performans görevi ile değerlendirilebilir. Doğada karşılaşılabilecek risklere karşı güvenliğin önemini anlatan bir afiş hazırlama performans görevi verilebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BEO.4.5.1.",
+    "Öğrencilere açık alanda yapılan fiziksel aktiviteler ve bu fiziksel aktivitelerin yapıldığı ortamların (orman, kumsal, dağ, park, göl kenarı, dağ, çim saha, okul bahçesi vb.) bulunduğu görsel kartlar dağıtılır. Her öğrenciye bir kart verilir ve öğrencilerden inceledikleri kartlarda bulunan ortamda karşılaşabilecekleri en az üç riski belirlemeleri istenir ( SDB3.3 ). Öğrencilere \"Kartınızda hangi doğal ortam (orman, kumsal, dağ, park vb.) var?\", \"Bu ortamda hangi fiziksel aktiviteler yapılıyor veya yapılabilir?\", \"Bu ortamda hava koşulları nasıl olabilir ve bu hava koşulları hangi riskleri doğurabilir?\", \"Burada yürürken veya koşarken dikkat etmeniz gereken doğal engeller nelerdir?\" gibi sorular sorulabilir. Verilen cevaplar üzerinden tartışmaları sağlanır ( SDB2.1 ).",
+    "Öğrenciler gruplara ayrılır ve her gruba okul bahçesini keşfetmeleri için belli bir süre verilir. Bu süre içerisinde gruplardan fiziksel aktivite sırasında bahçede oluşabilecek riskleri belirlemeleri istenir ( SDB3.3 ). Riskler belirlenirken zemindeki kaygan veya düzgün olmayan yüzeyler, sivri veya keskin nesneler, oyun/fiziksel aktivite alanındaki tehlikeli noktaların yanı sıra güneşli ve gölgeli alanların etkisi, hava koşullarına bağlı değişiklikler gibi unsurlar dikkate alınır. Bu risklerin nasıl önlenebileceği üzerine grup tartışması yapmaları istenir. \"Bahçede sivri taşlar var; bahçenin bu bölgesi temizlenebilir, uyarı tabelaları konulabilir.\", \"Kaygan zemin var; yağış sonrası fiziksel aktivite için dikkat edilmesi ile ilgili tabela asılabilir, zemin kaplaması değiştirilebilir.\" gibi çözüm önerileri geliştirmeleri sağlanır ( SDB3.2 , E3.3 ). Doğada karşılaşılabilecek risklere karşı güvenliğin önemini anlatan bir afiş hazırlama performans görevi verilebilir ( SDB1.2 ).",
+    "BEO.4.5.2.",
+    "Öğrencilerden okul bahçesinde veya açık alanda planlı, kuralları olan ve yapılandırılmış bir fiziksel aktivite parkuru tasarlamaları istenir ( SDB1.2 , E3.3 ). Öğrencilere ağaç kütükleri, taşlar, halatlar, denge tahtası/çizgisi, ip, hulahoplar, çemberler vb. çeşitli nesneleri kullanabilecekleri belirtilir. Öğrencilerden hazırlanan parkurda parkur alanından dışarı çıkmamaları, hızlarını kontrol etmeleri, kuvvetlerini dengeli bir şekilde uygulayarak parkuru tamamlamaları istenir ( E2.5 ). Öğrencilerden ormanda doğa yürüyüşü canlandırmaları ve doğa yürüyüşünün belirli yerlerinde durarak farklı hareket türlerini yapmaları istenir. (Büyük bir ağacın etrafındaymış gibi yuvarlak yörüngede koşalım, düz bir patikadaymış gibi yüksek seviyede sıçrayalım, yokuş yukarı çıkarken yavaş ve kontrollü hareket edelim, taşların üzerinden geçerken dengeyi koruyalım vb.) Öğrenciler bu parkurda hareket ederken farklı hareket becerilerini (yer değiştirme, nesne kontrolü, denge) yaparlar ( SDB3.1 ). Fiziksel aktivite parkurları tamamlandıktan sonra öğrencilere şu sorular yöneltilebilir: \"Taşların üzerinden geçerken dengeni nasıl sağladınız?\", \"Doğa yürüyüşü yaparken hangi hareket becerilerini kullandınız?\" Öğrencilerden düşüncelerini ifade etmeleri istenebilir ( SDB1.2 , E1.5 ).",
+    "Ormanlık alan, yürüyüş parkuru, su kenarı, taşlı yol, çimenli alan veya kamp alanı gibi farklı alanlarda yapılan fiziksel aktiviteleri gösteren videolar izletilebilir. ''Videoda gösterilen fiziksel aktivitenin ismi nedir?\", \"Bu fiziksel aktivitede vücudun hangi bölümleri kullanıldı?\", \"Hangi yönde, hangi alanda hareket edildi?\", \"Hız, kuvvet ve zaman nasıl kullanıldı?\", \"Hangi nesneler kullanıldı?\" gibi sorular sorularak öğrencilerin düşündüklerini ifade etmeleri sağlanır. Doğada gerekli güvenlik önlemleri alınarak frizbi, paten sürme gibi etkinlikler düzenlenebilir. Etkinlikler yapılırken vücut pozisyonu, kol ve bacakların konumu, etkinlik mesafesini ayarlama gibi konuların üzerinde durulur ( SDB1.2 ). Etkinliklerin sonunda \"Frizbi atarken veya paten sürerken hangi hareket becerilerini kullandınız?\", \"En çok hangi hareketleri yaparken zorlandınız?\", \"Hareketlerinizi daha verimli hâle getirmek için neler yapabilirdiniz?\", \"Etkinlikleri yaparken hareket türleri ve kavramları arasında nasıl ilişki kurdunuz?\" ( SDB1.1 , SDB2.1 ).",
+    "Öğrenciler tarafından yürüyüş, kamp, bisiklet sürme vb. yakın çevreleriyle doğada gerçekleştirebilecekleri fiziksel bir aktivite belirlenir. Belirlenen bu fiziksel aktivitenin türü, süresi, kişi sayısı ve nasıl bir alanda yapılacağına dair bilgilerin yer aldığı fiziksel aktivite hareket günlüğü oluşturulup bilgiler kaydedilir ( SDB1.2 ). Bu hareket günlüğüne fiziksel aktivitenin hangi hareket kavramlarını (beden, mekân, çaba/efor) ve hangi hareket türlerini (yer değiştirme, nesne kontrolü, denge) içerdiği bilgiler yazılır. Fiziksel aktivite gerçekleştirildikten sonra değerlendirme amaçlı \"Fiziksel aktivite sırasında harekete ilişkin ne tür zorluklar yaşadınız?\", \"Bu zorlukların üstesinden nasıl geldiniz?\", \"Kullandığınız hareket becerileri nelerdi?\", \"Belirlediğiniz fiziksel aktiviteye ilişkin hareket kavramlarına uygun hareket edebildiniz mi?\" gibi sorular sorulabilir ve öğrencilerin deneyimlerini arkadaşlarıyla paylaşmaları istenir ( SDB1.2 , D16.3 , E3.8 ). Fiziksel aktiviteler yapıldıktan sonra sorular sorulur ve yaşadıkları tecrübeleri yazılı olarak fiziksel aktivite hareket günlüklerine kaydetmeleri istenir. Bu süreç kontrol listeleri ile değerlendirilebilir.",
+    "BEO.4.5.3.",
+    "Öğrencilerden gruplara ayrılarak açık alan ve macera eğitimi kapsamında yapılan oryantiring, dağcılık, kaya tırmanışı, doğa yürüyüşü, rafting, bisiklet, kayak ve yamaç paraşütü gibi spor branşlarını araştırmaları ve bunlarla ilgili çeşitli poster, görsel vb. içerikler getirmeleri istenir ( SDB1.2 ). Araştırılan spor branşlarının hangi ortamlarda yapıldığı ve hangi hareket becerilerini içerdiği şu şekilde ifade edilir: \"Bizim araştırdığımız doğa sporu oryantiring. Bu spor, yön bulma yeteneğini geliştiren ve harita ile belirlenen hedeflere ulaşmayı amaçlayan denge ve yer değiştirme gibi hareketleri içeren bir spordur.\", \"Biz rafting sporunu araştırdık. Rafting, akarsularda akıntıya karşı dayanıklılık ve koordinasyon gerektiren bir su sporudur.\", \"Grubumuz dağcılık sporunu inceledi. Dağcılık, yüksek yerlere tırmanmayı içeren ve doğayla iç içe yapılan bir dayanıklılık sporudur ( E2.2 , OB4 , D16.3 ). Araştırılan spor branşlarına benzer şekilde bir fiziksel aktivite düzenlenir. Örneğin sırt çantası ile yürüme, dik yamaç inişi ve kaskla yürüme, mini kamp ve oryantiring gibi aktiviteler düzenlenebilir ( SDB3.1 , E2.5 , D13.2 ). Öğrencilerin fiziksel aktiviteye uygun kıyafet ve ayakkabı seçmenin önemine dikkat etmeleri sağlanır. Kılık kıyafetin temiz ve düzgün olmasına da dikkat edilir ( D18.1 ). Fiziksel aktivite ve araştırmalar sonunda grup değerlendirmesi için takım çalışması ve iş birliği, hareket becerilerini doğru kullanma, doğa sporlarını anlama ve uyarlama gibi ölçütlerin olduğu gözlem formu/formları oluşturulabilir ve süreç bu şekilde değerlendirilebilir ( E1.5 ).",
+    "Öğrencilere açık alanda yapılan fiziksel aktivitelerle ilgili videolar izletilir ve öğrencilerden bu içerikte kullanılan hareket becerilerinin basamaklarına dikkat etmeleri istenir. Okul bahçesi veya açık bir alanda fiziksel aktivite (doğa yürüyüşü veya paten sürme) düzenlenir. Bu fiziksel aktiviteler sırasında yokuş yukarı çıkarken vücut ağırlıklarını öne aktarma, ayaklarını yere sabit ve dengeli basma, kollarını dengede tutma; pateni giydikten sonra dengede durma, bacakları uygun açıya getirme, yavaş bir şekilde kalkma, kollarını yanda tutma ve hızı kontrol etme gibi basamaklar yaptırılır ( SDB3.1 , D16.3 ). Öğrencilerin belirlenen fiziksel aktiviteyi sırayla tamamlamaları ve kendi performansları hakkında \"Bu fiziksel aktivitede hangi hareket becerilerini kullandım?\", \"Yokuş yukarı çıkarken veya paten sürerken vücudumu nasıl kontrol ettim?\", \"Fiziksel aktivitelerde hangi hareket basamağını uygulamakta zorlandım?\" gibi sorularla öz değerlendirme yapmaları sağlanır ( SDB1.2 , OB1 , E3.3 ).",
+    "Öğrencilerden \"Kapalı veya açık bir alanda çevre dostu sağlıklı yaşam için bütün hareket becerilerini kapsayan ne tür fiziksel aktiviteler yapabilirsiniz?\" konusunu güvenilir bilgi kaynaklarından araştırmaları istenir ( OB8 , E2.2 , D3.3 , D16.3 ). Bu doğrultuda öğrencilerden araştırdıkları fiziksel aktiviteleri arkadaşlarıyla paylaşmaları istenir ve seçilen fiziksel aktiviteyi okul bahçesinde veya açık bir alanda yapmaları sağlanabilir.",
+    "Koni, ip (atlama ipleri, halat), hulahop, çember, top (basketbol, futbol, voleybol, tenis vb.), minder veya yumuşak zemin, denge tahtası veya uzun çizgi (denge için), tahta blok, lastik parçaları (tırmanma veya engelli parkurlar için), renkli bayrak veya kumaş parçaları gibi materyaller kullanılabilir ( SDB1.2 , E3.3 ). Fiziksel aktivitenin türüne göre kullanılan malzeme ve hareket becerilerinin değişeceği fiziksel aktivite sırasında öğrenilir. Seçilen fiziksel aktivitelerin çeşitlendirilmesine, herkesi kapsamasına ve bütün hareket becerilerini içermesine dikkat edilir. Öğrenciler fiziksel aktiviteyi yaptıktan sonra ''Doğaya Duyarlılık ve Fiziksel Aktivite Arasındaki Bağlantıyı Değerlendirme'' testi oluşturulabilir. Çevreyi korumak için dikkatli davrandım.\", \"Doğal alanlarda fiziksel aktivite yaparken çevreye zarar vermemek için yapmam gerekenleri biliyorum.\", \"Fiziksel aktiviteler sırasında doğaya saygılı davranmak gerektiğini biliyorum.\", \"Beden eğitimi ve oyun dersinde sadece hareket etmenin değil bilinçli ve sürdürülebilir bir şekilde fiziksel aktivite yapmanın gerekliliğini kavradım.\", \"Fiziksel aktiviteler sırasında bütün hareket becerilerini kullandım.\" gibi maddelerin yer aldığı öz değerlendirme formu ile değerlendirme yapılabilir ( SDB1.2 , SBAB5.2 )."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D16.3",
+      "D18.1",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.5",
+      "E2.2",
+      "E2.5",
+      "E3.3",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB8"
+    ],
+    "diger": [
+      "SBAB5.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/732"
+}

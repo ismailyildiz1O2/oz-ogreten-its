@@ -1,0 +1,57 @@
+{
+  "unitId": 94044301,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "1. ÖĞRENME ALANI: HAREKET BECERİLERİ",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BO.4.1.1.1",
+      "title": "Yer değiştirme hareketlerini artan kuvvet, hız ve çeviklikle yapar",
+      "processComponents": [
+        "“Yer Değiştirme Hareketleri” FEK’lerindeki (sarı 3-8 arasındaki kartlar) etkinlikler kullanılabilir."
+      ]
+    },
+    {
+      "code": "BO.4.1.1.2",
+      "title": "Oyunlarda dengeleme gerektiren hareketleri etkili kullanır",
+      "processComponents": [
+        "“Dengeleme Hareketleri” (sarı 9-17 arasındaki kartlar) ve “Birleştirilmiş Hareketler” (sarı 27-33 arasındaki kartlar) FEK’lerindeki etkinlikler kullanılabilir."
+      ]
+    },
+    {
+      "code": "BO.4.1.1.3",
+      "title": "Oyunlarda nesne kontrolü gerektiren hareketleri etkili kullanır",
+      "processComponents": [
+        "“Nesne Kontrolü Hareketleri”(sarı 18-26 arasındaki kartlar) ve “Birleştirilmiş Hareketler” (sarı 27-33 arasındaki kartlar) FEK’lerindeki etkinlikler kullanılabilir."
+      ]
+    },
+    {
+      "code": "BO.4.1.1.4",
+      "title": "Özgün, danslar yapar",
+      "processComponents": [
+        "“Adımlar”, “Yer Değiştirmeler - Dönüşler” ve “Grup Dansları” (mor 1-3 arasındaki kartlar) FEK’lerindeki etkinlikler kullanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    },
+    {
+      "code": "BO.4.1.1.5",
+      "title": "Kurallı takım oyunları oynar",
+      "processComponents": [
+        "“Birleştirilmiş Hareketler” FEK’lerindeki (sarı 27-33 arasındaki kartlar) etkinlikler kullanılabilir.",
+        "Kazanımla ilgili değerler üzerinde durulmalıdır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Hareket Yetkinliği",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20181023115223781-06-Beden%20E%C4%9Ftimi%20ve%20Oyun%202018-124%20Eki%20%C3%96P.pdf.pdf"
+}

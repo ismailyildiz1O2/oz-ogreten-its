@@ -1,0 +1,39 @@
+{
+  "unitId": 81300001,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Klasik Ahlak Metinleri Dersi",
+  "title": "1. ÜNİTE: AHLAKIN DOĞASI",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KAM.1.1.1",
+      "title": "Ahlak kavramının anlamını açıklar",
+      "processComponents": [
+        "Ahlak kavramının anlamına din, dil ve felsefe açısından vurgu yapılır.",
+        "İyi, kötü, doğru, yanlış, huy, fıtrat, erdem, vicdan, edep, karakter kavramlarının ahlak kavramıyla ilişkisinin incelenmesi sağlanır.",
+        "Teorik ahlak ve pratik ahlakın tanımının örneklerle vurgulanması sağlanır.",
+        "Türk-İslam düşünürlerinin (Fârâbî, Gazzâlî, Nasîruddîn Tûsî, Yûsuf Has Hâcib, Ahmed Yesevî, Kınalızâde Ali Efendi, Taşköprizâde Ahmet Efendi) ahlak tanımlarının benzer ve farklı yönlerinin karşılaştırılması sağlanır.",
+        "“Niçin ahlaklı olmalıyız?” sorusuna görüş bildirmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "KAM.1.1.2",
+      "title": "Ahlakın kaynaklarını sıralar",
+      "processComponents": [
+        "Ahlakın dinî, felsefi ve kültürel kaynaklarına vurgu yapılır.",
+        "Dinî kural ve değerlere saygılı olma, insanlara sevgi ve saygı duyma, diğer canlılara karşı merhametli olma ve onları koruma gibi davranışların ahlaki kaynaklarına yer verilir.",
+        "Günlük hayattan hareketle sorumluluk ve irade kavramları çerçevesinde ailede ve okulda ahlak eğitimimin öneminin yorumlanması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316030660-KlasikAhlakMetinleri%20%281%29.pdf"
+}

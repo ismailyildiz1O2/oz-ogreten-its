@@ -1,0 +1,95 @@
+{
+  "unitId": 80791017,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "17. ÜNİTE: OSMANLI TÜRKÇESİYLE YAZILMIŞ ESERLER VE HAT SANATI ÖRNEKLERİ",
+  "hours": "32",
+  "description": "Ünite konuları işlenirken; a) Osmanlı Türkçesi ile yazılmış örneklerin zorluk derecesi, seviyeye uygunluğu ve hattı göz önünde bulundurularak yeni Türk alfabesine aktarılmış biçimlerine yer verilmeli, b) Farklı okuma (sesli, sessiz, paylaşarak okuma vb.) ve dinleme-izleme (katılımsız, eleştirel, seçici dinlenme vb.) teknikleri kullanılmalı, c) Örnek eserler verilirken hat çeşitliliği sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "OSM.12.5.1.1",
+      "title": "Yazma eserlerin şekil özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.2",
+      "title": "Osmanlı Türkçesiyle yazılmış yazma eser örneklerini okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.3",
+      "title": "Osmanlı Türkçesiyle yazılmış matbu eser örneklerini okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.4",
+      "title": "Osmanlı Türkçesiyle yazılmış metinleri içerik bakımından değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.5",
+      "title": "Metinlerde sözü edilen değerleri, yaşadığı toplumun değerleriyle karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.6",
+      "title": "Anlamlarını bilmediği kelimeleri Osmanlı Türkçesi lügatinden bulur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.7",
+      "title": "Metinlerdeki Arapça ve Farsça asıllı dil ögelerini belirler",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.1.8",
+      "title": "Osmanlı Türkçesiyle yazılmış metinleri okumaya istek duyar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.2.1",
+      "title": "Osmanlı Türkçesi ile yazılmış resmî belgelerin genel özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.2.2",
+      "title": "Osmanlı Türkçesiyle yazılmış resmî belge türlerini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.2.3",
+      "title": "Osmanlı Türkçesi ile yazılmış resmî belgeleri okur",
+      "processComponents": [
+        "Seviyeye uygun, dil yönüyle sade ve anlaşılması kolay belge örnekleri tercih edilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.12.5.3.1",
+      "title": "Nesih, rika, sülüs, talik, kûfi, divani hatların kullanıldığı yerleri açıklar",
+      "processComponents": [
+        "Nesih, rika, sülüs, talik, kûfi, divani hatlar kısaca tanıtılmalı ve bu hatların kullanıldığı eser ve alanlar ayrıntıya girilmeden verilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.12.5.3.2",
+      "title": "Levha, kitabe ve diğer hat örneklerini ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.5.3.3",
+      "title": "Levha, kitabe ve diğer hat örneklerini okur",
+      "processComponents": [
+        "Seviyeye uygun, dil yönüyle sade ve anlaşılması kolay levha, kitabe ve diğer hat örnekleri tercih edilmelidir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

@@ -1,0 +1,80 @@
+{
+  "unitId": 580,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "2. TEMA: ÇİZGİDEN BOYUTA",
+  "hours": "22",
+  "description": "Temada çok figürlü çizimlerle kompozisyon oluşturulabilmesi, resim yüzeyinde renk ilişkileri ile figürlü kompozisyon oluşturulabilmesi ve heykel ve çevresel düzeni ile ilgili taslak oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.12.2.1",
+      "title": "Çok figürlü çizimlerle kompozisyon oluşturabilme",
+      "processComponents": [
+        "a) Çok figürlü çizimlerle kompozisyon çalışmasına uygun görsel anlatım araçlarını belirler.",
+        "b) Çok figürlü çizimi kompozisyona dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.12.2.2",
+      "title": "Renk ilişkileri ile çok figürlü kompozisyon oluşturabilme",
+      "processComponents": [
+        "a) Renk ilişkileri ile çok figürlü kompozisyona uygun görsel anlatım araçlarını ifade eder.",
+        "b) Renk ilişkilerini çok figürlü kompozisyona dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.12.2.3",
+      "title": "Heykel ve çevresel düzenini tasarlayabilme",
+      "processComponents": [
+        "a) Heykel ve çevresel düzenine yönelik inceleme yapar.",
+        "b) Heykel ve çevre konusuna yönelik imgeleri eskizle ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "anıt heykel, etnografik, imgesel çalışma",
+  "support": [
+    "Kutlama müzikleri ve marşlar dinletilerek öğrencilerden dinledikleri müziklerle ilgili serbest boyama ile duygu kartları oluşturmaları istenebilir.",
+    "Öğrencilerden günlük hayattaki gözlemlerinden yararlanarak eskiz çalışmaları yapmaları istenebilir.",
+    "Öğrencilerden sanal müze ziyareti yaparak mimari ile heykel arasındaki ilişkileri incelemeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere sanal müze gezileri yaptırılarak ressamların çok figürlü desen çizimleri inceletilebilir.",
+    "Öğrencilerden kutlama müzikleri ve marşlar dinlemeleri, müziğin hissettirdiği ritim ve duygulara göre renk ve biçimler kullanarak soyut geometrik çalışmalar yapmaları istenebilir.",
+    "Öğrencilerden Türkiye'deki anıt heykellerden birini seçerek çevre düzenlemesini yeniden tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; grup değerlendirme formu, akran değerlendirme formu, dereceli puanlama anahtarı, kontrol listesi, dereceleme ölçeği, 3-2-1 çıkış kartı, performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden çok figürlü sanat eserlerindeki figür, nesne ve mekân ilişkisi ile ilgili bir sunum hazırlamaları istenebilir. Yapılan çalışmalar, dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.12.2.1. Öğrencilerden resim yüzeyinde \"sosyal yaşam alanları\" konulu çok figürlü imgesel çalışma yapmak için çizgisel ya da tonal kara kalem yöntemlerinden birini seçmeleri istenir. Öğrencilerin seçtikleri tekniğe uygun anlatım araçlarını belirleyerek ifade etmeleri sağlanır ( SDB1.2 ).",
+    "Öğrencilerden konu ile ilgili buldukları görsellerden veya kendi gözlemlerinden yola çıkarak eskiz çalışması yapmaları istenir ( E2.2 ). Öğrencilere hazırlanan eskizlerden veya fotoğraflardan edindikleri izlenimlerden faydalanabilecekleri hatırlatılır. Çok figürlü çalışma için ön-orta-arka planları dikkate almaları söylenir. Öğrencilerden hafif çizgilerle bir taslak oluşturmaları istenir. Belirlenen konuya ait nesne ve figür görününümlerine mekânın ön planında yer verilmesi sağlanır. Orta ve arka planda ana fikri destekleyen figür ve nesnelerin çizilmesi istenir ( D3.2 ). Öğrencilere perspektifle mekânda bir derinlik algısının oluşacağı hatırlatılır. Çizgi ve ton değerlerinin koyudan açığa olması, figürlerin de orta ve arka planda kademeli küçülmesi gerektiği söylenir. Böylece tamamlanan taslak, görsel tasarım öge ve ilkeleri de dikkate alınarak sanatsal ürüne dönüştürülür ( D7.2 ). Süreç, dereceleme ölçeği veya kontrol listesi ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden çok figürlü sanat eserlerindeki figür, nesne ve mekân ilişkisi ile ilgili bir sunum hazırlamaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.12.2.2. Öğrencilerden toplumsal birlikteliği sağlayan kutlamalar ve bu kutlamaların anlamları hakkında bildiklerini açıklamaları istenir ( SDB2.1 ). Bu kutlamalardan biri olan Cumhuriyet Bayramımız hakkında bir çalışma yapılacağı belirtilir. Öğrencilerin geleneksel Türk yaşamını ve halk kültürünü yansıtarak toplumsal değerleri görselleştirmiş sanatçımız Malik Aksel'in \"Bayram Hazırlığı\" adlı eserini incelemeleri sağlanır. Öğrencilerin kullanacakları tekniğe uygun araçları (resim kâğıdı, dereceli kurşun kalemler, akrilik, guaj, pastel, sulu boya, kuru boya vb.) belirleyerek ifade etmeleri sağlanır.",
+    "Vurgunun renklerde olduğu çok figürlü bir kompozisyon hazırlanacağı öğrencilere açıklanır.Öğrencilerin çalışma sürecinde istedikleri renk armonisini seçmeleri ve özgün bir sanatsal ürün ortaya çıkarmaları sağlanır ( E3.3 ). Öğrencilerin çalışmaları dereceleme ölçeği veya kontrol listesi ile değerlendirilebilir, öğrenciler akran değerlendirme formu aracılığı ile arkadaşlarının çalışmaları hakkında görüşlerini bildirebilirler.",
+    "GS.12.2.3. Öğrencilerin heykel sanatının kent yaşamındaki toplumsal önemi ve kentsel alanlardaki sanatsal ögelerin insanlar üzerinde bıraktığı etkiler hakkındaki düşüncelerini soru cevap yöntemiyle ifade etmeleri sağlanır ( OB9 ). Başarılı heykellerin mekânla ve çevreyle ilişkisi görseller üzerinden öğrencilere inceletilir ( OB4 ). Bir heykelin özellikleri ile yakın çevresindeki zemin düzeni, yeşil alan ve ışıklandırma planı arasında nasıl ilişkiler olması gerektiği konusunda öğrencilerin düşüncelerini paylaşmaları istenir ( SDB2.2 ). Öğrencilerin bu ögelerin tamamlayıcı etkilerini göz önünde bulundurarak bir heykel formunu, konumunu ve çevresinde yer alacak unsurları içeren çizimler yapmaları sağlanır. Çizim sürecinde heykel çevresindeki yaşam ve hareket alanları, görsel bütünlük gibi ölçütlerin dikkate alınması istenir. Her öğrencinin oluşturduğu eskiz çalışmasını renklendirerek görevini zamanında ve eksiksiz yerine getirmesi sağlanır ( D16.3 ). Öğrencilerden yaşadıkları süreci değerlendirmek için duygu ve düşüncelerini açıkça ifade etmeleri istenir ( D6.2 , SDB2.1 ). Bu süreçte 3-2-1 çıkış kartı kullanılabilir. Oluşturulan eskiz ve taslak çalışmaları, dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D3.2",
+      "D6.2",
+      "D7.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/580"
+}

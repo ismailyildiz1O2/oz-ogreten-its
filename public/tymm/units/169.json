@@ -1,0 +1,106 @@
+{
+  "unitId": 169,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "3. TEMA: SÜRDÜRÜLEBİLİRLİK",
+  "hours": "20",
+  "description": "Bu tema Nanobilim, Yeşil Kimya ve Sürdürülebilirlik bölümünden oluşmaktadır. Bu temada öğrencilerin sürdürülebilir kalkınmanın 7 ve 13. hedefleri, yeşil kimyanın yenilenebilir ham maddelerin kullanımı ve enerji verimliliği için tasarım ilkeleri temelinde boyaya duyarlı güneş pillerinin verimliliklerine ilişkin çıkarım yapmaları; sürdürülebilir kalkınmanın 3 ve 12. hedefleri ve yeşil kimyanın bozunma için tasarım ilkesi temelinde biyobozunur polimer eldesinde kullanılacak bileşenlere karar verebilmeleri ve yapay zekâ uygulamalarının sürdürülebilirliğe etkilerine yönelik eleştirel düşünebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.12.3.1",
+      "title": "Boyaya duyarlı güneş pillerinin verimliliklerine ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Geleneksel güneş pilleri ile boyaya duyarlı güneş pillerinin niteliklerini tanımlar.",
+        "b) Boyaya duyarlı güneş pillerinin verimliliğini belirlemek üzere hazır veri seti kullanır.",
+        "c) Boyaya duyarlı güneş pillerinin verimliliklerine ilişkin topladığı verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.12.3.2",
+      "title": "Biyobozunur polimer eldesinde kullanılacak bileşenlere karar verebilme",
+      "processComponents": [
+        "a) Biyobozunur polimerin özelliğini düşünerek polimeri elde etme sürecine ilişkin amacını belirler.",
+        "b) Biyobozunur polimer elde etme sürecine ilişkin belirlediği amaca uygun bilgi toplar.",
+        "c) Biyobozunur polimer elde etme sürecine ilişkin seçenekler belirler.",
+        "ç) Biyobozunur polimer elde etme sürecine ilişkin seçenekler üzerinde mantıksal denetleme yapar.",
+        "d) İstediği özellikte biyobozunur polimer elde etme sürecinde kullanacağı bileşenlerin seçimini yapar.",
+        "e) Seçimi doğrultusunda istediği özellikte biyobozunur polimer elde edip etmediğine yönelik yansıtma yapar."
+      ]
+    },
+    {
+      "code": "KİM.12.3.3",
+      "title": "Yapay zekâ uygulamalarının sürdürülebilirliğe etkilerine yönelik eleştirel düşünebilme",
+      "processComponents": [
+        "a) Yapay zekâ uygulamalarının sürdürülebilirliğe etkilerini sorgular.",
+        "b) Yapay zekâ uygulamalarının sürdürülebilirliğe etkileri ile ilgili akıl yürütür.",
+        "c) Yapay zekâ uygulamalarının sürdürülebilirliğe etkilerine ilişkin ulaştığı çıkarımlar üzerine yansıtma yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "biyobozunur polimer, biyopolimer, boyaya duyarlı güneş pili, fotosentez, güneş hücresi, nanoparçacıklı güneş pili, nanopolimer, yapay zekâ",
+  "support": [
+    "Öğrencilere biyomalzemelerin günümüzdeki ve gelecekteki kullanım alanlarına ilişkin araştırma sorusu öğretmen tarafından verilebilir. Biyomalzemelerin kullanım alanlarını kavramaları amacıyla öğrencilere dijital ortamlarda belgeseller izletilebilir. Ayrıca biyomalzemelerin kullanımıyla ilgili potansiyel sorunlara dikkat çekmek amacıyla öğrencilerden bir proje yapmaları istenebilir. Dijital okuryazarlık becerilerinin geliştirilmesi için biyomalzemelerin olası kullanım alanlarına ilişkin bilgileri dijital kaynaklardan elde etmeleri desteklenebilir. Öğrenciler, elde ettikleri bilgileri broşür tasarlayarak arkadaşlarına sunabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden boyaya duyarlı güneş pillerinin diğer güneş pillerine göre daha çok tercihedilmesinin nedenleriyle ilgili bir araştırma yapmaları ve araştırma sonucunda elde ettikleri bilgileri sınıfta sunmaları istenebilir.",
+    "*Öğrencilerden biyomalzemelerin çeşitli endüstriyel uygulamaları ve gelecekteki potansiyel kullanım alanlarına yönelik araştırma yapmaları istenebilir. Öğrenciler biyomalzemelerin doğal kaynaklardan elde edilişi, özellikleri ve insan sağlığı üzerindeki etkileri hakkında bilgi okuryazarlığı becerilerini işe koşarak bilgi toplayabilir. Örneğin biyolojik malzemelerin protezlerde, doku mühendisliğinde ve ilaç taşıyıcı sistemlerinde kullanımına yönelik projeler gerçekleştirilebilir. Elde ettiği verilerden nanoteknoloji, biyobaskılama veya biyosensör gibi konular hakkında yenilikçi ürünler geliştirebilir. Tasarladığı ürünleri bilim fuarlarında sunabilir ve ürünlerin patentini alabilir.",
+    "Öğrencilerden ekolojik dengenin korunması ve sürdürülebilirlik bilinciyle biyobozunur malzemeleri kullanarak çeşitli alanlarda yeni tasarımlar yapmaları ve malzeme seçimi konularında seçenekler geliştirmeleri istenebilir. Sürdürülebilir malzemelerin kullanımıyla çevresel etkileri en aza indirebilecekleri çeşitli tasarım stratejileri geliştirmeleri istenebilir.",
+    "*Öğrenciler, biyobozunur polimerlerin malzeme bilimi ve kimya bilimiyle ilgili konularında pratik deneyler tasarlayabilir ve yapabilir. Biyobozunur malzemelerin nasıl çalıştığına, doğada ne kadar sürede parçalandığına ve farklı ortam ve koşullara nasıl tepki verdiğine ilişkin veriler elde ederek çeşitli problemlerin çözümüne katkı sağlayabilir ve önerilerde bulunabilirler.",
+    "Öğrencilerden yapay zekânın kullanımının potansiyel katkıları ve olası zararları ile ilgili araştırma görevi hazırlamaları istenebilir. Araştırma sonuçlarını sınıf arkadaşlarıyla paylaşmaları istenebilir ve bu bağlamda sonuçların tartışılacağı öğrenme ortamı oluşturulabilir.",
+    "Öğrencilerden yapay zekâ uygulamalarını kullanarak sürdürülebilirlikle ilgili yeni projeler geliştirmeleri ve geliştirdikleri projeleri uygulamaları istenebilir. Bu projeler, öğrencilerin sürdürülebilir teknolojilerin nasıl geliştirilebileceği ve kullanılabileceği ile ilgili farkındalıklarını artırabilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, performans görevi, sınıf içi tartışma ve yansıtma notu kullanılabilir.",
+    "Öğrenciler, performans görevi çerçevesinde biyobozunur polimer eldesinde kullanılabilecek bileşenlere karar verebileceği bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Sürecin bütünü \"amaç belirleyebilme, bilgi toplayabilme, seçim yapabilme, seçenekler oluşturabilme, kullanacağı malzemeye ilişkin mantıksal denetleme yapabilme ve yansıtma yapabilme\" ölçütlerini içeren bir dereceli puanlama anahtarı ile değerlendirilebilir. Sınav kâğıtları ve temanın işlenişi sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.12.3.1",
+    "Öğrencilerden bitkilerin fotosentez yapma sürecini açıklamaları istenir. Fotosentez sürecinin nasıl gerçekleştiği öğrenciler tarafından açıklandıktan sonra güneş hücresi tanıtılır ve öğrencilerin bu hücrenin fotosentez ile benzerliklerini fark etmeleri sağlanır. Temiz ve sürdürülebilir enerji kaynakları arasında yer alan güneş enerjisinden yararlanmak amacıyla kullanılabilecek güneş pilleri, güneş sobaları ve güneş ocakları gibi örnekler verilir. Duyarlılık ve temizlik değerleri vurgulanır ( D5.2 , D18.3 ) . Öğrencilerden etkinlik kâğıdında verilen farklı türdeki güneş pillerinin görsellerini, kimyasal içeriklerini ve verimliliklerini inceleyerek güneş pillerinin farklılıklarına yönelik belirledikleri nitelikleri yazmaları istenir ( E2.2 , OB8 ) . Geleneksel güneş pilleri ile boyaya duyarlı güneş pillerinin niteliklerini belirlemeleri amacıyla öğrencilere güneş pillerinde kullanılan kimyasal maddelerin özellikleri, yaygınlıkları ve maliyetleri ile ilgili sorular sorulur. Ayrıca boyaya duyarlı güneş pillerinin geleneksel güneş pillerine kıyasla performans, güvenlik, düşük ışık koşullarında çalışabilirlik ve maliyet avantajları gibi özelliklerine ilişkin hazır bir veri seti sunulur ve öğrencilere bu verileri inceleme fırsatı verilerek enerji tasarrufuna vurgu yapılır ( D17.2 , OB3 ) . Bu süreçte öğrencilerin boyaya duyarlı güneş pillerinin sürdürülebilirliği hakkında akıl yürütebilmeleri için sorular sorulabilir. Bu sayede öğrencilerin geleneksel güneş pilleri ile boyaya duyarlı güneş pillerinin özellikleri konusunda fikirlerini arkadaşlarıyla paylaşmaları sağlanabilir ( E2.1 , SDB2.1 , SDB2.2 , D4.2 , OB1 ) . Öğrencilerin sınıf içi tartışma ortamında edindikleri bilgileri etkinlik kâğıdında sunulan verilerle birleştirerek farklı boyalarla tasarlanan güneş pillerinin verimliliği hakkında çıkarımlar yapmaları sağlanır ve öğrencilerden bu çıkarımları etkinlik kâğıdına yazmaları istenir. Ayrıca yeşil kimyanın ilkeleri ve sürdürülebilir kalkınmanın hedefleri öğrencilere hatırlatılarak sürdürülebilirliğe katkısı olan ürünleri tercih etmenin önemine duyarlılık gösterilmesinin gerekliliği tasarruf ve temizlik değerleri kapsamında vurgulanır ( D5.2 , D17.2 , D18.3 ) . Öğrencilerden boyaya duyarlı güneş pillerinin verimliliklerine ilişkin verileri yeşil kimya ve sürdürülebilir kalkınmanın hedeflerini dikkate alarak değerlendirmeleri ve değerlendirmelerini etkinlik kâğıdına yazmaları istenir ( KB2.14 ). Etkinlik kâğıtları \"nitelik belirleyebilme, verimliliğe ilişkin çıkarım ve değerlendirme yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen veya öğrenci tarafından değerlendirilebilir ( SDB1.2 , OB8 ) .",
+    "Böğürtlen boyası kullanılarak boyaya duyarlı bir güneş hücresi oluşturulabilir ve öğrencilere bu hücrenin verimliliğini nasıl test edecekleri gösterilebilir. Öğrencilerden çeşitli boyalar, meyve suları ve atık materyallerden elde edilmiş boyalar arasından birini seçmeleri, grup hâlinde bu boyayı fotosensör uygulamasına duyarlı güneş hücresi oluşturmak için kullanmaları ve oluşturdukları bu güneş hücresinin güneş enerjisini elektrik enerjisine dönüştürme verimliliğini değerlendirmeleri istenebilir ( E3.2 , SDB2.2 , OB3 ) . Farklı gruplar farklı boyaya duyarlı güneş hücreleri tasarlayacakları için pil verimliliğine ilişkin verilerde çeşitlilik sağlanmış olur. Öğrencilerin grup çalışmalarına katkılarını belirlemek amacıyla akran değerlendirme formu kullanılabilir. Ayrıca öğrenciler, nanoparçacıkların boyaya duyarlı güneş hücrelerinin verimliliğine etkisini belirlemek üzere test ettikleri boyalara metal nanoparçacıkların eklendiği deneyler yapabilir. Bu deneyler sonucunda öğrenciler, nanoparçacıkların hücrenin verimliliği üzerinde belirgin bir etkisi olduğunu gözlemleyebilirler. Öğrencilerin bu deneylerde daha önceki kimya derslerinde yeşil kimya yöntemleri ile ürettikleri metal nanoparçacıkları kullanmaları sağlanabilir. Ayrıca öğrenciler, güneş pili üretiminin nasıl daha sürdürülebilir hâle getirilebileceği konusunda fikirler üretmeleri için teşvik edilir ( E3.10 ). Bu sayede öğrencilerin yeşil kimya ilkelerini hem nanoparçacık üretiminde hem de güneş hücresi üretiminde kullanmaları sağlanmış olur ( SDB2.3 , SDB3.3 , OB8 ).",
+    "KİM.12.3.2",
+    "Öğrencilere turunçgillerin iç kabuğundaki pektin molekülü örnek gösterilir. Biyopolimerlerin günlük hayatta kullanımına doku mühendisliği ürünleri, sargı bezleri, ameliyat ipliği, eldiven yapımı, mutfak kapları, karton kutuların iç yüzey kaplamaları, şampuan ve meşrubat şişelerinin yapımı, ilaç taşıyıcı sistemleri örnek verilebilir. Önceki derslerden bildikleri polisakkaritler ve proteinlerin biyopolimer olduğu hatırlatılır. Kâğıdın yapısında bulunan selüloz; tatlı, pasta ve reçellere konan jelatin; sağlık ve kozmetik sektöründe kullanılan kolajen ve unlu gıdalarda bulunan glüten ve soya proteini örnek verilebilir. Sorular ile öğrencilerin biyopolimerlerin biyokütle ve tarımsal kaynaklı doğal polimerler olduğu ve biyobozunur özellikte olduğu çıkarımını yapmaları sağlanır ( E3.10 , OB8 ) . Öğretmen, nişastadan biyobozunur polimer elde etmek amacıyla deney yapar ve deneyin aşamalarını açıklar. Öğrenciler de kendi biyobozunur polimerlerini yapmak için polimerlere kazandırmak istedikleri özellikleri belirler. Öğrencilerden kendi oluşturacakları polimer için bir ya da birden fazla özellik düşünerek polimer elde etme sürecine ilişkin amaç belirlemeleri ve amacına uygun bilimsel bilgi toplamaları istenir . Öğrencilerin polimeri nasıl elde edeceklerine ilişkin topladıkları bilgilerden yola çıkarak yöntem belirlemeleri sağlanır ( OB7 ) . Bu yönteme seçenekler belirleyen öğrenciler, polimerlerini elde ederken kullanacakları bileşenler için de seçenekler belirler ( SDB3.2 ) . Bu seçeneklerden deneyecekleri bileşenlerin neden amacına uygun olduğuna dair mantıksal denetleme yaparlar. İstedikleri özellikteki biyobozunur polimeri elde etmek için kullanacakları bileşenleri seçerler ve biyopolimeri elde ederler. Öğrencilerin bilimsel gözlem ve denemeler yaparak hedeflediği özellikteki biyopolimeri elde edip etmediğine yönelik yansıtma yapmaları sağlanır ( SDB1.2 ) . Öğrencilerden elde ettikleri biyopolimerin sertliğini, kırılganlığını ve iletkenliğini belirlemeleri istenir. Öğrenciler, polimerin biyobozunur olup olmadığına polimerin su ile etkileşimini gözlemleyerek karar verebilir ( KB2.2 ) . Biyopolimerin suda şişme ve dağılma sürelerini belirler. Öğrencilerden elde ettikleri polimere kazandırdıkları özelliklerden yola çıkarak biyopolimer için kullanım alanları belirlemeleri istenir. Öğrenciler; belirledikleri özelliklere metal nanoparçacıklar, biyokütleler, bitki özütleri ve atıklardan doğal boyalar vb. çeşitli malzemeler ekleyebilirler. Elde ettikleri biyopolimerlerin biyouyumluluklarını belirlemek üzere agar ile deneyler gerçekleştirebilirler. Öğretmen, sentetik biyopolimere ve sentetik polimerlerin biyomalzeme olarak kullanımına örnekler verir. Bu örnekler arasında yiyecekleri saklamak amaçlı yenilebilir filmler, canlı dokuların işlevini desteklemek amacıyla sentetik damar, stent, diş telleri, protez, implant, dikiş malzemeleri vb. sayılabilir ( OB8 ) .",
+    "Öğrenciler, performans görevi çerçevesinde biyobozunur polimer eldesinde kullanılabilecek bileşenlere karar verebileceği bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir.",
+    "KİM.12.3.3",
+    "Öğrencilere yapay zekâ uygulamaları ve makine öğrenmesi gibi bilgisayarların veri analizi yapabilme, öğrenme yeteneği kazanabilme ve kararlar alabilme kapasitesini içeren bilgi işlem teknolojileri hakkında temel bilgiler sunulur. Öğrenciler, bu konuların günlük hayatta nasıl kullanıldığına dair örnekler vermeleri için teşvik edilir. Bu örnekler arasında akıllı telefonlardaki sesli asistanlar, sosyal medya platformlarının öneri sistemleri, otonom araçlar ve sağlık sektöründeki teşhis yardımcıları gibi uygulamalar bulunabilir. Öğrencilerden etkinlik kâğıdında sunulan yapay zekâ uygulamalarının özelliklerini ve kullanım alanlarını ayrıntılı bir şekilde incelemeleri istenir. Bu uygulamalar arasında veri analizi yapabilme, veri madenciliği, gerçek zamanlı analiz yapabilme, akıllı bina yönetim sistemleri oluşturabilme, otomasyon işlemleri gerçekleştirebilme ve gelecekteki olaylarla ilgili tahminde bulunabilme yer alır. Ayrıca etkinlik kâğıdında kısa, tanıtıcı açıklamaları ile birlikte sürdürülebilir kalkınmanın hedefleri ve yeşil kimyanın hedefleri sunularak çevreye ve canlılara karşı duyarlı olmaya, sürdürülebilirliğe vurgu yapılır ( D5.2 , D18.3 ) . Öğrencilerden sürdürülebilirlik hedeflerini göz önünde bulundurarak yapay zekâ uygulamalarının hangi amaçlarla ve nasıl kullanılabileceğine dair düşünmeleri ve fikir yürütmeleri istenir. Ayrıca öğrencilere mevcut yapay zekâ uygulamalarının bir listesi verilir ve bu listeyi kullanarak yapay zekâ uygulamalarının yeşil kimya ve sürdürülebilirlik üzerindeki olası katkılarını ve olası risklerini sorgulamaları istenir ( KB2.8 ) . Öğrencilerden bu bağlamda yapay zekâ uygulamalarının enerji verimliliğini artırma, çevresel izleme ve koruma, sürdürülebilir gıda üretimi, atık azaltma, otonom araçlar ve akıllı ulaşım sistemleri gibi alanlarda nasıl katkı sağlayabileceği konusunda akıl yürütmeleri ve ulaştığı çıkarımlar üzerine yansıtma notu yazmaları istenebilir ( OB8 ) . Aynı zamanda öğrencilerden yeşil kimya uygulamalarında yapay zekânın çevre dostu süreçler geliştirme, enerji ve ham madde tüketimini azaltma, malzeme özelliklerini tahmin etme gibi alanlardaki olumlu etkilerine ilişkin çıkarımlarda bulunmaları ve yansıtma notu yazmaları istenebilir ( SDB2.3 , SDB3.3 ) .",
+    "Öğrencilerin yapay zekâ uygulamalarının yeşil kimya alanında da olumlu katkıları olduğunu ifade etmeleri sağlanır. Bu katkılar arasında çevreye daha az zararlı, daha sürdürülebilir ve verimli kimyasal süreçlerin ve ürünlerin geliştirilmesi, kimyasal reaksiyonları ve süreçleri optimize ederek, enerji ve ham madde tüketimini azaltarak ülke ekonomisine katkı sağlaması, en verimli tepkime yollarını ve koşullarını belirleyebilmesi ( OB3 ) , daha az zararlı seçenekler bulabilmesi ( OB8 ) , enerji verimliliği için katalizörleri tanımlayabilmesi, atık akışlarını analiz edebilmesi, kimyasal maddelerin toksikolojik özelliklerini ve çevresel etkilerini tahmin edebilmesi ve endüstriyel kimya süreçlerini gerçek zamanlı izleyebilmesi sayılabilir ( SDB3.3 , D5.2 , D9.3 , D17.2 , D18.3 ) . Aynı zamanda öğrencilerden yapay zekâ uygulamalarının etik ve çevresel sorunlara yol açma risklerini düşünmeleri istenir ( OB8 ) . Sürdürülebilir kalkınmanın nitelikli eğitim hedefi göz önünde bulundurularak öğrencilerin yapay zekâ kullanımının olumlu yanlarıyla birlikte daha az deney yapma, yeteneklerin yeterince kullanılamaması ve etik problemler gibi olumsuz yönlerini de fark etmeleri sağlanır. Öğrencilerin yapay zekânın olumsuz etkileri ile ilgili neler hissettikleri ve yapay zekânın kullanılmasının oluşturduğu yeni durumlarda nasıl daha etkili davranabilecekleri üzerine tartışma yapılabilir ( SDB1.1 , SDB2.1 , SDB2.3 , SDB3.1 , SDB3.2 , D14.1 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D17.2",
+      "D18.3",
+      "D4.2",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.2",
+      "E3.10",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB3",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/169"
+}

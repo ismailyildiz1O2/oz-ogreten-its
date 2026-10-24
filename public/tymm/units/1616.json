@@ -1,0 +1,38 @@
+{
+  "unitId": 1616,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "8.Tema: Taş Değişimleri Ve Feda",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.8.1",
+      "title": "Satrançta taş değişimi kuralını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.8.2",
+      "title": ". Satranç oyununda taşlar arasında taş değeri, konum güvenliği, şah tehdidi, tempo ve sonraki hamle etkisi durumlarından hareketle taş değişimi yapmaya yönelik karar verebilme. a) Satranç oyununda taş değişim kararına yönelik amacını belirler. b) Taş değişimi kararına yönelik bilgi toplar. c) Alternatif taş değişimi seçenekleri oluşturur. d) Alternatif seçenekler üzerinde mantıksal denetleme yapar. e) Taş değişimi kararına yönelik seçim yapar. f) Taş değişimi kararını oyun sürecine ve sonuç üzerine yansıtır",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.8.3",
+      "title": "Satrançta konumsal kazanç elde etmek üzere yapılan taş fedasını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.8.4",
+      "title": ". Satrançta daha iyi bir konum elde etmek için feda edilecek taşın oyuna etkisini düşünerek çıkarım yapabilme. a) Mevcut bilgileri dâhilinde daha iyi bir konum elde etmek için feda edilecek taşın oyuna etkisi ile ilgili varsayımda bulunur. b) Feda edilecek taşın oyuna etkisi ile ilgili varsayımları listeler. c) Feda edilecek taşın oyuna etkisi ile ilgili varsayımları karşılaştırır. d) Feda edilecek taşın oyuna etkisi ile ilgili önerme sunar. e) Feda edilecek taşın oyuna etkisi ile ilgili önermeyi değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "feda, güç, taş değişimi",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1616"
+}

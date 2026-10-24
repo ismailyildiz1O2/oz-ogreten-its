@@ -1,0 +1,28 @@
+{
+  "unitId": 1613,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "5.Tema: Şah Ve Mat",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.5.1",
+      "title": "Tümevarım yönteminden hareketle şah çekme tekniklerine yönelik akıl yürütebilme. a) Şah çekme tekniklerine yönelik gözlem yapar. b) Şah çekme tekniklerine yönelik örüntü bulur. c) Şah çekme tekniklerine yönelik genelleme yapar",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.5.2",
+      "title": "Tehdit altındaki şahı korumaya yönelik eleştirel düşünebilme. a) Tehdit altındaki şahın durumunu sorgular. b) Şahı koruma yolları ile ilgili akıl yürütür. c) Akıl yürütme sonucunda ulaştığı çıkarımları oyuna yansıtır. OOEST.5.3. Satrançta mat durumunun mantıksal denetlemesini yapabilme. a) Satranç oyununda mat konumuna yönelik önermeler geliştirir. b) Mat durumundan kurtulmaya yönelik kuralları uygular. c) Oyunda mat konumunun oluşmasına yönelik yargıda bulunur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "mat, şah çekme, tehdit",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1613"
+}

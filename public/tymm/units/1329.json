@@ -1,0 +1,55 @@
+{
+  "unitId": 1329,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "4. TEMA: ÖĞRENİLEN BİLGİLERLE İLGİLİ ESERLER ÇALMA",
+  "hours": "20",
+  "description": "Temanın içeriğini öğrencilerin dinledikleri düzeyine uygun eserleri nota ve ritme uyarak çalmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.8.4.1",
+      "title": ". Kemanda düzeyine uygun etüt ve eserleri çalabilme",
+      "processComponents": [
+        "a) Kemanda uygun, belirlenen eseri çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alarak belirlenen eseri çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak belirlenen eseri çalar"
+      ]
+    }
+  ],
+  "keyConcepts": "keman, yay, eser, metronom",
+  "support": [
+    "Çalışılan eserin sesleri tek tek vurgulanarak öğrenciye duyurulabilir. Solfej çalışmalarına daha fazla yer verilerek sesleri net duyması ve kemanda perdeleri daha doğru basması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenci ile eserin çalınmasına geçilebilir. Öğrencinin çalacağı parçaları araştırması istenebilir. Öğretmen tarafından seçilen eserler üzerinde çalışılabilir ve bu çalışmalar sınıf ortamında sergilenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; bilgi eşleştirme etkinlikleri, sunum gözlem formu, açık uçlu sorular, kısa araştırma raporu, afiş, dijital sunum veya poster hazırlama görevi ile değerlendirilebilir. Öğrenciden seçtiği bir keman virtüözünü tanıtan kısa bir araştırma raporu, sunum dosyası, poster ya da dijital afiş hazırlaması performans görevi olarak istenebilir. Performans görevi; içerik doğruluğu, özgünlük ve sunum becerisine göre bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.8.4.1",
+    "Öncelikle etkileşimli tahta kullanılarak öğrencilere keman virtüözlerinin en çok bilinen keman eserleri dinletilir ( OB2 ). Öğrencilerden dinledikleri eserler ile ilgili çözümlemeler yapmaları beklenir. Öğrencilerin düzeylerine uygun eserler belirlenir. Öğrenciler, seslendirecekleri etütlerde doğru duruş ve tutuş pozisyonunu alarak öğretmen eşliğinde etüt ve eser çalışmalarına geçer. Öğretmenle eşlikli olarak çalan öğrenci, çalışmalarda öğretmenin de çaldığı sesleri dinleyerek öğretmene eşlik eder ( OB1 ). Öğrenci etüt ve eserin bona çalışmasını yapar. Etüt ve eserler ile ilgili bona çalışmasını ritim hatası olmayacak şekilde tekrarlarla çalışır ( D3 ). Bu çalışmalar sonucunda öğrenci çalacağı eser veya etüdü çözümleyerek daha rahat seslendirir. Öğrenciler etüt ve eserdeki ritim ve nota sürelerine odaklanır ( E3.2 ). Öğrencilerden ayna karşısında doğru kemanı alarak öğretmen eşliğinde etüt ve eseri çalmaları istenir ( SDB2.1 ). Öğrencilerin ayna karşısında doğru duruş ve tutuşları ayarlandıktan sonra belirlenen eserleri çalmak için kemana özgü teknikleri kullanmaları sağlanır. Grup çalışmaları verilerek öğrencilerin kendi aralarında iletişim kurmaları ve birbirlerine etüt ve eserler ile ilgili yardımcı olmaları istenir. Bu şekilde çalışmalarda kendilerini ifade etmeleri ve eserleri yorumlamaları sağlanır ( E3.1 ). Grup çalışmalarından sonra öğretmen, öğrencilerle verilen etüt çalışmalarını tekrar çalar ve öğrencilerden eşlikli olarak çalgıya özgü teknikleri kullanmalarını, verilen etüt ve eserleri çalmalarını ister. Bu çalışmalar gözlem formu ve dereceli puanlama anahtarı ile değerlendirilebilir ( KB2.2 ). Öğrenciden seçtiği bir keman virtüözünü tanıtan kısa bir araştırma raporu, sunum dosyası, poster ya da dijital afiş hazırlaması performans görevi olarak istenebilir. Performans görevi; içerik doğruluğu, özgünlük ve sunum becerisine göre bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3"
+    ],
+    "egilim": [
+      "E3.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1329"
+}

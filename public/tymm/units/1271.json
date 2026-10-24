@@ -1,0 +1,49 @@
+{
+  "unitId": 1271,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "1. TEMA:TÜRK MÜZİĞİ PERDELERİNİ ÖĞRENEREK KANUNDAN SES ÇIKARIYORUM",
+  "hours": "12",
+  "description": "Temada öğrencinin Türk müziği ana perdelerini ve Batı müziğindeki isimleri hakkında bilgi toplayabilmesi, sağ ve sol eli doğru konumlandırıp mızrapla doğru vuruş yaparak eser veya etüt çalabilmesi amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KNN.3.1.1",
+      "title": "Türk müziği ana perdelerini ve Batı müziğindeki isimleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Türk müziği seslerini kaba yegâhtan başlayarak yukarıya doğru iki oktav olacak şekilde perdelerin isimlerini belirler.",
+        "b) Ana perdelerin porte üzerindeki yerlerini bulur.",
+        "c) Bulduğu bu ana perdelerin yerlerini doğrular.",
+        "ç) Ana perdelerin yerlerini kaydeder."
+      ]
+    },
+    {
+      "code": "KNN.3.1.2",
+      "title": "Sağ ve sol eli doğru konumlandırıp mızrapla doğru vuruş yaparak eser veya etüt çalabilme",
+      "processComponents": [
+        "a) Çalınacak eser veya etütleri çözümler.",
+        "b) Sağ ve sol el tellerin üzerinde doğru pozisyonu alır.",
+        "c) Sağ ve sol el tellerde çalgıya özgü teknikleri kullanır.",
+        "ç) Sağ sol el ile beraber müzik bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, kanun, müzik, perde, Türk müziği",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu artırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazır bulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak kanun hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Etkinlikler yapılırken öğrencilere ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak ve bunlara ilişkin etkinlik ve materyal hazırlanabilir. Kanunun tarihini ve kültürel bağlamını anlatan hikâyeler anlatılarak öğrencilerin bağ kurması sağlanabilir. Öğrencilerden kendi performanslarını kaydedip kendi motor becerilerindeki gelişimi izleme, performanslarındaki güçlü ve zayıf yönleri keşfederek günlük, haftalık veya aylık gelişim raporlarını oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu, eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini ölçen performans görevi verilebilir. Öğrencilerden Türk müziği ana perdeleri ile bu perdelerin Türk ve Batı müziğindeki karşılıkları hakkında bilgi toplaması performans görevi istenebilir. Ayrıca sağ ve sol elin doğru konumlandırılmasıyla mızrapla doğru vuruş yaparak çalma; kaba çargâh, acemaşiran, yegâh, hüseyniaşiran, rast, dügâh ve buselik perdelerinin çalınması hedeflenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.3.1.1",
+    "Türk müziğinde kullanılan ana perdeleri içeren ve bu perdeleri portre üzerinde gösteren bir materyal hazırlanarak öğrenciye verilir. Öğrenciden önce bunları batı müziği ses sistemindeki isimleri ile söylemesi istenerek (E.3.2) daha sonra bunların Türk müziği isimleri öğretilip oktavlar arasındaki perde isimlerindeki ilişkinin öğrenciye kavratılması hedeflenmektedir (OB1, SDB2.1, E3.2). Bunun başlangıç aşamasında iki oktav olarak yapılması yeterlidir. Bunun sonucunda öğrencinin Türk müziğindeki ana perdeleri portre ve kanun üzerindeki yerlerinde gösterebilmesine yönelik öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+    "KNN.3.1.2",
+    "Öncelikle öğrencinin çalışacağı eser/etütler öğrenciyle birlikte çözümlenir. Öğrencinin sağ ve sol elinin kanun üzerinde nasıl konumlanacağı gösterilir (E.3.2). Bu çalışmayı yaparken sağ elin eşiğin 4–5 cm solunda aşağı-yukarı, sol elin ise mandalların çakıldığı ve konumlandığı mızıka tahtasından 4–5 cm sağ tarafta, mızıka tahtasına paralel biçimde hareket etmesi sağlanır ve öğrencilerin bu süreçte sabırlı olmaları gerektiği vurgulanır (D12.3). Dinlediğini anlama ve tanıma becerisini ölçen performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1271"
+}

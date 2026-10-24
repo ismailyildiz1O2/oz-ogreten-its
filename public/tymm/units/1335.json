@@ -1,0 +1,79 @@
+{
+  "unitId": 1335,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "2. TEMA: PİYANODA SESLENDİRME",
+  "hours": "16",
+  "description": "Temada öğrencilerin piyanoda do notasının kalın ve ince oktavlarını çalabilmeleri, sağ ve sol elde do dizisini ayrı ayrı daha sonra aynı anda 5 parmak olacak şekilde çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.2.2.1",
+      "title": ". Do notasının kalın ve ince oktavlarını çalabilme",
+      "processComponents": [
+        "a) Do notasının kalın ve ince oktavlarında çalınacak eseri çözümler.",
+        "b) Do notasını kalın ve ince oktavlarında çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Do notasının kalın ve ince oktavlarında çalgıya özgü teknikleri kullanır.",
+        "ç) Do notasının kalın ve ince oktavlarının müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "PYN.2.2.2",
+      "title": "Sağ ve sol elde ayrı ayrı do dizisinde 5 parmak çalabilme",
+      "processComponents": [
+        "a) Sağ ve sol elde ayrı ayrı do dizisinde 5 parmak çalınacak eseri çözümler.",
+        "b) Sağ ve sol elde ayrı ayrı do dizisinde 5 parmak duruş ve tutuş pozisyonu alır.",
+        "c) Sağ ve sol elde ayrı ayrı do dizisinde 5 parmak çalgıya özgü teknikleri kullanır.",
+        "ç) Sağ ve sol elde ayrı ayrı do dizisinde 5 parmak müziksel bileşenlerini uygular."
+      ]
+    },
+    {
+      "code": "PYN.2.2.3",
+      "title": "Sağ ve sol elde aynı anda do dizisinde 5 parmak çalabilme",
+      "processComponents": [
+        "a) Sağ ve sol elde aynı anda do dizisinde 5 parmak çalınacak eseri çözümler.",
+        "b) Sağ ve sol elde aynı anda do dizisinde 5 parmak duruş ve tutuş pozisyonu alır.",
+        "c) Sağ ve sol elde aynı anda do dizisinde 5 parmak çalgıya özgü teknikleri kullanır.",
+        "ç) Sağ ve sol elde aynı anda do dizisinde 5 parmak müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, oktav",
+  "support": [
+    "Oyun, canlandırma yapma gibi etkinlikler ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. 5 parmak do dizisinden sonra parmak geçişlerinin olduğuna dair öğretmen gösterimi yapılabilir. Dizi çalımının belirli ritimler eşliğinde yapılması sağlanabilir."
+  ],
+  "assessment": [
+    "Performans görevi olarak öğrencilerden sağ ve sol el ile aynı anda do, re, mi, fa ve sol notalarını teknik ve müzikal açıdan doğru biçimde çalarken eş zamanlı olarak her notanın adını yüksek sesle söylemeleri istenir. Öğrencinin piyano çalgısında oktav çalabilme ve 5 parmak dizi çalabilme becerilerinin ölçümünde gözlem formu ya da bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "PYN.2.2.1",
+    "Öğretmenin piyano eşliğini dinleyerek istenilen ritimde kalın ve ince oktavdaki tüm do notalarının yerleri gösterilir. Öğrencilerden eseri çözümlemeleri istenir. Eser çözümleme sürecinde öğretmen öğrencilere rehberlik eder. Çözümleme tamamlandıktan sonra öğrenciden duruş ve tutuş pozisyonu alması istenir. Öğrenciye do notalarının konumları tekrar tekrar gösterilir. Öğrenciden do notalarının konumlarını doğru bir şekilde göstermesi, çalgıya özgü teknikleri kullanması ve müziksel bileşenlere uygun çalması istenir ( OB9 , E2.2 ). Kontrol listesi veya gözlem formu ile süreç değerlendirmesi yapılabilir.",
+    "PYN.2.2.2",
+    "Öğrenciden sağ ve sol elin ayrı ayrı kullanıldığı 5 parmak do dizisinin yer aldığı eseri çözümlemesi istenir. Eser çözümleme sürecinde öğretmen öğrencilere rehberlik eder. Çözümleme tamamlandıktan sonra öğrenciden duruş ve tutuş pozisyonu alması istenir. Öğrenciden sağ el için ayrı, sol el için ayrı olacak şekilde do, re, mi, fa ve sol notalarını çalgıya özgü teknik ve müzik bileşenlerine uygun çalması istenir ( E2.2 ). Öğrenciye notaları sırasıyla çalmada bir düzen olduğu fark ettirilir. Piyanoda yer alan notaların çalınanlarla sınırlı olmadığı ve geniş bir nota yelpazesine sahip olduğu aktarılır ( OB1 , OB4 , E1.1 ). Performans görevi kapsamında öğrenciden sağ ve sol el için ayrı ayrı do, re, mi, fa ve sol notalarını teknik olarak doğru, akıcı ve müzik bileşenlerine uygun biçimde çalması istenir. Kontrol listesi veya gözlem formu ile süreç değerlendirmesi yapılabilir.",
+    "PYN.2.2.3",
+    "Öğrenciden sağ ve sol elin aynı anda kullanıldığı 5 parmak do dizisini çalmada eseri çözümlemesi istenir. Çözümleme sonunda öğrenciden duruş ve tutuş pozisyonu alması istenir. Öğrenciden do, re, mi, fa, ve sol notalarını sağ ve sol el ile aynı anda çalgıya özgü teknik ve müzik bileşenlerine uygun bir şekilde çalarken aynı zamanda notaların ismini söylemesi istenir ( SDB1.2 ). Öğrenciden öğretmenin ders esnasında anlık belirleyeceği komutu çıkıcı notalar veya inici notalar diyerek oyun tarzında uygulaması istenir ve öğrencinin amacına ulaşması için planlı ve etkili bir yol haritası çizmesi beklenir ( E2.5 , D3.2 ). Öğrendiği bilgiyi öğretmen eşliğinde tekrar etmesi istenir ( SDB3.1 ). Kontrol listesi veya gözlem formu ile süreç değerlendirmesi yapılabilir. Performans görevi olarak öğrencilerden sağ ve sol el ile aynı anda do, re, mi, fa ve sol notalarını teknik ve müzikal açıdan doğru biçimde çalarken eş zamanlı olarak her notanın adını yüksek sesle söylemeleri istenir. Kontrol listesi veya gözlem formu ile süreç değerlendirmesi yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1335"
+}

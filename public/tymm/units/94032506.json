@@ -1,0 +1,35 @@
+{
+  "unitId": 94032506,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "6. ÜNİTE: İNSAN VE ÇEVRE",
+  "hours": "6",
+  "description": "Bu ünitede öğrencilerin yaşam için gerekli kaynakları, kaynakların tasarruflu kullanımına yönelik bilgi ve becerileri kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.4.6.1.1",
+      "title": "Kaynakların kullanımında tasarruflu davranmaya özen gösterir",
+      "processComponents": [
+        "Elektrik, su, besin gibi kaynakların tasarruflu kullanılmasının önemi vurgulanır.",
+        "Yeniden kullanmanın önemi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "F.4.6.1.2",
+      "title": "Yaşam için gerekli olan kaynakların ve geri dönüşümün önemini fark eder",
+      "processComponents": [
+        "Su, besin, elektrik gibi kaynaklara değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Canlılar ve Yaşam",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

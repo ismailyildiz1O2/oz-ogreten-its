@@ -1,0 +1,79 @@
+{
+  "unitId": 702,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "5. TEMA: DAHA HIZLI, DAHA YÜKSEĞE, DAHA GÜÇLÜ VE BİRLİKTE",
+  "hours": "16",
+  "description": "Bu temada öğrencilerin atletizme ilişkin hareket kavramlarını uygulayabilmeleri, hareket becerilerini sergileyebilmeleri, olimpik ve paralimpik oyunların önemini ifade edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.5.5.1",
+      "title": "Çocuk atletizmine ilişkin hareket kavramlarını uygulayabilme",
+      "processComponents": [
+        "a) Çocuk atletizmine ilişkin kavramları ayırt eder.",
+        "b) Çocuk atletizmine ilişkin beceriler ile kavramlar arasında ilişki kurar.",
+        "c) Çocuk atletizmine ilişkin kavramlara uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BES.5.5.2",
+      "title": "Çocuk atletizmine ilişkin hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Çocuk atletizmine ilişkin hareket becerilerini algılar.",
+        "b) Çocuk atletizmine ilişkin hareket becerilerinin basamaklarını gösterir.",
+        "c) Çocuk atletizmine ilişkin hareket becerilerini farklı ortamlarda uygular."
+      ]
+    },
+    {
+      "code": "BES.5.5.3",
+      "title": "Olimpik ve paralimpik oyunların önemini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "beceri, çocuk atletizmi, hareket, olimpik oyunlar, paralimpik oyunlar",
+  "support": [
+    "Grup çalışmaları görsel, işitsel ve dijital materyaller ile desteklenerek öğrencilerin çocuk atletizmine ilişkin kavramları ayırt etmeleri sağlanabilir. Olimpik ve paralimpik oyunların önemini vurgulayan değerleri daha anlaşılır kılmak için hikâyeleştirme ve canlandırma etkinlikleri düzenlenebilir."
+  ],
+  "enrichment": [
+    "Etkinlikler sırasında ulaştıkları hedefleri değiştirerek daha uzağa atma, daha uzağa atlama, daha kısa sürede koşma gibi öğrencilerin kendi öğrenme süreçlerini göz önünde bulundurarak yeni hedefler belirlemeleri sağlanabilir. İstasyonların ya da görevlerin öğrenciler tarafından tasarlanması istenerek yaratıcılık ve sorumluluk duygusu kazanmaya teşvik edilebilir. Çocuk atletizmi ile ilgili ulusal veya uluslararası örneklerin videoları izletilerek öğrencilerden kendi deneyimlerini bu örneklerle karşılaştırmaları istenebilir. Öğrencilerin belirledikleri hareket becerilerini içeren oyunlar, yarışmalar düzenlenerek okul ortamında olimpik oyun ortamının oluşturulması sağlanabilir. Olimpiyatlara ya da paralimpik oyunlara katılmış sporcular ile söyleşiler düzenlenerek öğrenciler soru sormaya teşvik edilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları akran değerlendirme formu, gözlem formu ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere performans görevi olarak olimpik ya da paralimpik oyunlarla ilişkili bir tema seçme ve afiş hazırlama verilebilir. Performans görevinde süreç bileşenlerini içine alan bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BES.5.5.1. Çocuk atletizmine ilişkin atma, atlama, koşu, hız gibi hareket kavramlarını içeren görseller (öne doğru çift ayak sıçrayan çocuk görseli, hedefe atış yapan çocuk görseli vb.) sürece dâhil edilerek öğrencilerden harekete ilişkin kavramları tahmin etmeleri ve çıkarım yapmaları istenir ( KB2.10 ). Örneğin hedefe top atan bir çocuk görselinde öğrencilerden bu hareketi, atma ile ilişkilendirmeleri beklenir. Atletizmin temel alt dallarına ilişkin beceriler uygulamalı bir şekilde açıklanarak videolarla desteklenir. Atletizmin alt dallarına (koşular, atmalar, atlamalar vb.) özgü hareket kavramlarını içeren istasyonlar hazırlanır. İstasyonlar örneğin koşular istasyonu için hızlanma, çıkış; atlamalar için sıçrama öncesi hızlanma, adımlama gibi bileşenleri içerecek şekilde düzenlenebilir. Öğrencilerden gruplar hâlinde istasyonları deneyimlemeleri ve atletizme ilişkin kavramları ayırt etmeleri istenir ( SDB1.2 ). Öğrencilerin hareketleri farklı hız ve mesafelerde denemeleri teşvik edilerek atletizme ilişkin beceri ve kavramlar arasında bağ kurmaları sağlanır ( SDB1.1 ). Öğrencilerden yapmakta zorlandıkları hareket istasyonlarını belirlemeleri istenir ve o istasyonlarda daha fazla zaman geçirmelerine imkân verilerek atletizme ilişkin kavramlara uygun hareket etmeleri sağlanır ( SDB1.2 ). İstasyonda yer alan hareket kavramlarına ilişkin akran değerlendirme formları kullanılarak öğrencilerin birbirlerine geri bildirim vermeleri sağlanabilir.",
+    "BES.5.5.2. Çeşitli ağırlıkta ve büyüklükte toplar, plastik ya da köpükten roketler, içi kum dolu keseler, çemberler gibi malzemeler öğrencilere gösterilir ve bunları incelemelerine olanak sağlanarak öğrencilerde merak uyandırılır ( E1.1 ). Bu malzemeleri kullanabilecekleri hareket becerileri ile ilgili sorular sorularak öğrencilerin çıkarımda bulunmaları desteklenir ( KB2.8 ). Öğrencilerin çeşitli atma, atlama, koşma gibi atletizmin alt dallarına ilişkin hareket becerilerini bu malzemeleri kullanarak denemeleri sağlanır. Örneğin öğrenciler çemberlerin içine belirli mesafeden çift ayak atlayabilir, kum dolu keseleri belirledikleri mesafeden uzağa atmaya çalışabilir. Öğrencilerin bu uygulamalar ile çocuk atletizmine ilişkin hareket becerilerini algılamaları sağlanır. Öğrencilerden gruplara ayrılarak atletizme ilişkin bir hareket becerisi (çemberin içine çift ayakla atlama, kum kesesini belirlenen hedefe isabet ettirme vb.) seçmeleri istenir. Gruplardan seçtikleri hareketin basamaklarının neler olabileceğini tartışmaları ve hareketleri denemeleri sağlanarak atletizme ilişkin hareket becerilerinin basamaklarını göstermeleri istenir ( KB2.18 , SDB2.2 ). Seçtikleri hareketlerin nasıl yapıldığı; adımlamaların, atışların neden önemli olabileceği ile ilgili sorular sorularak hareket becerilerini oluşturan basamaklara vurgu yapılır. Hareket becerilerine ilişkin basamakları deneyimleyen gruplardan birbirlerine dönüt vermeleri istenerek gösterdikleri basamaklarda gerekli görülen adımlamaları yeniden düzenlemeleri sağlanır ( SDB2.2 , SDB2.3 ). Gruplardan belirledikleri basamakları içeren hareket kartları hazırlamaları istenebilir. Öğrencilerden atletizme ilişkin farklı alan (kapalı, açık vb.) ve zeminlerdeki (çim, toprak vb.) deneyimlerine örnekler vermeleri istenerek farklı ortamlar ile ilişki kurmaları sağlanır. Öğrencilerin farklı ortamlara ilişkin deneyimler yaşayabilecekleri alanlar hazırlanır ( SDB3.2 ). Minderlerin üzerine yerleştirilen engellerin üzerinden atlama, çim veya toprak zemin üzerinde bayrak koşusu, şeritler oluşturarak koşu şeritlerinde hızlanma, hedefe daha uzak mesafeden nesne atma gibi alanlar hazırlanarak öğrencilerin çocuk atletizmine ilişkin hareket becerilerini farklı ortamlarda uygulamaları sağlanır. Hazırlanan ortamlarda hareketlerin nasıl değiştiği, kolaylaştığı ya da zorlaştığı ile ilgili tartışma yapılır, öğrencilerin kendi duygu ve davranışlarını yönetmeleri sağlanır ( SDB1.2 ). Uygulama sırasında öğrenciler gözlemlenir ve süreç gözlem formu ile değerlendirilebilir.",
+    "BES.5.5.3. Öğrencilere olimpik ve paralimpik oyunlar ile atletizmin tarihsel ve kültürel önemini, ülkeler ve kişiler için anlamını araştırmaları için görevler verilir ( E2.2 , D4.5 , OB1 ). Araştırmalarında atletizmin olimpiyatların temelini oluşturduğu; fiziksel, zihinsel ve sosyal katkılarının yanı sıra oyunların barış, dostluk, adil oyun anlayışı, kültürler arası etkileşim ve birleştirici rol değerleriyle ilişkilendirildiği vurgulanır. Öğrencilere atletizm yarışmalarını içeren olimpik ve paralimpik oyunlara ait videolar izletilerek öğrencilerden bu oyunların ülkeler ve bireyler için önemine ilişkin fikirlerini ifade etmeleri istenir ( E3.5 , SDB2.1 ). Paralimpik atletizm yarışmaları örnekleri verilerek eşitlik, azim, dayanışma, empati gibi kavramların önemi vurgulanır ( E2.1 ). Barış, adil oyun anlayışı, dayanışma gibi kavramları yansıtan atletizm temalı istasyonlar hazırlanır. Örneğin dayanışma istasyonunda bayrak koşularını içeren; eşitlik ve empati istasyonunda ise öğrencilerin gözleri kapalı olarak arkadaşlarının rehberliğinde oyunu tamamladıkları etkinlikler hazırlanır ( SDB2.3 ). İstasyonlar tamamlandıktan sonra öğrencilerden istasyonda yer alan değerlerin olimpik ve paralimpik oyunlar için neden önemli olduğunu tartışmaları istenir. Öğrencilerden grup oluşturmaları ve olimpik ya da paralimpik oyunlarla ilişkili bir tema (barış, eşitlik, dayanışma, adil oyun anlayışı vb.) seçmeleri istenir. Seçtikleri temayı yansıtan görseller, sloganlar gibi ögelere yer verilerek afiş hazırlamaları performans görevi olarak verilebilir ( SDB2.2 ). Her grup hazırladığı afişi kısaca sunar ve hazırlanan afişlerin okul alanında sergilenmesi sağlanır ( OB4 )."
+  ],
+  "skills": {
+    "deger": [
+      "D4.5"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E2.2",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.18",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/702"
+}

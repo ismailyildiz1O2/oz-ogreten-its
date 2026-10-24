@@ -1,0 +1,44 @@
+{
+  "unitId": 94126402,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "2. ÖĞRENME ALANI: KÜLTÜR VE MİRAS",
+  "hours": "14",
+  "description": "Bu öğrenme alanı işlenirken aile birliğine önem verme, kültürel mirasa duyarlılık ve vatanseverlik gibi değerlerle kanıt kullanma, zaman ve kronolojiyi algılama ile değişim ve sürekliliği algılama gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.2.1",
+      "title": "Sözlü, yazılı, görsel kaynaklar ve nesnelerden yararlanarak aile tarihi çalışması yapar",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.2.2",
+      "title": "Ailesi ve çevresindeki millî kültürü yansıtan ögeleri araştırarak örnekler verir",
+      "processComponents": [
+        "Yakın çevresinde yer alan bir müze, cami, türbe, köprü, medrese, kervansaray gibi tarihî bir mekân gezisi ya da sözlü tarih veya yerel tarih çalışmaları yapılır."
+      ]
+    },
+    {
+      "code": "SB.4.2.3",
+      "title": "Geleneksel çocuk oyunlarını değişim ve süreklilik açısından günümüzdeki oyunlarla karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.2.4",
+      "title": "Millî Mücadele kahramanlarının hayatlarından hareketle Millî Mücadele’nin önemini kavrar",
+      "processComponents": [
+        "Kazanım biyografi öğretimi bağlamında ele alınır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Kültür ve Miras",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

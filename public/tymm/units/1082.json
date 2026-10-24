@@ -1,0 +1,75 @@
+{
+  "unitId": 1082,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları - Müzik Tarihi Dersi",
+  "title": "3. TEMA: İLK MÜZİK YAZILARI",
+  "hours": "5",
+  "description": "Temada öğrencilerin müzik yazısı ihtiyacının nedenlerini açıklayabilmeleri, ilk müzik yazıları hakkında bilgi toplayabilmeleri ve müzik yazısı türlerini sınıflandırabilmelerine yönelik bilgi ve beceri kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MT.5.3.1",
+      "title": "Müzik yazısı ihtiyacının nedenlerini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MT.5.3.2",
+      "title": "İlk müzik yazıları hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) İlk müzik yazıları hakkında bilgiye ulaşmak amacıyla kullanacağı kaynakları belirler.",
+        "b) Belirlediği kaynakları kullanarak ilk müzik yazıları hakkındaki bilgileri bulur.",
+        "c) İlk müzik yazıları hakkında ulaştığı bilgileri doğrular.",
+        "ç) İlk müzik yazıları hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MT.5.3.3",
+      "title": "Müzik yazısı türlerini sınıflandırabilme",
+      "processComponents": [
+        "a) Müzik yazılarına ilişkin ölçütleri belirler.",
+        "b) Müzik yazılarını ayırır.",
+        "c) Müzik yazılarını sınıflandırır.",
+        "ç) Müzik yazılarını adlandırır."
+      ]
+    }
+  ],
+  "keyConcepts": "ebced, neuma, sembol, tablatura",
+  "support": [
+    "Öğrencilere ilk müzik yazılarını tanıtıcı dijital içerikler izletilebilir. Öğrencilere grup çalışmalarıyla sözlü aktarımın zaman içinde müziği nasıl etkileyeceğine yönelik canlandırma yaptırılabilir. Öğrencilere eşleştirme kartlarıyla hazırlanmış müzik yazısı türlerini tanıma oyunu oynatılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden yazıyı bulan uygarlık ile müzik yazısını bulan uygarlığın aynı olmasının o uygarlık hakkında hangi bilgileri verdiğini yazılı olarak anlatmaları istenebilir. Öğrencilere günümüzde kullanılan dijital müzik yazılımlarını araştırma ve sınıfta arkadaşlarına sunma görevi verilebilir. Öğrencilere seçtikleri sembol ve işaretleri kullanarak kendi müzik yazısı sistemlerini tasarlama ve bilgi görseli olarak sunma görevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, anekdot kaydı, kontrol listesi, gözlem formu, akran değerlendirme formu ve eşleştirme soruları kullanılarak değerlendirilebilir. Öğrencilere müzik yazısı türlerini tanıtıcı bülten panosu hazırlamalarına yönelik bir performans görevi verilebilir. Performans görevleri, içerik doğruluğu ve ifade netliği ölçütlerine göre dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MT.5.3.1 Öğrencilere yazılı ilk müzik eserlerinden örnekler dinletilerek bu eserlerin yaşlarını tahmin etmeleri istenir ( SAB9 ). Akvaryum yöntemi kullanılarak öğrencilerin bu eserleri dinlemelerini olanaklı kılan unsurlar hakkındaki düşünceleri alınır. Bu eserleri dinlemelerinin yazı sayesinde mümkün olduğunu öğrencilerin belirlemesi beklenir ( KB2.10 ). Öğrencilere ilk uygarlıklarda yazının ortaya çıkışı hakkında kısa bir bilgilendirme yapılır. Müzik yazısı ihtiyacının nedenleri hakkında büyük grup tartışması yapılır ve sonuçlar listelenir. Dinî ritüeller ve törensel etkinliklerde önemli bir yeri olan müziğin doğru şekilde çalınması, aktarılması, korunması ve yaygınlaştırılması için müzik yazısının gerekli olduğunu tüm öğrencilerin ifade etmeleri sağlanır. Öğrencilerin tartışmalardaki katkılarını kaydetmek için anekdot kaydı, çıkarımlarının doğruluk ve kapsamını izlemek için kontrol listesi kullanılabilir.",
+    "MT.5.3.2 Öğrencilere ilk müzik yazıları hakkında bilgiye ulaşmak için yararlanabilecekleri dijital, basılı ve görsel araçlar ile güvenilir genel ağ adresleri tanıtılarak öğrencilerden kullanacakları kaynakları belirlemeleri istenir. Öğrenciler gruplara ayrılarak belirledikleri kaynaklardan bilgi toplar ve topladıkları bilgileri sınıfla paylaşır ( SDB2.1 , SDB2.2 , OB1 , OB2 ). Toplanan bilgiler doğrulanır ve kaydedilir. Öğrencilerin araştırma sürecinde planlı olmaları ve araştırma konularına bilimsel bakış açısıyla yaklaşmaları beklenir ( D3.2 , E2.2 , E3.4 ). Öğrencilerin grup çalışmasındaki katılım ve iş birliği becerilerini izlemek için gözlem formu, diğer grupların çalışmalarını değerlendirerek eleştirel düşünme becerilerini geliştirmeleri için akran değerlendirme formu kullanılabilir. MT.5.3.3 Çeşitli dijital ve görsel araçlar ile güvenilir genel ağ adresleri kullanılarak öğrencilere müzik yazıları türlerine dair örnekler gösterilir ve öğrencilerin seslerin görselleştirilmesinde harf, sembol ve notaların kullanıldığını belirlemesi beklenir ( OB4 ). Öğrencilere dijital araçlarla sürükle bırak oyunu oynatılarak öğrencilerden harf yazısı, nota yazısı ve tablaturaları ayırmaları istenir ( OB2) . Ayrılan müzik yazıları gruplanır ve adlandırılır. Öğrencilerin müzik yazılarının isimleri ve görselleri arasındaki bağlantıyı doğru kurma becerisini ölçmek için eşleştirme soruları, etkinliklerdeki katılım ve doğru bilgi oranını belirlemek için kontrol listesi kullanılabilir. Performans görevi olarak öğrencilerden müzik yazısı türlerini tanıtan bir bülten panosu hazırlamaları istenebilir. Performans görevleri, içerik doğruluğu ve ifade netliği ölçütlerine göre dereceli puanlama anahtarı ile değerlendirilebilir ."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.10"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1082"
+}

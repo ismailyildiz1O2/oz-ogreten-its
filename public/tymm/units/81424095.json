@@ -1,0 +1,64 @@
+{
+  "unitId": 81424095,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "95. ÜNİTE: FOTOĞRAF - TEMEL FOTOĞRAFÇILIK",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.1.1.1",
+      "title": "Fotoğrafın tarihsel sürecinde yaşanan önemli gelişim ve değişimleri kronolojik düzen içerisinde inceler",
+      "processComponents": [
+        "Camera obscura (kamera obskura) ve fotoğrafın geçirdiği önemli gelişim ve değişimler açıklanır. İhtiyaçların farklılaşması ve bilimsel gelişmelerin etkisiyle değişimin hızlandığı ve buna bağlı olarak fotoğrafın kullanım alanlarının çeşitlendiği vurgulanır."
+      ]
+    },
+    {
+      "code": "GSA.1.1.2",
+      "title": "Fotoğraf çekiminde ve kullanımında telif haklarının ve özel hayatın gizliliğinin önemini fark eder",
+      "processComponents": [
+        "Ülkemizde fotoğraf eserlerinin hukuken 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile koruma altına alındığı belirtilir.",
+        "Fotoğrafla ilgili özel hayatın gizliliğine ilişkin dikkat edilmesi gereken durumlar açıklanır.",
+        "Telifle ilgili sorun yaşanmaması için fotoğrafçıdan özel hayatın ihlaliyle ilgili sorun yaşanmaması içinse fotoğrafı çekilen kişiden fotoğrafçının izin alması gerektiği vurgulanır."
+      ]
+    },
+    {
+      "code": "GSA.1.1.3",
+      "title": "Doğal ve yapay ışığın fotoğraftaki etkisini analiz eder",
+      "processComponents": [
+        "Işık, ışığın kaynakları (doğal ışık, yapay ışık), özellikleri (parlaklık, kontrast, yön, renk) ve hâlleri (direkt ışık, yansıyan ışık, süzülmüş ışık) açıklanır.",
+        "Doğal ışıkta gün içindeki zamana, hava şartlarına ve çekim yapılan yerin konumuna bağlı olarak fotoğraftaki etkinin değişebileceği belirtilir."
+      ]
+    },
+    {
+      "code": "GSA.1.1.4",
+      "title": "Lens çeşitlerinin fotoğrafa etkisini keşfeder",
+      "processComponents": [
+        "Normal, geniş ve dar açılı lensin fotoğrafa etkisi açıklanır."
+      ]
+    },
+    {
+      "code": "GSA.1.1.5",
+      "title": "Fotoğrafçılıkta kullanılan temel donanımların fotoğrafa katkısını açıklar",
+      "processComponents": [
+        "Fotoğrafçılıkta kullanılan temel donanımların [tripod, monopod, yansıtıcı ve ışık kaynakları (fener, flaş vb.)] fotoğrafa katkısı açıklanır."
+      ]
+    },
+    {
+      "code": "GSA.1.1.6",
+      "title": "Fotoğraf kamerasında temel ayarları yapar",
+      "processComponents": [
+        "Piksel, çözünürlük, beyaz ayarı, kumlanma, netlik, alan derinliği, doğru pozlama ve temel ayarlar (ISO, diyafram, perde hızı) açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

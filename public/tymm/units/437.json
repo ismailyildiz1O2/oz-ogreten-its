@@ -1,0 +1,155 @@
+{
+  "unitId": 437,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "3. ÜNİTE: YAŞAMIN GİZEMİ",
+  "hours": "26",
+  "description": "Bu ünitede DNA ve genetik kod kavramlarının ve aralarındaki ilişkilerin açıklanması, mitoz ve mayoz bölünmelerin karşılaştırılması, kalıtıma ilişkin kavramların açıklanıp tek karakter çaprazlama problemleriyle ilgili çıkarım yapılması, akraba evliliklerinin genetik sonuçlarının tartışılması, mutasyon ve adaptasyon kavramlarıyla canlılardaki değişimlerin açıklanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: DNA ve Genetik Kod",
+      "processComponents": []
+    },
+    {
+      "code": "FB.8.3.1.1",
+      "title": "Nükleotid, gen, DNA ve kromozom kavramları arasındaki ilişkiyi yapılandırabilme",
+      "processComponents": [
+        "a) Nükleotid, gen, DNA ve kromozom kavramlarını inceleyerek hiyerarşik ilişkileri ortaya koyar.",
+        "b) Nükleotid, gen, DNA ve kromozom kavramlarının uyumlu bir bütün olduğunu açıklar."
+      ]
+    },
+    {
+      "code": "FB.8.3.1.2",
+      "title": "DNA'nın yapısını model üzerinde gözlemleyebilme",
+      "processComponents": [
+        "a) DNA'nın yapısının niteliklerini tanımlar.",
+        "b) DNA'nın yapısını model üzerinde inceleyerek verileri kaydeder.",
+        "c) Elde edilen verileri açıklar. 2. Bölüm: Mitoz ve Mayoz"
+      ]
+    },
+    {
+      "code": "FB.8.3.2.1",
+      "title": "Mitoz ve mayoz kavramları arasındaki ilişkiyi karşılaştırabilme",
+      "processComponents": [
+        "a) Mitoz ve mayoz kavramlarına ilişkin özellikleri belirler.",
+        "b) Mitoz ve mayoz kavramlarına ilişkin benzerlikleri listeler.",
+        "c) Mitoz ve mayoz kavramlarına ilişkin farklılıkları listeler. 3. Bölüm: Kalıtım"
+      ]
+    },
+    {
+      "code": "FB.8.3.3.1",
+      "title": "Kalıtımla ilgili kavramları yapılandırabilme",
+      "processComponents": [
+        "a) Kalıtımla ilgili kavramlar arasında mantıksal ilişkileri ortaya koyar.",
+        "b) Kalıtımla ilgili kavramları uyumlu bir bütün olarak açıklar."
+      ]
+    },
+    {
+      "code": "FB.8.3.3.2",
+      "title": "Tek karakter çaprazlamaları ile ilgili problemler çözerek sonuçları değerlendirebilme",
+      "processComponents": [
+        "a) Tek karakter çaprazlamaları ile ilgili nitelikleri tanımlar.",
+        "b) Tek karakter çaprazlamaları ile ilgili problemler çözerek sonuçlara ilişkin verileri kaydeder.",
+        "c) Sonuçlara ilişkin elde ettiği verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.8.3.3.3",
+      "title": "Akraba evliliklerinin genetik sonuçlarını tartışabilme",
+      "processComponents": [
+        "a) Akraba evliliklerinin genetik sonuçlarına yönelik mantıksal temellendirme yapar.",
+        "b) Akraba evliliklerinin genetik sonuçlarına yönelik mantıksal tutarsızlıkları tespit eder.",
+        "c) Akraba evliliklerinin genetik sonuçları konusunda geçerli bir fikir oluşturur. 4. Bölüm: Mutasyon ve Adaptasyon"
+      ]
+    },
+    {
+      "code": "FB.8.3.4.1",
+      "title": "Mutasyonla ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Mutasyon ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Mutasyon hakkındaki bilgileri bulur.",
+        "c) Mutasyon hakkında bulduğu bilgileri doğrular.",
+        "ç) Mutasyon hakkında ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "FB.8.3.4.2",
+      "title": "Canlıların yaşadıkları çevreye uyumlarına ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Canlıların yaşadıkları çevreye uyumlarına ilişkin ön gözlem ve deneyimi ilişkilendirir.",
+        "b) Canlıların yaşadıkları çevreye uyumlarına ilişkin çıkarım yapar.",
+        "c) Canlıların yaşadıkları çevreye uyumlarına ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "DNA'nın yapısı, nükleotid, gen, kromozom, mitoz bölünme, mayoz bölünme, alel, genotip, fenotip, saf döl, melez döl, baskın, çekinik, çaprazlama, cinsiyet, akraba evlilikleri, mutasyon, adaptasyon, doğal seçilim, varyasyon",
+  "support": [
+    "DNA modeli oluştururken modele ilişkin ek açıklama yapılması, arkadaşlarından yardım almaları sağlanabilir. Öğrencilerin dijital ortamda tek karakter çaprazlamaya ilişkin soruları çözebilecekleri oyun oynamaları sağlanabilir. Öğrencilerin canlıları yaşam alanlarına yerleştirerek adaptasyon konusunu tekrar edebilecekleri eşleştirme oyunları oynamaları sağlanabilir. Dijital içeriklerle adaptasyon ve mutasyon kavramlarını tekrar etmeleri için görsel ağırlıklı etkinlikler uygulanabilir."
+  ],
+  "enrichment": [
+    "DNA modeli oluştururken modele ilişkin ek açıklama yapılması, arkadaşlarından yardım almaları sağlanabilir. Öğrencilerin dijital ortamda tek karakter çaprazlamaya ilişkin soruları çözebilecekleri oyun oynamaları sağlanabilir. Öğrencilerin canlıları yaşam alanlarına yerleştirerek adaptasyon konusunu tekrar edebilecekleri eşleştirme oyunları oynamaları sağlanabilir. Dijital içeriklerle adaptasyon ve mutasyon kavramlarını tekrar etmeleri için görsel ağırlıklı etkinlikler uygulanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, tanılayıcı dallanmış ağaç, yapılandırılmış grid, eşleştirme testi, kavram ağı, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri, bir ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. DNA'nın yapısını gösteren bir model oluşturmasını içeren performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Mayoz ve mitoz karşılaştırma tablosu posteri hazırlama performans görevi olarak verilebilir. Bu görev, kontrol listesiyle değerlendirilebilir. Mutasyona ait bilgi toplamalarını ve poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevi verilebilir. Bu görev, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Yaşam alanlarındaki canlı örneklerini rol oynayarak, çizerek, hikâyeleştirerek anlatmalarını içeren performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı ve hikâye haritası formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.8.3.1.1 Öğrencilerin kalıtım materyaline ilişkin ön bilgileri, beyin fırtınası vb. teknikler kullanılarak açık uçlu sorularla sorgulanır. Nükleotid, gen, DNA ve kromozom kavramları kavram haritası vb. yöntemlerle açıklanır. Ardından öğrencilerin analoji, rol yapma vb. yöntemlerle bu kavramları inceleyerek hiyerarşik ilişkileri ortaya koymaları sağlanır ( OB1 ) . Rol oynama sırasında öğrencilerin olumlu iletişim dili kullanmaları ve süreçte eğlenerek öğrenmeleri beklenir ( E2.5 , SDB2.1 ) . Büyüklük sıralamasına girilmeden kromozom ve DNA arasındaki hiyerarşik ilişki verilir. Öğrencilerin kavramlar arasındaki ilişkiye analoji yoluyla günlük yaşamdan örnekler vermeleri istenir. Öğrencilerin elde ettiği bilgilerle var olan bilgilerini bütünleştirmeleri, DNA ve genetik kod kavramlarının uyumlu bir bütün oluşturduğu sonucuna ulaşmaları beklenir. Bu aşamada iş birlikli tartışma tekniklerinden biri kullanılır ( SDB2.1 ) . Tartışma sırasında sabırlı ve olgun davranabilmeleri ve grup içinde tartışmalarda liderlik gibi becerilerinin gelişmesi beklenir ( D12.3 , D3.4 ) . Öğrencilerin bu hiyerarşik ilişkiyi yapılandırmaları çalışma kâğıdı vb. araçlarla değerlendirilebilir. Analoji kurma aşamasında sosyal bilgiler, rol oynama sürecinde ve iş birlikli tartışma teknikleri kullanma aşamasında kendilerini ifade ederken Türkçe dersiyle ilişki kurmaları sağlanır.",
+    "FB.8.3.1.2 Öğrenciler gruplara ayrılır ve öğrencilerin olumlu iletişimin sağlandığı grup tartışmasıyla DNA yapısı sorgulanır ( SDB2.1 ) . Ardından DNA'ya ait niteliklerini tanımlamaları sağlanır. Öğrencilerin model, video, animasyon vb. görsel ve dijital araçlarla inceleyerek DNA'nın yapısını belirlemeleri sağlanır ( KB2.16.2 , OB4 , OB2 ) . DNA'nın yapısındaki bağların adlarına ve özelliklerine girilmeden sadece nükleotidler arası bağlar olduğuna değinilir. Pürin ve pirimidin ayrımına girilmeden azotlu organik bazların isimleri ve eşleşmeleri ile şeker ve fosfat molekülleri tanıtılır. Öğrencilerden DNA'nın yapısına ait elde edilen verileri özetleyip açıklamaları istenir ( OB1 ) . Bu aşamada grup çalışması yapılır ( SDB2.2 ) . Öğrencilerin açıklamalarını farklı malzemelerle DNA'nın yapısını gösteren bir model tasarlayarak yapmaları istenir. Tasarlanan model, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Süreçte öğrencilerin araştırmacı ve sorgulayıcı bakış açısıyla hareket etmesi, yardımlaşması ve yaratıcı düşünmesi teşvik edilir ( D3.3 , D20.2 , E3.3 ) . Nükleotid hesaplamalarına girilmez, DNA'nın kendini eşlemesi çift zincirli yapı üzerinden basit bir şekilde açıklanır. Bu noktada video, animasyonlar vb. araçlardan faydalanır ( OB1 , OB2 ) . Hangi durumda DNA'daki hataların onarılamayacağına değinilir. DNA ile ilgili çalışmalar yürüten bilim insanları ve yaptıkları çalışmalardan bahsedilir. Tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. ölçme araçları değerlendirmeler için kullanılabilir.",
+    "FB.8.3.2.1 Eşeyli ve eşeysiz üreme kavramlarına ilişkin ön bilgilerini yoklamak amacıyla beyin fırtınası tekniği kullanılarak hücre bölünmelerinin çeşitlerine giriş yapılabilir. Bu bölünmelere ait özellikler dijital ortam, basılı kaynak vb. materyallerle inceletilerek sorgulamaları sağlanır ( OB4 , OB2 ) . Ardından kavramlar açıklanır. Öğrencilerin sorgulama yoluyla bu kavramlara ait özellikleri belirlemeleri sağlanır. Öğrencilerin mitoz ve mayozun benzerlik ve farklılıklarını listelemeleri istenir. Bu aşamada gruplar oluşturularak birlikte çalışmaları teşvik edilir ( SDB2.1 ) . Mitoz ve mayoz bölünmenin evrelerine girilmeden mayoz bölünmenin iki aşamadan oluştuğuna değinilir. Belirlenen benzerlik ve farklılıkların grupların olumlu iletişim ve nezaket çerçevesinde karşılaştırıp tablo oluşturmaları sağlanır ( SDB2.1 , D14 ) . Karşılaştırma tablosunu poster hâlinde sunmaları istenir ( OB4 ) . Poster, kontrol listesiyle değerlendirilebilir. Ayrıca kavramlara yönelik video, animasyon, dijital hikâye vb. araçlarla öğrenmelerin pekiştirilmesi sağlanır ( OB2 ) . Öğrenme çıktıları eşleştirme testi, tanılayıcı dallanmış ağaç vb. ölçme araçları ile değerlendirilebilir. Tartışma ve tablo oluşturma sırasında Türkçe dersinde yer alan iletişim becerilerinden faydalanılabilir.",
+    "FB.8.3.3.1 Öğrencilere akraba olan kişilerin benzerlik ve farklılıklarını kıyaslayarak nedenlerini sorgulamaları için kalıtım ve karakter kavramıyla ilgili açık uçlu sorular sorulur ( SDB3.3 ) . Bu noktada \"Aslı ne ise nesli odur.\" atasözü verilerek bu atasözünün anlamı hakkında tartışmaları istenir ( OB5 ) . Mendel ve çalışmaları dikkate alınarak karakter, gen, alel, baskın, çekinik, saf döl, melez döl, genotip ve fenotip kavramları açıklanır. Öğrencilerin bu kavramlar arası mantıksal ilişkileri ortaya koymaları beklenir ( OB1 , SDB1.2 ) . Süreçte kavram haritası oluşturmaları sağlanarak kavramlar arasında temel düzeyde ilişki kurmaları beklenir. Öğrencilerin kalıtımla ilgili kavramları uyumlu bir bütün olarak açıklamaları beklenir ( OB1 , KB2.16.1 ) . Öğrencilerin bu mantıksal ilişkiyi yapılandırmaları çalışma kâğıdı, kavram ağı vb. araçlarla değerlendirilebilir.",
+    "FB.8.3.3.2 Mendel'in bezelye bitkisi üzerinde yaptığı deneylerle ilgili tablo, şema vb. görseller gösterilerek açık uçlu sorularla öğrencilerin bu deneyleri sorgulamaları sağlanır (OB4). Bezelye bitkisini kullanmanın sağladığı avantajlara değinilir. Mendel'in bezelyeler üzerinde yaptığı çalışma tek karakter örneğinden açıklanır. Öğrencilerin tek karakter çaprazlamaya ait nitelikleri tanımlamaları beklenir. Bezelye bitkisindeki tek karakter özelliklerini içeren örnek problem sunulup öğrencilerin örneği incelemesi sağlanır. Bu noktada sadece bezelyelerdeki baskın ve çekinik aleller kullanılarak farklı problemler üretilir. Gruplara ayrılan öğrencilerin problemleri yardımlaşarak çözmeleri sağlanır ( SDB2.2 , SDB3.3 , D20.1 ) . Öğrencilerin problem çözme aşamasında ulaştıkları bilgileri kaydetmeleri sağlanır ( OB7 ) . Birinci ve ikinci nesillere ait oluşacak dölleri belirlemeleri sağlanır. Öğrencilerin elde ettikleri verileri grup olarak değerlendirmeleri istenir ( SDB2.2 , OB2.7 ) . Süreçte birinci ve ikinci nesle ait oluşan döllerin oranlarını belirlemeleri, fenotip ve genotip olarak açıklamaları ve bu döllerin yavru bireylere aktaracağı özelliklerin neler olacağını araştırmacı ve sorgulayıcı bakış açısıyla tahmin etmeleri beklenir ( KB3.1 , D3.3 ) . Çaprazlamalara girmeden diğer canlılarda da karakter aktarımın benzer olduğu vurgulanır. Öğrencilerden cinsiyetin nasıl belirlendiğini açıklamaları istenir. İnsanda cinsiyetin babadan gelen eşey kromozomu ile belirlendiği açıklanır ( SDB2.3 , SDB3.3 ) . Çalışma kâğıtları, açık uçlu sorular vb. ölçme araçları değerlendirmeler için kullanılabilir.",
+    "FB.8.3.3.3 Öğrencilerin akraba evliliğinin genetik sonuçları hakkındaki düşünceleri beyin fırtınası vb. teknikler ile sorgulanır. Ürettikleri fikirler doğrultusunda öğrencilerin gruplara ayrılarak grafik, tablo vb. veriler üzerinden tartışmalar istenir ( OB4 ) . Akraba evliliklerinin genetik sonuçlarına yönelik mantıksal temellendirme yapmaları sağlanır. Ülkemizde sık görülen genetik hastalıklar ile ölü ve engelli doğumların akraba evliliğine ilişkin veriler incelenerek durumu analiz etmeleri sağlanır ( OB7 ) . Bu verilerin değerlendirmesi yapılırken öğrencilerden grup içinde aktif olarak sürece dâhil olmaları, görev bilinciyle çalışmaları sağlanır ( D3.4 , D16.3 , SDB2.2 ) . Grup üyelerinin yardımlaşmaları beklenir ( D20.1 ) . Akraba evliliklerinin genetik sonuçlarının her çocukta görülmemesi vb. mantıksal tutarsızlıkları tespit etmeleri sağlanır. Gruplar arasında elde edilen fikirler sınıf tartışmasına açılarak akraba evliliklerinin genetik sonuçları konusunda geçerli bir fikir oluşturmaları sağlanır ( OB1 , KB3.3 , KB3.1 ) . Akraba evliliği dışındaki evliliklerde daha düşük ihtimalle de olsa bu sonuçların olabileceğine değinilir. Açık uçlu sorular, tanılayıcı dallanmış ağaç vb. ölçme araçları değerlendirmeler için kullanılabilir.",
+    "FB.8.3.4.1 Öğrencilerden mutasyonla ilgili bir durumu örnek olay yöntemi ile tartışmaları istenebilir. Örnek olay çerçevesinde merak duygusunu artırmak için açık uçlu sorular sorulur ( E1.1 ) . Öğrencilere mutasyon konusunda bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilir ( SDB1.2 ) . Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacağı araçları belirlemeleri beklenir. Bilgiye ulaşmak için kullanacağı araçlar olarak güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı kaynaklardan yararlanabilirler. Bu noktada öğrencilere rehberlik edilebilir. Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak güvenilir araçları belirlemeleri sağlanır ( OB2 , OB1 , E3.4 , E3.8 ) . Belirledikleri aracı kullanarak mutasyon hakkında bilgi toplamaları istenir ( OB7 ) . Öğrencilerin uzman veya bilimsel kaynaklardan elde ettiği bilgileri arkadaşları ile tartışarak doğrulamaları beklenir ( D11.2 , OB7 , OB1 ) . Video, sunu, röportaj yapma vb. sunum teknikleri de kullanılabilir. Sınıf içi sunumları sırasında doğruladığı bilgileri kaydetmeleri istenir ( OB1 ) . Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri dersleriyle ilişki kurulabilir ( OB2 ) . Performans görevi sürecinde görev bilinciyle sorumlu davranması ve süreçte plana göre hareket etmesi beklenir ( D3.2 , E2.2 , D16.3 ) . Üreme hücrelerinde oluşan mutasyonun kalıtsal olduğu ve yavru bireye aktarılabileceği vurgulanır. Mutasyonların canlı yaşamına olumlu ve olumsuz etkileri konusunda gruplar oluşturularak iş birlikli bir yaklaşımla öğrencilerin kendilerini ifade etmeleri sağlanarak tartışma ortamı oluşturulur ( E3.5 , KB3.3 ) . Ayrıca ulaştıkları bilgiler doğrultusunda yeterli ve dengeli beslenme, zararlı maddeler kullanma, radyasyon, aşırı güneş ışığı ve kimyevi maddelere maruz kalma vb. durumların mutasyona etkisine değinilerek sağlıklı yaşama özen göstermeleri beklenir ( D13.4 ) . Bu performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "FB.8.3.4.2 Çeşitli kalıtsal özelliklerini değiştirerek yaşam alanına uyum sağlayan çöl tilkisi, boz ayı vb. ile ilgili basılı kaynaklar, belgesel, animasyon vb. sunularak öğrencilerin bu canlıların görsellerini merak duygusuyla incelemesi beklenir ( OB4 , SDB3.1 , E1.1 ) . Buluş yoluyla yönlendirici sorular sorularak öğrencilerin canlıya ait özellikleri belirlemeleri ve bu özelliklerin sebebini sorgulamaları sağlanabilir. Bu örneklerden yola çıkarak canlıların yaşadıkları çevreye uyumlarına ilişkin gözlemlerini ilişkilendirmeleri sağlanır ( D9.3 ) . Aynı türe ait kutup tilkisi, kutup ayısı vb. başka örnekler sunulur. Bu noktada, canlıların tür içi çeşitliliği üzerinden varyasyon kavramını keşfetmeleri beklenir ( KB2.16.1 ) . Öğrenciler gruplara ayrılarak her gruba bir yaşam alanı örneği verilebilir ve yaşam alanındaki canlı örneklerini belirlemeleri istenebilir ( SDB2.2 , SDB2.1 ) . Varyasyon ve doğal seçilimin etkisine ilişkin yönlendirici sorular yöneltilerek adaptasyonla ilişkisini fark etmeleri beklenir ( OB1 ) . Yaşam alanlarındaki canlı örneklerini oyunlaştırma, hikâyeleştirme vb. yöntemlerle anlatmalarını içeren aktif görev aldıkları performans görevi verilir ( E2.5 , D3.3 ) . Öğrencilerin belirli yaşam alanlarında bulunan canlıların çevreye uyumlarına ilişkin çıkarım yapmaları beklenir. Performans görevi, analitik dereceli puanlama anahtarı ve hikâye haritası formu kullanılarak değerlendirilebilir. Varyasyon ve doğal seçilim kavramları açıklanır. Öğrencilerin canlıların yaşadıkları çevreye uyumlarına ilişkin yargıda bulunmaları istenir ( KB3.1 , SDB3.3 , SDB2.1 ) . Bu aşamada öğrencilerin canlıların farklı özelliklerini dikkate alarak farklılıklara saygı duymaları, canlıya ve çevreye değer vermeleri beklenir ( SDB2.3 , D5.2 , D9.3 ) . Yapılandırılmış grid, tanılayıcı dallanmış ağaç vb. ölçme araçları değerlendirmeler için kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D12.3",
+      "D13.4",
+      "D14",
+      "D16.3",
+      "D20.1",
+      "D20.2",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E2.5",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.16.1",
+      "KB2.16.2",
+      "KB3.1",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB2.7",
+      "OB4",
+      "OB5",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/437"
+}

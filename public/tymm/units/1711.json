@@ -1,0 +1,62 @@
+{
+  "unitId": 1711,
+  "grade": 0,
+  "gradeName": "AFET BİLİNCİ DERSİ I. DÜZEY",
+  "subject": "Afet Bilinci Dersi",
+  "title": "DÜZEY I · 1. Ünite: Afet Ve Afet Bilinci",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AB.1.1.1",
+      "title": "Afet ile ilgili temel kavramlar hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Afet ile ilgili temel kavramlar hakkında bilgi toplayabileceği araçları belirler.",
+        "b) Afet ile ilgili temel kavramlar hakkında belirlediği araçlardan bilgileri bulur.",
+        "c) Afet ile ilgili temel kavramlar hakkında belirlediği araçlardan ulaşılan bilgileri doğrular.",
+        "ç) Afet ile ilgili temel kavramlar hakkında belirlediği araçlardan ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "AB.1.1.2",
+      "title": "Afetlere neden olabilecek doğa ve insan kaynaklı olayları sınıflandırabilme",
+      "processComponents": [
+        "a) Afetlere neden olabilecek doğa ve insan kaynaklı olaylara ilişkin değişkenleri belirler.",
+        "b) Afetlere neden olabilecek doğa ve insan kaynaklı olayları ayrıştırır.",
+        "c) Afetlere neden olabilecek doğa ve insan kaynaklı olayları tasnif eder.",
+        "ç) Afetlere neden olabilecek doğa ve insan kaynaklı olayları etiketler."
+      ]
+    },
+    {
+      "code": "AB.1.1.3",
+      "title": "Afetlere karşı bilinçli olmanın afet ve acil durum yönetimindeki önemini yorum layabilme",
+      "processComponents": [
+        "a) Afetlere karşı bilinçli olmanın afet ve acil durum yönetimindeki önemini inceler.",
+        "b) Afetlere karşı bilinçli olmanın afet ve acil durum yönetimindeki önemini bağlamdan kopmadan dönüştürür.",
+        "c) Afetlere karşı bilinçli olmanın afet ve acil durum yönetimindeki önemini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "acil durum, Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), afet, afet bilinci, afet türleri, afet yönetimi, bireysel sorumluluk, çevresel farkındalık, doğa kaynaklı olay, Gök Vatan (Ulusal Hava Sahası), hazırlık, insan kaynaklı olay, Mavi Vatan, müdahale, risk, tehlike, toplumsal dayanışma, Ulusal Medikal Kurtarma Ekibi (UMKE), yeşil beceriler ve ikiz dönüşüm, Yeşil Vatan, zarar azaltma",
+  "support": [
+    "Öğrencilerden afet ve acil durumlarda başvurulabilecek kurumların (AFAD, UMKE, Türk Kızılay vb.) logo ve isimlerini eşleştiren kartlar hazırlamaları istenebilir. Öğrencilerden üzerinde afete neden olan olayların adları (yangın, deprem, sel vb.) ve kısa tanımlarının yer aldığı eşleştirme kartları hazırlamaları istenebilir. Hazırladıkları kartları, bu olayları “doğa kaynaklı” veya “insan kaynaklı” şeklinde sınıflandırarak etiketlemeleri sağla nabilir. Öğrencilerden afet bilinci ile ilgili bir resim çizmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden seçtikleri afet türüne yönelik dijital ortamda “Afet Bilgi Kartları” hazırlama ları istenebilir. Hazırladıkları kartta afetin adı, afet durumunda başvurulabilecek kurum, kurumun iletişim bilgileri (telefon, web sitesi vb.) ve afet öncesi, sırası ve sonrasında alın ması gereken önlemler yer almalıdır. Öğrencilerden doğa ve insan kaynaklı olayları görselleştirmeye yönelik dijital kavram ha ritası hazırlamaları, ayrıca dijital hikâye araçlarını kullanarak afet bilincinin afet yönetimin deki rolünü vurgulayan “Kamu Spotu Senaryosu” oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde akran değerlendirme formu, öz değerlendirme formu, kontrol listesi, dereceli puanlama anahtarı, performans görevi vb. ölçme ve değerlendirme araçları kullanılabilir. Performans görevi kapsamında bireysel veya grup hâlinde hazırlanan afet ve afet yönetimini tanıtan bir afiş, pano veya bilgi görseli gibi ürünler dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AB.1.1.1",
+    "Öğrencilere tehlike, risk, afet ve afet yönetimi vb. kavramlara ilişkin yazılı ve görsel örnek ler sunularak konuya ilişkin merak uyandırılır ( OB1 , OB4 , E1.1 ). Bu aşamada dijital araç gereçten de yararlanılabilir ( OB2 ). Öğrencilerden bu örnekleri inceledikten sonra afet ve acil durum yönetimi hakkında bilgi edinebilecekleri kaynakları belirlemeleri istenir. Belirledikleri kaynaklardan tehlike, risk, afet, acil durum ve afet yönetimi gibi kavramlarla ilgili bilgileri toplamaları sağlanır ( OB1 ). Bu aşamada çalışkanlık değeri kapsamında afet ve afet yönetimi hakkında bilgi toplamanın disiplinli ve planlı bir çalışma gerektirdiği, vatandaşlık değeri kapsamında millî bilinç sahibi olmanın önemi vurgulanır ( D3.2 , D19.1 ). Öğrenciler den afet ve afet yönetimiyle ilgili ulaştıkları bilgileri farklı türden kaynaklarla karşılaştırarak doğrulamaları istenir. Özellikle kriz anlarında yayılan sahte duyuru örnekleri incelenerek doğru bilgiye ulaşmada bilgi doğrulama platformlarının ve resmî kaynakların önemi vurgulanır. Afet ve afet yönetimine ilişkin kaynaklardan elde edilen bilgiler “Büyük Grup Tartışması” tekniği uygulanarak güncellik ve bilimsellik açısından değerlendirilir ( SDB2.1 , KB2.17 ). Öğrencilerden performans görevi kapsamında bireysel veya grup hâlinde afet ve afet yönetimini tanıtan bir afiş, pano veya bilgi görseli hazırlayarak doğruladığı bilgileri kaydetmeleri sağlanabilir ( SDB2.2 ). Hazırlanan ürünler dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "AB.1.1.2",
+    "Öğrencilere afetlere neden olabilecek doğa kaynaklı olaylar (deprem, sel, heyelan, çığ, fır tına, kuraklık, zirai don vb.) ve insan kaynaklı olaylar (yangın, ulaşım kazaları, endüstriyel kazalar, nükleer, biyolojik, kimyasal kazalar vb.) ile ilgili yazılı ve görsel örnekler sunulur ( OB1 , OB4 ). Bu aşamada dijital araç gereçten de yararlanılabilir ( OB2 ). Öğrencilerin afetle re yol açabilecek değişkenleri (iklim, teknoloji, jeolojik yapı vb.) belirlemeleri sağlanır. Afet türlerini bu değişkenlere göre ayrıştırmaları beklenir. Bunun için öğretmen tarafından tahtaya anlam çözümleme tablosu çizilir. Öğrencilerden bu tabloyu afet türlerinin oluşu munda etkili olan değişkenleri (doğa olayları, teknolojik hatalar, insan ihmalleri vb.) dikkate alarak doldurmaları istenir ( SDB3.3 ).",
+    "Öğrenciler afet türlerini “doğa kaynaklı” ve “insan kaynaklı” afetler şeklinde tasnif eder. Bu süreçte öğrencilerin “Ben kimim?” veya “Nesi var?” gibi oyunlarla afet türlerini drama yoluyla canlandırmaları sağlanır ( E2.5 , E3.3 , SDB2.1 , SDB2.2 ). Öğrencilerden canlandırdıkları afet türlerini doğru şekilde adlandırarak tahtada etiketlemeleri istenir. Öğrenci lerin doğa ve insan kaynaklı afet türlerini konu alan afiş, broşür veya kolaj gibi ürünler hazırlamaları ve bu ürünleri sınıfta sergilemeleri sağlanır. Böylelikle öğrencilerin afet bilincine sahip olmaları desteklenir ( D5.3 ). Öğrenci ürünleri dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "AB.1.1.3",
+    "Ülkemizde yaşanmış afetlere ilişkin örnek olaylar ve görsel kaynaklar sunulur. Öğrencilerden bu örnek olayları ve kaynakları incelemeleri istenir ( OB1 , OB4 ). Bu süreçte ayrıca dijital kaynaklar da kullanılabilir ( OB2 ). Kaynaklar üzerinden afetlerin toplum üzerindeki genel etkileri tartışılır ( SDB2.1 ). Öğrencilerin inceledikleri kaynaklardan hareketle afetle rin yıkıcı etkilerini azaltmada afet bilincinin önemini kavramaları sağlanır ( SDB3.3 ).",
+    "Bu aşamada “Yeşil Vatan” ve “Mavi Vatan” kavramlarına değinilerek vatanseverlik değeri kapsamında ülkemizin doğal varlıklarını korumanın önemi vurgulanır ( D19.3 ). Mavi Vatan başta olmak üzere diğer su kaynaklarının bütüncül afet yönetimindeki yerine değinilir. Afetlerin yıkıcı etkisini azaltmada bireysel ve toplumsal hazırlığın bir vatandaşlık görevi olduğuna vurgu yapılır ( D16.3 , OB6 ). Afetlerde zarar azaltma önlemleri üzerinde durulur. Bu bağlamda öğrencilerin Mavi Vatan ve Gök Vatan (Ulusal Hava Sahası) sınırları içinde ki doğal zenginliklerimizi tanımaları, afet güvenliği ve kuraklıkla mücadele kapsamında stratejik bir öneme sahip olan tatlı su kaynaklarını koruma ve bu kaynaklara değer verme bilincini geliştirmeleri sağlanır ( D16.1 , OB8 ). Ayrıca öğrencilerin afetlerin olası etkilerini en aza indirgemek için bireysel düzeyde uygulayabilecekleri temel risk azaltma durumlarını fark etmeleri sağlanır. Öğrencilere afet ve acil durumlarda başvurulabilecek kurum ve kuruluşlar hakkında bilgiler verilir. Bu süreçte öğrencilerin Okul Dışı Öğrenme Platformu’nu (okuldisiogrenme.eba.gov.tr) ziyaret ederek “Okul Dışı Öğrenme Ortamlarını Keşfet” say fasındaki harita üzerinde yaşadıkları ili seçmeleri; bu ildeki afet ve acil durum yönetimiy le ilgili kuruluşları tanıtan sayfaları incelemeleri sağlanabilir. Bilgi kirliliğine karşı doğru ve güvenilir bilgi kaynaklarının önemi vurgulanır. Yaşanan afetlerin etkilerini azaltmada toplumsal dayanışma ve sevgi bilincinin rolü, kriz anlarında sabır ve metanetin önemi ile kurallara uymanın gerekliliği vurgulanır ( D6.1 , D12 , D15 , D20.2 , E2.2 ). Afet ve acil durumlarda çocuk hakları başta olmak üzere afet ve acil durumlarda dezavantajlı/savunmasız gruplar hakkında bilgi verilir. Öğrenciler “Zıt Panel” tekniği kullanılmak üzere iki gruba ayrılır (SDB2.2). Afet ve acil durum yönetimiyle ilgili olarak gruplardan soru ve cevaplar hazırlamaları istenir; bu süreç, bağlamdan kopmadan bir tartışmaya dönüştürülür ( SDB2.1 ). Öğrencilerden afet ve acil durum yönetiminde bilinçli olmanın önemini vurgulayan yazılı, görsel veya dijital bir ürün hazırlamaları, bu ürünü sınıfta sunarak içeriğini nesnel, doğru ve anlamını değiştirmeden yeniden ifade etmeleri beklenmektedir. ( OB1 , OB2 , OB4 ). Bu ürünler dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1711"
+}

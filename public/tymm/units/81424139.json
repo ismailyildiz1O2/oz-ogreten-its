@@ -1,0 +1,41 @@
+{
+  "unitId": 81424139,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "139. ÜNİTE: MİNYATÜR - TÜRK MİNYATÜR SANATININ GENEL ÖZELLİKLERİ",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.5.2.1",
+      "title": "Uygur, Selçuklu ve Osmanlı minyatürlerinin genel özelliklerini açıklar",
+      "processComponents": [
+        "8 ve 9. yüzyıllarda Uygur resim sanatından biri olan minyatürün Selçuklu ve Osmanlı Dönemlerindeki değişim ve gelişimi örneklerle anlatılır."
+      ]
+    },
+    {
+      "code": "GTSA.5.2.2",
+      "title": "Uygur, Selçuklu ve Osmanlı minyatürlerinin konularını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.2.3",
+      "title": "Uygur, Selçuklu ve Osmanlı minyatürlerinin kompozisyon özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.5.2.4",
+      "title": "Uygur, Selçuklu ve Osmanlı minyatürlerinde rengin kullanımını açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

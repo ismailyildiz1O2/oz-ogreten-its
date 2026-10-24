@@ -1,0 +1,115 @@
+{
+  "unitId": 815,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Spor Okulları - Kapsamlı Spor Eğitimi Dersi",
+  "title": "3. ÜNİTE: TAKIM SPORLARI (BASKETBOL)",
+  "hours": "28",
+  "description": "Ünite kapsamında öğrencilerin seçilen takım sporu branşının tarihçesini ve kurallarını öğrenmeleri hedeflenmektedir. Ayrıca öğrencilerin bu branşa özgü temel becerileri geliştirmeleri, eşli ve grup hâlinde hareket etmeleri ve oyun içinde taktik ve strateji geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KSE.2.1",
+      "title": "Takım sporlarında seçilen spor branşının geçmişten günümüze gelişimini ve tarihçesini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KSE.2.2",
+      "title": "Takım sporlarında seçilen spor branşının oyun kurallarını ifade edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KSE.2.3",
+      "title": "Takım sporlarında seçilen spor branşına ilişkin hareket becerileri sergileyebilme",
+      "processComponents": [
+        "a) Seçilen spor branşına ilişkin hareket becerilerini algılar.",
+        "b) Seçilen spor branşına ilişkin hareket becerilerinin basamaklarını gösterir.",
+        "c) Seçilen spor branşına ilişkin hareket becerilerini farklı ortamlarda uygular."
+      ]
+    },
+    {
+      "code": "KSE.2.4",
+      "title": "Takım sporlarında grupla hareket edebilme",
+      "processComponents": [
+        "a) Takım sporlarında grupla hareket ederken rollerini tanımlar.",
+        "b) Takım sporlarında grupla hareket ederken rollerini yerine getirir. c ) Takım sporlarında grupla uyumlu hareket eder."
+      ]
+    },
+    {
+      "code": "KSE.2.5",
+      "title": "Grup liderliği sergileme",
+      "processComponents": [
+        "a) Takım sporlarında grup liderliği özelliklerini tanır.",
+        "b) Takım sporlarında grup liderliği özelliklerini gösterir."
+      ]
+    },
+    {
+      "code": "KSE.2.6",
+      "title": "Takım sporlarında seçilen branşlara ilişkin taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Seçilen branşlara ilişkin taktiksel problemi belirler.",
+        "b) Seçilen branşlara ilişkin taktiksel problemin çözümüne yönelik öneri sunar.",
+        "c) Seçilen branşlara ilişkin belirlenen taktik ve stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dayanıklılık, fiziksel aktivite, grup, liderlik, oyun kuralları, spor branşı, takım sporları, taktik, tarihçe",
+  "support": [
+    "Öğrencilere hareket becerilerini geliştirme sürecinde akran desteği sunularak hızlı geri bildirim almaları sağlanabilir. Taktiksel problemler daha basit ve temel seviyede sunularak çözüm yollarını bulmaları ve denemeleri istenebilir. Uygulamalar kolaylaştırılarak öğrencilerin kendi seviyesinde ve hızında çalışmalara katılması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere bireyselleştirilmiş program sunularak kendi seviyesinde alıştırma yapma ve ilerleme fırsatı sunulabilir. Taktiksel problem, daha karmaşık hâle getirilerek çözüm yollarını bulmaları ve denemeleri istenebilir. Öğrencilerden takım arkadaşlarıyla yeni bir oyun stratejisi tasarlayarak sahada uygulamaları istenebilir. Uygulamalar zorlaştırılarak öğrencilerin kendine uygun bir zorluk seviyesinde çalışmalara katılması sağlanabilir."
+  ],
+  "assessment": [
+    "Bu dersin öğrenme çıktılarında yer alan performanslar; ön test-son test, gözlem formları, akran değerlendirme, öz değerlendirme ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca öğrenme çıktılarında yer alan ödevlendirmeler kontrol listeleri ile performans görevleri ise dereceli puanlama anahtarları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KSE.2.1. Öğrencilere takım sporlarının insanlığın sosyal etkileşim ve rekabet arayışının önemli bir parçası olduğu açıklanarak bu sporların fiziksel dayanıklılık, stratejik düşünme, ekip çalışması gibi birçok özelliği geliştirdiği açıklanır. Tarih boyunca toplumların kültürel ve sosyal yapısında takım sporlarının önemli bir yer aldığı vurgulanır ( OB5 ). Seçilen spor branşının tarihçesiyle ilgili farklı sorular sorularak öğrencilerde spor branşına ilişkin merak uyandırılır ( E1.1 ). Tartışma ortamı oluşturularak öğrencilerin görüşleri alınır. Seçilen spor branşının tarihçesi ve gelişimi ile ilgili görsel ve dijital kaynaklardan yararlanılarak bir sunum izletildikten sonra spor branşının tarihçesiyle ilgili bir zaman tüneli oluşturmaları istenir ( E3.2 , OB2 , OB4 ). Hazırladıkları zaman tünellerini ders ortamında paylaşmalarına fırsat verilip tartışma ortamı oluşturularak seçilen branşların geçmişten günümüze gelişimini ve tarihçesini açıklamaları sağlanır ( SDB2.1 ).",
+    "KSE.2.2. Öğrencilere her spor branşının belirli kuralları olduğu, kurallara göre oynandığı ile ilgili genel bir açıklama yapılır. \"Sporda ya da oyunlarda kurallar olmasaydı ne gibi sorunlar yaşanırdı?\", \"Seçilen spor branşıyla ilgili hangi kuralları biliyorsunuz?\" vb. sorular sorulur. Beyin fırtınası yöntemiyle tartışma ortamı oluşturulup, öğrencilerin görüşleri alınarak kurallara dair farkındalık kazanmaları sağlanır ( D14.1 ). Öğrencilere kural bilgisi öğretiminde aktif rol alabilecekleri etkinlikler yaptırılarak öğrenmeleri desteklenebilir ( D3.4 ) (Öğretmen rehberliğinde gruplar hâlinde oyunlar içerisinde kurallarla ilgili canlandırmalar yapılarak oyun sırasında ve sonunda öğrencilerin buldukları kuralları söylemeleri, kurallı ve kuralsız oyunlarla karşılaştırma yapıp farkındalık kazanmaları, kurallar tablosu oluşturmaları sağlanabilir.) ( E2.5 , SDB3.1 ). Etkinlikler sonunda öğrencilerin buldukları kurallara öğretmenin de desteğiyle (Görsel ve işitsel kaynaklardan yararlanabilir.) temel kurallar, oyun alanı, tesisler, malzemeler, puanlama kuralları vb. diğer kurallar da eklenerek öğrencilerin spor branşına özgü kuralları ifade edebilmeleri sağlanır ( OB4 ). Öğrencilerin daha önceki öğrenme yaşantılarında edindikleri temel bilgilerle ilişkilendirilerek ( SDB1.1 ) fiziksel aktivite öncesinde ısınma sonrasında ise soğuma yapılmamasının fiziksel güvenliğimiz açısından risk oluşturduğu açıklanarak fiziksel etkinlikler sırasında başka hangi unsurların bizim için risk oluşturabileceğine ilişkin öğrencilerin görüşleri alınır ( D14.2 ). Bu görüşler çerçevesinde genel bir değerlendirme yapılarak saha, zemin, ekipman, uygun malzeme, çevre özellikleri, hava şartları, sınırlar, alan farkındalığı, doğru teknik, ısınma-soğuma vb. durumlara ilişkin risklerin belirlenmesi sağlanır. Öğrencilerden oyun alanını gözlemleyerek güvenli olan/olmayan durumları içeren kontrol listeleri hazırlamaları istenir ( KB2.2 ). Bu süreçte öğrencilerin hem kendi fiziksel sınırlarını hem de arkadaşlarının kişisel alanını gözetmeleri ve bu sınırlara saygı göstermeleri gerektiği vurgulanır. Etkinliklerde mahremiyet kavramına dikkat çekilerek öğrencilerin sosyal ilişkilerde kişisel alanları koruma bilinci geliştirmeleri desteklenir ( D8.4 ). Tartışma ortamı oluşturularak öğrencilerin değerlendirmeleri yoluyla risklere karşı alınacak önlemlerin belirlenmesi sağlanır ( SDB3.3 , E3.6 ). Tüm etkinliklerde bu önlem ve tedbirlerin sağlanmasının önemi üzerinde durularak güvenli bir oyun ortamı oluşturmaya yönelik farkındalık kazanmaları sağlanır ( BEOSAB10 .). Ayrıca oyun alanının hijyenine ve kullanılan malzemelerin temizliğine dikkat edilmesi gerektiği vurgulanarak öğrencilerin yaşadığı ortamın temizliğine duyarlılık geliştirmeleri desteklenir ( D18.2 ). Öğrencilere adil oyunun (Fair-play) ne olduğu sorularak ön bilgileri yoklanır ( SDB1.1 ). Adil oyun anlayışı açıklanarak oyun senaryoları, canlandırmalar vb. çalışmalar ile empati yapmaları ve adil oyun kavramını algılamaları sağlanır ( E2.1 , D1.2 ). Adil oyun anlayışı geliştirici oyunlara yer verilerek taktiksel farkındalık kazandırmaya yönelik oyunlardan örnekler oynatılabilir ( BEOSAB8 .).",
+    "KSE.2.3. Öğrencilere spor branşına hazırlayıcı oyunlar oynatılır ( E2.5 ). Sporda tekniğin kullanımı ve önemine dair açıklamalar yapılır. Öğrencilere spor branşına hazırlayıcı oyunlardan ya da geçmiş yaşam ve spor deneyimlerinden yola çıkarak temel teknik bilgi ve düzeylerini ortaya çıkaracak sorular sorulup öğrencilerin spor branşına özgü temel beceriler ve tekniğe dair farkındalık kazanmaları sağlanır. Oyun ve etkinliklerle (oyunda ihtiyaç duyulan temel becerileri belirlemelerini isteyebilir vb.) spor branşına özgü temel teknik hareketleri öğrenmeye teşvik edilerek merak uyandırılır ( E1.1 , SDB1.1 ). Spor branşına özgü temel hareket becerileri ve teknikleri gözlemleyip, analiz edip deneyimlemelerine fırsat verilir ( SDB3.1 , E3.6 ). Bu süreçle öğrencilerin spor branşına özgü ihtiyaç duyulan becerileri algılaması sağlanır. Öğretmen rehberliğinde becerilere yönelik çalışmalar yapılır. Çalışma ve etkinliklerde öğretmen tarafından tekniğe ilişkin açıklamalar yapılır. Öğrencilerden çalışmalarda tekniğe ve hareketlerin doğru formuna odaklanmaları istenir ( E3.2 ). Çalışmalar basit tekniklerden daha karmaşık tekniklere, bireysel çalışmalardan eşli ve grup çalışmalarına olacak biçimde gerçekleştirilerek öğrencilerin spor branşına özgü temel teknik becerileri geliştirmesi sağlanır ( SDB3.1 , D3.4 , E3.1 ). Çalışmalar sırasında öğretmen tarafından geri bildirimlerle tekniğin basamaklamasına ve doğru formuna dair açıklamalar yapılarak öğrencilerin gelişimleri desteklenir. Öğrencilerin gelişimlerinin gözlemlenebilmesi için gözlem formları kullanılabilir. Parkurlar, hareket merkezleri (öğrencilerin yetersiz hissettiği hareketlerde çalışma fırsatı sunar), istasyon çalışmaları (öğrencilerin farklı becerileri deneyimleyerek gelişimini sağlar.), farklı bireysel ve eşli çalışma yöntemleri, akran geri bildirimleri vb. ile çalışmalar çeşitlendirilerek öğrencilerin spor branşına özgü hareket basamaklarını doğru formda göstermeleri sağlanır. Öğrencilere mini kurallı oyunlar, farklı oyun formatları, farklı saha, ortam ve koşullarda (salonda, açık alanda, dar alan oyunlarında, ders ortamında, arkadaşlarıyla vb.) öğrendikleri hareket becerilerini deneme fırsatı verilir. Böylece öğrencilere spor branşına özgü hareket becerilerini farklı ortamlarda uygulamaları sağlanır ( SDB3.1 ). Öğrencilerin performanslarının değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "KSE.2.4. Öğrencilerin takım sporlarındaki sporcuların pozisyon ve rollerinden örnekler vermeleri istenerek takım içindeki farklı roller (basketbolda oyun kurucu, forvet; futbolda defans, orta saha; voleybolda smaçör, pasör vb.) ve bu rollerin önemi açıklanır ( SDB1.1 ). Oyun ve etkinliklerle öğrencilerin rolleri deneyimlemesine fırsat verilir ( SDB3.1 ). Oyun ve etkinlikler sırasında öğrencilerin rolleri değiştirilerek kendilerini ve akranlarını gözlemlemeleri ve birbirlerine geri bildirimler vererek takım içindeki rolleri konusunda farkındalık kazanmaları sağlanır ( SDB2.1 , SDB2.2 , KB2.11 ). Bu süreçte öğrencilerin gösterişten uzak, yapıcı bir şekilde, rollerini öne çıkarmadan paylaşmaları desteklenir ( D10.2 ). Öğrenciler, etkinlik ve oyunlarla bir takım içinde farklı pozisyonları deneyimleyerek rollerini tanımlar ( D3.4 ). Etkinlikler sonunda tartışma ortamı oluşturulup öğrencilerin deneyimlerinden yola çıkarak rollerin önemi, sorumlulukları, takım içi iletişimin önemi ile ilgili çıkarımda bulunmaları ve değerlendirmeleri sağlanır ( KB2.15 , D14.1 ). Belirli pozisyonlar ve görevler üzerinde çeşitli çalışmalar yaptırılarak öğrencilerin farklı roller içinde gelişimi desteklenir. Çalışmalar pozisyon eğitimleri (spor branşına özgü; defans, forvet, orta saha, smaçör vb.) pozisyon rotasyonu, oyun senaryoları (hücum, savunma vb.), simülasyon, maç, rol ve sorumluluk eğitimleri, rollere yönelik taktik çalışmalar vb. yöntemlerle çeşitlendirilerek öğrencilerin takım içindeki rollerini yerine getirmeleri sağlanır ( D3.4 , SDB3.1 ). Çalışmalar sırasında öğrencilerin performanslarına yönelik geri bildirimler verilerek gelişmelerine yardımcı olunur. Süreç maç videoları izleme, analiz etme, video kayıt-analiz, öz değerlendirme, akran değerlendirme, gözlem formları, etkinlik raporları vb. yöntemlerle değerlendirilerek öğrencinin performansı hakkında bilgi sahibi olması ve performansını geliştirmeye yönelik çözümler üretip çalışmalar yapması teşvik edilir ( OB2 , SDB3.3 , SDB1.2 ). Öğrencilere gruplar hâlinde oyun içi kombinasyon çalışmaları, eğitsel oyunlar, takım içi iletişim dinamiklerinin aktif olduğu ve olmadığı karşı laştırmalı senaryolar vb. çalışmalar yaptırılarak takım oyunu, takım içi iletişim ve iş birliği becerilerinin geliştirilmesi sağlanır ( SDB2.1 , SDB2.2 ). Çalışmalar sonunda soru cevap yöntemi ile \"Takım içi iletişim ve iş birliği neden önemlidir?\", \"Takım içi iletişimi sağlayabilmek için ne yapmak gerekir?\", \"Takım uyumu neden önemlidir?\" vb. sorular sorularak takım içi iletişim ve iş birliği dinamikleri belirlenir ( D14.1 , SDB2.1 ). Yapılan çalışmalarla öğrencilerin takım içi iletişim, iş birliği becerileri geliştirilerek arkadaşlarıyla senkronize ve uyum içerisinde hareket etmeleri sağlanır ( SDB2.2 , D3.4 ).",
+    "KSE.2.5. Takım içinde göreve uygun rol dağılımının ortak hedeflere ulaşmada önemli bir yönetim stratejisi olduğu üzerinde durularak her bireyin güçlü olduğu alanlarda görev alması gerektiği belirtilir. Takım içinde liderliğin önemi, iyi bir liderde olması gereken özellikler soru- cevap, tartışma ortamı, grup çalışmaları, listeleme ve tablo oluşturma vb. yöntemlerle belirlenir. Böylece öğrencilere takım/grup liderlik özellikleri tanıtılır. Oyun ve etkinliklerle her öğrencinin liderlik rolünü deneyimlemesine fırsat verilerek liderlik özellikleri göstermesi sağlanır ( SDB3.2 ).",
+    "KSE.2.6.",
+    "Oyunlar, hücum-savunma çalışmaları maç izleme, vb. etkinlikler yaptırılarak öğrencilerinoyunu analiz edebilmelerine fırsat verilir. Etkinlikler sırasında taktik ve stratejilere odaklanmaları ve taktiksel problemleri sözel ya da yazılı ifadelerle belirlemeleri istenir (OB2). Öğrenciler, gruplara ayrılarak her gruba bir veya birkaç (etkinlikler tekrar edildikçe yeni belirlenen problemlere göre) savunma ve hücum eksiklikleri, pozisyon alma, rakibin savunma yapısını çözmek, hücum organizasyonu geliştirme, görev dağılımı, alan kullanımı ve boşlukların değerlendirilmesi, savunma organizasyonları gibi taktiksel problemler sunulur. Belirlenen taktiksel problemlerin çözümüne yönelik yeterli süre verilerek öneriler üretmeleri istenir ( SDB3.3 ). Öğrencilere önerdikleri taktikleri küçük oyun formatlarında deneme ve test etme fırsatı verilir ( KB3.2 , SDB3.3 ). Çalışmalar ve farklı oyun senaryolarıyla öğrencilere takım içindeki rolleri dikkate alarak belirledikleri taktikler uygulatılır. Çalışmalar öğretmen rehberliğinde uygulamalar, maç analizleri, görsel ve dijital kaynaklar ile çeşitlendirilir (OB2, OB4). Çalışmalar sonunda öğretmen; tartışma ortamı oluşturarak öğrencilerin takım performanslarını geliştirmelerini, yeni taktik ve stratejiler üretebilmelerini destekler ( SDB2.2 ). Maç yarışma formatında mini turnuvalar düzenlenerek öğrencilerin geliştirdikleri taktik ve stratejileri sergilemeleri sağlanabilir ( E1.5 ). Ayrıca öğrencilerden belirlenen bir taktiksel probleme yönelik çözüm önerilerini içeren bir strateji planı oluşturmaları ve bunu yazılı ya da görsel sunum formatında performans görevi olarak hazırlamaları beklenir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D10.2",
+      "D14.1",
+      "D14.2",
+      "D18.2",
+      "D3.4",
+      "D8.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.1",
+      "E2.5",
+      "E3.1",
+      "E3.2",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.15",
+      "KB2.2",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/815"
+}

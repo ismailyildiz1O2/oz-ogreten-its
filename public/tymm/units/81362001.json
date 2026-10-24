@@ -1,0 +1,71 @@
+{
+  "unitId": 81362001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Sosyal Hayatında Aile Dersi (Lise)",
+  "title": "1. ÜNİTE: TOPLUMSAL BİR KURUM OLARAK AİLE",
+  "hours": "18",
+  "description": "Bu ünitede “Aileyi Tanımak”, “Aile Türleri ve Ailenin Önemi” ve “Aile ve Toplumsal Yapı İlişkisi” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TSA.1.1.1",
+      "title": "Aile kurumunu kavramsal bakımdan açıklar",
+      "processComponents": [
+        "Aile kurumunun tanımı yapılarak Türkçedeki atasözü ve deyimlerde yer alan aile ve ocak kavramlarına değinilir.",
+        "Aile-evlilik ilişkisine değinilir."
+      ]
+    },
+    {
+      "code": "TSA.1.1.2",
+      "title": "Aileyi; bireyin sosyal, ekonomik, psikolojik ve fiziksel ihtiyaçları bakımından yorumlar",
+      "processComponents": [
+        "Bireyin barınma, beslenme, kendini güvende hissetme, sevilme, sevme, kabul görme vb. ihtiyaçlarını aile içinde giderdiği vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.1.1.3",
+      "title": "Ailenin işlevlerini aile fertleri ile toplumun birlik, bağlılık, uyum ve sürekliliği açısından değerlendirir",
+      "processComponents": [
+        "Ailenin biyolojik, ekonomik, eğitsel, psikolojik ve dinî fonksiyonlarının yanı sıra koruyuculuk, sosyalleşme ve kültürleme işlevleri vurgulanır.",
+        "Sosyal ve hayati becerilerin kazandırılmasında ailenin önemine değinilir.",
+        "Ailenin toplumsal normların, sosyal statü ve rollerin öğrenildiği ilk kurum olması bakımından ele alınması sağlanır.",
+        "Öğrencilerin Türk atasözlerinde ailenin değerler eğitimindeki işlevi ile anne-baba ve çocuk ilişkileri konularında araştırma ve sunum yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "TSA.1.2.1",
+      "title": "Aileyi; yerleşim yeri, birey sayısı, otorite figürü açısından yorumlar",
+      "processComponents": [
+        "Yerleşim yeri esasına göre (köy, kent), birey sayısına göre (çekirdek, geniş, geçiş dönemi geniş aile, yeni geniş aile) ve otorite figürüne göre (ataerkil, anaerkil, eşitlikçi) aile türlerine değinilir.",
+        "Aile türlerinin, aralarındaki benzerlikler ve farklılıklara değinilir."
+      ]
+    },
+    {
+      "code": "TSA.1.2.2",
+      "title": "Ailenin önemini toplumun devamlılığı açısından yorumlar",
+      "processComponents": [
+        "Ailenin sosyal kimlik geliştirmedeki etkisi aile bireyleri üzerinden örneklendirilir.",
+        "Ailenin neslin devamı ve korunmasındaki önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.1.3.1",
+      "title": "Aile kültürünün toplumsal yapıya etkisini yorumlar",
+      "processComponents": [
+        "Ailenin toplumsal yapının bir prototipi olduğu vurgulanır.",
+        "Ailedeki davranış ve düşünüş biçimlerinin toplumsal yapıyla benzeşmesinin güçlü bir topluma temel oluşturacağına değinilir.",
+        "Aile kurumundaki değişimlerin diğer sosyal kurumları da etkilediği vurgulanır.",
+        "Çocuğun bakım, güvenlik, eğitim gibi ihtiyaçlarının karşılanmasında aileyle beraber diğer kurumların da etkili olduğuna değinilir.",
+        "Aile kültüründe yaşanan değişimlerin topluma yansıyan olumlu ve olumsuz etkilerinin ele alınması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124145026554-t%C3%BCrksosyalhayat%C4%B1ndaaile.pdf"
+}

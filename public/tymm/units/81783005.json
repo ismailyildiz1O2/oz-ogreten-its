@@ -1,0 +1,35 @@
+{
+  "unitId": 81783005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "5. ÜNİTE: İLETİŞİMDE, TEKNOLOJİ VE SOSYAL MEDYA KULLANIMINDA ADABIMUAŞERET",
+  "hours": "5",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.5.1",
+      "title": "Kişiler arası iletişimde adabımuaşerete uygun davranır",
+      "processComponents": [
+        "Konuşma, dinleme, hitap, selamlama, tokalaşma, tanışma ve tanıştırmadaki nezaket kurallarına yer verilir.",
+        "Kişiler arası ilişkilerde yumuşak huylu, alçak gönüllü, anlayışlı, güler yüzlü, affedici olma ve özür dilemenin önemi üzerinde durulur.",
+        "Kişiler arası ilişkilerde ölçülü olmanın (espri ve şakada dikkatli davranma, lakap takmama, alay etmeme vb.) önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "ADM.5.2",
+      "title": "Teknoloji ve sosyal medya kullanımında adabımuaşerete uygun davranmaya dikkat eder",
+      "processComponents": [
+        "Çevrim içi görüşmeler ve telefon görüşmeleri ile elektronik iletilerde dikkat edilmesi gereken hususlar örneklendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

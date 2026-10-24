@@ -1,0 +1,48 @@
+{
+  "unitId": 81294007,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "7. ÜNİTE: II. DÜZEY 2. TEMA: SİSTEMLER II",
+  "hours": "18",
+  "description": "“Sistemler II” temasında, öğrencilere modern teknoloji sistemlerinin uygulanması, geliştirilmesi ve yeniden tasarlanması konularında derin bir anlayış kazandırılması hedeflenir. Öğrenciler, yeni nesil teknoloji sistemlerinin temellerini anlamak, bu sistemleri kullanarak sorunları çözmek ve mevcut sistemleri geliştirerek daha etkili hâle getirmek için gerekli bilgi ve becerilere sahip olacaklardır. “Sistemler II” teması sonunda öğrencilerin, sistem uygulama ve geliştirme süreçlerini çözümlemeleri, yeni nesil teknoloji sistemleri hakkında doğru ve güvenilir bilgi toplamaları, yeni nesil teknoloji sistemlerini kullanarak problem çözmeleri, belirlediği bir sistemi geliştirerek yeniden tasarlamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.2.2.1.1",
+      "title": "Sistem tasarımı ve planlaması süreçlerini çözümler",
+      "processComponents": [
+        "Sistem tasarımı ve planlama süreçleri vurgulanır. Sistem tasarımı ve planlama süreçleri arasındaki ilişkileri açıklamaları sağlanır.",
+        "Fen bilimlerindeki bir sistemin tasarımı ve planlama süreçleri incelenir. Sistem mühendisliği ve bu mühendisliğin önemi konusunu geleceğin teknolojileri ile ilişkilendirmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.2.2.1",
+      "title": "Yeni nesil teknoloji sistemleri hakkında topladığı bilgiler ile ilgili rapor hazırlar",
+      "processComponents": [
+        "Yapay zekâ teknolojilerinin bilime, topluma, sosyal hayata ve çalışma hayatına etkilerinin açıklanması sağlanır. Yeni nesil teknoloji sistemleri (otomasyon ve robotik sistemler, akıllı şehirler ve sürdürülebilir teknolojiler) hakkında bilgi edinmeleri ve rapor hâlinde kaydetmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.2.2.2",
+      "title": "Yeni nesil teknoloji sistemlerini kullanarak problem çözer",
+      "processComponents": [
+        "Okul içinde yaşanılan bir problemi yeni nesil teknoloji sistemlerini kullanarak yapılandırmaları, belirlenen problemi özetlemeleri ve yeni nesil teknoloji sistemlerini kullanarak problemin çözümüne yönelik gözleme dayalı/mevcut bilgiye/veriye dayalı tahminde bulunmaları sağlanır. Problemin çözümüne yönelik önermeler üzerinden akıl yürütmeleri ve yansıtma/değerlendirmede bulunmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.2.2.3",
+      "title": "Belirlediği bir sistemi geliştirerek yeniden tasarlar",
+      "processComponents": [
+        "Çevresindeki bir problemi çözmek veya iyileştirmek için geliştirilmiş bir sistem modeli incelenir. İncelenen sistemdeki geliştirilebilir yönler belirlenir ve bu doğrultuda sistem, aşamalarına göre yeniden tasarlanır. Sistem tasarımındaki eksiklikleri belirlemeleri ve sistemi güncellemek için gerekli düzeltmeleri yapmaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

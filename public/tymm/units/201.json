@@ -1,0 +1,41 @@
+{
+  "unitId": 201,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Kur'an-ı Kerim Dersi",
+  "title": "4. TEMA: KUR’AN-I KERİM’DEN SURELER VE AYETLER EZBERLİYORUM",
+  "hours": "18",
+  "description": "Bu temada Asr suresi, Kadir suresi ve Haşr suresinin 23-25. ayetlerinin ezbere okunması, bu surelerin anlamları ile ilgili özetleme yapılması amaçlanmaktadır. Bu sure ve ayetlerin okunması sırasında Kur’an-ı Kerim okumaya giriş bilgilerinin ve tecvit kurallarının uygulanması hedeflenmektedir.",
+  "outcomes": [
+    {
+      "code": "KK.12.4.1",
+      "title": "Asr ve Kadir surelerinin anlamları ile Haşr suresinin 23-25. ayetlerinin anlamlarını özetleyebilme",
+      "processComponents": [
+        "a) Asr ve Kadir surelerinin anlamları ile Haşr suresinin 23-25. ayetlerinin anlamlarını çözümler.",
+        "b) Asr ve Kadir sureleri ile Haşr suresinin 23-25. ayetlerinin anlamlarını sınıflandırır.",
+        "c) Asr ve Kadir sureleri ile Haşr suresinin 23-25. ayetlerinin anlamlarını yorumlar."
+      ]
+    },
+    {
+      "code": "KK.12.4.2",
+      "title": "Asr ve Kadir sureleri ile Haşr suresinin 23-25. ayetlerini ezberleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "asr, esmayıhüsna, Kadir Gecesi, tespih",
+  "support": [
+    "Farklı öğrenme düzeyinde olan öğrenciler ezberlemeye zorlanmadan basitten karmaşığa doğru bir yol izlenerek sesli metin ya da video ile desteklenebilir. Öğrencilerden Asr suresi ile ilgili temel bilgilerin yer aldığı bilgi kartları oluşturmaları istenebilir. Braille alfabesini bilen görme engelli öğrenciler için Diyanet İşleri Başkanlığı tarafından Braille alfabesi ile hazırlanan Kur'an-ı Kerim kullanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin, öğrenme özelliklerine uygun bir okuma performansı ortaya koymaları ve ezber becerilerini geliştirmeleri için onlara Kur'an-ı Kerim'den bazı aşrışerifler ezberletilebilir. Ayrıca öğrenciler, surelerin anlamları ile ilgili derinleşmeleri için geçerli ve güvenilir tefsir kaynaklarına yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; analitik dereceli puanlama anahtarı, kontrol listesi, öz değerlendirme formu, açık uçlu sorular, boşluk doldurma ve eşleştirme soruları ile yapılandırılmış grid ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak Asr ve Kadir sureleri ile Haşr suresinin 23-25. ayetlerinin anlamlarını yansıtan sanatsal bir ürün oluşturmaları istenebilir. Yapılan çalışmalar; içinde bilgi toplama, doğruluk, içerik ve özgünlük ölçütlerinin bulunduğu analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir. Tema sonunda, ezberden okunan surelerin anlamlarına yönelik yapılandırılmış grid, boşluk doldurma, eşleştirme ve açık uçlu soru türleri kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KK.12.4.1 Öğrencilere ezberlenecek surenin içeriği ile ilgili bilgileri olup olmadığı veya anlamını okuyup okumadıkları sorularak onlardan cevaplar alınır. Diyanet İşleri Başkanlığının genel ağ adresinde yer alan meallerden faydalanılarak surenin anlamı ile ilgili bilgi toplanır. Surenin meali verilerek anlamı ile ilgili çözümlemeler yapılır. Surede anlatılan konu/tema ve olaylar sınıflandırılır. Öğrencilerden surenin anlamını kendi cümleleri ile aktarmaları istenir (OB1) . Öğrenciler içerik ve bağlamdan kopmadan özgün bir bakış açısıyla surenin anlamına ilişkin mesajlar çıkarır (E3.11) . Asr suresinin anlamı çerçevesinde Kur'an-ı Kerim'in zamana ve onu verimli kullanmanın önemine verdiği değer üzerinde durulur. Öğrencilere zamanı verimli kullanmak için planlama yaparak israftan kaçınmaları ve sahip olduklarını en verimli şekilde kullanmanın yollarını araştırarak bunların değerini bilmeleri gerektiği vurgulanır (D17.2-3) . Asr suresinin anlamı ele alınırken insanın hüsrana düşmekten kurtuluşunun temelde iman edip salih ameller işlemeye bağlı olduğu ortaya konur. Asr suresi bağlamında, öğrencilerin kendilerini değerlendirerek duygu, düşünce ve davranışlarını yeni yaşantılarında kullanmalarına vurgu yapılır (SDB1.3) . Öğrencilerden öğrenme kanıtlarında belirtilen performans görevini yapmaları istenebilir. Performans göreviyle ilgili öğrencilere geri bildirim verilir. Surelerin anlamları ele alınırken ilgili sure ve ayetlerde geçen asr, esmayıhüsna, Kadir Gecesi, tespih kavramları işlenir.",
+    "KK.12.4.2 Bazı ayet ve sureleri ezberlemenin Kur'an-ı Kerim öğretiminde özel bir yeri olduğu vurgulanarak ayet ve sure ezberlemenin önemi ortaya konulur. Ezberlenecek ayet ve sureler öğretmen tarafından euzübesmele çekilerek sırasıyla birkaç defa okunur veya bu ayet ve sureler öğrencilere dijital yollarla dinletilir/izletilir. İlgili ayetler ve sureler bilişsel çıraklık yöntemiyle öğrencilere sırasıyla ve kısa bölümler hâlinde tekrar ettirilir. Öğrencilerin, yüzünden okuma becerileri geliştirilerek ayet ve sureleri ezberlemelerine zemin hazırlanır. Ezberlenecek ayet ve sureleri doğru ve akıcı bir şekilde okuyacak düzeye gelmeleri için onlara yeteri kadar yüzünden okuma yaptırılır. Ezberlenecek ayet ve surelerle ilgili koro çalışması yaptırılarak öğrencilerin derse katılımları sağlanır. Bilişsel çıraklık yöntemine dayalı koro okuyuşu sırasında öğretmen, okunan kelimeleri veya kısa bölümleri öğrencilere tek tek ya da grup olarak tekrar ettirir. Koro okuyuşu sonunda sure, ayet ayet veya bütün olarak bazı öğrencilere okutulur. Öğrencilerin yeteneklerine, kapasitelerine ilişkin teşvik ve yönlendirmeler yapılarak öz güvenli bir şekilde ayetleri ve sureleri ezberlemeleri sağlanır (E1.5) . Öğrencilerin ezberlemeleri gereken sure ve ayetler için geçerli ve güvenilir dijital kaynaklara başvurulur. Bu sure ve ayetleri öğrencilerin sınıfta dinlemeleri sağlanır. Sure ve ayet ezberlerinin sınıfta yapılmasına ağırlık verilir. Öğrencilere sureleri ve ayetleri ezberlemeleri için belirli bir süre tanınır. Öğrencilerin, Asr ve Kadir sureleri ile Haşr suresinin 23-25. ayetlerini geçerli ve güvenilir kaynaklardan dinleyip takip etmeleri sağlanır (OB2) . Tema içeriğindeki surelerin ezberden okunması ve seslendirilmesine yönelik uygulamalar kontrol listeleri ile değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/201"
+}

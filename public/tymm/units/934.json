@@ -1,0 +1,56 @@
+{
+  "unitId": 934,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları - Çalgı Toplulukları Dersi",
+  "title": "4. TEMA: BUSELİK MAKAMI DİZİSİYLE TOPLU İCRA",
+  "hours": "18",
+  "description": "Temada buselik makam dizisindeki türkülerin birlikte çalınması ve makam dizisi özelliklerine uygun bir şekilde birlikte müzik yapma becerilerinin geliştirilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "Ç.T.5.4.1",
+      "title": "Buselik makam dizisindeki eserleri toplu çalabilme",
+      "processComponents": [
+        "a) Buselik makam dizisindeki toplu çalınacak eseri çözümler.",
+        "b) Buselik makam dizisindeki eserleri toplu çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Buselik makam dizisindeki eserleri toplu çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Buselik makam dizisindeki eserleri toplu çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "buselik, dizi, makam, toplu icra",
+  "support": [
+    "Çalışılan buselik makamı türküsünü ölçüler hâlinde bölerek küçük parçalar hâlinde çalışmalar yapılabilir. Türküde kullanılan zaman ölçülerini ve ritmik kalıpları doğru bir şekilde öğrenmek için ritmik alıştırmalar yapılabilir. Özellikle buselik makamında ritmin ve melodinin uyumlu olabilmesi için öğrenciler zaman zaman metronom eşliğinde çalışabilirler."
+  ],
+  "enrichment": [
+    "Bu süreçte farklı zorluk düzeylerinde buselik makamında türküler verilerek oluşturulan gruplarla icra edilmesi istenebilir. Parçanın belirli bölümlerinde çalgısal sololarla zenginleştirme yapılabilir. Solistler, makamın melodik yapısına uygun olarak parçanın içinde özgürce ifade yaratabilirler."
+  ],
+  "assessment": [
+    "Temada öğrenme çıktıları; birlikte çalma performans gözlem formu, öğrenci ürün dosyası, öz değerlendirme formu, derecelendirme ölçeği ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilere derste çalınan buselik makamındaki eserleri ve öğretmenin çalışmaları için verdiği eserleri topluluklar hâlinde sınıfta sunmaları istenen bir performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "Ç.T.5.4.1 Buselik makam dizisi hatırlatılır. Her öğrenci çalgısında buselik makam dizisini çalar. Buselik makamında belirlenen türkü tanıtılır ve incelemesi yapılır ( OB9 ). Öğretmen tarafından öncelikle ezgisi icra edilir. Dinleme yapılır. Öğrencilerin nota üzerinden gözlem yapmaları ve eseri çözümlemeleri istenir ( KB2.2 ). Ölçüler hâlinde bireysel deşifre sürecine başlanır. Öğrencilerden doğru duruş ve tutuş pozisyonu alınması ve deşifre edilen ölçülerin etüt edilmesi istenir. Öğrencilerle sırayla duruş ve tutuş pozisyonları gözden geçirilir ( D7.2 ). Her öğrencinin çalgısını doğru tutup tutmadığı öğretmen tarafından kontrol edilir. Deşifre sürecinde her öğrencinin çalgısında eseri seslendirirken hangi teknikle çalacağının belirlenmesi ve odaklanması istenir ( E3.2 ). Çalgıya özgü teknikler doğru kullanılarak deşifre edilir. Öğretmen tarafından gruplar ayrı ayrı kontrol edilir. Bireysel deşifre süreci tamamlandıktan sonra belirlenen tempoda birlikte çalma süreci gerçekleştirilir ( E2.2 ). Birlikte çalma süreci yavaş tempodan başlayarak eserin temposuna doğru çalışılarak tamamlanır ( D12.2 ). Toplu çalmada uyuma dikkat edilir ( D3.4 ). Öğrencilerin toplu çalma sırasında birbirlerine dikkat etmesi ve aynı tempo, ritim ve müziksel yapıyı takip etmesi sağlanır ( SDB2.1 ). Grup hâlinde çalışırken öğretmen her öğrenciyi izleyerek geri bildirimlerde bulunur. Öğrencilerin toplu çalma sırasında ritim, tempo, dinamik gibi müziksel bileşenleri doğru bir şekilde uygulamaları sağlanır ( SDB2.2 ). Grup hâlinde performans sergilenir. Öğretmen birlikte çalma performans gözlem formuna göre değerlendirmelerde bulunur. Öğrencilere derste çalınan buselik makamındaki eserleri ve öğretmenin çalışmaları için verdiği eserleri topluluklar hâlinde sınıfta sunmaları istenen bir performans görevi verilebilir. Verilen performans görevi analitik dereceli puanlama anahtarı ve birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D3.4",
+      "D7.2"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/934"
+}

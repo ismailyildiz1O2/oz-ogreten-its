@@ -1,0 +1,53 @@
+{
+  "unitId": 81663022,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "22. ÜNİTE: PROGRAMLAMA DİLLERİ (C++) - 3. ÜNİTE: FONKSİYONLAR VE DİZİLER",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.22.1",
+      "title": "C++ programlama dilinde kullanılan fonksiyonları tanır",
+      "processComponents": [
+        "C++ programlama dilinde fonksiyonların nasıl tanımlandığı ve çağrıldığı anlatılır.",
+        "Fonksiyonların parametreleri iletme ve değer döndürme işlemleri gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.22.2",
+      "title": "Nesne tabanlı programlamayı anlar ve C++ programlama arayüzü içerisinde nasıl uygulandığını öğrenir",
+      "processComponents": [
+        "Nesne tabanlı programlamanın temel kavramları (sınıflar, nesneler, kalıtım, çok biçimlilik) açıklanır ve nesne tabanlı programlamanın avantajları anlatılır.",
+        "Nesne tabanlı programlama prensiplerini uygulayarak gerçek dünya problemlerini nasıl modelleyebileceği ile ilgili örnek uygulamalar gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.22.3",
+      "title": "Değer ve referans tipleri arasındaki farkı kavrar",
+      "processComponents": [
+        "Değer tipleri (int, float, bool) ve referans tipleri (sınıflar, diziler) arasındaki temel farklar açıklanır.",
+        "Değer tiplerinin değer kopyalama, referans tiplerinin referans kopyalama üzerinde nasıl çalıştığı açıklanır.",
+        "Değer ve referans tiplerinin farklı kullanım senaryoları ve avantajları anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.22.4",
+      "title": "Tek boyutlu ve çok boyutlu dizileri kullanır",
+      "processComponents": [
+        "Tek boyutlu ve çok boyutlu dizileri basit biçimde nasıl oluşturup kullanacağı anlatılır.",
+        "Dizi elemanlarına nasıl erişileceği ve dizi işlemlerinin nasıl gerçekleştirileceği açıklanır.",
+        "Dizilerin farklı veri tipleri ile nasıl kullanılacağı ve işlevselliği anlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

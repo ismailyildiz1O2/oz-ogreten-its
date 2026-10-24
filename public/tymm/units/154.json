@@ -1,0 +1,80 @@
+{
+  "unitId": 154,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "1. ÜNİTE: KUR’AN-I KERİM",
+  "hours": "14",
+  "description": "Bu ünitenin odak noktasını Kur’an-ı Kerim oluşturmaktadır. Öğrencilerin Kur’an-ı Kerim’in tarihi süreci hakkında bilgi toplayabilmesi, ana konularını ve temel özelliklerini sentezleyebilmesi, Kur’an’ın anlaşılmasında temel ilkeleri özetleyebilmesi ve kültürümüze etkisini yorumlayabilmesi amaçlanır. Kur’an’dan mesajlar bölümünde İsra suresinin 9. ayeti ele alınır. Öğrencilerin bu ayette verilen mesajları özetleyebilmesi beklenir.",
+  "outcomes": [
+    {
+      "code": "DKAB.12.1.1",
+      "title": "Kur'an-ı Kerim'in tarihî süreci hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'in tarihî süreciyle ilgili kaynakları araştırır.",
+        "b) Kaynakları kullanarak Kur'an-ı Kerim'in tarihî süreci hakkındaki bilgileri bulur.",
+        "c) Kur'an-ı Kerim'in tarihî süreci hakkında ulaştığı bilgileri temel kaynaklara dayanarak doğrular.",
+        "ç) Kur'an-ı Kerim'in tarihî süreci hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "DKAB.12.1.2",
+      "title": "Kur'an-ı Kerim'in ana konularını ve temel özelliklerini sentezleyebilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'in ana konularını ve temel özelliklerini inceler.",
+        "b) Kur'an-ı Kerim'in ana konuları ve temel özellikleri arasındaki ilişkiyi belirler.",
+        "c) Kur'an-ı Kerim'in ana konuları ve temel özellikleriyle özgün bir bütün oluşturduğunun farkına varır."
+      ]
+    },
+    {
+      "code": "DKAB.12.1.3",
+      "title": "Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri özetleyebilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'in anlaşılmasındaki temel ilkeleri çözümler.",
+        "b) Kur'an-ı Kerim'in anlaşılmasındaki temel ilkeleri sınıflandırır.",
+        "c) Kur'an-ı Kerim'in anlaşılmasındaki temel ilkeleri açıklar."
+      ]
+    },
+    {
+      "code": "DKAB.12.1.4",
+      "title": "Kur'an-ı Kerim'in kültürümüze etkisini yorumlayabilme",
+      "processComponents": [
+        "a) Kur'an-ı Kerim'in kültürümüz üzerindeki etkisini inceler.",
+        "b) Kur'an-ı Kerim'in kültürümüz üzerindeki etkisini bağlamından koparmadan hayatı için anlamlı hâle getirir.",
+        "c) Kur'an-ı Kerim'in kültürümüz üzerindeki etkisini ifade eder."
+      ]
+    },
+    {
+      "code": "DKAB.12.1.5",
+      "title": "İsra suresi 9. ayetin mesajlarını özetleyebilme",
+      "processComponents": [
+        "a) Ayette verilen mesajlarla ilgili çözümleme yapar.",
+        "b) Ayetin mealinde geçen konuları sınıflandırır.",
+        "c) Ayette verilen mesajları açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "Mushaf, nüzul, vahiy",
+  "support": [
+    "Öğrenciler dijital içerik (sesli metin, video vb.), soru cevap etkinlikleri ile desteklenebilir."
+  ],
+  "enrichment": [
+    "Kur'an-ı Kerim'in sanata, dil ve edebiyata yansımalarını inceleyebilmek için Kültür ve Turizm Bakanlığına ait sanal müzeleri öğrencilerin ziyaret etmeleri teşvik edilebilir.",
+    "Kur'an-ı Kerim'in musikiye etkisine dair sanat eserleri dinletilebilir.",
+    "Kur'an-ı Kerim'in anlaşılmasına katkı sağlayabilecek özgün önerilerin sunulması ve bu önerilerin sınıf veya okul panosunda sergilenmesi istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; 3-2-1 kartı, yapılandırılmış grid, bilgi kartları, blog yazısı, boşluk doldurma, doğru-yanlış, kısa cevaplı ve açık uçlu soru türleri, çalışma yaprağı, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Kur'an-ı Kerim'in ana konuları ile ilgili bilgi grafiği hazırlama, performans görevi olarak verilebilir. Bu performans görevi \"dil ve anlatım kurallarına uyma, konu hakkında yeterli bilgi toplama, konuya uygun görseller kullanma\" ölçütlerine göre dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir.",
+    "Sonuç değerlendirmede performans görevleri kullanılabileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.12.1.1 Kur'an-ı Kerim'in tanımına yer verilerek Hz. Peygamber döneminde Kur'an'ın hangi materyallere yazıldığına değinilir. Öğrenciler konuyla ilgili merak ettiklerini sorar (E1.1) . Bu süreçte soru kutusu tekniği kullanılabilir. Öğrenciler öğretmen rehberliğinde Kur'an-ı Kerim'in tarihî süreci hakkında bilgi toplayabilmeleri için ilgili kaynakları belirler (OB1) . Öğrencilerin temel kaynaklardan Kur'an-ı Kerim'in indirilişi, Mushaf hâline getirilişi, çoğaltılması, harekelenmesi ve noktalanması hakkında bilgi toplaması sağlanır (OB1, SDB1.2) . Toplanan bilgilerden hareketle öğrenciler öğretmen rehberliğinde Kur'an-ı Kerim'in tahriften korunmuş olması ve son ilahi kitap oluşu ile ilgili bilgileri temel kaynaklara dayanarak doğrular ve kaydeder. Öğrenciler, öğrendiklerini düşün-eşleş-paylaş tekniğiyle arkadaşlarıyla paylaşabilir (SDB2.1) . Öğrencilere sahabenin, Kur'an-ı Kerim'in Mushaf hâline getirilmesinde gösterdikleri özverili, azimli ve planlı çalışmalardan bahsedilir. Bu örnekten yola çıkarak disiplinli ve istikrarlı çalışma alışkanlıkları geliştirmeleri, doğru ve güvenilir bilgiyi ayırt edebilmeleri ve çalışmalarını planlayarak ertelemeden yürütmeye gayret etmeleri gerektiği vurgusu yapılır (D3.2) . Ölçme ve değerlendirme uygulamalarında öğrencilerden bilgi kartları hazırlamaları istenebilir.",
+    "DKAB.12.1.2 Kur'an-ı Kerim'in ana konuları olan tevhit, nübüvvet, ahiret, ibadetler, ahlaki ilkeler, sosyal hayat ve kıssalar ayetler çerçevesinde aktarılır. Bu süreçte kum saati tekniği kullanılabilir. Ayrıca ahiret konusu aşamalarıyla birlikte ayetler ışığında ele alınır. Öğrenciler, ayetlerden hareketle Kur'an-ı Kerim'in mucize oluşunu, ana konularını ve temel özelliklerini inceler. Kur'an'ın iyiye, doğruya ve güzele yönlendirmesi, kötülüklerden sakındırması, yol göstermesi, açıklayıcı olması, insanları düşünmeye ve aklını kullanmaya yöneltmesi gibi temel özellikleriyle Kur'an-ı Kerim'in ana konuları arasındaki ilişkiyi öğrenciler tespit eder. Öğrencilere ahlaki ilkelerin yer aldığı ayet ve hadislerden örnekler verilerek sosyal ilişkilerinde duyarlı ve dürüst olmaya gayret etmeleri telkin edilir (D5.2, D6.1) . Bu bağlamda Hz. Yusuf kıssasına değinilir. Öğrenciler, Kur'an-ı Kerim'in ana konuları ve temel özellikleriyle özgün bir bütün oluşturduğunun farkına varır. Ölçme ve değerlendirme uygulamalarında yapılandırılmış grid kullanılabilir.",
+    "DKAB.12.1.3 Öğrenciler, Kur'an-ı Kerim'in anlaşılmasındaki temel ilkeleri tespit ederek bunlar arasındaki ilişkiyi çözümler. Öğrencilerin, Kur'an-ı Kerim'in anlaşılmasındaki temel ilkeleri, Hz. Peygamber'in açıklamaları, ayetlere bütüncül bakma, ayetleri bağlamlarıyla değerlendirme ve ayetlerin nüzul sebepleri şeklinde sınıflandırabilmelerine imkân tanınır (E3.6) . Anlam çözümleme tablosu bu süreçte kullanılabilir. Öğrenciler, meal ve tefsir kullanarak Kur'an-ı Kerim'in anlaşılmasındaki temel ilkeleri açıklar. Ölçme ve değerlendirme uygulamalarında 3-2-1 kartı kullanılabilir.",
+    "DKAB.12.1.4 Öğrenciler, Kur'an-ı Kerim'in dil, edebiyat, mimari, sanat ve musiki gibi alanlar üzerindeki etkisini görsel ve işitsel materyaller üzerinden inceler (OB5, E1.1) . Öğrencilerin Kur'an-ı Kerim'in kültürümüz üzerindeki etkisini kendi hayatları için anlamlı hâle getirmelerine imkân sağlanır (SDB2.3) . Öğrenciler Kur'an-ı Kerim'in kültürümüz üzerindeki etkisini hüsnühat, tezhip gibi sanatlar bağlamında ifade eder. Öğrencilerin gezi gözlem yoluyla geleneksel sanatlara ait etkinliklere katılmaları, sanat eseri oluşturmanın emek, zaman ve maliyet gerektirdiğini fark etmeleri (D7.2) , yaşamını estetik unsurlarla zenginleştirmeleri beklenir (D7.4) . Ölçme ve değerlendirme uygulamalarında öğrencilerden bir sanat eserini inceleyerek blog yazısı oluşturmaları istenebilir.",
+    "DKAB.12.1.5 İsra suresi 9. ayet, Diyanet İşleri Başkanlığı tarafından yayımlanan matbu ve dijital meallerden bulunarak incelenir (OB2) . Ayetin nüzul sebebine, ayette geçen şahıslara, yerlere, konulara ve kavramlara yer verilir. Öğrenciler bu ayette verilen mesajları çözümler ve sınıflandırır. Bu süreçte bilgi kartları kullanılabilir. Öğrenciler ayette ele alınan konuları açıklar (SDB2.1) . Ölçme ve değerlendirme uygulamalarında boşluk doldurma, doğru-yanlış, kısa cevaplı ve açık uçlu soru türlerinden oluşan çalışma yaprağı kullanılabilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/154"
+}

@@ -1,0 +1,51 @@
+{
+  "unitId": 94126404,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "4. ÖĞRENME ALANI: BİLİM, TEKNOLOJİ VE TOPLUM",
+  "hours": "16",
+  "description": "Bu öğrenme alanı işlenirken bilimsellik ve doğal çevreye duyarlılık gibi değerlerle değişim ve yenilikçilik gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.4.1",
+      "title": "Çevresindeki teknolojik ürünleri, kullanım alanlarına göre sınıflandırır",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.4.2",
+      "title": "Teknolojik ürünlerin geçmişteki ve bugünkü kullanımlarını karşılaştırır",
+      "processComponents": [
+        "Teknolojinin hayatımızda ve çevremizde meydana getirdiği olumlu ve olumsuz etkilerine dikkat çekilir."
+      ]
+    },
+    {
+      "code": "SB.4.4.3",
+      "title": "Kullandığı teknolojik ürünlerin mucitlerini ve bu ürünlerin zaman içerisindeki gelişimini araştırır",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.4.4",
+      "title": "Çevresindeki ihtiyaçlardan yola çıkarak kendine özgü ürünler tasarlamaya yönelik fikirler geliştirir",
+      "processComponents": [
+        "Örnek girişimciler ve onların başarı öyküleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "SB.4.4.5",
+      "title": "Teknolojik ürünleri kendisine, başkalarına ve doğaya zarar vermeden kullanır",
+      "processComponents": [
+        "Teknolojik ürünler için hazırlanan kullanım kılavuzlarına dikkat çekilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Bilim, Teknoloji ve Toplum",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

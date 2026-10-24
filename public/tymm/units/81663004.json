@@ -1,0 +1,56 @@
+{
+  "unitId": 81663004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "4. ÜNİTE: PROGRAMLAMAYA GİRİŞ VE ALGORİTMA - 4. ÜNİTE: ALGORİTMA VE AKIŞ DİYAGRAMINI TEST ETME",
+  "hours": "14",
+  "description": "Hata ayıklama, bir problemin çözümü için tasarlanan algoritmanın düzensiz davranmasına veya çalışmamasına neden olabilecek hataları bulma ve düzeltme işlemidir. Programlamada hata ayıklama, yazılan bir programın düzgün çalışması açısından önemli rol oynar. Bu ünitede sırasıyla; tasarlanan algoritma ve akış diyagramının test edilmesi, hatalarının listelenmesi ve hataların düzeltilerek algoritmanın iyileştirilmesi üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.4.1",
+      "title": "Tasarlanan algoritma ve akış diyagramını test eder",
+      "processComponents": [
+        "Öğrencilere tasarladığı algoritma ve akış diyagramlarının, kodlamaya geçmeden mantıksal olarak incelenmesi, olası sonuçlar düşünülerek her ihtimalin göz önünde bulundurulması gerektiği, algoritma ve akış diyagramının her durumda doğru sonuçlar üretip üretmediğinin test edilmesi gerektiği vurgulanır.",
+        "Algoritmaları akış diyagramları üzerinden test etmek için kullanılan çeşitli araçlardan bahsedilir.",
+        "Basit bir algoritmanın akış diyagramı çizilerek test edilmesi sağlanır.",
+        "Programlamada algoritmanın test edilmesinin doğru programlar yazmadaki önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.4.2",
+      "title": "Tasarladığı algoritma ve akış diyagramının hatalarını listeler",
+      "processComponents": [
+        "Hata ayıklama ve hata yakalama yöntemlerinden bahsedilir.",
+        "Hatanın türü belirlenmeye çalışılır. Hatanın algoritmada mı akış diyagramında mı olduğu tespit edilir.",
+        "Algoritma ve akış diyagramlarındaki hatalar bulunarak istenilen sonuca ulaşmayı engelleyen tüm hatalar listelenir."
+      ]
+    },
+    {
+      "code": "BTY.4.3",
+      "title": "Hatalı algoritma ve akış diyagramlarının, programın istenilen çıktıyı vermesine engel olacağını fark eder",
+      "processComponents": [
+        "Bir problemin çözümü için yazılan algoritmanın ve tasarlanan akış diyagramlarının hatalı olması durumunda olası sonuçların neler olabileceği tartışılır.",
+        "Programın vermesi istenen çıktısı ile hatalı algoritma sonucu ortaya çıkan çıktılar karşılaştırılarak birlikte değerlendirilir."
+      ]
+    },
+    {
+      "code": "BTY.4.4",
+      "title": "Tasarladığı algoritma ve akış diyagramının hatalarını düzeltir",
+      "processComponents": [
+        "Hatalı bir algoritmanın var olan hatalar listelendikten sonra düzeltilebileceği vurgulanır. Belirlenen hataların nasıl giderileceği üzerine çözüm yöntemleri tartışılır.",
+        "Hatalı algoritma örnekleri saygı çerçevesinde tartışılarak elde edilen bulgular listelenir. Hataların düzeltilerek programın işlevsel hâle getirilmesi sağlanır.",
+        "Algoritma ve akış diyagramlarında karşılaşılan hatalardan yola çıkarak yeni tasarlanan algoritmalarda hata oluşumunu engellemeye yönelik çalışmalar yapılır.",
+        "Hata ayıklaması yapılan algoritmaya eklenilecek farklı girdi ve çıktılar ile program durumu geliştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

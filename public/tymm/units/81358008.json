@@ -1,0 +1,78 @@
+{
+  "unitId": 81358008,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+  "title": "8. ÜNİTE: KUR'AN-I KERİM'DE EVRENSEL DEĞERLER",
+  "hours": "18",
+  "description": "Bu ünitede sırasıyla “İyiliği Emredip Kötülükten Sakındırma”, “Birr ve İnfak”, “Danışarak İş Yapma”, “Temiz ve Helal Kazanç Sağlama”, “Emanete Riayet Etme”, “Hesap Günü”, “Kur'an-ı Kerim'de Geçen Örnek Kadın Şahsiyetler” ve “Ayetlerden Mesajlar: Yasin Suresi, 13-27. Ayetler” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "KKAD.2.4.1",
+      "title": "Emir bilmaruf nehiy anilmünker kavramının geçtiği ayetler bağlamında örnek bir toplum oluşturmanın önemini kavrar",
+      "processComponents": [
+        "Araf suresinin 163-166. ayetleri, Tevbe suresinin 71,112. ayetleri, Al-i İmran suresinin 110. ayeti ve Taha suresinin 131-132. ayetlerinden hareketle emir bilmaruf nehiy anilmünker kavramı açıklanır.",
+        "İyiliğin yaygınlaştırılıp kötülüğün önlenmesiyle örnek bir toplum oluşturulması için gösterilen çabanın önemine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.2",
+      "title": "Birr ve infak kavramlarının geçtiği ayetler bağlamında yardımlaşma ve paylaşmanın önemini kavrar",
+      "processComponents": [
+        "Birr ve infak kavramları Şûra suresinin 39. ayeti ve Tegabün suresinin 17. ayeti bağlamında açıklanır.",
+        "Bu kavramlar çerçevesinde toplumsal yardımlaşma ve dayanışmanın önemi vurgulanır.",
+        "Kültürümüzden ve tarihimizden örnekler verilir."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.3",
+      "title": "Danışarak iş yapmanın toplumsal yararını fark eder",
+      "processComponents": [
+        "Al-i İmran suresinin 159. ayeti ve Neml suresinin 32. ayeti bağlamında başkalarına danışarak iş yapmanın Kur'an-ı Kerim'de tavsiye edilen toplumsal bir tutum olduğu örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.4",
+      "title": "Bireysel ve toplumsal düzenin sağlanması, ahlaka uygun bir iktisadi hayatın sürdürülmesi için temiz ve helal kazancın gerekliliğini açıklar",
+      "processComponents": [
+        "Bakara suresinin 275-276, 278-279. ayetleri, Al-i İmran suresinin 130. ayeti ve Rum suresinin 39. ayeti bağlamında kişisel kazancı ve toplumsal ekonomik ilişkileri ilgilendiren alın terine dayalı kazanç, faiz, karaborsacılık ve tefecilik gibi konulara değinilir."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.5",
+      "title": "Ayetler bağlamında emanete riayet etmenin önemini açıklar",
+      "processComponents": [
+        "Bakara suresinin 283. ayeti ve Nisa suresinin 58. ayeti bağlamında emanete riayetin toplumsal güveni sağlamadaki önemi açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.6",
+      "title": "Hesap gününü Hakka suresinin ayetleri bağlamında açıklar",
+      "processComponents": [
+        "Hakka suresinin 1-52. ayetleri bütünsel olarak ele alınır."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.7",
+      "title": "Kur'an-ı Kerim'de kadına verilen değeri örnek kadın şahsiyetlerden hareketle fark eder",
+      "processComponents": [
+        "Kur'an-ı Kerim'de geçen kadın şahsiyetlerden Hz. Asiye, Hz. Meryem, İmran'ın eşi Hanne ve Melike Belkıs ile ilgili ayetler, Kur'an'da kadına verilen önem ve değer bağlamında açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.2.4.8",
+      "title": "Yasin suresinde geçen belde halkının durumu hakkında çıkarımlarda bulunur",
+      "processComponents": [
+        "Yasin suresinin 13-27. ayetlerinde sözü edilen belde halkının durumu meal ve tefsirlerden faydalanılarak anlatılır. Kıssadan çıkarılan mesajlar açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124957523-Kuran%C4%B1kerim.pdf"
+}

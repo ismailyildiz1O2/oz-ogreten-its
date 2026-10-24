@@ -1,0 +1,90 @@
+{
+  "unitId": 98035504,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "T.C. İnkılap Tarihi ve Atatürkçülük Dersi",
+  "title": "4. ÜNİTE: ATATÜRKÇÜLÜK VE ÇAĞDAŞLAŞAN TÜRKİYE",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "İTA.8.4.1",
+      "title": "Çağdaşlaşan Türkiye’nin temeli olan Atatürk ilkelerini açıklar",
+      "processComponents": [
+        "Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik ve İnkılapçılık ilkeleri kavramsal düzeyde ele alınır."
+      ]
+    },
+    {
+      "code": "İTA.8.4.2",
+      "title": "Siyasi alanda meydana gelen gelişmeleri kavrar",
+      "processComponents": [
+        "Saltanatın kaldırılması, Ankara’nın başkent oluşu, Cumhuriyet’in ilan edilmesi, Halifeliğin kaldırılması, Şeriye ve Evkâf Vekâleti’nin kaldırılması ile Erkân-ı Harbiye Vekâleti’nin kaldırılmasının neden ve sonuçları ele alınır.",
+        "1924 Anayasası’nın kabulüne değinilir."
+      ]
+    },
+    {
+      "code": "İTA.8.4.3",
+      "title": "Hukuk alanında meydana gelen gelişmelerin toplumsal hayata yansımalarını kavrar",
+      "processComponents": [
+        "Hukuki düzenlemelerin gerekçeleri kısaca açıklanır.",
+        "Türk Medeni Kanunu’nun aile yapısında ve kadının toplumsal statüsünde meydana getirdiği değişim vurgulanır."
+      ]
+    },
+    {
+      "code": "İTA.8.4.4",
+      "title": "Eğitim ve kültür alanında yapılan inkılapları ve gelişmeleri kavrar",
+      "processComponents": [
+        "Tevhid-i Tedrisat Kanunu, Harf İnkılabı, Millet Mektepleri, Türk Tarih Kurumu ve Türk Dil Kurumu ele alınır.",
+        "1933 Üniversite Reformu’ndan hareketle Atatürk’ün bilimsel gelişme ve kalkınmaya verdiği önem vurgulanır.",
+        "Atatürk’ün güzel sanatlara ve spora verdiği önem örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "İTA.8.4.5",
+      "title": "Toplumsal alanda yapılan inkılapları ve meydana gelen gelişmeleri kavrar",
+      "processComponents": [
+        "Şapka ve kıyafetler konusunda yapılan düzenlemeler, tekke, zaviye ve türbelerin kapatılması, takvim, saat ve ölçülerde değişim ile Soyadı Kanunu ele alınır.",
+        "Türk kadınına eğitim alanı ile sosyal, kültürel ve siyasi alanlarda sağlanan haklar ele alınır ve bu haklar diğer ülkelerde kadınlara verilen haklar ile karşılaştırılır."
+      ]
+    },
+    {
+      "code": "İTA.8.4.6",
+      "title": "Ekonomi alanında meydana gelen gelişmeleri kavrar",
+      "processComponents": [
+        "İzmir İktisat Kongresi’nde alınan kararlar millî iktisat anlayışı ve tasarruf bilinci açılarından incelenir.",
+        "Tarım, sanayi, ticaret ve denizcilik alanlarında yapılan çalışmalar üzerinde durulur.",
+        "1929 Dünya Ekonomik Bunalımı’nın Türkiye ekonomisine etkilerine değinilir."
+      ]
+    },
+    {
+      "code": "İTA.8.4.7",
+      "title": "Atatürk Dönemi’nde sağlık alanında yapılan çalışmaları devletin temel görevleri ile ilişkilendirir",
+      "processComponents": []
+    },
+    {
+      "code": "İTA.8.4.8",
+      "title": "Cumhuriyet’in sağladığı kazanımları ve Atatürk’ün Türk milleti için gösterdiği hedefleri analiz eder",
+      "processComponents": [
+        "Büyük Nutuk ve Onuncu Yıl Nutku ele alınır.",
+        "Atatürk’ün Gençliğe Hitabesi’nden hareketle Cumhuriyet’in korunmasında ve sürekliliğinin sağlanmasında gençliğe verilen görev ve sorumluluklar vurgulanır.",
+        "Atatürk’ün kişilik özelliklerinden; çok yönlülüğü, akılcılığı, bilimselliği ve çağdaşlığı vurgulanır."
+      ]
+    },
+    {
+      "code": "İTA.8.4.9",
+      "title": "Atatürk ilke ve inkılaplarını oluşturan temel esasları kavrar",
+      "processComponents": [
+        "Atatürk ilkeleri; millî tarih bilinci, bağımsızlık ve özgürlük, egemenliğin millete ait olması, millî kültürün geliştirilmesi, Türk milletini çağdaş uygarlık düzeyinin üzerine çıkarma ideali, millî birlik ve beraberlik ile ülke bütünlüğü bağlamında açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812104016155-%C4%B0NKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI.pdf"
+}

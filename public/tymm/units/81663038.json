@@ -1,0 +1,85 @@
+{
+  "unitId": 81663038,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "38. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVASCRIPT) - 1. ÜNİTE: JAVASCRIPT PROGRAMLAMA DİLİ TEMELLERİ",
+  "hours": "18",
+  "description": "Bu ünitede; web geliştirme süreçlerinin işleyişi, Javascript programlama dilinin web sitelerindeki rolü, Javascript programlama dilinin terim ve kavramları üzerinde durulur. Javascript programlama dilinde değişkenler, veri tipleri, koşullu ifadeler, karşılaştırma operatörleri ve mantıksal operatörler kavramları anlatılır.",
+  "outcomes": [
+    {
+      "code": "BTY.38.1",
+      "title": "Web geliştirme süreçlerinin işleyiş şekillerini anlar",
+      "processComponents": [
+        "Web geliştirme süreçlerinin temel adımları olan, proje planlaması, tasarım, kodlama, test ve dağıtım süreçleri açıklanır.",
+        "Süreçler arasında bağlantılar kurularak tasarımın kodlamaya dönüşme aşaması vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.38.2",
+      "title": "Javascript programlama dilinin web sitelerindeki rolünü kavrar",
+      "processComponents": [
+        "Javascript programlama dilinin web sitelerindeki kullanım amacı açıklanır. Kullanıcı etkileşimini artırmak ve sayfaları dinamik hâle getirmek için kullanıldığı vurgulanır.",
+        "Javascript programlama dilinin HTML ve CSS ile uyumlu bir şekilde çalıştığı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.38.3",
+      "title": "Javascript programlama dilinin terim ve kavramlarını tanır",
+      "processComponents": [
+        "Javascript programlama dilinde kullanılan temel terimler ve kavramlar açıklanır.",
+        "Değişken, fonksiyon, dizi gibi kavramların Javascript programlama dilindeki önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.38.4",
+      "title": "Değişkenleri Javascript programlama dili ile kullanır",
+      "processComponents": [
+        "Değişken tanımlama ve değişkenlerin kullanım şekli açıklanır.",
+        "Değişkenlerin türleri açıklanır ve kullanılır.",
+        "Değişkenlerin yaşam döngüsü anlatılır. Global ve lokal değişkenler arasındaki farklar açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.38.5",
+      "title": "Javascript programlama dili içerisinde kullanılan farklı veri tiplerini kavrar",
+      "processComponents": [
+        "Javascript programlama dilindeki veri tipleri (string, number, boolean, object, vb.) açıklanır.",
+        "Veri dönüşümü ve tip dönüşümünün nasıl yapılacağı açıklanır.",
+        "Javascript programlama dilindeki null ve undefined gibi özel değerler vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.38.6",
+      "title": "Problemlerde karşılaşılan farklı senaryolarda koşullu ifadeleri kullanır",
+      "processComponents": [
+        "Javascript programlama dili ile if-else ifadeleri ve switch-case yapılarının kullanımı açıklanır.",
+        "Koşullu ifadeler kullanılarak kullanıcı girişi doğrulama gibi senaryo örnekleri yapılır."
+      ]
+    },
+    {
+      "code": "BTY.38.7",
+      "title": "Karşılaştırma operatörlerini Javascript programlama dili ile kullanır",
+      "processComponents": [
+        "Javascript programlama dilinde karşılaştırma operatörleri (==, ===, !=, <, >, vb.) kullanılarak değişkenlerin karşılaştırması açıklanır.",
+        "Karşılaştırma operatörleri ile koşullu ifadelerin birlikte kullanılmasıyla ilgili örnekler yapılır."
+      ]
+    },
+    {
+      "code": "BTY.38.8",
+      "title": "Birden fazla koşul durumlarını birleştirmek için mantıksal operatörler kullanır",
+      "processComponents": [
+        "Javascript programlama dilindeki mantıksal operatörler (&&, ||, !, vb.) açıklanır.",
+        "Mantıksal operatörleri kullanarak birden fazla koşul birleştirilir ve karmaşık ifadeler oluşturulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

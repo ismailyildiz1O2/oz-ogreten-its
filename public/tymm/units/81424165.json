@@ -1,0 +1,36 @@
+{
+  "unitId": 81424165,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "165. ÜNİTE: HALK OYUNLARI - KAŞIK",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.6.1",
+      "title": "Kaşık oyunlarının çeşitlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.6.2",
+      "title": "Kaşık oyunlarının çeşitlerinin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.6.3",
+      "title": "Kaşık oyunlarını uygular",
+      "processComponents": [
+        "Kaşık çalma, kaşıkla ritim tutma, ritme göre kol hareketleri, ritme göre ayak hareketleri gösterilerek uygulatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

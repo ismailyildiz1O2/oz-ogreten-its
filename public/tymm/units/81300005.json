@@ -1,0 +1,38 @@
+{
+  "unitId": 81300005,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Klasik Ahlak Metinleri Dersi",
+  "title": "5. ÜNİTE: AHLAKIN TOPLUMSAL BOYUTLARI",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KAM.3.1.1",
+      "title": "Ahlaki kuralların varlığını ve değerini birey toplum ilişkisi açısından açıklar",
+      "processComponents": [
+        "Ahlak kurallarının oluşumunun ve değişiminin birey ve toplum açısından etkisi üzerinde durulur.",
+        "Hukuk kurallarının oluşumunda ahlaki kuralların önemi hakkında çıkarımlarda bulunulması sağlanır.",
+        "Günlük hayat örnekleri üzerinden aile, meslek ve çevre ahlakının gerekliliği hakkında çıkarımlarda bulunulması sağlanır."
+      ]
+    },
+    {
+      "code": "KAM.3.1.2",
+      "title": "Toplumsal görev ve sorumluluklarda ahlakın işlevini açıklar",
+      "processComponents": [
+        "İnsanlarla iletişimde dürüstlük, adalet, sevgi, saygı gibi temel ahlaki ilkelerin benimsenmesinin toplum yararı açısından önemine değinilir.",
+        "Dürüstlük, adalet, sevgi, saygı gibi temel ahlaki ilkelerle ilgili Kur'an-ı Kerim ayetlerinin araştırılması sağlanır.",
+        "Yunus Emre'nin “Biz kimseye kin tutmayız / Cümle âlem birdir bize” sözünden hareketle kişisel hırsların toplum ahlakına olan etkisinin tartışılması sağlanır.",
+        "Hz. Muhammed'in (sav) Veda Hutbesi'nin önemi ve değeri toplum ahlakı açısından incelenmesi sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316030660-KlasikAhlakMetinleri%20%281%29.pdf"
+}

@@ -1,0 +1,79 @@
+{
+  "unitId": 713,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "5. TEMA: HÜCUM OYUNLARI",
+  "hours": "12",
+  "description": "Bu temada öğrencilerin farklı hücum oyunlarının dinamiklerini anlamaları; rakip savunmasını aşmak için etkili stratejiler geliştirmeleri; farklı hücum senaryolarını deneyimleyerek boş alan yaratma, pas verme, hareket etme, zamanlama gibi kavram ve taktikleri uygulamaları; hücum sporlarına ilişkin becerileri geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.7.5.1",
+      "title": "Hücum oyunlarına ilişkin hareket kavramlarını uygulayabilme",
+      "processComponents": [
+        "a) Hücum oyunlarına ilişkin hareket kavramlarını ayırt eder.",
+        "b) Hücum oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar.",
+        "c) Hücum oyunlarına ilişkin hareket kavramlarına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "BES.7.5.2",
+      "title": "Hücum oyunlarına ilişkin hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Hücum oyunlarına ilişkin hareket becerilerini algılar.",
+        "b) Hücum oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir.",
+        "c) Hücum oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular."
+      ]
+    },
+    {
+      "code": "BES.7.5.3",
+      "title": "Hücum oyunlarına ilişkin farklı zorluk seviyelerinde taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Hücum oyunlarına ilişkin taktiksel problemi belirler.",
+        "b) Hücum oyunlarına ilişkin problemin çözümüne ilişkin öneri sunar.",
+        "c) Hücum oyunlarına ilişkin seçilen taktik veya stratejiyi uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "hareket becerileri, hücum, savunma",
+  "support": [
+    "Dönüşümlü hücum ve savunma alıştırmaları hazırlanarak öğrencilerin geçişleri anlamaları sağlanabilir. Hücum oyununda bir taktiksel problem sunularak öğrencilerden akran desteği ile bu problemi basamaklamaları ve uygulamaları istenebilir. Seçilen hücum oyununun hareket becerilerini basamaklama sürecine ilişkin görsel ya da yazılı materyaller sunulabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden seçilen hücum oyununa ilişkin maçları video analizleri ve performans verileriyle incelemeleri, oyun stratejilerini tespit etmeleri ve bu verilerden yola çıkarak kendi taktiklerini geliştirmeleri istenebilir. Hücum ve savunmada karar almalarını gerektiren roller verilip oyunlarda uygulamalara katılmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları gözlem formu, bütüncül dereceli puanlama anahtarı, kontrol listesi, öz değerlendirme ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere performans görevi olarak hücum oyunlarına hazırlayıcı, hareket kavramlarını uygulama ve taktiksel farkındalığı geliştirme fırsatı sunan oyunlar hazırlama verilebilir. Performans görevinin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BES.7.5.1. Bir önceki sınıf düzeyinde seçilen hücum oyunundan (futbol, basketbol, hentbol, frizbi, hokey vb.) farklı bir oyun seçilir ve bu oyunun özellikleri, kuralları ve kavramları ile ilgili açıklamalar yapılır. Seçilen oyunun amacı, temel kuralları ve dikkat edilmesi gereken konuların örnek durumlar üzerinden soru, ipucu ve açıklamalarla öğrenciler tarafından anlaşılması sağlanır. Oyunun amacına ulaşabilmesi için ihtiyaç duyulan taktik ve stratejileri (alan savunması, topa sahip olmayı sürdürme vb.) öğrencilerin anlayabilmeleri için örnekler verilir ve öğrencinin ilgili kavramları (alan kullanımı, pozisyon alma, savunma açıkları, hızlı ve doğru karar verme, zamanlama, sonlandırma vb.) ayırt etmeleri sağlanır. Öğrencilere bu alanda grup olarak taktiği uygulayabilmek için hangi bilgi ve becerilere ihtiyaç olduğu sorularak hem beceri ile kavramlar arasında ilişki kurmaları hem de bu becerilere ulaşabilmek için düzenleme yapmaları sağlanır ( SDB1.2 , E1.4 ). Öğrencilere bu kavram ve becerileri sergileyebilecekleri oyunlar oynatılır ve öğrencilerin gözlem ve geri bildirimler yoluyla ilgili kavramlara (alan kullanımı, pozisyon alma, hızlı ve doğru karar verme, zamanlama vb.) uygun hareket etmeleri sağlanır ( E2.5 ). Öğrencileri hücum oyunlarına hazırlayan, öğrencilere hareket kavramlarını uygulama ve taktiksel farkındalığı geliştirme fırsatı sunan oyunlar hazırlama performans görevi verilebilir. Aynı zamanda öğrencilere öz değerlendirme formu uygulanarak performans görevine ilişkin kendilerini değerlendirmeleri istenebilir ( KB2.17 , SDB1.3 ).",
+    "BES.7.5.2. Seçilen hücum oyunu esnek kurallı formuyla oynatılarak süreç başlatılır. Daha sonra soru ve ipuçlarıyla öğrencilerin ihtiyaç duydukları becerileri algılamaları sağlanır. Öğrencilerin hücum oyunlarına ilişkin algıladıkları becerilerin basamaklarını (basketbolda şut çalışması için duruş, top tutuşu, ayak pozisyonu, hedefe odaklanma, bilek ve elin hareketi vb.) bireysel ya da grup olarak göstermeleri istenir. Beceri çalışmaları yapıldıktan sonra oyun, düzenlenmiş formuyla tekrar oynatılır. Oyuna ait ihtiyaç duyulan becerilerin bireysel ya da gruplar hâlinde çalışılması sağlanır. Yeni ve farklı etkinlikler hazırlanarak öğrencilerin hareket becerilerini tekrar ve çeşitlendirmelerle farklı durumlarda uygulamaları sağlanır ( SDB3.2 ). Bu süreçte öğrencilerin becerilerinin gelişmesi için oyunu sürekli tekrar etmek yerine oyun-alıştırma-oyun döngüsü kullanılarak uygulama çalışmaları değiştirilir ( E1.3 ). Oyunlar öncesinde adil oyun anlayışına uygun davranışlar vurgulanarak oyunun bitiminde haftanın adil oyun anlayışına uygun davranan takım seçilerek ödüllendirilebilir ( BEOSAB8 .). Adil oyun anlayışı vurgulanırken oyunlarda kendilerine yapılmasını istemedikleri davranışları başkalarına da yapmamaları gerektiği örnekler üzerinden açıklanır, oyunlar bittiğinde oyunun kazananını ve oyunlara katılanı tebrik etmeleri için öğrencilere fırsat verilir ( D5.1 , D14.1 , E2.1 ). Bu öğrenme çıktısı hücum oyunlarının becerilerini geliştiren farklı oyun ve etkinliklerle de yapılandırılabilir. Beceri istasyonları kurularak öğrencilerin hareket becerileri bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BES.7.5.3. Hücum oyunlarına özgü yapılandırılmış bir öğrenme çerçevesi içerisinde öğrencilerden kavram, beceri ve taktiklerin bir bütün içerisinde olması konusunu tartışmaları istenir ( KB2.18 ). Hücum oyunları içerisinde uygulama öncesi ya da uygulama aralarında sorularla öğrencilerin oyundaki taktiksel problemi (boşluk oluşturma ve boşlukta hareket etme, topa sahip olma, kenar oyunu, hücum ve savunma vb.) belirlemeleri sağlanır. Problem belirlendikten sonra öğrencilere grup olarak düşünmeleri ve çözüm önerilerini belirlemeleri için zaman verilir ( SDB2.2 , SDB3.3 ). Belirledikleri farklı çözümleri uygulama sırasında gösteren öğrencilerden problemin çözümüne ilişkin öneriler sunmaları istenir. Öğrencilerin grup olarak çözüm ile ilgili verdikleri kararı uygulayabilmeleri için ihtiyaç duyulan becerileri alıştırmalar yoluyla geliştirmeleri istenir ( BEOSAB1.1 ). Sonrasında çözüm ile ilişkili belirledikleri taktik ya da stratejiyi oyun içerisinde göstermeleri sağlanır. Öğrencilerden sırasıyla problemi belirlemeleri, çözüm önerileri geliştirmeleri, ihtiyaç duyulan becerileri çalışmaları ve oyunda uygulamaları istenir ( E2.5 , E3.3 , SDB3.2 ). Bu döngü öğrenme ortamı içerisinde çeşitlendirilerek işletilebilir. Öğrencilerin taktik ve strateji geliştirmelerine yardımcı olmak için \"Bu oyunda amaç ne?\", \"Bu amaca ulaşmak için hangi becerilere ihtiyacınız var?\", \"Bu durumda ne yapmanız gerekiyor?\", \"İlk stratejiniz neydi?\", \"Bu sorunu çözmek için kaç strateji denediniz?\" gibi sorular sorulur ( SDB1.2 ). Öğrencilere gruplara ayrılıp oyun oluşturma, oluşturdukları oyuna özgü taktik ve stratejileri belirleme ve bunu oyunda uygulama performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.3",
+      "E1.4",
+      "E2.1",
+      "E2.5",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.17",
+      "KB2.18"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/713"
+}

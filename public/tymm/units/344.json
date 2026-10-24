@@ -1,0 +1,92 @@
+{
+  "unitId": 344,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "8. ÜNİTE: CANLILARIN YAŞAM ALANLARINA YOLCULUK",
+  "hours": "15",
+  "description": "Bu ünitede canlıların yaşam alanlarının özelliklerinin kanıt kullanarak belirlenmesi, yaşam alanındaki canlı çeşitliliğinin operasyonel olarak tanımlanması ve yaşam alanlarının korunması için yapılması gerekenlerin sorgulanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.3.8.1",
+      "title": "Canlıların yaşam alanlarının özelliklerini belirlemeye yönelik kanıt kullanabilme",
+      "processComponents": [
+        "a) Canlıların yaşam alanlarının özelliklerine ilişkin veri toplayarak kaydeder.",
+        "b) Canlıların yaşam alanlarına ilişkin veri setleri oluşturur.",
+        "c) Canlıların yaşam alanlarının özelliklerine ilişkin veriye dayalı açıklama yapar."
+      ]
+    },
+    {
+      "code": "FB.3.8.2",
+      "title": "Yaşam alanındaki canlı çeşitliliğini operasyonel olarak tanımlayabilme",
+      "processComponents": [
+        "a) Yaşam alanınının özelliklerini tanımlar.",
+        "b) Yaşam alanındaki canlı çeşitliliği ile ilgili ölçüm yapar.",
+        "c) Canlı çeşitliliğinin tanımını yapar."
+      ]
+    },
+    {
+      "code": "FB.3.8.3",
+      "title": "Yaşam alanlarının korunması için yapılacakları sorgulayabilme",
+      "processComponents": [
+        "a) Merak ettiği konuyu tanımlar.",
+        "b) İlgili konu hakkında sorular sorar.",
+        "c) İlgili konu hakkında bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "yaşam alanı, canlı çeşitliliği",
+  "support": [
+    "Canlılar ve yaşam alanlarına yönelik eşleştirme oyunları oynatılabilir.",
+    "Çevresinde gözlemlediği canlılara ait poster hazırlatılabilir.",
+    "Canlıların yaşam alanlarının korunmasına yönelik iş birlikli öğretim ile resim, afiş hazırlatılabilir; görsel ve işitsel materyaller izletilebilir.",
+    "Canlıların yaşam alanlarının korunmasına yönelik çalışmaları, hem aileleriyle hem de okul ortamında (okul panosu, okul gazetesi, okul interrnet sitesi) paylaşmaları ve sosyal farkındalık oluşturmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Bazı canlıların farklı yaşam alanlarına uyumları konusunda derinlemesine araştırmaları istenebilir. Araştırma ile ilgili dijital ve görsel unsurlarla desteklenerek sunum yaptırılabilir.",
+    "Bu kapsamda öğrencilerin ulaştıkları bilgileri anlamlandırmaları, karşılaştırmaları, sınıflamaları ve değerlendirmeleri sağlanabilir. Öğrencilerden bu araştırma sonuçlarını dijital olarak (sunum, kısa video ya da poster vb.) tasarlayıp paylaşmaları istenebilir. Öğrenciler estetik bir bakış açısıyla çalışmaları ve yaratıcılıklarını geliştirmeleri için desteklenebilir.",
+    "Bir bölgedeki canlı çeşitliliği ile ilgili olarak canlıların farklı yaşam alanlarında yaşayıp yaşayamayacağını kanıta dayalı olarak açıklamaları istenebilir.",
+    "Canlıların yaşam alanlarının korunmasına yönelik çalışmalar önermeleri ve belirlenen çalışmaların okul geneline yaygınlaştırılabilmesi için uygulamaya dönüştürmeleri istenebilir.",
+    "Çevrenin korunması ile ilgili çalışmalar yapan kurum ve kuruluşların araştırılması istenebilir. Nesli tükenen ya da tükenmekte olan canlılarla ilgili afiş tasarımları yaptırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde performans görevi, öğrenme günlüğü, öğrenci ürün dosyası kullanılabilir. Öğrencilerin kanıt kullanma becerilerinin değerlendirilmesi için performans görevi verilebilir. Canlı çeşitliliği ile ilgili öğrenmeler öğrenme günlükleri ile değerlendirilebilir. Yaşam alanlarının korunmasının canlı çeşitliliğine etkisi ile ilgili performans görevi verilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.3.8.1. Ders öncesinde gezi gözlem yapılabilecek bir alan belirlenebilir ya da canlılar ve yaşam alanlarından oluşan basılı veya dijital görseller hazırlanabilir. Öğrencilerin belirledikleri canlı (karınca, papatya vb.) ve yaşam alanları (toprak, göl, orman vb.) ile ilgili gözlem yapmaları sağlanabilir ( KB2.2 ) . Öğrencilerden gözlem yapılan canlıların yaşam alanlarının özelliklerine ilişkin verileri toplayarak kaydetmeleri istenir ( OB7 ) . Kaydettikleri verilerden aynı yaşam alanına ait verileri bir araya getirerek veri setleri oluşturmaları sağlanır ( SDB1.2 ) . Gözlem, kayıt, veri seti oluşturma sürecinde öğrenciler sistematik bir biçimde çalışmaları, bilimsel bir bakış açısı ile hareket etmeleri için yönlendirilir ( D3.2 , D3.3 , E3.7 ) . Öğrencilerden oluşturdukları veri setlerinden yola çıkarak canlılar ile onların yaşam alanları arasındaki ilişkiyi gerekçelendirerek veriye dayalı açıklamaları istenir. Öğrenciler açıklamalarını soru-cevap vb. yöntem kullanarak çevreye duyarlı, doğayı korumaya önem veren bir bakış açısıyla yapmaları için teşvik edilir ( SDB3.3 , D5.2 , D9.3 ) . Öğrencilerin kanıt kullanma becerilerine ilişkin performansları analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FB.3.8.2. Öğrencilerden gruplar hâlinde gözlem yapmak için bir yaşam alanı belirlemeleri istenir. Gözlemleriyle yaşam alanının özelliklerini tanımlamaları sağlanır ( SDB1.2 ) . Bu alan içerisindeki canlı çeşitliliğini canlılara zarar vermeden sayarak ölçüm yapmaları beklenir ( SDB1.2 ) . Öğrenciler doğayı ve canlıları korumaya önem vermeleri konusunda bilinçlendirilir ( SDB3.3 , D5.2 , D14.3 ) . Yaşam alanlarına göre belirledikleri canlı sayılarını gösteren bir tablo düzenlemeleri istenilir ( OB7 ) . Öğrencilerin toprak, göl, orman, ağaç vb. farklı yaşam alanlarındaki gözlemlerinden yola çıkarak canlı çeşitliliğini tanımlamaları sağlanır ( SDB1.2 , E3.4 ) . Öğrenciler bilimsel gelişim için merak duygularını takip etmenin önemini fark etmeleri ve doğru bilgiyi ayırt edebilmeleri için yönlendirilir ( D3.3 ) . Canlı çeşitliliğinin bir yaşam alanındaki herhangi bir canlıya ait bireylerin sayısıyla değil yaşam alanındaki farklı canlıların sayısı ile tanımlanacağı belirtilebilir. Öğrencilerin canlı çeşitliliği ile ilgili öğrendikleri öğrenme günlükleri ile değerlendirilebilir.",
+    "FB.3.8.3. Ders öncesinde çeşitli canlılar ve yaşam alanları ile ilgili görseller hazırlanır. Öğrencilerden görselleri incelemeleri ve yaşam alanlarının korunması ile ilgili merak ettikleri bir araştırma konusu tanımlamaları istenir ( SDB1.2 , E1.1 ) . Yaşam alanlarının korunması ile ilgili konu hakkında soru sormaları sağlanır ( E3.8 ) . Öğrencilerin yaşam alanlarının korunması ile ilgili belirledikleri soruların cevaplarını bulmak için araştırma yaparak bilgi toplamaları sağlanır ( KB2.6 , SDB1.2 ) . Topladıkları bilgileri ayrılıp birleşme ya da görüş geliştirme teknikleri ile sunmaları istenir. Sundukları bilgilerin doğruluğunu eleştirel bir yaklaşımla sınıfça tartışarak değerlendirmeleri beklenir ( SDB2.2 , E3.10 , D3.3 ) . Değerlendirmeleri doğrultusunda yaşam alanlarının korunmasının canlı çeşitliliğine etkisi ile ilgili çıkarımlarda bulunmaları sağlanır ( SDB1.2 , KB2.10 ) . Öğrencilerin hayal güçlerine dayalı gelecekte nasıl bir çevrede yaşamak istedikleri ile ilgili kendi fikirlerini yansıttıkları metin, görsel, şiir vb. hazırlamaları istenebilir. Süreçteki performansları analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D3.2",
+      "D3.3",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10",
+      "E3.4",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.2",
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/344"
+}

@@ -1,0 +1,50 @@
+{
+  "unitId": 81357002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Metin Tahlilleri Dersi",
+  "title": "2. ÜNİTE: METİN TAHLİLLERİ I - METİN TAHLİLİ AŞAMALARI",
+  "hours": "36",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTT.I.2.1",
+      "title": "Metin tahlili aşamalarını ayırt eder",
+      "processComponents": [
+        "Metinlerdeki yapı unsurlarının (kişiler, olay örgüsü, zaman, mekân; anlatıcı / söyleyici, paragrafların birbiriyle ilişkisi, kullanılan anlatım biçimi ve teknikleri; nazım birimi, nazım biçimi ve teknikleri vb.) çözümlenmesi gerektiği belirtilir.",
+        "Metinlerin konusu, teması, ana düşüncesi ve yardımcı düşüncelerinin belirlenerek metindeki tutarlılığın, çatışmaların, geçerliğin, güvenilirliğin değerlendirilmesinin; metnin dil özellikleri ve yazarın üslubunun belirlenmesinin metin tahliline katkısına değinilir."
+      ]
+    },
+    {
+      "code": "MTT.I.2.2",
+      "title": "Metin tahlili metotlarını ayırt eder",
+      "processComponents": [
+        "Dış dünya / toplum, sanatçı, eser, okur ve yapı çözümlemeye yönelik tahlil metotlarının genel ilkelerine ayrıntıya girmeden değinilir."
+      ]
+    },
+    {
+      "code": "MTT.I.2.3",
+      "title": "Farklı türlerdeki metinleri analiz eder",
+      "processComponents": [
+        "Analiz edilecek metinler fen bilimleri, sosyal bilimler, edebiyat gibi farklı alanlardan seçilir.",
+        "Metin tahlili uygulamaları, gazete ve dergi yazıları, deneme, makale gibi bilgilendirici metinler ile edebî metinler üzerinde yaptırılır."
+      ]
+    },
+    {
+      "code": "MTT.I.2.4",
+      "title": "Tahlil ettiği farklı türlerdeki metinleri değerlendirir",
+      "processComponents": [
+        "Eleştiri kuramlarının genel ilkelerine ayrıntıya girmeden değinilir.",
+        "Metinlerin değerlendirilmesinde ifade etme becerilerinin geliştirilmesi için yazma ve konuşma uygulamaları yaptırılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249558132-metintahlilleri.pdf"
+}

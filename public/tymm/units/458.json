@@ -1,0 +1,88 @@
+{
+  "unitId": 458,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "2.TEMA: İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+  "hours": "33",
+  "description": "Bu temada öğrencilerin gerçek yaşam durumlarındaki bilinmeyen niceliklerin temsiline ve anlamına ilişkin muhakeme yapabilmeleri, cebirsel ifadelerin anlamına yönelik çıkarımda bulunabilmeleri ve cebirsel ifadeler içeren durumlardaki algoritmaları yorumlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.6.2.1",
+      "title": "Gerçek yaşam durumlarında bilinen niceliklerden bilinmeyen niceliklere ilişkin muhakeme yapabilme",
+      "processComponents": [
+        "a) Gerçek yaşam durumlarında nicelikleri belirler.",
+        "b) Nicelikler arasındaki ilişkileri tablo temsili kullanarak belirler.",
+        "c) Nicelikler arasındaki ilişkileri cebirsel olarak ifade eder.",
+        "ç) Cebirsel ifadenin anlamını kendi cümleleri ile açıklar.",
+        "d) Yorumladığı cebirsel ifadelere karşılık gelen durumlara yönelik varsayımda bulunur.",
+        "e) Verilen cebirsel ifadelere yönelik varsayımda bulunduğu durumları inceleyerek değişkenlerin ve cebirsel ifadelerin anlamlarına yönelik genellemeleri belirler.",
+        "f) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını farklı sözel ve cebirsel ifadeler ile sınar.",
+        "g) Doğrulayabileceği sözel ve cebirsel ifadeleri farklı değişken ve değerlerle sözel ve cebirsel olarak yeniden ifade eder.",
+        "ğ) Cebirsel ifadelerin matematiğin farklı alanlarında ve gerçek yaşam durumlarında kullanımına yönelik katkısını ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.6.2.2",
+      "title": "Sayı ve şekil örüntülerini yorumlayabilme",
+      "processComponents": [
+        "a) Sayı ve şekil örüntülerindeki ilişkileri inceler.",
+        "b) İncelediği ilişkileri tablo, grafik ve sözel temsiller aracılığıyla ifade eder.",
+        "c) Farklı temsillerle gösterilen ilişkilerden yola çıkarak örüntülerdeki yapıları cebirsel olarak ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.6.2.3",
+      "title": "Cebirsel ifadeler içeren durumlardaki algoritmaları yorumlayabilme",
+      "processComponents": [
+        "a) Cebirsel ifadeler içeren durumlardaki algoritmik yapıyı inceler.",
+        "b) İncelediği durumlardaki algoritmik yapıyı tablo temsiline veya cebirsel ifadelere dönüştürür.",
+        "c) Dönüştürdüğü algoritmik yapının içerdiği matematiksel ilişkileri sözel olarak ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Çokgenlerin iç açılarının ölçüleri toplamı üçgenin iç açılarının ölçüleri toplamına dayanır. • Kenar sayısı n olan düzgün çokgende bir dış açının ölçüsü 360°'nin kenar sayısına bölümüdür. Anahtar Kavramlar algoritma, cebirsel ifadeler, değişken, katsayı, sabit terim, terim Sembol ve Gösterimler Çarpma işareti: \".\"",
+  "support": [
+    "Verilen çalışmaların sayısı öğrencilerin ihtiyaçları doğrultusunda belirlenebilir. Bilinmeyen nicelikleri oluştururken renkli örüntü blokları gibi somut materyallerden yararlanılabilir. Örüntünün yapısını cebirsel olarak ifade etmede tek işlem içeren örneklerden başlanarak karmaşık örneklere geçilebilir. Gerçek yaşam durumları ve cebirsel ifadeler arasında ilişkilendirmelerde grup çalışmaları yapılabilir. Başlangıçta daha az adıma sahip olan algoritmalar üzerinde çalışmaları sağlanabilir. Bu süreçte algoritmalar küçük parçalara bölünerek her bir parçada neler yapıldığını ayrı ayrı incelemeleri istenebilir. Öğrencilerin algoritma okuma süreçlerini desteklemede görselleştirme ve dijital araçlardan yararlanılabilir."
+  ],
+  "enrichment": [
+    "Cebirin tarihsel gelişimine öncülük eden Hârizmî, Ömer Hayyam, Ebu Kâmil, Şerefeddin Tûsî gibi âlimlerin kullandıkları yöntemleri araştırmaları istenebilir. Tarihsel süreçte değişkenler ve cebirsel ifadelere karşılık gelen temsillerin neler olduğunu belirlemeleri sağlanabilir. Bununla birlikte Cumhuriyet Dönemi'ndeki Ali Yar, Kerim Erim, Cahit Arf gibi matematikçilerin cebir alanına yaptıkları katkıların araştırılmasına yönelik bir pano hazırlamaları beklenebilir. Öğrencilerin sembollerin anlamları hakkında yeni bilgiler edinmelerini sağlamak amacıyla matematikte ve diğer disiplinlerde (fizik gibi) kullanılan farklı sembollerle [örneğin fi sayısı (φ), Euler (Öyler) sabiti (e), ışık hızı (c), i sayısı] ilgili araştırma yapmalarına yönelik bir görev verilerek poster şeklinde sunmaları istenebilir. Fibonacci (Fibonaçi) dizisi ya da Collatz (Kolıt) varsayımı gibi konular üzerine araştırma yapmaları istenebilir. Bu konularda öğrencilere algoritmalar sunularak bu algoritmaların araştırdıkları konularla nasıl ilişkilendirilebileceği üzerine düşünmeleri beklenebilir. Bu sınıf seviyesine uygun problemlere ait algoritmaları temel programlama dillerinde sunarak öğrencilerin bu dillerdeki örüntüleri incelemeleri ve bu diller hakkında çıkarımlarda bulunmaları teşvik edilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu, doğru-yanlış ve eşleştirme gibi sorulardan oluşan izleme testleri, çalışma kâğıtları ve performans görevi ile değerlendirilebilir. Matematikte ya da diğer disiplinlerde kullanılan semboller, cebirsel ifadeler ve bunların anlamlarının araştırılmasına yönelik performans görevi verilebilir. Ayrıca edindikleri bilgileri bütünleştirecekleri infografik tasarlamaları istenebilir. İnfografikler için içerdikleri semboller, cebirsel ifadeler ve bunların anlamlarının değerlendirilmesine ilişkin kriterleri yansıtan bütüncül dereceli puanlama anahtarı kullanılabilir. Performans ürünleri, izleme testi ve çalışma kâğıdı (açık uçlu, doğru-yanlış ya da eşleştirme gibi sorular içeren) sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.6.2.1 Öğrencilerin çeşitli nicelikler üzerine düşünmelerini sağlamak için yardım kampanyalarında elde edilebilecek gelir ( D20.3 ) , tasarruf etmek için giderlerin ve kesintilerin belirlenmesine yönelik bütçe planlaması ( D17.2 , OB3 ) , barınaktaki hayvanların giderlerini karşılamak için gereken para miktarı ( D9.3 ) gibi bağlamlar ( SDB2.3 ) ya da \"aklından bir sayı tut\" gibi oyunlar kullanılabilir ( E2.5 ) . Bu bağlamlar üzerinden öğrencilerle ihtiyaç duyduklarından fazla ürün almamayı tasarruf değeri ( D17.1 ) , çevresel sürdürülebilirliği önemsemeyi duyarlılık değeri ( D5.2 ) , insanlara ve diğer canlılara yardım etmekten mutluluk duymayı merhamet değeri ile ilişkilendirilerek ( D9.3 ) bu değerler hakkında konuşulabilir.",
+    "Gerçek yaşam durumlarında herhangi bir sayının bir doğal sayı ile toplamı ya da farkı (örneğin 3+k ya da d-4), bir doğal sayıyla herhangi bir sayının çarpılması veya bölünmesi (örneğin x.4 ya da ), herhangi bir doğal sayının toplamı ya da farkının bir doğal sayı ile çarpılması veya bölünmesi [örneğin 4(3x+1) ya da ] işlemler ele alınır. Öğrencilerden gerçek yaşam durumlarında ortaya çıkabilecek nicelikleri tahmin etmeleri, olası nicelikleri belirlemeleri ve belirledikleri nicelikleri farklı şekillerde matematiksel olarak ifade etmeleri istenir. Bu süreçte grup çalışması yapılabilir. Gruplara açık uçlu sorulardan oluşan çalışma kâğıdı sunulur ve kendi aralarında tartışmaları istenerek nicelikler ve nicelikler arasındaki ilişkilere odaklanmaları sağlanır ( E3.2 ) . Grup çalışması sonunda öğrencilerin düşüncelerini tüm sınıf ile paylaşmaları istenir ( SDB2.1 ) . Nicelikler arası ilişkilerin gözlenmesinde tablo temsili kullanılarak ( MAB3 ) öğrencilerin çeşitli matematiksel ifadeleri göstermeleri ve nicelikler arasındaki ilişkileri incelemeleri, ardından bilinmeyen durumlara geçerek bu durumları cebirsel olarak ifade etmeleri sağlanır. Bu süreçte örneğin \"4a\" cebirsel ifadesinin herhangi bir sayının 4 ile çarpımı olduğu yanı sıra \"4a\" cebirsel ifadesinin herhangi bir sayının 4 ile çarpılması sonucunda elde edilen yeni bir sayı olduğu düşüncesi yorumlanır. Cebirsel ifadelerin farklı anlamları üzerine ve cebirsel ifadede katsayı ve sabit terimlerinin bağlamlar içinde ne anlama geldiğine odaklanılır. Son olarak öğrencilerin cebirsel ifadelere denk ifadeler oluşturmaları istenir. Örneğin \"4a\" ifadesi \"a+2a+a\" ile gösterilebileceği gibi \"a+3a\" şeklinde de ifade edilebilir. Aynı zamanda \"4a\" cebirsel ifadesinin \"4.a=a.4=a4\" şeklinde denk ifadeleri de tartışılabilir. Öğrencilerin farklı şekillerde verilen cebirsel ifadelerin denk ifadeler olduğunu da fark etmeleri ve bunu gösterebilmeleri beklenir. Öğrencilerden çeşitli şekillerde gösterilmiş cebirsel ifadelere yönelik (a+b=b+a, 2x+2y, 3m,2n+1, 7p+5a, 3(k+1), ,ab, k+l+m, e gibi) matematikte ya da gerçek yaşamda karşılaştığı durumlarla ilişkilendirebileceği varsayımlarda bulunmaları beklenir. Örneğin öğrenciler \"2x+2y\" ifadesinin \"kenar uzunlukları x birim ve y birim olan dikdörtgenin çevre uzunluğu\" ile ya da \"farklı iki sayının 2 katlarının toplamı\" ile ilişkilendirilebileceğine yönelik varsayımlarda bulunabilir. Benzer şekilde öğrencilere \"9m+5n\" ifadesi ile ilgili sorular sorularak, cebirsel ifadenin \"okul kantininden simit ve ayran almak isteyen bir öğrencinin birim fiyatı 9 TL olan m tane simit ve birim fiyatı 5 TL olan n tane ayran için ödeyeceği ücrete\" ya da \"birim fiyatı m TL olan 9 tane simit ve birim fiyatı n TL olan 5 tane ayrana ödeyeceği ücrete\" karşılık geldiğine yönelik varsayımlarda bulunmaları beklenebilir.",
+    "Öğrencilerin varsayımlarına dayalı olarak \"verilen herhangi bir cebirsel ifadedeki değişkenlerin anlamına\" yönelik bir genellemede bulunmaları beklenir. Öğrencilerin herhangi bir cebirsel ifadede değişebilir niceliklerle yeni değişebilir niceliklerin elde edilebileceği düşüncesine ulaşmaları beklenmektedir. Örneğin \"Mehmet'in parası Ahmet'in parasının 8 TL fazlasıdır.\" ifadesinde Ahmet'in parası x TL olarak ifade edildiğinde \"x+8\" ifadesi Mehmet'in parasına karşılık gelmektedir. Bu durumda Ahmet'in parası değişebilir bir nicelik iken Mehmet'in parası değişebilir niceliğe bağlı yeni tanımlanan bir niceliktir. Öğrencilerden elde ettiği genellemeye uygun farklı matematiksel ya da gerçek yaşam durumları oluşturmaları beklenir. Örneğin x+y+z ifadesini \"çeşitkenar üçgenin çevre uzunluğu\" ile ilişkilendiren bir öğrenci, bu ifadeye uygun \"Zeynep, Ayşe ve Mehmet'in para miktarlarının toplamı\" gibi farklı bir durum da oluşturabilir. Elde ettiği sözel ve cebirsel ifadelerden hareketle öğrencilerin farklı değişken ve değerlerle bu durumları tersine düşünerek sözel ya da cebirsel olarak yeniden ifade etmeleri sağlanır. Örneğin Ahmet'in para miktarını x TL, Mehmet'in para miktarını x+8 TL olarak ifade eden öğrencilerden, Mehmet'in para miktarını y TL olarak ifade ettiği durumda Ahmet'in para miktarını y-8 TL olarak ifade etmeleri beklenebilir. Öğrencilerin oluşturulan cebirsel ifadelerin doğruluğunu değişkenlere farklı değerler vererek sınamaları sağlanır. Bu sürecin sonunda cebirsel ifadelerin matematiğin farklı alanlarında ve gerçek yaşam durumlarında kullanımına yönelik katkısına ilişkin tartışmalar gerçekleştirilir. Süreç içinde ve sürecin sonunda öğrencilerin değerlendirilmesi için sözel ve cebirsel durumlar arasındaki dönüşümlerin yapılmasını gerektiren açık uçlu sorulardan oluşan izleme testi verilebilir. Öğrencilerin matematikte ya da diğer disiplinlerde kullanılan semboller, cebirsel ifadeler ve bunların anlamlarına yönelik araştırma yapmalarını sağlayacak bir performans görevi verilerek buldukları sembollerin anlamlarına yönelik bir infografik hazırlamaları istenebilir.",
+    "MAT.6.2.2 Bu öğrenme çıktısına sayı ve şekil örüntüleri ele alınarak başlanır. Çokgenlerin iç açılarının ölçüleri toplamının ve düzgün çokgenlerde bir iç açı ve dış açının ölçüsünün genellenmesi, bu öğrenme çıktısı altındaki örüntü çalışmalarından biri olarak ele alınır. Çokgenler ve açı ölçüleriyle ilgili bilgi edinen öğrencilerin çokgenlerin iç açılarının ölçüleri toplamına ve düzgün çokgenlerde bir iç açı ve dış açının ölçüsüne dair bir genellemede bulunması istenir ( KB2.9 ) . Öğrencilerden örüntülerdeki adım sayısı ile adım sayısına karşılık gelen terim arasındaki ilişkileri tablo, grafik ve sözel temsil ile göstermeleri istenir. Öğrencilerden gruplar hâlinde çalışarak buldukları ilişkiler üzerine tartışmaları sağlanır ( SDB2.1 ) . Bu sınıf düzeyinde örüntünün yapısını cebirsel olarak ifade etme çalışmalarına yer verilir. Öğrencilerin cebirsel olarak ifade ettikleri yapılarda değişkenin farklı değerler alabileceğini ve yazılan cebirsel ifadenin örüntüdeki adım sayısı ve o adıma karşılık gelen terim arasındaki ilişki ile oluşturulduğunu yorumlamaları beklenir. Örüntüde istenen adımdaki terim bulunurken yazılan cebirsel ifadeyi kullanmaları istenir. Bu öğrenme çıktısı çeşitli örüntülerin yer aldığı çalışma kâğıdı (açık uçlu, doğru-yanlış ya da eşleştirme gibi sorular içeren) kullanılarak değerlendirilebilir.",
+    "MAT.6.2.3 Bir önceki sınıfta akış şeması, doğal dil ve sözde kod ile ifade edilen algoritmaları yorumlayan öğrencilerin, bu öğrenme çıktısında aynı ifade yöntemleri ile sunulmuş ancak cebirsel ifadeler içeren algoritmaları yorumlamaları beklenmektedir. Algoritmalar bu sınıf seviyesindeki içerikle uyumlu değişkenler ve cebirsel ifadeler içeren ve öğrencilerin ilgisini çekecek durumlar arasından seçilir. Örneğin \"2,5,8,11,14,...\" şeklinde verilen bir sayı örüntüsünde n. adıma kadar olan sayıları yazdıracak ve n. adımdaki terimi hesaplatacak algoritmalar seçilebilir. Öğrencilerden verilen algoritmaların hangi işlemlere karşılık geldiğini açıklamaları beklenir. Öğrencilerin hatalı durumlar içeren algoritmaları açıklamaları, farklı yollarla yazılan algoritmaların güçlü ve zayıf yönlerini tartışmaları ve algoritmaların farklı ifade yöntemlerini yorumlamaları sağlanır. Öğrencilerin sınıf düzeyine uygun algoritmaları tablo temsiline ya da cebirsel ifadelere dönüştürmesi ve algoritmik yapının içerdiği matematiksel ilişkileri sözel olarak yeniden ifade etmesi beklenir. Bu süreçte öğrencilerden mevcut algoritmayı değiştirmeleri ve yapılan değişikliklerin sonuçları nasıl etkilediğini açıklamaları istenebilir. Öğrencilere algoritmaların karşılık geldiği matematiksel durumu açıklamaları ve hata içeren durumları belirlemelerine yönelik açık uçlu, doğru-yanlış ve eşleştirme gibi sorulardan oluşan izleme testi ve çalışma kağıdı uygulanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D17.1",
+      "D17.2",
+      "D20.3",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.9"
+    ],
+    "alan": [
+      "MAB3"
+    ],
+    "okuryazarlik": [
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/458"
+}

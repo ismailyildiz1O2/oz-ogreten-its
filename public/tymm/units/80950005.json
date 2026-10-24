@@ -1,0 +1,51 @@
+{
+  "unitId": 80950005,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "5. ÜNİTE: 10. SINIF - AKADEMİK GELİŞİM",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.5.1",
+      "title": "Okul içinde ve dışında eğitsel ve sosyal etkinliklere katılmanın gelişimine katkılarını değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.5.2",
+      "title": "Öğrenme ve verimli çalışma stratejilerini açıklar",
+      "processComponents": [
+        "Tekrar stratejileri, anlamlandırmayı artıran stratejiler, yürütücü biliş stratejileri, duyuşsal stratejiler, Uluslararası Öğrenci Değerlendirmelerinde yer alan anlama, hatırlama, ezberleme, kontrol, keşfetme, özetleme üzerinde durulur."
+      ]
+    },
+    {
+      "code": "REH.5.3",
+      "title": "Hatırlamayı zorlaştıran ve unutmaya neden olan faktörleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.5.4",
+      "title": "Öğrenme ve verimli çalışma stratejilerini kullanma açısından kendisini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.5.5",
+      "title": "Eğitsel çabanın akademik hedeflere ulaşmadaki etkisini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.5.6",
+      "title": "Öğrenme ortamlarındaki duygularını düzenler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

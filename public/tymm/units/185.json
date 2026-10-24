@@ -1,0 +1,63 @@
+{
+  "unitId": 185,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Kur'an-ı Kerim Dersi",
+  "title": "4. TEMA: KUR’AN-I KERİM’İ OKUYORUM",
+  "hours": "16",
+  "description": "Bu temada öğrencilerin; sekteyi seslendirmesi, Fetih ve Hucurat surelerini yüzünden okuması, Hz. Eyyüb’ün duasını yorumlaması ve Asr suresinin anlamını yorumlayıp okunuşunu ezberlemesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KK.8.4.1",
+      "title": "Sekte ile ilgili örnekleri seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.8.4.2",
+      "title": "Fetih ve Hucurat surelerini yüzünden okuyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.8.4.3",
+      "title": "Hz. Eyyüb'ün duasını yorumlayabilme",
+      "processComponents": [
+        "a) Hz. Eyyüb'ün duasını inceler.",
+        "b) Hz. Eyyüb'ün duasını kendi hayatı için anlamlı hâle getirir.",
+        "c) Hz. Eyyüb'ün duasını anlamını değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "KK.8.4.4",
+      "title": "Asr suresinin anlamını yorumlayabilme",
+      "processComponents": [
+        "a) Asr suresinin anlamını inceler.",
+        "b) Asr suresini kendi hayatı için anlamlı hâle getirir.",
+        "c) Asr suresini anlamını değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "KK.8.4.5",
+      "title": "Asr suresini ezberleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "asr, sabır, sekte",
+  "support": [
+    "Öğrencilerden sekte kuralıyla ilgili temel bilgilerin yer aldığı bilgi kartları hazırlamaları istenebilir. Farklılaştırılmış öğretimin destekleme boyutu; öğrenme sürecinde daha fazla zaman ve tekrara ihtiyaç duyan öğrenciler için içerik, süreç, ürün ve öğrenme ortamındaki uyarlamaları kapsar."
+  ],
+  "enrichment": [
+    "Öğrenciler, Maide suresinin 14-36. ayetlerini yüzünden okumaya yönlendirilebilir. Öğrencilerin bir tecvit öğrenme rehberi geliştirmeleri veya sekte kuralıyla ilgili bir yazı kaleme almaları teşvik edilebilir. Öğrencilerden peygamber dualarını içeren ve özgün tasarımla oluşturulan bir peygamber duaları kartelası hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; dereceli puanlama anahtarı, dereceleme ölçeği, kontrol listesi, gözlem formu, öz değerlendirme formu, çalışma yaprağı, çıkış kartları, kavram haritası ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak sekteyi anlatan bir dijital sunu hazırlamaları ve hazırladıkları çalışmanın sunumunu yapmaları istenebilir. Yapılan çalışmalar; açıklık, içeriği yansıtabilme ve hedef kitleye uygunluk ölçütleri bulunan dereceli puanlama anahtarı veya öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KK.8.4.1 Sekte kuralı açıklanarak Kur'an ayetlerinin bu kurala uygun şekilde seslendirilmesinin önemi vurgulanır. Sektenin ne olduğu, Kur'an-ı Kerim'de hangi surelerde yer aldığı açıklanır. Kuralın bulunduğu örnekleri seslendirme çalışmalarında bilişsel çıraklık tekniği kullanılabilir. Bu süreçte geçerli ve güvenilir dijital kaynaklardan yararlanılabilir. Öğrencilerin kendi okuyuşlarını örnek okuma ile karşılaştırarak değerlendirme yapması (SDB1.3) sağlanır. Sekte kuralı kavram haritası üzerinden pekiştirilebilir. Öğrencilerin öğrenme kanıtlarında belirtilen performans görevini yapması sağlanabilir. Performans göreviyle ilgili öğrencilere geri bildirim verilir. Bu süreçte öğrencilerin dijital uygulamalardan yararlanması beklenir (OB2) .",
+    "KK.8.4.2 Öğrencilere güvenilir ve geçerli dijital materyaller üzerinden Fetih ve Hucurat sureleri dinletilir (OB2) . Öğrencilerin, daha önce öğrendikleri tecvit kurallarını uygulayarak bu ayetleri yüzünden okumaları sağlanır. Öğrencilerin, planlama ve yürütme becerilerine ilişkin kişisel inançlarını sürdürerek (E1.4) yüzünden okuma çalışmalarını devam ettirmeleri beklenir. Kur'an-ı Kerim'i yüzünden okuma becerisi; öz değerlendirme formu, dereceleme ölçeği ve kontrol listesi ile değerlendirilebilir.",
+    "KK.8.4.3 Hz. Eyyüb'ün Enbiya suresinin 83. ayetinde yer alan duasının anlamı güvenilir ve geçerli dijital içeriklerden istifade edilerek açıklanır. Öğrencilerden söz konusu ayetin anlamını incelemeleri istenir. Dua etmenin önemine vurgu yapılarak peygamberlerin dualarının günlük yaşamdaki yerine dikkat çekilir. Hz. Eyyüb'ün sabrından bahsedilerek öğrenciler olumlu bakış açısına sahip olmaya, zor ve kötü durumlara karşı dayanmaya (D12.3) teşvik edilir. Öğrencilerin, duanın manasını göz önünde bulundurarak bu ayeti kendi hayatları için anlamlı hâle getirmesi sağlanır. Öğrencilerin, söz konusu duanın anlamını bağlamından koparmadan kendi cümleleriyle ifade etmesi teşvik edilir. Ölçme ve değerlendirme sürecinde çıkış kartları, öğrencilerin duanın anlamını kendi cümleleriyle yazabilecekleri çalışma yaprakları kullanılabilir.",
+    "KK.8.4.4 Asr suresinin anlamı, asr ve sabır kavramlarının manalarına değinilerek açıklanır. Öğrencilerden Asr suresinin anlamını incelemeleri istenir. Güvenilir ve geçerli dijital içeriklerden yararlanılarak surenin anlamı tahtaya yansıtılabilir veya yazılabilir. Öğrencilerin, surenin manasından yola çıkarak bu sureyi kendi hayatları için anlamlı hâle getirmesi sağlanır. Öğrencilerin, söz konusu surenin anlamını suredeki bağlamından koparmadan kendi cümleleriyle ifade etmesi teşvik edilir. Bu süreçte Türkçe disiplininden yararlanılır. Surede geçen söz konusu kavramlar Frayer modeliyle açıklanabilir. Ölçme ve değerlendirme sürecinde; içinde asr, hak, iman, insan, sabır ve salih amel kavramlarının bulunduğu bir çalışma yaprağı kullanılarak öğrencilerin, surenin anlamını bu kavramlardan hareketle yeniden yorumlamaları istenebilir.",
+    "KK.8.4.5 Öğrencilerden Asr suresini ezberlemeleri istenir. Ezber çalışmalarında bilişsel çıraklık tekniği kullanılabilir. Bu süreçte geçerli ve güvenilir dijital kaynaklardan yararlanılabilir. Öğrenciler, zihinsel ve bedensel yetilerini en iyi düzeyde kullanma ve gerekli çabayı gösterme (E3.2) konusunda teşvik edilerek öğrencilerden Asr suresini ezberden okuma becerisinin geliştirilmesi beklenir. Asr suresinin ezberden okunması ve seslendirilmesine yönelik uygulamalar, kontrol listesi ve gözlem formu aracılığıyla değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/185"
+}

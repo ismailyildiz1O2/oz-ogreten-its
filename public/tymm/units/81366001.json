@@ -1,0 +1,125 @@
+{
+  "unitId": 81366001,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Yönetim Bilimi Dersi",
+  "title": "1. ÜNİTE: YÖNETİM BİLİMİNE GİRİŞ",
+  "hours": "15",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YNB.1.1",
+      "title": "Yönetim kavramını açıklar",
+      "processComponents": [
+        "Yönetimin insan ve toplum yaşamındaki önemi vurgulanır.",
+        "Konu özlü sözlerle desteklenir. Yönetim birimlerinin yaptıkları yönetim işi zaman içinde ve birimden birime değişir mi?",
+        "Yaşamın farklı alanlarında farklı yönetim birimleriyle karşılaşılır mı?"
+      ]
+    },
+    {
+      "code": "YNB.1.2",
+      "title": "Bilim ve bilimsel düşünme kavramlarını açıklar",
+      "processComponents": [
+        "Sosyal bilim çalışmaları ve felsefe dersiyle ilişkilendirir.",
+        "Bilimsel araştırma metodu aşamaları üzerinde durulur.",
+        "Bilimsel düşünme ve tutum kazanma üzerinde durulur.",
+        "Bilimin temel ilkeleri nelerdir?"
+      ]
+    },
+    {
+      "code": "YNB.1.3",
+      "title": "Yönetim biliminin kapsamını açıklar",
+      "processComponents": [
+        "Farklı yönetim bilimi tanımlarından çıkarılabilecek olan yönetim bilimine ait ortak özellikler nelerdir?",
+        "Değişik alanlardan yöneticiler davet edilerek öğrencilerin gerçek hayattan örneklerle yönetim biliminin kapsamıyla ilgili fikir edinmeleri sağlanır."
+      ]
+    },
+    {
+      "code": "YNB.1.4",
+      "title": "Toplumsal yaşamda yönetim biliminin rolünü irdeler",
+      "processComponents": [
+        "Her insan bir yönetici midir?"
+      ]
+    },
+    {
+      "code": "YNB.1.5",
+      "title": "Yönetim biliminin amaçlarını saptar",
+      "processComponents": [
+        "Yönetim biliminin amaçları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.1.6",
+      "title": "Yönetim bilimini diğer bilim dallarıyla ilişkilendirir",
+      "processComponents": [
+        "Tarih, psikoloji, sosyoloji, felsefe dersleri ile ilişkilendirir.",
+        "Yönetim biliminin disiplinler arası niteliği vurgulanır.",
+        "Yönetimin felsefi, sanat ve bilim yönü vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.1.7",
+      "title": "Kamu yönetimi ile işletme yönetiminin benzer ve farklı yönlerini ayırt eder",
+      "processComponents": [
+        "Yönetimin evrenselliği vurgulanır.",
+        "Genel olarak kamu yönetiminin vatandaşa, işletme yönetiminin müşteriye hizmet ettiği vurgulanır.",
+        "Kâr ve hizmet örgütü kavramları üzerinde durulur.",
+        "Öğrencilerin kamu yönetimi ve işletme yönetimi ile ilgili hazırladığı araştırma ödevleri ve bu ödevlerin sunumu performans değerlendirme formu ile değerlendirilir."
+      ]
+    },
+    {
+      "code": "YNB.1.8",
+      "title": "Verimlilik ve etkililik kavramlarını yönetim bilimi açısından tartışır",
+      "processComponents": [
+        "Verimliliğin işi doğru yapmak, etkililiğin (etkinlik) ise doğru işi yapmak olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.1.9",
+      "title": "Yönetim biliminin tarihsel gelişim sürecini analiz eder",
+      "processComponents": [
+        "Tarih ve sosyoloji dersleriyle ilişkilendirir.",
+        "Yönetim biliminin, klasik, neoklasik, ve modern olmak üzere üç ayrı yönetim düşüncesine ayrıldığı vurgulanır.",
+        "Sanayi devrimi ve önemi vurgulanır.",
+        "Kamu yönetiminin kurucusu olan Woodrow Wilson'ın görüşleri hakkında bilgi verilir.",
+        "Osmanlı İmparatorluğu yönetim sisteminde Enderun Okulu hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "YNB.1.10",
+      "title": "Klasik yönetim düşüncesinin gelişimindeki önemli kuramcıların görüşlerini karşılaştırır",
+      "processComponents": [
+        "Taylor, Fayol ve Weber'in yönetim anlayışları üzerinde durulur: F. Taylor'un Bilimsel Yönetim anlayışı, H. Fayol'un Yönetsel Teori (yönetim süreci) anlayışı, M. Weber'in Bürokrasi anlayışı karşılaştırılır.",
+        "Farklı bürokrasi tanımları vurgulanır.",
+        "Türkiye'de bürokrasi vurgulanır.",
+        "L.Gullick'in yönetimi temel işlevlerine ilişkin yaptığı sınıflandırma (planlama, örgütleme, personel yönetimi, yönlendirme, eşgüdüm, raporlama, bütçeleme [İngilizce kısaltması POSDCORB]) vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.1.11",
+      "title": "Neoklasik yönetim düşüncesinin ortaya çıkış nedenlerini açıklar",
+      "processComponents": [
+        "Hawthorne araştırmaları (E. Mayo) ve X – Y teorisi (D. Mc Gregor) hakkında bilgi verilir. Grup değerlendirme formu kullanılarak değerlendirme yapılabilir."
+      ]
+    },
+    {
+      "code": "YNB.1.12",
+      "title": "Modern yönetim düşüncesinin özelliklerini klasik ve neoklasik yönetim düşüncesinin özellikleriyle karşılaştırarak değerlendirir. ÜNİTE 2: YÖNETİMİN TEMEL FONKSİYONLARI - I",
+      "processComponents": [
+        "Yönetim düşüncelerine ilişkin örnek olaylar oluşturulur.",
+        "Yönetim düşüncelerinin olumlu ve olumsuz yönleri vurgulanır.",
+        "Yönetim düşüncelerinin Türkiye'deki kamu ve özel sektörü nasıl etkilediği vurgulanır.",
+        "Konu özlü sözlerle desteklenir.",
+        "Çoktan seçmeli, açık uçlu, kısa cevaplı, boşluk doldurma, eşleştirme tipi testler; öğrenci gözlem formu, öz değerlendirme formu kullanılarak değerlendirme yapılabilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112716320896-Y%C3%B6netim%20Bilimi.pdf"
+}

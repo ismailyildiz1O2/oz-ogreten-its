@@ -1,0 +1,102 @@
+{
+  "unitId": 21,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "1. TEMA: SAYILAR",
+  "hours": "38",
+  "description": "Bu temada öğrencilerin gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlerde muhakeme sürecini kullanabilmeleri; gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme becerilerini geliştirebilmeleri amaçlanmaktadır. Ayrıca sayı kümelerini özellikleri bakımından karşılaştırarak gerçek sayıları anlamlandırabilmeleri ve analojik akıl yürüterek gerçek sayıların işlem özelliklerini cebirsel ifadelere genelleyebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.9.1.1",
+      "title": "Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere dair muhakeme yapabilme",
+      "processComponents": [
+        "a) Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere ilişkin varsayımlarda bulunur.",
+        "b) Farklı örneklerden elde ettiği örüntüleri listeleyerek varsayımlarına yönelik genellemeler yapar.",
+        "c) Varsayımları ile genellemelerini karşılaştırır.",
+        "ç) Elde ettiği genellemelerden üslü ve köklü gösterimlerle ilgili önermeler sunar.",
+        "d) Üslü ve köklü gösterimlerle ilgili önermelerin kullanışlılığını problem durumlarında değerlendirir.",
+        "e) Üslü ve köklü gösterimlerle ilgili matematiksel doğrulama yöntemlerini kullanır.",
+        "f) Kullandığı matematiksel doğrulama yöntemlerini kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.9.1.2",
+      "title": "Gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme",
+      "processComponents": [
+        "a) Gerçek sayı aralıkları ve bunlarla yapılan işlemlerde kullanılan küme sembol ve işlemlerini bağlamlarındaki anlamı ile tanır.",
+        "b) Gerçek sayı aralıkları ve bunlarla yapılan işlemlerde kullanılan küme sembol ve işlemlerinden matematiksel durum veya probleme uygun olanı belirler.",
+        "c) Gerçek sayı aralıkları ve bunlarla yapılan işlemlerin içerdiği küme sembol ve işlemlerini matematiksel durum veya probleme uygun şekilde kullanır."
+      ]
+    },
+    {
+      "code": "MAT.9.1.3",
+      "title": "Farklı sayı kümelerinin özellikleri hakkında muhakeme yapabilme",
+      "processComponents": [
+        "a) Doğal sayılar, tam sayılar, rasyonel sayılar ve gerçek sayılara dair temel özelliklere (sıralama, arada olma ve işlem özellikleri) ilişkin varsayımlarda bulunur.",
+        "b) Farklı sayı kümelerinde elde ettiği örüntüleri listeleyerek varsayımlarına yönelik genellemeler yapar.",
+        "c) Varsayımları ile genellemelerini karşılaştırır.",
+        "ç) Elde ettiği genellemelerden sayı kümelerinin özellikleri hakkında önermeler sunar.",
+        "d) Önermelerin kullanışlılığını problem durumlarında değerlendirir.",
+        "e) Elde ettiği önermeleri ispatlamak ya da çürütmek için matematiksel ispat yöntemlerini kullanır.",
+        "f) Kullandığı matematiksel ispat yöntemlerini kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.9.1.4",
+      "title": "Gerçek sayıların işlem özelliklerini cebirsel olarak ifade etmede analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Gerçek sayıların işlem özellikleri ile bunların olası cebirsel karşılıklarını gözlemler.",
+        "b) Gözlemlerinden yola çıkarak gerçek sayıların işlem özellikleri ile bunların cebirsel karşılıklarını tespit eder.",
+        "c) Tespit ettiği özelliklerden çıkarımlar yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "alt küme, ancak ve ancak, aralık, bazı, bilimsel gösterim, birleşim işlemi, boş küme, eşitsizlik, eşlenik, evrensel küme, fark işlemi, her, ise, ispat, kapalılık, kesişim işlemi, köklü gösterim, küme, kümenin elemanı, mutlak değer, önerme, önermenin değili, özdeşlik, sayı kümesi, tümleme, üslü gösterim, ve, veya, ya da",
+  "support": [
+    "Bilimsel gösterimlerin kullanımına yönelik örnek veya problemlerde hesap makinelerinden veya çevrim içi araçlardan yararlanılabilir. Ondalık, üslü ve köklü gösterimlerle ilgili özelliklere ulaşılamadığı durumlarda öğrencilerden sayısal örnekler kullanarak sadece o sayılara yönelik doğrulamalar yapmaları istenebilir. Öğrencilerin yakın çevresi dikkate alınıp bilimsel gösterimle ilgili örnekler çeşitlendirilerek konuya karşı olan ilgi ve motivasyonlarının artırılması hedeflenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilere astronomi (gezegenlerin birbirine uzaklığı), biyoloji (hücre, organel yapısı), fizik (gezegenlerin çekim kuvveti), kimya (Avogadro sayısı) gibi farklı disiplinlerde geçen matematiksel temsillerin incelenmesi, yorumlanması ve bilimsel gösterimle ifade edilmesine yönelik sunumlar yaptırılabilir.",
+    "(*) Öğrencilerden gerçek sayılar kümesinin tamlık ve sıralama özellikleri ile ilgili araştırma yapmaları istenebilir. İş birlikli öğrenme temelinde üslü ve köklü gösterimlerde karşılaşılan tanımsız olma durumunun nedenlerinin tartışıldığı grup çalışması yaptırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirilebilir.",
+    "Matematik dersini fizik, kimya ve biyoloji dersleriyle ilişkilendirmek için bu derslerdeki bilimsel gösterimlerin kullanımına yönelik araştırma ödevi verilebilir. Bu ödevin değerlendirilebilmesi için hazırlama, içerik ve sunum süreçlerini içine alan derecelendirme ölçeği kullanılabilir.",
+    "Gerçek sayıların üslü ve köklü gösterimlerinin, gerçek sayı aralıklarının ve bunlarla yapılan işlemlerin farklı matematiksel bağlamlarda ele alındığı performans görevi verilebilir. Bu performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir.",
+    "Farklı sayı kümelerinin özellikleri ve aralarındaki ilişkilere dair çalışma kâğıdı verilebilir.",
+    "Cebirsel özdeşliklerin kullanımına yönelik sorulardan oluşan çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.9.1.1 Öğrencilerin gerçek sayıların üslü ve köklü gösterimleri ile karşılaşılan gerçek yaşam durumlarına veya farklı disiplinlerdeki alanlara örnekler bulması beklenir. Farklı örnekler incelenerek üslü ve köklü gösterimler ile yapılan aritmetik işlemler (toplama, çıkarma, çarpma, bölme ve kareköklü ifadeler için eşlenik) ve bu aritmetik işlemlerin genel özelliklerinin neler olabileceği tartışılır. Bunlara dayalı olarak öğrencilerden varsayımlar geliştirmeleri istenir. Üslü ve köklü gösterimlerle yapılan işlemlerde ortaya çıkan örüntüler belirlenir. Belirlenen örüntülere göre öğrencilerin genellemeler yapmaları sağlanır.",
+    "Öğrencilerden gerçek sayıların özel bir gösterimi olan bilimsel gösterimin kullanıldığı fizik, kimya ve biyoloji derslerindeki gerçek yaşam durumlarına (atmosferdeki karbondioksit miktarı, gezegenler arası mesafe, atomun büyüklüğü, bir ışık yılı gibi) ilişkin araştırma yapmaları istenir ( E1.1 ) . Araştırmalar sonucunda bilimsel gösterimlerin nerelerde kullanıldığına yönelik örneklere yer verilebilir ( D3.3 ) .",
+    "Üslü gösterimlerle yapılan işlemlerde üs, rasyonel sayı seçilir. Üssün tam sayı olmadığı durumlarda üslü ve köklü gösterimlerle yapılan işlemler arasında ilişki kurmaya yönelik genellemelere de yer verilir.",
+    "Öğrencilerden incelenen durumlardaki varsayımları ile yaptığı genellemeleri karşılaştırmaları beklenir. Bu karşılaştırmalardan yararlanarak üslü ve köklü gösterimlerle ilgili işlemler yapmaları ve bunlar arasındaki ilişkilere yönelik önermeler elde etmeleri sağlanır. Öğrencilerden elde ettiği önermeleri farklı problem durumlarında nasıl kullanabileceklerini değerlendirmeleri beklenir. İrrasyonel sayıların yaklaşık değerlerinin kullanıldığı mühendislikten, astronomiden veya gerçek yaşamdan problem durumlarına da yer verilir. Böylece hata payının gerçek sayıların yaklaşık değerleriyle ilişkisini öğrencilerin görmeleri sağlanır. Ayrıca benzer problemlerde üslü ve köklü gösterimleriyle verilen bir sayının yaklaşık değeri, tasarruf bilinci ile ilişkilendirilir ( D17.3 ) . Örneğin 1 dönümlük arsasının sınırlarını çitle çevirmek isteyen bir çiftçi için işin maliyeti, yaklaşık değer veya yuvarlama stratejileri kullanılarak hesaplanır ( OB3 ) . Öğrencilerden üslü ve köklü gösterimlerin kullanıldığı işlemler hakkında elde ettikleri önermeleri cebirsel yöntemlerle doğrulamaları ve doğrulama yöntemlerini kullanışlılık açısından değerlendirmeleri beklenir ( E3.6 , E3.7 ) . Öğrencilere fizik, kimya ve biyoloji derslerinde; astronomide, mühendislikte üslü ve köklü gösterimlerin kullanıldığı durumlara dair araştırma ödevi verilebilir.",
+    "MAT.9.1.2 Küme kavramına ilişkin formel bir tanıma girilmeden temel bilgiler, sembol ve işlemler (eleman olma-olmama, eleman sayısı, listeleme ve ortak özellik yöntemleri, alt küme, boş küme, birleşim, kesişim, fark, tümleme işlemleri) elemanları sayılar olan küme örnekleri üzerinde incelenir. Farklı gösterim yöntemlerinin (listeleme, ortak özellik) kullanıldığı durumlar, sayı kümelerinin (doğal sayılar, tam sayılar, çift tam sayılar, 3'ün katı olan doğal sayılar, rasyonel sayılar gibi) gösterimi bağlamında ele alınır. Gerçek sayı aralıkları ve bu aralıklarla yapılacak işlemlerde (kesişim, birleşim, fark, tümleme) sayı doğrusu gösterimi, cebirsel temsil ve küme gösterimleri bir arada kullanılır. Gerçek sayı aralıkları ve bu aralıklarla yapılacak işlemler için evrensel kümenin gerçek sayılar kümesi olduğu belirtilir. Ayrıca mutlak değer kavramından hareketle bir aralığın gösteriminde mutlak değer sembolünün nasıl kullanılabileceği, bu bağlam dışında denklem ve eşitsizlik çözümlerine değinilmeksizin incelenir. Örneğin 2 < x < 4 eşitsizliklerini sağlayan x gerçek sayıları için |x – 3| < 1 şeklindeki gösterimin anlamı, gerçek yaşam durumu bağlamları da dikkate alınarak sayı doğrusu üzerinde tartışılabilir. MAT.9.1.1 ve MAT.9.1.2 çıktılarına yönelik olarak gerçek sayıların üslü ve köklü gösterimlerinin, gerçek sayı aralıklarının ve bunlarla yapılan işlemlerin farklı matematiksel bağlamlarda ele alındığı performans görevi verilebilir.",
+    "MAT.9.1.3 Farklı sayı kümelerinin tarihî bağlamda nasıl ortaya çıkmış olabileceği tartışılır ( E1.1 , SDB2.2 ) . Sayı kümelerine duyulan ihtiyacı anlamlandırmaya dönük gerçek yaşam durumları ile bağlantılı örnekler üzerinde durulur. Örneğin fizikteki hız ya da yer çekimi kuvveti büyüklüğü gibi nicelikler, gerçek sayıların kullanımı bağlamında ele alınır. Öğrencilerden sayı kümelerinin sıralı olma (bir sayı kümesindeki tüm elemanların küçükten büyüğe veya büyükten küçüğe doğru belli bir düzende dizilebilmesi), arada olma (bir sayı kümesindeki herhangi iki sayı arasında aynı sayı kümesinden başka bir sayının yer alabilmesi) ve kapalılık özelliği (bir sayı kümesindeki herhangi iki sayı ile yapılan toplama, çıkarma, çarpma ve bölme işlemlerinin sonucunun aynı sayı kümesinde olması) hakkında varsayımlar geliştirmesi istenir. Bir işlem özelliğinin hangi sayı kümeleri için geçerli olduğunu, hangileri için geçerli olmadığını belirlemeleri istenir. Örneğin herhangi iki doğal sayının toplanması durumunda elde edilen sonucun bir doğal sayı olup olmadığı ve bu özelliğin başka hangi sayı kümelerinde geçerli olduğu tartışılır. Benzer şekilde iki tam sayının farkının alınması durumunda elde edilen sonucun her zaman bir tam sayı olup olmayacağı tartışılır. Öğrencilerden bu özelliklere dayalı genellemeler yapmaları beklenir (\"Her a, b ∈ ℝ için a ∙ b ∈ ℝ olduğundan gerçek sayılar kümesi, çarpma işlemine göre kapalıdır.\" gibi). Genellemeye ulaşılan temel durumlar için cebirsel ispatlara (\"İki rasyonel sayı arasında her zaman bir rasyonel sayı vardır.\" önermesi gibi) yer verilir. Genellenemeyen durumlar veya yanlış önermeler için (\"İki irrasyonel sayının çarpımı irrasyoneldir.\" önermesi gibi) öğrencilerin karşıt örnek sunmaları beklenir. Elde edilen önermelerin doğruluğu, doğrudan ispat veya aksine örnek verme yöntemleri kullanılarak kontrol edilir. İspatlar yapılırken hipotez-hüküm ilişkisi, hipotezden hükme giden süreç, aksine örnek verebilmenin matematiksel doğrulama ve ispattaki önemi üzerinde durularak ispatlar değerlendirilir. Öğrencilere sayı kümelerinin özellikleri ve aralarındaki ilişkilere dair çalışma kâğıdı verilebilir.",
+    "MAT.9.1.4 Önerme kavramı, matematiksel örnekler üzerinde incelenir. Sözel dille verilen önermeleri sembolik dille, sembolik dille verilen önermeleri sözel dille ifade etmeye yönelik çalışmalar yapılır. Sayı kümelerinde toplama, çıkarma ve çarpma işlemlerinin değişme, birleşme, birim eleman, yutan eleman, ters eleman ve dağılma özelliklerinin olup olmadığına dair önermeler sözel ve sembolik dil ile ifade edilir. Sayı kümeleri veya aralıklarına ilişkin önermeler hakkında öğrencilerin değerlendirme yapabilmeleri için niceleyicilerin (her, bazı), mantık bağlaçlarının (ve, veya, ya da, ise, ancak ve ancak) kullanımlarına ve önermelerin değillerine yer verilerek anlamları tartışılır. Örneğin \"∀a, b ∈ ℝ için a + b = b + a\", \"∀a ∈ ℝ, a ≠ 0 için ∃b ∈ ℝ vardır, öyle ki a ∙ b = 1՚dir.\", \"∀a, b ∈ ℝ için a < b ⇒ b - a> 0' dır.\", \"a, b ∈ ℝ olmak üzere a ∙ b = 0 ⇔ a = 0 v b = 0' dır.\", \"a, b ∈ ℝ olmak üzere a ∙ b ≠ 0 ⟺ a ≠ 0 ∧ b ≠ 0՚dır.\" gibi önermelerde mantık bağlaçları ve niceleyicilerin anlamları üzerine tartışmalar yapılır. Bu sırada öğrencilerin birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve etkileşim sağlamaları beklenir ( SDB2.1 ) . Ayrıca işlemler arasında kurulan ilişkiler gözlemlenir. Yapılan inceleme ve gözlemler sonucunda gerçek sayılardaki özelliklerin cebirsel ifadelerdeki karşılıkları tespit edilir. İki gerçek sayının farklı gösterimlerinin ve iki farklı cebirsel ifadenin birbirine eşit olabileceğinden yola çıkılarak özdeşlikler (iki terimin toplamının/farkının karesi ve iki terimin karelerinin farkı) belirlenir. Bu özdeşlikler, geometrik modellerle temsil edilir. Benzer şekilde öğrencilerin iki cebirsel ifadenin çarpımının sıfıra eşit olmasının ifadelerden en az birinin sıfıra eşit olmasını gerektireceği gibi çıkarımlara ulaşmaları beklenir.",
+    "Aynı zamanda cebirsel ifadeleri çarpanlarına ayırmanın, sayıların işlem özelliklerinin bir uygulaması olarak ele alındığı çalışmalar yapılır. Üslü veya köklü gösterimlerle işlemler içeren problemlerde farklı çözüm stratejisi olarak özdeşliklerden yararlanmayı gerektiren durumlara yer verilir ( MAB2 ) . Öğrencilere sayı kümelerinin işlem özelliklerine yönelik önermelerden ve cebirsel özdeşliklerin kullanımına yönelik sorulardan oluşan çalışma kâğıdı verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D17.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB2"
+    ],
+    "okuryazarlik": [
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/21"
+}

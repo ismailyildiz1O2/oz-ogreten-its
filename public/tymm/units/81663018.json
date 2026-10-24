@@ -1,0 +1,36 @@
+{
+  "unitId": 81663018,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "18. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 7. ÜNİTE: KALITIM",
+  "hours": "9",
+  "description": "Bu ünitede kalıtım yöntemi kavratılır. Superclass ve subclass kavramları açıklanarak uygulama yaptırılır. Overriding metodu, super anahtar kelimesi ve çok biçimlilik yöntemi kullandırılır.",
+  "outcomes": [
+    {
+      "code": "BTY.18.1",
+      "title": "Kalıtım yöntemini kullanır",
+      "processComponents": [
+        "Superclass ve subclass kavramlarının ne olduğu açıklanır.",
+        "Superclass ve subclass oluşturulur.",
+        "Overriding metodu kullanılır.",
+        "Super anahtar kelimesi kullanılır."
+      ]
+    },
+    {
+      "code": "BTY.18.2",
+      "title": "Çok biçimlilik yöntemini kullanır",
+      "processComponents": [
+        "Çok biçimlilik kavramının ne olduğu açıklanarak örnek uygulama yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

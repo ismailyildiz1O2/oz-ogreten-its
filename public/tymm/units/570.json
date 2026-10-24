@@ -1,0 +1,160 @@
+{
+  "unitId": 570,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "4. TEMA: SANAT VE TEKNOLOJİ EVRENİ",
+  "hours": "24",
+  "description": "Temada ekslibris taslağı oluşturulabilmesi, ekslibris tasarımı oluşturulabilmesi, illüstrasyon tasarlanabilmesi, illüstrasyon oluşturulabilmesi, afiş taslağı oluşturulabilmesi, afiş tasarımı oluşturulabilmesi, sanatsal yerleştirme tasarlanabilmesi, sanatsal yerleştirme oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.9.4.1",
+      "title": "Ekslibris taslağı oluşturabilme",
+      "processComponents": [
+        "a) Ekslibris tasarımına yönelik inceleme yapar.",
+        "b) Ekslibris tasarımına yönelik fikir geliştirir.",
+        "c) Ekslibris tasarımı fikrine yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.9.4.2",
+      "title": "Ekslibris tasarımı oluşturabilme",
+      "processComponents": [
+        "a) Ekslibris tasarımına uygun teknik belirler.",
+        "b) Ekslibris tasarım tekniğine uygun araç gereçleri belirler.",
+        "c) Ekslibris tasarımının üretim aşamalarını sıralar.",
+        "ç) Geliştirdiği fikirleri ekslibris tasarımına dönüştürür.",
+        "d) Ekslibris tasarımının estetik ve işlevsel yeterliliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "GS.9.4.3",
+      "title": "İllüstrasyon tasarlayabilme",
+      "processComponents": [
+        "a) İllüstrasyon örneklerini inceler.",
+        "b) İllüstrasyon bağlamında oluşturduğu imgeleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.9.4.4",
+      "title": "İllüstrasyon oluşturabilme",
+      "processComponents": [
+        "a) İllüstrasyona uygun görsel anlatım araçlarını ifade eder.",
+        "b) Belirlenen konuyu illüstrasyona dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.9.4.5",
+      "title": "Afiş taslağı oluşturabilme",
+      "processComponents": [
+        "a) Afiş tasarımına yönelik inceleme yapar.",
+        "b) Afiş tasarımına yönelik fikir geliştirir.",
+        "c) Afiş tasarımı fikrine yönelik eskiz yapar"
+      ]
+    },
+    {
+      "code": "GS.9.4.6",
+      "title": "Afiş tasarımı oluşturabilme",
+      "processComponents": [
+        "a) Afiş tasarımına uygun yöntem ve teknik belirler.",
+        "b) Afiş tasarımı yöntem ve tekniğine uygun araç gereçleri belirler.",
+        "c) Afiş tasarımınn üretim aşamalarını sıralar.",
+        "ç) Geliştirdiği fikirleri afiş tasarımına dönüştürür.",
+        "d) Afiş tasarımının estetik ve işlevsel yeterliliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "GS.9.4.7",
+      "title": "Sanatsal yerleştirme çalışması tasarlayabilme",
+      "processComponents": [
+        "a) Sanatsal yerleştirme örneklerini inceler.",
+        "b) Sanatsal yerleştirme bağlamında oluşturduğu imgeleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.9.4.8",
+      "title": "Sanatsal yerleştirme çalışması oluşturabilme",
+      "processComponents": [
+        "a) Sanatsal yerleştirme çalışmasına uygun görsel anlatım araçlarını ifade eder.",
+        "b) Belirlenen konuyu sanatsal yerleştirme çalışmasına dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "airbrush (eyır bıraş), font, illüstrasyon, kolografi, sanatsal yerleştirme (enstalasyon), tipografi, yeşil kimya",
+  "support": [
+    "Öğrencilerden şablon baskı tekniğini kullanarak kolograf baskı yapmaları istenebilir.",
+    "Öğrencilerden okudukları roman veya hikâyelerden seçtikleri bir karakterle ilgili kes yapıştır çalışması ile kitap kapağı tasarlamaları istenebilir.",
+    "Öğrencilerden kes yapıştır tekniği kullanarak afiş çalışması yapmaları istenebilir.",
+    "Öğrencilerden bir sanatsal yerleştirme hazırlama konusunda buldukları fikirleri not alarak basit çizimlerle taslak hâline getirmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, geleneksel Türk motiflerini kullanarak ekslibris tasarlamaları istenebilir.",
+    "Öğrencilerden bilinen bir edebiyat eseri için yeni bir illüstrasyon çalışması yaparak alternatif kitap kapağı tasarlamaları istenebilir.",
+    "Öğrencilerden çevre, insan hakları, kültürel miras gibi konularda sosyal mesajlar içeren afişler tasarlamaları istenebilir.",
+    "Öğrencilerden okulun içindeki bir duvarı kullanarak insan hayatı ve zaman kavramı ile ilgili bir sanatsal yerleştirme çalışması başlatmaları, gün boyunca bu eseri aşama aşama değiştirmeleri, esere eklemeler ya da eserden eksiltmeler yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; akran değerlendirme formu, kontrol listesi, dereceli puanlama anahtarı, dereceleme ölçeği, grup değerlendirme formu, öz değerlendirme formu, açık uçlu sorular, görsel kavram haritası, ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden çizim, boyama, fotoğraf, dijital baskı ve çeşitli nesneler arasından seçtikleri unsurları bir araya getirerek zemin ölçüleri 35x50 cm'den büyük olmayacak şekilde sanatsal yerleştirme ile ilgili bir maket oluşturmaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.9.4.1. Öğrencilere sevdikleri kitaplar ve yazarlar hakkında sorular sorularak kitaplar hakkında konuşmaları sağlanır. Sahip oldukları kitapların kapaklarında kullanmaları için etiket tasarlanacağı açıklanır. Öğrencilerin ekslibrisle ilgili hazırlanan görsel örneklerini incelemeleri sağlanır. Ekslibrisin sözcük anlamı açıklanır. Ekslibrisin kitapların iç kapağına baskı yoluyla yapılan küçük boyutlu resimler olduğuna ve üzerinde kitap sahibinin adının ve onu temsil edebileceği düşünülen görsellerin bulunduğuna dikkat çekilir. Öğrencilerin ekslibrisin bu amacı karşılayacak yöntemlerden biri olduğunu ifade etmeleri sağlanır.",
+    "Öğrencilerden yapacakları ekslibris çalışmasına yönelik fikir geliştirmeleri istenir. Süre bitiminde öğrencilerin fikirleri alınarak listelenir. Bu süreçte tereyağı ekmek tekniği kullanılabilir.",
+    "Öğrencilerden en fazla 15x15 cm sınırları içinde ekslibris eskiz çalışmaları istenir. Eskizlerin geleneksel ve dijital yöntemler kullanılarak hazırlanabileceği öğrencilere söylenir. Dijital eskiz hazırlarken öğrencilere çevrim içi programlarını kullanabilecekleri söylenir. Öğrencilerin yaptıkları eskizler kontrol listesi ile değerlendirilebilir.",
+    "GS.9.4.2. Öğrencilere ekslibris eskizlerini kolograf baskı tekniğini kullanarak uygulayacakları söylenir. Kolograf baskı tekniği ile ilgili görseller gösterilerek öğrencilerden incelemeleri istenir (OB4). Öğrencilerin merak ettikleri soruları sormaları ve tekniğin özellikleri hakkında konuşmaları sağlanır ( E3.8 ). Bu aşamada pazar yeri tekniğinden faydalanılabilir. Kolograf baskı tekniğinde karton gibi sert bir yüzey üzerinde farklı dokulara sahip malzemelerin bir araya getirilmesiyle baskı plakası oluşturulduğu açıklanır. Bu plakaya boya sürülerek bir yüzey üzerine (kâğıt, karton vb.) baskı yapıldığı konusunda öğrencilerin çıkarımlar yapmaları sağlanır ( KB2.10 ). Kolografi tekniğinde kullanabilecek yüksek baskı, çukur baskı, karma baskı, katmanlama, dokulu malzeme kullanımı, yapıştırıcı ile kabartma, kuru kazıma, şablon gibi seçenekler öğrencilere anlatılır. Öğrencilerin yaptıkları eskize uygun kolografi tekniğini belirlemeleri beklenir.",
+    "Kolografi uygulamasında kullanılacak araç gereçler öğrencilere tanıtılır. Baskı plakası ile ilgili yüzey için karton, ahşap veya plastik bir yüzeyin tercih edilebileceği söylenir. Plakanın üzerine yapıştırmak için dokulu malzemeler (ip, kumaş parçaları, dantel, kum, yaprak, metal parçalar vb.), yapıştırıcı (tutkal, güçlü yapıştırıcılar vb.), boyalar (guaj boya, sulu boya, su bazlı akrilik boyalar, mürekkep vb.), rulo, spatula, kâğıt (baskı kâğıdı, dokulu kâğıt, renkli karton vb.) ve baskı için tahta kaşık, pres kullanılabileceği belirtilir. Öğrencilerden bu seçenekler arasından uygun araçları belirlemeleri istenir.",
+    "Belirlenen kolograf baskı tekniğinin aşamaları öğrencilerle birlikte çözümlenir ( KB2.4 ). Öğrencilerin üretim aşamalarının doğru sıralamasını keşfetmeleri sağlanır. Bu aşamada soru cevap tekniğinden yararlanılabilir.",
+    "Baskı yapılacak plaka yüzeyinin hazırlanarak eskize uygun materyallerin plaka yüzeyine aktarılmasında tekniğin özelliklerinin dikkate alınması gerektiği vurgulanır. Eskize uygun olarak belirlenen materyallerin düzenlenerek baskı plakasına yapıştırıcıyla sabitlenmesi istenir. Bu işlemin titizlikle çalışılması gereken aşamalardan biri olduğuna dikkat çekilir. Öğrencilerin kolograf baskı tekniğinde iyi bir sonuç elde edebilmeleri için kararlılıkla çalışmaya devam etmeleri sağlanır ( D12.3 ). Öğrencilerin baskı kalıplarını hazırlarken boya almaması gereken bölümlerin çukur olacağını, boya alması gereken yerlerin yüksekte kalacağını fark etmeleri ve çalışmalarını buna göre şekillendirmeleri sağlanır. Hazırlanan kalıbın test edilebilmesi için deneme baskısı yapmanın önemine değinilir. Üzerine boya sürülen baskı plakası kâğıdın üzerine yerleştirilir. Plakadaki boyanın kâğıt yüzeyine geçmesi için baskı kalıbının tüm yüzeyine eşit miktarda baskının yapılması gerektiği vurgulanır. Öğrencilerin elde ettikleri baskı sonuçlarını öğretmenleriyle ve arkadaşlarıyla birlikte eleştirel bir bakış açısıyla değerlendirmeleri sağlanır ( E3.10 ). Elde edilen deneme baskılarında hatalar varsa öğrencilerin baskı plakalarında düzeltmeler yapmaları istenir. Bu süreçte öğrencilerin malzeme paylaşımı yapmaları sağlanır ( D20.1 ). Baskı plakasının hatalı bölümlerinin düzenlenerek temizlenmesi, plakaya boya verilerek kâğıt yüzeyine yerleştirilmesi istenir. Baskı aşamalarının sıralamaya uygun olarak tamamlanmasının ardından ürünün ilk örneği oluşturulur. Öğrencilerden baskı yapılan kâğıtların yüzeyindeki boyanın kuruması için uygun bir yere konularak beklenmesi istenir.",
+    "Öğrencilerin ilk baskı örneğini kendi deneyimleri ile ilişkilendirerek estetik ve işlevsel açıdan yorumlamaları sağlanır ( D7.1 ). Yapılan çalışmalar sergilenir. Ekslibris tasarımının uygulamasında kullanılan kolograf baskı resim için yaptığı eskize uygun olan teknik seçimi ve tekniğe uygun araç gereç kullanımındaki bilgi ve beceriler 3-2-1 çıkış kartı ile ölçülebilir. Öğrencilerden çalışma sonrasında ortamı temiz ve düzenli bırakmaları istenir ( D18.2 ). Kolograf baskı ile yapılan ekslibris tasarımının uygulama sonuçları dereceli puanlama anahtarı veya öz değerlendirme formu ile değerlendirilebilir.",
+    "GS.9.4.3. Öğrencilere illüstrasyon hakkında inceleme yapmaları için öğrenme alanına getirilen bir hikâye veya bir romanın kapağındaki görsel gösterilerek \"Kitap kapağında yer alan görselin amacı nedir?\", \"Görsel, kitabın konusu hakkında hangi bilgileri veriyor?\", \"Bu görsel; kitabı okuma, satın alma, paylaşma konusundaki kararınızı nasıl etkileyebilir?\" gibi sorular sorulur. Böylece öğrencilerin düşüncelerini ifade etmeleri sağlanır. Bu aşamada Philipss 66 tekniğinden faydalanılabilir. Öğrencilerin illüstrasyon örneklerinden oluşan görselleri incelemeleri istenir ( OB4 ). İnceleme esnasında öğrencilere sorular yöneltilerek illüstrasyonlar arasındaki farklılıkları keşfetmeleri sağlanır.",
+    "Öğrencilere \"Millî Mücadele Kahramanlarımız\" başlığı altında toplanacak bir kitap serisi için illüstrasyon çalışması yapacakları açıklanır. Öğrencilere Millî Mücadele sırasında adı öne çıkan kahramanlarımızdan (Şahin Bey, Yörük Ali, Sütçü İmam, Gördesli Makbule, Nezahat Onbaşı, Nene Hatun, Kara Fatma vb.) bahsedilir ( D19.2 ). Öğrencilerden kitap kapağı illüstrasyonunu yapmak için kahramanlarımızdan birini seçmeleri ve hakkında araştırma yapmaları istenir. Araştırma sonucunda öğrencilerden seçtikleri kahraman hakkında oluşan imgeleri eskiz olarak ifade etmeleri istenir. Eskiz çalışmalarında kahramanın yüz hatlarının, giydiği kıyafetin ve kullandığı aksesuarların detaylandırılması sağlanır. Süreç, kontrol listesi veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "GS.9.4.4. İllüstrasyon çalışmasında resim kalemi, tükenmez kalem, uçlu mürekkepli kalemler, kuru boyalar, pastel kalemler, resim kâğıdı gibi geleneksel araçların yanı sıra dijital araçların da kullanabileceği açıklanır. Öğrencilerden kendi illüstrasyon çalışmalarına uygun araçları belirleyerek ifade etmeleri istenir.",
+    "Öğrencilerden belirledikleri karakterin özelliklerini yansıtacak kitap kapağı için bir kompozisyon oluşturmaları istenir. Öğrencilerin kahramanın hikâyesine uygun duygu ve düşüncelerinin yanı sıra diğer unsurları da kompozisyona yansıtmaları sağlanır. Öğrencilerden kompozisyonu hazırlarken görsel tasarım öge ve ilkelerine, kompozisyonda yer alan nesnelerin, ana karakterin ve yan karakterlerin fiziksel görünüşlerine, kullanılan renk ve biçim özelliklerinin mekânla uyumlu olmasına dikkat etmeleri istenir. İllüstrasyon çalışmasındaki ışık ve renk özelliklerini çizgisel ve tonal değerleri kullanarak geliştirmeleri beklenir. Öğrencilerin bu ögeleri azim ve kararlılıkla bütünleştirmeleri ve böylece özgün bir sanatsal ürün oluşturmaları sağlanır ( E1.3 ). Çalışma ortamının temiz ve düzenli bir şekilde bırakılması sağlanır ( D18.2 ). Yapılan illüstrasyon çalışmaları, dereceleme ölçeği veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "GS.9.4.5. Öğrencilerin gösterilen afiş örneklerini incelemeleri istenir ( OB4 ). İnceleme sürecinde öğrencilerin afişlerin taşıdığı ortak özellikleri fark etmeleri sağlanır. Bu aşamada ters beyin fırtınası tekniğinden yararlanılabilir. Görsel iletişim araçlarından biri olan afişin genel özellikleri açıklanır. Öğrencilere okul içerisinde yapılacak faaliyetlerle ilgili bir afiş tasarımı yapılacağı söylenir. Bu amaca yönelik bir afiş tasarımı için\"Okulumda Etkinlik Var\" tema başlığının kullanılabileceği belirtilir. Öğrencilerden spor, yarışma, tiyatro, kutlama vb. okul etkinlikleri arasından seçim yaparak ele alacakları konuyu belirlemeleri istenir.",
+    "Öğrencilere bir tasarımcının afiş tasarımı için fikir geliştirirken kullandığı süreçler (araştırma, kuluçka, aydınlanma, uygulama) açıklanır. Afiş tasarımı ile ilgili seçtikleri konuya yönelik olarak öğrencilerin fikirleri alınır. Bu süreçte beyin fırtınası tekniği kullanılabilir. Öğrencilerin tasarım aşamalarına uygun olarak ortaya çıkan fikirleri geliştirmeleri sağlanır ( E3.7 ).",
+    "Öğrencilerin geliştirdikleri afiş fikrine uygun eskiz yapmaları sağlanır. Yapacakları afiş eskizinde kullanacakları görsel ögelerin sayısına ve büyüklüğüne karar vermeleri istenir. Afişte kullanacakları sözlerin (slogan, tarih, mekânın adı vb.) görsel ögeler (resim, illüstrasyon, logo, renk vb.) ile uyumlu olmasının önemi vurgulanır. Süreç, açık uçlu sorular ile değerlendirilebilir.",
+    "GS.9.4.6. Uygulama sürecinde kullanılacak yöntem ve tekniklerin özellikleri öğrencilere hatırlatılır. Bu aşamada öğrencilerin merak ettikleri soruları sormaları sağlanır ( E1.1 ). Öğrencilerin uygun yöntem ve teknikleri belirlemeleri istenir.",
+    "Öğrencilerden afiş tasarımlarının uygulamasında kullanılacak geleneksel ve dijital araçları okulun ve öğrencinin imkânları doğrultusunda belirlemeleri istenir. Geleneksel araç gereçlerin (kuru kalem, sulu boya, guaj boya, marker vb.) yanı sıra çevrim içi kullanılan programlar öğrencilere önerilebilir.",
+    "Afiş çalışması için seçilen geleneksel ya da dijital tekniğin üretim aşamaları öğrencilerle birlikte sıralanır. Geleneksel ve dijital teknikte de tasarım ögelerinin düzenlenmesi ile ilgili süreçlerin değişmediğine, yalnızca uygulama araçlarında farklılık olduğuna dikkat çekilir.",
+    "Öğrencilerin oluşturmayı düşündükleri çalışmayla ilgili eskizi kâğıt üzerine çizmeleri sağlanır. Afişte kullanılacak metin için seçilen tipografik yazı karakterinin yazma yöntemleri özelliklerine uygun şekilde öğrencilere anlatılır. Renklendirme aşamasında uygulanacak boyama tekniği ile ilgili dikkat edilmesi gereken özellikler öğrencilere hatırlatılır. Öğrencilerin dijital teknikle ilgili kullanabilecekleri program öğretmenle birlikte belirlenir ( OB2 ). Kullanılacak görsellerin uygun piksel ölçülerinde ve telifsiz olmasına, tipografik fontların büyüklük ve renklerinin uyumlu olması gerektiğine dikkat çekilir. Öğrencilerden üretim aşamalarını sırayla uygulamaları istenir ( E3.7 ). İstenilen sonuçlara ulaşılabilmesi için tüm aşamalarda öğrencilerin öğretmen ile iletişim içinde olması, seçilen eskizin değişim ve dönüşümlerinde fikir alışverişi yapmaları sağlanır ( SDB2.1 ). Uygulama sırasında öğrencilerin değişime açık ve istekli olmaları, gerektiğinde çalışmalarında yenilikler yapmaları sağlanır ( SDB3.1 ). Geleneksel tekniği kullanan öğrencilerin çalışmalarını tamamlayarak afişin son şeklini belirlemeleri istenir. Dijital tekniği kullanan öğrencilerin çalışmalarını tamamlayarak uygun formatta kaydetmeleri ve dijital çıktısını almaları sağlanır. Bu aşamada geleneksel teknikleri kullanan öğrencilerin de çalışmalarını bir tarayıcı aracılığıyla dijital ortama aktarabilecekleri; böylece çalışma üzerinde renk, ışık ve zıtlık ayarları gibi sınırlı da olsa bazı değişiklikler yapabilecekleri hatırlatılır.",
+    "Öğrencilerin çalışmalarını estetik ve işlevsel özelliklerine göre değerlendirmeleri sağlanır. Değerlendirme sırasında teşekkür ve takdir ifadelerini kullanmaları istenir ( D14.1 ). Yapılan afiş tasarımları, dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.9.4.7. Öğrencilere sanatsal yerleştirme (enstalasyon) çalışması yapılacağı açıklanır. Açık ya da kapalı mekân bölümlerine eklenen her türlü malzeme ve nesne kullanılarak bu çalışmanın yapılabileceği belirtilir. Sanatsal yerleştirmede resimde olduğu gibi şekillendirme süreci içeren çalışmalar yapma zorunluluğu olmadığına, önemli olanın fikrin ifade edildiği kavramsal yapı olduğuna çekilir. Ancak istenirse her türlü çizim, boyama ve şekillendirmenin de yapılabileceği hatırlatılır. Farklı sanatsal yerleştirme örnekleri gösterilerek bu konuda yapılabilecek uygulamaların çeşitliliği açıklanır ( OB4 ). Böylece öğrenciler konuyu daha anlaşılır hâle getirebilecek ayrıntıları incelemiş olurlar ( E3.8 ). Böylece öğrenciler konuyu daha anlaşılır hâle getirebilecek ayrıntıları da incelemiş olurlar.",
+    "Sanatsal yerleştirme ile çevre bilinci konusunda mesaj içeren bir çalışma oluşturabilmek için doğal kaynakların tükenmesi, plastik atıkların kontrolsüz artışı, çevre kirliliği, iklim değişikliği gibi tüm dünyayı ilgilendiren sorunların varlığına dikkat çekilir. Sanatsal yerleştirme çalışmasının yeşil kimya kavramının önemi ve biyoçeşitliliği oluşturan unsurların sürdürülebilmesi konusunda sosyal bilinçlenmeye katkıda bulunabilecek girişimlerden biri olduğu vurgulanır. Bu konudaki bir sanatsal yerleştirmede kullanılabilecek doğal nesnelere; doğayı çağrıştıracak mavi, yeşil, kahverengi gibi renklere ya da çevre kirliliğini vurgulayacak plastik atıklara; gri, siyah gibi koyu renklere, geri dönüşüm ya da çevre tehditleri ile ilgili uyarı işaretlerine ve sembollere yer verilebileceği belirtilir. Öğrencilerin sanatsal yerleştirme ile ilgili ürettikleri imgeleri sözel olarak ifade etmeleri istenir. Süreç, imgelerle ilgili görsel bir kavram haritası oluşturulması yoluyla değerlendirilebilir.",
+    "GS.9.4.8. Öğrencilerin okul idaresi tarafından sunulan yerleri inceleyerek sanatsal yerleştirme çalışmasına uygun alanı tespit etmeleri sağlanır ( KB3.1 , SDB2.2 ). Taş, dal parçası gibi doğal malzemelerin farklı malzemelerle kaplanabileceği; zemin oluşturacak bölümlerin konuya uygun renklerle boyanabileceği; plastik şişelerin, poşet ya da kartonların birbirlerine eklenerek ağaç, balık, kuş gibi doğal figürler oluşturulabileceği belirtilir. Öğrencilerin kullanacakları malzeme özelliklerine göre \"Geri Dönüşüm\" ve \"Yaşayan Doğa\" başlıklarından birini seçerek kendi aralarında belirleyecekleri çalışma gruplarını oluşturmaları sağlanır. Öğrencilerin yapacakları çalışmaya yönelik uygun yöntemleri belirlemeleri için soru cevap tekniği kullanılabilir. Geri dönüşümü seçen gruplar plastik şişeler, kullanılmış karton ve kâğıtlar gibi dönüştürülebilecek malzemeleri; yaşayan doğa temasını seçen gruplar ise yaprak, taş, dal parçası gibi doğal malzemeleri kullanabilirler. Seçim yapma aşamasında grup üyelerinin birbirlerini dinlemeleri ve kendi düşüncelerini açıklamaları sağlanır ( SDB2.1 ). Öğrencilerden sanatsal yerleştirme çalışmasına uygun görsel anlatım araçlarını belirleyerek ifade etmeleri istenir.",
+    "Öğrencilerden seçtikleri tema ve malzemeye göre nasıl bir çalışma yapacakları konusunda kendi gruplarında tartışarak karar verdikten sonra uygulanacak fikirle ilgili taslak çizimler oluşturmaları istenir. Öğrencilerin öğretmenle birlikte görev ve sorumlulukları, seçilen malzemelerin kullanım şeklini, işlemlerin yapılış sıralamasını planlaması sağlanır ( D3.2 , E3.7 ). Doğal malzemelerle çalışacak grupların önceden topladıkları yaprak, taş, dal parçası gibi unsurları, geri dönüştürülebilir malzemelerle çalışacak grupların hazırladıkları veya seçtikleri nesneleri bir araya getirerek mekânla birleştirmeleri sağlanır. Süreç boyunca azimle ve kararlılıkla istikrarlı bir şekilde çalışılması gerektiği vurgulanır. Kullanılan alanın günlük yaşamın bir parçası olduğu hatırlatılarak öğrencilerin çalışmalarını tamamladıktan sonra mekânı temiz ve düzenli bir şekilde bırakmaları sağlanır ( D18.2 ). Yapılan çalışmalar, grup değerlendirme formu veya dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden çizim, boyama, fotoğraf, dijital baskı ve çeşitli nesneler arasından seçtikleri unsurları bir araya getirerek zemin ölçüleri 35x50 cm'den büyük lmayacak şekilde sanatsal yerleştirme ile ilgili bir maket oluşturmaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D14.1",
+      "D18.2",
+      "D19.2",
+      "D20.1",
+      "D3.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E3.10",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.4",
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/570"
+}

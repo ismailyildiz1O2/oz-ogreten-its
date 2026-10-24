@@ -1,0 +1,140 @@
+{
+  "unitId": 81306002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Hukuk Bilgisi Dersi",
+  "title": "2. ÜNİTE: HAKLARIMIZI KORUYABİLİYOR MUYUZ?",
+  "hours": "26",
+  "description": "Bu ünitede; adli mercilerin ve idari mercilerin tanımlarına, vatandaş olarak haklarımız açısından görevlerimizin neler olduğuna, ihbar ve şikâyet kavramlarına, ceza davalarında tarafların işlemlerinin örneklerine ve mahkemelerde dava açma işlemlerinin örneklerine, dava türlerine, vekaletname ve vasiyet türlerine, adli yardım hizmetlerinden yararlanmaya, UYAP Vatandaş Portalının kullanılmasına, arabuluculuk ve uzlaştırma kavramlarının tanımlarına, Anayasa Mahkemesine bireysel başvuru ve haklarımızı arama yöntemlerine yer verilmiştir.",
+  "outcomes": [
+    {
+      "code": "THB.2.1",
+      "title": "Adli ve idari mercileri açıklar",
+      "processComponents": [
+        "Öğrenciler, ülkemizdeki mahkemelerin Cumhuriyet Başsavcılıkları ve İcra Dairelerinin kuruluş, işleyiş ve görev alanlarıyla ilgili araştırma yapar. Öğrencilerden yargılama alanlarına göre mahkemelere yönelik kavram haritası oluşturması ve yaptığı araştırmaların sonuçlarını sınıf ortamında sunum yaparak anlatması istenir.",
+        "Öğrencilerden ülkemizdeki Kamu Denetçiliği, TBMM Dilekçe Komisyonu, CİMER ve Tüketici Hakem Heyetinin kuruluş, işleyiş ve görev alanlarıyla ilgili araştırma yapması istenir. Öğrencilerin yaptığı araştırmaların sonuçlarına yönelik sınıfta sunum yapmaları sağlanır.",
+        "Ülkemizde idari mercilere yönelik açılan dava örneklerinden sınıfa getirilerek incelenmesi sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.2",
+      "title": "Alternatif uyuşmazlık çözüm yöntemlerini açıklar",
+      "processComponents": [
+        "Öğrencilerden ülkemizdeki arabuluculuk ve uzlaşma kurumlarının kuruluş, işleyiş ve görev alanlarıyla ilgili araştırma yapmaları istenir. Yaptıkları araştırmaların sonuçlarını sınıfta paylaşmaları sağlanır.",
+        "Öğrencilerden arabuluculuk ve uzlaştırma kurumları arasındaki farkları şema çizerek göstermeleri istenir."
+      ]
+    },
+    {
+      "code": "THB.2.3",
+      "title": "Dilekçe türlerini sınıflandırır",
+      "processComponents": [
+        "Dilekçe türlerinin tanımları üzerinde durulur.",
+        "Öğrencilerden ülkemizdeki mahkemelere yazılan şikâyet dilekçeleri, dava dilekçeleri, itiraz dilekçelerine örnek teşkil edebilecek farklı içeriklerde araştırma yapmaları istenir. Yaptıkları araştırmalardan, içerikleri ilgilerini çeken dilekçe örneklerini sınıfta paylaşmaları istenir.",
+        "Öğrencilerden dilekçe türlerini şema çizerek göstermeleri istenir."
+      ]
+    },
+    {
+      "code": "THB.2.4",
+      "title": "UYAP Vatandaş Portalı'nı kullanır",
+      "processComponents": [
+        "Öğrencilerden ülkemizdeki UYAP Vatandaş Portalı'nın kuruluşu, işleyiş ve görev alanlarıyla ilgili araştırma yapmaları ve ulaştıkları sonuçları sınıfta paylaşmaları istenir.",
+        "Öğrencilere UYAP Vatandaş Portalı kullanımı ile ilgili slayt veya video izletilir.",
+        "Öğrencilerin UYAP Vatandaş Portalı uygulamasını sınıf ortamında indirmeleri ve kendi portallarına giriş yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.5",
+      "title": "Tebligatı ve elektronik tebligatı tanımlar",
+      "processComponents": [
+        "Öğrencilerden ülkemizdeki tebligat usul ve esasları, tebligat belgeleri, elektronik tebligat yöntemleri ve işleyiş ile ilgili, bu konuda görev yapanların görev alanlarıyla ilgili araştırma yapması istenir.",
+        "Elde edilen bilgiler doğrultusunda öğrencilerin birer tebligat örneği hazırlamaları sağlanır.",
+        "Tebligat örnekleri sınıfta tahtaya asılır ve öğrencilerin kendi hazırladıkları örneklerle diğer örnekleri karşılaştırmaları istenir. Eksik var ise hazırlamış oldukları dilekçenin eksiklerinin giderilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.6",
+      "title": "Adli yardım hizmetlerini açıklar",
+      "processComponents": [
+        "Öğrencilerden ülkemizdeki Adli Yardım Hizmetleri ve KADES uygulamasının kuruluşu ve görevleri hakkında araştırma yapmaları ve bu kuruluşların faaliyetlerine yönelik imkânlar dâhilinde gözlem yapmaları ulaştıkları sonuçları sınıfta paylaşılması istenir.",
+        "Öğrencilerin ulaştıkları sonuçların sınıfta paylaşılması istenir.",
+        "Öğrencilerin olası durumlar için senaryo oluşturup sınıfta canlandırmaları sağlanır.",
+        "KADES uygulamasını sınıf ortamında indirmeleri ve kullanım aşamalarına yönelik tanıtım videosu izlemeleri sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.7",
+      "title": "Konusu Özel Hukuk'a aykırı olarak oluşmuş haksız fiillerde başvuru yollarını açıklar",
+      "processComponents": [
+        "Öğrencilerden hukuka aykırı bir fiile maruz kalındığında, hakkın yenildiğinde ya da suç işlenildiğini düşündüklerinde hukuk mahkemelerine dava açma şartlarını ve bu konuyla ilgili yetkili mahkemeleri araştırmaları ve sonuçları sınıfta paylaşmaları istenir.",
+        "Öğrencilerden hukuk mahkemelerine dava açma şartlarını kapsayan afişler oluşturmaları ve afişleri sınıf panosuna asmaları istenir.",
+        "Öğrencilerden hukuk mahkemelerinde dava açmaya yönelik hazırlanmış bir dilekçe örneği tanıtmaları istenir."
+      ]
+    },
+    {
+      "code": "THB.2.8",
+      "title": "Konusu Ceza Kanunu'na göre suç olarak tanımlanmış fiillerde, başvuru yollarını örnekle açıklar",
+      "processComponents": [
+        "Öğrencilerden hukuka aykırı bir fiile maruz kalındığında, hakkın yenildiğinde ya da suç işlenildiğini düşündüklerinde ceza mahkemelerine dava açma şartlarını ve yetkili mahkemeleri araştırarak sonuçları sınıfta paylaşmaları istenir.",
+        "Öğrencilerin ceza mahkemelerine dava açma şartlarını kapsayan afişler oluşturmaları ve sınıf panosuna asmaları sağlanır.",
+        "Öğrencilerden ceza mahkemelerinde dava açmaya yönelik hazırlanmış bir dilekçe örneği tanıtmaları istenir."
+      ]
+    },
+    {
+      "code": "THB.2.9",
+      "title": "Takip Hukuku (İcra - İflas Hukuku) belgelerini örneklerle açıklar",
+      "processComponents": [
+        "Öğrencilerden Takip Hukuku belge örneklerini inceleyip araştırmaları istenir. Belgeler arasındaki farkları ve benzerlikleri şema çizerek göstermeleri sağlanır.",
+        "Oluşturulan şema ve örneklerden hareketle öğrencilerin Takip Hukuku belge ve türlerini tanımaları sağlanır. Konuyla ilgili afiş hazırlamaları istenir. Afişlerde Takip Hukuku belgelerinin önemine vurgu yapmaları istenir. Afişlerin sınıf panosuna asılması sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.10",
+      "title": "İdarenin hukuka aykırı eylem ve işlemlerine karşı yargı yollarına başvurmayı açıklar",
+      "processComponents": [
+        "Öğrencilerden idare mahkemeleri ve vergi mahkemelerinin kuruluşu ve görevleri hakkında araştırma yapmaları, imkânlar dâhilinde çevresindeki idari mahkemeler ve vergi mahkemelerini gözlemlemeleri istenir. Öğrencilerin araştırma ve gözlemlerinden yararlanarak bu mahkemelerin işleyiş şeklini sınıfta paylaşmaları sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.11",
+      "title": "Mahkeme karar türlerini tanımlar",
+      "processComponents": [
+        "Öğrencilerden ülkemizdeki mahkemelerde verilen karar türlerinin örnekleri üzerinden mahkeme kararlarının içerikleri ile ilgili araştırma yapmaları istenir. Yaptıkları araştırma sonuçlarını sınıfta paylaşmaları sağlanır.",
+        "Öğrencilerden paylaştığı örnekler üzerinden mahkeme karar türlerine yönelik tanımlama yapması istenir. Öğrencilerin konuyla alakalı afiş hazırlaması ve sınıf panosunda bu afişlere yer vermesi sağlanır."
+      ]
+    },
+    {
+      "code": "THB.2.12",
+      "title": "Kanun yollarına başvurma ile ilgili bilgi edinir",
+      "processComponents": [
+        "Öğrencilerden ülkemizdeki istinaf ve temyiz mahkemelerinde verilen karar türlerinin içerikleri ve örnekleri ile ilgili araştırma yapmaları, yaptıkları araştırma sonuçlarını karşılaştırarak sınıfta paylaşmaları istenir.",
+        "Öğrenciler paylaşılan örnekler üzerinden mahkeme karar türlerine yönelik tanımlama yapar, bu tanımlamalardan yola çıkarak konuyla alakalı afiş hazırlar ve sınıf panosunda bu afişleri paylaşır."
+      ]
+    },
+    {
+      "code": "THB.2.13",
+      "title": "Anayasa Mahkemesine (AYM) bireysel başvuru yollarını açıklar",
+      "processComponents": [
+        "Öğrencilerden AYM'ye bireysel başvuru örnekleri ile ilgili araştırma yapmaları istenir. Yapılan araştırma sonuçlarının sınıf ortamında paylaşılması sağlanır.",
+        "Öğrencilerin bulduğu örnekleri ve bu örneklerde verilen kararları sınıf ortamında karşılaştırarak yorumlamaları sağlanır.",
+        "Öğrencilerin başvuru şartları ile ilgili afişler hazırlamaları ve afişleri sınıf panosunda paylaşmaları sağlanır.",
+        "Avrupa İnsan Hakları Mahkemesi (AİHM)' ne bireysel başvuru yollarına değinilir."
+      ]
+    },
+    {
+      "code": "THB.2.14",
+      "title": "Vekâletname ve vasiyetname türlerini tanımlar",
+      "processComponents": [
+        "Öğrencilerden vasiyetname,vekaletnamenin tanımı, önemi ve türlerine yönelik araştırma yapmaları istenir. Vekaletname türleri arasındaki benzerlik ve farklılıkları şema ile göstermeleri sağlanır.",
+        "Vekâletnamede dikkat edilmesi gerekli noktalara değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316654661-Temel%20Hukuk%20d%C3%B6p.pdf"
+}

@@ -1,0 +1,95 @@
+{
+  "unitId": 1012,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Müzik Kültürü Dersi",
+  "title": "2. TEMA: TÜRK HALK MÜZIĞINI TANIYORUM",
+  "hours": "12",
+  "description": "Temada öğrencilerin Türk halk müziğinin genel özelliklerini açıklayabilmeleri, Türk halk müziğinde kullanılan çalgıları sınıflandırabilmeleri, Türk halk müziği türlerini belirleyebilmeleri, Türk halk müziğinin coğrafi ve kültürel özelliklerini çözümleyebilmeleri, Türk halk müziğinde âşıklık geleneğinin özelliklerini açıklayabilmeleri ve Türk halk müziğinin önemli temsilcilerini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MK.4.2.1",
+      "title": "Türk halk müziğinin genel özelliklerini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.4.2.2",
+      "title": "Türk halk müziğinde kullanılan çalgıları sınıflandırabilme",
+      "processComponents": [
+        "a) Türk halk müziğinde kullanılan çalgıları belirler.",
+        "b) Türk halk müziğinde kullanılan çalgıları özelliklerine göre ayırır.",
+        "c) Türk halk müziğinde kullanılan çalgıları ses üretme biçimlerine göre tasnif eder.",
+        "ç) Türk halk müziği çalgılarını örneklendirir."
+      ]
+    },
+    {
+      "code": "MK.4.2.3",
+      "title": "Türk halk müziği türlerini belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.4.2.4",
+      "title": "Türk halk müziğinin coğrafi ve kültürel özelliklerini çözümleyebilme",
+      "processComponents": [
+        "a) Türk halk müziğinin yerel ve bölgesel özellikler taşıdığını belirler.",
+        "b) Türk halk müziğinin yerel ve bölgesel unsurları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MK.4.2.5",
+      "title": "Türk halk müziğinde âşıklık geleneğinin özelliklerini açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.4.2.6",
+      "title": "Türk halk müziğinin önemli temsilcilerini açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "ağıt, âşık, barak, bozlak, deyiş, gurbet havası, hoyrat, maya, oyun havası, semah, yol havası",
+  "support": [
+    "Öğrencilerden dinledikleri türkülerin söyleyiş özelliklerini belirlemeleri, dinledikleri türkülerin fark ettikleri söyleyiş özelliklerini sınıfta açıklamaları istenebilir. Öğrencilerin Türk halk müziğinde yer alan bir âşığın yaşamı hakkında kısa bir hikâye yazarak sınıf arkadaşlarına anlatması istenebilir. Bu hikâyede âşığın yaşamından kesitler ve ünlü eserleri üzerinde durması istenebilir, hikâye görseller ekleyerek zenginleştirebilir. Öğrencilere Türk halk müziği çalgılarının fotoğraflarının olduğu kartlar verilerek öğrencilerin bu kartları ses üretme biçimlerine göre (telli, nefesli, vurmalı vb.) gruplandırmaları istenebilir. Öğrencilerin her çalgı ailesini (telli, nefesli, vurmalı vb.) temsil eden kısa sunumlar hazırlaması istenebilir. Bu sunumlarda ilgili çalgı ailesindeki çalgıları tanıtarak ses üretme biçimlerini ve kullanım alanlarını açıklamaları istenebilir. Öğrenciler sunumlarını görsel materyallerle destekleyebilir ve sınıf arkadaşlarına çalgılar hakkında bilgiler verebilirler."
+  ],
+  "enrichment": [
+    "Öğrencilere bölgelerde yoğunlaşan ritim yapılarını oluşturacakları \"Türkiye ritim haritası\"na işleme görevi verilebilir (Bu harita dijital de olabilir.). Öğrencilerin Türk halk müziği ile Türk sanat müziği arasındaki benzerlik ve farklılıkları içeren karşılaştırma tabloları hazırlamaları ve sınıf ya da okul panolarında sergilemeleri istenebilir. Öğrencilerden âşıklık geleneği ile anonimlik özelliğinin aynı müzik türünde yer almasının, türe dair ne söylediğini yorumladıkları bir yazı yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, kısa cevaplı sorular, dereceli puanlama anahtarı, anekdot kaydı, kontrol listesi ve gözlem formu kullanılarak değerlendirilebilir. Ayrıca öğretmenler, öğrenme çıktıları ve içerik çerçevesi doğrultusunda mevcut ölçme araçlarını uyarlayabilir ya da gerektiğinde farklı araçlar geliştirerek süreci zenginleştirebilir. Öğrencilere performans görevi olarak bir harita üzerinde türkülerin yörelerini işaretleme ve her yörenin müzikal özelliklerini açıklayan bir poster hazırlama görevi verilir. Öğrencilere performans görevi olarak âşıklık geleneğinin bir temsilcisinin hayatı ve eserlerini inceleyip sınıfta kısa bir hikâye anlatma görevi verilir. Performans görevleri, dereceli puanlama anahtarıyla coğrafi doğruluk, içerik kapsamı ve sunum becerisi ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MK.4.2.1 Öğrencilere dikkat gerektiren bir etkinlik yapacakları söylenerek öğrencilerin ilgileri çekilir ve dinleme etkinliklerine yoğunlaşmaları konusunda öğrenciler teşvik edilir ( E1.1 , E3.2 ). Öğrencilere Türk halk müziği eser analiz formları dağıtılır. Öğrencilerden dinleyecekleri eserde tespit ettikleri müzikal unsurları bu formlara işaretlemeleri istenir. Öğrencilere öğretim aracı olarak seçilen Türk halk müziği eseri dinletilir ( SAB9 ). Büyük grup tartışması yöntemiyle öğrencilerin doldurduğu formlar incelenir, varsa yanlışlar giderilir, eksik unsurlar tamamlanır ( SDB2.1 , SDB2.2 ). Başka örneklerle dinleme etkinliği zenginleştirilir. Dinleme etkinlikleri sırasında öğrencilerin estetik haz duymasına, güzellik, uyum ve ahenk algılarının geliştirilmesine çalışılır ( D7.1 ). Türk halk müziğinin kaynağını halkın yaşayışından alan, tek sesli, anonim ve yer yer makamsal yapısı öğretmen tarafından vurgulanır. Formlarda tespit edilen unsurların çeşitliliğinin Türk halk müziğinin çeşitliliğine dair bir veri olduğunu, Türk halk müziğinin zengin bir tür olduğunu öğrencilerin fark etmesine yönelik yönlendirici sorular sorulur ( D19.2 ). Süreç kısa cevaplı sorular ve gözlem formu ile değerlendirilebilir.",
+    "MK.4.2.2 Öğrencilerin Türk halk müziği çalgılarını tanıtan eğitici videoları araştırmaları ve bu videolardan en beğendiklerini sınıfla paylaşmaları istenir ( E3.2 , OB1 , OB2 , OB4 ). Öğrenciler araştırma sürecinde planlı ve sorgulayıcı olmaları ve görevlerini eksiksiz yapmaları yönünde desteklenir ( D3.2 , D16.3 ). Öğrencilere sınıfta uygun olan videolar izletilir, çeşitli türkülerden ses kayıtları dinletilir ve öğrencilerin çalgıları belirlemeleri sağlanır. Daha önce öğrendikleri \"çalgıları ses üretme biçimine göre gruplama\" etkinliği hatırlatılarak bu grupların adları sorulur. Öğrencilerin Türk halk müziği çalgılarını ses üretme biçimlerine göre ayırmaları sağlanır. Öğrenciler dört gruba ayrılır ve her grubun bir çalgı ailesinin adını alması sağlanır. Gruplara Türk halk müziği çalgılarının fotoğrafları gösterilerek, ses kayıtları dinletilerek her grubun kendine ait çalgıyı tespit edip grup listesine yazması istenir ( SAB9 ). Çeşitli türkülerden örnekler dinletilerek etkinlik tekrarlanır. Öğrencilerin Türk halk müziği çalgılarını ses üretme biçimlerine göre tasnif etmeleri sağlanır. Öğrencilere bilgileri gruplandırmanın ve sıralamanın öğrenmeyi kolaylaştıracağı söylenir ( E3.7 ). Öğrencilere öğrendikleri çalgıların hangi gruba dâhil olduğunu etiketleyeceği bilgi kartları yapma görevi verilir. Oluşturulan çalgı bilgi kartlarıyla sınıf içi soru-cevap etkinliği düzenlenebilir. Öğrencilerin grup çalışmasındaki katılım ve iş birliği becerilerini izlemek için gözlem formu, çıkarımlarının doğruluk ve kapsamını izlemek için kontrol listesi kullanılabilir.",
+    "MK.4.2.3 Öğrencilere Türk halk müziği hakkında bildiklerini ölçmeye yönelik kısa cevaplı sorular sorulur. \"Sizce Türk halk müziğinin birbirinden farklı özelliklerde eserleri var mı?\" sorusuyla büyük grup tartışması yapılır. Öğrencilere Türk halk müziğinin kırık hava ve uzun hava biçimleri olduğu söylenir. Türk halk müziği biçimlerini tanıtıcı kısa, eğitici bir video izlenir ve öğrencilerin hoyrat, barak, bozlak, maya, gurbet havası, yol havası, ağıt, oyun havası, semah, deyiş, kahramanlık türküleri örneklerini dinlemeleri sağlanır ( SAB9 ). Öğrencilerin bu müzik biçimlerini dinleyerek analiz edebilecekleri belirtilir. Dinleme etkinliğine yoğunlaşmaları teşvik edilir ( E3.2 ). Öğrencilere Türk halk müziği dinleme ve analiz formu dağıtılır. Öğrencilerden dinleyecekleri eserde tespit ettikleri unsurları bu formlara işaretlemeleri istenir. Öğrencilere öğretim aracı olarak seçilen Türk halk müziği eseri dinletilir ( SAB9 ). Büyük grup tartışması yöntemiyle öğrencilerin doldurduğu formlar incelenir, varsa yanlışlar giderilir, eksik unsurlar tamamlanır. Başka örneklerle dinleme etkinliği zenginleştirilir. Dinleme etkinlikleri sırasında öğrencilerin estetik haz duymalarına, güzellik, uyum ve ahenk algılarının geliştirilmesine çalışılır ( D7.1 ). Süreç kısa cevaplı sorular ve gözlem formu ile değerlendirilebilir.",
+    "MK.4.2.4 Öğrencilere türküde kullanılan çalgılar, türkünün sözlerinde geçen yöresel söyleyiş özellikleri, eşlik dansı olup olmadığı gibi başlıkların listelendiği çalışma kâğıtları dağıtılır ve öğrencilerden dinleme etkinliğine tüm dikkatlerini vermeleri istenir ( E3.2 ). Öğrencilere farklı yörelere ait türküler dinletilir ( SAB9 , D19.2 ). Öğrencilerin dinledikleri türkülerde tespit ettikleri unsurları bu çalışma kâğıtlarına işlemeleri sağlanır. Büyük grup tartışması yapılarak çalışma kâğıtları değerlendirilir ve örüntüler listelenerek sınıflandırma tablosuna kaydedilir. Öğrencilerin halk müziğinin yerel ve bölgesel özellikler taşıdığını belirlemeleri sağlanır. Büyük grup tartışması yoluyla hangi bölgelerde hangi ezgisel ve ritimsel unsurların yoğunlaştığı tespit edilir ve bulgular Türkiye haritasına işlenir ( SDB2.1 , SDB2.2 ). Beyin fırtınası, akvaryum, büyük grup tartışması gibi yöntemler kullanılarak verilerin yoğunlaştığı bölgelerin özellikleri belirlenir. Öğrencilerin eserlerde kullanılan çalgıların, söyleyiş özelliklerinin, ritimsel unsurların yörelerin coğrafi özellikleri ve kültürel yapısıyla ilişkisini belirlemeleri sağlanır. Öğrencilere performans görevi olarak Türk halk müziğinin coğrafi çeşitliliğini göstermek için bir harita üzerinde türkülerin yörelerini işaretleme ve her yörenin müzikal özelliklerini açıklayan bir poster hazırlama görevi verilebilir. Performans görevleri, dereceli puanlama anahtarıyla coğrafi doğruluk, içerik kapsamı ve sunum becerisi ölçütlerine göre değerlendirilebilir. Öğrencilerin toplumsal ve kültürel çıkarımlarını içerik ve kapsam açısından değerlendirmek için dereceli puanlama anahtarı, tartışmalardaki katkılarını kaydetmek için anekdot kaydı kullanılabilir.",
+    "MK.4.2.5 Öğrencilerden âşıklık geleneğiyle ilgili olarak basılı ve dijital kaynaklardan bilgi toplamaları ve edindikleri bilgileri sınıfta paylaşmaları istenir ( OB1 , OB2 ). Öğrenciler araştırma sürecinde planlı ve sorgulayıcı olmaları ve görevlerini eksiksiz yapmaları yönünde desteklenir ( D3.2 , D16.3 ). Öğrenci bulguları sınıflandırma tablosuna kaydedilir. Âşıklık geleneğinin ortaya çıkma nedenlerine dair öğrencilere beyin fırtınası yaptırılır ve öğrencilerden âşıklığı doğuran tarihsel koşulları belirlemeleri istenir ( SDB2.2 , SDB2.1 , SDB2.2 ). Öğrencilerin âşıklık geleneğinin temsilcilerinin ortak özelliklerini belirlemeleri sağlanır. Öğrencilerin âşıklık geleneğinin özelliklerine dair bulguları birleştirerek genel bir önermede bulunmaları ve âşıklık geleneğinin özelliklerini belirlemeleri sağlanır ( D19.3 ). Öğrencilerden performans görevi olarak âşıklık geleneğinin bir temsilcisinin hayatı ve eserlerini inceleyip sınıfta kısa bir hikâye anlatımı yapmaları istenir. Performans görevleri, dereceli puanlama anahtarıyla içerik kapsamı ve sunum becerisi ölçütlerine göre değerlendirilebilir. Öğrenci çıkarımlarının doğruluk ve kapsamını izlemek için kontrol listesi ve gözlem formu kullanılabilir.",
+    "MK.4.2.6 Öğrencilerden bildikleri Türk halk müziği temsilcilerini listelemeleri istenir. Bir türün önemli temsilcisi sayılmanın şartlarının neler olabileceği büyük grup tartışması yoluyla belirlenir ve öğrenci listeleri gözden geçirilir. Sınıfça belirlenen ölçütlere uygun temsilciler listelenir ve bu temsilcilerin Türk halk müziğine katkıları hakkında görüş alışverişinde bulunulur. Öğrenciler gruplara ayrılır ve her grubun bu kişilerden birinin alana katkılarını ve eserlerini güvenilir genel ağ adreslerinden, çeşitli basılı ve görsel kaynaklardan araştırıp sınıfta sunması sağlanır ( OB1 , OB2 , SDB2.1 , SDB2.2 ). Öğrenciler araştırma sürecinde planlı ve sorgulayıcı olmaları ve görevlerini eksiksiz yapmaları yönünde desteklenir ( D3.2 , D16.3 , E2.2 ). Süreç boyunca Türk halk müziği eserlerinin millî kimliğimizin parçası olduğu vurgulanır ( D19.2 ). Öğrencilerin etkinliklere katılım ve yaratıcılık düzeylerini izlemek için gözlem formu, tartışmalardaki katkılarını kaydetmek için anekdot kaydı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D19.2",
+      "D19.3",
+      "D3.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E3.2",
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1012"
+}

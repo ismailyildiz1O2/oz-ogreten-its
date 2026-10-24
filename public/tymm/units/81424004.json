@@ -1,0 +1,69 @@
+{
+  "unitId": 81424004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "4. ÜNİTE: PİYANO - PİYANODA TEMEL KAVRAMLAR VE TEKNİKLER II",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.1.4.1",
+      "title": "Onaltılık nota değerini etüt ve eserler yardımıyla pekiştirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.2",
+      "title": "Onaltılık sus değerini etüt ve eserler yardımıyla pekiştirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.3",
+      "title": "Üçleme nota değerini etüt ve eserler yardımıyla pekiştirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.4",
+      "title": "Eksik ölçüyü etüt ve eserler yardımıyla uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.5",
+      "title": "Bileşik ölçülerden 6/8'lik ölçü sayısını etüt ve eserler yardımıyla seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.6",
+      "title": "İki zamanlı aksak ölçülerden 5/8'lik ölçü sayısını etüt ve eserler yardımıyla seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.7",
+      "title": "Non-legato (nan legato) tekniğini içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.8",
+      "title": "Non-legato, staccato ve legato tekniklerini içeren etüt ve eserleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.9",
+      "title": "Akor basma tekniğini parmak numaralarını kullanarak uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.4.10",
+      "title": "Arpej tekniğini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

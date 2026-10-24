@@ -1,0 +1,125 @@
+{
+  "unitId": 80950009,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "9. ÜNİTE: 11. SINIF - SOSYAL DUYGUSAL GELİŞİM",
+  "hours": "21",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.9.1",
+      "title": "Başarılı olduğu durumlarda kendini takdir eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.2",
+      "title": "Kişilik özelliklerine ilişkin farkındalık geliştirir",
+      "processComponents": [
+        "İçe dönüklük, dışadönüklük, sakinlik vb. gibi özelliklere odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.9.3",
+      "title": "Ergen-ebeveyn ilişkilerini değerlendirir",
+      "processComponents": [
+        "Çatışma, bağlanma, özerklik konularına odaklanılır. Bu kazanım okul rehberlik öğretmeni tarafından uygulanır."
+      ]
+    },
+    {
+      "code": "REH.9.4",
+      "title": "Yaşam değerleri ve davranışları arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.5",
+      "title": "Geleceğini hayal ederek başarılı yaşam amaçları oluşturur",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.6",
+      "title": "Yaşam amaçlarına ulaşmak için bir eylem planı hazırlar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.7",
+      "title": "Liderlik özellikleri açısından kendini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.8",
+      "title": "Yerel ve küresel sorunları tartışır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.9",
+      "title": "Grup çalışmalarına aktif olarak katılır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.10",
+      "title": "Okulda topluma katkı sağlayacak projeler üretir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.11",
+      "title": "İyi oluşu ile duyguları arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.12",
+      "title": "Arkadaşlık ilişkilerinde yaşadığı sorunları yapıcı yollarla çözer",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.13",
+      "title": "Bilgi kaynaklarının güvenilirliğini sorgular",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.14",
+      "title": "Sağlıklı yaşam alışkanlıkları ile bedensel ve psikolojik sağlığı arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.15",
+      "title": "Beden imgesi ile fiziksel ve psikolojik sağlığını ilişkilendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.16",
+      "title": "Akran grubunun yaşamındaki yerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.17",
+      "title": "Kararlarında aile ve akranlarının etkilerini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.18",
+      "title": "Kişisel seçimleri ile toplumsal rollerin gerektirdiği sorumluluklar arasında denge kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.9.19",
+      "title": "Kimlik gelişimi ile sosyal bağlamları ilişkilendirir",
+      "processComponents": [
+        "Kimlik gelişiminde aile, okul, ülke gibi sosyal bağlamlara değinilir."
+      ]
+    },
+    {
+      "code": "REH.9.20",
+      "title": "Kişisel değerleri ile yaşam amaçları arasında bağ kurar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

@@ -1,0 +1,47 @@
+{
+  "unitId": 81363006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "6. ÜNİTE: EDEBİYAT UYGULAMALARI II - ÖYKÜLEME",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.2.2.1",
+      "title": "Bağlama ve belirlenen amaca uygun hedef, yöntem, strateji seçer",
+      "processComponents": [
+        "Verilen göreve uygun olarak hedef belirlenir, çalışmanın biçimi-formatı belirlenir. Buna uygun strateji seçilir, işe vuruk yöntem ve teknikler listelenerek planlama yapılır."
+      ]
+    },
+    {
+      "code": "EDU.2.2.2",
+      "title": "Anlatısında yararlanacağı içerik unsurlarını oluşturur",
+      "processComponents": [
+        "Verilen göreve veya tercihe göre tema, konu, karakter, mekân, zaman, anlatıcı, bakış açısı, atmosfer, olay örgüsü belirlenir."
+      ]
+    },
+    {
+      "code": "EDU.2.2.3",
+      "title": "Taslak metin oluşturur",
+      "processComponents": [
+        "Konu, tema ve/veya iletiye uygun karakter, mekân, zaman, olay örgüsü oluşturulur. Dil düzeyi bakımından hedef kitleye, örgü ve yapı bakımından söylem amacına uygun olarak gerekli geçiş ve bağlantı ögesi, yeterince sözcük kullanılır. Destekleyici düşünceyi geliştirme yöntemlerinden faydalanılır. Anlatı, yönerge ve bilgiler kendi aralarındaki mantıksal ilişkilere uygun olarak ve tercih sırasına göre yeniden düzenlenerek öyküleme yapılır."
+      ]
+    },
+    {
+      "code": "EDU.2.2.4",
+      "title": "Öyküleme sürecini değerlendirir",
+      "processComponents": [
+        "Öyküleme sürecine yönelik öz değerlendirme yapılır. Duygu, düşünce, davranışlar ve bu sürece etki eden ortamdaki olaylar, kişiler, çevrenin gürültülü ya da sessiz bir durumda oluşu; öykülemede kullanılan söz varlığı, dil yapısı, anlatım kuralları; öyküleme içerikleri ve üslubun seçilmesindeki duyuşsal durum, ilgi alanları ve zihinsel faktörler değerlendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

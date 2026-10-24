@@ -1,0 +1,55 @@
+{
+  "unitId": 81359006,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Genetik Bilimine Giriş Dersi",
+  "title": "6. ÜNİTE: MİKROBİYAL MODELLER",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GBG.6.1.1",
+      "title": "Virüslerin genel özelliklerini açıklar",
+      "processComponents": [
+        "Virüs çeşitlerine değinilir (Nükleik asit tiplerine ve bitki/hayvan tiplerine göre çeşitleri belirtilir.). Gündemdeki virüslerden bahsedilir. COVID-19'un yaşam döngüsü verilir.",
+        "Virüslerin ancak bir konakçı içinde çoğalabildiğinden bahsedilir.",
+        "Virüslerin genetik mühendisliği alanında yapılan çalışmalar için yeni imkânlar sunduğu vurgulanır.",
+        "Faj (bakteriyofaj) ile bakteriler arasındaki ilişki vurgulanır."
+      ]
+    },
+    {
+      "code": "GBG.6.2.1",
+      "title": "Bakterinin genel özelliklerini açıklar",
+      "processComponents": [
+        "Bakterilerde genetik çeşitliliğe neden olan transformasyon, transdüksiyon ve konjugasyon olayları model üzerinde gösterilerek açıklanır.",
+        "Griffit'in pnömokoklarla yaptığı transformasyon deneyi incelenir.",
+        "Transdüksiyon olayı bakteriyofaj yaşam döngüsü üzerinden açıklanır.",
+        "Lederberg ve Tatum'un E. coli ile yaptığı konjugasyon deneyi incelenir."
+      ]
+    },
+    {
+      "code": "GBG.6.2.2",
+      "title": "Plazmitlerin genel özelliklerini açıklar",
+      "processComponents": [
+        "Bakterilerde doğal olarak bulunan plazmitlerin çeşitlerine değinilir. Plazmit çeşitlerinin fertilite, col, reziztans, parçalayıcı ve virülans plazmitler olarak sadece isimleri verilir.",
+        "Moleküler klonlamada kullanılan plazmitler ve bakteriyel mekanizmalar rekombinant DNA teknolojisi üzerindeki uygulamaları ile tanıtılır."
+      ]
+    },
+    {
+      "code": "GBG.6.3.1",
+      "title": "Viroid ve prionların genel özelliklerini açıklar",
+      "processComponents": [
+        "Viroid ve prionların hangi hastalıklara neden olduğu örneklendirilir.",
+        "Viroid ve prionların genetik mühendisliği alanında yapılan çalışmalarda kullanımı ile ilgili araştırma çalışması yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311249593601-genetik.pdf"
+}

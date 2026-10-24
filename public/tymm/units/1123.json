@@ -1,0 +1,60 @@
+{
+  "unitId": 1123,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "4.TEMA: BAĞLAMADA TEMEL DAVRANIŞLAR",
+  "hours": "17",
+  "description": "Temada bağlamanın doğru tutuş tekniğine göre sağ ve sol elin konumlandırılması ve tezene çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.1.4.1",
+      "title": "Bağlamada sağ ve sol elin tutuşunu sınıflandırabilme",
+      "processComponents": [
+        "a) Bağlamada sağ ve sol elin tutuşuna ilişkin ölçütler belirler.",
+        "b) Bağlamada sağ ve sol elin tutuşuna ilişkin verileri ayırır.",
+        "c) Bağlamada sağ ve sol elin tutuş biçimini tasnif eder.",
+        "ç) Bağlamada sağ ve sol elin tutuş biçimini adlandırır."
+      ]
+    },
+    {
+      "code": "BAĞL.1.4.2",
+      "title": ". Bağlamada boş teller üzerinde sağ bilek kullanabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "tezene (mızrap)",
+  "support": [
+    "Bağlama tutuşuna dair görsel bilgiler içeren posterler sınıf duvarlarına asılabilir, fotoğraf ve video analizi yapılabilir, bağlama tutuşu ve el pozisyonları hikâyeleştirilerek öğrencilerin bu konuyu eğlenceli bir şekilde öğrenmesi sağlanabilir."
+  ],
+  "enrichment": [
+    "Mızrap hareketlerinin öğretiminde davul, darbuka, tef gibi ritim araçlarıyla verilen ritim kalıplarına, boş tellerde tezeneyle ritmik eşlik etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevi olarak öğrencilerden bağlamanın bölümlerini tanıtan sunum yapmaları istenilebilir. Performans görevi, dereceli puanlama anahtarı ve gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.1.4.1",
+    "Öğretmen, bağlama ile örnek eserler çalarak öğrencilerin gözlem yoluyla bağlama tutuşu hakkında bilgi sahibi olmasını sağlar. Bu sırada çeşitli görsellerden yararlanılarak sağ ve sol elin bağlamadaki konumları hakkında öğrencilerde farkındalık oluşturulur ( OB4 ). Öğrenciler, bu ölçütleri kendi kelimeleriyle ifade edebilir. Öğrenciler, öğretmenin rehberliğinde bağlamanın tutuş pozisyonunu inceler ve doğru pozisyonu anlamak için belirlenen ölçütlere uygun hareketler yapar. Öğrenciler, bağlama tutuşuna dair önemli detayları gözlemleyerek veri toplar ve aynada kendilerini izleyerek bu bilgileri uygular ( E1.5 , OB4 ). Öğrenciler, doğru tutuşa yönelik gözlemledikleri pozisyonları sınıflandırır ve basit bir kontrol listesi oluşturur. Örneğin \"Sağ el pozisyonu doğru mu?\", \"Sol elin konumu uygun mu?\" gibi maddeler içeren bir liste kullanarak her pozisyonu kaydedebilir ( SDB1.2 ). Öğrenciler birbirlerinin tutuşunu gözden geçirebilir ve doğru pozisyonları sınıflandırarak birbirlerini değerlendirebilir ( SDB2.1 , D4.1 ).",
+    "BAĞL.1.4.2",
+    "Öğretmen, öğrencilerin boş tel gruplarını görseller aracılığıyla fark etmelerini sağlar. Öğrencilere tezene (mızrap) tanıtılır ( OB4 ). Tezenenin nasıl tutulacağı ve nasıl vurulacağı gösterilir. Öğrenciler, tezenenin tutuluşunu ve sağ bilek ile kullanımını uygulamalı bir şekilde öğrenirler. Öğretmen bağlama üzerinde tezene ile aşağı-yukarı tekniğini gösterir. Öğrencilerin gözlem yoluyla bu tekniği uygulaması beklenir (SDB2.1 ). Sağ elleriyle bağlamada tezeneyi nasıl hareket ettireceklerini denerler ( D3.4 ). Öğrencilere gruplar hâlinde sağ bilek alıştırmaları yaptırılarak tezeneyi doğru tutuş tekniği güçlendirilir ( D3.2 ). Öğretmen, her öğrencinin bağlamayı doğru tutma ve tezene ile çalma tekniği becerisini gözlem formuyla değerlendirerek öğrencilere tezene ile çalma tekniklerini uygulamada geri bildirim alma fırsatları verir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2",
+      "D3.4",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1123"
+}

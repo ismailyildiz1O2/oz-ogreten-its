@@ -1,0 +1,50 @@
+{
+  "unitId": 1349,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "4. TEMA: PİYANODA KÜRDİ MAKAMI",
+  "hours": "16",
+  "description": "Temada öğrencilere piyanoda kürdi makamının çalınmasına yönelik beceri kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.6.4.1",
+      "title": ". Kürdi makamına yönelik eseri çalabilme",
+      "processComponents": [
+        "a) Kürdi makamına yönelik eseri çözümler.",
+        "b) Kürdi makamına yönelik eser çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Kürdi makamına yönelik eser çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Kürdi makamına yönelik eserin müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, makam",
+  "support": [
+    "Kürdi makamı dizisinin ve eserinin temel müzik bileşenlerini daha basit parçalarla ve adım adım tekrarlar yaparak öğretmek, ritmik ve melodik yapıların pekişmesini sağlamak için faydalı olabilir. Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Kürdi makamını daha derinlemesine analiz etmeleri, makamın farklı varyasyonlarını yaratmaları, özgün yorumlar geliştirmeleri ve grup çalışmaları ile eser üzerinde daha ileri düzeyde ifade becerileri kazanmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, öz değerlendirme formu, dereceli puanlama anahtarı ve öz değerlendirme formu ile ölçülebilir. Performans görevi olarak öğrencilerden kürdi makamına yönelik seçilen bir eseri çözümlemesi, dijital kaynaklardan farklı versiyonlarını incelemesi ve ardından eseri teknik doğrulukla çalgıya özgü teknikler ve müziksel bileşenlere uygun biçimde çalması istenebilir. Performans görevi, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PYN.6.4.1",
+    "Kürdi makamına yönelik eserin çalınması sürecinde öğrenciler eserin notalarını dijital müzik platformlarından inceleyip farklı versiyonlarını dinleyerek çeşitli müzikal yorumları keşfederler ( D3.3 , OB2 ). Öğrencilerin kürdi makamı dizisini öğrenmeye nasıl başlayacakları ve bu makamın müzikal bileşenlerini anlatılır ( OB1 ). Öğrenciden kürdi makamına yönelik eseri çözümlemesi istenir. Bu süreçte merak duyguları devreye girer ve öğrenciler, makamın özelliklerini anlamak için araştırmalar yaparak derinlemesine öğrenirler ( E1.1 ). Öğrenciler kürdi makamını çalmada duruş ve tutuş pozisyonu alır ve eseri çalgıya özgü tekniklerini kullanır. Öğrenciler, eser içerisinde kürdi makamını özelliklerini anlar. Eseri müziksel bileşenlere uygun bir şekilde çalmaya başladıklarında öz güvenleri, daha belirgin hâle gelir ( E1.5 , OB9 ). Performans görevi olarak öğrencilerden kürdi makamına yönelik seçilen bir eseri çözümlemesi, dijital kaynaklardan farklı versiyonlarını incelemesi ve ardından eseri teknik doğrulukla çalgıya özgü teknikler ve müziksel bileşenlere uygun biçimde çalması istenir. Öğrenci, makamın karakteristik yapısını tanıttığı kısa bir sözlü sunum, yazılı açıklama veya küçük bir video anlatımı da hazırlayabilir. Performans görevi, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB9"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1349"
+}

@@ -1,0 +1,117 @@
+{
+  "unitId": 81663007,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "7. ÜNİTE: ROBOTİK KODLAMA - 2. ÜNİTE: ROBOTİK BİLEŞENLER",
+  "hours": "18",
+  "description": "Bu ünite, robotik teknolojinin temel bileşenlerini, kodlama ve tasarım süreçlerini, farklı motor türlerini ve hareket nesnelerini öğrencilere tanıtarak robotik projeleri oluşturma ve sorunları çözme yeteneklerini geliştirmeye odaklanır.",
+  "outcomes": [
+    {
+      "code": "BTY.7.1",
+      "title": "Yazılım ve sistem tasarımına uygun akış diyagramı tasarlar",
+      "processComponents": [
+        "Akış diyagramlarının robotik projelerin yazılım süreçlerini görselleştirmede kullanıldığı anlatılır.",
+        "Akış diyagramlarının kodun mantığını anlamada ve tasarım hatalarını önceden tespit etmede ne kadar önemli olduğuna dikkat çekilir.",
+        "Öğrenciden, bir problemin çözümü için akış diyagramı oluşturması istenerek karmaşıklığı yönetme becerisi kazanması sağlanır.",
+        "Bir kodlama ekibiyle çalışırken akış diyagramlarını kullanmanın iş birliği içinde çalışmayı kolaylaştıracağı anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.7.2",
+      "title": "Kodların anlamını açıklar",
+      "processComponents": [
+        "Bir kodlama dili için syntax, değişkenler, veri türleri, ifadeler, operatörler, kontrol yapıları, fonksiyonlar, kütüphaneler, yorumlar ve hata ayıklama kavramları açıklanır.",
+        "Örnek bir kod bloğunun ne anlama geldiği ve nasıl çalıştığı anlatılır.",
+        "Kodların mantığını anlamanın, hata ayıklama ve kodu geliştirme süreçlerine etkisine dikkat çekilir."
+      ]
+    },
+    {
+      "code": "BTY.7.3",
+      "title": "Kodları amacına uygun düzenler",
+      "processComponents": [
+        "Yazılan kodun düzenli olmasının, programın performansına etkisine ve daha sonrada kodun bakımını kolaylaştırabileceğine dikkat çekilir.",
+        "Temiz ve düzenli kod yazmanın, özellikle iş birliği ile yazılan projelerin daha iyi yönetilebilmesine yardımcı olduğuna değinilir.",
+        "İçinde hatalı kodların bulunduğu örnek bir uygulama ile hataların tespiti, kodların düzeltilmesi ve sadeleştirilmesi gibi aşamalar farklı öğrencilere yaptırılır. Bu sayede öğrencilere, bir projenin ekip çalışmasıyla düzenli olarak nasıl yürütüldüğü gösterilmiş olur."
+      ]
+    },
+    {
+      "code": "BTY.7.4",
+      "title": "Temel elektronik kavramları ve bileşenleri açıklar",
+      "processComponents": [
+        "Temel elektronik kavramları (direnç, transistör, devreler) ve bileşenler (LED'ler, sensörler) anlatılır.",
+        "Elektroniğin temellerini iyi kavramanın, robotik projelerinde elektronik devre oluşturmayı kolaylaştıracağına dikkat çekilir.",
+        "Elektronik devreyi tasarlamanın robotik projelerin en önemli aşamalarından biri olduğu vurgulanır. Bu aşamada yapılan hataların projenin diğer aşamalarında sürekli sorun yaşanmasına sebep olacağına dikkat çekilir."
+      ]
+    },
+    {
+      "code": "BTY.7.5",
+      "title": "Elektronik eklentileri belirler",
+      "processComponents": [
+        "Bir robotik proje için hangi elektronik bileşenlerin gerektiğini belirleme süreci anlatılır.",
+        "Elektronik bileşenlerin projelerindeki rollerini anlatarak donanım seçimi hakkında fikir sahibi olmaları sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.7.6",
+      "title": "Problemleri robotik kodlama ile çözebilmek için mantık geliştirir",
+      "processComponents": [
+        "Robotik projelerde karşılaştıkları problemleri tanımlama ve bu problemleri çözmek için mantık geliştirme becerisi kazandırılır.",
+        "Örnekler üzerinden programlama ve kodlama yoluyla problemlere sistematik bir şekilde yaklaşmayı öğrenmeleri için pratik yapma fırsatı sunulur."
+      ]
+    },
+    {
+      "code": "BTY.7.7",
+      "title": "Sensörler kullanarak yeni sistemler önerir",
+      "processComponents": [
+        "Robotikte en çok kullanılan sensörlerin neler olduğu hakkında bilgi verilir.",
+        "Farklı sensörlerin kullanıldığı robotik proje örnekleri gösterilir.",
+        "Verilen bir problemin çözümü için kullanılabilecek alternatif sensörler gösterilerek farklı çözüm yollarına ulaşabileceklerinin bağlantısı kurulur."
+      ]
+    },
+    {
+      "code": "BTY.7.8",
+      "title": "Modüller kullanarak yeni sistemler geliştirir",
+      "processComponents": [
+        "Modüllerin ne olduğu ve nasıl kullanıldığı anlatılır.",
+        "Modüllerin robotik projelerde hızlı prototipleme ve sistemlerin genişletilmesi için nasıl kullanılabileceği örneklerle gösterilir.",
+        "Verilen bir probleme yönelik öğrencinin uygun modülü tespit etmesi ve bu modülü kullanarak bir çözüm üretmesi istenir."
+      ]
+    },
+    {
+      "code": "BTY.7.9",
+      "title": "Motor türlerini kullanarak özgün sistemler geliştirir",
+      "processComponents": [
+        "Farklı türdeki motorların (DC motorlar, servo motorlar, step motorlar) ne zaman ve nasıl kullanılacağı anlatılır.",
+        "Motorların hareket kontrolünün motor sürücüler ile nasıl yapıldığı ve robotik projelerdeki rolleri açıklanır.",
+        "Birden fazla motor türünü bir arada kullanan bir robotik sistem geliştirmeleri istenir."
+      ]
+    },
+    {
+      "code": "BTY.7.10",
+      "title": "Hareketli nesnelerin kullanıldığı farklı sistemler geliştirir",
+      "processComponents": [
+        "Hareketli nesnelerin (dişliler, tekerlekler, pervaneler vb.) farklı robotik sistemlerde nasıl kullanıldığı örneklerle gösterilir.",
+        "Hareketli nesnelerin farklı tasarım ve hareketlilik gereksinimlerini nasıl karşılayabileceği örneklerle gösterilir.",
+        "Verilen bir problemin çözümüne yönelik, hareketli nesnelerin kullanıldığı robotik bir çözüm istenerek öğrencilerin hareketli nesneleri etkili bir şekilde kullanması sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.7.11",
+      "title": "Elektronik tasarımın kodlarını hazırlar",
+      "processComponents": [
+        "Geliştirilen elektronik tasarımın kodlarını yazma süreci ve bu kodların donanımla nasıl etkileşimde bulunduğu açıklanır.",
+        "Kodlama ve donanım bileşenlerini uyumlu bir şekilde kullanarak verimli robotik projeleri nasıl oluşturacakları öğretilir.",
+        "Öğrencilere hazırlanmış bir elektronik devre verilir ve istenen uygulama anlatılarak bu elektronik devre için kodları yazması istenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

@@ -1,0 +1,44 @@
+{
+  "unitId": 232,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Peygamberimizin Hayatı Dersi",
+  "title": "3. ÜNİTE: PEYGAMBERİMİZİN HAYATINDA ÖNEMLİ BİR HADİSE: VEDA HACCI",
+  "hours": "22",
+  "description": "Bu ünitede Veda Haccı’nın Müslümanlar ve İslam tarihi için öneminin çözümlenmesi ve Peygamberimizin bu hac esnasında irat ettiği Veda Hutbesi’nin taşıdığı evrensel mesajların özetlenmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PH.12.3.1",
+      "title": "Veda Haccı'nın önemini çözümleyebilme",
+      "processComponents": [
+        "a) Veda Haccı'nın önemine ilişkin unsurları araştırır.",
+        "b) Veda Haccı'nın önemine ilişkin unsurlar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "PH.12.3.2",
+      "title": "Veda Hutbesi'ndeki evrensel mesajları özetleyebilme",
+      "processComponents": [
+        "a) Veda Hutbesi'ndeki evrensel mesajlarla ilgili çözümleme yapar.",
+        "b) Veda Hutbesi'ndeki evrensel mesajlarla ilgili sınıflandırma yapar.",
+        "c) Veda Hutbesi'ndeki evrensel mesajları yorumlar."
+      ]
+    }
+  ],
+  "keyConcepts": "-",
+  "support": [
+    "Veda Haccı ve Veda Hutbesi konuları etkileşimli dijital araçlardan yararlanılarak özet bilgiler ve konu tekrarları hâlinde sunulabilir ve öğrencilerin bilgilerini test etmelerine yönelik soru ve etkinlikler hazırlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden sistemli ve gayretli bir şekilde çalışarak (E3.7) Hz. Peygamber'in Veda Haccı sırasında konakladığı ve ziyaret ettiği mekânların bir krokisini hazırlamaları istenebilir. Veda Hutbesi, istekli öğrenciler tarafından etkili hitabet yöntemlerine uygun şekilde seslendirilebilir. Öğrencilerden Veda Hutbesi'ni okuyarak veya dinleyerek hutbenin ana fikirlerini ve temel prensiplerini ortaya koymaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çıkış kartları, anlam çözümleme tablosu ve analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilere Veda Hutbesi'yle ilgili bir performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "PH.12.3.1 Haccın farz kılınması ve Müslümanların Hz. Ebu Bekir emîrliğinde yaptığı ilk hac ibadeti ele alınır. Hz. Peygamber liderliğinde eda edilen hac için yapılan hazırlıklar, bu hacca iştirak edenler ve bu haccın merhaleleri işlenir. Hac ibadetinin önemine değinilir. Bu kapsamda konu din kültürü ve ahlak bilgisi dersi ile ilişkilendirilir. Bu haccın \"Veda Haccı\" olarak isimlendirilmesinin sebeplerine ve Hz. Peygamber'in Veda Haccı sırasında irat ettiği hutbelerin önemine değinilir. Veda Haccı'nın Hz. Peygamber'in ilk ve son haccı olması ile Hz. Peygamber'in burada hac ibadetini öğretip evrensel nitelikli nasihatlerde bulunması arasındaki ilişki belirtilerek Veda Haccı'nın önemi ortaya konur. Biçimlendirici değerlendirme yapmak için çıkış kartları kullanılabilir.",
+    "PH.12.3.2 Hz. Peygamber'in Veda Haccı esnasında hutbelerini nerelerde ve nasıl irat ettiği ele alınır. Hutbelerde dikkat çekilen konulara değinilir. Bu hutbelerin güvenilir kaynaklardaki rivayetlerden derlenen ve Veda Hutbesi olarak nitelendirilen metni verilir. Hz. Peygamber'in Veda Hutbesi'ndeki ifadelerinden çıkarılan evrensel mesajlar çözümlenerek listelenir. Öğrencilerden bu mesajları bireysel ve toplumsal olmak üzere sınıflandırmaları istenir. Bu sınıflandırmanın anlam çözümleme tablosu üzerinde gösterilmesi istenebilir. Hz. Peygamber'in Veda Hutbesi'ndeki evrensel mesajları arasında yer alan can ve mal dokunulmazlığıyla (D8.4, D11.3) ilgili mesajı üzerinden hak ve özgürlüklerden yararlanılırken diğer insanların kişisel haklarına riayet etmenin gerekliliği vurgulanır (SDB3.3, OB6) . Öğrencilerden Veda Hutbesi'ndeki evrensel mesajların günümüze etkilerini yorumlamaları istenir. Yapılan yorumlar köşeleme tekniğiyle değerlendirilebilir. Öğrencilerden performans görevi olarak Veda Hutbesi'ndeki evrensel mesajların ele alınacağı bir konferans için konuşma metni yazmaları istenebilir. Yapılan çalışmalar; içinde içerik, özgünlük, çözümleme, yorumlama, dil ve anlatım ölçütleri bulunan analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/232"
+}

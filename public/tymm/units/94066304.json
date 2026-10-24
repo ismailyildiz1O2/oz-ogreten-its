@@ -1,0 +1,155 @@
+{
+  "unitId": 94066304,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Türkçe Dersi",
+  "title": "4. ÖĞRENME ALANI: YAZMA",
+  "hours": "51",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "T.4.4.1",
+      "title": "Şiir yazar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.2",
+      "title": "Bir işin işlem basamaklarına ilişkin yönergeler yazar",
+      "processComponents": [
+        "Öğrencilerin bir aletin kullanılma aşamalarını anlatan broşür hazırlamaları, bir oyunun aşamalarını anlatan kitapçık hazırlamaları ya da yol tarifi yazmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.4.3",
+      "title": "Hikâye edici metin yazar",
+      "processComponents": [
+        "Olayların oluş sırasına göre yazılmasının gerekliliği hatırlatılır.",
+        "Kişi, olay ve mekân unsurlarının anlatılması sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.4.4",
+      "title": "Bilgilendirici metin yazar",
+      "processComponents": [
+        "Yazdıklarında duygu ve düşüncelerini aktarmaları için teşvik edilir.",
+        "Verilen ya da kendi belirledikleri bir konu hakkında araştırma yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.4.5",
+      "title": "Hayalî ögeler barındıran kısa metin yazar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.6",
+      "title": "Görselleri ilişkilendirerek bir olayı anlatır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.7",
+      "title": "Yazdıklarının içeriğine uygun başlık belirler",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.8",
+      "title": "Yazdıklarında yabancı dillerden alınmış, dilimize henüz yerleşmemiş kelimelerin Türkçelerini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.9",
+      "title": "Formları yönergelerine uygun doldurur",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.10",
+      "title": "Büyük harfleri ve noktalama işaretlerini uygun yerlerde kullanır",
+      "processComponents": [
+        "Yay ayraç, üç nokta, eğik çizgi, soru işareti, nokta, virgül, iki nokta, ünlem, tırnak işareti, kısa çizgi, konuşma çizgisi ve kesme işaretinin yaygın kullanılan işlevleri üzerinde durulur.",
+        "Kitap, dergi, gezegen ve yıldız adlarının yazımı ile iki noktadan sonra büyük harf kullanıldığı belirtilir."
+      ]
+    },
+    {
+      "code": "T.4.4.11",
+      "title": "Yazdıklarını düzenler",
+      "processComponents": [
+        "Öğrenciler yazdıklarını dil bilgisi ve anlatım bozuklukları yönünden kontrol etmeye teşvik edilir.",
+        "Sınıf düzeyine uygun yazım ve noktalama kuralları ile sınırlı tutulur."
+      ]
+    },
+    {
+      "code": "T.4.4.12",
+      "title": "Yazdıklarını paylaşır",
+      "processComponents": [
+        "Öğrenciler yazdıklarını sınıf içinde okumaları, okul veya sınıf panosunda sergilemeleri için teşvik edilir. Öğrencilere yazdıklarını sınıf içinde okumaları konusunda ısrar edilmemelidir.",
+        "Öğrenciler kompozisyon ve şiir yarışmalarına katılmaları için teşvik edilmelidir."
+      ]
+    },
+    {
+      "code": "T.4.4.13",
+      "title": "Yazılarında eş sesli kelimeleri anlamlarına uygun kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.14",
+      "title": "Yazdıklarını zenginleştirmek için çizim, grafik ve görseller kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.15",
+      "title": "İmza atar",
+      "processComponents": [
+        "İmzanın anlamı ve ismin baş harfi ile soy ismin bütününü sembolize etmesi gerektiği vurgulanır. Öğrencilere imzalarını belirlemeleri için kılavuzluk yapılır."
+      ]
+    },
+    {
+      "code": "T.4.4.16",
+      "title": "Kısaltmaları ve kısaltmalara gelen ekleri doğru yazar",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.17",
+      "title": "Sayıları doğru yazar",
+      "processComponents": [
+        "Sayıların harflerle yazımı, birden fazla kelimeden oluşan sayıların yazımı, Romen rakamlarının yazımı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "T.4.4.18",
+      "title": "Yazılarında bağlaçları kuralına uygun kullanır",
+      "processComponents": [
+        "“de” ve “ki” bağlaçlarını doğru yazmaları sağlanır."
+      ]
+    },
+    {
+      "code": "T.4.4.19",
+      "title": "Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.20",
+      "title": "Harflerin yapısal özelliklerine uygun metin yazar",
+      "processComponents": [
+        "Öğrencilerin kendi yazı stillerini oluşturmaları teşvik edilir."
+      ]
+    },
+    {
+      "code": "T.4.4.21",
+      "title": "Yazma stratejilerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "T.4.4.22",
+      "title": "Pekiştirmeli sözcükleri doğru yazar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20195716392253-02-T%C3%BCrk%C3%A7e%20%C3%96%C4%9Fretim%20Program%C4%B1%202019.pdf"
+}

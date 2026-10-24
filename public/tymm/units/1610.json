@@ -1,0 +1,35 @@
+{
+  "unitId": 1610,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "2.Tema: Satranç Tahtası",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.2.1",
+      "title": ". Satranç tahtasını tanıma sürecinde tahtayı oluşturan bileşenleri gözlemleyebilme. a) Tahta üzerindeki görsel bileşenleri fark eder. b) Tahtayı oluşturan görsel bileşenleri ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.2.2",
+      "title": "Satranç tahtasını, tahtanın köşe rengine ve siyah beyaz oyuncu yöününe dikkat ederek oyuncular arasına doğru yerleştirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.2.3",
+      "title": "Satranç tahtasında kare isimlendirilmesine yönelik çözümleme yapabilme. a) Satranç tahtasında yatay ve dikey isimleri belirler. b) Yatay ve dikey arasındaki ilişkiyi belirleyerek kare isimlendirmesi yapar. OOEST.2.4 . Satranç tahtası üzerindeki merkez kareleri, oyun kontrolü ve bu karelerdeki taşların hareket alanı yönünden diğer karelerle karşılaştırabilme. a) Satranç tahtası üzerindeki merkez karelerle diğer karelerin özelliklerini oyun kontrolü ve oyuna hâkimiyet açısından belirler. b) Satranç tahtası üzerindeki merkez karelerle diğer karelerin benzerliklerini oyun kontrolü ve oyuna hâkimiyet açısından listeler. c) Satranç tahtası üzerindeki merkez karelerle diğer karelerin farklılıklarını oyun kontrolü ve oyuna hâkimiyet açısından listeler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "satranç tahtası, merkez kareler, yatay-dikey-çapraz doğrultu",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB1. Sanatsal Algılama (SAB1.1. Sanatsal Gözlemleme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1610"
+}

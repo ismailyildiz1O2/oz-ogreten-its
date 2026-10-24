@@ -1,0 +1,59 @@
+{
+  "unitId": 81424027,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "27. ÜNİTE: KORO - SES EGZERSİZLERİ",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.4.1.1",
+      "title": "Toplu olarak ses, nefes ve bedensel yumuşama egzersizleri yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.2",
+      "title": "Toplu olarak dil ve konuşma egzersizleri yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.3",
+      "title": "Artikülasyon egzersizleri yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.4",
+      "title": "Ses üretme-yayma alıştırmaları uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.5",
+      "title": "Rezonans çalışmasında doğru ses üretir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.6",
+      "title": "Entonasyon geliştirme alıştırmaları uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.7",
+      "title": "Tonlama alıştırmaları yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.1.8",
+      "title": "Vurgulama alıştırmaları yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

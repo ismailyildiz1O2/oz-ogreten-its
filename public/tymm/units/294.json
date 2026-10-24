@@ -1,0 +1,101 @@
+{
+  "unitId": 294,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi (Maarif Modeli)",
+  "title": "1. TEMA: SAYILAR VE NİCELİKLER (1)",
+  "hours": "23",
+  "description": "Bu temada öğrencilerin niceliklerin büyüklüklerine karşılık gelen en fazla altı basamaklı sayıların temsillerini kullanabilmesi; en fazla altı basamaklı sayıları basamakları ve basamak değerleri açısından çözümleyebilmesi; basamaklarını ve bölüklerini belirleyebilmesi; basamak, bölük ile basamak ve sayı değerleri arasındaki ilişkileri belirleyebilmesi; en fazla altı basamaklı olan sayıları büyüklük/küçüklük açısından sembol kullanarak sıralayabilmesi; 1000000’e kadar olan sayıları onluklarına, yüzlüklerine ve binliklerine ayırıp tasnif edebilmesi; 10000’e kadar yüzer ve biner ileriye ve geriye doğru ritmik sayabilmesi; artan azalan sayı örüntüleri ve şekil örüntülerindeki değişimi genelleyebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.4.1.1",
+      "title": "Niceliklerin büyüklükleri için en fazla altı basamaklı olan sayıların temsillerinden yararlanabilme",
+      "processComponents": [
+        "a) Niceliklerin büyüklüklerinin temsillerini tanır.",
+        "b) Niceliklerin büyüklüklerine uygun sayı temsillerini belirler.",
+        "c) Niceliklerin büyüklüklerine karşılık gelen uygun sayıları okur ve yazar."
+      ]
+    },
+    {
+      "code": "MAT.4.1.2",
+      "title": "En fazla altı basamaklı sayıları çözümleyebilme",
+      "processComponents": [
+        "a) En fazla altı basamaklı sayıların basamaklarını ve bölüklerini belirler.",
+        "b) En fazla altı basamaklı sayıların basamak, bölük ile basamak ve sayı değerleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.4.1.3",
+      "title": "Sayıları sıralayabilme",
+      "processComponents": [
+        "a) En fazla altı basamaklı sayıları öncelik/sonralık ilişkisine göre sembol kullanarak belirler.",
+        "b) En fazla altı basamaklı sayıları onluklara, yüzlüklere ve binliklere göre basamaklarına ayırır.",
+        "c) En fazla dört basamaklı sayıları en yakın onluğa, yüzlüğe ve binliğe göre yuvarlayarak tasnif eder.",
+        "ç) Tasnif edilen sayı gruplarını birler ve binler bölüğü şeklinde ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.4.1.4",
+      "title": "İleriye ve geriye doğru ritmik saymayı yapılandırabilme",
+      "processComponents": [
+        "a) Sayıları ileriye ve geriye doğru ritmik sayarken hiyerarşik ilişkiler ortaya koyar.",
+        "b) Ritmik saymaya ilişkin öz bilgisine dayanarak yüzer ve biner ileriye ve geriye doğru hedeflenen sayıya ulaşır."
+      ]
+    },
+    {
+      "code": "MAT.4.1.5",
+      "title": "Artan azalan sayı örüntüleri ve şekil örüntülerindeki değişimi genelleyebilme",
+      "processComponents": [
+        "a) Verilen örüntünün adımı ve örüntüde kullanılan sayılar ya da şekiller arasındaki ilişkiye yönelik bilgi toplar.",
+        "b) Verilen örüntüde kullanılan sayıların ya da şekillerin ortak olan özelliklerini belirler.",
+        "c) Verilen örüntüde kullanılan sayıların ya da şekillerin ortak olmayan özelliklerini belirler.",
+        "ç) Karşılaştırılan sayı ve şekil örüntülerindeki artma, azalma ve tekrar etme durumlarını sözlü olarak ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "• -, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrenme farklılıkları doğrultusunda modellerle etkinlikler yapılır. Bazı koşullar ve öğrenciler için sayı doğrusuna sayıları konumlandırmanın daha fazla somutlaştırılması gerektiğinde etkinliklerle, daha somut bir şekilde sayı doğrusu oluşturulur. En yakın onluğa ve yüzlüğe yuvarlamayı basitleştirmek ve oyunlaştırmak için materyal geliştirilir. İleriye ve geriye doğru ritmik sayabilmenin daha anlaşılır hâle gelmesi için binlik tablo üzerinde ritmik saymaların farklı renklere boyanması sağlanır. Bu tür etkinlikler öğrencilerin seviyelerine göre dağıtılacak şekilde grup çalışmalarıyla yürütülür. Daha somut ve basit örüntüler üzerinde çalışır. Örüntüleri dijital ortamda incelemesi ve ilişkiler kurması sağlanır."
+  ],
+  "enrichment": [
+    "Öğrencilerin gruplar hâlinde çalışarak dört, beş ve altı basamaklı sayıları çözümlemeleri istenir. Bunu yaparken mümkün olduğunca farklı şekillerde çözümlemeleri sağlanarak ve gridlere, diyagramlara farklı şekillerde yerleştirmeleri istenerek yeni ürünler oraya koyma eğilimleri teşvik edilir. Sayı doğrusu modeline sayıları onar ve yüzer ileriye ve geriye nasıl yerleştirebilecekleri sorularak bu konuda fikir yürütmeleri sağlanır. Boş sayı doğrusu modelleri dağıtılarak farklı aralıklarla ritmik saymaları da ortaya koyabilecekleri sayı doğruları oluşturmaları sağlanır. Ritmik saymaları herhangi bir sayıdan başlayacak şekilde yapar ve bu şekilde örüntüler kurar. Öğrencilere ileriye ve geriye doğru ritmik sayma ile ilgili görseller veya kendi oluşturacakları modeller oluşturmaları istenir. Öğrenciler kurallarını kendilerinin belirlediği artan ve azalan örüntüleri, sınıftaki teknolojik olanaklar dâhilinde dijital ortamda hazırlar."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında yapılandırılmış grid, eşleştirme soruları, boşluk doldurma soruları, performans görevi, bütüncül dereceli puanlama anahtarı ve gözlem formu kullanılabilir.",
+    "Öğrencilere ileriye veya geriye doğru saymalarını ortaya çıkaracak performans görevi verilebilir. Performans görevinin değerlendirilmesi bütüncül dereceli puanlama anahtarı ile yapılabilir. Öğrencilerin şekil örüntülerine ait artış ve azalışlarını sunmalarına yönelik performans görevi verilebilir. Performans görevinin değerlendirilmesinde gözlem formları kullanılır."
+  ],
+  "teachingApplications": [
+    "MAT.4.1.1 Öğrencilere dört, beş ve altı basamaklı sayılar kadar olan çoklukları görsel olarak tanıtmak mümkün olamayabileceği için modellere dayalı ya da sayı temsillerine odaklanan bir süreç izlenir. Bu çoklukların sayı temsillerini tanımaları sağlanır. Günlük yaşam durumları için sayı temsillerini belirlemeleri sağlanır. Dört, beş ve altı basamaklı sayılar vurgulanacağı için varsa günlük veya gerçek yaşamdan uygun örneklerin seçilmesi, yoksa modellerle ve sonrasında daha soyut bir yol izlenmesi tercih edilir. Öğrencilerin dört, beş ve altı basamaklı sayıları okuması ve yazması sağlanır. Bu sayıların okunuşları ve yazılışları arasındaki ilişkilerin incelendiği eşleştirme soruları kullanılabilir.",
+    "MAT.4.1.2 Yüzlük, onluk, birliklerin dört, beş ve altı basamaklı sayıları çözümlerken yeterli olamayacağı; binlik, on binlik ve yüz binlik kavramının ve binler, on binler, yüz binler basamaklarının da gerekli olduğunun fark edilmesi sağlanır. Bunun için sırasıyla, nesne sayısı dört, beş ve altı basamaklı sayı kadar olan çokluklar öğrencilere modellerle gösterilir. Dört, beş ve altı basamaklı sayı kadar olan bir çokluğu yüzlük, onluk ve birliklerine göre çözümlemeyi denemeleri istenir. Burada amaç binlik, on binlik ve yüz binlik kavramının gerekliliği ile birlikte ilgili basamaklardaki sayı değerinin anlaşılmasıdır. Bu ihtiyacın öğrenciler tarafından hissedilmesi ve öğrenmeye yönelik motivasyonun sağlanması amaçlanır ( SDB1.2 , OB1 ) . Gereklilik anlaşıldıktan sonra modeller aracılığıyla veya sayı temsilleri üzerinden bu basamaklar öğrencilere tanıtılır. Basamaklar ve bölükler arasındaki ilişki vurgulanır. Sırasıyla dört, beş ve altı basamaklı sayıları çözümlemelerine yönelik etkinlikler yapılır. Süreç sonunda öğrencinin basamak ve bölük ilişkisini anlamı değiştirmeyecek bir şekilde yeniden ifade etmesi sağlanır. ( KB2.14 ).",
+    "Çözümlenen çokluklar tekrar birleştirilerek ilk hâline getirilip üzerine eklenerek farklı çokluklar oluşturulur. Oluşan bu yeni çokluğun tekrar çözümlenmesi istenir. Önce daha küçük sonra daha büyük sayılarla çalışılır. Çözümleme ve birleştirme ile ilgili uygulamalar yapılarak konu pekiştirilir. Öğrenciler basamakları esas alarak çözümleme ve birleştirme yaptığı sürece farklı çözümlemeler yapabilmeleri kısıtlanmaz ( E3.3 ) .",
+    "Çözümleme ve birleştirmeyi takiben yapılan çözümlemedeki basamaklar ve basamak değerleri modeller yardımıyla gruplanarak gösterilir. Basamaklardaki sayıların kendi içlerinde bir bütün olarak basamak değerini oluşturduğu ifade edilir. Basamak değerlerinin basamaklarla olan ilişkisini belirlemelerine yönelik olarak yapılandırılmış grid kullanılabilir. Olanaklar dâhilinde çalışma kâğıtları ile birlikte EBA üzerinden öğrencilere çevrim içi araçlar yardımıyla içerikler oluşturularak sunulabilir. Bireysel ya da grup olarak içerikler hakkında birbirleri ile iletişim kurmaları sağlanır. İş birliğiyle çalışmaları ve dijital araçlar ile etkileşime girmeleri beklenir ( OB2 , SDB2.2 ) .",
+    "Gereklilik anlaşıldıktan sonra modeller aracılığıyla veya sayı temsilleri üzerinden bu basamaklar öğrencilere tanıtılır. Basamaklar ve bölükler arasındaki ilişki vurgulanır. Sırasıyla dört, beş ve altı basamaklı sayıları çözümlemelerine yönelik etkinlikler yapılır. Süreç sonunda öğrencinin basamak ve bölük ilişkisini anlamı değiştirmeyecek bir şekilde yeniden ifade etmesi sağlanır ( KB2.14 ) .Çözümlenen çokluklar tekrar birleştirilerek ilk hâline getirilip üzerine eklenerek farklı çokluklar oluşturulur. Oluşan bu yeni çokluğun tekrar çözümlenmesi istenir. Önce daha küçük sonra daha büyük sayılarla çalışılır. Çözümleme ve birleştirme ile ilgili uygulamalar yapılarak konu pekiştirilir. Öğrenciler basamakları esas alarak çözümleme ve birleştirme yaptığı sürece farklı çözümlemeler yapabilmeleri kısıtlanmaz ( E3.3 ) . Çözümleme ve birleştirmeyi takiben yapılan çözümlemedeki basamaklar ve basamak değerleri modeller yardımıyla gruplanarak gösterilir. Basamaklardaki sayıların kendi içlerinde bir bütün olarak basamak değerini oluşturduğu ifade edilir. Basamak değerlerinin basamaklarla olan ilişkisini belirlemelerine yönelik olarak yapılandırılmış grid kullanılabilir. Olanaklar dâhilinde çalışma kâğıtları ile birlikte EBA üzerinden öğrencilere çevrim içi araçlar yardımıyla içerikler oluşturularak sunulabilir. Bireysel ya da grup olarak içerikler hakkında birbirleri ile iletişim kurmaları sağlanır. İş birliğiyle çalışmaları ve dijital araçlar ile etkileşime girmeleri beklenir ( OB2 , SDB2.2 ) .",
+    "MAT.4.1.3 1000000'a kadar olan sayıların büyüklük/küçüklük ilişkisine göre belirlenmesi sağlanır. Bunun için modeller yardımıyla çoklukların azlık/çokluk ilişkisi veya çoklukların azaltılıp çoğaltılarak değiştirilmesi şeklinde etkinlikler yapılır. Akıllı tahta, projeksiyon ve bilgisayar gibi araç gereçle etkileşimli etkinlikler de uygulanır ( OB2 ) . Bu süreçte etkinliklerde çoklukların sayı temsillerinin yazılması, soyut olarak sayı kavramının yerleşmesi ve büyüklük/küçüklük ilişkisine geçiş önerilir. Büyüklük/küçüklük ilişkisinde binlik tablo, sayı doğrusu gibi modellemeler üzerinde çalışılır. Sayı doğrularında başlangıç noktaları değişkenlik gösterebilecek şekilde her bir yüzlük içerisinde onar, her bir binlik içerisinde yüzer sayma şeklinde sayılar yerleştirilir. Bu şekilde sayı doğrusunda 10'dan fazla sayı yer almamış olur. Sayı doğrusunda konum belirleme (aşamalı olarak 1000 içinde yüzer olacak şekilde), boş sayı doğrusuna sayıları yerleştirme (1000 içinde yüzlük olacak şekilde) etkinlikleri yapılır.",
+    "1000000'a kadar olan sayılar, onluklarına, yüzlüklerine ve binliklerine göre ayrılır ve tasnif edilir. Bu sayıların en yakın onluk, yüzlük ve binliklerine göre ifade edilmesi sağlanır. Tasnif edilen sayı gruplarını birler ve binler bölüğü şeklinde ifade eder. Bu aşamada, önceki öğrenmelerinden (basamak, basamak değeri ve sayı değeri) faydalanılır. En fazla dört basamaklı sayıları en yakın onluğa, yüzlüğe ve binliğe yuvarlamanın öğretiminde sayı doğrusundan ve modellerden yararlanılır. Bu öğrenme çıktısının değerlendirilmesinde boşluk doldurma sorularından yararlanılabilir. Yuvarlamanın değerlendirilmesine yönelik olarak eşleştirme sorularından faydalanılabilir. Sayıların sıralanmasını içeren eğitsel oyunlar oynanabilir.",
+    "MAT.4.1.4 Öğrencilerin dikkatini çekebilecek bir görsel, video veya herhangi bir nesne ile merak uyandırılır ( E1.1 ) . Öğrencilerin modeller üzerinde veya dijital ortamda etkileşimli olarak ileriye ve geriye doğru ritmik saymayı gözlemlemeleri, dijital ortamda sunulan içerik konusunda değerlendirme yapıp çıkarımda bulunmaları sağlanır ( OB2 ) . Bunun için binlik tablolar ya da farklı modellerden yararlanılır. 10000 içinde onar, yüzer ve biner saymada önce ki öğrenmeler de kullanılarak örüntülere ve hiyerarşik ilişkilere ulaşmaları sağlanır. Önce ileriye sonra geriye saymaları ve ritmik saymalarda hedeflenen sayıya ulaşmaları istenir. Bu süreçlerde oyunlardan, teknolojiden ve görsel ögelerden yararlanılır ve çalışmalarda aktif rol almaları sağlanır ( D3.4 , E2.5 ) . Öğrencilere grupla çalışılabilecekleri şekilde sınıf ortamında veya dijital ortamda ritmik ileriye veya geriye doğru saymalarını ortaya çıkaracak performans görevi verilebilir ( SDB1.2 ) . Performans görevinin değerlendirilmesi bütüncül dereceli puanlama anahtarı ile yapılabilir.",
+    "MAT.4.1.5 Sayı ve sayı temsiline dönüşen şekil örüntülerinin kurallarını genelleyebilmek için öncelikle örüntüdeki sayı veya şekiller arasındaki ilişkiye yönelik bilgi toplamaları sağlanır. Sayılar veya şekiller arasındaki ilişkiler belirlenirken bunların ortak olan ve olmayan özellikleri belirlenir ( KB2.7 ) . Bu özellikler belirlendikten sonra örüntüdeki artma, azalma ve tekrar etme durumlarını sözlü olarak ifade etmesi sağlanır. Son olarak örüntü ile ilgili değerlendirmede bulunur. Başlangıçta sabit artan ve azalan örüntülerle, sonrasında ise artma ve azalma durumlarının bir arada uygulandığı örüntülerin yer aldığı etkinliklerle süreç sürdürülür. Örüntülerin devam ettirilmesi istenen etkinliklerde günlük yaşamdan örüntülerin belli artış azalış döngüsü dikkate alınır. Ayrıca örüntüyü devam ettirme konusunda öğrencilerin arkadaşlarına destek olmaları sağlanır ( SDB2.2 ) . Öğrencilerin günlük yaşamda karşılaşabilecekleri bir duruma dair sayı veya şekil örüntülerini bireysel olarak sunmalarına yönelik performans görevi verilebilir. Performans görevinin değerlendirilmesinde gözlem formları kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/294"
+}

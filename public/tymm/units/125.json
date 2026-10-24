@@ -1,0 +1,132 @@
+{
+  "unitId": 125,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "2. TEMA: SAYILAR VE NİCELİKLER (2)",
+  "hours": "30",
+  "description": "Bu temada öğrencilerin bütün, yarım ve çeyreği ifade ettikten sonra bütün, yarım ve çeyrek parçaları arasındaki ilişkiyi belirleyebilmesi; paraları değerine göre ilişkilendirerek çözümleyebilmesi; zaman ölçü birimlerini okuyabilmesi ve yazabilmesi; standart uzunluk ve kütle ölçme araçlarını tanıyabilmeleri; nesneleri standart ölçme araçlarıyla ölçerek ölçüm sonuçlarını tahminleri ile karşılaştırabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.2.1.7",
+      "title": "Bütün, yarım ve çeyrek arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Bir bütünün yarım ve çeyrek parçalarını belirler.",
+        "b) Bütün, yarım ve çeyrek arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.2.1.8",
+      "title": "Paraları değerlerine göre ilişkilendirerek çözümleyebilme",
+      "processComponents": [
+        "a) Paraları değerlerine göre inceleyerek madenî paraları belirler.",
+        "b) Kuruş ve Türk lirası arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.2.1.9",
+      "title": "Zaman ölçü birimlerini okuyabilme ve yazabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MAT.2.1.10",
+      "title": "Standart uzunluk ve kütle ölçme araçlarının ve birimlerinin gerekliliğini yansıtabilme",
+      "processComponents": [
+        "a) Standart olmayan araçlarla ilgili deneyimlerinden yola çıkarak standart ölçme araçlarına olan ihtiyacı gözden geçirir.",
+        "b) Deneyimlerine dayalı olarak standart ölçme araçlarının gerekliliğine ilişkin çıkarımda bulunur.",
+        "c) Standart ölçme araçlarına ilişkin ulaştığı çıkarımlar doğrultusunda standart ölçü birimlerinin gerekliliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.2.1.11",
+      "title": "Standart uzunluk ve kütle ölçü birimleri cinsinden uzunlukları ve kütleleri tahmin edebilme",
+      "processComponents": [
+        "a) Standart ölçü birimlerine ilişkin deneyimini, tahmine konu olan uzunluk ve kütle ile ilişkilendirir.",
+        "b) Nesnelerin uzunluğunu ve kütlesini standart ölçü birim cinsinden tahmin eder.",
+        "c) Tahminini ölçüm sonuçlarıyla karşılaştırarak tahminîne ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler, • Para, ekonomik ilişkilerde kullanılan bir değişim aracıdır., • Saatler, zamanı ölçmek için kullanılan araçlardır. •  Karşılaştırma ve hesaplama yaparken aynı birimler kullanılır., Anahtar kavramlar, • bütün, yarım, çeyrek, kuruş, saat, dakika, zaman, ölçüm, gün, hafta, ay, mevsim, yıl, kilogram, gram, metre, santimetre, Sembol ve Gösterimler, • kr., kg, g, m, cm, dk.",
+  "support": [
+    "Bütün, yarım ve çeyrek modellerini içeren boyama ve eşleştirme içerikli etkinlikler yapmaları sağlanır.",
+    "Tek bir para verilip bu parayla kantinden alabileceği ve alamayacağı ürünleri sayması istenir. Öğrencilerden cevaplar geldikçe farklı bir para verilip benzer çalışmalar devam ettirilir. Paranın günlük yaşam ile ilişkisi bağlamında dijital içeriklerle süreç desteklenir. Ayrıca süreçte öğrencilerin çalışma sayfaları üzerinde gruplar hâlinde çalışmasına olanak sağlanır.",
+    "Öğrencilerden saat modeli yapmaları istenir. Model yapma sürecinde zorluk yaşayan öğrencilerin saat resmi yapmaları, görsel ve işitsel videolar ile planlı yaşamanın önemi ve saatlerin günlük yaşamdaki kullanımına ilişkin örnekler verilir.",
+    "Dijital saat, analog saat, dakika, gün, hafta, ay, dört mevsim ve yıl kavramlarına ilişkin görsel ve dijital araç gereçler kullanılarak öğrenme-öğretme uygulamaları desteklenir.",
+    "Grup çalışmaları ile sınıftaki nesnelerin ölçümü yapılarak akran öğrenmesi ile süreçte öğrenme eksikleri olan öğrencilerin öğrenmeleri desteklenir."
+  ],
+  "enrichment": [
+    "Farklı nesneleri kullanarak bütünden yarım ve çeyreğe ulaşmaları sağlanır. Noktalı kâğıt üzerinde farklı geometrik şekillerin sunulduğu ya da kendi çizdiği şekillerde yarım ve çeyreği elde edebileceği eş parçaya bölme etkinlikleri yapılır.",
+    "\"Hangisi daha değerli, iki liralık bir madenî para mı, yoksa 17 tane 10 kuruş mu? İki liraya eşit olması için kaç tane 10 kuruşa ihtiyacınız var? Hangisi daha değerli, 3 adet bir TL'lik madenî para mı, yoksa 9 adet on kuruşluk madenî para mı?\" türünden sorular sorulur. Sonrasında kâğıt paraların olduğu görseller dağıtılıp aynı etkinlikler bu paralarla yapılır. Öğrencilere paralar ile ilgili dört işlem problemleri verilip çözmeleri istenir, ardından öğrencilerden problem kurmaları istenir.",
+    "\"Para icat edilmeden önce insanlar ne yapıyordu? Değerine göre en büyük paramız nedir? Japonya ve Hindistan'ın para birimi nedir?\" gibi sorular sorularak öğrencilerin araştırma yapmaları sağlanır. Öğrencilerin birlikte çalışma, bütünsel olarak iletişim ve takım becerilerini ölçmek amacıyla yapılan grup çalışması, grup değerlendirme formu ile değerlendirilebilir.",
+    "Zamanı 15 dakikalık (çeyrek saat) artışlarla gösteren saatler çizmeleri istenir. Saat dilimlerini birbirleriyle ilişkilendirmeleri istenir. Dijital bir araç kullanarak bir içerik tasarımı yapabilmeleri için dijital ortamdaki görsellerden yararlanmaları istenir.",
+    "Öğrencilerden kendi özgün tasarımları olacak şekilde takvim hazırlamaları istenir. Öğrencinin değerlendirme sürecinde aktif yer alması için öz değerlendirmeyi içeren, öğretmenin ve öğrencinin imzaladığı \"öğrenim anlaşması\" yapılır. Yapılan takvim çalışmalarının fotoğrafları çekilerek öğrenciler tarafından EBA'da sınıf arkadaşları ile paylaşması görevi verilir.",
+    "Öğrencilerin alışık oldukları birim modellerini kullanarak basit ölçme araçları yapmaları, bu araçların nasıl ölçtüğünü anlamaları sağlanır. Örneğin öğrencilerin sırasıyla cetvel ve terazi gibi ölçüm yapabilecekleri özgün fiziksel modelleri hazırlamaları, üzerindeki birimleri tanımaları, her birim arasındaki boşlukları fark etmeleri ve uzunluk birimleri ile ilişkilendirmeleri sağlanır.",
+    "Öğrenme süreci dijital ortamda ya da sınıf ortamında oyunlaştırılarak dijital ortamda uzunluk ve kütle ölçmeye ilişkin karşılaştırma, sınıflandırma, değerlendirme çalışmaları yapılır."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; kontrol listesi, eşleştirme soruları, gözlem formu, performans görevi, bütüncül dereceli puanlama anahtarı, açık uçlu sorular, doğru-yanlış soruları kullanılarak değerlendirilebilir. Öğrencinin finansal okuryazarlığını ve sorumluluk becerilerini değerlendirmeye yönelik performans görevi kullanılabilir. Bu görevlerin değerlendirilmesi için bütüncül dereceli puanlama anahtarı kullanılabilir. Öğrencilere zamanı farklı birimlerle ölçen zaman ölçme araçlarının yeniden tasarlanması ile ilgili performans görevi verilebilir. Bu süreç bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin günlük yaşamda standart uzunluk ölçme araçlarını kullanabilmek ve bu uzunlukları karşılaştırabilmek için performans görevi kullanılır. Bu göreve ait öğrenci ürünleri bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.2.1.7 Günlük yaşamdan bütün ile ilgili görseller verildikten sonra olanaklar çerçevesinde dijital gereçlerle örnekler gösterilir ve çevrim içi araçlar kullanılarak etkileşimli bir şekilde öğrencilerin sürece katılmaları sağlanır ( OB2 ) . Daha sonra uygun nesneler iki eş parçaya bölünür, her bir parçanın yarım olduğu belirtilir. Yarım ve bütün arasındaki ilişki vurgulanır. Burada eşitlik vurgusu parça-bütün ilişkisi ile açıklanır. Öğrencilere farklı şekillerde iki eşit parçaya ve rastgele ikiye bölünmüş nesne veya şekillerin çeşitli gösterimleri verilerek doğru karşılığı olan parçaların bulunması istenir. Elde edilen iki parçanın boyutlarının farklılıklarına ilişkin görüşler sınıf içi tartışmalarla değerlendirilir ( SDB2.1 ) . Bütün ve yarım kavramları verildikten sonra nesne, şekil ya da uzunluklar dört eş parçaya bölünür, çeyrek belirtilir. Bütün, yarım ve çeyrek arasındaki ilişki (kesir gösterimine girilmeden) açıklanır. Bu şekilde parça-bütün arasındaki ilişkiyi belirlemede kullanılan eşit parçalara bölünmüş nesne, şekil ve uzunluklar aynı zamanda birer matematiksel temsil olduğundan bu temsillerin bağlamlarındaki anlamlarıyla tanınması sağlanır ( MAB3.1 ) . Bir bütünün iki eş parçaya bölündüğünde yarım, yarım iki eş parçaya bölündüğünde çeyrek ile ifade edildiği etkinliklerle fark edilmesi sağlanır. Bütün, yarım ve çeyrek kavramlarını oyunla kavrayabilmeleri için bir oyun etkinliği yapılır ( E2.5 ) . Bu sayede ders kapsamında öğrencilerin oyun hamuru gibi parçalara ayırmakta zorlanmayacakları gereçlerle bütünler oluşturmaları, sıra arkadaşlarıyla birlikte bunları istenilen şekilde parçalara ayırmaları sağlanır ( E3.3 ) . Bu süreçte öğrencilerin parça-bütün ile ilgili çalışmalara aktif katılımı sağlanarak görev bilinci kazanmaları sağlanır ( D16.3 ) . Öğrencilerin öğrenme süreçleri kontrol listesi ile değerlendirilebilir.",
+    "Öğrencileri bütün, yarım ve çeyrek arasındaki ilişki üzerinde düşünmeye teşvik etmek için dijital ortamda bütünün iki eş ve dört eş parçaya bölünebildiği etkinlikler yapılır. Bu şekilde öğrencilerin dijital araçlarla iletişime girerek parça bütün arasındaki ilişkiye yönelik çözümleme yapması beklenir ( OB2 ) . Öğrencilerin parça-bütün arasındaki ilişkiyi belirleme durumları, eşleştirme soruları ile değerlendirilebilir.",
+    "MAT2.1.8. Öğrencilere paraların benzer veya farklı özelliklerinin fark edilmesi için sorular yöneltilir. Öğrencilerin paraları karşılaştırmalarına yönelik birbirlerine soru sormaları için bir etkinlik düzenlenir ( E3.8 , SDB2.1 ) . Bu etkinlik ile hem kâğıt paralar hem de kâğıt para ile madenî paraların birbirlerinden farkı hissettirilmeye çalışılır. Paralarımızın üzerinde yer alan kurucu liderimiz ve ülkemizin tarihinde önemli izler bırakan değerli şahsiyetlerin öğrenciler tarafından araştırılması istenir. Araştırma sonucunda ülkemiz tarihine sağladıkları katkılar sınıfta sunularak fikir alışverişi yapmaları sağlanır ( D3.3 , D19.2 ) .",
+    "Öğrencilerin günlük yaşamda karşılaşılan durumları deneyimlemeleri için alışveriş istasyonu oluşturulur ve buradaki ürünlerin kuruşlu fiyatları ile birlikte gösterilip kendilerine temsilen verilen kâğıt ve madenî paralarla alınabilecek ürünleri sıralamaları istenir ( SDB2.2 , OB3 ) . Sonrasında öğrenciye ihtiyaç duyulan (yiyecek malzemesi, kitap, kırtasiye malzemesi, giysiler vb.) ve ihtiyaç duyulmayan (sağlığa zararlı yiyecekler, oyuncak araba gibi) ürünlerin fiyatı belirtilerek bu ürünleri alabilmek için ihtiyacı olduğu kadar parayı seçip almasını ve elinde olan parayla kendi ihtiyaçlarını gidereceği ürünleri seçmesi sağlanır ( SDB3.3 , D17.1 ) . Kendilerine verilen temsilî paralarla ürün alabildiklerini gören öğrencilerle günlük yaşamlarında ihtiyaç duyulan ürünleri almanın önemi üzerinde tartışılır ve tasarruflu olma konusunda öğrencilere açık uçlu sorular sorulabilir ( D17.2 ) .",
+    "Öğrencilere iki tane 25 kuruşun 50 kuruşa, dört tane 25 kuruş veya iki tane 50 kuruşun 1 TL'ye eşit olduğunun keşfedilmesi sağlanarak kesirlerdeki bütün, yarım ve çeyrek ile ilişkilendirmeye vurgu yapılır. Madenî paralarla (1 TL, 50 kuruş ve 25 kuruş) doldurulan bir kutudan veya kumbaradan rastgele birkaç adet para almaları ve bunların toplam değerini söylemeleri istenir ( KB2.14 ) . Öğrencinin istek ve ihtiyaçlarına yönelik alabileceği ürünlerin değeri kadar parayı seçip alması sağlanır. Öğrencinin mevcut parası karşılığında hangi ürünlerin alınabileceğine yönelik performans görevi verilebilir ve verilen performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Paraların birbirine dönüşümü işleminin günlük yaşamda nerelerde yapıldığı sorularak dönütler alınır. Öğrenme süreci sonunda paralar değerlerine göre karşılaştırılır ve öğrencilerin paraları sıralaması istenerek gözlem formu ile değerlendirilebilir.",
+    "MAT.2.1.9 Günlük rutinlerin den bahsedilerek zaman hakkında merak ettiklerini sormaları konusunda teşvik edilerek zamanı ölçmenin gerekliliğine ihtiyaç hissedilmesi sağlanır ( E1.1 , E3.8 ) . Ayrıca saat ve dakika cinsinden anlatılan olayları da duymaları için sorular sorulur. Örnekler vermeleri sağlanır (örneğin okul saat 9'da başlıyor, öğle yemeğini saat 12'de yiyorsun ve oynamak için 30 dakikan var vb.). Zaman kavramı hakkında çalışılırken planlı olmak konusunda öğrencilerle etkinlikler yapılır ( D3.2 ) . Örneğin bir günün planlanması gibi (sabah, öğleden önce, öğle, öğleden sonra, akşam) 24 saatlik zaman diliminin planlanması ile ilgili etkinlikler yapılır. Yapılan bu etkinliklerde öğrencilerin saat kavramını kullanmaları sağlanır.",
+    "\"Saat\" kavramına ulaşıldığında bir saatlik zaman dilimi hakkında konuşulup daha kısa zaman dilimlerinden söz edilip daha önce öğrenmiş oldukları \"tam-yarım-çeyrek\" durumlarına dikkat çekilir. Soru cevaplarla aralarındaki \"parça-bütün\" ilişkisini dilimlere ayırma aşamalarında yardımcı olarak bulmaları istenir ( E3.6 ) . Öğrencilerden, süreleri çok farklı olan iki olaydan hangisinin daha uzun sürdüğünü karşılaştırmaları istenir.",
+    "Zamanı ölçebilmek için kullanılan standart olmayan ve standart araçlar olduğu söylenip bu araçlar hakkında konuşulur. Zamanı ölçme için standart olmayan araçlardan su saati, kum saati, güneş saati gibi standart olmayan araçlar ile etkinlikler yapılır.",
+    "Öğrenciler olayların süresine, dakika ve saate karşı bir farkındalık oluştuktan sonra zaman ölçmek için kullanılan ortak aracın saat olduğuna ulaşılır. Öğrenciler zaman ile ilgili alıştırmalara öncelikle çalışma kâğıdında bulunan saatlerdeki akrep ve yelkovanı okuyarak başlamaları sağlanır. Ayrıca bu süreçte saat tasarlama çalışmaları yapılır ve elde edilen saatleri boyama etkinliği sonrasında ortaya çıkan ürün yorumlanır ( OB4 , SDB1.2 ) . Akrep ve yelkovanın hangi yönde hareket ettiği ve yelkovanın tam 12 üzerine geldiğinde ne olduğu soruları öğrencilere sorularak tartışma ortamı oluşturulur ( SDB2.2 ) . Sınıfta hazırlanan saat modelinde akrep ve yelkovanın konumları değiştirilerek öğrencilerden oluşturduğu saatleri okumaları istenir ( MAB3.1 , MAB5.1 ) . Öğrenciler tam, yarım ve çeyrek saatleri okurken gözlem formu kullanılabilir. Sonrasında yarım saatte veya bir saatte neler yapabilecekleri sorularak günlük yaşamla ilişkilendirmeleri sağlanır. Farklı saatleri gösteren resim kartları verilerek bu saatleri tam saat, yarım saat ve çeyrek saat olarak sınıflandırmaları ve kaydetmeleri istenir. Öğrencilerin konuyu kavrayıp kavrayamadığı eşleştirme sorularından yararlanılarak tespit edilebilir.",
+    "Öğrenciler dijital formatta zamanı okur ve yazar. Olanaklar dâhilinde öğretmen analog ve dijital saatleri gösterebileceği dijital bir araç (genel ağda bulunabilecek flash uygulamaları vb.) belirler. Sonrasında sınıf içerisinde öğrencilerin yönlendirmesi ile saat oluşturulup okunur. Burada dijital bilgiye ulaşma konusunda ve dijital bilginin nasıl oluştuğuna yönelik farkındalıkları gelişmesi sağlanır ( OB2 , SDB3.1 ) .",
+    "Daha uzun sürelere karşılık gelen gün, hafta, ay ve yıl kavramlarının kazandırılması için takvimden yararlanılır. Takvim üzerinden gün ve ay olarak belirtilen zaman ifadelerine karşılık gelecek durumları göstermelerine ilişkin eşleştirme sorularından yararlanılabilir. Dakika-saat, saat-gün, gün-hafta, gün-hafta-ay, ay-mevsim, mevsim-yıl ilişkileri ile sınırlı kalınarak zaman ölçme birimlerini açıklaması için etkinlikler yapılır. Takvimdeki özel günler ve tatil günlerini vurgulayarak hafta içi ve hafta sonu kavramı öğrencilerde oluşturulur. Böylece takvimde kullanılan renk ve sembollerin ne anlama geldiğini fark etmeleri sağlanır. Yapılan takvim çalışmalarının fotoğrafları çekilerek öğrenciler tarafından EBA'da sınıf arkadaşları ile paylaşmasına yönelik takvim, analog saat gibi zaman ölçme araçlarının yeniden tasarlanması ile ilgili performans görevi verilebilir. Bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Böylece dijital iletişim araçlarını tanıyıp dijital araçlarla etkileşimi gözlemleme becerileri geliştirilir ( OB2 ) . Öğretmen süreci gözlemler ve bu süreci bir gözlem formuna aktarabilir, gözlem formunu bütüncül dereceli puanlama anahtarı ile değerlendirebilir.",
+    "MAT.2.1.10 Hassas ölçüm gerektiren mesleklerde farklı standart olmayan araçlar ve birimler kullanılırsa ne olabileceğine yönelik sorular yöneltilir. Sınıf içinde aynı nesneleri standart olmayan ölçme araçlarını kullanarak ölçmeleri ve farklı sonuçlara ulaşılması üzerine, standart bir birime olan ihtiyaç üzerine öğrencilerin tartışma yapmaları sağlanır ( SDB2.2 ) . Öğrencilere sınıf içerisinde standart ölçme araçları ile ölçüm yapılmasının gerekli olduğuna dair farklı örnekler vermeleri sağlanır. Verilen örneklerden yola çıkarak standart ölçme araçlarına olan ihtiyaç ve standart ölçme araçlarının neler olabileceği ile ilgili merak uyandırılır ( E1.1 , OB1 , KB2.10 ) . Öğrencilere, standart olmayan farklı ölçü birimleri ile eşit olmayan sonuçlar verecek şekilde uzunluk ve kütle ölçümleri yapabilecekleri ortamlar sunulur. Öğrenci, ölçüm sonuçlarının aynı olmadığını fark edinceye kadar sorularla yönlendirme yapılıp standart ölçmeye ihtiyaç olduğu ve standart ölçme araçlarının neler olabileceği ile ilgili merak uyandırılır ( E1.1 , OB1 , KB2.10 ) . Bu araçlar ile ilgili sorular oluşturmaları ve sorular üzerinde tartışmaları sağlanır ( E3.8 , SDB2.2 ) . Alışverişlerde standart olmayan araçlarla yapılan ölçümlerin sonucunda eşit olmayan ölçümlerin yapılmasının hak kaybına neden olması ve adaletsiz bir duruma yol açması üzerine tartışma yapılır ( D1.1 ) .",
+    "Öğrencilerin günlük yaşamda gördükleri uzunluk ölçümü yapılan durumları arkadaşların dan farklı şekillerde kendi cümleleriyle anlatmaları istenir ( KB2.14 ) . Görüşleri alındıktan sonra birinci sınıftan gelen ön bilgileri de harekete geçirilerek bunlarla ölçüm yapıldığı sonucuna ulaşmaları sağlanır. Öğrencilerin, standart ölçme araçlarıyla ölçüm yapıldığında yapılan ölçüm sonuçlarının aynı olduğunu fark etmeleri sağlanır. Böylece aynı nesne farklı kişiler tarafından standart ölçme aracıyla ölçüldüğünde ölçüm sonuçlarının değişmediği vurgulanır.",
+    "Uzunluk ölçmede kullanılan araçlar ve birimler (metre, santimetre) isimleriyle öğrencilere tanıtılır. Bu ölçü birimlerinin kullanıldığı yerlere örnekler verilmesi istenir. Bir metreyi karşılaştırma, tahmin etme ve inşa etme etkinlikleri ile öğrencilerin bu birimi tanımaları sağlanır. Öğrencilerin verdikleri cevaplar doğru-yanlış soruları ile değerlendirilebilir.",
+    "Öğrencilere standart uzunluk ölçme araçlarını kullanarak günlük yaşamda sıklıkla karşılaştıkları nesneleri ölçmelerinin ve bu ölçümleri karşılaştırmalarının yapıldığı performans görevi verilebilir ( SDB1.2 ) . Öğrenciler performans görevini yaparken hangi birimi kullandıklarının farkında olmaları ve cetveli nesne ile düzgün bir şekilde hizalamaları beklenir. Yapılan bu performans görevi bütüncül dereceli puanlama anahtarları ile değerlendirilebilir.",
+    "Kütle ölçmede kullanılan araçlar ve birimler (kilogram, gram) isimleriyle öğrencilere tanıtılır. Standart birim olarak gramı kullanan öğrencilere, bir grama eşit nesnelerin veya bunun bir kısmının ağırlığını hissetme deneyimi yaşatılır. Ancak kütlesi daha ağır nesnelerin ölçülmesi için kilogram gibi standart kütle birimlerine ihtiyaç olduğunu fark etmeleri sağlanır. Öğrenciler standart birim ve araçları ile ölçüm yaparken her zaman aynı ölçüm sonuçlarına ulaşıldığına yönelik yargıda bulunur ( MAB5.1 , KB2.17 , E3.4 ) . Öğrencilerin süreçteki öğrenme kanıtları doğru-yanlış ve eşleştirme soruları ile belirlenebilir.",
+    "MAT.2.1.11 Günlük yaşamda karşılaştığı standart ölçü birimleri ile ifade edilen gözlemlediği nesnelerden yola çıkarak diğer nesnelerin uzunlukları ve kütleleri ile ilgili tahminlerde bulunmaları istenir. Öğrencilere ölçmeyi yaptırmadan önce her zaman ölçüm sonucu tahmin ettirilmelidir. Hem uzunluk hem de kütle ölçmede uzunlukları metre/santimetre birimleri türünden, kütleyi de kilogram/gram türünden tahmin etmesi ve tahminini ölçme sonucuyla karşılaştırarak kontrol etmesine yönelik etkinlikler tasarlanır. Bunun için nesnelerin uzunluk ve kütlelerine yönelik yapılan tahmin sonuçları not edildikten sonra standart ölçüm araçları ile ölçümleri yapılır ve tahmin ile gerçek sonuca ilişkin yargıda bulunmaları istenir ( OB7 ) . Öğrencilerin performansları tahmin sonuçlarının gerçek ölçüm sonucuna ne kadar yaklaştıkları yönünden değerlendirilir. Bunun yanında eşleştirme soruları aracılığıyla öğrencilerin uzunluk tahminlerini ve elde ettikleri sonuçları birbirleriyle karşılaştırmaları sağlanarak değerlendirme yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.1",
+      "D16.3",
+      "D17.1",
+      "D17.2",
+      "D19.2",
+      "D3.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.3",
+      "E3.4",
+      "E3.6",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.14",
+      "KB2.17"
+    ],
+    "alan": [
+      "MAB3.1",
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/125"
+}

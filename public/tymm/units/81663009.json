@@ -1,0 +1,93 @@
+{
+  "unitId": 81663009,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "9. ÜNİTE: MOBİL UYGULAMA GELİŞTİRME - 1. ÜNİTE: MOBİL PROGRAMLAMA OKURYAZARLIĞI",
+  "hours": "18",
+  "description": "Bu ünitede; sırasıyla mobil cihaz ve uygulamaların tarihsel gelişimi, mobil teknolojilerin ve mobil uygulamaların günümüzdeki önemi, mobil uygulamaların kullanım alanları ve ülkemizde en çok kullanılan mobil uygulamalar üzerinde durulur. Mobil donanım bileşenleri ile mobil cihazlarda yer alan sensörlerin çalışma mantığı anlatılır. Mobil işletim sistemlerine değinildikten sonra mobil işletim sistemlerinin benzer ve farklı yönleri tartışılır. Uygulama geliştirirken kullanılan farklı tasarım yapılarına değinilir.",
+  "outcomes": [
+    {
+      "code": "BTY.9.1",
+      "title": "Mobil cihaz ve uygulamaların tarihsel gelişimini kavrar",
+      "processComponents": [
+        "Mobil cihaz ve uygulamaların tarihsel gelişiminde yer alan önemli adımlar listelenir.",
+        "Mobil cihaz ve uygulamaların tarihsel gelişiminde yer alan önemli adımlar örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.9.2",
+      "title": "Mobil uygulamaların ve mobil teknolojilerin günümüzdeki önemini kavrar",
+      "processComponents": [
+        "Mobil uygulamaların ve mobil teknolojilerin günümüzdeki önemi nedenleriyle anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.9.3",
+      "title": "Mobil Uygulamaların kullanım alanlarını sıralar",
+      "processComponents": [
+        "Mobil uygulamaların; bankacılık, alışveriş, içerik paylaşımı, okuma-yazma, harita, ulaşım, sağlık ve eğitim gibi birçok alanda kullanımı örneklerle anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.9.4",
+      "title": "Ülkemizde en çok kullanılan ve topluma yararlı olan yerli mobil uygulamaları tanır",
+      "processComponents": [
+        "Ülkemizde en çok kullanılan ve topluma yararlı yerli mobil uygulamalar üzerinde durulur.",
+        "Yerli mobil uygulamalar ile toplumun özel gereksinimlerine çözümler bulunması üzerinde durulur.",
+        "Ülkemize ait E-devlet hizmetleri, mobil bankacılık uygulamaları, sağlık takip uygulamaları, mesajlaşma uygulamaları ve e-ticaret platformları gibi uygulamalar ile ülkemizin dijital dönüşümünün desteklendiği vurgulanır.",
+        "Ülkemizde en çok kullanılan ve topluma yararlı yerli mobil uygulamaların tercih nedenleri açıklanır.",
+        "Yerli mobil uygulamaların ülkemizin sürdürülebilir bir kalkınma sağlaması açısından önemli olduğu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BTY.9.5",
+      "title": "Mobil donanım bileşenlerinin çalışma mantığını açıklar",
+      "processComponents": [
+        "Mobil donanım bileşenleri; temel donanım bileşenleri, çoklu ortam bileşenleri olmak üzere iki gruba ayrılarak bileşenler tanıtılır.",
+        "Temel donanım bileşenlerinden anakart, RAM ve işlemcinin görevleri ve çalışma mantığı anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.9.6",
+      "title": "Mobil cihazlarda yer alan sensörlerin çalışma mantığını kavrar",
+      "processComponents": [
+        "Jiroskop, manyetik ölçer, yakınlık, ışık, basınç, parmak izi ve hareket sensörlerine değinilir.",
+        "Mobil cihazdaki sensörlerin sökülüp takılması gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.9.7",
+      "title": "Mobil işletim sistemlerini sıralar",
+      "processComponents": [
+        "Mobil cihazlarda kullanılan işletim sistemleri örneklerle açıklanır.",
+        "Mobil işletim sistemlerinden en çok kullanılan işletim sistemlerinin özellikleri üzerinde durulur.",
+        "Mobil işletim sistemlerinden en çok kullanılan işletim sistemlerinin maliyet, güvenlik, hız ve kişiselleştirilebilirlik bakımından karşılaştırması yapılır."
+      ]
+    },
+    {
+      "code": "BTY.9.8",
+      "title": "Mobil uygulama geliştirme tasarım yapılarını açıklar",
+      "processComponents": [
+        "Mobil uygulama geliştirme tasarım yapıları; Yerel (Native) mobil platform, Duyarlı (Responsive) mobil platform, Melez (Hibrit) mobil platform ve Karma (Cross) mobil platform olarak dört gruba ayrılarak tanımlanır.",
+        "Yerel (Native) mobil platform, Duyarlı (Responsive) mobil platform, Melez(Hibrit) mobil platform ve Karma (Cross) mobil platformların avantaj ve dezavantajlarından bahsedilir.",
+        "Karma mobil platformun diğer platformlara göre üstün olma nedenleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BTY.9.9",
+      "title": "Mobil uygulama geliştirme araçlarını kavrar",
+      "processComponents": [
+        "Karma mobil platform uygulama araçlarından açık kaynaklı kütüphanelerin özellikleri üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

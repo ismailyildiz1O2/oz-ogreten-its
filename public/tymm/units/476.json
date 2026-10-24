@@ -1,0 +1,90 @@
+{
+  "unitId": 476,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi (Maarif Modeli)",
+  "title": "5.TEMA: DÖNÜŞÜM",
+  "hours": "9",
+  "description": "Bu temada öğrencilerin matematik araç ve teknolojileri yardımıyla öteleme dönüşümünü çözümleyebilmeleri, bir şekle ait noktaların apsis ve ordinatlarının yansıma ve öteleme dönüşümündeki değişimlerine yönelik çıkarım yapabilmeleri ve çıkarımlarını problem durumlarına yansıtabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.8.5.1",
+      "title": "Matematiksel araç ve teknoloji yardımıyla öteleme dönüşümünü çözümleyebilme",
+      "processComponents": [
+        "a) Matematiksel araç ve teknoloji yardımıyla düzlemde geometrik şekillerin öteleme dönüşümü altındaki görüntülerinin kenar ve açı özelliklerini belirler.",
+        "b) Geometrik şekiller ile öteleme dönüşümü altındaki görüntüleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.8.5.2",
+      "title": "Dik koordinat sisteminde geometrik şekillere ait noktaların apsis ve ordinatlarının öteleme dönüşümündeki değişimlerine ve eksenlere göre yansıma dönüşümündeki değişimlerine ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) Geometrik şekillere ait noktaların apsis ve ordinatlarının öteleme dönüşümündeki değişimlerine ve eksenlere göre yansıma dönüşümündeki değişimlerine dair varsayımlarda bulunur.",
+        "b) Geometrik şekillerin öteleme dönüşümü altındaki görüntülerini ve koordinat eksenlerine göre yansıma dönüşümü altındaki görüntülerini oluşturur.",
+        "c) Oluşturduğu görüntülere ait noktaların apsis ve ordinatlarını varsayımları ile karşılaştırır.",
+        "ç) Geometrik şekillere ait noktaların apsis ve ordinatlarının öteleme dönüşümündeki değişimlerine ve koordinat eksenlerine göre yansıma dönüşümündeki değişimlerine dair önermeler sunar.",
+        "d) Sundukları önermelerinin dik koordinat sisteminde konumları verilen iki geometrik şekil arasında öteleme veya eksenlere göre yansıma dönüşümüne dayalı bir ilişkinin bulunup bulunmadığını incelemeye sağladığı katkıyı değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.8.5.3",
+      "title": "Öteleme ve yansıma dönüşümlerini içeren problemleri çözebilme",
+      "processComponents": [
+        "a) Öteleme ve yansıma dönüşümlerine ilişkin problemlerde ilgili matematiksel bileşenleri (eşlik, uzaklık, diklik, paralellik, koordinatlar gibi ) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkileri belirler.",
+        "c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Öteleme ve yansıma dönüşümlerini içeren problemlerin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Bir geometrik şekil, öteleme dönüşümü altındaki görüntüsü ile eştir. • Yansıma dönüşümünde bir noktanın görüntüsünün apsis ve ordinatı simetri doğrusuna göre belirlenir. • Öteleme dönüşümünde bir noktanın görüntüsünün apsis ve ordinatı dönüşümde verilen uzaklık ve yöne göre belirlenir., Anahtar Kavramlar öteleme dönüşümü, Sembol ve Gösterimler -",
+  "support": [
+    "Öğrencilere, geometrik şekillerin öteleme dönüşümü altındaki görüntülerini oluştururken şekilleri asetat ve poşet dosya gibi şeffaf materyaller üzerine kopyalamaları ve görüntü ile materyaldeki görseli eşleştirmeleri sağlanabilir. Kareli veya noktalı kâğıtta birden fazla paralel katlama (paralel kat izleri meydana getiren katlamalar) yardımıyla şekillerin öteleme dönüşümü altındaki görüntülerini oluşturmaları sağlanabilir. Kareli veya noktalı kağıttaki katlamalar ile birbirine dik olacak biçimde meydana getirilen kat izleri eksen kabul edilerek yansıma dönüşümünde noktaların koordinatlarının değişimi ile ilgili çalışmalara yer verilebilir. Yansıma ve öteleme dönüşümlerine yönelik problemleri içeren çalışma kâğıdında öğrencinin öğrenme hızına uygun ve dönüşümlerin görselleştirildiği uyarlamalar yapılabilir"
+  ],
+  "enrichment": [
+    "Öğrencilerin yansıma ve öteleme dönüşümü ile ilişkili doğadan ve sanattan seçilen görselleri matematik yazılımındaki dik koordinat sisteminde incelemeleri sağlanabilir. Yapılan incelemelerden hareketle öğrencilerin matematik yazılımında öteleme ve yansıma dönüşümlerinden biri veya ikisini de içeren özgün görseller ve süslemeler oluşturmaları istenebilir. Yansıma ve öteleme dönüşümü ile ilgili kodlama çalışmaları gerçekleştirilebilir. Kâğıt-kalem ile kodlama çalışmaları gerçekleştirilebileceği gibi öğrencilerin dijital ortamda tasarlayıp geliştirebileceği kodlama programları da kullanılabilir. Öteleme ve yansıma dönüşümlerine ilişkin problem kurmaları ve kurdukları problemleri çözmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, izleme testi, grup değerlendirme formu, performans görevi, öz ve akran değerlendirme, bütüncül dereceli puanlama anahtarı, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilere Escher(Eşer)'in eserleri sunularak eserin içerdiği dönüşümleri inceledikleri, kendi orjinal ve estetik tasarımlarını bir desen üzerinden geliştirerek süslemeler yaptıkları bir performans görevi verilebilir. Performans görevinde, akran değerlendirme formu aracılığıyla birbirlerini, öz değerlendirme formu aracılığıyla da kendilerini değerlendirmeleri sağlanabilir. Ayrıca öğrencilerin tasarımları, eserdeki dönüşümleri belirlemeye, Escher (Eşer) tipi bir süsleme oluşturmaya ve yaratıcılığa dayalı kriterleri içeren bütüncül veya analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Dik koordinat sistemine yerleştirilen Türkiye haritası üzerindeki belirli noktaların birleştirilmesiyle meydana gelen çokgenlerin belirli yön ve uzaklığa bağlı öteleme dönüşümü altındaki görüntülerinin oluşturulmasına yönelik performans görevi verilebilir. Bu süreçte Türkiye haritası görselinin matematik yazılımında x=26, x=45, y=36, y=42 doğrularının arasına yerleştirilmesi ve yazılım araçları ile çalışılması sağlanabilir. Öğrencilerin haritada oluşturdukları çokgenlerin iç bölgesinde kalan şehirlerin ve ilçelerin kültürel ve coğrafik özelliklerini açıklamaları istenebilir. Öğrencilerin çalışmalarını dijital sunumlar aracılığıyla sunmaları sağlanarak sunumlar uygun ölçme aracı (öz/akran/grup değerlendirme, kontrol listesi, gözlem formu, derecelendirme ölçeği, bütüncül ya da analitik dereceli puanlama anahtarı) kullanılarak değerlendirilebilir. Tema boyunca işlenen öğrenme çıktıları/süreç bileşenleri hakkında öğrencilerin eksik öğrenmelerini belirlemek ve gidermek amacıyla izleme testi uygulanabilir. Performans ürünleri, izleme testi ve çalışma kâğıdı sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT 8.5.1 Öğrencilerin çeşitli geometrik dönüşümleri içeren sanat eserlerinde inceledikleri ( OB9 ) geometrik şekillerin sahip olduğu ortak ve farklı özellikleri sorgulamalarına ve eserleri yorumlamalarına fırsat verilir. Böylece estetik değerinin kazanılması desteklenir ( D7.1 ) . Süreçte öğrencilerin duruşları aynı olan şekilleri fark etmeleri sağlanarak şekillerin elemanlarına ait uzunluk ve açı ölçülerini matematiksel araç ve teknoloji yardımıyla belirlemeleri istenir ( MAB5 ) . Ardından öteleme dönüşümüne yönelik şekiller arasındaki eşlik, eşit uzaklık ve yöne dayalı ilişkileri belirlemeleri için uygun öğrenme ortamı oluşturulur. İnceleme sonunda öteleme dönüşümü tanıtılarak şekillere ait noktalar ve görüntüleri arasında bir eşleme yapıldığı, öteleme dönüşümünün belirleyicilerinin aynı yön ve eşit uzaklık olduğu vurgulanır. Öğrencilerin grup çalışması ( SDB2.2 ) yapmaları sağlanarak verilen geometrik şekillerin (üçgen, dörtgen gibi) öteleme dönüşümü altındaki görüntülerini kareli veya noktalı kâğıt üzerinde çizmeleri ve birbirlerinin çizimlerini değerlendirmeleri istenebilir ( OB4 ) . Ayrıca öğrencilerin, çizim yaparken izledikleri yöntemleri tartışmaları istenir. Grup çalışmalarının değerlendirilmesinde grup değerlendirme formu kullanılabilir. Çizimlerin değerlendirilmesinde kağıt üzerinde asetat gibi somut materyallerden yararlanılabilir. Ayrıca öğrencilere matematik yazılımında öteleme dönüşümü içeren araçları kullanma fırsatı verilebilir ( OB2 ) . Öğrencilerin kareli veya noktalı kâğıt üzerinde verilen geometrik şekillerin istenen yön ve uzaklığa bağlı öteleme dönüşümü altındaki görüntülerini çizmeye, şekil ve görüntüsü verilen bir öteleme dönüşümünde yönün ve uzaklığın belirlenmesine dayalı soruları içeren bir çalışma kâğıdı kullanılabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir. Öğrenci çizimleri eşlik, eşit uzaklık ve yöne dayalı kriterleri barındıran bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.8.5.2 Öğrencilerin dik koordinat sistemi üzerinde verilen geometrik şekillerin belirli yön ve uzaklığa bağlı öteleme dönüşümü altındaki görüntülerinde ve koordinat eksenlerine göre yansıma dönüşümü altındaki görüntülerinde noktaların (şekle ait köşe noktaları gibi) apsis ve ordinatlarının nasıl değiştiğine yönelik varsayımlarda bulunmaları sağlanır. Bu süreçte doğru parçası, üçgen ve dörtgenler üzerinde çalışmaları sağlanır. Daha sonra dik koordinat sistemi üzerinde verilen şekillerin öteleme ve yansıma dönüşümü altındaki görüntülerini oluşturarak noktaların apsis ve ordinatlarındaki değişimi varsayımları ile karşılaştırmalarına fırsat verilir. Öğrencilerin cetvel ve simetri aynası gibi matematiksel araçlardan ve kâğıt katlama uygulamalarından yararlanmaları istenir. Süreçte matematik yazılımındaki öteleme ve yansıma dönüşümü araçlarının kullanımına da fırsat verilebilir ( MAB5 , OB2 ) . Ayrıca öğrencilerin tablo temsili aracılığıyla şekillere ait noktaların apsis ve ordinatlarının aşağı, yukarı, sağa ve sola öteleme dönüşümü altındaki değişimlerini, x ve y eksenine göre yansıma dönüşümü altındaki değişimlerini kaydetmeleri sağlanır ( MAB3 ) . Ardından öğrencilerin geometrik şekillere ait noktaların apsis ve ordinatlarının belirli yön ve uzaklığa bağlı öteleme dönüşümünde ve koordinat eksenlerine göre yansıma dönüşümünde nasıl değiştiğine yönelik önermeler sunmaları beklenir. Örneğin, öğrencilere \"Geometrik şekle ait noktaların apsisleri yukarı veya aşağı yönlü öteleme dönüşümünde değişmezken ordinatları yukarı yönlü öteleme dönüşümünde verilen uzaklık kadar artar ve aşağı yönde ise azalır.\" gibi önermeler sunmaları için fırsat verilir. Bunun devamında öğrencilerin iki geometrik şekle ait noktaların apsis ve ordinatları verildiğinde söz konusu şekiller arasında öteleme dönüşümüne veya eksenlere göre yansıma dönüşümüne dayalı ilişkilerin bulunup bulunmadığını değerlendirirken önermelerinden nasıl yararlanabileceklerini ifade etmeleri sağlanır. Dik koordinat sisteminde verilen geometrik şekillerin yansıma ve öteleme dönüşümü altındaki görüntülerini çizme ve ayrıca -çizim yapmadan- bir geometrik şeklin öteleme ve yansıma dönüşümü altındaki görüntülerine ait noktaların aps ve ordinatlarını açıklamaya yönelik çalışma kâğıdı hazırlanabilir. Ayrıca öğrencilerin uygulama yapabilecekleri bir performans görevi verilebilir. Örneğin, dik koordinat sistemine yerleştirilen Türkiye haritası üzerindeki belirli noktaların birleştirilmesiyle meydana gelen çokgenlerin belirli yön ve uzaklığa bağlı öteleme dönüşümü altındaki görüntülerinin öğrenciler tarafından oluşturulması sağlanır. Bu süreçte Türkiye haritası görselinin matematik yazılımında x=26, x=45, y=36, y=42 doğrularının arasına yerleştirilmesi ve yazılım araçları ile çalışılması sağlanabilir ( OB2 ) . Öğrencilerden haritada oluşturdukları çokgenlerin iç bölgesinde kalan şehirlerin ve ilçelerin kültürel ve coğrafik özelliklerini açıklamaları istenebilir. Böylece vatanseverlik değerinin kazanılması desteklenir ( D19.2 , OB5 ) . Öğrencilerin çalışmalarını dijital araçlar ile sunmaları sağlanarak, sunumları uygun ölçme aracı (öz/akran/grup değerlendirme, kontrol listesi, gözlem formu, derecelendirme ölçeği, bütüncül ya da analitik dereceli puanlama anahtarı) aracılığıyla değerlendirilebilir.",
+    "MAT.8.5.3 Yansıma ve öteleme dönüşümü ile ilgili çeşitli bağlamlardan (örneğin satranç, süslemeler, haritalar) seçilen problemlerden yararlanılır. Dönüşümlerle ilgili problemlerin çözümünde öğrencilerden öncelikle problemle ilgili matematiksel bileşenleri (eşlik, uzaklık, diklik, paralellik, koordinatlar gibi) belirlemeleri beklenir. Ardından öğrencilerin matematiksel bileşenler arasındaki ilişkileri belirleyip problem bağlamındaki temsillerini farklı temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları istenir ( E3.1 ) . Problemlere yönelik çözümlere geçmeden önce sonuca ilişkin tahminde bulunmaları, kullandıkları tahmin stratejilerini tartışmaları sağlanır. Daha sonra öğrencilerin öteleme ve yansıma dönüşümüne yönelik ilişkileri kullanmak için stratejiler geliştirmeleri ve geliştirdikleri stratejileri uygulamaları istenir. Öğrenciler stratejileri geliştirirken ve uygularken kareli kâğıt, noktalı kâğıt, geometri tahtası gibi somut manipülatifler ( MAB3 ) veya alternatif olarak matematik yazılımından ( MAB5 ) yararlanmaları için teşvik edilebilir ( SDB3.3 ) . Ayrıca öğrencilerin stratejiler geliştirirken farklı temsillerden ( MAB3 ) (bir noktanın dik koordinat sistemi üzerindeki yansıma ve öteleme dönüşümü altındaki görüntüsünün koordinatlarına ait tablo oluşturma gibi) yararlanmaları sağlanır. Stratejilerin geliştirilmesinde ve problemin çözümü için stratejilerin uygulanmasında öğrencilerin grup çalışması yapmaları sağlanabilir. Problem çözümlerinin ardından öğrenciler çözüm yollarını kontrol etmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( SDB3.1 ) . Süreçte öğrencilerin görev ve sorumluluklarını çalışkanlık değeriyle yerine getirmeleri ( D3.4 ) , kendi öğrenme süreçlerinin farkında olmaları ve arkadaşlarıyla dayanışma içinde ve dostça çalışmaları için uygun öğrenme ortamı oluşturulur. Böylece dostluk değerinin kazanılması desteklenir ( D4.4 ) . Öğrencilerin, stratejilerini ve buldukları yolları gözden geçirmeleri, kısa yollara ilişkin çıkarımlar ve değerlendirmeler yapmaları sağlanır. Problem bağlamları da göz önünde bulundurularak öğrencilerin çıkarımları üzerine değerlendirmeler yapmaları istenir. Öğrencilerden problemin çözümünde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapabilmeleri, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirebilmeleri beklenir. Kurdukları problemlerin bağlamlarına yönelik yansıtmalar yapılarak öğrencilerin çıkarımlarını değerlendirmeleri ve seçtikleri stratejilere karar verme süreçlerine ait davranışlarının sorumluluğunu kabul etmeleri sağlanır ( SDB3.3 ) . Yansıma ve öteleme dönüşümüne yönelik problem durumlarını içeren izleme testi hazırlanabilir. Değerlendirme sonuçlarına göre öğrencilere geri bildirim verilebilir. Escher (Eşer)'in eserlerini inceleyen ve eserin içerdiği dönüşümleri keşfeden öğrencilere, bir desen üzerinden kendi orijinal ve estetik tasarımlarını geliştirerek süslemeler yapmaları için performans görevi verilebilir. Bu çalışma, görsel sanatlar dersi ile ilişkilendirilerek öğrencilerin Escher (Eşer)'in eserlerindeki tarzı matematiksel ve estetik değeri bağlamında yorumlamaları sağlanabilir ( D7.1 , OB9 ) . Performans görevi grup çalışması ( SDB2.1 ) olarak öğrencilerin iş birliği içerisinde ( SDB2.2 ) tamamlayacakları biçimde tasarlanabilir. Performans görevinde, akran değerlendirme formu ile birbirlerini ( SDB2.2 ) , öz değerlendirme formu aracılığıyla da kendilerini ( SDB1.3 ) değerlendirmeleri sağlanabilir. Ayrıca öğrencilerin tasarımları eserdeki dönüşümleri belirlemeye, Escher (Eşer) tipi bir süsleme oluşturmaya ve yaratıcılığa dayalı kriterleri içeren bütüncül veya analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.2",
+      "D3.4",
+      "D4.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E3.1"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB5",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/476"
+}

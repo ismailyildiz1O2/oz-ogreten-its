@@ -1,0 +1,43 @@
+{
+  "unitId": 81404036,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "36. ÜNİTE: KAYAK SPORUNDA TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.9.4.1",
+      "title": "Kayak sporunda teknikleri açıklar",
+      "processComponents": [
+        "Duruş ve yürüme teknikleri üzerinde durulur.",
+        "Düşme ve kalkma teknikleri üzerinde durulur.",
+        "Tırmanma teknikleri üzerinde durulur.",
+        "Düz kayma teknikleri üzerinde durulur.",
+        "Kar sapanı teknikleri üzerinde durulur.",
+        "Yamaç kayma teknikleri üzerinde durulur.",
+        "Yan kayma teknikleri üzerinde durulur.",
+        "Dönüş teknikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.9.4.2",
+      "title": "Kayak sporunda teknikleri uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.9.4.3",
+      "title": "İzlediği veya katıldığı kayak müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

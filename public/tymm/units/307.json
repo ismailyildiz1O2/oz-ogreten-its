@@ -1,0 +1,108 @@
+{
+  "unitId": 307,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "4. TEMA: DEĞİŞİMİN MATEMATİĞİ (1)",
+  "hours": "28",
+  "description": "Bu temada öğrencilerin limit kavramını grafik üzerinden yorumlayabilmeleri, fonksiyonların belirli bir noktadaki veya sonsuzdaki limitine ilişkin muhakemeler yapabilmeleri, bir fonksiyonun belirli bir noktadaki limitinin belirsizlik durumunu ve limiti kullanarak fonksiyonların belirli bir noktadaki sürekliliğini yorumlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.4.1",
+      "title": "Fonksiyonların belirli bir nokta civarındaki veya sonsuzdaki davranışını limit kavramını kullanarak grafikler üzerinden yorumlayabilme",
+      "processComponents": [
+        "a) Bir fonksiyonun belirli bir nokta civarındaki veya sonsuzdaki davranışını grafiği üzerinden inceler.",
+        "b) Grafikten elde ettiği bilgileri tablo veya sözel temsiller yoluyla yaklaşma fikrine ulaşacak şekilde dönüştürür.",
+        "c) Bir fonksiyonun belirli bir nokta civarındaki veya sonsuzdaki limitini sözel olarak yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.12.4.2",
+      "title": "Cebirsel temsili verilen bir fonksiyonun belirli bir noktadaki veya sonsuzdaki limiti hakkında muhakeme yapabilme",
+      "processComponents": [
+        "a) Bir fonksiyonun tablo, grafik ve cebirsel temsili üzerinde belirli bir nokta civarında veya sonsuzda aldığı değerleri belirler.",
+        "b) Bir fonksiyonun belirli bir nokta civarında veya sonsuzda aldığı değerler arasındaki ilişkileri tablo, cebirsel ve grafik temsili üzerinde belirler.",
+        "c) Bir fonksiyonun belirli bir nokta civarında veya sonsuzda aldığı değerler arasındaki ilişkileri limit tanımını kullanarak dönüştürür.",
+        "ç) Bir fonksiyonun belirli bir noktadaki veya sonsuzdaki limitini matematiksel temsillerle yeniden ifade eder.",
+        "d) Farklı fonksiyonların ve bu fonksiyonlarla yapılan işlemlerin belirli bir noktadaki veya sonsuzdaki limitlerine yönelik varsayımlarda bulunur.",
+        "e) Varsayımlarına dayalı örüntüleri geneller.",
+        "f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "g) Genellemelerini önerme olarak ifade eder.",
+        "ğ) Önermelerini farklı problem durumlarında değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.4.3",
+      "title": "Bir fonksiyonun bir noktadaki limitinin belirsizlik durumunu yorumlayabilme",
+      "processComponents": [
+        "a) Bir fonksiyonun bir noktadaki limitinin belirsizlik durumunu grafik veya tablo kullanarak inceler.",
+        "b) İncelediği fonksiyonun cebirsel ifadesini belirsizlik durumunu ortadan kaldıracak şekilde dönüştürür.",
+        "c) Hesapladığı limit değerini, dönüştürdüğü fonksiyon ile başlangıç fonksiyonunun grafiklerini karşılaştırarak yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.12.4.4",
+      "title": "Bir fonksiyonun tanımlı olduğu noktalardaki sürekliliğini yorumlayabilme",
+      "processComponents": [
+        "a) Fonksiyonların tanımlı olduğu bir noktadaki değeri ile o noktadaki limitini inceler.",
+        "b) Fonksiyonların tanımlı olduğu bir noktadaki değeri ile o noktadaki limitini sürekliliğin cebirsel ifadesine dönüştürür.",
+        "c) Fonksiyonların tanımlı olduğu bir noktadaki sürekliliğini o noktadaki değerinin limitine eşitliği olarak ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "belirsizlik, dikey-düşey asimptot, limit, sağdan limit, soldan limit, sonsuzluk, süreklilik, tanımsızlık, yatay asimptot",
+  "support": [
+    "Limitin kullanıldığı gerçek yaşam durumu örnekleri (hız sınırı gibi), öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivasyonları artırılabilir.",
+    "Öğrencilere bir fonksiyonun belirli bir noktadaki limitini cebirsel olarak ifade edebilmeye ve grafik temsilde yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir.",
+    "Limit ve süreklilik ile ilgili performans görevleri ve çalışma kâğıtları için daha fazla zaman verilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam araçları (sözlü, yazılı, görsel gibi) kullanılabilir.",
+    "Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulabilir. Limit ve süreklilik konusunda öğrencilerin bireysel ihtiyaçlarına uygun hedefler belirlenebilir."
+  ],
+  "enrichment": [
+    "(*) Uygun koşullarda f(x) = sin( π/x ) şeklinde tanımlı fonksiyonlar gibi salınım durumu içeren fonksiyonların grafikleri, matematik yazılım programları kullanılarak çizilebilir. Fonksiyonun grafiğinin salınım yaptığı bölge incelenerek limit ve sürekliliğe ilişkin sınıf içi tartışma yapılabilir. Örneğin uygun koşullarda f(x) = sin( π/x ) şeklinde tanımlı fonksiyonun x = 0 noktasında limitinin olup olmadığı tartışılabilir. Gerçek sayıların sıralama ve tamlık özelliklerinin limit alma işlemi için önemi üzerine araştırma ödevi verilebilir.",
+    "(*) Sıkıştırma teoreminin ispatı yapılabilir. Bu teoremin kullanıldığı sorular çözülebilir. Ara değer teoremi, Bolzano (Bulzano) teoremi ve uç değer teoremleri hakkında değerlendirmeler yapılarak bu teoremlere ilişkin açık uçlu sorular çözülür. 0/0 belirsizliği içeren limitlerde trigonometrik, logaritmik ve üstel fonksiyonlarla işlem yapılabilir. fonksiyonunun x = 0 noktasındaki limitinin 1 olduğu, sıkıştırma teoremi kullanılarak ispatlanabilir. Buradan hareketle uygun koşullarda (k, m∈ℝ, m ≠ 0), ve şeklinde tanımlı fonksiyonların x = 0 noktasındaki limitlerinin k/m olduğu gösterilebilir.",
+    "(*) 0/0 belirsizliğinin yanı sıra ∞/∞, ∞-∞, belirsizlikleri limit alma kuralları yorumlanarak çözülebilir. Euler sayısının (e) elde edilmesini sağlayan fonksiyonunun sonsuzdaki davranışı incelenebilir.",
+    "(*) Weierstrass'ın limit tanımı (epsilon-delta tanımı) ile ilgili araştırma ödevi verilebilir.",
+    "(*) Uygun koşullarda f(x) = tanx, f(x) = cotx, f(x) = secx ve f(x) = cosecx şeklinde tanımlı fonksiyonların sürekli olduğu aralıkları bulmaya yönelik çalışmalar yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirilebilir.",
+    "Verilen fonksiyon grafikleri üzerinden fonksiyonun belirli bir nokta civarındaki veya sonsuzdaki davranışını belirlemeye yönelik olarak öğrencilere çalışma kâğıdı verilebilir. Bu çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Fonksiyonların limit özelliklerini yorumlamaya ve belirli bir noktadaki veya sonsuzdaki limitini bulmaya ilişkin açık uçlu sorulardan oluşan çalışma kâğıdı, bütüncül dereceli puanlama anahtarıyla değerlendirilebilir. Öğrencilerin kendilerini öz değerlendirme formuyla değerlendirmeleri sağlanabilir.",
+    "Belirli bir x = a noktasındaki limiti 0/0 belirsizliğine sahip fonksiyonların gerçek yaşam problemlerinde kullanımına yönelik verilen araştırma ödevi; araştırmanın hazırlık, planlama ve sunum süreçlerini içine alan derecelendirme ölçeğiyle değerlendirilebilir.",
+    "f + g, f - g, f . g, f / g, fog ve gof fonksiyonlarının sürekliliğinin incelenmesine yönelik verilen performans görevi; analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.4.1 Gerçek sayılarda tanımlı fonksiyonların grafik temsilleri incelenerek bilinen tüm nitel özelliklerin dışında başka ne gibi özelliklerin olabileceği ile ilgili sınıf içi tartışma yapılır. Öğrencilere farklı grafik temsilleri verilerek bu temsilleri yorumlayabilmek için hangi bilgilere ihtiyaçları olduğu sorgulanır ( SDB1.2 ) . Bu ihtiyaçları karşılamaya yönelik olarak yaklaşma fikrinden söz edilir. Üstel, logaritmik ve rasyonel referans fonksiyonların grafik temsilleri incelenir. İnceleme sonucunda bu fonksiyonların bir nokta civarındaki ve sonsuzdaki davranışı gözlemlenir. Gözlemler neticesinde fonksiyonun sonsuzdaki davranışına dayanarak yatay asimptot ve dikey-düşey asimptot kavramlarının tanımlarına ulaşılır. Ayrıca parçalı gösterimli fonksiyonların cebirsel ifadesinin değişim noktasına grafik temsili üzerinden sağdan ve soldan yaklaşıldığında fonksiyonun alacağı değerler incelenir ( OB4 ) . Tüm bu gözlemler neticesinde bir fonksiyonun belirli bir noktasının sağdan ve soldan yaklaşım değerlerini incelemek bağlamında limit fikrinden söz edilir. Ayrıca fonksiyonların sonsuzdaki davranışı asimptotlardan ve limit fikrinden yararlanılarak incelenir. Örneğin uygun koşullarda şeklinde tanımlı fonksiyonun grafik temsilinde y = 0 doğrusunun bu fonksiyonun yatay asimptotu olduğu belirlenebilir. Bu bilgiden hareketle fonksiyonun tanım aralığındaki değerler sınırsız büyür veya küçülürken fonksiyon değerlerinin sıfıra yaklaştığı sözel olarak ifade edilir. Bu fonksiyonların belirli noktalardaki limit değeri o noktaya sağdan ve soldan yaklaşım fikriyle belirlenir ve limit değeri sözel olarak ifade edilir. Verilen fonksiyon grafikleri üzerinden fonksiyonun belirli bir nokta civarındaki veya sonsuzdaki davranışını belirlemeye yönelik olarak öğrencilere çalışma kâğıdı verilebilir.",
+    "MAT.12.4.2 Cebirsel temsili verilen fonksiyonlarda limit değeri öncelikle tablo ve grafik temsillerden yararlanılarak belirlenir. Bu noktada limit değerine olan ihtiyacı vurgulamak için gerçek yaşam örnekleri verilmesi tercih edilir. Örneğin fizikte bir hareketlinin t zamanında aldığı yolu modelleyen uygun koşullarda f(t)=t² şeklinde tanımlı fonksiyonun tablo ve grafik temsili incelenerek belirli bir t zamanı civarında aldığı değerler belirlenebilir. Elde edilen değerler eleştirel bir bakış açısıyla değerlendirilir ( D3.3 ) . Cebirsel ifadesi verilen parçalı gösterimli fonksiyonun değişim noktasına grafik temsili üzerinden sağdan ve soldan yaklaşıldığında fonksiyonun alacağı değerler incelenir. Örneğin bir kasabanın x yıl sonraki nüfusunu modelleyen uygun koşullarda şeklinde tanımlı bir fonksiyon öğrencilere sunulur. Çok uzun yıllar sonra nüfusun en fazla ne kadar olabileceği, matematik yazılımlarıyla incelenerek tartışılır. Böylece öğrencilerin dijital araç ile iş görme becerilerinin gelişimine de katkı sağlanmış olur ( OB2 , MAB5 ) . Bu şekilde öğrencilerin fonksiyonun sonsuzdaki davranışını anlamlandırması sağlanır. Cebirsel temsili verilen fonksiyonlar tablo ve grafik temsillerle incelenerek fonksiyonun belirli bir noktasındaki veya sonsuzdaki limiti, yaklaşım fikrinden yararlanılarak yorumlanır. Bu yorumlardan yola çıkılarak fonksiyonun x = a (a∈ℝ) noktası tanım aralığında bir sınır noktası olmamak üzere bu noktadaki limiti şeklinde gösterilir ve ise bu fonksiyonun x = a noktasında limitinin olduğu ifade edilir. x=a noktası tanım aralığında bir sol sınır nokta ise in gerçek sayıya eşit olması durumunda fonksiyonun x = a noktasında sağdan limitinin olduğu belirtilir. Benzer şekilde x=a noktası tanım aralığında bir sağ sınır nokta ise in bir gerçek sayıya eşit olması durumunda fonksiyonun x = a noktasında soldan limitinin olduğu ifade edilir ( E3.6 , E3.7 , MAB3 ) . Fonksiyonların belirli bir noktadaki veya sonsuzdaki limitleri matematiksel temsiller kullanılarak incelenir. olmak üzere fonksiyonun sol uç noktasında sağdan veya sağ uç noktasında soldan limiti varsa sırasıyla ve şeklinde yeniden gösterilir ( MAB3 ) . Öğrencilere grafik temsili verilen parçalı gösterimli fonksiyonlarda belirli bir noktadaki ve sonsuzdaki limitin belirlenmesine yönelik olarak çalışma kâğıdı verilebillir. Bu noktada limitin tarihî gelişimi açıklanarak limiti matematiksel temellere dayandıran Jean le Rond d'Alembert (Jön lö Ğun Delombeğ), Augustin Louis Cauchy (Ogüsta Lui Kuşi) ve Karl Weierstrass (Karl Vayaşthas) gibi matematikçilerin çalışmaları incelenebilir.",
+    "Öğrencilerin polinom, trigonometrik, üstel ve logaritmik fonksiyonların grafik temsillerini inceleyerek fonksiyonların tanımlı olduğu her noktada limitinin olabileceğine dair varsayımlar geliştirmeleri sağlanır. Fonksiyonlarda dört işlem ve bileşke işleminin limit özelliklerine yönelik varsayımlar, fonksiyonların matematiksel temsilleri incelenerek elde edilir. Örneğin uygun koşullarda f(x) = 1/x ve g(x) = x şeklinde tanımlı fonksiyonlar incelenerek sonucuna ulaşılır (x = 0 dışındaki noktalarda bu eşitlik sağlanır.). Buradan hareketle öğrencilerin fonksiyonların çarpımlarının belirli bir noktada limit altında ayrılabilmesi için çarpımı oluşturan fonksiyonların ayrı ayrı o noktada limitinin olması gerektiği varsayımına ulaşmaları sağlanır. Bu varsayımlardan hareketle farklı fonksiyonların ve bu fonksiyonlarla yapılan işlemlerin belirli bir noktadaki veya sonsuzdaki limitlerine ilişkin genellemeler elde edilir. Genellemelerle varsayımlar karşılaştırılarak önermeler matematiksel olarak doğrulanabilecek şekilde sunulur. Genellemelerden elde edilen önermeler; f + g, f - g, f . g, f / g, fog ve gof fonksiyonlarının belirli bir noktadaki veya sonsuzdaki limitlerini bulmayı gerektiren problemlerde değerlendirilir. Öğrencilere fonksiyonların limit özelliklerini yorumlamaya ve belirli bir noktadaki veya sonsuzdaki limitini bulmaya ilişkin açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir ( D16.3 ) .",
+    "MAT.12.4.3 Fonksiyonlarda dört işlem özelliklerinden elde edilen limitin bölüm kuralı f / g fonksiyonlarında incelenir. Buradaki g fonksiyonunun belirli bir x = a (a∈ℝ) noktasındaki limitinin sıfır olduğu durumların nasıl yorumlanabileceğine ilişkin sınıf içi tartışma yapılır. Bu tartışma yapılırken öğrencilerin birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve birbirleriyle etkileşim sağlamaları beklenir ( SDB2.1 , D14.1 ) . Öncelikle f fonksiyonunun x = a noktasındaki limit değerinin sıfırdan farklı bir gerçek sayı olduğu durumlar incelenir. Bu durumda f / g fonksiyonunun sonsuzdaki davranışı önceki bilgilerden yararlanılarak yorumlanır. Burada öncelikle tanımsızlık ve belirsizlik kavramları incelenir. Belirsizlik kavramıyla tanımsızlık kavramı arasındaki farklılık, limit bağlamında ele alınır.",
+    "Uygun koşullarda tanımlı f / g rasyonel fonksiyonlarının grafik ve tablo temsilleri incelenerek belirsiz olduğu noktalar belirlenir. Öğrenciler, grafiğini çizemedikleri fonksiyonlar olursa matematik yazılımları yardımıyla da grafik temsilleri inceleyebilir ( MAB5 ) . x = a noktasındaki limiti sıfıra eşit olan f ve g fonksiyonlarından elde edilen f / g fonksiyonunun x = a noktasındaki limitinin 0/0 belirsizliği oluşturduğu kabul edilir. Bu noktada f ve g fonksiyonlarının polinom fonksiyon, karekök fonksiyonu ve rasyonel fonksiyon olmasına dikkat edilir. f ve g fonksiyonlarının trigonometrik, üstel veya logaritmik fonksiyon olduğu durumlar incelenmez. İncelenen fonksiyonun cebirsel ifadesi, çarpanlara ayırma kuralları kullanılarak belirsizlik durumu ortadan kaldırılacak şekilde dönüştürülür. Dönüşümle beraber yeni fonksiyonun x = a noktasındaki limit değeri elde edilir ( MAB2 ) . Böylece belirsizliğin giderilebilmesi için farklı bir çözüm üretilmiş olur. Dönüştürülen yeni fonksiyon ile başlangıç fonksiyonunun grafikleri karşılaştırılır. Bu şekilde fonksiyonların x = a noktasındaki limit değerlerinin değişmediği vurgulanır. Limitteki 0/0 belirsizliğinin çarpanlara ayırma yöntemleriyle en hızlı ve doğru şekilde çözülebilmesini içeren, iş birliği ve grup içi çalışma gerektiren etkinlikler düzenlenebilir ( SDB2.2 , D4.2 ) . Öğrencilere belirli bir x = a noktasındaki limiti 0/0 belirsizliğine sahip fonksiyonların gerçek yaşam problemlerinde kullanımına yönelik araştırma ödevi verilebilir.",
+    "MAT.12.4.4 Limitin tarihî gelişiminden kısaca söz edilerek Salih Zeki'nin Âsâr-ı Bâkıye ve Kâmûs-ı Riyâziyyât adlı eserlerindeki limit ve süreklilik ile ilgili çalışmalarından bahsedilir. Buradaki çalışmalardan hareketle limit ve süreklilik arasındaki ilişkiye dair sınıf içi tartışma yapılır. Cebirsel temsili verilen fonksiyonların tablo ve grafik temsili incelenir. x = a (a∈ℝ) noktasının fonksiyonun tanım aralığı içerisinde olmasına dikkat edilerek bu fonksiyonların x = a noktasındaki limiti ve değeri karşılaştırılır. Bu karşılaştırma neticesinde limit değerinin o noktadaki fonksiyon değerine eşit olmadığı durumlarda fonksiyonların grafik temsilinin x = a noktasında sürekli olmadığı yorumu yapılır. Böylece f fonksiyonunun x = a noktasındaki sürekliliğinin cebirsel ifadesi olarak verilir ( MAB3 ) . Bu cebirsel ifadeden hareketle fonksiyonların belirli bir x = a noktasında sürekli olabilmesi için o noktadaki limit değeriyle fonksiyon değerinin birbirine eşit olması gerektiği ifade edilir. Referans fonksiyonlar, polinom ve rasyonel fonksiyonlar incelenerek bu fonksiyonların tanımlı olduğu aralıklardaki sürekliliği yorumlanır. Öğrencilere f + g, f - g, f . g, f / g, f o g ve g o f fonksiyonlarının sürekliliğinin incelenmesine yönelik bir performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D3.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB2",
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/307"
+}

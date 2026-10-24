@@ -1,0 +1,123 @@
+{
+  "unitId": 81366003,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Yönetim Bilimi Dersi",
+  "title": "3. ÜNİTE: YÖNETİMİN TEMEL FONKSİYONLARI - II",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YNB.3.1",
+      "title": "Farklı yönetim anlayışlarının ortak yönlerini belirler",
+      "processComponents": [
+        "Sınıf yönetimi konusu yönetmenin kapsamı çerçevesinde tartışılır.",
+        "“ Ben ……………. kurumunun yöneticisi olsam; ………….."
+      ]
+    },
+    {
+      "code": "YNB.3.2",
+      "title": "Yönetici ve liderin özelliklerini irdeler",
+      "processComponents": [
+        "Liderlik türleri üzerinde durulur.",
+        "“Yönetici işi doğru yapar, lider doğru işi yapar.” söylemi üzerinde durulur.",
+        "Tarihte yer alan önemli liderlerin hayatıyla ilgili biyografik çalışmalar yapılabilir."
+      ]
+    },
+    {
+      "code": "YNB.3.3",
+      "title": "Personel yönetiminin işleyişini analiz eder",
+      "processComponents": [
+        "İnsan kaynaklarının personel yönetimindeki etkisi vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.3.4",
+      "title": "Güdülenme ve yönetim arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Personelin güdülenmesi için neler yapılabilir?"
+      ]
+    },
+    {
+      "code": "YNB.3.5",
+      "title": "Yönetimde iletişimin önemini değerlendirir",
+      "processComponents": [
+        "İletişim türleri vurgulanır.",
+        "“ Türkiye'de e-devlet uygulamaları nasıl geliştirilebilir?”",
+        "Proje hazırlama dersi ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "YNB.3.6",
+      "title": "Yönetmenin unsurlarını karşılaştırır",
+      "processComponents": [
+        "Yönetmenin unsurları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.3.7",
+      "title": "Yönetimin unsurlarını değerlendirir",
+      "processComponents": [
+        "Tarih dersi ile ilişkilendirir.",
+        "Kurtuluş ya da Cumhuriyet filmleri izlettirilebilir. Performans değerlendirme formu kullanılır."
+      ]
+    },
+    {
+      "code": "YNB.3.8",
+      "title": "Eşgüdümün yönetimdeki rolünü irdeler",
+      "processComponents": [
+        "Konuyla ilgili güncel yaşamdan örnekler verilir.",
+        "Eşgüdümün yönetimin bütün süreçlerinde olması gerektiği vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.3.9",
+      "title": "Eşgüdümün ilkelerini açıklar",
+      "processComponents": [
+        "Eşgüdüm kavramı açıklanarak eşgüdümün sağlanmasında; insan ilişkileri, iletişim ve teknoloji konuların önemi üzerinde durulur.",
+        "Eşgüdüm ilkeleri vurgulanır."
+      ]
+    },
+    {
+      "code": "YNB.3.10",
+      "title": "Eşgüdüm türlerini karşılaştırır",
+      "processComponents": [
+        "Hiyerarşi nedir? Dikey eşgüdüm, yatay eşgüdüm ve dış eşgüdüm nedir? Komite nedir?"
+      ]
+    },
+    {
+      "code": "YNB.3.11",
+      "title": "Yönetimde eşgüdümün etkisini değerlendirir",
+      "processComponents": [
+        "“Yönetici olarak şirketinizde eşgüdümü nasıl sağlarsınız?” “İdareci olarak kamu kurumunda eşgüdümü nasıl sağlarsınız?” “Yönetici olarak fabrikanda eşgüdümü nasıl sağlarsınız?”",
+        "İşe personel alma ile eşgüdüm arasında bir ilişki var mıdır?"
+      ]
+    },
+    {
+      "code": "YNB.3.12",
+      "title": "Örgüt yapısı içinde denetlemenin önemini belirtir",
+      "processComponents": [
+        "Son yıllarda denetim anlayışının değiştiği, denetimin amacının, rehberlik etme ve sürece dayalı gelişmeye yönelik olduğu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "YNB.3.13",
+      "title": "Denetimin türlerini irdeler",
+      "processComponents": [
+        "İç ve dış denetim türleri üzerinde durulur.",
+        "Kamuoyu denetimi, ombudsman (kamu denetçiliği) gibi farklı denetim türleri olduğu da vurgulanır.",
+        "Bilgi Edinme Kanunu'nun kamu yönetimi açısından getirdiği yenilikler vurgulanır.",
+        "Performans denetimi kavramı üzerinde durulur.",
+        "Çoktan seçmeli, açık uçlu, kısa cevaplı, boşluk doldurma, eşleştirme tipi testler; öğrenci gözlem formu, öz değerlendirme formu kullanılarak değerlendirme yapılabilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112716320896-Y%C3%B6netim%20Bilimi.pdf"
+}

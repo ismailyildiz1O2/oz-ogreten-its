@@ -1,0 +1,38 @@
+{
+  "unitId": 81300003,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Klasik Ahlak Metinleri Dersi",
+  "title": "3. ÜNİTE: BİLGİ ALANLARININ AHLAKLA İLİŞKİSİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KAM.2.1.1",
+      "title": "Bilgi alanlarında ahlakın yeri ve önemini açıklar",
+      "processComponents": [
+        "Ahlak ve ahlak felsefesinin benzer ve farklı yönlerinin açıklanması sağlanır.",
+        "Siyaset, din ve bilimin ahlak ile ilişkisi üzerinde durulur.",
+        "Nurettin Topçu'nun “Öğrenmek zekânın, yapmak ahlakın işidir.” sözünden hareketle bilgilerin öğretiminde ahlakın değeri üzerine tartışılması sağlanır."
+      ]
+    },
+    {
+      "code": "KAM.2.1.2",
+      "title": "Bilgi ile ahlak ilişkisini açıklar",
+      "processComponents": [
+        "Bilgili ve ahlaklı insanın özelliklerinin belirlenmesi sağlanır.",
+        "Bilginin önemi ile ilgili olarak Zümer suresi 9. ayette geçen “…Hiç bilenlerle bilmeyenler bir olur mu!” Doğrusu ancak akıl sahipleri bunu anlar.” ifadelerine yer verilir.",
+        "Siyaset, felsefe, din ve bilim alanları çerçevesinde “Bilgili olmak daha ahlaklı olmayı gerektirir mi?” sorusundan hareketle bilgi ve ahlak ilişkisinin tartışılması sağlanır.",
+        "Hz. Peygamber'in “Allah sizden birinin yaptığı işi sağlam, temiz ve güzel yapmasını sever.” sözünden hareketle meslek hayatında ahlaklı olmanın önemi üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316030660-KlasikAhlakMetinleri%20%281%29.pdf"
+}

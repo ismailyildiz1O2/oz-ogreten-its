@@ -1,0 +1,55 @@
+{
+  "unitId": 1435,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: GİTARDA TEK SESLİ EZGİLER",
+  "hours": "24",
+  "description": "Temada öğrencilerin tek sesli ezgileri çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.3.3.1",
+      "title": "Gitarda tek sesli ezgileri çalabilme",
+      "processComponents": [
+        "a) Çalınacak ezgiyi çözümler.",
+        "b) Gitara özgü duruş ve tutuş pozisyonu alır.",
+        "c) Gitara özgü teknikleri kullanır.",
+        "ç) Ezgilere müziksel bileşenleri uygulayarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, egzersiz, tek sesli",
+  "support": [
+    "Öğretmen, notaların ve ezgilerin görsel temsilini öğrencilere göstermek için etkileşimli tahtayı kullanabilir. Şarkının notasını gösterirken her nota ve ritmi tahtada işaret edebilir. Öğrenciler, yazılı notaları izleyerek müziksel yapıyı daha kolay takip edebilirler. Aynı zamanda öğretmen şarkıyı çalarken doğru pozisyonları ve teknikleri öğrencilere modelleyebilir."
+  ],
+  "enrichment": [
+    "Öğretmen öğrencilerden kendilerine ait bir ezgi doğaçlamalarını isteyebilir. Öğrencilerin performanslarını sınıf önünde sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilerin kendi seçtikleri bir ezgiyi sınıf karşısında sunmaları istenebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.3.3.1",
+    "Öğretmen, öğrencilere günlük hayatlarından örnekler vererek konuya giriş yapar. Öncelikle onlara şu soruyu yöneltir: \"Günlük hayatta söylenen şarkılar nelerdir?\" Öğrenciler cevaplarını paylaştıktan sonra öğretmen; çocuk şarkıları, marşlar, halk ezgileri gibi tanıdık melodiler üzerinden tek sesli müziğin özelliklerini açıklar. Öğretmen, öğrencilerin aşina olduğu kısa ve basit bir ezgiyi gitarla çalar. Öğrenciler, öğretmenin çaldığı ezgiyi gözlemleyerek hangi teknikleri kullandığını tahmin etmeye çalışır ( KB2.11 ). Öğrenciler öğretmen rehberliğinde ezgiyi çözümler. Öncelikle ezginin bonası yaptırılarak öğrencilerin nota okuma hâkimiyetleri gözlemlenir. Çalınacak ezginin deşifresi yapılır. Bona ve solfej çalışmaları öğrencilerin öz yeterlilik becerilerini geliştirir ( E1.4 ). Öğrencilerin çalacakları şarkı hakkında bilgi verilir ve şarkının notaları öğrencilere dağıtılır. Dinleme sırasında öğrencilerin nota kağıdından şarkıyı takip etmeleri istenir ( E3.2 ). Öğretmen, eserin basit bir deşifresini yaparak öğrencilere rehberlik eder. Öğrencilerin doğru duruş ve tutuş pozisyonlarını alması sağlanır. Öğretmen, her öğrencinin gitarı doğru pozisyonda tuttuğunu ve sol elin klavye üzerindeki yerleşiminin uygun olduğunu kontrol eder ( E3.2 ). Deşifre sürecine geçildiğinde öğrenciler çalışarak notaların yerini klavyede belirler. Şarkıyı çözümlemeye başlarlar. Öğrencilerin şarkıyı çalarken hangi teknikleri kullanacaklarını belirlemeleri istenir. Öğretmen, bireysel çalışmalar sırasında öğrencilere yaklaşarak hataları düzeltir ve gerekli yönlendirmeleri yapar. Öğrencilere sağ el tekniklerinden apoyando veya tirando kullanarak çalmaları gerektiği hatırlatılır. Bireysel çalışmalar tamamlandıktan sonra öğretmen, öğrencilere önce yavaş tempoda çalışmalarını sağlar. Her öğrencinin çalışmalarda etkin rol alıp istikrarlı bir şekilde tempoyu artırarak eserin orijinal temposuna ulaşana kadar çalışmaları sağlanır ( D3.4 , D12.3 ). Öğrenciler verilen çalışmalarda gitara özgü teknikleri kullanırlar. Öğrencilerin ritim, ezgi, tempo, dinamikler gibi müziksel bileşenleri doğru bir şekilde uygulamaları ve müzikal ifadeyi yansıtmaları sağlanır ( SDB2.2 ). Öğretmen, her öğrencinin müzikal anlatımını gözlemleyerek dönüt verir. Süreç, farklı tek sesli ezgiler belirlenerek tekrar edilir. Sürecin sonunda öğrencilerin çaldıkları şarkıyı etkileşimli tahtada oluşturdukları kişisel klasörlerine kaydeder ( OB2 ). Performans görevi olarak öğrencilerin kendi seçtikleri bir ezgiyi sınıf karşısında sunmaları istenir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.4",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.11"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1435"
+}

@@ -1,0 +1,82 @@
+{
+  "unitId": 81663042,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "42. ÜNİTE: PROGRAMLAMA DİLLERİ (PYTHON) - 2. ÜNİTE: PYTHON PROGRAMLAMA DİLİ İLE YAZILIM GELİŞTİRME",
+  "hours": "18",
+  "description": "Bu ünitede sırasıyla; karar yapılarını kullanma, döngüleri kullanarak bir problem çözme, çoklu koşulların mantıksal sonuçlarını açıklama, fonksiyonları program içinde yöntemine göre kullanma ve standart fonksiyonlar ve kütüphaneleri üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.42.1",
+      "title": "Python programlama dili karar yapılarını içeren programlar geliştirir",
+      "processComponents": [
+        "Karar yapıları günlük hayattan örneklerle açıklanır. Çoklu karar durumlarında nasıl bir sıralama izlendiği belirtilir. If-else ve if-elif-else koşul durumları karşılaştırılır, farklı problem durumlarıyla kullanılır.",
+        "İç içe karar yapıları açıklanır. Örnek programlar yazılır.",
+        "If else yapısının kullanımı açıklanır. Bu yapı kullanılarak problem çözmesi istenir.",
+        "Elif yapısının kullanımı açıklanır. Bu yapı kullanılarak problem çözmesi istenir.",
+        "Boolean yapısı anlatılır.",
+        "If, if else, if elif else yapılarının kullanımı açıklanır.",
+        "Karar yapısı içeren farklı problemleri belirtilen yapılar kullanarak çözecek kodların yazılması istenir."
+      ]
+    },
+    {
+      "code": "BTY.42.2",
+      "title": "Bir problemi çözmek için kullanacağı döngü yapısına karar verir",
+      "processComponents": [
+        "Tekrar eden durumları programlarken for, while gibi döngüleri amacına uygun olarak kullanır.",
+        "İç içe döngü yapıları kullanımı açıklanır. Örnek programlar yazılır.",
+        "While ve for döngülerinin program içinde nasıl kullanıldığı anlatılır.",
+        "While ve for arasındaki farktan bahsedilir. Hangi durumlarda kullanılacağına dair örnekler verilir.",
+        "Döngünün belirli bir aralıkta çalışmasını sağlayan range kavramı örneklerle açıklanır.",
+        "Break ve continue komutlarına örnek verilir."
+      ]
+    },
+    {
+      "code": "BTY.42.3",
+      "title": "Çoklu koşulların mantıksal sonuçlarını değerlendirir",
+      "processComponents": [
+        "Çoklu koşulların kullanımında mantıksal operatörlerin doğurabileceği sonuçlar tartışılır. Pozitif, negatif mantık yapısı açıklanır. Koşul durumlarında tek tip mantık yapısı üzerinden gidilmesi tavsiye edilir.",
+        "İç içe döngülerden bahsedilir.",
+        "Öğrencilerden iç içe döngüleri kullanılarak çarpım tablosu yapmaları istenir. Örnek üzerinden mantıksal sonuç çıkarımı için sınıfça tartışılır.",
+        "Öğrencilere içinde tekrar eden komutların bulunduğu kod parçaları verilir. Bu kodların aynı komutların tekrarı olmadan yazılıp yazılamayacağı üzerinde düşünmeleri istenir.",
+        "For/while döngü yapılarının kullanımı açıklanır.",
+        "Döngü kullanımının kod tekrarını önleyerek programı sadeleştirdiği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.42.4",
+      "title": "Fonksiyonları program içinde yöntemlerine göre kullanır",
+      "processComponents": [
+        "Programlama dilinde fonksiyon kullanımı açıklanır. Fonksiyon tanımlaması yapılır, tanımlanan fonksiyonun çağrılması durumunda gerçekleştireceği işlemler tanımlanır. Parametreli ve parametresiz fonksiyonlar yazılarak farkı tartışılır.",
+        "Fonksiyon kavramı ve kullanım gerekçeleri açıklanır.",
+        "Bir programda farklı yerlerde aynı işlemi yapmak için kodları kopyalayıp yapıştırmak yerine fonksiyonların da kullanılabileceği örneklerle gösterilir.",
+        "Öğrencilerden kendi girdikleri ismi, ekrana yazdırma işlemi yapan bir fonksiyon tanımlamaları istenir.",
+        "Parametreli ve parametresiz fonksiyon arasındaki fark örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.42.5",
+      "title": "Standart fonksiyon kümelerini ve kütüphanelerini kullanır",
+      "processComponents": [
+        "Ön tanımlı fonksiyon kümelerine yer verilir. Liste üzerinde fonksiyon işlemleri yapılır. Len (), count (), insert () vb. hazır fonksiyonlar örneklendirilir.",
+        "Math() kütüphanesi kullanılır. math.factorial (8) işleminin sonucu gözlemlenir. Çeşitli hazır fonksiyon kütüphaneleri öğrencilere tanıtılır.",
+        "Öğrencilerden Python programlama dilinde sıklıkla kullanılan ve önemli işlevlere sahip standart fonksiyonlar ile ilgili araştırma yapmaları istenir.",
+        "Gömülü fonksiyonların yanında hazır kütüphanelerin varlığından bahsedilir ve örneklendirilerek açıklanır.",
+        "Üst düzey fonksiyonlardan bahsedilir.",
+        "Kendini çağıran fonksiyonlar örneklendirilir.",
+        "Yazılmak istenen her programda kullanıcının daha önce tanımladığı fonksiyonları yeniden tekrarlamak zorunda olup olmadığı sorulur, öğrencilerin fikir yürütmesi istenir.",
+        "Pythonda yazılan tüm komutların aslında önceden tanımlanmış fonksiyonlar olduğu vurgulanır.",
+        "Kütüphane tanımı yapılır, Pythonda yaygın kullanılan kütüphanelere örnekler verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

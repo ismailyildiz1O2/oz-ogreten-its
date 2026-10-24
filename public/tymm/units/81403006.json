@@ -1,0 +1,45 @@
+{
+  "unitId": 81403006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Matematik Uygulamaları Dersi (Lise)",
+  "title": "6. ÜNİTE: MATEMATİK VE SAĞLIKLI YAŞAM",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MTU.1.6.1",
+      "title": "Sağlıklı bir yaşam tarzının özellikleri ile ilgili veri toplar",
+      "processComponents": [
+        "Beslenme, diyet, egzersiz gibi çeşitli aktiviteler hakkında veri toplama çalışmalarına yer verilir.",
+        "Veri toplama çalışmalarında Sağlık Bakanlığına bağlı sağlıklı yaşam merkezlerinden yararlanılır.",
+        "Sağlıklı yemek seçenekleri oluşturulurken Türk mutfak kültürü göz önünde bulundurulur."
+      ]
+    },
+    {
+      "code": "MTU.1.6.2",
+      "title": "Sağlıklı yaşam tarzı seçeneklerini tablo veya grafik kullanarak karşılaştırır",
+      "processComponents": [
+        "Kalp atış hızı, sıvı alımı, uyku kalitesi, glisemik indeks, günlük kalori ihtiyacı gibi veriler üzerinde durulur.",
+        "Fiziksel aktivite süreleri, gıdaların besin değerleri ve giyilebilir teknoloji ile ilgili veriler dikkate alınabilir.",
+        "Çizgi grafiği, sütun grafiği, daire grafiği ve histograma yer verilir.",
+        "Serpme ve kutu grafiklerine yer verilmez."
+      ]
+    },
+    {
+      "code": "MTU.1.6.3",
+      "title": "Kendisine uygun bir sağlıklı yaşam tarzı planlar",
+      "processComponents": [
+        "Sağlıklı yaşam tarzı planlamasının uzman gözetiminde yapılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121111235666-MATEMAT%C4%B0K%20UYGULAMALARI%20DERS%C4%B0%20%28I-II%29%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI--21.11.2023.pdf"
+}

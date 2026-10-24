@@ -1,0 +1,58 @@
+{
+  "unitId": 1573,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY I · 3. Tema: Robotik Devre Tasarımı",
+  "hours": "22",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK1.3.1",
+      "title": "Çevrim içi benzetim araçları kullanarak robotik devre modeli geliştirebilme",
+      "processComponents": [
+        "a) Çevrim içi benzetim araçlarını kullanarak yapılacak robotik devre modeli için gerçek hayat problemini belirler.",
+        "b) Çevrim içi benzetim araçlarını kullanarak problem çözümü için robotik devre modeli oluşturur.",
+        "c) Çevrim içi benzetim araçlarını kullanarak geliştirilen robotik devre modelini uygular.",
+        "ç) Robotik devre modelinin süreç ve sonuçlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "RK1.3.2",
+      "title": "Donanım bileşenlerini kullanarak robotik devre modeli geliştirebilme",
+      "processComponents": [
+        "a) Donanım bileşenlerini kullanarak yapılacak robotik devre modeli için gerçek hayat problemini belirler.",
+        "b) Belirlenen problemin çözümü için donanım bileşenlerini kullanarak robotik devre modeli oluşturur.",
+        "c) Donanım bileşenlerini kullanarak geliştirilen robotik devre modelini uygular.",
+        "ç) Donanım bileşenlerini kullanarak geliştirilen robotik devre modelinin süreç ve sonuçlarını değerlendirir."
+      ]
+    },
+    {
+      "code": "RK1.3.3",
+      "title": "Çevrim içi blok tabanlı yazılım geliştirme ortamında robotik programlama sürecini yönetebilme",
+      "processComponents": [
+        "a) Çevrim içi blok tabanlı yazılım geliştirme ortamında robotik programlama sürecini planlar.",
+        "b) Çevrim içi blok tabanlı yazılım geliştirme ortamında robotik programı tasarlar.",
+        "c) Çevrim içi blok tabanlı yazılım geliştirme ortamında robotik programı oluşturur.",
+        "ç) Çevrim içi blok tabanlı yazılım geliştirme ortamında oluşturulan robotik programı değerlendirir."
+      ]
+    },
+    {
+      "code": "RK1.3.4",
+      "title": "Çevrim içi blok tabanlı yazılım geliştirme ortamında oluşturulan robotik programı test edebilme",
+      "processComponents": [
+        "a) Çevrim içi blok tabanlı ortamda geliştirdiği robotik programı test eder.",
+        "b) Çevrim içi blok tabanlı ortamda geliştirdiği robotik programı hataları ayıklayarak kullanıma hazır hâle getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "çevrim içi benzetim, çıkış birimleri, devre bağlantıları, model kurma, sensör girdileri",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB3.Yazılım Geliştirme (BTYAB3.3. Yazılım Geliştirme Sürecini Yönetme, BTYAB3.5. Test Etme-Hata Ayıklama), BTYAB4.Dijital Ürün Geliştirme (BTYAB4.4. Simülasyon/Model Geliştirme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1573"
+}

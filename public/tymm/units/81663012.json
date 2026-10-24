@@ -1,0 +1,37 @@
+{
+  "unitId": 81663012,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "12. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 1. ÜNİTE: JAVA PROGRAMLAMAYA GİRİŞ",
+  "hours": "9",
+  "description": "Bu ünitede, Java programlama dilinin özellikleri üzerinde durularak öğrenciye neden bu programlama dilinin popüler olduğu kavratılır. Java programlama dilinin nesne tabanlı ve açık kaynak kodlu olması, geniş bir alanda ve yapay zekâ uygulamalarında kullanılabilirliğinin bulunması, dünya çapında yaygın ve geçerli olması özellikleri açıklanarak öğrenciye kavratılır. Gerekli kurulumların yapılması üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.12.1",
+      "title": "Java programlama dilini popüler kılan özellikleri kavrar",
+      "processComponents": [
+        "Nesne tabanlı ve açık kaynak kodlu bir programlama dili olduğu anlatılır.",
+        "Mobil cihazlar, bilgisayarlar, ev aletleri gibi geniş bir alanda kullanılabildiği açıklanır.",
+        "Yapay zekâ uygulamalarında kullanılabildiği anlatılır.",
+        "Dünya çapında yaygın ve geçerli bir programlama dili olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.12.2",
+      "title": "Java programlama için gerekli (Java Geliştime Kiti ve Tümleşik Geliştirme Ortamı) kurulumları yapar",
+      "processComponents": [
+        "Java için JDK (Java Geliştime Kiti) kurulumu gerçekleştirilir.",
+        "IDE (Tümleşik Geliştirme Ortamı) kurulumu gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

@@ -1,0 +1,84 @@
+{
+  "unitId": 1633,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Astronomi ve Uzay Bilimleri Dersi",
+  "title": "5. Ünite: Uzay Araştırmaları",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "AST.5.1",
+      "title": "Uzay çalışmalarının amacı ve tarihsel gelişimi ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Uzay çalışmalarının amacı ve tarihsel gelişimi ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak uzay çalışmalarının amacı ve tarihsel gelişimi ile ilgili bilgileri bulur.",
+        "c) Uzay çalışmalarının amacı ve tarihsel gelişimi hakkında ulaşılan bilgileri doğrular.",
+        "ç) Uzay çalışmalarının amacı ve tarihsel gelişimi hakkındaki ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "AST.5.2",
+      "title": "Astronomide kullanılan uzay araçlarını uzaya gönderilme amaçları ve niteliklerine göre yorumlayabilme",
+      "processComponents": [
+        "a) Astronomide kullanılan uzay araçlarını inceler.",
+        "b) Astronomide kullanılan uzay araçlarını bağlamdan kopmadan dönüştürür.",
+        "c) Astronomide kullanılan uzay araçlarının uzaya gönderilme amaçlarını ve niteliklerini yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "AST.5.3",
+      "title": "Uzay çalışmalarında kullanılmak üzere geliştirilen teknolojilerin günlük hayatta kullanımı ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Uzay çalışmalarında kullanılmak üzere geliştirilen teknolojilerin günlük hayatta kullanımına ilişkin örüntü bulur.",
+        "b) Uzay çalışmalarının günlük hayata olan etkileri ile ilgili genelleme yapar."
+      ]
+    },
+    {
+      "code": "AST.5.4",
+      "title": "Uzayda kolonileşmenin gerekçelerini ve sürece ilişkin ihtiyaçları, sürdürülebilirlik koşullarını, etkilerini yorumlayabilme",
+      "processComponents": [
+        "a) Uzayda kolonileşmenin gerekçelerini ve sürece ilişkin ihtiyaçları, sürdürülebilirlik koşullarını, etkilerini inceler.",
+        "b) Uzayda kolonileşmenin gerekçelerini ve sürece ilişkin ihtiyaçları, sürdürülebilirlik koşullarını, etkilerini bağlamdan kopmadan dönüştürür.",
+        "c) Uzayda kolonileşmenin gerekçelerini ve sürece ilişkin ihtiyaçları, sürdürülebilirlik koşullarını, etkilerini anlamını değiştirmeden yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "AST.5.5",
+      "title": "Dünya dışı yaşamı sorgulayabilme",
+      "processComponents": [
+        "a) Dünya dışı yaşama dair merak ettiği konuyu tanımlar.",
+        "b) Dünya dışı yaşam hakkında sorular sorar.",
+        "c) Dünya dışı yaşam hakkında bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden dünya dışında yaşam olasılığı hakkında çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "öte gezegen, uzay aracı, uzay kolonisi",
+  "support": [
+    "Öğrencilere uzaya ilk roketin fırlatılması, insanoğlunun Ay’a ayak basması, Uluslararası Uzay İstasyonu’nda astronotların yaşamı vb. konulu videolar izletilebilir. Öğrencilere uzay araçları ile ilgili hazır bilgi kartları verilebilir."
+  ],
+  "enrichment": [
+    "Dünya dışı yaşam arayışlarının kendi gezegenimizin ekolojik ve çevresel sorunlarıyla ilişkisini açıklayan bir sunum yapılabilir. Öğrencilerden izlediği bilim kurgu filmlerinden de esinlenerek “Dünya dışı başka zeki yaşam formlarına ulaşılması durumunda kültürel ve teknolojik ne gibi etkilerle karşılaşılabilir?’’ konulu bir metin yazmaları istenebilir. Öğrencilerden uzay madenciliği, küresel uydu iletişim ağı ve uzay turizmi konularında görüşlerini paylaşmaları ve bu konuları tartışmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; yapılandırılmış grid, açık uçlu sorular, öğrenme günlüğü, öz değerlendirme formu, analitik dereceli puanlama anahtarı kullanarak değerlendirilebilir. Performans görevi olarak öğrencilerden uzay kolonileşmesiyle ilgili çalışma yapan kurumları araştırarak konuyla ilgili haberleri de içeren bir poster, afiş vb. hazırlamaları istenebilir. Performans görevi öğretmen tarafından analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "AST.5.1.",
+    "Öğrencilere “Uzay çalışmalarının amaçları neler olabilir? Uzay çalışmalarının yararları nelerdir? Uzaya gönderilen ilk uydudan sonra ne gibi bilimsel gelişmeler ortaya çıkmış olabilir? Uzaya gönderilen araçların içine canlı türlerinin konulmasının amacı nedir? Uzaya gönderilen ilk insan kimdir? Ay’a ilk insanlı yolculuk ne zaman gerçekleşmiştir? Uzay çalışmaları sırasında karşılaşılan sorunlar neler olabilir?” gibi sorular sorularak öğrencilerin uzay çalışmaları hakkında farkındalık kazanmaları sağlanır. Öğrenciler, öğretmen rehberliğinde gruplara ayrılır ve öğrencilerden uzay çalışmalarının amaçları, uzay çalışmalarının tarihsel gelişimi ve ülkemiz (Türkiye Uzay Ajansı, TÜBİTAK Uzay, TUSAŞ, ASELSAN, ROKETSAN, DELTA V vb.) ile dünyadaki (NASA, ESA vb.) güncel uzay çalışmaları hakkında bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir ( SDB2.2 , D19.4 ). Öğrenciler bilgiye ulaşmak için kütüphane, güvenilir genel ağ adresleri, basılı kaynaklar gibi farklı kaynaklardan yararlanabilirler. Bu noktada öğrencilere rehberlik edilebilir. Bu süreçte gerçeği arama isteğiyle öğrencilerin merak ettiği soruları sorarak güvenli araçları belirlemeleri sağlanır ( E3.4 , E3.8 , OB1 , OB2 ). Gruplardan belirledikleri aracı kullanarak uzay çalışmalarının amacı ve tarihsel gelişimi hakkında bilgi toplamaları istenir. Grupların ulaştıkları bilgilerin doğruluğunu sorgulamaları sağlanır. Bu doğrulamaları arkadaşlarıyla karşılaştırarak, öğretmenine danışarak ya da güvenilir kaynaklara başvurarak yapmaları sağlanabilir. Öğrencilerin araştırma sürecinde planlı olmaları ve araştırmaya bilimsel bakış açısıyla yaklaşmaları beklenir ( D3.2 ). Gruplardan yaptıkları araştırma doğrultusunda uzay çalışmalarıyla ilgili tarih şeridi oluşturmaları istenir. Hazırlanan tarih şeridiyle grupların uzay çalışmaları hakkında sunum yapmaları sağlanır. Öğrencilerden sınıf içi sunumları sırasında doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Öğrencilerin öğrenmeleri yapılandırılmış grid ile değerlendirilebilir.",
+    "AST.5.2.",
+    "Öğretmen; astronomide kullanılan uzay araçlarının uzaya gönderilme amaçlarını ve niteliklerini yorumlatmak için uydu ve uydu çeşitleri, uzay istasyonu, uzay mekiği, uzay sondası ve roketi içeren fotoğraf veya video gibi öğretim materyallerini sınıfta gösterir ( OB4 ). Öğrenciler her bir uzay aracının uzaya gönderilme amacını ve temel niteliklerini inceler. Bu süreçte düşün-eşleş-paylaş tekniği kullanılabilir ( SDB2.2 ). Küçük gruplara ayrılan öğrenciler edindikleri bilgileri tartışarak bir kavram haritası hazırlar ( E3.7 ). Kavram haritası, uzay araçlarının adlarını ve işlevlerini birbirleriyle anlamlı bağlar kurarak gösterecek şekilde yapılandırılır. Gruplar hazırladıkları kavram haritalarını sınıfla paylaşır ( OB8 ). Görevini tamamlamış uzay araçlarına ne olduğu konusunda öğrencilerin tartışmaları istenir ve uzay atıkları konusunda video veya animasyon izletilir ( D5.2 ). Öğrencilerden öğrenme süreçlerinin gelişimini, öğrenme sürecinde zorlandıkları aşamaları ve bu zorlanma anlarında kendilerini nasıl motive ettiklerini değerlendirmeleri için öz değerlendirme formunu doldurmaları istenebilir.",
+    "AST.5.3.",
+    "Öğretmen; sıkıştırılmış toz içeceklerin, tempur köpüğünün kullanıldığı yastık ve bisiklet kasklarının, havadaki hastalık yapıcıların temizlenmesi için kullanılan sistemlerin görsellerini göstererek bu buluşlara ihtiyaç duyulmasının nedenleri üzerine sorular sorar ve öğrencilerde konu ile ilgili merak uyandırır. Öğrenciler öğretmenin rehberliğinde gruplara ayrılır ( SDB2.2 ). Grup üyeleri; uzay çalışmalarının haberleşme, güvenlik, tıp, eğitim, ulaşım, gıda, bilişim teknolojileri vb. alanlar üzerindeki etkilerini güvenli kaynaklardan araştırır ( OB1 ). Grupların araştırmalarından elde ettiği bulguları sınıfta diğer öğrencilerle paylaşmaları sağlanır. Öğrencilerin kendi gruplarının ve diğer grupların araştırma sonuçlarından yararlanarak uzay çalışmalarının toplum yaşamına etkileri hakkında tartışmaları sağlanır ( SDB2.1 ). Öğrenciler bu tartışmalar sonucunda uzay çalışmalarında kullanılmak üzere geliştirilen teknolojilerin günlük hayatta kullanımına ilişkin örüntü bulur ve uzay çalışmalarının hayatımıza etkileri hakkında genellemeler yapar ( E3.7 ). Öğrencilerden uzay çalışmalarının insanların günlük yaşam kalitesini nasıl arttırdığını ve bu çalışmalar sayesinde geliştirilen teknolojilerin önemini açıklayan kısa bir rapor hazırlayarak sunmaları istenebilir ( D20.3 ) . Öğrenmeler açık uçlu sorular ile değerlendirilebilir.",
+    "AST.5.4.",
+    "Uzayda kolonileşme ile ilgili yazılı, görsel veya dijital içerikler yardımıyla öğrencilerin beyin fırtınası veya tartışma yöntemi kullanması sağlanarak uzayda kolonileşme ihtiyacının olup olmadığı gerekçeleriyle öğrenciler tarafından belirlenir ( SDB2.1 , D14.1 ). Öğrenciler belirledikleri gerekçeler doğrultusunda uzay kolonilerinin kurulması ve sürdürülebilmesi için nelere ihtiyaç duyulacağını farklı bakış açılarını dikkate alarak belirler ve bir uzay kolonisi tasarlar ( E3.6 ). Öğrenciler güvenilir genel ağ kaynaklarından uzayda kolonileşmeyle ilgili avantaj ve dezavantajları, uzayda kolonileşmenin önündeki engelleri araştırır. Elde ettikleri bilgiler doğrultusunda uzay kolonilerinin sürdürülebilirliği için gerekli teknolojileri belirler ve bu bilgileri kendi ifadeleriyle nesnel olarak ve anlamı değiştirmeyecek şekilde ifade eder ( OB1 ). Performans görevi için öğrencilerden uzay kolonileşmesiyle ilgili çalışma yapan kurumları araştırarak konuyla ilgili haberleri de içeren bir poster, afiş vb. hazırlamaları istenebilir ( D3.3 ). Performans görevi öğretmen tarafından analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "AST.5.5.",
+    "Öğretmen “Evrende Dünya dışında yaşam var mıdır?” sorusunu sorarak konuya dikkat çeker. Öğretmen, öğrencilere Dünya dışı yaşam konulu film ya da belgesellerden kısa bölümler izleterek konuyu daha ilgi çekici hâle getirebilir. Öğrenciler öğretmenin rehberliğinde gruplara ayrılır. Grup üyelerinden Dünya dışı yaşamla ilgili merak ettiği konuları belirlemeleri ve bu konular ile ilgili sorular sormaları istenir ( E1.1 , E3.8 ). Öğrenciler sorularına cevap bulabilmek ve konu hakkındaki bilgilere ulaşabilmek için güvenilir farklı dijital kaynaklardan bilgi toplar ( SDB1.2 , OB1 , OB2 ). Her grup kendi içinde topladığı bilgilerin güvenirliği ve doğruluğu ile ilgili fikir alışverişinde bulunarak değerlendirme yapar ve araştırmalarıyla ilgili çalışmaları diğer gruplara sunar. Öğrencilerin kendi gruplarının ve diğer grupların araştırma sonuçlarından yararlanarak SETİ Projesi ve öte gezegen çalışmaları hakkında tartışmaları sağlanır ( SDB2.1 ). Öğrenciler bu tartışmalar sonucunda Dünya dışı yaşam olasılığı hakkında çıkarım yapar ( KB2.10 ). Öğrencilerden çıkarımlarını sanal pano ya da bülten panosuna kısa açıklamalar hâlinde yazmaları istenebilir. Öğrenciler öğrenme sürecini öğrenme günlüğüyle değerlendirir."
+  ],
+  "skills": [
+    "FBAB10.Tümevarımsal Akıl Yürütme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1633"
+}

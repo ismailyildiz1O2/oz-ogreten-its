@@ -1,0 +1,33 @@
+{
+  "unitId": 81424096,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "96. ÜNİTE: FOTOĞRAF - TEMEL FOTOĞRAF UYGULAMALARI",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.1.2.1",
+      "title": "Fotoğrafı kompozisyon kriterlerine ve teknik kriterlere göre inceler",
+      "processComponents": [
+        "Fotoğrafta 1/3 kuralı, bakış yönü, hareket yönü, ufuk çizgisi, bakış yüksekliği, kadraj yönü (yatay, dikey), kompozisyon (açık, kapalı), kompozisyonun ögeleri (ışık, ritim, uyum, kontrast, yalınlık, uygun an, perspektif, hız ve hareket) açıklanır. Fotoğrafın inceleneceği teknik kriterler (netlik, alan derinliği, doğru pozlama) belirtilir."
+      ]
+    },
+    {
+      "code": "GSA.1.2.2",
+      "title": "Doğal ve yapay ışıkta fotoğraf çeker",
+      "processComponents": [
+        "Fotoğraf çekerken dikkat edilmesi gereken durumlara değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

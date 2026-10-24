@@ -1,0 +1,38 @@
+{
+  "unitId": 1577,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY II · 3. Tema: Robotik Devre Tasarımı",
+  "hours": "22",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK2.3.1",
+      "title": "Çevrim dışı yazılım geliştirme ortamında robotik programlama sürecini yönetebilme",
+      "processComponents": [
+        "a) Çevrim dışı yazılım geliştirme ortamında robotik programlama sürecini planlar.",
+        "b) Çevrim dışı yazılım geliştirme ortamında robotik programı tasarlar.",
+        "c) Çevrim dışı yazılım geliştirme ortamında robotik programı oluşturur.",
+        "ç) Çevrim dışı yazılım geliştirme ortamında oluşturulan robotik programı değerlendirir."
+      ]
+    },
+    {
+      "code": "RK2.3.2",
+      "title": "Çevrim dışı yazılım geliştirme ortamında oluşturulan robotik programı test edebilme",
+      "processComponents": [
+        "a) Çevrim dışı yazılım geliştirme ortamında oluşturulan robotik programı test eder.",
+        "b) Çevrim dışı yazılım geliştirme ortamında oluşturulan robotik programı hataları ayıklayarak kullanıma hazır hâle getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "devre tasarımı, donanım tabanlı programlama, sensör",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB3.Yazılım Geliştirme (BTYAB3.3. Yazılım Geliştirme Sürecini Yönetme, BTYAB3.5. Test Etme-Hata Ayıklama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1577"
+}

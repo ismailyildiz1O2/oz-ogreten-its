@@ -1,0 +1,64 @@
+{
+  "unitId": 1122,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "3. TEMA: ÇALGIMI TANIYORUM (BAĞLAMA)",
+  "hours": "8",
+  "description": "Temanın içeriğini bağlama çalgısının tanımı, özellikleri ve sesi oluşturmaktadır. Bu doğrultuda öğrencilerin bağlama çalgısını tanımalarına dair belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.1.3.1",
+      "title": "Bağlamayı oluşturan bölümleri ve bağlamanın yapısını sınıflandırabilme",
+      "processComponents": [
+        "a) Bağlamanın bölümlerini ve yapısını belirler.",
+        "b) Bağlamanın bölümlerini ve yapısını ayırır.",
+        "c) Bağlamanın genel yapısını tasnif eder.",
+        "ç) Bağlamanın bölümlerini ve yapısını adlandırır."
+      ]
+    },
+    {
+      "code": "BAĞL.1.3.2",
+      "title": "Bağlamanın tel ve perde ilişkisi ile ilgili gözleme dayalı tahmin yapabilme",
+      "processComponents": [
+        "a) Bağlamadaki tel gruplarını ve perdeleri birbirleriyle ilişkilendirir.",
+        "b) Bağlamadaki perdelerin tel gruplarına göre basılarak üretildiği ses ile ilgili çıkarımlar yapar.",
+        "c) Bağlamadaki perdelerin ses oluşumları ile ilgili yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "perde, tel",
+  "support": [
+    "Bağlamanın yapısını görsel olarak kavramalarına yardımcı olmak için öğrencilere bağlamanın her bir bölümünü çizme görevi verilebilir. Öğrencilere çizimlerini grup arkadaşlarına tanıtarak her bölümün işlevini açıklama görevi de verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden bağlamayı diğer çalgılarla ilişkilendirerek yapısı bakımından telli ve perdeli olan enstrümanlardan örnekler vermeleri istenebilir. Öğrencilerin bağlamayı diğer telli enstrümanlarla (gitar, ud vb.) karşılaştırarak her birinin ses üretme mekanizmalarını ve müzikteki yerlerini fark etmeleri beklenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; performans görevi, gözlem formu, kontrol listesi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden bağlamanın bölümlerini tanıtan sunum yapmaları istenilebilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.1.3.1",
+    "Öğretmen, öğrencilerin ilgisini toplamak için sınıfa çeşitli müzik enstrümanlarının görsellerini ve ses kayıtlarını getirir ( OB4 ). Öğrencilerin grup iletişiminde bulunmaları için bağlamanın bir fotoğrafını gösterip \"Bu enstrüman hakkında neler biliyoruz?\" diye sorulabilir ( SDB2.1 ). Öğrencilerin birbirlerinin verecekleri yanıtları merak etmeleri sağlanır ( E.1.1 ). Öğrencilere bağlamanın gerçek bir örneği ya da modeli üzerinde gösterilir. Öğretmen bağlamanın her bir bölümünü (tekne, sap, burgular, teller, perdeler vb.) göstererek bunların isimlerini söyler ve bu kısımların işlevlerini açıklar ( SDB2.1 , OB1 ). Öğretmen öğrencilerin sırayla bağlamayı tutmalarını ve farklı bölümlerine dokunmalarını sağlar. Öğretmen, her bölümün farklı bir dokusu olduğunu vurgular ve öğrencilerden hissettikleri farkları paylaşmalarını ister ( D7.1 ). Bağlamanın farklı türlerini tanımak için görsel kartlarla bir oyun düzenlenebilir. Öğrenciler doğru cevabı verdikçe ilerler ( E2.5 ). Yapılan çalışmalar; etkileşimli oyunlar, gözlem formu, kontrol listesi gibi araçlar kullanılarak değerlendirilebilir.",
+    "BAĞL.1.3.2",
+    "Bağlamadaki tel sayısı ve tel grupları ile ilgili öğrencilere bilgi verilir. Bağlamada alt, orta ve üst tel gruplarının tel sayıları gözlem yoluyla öğrencilere anlatılır ( OB1 ). Öğretmen, bağlamada örnek eserler çalarak öğrencilerin bağlamadaki telleri ve sap üzerindeki perdelerin seslerini duymalarını sağlar. Öğrencilerin bu süreçte gerçekleştirdikleri gözlemleri önceki bilgileriyle ilişkilendirmeleri sağlanır. Tellerin perde üzerindeki ses değişimleri ile ilgili öğrencilerin düşüncelerini sorar. Örneğin \"Bağlamanın tellerine dokunduğunda nasıl bir ses çıktı?\" gibi sorularla öğrencilerin katılımı teşvik edilerek çıkarım yapmaları sağlanır ( SDB2.1 , SDB3.1 , D3.4 ). Öğrenciler, bağlamadaki tel sayıları ve perde seslerini keşfederek grup çalışmalarıyla öğrendiklerini arkadaşlarına sunar ve bilgi alışverişi yaparlar ( SDB2.1 )."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1122"
+}

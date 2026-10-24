@@ -1,0 +1,73 @@
+{
+  "unitId": 17,
+  "grade": 0,
+  "gradeName": "Genel",
+  "subject": "Matematik Dersi Hazirlik 3. TEMA: ALGORİTMA VE BİLİŞİM Teması",
+  "title": "3. TEMA: ALGORİTMA VE BİLİŞİM",
+  "hours": "26",
+  "description": "Bu temada öğrencilerin sonlu sayı örüntülerini genellemeleri ve şifreli metinleri çözebilmeleri için tümevarımsal akıl yürütebilmeleri, şifreli metinler oluşturmaları için analojik olarak akıl yürütebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.H.3.1",
+      "title": "Sonlu sayı örüntülerine yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Sonlu sayı örüntülerinin terimleri arasındaki ilişkileri gözlemler.",
+        "b) Sonlu sayı örüntülerinin terimleri arasındaki örüntüleri belirler.",
+        "c) Belirlediği ilişkileri sözel ve cebirsel olarak geneller. MAT.H.3.2. Şifreli metinleri çözebilmek için tümevarımsal akıl yürütebilme",
+        "a) Şifreli metinlerdeki ilişkileri gözlemler.",
+        "b) Şifreli metinlerdeki örüntüleri belirler.",
+        "c) Belirlediği örüntüleri sözel ve cebirsel olarak geneller. MAT.H.3.3. Şifreli metinler oluşturabilmek için analojik akıl yürütebilme",
+        "a) Farklı şifreleme yöntemlerini inceler.",
+        "b) İncelediği şifreleme yöntemlerinin niteliklerini tespit eder.",
+        "c) Benzerliklerden çıkarım yaparak yeni şifreler oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "anahtar, deşifre etme, sayı örüntüsü, şifreleme, şifre alfabesi, şifreli metin",
+  "support": [
+    "Şifre oluşturmayı veya oluşturulan şifreyi çözümlemeyi gerektiren durumlarda öğrencilerin bilgi ve beceri düzeylerine uygun, basit algoritmik işlemler içeren problem örnekleri tercih edilebilir. Öğrencilere farklı çevrim içi şifreleme uygulamaları kullandırılarak şifreleme örneklerini görmeleri ve kendilerinin de uygulamanın ilgili kısmında değişiklikler yaparak şifre oluşturmaları istenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilerden tarihte farklı zamanlarda kullanılan matematiksel bilgiye göre geliştirilmiş şifreleme araçlarını (Sezar çarkı, Enigma, SIGABA gibi) incelemeleri istenebilir. Bu araçlarda ve günümüzde kullanılan şifreleme yöntemlerinde yer alan matematiksel yapıyı belirlemeleri ve kendilerinin de farklı araç ya da şifreleme yöntemi geliştirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi, öz ve akran değerlendirme formları ile değerlendirilebilir.",
+    "Öğrencilere günlük hayattan sonlu sayı dizilerinin terimleri arasındaki ilişkileri sözel ve cebirsel olarak genelleyebileceği açık uçlu sorulardan oluşan çalışma kâğıdı verilebilir.",
+    "Şifrelemede kullanılan sayı örüntüsü ilişkilerinin ve bu sayı örüntülerinin genel terimlerinin cebirsel temsilinin bulunmasının istendiği çalışma kâğıdı hazırlanabilir. Çalışma kâğıdı, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Öğrencilere şifreli metin oluşturmaya yönelik bir performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınıf içi tartışmalar, öz ve akran değerlendirme formları kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.H.3.1 Gerçek yaşam durumlarına karşılık gelen bir örüntünün belli sayıda terimi verilir. Bu örüntüye göre örüntünün bir sonraki adımında hangi sayının gelebileceği ve bu sayının nasıl bulunabileceğiyle ilgili sınıf içi tartışmalar yapılır. Örneğin bir ayın ilk günü nöbete başlayan ve her 5 günde bir nöbet tutan bir kişinin 4. nöbetini ayın kaçıncı gününde tutacağı, belirli bir duraktan 15 dakikada bir geçen tramvayın gün içinde ilk kez saat 08.00'de bu duraktan geçtiği düşünüldüğünde aynı duraktan saat kaçta 6. kez geçeceği gibi gerçek yaşam durumları incelenir. Öğrenciler, problemin çözümü ile ilgili bireysel düşüncelerini sınıfta paylaşmaları konusunda teşvik edilir ( SDB2.1 ) . Farklı yapıdaki örüntüler verilerek örüntünün terimleri arasındaki ilişkiler (ortak fark, ortak çarpan, bir teriminin diğer terimler cinsinden ifade edilmesi gibi) hakkında çıkarımda bulunmaları için öğrencilere fırsat verilir. Çıkarımlar sonucunda örüntünün terimleri arasındaki ilişkilerin belirlenmesi sağlanır. Terimler arasındaki ilişkiler sözel ve cebirsel olarak genellenir ( MAB3 ) . Örneğin örüntünün ardışık terimleri arasındaki farkın ya da oranın sabit olduğu genellemesi yapılabilir. Sayı örüntülerinin bulunduğu çalışma kâğıtları dağıtılarak öğrencilerden örüntülerin genel terimlerini cebirsel olarak ifade etmeleri beklenir ( SDB1.2 ) . Çalışmanın zamanında ve eksiksiz yerine getirilmesi beklenir ( D16.3 ) .",
+    "MAT.H.3.2 Öğrencilerin kriptoloji bilimi hakkındaki bilgileri ve düşünceleri sorgulanır. Kriptoloji biliminin kullanıldığı alanlar ve önemi hakkında (devletlerin sırlarını şifreleyerek ulusal güvenliği korumak gibi) sınıf içi tartışma yapılır ( D19.4 , E1.1 ) .",
+    "Seçilen şifreli metinler harflerden, sembollerden veya sayılardan oluşur. Şifreli metinleri çözme (deşifre etme) problemlerinin çözümleriyle ilgili sınıf içi tartışma yapılır. Öğrencilerin problemlerin çözümleriyle ilgili önce bireysel olarak düşünmesine fırsat verilir ( MAB2 , SDB3.3 ) . Sonrasında öğrenciler kendi düşüncelerini paylaşmaları konusunda teşvik edilir ( SDB2.2 ) . Bu süreçte öğrencilerden şifreli metinlerdeki örüntüleri incelemeleri ve ardından deşifre etmeleri istenir. Örneğin alfabenin harfleri sıfırdan başlanarak numaralandırılıp belli bir kurala göre ileri ya da geri ötelenerek şifreli metinler elde edilebilir. Bu noktada alfabedeki harflerin şifrelenmesi sonucunda bir şifre alfabesinin oluştuğu gösterilir. Öğrencilerden farklı şifreli metinleri inceleyerek bu metinleri deşifre etmeleri istenir. Örneğin anahtar kullanılarak şifrelenen bir metnin nasıl deşifre edilebileceği incelenir. Sonrasında farklı yöntemlerle şifrelenmiş metinlerin nasıl deşifre edilebildiğine dair çıkarımlarda bulunmaları beklenir ( SDB3.3 , MAB1 ) . Harf, sayı, sembol ve şekillerden oluşan şifreli metin görselleri incelenerek şifreleme algoritmasının nasıl olabileceği üzerine tartışmalar yapılır ( OB4 ) . Şifreli metinlerin bulunduğu çalışma kâğıtları dağıtılarak öğrencilerin bu metinleri deşifre etmeleri beklenir. Şifreli metinlerin özellikle bilgisayar biliminde kullanımı üzerine tartışılır. Bu sayede verilerin gizliliğini teminat altına almada şifrelemenin önemli bir araç olduğu vurgulanarak kişisel verilerin mahremiyetini sağlamadaki önemi üzerinde durulur ( D8.2 ) . Öğrencilere şifrelemede kullanılan sayı örüntüsü ilişkilerinin ve bu sayı örüntülerinin genel terimlerinin cebirsel temsilinin bulunmasının istendiği çalışma kâğıdı verilebilir.",
+    "MAT.H.3.3 Önceden bilinen algoritmalara göre oluşturulmuş şifreli metinler incelenir. Bölme işleminden elde edilen kalana göre oluşturulan şifreleme örnekleri gibi farklı şifreleme yöntemleri kullanılan metinlerin incelenmesi sağlanır. Örneğin \"A, B, C, ... , Z, nokta, virgül, tırnak işareti, boşluk\" gibi 33 sembolden oluşan bir metinde harfler kodlanırken A harfi için 00, B harfi için 01, … , boşluk için 32 sayısı atanabilir. Harflere karşılık gelen her bir sayının 6 fazlasının 33'e bölümünden kalanların alfabedeki harf karşılıkları dikkate alınarak oluşturulmuş bir şifreleme örneği verilebilir. Sonrasında öğrencilerin şifreleme kurallarını incelemesi sağlanır. Yapılan incelemeler sonucunda şifreleme kurallarındaki nitelikler (şifrenin yazıldığı dilin alfabesindeki harflerin numara karşılıkları, ileri/geri kaç adım ötelendiği, en çok hangi harflerin kullanıldığı, hangi sayı eklenip hangi sayıya bölümden elde edilen kalanlara göre şifreleme yapıldığı gibi) tespit edilir. Bu süreçte sınıf içi tartışmalar yapılır. Bu tartışmalar yapılırken öğrencilerin düşüncelerini temellendirerek ifade etmeleri ve diğerlerinin düşüncelerini saygı çerçevesinde dinleyerek arkadaşlarıyla etkileşim kurmaları sağlanır ( D14.1 , SDB2.1 ) . Öğrencilerden tespit edilen özelliklere ilişkin çıkarımlar yapmaları beklenir ( MAB1 ) . Sonrasında öğrencilerden yeni şifreler oluşturmaları istenir. Bu süreçte gruplar oluşturularak öğrencilere şifreli metinler hazırlama ve birbirlerinin metinlerini deşifre etme esasına dayanan sınıf içi uygulamalar yaptırılır ( SDB2.2 ) . Uygulama sonrası öz değerlendirme ve grup değerlendirmeleri yapılabilir ( SDB1.2 ) . Gruplar, oluşturdukları şifreli metinleri mahremiyete dikkat ederek dijital ortamlarda birbirleriyle paylaşır ( OB2 ) . Öğrencilere şifreli metin oluşturmaya yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3",
+      "D19.4",
+      "D8.2"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "alan": [
+      "MAB1",
+      "MAB2",
+      "MAB3"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/17"
+}

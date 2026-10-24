@@ -1,0 +1,139 @@
+{
+  "unitId": 413,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+  "hours": "32",
+  "description": "Bu ünitede maddenin ayırt edici özelliklerinden genleşme ve büzülme ile erime, donma ve kaynama noktasına yönelik deneyler yapılması amaçlanmaktadır. Ayrıca tümdengelimsel akıl yürütülerek maddelerin yoğunluklarının hesaplanması ve maddenin hâllerine göre yoğunluklarının karşılaştırılarak bu durumun canlılar için önemi hakkında çıkarımlarda bulunulması amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Genleşme ve Büzülme",
+      "processComponents": []
+    },
+    {
+      "code": "FB.6.5.1.1",
+      "title": "Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Ön bilgi ve deneyimiyle maddelerin genleşip büzüleceğine yönelik önerme oluşturur.",
+        "b) Gözleme dayalı olan ve olmayan günlük yaşam ile ilişkili önermeleri karşılaştırır.",
+        "c) Tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Günlük yaşam ile ilişkili gözlemlenmemiş duruma ilişkin tahminde bulunur.",
+        "d) Tahminlerin geçerliğini sorgular. 2. Bölüm: Maddenin Hâl Değişim Noktaları"
+      ]
+    },
+    {
+      "code": "FB.6.5.2.1",
+      "title": "Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme",
+      "processComponents": [
+        "a) Maddelerin erime, donma ve kaynama noktasını gösteren deney tasarlar.",
+        "b) Deney ile ilgili ölçme ve veri analizi yapar. 3. Bölüm: Yoğunluk"
+      ]
+    },
+    {
+      "code": "FB.6.5.3.1",
+      "title": "Yoğunluğa ilişkin hesaplamalar yaparak bilimsel veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Yoğunluğa ilişkin verilere veya ön bilgilerine dayalı önerme oluşturur.",
+        "b) Yoğunluğa ilişkin veriye dayalı ve dayalı olmayan önermeleri karşılaştırır.",
+        "c) Yoğunluğa ilişkin hesaplama ve tahmin yapar.",
+        "ç) Tahminlerin geçerliğini sorgular."
+      ]
+    },
+    {
+      "code": "FB.6.5.3.2",
+      "title": "Deneyler sonucunda çeşitli maddelerin yoğunluklarına ilişkin tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) Çeşitli maddelerin yoğunluklarına ilişkin hipotezler kurarak test eder.",
+        "b) Geçerli hipotezleri yeni durumları açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "FB.6.5.3.3",
+      "title": "Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme",
+      "processComponents": [
+        "a) Suyun katı ve sıvı hâlleri ile ilgili nitelikleri açıklar.",
+        "b) Suyun katı ve sıvı hâllerine ait yoğunlukları ile ilgili topladığı verileri kaydeder.",
+        "c) Suyun katı ve sıvı hâllerine ait yoğunluk farkının canlılar için önemli olduğunu değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.6.5.3.4",
+      "title": "Yoğunluk ile ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Yoğunluk ile ilgili model önerir.",
+        "b) Yeni kanıtlarla modeli yeniler."
+      ]
+    }
+  ],
+  "keyConcepts": "genleşme, büzülme, erime noktası, donma noktası, kaynama noktası, yoğunluk",
+  "support": [
+    "Öğrencilerin maddelerin erime, donma ve kaynama noktasını gösteren bireysel öğrenmelerine olanak tanıyan animasyon, simülasyon gibi dijital öğrenme araçları uygulanabilir. Deney aşamaları için ek açıklamalar ve yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "Yaz ve kış mevsimlerinde ısı etkisinden kaynaklanan boyut değişikliklerinin köprüler, kuleler vb. yapılara zarar vermesinin önüne geçmek için mimarların ne tür unsurlara dikkat ettikleri ile ilgili okuma etkinlikleri verilebilir. Gemilerin insanlık için önemi ve yeni kıtaların keşfi gibi tarihte yaşanan ilginç olaylara yönelik bir araştırma ödevi verilebilir. Ulaşılan bilgiler sınıf ile paylaşılabilir. Termometre çeşitleri ve çalışma prensibi ile ilgili araştırma çalışması yapılabilir. Sıvılı termometrelerin kullanılamadığı durumlarda diğer termometre çeşitlerinin hangi amaçla kullanıldığına dair grupların birlikte araştırma yapmaları ve bir sıvılı termometre tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde kısa cevaplı test, doğru-yanlış testi, yazılı yoklama ve eşleştirme testi kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Farklı saf maddelerin erime, donma ve kaynama noktalarının birbirinden farklı olduğunu gösterme üzerine yapılan deneyler bütüncül dereceli puanlama anahtarları yoluyla değerlendirilebilir. Yoğunluk konusu ile ilgili kavram haritası hazırlamaları istenebilir. Kavram haritaları dereceli puanlama anahtarları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.6.5.1.1 Öğrencilere maddelerin ısı alışverişi sonucu hâl değiştirerek tanecikleri arasındaki mesafenin değiştiği hatırlatılır ( SDB1.1 ) . Maddelerin ısı etkisiyle her zaman hâl değiştirip değiştirmedikleri sorulur ( E3.8 ) . Hâl değiştirmediği durumlarda tanecikler arasındaki mesafe hakkında tahminlerde bulunmaları istenir ( OB1 , E3.4 ) . Maddelerin ısı alışverişi sonucu tanecikler arasındaki mesafenin az da olsa değişebileceği, buna bağlı olarak hacimsel büyüklüklerinde de değişiklikler olabileceğine değinilir. Öğrencilere maddenin ortak özelliklerinden birinin hacim olduğu ve hacmin maddenin boşlukta kapladığı yer olduğu hatırlatılır. Öğrencilerin bilimsel gözleme dayalı tahmin etmelerine yönelik etkinliklerde maddelerin ısınıp soğuması sonucu genleşip büzüleceğine ilişkin önermeler oluşturmaları beklenir ( OB1 ) . Günlük yaşamdan ortam sıcaklığının değişmesine bağlı olarak elektrik tellerinin veya tren raylarının uzayıp kısalması, kavanoz kapağının sıkışması, topun ve araç lastiğinin hacminin değişmesi, termometrenin içindeki sıvının yükselip alçalması, gözlük camının düşmesi vb. örnekler verilir. Sıcak ve soğuk su dolu kaplara ağız kısmına balon takılmış boş cam şişeleri daldırılabilir. Balonlardaki hacim değişiklikleri karşılaştırılabilir. Balonların üzerine gülen yüz çizilerek öğrenme süreci eğlenceli hâle getirilebilir ( E2.5 ) . Gravzant halkası deneyi ile kürenin halkadan geçiş durumları incelenebilir. Öğrencilerin örnekler ve etkinliklerden elde ettikleri gözlemlere göre ısı alan maddelerin genleşebileceği, ısı veren maddelerin ise büzülebileceği sonucunu çıkarmaları beklenir ( OB1 , OB4 ) . Kalabalık sınıflarda öğrenciler gruplara ayrılabilir. Bu süreçte, iş birlikli öğrenme teknikleri kullanılarak sorumluluklar verilen öğrencilerin birlikte çalışmaları sağlanabilir. Öğrencilerin etkinliğin yapılması sürecinde karşılaştıkları her türlü olumsuzluk, engel ve zorluğu yılmaksızın aşmaları beklenir ( E1.3 , D12.1 , SDB3.2 ) . Grup içinde aktif rol almaları ve ekip arkadaşları ile yardımlaşmaları istenir ( D20.2 , SDB2.2 ) . Öğrencilerin sınıfta yapılan etkinlikler sonunda duygu ve düşüncelerini paylaşmaları istenir ( SDB2.1 ) . Günlük yaşamdan gözlemlenmemiş durumlara ilişkin kayaların günlük sıcaklık farkından kaynaklanan etkiler sonucunda ufalanarak çöl kumlarına dönüşmesi, rayların bozulmaması için aralarına boşluk bırakılması, termostatlarda sıcaklık kontrolünün sağlanması, binaların metal iskeletlerinde esneme payı bırakılması vb. örnekler verilir. Örneklerden yola çıkarak ısı etkisiyle maddelerin genleşip büzülebileceğine yönelik tahminlerde bulunması istenir ( OB1 ) . Maddelerin diğer maddelerden farklı olduğunu anlamaya yarayan özelliklerin maddenin ayırt edici özellikleri olduğu vurgulanır. Eşit uzunluktaki farklı saf katı çubukların eşit süre özdeş ısıtıcılarla ısıtılması durumunda genleşme miktarlarının farklı olacağından bahsedilerek genleşmenin saf maddeler için ayırt edici bir özellik olduğuna değinilir. Örnek olarak farklı cinslerde metal çiftlerine ısı verilerek genleşme miktarlarını gözlemeleri istenir ( SDB1.2 ) . Deney sonunda öğrencilerin oluşturdukları ölçütlere göre sorgulama yapmaları ve ulaştıkları çıkarımları yansıtmaları beklenir ( OB1 , OB4 ) . Yazılı yoklama, eşleştirme soruları ile öğrencilerin genleşme ve büzülmeyle ilgili öğrenmeleri yoklanabilir.",
+    "FB.6.5.2.1 Öğrencilere maddenin tanecikli yapısı ile ilgili açık uçlu sorular yöneltilebilir. Maddenin tanecikli yapısını farklı materyaller kullanarak modellemeleri sağlanır ( OB1 ) . Aynı ya da farklı renkteki toplar vb. materyaller kullanılarak element, bileşik ve karışım kavramlarına girilmeden saf ve saf olmayan maddeler açıklanır. Saf ve saf olmayan maddelerin her ikisinin de taneciklerden oluştuğunu keşfetmeleri sağlanır ( OB1 ) . Öğrencilerden suyun erime, donma ve kaynama noktasını gösteren doğrulama deneyi yapabilmeleri istenir. Öğrencilerden, farklı saf maddelerin erime, donma ve kaynama noktalarının birbirinden farklı olduğunu gösterecek deney düzeneği kurmaları beklenir ( SDB1.2 ) . Alternatif bir uygulama olarak konu ile ilgili dijital içerik ve videolar ile birlikte sanal laboratuvarlardan faydalanılabilir ( OB2 ) . Bu süreçte, iş birlikli öğrenme tekniklerinden takım-oyun-turnuva, öğrenci takımları başarı bölümleri vb. kullanılarak öğrencilere sorumluluklar verilip birlikte çalışmaları sağlanır ( SDB2.2 , D4.2 ) . Deney düzeneği kurarken öğrencilerin farklı saf maddeleri (parafin, buz, vb.) kullanmaları sağlanabilir. Katı maddelere ısı verildiğinde erimeye başladıkları anda oluşan sıvının sıcaklığı termometre ile ölçülerek not etmeleri istenir. Farklı saf maddelerin ısı aldığında farklı sıcaklıklarda eridiği çıkarımına ulaştırılır ve farklı saf maddelere ait erime noktası örnekleri de verilerek tablo oluşturmaları istenir ( OB7 ) . Eriyen bu maddeler soğutularak donma noktaları da karşılaştırılır ve aynı saf maddenin erime ve donma noktalarının birbirine eşit olduğu vurgulanır. Benzer deneyde, sıvılara uygulanan ısıtma işlemine devam edilerek kaynama noktalarına ulaşmaları sağlanır. Kaynama noktasının da ayırt edici bir özellik olduğunu fark etmeleri beklenir ( E1.4 , E3.6 , E3.7 ) . Elde edilen veriler, TGA veya V diyagramı gibi teknikler kullanılarak raporlaştırılabilir. Deney boyunca birbirlerinin performanslarını değerlendirmede akran değerlendirme formu kullanılabilir. Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( D6.2 , D1.2 ) . Deney sürecinde öğrenci raporları analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir.. Sonuç değerlendirme için doğru-yanlış testleri, kısa cevaplı testler vb.kullanılabilir.",
+    "FB.6.5.3.1 Kütle ve hacim ile ilgili hazır bulunuşluk düzeylerini belirlemek için açık uçlu sorularyöneltilebilir ( SDB2.1 ) . Bu süreçte cisimlerin kütle ve hacimlerini ölçebilecekleri araçlartanıtılır ve ölçüm birimleri belirtilir. Öğrenciler gruplara ayrılarak malzemeler dağıtılır ( SDB2.2 ) . Silgi, anahtarlık, misket, koni, silindir, küp, taş vb. maddelerin eşit kollu terazide kütlesi ölçülerek kaydedilir. Kütle birimi olarak gram (g) kullanılır. Hacim ölçümünde sıvı maddeler için dereceli silindir ve birim olarak santimetreküp (cm3) kullanılır. İçi su dolu dereceli silindire suda çözünmeyen silgi, anahtarlık, misket, koni, silindir, küp, taş vb. cisimler atılarak yükselen sıvı seviyesinin cismin hacmi olduğu belirtilir. Suda çözünmeyen katıların hacmi bulunurken katı cismin dereceli silindire sığabilmesine ve su seviyesinin taşmayacak şekilde olmasına dikkat edilir. Hacim hesaplamasında basit bir deney yaptırılabilir. Öğrencilerin dereceli silindiri belirli seviyeye kadar su doldurması sağlanır. İçerisine bırakılan katı cisim sonrası sıvı seviyesinde yükselme olduğunu gözlemlemeleri sağlanır. Son hacim ile ilk hacim farkını almaları sağlanarak bu hacmin katı cisme ait olduğu olduğu belirtilir. Bu konuda taşırma kabı da kullanılabilir. Öğrencilerin taşırma kabını tamamen suyla doldurması sağlanır. Kabın içerisine bırakılan katı cisim sonrası taşan suyun başka bir kapta toplanması sağlanır. Taşan su dereceli silindire boşaltılarak hacmini gözlemeleri sağlanır. Elde edilen hacmin katı cismin hacmine ait olduğu belirtilir ( KB2.16 ) . Saf bir maddenin kütlesi arttıkça hacminin de aynı oranda artacağı belirtilerek yoğunluk kavramı açıklanır. Farklı saf maddelerin yoğunlukları ile ilgili önermeler oluşturmaları istenir. Farklı maddelerin yoğunluğuna ilişkin veriye dayalı önermeleri karşılaştırmaları sağlanır ( OB1 ) . Eşit kollu terazi ve dereceli silindirden elde edilen verileri kullanarak öğrencilerden farklı maddelerin yoğunluklarını hesaplamaları istenir. Bu süreçte maddenin yoğunluğunun hesaplanmasında kütlenin hacim ile oranlanması tümdengelimsel olarak verilir. Farklı maddelerin yoğunlukları hesaplatılarak kütle-hacim-yoğunluk tabloları oluşturarak analiz etmeleri istenir ( OB7 ) . Aynı sıvıların farklı miktarları alınarak öğrencilere yoğunluk karşılaştırması yaptırılır. Öğrencilerin aynı cins saf maddelerin yoğunluklarının birbiri ile aynı olduğunu tahmin etmeleri istenir. Farklı saf maddelerin yoğunluklarının farklı olduğu önermesi ile yoğunluğun maddenin ayırt edici özelliklerinden biri olduğuna değinilir. Tahminlerinin geçerliğini elde ettiği sonuçlarla karşılaştırarak sorgular. Etkinlik bitiminde kullandıkları malzemeleri ve ortamı düzenli ve temiz tutmaları istenir ( D18.2 ) . Öğrencilerin çalışma yaprakları dereceli puanlama anahtarları ile değerlendirilebilir.",
+    "FB.6.5.3.2 Gruplara ayrılan öğrencilerden çeşitli maddelerin yoğunluklarına ilişkin hipotezler kurmaları istenir ( SDB2.2 ) . Bu süreçte buluş yoluyla öğretim stratejisi kullanılarak öğrencilerin farklı maddelerin birbiri ile etkileşimlerini keşfetmeleri sağlanabilir. Bu süreçte sıvı-sıvı, sıvı-katı maddelerin kullanıldığı yoğunluk kıyaslamaları ile öğrencilerin betimleme yapmaları istenebilir. Farklı örneklerle karşılaştırma yapmaları beklenir ( OB1 ) . Örneğin \"Farklı cins saf maddelerin yoğunlukları da farklıdır.\" hipotezini test etmek için eşit hacimdeki farklı cins sıvıların kütleleri ölçülerek sıvıların yoğunluklarını karşılaştırmaları istenir ( KB2.16 ) . Birbiri içinde karışmayan su ve zeytinyağı gibi sıvıları aynı kaba koyarak hesaplamalarının doğruluğunun somut olarak görülmesi sağlanır ( OB7 ) . Deneyde kullanılan sıvı yağların lavaboya dökülmemesi konusunda öğrenciler uyarılır ( D5.2 ) . Kullanılmış sıvı yağların çevre kirliliğine neden olmaması için ilgili kuruluşlara verilerek geri dönüşümün sağlanabileceğine değinilir ( SDB2.3 , E2.2 ) . Suyun kaldırma kuvvetine girilmeden öğrencilere suda çözünmeyen farklı katı maddelerin suya atılması durumunda nasıl konumlanacaklarını tahmin etmeleri istenir ( E3.4 ) . Örneğin tahta parçası, silgi, taş, misket vb. maddeler su içerisine atılarak batma, askıda kalma, yüzme durumları gözlenir. Katı maddelerin sıvı içerisindeki konumları göz önünde bulundurularak yoğunluklarını karşılaştırmaları beklenir. Farklı saf maddelere ait bilimsel olarak hesaplanmış yoğunluk tabloları kullanılarak öğrencilerin geliştirdikleri hipotezleri açıklamaları istenir ( OB1 , D3.3 ) . Öğrencilerden yoğunluk konusu ile ilgili kavram haritası vb. çizmeleri istenebilir. Öğrenci çizimleri analitik dereceli puanlama anahtarları kullanılarak değerlendirilebilir.",
+    "FB.6.5.3.3 Öğrencilere günlük yaşamdan kışın hava sıcaklığının çok düşmesi durumunda su borusunun neden patladığı, dondurucuya konulan maden suyu şişesinin donduğunda neden patladığı vb. sorular yöneltilir ( E1.1 ) . Suyun katı ve sıvı hâllerine ait niteliklerin gözlemlenerek algılanması için deney yaptırılabilir ( OB4 ) . Bir bardağa belli bir seviyeye kadar su doldurularak su seviyesi işaretlenir ve derin dondurucuya konulur. Su tamamen donduğunda su seviyesi yeniden gözlenir ve suyun katı hâlinin belirlenen çizginin üstüne çıktığını gözlemlemeleri sağlanır ( SDB3.1 ) . Daha önce öğrendikleri yoğunluk hesaplamasından yararlanarak buzun ve suyun yoğunluklarını hesaplamaları ve verileri kaydetmeleri beklenir ( KB2.4 , OB1 ) . Bir bardak içerisine atılan buzun yüzdüğü gözletilerekbuzun yoğunluğunun suyun yoğunluğundan az olduğu sonucuna ulaşmaları beklenebilir. Suyun yüzeyinden donmaya başladığı dijital içeriklerden yararlanılarak öğrencilere gösterilebilir ( OB2 ) . Dünya'nın büyük bir kısmının göl, deniz, okyanus gibi sulardan oluştuğu ve buralarda çok sayıda canlı çeşidinin yaşadığı vurgulanır. Buz ile suyun yoğunluklarının farklı olmasının sularda yaşayan canlıları nasıl etkileyebileceği sorulabilir ve öğrencilerin beyin fırtınası tekniği yapmaları sağlanabilir ( E3.4 ) . Öğrencilerin \"Buzlanmanın su yüzeyinde olmasının su derinliklerinde sıcaklığın belli bir düzeyde kalmasını sağladığı ve böylece canlıların yaşamlarını sürdürebildiği\" değerlendirmesine ulaşmaları beklenir ( OB1 ) . Öğrencilerden çalışma yapraklarında suyun, katı ve sıvı hâllerine ait yoğunluk farkının canlılar için önemini kendi cümleleri ile açıklamaları istenebilir veya vızıltı grupları oluşturularak küçük öğrenci gruplarının konu üzerinde belirli bir süre tartışmaları sağlanabilir ( D14.1 ) . Öğrencilerin çalışma yaprakları dereceli puanlama anahtarları iledeğerlendirilebilir.",
+    "FB.6.5.3.4 Bir mühendislik ve tasarım uygulaması olarak öğrencilerden suda yüzen bir taka (tekne) yapmaları beklenebilir. Taka yapımı etkinliği ile sadece eğlenceli bir etkinlik değil, aynı zamanda günlük yaşamda karşılaştıkları olaylara yönelik öğrencilerin yaratıcı çözümler üretmeleri sağlanır ( E2.3 , OB1 ) . Bu etkinlikte aynı zamanda öğrenciler Karadeniz'in fırtınalı coğrafyasına dayanıklı bir tasarım olarak \"taka\"yı keşfedeceklerdir. \"Üç Tarafı Denizlerle Çevrili Türkiye'm\" adlı bir metin üzerinden Türkiye'nin coğrafi konumundan dolayı üç tarafının denizlerle çevrili olduğu vurgulanırken Piri Reis, Çaka Bey, Barbaros Hayrettin Paşa gibi birçok Türk denizcisinin olduğu açıklanır. Bunun yanında \"Mavi Vatan\" vurgusu yapılabilir. Kültürümüzde önemli bir yer tutan ve kendinden sonraki araştırmalara öncü olan \"Piri Reis'in dünya haritası\"ndan kısaca bahsedilir ( D19.2 , OB5 ) . Bu etkinlikte kolayca temin edilebilecek malzemelerle teknenin taşıyabileceği yük miktarı ile teknenin şekli ve hacmi arasında bağlantı kurmaları istenir. Günlük yaşamdan kolay ulaşılabilir maddeler sağlanarak öğrenciler iş birlikli öğrenme gruplarına ayrılır. Mühendislik ve tasarım süreci boyunca öğrencilerin yaratıcı model oluşturmaları için hayal kurmaları, hipotezler üretmeleri, plan yapmaları, tasarım oluşturmaları, tasarımlarını deneyip yeniden geliştirmeleri ve tasarımlarını sunmaları beklenir ( E3.3 , E3.11 , D3.2 ) . Öğrencilerin süreci bilimsel olarak yürütmelerine yönelik yoğunluk kavramının nelere bağlı olduğu ile ilgili yönlendirmeler yapılır ( D3.3 ) . Bu süreçte bir madenî paranın batarken metalden yapılan devasa bir geminin nasıl yüzebildiği gibi sorular sorulur ( KB2.13 ) . Aynı amaç için geliştirilmiş diğer öğrenci modelleri ile geliştirilen modeli karşılaştırarak alınan geri bildirimlere göre tasarımlarını yeniden geliştirmeleri sağlanır ( OB7 ) . Geliştirilen tasarımları, öğrencilerin birbirleriyle paylaşmaları istenir ( SDB2.1 ) . Geliştirilen öğrenci modelleri analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D12.1",
+      "D14.1",
+      "D18.2",
+      "D19.2",
+      "D20.2",
+      "D3.2",
+      "D3.3",
+      "D4.2",
+      "D5.2",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E1.4",
+      "E2.2",
+      "E2.3",
+      "E2.5",
+      "E3.11",
+      "E3.3",
+      "E3.4",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.16",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/413"
+}

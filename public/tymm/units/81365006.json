@@ -1,0 +1,82 @@
+{
+  "unitId": 81365006,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ekonomi Dersi",
+  "title": "6. ÜNİTE: TÜRKİYE'NİN GENEL EKONOMİK SORUNLARI",
+  "hours": "10",
+  "description": "Bu ünitede öğrencilerin ilk beş ünitede edindikleri kazanımlar ışığında; işsizlik, gelir dağılımı bozukluğu, dış borçlar, çevresel sorunlar gibi Türkiye'nin temel ekonomik problemlerini tanımaları; bu problemlerin çözümü konusunda duyarlılık kazanmaları ve çözüm yolları geliştirmeleri hedeflenmiştir.",
+  "outcomes": [
+    {
+      "code": "EKO.6.1",
+      "title": "Türkiye'nin genel ekonomik sorunlarını sıralar",
+      "processComponents": [
+        "Türkiye'nin genel ekonomik sorunları ile ilgili öğrencilere bireysel proje çalışması verilebilir. 4. ünitedeki “enflasyon” konusuyla ilişkilendirilir. 3. ünitedeki “işsizlik” konusuyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.6.2",
+      "title": "Türkiye'de enflasyonun ekonomiye etkilerini örneklerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.6.3",
+      "title": "Türkiye'de işsizliğin ekonomiye etkilerini örneklendirir",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.6.4",
+      "title": "Türkiye'de verim düşüklüğü ile millî gelir arasındaki ilişkiyi belirtir",
+      "processComponents": [
+        "1.ünitedeki “Türkiye'nin ekonomik kaynakları” ve “Türkiye'nin ana sektörleri” konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.6.5",
+      "title": "Türkiye'de verim düşüklüğünün ekonomik faaliyetlere etkilerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.6.6",
+      "title": "Türkiye'de gelir dağılımı bozukluğunun nedenlerini sıralayarak çözüm önerileri geliştirir",
+      "processComponents": [
+        "3.ünitedeki “millî gelir” konusu ile ilişkilendirilir. 5. ünitedeki Ödemeler Dengesi konusuyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.6.7",
+      "title": "Türkiye'de ödemeler dengesi sorunlarının yıllara göre seyrini karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.6.8",
+      "title": "Türkiye ekonomisinde yaşanan belli başlı ekonomik krizleri kronolojik olarak sıralar",
+      "processComponents": [
+        "Ülke ekonomisini zaman içerisinde krize götüren nedenler vurgulanır."
+      ]
+    },
+    {
+      "code": "EKO.6.9",
+      "title": "Çevre kirliliği ve küresel ısınma sorunlarına karşı duyarlı olur",
+      "processComponents": [
+        "Çevrenin korunması konusunda bilinç, duyarlılık vb. davranışlar kazandırılmaya çalışılır.",
+        "Coğrafya dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.6.10",
+      "title": "Sürdürülebilir gelişme kavramını örneklerle açıklar",
+      "processComponents": [
+        "Coğrafya dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163132505-Ekonomi.pdf"
+}

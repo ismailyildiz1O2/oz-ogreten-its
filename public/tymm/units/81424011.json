@@ -1,0 +1,36 @@
+{
+  "unitId": 81424011,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "11. ÜNİTE: KEMAN - KEMAN ÇALMADA TEMEL UNSURLAR",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.2.1.1",
+      "title": "Kemanda doğru tutuş tekniğini gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.2.1.2",
+      "title": "Yayda doğru tutuş tekniğini gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.2.1.3",
+      "title": "Boş teller üzerinde yay çalışmaları yapar",
+      "processComponents": [
+        "Yayın boş teller üzerinde eşit baskılı uygulanmasına ve ritmik çalışmalar yapılmasına dikkat edilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

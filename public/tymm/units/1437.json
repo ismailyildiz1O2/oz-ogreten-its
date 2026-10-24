@@ -1,0 +1,74 @@
+{
+  "unitId": 1437,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "1. ÜNİTE: TEKNOLOJİ VE TASARIM ÖĞRENİYORUM",
+  "hours": "4",
+  "description": "Birinci ünitede öğrencilerin teknoloji ve tasarım kavramları ile bu kavramlar arasındaki ilişkileri öğrenmeleri ayrıca günlük hayatta karşılaştıkları sorunların çözümlerinde teknoloji ve tasarımda öğrendiklerini kullanabilmeleri amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.7.1.1",
+      "title": "Teknoloji ve tasarım ile ilişkili kavramları sorgulayabilme",
+      "processComponents": [
+        "a) Buluş, icat, keşif, bilim, teknik, tasarım, teknoloji, endüstri, STEAM, endüstri 4.0, 5.0, yapay zekâ, mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım kavramlarını tanımlar.",
+        "b) Buluş, icat, keşif, bilim, teknik, tasarım, teknoloji, endüstri, STEAM, endüstri 4.0, 5.0, yapay zekâ, mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım kavramları hakkında sorular sorar.",
+        "c) Buluş, icat, keşif, bilim, teknik, tasarım, teknoloji, endüstri, STEAM, endüstri 4.0, 5.0, yapay zekâ, mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım kavramları hakkında bilgi toplar.",
+        "ç) Buluş, icat, keşif, bilim, teknik, tasarım, teknoloji, endüstri, STEAM, endüstri 4.0, 5.0, yapay zekâ, mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım kavramları hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Buluş, icat, keşif, bilim, teknik, tasarım, teknoloji, endüstri, STEAM, endüstri 4.0, 5.0, yapay zekâ, mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım kavramları hakkında topladığı bilgilerden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TT.7.1.2",
+      "title": "Teknoloji ve tasarım arasındaki ilişkiyi çözümleyebilme",
+      "processComponents": [
+        "a) Mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım ürünleri üzerinde teknoloji ve tasarıma ilişkin parçaları belirler.",
+        "b) Mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım ürünleri üzerinde teknoloji ve tasarıma ilişkin parçalar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "TT.7.1.3",
+      "title": "Teknoloji ve tasarım ürünlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Teknoloji ve tasarım ürünlerinin günlük yaşam üzerindeki etkilerini belirler.",
+        "b) Teknoloji ve tasarım ürünlerinin benzerliklerini listeler.",
+        "c) Teknoloji ve tasarım ürünlerinin farklılıkarını listeler."
+      ]
+    },
+    {
+      "code": "TT.7.1.4",
+      "title": "Çevresindeki teknoloji ve tasarım gelişmelerini değerlendirebilme",
+      "processComponents": [
+        "a) Çevrelerindeki günlük tüketim malzemeleri, ulaşım, lojistik, iş stratejisi, yazılım geliştirme veya mimari gibi alanlarda karşılaşılan problemleri değerlendirmek için ölçütler belirler.",
+        "b) Belirlenen ölçütlere dayanarak seçilen problem/ürün üzerine ölçme yapar.",
+        "c) Ölçme sonuçlarını belirlediği ölçütlerle karşılaştırır.",
+        "ç) Karşılaştırmalarına ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "bilim, buluş, endüstri, endüstri 4.0, endüstri 5.0, endüstriyel tasarım, grafik, icat, keşif, mimari-çevre tasarımı, STEAM, tasarım, teknik, teknoloji, yapay zekâ",
+  "support": [
+    "Bir icadın serüvenini anlamalarını sağlamak için belgesel film izletilebilir. Bu belgesel üzerinden bilim insanlarının yaşamı ve çalışmalarını gözlemleyerek ve tartışarak anlamaları sağlanabilir.",
+    "Bilim insanlarının çalışmalarını anlatan öyküler okutulabilir. Örneğin TÜBİTAK Bilim ve Çocuk Dergisi'nin dijital basılı yayınlardan yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden buluş, icat, keşif, bilim, teknik, teknoloji, endüstri, STEAM, endüstri 4.0, en düstri 5.0 ve yapay zekâ kavramlarını içeren kelime bulmaca, çengel bulmaca vb. oyunlar geliştirmeleri istenebilir.",
+    "Öğrencilerden teknolojinin hayata etkisini anlatan bir poster tasarımı yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Akvaryum tekniği ile öğrencilerin kavramları kavram haritasında göstermeleri, kavramlar arası ilişkiyi ortaya koymaları ve kendi anladıkları biçimde ifade etmeleri istenebilir. Öğrenciler incelenen ürünlerin teknik, boyut, malzeme vb. yönünden benzerlik ve farklılıklarını belirlemeleri ve bir kontrol listesi veya karşılaştırma tablosunda göstermeleri istenebilir.",
+    "Öğrencilerden bir ürünü teknoloji ve tasarım bakımından gözlemlemeleri ve günlük yaşamdaki etkilerini (olumlu-olumsuz vb. özellikleri) belirlemeleri için gözlem formu kullanılabilir. Öğrencilerin problem tespiti ve çözüm süreçlerini anlamaları için problem çözme döngüsü oluşturulabilir. Öğrencilerin enerji tüketimi, çevresel etki, geri dönüşüm oranı gibi hususlara dair elde ettikleri farkındalık sonrasında hayatlarında oluşabilecek değişiklikleri anlattıkları kompozisyonlar performans görevi olarak verilebilir. Bunlar öğretmen tarafından hazırlanan rubrikle değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TT.7.1.1.",
+    "Öğretmen sınıfa buluş, icat, keşif, bilim, teknik, tasarım, teknoloji, endüstri, STEAM, en düstri 4.0, 5.0, yapay zekâ, mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım kavramlarını içeren görseller, videolar veya diğer materyaller getirir. Öğrencilerin bu içerikleri incelemesi ve izlemesi sağlanır (OB4). Bu aşamada içeriklere bağlı olarak öğrenci lerin bu kavramları tanımlaması hedeflenir. Öğrenciler inceleme sürecinde bu kavramlarla ilgili sorular sorar. Örneğin bu kavramların tarihsel gelişimi, birbiriyle ilişkisi veya güncel örneklerle bağlantısını sağlamak için güncel teknoloji haberleri sınıfta paylaşılabilir, yenilikçi tasarım örnekleri tanıtılabilir veya endüstri eğilimleri hakkında bilgilendirici sunumlar yapılabilir (D3.3). Öğrencilerden bu kavramlar hakkında araştırma yapmaları istenir. Toplanacak bilgilerin, farklı ve güvenilir kaynaklardan elde edilmesi sağlanır (D3.3). Toplanan bilgiler, öğrenciler tarafından eleştirel bir bakış açısıyla değerlendirilir. Öğrencilerin bilgilerin doğruluğunu sorgulaması (E1.1, E3.2, E3.4) , farklı bakış açılarını analiz etmesi ve güvenilir kaynakları ayırt etmesi için çeşitli etkinlikler düzenlenir. Örneğin medya haberlerinin doğruluğu analiz edilebilir, bilimsel kaynaklar ile popüler medyanın yaklaşımı karşılaştırılarak güvenilir ve doğru bilgiyi ayırt etmesi beklenir. Ayrıca elde ettiği bilgiyi eleştirel bir bakış açısıyla değerlendirmesi sağlanır (D3.3). Öğrenciler bu bilgiler yoluyla bilginin güvenilirliğini değerlendirir, farklı bakış açılarını analiz eder ve doğru bilgiye ulaşma yöntemleri hakkında çıkarım yapar. Kavramlar arasındaki ilişkileri, benzerlikleri ve farklılıkları belirlemek için karşılaştırma tabloları, zihin haritaları kullanarak analiz eder ve anlamlandırır.",
+    "TT.7.1.2.",
+    "Öğrencilerden mimari-çevre tasarımı, grafik tasarım ve endüstriyel tasarım ürünlerine ait görselleri tartışma, soru-cevap, drama gibi etkinliklerle incelemeleri istenir (OB4). İnceleme sırasında ürünlerin teknik, boyut ve malzeme yönünden teknoloji ve tasarım özellik lerini belirlemeleri sağlanır. Bu görseller üzerinden öğrencilerin tasarım kavramını sözel olarak ifade etmeleri istenir. Gösterilen tasarım ürünlerini edindikleri bilgiler doğrultusunda detaylı bir şekilde incelemeleri beklenir. Öğrencilerin inceledikleri tasarım ürünlerini kendileri tekrar tasarlayacak olsa neleri farklı yapacaklarını, ürünün hangi kısımlarını değiştireceklerini gerekçeleri ile birlikte ifade etmeleri istenebilir (SDB3.3). Öğrenciler incelenen ürünlerin teknik, boyut ve malzeme yönünden benzerlik ve farklılıklarını belirler ve bir tabloda gösterir (OB7).",
+    "TT.7.1.3.",
+    "Öğretmen sınıfa endüstriyel tasarım (sandalye), grafik tasarım (afiş) ve İstanbul Havalimanı hava trafik kontrol kulesi maketi ya da görseli gibi mimari-çevre tasarımı ürünlerinden örnekler getirir. Öğrencilerden bu ürünlerden birini seçerek teknoloji ve tasarım bakımından gözlemlemeleri ve günlük yaşamdaki etkilerini (olumlu-olumsuz vb. özellikleri) belirlemeleri istenir (OB4). Ülkesinin kalkınmasını ve gelişmesini destekler davranışı kazandırmak için öğretmen, örneğin İstanbul Havalimanı hava trafik kontrol kulesinin Türkiye'nin teknolojik gücünü ve uluslararası ulaşım kapasitesini nasıl artırdığını analiz ederek öğrencilerin bu katkıyı somut verilerle açıklamalarını sağlar (D19.4). Öğrencilerin estetik değerlerin sanat ve doğada önemli bir yere sahip olduğunu fark etmeleri teşvik edilir (D7.1). Aynı zamanda, öğrencilerin teknoloji ve tasarım ürünlerinin canlıların yaşamına yaptığı katkıları ve olumsuz etkilerini gerçek yaşam senaryoları ile fark etmeleri beklenir. Bu farkındalık sürecinde öğrencilerden bu etkilere ilişkin benzerlikleri listelemesi ve defterlerine not etmeleri istenir. Öğrencilerin doğayı ve canlıları koruma bilinci geliştirmeleri amacıyla bu ürünlerin çevresel etkileri üzerinde düşünmeleri sağlanır (D14.3). Ürünlerin üretim ve kullanım sürecinde doğaya olan etkileri üzerine tartışmalar yapılır, sürdürülebilirlik ve çevre koruma konularında teknoloji ve tasarım ürünlerinin farklılıklarını listelemeleri istenir.",
+    "TT.7.1.4.",
+    "Öğrencilerden çevredeki günlük tüketim malzemeleri ile ulaşım, lojistik, iş stratejisi, yazılım geliştirme, mimari vb. alanlardan birinde yaşanan problemleri beyin fırtınası yöntemi ile tespit etmeleri istenir (SDB3.3). Tespit ettikleri problemleri değerlendirmek için enerji tüketimi, çevresel etki, geri dönüşüm oranı gibi hususlara dair ölçütler belirlemeleri beklenir. Bu aşamada sürdürülebilirlik odaklı sorular yöneltilerek öğrenciler çevresel etkileri göz önünde bulundurmaları konusunda teşvik edilir (D5.2). Öğrenciler belirledikleri ölçütlere dayanarak tespit ettikleri problem veya ürünü değerlendirir ve bu değerlendirme sonuçlarını belirledikleri ölçütlerle karşılaştırır (SDB2.3). Örneğin plastik ambalajların enerji tüketimi, karbon salınımı gibi etkilerini inceleyerek alternatif ürünlerle karşılaştırma yapabilirler. Öğrenciler yaptıkları karşılaştırmalar üzerinden yargılarda bulunur ve fikirlerini sunar. Bu süreçte empati kurma ve toplumsal sorunlara duyarlılık geliştirme amacıyla grup tartış maları yapılarak öğrencilerin sorumluluk bilinci desteklenir (D5.1). Bu etkinliğin sonunda performans görevi olarak öğrencilerden elde ettikleri farkındalık sonucunda bundan sonraki hayatlarında hangi davranışlarını değiştireceklerini anlatan bir kompozisyon yazmaları istenebilir. Yazılan kompozisyonlar öğretmen tarafından hazırlanan rubrikle değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1437"
+}

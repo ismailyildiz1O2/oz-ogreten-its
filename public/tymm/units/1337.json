@@ -1,0 +1,48 @@
+{
+  "unitId": 1337,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "1. TEMA: PİYANODA ORTA DO POZİSYONU",
+  "hours": "20",
+  "description": "Temada öğrencilere sağ ve sol elde orta do konumunda 5 parmak notayı çalma becerisinin kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.3.1.1",
+      "title": "Sağ ve sol elde orta do pozisyonunda 5 parmak nota çalabilme",
+      "processComponents": [
+        "a) Sağ ve sol elde orta do konumunda 5 parmak notanın yer aldığı eseri çözümler.",
+        "b) Sağ ve sol elde orta do konumunda 5 parmak notayı çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Sağ ve sol elde orta do konumunda 5 parmak notayı çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Sağ ve sol elde orta do konumunda 5 parmak notayı ezgisel yapıya uygun çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "nota, piyano",
+  "support": [
+    "Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir. Sağ ve sol elde orta do pozisyonunda nota çalımında öğretmen rehberliği artırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Sağ ve sol elde önce ayrı ayrı, daha sonra aynı anda olmak üzere çeşitli eserler ile süreç pekiştirilebilir. Önce sol elden 5. parmaktan başlanarak sağ el 5. parmağa kadar çıkıcı, daha sonra aynı şekilde inici diziler uygulanabilir."
+  ],
+  "assessment": [
+    "Performans görevi olarak öğrenciden sağ ve sol el için öğretilen parmak numaralarını doğru şekilde kullanarak basit bir egzersizi veya kısa bir melodiyi ritmik ve dinamik ifadelerle birlikte çalması istenebilir. Öğrenme çıktılarının değerlendirilmesinde gözlem formu ve dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "PYN.3.1.1",
+    "Öğretmen öğrencilere piyanonun klavye yapısını tanıtarak orta do notasının yerini ve parmak numaralarını öğretir. Sağ elde do, re, mi, fa, ve sol notaları; sol elde do, si, la, so, fa notaları sırasıyla öğretilmelidir. Öğrenciler parmak hareketlerinin rahat ve esnek olmasına dikkat eder ( SDB1.3 ). Öğrenciden çalacağı eseri çözümlemesi istenir. Öğrenci duruş ve tutuş pozisyonunu sürekli kontrol eder. Öğrencilere parmak numaralarını doğru şekilde takip ederek basit egzersizler ve kısa melodiler çalmaları için rehberlik edilir. Öğrenciler, zamanla bu teknikleri ritmik ve dinamik ifadelerle birleştirerek çalgıya özgü teknik ile daha öz güvenli bir şekilde müzik bileşenlerine uygun çalar ( SDB1.2 , E1.5 , D3.4 ). Performans görevi olarak öğrenciden sağ ve sol el için öğretilen parmak numaralarını doğru şekilde kullanarak basit bir etüdü veya kısa bir melodiyi ritmik ve dinamik ifadelerle birlikte çalması istenir. Öğrenci piyanoyu çalarken parmak numaralarını takip ettiğini ve nota adlarını tanıdığını gösterecek şekilde performansını sesli ya da yazılı olarak açıklayabilir. Bu öğrenme çıktısı, öz değerlendirme formu ve dereceli puanlama anahtarı kullanılarak ölçülebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1337"
+}

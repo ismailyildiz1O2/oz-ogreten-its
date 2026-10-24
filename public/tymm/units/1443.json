@@ -1,0 +1,86 @@
+{
+  "unitId": 1443,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "7. ÜNİTE: ENERJİNİN DÖNÜŞÜMÜ VE TASARIM",
+  "hours": "8",
+  "description": "Yedinci ünitede enerji kavramı, enerjinin korunumu yasası ve evrendeki enerji dönüşümlerinin ne olduğunun sorgulanması, bu dönüşümlerin insanlık faydasına kullanımının yanı sıra enerji verimliliği, fosil yakıtlarının çevreye verdiği zararların farkına varılması ve yenilenebilir enerji kaynaklarından nasıl faydalanılabileceğine ilişkin araştırma yapılması amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.7.7.1",
+      "title": "Enerji kavramı, enerji kaynakları, türleri ve dönüşümleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Enerji kavramı, enerji kaynakları, türleri ve dönüşümleri hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Enerji kavramı, enerji kaynakları, türleri ve dönüşümleri hakkında bilgileri bulur.",
+        "c) Enerji kavramı, enerji kaynakları, türleri ve dönüşümleri hakkında bulduğu bilgileri doğrular.",
+        "ç) Enerji kavramı, enerji kaynakları, türleri ve dönüşümleri hakkında bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "TT.7.7.2",
+      "title": "Enerjinin dönüşümünün ve korunumunun doğa ve insan hayatına etkisi üzerine tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Enerji dönüşümlerinin ve korunumunun, doğanın ve makinelerin işleyişindeki örüntüsünü bulur.",
+        "b) Doğanın ve makinelerin işleyişindeki enerji dönüşümü ve korunumunun rolü hakkında genelleme yapar."
+      ]
+    },
+    {
+      "code": "TT.7.7.3",
+      "title": "Yenilenebilir ve yenilenemez enerji kaynaklarını sınıflandırabilme",
+      "processComponents": [
+        "a) Yenilenebilir ve yenilenemez enerji kaynaklarının ölçütlerini belirler.",
+        "b) Yenilenebilir ve yenilenemez enerji kaynaklarını birbirinden ayırır.",
+        "c) Yenilenebilir ve yenilenemez enerji kaynaklarının kendi içinde tasnif eder.",
+        "ç) Yenilenebilir ve yenilenemez enerji kaynaklarını alanlarına göre etiketler."
+      ]
+    },
+    {
+      "code": "TT.7.7.4",
+      "title": "Yenilenemez enerji kaynakları kullanımının dünyaya etkisini gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Yenilenemez enerji kaynaklarının kullanımı ile küresel ısınma arasındaki ilişkiyi kurar.",
+        "b) Küresel ısınmanın dünyaya olan etkileri hakkında çıkarım yapar.",
+        "c) Küresel ısınmanın yaşam üzerinde oluşturacağı değişim hakkında yargıda bulunur."
+      ]
+    },
+    {
+      "code": "TT.7.7.5",
+      "title": "Yenilenebilir enerji kaynakları kullanılarak enerji elde edilebilen bir ürün taslağı oluşturabilme",
+      "processComponents": [
+        "a) Tasarımında kullanmak istediği yenilenebilir enerji kaynağını belirler.",
+        "b) Mevcut yenilenebilir enerji ürün ve sistemlerini inceler.",
+        "c) Yenilenebilir enerji kaynağından faydalanarak tasarlayacağı ürüne dair fikirler geliştirir.",
+        "ç) Yenilenebilir enerji kaynağından faydalanarak tasarlayacağı ürünün eskiz çizimlerini yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "ekoloji, geri dönüşüm, küresel ısınma, sürdürülebilirlik, tasarım süreci.",
+  "support": [
+    "Küresel iklim değişiklikleri ve etkileri hakkında belgesel, video vb. yayınlar izletilebilir.",
+    "Grupla yapılacak çalışmalar için görev dağılımda öğrencilerin ilgi ve ihtiyaçlarına göre planlamalar yapılabilir.",
+    "Özgün olarak yapılacak çalışmalarda düzenli ve yapıcı geri bildirimler daha sık aralıklarla verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden Mars gezegeninde bir yaşam olduğunu düşünmeleri, burada yerleşim yerleri oluşturulduğu, bu oluşturulan yerleşim yerlerinin enerji ihtiyacının nasıl karşılanacağını düşünmeleri ve öneri geliştirmeleri istenebilir.",
+    "Öğrencilerden fabrika ve ev bacalarından, otomobil egzozlarından atılan ısı enerjileri gibi atıl durumda olan enerjilerden faydalanmanın yollarını araştırmaları istenebilir."
+  ],
+  "assessment": [
+    "Performans görevi olarak öğrencilerden ünite boyunca yaptığı gözlem notları, araştırma raporu, veri tabloları, eskiz/tasarım geliştirme adımları ve sunum çıktılarından oluşan bir \"süreç dosyası\" hazırlaması istenebilir. Dosyada her aşama için kısa yansıtma notu (ne yaptım–neden yaptım–ne öğrendim–ne değiştirirdim) bulunması beklenebilir.",
+    "Süreç dosyası dereceli puanlama anahtarı ile değerlendirilebilir ayrıca ürün değerlendirmede proje öneri değerlendirme, eser-ürün analizi ve akran/performans değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "TT.7.7.1.",
+    "Öğrencilerden enerji hakkında tartışma yapmaları istenir. Örnek olay çerçevesinde \"Enerji nedir?\", \"Enerji hayatta nasıl bir rol oynar?\", \"İnsanlar niçin beslenir?\", \"Kış geldiğinde ha valar niçin soğur?\" gibi açık uçlu sorularla öğrencilerin enerjiye olan ilgisi artırılabilir (E1.1, KB2.2, OB1). Enerji ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri istenir (SDB1.1). Bu araçlar dijital içerikler, yazılı ve görsel kaynaklar vb. olabilir. Öğrencilerden okul kütüphanesi, bilgisayar laboratuvarı gibi ortamlarda araştırma yaparak enerji kaynakları ve enerji türleri hakkında bilgi toplamaları beklenir (OB1). Ulaştıkları bilgilerin doğruluğunu arkadaşlarıyla karşılaştırarak doğrulamaları sağlanır (SDB2.1, E3.4). Öğrencilerin doğruladıkları bilgileri raporlaştırmaları istenebilir. Öğrencilerin edindikleri bilgileri eleştirel bakış açısıyla değerlendirmeleri için bir bilginin doğruluğunu sorgulamaları, farklı kaynaklardan gelen bilgileri karşılaştırmaları ve çelişkili ifadeleri analiz etmeleri sağlanır. Örneğin bir öğrenci yenilenebilir enerji kaynaklarının çevresel etkilerini incelerken yalnızca olumlu yönlerini değil enerji üretim süreçlerinde ortaya çıkabilecek olumsuz etkileri de tartışarak konuyu çok yönlü ele alabilir (D3.3).",
+    "TT.7.7.2.",
+    "Öğrencilerden enerji kaynaklarının nasıl oluştuğu hakkındaki mevcut bilgi ve düşüncelerini paylaşmaları istenir. Sonrasında öğrencilere konuya dair video, çizgi film izletilebilir veya sunum yapılabilir. Öğrenciler izlenen içeriklerden bu enerjilerin birbirine nasıl dönüştüğüne dair noktaları not alır (OB4). Çevre gözlemi yaparak günlük hayatta karşılaşılan enerji kaynakları, türleri ve dönüşümleriyle ilgili örnekler verir (E1.2). Öğrencilerin doğayı korumaya önem vermeleri için enerji dönüşümlerinin çevre üzerindeki etkilerini gözlemlemeleri ve doğayla uyumlu enerji kullanım yöntemleri üzerine düşünmeleri sağlanır. Örneğin rüzgâr enerjisinin fosil yakıtlara kıyasla daha sürdürülebilir bir seçenek olduğunu fark ederek yenilenebilir enerji kaynaklarının yaygınlaştırılması gerektiğini tartışabilirler (D9.3). Sonrasında ekosistemdeki enerji dönüşümünü (güneş enerjisinin bitkilerde kimyasal enerjiye dönüşmesi, bitkilerin büyümesi ve canlılar tarafından tüketilmesi vb.) araştırarak enerji kaynaklarının oluşumuna etki eden ortak ve farklı yönlerini karşılaştırır (OB1). Isı, ışık, hareket gibi enerji türlerinin doğada nasıl dönüşüm geçirdiği ve ayrıca insanların bu enerji türlerine dönüştürmek için hangi teknolojileri kullandıklarına dair örnekler vermeleri beklenir. Öğrencilerden doğada ve insan yapımı makinelerde gözlemledikleri enerji dönüşümleri hakkında örüntüler bulmaları beklenir. Bulmuş oldukları bu örüntülerden yola çıkarak enerjinin yok olmadığı, bir türden başka bir türe dönüştüğü ve korunduğu, bunun da doğadaki düzenin işleyişinin temel olgusu olduğuna yönelik bir genelleme yapmaları beklenir (OB1, E3.7).",
+    "TT.7.7.3.",
+    "Bir enerji kaynağını yenilenebilir veya yenilenemez yapan ölçütleri belirlemek için öğrencilerle soru cevap, beyin fırtınası vb. yöntemler uygulanır (SDB2.1). Bu ölçütler belirlendikten sonra öğrenciler istasyon çalışması yapmak üzere gruplara ayrılır. Birinci istasyonda öğrenciler önlerine karışık bir şekilde konulan farklı enerji kaynaklarını yenilenebilir ve yenilenemez enerji kaynakları olarak ikiye ayırır. İkinci istasyonda yenilenebilir enerji kaynaklarını kendi içinde tasnif etmeleri beklenir. Öğrencilerin gruplar hâlinde çalışma becerisi sergilemeleri için her gruptaki öğrencinin her istasyonda belirli roller üstlenmeleri ve iş birliği içinde karar almaları sağlanır (SDB2.2). Örneğin bir öğrenci kaynakların sınıflandırılmasında liderlik yaparken bir diğeri araştırdığı bilgileri grup arkadaşlarına açıklayarak tartışmanın yönlendirilmesine katkıda bulunabilir (D3.4). Üçüncü istasyonda ise öğrenciler bu enerji kaynaklarından ne şekilde faydalanıldığı hususunda (rüzgâr enerjisi ile yelkenli gemilerin, yel değirmenlerinin ve elektrik üreten rüzgâr türbinlerinin hareket etmesi vb.) bu enerji kaynaklarını etiketler (OB8).",
+    "TT.7.7.4.",
+    "Öğrencilere sera gazları ve küresel iklim değişiklikleri hakkında yenilenemez enerji kaynaklarının çevresel etkilerini içeren belgesel izletilir (OB4). İzleme sırasında öğrencilerden \"Küresel ısınmaya neden olan enerji kaynakları nelerdir?\", \"Bu durumun çevre ve yaşam üzerindeki etkileri neler olabilir?\" vb. sorulara cevap aramaları beklenir. Öğrenciler üç gruba ayrılır. Birinci gruptan yenilenemez enerji kaynaklarının kullanımı ile küresel ısınma arasındaki ilişki hakkında poster oluşturmaları, ikinci gruptaki öğrencilerden küresel ısınmanın dünyaya olan etkileri ile ilgili slogan yazmaları beklenir (OB4, SDB1.2). Yazılan sloganların deniz, okyanus, ve akarsularla, tarım arazileriyle, yağmur ormanlarıyla, mercan resifleriyle vb. farklı ekolojik bölgelerle ilintili olması beklenir. Üçüncü gruptaki öğrencilerden ise yenilenemez enerji kaynaklarının kullanılmaya devam edilmesi durumunda 100 yıl sonra nasıl bir dünyada yaşanacağını tahmin etmeleri istenir (SDB2.1, SDB2.2, D3.4). Bu öğrencilerden küresel ısınma ve iklim değişikliğinin etkilerinin yoğun bir şekilde hissedildiği bir gelecekte, 100 yıl sonraki bir günü tasvir eden bir kompozisyon yazmaları beklenir (SDB2.3). Bu kompozisyonda sabah uyanmalarından gece yatacakları ana kadar geçen sürede yaşadıklarını, çevre koşullarını ve günlük yaşamın zorluklarını hayal ederek aktarmaları istenir (E2.2, E2.3, D5.2). Yapılan bu çalışmalar sınıf ortamında sunulduktan sonra akran değerlendirme formları ile değerlendirilebilir.",
+    "TT.7.7.5.",
+    "Öğrenciler gerçekleştirdikleri etkinliklerden elde ettikleri bilgilere dayanarak bir ürün tasarlamak için güneş, rüzgâr, hidroelektrik, jeotermal veya biyokütle gibi yenilenebilir enerji türlerinden birini seçerler (SDB1.1). Seçimlerinin ardındaki kullanım alanı, etkinlik, sürdürülebilirlik gibi sebepleri not alırlar. Öğrenciler seçtikleri enerji kaynağı hakkında kısa bir araştırma yaparak bu kaynağın özelliklerini ve kullanım alanlarını açıklarlar (OB1). Öğrencilerin seçtikleri yenilenebilir enerji kaynağıyla ilgili güneş panelleri, rüzgâr türbinleri, hidroelektrik jeneratörleri gibi mevcut enerji ürünlerini araştırmaları beklenir. Bu araştırma sırasında ürünlerin nasıl çalıştığını, hangi alanlarda kullanıldığını, avantajlarını ve sınırlılıklarını incelerler (SDB1.2). Yazılı materyaller, videolar veya internet üzerinden araştırma yapmaları istenir (OB1). Öğrencilerin bilimsel gelişimi takip etmeleri için yenilenebilir enerji alanındaki güncel teknolojileri ve inovatif çözümleri incelemeleri teşvik edilir. Örneğin rüzgâr enerjisinden daha verimli yararlanmak için geliştirilen dikey eksenli türbinler ya da güneş enerjisini depolamak için kullanılan yeni nesil batarya sistemleri hakkında araştırma yaparak projelerine yenilikçi yaklaşımlar ekleyebilirler (D3.3). Öğrenciler araştırdıkları yenilenebilir enerji ürünlerinden ilham alarak tasarım fikirlerini geliştirirler. Bu fikirler güneş enerjisiyle çalışan bir taşınabilir şarj cihazı, rüzgâr enerjisiyle çalışan bir su arıtma cihazı, biyokütle ile çalışan bir elektrik üretim sistemi gibi günlük yaşamda kullanılabilecek, enerji dönüşümünü sağlayacak bir cihaz veya sistem olabilir. Öğrencilerin ürünlerinin nasıl çalıştığını, hangi parçaları içerdiğini ve çevreye nasıl fayda sağlayacağını düşünmeleri beklenir. Bu aşamada her öğrencinin bireysel olarak özgün ürün fikirlerini geliştirebilmesine olanak sağlanır (SDB3.2). Geliştirmeyi düşündüğü ürünün eskiz çizimlerini yapmaları beklenir (E3.6, TSRMAB1.2). Eskizlerde ürünün işlevselliğini, enerji dönüşüm süreci ve kullanım şeklini açıkça gösterir. Öğrenciler bu çizimlerde enerji kaynağını nasıl kullanacaklarını ve ürünün nasıl çalışacağını basit ve net bir şekilde ifade eder (OB8). Her öğrenci geliştirdiği ürünün tasarımını ve nasıl çalıştığını açıklayan bir sunum yapar (SDB2.1). Ayrıca ürünlerinin çevresel etkileri hakkında kısa bir değerlendirme yaparlar. Bu aşamada öğrenciler birbirlerinin fikirlerine katkıda bulunarak daha sürdürülebilir ve verimli ürün önerileri geliştirebilirler (E3.5). Bunun yanında sunum yapan öğrencilere arkadaşlarının fikirlerini belirterek katkıda bulunmasının kendisini nasıl hissettirdiği sorulabilir (SDB1.1). Öğrencilerin farklı bakış açılarına açık olmaları için sunum sırasında arkadaşlarının önerilerini dikkate alarak tasarımlarını geliştirmeleri teşvik edilir (SDB2.3). Öğrencilerin tasarımları öğretmen tarafından ürün değerlendirme formu ile değerlendirilir, her öğrencinin tasarım sürecindeki güçlü yönleri ve gelişim alanları vurgulanır. Bu çalışmanın yeniden yapılması durumunda öğrencilerin kendi çalışmalarında neleri farklı yapacaklarını, süreci yeniden nasıl şekillendireceklerini, hangi aşamalarda değişiklik yapacaklarını ifade etmeleri sağlanır (SDB.1.2, SDB3.3). Performans görevi olarak öğrencinin ünite kapsamında hazırlamış olduğu gözlem, araştırma raporu, tasarım geliştirme ve sunuları içeren bir süreç dosyası oluşturması istenebilir. Bu dosya, süreç değerlendirme formu yardımıyla değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1443"
+}

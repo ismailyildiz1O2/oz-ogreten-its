@@ -1,0 +1,107 @@
+{
+  "unitId": 593,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "2. TEMA: MÜZİK KÜLTÜRÜ",
+  "hours": "36",
+  "description": "Bu temada Batı müziğinin gelişim sürecinin neden ve sonuçlarıyla yorumlanabilmesi, müzik türlerinin karşılaştırılabilmesi, marşların, şarkıların ve türkülerin müziksel söylenebilmesi, yaşanılan şehrin müzik etkinliklerinin sorgulanabilmesi ve mesleki yönelimde müzik kariyerinin gözlemlenebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.11.2.1",
+      "title": "Batı müziğinin gelişim sürecini neden ve sonuçlarıyla yorumlayabilme",
+      "processComponents": [
+        "a) Batı müziğinin gelişim sürecine neden olan unsurları inceler.",
+        "b) Batı müziğinin gelişim sürecinin etkilediği unsurları inceler.",
+        "c) Batı müziğinin gelişim sürecinin etkilerinin niteliğini sorgular.",
+        "ç) Batı müziğinin gelişim sürecinin nedenlerini ve sonuçlarını bağlamından kopmadan yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MÜZ.11.2.2",
+      "title": "Müzik türlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Müzik türlerine ilişkin özellikleri belirler.",
+        "b) Müzik türlerinin özelliklerine ilişkin benzerlikleri listeler.",
+        "c) Müzik türlerinin özelliklerine ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "MÜZ.11.2.3",
+      "title": "Marşları, şarkıları ve türküleri müziksel söyleyebilme",
+      "processComponents": [
+        "a) Marşları, şarkıları ve türküleri seslendirmeden önce bedenini söylemeye hazır hâle getirir.",
+        "b) Marşları, şarkıları ve türküleri söylerken uygun teknikleri kullanır.",
+        "c) Marşları, şarkıları ve türküleri söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.11.2.4",
+      "title": "Yaşanılan şehrin müzik etkinliklerini sorgulayabilme",
+      "processComponents": [
+        "a) Yaşanılan şehrin müzik etkinliklerini tanımlar.",
+        "b) Yaşanılan şehrin müzik etkinlikleri hakkında sorular sorar.",
+        "c) Yaşanılan şehrin müzik etkinlikleri hakkında bilgi toplar.",
+        "ç) Yaşanılan şehrin müzik etkinlikleri hakkında toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Yaşanılan şehrin müzik etkinlikleri hakkında toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MÜZ.11.2.5",
+      "title": "Mesleki yönelimde müzik kariyerini gözlemleyebilme",
+      "processComponents": [
+        "a) Mesleki yönelimde müzik kariyeri ile ilgili ölçüt belirler.",
+        "b) Mesleki yönelimde müzik kariyeri ile ilgili veri toplar.",
+        "c) Mesleki yönelimde müzik kariyeri ile ilgili verileri sınıflandırır ve kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "müzik kariyeri, müzik teknolojisi, sanatçı, sanat eseri",
+  "support": [
+    "Öğrencilerin müzik alanındaki meslekleri listelemeleri istenebilir. Yaşadıkları şehirde bulundukları ay içinde gerçekleştirilecek müzik etkinliklerini araştırıp içerikleri hakkında arkadaşlarını bilgilendirmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Müzik kariyeri yapmış profesyonel kişilerle röportaj yapılması istenebilir. Yapılan röportaj sunum yöntemi ile yansıtılabilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; çalışma yaprağı, karşılaştırma tablosu, kontrol listesi, öğrenme günlüğü ve öz değerlendirme formu kullanılarak izlenebilir. Performans görevi kullanılarak değerlendirilebilir.",
+    "Batı müziğinin gelişim sürecini neden ve sonuçlarıyla yorumlama ile ilgili öğrenmeler, çalışma yaprağı üzerinden izlenebilir. Müzik türlerindeki benzerlik ve farklılıkların belirlenmesine yönelik öğrenmelerin izlenmesinde karşılaştırma tablosu kullanılabilir. Marşların, şarkıların ve türkülerin müziksel söylenmesi değerlendirilirken kontrol listesi kullanılabilir. Yaşanılan şehrin müzik etkinlikleri sorgulanırken öğrenme günlüğünden yararlanılabilir. Mesleki yönelimde müzik kariyeri gözlemlenirken öz değerlendirme formundan yararlanılabilir.",
+    "Performans görevi olarak öğrencilerin bulundukları şehirdeki bir Batı müziği etkinliğine katılarak gözlemlerini yansıtmak amacıyla sunum yapmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.11.2.1. Öğrencilerin dünya tarihindeki önemli toplumsal gelişmelerden hangilerini bildikleri ve bu gelişmelerin müzik üzerindeki etkileri sorularak keşfetme duygularını harekete geçirmeleri sağlanır ( E1.1 ). Batı müziğinin gelişim sürecini etkileyen tarihsel, kültürel, siyasi ve teknolojik etkenleri tarih disiplininden faydalanarak incelemeleri istenir ( OB5 ). Müzik eserlerinin kayıt altına alınması ve çoğaltılması, estetik unsurların ve armoninin gelişmesi, çok sesliliğin yaygınlaşması, yeni akımların oluşması, müzik formları, çalgılardaki gelişim süreci, dönemler ve dönem bestecilerinin stilleri gibi Batı müziğinin gelişim sürecinin etkilediği unsurları incelemeleri istenir. Batı müziğinin gelişim sürecinin etkileri, tarihsel, toplumsal, kültürel ve teknolojik bağlamda sorgulanarak, toplumsal normlar hakkında bir anlayış geliştirmeleri beklenir ( SDB2.3 , D3.3 ). Bu süreçte soru-cevap tekniği kullanılabilir. Öğrencilerin Batı müziğinin gelişim sürecinin nedenlerini ve sonuçlarını bağlamından kopmadan özetleyerek yeniden ifade etmeleri sağlanır. Batı müziğinin gelişim sürecine yönelik öğrenmeler çalışma yaprağıyla izlenebilir.",
+    "MÜZ.11.2.2. Türk müziği, Batı müziği, etnik müzik, popüler müzik gibi türlerden çeşitli müzikler dijital/teknolojik araçlar aracılığıyla dinletilir. Öğrencilerin her bir türün tarihsel süreçteki gelişimi, ritmik yapıları, formları gibi ayırt edici özellikleri ile bu müzik türlerinde kullanılan çalgıları belirlemeleri istenir ( OB1 ). Günlük hayatta karşılaştıkları müziklerin türlerini ayırt etmeleri beklenir. Müzik türlerini ayırt ederken hangi duygu ve düşünceleri yaşadıklarını fark etmeleri beklenir ( SDB1.1 ). Dinledikleri müzik türlerinin benzerliklerini ve farklılıklarını istelemeleri istenir. Bu süreçte araştırma tekniği kullanılabilir. Öğrencilerin düşünce ve ifade özgürlüklerini kullanarak bağımsız bir müzik zevki oluşturmaları beklenir ( E1.2 ). Müzik türlerini estetik bir bakış açısıyla inceleyerek sanat ve sanatçı kavramlarıyla ilgili çıkarımlarda bulunmaları sağlanır ( D7.2 ). Müzik türlerini karşılaştırmaya yönelik öğrenmeler karşılaştırma tablosuyla izlenebilir.",
+    "MÜZ.11.2.3. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, nefes ve ses egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır. Öğrencilere belirli gün ve haftalarda seslendirilen marşlardan hangilerini bildikleri ve bu marşların bıraktığı etkiler hakkında açık uçlu sorular sorulur. Vatan ve bayrak sevgisini, millî birlik ve beraberliği, Atatürk sevgisini, kahramanlığı ve bağımsızlığı konu alan görseller tahtaya dijital/teknolojik araçlar aracılığıyla yansıtılabilir. Bu süreçte T.C. İnkılap tarihi ve Atatürkçülük disiplininden faydalanılabilir. Öğretilecek eserin türkü olması durumunda, öğrencilerin bildikleri ya da yaşadıkları şehre ait türkülerden örnekler vermeleri istenir. Kültürel çeşitliliğin müziklere yansımalarına dikkat çekilerek farklı kültürlere, kendisine ve çevresine önem vermenin ve saygı göstermenin gerekliliğine değinilir ( D14.3 , OB5 ). Halk kültürünün türkülere yansıması vurgulanır. Türk halk müziğine yönelik farkındalık oluşturmak amacıyla farklı yörelerden türküler dinletilir ( SAB9 ). Türk müziği bilinci oluşturmak için Türk sanat müziği alanında iz bırakan bestekârların ve güftekârların eserleri seçilir. Öğrencilerin seçilen türlerdeki eserleri toplu söylerken uygun teknikleri kullanmaları ve müziksel bileşenleri uygulamaları istenir. Bu süreçte kulaktan şarkı öğretim yöntemi kullanılabilir. Öğrencilerin kendi ülkelerinin müzik türlerinden farklı eserler seslendirerek dönemin sosyokültürel yapısı ve toplumsal normlar hakkında anlayış geliştirmeleri beklenir ( SDB2.3 ). Çeşitli türlerden eserlerin öğretilmesi ve seslendirilmesiyle öğrencilerin geniş bir arşive sahip olmaları sağlanır. Oluşturulan bu arşiv sayesinde, her eseri seslendirdiklerinde kendi yeteneklerine ve kapasitelerine güvenmeleri hedeflenir ( E1.5 ). Marşları, şarkıları ve türküleri müziksel söylemeye yönelik öğrenmeler kontrol listesiyle izlenebilir.",
+    "MÜZ.11.2.4. Öğrencilerin yaşadıkları şehirdeki müzik etkinliklerini nitelik ve nicelikleri açısından sorgulamaları istenir. Müzik etkinliklerini kültürel farkındalık, sanatsal gelişim, toplumsal katılım, toplumsal ve kültürel değişim bağlamında incelemeleri istenir. Bu süreçte tartışma yöntemi kullanılabilir. Tartışma sürecinde kendisine, içinde yaşadığı topluma, kültürel zenginliklere verilmesi gereken değerlere dikkat çekilerek toplumsal normlar hakkında bir anlayış geliştirmeleri sağlanır ( D5.1 , SDB2.3 ). Öğrencilerin yaşadıkları şehrin müzik etkinliklerini tanımlamaları istenir. Yaptıkları tanımlamalara dair anlama ihtiyacına yönelik sorular sormaları ve bu sorular hakkında bilgi toplamaları istenir ( E3.8 ). Toplanan bilgilerin doğruluğunu ve kaynakların güvenilirliğini kontrol etme, birden fazla kaynaktan doğrulama yapma, doğruluğun kontrolü için iletişime geçme, detaylı araştırma ve karşılaştırma yapma, güncelliğini kontrol etme gibi yöntemlerle değerlendirmeleri istenir. Toplanan bilgilerden elde edilen verilere göre öğrencilerin belirli bir müzik türünün/sanatçının popülerliği, belirli mekânlarda düzenlenen etkinliklerin katılımcı profili, belirli bir zaman diliminde yapılan etkinliklerin sıklığı ve çeşitliliği üzerine çıkarım yapmaları istenir. Öğrenciler, kültürün sürdürülebilmesi amacıyla yaşadığı şehirde gerçekleştirilen müzik etkinliklerine katılmaya teşvik edilir ( OB5 ). Yaşanılan şehrin müzik etkinliklerini sorgulamaya yönelik öğrenmeler öğrenme günlüğüyle izlenebilir.",
+    "MÜZ.11.2.5. Öğrencilerin müzik kariyerine sahip olmak için hangi becerilerin gerektiğine dair fikirleri sorularak ölçüt belirlemeleri istenir. Müzik alanı ile ilgili bildikleri mesleklerin ne olduğu sorularak bunları listelemeleri istenir. Müzik alanında profesyonel eğitim veren kurumlar anlatılır. Öğrencilerden, yaşadıkları şehirdeki örgün müzik eğitim kurumlarını kişisel gelişimlerini desteklemek ve görev bilincine sahip olmak amacıyla gözlemleyerek veri toplamaları istenir ( D16.3 ). Müzik öğretmenliği, bestecilik/kompozitörlük, müzikologluk, yorumculuk, orkestra/koro şefliği gibi meslekler anlatılır. Bu meslek gruplarının ülkemizdeki temsilcilerinden bahsedilir. Öğrencilerin karşılaştıkları meslekler hakkında fikir alışverişinde bulunarak toplumsal normlar hakkında anlayış geliştirmeleri sağlanır ( SDB2.3 ). Bu süreçte tartışma yöntemi kullanılabilir. Bunlara ek olarak müzik teknolojilerinden ve buna bağlı mesleklerden bahsedilir. Dijital araçlar aracılığıyla etkileşimde bulunurken müzik teknolojileri ile yapılacak çalışmalarda etik kuralların önemi anlatılır ( OB2 ). Müziği merkeze alan meslek dallarından opera, bale, müzikal gibi türlerden örnekler dinletilir ve bu türlerin müziksel bileşenlerini tanımaları beklenir ( SAB9 ). Öğrenme sürecinin keyifli ve eğlenceli hâle getirilebilmesi için müzik alanında meslek sahibi olan kişiler sınıf ortamına davet edilerek etkinlikler yapılabilir ( E2.5 ). Öğrencilerin topladığı verilerle müzik alanındaki meslekleri sınıflandırmaları ve kaydetmeleri sağlanır. Mesleki yönelimde müzik kariyerini gözlemlemeye yönelik öğrenmeler öz değerlendirme formuyla izlenebilir. Bu temada performans görevi olarak öğrencilerin bulundukları şehirdeki bir Batı müziği konserine katılarak veya dijital/teknolojik araçlar aracılığıyla izleyerek etkinliği mekân, tür, katılımcı profili açısından değerlendirmeleri istenebilir. Bu konserde yer alan orkestra üyelerinin müzik kariyerleri hakkında gözlemlerini yansıtmak amacıyla sunum yapmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ve öz değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D16.3",
+      "D3.3",
+      "D5.1",
+      "D7.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E1.5",
+      "E2.5",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB5"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/593"
+}

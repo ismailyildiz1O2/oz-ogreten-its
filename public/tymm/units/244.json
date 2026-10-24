@@ -1,0 +1,99 @@
+{
+  "unitId": 244,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "3. TEMA: SAYILAR",
+  "hours": "20",
+  "description": "Bu temada öğrencilerin doğal sayıların asal çarpanları ve bölenlerine ilişkin çıkarım yapabilmeleri; en büyük ortak bölene (EBOB), en küçük ortak kata (EKOK) ve bir doğal sayının belirli doğal sayılara bölümünden kalanlara dair muhakeme yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.10.3.1",
+      "title": "Bir doğal sayı ile asal çarpanları ve bölenleri arasındaki ilişkilere dair çıkarım yapabilme",
+      "processComponents": [
+        "a) Bir doğal sayının asal çarpanları ve bölenleri hakkında varsayımlarda bulunur.",
+        "b) Farklı örneklerden elde ettiği örüntüleri listeleyerek bir doğal sayının asal çarpanları ve bölenleri hakkındaki varsayımlarına yönelik örüntüleri geneller.",
+        "c) Oluşturduğu genellemelerin varsayımlarını karşılayıp karşılamadığını örneklerle sınar.",
+        "ç) Bir doğal sayının asal çarpanları ve bölenleri ile ilgili ulaştığı sonuçlara yönelik matematiksel önermeler sunar.",
+        "d) Elde ettiği önermelerin gerçek yaşam durumları içeren problemlerdeki kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.10.3.2",
+      "title": "Birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla bunların en küçüğü arasındaki ilişkilere dair muhakeme yapabilme",
+      "processComponents": [
+        "a) Birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla bunların en küçüğü arasındaki ilişkilere dair varsayımlarda bulunur.",
+        "b) Farklı örneklerden elde ettiği örüntüleri listeleyerek varsayımlarına yönelik örüntüleri geneller.",
+        "c) Oluşturduğu genellemelerin varsayımlarını karşılayıp karşılamadığını örneklerle sınar.",
+        "ç) Birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla bunların en küçüğü arasındaki ilişkilere dair elde ettiği genellemelere yönelik önermeler sunar.",
+        "d) Sunduğu önermelerin gerçek yaşam durumları içeren problemlerdeki katkısını değerlendirir.",
+        "e) Elde ettiği önermeler ile ilgili matematiksel doğrulama yöntemlerini seçer ve kullanır.",
+        "f) Elde ettiği önermelere ilişkin uyguladığı matematiksel doğrulamayı kullanışlılığı açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.10.3.3",
+      "title": "Bir doğal sayının belirli doğal sayılara bölümünden kalanlarına dair muhakeme yapabilme",
+      "processComponents": [
+        "a) 2, 3, 4, 5, 9 ve 10 ile bölünebilme özelliklerinden hareketle bir doğal sayının 2, 3, 4, 5, 8, 9 ve 10 ile bölümünden elde edilecek kalanlara ilişkin varsayımlarda bulunur.",
+        "b) Aynı sayı ile bölme işleminden elde edilecek kalanlara ilişkin farklı örneklerle ilgili örüntüleri listeleyerek varsayımlarına yönelik örüntüleri geneller.",
+        "c) Oluşturduğu genellemenin kendi varsayımını karşılayıp karşılamadığını örneklerle sınar.",
+        "ç) Ulaştığı sonuçlara yönelik matematiksel önermeleri doğrulayabileceği şekilde sunar.",
+        "d) Ulaştığı önermelerin katkısını bu sayıların en küçük ortak katlarından oluşan sayılara bölümünden kalanı bulma bağlamında değerlendirir.",
+        "e) Önermelere ilişkin matematiksel doğrulama yöntemlerini seçer ve kullanır.",
+        "f) Önermelere ilişkin uyguladığı matematiksel doğrulama yöntemini kullanışlılığı açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "aralarında asal, asal sayı, bölen, bölme, bölüm, bölünebilme, çarpan, en büyük ortak bölen, en küçük ortak kat, kalan, kat, ortak bölen, ortak kat",
+  "support": [
+    "Öğrencilerden asal çarpanları ile bölenlerini, EBOB-EKOK'larını incelemeleri istenen doğal sayıların basamak sayısının ikiden fazla olmamasına dikkat edilir. Bu inceleme sürecinde hesap makinelerinden veya çevrim içi araçlardan yararlanılabilir.",
+    "EBOB ve EKOK ile ilgili özelliklere dair önermelere ulaşılamadığı durumlarda sayısal örnekler kullanılarak öğrencilerin sınırlı genellemeler yapmaları sağlanabilir.",
+    "Bölünebilme ve EBOB-EKOK'a yönelik olarak açık, anlaşılır ispat ve doğrulamalar içeren posterler, diyagramlar hazırlanıp belli süreliğine sınıfta görünür bir yere asılabilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilerden genel ağ üzerindeki kişisel verilerin gizlenmesi için kullanılan şifreleme algoritmalarında asal sayıların nasıl kullanılabileceği hakkında fikirler öne sürmeleri ve bu fikirlerini tartışmaları istenebilir. Araştırmalar yaparak fikirlerinin uygun olup olmadığını değerlendirmeleri sağlanabilir.",
+    "(*) Bir sayının asal olabilmesi için gerekli şartların neler olabileceği konusunda araştırma yapmaları istenebilir ve bu şartları, büyük sayıların (1577, 20 193 gibi asal olmayan; 1579, 20 201 gibi asal sayılar) asallığı üzerinde denemeleri beklenebilir. Öğrencilerin \"Bir doğal sayı asal çarpanlarının çarpımı şeklinde genel formda yazıldığında her bir çarpanın kuvvetlerinin birer fazlasının çarpımı, o sayının pozitif bölenlerinin sayısını verir.\" önermesine ulaşmaları sağlanabilir.",
+    "(*) Öğrencilerden asal sayıların kullanıldığı ilgi çekici asal sayı problemleri [Goldbach (Goltbah) sanısı gibi] veya asal sayıların özellikleri hakkında [ikiz asallar, Fermat (Feğma) asalları, Mersenne (Mersen) asalları gibi] araştırmalar yapmaları istenebilir. Bu araştırma sonuçlarından yola çıkılarak asal sayı kavramının matematikteki yeri ve önemi üzerine tartışılabilir.",
+    "(*) Öğrencilerden asal sayıların sonsuzluğu hakkında araştırma yapmaları istenebilir. Öklid'in asal sayıların sonsuzluğunun ispatı ile bu ispat yönteminin matematik tarihindeki yeri ve önemi üzerinde durulabilir.",
+    "(*) Mükemmel sayılar, dost sayılar gibi bölen ilişkileri ile asallık üzerinden yapılmış farklı sayı adlandırmalarına ve bunların asallıkla ilişkilerine yer verilebilir. Türk-İslam bilginlerinden mükemmel sayılar ve dost sayılar üzerine çalışan İsmail bin İbrahim Mardini'nin (İbni Fellus) çalışmaları incelenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere bir doğal sayının asal çarpanları ile bölenleri arasındaki ilişkilere dair çalışma kâğıdı verilebilir.",
+    "Öğrencilerin bir doğal sayının 2, 3, 4, 5, 8, 9 ile 10'a ve bu doğal sayıların en küçük ortak katlarından oluşan sayılara bölümünden elde edilen kalanlara ait muhakeme becerilerinin değerlendirilmesine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Öğrencilere birden çok doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla bunların en küçüğü arasındaki ilişkilere dair gerçek yaşam problemleri içeren çalışma kâğıdı verilebilir. Öz değerlendirme formuyla öğrencilerin kendilerini değerlendirmeleri istenebilir.",
+    "Açık uçlu sorularla öğrencilerin belirlediği algoritmaları farklı sayılar üzerinde kullanıp kullanamadığı, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.10.3.1 Öğrencilerden inceledikleri farklı doğal sayıları asal çarpanlarına ayırmaları, bölenlerini belirlemeleri ve bunlar arasındaki ilişkilere dair varsayımlarda bulunmaları beklenir. Ayrıca öğrencilerin verilen bir doğal sayının asal çarpanlarının sayısı ile o sayının pozitif tam sayı bölenlerinin sayısı arasındaki ilişkiye dair varsayımlar geliştirebilmelerini sağlayacak örnek durumlar incelenir. Öğrencilerin bu varsayımlarını sınıfta ifade ederek ve birbirlerinin varsayımları üzerinde düşünerek genellemelerde bulunmaları sağlanır. Öğrencilerden genellemelerini varsayımlarıyla karşılaştırarak elde ettikleri önermeleri uygun bir matematiksel dille sunmaları beklenir. Bu önermelerin gerçek yaşam durumu problemlerinde (kriptoloji, kodlama gibi) değerlendirildiği uygulamalara yer verilir. Ayrıca bu önermelerin değerlendirilmesinde doğal sayıların negatif bölenleri hakkında sonuçlar elde etmeye yönelik çalışmalar yapılır. Bir doğal sayının asal çarpanları ile bölenleri arasındaki ilişkilere dair çalışma kâğıdı verilebilir.",
+    "MAT.10.3.2 Öğrencilere önce iki, sonra da üç farklı doğal sayı içeren; verilen sayıların bölenlerinin ve katlarının yazılacağı tablolardan oluşan uygulama kâğıtları verilebilir. Bu çalışma, sınıf gruplara ayrılarak iletişim ve iş birliği becerilerinin kullanılmasına olanak sağlayacak şekilde tasarlanır ( SDB2.1 , SDB2.2 ) . Grup çalışması sayesinde öğrencilerin kendi düşüncelerini etkin bir şekilde ifade edebilmeleri, arkadaşlarıyla düşüncelerini paylaşabilmeleri ve diğerlerinin düşüncelerini saygı çerçevesinde dinleyerek sözlü/sözsüz iletişimde bulunabilmeleri desteklenir ( SDB2.1 , SDB2.2 , D14.1 ) . Verilen sayılardan 1'den başka pozitif ortak böleni olmayanlara dikkat çekilir. Öğrencilerden aralarında asal olan doğal sayıların en büyük pozitif ortak böleninin 1 olduğu varsayımında bulunmaları beklenir. Öğrencilerin sıfırdan ve birbirinden farklı doğal sayıların pozitif ortak katlarının en büyüğünün bulunamayacağı, en küçüğünün bulunabileceği varsayımlarına ulaşmaları sağlanır. Birbirinden farklı doğal sayıların pozitif ortak bölenlerinin en küçüğünün her zaman 1 olduğu ve en büyüğünün bulunabileceği varsayımlarına ulaşmaları beklenir. Verilen en fazla üç farklı doğal sayının ortak bölenleri ve katları için de benzer varsayımların yapılması sağlanır. Bu gösterimlerle yapılan işlemlerde ortaya çıkan örnekler incelenerek örüntüler belirlenir. Belirlenen örüntülere göre öğrencilerin genellemeler yapmaları sağlanır. Bu genellemeler varsayımlarla karşılaştırılır. Öğrencilerden elde ettiği genellemelerden yola çıkarak herhangi iki doğal sayının en büyük pozitif ortak böleni ve en küçük pozitif ortak katı arasındaki ilişkilere dair önermeler sunmaları beklenir. Ayrıca öğrencilerin \"bu sayıların çarpımının, sayıların en küçük pozitif ortak katıyla en büyük pozitif ortak böleninin çarpımına eşit olduğu\" gibi EKOK ile EBOB arasındaki ilişkilere dair önermeler sunmaları sağlanır. Elde edilen önermeler, gerçek yaşam durumlarında kullanılarak değerlendirilir. Listeleme, asal çarpan ağacı, cebirsel gösterimler gibi farklı matematiksel doğrulama yöntemlerinin olumlu ve olumsuz yönleri tartışılır ( MAB3 ) . Örneğin belirli bir örüntüye göre bir yolun iki tarafında bulunan bazı kaldırım taşlarının boyanması problemi üzerinden farklı örüntü durumlarında toplam kaç kaldırım taşının boyanabileceğine dair önermeler, listeleme ve cebirsel gösterim yöntemleri kullanılarak değerlendirilir ( E3.6 , E3.7 ) . Öğrencilerden eşitlik ve eşitsizlik sembolleri kullanarak yansıtabilecekleri (\"Herhangi iki doğal sayının EBOB'u sayılardan küçük veya birine eşit, EKOK'u sayılardan büyük veya birine eşit olur.\", \"İki doğal sayı aralarında asal ise EBOB'u 1'dir.\" gibi) EBOB ve EKOK özelliklerini gösteren posterler hazırlamaları istenebilir. Öğrenciler, bu çalışmalarını bilişim araçlarından yararlanarak sergileyebilir ( OB2 , MAB5 ) . Öğrencilere en çok dört doğal sayının ortak bölenleriyle bunların en büyüğü ve ortak katlarıyla bunların en küçüğü arasındaki ilişkilere dair gerçek yaşam problemleri (en az maliyetle zemine fayans döşeme, bir bahçenin etrafını çitlerle çevreleme gibi) içeren çalışma kâğıdı verilebilir ( OB3 ) .",
+    "MAT.10.3.3 Öğrencilerden önceden öğrendikleri 2, 3, 4, 5, 9 ve 10 ile bölünebilme özellikleri hakkında bu sınıf seviyesinde matematiksel doğrulamalar yapmaları beklenir. Ayrıca 8'e bölünebilme ile ilgili genellemenin ve bunun doğrulamasının da yapılması istenir. Budoğrulamalarda bölünen sayıların basamak çözümlemeleri yapılarak cebirsel yöntemler kullanılır. Öğrencilerin verilen bir doğal sayının 2, 3, 4, 5, 8, 9 ve 10 ile bölümünden elde edilebilecek kalanları bu doğrulama yöntemlerinden hareketle bölme yapmadan bulmaya dair varsayımlar geliştirmeleri beklenir. Burada yöntemsel yakınlık dikkate alınarak önce 2, 5, 10, 4 ve 8 için, daha sonra 3 ve 9 için olacak şekilde iki grupta inceleme yapılır. Öğrencilerden farklı örnekler üzerinden elde ettikleri örüntüleri listeleyerek varsayımlarına yönelik genellemelerde bulunmaları ve bu genellemellerinin varsayımlarını karşılayıp karşılamadığını kontrol etmeleri istenir. Listeleme sırasında farklı bölünenleri ve farklı bölenleri içeren işlemlerin yer aldığı çalışma kâğıtları kullanılabilir. Bu çalışma kâğıtları, öğrencilerin genellemelerini listeleyebilecekleri tablolar içerir ( MAB3 ) . Bu genellemelerde öğrencilerin verilen bir doğal sayının bölünebilme kuralı elde edilen sayılardan aralarında asal olan ikisinin çarpımına (6, 12, 30, 45 gibi) bölünebilmesine dair değerlendirmeler yapmaları sağlanır. Öğrencilerden oluşturdukları genellemelerin varsayımlarını karşılayıp karşılamadığını örnekler ile sınamaları beklenir. Öğrenciler, genellemelerinden yola çıkarak her bir bölen için bölme yapmadan kalan bulmaya dair önermeler sunar. Öğrencilerden sunulan önermeleri bu doğal sayıların en küçük ortak katları olan 6, 12, 30, 45 gibi sayılara bölümünden kalanı bulma bağlamında değerlendirmeleri istenir. Örneğin sıfırdan farklı bir doğal sayının 3, 4 ve 12 sayıları ile bölümünden elde edilen kalanlar sırasıyla a, b ve c olmak üzere c sayısının 3 ve 4 sayıları ile bölümünden elde edilecek kalanların sırasıyla a ve b olacağına yönelik değerlendirme yapılması beklenir.",
+    "Öğrencilere farklı bölünebilme kurallarını ve bu konuda yazılmış eserleri (Mehmed Nadir'in Hesab-ı Nazari adlı kitabı gibi) inceleyecekleri araştırma ödevleri verilebilir. Böylece öğrencilerin kültürel mirasa yönelik duyarlı olmaları desteklenerek kültürel mirasın tanıtımına katkı sağlanmış olur ( OB1 ) . Öğrencilerden ödevleri zamanında ve eksiksiz teslim etmeleri beklenir. Böylece sorumluluk değerini kazanmaları sağlanır ( D16.3 ) . Bu görevlerde öğrencilerden yapmış oldukları araştırmaların sonuçlarını sınıfta sunmaları istenir ( SDB2.1 ) . Doğrulama yöntemleri; farklı sayıları listeleyerek, bölünen sayıyı basamaklarına göre çözümleyerek, kat ilişkilerine odaklanarak kullanılır. Bu yöntemlerin uygunluğu, kullanışlılık açısından değerlendirilir. Değerlendirilen doğrulama yöntemi, farklı sayılar üzerinde denenir ( SDB3.2 ) . Açık uçlu sorularla öğrencilerin belirlediği algoritmaları farklı sayılar üzerinde kullanıp kullanamadığı değerlendirilebilir. Öğrencilere bir doğal sayının 2, 3, 4, 5, 8, 9 ile 10'a ve bu doğal sayıların en küçük ortak katlarından oluşan sayılara bölümünden elde edilen kalanlara yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D16.3"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/244"
+}

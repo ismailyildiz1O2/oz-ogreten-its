@@ -1,0 +1,69 @@
+{
+  "unitId": 81363005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Edebiyat Uygulamaları Dersi",
+  "title": "5. ÜNİTE: EDEBİYAT UYGULAMALARI II - BETİMLEME",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "EDU.2.1.1",
+      "title": "Amaca uygun stratejiyi seçer",
+      "processComponents": [
+        "Verilen göreve ya da tercihlere göre tema, konu, karakter, mekân, zaman, anlatıcı, bakış açısı, atmosfer, odak noktası belirlenir ve taslak oluşturulur. Belirlenen içerik unsurları üzerine ihtiyaç duyulursa araştırma yapılarak bilgi eksikliği giderilir. Konu, tema ve/veya iletiye uygun karakter, mekân, zaman, atmosfer oluşturulur."
+      ]
+    },
+    {
+      "code": "EDU.2.1.2",
+      "title": "Anlatısında amacına uygun dilsel yapıları kullanır",
+      "processComponents": [
+        "Betimlenecek olay, durum, nesne veya karaktere göre sıfatlar, zarflar, fiilimsiler, isim cümleleri, eksiltili cümleler, adlandırmalar kullanılır."
+      ]
+    },
+    {
+      "code": "EDU.2.1.3",
+      "title": "Anlatısında amacına uygun anlam olguları oluşturur",
+      "processComponents": [
+        "Anlam derinliği kazandırmak için benzetme, ad aktarması, eğretileme, mübalağa, imgeleme tekniklerinden faydalanılır."
+      ]
+    },
+    {
+      "code": "EDU.2.1.4",
+      "title": "Anlatısındaki betimleyiciyi belirler",
+      "processComponents": [
+        "Betimleyicinin metinde olayın içindeki kişi, betimlenen kişi veya dışarıdan gözlemci olmasına karar verilir."
+      ]
+    },
+    {
+      "code": "EDU.2.1.5",
+      "title": "Anlatısında odaklanmayı ve atmosferi oluşturur",
+      "processComponents": [
+        "Betimlemede merkeze alınan unsur (olay, nesne, durum veya kişi) ve duygu belirlenir. Kelime seçiminde atmosfer oluşturulacak duygu ile ilişkili sıfatlar, zarflar, deyimler, eylemler tercih edilir."
+      ]
+    },
+    {
+      "code": "EDU.2.1.6",
+      "title": "Belirlenen konuda veya amaç doğrultusunda seçtiği unsurları kullanarak hedef kitleye uygun betim leme eylemi gerçekleştirir",
+      "processComponents": [
+        "Dil düzeyi bakımından hedef kitleye ve söylem amacına uygun olarak gerekli geçiş ve bağıntı ögeleri kullanılır.",
+        "Düşünceyi geliştirme yöntemlerinden faydalanılır. Mantıksal ilişkilere uygun olarak anlatı, yönergeler ve bilgiler yeniden düzenlenerek betimleme yapılır."
+      ]
+    },
+    {
+      "code": "EDU.2.1.7",
+      "title": "Betimleme sürecini değerlendirir",
+      "processComponents": [
+        "Betimleme sürecine yönelik öz değerlendirme yapılır. Duygu, düşünce, davranışlar ve bu sürece etki eden ortamdaki olaylar, kişiler, çevrenin gürültülü ya da sessiz bir durumda oluşu; betimlemede kullanılan söz varlığı, dil yapısı, anlatım kuralları; betimleme içerikleri ve üslubun seçilmesindeki duyuşsal durum, ilgi alanları ve zihinsel faktörler değerlendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112414531569-edebiyatuygulamalar%C4%B1.pdf"
+}

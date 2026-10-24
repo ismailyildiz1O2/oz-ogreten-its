@@ -1,0 +1,91 @@
+{
+  "unitId": 63,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Coğrafya Dersi",
+  "title": "3. ÜNİTE: DOĞAL SİSTEMLER VE SÜREÇLER",
+  "hours": "18",
+  "description": "Bu ünitede levha tektoniğinin sistemsel süreci ve bu süreci oluşturan bileşenlerin çözümlenebilmesi, yeryüzünü şekillendiren süreçler ile yeryüzü şekillerinin oluşumunda etkili olan aşınma ve çözünme süreçlerinin iklim ve kayaç özellikleriyle ilişkisinin anlamlandırılabilmesi, yeryüzü şekillerinin oluşumunda aşınım ve birikim süreçlerinin etkisinin belirlenebilmesi, yeryüzünü şekillendiren süreçlerin saha/sanal saha çalışmalarıyla araştırılabilmesi ve yeryüzü şekilleri ile beşerî faaliyetler arasındaki etkileşimin sorgulanabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "COĞ.10.3.1",
+      "title": "Yerkürenin tektonik yapısını çözümleyebilme",
+      "processComponents": [
+        "a) Levha tektoniğine neden olan süreçleri belirler.",
+        "b) Yeryüzü şekilleri ile levha tektoniği arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "COĞ.10.3.2",
+      "title": "Yeryüzü şekillerinin oluşumunda etkili olan aşınma ve çözünme süreçleri ile iklim ve kayaç özellikleri arasındaki ilişkileri yapılandırabilme",
+      "processComponents": [
+        "a) Aşınma ve çözünme süreçleri ile iklim ve kayaç yapısı arasındaki ilişkileri neden-sonuç bağlamında ortaya koyar.",
+        "b) Aşınma ve çözünme süreçlerine ilişkin edindiği bilgilerle kendi bilgilerini anlamlı bir bütün hâline getirir."
+      ]
+    },
+    {
+      "code": "COĞ.10.3.3",
+      "title": "Yeryüzü şekillerinin oluşumunu aşınım ve birikim süreçleri açısından çözümleyebilme",
+      "processComponents": [
+        "a) Aşınım ve birikim süreçlerinde ortaya çıkan yeryüzü şekillerini belirler.",
+        "b) Aşınım ve birikim süreçleriyle yeryüzü şekilleri arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "COĞ.10.3.4",
+      "title": "Yeryüzü şekillerinin oluşumunda doğal süreçlerin etkilerini saha/sanal saha çalışmalarıyla araştırabilme",
+      "processComponents": [
+        "a) Yeryüzü şekillerinin oluşum ve değişimini incelemek için hazırlık yapar.",
+        "b) Yeryüzü şekillerinin oluşum ve değişiminde etkili olan faktörleri belirleyebilmek için çalışma sahasında uygulama yapar.",
+        "c) Yeryüzü şekillerinin oluşum ve değişimiyle ilgili çalışma sahasından bilgi toplar.",
+        "ç) Yeryüzü şekillerinin oluşum ve değişimiyle ilgili çalışma sahasından elde ettiği bilgileri çözümler.",
+        "d) Yeryüzü şekillerinin oluşum ve değişimiyle ilgili çözümlediği bilgilere dayalı tahminde bulunur.",
+        "e) Yeryüzü şekillerinin oluşum ve değişimiyle ilgili tahminlerini raporlar."
+      ]
+    },
+    {
+      "code": "COĞ.10.3.5",
+      "title": "Yakın çevresindeki yeryüzü şekilleri ile beşerî faaliyetler arasındaki etkileşimi sorgulayabilme",
+      "processComponents": [
+        "a) Yakın çevresindeki yeryüzü şekilleri ve beşerî faaliyetler arasındaki etkileşimle ilgili merak ettiği soruları sorar.",
+        "b) Yakın çevresindeki yeryüzü şekilleri ve beşerî faaliyetler arasındaki etkileşimle ilgili bilgi toplar.",
+        "c) Yakın çevresindeki yeryüzü şekilleri ve beşerî faaliyetler arasındaki etkileşimle ilgili topladığı bilgileri düzenler.",
+        "ç) Yakın çevresindeki yeryüzü şekilleri ve beşerî faaliyetler arasındaki etkileşimle ilgili düzenlediği bilgileri çözümler.",
+        "d) Yakın çevresindeki yeryüzü şekilleri ve beşerî faaliyetler arasındaki etkileşimle ilgili çözümlediği bilgilerden çıkardığı sonuçları paylaşır."
+      ]
+    }
+  ],
+  "keyConcepts": "alüvyal, antroposen, aşınma, birikme, çözünme, deprem, fay, jeolojik zaman, jeotermal, karstlaşma, kayaç döngüsü (kayaç çevrimi), levha, orojenez, taşınma, tektonizma, topoğrafya, volkanizma",
+  "support": [
+    "Öğrencilerin öğrenme günlükleri aracılığıyla öğrenme süreçleri hakkında düşünmeleri, güçlü ve geliştirilmesi gereken yönlerini belirlemeleri desteklenerek yeni öğrenme çıktıları koymaları sağlanabilir. İlgili konuların çözümlenmesi ve anlamlandırılması video veya belgeseller izletilerek desteklenebilir. Performans görevi; Türkiye'deki ana yeryüzü şekilleri ile ilgili sunum hazırlama, yeryüzü şekillerinin insan faaliyetlerine etkisine yönelik röportaj yapma ve öğrenme günlüğü tutma şeklinde düzenlenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere levha tektoniği kuramının tarihsel gelişimi ve Alfred Wegener'in kanıtları, kayaçlarda yaş tayinlerinin yapılış yöntemleri, fosil incelemeleri, kayaç tiplerinin alt grupları, deprem ölçümleri, Türkiye tarihindeki büyük depremler ve tsunamiler, dünya tarihinde bilinen büyük depremler ve volkanik faaliyetler, süper volkanlar, süper kıtaların geçmişi ve geleceği, yeryüzündeki farklı kıyı tipleri, Türkiye'de yer almayan yeryüzü şekillerine örnekler, yakın çevredeki farklı yeryüzü şekilleri, dünya genelindeki ikonik yeryüzü şekilleri, *Antroposen Dönem'in özellikleri ve yeryüzü şekillerinin kullanımında sürdürülebilirlik konularında iki veya üç haftalık proje görevleri verilebilir. Projeler tamamlandığında sınıfta proje sunumları yapılarak akran öğretimine fırsat sağlanır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, çalışma yaprağı, kontrol listesi, öz değerlendirme formu, performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden levha tektoniği süreci ve bu süreç sonunda oluşan yeryüzü şekilleri ile ilgili üç boyutlu model oluşturmaları ve bu modelleri sunmaları istenir. Performans görevi; hazırlık yapma, bilgi toplama, bilgileri çözümleme, model oluşturma ve sunum yapma ölçütlerine göre değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "COĞ.10.3.1",
+    "Dünya'nın iç yapısı, konveksiyonel hareketler ve yer kabuğundaki levha hareketleri; haritalar, modeller, akıllı cihaz uygulamaları, animasyonlar, hareketli görsel kayıtlar gibi coğrafi temsiller üzerinden belirlenir ( OB2 ). Bu sürecin gerçekleşebilmesi için ihtiyaç duyulan kanıtlar tespit edilir (SBAB2.5, E3.4, D3.3) . Levha sınırlarının okyanus tabanlarında, karalar üzerinde ve bunların temas noktalarında oluşturduğu mekanik süreçlerin belirlenmesi sağlanır. Öğrencilerden levha tektoniğine ilişkin etkinlik hazırlamaları ve dünya fiziki haritası üzerinde hangi kıtalara ait sınırların birbiriyle uyum gösterdiğini belirlemeleri istenebilir ( SBAB4.3 ). Bu aşamada okyanus ve kıtalarda levha tektoniğine bağlı oluşan yeryüzü şekilleri göz önüne alınarak levha hareketlerine ilişkin bir tartışma ortamı oluşturulabilir. Öğrencilerden bu tartışmada beyan ettikleri fikirlerle ilgili kanıtlar sunması istenebilir. Genel ağ üzerinden levha tektoniği ile ilgili animasyonlar izletilebilir ( SDB2.2 ). Öğrencilerden levha tektoniği teorisinden yola çıkarak Dünya'nın gelecekteki görünümüyle ilgili öngörüde bulunmaları ve bu öngörülerini gerekçelendirmeleri istenebilir. Öğrencilere ait öngörülerin görsel olarak ifade edilmesi sağlanır ve öğrenci çalışmaları paylaşılarak öngörüler üzerine tartışma başlatılabilir (SDB2.1 ). Dünya levha sınırları haritası ve coğrafi temsiller üzerinde deprem, volkanizma, orojenik kuşaklar, fay hatları, jeotermal alanlar, yer kabuğunun yatay ve düşey hareket gösterdiği alanlar ilişkilendirilerek levha tektoniği ile bağlantı kurulur. Bu süreçte Türkiye arazisinin tektonik yapısı; orojenik kuşaklar, volkanik alanlar, deprem alanları ve jeotermal alanlarla ilişkilendirilir. Doğal süreçlere bağlı olarak farklı büyüklükte depremlerin gerçekleşebileceğine ilişkin farkındalık oluşturulur (D5.3 ). Konuyla ilgili gazete haberleri örnek olay olarak ele alınabilir. Geçmişten günümüze meydana gelen jeolojik olayların zaman çizelgesi üzerinden yorumlanması sağlanır. Jeolojik zamanlar, Türkiye ve dünya ölçeğinde önemli olayları ifade edecek şekilde ilişkilendirilir (SBAB1.2, SBAB11.1, SDB2.1 ). Açık uçlu sorularla öğrencilerin yerkürenin tektonik yapısına yönelik öğrenmeleri izlenir.",
+    "COĞ.10.3.2",
+    "Aşınma ve çözünme süreçleri ile iklim özellikleri ve kayaç yapısı faktörleri arasındaki ilişkiler, tartışma süreci içinde ve neden-sonuç bağlamında ortaya konabilir ( E1.1). İklim özellikleri ve kayaç gruplarının aşınma ve çözünme üzerindeki etkisi karşılaştırılır. Aşınma ve çözünme süreçlerine ilişkin öğrenci bilgilerinin yapılandırılması ve soru-cevap yöntemi ile yapılandırılan bilgilerin paylaşılması sağlanabilir ( D3.3). Türkiye ve dünyadaki örnek alanlar harita üzerinde belirlenerek edinilen bilgiler, bir bütün hâlinde yeniden yapılandırılır (OB4, SBAB10.3 ). Öğrencilerden ayrışık gruplar içinde konuya ilişkin sorular hazırlamaları istenebilir. Bu süreçte birlikte soralım, birlikte öğrenelim tekniğinden yararlanılabilir (D14.1 ). Son aşamada tüm cevaplar tartışılabilir ( SDB1.1, SDB2.1, SDB2.2 ). Öğrenmeler, açık uçlu sorularla değerlendirilebilir.",
+    "COĞ.10.3.3",
+    "Aşınım ve birikim süreçlerine bağlı oluşan örnek yeryüzü şekillerinin belirlenmesi, söz konusu süreçler ile yeryüzü şekilleri arasındaki dinamik ilişkilerin tespit edilmesi sağlanır (E3.4). Aşınım ve birikime sebep olan çeşitli unsurlar, birbiriyle ilişkilendirilir. Öğrencilerden bu kuvvetlerin Türkiye ve dünyada oluşturduğu yeryüzü şekillerine örnekler vermesi istenir. Aşınım ve birikim süreçlerinin etkisiyle Türkiye'de oluşan yeryüzü şekilleri, ilgili harita üzerinde incelenerek bunların oluşumunda rol oynayan coğrafi koşullara yönelik çözümlemeler yaptırılır ( OB4, SBAB10.3 ). Harita incelemeleri küçük grup çalışması şeklinde gerçekleştirilebilir ( D3.4). Öğrencilerin yeryüzü şekillerinin oluşum süreçlerine ilişkin öğrenmeleri çalışma yaprağı üzerinden izlenebilir (SDB2.2) .",
+    "COĞ.10.3.4",
+    "Türkiye ve dünyada bulunan çeşitli yeryüzü şekillerinin (dağlar, ovalar, platolar, kıyı tipleri, vadiler, mağaralar, travertenler, obruklar, peribacaları vb.) nasıl oluştuğunun öğrenilebilmesi amacıyla saha/sanal saha çalışması planlanır ( E1.1, D19.3). Sanal saha çalışmaları için dijital küre, artırılmış gerçeklik, sanal gerçeklik vb. uygulamalar kullanılabilir ( OB2) . Saha çalışmasının yapılacağı durumlarda ise buna yönelik hazırlıklar yapılır ( D16.3). Çalışma sürecinin izlenmesi ve değerlendirilmesiyle ilgili hazırlanan kontrol listesi öğrencilerle paylaşılır. Öğrencilere yeryüzü şekillerinin saha/sanal saha çalışması ile incelenmesi, veri toplanması ve toplanan verilerin düzenlenmesi konularında rehberlik edilir. Elde edilen bilgiler ışığında doğal süreçlerle yeryüzü şekilleri arasındaki ilişkiler çözümlenir. Öğrencilerin yeryüzü şekillerinin gelecekteki durumları hakkında fikir yürütmeleri ve tahminde bulunmaları, coğrafi gözlem ve saha çalışmaları ile araştırmalardan elde ettikleri bulguları rapor hâline getirerek paylaşmaları sağlanır (SBAB4.3, D3.4, SDB1.1, SDB1.2, BEOSAB4) . Öğrenciler tarafından ilgili çalışmalar kapsamında doldurulan kontrol listesi incelenebilir ve öğrencilere geri bildirimde bulunulabilir. COĞ.10.3.5",
+    "Yakın çevrede bulunan yeryüzü şekilleri ile beşerî faaliyetler arasındaki etkileşime yönelik günlük hayatta karşılaşılan durumlar (medya ürünleri, edebî eserler vb.) üzerinden öğrencilerin çeşitli sorular sorması sağlanır ( OB4, E3.8 ). Sorular tüm sınıfın katılımıyla cevaplanır. Ova, dağ, plato, vadi, kıyı gibi yeryüzü şekillerinin ekonomi, yerleşme, sosyal hayat ve kültürel dokuya etkileri ile ilgili bilgiler toplanır. Toplanan bilgilerin düzenlenme ve çözümlenmesinin ardından çıkarılan sonuçlar paylaşılır ( KB3.3, E3.7) . Bu etkiler incelenirken doğal çevrenin korunması için neler yapılması gerektiği ifade edilir ( D5.2) . Öğrenmeler öz değerlendirme formuyla izlenebilir ve öğrencilere geri bildirim verilir. Bu ünitede performans görevi olarak öğrencilerden levha tektoniği süreci ve bu süreç sonunda oluşan yeryüzü şekilleri ile ilgili üç boyutlu model oluşturmaları ve sunum yapmaları istenebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Model oluşturma sürecinin öğrenciler tarafından değerlendirilmesinde öz değerlendirme formundan yararlanılabilir ( SDB1.2, SDB1.3)."
+  ],
+  "skills": {
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "diger": [
+      "SBAB4.3"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/63"
+}

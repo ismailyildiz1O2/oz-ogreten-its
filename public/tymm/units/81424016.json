@@ -1,0 +1,29 @@
+{
+  "unitId": 81424016,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "16. ÜNİTE: FLÜT - NEFES TEKNİĞİ",
+  "hours": "3",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.3.1.1",
+      "title": "Diyafram nefesini doğru biçimde alıp verir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.1.2",
+      "title": "Farklı egzersizlerle diyafram nefesi alıp verir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

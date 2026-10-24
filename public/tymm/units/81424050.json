@@ -1,0 +1,49 @@
+{
+  "unitId": 81424050,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "50. ÜNİTE: BAĞLAMA - TEZENELİ ÇALMA TEKNİĞİ",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.7.3.1",
+      "title": "Tezene tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.3.2",
+      "title": "Tek tel ya da tel grupları üzerinde tezene tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.3.3",
+      "title": "Tezene tekniğini etüt ve alıştırmalar üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.3.4",
+      "title": "Tek tel ya da tel grupları üzerinde etüt çalışması ve alıştırmalar yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.3.5",
+      "title": "Tezene tekniğini eserler üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.7.3.6",
+      "title": "Tezene tekniğinin tel grupları geçişlerinde değişiklik gösterdiğini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

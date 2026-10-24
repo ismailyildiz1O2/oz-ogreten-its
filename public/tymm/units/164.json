@@ -1,0 +1,121 @@
+{
+  "unitId": 164,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "3. TEMA: İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+  "hours": "55",
+  "description": "Bu temada öğrencilerin toplama ve çıkarma işlemleri gerektiren günlük yaşam problemlerini çözebilmesi; toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilmesi; toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilmesi; çarpma işlemini tekrarlı toplama, bölme işlemini ardışık çıkarma ile anlamlandırabilmesi; tahmin ederek veya zihinden işlemlerle çarpma ve bölme işleminin sonucunu bulabilmesi; dört işlem bağlamında eşitliği yorumlayabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.2.2.1",
+      "title": "Toplama ve çıkarma işlemleri gerektiren günlük yaşam problemlerini çözebilme",
+      "processComponents": [
+        "a) Problemi anlayarak verilen ve istenilenleri belirler.",
+        "b) Problemde verilenler ile istenilenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Probleme ilişkin verilenleri belirleyerek uygun matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemlerin sonucuna ilişkin tahminde bulunarak işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji ya da stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir. g ) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ)   Çözüme ulaştıran stratejinin/stratejilerin hangi problemlere uygulanabileceğini geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.2.2.2",
+      "title": "Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme",
+      "processComponents": [
+        "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler.",
+        "b) Toplama ve çıkarma işlemlerine ilişkin öğeler arasındaki ilişkileri belirler.",
+        "c) Toplama ve çıkarma işlemine yönelik tahmin ve zihinden işlem sonuçları arasında ilişki kurar.",
+        "ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.2.2.3",
+      "title": "Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme",
+      "processComponents": [
+        "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler.",
+        "b) Toplama ve çıkarma işlemlerini tersine dönüştürür.",
+        "c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.2.2.4",
+      "title": "Çarpma ve bölme işlemlerini toplama ve çıkarma işlemlerine dayalı olarak çözümleyebilme",
+      "processComponents": [
+        "a) Çarpma ve bölme işlemlerinin anlamlarının toplama ve çıkarma işlemleriyle ilişkili olduğunu fark eder.",
+        "b) Çarpma ve bölme işlemlerini toplama ve çıkarma işlemleriyle ilişkilendirir."
+      ]
+    },
+    {
+      "code": "MAT.2.2.5",
+      "title": "Çarpma ve bölme işlemlerinin sonuçlarını muhakeme edebilme",
+      "processComponents": [
+        "a) Çarpma ve bölme işlemlerine ilişkin bileşenleri belirler.",
+        "b) Çarpma ve bölme işlemlerine ilişkin bileşenler arasındaki ilişkileri belirler.",
+        "c) Çarpma ve bölme işlemine yönelik tahmin ve zihinden işlem sonuçlarını ifade eder.",
+        "ç) Tahmin ve zihinden işlem sonuçlarını açıklar."
+      ]
+    },
+    {
+      "code": "MAT.2.2.6",
+      "title": "Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme",
+      "processComponents": [
+        "a) Dört işlemde eşitliği farklı anlamlarına göre inceler.",
+        "b) Dört işlem bağlamında aynı sonucu veren durumları eşitliğin anlamını kullanarak farklı sayılarla ifade eder.",
+        "c) Eşitliğin anlamlarını dört işlem bağlamında ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "eldeli toplama, tekrarlı toplama, çarpma, çarpan, çarpım, ardışık çıkarma, bölme, bölünen, bölen, bölüm, kalan, gruplandırma, eşit paylaştırma, Sembol ve Gösterimler, ×, ÷",
+  "support": [
+    "Öğrencinin dört işlem ile ilgili öğrenme-öğretme uygulamalarındaki performanslarını artırmak amacıyla görsellerle modelleme yapılır. Üzerine sayarak bulma ile ilgili faaliyetler yapılır. Üzerine sayma ve azaltma oyunları oynatılır. Etkinliklerin çok fazla duyuya hitap eden matematiksel araç ve teknoloji yardımıyla yapılmasına olanak tanınır. Öğrencilerin sınıf içinde gruplama yapacağı nesneler üzerinden problem durumu oluşturulup çözme etkinlikleri de yapılır."
+  ],
+  "enrichment": [
+    "Öğrencilerden gerçek yaşam durumlarını içeren problemleri ,dört işlem ile ilişkilendirerek yeniden ifade edebilmeleri beklenir. Eldeli toplama ve onluk bozarak çıkarma yapma konusunda örnekler vermeleri istenerek toplama işlemlerini çıkarma işlemlerine dönüştürmeleri istenir. Benzer şekilde beşe kadar olan rakamlarla çarpma ve iki basamaklı sayıyı tek basamaklı sayıya bölme konusunda örnekler vermeleri istenerek çarpma işlemlerini bölme işlemlerine dönüştürmeleri istenir.",
+    "Öğrencilerin ilgileri doğrultusunda rutin olmayan problemler oluşturulup öğrencilerden çözmeleri beklenir. Öğrencilerin ilgileri doğrultusunda konuyla alakalı resim, afiş vb. çalışmalar yapmaları beklenir. Ayrıca süreçte dijital görsellerden yararlanılır. Öğrencilerin dijital bilgiye ulaşmaları ve uygun dijital bilgiyi kullanmalarını sağlamak ve görselleri bulması için dijital bilgiye erişim yollarından yararlanılır. Görselleri arama ve bulma sürecinde fikrî mülkiyet hakları konusunda farkındalık oluşturularak buna uygun davranışlar sergilemesi sağlanır."
+  ],
+  "assessment": [
+    "Öğrenme-öğretme uygulamaları neticesinde ulaşılmak istenen öğrenme çıktıları; gözlem formları, performans görevi, kontrol listeleri, eşleştirme sorularından ve izleme testleri kullanılarak değerlendirilebilir. Toplama ve çıkarma işlemlerini gerektiren günlük yaşam problemlerini çözümleri ile birlikte oluşturabilecekleri performans görevi verilebilir. Performans görevinin değerlendirilmesi bütüncül dereceli puanlama anahtarı ile yapılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.2.2.1 Günlük yaşam problemlerinden yola çıkılarak (En çok iki işlemli problemlerle çalışılır.) öğrencilerin problemde verilen ve istenenleri anlamalarına yönelik çalışmalar yapılır. Bu süreçte paralar, zaman, uzunluk, tartma gibi öğrencilerin günlük yaşam durumlarında karşılaşabileceği durumlara ilişkin toplama ve çıkarma işlemi gerektiren problemler ele alınır. Problemde verilenler ile istenilenlerin gerektirdiği işlemler arasındaki ilişkiyi belirlemeye yönelik çalışmalar yapılır. Öğrencilere problemi çözmek amacıyla kendi stratejilerini geliştirmeleri için fırsat verilir ( SDB3.2 , E3.3 ) . Öğrencilerin geliştirdikleri stratejileri matematiksel temsillere dönüştürmeleri sağlanır. Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile yeniden açıklamalarına imkân verilir. Problemlerin çözümü için kullanacağı işlemleri zihinlerinde tasarlayarak tahminde bulunmaları sağlanır. İşlem yaparak stratejilerini çözüm için uygular ( SDB3.1 ) . Onlar ve birler basamakları vurgulanarak toplama işlemi yaparken birler basamağından başlanacağı ve eldeli işlemlere dikkat edilmesi gerektiğinin anlaşılması sağlanır. Bu süreçte toplamları 100'ü geçmemek koşuluyla iki ve üç sayı ile toplama işlemleri yapılır. Çıkarma işleminin eksilen ve çıkan ögeleri arasında büyüklük küçüklük, onluk bozma gerektiren durum gibi ilişkileri öğrencilerin modellemeler yolu ile belirlemesi sağlanır. Ayrıca süreçte yapılan çıkarma işlemlerinde 100'e kadar (100 dâhil) olan bir çokluktan belirtilen sayı kadarının eksiltilmesi istenir. Öğrencilerin buldukları sonucu kontrol ederek çözüme ulaştırılamayan stratejileri değiştirmeleri sağlanır. Çözüme ulaştıran stratejilerin hangi problemlere uygulanabileceği genellemesi ve genellemenin geçerliliğini matematiksel örneklerle değerlendirmesi sağlanır. Örneklerde deste ve düzinenin kullanılmasına da yer verilir. Öğrencilerin problem çözme sürecindeki öğrenme kanıtları izleme testleri yardımıyla belirlenebilir. İfade edilen testler aracılığıyla öğrencilerin problem çözme sürecinde yaşadığı güçlükler ve problem çözme adımlarındaki eksik yönleri ortaya çıkarılır. Toplama ve çıkarma işlemlerini gerektiren günlük yaşam problemlerini çözümleri ile birlikte oluşturabilecekleri performans görevi verilebilir. Performans görevinin değerlendirilmesi bütüncül dereceli puanlama anahtarı ile yapılabilir.",
+    "MAT.2.2.2 İki basamaklı sayılarla toplama ve çıkarma işleminin ögeleri ve ögelerin isimleri, işlemler üzerinde ifade edilir. Bu ögeler arasındaki ilişkilerin kendi ifadeleriyle belirtilmesi beklenir. Bu sayede ögeler arasındaki ilişkiler ortaya konur. Öğrencilerin toplama işleminin değişme özelliğini ifade etmeleri sağlanır.",
+    "Öğrencilerin iki basamaklı sayılarla toplama ve çıkarma işlemleriyle ilgili tahmin etme ve zihinden işlem yapma becerilerini geliştirebilmek için kendi stratejilerini oluşturmalarına fırsat verilir. Bu amaçla günlük yaşam durumlarından yola çıkılarak öğrenciyi bir problem ile karşı karşıya bırakacak ve kendi çözüm yollarını bulmaları için analitik düşünmeye yönlendirecek etkinlikler yapılır ( SDB1.2 , SDB3.3 , E3.6 ) . Toplama ve çıkarma işlemine yönelik tahmin ve zihinden işlem sonuçlarını ifade etmeleri sağlanır.",
+    "Öğrencilerin işlem deneyimi kazanacakları bilgilere ulaşmaları için çeşitli oyun ve etkinlikler yapılır. Tüm öğrencilerin tahmin ve zihinden işlem sonuçlarını ilişkilendirmeleri, bu ilişkiye yönelik çıkarımlarını kendi cümleleri ile ifade etmeleri sağlanır. Öğrencilere içerisinde tahmin ve zihinden işlem içeren çeşitli etkinlikler verilerek açıkladıkları stratejiler doğrultusunda kontrol listeleri uygulanarak değerlendirme yapılabilir. Öğrenme kanıtları izleme testleri yardımıyla belirlenebilir. İfade edilen testler aracılığıyla öğrencilerin toplama ve çıkarma işlemlerini tahmin etme sürecinde nasıl bir zihinsel işlem yürüttükleri ortaya çıkarılır.",
+    "MAT.2.2.3 Toplama ve çıkarma işlemlerinin birbirinin tersi işlemler olduğunu kavratmaya yönelik alıştırmalar yapılır. Ayrıca tüm süreçlerde matematiksel araç ve teknoloji kullanılarak toplama ve çıkarma işlemlerinin birbirinin tersi olduğuna dair etkinlikler yapılır ( MAB5.1 ) . Olanaklar dikkate alınarak öğrencilere EBA üzerinden V fabrika, Wordwall gibi çevrim içi araçlarla oluşturulmuş içerikler sunularak sürükle bırak vb. oyunları evde yapmaları sağlanır ( SDB1.2 ) . Eğer sınıfta etkileşimli tahta varsa öğrenciler tahta üzerin den de bu dijital araçlarla etkileşimli bir şekilde öğrencilerin dijital bilgiye erişim, dijital bilgiye ait parçaları tanıma konusunda farkındalıkları arttırılır ( OB2 ) . Sonrasında ise öğrencilerden toplama ve çıkarma arasındaki ilişkiyi yorumlamalarına yönelik, toplananlar ve toplam, devamında ise eksilen, çıkan ve fark arasındaki ilişki vurgulanır. Bu süreçte öğrencilerin verdikleri örnekler kontrol listesi ile kayıt altına alınır. Bunun yanında öğrencilerin toplama ve çıkarma işlemleri bağlamında ilişkiyi yorumlamalarına ilişkin öğrenme kanıtlarını belirlemek için eşleştirme sorularından yararlanılabilir. Ayrıca öğrencinin toplama ve çıkarma işlemleri bağlamında ilişkiyi nasıl yorumladığına ilişkin durumları izleme testleri ve gözlem formları yardımıyla da belirlenebilir.",
+    "MAT.2.2.4 Öğrencilerden bir grup nesneyi ikişerli, üçerli, dörderli veya beşerli gruplayıp sayması istenir. Öğrencilerden beklenen, nesneleri kaç gruba ayırdığı ve nesne sayısını ileriye doğru ritmik sayarak söyleyebilmeleridir. Bu sayede oluşan grup sayısı, gruplarda yer alan nesne sayısı ve toplam nesne sayısı arasında ilişki olduğuna dikkat çekilir. Öğrencileri düşünmeye yönelten sorular sorularak toplam nesne sayısını bulmanın kısa bir yolu olduğundan bahsedilir. Ardından çarpma işlemi ve sembolü tanıtılır. Sınıftaki öğrencilerin yapılan gruplandırmaları ve toplam nesne sayısını çarpma işlemi ile ifade etmeleri sağlanır. Böylelikle tekrarlı toplama işleminden ve ileriye doğru ritmik saymadan yola çıkarak öğrencilerden çarpma işlemini anlamlandırmaları beklenir. Sonrasında ise öğrencilerden çarpma işlemini kullanarak farklı durumlara yönelik örnek vermeleri istenir. Çarpma işleminde 10'a kadar olan sayıları 1, 2, 3, 4 ve 5 ile çarpmaları istenir. Çarpma işleminde çarpanların yerinin değişmesinin çarpımı değiştirmeyeceğinin anlaşılmasına yönelik etkinlikler yapılır. Bununla birlikte yüzlük tablo ve işlem tabloları kullanılarak 5'e kadar (5 dâhil) çarpım tablosu oluşturulur. Çarpma işleminde 1 ve 0'ın etkisine çeşitli örnekler verilerek vurgu yapılır (sıfır için yutan eleman, bir için etkisiz eleman ifadelerine yer verilmez). İzleme testleri ve gözlem formları yardımıyla öğrencinin çarpma işlemini nasıl çözümlediğine ilişkin durumu belirlenebilir.",
+    "Öğrencilerden bir miktar nesneyi ikişerli, üçerli, dörderli veya beşerli olarak paylaştırdıklarında kalan nesne sayısını bulmaları istenir. Öğrencilerin kalan nesne sayısını bulurken geriye doğru ritmik sayma veya ardışık çıkarma işlemi yapmaları beklenir. Öğrencilerle yapılan soru cevap etkinliğiyle, geriye doğru ritmik saymadan ve ardışık çıkarma işlemi yapmaktan daha kısa bir yola ihtiyaç olduğunun fark edilmesi sağlanır ( OB1 ) . Öğrencilere bölme işlemi ve sembolü tanıtılır. Her aşamada yapılan paylaştırma işlemini bölme işlemi ile doğru bir şekilde ifade etmeleri sağlanır. Böylelikle geriye doğru ritmik sayma ve ardışık çıkarma işleminden yola çıkarak öğrencilerden bölme işlemini anlamlandırmaları beklenir. Süreçte 20'ye kadar olan sayılarla (2, 3, 4, 5) kalansız bölme işlemi yapılır. Öğrencilerden bölme işlemininden yararlanarak farklı sayılarla günlük yaşamda bölme işlemi gerektiren durumlara yönelik örnek vermeleri istenir ( SDB2.1 ) . Bu süreçte verilen örnekler cevaplar kontrol listesi ile kayıt altına alınabilir. İzleme testleri ve gözlem formları yardımıyla da öğrencinin bölme işlemini nasıl çözümlediği belirlenebilir.",
+    "MAT.2.2.5 Çarpma ve bölme işleminin bileşenleri, işlemler üzerinde ifade edilir. Bu bileşenlerin arasındaki ilişkileri öğrencilerin kendi ifadeleriyle belirtmesi sağlanır ( SDB2.1 ) . Bu şekilde bileşenler arasındaki ilişkiler ortaya konulur. Öğrencilerin çarpma işleminin değişme özelliğini ifade etmeleri sağlanır. Bunun yanında sıfır ve bir rakamlarının çarpma işlemlerindeki durumuna tekrar dikkat çekilir. Bu süreçte çarpma ve bölme arasındaki ilişkinin fark edilmesi sağlanır. Çarpmayı kısaca eşit terimli toplamanın kısa yazılışı olduğuna vurgu yapılır. Bölmenin bir bütünün eşit parçalara bölünmesi ve kaç eşit parçanın ortaya çıkması olduğu ifade edilir. Ayrıca çarpma ile bölme işlemlerinin ilişkili olduğuna vurgu yapılır. Bu ifade verilirken bölme işleminin adımlarında çarpma işleminin yapıldığı duruma örnek verilir. Bunun yanında örnek bir çarpma işlemi verilerek çarpmanın da doğruluğunu sağlamak için bölme işleminin yapıldığı gösterilir. Öğrencilerin çarpma ve bölme işlemleriyle ilgili tahmin etme ve zihinden işlem yapma becerilerini geliştirebilmek için kendi stratejilerini oluşturmalarına fırsat verilir ( SDB3.2 ) . Bu doğrultuda günlük yaşamda karşılabileceği tek işlem gerektiren problemlerden yola çıkılarak etkinlikler yapılır. Çarpma ve bölme işlemlerine yönelik tahminlerini ve zihinden işlem sonuçlarını ifade etmeleri sağlanır. Öğrencilerin işlem deneyimi kazanacakları bilgilere ulaşmaları için çeşitli oyun ve etkinlikler yapılır. Tüm öğrencilerin tahmin ve zihinden işlem sonuçlarını ilişkilendirmeleri, bu ilişkiye yönelik çıkarımlarını kendi cümleleri ile ifade etmeleri sağlanır. Öğrencilere içerisinde tahmin ve zihinden işlem içeren çeşitli etkinlikler verilerek açıkladıkları stratejiler doğrultusunda kontrol listeleri uygulanarak değerlendirme yapılabilir. Öğrenme kanıtları izleme testleri yardımıyla belirlenebilir. İfade edilen testler aracılığıyla öğrencilerin toplama ve çıkarma işlemlerini tahmin etme sürecinde nasıl bir zihinsel işlem yürüttükleri ortaya çıkarılabilir.",
+    "MAT.2.2.6 Öğrencilerle dört işlem kullanılarak aynı sonucu veren ve iki tarafın eşitliğini sağlayan durumları gösteren çalışmalar yapılarak merak uyandırılır ( E1.1 ) . Öğrencilerden küçük gruplara ayrılarak grup içerisinde dört işlem kullanıp farklı eşitlikler oluşturmaları istenir ( SDB2.2 ) . Bu eşitliklerin oluşturulma sürecini ve doğruluğunu diğer gruplarla paylaşmaları sağlanır ( D4.1 , SDB2.1 ) . Bu paylaşımlar sırasında gruplardaki öğrencilerin birbirlerini etkin bir şekilde dinlemeleri ve görüşleriyle katkı sağlamaları beklenir ( D4.2 , SDB2.1 ) . Öğrencilerin dijital ortamda iletişim kurma ve paylaşma becerilerini geliştirmek için bu paylaşım sürecinde olanaklar dikkate alınarak EBA ve dijital pano kullanımından yararlanılır ( OB2 ) . Bu süreçte öğrencilerin yaptığı bu faaliyetler gözlem formu aracılığıyla değerlendirilerek öğrenme-öğretme uygulamalarındaki çeşitli eksiklikler görülebilir ve uygulamalara ilişkin ihtiyaç duyulan düzenlemeler yapılabilir. Sonrasında ise öğrencilerden dört işlem bağlamında eşitliğin farklı anlamlarını yorumlamalarına yönelik örnek vermeleri istenir. Verilen örnekler kontrol listesi ile değerlendirilebilir. Bunun yanında öğrencilerin dört işlem bağlamında eşitliğin farklı anlamlarını yorumlamalarına ilişkin öğrenme kanıtlarını belirlemek için izleme testleri ve gözlem formlarından yararlanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.3",
+      "E3.6"
+    ],
+    "alan": [
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/164"
+}

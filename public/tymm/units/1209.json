@@ -1,0 +1,90 @@
+{
+  "unitId": 1209,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "3. TEMA: ÇALGIMI TANIYORUM (NEY)",
+  "hours": "13",
+  "description": "Temanın içeriğini ney çalgısının tanımı, özellikleri, tarihi, türleri ve sesi oluşturmaktadır. Bu doğrultuda öğrencilerin ney çalgısını tanımlamalarına dair belirlenen öğrenme çıktılarına ulaşması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.1.3.1",
+      "title": "Ney sesini dinleyebilme",
+      "processComponents": [
+        "a) Ney sesini fark eder.",
+        "b) Ney sesini diğer çalgıların sesinden ayırt eder.",
+        "c) Ney sesini açıklar."
+      ]
+    },
+    {
+      "code": "NEY.1.3.2",
+      "title": ". Neyi tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "NEY.1.3.3",
+      "title": ". Farklı boyutlarda yapılan neyleri tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "NEY.1.3.4",
+      "title": ". Farklı materyallerden yapılan neyleri çözümleyebilme",
+      "processComponents": [
+        "a) Farklı materyallerden yapılan neye ilişkin özellikleri belirler.",
+        "b) Farklı materyallerden yapılan neylerin özellikleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "NEY.1.3.5",
+      "title": ". Neyin tarihini ve gelişim sürecini yorumlayabilme",
+      "processComponents": [
+        "a) Neyin tarihsel dönemlerdeki görsellerini inceler.",
+        "b) Neyin tarihsel dönemlerdeki görsellerini yorumlar.",
+        "c) Neyin tarihsel dönemlerdeki görsellerin içeriğini yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "ney, ney çeşitleri",
+  "support": [
+    "Bu süreçte ney resimleriyle birlikte kısa video gösterimleri yapılabilir. Neyin olduğu müzikler dinletilerek ritme uygun basit hareketler yaptırılabilir."
+  ],
+  "enrichment": [
+    "Ney sesini dinleyip tanıma yarışmaları yapılabilir. Neyin tarihini ve kültürel bağlamını anlatan hikâyeleri canlandırmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; çalışma kâğıdı, kontrol listesi, gözlem formu, dereceli puanlama anahtarı, oyun temelli değerlendirme ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencileri küçük gruplara ayırarak ney çalgısının, tarihsel dönemlerdeki görüntüleri ve farklı materyallerden yapılan neylerin resimlerinden oluşan görseller hazırlamaları istenebilir. Performans görevi; analitik dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.1.3.1",
+    "Farklı ney kayıtları dinlettirilerek ney sesinin tonunu fark etmeleri sağlanır. Akıllı tahta üzerinde neye benzer çalgıların (kaval, zurna, mey vb.) sesleri dinlettirilip, ney sesini diğer çalgılarla kıyaslama yaparak tanıması ve ayırt etmesi sağlanarak oyun oynanır ( OB2 ). Ardından ney sesinin tonunu kendi cümleleriyle ifade etmesi beklenir ( SDB2.1 ). Bu süreçte ney sesini içeren bir müzik parçası dinletilerek belirli bir süre içerisinde ney sesinin geçtiği anları arkadaşlarıyla birlikte işaretleyerek oyun oynanması sağlanır ( D4.2 ). Süreç kontrol listesi ile değerlendirebilir.",
+    "NEY.1.3.2",
+    "Ney ilgili belirlenen video, sunu, gibi materyal veya etkinliklerle çalgının merak edilmesi sağlanır ( E1.1 ). Çeşitli görseller aracılığıyla ney çalgısını tanıması sağlanır ( OB4 ). Çalgı üzerinde bölümler gösterildikten sonra eşleşme kartları ile çalgının bölümlerinin tanınması sağlanır ( OB4 ). Bu süreç çalışma kâğıdı ile değerlendirilebilir.",
+    "NEY.1.3.3",
+    "Neylerin boyutlarını gösteren grafikler veya resimler hazırlanır. Farklı boyutlardaki neyler sınıf ortamına getirilerek öğrencilerin boyut farklarını anlamaları sağlanır ( OB4 ). Farklı boyutlardaki neylerin çalındığı örnekler dinlettirilip her boyutun ses özellikleri ve tonları hakkında çıkarım yapabilmeleri için akıllı tahta üzerinde dinledikleri ney seslerini kalın ve tiz olarak, boyut olarak da büyük ney orta ney ve küçük ney olarak ifade etmeleri beklenerek oyun oynanır ( OB2 ). Bu oyun temelli değerlendirme ile değerlendirilebilir.",
+    "NEY.1.3.4",
+    "Farklı materyallerden yapılan neyler, (plastik alüminyum, pirinç, kamış vb.) sınıf ortamına getirilerek öğrencilerin neye ilişkin parçaları, belirlemeleri sağlanır. Bu aşamadan sonra neye ilişkin parçalar arasında ilişki kurulması amacıyla öğrencilerin çalgıya dokunması ve incelemesi sağlanır ( D3.3 ).Bu süreç gözlem formu ile değerlendirebilir.",
+    "NEY.1.3.5",
+    "Neyin tarihsel dönemlerdeki görüntüleri ve farklı türlerinin resimleri görsel materyallerle gösterilerek neyin evriminin anlaşılması ve incelenmesi sağlanır. İncelediği görselleri, bağlamdan kopmadan, neyin evrim sürecini yansıtacak şekilde, kendi çizimlerini oluşturmaları istenir. Neyin tarihi ve gelişim süreci hikâyeleştirilerek anlatılıp öğrencilerin anlatılan hikâyeyi, bağlamdan kopmadan kendi cümleleriyle yeniden ifade etmeleri sağlanır. Bu bağlamda öğrencilerden neyin Türk kültüründeki yerini bilmeleri beklenir ( D19.2 ). Bu süreç analitik dereceli puanlama anahtarı ile değerlendirebilir. Öğrencilerin gözlemlerine, araştırmalarına ve önceki öğrenme çıktılarına bağlı bir şekilde akıl yürütüp, görsellerle veya sözlü sunum şeklinde, kendi duygu düşüncelerini bağımsız olarak ifade edip ney için tanım oluşturmaları istenir ( E1.2 , D11.2 , OB1 ). Oluşturdukları tanımı sınıf ortamında paylaşarak, sunmaları sağlanır. Performans görevi olarak öğrencileri küçük gruplara ayırıp ney çalgısının, tarihsel dönemlerdeki görüntüleri ve farklı materyallerden yapılan neylerin resimlerinden oluşan görseller hazırlamaları istenebilir ( OB2 ). Performans görevi; analitik dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D19.2",
+      "D3.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1209"
+}

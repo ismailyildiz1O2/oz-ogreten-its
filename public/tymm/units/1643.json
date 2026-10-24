@@ -1,0 +1,103 @@
+{
+  "unitId": 1643,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Mantık Dersi",
+  "title": "4. Ünite: Mantık Çeşitleri Ve Uygulamaları",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MAN.4.1",
+      "title": "Mantık ve bilgi alanları arasındaki ilişkiyi yapılandırabilme",
+      "processComponents": [
+        "a) Felsefe, matematik, bilim ve teknolojinin konularını ve özelliklerini inceleyerek mantık ile ilişkisini ortaya koyar.",
+        "b) Mantığın bilgi alanları ile ilişkisini bir bütün olarak ortaya koyar."
+      ]
+    },
+    {
+      "code": "MAN.4.2",
+      "title": "Mantık çeşitlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Mantık çeşitlerinin özelliklerini belirler.",
+        "b) Mantık çeşitlerinin belirlenen özellikleri üzerinden benzerliklerini listeler.",
+        "c) Mantık çeşitlerinin belirlenen özellikleri üzerinden farklılıklarını listeler."
+      ]
+    },
+    {
+      "code": "MAN.4.3",
+      "title": "Verilen bir görüşü mantıksal açıdan tartışabilme",
+      "processComponents": [
+        "a) Verilen görüş hakkında mantıksal temellendirme yapar.",
+        "b) Verilen görüşteki çelişkileri/tutarsızlıkları ve/veya geçersizlikleri tespit eder.",
+        "c) Verilen görüşleri çürütür veya kabul eder."
+      ]
+    },
+    {
+      "code": "MAN.4.4",
+      "title": "İhtiyaçların karşılanmasında ve sorunların çözümünde mantıksal açıdan karar verebilme",
+      "processComponents": [
+        "a) İhtiyaçların karşılanmasında ve sorunların çözümünde mantıksal açıdan karar vermeyi amaç olarak belirler.",
+        "b) Karar verme sürecinde bilgi toplar.",
+        "c) Edindiği bilgilerden hareketle alternatif önermeler oluşturur.",
+        "ç) Oluşturduğu önermeleri mantıksal açıdan denetler.",
+        "d) Denetlemeler sonucunda ulaştığı yapıya dayalı seçim yapar.",
+        "e) Kararının sonuçlarını yansıtır."
+      ]
+    },
+    {
+      "code": "MAN.4.5",
+      "title": "Akıl yürütme biçimlerini verilen günlük hayat durumlarında uygulayabilme",
+      "processComponents": [
+        "a) Parçadan bütüne ilişki kurarak sonuca varır.",
+        "b) Genelden genele ilişki kurarak akıl yürütür.",
+        "c) Genelden özele ilişki kurarak akıl yürütür.",
+        "ç) Özelden özele ilişki kurarak akıl yürütür."
+      ]
+    },
+    {
+      "code": "MAN.4.6",
+      "title": "Örnek metinleri mantıksal açıdan denetleyebilme",
+      "processComponents": [
+        "a) Örnek metinlerde geçen yargıları önermelere dönüştürerek ifade eder.",
+        "b) Örnek metinlerden elde ettiği önermelere tutarlılık ve geçerlilik kurallarını uygular.",
+        "c) Tutarlılık ve geçerlilik kuralları bağlamında örnek metinler hakkında yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "paradoks, safsata",
+  "support": [
+    "Kavram haritası aracılığı ile mantığın uygulama alanlarını fark etmeleri sağlanabilir.",
+    "Mantık türleri arasındaki benzerlik ve farklılıkları listelemeleri sağlanabilir.",
+    "Basit mantık problemleri çözdürülebilir.",
+    "Bir karar verme sürecinin mantıksal gerekçelendirmesi adım adım örneklendirilebilir."
+  ],
+  "enrichment": [
+    "Mantık ve teolojinin etimolojik kökenleri ile tarihsel ve felsefî bağlamlarının araştırılarak mantık ve teoloji arasındaki ilişkiyi açıklayan kısa bir metin yazdırılabilir.",
+    "* Alfred Tarski’nin (AlfiretTarski) sentaktik ve semantik doğru kavramlarının mantığın gelişimi açısından önemi araştırılabilir.",
+    "*Yapay zekâ uygulamalarının insan mantığıyla ilişkisi üzerine eleştirel bir metin yazdırılabilir.",
+    "Alev Alatlı’nın “Safsata Kılavuzu” adlı eserinden alıntılanan safsata türleri ve örnekleri hakkında sunum hazırlatılabilir.",
+    "Kemal Tahir’in “Devlet Ana” adlı eserinden alıntılanan bir metnin mantıksal açıdan denetlenmesi yaptırılabilir.",
+    "Bir mahkeme kararının mantıksal olarak denetlenmesi yaptırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarında öz veya akran değerlendirme formu, grup değerlendirme formu, çalışma kâğıdı, kontrol listesi ve performans görevi kullanılabilir. Performans Görevi: Öğrenciler gazete veya sosyal medya yazıları ile izledikleri televizyon programlarında karşılaştıkları safsatalara örnek verir, bu safsataların neden kaynaklandığını gösteren bilgi görseli yaparak sınıfta sunar. Performans görevi verilen safsataların doğru bir biçimde nedenleriyle birlikte tespit edilmesi, bilgi görselinin niteliği gibi kriterlerin yer aldığı dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAN.4.1",
+    "Öğrencilerin mantığın bilgi alanları ile olan ilişkisi üzerine yönlendirici sorular (Bilgi mantıksal olmazsa ne olur? Mantık bilgisi nedir? Mantığı diğer disiplinlerden ayıran özellikleri nelerdir? Mantık kendi başına ayrı bir disiplin midir? Matematik neden mantığı konu edinir? Bilimsel çalışmalarda mantığın rolü nedir? vb.) ile dikkatleri çekilir ( E1.1 ). Felsefe, bilim (matematik, fizik, kimya, biyoloji, psikoloji, tarih ve hukuk) ve teknolojinin konu ve özelliklerini içeren yazılı veya görsel materyaller verilerek öğrencilerin ilgili disiplinlerin temel unsurlarını incelemeleri ve bunların mantık bilimi ile ilişkisi hakkında çıkarımda bulunmalarrı sağlanır ( KB2.10 ). Süreçte soru-cevapı öğretim tekniği kullanılabilir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Filozofların [Aristoteles, Farabi, İbni Sina, Gazali, Descartes (Dekart), Bernard Russell, Takiyettin Mengüşoğlu] öne çıkan argümanlarını içeren kısa metinler üzerinden öğrencilerin bu argümanlardaki mantıksal temelleri incelemeleri ve “Mantık, felsefeden ayrı bir bilgi alanı mıdır? Mantık felsefenin bir aleti midir?” soruları üzerine tartışma yapmaları sağlanır. Bun aşamada küçük grup tartışma öğretim tekniği kullanılabilir. Matematiğin temel kavramlarından tanım, aksiyom, teorem ve ispat hakkında bilgi notu verilerek öğrencilerin bu kavramların matematiğin tutarlı, sistemli ve güvenilir bir bilgi alanı olmasındaki rolünü tartışmaları sağlanır. Öğrencilerden mantığın temel ilkelerinden özdeşlik, çelişmezlik ve üçüncü hâlin imkânsızlığı ile aksiyomlar arasındaki ilişki hakkında çıkarım yapmaları istenir. Bunun için cümle tamamlama çalışmaları yaptırılabilir. Öğrencilere sözel ve sayısal mantık soruları üzerinden mantık ve matematik ilişkisini gösteren örnek çözümler verilir. Öğrencilerin mantık olmaksızın matematiksel bilginin kurulup kurulamayacağına yönelik gerekçeli görüş sunmaları sağlanır. Öğrencilerden İsmail Gelenbevi’nin mantık ve matematik çalışmaları hakkında araştırma yaparak bilgi toplamaları, edindikleri bilgileri doğrulayarak dijital bir poster hazırlamaları istenir ( OB1 , OB2 ). Öğrenciler mantık alanında ülkesini temsil edenleri takdir eder ( D19.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Bilim ve mühendislikte mantığın kullanımını gösteren [Cezeri’nin mekanik, Biruni ve Takiyyüddin’in ise ölçüm, gözlem ve astronomi alanındaki çalışmaları, Edwin Hubble’ın (Edvın Habıl) evrenin genişlemesi görüşü, Pasteur’ün (Pastör) mayalanma deneyi, vb.] örnekler verilir ( E1.1 ). Öğrencilerin bu çalışmalarda başvurulan akıl yürütme biçimleri hakkında çıkarımda bulunmaları sağlanır ( KB2.10 ). Öğrencilerden fizik, kimya, biyoloji derslerinde öğrendikleri bilgilerden hareketle doğa bilimlerinde kullanılan akıl yürütme biçimlerine ve biyomimetrik tasarımlara örnekler vermeleri istenir. Süreçte alıştırma etkinliği yaptırılır ( SDB1.2 ). Sosyal bilimler alanında yapılan çalışmalardan bazı örnekler [Miligram (Milgram) deneyi, John Rawls’ın (Con Rols) cehalet örtüsü düşünme deneyi vb.] üzerinden öğrencilerin bu çalışmalarda mantığın nasıl kullanıldığı üzerine fikir üretmeleri sağlanır ( E1.1 ). Öğrenciler mantık ve psikolojinin düşünmeyi konu edinişlerindeki temel farklılıklar ile hukukta kullanılan temel mantık ilkelerinin neler olduğu üzerine çıkarım yapar. Öğrencilere bazı makinelerin (çamaşır, bulaşık, buharlı ütü vb.) bulanık mantığa dayalı çalışma prensiplerinden ve yapay zekâ uygulamalarından örnekler gösterilir ( E1.1 ). Öğrencilerin makinelerin programlanmasında mantığın yeri ve önemi hakkında tartışma yapmaları sağlanır. Süreç öz veya akran değerlendirme formu ile değerlendirilebilir. MAN.4.2",
+    "Öğrencilere mantık çeşitlerinin [abdüktif (geri çıkarımsal) mantık, bulanık mantık, temporal mantık, soru-cevap mantığı, tutarlılık ötesi mantık ve informel mantık] açıklamalarını içeren bir bilgi notu verilir. Öğrencilerin iş birlikli olarak söz konusu mantık çeşitlerinin ortaya çıkma nedenlerini, kullanım alanlarını ve öne çıkan özelliklerini gösteren bir tablo yapmaları sağlanır ( OB1 , KB2.5 ). Tablodan hareketle öğrencilerden çeşitli soruları (Hangi ihtiyaçların bir gereği olarak değişik mantık çeşitlerinin ortaya çıktığı söylenebilir? Mantık çeşitlerinin kullanım alanları bakımından farklılaşmasının olumlu ve olumsuz etkileri neler olabilir? Mantık çeşitlerinin gelişimiyle bilgi türlerinin gelişimi arasında bir ilişkiden söz edilebilir mi? vb.) cevaplamaları istenir. Mantık türleri arasındaki benzerlik ve farklılıkları iş birlikli olarak listelenmesi sağlanır ( SDB2.2 ). Farklı örnekler üzerinden bunlarda hangi mantık çeşitlerinin kullanıldığı hakkında alıştırma etkinliği yapmaları sağlanır ( SDB1.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Süreçte grup değerlendirme formu kullanılabilir.",
+    "MAN.4.3",
+    "İletişimde mantığın önemi vurgulanarak uzlaşma ve çatışma durumlarındaki mantıksal yapıyı gösteren örnekler (karikatür, sosyal medya yazışması, video, animasyon vb.) verilir ( E1.1 , OB2 ). Öğrenciler örnek durumlardan hareketle mantığın günlük hayattaki yeri ve önemi hakkında mantıksal olarak temellendirilmiş bir görüş ortaya koyar ( SDB3.3 , OB1 ). Paradoksları örneklerle açıklayan bilgi notu verilerek öğrencilerden günlük hayattan paradokslarla ilgili örnek vermeleri istenir. Öğrenciler örneklerin uygunluğunu nazikçe tartışır ( D14.1 ). Tartışmada olumlu bakış açısı geliştirir ve davranışlarında kontrollü olur, örnek vermek için çaba gösterir ve zihinsel örüntülerini ifade eder ( E3.2 , D12.1 ). Öğrencilere dilemma ve safsata hakkında kısa bir bilgi notu ile içinde dilemma ve safsataların yanı sıra tutarlı ve tutarsız görüşlerin de bulunduğu ifadeler karışık olarak verilir. Öğrencilerden bu görüşleri dilemma, safsata ve tutarlı görüşler olarak ayırmaları istenir ( E3.4 , SDB2.2 ). Bu görüşlerin hangilerinin savunulabilir olduğu hakkında öğrencilerin gerekçeli görüş oluşturması sağlanır. Öğrencilerden gazete veya sosyal medya yazıları ile izledikleri televizyon programlarında karşılaştıkları safsatalara örnek vermeleri, bu safsataların neden kaynaklandığını gösteren bilgi görseli yaparak sınıfta sunmaları istenir ( E1.3 , E3.7 , OB2 ). Bu, performans görevi olarak verilir ( E1.4 , E2.2 ). Öğrenciler haksızlıkların düzeltilmesinde kararlılık gösterir ( D1.2 ). Performans görevi verilen safsataların doğru bir biçimde nedenleriyle birlikte tespit edilmesi, bilgi görselinin niteliği gibi kriterlerin yer aldığı dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilebilir. Öğrenciler performans çalışmasında görev bilinci ile hareket eder, ödev ve sorumluluklarını yerine getirir ( D3.3 , D16.3 ).",
+    "MAN.4.4",
+    "Genel ağda yapılan alışveriş yorumları verilerek öğrencilerden bunları mantıklı ve mantıksız olarak listelemeleri ve doğru karar vermede mantığın önemine dair kendi örneklerini paylaşmaları istenir ( E3.5 , OB1 ). Öğrenciler bilinçli tüketici olmanın önemini ifade eder ( OB3 , D17.1 ). Tüketim alışkanlığının bağımlılığa dönüşmemesi için kontrollü olunması gerektiğini belirtir ( D13.3 ). Tıbbi bir tanı koymada, hukuki bir karar vermede, stratejik bir hamle yapmada veya kariyer planlamasında mantıksal karar vermenin önemi ve gereği hakkında öğrencilerin tartışma yapmaları sağlanır ( SDB3.3 ). Tartışmada akıl yürütmenin pratik hayatın bir parçası olduğu ve mantığın sadece teorik olarak düşünülmesinin bir yanılgı olduğu üzerinde durulur. Öğrencilerden ihtiyaçlarından veya yaşadıkları sorunlardan (üniversite, meslek vb.) birini belirlemeleri istenir. Öğrencilerin belirledikleri ihtiyacın giderilmesine veya sorunun çözümüne yönelik mantıksal açıdan karar vermeyi amaç edinmeleri sağlanır. Süreçte öğrencilerden bilgi toplamaları ve objektif verilere dayanmanın getireceği bilinçlenme durumunun mantıksal açıdan önemini ifade etmeleri istenir ( E3.4 , OB1 ). Edindiği bilgilerden hareketle öğrencilerin alternatif önermeler oluşturmaları ve bu önermeleri mantıksal açıdan tutarlılığını denetlemeleri sağlanır. Karar verme sürecinde doğru düşünmeyi etkileyen durumlar (veri eksikliği, sanı, sezgi, ön yargı, duygu vb.) üzerine çıkarımda bulunmaları gerçekleştirilir. Öğrenciler duygu ve düşüncelerini açıkça ifade eder ( D6.2 ). Öğrenciler denetlemeler sonucunda ulaştıkları yapıya dayalı seçim yaparak karar verir ( SDB3.1 , SDB3.2 , KB3.2 ). Kararlarını kısa bir metinle yansıtır. Öğrenciler hayatta aldığı kararları uygulamada cesur davranır ( E1.5 , D11.1 ). Metin, kontrol listesi ile değerlendirilebilir.",
+    "MAN.4.5",
+    "Öğrencilere günlük hayat durumlarında (okul, gezi, sinema, oyun, sınav vb.) ortaya çıkan doğru akıl yürütme biçimleri ile hatalı akıl yürütme biçimlerine ilişkin yazılı veya görsel örnekler ile açık uçlu soruların yer aldığı çalışma kâğıdı verilir ( E1.3 , OB4 ). Çalışma kâğıdında doğru ve hatalı akıl yürütme biçimleri tespit ettirilir. Tümevarım, tümdengelim ve analoji akıl yürütme türlerine uygun olanlarını belirlemeleri sağlanır. Öğrencilerden akıl yürütme türlerine yönelik kendi yaşamlarından örnekler vermeleri istenir. Dedektif hikâyesi, kelime avı, sudoku, matematik sorusu, ulusal ve uluslararası sınav örnekleri verilerek öğrencilerden iş birlikli olarak bunları çözmeleri, bu süreçte oluşturdukları mantıksal çıkarımları ifade etmeleri istenir ( E2.5 , SDB2.1 , SDB2.2 ). Süreçte alıştırma etkinliği yaptırılır ( SDB1.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Süreç, öz veya akran değerlendirme formu ile değerlendirilebilir.",
+    "MAN.4.6",
+    "Öğrencilere günlük hayatla ilişkili metinler soru örnekleri, film replikleri, hikâyeler ile açık uçlu soruların yer aldığı çalışma kâğıdı verilir ( E1.3 , OB4 ). Çalışma kâğıdında metinlerde geçen yargıların belirlenmesi, bu yargıların mantık diline dönüştürülerek yeniden ifade edilmesi ve bunların tutarlılıklarının ve geçerliliklerinin denetlenmesi sağlanır. Öğrencilerden söz konusu metinlerin mantıksal durumları hakkında gerekçeli yargıda bulunulması istenir ( E3.4 , SDB3.3 ). Süreç, kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB12. Mantıksal Muhakeme (SBAB12.1. Akıl Yürütme Biçimlerini Uygulama, KB2.19. Mantıksal Denetleme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1643"
+}

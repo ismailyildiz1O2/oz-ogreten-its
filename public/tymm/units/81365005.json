@@ -1,0 +1,83 @@
+{
+  "unitId": 81365005,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Ekonomi Dersi",
+  "title": "5. ÜNİTE: ÖDEMELER DENGESİ, DIŞ TİCARET VE ULUSLARARASI EKONOMİK KURULUŞLAR",
+  "hours": "13",
+  "description": "Bu ünitede ekonomik faaliyetlerin uluslararası boyutuna değinilerek; ödemeler dengesi, devalüasyon, uluslararası ekonomik kuruluşlar konularına yer verilmiştir. Ayrıca ülkemizin ekonomi politikalarında önemli rol oynayan Avrupa Birliği'ne giriş süreci ve bu sürecin Türkiye ekonomisine etkisi konusunda öğrenci seviyesine uygun yeterli kazanımlar edindirilmeye çalışılmıştır.",
+  "outcomes": [
+    {
+      "code": "EKO.5.1",
+      "title": "Ödemeler dengesi kavramını açıklayarak ödemeler bilânçosu ana hesaplarının sonuçlarını yorumlar",
+      "processComponents": [
+        "Ödemeler dengesi kavramı açıklanır."
+      ]
+    },
+    {
+      "code": "EKO.5.2",
+      "title": "Dış ticaretin ülke ekonomisindeki önemini ve etkilerini açıklar",
+      "processComponents": [
+        "Dış ticaret ile ekonomik büyüme ve istihdam arasında ilişki kurulur.",
+        "Coğrafya dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.5.3",
+      "title": "Dış ticaret açığı ya da fazlası ile dış açığın ya da fazlasının ülke ekonomisine etkilerini değerlendirir",
+      "processComponents": [
+        "Dış ticaret fazlalığının gelişmiş ülke ekonomilerinde görülebileceği vurgulanır.",
+        "Bir ülkenin cari fazla vermesinde hizmet ihracatının önemi vurgulanır.",
+        "Coğrafya dersinin ilgili konuları ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.5.4",
+      "title": "Döviz ve döviz kuru kavramlarını açıklar",
+      "processComponents": [
+        "4. ünitenin döviz piyasası konusuyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "EKO.5.5",
+      "title": "Devalüasyon kavramını açıklayarak nedenlerini ortaya koyar",
+      "processComponents": [
+        "Enflasyon ile devalüasyon arasındaki ilişki vurgulanır."
+      ]
+    },
+    {
+      "code": "EKO.5.6",
+      "title": "Belli başlı uluslararası ekonomik kuruluşları sıralar",
+      "processComponents": [
+        "Uluslararası ekonomik kuruluşlardan IMF, Dünya Bankası, OECD, AB, UNCTAD'a değinilir."
+      ]
+    },
+    {
+      "code": "EKO.5.7",
+      "title": "Uluslararası ekonomik kuruluşların Türk ekonomisine etkilerini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "EKO.5.8",
+      "title": "Türkiye'nin AB ile ilişkilerinin tarihi gelişimini özetler",
+      "processComponents": [
+        "Avrupa Birliğinin yapısı, amacı, gümrük birliği, Türkiye'nin Avrupa Birliğine üyeliği ve uyumu konusunda temel bilgiler verilir."
+      ]
+    },
+    {
+      "code": "EKO.5.9",
+      "title": "Türkiye'nin AB'ye tam üyeliği sürecinde yapılan çalışmaların ilerleme sürecine etkilerini değerlendirir",
+      "processComponents": [
+        "Türkiye'nin AB'ye tam üyeliği ile ilgili haber, yorum, analiz, makale vb. içeren gazete kupürlerinden yararlanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163132505-Ekonomi.pdf"
+}

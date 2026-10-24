@@ -1,0 +1,69 @@
+{
+  "unitId": 81294001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "1. ÜNİTE: I. DÜZEY 1. TEMA: BİLİM VE TEKNOLOJİ I",
+  "hours": "20",
+  "description": "“Bilim ve Teknoloji I” teması, bilimin yapı taşlarını, bilimsel yöntem ve süreçlerini, etik prensipleri, bilim ve teknoloji arasındaki ilişkinin ve yenilikçi teknolojilerin anlatıldığı bir içeriği kapsar. Bu temada öğrencilerin fen bilimlerinin temel prensiplerini anlamaları sağlanır ve onlara bilimin doğasına yönelik bir bakış açısı kazandırılması amaçlanır. Ayrıca bu temada verilerin toplanması ve analiz edilmesi gibi bilimsel süreçlerin temel adımları ele alınır. “Bilim ve Teknoloji I” temasında öğrencilerden bilimin temel basamaklarını eleştirel bir bakış açısıyla değerlendirmeleri, doğru bilgiye ulaşma sürecini değerlendirmeleri, ölçme ve veri okuma süreçlerinden hareketle temel bilim alanları ile ilgili deney yapmaları, bilim ve teknoloji arasındaki ilişkiyi çözümlemeleri, teknolojinin insan hayatındaki rolünü bilimsel bir şekilde tartışmaları ve yenilikçi teknolojiler üzerine bilgi toplamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.1.1.1.1",
+      "title": "Bilimin temel basamaklarını eleştirel bir bakış açısıyla değerlendirir",
+      "processComponents": [
+        "Bilimsel sürecin kapsadığı basamakların özelliklerine değinilir. Bilimsel sürecin neden önemli olduğu belirlenir.",
+        "Bilimsel süreç ve bilimsel etik kavramları arasında ilişki kurmaları sağlanır. Etik ilkelere vurgu yapılarak bilimsel buluşlar ve bu buluşların etkileri bilimsel etik ilkeler açısından değerlendirilir."
+      ]
+    },
+    {
+      "code": "FBU.1.1.1.2",
+      "title": "Doğru bilgiye ulaşma sürecini değerlendirir",
+      "processComponents": [
+        "Bilgi kavramı ve bilgi türlerine değinilir.",
+        "“Bildiklerimin doğru olduğunu nasıl anlarım?” sorusu üzerine fikir yürütülmesi sağlanır.",
+        "Doğru bilgiye ulaşmak için ölçüt belirlenir."
+      ]
+    },
+    {
+      "code": "FBU.1.1.1.3",
+      "title": "Ölçme ve veri okuma süreçlerinden hareketle temel bilim alanları ile ilgili deney yapar",
+      "processComponents": [
+        "Ölçme ve ölçme birimleri (uzunluk, ağırlık, hacim, sıcaklık, zaman vb.) hakkında bilgi sahibi olmaları ve bu birimleri doğru bir şekilde kullanmaları sağlanır.",
+        "Veri toplama yöntemleri ve veri görselleştirme süreci açıklanır.",
+        "Ölçme, veri toplama ve veri görselleştirme sürecini içeren deney yapmaları sağlanır. Temel bilim alanları üzerine yapılan deneylerden elde edilen sonuçlar gerçek yaşamdaki nesne, olay ve/veya olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.1.1.2.1",
+      "title": "Bilim ve teknoloji arasındaki ilişkiyi çözümler",
+      "processComponents": [
+        "Bilimsel bilginin teknolojiye dönüşüm sürecine ilişkin günlük hayattan örnekler verilir."
+      ]
+    },
+    {
+      "code": "FBU.1.1.2.2",
+      "title": "Teknolojinin hayatımızdaki rolünü bilimsel bir şekilde tartışır",
+      "processComponents": [
+        "Toplumun ihtiyaçları ve teknoloji arasındaki ilişkinin günlük hayattaki örnekler üzerinden açıklanması sağlanır.",
+        "Teknolojinin insan hayatında olumlu ve olumsuz etkileri örneklerle analiz edilir. Teknolojinin olumlu/ olumsuz etkileri üzerine sınıf ortamında akıl yürütmeleri sağlanır.",
+        "Teknolojik bir cihazın yaydığı elektromanyetik radyasyon miktarının kullanıma bağlı olarak nasıl değiştiği deney yapılarak gözlemlenir.",
+        "Teknolojinin ekonomiye etkisi farklı ülkelerdeki uygulamalarla karşılaştırılarak belirlenir."
+      ]
+    },
+    {
+      "code": "FBU.1.1.2.3",
+      "title": "Yenilikçi teknolojiler hakkında topladığı bilgiler ile ilgili rapor hazırlar",
+      "processComponents": [
+        "Yenilikçi teknolojiler (Yapay Zekâ ve Uygulamaları, Biyoteknoloji ve Genetik Mühendisliği, Nanoteknoloji ve Uygulamaları) hakkında bilgiye ulaşmaları ve bunları rapor hâline getirmeleri sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

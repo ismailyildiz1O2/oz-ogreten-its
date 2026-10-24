@@ -1,0 +1,52 @@
+{
+  "unitId": 1590,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Proje Tasarımı ve Uygulamaları Dersi",
+  "title": "6. Ünite: Projede Yaygın Etki",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "PTU.6.1",
+      "title": "Fikrî ve sınai mülkiyet haklarının korunması hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Fikrî ve sınai mülkiyet haklarının korunması hakkındaki bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Fikrî ve sınai mülkiyet haklarının korunması hakkındaki bilgileri bulur.",
+        "c) Bulduğu bilgileri doğrular.",
+        "ç) Elde ettiği bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "PTU.6.2",
+      "title": "Projede yaygın etkinin neleri içerdiğini sorgulayabilme",
+      "processComponents": [
+        "a) Projede yaygın etki konusunu tanımlar.",
+        "b) Projede yaygın etki konusunda sorular sorar.",
+        "c) Projede yaygın etki hakkında bilgi toplar.",
+        "ç) Toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "benzerlik (intihal), bildiri, çalıştay, dijital mecra, fikrî haklar, girişimcilik, görselleştirme araçları, kitap, konferans, makale, sergi, sınai haklar, telif hakkı, veri, veri analizi, yaygın etki",
+  "support": [
+    "Öğrencilerin yaygın etkisi yapılmış bir proje metnini incelemesi sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin proje çıktılarını bir metne dönüştürmesi ve bunu varsa okul dergisinde yayınlatması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrencilerden performans görevi olarak proje çıktılarının korunmasına yönelik süreçleri içeren bir dosya hazırlayarak bilgileri kaydetmeleri istenebilir. Bu dosya dereceli performans değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PTU.6.1",
+    "Öğretmen; öğrencilerden proje çıktılarının (ürün, tasarım vb.) kime ait olduğunu, neden korunması gerektiğini, nasıl korunacağını, fikrî ve sınai mülkiyet haklarının nasıl elde edilebileceğini sorgulamalarını ister ( E3.8 ). Her öğrenci bir proje çıktısının fikrî ve sınai mülkiyet hakları çerçevesinde nasıl koruyabileceğini araştırır ( OB2 ). Öğrenciler proje çıktılarının taklit edilmemesi, izinsiz kullanılmaması ve yasal haklarının korunması için kullanacağı bilgi toplama araçlarını belirler. Bu aşamada emek ve fikirlerin korunmasının hak ve sorumluluklarının bir parçası olduğunu fark eder ( D1.1 , E2.2 ). Bu süreçte Türk Patent ve Marka Kurumu (TÜRKPATENT), Dünya Fikri Mülkiyet Örgütü (WIPO), Avrupa Birliği Fikri Mülkiyet Ofisi (EUIPO) gibi güvenilir kurumların kaynaklarından yararlanarak konu hakkında bilgileri araştırırlar ( OB2 ). Öğrencilerden araştırma süreçlerinde patent, telif hakkı, marka, tasarım tescili gibi fikrî mülkiyet türlerini de inceleyerek kendi geliştirdikleri proje çıktıları için en uygun koruma yöntemini belirlemeleri beklenir ( OB2 , E3.7 ). Öğrencilerden proje çıktılarının hangi kategoriye girdiğini anlamaları ve bu korumanın daha önce alınıp alınmadığını kontrol etmek için Türk Patent ve Marka Kurumunun sayfasından doğrulama yapmaları beklenir ( E3.4 , OB2 ). Öğrencilerin yapay zekâ destekli araçlar kullanılarak geliştirilen proje çıktılarında fikrî mülkiyet, telif hakkı, veri güvenliği, şeffaflık ve etik kullanım ilkelerini sorgulamaları sağlanır. Bu kapsamda öğrencilerden MEB Yapay Zekâ Etik Kurulu Raporu doğrultusunda yapay zekâ kullanımına ilişkin sorumluluklarını değerlendirmeleri ve proje geliştirme süreçlerinde etik ilkelere uygun hareket etmeleri beklenir. Öğrencilere proje çıktılarının korunmasına yönelik içerisinde ürün adı, açıklaması, hangi yeniliği getirdiği, hedef kitlesi ve korunması için önerilen yöntemleri içeren bir kitapçık hazarlamak performans görevi olarak verilebilir. ( SDB3.2 ). Ayrıca öğrencilerden proje çıktılarının fikrî ve sınai mülkiyet hakları çerçevesinde korunması için sürecin nasıl işlediğini araştırıp gerekli olan başvuru belgelerini dosyalarına eklemeleri istenir. ( E2.2 , OB2 ). Öğrencilerden bireysel başarılarını toplumsal faydaya dönüştürmek için bilgilerini arkadaşlarıyla paylaşarak iş birliği yapmaları beklenir ( D3.4 ). Bu süreç dereceli performans değerlendirme formu ile değerlendirilebilir.",
+    "PTU.6.2",
+    "Öğretmen sınıfa bir kova ve çakıl taşı getirir. İçerisine öğrencilerin su doldurması sağlanır. Sonra bir öğrenciden kovanın ortasına küçük bir çakıl taşı atması istenir. Bu yolla öğrencilerin taşın suda bıraktığı dalgaların etkisini sorgulamaları sağlanır ( E1.1 ). Öğretmen, öğrencilerden daha önce yapılmış proje örneklerinden hareket ederek yaygın etki kavramını tanımlamalarını ister. Yapılan tanımlar kavram haritası şeklinde tahtada düzenlenir. Öğrencilerin \"Bir proje sadece yapan kişiye mi fayda sağlar, yapılan bir projenin hedef kitlesi sınırlı mı yoksa geniş mi olmalıdır, bir projenin sosyal medyada paylaşılması bir yaygın etki midir?” gibi sorular sormaları sağlanır ( E1.1 ). Öğrenciler bu örneklerden yola çıkarak daha önce yapılmış olan projelerin (TUBİTAK 4006, eTwinning, sosyal sorumluluk projeleri vb.) yaygın etkisi hakkında bilgi toplar. Toplanan bilgiler, öğrenciler tarafından eleştirel bir bakış açısıyla değerlendirilir. Öğrencilerin bilgilerin doğruluğunu sorgulaması, farklı bakış açılarını analiz etmesi ve güvenilir kaynakları ayırt etmesi için çeşitli etkinlikler düzenlenir ( E3.4 , E3.2 , E3.6 ). Örneğin öğretmen; birkaç proje haberini sınıfa getirip öğrencilerden bunları ilginç, yaygın etkisi yüksek, faydacı olma açılarından analiz etmelerini ister. Elde ettiği bilgilerin doğruluğunu test edebilmek için bir tablo oluşturulabilir. Tabloda veri toplama araçlarını (kitap, makale, tez, sosyal medya, gazete vb.) sütunlara, yaygın etki ile ilgili bulduğu verileri satırlara yazarak, benzerlik ve farklılıklarını belirleyerek doğruluğunu değerlendirir ( E3.6 ). Bir projenin yaygın etkisinin neler olabileceğine dair proje örneklerinin yaygın etkileri incelenerek analiz yapılması sağlanır. Bu kapsamda konferans, sergi, kongre, çalıştay, panel, yayın, patent, faydalı model vb. olguların proje çıktısının yaygın etkisi olabileceği çıkarımında bulunur."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1590"
+}

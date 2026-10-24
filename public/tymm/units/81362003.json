@@ -1,0 +1,72 @@
+{
+  "unitId": 81362003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Sosyal Hayatında Aile Dersi (Lise)",
+  "title": "3. ÜNİTE: TÜRK AİLE YAPISINDAKİ DEĞİŞİM VE DÖNÜŞÜM",
+  "hours": "14",
+  "description": "Bu ünitede “Sanayileşme ve Kentleşme Sürecinde Türk Ailesi”, “Millî Kültürün Aktarıcısı Olarak Türk Ailesi” ve “Türk Ailesinde Komşuluk ve Akrabalık İlişkileri” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TSA.3.1.1",
+      "title": "Modernleşme, kentleşme ve göç sürecinin Türk aile yapısı üzerindeki etkilerini aile içi ilişkiler bakımından değerlendirir",
+      "processComponents": [
+        "Öğrencilerin 1950'li yıllardan itibaren çağdaş Türk ailesinde yaşanan çeşitli yapısal değişimleri analiz etmeleri sağlanır.",
+        "Sanayileşme, kentleşme ve göç sürecinin toplumsal yapıda olduğu gibi aile kurumunda da değişimleri tetiklediği vurgulanır.",
+        "Öğrencilerin kültürel değişme ve sosyo-kültürel bütünleşme sürecinde aile yapısını analiz etmeleri sağlanır.",
+        "Kadının eğitim ve çalışma hayatına katılmasının ailenin değişimine etkileri tarihsel bağlamda vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.3.1.2",
+      "title": "Modern dünyada değer algısında yaşanan değişimin aile yapısı üzerindeki etkisini yorumlar",
+      "processComponents": [
+        "Popüler kültürün bireyselliği, maddi değerleri ve tüketimi ön plana çıkarmasının Türk aile yapısındaki değer algısına etkilerine değinilir.",
+        "Sosyal medya etkisiyle yardımseverlik, misafirperverlik, cömertlik gibi değerlerdeki değişimin aileye yansımaları vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.3.2.1",
+      "title": "Millî ve manevi kültürün aktarıcısı olması bakımından Türk aile yapısını yorumlar",
+      "processComponents": [
+        "Millî kültürün yaşatılması ve sonraki kuşaklara aktarılmasında ailenin rolü ve önemine yakın çevreden örnekler verilir.",
+        "Öğrencilerin kültürel aktarımda ailenin rolü konusunda Türk atasözlerinden hareketle çıkarım yapmaları sağlanır.",
+        "Değer üretme ve değer aktarım merkezi olarak ailenin, toplumun kültür ve değerlerine uygun bireyler yetiştirmesindeki rolü vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.3.2.2",
+      "title": "Aile bireylerinin sorumluklarını yerine getirip getirmemesinin çocuklar üzerindeki olumlu ve olumsuz etkilerini analiz eder. Aile içerisinde her bireyin sorumlulukları olduğu vurgulanır",
+      "processComponents": []
+    },
+    {
+      "code": "TSA.3.2.3",
+      "title": "Ebeveyn tutumlarının çocuklar üzerindeki olumlu ve olumsuz etkilerini analiz eder",
+      "processComponents": [
+        "Otoriter, demokratik, ilgisiz-kayıtsız, mükemmeliyetçi, aşırı hoşgörülü ve tutarsız anne-baba tutumlarının bireyin gelişimine olumlu veya olumsuz yansımaları vurgulanır."
+      ]
+    },
+    {
+      "code": "TSA.3.3.1",
+      "title": "Türk aile yapısını akrabalık ilişkileri açısından değerlendirir",
+      "processComponents": [
+        "Türk-İslam kültüründe akrabalık ilişkilerinin önemi; Türk atasözleri, özdeyişler ve hadisler bağlamında ele alınır."
+      ]
+    },
+    {
+      "code": "TSA.3.3.2",
+      "title": "Türk kültüründe komşuluk ilişkilerinin önemini yorumlar",
+      "processComponents": [
+        "Türk-İslam kültüründe komşuluk ilişkilerinin önemi Türk atasözleri, özdeyişler ve hadisler bağlamında vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124145026554-t%C3%BCrksosyalhayat%C4%B1ndaaile.pdf"
+}

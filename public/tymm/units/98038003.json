@@ -1,0 +1,34 @@
+{
+  "unitId": 98038003,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "3. ÜNİTE: TANITIM VE PAZARLAMA",
+  "hours": "4",
+  "description": "Bu ünitede öğrencilerin tasarım ürünlerinin markalaşmasına yönelik tanıtım ve pazarlama stratejileri geliştirmesi amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.8.B.2.1",
+      "title": "Tanıtım ve pazarlama tekniklerini açıklar",
+      "processComponents": [
+        "Marka ismi, logo, amblem, ambalaj, afiş, billboard, el ilanı, gif animasyon, broşür, reklam senaryosu, reklam filmi gibi tanıtım araçları ile doğrudan pazarlama, ilişkisel pazarlama, sanal pazarlama, halkla ilişkiler, reklam gibi pazarlama teknikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.B.2.2",
+      "title": "Mevcut bir kurum veya şirkete ait kurumsal kimlik çalışmalarını ve pazarlama tekniklerini analiz eder",
+      "processComponents": [
+        "Pazarlama teknikleri ve kurumsal kimlik analizi yapılır, tanıtım ve pazarlamada hedef kitlenin analizi üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Tasarım Süreci ve Tanıtım",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf"
+}

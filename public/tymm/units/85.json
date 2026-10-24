@@ -1,0 +1,83 @@
+{
+  "unitId": 85,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "4. ÜNİTE: EDEBİYAT VE FELSEFE",
+  "hours": "12",
+  "description": "Bu ünitede öğrencilerin edebiyat felsefe ilişkisine yönelik felsefi soru ve problemleri hayatla ilişkilendirerek anlamlandırması ve felsefi düşünce ortaya koyabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.11.4.1",
+      "title": "Edebiyat felsefe ilişkisi ile ilgili soru ve problemleri anlayabilme",
+      "processComponents": [
+        "a) Edebiyat felsefe ilişkisi ile ilgili felsefi soru ve problemleri açıklar.",
+        "b) Edebiyat felsefe ilişkisi temelinde oluşan soru ve problemlerin hayatla ilişkisini değerlendirir."
+      ]
+    },
+    {
+      "code": "FEL.11.4.2",
+      "title": "Edebiyat felsefe ilişkisi ile ilgili felsefi düşünce ortaya koyabilme",
+      "processComponents": [
+        "a) Edebiyat felsefe ilişkisi ile ilgili felsefi argümanları çözümler.",
+        "b) Edebiyat felsefe ilişkisi ile ilgili felsefi görüş ve argüman oluşturur.",
+        "c) Edebiyat felsefe ilişkisi ile ilgili felsefi metin yazar."
+      ]
+    }
+  ],
+  "keyConcepts": "edebiyat, felsefi roman, felsefi şiir",
+  "support": [
+    "Edebiyatın felsefeyle ilişkisinden doğan felsefi soru ve problemlerin hayatla ilişkilendirilmesinde görsel ve görsel-işitsel materyaller kullanılabilir.",
+    "Edebiyatın felsefeyle ilişkisinin çözümlenmesinde iş birlikli öğrenme yöntemlerinden yararlanılabilir.",
+    "Felsefi metin yazma sürecinde edebiyatın felsefeyle ilişkisiyle ilgili görüş ve argümanlar sunularak yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "Edebî eserden hareketle çekilmiş bir film ile edebî eserin estetik değerlerinin karşılaştırılması sağlanarak edebî eserde hayal gücüne bırakılan betimlemelerin somutlaştırılmasının yarattığı sorunlar değerlendirilebilir.",
+    "Hermeneutik gelenekteki metin-yazar-yorumcu ilişkisi H. G. Gadamer'in Hakikat ve Yöntem adlı eseri üzerinden tartışılabilir.",
+    "Platon, Devlet eserinde şairlerin yazdıkları şiirlerle insanları gerçeklikten uzaklaştırdıklarını ileri sürmüş ve bu nedenle şairleri ideal devletinden dışlamayı uygun bulmuştur. Platon'un bu görüşüne yönelik argümanların değerlendirildiği bir yansıtma yazısı yazılabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin öğrenme çıktıları; kontrol listesi, çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrencilerden, edebiyat felsefe ilişkisi üzerine geliştirdikleri görüş ve argümanlardan hareketle felsefi bir metin yazmaları istenebilir. Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.11.4.1",
+    "Öğrencilerin edebiyat felsefe ilişkisiyle ilgili felsefi soru ve problemleri anlamaları amaçlanır. Bunun için;",
+    "• Öğrencilere edebiyat ve felsefenin biçim ve içerik yapısını karşılaştıran bir bilgi görseli sunulur. Bilgi görselinde, edebiyatın ve felsefenin dili kullanımında ve anlatım özellikleri ölçütlerinde öne çıkan unsurlara, farklılıklara dikkat çekilir ( E3.2 ). Edebî ve felsefi metin örneklerinden ikişer tane verilerek öğrencilerin, bu metinleri biçim ve içerik açısından değerlendirmeleri ve bu iki alanın benzer ve farklı yönlerini sorgulamaları sağlanır ( KB2.10 , KB2.17 ). Bu aşamada karşılaştırma tablosu öğretim tekniği kullanılabilir. Ardından öğrencilerin edebiyat felsefe ilişkisine dair felsefi sorulara (Edebî metinler felsefi değer taşımalı mıdır? Filozoflar eserlerinde estetik kaygı taşır mı? Edebî eserler felsefi problem ve argümanları içerebilir mi? Edebî unsurlar felsefi bir esere zenginlik katar mı?) yönelik görüşlerini açıklamaları sağlanır. Sürecin sonunda edebiyat felsefe ilişkisinden doğan problemler (edebî unsurlara felsefi bakışın imkânı, edebî unsurlarla felsefe yapmanın imkânı) hakkında kısa bir bilgi notu verilerek öğrencilerden bu problemlerin hayatla ilişkisini tartışmaları istenir ( KB2.18 ). Süreç kontrol listesi ile değerlendirilebilir.",
+    "FEL.11.4.2",
+    "Öğrencilerin edebiyat felsefe ilişkisiyle ilgili felsefi düşünce ortaya koymaları amaçlanır. Bunun için;",
+    "• Öğrencilere felsefe tarihinde edebiyat felsefe ilişkisini ifade eden yapılandırılmış kısa bir metin ya da bilgi görseli verilir. Yönlendirici sorular aracılığıyla öğrencilerden bu ilişkiyi açıklamaları istenir. Öğrencilerin edebiyat ve felsefenin aynı konu ve soruları farklı yollardan ele almasının, insanın anlam arayışındaki yerini ve önemini tartışmaları sağlanır ( KB2.18 ).",
+    "• Edebiyat felsefe ilişkisi bağlamında \"edebî unsurlara felsefi bakışın imkânı\" problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada edebiyat felsefe ilişkisine yönelik filozofların (Voltaire, N. Hartmann, İ. Murdoch, J. Derrida) argümanları bilgi notları olarak verilip öğrencilerin bu argümanları değerlendirmesi ve edebî eserlerin felsefi değeri hakkında kendi görüşlerini ve argümanlarını oluşturmaları sağlanır ( E3.10 , KB2.17 ). Ardından Türk edebiyatında yer alan farklı edebî metin türlerinden (destan, atasözü, söylev, fıkra, hikâye, şiir, roman) alıntılanan ve her biri en fazla yüzer kelimeden oluşan metinler verilerek öğrencilerden, iş birlikli olarak bu metinlerde geçen felsefi kavram, soru ve argümanları belirlemeleri istenir ( E3.6 , OB5 , SDB2.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Süreçte öğrencilerin kültürel mirası koruyanlara ve ülkenin gelişimine katkı sağlayanlara vefalı olmanın önemini ifade etmeleri sağlanır ( D15.2 ).",
+    "• Edebiyat felsefe ilişkisi bağlamında \"edebî unsurlarla felsefe yapmanın imkânı\" problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada edebî üslupla yazan bazı filozof ve düşünürlerin (Parmenides, Platon, Yûsuf Has Hâcib, Edip Ahmet Yükneki, Yunus Emre, Âşık Paşa, F. Dostoyevski, F. Hölderlin, M. Unamuno, A. H. Tanpınar, F. Kafka, J. P. Sartre, A. Camus) eserlerinden seçilmiş, her biri en fazla yüz kelimeden oluşan alıntı metinlere yer verilir. Öğrencilerden bu alıntı metinleri felsefi düşüncenin özellikleri açısından incelemeleri istenir ( E3.2 , OB5 ). Öğrencilerin yalnızlık, sorumluluk, sevgi, umut, umutsuzluk, acı ve sevinç gibi insan varoluşuna ait durumların felsefi açıdan ele alınmasında edebî dile başvurmanın güçlü ve zayıf yönlerinin neler olabileceğini iş birliği içinde tartışmaları, bu tartışmalardan hareketle görüş ve argüman oluşturmaları sağlanır (KB2.18). Bu aşamada çember veya akvaryum tartışma teknikleri kullanılabilir. Süreçte öğrenciler birbirlerinin sözünü kesmeden dinlemeye, duygu ve düşüncelerini saygılı bir biçimde ifade etmeye ve arkadaşlarıyla etkileşim kurmaya teşvik edilir ( D14.1 ).",
+    "Öğrencilere edebiyat felsefe ilişkisine yönelik felsefi bir metin yazma performans görevi verilebilir.Öncelikle öğrencilerin bu ilişkiye yönelik felsefi kavram, soru, düşünce ve argümanları doğru biçimde kullanmalarını desteklemek amacıyla öğrencilere görsel okuma, cümle ve paragraf tamamlama ile örnek felsefi paragrafları kendi cümleleriyle baştan yazma alıştırmaları yaptırılır ( OB1 , SDB1.2 ). Alıştırma çalışmasından sonra öğrencilerden edebiyat-felsefe ilişkisi hakkında çeşitli kaynaklardan (kitap, makale, dergi, rapor, gazete, istatistikler vb.) araştırma yapmaları ve elde ettikleri bilgilerdeki düşünce ve argümanları belirlemeleri istenir. Öğrencilerin felsefi bir metin yazmaları sağlanır ( E3.7 , KB3.3 ). Öğrenciler görev bilinci içinde planlı davranır ve felsefe literatürüne ilişkin farkındalık kazanır ( D3.2 , D16.3 ). Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D15.2",
+      "D16.3",
+      "D3.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.2",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.17",
+      "KB2.18",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/85"
+}

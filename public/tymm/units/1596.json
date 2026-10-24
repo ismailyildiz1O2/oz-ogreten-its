@@ -1,0 +1,52 @@
+{
+  "unitId": 1596,
+  "grade": 0,
+  "gradeName": "1. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY I · 2. Ünite: Duyu, Uyum Ve Güven",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.1.2.1",
+      "title": "Drama sürecinde duyularını etkin biçimde kullanarak hareketi sergileyebilme",
+      "processComponents": [
+        "a) Duyularını etkin kullanacağı hareket becerilerini algılar.",
+        "b) Drama etkinliklerinde duyularını etkin kullanarak hareket becerilerini gösterir.",
+        "c) Duyulara dayalı hareket becerilerini drama etkinliklerinde uygular."
+      ]
+    },
+    {
+      "code": "OOED.1.2.2",
+      "title": ". Drama sürecinde eşle veya grupla uyumlu hareket edebilme",
+      "processComponents": [
+        "a) Drama etkinliklerinde eşle veya grupla hareket ederken rollerini tanımlar.",
+        "b) Grup içi görev paylaşımına uygun şekilde tanımlanan rolünü yerine getirir.",
+        "c) Eşle veya grupla uyumlu hareket eder."
+      ]
+    },
+    {
+      "code": "OOED.1.2.3",
+      "title": "Drama sürecinde eşle veya grupla güven ile hareket edebilme",
+      "processComponents": [
+        "a) Drama etkinliklerinde eşle veya grupla hareket ederken rollerini tanımlar.",
+        "b) Grup içi görev paylaşımına uygun şekilde tanımlanan rolünü yerine getirir.",
+        "c) Eşle veya grupla güven ile hareket eder."
+      ]
+    },
+    {
+      "code": "OOED.1.2.4",
+      "title": "Drama etkinliklerinde ritmik hareket edebilme a) Doğadaki çeşitli sesleri ve ritimleri algılar. b) Doğaçlamalarda ritimden yararlanarak hareket eder. c) Ritimli etkinliklerde bedeniyle doğaçlama yaparak hareket becerilerini sergiler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "drama, duyular, grup, güven, ritim, uyum",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB1. Hareketi Sergileme, BEOSAB5. Ritmik Hareket Etme, BEOSAB7. Eşle/Grupla Hareket Etme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1596"
+}

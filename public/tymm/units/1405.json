@@ -1,0 +1,56 @@
+{
+  "unitId": 1405,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "4. TEMA: ESER İCRA",
+  "hours": "16",
+  "description": "Temada öğrencilerin repertuvarlarındaki eserleri viyolaya özgü tekniklerle çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.7.4.1",
+      "title": "Çargâh, buselik, kürdi ve hicaz makam dizilerine uygun eserleri icra edebilme",
+      "processComponents": [
+        "a) Verilen eserleri çözümler.",
+        "b) Eserleri çalarken doğru duruş ve tutuş pozisyonlarını alır.",
+        "c) Eserleri çalarken viyolaya özgü teknikleri uygular.",
+        "ç) Eserleri müziksel bileşenlere uygun şekilde icra eder."
+      ]
+    }
+  ],
+  "keyConcepts": "buselik, çargâh, eser, hicaz, kürdi, makam",
+  "support": [
+    "Öğrencilerin öğrenme stillerine uygun olarak çeşitli öğretim materyalleri kullanılabilir. Görsel öğrenenler için makamların görsel şemaları, nota kartları ve video dersleri kullanılabilir. İşitsel öğrenenler için makamları tanıtıcı ses kayıtları, dinleme etkinlikleri ve ustaların icraları kullanılabilir. Kinestetik öğrenenler için çalgının üzerinde uygulamalı çalışmalar ve doğaçlama egzersizleri yaptırılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, bu makamlarla bestelenmiş geleneksel şarkıları araştırarak sınıfta sunum yapabilirler. Öğrencilerin öğrendikleri makamları kullanarak doğaçlama yapmaları teşvik edilebilir. İleri düzey öğrenciler için makamlar arasında geçiş (modülasyon) çalışmaları yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; grup değerlendirme formu, öz değerlendirme formu, akran değerlendirme formu, derecelendirme ölçeği kullanılarak ölçülebilir. Öğrencilerin belirlene makamlarda eser icra etmesi için performans görevi verilebilir. Verilen performans gözlem formuna göre değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu veya akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "VİY.7.4.1.",
+    "Dersin başında \"Müzik, duyguları ve kültürleri ifade etmenin güçlü bir aracıdır. Türk müziği ise çeşitli makamlar ve tonlarla zenginleşir. Bu yaşantıda Türk müziğinin dört önemli makamı olan çargâh, buselik, kürdî ve hicaz makamlarına ait eserleri icra etme yeteneğini geliştireceğiz.\" diyerek öğrencilerin dikkatleri çekilir. Viyola çalarken bu makamların teknik ve müzikal özelliklerini öğrenerek ve doğru tekniklerle eserleri doğru şekilde çalarak Türk müziğinin zenginliği keşfedilir. Çargâh, buselik, kürdî ve hicaz dizilerinin, Türk müziğinde çok sık kullanılan ve kendine has duygu dünyaları yaratan makam dizileri olduğu hatırlatılarak bu dizileri karşılaştırabilmeleri beklenir ( KB2.7 ). Öğrencilere çalacakları eserlerin notaları verilir. Öğrenciler notaları inceler ( OB4 ), çalınacak eserleri çözümlemeye başlarlar. Öğrenciler süreç boyunca disiplinli ve istikrarlı çalışma alışkanlıkları geliştirerek düzenli bir şekilde ilerler ( D3.1 ). Öğrencilerde etüdü keşfetmeye yönelik doğal bir merak geliştirilmesi sağlanır ( E1.1 ). Viyola çalarken her makamın duygusal etkisini doğru yansıtmak için doğru duruş ve tutuş pozisyonu alınır. Öğrenciler etütleri çalarken çalgıya özgü teknikleri kullanır. Her makamın duygusuna odaklanmaları sağlanır ( E3.2 ). Etütler çalınırken müziksel bileşenleri uygulanır. Öğrenciler etüt boyunca istikrarlı bir tutum sergiler ve performansını devam ettirir ( D12.3 ).Viyola ile etütleri icra ederken belirli arşe tekniklerini kullanarak sesleri daha zengin ve etkileyici hâle getirilmesi beklenir. Öğrenciler gruplara ayrılır. Grup içinde kullandıkları arşe teknikleri hakkında birbirlerine geri bildirim vererek iş birliği yapılır ( SDB2.1 ). Öğretmen tarafından etüdün temposu, ritmi ve duygusal akışının müzikteki her detayla uyum içinde olması gerektiği söylenir. Dersin sonunda öğrencilerden performans görevi olarak istediği herhangi bir makam dizisini kullanarak melodi oluşturmaları istenir. Öğrenciler, öz değerlendirme formlarıyla kendi performanslarını analiz edebilir ( SDB1.2 ), akran değerlendirme formlarıyla birbirlerine geri bildirimde bulunabilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1405"
+}

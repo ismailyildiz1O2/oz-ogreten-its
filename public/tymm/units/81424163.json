@@ -1,0 +1,36 @@
+{
+  "unitId": 81424163,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "163. ÜNİTE: HALK OYUNLARI - HALAY",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.3.4.1",
+      "title": "Halay oyunlarının çeşitlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.4.2",
+      "title": "Halay oyunlarının çeşitlerinin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.3.4.3",
+      "title": "Halay oyunlarını uygular",
+      "processComponents": [
+        "Çalışmalara bedensel ısınma hareketleri ile başlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,95 @@
+{
+  "unitId": 81354001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Girişimcilik Dersi",
+  "title": "1. ÜNİTE: GİRİŞİMCİLİK",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GRS.1.1",
+      "title": "Girişimcilikle ilgili temel kavramları açıklar",
+      "processComponents": [
+        "Vecihi Hürkuş, Nuri Demirağ gibi tanınmış bir girişimci örneği üzerinden gidilerek “girişimcilik” kavramının sadece iş kurma ve kâr elde etme amacıyla oluşturulmadığına değinilir.",
+        "Lider, yönetici, risk, fırsat, icat, yaratıcılık ve inovasyon terimleri üzerinde durulur.",
+        "Risk ve fırsat terimleri üzerinde durulurken kolay yoldan para kazanma düşüncesinin doğurabileceği olumsuzluklar üzerinde durulur",
+        "İhtiyaçların değişmesinin girişimcilik faaliyetleri üzerindeki etkileri açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.1.2",
+      "title": "Girişimciliğin ekonomi ile ilişkisini yorumlar",
+      "processComponents": [
+        "Ticaret, pazar, üretim, arz, talep, fiyat, ihtiyaç, mal ve hizmet kavramları açıklanır.",
+        "İşsizlik, gelir dağılımı, ülkelerin kalkınması için var olan kaynakların değerlendirilmesi gibi konuların ekonominin alanına girdiği açıklanır.",
+        "Girişimciliğin ekonomik bir kaynak olması hususunda ekonomi disiplininden yararlanılır."
+      ]
+    },
+    {
+      "code": "GRS.1.3",
+      "title": "Girişimciliğin çeşitlerini sınıflandırır",
+      "processComponents": [
+        "İç ve dış girişimcilik, kadın girişimciliği, sosyal girişimcilik, kamu ve özel sektör girişimciliği, fırsat ve yaratıcı girişimcilik kavramları açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.1.4",
+      "title": "Girişimcilikte yaratıcılık ve fırsatlardan yararlanmanın önemini belirtir",
+      "processComponents": [
+        "Salgın, doğa kaynaklı afet gibi olağanüstü hallerin girişimcilerin faaliyet alanlarını nasıl değiştirdiği üzerinde durulur.",
+        "Salgın nedeniyle uzaktan eğitim, internetten alışveriş, evden çalışma sistemi, sanal girişimcilik gibi alanlarda gelişmelerin kaydedildiği vurgulanır.",
+        "Sanal girişimcilik ve sosyal medya üzerinden sağlanan iş fırsatlarının yaratacağı riskler ile bu durumun toplumsal ve millî boyuttaki etkileri vurgulanır.",
+        "Girişimcilikteki yaratıcı fikirlerin ve fırsatların ülke ekonomisine etkileri konusunda ekonomi disiplininden yararlanılır."
+      ]
+    },
+    {
+      "code": "GRS.1.5",
+      "title": "Girişimcilikte ihtiyaç duyulan üretim faktörlerini açıklar",
+      "processComponents": [
+        "Girişimcilerin iş kurmak için nelere ihtiyaç duyduğu üzerinde durulur.",
+        "Üretim faktörleri ve ekonomi arasındaki bağlantı açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.1.6",
+      "title": "Üretim faktörlerinin ve diğer kaynakların girişimcilik için önemini değerlendirir",
+      "processComponents": [
+        "Girişimci olmak için üretim faktörlerine ek olarak; bilgi, motivasyon, ham madde ve tedarikçi gibi diğer kaynakların önemi açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.1.7",
+      "title": "Girişimciliği teşvik eden çevresel faktörlerin girişimciliğe etkilerini yorumlar",
+      "processComponents": [
+        "Coğrafi ve kültürel farklılıkların girişimciliğe etkileri açıklanır.",
+        "Çevresel faktörlerin girişimciliğe etkileri açıklanarak girişimcinin faaliyet yapacağı yerin coğrafi konumunun önemi konusunda coğrafya disiplininden yararlanılır."
+      ]
+    },
+    {
+      "code": "GRS.1.8",
+      "title": "Girişimciliğin önemini sosyal ve ekonomik hayat açısından değerlendirir",
+      "processComponents": [
+        "Somut örnekler üzerinden girişimciliğin sosyal hayattaki rolü açıklanır.",
+        "Toplumun sağlığı, huzuru ve refahının, istihdamın artması ve gelir dağılımının iyileşmesinin girişimciliğin gelişmesine bağlı olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "GRS.1.9",
+      "title": "Kendi işini kurmanın avantaj ve dezavantajlarını karşılaştırır",
+      "processComponents": [
+        "Kendi işini kuran biri ile ücret karşılığı çalışan birinin birbirine göre avantaj ve dezavantajlarını karşılaştırır.",
+        "Girişimcilerin iş kurmaya karar verip vermemesinde etkili olan kişisel özellikler konusunda psikoloji disiplininden yararlanılır.",
+        "Girişimcilerin sosyal sorumluluk bilinciyle hareket etmelerinin önemi vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112494851663-giri%C5%9Fimcilik%C3%B6%C4%9Fretimprogram%C4%B1.pdf"
+}

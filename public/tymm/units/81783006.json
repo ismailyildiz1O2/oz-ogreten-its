@@ -1,0 +1,36 @@
+{
+  "unitId": 81783006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Adabımuaşeret Dersi",
+  "title": "6. ÜNİTE: DOĞAL KAYNAKLARIN KULLANIMI VE ÇEVRENİN KORUNMASINDA ADABIMUAŞERET",
+  "hours": "3",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ADM.6.1",
+      "title": "Doğal kaynakların kullanımı ve çevrenin korunması ile adabımuaşereti ilişkilendirir",
+      "processComponents": [
+        "Doğal kaynakların (hava, su, toprak, madenler vb.) kullanımında ve enerji tüketiminde adabımuaşeretin önemi ile ilgili örneklere yer verilir.",
+        "Çevreyi korumaya yönelik uygulamalara (atıkların ayrıştırılması ve geri dönüşüm projeleri, orman yangınlarının önlenmesi için yapılan çalışmalar, çevre dostu projeler vb.) değinilir.",
+        "Kültürümüzde ve medeniyetimizin temel kaynaklarından olan Kur'an-ı Kerim ve hadislerde yer alan çevreyi korumaya yönelik örneklere yer verilir."
+      ]
+    },
+    {
+      "code": "ADM.6.2",
+      "title": "Doğal kaynakların kullanımı ve çevrenin korunmasında adabımuaşeretin etkisini değerlendirir",
+      "processComponents": [
+        "Tasarrufun doğal kaynakların kullanımı ve çevre açısından önemi üzerinde durulur.",
+        "Ören yerleri, sahiller, yaylalar, piknik alanları vb. gibi yerlerin kullanımında adabımuaşerete dikkat edilmesinin önemi vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2025429151252408-adab%C4%B1muaseret.pdf"
+}

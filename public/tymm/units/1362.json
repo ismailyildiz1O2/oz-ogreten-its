@@ -1,0 +1,60 @@
+{
+  "unitId": 1362,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "1. TEMA: UDUN BOŞ TELLERİNİ TANIYALIM",
+  "hours": "11",
+  "description": "Temanın amacını öğrencilerin ud çalgısındaki boş tellerin seslerini tanımlayabilmesi ve bu sesleri basit grafiksel temsillerle ilişkilendirebilmesi oluşturmaktadır. Bu doğrultuda öğrencilerin boş tellerin seslerini tanıyıp ayırt etmesi ve basit grafiksel temsiller ile ilişkilendirerek açıklamasına ilişkin belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "UD.2.1.1",
+      "title": "Boş telleri tanıyarak dinleyebilme",
+      "processComponents": [
+        "a) Boş telleri duyarak tanır.",
+        "b) Boş telleri ayırt eder.",
+        "c) Boş telleri açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "boş tel, ud",
+  "support": [
+    "Öğrencinin udu eline alıp dokunmasına, telleri çekmesine ve sesi hissetmesine fırsat verilebilir. Karmaşık tekniklere girilmeden basit ve tekrarlayan melodiler öğretilebilir. Öğrendikleri sık sık tekrar ettirilip küçük adımlarla ilerlenebilir. Daha yavaş tempolarda hız belirteci kullanılarak egzersizler basitleştirilebilir."
+  ],
+  "enrichment": [
+    "Hazır bulunuşluğu yüksek, müziğe ve enstrümanlara aşina olan ya da hızlı öğrenen öğrencilere metronomda daha hızlı mızrap hareketleri verilebilir. Geri dönüşüm malzemeleri ile bir ud modeli oluşturulup boş teller farklı renk vb. özelliklerle donatabilir. Bu model sınıf panosu ya da okul koridorunda sergilenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kısa cevaplı sorular, doğru-yanlış ve boşluk doldurma seçeneklerinden oluşan çalışma kâğıtları kullanılarak değerlendirilebilir. Ritmik unsurları ifade eden hayvan şekilleri ile telleri ifade eden geometrik şekilleri eşleştirmeye yönelik performans görevi verilebilir. Verilen performans görevi, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.2.1.1",
+    "Öğretmen boş telleri tanıtır ve tüm boş tellerin tınılarını algılayabilecekleri uzunlukta seslendirir. Daha sonra öğrencilerden gözlerini kapatmaları istenir ve gerdaniye telinden başlanarak, kaba geveşt teline kadar sırayla isimleri söylenip, yeniden seslendirilerek merak uyandırılır. Bunu yaparken sabırlı olmaları istenir ve öğrencilerin bu sesleri tanıması beklenir. Bu süreç, kısa cevaplı sorulardan oluşan çalışma kâğıdı kullanılarak değerlendirilebilir. Öğrencileri daha önce her tel için hazırladıkları geometrik şekiller tahtaya asılır ve öğrencilerden bu parçaları belirlemeleri istenir ( KB2.4 ). Ardından sırasıyla; daire: gerdaniye, üçgen: neva, kare: dügâh gibi geometrik şekiller tellerin sesleri ile eşleştirilir ve gözlemledikleri duruma ilişkin sorular sorarak ölçüt belirlemeleri beklenir ( KB2.4 ). Öğretmen önce sıra ile daha sonra karışık bir şekilde boş telleri çalar. Duyduğu telin sesini ayırt ederek şekiller arasından göstermeleri, görsel ve ses arasında ilişki kurmaları istenir ( KB2.20 ). Bu süreç, doğru-yanlış ve boşluk doldurma seçeneklerinden oluşan çalışma kâğıtları ile değerlendirilebilir. Bu çalışma sırasında öğrencilerin sesleri eşleştirme konusundaki süreçlerini değerlendirmesi ( SDB1.3 ) bunu yaparken kendine karşı dürüst ve kararlı olması beklenir ( E1.3 , D6.1 ). Öğretmen etkileşimli tahta için daha önce hazırladığı sembolleri gösterir ( OB4 ). Bu semboller hayvan resimleri de olabilir. Her hayvan resmi bir ritim kalıbını temsil eder. (Horoz: İzmir, Kaplumbağa: Van vb.) Her hayvan resmi için verilen ritim kalıbı aralıklı tekrarlar ile çalışılır ( SAB6 ). Bunu yaparken sabırlı olmaları beklenir ( D12 ). Ritim kalıplarını defterlerine yazmaları istenir ( SAB7 ). Boş telleri temsil eden geometrik şekillerin ve basit ritim kalıplarını temsil eden hayvan resimlerinin karşılıklı olarak yer aldığı görsel, etkileşimli tahta aracılığı ile açılır ( OB4 ). Daha sonra öğretmen; boş telleri, verilen ritim kalıpları ile seslendirir ve öğrencilerden hazırlanan görselleri etkileşimli tahta üzerinde sırayla eşleştirmelerini ister (üçgen ve fil) ( OB2 ). Bunu yaparken öğrencilerin birbirlerine karşı saygılı olmaları beklenir ( D14 ). Örnekleri eşleştiren öğrencilerden bu bileşenleri ritim ve boş tel bakımından açıklamaları istenir. Ritmik unsurları ifade eden hayvan şekilleri ile telleri ifade eden geometrik şekilleri eşleştirmeye yönelik performans görevi verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12",
+      "D14",
+      "D6.1"
+    ],
+    "egilim": [
+      "E1.3"
+    ],
+    "kavramsal": [
+      "KB2.20",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SAB6",
+      "SAB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1362"
+}

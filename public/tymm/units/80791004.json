@@ -1,0 +1,54 @@
+{
+  "unitId": 80791004,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "4. ÜNİTE: OKUMAYA YARDIMCI ESASLAR",
+  "hours": "8",
+  "description": "Ünite konuları işlenirken; a) Örnek kelimeler tablolar oluşturularak verilmeli, b) Konular cümle örnekleriyle desteklenmeli ancak örnek cümleler henüz aktarılmamış kuralları içermemelidir.",
+  "outcomes": [
+    {
+      "code": "OSM.10.4.1.1",
+      "title": "Kef harfinin “k, g, ğ, n, v, y” seslerine karşılık geldiğini kavrar",
+      "processComponents": [
+        "Örnek kelimeler verilirken kef harfinin yazımındaki şekil değişiklikleri gösterilmelidir.",
+        "Kef harfinin ses özelliklerine göre adlandırılışları belirtilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.10.4.2.1",
+      "title": "Osmanlı Türkçesinde kalın ve ince karşılığı olan ünsüzleri okur",
+      "processComponents": [
+        "“Tı (d-t), sad, gayın (g-ğ), kaf, hı” harflerinin kalın ve “te, dal, sin, kef, gef (g-ğ), he” harflerinin ince ünsüzleri karşıladığı vurgulanmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.10.4.3.1",
+      "title": "Osmanlı Türkçesi alfabesiyle yazılmış ekleri okur",
+      "processComponents": [
+        "Eklerle ilgili ayrıntılara (adı, işlevi, çeşitleri vb.) girilmemeli; ekler örnek kelime ve cümleler üzerinde okutulmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.10.4.4.1",
+      "title": "Arapça ve Farsça asıllı Türkçeleşmiş kelime örneklerini okur",
+      "processComponents": [
+        "Kavramsal açıklamalara yer verilmemeli; örnek kelimeler, okuma inceliklerine dikkat çekilerek okutulmalıdır.",
+        "Yazımında “hemze, şedde, tenvin, vav-ı ma'dule, elif-i maksure” kullanılan kelime örneklerine de yer verilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.10.4.4.2",
+      "title": "Türkçe asıllı kelimelerde kullanılmayan harfleri tanır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

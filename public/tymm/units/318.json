@@ -1,0 +1,114 @@
+{
+  "unitId": 318,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "4. TEMA: DEĞİŞİMİN MATEMATİĞİ (2)",
+  "hours": "28",
+  "description": "Bu temada öğrencilerin değişim oranı ve limit kavramlarını kullanarak bir fonksiyonun belirli bir noktadaki anlık değişimini veren türeve ve iki fonksiyonun toplamının, farkının, çarpımının, bölümünün ve bileşkesinin türevine ilişkin muhakeme yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.4.5",
+      "title": "Bir fonksiyonun belirli bir nokta civarındaki değişim oranına ilişkin muhakeme yapabilme",
+      "processComponents": [
+        "a) Bir fonksiyonun belirli bir nokta civarındaki değişim oranı ile ilgili bileşenleri (fonksiyonun nitel özellikleri ile cebirsel ve grafik temsili) belirler.",
+        "b) Bir fonksiyonun belirli bir nokta civarındaki değişim oranı ile ilgili bileşenleri arasındaki ilişkileri belirler.",
+        "c) Bir fonksiyonun belirli bir nokta civarındaki değişim oranını tablo, grafik ve limit gösteriminden yararlanarak fonksiyonun o noktadaki anlık değişimi olarak ifade eder.",
+        "ç) Bir fonksiyonun belirli bir noktadaki anlık değişimini fonksiyonun o noktadaki türevi olarak ifade eder.",
+        "d) Uygun koşullarda tanımlı fonksiyonların belirli bir noktadaki anlık değişimlerini inceleyerek o noktadaki türevlerine yönelik varsayımlarda bulunur.",
+        "e) Varsayımlarına dayalı örüntüleri geneller.",
+        "f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "g) Genellemelerini önerme olarak ifade eder.",
+        "ğ) Önermelerini anlık değişim oranını yorumlamayı gerektiren problem durumlarında değerlendirir.",
+        "h) Fonksiyonun bir noktadaki türevini limit gösteriminden faydalanarak ispatlar.",
+        "ı) Uyguladığı ispatı kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.4.6",
+      "title": "Fonksiyonların türevinin olmadığı noktalar hakkında çıkarım yapabilme",
+      "processComponents": [
+        "a) Fonksiyonlar ve türevin limit tanımı ile ilgili önceki bilgilerinden yararlanarak bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına ilişkin varsayımlarda bulunur.",
+        "b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığı ile ilgili örüntüleri geneller.",
+        "c) Bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına ilişkin genellemeleri ile varsayımlarını karşılaştırır.",
+        "ç) Bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına ilişkin elde ettiği genellemelerden önermeler sunar.",
+        "d) Bir fonksiyonun herhangi bir noktasında hangi durumlarda türevinin olmadığına ilişkin önermeleri türev-süreklilik ilişkisi bağlamında değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.4.7",
+      "title": "Türevin limit gösteriminden faydalanarak iki fonksiyonun toplamı, farkı, çarpımı, bölümü ve bileşkesinin türevine ilişkin muhakeme yapabilme",
+      "processComponents": [
+        "a) Fonksiyonların toplamı, farkı, çarpımı, bölümü ve bileşkesinin türevine ilişkin varsayımlar geliştirir.",
+        "b) Varsayımlarına dayalı örüntüleri geneller.",
+        "c) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "ç) Genellemelerini önerme olarak ifade eder.",
+        "d) Önermelerini farklı problem durumlarında değerlendirir.",
+        "e) İki fonksiyonun toplamı, farkı, çarpımı ve bölümünün bir noktadaki türevine dair kuralları limit gösteriminden faydalanarak ispatlar.",
+        "f) Uyguladığı ispatı kullanışlılık açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "anlık değişim oranı, değişim oranı, diferansiyel, eğim, kesen doğrusu, limit, ortalama değişim oranı, sağdan türev, soldan türev, süreklilik, teğet doğrusu, türev, türev alma operatörü",
+  "support": [
+    "Anlık değişim oranı kavramının doğru bir şekilde anlaşılabilmesi için ortalama değişim ile ilgili gerektiği kadar gerçek yaşam durumu örneği matematiksel yazılımlar kullanılarak incelenebilir.",
+    "Türevin kullanıldığı gerçek yaşam durumu örnekleri (traktörün anlık hızı, kasabadaki nüfusun büyüme hızı gibi) öğrencilerin yakın çevresi dikkate alınarak çeşitlendirilebilir. Böylelikle öğrencilerin konuya ilgi ve motivasyonları artırılabilir.",
+    "Anlık değişim oranı ve türev kavramının temsil edilebileceği somut materyaller (animasyonlar) kullanılabilir.",
+    "Öğrencilere bir fonksiyonun belirli bir noktadaki türevini cebirsel olarak ifade edebilmeye, grafik temsilde yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek değerlendirmeler yapılabilir.",
+    "Türev kavramı ve türev alma kuralları ile ilgili performans görevleri ve çalışma kâğıtları için daha fazla zaman verilebilir. Geri bildirimlerde ve değerlendirmelerde çoklu ortam (sözlü, yazılı, görsel gibi) kullanılabilir.",
+    "Öğrenciler için bireyselleştirilmiş öğrenme planları oluşturulabilir. Türev kavramı ve türev alma kuralları konusunda öğrencilerin bireysel ihtiyaçlarına uygun hedefler belirlenebilir."
+  ],
+  "enrichment": [
+    "(*) Trigonometrik, üstel ve logaritmik fonksiyonların türevi, limit tanımından yararlanılarak bulunabilir. Yüksek mertebeden türev alma yaklaşımları incelenir ve bunlara ilişkin n. dereceden türevi veren matematiksel modellemeler yapılabilir. Trigonometrik, logaritmik ve üstel fonksiyonlar kullanılarak yüksek mertebeden türeve ilişkin örüntüler ve genellemeler elde edilebilir. Bir fonksiyonun kendisiyle ters fonksiyonu arasında türeve dayalı ilişkiler kurulabilir. Kapalı fonksiyonların türev alma kuralı, ispatı yapılarak incelenebilir. Ters trigonometrik fonksiyonların türev alma kuralını bulmaya yönelik cebirsel ispatlar yapılır. Fonksiyonların çarpım ve bölümünün türevine yönelik ispatlar e tabanındaki logaritmik fonksiyon kullanılarak elde edilebilir. Diferansiyel kavramı kullanılarak ters türeve yönelik incelemeler yapılabilir. Basit düzeydeki türevli denklemler ters türev fikri kullanılarak çözülebilir.",
+    "(*) Türev kullanılarak yapılabilecek STEM uygulamalarına daha fazla yer verilebilir. Örneğin bir bakteri popülasyonu fonksiyonlar ile modellenerek bu popülasyonun belirli bir t anındaki büyüme hızı belirlenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirilebilir.",
+    "Türevin kullanıldığı farklı disiplinlerin incelenmesini içeren araştırma ödevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Gerçek yaşam problemlerini türevi kullanarak çözmeye ilişkin verilen çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini öz değerlendirme formuyla değerlendirmeleri sağlanabilir.",
+    "Türevin limit tanımı kullanılarak fonksiyonların türev alma kuralını belirlemeye yönelik verilen performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Parçalı gösterimli fonksiyonların kritik noktalarında türev incelemeyi gerektiren sorulardan oluşan çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Fonksiyonların toplam, fark, çarpım, bölüm ve bileşkesinin türevini almayı gerektiren gerçek yaşam problemlerine ilişkin verilen çalışma kâğıdı, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini öz değerlendirme formuyla değerlendirmeleri sağlanabilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.4.5 Gerçek yaşam durumu içeren problemler fonksiyonlarla temsil edilerek fonksiyonların nitel özellikleri ile cebirsel ve grafik temsilleri belirlenir. Ardından fonksiyonun nitel özelliklerinin problem verilerine uygun aralığındaki veya noktasındaki durumuna odaklanılarak ortalama değişim, anlık değişim, eğim, kesen doğrusu, teğet doğrusu gibi kavramlar belirlenir. Örneğin bir şirketin yıllık kazancı, önceki yıl ile içinde bulunulan yıl karşılaştırılarak elde edilebilir ve ardından bu şirketin aylık ortalama kazancının ne kadar olduğu sorgulanır ( D17.3 ) . Yıllık kazançtaki değişimin 12 aya bölünmesi ile aylık ortalama kazanç elde edilir ( OB3 ) . Bu tarz gerçek yaşam örnekleri üzerinden ortalama değişim oranı kavramı cebirsel olarak ifade edilir. Bir şirketin gelirinin zamana bağlı olarak verildiği bir grafik temsili üzerinden 12 ay önceki gelirini temsil eden nokta ve mevcut gelirini temsil eden nokta bir kesen doğrusu ile birleştirilir. Bu kesen doğrusunun eğimi aylık ortalama kazanç ile ilişkilendirilir. Benzer örnekler cebirsel ifadesi verilen fonksiyonlarda incelenir. Örneğin bir şehrin belirli bir gündeki sıcaklık değişimi, zamana bağlı bir fonksiyonla modellenerek verilebilir. Fonksiyon incelenerek belirli bir zaman aralığındaki ortalama sıcaklık değişimi, ortalama değişim oranının cebirsel ifadesi kullanılarak bulunur ( MAB2 ) .",
+    "Bir hareketlinin t zamanında aldığı yolu modelleyen fonksiyonlar öncelikle ortalama hızı bulmak için incelenir. Bu modellemelerin grafik temsillerinde herhangi iki zaman aralığındaki noktaları birbirine bağlayan kesen doğrusunun eğimi yorumlanır. Buradan bir hareketlinin belirli bir saniyedeki anlık hızının nasıl bulunabileceği tartışılır. Grafik temsiller incelenerek kesen doğrusuna benzer bir şekilde fonksiyonun sadece tek bir noktasından geçen teğet doğrusu çizilir. Grafik temsil üzerindeki iki noktayı birbirine bağlayan kesen doğruları teğet doğrusuna yaklaştırıldıkça bu doğruların eğim değerlerinin birbirine çok yaklaştığı tablo veya matematik yazılımları kullanılarak gösterilir ( MAB3 , MAB5 ) . Böylelikle öğrencilerin dijital araç ile iş görme becerilerinin geliştirilmesi desteklenir ( OB2 ) . Benzer şekilde öğrencilerden fonksiyonun sürekli olduğu bir noktadan çizilebilen ve eğimi gerçek sayı olan tek teğet doğrusu olması durumunda bu doğrunun eğiminin fonksiyonun o noktadaki anlık değişim oranını verdiğini grafik üzerinden limit kullanmadan keşfetmeleri beklenir. Bir hareketlinin t zamanındaki konumunu veren bir fonksiyon modellemesi üzerinden anlık değişim oranı ortalama değişim oranı kullanılarak \"konumdaki çok küçük değişim/zamandaki çok küçük değişim\" şeklinde sözel temsille ifade edilir. Bu konum fonksiyonunun t = a (a∈ℝ) noktasındaki anlık değişimi, bu nokta ve bu noktaya çok yakın bir nokta arasındaki zaman değişiminin limitinin sıfıra gitmesi durumunda şeklinde gösterilir. f(x) = y olmak üzere dy/dx = f'(x) eşitliği kullanılarak elde edilen dy = f'(x) dx diferansiyel olarak tanımlanır ( MAB3 ) . Grafik temsili üzerinden anlık değişim oranı kullanılarak diferansiyelin geometrik yorumu yapılır.",
+    "Öğrencilerin anlık ve ortalama değişimi anlamlandırmak için gerçek yaşam durumları üzerinde çalışmaları sağlanır. Örneğin bir öğrencinin düzenli spor yapmaya başladıktan t hafta sonra verdiği kiloyu modelleyen uygun koşullarda f(t) şeklinde tanımlı fonksiyon incelenebilir ( D13.2 ) . f ve f' fonksiyonlarının keyfî noktalardaki değerleri verilir. Öğrencilerin anlık ve ortalama değişimi kullanarak bu verileri fonksiyonun grafik temsilinde yorumlaması istenir. Bir fonksiyonun grafiğine sürekli olduğu bir iç noktasının sağından ve solundan yaklaşıldığında eğimi bir gerçek sayı olan tek bir teğet doğrusu çizilmesi durumunda bu eğim değerinin fonksiyonun o noktadaki anlık değişimine eşit olduğunu göstermek için limit kavramı kullanılır. f fonksiyonunun a noktasındaki anlık değişimini veren cebirsel ifadenin sağdan ve soldan limitleri, f fonksiyonunun a noktasındaki sağdan ve soldan türevi olarak ifade edilir. Fonksiyonun x = a noktasındaki türevi, şeklinde ifade edilir ( MAB3 ) . Ayrıca elde edilen limitte h = x - a dönüşümü yapılarak fonksiyonun herhangi bir noktası için şeklinde türevin diğer bir limit tanımı elde edilir ( E3.7 ) . Özellikle cebirsel ifadesi verilen parçalı gösterimli fonksiyonların kritik noktalarında türevlenebilirlik incelenirken o noktadaki sağdan türev ile soldan türevin eşit olması gerektiğine öğrencilerin ulaşması sağlanır ( E3.6 ) . Öğrencilere parçalı gösterimli fonksiyonların kritik noktalarında türev incelemeyi gerektiren sorulardan oluşan çalışma kâğıdı verilebilir. Fonksiyonun ikinci türevi ise veya f''(x) şeklinde gösterilir.",
+    "Uygun koşullarda f(x) = xⁿ (n ∈ ℕ), ve f(x) = 1/x şeklinde tanımlı fonksiyonların herhangi bir noktasındaki anlık değişim oranı tablo, grafik ve cebirsel temsiller kullanılarak incelenir. Örneğin f(x) = x² fonksiyonunun tablo veya grafik temsilinde A (1,1) noktasına çok yakın noktalar alınarak bu fonksiyonun x = 1 noktasındaki anlık değişim oranı tahmin edilir. Fonksiyonun cebirsel temsilinin işe koşulduğu türevin limit tanımı kullanılarak sonucu elde edilir ve yapılan tahminle bu sonuç karşılaştırılır. Bu şekilde polinom, köklü ve rasyonel fonksiyonların türev alma kurallarına yönelik varsayımlar geliştirilir. Bu varsayımlardan hareketle farklı fonksiyonların türev alma kurallarına ilişkin genellemeler elde edilir. Genellemelerle varsayımlar karşılaştırılarak önermeler matematiksel olarak doğrulanabilecek şekilde sunulur. Elde edilen önermeler fizik, kimya, biyoloji ve ekonomi bağlamlarında türevi kullanmayı gerektiren gerçek yaşam problemlerinde değerlendirilir. Örneğin biyolojide kandaki ilaç konsantrasyonu, bir canlı popülasyonunun artış veya azalış hızı; ekonomide bankada biriktirilen tasarruflar, bir şirketin kârı; coğrafyada bir ülke nüfusunun veya petrol miktarının artış veya azalış hızı; kimyada kimyasal reaksiyon, gaz basıncı ve fizikte anlık hız, anlık ivme gibi bağlamlarda önermeler etkin bir şekilde kullanılır ( OB3 , D5.2 , D13.4 ) . Yine fizikte, ısıtılarak genleşen küre şeklindeki bir maddenin yarıçapının uzunluğunun, yüzey alanının veya hacminin zamana bağlı değişim oranı bu önermeler kullanılarak yorumlanır ( MAB2 ) . Bu şekilde türevin fen bilimleri ve sosyal bilimler için önemi uygulamalı bir şekilde gösterilir ve önemli bir ihtiyacı karşıladığından bahsedilir ( SDB1.2 ) . Öğrencilere türevin kullanıldığı farklı disiplinlerin incelenmesini içeren araştırma ödevi ve gerçek yaşam problemlerini türevi kullanarak çözmeye ilişkin çalışma kâğıdı verilebilir ( D16.3 ) . Ayrıca türev kavramının tarihî gelişimi incelenerek fizik ve matematik alanında çalışan Leibniz (Laybnıtz) ve Newton gibi bilim insanlarının türev ile ilgili çalışmalarından bahsedilir.",
+    "Fonksiyonların herhangi bir noktadaki türevini almaya ilişkin önermeler, türevin limit tanımı kullanılarak ispatlanır. Örneğin f karekök referans fonksiyonunun herhangi bir x = a (a ≠ 0) noktasındaki türevinin olduğu gösterilir. Buradan hareketle \"Pozitif gerçek sayılarda tanımlı bir fonksiyon için ise olur.\" önermesinin doğruluğu ispatlanır. Ayrıca her n∈ℚ için f(x)=xⁿ ise kuralı kullanılarak sıfırdan farklı gerçek sayılarda f(x) = 1/x şeklinde tanımlı fonksiyonun belirli bir noktadaki türev fonksiyonu elde edilir. Yapılan ispatlar, farklı önermelerin ispatı için kullanışlılığı açısından değerlendirilir.",
+    "MAT.12.4.6 Türevin limite dayalı cebirsel tanımı yorumlanarak fonksiyonların hangi durumlarda türevlenebilir olmayacağına yönelik sınıf içi tartışma yapılır. Bu tartışma yapılırken öğrencilerden birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve etkileşim sağlamaları beklenir ( SDB2.1 , D14.1 ) . Referans fonksiyonlar, polinom fonksiyonlar ve bu fonksiyonlardan elde edilen parçalı gösterimli fonksiyonların grafik temsilleri incelenir. Bu grafik temsillerden hareketle fonksiyonların hangi durumlarda türevlenebilir olamayacağına ilişkin varsayımlar geliştirilir. Türevin limit tanımından hareketle bu limitin var olabilmesi için fonksiyonun herhangi bir x = a noktasında soldan türev ile sağdan türevinin eşit olması gerektiği ifade edilir. Parçalı gösterimli fonksiyonların grafik temsilleri incelenerek süreksizlik noktalarında soldan ve sağdan türevin eşit olamayacağına ilişkin varsayım elde edilir. Ayrıca gerçek sayılarda ve şeklinde tanımlı fonksiyonların grafik temsilleri incelenerek bu fonksiyonların x = 0 noktasında sürekli olmasına rağmen bu noktada türevli olmayacağına ilişkin akıl yürütülür ( OB4 ) . Böylece parçalı gösterimli fonksiyon ve mutlak değerli fonksiyonların sürekli olduğu hâlde türevsiz olabileceği noktalara dair varsayımlar geliştirilir. Bu varsayımlardan hareketle farklı fonksiyonların türevlenemeyen noktalarına ilişkin genellemeler elde edilir. Genellemelerle varsayımlar karşılaştırılarak önermeler matematiksel olarak doğrulanabilecek şekilde sunulur. Elde edilen önermelerden yararlanılarak fonksiyonlarda türev-süreklilik ilişkisi ortaya konur. Ayrıca cebirsel temsili verilen parçalı gösterimli fonksiyonlarda, kritik noktada türev incelenirken bu önermeler kullanılır. Öğrencilere parçalı gösterimli fonksiyonların kritik noktalarında türev incelemeyi gerektiren sorulardan oluşan çalışma kâğıdı verilebilir.",
+    "MAT 12.4.7 f ve g polinom fonksiyonlarının toplam ve fark işlemlerinde türev almaya yönelik olarak cebirsel temsilleri incelenir. Örneğin gerçek sayılarda f(x)=x² ve g(x)=x şeklinde tanımlı fonksiyonlar kullanılarak elde edilen (f + g)(x) = x²+ x ve (f − g)(x) = x²− x fonksiyonlarının türevi, türevin limit tanımıyla elde edilir. Buradan hareketle fonksiyonların toplam ve fark işlemlerinde türev alma kuralları ile ilgili varsayımlar geliştirilir. Çarpma, bölme ve bileşke işlemlerinde ise f ve g fonksiyonlarının yapısının bu işlemler sonucunda oluşan yeni fonksiyonda değiştiği matematik yazılımlarından yararlanılarak gözlemlenir ( MAB5 ) . Böylelikle öğrencilerin dijital araç ile iş görme becerilerinin geliştirilmesi desteklenir ( OB2 ) . Aynı zamanda gerçek sayılarda f(x) = x + 1, g(x) = x şeklinde tanımlı fonksiyonlar ile elde edilen f/g fonksiyonunun türevine ilişkin olarak f ve g fonksiyonlarına bağlı yeni bir kural elde edilmesi gerekliliği ifade edilir. Bileşke fonksiyonların referans fonksiyonlardan türetilebileceği fikri ile bu fonksiyonların türev alma kuralı örnekler üzerinden incelenir. Örneğin gerçek sayılarda f(x)=(3x+1)² şeklinde tanımlı fonksiyon; h(x) = 3x+1 ve g(x) = x² fonksiyonlarının bileşkesi şeklinde yazılır. Türevin limit tanımı kullanılarak bu fonksiyonun türev alma kuralı belirlenir ve bileşke fonksiyonların türevine ilişkin varsayımlar elde edilir. Bu varsayımlardan hareketle fonksiyonların toplamının, farkının, çarpımının, bölümünün ve bileşkesinin türevine ilişkin genellemeler elde edilir. Bileşke fonksiyonun türevinde iki fonksiyonun bileşkesi ile sınırlı kalınır. Genellemelerle varsayımlar karşılaştırılarak önermeler matematiksel olarak doğrulanabilecek şekilde sunulur. Elde edilen önermeler fizik, kimya, biyoloji ve ekonomi bağlamlarında türevi kullanmayı gerektiren gerçek yaşam problemlerinde değerlendirilir. Örneğin t saatte bir evin içerisinde iki ayrı musluktan akan su miktarları f ve g fonksiyonları ile modellenebilir. Belirli bir saatte bu musluklardan akan toplam su miktarındaki değişim, toplam fonksiyonunun türevi yardımıyla bulunur. Buna göre hangi saatlerde en çok su tüketimi olduğu belirlenir ( D17.2 ) . Ayrıca bileşke fonksiyonun türev alma kuralı kullanılarak uygun koşullarda g(x) = [f(x)]ⁿ şeklinde tanımlı fonksiyonların türevi ile ilgili önermelere ulaşılır. Bu şekilde farklı görünen durumlara ilişkin bileşke fonksiyonun türev alma kuralı kullanılarak farklı çözümler üretilir. Öğrencilere fonksiyonların toplam, fark, çarpım, bölüm ve bileşkesinin türevini kullanmayı gerektiren gerçek yaşam problemlerine ilişkin çalışma kâğıdı verilebilir.",
+    "Türevin limit tanımı kullanılarak fonksiyonların toplamının, farkının, çarpımının, bölümünün ve bileşkesinin türevi cebirsel olarak farklı yöntemlerle ispatlanır. Bu ispatlar yapılırken öğrencilerin ispatlara ilişkin bilimsel yaklaşımlar sunmaları sağlanır ( D3.3 ) . Yapılan ispatların kullanışlılığı değerlendirilir. Öğrencilere bu çıktıya yönelik performans görevi verilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D13.4",
+      "D14.1",
+      "D16.3",
+      "D17.2",
+      "D17.3",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB2",
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/318"
+}

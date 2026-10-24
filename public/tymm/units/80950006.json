@@ -1,0 +1,64 @@
+{
+  "unitId": 80950006,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "6. ÜNİTE: 10. SINIF - KARİYER GELİŞİMİ",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.6.1",
+      "title": "Okul içinde veya dışında etkinliklere katılırken ilgi ve yeteneklerini dikkate alır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.2",
+      "title": "Alan/bölüm/dal/ders seçiminde ilgi, yetenek ve mesleki değerleri dikkate alır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.3",
+      "title": "Kısa ve uzun vadeli kariyer amaçlarını belirler",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.4",
+      "title": "Akademik amaçlarıyla seçmek istediği kariyerlerin gerektirdiği akademik koşullar arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.5",
+      "title": "Kariyer beklentileri ile kariyer amaçlarını karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.6",
+      "title": "Kariyer karar verme süreçlerinde kendi görüşleri ile aile ve yakın çevresinin görüşlerini karşılaştırır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.7",
+      "title": "Derslerin mesleklerle ilişkisini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.8",
+      "title": "Ders/alan/dal seçerken karar verme becerisini kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.6.9",
+      "title": "Kariyer hazırlığı sürecinde belirlediği amaçlar doğrultusunda alan/dal/ders seçimi yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

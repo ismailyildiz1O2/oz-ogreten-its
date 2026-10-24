@@ -1,0 +1,125 @@
+{
+  "unitId": 574,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "4. TEMA: SANAT VE TEKNOLOJİ EVRENİ",
+  "hours": "24",
+  "description": "Temada grafiksel kullanıcı arayüzü tasarım taslağı oluşturulabilmesi, sosyal medya tasarım taslağı oluşturulabilmesi, endüstriyel ürün tasarım taslağı oluşturulabilmesi, “Ben Müzesi” ile ilgili tasarım taslağı oluşturulabilmesi ve “Ben Müzesi” oluşturulabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.10.4.1",
+      "title": "Grafiksel kullanıcı arayüzü tasarım taslağı oluşturabilme",
+      "processComponents": [
+        "a) Grafiksel kullanıcı arayüzü tasarım kavramına yönelik inceleme yapar.",
+        "b) Grafiksel kullanıcı arayüzü tasarımına yönelik fikir geliştiririr.",
+        "c) Grafiksel kullanıcı arayüzü tasarımına yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.10.4.2",
+      "title": "Sosyal medya tasarım taslağı oluşturabilme",
+      "processComponents": [
+        "a) Sosyal medya konusuna yönelik inceleme yapar.",
+        "b) Sosyal medya tasarımına yönelik fikir geliştiririr.",
+        "c) Sosyal medya tasarımına yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.10.4.3",
+      "title": "Endüstriyel ürün tasarım taslağı oluşturabilme",
+      "processComponents": [
+        "a) Endüstriyel ürün tasarımına yönelik inceleme yapar.",
+        "b) Endüstriyel ürün tasarımına yönelik fikir geliştiririr.",
+        "c) Endüstriyel ürün tasarımına yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.10.4.4",
+      "title": "Ben müzesi ile ilgili tasarım taslağı oluşturabilme",
+      "processComponents": [
+        "a) Etnografya müzelerinde sergilenen eserleri ve eşyaları inceler.",
+        "b) Ben müzesine yönelik fikir geliştirir.",
+        "c) Ben müzesine yönelik eskiz yapar."
+      ]
+    },
+    {
+      "code": "GS.10.4.5",
+      "title": "Ben müzesi oluşturabilme",
+      "processComponents": [
+        "a) Ben müzesi için uygun yöntem ve teknikleri belirler.",
+        "b) Ben müzesi için uygun araç/gereçleri belirler.",
+        "c) Ben müzesinin uygulama aşamalarını sıralar.",
+        "ç) Konuyu/ temayı ben müzesine dönüştürür.",
+        "d) Ben müzesinin estetik ve işlevsel yeterliliğini değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "arayüz, buton, endüstriyel tasarım, grafiksel kullanıcı arayüzü, ikon, mobil uygulama, yeni medya",
+  "support": [
+    "Hazır bir grafiksel kullanıcı arayüzü şablonu verilerek içerikle ilgili basit bir tasarım planlaması yapması sağlanabilir.",
+    "Öğrencilerden sosyal medya platformuna katılımı artıracak dayanışmayla ilgili birer cümlelik sloganlar hazırlamaları istenebilir.",
+    "Öğrencilerden bir oyuncak tasarımı ile ilgili taslak çizimi yapmaları istenebilir.",
+    "Öğrencilere sanal etnografya müzesi yaptırılarak müzede hangi bölümlerin olduğu ve bu bölümlerde ne tür eserlerin sergilendiği inceletilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden grafiksel kullanıcı arayüz tasarımı için seçilen eskizlerini dijital araçları kullanarak uygulamaya dönüştürmeleri istenebilir.",
+    "Öğrencilerden toplumsal sorunlar ve dayanışma ile ilgili farkındalık yaratacak ve sosyal medyada kullanılabilecek kamu spotu niteliğinde bir kısa video senaryosu yazmaları istenebilir. Eskizi yapılan endüstri tasarım ürününün çevrim içi olarak kullanılan programlar aracılığıyla modellenmesi istenebilir.",
+    "Sanal müze ziyaretiyle etnografya müzesinde sergilenen eşyaların eskizlerini çizmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, giriş-çıkış kartı, kontrol listesi, gözlem formu, öz değerlendirme formu, grup değerlendirme formu, dereceli puanlama anahtarı, dereceleme ölçeği ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden Millî Mücadele yıllarında Atatürk önderliğinde Türk milletinin gösterdiği dayanışma ile ilgili resimli bilgi kartlarından oluşan sosyal medya paylaşım taslağı hazırlamaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.10.4.1. Grafiksel kullanıcı arayüzü tasarımına yönelik hazırlanan örnekler gösterilerek öğrencilerin bu örnekleri incelemeleri sağlanır ( OB4 ). İncelenen örnekler üzerinden öğrencilerin arayüz tasarımında yer alan görsel unsurların (ikonlar, butonlar, menüler, tablolar, pencereler), bilgisayarların, web sitelerinin, mobil uygulamaların ve dijital cihazların kullanılabilirliğini artırdığı ve kullanıcıların teknik bilgi gereksinimini en aza indirdiği ile ilgili çıkarım yapmaları sağlanır ( KB2.10 ). Grafiksel kullanıcı arayüzlerinin amacının kullanıcıların bir yazılım veya sistemle etkileşim kurmasını kolaylaştırmak olduğu belirtilir. \"Web sitelerinde veya mobil uygulamalarda çevre sorunları ile ilgili rastladığınız içerikler nelerdir?\", \"Bu tür sorunlara dikkat çekmek için hazırlanan bir web sitesi veya mobil uygulama tasarımı nasıl olmalı, neden?\" gibi sorular yöneltilerek öğrencilerin konu hakkındaki görüşleri alınır.",
+    "Öğrencilerden çevre sorunları (iklim krizi, küresel ısınma, hava kirliliği, plastik atık sorunları vb.) arasından seçim yaparak grafiksel kullanıcı arayüzü tasarım taslağı ile ilgili bir çalışma konusu belirlemeleri istenir. Öğrencilerin grafiksel arayüz konusunda fikir geliştirmelerine yardımcı olmak için web siteleri ve mobil uygulamalara yönelik kullanım alışkanlıkları ile ilgili sorular sorulur. Öğrencilerin arayüz tasarımı yaparken kullanıcının amaçlarından, alışkanlıklarından ve deneyimlerinden yola çıkılması gerektiğini fark etmeleri sağlanır. İyi bir kullanıcı arayüzü tasarımında grafik tasarım ilkelerinin uygulanması, ekran ögeleri arasında anlamlı bir uyum sağlayacak sayfa düzeninin yapılması, renklerin, grafiklerin sade ve etkili bir şekilde kullanılarak estetik bir görünüm elde edilmesi gerektiğine dikkat çekilir. Öğrencilerden grafiksel arayüz tasarımına yönelik fikir geliştirmeleri ve açıklamaları istenir.",
+    "Öğrencilerden belirledikleri konuyla ilgili grafiksel kullanıcı arayüzüne yönelik geliştirdikleri fikirlerini somutlaştırmak üzere üç farklı eskiz yapmaları istenir. Mobil cihazlar ile genel ağ tarayıcısındaki görünüm farklılıkları hatırlatılarak eskizlerin iki formata da uygun olması gerektiği vurgulanır. Öğrencilerin eskiz çalışması için kullanılacak araç gereç ve yöntemlerin seçimini yapmaları sağlanır. Çalışmada geleneksel ya da dijital araç gereç ve yöntemlerin kullanılabileceği belirtilir. Geleneksel olarak kuru kalem, sulu boya, guaj boya, marker gibi araç gereçlerin yanı sıra çevrim içi kullanılabilecek programlar önerilebilir.",
+    "Her iki tekniğin uygulama sürecinde dikkat edilmesi gereken ayrıntılar vurgulanır. Öğrencilerden merak ettikleri ya da üzerinde daha fazla durulmasını istedikleri konularda öğretmenleriyle ve birbirleriyle etkileşim kurmaları istenir ( E1.1 , SDB2.1 ). Belirlenen amaçlar doğrultusunda seçilen araç gereç ve tekniklerle öğrencilerin eskiz çalışmalarını yapmaları sağlanır. Öğrencilerden, kısa bir sunum eşliğinde eskizlerini sunarak açıklamaları ve birbirlerine sorular yönelterek düşüncelerini paylaşmaları beklenir. Bu süreçte öğrencilerin yapıcı yaklaşımlarla birbirlerini desteklemeleri sağlanır ( D20.4 ). Süreç, giriş-çıkış kartı tekniği veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.10.4.2. Öğrencilerin yaygın olarak kullanılan yeni medya türlerinden biri olan sosyal medya platformları ile ilgili önceden hazırlanmış görselleri incelemeleri istenir ( OB4 ). Bu tür dijital platformların amblemlerinde, logolarında, sayfa tasarımlarında kullanılan renk paletleri ve görsel anlatım tarzlarındaki ayrımları gözden geçirmeleri sağlanır ( OB2 ). Renk ve görsellerin hangi amaçlarla seçilmiş olabileceği hakkında bir tartışma ortamı oluşturulur ( KB2.18 ). Öğrencilerin neden sonuç ilişkisi kurarak bu seçimlerin nedenlerini anlamaya çalışmaları ve fikirlerini ifade etmeleri istenir. Her sosyal medya platformunun işlevine uygun bir arayüz tasarımı yapıldığını, içeriğine uygun amblem, logo ve yazı karakterleri tasarlandığını, aynı formatın bilgisayar, tablet, telefon gibi farklı cihazlar için farklı şekillerde ve ölçülerde yatay ya da dikey olmak üzere uygulanmış olduğunu öğrencilerin örnekler üzerinden fark etmeleri sağlanır. Toplumsal dayanışmaya ihtiyaç duyulan olaylara örnekler verilerek öğrencilerden bu durumları yaşayan insanların neler hissedebileceğini ifade etmeleri istenir ( D9.1 , SDB2.3 ).",
+    "Öğrencilere deprem, sel, savaş gibi kitlesel afetler sırasında ve sonrasında karşılaşılan güçlüklerin neler olduğu sorularak böyle zamanlarda sosyal iletişimin ve yardımlaşmanın önemini ifade etmeleri sağlanır. Öğrencilerden toplumsal dayanışmaya ihtiyaç duyulan olaylarda kullanılacak bir sosyal medya platformu ile ilgili yeni ve farklı fikirler üretmeleri istenir ( D5.1 , E3.3 ). Önerilen fikirler yazılarak bir liste hâline getirilir. Öğrenciler gruplara ayrılır, her grup daha önce sınıfça hazırlanan listeden sosyal yardımlaşma platformu ile ilgili çalışmak üzere bir fikir seçer. Seçtikleri fikre yönelik olarak farklı (telefon, tablet veya bilgisayara uygun) ölçülerde simge oluşturma, slogan bulma ve uygulama konusunda çalışmak üzere grup üyelerinin kendi aralarında iş bölümü yapmaları istenir ( SDB2.2 ). Öğrencilere toplumsal dayanışma ve güven temasını ifade edebilmeleri için yan yana duran ve el sıkışan insan figürleri, kalp, el, dünya gibi simgeler örnek verilebilir. Ayrıca görsellerin yanında yer verebilecekleri \"Birlikte mutluyuz.\", \"Dayanışmanın gücü\" gibi özgün mesajlar üretmeleri sağlanır ( E2.4 ).",
+    "Öğrencilerin planladıkları formata göre cetvel ve pergel yardımıyla ölçülendirerek çizdikleri kare, dikdörtgen ya da dairelerin içine çizgisel eskiz çalışmaları yapmaları sağlanır. Bu aşamada öğrencilere hazır görseller kullanabilecekleri, mürekkepli kalemlerle ve seçtikleri bir boyama tekniği ile siyah beyaz ve renkli çeşitlemeler oluşturabilecekleri hatırlatılır. Süreç bitiminde grup üyelerinin yaptıkları çalışmaları bir araya getirerek sergilemeye hazır şekilde birleştirmeleri sağlanır. Yapılan çalışmalar, grup değerlendirme formu veya dereceleme ölçeği ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden Millî Mücadele yıllarında Atatürk önderliğinde Türk milletinin gösterdiği dayanışma ile ilgili resimli bilgi kartlarından oluşan sosyal medya paylaşım taslağı hazırlamaları istenebilir. Yapılan çalışmalar, dereceli puanlama anahtarı veya dereceleme ölçeği kullanılarak değerlendirilebilir.",
+    "GS.10.4.3.",
+    "Öğrencilerin tasarım, sanatsal tasarım ve endüstri ürünleri tasarımı örneklerine ait görselleri incelemeleri istenir ( OB4 ). İncelenen örnekler üzerinden öğrencilerin bu alanlar arasındaki benzerlik ve farklılıkları ayırt etmeleri sağlanır. Bunun için karşılaştırma tablosu kullanılabilir. Yapılacak çalışmanın içeriği ile ilgili olarak öğrencilere, bir firmanın \"özel gereksinimli bireylerin kullanımına yönelik ürünler\" üretmek istediği söylenir. Öğrencilerin bu amacı karşılayan ürünleri ve bu ürünlerin taşıması gereken özellikler hakkında düşüncelerini ifade etmeleri sağlanır. Öğrencilerden çalışacakları ürün çeşidini belirlemeleri istenir. Bardak, kalem, kalemtıraş, telefon veya tablet gibi nesneler gösterilerek \"Bu nesnenin işlevi nedir?\", \"Endüstriyel tasarım ürünleri hangileridir?\", \"Endüstriyel ürünlerin insan hayatındaki yeri ve önemi hakkında neler söyleyebilirsiniz?\" gibi sorular yöneltilir. Öğrencilerin endüstriyel tasarım hakkındaki düşüncelerini açıklamaları istenir ( SDB2.1 ). Öğrencilerin endüstri ürünleri hakkında konuşmaları sağlanır. Bu aşamada konuşma halkası tekniğinden faydalanılabilir. Öğrencilere endüstriyel tasarımın endüstriyel üretim için ürünlerin tasarlanma süreci olduğu ifade edilir. Bu sürecin teknolojiyi, sanatı ve ergonomiyi birleştirerek kullanıcı dostu, yenilikçi ve estetik açıdan ilgi çekici ürünler tasarlamakla ilgili olduğu belirtilir. Öğrencilerden konuya uygun ürün fikirleri geliştirmeleri istenir.",
+    "Öğrencilere endüstriyel tasarımla ilgili eskizin, bir ürünün ya da fikrin görselleştirilmesi ve kavramsallaştırılması için kullanılan etkili bir yöntem olduğu söylenir. Eskiz yaparak fikirlerini kâğıt üzerine hızlı ve etkili bir şekilde aktarabileceklerini fark etmeleri sağlanır. Öğrencilere endüstriyel ürün tasarımı için eskiz hazırlama aşamaları açıklanır. Bu aşamaların hedef ve konsept belirleme, kullanılacak araç gereç seçimi, temel çizim tekniklerini kullanma, taslağı geliştirme ve detaylandırma, ışık-gölge ve tonlama, renk ve vurguyu kullanma ile sunuma hazırlık yapma olduğu ifade edilir. Öğrencilerden \"özel gereksinimli bireylerin kullanımına yönelik ürünler\" konusuyla ilgili ürünün estetik değerini, teknik özelliklerini ve işlevini kavramsal olarak belirlemeleri istenir. Öğrencilerin ürün tasarımı eskizi için gerekli olan çizim ve boyama malzemelerini öğrenme alanına getirmeleri sağlanır ( D16.1 ). Belirledikleri ürünün eskizini tasarlarken daha önce ifade edilen aşamaların uygulanmasına dikkat etmeleri istenir. Tasarımın biçimi, boyutu, işlevi, çalışma prensibi üzerinde durularak çizimde tüm bu özellikleri belirtmeleri gerektiği öğrencilere hatırlatılır. Öğrencilerden çizimi biten tasarım eskizlerini renkli kalemler ile renklendirmeleri istenir. İsteyen öğrencilerin kâğıt üzerine yapılmış taslağı tarayıcı yardımıyla dijital ortama taşıyataşıyabilecekleri belirtilir. Yaptıkları çalışmada ürünün estetik görünüşe sahip, yaratıcı, kullanışlı olması sağlanır ( D7.3 , E3.3 ). Yapılan tasarım eskizleri dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.10.4.4. Sanal ortamda etnografya müzesi ziyareti yaptırılarak öğrencilerin sergilenen sanat eserlerini ve kullanım eşyalarını incelemeleri sağlanır ( OB4 ). Öğrencilere müzecilik ve müze çeşitleri ile ilgili bilgi verildikten sonra okulda bir müze etkinliği yapılacağı açıklanır. Öğrencilerin kendileri için anlamlı olan kişisel eşyaları bir araya getirerek bir müze oluşturacakları söylenir. Bu amaca en uygun müze etkinliğinin \"Ben Müzesi\" olduğunu fark etmeleri sağlanır. Öğrencilere \"Kullandığınız eşyalar içinde sizin için özel anlamı olan, sakladığınız eşyalar hangileridir?\", \"Ailenizin hatıra olarak sakladığı hangi eşyalar var?\" soruları yöneltilir. Öğrencilerin, geçmiş dönemlerde kullanılan eşyaları ve sanat eserlerini sergileyen etnografya müzeleri hakkındaki düşüncelerini ifade etmeleri istenir ( SDB2.1 ). Sanal ortamda etnografya müzesi ziyareti yaptırılarak öğrencilerin sergilenen sanat eserlerini ve kullanım eşyalarını incelemeleri sağlanır ( OB4 ).",
+    "İnceleme sonrasında öğrencilerin \"Ben Müzesi\" oluşturmaya yönelik fikir geliştirmeleri istenir. Bu süreçte dedikodu tekniği kullanılabilir. Öğrencilerin tasarlayacakları \"Ben Müzesinin\" okulun neresinde, hangi malzemelerle ve nasıl oluşturulacağına dair eskiz çalışmaları yapmaları sağlanır. Süreç, gözlem formu veya öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "GS.10.4.5. Öğrenciler öğretmen rehberliğinde \"Ben Müzesi\" uygulamasını sergilemek için uygun yöntem ve teknikleri belirler. Çalışma ile ilgili olarak kullanılacak en uygun yöntemlerden birinin süreli sergileme yöntemi olduğu açıklanır.",
+    "Öğrencilere, etkinlikte kullanılabilecekleri malzemelerin fon karton, yapıştırıcı, makas, kâğıt, kalemler ile kendileri ve aileleri için anlamı olan eşyalar, fotoğraflar olabileceği söylenir. Öğrencilerden tasarlayacakları \"Ben Müzesi\" için gerekli olan malzemeleri belirlemeleri istenir. Eşyalar ve fotoğraflar belirlenirken aile içi mahremiyetin korunması konusunda öğrencilerin özenli davranmaları sağlanır ( D2.1 ).",
+    "Öğrencilerle birlikte \"Ben Müzesi\" oluşturmak için kullanılacak uygulama aşamaları belirlenir.",
+    "Öğrencilerden getirdikleri eşya ve fotoğraflara ait tarih, eşya adı gibi kısa künye bilgilerini hazırladıkları kartların üzerine yazmaları istenir. \"Ben Müzesi\" ile ilgili yapılan eskiz çalışmalarını dikkate alarak müzenin okulun neresinde kurulacağına, getirilecek eşyaların nasıl sergileneceğine, müze alanının nasıl düzenleneceğine ve ziyaretçiler geldiğinde hangi etkinliğin yapılacağına karar vermeleri sağlanır. Sergi ve müze alanının düzenlenmesi için öğrenciler gruplar ayrılır. Gruplardan iş bölümü yapmaları ve eşyaları bilgi kartlarıyla eşleştirmeleri istenir. Sergi alanı olarak okulun temiz ve aydınlık bir bölümünün seçilmesi sağlanır. Öğrencilerin fon kartonları, yapıştırıcı, makas, kâğıt ve kalemler kullanarak sergi alanında sergilenecek eşyaları ve fotoğrafları düzenlemeleri istenir. Sergi boyunca müze alanına resim, afiş gibi görsel unsurların asılması ve gelen ziyaretçiler için sözsüz müzik dinletisi yapılması sağlanır. Öğrencilerin birbirleriyle iş birliği içinde çalışarak önceden belirledikleri eski bir fotoğrafın hikâyesini paylaşmaları istenir ( SDB2.2 , D20.1 ).",
+    "Öğrenciler \"Ben Müzesi\" etkinliği ile gerçek müze etkinliği arasındaki estetik ve işlevsel yeterlilikleri karşılaştırarak düşüncelerini ifade ederler. Öğrencilerden müze alanını toplayarak temiz ve düzenli bırakmaları istenir ( D18.2 ). Süreç, dereceleme ölçeği veya grup değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D18.2",
+      "D2.1",
+      "D20.1",
+      "D20.4",
+      "D5.1",
+      "D7.3",
+      "D9.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.4",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.18"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/574"
+}

@@ -1,0 +1,39 @@
+{
+  "unitId": 80791012,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "12. ÜNİTE: HARF, KELİME VE CÜMLE YAZMA (RİKA)",
+  "hours": "8",
+  "description": "Ünite konuları işlenirken gölgeli yazma çalışmalarının yanı sıra bakarak yazma etkinliklerine de yer verilmelidir.",
+  "outcomes": [
+    {
+      "code": "OSM.11.6.1.1",
+      "title": "Osmanlı Türkçesindeki rika harflerini yazar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.6.2.1",
+      "title": "Türkçe, Arapça ve Farsça kelimeleri rika hattıyla yazar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.6.2.2",
+      "title": "Kısa ve basit cümleleri rika hattıyla yazar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.11.6.2.3",
+      "title": "Osmanlı Türkçesiyle yazmaya istek duyar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

@@ -1,0 +1,53 @@
+{
+  "unitId": 94035802,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "2. ÖĞRENME ALANI: KÜLTÜREL MİRAS",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "G.4.2.1",
+      "title": "Sanatçı ve zanaatkârın rollerini söyler",
+      "processComponents": []
+    },
+    {
+      "code": "G.4.2.2",
+      "title": "Türk kültürüne ve diğer kültürlere ait mimari yapıların belirgin özelliklerini karşılaştırır",
+      "processComponents": [
+        "Özellikle bu kazanımda tarihî yapılar tercih edilir. En az iki kültüre ait tarihî yapılardaki kubbe, kemer, pencere, kapı, mekân içi süsleme vb. yapı unsurları arasındaki farklılıklara dikkat çekilir."
+      ]
+    },
+    {
+      "code": "G.4.2.3",
+      "title": "Farklı kültürlerde yapılmış sanat eserlerinin genel özelliklerini karşılaştırır",
+      "processComponents": [
+        "Türk kültürü başta olmak üzere Avrupa, Asya, Afrika vb. gibi en az iki kültüre ait sanat eserlerinin form, konu, malzeme, teknik özellikleri vb. bakımından karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "G.4.2.4",
+      "title": "Müzedeki farklı kültürlere ait sanat eserlerindeki ortak özellikleri söyler",
+      "processComponents": [
+        "Müze, sanat galerisi, sanatçı atölyesi, ören yeri vb. yerlere planlı ziyaretler yapılır. Bu imkânların bulunmadığı yerlerde tıpkıbasımlardan, belgesellerden vb. materyallerden yararlanılır. Arslan, boğa, kartal, hayat ağacı motifi gibi örnekler üzerinde durulabilir."
+      ]
+    },
+    {
+      "code": "G.4.2.5",
+      "title": "Görsel sanat alanındaki meslekleri söyler",
+      "processComponents": [
+        "Fotoğraf sanatçısı, heykeltıraş, ressam, mimar, illüstratör, tasarımcı, küratör, restoratör, nakkaş, hattat gibi meslekler üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Kültürel Miras",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018121111026326-GORSEL%20SANATLAR.pdf"
+}

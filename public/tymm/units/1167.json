@@ -1,0 +1,56 @@
+{
+  "unitId": 1167,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "4. TEMA: HİCAZ MAKAM DİZİSİYLE İCRA",
+  "hours": "18",
+  "description": "Temada öğrencilerin hicaz makamında dizi çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.6.4.1",
+      "title": "Gitarda hicaz makamındaki şarkıları çalabilme",
+      "processComponents": [
+        "a) Gitarda hicaz makamındaki şarkıları çözümler. ,",
+        "b) Gitarda hicaz makamındaki şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Gitarda hicaz makamındaki şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Gitarda hicaz makamındaki şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, hicaz",
+  "support": [
+    "Hicaz makamının dizisini gitar üzerinde çalmak için basit egzersizler verilebilir. Örneğin makamın perdelerini tek tek çalma veya küçük melodik kalıplar öğretilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden hicaz makamında teknik açıdan daha zor şarkılar çalması istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak hicaz makamındaki dizileri çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.6.4.1",
+    "Öğretmen, öğrencinin hicaz makamını kavraması için öncelikle makamın dizisini tanıtır, gitarda icra eder ve makamın karakteristik seslerini vurgulayarak dinletir. Ardından öğrenci, hicaz makamında yazılmış bir şarkının notasını inceleyerek melodik yapıyı ve ritmik özellikleri çözümler ( KB2.4 ). Öğrenciler, beğendikleri şarkıları etkileşimli tahtadaki kişisel klasörlerine taşınır bellekleri vasıtasıyla kopyalarlar ( OB2 ). Öğrenci, şarkıyı çalmadan önce gitarın doğru duruş ve tutuş pozisyonunu alarak parmak numaralarına ve nota basış noktalarına dikkat eder. Önce yavaş tempoda, metronom eşliğinde destekli (apoyando) veya serbest (tirando) vuruş tekniğiyle çalışarak şarkının bölümlerini adım adım çalar. Öğretmen, öğrencinin parmak pozisyonlarını ve teknik kullanımını gözlemleyerek gerekli yönlendirmeleri yapar. Öğrenci, çaldığı bölümleri tekrarlar yoluyla pekiştirerek akıcılık kazanır ve zamanla hızını artırır. Hicaz makamının duygusal yapısını vurgulamak için gerekli dinamikler, nüanslar ve müzikal ifade çalışmaları eklenir. Öğretmen, öğrencinin öz düzenleme becerisini geliştirmesi için bağımsız çalışma stratejileri önerir ve öz güven kazanmasını destekler. Öğretmen derse başlarken hicaz makamının dizisinin hangi notalardan oluştuğunu açıklayarak etkileşimli tahtada görsel bir örnek sunar ( OB4 ). Öğrenciler, diziyi gözlemleyerek makamın özelliklerini anlama fırsatı bulurlar. Ardından öğretmen gitarını çalarak bu diziyi uygulamalı olarak öğrencilere gösterir ve öğrencilerin bu diziyi gözlemlemelerini sağlar ( KB2.2 ).",
+    "Öğrencilere sol elin doğru yerleşimi, parmak numaraları ve doğru nota basma teknikleri öğretilir ( SDB2.1 ). Öğrenciler önce diziyi çözümler. Doğru bir şekilde çalabilmek için çalgıya özgü duruş ve tutuş pozisyonlarını alır. Hicaz makam dizisini önce açık tellerde çalarlar (do-sol), ardından 1 ve 3. perdelerde aynı diziyi uygulayarak çalgıya özgü teknikler üzerinde pratik yaparlar. Öğrenciler; apoyando, tirando gibi sağ el tekniklerini kullanarak metronom eşliğinde diziyi çalarlar ve ritim, ezgi, dinamikler gibi müziksel bileşenleri uygular. \"Nota Dedektifleri\" gibi oyunlarla öğretmen rastgele bir nota söyler ve öğrenciler bu notayı gitarlarında bulmaya çalışırlar ( E2.5 ). Grup çalışmalarında öğrenciler 2-3 kişilik gruplar hâlinde çalışarak birbirlerini doğru çalma konusunda teşvik ederler ( D3.4 ). Ders sonunda öğrenci, hicaz makamındaki şarkıyı doğru tekniklerle akıcı ve ifade gücü yüksek bir şekilde icra edebilir. Performans görevi olarak hicaz makamında bir şarkıyı çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1167"
+}

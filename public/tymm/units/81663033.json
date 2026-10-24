@@ -1,0 +1,69 @@
+{
+  "unitId": 81663033,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "33. ÜNİTE: PROGRAMLAMA DİLLERİ (DART) - 3. ÜNİTE: DERİNLEMESİNE DART PROGRAMLAMA DİLİ",
+  "hours": "36",
+  "description": "Bu ünitede; dart programlama dilinde reflection, metaprogramming kavramları, özel veri tipleri ve operatörler tanımlama, dart programlama dilinde yüksek performanslı uygulama hazırlama teknikleri anlatılır. Dart programlama dilindeki kod analiz araçlarını kullanma ve bu araçların geliştirme ortamına entegrasyonu ile dart programlama dilinde testler yazma gösterilir.",
+  "outcomes": [
+    {
+      "code": "BTY.33.1",
+      "title": "Dart programlama dilinde reflection ve metaprogramming kavramlarını kavrar",
+      "processComponents": [
+        "Reflection ve metaprogramming kavramları açıklanır.",
+        "Dart programlama dilinde bu kavramlar kullanılarak sınıfların ve nesnelerin manipüle edilebileceği açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.33.2",
+      "title": "Dart programlama dilinin genişletilebilirlik özelliklerini kullanarak özel veri tipleri ve operatörler tanımlar",
+      "processComponents": [
+        "Dart programlama dilinde özel veri tipleri oluşturma süreci açıklanır.",
+        "Dart programlama dilinde operatör aşırı yükleme konsepti açıklanır ve özel operatör tanımlamanın önemi vurgulanır.",
+        "Genişletilebilirlik özellikleri kullanılarak mevcut sınıfların genişletilerek yeni özellikler eklenilebileceği açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.33.3",
+      "title": "Dart programlama dilindeki kodları performanslı hâle getirmek için en uygun şekle sokma tekniklerini uygular",
+      "processComponents": [
+        "Dart programlama dilinde performanslı kod yazmanın önemi vurgulanır ve en yaygın performans optimizasyon teknikleri açıklanır.",
+        "Kodların çalışma sürelerini optimize etmek için lazy-loading gibi tekniklerin önemi vurgulanır.",
+        "Dart programlama dilindeki kod analiz araçları kullanılarak performans sorunlarının tespit edilebileceği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.33.4",
+      "title": "Dart programlama dilinde mevcut olan kod analiz araçlarını ve IDE entegrasyonunu kullanmayı kavrar",
+      "processComponents": [
+        "Dart programlama dilindeki kod analiz araçlarının (Dart Analyzer, Dart DevTools, vb.) kullanım şekli açıklanır.",
+        "Dart programlama dilinin geliştirme ortamlarında bu analiz araçlarının entegre edilme yöntemi açıklanır.",
+        "Kod analizi ve hata ayıklama süreçlerini daha verimli hâle getirmek için bu araçların gerekliliği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.33.5",
+      "title": "Dart programlama dilinde test odaklı geliştirme (TDD) kavramını açıklar",
+      "processComponents": [
+        "Test odaklı geliştirme kavramı açıklanır.",
+        "TDD yaklaşımı kullanılarak kod geliştirme sürecinin iyileştirilebileceği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.33.6",
+      "title": "Dart programlama dilinde test yazmayı kavrar",
+      "processComponents": [
+        "Dart programlama dilinde unit testler ve entegrasyon testler yazma kavramları açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

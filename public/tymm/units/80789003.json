@@ -1,0 +1,183 @@
+{
+  "unitId": 80789003,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "İşletme Dersi",
+  "title": "3. ÜNİTE: İŞLETME TÜRLERİ",
+  "hours": "12",
+  "description": "Bu ünitede, üretilen mal ve hizmet çeşidine göre işletmeler, sermayelerine göre işletmeler, kamu işletmelerinin önemi, hukuksal yönden işletmeler, tek kişi işletmeler, amaçlarına göre işletmeler, kooperatif türü işletmeler, kamu yararına çalışan dernek ve vakıflar üzerinde durulmuştur.",
+  "outcomes": [
+    {
+      "code": "ISL.3.1",
+      "title": "İşletmeleri üretilen mal ve hizmet çeşidine göre sınıflandırır",
+      "processComponents": [
+        "Üretilen mal ve hizmet, çeşidine göre endüstri-ticaret-hizmet şeklinde sınıflandırılır."
+      ]
+    },
+    {
+      "code": "ISL.3.2",
+      "title": "Sanayi sektöründeki işletmelerin özelliklerini açıklar",
+      "processComponents": [
+        "Yakın çevrede bulunan üretim tesisine gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.3.3",
+      "title": "Sanayi sektöründeki işletmelere örnek verir",
+      "processComponents": [
+        "Yakın çevrede bulunan üretim tesisine gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.3.4",
+      "title": "Hizmet sektöründeki işletmelerin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.5",
+      "title": "Hizmet sektörlerini sıralar",
+      "processComponents": [
+        "Hizmet kavramı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ISL.3.6",
+      "title": "Tarım sektöründeki işletmelerin özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.7",
+      "title": "İşletmeler arasındaki temel farklılıkları belirtir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.8",
+      "title": "Özel işletmelere örnekler verir",
+      "processComponents": [
+        "Kamu işletmelerinden İktisadi Devlet Teşekkülleri, Kamu İktisadi Kuruluşları ve Yerel Yönetim İşletmeleri üzerinde durulur.",
+        "Özel İşletmelerle ilgili gazete ve dergi kupürlerinden faydalanılır."
+      ]
+    },
+    {
+      "code": "ISL.3.9",
+      "title": "Özel işletmelerin özelliklerini belirtir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.10",
+      "title": "Kamu işletmelerinin ekonominin gelişmesi açısından önemini açıklar",
+      "processComponents": [
+        "T.C. inkılap tarihi ve Atatürkçülük dersiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.3.11",
+      "title": "Yabancı sermayeli işletmelere örnekler verir",
+      "processComponents": [
+        "Yabancı sermayeli işletmeler konusunda 6224 sayılı Yasa'ya göre kurulanlar, 6326 sayılı Petrol Yasası'na göre kurulanlar,1567 sayılı Yasa'ya göre kurulanlar ve uluslararası antlaşmalara göre kurulanlar üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ISL.3.12",
+      "title": "Sermayelerine göre işletmeleri özellikleri açısından karşılaştırır",
+      "processComponents": [
+        "Sermayelerine göre işletmelerin nasıl kurulduğu ve özellikleri dikkate alınır."
+      ]
+    },
+    {
+      "code": "ISL.3.13",
+      "title": "Tek kişi işletmeler kavramını açıklar",
+      "processComponents": [
+        "Tek kişi işletmelerin nasıl kurulduğu üzerinde durulur.",
+        "1. ünitenin 2, 3 ve 4. kazanımı ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.3.14",
+      "title": "Tek kişi işletmelere örnek verir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.15",
+      "title": "Ortaklık kavramını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.16",
+      "title": "Ortaklık çeşitlerini sıralar",
+      "processComponents": [
+        "Ortaklıklar, şahıs şirketleri (adi komandit şirket, kolektif şirket) sermaye şirketleri (sermayesi paylara bölünmüş komandit şirket, limitet şirket, anonim şirket) olarak sınıflandırılır.",
+        "Çevrede bulunan veya ismi çok duyulan işletmeler dikkate alınır."
+      ]
+    },
+    {
+      "code": "ISL.3.17",
+      "title": "Şahıs şirketlerine örnekler verir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.18",
+      "title": "Sermaye şirketlerine örnekler verir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.19",
+      "title": "Kâr amacı güden işletmelerin özelliklerini açıklar",
+      "processComponents": [
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.3.20",
+      "title": "Kâr amacı güden işletmelere örnekler verir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.21",
+      "title": "Kâr amacı gütmeyen işletmelerin özelliklerini açıklar",
+      "processComponents": [
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.3.22",
+      "title": "Kâr amacı gütmeyen işletmelere örnek verir",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.23",
+      "title": "Kooperatif kavramını açıklar",
+      "processComponents": [
+        "Kooperatifçilik Kanunu hakkında bilgi verilir."
+      ]
+    },
+    {
+      "code": "ISL.3.24",
+      "title": "Kooperatif türü işletmelerin çeşitlerini sıralar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.3.25",
+      "title": "Kamu yararına çalışan dernek ve vakıfları sıralar",
+      "processComponents": [
+        "Kamu yararına faaliyet gösteren dernek ve vakıfların faaliyetlerini sürdürebilmeleri için bünyelerinde kâr amacı güden işletmeler kurduklarına değinilir."
+      ]
+    },
+    {
+      "code": "ISL.3.26",
+      "title": "Kamu yararına çalışan dernek ve vakıfların bünyesindeki iktisadi işletmelerin fonksiyonlarını açıklar",
+      "processComponents": [
+        "Kızılay Derneğinin maden suyu üretimi örnek gösterilir.",
+        "Coğrafya dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930143930838-%C4%B0%C5%9ELETME%20DERS%C4%B0%20%C3%96%C4%9ERT.%20PROGR..pdf"
+}

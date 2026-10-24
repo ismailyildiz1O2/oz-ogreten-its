@@ -1,0 +1,62 @@
+{
+  "unitId": 1181,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "2. TEMA: KAVALDA USTA İCRACILAR",
+  "hours": "11",
+  "description": "Tema içeriğini, alanda kendini ispatlamış kaval icracılarının teknik yeterlilik, geleneksel repertuvar, yaratıcılık, ifadesel derinlik gibi özellikleri oluşturmaktadır. Bu doğrultuda öğrencilerin kavalda usta icracıları tanımlamalarına dair, belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.2.2.1",
+      "title": "Kavalda usta icracıları tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KVL.2.2.2",
+      "title": "Kavalda usta icracıların stillerini tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KVL.2.2.3",
+      "title": "Farklı bölgelerdeki kaval icra tarzlarını tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "bölgesel stil, icra, kaval, teknik, usta icracılar",
+  "support": [
+    "Bu süreçte hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazırbulunuşluk düzeyine göre değerlendirilerek sade ve basitten karmaşığa doğru düzenlenebilir. Öğrencileri küçük gruplara ayırarak kavalda usta icracılar hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Bölgelere göre icra, sınıf ortamında öğretmen tarafından canlı olarak yapılabilir."
+  ],
+  "enrichment": [
+    "Usta icracıların çaldığı eserler hakkında tartışarak yorum yapmaları sağlanabilir. Kavalın icra edildiği bölgeler ve bu bölgelerde tanınmış usta icracıların konu edindiği eşleştirme kartları ile oyun tasarlamaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öz/akran değerlendirme, grup değerlendirmeleri, gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla poster veya sunum hazırlatılarak bir usta icracıyı tanıtmaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi veya dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KVL.2.2.1",
+    "Usta icracıların performanslarının bulunduğu videolar veya kayıtlar öğrencilerle paylaşılarak usta icracıları tanımaları sağlanır. Usta icracılarla yapılan sohbet veya röportaj kayıtları öğrencilere dinletilerek kültürel etkileşim kurmaları sağlanır ( D19.2 , OB5 ). Süreç sonunda bireysel veya grup çalışması yoluyla poster veya sunum hazırlatılarak bir usta icracı tanıtılabilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi veya dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "KVL.2.2.2",
+    "Öğrencilere usta icracıların çaldığı melodiler dinletilir. Sonra hep birlikte bu müziklerin hızlı mı yavaş mı, neşeli mi üzgün mü olduğu konusunda konuşmaları sağlanır. Böylece usta icracıların her birinin farklı çaldığını anlamaları sağlanır. ( SDB2.2 , D4.2 ). Usta icracıların hayatları hikâyeleştirilerek anlatılır ve öğrencilerin dikkatinin çekilmesi sağlanır ( E3.2 ). Usta icracılar aynı eseri çalarken üfleme biçimleri ve nefes alışları farklı olabilir. Öğrencilerin, icracıların sert mi yoksa yumuşak mı üflediğini dinleyerek üfleme tekniği ve nefes kullanımıyla ilgili durumu belirlemeleri sağlanır ( D3.3 ). Bu süreç gözlem formu ile değerlendirilebilir.",
+    "KVL.2.2.3",
+    "Farklı bölgelerde çalınan müzikler tanıtılarak öğrencilerin bu müziklerin hangi kültüre ait olduğunu ve ne anlatmak istediğini ayırt etmeleri sağlanır ( OB5 ). Farklı bölgelerden kaval icracılarına ait eserler dinletilerek eserleri tanıyıp eserlerin hissettirdiği duyguları, sözlü ifade etmeleri sağlanır ( SDB2.1 ). Farklı bölgelerde önce kaval ile icra edilen eserler dinlettirilir, sonra bölgelere ait farklı çalgılarla icra edilen eserler dinlettirilerek öğrencilerin benzerlikleri ve farklılıkları ayırt etmesi sağlanır ( OB5 , D3.3 ). Benzerlikler ve farklılıklara yönelik karşılaştırma tabloları hazırlamaları istenebilir. Bu süreç dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.2",
+      "D3.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1181"
+}

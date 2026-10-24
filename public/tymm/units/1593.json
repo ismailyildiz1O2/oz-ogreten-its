@@ -1,0 +1,63 @@
+{
+  "unitId": 1593,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY II · 5.Tema: Hafıza Oyunları",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.2.5.1",
+      "title": "Hafıza oyunlarında ipuçları arasında mantıksal ilişkiler kurabilme",
+      "processComponents": [
+        "a) Hafıza oyunu belirler.",
+        "b) Hafıza oyununda benzerliği olan veya birbirini andıran iki unsuru ilişkilendirir.",
+        "c) İlişkilendirdiği unsurları sözel olarak yansıtır."
+      ]
+    },
+    {
+      "code": "OOEZO.2.5.2",
+      "title": "Hafıza oyunlarını anlamlandırabilme",
+      "processComponents": [
+        "a) Hafıza oyunlarında çözüme yönelik mesajları belirler.",
+        "b) Hafıza oyunlarında mesajlar arasındaki ilişkileri tespit eder."
+      ]
+    },
+    {
+      "code": "OOEZO.2.5.3",
+      "title": ". Hafıza oyunlarında kendine özgü stratejiler geliştirebilme",
+      "processComponents": [
+        "a) Hafıza oyununun taktiksel problem durumunu belirler.",
+        "b) Hafıza oyununda belirlenen problemin çözümüne ilişkin kendi önerisini sunar.",
+        "c) Kendi belirlediği taktiği uygular."
+      ]
+    },
+    {
+      "code": "OOEZO.2.5.4",
+      "title": ". İleri seviye hafıza oyunları çözümleyebilme",
+      "processComponents": [
+        "a) İleri seviye hafıza oyunlarına ilişkin parçaları belirler.",
+        "b) İleri seviye hafıza oyunlarında parçalar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "OOEZO.2.5.5",
+      "title": "Yeni hafıza oyunları tasarlayabilme",
+      "processComponents": [
+        "a) Hafıza oyunlarında kullanılacak araç-gereçleri belirler.",
+        "b) Hafıza oyununda kullanılacak araç gereçler arasında ilişki kurar.",
+        "c) Hafıza oyunlarında ilişki kurulan araç gereçlerden hareketle özgün oyun tasarımı yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "hafıza, hatırlama, tasarlama",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "TSRMAB2 Benzetişim/Benzetim (TSRMAB2.2. Analoji Yapabilme), SAB2. Görsel mesajı Okuma (SAB2.2. Görsel Mesajı Anlamlandırma), BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1593"
+}

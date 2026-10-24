@@ -1,0 +1,55 @@
+{
+  "unitId": 80791001,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "1. ÜNİTE: OSMANLI TÜRKÇESİNİ TANIYALIM",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OSM.10.1.1.1",
+      "title": "Türkçe-Osmanlı Türkçesi ilişkisini açıklar",
+      "processComponents": [
+        "Osmanlı Türkçesinin Kur'an alfabesini temel alan bir yazı dili olduğu vurgulanmalıdır.",
+        "Osmanlı Türkçesi ve Osmanlıca tabirlerinin Türkçenin dönemlerinden birini adlandırmak için kullanıldığı belirtilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.10.1.2.1",
+      "title": "Osmanlı Türkçesini öğrenmenin gerekliliğini açıklar",
+      "processComponents": [
+        "Osmanlı Türkçesinin geçmişle gelecek arasında kültürel bağ kurduğu, atalarımızın yüzyıllar boyunca ortaya koydukları kültürel eserlere doğrudan ulaşmanın yolu olduğu gibi gerekçelerle belirtilmelidir.",
+        "Osmanlı Türkçesini öğrenmenin, mevcut söz varlığını zenginleştirileceği vurgulanmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.10.1.3.1",
+      "title": "Osmanlı Türkçesi ile ortaya konulmuş kültür varlıklarına örnekler verir",
+      "processComponents": [
+        "Osmanlı Türkçesi ile yazılmış çeşitli eserler (bilimsel eserler, kitabeler, levhalar, klasik eserler, yazma eserler, projeler, sanat eserleri vb.) örnek olarak verilmeli ve öğrenciler, yakın çevreden Osmanlı Türkçesi ile yazılmış eser örnekleri bulmaları konusunda teşvik edilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.10.1.3.2",
+      "title": "Osmanlı Türkçesinin günümüzdeki kullanım alanlarını açıklar",
+      "processComponents": [
+        "Osmanlı Türkçesi ile ortaya konulmuş eserlerin büyük bir inceleme ve araştırma sahası oluşturduğuna ve Osmanlı Türkçesi bilenlerin çalışabilecekleri alanlara değinilmelidir.",
+        "Yakın ve uzak çevrede Osmanlı Türkçesiyle yazılmış eserlerle karşılaşılabileceği vurgulanmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.10.1.4.1",
+      "title": "Osmanlı Türkçesinin tarihî gelişimini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

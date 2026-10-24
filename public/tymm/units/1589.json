@@ -1,0 +1,67 @@
+{
+  "unitId": 1589,
+  "grade": 0,
+  "gradeName": "2. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY II · 2.Tema: Sözel Oyunlar",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.2.2.1",
+      "title": "Dünya genelinde oynanan sözel oyunları ve önemli oyuncuları tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.2.2.2",
+      "title": ". İleri seviye sözel oyunlarda akıl yürütme biçimlerini uygulayabilme",
+      "processComponents": [
+        "a) İleri seviye sözel oyunlarda parçadan bütüne ilişki kurarak sonuca varır.",
+        "b) İleri seviye sözel oyunlarda genelden genele ilişki kurarak akıl yürütür.",
+        "c) İleri seviye sözel oyunlarda genelden özele ilişki kurarak akıl yürütür.",
+        "d) İleri seviye sözel oyunlarda özelden özele ilişki kurarak akıl yürütür."
+      ]
+    },
+    {
+      "code": "OOEZO.2.2.3",
+      "title": "Sözel oyunlardaki yönergeler doğrultusunda oyuna yönelik verdiği kararın sonuçları üzerinde yansıtma yapabilme",
+      "processComponents": [
+        "a) Sözel oyunların çözümüne yönelik amaç belirler.",
+        "b) Sözel oyunların çözümüne yönelik bilgi toplar.",
+        "c) Sözel oyunların çözümüne yönelik alternatif seçenekler oluşturur.",
+        "d) Alternatif seçeneklere yönelik mantıksal denetleme yapar.",
+        "e) Alternatif seçenekler arasından doğruya yakın seçim yapar.",
+        "f) Yaptığı seçimi ilgili sözel oyuna yansıtır."
+      ]
+    },
+    {
+      "code": "OOEZO.2.2.4",
+      "title": "Dijital teknolojiden yararlanarak sözel oyunlar hazırlayabilme",
+      "processComponents": [
+        "a) Sözel oyun tasarımı sürecinde kullanılabilecek araç ve yöntemleri tanır.",
+        "b) Tasarlayacağı oyuna uygun araç, teknoloji ve yöntemleri belirler.",
+        "c) Tasarlayacağı oyuna uygun araç, teknoloji ve yöntemleri kullanır.",
+        "d) Tasarlayacağı oyuna uygun araç, teknoloji ve yöntemleri değerlendirir."
+      ]
+    },
+    {
+      "code": "OOEZO.2.2.5",
+      "title": "Yeni sözel oyunlar tasarlar",
+      "processComponents": [
+        "a) Oyun tasarımında dikkat edilecek hususları bilir.",
+        "b) Sözel oyunlarda kullanılacak yöntem ve teknikleri belirler.",
+        "c) Sözel oyunlarda kullanılacak yöntem ve teknikler arasında ilişki kurar.",
+        "d) Sözel oyunlarda kullanılacak yöntem ve tekniklerden hareketle kendine özgü oyun oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme( BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma), SBAB12. Mantıksal Muhakeme (SBAB12.1. Akıl Yürütme Biçimlerini Uygulama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1589"
+}

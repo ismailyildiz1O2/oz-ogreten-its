@@ -1,0 +1,71 @@
+{
+  "unitId": 81424169,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "169. ÜNİTE: MÜZE EĞİTİMİ - MÜZEDE SERGİLEME YÖNTEM VE TEKNİKLERİ",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MEA.1.2.1",
+      "title": "Müzelere eser toplama yollarını açıklar",
+      "processComponents": [
+        "Müzelere ulaşan ve koleksiyon değeri taşıyan eserlerin arşiv sistemine göre kayıt altına alınma süreci açıklanır. Örnek eser envanter fişleri incelenmesi sağlanır.",
+        "2863 sayılı Kültür ve Tabiat Varlıkları Koruma Kanunu'nda müzelere eser kazandırma ve eserlerin belgelenmesi ile ilgili maddelerin incelenmesi sağlanır."
+      ]
+    },
+    {
+      "code": "MEA.1.2.2",
+      "title": "Müzelerde sergilenen eserlerin seçim kriterlerini açıklar",
+      "processComponents": [
+        "Müzelerdeki eserlerin kronolojik sıralamaya, dönemlerine, malzemeye, koleksiyon özelliklerine, bulunduğu bölgeye, kullanım alanına, üsluba ve şahsa göre teşhir edildiği(sergilendiği) vurgulanır.",
+        "Müzelerde sergilenen eserlerin sergileme amacı ve kriterleri incelenir.",
+        "Sergilenen eserlerin seçim sürecinde küratörün etkisi ele alınır."
+      ]
+    },
+    {
+      "code": "MEA.1.2.3",
+      "title": "Teşhir ve depolarda muhafaza edilen eserlerin korunma yöntemlerini açıklar",
+      "processComponents": [
+        "Müze koleksiyonlarının maruz kaldığı bozulma etkenleri ve bunların önlenmesi, sınırlandırılması, tespiti veya müdahale edilmesi amacıyla yapılan uygulamalar incelenir.",
+        "Müzelerde yer sorunu, moda esintileri, hasar, bazı hassasiyetler vb. nedenlerden dolayı sergilenmeyen eserlerin modern anlayışa uygun iklimsel ve teknolojik metotlarla düzenlenen özel depolarda korunmaya alındığı vurgulanır."
+      ]
+    },
+    {
+      "code": "MEA.1.2.4",
+      "title": "Sergileme yöntem ve teknolojilerini irdeler",
+      "processComponents": [
+        "Örnekler üzerinden eser düzenleme yöntemleri ve teknolojilerini keşfetmeleri sağlanır.",
+        "Sergileme yöntemlerinin değişmesine etki eden nedenlerin sorgulanması sağlanır."
+      ]
+    },
+    {
+      "code": "MEA.1.2.5",
+      "title": "Pop-up sergileme yöntemini inceler",
+      "processComponents": [
+        "Pop-up (popap) müze ve enstalasyon kavramlarının açıklanması sağlanır.",
+        "Farklı temalarda açılan pop-up müze örnekleri incelenir."
+      ]
+    },
+    {
+      "code": "MEA.1.2.6",
+      "title": "Farklı türdeki sanal müzeleri ziyaret eder",
+      "processComponents": [
+        "Sanal müzelerin ortaya çıkış süreci incelenir.",
+        "Sanal müze türlerinin arasındaki farkların açıklanması sağlanır.",
+        "Sanal müze kılavuzunun incelenmesi sağlanır.",
+        "T.C. Kültür ve Turizm Bakanlığı ve özel kuruluşlara bağlı sanal müzelerle ilgili bilgi edinilmesi sağlanır.",
+        "Sanal bir sanat müzesi ziyareti gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

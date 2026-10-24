@@ -1,0 +1,57 @@
+{
+  "unitId": 1373,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "3. TEMA: KÜRDİ DİZİSİNDE ETÜT VE ESER UYGULAMALARI",
+  "hours": "10",
+  "description": "Temanın içeriğini, Türk müziğindeki kürdi makamında ud ile etüt ve Türk müziği eserleri çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan kürdi makamında etütleri ve eserleri çalabilmeleri için çalgıya özgü teknikleri kullanarak çalmaya ilişkin belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "UD.5.3.1",
+      "title": "Kürdi makamında etütleri ve Türk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) Kürdi makamında çalacağı egzersiz ve eserleri çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alarak kürdi makamında etütleri ve Türk müziği eserlerini çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak kürdi makamında etütleri ve Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "makam, Türk müziği, ud",
+  "support": [
+    "Her öğrencinin seviyesi ve ihtiyaçları doğrultusunda bireysel çalışma planları hazırlanabilir. Öğrencinin özellikle zorlandığı mızrap veya sol el teknikleri üzerine odaklanabilir. Eserler, başlangıçta daha yavaş tempoda metronomla çalıştırılabilir. Daha kısa ve basit etütlerle başlangıç yapılabilir. Kürdi makamındaki eserlerin anahtar noktaları sıkça tekrarlanarak öğrencilerin ezgisel hafızayı güçlendirmeye yönelik çalışmalar yapılabilir. Sık sık bireysel ve toplu prova yapılabilir. Öğrenciler önce bir ritmi öğretmenin vuruşunu dinler ve \"Ne duyuyorsun?\" sorusu ile o ritme ilişkin kafasında ne canlandığı öğrenilir. Daha sonra öğrenciden tekrar etmesi istenebilir."
+  ],
+  "enrichment": [
+    "Küçük gruplar oluşturarak bir grup kürdi makamındaki bir eser üzerinde ritmik eşlik oluştururken diğer grup melodik motifler geliştirebilir. Öğrenciler, kürdi makamında küçük bir melodi bestelemeye teşvik edilebilir. Türkçe dersinden bir şiir veya metin seçilerek kürdi makamında bu metne uygun bir ezgi oluşturma görevi verilebilir. Hayat bilgisiyle ilişkilendirilerek farklı kültürlerde makamın karşılıkları veya benzerlikleri araştırılabilir."
+  ],
+  "assessment": [
+    "Temanın öğrenme çıktıları; çalışma kâğıtları, gözlem formu ve öz değerlendirme formu kullanılarak değerlendirilebilir. Verilen makamlarda eser ve egzersiz çalmaya yönelik performans görevi verilebilir. Verilen performans görevi, dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.5.3.1",
+    "Kürdi makamının genel özellikleri anlatılarak makamın dizisi gösterilip solfeji yapılır. Öğrencilerin odaklanması sağlanır ( E3.2 ). Daha sonra öğretmen, kürdi makamından oluşan etüt ve Türk müziği eserlerini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler, öğretmen tarafından yapılan bona ve solfeji inceler. Etüt ve Türk müziği eserinin uygun teknikleri kullanarak önce bona ardından solfejini yapmaları ve çözümlemeleri istenir ( KB2.14 , SAB9 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir. Seslendireceği kürdi makamındaki etüt ve Türk müziği eserlerinde kullanılacak parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerden ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri beklenir ( SDB1.2 ). Bu süreç, doğru duruş ve tutuş pozisyonlarını içeren gözlem formu kullanılarak değerlendirilebilir. Doğru duruş ve parmak pozisyonları gösterilir ve öğrenciler iki gruba ayrılır. Grup çalışması yapmaları beklenir ( SDB2.2 ). Sonra öğrencilerin ud ile kürdi makamından oluşan etütleri ve eserleri çalmak için uda özgü mızrap ve sol el tekniklerini sabırlı bir şekilde kullanmaları istenir ( D12.3 ). Bu süreç, dizinin dörtlü-beşli ve seyir özelliklerine dair açık uçlu sorulardan oluşan çalışma kâğıtları ile değerlendirilebilir. Kürdi makamının belirgin şekilde algılanması için orta uzun seslerden oluşan etütler ve Türk müziği eserleri öğretmen tarafından çalınır. Öğrencilerin bilgi ve beceri ihtiyaçlarını geliştirmeye muktedir olması beklenir ( OB1 ). Öğrencilerden gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenir ( KB2.14 , SDB2.2 ). Çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Bu süreç, buselik makamında eser ve egzersiz çalmaya yönelik performans görevi verilerek değerlendirilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1373"
+}

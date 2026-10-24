@@ -1,0 +1,54 @@
+{
+  "unitId": 1164,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "1. TEMA: GİTARDA KÜÇÜK USULLERLE RİTİM ÇALIŞMALARI 2",
+  "hours": "18",
+  "description": "Temada öğrencilerin küçük usullerle ritim çalışmaları yapmaları amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "GTR.6.1.1",
+      "title": "Gitarda 5/8, 6/8, 7/8'lik ritimlerle şarkı çalabilme",
+      "processComponents": [
+        "a) 5/8, 6/8, 7/8 'lik usullerdeki şarkıları çözümler.",
+        "b) 5/8, 6/8, 7/8 'lik usullerdeki şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) 5/8, 6/8, 7/8 'lik usullerdeki şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) 5/8, 6/8, 7/8 'lik usullerdeki şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "gitar, seviye, türkü",
+  "support": [
+    "Öğretmen rehberliğinde ritimleri daha iyi anlamaları için beden perküsyonu (ellerle, ayaklarla ritim tutma) çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "5/8, 6/8, 7/8 ve 9/8'lik usulleri istediği akorlarla birleştirerek uygulamaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilere basit ritimleri gruplar hâlinde çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.6.1.1",
+    "Öğrencilere her ritim türü için örnek şarkılar dinletilir. Örneğin 5/8'lik ritim için geleneksel bir halk müziği şarkısı, 6/8'lik ritim için bir dans ezgisi ve 7/8'lik ritim için bir Türk halk müziği parçası seçilir. Öğrenciler, dinledikleri şarkıları etkileşimli tahtadaki klasörlerine kaydederler ( OB2 ). Öğrenciler şarkıları çözümler ve çalgıya özgü duruş ve tutuş pozisyonunu alırlar. Başlangıç olarak boş telde 5/8'lik ritim çalışmaları yapılır. Öğrenciler metronom eşliğinde 5/8'lik ritim için vuruşlarını doğru bir şekilde yapmaya çalışır. Öğretmen, kendi gitarı ile rehberlik eder ve ritmi örnekleyerek öğrencilerin ritmi takip etmelerini sağlar. Öğrenciler, bu ritmi metronom eşliğinde \"1, 2, 3, 4, 5\" vuruşlarıyla aşağı-yukarı tellere odaklanarak çalışır ( E3.2 ). Öğretmen öğrencilerin doğru vuruşları yakalayıp yakalayamadığını takip eder. Daha sonra, 6/8'lik ritim çalışmasına geçilir. Bu ritimde öğrenciler önce basit çalışmalara başlar ve metronom eşliğinde \"1, 2, 3, 4, 5, 6\" vuruşlarında aşağı-yukarı tellere vururlar. Öğretmen bu ritmi vals ya da başka bir örnekle gösterir ve öğrencilerin ritmi hissetmesini sağlar. Öğrenciler gayretli olmanın hedeflere ulaşma üzerindeki etkisini fark ederek azimli bir şekilde ritmi tekrar eder ve doğru vuruşları yaparlar ( D3.1 ). Metronom eşliğinde çalışarak öğrenciler 6/8'lik ritmin akışını takip ederler. Son olarak 7/8'lik ritim çalışmasına başlanır. Öğrenciler metronom eşliğinde \"1, 2, 3, 4, 5, 6, 7\" vuruşlarında ritimleri çalışırlar. Öğretmen, bu ritmi bir Türk halk müziği şarkısından örnekler vererek öğrencilerin doğru vuruşları yakalamalarını ister ( SDB2.1 ). Öğrenciler, ritmi tekrar ederken düzenli vuruşları yakalamaya çalışır ve ritmin akışını içselleştirir. Öğretmen, her öğrencinin vuruşlarını dikkatle izler ve doğru vuruşları yapmalarını sağlamak için gerekirse düzeltmeler yapar. Öğrencilerin birbirlerini izleyerek gözlem yapmaları istenir ( KB2.2 ). Eksik olan noktalar üzerinde tekrar tekrar çalışılır ve her öğrencinin ritim anlayışı pekiştirilir ( D3.2 ). Öğretmen, metronom eşliğinde her ritmi tekrar ederek öğrencilerin 5/8, 6/8 ve 7/8'lik ritimlerdeki becerilerini geliştirir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1",
+      "D3.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1164"
+}

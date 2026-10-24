@@ -1,0 +1,162 @@
+{
+  "unitId": 279,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "4. ÜNİTE: MADDE VE DOĞASI",
+  "hours": "34",
+  "description": "Bu ünitede öğrencilerin modern fiziğin temelini oluşturan Planck sabitinin etkisini siyah cisim ışıması olgusu üzerinden sorgulamaları, fotoelektrik etki ve foton kavramına ilişkin akıl yürütmeleri, fotoelektrik etkinin uygulamaları, yarı iletkenler ve süper iletkenlerin kullanım alanları ve önemi konusunda sorgulama yapmaları, standart modelin bileşenlerini çözümleyerek Modern Atom Teorisi ile ilgili bilgileri yapılandırmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.12.4.1",
+      "title": "Planck sabitinin modern fiziğin doğuşundaki etkisini çözümleyebilme",
+      "processComponents": [
+        "a) Planck sabitinin modern fiziğin ortaya çıkışındaki etkisini siyah cisim ışıması olgusu üzerinden belirler.",
+        "b) Planck sabiti ile fotoelektrik etkinin ilişkisini belirler."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.2",
+      "title": "Fotoelektrik etkinin bağlı olduğu koşullar ve foton kavramına ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Fotoelektrik etkinin bağlı olduğu değişkenleri gözlemler.",
+        "b) Fotoelektrik etkinin matematiksel modeline ulaşır.",
+        "c) Fotoelektrik etki ve foton kavramı arasındaki ilişkiyi geneller."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.3",
+      "title": "Fotoelektrik etkinin uygulamaları ile ilgili sorgulama yapabilme",
+      "processComponents": [
+        "a) Fotoelektrik etkiyi tanımlar.",
+        "b) Fotoelektrik etki hakkında sorular sorar.",
+        "c) Fotoelektrik etkinin uygulamaları hakkında bilgi toplar.",
+        "ç) Fotoelektrik etkinin uygulamaları ile ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Fotoelektrik etkinin uygulamaları ile ilgili toplanan bilgiler üzerinde çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.4",
+      "title": "Yarı iletkenlerin kullanım alanlarını ve önemini sorgulayabilme",
+      "processComponents": [
+        "a) Yarı iletkenleri tanımlar.",
+        "b) Yarı iletkenler hakkında sorular sorar.",
+        "c) Yarı iletkenler hakkında bilgi toplar.",
+        "ç) Yarı iletkenlerle ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Yarı iletkenlerle ilgili toplanan bilgiler üzerinden yarı iletkenlerin kullanım alanları ve önemine yönelik çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.5",
+      "title": "Süper iletkenlerin kullanım alanlarını ve önemini sorgulayabilme",
+      "processComponents": [
+        "a) Süper iletkenleri tanımlar.",
+        "b) Süper iletkenler hakkında sorular sorar.",
+        "c) Süper iletkenler hakkında bilgi toplar.",
+        "ç) Süper iletkenlerle ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Süper iletkenlerle ilgili toplanan bilgiler üzerinden süper iletkenlerin kullanım alanları ve önemine yönelik çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.6",
+      "title": "Standart modelin bileşenlerini çözümleyebilme",
+      "processComponents": [
+        "a) Standart modelde yer alan temel parçacıkları belirler.",
+        "b) Temel parçacıklar ve temel kuvvetler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.7",
+      "title": "Modern Atom Teorisi ile ilgili bilgileri yapılandırabilme",
+      "processComponents": [
+        "a) Atomun yapısındaki temel parçacıkları inceleyerek aralarındaki ilişkileri ortaya koyar.",
+        "b) Temel parçacıklarla ilgili bilgilerini kullanarak atomun yapısını ortaya koyar."
+      ]
+    },
+    {
+      "code": "FİZ.12.4.8",
+      "title": "Nükleer enerjiyi sorgulayabilme",
+      "processComponents": [
+        "a) Nükleer enerjiye ilişkin merak ettiği konuyu tanımlar.",
+        "b) Nükleer enerjiye ilişkin sorular sorar.",
+        "c) Nükleer enerji hakkında bilgi toplar.",
+        "ç) Nükleer enerjiye ilişkin bilgilerin doğruluğunu değerlendirir.",
+        "d) Nükleer enerjiye ilişkin toplanan bilgiler üzerinden çıkarımlar yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "fotoelektrik etki, foton, eşik enerjisi, yarı iletken, süper iletken, kuark, anti madde, büyük patlama, temel kuvvetler, atom, nükleon, fisyon, füzyon, iyonize radyasyon, iyonize olmayan radyasyon",
+  "support": [
+    "Fotoelektrik etkideki, eşik enerjisi GSM faturalardaki minimum ödeme miktarına benzetilerek analoji yapılabilir. Planck sabiti, her türlü alışverişte ödenebilecek en küçük miktar olan para birimindeki 1 kuruşa benzetilerek analoji yapılabilir. Diyotun devreye düz ve ters bağlandığı durumda meydana gelen değişimi gösterebilecek bir gösteri deneyi yapılabilir. Diyotun devredeki rolü hakkında öğrencilerin deneyim kazanması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, yarı iletken malzemelerin hangileri olduğunu ve bu malzemelerin türlerini araştırabilir. P ve N tipi yarı iletkenler, bunların oluşturduğu PN ve NP eklemleri ile bu eklemlerin birleşmesiyle meydana gelen PNP ve NPN yapıları hakkında araştırma yapılabilir. Eklemlemelerle oluşan devre elemanlarının devredeki kullanımı ve rolü hakkında poster hazırlanabilir. Yarı iletken malzemelerin mikroelektronik teknolojilerin gelişimine etkisi farklı açılardan araştırılabilir. CERN'de kullanılan parçacık hızlandırıcılarda kullanılan süper iletken teknolojisi ile ilgili araştırma yapılabilir. Ham maddelerden yarı iletken malzemelerin oluşturulma sürecini araştırmaları ve paylaşmaları istenebilir. Öğrencilerden Higgs bozonu hakkında araştırma yapmaları istenebilir.",
+    "*STEM eğitim yaklaşımı temelinde devre geliştirme kartları kullanılarak günlük hayat problemlerinin çözümüne yönelik ürün geliştirilebilir. Öğrencilerden atom teorilerinin tarihî gelişim sürecini değerlendirerek bunun Modern Atom Teorisi ile benzerlik ve farklılıklarını belirleyerek bir poster veya maket oluşturmaları istenebilir.",
+    "*Fotoelektrik etki ile çalışan bir düzenek tasarlamaları istenebilir. STEM basamakları uygulanarak süper iletken aracılığı ile manyetik kaldırmaya dayalı bir düzenek kurulabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çıkış kartı (açık uçlu sorular), yapılandırılmış grid, poster, çalışma yaprağı, tanılayıcı dallanmış ağaç, yapılandırılmış grid, görsel tasarım (yapboz) aracılığıyla değerlendirilebilir.",
+    "Işığın tanecik modeli, Planck sabitinin anlamı ve fotoelektrik etkinin uygulamaları hakkında açık uçlu sorulardan oluşan bir çıkış kartı verilebilir. Yarı iletken devre elemanlarının görselleri, simgeleri veya kullanım alanlarını kapsayan yapılandırılmış grid kullanılabilir. Yarı iletken malzemelerin tarihsel gelişimi konulu bir poster hazırlayıp sunmaya yönelik performans görevi verilebilir. Poster ve sunumun değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir. Süper iletkenlerin kullanım alanları hakkında farklı soru türlerinden oluşan çalışma yaprağı verilebilir. Değerlendirmelerde öz, akran veya grup değerlendirme formu kullanılarak çeşitlilik sağlanabilir. Temel parçacıklar ve temel kuvvetler hakkındaki bilgileri içeren yapılandırılmış grid ve tanılayıcı dallanmış ağaç gibi araçlar kullanılabilir. Atomu oluşturan parçacıkların kuarklarla nükleonları, nükleonlarla ve elektronlarla atomu, bozonlar yardımıyla etkileşimini görselleştiren bir yapboz tasarlamaları performans görevi olarak istenebilir. Test, yapılandırılmış grid ve tanılayıcı dallanmış ağaç puanlama anahtarı ile; performans görevi ise dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.12.4.1",
+    "Öğrencilere klasik fizik ve modern fizik ayrımı hatırlatılabilir. Klasik fiziğin cevap veremediği olgulardan kavramsal düzeyde söz edilebilir. Bu olgulardan ilkinin siyah cisim ışıması olduğu belirtilip öğrenciler bu konuda siyah cisim ışıması olgusunun çözüm öyküsünü ve kavramsal önemini içeren bir okuma parçasına yönlendirilebilir. Öğrenciler okuma parçası aracılığıyla ulaştıkları bilgileri yorumlayarak siyah cisim ışıması olgusu ile modern fizik ilişkisini fark eder ( OB1 ) . Öğrencilerin siyah cisim ışıması olgusunun modern fiziğe etkisi ve termal kameralar gibi uygulamaları hakkında tartışmalar ı ( SDB2.2 ) sağlanır. sağlanır. Öğrenciler, okuma parçası üzerinden özellikle Planck'ın siyah cisim ışıması olgusuna yaklaşımını ve Planck sabitini ortaya atarak olguyu çözmedeki etkisini belirler. Öğrenciler fotoelektrik etkinin varlığından haberdar edilebilir. Planck sabitinin fotoelektrik etkide kullanıldığını görmeleri sağlanabilir. Öğrenciler, Planck sabitinin fotoelektrik etkideki rolünü yüzeye gönderilen ışığın frekansı ile akım arasındaki ilişkiyi gösteren simülasyonlar veya animasyonlar üzerinden belirler ( KB2.9 ) . Planck sabitinin modern fizikte kullanıldığı alanlar vurgulanarak Planck sabitine yönelik verilen örneklerde kavramsal düzeyle sınırlı kalınır.",
+    "FİZ.12.4.2",
+    "Öğrenciler, simülasyon veya animasyon gibi dijital içerikler yardımıyla ( OB2 ) farklı metaller için fotoelektrik etkiyi ve eşik enerjisinin değişimini gözlemler. Simülasyon üzerinde aynı ve farklı frekanslarda ışık gönderilen aynı ve farklı tür yüzeylerdeki fotoelektrik etkiyi gözlemleyebilecekleri denemeler yapabilir. Öğretmen rehberliğinde topladıkları verilerden yararlanarak ( OB7 ) fotoelektrik etkinin enerji ile ilgili olan matematiksel modeline ulaşır. Bulgularını ışığın tanecik modeli ile ilişkilendirerek foton kavramına ilişkin çıkarım yapar ve çıkarımlarını kullanarak fotoelektrik etkinin matematiksel modelini geneller. Foton kavramı, ışığın tanecik modeli bağlamında ele alınır ve fotonun kuantum özelliklerinin verilmesinden kaçınılır.",
+    "FİZ.12.4.3",
+    "Öğretmen soru cevap tekniği ile öğrencilerin ön bilgilerinden yararlanarak fotoelektrik etkiyi kendi cümleleriyle tanımlamalarını sağlar. Öğrenciler, fotoelektrik etkiye ilişkin merak ettikleri konular hakkında sorular sorar ( E3.8 ) . Öğretmen rehberliğinde öğrenciler gruplara ayrılır ( SDB2.2 ) . Her grup fotoelektrik etkinin güneş pilleri, fotoselli lambalar, alarm sistemleri, yangın ve duman dedektörleri gibi harekete veya ışığa duyarlı sistemleri içeren günlük hayattaki uygulamalarına ve fotoelektrik devrelerin çalışma prensipleri ile bunların hesaplamalarına ilişkin farklı kaynaklardan bilgi toplar ( D3.3 ) . Gruplardan, güneş pillerindeki ve çevreci enerji üretmede kullanılan ( D5.2 , OB8 ) güneş panellerindeki fotoelektrik etkiye ilişkin bilgisini yarı iletkenler ile ilişkilendirmeleri ( SDB1.1 ) istenir. Öğrenciler fotoselli lambalar ve benzeri tasarruf amaçlı ( D17.2 ) fotoelektrik sis temlerin sürdürülebilirlik açısından önemini tartışır ( SDB2.2 ) . İş birlikli öğrenme yöntemiyle her grup topladığı bilgilerin doğruluğunu ( OB1 ) ve güvenilirliğini eleştirel bir yaklaşımla ( D3.3 , E3.10 ) yorumlar ve fikir alışverişinde bulunur ( D4.4 ) . Her grup topladığı bilgileri diğer gruplara sunabilir. Fotoelektrik etkinin günlük hayattaki rolüne yönelik çıkarımlarda bulunur. Öğrencilere ışığın tanecik modelini, fotoelektrik etkinin uygulamalarını ve Planck sabitinin anlamını yorumlayabilecekleri açık uçlu sorulardan oluşan bir çıkış kartı verilebilir.",
+    "FİZ.12.4.4",
+    "Sınıfa diyot, transistör, tristör, bütünleşik (entegre) devre gibi yarı iletken malzemelerden üretilmiş devre elemanlarının örnekleri getirilebilir. Öğrencilerin bu devre elemanlarını inceleyerek bunları devre kartı veya devre kartı görseli üzerinde göstermeleri sağlanabilir. Devre kartlarının kullanıldığı bilgisayarlar, cep telefonları, televizyonlar gibi elektronik aygıtların içinde yer alan bu devre elemanlarının yapıldığı malzemelerin yarı iletken olduğu belirtilir. Öğrenciler yarı iletkenlere ilişkin tahminlerine dayalı olarak tanımlama yapar. Öğrenciler, yarı iletken kavramı ve yarı iletken malzemelerin kullanım alanları ile ilgili sınıf içinde ortaya atılan tahminleri temel alarak merak ettikleri konular hakkında sorular sorar ( E3.8 ) . Öğretmen rehberliğinde öğrenciler gruplara ayrılır ( SDB2.2 ) . Öğrenciler sordukları sorulara cevap bulmak için farklı dijital kaynaklardan grup hâlinde bilgi toplar ( OB1 , OB2 , SDB1.2 ). Bilgi toplarken diyot ve transistörlerin devredeki simgeleri, kullanım alanları ve devredeki işlevleri konusunda kavramsal düzeyde bilgilere de ulaşmaları istenir. İş birlikli öğrenme yöntemiyle her grup topladığı bilgilerin güvenilirliğini ve doğruluğunu eleştirel bakış açısıyla öğretmen rehberliğinde fikirlerini ifade ederek ( D3.3 , E3.10 , OB1 , SDB2.1 ) değerlendirir ( KB2.6 ) . Gruplar topladıkları bilgileri sınıflandırır, değerlendirir ve diğer gruplara sunar. Öğrenciler, sunumlar sırasında yapılan tartışmalardan yarı iletken malzemelerin kullanım alanları ve günlük hayattaki önemi hakkında çıkarımlarda bulunur. Yarı iletkenlerle ilgili bilgilerin kapsamı, kavramsal düzeyde ve günlük hayata etkileri ile sınırlandırılır. Öğrencilere yarı iletken devre elemanları hakkında yapılandırılmış grid verilebilir. Gruplar, tarih disiplini ile ilişki kurarak yarı iletken malzemelerin tarihsel gelişimi konulu bir posteri performans görevi olarak hazırlayıp sunabilir. Poster hazırlanmasında istasyon tekniği kullanılabilir. Yarı iletkenlerin iç yapısı, bant kuramı ve yarı iletken eklemleri ile ilgili kısımlar kapsam dışında bırakılır.",
+    "FİZ.12.4.5",
+    "Öğretmen rehberliğinde öğrenciler, toplu taşımanın önemini ( D3.3 ) daha ekonomik ( D17.2 , OB3 ) , daha çevreci ( D9.3 ) ve sürdürülebilir ( OB8 ) olmasıyla ilişkilendirerek beyin fırtınası yaparlar ( OB.5 ) . Toplu taşımada kullanılan trenlerin görselleri gösterilerek süratlerini karşılaştırmaları istenebilir. Demir yolu taşıtlarının daha süratli gitmesini engelleyen etmenler ve bu etmenlerin en aza indirilmesinin yollarını tartışmaları ( SDB2.2 ) ve akranları ile kendi düşünceleri arasındaki benzerlik ve farklılıkları belirlemeleri ( SDB2.3 ) istenir. Manyetik kaldırma destekli (maglev) trenler tanıtılır. Manyetik kaldırma destekli trenlerin çalışma prensiplerine ilişkin öğrencilerin tahminde bulunmaları istenebilir. Öğrenciler, manyetik kaldırma destekli trenlerde kullanılan teknolojinin süper iletken adında bir malzemeye dayandığı bilgisi üzerinden düşün-eşleş-paylaş tekniği ile tartışarak süper iletkenin tanımını yapar. Öğrenciler, tahminleri temel alarak süper iletken kavramı ve süper iletken malzemelerin MR cihazları, süper iletken kablolar gibi kullanım alanları ile ilgili merak ettikleri konulara ilişkin sorular sorar ( E3.8 ) . Öğretmen rehberliğinde öğrenciler gruplara ayrılır ( SDB2.2 ) . Öğrenciler sordukları sorulara cevap bulmak için sınıf ortamında farklı kaynaklardan grup hâlinde bilgi toplar. İş birlikli öğrenme yöntemiyle her grup topladığı bilgilerin güvenilirliğini ve doğruluğunu eleştirel bakış açısıyla fikir alışverişinde bulunarak ( D3.3 , D10.3 , E3.10 , OB1 , SDB2.1 ) değerlendirir. Her grup topladığı bilgileri diğer gruplara sunabilir. Öğrenciler, sunulan bilgiler çerçevesinde süper iletken malzemelerin kullanım alanları ve önemi hakkında tartışarak çıkarımlarda bulunur. Süper iletkenlerle ilgili bilgilerin kapsamı, kavramsal düzeyde ve günlük hayata etkileri ile sınırlandırılır. Süper iletken malzemeler hakkında farklı madde türlerinden oluşan bir çalışma yaprağı kullanılarak değerlendirme yapılabilir. Süper iletkenlerin iç yapısına ilişkin bilgiler kapsam dışında bırakılır.",
+    "FİZ.12.4.6",
+    "Evrenin oluşumu ile ilgili Büyük Patlama Teorisi'ne göre büyük patlamadan sonra temel parçacıkların oluştuğundan söz edilebilir. Evreni oluşturan temel parçacıklar hakkında bilgi edinmeye odaklanan CERN ve benzeri araştırma merkezlerinde yapılan deneylerle ilgili genel bilgi verilebilir. Bu deneylerin Büyük Patlama Teorisi ile ilişkisinden söz edilebilir. Öğrencilere deneylerle tespit edilen temel parçacıkların ve bu parçacıklar arası ilişkilerin Standart Model adında bir modelin unsurları olduğu bilgisi verilir. Öğrenciler Standart Model'i güvenilir kaynaklardan araştırır ( SDB1.2 ) ve modelde geçen temel parçacıkları belirleyerek şematize eder ( OB4 ) . Öğrencilerin maddelerin temelde aynı par çacıklardan oluştuğu oluştuğu bilgisine ulaşması beklenir. Temel parçacıkların adları ve sınıflandırmaları ile sınırlı kalınır. Kuarkların birleşmesiyle oluşan hadronların türleriyle ilgili ayrıntıya girmeden varlığından söz edilir. Öğrenciler, ön bilgilerinde var olan doğadaki dört temel kuvvet ile bozonlar arasında ilişki kurup ( SDB1.1 ) bu ilişkiye yönelik güvenilir kaynaklardan ( D3.3 ) bilgi toplayarak temel kuvvetlerin maddenin oluşumundaki rolüne ilişkin çıkarımda bulunur ( OB1 ) . Muhammed Abdüsselam'ın bu konuda çalışmalar yaptığı vurgulanır ( D15.2 ) . Öğrencilere temel parçacıklar ve temel kuvvetleri içeren yapılandırılmış grid ve tanılayıcı dallanmış ağaç verilebilir.",
+    "FİZ.12.4.7",
+    "Maddenin temel parçacıklardan oluştuğu vurgulanarak atomun yapısı hakkında öğrencilerin düşünmeleri sağlanır. Öğrenciler ön bilgilerini kullanarak temel parçacıklar arasında ilişki kurup ( SDB1.1 ) bu ilişkiyi ortaya koyar ( KB2.16.2 , OB1 ) . Atomun kuantum mekaniksel özelliklerinden, Bohr atom modelinden ve matematiksel modellerden kaçınılır. Feza Gürsey ve Asım Orhan Barut'un atom fiziği konusunda çalışmalar yaptığı vurgulanır ( D15.2 ) . Atomu oluşturan temel parçacıkların etkileşimlerini keşfederek Modern Atom Teorisi'ne göre atomun yapısını kimya disipliniyle de ilişki kurarak açıklar. Bu ilişkiyi ortaya koyarken yaratıcı drama, rol oynama gibi tekniklerden biri ( E2.5 , OB9 ) kullanılır. Öğrencilerden atomu oluşturan parçacıkların kuarklardan atoma kadar olan etkileşimini yapboza dönüştürerek görselleştiren bir tasarım içeren performans görevi istenebilir.",
+    "FİZ.12.4.8",
+    "Öğretmen, Câbir bin Hayyân'ın atomun parçalanması ile ilgili öngörüsünü veya Einstein'ın atom bombasının kullanımı konusundaki düşüncelerini paylaşarak dikkat çekilir. Öğretmen, Behram Kurşunoğlu'nu ve çalışmalarını tanıtır ( D15.2 ) . Öğretmen, Sokrat semineri öğretim tekniği ile Einstein'ın Özel Görelilik Teorisi'nin sonuçlarından biri olan kütle-enerji eşdeğerliği ve radyasyon ilişkisi hakkında öğrencilere makale dağıtır veya bir video izletebilir. Öğrencilerden video ve makale hakkında saygı çerçevesinde tartışarak ( SDB2.2 ) kkütle-enerji eşdeğerliğine ve radyasyonun oluşumuna yönelik çıkarımlarda bulunmaları ister ( OB1 ) . ÖÖğretmen kimyasal reaksiyonlarda kütle korunurken nükleer reaksiyonlarda kütlenin korunmadığını belirterek öğrencilerden bu farklılığın sebeplerini tahmin etmelerini isteyebilir. Öğrenciler nükleer enerjiye ilişkin merak ettiği konuları tanımlar. Öğretmen tartışma, soru cevap veya beyin fırtınası tekniklerini kullanarak öğrencilerin açık fikirlilikle ( E3.5 ) sorular sormasını sağlar ( E3.8 ) . Öğretmen öğrencilerin nükleer enerji konusunda farklı fikirlerini altı şapkalı düşünme tekniğini kullanarak paylaşmalarını sağlar ( SDB2.1 ) . Öğretmen rehberliğinde öğrenciler gruplara ayrılır ( SDB2.2 ) . Gruplar nükleer santrallerin avantaj ve dezavantajları, radyasyondan korunma yolları ve sağlık için alınabilecek tedbirler ( D13.4 ) , iyonize ve iyonize olmayan radyasyonlar hakkında tartışarak fikirlerini öne sürer. Bu konularla ilgili problemleri saptar ve alternatif çözüm yolları önerir ( SDB3.3 ) . Öğrenciler sordukları sorulara ve tartışma sonuçlarının doğruluğuna ilişkin cevap bulmak için farklı kaynaklardan grup hâlinde bilgi toplar ( SDB1.2 ) . İş birlikli öğrenme yöntemi ile ( SDB2.2 ) her grup kendi içinde topladıkları bilgilerin güvenilirliği ve doğruluğu ile ilgili fikir alışverişinde bulunarak değerlendirme yapar ( OB1 ) . Gruplar sorumlu oldukları araştırmaları sınıf arkadaşlarına sunar ( E2.2 ) . Öğrenciler nükleer enerjiye ilişkin toplanan bilgiler üzerinden avantaj ve dezavantajları ile ilgili yargılarını temellendirir ve çıkarımlar yapar ( KB3.3 , SDB3.3 ) . Öğrencilere nükleer enerjinin elde edilme yöntemi, Türkiye ve diğer ülkelerdeki kullanımının yaygınlığı, ekonomiye katkısı, avantajları ve dezavantajları ile ilgili performans görevi verilerek öğrencilerin rapor hazırlamaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D13.4",
+      "D15.2",
+      "D17.2",
+      "D3.3",
+      "D4.4",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E2.2",
+      "E2.5",
+      "E3.10",
+      "E3.5",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.16.2",
+      "KB2.6",
+      "KB2.9",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB7",
+      "OB8",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/279"
+}

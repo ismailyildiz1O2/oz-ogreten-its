@@ -1,0 +1,89 @@
+{
+  "unitId": 402,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+  "hours": "18",
+  "description": "Bu öğrenme alanında öğrencilerin kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkilerine, bütçe planlamanın önemine, yaşadığı ildeki ekonomik faaliyetlere ilişkin bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.5.5.1",
+      "title": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme",
+      "processComponents": [
+        "a) Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini farklı kaynaklar üzerinden inceler.",
+        "b) Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yazılı, görsel veya dijital ürünlere dönüştürür.",
+        "c) Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini ifade eder."
+      ]
+    },
+    {
+      "code": "SB.5.5.2",
+      "title": "İhtiyaç ve isteklerini karşılamak için gerekli bütçeyi planlayabilme",
+      "processComponents": [
+        "a) İhtiyaç ve isteklerini karşılamaya yönelik bütçe için gerekli olan kaynakları belirler.",
+        "b) İhtiyaç ve isteklerini karşılamaya yönelik bütçe için gerekli olan kaynakları temin etme ve etkin kullanmaya ilişkin bir taslak oluşturur."
+      ]
+    },
+    {
+      "code": "SB.5.5.3",
+      "title": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme",
+      "processComponents": [
+        "a) Yaşadığı ildeki ekonomik faaliyetleri çözümler.",
+        "b) Yaşadığı ildeki ekonomik faaliyetleri alanlarına göre sınıflandırır.",
+        "c) Yaşadığı ildeki ekonomik faaliyetleri yorumlar."
+      ]
+    }
+  ],
+  "keyConcepts": "bütçe, gelir, gider, ekonomik faaliyet, sürdürülebilirlik, tasarruf",
+  "support": [
+    "Öğrencilerden kaynakların etkili ve verimli kullanmanın önemine ilişkin zihin haritaları hazırlamaları istenebilir.",
+    "Öğretmen yardımı ile öğrencilerin aile bütçesinde bulunması gereken unsurlarla ilgili zihin haritası yapmaları sağlanabilir.",
+    "Öğrencilere yaşadıkları çevredeki kaynaklar ve ekonomik faaliyetlerle ilgili eşleştirme etkinlikleri yapılabilir."
+  ],
+  "enrichment": [
+    "Aile üyeleri veya okul içinde diğer öğrencilerle kaynakların etkili kullanımına yönelik röportaj çalışması yapılır. Yapılan röportajlar haber şeklinde derlenerek okul panosunda paylaşılabilir.",
+    "Öğrencilerden bireysel olarak hazırladıkları bütçe planlarından yola çıkarak ailelerinin bir aylık bütçe planlamasını yapmaları istenebilir.",
+    "Öğrencilerden yakın çevrelerindeki kaynaklardan hareketle yaşadıkları yerin ve ülke ekonomisinin kalkınmasına yönelik bir proje önerisinde bulunmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktılarının değerlendirilmesi için gözlem formu, anekdot kaydı, kontrol listesi, bütüncül dereceli puanlama anahtarı, derecelendirme ölçeği, öz değerlendirme formu, sınıflama tablosu, kavram ağı ve performans görevi kullanılabilir.",
+    "Performans Görevi: Kaynakların verimli, israf edilmeden kullanımının doğa ve insan üzerine etkisine yönelik hikaye, şiir yazma; haber, slogan veya resim hazırlama görevidir.",
+    "Performans Görevi: Öğrencilerin belirledikleri kaynaklardan elde ettikleri geliri kullanarak öncelikli olarak ihtiyaçları doğrultusunda israftan uzak durarak kendilerine ait bir bütçe planlamaları görevidir."
+  ],
+  "teachingApplications": [
+    "SB.5.5.1 Öğrencilerden evde, okulda, çevrede yapmış oldukları gözlemler ve deneyimlerinden yola çıkarak toprak, su, orman ve maden kaynaklarının insanlar tarafından nasıl kullanıldığına ilişkin görüşlerini belirtmeleri istenir. Kaynakların verimli ve verimsiz kullanıldığı durumların doğa ve insan üzerindeki etkilerine dair büyük grup tartışması yapmaları sağlanır. Bu süreçte öğrencilerin birbirlerini etkin şekilde dinlemeleri, duygu ve düşüncelerini ifade etmeleri sağlanır ( SDB2.1 ). Öğrencilere kaynakların doğa ve insanlar için önemine yönelik sorular sorularak sahip olduklarımızın değerini tasarruf değeri bağlamında anlamaları sağlanır ( D17.3 ). Tartışma süreci öğretmen gözlem formu, anekdot kaydı, kontrol listesi gibi tekniklerle değerlendirilebilir. Öğrencilerin kaynakların kullanımının doğa ve insanlar üzerine etkilerini gösteren yazılı ve görsel kaynakları incelemeleri sağlanır ( OB1 , OB4 ). Bu süreçte ayrıca dijital kaynaklardan da yararlanılabilir ( OB2 ). İncelemeler sırasında ülkemizde uygulanan kaynakların verimli kullanımı ve geri dönüşümü ile ilgili Sıfır Atık projesine değinilir. Sıfır Atık projesinin uygulanmasında kullanılan 5D yaklaşımının temel aşamalarından da söz edilebilir.",
+    "Öğrencilerden gruplara ayrılarak kaynakların verimli, israf edilmeden kullanımının doğa ve insan üzerine etkisine yönelik ürünler ortaya koymaları istenir ( E2.2 ). Gruplardan takım çalışması yaparak performans görevi kapsamında hikâye, şiir, haber, slogan veya resim hazırlamaları istenir ( SDB2.2 , E3.11 , E3.3 , OB4 ). Ürünler hazırlanırken Sıfır Atık projesi 5D yaklaşımı aşamalarından yararlanılabilir.",
+    "Hazırlanan ürünlerden yararlanarak kaynakların verimli kullanımının doğa ve insanlar üzerindeki etkisi sözlü veya yazılı olarak sunulur. Vatanseverlik değeri vurgulanarak öğrencilerin kaynaklara sahip çıkmanın ( D19.3 ) , kaynakları bilinçli ve sürdürülebilir bir şekilde kullanmanın önemini fark etmeleri sağlanır ( OB8 ). Ürün değerlendirme sürecinde bütüncül dereceli puanlama anahtarından yararlanılır. Öğrencilerin diğer arkadaşları tarafından oluşturulan farklı ürünleri değerlendirme sürecinde ise akran değerlendirme formlarına başvurulabilir.",
+    "SB.5.5.2 Bütçe örnekleri üzerinden öğrenciler bütçeyi oluşturan unsurları belirler ve listeler ( OB1 ). Bu süreçte ayrıca dijital kaynaklardan da yararlanılabilir ( OB2 ). Öğrencilerin bütçede bulunan gelir ve gider kalemlerini, bunlar arasındaki dengenin, tasarrufun kişi ve aile için önemini fark etmeleri sağlanır ( OB3 ). Tasarruf değerinden bahsedilerek öğrencilerin bütçe planlamasının önemini ve bütçeye göre hareket edilmediği durumlarda yaşanabilecek sorunları belirlemeleri sağlanır ( D17.1 ). Öğrencilerden yaptıkları incelemelerden hareketle kendi bütçelerini oluşturabilecekleri gelir kaynaklarını belirlemeleri istenir. Bu kaynaklar günlük harçlıklar, bayram harçlıkları, kumbaralarında bulunan paralar olabilir.",
+    "Belirledikleri kaynaklardan elde ettikleri geliri kullanarak öncelikli olarak ihtiyaçları doğrultusunda israftan uzak durarak kendilerine ait bir bütçe planlamaları istenir ( D17.2 , SDB1.2 , E3.11 , E3.3 ). Performans görevi kapsamında hazırlanan bu bütçe planları bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Yapılan bütçe planları bir hafta uygulandıktan sonra öğrencilerden bütçe planı öncesi ve sonrası harcamalarında oluşan değişiklikleri bir rapor veya tablo şeklinde hazırlamaları istenir. Öğrencilerin bütçe planlamanın ve kaynaklarını bütçeye göre kullanmanın önemine yönelik bilinç kazanmaları sağlanır ( D17.1 ). Öğrenci ürünleri öz değerlendirme formları kullanılarak değerlendirilebilir ( SDB1.2 ).",
+    "SB.5.5.3 Öğrencilerden günlük hayatlarında karşılaştıkları ekonomik faaliyetlerle ilgili örnekler vermeleri, yazılı ve görsel kaynaklar üzerinden ekonomik faaliyet sektörlerini incelemeleri istenir ( OB1 , OB4 ). Öğrenciler ekonomik faaliyetleri incelerken dijital kaynaklardan da yararlanabilir ( OB2 ). Öğrencilerin valilik, kaymakamlık, il tarım ve orman müdürlükleri gibi resmî kurumlara ait genel ağ adreslerini kullanarak yaşadıkları ildeki ekonomik faaliyetleri belirlemeleri sağlanır ( OB2 ).",
+    "Edinilen bilgilerden yararlanarak öğrencilerden yaşadıkları ildeki ekonomik faaliyetleri sınıflama tablosu veya kavram ağı kullanarak sınıflandırmaları istenir ( E3.11 , E3.3 , OB1 ).",
+    "Yapılan sınıflama veya tablolardan hareketle öğrencilerin yaşadıkları ildeki ekonomik faaliyetleri sözlü veya yazılı olarak sunmaları sağlanır. Ekonomik faaliyetlerin sürdürülebilir bir şekilde yürütülmesinin yaşadıkları il ve ülkemiz ekonomisi açısından önemini açıklamaları istenir ( OB8 ). Yapılan sözlü açıklamalar sırasında öğrencilerin birbirlerini etkin şekilde dinlemeleri, duygu ve düşüncelerini açıklamaları sağlanır ( SDB2.1 ). Öğrencilere ülkemiz için önemli olan ekonomik faaliyetleri tanıma ve bu faaliyetleri koruma bilinci vatanseverlik değeri kapsamında kazandırılır ( D19.3 ). Sözlü veya yazılı sunumlar kontrol listesi veya derecelendirme ölçekleri ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D17.1",
+      "D17.2",
+      "D17.3",
+      "D19.3"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.11",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/402"
+}

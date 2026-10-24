@@ -1,0 +1,75 @@
+{
+  "unitId": 1149,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "4. TEMA: GİTARDA TEMEL DAVRANIŞLAR",
+  "hours": "16",
+  "description": "Temada öğrencilerin gitarı doğru duruş pozisyonunda tutabilmeleri sağ ve sol ellerini konumlandırmaları ve gitardan üretilen sesleri keşfetmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.1.4.1",
+      "title": ". Gitarda ellerini doğru konumlandırabilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.1.4.2",
+      "title": ". Gitarda sağ ve sol el parmakları için kullanılan harfleri ve numaraları belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.1.4.3",
+      "title": "Gitarın akordunu yapabilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.1.4.4",
+      "title": ". Gitarın sap kısmından gövdeye doğru gidildikçe seslerin inceldiğini fark edebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "ayaklık, el, çapraz, ince, kalın, klavye ,sol diz, sandalye, sap, sağ, sol, tel, tabure",
+  "support": [
+    "Öğretim sürecinde kalın ve ince telleri öğrencilerin önüne koyarak bu telleri kalından inceye doğru sıralamaları istenir. En çok kullandığı parmakları istediği renge boyaması ve bir isim vermesi gibi etkinliklerle süreç desteklenir."
+  ],
+  "enrichment": [
+    "Öğrencilere farklı boyutlarda ve kalınlıkta renkli lastikler verilip bunları parmakları arasında gerdirip diğer elinin işaret parmağıyla çekip bırakarak ses çıkarması istenir. Çıkan seslerin hangilerinin kalın, hangilerinin orta, hangilerinin ince olduğunu paylaşmaları istenir. Kalın sesli lastikleri bir araya, orta ses çıkaran lastikleri başka bir yere ve ince ses çıkaran lastikleri diğer bir tarafa toplama görevi verilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi, dereceli puanlama anahtarı, doğru-yanlış ve eşleştirme soruları ile ölçülebilir. Performans görevi olarak öğrencilerin doğru oturuş-duruş-tutuş pozisyonunu alarak gitar üzerinde boş tel seslerini belirli bir düzenle çalmaları ve süreçte gözlemlerini arkadaşlarıyla paylaşmaları istenebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir. Gitar tellerinin incelenmesi ve seslerin sıralanması ile ilgili eşleştirme ve doğru yanlış soruları öğrenme sürecinde kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.1.4.1",
+    "Öğrencilere sağ eli gitarın kasasına nasıl yerleştirmeleri gerektiği görsel materyaller ve videolar aracılığıyla gösterilerek gözlem yapmaları istenir ( KB2.2 ). Öğrenciler görselleri incelerler ( OB4 ). Öğrenciler görsel materyalleri ölçüt olarak belirler ( KB2.2 ). Sağ elin avuç içiyle pinpon topu, limon veya mandalina boyutundaki bir nesne ile ilişkilendirilerek sağ elin doğru yerleşimini yapmaları sağlanır. Öğrencilerden sağ elin bu şekilde konumlandırılmasının bilek açısından gitar çalarken daha rahat edileceği yargısında bulunmaları beklenir. Ders içerisinde gitarın klavyesine sol elin duruşunu yapıp öğrencilere sol elin her bir parmağını nasıl yerleştirmeleri gerektiği gösterilebilir. Sağ elin üstten görünümünün \"C\" harfi gibi olması gerektiğiyle ilgili veri toplanır ( KB2.2 ). Rahat bir şekilde oturmaları ve ellerini gitarın üzerine koyduklarında herhangi bir zorlanma, kasılma olmaması gerektiği belirtilir ( SDB2.1 ). Öğretmen öğrencilerinden edindikleri gözlem ve bilgiler hakkında konuşmalarını isteyebilir. Öğrenciler konuşulanlardan yola çıkarak bu bilgileri sınıflandırırlar ( KB2.2 ). Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir.",
+    "GTR.1.4.2",
+    "Öğrencilerin p, i, m, a harfleriyle başlayan yemek veya şehir isimlerini düşünmeleri istenir. Verilen cevaplara göre öğrencilere ufak hediyeler verilebilir. Öğrencilerin minik hediyeleri merak etmeleri sağlanır ( E1.1 ). Verilen cevaplar yapışkanlı renkli not kağıtlarına yazılarak gitarın tellerine tutturulur. Hangi telin üzerine, sağ elinin hangi parmaklarını koyacaklarını belirlemeleri istenebilir. Öğrencilerin ders içerisinde sol ellerinin parmaklarına renkli kalemlerle 1'den 5'e kadar rakamlar yazılır. Gitarın en alt telinin 5. aralığına kadar yine aynı rakamlar yazılır. Mevcut bilgiler dâhilinde sol elin nereye konulması gerektiği belirtilir. Öğrencilere eşleştirme soruları sorulabilir.",
+    "GTR.1.4.3",
+    "Derste, akordu yapılmamış bir gitar çalınıp çıkan uyumsuz seslerin verdiği rahatsızlığı öğrencilerin deneyimlemeleri ve nedenini merak etmeleri sağlanır ( E1.1 ). Böylece akort yapmanın önemi belirtilir. Öğrenciler akort yapma ile ilgili bilgileri öğretmenlerini izleyerek toplarlar ( OB1 ). Gitar tellerinin burgulara bağlandığı, akortlama işleminin ise bu burguları çevirerek yapıldığı bilgisi verilerek akort yapabileceklerine dair cesaretlendirme yapılır ( E1.5 ). Akort cihazları, piyano, diyapazon kullanarak akort yapma işlemi gösterilerek gözlem yapmaları sağlanır. İlk etapta bir miktar zorlanılacağı ama gayret edilerek başarılacağını fark etmeleri beklenir ( D3.1 ). İstikrarlı olmalarının önemi anlatılır ( D12.3 ). Öğrenciler bu işlemde öğretmenlerini ölçüt olarak belirleyebilirler. Öğretmen gitarın akordunu yaparken öğrenciler nasıl yaptığına dair veri toplayabilir. Aşağıda belirtilen konuyla ilgili performans görevi verilebilir. En alt \"mi\" telinin akordunu defalarca yapıp bozması istenip bu konuda uzmanlaşmaları amaçlanır ( E3.1 ). Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir.",
+    "GTR.1.4.4",
+    "Gitarın gövdesindeki tellerin yukarıdan aşağıya giderek inceldiği bilgisi verilir. Mevcut bilgiyi kullanarak öğrencilerin gitar tellerinin yukarıdan aşağıya doğru kalın sesten ince sese göre sıralandığı tahmininde bulunmaları sağlanır ( E3.6 ). Öğrencilerin gitar tellerinin yukarıdan aşağıya kalından inceye doğru sıralandığı bilgisine ulaşmaları sağlanır. Her bir teli, gitarın baş kısmından gövdeye sırayla tek tek basarak çalmaları istenir. Sonucunda duyulan seslerin kalın notadan ince notaya doğru olduğunun belirlenmesi sağlanabilir. Öğrenciler tüm verileri zihinlerinde etiketlerler ( KB2.5 ). Öğrencilerin gitar telleri, el ve parmak pozisyonlarıyla ilgili bilgilerini ölçmek için çalışma kağıtları hazırlanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E3.1",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1149"
+}

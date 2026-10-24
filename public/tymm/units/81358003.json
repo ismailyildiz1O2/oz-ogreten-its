@@ -1,0 +1,76 @@
+{
+  "unitId": 81358003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+  "title": "3. ÜNİTE: KUR'AN-I KERİM'E GÖRE ERDEMLİ İNSAN",
+  "hours": "17",
+  "description": "Bu ünitede sırasıyla “İman ve Salih Amelin Önemi”, “Düşünmek ve Akletmek”, “Kâinattaki İşaretleri Okumak”, “Doğru Bilginin Peşine Düşmek”, “Çalışmak ve Üretmek”, “Şükretmek”, “Takva Bilinciyle Hareket Etmek” ve “Ayetlerden Mesajlar: Sad Suresi, 71-85. Ayetler” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "KKAD.1.3.1",
+      "title": "İman ve salih amelin önemini kavrar",
+      "processComponents": [
+        "Beyyine suresinin 7-8. ayetleri, Asr suresinin 1-3. ayetleri, Ankebut suresinin 9. ayeti ve konu ile ilgili diğer ayetlerden hareketle iman ve salih amelin ideal insan olma vasfını kazandırmasına vurgu yapılır. İman ve salih amel arasındaki ilişkiye değinilerek bunların insanın yücelmesindeki öneminden söz edilir."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.2",
+      "title": "Kur'an-ı Kerim'e göre düşünme ve akletmenin önemini açıklar",
+      "processComponents": [
+        "Zümer suresinin 18. ayeti, Nahl suresinin 12. ayeti, Sad suresinin 29. ayeti ve konu ile ilgili diğer ayetlerden hareketle Kur'an-ı Kerim'in düşünmeye ve akletmeye verdiği önem açıklanır. Tefekkür ile ilgili ayetlerden örnekler verilir."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.3",
+      "title": "Kâinattaki işaretleri Allah'ın (cc) varlığı ve birliği bağlamında irdeler",
+      "processComponents": [
+        "Kâinattaki işleyiş ve düzeni fark etmenin önemi açıklanır. Bu sarsılmaz düzenin üzerinde tefekkür etmenin imanı güçlendirdiği Bakara suresinin 164. ayeti, Al-i İmran suresinin 191. ayeti, Rum suresinin 21, 24. ayetleri, Casiye suresinin 4. ayeti ve Zariyat suresinin 20-21, 47-49. ayetlerinden hareketle açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.4",
+      "title": "Doğru bilgiye ulaşmanın önemi ile ilgili ayetleri kavrar",
+      "processComponents": [
+        "İnsanın doğru bilgiye ulaşmasının önemi İsra suresinin 36. ayeti, Al-i İmran suresinin 66. ayeti Hucurat suresinin 6. ayeti ve Yunus suresinin 36. ayeti vb. konu ile ilgili ayetlerden hareketle açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.5",
+      "title": "Kur'an-ı Kerim'in çalışmaya ve üretmeye verdiği önemi örneklerle açıklar",
+      "processComponents": [
+        "İnsanın kazancının üretmeye ve çalışmaya bağlı olduğu anlatılır. Necm suresinin 39-41. ayetleri, Leyl suresinin 4. ayeti, İnşirah suresinin 7-8. ayetleri Nisa suresinin 32. ayeti vb. konu ile ilgili ayetler açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.6",
+      "title": "Ayetlerden hareketle hamt ve şükrün anlamını kavrar",
+      "processComponents": [
+        "İbrahim suresinin 7. ayeti, Nahl suresinin 114. ayeti, Müminun suresinin 78. ayeti, Zümer suresinin 66. ayeti, Casiye suresinin 12. ayeti vb. konu ile ilgili diğer ayetler bağlamında hamt ve şükür kavramlarının anlamlarını, insanların hamdetme ve şükretme sebepleri açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.7",
+      "title": "İnsanın Allah (cc) ile olan ilişkisini takva bağlamında yorumlar",
+      "processComponents": [
+        "Al-i İmran suresinin 102. ayeti, İbrahim suresinin 7. ayeti, Enfal suresinin 29. ayeti, Şuara suresinin 184. ayeti, Hucurat suresinin 13. ayeti bağlamında takvanın; Allah'a (cc), bilgi ve bilince dayalı bir bağlılık olduğuna değinilir.",
+        "İnsanın Allah (cc) ile olan ilişkisinin sağlam bir zemine oturması için takvanın önemi ve gerekliliği anlatılır."
+      ]
+    },
+    {
+      "code": "KKAD.1.3.8",
+      "title": "Ayetlerden hareketle Hz. Âdem'in yaratılışı ile ilgili çıkarımlarda bulunur",
+      "processComponents": [
+        "Sad suresinin 71-85. ayetlerinde anlatılan Hz. Âdem'in yaratılışı tefsir ve meallerden faydalanılarak anlatılır. Bu kıssadan çıkarılan mesajlar açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124957523-Kuran%C4%B1kerim.pdf"
+}

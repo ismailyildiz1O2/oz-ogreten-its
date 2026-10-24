@@ -1,0 +1,75 @@
+{
+  "unitId": 102,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Hayat Bilgisi Dersi",
+  "title": "2. ÖĞRENME ALANI: SAĞLIĞIM VE GÜVENLİĞİM",
+  "hours": "24",
+  "description": "Bu öğrenme alanının içeriğini; sağlıklı büyüme ve gelişme, kişisel alan, yaya ve yolcuların uyması gereken trafik kuralları ve acil durumlar oluşturmaktadır. Bu doğrultuda öğrencilerin sağlıklı yaşamaya dair temel yetkinliklerini ve güvenli bir ortamda yaşam becerilerini geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "HB.1.2.1",
+      "title": "Sağlıklı büyüme ve gelişme için yapması gerekenleri belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.2.2",
+      "title": "Kişisel alanının sınırlarını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.2.3",
+      "title": "Temel trafik kurallarına uygun davranabilme",
+      "processComponents": []
+    },
+    {
+      "code": "HB.1.2.4",
+      "title": "Acil durumlarda yapılması gerekenleri belirleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "sağlıklı büyüme ve gelişme, kişisel alan, acil durum, trafik kuralları, güvenlik",
+  "support": [
+    "Öğrencilerden sağlıklı büyüme ve gelişme ile ilgili öğrendiklerini ifade etmeleri istenebilir. Kişisel alanlarının sınırlarının belirlenmesine ilişkin sözlü olarak cümle tamamlama çalışması yapmaları istenebilir. Temel trafik kurallarına ilişkin canlandırma yapmaları istenebilir. Acil durumda yapılması gerekenleri görsel bilgi kartlarını kullanarak ifade etmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, aile büyüğü veya öğretmeni eşliğinde kendisine en yakın Toplum Sağlığı Merkezi/Sağlıklı Hayat Merkezi ziyareti gerçekleştirerek sağlıklı büyüme ve gelişme ile ilgili uzmanlarla görüşme yapmaları istenebilir. Öğrencilerden kişisel alanlarının sınırlarını belirlemelerine ilişkin konu ile ilgili düşüncelerini içeren bir monolog hazırlamaları beklenebilir. Öğrencilere temel trafik kuralları ve acil durumlarda yapılması gerekenlere ilişkin bilgi kartları hazırlatılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listeleri ve öz değerlendirme formları kullanılarak değerlendirilebilir. Öğrencilerin oluşturduğu görsel kavram haritası, slogan gibi ürünler bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "HB.1.2.1 Öğrencilerden sağlıklı büyüme ve gelişme için yapması gerekenleri belirleyebilmeleri ( KB1 ) beklenir. Bunun için sağlıklı beslenme, spor, yeterli ve düzenli uyku alışkanlığı, kişisel bakım ve temizlik, ağız ve diş sağlığına dikkat etme gibi ( D13.4 , D18.1 ) yapması gerekenleri verilen örnekler üzerinden incelemeleri istenir. Öğrencilere sağlıklı büyüme ve gelişmenin önemi ile ilgili belgesel, görsel ve etkileşimli eğitici içerikler ( OB4.1 ) sunulur. Beyin fırtınası, kum saati gibi tekniklerden yararlanılarak öğrencilere sağlıklı büyüme ve gelişme ile ilgili sorular sorulur. Sağlıklı büyüme ve gelişme için yapması gerekenleri ifade etmeleri istenir. Öğrencilerin küçük grup tartışmaları yapmaları ya da konuyla ilgili soru sormaları sağlanır ( E1.1 , E3.8 ). Görsel kavram haritası hazırlamaları ya da slogan üretmeleri istenir. Ürünlerin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "HB.1.2.2 Öğrencilerden kişisel alanının sınırlarını belirleyebilmeleri ( KB1 ) beklenir. Öğretmen tarafından öğrencilerin kişisel alanlarını fark etmelerine yönelik açıklama yapılır. Konu ile ilgili her bireyin kişisel bir alanı olduğu vurgulanır. Bireyler arası fiziksel mesafe sınırlarının belirlenmesi, duyguların ve fikirlerin ne kadarının başkalarıyla paylaşılabileceği gibi hususlar üzerinde durulur. Öğrencilerin kişisel alanını belirlemeye yönelik farkındalıklarını artırmak amacıyla ( D8.1 ) rol oynama, hulahop oyunu gibi etkinliklerden yararlanılır. Öğrencilerden kişisel alanlarıyla ilgili düşüncelerini paylaşmaları beklenir. Kendilerini güvende ( E2.4 ) hissettikleri kişisel alan sınırlarını belirlemeleri istenir. Kişinin kendini güvende hissetmesi ve insan ilişkilerinde karşılıklı saygı gösterilmesi için kişisel alanı belirlemenin önemli olduğu ifade edilir ( D14.2 ) . Öğrencilere konu ile ilgili çeşitli örnek olaylar sunularak öğrencilerin kişisel alanlarıyla ilgili sorular sormaları ( E3.8 ) sağlanır. Konu ile ilgili öğrencilere görseller, eğitici dijital içerikler gibi materyaller sunularak kişisel alanın sınırlarına vurgu yapılır. Öğrencilerin kişisel alanının sınırlarını ifade etmeleri beklenir. Süreç, kontrol listesi şeklinde hazırlanmış gözlem formu ile değerlendirilebilir.",
+    "HB.1.2.3 Öğrencilerden temel trafik kurallarına uygun davranabilmeleri ( KB1 ) beklenir. Bunun için öncelikle uymaları gereken trafik kurallarını ifade etmeleri istenir. Öğrencilerin yaya ve yolcu olma durumlarında yaşadığı deneyimleri paylaşmaları beklenir. Öğrencilere konu ile ilgili görsel bilgi kartları, görsel kavram haritaları gibi ( OB4.4 ) bilgilendirici materyaller sunulur. Öğrencilerden toplumsal düzenin sağlanması ve kendi güvenliği için temel trafik kurallarına uygun davranışlar sergilemeleri beklenir ( D11.3 ) . Öğrencilerden karşıdan karşıya geçerken sağına ve soluna bakma, gerektiğinde alt ve üst geçitleri kullanma, trafik ışıklarına dikkat etme, emniyet kemeri kullanma, sürücünün dikkatini dağıtmama, özel araçlarda arka koltukta oturma gibi kurallar hakkında örnekler vermeleri istenir ( D16.1 ) . Bunun için rol oynama, canlandırma, doğru-yanlış, eşleştirme kartları gibi teknikler kullanılarak veya dur-geç, anlamını bul gibi oyunlar oynatılarak konu ile ilgili çeşitli etkinlikler yaptırılır ( SDB2.2 , SDB2.2.SB4) . Süreç, kontrol listesi şeklinde hazırlanmış gözlem formu ile değerlendirilebilir.",
+    "HB.1.2.4 Öğrencilerden acil durumlarda yapılması gerekenleri belirleyebilmeleri ( KB1 ) beklenir. Yaşanması muhtemel acil durumlar karşısında öğrencilerden yapılması gerekenlere ilişkin fikirleri alınır. Öğrencilere evde, okulda, parkta ve sokakta karşılaşıbileceği çarpma, düşme, kaybolma, gaz kaçağı, zehirlenme ve trafik kazası gibi acil durumlarla ilgili içerikler sunulur ( OB4.1 ). Fikir taraması, beyin fırtınası gibi tekniklerle acil durumlarda doğru davranmanın önemi vurgulanır ( SDB2.1 , SDB2.1.SB2) . Öğrencilere ani gelişen sağlık ve güvenlik durumlarında öncelikle sakin olmaları gerektiği vurgulanır. Öğrencilerin evdeyse aile büyüklerine, okulda ise öğretmenlerine acil durumla ilgili haber vermeleri beklenir. Gerekli durumlarda 1-1-2 Acil Çağrı Merkezinin aranması gerektiği üzerinde durulur. Öğrencilere acil durumlarda yapılması gerekenleri içeren animasyon ve çizgi film gibi eğitici içerikler sunulur. Öğrencilerden acil durumlarda ihtiyaç duyabilecekleri adres ve telefon bilgilerini öğrenmeleri istenir. Buna yönelik acil durum bilgi kartı hazırlama etkinliği yaptırılır. Drama, rol oynama gibi tekniklerle acil durumlarda yapılması gereken uygun davranışları göstermeleri istenir ( E1.5 ) . Öğrencilerden davranışlarını öz değerlendirme formu ile değerlendirmeleri istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.3",
+      "D13.4",
+      "D14.2",
+      "D16.1",
+      "D18.1",
+      "D8.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.4",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB1"
+    ],
+    "okuryazarlik": [
+      "OB4.1",
+      "OB4.4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/102"
+}

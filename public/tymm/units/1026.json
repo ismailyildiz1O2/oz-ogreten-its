@@ -1,0 +1,57 @@
+{
+  "unitId": 1026,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "1. TEMA: KOROYU TANIYALIM",
+  "hours": "6",
+  "description": "Temada öğrencilerin kuruluş amacına ve sayısal oluşumlarına göre koro türlerini açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.4.1.1",
+      "title": ". Kuruluş amacına göre koroları açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KOREP.4.1.2",
+      "title": ". Sayısal oluşumlarına göre koroları açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "amatör korolar, büyük korolar, oda koroları, orta büyüklükte korolar, profesyonel korolar",
+  "support": [
+    "Öğrencilerin kuruluş amacına göre koro türlerini kavramalarına yönelik daha fazla görüntülü materyal kullanılarak ve hazır bilgi kartları verilerek süreç desteklenebilir.Öğrencilerin sayısal oluşumlarına göre koro türlerini kavramalarına yönelik daha fazla görüntülü materyal kullanılarak ve hazır bilgi kartları verilerek süreç desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin yaşadıkları il veya ilçede faaliyet gösteren amatör ya da profesyonel koroların şefleri veya üyeleriyle röportaj yaparak notlarını sınıfta arkadaşlarına sunmaları istenebilir. Ayrıca dünyadaki ve ülkemizdeki ünlü amatör ya da profesyonel korolarla ilgili araştırma yapmaları ve bu araştırmalarını sınıf ortamında sunmaları istenebilir. Öğrencilerin sayısal oluşumlarına göre korolarla ilgili araştırma yapmaları ve araştırmalarını sınıf ortamında sunmaları istenebilir. Ayrıca bu koro türlerine ait sesli/görüntülü kayıtları sınıfta arkadaşlarıyla paylaşmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi ve öz değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilere kuruluş amacına göre koro türlerini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilere verilen performans görevi analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.4.1.1 Öğrencilere sorular sorularak amatör ve profesyonel kelimelerinin tanımını bulmaları beklenir ( D3.3 , E3.6 , SDB1.1 , SDB2.1 , OB1 ). \"Amatör korolar\" ve \"profesyonel korolar\" ile ilgili görsel, işitsel ve görüntülü materyaller paylaşılarak öğrencilerin konuyu merak etmeleri sağlanır ( OB4 , E1.1 , TAB1 ). Öğrencilere \"Amatör koro nedir? Profesyonel koro nedir?\" gibi sorular sorularak kuruluş amacına göre korolarla ilgili düşüncelerini ifade etmeleri beklenir. Öğrencilere kuruluş amacına göre koro türlerini açıklayabilmelerine yönelik performans görevi verilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir.",
+    "KOREP.4.1.2 Sayısal oluşumlarına göre oda koroları, orta büyüklükte korolar, büyük korolar gibi koro türleri ile ilgili çeşitli görsel, işitsel ve görüntülü materyaller paylaşılarak öğrencilerin konuyu merak etmeleri sağlanır ( OB4 , E1.1 , TAB1 ). Öğrencilere sorular sorularak sayısal oluşumlarına göre koro türleri ile ilgili düşüncelerini ifade etmeleri beklenir ( D3.4 , SDB2.1 ). Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1"
+    ],
+    "diger": [
+      "TAB1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1026"
+}

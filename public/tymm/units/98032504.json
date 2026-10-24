@@ -1,0 +1,125 @@
+{
+  "unitId": 98032504,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "4. ÜNİTE: MADDE VE ENDÜSTRİ",
+  "hours": "28",
+  "description": "Bu ünitede öğrencilerin; elementleri metal, ametal ve soygaz olarak sınıflandırıldığını bilmeleri, maddede meydana gelen değişimleri, fiziksel ve kimyasal değişim olarak sınıflandırmaları; asit-baz kavramları ve asit yağmurlarına ilişkin bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "F.8.4.1.1",
+      "title": "Periyodik sistemde, grup ve periyotların nasıl oluşturulduğunu açıklar",
+      "processComponents": [
+        "Periyodik sisteme duyulan ihtiyaç ve periyodik sistemin oluşturulma süreci ayrıntıya girilmeden vurgulanır."
+      ]
+    },
+    {
+      "code": "F.8.4.1.2",
+      "title": "Elementleri periyodik tablo üzerinde metal, yarımetal ve ametal olarak sınıflandırır",
+      "processComponents": [
+        "Elementlerin özelliklerine girilmez.",
+        "Soygazların üzerinde durulur."
+      ]
+    },
+    {
+      "code": "F.8.4.2.1",
+      "title": "Fiziksel ve kimyasal değişim arasındaki farkları, çeşitli olayları gözlemleyerek açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.3.1",
+      "title": "Bileşiklerin kimyasal tepkime sonucunda oluştuğunu bilir",
+      "processComponents": [
+        "Kimyasal tepkime denklemlerine formüller kullanılarak girilmez."
+      ]
+    },
+    {
+      "code": "F.8.4.4.1",
+      "title": "Asit ve bazların genel özelliklerini ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.4.2",
+      "title": "Asit ve bazlara günlük yaşamdan örnekler verir",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.4.3",
+      "title": "Günlük hayatta ulaşılabilecek malzemeleri asit-baz ayracı olarak kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.4.4",
+      "title": "Maddelerin asitlik ve bazlık durumlarına ilişkin pH değerlerini kullanarak çıkarımda bulunur",
+      "processComponents": [
+        "Konu ile ilgili deney yolu ile çıkarımlarda bulunmaları sağlanır."
+      ]
+    },
+    {
+      "code": "F.8.4.4.5",
+      "title": "Asit ve bazların çeşitli maddeler üzerindeki etkilerini gözlemler",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.4.6",
+      "title": "Asit ve bazların temizlik malzemesi olarak kullanılması esnasında oluşabilecek tehlikelerle ilgili gerekli tedbirleri alır",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.4.7",
+      "title": "Asit yağmurlarının önlenmesine yönelik çözüm önerileri sunar",
+      "processComponents": [
+        "Asit yağmurlarının oluşum sebepleri ve sonuçlarına değinilir."
+      ]
+    },
+    {
+      "code": "F.8.4.5.1",
+      "title": "Isınmanın maddenin cinsine, kütlesine ve/veya sıcaklık değişimine bağlı olduğunu deney yaparak keşfeder",
+      "processComponents": [
+        "Q=m.c. Δt bağıntısına girilmez.",
+        "Bağımlı, bağımsız ve kontrol edilen değişkenler örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "F.8.4.5.2",
+      "title": "Hâl değiştirmek için gerekli ısının maddenin cinsi ve kütlesiyle ilişkili olduğunu deney yaparak keşfeder",
+      "processComponents": [
+        "Saf maddelerin hâl değişimi sırasında sıcaklığının sabit kaldığına değinilir.",
+        "Matematiksel hesaplamalara girilmez."
+      ]
+    },
+    {
+      "code": "F.8.4.5.3",
+      "title": "Maddelerin hâl değişimi ve ısınma grafiğini çizerek yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.5.4",
+      "title": "Günlük yaşamda meydana gelen hâl değişimleri ile ısı alışverişini ilişkilendirir",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.4.6.1",
+      "title": "Geçmişten günümüze Türkiye’deki kimya endüstrisinin gelişimini araştırır",
+      "processComponents": [
+        "Ülkemizdeki kimya endüstrisinin gelişimine katkı sağlayan resmi / özel kurum ve sivil toplum kuruluşlarının yaptığı çalışmalara değinilir.",
+        "İthal ve ihraç edilen kimyasal ürünlerden birkaç önemli örnek verilerek Türkiye kimya endüstrisinin işleyişine değinilir."
+      ]
+    },
+    {
+      "code": "F.8.4.6.2",
+      "title": "Kimya endüstrisinde meslek dallarını araştırır ve gelecekteki yeni meslek alanları hakkında öneriler sunar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Madde ve Doğası",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

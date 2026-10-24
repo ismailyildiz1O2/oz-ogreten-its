@@ -1,0 +1,81 @@
+{
+  "unitId": 81663011,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "11. ÜNİTE: MOBİL UYGULAMA GELİŞTİRME - 3. ÜNİTE: PROGRAM BİLEŞENLERİ İLE ÇALIŞMA",
+  "hours": "36",
+  "description": "Bu ünitede; temel bileşenlerin, yatay ve dikey yerleşim düzeni bileşenlerinin ve navigatör bileşeninin özellikleri üzerinde durulur. Sırasıyla temel bileşenlerin kullanımı ile ilgili basit mobil uygulama geliştirme, yatay ve dikey yerleşim düzeni bileşenlerinin kullanımı ile ilgili basit mobil uygulama geliştirme, temel bileşenler ile yatay ve dikey yerleşim düzeni bileşenlerinin birlikte kullanımı ile ilgili mobil uygulama geliştirme gösterilir. Temel bileşenlerle hazırlanmış bir sayfadan başka bir sayfaya geçiş yapma anlatılır. Bileşenlerin hepsini kullanmayı gerektiren karmaşık mobil uygulama geliştirme gösterilir.",
+  "outcomes": [
+    {
+      "code": "BTY.11.1",
+      "title": "Mobil uygulamalarda kullanılan temel bileşenleri tanır",
+      "processComponents": [
+        "Mobil uygulamada kullanılan Text, AppBar, Icon SizedBox, Image, Container gibi temel bileşenlerin en çok kullanılan özellikleri anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.11.2",
+      "title": "Temel bileşenleri kullanarak basit mobil uygulamalar geliştirir",
+      "processComponents": [
+        "Text, AppBar, Icon SizedBox, Image, Container gibi temel bileşenlerin özelliklerini kullanarak basit mobil uygulama hazırlama gösterilir.",
+        "Text, AppBar, Icon SizedBox, Image, Container gibi temel bileşenlerin özelliklerini kullanarak basit mobil uygulama hazırlatılır."
+      ]
+    },
+    {
+      "code": "BTY.11.3",
+      "title": "Yatay ve dikey yerleşim düzeni bileşenlerini ve özelliklerini tanır",
+      "processComponents": [
+        "Satır (row) ve sütun (column) yerleşim düzeni bileşenlerinin özellikleri anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.11.4",
+      "title": "Yerleşim düzeni bileşenlerini kullanarak basit mobil uygulamalar geliştirir",
+      "processComponents": [
+        "Satır (row) ve sütun (column) yerleşim düzeni bileşenlerini kullanarak mobil uygulama hazırlama gösterilir.",
+        "Satır (row) ve sütun (column) yerleşim düzeni bileşenlerini kullanarak mobil uygulama yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.11.5",
+      "title": "Yerleşim düzeni bileşenleri arasındaki farkları ve kullanım yerlerini kavrar",
+      "processComponents": [
+        "Yatay ve dikey yerleşim düzenleri arasındaki farklar anlatılır.",
+        "Yatay ve dikey yerleşim düzenlerinin kullanıldığı yerler örneklerle gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.11.6",
+      "title": "Temel bileşenleri ve yerleşim düzeni bileşenlerini bir arada kullanır",
+      "processComponents": [
+        "Text, image, container, icon temel bileşenleri ile row, column yerleşim düzeni bileşenlerinin bir arada kullanıldığı mobil uygulamaların hazırlanışı gösterilir.",
+        "Text, image, container, icon temel bileşenleri ile row, column yerleşim düzeni bileşenlerinin bir arada kullanıldığı mobil uygulamalar yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.11.7",
+      "title": "Temel bileşenler ile hazırlanmış birden çok sahneyle çalışır",
+      "processComponents": [
+        "Butonlar, onay kutusu, textfield ve navigatör gibi temel bileşenler anlatılır.",
+        "Temel bileşenlerle hazırlanmış bir sayfadan başka bir sayfaya geçiş yapma gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.11.8",
+      "title": "Çeşitli mobil uygulamalar geliştirir",
+      "processComponents": [
+        "Temel bileşenler, yerleşim düzeni bileşenleri ile navigatör bileşenini birlikte kullanarak karmaşık mobil uygulama hazırlama gösterilir.",
+        "Temel bileşenler, yerleşim düzeni bileşenleri ile navigatör bileşenini birlikte kullanarak karmaşık mobil uygulama hazırlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

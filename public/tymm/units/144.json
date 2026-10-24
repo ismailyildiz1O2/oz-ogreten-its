@@ -1,0 +1,75 @@
+{
+  "unitId": 144,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "1. ÜNİTE: İSLAM’DA VARLIK VE BİLGİ",
+  "hours": "14",
+  "description": "Bu ünitenin odak noktasını İslam’da varlık ve bilgi konusu oluşturmaktadır. Öğrencilerin İslam’da bilginin yerini ve kaynaklarını çözümleyebilmesi, Allah-âlem ilişkisini tefekkür ederek sorgulayabilmesi amaçlanır. Kur’an’dan mesajlar bölümünde İsra suresi 36 ve Mülk suresinin 23. ayetleri ele alınır. Öğrencilerin bu ayetlerde verilen mesajları özetleyebilmesi beklenir.",
+  "outcomes": [
+    {
+      "code": "DKAB.10.1.1",
+      "title": "İslam'da bilginin yerini ve kaynaklarını çözümleyebilme",
+      "processComponents": [
+        "a) İslam düşüncesinde bilginin yerini ve kaynaklarını inceler.",
+        "b) İslam düşüncesinde bilginin yeri ve kaynakları arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "DKAB.10.1.2",
+      "title": "Allah-âlem ilişkisini tefekkür ederek sorgulayabilme",
+      "processComponents": [
+        "a) Allah-âlem ilişkisiyle ilgili merak ettiklerini tanımlar.",
+        "b) Allah-âlem ilişkisini anlayabilmek için sorular sorar.",
+        "c) Allah-âlem ilişkisi hakkında İslam'ın temel kaynaklarından bilgi toplar.",
+        "ç) Allah-âlem ilişkisi hakkında topladığı bilgileri değerlendirir.",
+        "d) Allah-âlem ilişkisi hakkında topladığı bilgilerden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DKAB.10.1.3",
+      "title": "İsra suresi 36 ve Mülk suresi 23. ayetlerin mesajlarını özetleyebilme",
+      "processComponents": [
+        "a) Ayetlerde verilen mesajlarla ilgili çözümleme yapar.",
+        "b) Ayetlerde geçen konuları sınıflandırır.",
+        "c) Ayetlerde verilen mesajları açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "akıl, bilgi, gayb, mütevatir, sadık haber, şehadet, varlık",
+  "support": [
+    "Görsel ve interaktif materyaller kullanılarak İslam düşüncesinde bilgi kuramı ve bilginin kaynaklarının anlaşılması kolaylaştırılır. Örneğin vahiy, akıl ve beş duyunun nasıl bilgi kaynağı olduğunu açıklayan animasyonlar veya şemalar hazırlanır. Allah-âlem ilişkisini ve Kur'an-ı Kerim'deki mesajları anlamalarını sağlamak için öğrencilere kısa, öz ve anlaşılır açıklamalar yapılır. Bu konularda örnek olay incelemeleri veya hikâye anlatımı gibi yöntemler kullanılır. Derste grup çalışmaları ve tartışmalar düzenlenerek öğrencilerin birbirlerinden öğrenmeleri teşvik edilir ve sınıf içi etkileşim artırılır."
+  ],
+  "enrichment": [
+    "Allah-âlem ilişkisini inceleyen bazı makalelerin okunması sağlanıp bu makalelerin özetlenmesi istenebilir. Özetlenen makalelerden elde edilen veriler afiş şeklinde tasarlanıp öğrenciler tarafından sınıfta sergilenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular, kavram haritası, çalışma yaprağı, dereceli puanlama anahtarı ve öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "Allah-âlem ilişkisiyle ilgili bir deneme yazma, performans görevi olarak verilebilir. Bu performans görevi \"bilgi toplama, inceleme, yorumlama, dil ve anlatım kurallarına uyma\" ölçütlerine göre dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir. Sonuç değerlendirmede performans görevleri kullanılabileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.10.1.1 Öğrencilere varlık, nesne, olay ve olgular hakkındaki bilgileri nasıl elde ettikleri sorulur. Öğrencilerin verdikleri cevaplar dikkate alınarak bilgi kaynaklarının neler olduğu incelenir ( SDB2.1 ) . Öğrenciler bu kaynaklardan yararlanarak bilgi ve bilginin kaynakları arasındaki ilişkileri öğretmen rehberliğinde belirler ( E3.4 ) . Bu süreçte zihin haritası kullanılabilir. Doğru bilgi, doğru inanç ve doğru davranış arasındaki ilişkiden yola çıkılarak doğru bilginin önemine değinilir. İslam düşüncesinde bilgi ve kaynakları, bilginin değeri ve önemi farklı disiplinler dikkate alınarak açıklanır ( OB1 ) . Bilgi kaynaklarının öznel ve nesnel gibi farklı sınıflandırmaları ele alınır. İslam'da nesnel bilgi kaynakları sadık haber, selim akıl ve salim duyular olarak belirlenir. Doğru bilgiyi elde etmeye yönlendirilerek duygu, düşünce ve davranışlarından sorumlu olduğu öğrenciye fark ettirilir ( D16.1 , SDB1.2 ) . Ölçme ve değerlendirme uygulamalarında kavram haritası kullanılabilir.",
+    "DKAB.10.1.2 Öğrenciler Allah-âlem ilişkisiyle ilgili merak ettiklerini tanımlar. Öğrenciler Allah-âlem ilişkisini anlayabilmek için sorular sorar ( E3.8 ) . Bu süreçte bilgi kutusu tekniği kullanılabilir. Zihin haritaları oluşturularak görülen (şehadet) ve görülemeyen (gayb) âlem, varlık türleri (insan, hayvan, bitki, melek, cin, şeytan) hakkında öğrencilerin görüşlerini paylaşmaları istenir. Öğrenciler, gözlem yoluyla edindiği bilgiler çerçevesinde insanın âlemdeki yerini bilir ve Allah (cc) karşısındaki konumunun farkına varır ( D10.1 ) . Öğrencilerin konuyla ilgili İslam'ın temel kaynaklarından bilgi toplamalarına imkân tanınır. Kelam ilminin Allah-âlem ilişkisine dair yaklaşımı dikkate alınarak konu aktarılır. Öğrenciler edindikleri bilgileri öğretmen rehberliğinde değerlendirerek çıkarımda bulunur ( E3.6 ) . Düşün-eşleş-paylaş tekniği bu süreçte kullanılabilir. Ölçme ve değerlendirme uygulamalarında açık uçlu sorulara yer verilebilir.",
+    "DKAB.10.1.3 İsra suresi 36 ve Mülk suresi 23. ayetleri Diyanet İşleri Başkanlığı tarafından yayımlanan matbu ve dijital meallerden bulunarak incelenir ( OB2 ) . Ayetlerin nüzul sebeplerine, ayetlerde geçen şahıslara, yerlere, konulara ve kavramlara yer verilir. Öğrenciler bu ayetlerde verilen mesajları çözümler ve sınıflandırır. Bu süreçte bilgi kartları kullanılabilir. Öğrenciler ayetlerde ele alınan konuları açıklar ( SDB2.1 ) . Ölçme ve değerlendirme uygulamalarında çalışma yaprağı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D16.1"
+    ],
+    "egilim": [
+      "E3.4",
+      "E3.6",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/144"
+}

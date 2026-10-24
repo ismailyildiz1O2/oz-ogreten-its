@@ -1,0 +1,31 @@
+{
+  "unitId": 81424136,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "136. ÜNİTE: VİTRAY - FÜZYON TEKNİĞİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.4.6.1",
+      "title": "Füzyonun teknik özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.6.2",
+      "title": "Füzyon tekniğinde kullanılan araç ve gereçleri açıklar",
+      "processComponents": [
+        "Bu teknikle yapılmış eserlerin görselleri örnek olarak gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

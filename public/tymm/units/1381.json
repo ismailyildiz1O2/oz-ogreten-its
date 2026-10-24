@@ -1,0 +1,53 @@
+{
+  "unitId": 1381,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "2. TEMA: TAKSİM ÇALIŞMALARI",
+  "hours": "48",
+  "description": "Temanın içeriğini, öğrendiği dizilerde ud ile taksim çalışmaları oluşturmaktadır. Bu doğrultuda belirlenen yapacağı taksime yönelik amaç belirleme, taksim yapacağı dizileri seçme ve taksim yapmaya ilişkin öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "UD.8.2.1",
+      "title": ". Öğrendiği makamları kullanarak ud ile taksim yapabilme",
+      "processComponents": [
+        "a) Ud ile açış ve taksim yapabilme amacını belirler.",
+        "b) Ud ile yapacağı makam dizilerini seçer.",
+        "c) Seçtiği makam dizileri ile taksim çalışmaları yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "makam, taksim, Türk müziği, ud",
+  "support": [
+    "Usta icracılar tarafından yapılan taksimler sık sık tekrarlanarak dinletilebilir. Taksime hazırlık için öğrendiği makamların dizilerini usulsüz (serbest) olarak çalmaları istenebilir. Öğrenci kendi gelişim sürecini takip edebilmesi için kendi çaldığı bölümleri kaydedip dinlemesi sağlanabilir. Uzun solfej veya bona çalışmaları yerine kısa ve tekrar eden motifler çalıştırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere kısa film gibi dijital bir içerik izletilebilir. Hissettikleri duygulara yönelik bir makam seçip seçtikleri makamda taksim yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; akran değerlendirme formu, öz değerlendirme formu ve kısa cevaplı sorulardan oluşan çalışma kâğıtları ile değerlendirilebilir. Seçeceği makamlarda taksim yapmayı konu alan performans görevi verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.8.2.1",
+    "Taksim kavramının genel özellikleri anlatılır. Usta icracılar tarafından yapılan taksimler dinletilip öğrencilerin gözlem yapması ve odaklanması sağlanır ( KB2.2 , E3.2 ). Ardından sevdiği icracının sanat hayatını dijital ortamda araştırması ve bir sunum hazırlaması istenir ( OB2 ). Ardından taksimin temel amaçlarından mızrap kontrolü, parmak pozisyonu, teknik beceri, duygusal aktarım gibi unsurları belirlemeleri istenir. Bu süreç, öz değerlendirme formu kullanılarak değerlendirilebilir. Daha sonra taksim yapmak üzere öğrendikleri makamlardan birini seçmeleri beklenir. Bu süreç, kısa cevaplı sorulardan oluşan çalışma kâğıdı kullanılarak değerlendirilebilir. Öğrencileri küçük gruplara ayırarak seçtikleri makamlarda açış ve taksim çalışmalarını birbirleriyle ( SDB2.1 ) etkileşim içinde yapmaları ve ardından sunmaları istenir ( E3.3 , D4.2 ). Bu süreç, akran değerlendirme formu ve seçeceği makamlarda taksim yapmayı konu alan performans görevi verilerek değerlendirilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1381"
+}

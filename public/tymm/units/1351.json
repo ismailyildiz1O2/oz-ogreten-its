@@ -1,0 +1,52 @@
+{
+  "unitId": 1351,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "2. TEMA: PİYANODA AKOR VE ARPEJ",
+  "hours": "22",
+  "description": "Temada öğrencilere piyano çalgısı üzerinde akor ve arpej tekniğini çalmaya yönelik beceri kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.7.2.1",
+      "title": "Akor ve arpej tekniğini eser veya etüt içinde çalabilme",
+      "processComponents": [
+        "a) Akor ve arpej tekniğinin yer aldığı eser veya etüdü çözümler.",
+        "b) Akor ve arpej tekniğini çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Akor ve arpej tekniğini çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Akor ve arpej tekniğinin müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "akor, arpej",
+  "support": [
+    "Öğrenciler için akor ve arpej geçişleri yavaşça ve her bir parmağın doğru yerleşimi vurgulanarak gösterilebilir. Her akor ve arpejin nasıl çaldığını ve nasıl geçiş yapılması gerektiği üzerine çalışmalar yapılabilir. Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Öğrenciler, hızlıca geçiş yapabilecekleri ve tonlarda farklı akor çeşitlerini tanıyacak şekilde akor dizileri çalışabilir. İleri düzey akorlar ve daha karmaşık arpej dizileri üzerinde çalışabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, öz değerlendirme formu ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilerden belirlenen bir eser veya etüt içerisinde akor ve arpej tekniklerini teknik doğrulukla müziksel ifadeye uygun biçimde uygulayarak çalması istenebilir. Performans görevi; öz değerlendirme formu, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PYN.7.2.1",
+    "Öğrencilere akor ve arpej tekniklerinin günlük müzik pratiğindeki önemini anlatmak ve bu tekniklerin farklı müzik türlerinde nasıl kullanıldığını örneklerle göstererek merak uyandırmak amaçlanır ( E1.1 ). Öğrenci akor ve arpej tekniğini eser veya etüt içinde çözümler. Çözümleme tamamlandıktan sonra öğrenciden duruş ve tutuş pozisyonu alması ve çalgıya özgü teknikleri kullanması istenir. Öğrencilerden belirli bir eserin veya etüdün içerisinde akor ve arpejleri doğru şekilde yerleştirerek bu teknikleri nasıl kullanacaklarını keşfetmeleri istenir ( SDB1.1 ). Süreç boyunca öğrencilerin öz güvenlerini artırmak için onlara adım adım rehberlik edilir ( E1.5 ). Öğrenci akor ve arpej tekniğini eser veya etüt içinde müziksel bileşenlere uygun çalar ( OB9 ). Öğrenciler kendi ilerlemelerini takip edebilmek için ses kayıtları yaparak daha sonra hangi alanlarda gelişmeleri gerektiğini görebilirler ( SDB1.2 , D3.2 ). Performans görevi olarak öğrencilerden belirlenen bir eser veya etüt içerisinde akor ve arpej tekniklerini teknik doğrulukla müziksel ifadeye uygun biçimde uygulayarak çalması istenir. Öğrenci, çalıştığı parçadaki akor ve arpej bölümlerini tanımlayarak bu tekniklerin müzik üzerindeki etkilerini sözlü veya yazılı olarak ifade eder. Ayrıca öğrenci, kendi ses kaydını dinleyerek hangi alanlarda gelişmesi gerektiğine dair kısa bir öz değerlendirme yapar. Performans görevi; öz değerlendirme formu, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1351"
+}

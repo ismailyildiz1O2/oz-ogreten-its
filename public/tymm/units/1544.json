@@ -1,0 +1,81 @@
+{
+  "unitId": 1544,
+  "grade": 0,
+  "gradeName": "I. DÜZEY BİLİM UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY III · 3. Tema: Sanatta Bilim",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.BU.1.3.1",
+      "title": "Sanat dallarında bilimin kullanımına yönelik bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Sanat dallarında bilimin kullanımına yönelik nitelikleri tanımlar.",
+        "b) Sanat dallarında bilimin kullanımına yönelik veri toplar ve topladığı verileri kaydeder.",
+        "c) Sanat dallarında bilimin kullanımına yönelik topladığı verileri açıklar."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.3.2",
+      "title": "Geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisini araştırmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine ilişkin bilgileri bulur.",
+        "c) Geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine ilişkin ulaştığı bilgileri doğrular.",
+        "ç) Geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine ilişkin ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.3.3",
+      "title": "Mimaride bilimin kullanımına ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Mimaride bilimin kullanımını araştırmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak mimaride bilimin kullanımına ilişkin bilgileri bulur.",
+        "c) Mimaride bilimin kullanımına ilişkin bulduğu bilgileri doğrular.",
+        "ç) Mimaride bilimin kullanımına ilişkin bulduğu bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.3.4",
+      "title": "Tiyatro sahnelerinde ışık kullanım tekniklerine ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Tiyatro sahnelerinde kullanılan ışık tekniklerini araştırmak için kullanacağı kaynakları belirler.",
+        "b) Belirlediği araçları kullanarak ışık tekniklerine ilişkin bilgileri bulur.",
+        "c) Tiyatro sahnelerinde kullanılan ışık tekniklerine ilişkin bulduğu bilgileri doğrular.",
+        "ç) Tiyatro sahnelerinde kullanılan ışık tekniklerine ilişkin bulduğu bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "aydınlatma, enerji verimliliği, estetik, gölge, hacim, işlevsellik, ışık, ışık teknikleri, mimari, yalıtım",
+  "support": [
+    "Bir ressamın eserini oluştururken ışık, gölge, renk vb. temel kavramları nasıl kullandığını somut örneklerle göstermeleri istenebilir.",
+    "Geleneksel ebru sanatının yapımını anlatan kısa bir video izlettirilebilir. Bu aşamada boyaların su üzerinde nasıl durduğunu gözlemlemeleri istenebilir. Kullanılan malzemelerin özelliklerinin ebru sanatındaki rolünü açıklamaları istenebilir."
+  ],
+  "enrichment": [
+    "Mimar Sinan, Leonardo da Vinci (Leonardo da Vinci) vb. sanat ve bilimi birleştiren tarihi kişilerin eserlerinin araştırılarak sunulması istenebilir.",
+    "Çini, tezhip, ebru gibi geleneksel Türk sanatlarından birini seçmeleri bu sanat dalında kullanılan malzemelerin bilimsel özelliklerini araştırmaları istenebilir. Araştırma sonuçlarından yola çıkarak bu malzemelerin ne kadar çevre dostu olduğunu belirleyip yeni bir malzeme önerisi geliştirmeleri beklenebilir.",
+    "Basit malzemeler kullanarak depreme dayanıklı bir ev modeli tasarlamaları istenebilir.",
+    "Akıllı binaların veya sürdürülebilir mimarinin bilimsel temellerini araştırmaları istenebilir.",
+    "Video kayda alınmış bir tiyatro oyunundan sahneler seçmeleri ve sahnelerdeki ışıklandırmanın yarattığı etkiyi, kullanılan ışıklandırma araçlarını analiz ederek raporlaştırmaları beklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde tanılayıcı dallanmış ağaç, eşleştirme testleri, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca tema sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine ilişkin bireysel ya da grup olarak poster, afiş, resim, video, sunu vb. performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Mimaride bilimin kullanımına ilişkin bireysel ya da grup olarak poster, afiş vb. performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Tiyatro sahnelerinde ışık kullanım tekniklerine yönelik bireysel ya da grup olarak poster, afiş, resim, video, sunu vb. performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MBU.BU.1.3.1.",
+    "Çeşitli sanat dallarından görseller sınıfa getirilerek veya dijital kaynaklarla sunularak öğrencilerin görselleri incelemeleri sağlanabilir ( OB2 , OB4 , OB9 , E3.2 ). Öğrencilere sanat dalları ve sanat dallarında bilimin kullanımı hakkında açık uçlu sorular yöneltilebilir. Öğrencilerin merak ettikleri soruları sormaları istenebilir ( E1.1 , E3.8 ). Görsellerde verilen sanat dallarında bilimin kullanımına yönelik nitelikleri tanımlamaları beklenir. Öğrencilerden sanat dallarında bilimin kullanımına yönelik bilgi toplamaları ve topladıkları bu bilgileri kaydetmeleri istenir ( OB1 ). Kaydettikleri bilgiler çerçevesinde benzer durumlara ilişkin günlük yaşantılarından örneklendirme yapmaları istenir ( E2.2 , D3.3 ). Sanat dallarında bilimin kullanımına yönelik topladıkları verileri örneklerle ilişkilendirerek açıklamaları istenir ( SDB3.3 , D3.3 ). Bu açıklamaları posterle sunmaları istenebilir. Hazırlanan posterler analitik dereceli puanlama anahtarı ile değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede tanılayıcı dallanmış ağaç, açık uçlu sorular vb. kullanılabilir.",
+    "MBU.BU.1.3.2.",
+    "Öğrencilerden geleneksel Türk sanatları ile ilgili örnekler vermeleri istenir ( OB5 , D19.3 ). Geleneksel Türk sanatlarının oluşturulmasında ışık, gölge, renk, hacim vb. bilimsel kavramlar ile ilgili açık uçlu sorular yöneltilebilir. Öğrencilere geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine ilişkin araştırma yaparak bireysel ya da grup olarak poster, afiş, resim vb. hazırlamalarını içeren performans görevi verilir ( SDB2.2 , OB1 , OB9 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri istenir ( SDB3.3 , D3.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları istenir ( OB1 , OB2 , D3.3 ). Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak hareket etmeleri beklenir ( E1.1 , E3.4 , E3.8 ). Belirledikleri aracı kullanarak geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisine ilişkin bilgi toplamaları istenir ( OB7 ). Öğrencilerden ulaştıkları bilgileri öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulamaları sağlanır ( KB3.3 , OB1 , D16.3 , E3.4 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri ve yazılım dersiyle ilişki kurulabilir ( OB2 ). Doğruladıkları bilgileri kullanarak hazırladıkları poster, afiş, resim vb. olarak sunmaları istenebilir. Geleneksel Türk sanatlarının oluşturulmasında bilimsel kavramların etkisini fark etmeleri sağlanır. Geleneksel Türk sanatlarına hat, tezhip, minyatür, ebru, cam işleme, seramik, çini, çömlek, dokuma vb. değinilir. Bu sanat türlerinde ışık, gölge, renk, hacim vb. bilimsel kavramlardan nasıl faydalanıldığı kısaca açıklanır. Geleneksek Türk sanatlarının kültürümüzdeki önemi vurgulanarak bu konuda örnek eserler gösterilebilir ( OB5 , OB9 , D14.3 ). Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, eşleştirme testleri vb. kullanılabilir.",
+    "MBU.BU.1.3.3.",
+    "Öğrencilerden mimaride bilimin kullanımına ilişkin bir durumu örnek olay yöntemi ile tartışmaları istenir ( KB3.3 , SDB2.2 , E3.10 ). Mimaride bilimin kullanıldığı köprü, tünel, cami, gökdelen, stadyum, baraj vb. yapılar ve Mimar Sinan’ın Türk kültürüne ait eserlerinden örnekler ile ilgili açık uçlu sorular yöneltilebilir. Öğrencilere mimaride bilimin kullanımına ilişkin bireysel ya da grup olarak araştırma yapmaları ve poster, afiş, resim, video, sunu vb. şeklinde sunmalarını içeren performans görevi verilir ( SDB2.1 , SDB2.2 , OB1 , OB4 , OB9 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri istenir ( SDB3.3 , D3.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanılır ( OB1 , OB2 , OB4 ). Bu süreçte “Okul Dışı Öğrenme Ortamları” genel ağ sayfasından da yararlanılabilir. Araştırma sürecinde gerçeği arama isteğiyle merak ettiği soruları sorarak hareket etmeleri beklenir ( OB1 , OB2 , E1.1 , E3.4 , E3.8 ). Belirledikleri aracı kullanarak mimaride bilimin kullanımına ilişkin bilgi toplamaları istenir ( OB7 ). Öğrencilerden ulaştıkları bilgileri öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulamaları istenir ( OB1 , E3.4 , D16.3 ). Bu süreçte öğrencilerin açık fikirli davranmaları, bilimsel bakış açısıyla fikirlerini savunmaları sağlanır ( D3.3 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri ve yazılım dersiyle ilişki kurulabilir ( OB2 ). Doğruladıkları bilgileri seçtikleri sunum yöntemiyle arkadaşlarına sunmaları istenir. Ülkemizde bulunan millî kültürümüze ait yapılarda bilimden nasıl faydalanıldığına değinilir ( D19.3 ). Bu yapılarda ısı kontrolü, aydınlatma tasarımı, ses izolasyonu, malzeme seçimi, enerji verimi, sürdürülebilirlik, işlevsellik ve estetik açıdan nelerin dikkate alındığı kısaca açıklanır. Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "MBU.BU.1.3.4 .",
+    "Öğrencilere tiyatro salonlarına ait görseller inceletilebilir ( KB2.2 , OB4 , OB9 ). Tiyatro sahnelerinin aydınlatılması hakkında açık uçlu sorular yöneltilebilir. Öğrencilere tiyatro sahnelerinde ışık kullanım tekniklerine ilişkin bireysel ya da grup olarak poster, afiş vb. hazırlamalarını içeren performans görevleri verilir ( SDB2.1 , SDB2.2 , OB1 , OB9 ). Öğrencilerden tiyatro sahnelerinde kullanılan ışık tekniklerini araştırmak için kullanacakları kaynakları belirlemeleri beklenir ( SDB3.3 , D3.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanabilirler ( OB1 , OB2 , OB4 ). Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak hareket etmeleri beklenir ( E3.4 , E3.8 ). Belirledikleri aracı kullanarak tiyatro sahnelerinde ışık kullanım tekniklerine ilişkin bilgi toplamaları istenir ( OB7 ). Öğrencilerden ulaştıkları bilgileri öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulamaları beklenir ( KB3.3 , OB1 , E3.4 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri ve yazılım dersiyle ilişki kurulabilir ( OB2 ). Doğruladıkları bilgileri seçtikleri sunum yöntemini kullanarak arkadaşlarıyla paylaşmaları istenir. Işığın tiyatroda kullanımı kısaca açıklanır. Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, tanılayıcı dallanmış ağaç vb. kullanılabilir."
+  ],
+  "skills": [
+    "FBAB1. Bilimsel Gözlem"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1544"
+}

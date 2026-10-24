@@ -1,0 +1,44 @@
+{
+  "unitId": 81424028,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "28. ÜNİTE: KORO - BATI MÜZİĞİ DÖNEMLERİNDE KORO ESERLERİ",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.4.2.1",
+      "title": "Orta Çağ koro müziği eserlerini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.2.2",
+      "title": "Barok Dönem koro müziği eserlerini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.2.3",
+      "title": "Klasik Dönem koro müziği eserlerini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.2.4",
+      "title": "Romantik Dönem koro müziği eserlerini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.4.2.5",
+      "title": "Yirminci yüzyıl koro müziği için bestelenmiş eserleri seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

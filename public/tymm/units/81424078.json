@@ -1,0 +1,39 @@
+{
+  "unitId": 81424078,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "78. ÜNİTE: UT - UTTA SES ÜRETİMİ – I",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.11.2.1",
+      "title": "Mızrap hareketlerini gösteren simgeleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.2.2",
+      "title": "Açık telde üst mızrap vuruşlarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.2.3",
+      "title": "Açık telde üst ve alt mızrap vuruşlarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.2.4",
+      "title": "İki komşu telde üst ve alt mızrap vuruşlarını uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

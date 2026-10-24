@@ -1,0 +1,69 @@
+{
+  "unitId": 80791003,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "3. ÜNİTE: TÜRKÇE KELİMELERİN OKUNUŞU",
+  "hours": "8",
+  "description": "Ünite konuları işlenirken; a) Örnek kelimeler tablolar oluşturularak verilmeli, b) Kelime örnekleri verilirken kolaydan zora doğru bir sıra takip edilmeli, c) Okutucu harflerin terk edildiği hece ve kelimelere yer verilmeli, d) “Yazılışları aynı, okunuşları farklı” kelime örnekleri okutulmalı, e) Konular cümle örnekleriyle desteklenmeli ancak örnek cümleler henüz aktarılmamış kuralları içermemelidir.",
+  "outcomes": [
+    {
+      "code": "OSM.10.3.1.1",
+      "title": "Kelime içindeki okutucu harfleri ünlü karşılıklarıyla okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.1.2",
+      "title": "Okutucu harflerin kendi sesleriyle okunabileceğini kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.2.1",
+      "title": "Elif okutucusuyla ilgili okuma kurallarını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.2.2",
+      "title": "Elif okutucusuyla gösterilen sesleri okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.3.1",
+      "title": "He okutucusuyla ilgili okuma kurallarını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.3.2",
+      "title": "He okutucusuyla gösterilen sesleri okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.4.1",
+      "title": "Vav okutucusuyla ilgili okuma kurallarını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.4.2",
+      "title": "Vav okutucusuyla gösterilen sesleri okur",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.5.1",
+      "title": "Ye okutucusuyla ilgili okuma kurallarını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.10.3.5.2",
+      "title": "Ye okutucusuyla gösterilen sesleri okur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "unitId": 1585,
+  "grade": 0,
+  "gradeName": "1. Düzey",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Zekâ Oyunları)",
+  "title": "DÜZEY I · 5.Tema: Hafıza Oyunları",
+  "hours": "9",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEZO.1.5.1",
+      "title": ". Hafıza oyunlarının temel kurallarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOEZO.1.5.2",
+      "title": ". Hafıza oyunlarında mevcut duruma ilişkin ön gözlemlerden yola çıkarak çıkarım yapabilme ve buna ilişkin yargıda bulunabilme",
+      "processComponents": [
+        "a) Hafıza oyunlarında mevcut duruma ilişkin ön gözlem yapar ve deneyimi ile ilişkilendirir.",
+        "b) Hafıza oyunlarında mevcut duruma ilişkin çıkarımlar yapar.",
+        "c) Hafıza oyunlarında mevcut duruma ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "OOEZO.1.5.3",
+      "title": "Başlangıç ve orta seviyede hafıza oyunlarını çözümleyebilme",
+      "processComponents": [
+        "a) Başlangıç ve orta seviyede hafıza oyunlarına ilişkin parçaları belirler.",
+        "b) Başlangıç ve orta seviyede hafıza oyunlarında parçalar arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "eşleştirme, hatırlama, yön bulma",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1585"
+}

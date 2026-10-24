@@ -1,0 +1,99 @@
+{
+  "unitId": 81663006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "6. ÜNİTE: ROBOTİK KODLAMA - 1. ÜNİTE: ROBOTİK SİSTEMLER VE TARİHSEL GELİŞİMİ",
+  "hours": "18",
+  "description": "Bu ünitede, robotik ve otomasyonun tarihçesi, temel kavramları, farklı robot platformları, otomatik sistemlerin farklılıkları, öğrenebilen sistemlerin çalışma mantığı anlatılarak bir soruna robotik sistemler ile çözüm getirmeye yönelik süreçler üzerinde durulur.",
+  "outcomes": [
+    {
+      "code": "BTY.6.1",
+      "title": "Robotiğin tarihsel gelişimini açıklar",
+      "processComponents": [
+        "Robot, otomasyon, sensör ve programlama gibi temel robotik kavramlar ifade edilir.",
+        "Robotiğin tarihi, ilk mekanik robotlardan günümüzün yüksek teknolojili robotlarına kadar olan gelişimi anlatılır.",
+        "Tarihsel süreçte mekanik olarak gelişen robotik alanına elektronik ve bilgisayarların dahil olmasıyla yaşanan gelişimdeki hızlanmaya dikkat çekilir.",
+        "Gelecekte robot ve insan etkileşiminin ne düzeyde olacağına dair öngörülerde bulunmaları istenir."
+      ]
+    },
+    {
+      "code": "BTY.6.2",
+      "title": "Robotik kodlamanın endüstriyel ve günlük hayattaki uygulamalarını araştırır",
+      "processComponents": [
+        "Tarihsel süreçte robotiğin kullanım alanlarına, endüstriyel ve günlük hayattaki kullanılan robotların gelişimine ait görsel örnekler verilir.",
+        "Günümüzde robotik kullanımının hayatımızı nasıl kolaylaştırdığı ifade edilir.",
+        "Üretim ve ürün tasarımında robotik kodlamanın kullanımı incelenir.",
+        "Günlük hayatta karşılaşılan robotik cihazlar (örneğin akıllı ev sistemleri veya otonom süpürgeler) incelenerek bu teknolojinin çalışma mantığına dikkat çekilir."
+      ]
+    },
+    {
+      "code": "BTY.6.3",
+      "title": "Günümüz sorunlarından birine robotik ile çözüm fikri oluşturur",
+      "processComponents": [
+        "Çevresinde veya dünya genelinde karşılaşılan bir güncel sorunu tanımlaması istenir.",
+        "Bu soruna robotikle ile herhangi bir çözüm getirilmiş mi araştırması istenir.",
+        "Çözüm varsa mevcut çözümü geliştirmesi, yoksa robotik ile çözüm fikri oluşturması istenir.",
+        "Robotun nasıl çalışacağını, hangi sensörlerin kullanılacağını ve hangi verilerin toplanacağını içeren çözüm fikrini sınıf veya topluluk önünde sunması sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.6.4",
+      "title": "Farklı robot türleri ve mikrodenetleyicileri karşılaştırır",
+      "processComponents": [
+        "Kullanım amaçlarına göre oluşturulan farklı robot türleri (örneğin tekerlekli robotlar, insansız hava araçları, kol robotları) anlatılır.",
+        "Aynı robotik mekanizmada çeşitli mikrodenetleyicilerin kullanılabileceğine fakat tüm mikrodenetleyicilerde aynı programlama dilinin kullanılmadığına dikkat çekilir. Bu sebeple seçilecek mikrodenetleyiciye karar verirken kullandığı programlama dilinin de dikkate alınması gerektiği söylenir.",
+        "Farklı robot türlerinin avantajları ve dezavantajları karşılaştırılır. Örneğin, tekerlekli robotların karada hareket etme yeteneği ve istikrarı, ancak sınırlı engel aşma kabiliyeti olabilir.",
+        "Farklı mikrodenetleyicilerin avantajları ve dezavantajları karşılaştırılır. Örneğin kodlama dili yazım kolaylığı ve kütüphane desteği, donanım özellikleri, güç kullanımı."
+      ]
+    },
+    {
+      "code": "BTY.6.5",
+      "title": "Otomatik sistemlerin çalışma mantığını kavrar",
+      "processComponents": [
+        "Otomatik sistemlerin sensörler, işlemciler, aktüatörler vb. temel bileşenleri tanıtılır.",
+        "Sensörlerin çevresel veri toplamadaki rolü anlatılır ve bu verilerin otomatik sistem tarafından nasıl kullanıldığına örnek verilir.",
+        "Veri işleme ve karar mekanizmaları anlatılır, işlemcilerin rolüne dikkat çekilir.",
+        "İşlemcilerin aldığı kararları fiziksel eylemlere dönüştüren aktüatörlerin (örneğin motorlar, vanalar) işlevlerine örnekler verilir."
+      ]
+    },
+    {
+      "code": "BTY.6.6",
+      "title": "Yarı otonom ve otonom sistemlerin çalışma mantığını kavrar",
+      "processComponents": [
+        "Yarı otonom sistemlerin insan müdahalesine ihtiyaç duyan ancak belirli görevleri otomatik olarak gerçekleştiren sistemler olduğu ifade edilir.",
+        "Otonom sistemlerin insan müdahalesine gerek duymadan belirli görevleri tamamen bağımsız olarak gerçekleştiren sistemler olduğu ifade edilir.",
+        "Bu sistemlerde sensörlerin veri toplama, işlemcilerin karar alma ve aktüatörlerin eylem gerçekleştirme işlevlerine sahip oldukları anlatılır.",
+        "Yarı otonom ve otonom sistemlerin, çeşitli alanlarda kullanılan örnekleri gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.6.7",
+      "title": "Otomatik, yarı otomatik ve otonom sistemler arasındaki farkı bilir",
+      "processComponents": [
+        "Otomatik sistemlerin insan müdahalesi olmadan ama programlanmış talimatlar doğrultusunda önceden tanımlanmış koşullar altında çalıştığı anlatılır.",
+        "Yarı otomatik sistemlerin belirli görevleri kısmen otomatik olarak gerçekleştirebilen, ancak insan müdahalesine ihtiyaç duyan sistemler olduğu anlatılır.",
+        "Otonom sistemlerin ise programlanmış talimatlar veya insan müdahalesi olmaksızın bağımsız bir şekilde çevresel koşulları algılayarak elde ettiği verileri işleyip kararlar alabilen sistemler olduğu anlatılır.",
+        "Seçilen bir sorun için yarı otomatik, otomatik ve otonom bir sistem ile çözüm bulmak için beyin fırtınası yapılır."
+      ]
+    },
+    {
+      "code": "BTY.6.8",
+      "title": "Öğrenebilen sistemlerin çalışma mantığını kavrar",
+      "processComponents": [
+        "Öğrenebilen sistemlerin çevresel verileri toplayıp işleyerek gelecekteki kararlarını iyileştirebilen sistemler olduğu anlatılır.",
+        "Makine öğrenmesi ve yapay zekâ terimleri anlatılarak öğrenebilen sistemleri ile bağlantısı kurulur.",
+        "Veri madenciliği, derin öğrenme ve karar ağaçları gibi öğrenme algoritmalarının öğrenebilen sistemlerin temelini oluşturmasına dikkat çekilir.",
+        "Öğrenebilen sistemlerin tahminlerde bulunup kararlar alabilmesi için genellikle büyük veriler üzerinde çalışması gerektiğine dikkat çekilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

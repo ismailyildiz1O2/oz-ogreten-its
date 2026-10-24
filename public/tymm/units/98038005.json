@@ -1,0 +1,46 @@
+{
+  "unitId": 98038005,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "5. ÜNİTE: ÜRÜN GELİŞTİRME",
+  "hours": "7",
+  "description": "Bu ünitede öğrencilerin, insanların yaşadığı çevre ve kullandığı eşyalarda ergonominin önemini kavrayıp, ürün geliştirme sürecinde buna dikkat etmeleri amaçlanır.",
+  "outcomes": [
+    {
+      "code": "TT.8.C.2.1",
+      "title": "Ergonomi kavramını ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "TT.8.C.2.2",
+      "title": "Ürün tasarımında ergonominin önemini açıklar",
+      "processComponents": [
+        "Ergonomi ile antropometri arasındaki ilişki üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.2.3",
+      "title": "Bir ürünün günlük hayattaki kullanımını analiz eder",
+      "processComponents": [
+        "Mutfak robotu, televizyon kumandası, bardak, sandalye, sürahi gibi araçların ergonomi açısından kullanımı üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TT.8.C.2.4",
+      "title": "Ergonomi kavramını dikkate alarak bir ürün tasarlar",
+      "processComponents": [
+        "Ergonomik bir ürün için eskizler hazırlanır, akranlarıyla bunu değerlendirir ve gelen dönütlere göre yeniden yapılandırdığı fikrini üç boyutlu bir tasarıma dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Yapılı Çevre ve Ürün",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf"
+}

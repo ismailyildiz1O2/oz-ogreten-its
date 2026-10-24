@@ -1,0 +1,79 @@
+{
+  "unitId": 1009,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları - Müzik Kültürü Dersi",
+  "title": "2. TEMA: MÜZİK KÜLTÜRÜMÜ GELİŞTİRIYORUM",
+  "hours": "8",
+  "description": "Temada öğrencilerin müzik kültürlerini geliştirme yollarını sorgulayabilmeleri, müzik dinleme ve çalma ortamlarındaki doğru davranış kurallarını açıklayabilmeleri, çalgılarının bakımı ve temizliğini düzenli yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MK.3.2.1",
+      "title": "Müzik kültürünü geliştirme yollarını sorgulayabilme",
+      "processComponents": [
+        "a) Müzik kültürünü geliştirme yollarını tanımlar.",
+        "b) Müzik kültürünü nasıl geliştirebileceğine ilişkin sorular sorar.",
+        "c) Müzik kültürünü geliştiren unsurlar hakkında bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MK.3.2.2",
+      "title": "Müzik dinleme ve çalma ortamlarındaki doğru davranış kurallarını açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "MK.3.2.3",
+      "title": "Çalgısının bakımı ve temizliğini düzenli yapabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "bakım, çalgı, müzik kültürü, saygı, temizlik",
+  "support": [
+    "Öğrencilerden dinleyici ya da icracı oldukları bir müzik ortamında nasıl davranmaları gerektiğine yönelik üç kural yazmaları istenebilir. Öğrencilerden kendi çalgıları için bir bakım ve temizlik planı yapmaları istenebilir. Müzik kültürünü geliştiren bir kişinin hikâyesini basit ve eğlenceli bir dille anlatan bir metin oluşturularak hikâyenin sonunda öğrencilerden bu kişiden neler öğrenebilecekleri konusunda kısa bir yorum yapması istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden bir sonraki derse kadar seçtikleri bir konsere gitmeleri, oradaki izleyici davranışlarını not almaları ve sınıfta paylaşmaları istenebilir. Öğrencilerden kendilerini bir çalgının yerine koydukları kurmaca bir hikâye yazmaları istenebilir. Öğrencilerden müzik öğretmeni ile müzik kültürünü geliştirmek için neler yaptığı konusunda röportaj yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, kontrol listesi, gözlem formu, öz değerlendirme formu, anekdot kaydı ve akran değerlendirme formu kullanılarak değerlendirilebilir. Ayrıca öğretmenler, öğrenme çıktıları ve içerik çerçevesi doğrultusunda mevcut ölçme araçlarını uyarlayabilir ya da gerektiğinde farklı araçlar geliştirerek süreci zenginleştirebilir. Öğrencilere performans görevi olarak müzik dinleme ve çalma ortamlarındaki doğru davranışları içeren bir afiş veya cümle kartları hazırlama, çalgı türlerine uygun bakım ve temizlik süreçlerini açıklayan bilgi görselleri oluşturma görevleri verilir. Performans görevleri, dereceli puanlama anahtarıyla bilgi doğruluğu, görselleştirme becerisi ve açıklık kriteri dikkate alınarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MK.3.2.1",
+    "Öğrencilere müzik kültürünü geliştirme yollarının neler olabileceği sorulur. Öğrenciler gruplara ayrılır. Grup içi tartışma teknikleri kullanarak müzik kültürlerini nasıl geliştirebilecekleri konusunda öğrencilerin birbirlerine soru sormaları sağlanır ( SDB2.1 ). Grupların ilgili konu hakkında dijital ve basılı kaynaklardan bilgi toplaması ve edindikleri bilgileri listelemesi istenir ( OB1 , OB2 ). Listelenen yöntemlerin işe yararlılığı ve amaca uygunluğu, büyük grup tartışması yoluyla sınıfça değerlendirilir ( KB2.18 ). Öğretmenin yönlendirmesiyle öğrencilerin farklı türlerde müzik dinlemenin, tematik çalma listeleri oluşturmanın, farklı dillerde şarkılar öğrenmenin ve müzikle ilgili yazılar yazmanın müzik kültürünü geliştirdiği sonucuna varmaları sağlanır ( KB2.10 , OB5 , SDB1.1 ). Öğrenciler müzik kültürlerini geliştirmeleri yönünde desteklenir ( SDB1.2 ). Öğrencilerin grup çalışmasındaki katılım ve iş birliği becerilerini izlemek için gözlem formu, diğer grupların çalışmalarını değerlendirerek eleştirel düşünme becerilerini geliştirmelerini sağlamak için akran değerlendirme formu, öğrencilerin tartışmalardaki katkılarını kaydetmek için anekdot kaydı kullanılabilir.",
+    "MK.3.2.2",
+    "Öğrencilere bir konser salonunda neler olduğu sorulur. Öğrencilerden, önceki deneyimlerine ya da gözlemlerine dayanarak bu ortamdaki bileşenleri belirlemeleri istenir. Bulgular listelenerek rol kartları hazırlanır. Her öğrenci bir kart seçer ve kartta yazan rolü canlandırır ( E2.5 ). Etkinlik sonunda konuşma halkası oluşturularak öğrencilere izlenimleri sorulur ( KB2.2 ). Örneğin icracı rolündeki öğrencilere telefonla oynayan ya da çekim yapan kişileri gördüklerinde hissettikleri, izleyici ve icracılara alkış zamanına dikkat etmeyen ya da kendi aralarında konuşan izleyiciler hakkında düşünceleri sorulur ve öğrencilerin kendilerini ifade etmeleri sağlanır. Tüm öğrencilerin birlikte yaşamanın bir gereği olarak çevresindekilere nazik ve saygılı davranmaları gerektiği sonucuna ulaşmaları sağlanır. ( KB2.10 , D14.1 , SDB2.3 ). Öğrenciler, insana ve topluma değer veren, çevrelerindeki kişilerin duygularını ve düşüncelerini dikkate alarak davranan bireyler olmaları için desteklenir ( D5.1 , E2.1 , SDB2.3 ). Öğrencilere birlikte müzik yapmanın da çeşitli kuralları olduğu söylenir ve bu kuralların neler olabileceği sorulur. Müzik çalma ortamlarındaki davranış kurallarını içeren cümleler doğru-yanlış formu şeklinde öğrencilere verilir. Bu form ayrıca temel web araçları ile hazırlanarak öğrencilere sunulabilir ve öğrencilerin bu dijital materyal üzerinden etkileşime girmelerine izin verilir ( OB2 ). Performans görevi olarak müzik dinleme ve çalma ortamlarındaki doğru davranışları içeren bir afiş veya cümle kartları hazırlama, çalgı türlerine uygun bakım ve temizlik süreçlerini açıklayan bilgi görselleri oluşturma verilir. Performans görevleri, dereceli puanlama anahtarıyla bilgi doğruluğu, görselleştirme becerisi ve açıklık kriterleri dikkate alınarak değerlendirilebilir. Öğrencilerin etkinliklere katılım ve yaratıcılık düzeylerini izlemek için gözlem formu, öğrenci çıkarımlarının doğruluk ve kapsamını izlemek için kontrol listesi kullanılabilir.",
+    "MK.3.2.3",
+    "Öğrencilere güvenilir genel ağ adresleri ya da dijital araçlar kullanılarak çalgısını özenle, titizlikle temizleyen bir müzisyenin videosu izletilir ve öğrencilerden bu videoya ilişkin izlenimlerini paylaşmaları istenir ( KB2.2 ). Öğrencilerin temizliğin önemini ifade etmeleri sağlanır. Öğrencilere çalgılarını temizleme periyotları sorulur ve öğrencilerin belirttikleri süreler listelenir. Konuşma halkası oluşturularak öğrencilerden temizlik ve bakım rutinlerini anlatmaları istenir. Öğretmen tarafından çalgıların bakım ve temizliğinin çalgı türüne göre yapılması gerektiği belirtilir. Nefesli, mızraplı ve tezeneli, vurmalı çalgıların temizliğinin nasıl yapılacağı öğretmen tarafından gösterilir ve öğrencilerin dikkatle izlemesi sağlanır ( E3.2 ). Balık kılçığı tekniği kullanılarak çalgıların bakım ve temizliğinin neden önemli olduğunu, düzenli temizlik yapılmamasının ne gibi sonuçlar doğuracağını öğrencilerin belirlemesi istenir. Öğrenciler gruplara ayrılarak çalgılarının bakımını ve temizliğini nasıl yapmaları gerektiğini hatırlatan bilgi görselleri hazırlar ( SDB2.2 ). Hazırlanan bilgi görselleri sınıfa asılır. Süreç kontrol listesi, gözlem formu, öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D5.1"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.18",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1009"
+}

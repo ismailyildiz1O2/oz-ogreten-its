@@ -1,0 +1,56 @@
+{
+  "unitId": 80323006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "6. ÜNİTE: NAMAZ",
+  "hours": "22",
+  "description": "Bu ünite işlenirken ibadetlerin uygulamaları ile ilgili konularda Şafii mezhebinin görüşlerine de değinilecektir. Ayrıca ünite genelinde terğib hadislerine yer verilecek ve teşvik dili kullanılacaktır.",
+  "outcomes": [
+    {
+      "code": "TDB.2.2.1",
+      "title": "İbadetlerin yapılış amacını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.2.2",
+      "title": "İbadetlerin geçerli olma şartlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.2.3",
+      "title": "İbadetlerin bireysel ve toplumsal faydalarının farkında olur",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.2.4",
+      "title": "Hz. Peygamber'in ibadet hayatındaki ilkeleri örneklerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.2.5",
+      "title": "Namazın önemini ayet ve hadislerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.2.6",
+      "title": "Namazın Allah'a kulluğun en önemli göstergelerinden biri olduğunu fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.2.7",
+      "title": "Namazların kılınışını gösterir",
+      "processComponents": [
+        "Kazanım işlenirken cuma ve bayram namazlarının önemine vurgu yapılacaktır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

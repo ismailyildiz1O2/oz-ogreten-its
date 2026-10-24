@@ -1,0 +1,91 @@
+{
+  "unitId": 98035701,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "1. ÖĞRENME ALANI: DİNLEME-SÖYLEME",
+  "hours": "17",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.8.A.1",
+      "title": "İstiklâl Marşı’nı doğru söyler",
+      "processComponents": [
+        "İstiklâl Marşı’nı yönetme çalışmalarında bilişim teknolojisi araçlarından çeşitli materyaller izlettirilmesi ve dinlettirilmesi yoluyla yararlanılır."
+      ]
+    },
+    {
+      "code": "Mü.8.A.2",
+      "title": "Toplum hayatımızda önemli yer tutan marşlarımızı doğru söyler",
+      "processComponents": [
+        "Millî birlik ve beraberlik duygusunu güçlendiren marşlarımız verilmelidir.",
+        "Milli bayramlar (29 Ekim Cumhuriyet Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı vb.) ve 10 Kasım Atatürk’ü anma günü ile ilgili etkinliklere yer verilir."
+      ]
+    },
+    {
+      "code": "Mü.8.A.3",
+      "title": "Türk toplum ve topluluklarının müzik kültürlerinden uygun örnekleri dinler",
+      "processComponents": [
+        "Türk ve akraba topluluklarına ait müzik örnekleri dinletilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.8.A.4",
+      "title": "Türk müziğinin makamsal bir yapıda olduğunu fark eder",
+      "processComponents": [
+        "Türk müziğinin temel dokusu göz önünde bulundurularak öğrencilerin eviç (misket) makamını ayırt edebilmelerine yönelik dinleti (türkü, şarkı, alıştırma vb.) çalışmaları yapılmalıdır. Örneğin önce sınıf düzeyinde istenen makamlardan birine yönelik dinleti çalışmaları yapılır. Öğrenciler ilk makamı işitsel olarak algıladıktan sonra diğer makama yönelik dinleti yapılır. Sonra her iki makama yönelik karışık eserler dinletilir ve öğrencilerden eserlerin hangi makama ait olduklarını bulmaları istenir. Öğrenciler eserlerin makamlarını belirlemede belli bir başarı elde ettikten sonra bu makamlardan farklı karakterde üçüncü bir makama ait eserler de arada bir sorulur ancak bu makamla ilgili ayrıntıya girilmez. Her çalışma sınıf düzeyinde istenen makamlara yönelik söyleme etkinlikleri ile desteklenerek öğrencilerde makamsal farkındalık sağlanır."
+      ]
+    },
+    {
+      "code": "Mü.8.A.5",
+      "title": "Yurdumuza ait müzik türlerinden eserler seslendirir",
+      "processComponents": [
+        "Türk halk müziği, Türk sanat müziği, dinî müzik, mehter müziği ve çok sesli Türk müziklerinden seçkin örnekler, öğrencilerin ses sınırlarına ve sınıf düzeyine uygun olarak verilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.8.A.6",
+      "title": "Müzik eserlerini hız belirteci (metronom) kullanarak uygun hızlarda seslendirir",
+      "processComponents": [
+        "Müzik eserini hız belirtecine göre seslendirir.",
+        "Hız belirteci yardımıyla müzik eserlerini farklı hızlarda seslendirir.",
+        "Hız belirtecini eser ve alıştırma (etüt) çalışmalarında etkin olarak kullanır."
+      ]
+    },
+    {
+      "code": "Mü.8.A.7",
+      "title": "Ses grupları oluşturur",
+      "processComponents": [
+        "Öğrencilerin müzik grupları oluşturması için gerekli yönlendirmeler yapılır ve grupların çalışmalarını sunmaları için etkinlikler düzenlenir."
+      ]
+    },
+    {
+      "code": "Mü.8.A.8",
+      "title": "Türk kültürüne ait müzikleri dinler",
+      "processComponents": [
+        "Türk müziği kültürüne felsefesi ve eserleriyle katkıda bulunmuş; Itrî, Yesârî Âsım Arsoy, Safiye Ayla, Vecihe Daryal, Ziya Taşkent, Bekir Sıtkı Sezgin, Cinuçen Tanrıkorur, Neşet Ertaş, Talip Özkan, Yılmaz İpek, Özay Gönlüm gibi şahsiyetlerden eserler dinletilmelidir."
+      ]
+    },
+    {
+      "code": "Mü.8.A.9",
+      "title": "Müzik çalışmalarını sergiler",
+      "processComponents": [
+        "Öğrencilerin müzikle ilgili eser ve edinimlerini sunabilecekleri ortamlar oluşturulur."
+      ]
+    },
+    {
+      "code": "Mü.8.A.10",
+      "title": "Mahallî sanatçıları araştırır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Dinleme-Söyleme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

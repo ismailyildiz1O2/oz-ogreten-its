@@ -1,0 +1,58 @@
+{
+  "unitId": 1141,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "2. TEMA: BAĞLAMADA TRİL TEKNİĞİNİ UYGULUYORUM",
+  "hours": "14",
+  "description": "Temada bağlamada tril tekniğini tezene ile çalmaya yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.7.2.1",
+      "title": ". Bağlamada tril tekniğini çalabilme",
+      "processComponents": [
+        "a) Bağlamada tril tekniğini çözümler.",
+        "b) Bağlamada tril tekniğini çalarken duruş ve tutuş pozisyonu alır.",
+        "c) Bağlamada tril tekniğini, çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlamada tril tekniği ile müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "repertuvar, tril",
+  "support": [
+    "Tril tekniğinde öğrencilere bire bir rehberlik sağlanabilir. Öğretmen, öğrencilerin doğru teknikle çalışmaları için ekstra destek verir ve ilave alıştırmalar sunabilir. Anlamadıkları veya zorlandıkları kısımlarda öğrencilerin daha fazla pratik yapabilmeleri için ek kaynaklar ve video materyaller sağlanabilir. Akran desteği ile tril tekniğini geliştirebilirler."
+  ],
+  "enrichment": [
+    "İleri düzey öğrenciler için daha karmaşık tril teknikleri ve hız çalışmaları verilebilir. Öğrenciler, tril tekniğini diğer tekniklerle birleştirerek (vibrato veya parmak çalışmaları) daha zengin müzikal ifadeler geliştirebilirler. Öğrenciler, farklı müzik türlerinde tril tekniğini uygulayarak geniş bir repertuvar üzerinde çalışabilirler"
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi ve kontrol listesi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden belirli bir hızda tril tekniğini müzikal ifade ve ritmik uyumla sergilemeleri istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.7.2.1",
+    "Öğrencilere tril tekniğinin müzikteki yeri ve rolü açıklanır. Tril tekniği, bağlama üzerinde hızlı bir şekilde yapılan iki ardışık nota çalma tekniği olarak tanıtılır. Tril tekniğini yazılı olarak gösteren örnekler ve bu tekniğin müziksel işlevi hakkında bilgi verilir ( OB4 ). Bu tekniğin müziğe hız, ritim ve dinamizm katmak için kullanıldığı belirtilir. Öğrencilerin bağlamada tril uygulamalarının nasıl ses getireceğini ve müziksel ifadeyi nasıl zenginleştireceğini anlamaları sağlamak için öğretmen bağlamada örnek eserler çalar ( E3.2 , SDB2.1 , OB1 ). Öğrencilerin bağlama ile tril tekniğini hızlı ve doğru kullanması kontrol listesi ile takip edilerek değerlendirilebilir. Öğrenciler, bağlama üzerinde tril tekniğini doğru bir şekilde çalmaya başlarlar. Başlangıçta, öğrenciler düşük hızda çalışarak her iki elin koordinasyonunu güçlendirme çalışmaları yapılır. İlk başta her iki elin ayrı ayrı hız çalışmaları yapılabilir, ardından iki elin uyumlu bir şekilde çalışması sağlanır. Öğrenciler, bağlamada belirli bir aralık (1 ve 2. perde arasındaki aralık) üzerinde tril yaparak başlarlar. İki nota arasında yavaşça geçiş yaparak sağ ve sol ellerinin koordinasyonunu artırırlar. Sol elde parmakların doğru pozisyonda olması, doğru ve temiz seslerin çıkması sağlanır. Öğrenciler rahatça yavaş tempoda tril tekniğini uyguladıktan sonra hızlarını kademeli olarak artırarak daha hızlı tempolarda çalışabilirler ( D3.1 ). Öğrencilerin tril tekniğini doğru şekilde uygulayıp uygulamadıkları, ellerinin koordinasyonu ve doğru parmak pozisyonlarını gözlem formu ile gözlemleyerek değerlendirilebilir. Öğrenciler, küçük gruplar hâlinde çalışarak birbirlerine yardım eder ve tekniklerini geliştirirler ( SDB2.2 , D4.1 ). Öğrenciler, tril tekniğini bir melodi veya pasaj üzerinde çalışarak müzikal ifadelere dönüştürürler. Özellikle halk müziği ve Türk sanat müziği repertuvarlarında tril tekniğinin oldukça yaygın kullanıldığı öğrencilere açıklanır. Bu repertuvarlarda tril teknikleri uygulanarak öğrencilere bu tekniği özgün eserlerde kullanma becerisi kazandırılır ( SDB1.2 , D3.2 , OB9 , E3.3 , D7.2 ). Öğretmen, her öğrencinin performansını izleyerek doğru teknikle çalışıp çalışmadıklarını denetler ve bireysel düzeltmeler yapar. Performans görevi olarak öğrencilerin belirli bir hızda tril tekniğini, müzikal ifade ve ritmik uyumu sergileyip sergilemedikleri ile ilgili çalışma istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1",
+      "D3.2",
+      "D4.1",
+      "D7.2"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1141"
+}

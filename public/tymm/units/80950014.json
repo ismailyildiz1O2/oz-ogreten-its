@@ -1,0 +1,73 @@
+{
+  "unitId": 80950014,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "14. ÜNİTE: 12. SINIF - AKADEMİK GELİŞİM",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.14.1",
+      "title": "Okula hazırlıklı gelme ile akademik gelişimi arasında bağ kurar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.2",
+      "title": "Zamanını, ihtiyaçları ve sorumlulukları çerçevesinde planlar",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.3",
+      "title": "Üst öğretim kurumlarına geçiş sınavlarına hazırlanmak ve başarılı olmak için stratejiler geliştirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.4",
+      "title": "Akademik çalışmalarını zamanında bitirmede kararlı olur",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.5",
+      "title": "Sınavlara ilişkin yoğun duygularını yönetir",
+      "processComponents": [
+        "1. Hafta: Öğrencilerin sınava ilişkin yaşadığı genel duygular ve bu duyguların yönetilmesine odaklanılır. 2. Hafta: Kaygıyla baş etme yolları ve yönlendirmeye odaklanılır."
+      ]
+    },
+    {
+      "code": "REH.14.6",
+      "title": "Öğrenmenin hayat boyu devam ettiğine inanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.7",
+      "title": "Üst öğretim kurumlarına geçiş sınavlarıyla ilgili bilgi edinir",
+      "processComponents": [
+        "Bilgiye ulaşmak için çeşitli bilgi kaynaklarını kullanması üzerinde durulur."
+      ]
+    },
+    {
+      "code": "REH.14.8",
+      "title": "Bir üst öğretim kurumuna ilişkin ön bilgiler edinir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.9",
+      "title": "Bir üst öğretim kurumuna ve iş yaşamına geçiş sürecine yönelik duygu ve düşüncelerini ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.14.10",
+      "title": "Eğitim öğretim hayatının kendisine kattıklarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

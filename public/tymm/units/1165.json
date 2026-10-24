@@ -1,0 +1,57 @@
+{
+  "unitId": 1165,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: GİTARDA BARE ÇALIŞMALARI",
+  "hours": "14",
+  "description": "Temada öğrencilerin gitarda bare tekniğiyle çalmaları amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "GTR.6.2.1",
+      "title": "Gitarda bareli akorlarla şarkılar çalabilme",
+      "processComponents": [
+        "a) Gitarda bareli akorları çözümler.",
+        "b) Gitarda şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Gitarda şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "d) Gitarda şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "bare, gitar",
+  "support": [
+    "Destekleme sürecinde bare basarken işaret parmağının yeterli baskıyı uygulayabilmesi için özel el egzersizleri (lastik direnç çalışmaları, parmak açma-kapama egzersizleri) yaptırılabilir. Öğrenciler önce bareli akorların açık akor versiyonlarını çalar, ardından yavaş yavaş bare ekleyerek çalma çalışmaları yapılabilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde öğrencilere aynı şarkıyı farklı ritim kalıplarıyla (vals ritmi, reggae ritmi, funk ritmi) çalmaları için yönlendirme yapılabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilere grup hâlinde bareli akorlarla şarkı çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.6.2.1",
+    "Öğretmen, derse öğrencilerin dikkatini çekmek için tanıdık bir şarkıyı basit akorlarla çalar ve ardından aynı şarkıyı bareli akorlarla çalarak aradaki farkı sorar. Öğrenciler iki çalma tekniği arasındaki farklılıkları dinleyerek belirler ( SDB3.1 ). Bareli akorların gitarda hareketli bir yapı sağladığı ve farklı tonlara geçişi kolaylaştırdığı açıklanır. Öğrencilere bareli akorların temel mantığı anlatılarak basit akorların belirli pozisyonlara bağlı olduğu ancak bareli akorların farklı perdelere kaydırılarak çalınabileceği etkileşimli tahta veya görsellerle desteklenerek gösterilir ( OB4 ). Daha sonra, öğretmen öğrencileri küçük gruplara ayırır. Her gruba gitar klavyesi üzerinde bir bareli akor belirlenerek bu akoru nasıl basacaklarını keşfetmeleri istenir. Gruplar, öğretmenin rehberliğinde birbirlerine destek olarak akorları çözümler ( SDB2.2 ). Her grup belirlenen akoru sınıfa tanıtarak hangi parmakları nasıl yerleştirdiklerini ve çalarken hangi tekniklere dikkat ettiklerini açıklar. Bu süreçte öğretmen, öğrencilerin el pozisyonlarını ve parmak yerleşimlerini kontrol ederek gerekli düzeltmeleri yapar. Öğrenciler çalgıya özgü duruş ve tutuş pozisyonu alır. Öğrenciler, bareli akor basmayı kolaylaştıran parmak egzersizleriyle çalışmalarına devam eder. Önce boş tellerde basınç kontrolü sağlanarak başparmak ve işaret parmağı arasındaki dengeli baskı hissedilir. Ardından F majör, B minör gibi temel bareli akorları öğrenciler gitara özgü tekniklerle çalar. Öğretmen rehberliğinde tek tek çalışılır. Öğrenciler önce yavaş tempoda bareli akorları basarak temiz ses elde etmeye çalışır, ardından metronom eşliğinde hızlarını artırır. Grup çalışmaları sırasında öğrenciler birbirlerinin ellerini gözlemleyerek geri bildirimde bulunur ve eksiklerini düzeltmek için birlikte çalışır ( D4.1 , D4.2 , KB2.2 ).",
+    "Çalışmalar ilerledikçe öğretmen, öğrencilere bareli akor içeren bir türkü veya popüler bir şarkı verir. Grup içinde görev paylaşımı yapılarak bazı öğrenciler ritim çalışırken bazıları akor geçişlerini pekiştirir. Grup üyeleri birbirlerini destekleyerek şarkıları akıcı bir şekilde müziksel bileşenleri uygulayarak çalar. Parça yavaş tempoda başlanarak aşamalı olarak orijinal temposuna getirilir. Öğretmen, her grubun performansını dinleyerek geri bildirimde bulunur ve gerektiğinde bireysel rehberlik yapar. Dersin sonunda öğrenciler öğrendikleri bareli akorları kullanarak bir şarkı seçip çalmaya teşvik edilir. Her grup, belirlediği şarkıyı sınıfa sunarak öğrendiklerini paylaşır. Bu süreçte öğrenciler farklı görüşleri dinleyip empati kurarak nezaket içinde birbirlerine geri bildirimde bulunur ( D14.1 , E2.1 ). Akran değerlendirmesi yöntemiyle öğrenciler birbirlerine yapıcı yorumlar verir. Öğretmen, öğrencilerin süreç içindeki gelişimini gözlem formlarıyla değerlendirir ve her öğrencinin güçlü ve geliştirilmesi gereken yönlerine dair bireysel dönütler sunar. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D4.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.1"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1165"
+}

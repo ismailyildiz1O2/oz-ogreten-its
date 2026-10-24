@@ -1,0 +1,40 @@
+{
+  "unitId": 94031803,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "3. ÜNİTE: GÜZEL AHLAK",
+  "hours": "12",
+  "description": "Bu ünitede sırasıyla; “Din Güzel Ahlaktır”, “İnsani İlişkilerin Temeli: Sevgi ve Saygı”, “Bir Sure Tanıyorum: Fâtiha Suresi ve Anlamı” konularına yer verilir. Ünite genelinde konular, günlük hayattan ve öğrencilerin somut deneyimlerinden örneklerle işlenir. Ayrıca ayet ve hadisler başta olmak üzere, öğrenci seviyesine uygun atasözü, vecize, beyit, ilahi, nefes gibi edebî metinlerden yararlanılır.",
+  "outcomes": [
+    {
+      "code": "DKAB.4.3.1",
+      "title": "Bireyin güzel ahlaklı olmasında dinin rolünü fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "DKAB.4.3.2",
+      "title": "İnsani ilişkilerin gelişmesinde sevgi ve saygının önemini ve gerekliliğini savunur",
+      "processComponents": [
+        "Anne baba, kardeşler, akraba, komşu, arkadaş ve öğretmenlerle ilişkiler ayet ve hadislerle açıklanır.",
+        "Güzel ahlaklı olmanın birey ve toplum hayatındaki önemine vurgu yapılır."
+      ]
+    },
+    {
+      "code": "DKAB.4.3.3",
+      "title": "Fâtiha suresini okur, anlamını söyler",
+      "processComponents": [
+        "Fâtiha suresi ile ilgili kısa açıklamalara yer verilir; surede tavsiye edilen davranışlar belirlenir ve surenin nerelerde okunduğuna değinilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf"
+}

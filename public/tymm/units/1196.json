@@ -1,0 +1,51 @@
+{
+  "unitId": 1196,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "3. TEMA: KAVALDA ÜÇÜNCÜ KADEME SES ALANINDA ARA SESLER",
+  "hours": "17",
+  "description": "Tema içeriğini, kavalda üçüncü kademe ses alanında yer alan ara sesleri fa# (sol♭), sol# (la♭), si♭ (la #) seslerini çalabilme oluşturmaktadır. Bu doğrultuda kavalda üçüncü kademe ses alanında yer alan ara sesleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.6.3.1",
+      "title": "fa# (sol♭), sol# (la♭), si♭ (la #) seslerini çalabilme,",
+      "processComponents": [
+        "a) Fa# (sol♭), sol# (la♭), si♭ (la #) notalarını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ara sesler, kaval, nota, ritim, süre",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Etütleri metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Etütlerin yanı sıra kavalda birinci kademede öğrendiği notalardan oluşan basit usullü Türk halk müziği eserlerine yer verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak kavalda birinci kademe ses alanında yer alan fa# (sol♭), sol# (la♭), si♭ (la #) seslerinin geçtiği Türk halk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.6.3.1.",
+    "Öğretmen tarafından kavalda fa# (sol♭), sol# (la♭), si♭ (la #), sesleri uygulamalı olarak gösterilip, dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Kavalda 'fa# (sol♭), sol# (la♭), si♭ (la #),' notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( D10.1 , SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin kavalda birinci kademede yer alan 'fa# (sol♭), sol# (la♭), si♭ (la #),' notalarını çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Birinci kademede yer alan fa# (sol♭), sol# (la♭), si♭ (la #), notalarının belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır, öğretmen gözlemlendikten sonra öğrencilerin ezgisel yapıya uygun olarak etütleri çalmaları ve sabırlı olmaları vurgulanır ( D12.3 ). Çalışmalar gözlem formu veya dereceli puanlama anahtarı ile değerlendirilebilir. Süreç sonunda performans görevi olarak kavalda birinci kademe ses alanında yer alan fa# (sol♭), sol# (la♭), si♭ (la #) seslerinin geçtiği Türk halk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1196"
+}

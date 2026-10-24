@@ -1,0 +1,56 @@
+{
+  "unitId": 80323007,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "7. ÜNİTE: ORUÇ VE ZEKÂT",
+  "hours": "16",
+  "description": "Bu ünite işlenirken ibadetlerdeki uygulamalarla ilgili konularda Şafi mezhebinin görüşlerine de yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TDB.2.3.1",
+      "title": "Ramazan ayı ile orucun, Müslümanların hayatındaki yerini ve önemini kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.3.2",
+      "title": "Oruçluyken dikkat edilmesi gereken hususları kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.3.3",
+      "title": "Oruçla ilgili hükümleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.3.4",
+      "title": "Zekât ibadetini ayet ve hadislerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.3.5",
+      "title": "Zekâtla ilgili hükümleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.3.6",
+      "title": "Zekât ibadetinin bireysel ve toplumsal faydalarını kavrar",
+      "processComponents": [
+        "Kazanım işlenirken zekât ibadetinin, toplumsal bir gerçeklik olan fakirlik için çözüm yollarından biri olduğu vurgulanacaktır."
+      ]
+    },
+    {
+      "code": "TDB.2.3.7",
+      "title": "İnfak ve sadakanın yardımlaşma ve dayanışmaya katkısını fark eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

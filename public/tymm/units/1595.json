@@ -1,0 +1,40 @@
+{
+  "unitId": 1595,
+  "grade": 0,
+  "gradeName": "1. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY I · 1. Ünite: Drama İle Tanışma",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.1.1.1",
+      "title": "Drama yoluyla kendisinin ve grup üyelerinin özelliklerini karşılaştırabilme a) Kendisine ve grup üyelerine ilişkin özellikleri belirler. b) Kendisinin ve grup üyelerinin özelliklerine ilişkin benzerlikleri sözlü olarak ifade eder. c) Kendisinin ve grup üyelerinin özelliklerine ilişkin farklılıkları sözlü olarak ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "OOED.1.1.2",
+      "title": "Drama çalışmalarında kullanılan mekânı tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "OOED.1.1.3",
+      "title": ". Drama yoluyla sosyal temas oluşturabilme a) Drama etkinlikleriyle grup etkileşimi başlatır. b) Jest, mimik ve beden dilini kullanarak grup etkileşimine katılır. c) Jest, mimik ve beden dilini kullanarak grup etkileşimine katkıda bulunur. ç) Grup etkileşiminin önemini değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "OOED.1.1.4",
+      "title": ". Drama ve tiyatro arasındaki genel özellikleri karşılaştırabilme a) Drama ve tiyatronun genel özelliklerini belirler. b) Drama ve tiyatro arasındaki benzer yönleri sıralar. c) Drama ve tiyatro arasındaki farklı yönleri sıralar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "çember oluşturma, drama, etkileşim, grup, iletişim, mekân, oyun, rol, tanışma, tiyatro",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SBAB5. Sosyal Katılım (SBAB5.1. Sosyal Temas Oluşturma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1595"
+}

@@ -1,0 +1,43 @@
+{
+  "unitId": 81424149,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "149. ÜNİTE: TİYATRO - DOĞAÇLAMA",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.1.3.1",
+      "title": "Hayal gücü ve gözlem yeteneğini geliştirir",
+      "processComponents": [
+        "Herhangi bir materyal kullanmadan ve belirlenmiş bir materyal yardımıyla bir durumu zihinde biçimlendirme çalışmalarının yapılması sağlanır."
+      ]
+    },
+    {
+      "code": "SSA.1.3.2",
+      "title": "Duygularını önemser",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.3.3",
+      "title": "Doğaçlama tekniğini kullanarak öyküleme çalışmaları tasarlar",
+      "processComponents": [
+        "Zamanı, mekânı ve materyalleri verimli kullanarak öykü kurgulaması yapar."
+      ]
+    },
+    {
+      "code": "SSA.1.3.4",
+      "title": "Kişisel özelliklerini ayırt eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

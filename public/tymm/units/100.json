@@ -1,0 +1,90 @@
+{
+  "unitId": 100,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "1. ÜNİTE: KUVVET VE HAREKET",
+  "hours": "14",
+  "description": "Bu ünitede öğrencilerin yatay doğrultuda sabit hızlı ve sabit ivmeli hareketi açıklamaları, ivme ve hız değişimi arasındaki ilişkiyi yorumlamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.10.1.1",
+      "title": "Yatay doğrultuda sabit hızlı hareket ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Yatay doğrultuda sabit hızlı hareket eden cisimlerin konum, yer değiştirme, hız ve zaman değişkenlerine yönelik gözlemler yapar.",
+        "b) Yatay doğrultuda sabit hızlı hareket eden cisimlerin hareket grafiklerinden yararlanarak hız, sürat, yer değiştirme ve alınan yol değişkenlerinin matematiksel modelini bulur.",
+        "c) Yatay doğrultuda sabit hızlı hareket eden cisimlerin hız, sürat, yer değiştirme ve alınan yol değişkenlerine ilişkin matematiksel modelleri geneller."
+      ]
+    },
+    {
+      "code": "FİZ.10.1.2",
+      "title": "İvme ve hız değişimi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) İvme ve hız değişimi arasındaki ilişkiyi keşfeder.",
+        "b) İvme ve hız değişimi arasındaki ilişkiyi geneller."
+      ]
+    },
+    {
+      "code": "FİZ.10.1.3",
+      "title": "Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareket grafiklerinden elde edilen matematiksel modelleri yorumlayabilme",
+      "processComponents": [
+        "a) Yatay doğrultuda sabit ivmeli hareket grafiklerini inceler.",
+        "b) Yatay doğrultuda sabit ivmeli hareket grafiklerini birbirine dönüştürerek matematiksel modellere ulaşır.",
+        "c) Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareketine ilişkin grafikleri ve matematiksel modeller arasındaki ilişkiyi kendi cümleleriyle yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [
+    "Öğrencilere sabit hızlı hareketin temel kavramlarına yönelik görsel ve işitsel simülasyonlar, interaktif animasyonlar ve basit deneyler sunulabilir. Bir hareketlinin konumu, hızı ve ivmesi ile ilgili soruların bulunduğu bilgi kartları verilebilir. Kartlardaki sorularda bildiği nicelikleri ve nicelikler arasındaki ilişkiyi ifade etmesi istenebilir. Günlük hayat örneklerine yönelik grafikler üzerinden bir tartışma ve grafik okuma alıştırması yapılabilir."
+  ],
+  "enrichment": [
+    "Sabit hızda hareket eden birden fazla hareketlinin hız ve konumlarının karşılaştırılması ele alınabilir. Bu karşılaştırmalarda birden fazla sabit hızla hareket eden cisimlerin konum– zaman tabloları verilerek her birine yönelik konum-zaman grafikleri çizmeleri istenebilir. Farklı hız değişimlerine yönelik verilen veri setlerindeki iddialardan seçim yapmaları, bu iddiaları grafik ve matematiksel model yardımıyla kanıt sunarak savunmaları istenebilir.",
+    "*Sabit hızla hareket eden cisimlere ait yalnızca konum–zaman grafikleri verilerek grafiklere uygun gerçek yaşam senaryoları üretmeleri istenebilir. Bu grafiklerin bazı bölümleri eksik bırakılarak öğrencilerden mantıksal çıkarım yoluyla bu bölümleri tamamlamaları ve elde ettikleri grafiklere dayanarak hareketlilerin hızlarını hesaplamaları istenebilir. Sabit ivmeli hareketle ilgili olarak verilen tek bir hız–zaman grafiğine uygun en az üç farklı gerçek yaşam senaryosu yazmaları, her senaryo için konum–zaman ve ivme–zaman grafiği çizmeleri istenebilir.",
+    "*Sabit hızlı harekete ilişkin karmaşık açıklamalar verilerek öğrencilerden her açıklamayı doğru–yanlış şeklinde sınıflandırmaları ve yanlış olanları uygun grafiklerle gerekçelendirerek düzeltmeleri istenebilir. Sabit ivmeli hareketle ilgili olarak ivmenin pozitif ve negatif durumlarını gösteren bir videodaki cismin hareketini konum-zaman, hız-zaman ve ivme-zaman grafikleri kullanarak açıklamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, çıkış kartı, bilgi görseli, poster ve kısa rapor kullanılarak değerlendirilebilir.",
+    "Yatay doğrultuda sabit hızlı harekete yönelik konum, yer değiştirme, hız ve zaman hesaplamaları için açık uçlu maddelerden oluşan bir çalışma yaprağı verilebilir. Çalışma yaprağı dereceli puanlama anahtarıyla değerlendirilebilir. Öğrencilere ivme ve hız değişimi arasındaki hesaplamalar ve bunların yorumları hakkında bir çıkış kartı verilebilir. Çıkış kartı dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenciler grafik çizimi, grafik dönüşümü, grafikten değer bulma ve matematiksel hesaplamaları içeren bir bilgi görseli hazırlayarak sunabilir. Bilgi görsellerinin ve sunumların değerlendirilmesinde dereceli puanlama anahtarı, öz değerlendirme ve akran değerlendirme formlarından biri kullanılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.10.1.1",
+    "Öğrenciler yatay doğrultuda sabit hızlı hareket eden araçların görüntülerini izleyerek hız, zaman, konum ve yer değiştirme değişkenlerini tartışabilir. Öğretmen, öğrencilerden yatay doğrultuda sabit hızlı hareket eden cisimlerin konum, yer değiştirme, hız ve zaman değişkenlerini gözlemleyip veri toplayabilecekleri bir deney tasarlamalarını ya da simülasyon veya animasyon kullanmalarını ister. Öğrenciler, öğretmen rehberliğinde gruplar oluşturarak ( SDB2.1 ) tasarladıkları deneyi ( SDB1.2 ) gerçekleştirir veya dijital içeriklerden yararlanarak konum, yer değiştirme, hız ve zaman değişkenleriyle ilgili tekrarlanan ( D12.3 , E1.3 ) sistematik ( E3.7 ) ölçümler yapar ve verileri kaydederek hız-zaman ve konum-zaman grafiklerini çizer. Öğretmen soru cevap tekniğini kullanarak öğrencilerin grafiklerin altında kalan alan ve eğim hesaplamalarına odaklanmasını ( E3.2 ) , dbuldukları sonuçlarla ilgili çıkarım yapmasını sağlar ( KB2.10 ) . Öğrenciler arkadaşlarıyla tartışarak ( SDB2.2 ) grafikler üzerinden ( OB7 ) matematiksel modellere ulaşır. Matematiksel modelleri ve grafik bilgisini kullanarak yatay doğrultuda sabit hızla hareket eden cisimler için konum, yer değiştirme, hız ve zaman değişkenlerine ilişkin genellemeler yapar. Öğrenciler deney sürecinin basamaklarındaki işlem süreçleri hakkında bir çalışma yaprağı ile değerlendirilebilir.",
+    "FİZ.10.1.2",
+    "Öğretmen, yatay doğrultuda sabit ivmeli hareket yaparak farklı yönlerde hızlanan ve yavaşlayan farklı cisimlerin hız ve zaman değerlerini hazır veri seti olarak verebilir. Öğrencilere ivme kavramına ilişkin ön bilgi hatırlatılarak öğrencilerin ivme ve hız değişimi arasında ilişki kurmaları sağlanır ( SDB1.1 ) . Öğrenciler farklı hız değişimi durumlarına ilişkin ivmenin yönü ve büyüklüğü hakkında iddialar ortaya koyar ve bu iddiaları sınıf arkadaşları ile tartışır ( E3.5 ) . Kendi gözlemlerini ifade eder ( SDB2.1 ) ve karşıt görüşlere açık davranırlar. Tartışma sürecinde öğrencilerden iddialarını veriye dayalı olarak desteklemeleri ( OB7 ) , varsa akranlarının karşıt iddialarını saygı çerçevesinde çürütmeleri ( D3.3 , SDB2.3 ) istenir ( KB2.12 ) . Sınıftaki öğrenciler, tartışma sürecinin sonunda akranlarıyla uyumlu olarak ivme ve hız değişimi arasındaki ilişkiyi keşfeder ve geneller. Öğrencilere ivme ve hız değişimi arasındaki hesaplamalar ve yorumları hakkında bir çıkış kartı verilebilir.",
+    "FİZ.10.1.3",
+    "Öğretmen günlük hayattan örnekler vererek otomobillerin sık durup hareket etmesini ve hızlarının ani biçimde değişmesini ivmeli hareket kavramı ile ilişkilendirebilir. Öğrencilerden topluma olumlu katkıda bulunmak için fazla yakıt sarfiyatının sonuçlarını ve bunu önleme yollarını tartışmaları istenir ( D5.2 , D17.2 , SDB2.3 ) . Öğrenciler öğretmen rehberliğinde gruplara ayrılır ve gruplar takım çalışmasıyla ( SDB2.2 ) simülasyon kullanarak ya da öğretmen tarafından verilen hazır veri setinden faydalanarak yatay doğrultuda sabit ivmeyle hareket eden cisimler için konum-zaman, hız-zaman ve ivme-zaman grafiklerini çizer ve inceler ( OB7 ) . Konum-zaman, hız-zaman ve ivme-zaman grafiklerini birbirine dönüştürerek ( OB4 ) ve hız değişimi ile yer değiştirme hesaplamaları yaparak matematiksel modellere ulaşır ( E3.4 ) . Öğretmen soru cevap tekniğini kullanarak öğrencilerin grafik değerleri ve matematiksel modeller arasındaki ilişkiyi kendi cümleleri ile ifade etmesini ( E3.1 ) sağlar. ÖÖğretmen; öğrencilerden grafik çizimi, grafik dönüşümü, grafikten değer bulma ve matematiksel hesaplamaları içeren bir bilgi görseli hazırlayarak sunmalarını isteyebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D17.2",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.3",
+      "E3.1",
+      "E3.2",
+      "E3.4",
+      "E3.5",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.12"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/100"
+}

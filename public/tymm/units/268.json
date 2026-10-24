@@ -1,0 +1,126 @@
+{
+  "unitId": 268,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "2. ÜNİTE: ENERJİ",
+  "hours": "36",
+  "description": "Bu ünitede öğrencilerin yay sabitini tanımlamaları, Hooke Yasası'nı incelemeleri, esneklik potansiyel enerjisinin matematiksel modeli hakkında akıl yürütmeleri, sürtünme kuvvetinin yaptığı işi bulmaları, enerjinin bir türden başka bir türe dönüşerek korunduğu çıkarımını yapmaları, mekanik sistemlerin verimi ile ilgili değişkenler arasındaki orantısal ilişkiye yönelik akıl yürütmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.12.2.1",
+      "title": "Yay sabitini tanımlamak için deney yapabilme",
+      "processComponents": [
+        "a) Farklı yaylardaki kuvvet ve uzanım değişkenlerine göre yay sabitini bulabileceği bir deney tasarlar.",
+        "b) Farklı yaylar için kuvvet ve uzanım grafiklerini oluşturarak analiz eder."
+      ]
+    },
+    {
+      "code": "FİZ.12.2.2",
+      "title": "Yay sabitinin matematiksel modeline ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Yay sabitine ilişkin kuvvet ile uzanım değişkenleri arasındaki örüntüyü matematiksel olarak modeller.",
+        "b) Yay sabitine ilişkin oluşturulan matematiksel model üzerinden genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.12.2.3",
+      "title": "Yayın esneklik potansiyel enerjisinin matematiksel modeline ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Kuvvet-uzanım grafiğinden yararlanarak yayın esneklik potansiyel enerjisinin matematiksel modeline ulaşır.",
+        "b) Farklı veri setleri ile hesaplamalar yaparak yayın esneklik potansiyel enerjisinin matematiksel modelini geneller."
+      ]
+    },
+    {
+      "code": "FİZ.12.2.4",
+      "title": "Sürtünme kuvvetinin yaptığı işe yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Sürtünme kuvvetinin yaptığı iş ile ilgili gözlem yapar.",
+        "b) Sürtünme kuvvetinin yaptığı işi matematiksel olarak modeller.",
+        "c) Sürtünme kuvvetinin yaptığı işi matematiksel modelden yararlanarak geneller."
+      ]
+    },
+    {
+      "code": "FİZ.12.2.5",
+      "title": "Enerjinin dönüşümü ve korunumuna ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Enerjinin dönüşümü ve korunumuna ilişkin özellikleri tanımlar.",
+        "b) Enerjinin dönüşümü ve korunumuna ilişkin veri toplayarak kaydeder.",
+        "c) Enerjinin korunumunu matematiksel modelleri kullanarak yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.12.2.6",
+      "title": "Mekanik sistemlerin verimi ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Mekanik sistemlerin verimi ile ilgili değişkenleri sistemden alınan enerji, sisteme verilen enerji olarak belirler.",
+        "b) Mekanik sistemlerin verimi ile ilgili değişkenlerin arasındaki ilişkiyi belirler.",
+        "c) Mekanik sistemlerin verimi ile ilgili hesaplamalar yaparak değişkenler arasındaki ilişkiyi geneller."
+      ]
+    }
+  ],
+  "keyConcepts": "yay sabiti, uzanım, yayın esneklik potansiyel enerjisi, sürtünme kuvvetinin yaptığı iş, enerjinin korunumu, verim",
+  "support": [
+    "Öğrencilerin yay sabitini incelediği deneyler yerine hazır veri setleri üzerinden analizler yapılabilir. Poster tasarımı, grup çalışmaları akran veya öğretmen rehberliğinde yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin yay sabitini incelediği deneyler yayların seri, paralel ve karışık bağlanması ile genişletilebilir. Birden fazla yaydan oluşan sistemde esneklik potansiyel enerjisi hesaplanabilir. Günümüzde sürtünme kuvveti ile ilgili çalışan Türk bilim insanları ve bunların çalışmaları araştırılarak rapor hazırlanabilir. Öğrencilerden enerji verimliliği ve eko-verimlilik ile ilgili ulusal ve uluslararası alanda yapılan çalışmalara yönelik araştırma raporu hazırlamaları istenebilir. Devridaim makineleri ile ilgili bir panel düzenlenebilir.",
+    "*Elektrikli araçlar ile benzinli araçların enerji verimliliğinin karşılaştırıldığı bir görsel tasarım ürünü hazırlanarak sergilenebilir.",
+    "*Öğrenciler enerji dönüşüm sistemleri ile ilgili dijital ortamda animasyon ya da simülasyon tasarlayıp arkadaşlarına sunabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; model tasarlama, test (açık uçlu, kısa cevaplı eşleştirme maddeleri), poster sunumu, çalışma yaprağı ve performans görevi kullanılarak değerlendirilebilir.",
+    "Testlerin değerlendirilmesi puanlama anahtarı ile yapılabilir. STEM döngüsü çerçevesinde esneklik potansiyel enerjisini kullanarak hareket eden araba, gemi gibi bir model tasarlanabilir. Model örnekleri dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test verilebilir. Kışlık ve yazlık lastiklerin mevsimlere göre kullanımlarına ilişkin bireysel poster sunumu hazırlanabilir. Sınıf içerisinde yapılan poster sunumlar öğretmen tarafından kontrol listesi ile değerlendirilebilir. Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test kullanılabilir. Öğretmen enerji dönüşümleri ile ilgili farklı soru tiplerinden oluşan bir çalışma yaprağı ile öğrencileri değerlendirebilir. Öğrenciler verim konusu ile ilgili yaptıkları tasarımları akran değerlendirme formu ile değerlendirip en verimli sistemi seçerek tasarımlarını okulda sergileyebilir. Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.12.2.1",
+    "Öğretmen öğrencilere bisiklet, motosiklet, araba gibi araçların amortisörleri ile kalem, kapı kolu, zımba gibi aletlerin görsellerini göstererek günlük hayatta farklı yaylara ihtiyaç duyulmasının nedenleri üzerine sorular sorar ( OB4 ) . Probleme dayalı öğrenme, beyin fırtınası, tartışma ya da soru cevap gibi öğretim yöntem veya tekniklerinden birini kullanarak öğrencilerin etkileşim ( SDB2.1 ) kurmasını sağlar. Görsellerle ilgili merak ettiği soruları sormaları noktasında öğrencileri teşvik eder ( E3.8 ) . Öğretmen farklı sertlikteki yayların karşılaştırılabileceği araçlar ve aletler ile ilgili problem durumu içeren bir senaryoyu öğrenciler ile paylaşabilir. Öğrenciler öğretmen rehberliğinde gruplara ayrılarak ( SDB2.2 ) belli bir süre içinde kuvvet, yayın sertliği ve yaydaki uzanım miktarı değişkenlerine yönelik arkadaşları ile fikir alışverişi yaparak senaryoya uygun bir problem cümlesi belirler. Öğrenciler grup üyeleriyle ortak görev bilinci içinde ( D16.3 ) , problem durumuna ilişkin kuvvet ve yaydaki uzanım miktarı değişkenlerini kullanarak yay sabitini bulabileceği bir deney tasarlar ( SDB1.2 ) . Hipotez kurar ve deney düzeneğini kullanarak veri toplar. Toplanan veriyi tablo ve grafikler yardımıyla analiz eder ( E3.6 , OB7 ) . Öğretmen farklı sertlik ve uzunlukta yaylar ile tasarlanabilecek deneyler ve kuvvet ile uzanım grafiklerinin analizlerini açık uçlu, kısa cevaplı, eşleştirmeli sorulardan oluşan test ile değerlendirebilir.",
+    "FİZ.12.2.2",
+    "Öğrenciler deney verilerini veya hazır veri setlerini analiz ederek kuvvet ile uzanım arasındaki örüntüyü bulur ve Hooke Yasası'nı matematiksel olarak modeller. Model üzerinden farklı verilerle hesaplamaları tekrar ederek genelleme yapar ( E1.3 ) . Öğretmen yay sabitine ilişkin matematiksel hesaplamalar için açık uçlu sorulardan oluşan test verebilir.",
+    "FİZ.12.2.3",
+    "Öğretmen, Türkiye'yi okçuluk dalında temsil eden Türk millî sporcularının okçuluk dalında şampiyon olduğu bir videoyu ( D13.2 , D19.2 ) izletir veya bu konuda görseller sunar. Öğrenciler beyin fırtınası ve soru cevap gibi tekniklerden birinin kullanıldığı ortamda video görüntülerinden veya görsellerden yola çıkarak bir yay ile oku en uzağa atabilmek için sistemde ne gibi değişiklikler yapılması gerektiği konusunda fikir yürütebilir. Öğrencilerden kurmalı oyuncaklarda kullanılan kurma mekanizmasının kurulma miktarının oyuncağın hareketinde oluşturacağı değişikliklere yönelik açıklama yapmaları istenebilir. Öğrenciler yayın uzama veya sıkışma miktarına etki eden değişkenleri belirleyebilmek için bir deney tasarlar ( SDB1.2 ) ya da simülasyondan faydalanır. Aynı yay üzerine farklı kuvvetler uygulanarak yayın boyunda meydana getirdiği değişimler hakkında veri toplayabilir. Deney veya simülasyondan elde ettiği verileri kullanarak kuvvet-uzanım grafiğini çizer ( OB7 ) . Öğrenciler Hooke Yasası'nı ve kuvvet-uzanım grafiğini kullanarak yayın esneklik potansiyel enerjisinin matematiksel modeline ulaşır ( KB2.10 ) . Farklı veri setleri ile hesaplamalar yaparak esneklik potansiyel enerjisi ile ilgili matematiksel modeli geneller. Öğrenciler performans görevi olarak bireysel ya da ikili gruplar hâlinde iş birliği içerisinde ( SDB2.2 ) STEM döngüsü çerçevesinde esneklik potansiyel enerjisini kullanarak hareket eden araba veya gemi gibi bir model tasarlar ( D3.3 , SDB1.2 ) . Öğrencilerden bu mekanizmayı hazırlama süreci ile ilgili öz değerlendirme formları doldurmaları ve kendi öğrenme durumlarını geliştirmeye yönelik görüşlerini paylaşmaları istenebilir ( SDB1.3 ) . Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test verilebilir.",
+    "FİZ.12.2.4",
+    "Tahmin et-gözle-açıkla yöntemi kullanılarak öğrencilerden aynı yolda giden araçların frene basıldığında durma mesafelerini etkileyen etmenler konusunda tahmin yürütmeleri istenebilir. Öğrenciler mevcut bilgilerinden yola çıkarak düşüncelerini ifade edebilir. Öğrencilerin, tahta blok gibi bir cismin yatay zeminde farklı ilk hızlarla ilerlerken aldığı yolları gözlemlemesi sağlanabilir. Öğrenciler cismin kinetik enerji değişimi hakkında beyin fırtınası yapabilir. Cismin durma nedeni ile ilgili benzer örnekler vererek düşüncelerini birbirleriyle paylaşabilir ( D15.1 , SDB2.1 ) . Simülasyon veya animasyon yardımıyla sürtünme kuvvetinin yaptığı işi gözlemler ( KB2.11 ) . Gözlemleri sonucunda cisimlerin kinetik enerjileri ile sürtünme kuvvetinin yaptığı iş arasında ilişki kurar ve bu işi matematiksel olarak modeller. Hazır veri setlerini kullanarak sürtünme kuvvetinin yaptığı işi matematiksel modelden yararlanarak geneller ( OB7 ) . Sürtünme kuvvetinin yaptığı işin azaltılmasına yönelik araştırma yaparak bireysel poster sunumu hazırlayabilir. Bu poster sunumunda günlük hayatta tasarruf ( D17.2 ) sağlanmasının sürdürülebilirlik bilinci kazan dırılması ( OB8 ) açısından önemine vurgu yapılması istenir. Matematiksel hesaplamalar için açık uçlu maddelerden oluşan test kullanılabilir.",
+    "FİZ.12.2.5",
+    "Öğretmen örnek olay, grup çalışması, küçük grupla tartışma gibi yöntem ve tekniklerden birini kullanabilir. Öğrenciler sürtünmenin ihmal edildiği ve edilmediği bir eğik düzlemin tepesinden bırakılan cismin aşağı kayarken enerjisinin dönüşümü ve korunumu hakkında tartışır ( SDB2.2 ) . Tartışma sonucunda öğrenciler enerji dönüşümünün özelliklerini tanımlar. Enerji dönüşümleri, güneş enerji sistemleri ve elektrikli arabalar üzerinden örneklendirilir. Elektrik enerjisinin diğer enerji biçimlerine dönüşümü, elektrik enerjisiyle çalışan ısıtıcılar gibi örnekler üzerinden açıklanabilir. Öğrenciler enerjinin bir türden başka bir türe dönüşümü ile ilgili simülasyondan veya animasyondan faydalanarak enerjinin korunumuna yönelik veri toplar ve kaydeder. Öğrenciler, ön bilgilerinden faydalanıp simülasyona veya animasyona odaklanarak ( E3.2 ) enerjinin dönüşümünü gözlemler ve günlük hayattaki bir problemle ilişkili bir olay üzerinden enerji dönüşümü hakkında gerekçeli yargıda ( E1.6 , SDB3.3 ) bulunur. Enerjinin korunumunu matematiksel modeller kullanarak yorumlar ve değerlendirir ( OB7 ) . Öğretmen enerji dönüşümleri ile ilgili farklı soru tiplerinden oluşan bir çalışma yaprağı ile öğrencileri değerlendirebilir.",
+    "FİZ.12.2.6",
+    "Öğretmen 5E öğrenme modeli, örnek olay, problem çözme gibi yöntem veya stratejilerinin birinden yararlanarak Fatih Sultan Mehmet'in İstanbul'u fethi sırasında gemileri Haliç'e indirmek için kullandığı yöntemleri içeren görseller sunar veya bu konuda hazırlanan bilgi kartları verir ( D19.2 , OB4 ) . Günlük hayatta çeşitli mekanik sistemlerin verimini artırmak için uygulanan yöntemlerle ilgili fotoğraf veya videolar gibi görseller üzerinden örnekler verebilir. Öğrenciler benzer örnekler vererek mekanik sistemlerin verimini etkileyen değişkenleri sistemden alınan enerji, sisteme verilen enerji olarak belirler. Öğrenciler, öğretmen rehberliğinde gruplara ayrılıp bir cismi yüksek bir yere çıkarmak için basit makinelerin kullanıldığı verimli bir düzenek tasarlar ( SDB1.2 ) . Tasarımlarında verimi artırmak için kullandıkları yöntemleri gerekçelendirerek ( E1.6 ) açıklar. Tasarımlarından yola çıkarak mekanik sistemlerin verimi ile ilgili değişkenler arasındaki orantısal ilişkiyi belirler ( KB2.4 ) . Tasarımının ve farklı sistemlerin verimini hesaplayarak genelleme yapar. Öğrenciler verim konusu ile ilgili yaptıkları tasarımları akran değerlendirme formu ile tarafsız davranarak değerlendirip ( D1.3 , D6.2 ) en verimli sistemi seçer veya tasarımlarını okulda sergiler. Öğretmen matematiksel he saplamalar için açık uçlu maddelerden oluşan test kullanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.3",
+      "D13.2",
+      "D15.1",
+      "D16.3",
+      "D17.2",
+      "D19.2",
+      "D3.3",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.3",
+      "E1.6",
+      "E3.2",
+      "E3.6",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.11",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/268"
+}

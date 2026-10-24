@@ -1,0 +1,33 @@
+{
+  "unitId": 81424143,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "143. ÜNİTE: AHŞAP OYMACILIĞI - AHŞAP OYMACILIĞINDA KULLANILAN TERİMLER VE MALZEMELER",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.6.2.1",
+      "title": "Ahşap oymacılığında kullanılacak terimleri ayırt eder",
+      "processComponents": [
+        "Kakma, boyama, kündekâri, kabartma-oyma, kafes, kaplama ve yakma teknikleri açıklanır."
+      ]
+    },
+    {
+      "code": "GTSA.6.2.2",
+      "title": "Ahşap oymacılığında kullanılan malzemeleri ifade eder",
+      "processComponents": [
+        "Ahşap oymacılığında kullanılan abanoz, sedir, armut, gül ve ceviz ağaçlarının özellikleri açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

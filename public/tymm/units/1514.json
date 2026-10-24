@@ -1,0 +1,50 @@
+{
+  "unitId": 1514,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Yapay Zekâ Uygulamaları Dersi",
+  "title": "DÜZEY I · 1. Tema: Hayatımızda Yapay Zekâ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "YZU1.1.1",
+      "title": "Yapay zekâya ilişkin temel kavramları sorgulayabilme",
+      "processComponents": [
+        "a) Yapay zekâya ilişkin temel kavramları tanımlar.",
+        "b) Yapay zekâya ilişkin temel kavramlar ile ilgili sorular sorar.",
+        "c) Yapay zekâya ilişkin temel kavramlar ile ilgili bilgi toplar.",
+        "ç) Yapay zekâya ilişkin temel kavramlar ile ilgili toplanan bilgilerin doğruluğunu değerlendirir.",
+        "d) Toplanan bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "YZU1.1.2",
+      "title": "Yapay zekânın uygulamalarını sınıflandırabilme",
+      "processComponents": [
+        "a) Yapay zekâ uygulamalarını belirler.",
+        "b) Yapay zekâ uygulamalarının çalışma sistemi bileşenlerini ilişkilendirir.",
+        "c) Yapay zekâ uygulamalarını alt boyutlara göre gruplandırır."
+      ]
+    },
+    {
+      "code": "YZU1.1.3",
+      "title": "Yapay zekâya ilişkin etik ve güvenlik-mahremiyet önlemlerini yönetebilme",
+      "processComponents": [
+        "a) Yapay zekâda etik ve güvenlik/mahremiyet risklerini belirler.",
+        "b) Yapay zekâda etik ve güvenlik/mahremiyet önlemlerini belirler.",
+        "c) Yapay zekâda etik ilkelerin ve bilgi güvenliğinin/mahremiyetinin temel bileşenlerini ayırt eder.",
+        "ç) Yapay zekâ uygulamalarını etik ilkeler ile güvenlik/mahremiyet açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "akıllı sistemler, etik, güvenlik, mahremiyet, nesnelerin interneti, sensör, veri, yapay zekâ",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB1. Bilişim Teknolojilerini Kullanma (BTYAB1.1. Bilişim Teknolojilerini Sınıflandırma), BTYAB6. Dijital Güvenlik Önlemleri Alma (BTYAB6.1. Dijital Güvenlik Önlemlerini Yönetme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1514"
+}

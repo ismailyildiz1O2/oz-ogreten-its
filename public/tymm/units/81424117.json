@@ -1,0 +1,40 @@
+{
+  "unitId": 81424117,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "117. ÜNİTE: TEZHİP - TEZHİP SANATININ TANIMI VE GELİŞİMİ",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.2.1.1",
+      "title": "Tezhip sanatı ve tarihçesi hakkında çıkarımda bulunur",
+      "processComponents": [
+        "Tezhibin Hüsnühat niteliğindeki yazıların, el yazması kitapların (Kur'an'lar, murakkalar, kıt'alar, divanlar) başlık sahifeleri ve diğer yerlerine çeşitli desen ve motiflerle yapılan süslemeler olduğu gösterilerek açıklanır."
+      ]
+    },
+    {
+      "code": "GTSA.2.1.2",
+      "title": "İslam kültüründe tezhibin yerini ve önemini açıklar",
+      "processComponents": [
+        "İslam kültüründe tezhibin yerini ve önemini açıklar. Tezhip sanatının Türklerin Orta Asya'da tarih sahnesine çıktığı devre kadar uzandığı, İslam sanatında geliştiği ve şekillendiği, Osmanlı Dönem'inde desenlerin işçiliğinin arttığı, bordürlerin çeşitlendiği, tığlar ve stitilize motiflerin çok çeşitlendiği gösterilerek açıklanır."
+      ]
+    },
+    {
+      "code": "GTSA.2.1.3",
+      "title": "Sanatta tezhibin yerini ve önemini açıklar",
+      "processComponents": [
+        "Sanatta tezhibin yerini ve önemini açıklar. Tezhip sanatında kullanılan motifler, desenler ve sitilize karakterlerin sanatsal değerlendirmeleri yapılarak Ahmed b. Hacı Mahmud Aksarayî , Mehmed b. İlyas, Mehmet Karamemi, Hasan Çelebi, Yusuf Mısrî, Haydarpaşalı İbrahim, Ali Üsküdarî, Bursalı Hezarfen gibi sanatçıların eserlerinden örnekler verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

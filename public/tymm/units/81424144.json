@@ -1,0 +1,38 @@
+{
+  "unitId": 81424144,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "144. ÜNİTE: AHŞAP OYMACILIĞI - AHŞAP OYMACILIĞINDA GÜVENLİK ÖNLEMLERİ",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.6.3.1",
+      "title": "Çalışmaya başlamadan önce güvenlik önlemlerini alır",
+      "processComponents": [
+        "Güvenlik önlemleri açıklanır."
+      ]
+    },
+    {
+      "code": "GTSA.6.3.2",
+      "title": "Ahşap oyma yapacağı tezgâh veya masayı çalışmaya uygun hazırlar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.6.3.3",
+      "title": "Malzemeleri doğru kullanır",
+      "processComponents": [
+        "Oymacılıkta kullanılan kesici aletlerin güvenli kullanımı gösterilerek açıklanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

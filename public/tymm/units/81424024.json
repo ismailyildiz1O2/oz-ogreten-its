@@ -1,0 +1,44 @@
+{
+  "unitId": 81424024,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "24. ÜNİTE: FLÜT - İKİ DEĞİŞTİRİCİ İŞARET ALAN TONAL DİZİLER",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.3.9.1",
+      "title": "Re majör tonunda dizi ve arpej çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.9.2",
+      "title": "Si minör tonunda dizi ve arpej çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.9.3",
+      "title": "Si bemol majör tonunda dizi ve arpej çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.9.4",
+      "title": "Sol minör tonunda dizi ve arpej çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.3.9.5",
+      "title": "Flütte öğrendiği tüm seslerle ilgili etüt ve eser çalışmalarını uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

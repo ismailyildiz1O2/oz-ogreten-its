@@ -1,0 +1,36 @@
+{
+  "unitId": 81404085,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "85. ÜNİTE: HENTBOLDA ATIŞ TEKNİKLERİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TS.3.7.1",
+      "title": "Hentbolda atış tekniklerini açıklar",
+      "processComponents": [
+        "Yüksek temel atış tekniği üzerinde durulur.",
+        "Kalça yüksekliğinde temel atış tekniği üzerinde durulur.",
+        "Alçak temel atış tekniği üzerinde durulur.",
+        "Sıçrayarak temel atış tekniği üzerinde durulur.",
+        "Düşerek atış tekniği üzerinde durulur.",
+        "TİP atış tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TS.3.7.2",
+      "title": "Hentbolda atış tekniklerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

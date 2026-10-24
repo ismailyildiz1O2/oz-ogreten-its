@@ -1,0 +1,88 @@
+{
+  "unitId": 93,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "5. ÜNİTE: HAYATIN ANLAMI",
+  "hours": "12",
+  "description": "Bu ünitede öğrencilerin hayatın anlamına yönelik felsefi soru ve problemleri anlamlandırması, felsefi düşünce ortaya koyabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.11.5.1",
+      "title": "Hayatın anlamına ilişkin felsefi soru ve problemleri anlayabilme",
+      "processComponents": [
+        "a) Hayatın anlamına ilişkin felsefi soru ve problemleri açıklar.",
+        "b) Hayatın anlamına ilişkin felsefi soru ve problemleri hayatıyla ilişkilendirerek değerlendirir."
+      ]
+    },
+    {
+      "code": "FEL.11.5.2",
+      "title": "Hayatın anlamına ilişkin felsefi düşünce ortaya koyabilme",
+      "processComponents": [
+        "a) Hayatın anlamına ilişkin felsefi argümanları çözümler.",
+        "b) Hayatın anlamına ilişkin felsefi görüş ve argüman oluşturur.",
+        "c) Hayatın anlamına ilişkin felsefi metin yazar."
+      ]
+    }
+  ],
+  "keyConcepts": "kaygı, kendi olma, mutluluk, ölüm, saçma, umutsuzluk, varoluş, yabancılaşma",
+  "support": [
+    "Hayatın anlamına yönelik problemini çözümleme, görüş ve argüman oluşturma sürecinde akran destekli öğrenmeden faydalanılabilir.",
+    "Hayatın anlamına ilişkin varoluş ve kendi olma problemlerinin çözümlenmesinde sadeleştirilmiş metinler verilebilir.",
+    "Felsefi metin yazma sürecinde iş birliğine dayalı öğrenme yöntemlerinden yararlanılabilir."
+  ],
+  "enrichment": [
+    "Gülşehrî'nin Mantıku't Tayr adlı eserinden yola çıkarak insanın anlam arayışı üzerine görüş geliştirilebilir.",
+    "İnsanın kendini gerçekleştirebilmesine ilişkin düşünceler, F. Nietzsche'nin Böyle Buyurdu Zerdüşt adlı eserindeki \"Üç Dönüşüm Üstüne\" bölümü çerçevesinde değerlendirilebilir.",
+    "* Sosyal medya paylaşımlarını ve sosyal medyada var olmayı \"görünüyorum o hâlde varım\" mottosu çerçevesinde tartışmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu ünitenin öğrenme çıktıları; öz veya akran değerlendirme formu, çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrencilerden hayatın anlamına yönelik örnek olayların veya metaforların yer aldığı bir metin yazmaları istenebilir. Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.11.5.1",
+    "Öğrencilerin hayatın anlamına ilişkin felsefi soru ve problemleri anlamaları amaçlanır. Bunun için;",
+    "• Hayatın anlamına yönelik çeşitli materyaller (video, belgesel, film kesiti vb.) verilerek öğrencilerden, bu materyallerin kendilerinde uyandırdığı duygu ve düşünceleri ifade etmeleri istenir. İş birlikli olarak öğrencilerin verilen materyalleri hayatın anlamına ilişkin felsefi sorularla (Mutlu olmak, iyi bir hayat sürmek için yeterli midir? Hayatın anlamı nedir? Hayatın bir amacı var mıdır? Ben kimim?) ilişkilendirmesi sağlanır ( SDB2.2 ). Bu aşamada öğrencilerden yeni sorular eklemeleri istenir.",
+    "• Hayatın anlamı, amacı ve öneminin sorgulanmasını sağlayacak nitelikte örnek kısa hikâye veya olaylar verilerek öğrencilerden, bu metinlerdeki karakterlerle empati kurmaları ve karakterlerin yaşadıkları durum karşısında \"Ben olsaydım ne hissederdim, neyi sorgulardım?\" gibi sorular üzerinden görüşlerini paylaşmaları istenir ( E2.1 ). Felsefi problemlerin (mutluluk ve hayat ilişkisi, varoluş ve kendi olma) kısaca açıklandığı bilgi görselleri verilerek öğrencilerin, paylaştıkları görüşleri ile bu problemleri ilişkilenidirmeleri sağlanır. Sürecin sonunda yaşadığı bir olay, izlediği bir film, dinlediği bir şarkı, okuduğu bir hikâye veya romandan hareketle öğrencilerden hayatın anlamına ilişkin problemlerin kendi hayatlarına olan yansımaları hakkında kısa bir metin yazmaları istenir ( E3.3 ). Bu aşamada öğrencilerden etkilendiği içsel ve dışsal etmenleri fark edip, olumlu bakış açısına sahip olarak süreci doğru yönetmeleri beklenir ( D12.1 ). Süreç öz veya akran değerlendirme formu ile değerlendirilebilir.",
+    "FEL.11.5.2",
+    "Öğrencilerin hayatın anlamına ilişkin felsefi düşünce ortaya koymaları amaçlanır. Bunun için;",
+    "• Hayatın anlamına ilişkin \"mutluluk ve hayat ilişkisi\" problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada hayatın anlamını konu edinen bazı filozofların (Kung-Fu-Tzu, Sokrates, Epiktetos, Augustinus, Farabi, İbn Miskeyevh, Yûsuf Has Hâcip, A. Schopenhauer) görüşlerinin yer aldığı yapılandırılmış metinlere yer verilir. Öğrencilerin bu metinlerde geçen kavram ve argümanları çözümlemeleri sağlanır ( KB2.4 ). Ardından söz konusu filozofların erdem, haz, güç, irade, akıl ve acı kavramlarını nasıl ele aldıkları ile mutluluğa nasıl ulaşılacağı konusunda öğrencilerin, kendi görüş ve argümanlarını ifade etmeleri sağlanır ( E3.1 ). Bu aşamada öğrencilerden insanların zayıf ve güçlü yanlarının farkında olması ve bencil davranışlarından kaçınmasının önemini ifade etmeleri beklenir ( D10.3 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "• Hayatın anlamına ilişkin \"varoluş ve kendi olma\" problemine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada öğrencilere varoluşçuluğa kaynaklık eden gelişmeler (felsefi, toplumsal, bilim ve teknolojik, politik), varoluşçuluğun karakteristik özellikleri ve varoluşçuluğa yöneltilen eleştiriler hakkında bilgi görselleri verilir. Yönlendirici sorular (Hangi toplumsal veya bilimsel gelişmeler insanların varoluşsal kaygılarını artırmış olabilir? Günümüzde varoluşsal kaygıyı artıran etkenler var mı? Varoluşçuluğa göre insanın özünü ne oluşturur? Özgürce yapılan ve sorumluluğu alınan bir eylem insanı özüne ulaştırır mı? vb.) aracılığıyla öğrencilerin, ilgili bilgi görsellerini incelemeleri sağlanır ( E3.2 ).",
+    "• Varoluş ve kendi olma problemini konu edinen bazı filozofların (S. Kierkegaard, F. Nietzsche, M. Heidegger, A. Camus, J. P. Sartre) görüşlerine yönelik çalışma kâğıdı öğrencilere sunulur. Çalışmada söz konusu filozofların görüşlerinin yer aldığı yapılandırılmış metinler öğrencilere verilir. Metinlerde filozofların varoluş, umutsuzluk, kaygı, ölüm, yabancılaşma, yalnızlık,saçma gibi ele aldıkları temel kavramlar işlenir. Yönlendirici sorular aracılığıyla öğrencilerin, bu metinleri çözümleyerek filozofları kavramlara yükledikleri anlamları, görüş ve argümanlarının güçlü ve zayıf yanları ile benzer ve farklı taraflarını ifade etmeleri sağlanır ( KB2.4 , KB2.7 ). Ardından öğrencilerden varoluş ve kendi olma problemine yönelik görüş ve argüman oluşturmaları istenir ( E3.10 ). Süreçte öğrencilerin oluşturulan özgür düşünme ortamında düşüncelerini rahatça ifade edebilmeleri, anlamadıkları konular için birbirlerine sorular sormaları, kararlı bir şekilde düşüncelerini savunabilmeleri desteklenir; öğrenciler, farklı düşüncelere sahip olanlara nezaket ve anlayış göstermeleri konusunda yönlendirilir ( E1.3 , E3.8 , KB3.1 ). Öğrencilerin kişisel ve toplumsal hakları gözetmeleri beklenir ( D11.3 ).",
+    "Öğrencilere hayatın anlamına yönelik felsefi bir metin yazma performans görevi verilebilir. Öncelikle öğrencilerin hayatın anlamına ilişkin felsefi kavram, soru, düşünce ve argümanları doğru biçimde kullanmalarını desteklemek amacıyla öğrencilere görsel okuma, cümle ve paragraf tamamlama ile örnek felsefi paragrafları kendi cümleleriyle baştan yazma alıştırmaları yaptırılır ( OB1 , SDB1.2 ). Alıştırma çalışmasından sonra öğrencilerden hayatın anlamı hakkında çeşitli kaynaklardan (kitap, makale, dergi, rapor, gazete, istatistikler vb.) araştırma yapmaları ve elde ettikleri bilgilerdeki düşünce ve argümanları belirlemeleri istenir. Öğrencilerin felsefi bir metin yazmaları sağlanır ( E3.7 , KB3.3 ). Öğrenciler görev bilinci içinde planlı davranır ve felsefe literatürüne ilişkin farkındalık kazanır ( D3.2 , D16.3 ). Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D11.3",
+      "D12.1",
+      "D16.3",
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.3",
+      "E2.1",
+      "E3.1",
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.4",
+      "KB2.7",
+      "KB3.1",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/93"
+}

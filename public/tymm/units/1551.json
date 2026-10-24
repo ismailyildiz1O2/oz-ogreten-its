@@ -1,0 +1,73 @@
+{
+  "unitId": 1551,
+  "grade": 0,
+  "gradeName": "II. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY II · 2. Tema: Sağlık Ve Sporda Matematik",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.2.2.1",
+      "title": "Sıvı ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanlarıyla ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Sağlık ve spor alanlarında kullanılan sıvı ölçme birimleriyle ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.2.2",
+      "title": "Sağlıklı yaşam ile ilgili bilgilerini matematiksel veriler ve temsillerden yararlanarak günlük alışkanlıklarına yansıtabilme",
+      "processComponents": [
+        "a) Sağlıklı yaşama ilişkin deneyimlerini gözden geçirir.",
+        "b) Sağlıklı yaşama ilişkin deneyimlerine dayalı çıkarım yapar.",
+        "c) Ulaşılan çıkarımları değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.2.3",
+      "title": "Sağlık ve spor ile ilgili günlük hayattan yüzde problemlerine yönelik problemleri çözebilme",
+      "processComponents": [
+        "a) Sağlık ve sporla ilgili yüzde problemlerindeki sayı ve işlem bileşenlerini belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Matematik, sağlıklı yaşam ve sporla ilgili bilgilerin analiz edilip anlamlandırılarak kalıcı alışkanlıklara dönüştürülmesinde önemli bir araçtır. \n\n Anahtar Kavramlar \n\n litre, mililitre, yüzde",
+  "support": [
+    "Öğrencilere günlük spor yapma süreleriyle ilgili bir haftalık tablo verilerek tabloyu doldurmaları istenebilir.",
+    "Sağlıklı beslenme ve spor alanındaki yüzde problemlerinin çözüm aşamalarında, öğrenciler yapılan ek açıklamalarla desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin günlük öğünlerini kaydederek protein, karbohidrat ve yağ oranlarını belirlemeleri ve bu bilgilerini afiş, poster vb. olarak sunmaları istenebilir.",
+    "Bulunduğu yaş grubunun beslenme alışkanlıklarına ilişkin bir araştırma planlayıp görüşmeler yoluyla veri toplamaları ve bu verileri analiz ederek raporlaştırmaları istenebilir. Bulguları sağlıklı yaşam alışkanlıkları bağlamında yorumlamaları istenebilir.",
+    "Olimpiyatlardaki kısa, orta ve uzun mesafe koşu mesafelerini araştırarak bu mesafelerin cm, m ve km ölçme birimleri cinsinden dönüşümlerini yapmaları istenebilir. Bu dönüşümleri içeren problemler verilerek çözmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevleri, açık uçlu sorular, kontrol listesi vb. kullanılarak değerlendirilebilir.",
+    "Ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanları hakkında bilgi toplamaları ve ulaştıkları bilgileri afiş, poster vb. olarak sunmalarını içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede çeşitlilik sağlamak için öz değerlendirme, akran değerlendirme formları da kullanılabilir.",
+    "Öğrencilerin kendileri için bir haftalık sağlıklı yaşam planı oluşturup sunmalarını içeren performans görevi verilebilir. Bu performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.2.2.1.",
+    "Öğrencilere “Sağlık ve spor alanlarında sıvı ölçme birimlerini kullanmak neden önemlidir?” vb. sorular yöneltilerek görüşlerinin alındığı bir tartışma ortamı oluşturulur ( SDB2.1 ). Tartışma esnasında günlük hayatta karşılaşabilecekleri ilaç, kozmetik, sıvı gıda vb. ürünler üzerinden sıvı ölçme birimlerinin sağlık ve spor alanındaki kullanım alanlarına dikkat çekilir ( E1.1 ) . Öğrencilere sıvı ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanlarıyla ilgili bilgi toplamalarını ve ulaştıkları bilgileri poster, afiş, resim, rapor vb. olarak sunmalarını içeren performans görevi verilir ( SDB2.1 , OB4 ). Bu süreçte bireysel çalışma ya da grup olarak çalışmaları sağlanır ( SDB2.2 ). Performans görevi hazırlama sürecinde öğrencilerden sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 ). Öğrencilerden konuya ilişkin bilgi edinebilmeleri için güvenilir araçları (genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb.) belirlemeleri beklenir ( OB1 , OB2 ). Belirledikleri bilgi edinme yolları aracılığıyla ölçme birimlerinin sağlık ve spor alanlarındaki kullanım alanları hakkında bilgileri bulmaları beklenir. Öğrencilerden ulaştıkları bilgileri öğretmenlerinden, alan uzmanlarından, bilimsel kaynaklardan yararlanarak ya da arkadaşları ile tartışarak doğrulamaları beklenir ( E3.10 , OB1 ). Doğruladıkları bilgileri kaydedip poster, afiş, rapor vb. olarak düzenlemeleri ve sunmaları istenir ( SDB2.1 , OB1 , OB7 ). Bu süreçte öğrencilerden birbirlerini saygı çerçevesinde dinlemeleri, görüşlerini belirtirken empatik yaklaşmaları sağlanır ( SDB2.1 , D14.1 , E2.1 ). Elde edilen sonuçlara dayalı olarak öğrencilere geri bildirim verilir. Öğrencilerin hazırladıkları poster, afiş, resim, rapor vb. süreç bileşenlerinin yer aldığı performans kriterlerini barındıran analitik dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede çeşitlilik sağlamak için öz değerlendirme, akran değerlendirme formları da kullanılabilir. Öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir.",
+    "MBU.MU.2.2.2.",
+    "Öğrencilere “Dengeli beslenmek ve spor yapmak kendinizi nasıl hissetmenizi sağlar?”, “Sağlıklı bir yaşam sürebilmeniz için gece uykunuzun süresi ne kadar olmalıdır?” vb. sorular sorularak konuya ilişkin düşünmelerini ve fikirlerini açıklamalarını sağlayacak bir tartışma ortamı oluşturulur ( SDB2.1 ). Bu tartışmalarla öğrencilerin uyku, su tüketimi, bedensel aktivite, ekran süresi, beslenme, hijyen vb. konularına ilişkin farkındalıkları arttırılır. Ardından fen bilimleri dersiyle ilişki kurularak sağlıklı yaşam için bu kavramların önemi kısaca açıklanır. Sağlıklı yaşam konusunda dengeli öğünlerin ve fiziksel aktivitenin önemi vurgulanarak bu konuda farkındalık geliştirmeleri sağlanır ( D13.1 ). Bu süreçte “Bir bardak suyun kaç mililitre olduğunu biliyor musunuz?”, “İçmeniz gereken günlük su miktarını mililitre cinsinden nasıl hesaplayabilirsiniz?\", “Yarım saatlik bir yürüyüşün kaç dakika olduğunu hesaplayabilir misiniz?”, “Sağlıklı bir yaşam sürmek için günde kaç dakika yürümeliyiz?” vb. sorularla öğrencilerin sağlıklı yaşam ile ilgili bilgilerini matematiksel temsillerle ifade etmeleri sağlanır ( MAB3 ). Ardından öğrencilerin günlük hayatında bu kavramlara ilişkin (uyku süresi, su tüketimi, ekran süresi vb.) bir haftalık ortalama yaşam planlarını matematik temsillerden de faydalanarak yazmaları istenir. Ardından öğrencilerden bu deneyimlerini gözden geçirmeleri istenir ( SDB1.1 , D13.1 ). Öğrencilerin yaşam planlarını gözden geçirdikten sonra sağlıklı yaşam konusunda mevcut durumlarına ilişkin çıkarım yapmaları sağlanır. Öğrencilerden ulaştıkları çıkarımları sınıfla paylaşarak değerlendirmeleri istenir ( SDB2.1 ). Bunun için ayrı lıp birleşme, vızıltı grupları vb. teknikler ile grup tartışması yaptırılır ( SDB2.1 , SDB2.2 ). Tartışma esnasında öğrencilere “Düzenli hareket etmek neden önemlidir?” ve “Sağlıklı beslenmek için neleri değiştirmeliyiz?” gibi sorular yöneltilebilir. Tartışma sonucunda öğrencilerin sağlıklı yaşam konusunda çıkarımlar yapması sağlanır. Örneğin “Sağlıklı yaşam için televizyon izleme süresini azaltıp, dışarda oyun süresini arttırmalıyız.”, \"Her gün 15 dakika yürümek hareketsiz kalmaktan daha iyidir.\" vb. Öğrencilerin ulaştıkları çıkarımları değerlendirmeleri sağlanır ( KB3.1 ). Sağlıklı yaşamın önemini fark etmeleri ve bu konuda günlük davranışlarındaki küçük düzenlemelerin bile ne denli önemli olduğu vurgulanır. Daha sonra öğrencilere öğrendikleri bilgilerden yola çıkarak kendileri için bir sağlıklı yaşam planı hazırlamaları ve sunmalarını içeren performans görevi verilebilir ( SDB2.1 , D14.2 , E3.10 ). Sunumlar hazırlanırken dijital araçlardan da yararlanılabilir ( OB2 , OB7 ). Öğrencilerin hazırladıkları sunumlar üzerinden sağlıklı yaşam konusunda değerlendirmeler yapmaları sağlanır ( KB3.3 , E3.1 , D13.1 ). Performans görevi, süreç bileşenleri dikkate alınarak performans kriterlerini barındıran bütüncül dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu vb. sorular kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.2.2.3.",
+    "Öğrencilerden sağlık ve sporla bağlantılı olarak günlük hayatta karşılaşabilecekleri yüzde hesaplama durumlarına dair örnekler vermeleri istenir ( E1.1 ). Bu örneklerden yola çıkılarak öğrencilerin sağlık ve spor alanında problem durumları ile ilgili görüşlerini ifade etmeleri sağlanır. Problemler, spor müsabakalarındaki atışların isabet yüzdesi, sağlıklı bir insanın vücudundaki yağ oranı, paketli ürünlerin içerdiği maddelerin miktarları vb. durumları içermesine dikkat edilir ( D13.2 ). Bu problem durumları aracılığıyla beden eğitimi ve spor dersi ile ilişki kurulabilir. Ayrıca bir çokluğu belirli bir yüzde ile artırmaya veya azaltmaya yönelik hesaplamaların yapıldığı çalışmalara da yer verilmelidir. Örneğin “Bir sporcu, günlük alması gereken kalorinin %60'ını karbohidratlardan, %25'ini proteinlerden ve geri kalanını yağlardan almaktadır. Sporcunun günlük kalori ihtiyacı 2500 kcal olduğuna göre her bir besin grubundan alması gereken kalori miktarları nedir?” vb. problemler kurgulanabilir. Problemlerin, öğrencilerin problem çözme becerilerini geliştirmenin yanı sıra sağlık bilinci kazanmalarına özen gösterilmelidir ( D13.1 ). Öğrencilerden problemlerin çözümü için öncelikle problemle ilgili matematiksel bileşenleri belirlemeleri istenir. Sağlık ve spor ile ilgili yüzde problemlerinin çözümünde öğrencilerin verilenler ve istenenleri belirlemeleri beklenir. Daha sonra öğrencilerden verilenler ve istenenler arasındaki işlem ilişkilerini tespit etmeleri beklenir. Bu süreçte problemdeki ilişkilere yönelik şekil ya da diyagram çizmeleri istenerek öğrencilerin problemi anlamaları sağlanabilir ( OB4 ). Böylece problemlerin anlaşılıp anlaşılmadığı değerlendirilebilir. Öğrencilerden problem bağlamlarını yorumlarken verilenleri belirleyip uygun matematiksel temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları beklenir. Problemlere yönelik matematiksel çözümler geliştirilirken öğrencilerden sonuca ilişkin tahminde bulunmaları ve stratejiler geliştirmeleri beklenir. Öğrencilerin çözüm stratejileri geliştirirken farklı temsillerden (tablo ve grafik vb.) yararlanmaları sağlanır ( MAB3 ). Öğrencilerin seçtikleri farklı stratejiler ile problemleri çözmelerine fırsat verilir. Çözüm stratejileri geliştirme ve uygulama sürecinde iş birliği içinde grup çalışmaları yapmaları sağlanabilir ( SDB2.1 , SDB2.2 ). Öğrencilerden problem çözme stratejilerini gözden geçirmeleri, çözüme ulaştırmayan stratejileri değiştirmeleri beklenir ( SDB1.2 , E3.1 , KB3.3 ). Kullandıkları veya geliştirdikleri stratejileri gözden geçirip alternatif yollara ilişkin çıkarım ve değerlendirmeler yapmaları istenerek stratejilerini paylaşmalarına olanak sağlanır. Problem çözme sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları ve yaptıkları genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Öğrencilerin benzer türde günlük hayat problemleri kurmaları ve problemlerin bağlamlarına yönelik yansıtmalar yapmaları da sağlanır. Ayrıca çıkarımlarını değerlendirmeleri ve karar verme sürecine ait davranışlarının sorumluluğunu kabul etmeleri sağlanır ( SDB3.3 , D16.3 , E3.10 ). Sağlık ve spor alanında kullanılan uzunluk, zaman ve kütle ölçme birimleri ile ilgili problemlerde öğrencilerin problem çözme sürecini değerlendirmelerine yönelik kontrol listesi hazırlanabilir. Öğrenme durumlarının değerlendirilmesinde açık uçlu sorular kullanılabilir."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1551"
+}

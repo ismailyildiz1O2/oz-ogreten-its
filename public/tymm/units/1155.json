@@ -1,0 +1,53 @@
+{
+  "unitId": 1155,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: GİTARDA DİZİ ÇALIŞMALARI",
+  "hours": "22",
+  "description": "Temada gitarda dizi çalışmaları yapılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.3.2.1",
+      "title": "Gitarda dizi çalabilme",
+      "processComponents": [
+        "a) Çalınacak diziyi çözümleyebilme",
+        "b) Çalgıya özgü duruş ve tutuş pozisyonu alabilme",
+        "c) Çalgıya özgü teknikleri kullanabilme",
+        "ç) Verilen dizileri müziksel bileşenleri uygulayarak çalabilme"
+      ]
+    }
+  ],
+  "keyConcepts": "apoyando, dizi, perde, teknik, tirando",
+  "support": [
+    "Do majör dizisini anlatan kısa animasyonlar veya çizgi filmler izletilebilir. Bu, öğrencilerin notaları daha kolay hatırlamalarını sağlayabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden do majör dizisindeki notaları kullanarak kendi kısa melodilerini oluşturmalarını istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kağıtları, gözlem formu, dereceli puanlama anahtarı, kontrol listesi ile değerlendirilebilir. Performans görevi olarak öğrencilerin apoyando ve tirando tekniğine uygun duruş ve tutuş tekniklerini uygulamaları, verilen dizileri metronom eşliğinde doğru teknikle çalmaları ve grup içinde diğer arkadaşlarının hareketlerini gözlemleyerek geri bildirimlerde bulunmaları istenebilir. Performans görevi, gözlem formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.3.2.1",
+    "Öğretmen do majör dizisinin hangi notalardan oluştuğu (do-re-mi-fa-sol-la-si-do) açıklayarak etkileşimli tahtada diziyi gösteren bir görselle derse başlar ( OB4 ). Öğretmen diziyi gitarla çalar. Öğrencilerin gözlem yapmaları istenir ( KB2.2 ). Öğrencilere önce sol elin doğru yerleşimi öğretilerek parmak numaraları ve nota basış noktaları gösterilir ( SDB2.1 ). Sonrasında öğrenciler diziyi çözümler. Çalgıya özgü duruş ve tutuş pozisyonunu alır. Do majör dizisi önce açık tellerde daha sonra birinci, ikinci ve üçüncü perdeler kullanılarak çalgıya özgü tekniklerle çalınır. Öğrenciler apoyando veya tirando tekniği kullanılarak metronom eşliğinde verilen dizileri müziksel bileşenleri uygulayarak çalar. \"Nota Dedektifleri\" oyunu oynatılır. Öğretmen rastgele bir nota söyleyerek öğrencilerin söylenen notayı gitarda bulmalarını ister ( E2.5 ). Öğretmen rehberliğinde 2 ya da 3 kişilik gruplar hâlinde dizi çalışmaları yapılır. Bu süreçte öğrencilerin birbirini diziyi doğru bir şekilde çalması konusunda teşvik etmesi beklenir ( D4.1 ). Performans görevi olarak öğrencilerin apoyando ve tirando tekniğine uygun duruş ve tutuş tekniklerini uygulamaları, verilen dizileri metronom eşliğinde doğru teknikle çalmaları ve grup içinde diğer arkadaşlarının hareketlerini gözlemleyerek geri bildirimlerde bulunmaları istenebilir. Performans görevi, gözlem formu ve analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.1"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1155"
+}

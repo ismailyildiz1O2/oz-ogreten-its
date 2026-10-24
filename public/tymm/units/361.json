@@ -1,0 +1,79 @@
+{
+  "unitId": 361,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "4. ÜNİTE: MADDENİN DEĞİŞİMİ",
+  "hours": "12",
+  "description": "Bu ünitede maddelerin hâl değişimine yönelik bilimsel çıkarım yapılması ve maddelerin ısı etkisiyle değişiminin deney yapılarak anlaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FB.4.4.1",
+      "title": "Maddelerin hâl değişimine yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Maddelerin hâllerine yönelik nitelikleri tanımlar.",
+        "b) Maddelerin hâl değişimine yönelik verileri kaydeder.",
+        "c) Maddelerin hâl değişimine yönelik verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.4.4.2",
+      "title": "Maddelerin ısı etkisiyle değişimine yönelik deney yapabilme",
+      "processComponents": [
+        "a) Maddelerin ısı etkisiyle değişimine yönelik deney tasarlar.",
+        "b) Maddelerin ısı etkisiyle değişimine yönelik veri analizi yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "ısı alma, ısı verme, hâl değişimi, erime, donma, buharlaşma, yoğunlaşma (yoğuşma)",
+  "support": [
+    "Ünite içerikleri özetleyici notlar, çalışma kâğıtları, sesli metin ya da video ile desteklenebilir.",
+    "Maddenin hâl değişimini gösteren dijital içeriklerden yararlanılabilir.",
+    "Günlük yaşamlarından gözlemledikleri örneklerin fotoğrafları ile poster hazırlatılabilir.",
+    "Deneyler grup hâlinde yapılarak iş birlikli öğrenme ortamı oluşturulabilir."
+  ],
+  "enrichment": [
+    "Maddenin hâl değişimlerine ilişkin deneyleri dijital içerik ile hazırlamaları ve sunmaları istenebilir.",
+    "Deneyleri farklı maddelerle tekrarlayarak gözlemlerini karşılaştırmaları istenebilir.",
+    "Hâl değişimlerinin gözlemlendiği farklı durumlarla ilgili araştırma yapmaları istenebilir (örneğin kışın yollara tuz dökülmesi, cam sanatı, cam bardağın ya da metal kaşığın şekillendirilmesi, kalorifer peteklerine su bırakılması, katı bir gıdanın su buharı ile eritilmesi/ benmari usulü vb.).",
+    "Bir cam atölyesinin ya da metal işleme atölyesinin fiziksel ya da dijital olarak ziyaret edilmesi ve bununla ilgili sunum hazırlanması istenebilir.",
+    "Hâl değişimleri konusunda bilim insanlarının yaptıkları çalışmaların araştırılması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde performans görevi, V diyagramı, öğrenci ürün dosyası kullanılabilir.",
+    "Maddelerin ısı etkisiyle hâl değişimine yönelik bireysel olarak hazırlanan hikâyeler performans görevi olarak verilebilir.",
+    "Maddenin ısı etkisiyle hâl değişimine yönelik hazırlanan deney V diyagramı ile değerlendirilebilir. Tüm bu çalışmalar öğrencinin ürün dosyasına eklenebilir."
+  ],
+  "teachingApplications": [
+    "FB.4.4.1 Öğrencilerin günlük yaşamdan hâl değişimini gözlemleyebilecekleri örnekler sınıfa getirilir, basılı ya da dijital kaynaklardan da yararlanılabilir. Öğrencilerin örnekleri gözlemlemeleri sağlanır. Öğrencilerden verilen örneklere dayanarak maddelerin hâllerine yönelik nitelikleri tanımlamaları istenir ( SDB1.2 ) . Öğrencilere maddelerin ısı etkisiyle hâl değişimlerinden erime, donma, buharlaşma ve yoğuşmaya yönelik deney ve gözlem yaptırılır ( KB2.2 , SDB1.2 , E3.4 ) . Deney yaparken gerekli güvenlik önlemleri alınır. Maddelerin hâl değişimine yönelik deney ve gözlemleri esnasında topladıkları nitel verileri kaydetmeleri sağlanır. Verilere dayanarak ısı alma ve ısı verme sonucunda hangi hâl değişiminin yaşandığını neden sonuç ilişkisi üzerinden yorumlayarak değerlendirmeleri istenir. Öğrenciler kendilerine uygun görevleri ve sorumlulukları almaları için yönlendirilir ( SDB3.3 , KB2.10 , D3.4 ) . Maddenin ısı etkisiyle hâl değişimine yönelik \"Hâl değişimi insanlar için her zaman olumlu bir durum mudur? Islanan çamaşırlar üzerindeki su nasıl hâl değiştirir? Kışın yollardaki kar ve sular nasıl hâl değiştirir?\" vb. sorular sorulabilir. Öğrendiği bilgilerden yola çıkarak bir hikâye oluşturmaları istenir ( E3.3 , OB1 ) . Hikâyelerinde gerçek yaşam bağlantısı kurabilecekleri ve fotoğraf, resim, tablo, şekil veya grafik kullanabilecekleri belirtilebilir ( E3.11 ) . Öğrencilerin hazırladığı hikâyeler analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Hâl değişimlerinden sadece erime, donma, buharlaşma ve yoğuşmaya değinilir. Isının maddenin tanecikli yapısı üzerindeki etkisi verilmez.",
+    "FB.4.4.2 Deneyler için kullanılabilecek malzemeler önceden hazırlanır. Öğrencilerden farklı değişkenler (maddenin kütlesi ya da verilen ısı miktarı) ile hâl değişimi arasındaki ilişkiyi belirlemeye yönelik deneyler tasarlamaları istenir ( SDB1.2 , E3.4 ) . Deneylerde diğer değişkenler sabit tutularak yalnızca bağımsız değişkenin değiştirilmesine dikkat edilir. Öğrenciler deney yaparken güvenlik kurallarının uygulanması konusunda sorumluluk almaları için yönlendirir ( SDB3.3 , D16.3 ) . Deneylerde elde edilen verileri analiz etmeleri sağlanır. Deneylerdeki gözlemlerinden elde ettikleri kütle-hâl değişimi süresi ya da verilen ısı-hâl değişimi süresi arasındaki ilişkileri ifade etmeleri istenebilir ( KB2.13 , SDB3.3 , E3.10 ) . Deney süreci V diyagramı ile değerlendirilebilir ( SDB3.3 ) . Öğrenciler deney tasarlama, ölçme ve veri analizi yapma sırasında gerekli süreçleri planlama ve yürütme öz yeterliliğine sahip olmaları için desteklenir ( OB7 , E1.4 , D3.2 ) . Öğrencilerin çalışmaları öğrenci ürün dosyasına eklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D3.2",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.4",
+      "E3.10",
+      "E3.11",
+      "E3.3",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.13",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/361"
+}

@@ -1,0 +1,35 @@
+{
+  "unitId": 1618,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "10.Tema: Açmaz, Saldırı Ve Satranç Saati",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.10.1",
+      "title": "Satrançta açmaza yönelik taktik ve strateji geliştirebilme. a) Açmaza giren taşın durumunu belirler. b) Açmaz durumunun çözümüne ilişkin öneri geliştirir. c) Çözüme ilişkin öneriyi uygular",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.10.2",
+      "title": "Satrançta taşa saldırı yapmaya yönelik gözlemlerden hareketle taşa saldırının oyuna etkisine yönelik akıl yürütebilme. a) Satrançta taşa saldırı yapmanın oyuna etkisine yönelik gözlem yapar. b) Satrançta taşa saldırı yapmanın oyuna etkisine yönelik örüntü bulur. c) Satrançta taşa saldırı yapmanın oyuna etkisine yönelik genelleme yapar",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.10.3",
+      "title": "Satranç saatini kullanabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "saat kullanımı, saldırı, satrançta açmaz, strateji, taktik",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB3. Taktik ve Strateji Geliştirme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1618"
+}

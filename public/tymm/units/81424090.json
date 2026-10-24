@@ -1,0 +1,74 @@
+{
+  "unitId": 81424090,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "90. ÜNİTE: KEMANE - KEMANE ÇALMA TEKNİKLERİ I",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.13.2.1",
+      "title": "Kemanede doğru duruş ve tutuşu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.2",
+      "title": "Yay hareketlerini uygulayarak açık tellerde ses üretir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.3",
+      "title": "Birinci ve ikinci telde çevrim yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.4",
+      "title": "İkinci ve üçüncü telde çevrim yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.5",
+      "title": "Üçüncü ve dördüncü telde çevrim yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.6",
+      "title": "Tüm tellerde çevrim yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.7",
+      "title": "Uzun yayda çalışmalar yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.8",
+      "title": "Kısa yay çalışmaları yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.9",
+      "title": "Parmaklarını kemane sapı üzerinde doğru konumlandırır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.10",
+      "title": "Tüm tellerde birinci, ikinci, üçüncü ve dördüncü parmakları kullanarak etütler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.2.11",
+      "title": "Kemanede çeşitli etüt çalışmaları yaparak doğru duruş ve tutuşunu kontrol eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

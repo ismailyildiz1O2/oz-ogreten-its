@@ -1,0 +1,23 @@
+{
+  "unitId": 1609,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "1.Tema: Satrancı Tanıyalım",
+  "hours": "2",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.1.1",
+      "title": ". Satranç oyununu tanıyabilme. OOEST.1.2. Satranç oyununun bütüncül gelişime faydalarını sorgulayabilme. a) Bütüncül gelişimi tanımlar. b) Satranç oyununun bütüncül gelişime faydasına yönelik sorular sorar. c) Soruların cevaplarına yönelik bilgiler toplar. d) Topladığı bilgileri değerlendirir. e) Ulaştığı bilgiler üzerinden satrancın bütüncül gelişime faydasına yönelik çıkarım yapar. OOEST.1.3. Güvenilir kaynaklardan elde ettiği bilgilerden hareketle Atartürk’ün satranç oyununa verdiği önemi açıklayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "satranç, satrancın önemi, satranç oyun kuralları, bütüncül gelişim",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1609"
+}

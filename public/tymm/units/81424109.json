@@ -1,0 +1,36 @@
+{
+  "unitId": 81424109,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "109. ÜNİTE: ANİMASYON - 3D ANİMASYON",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.4.3.1",
+      "title": "3D animasyon temellerini açıklar",
+      "processComponents": [
+        "3D animasyonun, iki boyutlu bir yüzeyde derinlik yanılsaması yaratmak için animasyon ve tasarımda kullanılan bir teknik olduğuna değinilir."
+      ]
+    },
+    {
+      "code": "GSA.4.3.2",
+      "title": "3D animasyon tasarımı yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GSA.4.3.3",
+      "title": "3D Render alır ve Post-Prodüksiyon yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

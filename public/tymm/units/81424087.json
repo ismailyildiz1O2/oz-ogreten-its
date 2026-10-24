@@ -1,0 +1,44 @@
+{
+  "unitId": 81424087,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "87. ÜNİTE: TAR - TARDA İCRA TEKNİĞİNİ GELİŞTİRMEYE YÖNELİK ÇALIŞMALAR",
+  "hours": "28",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.12.2.1",
+      "title": "Tarın zeng tellerinin kullanımına yönelik çalışmalar yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.2.2",
+      "title": "Tarda etüt ve eserler çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.2.3",
+      "title": "Tremolo çalma tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.2.4",
+      "title": "Staccato çalma tekniğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.12.2.5",
+      "title": "Legato çalma tekniğini açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

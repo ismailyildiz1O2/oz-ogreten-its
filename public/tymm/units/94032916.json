@@ -1,0 +1,55 @@
+{
+  "unitId": 94032916,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "16. ÖĞRENME ALANI: SIVI ÖLÇME",
+  "hours": "10",
+  "description": "Terimler veya kavramlar: mililitre (mL)",
+  "outcomes": [
+    {
+      "code": "M.4.3.6.1",
+      "title": "Mililitrenin kullanıldığı yerleri açıklar",
+      "processComponents": [
+        "Günlük hayatta en çok kullanılan yerlere ve durumlara örnek verilir."
+      ]
+    },
+    {
+      "code": "M.4.3.6.2",
+      "title": "Litre ve mililitre arasındaki ilişkiyi açıklar ve birbirine dönüştürür",
+      "processComponents": [
+        "Ondalık gösterim kullanılmaz."
+      ]
+    },
+    {
+      "code": "M.4.3.6.3",
+      "title": "Litre ve mililitreyi miktar belirtmek için bir arada kullanır",
+      "processComponents": [
+        "Modeller kullanılarak etkinlikler yapılır. Örneğin 1 bardak su 200 mL, 6 bardak su 1 litre 200 mL şeklinde ifade edilir.",
+        "Ondalık gösterim kullanılmaz.",
+        "Tasarruf konusuna değinilir."
+      ]
+    },
+    {
+      "code": "M.4.3.6.4",
+      "title": "Bir kaptaki sıvının miktarını, litre ve mililitre birimleriyle tahmin eder ve ölçme yaparak tahminini kontrol eder",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.3.6.5",
+      "title": "Litre ve mililitre ile ilgili problemleri çözer",
+      "processComponents": [
+        "Problem kurmaya yönelik çalışmalara da yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

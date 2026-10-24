@@ -1,0 +1,50 @@
+{
+  "unitId": 928,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Çalgı Toplulukları Dersi",
+  "title": "2. TEMA: TEK SESLİ TOPLU İCRA",
+  "hours": "18",
+  "description": "Temada basit okul şarkılarından yola çıkarak öğrencilerin tek sesli toplu icra sürecine başlanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "ÇT.4.2.1",
+      "title": "Tek sesli eserleri toplu çalabilme",
+      "processComponents": [
+        "a) Tek sesli toplu icrada çalınacak eseri çözümler.",
+        "b) Tek sesli toplu icrada çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Tek sesli toplu icrada çalgılara özgü teknikleri kullanır.",
+        "ç) Tek sesli toplu icrada müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "birliktelik, toplu icra",
+  "support": [
+    "Basitleştirilmiş ezgiler oluşturularak öğrencilerden etüt edilmesi istenebilir. Aynı zamanda öğretmen, öğrencilere müzikal ifadelerini geliştirmeleri için yapıcı geri bildirimler vererek grup içindeki uyum ve müzikal anlamı arttırmalarına yardımcı olabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, grup olarak çalmalarını izleyip değerlendirerek kendi performanslarını geliştirebilecekleri alanları belirleyebilirler. Öğrencilerden bir öz değerlendirme formu hazırlaması, grupla gösterdiği performansı raporlaması ve bu raporları biriktirerek kendine bir performans dosyası hazırlaması istenebilir."
+  ],
+  "assessment": [
+    "Temada öğrenme çıktıları; birlikte çalma performans gözlem formu, öz değerlendirme formu ve akran değerlendirme formu kullanılarak ölçülebilir. Öğrencilerden performans görevi olarak çalgı toplulukları oluşturarak verilen şarkıları çalmaları istenebilir. Verilen performans görevi birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "ÇT.4.2.1 İcra edilecek eserin notaları dağıtılır. Dinleme yapılırken öğrencilerin nota kağıdından takip etmeleri istenir ( E3.2 ). Eserin öğretmen rehberliğinde basit deşifresi yapılır ve çalınacak eserin çözümlenmesi istenir ( OB9 ). Öğrencilerden çalgılarında doğru duruş ve tutuş pozisyonları alması istenir. Tüm sınıf birlikte bir müzik aleti çalmaya başladığında öğretmen tüm öğrencilerin duruşlarını gözden geçirir. Doğru duruşa odaklanmak için öğretmen, öğrencilere sırasıyla yaklaşarak tutuş ve duruşlarını kontrol eder ( E3.2 ). Öğrencilerin bireysel olarak çalgılarıyla deşifre sürecine devam etmeleri istenir. Öğrencilerden şarkıyı çalarken kullanacakları teknikleri belirlenmesi istenir. Öğretmen deşifre sürecinde öğrencilere rehberlik eder. Öğrenciler önce bireysel olarak çalgılarına özgü teknikleri çalıştıktan sonra öğretmen, grup hâlinde bu teknikleri uygulamaları için onlara rehberlik eder ( SDB2.2 ). Bireysel çalışmalar sonlandıktan sonra öğretmenin belirleyeceği tempoda toplu çalma sürecine başlanır. Tempo arttırılarak şarkının doğru temposuna ulaşana kadar etüt şarkı, toplu bir şekilde etüt edilir ( D3.4 , D12.3 ). Öğrencilerin müziksel bileşenleri (ritim, ezgi, tempo, dinamikler vb.) doğru bir şekilde uygulamasına ve müziksel anlamda grup olarak bir bütün oluşturmasına dikkat edilir ( SDB2.2 ). Öğrenciler, şarkıyı bitirip toplu çalmaya başladıklarında her bir öğrencinin müzikal anlamı ve duyguyu doğru bir şekilde yansıttığı öğretmen tarafından kontrol edilerek öğrencilere dönüt verilir. Bu süreç farklı şarkılar belirlenerek tekrar edilir. Öğrencilerden performans görevi olarak çalgı toplulukları oluşturarak verilen şarkıları çalmaları istenebilir. Verilen performans görevi, birlikte çalma performans gözlem formu ile değerlendirilebilir. Öğrencilerin kendilerini değerlendirmesi için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/928"
+}

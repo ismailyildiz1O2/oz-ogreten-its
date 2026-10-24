@@ -1,0 +1,62 @@
+{
+  "unitId": 1212,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "3. TEMA: NEYDE TEMEL DAVRANIŞLAR 1",
+  "hours": "8",
+  "description": "Temanın içeriğini neyde duruş, tutuş ve parmak pozisyonu gibi teknik özellikler oluşturmaktadır. Bu doğrultuda neyde doğru duruş ve tutuş pozisyonu ile ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.2.3.1",
+      "title": ". Neyin nasıl tutulacağını yorumlayabilme",
+      "processComponents": [
+        "a) Neyin nasıl tutulacağını inceler.",
+        "b) Neyin nasıl tutulacağını fiziksel özelliklerine göre uygular.",
+        "c) Neyin nasıl tutulacağını fiziksel özelliklerine göre ifade eder."
+      ]
+    },
+    {
+      "code": "NEY.2.3.2",
+      "title": ". Ney üzerinde parmakların pozisyonunu yorumlayabilme",
+      "processComponents": [
+        "a) Ney üzerinde parmakların alması gereken şekli inceler.",
+        "b) Ney üzerinde parmakların alması gereken şekli fiziksel özelliklerine göre uygular.",
+        "c) Ney üzerinde parmakların alması gereken şekli fiziksel özelliklerine göre ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "duruş, parmak pozisyonu, teknik, tutuş",
+  "support": [
+    "Bu süreçte görsel materyaller ve video kayıtları izlettirilerek öğrencilerin motivasyonu arttırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazırbulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Neyde doğru duruş ve tutuş pozisyonu için hazırlanan görseli öğrencilerin taklit etmesi istenip süreç eğlenceli hâle getirilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin Türkiye'deki ve dünyadaki farklı müzikal geleneklerde neyin tutuş biçimlerinin nasıl farklılıklar gösterdiğini incelemeleri istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; öz/akran veya grup değerlendirmeleri, gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla neyin nasıl tutulacağını gösteren poster veya sunum hazırlamaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi veya analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.2.3.1",
+    "Doğru oturma pozisyonu öğrencilere uygulamalı olarak gösterilip vücudun alması gereken şeklin öğrenciler tarafından incelenmesi sağlanır ( SDB2.1 , D3.3 ). Ardından öğrencilerin fiziksel uygunluklarına göre ney boyutu belirlenip, doğru oturma pozisyonunda vücudun alması gereken şekli kendi fiziksel uygunluklarına göre uygulayıp, ifade etmeleri ve sunmaları sağlanır ( D13.4 , E3.7 , OB4 ). Daha sonra doğru duruşun hem sağlık hem de çalgı çalarken performans açısından büyük önem taşıdığına değinilir. Süreç sonunda bireysel veya grup çalışması yoluyla neyi tutarken vücudun alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir ( OB2 ). Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi, gözlem formu veya analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "NEY.2.3.2",
+    "Doğru oturma pozisyonu öğrencilere uygulamalı olarak gösterilip vücudun alması gereken şeklin öğrenciler tarafından incelenmesi sağlanır ( SDB2.1 , D3.3 ). Ardından öğrencilerin fiziksel uygunluklarına göre ney boyutu belirlenip, doğru oturma pozisyonunda parmakların alması gereken şekli fiziksel uygunluklarına göre uygulayıp, ifade etmeleri ve sunmaları sağlanır ( E3.7 , OB4 ). Süreç sonunda bireysel veya grup çalışması yoluyla neyi tutarken parmakların alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir ( OB2 ). Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi, gözlem formu veya analitik dereceli puanlama anahtarıyla değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla neyin nasıl tutulacağını gösteren poster veya sunum hazırlamaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi veya analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D3.3"
+    ],
+    "egilim": [
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1212"
+}

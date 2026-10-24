@@ -1,0 +1,65 @@
+{
+  "unitId": 81354002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Girişimcilik Dersi",
+  "title": "2. ÜNİTE: GİRİŞİMCİ (MÜTEŞEBBİS)",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GRS.2.1",
+      "title": "Girişimcide olması gereken özellikleri belirtir",
+      "processComponents": [
+        "Girişimcinin tanımı yapılır.",
+        "Girişimcide bulunması gereken kişisel ve sosyal özellikler üzerinde durulur.",
+        "Girişimcilerin kişisel özellikleri psikoloji disiplininden yararlanılarak açıklanır.",
+        "Girişimcilerin toplumsal ve kültürel alandaki konum ve etkilerinin açıklanmasında sosyoloji disiplininden yararlanılır."
+      ]
+    },
+    {
+      "code": "GRS.2.2",
+      "title": "Girişimcide olması gereken kişisel ve sosyal özelliklerin girişimciye etkilerini yorumlar",
+      "processComponents": [
+        "Yöneticide bulunması gereken ileriyi görme, harekete geçme, destekleyici olma, analitik düşünebilme özelliklerinin girişimcilerde de bulunması gerektiğine dikkat çekilir.",
+        "Girişimcilerin inovatif, kreatif, proaktif, interaktif yetilere sahip olması gerektiği vurgulanır.",
+        "Başarılı girişimcilerin hikâyelerinden örnekler verilerek girişimcilerde bulunması gereken kişisel ve sosyal özelliklerin birbirinden ayırt edilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "GRS.2.3",
+      "title": "Girişimcinin temel fonksiyonlarını sınıflandırır",
+      "processComponents": [
+        "Girişimcilerin temel fonksiyonlarının; üretimi organize etme, ürün çeşitliliği sağlama, istihdam yaratma, sermaye biriktirme, yeni pazarlar ve satış yöntemleri bulma olduğu vurgulanır.",
+        "Girişimcilerin temel fonksiyonlarının her gün değişmekte ve gelişmekte olduğu açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.2.4",
+      "title": "Girişimcilerin temel fonksiyonları ile ekonomik kaynak sağlaması arasında ilişki kurar",
+      "processComponents": [
+        "Girişimcilerin mal ve hizmet üretmesi, üretim faktörlerini bir araya getirmesi, kâr sağlama ve kârından devlete vergi ödemesi gibi özellikleri ile ekonomik bir kaynak olduğu vurgulanır.",
+        "Girişimcilerin kültüre ve sanata yönelik tutumlarıyla topluma sağladığı faydalar açıklanır."
+      ]
+    },
+    {
+      "code": "GRS.2.5",
+      "title": "Girişimcilik örneklerini başarı kriterlerine göre karşılaştırır",
+      "processComponents": [
+        "Ülkemizde ve dünyadaki farklı girişimcilik örnekleri üzerinde durulur.",
+        "Girişimciyi başarısızlığa götüren nedenlerin neler olabileceği açıklanır.",
+        "Girişimcilik örnekleri irdelenirken başarılı ve başarısız girişimcilerin özellikleri konusunda psikoloji disiplininden yararlanılır.",
+        "M. Kemal Atatürk'ün 1923-1938 yılları arasında girişimcilik örneği sayılabilecek yenilikleri ve uygulamaları sıralanır.",
+        "Son zamanlarda bilişim alanındaki yeniliklerin, sosyal paylaşım ağlarındaki gelişmelerin, kadın girişimciliğinin önem kazanmasının ve girişim alanındaki yeni fikirlerin girişimciyi başarılı kıldığı üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112494851663-giri%C5%9Fimcilik%C3%B6%C4%9Fretimprogram%C4%B1.pdf"
+}

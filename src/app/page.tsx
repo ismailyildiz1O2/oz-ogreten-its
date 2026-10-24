@@ -6,9 +6,11 @@ import { PhysicsCanvas } from "@/components/Whiteboard/PhysicsCanvas";
 import { FormulaBoard } from "@/components/Whiteboard/FormulaBoard";
 import { ChatStream } from "@/components/TutorChat/ChatStream";
 import { BktModal } from "@/components/StudentModel/BktModal";
+import { TymmSelectorModal } from "@/components/Curriculum/TymmSelectorModal";
 import { getMasteryStatus } from "@/lib/bkt-engine";
 import {
   Atom,
+  BookOpen,
   BrainCircuit,
   FlaskConical,
   MessageSquareText,
@@ -18,16 +20,20 @@ import {
 export default function ITSHomePage() {
   const {
     skills,
+    activeUnit,
     mobileTab,
     setMobileTab,
     setBktModalOpen,
+    setTymmModalOpen,
     activeMisconception,
     messages,
   } = useITSStore();
 
   const skillList = Object.values(skills);
   const avgMastery =
-    skillList.reduce((acc, s) => acc + s.params.pL, 0) / skillList.length;
+    skillList.length > 0
+      ? skillList.reduce((acc, s) => acc + s.params.pL, 0) / skillList.length
+      : 0.35;
   const masteryPct = Math.round(avgMastery * 100);
   const masteryStatus = getMasteryStatus(avgMastery);
 
@@ -35,35 +41,54 @@ export default function ITSHomePage() {
     <div className="h-dvh w-full flex flex-col bg-slate-950 text-slate-100 overflow-hidden">
       {/* Üst Başlık Çubuğu (Safe-Area Uyumlu) */}
       <header className="safe-top px-4 py-2.5 bg-slate-900/95 border-b border-slate-800 flex items-center justify-between gap-3 shrink-0 z-20">
-        <div className="flex items-center gap-2.5">
-          <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-indigo-600 to-violet-600 flex items-center justify-center shadow-lg shadow-indigo-500/25 border border-indigo-400/40">
+        <div className="flex items-center gap-2.5 min-w-0">
+          <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-indigo-600 to-violet-600 flex items-center justify-center shadow-lg shadow-indigo-500/25 border border-indigo-400/40 shrink-0">
             <Atom className="w-5 h-5 text-white" />
           </div>
-          <div>
+          <div className="min-w-0">
             <div className="flex items-center gap-2">
-              <h1 className="text-sm sm:text-base font-bold tracking-tight text-white">
+              <h1 className="text-sm sm:text-base font-bold tracking-tight text-white shrink-0">
                 Öz-Öğreten AI
               </h1>
-              <span className="hidden md:inline-block text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-md bg-indigo-500/15 text-indigo-300 border border-indigo-500/30">
-                MEB F.7.3.1 • Kütle & Ağırlık ITS
-              </span>
+              <button
+                type="button"
+                onClick={() => setTymmModalOpen(true)}
+                className="hidden md:inline-flex items-center gap-1.5 text-[11px] font-semibold px-2.5 py-0.5 rounded-md bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/30 transition truncate max-w-[360px]"
+                title="Türkiye Yüzyılı Maarif Modeli (TYMM) Müfredat ve Ünite Seçiciyi Aç"
+              >
+                <BookOpen className="w-3.5 h-3.5 shrink-0" />
+                <span className="truncate">
+                  TYMM: {activeUnit.gradeName} • {activeUnit.title}
+                </span>
+              </button>
             </div>
-            <p className="text-[11px] text-slate-400 hidden sm:block">
-              Proaktif Sokratik Öğretmen & Etkileşimli Laboratuvar
+            <p className="text-[11px] text-slate-400 hidden sm:block truncate">
+              Türkiye Yüzyılı Maarif Modeli (TYMM) • Sokratik Öğretmen &
+              Etkileşimli Laboratuvar
             </p>
           </div>
         </div>
 
-        {/* Sağ Üst: BKT Ustalık Göstergesi ve Kavram Yanılgısı Rozeti */}
-        <div className="flex items-center gap-2.5">
+        {/* Sağ Üst: TYMM Butonu, Kavram Yanılgısı Rozeti ve BKT Ustalık Göstergesi */}
+        <div className="flex items-center gap-2 shrink-0">
+          <button
+            type="button"
+            onClick={() => setTymmModalOpen(true)}
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 border border-emerald-500/40 text-emerald-300 text-xs font-semibold transition"
+            title="2.321 TYMM Ünitesi ve 1.208 Beceri Kodu Arasından Seçim Yap"
+          >
+            <BookOpen className="w-4 h-4" />
+            <span className="hidden sm:inline">TYMM Müfredat</span>
+          </button>
+
           {activeMisconception && (
             <button
               type="button"
               onClick={() => setMobileTab("chat")}
-              className="hidden sm:inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-amber-500/15 border border-amber-500/40 text-amber-300 text-xs font-medium animate-pulse"
+              className="hidden xl:inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-amber-500/15 border border-amber-500/40 text-amber-300 text-xs font-medium animate-pulse"
             >
               <AlertTriangle className="w-3.5 h-3.5" />
-              <span>Yanılgı Tespit Edildi: {activeMisconception.code}</span>
+              <span>Yanılgı: {activeMisconception.code}</span>
             </button>
           )}
 
@@ -84,7 +109,7 @@ export default function ITSHomePage() {
                   %{masteryPct}
                 </span>
               </div>
-              <div className="w-24 h-1.5 bg-slate-800 rounded-full overflow-hidden mt-0.5">
+              <div className="w-20 sm:w-24 h-1.5 bg-slate-800 rounded-full overflow-hidden mt-0.5">
                 <div
                   className="h-full transition-all duration-500 rounded-full"
                   style={{
@@ -159,8 +184,9 @@ export default function ITSHomePage() {
         </button>
       </nav>
 
-      {/* BKT Bilişsel Ustalık Modalı */}
+      {/* Modallar: BKT Bilişsel Ustalık & TYMM Müfredat Seçici */}
       <BktModal />
+      <TymmSelectorModal />
     </div>
   );
 }

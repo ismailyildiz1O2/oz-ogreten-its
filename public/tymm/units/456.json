@@ -1,0 +1,102 @@
+{
+  "unitId": 456,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "1.TEMA: SAYILAR VE NİCELİKLER (1)",
+  "hours": "15",
+  "description": "Bu temada öğrencilerin karşılaştığı problem durumlarında bir doğal sayının çarpan ve kat ilişkisine yönelik muhakeme yapabilmeleri, bölünebilme ile ilgili kriterlere ilişkin çıkarımda bulunabilmeleri ve bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilmeleri beklenmektedir. Ayrıca temada iki doğal sayının ortak kat ve ortak bölenlerini çeşitli problemler üzerinden yorumlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.6.1.1",
+      "title": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme",
+      "processComponents": [
+        "a) Karşılaştığı durumlarda bir doğal sayının çarpan ve katlarına yönelik varsayımlarda bulunur.",
+        "b) Varsayımına yönelik örnek durumların içerdiği ilişkileri inceleyerek bir doğal sayının çarpan ve katlarına ilişkin genellemeleri belirler.",
+        "c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli modellerle gösterir.",
+        "ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel ya da sembolik temsil ile sunar.",
+        "d) Farklı problemlerin pratik yoldan çözümüne yönelik oluşturduğu önermenin gerekçelerini sunar.",
+        "e) Önermenin geçerliliğini destekleyen kapsayıcı örnekler verir.",
+        "f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.1.2",
+      "title": "Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) Bir doğal sayının katlarını veya basamak değerlerini dikkate alarak 2, 3, 4, 5, 6, 9 ve 10'a tam bölünebilme kriterleri ile ilgili varsayımlarda bulunur.",
+        "b) 2, 3, 4, 5, 6, 9 ve 10'un katlarını ve basamak değerlerini inceleyerek genellemeleri belirler.",
+        "c) Elde ettiği genellemelerin, varsayımını karşılayıp karşılamadığını örnekler ile sınar.",
+        "ç) Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilmesindeki kriterlere ilişkin önerme sunar.",
+        "d) Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilmesindeki kriterlerin farklı durumlarda kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.1.3",
+      "title": "Bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilme",
+      "processComponents": [
+        "a) Bir doğal sayının asal olup olmadığını ve asal çarpanlarını belirler.",
+        "b) Asal sayıların özelliklerini ve bir doğal sayı ile asal çarpanları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.6.1.4",
+      "title": "Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme",
+      "processComponents": [
+        "a) Problemlerde ya da matematiksel durumlarda verilen iki sayının ortak katlarını ve ortak bölenlerini inceler.",
+        "b) İncelediği ortak kat veya ortak bölen ilişkilerini çizim, tablo ve sayı doğrusu gibi matematiksel temsillerle ifade eder.",
+        "c) İki sayının ortak katlarını ve ortak bölenlerini kendi ifadelerini kullanarak açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Tüm doğal sayılar (sıfır hariç) 1 ve kendisine kalansız bölünür. • Herhangi bir doğal sayının doğal sayı katları, bu sayının sayma sayıları ile çarpımıdır. • Bir doğal sayının katları bu sayıya tam bölünür. Anahtar Kavramlar asal çarpanlar, asal sayılar, bölünebilme, çarpanlar, katlar, ortak bölen, ortak kat Sembol ve Gösterimler, _",
+  "support": [
+    "Bir doğal sayının çarpanlarına, katlarına, asal sayılara ve iki doğal sayının ortak kat ve bölenlerine yönelik görsel, işitsel ve dijital materyaller ile modelleme etkinlikleri uygulanabilir. Bölünebilme kriterleri ile ilgili çalışmalarda öğrencilerin öncelikle hesap makinesi ya da sayı doğrusu kullanması sağlanabilir. Öğrencilerin bölünebilme kriterlerini keşfetmelerini sağlamak amacıyla bölünebilmeye önce 10, 5 ve 2 ile başlanabilir. Diğer yandan öğrenme uygulamalarında etkileşimli çevrim içi uygulamalardan (oyunlar, bilgi yarışmaları gibi) yararlanılabilir."
+  ],
+  "enrichment": [
+    "Sayıların bölünebilme özellikleri ile ilgili genelleme yapılamayacak durumlardan örnek verilebilir. Örneğin \"Hem 2 ile hem de 3 ile bölünebilen sayılar aynı zamanda 6 ile bölünebilirken hem 2 hem de 4 ile bölünebilen sayılar neden 8 ile bölünemez?\" durumunu araştırmaları istenebilir. Bölünebilme özelliklerini doğrulamaya yönelik araştırma görevi verilerek öğrencilerden bu özelliklere ilişkin çeşitli çıkarımlar yapmaları beklenebilir. İçerisinde matematiksel ilişkiler barındıran -T.C. kimlik numaraları ile ilgili ilk 10 hanenin toplamının 10 ile bölümünden kalanın 11. hane ile ilişkisini bulma gibi- etkinlikler tasarlanabilir.",
+    "Öğrenciler asal sayıların tarihi gelişimi ve özellikleri, önemi; Goldbach (Goldbah) varsayımı, Mersenne (Mersen) asalları, ikiz asallar, Fermat asalları, palindromik asallar gibi özel sayılar ve konjektörleri ile ilgili bilimsel çalışmaları araştırarak asal sayılarla ilgili çıkarımlarda bulunabilirler ve kendi özel sayılarını oluşturabilirler. Ayrıca asal sayıların şifreleme ve kriptografi alanlarındaki etkisi ve önemi araştırma ödevi olarak verilebilir. Öğrencilerin kodlama dilini öğrenmeleri ve bilgisayarda algoritmik kod yazma çalışmaları yapmaları sağlanabilir. Öğrenciler araştırma sonuçlarını kodlama uygulamaları kullanarak asal sayı konjektörleri ile kodlama çalışmaları yapabilir, genellemelere ulaşabilir. Öğrenciler için asal sayı, asal çarpan ve bölünebilme ile ilgili özelliklere ait oyunlar sınıf içinde kullanılabilir [örneğin Juniper Green (Juniper Grin) Oyunu].",
+    "Öğrencilerden \"arkadaş sayıları\" incelemeleri, aralarındaki ilişkileri (örneğin, 220 ile 284 arkadaş sayılardır) ve tarihsel süreçte bu sayıları keşfeden bilim insanlarını [Sabit bin Kurre, Pisagor, Pierre de Fermat (Piyer Dö Ferma), Descartes (Dekart) gibi] araştırmaları istenebilir. Bu süreçte öğrencilerden hangi sayıların keşfedildiğini anlatan özgün bir materyal tasarlamaları (afiş, poster, dijital materyal gibi) beklenebilir.",
+    "Öğrenciler ortak bölen ve ortak kat ile ilgili öğrenmelerini uygulayabilecekleri gerçek yaşam problemleriyle karşı karşıya getirilerek (trafik sorunları için trafik ışıklarının düzenlenmesi gibi) ele aldıkları problemlere çözüm üretmeleri istenebilir.",
+    "Öğrencilerin çarpan ve katlar, bölünebilme kriterleri, asal sayılar ve asal çarpanlar ile ilgili düzeylerine uygun olimpiyat sorularını çözmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; tanılayıcı dallanmış ağaç, öz değerlendirme ve akran değerlendirme, grup değerlendirme, farklı madde türlerinden (açık uçlu, doğru yanlış, eşleştirme) oluşan izleme testi, gelişim raporu ve performans görevi ile değerlendirilebilir. Öğrencilere asal sayılar ile ilişkili çeşitli konular (asal sayıların gerçek yaşamda hangi alanlarda kullanıldığı, tarihsel süreci gibi) üzerinden araştırma yapmalarını gerektiren performans görevi verilebilir. Öğrencilerden çeşitli kaynaklardan araştırdıkları bilgiler arasında ilişkiler kurarak poster ya da sunum hazırlamaları istenebilir. Bu görev, süreç bileşenlerinden oluşan performans kriterlerini barındıran bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans ürünleri, tanılayıcı dallanmış ağaç ve izleme testleri sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.6.1.1 Çarpan ve kat kavramlarına girişte grup çalışması yapılabilir ve gruplara günlük hayat durumlarından hareketle çeşitli problemler sunulur (Dikdörtgen şeklinde alanı bilinen bir okulun bahçesini çevreleyen duvarın uzunluğunun en küçük ve en büyük değeri gibi). Bu örneklerde öğrencilerin doğal sayıların çarpan ve katlarını açıklamaları ve bu kavramlara ilişkin varsayımlarını ifade etmeleri beklenir. Bu süreçte öğrencilerden ürettikleri varsayımları sınıfa sunmaları istenir. Örneğin \"Çarpanlar sonludur, katlar ise ardışık sıralanır.\", \"Bir doğal sayının katı istenildiği kadar ilerletilebilir.\" gibi varsayımlar ortaya çıkabilir. Bu varsayımların üretilmesinde grup üyelerinin birbirinin varsayımlarını sorgulaması ( E3.9 , SDB2.2 ) sağlanabilir. Çeşitli varsayımlarda bulunan gruplar inceledikleri örneklere dair ilişkileri de belirleyerek \"Bir doğal sayının çarpanlarını bulmak ile bölenlerini bulmak aynı anlama gelmektedir.\" gibi bir genellemede bulunabilirler. Gruplar tarafından doğal sayıların çarpanlarına ve katlarına yönelik çeşitli örnekler üzerinden genellemelerinin varsayımlarını karşılayıp karşılamadığı incelenerek çarpan ve kat kavramları arasındaki ilişki açıklanır. Yapılan çalışmalar sonucunda grupların \"Her doğal sayı herhangi iki doğal sayının çarpımı şeklinde yazılabilir.\", \"Bir doğal sayının en küçük doğal sayı böleni 1'dir.\", \"Sıfır hariç bir doğal sayının en büyük doğal sayı böleni kendisidir.\" gibi önermelerde bulunmaları beklenir. Öğrencilerden ifade ettikleri önermelerin hangi konularda (denk kesir, dikdörtgenin alanı, çevre uzunluğu gibi) pratiklik sağladığına dair açıklama yapmaları ve gerekçelendirmeleri sağlanır. Aynı zamanda bu kavramların yaşamda nerelerde karşılarına çıktığına yönelik araştırmalarla (örneğin e-posta ve diğer dijital işlemlerin veri şifrelemesi gibi) öğrencilerde merak uyandırılabilir ( E1.1 ) . Grupların doğal sayıların çarpanlarına ve katlarına yönelik çeşitli temsiller (alan modeli ve yüzlük tablo gibi) kullanarak ( MAB3 ) ulaştıkları önermelerin geçerliliğini destekleyen örnekler vermeleri istenir. Öğrencilerin kullandıkları doğrulamanın benzer önermeler için de uygulanıp uygulanmayacağına yönelik bir karar verme sürecini deneyimlemelerine fırsat verilir. Örneğin \"Her doğal sayı herhangi iki doğal sayının çarpımıdır.\" önermesinin doğruluğunu dikdörtgenin alan modeli üzerinden doğrulayan öğrencilerden, bu modelin ya da doğrulamada kullanılan farklı yöntemlerin başka hangi önermelerin doğrulamasında kullanılabileceğini değerlendirmeleri beklenir. Çarpan ve katlara yönelik farklı madde türlerinden (açık uçlu, doğru yanlış, eşleştirme) oluşan izleme testi kullanılarak öğrenciler değerlendirilebilir. Değerlendirme sonuçlarına dayalı olarak öğrencilere geri bildirim verilir.",
+    "MAT.6.1.2 Öğrenme-öğretme sürecinde bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünüp bölünemediğinin belirlenmesine yönelik bir oyun oynanabilir. Örneğin öğrenciler ile öğretmenin yarıştığı bu oyunda belirlenen bir sayının 2, 5 ve 9'a tam bölünüp bölünemediği en hızlı şekilde hesaplanır ( E2.5 ) . Oyunda amaç öğrencilerin öğretmenin hızını yakalayamaması ve bu durumu merak etmesidir ( E1.1 ) . Öğrenme-öğretme sürecine tartışma ile başlanır. Öğrencilerin bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin çıkarım yapabilmesi için kendi deneyimleri aracılığıyla çeşitli varsayımlar oluşturmaları teşvik edilir. Varsayım oluşturma sürecinde öğrencilerin bir doğal sayının neden 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebildiğine ilişkin açıklamalar yapmaları sağlanır ( SDB2.1 ) . Bu süreçte öğrencilerin bir yüzlük tablo üzerinde inceleme, bir örüntü ve tablo oluşturma ya da sayıların tüm katlarını listeleme yoluyla ( E3.7 , MAB3 ) elde edilen sayıları karşılaştırmaya, ardından sayılar arasındaki ortak ilişkileri (kat ilişkilerini, basamak değerleri ve basamaklardaki sayıların toplamı gibi) belirleyerek 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin genelleme yapmaları beklenir. Örneğin öğrenciler 2 ve 5 ile bölünebilme kriterlerini incelerken 5'e bölünebilen çift sayıların 10'a da bölünebildiği gibi genellemeler yapabilirler ( E3.6 ) . Ardından öğrencilerin belirledikleri ortak ilişkileri farklı sayılar üzerinde deneyerek genellemelerinin varsayımlarını karşılayıp karşılamadığını sınamaları beklenir. Örneğin 10 ile bölünebilmede öğrenciler bir yüzlük tablo üzerinde 10'un katı olan sayıları belirledikten sonra farklı sayıları da inceleyerek genellemelerinin geçerliliğini göstermeleri için teşvik edilebilirler. Genellemelerini belirleyip bu genellemeleri örnekler üzerinde test eden öğrencilerden bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin önermeler sunmaları beklenir. Örneğin öğrenciler \"birler basamağı 0 olan sayılar 10 ile tam bölünür\" şeklinde önerme sunabilirler. Öğrencilerin bölünebilme kriterlerine ilişkin ortaya koydukları önermelerden yola çıkarak bölme işlemi yapmadan bu kriterlerin sağladığı kullanışlılığı fark etmeleri beklenir. Öğrencilerin süreç boyunca kazandıkları becerileri değerlendirmek amacıyla doğal sayıların 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin tanılayıcı dallanmış ağaç hazırlanabilir. Ayrıca sınıf içinde öğrencileri değerlendirmek amacıyla farklı madde türlerinden (açık uçlu, doğru yanlış, eşleştirme) oluşan izleme testleri kullanılabilir. Bu süreçte öğrencilerin ulaştığı çıkarımlar öğretmen tarafından gözlemlenerek gelişim raporu tutulabilir.",
+    "MAT.6.1.3 Asal sayılar ve bir doğal sayının asal çarpanlarının belirlenmesinde çeşitli temsiller (dikdörtgenin alanı, yüzlük tablo, asal çarpan algoritması, asal çarpan ağacı gibi) ( MAB3 ) ya da sanal manipülatifler, çevrim içi dijital oyunlar ve hesap makineleri kullanılır ( MAB5 ) . Öğrencilere çeşitli asal sayılar verilip \"Bu doğal sayıların çarpanları ile ilgili neler söyleyebilirsiniz?\" şeklinde bir soruyla başlanarak öğrencilerin çeşitli temsiller (yüzlük tablo gibi) ve araçlar kullanarak bu sayıların çarpanlarını belirlemeleri, kullanılan temsiller ile çarpanları ilişkilendirmeleri istenir ( OB4 ) . Daha farklı çarpan çiftlerinin yazılıp yazılamayacağı sorulabilir. Öğrencilerden asal olan ve olmayan iki doğal sayıyı incelemeleri ve sayıların çarpanlarını bulmaları istenir. Bu süreçte grup çalışmasıyla [örneğin bir yüzlük tabloda Antik Yunan Dönemi'nde yaşamış Matematikçi Erathosthenes'in (Eratosten) adıyla bilinen kalbur etkinliğinin uygulanması] öğrencilerin asal sayıları fark etmeleri sağlanır. Öğrencilerden kendi asal sayı kalburlarını tasarlamaları istenebilir ( E3.3 ) . Bu etkinlikler üzerinden öğrencilerin asal sayıların özelliklerini keşfetmeleri ve tartışmaları beklenir ( SDB2.2 ) . Asal sayılar belirlendikten sonra öğrencilerden bir doğal sayının tüm çarpan listesini oluşturmaları ve asal olanları bulmaları beklenir. Bu süreçte asal çarpan algoritması ve asal çarpan ağacı gibi yöntemlerin kullanılması önerilebilir.",
+    "Sınıf içi yapılacak tartışmalar sonucunda öğrencilerin \"1'den büyük doğal sayılar ya asaldır ya da asal sayıların çarpımı şeklinde yazılabilir.\" gibi önemli noktaları açıklamaları beklenir. Öğrencilere asal sayılar ile ilişkili çeşitli konular üzerinden araştırma yapmalarını gerektiren performans görevi verilebilir. Çeşitli kaynaklardan araştırdıkları bilgiler arasında ilişkiler kurarak poster ya da sunum gibi özgün bir bütün oluşturmaları istenebilir ( OB1 , E3.3 ) . Örnek araştırmalar öğrencilerde merak uyandırabilecek \"İshango (İşango) kemiği nedir? Matematikte ne amaçla kullanılmıştır?\", \"Eratosthenes kimdir? Matematikte ne gibi keşifler yapmıştır?\" ve \"Asal sayılar günlük hayatta hangi alanlarda kullanılmaktadır?\" gibi konular arasından seçilebilir ( E1.1 ) . Araştırma çalışmaları bireysel ya da grup olarak tasarlanabilir. Öğretmen grup çalışmalarını grup değerlendirme formu kullanarak değerlendirebilir. Öğrencilerin araştırma sonuçlarını tartışmaları istenir ( SDB2.2 ) . Bu süreçte öğrencilerin birbirlerini dinlemeleri ( SDB2.1 ) istenir. Öğrencilerin hazırladıkları poster ya da sunum, hem kendileri ve arkadaşları tarafından öz değerlendirme ve akran değerlendirme formları ( SDB2.3 ) ile hem de süreç bileşenlerinden oluşan performans kriterlerini barındıran bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.6.1.4 İki doğal sayının ortak bölenleri veya ortak katlarını bulmayı gerektiren problem bağlamlarının seçiminde öğrencilerin günlük hayatlarında karşılaştıkları durumlar ve ilgilerini çekecek bağlamlar -tarım arazilerine eşit aralıklarla fidan dikme gibi- ele alınır. Ayrıca sokak hayvanlarına eşit büyüklükte paketler hazırlama gibi bağlamlar ile öğrencilere hayvanlar için şefkat göstermenin ve merhamet değerinin önemi vurgulanabilir ( SDB2.3 , D9.3 ) . Bu süreçte en büyük ortak bölen (EBOB) ve en küçük ortak kat (EKOK) kavramlarına değinilmez. Öğrencilerin çevrim içi hesap makinelerinden, matematik yazılımından veya dijital oyunlardan ( E2.5 ) yararlanmaları sağlanabilir ( MAB5 ) . Bu araçlar ile öğrencilerin kavramları sorgulamaları ve bunun sonucunda işlemlere ilişkin çok yönlü ve derin bir bakış açısı geliştirmeleri sağlanabilir.",
+    "Öğrencilerden problem bağlamları ya da matematiksel durumlar üzerinden iki doğal sayının ortak bölenlerini ya da ortak katlarını bireysel ya da grup çalışması ile incelemeleri beklenir ( SDB2.2 ) . Ortak böleni sadece \"1\" olan iki doğal sayının aralarında asal olma durumu tartışılır. Öğrencilerin ortak kat ya da ortak böleni inceleme sürecinde çeşitli temsiller (çizim, tablo ve sayı doğrusu gibi) kullanmaları ( MAB3 ) ve bu temsiller üzerinden keşfettikleri ilişkileri açıklamaları istenir. İnceleme sürecinin sonunda tartışma ortamları oluşturularak çoklu çözüm yolları sınıfça tartışılabilir. Böylece her öğrencinin düşüncelerini özgürce ifade etmesi ve çeşitli görüşlere saygı duyması sağlanır, bu da etkili iletişim becerilerinin gelişimine katkıda bulunur ( D14.1 ) . İki doğal sayının ortak bölen ve ortak katlarına ilişkin günlük hayat bağlamında öğrencilerin yorum yapmalarına olanak sağlayan farklı madde türlerinden (açık uçlu, doğru yanlış, eşleştirme) oluşan izleme testi kullanılabilir. Elde edilen sonuçlara dayalı olarak öğrencilere geri bildirim verilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.3",
+      "E3.6",
+      "E3.7",
+      "E3.9"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/456"
+}

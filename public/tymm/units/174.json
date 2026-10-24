@@ -1,0 +1,59 @@
+{
+  "unitId": 174,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Kur'an-ı Kerim Dersi",
+  "title": "1. TEMA: KUR’AN-I KERİM’İ TANIYORUM",
+  "hours": "16",
+  "description": "Bu temada öğrencilerin; Kur’an-ı Kerim’in iç düzenini sağlayan ayet, sure, hizip ve cüzü Kur’an’dan bulması, peltek harfleri seslendirmesi, Bakara suresi 84-105. ayetlerini yüzünden okuması, Salli ve Barik dualarının anlamlarını yorumlayıp okunuşlarını ezberlemesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KK.6.1.1",
+      "title": "Kur'an-ı Kerim'in iç düzenini sağlayan ayet, sure, hizip ve cüzü Kur'an'dan bulabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.6.1.2",
+      "title": "Kur'an-ı Kerim'in peltek harflerini seslendirebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.6.1.3",
+      "title": "Bakara Suresi 84-105. ayetlerini yüzünden okuyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KK.6.1.4",
+      "title": "Salli ve Barik dualarının anlamlarını yorumlayabilme",
+      "processComponents": [
+        "a) Salli ve Barik dualarının anlamlarını inceler.",
+        "b) Salli ve Barik dualarını kendi hayatı için anlamlı hâle getirir.",
+        "c) Salli ve Barik dualarını anlamlarını değişmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "KK.6.1.5",
+      "title": "Salli ve Barik dualarını ezberleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "ayet, cüz, hizip, salavat, sure",
+  "support": [
+    "Öğrencilerden ayet, sure, cüz ve hizip işaretlerini gösteren bir pano tasarlamaları istenebilir. Farklılaştırılmış öğretimin destekleme boyutu; öğrenme sürecinde daha fazla zaman ve tekrara ihtiyaç duyan öğrenciler için içerik, süreç, ürün ve öğrenme ortamındaki uyarlamaları kapsar."
+  ],
+  "enrichment": [
+    "Öğrencilerin Arapça rakamlar ve bunların Türkçedeki karşılıklarını içeren bir görsel hazırlamaları teşvik edilebilir. Kur'an-ı Kerim'in iç düzenindeki işaretlerde bulunan tezhip sanatını görmeleri için öğrencilerden camilerde gözlem yapmaları istenebilir. Öğrencilerden öğrenme özelliklerine ve içerik çerçevesine göre afiş, rapor, sunum, blog yazısı gibi ürünlerden birini hazırlamaları istenebilir. Öğrenciler, Al-i İmran suresinden 122-153. ayetlerini yüzünden okumaya yönlendirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gelişim günlükleri, öz değerlendirme formu, kontrol listesi, dereceli puanlama anahtarı, kelime ilişkilendirme testi, gözlem formu, dereceleme ölçeği, çalışma yaprağı, yapılandırılmış grid ve performans görevi kullanılarak değerlendirilebilir. Öğrencilerden performans görevi olarak ayet, sure, cüz ve hizip kelimeleriyle ilgili kavram karikatürü hazırlamaları istenebilir. Bu çalışma; veri toplama, verileri kaydetme, sınıflandırma, bilimsel gerçeklik, düzen ve görsel sunum ölçütleri bulunan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KK.6.1.1 Kur'an-ı Kerim'in iç düzeniyle ilgili kavramların ayet, sure, cüz ve hizip olduğu belirtilerek hizip kavramı tanımlanır. Ayet, sure ve cüz kavramlarının anlamları kavram kontrolü tekniğiyle tekrar hatırlatılabilir. İlgili kavramlar arasındaki ilişki belirlenir. Ayet, sure, cüz, hizip işaretlerinin nasıl olduğu Kur'an-ı Kerim üzerinden gösterilerek öğrencilerin bunları gördüğünde tanıması ve bulması sağlanır (OB9) . Sürecin değerlendirilmesinde kelime ilişkilendirme testi, soru kutusu ve anlam çözümleme tablosu kullanılabilir. Öğrencilerin öğrenme kanıtlarında belirtilen performans görevini yapması sağlanabilir. Bu süreçte öğrencilerin bilgi toplamaya dair ihtiyacı fark etmesi ve bilgileri toplayarak (OB1) sunum hazırlaması beklenir. Performans göreviyle ilgili öğrencilere geri bildirim verilir.",
+    "KK.6.1.2 Peltek harflerin doğru bir şekilde öğrenilmesi ve telaffuz edilmesi gerektiği belirtilerek bilişsel çıraklık tekniğiyle bu harfler seslendirilebilir. Bu süreçte harflerin geçerli ve güvenilir dijital kaynaklar kullanılarak tekrar edilmesine imkân sağlanır. Öğrencilerin kendi ilerlemesini takip etmesine ve öz değerlendirmesine imkân veren gelişim günlükleri tutarak sorumluluk almaları (D16.4) istenebilir. Sürecin değerlendirilmesinde yapılandırılmış grid ve peltek harflerin seçilerek işaretleneceği çalışma yaprağı kullanılabilir.",
+    "KK.6.1.3 Öğrencilerin Bakara suresinin 84-105. ayetlerini yüzünden okuması istenerek daha önce öğrendikleri tecvit ve mahreç kurallarını okudukları ayetler üzerinde uygulamaları sağlanır. Kur'an-ı Kerim'i yüzünden okuma becerisi kazandırılırken sınıftaki bütün öğrencilerin, öğretmenin belirleyeceği ayetleri veya sayfaları okuması ve okuyanları dinleyip takip etmesi beklenir. Öğrencilerin öğrenme düzeyine göre tekrar çalışması yaptırılabilir. Söz konusu ayetler geçerli ve güvenilir dijital kaynaklardan da dinletilerek öğrencilerin okuyuşları desteklenebilir. Bakara suresinin 84-105. ayetlerini yüzünden okumaya dair uygulamalar; öz değerlendirme formu, dereceleme ölçeği ve kontrol listesi ile değerlendirilebilir.",
+    "KK.6.1.4 Hz. Muhammed'in (sav) adı anıldığında salavat okunduğu belirtilerek Salli ve Barik dualarının anlamı açıklanır. Öğrencilerden Salli ve Barik dualarının anlamlarını incelemeleri istenir. Öğrencilerin söz konusu duaların manasını ve okunduğu durumları göz önünde bulundurarak bu duaları kendi hayatları için anlamlı hâle getirmesi sağlanır. Öğrencilerin söz konusu duaların anlamını suredeki bağlamından koparmadan kendi cümleleriyle ifade etmesi teşvik edilir. Bu süreçte din kültürü ve ahlak bilgisi ile Türkçe disiplinlerinden yararlanılır. Öğrencilerden salavat kelimesi ile Salli ve Barik dualarının anlamı ve kullanımına dair röportaj yapmaları istenebilir (KB2.6) . Öğrenciler röportaj yaparken başkalarını etkin bir şekilde dinlemiş olur (SDB2.1) . Röportajda öğrenciler topladığı verileri (OB7) farklı şekillerde (yazılı rapor, sözlü sunum, blog yazısı vb.) sunabilir. Sunum yapan öğrencinin performansını geliştirmesine ve gelecekteki sunumlarını daha etkili hâle getirmesine yardımcı olacak dönütler verilir. Yapılan sunumlar dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "KK.6.1.5 Öğrencilerden Salli ve Barik dualarını ezberlemeleri istenir. Ezber çalışmalarında bilişsel çıraklık tekniği kullanılabilir. Bu süreçte geçerli ve güvenilir dijital kaynaklardan yararlanılabilir. Öğrencilerin söz konusu duaları doğru telaffuz edebilmeleri için tekrar yöntemi kullanılabilir. Ezber çalışmaları sınıf ortamında ve koro hâlinde yapılabilir. Öğrenciler, zihinsel ve bedensel yetilerini en iyi düzeyde kullanma ve gerekli çabayı gösterme (E3.2) konusunda teşvik edilerek öğrencilerden Salli ve Barik dualarını ezberden okuma becerisinin geliştirilmesi beklenir. Salli ve Barik dualarının ezberden okunması ve seslendirilmesine yönelik uygulamalar, kontrol listesi ve gözlem formu aracılığıyla değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/174"
+}

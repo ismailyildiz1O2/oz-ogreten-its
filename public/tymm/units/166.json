@@ -1,0 +1,75 @@
+{
+  "unitId": 166,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "5. TEMA: NESNELERİN GEOMETRİSİ (2)",
+  "hours": "11",
+  "description": "Bu temada öğrencilerin mesafe ve yönleri içerecek şekilde hedefe ulaşmak için kullanacağı uygun stratejilere karar verebilmesi; verilen şekiller arasından simetrik olanları ayırtedebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.2.3.6",
+      "title": "Mesafe ve yönleri içerecek şekilde hedefe ulaşmak için uygun stratejilere karar verebilme",
+      "processComponents": [
+        "a) Hedefe ulaşmak için ölçüt belirler.",
+        "b) Belirlediği ölçüte uygun bilgileri toplar.",
+        "c) Topladığı bilgilerden ölçüte yönelik seçenekler oluşturur.",
+        "ç) Oluşturduğu seçenekler üzerinde mantıksal denetleme yapar.",
+        "d) Seçenekler arasından ölçüte uygun seçim yapar.",
+        "e) Ölçüt değişikliği durumunu sürece yansıtır."
+      ]
+    },
+    {
+      "code": "MAT.2.3.7",
+      "title": "Verilen şekiller arasından simetrik olanları ayırt edebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "• simetri, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrencinin kendi konumunu referans almasında yardımcı olabilecek araç gereç ile desteklenen etkinlikler yapılır. Görsel ve işitsel materyallerle konu desteklenir. Öğretim süreci oyunlaştırılır. Öğrenciye yer, yön ve konum bildiren alternatif ifadeleri kendi sözcükleriyle oluşturmaları ve bunları kullanarak kaybolma gibi günlük yaşam durumlarına çözüm oluşturması beklenir. Modeller üzerinde deneyimlerin ve etkileşimin çokça yer aldığı birden çok duyuya hitap eden materyallere yer verilir.",
+    "Günlük yaşamda öğrencinin sıklıkla karşılaştığı nesneler arasından simetrik olanları ayırt edebilmelerini sağlamaya yönelik düşün eşleş paylaş etkinliği yapılır. Bu etkinlik sırasında öğrencilerin simetrik olan nesneleri düşünmeleri, simetrik olan nesneleri eşleştirmeleri ve sınıf içinde paylaşmaları sağlanır."
+  ],
+  "enrichment": [
+    "Doğada oryantiring etkinliği yapılır ve günlük yaşam senaryolarından faydalanarak proje görevleri oluşturulur. Örneğin ormanda veya okyanusta mahsur kalma durumlarında kendisini güvenli bir konuma ulaştıracak alternatif çözüm haritaları ve ailesiyle birlikte gidebileceği hafta sonu gezi etkinliğinin yol haritasını planlama gibi özgün çalışmalara yer verilir.",
+    "Ailesiyle birlikte gittiği göl kenarı gezisinde, çevreyi gözlemleyerek ve simetri oluşturan unsurları belirleyerek bir etkinlik gerçekleştirmesi istenir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; açık uçlu sorular, kontrol listesi, performans görevi ve ürün dosyası (portfolyo) ile değerlendirilebilir.",
+    "Öğrencilere hedefe ulaşma sürecinde yer, yön ve konuma ilişkin aşamaları gerçekleştirme durumlarını içeren harita çizimleri gibi performans görevleri verilebilir. Performans görevinin ve ürün dosyalarının değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.2.3.6 Öğrencilerin akran öğrenmelerinden yararlanarak yer, yön ve konum kavramlarına ait bilgilerini tekrar edeceği eğitsel oyunlarla derse başlanır ( SDB2.1 ) . Derse başlangıç etkinliği, hedefe ulaştıracak yönergelerin bulunduğu görev listesi çalışma kâğıdı şeklinde sunulabilir. Öğretim süreci planlanırken oryantiring, harita kullanımı ve kodlama gibi etkileşimli etkinliklerden veya yazılımlardan (3 boyutlu) faydalanılır. Dersin işlenişinde öğrencilere yönelik, hedefe ulaşma gerektiren bir problem durumu tasarlanılır ( MAB2 ) . Öğrencilerden hedefe ulaşırken kullanacağı yer, yön, konum ve mesafeyi kendisinin belirlemesi ve süreci planlaması istenir ( D3.2 ) . Öğrencilere, hedefe ulaşmak için en uygun yol, en kısa mesafe, uğranması gereken yerler gibi ölçütler belirlemeleri söylenir ( OB1 , SDB1.2 , SDB3.2 ) . Öğrencilerin dijital araçlarla iş görme becerilerini geliştirmek için belirlediği ölçüte uygun bilgileri toplanmasında dijital yazılım, teknolojik araç gereç ve harita gibi kaynaklardan yararlanabileceği söylenir ( E3.2 , OB1 , OB2 ) . Toplanan bilgilerin özetlenmesi ve varsa görsellerin yorumlanması ile ölçüte yönelik seçeneklerin oluşturulması istenir ( OB1 , OB4 ) . Oluşturulan seçenekler üzerinden bilgilerin karşılaştırılması, sentezlenmesi, ve görseller arasında eleştirel düşünme gibi mantıksal denetlemelerin yapılması beklenir ( OB4 , KB2.7 , SDB1.2 , E1.3 ) . Seçenekler arasından ölçüte uygun bir seçim yapılır ve bu seçim hedefe ulaşmak için uygulanır. Beklenmedik durumların gerçekleşmesi durumunda ise ölçüt değişikliği yapılır ve gerekirse yön, konum ve mesafe değişikliği ile süreç tekrardan ele alınır ( SDB1.2 ) . Bu öğrenme çıktısının değerlendirilmesi amacıyla açık uçlu sorulardan yararlanılabilir. Bu soruların değerlendirilmesinde kontrol listeleri kullanılabilir. Belirlenen bir hedefe ulaşmak için gerekli aşamaları içeren kodlama ve harita çizimleri gibi çalışmaların bulunduğu performans görevleri verilebilir. Verilen performans görevleri analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.2.3.7 Hazır bulunuşluk düzeylerinden ve gözlemleme becerilerinden hareketle doğada ve çevresinde gördüğü birbirine eş görüntü (aynı figürün ya da desenin karşı tarafta aynı şekilde yinelendiği) durumuyla ilgili yaşantıları paylaşımları istenir ( KB2.2 ) . Varlıkların suya yansıma görüntüsü ve kelebeğin her iki kanadı gibi bilgilerden hareket edilir ( KB2.2 ) . Ders öncesinde öğrencilerden ip, sulu boya, resim kâğıdı ve aynı görsel özelliklere sahip şekil modellerinden ikişer adet olmak üzere merak uyandıran malzemelerle derse gelmeleri istenir ( E1.1 ) . Kâğıdı iki eş parça olacak şekilde katlayıp ip baskısı etkinlikleri yapılır. Katlama sonucu oluşan çizgiye odaklatılır ve bu çizginin her iki yanındaki görsellerin birbirinin yansıması olduğuna dikkat çekilir. Öğrencilerin simetri çizgisinin, bir şeklin simetrisini oluşturan doğru olduğunu fark edilmeleri sağlanır. Bu süreçte öğrencilerden eşli gruplar oluşturulur ( SDB2.2 ) . Simetri doğrusuna eşit uzaklıkta ve görsel özellikleri yönünden benzer şekil modellerinin kullanılarak simetrik modeller oluşturdukları oyunlar tasarlanır ( E2.5 ) . Her iki çalışmada da görseller üzerinde oluşan simetrinin fark edilmesi sağlanır. Simetri teriminin tanımı verilmeden öğrencilerin ön bilgileri harekete geçirilerek açıklanır. Eş parçaların birbirlerinin simetrisi olduğu modellenerek pekiştirilir. Geometrik şekiller ve harfler içerisinde katlandığında simetri oluşturacak şekillerin incelenmesi gibi etkinlikler ile genelden özele bir yol izlenir. Katlama ve eşleme etkinliklerinin yer aldığı çalışma kâğıtları verilebilir. Bu çalışmayla günlük yaşamdaki gözlemlerine bağlı olarak yaprak, elma, deniz yıldızı gibi örneklerden iki eş parçaya ayrıldığında veya katlandığında simetri oluşturan nesneleri sunması sağlanır. Tüm çalışmalar ürün dosyasında (portfolyo) toplanabilir. Ürün dosyasının değerlendirilmesi analitik dereceli puanlama anahtarı ile yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E2.5",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.7"
+    ],
+    "alan": [
+      "MAB2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/166"
+}

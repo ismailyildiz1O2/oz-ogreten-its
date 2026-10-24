@@ -1,0 +1,48 @@
+{
+  "unitId": 81424120,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "120. ÜNİTE: TEZHİP - TEZHİP VE BOYAMA TEKNİKLERİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.2.4.1",
+      "title": "İs mürekkebi kullanarak fırçayı kullanır",
+      "processComponents": [
+        "İs mürekkebinin hazırlanmasında gerekli olan malzemeler (İs, Arap zamkı) tanıtılır ve is mürekkebin nasıl hazırlanacağı gösterilip uygulatılır."
+      ]
+    },
+    {
+      "code": "GTSA.2.4.2",
+      "title": "Hâlkâri tekniği uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.4.3",
+      "title": "Hâlkâri tahriri konusunda pratik yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.4.4",
+      "title": "Çift tahrir tezhip tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.4.5",
+      "title": "Yarı üsluplaştırılmış motifleri tanıyarak akıtma usulünde boyar",
+      "processComponents": [
+        "Yarı üsluplaştırılmış çini motifleri incelenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

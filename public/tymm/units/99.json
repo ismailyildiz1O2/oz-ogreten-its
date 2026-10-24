@@ -1,0 +1,87 @@
+{
+  "unitId": 99,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "4. TEMA: İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+  "hours": "50",
+  "description": "Bu temada öğrencilerin günlük yaşamın içerdiği toplama ve çıkarma işlemlerini çözümleyebilmesi; 20’den küçük sayılarla toplamları 20’ye kadar (20 dâhil) olan eldesiz toplama işlemi ve onluk bozma gerektirmeyen 20’den (20 dâhil) küçük sayılarla çıkarma işlemi yapabilmesi; toplama ve çıkarma işlemi bağlamında eşitliği yorumlayabilmesi; toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilmesi; toplama ve çıkarma işlemi arasındaki ilişkiyi yorumlayabilmesi; toplama işleminde değişme özelliğini ve işlemlerde verilmeyen terimi belirleyebilmesi; problem durumunu toplama ve çıkarma işlemi ile çözümleyebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.1.2.1",
+      "title": "Günlük yaşamın içerdiği toplama ve çıkarma işlemlerini çözümleyebilme",
+      "processComponents": [
+        "a) Günlük yaşam durumunun toplama ve çıkarma işlemlerinden hangisini gerektirdiğini fark eder.",
+        "b) Günlük yaşam durumuna karşılık gelen toplama ve çıkarma işlemlerini birbiri ile ilişkilendirir."
+      ]
+    },
+    {
+      "code": "MAT.1.2.2",
+      "title": "Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme",
+      "processComponents": [
+        "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler.",
+        "b) Toplama ve çıkarma işlemlerine ilişkin ögeler arasındaki ilişkileri belirler.",
+        "c) Toplama ve çıkarma işlemlerine yönelik tahmin ve zihinden işlem sonuçları arasında ilişki kurar.",
+        "ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.1.2.3",
+      "title": "Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme",
+      "processComponents": [
+        "a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler.",
+        "b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür.",
+        "c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder."
+      ]
+    },
+    {
+      "code": "MAT.1.2.4",
+      "title": "Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme",
+      "processComponents": [
+        "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler.",
+        "b) Toplama ve çıkarma işlemlerini tersine dönüştürür.",
+        "c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler Toplama ve çıkarma matematikte temel aritmetik işlemlerdendir., Anahtar Kavramlar toplama, toplanan, toplam, artma, çoğalma, artı, çıkarma, eksilen, çıkan, fark, azalma, eksilme, eksi, eşittir Sembol ve Gösterimler • +, −, =",
+  "support": [
+    "Günlük etkinliklerde işlemlerden cebirsel düşünmeye sevk edecek (toplama ve çıkarma) matematiksel bağlantılar bireysel çalışma ve grup çalışması yapılarak belirlenir. Belirlenen duruma ilişkin öğrenci performansına uygun toplama ve çıkarma işlemi gerektiren günlük yaşam durumları hakkında öğrencilerin kendilerini ifade etmeleri sağlanır. Eğitici matematik oyunları (Toplama-çıkarma işlemleri ile ilgili yapboz, eşleştirme oyunu vb.) kullanılarak öğrencilerin toplama ve çıkarma işlemi ile ilgili durumlara odaklanması sağlanır. Öğretim sürecinde çalışma sayfaları ve çoklu duyuya hitap eden matematiksel araç ve teknolojiler destekleyici olarak kullanılır. Bu araç ve teknolojiler üzerinde görsel ipuçları ve çeşitli sorularla adım adım rehberlik yapılarak öğrencilerin öğrenme süreçleri desteklenir."
+  ],
+  "enrichment": [
+    "Öğrencilere farklı matematiksel ifadeler verilip sonucu aynı olanları tahmin ederek gruplandırmaları istenir. Öğrenci seviyesine uygun, toplama ve çıkarma işlemlerini gerektiren çeşitli eğitsel oyunlar (toplama yarışı, toplama görevi, toplama-çıkarma kart oyunları, bende/kimde gibi) oynatılarak öğrenme süreci zenginleştirilir. Öğrencilerden konular ile ilgili özgün matematik hikâyeleri tasarlamaları ve arkadaşları ile paylaşmaları istenir. Tahminde bulunma ve zihinden işlem sorularında öğrencilere daha büyük sayılarla işlem yapma görevleri verilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; gözlem formu, açık uçlu sorular, boşluk doldurma ve eşleştirme sorularından oluşan çalışma kâğıtları ve kontrol listeleri kullanılarak değerlendirilebilir. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme öğrenme çıktısını değerlendirmek üzere öğrencilere performans görevi verilebilir. Performans görevleri analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.1.2.1 Öğrencilere oynayacakları oyun ile ilgili yönergeler verilerek sınıf ortamını düzenlemeleri sağlanır ve çeşitli sorularla merak uyandırılır ( E1.1 ) . Öğrenciler gruplara ayrılarak birleşme, ayrılma, artma, azalma gibi etkinlikler içeren bir oyun oynanır. Oyunun kendisine değil artma ve azalma durumlarına odaklanmaları sağlanır ( E3.2 ) . Günlük yaşam durumlarını içeren etkinliklerde, artma durumunda toplama işlemi; azalma durumunda ise çıkarma işleminin gerektiği (iki basamaklı sayı ile tek basamaklının sayının toplandığı, eldesiz; iki basamaklıdan tek basamaklının çıkartıldığı, onluk bozma gerektirmeyen) açıklanır. Sınıfta gruplar oluşturularak her bir gruptaki öğrencilerin sayma yapması istenir. Son öğrencinin söylediği sayının grubun toplam sayısı olduğunun fark edilmesi sağlanır. Bu süreçte 20'den küçük ve toplamları 20'ye kadar (20 dâhil) olan sayılarla eldesiz alt alta ve yan yana toplama işlemi yapılır (iki sayı ile sınırlı kalınır). Bunun yanında süreçte öğrencilerin etkin dinlemeleri, duygu ve düşüncelerini ifade etmeleri ya da grup etkileşimine katılmaları sağlanarak etkileşim sürdürülür ( SDB2.1 , D4.2 ) . Bir araya getirme yoluyla toplama işlemi",
+    "gerçekleştirilirken büyük sayıdan başlanmasının kolaylık sağlayacağının ve toplama işleminin değişme özelliğinin anlaşılmasına yönelik etkinlikler yapılır ( SDB3.3 , E3.6 ) . Grup çalışmaları veya oyunlar aracılığıyla öğrencilere toplama işleminde değişme özelliğini pekiştirmeleri için fırsat tanınır ( E2.5 , E3.3 ) . Ayrıca bu süreçte sıfır sayısının etkisiz olduğu durumlara vurgu yapılır. Toplama işleminde sıfırın etkisi, bir sayının sıfır ile toplandığında sonucun sayının kendisine eşit olduğu belirtilerek vurgulanır. Bu durumun matematikte temel bir özellik olduğu ve herhangi bir sayıyı sıfır ile toplamanın toplamı değiştirmediğine vurgu yapılarak çeşitli örnekler verilir. Bunun yanında çıkarma işleminde öğrencilere bir sayıdan sıfır çıkarmak veya bir sayıdan kendisini çıkarmak arasındaki ilişki örneklerle gösterilir. Öğrencilerin sıfır sayısının çıkarma işlemi sırasındaki etkilerini kavramaları sağlanır. Ayrıca süreçte yapılan çıkarma işlemlerinde 20'ye kadar (20 dâhil) olan bir çokluktan belirtilen sayı kadarının eksiltilmesi istenir. Öğrencilerin sınıf içerisinde somut yaşantılar yolu ile gruplama, toplama, eksilme kavramlarını öğrenme durumları gözlem formu ile kontrol edilebilir. Öğrencilere üzerine sayma veya bir grup nesne içerisinden bir kısmını ayırma etkinliklerinin her aşamasında sorular sorularak beyin fırtınası yapılabilir ( SDB2.2 ) . Bu tür etkinliklerde kontrol listeleri ile ölçme faaliyetleri yapılabilir. Toplama ve çıkarma işlemlerini ve toplama işleminin değişme özelliğinin yer aldığı açık uçlu sorulardan oluşan çalışma kâğıtları uygulanabilir.",
+    "MAT.1.2.2 Toplama ve çıkarma işleminin ögeleri ve ögelerin isimleri, işlemler üzerinde ifade edilir. Bu ögeler arasındaki ilişkileri öğrencilerin kendi ifadeleriyle belirtmesi beklenir. Bu şekilde ögeler arasındaki ilişkiler ortaya konur. Öğrencilerin toplama ve çıkarma ile ilgili tahmin etme ve zihinden işlem yapma becerilerini geliştirebilmek için kendi stratejilerini oluşturmalarına fırsat verilir. Bu amaçla günlük yaşam durumlarından yola çıkılarak öğrenciyi bir problem (bir işlem gerektiren) ile karşı karşıya bırakacak ve kendi çözüm yollarını bulmaları için analitik düşünmeye yönlendirecek etkinlikler yapılır ( SDB3.2 , E3.6 ) . Toplama ve çıkarma işlemine yönelik tahmin ve zihinden işlem sonuçlarını ifade etmeleri sağlanır. Büyük sayının üzerine saymanın kolaylık sağladığı durumlar açıklanır. Öğrencilerin 10'a tamamlama, toplamı aynı olan sayılar gibi stratejilere yönelik işlem deneyimi kazanacakları ilgilere ulaşmaları için çeşitli oyun ve etkinlikler yapılır. Tüm öğrencilerin tahmin ve zihinden işlem sonuçlarını ilişkilendirmeleri, bu ilişkiye yönelik çıkarımlarını kendi cümleleri ile ifade etmeleri sağlanır ( SDB3.3 ) . Öğrencilere içerisinde tahmin ve zihinden işlem içeren çeşitli etkinlikler verilerek açıkladıkları stratejiler doğrultusunda kontrol listeleri uygulanarak değerlendirme yapılabilir.",
+    "MAT.1.2.3 Toplama işleminde eşitlik kavramına dikkat çekmek için tahterevalli, eşit kollu terazi gibi denge durumunu gösterebilecek görsellerle veya öğrencilerin kollarını iki yana açmalarıyla denge durumunu ifade edecek etkinlikler yapılır. Toplama ve çıkarma işlemlerini içeren günlük yaşam durumlarınına yönelik eş nesneler ile kütlelerinin birbirine eşit olduğu durumlar değerlendirilir (Kütle kavramına değinilmez.). İki tarafa da aynı nesneden farklı sayılarda eklenerek kaç nesne daha eklendiğinde ya da çıkarıldığında dengenin oluşacağı sorulur. Nesnelerin bir araya getirilmesini temsil eden toplama işlemi ile bütünden bir parçanın çıkarılması anlamını içeren çıkarma işleminin yapıldığı etkinliklerde eşit işaretinin, eşitliğin her iki tarafında da eşit sayıda nesne olduğunu gösterdiği uygulamalarla inceletilir ( OB1 ) . Satranç oyunundaki rakiplerin taş sayılarındaki artış, azalış ve eşitlik durumu dikkate alınarak toplama ve çıkarma işlemi arasındaki ilişkinin anlaşılması sağlanır. Toplamave çıkarma işlemleri arasındaki ilişki dikkate alınarak eşleştirme sorularından ve boşluk doldurma sorularından oluşan çalışma kâğıtlarından yararlanılabilir. Eşit işaretinin her zaman işlem sonucu anlamı taşımadığı, eşitliğin iki tarafındaki matematiksel ifadelerin eşitliğini gösterdiği vurgulanır. Öğrencilere günlük yaşantılarında karşılaştıkları toplama ve çıkarma işlemleri içeren örnek olay yazmaları, eşitlik kavramı için eşit kollu terazi modeli tasarlamaları ile ilgili performans görevi verilebilir ( SDB1.2 ) . Performans görevleri analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.1.2.4 Toplama ve çıkarma işlemlerinin aralarındaki ilişkiyi içeren (birbirinin tersi işlemler olmaları, bir işlemde verilmeyeni bulma için diğer işlemden yararlanılabileceği) durumların ön planda olduğu etkinliklerle işlemler arasındaki ilişki incelenir. İki işlem arasındaki ilişkinin üzerinde durulduktan sonra toplama ve çıkarma işlemlerini birbirine dönüştürecekleri etkinlikler yapmaları sağlanır. Toplama ve çıkarma işlemlerinin işlem süreçlerinin kendi cümleleriyle yeniden ifade edilmesine olanak sağlanır. Süreçte verilen toplama ve çıkarma işlemlerinde verilmeyeni bulma etkinlikleri bireysel olarak ya da grupla yapılır. Ayrıca mangala gibi eğitsel oyunlardan yararlanılarak toplama ve çıkarma işlemleri arasındaki ilişki verilir. Bu süreçte öğrenme-öğretme uygulamaları neticesinde öğrencilerin durumları boşluk doldurma sorularından oluşan çalışma kâğıtlarından yararlanılarak belirlenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.2",
+      "E3.3",
+      "E3.6"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/99"
+}

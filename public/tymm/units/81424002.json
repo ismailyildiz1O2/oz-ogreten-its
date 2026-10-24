@@ -1,0 +1,44 @@
+{
+  "unitId": 81424002,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "2. ÜNİTE: PİYANO - PİYANODA TONAL DİZİLER I",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.1.2.1",
+      "title": "Do majör diziyi parmak numaralarını kullanarak ters yönde iki oktav uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.2.2",
+      "title": "Do majör tonunda etüt ve eserler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.2.3",
+      "title": "Doğal la minör diziyi parmak numaralarını kullanarak ters yönde iki oktav uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.2.4",
+      "title": "Armonik la minör dizisini parmak numaralarını kullanarak ters yönde iki oktav uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.2.5",
+      "title": "La minör tonunda etüt ve eserler seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

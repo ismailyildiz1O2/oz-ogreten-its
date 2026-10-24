@@ -1,0 +1,76 @@
+{
+  "unitId": 149,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "1. ÜNİTE: KADER, İRADE VE SORUMLULUK",
+  "hours": "14",
+  "description": "Bu ünitenin odak noktasını kader, irade ve sorumluluk konuları oluşturmaktadır. Öğrencilerin kader ve kaderle ilgili kavramları yapılandırabilmesi, insan, akıl, irade ve sorumluluk arasındaki ilişki hakkında eleştirel düşünebilmesi amaçlanır. Kur’an’dan mesajlar bölümünde Bakara suresinin 286. ayeti ele alınır. Öğrencilerin bu ayette verilen mesajları özetleyebilmesi beklenir.",
+  "outcomes": [
+    {
+      "code": "DKAB.11.1.1",
+      "title": "Kader ve kaderle ilgili kavramları yapılandırabilme",
+      "processComponents": [
+        "a) Kader ve kaderle ilgili kavramları inceleyerek nedensel ilişkiler ortaya koyar.",
+        "b) Kader ve kaderle ilgili kavramlara dair elde ettiği bilgilere dayalı olarak bütüncül bir bakış açısı ortaya koyar."
+      ]
+    },
+    {
+      "code": "DKAB.11.1.2",
+      "title": "İnsan, akıl, irade ve sorumluluk kavramları arasındaki ilişki hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) İnsan, akıl, irade ve sorumluluk arasındaki ilişkiyi sorgular.",
+        "b) İnsan, akıl, irade ilişkisi bağlamında insanın özgür ve sorumlu bir varlık olduğu ile ilgili akıl yürütür.",
+        "c) İnsanın özgürlüğü ve sorumluluğu konusunda akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "DKAB.11.1.3",
+      "title": "Bakara suresi 286. ayetin mesajlarını özetleyebilme",
+      "processComponents": [
+        "a) Ayette verilen mesajlarla ilgili çözümleme yapar.",
+        "b) Ayette geçen konuları sınıflandırır.",
+        "c) Ayette verilen mesajları açıklar"
+      ]
+    }
+  ],
+  "keyConcepts": "insan, irade, kader, kaza, özgürlük, sorumluluk",
+  "support": [
+    "Kader ve insan ilişkisi konusunda, kavramları açıklamak için günlük hayattan örnekler ve hikâyeler kullanılabilir.",
+    "Aklıselim sahibi insan ve aklın hüküm verme kabiliyeti üzerine düşünmeleri için öğrencilere senaryo tabanlı örnek olaylar sunulabilir. Kur'an-ı Kerim ayetlerinin okunması ve yorumlanmasında, öğrencilere ayetlerin anlamını ve önemini daha iyi kavrayabilmeleri için görsel ve işitsel destekler sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden insanın Allah'a (cc), kendisine ve çevresine karşı sorumluluklarıyla ilgili bilgi grafiği hazırlamaları istenebilir.",
+    "Üniversite sınavına hazırlanan bir öğrencinin hedefe ulaşması sürecinde kader ve sorumluk arasındaki ilişki incelenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; bilgi kartı, 3-2-1 kartı, dereceli puanlama anahtarı, öz değerlendirme formu ve açık uçlu sorular kullanılarak değerlendirilebilir.",
+    "Öğrencilerden performans görevi olarak kaderle ilişkili olarak başarı-başarısızlık hakkında köşe yazısı yazmaları istenebilir. Bu performans görevi \"bilgiyi kullanma, dil ve anlatım kurallarına uygunluk, kaynak kullanma, metnin kapsam geçerliliği\" ölçütlerine göre dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir.",
+    "Sonuç değerlendirmede performans görevleri kullanılabileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.11.1.1 Öğrencilerin kaderle ilgili merak ettiklerini sormalarına imkân verilir ( E3.8 ) . Soru kutusu tekniği bu süreçte kullanılabilir. Kader ve kaza kavramları hakkında bilgi verilir. \"Sünnetullah, afet, rızık, sabır, ömür, ecel, hastalık, sağlık, başarı, başarısızlık, hidayet, dalalet, hayır, şer, dua, tevekkül, teslimiyet, rıza ve imtihan\" kavramları açıklanır. Bu bağlamda Hz. Eyyüb kıssasına vurgu yapılır. Rızık kavramı açıklanırken helal kazancın önemine değinilir. Öğrencilerin bu kavramların kaderle bağlantısını dikkate alarak nedensel ilişkiler kurmaları ve elde ettiği bilgilerle bütüncül bir bakış açısı ortaya koymaları sağlanır. Toplumda yaygın olan yanlış kader anlayışlarına dikkat çekilir. Öğrencilerin kaderin yanlış yorumlanmasından doğan sorunların, insanın iradesinden kaynaklandığı çıkarımında bulunmalarına rehberlik edilir. Fay hatları ya da dere yatakları üzerine ev yapmanın ortaya çıkarabileceği olumsuz durumlarla ilgili farkındalığı artırmak için tartışma tekniklerinden yararlanılabilir ( D5.2 , D16.2 ) . Bu süreçte Dünya Afet Risklerini Azaltma Günü'ne dikkat çekilebilir ve bu konuda etkinlikler yaptırılabilir. Ölçme ve değerlendirme uygulamalarında bilgi kartı kullanılabilir.",
+    "DKAB.11.1.2 İnsanın aklı sayesinde nesne, olay ve olgulara dair doğru-yanlış, iyi-kötü, güzel-çirkin, hayır-şer ayrımı yapabilen (temyiz ve tefrik kabiliyeti olan) bir varlık olduğu üzerinde durulur. Öğrenciler insan, akıl, irade ve sorumluluk arasındaki ilişkiyi sorgular. Bu bağlamda insanın özgürlüğü ve özgürlüğünün sınırları ele alınır ( E1.2 ) . İnsan için mutlak özgürlüğün olmadığı ifade edilir ancak insanın, davranışlarında özgürce karar verebildiği sürece sorumlu olduğu vurgulanır ( D11.1 ) . Bu süreçte rol oynama ve drama teknikleri kullanılabilir. Allah'ın (cc) bilgisi ve insanın iradesi arasındaki ilişkinin insanın akıllı, özgür ve sorumlu bir varlık olmasıyla çelişmediği belirtilir. Öğrenciler, insanın özgür ve sorumlu bir varlık olduğu ile ilgili akıl yürütür. Öğrenciler, mükellefiyet kavramıyla insanın özgürce karar vermesi ve kararlarının sorumluluğunu üstlenmesi arasında ilişki kurar ( SDB3.3 ) . Bu bağlamda insanın Allah'a (cc), kendisine ve çevresine karşı sorumlulukları belirlenir ( E2.2 ) . Bu süreçte İş Sağlığı ve Güvenliği Haftası ile ilgili bilgi verilebilir. Ölçme ve değerlendirme uygulamalarında 3-2-1 kartı kullanılabilir.",
+    "DKAB.11.1.3 Bakara suresinin 286. ayeti Diyanet İşleri Başkanlığı tarafından yayımlanan matbu ve dijital meallerden bulunarak incelenir ( OB2 ) . Ayetin nüzul sebebine, ayette geçen şahıslara, yerlere, konulara ve kavramlara yer verilir. Öğrenciler bu ayette verilen mesajları çözümler ve sınıflandırır. Bu süreçte bilgi kartları kullanılabilir. Öğrenciler ayette ele alınan konuları açıklar ( SDB2.1 ) . Ölçme ve değerlendirme uygulamalarında açık uçlu sorular kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.1",
+      "D16.2",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.2",
+      "E2.2",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/149"
+}

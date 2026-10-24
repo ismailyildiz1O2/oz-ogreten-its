@@ -1,0 +1,31 @@
+{
+  "unitId": 81424135,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "135. ÜNİTE: VİTRAY - ALÇILI VİTRAY",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.4.5.1",
+      "title": "Alçılı vitrayın teknik özelliklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.4.5.2",
+      "title": "Alçılı vitrayda kullanılan araç ve gereçleri açıklar",
+      "processComponents": [
+        "Bu teknikle yapılmış eserlerin görselleri örnek olarak gösterilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

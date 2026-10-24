@@ -1,0 +1,55 @@
+{
+  "unitId": 94126405,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "5. ÖĞRENME ALANI: ÜRETİM, DAĞITIM VE TÜKETİM",
+  "hours": "18",
+  "description": "Bu öğrenme alanı işlenirken sorumluluk ve tasarruf gibi değerlerle öz denetim, karar verme ve finansal okuryazarlık gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.5.1",
+      "title": "İstek ve ihtiyaçlarını ayırt ederek ikisi arasında bilinçli seçimler yapar",
+      "processComponents": [
+        "Kaynakların sınırlılığı, fayda ve maliyet dengesi göz önüne alınacaktır.",
+        "İstek ve ihtiyaçların birbirinden farklı olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "SB.4.5.2",
+      "title": "Ailesi ve yakın çevresindeki başlıca ekonomik faaliyetleri tanır",
+      "processComponents": [
+        "Gelir, gider, bütçe, üretim, dağıtım, tüketim ve meslek gibi kavramları kullanarak öğrencinin yakın çevresindeki ekonomik faaliyetleri gözlemlemesi ve raporlaştırması sağlanır."
+      ]
+    },
+    {
+      "code": "SB.4.5.3",
+      "title": "Sorumluluk sahibi bir birey olarak bilinçli tüketici davranışları sergiler",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.5.4",
+      "title": "Kendine ait örnek bir bütçe oluşturur",
+      "processComponents": [
+        "Öğrencinin ailesi ile beraber örnek bir bütçe miktarı üzerinden gelir gider tablosu oluşturması sağlanır.",
+        "Yöresel ve sosyo-ekonomik şartlar ile ailelerin gelir düzeyleri dikkate alınır."
+      ]
+    },
+    {
+      "code": "SB.4.5.5",
+      "title": "Çevresindeki kaynakları israf etmeden kullanır",
+      "processComponents": [
+        "Sahip olduğu kaynakları bilinçli kullanarak tasarrufta bulunması gerektiği vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Üretim, Dağıtım ve Tüketim",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

@@ -1,0 +1,54 @@
+{
+  "unitId": 1172,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "1. TEMA: GİTARDA DOĞAÇLAMA ÇALIŞMALARI",
+  "hours": "16",
+  "description": "Temada öğrencilerin gitarda doğaçlama çalışmaları yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.8.1.1",
+      "title": "Gitarda doğaçlama yapabilme",
+      "processComponents": [
+        "a) Doğaçlama yapılacak şarkıları çözümler.",
+        "b) Çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Doğaçlama parçalarda çalgıya özgü teknikleri kullanır.",
+        "ç) Parçaları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "armoni, doğaçlama, gitar, ritim",
+  "support": [
+    "Öğrencilerin basit ezgiler üzerine kendi melodileri yaratmaları için grup çalışmaları yapmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, popüler bir şarkıyı yeniden düzenleyebilir veya bu şarkıya özgün bir yorum katabilirler. Öğrencilerin çalgılarına özgü tekniklerini geliştirmek için popüler müzik şarkılarındaki hızlı pasajlar, arpejler gibi teknik varyasyonlar üzerinde çalışılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; grup değerlendirme formu, öz değerlendirme formu, akran değerlendirme formu, derecelendirme ölçeği ve birlikte çalma performans gözlem formu kullanılarak ölçülebilir. Öğrencilerin oluşturdukları çalgı topluluklarıyla belirledikleri popüler müzikleri topluluk önünde icra etmesi için performans görevi verilebilir. Verilen performans görevi, birlikte çalma performans gözlem formuna göre değerlendirilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu, birbirlerini değerlendirmeleri için akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.8.1.1",
+    "Öğretmen dersin başlangıcında öğrencilerle doğaçlamanın temel kavramları ve önemine dair kısa bir tartışma yapar ( SDB2.2 ). Öğrencilerden daha önce duydukları doğaçlama örneklerine dair düşüncelerini paylaşmaları istenir. Öğrenciler, doğaçlama sırasında kullanılan teknikler ve müziksel bileşenler hakkında fikirlerini belirterek bu sürecin müzikle nasıl bir bağlantı kurduğunu anlamaya çalışırlar ( SDB2.1 ). Öğrenciler verilen parçaları çözümler ve gitara özgü duruş ve tutuş pozisyonu alır. Ardından öğretmen rehberliğinde doğaçlama için gerekli olan temel gitar tekniklerine (arpej, legato) dair kısa bir çalışma yapılır. Öğrenciler bu çalışmalarda gitara özgü teknikleri kullanırlar. Öğrenciler, her teknik üzerinde bireysel olarak çalışarak doğaçlama sırasında bu teknikleri nasıl etkili kullanabileceklerini keşfederler ( KB2.4 ). Öğrenciler parçaları müziksel bileşenlerine uygun olarak çalarlar. Dersin sonunda öğrencilerden çaldıkları doğaçlama parçalarını sınıf önünde sunarak birbirlerine karşı saygılı ve ön yargısız şekilde bakabilmeyi öğrenmeleri beklenir ( E3.5 ). Öğrenciler, bu performans sırasında kendilerine ve akranlarına nezaket çerçevesinde geri bildirimde bulunur ( D14.1 ). Öğrenciler, kendi doğaçlama süreçlerini videoya kaydederek hafıza kartı aracılığıyla etkileşimli tahtadaki kişisel klasörlerine kaydederler ( OB2 )."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1"
+    ],
+    "egilim": [
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1172"
+}

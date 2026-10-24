@@ -1,0 +1,55 @@
+{
+  "unitId": 1166,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "3. TEMA: KÜRDİ MAKAM DİZİSİYLE İCRA",
+  "hours": "18",
+  "description": "Temada öğrencilerin kürdi makamında dizi çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.6.3.1",
+      "title": "Gitarda kürdi makamındaki şarkıları çalabilme",
+      "processComponents": [
+        "a) Gitarda kürdi makamındaki şarkıları çözümler.",
+        "b) Gitarda kürdi makamındaki şarkıları çalarken çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Gitarda kürdi makamındaki şarkıları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Gitarda kürdi makamındaki şarkıları çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, gitar, kürdi",
+  "support": [
+    "Öğrencilerin teknik becerilerini güçlendirmek için parmak pozisyonlarına ve gitar tutuşuna yönelik ek çalışmalar yapılabilir. Parmak kaslarını esnetmek ve hız kazanmalarını sağlamak için basit egzersizler uygulanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler kürdi dizisine uygun olarak farklı akorlar ve eşlikler ekleyerek eserin armonik yapısını keşfedebilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak kürdi makamındaki dizileri çalma görevi verilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.6.3.1",
+    "Dersin başlangıcında kürdi makam dizisi etkileşimli tahta üzerinden kısa videolar aracılığıyla izletilir ( OB4 ). Önce bireysel, ardından topluca icra edilir. Kürdi makamındaki eser, öğrencilere notalar üzerinden yansıtılır ve eserin yapısı hakkında gözlem yapmaları istenir ( KB2.2 ). Eser dinletildikten sonra öğrencilerden nota kâğıdından takip ederek eserin melodik yapısını ve ritmik düzenini çözümlemeleri istenir. Eserin dinlenmesinin ardından öğrencilerden bireysel olarak deşifre yapmaları istenir. Deşifre sürecinde öğrenciler çalgıya özgü duruş ve tutuş pozisyonu alır. Öğrenciler, deşifreyi ölçüler hâlinde adım adım tamamlar ( D12.3 ). Bu aşamada öğretmen her öğrencinin gitara özgü doğru teknikle çalmasını denetler ve gerektiğinde geri bildirimlerde bulunur. Yavaş tempodan başlayarak öğrencilerin müzikal dinamikler, tempo uyumu ve melodik yapıyı dikkate alarak eserleri çalmaları sağlanır. Öğrencilerden ezgisel yapıyı ve ritmi uygun şekilde kullanarak kürdi makamındaki eseri doğru bir şekilde icra etmeleri beklenir. Eserin icrası sırasında öğrenciler arasında grup çalışmaları yapılır ( SDB2.2 ). Bu süreçte öğrenciler birlikte çalarak notaları ve ritimleri takip eder, uyum içinde bir bütün oluştururlar ( SDB2.1, SDB2.2 ). Her öğrenci, grup içindeki diğer öğrencilerin yaşadığı güçlüklere anlayışla yaklaşır, sabırla dinler ve gerektiğinde birbirlerine yardımcı olur ( D4.2 , D12.1, E2.1 ). Grup içinde her öğrencinin kendi rolünü en iyi şekilde yerine getirmesi ve böylece sorumluluk duygusunun gelişmesi beklenir ( D16.1 )."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D16.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.1"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1166"
+}

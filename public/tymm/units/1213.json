@@ -1,0 +1,61 @@
+{
+  "unitId": 1213,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "4. TEMA: NEYDE TEMEL DAVRANIŞLAR 2",
+  "hours": "8",
+  "description": "Temanın içeriğini neyde duruş, tutuş, baş, boyun, sırt ve bacakların pozisyonu gibi teknik özellikler oluşturmaktadır. Bu doğrultuda neyde doğru duruş ve tutuş pozisyonu ile ilgili belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "NEY 2.4.1. Doğru oturma pozisyonunda baş ve boyunun alması gereken şekli yorumlayabilme",
+      "processComponents": [
+        "a) Baş ve boynun alması gereken şekli inceler.",
+        "b) Baş ve boynun alması gereken şekli fiziksel özelliklerine göre uygular.",
+        "c) Baş ve boynun alması gereken kopmadan fiziksel özelliklerine göre ifade eder."
+      ]
+    },
+    {
+      "code": "NEY.2.4.2",
+      "title": "Doğru oturma pozisyonunda, sırt ve bacakların alması gereken şekli yorumlayabilme.",
+      "processComponents": [
+        "a) Sırt ve bacakların alması gereken şekli inceler.",
+        "b) Sırt ve bacakların alması gereken fiziksel özelliklerine göre uygular.",
+        "c) Sırt ve bacakların alması gereken şekli fiziksel özelliklerine göre yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "doğru duruş, teknik, tutuş",
+  "support": [
+    "Bu süreçte öğrenme süreci görsel materyaller ve video kayıtları izlettirilerek öğrencilerin motivasyonu arttırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazırbulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencilerin neyde doğru duruş ve tutuş pozisyonunu anlatan görseli taklit etmesi istenip süreç eğlenceli hâle getirilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin Türkiye'deki ve dünyadaki farklı müzikal geleneklerde neyin tutuş biçimlerinin nasıl farklılıklar gösterdiğini incelemeleri istenebilir"
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; öz/akran veya grup değerlendirmeleri, gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak bireysel veya grup çalışması yoluyla doğru oturma pozisyonunda sırt, bacak, baş ve boynun alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün, kontrol listesi veya analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.2.4.1",
+    "Doğru oturma pozisyonunda baş ve boynun alması gereken şekil uygulamalı olarak gösterilip öğrenciler tarafından incelenmesi sağlanır ( SDB2.1 , D3.3 ). Ardından öğrencilerin fiziksel uygunluklarına göre ney boyutu belirlenip, doğru oturma pozisyonunda baş ve boynun alması gereken şekli fiziksel uygunluklarına göre uygulayıp ifade etmeleri ve sunmaları sağlanır ( E3.7 , OB4 ). Süreç sonunda bireysel veya grup çalışması yoluyla neyı tutarken baş ve boynun alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir ( OB2 ). Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi, gözlem formu veya analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "NEY.2.4.2",
+    "Doğru oturma pozisyonunda sırt ve bacakların alması gereken şekil uygulamalı olarak gösterilip öğrenciler tarafından incelenmesi sağlanır ( SDB2.1 , D3.3 ). Ardından öğrencilerin fiziksel uygunluklarına göre ney boyutu belirlenip, doğru oturma pozisyonunda sırt ve bacakların alması gereken şekli fiziksel uygunluklarına göre uygulayıp ifade etmeleri ve sunmaları sağlanır ( E3.7, OB4 ). Süreç sonunda bireysel veya grup çalışması yoluyla neyi tutarken sırt ve bacakların alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir ( OB2 ). Performans görevi olarak bireysel veya grup çalışması yoluyla doğru oturma pozisyonunda sırt, bacak, baş ve boynun alması gereken şekli gösteren poster veya sunum hazırlamaları istenebilir. Sonrasında öz/akran veya grup değerlendirmeleri yapılabilir. Hazırlatılan ürün kontrol listesi, gözlem formu veya analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E3.7"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1213"
+}

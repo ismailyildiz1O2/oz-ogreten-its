@@ -1,0 +1,63 @@
+{
+  "unitId": 1442,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "6. ÜNİTE: DOĞADAN TASARIMA",
+  "hours": "8",
+  "description": "Altıncı ünitede canlılar ve doğal yapıların yapısal özellikleri ile biçim ve görsel özelliklerinin gözlemlenmesi, bunlardan esinlenilerek teknolojinin gelişmesine katkı sağlanması amaçlanmaktadır. Ayrıca canlıları ilgilendiren problemleri çözmek için doğadan esinlenilerek araştırma yapılması, elde edilen veriler ışığında özgün tasarımların hazırlanması ve bir ürüne dönüştürülmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TT.7.6.1",
+      "title": "Canlılar ve doğal yapıların yapısal, biçimsel ve görsel özelliklerini sanatsal gözlemleyebilme",
+      "processComponents": [
+        "a) Canlılar ve doğal yapıların yapısal, biçimsel ve görsel bileşenlerini fark eder.",
+        "b) Canlılar ve doğal yapıların yapısal, biçimsel ve görsel bileşenlerini ifade eder."
+      ]
+    },
+    {
+      "code": "TT.7.6.2",
+      "title": "Gündelik hayatında var olan bir problemi çözebilmek için doğa ve canlıları tasarımla ilişkilendirebilme",
+      "processComponents": [
+        "a) Gündelik hayatında var olan bir problemi çözebilmek için canlıları ve doğayı gözlemler.",
+        "b) Gözlemlerinden elde ettiği bilgileri analiz eder.",
+        "c) Gözlemlerinden elde ettiği bilgilerle tasarım fikri geliştirir."
+      ]
+    },
+    {
+      "code": "TT.7.6.3",
+      "title": "Gündelik hayatında var olan bir problemin çözümünde biyotaklit yaklaşımını kullanarak ürün oluşturabilme",
+      "processComponents": [
+        "a) Günlük hayatta karşılaştığı bir sorunun çözümü için doğadan esinlenerek taslak oluşturur.",
+        "b) Tasarımını çizim veya maket yoluyla ürüne dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "biyofili, biyomimikri, biyomorfizm,biyotaklit, disiplinler arası yaklaşım, özgünlük.",
+  "support": [
+    "Tasarlarken üretirken doğanın gözlemlenmesi, canlılar ile doğal yapıların özelliklerinin keşfedilmesi sağlanır. Bu özelliklerin teknolojinin gelişimine, ürün ve yapıların tasarımına yansımasının önemi ile ilgili belgesel, video vb. görsel işitsel yayınlar gösterilebilir.",
+    "Doğa ve tasarım ilişkisine yönelik biyomimikri ve biyomorfizm ile ilgili sunum yapılabilir veya buna dair video ve animasyonlar izletilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ünlü biyomimikri ürünlerini tanıması ve çeşitli boyutlarıyla incelemesi sağlanabilir. Örneğin geko kertenkelesinden esinlenilerek oluşturulan geko ayakkabılarını tasarım ilkelerine göre incelemeleri sağlanabilir.",
+    "Köpek balıklarının derisinden esinlenilerek yüzücüler için yapılan yüzücü kıyafeti tasarımları incelenebilir.",
+    "Yusufçuk böceğinin kanat yapısından esinlenilerek oluşturulan 1972 Berlin Olimpiyat Oyunları'nın çatı tasarımının ve aynı böceğin kanat hareketinden yola çıkılarak oluşturulan helikopter pervanelerinin çalışma mekânizmasının incelenmesi sağlanabilir.",
+    "Öğrencilerden gerçek hayatta karşılaşılan sorunlara (enerji tasarrufu, su kıtlığı, çevre kirliliği vb.) biyomimetik çözümler geliştirmeleri bu çözümlerinin özgün, sürdürülebilir ve yenilikçi olması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde proje önerisi ve proje süreci kontrol listesi formu ile ürün dosyası kullanılabilir.",
+    "Canlılar ile doğal yapıların özellikleri keşfedilerek teknolojinin gelişimine, ürün ve yapıların tasarıma yansıtılmasına yönelik kavramlar ile ilgili kavram haritası veya bilgilendirme tasarımı hazırlanabilir ve bu görselleştirilebilir. Hazırlanan kavram haritası veya bilgilendirme tasarımı kavramları yansıtma düzeyi öz ve akran değerlendirme formları ile değerlendirilebilir. Performans görevi olarak öğrencilerden belirlenen tasarım fikrine yönelik geleneksel veya dijital yöntemle çizim/maket taslağı üretmesi, çizimde form, işlev, ölçü-oran, malzeme/üretim düşüncesi ve estetik tercihlerini görünür kılması ve akranlarından aldığı dönütlere göre çizimini revize ederek ikinci sürümü sunması istenebilir.",
+    "Değerlendirme, çizim süreci ve ürününe yönelik öz ve akran değerlendirme formları yoluyla yapılabilir."
+  ],
+  "teachingApplications": [
+    "TT.7.6.1.",
+    "Bir ürün-yapı tasarlanırken veya üretilirken doğanın doğru gözlemlenmesinin ne kadar önemli olduğunu, doğadaki modellerden ve sistemlerden ilham alındığını anlatan 2-3 dakikalık bir film sınıf ortamına getirilir ve izletilir. Öğrencilerin izledikleri filmden ve çevrelerinde gördüklerinden yola çıkarak canlılar ve doğal yapıların yapısal, biçimsel ve görsel özelliklerini fark etmeleri beklenir (OB4).",
+    "Öğrencilerin tasarım ürünleri ve sanat eserleriyle donatılmış bir çevrenin, insanın gelişimine ve olgunlaşmasına nasıl katkı sağlayacağını fark ederek biyotaklit tasarımlarının bu gelişime etkisini tartışmaları sağlanabilir (D7.2). İzledikleri filmde daha önce görmedikleri veya yeni fark ettikleri bir şeyler olup olmadığı sorulabilir ve bunları sözel olarak ifade etmeleri istenebilir. Bir ürün-yapı tasarlanırken veya üretilirken doğanın gözlemlendiği, canlılar ile doğal yapıların yapısal özelliklerinden esinlenilerek tasarımın nasıl oluşturulduğu ile ilgili çıkarımda bulunmaları beklenir (KB2.15). Öğrencilerin daha önce biyotaklit, biyofili, biyomimercy, biyomorfizm, biyomimikri kavramlarını duyup duymadıkları sorgulanır ve buna ilişkin araştırma yapmaları sağlanır. Aynı zamanda bilimsel gelişim için merak duygusunu kullanarak doğadaki yapısal özelliklerin tasarımlara nasıl ilham vereceği hakkında bilgi toplamaları istenir (D3.3, KB2.8). Öğrencilerden bu çalışmayı ne kadar süre içerisinde bitirmeyi hedeflediği, hangi bilgi toplama araçlarını kullanacağı, hangi bölgedeki yapıları inceleyeceğini planlaması ve bunu belirtmesi istenebilir (SDB1.2). Bu etkinlikten sonra çalışmasını yaparken nerelerde zorlandığı, nereleri rahatlıkla yapabildiği, en keyif aldığı kısımlar sorularak öz farkındalık becerisi üzerine çalışılabilir (SDB1.2). Edindiği bilgiler yardımıyla canlılar ve doğal yapıların yapısal, biçimsel ve görsel özelliklerinin ifade edilmesi ve yukarıda ifade edilen kavramlara göre sınıflandırılması beklenir (KB2.5, OB7). Buna bağlı olarak öğrencilerin bu kavramlara ilişkin açıklama yapmaları ve örnekler vermeleri sağlanabilir. Bu kavramlar kavram haritası veya bilgilendirme tasarımı hazırlanarak görselleştirilebilir (KB2.2). Bu etkinlikten sonra çalışmasını yaparken nerelerde zorlandığı, nereleri rahatlıkla yapabildiği, en keyif aldığı kısımları sorularak öz farkındalık becerisi çalışılabilir (SDB1.2).",
+    "TT.7.6.2.",
+    "Öğrencilerin günlük hayatta karşılaştığı sorunları tespit ederek maddeler hâlinde yazmaları sağlanır. Bu süreçte öğrencilerin insanlara saygı duymaları, akranlarından gelecek eleştirilere de açık olmaları ve görüşlere saygı duyarak bir sorunu seçmeleri istenir (D14.1). Günlük hayatta karşılaşılan ve tespit edilen soruna yönelik doğa ve canlıları gözlemleyerek çözüm önerileri geliştirilmesi beklenir. Bir ürün-yapı tasarlanırken veya üretilirken doğayı gözleme dayalı üretilmiş ya da tasarlanmış örneklerle ilgili araştırma yapmaları sağlanır (OB1, OB4). Biyomimikri ve biyomorfizm anlayışı ile ortaya konulmuş mimari veya endüstriyel ürün tasarımı örneklerinden biri ile tekstil ürünleri üzerindeki desenlerden birkaçını belirleyerek doğadan nasıl esinlenildiği üzerine öğrencilerin tartışmaları sağlanır (SDB2.2). Doğadaki formları ve işleyiş mekânizmalarını inceleyerek tasarım sürecinde doğayı korumaya yönelik çözümler üretmeye çalışır (D9.3). Belirlenen bu örneklerin biyomimikri ve biyomorfizm özellikleri dikkate alınarak analiz edilmesi ve bunun bir tabloda gösterilmesi beklenir. Örnekler ve gözlemlerinden yola çıkarak tasarım fikrini geliştirir.",
+    "TT.7.6.3.",
+    "Geliştirilen tasarım önerilerinden en iyi olanın belirlenmesi ve taslak oluşturulması sağlanır. Belirledikleri bu fikre yönelik geleneksel veya dijital yöntemler yoluyla çizimler yapmaları istenir. Öğrenciler doğadan esinlenen tasarımlar üzerinde çalışırken çevredeki doğal güzelliklerin ve sanatsal ögelerin kişiliklerine etkilerini değerlendirir, bu süreçte doğadaki estetik unsurların fark edilip tasarımlara nasıl yansıtıldığını gösterilmesi beklenir (D7.2). Yaptıkları çizimleri akranları ile değerlendirmeleri sağlanır. Bu aşamada öğrencilerin aldıkları dönütleri dikkate alarak çizimlerini veya maketini yeniden gözden geçirmeleri ve yapıcı geri bildirimleri kullanarak ürünlerini geliştirmeleri beklenir. Gelen dönütlere göre çizimi revize ederek geliştirmeleri istenir (KB2.14, SDB2.1, E2.2, E3.3). Performans görevi olarak öğrencilerin geleneksel veya dijital yolla yaptığı çizimler değerlendirilebilir. Değerlendirme öz ve akran değerlendirme formu yoluyla yapılabilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1442"
+}

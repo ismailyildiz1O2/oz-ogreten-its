@@ -1,0 +1,72 @@
+{
+  "unitId": 1316,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "3. TEMA: BUSELİK DİZİSİ",
+  "hours": "20",
+  "description": "Temanın içeriğini öğrencilerin buselik dizisini kemanda doğru tekniklerle çalmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.5.3.1",
+      "title": ". Buselik dizisinde ritmik bileşenleri ayırt ederek akıcı ve bütünsel şekilde okuyabilme",
+      "processComponents": [
+        "a) Buselik dizisinde ritmik ve ezgisel bileşenleri tanır.",
+        "b) Buselik dizisinde ritmik ve ezgisel bileşenleri ayırt eder.",
+        "c) Buselik dizisinde ritmik veya ezgisel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "KMN.5.3.2",
+      "title": ". Buselik dizisinde eser ve etüt çalabilme",
+      "processComponents": [
+        "a) Buselik dizisinde çalınacak eseri çözümler.",
+        "b) Buselik dizisini çalarken uygun duruş ve tutuş pozisyonu sergiler.",
+        "c) Buselik dizisini çalarken kemana özgü teknikleri kullanır.",
+        "ç) Buselik dizisini çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, keman, yay, metronom",
+  "support": [
+    "Çalışılan dizinin sesleri tek tek vurgulanarak öğrencilere duyurulabilir. Solfej çalışmalarına daha fazla yer verilerek sesleri net duymaları ve kemanda perdeleri daha doğru basmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler ile eser çalımına geçilebilir. Öğrencilerden buselik dizisine uygun parçaları araştırmaları istenebilir. Öğretmen, öğrencilerin seçtikleri eserleri sadeleştirerek çaldırabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kavram haritası, gözlem form, kısa rapor veya sunum ile değerlendirilebilir. Öğrenciden performans görevi olarak buselik dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.5.3.1",
+    "Buselik dizisinin özellikleri anlatılarak buselik dizisi gösterilir. Bona ve solfej çalışmaları akıcı ve bütünsel şekilde okunur.Bona ve solfej çalışmaları yapılırken öğrencilerin odaklanması sağlanır ( E3.2 ). Kısa etütler seçilir. Kısa etütler öğretmenle eşlikli olarak çalınır. Grup çalışmalarında grup ikiye ayrılır, birinci grup bona ve solfej yaparken diğer grup etüdü çalar ( SDB2.2 ). Öğrencilerin ses uyumuna, seslendirilen eserin ritmik yapısına ve kemanın ses tınısına bakılarak çalışma tekrar ettirilir ( D12.1 ). Öğrencinin çalışmaya iş birliği yaptığı kişiyi dinleyerek ritmik devam etmesi sağlanır ( SDB3.1 ). Öğrencilerin verilen eserdeki nota sürelerini doğru çalması için öğretmen eşliğinde bona ve solfej yapılır. Öğrenciler çalacağı eseri çözümler. buselik dizisinde bona yaparken ritme ve nota sürelerine dikkat eder. Solfej çalışmalarında buselik dizisinin güçlüsünün hüseyni perdesi olduğu bilgisini toplar ( KB2.6 ). Buselik dizisinin durağının dügâh perdesi olduğu, Batı müziğinde karşılığının la minör tonu olduğu bilgisine ulaşır. Dijital bilgi üzerinden bire bir veya grup çalışmalarında buselik dizisi ile ilgili bilgi toplayıp çıkarım yapar ( OB2 ). önce sorular sorarak ses dizilimini öğretmen eşliğinde yapar ( E3.8 ). Öğretmeni etkin şekilde dinleyerek karar sesinin rast perdesi olduğu bilgisine ulaşır. Buselik dizisi çalışılırken çargâh dizisiyle karşılaştırma yapılır. Benzerlik ve farklılıkları incelenir. Öğrencilerin diğer diziyle ilgili bilgi toplayıp diziye aşina olmaları sağlanır. İki dizinin parçaları dinletilir ve aralarındaki tını farklılıkları incelenir ( OB9 ). Öğrenciler buselik dizisinde bona ve solfeji bir arada etütler aracılığıyla uygular. Kısa etüt ve parçaları çalmadan önce solfejini yapar. Öğretmen keman eşliğinde öğrenciye eşlik eder. Bu çalışma grup eşliğinde yapılır, bir grup bona yaparken diğer grup ise solfej eşliğinde devam eder ( E2.2 ). Öğretmen, öğrencilerin çalışmalarını dijital ortamda örneklerle izletir.",
+    "KMN.5.2.2",
+    "Öğrencilerden buselik dizisinde kısa etütleri öğretmen rehberliğinde bona ve solfej yaptıktan sonra çalmaları istenir. Öğrenciler, duruş ve tutuş pozisyonunu ayarlar; kemana özgü teknikleri kullanarak öğretmen eşliğinde eserlerini çalar. Eserlerde kendini geliştirmeye yönelik çalışmalara devam eder ( D7.3 , D3.1 ). Öğrenciler, buselik dizisinde kemana özgü teknikleri kullanarak grup veya bire bir çalışmalar yapar. Öğretmen, bu çalışmalarla genel bilgilere de yer verir. Öğrencilere dizinin yedeninin nim zirgüle perdesi yani Batı müziğinde sol# notası olduğu bilgisini verir ( OB1 ). Seyrinin inici, çıkıcı olduğunu belirtir. Öğrenciler, buselik dizisini kemanda çalarken ritmik yapı ve ezgisel yapıya dikkat ederek çalışmaları uygular. Öğretmen, çalışmalarda öğrencilere bazı eserler dinleterek öğrencilerin buselik dizisine aşina olmalarını sağlar. Öğrencilerden dinledikleri eserlere grup olarak eşlik etmeleri istenir ( D4.2 ). Öğrenciden performans görevi olarak buselik dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.1",
+      "D3.1",
+      "D4.2",
+      "D7.3"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1316"
+}

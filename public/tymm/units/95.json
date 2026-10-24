@@ -1,0 +1,59 @@
+{
+  "unitId": 95,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "3. TEMA: SAYILAR VE NİCELİKLER (3)",
+  "hours": "7",
+  "description": "Bu temada öğrencilerin paraları (1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL) temsil ettiği büyüklükleri tanıyabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.1.1.9",
+      "title": "Paraların (1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL) temsil ettiği büyüklükleri tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "Türk lirası, lira, para, değişim, takas, Sembol ve Gösterimler, TL, ₺",
+  "support": [
+    "Öğrencilerin bireysel öğrenme hızları da dikkate alınarak farklı öğretim yöntemleri kullanılır (iş birlikli öğretim, oyunlaştırılarak öğretim vb.). 1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL ile sınırlı kalmak kaydıyla para sayma oyunları oynanır.",
+    "Bir para miktarı belirlenir. Bununla günlük yaşamlarında neler alınabileceğine ilişkin görsel materyallerden faydalanılarak alabileceklerine ilişkin etkinlik düzenlenir.",
+    "Paraların tanıtıldığı çoklu duyuya hitap edebilecek dijital veya dijital olmayan nesneler kullanılarak öğrencilerin kendi hızlarında ilerlemeleri sağlanır."
+  ],
+  "enrichment": [
+    "Günlük yaşamda 1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL ile alınabilecek ürünleri listelemeleri veya olanaklar dâhilinde fotoğraflamaları istenir. Haftalık verilen harçlığın bireysel ve gerekçeli bir şekilde harcanmasının planlanması istenerek günlük yapılacak harcama miktarının belirlenmesi sağlanır.",
+    "Bazı para değerleri verilerek bu miktarlara farklı miktarlardaki alt para birimleri ile ulaşmaya çalışmaları sağlanır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu sorular içeren çalışma kâğıtları, kontrol listesi, bütüncül dereceli puanlama anahtarı kullanılarak değerlendirilebilir.",
+    "Parasının değeri karşılığında alabileceği ürünleri kendi seçmesi, mevcut parası karşılığında hangi ürünleri aldığı gibi performans görevleri verilerek belirlenen ölçütlere göre kontrol listesi veya bütüncül dereceli puanlama anahtarı üzerinden değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.1.1.9 Öğrencilere farklı paraların görselleri verilerek para değerlerini okumaları ve değerleri büyüklüklerine göre sıralamaları istenir ( MAB3.1 , MAB5.1 ) . Sıralama yaparken 200 TL sıralamaya dahil edilmez. 200 TL yalnızca görsel olarak tanıtılır. Para değerinin anlaşılması sağlanarak paranın günlük yaşamda satın alma durumu ile ilgili örnekler verilir. Bu süreçteTürk lirasının kısaltması ve simgesi gösterilir.",
+    "Paranın temsil değeri ile alınabilecek uygun ürünün hangileri olabileceğine dair açık uçlu sorular içeren çalışma kâğıtları kullanılabilir. Çalışma kâğıtlarının değerlendirilmesine yönelik bütüncül dereceli puanlama anahtarı kullanılarak öğrencilere dönütler verilebilir.",
+    "Alışveriş istasyonu (manav, pazar, kırtasiye vb.) oluşturularak öğrencilerde konuya karşı merak uyandırılır ( E1.1 ) . Oluşturulan istasyonda drama vb. yöntemler ile öğrencilerin oyun yoluyla ekip ruhunu yaşamaları ve bu yol ile paraların büyüklüklerini incelemeleri sağlanır ( SDB2.2 , E2.5 ) . Bu aşamada öğrencilerin ihtiyaç, ilgi ve istekleri göz önüne alınarak bilinçli tüketici olunmasına yönelik bilgilendirme yapılır ( D17.2 , OB3 ).",
+    "Alışveriş istasyonunda seçtiği herhangi bir ürünü farklı değerlerdeki paralarla değişik şekillerde alması sağlanır (10 TL'lik ürünü, iki adet 5 TL ya da 1 tane 10 TL ile almak gibi). 20 TL'ye iki farklı ürün alınabileceği gibi tek bir ürün de alınabileceğinin fark edilmesini sağlayacak performans görevi verilebilir. Parasının değeri karşılığında alabileceği ürünleri kendi seçmesi sağlanır. Mevcut parası karşılığında hangi ürünleri aldığı kontrol listesi üzerinden değerlendirilebilir.",
+    "Alışverişin yalnızca ihtiyaçlar doğrultusunda yapılması gerektiği vurgulanarak öğrencilerin tasarruf yapmanın önemini anlamaları sağlanır ( D17.2 , OB3 ) . Alınan ihtiyaç fazlası ürünlerin israfa neden olduğu belirtilip ülke kaynaklarını korumanın önemine vurgu yapılır ( D19.4 ) . Paraların üzerinde bulunan değerli şahsiyetlerin ülke ve dünya tarihine verdiği katkılar anlatılarak vatan sevgisine yönelik farkındalık düzeyinin artmasına ilişkin açıklamalar yapılır ( D19.1 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D17.2",
+      "D19.1",
+      "D19.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5"
+    ],
+    "alan": [
+      "MAB3.1",
+      "MAB5.1"
+    ],
+    "okuryazarlik": [
+      "OB3"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/95"
+}

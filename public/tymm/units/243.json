@@ -1,0 +1,170 @@
+{
+  "unitId": 243,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "1. ÜNİTE: KUVVET VE HAREKET",
+  "hours": "54",
+  "description": "Bu ünitede öğrencilerin serbest düşmeye yönelik matematiksel hesaplamaları yapmaları, matematiksel modelleri ve grafiksel dönüşümleri iki boyutta sabit ivmeli harekete yönelik problem durumlarına çözüm getirmek için kullanabilmeleri, Newton'ın Hareket Yasalarını açıklamaları, bir cisme etki eden kuvvetleri serbest cisim diyagramında göstermeleri, statik ve kinetik sürtünme kuvvetinin bağlı olduğu değişkenleri gözlemleyerek sürtünme kuvvetinin matematiksel modelini oluşturmaları, limit hızı tanımlamaları ve limit hıza ait değişkenleri belirlemeleri, çembersel hareketin temel kavramları arasındaki ilişkileri açıklamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.11.1.1",
+      "title": "Serbest düşme hareketi yapan cisimlerin ivmesine yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Serbest düşme hareketi yapan cisimleri gözlemleyerek ivme ve hız değişimleri arasındaki ilişkiyi bulur.",
+        "b) Serbest düşme hareketi yapan cisimlerin ivmesi hakkında genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.2",
+      "title": "Serbest düşme hareketi ile ilgili kanıt kullanabilme",
+      "processComponents": [
+        "a) Serbest düşme hareketi ile ilgili verileri toplayarak kaydeder.",
+        "b) Serbest düşme hareketi ile ilgili veri setleri oluşturur.",
+        "c) Serbest düşme hareketini verilere dayalı olarak açıklar."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.3",
+      "title": "İki boyutta sabit ivmeli hareket ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) İki boyutta sabit ivmeli hareketin bileşenleri ile sabit hızlı ve sabit ivmeli hareket arasındaki ilişkiyi bulur.",
+        "b) İki boyutta sabit ivmeli harekete yönelik genelleme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.4",
+      "title": "Newton'ın Hareket Yasaları ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Bileşke kuvvet ile cisimlerin hareketi arasındaki ilişkileri keşfeder.",
+        "b) Newton'ın Hareket Yasalarına yönelik genellemeler yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.5",
+      "title": "Newton'ın Hareket Yasalarını serbest cisim diyagramını kullanarak yorumlayabilme",
+      "processComponents": [
+        "a) Bir cisme etki eden kuvvetleri belirler.",
+        "b) Bir cisme etki eden kuvvetleri serbest cisim diyagramı üzerinde gösterir.",
+        "c) Serbest cisim diyagramını kullanarak Newton'ın Hareket Yasalarını yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.6",
+      "title": "Statik ve kinetik sürtünme kuvvetlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Statik ve kinetik sürtünme kuvvetlerine ilişkin özellikleri belirler.",
+        "b) Statik ve kinetik sürtünme kuvvetlerine ilişkin benzerlikleri listeler.",
+        "c) Statik ve kinetik sürtünme kuvvetlerine ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.7",
+      "title": "Sürtünme kuvvetinin matematiksel modeline ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Sürtünme kuvvetinin bağlı olduğu değişkenler arasındaki ilişkiyi keşfederek matematiksel modeline ulaşır.",
+        "b) Farklı veri setleri ile hesaplamalar yaparak sürtünme kuvvetinin matematiksel modelini geneller."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.8",
+      "title": "Limit hızı etkileyen değişkenler ile ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Limit hızı etkileyen değişkenleri tanımlar.",
+        "b) Limit hızı etkileyen değişkenlerle ilgili verileri toplayarak kaydeder.",
+        "c) Limit hızı etkileyen değişkenlerle ilgili verileri yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.9",
+      "title": "Düzgün çembersel hareket yapan cisimlerin yörüngeleri ve hız vektörleri hakkında analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Düzgün çembersel hareket yapan farklı cisimlerin hareketlerini gözlemler.",
+        "b) Düzgün çembersel hareket yapan farklı cisimlerin hareketlerinin özelliklerini tespit eder.",
+        "c) Düzgün çembersel hareket yapan farklı cisimlerin hareketlerinin benzerliklerinden yola çıkarak yörüngeleri ve hız vektörü hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "FİZ.11.1.10",
+      "title": "Düzgün çembersel hareketin değişkenleri arasındaki ilişkilerin matematiksel olarak modellenmesine ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Düzgün çembersel hareketin değişkenlerini keşfederek aralarındaki ilişkileri matematiksel olarak modeller.",
+        "b) Farklı veri setleri ile hesaplamalar yaparak düzgün çembersel hareketin değişkenleri arasındaki ilişkilere yönelik matematiksel modelleri geneller."
+      ]
+    }
+  ],
+  "keyConcepts": "serbest düşme, eylemsizlik, etki-tepki kuvvetleri, serbest cisim diyagramı, sürtünme kuvveti, statik sürtünme kuvveti, kinetik sürtünme kuvveti, limit hız, düzgün çembersel hareket, çizgisel sürat, açısal hız, çizgisel hız, merkezcil ivme, açısal ivme, merkezcil kuvvet",
+  "support": [
+    "Serbest düşme gibi konular için basit veri toplama etkinlikleri ve bu verileri kullanarak temel matematiksel modellere ulaşmaları için basılı öğretim materyalleri sağlanabilir. Trigonometrik hesaplamaların kullanıldığı bileşenlerine ayırarak toplama işleminde sadece bir vektör kullanılabilir. Bu vektörün bileşenleri trigonometrik hesaplamalar ile bulunabilir. Bu bileşenler toplanarak vektörün kendisine ulaşılabilir. Trigonometrik hesaplamalarda sadece özel üçgenlerden yararlanılan vektörler kullanılabilir. Newton'ın Hareket Yasalarına yönelik problem çözümlerinde yalnızca tek cisim içeren örnekler tercih edilebilir. Sürtünme kuvvetinin hesaplanmasına yönelik örnek problem durumlarında yatay zemindeki cisimlere kendi ağırlıkları ve zemin tarafından uygulanan tepki kuvvetleri dışında herhangi bir düşey kuvvetin uygulanmadığı örnekler kullanılabilir. Limit hız ile ilgili örnek ve açıklamalarda yağmur damlasının ve paraşütle atlayan kişinin hareketi ile sınırlı kalınarak limit hız konusu sadece kavramsal düzeyde verilebilir."
+  ],
+  "enrichment": [
+    "Farklı çekim ivmesine sahip uydu ve gezegenlerdeki serbest düşme hareketine yönelik problem durumları ele alınabilir. Serbest düşme hareketinde farklı yüksekliklerdeki konumlardan çeşitli açılarla atılan cisimlerin hareketleriyle ilgili hesaplamalar yapılabilir. Hareketli referanslardan farklı açılarla atılan cisimlerin hareketine yönelik problem durumları ele alınabilir. Eğimli virajda yol alan araçlara etki eden statik sürtünme kuvvetinin matematiksel hesaplamaları yapılabilir. Türkiye'de ve dünyada araç kazalarının sebepleri arasında \"viraj güvenliği\"nin yeri ve kazalardaki istatistik oranları araştırılabilir. Araçlarda kullanılan fren sistemleri incelenerek ABS fren sisteminin avantajlarının, statik ve kinetik sürtünme kuvvetleri arasındaki farklarla ilişkilendirilerek açıklanması istenebilir.",
+    "*Farklı açılarla atılan cisimlerin hareketini dikkate alan basit malzemeleri kullanarak bir oyun tasarlamaları istenebilir. Virajlarda güvenli sürüş yapmak için gereken önlemler ile Newton'ın Hareket Yasaları, sürtünme kuvveti ve çembersel hareket konu başlıkları ilişkilendirilerek araba lastiği tasarım önerisi oluşturulabilir.",
+    "*Trigonometrik hesaplamaların kullanıldığı bileşenlerine ayırarak toplama işleminde sık kullanılan açı değerlerinin dışında başka açılar verilerek hesap makinesi ya da dinamik matematik uygulamalarının kullanımı teşvik edilebilir. Trigonometrik hesaplamaların kullanıldığı bileşenlerine ayırarak toplama işleminde en az iki vektörün toplanması sağlanabilir. Newton'ın Hareket Yasaları, Bernoulli İlkesi, sürtünme kuvveti ve düzgün çembersel hareket konuları ile ilişkilendirerek yarış arabası tasarımı yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; poster, kısa rapor, çıkış kartı, çalışma yaprağı, açık uçlu maddelerden oluşan test, yapılandırılmış grid, bilgi görseli, kısa film veya animasyon kullanılarak değerlendirilebilir.",
+    "Öğrencilerden serbest düşme hareketi yapan cisimlerin ivme ve hız değişimlerini gösteren bir poster hazırlaması istenebilir. Bu poster dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir. Matematiksel model kullanılarak yapılan hesaplama, grafik çizimi, grafikten değer bulma ve grafik verilerini yorumlayabilmeleri amacı ile öğrencilere sınıfta kısa rapor yazdırılabilir. Rapor, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Newton'ın Hareket Yasalarına örnek verebilmesi için çıkış kartı verilebilir. Newton'ın Hareket Yasalarını serbest cisim diyagramını kullanarak yorumlayabilmeleri için bir çalışma yaprağı verilebilir. Statik ve kinetik sürtünme kuvvetlerine yönelik karşılaştırabilme yapmaları için yapılandırılmış grid verilebilir. Sürtünme kuvvetinin hesaplanmasına yönelik farklı soru türlerinden oluşan bir test verilebilir. Çıkış kartı, çalışma yaprağı, test ve yapılandırılmış grid puanlama anahtarı ile değerlendirilebilir. Limit hızı etkileyen faktörler hakkında bilgi görseli hazırlanması ve düzgün çembersel hareket ile vektörler hakkında kavramları göstermek için kısa bir film çekilmesi ya da animasyon hazırlanması performans görevleri olarak verilebilir. Performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir. Matematiksel hesaplamaları yapmaları için açık uçlu test verilebilir. Açık uçlu test dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmelerde öz değerlendirme, akran değerlendirme veya grup değerlendirmesi yapılarak çeşitlilik sağlanabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.11.1.1",
+    "Öğretmen video, animasyon ya da simülasyon gibi dijital içeriklerden birini kullanarak hava direncinin ihmal edildiği ortamda serbest düşen farklı kütleli cisimlere örnek olacak görselleri hazır veri seti ile ilişkilendirerek sunar. Öğrencilerden görsellerdeki cisimlerin hareketini gözlemleyerek ( OB4 ) sınıf tartışması ile serbest düşen cisimlerin ivmesine ilişkin açıklama getirmesi istenir. Öğrenciler tartışma sırasında kendi iddialarını ve destekleyicilerini açıklar ( D3.1 , SDB2.1 ) varsa akranlarının karşıt iddialarına yönelik çürütücülerini belirterek ( E3.10 ) yer çekimi ivmesi ile hız değişimi arasındaki ilişkiye yönelik fikir birliği ( D3.3 , SDB2.2 ) ile çıkarımda bulunur. Serbest düşme hareketi yapan cisimlerin ivmeleriyle ilgili genelleme yapar. Yer çekimi ivmesi sabit kabul edilir. Öğrencilerden serbest düşme hareketi ile ilgili poster hazırlayarak sunmaları istenebilir.",
+    "FİZ.11.1.2",
+    "Öğrenciler, deney ya da dijital içerikler yolu ile düşey doğrultuda ilk hızı sıfır olan ve ilk hızı sıfırdan farklı olan serbest düşen cisimlerin hareketlerini gözlemleyerek hız, ivme, konum, zaman ve yer değiştirme ile ilgili verileri toplayıp kaydeder. Hava direncini ihmal ederek hız, ivme, konum, yer değiştirme ve zaman değişkenleri ile ilgili veri setleri oluşturur. Ön öğrenmelerindeki ivmeli hareket grafiklerini dikkate alarak oluşturduğu veri setleri üzerinden hız-zaman, ivme-zaman ve konum-zaman grafiklerini çizer. Düşeyde serbest düşen cisimlerin hareketini grafiklere ( OB4 ) ve veriye dayalı olarak açıklar ( OB7 ) . Hareket türü ifade edilirken serbest düşmenin sadece yer çekimi etkisindeki tüm hareketlerin ortak adı olduğu vurgulanır ve ''düşey atış hareketi'' şeklinde hareket türü tanımından kaçınılır. Öğrenciler düşey düzlemde ilk hızı sıfır olan ve ilk hızı sıfırdan farklı olan serbest düşen cisimlerin hareketlerini açıklayacakları kısa rapor hazırlayabilir.",
+    "FİZ.11.1.3",
+    "Öğrenciler, iki boyutta sabit ivmeyle hareket eden cisimlerin hareketlerini animasyon, simülasyon ya da video gibi dijital içerikler yolu ile gözlemler ( OB4 ) . Öğrenciler, öğretmen rehberliğinde gruplar oluşturup ( SDB2.1 ) küçük grup tartışmalarında akranlarıyla iletişim kurarak ( SDB2.1 ) hareketin bileşenlerini yatay ve düşey eksende ayrı ayrı ele alır. Öğretmen, öğrencilerin trigonometrik hesaplamalara yönelik ön bilgisini hatırlatarak hız vektörünün bileşenlerinin trigonometrik hesaplamalar ile bulunabileceğine yönelik farkındalık kazandırır. Öğrenciler, vektörlerin bileşenlerine ayrılarak toplanmasıyla ilgili problem çözümlerinde de trigonometrik hesaplamaları kullanabileceğini fark eder ( KB3.2 ) . Öğrenciler, yalnızca yer çekimi ivmesi etkisi altında iki boyutta sabit ivmeyle hareket eden cisimlerin hareketini gözlemler. Bu hareketi yapan cisimlerin hız, ivme ve yer değiştirme değişkenlerini inceleyerek hareket bileşenlerini eksenlere göre sabit hızlı ve sabit ivmeli hareket ile ilişkilendirir ( E3.6 ) . Öğretmen, her gruptan bir temsilcinin iki boyutta sabit ivmeyle hareket eden cisimlerin hareketine yönelik gruplarının iddialarını ve gerekçelerini ( E1.6 ) sunmalarını isteyebilir. Grup temsilcileri, hareketin farklı boyutlardaki hız, ivme ve yer değiştirme değişkenlerine yönelik kendi gruplarının iddialarını ve gerekçelerini ifade eder; varsa akranlarının karşıt iddialarına yönelik çürütücü fikirlerini etki altında kalmadan sunar ( D3.1 , E3.5 ) . Büyük grup tartışması neticesinde öğrenciler iki boyutta sabit ivmeli hareket eden cisimlerin hareketi ile ilgili genellemelere ulaşır. ''Yatay atış\" ve \"eğik atış\" şeklinde hareket türü tanımından kaçınılır. Yazılı yoklama ile öğrencilerin iki boyutta sabit ivmeli harekete yönelik matematiksel hesaplamalar ve grafiklere dayalı yorumlar yapmaları istenir.",
+    "FİZ.11.1.4",
+    "Öğretmen, İbni Sina'nın mekanik konusundaki çalışmalarını anlatan bir metin kullanarak çalışmaları hakkında farkındalık oluşturur. Öğrencilere bileşke kuvvet ile cisimlerin hareketi arasındaki ilişkilerin gözlenebildiği bir deney yaptırılır ya da animasyon, simülasyon veya video gösterimi gibi dijital içeriklerden biri kullanılabilir. Öğrenciler deney veya dijital içeriklerdeki hareket veya olayları tartışma yöntemi ile yorumlar ( KB2.3 , OB4 ) . Dijital içeriklerdeki hareket veya olaylara ilişkin iddialarını, destekleyicilerini ve varsa akranlarından farklı düşündüğü durumlarda çürütücülerini sunar ( E1.2 , E3.5 , SDB2.2 ) . Öğrencilerin iddialarını ortaya koyarken ( SDB2.2 ) ön öğrenmelerinde yer alan ivme kavramı ile ilişki kurması sağlanır ( SDB1.1 ) . Öğrenciler, sınıf tartışması ( SDB2.2 ) neticesinde bileşke kuvvet ve cisimlerin hareketleri arasındaki ilişkileri keşfeder. Öğrenciler, soru cevap veya beyin fırtınası gibi tekniklerle desteklenen tartışma ortamında keşfettiği ilişkiler üzerinden Newton'ın Hareket Yasalarına yönelik genellemeler yapar. Öğrencilere Newton'ın Hareket Yasalarına yönelik örnekler vermeleri için çıkış kartı verilebilir.",
+    "FİZ.11.1.5",
+    "ğretmen, birden fazla kuvvetin etkisinde kalan cisimlerle ilgili görseller gösterir. Öğrenciler görselleri yorumlayarak cisimler üzerine etki eden tüm kuvvetleri belirler ( OB4 ) . Öğrenciler belirledikleri kuvvetleri serbest cisim diyagramını kullanarak gösterir. Serbest cisim diyagramını kullanarak Newton'ın Hareket Yasalarını kendi cümleleriyle yeniden ifade eder. Serbest cisim diyagramı kullanmanın bir cisme etki eden net kuvvetin hesaplanması ile ilgili matematiksel problemlerin çözümündeki işlevini analitik bakış açısıyla tartışır ( E3.6 ) . Farklı büyüklükteki ivmeyle hareket eden cisimlerin bir arada olduğu sistemlerle ilgili matematiksel hesaplamalardan kaçınılır. Sabit ivmeli hareket ile sınırlı kalınır. Serbest cisim diyagramları hakkında farklı soru türleri içeren bir çalışma yaprağı verilebilir.",
+    "FİZ.11.1.6",
+    "Öğretmen, örnek olay ya da dijital içeriklerde yer alan görselleri yorumlayarak ( OB4 ) öğrencilerin harekete zorlanmasına rağmen durmakta olan, kayarak öteleme hareketi yapmakta olan ve dönerek öteleme hareketi yapmakta olan cisimlere etki eden sürtünme kuvvetini fark etmesini sağlar. Öğrenciler, statik ve kinetik sürtünme kuvvetlerinin özelliklerini belirleyerek bunları ifade eder. Öğrenciler, soru cevap tekniğinin kullanıldığı etkileşimli ortamda görsellerde yer alan sürtünme kuvvetinin temel bileşenlerini, statik ve kinetik sürtünme kuvvetinin benzerliklerini ve farklılıklarını sorgulayarak listeler. Öğrencilere, statik ve kinetik sürtünme kuvvetlerini karşılaştırabilmeleri için yapılandırılmış grid verilebilir.",
+    "FİZ.11.1.7",
+    "Öğrenciler, simülasyon gibi dijital içerikler yoluyla ya da deney yardımıyla kayarak öteleme hareketinde zorlanmasına rağmen duran ve sabit hızla hareket eden cisimlere etki eden sürtünme kuvvetinin bağlı olduğu değişkenleri gözlemler ( OB4 ) . Öğrenciler, sınıf tartışması yolu ile gözlemlerine yönelik çıkarımlarını simülasyon veya deney yoluyla elde ettiği verilerle destekleyerek ifade eder ( OB7 , SDB2.1 ) . Tartışma sonucunda sürtünme kuvvetinin matematiksel modeline ulaşır. Öğretmen, sürtünmeli ortamda hareket eden cisimlere yönelik problem durumları sunabilir. Öğrencilerden dijital içerik ya da deney verilerini kullanarak sürtünme kuvveti-uygulanan kuvvet grafiğini çizmeleri istenebilir. Öğrenciler, matematiksel model kullanarak statik ve kinetik sürtünme kuvvetleriyle ilgili hesaplamalar yapar ve modeli geneller ( E3.1 ) . Kayarak öteleme ve dönerek öteleme hareketlerinde sürtünme kuvvetinin yönünün belirlendiği durumlara günlük hayattan örnekler verir. Öğrencilere, sürtünme kuvveti ile ilgili hesaplamalar yapmaları için farklı soru türlerinden oluşan bir test verilebilir.",
+    "FİZ.11.1.8",
+    "Profesyonel bir paraşütçünün uçaktan atlama deneyimine yönelik video üzerinden öğrencilerin paraşütçünün hareketini ve hareketine etki eden değişkenleri tartışıp yorumlaması sağlanır ( OB4 ) . Öğrencilerin yorumları alındıktan sonra öğretmen özdeş kâğıtlardan birini yatay, diğerini buruşturulmuş olmak üzere iki farklı şekilde serbest bırakarak basit gösteri deneyi gerçekleştirebilir. Yatay ve buruşturulmuş olarak bırakılan özdeş kâğıtların havada kalma süreleri arasındaki ve düşey hızları arasındaki farklılıkların nedenleri soru cevap etkinliğiyle sorgulanabilir. Sınıf tartışmasında öğrenciler kendi iddialarını ve destekleyicilerini paraşüt hareketini de kullanarak ortaya koyabilir. Yapılan tartışmalar neticesinde, öğrencilerin limit hıza etki eden değişkenleri sürtünme kuvveti ile ilişkilendirerek tanımlamaları sağlanır. Öğretmen, öğrencileri simülasyon kullanarak limit hıza etki eden değişkenlerle ilgili veri toplamaya yönlendirebilir. Öğrenciler, limit hıza etki eden değişkenlerin büyüklüğünü değiştirerek limit hızın aldığı değerleri kaydeder ( OB7 ) . Öğrenciler kendi iddialarını, tekrar eden gözlemleri ( D12.3 , E1.3 ) ve gözlemler esnasında kaydettikleri verileri kullanarak ( E3.6 ) gerekçelendirir. Kendi iddialarını ve gerekçelerini ( E1.6 ) , varsa arkadaşlarının karşıt iddialarına yönelik çürütücülerini saygı çerçevesinde ( D4.4 ) ve yapıcı olarak ( SDB2.3 ) ifade eder ( SDB2.1 ) , limit hızı etkileyen değişkenleri değerlendirir ( KB2.18 ) . Matematiksel modeli ile ilgili örneklerde limit hızın bağlı olduğu değişkenlerin ilişkilerine yönelik yorumlamalarla sınırlı kalınır. Öğrenciler limit hızı etkileyen faktörler hakkında bilgi görseli hazırlayabilir.",
+    "FİZ.11.1.9",
+    "Öğretmen, öğrencilerin ön bilgilerinde yer alan Türksat uydularının Dünya etrafındaki dolanımı ya da lunaparklardaki dönme dolap gibi çeşitli eğlence araçlarının hareketlerini yorumlamaları için düzgün çembersel hareket yapan farklı cisimleri görsel içerikli dijital araçlar ( OB4 ) ile gösterir. Öğrenciler görsellere odaklanarak ( E3.2 ) , görsellerde yer alan hareketleri inceler. Öğrenciler, soru cevap tekniği yardımıyla görsellerde yer alan hareketlilerin yörüngeleri, yörüngelerinin merkez noktaları ve hızları hakkında görüşlerini ifade ederek ( SDB2.1 ) düzgün çembersel hareket yapan farklı cisimlerin hareketlerinin özelliklerini tespit eder. Öğretmen, öğrencilerin vektörel niceliklerle ilgili ön bilgilerini hatırlamalarına yardımcı olur ve birbirinden farklı düzgün çembersel hareket yapan cisimlerin herhangi bir konumdaki hız vektörlerinin yönlerini çizmelerini ister. Öğrenciler, düzgün çembersel hareket yapan cisimlerin hareketlerindeki benzerliklerden yola çıkarak hız vektörü ile yörüngelerinin yarıçap vektörünün yönlerine yönelik çıkarımda bulunur. Öğrenciler hız ve yarıçap vektörünün yönlerine yönelik açık uçlu sorulardan oluşan çalışma yaprağı ile değerlendirilebilir.",
+    "FİZ.11.1.10",
+    "Öğrenciler öğretmen rehberliğinde gruplara ayrılabilir. Düzgün çembersel hareketle ilgili temel kavramları (çizgisel sürat, açısal hız, çizgisel hız, merkezcil ivme, açısal ivme ve merkezcil kuvvet) içeren video veya animasyon izletebilir. Öğretmen, öğrencilerden düzgün çembersel hareketin temel değişkenlerinden en az iki tanesinin karşılıklı etkileşimini gösteren drama etkinliği yapmalarını ( OB9 ) ister. Öğrencilerden, akranlarına değişkenleri doğru aktarabilmek için hazırlayacakları senaryo üzerinde tartışarak ( SDB2.2 ) görüş birliğine varmaları istenir ( D4.1 , E3.3 ) . Öğretmen, canlandırma etkinliği öncesinde gruplar tarafından hazırlanan bütün senaryoları inceleyerek temel değişkenlerin tamamının senaryolar kapsamında yer aldığından emin olur. Öğrenciler hazırladıkları senaryoları canlandırır ( E2.5 ) . Öğrenciler, canlandırma etkinlikleri sonrasında gruplar arası tartışma ( SDB2.2 ) yolu ile değişkenlere ve değişkenler arasındaki ilişkiye yönelik iddialarını, gerekçelerini ve varsa ( E1.6 ) karşıt iddialara sahip olan arkadaşlarına yönelik çürütücülerini saygı çerçevesinde ( D14.1 ) ifade eder ( KB2.18 , SDB2.1 ) . Gruplar arası tartışma ile öğrenciler değişkenler arasındaki ilişkileri keşfederek bu ilişkileri matematiksel olarak modeller. Drama etkinliği sırasında grup üyeleri arasında sağlanan etkileşim ( SDB2.1 ) sonucu ulaştıkları değişkenler arasındaki ilişkilere yönelik matematiksel modelleri; yatay düzlemde düzgün çembersel hareket, düşey düzlemde düzgün çembersel hareket, yatay ve eğimli virajlardaki düzgün çembersel hareket problemlerinin çözümlerinde kullanarak ( E3.1 ) geneller. Ray sisteminde çembersel hareketle ilgili matematiksel işlemlerden kaçınılır. Düzgün çembersel hareket ile ilgili değişkenleri göstermek için bir kısa film çekilmesi ya da animasyon hazırlanması performans görevi olarak verilebilir. Matematiksel hesaplamalar yapabilmeleri için açık uçlu test kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D14.1",
+      "D3.1",
+      "D3.3",
+      "D4.1",
+      "D4.4"
+    ],
+    "egilim": [
+      "E1.2",
+      "E1.3",
+      "E1.6",
+      "E2.5",
+      "E3.1",
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.5",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.3",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/243"
+}

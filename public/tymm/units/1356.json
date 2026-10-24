@@ -1,0 +1,53 @@
+{
+  "unitId": 1356,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "3. TEMA PİYANODA HİCAZ MAKAMI",
+  "hours": "18",
+  "description": "Temada öğrencilere piyanoda hicaz makamının çalınmasına yönelik beceri kazandırılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "8.3.1. Hicaz makamına yönelik eser çalabilme",
+      "processComponents": [
+        "a) Hicaz makamına yönelik eseri çözümler.",
+        "b) Hicaz makamına yönelik eser çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Hicaz makamına yönelik eser çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Hicaz makamına yönelik eserin müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "dizi, makam",
+  "support": [
+    "Hicaz dizisinin ve eserinin temel müzik bileşenlerini daha basit parçalarla ve adım adım tekrarlar yaparak öğretmek, ritmik ve melodik yapıların pekişmesini sağlamak için faydalı olabilir. Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir. Hicaz makamı dizisinin ve eserinin temel müzik bileşenlerini daha basit parçalarla ve adım adım tekrarlar yaparak öğretmek, ritmik ve melodik yapıların pekişmesini sağlamak için faydalı olabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Hicaz makamını daha derinlemesine analiz etmeleri, makamın farklı varyasyonlarını yaratmaları, özgün yorumlar geliştirmeleri ve grup çalışmaları ile eser üzerinde daha ileri düzeyde ifade becerileri kazanmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, öz değerlendirme ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi kapsamında öğrenciden hicaz makamında yazılmış bir eseri dijital platformlardan araştırarak çözümlemesi ve farklı müzikal yorumları karşılaştırarak kendi icrasını hazırlaması istenebilir. Performans görevi, öz değerlendirme formu ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PYN.8.3.1",
+    "Hicaz makamına yönelik eserin çalınması sürecinde öğrenciler eserin notalarını dijital müzik platformlarından inceleyip farklı versiyonlarını dinleyerek çeşitli müzikal yorumları keşfederler ( OB2 , D3.3 ). Öğrencilerin hicaz makamı dizisini öğrenmeye nasıl başlayacaklarını ve bu makamın müzikal bileşenlerini anlatılır ( OB1 ). Öğrenci hicaz makamına yönelik eseri çözümler. Bu süreçte merak duyguları devreye girer ve öğrenciler, makamın özelliklerini anlamak için araştırmalar yaparak derinlemesine öğrenirler ( E1.1 ). Öğrenciler hicaz makamını çalmada duruş ve tutuş pozisyonu alır ve çalgıya özgü teknikleri kullanır ( SDB1.1 ). Öğrenciler, eser içerisinde hicaz makamının özelliklerini anlar. Eseri müziksel bileşenlere uygun bir şekilde çalmaya başladıklarında öz güvenleri, daha belirgin hâle gelir ( E1.5 , OB9 ). Performans görevi kapsamında öğrenciden hicaz makamında yazılmış bir eseri dijital platformlardan araştırarak çözümlemesi ve farklı müzikal yorumları karşılaştırarak kendi icrasını hazırlaması istenir. Öğrenci, eseri teknik doğrulukla ve çalgıya özgü teknikleri kullanarak, makamın karakterini yansıtacak şekilde icra eder. İcrasına eşlik edecek şekilde makamın yapısal özelliklerini ve müziksel ifadesini sözlü ya da kısa yazılı bir açıklamayla sunması teşvik edilir. Performans görevi, öz değerlendirme formu ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1356"
+}

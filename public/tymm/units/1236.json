@@ -1,0 +1,52 @@
+{
+  "unitId": 1236,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "4. TEMA: NEYDE AÇIŞ VE TAKSİM UYGULAMALARI 8",
+  "hours": "17",
+  "description": "Temanın içeriğini öğrendiği makamlarda ney ile açış ve taksim çalışmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.8.4.1",
+      "title": "Ney ile açış ve taksim yapabilme",
+      "processComponents": [
+        "a) Ney ile açış ve taksim yapabilme amacını belirler.",
+        "b) Ney ile yapacağı makam dizilerini seçer.",
+        "c) Seçtiği makamlar ile açış ve taksim çalışmaları yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "açış, makam, ney, taksim",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Usta icracılar tarafından yapılan açış ve taksimler sık sık tekrarlanarak dinlettirilebilir. Açış ve taksime hazırlık için, öğrendiği makamların dizilerini usulsüz (serbest) olarak çalmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere kısa film veya kısa hikâyeler izlettirilerek, izledikleri duruma yönelik bir makam seçip seçtikleri makamda açış ve taksim yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; akran değerlendirme formu, gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak seçeceği makamlarda açış yaptıktan sonra yaptığı açış veya taksimin ardından bir Türk müziği eseri belirleyip çalmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "NEY.8.4.1",
+    "Açış ve taksim kavramlarının genel özellikleri anlatılarak, öğrencilerin dijital ortamda usta icracılar tarafından yapılan açış ve taksim çalışmalarını araştırıp, gözlemleyerek odaklanmaları değerlendirmeleri sağlanır ( OB2 , KB2.2 , E3.2 ). Ardından açış ve taksimin temel amaçlarından, nefes ve ton kontrolü, parmak ve teknik beceri, duygusal aktarım gibi unsurları belirlemeleri istenir. Daha sonra açış ve taksim yapmak üzere öğrendiği makamlardan birini seçmeleri sağlanır. Öğrencileri küçük gruplara ayırarak seçtikleri makamlarda açış ve taksim çalışmalarını birbirleriyle etkileşim içinde yapmaları ve ardından sunmaları sağlanır ( SDB2.1 , E3.3, D4.2 ). Çalışmalar akran değerlendirme formu, gözlem formu, analitik dereceli puanlama anahtarı veya kontrol listesi ile değerlendirilebilir. Süreç sonunda performans görevi olarak seçeceği makamlarda açış yaptıktan sonra yaptığı açış veya taksimin ardından bir Türk müziği eseri belirleyip çalmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1236"
+}

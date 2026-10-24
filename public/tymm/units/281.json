@@ -1,0 +1,101 @@
+{
+  "unitId": 281,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "3. TEMA: NİCELİKLER VE DEĞİŞİMLER (1)",
+  "hours": "42",
+  "description": "Bu temada öğrencilerin trigonometrik referans fonksiyonlar ile bu fonksiyonlardan türetilebilen fonksiyonlara ve bunların nitel özelliklerine ilişkin muhakeme yapabilmeleri, trigonometrik fonksiyonlarla ifade edilebilen denklemler içeren problemleri çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.11.3.1",
+      "title": "f(x)=sinx (x∈ℝ), f(x)=cosx (x∈ℝ), f(x)=tanx (x∈ℝ, x≠π/2+kπ, k∈ℤ ) ve f(x)=cotx (x∈ℝ, x≠kπ, k∈ℤ) şeklinde tanımlı trigonometrik referans fonksiyonların nitel özellikleri ile bu fonksiyonlardan türetilen [g(x) = k∙f(mx±r)±s (k, m, r, s ∈ ℝ, k≠0, m≠0)] trigonometrik fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "processComponents": [
+        "a) Trigonometrik referans fonksiyonların nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği, tekliği-çiftliği, örtenliği, periyodu) matematiksel temsilleri kullanarak belirler.",
+        "b) Trigonometrik referans fonksiyonların nitel özellikleri ile matematiksel temsilleri arasındaki ilişkileri belirler.",
+        "c) Trigonometrik referans fonksiyonları grafik ve cebirsel temsili üzerinde yapılan işlemlerle diğer trigonometrik fonksiyonlara dönüştürür.",
+        "ç) Trigonometrik referans fonksiyonlar ile bu fonksiyonlardan türetilen fonksiyonların grafik temsilleri ile cebirsel temsilleri arasındaki ilişkiyi ifade eder.",
+        "d) Trigonometrik referans fonksiyonlardan türetilen fonksiyonların nitel özelliklerine ilişkin varsayımlarda bulunur.",
+        "e) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek türetilen fonksiyonların nitel özellikleriyle ilgili örüntüleri geneller.",
+        "f) Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "g) Genellemelerinden elde ettiği önermeleri uygun sözel veya cebirsel dil ile sunar.",
+        "ğ) Elde ettiği önermelerin gerçek yaşam bağlamlarındaki kullanışlılığını değerlendirir.",
+        "h) Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.",
+        "ı) Uyguladığı doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.11.3.2",
+      "title": "Trigonometrik fonksiyonlarla ifade edilebilen denklemleri içeren problemleri çözebilme",
+      "processComponents": [
+        "a) Trigonometrik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bileşenleri (denklemi oluşturan fonksiyonların nitel özellikleri ile cebirsel ve grafik temsilleri) belirler.",
+        "b) Trigonometrik fonksiyonlarla ifade edilebilen denklemlere ilişkin matematiksel bileşenlerin aralarındaki ilişkileri belirler.",
+        "c) Trigonometrik fonksiyonlarla ifade edilebilen denklemlerin problem bağlamındaki temsillerini farklı temsillere dönüştürür.",
+        "ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.",
+        "d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.",
+        "e) Belirlediği stratejiyi kullanır.",
+        "f) Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.",
+        "g) Problemin olası çözüm stratejilerini gözden geçirir.",
+        "ğ) Problemin olası çözüm stratejilerinin trigonometrik fonksiyon içeren farklı problem durumlarında kullanımı ile ilgili çıkarımlar yapar.",
+        "h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "artanlık-azalanlık, birim çember, derece, esas ölçü, maksimum-minimum değer, maksimum-minimum nokta, periyot, radyan, trigonometrik fonksiyon, yönlü açı",
+  "support": [
+    "Dik üçgende trigonometrik oranların belirlenmesine yönelik olarak çözülen örneklerin sayısı artırılarak trigonometrik fonksiyonlara geçiş yapılabilir. Gerçek yaşam durumlarında takvim, saat, hafta gibi örnekler üzerinden periyot kavramının anlamlandırılması sağlanabilir. Trigonometrik fonksiyonlara ilişkin örnek veya problemlerde hesap makinelerinden veya çevrim içi araçlardan yararlanılabilir. Trigonometrik fonksiyonlarla ilgili özelliklere ulaşılamadığı durumlarda sayısal örnekler kullanılarak öğrencilerden sınırlı genellemeler yapmaları istenir. Trigonometrik referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksiyonların nitel özellikleri incelenirken matematik yazılımlarından yararlanılabilir.",
+    "Trigonometrik fonksiyonların kullanıldığı gerçek yaşam durumu örnekleri, futbol topunun belli bir açıyla ileri hareketi veya dönme dolaptaki birinin yerden yüksekliği gibi öğrencinin ilgisini çeken örneklerle çeşitlendirilebilir. Böylelikle öğrencilerin konuya karşı olan ilgi ve motivasyonları artırılabilir.",
+    "Trigonometrik fonksiyonların temsil edilebileceği somut materyaller (analog saat gibi) kullanılabilir. Öğrencilere trigonometrik fonksiyonları cebirsel olarak ifade edebilmeye ve bu fonksiyonların grafik temsillerini yorumlayabilmeye yönelik, kişiselleştirilmiş geri bildirimler verilerek gerekli değerlendirmeler yapılabilir.",
+    "Geri bildirim ve değerlendirmelerde çoklu ortam araçları (sözlü, yazılı, görsel gibi) kullanılabilir."
+  ],
+  "enrichment": [
+    "(*) Sekant ve kosekant fonksiyonlarının birim çember üzerindeki gösterimleri ve diğer trigonometrik fonksiyonlarla ilişkisi ile ilgili araştırma ödevi verilebilir. Ters trigonometrik fonksiyonların tanım ve değer kümelerini belirleme ödevi verilebilir. Derece ve radyan ilişkisi üzerinden bir dairenin neden 360°ye bölündüğünün tarihî süreci ile Babil sayılarının araştırılması ve konuyla ilgili sunum hazırlanması istenebilir.",
+    "(*) Matematik yazılımları kullanılarak oluşturulmuş çalışmalar bağlamında sinüzoidal dalgalar ve ses sinyali üretimi incelenebilir.",
+    "(*) Basit harmonik hareket, dönme dolabın hareketi gibi örnekler bağlamında trigonometrik fonksiyonların periyotlarına ilişkin uygulamalar içeren problemlere yer verilebilir. Örneğin eğik düzlemdeki bir hareketlinin bir noktadan bir noktaya varış süresi ve ivmesi trigonometrik fonksiyonlarla modellenebilir.",
+    "(*) Trigonometrik fonksiyonların kullanıldığı ve öğrencinin fizik dersinden bildiği bileşke vektör, Newton'ın hareket yasaları ve eğik atılan cisim gibi bağlamları içeren karmaşık problemlerin çözümleri araştırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirilebilir.",
+    "Grafik temsili verilen trigonometrik referans fonksiyonların bire birliğinin, örtenliğinin, periyodunun, maksimum-minimum noktalarının, maksimum-minimum değerlerinin ve tekliğinin-çiftliğinin belirlenebilmesine yönelik verilen performans görevi; dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Trigonometrik fonksiyonların periyotlarının belirlenmesini gerektiren gerçek yaşam durumlarına yönelik (bir salıncağın veya dönme dolabın yerden yüksekliğinin zamana bağlı değişimi gibi) araştırma ödevi verilebilir. Verilen ödev; hazırlık, içerik ve sunum süreçlerini içine alan derecelendirme ölçeği kullanılarak değerlendirilebilir.",
+    "Öğrencilere trigonometrik referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksiyonların nitel özelliklerine ilişkin önermelere yönelik matematiksel doğrulama yapmayı gerektiren çalışma kâğıdı verilebilir. Ortaya konan sonuçlar dereceli puanlama anahtarıyla değerlendirilebilir. Çalışma sonunda öğrenciler, öz değerlendirme formuyla kendilerini değerlendirebilir.",
+    "Trigonometrik fonksiyonlarla ifade edilebilen denklemleri kullanmayı gerektiren grup etkinliğinde her bir gruba çok çözümlü problemlerden oluşan çalışma kâğıdı verilebilir. Çalışma kâğıdında grubun ortaya koyduğu cevaplar, analitik dereceli puanlama anahtarıyla değerlendirilebilir. Gruptaki her birey, akran değerlendirme formuyla arkadaşlarını değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "MAT.11.3.1 Açı ölçme birimleri, radyan ve derece olarak alınır ve bu birimler birbirine dönüştürülür. Bir tam çemberin merkez açısının ölçüsünün 360° veya 2π radyan olmasından hareketle esas ölçü kavramı hakkında bilgi verilir. Birim çemberin iç bölgesinde hipotenüsü aynı zamanda çemberin yarıçapı olan, dik köşesi x veya y ekseni üzerinde bulunan dik üçgen oluşturulur. Oluşturulan dik üçgende üçgenin çember ile kesiştiği P (x, y) noktası kullanılarak birim çember denklemine ulaşılır. Hipotenüsün 1 birim uzunluğunda olmasından hareketle birim çember üzerindeki herhangi bir noktanın apsisinin pozitif yönlü açının kosinüs değerini, ordinatının ise sinüs değerini verdiği gösterilir. Ayrıca çizilen dik üçgenin trigonometrik oranlarının birim çember üzerinde seçilen noktaya bağlı olduğunu öğrencilerin fark etmesi sağlanır. Çember üzerindeki her bir noktaya karşılık gelen pozitif yönlü açı değerinin trigonometrik oranları değiştirmesinden hareketle uygun x açı ölçüleri kullanılarak y = sinx, y = cosx, y = tanx ve y = cotx ilişkileri kurulur. Bu ilişkiler genellenerek her bir gerçek sayıya birim çemberde bir yay uzunluğunun (Gerçek sayı doğrusu bir ip gibi düşünülerek \"0 \" noktası birim çember üzerindeki A (1, 0) noktası ile çakışacak şekilde pozitif sayılar saat yönünün tersinde, negatif sayılar saat yönünde birim çembere sarılır.) ve buna bağlı olarak birim çemberde bir merkez açının karşılık geleceği ifade edilir. Buradan hareketle gerçek sayılarda trigonometrik fonksiyonların nasıl tanımlanabileceğine yönelik sınıf içi tartışma yapılır ( SDB2.2 ) .",
+    "Öğrencilerin birim çemberden yararlanarak sinüs ve kosinüs referans fonksiyonların gerçek sayılarda tanımlı olduğunu ve bu fonksiyonların görüntü kümesinin [-1,1] olduğunu keşfetmelerine yönelik çalışmalar yapılır. Tanjant ve kotanjant referans fonksiyonların tanım ve görüntü kümeleri; tanx = sinx/cosx , cotx = cosx/sinx eşitlikleri kullanılarak oluşturulan tablo yardımıyla belirlenir ( OB4 ). Bu ilişkiler uygun tanım ve değer kümesine sahip trigonometrik referans fonksiyonlar olarak ifade edilir. Öğrencilerden elde ettikleri bilgiler yardımıyla, kâğıt ve kalemle, dijital araçlarla, matematik yazılımlarını kullanarak trigonometrik referans fonksiyonların grafiklerini çizmeleri beklenir ( OB2 , MAB5 ) . Grafik temsilleri yorumlanarak bu fonksiyonların nitel özelliklerinin neler olabileceğine yönelik sınıf içi tartışmalar yapılır ve öğrencilere açık uçlu sorular sorulur. Bu tartışmalar yapılırken öğrencilerin birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve etkileşim sağlamaları beklenir ( SDB2.1 , SDB3.3 ) . Öğrencilerin trigonometrik referans fonksiyonların matematiksel temsilleriyle nitel özellikleri arasındaki ilişkileri belirleyebilmesi beklenir. Bu süreçte trigonometrik referans fonksiyonların grafik temsilleri üzerinden periyotlarını bulmaya yönelik çalışmalar yapılır. Öğrencilere trigonometrik referans fonksiyonların nitel özelliklerine yönelik performans görevi verilebilir.",
+    "Trigonometrik referans fonksiyonların grafiklerine uygulanan dönüşümler ile g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0) fonksiyonları elde edilir ve bu fonksiyonlar cebirsel temsillerle ifade edilir ( E3.6 , E3.7 ) . Bu dönüşümler elde edilip yorumlanırken matematik yazılımlarından yararlanılır ( MAB5 , OB2 ) . Cebirsel temsili verilen trigonometrik fonksiyonları oluşturan k, m, r ve s gerçek sayı değerleri ile grafik temsili arasındaki ilişkiler yorumlanır ( MAB3 ) . Trigonometrik referans fonksiyonların grafik temsillerine dönüşümler uygulanarak elde edilen fonksiyonların nitel özellikleri hakkında varsayımlar geliştirilir. Varsayımlar geliştirilirken cebirsel ve grafiksel incelemelerin birlikte yürütülmesine önem verilir. Örneğin bir trigonometrik fonksiyonun artanlığına veya azalanlığına yönelik varsayımlar geliştirilirken o fonksiyonun grafik üzerinde gözlemlenen maksimum-minimum noktaları ve artan veya azalan olduğu aralıklar ile fonksiyonun cebirsel ifadesi arasında ilişki kurulur. Trigonometrik referans fonksiyonlarda fonksiyon değerlerinin sıralamasına yönelik durumlar, bu fonksiyonların grafik temsilleri incelenerek elde edilir. Varsayımlara yönelik farklı örnekler incelenerek trigonometrik fonksiyonların nitel özelliklerine ilişkin genellemelere ulaşılır. Genellemelerle varsayımlar karşılaştırılarak önermeler, matematiksel olarak doğrulanabilecek şekilde sunulur. Genellemelerden elde edilen önermeler; fizikte Newton'ın (Nüvtın) hareket yasaları, sabit ivmeli hareket ve vektörler gibi trigonometrik fonksiyonların etkin bir şekilde kullanılabileceği konularda değerlendirilir. Örneğin uzunluğu verilen bir basit sarkacın hareketi sırasında yerden yüksekliği, sarkacın dikey düzlemle yaptığı açıya bağlı olarak bilimsel bir bakış açısıyla trigonometrik fonksiyonlarla modellenebilir ( D3.3 ) . Günün belli bir saatinde bir nesnenin gölge boyunun hesaplanmasında da benzer modellemeler yapılabilir. Böylece öğrenciler, trigonometrik fonksiyonlarla ilgili geliştirdikleri önermelerin gerçek yaşamdaki pek çok problemin çözümünde etkin bir şekilde kullanılabileceğini fark eder. Bu sayede öğrencilerin yeni ve belirsiz olan gerçek yaşam durumlarını anlamaları ve bu durumlarla başa çıkmak için olumlu ve çözüm odaklı bir düşünce biçimini benimsemeleri desteklenir ( SDB3.1 , D12.2 ) . Öğrencilere trigonometrik fonksiyonların periyotlarının belirlenmesini gerektiren araştırma ödevi verilebilir.",
+    "Trigonometrik fonksiyonların matematiksel temsilleri, dönüşüm süreçleri ve nitel özellikleri hakkında elde edilen önermeler kullanılarak nasıl matematiksel doğrulama veya ispat yapılabileceği gösterilir. Örneğin bir trigonometrik fonksiyonun belli bir tanım aralığındaki sıfırlarının sayısı ile fonksiyonun periyodu arasındaki ilişkiyi ifade eden önermeler cebirsel olarak ispatlanır. Ayrıca sinx = cos ( 3π/2 + x) gibi önermelere ilişkin ilgili fonksiyonların grafik temsili verilir veya birim çember kullanılarak matematiksel doğrulama yapılır. Cebirsel ispat yapılırken mantık bağlaçları ve niceleyicilerin etkin bir şekilde kullanılabilmesi beklenir. Bu aşamada önermeler öncelikle, öğrenciler tarafından çözümlenir ve sonrasında bireysel olarak matematiksel doğrulama yapabilmeleri için önermelerden oluşan çalışma kâğıdı öğrencilere verilebilir. Çalışma kâğıdında cevaplanan sorulara ilişkin olarak öğrenciler kendilerini öz değerlendirme formu ile değerlendirebilir ( SDB1.1 , SDB1.2 ) . Yapılan matematiksel doğrulama ve ispatların kullanışlılığı değerlendirilir.",
+    "MAT.11.3.2 f bir trigonometrik referans fonksiyon olmak üzere [ g(x) = k ∙ f (mx ± r) ± s (k, m, r, s ∈ ℝ, k ≠ 0, m ≠ 0)] fonksiyonları ile ifade edilebilen denklemlere ilişkin matematiksel bileşenler belirlenir. Bu bileşenlerle ilgili fonksiyonların periyotları [T, fonksiyonun periyodu olmak üzere f (x + T) = f (x)], tanım ve değer kümeleri arasındaki ilişkiler kullanılarak g(x) = 0 ve g(x) = h(x) gibi eşitliklerle trigonometrik denklemlerin tanımlanması sağlanır.",
+    "Trigonometrik referans fonksiyonlar ve bu fonksiyonlardan türetilen fonksiyonları içeren problem durumları incelenir ve bu problem durumlarından elde edilen denklemlerin matematiksel temsilleri arasında (sözel, tablo, grafik, cebirsel) dönüşüm yapılır. Bu temsiller arasındaki geçişlerin gösterilebilmesi için elektronik tablolardan ve matematik yazılımlarından yararlanılır ( OB2 , MAB5 ). Bu problemlerde kullanılan gerçek yaşam durumlarının fizik, astronomi ve mühendislik gibi alanlarla ilgili olması beklenir. Örneğin fizikte eğik düzlem, eğik atılan cisim, basit sarkaç problemlerine yer verilebilir. Bu problemlerden elde edilen denklemlerin çözümlerine ulaşabilmek için problem durumunda geçen fonksiyonun belirli noktalardaki değerlerini yorumlama, trigonometrik özdeşlik kullanma ve grafik temsilinden yararlanma gibi yöntemler kullanılır. Denklemde kullanılan trigonometrik fonksiyonun periyodu, denklem çözümlerinde yorumlanır. Burada kullanılan trigonometrik denklemlerde trigonometrik fonksiyonların birinci kuvvetleri ile sınırlı kalınmasına dikkat edilir. Denklem çözümlerinde elektronik tablo ve matematik yazılımlarından yararlanılılır ( OB2 , MAB5 ) . Verilen farklı problem durumlarında uygun bir strateji seçilerek denklem ve eşitsizliklerin çözüm kümeleri elde edilir. Elde edilen çözüm kümelerinin doğruluğuna ilişkin sonuçlar farklı çözüm stratejileriyle kontrol edilir. Örneğin 0 < x < 2π olmak üzere sin (x - π/6 ) = cosx denklemini sağlayan köklerin sayısı hem cebirsel olarak bulunur hem de denklemi oluşturan trigonometrik fonksiyonların grafik temsilleri referans fonksiyonlardan hareketle çizilerek kesişim noktaları yorumlanır ( OB4 ) . Matematik yazılımları kullanılarak sonuçların doğruluğu kontrol edilir ( OB2 ) . Çözümün doğruluğunu kontrol etmek için farklı çözüm yollarına duyulan ihtiyaç vurgulanır ( SDB3.2 ) .",
+    "Trigonometrik fonksiyon ile ifade edilebilen denklem içeren problemlerin çözümleri ile ilgili kullanılan stratejiler gözden geçirilir. Bu problemlerin farklı yollardan çözülebilmesi için grup çalışması yapılabilir ( SDB2.2 ) . Yapılan grup çalışması, grup değerlendirme formu ile değerlendirilebilir. Bu problemlerde kullanılan gerçek yaşam durumlarının fizik, astronomi ve mühendislik gibi alanlarla ilgili olması beklenir. Örneğin fizikte eğik düzlem, eğik atılan cisim, basit sarkaç problemlerine yer verilebilir. Çözüme ulaştıran stratejilerin başka problem durumlarına uyarlanıp uyarlanamayacağına dair çıkarımlar yapılır ( SDB3.1 ) . Bu çıkarımlar, matematiksel bir modele dönüştürülür. Elde edilen matematiksel modeller sınırlılık ve verimlilik açısından (gerçek yaşam durumlarını modellerken kullanılan trigonometrik fonksiyonların toplam, fark ve çarpımını içeren denklemleri cebirsel temsiller kullanarak çözerken karşılaşılan sınırlılıklarda grafik temsili kullanma gibi) değerlendirilir. Öğrencilere konuyla ilgili bir sorunun farklı yollardan çözülmesine yönelik problemlerden oluşan çalışma kâğıdı verilebilir. Böylece öğrenciler, farklı çözüm yolları bulmaya yönlendirilir ( SDB3.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/281"
+}

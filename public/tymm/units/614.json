@@ -1,0 +1,91 @@
+{
+  "unitId": 614,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "2. TEMA: OYUNU KURALINA GÖRE OYNUYORUM",
+  "hours": "40",
+  "description": "Bu temada öğrencilerin temel hareket becerilerini çeşitli oyun ve fiziksel aktivitelerde sergileyebilmeleri, oyunlarda basit taktik ve stratejileri kullanabilmeleri, basit oyun kurallarını uygulayabilmeleri, oyun ve fiziksel aktivitelerde adil oyun anlayışına uygun davranabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.1.2.1",
+      "title": ". Oyunlarda temel hareket becerilerini sergileyebilme",
+      "processComponents": [
+        "a) Oyunlarda yer değiştirme, nesne kontrolü ve denge becerilerini algılar.",
+        "b) Oyunlarda yer değiştirme, nesne kontrolü ve denge becerilerinin basamaklarını gösterir.",
+        "c) Oyunlarda yer değiştirme, nesne kontrolü ve denge becerilerini farklı durumlarda uygular."
+      ]
+    },
+    {
+      "code": "BEO.1.2.2",
+      "title": "Oyun kurallarını uygulayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BEO.1.2.3",
+      "title": "Oyunlarda taktik ve stratejiyi kullanabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BEO.1.2.4",
+      "title": "Oyunlarda adil oyun anlayışına uygun davranabilme",
+      "processComponents": [
+        "a) Adil oyun anlayışını açıklar.",
+        "b) Oyunlarda adil oyun anlayışına uygun hareket eder."
+      ]
+    }
+  ],
+  "keyConcepts": "adil oyun, hareket, kurallı oyunlar, strateji, taktik",
+  "support": [
+    "Uygulamalarda hareket becerilerinin tekrar sayısı artırılabilir. Öğrencilerin oyun veya fiziksel aktiviteler sırasında taktik ve stratejileri grup hâlinde en az üç arkadaşıyla belirlemeleri ve bu süreçte akran desteği almaları sağlanabilir. Taktik ve stratejilerin uygulanmasında oyun kurallarında esneklikler yapılarak kurallar basitleştirilebilir ve somutlaştırılıp anlatılabilir. Öğrencilere adil oyun davranışlarını içeren videolar izletilebilir."
+  ],
+  "enrichment": [
+    "Hareket istasyonlarına birleştirilmiş hareket becerileri eklenebilir. Öğrencilerden oyun veya fiziksel aktivitelerde taktik ve stratejileri tek başlarına veya eşle belirlemeleri istenebilir. Oyun kurallarının sayısı artırılarak veya daha karmaşık kurallar eklenerek oyunların niteliği genişletilebilir. Öğrencilere oyunlarda kendilerine özgü strateji geliştirme ve tasarlama imkânı sunulabilir. Öğrencilerden adil oyun anlayışıyla ilgili farklı kültürlerdeki örnek davranışları araştırmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları kontrol listesi, öz değerlendirme formu ve gözlem formu kullanılarak değerlendirilebilir.",
+    "Öğrencilere adil oyun anlayışını içeren resim çizdirme performans görevi verilebilir. Bu performans görevi süreç bileşenlerini içine alan ölçütlerden oluşan analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEO.1.2.1. Öğrencilerin temel hareket becerileri (yer değiştirme, nesne kontrolü ve denge) ve hareket örneklerini içeren eşleştirme kartları gibi görsel materyallerle alıştırma yapmaları, temel hareket becerilerinin benzerlik ve farklılıklarını algılamaları sağlanır ( OB4 ). Öğrencilerin oyunlardan önce farklı hareket becerilerini sergilemelerine olanak tanıyacak, basit kurallarla yapılandırılmış çeşitli hareket istasyonları hazırlanır. Öğrencilerin gruplara ayrılarak hareket becerilerini basamaklarına uygun şekilde hareket istasyonlarında denemelerine olanak sağlanır. Sırası gelen öğrencilerin performansının arkadaşları tarafından dikkatle gözlemlenmesi ve arkadaşlarının hareketlerinin özenle takip edilmesi istenir ( E3.2 ). Herbir öğrencinin azimli bir şekilde istasyonlara devam etmesi sağlanarak öğrencilerin temel hareket becerilerinin basamaklarını göstermesi istenir ( D3.1 , SDB1.2 ). Öğrencilerin çeşitlitemel hareket becerilerini geliştirebilecekleri oyunlar, iş birliğini teşvik edecek ve açık alan gibi farklı ortamları içerecek şekilde tasarlanır. Bu oyunlarda öğrencilerden hem bireysel hem de grup çalışmalarıyla temel hareket becerilerini pekiştirmeleri beklenir. Oyunlar hareket becerilerinin eğlenceli bir şekilde uygulanmasını sağlarken aynı zamanda öğrencilerin öz güven ve iletişim becerilerini de destekler ( E2.5 ). Süreç içerisinde öğrencilerin temel hareket becerilerini sergilerken oyunun kurallarına uyup uymadıkları gözlem formu ve öz değerlendirme formu ile değerlendirilebilir.",
+    "BEO.1.2.2. Oyun ve fiziksel aktivitelerin farklı kuralları olabileceği ile ilgili çeşitli örnekler verilerek öğrencilerde merak uyandırılır ( E1.1 ). Öğrencilerden oynadıkları oyunlarda hangi kuralları uyguladıklarını sırayla anlatmaları ve birbirlerini etkin bir şekilde dinlemeleri istenir ( SDB1.1 ). Seçilen oyunun kuralları hakkında farklı düşüncelerini ifade etmeleri için tartışma ortamı oluşturulur ( SDB2.1 ). Ardından öğrencilerin seçilen kurallara dikkat ederek oyunlara katılmaları sağlanır. Öğrencilerin oyun kurallarının değişebileceğini bilmeleri, değişen oyun kurallarına uyum sağlamaları ve oyun sırasında esnek düşünme becerilerini geliştirmeleri desteklenir. Böylelikle oyun oynarken kuralların uygun olmasının oyunun akışına ne gibi etkileri olduğunun kavranması sağlanır. Oynatılan oyunlar sırasında kurallar belirli aralıklarla değiştirilerek veya oyuna farklı kurallar eklenerek öğrencilerden yeni bir düzene uyum sağlamaları beklenir ( SDB3.2 ). Oyunlarda bireysel farklılıklar olduğu vurgulanarak öğrencilerin arkadaşlarının duygu ve düşüncelerini fark etmeleri, onlara karşı olumlu anlayış geliştirmeleri ve birbirlerini farklılıklarıyla kabul etmeleri sağlanır ( SDB2.3 , E2.1 , D15.1 ). Birlikte oynamanın ve hareket etmenin keyifli olduğuna dair vurgular yapılır ( D4.4 ). Öğrencilerin oyun kurallarını uygulayabilme konusundaki performansları öz değerlendirme formu kullanılarak değerlendirilebilir.",
+    "BEO.1.2.3. Öğrencilerden oyunlarda başarılı olmak için hangi yöntemlere başvurduklarını daha önce oynadıkları oyunları dikkate alarak ifade etmeleri istenir ( SDB1.1 , SDB2.1 ). Küçük gruplara ayrılmaları, oyunlarda nasıl başarılı olunabileceği hakkında birbirlerini dinlemeleri, birbirlerine sorular yöneltmeleri, fikir üretmeleri ve bu fikirleri yorumlamaları istenir ( SDB3.3 , D14.1 , E3.8 , SBAB5.3 ). Grupların organize edilen oyunlarda kullanabilecekleri basit taktikleri fark etmeleri ve hangi stratejileri uygulayacaklarına karar vermeleri sağlanır.",
+    "Belirlenen oyunlardaki taktik ve stratejilerin öğrenciler tarafından uygulanması sağlanır ( SBAB5.2 , SBAB5.2 ). Öğrencilerin oyunların amacına uygun becerileri geliştirmeleri sağlanır ve belirlenen stratejileri denemeleri için fırsatlar oluşturulur. Öğrencilerin oyunlara ilgi ve merak duymaları, takım çalışması yaparak stratejileri daha etkin kullanmaları sağlanır ( SDB2.2 ). Öğrencilerin taktik ve strateji kullanabilme becerileri kontrol listesi ile değerlendirilebilir.",
+    "BEO.1.2.4. Öğrencilere adil oyun kavramının açıklandığı bir video, kısa film veya çizgi film izletilir. Bir oyuncunun rakibine yardımcı olması, kurallara uygun davranması gibi örnekler sunulduktan sonra \"Sizce adil oyun nedir?\", \"Oyun sırasında arkadaşlarınıza nasıl davranmalısınız?\" gibi sorular eşliğinde öğrencilerin tartışması sağlanır ( SDB2.1 ). Öğrencilerden adil oyun anlayışıyla ilgili kendi örneklerini paylaşmaları istenir. Öğrencilerden gruplara ayrılarak öğretmen tarafından adil oyunla ilgili verilen hikâyeleri canlandırmaları ve adil oyun davranışlarını fark etmeleri beklenir ( SBAB5.2 , SDB3.1 ). Oyunlarda birbirlerine nasıl davranmaları gerektiğine yönelik duygu ve düşünceleri anlamaları sağlanır ( E2.1 ). Öğrencilerden basit kurallı oyunlarda kurallara uygun davranma, arkadaşlarına saygı gösterme ve onlara karşı sabırlı olma gibi adil oyun anlayışına uygun davranışlar sergilemeleri beklenir. Oyunlar sırasında öğrencilerin yardıma ihtiyaç duyan arkadaşlarına destek olmaları ve hakkaniyetli davranmaları sağlanır ( D1.2 , D4.1 ). Öğrencilerden kurallara uygun hareket etmeyi ve kazanmaya odaklanmak yerine adil bir şekilde oynamayı tercih etmeleri beklenir. Öğrencilerin adil oyun anlayışına uygun davranabilme durumları gözlem formu kullanılarak değerlendirilebilir. Konu ile ilgili performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D14.1",
+      "D15.1",
+      "D3.1",
+      "D4.1",
+      "D4.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E2.5",
+      "E3.2",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "diger": [
+      "SBAB5.2",
+      "SBAB5.3"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/614"
+}

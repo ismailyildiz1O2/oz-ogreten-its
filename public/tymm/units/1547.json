@@ -1,0 +1,76 @@
+{
+  "unitId": 1547,
+  "grade": 0,
+  "gradeName": "I. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY I · 5. Tema: Meslekler Ve Matematik",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.1.5.1",
+      "title": "Farklı medeniyetlerin sayı sistemlerine olan katkılarıyla ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Farklı medeniyetlerin sayı sistemlerine olan katkılarıyla ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.5.2",
+      "title": "Meslek gruplarında kesirlerin farklı gösterimleri (tam sayılı, ondalık, yüzde) ve ölçme türlerinin kullanımları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Meslek gruplarında kesirlerin farklı gösterimleri (tam sayılı, ondalık, yüzde) ve ölçme türlerinin kullanımları ile ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.1.5.3",
+      "title": "Meslek gruplarındaki günlük uygulamalarda karşılaşılan kesirlerin farklı gösterimleri ile ilgili dört işlem gerektiren problemleri çözebilme",
+      "processComponents": [
+        "a) Meslek gruplarındaki günlük uygulamalarda karşılaşılan kesirlerin farklı gösterimleri ile ilgili dört işlem gerektiren problemlerdeki verilenleri ve istenenleri belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Birçok meslek grubunda matematik; problem çözme, ölçme, hesaplama ve karar verme süreçlerinde temel bir araç olarak kullanılır. \n Anahtar Kavramlar \n\n Hint- Arap sayı sistemleri, kesir, Maya, Mısır, Roma sayı sistemleri",
+  "support": [
+    "Bilgi toplama ve doğrulama süreçleriyle ilgili ek yönergeler verilerek rehberlik sağlanabilir.",
+    "Hint-Arap, Mısır, Maya, Babil, Roma vb. sayı sistemleri ile ilgili video/animasyon izletilebilir.",
+    "Problem çözme basamaklarına ilişkin ek yönergeler verilerek süreçte destek olunabilir."
+  ],
+  "enrichment": [
+    "Sıfır rakamının tarihçesini araştırmaları ve sınıf ortamında sunmaları istenebilir.",
+    "Aşçı, mühendis, bankacı, doktor, çiftçi vb. meslek gruplarından birini seçerek bu meslek grubunda karşılaşılan dört işlem gerektiren bir günlük hayat problemi yazarak bu problemi kesirlerin farklı gösterimleri ile çözmeleri ve bu süreci raporlaştırarak sunmaları istenebilir.",
+    "On kişilik bir yemek tarifi bulmaları ve bu tarifteki malzeme miktarlarını kaydetmeleri istenebilir. Daha sonra tam sayılı, ondalık veya yüzde olarak değiştirerek bu tarifi bir kişilik olacak şekilde yeniden düzenlemeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevleri, açık uçlu sorular vb. kullanılarak değerlendirilebilir.",
+    "Farklı medeniyetlerin sayı sistemlerine katkıları ile ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Meslek gruplarında kesirlerin farklı gösterimleri ve ölçme türlerinin kullanımı ile ilgili poster, afiş vb. hazırlamaya yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarıyla değerlendirilebilir.",
+    "Meslek gruplarındaki günlük uygulamalarda kullanılan kesirlerin farklı gösterimi ile ilgili problemlerin çözüme yönelik farklı stratejiler geliştirmeleri ve geliştirdikleri stratejileri açıklamaları için sunum hazırlamalarına yönelik performans görevi verilebilir. Bu performans görevi analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.1.5.1.",
+    "“Farklı medeniyetler sayı sistemlerine nasıl katkılar yapmış olabilir?” sorusu yöneltilerek öğrencilerin beyin fırtınası tekniği ile fikirleri alınır ( E1.1 , E3.5 ). Öğrencilerden gelen cevaplarla tartışma ortamı oluşturulur ( SDB2.2 ). Tartışma esnasında sosyal bilgiler dersiyle ilişkili olarak Roma, Hint-Arap, Mısır, Maya, Babil vb. sayı sistemleri incelenir ( OB5 ). Öğrencilere farklı medeniyetlerin sayı sistemlerine katkıları ile ilgili bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilir. Bu süreçte gerçeği arama isteğiyle ve sorumluluk bilinciyle hareket etmeleri, arkadaşlarıyla yardımlaşmaları desteklenir ( E3.4 , D16.3 , D20.2 , SDB2.2 ). Öğrencilerden farklı medeniyetlerin sayı sistemlerine olan katkılarıyla ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları sağlanır ( OB1 , OB2 ). Bu süreçte bilgi toplarken güvenilir araçları belirlemeleri istenir. Belirledikleri aracı kullanarak farklı medeniyetlerin sayı sistemlerine olan katkılarıyla ilgili bilgi toplamaları sağlanır. Ulaştıkları bilgileri doğrulamaları beklenir ( OB1 ). Bu doğrulama sürecinde öğretmeninden, alan uzmanından vb. yardım almaları, arkadaşları ile tartışmaları veya bilimsel kaynaklara başvurmaları beklenir ( E3.10 , D3.3 , OB1 , OB7 ). Doğruladıkları bilgileri kaydetmeleri ve poster, afiş, rapor vb. olarak sunmaları istenir ( SDB2.1 , OB1 ). Performans görevi hazırlama sürecinde sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 ). Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu sorular vb. kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.1.5.2.",
+    "Öğrencilere meslek gruplarında kesirlerin farklı gösterimleri (tam sayılı, ondalık, yüzde) ve ölçme türlerinin kullanımları ile ilgili örnekler sunulur. Örneğin “bir futbol istatistik tablosunda oyuncuların pas başarı yüzdeleri”, “bir terzinin kumaş ölçülerini yazdığı not defteri” vb.. Bu örnekleri incelemeleri sağlanarak görüşleri alınır ( SDB2.1 ). Daha sonra öğrencilere “Hangi mesleklerde kesirler, ondalık kesirler ve yüzdeler sıklıkla kullanılır?” , ”Meslek grupları genellikle hangi ölçme türlerinden yararlanıyor?” vb. sorular sorularak tartışma ortamı oluşturulur ( SDB2.1 , E3.10 ). Tartışma esnasında aşçı, marangoz terzi vb. meslek gruplarında kullanılan kesir ve ölçme türlerine vurgu yapılır. Öğrencilere meslek gruplarında kesirlerin farklı gösterimleri ve ölçme türlerinin kullanımı ile ilgili bireysel ya da grup olarak poster, afiş, resim, rapor vb. hazırlamalarını içeren performans görevleri verilir. Poster, afiş vb. tasarımı noktasında görsel sanatlar dersinden faydalanılabilir ( OB4 ). Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları sağlanır ( OB1 , OB2 ). Bilgi toplarken güvenilir araçları belirlemeleri beklenir. Belirledikleri aracı kullanarak meslek gruplarında kesirlerin farklı gösterimleri ve ölçme türlerinin kullanımı ile ilgili bilgi toplamaları istenir. Ulaştıkları bilgileri doğrulamaları beklenir ( E3.1 , E3.10 ). Bu doğrulama sürecinde öğretmeninden, alan uzmanından vb. yardım almaları, arkadaşları ile tartışmaları veya bilimsel kaynaklara başvurmaları desteklenir ( E3.10 , D3.3 , OB1 ). Doğruladıkları bilgileri kaydetmeleri ve poster, afiş vb. şeklinde organize ederek sunmaları istenir ( SDB2.1 , OB1 ). Performans görevi hazırlama sürecinde sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 ). Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu sorular vb. kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.1.5.3.",
+    "Öğrencilerden kesirlerin farklı gösterimlerinin meslek gruplarında kullanıldığı problem durumlarına örnek vermeleri istenir ( SDB2.1 ). Öğrencilere merak ve ilgi uyandırıcı problemler sunulur ( E1.1 ). Kesirlerin farklı gösterimleri ile ilgili dört işlem problemlerinin seçiminde gerçek yaşam durumlarından yararlanılır. Örneğin “Bir pastacı, gün içinde yapacağı iki farklı ürün için gereken un miktarını hesaplıyor. Börek için 3/4 kg, meyveli kek için 0,5 kg una ihtiyacı olduğunu belirliyor. Pastacının kullanacağı toplam un miktarını bulunuz.\", \"6 metre kumaşı olan bir terzi elbise için 1/3, etek için 0,75 metre kumaş kullanıyor. Gömlek için ise elbise için kullandığının %150’si kadar kumaş kullanıyor. Terzinin geriye ne kadar kumaşı kaldığını bulunuz.\" vb. bağlamlarda yazılabilecek dört işlem içeren problemler kurgulanabilir. Terzilik, marangozluk, ayakkabıcılık, mimarlık, iç mimarlık vb. meslek gruplarında kesirlerden yararlanıldığına değinilir. Problem oluşturulurken aşçılık, beslenme uzmanlığı, terzilik, marangozluk, bankacılık gibi meslek gruplarıyla ilişkili örnek durumlara yer verilir. Bankacılık ve finans ile ilgili problemlerde öğrencilerin finansal okuryazarlığının geliştirilmesi amacıyla tasarruf bilincinin aile ve toplum için önemine yer verilir ( OB3 , D17.1 ). Öğrencilerden meslek gruplarındaki günlük uygulamalarda karşılaşılan kesirlerin farklı gösterimleri ile ilgili dört işlem gerektiren problemlerin çözümünde problemi anlayarak verilen ve istenenleri belirlemeleri istenir. Daha sonra öğrencilerden verilen ve istenenler arasındaki işlem ilişkilerini tespit etmeleri beklenir. Bu süreçte problemdeki ilişkilere yönelik basit şekil ya da diyagram çizmeleri istenerek öğrencilerin problemi anlamaları sağlanır. Öğrencilerden problem bağlamlarını yorumlarken problemle ilişkili verilenleri belirleyerek uygun matematiksel temsillere dönüştürebilmeleri ve problemi kendi ifadeleriyle açıklayabilmeleri beklenir ( SDB2.1 ). Problemlere yönelik çözümlere geçmeden önce öğrencilerden sonuca ilişkin tahminde bulunmaları ve problemin çözümü ile ilgili stratejiler geliştirmeleri istenir. Öğrenciler, bu stratejileri geliştirirken farklı temsillerden (somut ya da sanal manipülatifler, tablo ve sayı doğrusu gibi) yararlanmaları için teşvik edilir ( MAB3 , MAB5 ). Öğrencilerin strateji geliştirmelerini desteklemek ve geliştirdikleri stratejileri kullanmalarını sağlamak için problem çözme sürecinde grup çalışmaları yapmaları sağlanabilir ( SDB2.1 , SDB2.2 ). Gruplar öğrencilerin akademik başarıları ve sosyal dinamikleri dikkate alınarak oluşturulabilir ( SDB2.2 ). Bu sayede akran öğrenmeleri desteklenebilir. Öğrenciler stratejilerini kullanarak problemleri çözmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( SDB3.2 , KB2.8 , E3.10 ). Problem çözümlerinin ardından öğrencilerden çözüm yollarını kontrol etmeleri beklenir. Öğrencilerin problem çözümlerindeki işlemlere yönelik tahmin ve stratejilerini gözden geçirmeleri, kısa yollara ilişkin çıkarım ve değerlendirmeler yapmaları beklenir ( SDB1.2 , KB2.8 ). Ayrıca problemi çözerken ne gibi stratejiler geliştirdikleri ve bu stratejilerin problemin çözümünü nasıl kolaylaştırdığı konusunda tartışma ortamı oluşturulur ( SDB2.1 , SDB2.2 ). Daha sonra öğrencilerin çözüm stratejileri ile ilgili değerlendirmeler yapmaları sağlanır ( KB2.8 ). Öğrencilerin çözüm sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Bu değerlendirmelerde öğrencilerin farklı stratejiler kullanabilecekleri problem kurma çalışmaları yapmaları sağlanabilir. Öğrencilerin meslek gruplarındaki günlük uygulamalarda karşılaşılan kesirlerin farklı gösterimleri ile ilgili dört işlem gerektiren problemleri çözebilme becerilerini değerlendirmek amacıyla süreçte ve öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir. Performans görevi olarak öğrencilere meslek gruplarındaki günlük uygulamalarda kullanılan kesirlerin farklı gösterimi ile ilgili durumlarda karşılaşabilecekleri problemler verilebilir. Bu problemlerin çözümüne yönelik farklı stratejiler geliştirmeleri, geliştirdikleri problem çözümleri ile ilgili bir sunum hazırlayarak arkadaşlarına sunmaları istenebilir ( OB2 ). Bu görev, süreç bileşenlerini dikkate alarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Yapılan grup çalışmaları da öğretmen tarafından grup değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1547"
+}

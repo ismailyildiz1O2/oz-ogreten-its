@@ -1,0 +1,65 @@
+{
+  "unitId": 240,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "6. TEMA: VERİYE DAYALI ARAŞTIRMA",
+  "hours": "10",
+  "description": "Bu temada öğrencilerin istatistiksel araştırma sürecinin adımlarını kategorik veriye dayalı en çok iki veri grubuna yönelik yürütebilmesi amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "MAT.2.4.1",
+      "title": "Kategorik veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) Kategorik veriye dayalı istatistiksel araştırma gerektiren günlük yaşam durumu belirler.",
+        "b) Kategorik veriye dayalı betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur.",
+        "c) Kategorik verileri toplamak için plan yapar.",
+        "ç) Kategorik verileri toplar.",
+        "d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele tablosu, sıklık tablosu ve şekil grafiğini seçer.",
+        "e) Seçtiği araçlarla verileri görselleştirerek analiz eder.",
+        "f) Araştırma sonuçlarını yorumlar.",
+        "g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir"
+      ]
+    }
+  ],
+  "keyConcepts": "• şekil grafiği, Sembol ve Gösterimler, • -",
+  "support": [
+    "Öğrencilere renksiz görselleri olan tek veri grubuna yönelik her bir verinin bir ya da iki nesne veya durumu temsil ettiği hazır bir şekil grafiği verilir. Ardından öğrencilerden bu görselleri boyamaları istenir. Boyama işlemi tamamlandıktan sonra öğrencilere sorular sorularak araştırma sonuçlarının yorumlanması istenir."
+  ],
+  "enrichment": [
+    "Çeşitli özelliklere göre ayrılmış nesne veya durumlar verilip bunların hangi özelliğe göre sınıflandırıldığını bulmaları sağlanır. Sonrasında farklı bir özelliğe göre gruplayıp şekil grafiğinde göstermeleri beklenir. Öğrencilerden oluşturdukları bu grafiği yorumlamaları istenir."
+  ],
+  "assessment": [
+    "Bu temaya ait öğrenme çıktıları; açık uçlu ve eşleştirme sorularından oluşan çalışma kâğıdı ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.2.4.1 Öğrencilerin ilgisini çeken ve deneyimlerine dayanan örnek durumlar veya olaylar ile günlük yaşamda araştırma gerektiren durumları fark etmeleri ve sınıf içinde tartışmaları sağlanır ( E1.1 , SDB2.1 ) . Öğrenciler seçtikleri bağlama göre kategorik veriye dayalı iki veri grubuna yönelik günlük yaşam durumu belirler ( SDB3.3 ) . Hayat bilgisi dersinin ilgili konularıyla (örneğin mevsim) ilişki kurulur. Örneğin yaz ve kış mevsimi gibi iki grup oluşturur. Her grup belirlediği mevsimden hareketle ayların kategorileştirilmesine yönelik en sevdiği ayları belirtir. Seçilen bağlamdan hareketle öğrencilerin cevaplayabileceği ve betimleyebileceği/karşılaştırabileceği araştırma soruları oluşturmaları sağlanır ( SDB2.1 , D3.4 ) . Araştırma sorularının istatistiksel araştırma sorusu olup olmadığı, verilerin toplanmasına imkân verip vermediği, araştırmanın amacına hizmet edip etmediği, veri toplanacak grubun açık ve net olup olmadığı, soruların cevaplanabilir ve cevapların da değişebilir olup olmadığına dikkat edilir. Bağlam içerisinde \"Bu sorunun cevabını nasıl öğrenebiliriz? Soruyu kimlere sorabiliriz?\" gibi sorular ile veri toplama süreci planlanır ( SDB2.1 ) . Böylece öğrencilerin varsayımlarda bulunularak dikkatlerini toplamaları ve sürece odaklanmaları sağlanır ( E3.2 ) . Hazırlanan veri toplama planı doğrultusunda fikir alışverişinde bulunarak öğrenciler kendi grupları ile aktif bir şekilde veri toplama sürecini gerçekleştirir ( D3.3 , SDB2.1 , SDB2.2 ) . Toplanan verilerin araştırma sorularına cevap veriyor olup olmadığı öğrencilerle değerlendirilir ( SDB2.1 ) . Öğrencilere topladıkları verileri kaydetmelerinin gerekliliğinden bahsedilir. Bu gerekliliği ortaya koymak için öğrencilere \"Bu veri yarın toplansa aynı sonuçlar elde edilir mi?\" gibi sorular sorulur. Burada öğrencilerin verilerin değişebilirliğini fark etmeleri sağlanır. Belirlenen durum bağlamında toplanan verilerin nasıl görselleştirileceğine yönelik öğrencilere \"Veriyi gruplamamız gerekiyor mu? Veri gruplamayı nasıl yapabilirsiniz?\" gibi sorular sorulur, cevapları tartışılır ( SDB2.1 ) .",
+    "Toplanan veriyi özetlemek ve görselleştirmek için kullanılacak araçların (çetele, sıklık tablosu, şekil grafiği) uygunluğu konusunda öğrencilerin düşünmeleri sağlanır ( SDB2.1 ) . Öğrencilerden/gruplardan topladıkları veriyi kendi belirledikleri özelliklerine göre gruplamalarının ardından çetele tablosu, sıklık tablosu ve şekil grafiği ile ifade etmeleri istenir. Daha sonra öğrencilerin topladıkları verileri nasıl görselleştirebilecekleri üzerine düşünmeleri, düşüncelerini sınıf içinde tartışmaları ve karar vermeleri sağlanır ( SDB2.1 ) . Her bir verinin bir şekle karşılık geldiği belirtilerek öğrencilerin sıklık tablosundan hareketle verileri şekil grafiğine yerleştirmeleri sağlanır. Bu süreçte öğrencilerin çetele ve sıklık tablosunda gösterimleri ile şekil-veri eşleştirmelerinin gösterimleri kontrol listesi ile değerlendirilebilir. Veri görselleştirme adımında nesne grafiği ile şekil grafiğinin ilişkisine odaklanılır, nesne grafiğinde bir nesnenin resmi ile gösterilen bir verinin şekil grafiğinde herhangi bir (yıldız, kare, üçgen vb) şekille gösterildiğini fark etmeleri sağlanır ( SDB3.1 ) . Böylelikle bu verilerin belirli bir yöntemle düzenli ve sistematik bir şekilde ele alınması sağlanır ( E3.7 , D3.4 ) . Öğrencilerin verileri görselleştirmede kullanılan çetele ve sıklık tablosu ile şekil grafiğinin aynı zamanda birer matematiksel temsil olduğu, öğrencilerin bu temsiller bağlamındaki anlamları ile de tanışmaları sağlanmış olur ( MAB3.1 ). Verileri görselleştirme adımında çevrim içi araçlardan yararlanılır ( OB2 ) .",
+    "Veri görselleştirme adımı tamamlandıktan sonra öğrencilere elde ettikleri grafik üzerinde sayısal işlem yapmadan şekil-veri eşleştirmesine yönelik \"Grafikle ilgili ne söyleyebilirsiniz? Hangisi daha fazladır/daha azdır?\" gibi sorular sorularak araştırma sonuçlarını yorumlamaları sağlanır ( SDB2.1 ) . Ayrıca veri yorumlama adımında grafikten ne anladıklarına yönelik sorular sorularak elde edilen araştırma sonuçlarının araştırma sorularına ne derece cevap verdiğini değerlendirmeleri istenir. Bu süreçte öğrencilerin şekil-veri eşleştirmeleri boşluk doldurma soruları ile değerlendirilebilir. Öğrencilere sınıf içinde farklı verilerle hazırlanan grafiklerin yorumlanmasının eldeki verilere göre yapıldığı ve yorumların sadece o grafiğin bağlamı içinde sunulduğu çeşitli örneklerle gösterilir. Bu süreçte öğrencilere \"Bu veriler 2/A sınıfından toplandı, 2/B sınıfından da toplansaydı aynı sonuçları elde eder miydik?\" gibi sorular sorularak veri toplanan kişilerin değişebilirliğini fark etmeleri sağlanır ( SDB2.1 ) .",
+    "Öğrencilere iki veri grubu içeren çetele, sıklık tablosu ve şekil grafiğine yönelik olarak açık uçlu ve boşluk doldurma soruları verilebilir. Öğrencilere şekil grafiğinde verilen sayılara ilişkin şekil-veri eşleştirmelerine yönelik birden fazla duyuya hitap edeceği dijital araçlardan yararlanarak çalışmalar yapmaları sağlanır. Bu sayede şekil grafiği, çetele ve sıklık tablosu dijital araçlarla görselleştirileceği için iletişim araçlarındaki görsellerin algılanması ve tanınması sağlanır ( OB2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3.1"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/240"
+}

@@ -1,0 +1,47 @@
+{
+  "unitId": 1527,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY I · 5. Tema: Yapay Zekâ İle Dijital Sanat",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.1.5.1",
+      "title": "Dijital içerik oluşturmada kullanılan yapay zekâ araçlarını sınıflandırabilme",
+      "processComponents": [
+        "a) Dijital içerik oluşturmada kullanılan yapay zekâ araçlarını belirler.",
+        "b) Dijital içerik oluşturmada kullanılan yapay zekâ araçlarını sanat alanları ile ilişkilendirir.",
+        "c) Dijital içerik oluşturmada kullanılan yapay zekâ araçlarını işlevlerine göre gruplandırır."
+      ]
+    },
+    {
+      "code": "DS.1.5.2",
+      "title": "Yapay zekâ ile oluşturulmuş dijital içeriklerdeki mesajı anlamlandırabilme",
+      "processComponents": [
+        "a) Yapay zekâ ile oluşturulmuş dijital içeriklerdeki nesnel ve öznel mesajlarını belirler.",
+        "b) Dijital içeriklerin üretim biçimi ile ilettiği mesajlar arasındaki ilişkileri tespit eder."
+      ]
+    },
+    {
+      "code": "DS.1.5.3",
+      "title": "Dijital içerik oluşturmada sanatsal yapay zekâ araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Dijital içerik oluşturma ve düzenlemede kullanılan yapay zekâ araçlarını tanır.",
+        "b) Dijital içerik oluşturma ve düzenlemede kullanılan uygun araç ve yöntemleri belirler.",
+        "c) Dijital içerik oluşturma ve düzenlemede belirlediği yapay zekâ araç ve yöntemlerini etik ve güvenli kullanım ilkelerini gözeterek kullanır.",
+        "ç) Dijital içerik oluşturmada kullandığı yapay zekâ araç ve yöntemleri değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "dijital estetik, dijital mahremiyet, etik üretim, içerik oluşturma, insan katkısı, mesaj, özgünlük, teknoloji-sanat etkileşimi, yapay zekâ, yapay zekâ araçları",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB1. Bilişim Teknolojisini Kullanma (BTYAB1.1. Bilişim Teknolojilerini Sınıflandırma), BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma), SAB2. Görsel Mesajı Okuma (SAB2.2. Görsel Mesajı Anlamlandırma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1527"
+}

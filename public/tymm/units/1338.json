@@ -1,0 +1,89 @@
+{
+  "unitId": 1338,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "2. TEMA: PİYANODA TONALİTE 1",
+  "hours": "24",
+  "description": "Temada öğrencilerin piyanoda do majör, sol majör, fa majör ve la minör tonlarında eser çalmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PYN.3.2.1",
+      "title": "Do majör tonalitesindeki eseri çalabilme",
+      "processComponents": [
+        "a) Do majör tonalitesindeki eseri çözümler.",
+        "b) Do majör tonalitesinde eser çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Do majör tonalitesinde eser çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Do majör tonalitesindeki eseri müzik bileşenlerine uygun çalar."
+      ]
+    },
+    {
+      "code": "PYN.3.2.2",
+      "title": "Sol majör tonalitesindeki eseri çalabilme",
+      "processComponents": [
+        "a) Sol majör tonalitesindeki eseri çözümler.",
+        "b) Sol majör tonalitesinde eser çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Sol majör tonalitesinde eser çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Sol majör tonalitesindeki eseri müzik bileşenlerine uygun çalar."
+      ]
+    },
+    {
+      "code": "PYN.3.2.3",
+      "title": ". Fa majör tonalitesindeki eseri çalabilme",
+      "processComponents": [
+        "a) Fa majör tonalitesindeki eseri çözümler.",
+        "b) Fa majör tonalitesinde eser çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Fa majör tonalitesinde eser çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Fa majör tonalitesindeki eseri müzik bileşenlerine uygun çalar."
+      ]
+    },
+    {
+      "code": "PYN.3.2.4",
+      "title": ". La minör tonalitesindeki eseri çalabilme",
+      "processComponents": [
+        "a) La minör tonalitesindeki eseri çözümler.",
+        "b) La minör tonalitesinde eser çalmada duruş ve tutuş pozisyonu alır.",
+        "c) La minör tonalitesinde eser çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) La minör tonalitesindeki eseri müzik bileşenlerine uygun çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "tonalite, piyano, eser",
+  "support": [
+    "Oyun, canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir. Eser videoları tekrarlı bir şekilde izletilebilir. İlgili majör veya minör öğretiminde öğretmen rehberliği artırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. İlgili tonalitesinin çalımında başkaca eserler verilerek süreç ileri seviyeye taşınabilir. Eserlerin tempo düzeyleri ölçülü düzeyde öğretmen rehberliğinde artırabilir."
+  ],
+  "assessment": [
+    "Performans görevi olarak öğrenciden do majör tonalitesinde öğretilen dizi kalıbını doğru şekilde kullanarak kısa bir eser ya da egzersizi çalması istenebilir. Performans görevi; öz değerlendirme formu, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir. Öğrenme çıktılarının değerlendirilmesinde gözlem formu ve dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "PYN.3.2.1",
+    "Öğrencilere do majör tonalitesinin nasıl çalınacağı ile bilgi verilir ( OB1 ). Öğrenciden ilgili majör kalıbı ile ilgili dizi çalması istenir. Do majör tonalitesine uygun eser videosu izletilir ( OB2 ). Öğrenciden çalınacak eser ile ilgili çözümleme yapması istenir. Öğrenci eser ile ilgili doğru duruş ve tutuş pozisyonu alır. Do majör tonalitesinde eserinde çalgıya özgü teknikleri kullanır. Görsel ve sesli geri bildirimler sayesinde öğrenciler, hatalarını anında düzeltme fırsatı bulur. Öğrenci, kendi ilerlemesini değerlendirebilir ve arkadaşları ile birbirlerine destek olacakları bir süreç tasarlayıp eseri daha verimli öğrenmek için gerekli düzenlemeleri yapabilir ( SDB1.2 , SDB1.3 , D4.1 ). İlgili tonalitede müzik bileşenlerine uygun çalar ( OB9 ). Performans görevi olarak öğrenciden do majör tonalitesinde öğretilen dizi kalıbını doğru şekilde kullanarak kısa bir eser ya da egzersiz çalması istenir. Performans görevi; öz değerlendirme formu, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir.",
+    "PYN.3.2.2",
+    "Öğrencilere sol majör tonalitesinin nasıl çalınacağı ile bilgi verilir ( OB1 ). Öğrenciden ilgili majör kalıbı ile ilgili dizi çalması istenir. Sol majör tonalitesine uygun eser videosu izletilir ( OB2 ). Öğrenciden çalınacak eser ile ilgili çözümlemesi yapması istenir. Öğrenci eser ile ilgili duruş ve tutuş pozisyonu alır. Do majör tonalitesinde eserinde çalgıya özgü teknikleri kullanır. Görsel ve sesli geri bildirimler sayesinde öğrenciler, hatalarını anında düzeltme fırsatı bulur. Öğrenci, kendi ilerlemesini değerlendirebilir ve arkadaşları ile birbirlerine destek olacakları bir süreç tasarlayıp eseri daha verimli öğrenmek için gerekli düzenlemeleri yapabilir ( SDB1.2 , SDB1.3 , D4.1 ). İlgili tonalitede müzik bileşenlerine uygun çalar ( OB9 , E1.5 ). Performans görevi olarak öğrenciden sol majör tonalitesinde öğretilen dizi kalıbını doğru şekilde kullanarak kısa bir eser ya da egzersiz çalması istenir. Performans görevi; öz değerlendirme formu, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir.",
+    "PYN.3.2.3",
+    "Öğrencilere fa majör tonalitesinin nasıl çalınacağı ile bilgi verilir ( OB1 ). Öğrenciden ilgili majör kalıbı ile ilgili dizi çalması istenir. Fa majör tonalitesine uygun eser videosu izletilir ( OB2 ). Öğrenciden çalınacak eser ile ilgili çözümlemesi yapması istenir. Çözümleme öğretmen rehberliğinde tamamlandıktan sonra öğrenci eser ile ilgili duruş ve tutuş pozisyonu alır. Fa majör tonalitesinde eserinde çalgıya özgü teknikleri kullanır. Görsel ve sesli geri bildirimler sayesinde öğrenciler, hatalarını anında düzeltme fırsatı bulur. Öğrenci, kendi ilerlemesini değerlendirebilir ve arkadaşları ile birbirlerine destek olacaklar bir süreç tasarlayıp eseri daha verimli öğrenmek için gerekli düzenlemeleri yapabilir ( SDB1.2 , SDB1.3 , D4.1 ). İlgili tonalitede müzik bileşenlerine uygun çalar ( OB9 ). Performans görevi olarak öğrenciden fa majör tonalitesinde öğretilen dizi kalıbını doğru şekilde kullanarak kısa bir eser ya da egzersiz çalması istenir. Performans görevi; öz değerlendirme formu, dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir.",
+    "PYN.3.2.4",
+    "Öğrencilere la minör tonalitesinin nasıl çalınacağı ile bilgi verilir ( OB1 ). Öğrenciden ilgili majör kalıbı ile ilgili dizi çalması istenir. La minör tonalitesine uygun eser videosu izletilir ( OB2 ). Öğrenciden çalınacak eser ile ilgili çözümlemesi yapması istenir. Öğrenci eser ile ilgili duruş ve tutuş pozisyonu alır. La minör tonalitesinde eserinde çalgıya özgü teknikleri kullanır. Görsel ve sesli geri bildirimler sayesinde öğrenciler, hatalarını anında düzeltme fırsatı bulur. Öğrenci, kendi ilerlemesini değerlendirebilir ve arkadaşları ile birbirlerine destek olacakları bir süreç tasarlayıp eseri daha verimli öğrenmek için gerekli düzenlemeleri yapabilir ( SDB1.2 , SDB1.3 , D4.1 ). İlgili tonalitede müzik bileşenlerine uygun çalar ( OB9 ). Süreç dereceli puanlama anahtarı ve gözle formu ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1338"
+}

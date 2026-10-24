@@ -1,0 +1,159 @@
+{
+  "unitId": 439,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi (Maarif Modeli)",
+  "title": "5. ÜNİTE: PERİYODİK TABLO VE MADDENİN ETKİLEŞİMİ",
+  "hours": "22",
+  "description": "Bu ünitede elementlerin periyodik tablo üzerinde metal, ametal, yarımetal ve soy gaz olarak sınıflandırılması, fiziksel ve kimyasal değişimler ile ilgili bilimsel gözleme dayalı tahminlerin yürütülmesi amaçlanmaktadır. Ayrıca bileşiklerin kimyasal tepkimeler sonucunda oluştuğu çıkarımında bulunulması, asit ve bazların genel özelliklerinin karşılaştırılarak çeşitli ayıraçların farklı maddeler üzerindeki etkilerinin gözlemlenmesi ve “pH” değerlerinin ölçülerek pH cetvelinin hazırlanması amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Periyodik Tablo",
+      "processComponents": []
+    },
+    {
+      "code": "FB.8.5.1.1",
+      "title": "Elementleri periyodik tablo üzerinde metal, ametal, yarımetal ve soy gaz olarak sınıflandırabilme",
+      "processComponents": [
+        "a) Elementleri metal, ametal, yarımetal ve soy gaz olarak tanımlar.",
+        "b) Metal, ametal, yarımetal ve soy gazları özelliklerine göre ayrıştırır.",
+        "c) Elementleri metal, ametal, yarımetal ve soy gaz olarak gruplandırır.",
+        "ç) Elementleri metal, ametal, yarımetal ve soy gaz olarak etiketler. 2. Bölüm: Fiziksel ve Kimyasal Değişimler"
+      ]
+    },
+    {
+      "code": "FB.8.5.2.1",
+      "title": "Fiziksel ve kimyasal değişimler ile ilgili bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Ön bilgi ve deneyimlerini kullanarak maddelerin fiziksel ve kimyasal değişimine yönelik önermeler oluşturur.",
+        "b) Gözleme dayalı olan ve olmayan günlük yaşam ile ilişkili önermeleri karşılaştırır.",
+        "c) Tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Günlük yaşam ile ilişkili gözlenmemiş durumlara ilişkin tahminlerde bulunur.",
+        "d) Tahminlerin geçerliliğini oluşturulan ölçütlere göre sorgular. 3. Bölüm: Kimyasal Tepkimeler"
+      ]
+    },
+    {
+      "code": "FB.8.5.3.1",
+      "title": "Kimyasal tepkimelerle ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Kimyasal tepkimelerin niteliklerini tanımlar.",
+        "b) Yaptığı deneyle ilgili gözlemlerini kaydeder.",
+        "c) Deneyle ilgili verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.8.5.3.2",
+      "title": "Kimyasal tepkimelerin günlük yaşamdaki etkilerine yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Kimyasal tepkimelerin günlük yaşamdaki etkileri ile ilgili bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak konu hakkında bilgilere ulaşır.",
+        "c) Konu hakkında ulaştığı bilgileri doğrular.",
+        "ç) Ulaştığı bilgileri kaydeder. 4. Bölüm: Asitler ve Bazlar"
+      ]
+    },
+    {
+      "code": "FB.8.5.4.1",
+      "title": "Asit ve bazların genel özelliklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Asit ve bazların özelliklerini belirler.",
+        "b) Asit ve bazların benzer özelliklerini listeler.",
+        "c) Asit ve bazların farklı özelliklerini listeler."
+      ]
+    },
+    {
+      "code": "FB.8.5.4.2",
+      "title": "Maddelerin asit veya baz olduğunu çeşitli ayıraçlar kullanarak bilimsel gözleme dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Ön bilgi ve deneyimlerini kullanarak asit ve bazlarla ilgili önermeler oluşturur.",
+        "b) Gözleme dayalı olan ve olmayan günlük yaşam ile ilişkili önermeleri karşılaştırır.",
+        "c) Tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır.",
+        "ç) Günlük yaşam ile ilişkili gözlemlenmemiş duruma ilişkin tahminde bulunur.",
+        "d) Tahminlerin geçerliğini sorgular."
+      ]
+    },
+    {
+      "code": "FB.8.5.4.3",
+      "title": "Maddelerin asitlik ve bazlık durumlarına ilişkin \"pH\" değerlerini kullanarak tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Maddelerin \"pH\" değerleri ile ilgili örüntü bulur.",
+        "b) Maddelerin \"pH\" değerlerini kullanarak genelleme yapar."
+      ]
+    },
+    {
+      "code": "FB.8.5.4.4",
+      "title": "Asit ve bazların çeşitli maddeler üzerindeki etkilerine yönelik deney yapabilme",
+      "processComponents": [
+        "a) Asit ve bazların çeşitli maddeler üzerindeki etkilerini gösteren deney tasarlar.",
+        "b) Deney ile ilgili ölçme ve veri analizi yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "İlkeler, Kütlenin korunumu, Anahtar Kavramlar metal, ametal, yarımetal, soy gaz, fiziksel değişim, kimyasal değişim, kimyasal tepkime, asitler, bazlar, ayıraçlar, pH",
+  "support": [
+    "Günlük yaşamdan malzemelerin asitlik-bazlık dereceleri elektronik pH metre kullanılarak ölçülebilir. Deney aşamaları için ek açıklamalar ve yönlendirmeler yapılabilir"
+  ],
+  "enrichment": [
+    "Periyodik tabloların dijital içerikle hazırlanan uygulamaları ile öğrencilerin her elementin niceliksel özelliklerini, keşiflerine dair ilginç bilgileri, isimlerini nereden aldığı, günlük hayattaki kullanım alanları gibi birçok bilgiyi bağımsız keşfetmeleri sağlanabilir. Günlük yaşamda kullanılan asit veya bazlarla kendi pillerini yapmaları için proje ödevi verilebilir. Bu sayede öğrenciler kimyasal enerjinin elektrik enerjisine dönüşümünü keşfedip günlük yaşamdaki cep telefonu, dizüstü bilgisayar, saat gibi birçok aletin çalışma prensibini keşfederek öğrenmeleri sağlanabilir. Bunun yanında öğrencilerin fen ile ilgili kimya ve fizik üniteleri arasında dikey bağlantı kurmaları sağlanabilir. Bir çözeltinin asit mi baz mı olduğunu belirleyebilmek için bir ayıraç olarak kırmızı lahanayı kullanıp deneyler tasarlamaları istenebilir. Öğrencilerden limon tuzu, sirke, bebek şampuanı, karbonat, toz sabun, çamaşır deterjanı vb. maddeleri kullanarak oluşan renkleri önce kırmızı ve maviye sonra bu renklerin tonlarına göre derecelendirmeleri istenebilir. Bu maddelerin asit ya da baz olma durumlarını incelemeleri sağlanabilir. İbni Sina'nın maddelerin özelliklerini belirlemek için yaptığı deneyler ile ilgili araştırma ödevi verilebilir. Robotik kodlamadan faydalanılarak \"pH sensör modülü\" ile pH metre yapmaları sağlanabilir. Yaşadıkları yerdeki şebeke suyunun, farklı evlerde kullanılan arıtma cihazlarından alınan suların, paketli suların ve ulaşabildikleri sebil çeşmelerdeki suların \"pH\" değerlerini ölçerek karşılaştırmalı analiz yapmaları istenebilir. Suların \"pH\" değerlerinin oluşturabileceği olumlu ve olumsuz sonuçların tartışılması istenebilir. Yaşadıkları yerdeki yerel yönetim ile iş birliği yapılarak bölgedeki atık su yönetimi hakkında araştırma görevi verilebilir. Evlerde kullanılan temizlik maddelerinin atık sulara karışarak çevrede oluşturabileceği etkilerin araştırılması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, açık uçlu sorular, doğru-yanlış testi, tanılayıcı dallanmış ağaç, yapılandırılmış grid, kısa cevaplı testler ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Elementleri periyodik tablo üzerinde metal, ametal, yarımetal ve soy gaz olarak boyamalarına yönelik performans görevi verilebilir. Öğrenci boyamaları kontrol listeleri ile değerlendirilebilir. Fiziksel ve kimyasal değişimler ile ilgili bilimsel gözleme dayalı tahminlerine ilişkin rapor, afiş hazırlama vb. performans görevleri verilebilir. Verilen performans görevi kontrol listeleri ile değerlendirilebilir.",
+    "Bileşiklerin kimyasal tepkime sonucunda oluştuğu hakkında çıkarımlar ile ilgili deney raporlarını içeren performans görevi verilebilir. Analitik dereceli puanlama anahtarları ile değerlendirilebilir. Kimyasal tepkimelerin günlük yaşamdaki etkileri ile ilgili öğrencilerin raporlarını ve afişlerini içeren performans görevi verilebilir. Bu performans görevi kontrol listesi ile değerlendirilebilir. Çeşitli ayıraçların asitler ve bazlar üzerindeki etkilerini gösteren performans görevi verilebilir. Deney raporlarını değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Maddelerin asitlik ve bazlık durumlarına ilişkin poster, afiş vb. modellemeler hazırlatılabilir. Analitik dereceli puanlama anahtarları ile değerlendirilebilir. Asit ve bazların çeşitli maddeler üzerindeki etkileri ile ilgili deney yapmayı içeren performans görevi verilebilir. Öğrenci raporları, analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Deney sonunda akran değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FB.8.5.1.1 Periyodik tablonun artan atom numarasına/proton sayısına göre dizildiği vb. özellikleri açık uçlu sorularla yoklanabilir. Elementlerin ısı ve elektrik iletkenliği, erime ve kaynama noktaları, mat veya parlak olmaları, tel ve levha hâline getirilebilmeleri, elektron alma ya da verme eğilimleri, kararlılıkları vb. fiziksel ya da kimyasal özelliklerini öğrencilerin tanımlamaları beklenir ( OB1 ) . Öğrencilere periyodik tablonun renksiz hâli dağıtılarak elementleri metal, ametal, yarımetal ve soy gaz olarak dört farklı renkte kalem ile ait oldukları sınıflara göre boyayarak tanımaları istenebilir ( OB4 , E2.5 ) . Öğrenci boyamaları kontrol listeleri ile değerlendirilebilir. Böylece element sınıflarının periyodik tablodaki dağılımlarını metaller, ametaller, yarımetaller ve soy gazlar olarak sınıflandırmaları sağlanır. Soy gazların da ametal olduğu ancak ametallerin özelliklerini tam olarak yansıtmadıkları için ayrı ele alındığı vurgulanır. Sıradan koşullar altında soy gaz atomlarının kendi başlarına kararlı olduğu için bileşik oluşturamayacakları ifade edilir. İlk 18 element arasında yer alan metallerden sodyum, ametallerden klor, soy gazlardan argon elementlerinin elektron dizilimleri tahtaya çizilebilir. Soy gazların kararlı yapıda oldukları hatırlatılır. Soy gazlar haricindeki elementlerin elektron vererek ya da alarak kararlı hâle gelebilecekleri belirtilir. Yapılan çizimlerden sodyum atomunun elektron vermeye, klor atomunun ise elektron almaya yatkın olduklarını keşfetmeleri sağlanabilir ( OB4 , E3.4 ) . Sodyum atomunun elektron vererek pozitif yüklü, klor atomunun ise elektron alarak negatif yüklü iyon hâline gelerek kararlı yapıya ulaştıkları örnek olarak verilebilir ( OB7 ) . Tabloda bulunan elementlerin farklı özellikleri olduğu göz önünde bulundurularak metal, ametal, yarımetal ve soy gaz olarak elementleri ayrıştırmaları istenir ( OB1 ) . Element sınıflarına ait özellikleri kâğıtlara yazarak kutulara yerleştirmeleri istenebilir. Elementleri metal, ametal, yarımetal ve soy gaz olarak gruplandırmaları beklenir. Bunun yanında anlam çözümleme tabloları vb. tekniklerle öğrencilerin element sınıfları ve özelliklerini eşleştirmeleri istenir ( KB2.4 ) . Öğrencilerin çalışmaları kontrol listesi ile değerlendirilebilir. Gruplandırma esnasında dijital içeriklerden de yararlanılabilir ( OB2 ) . Periyodik tabloda yer alan ilk 18 elementin elektron dağılımını yaparak yerlerini bulmaları sağlanır ( D16 ) . Katman sayısı periyot numarası ile değerlik elektron sayısı ise grup numarası ile ilişkilendirilir ( E3.7 ) . Periyodik tablodaki yerleri göz önünde bulundurularak ilk 18 elementi metal, ametal, yarımetal ve soy gaz olarak etiketlemeleri beklenir. Aynı grupta yer alan elementlerin genellikle benzer kimyasal özellik gösterdiğine değinilir ( E3.6 , KB2.16.2 ) . Metallerin kendi aralarında kimyasal bağ yapamadıkları, alaşım adı verilen homojen karışımları oluşturdukları, ametallerin ise hem kendi aralarında hem de metallerle bağ yapabildikleri belirtilir ( OB1 ) . Tanılayıcı dallanmış ağaç ve yapılandırılmış grid vb. teknikler ile öğrencilerin metal, ametal, yarımetal ve soy gazların özellikleri ile ilgili öğrenmeleri değerlendirilebilir.",
+    "FB.8.5.2.1 Fiziksel ve kimyasal değişimler ile ilgili kavram yanılgıları açık uçlu sorularla belirlenebilir. Öğrencilerin değişim türlerini gözlemleyebilmeleri için patates, mum, şeker, buz, tahta, ekmek, sirke, çay vb. malzemeler getirilebilir. Öğrenciler gruplara ayrılarak ekmek dilimleme, patates haşlama, mum yakma, çaya limon sıkma, çaya şeker atma, kâğıt yırtma, buz eritme, tahta kırma vb. işlemleri yapmaları istenebilir. Yapılan işlemlerin fiziksel ya da kimyasal değişim olmasına yönelik önermeler oluşturmaları beklenir ( OB1 , KB2.16.1 ) . Bu süreçte kavram karikatürleri, kavram haritaları vb. tekniklerle öğrencilerin eğlenceli bir ortamda kavramları yapılandırmaları sağlanır ( E2.5 ) . Yapılan sınıf içi gözlemler ile günlük yaşamla ilişkili farklı örnekler verilerek bu değişimlerden hangilerinin maddenin sadece dış görünüşünde, hangilerinin iç yapısında değişimin olduğu konusunda önermelerini karşılaştırmaları istenir ( E1.1 , D3.3 ) . Öğrencilerden bir maddenin kimyasal değişim sırasında kendisini oluşturan maddelerin tanecik yapısının değişerek farklı bir yapıda yeni bir madde oluşturduğu, fiziksel değişimde ise maddenin tanecik yapısının değişmediği sonucuna ulaşmaları beklenir ( OB1 ) . Öğrencilere yapılan etkinliklerde gaz çıkışı, renk değişimi, ısı ve ışık oluşumu, koku ve tat değişimi veya çökelti oluşumu olaylarının meydana gelip gelmediği sorulur. Anlam çözümleme tablosu vb. tekniklerle öğrencilerin maddelerde meydana gelen fiziksel ve kimyasal değişimleri sınıflamaları istenir ( OB1 ) . Günlük yaşamda gerçekleşen yağmur oluşumu, hamurun mayalanması vb. birçok olayda tanecik yapısı gözlenemese de bu olayların farklı değişim türlerine dair birer ipucu olduğu sonucuna ulaşmaları beklenir ( OB7 ) . Öğrencilerden kimyasal değişim sırasında yeni kimyasal bağ oluşturabildiği ve/veya bu bağların kırılabildiği, fiziksel değişimlerde ise bağ kırılması veya oluşmasının olmadığı belirtilerek tahminlerini belirtilen ölçütlere göre sorgulamaları sağlanır ( E3.4 , D3.3 ) . Performans görevi olarak öğrencilerin süreçte edindikleri bilgileri raporlaştımaları veya afiş olarak sunmaları istenebilir. Verilen performans görevi kontrol listesi, süreç ise çalışma kâğıdı kullanılarak değerlendirilebilir.",
+    "FB.8.5.3.1 Öğrencilere kimyasal bağ konusunda suyun oluşumu ile ilgili açık uçlu sorular sorulabilir. Öğrencilerin kimyasal tepkimelerin aynı zamanda kimyasal bir değişim olduğu sonucuna ulaşmaları sağlanır ( OB1 , E1.1 ) . Suyun oluşum tepkimesi formül kullanılmadan boncuk vb. modeller ile gösterilerek öğrenme süreci eğlenceli hâle getirilir ( E2.5 ) . Suyun hidrojen ve oksijen elementlerine ait atomların belirli oranlarda bir araya gelerek özelliklerini kaybetmesi sonucu oluşan bir bileşik olduğu ve bileşiklerin kimyasal tepkimeler sonucu oluştuğuna ulaşmaları beklenir. Kimyasal tepkimelerde yeni madde veya maddelerin oluştuğu, toplam kütlenin, atom sayısının ve cinsinin korunduğu vb. nitelikleri belirlemeleri istenir ( OB1 , D3.3 , E1.4 ) . Öğrencilerin suyun oluşum tepkimesindeki boncuk vb. modelleri inceleyerek denklem denkleştirmeye girilmeden atom sayısı ve cinsinin korunduğuna ulaşmaları sağlanır ( OB4 ) . Gruplara ayrılan öğrencilere kütlenin korunumu ile ilgili sirkekarbonat vb. malzemeler ile basit deneyler yaptırılır ( SDB2.2 , E3.4 ) . Öğrencilerden tepkime öncesi ve sonrası elde ettikleri verileri çalışma kâğıtlarına kaydederek analiz etmeleri veya değerlendirmeleri istenir ( OB7 ) . Öğrencilerin deney verilerini değerlendirerek kimyasal tepkimelerde kütlenin korunduğu sonucuna ulaşmaları beklenir ( SDB3.3 , E3.6 ). Deney sonrası öğrencilerin verileri raporlaştırmaları, kullanılan malzemeleri ve çevrelerini temiz tutmaları sağlanır ( D18.2 ) . Performans görevi ve öğrencilerin deney raporları analitik dereceli puanlama anahtarları ile değerlendirilebilir. Ayrıca açık uçlu sorular, doğru-yanlış soruları vb. kullanılabilir.",
+    "FB.8.5.3.2. Öğrencilerin kimyasal tepkimelerin günlük yaşamdaki etkileri konusu ile ilgili bilgilere ulaşmak için kullanacağı araçları belirlemeleri istenir. Bu araçlar dijital içerikler, yazılı ve görsel kaynaklar olabilir. Öğrenciler bilgi toplama sürecinde okul kütüphanesi, bilgisayar laboratuvarı vb. ortamları da kullanabilir. Öğrencilerden günlük yaşamda gözlemledikleri kimyasal tepkime örneklerini araştırmaları istenir ( SDB1.2 , OB2 , E3.9 , E3.4 ) . Sindirim, fotosentez vb. olguları, yemeğin pişmesi, canlıların yapısında gerçekleşen enerji üretimi, temizlik maddelerinin kullanımı, çevre kirliliği, paslanma, çürüme, yanma ve mayalanma olayları vb. sırasında kimyasal tepkimelerin önemli rol oynadığına ulaşmaları beklenir. Ulaşılan bilgileri çalışma kâğıtlarına kaydetmeleri sağlanabilir. Öğrencilerden kimyasal tepkimelerin günlük yaşamdaki etkileri ile ilgili ulaştıkları bilgileri arkadaşları ile tartışarak, öğretmeninden yardım alarak veya bilimsel kaynaklara başvurarak doğrulamaları istenir ( OB1 , D14.1 , SDB2.1 ) . Örnek olarak günlük yaşamdan çürüme, yanma vb. olayları ve etkilerini argümantasyon tekniği ile tartışmaları istenebilir ( E3.5 ) . Öğrencilerin tartışma sürecinde kullandıkları beceriler Türkçe dersi ile ilişkilendirilebilir. Bu süreçte çürüme olayının hem olumlu hem de olumsuz etkilerinin olabileceğini fark etmeleri sağlanır ( E3.10 ) . Besinlerin ve dişlerin çürümesinin olumsuz bir etki oluştururken canlı atıkların çürüyerek toprağa karışmasının olumlu bir etki olduğuna değinilebilir. Öğrencilerin günlük yaşamda gerçekleşen farklı kimyasal tepkimelerin olumlu ve olumsuz etkilerini fark etmeleri ve ulaştıkları bilgileri balık kılçığı vb. teknikler kullanarak çalışma kâğıtlarına kaydetmeleri beklenir ( E1.5 ) . Kaydedilen bilgiler analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FB.8.5.4.1. Asit ve bazlar konusu ile ilgili kavram yanılgıları iki aşamalı teşhis testleri gibi teknikler kullanılarak belirlenebilir. Öğrencilere iyon konusu ile ilgili açık uçlu sorular sorularak asit ve bazların sulu çözeltilerine verdikleri iyonlar belirtilir. Asit ve bazların temizlik malzemelerinde, tükettiğimiz besinlerin içeriğinde vb. günlük yaşamda sıkça yer aldığı belirtilerek öğrencilerin merak etmeleri sağlanır ( E1.1 ) . Gruplara ayrılan öğrencilerden asit ve bazların genel özelliklerini dijital, yazılı ve görsel vb. kaynaklar ile araştırarak algılamaları istenir ( OB2 ) . Seçtiği stratejiler doğrultusunda sunum yapmaları sağlanarak öz güvenlerinin gelişimi desteklenir ( SDB2.1 , SDB1.2 , D4.2 , E1.5 ) . Yaygın asit ve bazlardan sülfürik, hidroklorik, nitrik, karbonik ve asetik asit ile sodyum hidroksit, potasyum hidroksit, kalsiyum hidroksit ve amonyağın günlük yaşamdaki isimleri ve formülleri verilir. Öğrencilerden asit ve bazların genel özelliklerini listeleyerek belirlemeleri istenir ( OB1 , E3.7 ) . Asit ve bazların özellikleri konusunda dijital içeriklerden ve oyunlardan yararlanılabilir ( OB2 , E2.5 ) . Bu süreçte kavram ağı vb. teknikler kullanılarak öğrencilerin asit ve bazların benzer ve farklı özelliklerini belirlemeleri sağlanır ( D3.4 , SDB2.2 , E3.10 ) . Asit ve bazların birbirleri ile etkileşimi sonucunda tuz ve su oluşturabildikleri denklemlere girilmeden değinilir. Asit ve bazların tat ve kokularına bakılmaması, asit ve bazlara temas edilmemesi, çalışırken gerekli güvenlik önlemlerinin mutlaka alınması gerektiği hatırlatılır. Asit ve baz içerikli malzemelerin üzerinde bulunan güvenlik işaretlerine değinilir. Öğrencilerin öğrenme durumları çalışma kâğıtları ile değerlendirilebilir. Süreci değerlendirmede kısa cevaplı testler, açık uçlu sorular vb. kullanılabilir.",
+    "FB.8.5.4.2. Sınıfa saf su, sabun, limon suyu, sirke, deterjan, şampuan, yoğurt, süt, çamaşır suyu vb. malzemeler getirilir. Öğrenciler gruplara ayrılarak gerekli uyarılar yapılır ve öğrencilerin güvenlik önlemleri almaları sağlanır ( D3.4 , SDB2.2 ) . Her gruptan aynı malzemelerden beherlere eşit miktarlarda dökmeleri ve beherlerin üstüne maddelerin isimlerini yazmaları istenebilir. Öğrencilere bu malzemelerin asit, baz veya nötr olma durumları sorulur ve ön bilgilerini kullanarak önermeler oluşturmaları istenir ( OB1 ) . Maddelerin asit, baz veya nötr olma durumlarını anlamak için kullanılabilecek maddelere ayıraç veya belirteç adı verildiği belirtilir. Mavi ve kırmızı turnusol kâğıdı, fenolftalein, mor lahana suyu ve metil oranj ayıraçları her grupta bir tanesi olacak şekilde gruplara dağıtılabilir. Sadece bu ayıraçların maddelerde uğradıkları değişimler tablo olarak verilir. Tahtaya beherlerdeki malzemelerin isimlerini yazarak kullanılacak ayıraç ile etkileşimi sonucu oluşabilecek renk değişimlerini kaydetmeleri istenir ( E3.4 ) . Öğrencilerin önermeleri ile gözlem sonuçlarını karşılaştırarak analiz etmeleri sağlanır ( OB1 , OB4 ) . Öğrencilerden gözlemlenen renk değişimlerini göz önünde bulundurarak maddelerin asit, baz veya nötr olduğu sonucuna ulaşmaları beklenir ( OB4 ) . Asit veya baz olduğu bilinen farklı maddelerde gözlem yapılmadan belirlenen ayıraçların nasıl değişime uğrayacağı konusunda tahminde bulunmaları istenir. Öğrencilerin yapılan gözlemlerden yola çıkarak tüm asit ve bazlarda benzer sonuçların oluşabileceğini sorgulamaları istenir ( OB1 , D3.3 , E3.6 ) . Öğrencilerin süreç içindeki gözlem ve kayıtları TGA vb. teknikler kullanılarak raporlaştırılabilir. Deney raporlarını değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Ayrıca yapılan deney ile ilgili sanal laboratuvarlar veya dijital içeriklerden faydalanılabilir ( OB2 ) . Ek bir etkinlik olarak beyaz bir tişört kırmızı lahana suyuna batırılarak öğrencilerin kendi tasarımlarını yapmaları sağlanabilir ( E3.11 , E3.3 ) . Limon tuzu, sirke, şampuan, karbonat, toz sabun, çamaşır deterjanı vb. maddelerle oluşturulan farklı renkleri tişörtler üzerinde uygulamaları ve tişört tasarımları oluşturmaları sağlanabilir. Öğrencilerin tasarımlarını sergilemeleri istenebilir ( E1.5 ) .",
+    "FB.8.5.4.3. Öğrencilere günlük yaşamda karşılaşılan asitlik değeri farklı malzemelerden örnekler verilerek gösterdikleri asitlik-bazlık derecesinin birbirinden farklı olabileceğine yönelik açık uçlu sorular sorulabilir. pH cetveli ile maddelerin asitlik-bazlık derecesinin karşılaştırılabileceği belirtilir ( E3.6 ) . Öğrencilere su, sabun, kozmetik ürün vb. ürünlerin ambalajlarında bulunan içindekiler bölümünden \"pH\" değerleri inceletilebilir. Öğrencilerden günlük yaşamda kullanılan \"pH\" değerleri farklı maddelerle ilgili araştırma yapmaları istenir ( E3.4 , OB7 , OB4 ) . Öğrencilerin günlük yaşamdan seçilen örnekleri pH cetveli ile modellemeleri istenir. Öğrenme sürecini eğlenceli hâle getirmek için 0-14 arası değerleri içeren bir pH cetveli hazırlamaları sağlanır ( E2.5 ) . Görsel sanatlar dersinde poster, afiş vb. içeriklerin hazırlama ilkeleri dikkate alınarak pH cetvelleri hazırlanabilir. Öğrencilerin bu maddelerden \"pH\" değeri 7'den küçük olanların asit, 7'den büyük olanların baz, 7'ye eşit olanların ise nötr madde olduğu sonucuna ulaşmaları beklenir ( SDB3.3 ) . Ayrıca 7'den 0'a yaklaşıldıkça asitlik, 7'den 14'e gidildikçe bazik özelliğin arttığını fark etmeleri sağlanır ( OB1 , E3.7 ) . Öğrencilerin hazırladıkları poster, afiş vb. modellemeler analitik dereceli puanlama anahtarları ile değerlendirilebilir.",
+    "FB.8.5.4.4. Asit ve bazların çeşitli maddelere etkileriyle ilgili günlük yaşamdan örnek olaylar, probleme dayalı öğrenme senaryosuyla öğrencilerle paylaşılabilir. Öğrencilerin problemi betimlemeleri, konuyu sınırlandırmaları, çözüm önerileri üretmeleri, bulgularını araştırıp raporlaştırmaları istenebilir ( E3.7 , OB1 , E3.4 , SDB3.1 ) . Asit ve bazların çeşitli maddelere etkisi konusunda öğrencilerin dijital, yazılı ve görsel vb. kaynaklar kullanarak araştırma yapmaları istenebilir ( OB2 , OB7 ) . Öğrencilerden asitlerin metaller ve mermer, bazların ise genellikle porselen, seramik ve cam ile tepkimeye girebildiği bilgisine ulaşmaları beklenir ( OB1 ) . Bu olayların birer kimyasal tepkime olduğuna dikkat çekilir. Öğrencilerden gerekli güvenlik önlemlerinin alındığı ve tehlikeli olmayan asit ve bazların çeşitli maddeler üzerindeki etkileri ile ilgili basit deney düzenekleri kurmaları istenir ( D13.4 , SDB3.3 , SDB1.2 , E1.5 ) . Örneğin öğrencilerin yumurta, tavuk kemiği, mermer, cam bardak, porselen tabak, bakır parçaları vb. maddeleri kullanarak hipotezler kurmaları ve gözlemlerini kaydetmeleri beklenir. Gözlem sonuçları karşılaştırılarak geçerli olan hipotezi açıklamaları sağlanır ( D3.3 , OB4 ) . Öğrencilerden TGA vb. teknikler kullanarak verileri raporlaştırmaları istenebilir. Öğrenci raporları, analitik dereceli puanlama anahtarı yoluyla değerlendirilebilir. Deney boyunca öğrencilerin akranlarının performanslarını, akran değerlendirme formu ile değerlendirmeleri sağlanabilir. Bu süreçte öğrencilerin tarafsız davranmaları sağlanır ( D6.2 , D1.2 ) . Öğrencilerin deney sonrasında kullanılan malzemeleri ve laboratuvar alanını temiz tutmaları beklenir ( D18.2 ) . Asit ve bazların günlük yaşamda saklanması, taşınması vb. sırasında ortaya çıkabilecek sorunların önlenmesine yönelik araştırma ödevleri verilebilir. Konuyu somutlaştırmak için dijital içeriklerden faydalanılabilir ( OB2 ) . Öğrenci öğrenmelerini değerlendirmede kısa cevaplı testler, açık uçlu sorular vb. kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D13.4",
+      "D14.1",
+      "D16",
+      "D18.2",
+      "D3.3",
+      "D3.4",
+      "D4.2",
+      "D6.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4",
+      "E1.5",
+      "E2.5",
+      "E3.10",
+      "E3.11",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.6",
+      "E3.7",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB2.16.1",
+      "KB2.16.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/439"
+}

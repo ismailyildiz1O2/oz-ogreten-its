@@ -1,0 +1,34 @@
+{
+  "unitId": 1499,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Halk Oyunları Dersi",
+  "title": "3. Tema: Halk Oyunlarında Sahneleme",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "HO.3.1",
+      "title": "Seçilen halk oyunlarında koreografi ve sahnelemeye yönelik bileşenleri açıklayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "HO.3.2",
+      "title": "Seçilen halk oyununun sahneleme sürecinde eşle/grupla hareket edebilme",
+      "processComponents": [
+        "a) Seçilen halk oyununun sahneleme sürecinde ritim ve ezgi eşliğinde eşle/grupla hareket ederken rollerini tanımlar.",
+        "b) Seçilen halk oyununun sahneleme sürecinde ritim ve ezgi eşliğinde eşle/grupla hareket ederken rollerini yerine getirir.",
+        "c) Seçilen halk oyununun sahneleme sürecinde ritim ve ezgi eşliğinde eşle/grupla uyumlu hareket eder."
+      ]
+    }
+  ],
+  "keyConcepts": "bayram, çizgi, ezgi, form, halk oyunları, koreografi, ritim, sahne, sahneleme",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BEOSAB7. Eşle/Grupla Hareket Etme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1499"
+}

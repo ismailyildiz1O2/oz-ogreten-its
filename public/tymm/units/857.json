@@ -1,0 +1,74 @@
+{
+  "unitId": 857,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Spor Okulları - Oyun ve Taktiksel Farkındalık Dersi",
+  "title": "1. ÜNİTE: FİLE VE RAKET OYUNLARI",
+  "hours": "34",
+  "description": "\"File ve Raket Oyunları\" ünitesinde öğrencilerin voleybol, badminton, masa tenisi, tenis gibi file ve raket oyunları oynayarak hem teknik becerilerini geliştirmeleri hem de bu oyunlardaki taktiksel farkındalıklarını artırmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "OTF.8.1.1",
+      "title": "File ve raket oyunlarını çözümleyebilme",
+      "processComponents": [
+        "a) File ve raket oyunlarına ilişkin özellikleri belirler.",
+        "b) File ve raket oyunları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "OTF.8.1.2",
+      "title": "File ve raket oyunlarında adil oyun anlayışına uygun davranabilme",
+      "processComponents": [
+        "a) File ve raket oyunlarında adil oyun kavramını açıklar.",
+        "b) File ve raket oyunlarında adil oyun kavramına uygun hareket eder."
+      ]
+    },
+    {
+      "code": "OTF.8.1.3",
+      "title": "File ve raket oyunlarında taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) File ve raket oyunları içerisindeki taktiksel problemleri belirler.",
+        "b) File ve raket oyunlarında belirlenen problemlerin çözümüne ilişkin öneri sunar.",
+        "c) File ve raket oyunlarında seçilen taktiği uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "file oyunu, oyun, performans, raket oyunu, taktik, taktiksel oyun",
+  "support": [
+    "Oyun stratejileri konusunda daha fazla deneyim kazanmaları amacıyla öğrenciler, küçük gruplar hâlinde ya da küçük gruplar hâlinde çalışmaları teşvik edilebilir. Gruplar oyun sırasında karşılaştıkları zorlukları tartışarak çözüm önerileri geliştirebilirler. Öğrencilerin performanslarına göre öğretmen tarafından onlara bireysel destek verilebilir. Öğrencilerin oyun sırasında geliştirmeleri gereken beceriler üzerinde daha fazla pratik yapmaları sağlanabilir. Ayrıca öğrencilere hangi alanlarda güçlü olduklarına dair geri bildirim verilirken hangi taktiklerin daha fazla pratik gerektirdiği de vurgulanabilir."
+  ],
+  "enrichment": [
+    "Okul bahçesi veya gerçek oyun alanlarında file oyunlarını oynama fırsatı sunularak oyun kural ve stratejilerini gerçek bağlamda deneyimlemeleri sağlanabilir. Ulusal ve uluslararası müsabakalarda oyuncuları gözlemlemelerine olanak tanınabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; beyin fırtınası, grup çalışması, öz değerlendirme formu ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerden ülkemizde ve dünyada file ve raket oyunlarında karşılaşılan adil oyun durumlarını; örnek olay, sunum, video, poster gibi araçlarla sunmaları amacıyla bir performans görevi verilebilir. Verilen performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir. File ve raket oyunlarının özellikleri ve oyunlar arasındaki ilişkiler; beyin fırtınası, grup çalışması vb. yöntemler kullanılarak değerlendirilebilir. Değerlendirmeye yönelik öz değerlendirme formu kullanılabilir. Öğrencilerden başta karşılaştıkları problemlerle sonradan çözüme kavuşturdukları taktiksel problemleri kıyaslayarak performanslarını değerlendirmeleri istenebilir. Değerlendirme sürecinde sözlü değerlendirme, soru-cevap yöntemi ve dereceli puanlama anahtarları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "OTF.8.1.1. File ve raket oyunlarındaki bileşenlerin neler olabileceği sorularak cevapların listelenmesi sağlanır. Öğrenciler gruplara ayrılır. Öğrencilerden bilgi kartlarından faydalanarak file ve raket oyunlarını incelemeleri ve oyunların özelliklerini belirlemeleri istenir ( SDB2.1 ). File ve raket oyunlarına ait saha, alan, malzeme, oyuncu sayısı gibi bileşenlerin benzer ve farklı yönleri üzerinde durulur. File ve raket oyunları; badminton, masa tenisi, voleybol, tenis vb. branşlar olarak sınıflandırılır. Yapılan sınıflandırmadan faydalanılarak file ve raket oyunları arasındaki ilişkinin belirlenmesi istenir.",
+    "OTF.8.1.2. Öğrencilerden ülkemizde ve dünyada file ve raket oyunlarında ortaya çıkan adil oyun durumları; örnek olay, sunum, video, poster gibi yöntemlerle sunmalarına yönelik performans görevi istenebilir. Verilen performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir ( OB4 ). Öğrencilerden adil oyun kavramını açıklamaları beklenir. Belirlenen file ve raket oyununda kuralların açık, adil olması ve herkesin kurallara uygun hareket etmesi beklenir. Öğrencilerin oyun içinde adil davranış göstermelerini pekiştirmek amacıyla düzenlemeler yapılır ( D1.2 ).",
+    "OTF.8.1.3. File ve raket oyunu oynatılarak öğrencilere bu oyunlara yönelik \"Rakibin zayıf noktasını nasıl belirlersiniz?\", \"Savunma yaparken hangi alanı korursunuz?\", \"Servisi hangi açıyla atarsınız?\", \"Topu nereye yönlendirirsiniz?\" gibi sorular sorulur. Verilen cevaplarla oynatılan oyunun taktiksel problemlerini belirlemeleri beklenir ( SDB3.3 ). Bu problemlerin çözümüne yönelik tartışma ortamı sağlanabilir ( SDB2.1 ). Öğrencilerden oynadıkları oyunda belirlenen taktiksel problemlerin çözümüne ilişkin öneri sunmaları beklenir. Verilen öneriler doğrultusunda taktiksel oyuna uygun, mantıksal kararlar almaları sağlanır ( KB3.1 ). Geliştirilmesi gereken beceriler; bireysel, eşli veya grup olarak istasyon, gösterip yaptırma, akran çalışmaları gibi etkinlik ve oyunlarla tekrar edilerek ihtiyaç duyulan becerileri geliştirilir ( BEOSAB1 , SDB1.2 ). Öğrencilerin bu becerileri kullanarak belirledikleri taktikleri uygulamaları istenir. Oynatılan oyunun bileşen ve dinamiklerinde değişiklikler yapılarak öğrencilerin oyunu tekrar oynamaları sağlanır ( SDB3.1 ). Bu değişiklikler ile oyun ortamının modifiye edilmesi veya abartılmış oyun kuralları ile öğrencilerin oyun içerisindeki hareket ve kararlarını daha dikkatli ve bilinçli bir şekilde gözlemlemeleri beklenir ( KB2.2 , E3.2 ). İlk ile son oyun arasında karşılaştırma yapmaları istenir ( KB2.7 ). Öğrencilerden başta karşılaştıkları problemler ile sonradan çözüme kavuşturdukları taktiksel problemleri kıyaslayarak performanslarını değerlendirmeleri istenir. Değerlendirme sürecinde sözlü değerlendirme, soru-cevap yöntemi ve dereceli puanlama anahtarları kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.7",
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/857"
+}

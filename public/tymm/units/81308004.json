@@ -1,0 +1,60 @@
+{
+  "unitId": 81308004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Türk Düşünce Tarihi Dersi",
+  "title": "4. ÜNİTE: CUMHURİYET DÖNEMİ TÜRK DÜŞÜNCESİ",
+  "hours": "15",
+  "description": "Bu ünitede Cumhuriyet Dönemi Türk düşüncesinin dinî, felsefi, bilimsel ve siyasi yönleri verilir.",
+  "outcomes": [
+    {
+      "code": "TDT.4.1.1",
+      "title": "Cumhuriyet Dönemi'nde dinî düşüncede yaşanan gelişmeleri yorumlar",
+      "processComponents": [
+        "Cumhuriyet Dönemi'nde dinî düşüncenin önemli temsilcileri (Mehmet Rifat Börekçi, İsmail Hakkı İzmirli, Babanzade Ahmet Naim, Kamil Miras, Elmalılı Hamdi Yazır, Ahmet Hamdi Akseki, Ömer Nasuhi Bilmen gibi) ve bu isimlerin eserleri hakkında bilgi verilir.",
+        "Cumhuriyet Dönemi'ndeki dinî düşüncenin özelliklerinin değerlendirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "TDT.4.2.1",
+      "title": "Cumhuriyet Dönemi'ni felsefi düşüncenin gelişimi bakımından değerlendirir",
+      "processComponents": [
+        "Felsefe alanında Cumhuriyet Dönemi'nde yaşanan gelişmeler üzerinde durulur.",
+        "Cumhuriyet Dönemi'ndeki felsefi düşüncenin gelişiminde eğitim kurumları, dernekler ve dergilerin rolü belirtilir.",
+        "Cumhuriyet Dönemi felsefi düşüncesinin Türk düşüncesi içindeki yerinin tartışılması sağlanır."
+      ]
+    },
+    {
+      "code": "TDT.4.3.1",
+      "title": "Cumhuriyet Dönemi'ndeki bilimsel düşünceyi, Türk düşüncesine katkısı bakımından yorumlar",
+      "processComponents": [
+        "Cumhuriyet Dönemi'nde uygulanan bilim politikaları (eğitim ve araştırma) hakkında bilgi verilir.",
+        "Cumhuriyet Dönemi'nin önemli bilim insanları hakkında araştırma yapılması ve bu isimlerin bilimsel düşüncenin gelişimine katkısının değerlendirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "TDT.4.4.1",
+      "title": "Cumhuriyet Dönemi'ndeki düşünce akımlarını analiz eder",
+      "processComponents": [
+        "Cumhuriyet Dönemi'nde gerçekleştirilen inkılapların temel özellikleri hakkında bilgi verilir. Bu inkılapların Türk düşünce dünyasına etkileri üzerinde durulur.",
+        "Cumhuriyet Dönemi düşünce akımları ve bu akımların temsilcileri hakkında araştırma yapılması sağlanır.",
+        "Cumhuriyet Dönemi düşünce akımlarının benzer ve farklı yönlerinin karşılaştırılması sağlanır."
+      ]
+    },
+    {
+      "code": "TDT.4.4.2",
+      "title": "Atatürkçü düşünce sisteminin oluşmasına etki eden faktörleri açıklar",
+      "processComponents": [
+        "Atatürkçü düşünce sisteminin ortaya çıkmasında düşünce akımlarının rolü vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112316848207-T%C3%BCrk%20D%C3%BC%C5%9F%C3%BCnce%20Tarihi%20Dersi%20%C3%96%C4%9Fretim%20Program%C4%B1%2006.11.2023.pdf"
+}

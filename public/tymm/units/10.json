@@ -1,0 +1,186 @@
+{
+  "unitId": 10,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "2. TEMA: EKOLOJİ",
+  "hours": "34",
+  "description": "Bu temanın içeriğini ekosistemler ve ekolojik sürdürülebilirlik oluşturmaktadır. Tema kapsamında öğrencilerin ekosistemin bileşenleri arasındaki ilişkileri çözümlemeleri, tür içi ve türler arası etkileşimleri sorgulamaları, ekosistemde madde ve enerji akışıyla ilgili akıl yürütmeleri ve madde döngüleri ile ilgili bilimsel model oluşturmaları, ekolojik sürdürülebilirliğin önemini yorumlamaları, atık yönetimiyle ilgili yapılan çalışmalar konusunda bilgi toplamaları, sürdürülebilirliği kısıtlayan durumlarla ilgili gözleme dayalı tahminler yapmaları, ekolojik ayak izini küçültebilme yollarını ve doğal kaynaklar ile biyoçeşitliliğin korunması için alınan önlemleri sorgulamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.10.2.1",
+      "title": "Ekosistemin cansız ve canlı bileşenleri arasındaki ilişkileri çözümleyebilme",
+      "processComponents": [
+        "a) Ekosistemi oluşturan cansız ve canlı bileşenleri belirler.",
+        "b) Ekosistemin cansız ve canlı bileşenleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BİY.10.2.2",
+      "title": "Komünitelerde ve popülasyonlarda görülen etkileşimleri ve değişimleri sorgulayabilme",
+      "processComponents": [
+        "a) Komünitelerde ve popülasyonlarda görülen etkileşimleri ve değişimleri tanımlar.",
+        "b) Komünitelerde ve popülasyonlarda görülen etkileşimler ve değişimlerle ilgili sorular sorar.",
+        "c) Komünitelerde ve popülasyonlarda görülen etkileşimler ve değişimlerle ilgili bilgi toplar.",
+        "ç) Komünitelerde ve popülasyonlarda görülen etkileşimler ve değişimlerle ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Komünitelerde ve popülasyonlarda görülen etkileşimler ve değişimlerle ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.10.2.3",
+      "title": "Ekosistemdeki enerji akışıyla ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Ekosistemdeki enerji akışıyla ilgili gözlem yapar.",
+        "b) Ekosistemdeki enerji akışıyla ilgili örüntüleri oluşturur.",
+        "c) Oluşturduğu örüntülerden yola çıkarak ekosistemdeki enerji akışıyla ilgili genelleme yapar."
+      ]
+    },
+    {
+      "code": "BİY.10.2.4",
+      "title": "Madde döngüleri ile ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Madde döngülerinin işleyişini açıklamak için model önerir.",
+        "b) Madde döngülerinin işleyişi ile ilgili önerdiği modeli bilimsel modellerle karşılaştırır ve elde ettiği kanıtlarla modelini yeniler."
+      ]
+    },
+    {
+      "code": "BİY.10.2.5",
+      "title": "Ekolojik sürdürülebilirliğin önemini yorumlayabilme",
+      "processComponents": [
+        "a) Ekolojik sürdürülebilirliğin önemini inceler.",
+        "b) Ekolojik sürdürülebilirliğin önemini bağlamdan kopmadan dönüştürür.",
+        "c) Ekolojik sürdürülebilirliğin önemini anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "BİY.10.2.6",
+      "title": "Çevresinde sürdürülebilirliği kısıtlayan durumlarla ilgili gözleme dayalı tahmin yapabilme",
+      "processComponents": [
+        "a) Çevresinde sürdürülebilirliği kısıtlayan durumları gözlem ve deneyimleriyle ilişkilendirir.",
+        "b) Çevresinde sürdürülebilirliği kısıtlayan durumlara ilişkin çıkarım yapar.",
+        "c) Çevresinde sürdürülebilirliği kısıtlayan durumlara ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "BİY.10.2.7",
+      "title": "Ekolojik ayak izini küçültebilme yollarını bilimsel olarak sorgulayabilme",
+      "processComponents": [
+        "a) Ekolojik ayak izini küçültebilme yollarıyla ilgili araştırma sorusu belirler.",
+        "b) Ekolojik ayak izini küçültebilme yollarıyla ilgili araştırma sorusunu cevaplamak için bir tablo/model oluşturur.",
+        "c) Ekolojik ayak izini küçültebilme yollarıyla ilgili araştırma planlar.",
+        "ç) Ekolojik ayak izini küçültebilme yollarıyla ilgili elde ettiği verileri analiz eder ve yorumlar.",
+        "d) Ekolojik ayak izini küçültebilme yollarıyla ilgili elde ettiği kanıtlara dayalı açıklama yapar ve ekolojik ayak izini küçültebilmeye yönelik çözüm üretir.",
+        "e) Ekolojik ayak izini küçültebilme yollarıyla ilgili elde ettiği bilgileri değerlendirir ve paylaşır."
+      ]
+    },
+    {
+      "code": "BİY.10.2.8",
+      "title": "Doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemleri sorgulayabilme",
+      "processComponents": [
+        "a) Doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemlere ilişkin merakını ifade eder.",
+        "b) Doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemler ile ilgili sorular sorar.",
+        "c) Doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemler ile ilgili bilgi toplar.",
+        "ç) Doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemler ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemler ile ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.10.2.9",
+      "title": "Çevresinde atık yönetimi konusunda yapılan çalışmalarla ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Çevresinde atık yönetimi konusunda yapılan çalışmalarla ilgili bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak çevresinde atık yönetimi konusunda yapılan çalışmalarla ilgili bilgilere ulaşır.",
+        "c) Çevresinde atık yönetimi konusunda yapılan çalışmalarla ilgili ulaştığı bilgileri doğrular.",
+        "ç) Çevresinde atık yönetim konusunda yapılan çalışmalarla ilgili ulaştığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "rekabet, süksesyon, erozyon, endemik, iklim değişikliği, ötrofikasyon, çevre direnci, taşıma kapasitesi",
+  "support": [
+    "Görsel ve işitsel örnekler kullanılarak popülasyon ve komünite kavramlarının ayırt edilip somutlaştırılması sağlanabilir. Besin zincirinde madde ve enerji akışının kolay anlaşılabilmesi için doğal yaşamdaki farklı örneklerden yararlanılabilir. Öğrencilerin kendi ekolojik ayak izlerini hesaplarken ölçekler, animasyon, simülasyon ya da interaktif uygulamalar kullanmaları sağlanabilir. Öğrencilerin sürdürülebilirlik ve sürdürülebilirliği etkileyen faktörleri öğrenmelerini kolaylaştırmak amacıyla doğal kaynaklar ve sürdürülebilirlik ile ilgili belgeseller izletilebilir."
+  ],
+  "enrichment": [
+    "Farklı ülkelerin yaş piramitleri verilerek öğrencilerden bu ülkelere ait yaş dağılımını sorgulamaları ve ülkedeki insan popülasyonunun özellikleri ile ilgili çıkarım yapmaları beklenebilir. Türkiye'nin nüfus dağılımı verilerini kullanarak popülasyon büyüme projeksiyonu yapmaları ve bu projeksiyonu örnek verilen diğer ülkelerle karşılaştırmaları istenebilir. Türkiye'nin yakın ve uzak gelecekteki popülasyon özelliklerini belirlemeleri ve yaş piramitleri oluşturmaları istenebilir. Nüfus projeksiyonları verilerinden hareketle Türkiye'nin gelecekte karşılaşabileceği sosyoekonomik sorun ve fırsatlar sınıfta tartışılabilir. *Orman, çayır, tatlı su gibi çeşitli örneklerle öğrencilerin karasal ve sucul biyomlardaki besin ağları üzerinden madde ve enerji akışını sorgulamaları sağlanabilir. *Öğrencilerden azot döngüsünde meydana gelen nitrifikasyon ve denitrifikasyon olaylarının kimyasal süreçlerini bilgi görseli aracılığıyla modellemeleri istenebilir. Kültürel miras olan siyez buğdayının besin değeri ve sindirimini araştırmaları, bu mirasın korunması için yapılan çalışmalar hakkında okul panosunda sergilenmek üzere poster hazırlamaları istenebilir. Öğrencilerden Türkiye Yüzyılı vizyonunun gerçekleşmesine katkı sağlayacak referans projeler arasında yer alan \"Salda Gölü Koruma Projesi\" kapsamında gerçekleştirilen alt projeleri araştırmaları ve araştırmalarından elde ettikleri verilere dayanarak Türkiye'de koruma altına alınan alanların sahip olduğu doğal kaynakların ve sosyoekonomik değerlerin gelecek nesillere ulaştırılmasının önemine ilişkin araştırma raporu hazırlamaları istenebilir.",
+    "Öğrencilerden ekolojik sürdürülebilirliği kısıtlayan doğal afetleri konu alan ve \"13 Ekim Dünya Afet Risklerinin Azaltılması Günü\" kapsamında gerçekleştirebilecekleri bir araştırma projesi oluşturmaları ve bu projeyi arkadaşlarıyla paylaşmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; zihin haritası, öğrenme günlüğü, çalışma yaprağı, performans görevi, proje, broşür, araştırma raporu kullanılarak puanlama anahtarı ve dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Çalışma yaprağı ile öğrencilere ekosistemdeki madde ve enerji akışıyla ilgili örüntüler içeren durumlar verilerek örüntüleri bulup genelleme yapabilecekleri açık uçlu sorular sorulabilir. Öğrencilerin cevapları, puanlama anahtarı ile puanlanabilir.",
+    "Öğrencilere madde döngüsü ile ilgili model oluşturmaya yönelik performans görevi verilebilir. Öğrencilerin oluşturacağı model, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin kendilerini performans görevi açısından değerlendirmesi amacıyla öz değerlendirme formu kullanılabilir.",
+    "Öğrencilere ekolojik sürdürülebilirliğin önemine ve sürdürülebilirliği kısıtlayan durumlara ilişkin çıkarım yapıp yargıda bulunacakları bir araştırma raporu hazırlamaya ve hazırladıkları raporu sınıf içinde sunmaya yönelik performans görevi verilebilir. Hazırlanan raporun ve sunumun değerlendirilmesinde analitik dereceli puanlama anahtarı, öz değerlendirme ve akran değerlendirme kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BİY.10.2.1 a-b) Yakın çevreye (çevredeki parklar, kent ormanları vb.) bir arazi gezisi düzenlenebilir. Öğrencilerden arazide gözlem yapmaları, gözlem sonunda ekosistemin cansız ve canlı bileşenlerini belirleyerek gözlem formuna kaydetmeleri, ekosistemin cansız ve canlı bileşenleri arasındaki ilişkileri belirleyip açıklamaları istenir. Sınıf ortamında kullanılan bilgisayar simülasyonları, animasyon, video vb. ile öğrencilerin ekosistemin bir bileşeninin ortadan kalkması durumunda ekosistemin kendisinin ve diğer ekosistemlerin nasıl etkileneceğini tahmin etmeleri ve bu konuya dair akıl yürütmeleri sağlanır ( E3.5 ) . Öğrencilerden ekosistemi oluşturan bileşenler arasındaki etkileşimin ekosistemin işleyişi üzerindeki etkisi hakkında açıklamalar yapmaları beklenir ( E3.4 ) .",
+    "Öğrencilerden ekosistemin cansız ve canlı bileşenleri ile bu bileşenler arasındaki ilişkileri belirlemek amacıyla bireysel olarak zihin haritası oluşturmaları istenir. Zihin haritaları, çeşitli uygulamalar aracılığıyla dijital olarak hazırlanabilir ve puanlama anahtarı ile puanlanabilir.",
+    "BİY.10.2.2 a-b-c) Sınıf ortamında bir doğa belgeseli veya video izletilerek öğrencilerden tür içi ve türler arası etkileşimleri tespit etmeleri istenebilir. Komünite, popülasyon dinamikleri ve süksesyonlarla ilgili çeşitli örnek olaylar verilir. Bu süreçte süksesyon çeşitlerine yer verilmez. Öğrencilerden küçük gruplar hâlinde çalışarak verilen örnek olaylarda gördükleri etkileşim ve değişimleri tanımlamaları ve karşılaştırmaları istenir. Gruplardan örnek olaylardaki komünite ve popülasyonlarda görülen etkileşim ve değişimle ilgili sorular oluşturmaları, oluşturdukları sorularla ilgili araştırma yaparak bilgi toplamaları istenir.",
+    "ç-d) Öğrencilerin topladıkları bilgilerin doğruluğunu bilimsel kaynaklara başvurarak değerlendirmeleri, komünite ve popülasyonlarda görülen etkileşim ve değişimlerle ilgili çıkarım yapmaları sağlanır. Bu süreçte popülasyonlarda görülen dağılım biçimleri, büyüme ve hayatta kalma eğrilerine değinilmez. Öğrencilerden yaptıkları çıkarımlardan elde ettikleri bilgileri kendi yaşamlarında karşılaştıkları sorunların (nüfus artışı, göç vb.) çözümünde nasıl kullanabileceklerini ifade etmeleri istenir ( SDB3.1 ) . Araştırma sonuçlarının gruplar tarafından sınıfta paylaşılması sağlanır. Öğrencilerin paylaşım sürecine etkin olarak katılmasına, birbirinin sözünü kesmemesine ve sözsüz iletişim unsurlarına dikkat etmesine özen gösterilerek saygı değeri vurgulanır ( SDB2.1 , D14.1 ) . Bireysel olarak zihin haritası çizmeleri istenerek öğrencilerin ekosistemlerdeki etkileşimlerin çok boyutluluğu ve karmaşıklığını fark etmeleri sağlanır.",
+    "Öğrencilerden popülasyon, komünite ve ekosistemlerde görülen etkileşim ve değişimlere yönelik öğrenme günlüğü hazırlamaları istenebilir. Öğrenme günlüğü; \"etkileşim ve değişimi tanımlama, bilgi toplama ve topladığı bilgilerin doğruluğunu değerlendirme, çıkarım yapma\" ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.10.2.3 a) Dersin başında öğrencilerden yakın çevrelerinde ya da okul bahçesinde çeşitli canlıların beslenme şekillerine ilişkin gözlem yapmaları istenir. Yapılan gözlemlerde beslenme şekillerine göre canlıları ve bu canlılar arasında nasıl bir enerji aktarımı olabileceğini not almaları beklenir. Sınıf dışı ortamlarda gözlem yapma imkânının olmadığı durumlarda öğrencilere farklı ekosistemlerde bulunan canlıların beslenme ilişkilerini konu alan kısa belgesel kesitleri izletilebilir.",
+    "b) Öğrencilerden gözlemlerinden yola çıkarak beslenme ilişkileri ve ekosistemlerde enerji akışını gösteren zihin haritası oluşturması istenebilir. Öğrencilere besin zincirlerinin basit görünürlükte olduğu, ekosistem içinde örtüşen çok sayıda besin zincirinin karmaşık besin ağlarını oluşturduğu, besin ağlarının da habitattaki tüm organizmalar arasındaki enerji aktarımını gösterdiği hatırlatılır. Sınıfta farklı türleri (üretici, tüketici, ayrıştırıcı) içeren listeler/kartlar dağıtılır. Öğrencilerden gruplara ayrılmaları ve bu türlerle besin zincirleri oluşturmaları istenir. Besin zincirinde her türün bulunduğu trofik basamak ve bu basamaktaki enerji eldesinin nedenleri hakkında sorular sorulur. Ekosistemlerdeki enerji akışının anlaşılmasına katkı sağlamak amacıyla konu, Termodinamiğin 1 ve 2. yasaları ile ilişkilendirilerek fizik alanı ile disiplinler arası bağlantı kurulabilir. Bu süreçte su ekosisteminde besin zinciri, parazit besin zinciri ve biyokütle piramidine değinilmez. Öğrencilerden oluşturdukları besin zincirini açıklamaları, grupça oluşturdukları besin zincirlerini bir araya getirerek besin ağlarına dönüştürmeleri ( E3.6 ) besin ağlarındaki ilişki örüntülerini tanımlamaları beklenir.",
+    "c) Gruplardan tanımladıkları örüntüleri kullanarak ekosistemlerdeki enerji akışı hakkında genellemeler yapmaları istenir. Genelleme ve değerlendirme sürecinde çeşitli dijital uygulamalardan yararlanılabilir. Gruplardan yaptıkları genellemelerden hareketle enerji piramidi oluşturmaları, piramidin düzeylerini ve piramitteki organizmaların görevlerini açıklamaları istenir ( E3.7 ) . Gruplardan oluşturdukları piramidi diğer gruplarla paylaşmaları ve piramitlerini diğer grupların piramitleriyle karşılaştırmaları beklenir. Öğrencilerden enerji akışıyla ilgili oluşturdukları örüntüleri kullanarak biyolojik birikim kavramını tanımlamaları istenir. Biyolojik birikim ile ilgili kısa videolar izletilir ve örnek olaylar paylaşılır (OB4). Biyolojik birikimin organizmalar üzerindeki etkilerine dikkat çekmek için sorular sorulur. Bir biyolojik birikim sorunu seçilerek öğrencilerden bu soruna çözüm üretmeleri istenir. Öğrencilerin kendi beslenme alışkanlıklarının güvenirliğini sorgulamaları sağlanır. Öğrencilerden yaptıkları çıkarımlar çerçevesinde kendi beslenme alışkanlıkları hakkında düşünmeleri, varsa olumsuz beslenme alışkanlıklarının sonuçlarını tahmin etmeleri ve bu konuda yaşadıkları sorunlara çözüm önerileri üretmeleri istenir ( SDB3.3 , E2.2 , D13.1 , OB7 ) .",
+    "Öğrencilere; madde ve enerji akışıyla ilgili durumların sunulduğu, bu örüntüleri bularak genelleme yapmalarına imkân tanıyan ve açık uçlu sorulardan oluşan bir çalışma yaprağı verilebilir. Öğrencilerin çalışma yaprağına vereceği cevaplar puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.10.2.4 a) Ekosistemde enerji akışı olduğu gibi maddenin de bir akış hâlinde olduğu, döngüsel olarak çeşitli formlarda ekosistemin cansız ve canlı bileşenleri arasında yer değiştirdiği hatırlatılır. Su, karbon ve azot döngüsünde değişikliklere sebep olan fiziksel, kimyasal ve biyolojik süreçlerle ilgili sorular sorulur. Bu süreçte nitrifikasyon olayında gerçekleşen tepkimelerin kimyasal formüllerine değinilmez. Öğrenciler bilim dergileri, bilimsel makaleler gibi güvenilir kaynakları, söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda ders kitabını kullanarak madde döngüsü modellerini araştırıp bilgi toplar ( OB1 ) . İÖğrencilerden su, azot ve karbon döngüleri ile ilgili model önermeleri, önerdikleri modeli kullanarak madde döngülerini açıklamaları beklenir. Bu süreçte nitrifikasyon ve denitrifikasyon bakterileri hakkında bilgi verilmez.",
+    "b) Öğrenciler, inceledikleri bilimsel içerikli kaynaklarda yer alan madde döngüsü modelleri ile kendi önerdiği modeli karşılaştırır. Karşılaştırmalarında farklılık olduğu tespit edilirse öğrencilerden bu farklılıkların sebeplerinin neler olabileceğini açıklamaları istenir ( E1.4 ) . Öğrencilerin tespit edilen farklılıkların madde döngülerinin açıklanmasında bilimsel bir hataya sebep olup olmayacağını değerlendirerek modellerini yenilemeleri beklenir ( OB4 , E3.3 ) .",
+    "BİY.10.2.5 a-b-c) Öğrencilere yenilenebilen ve yenilenemeyen doğal kaynakların ve sürdürülebilirliğin ne olduğu sorulur ( E1.1 ) . Öğrencilerden gruplara ayrılarak bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan sürdürülebilirlik hakkında araştırma yapmaları ve bilgi toplamaları istenir. Öğrencilere araştırma yaparken ve bilgi toplarken kişisel bilgilerin gizliliğini korumaya özen göstermeleri gerektiği hatırlatılır ( OB2 , D8.2 ) . YYenilenebilen ve yenilenemeyen kaynaklara günlük hayatlarından örnekler vermeleri istenerek öğrencilerin bu kaynaklar ile sürdürülebilirliğin ilişkisini kurmaları sağlanır ( E3.4 , D5.2 , D18.3 ) . Öğrencilerden sürdürülebilirliğin önemi hakkındaki duygu ve düşüncelerini kendi ifadeleri ile açıklamaları istenir ( OB8 ) . Duygu ve düşüncelerinin benzerlik ve farklılıklarına dikkat çekilerek öğrencilerin bu farklılıkların nedenlerini sorgulamaları sağlanır ( SDB1.1 ) .",
+    "BİY.10.2.6 a-b) Öğrencilerden dünyada ve Türkiye'de sürdürülebilirliği kısıtlayan orman yangınları, deniz salyası (müsilaj) gibi olaylarla ilgili gözlem ve deneyimlerini paylaşmaları istenir. Çevre kirliliğine dikkat çekilir. Bu süreçte konuyla ilgili video veya animasyonlar izletilebilir. Öğrencilere sahip oldukları doğal kaynakları kullanırken özenli davranmanın ve bu konuda çevrelerine örnek olmanın önemi hatırlatılır ( D17.2 , D18.3 ) . Öğrencilere denizlerdeki tanker kazaları sonucu denize karışan petrol ve türevlerinin temizlenmesinde yürütülen biyoremediasyon çalışmaları hakkında araştırma görevi verilir. Öğrencilerden araştırmalarından elde ettikleri bilgileri kullanarak sürdürülebilirliği kısıtlayan diğer olaylar ve bu olaylarda insanın rolü hakkında çıkarımda bulunmaları istenir. İnsanın rolünü çevreye duyarlı olmak ve yaşadığı ülkenin doğal güzelliklerine sahip çıkmak açısından değerlendirmeleri istenerek duyarlılık ve vatanseverlik değerleri vurgulanır ( D5.2 , D19.4 ) . Çıkarımlarını kendi davranışlarıyla ilişkilendirmeleri beklenir ( E3.11 ) . Öğrenciler, yaşantılarında sürdürülebilirliğe katkı sağlayacak davranışlar geliştirebilmeleri için gönüllü faaliyetlere katılmaları konusunda desteklenir. Gönüllü faaliyetlere katılmanın sorumluluk değerinin bir gereği olduğu hatırlatılır ( OB6 , D16.2 ) .",
+    "c) Öğrencilerden sürdürülebilirliğin canlı çeşitliliği, madde döngüleri, canlılar arası beslenme ilişkilerine etkisi ve sürdürülebilirliğin sağlanamaması durumunda karşılaşılabilecek olumsuzluklar hakkında ulaştıkları sonuçları sunmaları istenir ( KB3.3 , SDB3.3 , OB8 , D5.2 ) .",
+    "BİY.10.2.7 a-b) Web kaynakları kullanılarak öğrencilere bireysel ekolojik ayak izleri hesaplatılır. Hesaplama sürecinde karbon ve su ayak izi kavramlarına değinilmez. Bu hesaplamalarda öğrencilerden ekolojik ayak izi hesaplanırken nelerin değerlendirildiğini listelemeleri, kendi ekolojik ayak izlerini küçültmek için neler yapabilecekleri konusunda araştırma soruları belirlemeleri istenir. Oluşturdukları araştırma sorularından hareketle ekolojik ayak izini oluşturan etkenlerin etki büyüklüğüne göre sıralandığı tablo hazırlamaları istenir ( E3.7 ) .",
+    "c-ç-d) Öğrencilerden oluşturdukları tablolardan merak ettikleri bir etkeni seçmeleri ve bu etkenin ekolojik ayak izine etkisini azaltmak için araştırma planlamaları istenir. Örneğin \"Türkiye, iklim değişikliğine bağlı riskler açısından yüksek riskli bir bölgede yer almaktadır. Artan sıcaklıklar ve değişen yağış örüntüsü neticesinde Türkiye'de su potansiyelinin referans döneme göre azalacağı öngörülmektedir.\" bilgisi verilerek öğrencilere suyun başta kentlerde, tarımda ve endüstride olmak üzere akılcı, paylaşımcı, etkin, verimli şekilde ve hakkaniyetle kullanılması ile ilgili araştırma yaptırılır. Öğrencilere araştırma planına uygun olarak bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan bilgi toplama görevi verilir ( E2.2 , OB1 ) . Söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda ders kitabından yararlanılır veya konuyla ilgili video/animasyon izletilir. Öğrencilerden topladıkları bilgileri düzenlemeleri, rapor hâline getirmeleri ve raporlarını arkadaşlarına sunmaları istenir. Sunulan raporlardaki önerilerin ekolojik ayak izinin küçültülmesinde etkili bir yöntem olup olmadığı hakkında kanıta dayalı yorumlar yapmaları beklenir ( E1.5 ) . Yapılan yorumların doğruluğunu değerlendirerek yeni ve özgün çözüm yolları üretmeleri istenebilir ( E3.11 ) .",
+    "e) Üretilen yeni ve özgün çözüm yollarının her öğrenci tarafından sınıfta paylaşılması sağlanır. Bilinçli tüketim alışkanlıklarının benimsenmesinin tasarruf açısından önemi vurgulanır ( OB3 ) . Öğrencilere ekolojik ayak izini küçültme konulu broşür hazırlayacakları performans görevi verilebilir. Hazırlanan broşürler, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.10.2.8 a) Öğrencilere Türkiye Yüzyılı vizyonunun gerçekleşmesine katkı sağlayacak referans projeler arasında yer alan \"Özel Çevre Koruma Bölgesi İlanı ile Ekosistem Koruma Projeleri\" kapsamında \"Özel Çevre Koruma Bölgesi\" ilan edilen bölgeler tanıtılır. Bu bölgelerin doğal değerleri, ekolojik, sosyokültürel ve ekonomik süreçleri ile biyolojik çeşitliliklerinin tespitine yönelik çalışmaları konu alan bir sunum yapılarak veya belgesel, video ya da animasyon izletilerek doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemlere dikkat çekilir. Öğrencilerden doğal kaynakların ve biyoçeşitliliğin korunmasıyla ilgili uygulamalar hakkında merak ettiklerini ifade etmeleri istenir. Doğadaki tüm canlıların yaşam haklarını savunma ve doğayı koruma, merhamet değeri kapsamında vurgulanır ( D9.3 ) . b) Öğrencilerden Türkiye, KKTC ve dünyada doğal kaynakların ve biyoçeşitliliğin korunması için alınan önlemlerle ilgili merak ettikleri uygulamalardan biri hakkında ''Ne?'', \"Neden?\", \"Nasıl?\", \"Nerede?\", \"Ne zaman?\" ve \"Kim?\" sorularını sormaları istenir ( E1.1 ) .",
+    "c) Öğrencilerden sordukları soruları cevaplamak üzere bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan araştırma yapmaları ve bilgi toplamaları istenir. Öğrencilere araştırmalarında kullandıkları kaynaklardan kişisel bilgilerin gizliliğini koruyarak yararlanmaları gerektiği hatırlatılır ( D8.2 , OB2 ) .",
+    "ç) Doğal kaynakların ve biyoçeşitliliğin korunmasına ilişkin önlemler hakkında merak ettikleri soruları cevaplamak amacıyla yaptıkları araştırma sonunda öğrencilerden yararlandıkları kaynakların güvenirliğini ve topladıkları bilgilerin doğruluğunu kontrol etmeleri, sordukları soruların cevaplarını içeren bir rapor hazırlamaları istenir. Öğrencilere raporlarında kullandıkları bilgilerin kaynaklarını raporun kaynakça bölümünde ayrıca belirtmeleri gerektiği hatırlatılır ( D3.3 ) .",
+    "d) Öğrencilerden raporlarında Türkiye'de ve KKTC'de doğal kaynaklar ile biyoçeşitliliğin, nesli tehlikede olan canlıların korunması için alınan önlemler hakkındaki çıkarımlarına yer vermeleri istenir. Alınan önlemlerin gelecekte topluma ve bilime katkılarını kendi bakış açılarıyla yorumlayarak söz konusu önlemlerin yeterli olup olmadığını vatanseverlik değeri bağlamında tartışmaları beklenir ( D19.3 , OB8 ) .",
+    "Öğrencilerin hazırladıkları raporlar; \"alınan önlemlere ilişkin merakın ortaya konması, önlemlerle ilgili sorular sorularak cevap niteliğinde bilgiler toplanması, bu bilgilerin doğruluğunun değerlendirilmesi ve çıkarım yapılması\" ölçütlerini içeren analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilerden araştırma ve rapor hazırlama süreci ile ilgili öz değerlendirme formları doldurmaları ve kendi öğrenme durumlarını geliştirmeye yönelik görüşlerini paylaşmaları istenebilir.",
+    "BİY.10.2.9 a-b) Türkiye Yüzyılı vizyonunun gerçekleşmesine katkı sağlayacak referans projeler arasında yer alan \"Sıfır Atık Projesi\"yle Türkiye'de geri kazanım oranının önemli ölçüde yükseldiği hatırlatılarak öğrencilerden atığın kaynağında ayrı toplanması, geri kazanımının sağlanması ve geri kazanım oranının yükseltilmesi için neler yapılabileceği konusunda beyin fırtınası yapmaları istenir. Öğrencilere atık yönetimi konusunda sorumlu kurum ve kuruluşların hangileri olduğu sorulur. Öğrencilerden yaşadıkları yerde atık yönetimi konusunda sorumlu kurum ve kuruluşlarca (yerel yönetimler, okul idaresi vb.) yapılan çalışmalar hakkında bireysel rapor hazırlamak üzere araştırma yapmaları istenir. Öğrenciler, araştırmalarında bilgi toplamak için kullanacakları araçları (anket, görüşme formu vb.) belirleyerek ilgili kurum ve kuruluşların çalışmaları hakkında bilgi toplar ( OB6 ) .",
+    "c) Yakın çevrede bulunan bir atık değerlendirme, geri dönüşüm veya bertaraf tesisi varsa bu tesise bir okul gezisi düzenlenir. Söz konusu tesislerin olmadığı durumlarda öğrencilere atık yönetimi içerikli videolar izletilir. Öğrencilerden topladıkları bilgilerden yola çıkarak yaşadıkları yerde atık yönetiminden sorumlu kurum ve kuruluşların yaptığı çalışmaları Türkiye'de ve dünyada atık yönetimi konusunda ortaya konan örnek uygulamalarla karşılaştırmaları istenir. Öğrencilerden elde ettikleri bilgileri tesiste gözlemledikleri uygulamalar veya videodan elde ettikleri bilgiler aracılığıyla doğrulamaları istenir. Atık yönetimi uygulamalarının çevreye olan etkileri ve ülke ekonomisine katkıları hatırlatılarak duyarlılık ve temizlik değerleri vurgulanır ( OB3 , D5.2 , D18.3 ) . ç) Öğrencilerden atık yönetimi konusunda ulaştıkları bilgileri çevre duyarlılığını artırmak ve farkındalık oluşturmak için bir proje tasarlamak üzere kaydetmeleri istenir ( D16.2 ) . Öğrenciler, atık yönetimi konusunda yürütülen çalışmalara katılmaları yönünde desteklenir ( E2.3 ) . Öğrencilere okulları bünyesinde grup çalışmasıyla atık yönetimi konulu proje hazırlamaya yönelik performans görevi verilebilir. Öğrencilerin projeleri, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öz değerlendirme ve grup değerlendirme yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D14.1",
+      "D16.2",
+      "D17.2",
+      "D18.3",
+      "D19.3",
+      "D19.4",
+      "D3.3",
+      "D5.2",
+      "D8.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4",
+      "E1.5",
+      "E2.2",
+      "E2.3",
+      "E3.11",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB6",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/10"
+}

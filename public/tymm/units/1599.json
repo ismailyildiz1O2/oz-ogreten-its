@@ -1,0 +1,40 @@
+{
+  "unitId": 1599,
+  "grade": 0,
+  "gradeName": "1. DÜZEY OYUN VE OYUN ETKİNLİKLERİ DERSİ ÖĞRETİM PROGRAMI DRAMA MODÜLÜ",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Drama)",
+  "title": "DÜZEY I · 5. Ünite: Drama Ve Diğer Sanatlar",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOED.1.5.1",
+      "title": ". Canlandırılacak karakterin özelliklerini yansıtan özgün maske tasarlayabilme",
+      "processComponents": [
+        "a) Drama karakterinin özelliklerini maske tasarlayarak inceler.",
+        "b) Tasarladığı maskeden yararlanarak drama karakterinin özelliklerini canlandırmalar yoluyla ifade eder. OOED.1.5.2 . Canlandırılacak karakterin özelliklerini yansıtan özgün kukla oluşturabilme",
+        "a) Drama karakterinin özelliklerini kukla tasarlayarak ifade eder.",
+        "b) Kukla tasarımını drama karakterinin özelliklerini yansıtacak biçimde sanatsal ürüne dönüştürür."
+      ]
+    },
+    {
+      "code": "OOED.1.5.3",
+      "title": "Görsel sanat ürünlerini kullanarak canlandırmalar yoluyla rol oynayabilme",
+      "processComponents": [
+        "a) Görsel sanat ürünündeki tema, karakter, olay örgüsü ile rolün gerektirdiği bileşenler arasındaki ilişkiyi inceler.",
+        "b) Görsel sanat ürününün temasına, karakterine, olay örgüsüne uygun olarak canlandırma çalışmaları yapar. OOED.1.5.4 . Drama yoluyla görsel sanat ürünü oluşturabilme",
+        "a) Görsel sanat ürünündeki konu veya kavramı canlandırmalarla ifade eder.",
+        "b) Doğaçlamalar yoluyla konu veya kavramı resim, kolaj, doğal malzemeler aracılığıyla sanatsal ürüne dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "canlandırma, doğaçlama, görsel sanatlar, kolaj, kukla, maske, resim, rol oynama, sanatsal ürün",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "AB4. Sanatsal Üretim Yapma (SAB4.1. Sanatsal Ürün Tasarlama), SAB4. Sanatsal Üretim Yapma (SAB4.2. Sanatsal Ürün Oluşturma), SAB14. Sahneleme (SAB14.4. Rol Oynama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1599"
+}

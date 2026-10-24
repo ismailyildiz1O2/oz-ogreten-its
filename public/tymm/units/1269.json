@@ -1,0 +1,52 @@
+{
+  "unitId": 1269,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "2. TEMA: KANUNDA BOŞLUKLU MANDALLARI TANIYORUM",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "KNN.2.2.1",
+      "title": "Boşluklu ve boşluksuz mandal gruplarını karşılaştırabilme",
+      "processComponents": [
+        "a) Kanundaki mandalların hangilerinin boşluksuz hangilerinin boşluklu olduğuna ilişkin özellikleri belirler.",
+        "b) Kanundaki mandalları boşluklu oluşuna göre ayırır.",
+        "c) Kanundaki mandalların boşluklu oluşuna ilişkin farklılıklarını listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, mandal, müzik",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu artırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazır bulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak kanun hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Etkinlikler yapılırken öğrencilere ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak ve bunlara ilişkin etkinlik ve materyal hazırlanabilir. Kanun sesi kullanarak grup oyunları düzenlenebilir. Örnek olarak kanun sesini dinleyip tanıma yarışmaları yapılabilir. Kanunun tarihini ve kültürel bağlamını anlatan hikâyeler anlatılarak öğrenmelerin geliştirilmesi sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.2.2.1",
+    "Öğretmen, öğrencilerden boşluklu ve boşluksuz mandalları nasıl sıraladıklarını kendi cümleleriyle ifade etmelerini ister ( OB1 ). Öğrencilere \"boşluklu mandalların boşluksuzlara göre nasıl bir dizilişi var\" diye sorularak öğrencide merak uyandırılır ( E1.1 ). Ardından kanun çalgısındaki boşluksuz mandalların Türk müziğinde \"fa ve do\"seslerine karşılık geldiğini açıklayarak öğrencilerin doğru isimlendirmeyi öğrenmesini sağlar. Değerlendirme süreci gözlem formu, kontrol listesi ve açık veya kapalı uçlu sorular aracılığıyla yapılır. Öğrenciler, kanundaki boşluklu mandalların özelliklerini tanıyarak bunları sayıca az ya da çok olma durumlarına göre belirler ve ölçütler oluşturur ( KB2.4 ). Bu süreçte öğrenciler, bilgiyi analiz edip doğru ve güvenilir bilgiye ulaşma yollarını öğrenirler ( D3.3 ). Öğrencilerin mandalların sayısı ile ses arasındaki ilişkiyi belirlemeleri sağlanır ( KB2.4 ). Belirlenen bu ölçütlere göre öğrenciler boşluklu mandalları diğer mandallardan ayırır. Öğrenciler, kanundaki hangi mandalların boşluklu olduğunu seçer ve bir kontrol listesi veya işaretleme tablosu kullanarak bu mandalları işaretleyebilir. Ayrıştırma sürecinde öğretmen, öğrencilere rehberlik eder ( SDB2.1 ). Öğrenciler, boşluklu mandalları diziliş düzeni ve seslerine göre ayırt eder; bu mandalları notalarına göre sınıflandırır. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1269"
+}

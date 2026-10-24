@@ -1,0 +1,106 @@
+{
+  "unitId": 275,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "4. TEMA: NESNELERİN GEOMETRİSİ (1)",
+  "hours": "21",
+  "description": "Bu temada öğrencilerin geometrik cisimlerin köşe, yüz ve ayrıt özelliklerini ayırt edebilmesi; geometrik şekilleri kenar sayılarına göre sınıflandırabilmesi ve üçgen, dörtgen, beşgen, altıgen ve sekizgen olarak adlandırabilmesi; matematiksel araç ve gereç kullanarak geometrik cisimler ve şekiller çizebilmesi amaçlanmaktadır. Ayrıca bu temada öğrencilerin standart ve standart olmayan uzunluk ölçme araçları ile şekillerin çevre uzunluğunu, standart sıvı ölçü birimleri cinsinden de sıvı miktarını tahmin edebilmesi ve tahminini ölçüm sonucu ile karşılaştırabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.3.3.1",
+      "title": "Geometrik cisimlerin özelliklerini yorumlayabilme",
+      "processComponents": [
+        "a) Geometrik cisimlerin özelliklerini inceler.",
+        "b) Geometrik cisimlerin köşe, yüz ve ayrıt özelliklerini ifade eder.",
+        "c) Köşe, yüz ve ayrıt terimlerini kendi ifadeleri ile açıklar."
+      ]
+    },
+    {
+      "code": "MAT.3.3.2",
+      "title": "Kenar sayılarına göre geometrik şekilleri sınıflandırabilme",
+      "processComponents": [
+        "a) Geometrik şekillerin kenarlarını belirler.",
+        "b) Geometrik şekilleri kenar sayılarına göre ayırır.",
+        "c) Geometrik şekilleri kenar sayılarına göre tasnif eder.",
+        "ç) Geometrik şekilleri kenar sayılarına göre adlandırır."
+      ]
+    },
+    {
+      "code": "MAT.3.3.3",
+      "title": "Matematiksel araç ve teknolojileri kullanarak çeşitli geometrik cisimleri ve şekilleri çizebilme",
+      "processComponents": [
+        "a) Geometrik cisim ve şekil çizmeyi gerektiren matematiksel araç ve teknolojileri tanır.",
+        "b) Geometrik cisim ve şekil çizmek için gerekli araçları ve teknolojiyi belirler.",
+        "c) Belirlenen araç ve teknolojiyi kullanır."
+      ]
+    },
+    {
+      "code": "MAT.3.3.4",
+      "title": "Standart olmayan ve standart ölçme araçları ile şekillerin çevre uzunluğunu tahmin edebilme",
+      "processComponents": [
+        "a) Standart olmayan ve standart uzunluk ölçme araçlarına ilişkin deneyimini, tahmine konu olan şeklin çevre uzunluğu ile ilişkilendirir.",
+        "b) Belirlenen standart olmayan ve standart uzunluk ölçme aracına göre çevre uzunluğuna ilişkin tahminde bulunur.",
+        "c) Tahminini ölçüm sonuçlarıyla karşılaştırarak tahminine ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAT.3.3.5",
+      "title": "Standart sıvı ölçü birimleri cinsinden sıvı miktarını tahmin edebilme",
+      "processComponents": [
+        "a) Standart sıvı ölçü birimlerine ilişkin deneyimini tahmine konu olan sıvı miktarı ile ilişkilendirir.",
+        "b) Belirlenen standart sıvı ölçü birimi cinsinden sıvının miktarına ilişkin tahminde bulunur.",
+        "c) Tahminini ölçüm sonuçlarıyla karşılaştırarak tahminine ilişkin yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler, •  Her geometrik şeklin çevre uzunluğu vardır., •  Ölçme aracı değişse de sıvının gerçek miktarı değişmez., Anahtar kavramlar, • köşegen, ayrıt, yüz, dörtgen, beşgen, altıgen, sekizgen, çevre, birim kare, litre, Sembol ve Gösterimler, • litre (L)",
+  "support": [
+    "Geometrik cisim ve şekillerin çizimlerinde matematiksel araç ve teknolojiye önem verilir ve basitten karmaşığa doğru bir süreç takip edilir. Öğrenme süreci dijital ortamda ya da sınıf ortamında oyunlaştırılır.",
+    "Öğrencilerin bireysel özellikleri dikkate alınarak kendi hızlarında öğrenmelerine fırsat sağlamak için öğretim sürecinde çeşitli sınıf içi görevler oluşturulur. Örneğin sınıftaki sıranın, masanın, tahtanın çevre uzunluğunun ölçümü yapılırken metreyi tutma gibi görevler verilerek öğrenciler ile etkileşimine yer verilir."
+  ],
+  "enrichment": [
+    "Geometrik cisimleri (küp, kare prizma, dikdörtgen prizma, üçgen prizma, küre, dik dairesel silindir) ve şekilleri (üçgen, kare, dikdörtgen, daire, çember) köşe, yüz ve ayrıtları belirlemeleri ve tablo üzerinde bu verileri kullanarak yorumlarını bir rapor hâline getirmeleri istenir. Oluşturulan raporlar sınıfta sunulur.",
+    "Öğrencilerden farklı geometrik şekillerle sanatsal çalışmalar yapmaları istenir. Örneğin seçilen bir geometrik şekli kullanarak resim, mozaik veya el sanatları projeleri oluşturmaları sağlanır. Öğrencilerden belirli bir geometrik şekli seçmeleri ve bu şekli kullanarak kısa bir hikâye yazmaları istenir. Hikâyelerde seçtikleri bu şekilleri drama yöntemi kullanarak canlandırmaları istenir.",
+    "Öğrencilerden farklı renk ve boyutlarda geometrik şekil çizmeleri ve çizdiklerine yönelik sunum yapmaları istenerek yeni ürünler oluşturma eğilimleri desteklenir. Farklı ölçme araçları düşünmeleri, kendilerinin tasarlayıp ölçüm yapacak nesne hâline getirmeleri için araştırma ödevi verilir. Ayrıca drama yöntemi kullanılarak bir sütçünün farklı ölçüm kaplarıyla süt sattığı bir durum canlandırılır."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; açık uçlu sorular, çalışma kâğıdı, analitik dereceli puanlama anahtarı, eşleştirme soruları, kontrol listesi, performans görevi ile değerlendirilebilir. Standart sıvı ölçü birimleri cinsinden sıvı miktarının tahmin edilmesine ilişkin performans görevi istenebilir. Performans görevinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.3.3.1 Öğrencilere geometrik cisimlerin köşe, yüz ve ayrıt özelliklerini öğretirken geometrik cisim seti gibi araç gereç kullanılmasına önem verilir. Öğrencilere geometrik cisimler gösterilerek her birinin köşe, yüz ve ayrıt özelliklerini etkinliklerle fark etmeleri sağlanır ( SDB1.1 ) . Bu süreçte araç gereç, renkli ve büyük görseller kullanarak öğrenme süreci desteklenir ve interaktif oyunlarla konu pekiştirilir. Öğrencilerin kenar ve ayrıt arasındaki farkı ifade etmeleri sağlanır. Geometrik cisimlerin açınımına bu sınıf düzeyinde girilmez. Geometrik cisim modelleri ya da görseller üzerinden köşe, yüz ve ayrıtı gösterme çalışmaları yapılır. Geometrik cisimlerin ve geometrik şekillerin düzgün ve estetik olması açısından öğrencilerin çizim çalışmaları yapmaları sağlanır ( D7.1 ) . Geometrik cisimlerin köşe, yüz ve ayrıtlarını açıklayan bir çalışma kâğıdı hazırlanabilir. Öğrencilerden kendi ifadeleriyle köşe, yüz ve ayrıtları tanımlamaları istenir ve sınıf içinde tartışmalar yapılır. Tartışmanın etkili ve anlamlı bir şekilde gerçekleşip gerçekleşmediği, tartışma sürecinin amacına ne kadar ulaşıldığı kontrol listesi yardımıyla belirlenebilir ( SDB2.1 ) .",
+    "MAT.3.3.2 Farklı büyüklükte ya da farklı türde üçgen görselleri, farklı büyüklükte kare ve dikdörtgen görselleri kâğıt üzerine ya da tahtaya çizilerek öğrencilere gösterilir. Öğrencilerden bu görsellerin adlarını söylemeleri ve ortak özelliklerini belirlemeleri istenir. Öğrencilerin bu şekillerin kenar sayılarına göre adlandırıldığını fark etmeleri sağlanır ( SDB1.1 ) . Üçgen, dörtgen, beşgen, altıgen ve sekizgenin kenarlarını belirlemeye yönelik etkinlikler yapılır. Örneğin kenarları noktalı şekilde verilen geometrik şekiller öğrencilere sunulur. Bu noktaları birleştirip kenarlarını aynı renge boyamaları ve kenar sayılarına göre şekli belirlemeleri sağlanır. Geometrik şekilleri kenar sayılarına göre ayırarak sınıflandırmaya yönelik oyunlar oynatılır ve geometrik şekillerin kenar sayılarına göre adlandırılır ( E2.5 ) . Geometrik şekilleri kenar sayılarına göre sınıflandırıp adlandırmayı gerektiren açık uçlu sorular hazırlanabilir ve bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Ayrıca bu süreçte katlama etkinlikleri ile kare ve dikdörtgenin köşegenleri belirlenir ve iki köşegene sahip olduğu gösterilir. Cetvel kullanılarak köşegen uzunlukları ölçülür ve gerek karenin gerekse dikdörtgenin kendi içinde köşegen uzunluklarının eşit olduğu bulunur. Üçgenin ise köşegeninin olmadığı ifade edilir. Diğer geometrik şekillerin köşegenlerini buldurma etkinliklerine girilmez. Öğrencilere kare ve dikdörtgen üzerine çizilmiş çeşitli görsellerin yer aldığı çalışma kağıdı sunulabilir. Öğrencilerin doğru köşegenleri belirleyip belirleyemedikleri bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "MAT.3.3.3 Öğrencilere çeşitli geometrik cisim ve şekil görselleri gösterilerek bu görsellerde yer alan şekillerin kenar ve köşelerini göstermeleri istenir. Ayrıca geometrik şekillerin köşelerini adlandırmaları sağlanır. Daha sonra geometrik cisim ve şekil çizmede yararlanabilecekleri matematiksel araç ve teknolojiler öğrencilere tanıtılarak bu araç ve teknolojilerin günlük yaşamdaki kullanım alanlarına yönelik tartışma yapılır ( KB2.18 ). Öğrencilerden çeşitli uzunlukta üçgen, dörtgen, beşgen, altıgen ve sekizgen çizmeleri istenerek uygun çizme aracını öğrencilerin belirlemelerine yönelik etkinlikler yapılır. Öğrencilerden matematiksel araç kullanarak belirlenen ve kendilerinin belirlediği uzunlukta üçgen, dörtgen, beşgen, altıgen ve sekizgen çizmeleri istenir. Farklı düzenlerde şekiller çizmeye teşvik edilerek öğrencilerin kendi ürünlerini ortaya koymalarının yanında öz yeterliliklerini geliştirmelerine imkân verilir ( E1.5 , E3.3 ) . Geometrik cisim ve şekillerin dijital ortamda da çizilebileceği, etkileşimli geometri yazılımları kullanılarak öğrencilere temel geometrik cisim ve şekilleri çizme fırsatı sunulur. Öğrencilere dijital ortamda çizim yaparken renk, kalınlık ve stil gibi özellikleri değiştirme uygulaması yapılır ( OB2 , SDB3.2 ) . Öğrencilerin, matematiksel araç ve teknolojilerden yararlanarak geometrik şekilleri çizebilmeleri, hazırlanacak olan çalışma kâğıdı ve kontrol listesi ile değerlendirilebilir. Matematiksel araç ve teknolojilerden yararlanarak farklı boyutlarda ve renklerde geometrik cisim ve şekil çizme çalışmaları yapılarak pano hazırlanır. Hazırlanan panonun değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "MAT.3.3.4 Öncelikle standart olmayan uzunluk ölçme araçlarına yönelik hatırlatmalar yapılır. Nesnelerin ya da geometrik cisimlerin ilgili yüzeyinin çevresinin ölçülmesine dikkat çekilir. Çevre uzunluğu ölçülmesi planlanan geometrik cismin çevre uzunluğu ölçümüne konu olan ilgili yüzeyinin hangi geometrik şekle karşılık geldiğini belirlemeye yönelik etkinlikler yapılır ( KB2.4 ) . Örneğin bir konserve kutusunun tabanının çevre uzunluğu için çembere, bir sıra ya da kitabın üst yüzeyinin çevre uzunluğu için dikdörtgene vurgu yapılır. Öğrencilerden nesnenin çevre uzunluğuna göre uygun standart olmayan uzunluk ölçme araçları (parmak, karış, kalem, silgi vb.) kullanarak çevre uzunluğu hakkında tahminde bulunmaları istenir. Belirlenen standart olmayan uzunluk ölçme araçları ile gerçek ölçüm yapılır ve tahmin ile ölçüm sonuçları karşılaştırılarak yargıda bulunmaları sağlanır. Ardından nesnenin yan yüzeyinde bir noktadan başlatılarak etrafına bir ip dolandırılarak başlangıç noktasına tekrar geldiğinde ip dolama faaliyeti sonlandırılır. Bu faaliyetten sonra standart uzunluk ölçme aracı ile ipin uzunluğu ölçülerek ipin gerçek uzunluğu belirlenir. Böylece nesnenin ilgili yüzeyine karşılık gelen geometrik şeklin çevre uzunluğunu fark etmeleri sağlanır. Bu süreçte farklı standart olmayan ya da standart uzunluk ölçme araçları kullanılır ve farklı geometrik şekiller üzerinden ölçüm yapılır. Araç gerecin yanı sıra görseller üzerinden geometrik şekillerin çevre uzunlukları hesaplanır. Öğrencilerin yaptıkları tahmin ile ölçüm arasındaki fark azalana kadar çeşitli etkinlikler ve oyunlar oynatılır ( E2.5 ) . Bu süreçte tahmini ile ölçüm sonuçu arasında büyük fark olan öğrenciler sabırlı olmaları yönünde teşvik edilir ( D12.3 , SDB1.2 ) . Grup oyunları oynanır ve iş birlikli öğrenme yöntemi kullanılır ( SDB2.2 ) . Yapılan etkinlikler ve öğrendikleri kavramlarla ilgili merak ettikleri soruların sorulması istenir ( E3.8 ) . Ölçülecek nesneler ile standart olmayan ve standart ölçme araçları ile birimlerinin belirlenmesi amacıyla eşleştirme soruları kullanılabilir.",
+    "MAT.3.3.5 Öğrencilerin günlük yaşantılarında kullandıkları sıvıların neler olduğunu ifade etmeleri sağlanır ( E1.1 ) . Daha sonra bu sıvıların ne tür kaplarda muhafaza edildiği sorusu yöneltilir ve sınıf ortamına getirilen su, süt, meyve suyu gibi sıvıların konulduğu kapların incelenmesi istenir. Etkileşimli tahtadan günlük yaşamda kullanılan sıvı madde içeren kapların görselleri hep birlikte incelenir ve kapların üzerindeki sıvı ölçüm değerleri hakkında öğrencilerin görüşleri alınır. Standart sıvı ölçme birimi olan litre ve yarım litre bilgileri öğrencilere etkinliklerle günlük yaşamda kullanmış oldukları sıvıların konulduğu kaplar inceletilerek fark etmeleri sağlanır. Öğretmen tarafından sınıfa getirilen büyük bir kaba belirli bir miktar sıvı dökülerek bu sıvının kaç litre olduğunu tahmin etmeleri istenir. Tahmin sonuçları sınıfta tartışılır. Tahmin yaparken uygulamış oldukları stratejiler sorulur. Öğrencilerden tahminleriyle gerçek ölçümleri karşılaştırmaları ve tahminlerin doğruluğunu değerlendirmeleri istenir ( SDB1.1 ) . Karşılaştırma sonunda öğrencilere bu uygulamanın günlük yaşamda neden önemli olduğu ve sıvı miktarını doğru tahmin etmenin hangi durumlarda faydalı olabileceği soruları yöneltilir ( SDB3.3 ) . Öğrencilere sıvıların miktarını belirlemedeki tahminlerini ve gerçekte yaptıkları ölçümler arasındaki farkı belirleyebilecekleri performans görevi verilebilir ( SDB1.2 ) . Bu performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.5",
+      "E3.3",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/275"
+}

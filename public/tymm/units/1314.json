@@ -1,0 +1,68 @@
+{
+  "unitId": 1314,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "1. TEMA: DİZİ VE KAVRAMLAR",
+  "hours": "10",
+  "description": "Temanın içeriğini öğrencilerin Türk müziğindeki dizi ve kavramlarını tanımaları, Batı müziği ve Türk müziğindeki nota ve perde isimleri arasında bağ kurmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.5.1.1",
+      "title": ". Dizi ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Dizi kavramlarına ait bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Diziyle ilgili araçları kullanılarak gereken bilgileri bulur.",
+        "c) Diziyle ilgili bilgileri doğrular.",
+        "ç) Dizi ile ilgili bulduğu bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "KMN.5.1.2",
+      "title": "Türk müziğindeki perde ve Batı müziğindeki nota isimlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Batı ve Türk müziği nota ve perde isimlerinin özelliklerini belirler.",
+        "b) Belirlenen özelliklere göre Batı ve Türk müziğindeki seslerin benzerliklerini listeler.",
+        "c) Batı ve Türk müziğine ilişkin nota ve perdenin farklılıklarını listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "Türk müziği, dizi, keman",
+  "support": [
+    "Çalışmalarda öğretmen bire bir video desteğiyle öğrenciye sunum yapar. Makamsal perdeleri tek tek vurgulayarak sesleriyle öğrenciye eşlik eder."
+  ],
+  "enrichment": [
+    "Türk ve Batı müziği eserlerini birleştiren etüt ve kısa eserlerde proje ödevi verilir. Türk müziği eserlerini analiz etmeleri için öğrencilere eser verilip sunum yaptırılır."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kavram haritası, gözlem formu, kısa rapor veya sunum ile değerlendirilebilir. Öğrenci, performans görevi olarak iki sistemi karşılaştıran kısa bir yazılı analiz ya da grafik tablo hazırlayabilir. Çalışmalar; müziksel terimlere hâkimiyet, benzerlik/farklılıkları ifade etme gücü ve bilgiyi görselleştirme becerisi açısından bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.5.1.1",
+    "Öğretmen görseller ve video aracılığıyla Türk müziğinde makam ve diziyle ilgili bilgiler verir. Türk müziğinin günlük hayatımızda en çok dinlenen enstrümantal eserlerini de dinleterek öğrencinin ilgisini çeker ( E1.1 ). Öğrenciler bilgi toplamak için dijital kaynaklar ve görseller kullanır. Bu araştırmaları grup içerisinde eşit olarak dağıtır. Kullandığı araçları aralarında uyum içerisinde paylaşarak bilgi toplar ( SDB3.1 ). Topladıkları bilgileri sınıf ortamında kendilerine güvenerek sunar ( E2.2 ). Türk müziği ve Batı müziği ses ve perdesindeki notaların benzerliklerini belirtir. Sunum sırasında diğer öğrencilerle bilgilerini karşılaştırıp bu bilgilerin doğruluğunu belirlemek veya bilgi eksikliklerini gidermek için iletişim kurar ( SDB2.1 ). Gruptaki bütün öğrenciler, çalışmalarda eşit bilgiye sahip olunması için desteğe ihtiyaç duyan arkadaşlarıyla bilgi alışverişinde bulunur ( D4.1 ). Bilgi alışverişinden sonra öğretmen bilgi eklemeye devam eder. Araştırmalar sonucunda kalan eksik bilgiler öğretmen tarafından sunumlar sonunda belirtilir ve karşılıklı iletişim kurularak eksik bilgiler giderilir ( OB7 ).",
+    "KMN.5.1.2",
+    "Öğretmen Türk müziğindeki perde isimlerini, Batı müziğiyle bağdaştırarak farklılık ve benzerliklerini anlatır. Çargâh do, nim hicaz, hicaz, dik hicaz, neva re, nim hisar, dik hisar, hüseyni mi, acem fa, eviç, mahur, dik mahur, gerdaniye sol, nim şehnaz, şehnaz, dik şehnaz, muhayyer la, sümbüle, dik sümbüle, tiz segâh, tiz buselik si, tiz dik buselik, tiz çargâh do kavramları üzerinden Batı müziği ve Türk müziği nota isimlerini gösterir. Türk ve Batı müziği arasındaki farklılık ve benzerlikleri keşfetmelerini sağlar. Öğrenci edindiği ve araştırdığı bilgilerle ilgili çıkarım yapar ( KB2.10 ). Edindiği bilgiler doğrultusunda notlar alır ( D16.1 ). Öğretmen, Türk müziği ve Batı müziği arasındaki farklılıklara dikkat çekerek Batı müziğinde bulunan diyez ve bemol değiştirici işaretler ile Türk müziğindeki ara ses hakkında bilgi verir. Öğrenciler bu veriler ile ilgili araştırma ödevi yaparak bilgileri pekiştirir ( OB1 ). Öğrenci performans görevi olarak bu iki sistemi karşılaştıran kısa bir yazılı analiz ya da grafik tablo hazırlayabilir. Çalışmalar; öğrencinin müziksel terimlere hâkimiyeti, benzerlik/farklılıkları doğru ifade edebilmesi ve bilgiyi görselleştirme becerisi göz önünde bulundurularak dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.1",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.10"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB3.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1314"
+}

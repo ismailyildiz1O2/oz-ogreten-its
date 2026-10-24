@@ -1,0 +1,58 @@
+{
+  "unitId": 1333,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Piyano Modülü",
+  "title": "4. TEMA: PİYANODA TEMEL DAVRANIŞLAR",
+  "hours": "13",
+  "description": "Temada öğrencinin piyano çalgısının üzerinde doğru duruş ve tutuş uygulaması, siyah tuşları ikili ve üçlü bir şekilde sınıflandırabilmesi amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "PYN.1.4.1",
+      "title": ". Piyanoda doğru duruş ve oturuş biçimini uygulayabilme",
+      "processComponents": []
+    },
+    {
+      "code": "PYN.1.4.2",
+      "title": ". Siyah tuşları ikili ve üçlü şekilde sınıflandırabilme",
+      "processComponents": [
+        "a) Piyanoda ikili ve üçlü siyah tuşları belirler.",
+        "b) Piyanoda ikili ve üçlü siyah tuşları ayırır.",
+        "c) Piyanoda ikili ve üçlü siyah tuşları tasnif eder.",
+        "ç) Piyanoda ikili ve üçlü siyah tuşları isimlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "doğru duruş, sınıflandırma",
+  "support": [
+    "Oyun, bilmece sorma, bulmaca çözme, şarkı ve tekerleme söyleme, sayışma, canlandırma yapma gibi etkinlikler ve görsel eşleştirme kartlarından yararlanılabilir. Etkinlikler yapılırken öğrencilerin zorlandıkları yerlerde onlara ipuçları verilebilir. Gösterip yaptırma tekniğinden sık sık yararlanılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin hazır bulunuşluk, ilgi ve öğrenme stilleri dikkate alınarak bunlara ilişkin etkinlik/ materyal hazırlanabilir. Piyanoda ikili ve üçlü siyah tuşların yanı sıra bu tuşların farklı tonalitelerdeki kullanımlarını, aralıkları analiz ederek daha derinlemesine müzik teorisi bilgisiyle pekiştirilmiş bir uygulama yapılabilir."
+  ],
+  "assessment": [
+    "Öğrencinin piyano çalgısında duru ve, oturuş biçimi ölçümünde gözlem formu kullanılabilir. Performans görevi kapsamında öğrencilerden doğru duruş ve oturuş pozisyonunu sergileyerek piyanoda sağ ve sol ellerini doğru konumlandırma sürecini adım adım gösterdikleri kısa bir sunum, video ya da fotoğraflı bir afiş/poster hazırlamaları istenebilir. İkili ve üçlü siyah tuş sınıflandırmaları bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "PYN.1.4.1",
+    "Piyano çalgısının taburede oturarak çalınacağı belirtilir. Öğrenciye usta piyano icracılarından örneklerle her usta icracının piyanoda doğru duruş ve oturuş sağlayarak eserlerini çaldığı ile ilgili bilgiler verilir. Belirli aralıklarla öğrenci oyun tarzında ayağa kaldırılarak öğrencinin piyanoya doğru duruş ve oturuşla öğretmen yardımıyla konumlanması sağlanır ( E2.5 ). Öğretmen gözetiminde öğrencinin piyanoya doğru duruş ve oturuş ile konumlanması istenir ( SDB1.1 , E1.5 ). Performans görevi olarak öğrencilerden ikili ve üçlü siyah tuş sınıflandırmaları istenebilir. Performans görevi, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "PYN.1.4.2",
+    "Öğrenciye piyano çalgısında hangi renk tuşların olduğu sorulur. Öğrenciden orta do notasından sağ bölümler için sağ el, orta do notasından sol bölümler için sol elini kullanarak ikili ve üçlü siyah tuşları parmaklarını tuşların üzerine konumlandırarak göstermesi istenir ( OB4 ). Öğrenciye rastgele sağ el ikili siyah tuş veya sol el üçlü siyah tuşlarla döngü şeklinde oyun tarzında sorular sorularak öğrencinin etkinliklerde aktif rol alması sağlanır. ( E2.5 , D3.4 ). Öğrenme çıktısı öğretmen tarafından gözlem formu ile değerlendirilir. Performans görevi kapsamında öğrencilerden doğru duruş ve oturuş pozisyonunu sergileyerek piyanoda sağ ve sol ellerini doğru konumlandırma sürecini adım adım gösterdikleri kısa bir sunum, video ya da fotoğraflı bir afiş/poster hazırlamaları istenir. Öğrencilerin hazırladığı çalışma, sınıf ortamında sunulabilir ve öğretmen tarafından belirlenen kontrol listesi ile değerlendirilerek öğrencinin portfolyosuna eklenir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.5",
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1333"
+}

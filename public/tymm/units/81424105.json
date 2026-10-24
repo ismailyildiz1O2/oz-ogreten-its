@@ -1,0 +1,52 @@
+{
+  "unitId": 81424105,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "105. ÜNİTE: KISA FİLM - POST-PRODÜKSİYON VE MONTAJ",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.3.3.1",
+      "title": "Post-prodüksiyon aşamalarını ve süreçlerini açıklar",
+      "processComponents": [
+        "Çekimler için günlük kayıtların oluşturulması, çekimlerin birleştirilmesi, temel kurgusu, ayrıntılı kurgusu ve son kurgusu açıklanır."
+      ]
+    },
+    {
+      "code": "GSA.3.3.2",
+      "title": "Ses kurgu tekniklerini uygular",
+      "processComponents": [
+        "Ses köprüsü, ses eşleşmesi, eş zamansız ses, ses yakınlığı ihlali, diegetic (diyetik) ses, non-diegetic (nan diyetik) ses, metadiegtic (metadiyetik) ses tekniklerine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.3.3.3",
+      "title": "Kurgu tekniklerini uygular",
+      "processComponents": [
+        "Kurgunun ne olduğuna, amaçlarına, tarihçesine değinilir."
+      ]
+    },
+    {
+      "code": "GSA.3.3.4",
+      "title": "Renk düzenlemesini yapar",
+      "processComponents": []
+    },
+    {
+      "code": "GSA.3.3.5",
+      "title": "Eleştiri yapar",
+      "processComponents": [
+        "Filmlerin nasıl değerlendireceği, farklı eleştirel yaklaşımlar bağlamında filmlerin hangi yönlerinin ele alınacağı ve bunları gördüğü filme uygulaması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

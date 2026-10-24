@@ -1,0 +1,39 @@
+{
+  "unitId": 98032501,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "1. ÜNİTE: MEVSİMLER VE İKLİM",
+  "hours": "14",
+  "description": "Bu ünitede öğrencilerin; mevsimlerin oluşumunda Dünya'nın hareketlerinin, konumunun ve birim yüzeye düşen ışığın etkisini kavramaları; iklimlerin oluşumu ve hava olayları hakkında bilgi edinmeleri; iklim bilimi hakkında bilgi sahibi olmaları; küresel iklim değişiklikleri ve etkileri hakkında bilgi ve beceriler kazanmaları hedeflenmektedir.",
+  "outcomes": [
+    {
+      "code": "F.8.1.1.1",
+      "title": "Mevsimlerin oluşumuna yönelik tahminlerde bulunur",
+      "processComponents": [
+        "Dünya’nın dönme ekseni olduğuna değinilir.",
+        "Dünya’nın dönme ekseni ile Güneş etrafındaki dolanma düzlemi arasındaki ilişkiye değinilir.",
+        "Işığın birim yüzeye düşen enerji miktarının mevsimler üzerindeki etkisine değinilir."
+      ]
+    },
+    {
+      "code": "F.8.1.2.1",
+      "title": "İklim ve hava olayları arasındaki farkı açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "F.8.1.2.2",
+      "title": "İklim biliminin (klimatoloji) bir bilim dalı olduğunu ve bu alanda çalışan uzmanlara iklim bilimci (klimatolog) adı verildiğini söyler",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Dünya ve Evren",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201812312311937-FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI2018.pdf"
+}

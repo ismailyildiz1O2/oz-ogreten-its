@@ -1,0 +1,57 @@
+{
+  "unitId": 81424125,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "125. ÜNİTE: EBRU - EBRU SANATININ TARİHÇESİ VE MEŞHUR ÜSTATLARI",
+  "hours": "4",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.3.2.1",
+      "title": "Bilişim araçlarını kullanarak ebru sanatı ustalarının eserlerini ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.3.2.2",
+      "title": "Ebru sanatının tarihi gelişim sürecini irdeler",
+      "processComponents": [
+        "Ebru sanatının ortaya çıktığı bölge, Anadolu coğrafyasına ulaşma süreci ve günümüze kadar olan gelişimi açıklanır."
+      ]
+    },
+    {
+      "code": "GTSA.3.2.3",
+      "title": "Ebru sanatının kullanım amaçlarını ayırt eder",
+      "processComponents": [
+        "Ebru sanatının geçmişte ve günümüzde gördüğü ilgiye ve hangi alanlarda kullanıldığına değinilir."
+      ]
+    },
+    {
+      "code": "GTSA.3.2.4",
+      "title": "Ebru sanatının kullanılma sahaları hakkında çıkarımda bulunur",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.3.2.5",
+      "title": "Ebru sanatının dünyanın farklı ülkelerindeki uygulamalarını ifade eder",
+      "processComponents": [
+        "Ebru sanatının dünya ölçeğinde de ilgi gördüğü ebru kullanımı örnekleriyle ele alınır."
+      ]
+    },
+    {
+      "code": "GTSA.3.2.6",
+      "title": "Meşhur ebru üstatlarını tanır",
+      "processComponents": [
+        "Ebru üstatlarının, bu sanatın günümüze kadar aktarılmasındaki önemine vurgu yapılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

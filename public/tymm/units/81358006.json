@@ -1,0 +1,75 @@
+{
+  "unitId": 81358006,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Kur'an-ı Kerim'in Anlam Dünyası Dersi",
+  "title": "6. ÜNİTE: ANA HATLARIYLA KUR'AN-I KERİM'DE GEÇEN KONULAR",
+  "hours": "17",
+  "description": "Bu ünitede sırasıyla “İman Esaslarının Temeli: Allah (cc) İnancı”, “Allah'ın (cc) Yeryüzündeki Halifesi: İnsan”, “Peygamberlik: İnsana Rehberlik”, “İmtihan Âlemi: Dünya Hayatı”, “İnsanlığın Vazgeçilmez Değeri: Ahlak”, “İnsanın Zorunlu Varlık Alanı: Toplumsal Düzen”, “Kâinat ve Tabiattaki İlahi Lütuflar” ve “Ayetlerden Mesajlar: Enam Suresi, 74-81. Ayetler” konularına yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "KKAD.2.2.1",
+      "title": "Ayetler bağlamında Allah (cc) inancının imanın temeli olduğunu fark eder",
+      "processComponents": [
+        "Allah (cc) inancının iman esaslarının temeli olduğu Haşr suresinin 22-24. ayetleri ve Zümer suresinin 3-4. ayetleri bağlamında açıklanırken tevhit inancı vurgulanır."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.2",
+      "title": "İnsanın yaratılışı ile ilgili ayetleri irdeler",
+      "processComponents": [
+        "Müminun suresinin 12-14. ayetleri, Hac suresinin 5. ayeti, Secde suresinin 7-9. ayetleri ve İnfitar suresinin 6-9. ayetleri bağlamında insanın yaratılışı açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.3",
+      "title": "Kur'an-ı Kerim'de yer alan peygamberlik ile ilgili ayetlere örnekler verir",
+      "processComponents": [
+        "Hadid suresinin 25. ayeti, Kehf suresinin 56. ayeti, Ahkaf suresinin 9. ayeti bağlamında Kur'an-ı Kerim'de adı geçen peygamberlerin tevhit mücadelesine değinilir."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.4",
+      "title": "Ayetlerden hareketle dünya hayatının gerçekliğini irdeler",
+      "processComponents": [
+        "Al-i İmran suresinin 185. ayeti, Yunus suresinin 24-25. ayetleri, Kehf suresinin 45-47. ayetleri ve Hadid suresinin 20-21. ayetleri bağlamında dünya hayatının gerçeği ele alınır."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.5",
+      "title": "Kur'an-ı Kerim'de yer alan güzel ahlak ile ilgili ayetleri kavrar",
+      "processComponents": [
+        "Hucurat suresinin 11-12. ayetleri, Nur suresinin 30. ayeti ve Al-i İmran suresinin 134. ayeti bağlamında insanın vazgeçilmez değeri olan ahlak ilkelerine örnekler verilir."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.6",
+      "title": "Kur'an-ı Kerim'de toplumsal hayatı düzenleyen ayetleri kavrar",
+      "processComponents": [
+        "Rad suresinin 11. ayeti, Nisa suresinin 36. ayeti, Araf suresinin 85. ayeti, Hud suresinin 85. ayeti ve Bakara suresinin 180. ayeti bağlamında aile hayatı, akrabalık ilişkileri, medeni yasalar, hukuk, iktisat vb. konularda ortaya konulan ilkelerle insana yaraşır bir toplumsal düzene vurgu yapılır."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.7",
+      "title": "Ayetlerden örneklerle kâinat ve tabiattaki ilahi lütufların farkına varır",
+      "processComponents": [
+        "Kâinat ve tabiattaki ilahi lütuflarla ilgili Enam suresinin 95-99. ayetleri, Rad suresinin 41. ayeti, Rum suresinin 37-60. ayetleri açıklanır."
+      ]
+    },
+    {
+      "code": "KKAD.2.2.8",
+      "title": "Hz. İbrahim'in Allah'ı (cc) arayış kıssasından çıkarımlarda bulunur",
+      "processComponents": [
+        "Enam suresi, 74-81. ayetlerde geçen Hz. İbrahim'in Allah'ı (cc) arayış kıssası meal ve tefsirlerden faydalanılarak açıklanır. Bu kıssadan çıkarılan mesajlar anlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231124957523-Kuran%C4%B1kerim.pdf"
+}

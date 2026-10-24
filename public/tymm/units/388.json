@@ -1,0 +1,109 @@
+{
+  "unitId": 388,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "3. ÜNİTE: CANLILARIN YAPISINA YOLCULUK",
+  "hours": "22",
+  "description": "Bu ünitede hücrenin temel kısımlarının açıklanması, bitki ve hayvan hücresi arasındaki benzerlik ve farklılıkların karşılaştırılması, hücre-doku-organ-sistem-organizma ilişkisinin kavranması, destek ve hareket sistemlemine ait yapıların sınıflandırılması ve bu sistemin sağlığı konusunda yapılması gerekenlerin araştırılarak açıklanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Hücre ve Organelleri",
+      "processComponents": []
+    },
+    {
+      "code": "FB.5.3.1.1",
+      "title": "Bitki ve hayvan hücrelerini temel kısımları ve özellikleri açısından karşılaştırabilme",
+      "processComponents": [
+        "a) Bitki ve hayvan hücrelerinin özelliklerini belirler.",
+        "b) Bitki ve hayvan hücrelerinin benzer özelliklerini listeler.",
+        "c) Bitki ve hayvan hücrelerinin farklı özelliklerini listeler."
+      ]
+    },
+    {
+      "code": "FB.5.3.1.2",
+      "title": "Hücre-doku-organ-sistem-organizma kavramlarını yapılandırabilme",
+      "processComponents": [
+        "a) Hücre-doku-organ-sistem-organizma kavramlarına ilişkin hiyerarşik ilişkileri ortaya koyar.",
+        "b) Hücre-doku-organ-sistem-organizma kavramlarına ilişkin elde ettiği bilgileri uyumlu bir bütün olarak ortaya koyar. 2. Bölüm: Destek ve Hareket Sistemi"
+      ]
+    },
+    {
+      "code": "FB.5.3.2.1",
+      "title": "Destek ve hareket sistemine ait yapıları sınıflandırabilme",
+      "processComponents": [
+        "a) Destek ve hareket sistemine ait yapıların niteliklerini tanımlar.",
+        "b) Destek ve hareket sistemine ait yapıları niteliklerine göre ayrıştırır.",
+        "c) Destek ve hareket sistemine ait yapıları gruplandırır.",
+        "ç) Destek ve hareket sistemine ait yapıları etiketler."
+      ]
+    },
+    {
+      "code": "FB.5.3.2.2",
+      "title": "Destek ve hareket sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+      "processComponents": [
+        "a) Destek ve hareket sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak destek ve hareket sisteminin sağlığı hakkında bilgiler bulur.",
+        "c) Destek ve hareket sisteminin sağlığı hakkında bulduğu bilgileri doğrular.",
+        "ç) Ulaştığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "hücre, bitki hücresi, hayvan hücresi, organeller, doku, organ, sistem, organizma, mikroskop, kıkırdak, kemik ve kemik çeşitleri, eklem ve eklem çeşitleri, kaslar ve kas çeşitleri",
+  "support": [
+    "Bitki ve hayvan hücresinin özelliklerini sınıflandırdıkları kart eşleştirme oyunu oynatılabilir.",
+    "Destek ve hareket sistemine ait dijital içerikler yoluyla daha fazla inceleme yapmalarına olanak tanınabilir."
+  ],
+  "enrichment": [
+    "Bitki ve hayvan hücresinin özelliklerini sınıflandırdıkları kart veya dijital eşleştirme oyunu tasarlatılarak oynatılabilir. Destek ve hareket sisteminin sağlığına ilişkin bir uzmanla görüşme yapılarak daha ayrıntılı bilgi edinilmesi sağlanabilir. İbni Sina'dan başlayarak anatomiyle ilgili çalışmaları derleyip bir makele yazması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, tanılayıcı dallanmış ağaç, yapılandırılmış grid, eşleştirme testi ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri, bir ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir. Bitki ve hayvan hücre modeli tasarlama üzerine performans görevi verilebilir. Modeli ve süreç içerisindeki performanslarını değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Destek ve hareket sisteminin sağlığı konusunda poster, afiş, resim, rapor vb. hazırlamayı içeren performans görevi verilebilir. Bu performans görevi süreci kontrol listesi ya da analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.5.3.1.1 Mikroskobun bölümleri ve işlevi tanıtılır. Bir hücre gözlemi için birden fazla örnek hazırlanarak öğrencilerin hücre gözlemi yapmaları sağlanır ( OB4 ) . Öğrenciler yaptıkları gözleme odaklanarak sistematik bir biçimde çalışmaya yönlendirilir ( E3.2 , E3.7 ) . Bu noktada hem bitki hem de hayvan hücrelerine ait örnekler kullanılır. Örneklerden yola çıkarak bitki ve hayvan hücrelerinin özelliklerini belirlemeleri sağlanır. Öğrencilerin gözlemlerine dayanarak hücreye ait temel kısımları çizmeleri sağlanır. Öğrenci çizimlerinde hücre zarı, sitoplazma ve çekirdek yapısının korunmasına dikkat edilir. Bu aşamada kontrol listesi yardımıyla öğrencilerin mikroskobu kullanmaları ve hücrenin temel kısımlarına ait çizimleri değerlendirilebilir. Mikroskobun olmadığı durumlarda hücreye ait görsel ya da dijital içeriklerden faydalanılır ( OB4 ) . Öğrenciler çizimlerini karşılaştırarak hücrenin temel kısımlarını belirleyip açıklamaları sağlanır. Bu süreçte gruptaki her öğrencinin olumlu iletişim sergilemesine ve fikrini beyan etmesine özen gösterilir ( SDB2.1 , SDB2.2 ) . Bitki ve hayvan hücresinin temel kısımlarının karşılaştırılmasında dijital ortamda hazırlanan eşleştirme oyunu veya basılı kaynaktaki eşleştirme testi vb. kullanılabilir. Organellerin ayrıntılı yapıları verilmeden sadece isim ve görevlerine değinilir. Öğrencilerin bitki ve hayvan hücresine ait benzerlik ve farklılıkları odel, poster, dijital içerik vb. üzerinde karşılaştırmaları sağlanır. Hücreye ait temel kısımlar ile bitki ve hayvan hücresindeki organellerin görevlerinin yapılandırılmasında analoji yöntemi kullanılabilir. Öğrenciler gruplara ayrılarak birer bitki ve/veya hayvan hücresi posteri, modeli, dijital sunumu vb. içeren performans görevi verilir ( OB1 , OB2 ) . Bu görev sürecinde öğrencilerin grup içi görev paylaşımı ve etkileşimde olumlu iletişim, görev bilinci ile çalışmalarını sürdürmeleri sağlanır ( SDB2.1 , SDB2.2 , E2.2 , D16.3 ) . Yapılan hücre modeli analitik dereceli puanlama anahtarı ile değerlendirilebilir. Hücre, hücrenin temel kısımları ile bitki ve hayvan hücresi incelemeleri, çizimleri ve poster karşılaştırmaları sırasında görsel sanatlar dersinden faydalanılabilir. Hücreye ait temel kısımlar ile bitki ve hayvan hücresindeki organellerin görevleri ve günlük hayatta benzer görevleri olan yapılarla analoji kurma aşaması sosyal bilgiler dersi ile ilişkilendirilebilir.",
+    "FB.5.3.1.2 Hücre, doku, organ, sistem ve organizma kavramlarının yapılandırılması sırasında rol oynama tekniği kullanılabilir. Rol oynama tekniği sırasında öğrencilerin olumlu iletişim dili kullanmaları ( SDB2.1 ) ve süreçte eğlenerek öğrenmeleri sağlanabilir ( E2.5 ) . Öğrencilerin kavramlar arası mantıksal ilişkileri açıklamaları istenir. Öğrencilerin kavramlar arasındaki ilişkiye analoji yoluyla günlük hayattan örnek vermeleri beklenir. Örnek olarak ev, mahalle, ilçe, il, ülke vb. yapılanmalar sunulur. Öğrencilerin elde ettiği bilgilerle var olan bilgilerini bütünleştirerek organizmanın uyumlu bir bütün oluşturduğu sonucuna ulaşmaları sağlanır. Ülkenin de organizma gibi uyumlu bir bütün olduğu ifade edilerek aralarında benzeşim kurulabilir. Öğrencilerin bu hiyerarşik ilişkiyi yapılandırmaları çalışma kâğıdı vb. araçlarla değerlendirilebilir. Analoji kurma aşamasında sosyal bilgiler, rol oynama sürecinde kendini ifade ederken Türkçe dersiyle ilişki kurulabilir.",
+    "FB.5.3.2.1 Öğrencilerin destek ve hareket sistemine ait yapıları kendi vücutlarından yola çıkarak açık uçlu sorular vb. teknikler ile farketmeleri sağlanabilir. Bu sisteme ait nitelikleri tanımlamaları sağlanır. Süreçte grup tartışması kullanılır ( SDB2.1 , SDB2.2 ) . Ayrıca video, animasyon, poster, şema, model vb. araçlardan faydalanılabilir. Bu araçları dijital ortamlardan belirleyip seçmeleri ve kullanmaları istenir ( OB4 ) . Bu süreçte öğrencilerin iletişimde nezaketli olmaları ve farklı fikirlere saygı duymaları sağlanır ( D14.1 ) . Öğrencilerin destek ve hareket sisteminin bileşenlerini ayrıştırmaları sağlanır ( SDB1.2 ) . Bu aşamada grup çalışması tekniğinden faydalanılabilir. Bu bileşenleri iskelet ve kas olarak gruplandırmaları, iskelet ve kasa ait yapıları etiketleyerek sisteme ait sınıflandırmayı tamamlamaları sağlanır. İskeleti kemik, eklemler ve kıkırdaktan oluşan bir yapı olarak tanımlamaları beklenir. Kemik, kıkırdak ve eklemlerin yapısına ve kasların çalışma prensiplerine girilmeden kemik, kas ve eklemlerin çeşitleri verilir. Bu sınıflandırma görsel veya dijital içeriklerle desteklenebilir. Süreçte kullanılan içerikleri inceleyip yorumlamaları beklenir ( OB4 ) . Ayrıca bu süreçte öğrencilerin empati kurmaları, sorumlu davranmaları ve olumlu bakış açısına sahip olmaları sağlanır ( E2.1 , E2.2 , D12.1 ) . İbni Sina'nın insan anatomisiyle ilgili çalışmalarına değinilir. Değerlendirmede ise dijital ortamda ya da basılı kaynaklarda eşleştirme testi, tanılayıcı dallanmış ağaç vb. araçlar kullanılabilir.",
+    "FB.5.3.2.2 Öğrencilerden destek ve hareket sisteminin sağlığını etkileyen bir durumu örnek olay yöntemi ile tartışmaları istenebilir ( KB2.18 ) . Örnek olay çerçevesinde merak duygusunu artırmak için açık uçlu sorular sorulur ( E1.1 ) . Bu sisteme ait günlük hayatta karşılaşabilecekleri kemik kırıklarına değinilip diğer hastalıklara girilmez. Öğrencilere destek ve hareket sisteminin sağlığı konusunda bireysel ya da grup olarak poster, afiş, resim, rapor vb. performans görevleri verilir ( SDB1.2 ) . Öğrencilerden hazırlayacakları performans görevi ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri beklenir. Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları sağlanır ( OB2 , OB1 ) . Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak güvenilir araçları belirlemeleri sağlanır ( E3.4 , E3.8 ) . Belirledikleri aracı kullanarak bu sistemin sağlığı hakkında bilgi toplamaları istenir ( OB7 ) . Ulaştıkları bilgileri doğrulamaları beklenir. Bu doğrulama sürecinde öğretmeninden, alan uzmanından vb. yardım almaları, arkadaşları ile tartışmaları veya bilimsel kaynaklara başvurmaları beklenir ( KB3.3 , D3.3 , OB7 , OB1 ) . Video, sunu, röportaj yapma vb. sunum teknikleri de kullanılabilir ( SDB2.2 ) . Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ) . Güvenilir genel ağ adreslerinden yararlanma, dijital sunum, video hazırlama noktasında bilişim teknolojileri dersleriyle ilişki kurulur ( OB2 ) . Performans görevi sürecinde sorumlu ve planlı davranmaları beklenir ( D3.2 , E2.2 ) . Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Ayrıca ulaştıkları bilgiler doğrultusunda yeterli ve dengeli beslenmenin, sosyal ve sportif faaliyetler ile teknoloji bağımlılığının destek ve hareket sisteminin sağlığı üzerindeki etkisine değinilerek sağlıklı yaşama özen göstermeleri beklenir ( D13.2 ) . \"Hastalığınızdan önce sağlığınızın kıymetini bilin\" sözünden yola çıkılarak sağlığın önemi vurgulanır. Öğrencilerin bu sistemin sağlığına yönelik günlük hayattaki yanlış uygulamalarını belirleyip doğru davranışa yönelmeleri beklenir ( SDB1.2 , SDB2.2 , SDB3.3 , D5.1 ) . Tanılayıcı dallanmış ağaç vb. ölçme araçları izleme amaçlı değerlendirme için kullanılabilir"
+  ],
+  "skills": {
+    "deger": [
+      "D12.1",
+      "D13.2",
+      "D14.1",
+      "D16.3",
+      "D3.2",
+      "D3.3",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E2.2",
+      "E2.5",
+      "E3.2",
+      "E3.4",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/388"
+}

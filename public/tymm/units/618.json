@@ -1,0 +1,65 @@
+{
+  "unitId": 618,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Beden Eğitimi ve Oyun Dersi",
+  "title": "4. TEMA: FİZİKSEL AKTİVİTEYE KATILIYORUM SAĞLIKLI BÜYÜYORUM",
+  "hours": "30",
+  "description": "Bu temada öğrencilerin hareket ve sağlık arasındaki ilişkiyi kurabilmeleri; okul içi fiziksel aktiviteye katılabilmeleri; fiziksel aktivitelerde temizlik, dengeli beslenme, uygun kıyafet seçimi, ısınma ve soğuma gibi konular hakkında farkındalıklarının artırılabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEO.1.4.1",
+      "title": "Fiziksel aktivite ve sağlık ilişkisini fark edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "BEO.1.4.2",
+      "title": "Okul içi fiziksel aktiviteye katılabilme",
+      "processComponents": [
+        "a) Fiziksel aktivite düzeyini fark eder.",
+        "b) Fiziksel aktivite düzeyini geliştirmek için plan yapar.",
+        "c) Fiziksel aktiviteye ilişkin planı uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "beslenme, geleneksel çocuk oyunları, hareket, ısınma, soğuma, temizlik, uygun kıyafet, uyku, yeterli sıvı alımı",
+  "support": [
+    "Öğrencilerden sağlık ve fiziksel aktivite kavramlarına ilişkin görsel kartları eşleştirmeleri istenebilir. Konunun daha kalıcı olmasını sağlamak amacıyla grafik, resim, zihin haritası gibi görsellerle öğretim desteklenebilir.",
+    "Öğrencilere fiziksel aktivite ve sağlık konularını içeren çizgi film, animasyon, belgesel gibi eğitici içerikler izletilerek öğrenme süreci çeşitlendirilebilir. Fiziksel aktivite planı için gerçekleştirilecek aktiviteler küçük gruplar hâlinde yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden sağlıklı beslenme, düzenli uyku gibi konularda görsel kartlar hazırlamaları istenebilir. Fiziksel aktivite ve sağlıklı büyüme arasındaki ilişkiyi çevrelerindeki alan uzmanlarıyla görüşmeleri istenebilir.",
+    "Öğrenciler öğretmen rehberliğinde sağlıklı beslenme, uyku ve fiziksel aktiviteyle ilgili haftalık izledikleri videoları arkadaşlarına sunmaya teşvik edilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilerin kendi fiziksel aktivite planlarını uygulamaları için bir fiziksel aktivite çarkı tasarlama performans görevi verilebilir. Bu performans görevi süreç bileşenlerini içine alan ölçütlerden oluşan analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BEO.1.4.1. Öğrencilerden günlük hayatlarında katıldıkları fiziksel aktiviteleri ve bu aktivitelerin vücutlarına nasıl fayda sağlayacağıyla ilgili fikirlerini paylaşmaları istenir ( SDB1.1 , SDB2.1 ). Öğrencilerin fiziksel aktiviteler sırasında kıyafet ve ayakkabı tercihinin sağlık açısından önemi, fiziksel aktivite sırasında yeterli sıvı alımı, dengeli beslenme ve düzenli uyku konuları hakkında birbirlerine soru sorarak tartışma ortamı oluşturulur ( E3.8 , D13.1 , D13.4 , KB2.18 ). Fiziksel aktivite ortamını temiz tutma, kullanılan malzemelerin temizliği, havlu ile kıyafetlerin temizliği, fiziksel aktivitenin ruhsal sağlığa etkisi, kilo kontrolü, fiziksel aktivite sonrası temizlik ve fiziksel aktivite sonrası kıyafet değişimiyle ilgili konularda da bilgi sahibi olmaları sağlanır ( D18.1 , D18.2 ). Öğrencilerin ısınma ve soğuma hareketlerinin oyun, hareket gerektiren etkinlikler sırasında yaralanmaları önlemek için gerekli olduğunu öğrenmeleri ve bu hareketleri uygulamaları sağlanır ( E2.2 ). Öğrencilerden organize edilen geleneksel çocuk oyunları ve fiziksel aktiviteler sırasında nefes alışlarını gözlemlemeleri istenir. Oyun ve fiziksel aktiviteleri deneyimledikten sonra hangi aktivitede kendilerini daha rahat ya da zorlanmış hissettiklerini arkadaşlarıyla paylaşmaları sağlanır ( SDB1.1 ). Kalp atışlarını gözlemlemeleri için bir eli göğüslerinin ortasına, bir eli göğüs kemiklerinin altına koymaları istenir. Öğrencilerin dinlenme durumunda, koşarken veya yürüyüş sırasında, oyun ve fiziksel aktiviteler sırasında kalp atışlarındaki değişimleri fark etmeleri sağlanır. Öğrenciler gruplara ayrılır ve fiziksel aktivitelerin düşük (yavaş tempoda yürüyüş, ev işleri vb.), orta (ip atlamak, yüzmek vb.) ve yüksek şiddetli (tenis, tempolu dans vb.) örnekleri açıklanır. Farklı aktivite resimlerinin düşük, orta ve yüksek şiddet kategorilerine uygun şekilde sınıflandırılması ve aktivitelerin grup içinde tartışılması istenir ( SDB2.1 ). Fiziksel aktivite ve sağlık ilişkisiyle ilgili konular kontrol listesi kullanılarak değerlendirilebilir.",
+    "BEO.1.4.2. Öğrencilerden okulda yaptıkları merdiven çıkma, bahçede oynama, koşma, sekme gibi fiziksel aktivitelerin sıklığını, süresini ve şiddetini paylaşmaları istenir ( SDB2.1 ). Farklı fiziksel aktivite düzeylerinin (düşük, orta ve yüksek) ne ifade ettiği açıklanır. Fiziksel aktivite farkındalığını artırmak için açık veya kapalı alanlarda, farklı çevre ve hava koşullarında çeşitli geleneksel çocuk oyunları ve fiziksel aktiviteler düzenlenir. Bu aktivitelere aktif katılım durumlarıyla ilgili olarak öğrencilerden hem kendilerini hem de arkadaşlarını gözlemlemeleri beklenir ( SDB2.2 ). Öğrencilerden \"Haftada üç gün okulda ip atlayacağım.\", \"Günde 1-2 kez bahçe oyunlarına katılacağım.\" gibi çeşitli haftalık fiziksel aktivite hedefleri belirleyerek kendi fiziksel aktivite planlarını oluşturmaları istenir ( SDB1.2 ). Öğrencilerin hedefledikleri fiziksel aktivite planlarını azimli bir şekilde uygulamaları sağlanır ( D3.1 ). Fiziksel aktivite sırasında öğrencilerin yaptıkları hareketlerin vücutlarına etkilerini (nefes alışverişinin hızlanması, terleme, kalp atışının artması vb.) gözlemlemeleri sağlanır. Öğrencilere her bölümünde farklı aktiviteler olan bir fiziksel aktivite çarkı tasarlama performans görevi verilebilir. Haftalık planlarına eklemek için çarkı çevirerek aktivite seçimi yapmaları ve planlarını uygulamaları beklenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D13.4",
+      "D18.1",
+      "D18.2",
+      "D3.1"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/618"
+}

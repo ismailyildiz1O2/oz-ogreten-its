@@ -1,0 +1,44 @@
+{
+  "unitId": 81367005,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Uluslararası İlişkiler Dersi",
+  "title": "5. ÜNİTE: ULUSLARARASI ÖRGÜTLER",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ULI.5.1",
+      "title": "Uluslararası örgütlerin önemini, temel özelliklerini ve türlerini açıklar",
+      "processComponents": [
+        "1. Ünitenin, “Uluslararası İlişkilerde Üç Temel Yaklaşım” konusunun 5. kazanımı ile ilişkilendirilir.",
+        "2. Ünitenin, “Uluslararası Aktör Türleri” konusunun 1. kazanımı ile ilişkilendirilir.",
+        "Uluslararası sorunların çözümünde uluslararası örgütlerin rolünü örneklerle açıklayınız."
+      ]
+    },
+    {
+      "code": "ULI.5.2",
+      "title": "Hükûmetler arası uluslararası örgütlerin uluslararası ilişkiler açışından önemini açıklar",
+      "processComponents": [
+        "Hükûmetler arası örgütlerin çalışma alanlarına göre sınıflandırılması, amaçları ve görevleri üzerinde durulur.",
+        "2. Ünitenin, “Uluslararası Aktör Türleri” konusunun 1. kazanımı ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ULI.5.3",
+      "title": "Sivil toplum örgütlerinin uluslararası ilişkiler açısından önemini belirtir",
+      "processComponents": [
+        "2. Ünitenin, “Uluslararası Aktör Türleri” konusunun 1. kazanımı ile ilişkilendirilir.",
+        "Hükûmetler arası uluslararası örgütlerle hükûmet dışı uluslararası örgütleri çalışma alanları açısından karşılaştırınız."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163240412-Uluslararas%C4%B1%20ili%C5%9Fkiler.pdf"
+}

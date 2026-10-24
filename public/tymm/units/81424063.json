@@ -1,0 +1,64 @@
+{
+  "unitId": 81424063,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "63. ÜNİTE: KAVAL - KAVAL ÇALMA TEKNİKLERİ I",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.9.3.1",
+      "title": "İkinci, üçüncü ve dördüncü kademedeki seslerden oluşan etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.2",
+      "title": "Farklı nota sürelerinde yazılmış etütleri non legato (bağsız) seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.3",
+      "title": "Farklı nota sürelerinde yazılmış etütleri legato (bağlı) seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.4",
+      "title": "Farklı nota sürelerinde yazılmış etütleri staccato (kısa-kesik) seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.5",
+      "title": "El-kol ile vibrato tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.6",
+      "title": "Baş ile vibrato tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.7",
+      "title": "Dudak ile vibrato tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.8",
+      "title": "Parmak ile vibrato tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.9.3.9",
+      "title": "Nefes ile vibrato tekniğini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,106 @@
+{
+  "unitId": 163,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "3. TEMA: SÜRDÜRÜLEBİLİRLİK",
+  "hours": "20",
+  "description": "Bu tema Nanoteknoloji ve Sürdürülebilirlik bölümünden oluşmaktadır. Bu temada öğrencilerin yeşil hidrojen enerjisi eldesine yönelik hipotez oluşturmaları, nanoteknolojik ürünlerin seçimine yönelik eleştirel düşünmeleri, mikroplastik ve nanoplastiklerin etkilerini sorgulamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.11.3.1",
+      "title": "Evsel atıklardan fermantasyon yöntemi ile yeşil hidrojen enerjisi elde etme sürecine yönelik hipotez oluşturabilme",
+      "processComponents": [
+        "a) Evsel atıklardan fermantasyon yöntemi ile yeşil hidrojen enerjisi elde etme sürecini etkileyen faktörlere yönelik araştırma soruları belirler.",
+        "b) Yeşil hidrojen enerjisi elde etmek üzere seçilen evsel atık türünün hidrojen gazı miktarının değişimine etkisine yönelik neden-sonuç ilişkilerini belirler.",
+        "c) Neden-sonuç ilişkilerini araştırabilmek için yeşil hidrojen gazı eldesine yönelik bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler.",
+        "ç) Değişkenler arasındaki ilişkiyi belirlemek üzere deneyler yapar.",
+        "d) Hidrojen gazı miktarının değişimine neden olan faktörlere yönelik önermeler sunar."
+      ]
+    },
+    {
+      "code": "KİM.11.3.2",
+      "title": "Nanoteknolojik ürünlerin seçimine yönelik eleştirel düşünebilme",
+      "processComponents": [
+        "a) Nanoteknolojik ürünlerin potansiyel faydalarını ve olası zararlarını sorgular.",
+        "b) Sağlık, etik, güvenlik ve sürdürülebilirlik açılarından nanoteknolojik ürünlerin etkileri hakkında akıl yürütür.",
+        "c) Akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "KİM.11.3.3",
+      "title": "Mikroplastik ve nanoplastiklerin etkilerini sorgulayabilme",
+      "processComponents": [
+        "a) Mikroplastik ve nanoplastiklerin etkilerine ilişkin merak ettiği konuyu tanımlar.",
+        "b) Mikroplastik ve nanoplastiklerin çevre, sağlık, gıda, enerji, malzeme bilimi, kozmetik ve kişisel bakıma etkileri hakkında araştırma soruları sorar.",
+        "c) Mikroplastik ve nanoplastiklerin çevre, sağlık, gıda, enerji, malzeme bilimi, kozmetik ve kişisel bakıma etkileri hakkında bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Topladığı bilgileri kullanarak mikroplastik ve nanoplastiklerin çevre, sağlık, gıda, enerji, malzeme bilimi, kozmetik ve kişisel bakıma etkilerine ilişkin çıkarımlar yapar"
+      ]
+    }
+  ],
+  "keyConcepts": "mikroplastik, nanoplastik, nanoteknoloji, yeşil hidrojen enerjisi",
+  "support": [
+    "Öğrencilere nanoteknolojik ürünlerin çevreye olumsuz etkilerini içeren belgeseller izletilebilir. Öğrenciler, nanoteknolojik malzemelerin günlük hayatta kullanımı ile ilgili olumlu örnekler ile çevreye zarar veren örnekler hakkında arkadaşlarıyla tartışabilir; dijital veri tabanlarından öğretmen desteği ile veriler elde edebilir. Verilerini broşür, poster, sunum veya kamu spotu gibi çalışmalar hazırlayarak arkadaşlarına sunabilir.",
+    "Öğrencilere plastik su mataraları, plastik bardaklar ve termal kâğıtlarda kullanılan serbest BPA'nın insan sağlığına etkilerini içeren belgeseller izletilebilir. Öğrenciler, izlenimlerini aktardıkları bir sunum yapabilir. Nanoteknolojik materyallerin bilinçli kullanımı hakkında arkadaşlarıyla tartışabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere hidrojen eldesinde kullanılan renk kodu terminolojisi (gri, turkuaz, mavi ve yeşil hidrojen) hakkında araştırma görevi verilebilir. Öğrenciler, bu süreçte hidrojen gazının farklı elde edilme yöntemlerinin avantaj ve dezavantajlarını ayrıntılı olarak inceleyebilir. Ayrıca biyogaz ile yeşil hidrojenin enerji kaynağı olma bakımından karşılaştırılmasına ilişkin araştırma projesi verilebilir.",
+    "*Öğrencilere arama kurtarma çalışmalarına destek sağlamak için tasarlanan giyilebilir teknolojiler, güneş enerjisi ile çalışan konum belirleme cihazları ve hareket enerjisi ile şarj edilebilen bataryalar hakkında araştırma projesi verilebilir. Nanoteknoloji ile güneş enerjisi dönüşüm verimliliğini artırarak karbon ayak izini azaltmaya ve sürdürülebilir enerji üretimini teşvik etmeye yönelik proje görevleri verilebilir. Öğrenciler, bu proje görevleriyle çevre dostu enerji çözümlerine katkıda bulunabilir.",
+    "*Öğrencilere nanoteknolojik malzemelerin sürdürülebilirliği ve çevreye etkileri ile ilgili araştırma görevi verilebilir. Ayrıca öğrencilerden nanoteknolojik malzemelerin üretiminden kullanımına kadar çevreye etkilerini çevre etki analizi yaparak belirlemeleri istenebilir. Öğrenciler öğretmenlerinin desteğiyle nanoteknolojik malzemelerin çevreye etkileri hakkında toplumun bilgi düzeylerini belirlemek amacıyla anket geliştirebilir, araştırma kapsamında anketleri uygulayarak veri toplayabilir, verileri analiz edebilir. Elde ettiği verilerin sonuçlarını bilim yarışmaları, sempozyumlar, kongreler, bilim sergileri gibi alanlarda sunabilir.",
+    "Öğrenciler, plastik içerikli maskelerin kullanılmasının insan sağlığına etkilerini araştırabilir. Ayrıca genetik materyale etki ederek hücresel düzeyde hasara neden olabilen mikroplastikler hakkında toplumun farkındalık düzeyini artırmak ve bilinçli maske kullanımını teşvik etmek amacıyla etkinlikler yürütebilir. Etkinliklerini yaygınlaştırmak amacıyla kamu spotu, broşür hazırlayabilir veya sunum yapabilir.",
+    "Öğrencilere günlük hayatta sıkça karşılaştığı market fişleri, banka sıra numarası kâğıtları, elektrik, su ve doğal gaz faturaları gibi ürünlerde bulunan ve sağlığa zararlı olduğu bilinen bisfenol A (BPA) maddesi hakkında toplumsal farkındalığı artırmak için bir proje görevi verilebilir. Öğrenciler; özellikle patates kızartması, pizza gibi yağlı hazır yemek ürünlerinin termal kâğıtlarla teması sonucu BPA'nın yiyeceklere geçişi ve market fişleriyle temas edilmesi dolayısıyla deriden vücuda sızması gibi konular üzerinde araştırma yapabilir. Toplumu bilgilendirmek amacıyla el ilanları, kamu spotları hazırlayabilir veya sunum yapabilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında yansıtma notu, öz değerlendirme formu, akran değerlendirme formu, performans görevi, deney raporu ve sınıf içi tartışma kullanılabilir.",
+    "Öğrenciler, performans görevi çerçevesinde evsel atıklardan fermantasyon ile yeşil hidrojen gazı elde etmeye ilişkin tasarladığı deneyin uygulama basamaklarını gösteren ve yaptıkları deneyin sonuçlarını içeren bir rapor hazırlayabilir. Performans görevi \"araştırma sorularını belirleyebilme, neden-sonuç ilişkisi belirleyebilme, bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirleyebilme, deney yapabilme ve hidrojen gazı miktarının değişimine neden olan faktörleri belirleyebilme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.11.3.1",
+    "Öğrenciler, Uluslararası Hidrojen Enerjisi Teknolojileri Merkezi (ICHET) tarafından İstanbul'da uygulamaya konulan Gezici Hidrojen Evi, Yakıt Pilli Yolcu Taşıma Aracı, Hidrojen Yakıt Pilli Forklift ve İDO Yakıt Pilli Kesintisiz Güç Kaynağı gibi projelerle ilgili gazete haberlerini inceler ya da bu projeler hakkında bilgi toplar ( OB2 , OB4 ) . Öğrencilerin bu projelerde hidrojen enerjisinin kullanım yollarına ilişkin fikir yürütmeleri sağlanır. Hidrojen enerjisinin ne olduğu ve nasıl elde edilebileceğine ilişkin tanıtıcı bilgileri inceleyen öğrencilerden yanma tepkimesi sonucunda açığa çıkan ürünleri düşünerek hidrojen enerjisinin çevresel etkilerini açıklamaları istenir. Sınıf içi tartışmalar sırasında öğrencilerin hidrojenin çevresel sorunlar oluşturmayacağı, sürdürülebilir gelişime uygun olarak yenilenebilir kaynaklardan ve atıklardan elde edilebileceği için temiz enerji kaynağı olduğu ve yeşil hidrojen olarak adlandırılabileceği sonucuna ulaşmaları sağlanarak çevreyi, canlıları ve sürdürülebilirliği önemsemelerine, duyarlılık ve temizlik değerlerini kazanmalarına katkıda bulunulur ( SDB2.1 , SDB2.3 , D5.2 , D18.3 , OB8 ) . Öğrencilere fermantasyon hakkında sorular yöneltilir ve evsel atıklardan fermantasyon yöntemi ile hidrojen gazı elde edilmesi, gösteri deneyi olarak yapılabilir. Deney sırasındaki fermantasyon çeşitli bakterilerle gerçekleştirilebilir. Bu mümkün olmadığı takdirde maya kullanımı önerilir. Öğrencilerden gruplara ayrılarak iş birliği içinde hidrojen eldesinde kullanacakları evsel atıklara karar vermeleri istenir. Evsel atıklardan fermantasyon ile elde edilebilecek hidrojen gazı miktarını etkileyen faktörlere yönelik araştırma sorularının belirlenmesi sağlanır ( SDB2.2 , OB3 ) . Öğrencilerden evsel atık türlerinden üçünü seçmeleri ve yeşil hidrojen enerjisi elde etmek üzere seçtikleri evsel atık türünün hidrojen gazı miktarının değişimine etkisine yönelik neden-sonuç ilişkilerini belirlemeleri istenir. Öğrenciler, oluşturdukları araştırma soruları bağlamında evsel atıklardan yeşil hidrojen gazı eldesine yönelik bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler ve fermantasyon deneyini her bir evsel atık için gerçekleştirir ( KB2.2 ). Gruplar, deney sonuçlarını diğer deney gruplarıyla paylaşır ve deney verilerine dayanarak hidrojen gazı miktarının değişimine neden olan faktörlere yönelik önermeler sunar ( SDB2.1 , SDB2.2 ) . Evsel atıkların içeriği ile fermantasyon sonucu elde edilen hidrojen gazı miktarı arasında ilişki kurulabilir. Öğrencilere fermantasyonun karanlık ortamda yapılmasının üretilen/elde edilen hidrojen gazı miktarını etkileyip etkilemeyeceği sorulabilir. Öğrencilerden fermantasyon yönteminin elde edilen hidrojen gazı miktarına olan etkisini belirlemek üzere hipotez oluşturmaları istenebilir. Evsel atık miktarının ve ortam sıcaklığının üretilen yeşil hidrojen gazı miktarına etkisine yönelik hipotez oluşturmaları da istenebilir. Öğrenciler, yeterli süre varsa grup arkadaşlarıyla hipotez oluşturma etkinliklerini gerçekleştirilebilir ( SDB2.2 ) . Ders süresinin yeterli olmaması durumunda değişkenler arası ilişkiler için deneysel süreç yapılmayabilir. Süreç, hipotez oluşturma ve planlama şeklinde de gerçekleştirilebilir. Öğrenciler, bu performans görevi çerçevesinde evsel atıklardan fermantasyon ile yeşil hidrojen elde etmeye ilişkin tasarladığı deneyin uygulama basamaklarını gösteren, yaptıkları deneyin sonuçlarını ve bu sonuçlara göre yapılabilecekleri içeren bir rapor hazırlayabilir ( SDB3.3 , OB6 ) . Çalışma öncesinde öğrencilerden bir form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini belirlemeleri istenebilir ( SDB1.1 ) . Ayrıca öğrencilerden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve bu süreçte neleri daha farklı yapabileceğini belirlemeleri istenebilir ( SDB1.2 , SDB1.3 ) .",
+    "KİM.11.3.2",
+    "Etkinlik kâğıdında sağlık, teknoloji, tekstil, gıda gibi çeşitli alanlarda kullanılan nanoteknolojik ürünlere örnekler verilir ve bu ürünlerin özellikleri, kullanım amaçları ve sağladıkları yararlara ilişkin kısa tanıtıcı bilgiler sunulur. Etkinlik kâğıdında nanoteknolojik ürünlerin çevresel etkileri hakkındaki haberlere ve bilimsel verilere de yer verilir. Gelişmelerin takip edilmesinin çalışkanlık değerine katkısını fark etmeleri sağlanır ( D3.3 ) . Öğrencilerden verilen bilgileri ve görselleri kullanarak nanoteknolojik ürünlerin faydalarının neler olduğunu ve olası zararlarının neler olabileceğini belirlemeleri istenir ( E3.7 , OB1 , OB4 ) . Grup çalışmasıyla öğrencilerin nanoteknolojik ürünlerin potansiyel faydalarını ve olası zararlarını kanıtlarla destekleyerek sorgulamaları sağlanır ( E3.10 , SDB2.2 ) . Ardından öğrencilerden nanoteknolojik ürünlerin sağlık, etik, güvenlik ve sürdürülebilirlik açılarından etkileri hakkında akıl yürütmeleri istenerek sağlıklı yaşam ve duyarlılık değerlerine vurgu yapılır ( KB2.16.1 , SDB2.3 , D5.2 , D13.4 , OB7 ) . Öğrenciler nanoteknolojik ürünler temelinde ya da daha genel bir bakış açısıyla ulaştıkları çıkarımları etkinlik kâğıdında veya sınıf içi tartışmalarında yansıtır. Öğretmen, grupların ya da bireysel görüşlerin yansıtıldığı sınıf içi tartışma sürecinde görüş bildirmeden ulaşılan tüm çıkarımları dinler ve çıkarımların altında yatan nedenleri irdeler ( KB2.14 ) . Öğrenciler, sosyobilimsel konular arasında sayılabilecek nanoteknolojik ürünlerin sentezi ve kullanımı konusunda çok farklı fikirler üretebilir ve farklı görüşleri savunabilir. Bu savunmaların saygı değeri çerçevesinde olması sağlanır ( D14.1 , SDB2.1 ) . Öğrenciler arasında nanoteknolojik ürünlerin üretilmesi gerektiğini düşünenler olabileceği gibi sadece sağlık sektörü gibi belirli alanlarda kullanılmak üzere üretilmesi gerektiğini, diğer alanlarda kullanılmaması gerektiğini düşünenler de olabilir. Bu süreçte eleştirel düşünme becerilerini desteklemek için öğrencilerden fikirlerine ilişkin birden fazla gerekçe sunmaları istenebilir ( SDB3.3 ) . Öğrencilere ders öncesi ve sonrasında nanoteknolojik ürünlerin olası fayda ve zararları hakkında değişen görüşlerini özetlediği bir yansıtma notu yazdırılabilir ( SDB1.1 , OB8 ) .",
+    "KİM.11.3.3",
+    "Öğrencilere pandemi sürecinde kullandıkları maskeler hakkında sorular yöneltilir ve bu maskelerden plastik içerikli olanları belirlemeleri istenir. Bu maskeleri kullanırken maskelerden plastik parçaların kopma ihtimalinin olup olmadığı ve kopan parçaların solunum sisteminde birikme ihtimalinin olup olmadığı sorularak öğrencilerin sağlıklı yaşam değeri kapsamında yorum yapmaları istenir ( D13.4 ) . Ayrıca çevreye atılmış plastik içerikli maskelerin çevreye etkilerinin neler olabileceği sorularak öğrencilerin çevresel temizliğe önem vermeleri sağlanır ( D18.3 ) . Öğrencilerden tek kullanımlık plastik içerikli polipropilen maske örneğinden yola çıkarak mikroplastik ve nanoplastiklerin etkilerine ilişkin merak ettikleri bir konuyu belirleyerek araştırmaları istenir. Benzer ya da aynı konuyu merak eden öğrencilerden gruplar oluşturulur. Gruplar; mikroplastik ve nanoplastiklerin çevre, sağlık, gıda, enerji, malzeme bilimi, kozmetik ve kişisel bakıma olan etkileri hakkında tartışarak araştırma soruları sorar ( SDB2.1 , SDB2.2 , SDB2.3 , OB8 ) . Araştırma sorularına cevaplar bulmak amacıyla çeşitli kaynaklardan bilgi toplar ya da öğretmen çeşitli kaynaklardan bilimsel bilgiler verebilir. Böylece öğrencilerin araştırmacı ve sorgulayıcı olmaları teşvik edilerek çalışkanlık değerini kazanmaları desteklenebilir ( D3.3 ). Öğrenciler, ulaştığı bilgileri kullanarak mikroplastik ve nanoplastiklerin potansiyel faydaları ve olası olumsuz etkilerini belirler. Öğrencilerin bu etkilerin hangi durumlarda daha az olacağına ilişkin tahminlerde bulunması sağlanarak çevreye ve canlılara karşı duyarlı olmaları gerektiğine vurgu yapılır ( D5.2 ) . Topladığı bilgilerin doğruluğunu farklı kaynaklarla değerlendiren öğrenciler; mikroplastik ve nanoplastiklerin çevre, sağlık, gıda, enerji, malzeme bilimi, kozmetik ve kişisel bakıma etkileriyle ilgili çıkarımlar yapar ( KB2.10 , E3.10 , OB1 ) . Öğrencilere ders öncesi ve sonrasında mikroplastik ve nanoplastiklerin çevresel etkileri hakkında değişen görüşlerini özetlediği bir yansıtma notu yazdırılarak bu notu aileleriyle paylaşmaları öğrencilerden istenebilir. Mikroplastik ve nanoplastiklerin çevre, sağlık, gıda, enerji, malzeme bilimi, kozmetik ve kişisel bakıma olan olası faydaları ve olumsuz etkileri hakkında bir poster hazırlayarak bu posteri arkadaşlarına ve ailesine sunmaları istenebilir ( D2.2 ) . Öğrenciler, diğer öğrencilerin posterlerini \"mikroplastik ve nanoplastiklerin olumlu ve olumsuz etkilerini doğru belirleyebilme\" ölçütünü içeren bir akran değerlendirme formu ile değerlendirilebilir ( SDB1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D14.1",
+      "D18.3",
+      "D2.2",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.14",
+      "KB2.16.1",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB6",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/163"
+}

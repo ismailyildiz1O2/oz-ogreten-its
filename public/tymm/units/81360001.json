@@ -1,0 +1,78 @@
+{
+  "unitId": 81360001,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Tıp Bilimine Giriş Dersi",
+  "title": "1. ÜNİTE: TIP VE TEMEL TIP BİLİMLERİ",
+  "hours": "20",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TBG.1.1",
+      "title": "Tıbbın ve temel tıp bilimlerinin işlevlerini açıklar",
+      "processComponents": [
+        "Tıbbın multidisipliner yapısı açıklanır.",
+        "Anatomi, histoloji, fizyoloji, mikrobiyoloji, immünoloji, farmakoloji, genetik, biyokimya ve nöroloji disiplinleri kısaca tanıtılır.",
+        "Sağlık, sağlıgın korunması ve sağlık turizmi kavramları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.1.2",
+      "title": "Temel tıp bilimlerinin kapsamını ve tıp eğitimindeki yerini açıklar",
+      "processComponents": [
+        "Anatomi, histoloji, fizyoloji, mikrobiyoloji, immünoloji, farmakoloji, genetik, biyokimya ve nöroloji disiplinleri üzerinde durulur.",
+        "Amfi dersleri, dijital insan bedeni uygulamaları, mikroskop uygulamaları, hasta başı dersler, simülasyon eğitimleri gibi farklı eğitim metodlarının farklı disiplinlerdeki kullanımları açıklanır."
+      ]
+    },
+    {
+      "code": "TBG.1.3",
+      "title": "Palyatif tıp uygulamalarını araştırır",
+      "processComponents": []
+    },
+    {
+      "code": "TBG.1.4",
+      "title": "Tıbbi bilimlerin tarihsel gelişimini açıklar",
+      "processComponents": [
+        "Farklı kültürlerdeki uygulamalara değinilerek tıbbın tarihsel gelişimi incelenir.",
+        "Hipokrat ve İbn-i Sina'nın tıp tarihindeki önemi açıklanır.",
+        "Tıbbi uygulamaların tarihsel gelişiminde bilimsel metodların katkıları incelenir.",
+        "Geleneksel ve tamamlayıcı tıp uygulamaları (müzik ve su ile tedavi yöntemleri v.b) üzerinde durulur.",
+        "Kayseri Gevher Nesibe Şifahanesi ve diğer tarihî tıp merkezlerinde uygulanan tedavi yöntemleri örneklendirilir."
+      ]
+    },
+    {
+      "code": "TBG.1.5",
+      "title": "Tıp tarihindeki önemli gelişmeleri açıklar",
+      "processComponents": [
+        "Antibiyotiklerin keşfi, tıbbi görüntüleme, doku kültürü, anestezi kullanımı, aşılama ve DNA yapısının keşfi aşamalarının tıp dünyasındaki etkileri açıklanır.",
+        "Tıp tarihindeki önemli gelişmelere katkı sunan Türk bilim insanlarına özellikle değinilir."
+      ]
+    },
+    {
+      "code": "TBG.1.6",
+      "title": "Tıbbi terminolojiyi oluşturan diller ile tıptaki gelişmeler arasındaki bağlantıyı fark eder",
+      "processComponents": [
+        "Latince ve Antik Yunancanın tıp terminolojisinin oluşumundaki katkısından ve bu terminolojinin tıbbi bilimlerde ortak dil hâline gelmesi ile bu alandaki gelişmelerin hızlandığından bahsedilir.",
+        "Tıbbi terminolojinin günlük konuşma dilinden ayrılmasının gerekliliği tartışılır.",
+        "İlaç prospektüsleri okur yazarlığı ile ilgili çalışma yaptırılır."
+      ]
+    },
+    {
+      "code": "TBG.1.7",
+      "title": "Tıbbi deontolojinin önemini açıklar",
+      "processComponents": [
+        "Tıp doktorlarının mesleki etkinlikleri sırasında hastalarına, hasta yakınlarına, meslektaşlarına ve topluma karşı uymak zorunda olduğu kurallar üzerinde durulur.",
+        "Sağlık çalışanlarınnın hak ve sorumlulukları üzerinde durulur.",
+        "Hasta hakları ve sorumlulukları üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112410022320-t%C4%B1pbilimi.pdf"
+}

@@ -1,0 +1,84 @@
+{
+  "unitId": 35,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "3. ÜNİTE: VARLIK FELSEFESİ",
+  "hours": "8",
+  "description": "Bu ünitede öğrencilerin varlık felsefesinin temel kavram, konu ve problemlerini açıklayarak bu alandaki düşünce ve argümanlar üzerine felsefi muhakeme yapması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.3.1",
+      "title": "Varlık felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme",
+      "processComponents": [
+        "a) Varlık felsefesinin konusunu ve temel kavramlarını açıklar.",
+        "b) Varlık felsefesinin temel problemlerini açıklar.",
+        "c) Varlık felsefesinin temel problemlerine yönelik düşünce ve argümanları değerlendirir.",
+        "ç) Varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceler."
+      ]
+    }
+  ],
+  "keyConcepts": "fenomen, idea, madde, oluş, öz, töz, varlık, varoluş",
+  "support": [
+    "Varlık felsefesinin temel kavramlarına yönelik öğrenme-öğretme uygulamalarında sunulan kavram listesinin akran desteği ile incelenmesi ve kavramların anlaşılması sağlanabilir. Varlık felsefesinin temel problemleri ile düşünce ve argümanlarını açıklayan sadeleştirilmiş metinler verilebilir. Metin inceleme sürecinde sunulan metindeki kavram, problem ve argümanlar öğrenciye doğrudan verilerek bunları kendi cümleleriyle ifade etmeleri istenebilir.",
+    "Aile/Toplum Katılımı",
+    "Varlık felsefesinin temel kavramlarına yönelik öğrenme-öğretme uygulamalarında sunulan kavram listesinin akran desteği ile incelenmesi ve kavramların anlaşılması sağlanabilir. Varlık felsefesinin temel problemleri ile düşünce ve argümanlarını açıklayan sadeleştirilmiş metinler verilebilir.",
+    "Metin inceleme sürecinde sunulan metindeki kavram, problem ve argümanlar öğrenciye doğrudan verilerek bunları kendi cümleleriyle ifade etmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Filozofların varlığı açıklarken kullandıkları kavramlar (G. W. F. Hegel'in \"geist\", M. Heidegger'in \"dasein\", G. W. Leibniz'in \"monad\", Farabi'nin \"ilk varlık\", I. Kant'ın \"fenomen-numen\" vb.) araştırılıp dijital araçlar kullanılarak kelime bulutu oluşturulabilir.",
+    "İbn Sina'nın \"Uçan Adam\" metaforu ile Descartes'ın \"Cogito\" argümanı karşılaştırılarak; insanın öz-bilinci ve kendi varlığını idraki konusundaki benzerlik ve farklılıkları gösteren interaktif bir dijital materyal hazırlanabilir.",
+    "T. Nagel'ın \"Yarasa Olmak Nasıl Bir Şeydir?\" adlı eserinden hareketle öteki zihinlerin imkânı problemi yorumlanabilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktısı; çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrenciler varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek metin inceleme formunu doldurmaları istenebilir. Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin, argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi ve eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.3.1",
+    "Öğrencilerin varlık felsefesinin konusunu ve temel kavramlarını açıklaması amaçlanır. Bunun için;",
+    "• Öğrencilerden günlük deneyimlerinden ve sezgilerinden hareketle \"varlık\", \"yokluk\", \"gerçeklik\" ve \"hayal\" kavramlarına ilişkin düşüncelerini gerekçeleriyle açıklamaları istenir. Varlık felsefesinin temel kavramları (fenomen, idea, madde, oluş, öz, töz, varlık, varoluş) hakkında bilgi görseli verilerek öğrencilerin bu kavramların anlamlarını kendi cümleleriyle ifade etmeleri sağlanır ( OB1 ).",
+    "• Öğrencilerden felsefenin ve bilimin varlığı ele almasının karşılaştırılması istenir. Ardından öğrencilere metafizik ve ontoloji ilişkisini yansıtan yapılandırılmış kısa bir metin verilerek onlardan metafizik ve ontolojinin benzer ve farklı yanlarını ifade etmeleri beklenir ( KB2.7 ). Sürecin sonunda öğrencilerin varlık felsefesinin konusu hakkında çıkarım yapmaları sağlanır.",
+    "Öğrencilerin varlık felsefesinin temel problemlerini (varlığın var olup olmadığı, varlığın ne olduğu) açıklamaları ve bu problemlere yönelik düşünce ve argümanları değerlendirmeleri amaçlanır. Bunun için;",
+    "• \"Varlık var mıdır? Varsa gerçekten var olan nedir?\" soruları sorularak öğrencilerin varlığın var olup olmadığı ile varlığın ne olduğu problemlerini keşfetmeleri sağlanır ( E1.1 ). Süreçte öğrencilere varlığın soorgulanmasını sağlayacak nitelikte bir düşünce deneyi verilir ve yönlendirici sorular (Varlığın gerçekliğinin sorgulanması neden önemlidir? Rüyaları, sanal ortamları ve simülasyonları gerçeklikten ayıran nedir? Varlığın olmadığı düşüncesi hangi sonuçları doğurur? Gerçek varlıklar nelerdir? vb.) sorularak onlardan söz konusu problemleri kendi cümleleriyle açıklamaları istenir ( OB1 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "• Öğrencilerin varlığın var olup olmadığına yönelik ne gibi kanıtların sunulabileceği, eğer varlık varsa ne olduğu üzerine düşüncelerini açıklayabilecekleri tartışma ortamı sağlanır ( KB2.18 ) . Tartışmada öğrencilerden davranışlarında kontrollü olmaları, görüşlerini açık bir şekilde ifade etmeleri, etkin dinlemeleri ve birbirlerinin sözünü kesmemelerine dikkat edilir ( E3.5 , SDB2.1 , D12.2 ).",
+    "• Varlık felsefesinin akımlarına yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada varlık felsefesinin temel problemlerinden doğan felsefi akımlar (nihilizm, realizm, idealizm, materyalizm, düalizm, oluş felsefesi, fenomenoloji ve varoluşçuluk) ile öne çıkan temsilcilerin açıklandığı bilgi görselleri verilerek öğrencilerin söz konusu akımların görüş ve argümanlarını belirlemeleri, bunların benzerlik ve farklılıklarını değerlendirmeleri sağlanır ( KB3.3 ). Nihilizmin genel olarak varlığı kabul etmediği, realizmin ise varlığı kabul ettiği ve diğer akımların realizmin bir yansıması olduğu vurgulanır. Bu aşamada soru-cevap öğretim tekniği kullanılabilir. Öğrencilerden iş birlikli olarak felsefi akımların görüş ve argümanları ile temsilcilerini içeren soru kartları hazırlamaları ve bunlardan hareketle bilgi yarışması yapmaları istenir ( SDB2.2 , D4.1 ). Süreçte öğrencilerden arkadaşlarının cevaplarını saygı ve nezaket çerçevesinde değerlendirmeleri sağlanır ( D14.1 ).",
+    "Öğrencilerin varlık felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları incelemesi amaçlanır. Öğrencilere öncelikle felsefi metnin nasıl incelendiği hakkında bilgi görseli verilir. Bundan hareketle öğrencilerin felsefi metin inceleme ölçütlerini listelemeleri sağlanır ( KB2.4 ). Metinde geçen felsefi kavramların, problemlerin ve argümanların belirlenmesinin önemi vurgulanır. Söz konusu argümanların gerekçelerinin gösterilmesinin ve eleştirel olarak değerlendirilmesinin gereği üzerinde durulur. Ardından öğrencilere bir performans görevi verilir. Bunun için;",
+    "-Platon'un Phaidon,",
+    "-Aristoteles'in Metafizik,",
+    "-Thales, Anaksimandros ve Anaksimenes'in Fragmanlar,",
+    "-İbni Sina'nın Metafizik,",
+    "-R. Descartes'ın Metafizik Üzerine Düşünceler,",
+    "-J. P. Sartre'ın Varoluşçuluk,",
+    "-Hilmi Ziya Ülken'in Varlık ve Oluş adlı eserlerinden kısaltılan veya alıntılanan metinler, öğrencilerin de görüşleri alınarak dengeli bir şekilde dağıtılır.",
+    "Öğrencilere bireysel ya da iş birlikli olarak metin inceleme formu doldurtulur ve çalışmalarını paylaşmaları sağlanır ( E3.7 ). Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin ve argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi, eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir. Bu süreçte öğrenciler çeşitli fikir, argüman ve yeni bilgilere açık olur; görev ve sorumluluklarını etik ilkelere uygun bir şekilde zamanında yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D14.1",
+      "D16.3",
+      "D3.3",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.5",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.4",
+      "KB2.7",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/35"
+}

@@ -1,0 +1,45 @@
+{
+  "unitId": 81360003,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Tıp Bilimine Giriş Dersi",
+  "title": "3. ÜNİTE: TIBBİ ÖLÇME VE GÖRÜNTÜLEME YÖNTEMLERİ",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TBG.3.1",
+      "title": "İnsan vücudundaki sistemlerin işleyişi hakkında bilgi sağlayan ölçme yöntemlerinin tıptaki önemini açıklar",
+      "processComponents": [
+        "Biyokimyasal ve biyofiziksel ölçme yöntemleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.3.2",
+      "title": "Biyokimyasal ölçme yöntemlerini açıklar",
+      "processComponents": [
+        "Hormon testleri, hemogram testleri, fibrojen testleri ile kan grubunu veya kanın pıhtılaşma süresini ölçen testler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.3.3",
+      "title": "Biyofiziksel ölçme yöntemlerini açıklar",
+      "processComponents": [
+        "Biyoelektriksel iletkenlik (EEG), ultrasonografi (USG), manyetik rezonans görüntüleme (MR), elektromiyografi (EMG) ve elektrokardiyografi (EKG) üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TBG.3.4",
+      "title": "Tıbbi görüntüleme yöntemlerinin seçiminde dikkat edilecek hususları açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112410022320-t%C4%B1pbilimi.pdf"
+}

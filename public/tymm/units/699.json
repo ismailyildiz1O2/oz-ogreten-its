@@ -1,0 +1,84 @@
+{
+  "unitId": 699,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "3. TEMA: HAYALİMDEKİ OYUN",
+  "hours": "10",
+  "description": "Bu temada öğrencilerin tasarlayacakları özgün oyunlarda güvenli ortama yönelik önleyici tedbirler alabilmeleri, oyunların farklı özelliklerini birleştirerek özgün bir oyun oluşturabilmeleri ve tasarladıkları oyunlarda adil oyun anlayışına uygun davranabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.5.3.1",
+      "title": "Tasarlayacakları oyunlarda güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Tasarlayacakları oyunlarda ortaya çıkabilecek riskleri belirler.",
+        "b) Tasarlayacakları oyunlarda belirlenen risklere yönelik önleyici tedbirler alır."
+      ]
+    },
+    {
+      "code": "BES.5.3.2",
+      "title": "Oyunların farklı özelliklerinden yararlanarak özgün bir oyun sentezleyebilme",
+      "processComponents": [
+        "a) Tasarlayacağı oyunun özelliklerini belirler.",
+        "b) Tasarlayacağı oyunun özellikleri arasında ilişki kurar.",
+        "c) Özgün bir oyun oluşturur."
+      ]
+    },
+    {
+      "code": "BES.5.3.3",
+      "title": "Tasarlanan oyunlarda adil oyun anlayışına uygun davranabilme",
+      "processComponents": [
+        "a) Tasarlanan oyunlarda adil oyun anlayışını açıklar.",
+        "b) Tasarlanan oyunlarda adil oyun anlayışına uygun hareket eder."
+      ]
+    }
+  ],
+  "keyConcepts": "adil oyun, güvenli ortam, oyun, tasarı",
+  "support": [
+    "Yazılı, görsel ve dijital materyaller kullanılarak birbirinden farklı oyunların özelliklerini içeren özgün oyun tasarlamaları desteklenebilir. Tasarlanan oyunların özelliklerini (oyuncu sayısı, oyun alanı vb.) kendi seviyelerine uygun hâle getirmeleri istenerek oyuna katılım durumları artırılabilir."
+  ],
+  "enrichment": [
+    "Farklı ülkelerden oyun örneklerini incelemeleri istenip, kendi tasarlayacakları oyunlara ilişkin bileşenleri belirlerken bu oyunların özelliklerinden yararlanmaları sağlanabilir. Öğrencilerden tasarladıkları oyunların patentini almak ile ilgili araştırma yapmaları istenebilir. Tasarladıkları özgün oyunları farklı grupların denemesi sağlanarak verilen dönütler çerçevesinde oyunu yeniden yapılandırmaları istenebilir. Tasarladıkları oyunlara çeşitli engel durumlarına sahip arkadaşlarının da katılabilmesi için oyuna dair çeşitli düzenlemeler yapmaları istenebilir. Tasarlanan özgün oyunlarda kullanılan malzemelere geri dönüştürülebilir malzemeler (karton, plastik şişe vb.) dâhil edilerek çevresel farkındalık ile süreç zenginleştirilebilir. Adil oyun anlayışını içeren senaryolar dâhil edilerek süreci canlandırmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları kontrol listesi, öz değerlendirme formları ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak özgün bir şekilde oluşturulan oyunların özelliklerini içeren poster oluşturma ve bu oyunlara ilişkin materyal tasarlama verilebilir. Performans görevlerinde süreç bileşenlerini içine alan bütüncül dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BES.5.3.1. Öğrencilere oyunlarda güvenli bir ortam oluşturmanın, olası riskleri en aza indirmenin neden önemli olduğu ile ilgili sorular sorulur ve öğrencilerin tasarlayacakları oyunlara yönelik ortamın güvenli olup olmadığına ilişkin kontrol çalışması yapmaları sağlanır. Öğrencilerden küçük gruplara ayrılarak kontrol listesi oluşturmaları istenir. Listede zeminin güvenli olup olmadığı, malzemelerin hasarlı veya risk oluşturabilecek durumda olup olmadığı; alandaki sabit direk, kenar veya engellerin riskleri yer alır. Öğrencilerin oluşturulan listeye göre alanı kontrol ederek oyunlarda ortaya çıkabilecek riskleri belirlemeleri sağlanır ( SDB2.2 , SDB3.3 , KB2.2 ). Gruplardan belirledikleri riskleri birbirleri ile paylaşarak ortaya çıkabilecek sorunları değerlendirmeleri istenir ( KB2.17 , OB7 ). Öğrencilerin belirledikleri risklere yönelik çözüm önerileri geliştirerek önleyici tedbirler almaları sağlanır. Sabit direklerin ve keskin kenarların çevresinin yumuşak malzemeler ile kaplanması, oyun sınırlarının belirlenmesi ve işaretlenmesi, kaygan zeminler için oyun alanının değiştirilmesi, çevrede zarar görebilecek bitkilerin oyun alanı dışında bırakılması gibi çözüm önerileri sunmaları sağlanır ( SDB3.3 , D5.2 ). Sundukları çözüm önerilerini küçük gruplar hâlinde yardımlaşarak uygulamaları ve güvenli ortam oluşturmaları istenir ( D20.2 , KB3.2 ). Öğrencilerin tasarlayacakları oyunlara ilişkin riskleri belirleme, çözüm önerileri geliştirme ve güvenli bir ortam oluşturmadaki bireysel katkılarını analiz etmeleri ve öz değerlendirme formu ile süreci değerlendirmeleri sağlanabilir.",
+    "BES.5.3.2. Öğrencilerden sokakta, evde ve okulda arkadaşlarıyla oynadıkları oyunlardan örnekler vermeleri istenir ve verdikleri örneklerden birkaçı seçilerek bunları oynamaları sağlanır ( SDB1.1 ). Oynadıkları oyunlarda kullanılan özelliklerin (oyunun amaçları, malzemeler, kurallar, stratejiler, roller, alan düzeni vb.) neler olduğunu belirlemeleri istenir ( KB1 ). Öğrenciler gruplara ayrılır ve her grubun oyunla ilgili özgün bir fikir (yeni malzemeler ekleme, oyuncu sayısını değiştirme, daha küçük alanda oynama vb.) sunmaları istenerek tasarlayacakları oyunun özelliklerini belirlemeleri sağlanır ( SDB1.1 , SDB1.2 ). Bu özgün fikirlerin farklı görüşlere saygı gösterilerek iş birliği içerisinde tartışılması sağlanır ve yeni bir oyun fikri oluşturmaları istenir ( D14.1 , SDB2.2 ). Öğrencilerin yeni bir oyuna ilişkin belirledikleri oyuncu sayısı, oyun alanı, malzemeler gibi özellikler arasında ilişki kurmaları sağlanır. Grupların tasarlayacakları oyunların geliştirilmesi gereken yönlerini eleştirel bir bakış açısıyla belirlemeleri ve süre, oyuncu sayısı, alan gibi özellikleri birleştirerek özgün bir oyun oluşturmaları sağlanır ( SDB1.2 , E3.10 ). Tüm öğrencilerin eşit katılımı ile grupların tasarladığı oyunların sırayla oynanması sağlanır ( SDB3.1 ). Gruplardan oyunlara ilişkin karşılaştırmalar yaparak oyunlar arasındaki benzerlik ve farklılıkları belirlemeleri istenir ( KB2.7 ). Tasarlanan oyunlara ait özellikleri içeren posterler oluşturulabilir ve sergilenebilir ( OB4 ). Ayrıca öğrencilere tasarladıkları oyunlara ilişkin materyal tasarlama görevi verilebilir.",
+    "BES.5.3.3. Öğrencilere adil oyun kavramını içeren hikâye anlatılır ya da videolar izletilir. Öğrencilerden hikâye ya da videolarda yer alan içerikleri analiz etmeleri istenerek \"Eşitlik ilkesine uygun bir oyun ortamı var mıydı?\", \"Hoşgörü eksik olduğunda oyunda neler yaşanabilir?\" gibi sorularla öğrencilerde dürüstlük, eşitlik, saygı, nezaket, hoşgörü gibi değerlerin oyunlarda neden önemli olduğuna ilişkin farkındalık kazandırılır ( D6.2 , D14.1 ). Öğrencilerden tasarladıkları oyunlardaki adil oyun anlayışını açıklamaları istenir. Her hikâyede oyunlara eşit şartlarda katılımının sağlanması, kurallara uygun davranılması, dürüst ve saygılı davranışlar bileşenlerine vurgu yapılır. Öğrencilerin tasarladıkları oyunları oynamaları istenir ve oyun esnasında adil oyun anlayışına uygun hareket etmeleri sağlanır. Grupların oyun sırasında adil oyun anlayışına uygun olan ve olmayan davranışları gözlemleyip kaydetmeleri istenir. Oyun sonunda grupların oyun sırasında gözlemledikleri olumlu ve olumsuz davranışları paylaşmaları sağlanır. Oyun sırasında adil davranmanın takım ruhu ve sürecin keyifli geçmesi üzerindeki etkilerini değerlendirmeleri istenir ( SDB3.3 , E2.5 ). Öğrencilerden öz değerlendirme formları ile değerlendirme yapmaları istenerek oyun sırasında adil oyun anlayışına ne kadar uyabildiklerini tespit etmeleri ve süreçteki deneyimlerini paylaşmaları istenebilir ( SDB1.2 , SDB1.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D20.2",
+      "D5.2",
+      "D6.2"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.10"
+    ],
+    "kavramsal": [
+      "KB1",
+      "KB2.17",
+      "KB2.2",
+      "KB2.7",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/699"
+}

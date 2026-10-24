@@ -1,0 +1,61 @@
+{
+  "unitId": 80791016,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "16. ÜNİTE: TAKVİM BİLGİSİ, SAYILAR, KALIPLAŞMIŞ İFADELER",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OSM.12.4.1.1",
+      "title": "Osmanlı Türkçesinde kullanılan Arapça ve Farsça sayı adlarını okur",
+      "processComponents": [
+        "Arapça ve Farsça sayılar verilirken Türkçe sayı adları da verilmelidir.",
+        "Sayı adları verilirken tablolardan yararlanılmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.12.4.1.2",
+      "title": "Osmanlı Türkçesinde kullanılan Arapça ve Farsça gün adlarını okur",
+      "processComponents": [
+        "Arapça ve Farsça gün adları verilirken Türkçe gün adları da verilmelidir.",
+        "Gün adları verilirken tablolardan yararlanılmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.12.4.1.3",
+      "title": "Osmanlı Türkçesinde kullanılan Arapça ay adlarını okur",
+      "processComponents": [
+        "Ay adları verilirken tablolardan yararlanılmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.12.4.2.1",
+      "title": "Osmanlı Türkçesinde kullanılan Arapça ve Farsça kalıplaşmış ifadeleri okur",
+      "processComponents": [
+        "Yaygın kullanılan Arapça ve Farsça kalıplaşmış ifadeler seçilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.12.4.3.1",
+      "title": "Hicri ve Rumi takvim sistemlerini tanır",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.4.3.2",
+      "title": "Rumi, miladi, hicri yılları birbirine dönüştürür",
+      "processComponents": [
+        "Önemli olayların (Osmanlı Devleti'nin kuruluşu, İstanbul'un fethi, Cumhuriyet'in ilanı vb.) hicri veya Rumi tarihleri verilmeli ve bu tarihlerin yıl olarak miladiye dönüştürülmesi istenmelidir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

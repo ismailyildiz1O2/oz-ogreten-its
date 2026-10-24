@@ -1,0 +1,35 @@
+{
+  "unitId": 81663050,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "50. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 7. ÜNİTE: VERİ UYGULAMALARI",
+  "hours": "7",
+  "description": "Bu ünitede açık kaynak kodlu platformları kullanarak önceki ünitelerde öğrendikleri bilgiler ile bir veri seti üzerinde işlemler yapılması öğretilir.",
+  "outcomes": [
+    {
+      "code": "BTY.50.1",
+      "title": "Açık kaynak kodlu platformları kullanır",
+      "processComponents": [
+        "Açık kaynak kodlu platformlar açıklanır.",
+        "Açık kaynak kodlu bir platform üzerinden kullanıcı hesabı oluşturulur."
+      ]
+    },
+    {
+      "code": "BTY.50.2",
+      "title": "Açık kaynak kodlu platformlar üzerinden veri analizi projeleri geliştirir",
+      "processComponents": [
+        "Açık kaynak kodlu platform kullanılarak bir veri seti üzerinden istatistiksel değerlerin bulunması gösterilir.",
+        "Veri indeksleme ve birleştirme, veri setinin görselleştirilmesi, veriler arası ilişkileri inceleme, veri manipülasyonu yöntemlerini kullanarak bir veri setinin analizi gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

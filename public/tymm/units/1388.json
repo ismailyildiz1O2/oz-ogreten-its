@@ -1,0 +1,69 @@
+{
+  "unitId": 1388,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "3. TEMA: POZİSYON VE AÇIK TEL ÇALIŞMALARI",
+  "hours": "9",
+  "description": "Temada öğrencilerin viyoladaki boş telleri ve üzerindeki notaları tanıyabilmeleri, 1. pozisyon ve açık tel çalışmaları yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.2.3.1",
+      "title": "Viyoladaki boş teller üzerindeki notaların yerlerini çözümleyebilme ,",
+      "processComponents": [
+        "a) Viyolanın boş tellerindeki notaları ve fiziksel yerlerini belirler.",
+        "b) Boş teller üzerindeki notaların yerleri arasındaki sıralamayı ve ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "VİY.2.3.2",
+      "title": "Viyolada 1. pozisyonda çalabilme",
+      "processComponents": [
+        "a) Viyolada 1. pozisyonu çözümler.",
+        "b) Viyolada 1. pozisyonda çalabilmek için çalgıya özgü duruş ve tutuş pozisyonunu alır.",
+        "c) Viyolada 1. pozisyonu çalabilmek için uygun parmak ve yay tekniklerini kullanır.",
+        "ç) Viyolada 1. pozisyonu müziksel bileşenlere uygun şekilde çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "sağ el teknikleri, sol el teknikleri, pozisyon",
+  "support": [
+    "Öğrencilerin viyoladaki nota yerlerini ve pozisyon farkındalığını geliştirmeleri için çeşitli destekleyici etkinlikler düzenlenebilir. İlk aşamada, notaların yerlerini ve pozisyonları öğrenmeye yönelik görsel ve işitsel materyaller sunularak öğrencilerin duyusal algıları güçlendirilebilir. Örneğin viyola klavyesi üzerinde notaların yerlerini gösteren şemalar, renk kodlu etiketler veya dijital uygulamalar kullanılabilir. Öğrencilerin parmak yerleşimlerini doğru kullanabilmeleri için başlangıçta öğretmenin rehberliğinde yavaş tempoda çalışmaları sağlanabilir. Eşlikli çalma çalışmaları ile doğru sesleri ve pozisyonları tanımaları desteklenebilir. Ayrıca öğretmenin çaldığı notaları taklit ederek veya öğretmenin belirlediği kısa melodileri çalarak öğrenmelerini pekiştirebilirler."
+  ],
+  "enrichment": [
+    "Öğrencilerin viyoladaki nota yerlerini ve pozisyonları daha iyi kavrayabilmesi için çeşitli yöntemler kullanılabilir. Öncelikle interaktif öğrenme araçlarından yararlanılarak dijital ortamda nota yerlerini keşfetmeleri sağlanabilir. Örneğin viyola klavyesi üzerinde notaların yerlerini gösteren uygulamalar veya oyun tabanlı etkinlikler kullanılabilir. Öğrencilerin belirli notalara ulaşırken el ve parmak hareketlerini gözlemlemeleri, aynalar veya videolar kullanarak kendi çalma pozisyonlarını incelemeleri sağlanabilir. Bedensel farkındalık çalışmaları yapılarak öğrencilerin kas hafızasını geliştirmeleri desteklenebilir. Örneğin yaylı çalgı çalan müzisyenler için tasarlanmış esneme ve el egzersizleri uygulanabilir. Pozisyon geçişlerini hızlandırmak ve doğruluğu artırmak için gözler kapalı veya farklı hızlarda çalma gibi çalışmalar da eklenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi ve performans görevi ile ölçülebilir. Performans görevi olarak öğrencilerden viyoladaki belirli notaları fiziksel olarak göstermeleri veya notaların sırasını bir çizimle sunmaları istenebilir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VİY.2.3.1.",
+    "Öğretmen rehberliğinde viyolanın boş tellerindeki notaların isimlerini gösteren görsellerle derse başlanır ( OB4 ). Viyola üzerindeki boş tellerde yer alan notaların fiziksel konumlarını belirlemeye yardımcı olacak görsel materyaller ve yönergeler sunulur. Öğrenciler, boş telleri tek tek inceleyerek do, sol, re ve la telleri üzerindeki notaların sıralamasını ve diğer tellerle ilişkisini belirler. Bu süreçte \"Re teli üzerinde hangi notalar var?\", \"La teli üzerinde hangi notalar var?\" gibi sorularla öğrencilerin dikkati yönlendirilir. Öğrenciler tarafından belirledikleri notalar arasındaki sıralama ve ilişkileri açıklanır ve aynı tel üzerindeki notalar gruplar hâlinde sınıflandırılır ( KB2.5 ). Öğrenilen bilgiler, şema veya çizimlerle görselleştirilerek grup içinde paylaşılır. ( SDB2.2 ). Öğrencilerin doğru notaları belirleyip belirlemediği gözlemlenerek, geri bildirim verilir ve öğrencilerin kendi kendilerini değerlendirmelerine rehberlik edilir ( SDB1.2 ). Performans görevi olarak öğrencilerden viyoladaki belirli notaları fiziksel olarak göstermeleri veya notaların sırasını bir çizimle sunmaları istenir; bu süreç, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir.",
+    "VİY.2.3.2.",
+    "Öğretmen, viyolanın sapı üzerindeki pozisyonları gösteren görseller kullanarak açıklamalar yapar ( SDB2.1 ). Öğrenciler görselleri inceler ve anlarlar ( OB4 ). Öğrencilere \"Bir çalgıda doğru duruş ve pozisyon neden önemlidir?\" sorusu yöneltilerek kısa bir beyin fırtınası yapılır. Öğrencilerin fikirlerini beyan etmeleri ve konuyla alakalı sorular sormaları sağlanır ( E1.1 , E3.8 ). Öğrenciler öğretmenlerinin vücut duruşlarını izleyip, onları gözlemleyerek kendi duruşlarını düzeltir ve viyola çalar ( KB2.2 ). Öğrencilere sol elin klavye üzerindeki konumu ve parmak numaralarının yerleşimi anlatılır ( SDB2.1 ). Öğrencilere bireysel olarak 1. pozisyondaki temel parmak yerleşimleri yaptırılır ve gözlem yapılarak geri bildirim verilir. Öğrencilerden yaylarını doğru şekilde tutmaları istenir ve öğretmen yay kavrama ile ilgili rehberlik eder. Öğrenciler çalma uygulamalarına yönlendirilir. Açık teller üzerinde yay çekme-itme çalışmaları yapılır (do, sol, re ve la telleri). Öğrencilerin verilen çalışmaları çözümlemeleri beklenir. Tüm öğrenciler çalgıya özgü duruş ve tutuş pozisyonu alırlar. Öğrencilere açık teller üzerinde farklı yay hızları ve baskıları denemeleri için kısa egzersizler yaptırılır. Öğrenciler bu egzersizlerde çalgıya özgü teknikleri kullanırlar. Yay çekiş açısını doğru yapabilmek için öğretmenin gösterdiği referans çizgileriyle (yayın tahtaya paralel olması gibi) karşılaştırmalar yapılır ( KB2.7 ). Öğrencilerden viyola çalarken dikkat edilmesi gereken kuralları belirlemeleri, müziksel bileşenlerine uygun çalmaları istenir. Grup çalışması yaparak çalışmalarda aktif rol almaları sağlanır ( D3.4 ). \"Enstrümanına özen göstermek neden önemlidir?\" sorusu etrafında kısa bir tartışma yapılır. Öğrenciler tarafından günlük pratik alışkanlıkları nasıl geliştirebilecekleri konusunda fikirleri saygı çerçevesinde ve eleştiriye açık hâlde paylaşılır ( D14.1 ). Öğrencilerden evde açık teller üzerinde günde 5 dakika yay çalışmaları yapmaları istenir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.2",
+      "KB2.5",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1388"
+}

@@ -1,0 +1,77 @@
+{
+  "unitId": 1210,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "1. TEMA: NEYİN ÖZELLİKLERİ, BAKIMI VE SEÇİMİ",
+  "hours": "9",
+  "description": "Temanın içeriğini ney çalgısının özellikleri, bakımı ve seçimi oluşturmaktadır. Bu doğrultuda öğrencilerin neyin özellikleri, bakımı ve seçimine dair belirlenen öğrenme çıktılarına ulaşması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.2.1.1",
+      "title": "Neyi çözümleyebilme",
+      "processComponents": [
+        "a) Çeşitli görseller aracılığıyla neye ilişkin parçaları belirler.",
+        "b) Neyin parçaları arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "NEY.2.1.2",
+      "title": ". Ney ile icra edilen eserleri dinleyebilme",
+      "processComponents": [
+        "a) Dinlediği eserler üzerinden neyi fark eder.",
+        "b) Dinlediği eserler üzerinden neyi ayırt eder.",
+        "c) Dinlediği eserler üzerinden neyin ses özelliklerini açıklar."
+      ]
+    },
+    {
+      "code": "NEY.2.1.3",
+      "title": ". Neyin bakım adımlarını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "NEY.2.1.4",
+      "title": "Fiziksel özelliklerine göre doğru neyi seçebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "müzik, ney, ney bakımı, Türk müziği",
+  "support": [
+    "Bu süreçte neyin tanıtılmasında basit tanım ve anlatımlardan yararlanılabilir. Farklı materyallerden yapılan neylere dokunarak incelemeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Ney sesi kullanılarak grup oyunları tasarlamaları istenebilir. Örnek olarak ney sesini tanıma yarışmaları yapılabilir. Ney bakımını anlatan küçük hikâyeler tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; oyun temelli değerlendirme, kontrol listesi, gözlem formu, dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden grup çalışması ile neyin parçalarını görsellerle tanıtan çalışmalar istenebilir. Performans görevi; oyun temelli değerlendirme, analitik dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir"
+  ],
+  "teachingApplications": [
+    "NEY.2.1.1",
+    "Ney ilgili belirlenen video, sunu, gibi materyal veya etkinliklerle çalgının merak edilmesi sağlanır ( E1.1 ). Çeşitli görseller aracılığıyla ney çalgısının bölümlerini ve parçalarını belirlemeleri sağlanır. Çalgı üzerinde bölümler ve parçalar gösterildikten sonra eşleşme kartları ile çalgının bölümleri ve parçaları arasında ilişki kurması sağlanır. Öğrencilerden grup çalışması ile neyin parçalarını görsellerle tanıtan çalışmalar istenebilir ve süreç oyun temelli değerlendirme ile değerlendirebilir.",
+    "NEY.2.1.2",
+    "Neyin canlı performansı veya video kaydı öğrencilere izlettirilir. Ardından neyin icra edildiği eserler dinletilerek öğrencilerin ney sesini anlamaları sağlanıp, ney sesinin hissettirdiği duyguları, sözlü ifade etmeleri istenir ( SDB2.1 ). Akıllı tahta üzerinde, içerisinde ney ile birlikte diğer Türk müziği enstrümanlarının kullanıldığı eserler dinletilerek neyin geçtiği anları işaretleyip diğer enstrümanlardan ayırt etmeleri istenir ( D3.3 , OB2 ). Süreç sonunda dinlediği ney sesinin özelliklerini kendi duygu ve düşünceleriyle açıklayıp sözlü olarak ifade etmesi istenir ( SDB2.1 ). Bu süreç analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "NEY.2.1.3",
+    "Ney bakımını gösteren görseller ve video kayıtları gösterilip ardından öğretmen kendi neyinin bakım adımlarını kullanarak (temizleme, saklama, kontrol), sınıf ortamında sergiler. Öğrencilerin ney bakımını pratik olarak algılamaları ve belirlemeleri sağlanır ( D16.3 , OB4 ). Öğrencilerden bakım sürecindeki adımları uygulayıp uygulamadığını değerlendirmek amacı ile kontrol listesi kullanılabilir.",
+    "NEY.2.1.4",
+    "Başlangıç aşamasında, öğrencilerin fiziksel uygunluklarına göre ney seçiminin önemi anlatılarak öğrencilerin kendi fiziksel özelliklerini değerlendirmeleri sağlanır ( D10.1 , SDB1.2 ). Ardından öğrenciler kendi boy, kol ve parmak uzunluklarına göre seçebilecekleri neyleri ifade etmeleri sağlanır ( SDB2.1 ). Bu süreç gözlem formu ile değerlendirilebilir. Performans görevi olarak öğrencilerden grup çalışması ile neyin parçalarını görsellerle tanıtan çalışmalar istenebilir. Performans görevi; oyun temelli değerlendirme, analitik dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir"
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D16.3",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1210"
+}

@@ -1,0 +1,56 @@
+{
+  "unitId": 1319,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "2. TEMA: HİCAZ DİZİSİ",
+  "hours": "12",
+  "description": "Temanın içeriğini öğrencilerin hicaz dizisinde keman ile dizilerini öğrenerek eser çalmaları oluşturmaktadır. Bu doğrultuda öğrencilerin hicaz dizisinde etüt ve eserleri çalabilmek için belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.6.2.1",
+      "title": "Hicaz dizisinde etüt ve eser çalabilme",
+      "processComponents": [
+        "a) Hicaz dizisinde çalınacak eser veya etüdü çözümler.",
+        "b) Duruş ve tutuş pozisyonu alarak hicaz dizisinde eser ve etüt çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak hicaz dizisinde etüt ve eser çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, metronom, Türk müziği, makam",
+  "support": [
+    "Öğrencilerle bire bir ve ayna karşısında çalışmalar yapılabilir. Bu çalışmalar etüt ve dizi çalışmaları üzerinde bona ve solfeje ağırlık verilerek yapılmalıdır."
+  ],
+  "enrichment": [
+    "Öğrenciler gruplara ayrılır ve öğrencilere eser çalışmaları verilebilir. Hicaz dizisindeki eser çalışmalarını bir grup çalarken diğer grubun sözleriyle esere eşlik etmesi sağlanabilir. Bu süreçte sağlıklı iletişim kurularak çalışmaların daha verimli geçmesi sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kavram haritası, gözlem form, kısa rapor veya sunum ile değerlendirilebilir. Öğrenciden performans görevi olarak hicaz makamı dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.6.2.2",
+    "Hicaz dizisi gösterilip bona ve solfej yaptırılır. Seslerin ve ritmin doğruluğu açısından öğrencilerin odaklanması sağlanır ( E3.2 ). Öğretmenle eşlikli olarak hicaz makamı dizisi ritim ve seslere dikkat edilerek sergilenir. Öğretmen, dijital ortamda eser ve etütler dinleterek öğrencilerin bilgi edinmelerini sağlar ( OB2 ). Öğrenciler, hicaz dizisinde çalacakları eser veya etüdün ritim ve nota sürelerinin çözümlemesini yapar. Eser veya etütte bona ve solfej yaparak parçayı ritmik yapıya uygun olarak sergilemeye çalışır. Öğretmenle iletişim hâlinde etüt ve eseri eşlikli olarak çalar ( E3.8 ). Öğrenciler hicaz dizisinde yapacağı çalışmada doğru duruş ve tutuşu ayarlar. Ritim ve solfej uygulamalarına dikkat ederek etütleri ayna karşısında öğretmenle uyum içerisinde sergiler ( SDB2.1 ). Doğru duruş ve tutuştan sonra tuşede parmak yerleri ayarlanır. Kemana özgü teknikler kullanılarak hicaz dizisinin çalışmalarını içeren etütlere geçilir. Öğretmen, sınıf ortamında etüt çalışmalarını makamsal yapıya uygun olarak çalar. Öğretmen, hicaz dizisinin eserlerini ezgisel yapıya uyarak sergiler. Etkinlik sonrasında hicaz dizisinin özellikleri belirtilir. Öğrenciler ulaşacakları bilgileri not alarak dinler ( OB1 ). Hicaz dizisinin durak perdesi dügâhtır. Hicaz dizisinde seyir inici ve çıkıcıdır. Hicaz dizisinin güçlüsü neva perdesi, yedeni rast perdesidir. Hicaz dizisinde donanım si bakiyye bemolü, fa bakiyye diyez ve do bakiyye diyez alır. Öğrenciler hicaz dizisindeki etütlerde gruplara ayrılarak çalışmalar sergiler ( SDB2.2 ). Sergiledikleri eserler ile ilgili birbirlerine olumlu dönütlerde bulunur ( D14.1 ). Bu çalışmalar sınıf ortamında öğretmen tarafından dereceli puanlama anahtarı ile değerlendirilir. Öğrenciler kendileri aralarında akran değerlendirmeleri yapar. Hicaz dizisinde çalınacak parçalar öğrenciler tarafından seçilir. Öğrencilerden seçtikleri parçaları çalıştıktan sonra sergilemeleri istenir ( KB2.14 ). Öğrenme çıktıları; kavram haritası, gözlem formu, kısa rapor veya sunum ile değerlendirilebilir. Öğrenciden performans görevi olarak hicaz makamı dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1319"
+}

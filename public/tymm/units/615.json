@@ -1,0 +1,67 @@
+{
+  "unitId": 615,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Trafik Güvenliği Dersi (Maarif Modeli)",
+  "title": "1. ÖĞRENME ALANI: TRAFiKTE GÜVENLİ ADIMLAR",
+  "hours": "11",
+  "description": "Bu öğrenme alanının içeriğini trafik ile ilgili temel kavramlar, temel trafik işaret levhaları ve trafik kuralları oluşturmaktadır. Bu doğrultuda öğrencilerin trafik ile ilgili temel kavramlar hakkında bilgi toplamaları, trafik kurallarının gereği ve önemini yaya, sürücü ve yolcu açısından özetlemeleri, trafik işaret levhalarını sınıflandırmaları ve temel trafik kurallarına uymaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TG.4.1.1",
+      "title": "Trafik ile ilgili temel kavramlar hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Trafik ile ilgili temel kavramlara ulaşmak için kullanacağı araçları belirler.",
+        "b) Trafik ile ilgili temel kavramlara ait bilgileri bulur.",
+        "c) Trafik ile ilgili temel kavramlara ait ulaşılan bilgileri doğrular.",
+        "ç) Trafik ile ilgili temel kavramlara ait ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "TG.4.1.2",
+      "title": "Trafik kurallarının gereği ve önemini özetleyebilme",
+      "processComponents": [
+        "a) Trafik kurallarının gereği ve önemiyle ilgili çözümleme yapar.",
+        "b) Trafik kurallarını (yaya, sürücü, yolcu için) sınıflandırır.",
+        "c) Trafik kurallarının gereği ve önemini kendi cümleleriyle yorumlar."
+      ]
+    },
+    {
+      "code": "TG.4.1.3",
+      "title": "Trafik işaret levhalarını sınıflandırabilme",
+      "processComponents": [
+        "a) Temel trafik işaret levhalarının şekilsel özelliklerini belirler.",
+        "b) Temel trafik işaret levhalarını şekilsel özelliklerine göre ayırır.",
+        "c) Temel trafik işaret levhalarını (bilgilendirme, uyarı, yasaklama amaçlı levhalar) tasnif eder.",
+        "ç) Temel trafik işaret levhalarını etiketler."
+      ]
+    },
+    {
+      "code": "TG.4.1.4",
+      "title": "Temel trafik kurallarına uyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "alt geçit, okul geçidi, trafik, trafik işaret levhaları, trafik kuralı, üst geçit, yaya geçidi",
+  "support": [
+    "Öğretim sürecini kolaylaştırmak için trafik ile ilgili temel kavramlara yönelik bulmacalar kullanılabilir. Öğrencilerle trafik işaret levhaları ile ilgili maketler yapılabilir. Öğrencilerden trafik kurallarının gereği ve önemine yönelik resim yapmaları istenebilir. Trafik kurallarını uygulayabilmeye yönelik bilgilendirme ve eşleştirme kartları gibi çeşitli materyaller ile öğrenme süreci desteklenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden trafik kavramlarının yer aldığı bir karikatür ya da bilgilendirme afişi hazırlamaları istenebilir. Materyallerin hazırlanmasında uygun Web araçlarının kullanılması önerilebilir. Ayrıca öğrencilerden trafik işaret levhalarının evrensel olmasının insanlara sağladığı kolaylıklar ile ilgili kısa bir yazı yazmaları beklenebilir. Trafik kurallarının uygulanmasının önemine yönelik bir oyun tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktılarının değerlendirilmesinde anlam çözümleme tablosu, performans görevi, öz değerlendirme formu, kontrol listesi gibi değerlendirme araçları kullanılabilir. Tüm çalışmalar öğrencilerin ürün dosyalarına eklenir.",
+    "Öğrencilerin trafikle ilgili kavramlara yönelik bilgi edinmelerini sağlamak için seçtikleri veri toplama araçlarını kullanarak yaptıkları araştırma sürecinde ulaştıkları bilgileri el kitapçığı ya da resimli trafik sözlüğü olarak hazırlama ve sınıfta sunma süreçlerinde analitik veya bütüncül dereceli puanlama anahtarı kullanılabilir.",
+    "Temel trafik işaret levhalarının renk ve şekillerine göre uyarı, bilgilendirme ve yasaklama amaçlı olanlar biçiminde sınıflandırılmasında anlam çözümleme tablosu kullanılabilir. Öğrencilere temel trafik işaret levhaları konulu afiş, broşür gibi ürünler hazırlamaları ve sergilemeleri için performans görevi verilebilir. Bu görevler analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Trafik kurallarına uymanın gereği ve önemine dair yazılan senaryoların sınıf içi ya da sınıf dışı ortamlarda canlandırılması sürecinde öz değerlendirme formları kullanılabilir.",
+    "Trafik kurallarını uygulama konusundaki bireysel çalışmalar kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TG.4.1.1. Öğrencilerden trafik ile ilgili temel kavramlar hakkında bilgi toplayabilmeleri beklenir. Öğrencilere trafik, yaya, kara yolu gibi kavramlara yönelik görseller sunularak onlardan görselleri incelemeleri, görsellerde yer alan kavramlar üzerine konuşmaları ve bu kavramların insan yaşamındaki yerine değinmeleri istenir (OB4). Sunulan görsellerdeki kavramların dışında trafik ile ilgili bildikleri başka kavramların olup olmadığı üzerine konuşulur (SDB2.1). Öğrencilere trafik ile ilgili kavramları belirlemeleri için basılı kaynaklar, görüşme, gözlem gibi veri toplama araçlarından hangilerini kullanabilecekleri sorulur. Daha sonra öğrencilerin trafikle ilgili temel kavramlara ulaşmak için kullanacağı araçları belirlemeleri beklenir (SDB1.2). Öğrencilerin trafik ile ilgili kavramlara yönelik bilgi edinmelerini sağlamak için seçtikleri veri toplama araçlarını kullanarak araştırma yapmaları beklenir (D3.3, SDB1.2). Bu araştırma sonucunda trafik ile ilgili kavramlar hakkında edindikleri bilgileri listelemeleri istenir. Öğrencilerden ulaştıkları bilgileri sorgulamaları (E3.10, KB2.8) ve bunları teyit etmek için alternatif kaynaklara başvurmaları beklenir (D16.3, OB1, OB2). Öğrencilerden trafik ile ilgili temel kavramlara ait ulaştıkları bilgileri doğrulamaları istenir. Öğrencilerin trafik ile ilgili temel kavramlara ait ulaştıkları bilgileri kaydedebilmeleri için el kitapçığı ya da resimli trafik sözlüğü hazırlamaları ve bunları sınıfta sunmaları sağlanır. Öğrencilerin çalışmaları, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "TG.4.1.2. Öğrencilerden trafik kurallarının gereği ve önemini özetleyebilmeleri beklenir. Bunun için yaya, sürücü ve yolcu kaynaklı trafik kuralı ihlallerini yansıtan haber örnekleri sınıfta sunulur. Öğrencilerden haberlerde yer alan trafik kuralı ihlallerinin olası sonuçları üzerinde tartışmaları istenir (E3.10, KB2.18, OB1). Öğrencilerin kural ihlallerinin olası sonuçlarına yönelik çıkarımda bulunmalarını sağlamak amacıyla onlara yönlendirici sorular sorulur (D3.3, SDB2.1). Ardından tahtaya yaya, sürücü ve yolcu kavramları yazılır. Yaya, sürücü ve yolcuların uymaları gereken kurallar hakkında öğrencilerden alınan cevaplar tahtaya yazılır. Daha sonra öğrencilerden trafik kurallarına uymanın gereği ve önemine dair küçük gruplar hâlinde kısa hikâye yazmaları ve bu hikâyeleri sınıfta sunmaları istenir (SDB1.2). Sunum süreci akran değerlendirme formu ile değerlendirilebilir.",
+    "TG.4.1.3. Öğrencilerden temel trafik işaret levhalarını sınıflandırabilmeleri beklenir. Bunun için öncelikle öğrencilerin çevrelerinde gördükleri trafik işaret levhalarına örnekler vermeleri istenir. Verilen örnekler üzerinden farklı şekillerdeki trafik işaret levhalarının farkına varmaları sağlanır. Ardından bu trafik işaret levhaları öğrencilere gösterilir. Öğrencilerin trafik işaret levhalarındaki farklılıklar hakkında konuşmaları sağlanır ve onlardan trafik işaret levhalarını ayırabilmeleri beklenir (KB2.7, OB4). Onlardan trafik işaret levhalarını ayrıştırmaları beklenir. Bunun için öğretmen tarafından tahtaya anlam çözümleme tablosu çizilir. Öğrencilerden bu tabloyu trafik işaret levhalarının şekilsel özelliklerini dikkate alarak doldurmaları istenir. Öğrenciler bu trafik işaret levhalarını şekil ve anlamlarına göre \"uyarı, bilgilendirme ve yasaklama\" amaçlı olanlar şeklinde tasnif eder (OB1). Bu süreçte \"Ben kimim?\" ve \"Nesi var?\" gibi oyunlarla (E2.5) trafik işaret levhalarının adlarına ulaşmaları sağlanır (D4.2, SDB2.1, SDB2.2). Öğrencilerin öğrendikleri trafik işaret levhalarını adlandırmaları için kavram ve eşleştirme kartları gibi eğitsel araçlar kullanılır. Öğrencilerin trafik işaret levhaları konulu afiş, broşür gibi ürünler hazırlamaları ve bu ürünleri sınıfta sergilemeleri sağlanır. Öğretim süreci analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin çalışmaları ürün dosyalarına eklenir.",
+    "TG.4.1.4. Öğrencilerden temel trafik kurallarına uyabilmeleri beklenir. Bunun için öncelikle bildikleri trafik kurallarına örnekler vermeleri istenir (SDB2.1). Öğrencilere trafikte doğru ve yanlış davranışların sonuçlarını gösteren bir animasyon film izletilir. Öğrencilerin izledikleri animasyonda yer alan trafikte yapılan doğru-yanlış davranışlar ve sonuçları üzerine konuşmaları sağlanarak trafik kurallarının önemi üzerinde durulur (E3.10, SDB2.1). Öğrencilerin trafikteki rollerinin neler olduğu üzerine konuşulur. Öğrencilerden trafikte yaya, yolcu ve sürücü (bisiklet, kaykay, skuter vb.) gibi farklı rollerde yer alabileceklerini fark etmeleri beklenir. Sınıf içerisinde veya okul bahçesinde yaya geçitleri, trafik ışıkları ve çeşitli trafik levhalarının bulunduğu bir trafik parkuru oluşturulur ya da imkânlar dâhilinde çocuk trafik eğitim parkı gezisi düzenlenebilir. Öğrenciler parkur veya çocuk trafik eğitim parkında farklı rolleri (yaya, yolcu ve sürücü) canlandırır (E2.1, E2.2, SDB2.1, SDB2.2). Öğrencilerin öğrendikleri kuralları etkileşim hâlinde uygulamaları sağlanır (OB1). Öğrencilerin kuralları uygulayıp uygulamadıkları gözlemlenir ve onlara geri bildirim verilir. Kurallara uyma konusunda sorumluluklarını yerine getirmenin önemli bir vatandaşlık görevi olduğu konusunda farkındalık geliştirilir (D16.3, D19.1). Süreç, kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/615"
+}

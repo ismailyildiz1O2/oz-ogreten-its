@@ -1,0 +1,75 @@
+{
+  "unitId": 1549,
+  "grade": 0,
+  "gradeName": "II. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY II · 1. Tema: Günlük Hayatta Matematik",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.2.1.1",
+      "title": "Günlük hayatta rasyonel sayıların kullanım alanlarını yorumlayabilme",
+      "processComponents": [
+        "a) Günlük hayatta rasyonel sayıların kullanım alanlarını inceler.",
+        "b) İncelediği durumlardaki rasyonel sayıları sembolik olarak ifade eder.",
+        "c) Rasyonel sayılar ile günlük hayat durumları arasındaki ilişkiyi açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.1.2",
+      "title": "Günlük hayatta rasyonel sayılarla dört işlem gerektiren problemleri çözebilme",
+      "processComponents": [
+        "a) Problemin içerdiği sayı ve işlem bileşenlerini belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.1.3",
+      "title": "İklim değişikliğinin etkilerini matematiksel verilere dayalı tahmin edebilme",
+      "processComponents": [
+        "a) İklim değişikliğinin etkilerine ilişkin veriler toplar.",
+        "b) Elde edilen veriler üzerinden hesaplamalar yapar.",
+        "c) Veri analizleri sonucunda iklim değişikliği ile ilgili geleceğe yönelik yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Rasyonel sayılar günlük hayatta ölçme, paylaşma ve hesap yapma gibi işlemlerin temelini oluşturur.\n\n İklim değişikliğinin gelecekteki etkilerini öngörmek, anlamak ve bu etkilere çözüm üretmek için matematiksel verilerin analizinden yararlanır. \n\n Anahtar Kavramlar \n\n devirli ondalıklı gösterim, mutlak değer, rasyonel sayılar, tam sayılar, yüzde gösterim",
+  "support": [
+    "Problemlerin çözümü kolaydan zora bir sırayla yaptırılarak öğrencilerin problem çözme becerileri desteklenebilir.",
+    "Problem çözme basamaklarına ilişkin ek yönergeler verilerek süreçte destek olunabilir.",
+    "Günlük hayatta rasyonel sayıları gördüğü alanlara ilişkin dijital eşleştirme oyunları oynatılabilir.",
+    "Ülkemizin son 20 yıldaki yağış miktarları ile ilgili veriler hazırlanarak sunulabilir ve bu veriler ile iklim değişikliği arasındaki ilişki öğrencilere yorumlatılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin yakın çevresinde görüşmeler yaparak günlük hayatta rasyonel sayıların en çok kullanıldığı alanları belirleyip raporlaştırarak sunmaları istenebilir.",
+    "Problem çözme çalışmalarında farklı çözüm yollarını deneyimlemeleri için ev ekonomisi konulu problem senaryoları oluşturup oluşturdukları problemleri çözmeleri ve çözüm yollarını sınıfta sunmaları istenebilir.",
+    "Öğrencilerin son 50 yıldaki sıcaklık değişiminin karbon emisyonuyla ilişkisini araştırmaları ve bu ilişkileri grafik, tablo vb. araçlarla görselleştirmeleri istenebilir.",
+    "İklim değişikliğiyle ortaya çıkan deniz seviyesi yükselmesinin gelecek yıllara etkisi üzerine araştırma yapmaları istenerek araştırmalarını tablo grafik vb. araçlarla görselleştirip sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevleri, açık uçlu sorular vb. kullanılarak değerlendirilebilir.",
+    "Rasyonel sayıların günlük hayatta kullanımına ilişkin örnekleri içeren afiş, poster vb. hazırlamalarına yönelik performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Gerçek yaşam durumlarında karşılaşabilen problemlerin çözümüne yönelik farklı stratejiler geliştirmelerini ve geliştirdikleri stratejiyle ilgili sunum hazırlamalarını içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.2.1.1.",
+    "Öğrencilere \"Günlük hayatta tam sayıların yeterli olmadığı durumlarda ne tür sayılar kullanıyorsunuz?\" sorusu yöneltilerek öğrencilerden bu durumu örneklendirmeleri istenir ( SDB2.1 ). Verilen örnekleri inceleyerek örneklerdeki rasyonel sayı kavramlarına ilişkin durumları sembolik olarak ifade etmeleri beklenir ( MAB3 , SDB2.2 ). Örneğin, “Marketten 1,5 L süt aldım.\", ”Eczacı hastaya tablet ilaç verdi.\", “Börek yaparken 0,75 g. un kullandım.” vb. Daha sonra rasyonel sayıların günlük hayatta kullanım alanları ile ilgili sorular yöneltilerek öğrencilerin sürece aktif katıldığı bir tartışma ortamı oluşturulur ( SDB2.1 , E3.5 , D3.3 ). Bu tartışmalar aracılığıyla öğrencilerin rasyonel sayıların günlük hayatla ilişkilerini açıklamaları sağlanır. Örneğin “Rasyonel sayıları markette alışveriş yaparken, yemek tarifi hazırlarken ya da zaman hesaplamalarında kullandığımızı fark ettim.\" gibi. Öğrencilere rasyonel sayıların günlük hayatta kullanımına örnekler içeren bir performans görevi verilebilir. Öğrenciler performans görevini afiş, poster vb. şeklinde hazırlayarak sunmaları istenebilir ( SDB2.1 , D16.3 ). Performans görevini grup olarak yapmaları desteklenebilir. Öğrencilerin grup çalışmalarında iş birliği içinde hareket etmeleri ve birbirlerine karşı olumlu bir dil kullanmaları istenir ( SDB2.1 , SDB2.2 , D14.1 ). Ayrıca öğrencilerin performans görevi sürecinde sorumlu ve planlı davranmaları sağlanır ( D3.2 , D16.3 , E2.2 ). Performans görevleri analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenme çıktısı açık uçlu sorulardan oluşan çalışma kâğıdı kullanılarak değerlendirilebilir.",
+    "MBU.MU.2.1.2.",
+    "Öğrencilere günlük hayatta rasyonel sayılarla dört işlem gerektiren durumlarla nerelerde karşılaştıklarına ilişkin açık uçlu sorular sorulabilir. Bu sorular aracılığıyla günlük hayatta rasyonel sayılarla dört işlem gerektiren durumlar ile ilgili tartışma ortamı oluşturulur ( SDB2.1 ). Rasyonel sayılarla dört işlem gerektiren problemlerinin seçiminde günlük hayat durumlarına (yemek yapımı, ev ekonomisi, alışveriş, paylaşım, ölçme-dönüşüm, kar-zarar, zaman-hız-mesafe vb.) yer verilir ( OB3 ). Günlük hayatta rasyonel sayılarla dört işlem gerektiren problemler hem kesirlerin farklı gösterimlerini hem de tam sayılarla yapılan toplama, çıkarma, çarpma ve bölme işlemlerini içerebilir. Rasyonel sayılarla dört işlem gerektiren problemlerin çözümünde öğrencilerden problemi anlayarak verilenleri ve istenenleri belirlemeleri istenir ( E3.1 ). Daha sonra verilenlerin ve istenenlerin gerektirdiği işlemler arasındaki ilişkiyi tespit etmeleri beklenir. Bu süreçte öğrencilerden problem bağlamıyla ilişkili verileri tablo, sayı doğrusu, kesir modeli veya sembolik gösterim vb. uygun matematiksel temsillere dönüştürmeleri ve bu temsilleri kullanarak problemi kendi ifadeleriyle açıklamaları istenir ( MAB3 , SDB2.1 ). Problemlere yönelik çözümlere geçmeden önce öğrencilerden sonuca yönelik tahminlerde bulunmaları ve problemin çözümüne ilişkin stratejiler geliştirmeleri beklenir ( E3.1 ). Öğrenciler, bu stratejileri geliştirirken farklı temsillerden (tablo ve sayı doğrusu vb.) veya matematiksel araç ve teknolojilerden yararlanmaları için teşvik edilir ( MAB3 , MAB5 ). Öğrencilerin strateji geliştirmelerini desteklemek ve geliştirdikleri stratejileri kullanmalarını sağlamak için problem çözme sürecinde grup çalışmaları yapmaları sağlanabilir ( SDB2.1 , SDB2.2 ). Gruplar öğrencilerin akademik başarıları ve sosyal dinamikleri dikkate alınarak oluşturulabilir ( SDB2.2 ). Öğrenciler, belirledikleri stratejileri kullanarak problemleri çözmeye ve çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir ( E3.10 ). Problem çözümlerinin ardından öğrencilerin çözüm yollarını kontrol etmeleri sağlanır ( SDB1.2 ). Öğrencilerden problem çözümlerindeki işlemlere yönelik tahmin stratejilerini gözden geçirmeleri, kısa yollara ilişkin çıkarım ve değerlendirmeler yapmaları beklenir. Ayrıca problemi çözerken ne gibi stratejiler geliştirdikleri ve bu stratejilerin problemin çözümünü nasıl kolaylaştırdığı konusunda tartışmaları sağlanarak görüşlerini ifade etmelerine ve karşılaştırmalarına olanak tanınabilir ( SDB2.1 , E3.1 ). Daha sonra öğrencilerin çözüm stratejileri ile ilgili değerlendirmeler yapmaları sağlanır ( E3.1 , D3.2 ). Öğrencilerden çözüm sürecinde kullandıkları stratejilerden hangi tür problemlerde yararlanabileceklerine dair genelleme yapmaları, bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Bu değerlendirmelerde öğrencilerin farklı stratejiler kullanabilecekleri problem kurma çalışmaları yapmaları sağlanabilir. Öğretim süreçlerinde farklı akademik başarıya sahip öğrencilerin eşleştirilmesiyle akran öğrenmeleri desteklenebilir ( SDB2.2 , D20.2 ). Performans görevi olarak günlük hayat durumlarında karşılaşılabilecek problemler verilerek öğrencilerden çözüme yönelik farklı stratejiler geliştirmeleri, geliştirdikleri problem çözümleri ile ilgili sunum hazırlamaları ve bunları arkadaşlarına sunmaları istenebilir ( SDB2.1 , D16.3 ). Bu görev sırasında güvenilir genel ağdan yararlanmaları desteklenebilir ( OB2 ). Bu görev süreç bileşenleri dikkate alınarak performans kriterlerini barındıran analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Yapılan grup çalışmaları öğretmen tarafından grup değerlendirme formu kullanılarak değerlendirilebilir. Öğrenme durumları açık uçlu sorular vb. ile değerlendirilebilir.",
+    "MBU.MU.2.1.3.",
+    "Öğrencilere “İklim değişikliği nedir?”, “İklim değişikliği hayatımızı nasıl etkiliyor?” vb. sorular yöneltilerek fikirlerini açıkça ifade edebilecekleri bir tartışma ortamı oluşturulur ( SDB2.2 , E3.5 ). Tartışma esnasında iklim değişikliğinin sadece çevresel değil ekonomik ve sosyal etkilerinin de olduğu vurgulanarak fen bilimleri, çevre eğitimi ve iklim değişikliği, sosyal bilgiler dersleriyle ilişki kurulabilir ( OB8 ). Böylece iklim değişikliği ile ilgili farkındalık oluşturulabilir ( D5.2 ). Öğrencilere “Dünyanın yıllık ortalama sıcaklık artış hızı nedir?\", \"Buzullardaki erimenin yıllık ortalama artış yüzdesi nedir?\" vb. sorular yöneltilir. Sorular aracılığıyla merak duygusu oluşturulur ( E1.1 ). Öğrencilerden iklim değişikliğinin yıllar içindeki etkilerine yönelik güvenilir kaynakları kullanarak veri toplamaları istenir. Veriler grup veya bireysel olarak toplanabilir ( SDB2.2 ). Öğrencilere veri toplama sürecinde Meteoroloji Genel Müdürlüğünün sıcaklık, yağış, nem verileri; NASA ve NOAA iklim veri portalları, TÜİK’in yıllık çevre ve enerji raporları vb. kaynaklardan yararlanabileceği belirtilir ( OB2 ). Öğrencilerin grup veya bireysel olarak farklı birer veri seti seçmeleri sağlanır. Örneğin son 30 yılın yıllık ortalama sıcaklık değişimi, yağış miktarları, deniz seviyesi yükselmesi vb. Öğrencilerden veri toplarken yıl, ölçüm birimi, konum gibi temel bilgileri eksiksiz olarak almaları beklenir. Toplanan veriler grafik, tablo veya teknolojik araçlarla analiz ederek hesaplamalar yapmaları istenir ( OB7 ). Grafikteki en yüksek ve en düşük değerler tespit ederek grafiği yorumlamaları istenebilir. Öğrencilerden analiz ettikleri bu verilerden yola çıkarak geleceğe yönelik tahminler yapmaları istenir ( E3.6 ). Tahminlerini iklim değişikliğinin olası etkileriyle (tarım, su kaynakları, göç, enerji kullanımı vb.) ilişkilendirmeleri sağlanır. İklim değişikliği ile ilgili tahminlerinin geçerliliğini sorgulamaları beklenir ( KB2.8 ). Daha sonra öğrencilerden iklim değişikliğinin sonuçlarına ilişkin yargıda bulunmaları istenir ( E3.10 ). Örneğin \"İklim değişikliği nedeniyle yağış rejimleri değiştiği için kuraklık arttı. Bu da tarımsal üretimde verimliliği düşürüyor. Bu nedenle gelecekte gıda güvenliği riski oluşabilir.\" vb. Öğrenci yargıları alındıktan sonra iklim değişikliğinin sosyal, ekonomik ve çevresel etkilerine kısaca değinilir. Bu etkilerin sürdürülebilirlik bağlamında sebep oldukları olumsuzluklar örneklendirilir ( OB3 , OB8 , D16.2 ). Öğrencilerin konu ile çevre eğitimi ve iklim değişikliği dersinde öğrendikleri arasında ilişki kurmaları sağlanır. Sorumlu birer vatandaş olarak bu konuda bireysel uygulamalarında yapabilecekleri değişiklikler üzerinde düşünmeleri sağlanır ( OB6 , OB8 , SDB2.3 , SDB3.3 , D5.1 , D16.2 ). Ayrıca alınacak önlemlerin ülkemiz için de ne kadar kritik olduğunu kavramaları sağlanır ( D19.3 ). Bu konuda yapılan uygulamaların doğa ve canlıları koruma için önemini kavramaları sağlanır ( D9.3 ). Değerlendirmede açık uçlu sorular kullanılabilir."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1549"
+}

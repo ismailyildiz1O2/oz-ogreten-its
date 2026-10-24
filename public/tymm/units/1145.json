@@ -1,0 +1,65 @@
+{
+  "unitId": 1145,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "3.TEMA: REPERTUVAR OLUŞTURUYORUM",
+  "hours": "20",
+  "description": "Temada öğrencilerin çeşitli müzik eserlerini seçme, düzenleme ve sunma yeteneklerini geliştirmeleri; farklı yorum, teknik zorluk, melodik ve ritmik yapıları içeren eserlerden repertuvar oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.8.3.1",
+      "title": "Repertuvarını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "BAĞL.8.3.2",
+      "title": "Repertuvarını çalabilme",
+      "processComponents": [
+        "a) Repertuvarındaki çalınacak eserleri çözümler.",
+        "b) Repertuvarını çalarken duruş ve tutuş pozisyonu alır.",
+        "c) Repertuvarını çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Repertuvarını çalarken müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "repertuvar",
+  "support": [
+    "Öğrenciler bağlama çalma tekniklerini geliştirirken öğretmen, onlara özel egzersizler verebilir. Öğretmen, öğrencilerin çaldıkları eserde teknik hataları fark ederek doğru teknik kullanımı konusunda rehberlik edebilir. Örneğin bir öğrenci parmak tekniğiyle ilgili zorlanıyorsa öğretmen ona bu tekniği yavaş tempoyla çalışmasını önererek parmaklarının doğru pozisyonda kalmasını sağlayabilir. Öğrenciler, bu egzersizlerle tekniklerini iyileştirirken öğretmen tarafından verilen geri bildirimle müzikal ifadelerini daha doğru ve etkili bir şekilde iletebilirler. Öğrenciler, öğretmenin yönlendirmeleri sayesinde müzikal becerilerinin temellerini güçlendirebilir ve teknik zorlukları aşarak daha özgün performanslar sergileyebilirler."
+  ],
+  "enrichment": [
+    "Öğrenciler, repertuvarlarını daha da genişletebilirler. Örneğin öğretmen, onlara farklı müzik türlerinden eserler çalmayı önererek bağlamada yeni teknikler ve tınılar keşfetmelerine yardımcı olabilir. Bu şekilde öğrenciler hem teknik becerilerini geliştirebilir hem de farklı müzikal ifadeleri deneyimleyebilir.",
+    "Öğretmen öğrencileri grup çalışmalarında yer almaya teşvik edebilir. Böylece öğrenciler birlikte çalarak grup uyumunu güçlendirebilir ve sanatsal anlamda daha derinlemesine bir anlayış geliştirebilir. Öğretmen, repertuvarlarına yeni çalgılar eklemeleri için öğrencilere önerilerde bulunabilir. Öğrenciler bağlamayla birlikte ritmik çalgılar kullanarak parçalarına farklı bir boyut katabilirler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; performans görevi, gözlem formu, kontrol listesi ve dereceli puanlama anahtarı kullanılarak değerlendirilebilir.Performans görevi olarak öğrencilerden bağlamada repertuvar oluşturma ile ilgili bir sunum yapmaları istenilebilir. Performans görevi, dereceli puanlama anahtarı ve gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.8.3.1",
+    "Öğretmen bağlama modülünde şimdiye kadar çalışılan eserleri listeler. Öğrencilere çalışılan eserler dışında repertuvarda yer almasını istedikleri eserler sorulur ( E3.5 ). Her öğrenci kendi müzikal ilgi ve becerilerine uygun eserleri seçer. Repertuvarı oluşturulacak şekilde listeye ekleme ve çıkarma yapılarak repertuvar belirlenir.",
+    "BAĞL.8.3.2",
+    "Oluşturulan repertuvardaki eserlerin bağlamaya uygun teknik gerekliliklerini çözümler. Öğrenciler, parçaların melodik yapısını ve armonik yapısını analiz ederek çalacakları eserlerin müzikal anlamını anlamaya çalışır. Bağlama çalgısına özgü teknikler, parmak tekniği, tezene kullanımı, doğru duruş ve tutuş pozisyonları üzerinde durulur. Her öğrenci, eserlerini çalarken duruş ve tutuş pozisyonlarını doğru alarak bağlamanın teknik özelliklerini doğru bir şekilde uygular. Öğrencilerin çaldıkları eserlerde tempo, dinamik ve duygusal ifade gibi müzikal bileşenleri dikkate alarak parçanın duygusal anlamını güçlü bir şekilde iletmeye odaklanmaları sağlanır ( E3.2 ). Bu süreç boyunca öğretmen, öğrencilere geri bildirim vererek teknik hataları düzeltir ve müzikal ifadelerini geliştirmelerine yardımcı olur ( D7.2 ). Öğrenciler, çaldıkları bağlama eserlerini kaydederek veya grup hâlinde performans sergileyerek hem kendi ilerlemelerini gözlemler ( KB2.2 , E2.2 ) hem de grup uyumunu güçlendirirler ( SDB2.2 ). Bu süreç, öğrencilerin bağlama çalma tekniklerini geliştirmelerinin yanı sıra sanatsal ifadelerini daha güçlü hâle getirmelerini sağlayarak ( E3.5 ), müzikal becerilerini derinlemesine iyileştirir ( D7.3 ). Öğrenciler, çaldıkları repertuvarı sınıf önünde ya da küçük bir grup içinde çalarak performanslarını sergilerler ( SDB2.2 , D3.4 , OB9 ). Performans görevi olarak öğrencilerden bağlamada repertuvar oluşturma ile ilgili bir sunum yapmaları istenilebilir. Performans görevi dereceli puanlama anahtarı ve gözlem formları ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D7.2",
+      "D7.3"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1145"
+}

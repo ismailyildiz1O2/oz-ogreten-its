@@ -1,0 +1,123 @@
+{
+  "unitId": 395,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "İlkokul Türkçe Dersi",
+  "title": "6. TEMA: BİLİM YOLCULUĞU",
+  "hours": "30",
+  "description": "Bu temada bilim ve teknoloji vb. tema içeriğine uygun dört okuma ve bir dinleme metni işlenirken dinleme/izleme, konuşma, okuma, yazma becerilerine ilişkin belirlenen öğrenme çıktılarına ulaşmak amaçlanır.",
+  "outcomes": [
+    {
+      "code": "T.D.3.1",
+      "title": "Dinleme/izlemeyi yönetebilme",
+      "processComponents": [
+        "a) Dinleyeceklerini/izleyeceklerini amacına ve ilgi alanına uygun olarak seçer.",
+        "b) Konuya ve amacına uygun olarak dinleme/izleme stratejisini seçer.",
+        "c) Dinleme kurallarına uygun olarak dinler.",
+        "ç) Dinlediği konuya ilişkin düşüncelerini belirtmek için uygun zamanda söz alır. T.D.3.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme",
+        "a) Görsellerden hareketle dinleyeceği/izleyeceği metnin konusunu tahmin eder.",
+        "ç) Dinlediklerindeki/izlediklerindeki bilgiler ile ön bilgileri arasında bağlantı kurar. T.D.3.3. Dinlediklerini/izlediklerini çözümleyebilme",
+        "b) Dinlediği/izlediği metinde ana fikri/ana duyguyu bulur.",
+        "c) Dinlediği/izlediği metnin konusunu bulur. T.D.3.4. Dinleme/izleme sürecine etki eden durumları gözden geçirebilme",
+        "a) Dinleme/izleme yapacağı ortamın uygunluğunu gözden geçirir.",
+        "b) Dinleme/izleme ortamının dinleme sürecindeki duygu, düşünce ve davranışlarına etkisini açıklar. T.D.3.5. Dinleme/izleme sürecini değerlendirebilme",
+        "a) Dinlemelerinde/izlemelerinde tercih ettiği dinleme/izleme stratejilerini açıklar. T.K.3.1. Konuşmalarını yönetebilme",
+        "a) Konunun özelliğine göre konuşma üslubunu belirler.",
+        "b) Konuşma türüne göre konuşmasını belirler.",
+        "c) Konuşma amacına göre konuşmasını belirler.",
+        "ç) Konuşma kurallarına uygun (ses düzeyi, nezaket ifadeleri, göz teması) bir biçimde iletişimi sürdürür. T.K.3.2. Konuşmalarında içerik oluşturabilme",
+        "m) Sık karşılaşılan atasözlerinin anlamlarını söyler. T.K.3.3. Konuşma kurallarını uygulayabilme",
+        "a) Konuşmanın özelliğine uygun olarak ses düzeyini ayarlar.",
+        "c) Konuşmalarında vurgu ve tonlamaya dikkat eder.",
+        "ç) Konuşmalarında sözcükleri yerinde ve anlamına uygun kullanır.",
+        "d) Sık karşılaşılan atasözlerini konuşma bağlamına uygun kullanır. T.O.3.1. Okuma sürecini yönetebilme",
+        "a) Okuyacağı metnin başlığı ve görsellerini inceler.",
+        "b) Noktalama işaretlerine dikkat ederek okur.",
+        "c) Okuyacağı metni ilgi alanına ve amacına göre seçer.",
+        "ç) Okuyacağı konuya veya okuma amacına göre okuma stratejisine karar verir. T.O.3.2. Okudukları ile ilgili anlam oluşturabilme",
+        "a) Okuduğu metindeki bilgiler ile ön bilgileri arasında bağlantı kurar.",
+        "b) Metnin başlığı ve görsellerinden hareketle metinde geçen bilgiler/olaylar hakkında tahminde bulunur.",
+        "c) Okuduğu metinde geçen bilgilerin/olayların öncesi hakkında tahminde bulunur.",
+        "ı) Okuduğu metindeki iletilere katılıp katılmadığını nedenleriyle ifade eder.",
+        "i) Okuduğu metindeki içeriğe ilişkin farklı önerilerde bulunur.",
+        "j) Okuyacağı metnin başlığı ve görsellerinden hareketle metnin içeriği hakkında görüş oluşturur. T.O.3.3. Okuduklarını çözümleyebilme",
+        "a) Okuduğu metindeki karakter, olay, bilgi veya duyguları açıklar.",
+        "b) Okuduğu metnin konusunu bulur.",
+        "c) Okuduğu metinde ana fikri/ana duyguyu bulur.",
+        "d) Gerçek ve mecaz anlamlı sözcüklerin metinle ilişkisini belirler. T.O.3.5. Okuma sürecini değerlendirebilme",
+        "c) Tür veya ilgi alanına göre okuma tercihini belirtir. T.Y.3.1. Yazılı anlatım becerilerini yönetebilme",
+        "a) Verilen bir yazma görevini hazırlıksız yazar.",
+        "b) Verilen bir yazma görevini belirlediği yazı türüne göre yazar.",
+        "d) Çevrim içi yazılarında yazışmayı başlatma, sürdürme ve sonlandırmayla ilgili uygun ifadeler kullanır. T.Y.3.2. Yazılarında içerik oluşturabilme",
+        "b) Bir sözcüğün anlamına ilişkin tahminlerini bağlamdan yararlanarak yazar.",
+        "ı) İstek, şikâyet ve önerilerini yazarak (mektup, dilekçe, tebrik, anlık ileti) ifade eder. T.Y.3.3. Yazma kurallarını uygulayabilme",
+        "b) Yazılarında sözcükleri yerinde ve anlamına uygun kullanır.",
+        "c) Yazılarında sık karşılaşılan deyim ve atasözlerini içeriğe uygun kullanır.",
+        "ç) Yazışmalarında/çevrim içi yazışmalarında mesajlarını birden çok cümleyle açık ve anlaşılır şekilde ifade eder.",
+        "g) Yazılarında noktalama işaretlerini (nokta, kesme işareti, virgül, iki nokta, ünlem, tırnak işareti, soru işareti, kısa çizgi, konuşma çizgisi, yay ayraç, üç nokta, eğik çizgi) kuralına uygun kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "araştırma, bilim insanı, bilişim ve kodlama, deney, icat, keşif, kıtalar, merak, mucit, sorgulama, ülkeler",
+  "support": [
+    "Destekleme sürecinde öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınırken etkinlikler/materyal sade, kolay ve anlaşılır olabilir. Bunlar tüm duyulara hitap edecek şekilde basitten karmaşığa, yakından uzağa, somuttan soyuta gibi öğrenme ilkelerine uygun ve tüm öğrenme ortamlarında uygulanacak şekilde düzenlenebilir. Destekleme sürecinde oyun, bilmece sorma, bulmaca çözme şarkı ve tekerleme söyleme, sayışma ve canlandırma yapma gibi etkinliklerden ve görsel eşleştirme kartlarından yararlanılabilir. Etkinlikler yapılırken öğrencilerin zorlandıkları yerlerde onlara ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde öğrencilerin hazırbulunuşluk, ilgi ve öğrenme stilleri dikkate alınır ve bunlara ilişkin etkinlik/materyal hazırlanabilir. Bunlar merak uyandıracak, üst düzey düşünmeye yöneltecek ve bireysel öğrenme ihtiyaçlarını karşılamaya yönelik olabilir. Dinleyeceği/izleyeceği/okuyacağı metinle ilişkili hikâye oluşturma, canlandırma yapma, dijital araçlardan yararlanma, görsel oluşturma, oyun tasarlama, sunu hazırlama, yazarın iletilerini sorgulama, tartışma, metni yeniden kurgulama gibi etkinliklerle süreç zenginleştirilebilir. Zenginleştirme sürecinde öğrenme ortamları öğrencilerin farklı öğrenme stillerine göre bireysel ve iş birlikli çalışmalara katkı sağlayacak şekilde tasarlanabilir. Bununla birlikte okul dışı öğrenme ortamları da sürece dâhil edilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, dereceli puanlama anahtarı, performans görevi, öz değerlendirme formu ve çalışma kâğıdı kullanılarak değerlendirilebilir.Dinleme/ izleme, okuma, konuşma ve yazma becerilerinin birkaçını veya tamamını içerenbir performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarıkullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "Öğrenme-öğretme uygulamaları aşağıdaki sırayla yapılacaktır:ğüp",
+    "İşlenecek metinle ilgili video, sunu, şarkı gibi materyal öğretmen tarafından belirlenir. Materyal aracılığıyla soru-cevap, beyin fırtınası, tartışma gibi etkinliklerle öğrencilerin metinle etkileşim kurmaları ve metnin içeriğini merak etmeleri sağlanır ( E1.1 ).",
+    "Öğrencilerden metnin başlığını, görsellerini inceleyerek metnin içeriği hakkında görüş oluşturmaları, metnin konusu ve metinde geçen olaylar/bilgiler hakkında tahminde bulunmaları istenir ( OB4 , E1.1 , KB2.2 , SDB2.1 , KB2.12 ). Öğrencilerden görüşlerini sözlü bir şekilde ifade ederken sözcükleri yerinde ve anlamına uygun kullanmaları beklenir. Öğrencilerin görselleri inceleme sırasında görsel okuryazarlığı desteklenirken metnin içeriğine yönelik meraklanmaları sağlanır ( KB2.10 , KB2.12 , KB1 , SDB2.1 , E1.5 ). Bu aşama kontrol listesi ile değerlendirilebilir.",
+    "Metin öğretmen tarafından gelişme bölümünden başlanarak sesli bir şekilde okunur veya gelişme bölümünden başlanarak dinletilir. Öğretmenin okuduğu/dinlettiği bölümün öncesinde nelerden bahsedildiği, hangi olayların gerçekleştiği öğrenciler tarafından tahmin edilir ( KB2.12 , SDB2.1 , SDB2.3 ). Dinledikleri metinle ilgili tahminlerini belirtirken dinleme sürecini olumsuz etkilemeyecek şekilde konuşmaya dâhil olmak için uygun zamanda söz almaları istenir ( SDB2.1 , E3.8 , D14 ). Tahminlerini ifade ederken vurgu ve tonlamaya dikkat ederek konuşmaları beklenir ( SDB2.1 , E1.5 ). Öğretmen tarafından sesli okuma yapılırken öğrencilerden metni dinleme kurallarına uygun ve ön bilgilerinden yararlanarak dinlemeleri istenir ( D4 , D14 , SDB2.1 , E1.5 , E2.3 , KB3.3 , KB2.7 ). Dinlemeye başlamadan önce bulundukları ortamın fiziki (ışık, ses, sıcaklık vb.) açıdan dinlemeye uygun olup olmadığını kontrol etmeleri beklenir, bu ortamın duygu, düşünce ve davranışlarını nasıl etkilediğini açıklamaları istenir ( KB2.16 ). Öğrencilerden metni sessiz okumaları istenir. Okuma esnasında öğrencilerden uygun oturuş pozisyonunda, metinle göz arasındaki uygun mesafeye ve noktalama işaretlerine dikkat ederek okumaları sağlanır. Öğrencilerden ön bilgileri ile okudukları metin arasında ilişki kurarak metni anlamlandırmaları beklenir ( KB2.7 , KB2.16 , KB3.3 ). Metnin içeriğine uygun biçimde kendi yaşantılarından örnekler vererek karşılaştırma yapmaları sağlanır. Metnin okunması sırasında belirlenen, anlamını bilinmeyen sözcüklerin anlamlarını bağlamdan yararlanarak yazmaları istenir. Okuduğu metindeki iletilere katılıp katılmadığını nedenleriyle ifade etmeleri istenir ( KB2.3 , KB2.18 , SDB2.1 , E1.2 , E2.3 ). Okuduklarında katılmadığı görüşlerin yerine farklı görüşler önermesi istenir. Öğrencilerin duygu ve düşüncelerini açıkça söylemeleri ve okudukları metne yönelik farklı önerilerde bulunmaları istenir ( KB2.3 , KB2.18 , SDB2.1 , E1.2 , E2.3 , D6 ).",
+    "Okudukları metinde yer alan karakterleri fiziksel, sosyal, duygu durumu gibi özelliklerine göre betimlemeleri istenir. Olay veya bilgiyi kısaca açıklamaları, duyguları ifade etmeleri beklenir. Metinde yer alan gerçek ve mecaz anlamlı sözcüklerin metinle ilişkisini belirlemeleri istenir ( KB2.4 , KB2.14 , SDB2.1 ). Öğrencilerden dinlediği, izlediği veya okuduğu metindeki ipuçlarından yararlanarak metnin konusunu bulmaları istenir ( KB2.6 , KB2.13 , SDB2.1 ) . Dinledikleri/izledikleri veya okudukları metinde verilmek istenen iletiyi belirlemeleri beklenir ( KB2.6 , KB2.13 , SDB2.1 ) . Bu aşama kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilerden ilgi alanlarını (dinleme, izleme, konuşma, okuma, zevk aldıkları diğer konular vb.) ve okuma amaçlarını (eğlenmek, bilgilenmek, vakit geçirmek vb.) belirlemeleri istenir. Belirledikleri ilgi alanına ve amaca yönelik uygun okuma tercihlerini belirtmeleri istenir ( KB1 , KB3.1 , SDB3.3 ) . Okuma tercihlerine dair düşüncelerini hazırlıksız yazma çalışmalarında ifade etmeleri beklenir ( KB1 , E1.2 , KB3.1 ) . Öğrenciden ilgi alanına ve amacına göre seçtiği metin için okuma veya dinleme/izleme stratejisi seçmesi istenir ( KB3.1 , KB1 , KB2.5 ). Bu stratejileri seçerken öncesi, sırası ve sonrasına göre belirleme yapmaları beklenir (Örneğin bilgilenmek için izliyorsa okuma veya dinleme/izleme öncesinde konu tahmininde bulunur, konu ile ilgili ön bilgilerini gözden geçirir.). Dinleme sırasında vurgu, tonlama ve telaffuza dikkat ederek dinler, dinlediklerine/izlediklerine dair not alır, dinlediklerini/izlediklerini zihninde canlandırır, dinlediklerinde/izlediklerinde geçen bilgileri ön bilgileri ile karşılaştırır, konuyu belirler, dinleme/izleme sonrasında dinlediklerini/ izlediklerini özetler, değerlendirir, soru çalışmaları yapar, yeniden ifade eder ve sorgular. Öğrencilerden dinleme/izlemeye yönelik seçtiği stratejiyi sözlü bir şekilde açıklamaları istenir ( KB3.1 , KB1 , KB2.5 ). Konuşmalarını yapmaları esnasında üslubunu katılımcıların özelliklerine göre belirlemeleri, konuşma amacına ve konuşma türüne göre konuşma içeriği oluşturmaları, ifade etmek istediği duyguyu ses tonuna yansıtmaları, ses düzeyini dinleyicilerin duyabileceği şekilde ayarlamaları ve konuşma kurallarına uygun bir şekilde iletişimi sürdürmeleri beklenir ( KB1 , KB3.1 , SDB2.1 , E1.5 , E2.3 ). Bu aşamada yer alan beceriler gözlem formu, performans görevi veya öz değerlendirme formu ile değerlendirilebilir.",
+    "Öğrencilerden verilen yazma görevinin konusunu dikkate alarak yazının türünü (yeniden anlatma, öyküleme, bilgi raporu, açıklama, tartışma vb.) belirlemeleri istenir. Seçtiği türe uygun cümle, üslup ve kalıp ifadelere yer vererek sözcükleri yerinde ve anlamına uygun kullanmaları gerektiği vurgulanır. Yazılarında noktalama işaretlerini kuralına uygun bir şekilde kullanmaları istenir ( KB1 , KB3.1 , D16 , SDB2.1 , E2.3 , E1.5 ). Yazma görevini hazırlarken metnin içeriğine uygun bir şekilde sık karşılaşılan deyim ve atasözlerine yer vermeleri beklenir ( KB2.13 ) . Günlük hayatta sıklıkla duyulan ve kültürel bağlamı ifade eden atasözlerini dijital veya basılı kaynaklardan araştırarak söylemeleri istenir ( OB2 , OB5). Anlamını öğrendiği atasözlerini konuşmalarında yerinde ve anlamına uygun kullanmaları beklenir ( KB2.13 , SDB2.1 ). Burada öğrencinin yazmaya yönelik yukarıda belirtilen becerileri ortaya çıkaracak performans görevi ve kontrol listesi kullanılabilir.",
+    "Öğrencilerden istek, şikâyet ve önerilerini uygun iletişim aracını (mektup, dilekçe, tebrik kartı, anlık ileti) kullanarak ifade etmeleri istenir ( SDB2.1 ). Çevrim içi yazışmalarını belirli bir kişiye/gruba hitap ederek başlatmaları beklenir. Çevrim içi yazışmalarını iletişime uygun bir şekilde (hâl hatır sorma, duygu/bilgi paylaşımı vb.) sürdürmeleri sağlanır. İyi dileklerini iletme ve vedalaşma ifadeleri ile çevrim içi yazışmalarını sonlandırmaları istenir. Yazışmalarında/çevrim içi yazışmalarında iletilerini birden çok cümleyle açık, net ve anlaşılır şekilde ifade etmeleri istenir ( KB2.14 ) . Burada öğrencinin yazmaya yönelik yukarıda belirtilen becerileri ortaya çıkaracak dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14",
+      "D16",
+      "D4",
+      "D6"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E1.5",
+      "E2.3",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB1",
+      "KB2.10",
+      "KB2.12",
+      "KB2.13",
+      "KB2.14",
+      "KB2.16",
+      "KB2.18",
+      "KB2.2",
+      "KB2.3",
+      "KB2.4",
+      "KB2.5",
+      "KB2.6",
+      "KB2.7",
+      "KB3.1",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/395"
+}

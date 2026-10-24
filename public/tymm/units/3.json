@@ -1,0 +1,93 @@
+{
+  "unitId": 3,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "2. TEMA: ORGANİZASYON",
+  "hours": "24",
+  "description": "Bu temanın içeriğini hücre ve hücresel organizasyon ile canlıların sınıflandırılması ve biyoçeşitlilik konuları oluşturmaktadır. Tema kapsamında öğrencilerin hücre alt birimlerini ve bu birimler arasındaki ilişkileri çözümlemeleri, hücre zarından madde geçişlerini sınıflandırmaları, hücre zarından madde geçişleriyle ilgili deney yapmaları, canlılardaki yapısal organizasyon hakkında tümevarımsal akıl yürütmeleri, üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile biyoçeşitliliği oluşturan unsurlara ilgili çıkarım yapmaları ve çevrelerindeki canlıları sınıflandırma ölçütlerine göre sınıflandırmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.9.2.1",
+      "title": "Hücre alt birimlerini ve bu birimlerin işlevleri arasındaki ilişkileri çözümleyebilme",
+      "processComponents": [
+        "a) Hücre alt birimlerini ve bu birimlerin görevlerini belirler.",
+        "b) Hücre alt birimlerini ve bunlar arasındaki bütüncül ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BİY.9.2.2",
+      "title": "Hücre zarından madde geçişlerini sınıflandırabilme",
+      "processComponents": [
+        "a) Hücre zarından madde geçişlerine ilişkin nitelikleri belirler.",
+        "b) Hücre zarından madde geçişlerini niteliklerine göre ayrıştırır.",
+        "c) Hücre zarından madde geçişlerini gruplandırır.",
+        "ç) Gruplandırdığı madde geçiş yöntemlerini adlandırır/etiketler."
+      ]
+    },
+    {
+      "code": "BİY.9.2.3",
+      "title": "Küçük moleküllerin hücre zarından pasif geçişi ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Difüzyon ve ozmoz olaylarına ilişkin deney tasarlar.",
+        "b) Difüzyon ve ozmozun günlük hayattaki etkilerini açıklamak için tasarladığı deneyde ölçme ve veri analizi yapar."
+      ]
+    },
+    {
+      "code": "BİY.9.2.4",
+      "title": "Canlıları sınıflandırabilme",
+      "processComponents": [
+        "a) Canlıları sınıflandırmak için kullanacağı nitelikleri belirler.",
+        "b) Belirlediği/tanımladığı niteliklere göre canlıları ayrıştırır.",
+        "c) Ayrıştırdığı canlıları belirli bir başlık altında gruplandırır.",
+        "ç) Modern sınıflandırmaya göre gruplandırdığı canlılara ilişkin adlandırmalarını bilimdeki karşılığıyla etiketler."
+      ]
+    },
+    {
+      "code": "BİY.9.2.5",
+      "title": "Üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile ilgili çıkarım yapabilme",
+      "processComponents": [
+        "a) Üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile ilgili bilgilerinden hareketle varsayımda bulunur.",
+        "b) Üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile ilgili örüntüleri listeler.",
+        "c) Üç üst âlem (domain) sisteminde yer alan canlıların özellikleri ile ilgili karşılaştırma yapar.",
+        "ç) Üç üst âlem (domain) sisteminde yer alan canlıların özelliklerine ilişkin önerme sunar.",
+        "d) Üç üst âlem (domain) sisteminde yer alan canlıların özelliklerine ilişkin değerlendirme yapar."
+      ]
+    },
+    {
+      "code": "BİY.9.2.6",
+      "title": "Biyoçeşitliliği oluşturan unsurlarla ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Biyoçeşitliliği oluşturan unsurların niteliklerini tanımlar.",
+        "b) Türkiyenin biyolojik çeşitliliği ile ilgili veri toplar ve kaydeder.",
+        "c) Türkiyenin biyoçeşitliliği ile ilgili topladığı verileri biyoçeşitliliği oluşturan unsurlarla ilişkilendirerek yorumlar ve değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "endositoz, ekzositoz, aktif taşıma, pasif taşıma, organeller, sitoplazmik yapılar, sınıflandırma kategorileri, ikili adlandırma, domain, tür, arke, bakteri, protista, bitki, mantar, hayvan, endemik tür",
+  "support": [
+    "Hücre maketi kullanılarak öğrencilerin hücre alt birimlerini ve bu birimlerin birbiriyle olan ilişkilerini görmeleri sağlanabilir.",
+    "Öğrencilere hücre zarından madde geçişlerini gösteren video ve animasyon izletilebilir. Madde geçişleri ile ilgili drama etkinlikleri yaptırılabilir.",
+    "Öğrencilere difüzyon ve ozmoz olaylarını gösteren video ve animasyon izletilebilir. Öğrencilerin difüzyon ve ozmozun özellikleri hakkında elde ettikleri bilgileri çalışma defterine aktarmaları sağlanabilir.",
+    "Renkli bilgi kartları, örnek maket veya modeller, farklı bitki örnekleri kullanılarak öğrencilerden canlıları sınıflandırmaları istenebilir. Öğrencilere canlıların yapısal özelliklerinin değişmesinin ekosisteme etkisini örnekleyen olaylarla ilgili görsel veya video gösterilebilir. Yakın çevredeki ağaçlar incelenebilir, Türkiye'deki ağaç türleri ile ilgili görsel veya dijital materyaller kullanılarak biyolojik çeşitliliği belirleyen unsurların anlaşılması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden sinir veya kas hücresi gibi özelleşmiş hücrelerin alt birimlerinin, hücrenin özel fonksiyonlarına göre nasıl özelleştiğini araştırmaları ve seçecekleri bir hücrenin, görevi doğrultusunda nasıl şekillendiğini gösteren bir model hazırlamaları istenebilir. Öğrencilerden hücre iskeleti elemanları (mikrotübül, mikrofilament ve ara filament) ve hücre bağlantı noktaları hakkında (dezmozom, hemidezmozom, oluklu bağlantı vb.) araştırma yapmaları ve konuyla ilgili bilgi görseli oluşturmaları istenebilir. *Öğrencilerden ilaçların vücuttaki belirli hücreleri nasıl hedeflediğini veya virüslerin hedef hücreyi nasıl belirlediğini, hücre zarından madde geçişi kurallarıyla ilişkilendiren araştırma yapmaları ve araştırma bulgularını sunmaları istenebilir. Öğrencilere böbrek yetmezliği yaşayan hastaların kullandığı diyaliz makinesinin kan temizleme mekanizmasını zarlardan madde geçişiyle ilişkilendirecekleri veya beyin-kan bariyeri ve bazı ilaçların merkezî sinir sistemi üzerindeki etkilerini değerlendirecekleri bir proje yaptırılabilir. Tarih boyunca yanlış sınıflandırılan veya adlandırılan canlılara (denizatı, yıldız balığı vb.) ilişkin örnekler verilerek, öğrencilerden bu adlandırmaların bilimsel doğruluk açısından araştırılması ve elde ettikleri araştırma sonuçlarını bir rapor hâlinde sunmaları istenebilir. *Öğrencilerden üç üst âlemden (Arkea, Bakteria, Ökaryot) seçilecek örnek canlıların yaşadıkları ortamları ve hayatta kalma stratejilerini araştırmaları, bu canlıların ekstrem koşullara uyumlarını açıklamaları ve bu özelliklerin insanlık yararına nasıl kullanılabileceğine (biyoteknoloji, çevre temizliği, enerji üretimi vb. alanlarda) dair yaratıcı çözüm önerileri sunmaları istenebilir. Öğrencilerden web araçları kullanarak Türkiye'deki canlıların ekolojik ve ekonomik önemi hakkında animasyon veya kısa filmler hazırlamaları istenebilir"
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; deney, poster, broşür, performans görevi, bilgi görseli, yapılandırılmış grid, kavram haritası kullanılarak puanlama anahtarı, analitik ve bütüncül dereceli puanlama anahtarı, öz değerlendirme formu ve grup değerlendirme formu ile değerlendirilebilir.",
+    "Öğrencilere hücrenin yapısal bileşenlerini belirleyip bu bileşenler arasındaki ilişkiyi gözeterek hücreyi modelleyecekleri bir poster hazırlamaya yönelik performans görevi verilebilir. Posterin değerlendirilmesinde bütüncül dereceli puanlama anahtarı kullanılabilir, öz değerlendirme yapılabilir."
+  ],
+  "teachingApplications": [
+    "BİY. 9.2.1 a-b) Mikroskopta hazırlanan örnekler ya da hazır preparatlar kullanılarak prokaryot ve ökaryot hücre örnekleri incelenebilir. Öğrencilere prokaryot ve ökaryot hücre animasyonları veya videoları izletilebilir. Hücreyi oluşturan alt birimlerin görevlerinin analojilerle somutlaştırıldığı örnekler kullanılabilir. Öğrencilerden prokaryot, ökaryot hücrelerle ilgili bilgilerden hareketle hücreyi oluşturan alt birimleri, bu birimlerin görevlerini ve birbiriyle işlevsel ilişkilerini belirlemeleri istenir. Bu süreçte mikrofilament ve arafilament kavramlarına girilmez. Hücreyi oluşturan alt birimlerin yapılarını, görevlerini ve bu birimler arasındaki işlevsel ilişkileri güvenilir kaynaklardan doğrulamaları; bu ilişkileri gösteren bilgi görseli hazırlamaları ve sınıfta konuyla ilgi sunum yapmaları istenir (D.3.3). Sunum yapılırken öğrencilerden birbirlerini dikkatle dinlemeleri, birbirlerinin sözünü kesmemeleri ve varsa sorularını sunum sonunda saygı çerçevesinde sormaları istenir (OB4, D14.1). Fark ettikleri ilişkilerden yola çıkarak hücresel yapıların bütüncül ilişkilerini açıklamaları beklenir (D16.3).",
+    "BİY.9.2.2 a) Öğrenciler, hücre zarında gerçekleşen madde geçişleriyle ilgili görselleri inceleyerek veya video, animasyon vb. izleyerek madde geçişlerinin niteliklerini (molekül büyüklüğü, enerji kullanımı, molekülün geçiş yönü ve konsantrasyon farkı) öğretmen rehberliğinde ortaya koyar (OB4). b-c) Öğrencilerden hücre zarından madde geçişlerini (basit difüzyon, kolaylaştırılmış difüzyon, ozmoz, aktif taşıma, endositoz ve ekzositoz) molekül büyüklüğü, enerji gereksinimi, geçiş yönü, ortamlar arası konsantrasyon farkına göre ayrıştırıp gruplandırmaları istenir. Bu süreçte ikincil aktif taşıma, simport, antiport kavramlarına değinilmez. ç) Öğrenciler görsel, video veya animasyonlardan elde ettikleri bilgilerle ayrıştırıp gruplandırdıkları taşıma çeşitlerini öğretmenin vereceği bilgi kartlarındaki bilimsel isimlerine göre adlandırır (OB4). Öğrencilerin hücre zarından madde geçişini sınıflandırmalarını sağlamak amacıyla yapılandırılmış grid kullanılabilir. Yapılandırılmış grid, puanlama anahtarı ile puanlanabilir.",
+    "BİY.9.2.3 a) Salatada kullanılan soğanın tuzlanarak bekletilmesi gibi günlük yaşam olaylarında meydana gelen değişimlerin nedeni sorularak merak uyandırılır (E1.1). Gruplara ayrılan öğrencilerden difüzyon ve ozmoz olaylarına ilişkin deney tasarlamaları istenir. Tasarlanan deneyler yapılırken laboratuvar kuralları hatırlatılır. Öğrenciler, deney bulgularının doğruluğunu ve güvenilirliğini etkileyebilecek olumsuz durumlar (aşırı ısıtma, ortamın akışkanlığının değişmesi vb.) için tedbirler alır. Bu süreçte engelleri aşmak için azimli davranmanın önemine dikkat çekilerek sabır değeri vurgulanır. Öğretmen, öğrencileri deneyi tamamlama konusunda motive eder (E3.2, OB7, D3.1, D12.3). b) Öğrencilerden yaptıkları deneyin sonuçlarını analiz ederek diyaliz makinesinde kanın temizlenmesi, kuru ortamda sebzelerin buruşması, çiçeğin kokusunun yayılması gibi günlük yaşam olaylarının difüzyon ve ozmozun etkisiyle nasıl gerçekleştiğini açıklamaları beklenir (OB7).",
+    "BİY.9.2.4 a) Öğretmen tarafından beş veya altı kişilik çalışma grupları oluşturulur. Gruplardan çevrelerinde gördükleri canlıları listelemeleri istenir. Düşün-eşleş-paylaş tekniği kullanılarak öğrencilerin oluşturdukları listeleri diğer gruplarla paylaşması ve karşılaştırması sağlanır. Öğrencilerden öğretmen rehberliğinde belirleyecekleri dört canlı türüyle ilgili grup çalışması yaparak bilgi toplamaları istenir (OB1). Bu canlıları sınıflandırmak için kullanılacak özellikleri (morfolojik yapıları, yaşam alanları, beslenme farklılıkları vb.) belirlemeleri ve bu özelliklerle ilgili bir gruplama sistemi oluşturmaları istenir. b-c) Öğrencilerden çevrelerinde gördükleri canlıları belirledikleri özelliklere göre ayrıştırmaları ve ayrıştırdıkları canlıları kendi oluşturdukları gruplama sistemine yerleştirmeleri istenir (KB2.9).",
+    "ç) Öğrencilerden listelerindeki canlıların modern sınıflandırma ölçütlerine göre nasıl sınıflandırıldığını incelemeleri istenir. Bu süreçte \"analog ve homolog organ\" terimleri ve \"ampirik sınıflandırma\" kavramı verilmez. Öğrenciler, kendi gruplama sistemleri aracılığıyla yaptıkları sınıflandırma ile modern sınıflandırmaya göre gruplandırdıkları canlılara ilişkin adlandırmalarını bilimdeki karşılığıyla kıyaslar. Canlıların günlük yaşamdaki isimleri ile bilimsel isimlerini karşılaştırır (D3.3, E1.1). Bu süreçte canlıların özellikleri aktarılırken \"embriyonik gelişim, vücut simetrisi, organların kökenleri, boşaltım ürünleri\" kavramları verilmez. Öğrencilerin canlıların benzerlik ve farklılıklarının belirlenmesine yönelik ölçütler oluşturarak sınıflama ve ayrıştırma yapmalarını sağlamak amacıyla tanılayıcı dallanmış ağaç kullanılabilir. Tanılayıcı dallanmış ağaç, puanlama anahtarı ile puanlanabilir.",
+    "BİY.9.2.5 a-b) Öğrencilere üç üst âlem (domain) sisteminde yer alan farklı canlı türlerini birbirinden ayıran özelliklerle ilgili bilgi kartları ve farklı canlı türlerinden örnekler içeren görseller verilir. Öğrencilerden örnek verilen canlıların özelliklerinden yola çıkarak bu canlıların hangi domaine ait olduğuna dair varsayımlarda bulunmaları istenir. Bu süreçte üç üst âlem içinde yer alan canlıların birbirinden farklı yönlerini gösteren görsel materyallerden yararlanılır (OB4). Histon ve peptidoglikan kavramları verilir ancak bunların yapısına, çeşitlerine, görevlerine, hücre duvarı yapısından kaynaklanan farklılıklara değinilmez. Öğrencilerden ''Üç Domaini Birbirinden Ayıran Temel Özellikler\" tablosunu doldurmaları istenir. Tabloya işledikleri bilgilerden hareketle canlıların özelliklerine ilişkin örüntüleri tespit etmeleri ve listelemeleri beklenir (OB7). Bu süreçte bakterilerin, protistlerin, arkelerin, mantarların ve omurgasız canlıların kendi içindeki sınıflandırmasına değinilmez; bu gruplar görsellerle örneklendirilir. Bakterilerin enerji metabolizması, üremesi, genetik bilgi aktarım mekanizmaları verilmez. Bitkilerde açık-kapalı iletim demeti, çenek ayrımı ve üreme mekanizmasına; omurgasız canlılarda dolaşım sistemleri, iskelet ve üreme çeşitlerine değinilmez. c-ç) Öğrenciler, ''Üç Domaini Birbirinden Ayıran Temel Özellikler\" tablosundan elde ettikleri verilerden hareketle üç üst âlem sisteminde yer alan canlıları özellikleri açısından karşılaştırır. Öğrencilerden elde ettikleri bilgileri kullanarak söz konusu canlıların özellikleri ve biyolojik önemleri hakkında önermeler sunmaları istenir. d) Öğrencilerden canlıların genel özellikleri hakkında sundukları önermelerin tümünün yer aldığı ve sınıfın ortak değerlendirmesini yansıtan bir rapor hazırlamaları istenebilir. Rapor hazırlama sürecinde öğrencilerin planlı ve düzenli çalışmaları istenerek onların çalışkanlık değerini kazanmaları desteklenir (D3.2). Rapor, sınıf/okul panosunda paylaşılır veya okul gazetesinde yayımlanır (OB7). Kullanılan bilgi kaynaklarının raporda belirtilmesi gerektiği vurgulanır. Öğrenciler, raporlarında yer alan önermelerini kendi yaşamlarıyla ilişkilendirir.",
+    "BİY.9.2.6 a) Biyoçeşitliliği oluşturan temel unsurlar vurgulanır. Türkiye ve Kuzey Kıbrıs Türk Cumhuriyeti'ndeki (KKTC) zengin ve eşsiz biyolojik çeşitliliğini ve biyoçeşitliliği oluşturan unsurları konu alan animasyon, video veya fotoğraflar paylaşılabilir. Öğrencilerden izledikleri/gördükleri canlılardan yola çıkarak biyolojik çeşitliliği oluşturan temel unsurları tanımlamaları beklenir (OB4, OB5). b) Öğrencilerden küçük gruplar oluşturarak Ulusal Biyolojik Çeşitlilik Veritabanı gibi güvenilir kaynaklardan Türkiye'deki biyoçeşitlilik ile ilgili bilgi toplamaları ve elde ettikleri verileri kaydetmeleri istenir (OB1, OB2, OB7, D3.3). Bu süreçte öğrencilerden saygı değerinin gereği olarak grup içinde arkadaşlarını nezaketle dinlemeleri, duygu ve düşüncelerini sözlü olarak ifade etmeleri ve iletişim engellerinin farkına varmaları beklenir (SDB2.1, D14.1).",
+    "c) Öğrencilerden Türkiyenin biyoçeşitliliği ile ilgili topladığı verileri biyoçeşitliliği oluşturan unsurlarla ilişkilendirerek yorumlamaları ve değerlendirmeleri istenir. Öğretmen, toplanan verilerin yorumlanması sürecinde veriler arasındaki ilişkilerin nasıl düzenleneceği ve verilerin nasıl analiz edileceği konusunda öğrencilere rehberlik eder (OB7). Her gruptan bir bilgi görseli oluşturması istenir. Bilgi görseli çalışmasına grup üyelerinin her birinin katkıda bulunması beklenir ve grup çalışmalarında herkesin aktif rol almasının çalışkanlık değerinin gereği olduğu hatırlatılır (D3.4)."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/3"
+}

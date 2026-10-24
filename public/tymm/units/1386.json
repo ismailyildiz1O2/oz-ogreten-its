@@ -1,0 +1,57 @@
+{
+  "unitId": 1386,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyola Modülü",
+  "title": "1. TEMA: ÇALGININ KORUNMASI VE BAKIMI",
+  "hours": "",
+  "description": "Temada öğrencilerin viyola çalgısının korunması ve bakımını anlayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VİY.2.1.1",
+      "title": "Viyolanın korunması ve bakımını gözlemleyebilme",
+      "processComponents": [
+        "a) Viyolanın korunması ve bakımını gözlemlemek için amaç belirler.",
+        "b) Koruma ve bakıma ilişkin veri toplar.",
+        "c) Gözlemleri doğrultusunda topladığı verileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "bakım, korunma",
+  "support": [
+    "Destekleme sürecinde \"Viyola Doktorları\" etkinliği adıyla öğrenciler öğretmen rehberliğinde gruplara ayrılıp çalgı bakımında karşılaşılan sorunları analiz ederek bir çözüm önerisi sunabilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme sürecinde \"Dedektif Oyunu\" adıyla öğrenciler, viyolanın yanlış kullanımı sonucu oluşan problemlerin nedenlerini araştırarak sunum yapabilir veya viyolanın bakım aşamalarını bir hikâye ya da çizgi roman formatında anlatan mini kitapçıklar hazırlayabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi ve performans görevi ile ölçülebilir. Performans görevi olarak öğrencilerden hazırladıkları kısa yazı, şema veya resim gibi materyalleri sınıfta sunmaları istenebilir. Performans görevleri, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VİY.2.1.1",
+    "Dersin başında viyolanın yapısını ve bakım gerekliliğini açıklayan görseller gösterilir. Görseller öğrenciler tarafından algılanır ve çalgının temizliği için gerekli araç ve gereçler belirlenir ( OB1 , OB4 ). Viyolanın korunması ve bakımını gözlemlemek için amaç belirlenir. Temizlik ve bakım sırasında kullanılan gereçlerin işlevleri açıklanır ve bu araçların doğru şekilde kullanımı uygulamalı olarak gösterilir. Öğrenciler, öğretmenin rehberliğinde çalgının farklı bölümlerinin nasıl temizleneceğini öğrenir. Bu süreçte düzenli bakımın çalgının performansı üzerindeki etkisi hakkında farkındalık kazandırılır ( KB2.15 ). Sınıfa, viyolanın yanlış kullanımı sonucu ortaya çıkabilecek problemler hakkında sorular yöneltilir. Öğrencilerin daha önce çalgı bakımıyla ilgili deneyimleri olup olmadığı tartışılır. Bu konuda sorular sormaları beklenir ( E3.8 ). Öğrencilerle sıcaklık ve nem değişimlerinin viyola üzerindeki etkileri tartışılır. Öğrencilere viyolanın özel taşıma çantasında muhafaza edilmesi gerektiği açıklanır ( SDB2.1 ). Çalgının gövdesinin ve tellerinin nasıl temizlenmesi gerektiği pratik olarak gösterilir. Öğrencilerin bu esnada gözlem yapmaları sağlanır ( KB2.2 ). Müzik aletlerinin daha verimli kullanılması için bakım ve temizliğinin özenle yapılmasının gerekliliği üzerinde durulur ( D17.3 ). Akort burgularının nasıl sıkılıp gevşetileceği uygulamalı olarak gösterilir. Öğrenciler yay kıllarına reçine sürme pratiği yapar. Koruma ve bakıma ilişkin veri toplanır. Çalgıya karşı sorumluluk bilincinin kazandırılması ve bakım alışkanlığının geliştirilmesi için öğrencilerden viyola çalarken ve saklarken dikkat etmeleri gereken değerleri belirlemeleri istenir ( D16.3 ). Çalgıya duyulan saygının, müziğe ve sanata olan bağlılığı artırdığı vurgulanır ( SDB2.1 ).Öğrencilerin gözlemler doğrultusunda topladığı veriler kaydedilir. Öğrencilerin gözlemleri kısa yazı, şema veya resim gibi görsel materyallere dönüştürülerek etkileşimli tahtada bulunan şahsi klasörlerine bir harici bellek vasıtasıyla kaydedilir ( OB2 ). Performans görevi olarak öğrencilerden hazırladıkları materyalleri sınıfta sunmaları istenebilir ( SDB1.2 ). Performans görevi, gözlem formu veya dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D17.3"
+    ],
+    "egilim": [
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.15",
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1386"
+}

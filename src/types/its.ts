@@ -24,6 +24,7 @@ export interface SkillMastery {
   code: string;
   title: string;
   description: string;
+  processComponents?: string[];
   params: BKTParams;
   attempts: number;
   lastUpdated?: string;
@@ -81,6 +82,75 @@ export interface ChatMessage {
   } | null;
 }
 
+// ============================================================================
+// Türkiye Yüzyılı Maarif Modeli (TYMM) Veri Tipleri (catalog.json, codes.json, units/*.json)
+// ============================================================================
+
+export interface TymmCodeItem {
+  category: string;
+  code: string;
+  label: string;
+  source?: string;
+}
+
+export interface TymmCatalogUnitSummary {
+  unitId: number;
+  title: string;
+  hours: string;
+  outcomesCount: number;
+  outcomeCodes: string[];
+}
+
+export interface TymmCatalogSubject {
+  subject: string;
+  units: TymmCatalogUnitSummary[];
+}
+
+export interface TymmCatalogGrade {
+  grade: number;
+  gradeName: string;
+  subjects: TymmCatalogSubject[];
+}
+
+export interface TymmCatalog {
+  version: string;
+  source: string;
+  totalUnits: number;
+  classes: TymmCatalogGrade[];
+}
+
+export interface TymmOutcome {
+  code: string;
+  title: string;
+  processComponents: string[];
+}
+
+export interface TymmUnitDetail {
+  unitId: number;
+  grade: number;
+  gradeName: string;
+  subject: string;
+  title: string;
+  hours: string;
+  description: string;
+  outcomes: TymmOutcome[];
+  keyConcepts: string;
+  support: string[];
+  enrichment: string[];
+  assessment: string[];
+  teachingApplications: string[];
+  skills: {
+    deger?: string[];
+    egilim?: string[];
+    kavramsal?: string[];
+    okuryazarlik?: string[];
+    sosyal_duygusal?: string[];
+    alan?: string[];
+  };
+  sourceUrl?: string;
+  resolvedSkills?: TymmCodeItem[];
+}
+
 export interface TutorAPIRequest {
   message: string;
   history: Array<{ role: "tutor" | "student"; content: string }>;
@@ -91,6 +161,7 @@ export interface TutorAPIRequest {
     weight: number;
   };
   skills: Record<string, SkillMastery>;
+  activeUnit?: TymmUnitDetail | null;
 }
 
 export interface TutorAPIResponse {

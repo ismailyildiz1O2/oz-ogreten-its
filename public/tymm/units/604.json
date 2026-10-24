@@ -1,0 +1,77 @@
+{
+  "unitId": 604,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Beden Eğitimi ve Spor Dersi",
+  "title": "1. TEMA: ZİNDELİK VE FİZİKSEL AKTİVİTE",
+  "hours": "10",
+  "description": "Öğrencilerin sağlıklı beslenme ile fiziksel etkinlik arasındaki ilişkiyi yorumlayabilmeleri, fiziksel uygunluk bileşenlerinden dengeyi sağlayabilmeleri, fiziksel etkinliklerde ritmik hareket edebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BES.10.1.1",
+      "title": "Sağlıklı beslenme ile fiziksel etkinlik arasındaki ilişkiyi yorumlayabilme",
+      "processComponents": [
+        "a) Sağlıklı beslenme ile fiziksel etkinlik arasındaki ilişkiyi inceler.",
+        "b) Sağlıklı beslenme ile fiziksel etkinlik arasındaki ilişkiyi bağlamından kopmadan yazılı veya görsel biçimlere dönüştürür.",
+        "c) Sağlıklı beslenme ile fiziksel etkinlik arasındaki ilişkiyi özgün bir şekilde ifade eder."
+      ]
+    },
+    {
+      "code": "BES.10.1.2",
+      "title": "Fiziksel uygunluk bileşenlerinden dengeyi sağlayabilme",
+      "processComponents": [
+        "a) Fiziksel uygunluk bileşenlerinden dengeyi açıklar.",
+        "b) Fiziksel uygunluk bileşenlerinden dengeyi içeren hareketleri uygular.",
+        "c) Fiziksel uygunluk bileşenlerinden dengeyi geliştirir."
+      ]
+    },
+    {
+      "code": "BES.10.1.3",
+      "title": "Fiziksel etkinliklerde ritmik hareket edebilme",
+      "processComponents": [
+        "a) Fiziksel etkinliklerde harekete/müziğe ilişkin ritmi algılar.",
+        "b) Fiziksel etkinliklerde ritme uygun hareket eder.",
+        "c) Fiziksel etkinliklerde ritmik hareket becerilerini sergiler."
+      ]
+    }
+  ],
+  "keyConcepts": "fiziksel etkinlik, ritim, sağlıklı beslenme, statik ve dinamik denge",
+  "support": [
+    "Öğretmen ve akran yardımıyla temel düzeydeki fiziksel etkinliğe uygun günlük beslenme çizelgelerini hazırlaması istenebilir. Temel düzeyde denge hareketlerini (topuk ve parmak ucunda yürüme, tek ayakla ileri-geri, sağa-sola sıçrama vb.) uygulaması istenebilir. Ritim eşliğinde bir hareket kalıbını yapması istenebilir."
+  ],
+  "enrichment": [
+    "Aile bireylerine yönelik bir haftalık fiziksel etkinlik için gerekli beslenme programı hazırlaması istenebilir. Denge becerisinin kullanıldığı hareketlerden oluşan bir seri oluşturması ve bunu uygulaması istenebilir. Hareket kalıplarını farklı ritimlerle bir araya getirip koreografiler oluşturması istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; kontrol listesi, gözlem formu, dereceli puanlama anahtarı ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilerin hazırladığı beslenme programı kontrol listesiyle değerlendirilebilir.",
+    "Öğrencilerin bireysel, eşli, aletle ve aletsiz yaptıkları çalışmalar gözlem formuyla değerlendirilebilir.",
+    "Performans görevi olarak grup çalışması yoluyla yaptıkları hareketleri kullanarak estetik bir koreografi oluşturmaları istenebilir. Performans görevi; hareketlerin çeşitliliği, grup uyumu, yaratıcılık vb. ölçütler kullanılarak oluşturulan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BES.10.1.1. Öğrencilere \"Beslenme alışkanlıklarının günlük aktiviteler üzerindeki etkileri neler olabilir?\", \"Fiziksel etkinliklerden önce ve sonra nasıl beslenirsiniz?\" vb. sorular sorulur. Öğrenciler verilen görsel, işitsel ve dijital kaynaklardan (kısa film, slayt, belgesel, makale vb.) sağlıklı beslenme ile fiziksel etkinlik arasındaki ilişkiyi inceler ( OB1 , OB2 ). Öğrenciler tartışma yoluyla besin grupları ve kalori miktarları ile fiziksel etkinliğin yoğunluğuna göre harcanan kalori miktarlarını belirler. Dönütlerden hareketle öğrencilerin besin grupları ve kalori miktarları ile fiziksel etkinlik yoğunluğuna göre harcanan kalori miktarlarını gösteren bir tablo oluşturmaları sağlanır. Oluşturulan tablodaki bilgilerden faydalanarak her öğrencinin günlük ihtiyaç duyduğu kalori miktarını hesaplaması istenir. Hesaplamanın ardından bir haftalık fiziksel etkinlik için gerekli beslenme programı hazırlar ( SDB1.2 , D13.1 ). Öğrenciler birbirlerinin programlarını karşılaştırarak fiziksel etkinlik ile sağlıklı beslenme ilişkisi hakkında çıkarımda bulunur ( SDB3.3 ). Öğrenciler çıkarımlarından hareketle fiziksel etkinlik ile beslenme arasındaki ilişkiyi ifade eder. Öğrencilerin hazırladığı bir haftalık fiziksel etkinlik için beslenme programı kontrol listesi ile değerlendirilebilir.",
+    "BES.10.1.2. Öğrencilere \"Denge çalışmalarının iskelet ve kas sistemi yaralanmalarını önlemede katkıları neler olabilir?\", \"Dengenin fiziksel aktivitelere etkileri neler olabilir?\" vb. sorular sorulur. Öğrencilerin beyin fırtınası yoluyla örnekler vererek dengeyi açıklamaları sağlanır. Öğrenciler denge çalışmalarından tek ayak üzerinde durma ve tek ayak üzerinde sıçrayıp aynı noktaya düşme hareketlerini yapar. Çalışmalardan hangisinin statik, hangisinin dinamik denge olabileceğine ilişkin öğrencilerin fikirleri alınır. Statik ve dinamik denge hareketlerine örnekler vermeleri istenir. Öğrenciler etkinlik öncesi hafif tempolu koşu, yürüme vb. ısınma hareketleri yapar. Dik pozisyonda dururken kolları yana açarak bir ayağı yukarı kaldırma, tek ayağı öne ve geriye doğru hareket ettirme, aynı hareketleri gözler kapalı şekilde yapma vb. çalışmalar yapar. Çalışmalar, öğrencilerin yaratıcılıklarını kullanmasına imkân verilecek şekilde çeşitlendirilir ( E3.3 ). Öğrenciler, eşli olarak tek ayak üzerinde basketbol topuyla sektirme ve paslaşma çalışmaları yapar ( BEOSAB7 ). Denge tahtası üzerinde kollar açık yürüme, tek ayağı kaldırma, ayak değiştirme, planör, kartal hareketi yapma vb. çalışmaları uygulamalı olarak yapar. Eşler, fiziksel uygunluk bileşenlerinden dengeyi geliştirmek için uygulanan denge hareketlerinden en az on tanesini birbirlerine uygulamalı olarak yaptırır ( SDB2.2 , D4.1 ). Öğrenciler birbirlerine yapıcı geri bildirim verir. Öğrenciler, etkinliğin ardından soğuma hareketlerini hafif tempolu koşu ve yürüyüş şeklinde gerçekleştirir. Öğrencilerin bireysel, eşli, aletle ve aletsiz yaptıkları çalışmalar gözlem formuyla değerlendirilebilir.",
+    "BES.10.1.3. Öğrencilere \"Ritme uygun hareket edebilmenin fiziksel gelişime etkileri neler olabilir?\", \"Basketbolda turnike, voleybolda smaç vb. özelleşmiş hareket becerilerinin uygulanmasında ritmin önemi ne olabilir?\" vb. sorular sorularak düşüncelerini paylaşmaları sağlanır. Öğrenciler, etkinlik öncesi hafif tempolu koşu, yürüme, kol ve bacak sallama vb. ısınma hareketleri yapar. Öğrenciler, belirlenen müziği beş defa dinler. Algıladığı ritme uygun olacak şekilde alkış, ayak hareketleri, dönme, salınma vb. hareketler yapar. Öğrenciler, vücutlarını soğutmak için hafif tempolu yürüyüş yapar. Öğrencilerden performans görevi olarak grup çalışması yoluyla yaptıkları hareketleri kullanarak estetik bir koreografi oluşturmaları istenir ( SDB2.2 , D7.3 ). Gruplar, geliştirdikleri koreografilerini sergiler. Grupların performanslarına yönelik yapıcı geri bildirimler vermeleri diğer öğrencilerce sağlanır ( SDB2.1 , D4.1 ). Grupların performansları; hareketlerin çeşitliliği, grup uyumu ve yaratıcılık vb. ölçütler kullanılarak oluşturulan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.1",
+      "D4.1",
+      "D7.3"
+    ],
+    "egilim": [
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/604"
+}

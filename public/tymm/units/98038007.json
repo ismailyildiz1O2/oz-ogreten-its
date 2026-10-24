@@ -1,0 +1,39 @@
+{
+  "unitId": 98038007,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi",
+  "title": "7. ÜNİTE: DOĞADAN TASARIMA",
+  "hours": "5",
+  "description": "Bu ünitede öğrencilerin doğayı gözlemlemeleri; öğrencilere doğada var olan organik yapıların teknolojinin gelişimine katkısı, nanoteknolojik yapıların özellikleri ve kullanım alanları ile ilgili bilgi verilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "TT.8.C.4.1",
+      "title": "Biyotaklit kavramını açıklar",
+      "processComponents": [
+        "Biyotaklit ile tasarlanmış ürünlere örnekler verir."
+      ]
+    },
+    {
+      "code": "TT.8.C.4.2",
+      "title": "Biyotaklit ile tasarlanmış bir ürünü analiz eder",
+      "processComponents": []
+    },
+    {
+      "code": "TT.8.C.4.3",
+      "title": "Gündelik hayatında var olan bir sorunun çözümünde biyotaklit kavramını kullanarak ürün tasarlar",
+      "processComponents": [
+        "Doğadan esinlenerek günlük hayatında karşılaşılan bir sorunun çözümüne yönelik ürün çizimi üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Yapılı Çevre ve Ürün",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018124112937511-TEKNOLOJ%C4%B0%20TASARIM%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%207-8.pdf"
+}

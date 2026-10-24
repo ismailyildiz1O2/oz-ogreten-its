@@ -1,0 +1,62 @@
+{
+  "unitId": 1039,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "2. TEMA: KORO OLUŞTURALIM",
+  "hours": "6",
+  "description": "Temada öğrencilerin koro eserlerindeki müzikal ifadeyi güçlendirecek müzik terimlerini fark edebilmeleri ve koroyla seslendirdikleri eserlerin yaşanmış öykülerini araştırmaları ve canlandırmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.7.2.1",
+      "title": "Koro eserlerindeki müzikal ifadeyi güçlendirecek müzik terimlerini fark edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KOREP.7.2.2",
+      "title": ". Koroyla seslendirdiği eserlerin yaşanmış öyküleri hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Eserlerin yaşanmış öyküleri hakkında bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği aracı kullanarak eserlerin yaşanmış öyküleri hakkında bilgiler bulur.",
+        "c) Eserlerin yaşanmış öyküleri hakkında ulaşılan bilgileri doğrular.",
+        "ç) Eserlerin yaşanmış öyküleri hakkında ulaşılan bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "canlandırma, crescendo, decrescendo, legato, öykü, puandorg, staccato",
+  "support": [
+    "Öğrencilerle müzikal ifadeyi güçlendirecek müzik terimlerini içeren eserler paylaşılabilir. Öğrencilerin bu eserleri tekrarlayarak müzikal ifadeyi güçlendirecek müzik terimlerini pekiştirmeleri sağlanabilir. Öğretmen tarafından belirlenen dijital, basılı kaynaklardan yararlanarak eserlerin yaşanmış öyküleri hakkında daha fazla araştırma yapmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin müzikal ifadeyi güçlendiren müzik terimlerini kullanarak bir beste yapmaları ve yaptıkları besteyi seslendirmeleri sağlanabilir. Öğrencilerden bir eserin yaşanmış öyküsünü senaryo şeklinde yazmaları ve bu senaryoyu sınıf ortamında veya okulda sahnelemeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı ve performans görevi kullanılarak değerlendirilebilir. Öğrencilere eserlerin yaşanmış öykülerine yönelik performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı kullanarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KOREP.7.2.1 Öğrencilere koro eserlerini seslendirirken müzikal ifadeyi güçlendirmek için neler yapılması gerektiğine yönelik sorular sorularak konuyu merak etmeleri ve düşüncelerini arkadaşlarıyla paylaşmaları sağlanır ( D4.2 , E1.1 , SDB2.1 ). Öğrencilerin çeşitli görsel, işitsel, görüntülü materyaller aracılığıyla \"crescendo\", \"decrescendo\", \"legato\", \"staccato\", \"puandorg\" gibi seslendirmeye yönelik müzik terimlerini fark etmeleri sağlanır ( OB4 ). Koro eserlerini bu terimlere dikkat ederek seslendirmenin koro bütünlüğünün sağlanmasında ve eserlerdeki müzikal ifadenin güçlendirilmesinde çok önemli olduğu vurgulanır. Süreç, çalışma kâğıdı kullanılarak değerlendirilebilir.",
+    "KOREP.7.2.2 Öğrencilerin sezgilerini ve hayal güçlerini kullanarak koroda seslendirilen eserlerin hangi öyküleri anlatmak istediği ile ilgili düşüncelerini arkadaşlarıyla paylaşmaları sağlanır ( SDB2.1 ). Sonra gruplara ayrılarak koroda seslendirilen şarkı, türkü, marş gibi eserlerin hangilerinin yaşanmış öyküler olduğunu araştırmaları istenir ( E3.4, SDB2.2 ). Öğrencilerin konu ile ilgili araştırma yaparken kullanacakları kaynakları (genel ağ, kitap, makale vb.) belirlemeleri sağlanır (OB1, OB2). Bu kaynakları kullanarak eserlerin öykülerine, bunun yanında eserlerin bestecisi ve güftecisinin hayat hikâyelerine, eserlerin yazıldığı dönemin tarihsel, kültürel koşulları ve eserlerin ilk kez kimler tarafından seslendirildiği bilgilerine de ulaşmaları istenir ( D3.3 , E1.1 , OB1 , OB2 ). Daha sonra her grup araştırma sonuçlarından elde ettiği bilgileri doğrular ve sınıf içerisinde sunum yaparak arkadaşlarıyla paylaşır ( E1.5 , SDB2.1 ). Eserlerin yaşanmış öyküleri sınıf içerisinde dramatize edilebilir ( D3.4 , E1.5 , OB9 ). Koroda seslendirilen eserlerin yaşanmış öykülerini öğrenmenin eserlerin daha iyi anlaşılmasını ve yorumlanmasını sağlayacağı ifade edilir. Öğrenciler, yapılan etkinlikler aracılığıyla eserlerin yaşanmış öyküleri ile ilgili ulaştıkları bilgileri kaydeder. Öğrencilere eserlerin yaşanmış öykülerine yönelik performans görevi verilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3",
+      "D3.4",
+      "D4.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1039"
+}

@@ -1,0 +1,54 @@
+{
+  "unitId": 1127,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "1. TEMA: BAĞLAMADA TARTIMLARI UYGULUYORUM",
+  "hours": "20",
+  "description": "Temada bağlamada tartımların vuruşlarını tezene ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.3.1.1",
+      "title": "Bağlamada tartım kalıplarını çalabilme",
+      "processComponents": [
+        "a) Bağlamada tartımların tezene vuruş tekniklerini çözümler.",
+        "b) Bağlamada tartımların tezene vuruş tekniklerini uygulamak için duruş ve tutuş pozisyonu alır.",
+        "c) Bağlamada tartımların tezene vuruşlarını ve çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlamada tartımlar ile müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "etüt, ölçü, tartım",
+  "support": [
+    "Bağlama üzerinde ritim çalışmaları akran desteği ile yavaş tempoda uygulanarak geliştirilebilir. Öğrencilerin farklı tartım kalıplarını görsel olarak öğrenmesini sağlamak ve ritim kalıplarını daha kolay hatırlamalarını teşvik etmek amacıyla öğretmen, her bir ritim kalıbı için kartlar hazırlayabilir. Öğrenciler kendi kartlarını seçebilir ve grup içinde ritimleri çalabilir. Öğrencilerin bir müzik parçası üzerinden tartım kalıplarını öğrenmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ritim ve vuruş tekniklerini geliştirmeleri için karmaşık ritim etütleri kullanılabilir. Öğrenciler, farklı geleneksel halk müziği eserlerinde kullanılan tartımlar ve vuruş tekniklerini analiz edebilirler. Bu eserlerdeki ritmik yapıları inceleyerek öğrenciler bu yapıları bağlama üzerinde doğru bir şekilde uygulayabilirler. Öğrencilerden bir halk müziği parçasındaki ritmi çözmeleri ve ritme uygun vuruşları yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi, dereceli puanlama anahtarı, öz ve akran değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin tartım kalıplarını bağlama ile uygulamaları istenilebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.3.1.1",
+    "Öğrencilere tartım (zaman ölçüsü) kavramı anlatılır ( OB1 ). Öğrencilerin bağlamada kullanılan temel tartımların nota şekillerini görsel ve materyaller aracılığıyla tanımaları sağlanarak vuruşları hakkında açıklamalar yapılır ( OB4 , SDB2.1 ). Öğretmen, alkış ve benzeri yöntemlerle ritmik uygulamalar yaptırarak öğrenciler tartımların ritmik yapılarını anlamaya çalışırlar. Öğretmen, öğrencilere bağlama üzerinde tartımların tezene vuruş tekniğinin nasıl çalınacağını gösterir. Öğrenciler bağlamada tartımlar ve vuruşlar arasındaki ilişkiyi anlayarak ritmik yapıların nasıl oluştuğu hakkında bilgi sahibi olurlar. Öğretmen, öğrencilere doğru oturuş pozisyonunu, parmakların bağlamada doğru şekilde yerleştirilmesi gerektiğini hatırlatır. Öğrenciler, öğrendikleri tartım birimlerini bağlamadaki boş teller üzerinde tezene vuruşlarını uygular ( OB9 ). Öğrenciler, bireysel veya grup hâlinde ritim ve vuruşları tekrarlar ( D3.4 ). Öğrencilerin tartımları ve vuruşları doğru şekilde uygulayıp uygulamadıkları gözlem formuyla değerlendirilir ve geri bildirim sağlanır. 2/4 ve 4/4 zamanlı ölçüler anlatılır. Her bir zaman ölçüsünde vuruşların nasıl düzenlendiği açıklanır ( OB1 ). Öğrencilere 2/4 ve 4/4 zaman ölçüsünde bir ölçüde kaç vuruş olduğu anlatılarak basit melodiler dinletilir. Öğrenciler, bağlamada 2/4 veya 4/4 zamanlı ölçülerde tartım etütleri uygular. Basit tekerlemeler ve sayışmalar uygulayarak sol el ile sağ elin kombinasyonu sağlanır. Metronom ile belirli hızda çalışarak vuruşların doğru şekilde zamanlanması sağlanır ( E1.4 ). Öğrenciler, grup çalışmaları yaparak birbirlerinden öğrenir ve geri bildirim alırlar ( SDB2.1 , D4.1 ). Bu aşamada öğrenciler akran değerlendirme yapabilir. Öğrencilere öğretmenin seçtiği bir halk şarkısı dinletilir ve \"Bu şarkıda nasıl ritimler var, nasıl çalınıyor?\" sorusu sorularak merak uyandırılır ( E1.1 ). Bu eserde öğrendikleri ritmik yapılarını ve vuruş tekniklerini uygularlar. Öğrenciler, örnek bir eseri çaldıktan sonra vuruş ve tartımlarını doğru uygulayıp uygulamadıkları gözlemlenerek geri bildirimler verilir. Öğrendiği tartım örneklerinden 2/4 ve 4/4 zamanlı eserler öğretilerek ritim duyguları pekiştirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D4.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1127"
+}

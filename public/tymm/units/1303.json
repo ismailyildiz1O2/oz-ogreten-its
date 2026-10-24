@@ -1,0 +1,42 @@
+{
+  "unitId": 1303,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "1. TEMA: ÇALGIDA DURUŞ VE TUTUŞ TEKNİĞİ",
+  "hours": "7",
+  "description": "Temanın içeriğini çalgının duruş, tutuş pozisyonu gibi teknik özellikler oluşturmaktadır. Bu doğrultuda öğrencilerin doğru duruş ve tutuş pozisyonu ile ilgili belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.2.1.1",
+      "title": "Doğru duruş ve tutuş pozisyonunu tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "keman, yay, doğru vücut duruşu",
+  "support": [
+    "Öğrencilerin motivasyonu dikkate alınarak sade ve anlaşılır biçimde oyunlarla süreç yürütülebilir. Ayna karşısında kendilerini ve çalgılarını net görebileceği açıları bulmaları sağlanır. En net açının hangisi olduğu kendilerine sorularak istedikleri görüş açısındaki çalışmayla öğrenciler öğretmen tarafından yönlendirilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ön bilgileri dikkate alınarak enstrüman tutuş görselleri ile çalışma renklendirilir. Burada öğrencilerin analiz yapması sağlanır. Çember oluşturularak hangi açının ve duruşun doğru olduğu oyunu oynatılır. Çeşitli materyallerle çalışma güçlendirilebilir"
+  ],
+  "assessment": [
+    "Temanın öğrenme çıktıları; performans görevi, gözlem formu, kontrol listesi, video analizi, akran değerlendirmesi ve analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerin doğru duruş ve tutuş pozisyonunu uygulayabilmeleri için öğrencilere kısa bireysel performans görevleri (ayna karşısında keman çalma, öğretmen önünde pozisyon gösterimi vb.) verilebilir. Bu görevler sırasında gözlem formu ve kontrol listesi kullanılarak öğrencinin baş, boyun, kol ve parmak pozisyonları değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.2.1.1",
+    "Doğru duruş ve tutuş pozisyonu öğrencilere uygulamalı olarak gösterilir. Çalışmanın öğrenciler tarafından gözlemlenmesi sağlanarak ön bilgi edinmeleri istenir. Öğrencilerle bire bir çalışmalar yapılır. Bu süreçte öğrenciler gözlem formu ile değerlendirilir. Dik duruşun insan sağlığına önemi vurgulanır ve kemanın doğru tutulabilmesi için en önemli vücut duruşunun dik duruş olduğu belirtilir ( D13.4 ). Bu doğrultuda öğrenciler bilgileri nasıl kullanacakları konusunda kendilerine güvenir ( E1.5 ). Ayna karşısında duruş ve pozisyonu bozmadan, odaklanarak belirli aralıklarla duruş çalışması sergiler (E3.2 ). Ayna karşısında yan ve dik bir duruş sergileyerek pozisyonunun kemanla paralel olup olmadığını gözlemler ( KB2.2 ). Öğrencilerin doğru duruş ve tutuş pozisyonunu uygulayabilmeleri için kısa bireysel performans görevleri (ayna karşısında keman çalma, öğretmen önünde pozisyon gösterimi vb.) verilebilir. Bu görevler sırasında gözlem formu ve kontrol listesi kullanılarak öğrencinin baş, boyun, kol ve parmak pozisyonları değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1303"
+}

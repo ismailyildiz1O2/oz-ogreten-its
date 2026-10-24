@@ -1,0 +1,82 @@
+{
+  "unitId": 410,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+  "hours": "14",
+  "description": "Bu ünitede bir cisme etki eden kuvvetlerin yönü, doğrultusu ve büyüklüğü gözlemlenerek veriler toplanması, toplanan verilerin analiz edilerek bileşke kuvvetin yönünün, doğrultusunun ve büyüklüğünün hesaplanıp tanımlanması, bir cisme etki eden bileşke kuvvetin büyüklüğüne göre dengelenmiş ya da dengelenmemiş olma durumunun belirlenmesi, dengelenmiş ve dengelenmemiş kuvvetlerin bir cismin hareketine olan etkisinin yorumlanması, bir cismin sürati ve hızının karşılaştırılıp niteliklerinin belirlenmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Bileşke Kuvvet",
+      "processComponents": []
+    },
+    {
+      "code": "FB.6.2.1.1",
+      "title": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme",
+      "processComponents": [
+        "a) Bir cisme etki eden aynı doğrultudaki kuvvetleri inceleyerek aralarındaki mantıksal ilişkileri ortaya koyar.",
+        "b) Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri yapılandırarak bileşke kuvveti açıklar."
+      ]
+    },
+    {
+      "code": "FB.6.2.1.2",
+      "title": "Dengelenmiş ve dengelenmemiş kuvvetlerin etkisi altındaki bir cismin hareketine yönelik deney yapabilme",
+      "processComponents": [
+        "a) Dengelenmiş ve dengelenmemiş kuvvetlerin bir cismin hareketine etkisini gösteren deney düzeneği tasarlar.",
+        "b) Dengelenmiş ve dengelenmemiş kuvvetlerin bir cismin hareketine etkisini analiz eder. 2.Bölüm Sabit Süratli ve Sabit Hızlı Hareket"
+      ]
+    },
+    {
+      "code": "FB.6.2.2.1",
+      "title": "Sürat ve hız kavramlarını karşılaştırabilme",
+      "processComponents": [
+        "a) Sürat ve hız kavramlarına ilişkin özellikleri belirler.",
+        "b) Sürat ve hız kavramlarına ilişkin benzerlikleri listeler.",
+        "c) Sürat ve hız kavramlarına ilişkin farklılıkları listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "büyüklük, yön, doğrultu, uygulama noktası, bileşke kuvvet, dengelenmiş ve dengelenmemiş kuvvet, dengeleyici kuvvet, sürat-hız, alınan yol-yer değiştirme, zaman",
+  "support": [
+    "Eğitsel dijital içeriklerden video, animasyon, simülasyon vb. etkinlikler ile soyut kavramların somutlaştırılmasında, kavramsal anlayışının kolaylaştırılmasında ve pekiştirilmesinde kullanılabilir. Araştırma problemlerine yönelik çalışma süreçlerinde öğrenci seviyelerine uygun problemler hazırlanarak tüm bireylerin ilgili çalışmalara katılımı sağlanabilir."
+  ],
+  "enrichment": [
+    "Mühendislik ve tasarım süreci kullanarak bileşke kuvvete yönelik kodlama ve FETEMM eğitim anlayışına uygun mühendislik ve tasarım tabanlı etkinlikleri içeren araç tasarımları ya da modelleri oluşturmaları istenebilir. Öğrencilerin bileşke kuvvete yönelik dijital ortamda etkileşimli içerik/simülasyon/video tasarlamaları sağlanabilir. İbni Sina, Aristoteles'e bağlı kalarak \"Fazla kuvvet daha fazla hızlanma demektir.\" ifadesini kullanmıştır. Benzer şekilde Newton öncesi hareket anlayışını yansıtan \"Kuvvetsiz hareket olamaz.\" ilkesi açısından bakıldığında doğal bir durum olan \"hareket ettirici\" gereksinimi, İbni Sina tarafından hareket ilkesi olarak kabul edilmiştir. İbni Sina'nın bu konudaki tespitlerinden hareketle bilimin doğası anlayışı kapsamında kuvvet ve hareket konularında tarihsel yaklaşımı dikkate alan performans görevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktının değerlendirilmesinde çalışma kâğıdı, V diyagramı ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Günlük yaşamda dengelenmiş ve dengelenmemiş kuvvetlere ait örnekleri tanıtan bir poster hazırlanabilir. Bu görevin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FB.6.2.1.1 Bir cisme uygulanan kuvvetin uygulama noktası, yönü, doğrultusu ve büyüklüğü dijital ortamdaki örnekler üzerinden incelenerek kuvvet tanımı yapılır ( OB4 ) . Bu kuvvet tanımına dayanarak öğrencilere, bir cisme etki eden aynı doğrultu içerisinde yön ve büyüklüğe sahip birden fazla kuvvet örnekleri verilir. Bu örnekler üzerinden cisme etki eden kuvvetler arasındaki mantıksal ilişkileri ortaya koymaları istenir. Cisme uygulanan aynı doğrultudaki farklı kuvvetlerin örnek çizimleri öğrencilere inceletilir ( OB4 ) . Öğrencilerin örnekleri analiz etmesi ve cisim üzerine uygulanan kuvvetlerin cismin hareketine etkisini yorumlamaları sağlanır ( OB1 ) . Öğrencilerin bir cisme uygulanan birden fazla kuvvet ile bileşke kuvvet arasında ilişki kurarak bileşke kuvveti açıklamaları sağlanır. Öğrencilerden bileşke kuvvetin yönünü, doğrultusunu ve büyüklüğünü çizmeleri beklenir ( OB4 ) . Sürecin pekiştirilmesi için deney, dijital içerikler vb. kullanılabilir. Öğrenme kanıtı için çalışma kâğıdı kullanılabilir.",
+    "FB.6.2.1.2 Öğrencilere bileşke kuvvetin sıfır ve sıfırdan farklı olduğu durumlara yönelik örnekler üzerinden sorular sorulabilir. Verilen cevaplar doğrultusunda değişkenlerin belirlenmesi istenebilir. Bileşke kuvvetin sıfır olması durumunda kuvvetin dengelenmiş, sıfırdan farklı olması durumunda ise dengelenmemiş olduğu açıklanır. Ardından dengeleyici kuvvetin bileşke kuvvet üzerindeki etkisi vurgulanır. Daha sonra öğrenciler gruplara ayrılarak bu değişkenler çerçevesinde duran bir cismin, dengelenmiş ve dengelenmemiş kuvvetlerin etkisi ile hareketine yönelik öğrencilerden hipotez geliştirmeleri istenir ( SDB1.2 ) . Gruptaki öğrencilerden hipotezi test etmek için deney düzeneğine uygun araç ve gereçleri belirlemeleri istenir ( OB1 ) . Öğrencilerden grup içinde özgür seçimler yaparak yardımlaşmaları istenir ( SDB2.2 , E1.2 , D20.2 ) . Süreç içerisinde planlarını zamanında, eksiksiz yürütmeleri sağlanır ( D3.3 , D16.3 ) . Öğrencilere seçtikleri yönteme uygun deney düzeneği tasarlatılır. Gözlemleri sonucunda öğrencilerin dengelenmiş ve dengelenmemiş kuvvetlerin bir cismin hareketine etkisini analiz edip verileri not alarak kaydetmeleri istenir ( OB7 ) . Öğrencilerin dengelenmiş ve dengelenmemiş kuvvetlerin cismin hareketine yönelik toplanan verileri, gruplar arasında karşılaştırarak hipotez sonucuna yönelik çıkarımda bulunmaları sağlanır ( SDB1.2 , SDB2.1 , SDB2.2 , OB1 ) . Deney raporunun V diyagramı şeklinde hazırlanması istenebilir. Farklı bir performans görevi olarak günlük yaşamda dengelenmiş ve dengelenmemiş kuvvetlere ait örnekleri tanıtan bir poster hazırlamaları istenebilir. Performans görevlerinin değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "FB.6.2.2.1 Öğrencilere günlük yaşamda kullandıkları alınan yol ve yer değiştirme kavramları hakkında sorular sorulur ( SDB2.1 ) . Alınan cevaplar özetlenerek ve kavramlara örnekler verilerek açıklanabilir. Öğrencilere hız ve süratin özelliklerini tanımlamak için alınan yol, yer değiştirme ve zaman kavramlarıyla ilgili örnekleri basılı kaynak, dijital içerik vb. materyallerle incelemeleri sağlanır ( OB4 ) . Ardından bu özellikleri içeren örneklerin olduğu video/animasyonlar, materyaller inceletilerek bir cismin veya nesnenin iki konum arasında izlediği hareketi, alınan yol ve yer değiştirmesini matris tabloya kaydetmeleri istenir ( OB1 ) . Tabloya göre öğrencilerden görsel verilerden akıl yürütüp birim zamanda alınan yol ve yer değiştirme çıkarımları yapmaları, sürat ve hız kavramlarına ilişkin özellikleri belirlemeleri istenir ( OB4 ) . Grafik okumaya ve matematiksel hesaplamalara girilmez. Birimler arası dönüştürmeye girilmeden uluslararası sistemde yer alan \"km/h\" ve \"m/s\" birimleri kullanılır. Öğrencilere sürat ve hız kavramları arasındaki benzerlik ve farklılıklar sorulur. Öğrencilerin elde edilen veri ve çıkarımlardan hareketle benzerlik ve farklılıkları kendi cümleleriyle listelemeleri beklenir ( OB1 , KB3.3 ) . Öğrenciler süreç içerisinde merak ettiği soruları sorar ( E1.1 , E3.8 ) . Sürecin pekiştirilmesi için rol oynama, dijital içerikler vb. kullanılabilir. Çalışma kâğıdı kullanılarak öğrenilenler değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D20.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/410"
+}

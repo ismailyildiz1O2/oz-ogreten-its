@@ -1,0 +1,67 @@
+{
+  "unitId": 81294005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "5. ÜNİTE: I. DÜZEY 5. TEMA: GÜNLÜK HAYATTA BİLİM",
+  "hours": "20",
+  "description": "“Günlük Hayatta Bilim” teması, iklim değişikliği, sürdürülebilir malzemeler, insansız hava araçları, biyoteknoloji, dezenfektan ve uçucu yağlar gibi konuları kapsar. Çevre ve teknolojiyi birleştirerek öğrencilerin doğayı korumak için geleceğe yönelik çözümler üretmesi amaçlanır. “Günlük Hayatta Bilim” teması kapsamında öğrencilerden iklim değişikliği ile ilgili bilimsel çıkarım yapmaları, doğa dostu malzemeyle ve uçucu yağ eldesiyle ilgili deney yapmaları, dezenfektan üretimi çalışması yapmaları, insansız hava aracı ve biyoteknolojik ürün modeli tasarlamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.1.5.1.1",
+      "title": "İklim değişikliği ile ilgili elde ettiği verilerden yola çıkarak iklim değişikliğinin sebepleri doğrultusunda bilimsel çıkarım yapar",
+      "processComponents": [
+        "İklim değişikliği ile ilgili veri toplamaları, kaydetmeleri ve iklim değişikliği konusunda toplanan verileri yorumlamaları ve değerlendirmeleri sağlanır.",
+        "Küresel ısınma ve iklim değişikliği arasındaki ilişkinin belirlenmesi sağlanır. Çevrim içi araçlar kullanılarak karbon ayak izi hesabı yapılır. Karbon ayak izi ile iklim değişikliği arasında ilişki kurmaları ve karbon ayak izini azaltacak çözüm önerilerinde bulunmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.5.1.2",
+      "title": "Doğa dostu malzeme yapımı ile ilgili deney yapar",
+      "processComponents": [
+        "Doğa dostu malzeme kavramına değinilir. Doğa dostu malzeme kullanımının önemi ve bu malzemenin kullanım alanları açıklanır. Doğa dostu malzemelerin yapımında kullanılan çevre dostu teknik ve süreçleri açıklamaları sağlanır. Bu süreçlerde enerji verimliliği, atık yönetimi ve kimyasal kullanımı gibi faktörler dikkate alınır.",
+        "Biyoplastik yapımı ile ilgili deney yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.5.1.3",
+      "title": "İnsansız hava aracı modeli tasarlar",
+      "processComponents": [
+        "İnsansız hava aracı kavramına değinilir. Bu araçların kullanım amaçları ve alanları belirlenir. Türkiye'deki insansız hava aracı projeleri hakkında bilgiye ulaşmak için kullanılacak araçları belirlemeleri, edinilen bilgileri doğrulamaları/yanlışlamaları, kaydetmeleri ve rapor hâline getirmeleri sağlanır.",
+        "Basit bir drone yapımı için malzeme belirlemeleri ve drone tasarlamaları sağlanır. Drone tasarımındaki eksiklikleri tespit edebilmeleri ve gerekli düzeltmeleri yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.5.1.4",
+      "title": "Biyoteknolojik ürün modeli tasarlar",
+      "processComponents": [
+        "Biyoteknolojik ürün kavramına değinilir. Bu ürünlerin kullanım amaçları ve alanları açıklanır. Biyoteknolojik ürün geliştiren Türk bilim insanları hakkında bilgiye ulaşmak için kullanılacak araçları belirlemeleri, bilgi edinmeleri, edinilen bilgileri doğrulamaları/yanlışlamaları, kaydetmeleri ve rapor hâline getirmeleri sağlanır.",
+        "Basit bir robot kol tasarlamaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.1.5.1.5",
+      "title": "Dezenfektan etkisi olan bir ürün geliştirerek bu etkiyi test eder",
+      "processComponents": [
+        "Dezenfektan kavramına değinilir. Dezenfektanların kullanım amaçları ve alanları, dezenfektanın mikroorganizmalar ve virüsler üzerindeki etkisi açıklanır.",
+        "Dezenfektan etkisini test edecekleri bir deney yapmaları sağlanır. Deney sonuçları gerçek yaşamda gözlenen nesne, olay veya olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.1.5.1.6",
+      "title": "Uçucu yağlar ile ilgili deney yapar",
+      "processComponents": [
+        "Etnobotanik kavramı ve bu kavramın insanlığa katkısı açıklanarak uçucu yağ kavramının tanımlanması sağlanır. Uçucu yağların kullanım amaçları ve alanlarını belirlemeleri ve uçucu yağ elde etme yöntemlerini açıklamaları sağlanır.",
+        "İki farklı bitkiden uçucu yağ elde ederek yağların uçuculuklarını karşılaştıracağı deney yapmaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

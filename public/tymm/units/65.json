@@ -1,0 +1,149 @@
+{
+  "unitId": 65,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "3. ÜNİTE: AKIŞKANLAR",
+  "hours": "18",
+  "description": "Bu ünitede öğrencilerin basınç kavramına ve akışkanların basıncına yönelik çıkarımlarda bulunmaları, sıvılarda basıncın günlük hayattaki örneklerine ilişkin sorgulama yapmaları, açık hava basıncına ilişkin çıkarım yapmaları, sıvılarda kaldırma kuvveti ile ilgili deney yaparak kaldırma kuvvetinin nedenlerine yönelik çıkarımda bulunmaları, Bernoulli İlkesi'ne yönelik genelleme yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.9.3.1",
+      "title": "Basınca yönelik bilimsel çıkarımlarda bulunabilme",
+      "processComponents": [
+        "a) Basınca etki eden etmenleri tanımlar.",
+        "b) Basınç ile ilgili topladığı verileri kaydeder.",
+        "c) Basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak basınca ilişkin çıkarımlar yapar."
+      ]
+    },
+    {
+      "code": "FİZ.9.3.2",
+      "title": "Durgun sıvılarda basınca yönelik bilimsel çıkarımlarda bulunabilme",
+      "processComponents": [
+        "a) Durgun sıvılarda basınca etki eden etmenleri tanımlar.",
+        "b) Durgun sıvılarda basınç ile ilgili topladığı verileri kaydeder.",
+        "c) Durgun sıvılarda basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak durgun sıvılarda basınca ilişkin çıkarımlar yapar."
+      ]
+    },
+    {
+      "code": "FİZ.9.3.3",
+      "title": "Sıvılarda basıncın kullanıldığı günlük hayat örneklerine ilişkin sorgulama yapabilme",
+      "processComponents": [
+        "a) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konuyu belirler.",
+        "b) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili sorular sorar.",
+        "c) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu hakkında bilgi toplar.",
+        "ç) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir.",
+        "d) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili topladığı bilgiler üzerinden çıkarımda bulunur."
+      ]
+    },
+    {
+      "code": "FİZ.9.3.4",
+      "title": "Açık hava basıncına ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) Sıvı basıncına ilişkin bilgilerinden yararlanarak açık hava basıncına yönelik mevcut bilgisi dâhilinde hipotez kurar.",
+        "b) Sıvı basıncıyla açık hava basıncı arasındaki ilişkileri listeler.",
+        "c) Sıvı basıncıyla açık hava basıncını karşılaştırır.",
+        "ç) Açık hava basıncına ilişkin önermeler sunar.",
+        "d) Açık hava basıncına ilişkin bilgilerini farklı durumlarda değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.9.3.5",
+      "title": "Kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik deney yapabilme",
+      "processComponents": [
+        "a) Kaldırma kuvveti ile kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik bir deney tasarlar.",
+        "b) Kaldırma kuvveti ile ilgili deney düzeneğinden veri toplayarak kaldırma kuvvetinin bağlı olduğu değişkenleri analiz eder."
+      ]
+    },
+    {
+      "code": "FİZ.9.3.6",
+      "title": "Kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye yönelik çıkarım yapabilme",
+      "processComponents": [
+        "a) Kaldırma kuvveti ile yer değiştiren sıvının ağırlığı arasındaki ilişkiye dair mevcut bilgisi dâhilinde hipotez kurar.",
+        "b) Kaldırma kuvveti ile ilgili yaptığı deneyden elde ettiği verileri kullanarak matematiksel modeli bulur.",
+        "c) Kaldırma kuvveti ve sıvı basıncına ait matematiksel modelleri karşılaştırır.",
+        "ç) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair önermede bulunur.",
+        "d) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair değerlendirme yapar."
+      ]
+    },
+    {
+      "code": "FİZ.9.3.7",
+      "title": "Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Akışkanların sürati ile basıncı arasındaki ilişkiyi gözlemleyerek aralarındaki ilişkiyi tespit eder.",
+        "b) Akışkanın sürati ile basıncı arasındaki ilişkiyi günlük hayat örnekleri üzerinden geneller."
+      ]
+    }
+  ],
+  "keyConcepts": "basınç, kaldırma kuvveti",
+  "support": [
+    "Kaldırma kuvveti ile ilgili su içinde yüzen bir plastik bardağa teker ve madenî para ekleyerek plastik bardağın batan hacminin arttığı ve hâlâ yüzdüğü gözlemlenebilir. Kaldırma kuvvetinin plastik bardak ve içindeki madenî paraların toplam ağırlığına eşit büyüklükte olduğu vurgulanarak toplam ağırlık ile yer değiştiren sıvının ağırlığı büyüklük açısından ilişkilendirilebilir. Öğretmen, düşeyde asılı ve birbirine yakın duran iki kâğıdın arasına üflendiğinde kâğıtların birbirine yaklaştığının gözlemlenebildiği bir gösteri deneyi yaparak bu durumu Bernoulli İlkesi'yle açıklayabilir. Öğrencilerden Bernoulli İlkesi'nin uygulamalarına yönelik yapmaları istenen araştırmalarda bu uygulamalar öğretmenin yönlendirmesi ile buldurulabilir veya öğretmen tarafından verilebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler, STEM döngüsü basamaklarıyla serum hortumu, şırınga vb. malzemeler kullanarak bir hidrolik sistem tasarlayabilirler. Tasarladıkları sistemi sunabilirler. Bu sistemlerde eşit büyüklüklerde kuvvet uygulanarak daha fazla yük kaldırılmasına yönelik bir yarışma düzenlenebilir ve öğrencilerin rekabet ortamı içinde tasarımlarını geliştirmeleri teşvik edilebilir. Öğrenciler mermer gibi malzemelerin basınçlı suyla kesimi konusunda araştırma yapabilir ve benzer biçimde Bernoulli İlkesi'nin sanayideki kullanımları ile ilgili poster hazırlayabilir. Uçak, helikopter, insansız hava araçları gibi araçların uçmalarında ve manevralarında Bernoulli İlkesi'nin etkisi görsellerle desteklenerek tartışılabilir. Öğrencilerden Torricelli deneyine benzer bir sistem tasarlamaları istenebilir. Su gibi farklı sıvıların Torricelli deneyinde kullanılması durumunda sıvı yüksekliğini hesaplamaları istenebilir. Bununla alakalı olarak öğrencilerden yüksek binalarda üst katlara suyun ulaştırılması ile pompa kullanımını ilişkilendirerek sınıfta paylaşmaları istenebilir. Sörf, sal yarışı, yelkenli vb. spor etkinliklerinde kaldırma kuvvetinin etkisini dikkate alarak öğrenciler STEM döngüsünden yararlandıkları bir spor aleti geliştirebilirler.",
+    "*Balıkların vücutlarında bulunan hava keselerinin işlevini tartışmaları sağlanabilir ve öğrencilerden bu ilke ile çalışan aygıt tasarlamaları istenebilir.",
+    "*Öğrencilerden gruplar hâlinde, Bernoulli İlkesi'ni kullanarak motorsuz bir model uçak tasarlamaları istenebilir. Tasarlanan model uçaklar için en uzun menzil yarışması yapılabilir. Öğrenciler Bernoulli İlkesi'ni temel alan bir oyuncak tasarlayabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, zihin haritası, açık uçlu test, afiş, poster, sunum, metin ve deney düzeneği analizi kullanılarak değerlendirilebilir.",
+    "Öğrencilere basıncı ve basıncın bağlı olduğu etmenleri ölçmeyi amaçlayan bir çalışma yaprağı verilebilir. Öğrencilere durgun sıvılarda basınç ve basınca etki eden etmenleri belirleyerek çıkarımda bulunabilecekleri açık uçlu, farklı madde türlerinden oluşan bir test verilebilir. Çalışma yaprağı ve testin değerlendirilmesinde puanlama anahtarı kullanılabilir. Sıvı basıncından yararlanan sistemlerde sıvı basıncının rolü hakkında öğrencilerden bir metin oluşturmaları ve oluşturdukları metinle ilgili afiş, poster ya da sunum hazırlamaları istenebilir. Açık hava basıncına ilişkin verilen açık uçlu maddelerden oluşan çalışma yaprağı dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilere Arşimet ve Kral Hiero'nun Altın Tacı öyküsünü ve tasarladıkları deney düzeneğini analiz etmeleri ile ilgili performans görevleri verilebilir. Performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmelerde öz ve grup değerlendirmesi yapılarak çeşitlilik sağlanabilir. Öğrencilere kaldırma kuvvetinin bağlı olduğu değişkenler ve sıvılardaki basınca neden olan kuvvetin ilişkisine yönelik bir çalışma yaprağı verilebilir. Çalışma yaprağının değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir. Akışkanların sürati ile basıncı arasındaki ilişkiye yönelik farklı türde soruların bulunduğu bir çalışma yaprağı verilebilir. Performans görevi olarak Bernoulli İlkesi'nin günlük hayattaki örneklerine ilişkin yaptığı sınıflamayı görsel içeriklerle zenginleştirerek zihin haritası oluşturmaları istenebilir. Öğretmen, zihin haritalarını kontrol listesi kullanarak değerlendirilebilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.9.3.1",
+    "Öğrencilerden basıncın etkili olduğu durumlarla ilgili günlük hayattan örnekler vermeleri istenebilir. Öğrencilerin örneklerdeki durumları konfor, kolaylık ve işe yararlık gibi açılardan değerlendirmeleri sağlanabilir. Örnek durumların daha kolay, rahat, işe yarar hâle getirilmesi için yapılabilecekler konusunda öğrencilerden fikir üretmeleri istenebilir. Öğrencilerde konunun günlük hayatla ilişkisine yönelik bir farkındalık oluşturulur. Basınç ile ilgili sistemlerin işleyişinde basıncın rolü öğrencilerle birlikte açıklanabilir. Basınç ile ilgili basit gösteri deneyleri yapılır veya basınca etki eden etmenlerin tanımlanabileceği dijital ve görsel içerik gibi araçlardan biri kullanılarak öğrencilerin bu etmenleri belirlemesi sağlanır. Öğrenciler, öğretmen rehberliğinde gruplar oluşturarak takım hâlinde ( SDB2.2 ) ve dostluk bilincinin gereği olarak dayanışma içinde ( D4.1 ) çalışır. Öğrenciler deneyimlerini dikkate aldıkları ( SDB1.1 ) bir tartışma ortamında ( SDB2.1 ) deney düzenekleri, simülasyonlar veya animasyonlar kullanarak basınç, basınca neden olan kuvvet ve yüzey alanı ile ilgili verileri toplar. Elde edilen verileri yorumlayarak ( OB7 ) basıncın matematiksel modelini oluştururlar ve matematiksel modelden yararlanarak basınca ilişkin çıkarımda bulunurlar. Matematiksel model ile ilgili örneklerde basıncın bağlı olduğu değişkenlerin ilişkilerine yönelik yorumlamalarla sınırlı kalınır. Öğrenciler, basınç ve basınca etki eden etmenler konusunda çıkarımlarda bulunabilecekleri bir çalışma yaprağı ile değerlendirilebilir.",
+    "FİZ.9.3.2",
+    "Öğrencilerden Türk millî sporcularının serbest dalışta rekor kırdığı ( D19.2 ) görüntü üzerinden suda derine dalmanın zor olmasının nedenlerini, dalış yapan sporcunun yerinde kendileri olsalar bu durum karşısındaki duygularını sorgulamaları ( SDB1.1 ) istenebilir. Öğrencilere dalınan derinliğe uygun teknik ve teçhizat ile dalmak gerektiğini anlatan bir metin verilebilir. Uygun olmayan koşullarda dalmanın vücutta oluşturabileceği sorunlardan ve vurgun kavramından söz edilebilir. Benzer örneklerle konuya ve konu bağlamında su altı sporları yapılırken sağlık ile ilgili risklere ( D13.2 ) dikkat çeker. Öğrenciler, durgun sıvı basıncına etki eden etmenleri dijital veya görsel içeriklerden yararlanarak tanımlar. Öğretmen rehberliğinde öğrenciler gruplara ayrılabilir. Öğrenciler, takım hâlinde çalışarak ( SDB2.2 ) durgun sıvılarda basıncı etkileyen değişkenleri belirlemeye yönelik deney tasarlayıp tasarladıkları deneyi yaparak ( SDB1.2 ) elde ettikleri verileri ( OB7 ) kaydeder. Öğrenciler elde ettikleri verileri analiz ederek durgun sıvı basıncının matematiksel modelini oluşturur ve matematiksel modelden yararlanarak durgun sıvılarda basınca ilişkin çıkarımda bulunur. Matematiksel model ile ilgili örneklerde basıncın bağlı olduğu değişkenlerin ilişkilerine yönelik yorumlamalarla sınırlı kalınır. Örneklerde kabın yan yüzeylerine etki eden basınca neden olan kuvvete ilişkin matematiksel işlemlerden kaçınılır. Öğrenciler, durgun sıvılarda basınç ve basınca etki eden etmenleri belirleyerek çıkarımlarda bulunabilecekleri açık uçlu sorulardan oluşan bir test ile değerlendirilebilir.",
+    "FİZ.9.3.3",
+    "Sıvı basıncı ile çalışan sistemlerin görselleri sınıfta gösterilir ve öğrencilerle birlikte işle yişleri incelenir ( OB4 ) . Öğrencilere dijital veya görsel içeriklerden yararlanılarak günlük hayatta sıvı basıncının kullanıldığı su cendereleri, hidrolik sistemler gibi örnekler sunulur ve öğretmen rehberliğinde gruplara ayrılan öğrenciler bu örnekler arasından merak ettik lerini belirler. Sınıf içinde sıvı basıncının günlük hayatta kullanımına ilişkin merak ettikleri soruları ( E3.8 ) özgürce sorarlar. Öğrenciler, bu sorulara cevap bulmak için kullanılacak araçlara karar vererek ( SDB1.2 ) sistematik bir şekilde ( E3.7 ) bilgi toplar. Öğrenciler, öğret menlerinin rehberliğinde toplanan bilgileri bilimsel açıdan doğruluk, güvenilirlik, amaca uygunluk ve açıklık ilkelerine göre ( D3.3 ) kontrol eder. Doğruluğunu teyit ettikleri bilgiler üzerinden ( D3.3 ) her grup belirledikleri alanda sıvı basıncının kullanımı ile ilgili çıkarımlarını paylaşabilir ( KB2.6 ) . Gruplardan görev paylaşımı yaparak ve yardımlaşarak ( SDB2.2 ) elde edilen bilgiler sayesinde sıvılarda basıncın kullanıldığı sistemlerde sıvı basıncının rolü hakkında metin oluşturmaları; oluşturdukları metni fotoğraf, resim, tablo, şekil veya grafiklerden birini kullanarak desteklemeleri istenir. Öğrenciler, çalışmaları doğrultusunda çıkarımlarda bulunur. Elde edilen sonuçları afiş, poster ve slayt gösterisi gibi sunum araçlarından birini kullanarak sunabilir.",
+    "FİZ.9.3.4.",
+    "Öğrencilere sıvı içindeki bir yerde oluşan basınca neden olan kuvvetin sıvının ağırlığından kaynaklandığı hatırlatılır. Öğrencilerin havanın da sıvı gibi bir akışkan olduğundan sıvı basıncına benzer bir durumun hava için de söz konusu olduğunu farketmeleri sağlanır ( SDB1.1 ) . Bu bilgiden hareketle beyin fırtınası yapılarak öğrenciler bağlama uygun düşüncelerini açık fikirlilikle ( E3.5 ) ifade eder ( SDB2.1 ) ve açık hava basıncına ilişkin mevcut bilgisi dâhilinde hipotez kurar. Açık havanın etkisiyle meydana gelen basınç ile sıvı basıncı arasındaki benzerlik ve farklılıklar tartışılır. Sıvının homojen dağıldığı ancak havanın yoğunluğunun homojen olmadığı vurgulanır. Sıvılarda derinlik ile açık havadaki yükseklik kavramları basınç kavramı ile ilişkilendirilir. Atmosferin en üst noktasından deniz seviyesine kadar olan mesafe yükseklerde daha az olacağı için açık hava basıncının daha az olması gerektiği vurgulanır. Açık hava basıncının ilk kez Torricelli tarafından ölçüldüğü ve ölçme yöntemi açıklanır. Bu sırada cıva sütununun ağırlığı ile açık hava basıncına ait basınca neden olan kuvvetin birbirini nasıl dengelediği üzerinden sıvı basıncı ve açık hava basıncı karşılaştırılır. Atmosfer (atm) birimi tanıtılarak temel birimler cinsinden hesaplanması sağlanır. Açık hava basıncının sıcaklık ile genleşme ve hava yoğunluğunun yerel olarak değişmesine bağlı olarak yeryüzünde değişiklik gösterebileceği ve buna atmosfer basıncı dendiği vurgulanır. Alçak basınç ve yüksek basınç bölgeleri arasında havanın yer değiştirmesiyle rüzgârın oluştuğu belirtilerek coğrafya disipliniyle ilişki kurulur. Ayrıca rüzgâr oluşumunun yenilenebilen enerji kaynakları sağlamada önemli olduğu belirtilir ( OB8 ) . Öğrenciler, alçak basınç ve yüksek basınç üzerinden önermeler sunar. Bu süreçte öğrencilerden günlük hayatta açık hava basıncına yönelik karşılaştığı durumlara eleştirel bakarak örnekler vermesi istenir ( E3.10 ) . Öğrenciler, verilen örneklerden yararlanarak günlük hayatta açık hava basıncının etkisini görebilecekleri farklı durumları değerlendirir.",
+    "FİZ.9.3.5",
+    "Arşimet ve Kral Hiero'nun Altın Tacı öyküsü görsel içeriklerle desteklenerek ve tarih disip lini ile ilişki kurularak sınıfta anlatılabilir. Öğrencilere öykünün metni verilebilir. Öğrenciler öyküdekine benzer bir deney düzeneğini tasarlamaları istenebilir ( E3.4 , OB1 ) . Öğrenciler, gruplar hâlinde kaldırma kuvveti ile kaldırma kuvvetinin bağlı olduğu değişkenler arasındaki ilişkiyi belirlemek için deney tasarlar ( SDB1.2 ) ve tasarladıkları deney ile ölçümler yapar. Yaptıkları deneyden elde ettikleri verileri ( OB7 ) kullanarak kaldırma kuvvetinin bağlı olduğu değişkenleri analiz eder ( E3.6 ) . Öğrencilerden tasarladıkları deney düzeneğinden elde ettikleri sonuçları öğretmenin verdiği metin ile ilişkilendirerek bir araştırma raporu biçiminde hazırlayıp sunmaları istenebilir.",
+    "FİZ.9.3.6",
+    "Öğrenciler, kaldırma kuvveti ile ilgili yaptıkları deneyden elde ettikleri verileri yorumlayarak kaldırma kuvvetinin büyüklüğü ile yer değiştiren sıvının ağırlığının büyüklüğü arasındaki ilişkiye dair mevcut bilgisi dâhilinde hipotez kurar. Deneyden elde ettikleri verilerle kaldırma kuvvetinin matematiksel modeline ulaşır ( OB7 ) . Matematiksel model pekiştirilirken modeldeki nicelikler arasındaki orantısal ilişkilerle sınırlı kalınır. Öğrenciler, sıvı basıncı ve kaldırma kuvveti arasındaki ilişkiyi fark edebilecekleri görsel veya dijital içeriklerden yararlanarak kaldırma kuvveti ve sıvı basıncına ait matematiksel modelleri karşılaştırır. Bu karşılaştırmada sıvılardaki kaldırma kuvveti ile sınırlı kalınır. Öğrenciler karşılaştırmalardan elde ettikleri bilgiyi kullanarak kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair önermelerde bulunurlar. Öğrencilere Arşimet İlkesi'ni pekiştirmeleri için Türkiye'nin millî çıkarları doğrultusunda geliştirdiği ( D19.3 ) gemi, denizaltı gibi deniz araçları üzerinden kaldırma kuvvetinin uygulamaları hakkında bilgilendirici bir metin verilir. Görsellerle desteklenen bu araçların Türkiye'nin ekonomik kalkınması için tasarruf ve yatırım stratejileri kapsamında geliştirildiği belirtilir ( OB3 ) . Denizlerdeki plastik atıklardan kaynaklanan kirliliğin oluşturduğu çöp adaları hakkında görsel ögeler kullanılarak öğrencilere bilgi verilir. Bu plastik atıkların suyun yüzeyinde kaldırma kuvvetinden dolayı yüzdüğü vurgulanır. Öğrencilerden beyin fırtınası tekniği ile topluma olumlu katkıda bulunmak için bu atık sorununa kaldırma kuvvetinden yararlanarak çözüm üretmeleri ( D5.2 , D9.3 , D18.3 , OB8 , SDB2.3 ) istenir. ÖÖğrenciler, verilen örneklerden yararlanarak kaldırma kuvveti ile ilgili yaptıkları deneyden elde ettikleri verileri Arşimet İlkesi kapsamında değerlendirir. Öğrenciler, kaldırma kuvvetinin bağlı olduğu değişkenler ve kaldırma kuvvetinin sıvılardaki basınca neden olan kuvvet ile ilişkisine dair bir çalışma yaprağı ile değerlendirilebilir.",
+    "FİZ.9.3.7",
+    "Öğretmen konunun anlatımında tahmin et-gözle-açıkla tekniğini kullanabilir. Öğrencilerden akışkanların geçtiği borunun kesit alanının azaltılması ile akış süratinde oluşan değişimi tahmin etmelerini isteyebilir. Öğrencilerin akış modelini görsel veya dijital içerikler ( OB2 ) ve gösteri deneyinden yararlanarak gözlemlemesi sağlanır. Görsel veya dijital içeriklerde bahçe hortumundan akan suyun hortumun ucu sıkıldığında akış süratinin değiştiği örneği verilebilir. Saç kurutma makinesi ile masa tenisi topunun havada tutulduğu bir gösteri deneyi yapılabilir. Öğrenciler tahmin ve gözlem sonuçlarını karşılaştırarak gerekçelendirebilir ( E1.6 ) . Düşüncelerini sınıf ortamında düşün-eşleş-paylaş veya vızıltı grupları gibi tartışma teknikleri ile ifade ederek ( SDB2.1 ) tartışır ( SDB2.2 ) . Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiyi belirler. Akışkanın sürati ile akışkanın basıncı arasında tespit ettikleri ilişkiyi genelleyerek Bernoulli İlkesi'ne ulaşırlar ( OB7 ) . Öğretmen, öğrencilerin verilen örnekleri Bernoulli İlkesi ile açıklamalarına rehberlik eder. Öğrencilere; rüzgârlı havalarda çatıların uçması, sprey püskürtücülerde sıvının yükselmesi, hızla hareket eden araçların yakınındaki nesneleri çekmesi, yelkenlilerin rüzgâra karşı gidebilmesi, yarış arabalarının aerodinamiğe uygun olarak tasarlanması gibi olaylar ve durumlar örnek olarak verilir. Öğrenciler Bernoulli İlkesi'ne ilişkin verilen örneklerin amaca göre (havaya kaldırma, havalanmasını engelleme, yön değiştirme vb.) ortak olan ve olmayan özelliklerini farklı bakış açılarını dikkatle dinleyerek ( SDB2.3 ) belirler ( D3.3 , E3.10 , OB2 ) . Akışkanın sürati ile basıncı arasındaki ilişkiyi bu örnekler üzerinden geneller ( KB2.9 , KB2.15 ) . Uçakların havalanması ve uçmasında yalnızca Bernoulli İlkesi'nin etkili olmadığı vurgulanır. Bu ilkeye ilişkin genelleme, kavramsal olarak verilir ve matematiksel modelden kaçınılır. Öğrenciler, akışkanların sürati ile basıncı arasındaki ilişkiye yönelik bir çalışma yaprağı aracılığıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.2",
+      "D18.3",
+      "D19.2",
+      "D19.3",
+      "D3.3",
+      "D4.1",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.6",
+      "E3.10",
+      "E3.4",
+      "E3.5",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.15",
+      "KB2.6",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/65"
+}

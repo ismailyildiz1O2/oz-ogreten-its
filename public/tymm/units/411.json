@@ -1,0 +1,160 @@
+{
+  "unitId": 411,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+  "hours": "22",
+  "description": "Bu ünitede eşeyli ve eşeysiz üreme ile bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlerin açıklanması, tohumun çimlenmesine etki eden faktörlerin deneyler yapılarak keşfedilmesi, hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörlerin yorumlanması amaçlanmaktadır. Bununla beraber, insanda üremeyi sağlayan yapı ve organlar arasındaki ilişkilerin modeller üzerinde açıklanması, sinir sisteminin model üzerinde incelenmesi, iç salgı bezlerinin vücut için öneminin açıklanması, ergenliğe geçişte oluşan bedensel ve ruhsal değişimleri genelleyebilmesi, denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+      "processComponents": []
+    },
+    {
+      "code": "FB.6.3.1.1",
+      "title": "Eşeyli ve eşeysiz üremeyi karşılaştırabilme",
+      "processComponents": [
+        "a) Eşeyli ve eşeysiz üreme ile ilgili özellikleri belirler.",
+        "b) Eşeyli ve eşeysiz üreme ile benzerlikleri listeler.",
+        "c) Eşeyli ve eşeysiz üreme ile ilgili farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "FB.6.3.1.2",
+      "title": "Bitkilerde üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörleri tanımlar.",
+        "b) Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin topladığı verileri kaydeder.",
+        "c) Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.6.3.1.3",
+      "title": "Tohumun çimlenmesine etki eden faktörlere ilişkin hipotez oluşturabilme",
+      "processComponents": [
+        "a) Tohumun çimlenmesine etki eden faktörleri tanımlar.",
+        "b) Tohumun çimlenmesine etki eden faktörlerin neden sonuç ilişkilerini belirler.",
+        "c) Tohumun çimlenmesine etki eden faktörlere ait değişkenleri belirler.",
+        "ç) Tohumun çimlenmesine etki eden faktörlere ait belirlediği değişkenleri kontrol eder.",
+        "d) Tohumun çimlenmesine etki eden faktörlere ait önerme sunar."
+      ]
+    },
+    {
+      "code": "FB.6.3.1.4",
+      "title": "Hayvanlarda üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörleri tanımlar.",
+        "b) Hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin topladığı verileri kaydeder.",
+        "c) Hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin verileri değerlendirir."
+      ]
+    },
+    {
+      "code": "FB.6.3.1.5",
+      "title": "İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme",
+      "processComponents": [
+        "a) İnsanda üremeyi sağlayan yapı ve organları poster/şema üzerinde belirler.",
+        "b) İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri belirler. 2. Bölüm: Denetleyici ve Düzenleyici Sistemler"
+      ]
+    },
+    {
+      "code": "FB.6.3.2.1",
+      "title": "Sinir sisteminin görevlerini model üzerinde gözlemleyebilme",
+      "processComponents": [
+        "a) Sinir sisteminin özelliklerini tanımlar.",
+        "b) Sinir sistemini model üzerinde inceler.",
+        "c) Sinir sisteminin görevlerini açıklar."
+      ]
+    },
+    {
+      "code": "FB.6.3.2.2",
+      "title": "İç salgı bezlerinin vücut için önemini yapılandırabilme",
+      "processComponents": [
+        "a) İç salgı bezlerini inceleyerek mantıksal ilişkiler ortaya koyar.",
+        "b) İç salgı bezlerinin vücut için önemini uyumlu bir bütün olarak açıklar."
+      ]
+    },
+    {
+      "code": "FB.6.3.2.3",
+      "title": "Çocukluktan ergenliğe geçişte oluşan bedensel ve ruhsal değişimleri genelleyebilme",
+      "processComponents": [
+        "a) Çocukluktan ergenliğe geçişte oluşan değişimler hakkında bilgi toplar.",
+        "b) Çocukluktan ergenliğe geçişte oluşan değişimlerden ortak olanları belirler.",
+        "c) Çocukluktan ergenliğe geçişte oluşan değişimlerden ortak olmayanları belirler.",
+        "ç) Çocukluktan ergenliğe geçişte oluşan değişimlerle ilgili örüntüler üzerinden genellemede bulunur."
+      ]
+    },
+    {
+      "code": "FB.6.3.2.4",
+      "title": "Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Denetleyici ve düzenleyici sistemlerin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Denetleyici ve düzenleyici sağlığı hakkında bilgiler bulur.",
+        "c) Denetleyici ve düzenleyici sağlığı konusunda bulduğu bilgileri doğrular.",
+        "ç) Denetleyici ve düzenleyici sağlığı konusunda ulaştığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "eşeysiz üreme (vejetatif, bölünme, tomurcuklanma ve rejenerasyonla üreme), eşeyli üreme, başkalaşım, tozlaşma, çimlenme, yaşam döngüsü, insanda üremeyi sağlayan yapı ve organlar, âdet döngüsü, sperm, yumurta, zigot, fetüsembriyo, büyüme ve gelişme, sinir sistemi, sinir sisteminin bölümleri, merkezî ve çevresel sinir sistemi, refleks, iç salgı bezleri, hormon, iç salgı bezlerinin görevleri, ergenlik, ergen sağlığı, denetleyici ve düzenleyici sistemlerin sağlığı",
+  "support": [
+    "Bitki ve hayvanlarda üreme, büyüme, gelişmeye ait dijital ortamda video/animasyon ya da etkileşimli içeriklerle bağımsız öğrenme fırsatı sağlanabilir. Denetleyici ve düzenleyici sistemlere ait yapılara ilişkin dijital ortamda videolar izletilebilir. Sistemlere ait yapıları ve özelliklerini inceleyebilecekleri simülasyonlar gösterilebilir. Görsele dayalı çalışma yaprakları hazırlanarak yapı ve organları, iç salgı bezlerini ve hormanları tekrar etmeleri sağlanabilir. Denetleyici ve düzenleyici sistemler ile ilgili 3B modeller gösterilebilir"
+  ],
+  "enrichment": [
+    "Ergenlik döneminde yapılması gerekenlere ilişkin bir uzmanla röportaj yapıp arkadaşlarıyla paylaşmaları sağlanabilir. Denetleyici ve düzenleyici sisteme ait organlar ve iç salgı bezlerinin görevlerine ilişkin rol oynamayı gerektiren bir oyun yazdırılabilir. Oyunu sınıfta canlandırmaları teşvik edilebilir. Tohumun çimlenmesi konusunda dijital ortamda bir etkileşimli içerik/simülasyon/video tasarlamaları istenebilir. Tohumların çimlenme süreleri ile ilgili poster oluşturmaları istenebilir. Tohum gelişimini etkileyen çevresel faktörlerin neler olduğu ile ilgili araştırma raporu hazırlatılabilir. Bir ipek böceğinin bakımı üstlenilerek başkalaşım süreçlerini gözlemlemeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde çalışma kâğıdı, tanılayıcı dallanmış ağaç, yapılandırılmış grid, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir. Tohumun çimlendirilmesi deneyi performans görevi olarak verilebilir. Deney raporunu değerlendirmek için dereceli puanlama anahtarı kullanılabilir. Süreçte öğrenci performanslarını yapılandırmada V diyagramı kullanılabilir. Diyagramın değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir. Öğrencilerin sinir sistemi ve yapılarını özetleyen poster hazırlamalarını içeren performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Ergenlik döneminin sağlıklı bir şekilde geçirilebilmesi için nelerin yapılabileceğine ilişkin poster hazırlamaları performans görevi verilebilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir. Öğrencilerin denetleyici ve düzenleyici sistemlerin sağlığı için nelerin yapılabileceği konusunda rapor hazırlama performans görevi verilebilir. Performans görevi süreci kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.6.3.1.1 Eşeyli ve eşeysiz üreme kavramlarına yönelik açık fikirlilikle beyin fırtınası vb. tekniklerle bu kavramlara ait özellikler belirlenir ( E3.5 ) . Vızıltı grupları oluşturularak öğrencilerin eşeyli ve eşeysiz üreme özelliklerini tartışmaları sağlanır ( KB2.18 ) . Tartışma sürecinde her bir öğrencinin fikir belirtme ve karar alma hakkının olduğu belirtilir ( D8.1 ) . Grup çalışması sırasında farklı görüşlere saygı çerçevesinde ve görev bilinciyle hareket etmeleri beklenir ( SDB2.1 , SDB2.2 , D16.3 ) . Tartışma sırasında Türkçe dersinde yer alan iletişim becerilerinden faydalanılabilir. Öğrencilerin eşeyli ve eşeysiz üremenin benzerlik ve farklılıklarını belirlemeleri istenir. Belirlenen benzerlik ve farklılıkları karşılaştırıp liste oluşturmaları sağlanabilir. Bu aşamada olumlu iletişim ve nezaket çerçevesinde süreci yönetmeleri teşvik edilir ( SDB2.1 , D14.1 ) . Eşeyli üremenin ayrıntısına değinilmeden eşeysiz üreme konusunda vejetatif üreme, bölünme ile üreme, tomurcuklanma ile üreme ve rejenerasyon ile üreme kavramlarına değinilir. Bu kavramlara ait örneklere yönelik çıkarımlar yapmaları için dijital ortam, basılı kaynak vb. materyallerle inceletilir ( OB4 ) . Ayrıca kavramlara yönelik video/animasyonlar, dijital hikâye vb. araçlarla öğrenilenlerin pekiştirilmesi sağlanır ( OB2 ) . Süreç içinde kavram ağı, tanılayıcı dallanmış ağaç vb. ölçme araçları ile izleme amaçlı değerlendirme yapılabilir.",
+    "FB.6.3.1.2 Öğrencilerin, bitkileri çiçekli ve çiçeksiz bitkiler olarak sınıflandırmaları sağlanır. Çiçeksiz bitkilerin özelliklerine değinilmeden örnek verilir. Çiçekli bitkilerin temel kısımlarını model, poster vb. üzerinden incelemeleri sağlanır. Sınıfa getirilen bir çiçek, model, poster vb. üzerinden çiçeğin kısımlarını incelemeleri istenir ( OB4 , E3.2 ) . Bu süreçte, öğrencilerin iletişim kurarak birlikte çalışmaları ve merak ettiği soruları sormaları sağlanır ( SDB2.1 , SDB2.2 , E3.8 ) . Tozlaşmanın nasıl olduğu çiçeğe ait kısımlar gösterilerek açıklanır. Bir bitkinin yaşam döngüsüne ait süreçler görsel, poster, animasyon vb. materyaller üzerinden çıkarımlar yapmaları için inceletilir ( OB2 ) . Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin nitelikleri tanımlamaları istenir. Bu aşamada sorgulama yöntemi kullanılarak düşünmelerine rehberlik edilir ( SDB2.1 ) . Süreçte öğrencilerin araştırmacı ve sorgulayıcı bakış açısıyla düşünmeleri sağlanır ( D3.3 ) . Açık uçlu sorularla öğrencilerin bitkilerde üreme, büyüme ve gelişme hakkında yorum yapmaları ve bu aşamalara etk eden faktörleri belirlemeleri istenir. İnsanların bitkilerde üreme, büyüme ve gelişmedeki olumsuz etkilerine dikkat çekilerek çevre konusunda duyarlı davranılmasının gerekliliğine değinilir ( SDB1.2 , D5.2 ) . Ardından tüm sürece ilişkin elde ettikleri bilgileri yorumlamaları beklenir ( KB3.3 ) . Süreç içindeki aşamalar çalışma kâğıdı vb. araçlarla değerlendirilebilir",
+    "FB.6.3.1.3 Öğrencilere tohumun çimlenmesine etki eden faktörlerin neler olabileceğine yönelik açık uçlu sorular sorulur. Öğrencilerin tohumun çimlenmesine etki eden faktörleri tanımlamaları istenir ( OB1 ) . Süreç yapılandırılırken öğrencilerin bireysel ya da grup çalışması yaparak çimlenme deney düzeneği hazırlamaları istenir ( SDB2.2 ) . Süreçte öğrenci performanslarını yapılandırmada TGA tekniği kullanılabilir. Öğrencilerin tohumun çimlenmesindeki faktörler arasındaki neden sonuç ilişkilerini belirlemeleri sağlanır ( OB1 ) . Deneye ait bağımlı, bağımsız ve kontrol değişkenlerini öğrencilerin belirlemeleri istenir. Bu süreçte ısı, ışık, nem, tohumun cinsi, tohumun bulunduğu ortam gibi değişkenler dikkate alınarak neden sonuç ilişkisi bağlamında deney tekrarlanabilir. Değişkenleri kontrol edebilecekleri düzenekleri hazırlamaları ve bu düzenekleri çimlenme gerçekleşene kadar gözlemlemeleri ve kaydetmeleri beklenir ( OB1 ) . Bu süreçte sistematik olarak ve planlı bir şekilde gözlem yapmaları sağlanır ( E3.7 , D3.2 ) . Oksijensiz ortamı sağlayamayacağı için oksijen değişkeninin etkisi deney düzeneğine dâhil edilmeyip öğretmen tarafından açıklanır. Bu verileri kaydederken gözlemlerini çizmeleri istenerek görsel sanatlar dersiyle ilişki kurulur. Öğrencilerin elde ettikleri verilere dayanarak grup olarak önerme oluşturmaları beklenir ( SDB2.1 ) . Bu deney düzeneği için dijital ortamda sanal laboratuvarlar da kullanılabilir. Bu süreçte sanal laboratuvarlara erişmeleri, deneye ilişkin uygulamaları yürütmeleri ve sonuçları yorumlamaları sağlanır ( OB7 , OB2 ) . Öğrencilerin deneyi hazırlayıp önermeye ulaşmalarını içeren süreçleri gözlemleyebilmek için V diyagramı hazırlamaları istenebilir. Diyagramın değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "FB.6.3.1.4 Öğrencilerin beyin fırtınası tekniği ile hayvanlarda üreme, büyüme ve gelişmeye ilişkin nitelikleri tanımlamaları sağlanır. Sorgulama sonucunda eşeyli ve eşeysiz üreyen canlılar olduğu fark ettirilir ( OB1 ) . Doğurarak ve yumurtayla çoğalma konularına kısaca değinilirken metagenez, iç ve dış döllenme ile iç ve dış gelişmeye değinilmez. Öğrenciler iş birlikli öğrenme gruplarına ayrılabilir. Öğrencilerin gruplarda görev bilinciyle birlikte çalışmaları sağlanır ( SDB2.1 , SDB2.2 , D16.3 ) . Hayvanlarda başkalaşım konusunu video, poster vb. görsellere odaklanarak incelemeleri ve açıklamaları sağlanır ( E3.2 ) . Bunun yanında bir hayvanın yaşam döngüsüne ait süreçlerle ilgili dijital veya basılı materyaller incelenip bilgi toplamaları ve topladıkları bilgileri kaydetmeleri sağlanır ( OB4 , OB2 ) . Bu görsellere ilişkin merak ettiği soruları sormaları beklenir ( E3.8 ) . Ayrıca günlük hayattaki yaşantılar ve gözlemler sorgulanabilir. Açık uçlu sorularla öğrencilerin süreç hakkında yorum yapmaları ve bu aşamalara etki eden faktörleri belirlemeleri sağlanır. Ardından tüm sürece ilişkin elde ettikleri bilgileri değerlendirmeleri istenir ( KB3.3 ) . Bu süreçte planlı olmaları ve bilimsel bakış açısıyla yaklaşmaları beklenir ( D3.3 ) . Süreç boyunca hayvan sevgisi ve hayvanları koruma konusuna vurgu yapılarak öğrencilerin bu konulara olumlu bakış açısıyla odaklanmaları sağlanır ( D9.3 , E3.2 ) . Öğrencilerin öğrenme durumları çalışma kâğıtları vb. araçlarla değerlendirilebilir.",
+    "FB.6.3.1.5 İnsanda üreme konusunda eşeyli üreme, eşey hücreleri (yumurta ve sperm) ve döllenme kavramları kısaca açıklanır. Bu noktada bilgi haritasından faydalanılabilir. Öğrencilerin insanda üremeyi sağlayan yapı ve organları poster üzerinde inceleyerek bu yapı ve organların özelliklerini belirlemeleri istenir ( OB4 , OB2 ) . Süreçte öğrencilerin araştırmacı ve sorgulayıcı bakış açısıyla merak ettiği soruları sormaları sağlanır ( E3.8 , D3.3 ) . Kendini ifade ederken olumlu iletişim kurmaları beklenir ( SDB2.1 ) . Âdet döngüsü kavramı açıklanır. Ardından insanda sperm, yumurta, zigot, embriyo, fetüs ve bebek kavramlarını poster, video vb. üzerinden incelemeleri sağlanır ( OB2 , OB1 ) . Öğrencilerin ulaştıkları bilgileri kendi ifadeleriyle görseller aracılığıyla özetlemeleri istenir ( OB4 ) . Değerlendirme için eşleştirme testleri, tanılayıcı dallanmış ağaç vb. kullanılabilir.",
+    "FB.6.3.2.1 Sinir sistemi ve yapılarını gösteren model, poster, video/animasyon gibi araçlar sınıf ortamına getirilerek öğrencilerin gözlemleyerek analiz etmeleri sağlanır ( OB4 , OB2 ) . Sinir sistemi ile merkezî ve çevresel sinir sistemi tanıtılarak öğrencilerin bu yapı ve organlara ait nitelikleri tanımlamaları istenir. Öğrencilerin sinir sisteminin özelliklerini belirleyerek kaydetmeleri sağlanır. Ayrıca öğrencilerin süreçte odaklanmaları ve merak ettiği soruları sormaları beklenir ( E3.2 , E3.8 ) . Öğrencilerin merkezî ve çevresel sinir sisteminin görevlerini açıklamaları beklenir. Sinir sistemi kısımlarının ayrıntılı yapısına girilmez (Örneğin beynin bölümleri). Refleksler konusu ayrıntıya girilmeden verilir. Performans görevi olarak analojilerle sinir sistemini özetleyen poster tasarlamaları ve bu tasarımlarını sunmaları sağlanır ( OB4 ) . Süreçte grup olarak çalışmaları, sunma aşamasında yaratıcı fikirler üretmeleri sağlanır ( SDB2.1 , SDB2.2 , E3.3 ) . Bu tasarımlar analitik dereceli puanlama anahtarı ile değerlendirilebilir. Poster tasarlanmasında görsel sanatlar dersinden faydalanılabilir. Süreci değerlendirmede kısa cevaplı testler, açık uçlu sorular vb. kullanılabilir.",
+    "FB.6.3.2.2 İç salgı bezleri kavram karikatürü, kavram haritası vb. yöntemlerle tanıtılır. Öğrencilerin bu süreçte merak ettikleri soruları sormaları sağlanır ( E3.8 ) . Hormonların tanımı yapılarak iç salgı bezlerinin yapılarına girilmeden büyüme, tiroksin, adrenalin, glukagon, insülin ve eşeysel hormonlara değinilir. Öğrencilerin iç salgı bezlerine ait model, poster vb. inceleyerek nedensel ilişkileri ortaya koymaları sağlanır ( OB4 ) . Bu süreçte analoji yöntemi kullanılarak öğrencilerin eğlenerek öğrenmeleri sağlanabilir ( E2.5 ) . Elde ettikleri bilgilerle var olan bilgilerini bütünleştirerek iç salgı bezlerinin uyumlu bir bütün oluşturduğu sonucuna ulaştırılır. Bu noktada aile bireylerinin görevleri ve iç salgı bezleri arasında analoji yapılarak iç salgı bezlerinin uyumlu bir bütün oluşturduğu çıkarımı yaptırılır ( D2.4 ) . Öğrencilerin öğrenme durumları çalışma kâğıdı, açık uçlu sorular vb. araçlarla değerlendirilebilir.",
+    "FB.6.3.2.3 Çocukluktan ergenliğe geçişte kavram karikatürü, rol yapma gibi yöntemlerle öğrencilerin oluşan değişimleri fark etmeleri sağlanır ( SDB2.1 , SDB2.2 , E2.5 ) . Ergenliğe geçişte gerçekleşen değişimlere yönelik tahminlerde bulunmaları istenir ( E3.5 , OB1 ) . Bu yöntemlerle öğrencilerin çocukluktan ergenliğe geçişte oluşan değişimler hakkında bilgi toplamaları sağlanır ( OB7 ) . Bu değişimlerdeki ortak ve ortak olmayan özellikleri belirlemeleri sağlanır. Belirledikleri özellikler arasında örüntüler oluşturarak değişimlere ilişkin kızlarda ve erkeklerde meydana gelen duygusal, bedensel vb. değişimler olarak önermeler oluşturmaları sağlanır. Bu süreçte grup çalışmasıyla yürütülüp belirlenen değişimler poster şeklinde özetlenir ( SDB2.1 , SDB2.2 , OB1 ) . Hazırlanan posterler analitik dereceli puanlama anahtarları ile değerlendirilebilir. Süreçte etkili iletişimle, empati kurarak ve nezaketli davranarak bireysel farkları dikkate almaları sağlanır ( D14.1 ) . Ergenlik döneminin sağlıklı bir şekilde geçirilebilmesi için nelerin yapılabileceğine ilişkin geçerli fikir oluşturmaları beklenir ( SDB3.3 ) . Bu süreçte öğrencilerin açık fikirli davranmaları, araştırmacı ve sorgulayıcı bakış açısıyla fikirlerini savunmaları sağlanır ( E3.5 , D3.3 ) . Öğrencilerin ergenlik dönemiyle ilgili yanlış bilgilerinin farkına varıp öğrendiklerini uygulamaya özen göstermeleri, kişisel temizlik ve bakımında sorumlu davranmaları beklenir ( D13.4 , D18.1 , SDB1.2 ) .",
+    "FB.6.3.2.4 Öğrenciler, denetleyici ve düzenleyici sistemlerin sağlığı için nelerin yapılabileceği konusunda bireysel araştırmalara ya da grup araştırmalarına yönlendirilir ( SDB2.1 , SDB2.2 ) . Bilgiye ulaşırken kullanacakları araçları belirlemeleri sağlanır. Bilgiye ulaşmak için güvenilir genel ağlar, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı araçlar ile bilgi toplayarak analiz etmeleri sağlanır ( OB1 , OB7 ) . Bu süreçte gerçeği arama isteğiyle merak ettikleri soruları sorarak güvenilir genel ağ adreslerini belirlemeleri desteklenir ( OB2 , E3.4 , E3.8 ) . Ulaştıkları bilgilerin doğruluğunu sorgulamaları sağlanır. Bu doğrulamaları arkadaşlarıyla karşılaştırarak, öğretmenine danışarak ya da güvenilir kaynaklara başvurarak yapmaları sağlanabilir. Araştırma sürecinde planlı olmaları ve bilimsel bakış açısıyla yaklaşmaları beklenir ( D3.2 ) . Öğrencilerin doğruladıkları bilgileri kaydetmeleri istenir. Bu aşamada raporlaştırmaları istenebilir. Öğrenci raporları performans görevi olarak ele alınıp kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D14.1",
+      "D16.3",
+      "D18.1",
+      "D2.4",
+      "D3.2",
+      "D3.3",
+      "D5.2",
+      "D8.1",
+      "D9.3"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.2",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/411"
+}

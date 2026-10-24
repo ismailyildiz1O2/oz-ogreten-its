@@ -1,0 +1,50 @@
+{
+  "unitId": 1202,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "1. TEMA: KAVALDA İKİNCİ VE ÜÇÜNCÜ KADEME SES ALANINDA ANA VE ARA SESLER",
+  "hours": "16",
+  "description": "Tema içeriğini, kavalda birinci ve ikinci kademe ses alanında yer alan ara sesleri, sol#, fa ve fa# notalarını çalabilme oluşturmaktadır. Bu doğrultuda kavalda birinci ve ikinci kademe ses alanında yer alan ana ve ara sesleri seslendirebilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.8.1.1",
+      "title": ". Sol#, fa ve fa# notalarını çalabilme",
+      "processComponents": [
+        "a) Sol#, fa ve fa# notalarını çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Notaları yapısına uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "ara ve ana sesler, kaval, nota, ritim, süre",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Kavalda birinci ve ikinci kademede yer alan sol#, fa ve fa# notalarından oluşan etütler metronom aleti ile hızlandırılarak çalınabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak kavalda birinci ve ikinci kademe ses alanında yer alan sol#, fa ve fa# seslerinin geçtiği Türk halk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "KVL.8.1.1.",
+    "Öğretmen tarafından kavalda sol#, fa ve fa# sesleri uygulamalı olarak gösterilip dinlettirildikten sonra öğrencilerden sesleri çözümlemeleri beklenir. Kavalda sol#, fa ve fa# notalarının parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilerek, öğrencilerin odaklanıp pozisyonları kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir. ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin sol#, fa ve fa# notalarını çalabilmeleri için kavala özgü teknikleri ifade etmeleri ardından kullanmaları sağlanır. Doğru duruş ve tutuş pozisyonu sağlandıktan sonra birinci ve ikinci kademede sol#, fa ve fa# yer alan notaların belirgin şekilde algılanması için uzun seslerden ve basit usullerden oluşan etütler, öğretmen tarafından çalınır, öğrencilerin gözlemledikten sonra etütleri doğru teknik ile ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Çalışmalar gözlem formu veya dereceli puanlama anahtarı ile değerlendirilebilir. Süreç sonunda performans görevi olarak kavalda birinci ve ikinci kademe ses alanında yer alan sol#, fa ve fa# seslerinin geçtiği Türk halk müziği eserlerini araştırıp çalmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1202"
+}

@@ -1,0 +1,127 @@
+{
+  "unitId": 116,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "1. TEMA: SAYILAR VE NİCELİKLER (1)",
+  "hours": "41",
+  "description": "Bu temada öğrencilerin niceliklerin büyüklüklerine karşılık gelen 100’e kadar olan sayıları kullanabilmesi; nesne sayısı 100’e kadar olan nesne grubunu çözümleyebilmesi; sayıların sırasını belirleyebilmesi; 100’e kadar (100 dâhil) ileriye doğru ritmik saymaları, sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilmesi; bir çokluktaki ilişkilerden yararlanarak 50’ye kadar olan nesnelerin sayısını tahmin edebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.2.1.1",
+      "title": "100'e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme",
+      "processComponents": [
+        "a) Niceliklerin büyüklüklerinin farklı temsillerini tanır.",
+        "b) Niceliklerin büyüklüklerine uygun sayı temsillerini belirler.",
+        "c) Niceliklerin büyüklüklerine karşılık gelen sayıları okur ve yazar."
+      ]
+    },
+    {
+      "code": "MAT.2.1.2",
+      "title": "İki basamaklı sayıları çözümleyebilme",
+      "processComponents": [
+        "a) İki basamaklı sayıların basamak ve basamak değerini belirler.",
+        "b) İki basamaklı sayıların basamak ve basamak değerleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.2.1.3",
+      "title": "Sayıların sırasını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "MAT.2.1.4",
+      "title": "İleriye ve geriye doğru ritmik sayabilme",
+      "processComponents": [
+        "a) Yüzlük tablo üzerinde ileriye ve geriye doğru ritmik saymaya ilişkin gözlem yapar.",
+        "b) 20 içinde ikişer, 30 içinde üçer, 40 içinde dörder, 100 içinde beşer ileriye ve geriye doğru ritmik sayarken örüntü bulur.",
+        "c) İleriye ve geriye doğru ritmik sayarken bulduğu örüntüyü geneller."
+      ]
+    },
+    {
+      "code": "MAT.2.1.5",
+      "title": "Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme",
+      "processComponents": [
+        "a) Örüntüde kullanılan sayılar ve sayı temsiline dönüşen şekiller arasındaki ilişkiye yönelik varsayımda bulunur.",
+        "b) Belirlediği varsayıma göre sayı ve sayı temsiline dönüşen şekil örüntülerini örnekler üzerinde listeler.",
+        "c) Gösterilen örüntünün, varsayımı karşılayıp karşılamadığını örneklerle sınar.",
+        "ç) Karşılaştırılan sayı ve sayı temsiline dönüşen şekil örüntülerinin kuralını sözlü olarak ifade eder.",
+        "d) Gösterilen örüntü ile ilgili değerlendirmede bulunur."
+      ]
+    },
+    {
+      "code": "MAT.2.1.6",
+      "title": "Bir çokluktaki ilişkilerden yararlanarak 50'ye kadar olan nesnelerin sayısını tahmin edebilme",
+      "processComponents": [
+        "a) Bir çokluktaki parça-bütün ve dağılım ilişkisini gözlem ve deneyimleri ile ilişkilendirir. b ) Bir çokluğun büyüklüğünü stratejiye dayanarak tahmin eder.",
+        "c) Tahmini ile gerçek sonucu karşılaştırarak tahmininin doğruluğuna yönelik bir yargıda bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "• sayı doğrusu, basamak değeri, çözümleme, onluk, birlik, şekil örüntüleri, Sembol ve Gösterimler, • -",
+  "support": [
+    "Konuya ilişkin destekleme amacıyla görsel, işitsel ve dijital materyaller kullanılır. Görsel veya işitsel ögelerle desteklenen grup çalışmalarında öğrencilerden çoklukları onluk ve birliklerine ayırmaları, ayırdığı bu grupları basamak olarak isimlendirmeleri basamak değerini ifade etmeleri istenir.",
+    "Sayı doğrusuna temel oluşturacak gereç ve modellerin sayıların konumlandırması yolu ile daha fazla duyuya hitap etmesi sağlanır. Bu durumu sağlamak için kâğıdın veya defterin üzerine dokunabilecekleri nesnelerle bir doğru oluşturulması istenir. Süreçte kâğıdın veya defterin üzerine dokunabileceği nesnelerle öğrencilerin kendilerinin bir doğru oluşturması istenir. Bu doğrunun üzerine yine dokunabilecekleri küçük nesneleri birer artırarak sırayla koymaları ve her bir sütundaki nesnelerin sayılarını alt tarafa yazmaları beklenir. Bu doğrultudaki etkinliklerle öğrencilerin yaparak yaşayarak sayı doğrusu modelleri oluşturmaları sağlanır.",
+    "Sayıların artış ve azalış miktarına bağlı olarak ritmik sayabilmenin daha anlaşılır hâle gelmesi için yüzlük tablo üzerinde ritmik saymaların farklı renklere boyanması istenir."
+  ],
+  "enrichment": [
+    "Öğrencilerin küçük grup çalışmaları yaparak 100'e kadar olan bir nesne grubunu resmetmeleri istenir. Devamında resmedilen nesne grubunun matematiksel temsili yazılarak çözümlenmesi istenir.",
+    "Sayı doğrusu modeline sayıları birer, ikişer, beşer ve onar, ileriye ve geriye doğru nasıl yerleştirebilecekleri sorularak bu konuda fikir yürütmeleri sağlanır.",
+    "Ritmik saymalar öğrenme farklılıkları gözetilerek verilmeyeni bulma etkinlikleri şeklinde tekrarlanır. Öğrencilerin ritmik saymaları herhangi bir sayıdan başlayacak şekilde yapmaları ve bu şekilde örüntüler kurmaları sağlanır.",
+    "Öğrencilerden olanakları dikkate alınarak dijital ortamları kullanmaları ve dijital ortamlarda öğrenme-öğretme uygulamalarında ele alınan içerik ile ilgili aramalar yapması ve ulaştığı bilgileri paylaşması istenir. Tahmin ve gerçek sonucu karşılaştırma ile ilgili aktif öğrenme yöntem ve tekniklerinden yararlanılarak etkinlikler düzenlenir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme çıktıları; boşluk doldurma soruları, eşleştirme soruları ve açık uçlu sorular, gözlem formları, performans görevi, izleme testleri ve kontrol listesi kullanılarak değerlendirilebilir.",
+    "Öğrencilere grupla çalışılabilecekleri şekilde sınıf ortamında ritmik olarak ileriye veya geriye doğru saymalarını ortaya çıkaracak performans görevi verilebilir. Performans görevinin değerlendirilmesi bütüncül dereceli puanlama anahtarı ile yapılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.2.1.1 Öğrencilere matematiksel araç gereçten oluşan bir nesne grafiği gösterilerek aynı kategorideki nesneleri saymaları istenir. Nesne grafiğine ilişkin birbirlerine sorular sormaları sağlanır ( OB7 , SDB2.1 ). Öğrencilerin görsellerde yer alan nesneleri saymaları ve sayı temsillerini ifade etmeleri istenir. Görsel ögelerin yer aldığı ve öğrencinin aktif olarak sayma yaptığı ve saydığını okuyup yazdığı etkinliklere yer verilir. Bu durum 100 sayısına kadar sürdürülür. Öğrenme-öğretme uygulamalarında diğer derslerden de yararlanarak ilişkisel olarak etkinlikler sürdürülür. Bu kapsamda herhangi bir müzik aletine veya sıraya, belirlenen sayı kadar ritimli vurulması istenir ( D7.1 ). Oyun temelli yapılan etkinliklerin içerisinde öğrencilerin 100'e kadar sayma yapmaları sağlanır. Öğrenme-öğretme uygulamaları sonunda niceliklerin büyüklüklerine karşılık gelen 100'e kadar olan sayıları kullanma, günlük yaşamda karşılaştıkları durumlar için uygun sayıları okuma ve yazma ile ilgili öğrenme seviyeleri boşluk doldurma sorularından yararlanılarak belirlenebilir. Ayrıca izleme testleri ve açık uçlu sorulardan yararlanılarak öğrencilerin öğrenme kanıtları belirlenebilir.",
+    "MAT.2.1.2",
+    "Nesne sayısı 20'ye kadar olan bir çokluk öğrencilere görseller veya nesneler yardımıyla gösterilir. Bu çokluğu onluk ve birliklerini temel alarak çözümlemeleri istenir. Çözümlemeden sonra onluk ve birlikleri verilen sayılara ulaşılması sağlanır. Gerekli görülürse onluklar artırılarak tekrar çözümleme yapılır ve öğrencilerin daha fazla onlukla çalışabilecek duruma gelmesi sağlanır. Burada amaç, öğrencinin birinci sınıfta yaptığı 20'ye kadar sayıları çözümleme uygulamasını daha büyük onluklarla da yapabilmesidir ( OB1 ). Bu doğrultuda 100'e kadar olan sayıların çözümlenmesine yönelik uygulamalar yapılır. Bu uygulamalar grupla ve bireysel olarak da yürütülür ( SDB2.2 ). Öğrenciler onluk ve birlikleri esas alarak ayırma ve birleştirme yaptığı sürece farklı şekillerde çözümlemeler yapabilmeleri kısıtlanmamalıdır ( E3.3 ). Bu süreçte öğrencilerin yaptığı çözümlemeler kontrol listesi ile değerlendirilebilir.",
+    "100'e kadar olan sayıları ayırma ve birleştirme ile ilgili birden çok sayıda duyuya hitap eden etkinlikler yapılır. Bu etkinliklerde sayı çözümlemelerinde onluklar ve birlikler, görseller veya sayılabilen nesneler yardımıyla gruplanarak gösterilir. Verilen bir sayının kaç adet onluktan ve birlikten oluştuğu bloklar yardımıyla belirtilir. Bu iki bloğun onlar basamağı ve birler basamağı olduğu vurgulanır. Bloklardaki onlukların ve birliklerin kendi içlerinde bir bütün olarak basamak değerini oluşturduğu ifade edilir. Öğrenmeyi pekiştirecek şekilde bireysel etkinlikler yapılır. Süreçteki öğrenme kanıtlarını belirlemek için eşleştirme sorularından yararlanılabilir.",
+    "MAT.2.1.3",
+    "Öğrencilerle 20'ye kadar olan sayıların konumlandırılmasında sayı doğrusuna temel oluşturacak şekilde etkinlikler yapılır. Bunun için doğrusal bir şekilde uzun bir ip ve sayı kartları, cetvel gibi nesneler kullanılarak sayıların konumu gösterilir. Bu şekilde öğrenciler sayıları sıralarken sayı doğrusuna temel oluşturması sağlanır ( OB1 ). Öğrenci sayı doğrusu ile ilk kez karşılaştığından sayıları sıralarken sayı doğrusundan yararlanılabileceğini; sayı doğrusunda sayıları konumlandırırken daha önce öğrenmiş olduğu sayılarla sıralamaya ilişkin öğrendiklerini kontrol etmesi sağlanır. Bu süreçte açık uçlu ve boşluk doldurma sorularından yararlanılabilir. Bu soruların değerlendirmeleri kontrol listeleri ile yapılabilir.",
+    "Sayı doğrusuna temel oluşturulduktan sonra sayı doğrusu modeline sayıları yerleştirmeye yönelik etkinlikler gerçekleştirilir. Ayrıca sayı doğrusu en temel koordinat sistemi olması sebebi ile sayıların 0'dan başlayarak sıralanması veya büyüklük küçüklük sıralaması yapmak için kullanıldığına ilişkin örnekler yardımıyla açıklamalar yapılır. Bu doğrultuda öncelikle görsel olarak sayı doğrusuna hazırlamak amacıyla cetvel modelinden yararlanılır. Ayrıca bu süreçte okul ve sınıf olanakları dikkate alınarak öğrencilerin dijital bilgiye ulaşma becerilerini geliştirmek için akıllı tahtada cetvel modeli ile ilgili etkinlikler ve görsellere erişim yolları gösterilir ( OB2 ).",
+    "Sayıların en yakın olduğu onluğun belirlenmesinin gerekliliğine dair örnekler verilir. Öğrenciler ile en yakın onluğa \"yakın, uzak ve eşit mesafede\" ifadeleri gerektiren örnekler verilerek yuvarlamaya hazırlık yapılır. Örneğin çoklukta 12 nesne varsa öncelikle bunun 10 ve 20 sayılarından hangisine daha yakın olduğu sorulur ve öğrencilerin kendi yöntemleriyle tahmin etmeleri sağlanarak 10 sayısına yakın şekilde model üzerine yerleştirmeleri beklenir. Süreç günlük yaşamdan örneklerle çeşitli oyunlarla ve bireysel etkinliklerle sürdürülür ( E2.5 ). Yapılan etkinlikler sonunda sayıları onluğa yuvarlama ile ilgili bir sonuca ulaşmaları sağlanır. Sayıları sıralama, sayı doğrusuna doğru şekilde ve eşit aralıklarla yerleştirme ile ilgili eşleştirme sorularından yararlanılabilir. Sayıların sayı doğrusuna hangi ölçüte göre yerleştirildiği, sayıları en yakın onluğa yuvarlamanın hangi durumlarda kullanılabileceği ve gerekli olabileceği durumlarına dair açık uçlu sorular kullanılabilir. Açık uçlu sorular kullanılacaksa sıralama yaparken öğrencilerin yorumları ve varsa özgün yöntemleri sorulabilir ( E3.11 , SDB3.3 ).",
+    "MAT.2.1.4",
+    "Sınıfta sayma gerektiren nesnelerden ve görsellerden yararlanılarak etkinlikler yapılır. Sayıların artış ve azalış miktarına bağlı olarak ritmik sayabilmenin gerekliliğini hissetmeleri amaçlanır ( OB1 ). Yüzlük tablo üzerinde arkadaşlarıyla birlikte ikişer, üçer, dörder ve beşer sayarak bu ritmik saymaların nasıl yapıldığıyla ilgili gözlem yapmalarına olanak sağlanır. Sınıf gruplara ayrılıp gruplardan sırayla sayma yapması istenir.",
+    "20'ye, 30'a ve 40'a kadar devam eden bir çokluktaki nesnelerin sayısının ikişer, üçer ve dörder sayılması istenir. Bu etkinlikleri yaparken öğrencilerin ritmik saymanın örüntü oluşturduğuna yönelik çıkarımda bulunmaları sağlanır. Öğrencilerin ileriye veya geriye doğru ritmik saymalarında genelden genele veya genelden özele çıkarım yapması sağlanır ( KB2.16.2 ).",
+    "Öğrencilerin önceki öğrenmeleri arasında yer alan sayı doğrusuna temel oluşturacak şekilde çeşitli gereç ve modeller üzerine sayıları yerleştirme dikkate alınarak bu gereçler üzerinde öncelikle 100'e kadar beşer ve onar daha sonra 20'ye kadar ikişer ritmik sayma yapılır. Benzer şekilde etkileşimli bir şekilde tasarlanacak olan sayı doğrusu modelinde 30'a kadar üçer, 40'a kadar dörder ritmik sayma etkinlikleri yapılır. Yapılan ritmik sayma etkinliklerinin ardından öğrencilerin defterlerine belirtilen ritmik saymaları yapmaları istenir. Süreç gözlem formu yardımıyla değerlendirilebilir ( D3.4 , SDB1.1 , SDB1.3 ). Çalışmaların ardından nesneleri gruplandırarak tasarlanan, ritmik sayma temsillerini içeren resimler yapmaları istenir. Ayrıca bu süreçte okul ve sınıf olanakları dikkate alınarak öğrencilerin dijital bilgiye ulaşma becerilerini geliştirmek için akıllı tahtada ritmik sayma ile ilgili bilgiye erişim yolları gösterilir ve kendilerinden bu bilgilerin tekrar bulunması istenir ( OB2 ). Öğrencilere grupla çalışılabilecekleri şekilde sınıf ortamında ritmik olarak ileriye veya geriye doğru saymalarını ortaya çıkaracak performans görevi verilebilir ( SDB1.2 ). Performans görevinin değerlendirilmesi bütüncül dereceli puanlama anahtarı ile yapılabilir.",
+    "MAT.2.1.5",
+    "Öğrencinin ilk üç adımı verilen örüntüyü en fazla üç adım daha devam ettirebilmesi için örüntüde kullanılan sayılar ve sayı temsiline dönüşen şekiller arasındaki ilişkiye yönelik varsayımda bulunması sağlanır. Sayı temsiline dönüşen şekil örüntüleri sayıyla ifade edilebilecek şekillerden oluşturulmalıdır. Ardından öğrencinin belirlediği varsayıma göre sayı ve sayı temsiline dönüşen şekil örüntülerini örnekler (örneğin üç sayısını üçgen, dört sayısını kare, beş sayısını beşgen ile temsil etme vb.) üzerinde listelemesi sağlanır. Devamında öğrencinin listelemiş olduğu örüntünün, varsayımı karşılayıp karşılamadığı örnekler ve yapılacak etkinliklerle sınanmaya çalışılır. Bu süreçte öğrencinin en fazla üç adımlı olan sayı ve sayı temsiline dönüşen şekil örüntülerindeki artma, azalma ve tekrar etme durumlarını sözlü olarak ifade etmeleri sağlanır. Son olarak da öğrencinin ifade ettiği örüntü ile ilgili olarak değerlendirme yapması sağlanır ( SDB1.2 ).",
+    "Belli adımları verilen örüntüden yararlanarak elde edilen veriler üzerinde kurala dayalı hesaplama yapması sağlanarak devam eden örüntüye yönelik yargıda bulunması sağlanır ( KB2.12 ). Öğrencilerin süreçte aktif olarak rol alması için grupla çalışma gerektiren etkinlikler yapılarak öğrencilerin grup içerisinde kendine uygun görevler almaları sağlanır.",
+    "Örüntü ile ilgili varsayımda bulunmaktan örüntüyü değerlendirmeye kadar geçen süreçte öğrenciler kişisel ve grup içi etkinliklerde sorumluluklarını yerine getirmeleri yönünde teşvik edilir ( D16.3 ). Sayı ve sayı temsiline dönüşen şekil örüntüleri hakkında öğrenme çıktılarına erişim düzeyini belirlemede boşluk doldurma soruları kullanılabilir. Öğrencilerle görüşmeler yapılarak örüntüler ile ilgili çıkarım yapma sürecinde izlemiş olduğu stratejiler ile sayı ve sayı temsiline dönüşen şekil örüntüleri hakkındaki çıkarımları gözlem formlarından yararlanılarak değerlendirilebilir.",
+    "MAT.2.1.6",
+    "Nesnelerden oluşan bir çokluk (50'ye kadar) verilerek parça-bütün ve dağılım ilişkisini öğrencilerin gözlem ve deneyimleri ile ilişkilendirmesi sağlanır ( SDB1.1 ). Devamında çokluğun büyüklüğünü stratejiye dayanarak tahmin etmesi istenir. Bu süreçte nasıl bir strateji kullandığına dikkat edilerek öğrenciden kullandığı stratejiyi ifade etmesi istenir. Böylelikle tahminde bulunan öğrencinin stratejisinin diğer öğrenciler tarafından bilinmesi sağlanır. Son aşamada öğrencinin yaptığı tahmin ile gerçek sonucu karşılaştırarak tahmininin doğruluğuna yönelik bir yargıda bulunulması sağlanır. Belirlenen öğrenme kanıtları kontrol listesi yardımıyla değerlendirilebilir. Bunun yanında açık uçlu sorulardan yararlanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D3.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.11",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB2.12",
+      "KB2.16.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/116"
+}

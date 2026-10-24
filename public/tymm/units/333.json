@@ -1,0 +1,83 @@
+{
+  "unitId": 333,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "5. TEMA: HAZIR VERİLER ÜZERİNDE ÇALIŞMA",
+  "hours": "30",
+  "description": "Bu temada öğrencilerin 12. sınıf seviyesine kadar öğrendiği istatistik ve olasılık bilgilerini kullanabileceği hazır verilere dayalı istatistiksel araştırma tasarımı yapabilmeleri, istatistiksel araştırma sürecini yürütebilmeleri ve sonuçları paylaşabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.5.1",
+      "title": "Toplumsal ve bilimsel durumlara ilişkin hazır veri ile çalışabilme ve hazır veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) İstatistiksel araştırma tasarlamayı gerektiren toplumsal ve/veya bilimsel durumları belirler.",
+        "b) Bağlam içerisinde ve tasarladığı istatistiksel araştırmaya yönelik veri dağılımlarını betimleyen, karşılaştıran ve/veya değişkenler arasındaki ilişkililiğe odaklanan araştırma soruları oluşturur.",
+        "c) Verileri elde etmeye yönelik plan yapar.",
+        "ç) Verileri elde ederek analize hazırlar.",
+        "d) Araştırma sorusu bağlamında verileri analiz etmek için görselleştirme ve/veya özetleme araçlarından uygun olanları seçer.",
+        "e) Araştırma sorusu bağlamındaki verileri belirlediği araçlarla analiz eder.",
+        "f) Tasarladığı istatistiksel araştırmadan elde ettiği çıktılardan hareketle yorumlayarak sonuç çıkarır.",
+        "g) Tasarladığı istatistiksel araştırmadan elde edilen sonuçları araştırma sorusu bağlamında değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "istatistiksel araştırma tasarımları",
+  "support": [
+    "Hazır veri setlerinde daha az sayıda değişken olmasına ve bu değişkenlere ait veri sayısının daha az olmasına dikkat edilerek istatistiksel araştırma sürecinin yürütülmesi istenebilir. Elde edilen sonuçlar, çeşitli görsel araçlar (sunum, bilgi görseli gibi) yardımıyla sınıf ortamında paylaşılabilir.",
+    "İstatistiksel araştırma süreci, grup çalışması ile yürütülebilir. Gruplar heterojen şekilde düzenlenir, öğrencilerin ilgi ve ihtiyaçlarına uygun görevler verilmesi sağlanabilir. Akran öğrenmesi ve görev paylaşımları ile öğrencilerin istatistiksel araştırma tasarımlarını anlamlandırması desteklenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilerden toplumsal planda kritik olduğunu düşündükleri bağlamları (iklim değişikliği, teknoloji bağımlılığı gibi) kullanarak oluşturdukları istatistiksel araştırma tasarımlarını ve sonuçlarını bilimsel bir rapor, makale veya bildiri şeklinde düzenlemeleri istenerek akademik ortamlarda (çalıştay, kongre gibi) paylaşmaları beklenebilir.",
+    "(*) Öğrencilerden yürüttükleri istatistiksel araştırmaların sonuçlarına ilişkin çözüm önerilerini ilgili kuruma sunacak şekilde projelendirmesi istenebilir.",
+    "Öğrencilere çok değişken içeren veri seti sunulup öğretmen tarafından seçilen bir değişkenin o veri setinde yer alan diğer değişkenlerden hangisi ile en ilişkili olduğu incelenebilir, seçilen değişkenlere yönelik istatistiksel araştırma tasarımları yapmaları öğrencilerden beklenebilir. Elde ettikleri sonuçları dijital araçlar yardımıyla paylaşmaları ve deneyimlerini ifade etmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, kontrol listesi ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere hazırladıkları istatistiksel araştırma tasarımlarının bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Bu performans görevi sonunda elde ettikleri sonuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Öğrenciler, ürünlerini akran değerlendirme ve grup değerlendirme formu ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "MAT. 12.5.1 İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri toplama planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumlama aşamalarının tamamını içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, tek nicel değişken içeren dağılımların yanı sıra iki nicel ve iki kategorik değişken içeren dağılımlarla istatistiksel araştırma sürecini yürütür.",
+    "İstatistiksel araştırma tasarımına kaynaklık edecek bağlamlar, öğrencilerin ilgi duyduğu veya merak ettiği toplumsal ve bilimsel durumlar; bireysel çalışmalar ya da iş birliğiyle grup çalışması yapılarak belirlenir ( E1.1 ) . Grup çalışmaları sürecinde fikirlerini arkadaşlarıyla paylaşarak uygunluğu üzerine öğrencilerin tartışmaları ve aktif rol almaları desteklenir ( SDB2.2 , D3.4 ) . Öğrencilerin bu tartışmalarla istatistiksel araştırma gerektirebilecek toplumsal ve bilimsel durumlara ilişkin bilgilere ihtiyaçları olduğunu keşfetmelerine yönelik düzenlemeler yapılmalıdır ( OB1 ) . Toplumsal veya bilimsel konulara yer verilmesi, kendi çevresinde olup bitenleri merak etmesini sağlar ve bu meraktan hareketle sorular sormasını teşvik etmesinin yanı sıra daha duyarlı olmasına yardım eder ( D5.1 , E3.8 ) .",
+    "Belirlenen bağlamlardan yola çıkarak öğrenciler, merak ettikleri soruları ifade eder ( E3.8 ) . Bu aşamada öğrencilerle çok değişkenli veri setlerinden en fazla iki değişken içeren problemlerin neler olabileceği üzerine sınıf içi tartışma başlatılır. Bu tartışmalarda uygun değişkenlerin nasıl belirleneceği üzerine öğrenciler, fikirlerini arkadaşlarıyla paylaşır. Öğrenciler, birbirlerinin fikirlerini saygı çerçevesinde dinleyerek değişkenleri belirler ( SDB2.2 , D14.1 ) . Bu tartışmanın sonunda öğrenciler farklı bağlamlardan hareketle betimsel, karşılaştırma veya ilişkililiğe odaklanan, istatistiksel araştırma sorularına ulaşır ( SDB2.1 ) . Öğrencilerden bu süreçte dünyaya ve topluma duyarlılığını, ekosistemin sürdürülebilirliğini yansıtabileceği farklı disiplinlere yönelik araştırma soruları hazırlamaları beklenir ( SDB2.3 , SDB3.3 , OB8 , D5.1 ) . Örneğin hava kirliliği ve iklim değişikliğine odaklanan (coğrafya), gelir dağılımı ve yaşam koşullarını (sosyoloji) veya yatırım ve tasarrufları inceleyen (ekonomi) araştırma soruları oluşturabilir ( OB3 ) araştırma soruları oluşturabilir.",
+    "Hazırlanan araştırma sorularına cevap bulabilmek amacıyla veri elde etme sürecine geçilir. Bu süreçte öğrencilerin hazır veriye hangi kaynaklardan nasıl ulaşabileceği üzerine sınıf içi tartışma yapılır ( SDB2.1 ) . Örneğin öğrenciler, belirledikleri soruların bağlamı ile ilişkili olan kamu kurumlarının genel ağ adreslerini ziyaret ederek ihtiyaç duydukları hazır verilere ulaşır ( OB6 , OB1 ) . Ayrıca belirledikleri sorular bağlamında dijital ortamlarda bu tür verileri nasıl elde edebilecekleri ile ilgili tartışmalar yapılır. Bu sayede öğrenciler, ulusal veya uluslararası resmî kanallar üzerinde dijital kaynaklardan hazır verileri elde eder ( OB2 ) . Sınıf ortamına ve imkânlara bağlı olarak gerektiğinde hazır veriler öğrencilere sağlanır. Öğrenciler; hazır veri setlerindeki verilerin nasıl toplandığı, değişkenlerin nasıl tanımlandığı gibi ölçütlerle veri toplama sürecini sorgular. Hazır veriye ait örneklemin genellemeyi hedeflediği evrene uygunluğunu olasılık bilgilerini kullanarak ve eleştirel bakarak tartışır ( E3.10 ) . Elde edilen hazır verilerin belirlenen araştırma sorusuna cevap verebilecek değişkenleri içerip içermediği inceletilir. Öğrencilerden çalıştıkları hazır veriye göre araştırma sorularında gerekiyorsa uyarlama yapmaları beklenir ( SDB1.2 ) .",
+    "Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve elde edilen/verilen verilerin nasıl toplanmış olabileceği, istatistiksel araştırma sorusu ve veri toplama planı ölçütleri doğrultusunda oluşturulan kontrol listesiyle değerlendirilebilir.",
+    "Araştırma soruları bağlamında öğrencilerden betimsel, karşılaştırma ve ilişkililik içeren veri dağılımlarını analiz edebilmek için görselleştirme araçlarından ve/veya özetleme araçlarından uygun olanlarını seçmeleri istenir ( SDB1.2 , MAB3 ) . Bu süreçte çıkarımsal istatistiğin araçlarına (örneğin güven aralıkları, hipotez testi) yer verilmez. Uygun olan araçların belirlenmesinde araştırma sorularına yeniden dönülerek hangi araçların uygun olduğuna dair sınıf içi tartışma yapılır ( SDB2.1 ) . Bu süreçte öğrenciler birbirlerinin fikirlerini nezaketle dinler, arkadaşlarıyla empati yapar ( SDB2.3 , D14.1 ) . Seçilecek araçlar, araştırma sorularına cevap verecek ve verileri analiz edecek nitelikte olmalıdır. Öğrencilerin istatistik yazılımlarını kullanarak ve görselleştirme ve/veya özetleme araçlarıyla verileri analiz etmeleri istenir ( OB2 , MAB5 ) . Bu süreçte her öğrencinin betimsel, karşılaştırma ve ilişkililik içeren araştırma tasarımlarını deneyimlemeleri sağlanır.",
+    "Analiz süreci tamamlandığında elde edilen araştırma sonuçlarına ilişkin sınıf içi tartışma yapılır ( SDB2.1 , D14.1 ) . Öğrencilerden elde ettikleri sonuçlardan hareketle araştırma sorusuna cevap vermeleri beklenir ( SDB3.3 ) . Bu süreçte öğrencilerin istatistiksel araştırma sürecinin bütün bileşenlerini sistematik bir şekilde gözden geçirmeleri sağlanır ( E3.7 ) . Araştırma sorularına verilecek cevapların istatistiksel bir dil içermesi önemlidir. Elde edilen sonuçlar doğrultusunda öğrencilerin seçilen örneklem dağılımından hareketle evren dağılımı hakkında çıkarımlar yapması ve elde edilen sonuçları belirsizliği dikkate alan bir dille ifade etmesi beklenir. Araştırma tasarımının bütününe ilişkin poster, rapor, sunum veya dijital araçlar yardımıyla hazırlanan ürünler sınıf ortamında sunulur ( OB2 ) . Ayrıca öğrenciler; dijital hikâye, poster, sunum ya da bilgi görseli gibi ürünler hazırlayarak çeşitli platformlarda (EBA, kongre, bilim olimpiyatları, çalıştay gibi) istatistiksel araştırma tasarımını ve elde ettiği sonuçları paylaşır ( OB2 ) . Öğrenciler, elde ettikleri istatistiksel sonuç ve çıkarımlara dayalı olarak veri temelli argümanlar ve veriye dayalı çözüm önerileri geliştirir. İstatistiksel araştırma süreci kapsamında belirlemiş olduğu toplumsal veya bilimsel durumlarla (küresel ısınma, orman yangınları, nesli tükenmekte olan türler gibi) ilgili veri temelli argümanlar ve yeni çözüm önerileri üretir, ilgili kamu kurumları ile iletişime geçer ya da ilgili sivil toplum kuruluşlarında çözüm önerilerini eyleme dönüştürebileceği gönüllü faaliyetlere katılır ( OB6 , OB8 , D20.4 ) . Elde ettiği sonuçlardan hareketle ileride oluşabilecek durumlar için ne tür yeni araştırmalar tasarlanabileceğine ilişkin öğrencilerden öneriler sunmaları beklenir ( SDB3.1 ) . Öğrencilerin bu toplumsal ve bilimsel durumları Dünya Su Günü gibi belirli gün ve haftalarla ilişkilendirmeleri sağlanarak farkındalık oluşturmak hedeflenir. Öğrencilerden istatistiksel araştırma tasarlama, yürütme ve sonuçlarını paylaşma süreçlerinde bireysel deneyimlerini ve varsa yaşamış oldukları zorlukları günlük gibi araçlarla kayıt altına almaları istenir. Süreç boyunca kendi duygu, düşünce ve davranışlarını nasıl yönettiklerini ve bu zorluklarla nasıl başa çıktıklarını değerlendirmeleri istenir ( SDB1.2 , SDB1.3 ) . Öğrencilere hazır verilere dayalı istatistiksel araştırma tasarımı yapabilmelerine, istatistiksel araştırma sürecini yürütebilmelerine ve sonuçları paylaşabilmelerine yönelik bir performans görevi verilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D20.4",
+      "D3.4",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10",
+      "E3.7",
+      "E3.8"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB6",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/333"
+}

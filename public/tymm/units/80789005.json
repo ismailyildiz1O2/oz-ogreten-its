@@ -1,0 +1,206 @@
+{
+  "unitId": 80789005,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "İşletme Dersi",
+  "title": "5. ÜNİTE: İŞLETMELERİN FONKSİYONLARI",
+  "hours": "28",
+  "description": "Bu ünitede yönetim, finansman, pazarlama, insan kaynakları, üretim, Ahilik felsefesi, Toplam Kalite Yönetimi ve AR-GE gibi kazanımlar verilmiştir. Amaç, işletmelerin fonksiyonlarını öğrencilere kazandırmaktır. Bu üniteyi öğrencilere kavratırken sadece kuramsal bilgi değil öğrencilerin uygulamalı öğretimden de yararlanmaları amaç edinilmiştir.",
+  "outcomes": [
+    {
+      "code": "ISL.5.1",
+      "title": "Yönetim kavramını açıklar",
+      "processComponents": [
+        "1. ünitenin 5, 6 ve 7. kazanımı ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.2",
+      "title": "Yönetimin fonksiyonlarını açıklar",
+      "processComponents": [
+        "Ailesel, siyasal ve profesyonel yönetimlere değinilir.",
+        "Klasik, neo-klasik ve modern yönetim teorisine değinilir.",
+        "Yakın çevrede bulunan işletmeleri ziyaret etmeden önce hangi soruların sorulacağı listelenir.",
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.3",
+      "title": "Finansman ve finansmanla ilgili kavramları açıklar",
+      "processComponents": [
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir.",
+        "Ekonomi dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.4",
+      "title": "Finansman kaynaklarını sıralar",
+      "processComponents": [
+        "Finans, finansman, finansal yönetim, maddi varlıklar, maddi olmayan varlıklar kavramları üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ISL.5.5",
+      "title": "Finansman kaynakları arasındaki farklılıkları açıklar",
+      "processComponents": [
+        "Öz kaynaklı finansman, dış kaynaklı finansman ve oto-finansman üzerinde durulur.",
+        "Ekonomi dersinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.6",
+      "title": "Pazar ve pazarlama kavramlarını açıklar",
+      "processComponents": [
+        "Tutundurma ve kampanya kavramları üzerinde durulur. Yazılı ve görsel medya dağıtım kanallarına da değinilir.",
+        "Ekonomi ve girişimcilik dersleri ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.7",
+      "title": "Pazarlamada reklamın rolünü açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.5.8",
+      "title": "Pazarlamada satışın önemini açıklar",
+      "processComponents": [
+        "1. ünitenin 9 ve 10. kazanımıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.9",
+      "title": "Pazarlamada dağıtım kanallarını açıklar",
+      "processComponents": [
+        "Tüketici Kanunu'na değinilir.",
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.10",
+      "title": "Toptancı işletmelerin özelliklerini belirtir",
+      "processComponents": [
+        "Yakın çevrede bulunan toptancı işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.11",
+      "title": "Perakendeci işletmelerin özelliklerini belirtir",
+      "processComponents": [
+        "Yakın çevrede bulunan perakendeci işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.12",
+      "title": "Toptancı işletmelere örnek verir",
+      "processComponents": [
+        "1. ünitenin 2, 3 ve 4. kazanımlarıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.13",
+      "title": "Perakendeci işletmelere örnek verir",
+      "processComponents": [
+        "Yakın çevrede bulunan perakendeci işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.14",
+      "title": "Yerli malı tüketiminin ülke ekonomisine katkılarını açıklar",
+      "processComponents": [
+        "Yerli malı haftasında işlenebilir.",
+        "3. ünitenin 10, 11 ve 12. kazanımıyla ilişkilendirilir.",
+        "Tarih ve ekonomi derslerinin ilgili konularıyla ilişkilendirilir (Osmanlı Devleti'nin son zamanlarındaki dışa bağımlılığı üzerinde durulur)."
+      ]
+    },
+    {
+      "code": "ISL.5.15",
+      "title": "Yerli malı kullanmayı alışkanlık hâline getirir",
+      "processComponents": [
+        "Türkçe dersiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.16",
+      "title": "Üretim sisteminin ögelerini belirtir",
+      "processComponents": [
+        "1. ünitenin 14, 15 ve 16. kazanımlarıyla ilişkilendirilir.",
+        "Girdi-işlem-çıktı-geri bildirim kavramları üzerinde durulur.",
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.17",
+      "title": "Üretimde stok kontrolleri ölçütlerini sıralar",
+      "processComponents": [
+        "Ekonomi dersi ile ilişkilendirilir.",
+        "1. ünitenin 8, 9 ve 10. kazanımıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.18",
+      "title": "Üretimde gelir–gider ilişkisini örneklerle açıklar",
+      "processComponents": [
+        "Yakın çevrede bulunan işletmelere gezi düzenlenebilir."
+      ]
+    },
+    {
+      "code": "ISL.5.19",
+      "title": "Üretilen malların sevk ve idaresini açıklar",
+      "processComponents": [
+        "Depolama sistemleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ISL.5.20",
+      "title": "Ahilik Felsefesi ile Toplam Kalite Yönetimi arasındaki ilişkiyi yorumlar",
+      "processComponents": [
+        "Ahilik Felsefesi üzerinde durulur.",
+        "Kaizen Felsefesi incelenir.",
+        "Ahilik Felsefesi ile Toplam Kalite Yönetiminin temel kavramları ilişkilendirilir.",
+        "Felsefe ve sosyoloji derslerinin ilgili konularıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.21",
+      "title": "Üretimde kalitenin önemini örneklerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.5.22",
+      "title": "İşletmenin niteliğine uygun personel seçimi ölçütlerini sıralar",
+      "processComponents": [
+        "Türkiye İş Kurumunun görev ve sorumluluklarına değinilir.",
+        "İnsan kaynakları yönetiminin tarihi gelişim süreci tablo halinde verilir."
+      ]
+    },
+    {
+      "code": "ISL.5.23",
+      "title": "İnsan kaynaklarını etkili biçimde kullanmanın gereğini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "ISL.5.24",
+      "title": "işletmelerde AR-GE'nin önemini açıklar",
+      "processComponents": [
+        "Yakın çevrede bulunan işletmelerin AR-GE birimine gezi düzenlenebilir.",
+        "Teknoloji ve Tasarım dersiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.5.25",
+      "title": "Araştırma çeşitlerini sıralar",
+      "processComponents": [
+        "Temel araştırmanın bilimsel araştırma olduğu vurgulanır.",
+        "Uygulamalı araştırmanın daha çok işletmelerde kullanılan bir yöntem olduğu vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930143930838-%C4%B0%C5%9ELETME%20DERS%C4%B0%20%C3%96%C4%9ERT.%20PROGR..pdf"
+}

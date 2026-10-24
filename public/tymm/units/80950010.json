@@ -1,0 +1,58 @@
+{
+  "unitId": 80950010,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "10. ÜNİTE: 11. SINIF - AKADEMİK GELİŞİM",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.10.1",
+      "title": "Akademik konulardaki güçlü ve geliştirilmesi gereken özelliklerini fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.10.2",
+      "title": "Başarmak için çalışmanın gerekliliğine inanır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.10.3",
+      "title": "Akademik başarının önündeki engelleri fark eder",
+      "processComponents": [
+        "Başarı beklentisinin düşük olması, erteleme, ulaşılması zor hedefler koyma, mükemmeliyetçilik, kaygı, ilgi, motivasyon üzerinde durulur."
+      ]
+    },
+    {
+      "code": "REH.10.4",
+      "title": "Akademik sorumluluklarını ertelemenin sonuçlarını fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.10.5",
+      "title": "Eğitsel etkinliklerdeki başarısızlıkların öğrenme sürecinin bir parçası olduğunu kabul eder",
+      "processComponents": [
+        "Eğitsel etkinliklerde hata yapmanın/ başarısız olmanın öğrenme sürecinin parçası olduğu vurgulanır."
+      ]
+    },
+    {
+      "code": "REH.10.6",
+      "title": "Öğrenme sürecinde deneyimlediği başarısızlıkların üstesinden gelmek için farklı çözüm yolları dener",
+      "processComponents": []
+    },
+    {
+      "code": "REH.10.7",
+      "title": "Sınavlara hazırlanmayı etkileyen faktörleri açıklar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

@@ -1,0 +1,68 @@
+{
+  "unitId": 80323008,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "8. ÜNİTE: HAC VE KURBAN",
+  "hours": "16",
+  "description": "Bu ünite işlenirken ibadetlerdeki uygulamalarla ilgili konularda Şafi mezhebinin görüşlerine de yer verilecektir.",
+  "outcomes": [
+    {
+      "code": "TDB.2.4.1",
+      "title": "Kâbe ile hac arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Kazanım işlenirken Kâbe'nin tarihine ve hac ibadetinin başlamasına kısaca değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.2.4.2",
+      "title": "Haccın dindeki yerini ayet ve hadislerle açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.3",
+      "title": "Hac ile ilgili kavramları ve hükümleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.4",
+      "title": "Haccın yapılışını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.5",
+      "title": "Hac ibadetinin birey ve toplum hayatı üzerindeki etkilerini kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.6",
+      "title": "Umre ile hac arasındaki farkı ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.7",
+      "title": "Kurban ile ilgili hükümleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.8",
+      "title": "Kurban ibadetini ve yapılış amacını kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.4.9",
+      "title": "Cihat ve cihatla ilgili kavramları ayet ve hadislerle açıklar",
+      "processComponents": [
+        "Kazanım işlenirken davet, tebliğ, emr-i bi'l-maruf nehy-i ani'l-münker kavramlarına değinilecek ayrıca cihadın vatan savunmasındaki önemine vurgu yapılacaktır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

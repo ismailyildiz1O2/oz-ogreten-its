@@ -1,0 +1,75 @@
+{
+  "unitId": 81404012,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "12. ÜNİTE: BOKSTA TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "60",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.3.4.1",
+      "title": "Boksta temel duruşu açıklar",
+      "processComponents": [
+        "Gard pozisyonu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.3.4.2",
+      "title": "Boksta temel duruşu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.3.4.3",
+      "title": "Boksta vuruş tekniklerini açıklar",
+      "processComponents": [
+        "Direkt vuruş tekniği üzerinde durulur.",
+        "Aparkat vuruş tekniği üzerinde durulur.",
+        "Kroşe vuruş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.3.4.4",
+      "title": "Boksta vuruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.3.4.5",
+      "title": "Boksta savunma tekniklerini açıklar",
+      "processComponents": [
+        "Omuz savunması tekniği üzerinde durulur.",
+        "Eskiv savunması tekniği üzerinde durulur.",
+        "Blok teknikleri üzerinde durulur.",
+        "Ayak hareket teknikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.3.4.6",
+      "title": "Boksta savunma tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.3.4.7",
+      "title": "Boksta vuruş ve savunma kombinasyonlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.3.4.8",
+      "title": "Boksta vuruş ve savunma kombinasyonlarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.3.4.9",
+      "title": "İzlediği veya katıldığı boks müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

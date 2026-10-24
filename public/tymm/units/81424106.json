@@ -1,0 +1,36 @@
+{
+  "unitId": 81424106,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "106. ÜNİTE: KISA FİLM - KARİYER GELİŞTİRME VE SON DEĞERLENDİRME",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.3.4.1",
+      "title": "Kısa film endüstrisi ve kariyer fırsatlarını değerlendirir",
+      "processComponents": [
+        "Kısa film endüstrisi ve kariyer fırsatlarını araştırmaları sağlanır."
+      ]
+    },
+    {
+      "code": "GSA.3.4.2",
+      "title": "Kısa film gösterim alanlarını ve dağıtım yollarını kullanır",
+      "processComponents": []
+    },
+    {
+      "code": "GSA.3.4.3",
+      "title": "Portfolyo oluşturur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

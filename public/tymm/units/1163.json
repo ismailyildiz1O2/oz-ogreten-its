@@ -1,0 +1,57 @@
+{
+  "unitId": 1163,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "4. TEMA: GİTARDA BAŞLANGIÇ SEVİYESİ TÜRKÜLER",
+  "hours": "14",
+  "description": "Temada öğrencilerin gitarda başlangıç seviyesi türküler çalabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.5.4.1",
+      "title": ". Gitarda başlangıç seviyesinde türküler çalabilme",
+      "processComponents": [
+        "a) Başlangıç seviyesi türküleri çözümler.",
+        "b) Gitara özgü duruş ve tutuş pozisyonu alır.",
+        "c) Gitara özgü teknikleri kullanır.",
+        "ç) Türküleri müziksel bileşenlerine uygun olarak çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "gitar, seviye, türkü",
+  "support": [
+    "Öğrencilere günlük hayatta karşılaştıkları ritmik olayları gözlemleyip bu gözlemleri türkülerin ritimleriyle ilişkilendirmeleri sağlanabilir. Bireysel çalışmalar tamamlandıktan sonra öğretmen, öğrencilerin önce yavaş tempoda çalışmalarını sağlar."
+  ],
+  "enrichment": [
+    "Öğrencilere ünlü ozanların besteleri dinletilebilir. Konser videoları paylaşılıp istedikleri türküleri çalmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak Gelin Ayşe türküsünü çalma görevi verilebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.5.4.1",
+    "Öğretmen, öğrencilerin dikkatini çekmek için sınıfta sıkça duydukları, basit ve tanıdık bir türküyü gitarla çalar. Bu çalma sırasında öğrenciler, öğretmenin hangi teknikleri kullandığını tahmin etmeye çalışır ve çaldığı türküyü gözlemlerler ( KB2.2 , KB2.11 ). Öğretmen, öğrencileri rehberlik ederek çaldığı ezgiyi çözümler ve öğretmenin kullandığı sağ ve sol el tekniklerini belirler. Öğretmen, öğrencilerden çalacakları türkü hakkında bilgiler toplamalarını ister ve öğrenciler dijital ve yazılı kaynaklar üzerinden bilgilerini öğretmene sunar ( OB1 , OB2 ). Öğretmen türkünün notalarını öğrencilere dağıtır. Öğrenciler türküyü çözümler ( KB2.4 ). Öğrencilerin odaklanarak gitarlarını doğru tutuş ve duruş pozisyonuna yerleştirmeleri sağlanır ( E3.2 ) ve sol ellerinin klavye üzerindeki yerleşimi kontrol edilir. Öğrenciler, gitara özgü teknikleri kullanarak türküyü çalmaya başlar. Öğretmen, bireysel çalışmaları sırasında her öğrenciyi izler ve doğru teknikleri uygulamaları için yönlendirir. Öğrencilere sağ el tekniklerinden apoyando, tirando gibi doğru vuruş tekniklerini hatırlatır. Bu süreçte öğrenciler, ritim, melodi, tempo, dinamikler gibi müziksel bileşenleri doğru bir şekilde uygulayarak başlangıç seviyesinde türküleri çalar.",
+    "Öğretmen öğrencileri gruplara ayırarak öğrencilerin iş birliği ve dayanışma becerisi kazanmasını hedefler ( SDB2.2 , D4.1 ). Öğrenciler gruplar hâlinde çalarak birbirlerini geri bildirimde bulunur. Öğrenciler, çalıştıkları türküleri doğru bir şekilde çaldıklarında öğretmen her bir öğrencinin müzikal anlatımını gözlemler ve geri bildirimde bulunur. Öğrenciler, çaldıkları türküleri etkileşimli tahtada oluşturdukları kişisel klasörlerine kaydederler ( OB2 ). Son olarak öğrenciler kendi seçtikleri bir türküyü sınıf karşısında çalarak performanslarını sergilerler. Bu performanslar, öğretmen tarafından dereceli puanlama anahtarı veya gözlem formları ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D4.1"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.2",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1163"
+}

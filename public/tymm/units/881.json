@@ -1,0 +1,57 @@
+{
+  "unitId": 881,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Spor Okulları - Beden Eğitimi ve Sporun Temelleri Dersi",
+  "title": "2. ÜNİTE: SPOR SAKATLANMALARINDA İLK YARDIM BİLGİSİ",
+  "hours": "18",
+  "description": "Bu ünitede öğrencilerin spor sakatlıklarına ilişkin bilgilere sahip olması, spor sakatlıklarının ortaya çıkmasını önlemeye yönelik tedbirler alması, acil durumlarda doğru ve zamanında müdahalelerle sporcunun sağlığını korumaya yönelik bilgi edinmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BEST.7.2.1",
+      "title": "Spor sakatlanmalarına ilişkin bilgileri özetleyebilme",
+      "processComponents": [
+        "a) Spor sakatlanmalarının nedenleri ile ilgili çözümleme yapar.",
+        "b) Spor sakatlanmalarına ilişkin sınıflandırma yapar.",
+        "c) Sakatlanmalardan korunmanın yollarını yorumlar."
+      ]
+    }
+  ],
+  "keyConcepts": "Burkulma, ilk yardım, kanama, sakatlanma",
+  "support": [
+    "Öğretmen desteği ile öğrencilerden ilk yardım türleri ile ilgili kelime bulutu, sınıflama haritası hazırlamaları istenebilir. Spor sakatlanmalarında müdahale ve korunma yolları ile ilgili uzmandan okul ortamında bilgi alınması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere spor sakatlanmaları ve sakatlanmalarda ilk yardım ile ilgili görsellerle desteklenmiş kısa bir e-kitap veya dijital pano hazırlatılabilir. Öğrencilerden bir takım antrenörüne, doktoruna, fizyoterapistine vb. gidip müsabaka esnasında meydana gelen sakatlanma ve nedenlerine ilişkin bilgi alarak bu bilgiler çerçevesinde bir rapor hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; drama tekniği, konuşma halkası, kısa cevaplı sorular ve performans görevi teknikleri kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden ilk yardım uygulamaları ile ilgili yarım bırakılan animasyonu drama yöntemini kullanarak tamamlamaları istenebilir. Canlandırma görevi dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevi olarak öğrencilerden ilk yardım ilkelerini yansıtan bir afiş hazırlamaları istenebilir. Hazırlanan afiş kontrol listesi veya dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öğrencilerin sporcu sakatlanmaları ve sakatlanmalardan korunmanın yollarına ilişkin edindikleri bilgiler 3-2-1 çıkış kartı kullanılarak izlenebilir."
+  ],
+  "teachingApplications": [
+    "BEST.7.2.1 Öğrencilerin konu ile ilgili ön bilgi, duygu ve düşüncelerini soru cevap yöntemi ile ifade etmelerinin ardından öğrencilere spor sakatlanmalarını içeren bir animasyon izletilir ( E1.1 , OB4 ). Animasyon belli bir noktada durdurulur ve öğrencilerin konuya ilişkin dikkatini artırmak için \"Şu anda bu olay yerinde olsaydınız böyle bir durumda öncelikle ne yapardınız?\" vb. sorular sorularak öğrencilerin derse odaklanması sağlanır ( E3.2 , SDB1.2 , SDB3.3 ). Öğrencilerin cevapları dinlendikten sonra öğretmen tarafından ilk yardım, spor sakatlanmaları ve spor sakatlanmalarında ilk yardım uygulamaları hakkında örnek görsel kaynaklar aracılığı ile kısa bilgiler içeren videolar izletilir ( OB4 ). Öğrenciler, öğretmen tarafından gruplara ayrılır ve her gruptan edindikleri bilgilerden yola çıkarak dersin başında izledikleri yarım bırakılan animasyonu drama yöntemi kullanarak tamamlamaları istenebilir ( E3.3 , E2.5 ). Canlandırma yaparken yardımlaşma ve dayanışmanın önemi üzerinde durmaları beklenir ( D20.2 , SDB2.2 , SDB2.3 ). Her grubun kendi canlandırmasını sınıfa sunmalarının ardından öğrencilere \"Sizce bir spor sakatlanmasına müdahale esnasında kişi mahremiyetini korumak için nelere dikkat edilmelidir?'' ( D8.1 ), ''İlk yardım esnasında kendini nasıl hissettin?\" gibi sorular sorularak öğrencilerin sporcu sakatlanmaları üzerine düşünmeleri ve fikirlerini birbirleriyle paylaşmaları sağlanır. Öğrencilerden sakatlanma nedenleri ve sakatlanmalardan korunma yolları arasındaki ilişkiyi dijital, görsel, yazılı kaynak veya uzman görüşü alarak incelemeleri istenir ( OB1 , OB2 , OB4 ). Öğrencilerden araştırma sonucunda sakatlanma nedenleri ve sakatlıklardan korunma yolları ile ilgili çözümleme yapmaları istenir. İncelemenin ardından öğrencilerin branşlarda en çok görülen spor sakatlanmaları, vücut bölgelerine göre sakatlanma türleri vb. sınıflandırmaları istenir. Öğrencilerden spor sakatlanmaları, branşlarda en çok görülen sakatlanma nedenleri ve sakatlanmalardan korunma yollarını yorumlamaları beklenir. Öğrencilerin edindiği bilgiler 3-2-1 çıkış kartı kullanılarak izlenebilir. Performans görevi olarak öğrencilerden spor sakatlanmalarında ilk yardım konulu afiş ya da pano hazırlamaları istenebilir. Performans görevleri dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D20.2",
+      "D8.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/881"
+}

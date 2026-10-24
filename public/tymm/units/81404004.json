@@ -1,0 +1,97 @@
+{
+  "unitId": 81404004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "4. ÜNİTE: BADMİNTONDA TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.1.4.1",
+      "title": "Badmintonda temel duruş tekniklerini açıklar",
+      "processComponents": [
+        "Savunma duruşu üzerinde durulur.",
+        "Hücum duruşu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.1.4.2",
+      "title": "Badmintonda temel duruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.3",
+      "title": "Badmintonda forehand ve backhand raket tutuş tekniklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.4",
+      "title": "Badmintonda forehand ve backhand raket tutuş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.5",
+      "title": "Badmintonda tekler ve çiftler hücum ve savunma duruşlarını açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.6",
+      "title": "Badmintonda tekler ve çiftler hücum ve savunma duruşlarını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.7",
+      "title": "Badmintonda vuruş tekniklerini açıklar",
+      "processComponents": [
+        "Hücum ve savunma clear vuruşu üzerinde durulur.",
+        "Backhand ve forehand drop vuruşu üzerinde durulur.",
+        "Backhand ve forehand drive vuruşu üzerinde durulur.",
+        "Backhand ve forehand net kill vuruşu üzerinde durulur.",
+        "Backhand ve forehand net drop vuruşu üzerinde durulur.",
+        "Smaç vuruş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.1.4.8",
+      "title": "Badmintonda vuruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.9",
+      "title": "Badmintonda servis tekniklerini açıklar",
+      "processComponents": [
+        "Kısa servis tekniği üzerinde durulur.",
+        "Yüksek servis tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.1.4.10",
+      "title": "Badmintonda servis tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.11",
+      "title": "Badmintonda ayak hareketlerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.12",
+      "title": "Badmintonda ayak hareketlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.1.4.13",
+      "title": "İzlediği veya katıldığı badminton müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

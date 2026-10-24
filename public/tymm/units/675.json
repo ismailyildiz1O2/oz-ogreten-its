@@ -1,0 +1,173 @@
+{
+  "unitId": 675,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi",
+  "title": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+  "hours": "12",
+  "description": "“Dijital Ürün Tasarımı ve Geliştirme” teması kapsamında öğrencilerin görsel düzenleme programlarından yararlanabilme, belirli bir amaç doğrultusunda bir görsel için kurgu oluşturabilme, görsel oluşturabilme, kelime işlemci programlarından yararlanabilme, kelime işlemci belgesi oluşturabilme, sunum programlarından yararlanabilme, sunum dosyası oluşturabilme becerilerini geliştirmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BTY.5.2.1",
+      "title": "Görsel düzenleme programlarından yararlanabilme",
+      "processComponents": [
+        "a) Görsellerin temel özelliklerini tanır.",
+        "b) Uygun görsel düzenleme programını belirler.",
+        "c) Belirlenen görsel düzenleme programının arayüz özelliklerini kullanır.",
+        "ç) Kullanılan görsel düzenleme programını kullanım alanları/verimliliği açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.2.2",
+      "title": "Görsel için kurgu oluşturabilme",
+      "processComponents": [
+        "a) Görsel tasarlanacak gerçek hayat problemini belirler.",
+        "b) Görsel hazırlama sürecinde kullanılacak hikâye/senaryo unsurlarını belirler.",
+        "c) Belirlenen unsurları kapsayan hikâye/senaryo oluşturur.",
+        "ç) Hikâyeyi/senaryoyu bütünlük/kullanışlılık açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.2.3",
+      "title": "Görsel dosyası geliştirebilme",
+      "processComponents": [
+        "a) Tasarlanan hikâye/senaryo unsurlarına uygun bir görsel oluşturur.",
+        "b) Oluşturulan görseli belirlenen ölçütler açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.2.4",
+      "title": "Kelime işlemci programlarından yararlanabilme",
+      "processComponents": [
+        "a) Kelime işlemci programlarının temel özelliklerini tanır.",
+        "b) Uygun kelime işlemci programını belirler.",
+        "c) Belirlenen kelime işlemci programının arayüz özelliklerini kullanır.",
+        "ç) Kullanılan kelime işlemci programını kullanım alanları/verimliliği açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.2.5",
+      "title": "Kelime işlemci dosyası geliştirebilme",
+      "processComponents": [
+        "a) Kelime işlemci dosyası oluşturur.",
+        "b) Oluşturulan kelime işlemci dosyasını belirlenen ölçütler açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.2.6",
+      "title": "Sunum programlarından yararlanabilme",
+      "processComponents": [
+        "a) Sunum programlarının temel özelliklerini tanır.",
+        "b) Uygun sunum programını belirler.",
+        "c) Belirlenen sunum programının arayüz özelliklerini kullanır.",
+        "ç) Kullanılan sunum programını kullanım alanları/verimliliği açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "BTY.5.2.7",
+      "title": "Sunum dosyası geliştirebilme",
+      "processComponents": [
+        "a) Sunum dosyası oluşturur.",
+        "b) Oluşturulan sunum dosyasını belirlenen ölçütler açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "afiş, arayüz, belge, bitmap, çizim, dergi, dosya, fotoğraf, görsel, görsel tasarım, kelime işlemci, metin, piksel, resim, sunum, vektörel",
+  "support": [
+    "Öğrencilere önceden hazırlanmış bir görsel verilir, öğrencilerden sadece basit düzenleme işlemleri (kırpma, parlaklık ayarı, metin ekleme) yapmaları istenebilir.",
+    "Öğrencilere kelime işlemci programları kullanılarak hazırlanmış yarım bırakılmış bir metin verilir, eksik bölümleri tamamlamaları ve belgeyi biçimlendirip kaydetmeleri istenebilir.",
+    "Öğrencilere 2–3 slayttan oluşan bir şablon verilir, şablonu metin ve görseller ekleyerek düzenlemeleri istenebilir.",
+    "Öğrencilere hazır bir görsel (örneğin basit bir geometrik şekil, çiçek veya ev simgesi) verilir; öğrencilerden görsel üzerinde renk değiştirme, boyutlandırma, yazı ekleme gibi işlemleri yapmaları istenebilir.",
+    "Öğrencilere hazır üç boyutlu modeller (örneğin küp, küre, silindir) verilir; öğrencilerden bu modelleri renk değiştirme, döndürme, büyütme/küçültme gibi görevlerle düzenlemeleri istenebilir.",
+    "Görsel düzenleme, kelime işlemci ve sunum hazırlama programlarının arayüz özelliklerinin bulunduğu bir poster hazırlanabilir.",
+    "Sunum dosyası hazırlarken ve sunum esnasında dikkat edilmesi gereken unsurlar ile etkili bir sunumda olması gereken niteliklerin araştırılıp sunum dosyası hazırlanması istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin bireysel ya da ekip hâlinde, sosyal bir problem ya da güncel bir olay üzerine bilgilendirici dijital broşür ya da farkındalık afişleri tasarlamaları sağlanabilir.",
+    "Farklı kelime işlemci programlarını kullanım kolaylığı, erişilebilirlik ve işlevsellik yönünden karşılaştırarak değerlendirdikleri verileri tablolaştırmaları ve bu verileri görsel bir afişe dönüştürmeleri istenebilir.",
+    "Öğrencilerin dinledikleri bir podcast, izledikleri kısa film ya da okudukları bir yazıya bağlı olarak bir hikâye oluşturmaları, ardından bu hikâyeyi storyboard tekniğiyle görsellerle kurgulayarak anlatmaları istenebilir.",
+    "Öğrencilerden kendi şehirlerinden bir tarihî eseri veya anıtı, doğa dostu bir ulaşım aracını ya da kendi icat ettikleri bir uzay aracını bireysel olarak ya da grup hâlinde basit bir üç boyutlu model hâline getirmeleri istenebilir.",
+    "Öğrencilerin tasarım sürecinde seçtikleri bir nesnenin veya objenin 2 boyutlu çizimini hazırlamaları ve ardından bu çizimi 3 boyutlu bir tasarım yazılımına aktararak modellemeleri sağlanabilir. Alternatif olarak öğrencilerden belirli bir 3 boyutlu nesneyi inceleyip bunu 2 boyutlu çizimle ifade etmeleri istenebilir.",
+    "Öğrencilerden seçtikleri basit bir üç boyutlu nesneyi farklı açılardan (üstten, yandan, önden) çizmeleri istenebilir.",
+    "Bir güncel haber ya da sosyal konu üzerine, kelime işlemci programları kullanılarak dergi ya da gazete temalı dijital içerikler (kapak sayfası, haber metni, köşe yazısı, röportaj vb.) üretmeleri sağlanabilir.",
+    "Çevrim içi görsel düzenleme, kelime işlemci ve sunum programlarını araştırarak bunların eğitimdeki kullanım potansiyellerini karşılaştırdıkları ve öneriler sundukları bir interaktif sunum dosyası hazırlamaları istenebilir.",
+    "Öğrencilerden bir nesnenin üretim sürecini aşamalı olarak anlatan dijital bir görsel hazırlamaları istenebilir.",
+    "Öğrencilerden doğa, bilim veya tarih temalarına uygun dijital kartpostallar tasarlamaları istenebilir.",
+    "Öğrencilerden bilişim teknolojileriyle ilgili 10 kavramı tanım, örnek ve görsellerle açıklayarak dijital bir mini sözlük hazırlamaları istenebilir.",
+    "Öğrencilerden aynı sunum içeriğini iki farklı sunum programında hazırlamaları ve aralarındaki farkları karşılaştırmaları istenebilir.",
+    "Öğrencilerden seçtikleri bir konuyla ilgili dijital gazete ya da dergi tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; dereceli puanlama anahtarı, gözlem formu, kontrol listesi, performans görevi, öz değerlendirme ve akran değerlendirme kullanılarak değerlendirilebilir.",
+    "Dereceli puanlama anahtarı ile içerik, teknik doğruluk ve görsel uyum açısından değerlendirme yapılabilir.",
+    "Gözlem formu ile arayüz özelliklerini kullanma ve etkileşim süreçleri izlenebilir. Öğrenciler, kontrol listesi ile görevlerini tamamlama durumlarını takip edebilir, ayrıca öz değerlendirme ile kendi başarılarını puanlayabilir ve akran değerlendirme ile sınıf arkadaşlarının çalışmalarını değerlendirerek yapıcı geri bildirim sağlayabilirler."
+  ],
+  "teachingApplications": [
+    "BTY.5.2.1.",
+    "Öğrencilerin ilgi, yaş ve temel kabullerine uygun olarak önceden hazırlanmış örnek görseller (resim-çizim-fotoğraf) etkileşimli tahta kullanılarak veya projeksiyon aracılığı ile yansıtılarak gösterilir. Öğrencilerden örneklerden yola çıkarak resim, çizim ve fotoğrafların farklı kavramlar olduğuna ilişkin dönütler alınır ve öğrenciler bu kavramları anlamlarını değiştirmeyecek şekilde tanımlar ( KB2.7 ). Vektörel ve bitmap (raster) grafik türlerinin temel özellikleri açıklanır. Piksel kavramı bu bağlamda tanıtılır. Öğrencilerden, farklı görsel türleri karşılaştırarak bilgiye dayalı yorumlarını açıkça ifade etmeleri beklenir ( E3.5 ). Bu süreçte her öğrencinin olumlu iletişim sergilemesine ve fikrini beyan etmesine özen gösterilir ( SDB2.1 , E1.2 ). Çeşitli görseller kullanılarak öğrencilerin boyut ve çözünürlük kavramları arasındaki farklılıkları belirlemeleri sağlanabilir ( KB2.7 , E3.4 ).",
+    "Öğrencilere bir görsel oluştururken bilgisayardan nasıl yararlanabileceğimiz ve görsel oluşturmak için nasıl bir yol izleyebileceğimiz sorulur. Öğrencilere iki ve üç boyutlu görsel düzenleme programlarının/çevrim içi araçların/yapay zekâ destekli görsel düzenleme araçlarının ne işe yaradığı ve bu araçların ne amaçla kullanıldığı ile ilgili bilgi verilir. Öğrenci, görselin amacına ve kullanım bağlamına uygun seçim ölçütlerini belirleyerek görsel düzenleme programlarını, çevrim içi araçları veya yapay zekâ destekli uygulamaları işlevsellik, kullanım kolaylığı, güvenlik ve erişilebilirlik ölçütleri açısından karşılaştırır. Uygun programı seçer ve bu seçimi gerekçeleriyle birlikte sözlü ya da yazılı olarak ifade eder ( SDB2.1 ).",
+    "Öğretmen, tercih edilen görsel düzenleme aracının arayüzünü tanıtarak menü, araç çubuğu, katman paneli vb. bileşenlerin işlevlerini açıklar. Yapay zekâ ile görsel üretiminin mümkün olup olmadığı ve bu üretimlerin etik boyutları üzerine tartışma soruları yöneltilerek farkındalık geliştirilir. Bu bağlamda öğrencilerden, yapay zekâ destekli bir araç kullanarak belirli bir tema veya kavrama yönelik görseller üretmeleri istenir. Ürettikleri görseller üzerinde boyutlandırma, döndürme, kırpma, parlaklık, kontrast, doygunluk, şekil ekleme, renklendirme, metin ekleme, silme vb. temel düzenleme işlemlerini uygulamaları sağlanır. Ayrıca, öğrencilerin uygun gördükleri görsel düzenleme programlarını da kullanarak boyutlandırma, döndürme, kırpma, parlaklık, kontrast, doygunluk, şekil ekleme, renklendirme, metin ekleme, silme vb. işlemlerini uygulamaları sağlanır ( SDB1.2 ). Farklı görsel düzenleme araçları ile oluşturulabilecek dosya uzantıları (.jpeg, .png, .bmp vb.) tanıtılır. Öğrencilerin görsel düzenleme programlarının avantaj ve/veya dezavantajlarına ilişkin özellikleri belirlemeleri istenir ( KB2.7 , E3.1 ).",
+    "Öğrencilere etkinlik süreçlerinde özgün ve yaratıcı görsel ürün oluşturmaları konusunda rehberlik edilir ( E3.3 ). Öğrenciler tarafından kullanılan görsel düzenleme programlarının kullanım alanları ve/veya verimliliği değerlendirilir ( SDB2.3 ).",
+    "BTY.5.2.2.",
+    "Öğrenciler bireysel veya grupla çalışarak görsel tasarım yapılacak gerçek hayat problemini belirler ( SDB2.2 , E3.2 ). Problemin belirlenme aşamasında öğrencilerin sosyal farkındalık, çevre bilinci, dijital güvenlik, sağlıklı yaşam, tüketim kültürü, dijital bağımlılık ve siber zorbalıkla mücadele, kültürel miras gibi tematik başlıklar altında fikir geliştirmeleri sağlanabilir.",
+    "Öğrencilerin belirledikleri gerçek hayat problemine uygun olarak görsel hazırlama sürecinde kullanılacak hikâye/senaryo unsurlarını bağımsızlık ve yaratıcılık yeteneklerini kullanarak belirlemeleri sağlanır ( E3.3 ). Bu süreçte öğrencilere telif hakkı, izin alma ve kaynak belirtme konularında farkındalık kazandırılır.",
+    "Öğrenciler, belirledikleri hikâye/senaryo unsurlarını kullanarak özgün bir görsel anlatım kurgusu oluşturur; bu kurgu, metin, başlık, görsel ögeler ve mesaj bütünlüğü açısından yapılandırılır ( E3.3 ).",
+    "Ürün, öğretmen tarafından geliştirilen bir kontrol listesi ya da dereceli puanlama anahtarı ile bütünlük ve kullanışlılık açısından değerlendirilir ( SDB2.3 ).",
+    "BTY.5.2.3.",
+    "Öğrencilerin düzeyi ve okulun imkânları göz önünde bulundurularak tasarım sürecinde 2 boyutlu araçlarla birlikte 3 boyutlu tasarım yazılımlarının da kullanılmasına fırsat tanınabilir. Öğrencilerin uygun gördüğü görsel düzenleme programı açılır. Görsel düzenleme programının arayüz bileşenleri ve temel özellikleri hatırlatılır. Öğrencilerin programı keşfetmeleri sağlanır ( E3.2 ). Etkinlik bilişim sınıfında uygulanıyorsa öğrencilere önceden belirledikleri problemin çözümüne yönelik hazırladıkları hikâye/senaryolar (dijital/basılı) rastgele dağıtılır. Etkileşimli tahtanın kullanılacağı etkinliklerde ise hazırlanan hikâye/senaryo kurgusu, öğretmen tarafından işlem adımlarına ayrılır, her adım numaralandırılır ve öğrencilere rastgele dağıtılır. Öğrencilerin dağıtılan hikâye/senaryolara veya verilen ilgili etkinlik adımlarına uygun olarak özgün görsel hazırlamaları sağlanır ve bu süreçte öğrencilerin, tasarımlarına eklemek üzere yapay zekâ araçları kullanarak görsel ya da obje üretebilecekleri belirtilir ( E3.2 , E3.3 ). Boyutlandırma, kırpma, döndürme gibi temel düzenleme işlemleri uygulanır. Hazırlanan görsellerin, öğrencilerin oluşturdukları klasörler içinde; konuyu tanımlayıcı dosya adları verilerek (örn. öğrenci_adı_tarih_senaryo_adı. jpg) hem görselin kullanım amacına uygun dosya uzantısıyla hem de farklı dosya uzantılarıyla kaydedilmesi sağlanır. Öğrencilerle birlikte dosya uzantılarının özellikleri (kalite, şeffaflık, dosya boyutu vb.) incelenir ve öğrencilerin görselin kullanım amacına en uygun dosya biçimini seçme becerisi desteklenir. Dosyaların belirlenen klasörlerde düzenli biçimde saklanması, taşınabilir belleklerle paylaşılırken silinme/risk durumlarına karşı yedeklenmesi gibi dijital dosya yönetimi becerileri kazandırılır ( E2.1 , OB2 ). Öğrenciler, içerik oluştururken kullandıkları görsellerin telif durumlarını sorgulamaları ve kaynak gösterme alışkanlığı kazanmaları için yönlendirilir ( D6.1 ). Yapay zekâ ile üretilen görseller kullanılıyorsa bu içeriklerdeki etik riskler üzerine kısa bir farkındalık tartışması yürütülür ve öğrencilerden yapay zekâ ile ürettikleri görselleri senaryolarına nasıl eklediklerini açıklamaları istenir.",
+    "Öğrenciler hazırladıkları görselleri; kullandıkları programın arayüz bileşenlerini tanıyıp doğru kullanmaları, temel düzenleme işlemlerini (boyutlandırma, kırpma, döndürme vb.) etkili biçimde uygulamaları, uygun dosya uzantısı ve kayıt biçimini seçmeleri, içeriklerinin senaryo veya kurguya uygunluğu ve biçimsel nitelikleri açısından değerlendirir; ayrıca estetik sunum, görsel bütünlük ve mesajın etkili iletimi gibi ölçütler de dikkate alınır. Bu süreçte öğrencilerden yaratıcılık ve özgünlüklerini ortaya koymaları, görsel bütünlük ve mesajın iletimine yönelik eleştirel değerlendirme yapmaları beklenir ( KB2.13 , E3.3 ). Öğrencilerin süreç içerisinde değerlendirilmesi kontrol listesi kullanılarak sağlanabilir. Etkinlik sonunda imkânlar dâhilinde yapılan ürünlerin bazılarının çıktıları alınarak sınıf panosuna asılabilir, öğrencilerin kendi bilgisayarlarında masaüstü arka plan resmi olarak ayarlanabilir, taşınabilir belleklerine kopyalanabilir veya e-portfolyolarına yüklenebilir.",
+    "Öğrencilere kendi kişisel bilgisayarlarında benzer etkinlikleri grup çalışması yaparak hazırlayabilecekleri belirtilir. Performans görevi olarak akademik takvime göre ilgili öğrenme çıktısının uygulandığı zamana denk gelen belirli gün ve haftalar ile ilgili birer poster hazırlamaları istenebilir ( SDB2.2 ). Bu süreçte grup içerisinde öğrencilerin birbirleriyle iletişim kurarak iş birliği içerisinde eğlenerek öğrenmeleri, süreç yönetimi ve görev bilinciyle hareket etmeleri sağlanır ( SDB1.2 , E2.2 , E2.5 ). Gözlem formu ile öğretmen, öğrencilerin arayüz özelliklerini kullanabilme becerilerini ve tasarım sürecindeki etkileşimlerini izleyebilir. Öğrencilerin oluşturduğu görseller, dereceli puanlama anahtarı ile içerik, teknik doğruluk ve görsel uyum açısından değerlendirilebilir. Ayrıca öz, akran değerlendirme formları da kullanılabilir.",
+    "BTY.5.2.4",
+    "Öğrencilerin ilgi, yaş ve temel kabullerine uygun olarak farklı yöntem ve araçlarla (daktilo, kalem, kelime işlemci programı, yapay zekâ destekli yazı düzenleme aracı vb.) hazırlanmış çeşitli belge türlerinin (mektup, dilekçe, gazete, kitap, dergi vb.) basılı/dijital örnekleri incelenir. Bu belgeler üzerinden geleneksel ve dijital yazı hazırlama süreçleri analiz edilerek; yazım sürecinde emek, zaman ve kullanım kolaylığı gibi unsurlar fark ettirilir ( KB2.11 , E3.4 ). Örneğin geçmişte elle yazılan mektupların titizlik ve zaman gerektirdiğini fark eden öğrencilerin, dijital ortamda belge oluşturmanın geleneksel yöntemlerden farklı olarak nasıl bir üretim anlayışı ve çaba gerektirdiğini karşılaştırmalı olarak değerlendirmeleri sağlanır ( E3.10 ). Öğretmen, öğrencilere yapay zekâ destekli yazı yazma araçları ile ilgili çeşitli sorular yönelterek yapay zekâ araçlarının belge üretimine katkısı, olası etik riskleri ve sınırlılıklarını öğrencilerin fark etmelerini sağlar. Öğrencilerden, belirlenen bir konu hakkında önce kendi özgün metinlerini yazmaları, ardından aynı konuda yapay zekâ desteğiyle bir metin oluşturmaları istenir. Öğrenciler iki metni içerik, ifade biçimi, dil bilgisi, üslup ve özgünlük yönünden karşılaştırarak değerlendirme yaparlar ( E3.10 ).",
+    "Öğrenci, oluşturacağı metnin içeriği ve kullanım amacı doğrultusunda biçimlendirme ve düzenleme ölçütlerini belirleyerek; kelime işlemci programlarını/çevrim içi metin düzenleme araçlarını/yapay zekâ destekli yazı oluşturma uygulamalarını işlevsellik, kullanım kolaylığı, güvenlik ve erişilebilirlik ölçütleri açısından karşılaştırır. Uygun aracı seçer ve bu seçimi gerekçeleriyle birlikte sözlü ya da yazılı olarak ifade eder ( SDB2.1 ).",
+    "Öğretmen, belirlenen kelime işlemci aracının arayüzünü tanıtarak menü çubuğu, araç çubuğu, şerit, biçimlendirme paneli vb. bileşenlerin işlevlerini açıklar. Yapay zekâ ile metin üretiminin mümkün olup olmadığı ve bu üretimlerin etik boyutları üzerine tartışma soruları yöneltilerek farkındalık geliştirilir. Öğrencilerin uygun gördükleri kelime işlemci araçlarını kullanarak yazı tipi, punto, hizalama, satır aralığı, kenar boşlukları, maddeleme, tablo ekleme, sayfa numaralandırma, üstbilgi/altbilgi ekleme, resim veya şekil ekleme, metin biçimlendirme ve düzenleme gibi işlemleri uygulamaları sağlanır ( SDB1.2 ). Öğrencilerin, yapay zekâ tarafından üretilmiş metin üzerinde de aynı düzenleme işlemlerini uygulamaları sağlanır. Böylece kendi ürettikleri metin ile yapay zekâ destekli metni hem içerik hem de biçim açısından karşılaştırarak güçlü ve zayıf yönlerini tartışmaları teşvik edilir ( KB2.14 , E3.10 ). Farklı kelime işlemci programları ile oluşturulabilecek dosya uzantıları (.docx, .odt, .rtf, .pdf vb.) tanıtılır. Dosya uzantıları; içerik türüne, paylaşım amacına ve düzenleme ihtiyacına göre açıklanır ve örneklerle ilişkilendirilir. Öğrencilere dış kaynakları (görsel, alıntı vb.) belirtmeleri, açık lisanslı içerikler tercih etmeleri ve telif hakkına dikkat etmeleri gerektiği hatırlatılır. Öğrencilerin kelime işlemci programlarının avantaj ve/veya dezavantajlarına ilişkin özellikleri belirlemeleri istenir ( KB2.7 , E3.1 ).",
+    "Öğrenciler tarafından kullanılan kelime işlemci programlarının kullanım alanları ve/veya verimliliği açısından değerlendirmeleri sağlanır ( E3.10 ).",
+    "BTY.5.2.5.",
+    "Öğrencilerin tercih ettiği kelime işlemci programı açılır. Kelime işlemci programının arayüz bileşenleri ve temel özellikleri hatırlatılır. Öğrenciler, öğretmen rehberliğinde tercih ettikleri yazı düzenleme aracının temel özelliklerini keşfeder. İstiklal Marşı'nın yazılması ve biçimlendirilmesine yönelik önceden hazırlanmış etkinlik, bilişim sınıfında uygulanıyorsa dijital/ basılı biçimde öğrencilere sunulur; etkileşimli tahtada uygulanacaksa, öğretmen etkinliği her öğrencinin sürece en az bir kez aktif katılımını sağlayacak şekilde düzenleyerek dağıtır veya dijital ortamda paylaşır. Öğrencilerin Türk bayrağına ve İstiklal Marşı'na saygı göstermeleri yönünde bilinç kazanmaları desteklenir ( D19.1 , E2.2 ). Türkçeyi kurallarına uygun kullanmanın, vatanını sevmenin işini en iyi şekilde yapmak anlamına geldiği vurgulanarak öğrencilerin dilimizi koruma ve doğru kullanma bilincini geliştirmesi teşvik edilir ( D19.1 , E2.2 ). Yazı tipi, punto, renk, hizalama ve satır aralığı gibi biçimlendirme özellikleri etkin biçimde kullanılır. Öğrencilerin seçtikleri yazı düzenleme aracında yer alan arayüz bileşenlerini (yazı tipi, altbilgi veya üstbilgi, bağlantı oluşturma, resim ve çizim ekleme, paragraf ayarı, sayfa boyutu, dikey veya yatay sayfa yönlendirmesi, tablo ekleme vb.) işlevine uygun şekilde kullanmaları desteklenir. Öğrenciler, kullanılan biçimlendirme özelliklerinin belge düzenine katkısını fark etmeleri ve bu katkıyı bağlam temelli sorular aracılığıyla yorumlamaları konusunda yönlendirilir ( KB2.14 , OB1 ). Öğretmen, öğrencilerin yapay zekâ destekli içerik üretimine dair etik, özgünlük ve sorumluluk boyutlarında farkındalık geliştirmeleri için uygulamalı bir etkinlik yapar. Öğretmen etkinlik sürecinde yönlendirici sorularla öğrencilere rehberlik eder. Hazırlanan belgelerin öğrencilerin oluşturdukları klasörler içinde; konuyu tanımlayıcı dosya adları verilerek (örn. ogrenci_adi_tarih_ etkinlik_adi.docx) farklı dosya biçimlerinde (örn. .docx, .odt, .pdf, .txt) kaydedilmesi sağlanır. Öğrencilerle birlikte farklı dosya biçimlerinin (düzenlenebilirlik, dosya boyutu, uyumluluk vb.) özellikleri incelenerek, belgenin kullanım amacına en uygun dosya formatını seçme becerisi desteklenir. Dosyaların belirlenen klasörlerde düzenli biçimde saklanması, taşınabilir belleklerle paylaşılırken silinme/risk durumlarına karşı yedeklenmesi gibi dijital dosya yönetimi becerileri kazandırılır ( OB2 ). Öğrenciler, içerik oluştururken kullandıkları metin, görsel ve diğer ögelerin telif durumlarını sorgulamaları ve kaynak gösterme alışkanlığı kazanmaları için yönlendirilir ( D6.1 ).",
+    "Öğrenciler hazırladıkları belgeleri; kullandıkları programın arayüz bileşenlerini tanıyıp doğru kullanmaları, temel düzenleme ve biçimlendirme işlemlerini etkili biçimde uygulamaları, uygun dosya biçimini seçmeleri açısından değerlendirir. Ayrıca dil ve anlatım bütünlüğü, görsel düzenleme uyumu (varsa eklenen görseller) gibi ölçütler de dikkate alınır. Gözlem formu ile öğretmen, öğrencilerin arayüz özelliklerini kullanabilme becerilerini ve tasarım sürecindeki etkileşimlerini izleyebilir. Öğrencilerin oluşturduğu belgeler, dereceli puanlama anahtarı ile içerik, teknik doğruluk ve biçimsel bütünlük açısından değerlendirilebilir. Ayrıca öz, akran değerlendirme formları da kullanılabilir. Uygulamanın sonunda öğrencilere kendi kişisel bilgisayarlarında da buna benzer etkinliği bireysel veya grup çalışması yaparak hazırlayabilecekleri belirtilebilir. Performans görevi olarak, akademik takvime göre ilgili öğrenme çıktısının uygulandığı döneme denk gelen belirli gün ve haftalarla bağlantılı ya da çevre bilinci, sağlık ve toplumsal dayanışma gibi konulara uygun bir belge hazırlamaları istenebilir ( SDB2.2 ). Bu görevde öğrencilerin araç seçimi, arayüz uygunluğu, biçimlendirme bütünlüğü, dosya formatı ve telif–kaynakça doğruluğu ölçütleri değerlendirme kapsamına alınır. Bu süreçte grup içerisinde öğrencilerin birbirleriyle iletişim kurarak iş birliği içerisinde eğlenerek öğrenmeleri, süreç yönetimi ve görev bilinciyle hareket etmeleri sağlanır ( SDB1.2 , E2.2 ). Etkinlik sonunda imkânlar dâhilinde yapılan belgelerin bazıları yazıcıdan alınarak sınıf panosuna asılabilir, okul bülteni veya web sayfasında yayımlanabilir, taşınabilir belleklerine kopyalanabilir ya da e-portfolyolarına yüklenebilir.",
+    "BTY.5.2.6.",
+    "Öğrencilere, kalabalık bir gruba bir mesaj iletmek ya da bilgi aktarmak istediklerinde hangi yöntemleri kullandıkları sorulur. Öğrencilerden alınan cevaplar yorum yapılmadan tahtaya not edilir. Bu yöntemler arasından hangilerinin daha fazla kişiye hitap edebileceği, daha dikkat çekici ve akılda kalıcı olabileceği konusunda öğrencilerin görüşleri alınır. Öğretmen, sunum programlarının temel özelliklerini (slayt ekleme, metin kutusu ekleme, görsel/şekil/tablo ekleme, geçiş ve animasyonlar, tema seçme vb.) açıklar ve örnek slaytlar üzerinden gösterir. Geleneksel sunum programları ile yapay zekâ destekli sunum hazırlama araçları hakkında bilgi verilir. Öğrencilerden yapay zekâ destekli sunum araçları ile geleneksel sunum programlarını; arayüz yapısı, kişiselleştirme seçenekleri, üretkenliğe katkı ve öğrenme kolaylığı yönlerinden karşılaştırmaları istenir.",
+    "Öğrenci hedef kitle, içerik ve kullanım amacı doğrultusunda sunum hazırlamak için kullanılabilecek farklı araçları (masaüstü programlar, çevrim içi araçlar, yapay zekâ destekli uygulamalar) işlevsellik, kullanım kolaylığı, güvenlik, erişilebilirlik ölçütleri açısından karşılaştırır ve uygun sunum aracını belirleyerek seçimini gerekçeleriyle ifade eder ( KB2.7 , SDB2.1 ).",
+    "Öğretmen, tercih edilen programın arayüz özelliklerini (menü, araç çubuğu, slayt bölmesi, notlar alanı, biçimlendirme paneli) tanıtarak öğrencilerin bu ögeleri işlevine uygun şekilde kullanmalarını sağlar. Etkinlik sürecinde öğrenciler; slayt ekleme, slayt düzeni seçme, arka plan ayarlama, yazı tipi ve punto değiştirme, renk ve tema seçme, görsel/şekil/tablo ekleme, grafik ekleme, animasyon ve geçiş efektleri uygulama, ses ve video ekleme işlemlerini uygular ( SDB1.2 ). Farklı sunum programları ile oluşturulabilecek dosya uzantıları (.pptx, .odp, .pdf vb.) tanıtılır. Dosya uzantıları; sunumun içerik türüne, paylaşım amacına, düzenleme ve sunum ihtiyacına göre açıklanır ve örneklerle ilişkilendirilir. Hazırlanan örnek sunumlar üzerinden yapay zekâ destekli araçların sunduğu olanaklar (otomatik tasarım, içerik önerisi vb.), etik riskler (özgünlük, telif hakkı, doğruluk) ve sınırlılıklar tartışılır. Kullanılan her görsel, ses, video veya alıntının lisans durumu kontrol edilir; Creative Commons, kamu malı, ticari kullanım izni gibi lisans türleri tanıtılır ve kaynak göstermenin önemi vurgulanır. Öğrencilere, yapay zekâ ile ürettikleri içeriklerin (görsel, metin, ses, video vb.) de lisans durumunun mutlaka kontrol edilmesi gerektiği hatırlatılır. Bu içeriklerin, açık lisanslı veya kullanım izni olan kaynaklardan yararlanılarak oluşturulması, aksi durumda telif hakkı ihlali riskine yol açabileceği vurgulanır ( D6.1 , SDB1.2 ). Öğrencilerin dijital içeriklere eleştirel yaklaşma, etik sorumluluk geliştirme ve doğru bilgiye ulaşma becerileri desteklenir. Ayrıca yapay zekâ ile üretilen içeriklerde doğruluk ve güvenilirlik konularında farkında- lık geliştirilir; bu üretimlerin mümkün olup olmadığı ve bu üretimlerin etik boyutları üzerine tartışma soruları yöneltilerek farkındalık geliştirilir. Bu içeriklerin yalnızca doğruluk açısından değil, lisans uygunluğu açısından da kontrol edilmesi gerektiği tartışılır. Öğrencilerin sunum programlarının avantaj ve/veya dezavantajlarına ilişkin özellikleri belirlemeleri istenir ( KB2.7 , E3.1 ).",
+    "Sunum dosyalarının hazırlanmasında kullanılan programlar/araçlar, kullanım alanları ve/veya verimlilik açısından öğrenciler tarafından değerlendirilir. Bu değerlendirme süreci, kontrol listeleri ve öz/akran değerlendirme formları aracılığıyla izlenebilir. Öğrencilerin kendi oluşturdukları sunumları hazırlama sürecinde yaşadıkları zorluklar, geliştirdikleri çözüm yolları ve gelecekteki çalışmaları nasıl iyileştirebilecekleri üzerine düşünmeleri sağlanır ( SDB1.2 , E3.10 ).",
+    "BTY.5.2.7.",
+    "Öğrencilerin tercih ettiği sunum programı açılır. Sunum programının arayüz bileşenleri (slayt ekleme, şablon seçme, yazı tipi ve boyutu değiştirme, renk ve hizalama ayarları, animasyon ve geçiş ekleme vb.) ve temel özellikleri hatırlatılır. Öğrenciler, öğretmen rehberliğinde kullandıkları aracın özelliklerini keşfeder. Dijital bağımlılık, siber zorbalık, çevre bilinci, küresel ısınma, bilişim alanında çalışmalar yapan bilim insanları, teknoloji tarihi ve gelişimi, dijital güvenlik gibi konulardan biriyle ilgili etkinlik hazırlanır. Etkinlik, bilişim sınıfında uygulanıyorsa dijital/basılı biçimde öğrencilere dağıtılır, etkileşimli tahtada uygulanıyorsa her öğrencinin sürece aktif katılımını sağlayacak şekilde düzenlenerek paylaşılır. Etkinliklerin uygulanması sürecinde öğrencilerin çevrim içi kaynaklardan güvenilir bilgi araştırmaları ve uygun görsel, metin, ses veya video içerikleri seçmeleri desteklenir ( OB1 , OB2 ). İçeriklerde telif hakları gözetilir; kullanılan ögelerin lisans bilgisi (Creative Commons, kamu malı vb.) sorgulanır ve sunum sonunda kaynakça eklenmesi sağlanır ( E2.2 , OB2 ). Yapay zekâ destekli sunum araçları tanıtılır. Bu araçlardan elde edilen içerikler etik, özgünlük ve doğruluk açısından değerlendirilir. Öğrenciler, yanıltıcı görseller, deepfake veya yanlış yönlendirici metinler gibi risklerin fark edilmesi konusunda örneklerle bilgilendirilir. Bu içeriklerin izleyiciyi yanıltma, yanlış bilgi yayma veya telif hakkı ihlali gibi sonuçlar doğurabileceği tartışılır. Sonraki uygulamalarda öğrencilerin bu ölçütlere özen göstermeleri istenir. Sunum sürecinde öğrencilerin, seçtikleri programın arayüz bileşenlerini işlevlerine uygun ve etkili şekilde kullanmaları sağlanır. Slayt tasarımında kullanılan ögelerin sunumun amacına ve bütünlüğüne katkısı, bağlam temelli sorularla fark ettirilir ( KB2.14 ). Sunumda kullanılan içeriklerde başkalarına ait görüntü, ses ya da fikir varsa mutlaka ilgili kişiden izin alındığı veya bu içeriğin kullanım hakkının kontrol edildiği belirtilir. Sunum sürecinde öğrencilerin, içerik bütünlüğüne dikkat etmeleri, bilgi akışını etkili biçimde sunmaları ve tasarımlarının amaca uygunluğu konusunda öz değerlendirme yapmaları sağlanır. Hazırlanan sunum, .pptx, .pdf, .odp gibi farklı dosya biçimlerinde kaydedilir; öğrencilerin bu biçimler arasındaki biçimlendirme, dosya boyutu, animasyon desteği, sunum bütünlüğü, farklı cihaz-yazılımlarla uyumluluk ve paylaşılabilirlik farklarını uygulayarak deneyimlemeleri sağlanır. Öğrenciler, hazırladıkları sunumları hem içeriksel hem de biçimsel olarak değerlendirir; bu süreçte hangi tasarım ögelerini neden seçtiklerini, ne gibi zorluklarla karşılaştıklarını ve bu sorunlara nasıl çözüm bulduklarını yansıtmaları teşvik edilir ( SDB1.2 , E3.10 ). Öğrencilerin, konuya yönelik hazırladıkları sunumda yer alacak metinleri yazarken Türkçeyi doğru ve etkili kullanmaları için teşvik edilmeleri sağlanır ( D19.1 , E2.2 ). Dilin doğru kullanımının sunumun anlaşılırlığına katkı sağladığı özellikle vurgulanır. Öğrenciler, kullanılan sunum ögelerinin izleyici üzerindeki etkilerini fark etmeleri ve bu farkı bağlam temelli sorular aracılığıyla yorumlamaları konusunda yönlendirilir ( KB2.14 ). İmkânlar dâhilinde hazırlanan sunumlar sınıfta, okul panosunda veya dijital ortamda paylaşılabilir, taşınabilir bellek ya da e-portfolyolara eklenebilir. Etkinlik sonunda, öğrencilerin benzer çalışmaları kendi kişisel dijital cihazlarında bireysel ya da grup hâlinde tekrar edebilecekleri belirtilir ve bu yönde teşvik edici açıklamalarda bulunulur. Grup çalışmasının iş birliği, görev paylaşımı ve zaman yönetimi gibi becerilere katkı sağladığı vurgulanır ( SDB2.2 , D16.3 ).",
+    "Değerlendirme sürecinde kontrol listesi, öz değerlendirme ve akran değerlendirme formları kullanılır. Bu formlar; arayüz bileşenlerini doğru kullanma, tasarım ve içerik bütünlüğü, dosya biçimi seçimi, telif ve kaynakça doğruluğu gibi ölçütleri içerir. Öğrenciler, kendi sunumlarını öz değerlendirme formu ile incelerken arkadaşlarının sunumlarını da akran değerlendirme formu aracılığıyla değerlendirir ve yapıcı geri bildirim verir. Değerlendirme süreci hem dijital hem de dijital araç kullanılmadan yürütülebilir. Dijital ortamda, Web 2.0 aracı sunum programında belirli biçimlendirme görevlerini tamamlayan öğrenciler puan toplayarak ve dijital ölçme-değerlendirme uygulamaları üzerinden anlık geri bildirim alarak süreçlerini takip eder. Dijital araç olmadan yapılan uygulamalarda ise, öğrenciler kontrol listesi ile görevlerini tamamlar ve öğretmen her bir görev sonunda anlık geri bildirim verir. Ayrıca öğrencilere ortak kontrol listesi verilerek kendi başarılarını puanlamaları ve öz değerlendirme yapmaları sağlanır. Alternatif olarak öğrenciler, sınıfta yer değiştirerek birbirlerinin çalışmalarını kontrol listesine göre puanlayabilir ve yapıcı geri bildirim sunabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D19.1",
+      "D6.1"
+    ],
+    "egilim": [
+      "E1.2",
+      "E2.1",
+      "E2.2",
+      "E2.5",
+      "E3.1",
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.4",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.13",
+      "KB2.14",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/675"
+}

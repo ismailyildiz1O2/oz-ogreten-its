@@ -1,0 +1,89 @@
+{
+  "unitId": 855,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Spor Okulları - Oyun ve Taktiksel Farkındalık Dersi",
+  "title": "1. ÜNİTE: TAKTİKSEL SINIFLANDIRMA VE ALAN/VURUŞ OYUNLARI",
+  "hours": "34",
+  "description": "\"Taktiksel Sınıflandırma ve Alan/Vuruş Oyunları\" ünitesinde öğrencilerin oyunları taktiksel özelliklerine göre sınıflandırmaları, alan ve vuruş oyunlarına yönelik temel ve ileri düzey becerilerini geliştirmeleri, oyun içindeki stratejik ve taktiksel farkındalıklarını artırarak daha etkili bir oyun anlayışına sahip olmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "OTF.7.1.1",
+      "title": "Oyunları taktiksel özelliklerine göre sınıflandırabilme",
+      "processComponents": [
+        "a) Oyunları taktiksel özelliklerine göre sınıflandırmaya ilişkin ölçütleri belirler.",
+        "b) Oyunları taktiksel özelliklerine göre ayırır.",
+        "c) Oyunları taktiksel özelliklerine göre tasnif eder.",
+        "ç) Oyunları taktiksel sınıflandırma özelliklerine göre etiketler."
+      ]
+    },
+    {
+      "code": "OTF.7.1.2",
+      "title": "Alan ve vuruş oyunlarını çözümleyebilme",
+      "processComponents": [
+        "a) Alan ve vuruş oyunlarının bileşenlerini belirler.",
+        "b) Alan ve vuruş oyunlarının özellikleri arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "OTF.7.1.3",
+      "title": "Alan ve vuruş oyunlarında güvenli ortam oluşturabilme",
+      "processComponents": [
+        "a) Alan ve vuruş oyunlarında riskleri belirler.",
+        "b) Alan ve vuruş oyunlarında belirlediği risklere yönelik önleyici tedbirler alır."
+      ]
+    },
+    {
+      "code": "OTF.7.1.4",
+      "title": "Alan ve vuruş oyunlarında taktik ve strateji geliştirebilme",
+      "processComponents": [
+        "a) Alan ve vuruş oyunlarındaki taktiksel problemleri belirler.",
+        "b) Alan ve vuruş oyunlarında belirlenen problemlerin çözümüne ilişkin öneri sunar.",
+        "c) Alan ve vuruş oyunlarında seçilen taktiği uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "alan ve vuruş oyunu, güvenlik, oyun, performans, sınıflandırma, taktik, taktiksel oyun, tedbir",
+  "support": [
+    "Becerileri artırmak için yavaşlatılmış oyunlar oynatılabilir. Ayrıca grup veya eşli çalışmalarla destek çalışmaları uygulanabilir. Öğretmen veya akran rehberliği ile beceri gelişimi için yönlendirme yapılabilir. Düşük motivasyonlu öğrencilere küçük grup görevleri, sabit roller (gözlemci,malzeme sorumlusu) verilerek öğrencilerin sorumluluk duygusu artırılabilir."
+  ],
+  "enrichment": [
+    "Stratejiyi derinleştirmek amacıyla daha karmaşık senaryolar uygulanabilir. Yarışmalar veya beceriye bağlı etkinlikler düzenlenebilir. Tanınmış sporcuların alan ve vuruş oyunları taktiklerinin video analizleri sınıfa getirilebilir. Öğrenciler bu taktikleri taklit ederek kendi oyunlarına uygulayabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; dereceli puanlama anahtarı, kontrol listesi, öz ve akran değerlendirmenin yanı sıra gözlem formları ile değerlendirilebilir. Öğrencilerin oyunların taktiksel benzerlik ve farklılıklarını belirlemeleri için ölçütler oluşturup sınıflama yapmaları sağlanabilir. Bu amaçla tanılayıcı dallanmış ağaç yöntemi kullanılabilir. Performans görevi olarak öğrencilerden alan vuruş oyunlarına yönelik afiş hazırlamaları istenebilir. Hazırlanan afişin okul panosunda paylaşılması sağlanabilir. Verilen performans görevi dereceli puanlama anahtarı veya kontrol listesi ile değerlendirilebilir. Güvenli olan ve olmayan durumlara ilişkin risklerin belirlenmesi için kontrol listesi hazırlanır. Hazırlanmış olan kontrol listesi ile değerlendirme süreci yürütülebilir. Dijital veya sözlü yöntemlerle dönütler verilebilir."
+  ],
+  "teachingApplications": [
+    "OTF.7.1.1. Oyunlar taktiksel özelliklerine göre sınıflandırılarak sunum, anlatım ve görsel-işitsel materyallerle öğrencilere aktarılır. File veya duvar üzerinde oynanan, oyuncuların rakip sahaya hücum ettikleri, belirli hedeflerin vurulması gereken ve nesnenin belirli bir noktaya doğru vuruş yapılarak gönderildiği oyunlar öğretmen rehberliğinde belirlenir. Öğrencilerden hücum, file/raket, alan/vuruş ve hedef oyunlarını gruplara ayırmaları ve sınıflama sistemine yerleştirmeleri istenir. Öğrencilerden listeledikleri oyunları sınıflandırma ölçütlerine göredoğruluğunu incelemeleri beklenir. Kendi sınıflandırmalarını taktiksel oyun modelindeki sınıflandırma ile karşılaştırmaları ve etiketlemeleri sağlanır. Bu amaçla tanılayıcı dallanmış ağaç kullanılabilir ve öğrencilerin bu sınıflandırmayı bir puanlama anahtarı ile değerlendirmeleri sağlanabilir ( KB2.17 ).",
+    "OTF.7.1.2. Öğrencilerden alan ve vuruş oyunlarına örnekler vermeleri istenir. Öğrencilerden oynayacakları oyunun bileşenlerini (oyun kuralları, süresi, oyun alanı vb.) belirlemeleri beklenir. Verdikleri örnek oyunlardan birini planlayarak oynamaları sağlanır ( E2.5 ). Beyzbol, softbol, kriket vb. alan ve vuruş oyunları arasındaki atış, fırlatma, vurma, koşu, kendisine doğru gelen cisme vurma, belirlenen alanda koşma gibi ortak özellikler üzerinde durulur. Alan ve vuruş oyunları özellikleri arasındaki ilişkilerin soru-cevap, beyin fırtınası, grup çalışması vb. yöntemlerle belirlenmesi beklenir ( E3.4 , D14.1 , SDB2.1 ). Öğrencilerden bireysel veya gruplarla alan ve vuruş oyunlarına yönelik afiş hazırlamaları istenebilir. Hazırlanan afişin okul panosunda paylaşılması sağlanabilir ( OB4 ). Verilen performans görevi analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "OTF.7.1.3. Alan ve vuruş oyunu oynatılmadan oyunla ilgili oyun öncesi, sırası ve sonrasında oluşabilecek risklerin belirlenmesi istenir. Kullanılacak malzemelerin oyuna uygunluğunun kontrolü sağlanır ( SDB3.3 ). Oyun alanında engebe, bank, engel vb. risk faktörleri varsa bunlar belirlenir. Riskler belirlenirken kontrol listesi hazırlanır. Alanda pota veya voleybol direği gibi çarpma tehlikesi oluşturan nesneler varsa bu riskler belirlendikten sonra koruyucu malzemeler ile kaplanarak gerekli tedbirler alınır. Risk faktörleri kontrol listesi ile değerlendirilebilir ( KB2.17 ).",
+    "OTF.7.1.4. Öğrencilerin oynatılacak alan ve vuruş oyununu kavrayabilmeleri için birkaç tekrarla oynamaları sağlanır. Oyunun temel bileşenleri anlaşıldıktan sonra oyun sırasında karşılaştıkları taktiksel problemleri fark etmelerine yönelik \"Topa vurmak için nasıl hareket etmelisin?\", \"Topla buluşma noktası neresi olmalı?\", \"Hedef alanı doğru seçmek için ne yapmalısın?\" gibi sorular sorulur. Öğrencilerin oyundaki deneyim ve gözlemlerini kaydetmeleri beklenir ( OB7 ). Sonuçlar karşılaştırılarak oyundaki taktiksel problemleri açıklamaları sağlanır. Belirlenen taktiksel problemleri çözmek ve bu problemlere öneri sunmak amacıyla öğrencilerden bireysel olarak ya da eş/grupla bir araya gelmeleri beklenir ( SDB2.1 , SDB2.2 ). Topa vururken en uygun açı ve topu gönderecekleri yeri bulmaları veya savunma pozisyonunda yapmaları gerekenlerle ilgili konularda kararlar almaları sağlanır. Alan ve vuruş oyunlarında öğrencilere vuruş becerisi, koşu-hız çalışmaları, top kontrolü ve yönlendirme, denge ve kontrol, takım iş birliği gibi etkinliklerle beceri gelişimi çalışmaları yaptırılabilir ( BEOSAB1 , D12.3 , SDB2.2 ). Alan ve vuruş oyunlarında topa doğru vuruş yapabilmek için el göz koordinasyonları veya topu belirli bir mesafeye doğru fırlatmak için güç ve doğruluk becerileri geliştirilir. Geliştirdikleri beceri ve taktikleri oyun içinde uygulamaları için ilk oyun abartılarak ve modifiye edilerek tekrar oynatılır ( E2.5 , SDB3.1 ). Öğrencilerden belirledikleri topu hedef alana en verimli şekilde yönlendirme, topu yakalamak için doğru pozisyon alma gibi taktikleri ve geliştirdikleri becerileri oyun içinde aktif olarak uygulamaları beklenir. Bu uygulama sırasında öğrencilerden oyun bileşenleri ve adil oyun anlayışına uygun şekilde davranmaları beklenir ( BEOSAB8 , D1.1 ). Oyundan sonra öğrencilerin kullandıkları malzemeleri ve oyun alanını temiz bırakmaları beklenir ( D18.2 ). Oyun sonunda öğrencilerden oyun içindeki performanslarını değerlendirmeleri istenir. Gelişmesi gereken becerileri ile başarılı olan taktiklerini ifade etmeleri beklenir. Ayrıca öğrencilerden birbirlerinin oyun içindeki taktiksel kararlarının oyuna etkisini değerlendirmeleri istenir. Bu süreçte öğrencilerin tarafsız davranarak birbirlerini saygıyla dinlemeleri sağlanır ( D1.2 , SDB2.1 ). Öz ve akran değerlendirmenin yanı sıra gözlem formları ile değerlendirmeler yapılabilir. Dijital veya sözlü yöntemlerle dönütler verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.1",
+      "D1.2",
+      "D12.3",
+      "D14.1",
+      "D18.2"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.4"
+    ],
+    "kavramsal": [
+      "KB2.17"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/855"
+}

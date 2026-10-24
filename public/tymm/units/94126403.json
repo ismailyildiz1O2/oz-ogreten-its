@@ -1,0 +1,64 @@
+{
+  "unitId": 94126403,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "3. ÖĞRENME ALANI: İNSANLAR, YERLER VE ÇEVRELER",
+  "hours": "20",
+  "description": "Bu öğrenme alanı işlenirken doğal çevreye duyarlılık değeriyle mekânı algılama, harita kullanma, konum analizi, tablo, grafik, diyagram çizme ve yorumlama gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.3.1",
+      "title": "Çevresindeki herhangi bir yerin konumu ile ilgili çıkarımlarda bulunur",
+      "processComponents": [
+        "Yönler ile doğal ve beşerî unsurlara yakınlık, uzaklık açısından konum analizi yapılır. Doğal ve teknolojik yön bulma yöntemlerine ve araçlarına değinilir."
+      ]
+    },
+    {
+      "code": "SB.4.3.2",
+      "title": "Günlük yaşamında kullandığı mekânların krokisini çizer",
+      "processComponents": [
+        "Sığınak, acil toplanma yeri, acil çıkış ve diğer güvenli alanlar kroki üzerinde gösterilir."
+      ]
+    },
+    {
+      "code": "SB.4.3.3",
+      "title": "Yaşadığı çevredeki doğal ve beşerî unsurları ayırt eder",
+      "processComponents": [
+        "Öğrencilerin yakın çevrelerini tüm unsurlarıyla birlikte tanımaları sağlanır."
+      ]
+    },
+    {
+      "code": "SB.4.3.4",
+      "title": "Çevresinde meydana gelen hava olaylarını gözlemleyerek bulgularını resimli grafiklere aktarır",
+      "processComponents": [
+        "Gözlem yapma süresi, farklı hava olaylarının gözlemlenmesine imkân verecek şekilde belirlenir. Ayrıca hava olaylarını aktarırken grafik okuma ve oluşturma becerileri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "SB.4.3.5",
+      "title": "Yaşadığı yer ve çevresindeki yer şekilleri ve nüfus özellikleri hakkında çıkarımlarda bulunur",
+      "processComponents": [
+        "Türkiye’nin Siyasi ve Fiziki Haritası öğrencilerle birlikte incelenir.",
+        "Bu kazanım işlenirken şiir, hikâye, destan gibi edebi ürünlerden yararlanılır."
+      ]
+    },
+    {
+      "code": "SB.4.3.6",
+      "title": "Afet öncesi, sırası ve sonrasına yönelik gerekli hazırlıkları yapar",
+      "processComponents": [
+        "Afet ve acil durum aile planı hazırlatılır. Planda; afet öncesi, sırası ve sonrasında yapılması gerekenler listelenir. Planın aileye özgü bölümlerinin (toplanma alanının kararlaştırılması, acil durumda bilgi verilecek kişi/lerin belirlenmesi vb.) evde aile ile birlikte tamamlanması teşvik edilir.",
+        "Afet ve acil durum çantası hazırlatılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "İnsanlar, Yerler ve Çevreler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

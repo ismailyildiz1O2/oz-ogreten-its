@@ -1,0 +1,128 @@
+{
+  "unitId": 460,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "4.TEMA: GEOMETRİK NİCELİKLER",
+  "hours": "33",
+  "description": "Bu temada öğrencilerin uzunluk ve alan ölçme birimleri arasındaki ilişkilere yönelik analojik akıl yürütebilmeleri, dikdörtgenin alan bağıntısından yola çıkarak paralelkenarın ve üçgenin alan bağıntısına ulaşabilmeleri, çemberin uzunluğu ile çap uzunluğu arasında sabit bir ilişki olduğunu fark ederek pi sayısını keşfedebilmeleri, pi sayısını işe koşarak çemberin uzunluğunu hesaplayabilmeleri ve çemberde merkez açı ile gördüğü yay uzunluğu arasındaki ilişkiye dair tümevarımsal akıl yürütebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.6.4.1",
+      "title": "Uzunluk ve alan ölçme birimleri arasındaki ilişkilerle ilgili analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Uzunluk ve alan ölçme birimleri arasındaki ilişkileri gözlemler.",
+        "b) Uzunluk ve alan ölçme birimleri arasındaki ilişkiyi tespit eder.",
+        "c) Uzunluk ve alan ölçme birimleri arasında kurulan ilişkiden hareketle alan ölçme birimleri arasındaki ilişkiye dair çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MAT.6.4.2",
+      "title": "Dikdörtgenin alan bağıntısına yönelik deneyimlerini paralelkenar ve üçgenin alan bağıntılarına yansıtabilme",
+      "processComponents": [
+        "a) Dikdörtgenin alan bağıntısını gözden geçirir.",
+        "b) Dikdörtgenin alan bağıntısından yola çıkarak paralelkenar ve üçgenin alan bağıntıları hakkında çıkarım yapar.",
+        "c) Çıkarımını farklı örnekler üzerinden değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.4.3",
+      "title": "Geometrik şekillerin alanları ile modellenen gerçek yaşam durumlarına yönelik problem çözebilme",
+      "processComponents": [
+        "a) Geometrik şekillerin alanları ile modellenen gerçek yaşam probleminde ilgili matematiksel bileşenleri (alan, şekil, uzunluk, alan ölçme birimleri gibi) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlediği stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.4.4",
+      "title": "Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiye yönelik çıkarım yapabilme",
+      "processComponents": [
+        "a) Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiye yönelik varsayımlarda bulunur.",
+        "b) Çemberlerin uzunlukları ile çap uzunlukları arasındaki ilişkileri listeler.",
+        "c) Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiyi varsayımlarıyla karşılaştırır.",
+        "ç) Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiye yönelik önermeler sunar.",
+        "d) Elde ettiği ilişkiye yönelik değerlendirmeler yapar."
+      ]
+    },
+    {
+      "code": "MAT.6.4.5",
+      "title": "Çap veya yarıçap uzunluğu verilen bir çemberin uzunluğu ile ilgili problemleri çözebilme",
+      "processComponents": [
+        "a) Çap veya yarıçap uzunluğu verilen bir çemberin uzunluğu ile ilgili problemlerde ilgili matematiksel bileşenleri (çap, yarıçap, çevre uzunluğu gibi) belirler.",
+        "b) Matematiksel bileşenler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemlerin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlediği stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "g) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.6.4.6",
+      "title": "Çemberde merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki ilişkiye dair tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Çemberde farklı ölçülere sahip merkez açıların gördüğü yayların uzunluklarına ilişkin gözlem yapar.",
+        "b) Merkez açıların ölçüleri ile gördükleri yayların uzunlukları arasındaki ilişkiye dair örüntü bulur.",
+        "c) Merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki ilişkiye dair genelleme yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Alan ölçme birimlerinin dönüşümünde 100 kata dayalı ilişki vardır. • Paralelkenarın alanı, bir kenarının uzunluğu ile o kenara ait yüksekliğin çarpımıdır. • Üçgenin alanı, bir kenarının uzunluğu ve o kenara ait yüksekliğin çarpımının yarısıdır. • Çemberin uzunluğunun çapın uzunluğuna bölümü sabit bir sayıdır. • Çemberde merkez açı ve tam açı arasındaki kat ilişkisi ile merkez açının gördüğü yay uzunluğu ve çemberin uzunluğu arasındaki kat ilişkisi aynıdır., Anahtar Kavramlar dekametrekare, desimetrekare, hektometrekare, kilometrekare, merkez açı, metrekare, milimetrekare, paralelkenarın alanı, pi sayısı, santimetrekare, üçgenin alanı, yay, yükseklik, Sembol ve Gösterimler km², hm², dam², m², dm², cm², mm², A(ABC), m(AOB), π, AB, h",
+  "support": [
+    "Alan ölçme birimleri ve dönüşümlerine ilişkin sanal manipülatifleri ya da çevrim içi oyunları içeren çalışmalar yapılabilir. Paralelkenar, üçgen ve dikdörtgenin temel elemanlarını belirlemeye ve alanları arasında ilişki kurmaya yönelik origami çalışmaları yapılabilir. Pergelle çember çizme çalışmaları yapılabilir. Çemberin temel elemanları belirlenebilir. Çevrim içi uygulamalardan yararlanarak pi sayısının ondalık basamaklarında doğum tarihini bulma gibi ilgi çekici çalışmalar yapılabilir. Geometrik şekillerin alanları, çember ve yay uzunluğu bağlamı içeren kolaydan zora, basitten karmaşığa ilerleyen günlük hayat problemleri verilebilir. Bu problemlerin çözüm sürecinde öğrencilere bireysel ya da iş birlikli öğrenme ortamları oluşturularak destek verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin alan ölçme birimlerinin kullanıldığı ve birbirine dönüştürüldüğü gerçek yaşam problemlerini çözmeleri istenebilir. Paralelkenarda bir köşegen üzerinde rastgele seçilen bir noktadan kenarlara paralel olacak biçimde çizilen doğruların meydana getirdiği dörtgenlerin alanlarını karşılaştırmaları (matematik yazılımındaki sürükleme özelliğinden yararlanma) istenebilir. Noktalı ya da kareli kâğıt üzerinde noktalar birleştirilerek oluşturulmuş -çeşitli üçgenlere, dikdörtgenlere ve paralelkenarlara parçalanabilen- kapalı şekillerin alanlarını farklı stratejiler ile hesaplamaları istenebilir.",
+    "Tarihte farklı medeniyetlerin pi sayısına yönelik kullandıkları yaklaşık değerlere ve pi sayısının ondalık açılımına yönelik dijital kaynaklardan edindikleri bilgiler üzerinde sorgulama ve akıl yürütme becerilerini işe koşmaları ve araştırma sonuçlarını raporlaştırarak sınıfa sunmaları beklenebilir. Öğrencilere gerçekçi yaşam durumları (dönme dolap kabinlerinin arasındaki merkez açı, farklı büyüklüklerde kavanoz veya şişe kapakları, bisiklet tekerleri, bilezik modelleri, saat modelinde farklı saat dilimlerinde akrep ile yelkovan arasındaki merkez açı, çap uzunlukları ya da çevreleri bilinen topların basketbol potasından geçişi, hulahop gibi) içeren görseller verilerek çemberin merkez açısı, yay uzunluğu ve çemberin uzunluğuna yönelik problem kurmaları ve kurdukları problemi farklı stratejiler kullanarak problem çözme adımlarına göre çözmeleri istenebilir. Öğrencilerin paralelkenar ve üçgenin alanına, çember ve yay uzunluğuna yönelik olimpiyat sorularını çözmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; izleme testleri, zihin haritası, performans görevi, çalışma kâğıdı ile değerlendirilebilir. Üçgen, dörtgen ve paralelkenardan oluşan estetik tasarım çalışmalarına (logo, kitap kapağı, halı veya kilim deseni tasarımı gibi) yönelik performans görevi verilebilir.",
+    "Bu tasarımlar okulda sergilenebilir veya EBA platformunda paylaşılabilir. Performans görevinin değerlendirilmesinde içerik, tasarım ve teknoloji kullanımı gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı kullanılabilir. Öğrencilere pi sayısını ilginç kılan özelliklerin matematik tarihindeki yeri ve öneminin araştırılmasına yönelik performans görevi verilebilir. Grup çalışması ile öğrencilerin çeşitli kaynaklardan araştırdıkları bilgileri, görsel becerilerini kullanarak hazırlayacakları poster ya da sunum araçları yardımıyla sunmaları istenebilir. Performans görevinin değerlendirilmesinde bilgi toplama, bilgiyi analiz ederek raporlaştırma kriterlerini barındıran bütüncül veya analitik dereceli puanlama anahtarı kullanılabilir. Bu süreçte öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin kendilerini ve arkadaşlarını değerlendirmeleri sağlanır. Tema boyunca işlenen öğrenme çıktıları/süreç bileşenleri hakkında öğrencilerin eksik öğrenmelerini belirlemek ve gidermek amacıyla izleme testi uygulanabilir. Performans ürünü, izleme testleri ve çalışma kâğıdı sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.6.4.1 Öğrencilerin uzunluk ve alan hesabı içeren durumları gözlemlemelerine dayalı çalışmalar yapılır. Bu süreçte öğrencilerin uzunluk ölçme birimleri arasındaki ilişkileri açıklamaları istenir. Ardından öğrencilerin merak duyguları uyarılarak alan ölçme birimlerindeki değişimin nasıl olabileceğine dair sorular sorulur ( E1.1 ) . Öğrencilerin kenar uzunluğu 1 metre olan kare biçiminde materyal üretmeleri sağlanarak alanını metrekare türünden ifade etmelerine fırsat verilir. 1 metrekarelik alanın kenar uzunluğu 1 desimetre olan kareler ile kaplanması sağlanır. 1 metrenin kaç desimetreye eşit olduğu bilgisinden hareketle öğrencilerden uzunluk ve alan ölçme birimlerinin birbirine dönüşümündeki farklılıkları ve benzerlikleri tespit etmeleri beklenir. Öğrencilerden verilen alanı desimetrekarelere ayırmaları istenir ve metrekare ile desimetrekare arasındaki ilişkiyi ifade etmeleri sağlanır. Diğer alan ölçme birimlerine geçişte benzer çalışma yapılarak öğrencilerden birimlerin birbirine dönüşümlerindeki 100 kata dayalı hiyerarşik ilişkilere yönelik çıkarım yapmaları beklenir. Standart alan ölçme birimleri arasındaki dönüşümler metrekare-kilometrekare, metrekare-desimetrekare-santimetrekare-milimetrekare ile sınırlandırılır. Alan ölçme birimleri arasındaki dönüşümlere yönelik çalışma kağıdı hazırlanabilir. Çalışma kâğıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir.",
+    "MAT.6.4.2 Öğrencilerin alan korunumu, dikdörtgenin kenar ve açı özellikleri ve dikdörtgenin alan bağıntısına yönelik deneyimlerini gözden geçirmeleri sağlanır. Bu süreçte öğrencilerin dikdörtgenin alan bağıntısına ilişkin bilgilerinden hareketle paralelkenarın ve üçgenin alanının nasıl hesaplanabileceğini tartışmaları sağlanır. Dikdörtgen ve paralelkenara ilişkin şekil parçalama ve parçaları yeniden birleştirme çalışmalarını yürütmeleri için uygun öğrenme ortamı oluşturulur. Bu çalışmalarda dikdörtgen ve paralelkenarda karşılıklı kenar çifti arasında oluşturulan dikme o kenarlara ait yükseklik olarak tanıtılır ve öğrencilerin dikdörtgenin alan bağıntısını yükseklik kavramına dayalı olarak yeniden ifade etmelerine (bir kenarının uzunluğu ile o kenara ait yüksekliğin çarpımı) fırsat verilir. Dikdörtgen ve paralelkenarın yüksekliği ile ilişkili olarak şekil parçalama çalışmalarında oluşan üçgenlerin yükseklikleri de açıklanır. Öğrencilerin şekil parçalama ve parçaları yeniden birleştirme çalışmalarında dikdörtgen, paralelkenar ve üçgenin elemanlarını karşılaştırarak paralelkenarın ve üçgenin alan bağıntıları hakkında çıkarım yapmaları beklenir. Öğrencilerin üçgenin alan bağıntısına, dikdörtgenin alan bağıntısından geçiş yapmaya ek olarak, paralelkenarın alan bağıntısından da geçiş yapabilmelerine olanak sağlanır. Ayrıca öğrencilerin -görselde görüldüğü gibi- iki paralel doğru arasında çizilen dikmeyi aynı paralel doğrular arasındaki dörtgenlerin ve üçgenlerin yüksekliği olarak yorumlamalarına fırsat verilir. Buradan hareketle öğrencilerin aynı paralel doğrular arasında yer alan dörtgenlerin ve üçgenlerin yüksekliklerinin eşit olduğunu fark etmeleri beklenir. Bu süreçte çeşitli dörtgen ve üçgenlerin yüksekliklerini belirlemeye yönelik çalışmalara yer verilir. Sürecin desteklenmesinde öğrencilerin gönye kullanması sağlanır. Ayrıca matematik yazılımındaki dik doğru aracından ve dikmeyi sürükleme işleminden yararlanılabilir ( MAB5 ) . Böylece dijital araç ile içerik oluşturma becerilerinin gelişimi desteklenebilir ( OB2 ) .",
+    "Alan bağıntılarına ilişkin inceleme süreçlerinde öğrencilerin fikirlerini açıkça ifade etmelerine ve birbirlerini saygı çerçevesinde dinlemelerine fırsat verilir ( D14.1 ) . Öğrencilerin paralelkenar ve üçgenin alan bağıntısına yönelik yaptıkları çıkarımları, farklı paralelkenar ve üçgen örnekleri üzerinde değerlendirmeleri sağlanır ( OB4 ) . Öğrencilerin kareli düzlemde iki köşe noktası ve alanın ölçüsü verilen bir üçgenin veya paralelkenarın diğer köşe noktasının ya da noktalarının konumlarını incelemeleri istenir. Noktaların konumlarının incelenmesinde matematik yazılımından da yararlanılabilir ( MAB5 , OB2 ) . Gönye ve cetvel yardımıyla kareli düzlemde verilen bir doğru parçasını yükseklik kabul eden ve verilen alana sahip paralelkenarları veya üçgenleri çizmeleri istenir. Üçgene yönelik çizimlerde kenarlarına ve açılarına göre farklı üçgenlerin ele alınması sağlanır. Kareli düzlemde bir paralelkenar ile aynı alana sahip üçgenler çizmeleri istenir. Çizimlerde açılarına göre farklı üçgenlerin ele alınmasına fırsat verilir. Dikdörtgen, paralelkenar ve üçgenin alanları arasındaki ilişkiyi içeren çalışma kağıdı hazırlanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir. Görsel sanatlar dersi ile ilişkilendirilerek estetik değerini destekleyen bakış açısıyla üçgen, dörtgen ve paralelkenarı içeren özgün tasarım çalışmaları (logo, kitap kapağı, halı veya kilim deseni tasarımı gibi) ortaya koymaya yönelik performans görevi verilebilir. Bu tasarımlar okulda sergilenebilir veya EBA platformunda paylaşılabilir ( D7.1 , OB2 ) . Performans görevinin değerlendirilmesinde içerik, tasarım ve teknoloji kullanımı gibi kriterlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı kullanılabilir.",
+    "MAT.6.4.3 Geometrik şekillerin (dikdörtgen, üçgen, paralelkenar) alanlarıyla ilgili gerçek yaşam problemlerinin çözümünde öğrencilerin problemle ilgili matematiksel bileşenleri (alan, şekil, uzunluk, alan ölçme birimleri gibi) belirlemeleri istenir. Ardından öğrencilerden problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürmeleri beklenir ( MAB3 ) . Bu temsiller üzerinden öğrencilerin problemi kendi ifadeleri ile açıklamalarına fırsat verilir. Problemlere yönelik matematiksel çözümler geliştirilirken öğrencilerden sonuca ilişkin tahminde bulunmaları ve geometrik şekillerin alanını bulmak için stratejiler geliştirmeleri beklenir. Öğrenciler stratejileri geliştirirken farklı temsillerden (tablo, somut ve sanal manipülatifler gibi) yararlanmaları için teşvik edilir ( MAB3 ) . Strateji geliştirme ve uygulama süreçlerinde grup çalışmaları yapılır ( SDB2.2 ) . Grup çalışmalarında öğrencilerin birbirlerini dinlemelerine, soru sormalarına ve kendi düşüncelerini ifade etmelerine fırsat verilebilir. Böylece öğrencilerin sosyal ve iletișim becerilerinin gelişimi desteklenerek grup içerisinde uyumlu davranış göstermeleri ve mütevazılık değerinin kazanılması sağlanmış olur ( D10.3 ) . Ardından belirlenen stratejileri kullanarak problemleri çözmeleri istenir. Problem çözümlerinden sonra öğrencilerin çözüm yollarını kontrol etmeleri ve çözüme ulaştırmayan stratejileri değiştirmeleri sağlanır. Öğrencilerin stratejilerini ve buldukları yolları gözden geçirmeleri, kısa yollara ilişkin çıkarım ve değerlendirmeler yapmaları sağlanır. Öğrencilerden çözüm sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları ve bu genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Ayrıca öğrencilerin bu süreçte bağlama yönelik problemler kurmaları ve çözmeleri istenir. Geometrik şekillerin alanları ile modellenen gerçek yaşam durumlarına dair problemler içeren izleme testi kullanılabilir.",
+    "MAT.6.4.4 Öğrencilerin günlük hayattan çember biçimindeki nesnelerin çevre ve çap uzunluklarına ilişkin incelemeler yapmaları istenir. Bu incelemeler doğrultusunda öğrencilerin çemberin ve çapın uzunlukları arasındaki ilişkiye yönelik varsayımlarda bulunmaları beklenir. Öğrencilerin farklı çemberlerin uzunlukları ile çap uzunlukları arasındaki ilişkilere yönelik değerleri tablo temsili kullanarak listelemeleri sağlanır ( MAB3 ) . Ardından farklı çemberlerin uzunlukları ile çap uzunlukları arasındaki ilişkilerin öğrenciler arasında karşılaştırılması beklenir. Çemberlerde uzunluğun çap uzunluğuna bölümü ile sabit bir değere ulaşıldığına ilişkin önermeler (\"Çemberin uzunluğunun çap uzunluğuna bölümü sabittir.\" gibi) sunmalarına fırsat verilir ve sabit değer pi sayısı olarak ifade edilir. Öğrencilerin çemberde çap uzunluğu ile pi sayısının çarpımının çemberin uzunluğuna eşit olduğu sonucu üzerinde değerlendirme yapmaları ve Ç=π.R ya da Ç=2.π.r gibi bağıntılara ulaşmaları sağlanır. Öğrencilere pi sayısını ilginç kılan özelliklerin matematik tarihindeki yeri ve öneminin araştırılmasına yönelik performans görevi verilebilir. Grup çalışması ile öğrencilerin çeşitli kaynaklardan araştırdıkları bilgilerin doğruluklarını kontrol ederek, çalışmalarını görsel becerilerini kullanarak hazırlayacakları poster ya da sunum araçları yardımıyla sunmaları ve sınıf ortamında tartışmaları istenebilir ( SDB2.1 , E3.4 ) . Araştırmanın dijital ortamda yapılması hâlinde güvenilir genel ağ adreslerinden (org, edu, gov gibi) bilgi toplamaları beklenir ( OB2 ) . Performans görevinin değerlendirilmesinde bilgi toplama, bilgiyi analiz ederek raporlaştırma kriterlerini barındıran bütüncül veya analitik dereceli puanlama anahtarı kullanılabilir. Bu süreçte öğrencilerin kendi çalışmaları hakkında yargıda bulunabilecekleri ( SDB1.3 ) öz değerlendirme formu ve arkadaşlarının çalışmaları hakkında görüşlerini belirtebilecekleri ( SDB2.2 ) akran değerlendirme formu kullanılarak öğrencilerin kendilerini ve arkadaşlarını değerlendirmeleri sağlanabilir.",
+    "MAT.6.4.5 Öğrencilerin çap veya yarıçap uzunluğu verilen bir çemberin uzunluğuyla ilgili problemlerde ilgili matematiksel bileşenleri (çap ve yarıçap uzunluğu, çemberin uzunluğu gibi) belirlemeleri istenir. Ardından matematiksel bileşenler arasındaki ilişkileri belirlemelerine, problem bağlamındaki temsilleri farklı temsillere dönüştürmelerine ( MAB3 ) ve problemi kendi ifadeleri ile açıklamalarına fırsat verilir. Öğrencilerden problemin sonucuna ilişkin çember ve çap uzunluğu arasındaki ilişkiye dayalı tahminde bulunmaları ve çözüm için stratejiler geliştirmeleri beklenir. Bu süreçte öğrencilerin esnek düşünmelerini desteklemek için problemin çözümüne yönelik kullanılabilecek farklı stratejiler üzerine tartışmaları istenir ( SDB3.1 ) . Tartışma sürecinin sonunda öğrencilerden seçtikleri stratejileri kullanarak problemi çözmeleri beklenir. Öğrenciler çözüme ulaşamadıkları durumlarda farklı stratejiler kullanmaya teşvik edilir. Problem çözümlerinden sonra öğrencilerin çözüm yollarını kontrol etmeleri sağlanır. Bu süreçte öğrencilerin çözüm için kullandıkları veya geliştirdikleri stratejileri gözden geçirmeleri ve alternatif çözüm yollarını değerlendirmeleri istenir ( SDB3.3 ) . Öğrencilerin çözüme ulaştıran stratejilerin hangi problemlere uyarlanabileceğini genellemeleri ve genellemenin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Süreçte problem çözme sürecinin adımlarına yönelik; sonuçta ise öğrenme çıktısının değerlendirilmesine dönük açık uçlu sorulardan oluşan izleme testi kullanılabilir.",
+    "MAT. 6.4.6 Çemberde merkez açı ve yay tanıtılarak öğrencilerin farklı ölçülere sahip merkez açıların (180˚, 90˚, 45˚ gibi) gördükleri yay uzunluklarını gözlemlemeleri sağlanır. Bu süreçte çembersel kâğıt, geometri tahtası, saat modeli gibi araçlardan ve matematik yazılımındaki çember, açı, açı ölçme ve uzunluk ölçme araçlarından yararlanılabilir ( MAB5 ) . Öğrencilerin, gözlemleri sonucu merkez açıların ölçüleri ile gördükleri yayların uzunlukları arasındaki ilişkiye dair oluşan örüntüyü açıklamaları sağlanır. Oluşan örüntüyü farklı çember örnekleri üzerinde kontrol ederek merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki ilişkiye (\"Ölçüsü 90˚ olan merkez açının gördüğü yayın uzunluğu çember uzunluğunun dörtte biridir.\" gibi) dair genelleme yapmaları beklenir. Çemberde merkez açının ölçüsü ile açının gördüğü yayın uzunluğu arasındaki ilişkiye yönelik çalışma kâğıdı uygulanabilir. Çalışma kağıdında farklı soru türleri (açık uçlu, kısa cevaplı sorular, doğru yanlış, eşleştirme soruları) kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D14.1",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.4"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/460"
+}

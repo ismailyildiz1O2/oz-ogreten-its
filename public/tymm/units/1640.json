@@ -1,0 +1,89 @@
+{
+  "unitId": 1640,
+  "grade": 0,
+  "gradeName": "Ortaöğretim Seçmeli",
+  "subject": "Mantık Dersi",
+  "title": "3. Ünite: Sembolik Mantık",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MAN.3.1",
+      "title": "Aristotelesçi mantık ile sembolik mantığı temel özellikleri açısından karşılaştırabilme",
+      "processComponents": [
+        "a) Aristotelesçi mantık ile sembolik mantığa ilişkin temel özellikleri belirler.",
+        "b) Aristotelesçi mantık ile sembolik mantığın benzer özelliklerini listeler.",
+        "c) Aristotelesçi mantık ile sembolik mantığın farklı özelliklerini listeler."
+      ]
+    },
+    {
+      "code": "MAN.3.2",
+      "title": "Doğruluk değeri tablosunu çözümleyebilme",
+      "processComponents": [
+        "a) Doğruluk değerleri tablosunun temel unsurlarını belirler.",
+        "b) Önermelerin doğruluk değerlerini doğruluk değeri tablosuyla belirler."
+      ]
+    },
+    {
+      "code": "MAN.3.3",
+      "title": "Önermelerin tutarlılığını, geçerliliğini ve eşdeğerliğini doğruluk değeri tablosu ile denetleyebilme",
+      "processComponents": [
+        "a) Önermeleri doğruluk değeri tablosuna dönüştürür.",
+        "b) Tutarlılık, geçerlilik ve eşdeğerlik kurallarını uygular.",
+        "c) Önermelerin tutarlılığı, geçerliliği ve eşdeğerliği hakkında yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAN.3.4",
+      "title": "Çıkarımların geçerliliğini doğruluk değeri tablosu ile denetleyebilme",
+      "processComponents": [
+        "a) Çıkarımları doğruluk değeri tablosuna dönüştürür.",
+        "b) Çıkarım kurallarını uygular.",
+        "c) Çıkarımların geçerliliği hakkında yargıda bulunur."
+      ]
+    },
+    {
+      "code": "MAN.3.5",
+      "title": "Niceleme mantığını yorumlayabilme",
+      "processComponents": [
+        "a) Niceleme mantığının sembolik ögelerini inceler.",
+        "b) Günlük dil ifadesini niceleme mantığının formel diline dönüştürür.",
+        "c) Niceleme mantığının formel dilinde verilen ifadeleri günlük dilde anlamlı bir biçimde yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "denetleme, eşdeğerlik, geçerlilik, tutarlılık",
+  "support": [
+    "Sembolik mantığın özelliklerini maddeleştirmeleri sağlanabilir.",
+    "Bilgi görseli aracılığı ile sembolleştirme kurallarını fark etmeleri sağlanabilir.",
+    "Önerme eklemlerinin işlevleri ve doğruluk değeri tablosunun özelliklerinin kodlanması sağlanabilir.",
+    "Sembolik mantıkta önermelerin ve çıkarımların tutarlılığını, geçerliliğini ve eşdeğerliğininin denetlenmesi basit önermeler üzerinden örneklendirilebilir.",
+    "Niceleme mantığının formel diline dönüştürülmesinde basit örnekle vermeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "*Sembolik mantığa ihtiyaç duyulma nedeni hakkında bir metin yazdırılabilir.",
+    "*Boole (Bul) cebirinin temel ifadelerinin araştırılması sağlanabilir.",
+    "Sembolik mantıkta önermelerin ve çıkarımların tutarlılığını, geçerliliğini ve eşdeğerliğininin denetlenmesinde çözümleyici çizelge kurallarını araştırılması ve örnekler üzerinden uygulanması sağlanabilir.",
+    "Niceleme mantığında önermelerin ve çıkarımların tutarlılığını, geçerliliğini ve eşdeğerliğininin denetlenmesinde çözümleyici çizelge kurallarını araştırılması ve örnekler üzerinden uygulama yapmaları sağlanabilir.",
+    "Modern mantık açısından ahlaki çıkarımların imkânının araştırılması sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarında büyük grup tartışması, soru-cevap, eğitsel oyun, T tablosu, grup değerlendirme formu, eşleştirme maddeleri, alıştırma, drama, rol oynama, akran değerlendirme formu, çalışma kâğıdı, öz değerlendirme formu, beyin fırtınası ve performans görevi kullanılabilir. Performans Görevi: Öğrenciler gazete, haber metni, kitap, dergi vb. kaynaklardan önermeler mantığına ve niceleme mantığına ilişkin önerme ve çıkarım örneklerini bulur; bu örnekleri mantık diline (standart biçim) çevirir, önermeler mantığı ile ilgili olanların geçerlilik, tutarlılık ve eşdeğerlik denetlemelerini yapar; çalışmasını dijital sunum olarak hazırlar ve sınıfta sunar. Performans görevi doğru örneklerin bulunması, örneklerin standart biçime doğru çevrilmesi, ilgili denetlemelerin kurallara uygun yapılması ve dijital sunumun niteliği gibi kriterler açısından dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilir."
+  ],
+  "teachingApplications": [
+    "MAN.3.1",
+    "Günlük dilde çok anlamlılığa ve belirsizliklere ilişkin örnek cümleler üzerinden öğrencilerden bu çok anlamlılık ve belirsizlikleri ortadan kaldırmak için neler yapılabileceğine yönelik fikir üretmeleri ve kendi örneklerini vermeleri istenir ( E1.1 ). Süreçte öğrenciler birbirlerini etkin bir şekilde dinler ve çalışmalarda aktif rol alır ( SDB2.1 , D3.3 ). Öğrencilere Aristotelesçi mantığın temel özelliklerinin neler olduğu sorulur. Aristoteles mantığının temel özellikleri ve işlevselliği üzerine bilgi notu verilir. Öğrencilerin Aristotelesçi mantığın işlevselliğine ilişkin tartışma yapmaları sağlanır ( KB2.18 ).Tartışmada Aristotelesçi mantığın eksik kaldığı hususlar üzerinden sembolik mantığa neden ihtiyaç duyulduğuna dikkat çekilir. Öz eleştiri yaparak davranışlarını düzenler ( D9.1 ). Süreçte büyük grup tartışma ve soru-cevap öğretim teknikleri kullanılabilir. Sembolleştirilmeyi içeren yazılı veya görsel materyaller (şifreleme, işaret dili, kodlama, rakam, formül, duygu ifadesi görseli, trafik levhası, Braille alfabesi vb.) üzerinden öğrencilerin bu sembollerin hayattaki önemi hakkında çıkarımda bulunmaları sağlanır ( E1.1 , OB4 ). Basit bir matematik problemi verilerek öğrencilerden bu problemi rakam ve matematiksel işlem sembollerini kullanmadan çözmeleri, çözüm aşamasında yaşadıkları zorlukları ifade etmeleri ve sembolleştirmeye neden ihtiyaç duyulduğu hakkındaki düşüncelerini örneklerle paylaşmaları istenir ( SDB1.3 ). Sembolik mantığın ortaya çıkışını hazırlayan koşullara ve temel özelliklerine ilişkin bilgi notu verilerek öğrencilerin ifade edilen koşullar ile sembolik mantığın temel unsurları (sembolik dili kullanma, günlük hayata uygulanma ve medeniyet kurucu özelliği) arasında bağ kurmaları sağlanır. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Öğrencilerin Aristotelesçi mantık ile sembolik mantığın temel özelliklerindeki benzerlikleri ve farklılıkları iş birlikli olarak belirlemeleri sağlanır. Bu aşamada eğitsel oyun veya T tablosu öğretim tekniği kullanılabilir. Öğrenciler gruplara ayrılarak yeteneklerine uygun biçimde görev paylaşımı yapar ( D1.3 ). Grup çalışmasında uyumlu olur ( D10.3 ). Süreçte grup değerlendirme formu uygulanabilir.",
+    "MAN.3.2",
+    "Öğrencilerden Türkçe dersinde öğrendikleri bağlaçları örnekleyerek listelemeleri istenir. Soru-cevap yöntemi kullanarak bağlaçların işlevlerine (beraberlik, seçim, karşılaştırma, şart vb.) göre sınıflamaları sağlanır. Öğrencilerin bu bağlaçları günlük hayatla örneklendirmeleri ve cümleye kattığı anlamları açıklamaları sağlanır ( OB1 ). Kavram yanılgıları ve öğrenme eksikleri hakkında dönüt verilir. Önerme eklemleri ve işlevleri hakkında bilgi notu verilerek öğrencilerden bu eklemlerin bağlaçlarla olan ilişkilerini değerlendirmeleri ve önermelere kazandırdığı işlevleri açıklamaları istenir ( KB2.10 ). Öğrencilere mantık eklemlerinin günlük dilde eş anlamlı kullanımlarına örnekler verilir. Bunlardan hareketle öğrenciler kendi örneklerini oluşturarak sınıf ortamında paylaşır. Süreçte alıştırma etkinliği yaptırılır ( SDB1.2 ). Öğrencilere mantık dilinde kullanılan önerme sembollerinin, eklemlerinin işlevleri ile paranteze alma ve sembolleştirme kurallarının yer aldığı bilgi notu verilir. Bilgi notunda paranteze alma, ana eklem ve bileşenlerin mantıktaki rolü ve önemi ile günlük dildeki önermelerin mantık diline dönüştürülmesine (standart biçim) dikkat çekilir. Standart biçime çevirmede günlük dildeki önerme eklemlerinin mantık dilindeki karşılıklarıyla yer değiştirilmesi, ilgili cümlenin yapısını düzenlenmesi ve noktalama işaretlerine dikkat edilerek cümle formundaki önermelerin paranteze alınması gerektiği vurgulanır. Örnek önermeler (günlük dilde ve sembolik formda) verilerek öğrencilerin iş birlikli olarak bu önermelerden günlük dildekileri sembolik dile, sembolik dildekileri de günlük dile çevirmeleri sağlanır. Bu aşamada alıştırma etkinliği veya eğitici oyun etkinliği kullanılabilir ( E2.5 ). Süreç sonunda grup değerlendirme formu uygulanabilir. Öğrencilerin doğruluk değeri tablosunun temel unsurlarını belirlemeleri ve önermelerin doğruluk değerlerini doğruluk değeri tablosuyla ifade etmeleri amaçlanır. Doğruluk değeri tablosunun yapısı ve kurallarının örneklerle açıklandığı bilgi notu üzerinden öğrencilerin iş birlikli olarak kendi örneklerini oluşturması ve bunların doğruluk değerlerini yönlendirici sorular ile yorumlamaları sağlanır. Bu aşamada alıştırma etkinliği yaptırılır ( SDB1.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Süreçte akran değerlendirme formu kullanılabilir.",
+    "MAN.3.3",
+    "Öğrencilere, tutarlı ve tutarsız durumları içeren atasözü, deyim, şiir, özlü sözler ya da yapılandırılmış cümlelerden oluşan yazılı veya görsel materyaller verilir. Öğrencilerin bu materyallerdeki tutarlılık ve tutarsızlıkları belirlerken hangi ölçütleri esas aldıklarını açıkça ifade etmeleri sağlanır ( E1.1 , E3.5 , OB4 ). Önermelerin ve önerme kümelerinin tutarlılığının doğruluk değeri tablosu ile denetlenmesini içeren kuralların açıklandığı bilgi notu üzeri den öğrencilerin kendi örneklerini oluşturması sağlanır. Süreçte alıştırma etkinliği yaptırılır ( SDB1.2 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Diyet listesi, ilaç prospektüsü veya teknik bir aletin kullanım kılavuzu üzerinden geçerlilik ve eşdeğerlik ile ilgili örnekler verilerek öğrencilerin bunları incelemeleri, kendi örneklerini oluşturmaları, geçerliliğin ve eşdeğerliğin önemi hakkında tartışma yapmaları sağlanır ( KB2.18 ). Süreçte alıştırma etkinliği yaptırılır ve büyük grup tartışma öğretim tekniği kullanılabilir ( SDB1.2 ). Öğrencilere, doğruluk değeri tablosu yöntemi kullanılarak önermelerin geçerliliğinin ve eşdeğerliğinin denetlenmesi kuralları hakkında bilgiler ile ilgili açık uçlu soruların yer aldığı bir çalışma kâğıdı verilir ( E1.3 ). Çalışma kâğıdında bileşik bir önermenin doğruluk değeri tablosunun hangi yorumlamalarında geçerli veya eşdeğer sayılabileceğinin ya da sayılmayacağının belirtilmesi sağlanır. Çeşitli sembolik önermeler verilerek bu önermelerin tutarlılık, geçerlilik ve eşdeğerliğini doğruluk değeri tablosu ile denetlenmesi ve yorumlanması gerçekleştirilir. Doğruluk değeri tablosu üzerinde tutarlılığı, geçerliliği ve eşdeğerliği doğru ve hatalı olarak gösterilmiş çeşitli önerme örnekleri verilerek bu tablolardaki denetlemeleri kontrol etmeleri sağlanır. Tablolardaki kural hataları tespit etmeleri ve düzeltmeleri istenir ( E3.2 , E3.7 ). Düzeltmelerin neden yapıldığı hakkında gerekçeli görüş oluşturulması, görüşlerin değerlendirilmesi ve sınıfta paylaşılması sağlanır ( SDB3.3 , KB3.3 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Süreçte öz ya da akran değerlendirme formu kullanılabilir.",
+    "MAN.3.4",
+    "Öğrencilere çıkarım örnekleri ve çıkarımların geçerliliğinin doğruluk değeri tablosu aracılığıyla denetlenmesi ile ilgili kuralların ve açık uçlu soruların yer aldığı çalışma kâğıdı verilir ( E1.3 ). Çalışma kâğıdında yer alan örnek çıkarımların doğruluk değeri tablosuna dönüştürmeleri ve doğruluk değeri tablosu ile denetlemeleri sağlanır. Öğrencilere doğruluk değeri tablosu üzerinde geçerliliği doğru gösterilmiş çıkarım örnekleri ile hatalı gösterilmiş çıkarım örnekleri verilir. Öğrencilerden bu tablolardaki denetlemelerin doğruluğunu incelemeleri istenir. Tablolardaki kural hatalarının tespit edilmesi ve bu hataların düzeltilmesi işlemleri yaptırılır ( E3.2 , E3.7 ). Düzeltmelerin neden yapıldığı hakkında gerekçeli görüş oluşturulması, görüşlerin değerlendirilmesi ve sınıfta paylaşılması sağlanır ( SDB3.3 , KB3.3 ). Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "MAN.3.5",
+    "Öğrencilerin yapılandırılmış metinler üzerinden nicelik belirten kelimeleri ve önermeleri belirlemeleri ve yazılı olarak ifade etmeleri sağlanır. Süreçte öğrencilerin yönlendirici sorular aracılığıyla dikkatlerini yoğunlaştırmaları sağlanır ( E3.2 ). Sınıf içi etkileşim desteklenir ( SDB2.1 ). Öğrencilere eklemler mantığı ile farklılaşan yönlerinden yola çıkarak niceleme mantığına neden ihtiyaç duyulduğunu ortaya çıkaracak sorular yöneltilerek tartışma yaptırılır. Öğrenciler farklı görüşlerin olabileceğini fark eder ve bu görüşlere saygı duyar ( D15.1 ). Tartışmada önermeler mantığının sınırlılıklarına dikkat çekilir ve basit önermelerin çıkarımlarının yapılması için nelerin gerekli olduğu sorulur. Süreçte beyin fırtınası öğretim tekniği kullanılabilir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Öğrencilere niceleme mantığının temel kavramlarının ve sembolleştirme kurallarının açıklamaları ve örnekleri ile açık uçlu soruların yer aldığı çalışma kâğıdı verilir ( E1.3 ). Çalışma kâğıdında karşı olum karesinin niceleme mantığında nasıl ifade edildiği buldurulur. Örnek önermeler (günlük dilde ve niceleme mantığı formunda) verilerek bu önermelerden günlük dildekilerin niceleme mantığına, niceleme mantığı dilindekilerinse günlük dile çevrilmesi sağlanır. Süreçte küçük grup tartışma öğretim tekniği kullanılabilir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir. Süreçte grup değerlendirmesi uygulanabilir. Öğrencilerden gazete, haber metni, kitap, dergi vb. kaynaklardan önermeler mantığına ve niceleme mantığına ilişkin önerme ve çıkarım örneklerini bulmaları, bulunan örnekleri mantık diline (standart biçim) çevirmeleri istenir. Önermeler mantığı ile ilgili olanların geçerlilik, tutarlılık ve eşdeğerlik denetlemelerini yapmaları, çalışmalarını dijital sunum olarak hazırlamaları ve sınıfta paylaşmaları sağlanır ( E1.1 , KB2.19 , OB2 ). Bu çalışma performans görevi olarak verilir ( E1.4 , E2.2 ). Performans görevi doğru örneklerin bulunması, örneklerin standart biçime doğru çevrilmesi, ilgili denetlemelerin kurallara uygun yapılması ve dijital sunumun niteliği gibi kriterler açısından dereceli puanlama anahtarı ya da dereceleme ölçeği kullanılarak değerlendirilir ( E3.10 ). Öğrenciler performans çalışmasında görev bilinci ile hareket eder, ödev ve sorumluluklarını yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": [
+    "SBAB12. Mantıksal Muhakeme (KB2.19. Mantıksal Denetleme, KB2.14. Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1640"
+}

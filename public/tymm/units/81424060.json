@@ -1,0 +1,64 @@
+{
+  "unitId": 81424060,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "60. ÜNİTE: KANUN - ETÜT VE ESER İCRASI II",
+  "hours": "23",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.8.5.1",
+      "title": "Uşşak makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.2",
+      "title": "Uşşak makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.3",
+      "title": "Oktavlı çalma tekniğini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.4",
+      "title": "Hüseyni makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.5",
+      "title": "Hüseyni makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.6",
+      "title": "Hicaz makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.7",
+      "title": "Hicaz makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.8",
+      "title": "Karcığar makamındaki etütleri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.8.5.9",
+      "title": "Karcığar makamında verilen örnek eserleri çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

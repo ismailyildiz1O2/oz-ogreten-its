@@ -1,0 +1,43 @@
+{
+  "unitId": 81305004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sürdürülebilir Tarım ve Gıda Güvenliği Dersi",
+  "title": "4. ÜNİTE: GIDA GÜVENCESİ",
+  "hours": "16",
+  "description": "Bu ünitenin sonunda öğrenciler, gıda güvencesinin bileşenlerini ve ölçümünü kavrayabilecek, gıda güvencesinin sağlanmasında alternatif protein üretiminin ve genetiği değiştirilmiş organizmaların rolünü öğrenecek, dünyada ve Türkiye'de gıda güvencesinin mevcut durumunu örneklendirebilecektir.",
+  "outcomes": [
+    {
+      "code": "STG.4.1",
+      "title": "Gıda güvencesinin bileşenlerini ve ölçümünü açıklar",
+      "processComponents": [
+        "Gıda güvencesinin bileşenlerine (gıdanın mevcudiyeti, gıdanın erişilebilirliği, gıdanın kullanımı, gıdanın istikrarı) ve ölçümüne yer verilir.",
+        "Gıda güvencesinin bileşenlerini ayırt ederek küresel gıda güvenlik endeksine göre farklı düzeylerdeki (zayıf, orta ve güçlü) ülkeleri örneklendirmeleri sağlanır. Birleşmiş Milletler Gıda ve Tarım Örgütü'nün (FAO) süreçteki rolü üzerinde durulur."
+      ]
+    },
+    {
+      "code": "STG.4.2",
+      "title": "Gıda güvencesinin sağlanmasında yeni gıdaların rolünü değerlendirir",
+      "processComponents": [
+        "Yeni gıdalardan alternatif protein üretimi ve genetiği değiştirilmiş organizmalara (GDO) örnek vermeleri sağlanır.",
+        "Alternatif protein kaynaklarının özelliklerini ve gıda güvencesini sağlamaya yönelik çalışmalarla ilgili sınıf ortamında tartışmaları sağlanır."
+      ]
+    },
+    {
+      "code": "STG.4.3",
+      "title": "Türkiye'nin gıda güvencesindeki mevcut yapısını yorumlar",
+      "processComponents": [
+        "Öğrencilerin Türkiye'deki gıda güvencesinin mevcut durumu hakkında örnekler vermeleri sağlanır.",
+        "Gıda güvencesinin mevcut durumu kapsamında yakın çevrenin güçlü ve zayıf yönlerini tespit etmeleri ve rapor hazırlamaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311231660129-S%C3%9CRD%C3%9CR%C3%9CLEB%C4%B0L%C4%B0R%20TARIM%20VE%20GIDA%20G%C3%9CVENL%C4%B0%C4%9E%C4%B0%20DERS%C4%B0-11%20ekim.pdf"
+}

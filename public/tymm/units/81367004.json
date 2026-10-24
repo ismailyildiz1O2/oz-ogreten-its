@@ -1,0 +1,82 @@
+{
+  "unitId": 81367004,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Uluslararası İlişkiler Dersi",
+  "title": "4. ÜNİTE: DIŞ POLİTİKA",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "ULI.4.1",
+      "title": "Devletlerin uluslararası alanda izlediği politikaların amaçlarını açıklar",
+      "processComponents": [
+        "Dış politikanın belirlenmesinde ulusal çıkarların ön planda tutulduğu açıklanır.",
+        "Türkiye'nin uluslararası alanda saygınlığını artıran bilimsel, sportif ve sanatsal başarılarına örnekler veriniz."
+      ]
+    },
+    {
+      "code": "ULI.4.2",
+      "title": "Devletlerin dış politikada kullandıkları araçları tanır",
+      "processComponents": [
+        "Devletlerin, dış politika alanındaki temel amaçlarını, farklı araçlar kullanarak gerçekleştirmelerine örnekler verilir.",
+        "Devlet olmayan aktörlerin kullandıkları araçların şartlara göre değişkenlik gösterdiği açıklanır.",
+        "Diplomatların temel görevleri açıklanır.",
+        "Devletler dış politika amaçlarına ulaşmak için hangi araçları kullanırlar? Örneklerle açıklayınız."
+      ]
+    },
+    {
+      "code": "ULI.4.3",
+      "title": "Uluslararası ilişkileri etkileyen siyasi faktörleri açıklar",
+      "processComponents": [
+        "Devletlerin yönetim şekillerinin dış politikaya etkileri üzerinde durulur.",
+        "Bir ülkenin dış politikasının belirlenmesinde dışişleri bakanlıklarının ve hükûmetlerin rolü açıklanır.",
+        "Demokratik ve antidemokratik yönetim biçimlerinin dış politikaya etkilerini örnekler vererek karşılaştırınız."
+      ]
+    },
+    {
+      "code": "ULI.4.4",
+      "title": "Ekonomik etkenlerin uluslararası ilişkilerdeki etkisini açıklar",
+      "processComponents": [
+        "Devletlerin büyük veya güçlü olarak nitelendirilmesinde etkili olan ekonomik faktörler üzerinde durulur."
+      ]
+    },
+    {
+      "code": "ULI.4.5",
+      "title": "Hükûmetlerin dış politika kararlarında iç ve dış kamuoyunun etkisini değerlendirir",
+      "processComponents": [
+        "Dış politikanın belirlenmesinde karar alıcıların, kendi halklarının ve dünya kamuoyunun fikirlerinden etkilendikleri örneklerle açıklanır."
+      ]
+    },
+    {
+      "code": "ULI.4.6",
+      "title": "Ülkelerin coğrafi özelliklerinin uluslararası ilişkilere etkilerini açıklar",
+      "processComponents": [
+        "Jeopolitik konumun uluslararası ilişkilere etkisini örneklerle açıklayınız."
+      ]
+    },
+    {
+      "code": "ULI.4.7",
+      "title": "Uluslararası aktörlerin gücünün hangi faktörlere bağlı olduğunu örneklerle açıklar",
+      "processComponents": [
+        "Gücün durağan ve değişken özellikleri üzerinde durulur.",
+        "Uluslararası aktörlerin gücünün bağlı olduğu faktörlere örnekler veriniz."
+      ]
+    },
+    {
+      "code": "ULI.4.8",
+      "title": "Uluslararası hukuk kurallarının devletlerin dış politikaları üzerindeki etkilerini açıklar",
+      "processComponents": [
+        "Devletlerin dış politikaya ilişkin kararlar alırken uluslararası hukuk kurallarını dikkate almaları gerektiği vurgulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231127163240412-Uluslararas%C4%B1%20ili%C5%9Fkiler.pdf"
+}

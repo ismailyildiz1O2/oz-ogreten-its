@@ -1,0 +1,34 @@
+{
+  "unitId": 81424006,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "6. ÜNİTE: PİYANO - PİYANODA KADANSLAR",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.1.6.1",
+      "title": "Plagal (pleigal) kadansı do majör ve la minör tonlarda uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.6.2",
+      "title": "Otantik kadansı do majör ve la minör tonlarda uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.6.3",
+      "title": "Tam kadansı do majör ve la minör tonlarda uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

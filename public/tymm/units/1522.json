@@ -1,0 +1,48 @@
+{
+  "unitId": 1522,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY I · 1. Tema: Dijital Sanatları Keşfediyorum",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.1.1.1",
+      "title": "Dijital sanatlara ilişkin temel kavram ve özellikleri sorgulayabilme",
+      "processComponents": [
+        "a) Dijital sanat ile ilgili merak ettiklerini tanımlar.",
+        "b) Dijital sanat türleri ve estetik kavramı hakkında sorular sorar.",
+        "c) Dijital sanat ürünlerinin tarihsel gelişimine ilişkin bilgi toplar.",
+        "ç) Edindiği bilgilerin doğruluğunu değerlendirir.",
+        "d) Dijital sanatın tarihsel gelişiminin estetik boyutuna etkisi hakkında çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DS.1.1.2",
+      "title": "Dijital sanat ürünlerinde estetik ögeleri yorumlayabilme",
+      "processComponents": [
+        "a) Dijital sanat ürünlerinde yer alan görsel bileşenlerle eserin teması arasında ilişki kurar.",
+        "b) Dijital sanat ürünlerinin estetik yönlerine ilişkin çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DS.1.1.3",
+      "title": "Dijital sanat yaparken kullanılan bilişim teknolojilerini sınıflandırabilme",
+      "processComponents": [
+        "a) Dijital sanat yaparken kullanılan bilişim teknolojilerini belirler.",
+        "b) Dijital sanat yaparken kullanılan bilişim teknolojilerini kullanım amaçları ile ilişkilendirir.",
+        "c) Dijital sanat yaparken kullanılan bilişim teknolojilerini işlevlerine göre gruplandırır."
+      ]
+    }
+  ],
+  "keyConcepts": "dijital sanat, dijital sanat tarihi, dijital sanat türleri, dijital üretim araç ve teknolojileri, estetik, özgünlük, sanat elemanları, sanat ve bilişim ilişkisi",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB1. Bilişim Teknolojisini Kullanma (BTYAB1.1. Bilişim Teknolojilerini Sınıflandırma), SAB3. Sanat Eserini İnceleme (SAB3.3. Sanatsal Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1522"
+}

@@ -1,0 +1,183 @@
+{
+  "unitId": 19,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "1. TEMA: ÜREME",
+  "hours": "69",
+  "description": "Bu temanın içeriğini canlılarda üremenin önemi ve canlılarda üreme çeşitleri oluşturmaktadır. Tema kapsamında öğrencilerin üremenin canlılar için önemini sorgulamaları, eşeysiz ve eşeyli üreme ile ilgili bilimsel çıkarım yapmaları, hücre döngüsü ve bölünmesini sorgulamaları, çiçeğin kısımları ve görevleriyle ilgili bilimsel gözlem yapmaları ve çimlenmeyi etkileyen faktörleri gözlemleyecekleri deneyler yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.12.1.1",
+      "title": "Hücre bölünmesinin ve üremenin canlılar için önemini yorumlayabilme",
+      "processComponents": [
+        "a) Hücre bölünmesini inceler.",
+        "b) Hücre bölünmesinin nedenlerini kendi cümleleriyle ifade eder.",
+        "c) Hücre bölünmesinin üreme, büyüme ve gelişme için önemini yorumlar."
+      ]
+    },
+    {
+      "code": "BİY.12.1.2",
+      "title": "Hücredeki genetik materyalin organizasyonunu çözümleyebilme",
+      "processComponents": [
+        "a) Genetik materyalin organizasyonunu belirler.",
+        "b) Genetik materyalin organizasyonunda görevli bileşenler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BİY.12.1.3",
+      "title": "Canlılarda hücre döngüsü ve hücre bölünmesini sorgulayabilme",
+      "processComponents": [
+        "a) Yeni hücrelerin oluşumunda hücre döngüsü sürecini tanımlar.",
+        "b) Mitoz ve mayozla yeni hücrelerin oluşum süreci hakkında sorular sorar.",
+        "c) Mitoz ve mayoz ile ilgili bilgi toplar.",
+        "ç) Mitoz ve mayozda gerçekleşen hücre döngüsü ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Topladığı bilgilerden yola çıkarak tür içi kalıtsal çeşitliliğin sağlanmasında mitoz ve mayozun önemi ile ilgili çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.12.1.4",
+      "title": "Kromozomlarda ayrılmamanın sonuçlarıyla ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Kromozomlarda ayrılmama ile ilgili özellikleri tanımlar.",
+        "b) Kromozomlarda ayrılmama ile ilgili bilgileri/verileri toplar ve kaydeder.",
+        "c) Kromozomlarda ayrılmama olayının sonuçlarını yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "BİY.12.1.5",
+      "title": "Üreme hücrelerinin oluşum süreci ve yapılarını karşılaştırabilme",
+      "processComponents": [
+        "a) Üreme hücrelerinin oluşum sürecinin özelliklerini belirler.",
+        "b) Üreme hücrelerinin oluşum süreci ve yapılarının benzerliklerini listeler.",
+        "c) Üreme hücrelerinin oluşum süreci ve yapılarının farklılıklarını listeler."
+      ]
+    },
+    {
+      "code": "BİY.12.1.6",
+      "title": "Eşeysiz ve eşeyli üreme ile ilgili bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Canlılarda eşeysiz ve eşeyli üremeyle ilgili nitelikleri tanımlar.",
+        "b) Canlılarda eşeysiz ve eşeyli üreme arasındaki benzerlik ve farklılıklara ilişkin bilgileri toplar ve kaydeder.",
+        "c) Eşeysiz ve eşeyli üremeyi sağladıkları avantaj ve dezavantajlar açısından yorumlar ve değerlendirir."
+      ]
+    },
+    {
+      "code": "BİY.12.1.7",
+      "title": "Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili bilgilere ulaşır.",
+        "c) Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili ulaştığı bilgileri doğrular.",
+        "ç) Erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "BİY.12.1.8",
+      "title": "Embriyonik gelişimle ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Embriyonik gelişimle ilgili bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak embriyonik gelişimle ilgili bilgilere ulaşır.",
+        "c) Embriyonik gelişimle ilgili ulaştığı bilgileri doğrular.",
+        "ç) Embriyonik gelişimle ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "BİY.12.1.9",
+      "title": "Çiçeğin kısımları ve görevleriyle ilgili bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Tam çiçeğin kısımlarını tanımlar.",
+        "b) Tam çiçeğin kısımları ile ilgili verileri toplar ve kaydeder.",
+        "c) Elde ettiği verileri bitkilerde tozlaşma, döllenme, tohum ve meyvenin oluşumunu açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "BİY.12.1.10",
+      "title": "Çimlenmeyi etkileyen faktörleri gözlemleyebileceği deney yapabilme",
+      "processComponents": [
+        "a) Çimlenmeyi etkileyen faktörleri gözlemleyebileceği deney tasarlar.",
+        "b) Deneyden elde ettiği sonuçların analizini yaparak sonuçları çimlenme, dormansinin kırılması gibi olayları açıklamak için kullanır."
+      ]
+    }
+  ],
+  "keyConcepts": "eşeysiz üreme, eşeyli üreme, gametogenez, oogenez, spermatogenez, döllenme, çimlenme, dormansi",
+  "support": [
+    "Hücre döngüsü süreci sadeleştirilmiş bir öyküye dönüştürülerek hücrelerin yaşamları boyunca hangi süreçleri geçirdiği anlatılabilir. Bu yolla öğrencilerin konuyu daha iyi kavramaları sağlanabilir. Şemalar, resimler veya basit çizimler kullanılarak hücre bölünmesinin nasıl gerçekleştiği somutlaştırılabilir.",
+    "Nükleozomlar ve kromozomlar arasındaki ilişkiyi fark etmelerini sağlamak amacıyla öğrencilerden basit modeller yapmaları istenebilir. Hücre döngüsü ve hücre bölünmesi, görsel materyallerle (şemalar, animasyonlar vb.) desteklenmiş örnekler kullanılarak somutlaştırılabilir. Öğrencilerin üreme hücrelerinin oluşum sürecine yönelik bilimsel model oluşturmaları sağlanabilir.",
+    "Eşeysiz üremenin çeşitlerinin daha kolay anlaşılabilmesini sağlamak amacıyla bilgi kartları kullanılabilir. Embriyonik gelişim süreciyle ilgili video ve animasyonlar izletilebilir. Çimlenme olayı için deney simülasyonları kullanılabilir."
+  ],
+  "enrichment": [
+    "*Öğrencilerden hücre döngüsünün kontrol mekanizmasının hücrenin yaşam döngüsü için önemini ve bu kontrol mekanizmasında görülen aksaklıkların kanser oluşumu ile ilgisini araştırmaları istenebilir. Araştırma sürecinde öğrencilere hücre bölünmelerinin evrelerini gösteren bir maket yapmaları ya da protoonkogen ve onkogenlerin yapısı, çeşitleri, işlevleri ve hücre döngüsüyle ilişkilerini araştırarak sunum hazırlamaları önerilebilir.",
+    "Öğrencilerden hücre bölünmesinin yaşlanma süreciyle ilişkisini ve kan hücrelerinin bölünebilme özelliklerini araştırmaları ve raporlaştırmaları istenebilir. Hücrelerde genetik materyalin organizasyonunda rol oynayan, kromozomların hücre bölünmesi sırasında doğru bir şekilde organize edilmesini ve ayrılmasını sağlayan proteinleri araştırmaları istenebilir.",
+    "Öğrencilerden kromozom sayısı anomalisi çeşitlerini araştırmaları, telif hakkı bulunmayan görseller kullanarak uygun bir dijital uygulama/program aracılığıyla kromozom sayısı anomali çeşitlerini konu alan animasyon veya video hazırlamaları istenebilir. Farklı tür canlılar arasında üremenin önlenmesi ile ilgili geliştirilen adaptasyonların neler olduğunu araştırmaları istenebilir. *Yardımcı üreme tekniklerinden in vitro fertilizasyon (tüp bebek yöntemi) tekniğinin ne olduğunu ve hangi alanlarda kullanıldığını araştırarak sunum hazırlamaları ve sunumlarını sınıf arkadaşlarıyla paylaşmaları istenebilir. Amniyosentez uygulamasına hangi durumlarda başvurulduğunu, testin içeriğini ve testte hangi hastalıkların tespit edildiğini araştırarak sunum hazırlamaları ve sunumlarını sınıf arkadaşlarıyla paylaşmaları istenebilir. Dormansi ve çimlenme ilişkisini, bu olaylarda görev yapan hormonları araştırarak bu hormonların çimlenme üzerine etkilerini gösterecekleri deney tasarlamaları ve deneyi yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öğrenme günlüğü, 3-2-1 çıkış kartları, organizasyon şeması, balık kılçığı, performans görevi, araştırma raporu, sunum, poster, animasyon, deney yapma, bilgi görseli kullanılarak dereceli puanlama anahtarı, grup değerlendirme ve öz değerlendirme formu ile değerlendirilebilir.",
+    "Öğrencilere hücre döngüsü sürecini, mitoz ve mayoz ile yeni hücre oluşumunu ve tür içi kalıtsal çeşitliliğin önemini ortaya koyacakları poster hazırlamaya yönelik performans görevi verilebilir. Öğrencinin hazırlayacağı poster, analitik dereceli puanlama anahtarı ile puanlanabilir. Öz değerlendirme formu ile öğrencinin kendisini değerlendirmesi sağlanabilir.",
+    "Kromozomlarda ayrılmama konusunu araştırmak için gruplara ayrılan öğrencilerden araştırma yaparak elde ettikleri bilgileri raporlaştırmaları, raporlarını sınıfta sunmaları istenebilir. Öğrencilerin sunumları, akran değerlendirme formu ile değerlendirilebilir. Grupların kendi çalışmalarını değerlendirmeleri için grup değerlendirme formu, öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir. Öğrencilerin araştırma raporları ise analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilere eşeyli ve eşeysiz üremenin benzer ve farklı özellikleriyle ilgili yaptıkları araştırmalara yönelik poster hazırlayacakları performans görevi verilebilir. Öğrencilerin hazırlayacağı poster, analitik dereceli puanlama anahtarı ile puanlanabilir.",
+    "Öğrencilere gruplara ayrılarak bir bitkinin yaşam döngüsünü gösteren animasyon hazırlayacakları performans görevi verilebilir. Öğrencilerin hazırlayacağı animasyon, bütüncül dereceli puanlama anahtarı ile puanlanabilir; grup değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BİY.12.1.1 a) Amip hücresinin bölünmesi ile ilgili animasyon veya videolar izletilerek öğrencilerden bölünen hücrelerin niteliklerini belirlemesi istenir. Öğrenciler \"Hücrelerin boyutlarında mı sayılarında mı değişim oldu?\" sorusuna cevap verir.",
+    "b) Animasyon ya da video aracılığıyla hücre bölünmesini inceleyen öğrencilere \"Sitoplazması azalan amip neden bölünmez?\", \"Çekirdeksiz kalan amip neden ölür?\", \"Bölünme olgunluğuna erişen amip, sitoplazması kesilmesine rağmen neden bölünür?\" soruları sorulur. Öğrencilerden sorulara cevap vererek hücre bölünmesinin nedenlerini ifade etmeleri beklenir.",
+    "c)Öğrencilere hücre bölünmesinin tek hücreli canlılarda üreme, çok hücreli canlılarda üreme, büyüme, gelişme ve onarım süreçlerini açıklayan görsel, video veya animasyonlar sunularak hücre bölünmelerinin bu süreçlerdeki önemini keşfetmeleri beklenir. Öğrenciler elde ettikleri bilgileri çalışma yaprağına kaydeder ve bu bilgileri yorumlar. Böylece hücre bölünmesinin yalnızca yeni hücre oluşumunu değil aynı zamanda canlıların üremesini, büyümesini, dokuların gelişmesini ve hasar gören bölgelerin onarılmasını sağladığını fark ederler ( OB1 ) . Öğrencilerden çalışma yaprağındaki bilgilerden yararlanarak hücre bölünmesinin üreme, büyüme, gelişme ve onarım olaylarıyla ilişkisine yönelik olarak verilen 3-2-1 çıkış kartını doldurmaları istenir. Öğrencilerin oluşturduğu 3-2-1 çıkış kartı, puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.1.2 a) Öğrencilere, insan hücresinde bulunan bir kromozomdaki DNA'nın hücre boyutuna kıyasla olağanüstü derecede uzun bir yapıya sahip olduğu bilgisi verilir ve ardından \"Bu kadar uzun bir DNA, yalnızca birkaç mikrometre büyüklüğündeki bir hücreye nasıl sığar?\" sorusu yöneltilir. Bu soru aracılığıyla öğrencilerde merak uyandırılır ( E1.1 ). Öğretmen genetik materyaldeki organizasyona ait görseli tahtaya yansıtır veya konuyla ilgili video/ animasyon izletir. Öğrenciler; video, animasyon veya görseli inceler ve soru-cevap tekniği ile görseldeki genetik materyalin organizasyonunu belirler ( OB4 ).",
+    "b) Öğrenciler, inceledikleri genetik materyalin organizasyonunu temsil edecek bir modeli ip, kil, yapı oyuncağı gibi materyaller kullanarak oluşturur ( E2.5 ). Öğrencilerin model ve görselde bulunan yapılar (nükleotit, gen, kromozom) arasındaki ilişkileri belirlemesi istenir ( OB4 ).",
+    "Öğrencilerden genetik materyalin organizasyonunda yer alan bileşenler arasındaki ilişkilere yönelik organizasyon şeması hazırlamaları istenebilir. Organizasyon şeması, puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.1.3 a-b) ''Var olan hücrelerin bölünmesiyle yeni hücreler meydana gelir.\" ifadesinden yola çıkarak öğrencilerin kendilerine sunulan görsel, video veya animasyonları incelemeleri istenir ( OB4 ) . Konuyla ilgili \"Her hücrede hücre döngüsü görülür mü?\", \"Hücre döngüsünün kontrolünde sorun olursa neler olabilir?\", \"Hücre döngüsünün insanın büyüme ve gelişimine etkileri nelerdir?\" gibi sorular sorulabilir. Öğrencilerden inceledikleri materyal aracılığıyla elde ettikleri bilgilerden hareketle hücrenin hücre döngüsünde oluşumundan bölünmesine kadar geçirdiği süreçleri (hücrelerin büyümesi, DNA eşlenmesi, mitoz ve sitokinez) tanımlamaları beklenir. Hücre döngüsünün şematik bir modeli gösterilerek öğrencilerden şemayı incelemeleri istenir. Bu süreçte hücre döngüsünü kontrol eden moleküllerin isimlerine ve döngünün kontrol noktalarına değinilmez. Öğrenciler, bir hücreden yeni hücrelerin oluşmasında mitoz ve mayoz hakkında merak ettikleri soruları sorar ( E3.8 ).",
+    "c-ç) Öğrenciler gruplara ayrılır. Hücre döngüsü süreçlerine ait görsellerin yer aldığı bilgi kartları öğretmen tarafından hazırlanarak öğrenci gruplarına verilir. Öğrencilerden hücre döngüsüne ait süreçlere, mitoz ve mayozun evrelerine ve bu süreçlerin canlı yaşamındaki önemine ilişkin bilgileri güvenilir kaynaklardan toplamaları; elde ettikleri bilgileri bilgi kartlarına işlemeleri beklenir. Öğrencilerden bilgi kartlarını hücre döngüsünün süreçlerini açıklayacak şekilde hiyerarşik olarak sıralamaları ve hücre döngüsü bileşenlerinin ilişkilerini belirlemeleri istenir ( KB3.1 ). Bu süreçte öğrencilerin mitoz ve mayoz arasındaki temel farklılıkları listelemeleri beklenir. Grup çalışmalarında öğrencilerin birbirleriyle yardımlaşmaları ve sorumluluk değerinin bir gereği olarak çalışmaya etkin katılım sağlamaları beklenir ( D16.3 , SDB2.1 , SDB2.2 , E2.2 ).",
+    "Öğrenciler, ulaştıkları bilgilerin doğruluğunu bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan inceleyerek öğretmen rehberliğinde değerlendirir.",
+    "d) Gruplardan topladıkları bilgilerden yola çıkarak mitozun ve mayozun büyüme, gelişme, onarım, üreme, tür içi kalıtsal çeşitlilik açısından önemiyle ilgili çıkarım yapmaları ve yaptıkları çıkarımları birlikte değerlendirmeleri beklenir.",
+    "BİY.12.1.4 a) Kromozomların yapısı ve hücre bölünmesi sırasında kromozomların nasıl ayrıldıkları anlatıldıktan sonra öğrencilerin rol yapma (dramatizasyon) tekniğiyle ''kromozomların ayrılması'' olayını canlandırmaları sağlanır ( E2.5 ). Çeşitli faktörlere bağlı olarak ortaya çıkan \"kromozomlarda ayrılmama\" olayının da canlandırılması istenerek öğrencilerin iki olay arasındaki farkı, oluşan yeni hücrelerdeki kromozom sayıları açısından görmeleri sağlanır. Öğrenciler, bu etkinliğin sonunda kromozomlarda ayrılmamayla ilgili özellikleri tanımlar.",
+    "b-c) Öğrenciler gruplara ayrılır. Öğrencilerden güvenilir kaynaklardan iş birliği içinde araştırma yaparak kromozomlarda ayrılmama çeşitleriyle (monozomi, trizomi vb.) ilgili bilgi toplamaları istenir ya da kromozomlarda ayrılmama çeşitleriyle ilgili bilgiler öğrencilere öğretmen tarafından sunulur. Öğrencilerin araştırmalarından, çalışma yaprağı ya da ders kitabından edindikleri bilgileri yorumlayıp değerlendirerek kromozomlarda ayrılmama olayının gerçek hayatta çeşitli hastalıklara sebep olacağı sonucuna varmaları beklenir. Bu hastalıklara sahip olanlara karşı duyarlı olmanın, insanları farklılıklarıyla kabul edip onlara şefkat ve anlayışla yaklaşmanın gerekliliği vurgulanarak öğrencilere duyarlılık ve sevgi değerleri kazandırılır ( D5.1 , D15.1 ).",
+    "BİY.12.1.5 a) Üreme hücrelerinin oluşum süreçleriyle ilgili animasyonlar izletilir veya görseller verilir. Öğretmen tarafından \"Üreme hücreleri hangi olaylar sonucunda oluşur?\", \"Vücut hücreleri ile üreme hücrelerinin kromozom sayıları aynı mıdır?\", \"Genetik aktarım, üreme hücreleri aracılığıyla nasıl gerçekleştirilir?\" gibi sorular sorulur. Öğrencilerden video, animasyon veya görsel aracılığıyla sunulan ya da ders kitabında verilen bilgileri değerlendirmeleri, bu bilgilerden hareketle erkek ve dişi üreme hücrelerinin oluşum süreçlerinin (spermatogenez ve oogenez) ve yapılarının (hücre büyüklüğü, sitoplazma ve organel çeşitleri) özelliklerini belirlemeleri istenir ( OB4 ).",
+    "b-c) Öğrencilerden edindikleri bilgilerden yola çıkarak erkek ve dişi üreme hücrelerinin oluşum süreçlerinin benzer (mayoz içermesi, genetik çeşitlilik sağlaması, kromozom sayısının yarıya düşmesi vb.) ve farklı (sürecin başlangıcı ve sıklığı, hücre sayısı ve oluşum hızı vb.) yönlerini listeledikleri bir tablo oluşturmaları istenir. Bu tabloda erkek ve dişi üreme hücrelerinin yapısal benzerliklerinin (hücre zarı ve hücresel yapılar, genetik materyal vb.) ve farklılıklarının (hücre büyüklüğü, sitoplazma ve organel yapıları vb.) da listelenmesi beklenir.",
+    "Öğrencilerden üreme hücresinin oluşumu, yapıları ve bu yapıların benzerlik ve farklılıklarına ilişkin balık kılçığı oluşturmaları istenebilir. Öğrencilerin oluşturacağı balık kılçığı, puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.1.6 a) \"Üremede her zaman iki ataya ihtiyaç var mıdır?\", \"Tüm üreme çeşitlerinde çeşitlilik görülür mü?\", \"Tüm üreme çeşitlerinde döllenme görülür mü?\" gibi merak uyandırıcı sorularla öğrencilerin eşeyli ve eşeysiz üreme konusundaki bilgi ihtiyaçlarını fark etmeleri sağlanır ( OB1 , E1.1 ) . Soru-cevap tekniği kullanılarak öğrencilerden eşeysiz ve eşeyli üremenin özelliklerini tanımlamaları istenir.",
+    "b) Öğretmen tarafından gruplar oluşturularak gruplardan eşeysiz ve eşeyli üreme arasındaki benzerlik ve farklılıkları araştırmaları istenir. Bu çalışmayı yaparken öğrencilere bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan yararlanmaları önerilir. Çalışma yaprağı verilerek öğrencilerden topladıkları bilgileri bilimsel bakış açısıyla yazmaları istenir ( D3.3 ).",
+    "c) Öğrencilerden topladıkları bilgilerden hareketle eşeysiz ve eşeyli üreme arasındaki benzerlik ve farklılıkları, bu üreme türlerinin canlılara sağladığı avantaj ve dezavantajları yorumlayıp değerlendirmeleri beklenir. Eşeyli ve eşeysiz üremenin benzerlik ve farklılıklarının, avantaj ve dezavantajlarının anlaşılıp anlaşılmadığının belirlenmesi amacıyla balık kılçığı tekniği ya da karşılaştırma tablosu kullanılabilir. Balık kılçığı ve karşılaştırma tablosu, puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.1.7 a) \"Erkek ve dişi üreme sistemlerinin yapısı aynı mıdır?\", \"Testislerin vücut dışında, yumurtalıkların ise vücut içinde yer almasının biyolojik avantajı nedir?\" gibi sorularla öğrencilerin erkek ve dişi üreme sistemlerinin yapısı ve işleyişi konusundaki bilgi ihtiyaçlarını fark etmeleri sağlanır. Öğrencilerden erkek ve dişi üreme sistemlerinin yapısı ve işleyişiyle ilgili yapacakları araştırma için gereken araçları belirlemeleri istenir.",
+    "b-c) Öğrencilerden belirledikleri araçları kullanarak erkek ve dişi üreme sistemlerinin yapısı, işleyişi ve dişilerde menstrual döngü ile ilgili bilgilere ulaşmaları istenir. Öğrenciler, ulaştıkları bilgileri öğretmen gözetiminde bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan doğrular ve özetler. Bu süreçte bilgiye ulaşma yollarını dikkatlice izleyerek bilimsel ve güvenilir olmayan kaynakları fark eder ( D3.3 ) .",
+    "ç) Öğrenciler, erkek ve dişi üreme sistemlerinin yapısı, işleyişi ve dişilerde menstrual döngü hakkında doğruladıkları bilgileri kaydeder ( OB1 , E3.7 ) . Menstrual döngüde görev yapan hormonların değişim grafiklerini ve döngüye etkilerini gösteren görseller hazırlayabilir. Bu süreçte öğrencilerden ulaştıkları bilgileri kendi yaşamları ile ilişkilendirmeleri beklenir ( SDB1.2 ) .",
+    "Öğrencilerden kaydettikleri bilgilerden yola çıkarak üreme organlarının yapısını oluşturan bölümleri, erkek ve dişi üreme sistemlerinin işleyişlerinin düzenlenmesinde görev alan hormonların etkilerini gösteren bir bilgi görseli hazırlamaları istenebilir. Bilgi görseli, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.12.1.8 a) \"Hastanelerde röntgen çekilen alanlara 'Hamilelerin ve hamilelik şüphesi olanların girmesi yasaktır.' şeklinde uyarı levhalarının asılmasının nedeni ne olabilir?\", \"Hamilelik döneminde ilaç kullanımından olabildiğince uzak durulmasının sebebi ne olabilir?\" gibi sorular sorularak öğrencide merak uyandırılır ve öğrencilerin bilgi ihtiyaçlarını fark etmeleri sağlanır ( OB1 , D13.4 , E1.1 ) .",
+    "Öğretmen rehberliğinde gruplar oluşturulur ve gruplardan iş birliği yaparak embriyonik gelişimle ilgili yapacakları araştırma için gereken araçları belirlemeleri istenir.",
+    "b) Gruplardan belirledikleri araçları kullanarak embriyonik gelişimin aşamaları (döllenme, bölünme, gastrulasyon ve organogenez) ve embriyonik gelişim sürecinde meydana gelen değişimlerle ilgili bilgilere ulaşmaları istenir. Bu süreçte öğretmenin vereceği çalışma yaprağından, video ve animasyonlardan faydalanılabilir. Embriyonik tabakalardan meydana gelen organlar ve embriyonik indüksiyona değinilmez, fetüsün gelişim evreleri verilmez. Araştırma sürecinde elde edilen bilgiler sınıfta paylaşılır ( SDB2.2 ). Öğrencilerden farklı bilgiler üzerinden ortak bir sonuca ulaşmaları beklenir ( E2.2 ).",
+    "c-ç) Gruplardan embriyonik gelişimle ilgili ulaştıkları bilgileri öğretmen gözetiminde bilimsel makaleler gibi güvenilir kaynaklardan doğrulamaları istenir ( D3.3 ). Gruplar, araştırma yaparak buldukları ve belli ölçütlere göre doğruladıkları bilgileri özetler ve kaydeder ( OB1 ). Öğrencilerden embriyonik gelişimin aşamalarıyla ilgili öğrenme günlüğü hazırlamaları istenebilir. Öğrenme günlüğü, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.12.1.9 a) \"İlkbaharda etrafınızda gördüğünüz çiçeklerin farklı renklere sahip olmasının nedeni nedir?\", \"Tüm bitkilerde çiçek oluşumu görülür mü?\" gibi sorularla öğrencilerde çiçeğin kısımları ve görevleriyle ilgili merak uyandırılır. Çiçeğin kısımlarının üreme için önemi vurgulanarak öğrencilerin güdülenmesi sağlanır. Çiçeğin kısımlarının incelenmesine yönelik bir gözlem etkinliği tasarlanır. Gruplara ayrılan öğrencilerden sınıfa çiçek örnekleri getirmeleri istenir. Getirilen çiçek örnekleri gruplar arasında paylaştırılarak öğrencilerden çiçeğin kısımlarını tanımlamaları istenir ( OB4 ).",
+    "b-c) Öğrencilerden takım çalışması yaparak çiçeğin kısımları ve görevleri hakkında topladıkları bilgileri gözlem formuna kaydetmeleri istenir ( D16.3 ). Öğrenciler, kaydettikleri bilgiler çerçevesinde çiçeğin kısımlarının görevlerini yorumlayarak bu kısımların tozlaşma, döllenme, tohum ve meyve oluşumundaki işlevleriyle ilgili açıklama yapar ( E3.7 ).",
+    "BİY.12.1.10 a) \"Tohum ekiminden önce toprağın sürülerek havalandırılmasının nedeni nedir?\", \"Çimlenmenin oluşabilmesi için ilkbahar yağmurları neden önemlidir?\", \"Sonbaharda ekilen buğday tohumlarının ilkbaharda çimlenmesinin nedeni nedir?\" gibi sorular sorularak öğrencilerin konuya dikkati çekilir ( E1.1 ). Çimlenme olayı ile ilgili animasyon veya videolar izletilerek öğrencilerden çimlenmeyi etkileyen faktörlere ilişkin soruların cevaplarını bulmaları istenir ( OB4 ). Öğrencilerden çimlenmeye etki eden faktörlerden birini (sıcaklık, oksijen, su vb.) inceleyebilecekleri deney tasarlamaları ve deneyi yapmaları istenir ( E3.7 ).",
+    "b) Öğrenciler, deneyden elde ettikleri sonuçların analizini yaparak yaşadıkları bölgede yetiştirilen tohum örnekleri üzerinden çimlenme ve dormansinin kırılması olaylarını açıklar ( E3.6 ). Öğrencilerden yaptıkları deneyin raporunu oluşturmaları istenir. Deney raporları, analitik dereceli puanlama anahtarıyla değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D15.1",
+      "D16.3",
+      "D3.3",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E2.5",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/19"
+}

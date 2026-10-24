@@ -1,0 +1,40 @@
+{
+  "unitId": 1623,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY II · 4. Tema: Dijital Üretimde Çizim, Görüntü Ve Ses",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.2.4.1",
+      "title": "Animasyon geliştirme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Animasyon geliştirme sürecinde kullanılan dijital araç ve yöntemleri tanır.",
+        "b) Animasyon geliştirme sürecine uygun dijital araç ve yöntemleri belirler.",
+        "c) Animasyon geliştirme için belirlenen dijital araç ve yöntemleri kullanır.",
+        "ç) Animasyon geliştirmede kullanılan dijital araç ve yöntemleri değerlendirir."
+      ]
+    },
+    {
+      "code": "DS.2.4.2",
+      "title": "Dijital hikâye geliştirme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Dijital hikâye geliştirme sürecinde kullanılan dijital araç ve yöntemleri tanır.",
+        "b) Dijital hikâye geliştirme sürecine uygun dijital araç ve yöntemleri belirler.",
+        "c) Dijital hikâye geliştirme için belirlenen dijital araç ve yöntemleri kullanır.",
+        "ç) Dijital hikâye geliştirmede kullanılan dijital araç ve yöntemleri değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "animasyon, dijital anlatım, dijital hikâye, görsel süreklilik, senaryo, ses–görsel uyumu",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1623"
+}

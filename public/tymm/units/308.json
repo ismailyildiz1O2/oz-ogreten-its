@@ -1,0 +1,72 @@
+{
+  "unitId": 308,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Hayat Bilgisi Dersi",
+  "title": "6. ÖĞRENME ALANI: BİLİM, TEKNOLOJİ VE SANAT",
+  "hours": "18",
+  "description": "Bu öğrenme alanının içeriğini; bilim insanları ve bilime katkıları, teknolojik ürünlerin zaman içindeki değişimi, sanatın günlük yaşamdaki yeri oluşturmaktadır. Bu doğrultuda öğrencilerin bilimsel ve teknolojik gelişmeler ile sanatın günlük yaşamdaki yerini belirlemeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "HB.2.6.1",
+      "title": "Bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilme",
+      "processComponents": [
+        "a) Bilim insanlarının bilime katkılarına yönelik bilgileri bulur.b) Bilim insanlarının bilime katkılarına yönelik bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "HB.2.6.2",
+      "title": "Günlük yaşamda kullanılan teknolojik bir ürünün zaman içerisindeki değişimini karşılaştırabilme",
+      "processComponents": [
+        "a) Teknolojik bir ürünün zaman içindeki değişimini belirler.",
+        "b) Teknolojik bir ürünün zaman içindeki değişiminin benzer ve farklı yönlerini listeler."
+      ]
+    },
+    {
+      "code": "HB.2.6.3",
+      "title": "Sanatın günlük yaşamdaki yerini belirleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "bilim, teknoloji, sanat",
+  "support": [
+    "Öğrencilerden bilim insanlarının bilime katkılarını sözlü olarak ifade etmeleri istenebilir. Günlük yaşamında kullandığı teknolojik bir ürünün zaman içindeki değişimini gösteren görselleri sıraya koymaları istenebilir. Öğrencilerden sanatın günlük yaşamdaki yerini ifade eden bir şarkı söylemeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ilgi duydukları bilim dallarına ilişkin araştırma yapmaları sağlanabilir. Bilim insanları ve buluşlarına yönelik kutu oyunları tasarlamaları istenebilir. Öğrencilerden teknolojik bir ürünün değişim veya gelişim sürecini araştırarak sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; akran değerlendirme ve öz değerlendirme formu, performans görevi ile değerlendirilebilir. Öğrencilerin hazırlayacakları tablo ve çizelgeler dereceli puanlama anahtarı ile değerlendirilebilir. Bütüncül değerlendirme için tüm öğrenme çıktılarından oluşan bir izleme testi uygulanabilir. Öğrencilerden sınıf içi performans görevi olarak konu ile ilgili teknolojik bir ürünün zaman içindeki değişimini gösterebilecekleri bir ürün oluşturmaları istenebilir. Ürünün değerlendirilmesinde söz konusu ürünün zaman içindeki değişimini gösteren görsellerin kullanılmış olması, zaman içindeki değişimin benzerlik ve farklılıkların vurgulanmış olması gibi kriterleri içeren dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "HB.2.6.1 Öğrencilerden bilim insanlarının bilime katkılarına yönelik verilen kaynaklardan bilgi toplayabilmeleri ( SBAB2 , SBAB2.2.SB1, SBAB2.2.SB3) beklenir. Bilim insanları ve eserlerine yönelik kaynaklardan bilgileri bulmaları (a) istenir. Ali Kuşçu, Uluğ Bey, El-Cezerî, Jale İnan, Alper Gezeravcı, Vecihi Hürkuş, Afet İnan, Engin Arık, Fuat Sezgin, Cahit Arf, Halil İnalcık, Albert Einstein (Albırt Aynştayn), Marie Curie (Mery Köri), Thomas Edison (Tamıs Edison), Alexander Graham Bell (Aleksandır Grahem Bel) gibi bilim insanlarının bilime katkılarına yönelik bilgilendirici metin, animasyon, belgesel, video gibi eğitici içerikler öğrencilere sunulur. Öğrencilerden bilim insanlarının sahip oldukları hangi özelliklerinin ve değerlerinin bu başarıları beraberinde getirdiğine yönelik araştırma yapmaları istenir ( D3.3 ). Bilim insanlarının özelliklerinden azimli, kararlı ( D3.1 , D11.2 ) , planlı olmaları, zamanı doğru şekilde kullanmaları ( D3.2 ) , doğru ve güvenilir bilgiyi ayırt etmeleri, üretken ve öz denetim sahibi olmaları üzerinde durulur. Öğrencilerden verilen kaynaklardan yararlanarak konu ile ilgili bilgi toplamaları istenir ( OB1.2 ), ( E1.5 ). Öğrencilerin bilim insanlarının bilime katkılarına yönelik bilgileri kaydetmeleri (b) beklenir. Bunun için 5N1K, öğrenme galerisi gibi teknikler kullanılarak öğrencilerin bilim insanlarının bilime katkılarına yönelik çıkarım yapmaları sağlanır. Bilim insanlarının ülkelerin gelişimine katkıda bulunmalarının değerini ( D15.2 ) bilmeleri üzerinde durulur. Öğrencilerden konu ile ilgili topladıkları bilgileri kullanarak poster, sunum gibi bir ürün oluşturmaları istenir. Ürünler, ürün değerlendirme formu ile değerlendirilebilir.",
+    "HB.2.6.2 Öğrencilerden günlük yaşamda kullanılan teknolojik bir ürünün zaman içindeki değişimini karşılaştırabilmeleri ( KB2.7 ) istenir. Teknolojik bir ürünün zaman içindeki değişimini belirlemeleri (a) beklenir. Bunun için sınıfa geçmiş zamanlarda kullanılmış teknolojik araçlara yönelik örnekler sunularak bu ürünlerin zaman içindeki değişimi üzerinde durulur. Öğrencilere bilimsel gelişim için merak duygusunu kullanarak bu duygunun peşinden gitmeleri gerektiği ( D3.3 ) vurgulanır. Ülkemizin geleceği için büyük önem taşıyan yerli ve millî teknolojilerimize örnekler verilir. Öğrencilerin bu gelişmelere yönelik düzenlenen sosyal sorumluluk ve toplum hizmeti çalışmalarında aktif görev almaya istekli ( D3.4 ) olmaları beklenir. Bu çalışmalarda görev almanın ülkenin geleceğine sağlayacağı katkılar üzerinde durulur. Öğrencilerden teknolojik bir ürünün zaman içindeki değişiminin benzer ve farklı yönlerini listelemeleri (b) istenir. Bu süreçte örnek olarak sunulan teknolojik ürünlerden birinin geçmişten günümüze değişim sürecinde benzer ve farklı olan özelliklerini tablo, çizelge, zaman kapsülü gibi tekniklerle listelemeleri istenir. Ürünler, dereceli puanlama anahtarı ile değerlendirilebilir ve öğrencilerin portfolyolarına dâhil edilir.",
+    "HB.2.6.3 Öğrencilerden sanatın günlük yaşamdaki yerini belirleyebilmeleri ( KB1 ) istenir. Sanatın günlük yaşamdaki yerini incelemeleri beklenir. Bunun için geçmişten günümüze kültürümüzü yansıtan edebiyat, müzik, resim, ebru, tiyatro, sinema gibi farklı sanat dallarına yönelik görsel içerikli materyaller sunulur ( OB9.1 ). Beyin fırtınası, sınıf korosu, tek cümlelik özetler gibi teknikler kullanarak günlük yaşamlarındaki sanat unsurlarını listelemeleri sağlanır. Öğrencilerden sanatın günlük yaşamdaki yerini ifade etmeleri beklenir. Bir sanat eserini incelerken, tiyatro izlerken, müzik dinlerken hissettikleri duyguları ve sanata yönelik düşüncelerini ifade etmeleri istenir ( D7.1 ). Bir kuş sesindeki melodi, bir damlanın oluşturduğu desen gibi sanatın günlük yaşamdaki yansımalarına örnekler vermeleri beklenir. Konu ile ilgili duygu ve düşüncelerini içeren şiir, hikâye, resim veya ritim çalışmaları gibi etkinlikler yapmaları istenir. Süreç, yapılandırılmış grid ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D15.2",
+      "D3.1",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.5"
+    ],
+    "kavramsal": [
+      "KB1",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1.2",
+      "OB9.1"
+    ],
+    "diger": [
+      "SBAB2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/308"
+}

@@ -1,0 +1,79 @@
+{
+  "unitId": 1709,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Türk Sosyal Hayatında Aile Dersi",
+  "title": "3. Öğrenme Alanı: Türk Aile Yapısının Tarihsel Süreci",
+  "hours": "22",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TSHA.3.1",
+      "title": "Türkistan’daki ilk Türk devletlerinde aile yapısının özelliklerini yorumlayabilme",
+      "processComponents": [
+        "a) Türkistan’daki ilk Türk devletlerinde aile yapısının özelliklerini inceler.",
+        "b) Türkistan’daki ilk Türk devletlerinde aile yapısının özelliklerini bağlamdan kopmadan dönüştürür.",
+        "c) Türkistan’daki ilk Türk devletlerinde aile yapısının özelliklerini esnek, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "TSHA.3.2",
+      "title": "Türk-İslam devletlerinde aileye verilen değeri yorumlayabilme",
+      "processComponents": [
+        "a) Türk-İslam devletlerinde aileye verilen değeri inceler.",
+        "b) Türk-İslam devletlerinde aileye verilen değeri bağlamdan kopmadan dönüştürür.",
+        "c) Türk-İslam devletlerinde aileye verilen değeri nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "TSHA.3.3",
+      "title": "Cumhuriyet'in ilanından sonraki hukuki düzenlemelerin aile yapısı üzerindeki etkilerini sorgulayabilme",
+      "processComponents": [
+        "a) Cumhuriyet'in ilanından sonra aile yapısındaki değişimlerin neler olduğuna dair merak ettiği konuları tanımlar.",
+        "b) Cumhuriyet'in ilanından sonraki hukuki düzenlemelerin aile yapısı üzerindeki etkileri ile ilgili sorular sorar.",
+        "c) Cumhuriyet'in ilanından sonraki hukuki düzenlemelerin aile yapısı üzerindeki etkileri ile ilgili bilgi toplar.",
+        "ç) Cumhuriyet'in ilanından sonraki hukuki düzenlemelerin aile yapısı üzerindeki etkileri ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Cumhuriyet'in ilanından sonraki hukuki düzenlemelerin aile yapısı üzerindeki etkileri ile ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TSHA.3.4",
+      "title": "Günümüzdeki aile yapısının özellikleri hakkında tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Günümüzdeki aile yapısının özellikleri hakkında gözlem yapar.",
+        "b) Günümüzdeki aile yapısının benzer özelliklerini oluşturan örüntüleri bulur.",
+        "c) Günümüzdeki aile yapısının özellikleri hakkında genelleme yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "çekirdek aile, geniş aile, kültürel süreklilik, medeni kanun, miras, toplumsal değişim, toplumsal hayat, vakıf",
+  "support": [
+    "Öğrenciler ilk Türk devletlerindeki aile yapısını günümüzle karşılaştırarak bilgi görseli veya tablo oluşturabilir. Öğrenciler aile değerleri üzerine kısa hikâyeler yazabilir.",
+    "Öğrenciler Cumhuriyet'in ilanından sonra gerçekleşen hukuki değişimler ile ilgili tanıtım kartları hazırlayabilir. Öğrenciler günümüz aile yapısını anlatan kısa senaryolar yazabilir"
+  ],
+  "enrichment": [
+    "Öğrenciler ilk Türk devletlerindeki aile yapısını günümüzle karşılaştırarak bilgi görseli veya tablo oluşturabilir. Öğrenciler Türk-İslam devletlerinde aileye verilen değeri göstermek için dijital sergi hazırlayabilir.",
+    "Öğrenciler Cumhuriyet'in ilanından sonraki hukuki düzenlemelerin aile hayatındaki değişimlere etkisini tablo, dijital afiş veya belgesel ile sunabilir.",
+    "Öğrenciler teknolojinin aile içi iletişime etkisini kısa bir film hazırlayarak gösterebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; gözlem formu, kontrol listesi, çalışma yaprakları, öğrenme günlükleri, akran değerlendirme formları, grup değerlendirme formları, derecelendirme ölçeği, bütüncül dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir. Performans Görevi: İlk Türk devletlerinde aile yapısının özelliklerine dair afiş, slogan veya resim hazırlamaları istenebilir. Hazırlanan ürünler, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TSHA.3.1",
+    "Öğrencilerden ilk Türk devletlerindeki aile yapısına ilişkin verilen yazılı, görsel veya dijital kaynakları incelemeleri istenir ( OB1 , OB2 , OB4 ). Öğrencilerin inceledikleri kaynaklardan yararlanarak aile yapısına ilişkin buldukları özellikleri listelemeleri istenir ( E3.7 ). Türk devletlerinde aile yapısından yola çıkarak ülkesinin geleceği için aile ve nüfusun önemini fark etmeleri sağlanır ( D2.1 ).",
+    "Ardından geçmişteki ve günümüzdeki aile yapısını (aile tipi, yaşam tarzı, kadın-erkek iş birliği) benzerlikler ve farklılıklar açısından karşılaştırır. Karşılaştırma tablosuna kaydeder ( E3.1 ).",
+    "Öğrencilerden performans görevi olarak ilk Türk devletlerinde aile yapısının özelliklerine dair afiş, slogan veya resim hazırlamaları istenebilir ( OB4 ). Bu süreçte öğrencilerin, ha zırladıkları üründe ilk Türk devletlerindeki aile yapısına ilişkin bilgileri tarihsel gerçekliğe uygun, görsel düzeni güçlü ve estetik bütünlük oluşturacak biçimde sunmaları sağlanır ( E3.3 , D2.1 , D7.1 , SDB2.1 ). Hazırlanan ürünler, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "TSHA.3.2",
+    "Öğrencilere; Türk-İslam devletlerinde aileye verilen değeri ortaya koyan yazılı, görsel veya dijital kaynaklar sunulur ( OB1 , OB2 , OB4 ). Öğrenciler, bu kaynaklardan hareketle aileye verilen değeri (aile içi sorumluluk, kadının toplumdaki yeri, çocukların eğitimi, aile-toplum ilişkisi gibi özellikler) inceler ( E3.7 ). Bu süreçte Hz. Muhammed’in (sav) eş, baba ve dede olarak aile içi iletişiminde ortaya koyduğu örnek davranışlara yer verilir. Ayrıca aile fertlerinin aile bütünlüğünü korumadaki rolüne geçmişten ve günümüzden örnekler verilir ( D2.1 ).",
+    "Öğrencilerden gruplara ayrılarak Türk-İslam devletlerinde aileye verilen değeri (kadının toplumdaki yeri, çocukların eğitimi, aile-toplum ilişkisi) yansıtan senaryolar hazırlamaları ve hazırladıkları senaryoları canlandırmaları istenir ( E3.3 , SDB2.1 , SDB2.2 ). Bu süreçte öğrencilerin senaryolarını inceledikleri kaynaklardaki bilgilere bağlı kalarak hazırlamaları; canlandırmalarda tarihsel gerçekliği bozacak abartılı, eksik veya yanlış anlatımlardan kaçınmaları sağlanır ( D6.1 ). Bu etkinliklerin ardından öğrencilerin aileye verilen değeri özetleyen bir paragraf ya da diyalog yazmaları veya bir konuşma yapmaları istenir ( SDB2.1 ). Öğrenci çalışmaları, dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "TSHA.3.3",
+    "Öğrencilere Cumhuriyet'in ilanından öncesine ve sonrasına ait aile yaşamını yansıtan farklı metinler (aile içi roller, kadınların toplumdaki rolü vb.) sunulur. Öğrencilerden gör seller arasındaki farkları gözlemlemeleri ve bu görsellerden hareketle merak ettikleri konuları ifade etmeleri istenir ( E1.1 ).",
+    "Öğrenciler fikirlerini paylaştıktan sonra Cumhuriyet'in ilanından sonraki düzenlemelerin aile yapısı üzerindeki etkileri ile ilgili sorular hazırlamaları istenir ( E3.8 , SDB2.3 ).Öğrencilere; Türk Medeni Kanunu, kadınların siyasi hakları ile eğitimde fırsat eşitliği gibi düzenlemeleri kapsayan yazılı, görsel veya dijital kaynaklar sunulur ( OB1 , OB2 , OB4 ). Öğrenciler bu kaynaklardan bilgi toplar ( KB2.6 ). Öğrenciler topladıkları bilgilerin doğruluğunu karşılaştırarak kontrol eder. Öğrenciler, ulaştıkları bilgileri “kaynak adı, temel bulgu, doğruluk kontrolü” başlıklarıyla araştırma fişlerine yazar ve bu fişleri rapor, tablo veya dijital ürün hazırlama sürecinde kullanır ( D3.1 , OB2 ). Bu süreçte, aynı konuda farklı kaynaklardan elde edilen bilgilerin benzerlik ve farklılıkları sorgulanır.",
+    "Kaynaklardan edinilen bilgilerden hareketle Medeni Kanun, kadınların seçme ve seçilme hakkı, eğitimde eşitlik benzeri düzenlemelerin aile yapısı üzerindeki etkilerine yönelik çıkarımlar yapar ( E3.3 ). Çıkarımlarını yazılı rapor, tablo veya dijital ürün şeklinde sunar. Öğrenci çalışmaları, dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB2. Kanıta Dayalı Sorgulama ve Araştırma (SBAB2.5. Kaynağı Yorumlama)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1709"
+}

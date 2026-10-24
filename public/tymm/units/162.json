@@ -1,0 +1,234 @@
+{
+  "unitId": 162,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "2. TEMA: ÇEŞİTLİLİK",
+  "hours": "70",
+  "description": "Bu tema Denge, Asit ve Baz Çözeltilerinde Denge, Çözünürlük Dengesi olmak üzere üç bölümden oluşmaktadır. Bu temada öğrencilerin tersinir tepkimelere ilişkin gözlem yapmaları, dengeye ilişkin bilimsel gözleme dayalı tahminde bulunmaları, denge sabiti ifadesinin oluşturulmasına ilişkin tümevarımsal akıl yürütmeleri, tersinir tepkimelerin dengeye ulaşıp ulaşmadığı ile ilgili bilimsel veriye dayalı tahminde bulunmaları, dengeye etki eden faktörlere ilişkin bilimsel sorgulama yapmaları, asit ve bazların sulu çözeltileri ile bu çözeltilerde gerçekleşen olaylarla ilgili bilimsel gözlem, nötralleşme olayı ile ilgili operasyonel tanımlama, asitlerin ve bazların kuvvetlerine ilişkin bilimsel sorgulama, asit ve baz teorileri ile ilgili karşılaştırma ve titrasyon yöntemiyle deney yapmaları, tuzların sulu çözeltilerinde dengeye ilişkin bilimsel çıkarım yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.11.2.1",
+      "title": "Tepkimelerin tersinir olabileceğine ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Tersinir tepkimelerin oluşumuna kanıt oluşturacak gözlemlenebilir nitelikler belirler.",
+        "b) Tersinir tepkimelerde gözlemlenebilir niteliklere ilişkin veri toplar ve topladığı verileri kaydeder.",
+        "c) Tepkimelerin tersinir olabileceğini verilere dayalı olarak açıklar."
+      ]
+    },
+    {
+      "code": "KİM.11.2.2",
+      "title": "Tepkimelerdeki denge sürecine ilişkin bilimsel gözleme dayalı tahminde bulunabilme",
+      "processComponents": [
+        "a) Denge sürecine ilişkin önermeler oluşturur.",
+        "b) Denge sürecine ilişkin gözleme dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Denge sürecine ilişkin önermelerini temellendirmek için gözlem verilerinden hareketle sonuç çıkarır.",
+        "ç) İleri ve geri tepkime hızlarının eşitliğine ilişkin tahminlerde bulunur.",
+        "d) Bilimsel verilerden hareketle tahminlerinin geçerliliğini sorgular."
+      ]
+    },
+    {
+      "code": "KİM.11.2.3",
+      "title": "Denge sabiti ifadesinin oluşturulmasına ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Homojen ve heterojen denge tepkimelerinin denge sabiti ifadelerinde keşfettiği örüntüyü matematiksel olarak modeller.",
+        "b) Denge sabiti ifadesinin matematiksel modelini geneller."
+      ]
+    },
+    {
+      "code": "KİM.11.2.4",
+      "title": "Tersinir tepkimelerin dengeye ulaşıp ulaşmadığını bilimsel veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Tersinir tepkimelerin dengeye ulaşıp ulaşmadığına ilişkin önermeler oluşturur.",
+        "b) Tersinir tepkimelere ilişkin veriye dayalı olan ve olmayan önermeleri karşılaştırır.",
+        "c) Tepkime oranını hesaplayarak denge durumuna ilişkin tahminde bulunur.",
+        "ç) Tahminlerinin geçerliliğini sorgular."
+      ]
+    },
+    {
+      "code": "KİM.11.2.5",
+      "title": "Dengeye etki eden faktörleri bilimsel sorgulayabilme",
+      "processComponents": [
+        "a) Derişim, hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisine ilişkin araştırılabilir sorular oluşturur.",
+        "b) Değişkenlerin dengeye etkisini belirlemek üzere hipotezler kurar.",
+        "c) Derişim, hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisine yönelik deney gerçekleştirir.",
+        "ç) Deneyden elde ettiği verileri analiz ederek yorumlar.",
+        "d) Deney sonuçlarını çarpışma kuramını kullanarak açıklar.",
+        "e) Dengeye etki eden faktörleri Le Chatelier ilkesi ile ilişkilendirir."
+      ]
+    },
+    {
+      "code": "KİM.11.2.6",
+      "title": "Saf suyun otoiyonizasyonuna ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Saf suyun otoiyonizasyonunu gözlemleyebileceği nitelikleri tanımlar.",
+        "b) Saf suyun otoiyonizasyonuna ilişkin gözlem yoluyla veri toplar ve kaydeder.",
+        "c) Saf suyun otoiyonizasyonunu suyun iyonlaşma sabitini kullanarak açıklar."
+      ]
+    },
+    {
+      "code": "KİM.11.2.7",
+      "title": "Asit ve baz teorilerini karşılaştırabilme",
+      "processComponents": [
+        "a) Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin varsayımlarına ilişkin özellikleri belirler.",
+        "b) Belirlediği özelliklerin benzerliklerini listeler.",
+        "c) Belirlediği özelliklerdeki farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "KİM.11.2.8",
+      "title": "Asitlerin ve bazların kuvvetlerine ilişkin bilimsel sorgulama yapabilme",
+      "processComponents": [
+        "a) Asitlerin ve bazların kuvvetlerine ilişkin araştırma soruları oluşturur.",
+        "b) Asitlerin ve bazların kuvvetlerine ilişkin sembolik ve alt mikro seviyede modeller geliştirir.",
+        "c) Farklı asitlerin ve bazların kuvvetlerini karşılaştırmak üzere araştırma gerçekleştirir.",
+        "ç) Araştırma verilerini asitlerin ve bazların saf suda iyonlaşma yüzdelerini kullanarak yorumlar.",
+        "d) Açıklamalarında alt mikro ve sembolik seviyede gösterimler kullanır.",
+        "e) Açıklamalarını bilimsel bilgiler ile değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.11.2.9",
+      "title": "Kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz sulu çözeltilerindeki pH hesaplamalarını karşılaştırabilme",
+      "processComponents": [
+        "a) Derişimleri aynı olan kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz sulu çözeltilerinin pH değerine ilişkin özellikleri belirler.",
+        "b) Kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz çözeltilerinin pH hesaplamalarına ilişkin benzerlikleri listeler.",
+        "c) Kuvvetli asit-zayıf asit ve kuvvetli baz-zayıf baz çözeltilerindeki pH hesaplamalarına ilişkin farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "KİM.11.2.10",
+      "title": "Nötralleşme olayını operasyonel tanımlayabilme",
+      "processComponents": [
+        "a) Kuvvetli asit ve kuvvetli baz sulu çözeltileri arasında gerçekleşen nötralleşme tepkimelerini gözlemleyebilmek için ölçütler (iletkenlik, pH değişimi ve indikatörün renk değişimi) belirler.",
+        "b) Nötralleşme olayına ilişkin belirlediği ölçütleri test eder.",
+        "c) Nötralleşme olayına ilişkin matematiksel ilişkiler içeren tanımlar yapar."
+      ]
+    },
+    {
+      "code": "KİM.11.2.11",
+      "title": "Kuvvetli asit ve kuvvetli baz çözeltilerinin derişimlerini titrasyon yöntemiyle belirlemeye yönelik deney yapabilme",
+      "processComponents": [
+        "a) Derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltilerinin derişimlerini belirlemeye ilişkin deney planlar.",
+        "b) Derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişimini belirler."
+      ]
+    },
+    {
+      "code": "KİM.11.2.12",
+      "title": "Asidik ya da bazik ürünlerin en uygun olanına karar verebilme",
+      "processComponents": [
+        "a) Mide, ağız, diş ve cilt sağlığı için kullanılan asidik ya da bazik özellik gösteren ürünlerin seçimine yönelik amaç belirler.",
+        "b) Amaçlarına yönelik deneyler gerçekleştirerek bilgi elde eder.",
+        "c) Deneydeki gözlemlerine dayanarak asit-baz tepkimelerinin sonucuna ilişkin önermeler oluşturur.",
+        "ç) Oluşturduğu önermeler üzerinde mantıksal denetleme yapar.",
+        "d) Mide, ağız, diş ve cilt sağlığı açısından asidik ya da bazik özellik gösteren uygun ürünleri seçer.",
+        "e) Mide, ağız, diş ve cilt sağlığı için seçtiği ürünlerin sağlık açısından etkisine yönelik yansıtma yapar."
+      ]
+    },
+    {
+      "code": "KİM.11.2.13",
+      "title": "Suda az çözünen tuzların çözünürlüğüne ilişkin bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Suda az çözünen tuzların çözünürlüğünü açıklamak için model önerir.",
+        "b) Modelini bilim insanlarının modelleriyle karşılaştırır."
+      ]
+    },
+    {
+      "code": "KİM.11.2.14",
+      "title": "Suda az çözünen tuzların çözünürlüğüne etki eden faktörlere ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Suda az çözünen tuzların çözünürlüğüne etki eden faktörlere ilişkin farklı gözlem ortamları oluşturur.",
+        "b) Ortak iyon ve sıcaklığın bir tuzun sudaki çözünürlüğüne etkisini belirlemek için molar çözünürlük ve Kçç değerlerini içeren hazır veri seti kullanır.",
+        "c) Çıkarımlarını Le Chatelier ilkesi ile açıklar."
+      ]
+    }
+  ],
+  "keyConcepts": "asit-baz çifti, asitlik/bazlık sabiti, Arrhenius asidi/bazı, Brønsted-Lowry asidi/bazı, çözünürlük çarpımı, denge sabiti, eş değerlik noktası, fiziksel denge, indikatör, kimyasal denge, kuvvetli asit/baz, Le Chatelier ilkesi, nötralleşme, otoiyonizasyon, pH/pOH, titrasyon, zayıf asit/baz",
+  "support": [
+    "Bir kimyasal tepkimenin tersinir (geri dönüşümlü) doğasını açığa çıkarmak amacıyla renk değişikliği sergileyen tepkimelerin incelenmesi gibi etkinlikler planlanabilir. Dengeyi etkileyen faktörler olan sıcaklık, basınç ve konsantrasyon gibi değişkenler hakkında derinlemesine anlayış geliştirmek için çevrim içi simülasyon araçlarından faydalanılabilir. Öğrenciler, küçük gruplara ayrılarak günlük hayatta karşılaşılan denge örneklerini tartışabilirler. Örneğin bir soda şişesinin nasıl bir denge sistemini temsil ettiğini analiz edebilirler.",
+    "Öğrencilerin Arrhenius ve Brønsted-Lowry asit-baz tanımlarını kapsamlı bir şekilde öğrenmeleri için asit ve baz örneklerinin bu iki farklı tanım çerçevesinde eşleştirilmesine dayanan bir kart oyunu tasarlanabilir. Böylece öğrencilerin öğrenme süreçlerine katkıda bulunulabilir. Ayrıca çeşitli tuzların suda çözünürlüklerini test etme fırsatı sunularak sıcaklık ve basınç gibi değişken koşullar altında çözünürlüğün nasıl değişebileceğinin öğrenciler tarafından gözlemlenmesi sağlanabilir. Tuzların çözünürlüğünü etkileyen faktörlerin (sıcaklık, ortak iyon etkisi gibi) incelenmesi amacıyla düzenlenecek bilgi yarışmaları veya grup projeleri ile öğrencilerin bu konuları derinlemesine araştırmaları sağlanabilir.",
+    "Çevrim içi simülasyon araçlarının kullanımı, öğrencilerin çözünürlük dengesi kavramını ve bir çözeltinin doymuş, doymamış veya aşırı doymuş olmasının ne anlama geldiğini somut bir şekilde anlamalarına yardımcı olabilir."
+  ],
+  "enrichment": [
+    "Haber-Bosch yöntemi ile endüstriyel amonyak üretimi örnek verilip tepkimenin neden düşük sıcaklık ve yüksek basınç altında gerçekleştirildiğinin sorgulanması, sıcaklık ve basıncın tepkimenin verimine etkisinin Le Chatelier ilkesi ile açıklanması sağlanabilir. Ayrıca yöntemde kullanılan demir katalizörün etkisinin sorgulanması da istenebilir. Yoğun sera gazı içeren Haber-Bosch yönteminin sürdürülebilir yeşil bir yönteme nasıl dönüştürülebileceği konusunda araştırma projesi tasarlatılabilir. Öğrenciler, farklı disiplinlerden bilgilerini sentezleyerek yöntemle ilgili çözüm önerileri geliştirebilir.",
+    "*Öğrencilere buzulların erimesi sonucunda denizlerdeki tuzluluk oranının değişmesinin deniz canlıları, kıyı ekosistemi, su kalitesi ve okyanus dolaşımı üzerindeki etkilerini araştırabileceği bir proje görevi verilebilir. Bu araştırmalardan elde ettiği sonuçlardan hareketle öğrencilerden buzulların erimesine neden olan sera gazlarının azaltılması, eriyen buzulların sucul sisteme kazandırdığı minerallerin sudaki çözünürlüğünün azaltılması, çözünen minerallerin çöktürme veya arıtma sistemleriyle etkisizleştirilmesine yönelik çözüm önerileri geliştirmeleri ve küçük ölçekte pilot çalışmalar yapmaları istenebilir.",
+    "*Okyanuslarda ve geniş yüzeye sahip büyük göllerde oluşan, oksijen düzeyi düşük olan (hipoksik) ölü bölgelerin tespiti ve ekosisteme olası zararlarının belirlenmesi amacıyla proje görevleri verilebilir. Öğrenciler, projelerinde ölü bölgelerin oluşum sürecini ve nedenlerini araştırabilir. Ölü bölgelerin oluşumuna neden olan kimyasal gübrelerin kullanımı, kanalizasyon kaçağı, kentsel arazi için denizlerin doldurulması ve kıyıların yükselmesi sorunlarını ortadan kaldırmak için çözüm üretmek ve alternatif çözümleri değerlendirmek de yine proje kapsamında yaptırılabilir. Öğrenciler, projelerinde kimyasal gübrelerdeki azot ve fosfor içeren tuzların sudaki çözünürlük dengelerini etkileyen faktörleri kullanmak üzere deneyler yapabilir. Coğrafi alanlarda şekillendirmeler yapmak amacıyla yapay zekâ uygulamalarını kullanabilir. Öğrencilerden kalsiyum karbonatın toprağın asitliğini yükseltmede kullanılan bir tuz olmasından hareketle farklı tuzların yapısal özelliklerini inceleyerek benzer amaçlarla kullanılabilirliğine yönelik bilimsel bir araştırma yapmaları istenebilir.",
+    "Öğrenciler, sürdürülebilir kalkınma hedefleri çerçevesinde enerji üretiminde reaksiyonların denge durumunun enerji verimliliği üzerindeki etkilerini araştırabilir. Araştırma sonuçlarından elde ettiği verilerden yola çıkarak enerji verimliliği üzerinde yenilikçi fikirler geliştirebilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında etkinlik kâğıdı, çalışma yaprağı, öz değerlendirme formu, performans görevi, sınıf içi tartışma, çıkış kartı, Venn diyagramı, deney raporu ve yansıtma notu kullanılabilir.",
+    "Öğrenciler performans görevi çerçevesinde sıcaklık ve ortak iyonun bir tuzun çözünürlüğüne etkisini araştırmak üzere bir deneyi tasarlayabilir, uygulayabilir ve raporlayabilir. Performans görevi \"farklı gözlem ortamları oluşturabilme, deney verilerini kaydederek çıkarımda bulunabilme, çıkarımlarını Le Chatelier ilkesi ile açıklayabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.11.2.1",
+    "Öğrencilere \"İçerisinde demlenmiş çay bulunan bir bardağa karbonat atıldığında veya limon sıkıldığında oluşan renk değişimini nasıl açıklarsınız?\" gibi bir soru sorularak konuya dikkat çekilir. Öğrencilerden tersinir bir tepkimeye ilişkin gözlemlenebilir nitelikleri (renk değişimi, yeni bir katının oluşumu gibi) belirlemeleri istenir. Öğrencilerin deney yaparak, görselleri inceleyip, bilimsel bakış açısıyla yorumlayarak veya sunulan dijital materyaller üzerinden çıkarım yaparak gözlem ortamı oluşturmaları sağlanır ( D3.3 , OB2 , OB4 ) . Böylece araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir. Öğrenciler, tepkimenin ileri ve geri yönde ilerlediğini gözlemler; etkinlik kâğıdına gözlem verilerini kaydeder ( OB7 ) . Öğrencilerden tepkimelerin tersinir de olabileceğini gözlem verilerini kullanarak açıklamaları istenir ( KB2.2 ). Farklı tersinir tepkimelere ilişkin makro, alt mikro ve sembolik seviyede örnekler verilerek öğrencilerin gözlem yapmaları sağlanır ( OB7 ) . Gözlem sonrasında öğrencilerden etkinlik kâğıdında tersinir tepkime oluşum sürecine ilişkin nitelikler belirlemeleri istenebilir. Öğrenciler, gözlemlerinden hareketle elde ettiği kanıtlarla tersinir tepkimelere ilişkin yansıtma notu yazmaları için yönlendirilebilir ( SDB1.2 ) .",
+    "KİM.11.2.2",
+    "Öğrenciler, tersinir bir tepkime için farklı zaman aralıklarında alt mikro seviyede gerçekleşen değişimlere ilişkin önermeler oluşturur. Oluşturulan önermelerin sınıf ortamında etkili iletişim kurmaya dikkat edilerek paylaşılması sağlanır ve dostluk değeri pekiştirilir ( SDB2.1 , D4.2 ) . Öğrencilerden gözleme dayalı olan ve olmayan önermelerini karşılaştırmaları istenir. Öğrencilerin animasyon, simülasyon, deney gibi gözlem ortamlarından edindikleri verilerle denge sürecine ilişkin tahminlerini temellendirerek sonuç çıkarmaları sağlanır ( OB2 ) . Bu çalışma ile çalışkanlık değeri desteklenir ( D3.3 ) . Öğrenciler, tepkimenin denge sürecindeki ileri ve geri tepkime hızlarına ilişkin tahminlerde bulunur; her iki yöndeki tepkime hızlarını dikkate alarak denge durumunu açıklar ( KB2.13 ) . Öğrencilerin tepkimenin denge sürecindeki ileri ve geri tepkime hızları ile ilgili tahminlerinin geçerliliğini hız-zaman grafiklerini kullanarak sorgulamaları sağlanır ( OB2 ) . Bu çalışma ile çalışkanlık değeri desteklenir ( D3.3 ) . Öğrencilere gözlemlerinden elde ettikleri verilerle ileri ve geri tepkime hızları üzerinden dengeyi açıkladıkları bir metin yazdırılabilir. Ayrıca ileri ve geri tepkime hızlarının denge sürecindeki değişimini hız-zaman grafiği çizerek açıkladıkları bir yansıtma notu yazdırılabilir. Etkinlik kâğıtları \"önerme oluşturabilme, gözleme dayalı olan ve olmayan önermeleri belirleyebilme ve açıklama yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından değerlendirilebilir. Ayrıca öğrencilerden önerme oluşturma aşamasından deney sonuçlarının yorumlanmasına kadar tüm deney sürecine yönelik değerlendirme yapmaları istenebilir ( SDB1.2 ) .",
+    "KİM.11.2.3",
+    "Öğrencilere farklı denge tepkimelerinin sembolik gösterimi, ileri ve geri tepkimelerin hız sabiti değerleri, denge sabiti değerleri, denge derişimleri ve derişim-zaman grafikleri verilir. Öğrencilerin denge sabiti ifadesine ilişkin örüntü keşfetmeleri ve örüntüyü matematiksel modelle ifade etmeleri sağlanır ( OB7 ) . Öğrencilere farklı homojen ve heterojen denge tepkimelerinin bileşenlerine ilişkin denge derişimleri ve denge sabiti değerleri verilir. Öğrenciler, oluşturdukları matematiksel modeli geneller ve modelin doğruluğunu bilimsel genellemelerle karşılaştırır ( E3.10 , SDB2.1 ) . Böylelikle öğrenciler araştırmacı olmaya teşvik edilerek çalışkanlık değeri desteklenir ( D3.3 ) . Öğrencilerden çalışma yaprağında verilen dengedeki bileşenlerin derişimlerini kullanarak denge sabitini hesaplamaları ya da denge sabitini kullanarak dengedeki bileşenlerden birinin derişimini hesaplamaları istenebilir.",
+    "KİM.11.2.4",
+    "Tersinir bir tepkime bileşenlerinin herhangi bir andaki derişimleri verilerek öğrencilerden tepkimenin dengeye ulaşıp ulaşmadığına ve dengeye ulaşmamışsa gerçekleşme yönüne ilişkin önermeler oluşturmaları istenir ( OB7 ) . Oluşturulan farklı önermelerin saygılı bir tartışma ortamı içinde paylaşılması sağlanır ( SDB2.1 , D14.1 ) . Öğrenciler, inceledikleri tersinir tepkimenin dengeye ulaşıp ulaşmadığına ve dengeye ulaşmamışsa gerçekleşme yönüne ilişkin veriye ve ön bilgilerine dayalı önermeleri karşılaştırmaları için yönlendirilir ( OB7 ) . Tepkime oranı (Q) kavramı tanımlanır ve öğrencilerden verilen tepkimenin Q değerini hesaplamaları istenir. Öğrenciler, dengeye ulaşmak için herhangi bir tepkimenin hangi yöne ilerleyeceğini Q ve K değerlerini karşılaştırarak tahmin eder. Öğrencilerden aynı tepkimenin farklı derişim örneklerini ve bu derişim durumlarına ait tepkime yönü verilen denge tepkimelerini kullanarak tahminlerinin geçerliliğini sorgulamaları istenir ( OB7 ) . Öğrencilerden çalışma yaprağında verilen çeşitli tepkime bileşenlerinin derişimlerini kullanarak tepkimelerin denge durumunu, dengede değil ise tepkimenin yönünü belirlemeleri istenebilir.",
+    "KİM.11.2.5",
+    "Öğrencilere \"Yaz günlerinde sığ deniz ve göllerde balıkların kafalarını suyun dışına çıkarmalarının veya hava sıcaklığı çok yükseldiğinde toplu balık ölümleri gözlemlenmesinin sebepleri neler olabilir?\" gibi sorular sorularak dengeyi etkileyebilecek etkenlere ilişkin olaylara dikkat çekilir. Öğrencilerden verilen etkinlik kâğıdında derişim, hacim, basınç, sıcaklık ve katalizör değişkenlerinin kimyasal dengeye etkisine ilişkin araştırma soruları oluşturmaları istenir. Öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları; bilimsel gelişim için merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri sağlanır ( D3.3 ) . Öğrencilerden her bir değişkenin dengeye etkisine ilişkin hipotezler oluşturmaları istenir ( OB7 ) . Öğrenciler; derişim hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisini deneyler yaparak ya da deney videolarını gözlemleyerek araştırmaları için yönlendirilir ( OB2 , OB4 ) . Böylece öğrencilerin görev ve sorumlulukları yerine getirmeleri için etkili bir yol haritası çizmeleri, hedeflerine ulaşmak için hazırladıkları planı uygulamaları, doğru ve güvenilir bilgiyi ayırt ederek güvenilir bilgiye ulaşma yollarını öğrenmeleri sağlanır ( D3.2 , D3.3 ) . Öğrencilerden derişim, hacim, basınç, sıcaklık ve katalizörün dengeye etkisini araştırmalarından elde ettiği verileri analiz ederek yorumlamaları istenir. Öğrenciler; derişim hacim, basınç, sıcaklık ve katalizör değişkenlerinin dengeye etkisini çarpışma kuramını kullanarak açıklar ( OB7 ) . Le Chatelier ilkesi açıklanır. Öğrencilerden dengeye etki eden faktörleri Le Chatelier ilkesi ile ilişkilendirmeleri istenir ( KB2.8 ). Etkinlik kâğıtları \"araştırma sorusu oluşturabilme, hipotez kurabilme, araştırma gerçekleştirebilme, verileri analiz edip yorumlayabilme, sonuçlarını çarpışma kuramına göre açıklayabilme ve Le Chatelier ilkesi ile ilişkilendirebilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen veya öğrenci tarafından değerlendirilebilir. Ayrıca öğrencilerden öğrenme sürecini değerlendirmelerine yönelik bir yansıtma notu yazmaları istenebilir ( SDB1.2 , SDB1.3 ) .",
+    "KİM.11.2.6",
+    "Saf suyun otoiyonizasyonunun tanımı ve otoiyonizasyon tepkime denklemi verilir. Öğrencilerin saf suyun otoiyonizasyonunu gözlemleyebileceği nitelikleri tanımlamaları sağlanır ( OB7 ) . Böylece öğrencilerin düşüncelerini etki altında kalmadan ifade etmeleri, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri, olaylar ve durumlar karşısında farklı bakış açıları olabileceğini kabul etmeleri sağlanır ( E2.1 , SDB2.1 , SDB2.3 , D11.2 , D14.1 ) . Öğrencilerin saf suyun (25 °C) otoiyonizasyonunu alt mikro ve sembolik seviyede gözlemleyebileceği ve pH, iletkenlik gibi veriler toplayabileceği simülasyonlar veya kanıt kartları kullanılır ( OB2 ) . pH değerinin H3O+ iyonları derişimi ile bağıntısını içeren matematiksel eşitlik verilir. Öğrencilerden saf suyun pH değerini ve iyonlar çarpımı sabitini (25 °C, Ksu) kullanarak sudaki H3O+ ve OH- iyonlarının derişimini hesaplamaları ve saf suyun otoiyonizasyonunu açıklamaları istenir ( OB7 ) . pH kavramıyla benzer formüle sahip olan pOH kavramı açıklanır. Öğrencilerden çıkış kartında saf suyun otoiyonizasyonunu alt mikro ve sembolik seviyede açıklamaları istenebilir.",
+    "KİM.11.2.7",
+    "Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin varsayımlarına ilişkin özellikleri esas alan sembolik ve alt mikro seviyede gösterimler üzerinden asit-baz tanımlarına ilişkin varsayımları öğrencilerin belirlemeleri sağlanır. Öğrencilerden asitlerin ve bazların sulu çözeltilerdeki davranışlarına ilişkin tepkime denklemleri ve alt mikro seviyedeki gösterimler yardımıyla Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin benzerliklerini ve farklılıklarını listelemeleri istenir ( OB4 ) . Brønsted-Lowry asit-baz tanımı kullanılarak eşlenik asit-baz çiftleri açıklanır. Asit ve bazlarda monofonksiyonel ve polifonksiyonel kavramları açıklanır. Ayrıca ametal oksitlerin asidik özelliği; suda çözünme denklemleri, modeller, deney veya deneysel veriler kullanılarak araştırmacı ve sorgulayıcı bakış açısıyla yorumlanır ( D3.3 ) . Öğrencilerden Venn diyagramı üzerinde Arrhenius ve Brønsted-Lowry asit ve baz teorilerinin benzerlik ve farklılıklarını listelemeleri istenebilir.",
+    "KİM.11.2.8",
+    "Öğrencilere etkinlik kâğıdında asitlerin ve bazların kuvvetlerine ilişkin iyonlaşma yüzdeleri, saf suda iyonlaşmasına ait tepkime denklemi gibi veriler verilir. Öğrencilerden bu verileri kullanarak asit-bazların kuvvetlerinin belirlenmesi amacıyla araştırma soruları oluşturmaları istenir ( OB1 ) . Öğrencilerin çeşitli fikir, argüman ve yeni bilgilere açık olmaları; bilimsel gelişim için merak duygusunun peşinden gitmeleri gerektiğini fark etmeleri sağlanır ( D3.3 ) . Öğrencilerin asitlerin ve bazların saf suda iyonlaşma yüzdelerini kullanarak asit ve baz kuvvetlerine ilişkin sembolik ve alt mikro seviyede modeller geliştirmeleri sağlanır. Öğrencilerden farklı asitlerin ve bazların kuvvetini karşılaştırmaları amacıyla aynı sıcaklık ve derişimde asit ve baz çözeltilerinin pH ve iletkenlik değerlerini ölçmeleri istenir. Öğrenciler, ölçtükleri pH ve iletkenlik değerlerini kullanarak hem inceledikleri asitlerin kuvvetlerini hem de bazların kuvvetlerini karşılaştırmaya yönlendirilir. Öğrencilerin karşılaştırma yaparken asit ve bazın saf suda iyonlaşma yüzdesini kullanmaları sağlanır. Öğrencilerden asitlerin ve bazların kuvvetine ilişkin açıklamalarını alt mikro ve sembolik seviyede gösterimleri kullanarak yapmaları istenir ( SDB2.1 ) . Asitlerin ve bazların kuvvetine ilişkin açıklamalarının bilimsel bilgiler ile değerlendirilmesi sağlanır ( OB1 , E3.6 ) . Etkinlik kâğıtları \"araştırma sorusu oluşturabilme, model geliştirebilme, araştırma gerçekleştirebilme, araştırma verilerini yorumlayabilme, verilere dayalı açıklama yapabilme ve açıklamalarını bilimsel bilgilerle karşılaştırabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğrenci ve öğretmen tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.11.2.9",
+    "Öğrencilerden derişimleri aynı monofonksiyonel kuvvetli asit ve zayıf asit çözeltilerinin pH değerlerine ilişkin özellikleri belirlemek için ölçüm yapmaları veya hazır veri seti kullanmaları istenir. Böylece öğrencilerin hedefine ulaşmak için plan yapmaları ve bu planı uygulamaları sağlanır ( SDB1.2 , D3.2 ) . Öğrencilerden incelenen monofonksiyonel kuvvetli asit ve zayıf asit çözeltilerinin pH değerlerine ilişkin verileri kullanarak H3O+ iyon derişimlerini hesaplamaları istenir. Öğrenciler, monofonksiyonel kuvvetli asit ve zayıf asit çözeltilerinin pH hesaplamalarına ilişkin benzerlik ve farklılıkları listelemeleri için yönlendirilir ( OB7 ) . Benzer hesaplamalar monofonksiyonel kuvvetli baz ve zayıf baz çözeltileri için de tekrarlanır. Bu hesaplamalarda yapılan ihmallerde büyük hatalar yapılmaması için asit (Ca) veya bazın (Cb) derişiminin ilgili K (Ka ve Kb) iyonlaşma sabitine oranının Ca/Ka > 102 ve Cb/Kb >102 olmasına dikkat edilir. Öğrencilerden çalışma yaprağında verilen kuvvetli asit, baz ve zayıf asit, baz çözeltilerinin pH hesaplamalarını yaparak kuvvetlerini karşılaştırmaları istenebilir.",
+    "KİM.11.2.10",
+    "Öğrencilerden makro, alt mikro ve sembolik seviyede gösterimleri kullanarak kuvvetli asitlerin ve kuvvetli bazların sulu çözeltileri karıştırıldığında gerçekleşen nötralleşme tepkimelerini gözlemleyebilmeleri için iletkenlik, pH değişimi ve indikatörün renk değişimi ölçütlerini belirlemeleri istenir ( OB1 ) . Öğrenciler, deney yaparak asit ve baz sulu çözeltilerinin nötralleşmesi ile ilgili tespit ettikleri ölçütlerin geçerliğini test eder. Deneyler ile öğrencilerin hedeflerine ulaşmak için etkili bir yol haritası çizerek çalışmalarını planlamaları ve hazırladıkları planı uygulamaları sağlanır ( D3.2 ) . Öğrenciler yaptıkları deneyden elde ettikleri verileri kullanarak alt mikro ve sembolik seviyede gösterimlerle nötralleşme olayını açıklar. Nötralleşme olayı ile ilgili matematiksel ilişkilendirmeyi yapar ( OB7 ) . Öğrencilerden makro ve sembolik gösterimleri kullanarak nörtalleşme olayını açıklamaları istenebilir. Ayrıca öğrencilere deney sürecinde kendilerini değerlendirmelerine, deney sürecinde yaşadıkları duyguları fark etmelerine ve süreci geliştirmek için yapılması gerekenleri belirlemelerine yönelik bir yansıtma raporu yazdırılabilir ( SDB1.1 , SDB1.2 , SDB1.3 ) .",
+    "KİM.11.2.11",
+    "Öğrencilere derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişiminin nasıl belirlenebileceğine yönelik sorular sorulabilir. Böylece öğrencilerin çeşitli fikir ve yeni bilgilere açık olmaları, olay ve durumları çok yönlü bakış açısıyla değerlendirmeleri, etkili iletişim kurmaları sağlanabilir ( SDB2.1 , D3.3 , D14.1 , E2.1 ) . Öğrenciler derişimi bilinen kuvvetli bir asit ya da kuvvetli baz çözeltisini kullanarak derişimi bilinmeyen kuvvetli bir baz ya da kuvvetli asit çözeltisinin derişimini belirlemeye yönelik deney planlamaları için yönlendirilir. Gruplar oluşturularak öğrencilerden planladıkları deneyi yapmaları, yaptıkları deneyden elde etikleri verileri kaydetmeleri istenir ( OB7 ) . Deney planlama ve yapma süreciyle öğrencilerin açık ve ulaşılabilir hedefler belirlemeleri, görev ve sorumluluklarını yerine getirmek için etkili bir yol haritası çizmeleri, çalışmalarda aktif rol almaları, ortak hedeflere ulaşmak için arkadaşlarıyla dayanışma içinde olmaları, zamanı etkili bir şekilde yöneterek hazırladığı planı uygulamaları sağlanır ( D3.2 , D3.4 , D4.1 ) . Öğrenci grupları, deneyden elde ettikleri verileri kullanarak derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişimini belirler ( SDB2.2 ) . Her öğrenci, deney raporunu belirlenen ölçütlere uygun şekilde bireysel olarak hazırlayabilir ( OB7 ) . Deney raporu, \"öğrencinin derişimi bilinmeyen kuvvetli asit ya da kuvvetli baz çözeltisinin derişimini belirleyebilmesi\" ölçütüne göre değerlendirilebilir. Çalışma öncesinde öğrencilerden bir form aracılığıyla konu ile ilgili ön bilgilerinin neler olduğunu, deney sürecinde neyi öğrenmeyi beklediğini, ne tür stratejiler kullanacağını ve bu süreçte neler hissedebileceğini belirlemeleri istenebilir ( SDB1.1 ) . Ayrıca öğrenciden öz değerlendirme formu aracılığıyla başlangıçta hedeflediği noktaya ulaşma durumunu, bu süreci kolaylaştıran davranışlarını ve neleri daha farklı yapabileceğini değerlendirmeleri istenebilir ( SDB1.2 , SDB1.3 ) .",
+    "KİM.11.2.12",
+    "Öğrencilere \"Vücut sıvılarındaki asitler ve bazlar arasındaki denge (pH) ile homeostazi arasında nasıl bir ilişki vardır?\" gibi bir soru sorularak kullanılan veya tüketilen ürünlerin vücut sağlığı üzerindeki etkisine dikkat çekilir ve öğrencilerin sağlıklı yaşam konusu kapsamında yorumları alınabilir ( D13.4 ) . Öğrencilere etkinlik kâğıdında mide, ağız, diş ve cilt sağlığı ile ilgili konularda [farklı diş macunlarının dişleri koruma etkisi, kullanılan diş macunu miktarının ağız içi pH değerine etkisi, farklı ağız çalkalama sularının ağız sağlığını koruma özellikleri, asidik veya bazik özelliğe sahip yiyecek ve içeceklerin, mide ilaçlarının (proton inhibitörleri, mide koruyucular vb.) mide sağlığına etkileri, cilt bakım ürünlerinin farklı ciltler için uygunluğu] araştırma soruları verilir. Öğrenciler, verilen araştırma soruları arasından birini seçer. Seçtiği araştırma sorusundan yola çıkarak belirlediği amacı etkinlik kâğıdına yazar. Aynı soruyu seçen öğrencilerden grup oluşturulur ve bu grupların amaçlarına yönelik deneyleri bilimsel bakış açısıyla gerçekleştirmeleri sağlanır ( D3.3 , D3.4 , SDB2.1 , SDB2.2 , E3.9 ). Öğrenciler, deneydeki gözlemlerine dayanarak asidik veya bazik özelliğe sahip ürünlerin sağlığa etkisine yönelik önermelerini etkinlik kâğıdına yazmaları için yönlendirilir. Öğrencilerin \"En bazik diş macunu gece boyunca dişleri daha iyi korur.'' gibi önermeler üzerinden mantıksal denetleme yapmaları sağlanır ( OB7 ). Öğrenciler; mide, ağız, diş ve cilt sağlığı için mantıksal denetleme yaptığı ürünlerden uygun olanını seçer. Mide, ağız, diş ve cilt sağlığı için seçtiği ürünlerin etkisine yönelik yansıtmalarını etkinlik kâğıdına yazar. Öğrencilerin yapmış olduğu yansıtmayı genişletmesi için gün içinde ya da sabah kullanılacak diş macununun seçimine ilişkin düşünce ve duyguları sorulabilir. Böylece öğrencilerin yenen ve içilenler ile dişlerin gün boyu daha az asidik ortamda kaldığı ancak gece boyunca asidik ortamda artış olduğunu fark etmeleri sağlanabilir. Böylece sağlıklı yaşam değerine vurgu yapılabilir ( D13.4 ) . Gruplar, farklı veya benzer ürünler seçerek etkinlik yapmaları için yönlendirilebilir ( SDB1.1 , SDB3.3 ) . Etkinlik kâğıtları \"amaç belirleyebilme, bilgi elde edebilme, önerme oluşturabilme, mantıksal denetleme yapabilme, uygun ürün seçebilme ve yansıtma yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından değerlenderilebilir. Ayrıca öğrencilerin grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. Öğrencilerden öğrendikleri bilgileri yakın çevresi ile paylaşmaları istenebilir ( SDB1.2 , SDB2.3 , OB1 ) .",
+    "KİM.11.2.13",
+    "Öğrencilere \"Dişler neden çürür?\", \"Çocukların dişleri yetişkinlere göre neden daha fazla çürür?\" gibi sorular sorularak çözünürlük dengesinin günlük hayata etkisi üzerine dikkat çekilir. Suda az çözünen bir tuzun çözünme denklemi öğrencilere verilerek bu tuzun suda çözünme sürecine ilişkin alt mikro seviyede süreç aşamalı bir model oluşturmaları öğrencilerden istenir. Öğrenciler, oluşturduğu modeli kabul gören bilimsel modeller (animasyonlar, süreç aşamalı görseller vb.) ile karşılaştırır. Çözünürlük çarpımı sabitlerini kullanarak suda az çözünen tuzların molar çözünürlüklerine ilişkin hesaplama yapar. Öğrencilerin suda az çözünen farklı tuzların çözünürlük çarpım sabitlerini kullanarak çözünürlüklerine ilişkin yargıya varmaları sağlanır ( KB2.14 , OB4 ) . Öğrencilerden çalışma yaprağında verilen suda az çözünen çeşitli tuzların molar çözünürlükleri ve çözünürlük çarpımları arasında ilişki kurmayı gerektiren problemleri cevaplandırmaları istenebilir.",
+    "KİM.11.2.14",
+    "Öğrencilerden suda az çözünen tuzların çözünürlüğüne etki eden faktörlerin etkisini gözlemleyebileceği (video, animasyon, deney vb.) farklı ortamlar oluşturmaları istenir ( OB2 ) . Öğrencilerin ortak iyonun ve sıcaklığın bir tuzun çözünürlüğüne etkisini belirlemeleri için farklı tuz örneklerine ait verilen molar çözünürlük ve Kç değerlerini kullanmaları sağlanır. Öğrenciler, verileri kullanarak ortak iyonun ve sıcaklığın çözünürlüğe etkisine ilişkin çıkarımlarda bulunur ve çıkarımlarını etkili iletişim becerilerini kullanarak sınıf ortamında paylaşır ( SDB2.1 , D14.1 , E2.2 ) . Öğrencilerin suda az çözünen tuzların çözünürlüğüne etki eden faktörlere ilişkin çıkarımlarını Le Chatelier ilkesi ile ilişkilendirerek açıklamaları sağlanır ( OB1 ) . Performans görevi çerçevesinde öğrencilerden sıcaklık ve ortak iyonun bir tuzun çözünürlüğüne etkisini araştırmaları için bir deneyi tasarlamaları, uygulamaları, raporlamaları istenebilir ( SDB1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D11.2",
+      "D13.4",
+      "D14.1",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D4.1",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.1",
+      "E2.2",
+      "E3.10",
+      "E3.6",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB2.13",
+      "KB2.14",
+      "KB2.2",
+      "KB2.8"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/162"
+}

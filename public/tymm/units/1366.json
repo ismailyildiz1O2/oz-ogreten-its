@@ -1,0 +1,53 @@
+{
+  "unitId": 1366,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "2. TEMA: RİTİM KALIPLARINI YAZMA",
+  "hours": "23",
+  "description": "Temanın amacını temel ritmik kalıpları yazarak icra perspektifine katkıda bulunma oluşturmaktadır. Bu doğrultuda temel ritim kalıplarını tanımak, ayırt etmek ve yazabilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "UD.3.2.1",
+      "title": "Seslendireceği egzersizleri yazabilme",
+      "processComponents": [
+        "a) Ritmik bileşenleri tanır.",
+        "b) Ritmik bileşenleri işitsel olarak ayırt eder.",
+        "c) Ritmik ve ezgisel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "müziksel yazma, ölçü, ud, usul",
+  "support": [
+    "Öğrencinin notaları somutlaştırması için renkli kartlar kullanılabilir. Her ritmik değer farklı bir renk ile temsil edilir (dörtlük nota: kırmızı, sekizlik nota: mavi). Öğrenci bu kartları sıralayarak bir ritmik kalıp oluşturabilir. Ritmik kalıpları yazmak için önce öğretmen bir örnek yazarak bu örneği öğrenciyle birlikte seslendirebilir. Daha sonra öğrenci, benzer bir ritmik kalıbı kendisi yazmaya teşvik edilebilir. Öğrenciye yalnızca iki farklı ritmik değer ile sınırlı alıştırmalar verilebilir. Ritmik değerlerin nasıl yazıldığını gösteren bir çalışma kâğıdı hazırlanabilir. (dörtlük notanın şekli ve süresi). Öğrencinin bu rehberle notaları doğru bir şekilde yazması sağlanabilir. Öğretmen, öğrencinin yazdığı ritmik kalıbı çalabilir. Bu şekilde öğrencinin yazdığı kalıbın ses karşılığını duyarak öğrenmesi pekiştirilebilir. Her öğrenme aşamasında sık sık tekrar yapılabilir. Öğrencinin yazdığı ritmik kalıplar üzerinde tekrar çalışması sağlanarak kendine güveni artırılabilir."
+  ],
+  "enrichment": [
+    "Daha karmaşık sus ve senkop örneklerinin olduğu örnekler yazması istenebilir. Seçtikleri bir ud sanatçısının eserlerini ve çalım tekniklerini analiz ederek kendileri için küçük etütler çıkarabilirler."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kısa cevaplı sorular, eşleştirme soruları ve bulmacadan oluşan çalışma kâğıtları ile kontrol listesi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerin farklı usullerde ritim kalıplarını yazmaları verilebilir. Verilen performans görevi, analitik dereceli puanlama anahtarı ve gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.3.2.1",
+    "Kolay mızrap hareketleri ile çalınabilecek egzersizler tahtaya yazılır ve öğrencilerden bu egzersizleri okumaları istenir ( SAB6 ). Daha sonra kolay mızrap hareketleri öğretmen tarafından çalınır. Merak etmeleri beklenir ( E1.1 ). Temel (Ankara, Karaman, Gelibolu vb.) ritmik kalıpları tanımaları beklenir. Bu süreç; kısa cevaplı sorular, eşleştirme soruları ve bulmacadan oluşan çalışma kâğıtları kullanılarak değerlendirilebilir. Yakın örneklerden oluşan çeşitli gruplamalar ve usuller sorulur (Karaman-Gelibolu) ve bu örnekleri istikrarlı bir şekilde ( D3.1 ) ayırt etmeleri istenir ( SDB2.1 , KB2.11 ). Daha sonra planlı ve gayretli çalışmanın önemi vurgulanır ( D3.1 ). Kendi ritim örneklerini yazmaları istenir ( SAB11 ). Öğrencilerin farklı usullerde ritim kalıplarını kullanmalarına yönelik performans görevi verilebilir. Verilen performans görevi; analitik dereceli puanlama anahtarı, kontrol listesi ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.11"
+    ],
+    "diger": [
+      "SAB11",
+      "SAB6"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1366"
+}

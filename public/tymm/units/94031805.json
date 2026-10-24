@@ -1,0 +1,35 @@
+{
+  "unitId": 94031805,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "5. ÜNİTE: DİN VE TEMİZLİK",
+  "hours": "12",
+  "description": "Bu ünitede sırasıyla; “İslam Dini ve Temizlik”, “Bedenimi ve Giysilerimi Temiz Tutarım”, “Evimi ve Okulumu Temiz Tutarım”, “Çevremi Temiz Tutarım” konularına yer verilir. Ünite genelinde konular, günlük hayattan ve öğrencilerin somut deneyimlerinden örneklerle işlenir. Ayrıca ayet ve hadisler başta olmak üzere, temiz olmayı teşvik eden atasözü, vecize, beyit, ilahi, nefes gibi edebî metinlerden yararlanılır.",
+  "outcomes": [
+    {
+      "code": "DKAB.4.5.1",
+      "title": "İslam dininin temizliğe verdiği öneme örnekler verir",
+      "processComponents": [
+        "İbadet temizlik ilişkisine ve abdestin alınışına değinilir.",
+        "Ahlaki güzellik ile manevi temizlik arasında ilişki kurulur."
+      ]
+    },
+    {
+      "code": "DKAB.4.5.2",
+      "title": "Temiz ve düzenli olmaya özen gösterir",
+      "processComponents": [
+        "Ev, okul ve çevre temizliğinin yanı sıra öğrencilerin öz bakım becerilerini geliştirecek; yemek öncesi ve sonrası el ve ağız temizliği, beden, giysi temizliği gibi konular üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229134650712-DKAB_%284-8.%20S%C4%B1n%C4%B1f%29_DOP_%202018.pdf"
+}

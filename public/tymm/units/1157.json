@@ -1,0 +1,56 @@
+{
+  "unitId": 1157,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "1. TEMA: GİTARDA SAĞ EL BAŞPARMAĞIMI KULLANIYORUM",
+  "hours": "26",
+  "description": "Temada öğrencilerin sağ el başparmaklarını kullanabilmeleri amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "GTR.4.1.1",
+      "title": ". Gitarda sağ el başparmağını kullanabilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.4.1.2",
+      "title": ". Gitarda sağ el egzersizleri yapabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "başparmak, egzersiz, sağ el",
+  "support": [
+    "Yavaş bir tempoda çalınarak parmakların doğru pozisyonda olması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere sağ el koordinasyonlarını artırmak için basit bir arpej modeli içeren egzersiz parçaları verilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak öğrencilerden poster hazırlamaları istenebilir. Performans görevi kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.4.1.1",
+    "Öğrenciler önce açık tel üzerinde başparmaklarını kullanarak tek tek ses çıkarmaya çalışırlar. Başlangıçta 6. telden başlayarak planlı bir şekilde 4. tele kadar her telde kontrollü vuruş yapmaları sağlanır ( D3.2 ). Bu süreçte telleri nasıl çekip bıraktıkları, başparmağın konumunu ve hareketini nasıl kontrol ettikleri gözlemlenir. Başparmağın sadece eklemden değil bilekten ve tüm koldan destek alarak doğal bir hareketle telleri çalması gerektiği vurgulanır ( SDB2.1 ). Daha sonra, öğrencilerin başparmaklarını kullanarak belirli bir ritimle çalışmaları ve arkadaşlarını seyredip gözlem yapmaları sağlanır ( KB2.2 ). Önce basit bir ritmik model belirlenir: \"Uzun-Kısa-Uzun-Kısa\" gibi tekrar eden bir düzen kullanılır. Öğretmen öğrencilerle birlikte sayarak veya ritmi vurarak onları yönlendirir. Öğrenciler bu modeli 6 ve 5. tellerde uygular. Bir sonraki aşamada öğrenciler başparmaklarını kullanarak küçük bir egzersiz çalarlar. Örneğin 6. tel – 5. tel – 4. tel – 5. tel gibi basit bir dizilim verilir. Öğrenciler önce bu hareketi yavaşça ve doğru bir teknikle yapmaya çalışır. Daha sonra hızlarını kademeli olarak artırarak istikrarlı bir şekilde çalmaya yönlendirilirler ( D12.3 ). Son olarak öğrenciler öğrendikleri tekniği bir müzik parçası içinde kullanırlar. Basit bir ezgi ya da ritmik model içeren bir çalışma seçilir. Öğrenciler, müziğin temposuna uygun şekilde başparmakların odaklanarak çalmaya teşvik edilir ( E3.2 ). Ders sonunda öğretmen öğrencilerin başparmak kullanımını değerlendirerek geri bildirim verir ve hangi noktaların daha çok çalışılması gerektiğini vurgular.",
+    "GTR.4.1.2",
+    "Öğretmen, dersin başında öğrencilerle birlikte gitarın sağ el tekniklerine dair kısa bir beyin fırtınası yapar. Daha sonra, sağ elin çalma tekniklerini geliştirmeye yönelik temel egzersizlere odaklanılacağını açıklar ( E3.2 ). İlk aşamada öğrenciler apoyando (destekli vuruş) ve tirando (serbest vuruş) tekniklerinin farkını gözlemlemeleri için öğretmeni dinler. Öğretmen, açık teller üzerinde her iki teknikle de basit vuruşlar yaparak ses farklarını gösterir. Öğrencilerden sağ elleriyle hangi teknik kullanıldığını tahmin etmeleri istenir. Daha sonra öğrenciler bireysel olarak açık teller üzerinde tirando tekniği ile tek tek ses çıkarmaya çalışırlar. Öğretmen, parmakların (p, i, m, a) doğru sıralama ile kullanılması gerektiğini hatırlatır. Öğrenciler baş parmak (p) ile 6, 5 ve 4. telleri; işaret (i) ve orta parmak (m) ile 3, 2 ve 1. telleri çalarak ellerini alıştırırlar. Bir sonraki aşamada öğrenciler sağ ellerini kullanarak belirli bir ritmik model ile egzersiz yaparlar. Örneğin • i – m – i – m (2 ve 3. tellerde) • p – i – m – i (6, 3 ve 2. tellerde) • p – i – m – a – m – i (tüm tellerde yaygın bir arpej modeli) Bu egzersizlerde öğrencilerin parmaklarını rahatça hareket ettirmeleri ve bileklerini gereksiz yere sıkmadan doğal bir akış yakalamaları sağlanır. Daha sonra basit bir arpej modeli içeren bir egzersiz parçası çalışılır. Öğrenciler bu egzersizi önce yavaş bir tempoda, ardından metronom eşliğinde hızlarını artırarak çalarlar. Öğrencilerden performans görevi olarak parmak isimleriyle ilgili poster hazırlamaları istenir. Öğrenciler parmak isimlerinin olduğu görselleri inceleyerek poster oluştururlar ( OB4 ). Performans görevi kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.2"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1157"
+}

@@ -1,0 +1,44 @@
+{
+  "unitId": 80791014,
+  "grade": 12,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Osmanlı Türkçesi Dersi",
+  "title": "14. ÜNİTE: HAT ÇEŞİTLERİ, ÇEVİRİ YAZI SİSTEMİ VE HARFLERİN SAYI DEĞERLERİ (EBCET)",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OSM.12.2.1.1",
+      "title": "Hat çeşitlerini ayırt eder",
+      "processComponents": [
+        "Alfabenin bütün harflerini gösterecek şekilde seçilen kelime ve cümleler farklı hatlarla yazılmalı; öğrencilerin mukayese yaparak nesih, rika, sülüs, talik, kûfi, divani yazıları ayırt etmelerine imkân tanınmalıdır."
+      ]
+    },
+    {
+      "code": "OSM.12.2.1.2",
+      "title": "Hat sanatının estetik boyutunu açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "OSM.12.2.2.1",
+      "title": "Çeviri yazı sistemini tanır",
+      "processComponents": [
+        "Çeviri yazı sisteminin daha çok akademik çalışmalarda kullanıldığı belirtilmelidir.",
+        "Çeviri yazıya aktarılmak üzere Osmanlı Türkçesiyle yazılmış örnek metinler verilmelidir."
+      ]
+    },
+    {
+      "code": "OSM.12.2.3.1",
+      "title": "Osmanlı Türkçesi alfabesindeki her harfin bir rakam karşılığı olduğunu kavrar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930144419862-Osmal%C4%B1%20T%C3%BCrk%C3%A7esi%20d%C3%B6p.pdf"
+}

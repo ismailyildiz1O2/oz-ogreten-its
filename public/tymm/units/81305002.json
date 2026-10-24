@@ -1,0 +1,52 @@
+{
+  "unitId": 81305002,
+  "grade": 11,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sürdürülebilir Tarım ve Gıda Güvenliği Dersi",
+  "title": "2. ÜNİTE: SÜRDÜRÜLEBİLİR TARIM",
+  "hours": "26",
+  "description": "Bu ünitenin sonunda öğrenciler; sürdürülebilir tarımın amacını, ilkelerini, gelişim sürecini ve bileşenlerini kavrayacak, sürdürülebilir tarıma yönelik uygulama ve sürdürülebilir tarımla ilgili güncel yaklaşımlar hakkında bilgi edinebileceklerdir. Sürdürülebilir tarımda uygulanan tarımsal faaliyetleri yorumlayabilecek, sürdürülebilir tarımın günümüzde değişen anlamını fark edebileceklerdir.",
+  "outcomes": [
+    {
+      "code": "STG.2.1",
+      "title": "Sürdürülebilir tarımın gelişim sürecini açıklar",
+      "processComponents": [
+        "Sürdürülebilir tarımın amacı ve ilkelerini kavramaları sağlanır. Sürdürülebilir tarım fikrinin ortaya çıkma nedenini ve bu fikrin gelişim sürecini gösteren infografik hazırlamaları sağlanır.",
+        "Geleneksel tarım ile modern tarım yöntemlerini sürdürülebilirlik açısından karşılaştırır."
+      ]
+    },
+    {
+      "code": "STG.2.2",
+      "title": "Sürdürülebilir tarımın temel bileşenlerini ayırt eder",
+      "processComponents": [
+        "Tarımsal faaliyetlerdeki ekonomik, çevresel ve sosyal sürdürülebilirlik kavramları ele alınır.",
+        "Küresel iklim değişikliğinin ülkelerin tarım yöntemi politikalarında gerçekleştirdiği dönüşüme örnekler verilir."
+      ]
+    },
+    {
+      "code": "STG.2.3",
+      "title": "Sürdürülebilir tarım uygulamalarını analiz eder",
+      "processComponents": [
+        "Sürdürülebilir tarım uygulamalarını (iyi tarım uygulamaları, organik tarım, akıllı tarım, kırsal kalkınma, sözleşmeli tarım) sorgulamaları sağlanır.",
+        "Sürdürülebilir tarımda kullanılan uygulama örneklerinden oluşan sunu hazırlamaları ve dijital ortamda paylaşmaları sağlanır."
+      ]
+    },
+    {
+      "code": "STG.2.4",
+      "title": "Sürdürülebilir tarımda uygulanan tarımsal faaliyetleri ifade eder",
+      "processComponents": [
+        "Sürdürülebilir tarımda bitkisel ve hayvansal üretimin üzerinde durulur.",
+        "Sürdürülebilir tarımsal faaliyetleri ayırt etmeleri sağlanır.",
+        "Küresel iklim değişikliği açısından tarımsal faaliyetlerin geleceği ile ilgili infografik hazırlamaları sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/202311231660129-S%C3%9CRD%C3%9CR%C3%9CLEB%C4%B0L%C4%B0R%20TARIM%20VE%20GIDA%20G%C3%9CVENL%C4%B0%C4%9E%C4%B0%20DERS%C4%B0-11%20ekim.pdf"
+}

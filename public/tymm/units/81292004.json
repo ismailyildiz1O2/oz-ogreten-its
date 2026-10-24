@@ -1,0 +1,40 @@
+{
+  "unitId": 81292004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Düşünme Eğitimi Dersi (Lise)",
+  "title": "4. ÜNİTE: PROBLEM ÇÖZME VE KARAR VERME",
+  "hours": "10",
+  "description": "Bu ünitenin sonunda öğrenciler problemlerin çözümünde problem çözme aşamalarını uygulayabilme ve karar verme sürecini etkili bir biçimde yürütebilme yetilerini kazanacaklardır.",
+  "outcomes": [
+    {
+      "code": "DEL.4.1",
+      "title": "Problemlerin çözümünde problem çözme aşamalarını uygular",
+      "processComponents": [
+        "Günlük yaşamda karşılaşılan problemlerin neden problem olarak görüldüğü örneklerle açıklanır.",
+        "Problem çözme aşamaları açıklanarak örnek bir problemin çözümünde problem çözme aşamalarının uygulanması sağlanır.",
+        "Problem çözmede yaratıcı düşünmenin önemi vurgulanır. Türk tarihinden yaratıcı problem çözümleri ile ilgili araştırma yapılarak problem çözmede yaratıcı düşünmenin öneminin değerlendirilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.4.2",
+      "title": "Karar verme sürecini etkili bir biçimde yürütür",
+      "processComponents": [
+        "Karar verme türleri (stratejik, taktiksel ve operasyonel; bireysel düzeyde ve grup düzeyinde) açıklanır.",
+        "Belirlenen bir konu ile ilgili verilecek bir kararda amaç, ölçüt, sınırlama (tahdit) ve seçeneklerin önemi vurgulanır.",
+        "Kararların fırsat maliyetlerine değinilir.",
+        "Belirsizlikler varken etkili karar verme sürecine değinilir.",
+        "Karar vermede ahlaki değerlerin önemi vurgulanır. Uygulamalı etiğin kapsamına giren bir sorun ile ilgili karar verme sürecinin yürütülmesi ve verilen kararın, olası sonuçları açısından değerlendirilmesi sağlanır.",
+        "Karar vermede yaratıcı düşünmenin önemi üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112315487348-DUSUNME%20E%C4%9E%C4%B0T%C4%B0M%C4%B0%20D%C3%96P%2024ekim202.pdf"
+}

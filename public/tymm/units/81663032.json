@@ -1,0 +1,98 @@
+{
+  "unitId": 81663032,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "32. ÜNİTE: PROGRAMLAMA DİLLERİ (DART) - 2. ÜNİTE: NESNE TABANLI PROGRAMLAMA VE ASENKRON PROGRAMLAMA",
+  "hours": "18",
+  "description": "Bu ünitede; dart programlama dilinde nesne tabanlı programlama, sınıf ve nesne kavramları açıklanır. Constructor yöntemlerini, kalıtımı ve arayüzleri kullanarak program geliştirme ile dart programlama dilindeki istisna (exception) mekanizmasını kullanma anlatılır. Fonksiyonel programlama özelliklerini kullanarak yüksek düzeyde fonksiyonları yönetme ve dart programlama dilinde asenkron programlamanın önemi üzerinde durulur. Asenkron programlamada Future ve Stream kavramlarından bahsedilir. Asenkron programlamada async/ await yapısını kullanma ile dart programlama dilinde dosya işlemleri yapma ve veri okuma/yazma işlemleri uygulamalı gösterilir.",
+  "outcomes": [
+    {
+      "code": "BTY.32.1",
+      "title": "Dart programlama dilinde nesne tabanlı programlama konusunu kavrar",
+      "processComponents": [
+        "Nesne tabanlı programlamanın temel kavramları ve prensipleri açıklanır.",
+        "Nesne tabanlı programlamanın önemi ve yazılım geliştirme sürecindeki avantajları vurgulanır.",
+        "Dart programlama dilinde nesne tabanlı programlamanın nasıl kullanılacağı açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.32.2",
+      "title": "Sınıf ve nesne kavramlarını açıklar",
+      "processComponents": [
+        "Dart programlama dilinde sınıf kavramı açıklanır.",
+        "Nesnelerin sınıflardan nasıl türetildiği ve nesne tabanlı programlamanın nasıl çalıştığı açıklanır.",
+        "Dart programlama dilinde sınıfların ve nesnelerin özellikleri ile metotlarının tanımlanma şekli açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.32.3",
+      "title": "Constructor yöntemlerini, kalıtımı ve arayüzleri kullanarak programlar geliştirir",
+      "processComponents": [
+        "Sınıfların constructor metotlarını nasıl tanımlayacağı açıklanır.",
+        "Kalıtım kavramı ve alt sınıfların üst sınıflardan nasıl türetildiği açıklanır.",
+        "Dart programlama dilinde arayüz tanımlama ve uygulama işlemleri açıklanır.",
+        "Constructor ve kalıtım yöntemini kullanarak uygulama hazırlama gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.32.4",
+      "title": "Dart programlama dilindeki istisna (exception) mekanizmasını kullanmayı kavrar",
+      "processComponents": [
+        "İstisna (Exception) kavramı açıklanır ve hata yönetiminin önemi vurgulanır.",
+        "Dart programlama dilinde istisna yakalama ve işleme mekanizmaları açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.32.5",
+      "title": "Fonksiyonel programlama özelliklerini kullanarak yüksek düzeyde fonksiyonları yönetir",
+      "processComponents": [
+        "Dart programlama dilinde fonksiyonların birinci sınıf nesneler olduğu vurgulanır.",
+        "Yüksek düzeyde fonksiyonlar, lamda ifadeleri ve işlevsel programlama özellikleri açıklanır.",
+        "Fonksiyonel programlamanın faydaları ve kodları basitleştirmedeki önemi vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.32.6",
+      "title": "Dart programlama dilinde asenkron programlamanın önemini kavrar",
+      "processComponents": [
+        "Asenkron programlamanın açıklaması yapılır ve önemi vurgulanır.",
+        "Dart programlama dilinde asenkron programlamanın uygulanma yöntemi açıklanır.",
+        "İş parçacığı (thread) bloklamadan kaçınmanın ve kullanıcı arayüzü etkileşiminin geliştirilmesi açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.32.7",
+      "title": "Future ve Stream terimlerini kavrar",
+      "processComponents": [
+        "Future ve Stream yapılarının asenkron programlamadaki kullanım şekli açıklanır.",
+        "Asenkron işlemlerden gelecek sonuçları Future ve Stream ile nasıl işleneceği açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.32.8",
+      "title": "Asenkron operasyonların yönetimini sağlamak için async/await yapısını kullanmayı kavrar",
+      "processComponents": [
+        "Async/await anahtar kelimelerinin anlamları açıklanır.",
+        "Dart programlama dilinde asenkron async/await yapısını kullanılarak karmaşık kodların yönetilme süreci açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.32.9",
+      "title": "Dart programlama dilinde dosya işlemleri yapar",
+      "processComponents": [
+        "Dosya işlemlerinin gerçekleştirilme şekli ve dosyalardan veri okuma-yazma işlemleri açıklanır.",
+        "Dart programlama dilinde dosya işlemleri yapılırken hata yönetimi ve güvenlik konularının önemi vurgulanır.",
+        "Dosya işlemleri kullanılarak verilerin depolanma ve okunma işlemlerinin örnekleri yaptırılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

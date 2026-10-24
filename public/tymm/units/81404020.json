@@ -1,0 +1,69 @@
+{
+  "unitId": 81404020,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "20. ÜNİTE: GÜREŞTE TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.5.4.1",
+      "title": "Güreşte ayakta yapılan teknikleri açıklar",
+      "processComponents": [
+        "Tek kol tekniği üzerinde durulur.",
+        "Kafakol tekniği üzerinde durulur.",
+        "Tek dalma tekniği üzerinde durulur.",
+        "Çift dalma tekniği üzerinde durulur.",
+        "Dana bağı tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.5.4.2",
+      "title": "Güreşte ayakta yapılan teknikleri uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.5.4.3",
+      "title": "Güreşte yerde yapılan teknikleri açıklar",
+      "processComponents": [
+        "Çırpma tekniği üzerinde durulur.",
+        "Kle tekniği üzerinde durulur.",
+        "Kazkanadı tekniği üzerinde durulur.",
+        "Kilit tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.5.4.4",
+      "title": "Güreşte yerde yapılan teknikleri uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.5.4.5",
+      "title": "Güreşte ayakta ve yerde yapılan teknikleri açıklar",
+      "processComponents": [
+        "Künde tekniği üzerinde durulur.",
+        "Boyunduruk tekniği üzerinde durulur.",
+        "Supleks tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.5.4.6",
+      "title": "Güreşte ayakta ve yerde yapılan teknikleri uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.5.4.7",
+      "title": "İzlediği veya katıldığı güreş müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

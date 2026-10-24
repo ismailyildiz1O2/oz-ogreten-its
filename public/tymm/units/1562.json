@@ -1,0 +1,47 @@
+{
+  "unitId": 1562,
+  "grade": 0,
+  "gradeName": "GÖRGÜ KURALLARI VE NEZAKET DERSİ DÜZEY II",
+  "subject": "Görgü Kuralları ve Nezaket Dersi",
+  "title": "DÜZEY II · 2. Tema: Doğaya Saygı Yaşama Nezaket",
+  "hours": "22",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GKN.2.2.1",
+      "title": "İnsanın doğayla etkileşimi sırasında görgü kuralları ve nezakete uygun davranmasının sonuçlarını özetleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "GKN.2.2.2",
+      "title": "Çevre bilincinin oluşmasında görgü kuralları ve nezaketin rolünü yorumlayabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "çevre bilinci, doğa, doğal denge, duyarlılık, ekolojik farkındalık, hayvan hakları, insan-doğa ilişkisi, ortak yaşam alanı, sürdürülebilirlik, temizlik, toplumsal sorumluluk",
+  "support": [
+    "21 Mart Uluslararası Ormancılık Günü, 22 Mart Dünya Su Günü, 30 Mart Uluslararası Sıfır Atık Günü, 4 Ekim Hayvanları Koruma Günü vb. çevre bilincine dikkat çeken özel günler ile ilgili EBA'dan veya MEB onaylı dijital kaynaklardan animasyon, kamu spotu vb. içerikler izlemeleri sağlanabilir. Çevreye nazik olmanın önemi ile ilgili sloganlar hazırlaması istenebilir."
+  ],
+  "enrichment": [
+    "21 Mart Uluslararası Ormancılık Günü, 22 Mart Dünya Su Günü, 30 Mart Uluslararası Sıfır Atık Günü, 4 Ekim Hayvanları Koruma Günü vb. çevre bilincine dikkat çeken özel günler ile ilgili araştırma ödevi verilebilir. İnsanlarda doğaya karşı nezaketi oluşturabilmek için bu özel günler gibi bir gün tasarlaması istenebilir."
+  ],
+  "assessment": [
+    "Bu temada yer alan öğrenme çıktıları; açık uçlu sorulardan oluşan çalışma yaprağı, kısa cevaplı sorulardan oluşan test, zihin haritası, çalışma yaprağı, sözcük ilişkilendirme, kontrol listesi, performans görevi, gözlem formu, dereceli puanlama anahtarı, grup değerlendirme formu ve öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden çevrelerini bilinçlendirmek amacıyla farklı sorumluluk çalışmaları yapmaları ve bu çalışmalarda poster, kısa film, el broşürü, sunum, dijital içerikler vb. hazırlamaları istenebilir. Hazırlanan ürünler; kontrol listesi, gözlem formu, öz değerlendirme formu, akran değerlendirme formu, bütüncül dereceli puanlama anahtarı gibi araçlarla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GKN.2.2.1",
+    "Öğretmen, sınıfa getirdiği haber metinleri üzerinden doğaya saygı ve nezaket gösterilmediğinde neler olabileceği konusunda birlikte çıkarım yapacaklarını belirtir ( D14.3 , KB2.10 ). Öğrencilere öncelikle haber metinlerindeki görsellerin neyi ifade ettiği sorularak görsel sanatlar dersi ile ilişki kurulur ( OB4 ). Bu süreçte altı şapkalı düşünme tekniği uygulanabilir. Öğrenciler gruplara ayrılır. Her grup haberleri değerlendirir ve sunar ( SDB2.1 , SDB2.2 , D16.3 , KB3.3 ). İncelenen haber metinlerine dayalı sorular aracılığıyla öğrencilerde insan-doğa ilişkisine yönelik farkındalık oluşturulur. Öğrencilerden sunulan metinlerdeki durumları görgü ve nezakete uygun davranışların doğaya etkileri ve görgü ve nezakete uygun olmayan davranışların doğaya etkileri şeklinde gruplandırmaları beklenir ( KB3.1 ).",
+    "Doğanın bir dengesinin olduğu, bu denge içerisinde her canlının bir rolü olduğu örnekler üzerinden açıklanır. Doğal dengenin korunması için insanların nelere dikkat etmesi gerektiği üzerine tartışma ortamı oluşturulur. Öğrencilere insan ve doğa ilişkisini açıklarken temizlik ve duyarlılık değerleri temel alınarak çevreyi temiz tutma, doğayı ve canlıları koruma, ağaç sevgisi gibi insanın doğaya olumlu etkilerine değinilir. Doğayı ve canlıları korumanın önemi vurgulanır ( D5.2 , D9.3 , D18.2 ). Bu süreçte öğrencilerin Okul Dışı Öğrenme Platformu’nu (okuldisiogrenme.eba.gov.tr) ziyaret ederek “Okul Dışı Öğrenme Ortamlarını Keşfet” sayfasındaki harita üzerinde belirledikleri ili seçmeleri, bu ildeki müzeleri tanıtan sayfaları incelemeleri sağlanır. İnsan doğa ilişkisini tartışmak üzere Ege Ünv. Tabiat Tarihi Müzesi ziyaret edilebilir.",
+    "Öğrencilerden “Doğada bir gün” veya “Bir hayvanın gözünden doğaya karşı nazik davranan insanlar” temalı hikâyeler yazmaları istenerek Türkçe dersi ile ilişki kurulur. Bu noktada serbest yazma, kavram havuzundan seçerek yazma ya da hikâye tamamlama teknikleri uygulanabilir ( E3.3 ). Dijital öykü oluşturma araçlarının da kullanılabileceği belirtilir ( SDB2.1 , OB2 ).",
+    "Performans görevi olarak öğrencilerden derste yazdıkları hikâyeye uygun kapak tasarımı yaparken doğadaki estetik unsurları (renk, desen, uyum) fark etmeleri ve tanıtıcı yazı yazmaları istenebilir ( E3.3 , D7.3 ). Hazırlanan kitap kapakları ve tanıtım yazıları bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "GKN.2.2.2",
+    "Öğrencilere “Kaç kişi yerdeki çöpü kaldırıyor?\",\" Kaç kişi geri dönüşüme katkıda bulunuyor?\" vb. soruları içeren basit bir anket sunulur. Anket sonucu sütun grafiği ya da pasta grafiğine dökülür. Matematik dersi veriye dayalı karar verme konusu ile bağlantı ile kurulur. Öğrencilerden “Sizce bu veriler bize ne söylüyor?” sorusu ile grafiği yorumlamaları istenir ( OB7 ). Grafik dijital ortamda da hazırlanabilir. Öğrencilerin nezaketli ve görgü kurallarına uygun davranışların çevreyle ilişkisini fark etmeleri sağlanır. Öğrencilerin öz değerlendirme ölçekleri ile öz yansıtma yapmaları sağlanır ( SDB1.3 , OB2 ).",
+    "Ülkemizde uygulanan kaynakların verimli kullanımı ve geri dönüşümü ile ilgili Sıfır Atık projesine değinilerek fen bilimleri dersi ile ilişki kurulur. Sıfır Atık projesinin uygulanmasında kullanılan 5D (Düşün, Daha Az Tüket, Değerlendir, Değiştir, Dönüştür) yaklaşımının temel aşamalarından da söz edilebilir.",
+    "Öğrencilere “Çevreye zarar veren, nezaket ve görgü kurallarına uygun olmayan davranışlar neden hâlâ devam ediyor?” sorusu yöneltilebilir ve öğrencilerden bu aşamada bireysel cevaplarını oluşturmaları istenir ( E3.10 ). Öğrencilerden tespit edilen nedenlerden yola çıkarak bu probleme bir çözüm önerisi geliştirmeleri beklenir. Bu aşamada birden fazla çözüm önerisi farklı kriterlere göre puanlanır (etkililik, maliyet, uygulanabilirlik vb.) ( E3.3 ). En iyi çözüm önerisi geliştirilmeye çalışılır. Öğrencilerin kaynaklara sahip çıkmanın, kaynakları bilinçli ve sürdürülebilir bir şekilde kullanmanın önemini fark etmeleri sağlanır ( D19.3 , OB8 ).",
+    "Bilgiyi somut ürüne dönüştürme, iş birliği yapma, empati kurma, çevre duyarlılığı geliştirme, çevreye karşı nazik davranışları kalıcı hâle getirme amaçlarıyla öğrencilerden çevre ve nezaket temalı bir mikro proje geliştirmeleri istenir ( OB8 ). Bunun için öğrencilerin gruplara ayrılmaları ve iş birlikli çalışmaları sağlanabilir ( SDB2.2 ). Öğrencilerin söz varlığını geliştirecek, görgü kuralları ve nezaketle ilgili dilimizin zenginliklerini yansıtan atasözü, deyim vb. ifadelere yer verilir. Performans görevi olarak öğrencilerin çevresini bilinçlendirmek için farklı sorumluluk çalışmaları yapmaları sağlanabilir ( E2.2 , SDB2.3 , SDB3.3 , D5.2 ). Bu çalışmalarda poster, kısa film, el broşürü, sunum, dijital içerikler vb. hazırlanabilir (E3.3, OB2). Performans görevi; dereceli puanlama anahtarı, öz değerlendirme formu, akran değerlendirme formu ve kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1562"
+}

@@ -1,0 +1,65 @@
+{
+  "unitId": 1043,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları - Koro ve Repertuvar Dersi",
+  "title": "2. TEMA: KORO OLUŞTURALIM",
+  "hours": "6",
+  "description": "Temada öğrencilerin koro eserlerini seslendirmede prozodinin önemini fark edebilmeleri ve koroyla seslendirdikleri eserlerin duygusunu betimleyen ürünler oluşturabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KOREP.8.2.1",
+      "title": "Koro eserlerini seslendirmede prozodinin önemini fark edebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KOREP.8.2.2",
+      "title": "Koroyla seslendirdiği eserlerin duygusunu betimleyen ürün oluşturabilme",
+      "processComponents": [
+        "a) Oluşturacağı ürünün amacını belirler.",
+        "b) Koroyla seslendirdiği eserlerin duygusunu betimleyen bir ürün oluşturmak için gerekli ögeleri seçer.",
+        "c) Koroyla seslendirdiği eserlerin duygusunu betimleyen bir ürün oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "prozodi, sanat çalışmaları",
+  "support": [
+    "Destekleme sürecinde koro eserlerini seslendirmede prozodinin önemine yönelik sunum ve konu tekrarı yapılabilir. Öğrencilerden koroyla seslendirdikleri başka eserlerin de duygusunu ifade etmeye yönelik ürün/performans oluşturmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin kendi seçtikleri bir eserdeki prozodi kurallarını sınıfta arkadaşlarına sunmaları sağlanabilir. Öğrencilerin kendi oluşturdukları koroyla seslendirdikleri eserlerin duygusunu betimleyen ürünleri okuldaki etkinliklerde sunmaları ya da okul panosunda sergilemeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, öz değerlendirme formu ve performans görevi kullanılarak değerlendirilebilir. Öğrencilere koroyla seslendirdikleri eserlerin duygusunu betimleyen ürün oluşturmalarına yönelik performans görevi verilebilir. Bu performans görevinden ortaya çıkan ürünleri değerlendirmek için analitik dereceli puanlama anahtarı ve öz değerlendirme formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KOREP.8.2.1 Seslendirilecek eserin yansıtmak istediği anlam ve duygunun doğru ifade edilebilmesi için nelere dikkat edilmesi gerektiğine yönelik sorular sorularak öğrencilerin konuyu merak etmeleri ve düşüncelerini arkadaşlarıyla paylaşmaları sağlanır ( D4.2 , E1.1 , SDB2.1 ). Öğrencilerin çeşitli dijital, görsel, işitsel materyallerden faydalanarak prozodinin tanımını yapmaları ve önemini fark etmeleri sağlanır ( OB2 , OB4 ). Öğrencilerin eserin yansıtmak istediği anlam ve duygunun koro tarafından doğru ifade edilmesi açısından prozodi kurallarına uymanın ve eser içinde geçen kelimeleri bölmeyecek şekilde doğru nefes almanın önemini fark etmeleri sağlanır. Süreci değerlendirmek için dereceli puanlama anahtarı kullanılabilir. KOREP.8.2.2 Öğrencilerden sınıf repertuvarından seçtikleri bir eserin duygusunu yansıtabilmek amacıyla bir ürün ya da performans oluşturmaları istenir. Belirledikleri eserin müzikal ve duygusal analizini yaparak oluşturacakları ürün/performans için gerekli ögeleri seçmeleri sağlanır ( SDB1.1 , E3.2 ). Öğrencilerin seçtikleri eserin sözleri ve ezgisi üzerinden hangi duyguları uyandırdığı ile ilgili düşüncelerini ifade etmeleri beklenir ( D4.2 , SDB2.1 ). Öğrencilerin eserin mevcut yapısına uyarak müziksel yaratıcılıklarını kullanmaları ve uygun planlamaları yaparak eserin duygusunu yansıtacak bir ürün/performans oluşturmaları (esere Orff çalgılarıyla ya da beden perküsyonuyla eşlik etmek, eserin anlamına uygun şiir, öykü yazmak, eserin duygusunu yansıtan görsel tasarımlar oluşturmak, yaratıcı drama yapmak vb.) ve bunu sınıf içerisinde sergilemeleri sağlanır ( D3.4 , D7.3 , E1.5 , E2.3 , E3.3 , SAB4.2 , TAB4.2 ). Öğrencilere koroyla seslendirdikleri eserlerin duygusunu betimleyen ürün oluşturmalarına yönelik performans görevi verilebilir. Öğrencilerin kendilerini değerlendirmeleri için öz değerlendirme formu kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D4.2",
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.3",
+      "E3.2",
+      "E3.3"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "diger": [
+      "SAB4.2",
+      "TAB4.2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1043"
+}

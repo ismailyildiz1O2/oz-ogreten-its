@@ -1,0 +1,158 @@
+{
+  "unitId": 577,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "3. TEMA: ZAMANIN İZİNDE SANAT",
+  "hours": "16",
+  "description": "Temada Osmanlı Dönemi Türk sanat eserinin sanatsal betimlemesinin yapılabilmesi, Osmanlı Dönemi Türk sanat eserinin sanatsal çözümlemesinin yapılabilmesi, Osmanlı Dönemi Türk sanat eserinin sanatsal yorumlamasının yapılabilmesi, Osmanlı Dönemi Türk sanat eseri ile ilgili sanatsal yargıda bulunulabilmesi, Osmanlı Dönemi minyatürleri ile ilgili sanatsal ürün tasarlanabilmesi, Osmanlı Dönemi minyatürleri ile ilgili sanatsal ürün oluşturulabilmesi, empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarının sanatsal olarak karşılaştırılabilmesi ve Avrupa sanatı ile ilgili empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarından bir eserin renk armonisi açısından sanatsal olarak çözümlenebilmesi, İslam sanatının Türk ve dünya sanatına etkilerinin yorumlanabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.11.3.1",
+      "title": "Osmanlı Dönemi Türk sanat eserini sanatsal olarak betimleyebilme",
+      "processComponents": [
+        "a) Eser ile ilgili bilgileri tespit eder.",
+        "b) Eserde görülenleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.11.3.2",
+      "title": "Osmanlı Dönemi Türk sanat eserini sanatsal olarak çözümleyebilme",
+      "processComponents": [
+        "a) Eserdeki görsel bileşenleri/konuyu/konuyu oluşturan bileşenleri belirler.",
+        "b) Eserdeki görsel bileşenler/konuyu oluşturan bileşenler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "GS.11.3.3",
+      "title": "Osmanlı Dönemi Türk sanat eserinin eserini sanatsal olarak yorumlayabilme",
+      "processComponents": [
+        "a) Eserin konusuyla görsel bileşenler/konuyu oluşturan bileşenler arasında ilişki kurar.",
+        "b) Eserin temasına/destekleyici temalarına ilişkin çıkarım yapar."
+      ]
+    },
+    {
+      "code": "GS.11.3.4",
+      "title": "Osmanlı Dönemi Türk sanat eseri ile ilgili sanatsal yargıda bulunabilme",
+      "processComponents": [
+        "a) Eserin özelliklerini belirli ölçüt(ler) ile karşılaştırır.",
+        "b) Eser hakkında ölçüt(ler) çerçevesinde karar verir."
+      ]
+    },
+    {
+      "code": "GS.11.3.5",
+      "title": "Osmanlı Dönemi minyatür, hat ve tezhip sanatları ile ilgili sanatsal ürün tasarlayabilme",
+      "processComponents": [
+        "a) Osmanlı Dönemi minyatür, hat ve tezhip sanatları ile ilgili örnekleri inceler.",
+        "b) Osmanlı Dönemi minyatür, hat ve tezhip sanatları bağlamında oluşturduğu imgeleri eskizlerle ifade eder."
+      ]
+    },
+    {
+      "code": "GS.11.3.6",
+      "title": "Osmanlı Dönemi minyatür, hat ve tezhip sanatları ile ilgili sanatsal ürün oluşturabilme",
+      "processComponents": [
+        "a) Osmanlı Dönemi minyatür, hat ve tezhip çalışmasına uygun görsel anlatım araçlarını ifade eder.",
+        "b) Hazırladığı eskizleri Osmanlı Dönemi minyatür, hat ve tezhip çalışmasına dönüştürür."
+      ]
+    },
+    {
+      "code": "GS.11.3.7",
+      "title": "Avrupa Sanatının Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarını sanatsal olarak karşılaştırabilme",
+      "processComponents": [
+        "a) Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarına ait sanat eserlerinin görsel bileşenlerindeki benzerlikleri belirler.",
+        "b) Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarına ait sanat eserlerinin görsel bileşenlerindeki farklılıkları belirler."
+      ]
+    },
+    {
+      "code": "GS.11.3.8",
+      "title": "Avrupa sanatı ile ilgili empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarından bir eseri renk armonisi açısından sanatsal olarak çözümleyebilme",
+      "processComponents": [
+        "a) Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarından bir eserin renk armonisini oluşturan bileşenleri belirler.",
+        "b) Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarından bir eserin renk armonisini oluşturan bileşenler arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "GS.11.3.9",
+      "title": "İslam sanatının Türk ve dünya sanatına etkilerini yorumlayabilme",
+      "processComponents": [
+        "a) İslam sanatının Türk ve dünya sanatına etkilerini inceler.",
+        "b) İslam sanatının Türk ve dünya sanatına etkilerini bağlamdan kopmadan bilgi haritasına dönüştürür.",
+        "c) İslam sanatının Türk ve dünya sanatına etkilerini anlamı değiştirmeyecek bir şekilde yazılı olarak ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "empresyonizm, ekspresyonizm, Dadaizm, sürrealizm, kübizm, Osmanlı Dönemi Türk minyatür sanatı, soyut sanat",
+  "support": [
+    "Öğrencilerden Osmanlı Dönemi minyatür resmi ile ilgili görselleri kullanarak kes yapıştır çalışması yapmaları istenebilir.",
+    "Öğrencilerden Osmanlı Dönemi minyatürlerindeki insan/hayvan/bitki figürlerinin biçimsel özelliklerini incelemeleri istenebilir.",
+    "Öğrencilerden empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarına ait sanatsal özellikleri açıklayan birer cümlelik bilgi notları hazırlamaları istenebilir.",
+    "Öğrencilerden empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarına ait sanat eserlerinden birinde kullanılan renk armonisini tespit etmeleri istenebilir.",
+    "Öğrencilere İslam sanatına ait (cami süslemeleri, hat örnekleri, minyatürler) ve Batı sanatına ait (gotik vitray, romanesk heykeller) görseller verilerek hangi özelliklerin ortak, hangilerinin farklı olduğunu belirlemeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden Osmanlı Dönemi Türk resim sanatçılarından birinin eserinden yola çıkarak yeni bir resim çalışması yapmaları istenebilir.",
+    "Öğrencilerden minyatür hat ve tezhip sanatlarından seçtikleri örneklerin Selçuklu, Beylikler ve Osmanlı Dönemi'nde geçirdiği dönüşümleri gösteren bir sunu hazırlamaları istenebilir. Öğrencilerden empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımları ile ilgili bir poster hazırlamaları istenebilir. Poster çalışması kısa notlar, sanatçıların kendi portreleri, sanatçıların önemli eserleri kullanılarak kolaj, karışık teknik vb. yöntemlerle hazırlanabilir.",
+    "Öğrencilerin empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarından seçtikleri bir eserin renk armonisini değiştirerek yeniden çalışmaları istenebilir.",
+    "Öğrencilerden, Rönesans dönemi ressamlarından Raphaello'nun \"Atina Okulu\" adlı freskinde yer verdiği önemli figürlerden biri olarak kabul edilen İslam filozofu İbn Rüşd'ün (Averroes), Avrupa'daki Aydınlanma düşüncesine etkilerini araştırmaları ve bu konuda bir sunum hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, açık uçlu sorular, soru ağı, dereceli puanlama anahtarı, dereceleme ölçeği, öz değerlendirme formu, gözlem formu, giriş çıkış kartları, anlam çözümleme tablosu, yapılandırılmış grid, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden, Türk-İslam medeniyetine katkıda bulunmuş önemli bilim insanları ve düşünürlerden (örneğin Farabi, İbn-i Sina, Gazali, Ali Kuşçu, Katip Çelebi, El Cezeri, Mevlana, Yunus Emre vb.) seçtikleri iki isimle ilgili minyatür üslubunda temsili olarak resimledikleri bilgi kartları hazırlamaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.11.3.1. Öğrencilerin Osmanlı Dönemi Türk minyatür resminin önemli örneklerinden biri olarak kabul edilen \"Barbaros Hayreddin Paşa'nın Kabûlü\" adlı eseri incelemeleri sağlanır (OB4). \"Sizce bu eser ne zaman üretilmiştir?\", \"Eserin yapımında hangi malzemeler kullanılmış olabilir?\", \"Bu eserin ölçüleri yaklaşık olarak ne kadardır? gibi sorular sorularak öğrencilerin eserin yapısıyla ilgili tahmin yürütmeleri istenir. Eserle ilgili bilgiler verilerek öğrencilerden eserin adını, ölçüsünü, biçimini, malzemesini, tekniğini ve bulunduğu yeri tespit etmeleri sağlanır.",
+    "Öğrencilerden eserde görülen figür, hayvan, nesne, bitki, motif, renk, şekil gibi unsurları betimlemeleri istenir ( OB9 ). Sorulan sorularla öğrencilerin figürlerin ve eserin uyandırdığı duyguyu ifade etmeleri sağlanır ( OB4 ). Süreç, açık uçlu sorular ile değerlendirilebilir.",
+    "GS.11.3.2. \"Barbaros Hayreddin Paşa'nın Kabûlü\" adlı eserde yer alan sembollerin anlamları, figürlerin kimlikleri ve eserin konusuna kaynaklık eden anlatı ya da olay ile ilgili bilgiler açıklanır. Bu bilgiler doğrultusunda sorular sorularak öğrencilerin eserin görsel bileşenlerini, konusunu ve konuyu oluşturan bileşenlerini belirlemeleri istenir.",
+    "Eserde kullanılan kompozisyon yapısı, geometrik kurgu, perspektif, desen, espas, doku, ışık-gölge ve renk ilişkileri ile ilgili sorular sorularak öğrencilerin eserin görsel yapısını çözümlemeleri sağlanır. Doğru cevapların desteklenmesi yoluyla eseri oluşturan bileşenler arasındaki ilişkiler belirlenir ( E3.4 ). Süreç, açık uçlu sorular veya gözlem formu ile değerlendirilebilir.",
+    "GS.11.3.3. Öğrencilerden, kendilerini \"Barbaros Hayreddin Paşa'nın Kabûlü\" adlı eseri üreten sanatçının yerine koyarak böyle bir görsel düzenleme ile nasıl bir etkinin amaçlanmış olabileceğini düşünmeleri istenir ( E2.1 ). Bu doğrultuda sorular sorularak eserde kullanılan görsel bileşenlerin oluşturduğu anlamların bulunması sağlanır ( E3.4 ). Öğrencilerden tekrar eden biçimsel unsurlarla oluşan hareket akışlarını ve yönlerini tespit etmeleri istenir. Böylece eserin ritim ve hareket şeması sistematik bir şekilde çözümlenmiş olur ( E3.7 ). Bu kurgunun anlatıma yönelik amaçları sorgulanarak öğrencilerin görsel bileşenler ile konuyu oluşturan bileşenler arasında ilişki kurmaları sağlanır.",
+    "Eserin genelinde görsel tasarım öge ve ilkeleri aracılığıyla en fazla vurgu yapılan bölümün neresi olduğu sorularak öğrencilerin eserin odak noktasını tespit etmeleri ve bu bölüme nasıl bir olay/anlatım yerleştirildiğini tanımlamaları sağlanır. Asıl odak noktasından sonra ikincil olay ya da anlatımlara yer verilen diğer odak noktaları aynı yolla çözümlenir ( KB2.4 ). Böylece destekleyici temalara ilişkin çıkarımlar yapılır. Sürecin değerlendirilmesinde açık uçlu sorular kullanılabilir.",
+    "GS.11.3.4. \"Barbaros Hayreddin Paşa'nın Kabûlü\" adlı minyatürün sanat tarihindeki yeri ve önemi konusunda bilgi verilir. Öğrencilerin eserin özelliklerini teknik yetkinlik, biçim-içerik uyumu, özgünlük gibi belirli ölçütlerle karşılaştırmaları sağlanır ( KB2.7 , OB9 ).",
+    "Tartışma ortamı yaratılarak öğrencilerin ölçütler çerçevesinde eserin sanatsal değeri hakkında bir yargıda bulunmaları sağlanır. Bir eseri anlamanın ve doğru değerlendirmenin uzun bir süreç gerektirebileceği hatırlatılarak öğrencilerin çalışma motivasyonlarını sürdürmeleri sağlanır ( D12.3 ). Süreç, açık uçlu sorular veya çalışma yaprağı kullanılarak değerlendirilebilir.",
+    "GS.11.3.5. \"Osmanlı Dönemi'nde tarihsel olayların görsel kaydı nasıl yapılmış olabilir?\", \"Minyatür sanatındaki resimleme boyutlarının küçük olmasının nedeni nedir?\" \"Hat sanatında her harfin belirli bir orana göre yazılması neden önemlidir?\", \"Tezhip desenlerindeki düzen neden tekrar eder?\" gibi sorular sorularak öğ rencilerin konu ile ilgili merak duygularının harekete geçmesi sağlanır ( E1.1 ). Doğru cevaplar desteklenerek öğ rencilerin istenen sonuçlara ulaşmaları sağlanır ( E3.4 ). Minyatür, hat ve tezhip sanatlarıyla ilgili tanımlar yapılarak; İslam sanatıyla etkileşim içinde gelişen bu alanların, görsel sanatların diğer alanlarından farkları açıklanır. Anadolu Beylikleri döneminde Selçuklu mirasını sürdüren bu sanatların, çeşitlenen üsluplarıyla Osmanlı sanatının temelini oluşturduğu ve saray nakkaşhanelerinde zirveye ulaştığı belirtilir. Özellikle minyatürde hiyerarşik ve anlatıma dayalı bir perspektif anlayışın tercih edilmesi, hat sanatında yazının ölçü ve orana dayalı estetik bir biçime dönüştürülmesi ve tezhip sanatında metni çevreleyen kompozisyonlarda estetik ahenk ve görsel düzen kurulduğu vurgulanır. Türk İslam sanatının minyatür, hat ve tezhip sanatına ait önemli örnek eserleri gösterilerek öğ rencilerin incelemeleri sağlanır ( OB4 ).",
+    "Minyatür hat ve tezhip sanatlarının gelecek nesillere aktarılabilmesi için ne tür çalışmalar yapılabileceği hakkında sorular sorularak öğ rencilerin düşü ncelerini ifade etmeleri sağlanır ( D15.2 , SDB2.1 ). Öğ rencilere minyatür, hat ve tezhip sanatları arasından birini seçip uygulayarak bilgi kartı, kitap ayracı veya etkinlik davetiyesi hazırlayabilecekleri belirtilir. Çalışma formatına karar verdikten sonra öğrencilerden konuyla ilgili oluşturdukları imgeleri eskiz çalışmaları ile ifade etmeleri istenir. Minyatürü seçen öğ rencilerin incelenen Osmanlı Dönemi minyatürlerinden seçtikleri bir figürü model alarak çalışmanın özelliğine uygun olarak arka planda Topkapı Sarayı, Süleymaniye Camii veya Selimiye Camii gibi Osmanlı Dönemi'ne ait mimari eserlerden birine yer vermeleri, Hat sanatını seçen öğrencilerin \"Sabır, merhamet, adalet, sevgi, saygı\" gibi kelimeleri hat sanatı üslubunda yazıp etrafını geometrik desenlerle süslemeleri, Tezhip sanatını seçen öğrencilerin çevrede gözlemledikleri bitkileri stilize etmeleri ve tezhip motifine dönüştürüp renklendirmeleri istenir ( OB5 ). Öğrencilerin eskiz çalışmalarını bu hedefler doğrultusunda sürdürerek tamamlamaları sağlanır. Süreç, öz değerlendirme formu veya gözlem formu ile değerlendirilebilir.",
+    "GS.11.3.6. Minyatür ve tezhip sanatında kullanılan renk ve boyama teknikleri hakkında bilgi verilir, hat sanatının yazımla ilgili araç ve yöntemleri tanıtılır. Çalışma sürecinde geleneksel araçların yanı sıra dijital araçların da kullanılabileceği açıklanır. Öğ rencilerin olanaklara göre minyatür, hat ve tezhip çalışması yaparken kullanabilecekleri görsel anlatım araçlarını belirlemeleri ve ifade etmeleri sağlanır.",
+    "Çalışma sürecinde öğ rencilerin minyatür, hat ve tezhip sanatının görsel özellikleri ile ilgili ayrıntıları dikkate almaları istenir. Minyatürde çizim, kontur ve renk katmanlarının geleneksel sıraya göre uygulanması, tezhipte simetri, denge ve renk ahengi ilkeleri, hat sanatında belirli kalem açısının ve harf oranlarının dikkate alınması gibi her sanat türüne özgü teknik aşamaların daha önce yapılan eskizler doğrultusunda tamamlanması sağlanır ( E3.3 ). Öğ rencilerden kendi çalışmalarını değerlendirmeleri istenir ( SDB1.3 ). Yapılan çalışmalar, dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir.",
+    "GS.11.3.7. Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarına ait örnekler gösterilerek öğrencilerin incelemeleri sağlanır ( OB4 ). Seçilecek eserlerin -örneğin empresyonizm akımı için Claude Monet'e (Kılaud Mone) ait \"İzlenim (Gündoğumu)\", ekspresyonizm akımı için Edvard Munch'a (Edvırd Manç) ait \"Çığlık\", kübizm akımı için Pablo Picasso'ya ait \"Gitar\", Dadaizm akımı için Marcel Duchamp'a (Marsel Düşan) ait \"Bisiklet Tekerleği\", sürrealizm akımı için Salvador Dali'ye ait \"Belleğin Sürekliliği\" gibi döneminin özelliklerini temsil eden eserler olmasına dikkat edilmelidir. Merak duygusunu harekete geçirecek yönlendirmeler yapılarak öğrencilerin görselleri incelemeleri ve ilişkilendirmeler yaparak üç dönem arasındaki benzerlikleri belirlemeleri istenir ( E3.6 ). Öğrencilere kişisel tespitlerini paylaşmaları için söz hakkı tanınır ve doğru çıkarımlar desteklenerek net sonuçlara ulaşılması sağlanır. Bu süreçte giriş-çıkış kartı tekniği kullanılabilir.",
+    "Görseller incelenirken genelden ayrıntılara doğru gidilebileceği, eserdeki görsel tasarım öge ve ilkelerinin kullanım şeklinin değerlendirilebileceği vurgulanır. Öğrencilerin doğru sonuçlara ulaşabilmeleri için inceleme sırasında bu doğrultudaki bir sistematik sırayla hareket etmeleri sağlanır ( E3.7 ). Öğrencilerin empresyonizm akımında doğal ışığın oluşturduğu anlık izlenimlerin hızlı fırça darbeleriyle yansıtıldığını, ekspresyonizm akımında insanın iç dünyasının ve duygularının figürlerdeki biçim bozmalarla ifade bulduğunu, kübizm akımında nesne ve figür görünümlerinin geometrik bir anlayışla aynı anda birden fazla açıdan resmedildiğini, Dadaizm akımında yerleşik sanat değerlerine karşı eleştirel ve alaycı eserler üretildiğini, sürrealizm akımında bilinçaltı ile ilgili düşsel, gizemli sahnelerin kurgulandığını, soyut sanat akımında ise gerçek dünyanın betimlenmediği görsel düzenlemelerin öne çıktığını fark etmeleri sağlanır ( OB1 ). Öğrencilerin bu farklılıkların nedenlerini tartışmaları ve her dönemin sanatsal anlayışıyla kültürel ve toplumsal koşulları arasında ilişkiler kurarak nesnel bir yaklaşımla gerçek sonuçlara ulaşmaları sağlanır ( OB9 ). Bu süreçte araştırmacı ve sorgulayıcı yaklaşımın önemi vurgulanır. Bu yaklaşımla öğrencilerin diğer görsel unsurları da incelemeleri ve eserlerin görsel bileşenleri arasındaki farklılıkları belirlemeleri sağlanır ( D7.1 ). Öğrencilerin dönemsel farklılıklarla ilgili tespitleri yapılandırılmış grid tekniği veya anlam çözümleme tablosu kullanılarak değerlendirilebilir.",
+    "GS.11.3.8. Empresyonizm, ekspresyonizm, kübizm, Dadaizm, sürrealizm ve soyut sanat akımlarına ait eserler gösterilerek öğrencilerin renk armonisi özelliklerine göre eserleri incelemeleri sağlanır ( OB4 ). Eserlerdeki ana-ara, sıcak-soğuk, zıt-tamamlayıcı renkler gözden geçirilir. Öğrencilerden eserlerden birini seçerek bu eserde yer alan farklı renk alanlarını silüetler şeklinde gösteren bir diyagram çizmeleri istenir. Çizdikleri alanların içini eserdeki renklere uygun olarak boyamaları, yakın, zıt ve tamamlayıcı renk alanlarını işaretleyerek bölümlere ayırmaları sağlanır. Öğrencilerden işaretlemeler yaparak hazırladıkları şemayı özgün eserle karşılaştırıp ton ve renk farklılıklarını göstermeleri istenir. Böylece eserin renk armonisiyle ilgili bileşenleri belirlenerek eser bir şemaya dönüştürülür ( OB7 ).",
+    "Eserde kullanılan renk armonisinin hangi amaçlarla seçilmiş olabileceği hakkında bir tartışma ortamı oluşturulur ( KB2.18 ). Öğrencilerin neden sonuç ilişkisi kurarak bu seçimlerin nedenlerini anlamaya çalışmaları ve fikirlerini ifade etmeleri istenir. \"Sanatçı hangi nedenlerle böyle bir renk düzeni kullanmayı tercih etmiş olabilir?\", \"Renkle ilgili bu ögelerin eserin estetik ve anlam yapısına etkileri neler olabilir?\" gibi sorular sorularak öğrencilerin eserin renk armonisi ile ilgili değerlendirmelerini ifade etmeleri sağlanır ( SDB2.1 ). Resmin temasının genellikle odak noktasına yerleştirildiği, odak noktasının ise renk etkisinden yararlanarak vurgulandığı hatırlatılır. Bu bilgiler doğrultusunda eserin temasını tespit etmeleri ve temanın vurgulandığı odak noktasından hareketle renk armonisini oluşturan bileşenler arasındaki ilişkileri çözümlemeleri sağlanır ( KB2.4 , OB9 ). Ulaşılan sonuçlar, dereceli puanlama anahtarı veya kontrol listesi ile değerlendirilebilir.",
+    "GS.11.3.9. İslam sanatının farklı alanlarında öne çıkan eserlerinden örnekler gösterilerek öğrencilerin incelemeleri sağlanır ( OB4 ). Öğrencilerden inceledikleri örnekler üzerinden İslam sanatının belirleyici özelliklerini ifade etmeleri istenir. İslam sanatının Türk ve dünya sanatındaki yansımalarına örnek teşkil edebilecek eserler gösterilerek öğrencilerin incelemeleri sağlanır. Öğrencilerden İslam sanatının bu eserler üzerindeki etkilerini belirleyerek ifade etmeleri istenir ( E3.1 , SDB2.1 ).",
+    "Öğrencilerden, yaptıkları incelemeler doğrultusunda İslam estetiğinin Türk ve dünya sanatına etkilerini ve bu etkileri yansıtan örnek eserleri belirterek bir bilgi haritası halinde sunmaları istenir. Harita oluşturulurken tarihsel dönem, üslup özellikleri, kullanılan malzemeler gibi ölçütlerin dikkate alınması sağlanır ( D7.1 ). Öğrencilerden oluşturdukları bilgi haritalarını sunmaları istenir. Süreç kontrol listesi ile değerlendirilir.",
+    "Öğrencilerden İslam sanatının Türk ve dünya sanatına etkilerini yorumladıkları bir metin yazmaları istenir ( KB2.3 ). Öğrencilerin metin yazım sürecinde Emevî ve Abbasî dönemlerinde gelişen sanat anlayışının Anadolu'ya ve Türk sanatına yansımalarını, İslam estetiğinin dünya sanatına etkilerini ve Endülüs İslam sanatının Avrupa mimarisine yansımalarını göz önünde bulundurmaları istenir ( OB5 ). Süreç, dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden, Türk-İslam medeniyetine katkıda bulunmuş önemli bilim insanları ve düşünürlerden (örneğin Farabi, İbn-i Sina, Gazali, Ali Kuşçu, Katip Çelebi, El Cezeri, Mevlana, Yunus Emre vb.) seçtikleri iki isimle ilgili minyatür üslubunda temsili olarak resimledikleri bilgi kartları hazırlamaları istenebilir. Yapılan çalışmalar dereceli puanlama anahtarı veya kontrol listesi kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D15.2",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E3.1",
+      "E3.3",
+      "E3.4",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.18",
+      "KB2.3",
+      "KB2.4",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB5",
+      "OB7",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/577"
+}

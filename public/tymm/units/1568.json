@@ -1,0 +1,67 @@
+{
+  "unitId": 1568,
+  "grade": 0,
+  "gradeName": "II. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY II · 4. Tema: Doğada Matematik",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.2.4.1",
+      "title": "Doğadaki örüntüleri gözlemleyebilme",
+      "processComponents": [
+        "a) Doğadaki örnekleri incelerken, örüntü özelliğini ölçüt olarak belirler.",
+        "b) Doğada örüntü oluşturan örneklere ilişkin veri toplar.",
+        "c) Toplanan verileri sınıflandırarak kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.4.2",
+      "title": "Düzlemde iki paralel doğru ve bir kesenle oluşan açı modellerini doğadaki örnekler üzerinden yorumlayabilme",
+      "processComponents": [
+        "a) İki paralel doğru ve bir kesenle oluşan açı modellerini inceler.",
+        "b) İncelediği örneklerden yola çıkarak açı modelleri oluşturur.",
+        "c) Oluşturduğu modellerdeki açıların özelliklerini belirleyerek açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.4.3",
+      "title": "Doğadaki düzgün ve düzgün olmayan şekil örneklerini inceleyerek özelliklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Doğadaki düzgün ve düzgün olmayan şekil örneklerini inceleyerek özelliklerini belirler.",
+        "b) Belirlenen özelliklere ilişkin benzerlikleri listeler.",
+        "c) Belirlenen özelliklere ilişkin farklılıkları listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Doğada açı modelleri gözlemlenebilir.\n\n Doğadaki düzen ve tekrar matematiksel kurallarla açıklanabilir.\n\n Anahtar Kavramlar \n\n çokgenler, dış ters açılar, düzgün çokgenler, iç ters açılar, örüntü, yöndeş açılar",
+  "support": [
+    "Örüntü modelleri içeren tasarım örneklerine ait görseller sunularak bunlardan doğada gözlemlenen örüntülerin kullanıldığı tasarımları belirlemeleri istenebilir.",
+    "Yaprak damarları, dalgalar, ağaç sıraları vb. doğal yapılardaki iki paralel doğru ve bir kesenle oluşan açıları görseller üzerinde çizerek göstermeleri istenebilir.",
+    "Doğadaki düzgün ve düzgün olmayan şekil örneklerini dijital içerikler üzerinden kendi hızlarında inceleyerek karşılaştırmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Doğada bulunan düzgün ve düzgün olmayan şekil örneklerini karşılaştırmayı içeren dijital bir içerik tasarlamaları istenebilir.",
+    "Doğadan ilham alarak karton, ip, çubuk, pipet gibi nesneleri kullanarak paralel iki doğru ve kesenden oluşan açı modelleri yapmaları istenebilir. Açı modellerini sınıfta sunmaları istenebilir.",
+    "Doğadaki düzgün ve düzgün olmayan şekil örneklerinin karşılaştırılmasını sağlayan dijital bir içerik tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları performans görevleri, açık uçlu sorular, kontrol listesi vb. kullanılarak değerlendirilebilir.",
+    "Doğadaki örüntü örneklerine ilişkin veri toplamaları ve sunmalarını içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Çeşitli nesneleri kullanarak paralel iki doğru ve kesenden oluşan açıları kullanarak bir mahalle planı yapmalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Doğadaki düzgün ve düzgün olmayan şekillerin benzer ve farklı özelliklerini belirleyerek afiş, poster vb. şeklinde sunmalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.2.4.1.",
+    "Doğadan nesneler (yaprak damarları, çam kozalakları, salyangoz kabuklarını vb.) getirilerek veya görselleri inceletilerek öğrencilerin bu nesnelerdeki örüntülere dikkatleri çekilebilir. İnceleme esnasında \"Bu şekillerin ortak özelliği nedir?\", \"Sence bu şekil tekrar ediyor mu?\" vb. sorular yöneltilerek tartışma ortamı oluşturulur ( SDB2.1 , E3.5 ). Tartışmalarla hem öğrencilerin doğadaki örüntülere karşı merakı artırılır hem de öğrencilerde örüntü farkındalığı oluşturulabilir ( E1.1 ). İncelenen çam kozalağının pullarının yukardan aşağıya doğru sayıldığında pul sayıları arasındaki ilişkinin oluşturduğu örüntü görsel üzerinde gösterilir. Öğrencilerden doğadaki örüntü örneklerini (ayçiçeği, tuz kristalleri, ağaç dalları vb.) belirlemeleri istenir. Öğrencilerden doğadan gözlem yaparak (kuş tüyleri, kar tanesi şekilleri vb.) örüntü içeren doğal unsurları belirlemeleri beklenir ( KB3.1 , OB4 ). Öğrencilerin gözlem yapacakları durumlar için örüntü özelliğini ölçüt olarak belirlemeleri sağlanır. Doğadaki örüntü örneklerini gözlemlerken doğaya zarar vermemeleri gerektiği vurgulanarak fen bilimleri ve çevre eğitimi ve iklim değişikliği dersleri ile ilişki kurulabilir ( D5.2 , D15.2 ). Ayrıca doğada yer alan güzelliklerin, var olan çeşitliliğin korunması gerektiği ve bunun sürdürülebilir bir çevre için önemi vurgulanarak doğal güzellikleri koruma konusunda farkındalık oluşturmaları desteklenir ( D5.2 , D15.2 , D16.3 , OB8 ). Öğrencilerden çizerek ya da fotoğrafını çekerek gözlemledikleri örüntü modellerini belgelemeleri ve performans görevi olarak sunuma dönüştürmeleri istenebilir. Topladıkları örüntü modellerine ait verileri sınıfta arkadaşlarına sunmaları beklenebilir ( SDB2.1 ). Topladıkları örüntü modellerini benzerliklerine göre (örüntülerdeki ilişkinin sayısal değeri vb.) sınıflandırarak kaydetmeleri istenir. Öğrencilerin sınıflandırdıkları örüntü modellerinden tablo oluşturmaları veya dijital bir sunum hazırlamaları sağlanır ( OB2 ). Öğrencilerin sunumlarından yola çıkılarak sınıfta bir tartışma ortamı oluşturulup doğadaki örüntü modelleriyle ilgili düşüncelerini ifade etmeleri sağlanabilir ( SDB2.1 ). Performans görevi analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısı sonunda değerlendirme için açık uçlu sorular vb. kullanılabilir.",
+    "MBU.MU.2.4.2.",
+    "Öğrencilerden iki paralel doğru ve bir kesenle oluşan açı modellerine doğadan örnekler (balık kılçıkları, tren yolu hatları, yollar, kavşaklar vb.) vermeleri istenir. Doğada ya da çevrede karşılaştıkları paralel doğrular ve kesenlere örnek olabilecek durumlara ilişkin fotoğraf veya görseller sunulabilir ( OB4 ). Öğrencilerden iki paralel doğru ve bir kesenle oluşan açı modellerinin doğadaki örneklerinin resmini çizmeleri istenebilir ( OB4 ). Fotoğraf veya görsellerdeki açı modelleri incelenerek öğrencilerin doğadaki açı örnekleri hakkındaki düşüncelerini ifade etmeleri sağlanır ( SDB2.1 ). Örneğin \"Evlerde yükseğe ulaşmak için kullandığımız merdiven basamaklarının kesiştiği yerlerde yöndeş, iç ters, dış ters ve bütünler açılar oluşmuştur.” vb. Öğrencilere sadece paralel ve kesişen doğrular kullanarak bir mahalle planı oluşturmalarını içeren performans görevi verilebilir. Öğrenciler tasarımları sırasında teknolojik araçlardan da yararlanabilirler ( OB2 ). Performans görevini iş birliği içerisinde ve yardımlaşarak grup olarak yapmaları istenebilir ( SDB2.1 , SDB2.2 , D20.1 ). Performans görevini yerine getirirken modellemelerinde atık malzemeler kullanmaları istenir ( D5.2 , D17.3 ). Bu sayede atık azalma konusunda sorumlu davranmaları sağlanabilir ( SDB3.3 , OB8 ). Yöndeş, ters, iç ters ve dış ters açıları mahalle planlarında kullanmaları beklenir. Performans görevi için bir planlama yapmaları ve özgün modellemeler oluşturmaları sağlanır ( SDB3.3 , D3.2 , D16.3 , E3.3 ). Öğrencilerden oluşturdukları mahalle planındaki açıların özelliklerini açıklayarak arkadaşlarına sunum yapmaları istenir ( SDB2.1 , E1.5 ). Bu performans görevi bütüncül dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu soru, doğru yanlış ve eşleştirme soruları ile değerlendirme yapılabilir.",
+    "MBU.MU.2.4.3.",
+    "Öğrencilerden doğadaki çevresi düzgün (petekler vb.) ve düzgün olmayan (yapraklar, çiçekler vb.) şekillere örnekler vermeleri istenir. Öğrencilere doğadaki düzgün ve düzgün olmayan şekil örnekleri (kar taneleri, arı kovanı, kaya parçalarının yüzleri, dağların yüzeyleri vb.) gösterilerek inceletilir. Örnekler görsellerle çeşitlendirilebilir. Öğrencilerin bu örnekleri inceleyerek örneklerindeki düzgün ve düzgün olmayan şekillerin kenar ve açı özelliklerini belirlemeleri istenir ( OB2 ). Öğrencilerin belirledikleri özellikleri kontrol ederek düzgün ve düzgün olmayan şekillerin benzer özelliklerini listelemeleri istenir. Örneğin \"arı peteği ve kırık bir cam parçasının sahip olduğu ortak özellikler: her ikisinin de bir çokgen olması, köşe ve kenarlara sahip olmalarıdır.\" Benzer özellikleri belirledikten sonra öğrencilerden düzgün ve düzgün olmayan şekillerin farklı özelliklerini listelemeleri beklenir. Örneğin \"arı peteğinin kenar uzunlukları ve açı ölçüleri birbirine eşittir. Ancak kırık cam parçasının kenar uzunlukları ve açı ölçüleri birbirinden farklıdır.\" Daha sonra öğrencilerin doğadaki düzgün ve düzgün olmayan şekillerin benzer ve farklı özelliklerini afiş, poster vb. şeklinde sunmalarını içeren performans görevi verilebilir. Bu performans görevini grup olarak yapmaları istenebilir ( SDB2.2 ). Performans görevinde düzgün ve düzgün olmayan şekillerin benzerlik ve farklılıklarını açıklamaları istenir. Öğrencilerin performans görevini yerine getirmek için sorumluluk bilinciyle bir plan yapıp bu plana uygun ilerlemeleri sağlanabilir ( SDB3.3 , D3.2 , D16.3 , E2.2 ). Bu performans görevi, süreç bileşenleri dikkate alınarak performans kriterlerini barındıran bütüncül dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu soru, doğru yanlış ve eşleştirme soruları kullanılarak değerlendirme yapılabilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1568"
+}

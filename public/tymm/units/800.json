@@ -1,0 +1,61 @@
+{
+  "unitId": 800,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Spor Okulları - Ritim Eğitimi ve Halk Oyunları Dersi",
+  "title": "1. ÜNİTE: YAŞAMIN VE SPORUN RİTMİ",
+  "hours": "3",
+  "description": "Ünitede öğrencilerin müzikteki farklı ritimleri ayırt etmeleri, dinledikleri müziklerdeki ritim ve tempo değişikliklerini fark etmeleri, ritmin günlük yaşamdaki yerini ve spor ortamlarındaki uygulamalarının önemini kavramaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "RİHO.5.1.1",
+      "title": "Vücudundaki ve günlük yaşamdaki ritimleri belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "RİHO.5.1.2",
+      "title": "Dinlediği müzik ve ritimlerin özelliklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Dinlediği müzik ve ritimlerin özelliklerini belirler.",
+        "b) Dinlediği müzik ve ritimlerin benzer özelliklerini listeler.",
+        "c) Dinlediği müzik ve ritimlerin farklı özelliklerini listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "müzik, ritim, spor",
+  "support": [
+    "Destekleme uygulamaları kapsamında, öğrencilere daha yavaş tempoda ve belirgin ritimler içeren müzikler dinletilebilir. Öğrenmeyi destekleyici daha fazla görsel veya işitsel materyal kullanılabilir."
+  ],
+  "enrichment": [
+    "Zenginleştirme uygulamaları kapsamında, öğrencilerden sevdikleri bir müziğin ritimsel özelliklerini (duygu, vuruş sayısı, poliritmi vb.) incelemeleri istenebilir. Öğrencilerden ritim çalışmalarında kullanılan malzemeleri araştırmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktılarına ulaşılıp ulaşılmadığı performans görevi, kontrol listesi, derecelendirme ölçekleri kullanılarak değerlendirilebilir. Ayrıca çıktılara ilişkin performans değerlendirmelerinde öz, akran ve grup değerlendirme formlarından yararlanılabilir. Öğrencilere ritmin günlük hayattaki yerini anlamalarına yönelik bir performans görevi verilmelidir. Verilen performans görevi kontrol listeleri ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "RİHO.5.1.1. Öğrencilere yavaş, orta ve hızlı tempolarda hareket etmelerini sağlayacak etkinlikler yaptırılır. Etkinliklerden sonra öğrencilerden önce kendi nabızlarının daha sonra kişisel sınırlarına dikkat ederek arkadaşlarının nefes ve kalp atış hızlarını takip etmeleri istenir ( D8.4 ). Bu süreçte el, kulak veya temin edilebilirse stetoskop gibi araçlarla vücuttaki ritmi ve ritim değişikliklerini fark etmeleri sağlanır ( E1.1 ). Doğadaki ritim ve doğadaki ritmik seslerden örnekler verilerek görsel, işitsel ve dijital kaynaklar kullanılarak öğrencilerin ritmin günlük hayattaki yerini belirlemeleri sağlanır ( OB2 ).",
+    "RİHO.5.1.2. İşitsel kaynaklar kullanılarak öğrencilere müzikler dinletilir. Dinledikleri müziklerdeki ritimlerin kendilerini nasıl hissettirdiği sorulur ( SDB1.1 ). Müziğin içerdiği ritimsel özellikler ile ilgili açıklamalar yapılır (tempo, ölçü, vuruş, senkop, dinamikler, ritim paternleri vb.). Dinledikleri farklı tempo ve ritimler içeren müziklerdeki ritimlerin özellikleri sorularak görüşleri alınır. Öğrenciler gruplara ayrılır. Verilen cevaplar doğrultusunda dinledikleri müzik ve ritimlerin özelliklerini belirlemeleri istenir. Tartışma yoluyla müzik ve ritimlerdeki benzerlikleri ve farklılıkları listelemeleri sağlanır ( SDB2.2 ). Grup çalışmasında öğrencilerin kendilerine uygun görevler alması sağlanarak tüm öğrencilerin çalışmaya aktif katılımı desteklenir ( D3.4 ). Listeledikleri sonuçları ders ortamında paylaşmaları sağlanır ( E2.2 , SDB2.1 ). Öğrencilerden farklı tempoda geçen günlerini belirlemeleri ve kaydetmeleri ( KB2.6 ), bu günleri farklı ritimlerdeki müzikler ile ilişkilendirmeleri istenir. Yavaş, orta, hızlı tempoda geçen günlerinin duygu ve düşüncelerini nasıl şekillendirdiği kendilerine neler hissettirdiği ile ilgili sorular sorularak öğrencilerin duygularını fark etmeleri sağlanır ( SDB1.1 ). Hızlı, yavaş ve orta tempoda geçen günlerinden birini sınıfta canlandıracakları bir performans görevi verilir. Verilen performans görevi kontrol listesi ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4",
+      "D8.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/800"
+}

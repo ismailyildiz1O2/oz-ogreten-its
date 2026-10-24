@@ -1,0 +1,53 @@
+{
+  "unitId": 1160,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "1. TEMA: GİTAR TÜRLERİ",
+  "hours": "6",
+  "description": "Temada öğrencilerin gitar türlerini öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.5.1.1",
+      "title": ". Gitar türlerini tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "akustik, bas, klasik, elektro, gitar",
+  "support": [
+    "Öğrencilerden gitar çeşitlerini çizip boyamaları, kendi gitar tasarımlarını yapmaları istenir. Birkaç lastik, karton kutu veya kutu kapaklarıyla minik bir gitar yapmaları eğlenceli ve eğitici olabilir. Öğrencilere hayalî gitar çaldırarak ritim ve melodiyle eğlenmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere farklı dönemlerde kullanılan gitarların resimleri ve videoları gösterilir. Eski lavtalar, klasik gitar ve elektro gitarı görüntü ve kullanım bakımından karşılaştırmaları sağlanabilir. Gitar çalan ünlü sanatçıların kısa videoları izletilebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları, gözlem formu ve kontrol listesi ile ölçülebilir. Performans görevi olarak öğrencilerin akıllı tahta üzerinde buldukları gitar çeşitlerini işaretlemeleri, bu bilgilerle grup içinde tartışma yapmaları ve gitar türlerinin seslerini ayırt etmeleri istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GTR.5.1.1",
+    "Öğrencilere gitarın tarihsel gelişimi ve çeşitleri anlatılıp sorular yöneltilebilir. Bu sayede öğrencilerin konuyu merak edip ilgileri çekilebilir ( E1.1 ). Farklı kültürlerle bağ kurmaları beklenebilir ( D4.5 ). Ardından görsel materyallerden yararlanılarak öğrencilere 13. yy. İspanya'sında \"Latin gitarı\" ve \"Mağrip gitarı\" olarak adlandırılan eski gitar görselleri göstererek bilgi toplamaları istenebilir. Öğrenciler, Eski Mısır ve Yunanistan'da kullanılan gitar çeşitlerine ulaşmak için etkileşimli tahta kullanabilir. Öğrencilerin buldukları gitar çeşitleriyle ilgili işaretlemeler yaparak akıllı tahta üzerinde oyun oynamaları sağlanır ( OB2 ). Gitarın Lut (Lavta) ailesine ait bir çalgı olduğu bilgisi verilerek Araplarda ve İranlılarda \"sitar\" olarak adlandırılan çalgı ile benzerliğini açıklamaları beklenebilir ( D3.3 ). Öğrenciler topladıkları bilgileri paylaşarak bu bilgileri doğrular ve kaydederler ( KB2.6 , SDB2.2 ). Öğrenciler birbirlerini akran değerlendirme yöntemiyle değerlendirebilirler. Süreç kısa cevaplı sorular sorulup değerlendirilebilir. Akustik, elektro ve bas gitarın sesleri görselleriyle gösterilerek dinletilir. Belirlenen konularla ilgili performans görevi verilebilir. Oyunlu etkinliklerden yararlanılarak gitar çeşitlerinden örnekler dinletilir ve sesin hangi gitar türünden olduğunu ayırt etmesi sağlanır ( E2.5 ). Öğrencilere sınıfta beyin fırtınası oturumu düzenlenip gitarın çeşitleri hakkında bildiklerini paylaşmaları istenebilir ( SDB2.1 , E3.3 ). Tahtaya öğrencilerin söyledikleri yazılarak grup içinde tartışma ortamı oluşturulur ( SDB2.2 , E3.5 ). Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.3",
+      "D4.5"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.5",
+      "E3.3",
+      "E3.5"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1160"
+}

@@ -1,0 +1,37 @@
+{
+  "unitId": 94032914,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "14. ÖĞRENME ALANI: ZAMAN ÖLÇME",
+  "hours": "6",
+  "description": "Terimler veya kavramlar: saat (sa.), dakika (dk.), saniye (sn.)",
+  "outcomes": [
+    {
+      "code": "M.4.3.4.1",
+      "title": "Zaman ölçme birimleri arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Saat-dakika, dakika-saniye arasındaki dönüştürmeler yaptırılır.",
+        "Yıl-ay-hafta, ay-hafta-gün arasındaki dönüştürmeler yaptırılır.",
+        "Dönüştürme yapılırken artık yıl konusuna da değinilir."
+      ]
+    },
+    {
+      "code": "M.4.3.4.2",
+      "title": "Zaman ölçme birimlerinin kullanıldığı problemleri çözer",
+      "processComponents": [
+        "Problemlerde zaman yönetiminin önemine vurgu yapılır.",
+        "Problem kurmaya yönelik çalışmalara da yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

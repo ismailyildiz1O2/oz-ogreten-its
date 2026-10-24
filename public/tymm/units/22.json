@@ -1,0 +1,198 @@
+{
+  "unitId": 22,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "2. TEMA: GEN",
+  "hours": "69",
+  "description": "Bu temanın içeriğini nükleik asitler, gen ifadesi, kalıtımın temel ilkeleri ve biyoteknolojinin uygulama alanları oluşturmaktadır. Tema kapsamında öğrencilerin nükleik asitlerin yapısını ve canlılıktaki rolünü sorgulamaları, DNA replikasyonunun bilimsel modelini oluşturmaları, genetik bilginin ürüne dönüşüm sürecini çözümlemeleri, genetik yapıdaki değişikliklerin canlı yaşamına etkileri hakkında eleştirel düşünmeleri, kalıtımla ilgili genetik problemleri çözmeleri, eş baskınlık ve çok alellilikle ilgili deney yapmaları, eşeye bağlı kalıtıma ilişkin tümevarımsal akıl yürütmeleri, biyoteknolojinin uygulama alanları hakkında bilgi toplamaları ve biyoteknolojik uygulamaların etik boyutunu eleştirel düşünmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.12.2.1",
+      "title": "Nükleik asitlerin yapısını ve canlılıktaki rolünü sorgulayabilme",
+      "processComponents": [
+        "a) Nükleik asitlerin yapısı ve canlılıktaki rolü hakkında merak ettiği konuları belirler.",
+        "b) Nükleik asitlerin yapısı ve canlılıktaki rolü hakkında sorular sorar.",
+        "c) Nükleik asitlerin yapısı ve canlılıktaki rolü ile ilgili bilgi toplar.",
+        "ç) Topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Topladığı bilgilerden hareketle çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.12.2.2",
+      "title": "DNA replikasyonunun bilimsel modelini oluşturabilme",
+      "processComponents": [
+        "a) DNA replikasyonunu açıklamaya yönelik model önerir.",
+        "b) DNA replikasyonunu ile ilgili oluşturduğu modeli bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniden yapılandırır."
+      ]
+    },
+    {
+      "code": "BİY.12.2.3",
+      "title": "Genetik bilginin ürüne dönüşüm sürecini çözümleyebilme",
+      "processComponents": [
+        "a) Genetik bilginin ürüne dönüşüm sürecine ilişkin temel bileşenleri ve bunların işleyişlerini belirler.",
+        "b) Genetik bilginin ürüne dönüşüm sürecine ilişkin temel bileşenler arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BİY.12.2.4",
+      "title": "Genetik yapıdaki değişikliklerin canlı yaşamına etkileri hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) Genetik yapıdaki değişikliklerin canlı yaşamına etkilerini sorgular.",
+        "b) Genetik yapıdaki değişikliklerin canlı yaşamına etkileri hakkında akıl yürütür.",
+        "c) Akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "BİY.12.2.5",
+      "title": "Mendel kalıtım ilkelerinin geçerli olduğu genetik problemleri çözebilme",
+      "processComponents": [
+        "a) Mendel kalıtım ilkelerinin geçerli olduğu genetik problemleri yapılandırır.",
+        "b) Mendel kalıtım ilkelerinin geçerli olduğu genetik problemleri özetler.",
+        "c) Mendel kalıtım ilkelerinin geçerli olduğu genetik problemlerin çözümünü verilere dayalı olarak tahmin eder.",
+        "ç) Mendel kalıtım ilkelerinin geçerli olduğu genetik problemlerin çözümünde önermeler üzerinden akıl yürütür.",
+        "d) Mendel kalıtım ilkelerinin geçerli olduğu genetik problemlerin çözümüne ilişkin değerlendirmelerde bulunur."
+      ]
+    },
+    {
+      "code": "BİY.12.2.6",
+      "title": "Eş baskınlık ve çok alellilikle ilgili deney yapabilme",
+      "processComponents": [
+        "a) Kan gruplarıyla ilgili deney tasarlar.",
+        "b) Deneyden elde ettiği sonuçların analizini yaparak eş baskınlık ve çok alelliliğin niteliklerini tespit eder."
+      ]
+    },
+    {
+      "code": "BİY.12.2.7",
+      "title": "Eşeye bağlı kalıtıma ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Eşeye bağlı kalıtıma ilişkin örüntüyü soyağacında modeller.",
+        "b) Soyağacı modelini yeni gözlem verileri üzerinden test eder.",
+        "c) Soyağacı modellemeleri üzerinden genellemeler yapar.",
+        "ç) Soyağacı modelleriyle farklı veri setlerini yorumlar.",
+        "d) Genellemelerini bilim insanlarının genellemeleri ile karşılaştırır.",
+        "e) Yeni verilerle genellemelerini geliştirir."
+      ]
+    },
+    {
+      "code": "BİY.12.2.8",
+      "title": "Genetik testlerin ve genetik danışmanlığın önemini sorgulayabilme",
+      "processComponents": [
+        "a) Genetik testlerin ve genetik danışmanlığın önemi ile ilgili merak ettiği konuyu tanımlar.",
+        "b) Genetik testlerin ve genetik danışmanlığın önemi ile ilgili sorular sorar.",
+        "c) Genetik testlerin ve genetik danışmanlığın önemi ile ilgili bilgi toplar.",
+        "ç) Genetik testlerin ve genetik danışmanlığın önemi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Genetik testlerin ve genetik danışmanlığın önemi ile ilgili topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.12.2.9",
+      "title": "Biyoteknolojinin uygulama alanları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Biyoteknolojinin uygulama alanları ile ilgili bilgi toplamak için kullanacağı araçları belirler.",
+        "b) Biyoteknolojinin uygulama alanları ile ilgili bilgilere ulaşır.",
+        "c) Biyoteknolojinin uygulama alanları ile ilgili ulaşıtığı bilgileri doğrular.",
+        "ç) Biyoteknolojinin uygulama alanları ile ilgili ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "BİY.12.2.10",
+      "title": "Biyoteknolojik uygulamaların etik boyutunu eleştirel düşünebilme",
+      "processComponents": [
+        "a) Biyoteknolojik uygulamaları etik açıdan sorgular.",
+        "b) Biyoteknolojik uygulamaların etiği hakkında akıl yürütür.",
+        "c) Akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    }
+  ],
+  "keyConcepts": "DNA replikasyonu, gen ifadesi, fenotip, genotip, rekombinant DNA teknolojisi",
+  "support": [
+    "Nükleik asitlerin bileşenlerinin ve farklı türlerinin yer aldığı görseller veya animasyonlar kullanılabilir.",
+    "DNA replikasyonu, drama tekniği kullanılarak gösterilebilir. Bu yolla DNA replikasyonunun somutlaştırılması ve daha kolay anlaşılması sağlanabilir.",
+    "Transkripsiyon ve translasyon animasyonları kullanılarak kod, kodon, antikodon, anlamlı zincir kavramları ile mRNA, tRNA, rRNA gibi yapıların görevleri somutlaştırılabilir.",
+    "Kan gruplarının belirlenmesi için gerekli materyallerin temin edilemediği durumlarda sanal laboratuvarlardan video, animasyon ve örnek simülasyonlar gösterilerek konunun daha iyi anlaşılması sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden DNA izolasyonu, polimeraz zincir reaksiyonları ve DNA analizi işlemlerinin yer aldığı bir animasyon filmini alt yazılı veya seslendirmeli olarak hazırlamaları istenebilir. *DNA replikasyonunda kromozom uçlarında meydana gelen problemin ne olduğunu, bu problemin önlenmesi için hücrelerde oluşturulan mekanizmaları ve kanser hastalığının uç problemiyle ilişkisini araştırmaları istenebilir. Öğrencilere biyolojik verilerin toplanması, depolanması, analizi ve yorumlanması için biyoinformatik disiplinin kullanım alanlarının ve toplumsal faydalarının araştırılmasına yönelik proje ödevi verilebilir ve öğrencilerden elde ettikleri bilgileri kullanarak bilgi görseli hazırlamaları istenebilir.",
+    "*Öğrencilere ökaryotik mRNA'ların transkripsiyon sonrası olgunlaşma sürecinde ne tür değişikliklere uğradıklarını, bu süreçte ribozimlerin görevlerini, intron ve ekzon kavramlarını içeren araştırma projesi verilebilir.",
+    "Öğrencilerin genetik bilgideki mutasyon çeşitlerini (nokta mutasyonları, çerçeve kayması, baz ekleme/çıkarma, translokasyon vb.) sınıflandırarak hücrelerin bu mutasyonlar için geliştirdikleri tamir/koruma mekanizmalarını artırılmış gerçeklik uygulamaları ile incelemeleri sağlanabilir.",
+    "Öğrenciler; kalıtımda epistasi, pleiotropi ve epigenetik kavramlarını örnekleriyle araştırarak sınıfta konuyla ilgili sunum yapabilir.",
+    "Öğrencilerden eş baskınlık ve çok alellilik örneklerini günlük yaşam durumlarıyla ilişkilendirmeleri istenebilir. Örneğin hastalık direnci, adaptasyon ve türler arası etkileşimler gibi konularda bu genetik özelliklerin nasıl rol oynayabileceğini araştırabilirler.",
+    "Öğrencilerden mitokondriyal kalıtımı, mitokondriyal DNA'nın nesilden nesile nasıl geçtiğini ve mitokondriyal hastalıkların nasıl oluştuğunu araştırmaları istenebilir. Genetik testlerin farklı türlerini, bu testler aracılığıyla genetik risk faktörlerinin, hastalıkların ve genetik özelliklerin nasıl belirlenebileceğini araştırmaları istenebilir. Öğrencilerin genetik testlerin sağlık hizmetlerine (hastalıkların erken teşhisi, kişiselleştirilmiş tedavi planları ve genetik yatkınlığın belirlenmesi vb.) nasıl katkıda bulunduğunu tartışmaları sağlanabilir.",
+    "Öğrencilerden biyoteknolojinin farklı uygulama alanlarına yönelik bir tasarım ve inovasyon projesi hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; öğrenme günlüğü, animasyon, poster, araştırma yazısı, üç boyutlu model oluşturma, performans görevi, balık kılçığı, açık uçlu soruların yer aldığı çalışma yaprağı, deney yapma, kavram haritası kullanılarak dereceli puanlama anahtarı, puanlama anahtarı, öz değerlendirme ve akran değerlendirme formu ile değerlendirilebilir.",
+    "Öğrencilere DNA replikasyonuna ilişkin animasyon veya üç boyutlu model hazırlayacakları performans görevi verilebilir. Performansın değerlendirilmesinde analitik dereceli puanlama anahtarı kullanılabilir.",
+    "Öğrencilerden gen, genetik kod, transkripsiyon, translasyon arasındaki ilişkileri ortaya koyacakları örümcek ağı oluşturmaları istenebilir. Örümcek ağı, puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilerden gruplara ayrılarak eş baskınlık ve çok alellilikle ilgili deney yapmaları, deney sürecini ve sonucunu raporlaştırmaları istenebilir. Deney süreci ve sonucuna ilişkin hazırlanan raporlar, analitik dereceli puanlama anahtarı ile puanlanabilir. Dereceli puanlama anahtarında \"deneyde olası hatalar için alınacak önlemler, deney süreci ve sonucu\" gibi ölçütlere yer verilebilir. Öğrencilerin kendilerini deney süreci açısından değerlendirmesi için öz değerlendirme ve grup değerlendirme formu kullanılabilir.",
+    "Öğrencilere eşeye bağlı kalıtımı soyağacı modelinde gösterecekleri poster hazırlamaya yönelik performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı ile puanlanabilir."
+  ],
+  "teachingApplications": [
+    "BİY.12.2.1 a-b) Öğrencilere bir aile görseli sunulur. Öğrencilerin görselde yer alan aile üyelerinin fiziksel olarak birbirine benzeyen ve benzemeyen yönlerini tespit ederek bu benzerlik ve farklılıkların nedenleri üzerinde düşünmeleri sağlanır. Öğrencilerden tespitlerinden hareketle nükleik asitlerin yapısı ve canlılıkta oynadığı rol ile ilgili merak ettikleri konuları belirlemeleri ve konuyla ilgili \"Bir toplumun atalarının genetik geçmişi, bireylerin genetik geçmişini nasıl etkiler?\", \"DNA'nın canlı organizmalardaki temel rolü nedir?\", \"DNA ve RNA moleküllerinin yapısal farklılıkları nelerdir?\" gibi sorular sormaları beklenir. Bu sorular, nükleik asitlerin günlük yaşamla olan ilişkisini somut hâle getirerek öğrencilerin konuyu daha ilgi çekici bulmasına yardımcı olur ( E1.1 ) .",
+    "c-ç) Öğrenciler, sordukları sorulara cevap bulabilmek amacıyla bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan bilgi toplar ( OB1 ) . Söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda ders kitabından yararlanılır. Öğrencilerden bilgi topladıkları kaynakların güvenirliğini sorgulayarak topladıkları bilgilerin doğruluğunu farklı bilimsel kaynaklardan değerlendirmeleri istenir. Topladıkları bilgileri yorumlayarak nükleik asitlerin üç ana bileşeninin nasıl bir araya geldiği, nükleik asitlerin tek zincir yapısının nasıl meydana geldiği, nükleik asitlerin hücre bölünmesi, kalıtım ve organizmanın işlevselliği üzerine etkisi konularında çıkarım yapmaları beklenir. Öğrenciler, çıkarımlarını diğer öğrencilerin çıkarımlarıyla karşılaştırarak tartışırlar. Bu süreçte öğrencilerin birbirlerini etkin şekilde dinleyerek düşüncelerini ifade etmeleri ve grup iletişimine katılmaları sağlanır ( D14.1 , SDB2.1 ) .",
+    "Öğrencilerden nükleik asitlerin yapısı ve canlılıktaki rolünü tanımlayabileceği, konu hakkında merak ettiği soruları sorup cevaplayabileceği, topladığı bilgilerin doğruluğunu değerlendirerek çıkarım yapabileceği bireysel öğrenme günlüğü oluşturmaları istenebilir. Öğrenme günlüğü, bütüncül dereceli puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.2.2 a) Öğrencilere DNA replikasyonunun temel adımlarını gösteren kısa bir video veya animasyon izletilebilir. Heterojen gruplar oluşturulduktan sonra gruplardan DNA replikasyonunun yarı korunumlu (semi konservatif) modeli üzerinden kesintisiz ve kesikli zincirde DNA eşlenmesinin nasıl gerçekleştiğini gösteren bir model önermeleri istenir. Bu süreçte tek zincire bağlanan proteinler, topoizomeraz, helikaz, ligaz enzimlerinin isimleri ve çeşitleri verilmez. Öğrencilerin grup çalışmalarına etkin bir şekilde katılmaları ve farklı fikirleri tartışarak ortak bir anlayışa ulaşmaları beklenir ( SDB2.2 ) . Öğrencilerden diyagram, şema, maket veya etkileşimli görsel iletişim uygulamalarını kullanarak tasarladıkları modelleri paylaşmaları istenir ( OB2 ) . Öğrencilerin birlikte çalışmanın hazırladıkları modellere farklı yorumlar getirmelerine katkıda bulunduğunu fark etmeleri sağlanır ( D16.3 , E3.3 , E3.5 ).",
+    "b) Öğrencilerden bilimsel DNA replikasyonu modellerini güvenilir kaynaklardan araştırmaları ve modeli oluşturan temel yapıları inceleyerek bu yapıları kendi modellerini oluşturan bileşenler ile karşılaştırmaları istenir ( E3.10 ). Kendi modellerinden hangisinin şu an kabul gören modele en yakın olduğuna karar vermeleri ve elde ettiği kanıtlara göre modellerini yenilemeleri beklenir ( KB3.1 ).",
+    "BİY.12.2.3 a) Öğrencilere \"Her gen bir ürün oluşturur mu?\", \"Her genin sadece bir ürünü mü vardır?\", \"Genetik bilginin ürüne dönüşüm süreçlerinde gen, genetik kod, transkripsiyon ve translasyon arasında nasıl bir hiyerarşik bağlantı vardır?\" soruları sorularak konu hakkında merak uyandırılır ( E1.1 ) . Genetik bilginin yapısal birimlere dönüşüm sürecini gösteren interaktif araçlar, bilgisayar tabanlı simülasyonlar, basit öğrenme şemaları, videolar/animasyonlar veya ders kitabı kullanılarak öğrencilerin genetik bilginin yapısal birimlere dönüşüm sürecinde görev alan temel bileşenleri ve bu bileşenlerin işleyişini (transkripsiyon ve translasyon) belirlemeleri sağlanır ( OB4 ) .",
+    "b) Öğrencilerden belirledikleri temel bileşenler ve bu bileşenlerin işleyişinden yola çıkarak gen, genetik kod, transkripsiyon ve translasyon sürecinde etkili yapısal ve fonksiyonel bileşenleri belirlemeleri beklenir. Bu süreçte promotor bölgelerinin dizileri (TATA ve TAAT), transkripsiyon faktörleri ve ökaryotik mRNA işlenmesi süreçlerine değinilmez. Öğrencilerden gen ifadesinin oluşmasında transkripsiyon ve translasyon süreçlerinin eş güdümlü olarak çalışmalarının gerekliliğini sorgulamaları, bu eş güdümün nasıl sağlandığı hakkında akıl yürütmeleri ve belirledikleri temel bileşenler arasındaki hiyerarşik bağlantıları tespit etmeleri istenir ( E3.6 ) .",
+    "BİY.12.2.4 a) Kalıtsal hastalıklar ve genetik mutasyonlarla ilgili vaka çalışmaları sunularak, gerçek hayattan örnekler verilerek, genetik yapıdaki değişikliklerin canlı yaşamına etkileri ve DNA'da meydana gelen her hasarın kalıcı olup olmadığıyla ilgili sorular sorularak öğrencilerde merak uyandırılır ( E3.10 ) . Ultraviyole (UV) ışığın neden olduğu DNA hasarının nasıl tamir edildiğini gösteren bilimsel çalışma sunulur. Öğrencilerden genetik yapıdaki değişiklikler ve bu değişikliklerin canlı yaşamına etkileriyle ilgili verilen örnekleri bu çalışma bağlamında sorgulamaları istenir.",
+    "b-c) Heterojen gruplar oluşturulur. \"Mutasyonlara neden olan etmenler nelerdir?\", \"Mutasyonların etkileri genellikle ne yönde gerçekleşir?\", \"Mutasyonlar bazen avantajlı özelliklerin gelişmesini sağlayabilir mi?\" gibi sorular sorularak öğrencilerden soruların cevaplarını bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan araştırmaları istenir. Söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda ders kitabından yararlanılır. Öğrencilerin elde ettikleri bilgilerle genetik yapıdaki değişikliklerin olumlu ya da olumsuz yönlerini, bu değişikliğe neden olan faktörleri ve bu değişikliklerin neden-sonuç ilişkilerini akıl yürüterek değerlendirmeleri beklenir ( OB1 ) . Bu süreçte mutasyon çeşitlerine değinilmez. Her gruptan akıl yürütme sonucunda ulaştıkları çıkarımları kullanarak rapor hazırlamaları ve hazırladıkları raporları sunmaları istenir. Rapor ve sunum; öz değerlendirme, grup değerlendirme ve akran değerlendirme ile değerlendirilebilir ( E3.5 ) .",
+    "Öğrencilerden bireysel olarak genetik yapıdaki değişikliklerin canlı yaşamına etkilerine yönelik öğrenme günlüğü hazırlamaları istenebilir. Öğrenme günlüğü, puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.2.5 a) Heterojen gruplar oluşturulur. Gruplara Mendel kalıtım ilkelerinin geçerli olduğu farklı genetik problemler verilir. Öğrencilerden grup içinde problemlerle ilgili sorular sormaları ve problemlerin olası sonuçlarını düşünmeleri istenir ( E3.8 , OB7 ) . Çalışma yaprağında veya ders kitabında Mendel'in kalıtımla ilgili monohibrit çaprazlama, dihibrit ve kontrol çaprazlamaya ilişkin genel ilkeleri verilerek öğrencilerden verilen problemleri bu ilkeler çerçevesinde yapılandırmaları istenir. b-c-ç-d) Öğrenci gruplarından problemlerde verilen genotip, fenotip özelliklerini, baskınlık ve çekiniklik özelliklerini, önceki nesillerin genotipini ve yapılacak çaprazlama sonucunda ortaya çıkabilecek yeni genotip ve fenotip oranlarını özetlemeleri istenir. Öğrencilerden problemlerde verilen çaprazlama ile ortaya çıkacak genotip ve fenotip oranlarını tahmin etmeleri, problemlerin çözümünde Mendel'in kalıtımla ilgili ilkelerini akıl yürüterek yorumlamaları, problemlerin çözümü için değerlendirmede bulunmaları, problemlerle ilgili çaprazlamaları yapmaları, genotip ve fenotip oranlarını belirlemeleri ve problemleri çözmeleri beklenir ( E3.2 ) . Öğrenci gruplarından problemlerin çözümüne ilişkin değerlendirmede bulunmaları, problemlerin farklı çözümlerinden hareketle kalıtımla ilgili yeni bilgilerini yapılandırmaları istenir ( OB7 , E3.7 ) . Bu süreçte epistasi, pleiotropi ve epigenetik kavramlarına değinilmez.",
+    "Öğrencilerden verilen durumları/problemleri \"yapılandırma, özetleme, veriye dayalı tahmin etme, çözüme yönelik tahmin etme, akıl yürütme ve çözüme ilişkin değerlendirme\" basamaklarını içerecek şekilde cevaplamaları istenir. Cevaplar, bu basamakların ölçüt olarak yer aldığı analitik dereceli puanlama anahtarı ile puanlanabilir.",
+    "BİY.12.2.6 a) \"Anne ve baba arasındaki kan grubu uyumsuzlukları gebelikte ve doğumda sorun oluşturur mu?\", \"Kan nakillerinde farklı kan gruplarına sahip bireyler arasında alışveriş mümkün mü?\" gibi sorularla konuya dikkat çekilir ( E1.1 ) . Öğrencilerin kan gruplarının niteliklerine ilişkin bilgi ihtiyaçlarının farkına varmaları sağlanır.",
+    "Öğrenciler gruplara ayrılır. Gruplardan kan grubu uyumsuzluğu olabilecek durumların tespit edilmesi için kan gruplarını belirlemeye yönelik sorular oluşturmaları ve deney tasarlamaları istenir. Öğrenciler, kan gruplarının nitelikleri ile ilgili verilen çalışma yaprağından veya ders kitabından bilgileri toplar; topladıkları bilgileri özetler ve kan grupları ile ilgili deney yapmak üzere sentezler ( OB1 , OB7 ) . Öğrencilerden tasarladıkları deneyleri gerçekleştirerek kan grubu uyumsuzluğunu tespit etmek için kan gruplarını belirlemeleri istenir. Gruplar, iş birliği içinde kan gruplarını belirleme deneyini yaparken olası hata kaynaklarını en aza indirmek için alabilecekleri tedbirler hakkındaki düşüncelerini grup arkadaşları ile paylaşır. Farklı düşünceler üzerinde saygı çerçevesinde uzlaşma sağlayıp hata kaynaklarını ortadan kaldıracak tedbirleri alır ( SDB2.2 , D14.1 ) .",
+    "b) Öğrenciler, deney sonuçlarının analizini yapar. Sonuçları bir deney raporu hazırlayarak sunar. Kan gruplarını belirleme deneyi sonunda gruplardan deney sonuçlarının eş baskınlık ve çok alellilikle ilgili günlük yaşam durumlarıyla ilişkisini kurmaları istenir.",
+    "BİY.12.2.7 a-b) Öğrencilerden verilen örnek aile soyağaçlarını incelemeleri ve soyağacında kalıtımın eşeye bağlı olarak gerçekleşebileceğini göstermeleri beklenir. Farklı soyağaçlarını modelleyerek soyağacında atalardan aktarılan kalıtımsal özellikler ile ilgili verileri toplamaları ve topladıkları verileri kullanarak oluşturdukları modelleri düzenlemeleri istenir ( E3.3 ) . Eşeye bağlı olarak kalıtılan farklı özellikleri modeller üzerinden test etmeleri ve oluşturdukları soyağacı modellerini birbirleriyle paylaşmaları istenir ( OB4 , D16.3 ) .",
+    "c) Öğrencilerden soyağacı modellemeleri üzerinden elde ettikleri sonuçlara dayanarak genellemeler yapmaları beklenir. Örneğin öğrenciler, belirli bir özelliğin aile içinde nasıl aktarıldığına dair genel bir kural oluşturabilirler.",
+    "ç-d-e) Öğrenciler, farklı ailelerin veya grupların soyağaçlarını kullanarak kalıtım desenlerini karşılaştırabilir ve bu desenlerdeki farklılıkları inceleyebilirler. Öğrencilerden eşeye bağlı kalıtım sonuçlarıyla ilgili genellemeler yapmaları istenir. Eşeye bağlı kalıtsal özellikleri bilim insanlarının şu an kabul gören genellemeleriyle karşılaştırmaları ve kendi yaptıkları genellemeleri geliştirmeleri beklenir. BİY.12.2.8 a-b) Fenilketonüri, spinal müsküler atrofi (SMA) ve kistik fibrozis gibi farklı genetik hastalıklarla ilgili örnek bir durum sunulur. Öğrencilerden bu hastalıkların ortaya çıkmasını engelleme konusunda genetik testlerin ve genetik danışmanlığın önemi ve rolü ile ilgili merak ettikleri konuları belirlemeleri ve sorular oluşturmaları istenir ( E3.8 ) . Öğrenciler, oluşturdukları soruları birbiriyle paylaşarak araştıracakları temel sorulara dönüştürür.",
+    "c-ç-d) Öğrenciler, genetik testler ve genetik danışmanlık konusunda sordukları soruların cevaplarını bulmak için bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan bilgi toplar veya Genetik Hastalık Tanı Merkezinden sınıfa davet edilecek genetik uzmanları ile görüşme yapar ( OB1 , OB2 ) . Öğrencilerden genetik uzmanından aldıkları bilgilerin doğruluğunu bilimsel kaynaklarda veya ders kitabında yer alan bilgilerle karşılaştırarak değerlendirmeleri istenir. Bu süreçte, akraba evliliklerinin otozomal resesif hastalıkların görülme sıklığını artırabileceği ve bu nedenle genetik risklerin belirlenmesinde genetik danışmanlığın kritik bir rol taşıdığı vurgulanır.",
+    "Öğrenciler, topladıkları bilgileri analiz ederek genetik testlerin ve genetik danışmanlığın genetik bozukluklar ve bu bozuklukların neden olduğu hastalıklar ile ilgili problemlerin çözümünde nasıl bir öneme sahip olduğuna ilişkin çıkarım yapar ( E3.11 , D13.4 ) . Öğrencilerin yaptığı çıkarımlar, günlük hayatta benzer durumlar ile ilişkilendirilir ( SDB2.3 ) . Öğrenciler, genetik bozukluklara ilişkin edindikleri bilgileri aileleriyle paylaşmaları konusunda teşvik edilir ( D2.2 ) .",
+    "Öğrencilere seçecekleri genetik bir bozukluk hakkında bilimsel veri ve bilgilerden yararlanarak araştırma yazısı yazmaya yönelik performans görevi verilebilir. Bu araştırma yazısında öğrencilerden belirledikleri genetik bozukluğun Türkiye'de görülme oranına, nedenlerine ve bu bozukluğa ilişkin alınması gereken önlemlere yer vermeleri; genetik testlerin ve genetik danışmanlığın önemini vurgulamaları beklenir. Öğrenciler, yazıda ele aldıkları genetik bozukluğun tedavisini genetik danışman rolünde açıklamalı ve ortaya koydukları tüm fikirleri bilimsel bilgi ve verilerle desteklemelidir. Araştırma yazısı, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.12.2.9 a-b) Öğrenciler gruplara ayrılır. Her bir gruptan geleneksel ve modern biyoteknolojinin çevre, ziraat, tıp, endüstri gibi uygulama alanlarından birini seçmeleri istenir ( E1.2 ) . Gruplar, seçtiği alana ait uygulamalar (ilaç, aşı, hormon üretimi, hücre ve doku kültürü, adli tıp vb.) hakkında bilgi toplamak için kullanacağı araçları belirler. Öğrencilerden belirledikleri biyoteknoloji uygulama alanlarıyla ilgili bilgileri toplamaları beklenir.",
+    "c-ç) Öğrencilerden bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan elde ettikleri bilgiler arasında ilişki kurarak bilgilerin doğruluğunu değerlendirmeleri istenir ( OB1 ) . Öğrencilerin değerlendirme sonucunda doğruladıkları bilgileri kaydetmeleri sağlanır. Öğrenciler, öğrendikleri bilgileri kullanarak biyoteknoloji ve uygulamaları ile ilgili bilgi görseli oluşturur ve oluşturdukları bilgi görsellerini sınıf ortamında paylaşır ( OB4 ) . Hazırlanan bilgi görselleri, puanlama anahtarları ile değerlendirilebilir.",
+    "BİY.12.2.10 a-b-c) Öğrenci grupları oluşturulur. Gruplardan genetiği değiştirilmiş organizmalar (GDO), canlı klonlama, yeni nesil aşılar, embriyo araştırmaları, CRISPR-Cas uygulamaları, kök hücre teknolojileri gibi farklı biyoteknolojik uygulamalardan birini seçmesi ve seçtikleri konuyu etik açıdan sorgulamaya yönelik araştırma yapması istenir ( E1.6 , E3.9 , D5.1 ) . Paylaşılan konular arasından bir münazara konusu belirlenerek gruplar oluşturulur. Öğrenciler, etik açıdan sorgulayacakları konu ile ilgili görüşlerini destekleyen bilgi ve kanıtlar toplamaları konusunda yönlendirilir ( E1.3 , E2.2 ) . Münazara sürecinde öğrencilerden biyoteknoloji uygulamalarının etik ilkelere uygunluğu konusunda akıl yürütmeleri ve çıkarımlarını yansıtmaları beklenir ( SDB3.3 , E3.10 ) . Münazara süreci kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D14.1",
+      "D16.3",
+      "D2.2",
+      "D5.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.2",
+      "E1.3",
+      "E1.6",
+      "E2.2",
+      "E3.10",
+      "E3.11",
+      "E3.2",
+      "E3.3",
+      "E3.5",
+      "E3.6",
+      "E3.7",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/22"
+}

@@ -1,0 +1,44 @@
+{
+  "unitId": 81424093,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "93. ÜNİTE: KEMANE - ETÜTLER VE DAĞARCIK I",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.13.5.1",
+      "title": "Ülkemizde kemanenin kullanıldığı yörelere ait ezgileri araştırır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.5.2",
+      "title": "Teke yöresine ait ezgileri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.5.3",
+      "title": "Ege yöresine ait ezgileri çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.5.4",
+      "title": "Zeybek eserleri kemanede çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.5.5",
+      "title": "Orta Anadolu yöresine ait eserler çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

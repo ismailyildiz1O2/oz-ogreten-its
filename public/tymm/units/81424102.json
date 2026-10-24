@@ -1,0 +1,61 @@
+{
+  "unitId": 81424102,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "102. ÜNİTE: GRAFİK TASARIM - GRAFİK TASARIM UYGULAMALARI",
+  "hours": "26",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GSA.2.4.1",
+      "title": "Amblem ve logo tasarımı yapar",
+      "processComponents": [
+        "Kurumsal kimlik için amblem ve logonun kullanım şekilleri gösterilir."
+      ]
+    },
+    {
+      "code": "GSA.2.4.2",
+      "title": "Afiş tasarımı yapar",
+      "processComponents": [
+        "Afiş tasarlamak için uygun görsel, font, slogan ve fotoğraf seçmenin önemi belirtilir."
+      ]
+    },
+    {
+      "code": "GSA.2.4.3",
+      "title": "Kitap kapağı tasarımı yapar",
+      "processComponents": [
+        "Kitabın içeriğine uygun teknikleri ve araçları kullanarak kitap kapağı tasarımları yaptırılır."
+      ]
+    },
+    {
+      "code": "GSA.2.4.4",
+      "title": "Ambalaj tasarımı yapar",
+      "processComponents": [
+        "Ürün niteliğine uygun teknik ve tasarım araçlarıyla ambalaj tasarımları tanıtılır."
+      ]
+    },
+    {
+      "code": "GSA.2.4.5",
+      "title": "Broşür ve el ilanı tasarımı yapar",
+      "processComponents": [
+        "Görsel iletişimde broşürün etkisi açıklanır."
+      ]
+    },
+    {
+      "code": "GSA.2.4.6",
+      "title": "Web tasarımı yapar",
+      "processComponents": [
+        "Renk, fotoğraf büyüklüğü, ekran çözünürlüğü gibi özelliklerin web tasarımın yapıldığı ortamın niteliğinin en önemli unsurları olduğu belirtilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

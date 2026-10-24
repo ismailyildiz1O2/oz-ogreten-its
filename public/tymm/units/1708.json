@@ -1,0 +1,78 @@
+{
+  "unitId": 1708,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Türk Sosyal Hayatında Aile Dersi",
+  "title": "2. Öğrenme Alanı: Aile Olmak",
+  "hours": "13",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TSHA.2.1",
+      "title": "Aile bireylerinin rollerine ilişkin görev ve sorumlulukları karşılaştırabilme",
+      "processComponents": [
+        "a) Aile bireylerinin rollerine ilişkin görev ve sorumlulukları belirler.",
+        "b) Aile bireylerinin rollerine ilişkin görev ve sorumluluklardaki benzerlikleri listeler.",
+        "c) Aile bireylerinin rollerine ait görev ve sorumluluklardaki farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "TSHA.2.2",
+      "title": "Aile bağlarını güçlendiren davranışların neler olduğu hakkında fikir üretebilme",
+      "processComponents": [
+        "a) Aile bağlarını güçlendirecek davranışların neler olduğunu fark eder.",
+        "b) Aile bağlarını güçlendirecek davranışların neler olduğunu çevresindeki örnekler üzerinden inceler.",
+        "c) Aile bağlarını güçlendirecek davranışların neler olduğu hakkında çözüm üretir."
+      ]
+    },
+    {
+      "code": "TSHA.2.3",
+      "title": "Aile içi olumlu iletişimin aile ilişkilerine katkısını yorumlayabilme",
+      "processComponents": [
+        "a) Aile içi olumlu iletişimin aile ilişkilerine katkısını inceler.",
+        "b) Aile içi olumlu iletişimin aile ilişkilerine katkısını bağlamdan kopmadan dönüştürür.",
+        "c) Aile içi olumlu iletişimin aile ilişkilerine katkısını nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+      ]
+    },
+    {
+      "code": "TSHA.2.4",
+      "title": "Aile bireyleriyle paylaşılan olumlu yaşantıları hayatına yansıtabilme",
+      "processComponents": [
+        "a) Aile bireyleriyle paylaşılan olumlu yaşantılara ilişkin örnek deneyimleri gözden geçirir.",
+        "b) Aile bireyleriyle paylaşılan olumlu yaşantılara ilişkin örnek deneyimler üzerinden çıkarımlarda bulunur.",
+        "c) Aile bireyleriyle paylaşılan olumlu yaşantılara ilişkin ulaştığı çıkarımları değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "anlaşmazlık, birliktelik, çözüm, dayanışma, empati, görev, paylaşma, sorumluluk",
+  "support": [
+    "Öğrenciler aile içindeki rollere ve bu rollere bağlı görev ve sorumluluklara ilişkin bilgi kar tı hazırlayabilir. Öğrenciler aile bağlarını güçlendiren davranışlar üzerine kısa bir hikâye yazabilir. Öğrenciler aile içi iletişimi güçlendiren davranışları anlatan basit örnek olay kartları ha zırlayabilir. Öğrenciler aile buluşmalarını anlatan resim çizebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler geçmişten günümüze aile bireylerinin üstlendikleri roller ve sorumlulukları tarihsel örnekler üzerinden karşılaştırarak bir rapor hazırlayabilir. Öğrenciler kültürlerarası karşılaştırma yaparak farklı toplumlarda aile bağlarını güçlen diren davranışları inceleyebilir. Öğrenciler aile içi olumlu iletişimin aile ilişkilerine katkısını konu alan kısa bir animasyon veya drama senaryosu yazabilir. Öğrenciler aileyi ve sevdiklerini bir araya getiren olaylara dair ulaştıkları çıkarımlar üze rine çizgi roman hazırlayabilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; gözlem formu, kontrol listesi, çalışma yaprakları, öğrenme günlükleri, grup değerlendirme formu, derecelendirme ölçeği, dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir. Performans Görevi: Öğrencilerden ailede yaşanan anlaşmazlıklara getirdikleri çözüm önerilerini dikkate alarak “Ailede Anlaşmazlıklara Çözüm Rehberi” başlıklı kitapçık hazırlamaları istenebilir. Hazırlanan ürünler, dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TSHA.2.1",
+    "Aile içindeki görev ve sorumluluklar küçük kartlara yazılarak kapalı şekilde öğrencilere dağıtılır. Öğrenciler karttaki görevi okuyup hangi görev olduğunu sessiz sinema yoluyla diğer öğrencilere anlatır. Etkinlik sonrasında tüm görevler tahtada listelenir. Bu görev ve sorumlulukların aile içindeki hangi rollere karşılık geldiği belirlenir. Bu süreçte öğ rencilerin, aile fertlerinin birbirine destek olmasının ve üstlenilen görevlerin zamanında, özenli biçimde yerine getirilmesinin aile yaşamındaki düzenin sürdürülmesine katkıda bulunduğunu açıklamaları sağlanır ( SDB2.1 , SDB2.2 , D16.1 ).",
+    "Öğrencilerden aile bireylerinin ortak görev ve sorumlulukları hakkındaki fikirleri alınır, bu fikirler tahtaya liste şeklinde yazılır.",
+    "Aile bireylerinin farklı görev ve sorumlulukları da liste hâlinde tahtaya yazılır ( SDB1.1 ). Öğrencilerden anne, baba ve çocuk rollerini içeren Venn diyagramı oluşturmaları istenir ( OB7 , E2.2 ). Venn diyagramında her aile bireyine ait bölüme kendine özgü görev ve so rumluluklar yazılırken dairelerin kesiştiği ortak bölümde ise aile üyelerinin birlikte yerine getirdiği sorumluluklar yer alır ( SDB1.1 ). Öğrenci çalışmaları, kontrol listesi ile değerlen dirilebilir.",
+    "TSHA.2.2",
+    "\"Birlikte yemek yiyen aile, piknik yapan aile, sorunlarını konuşarak çözen aile\" görselle ri öğrencilerle paylaşılır ( OB4 ). Öğrencilere \"Bu ailelerin bağlarını güçlü kılan davranış nedir?” sorusu yöneltilir ( E1.1 ). Bu soru aracılığıyla öğrencilerden aile bireyleri arasında sevgiye dayalı ilgi, özen ve anlayış gösteren davranışların aile bağlarını güçlendirmedeki rolünü açıklamaları istenir ( D15.1 ). Öğrenciler görsellerden yola çıkarak ilk farkındalıkla rını paylaşır.",
+    "Öğrencilerin çevrelerinde gözlemledikleri aile bağlarını güçlendiren davranışlara yönelik örnek olaylar anlatmaları istenir. Anlatılan örnek olaylar üzerinden aile bağlarını güçlen diren davranışlar incelenir.",
+    "Sınıf küçük gruplara ayrılır. Her grup, aile bağlarını güçlendirmek için öneriler üretir ve bu önerileri büyük bir kâğıda yazar ( SDB2.2 , E3.6 ). Gruplar önerilerini sınıfa sunar ve bu öneriler doğrultusunda bir çözüm panosu oluşturulur ( E2.2 , E3.3 ). Öğrenci çalışmaları, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "TSHA.2.3",
+    "Öğrencilere aile bireyleri arasındaki olumlu iletişimin (karşılıklı saygı, etkili iletişim, yar dımlaşma, birlikte karar verme, teşekkür etme vb.) aile ilişkilerine katkısını yansıtan kısa metinler, görseller veya örnek olaylar sunulur ( OB1 , OB4 ). Öğrenciler örneklerde aile içi olumlu iletişimin aile ilişkilerine sağladığı katkıları inceler.",
+    "Öğrencilerden incelenen örneklerden hareketle aile içi olumlu iletişimin aile ilişkilerine katkısını yansıtan hikâye, kısa diyalog veya resim hazırlamaları istenir ( SDB2.1 , E3.3 , OB4 ).",
+    "Öğrenciler hazırladıkları ürünlerinde aile içi olumlu iletişimin aile ilişkilerine katkısını sınıfta sözlü veya yazılı olarak sunar. Sunum sürecinde öğrencilerin birbirlerini etkin biçimde dinlemeleri, duygu ve düşüncelerini uygun şekilde ifade etmeleri desteklenir ( SDB2.1 , D14.1 ). Öğrencilerin çalışmaları kontrol listesi ile değerlendirilebilir.",
+    "TSHA.2.4",
+    "Öğrencilere aile bireyleriyle paylaşılan olumlu yaşantıları (birlikte zaman geçirme, ortak etkinlik gerçekleştirme, uzaktaki bir aile üyesiyle görüntülü konuşma, bir kutlama vb.) yansıtan örnek olaylar, kısa metinler veya görseller sunulur ( OB1 , OB4 ). Öğrencilerden; sunulan örnekleri \"Bu yaşantılarda hangi duygular paylaşılmıştır?\", \"Bireyler birbirlerine nasıl destek olmuştur?\" ve \"Bu tür etkileşimlerin bireyler arasındaki güven duygusuna katkıları neler olabilir?\" soruları doğrultusunda incelemeleri istenir. Öğrenciler örnek olaylardan hareketle aile bireyleriyle paylaşılan olumlu yaşantıların bireyin mutluluk ve öz farkındalık gelişimine katkısına ilişkin çıkarımlarda bulunurlar ( KB2.10 ). Tartışmalar sırasında öğrencilerin birbirlerini etkin biçimde dinlemeleri, farklı görüşlere saygı göstermeleri ve duygu ile düşüncelerini uygun biçimde ifade etmeleri desteklenir ( SDB2.1 , D14.1 ).",
+    "Öğrencilerden ulaştıkları çıkarımlardan hareketle aile bireyleriyle veya yaşamlarında kendileri için önemli olan kişilerle paylaşabilecekleri olumlu yaşantılara yönelik hikâye, kısa diyalog veya resim hazırlamaları istenir ( SDB2.1 , E3.3 , OB4 ). Hazırlanan ürünler sı nıfta sözlü veya yazılı olarak paylaşılır. Öğrenciler, ürünlerinde ortaya koydukları olumlu yaşantıları kendi ifadeleriyle açıklayarak günlük yaşamlarına nasıl yansıtabileceklerini değerlendirirler. Çalışmalar kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": [
+    "SBAB5. Sosyal Katılım (SBAB5.3. Fikir Üretme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1708"
+}

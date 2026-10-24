@@ -1,0 +1,65 @@
+{
+  "unitId": 1367,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ud Modülü",
+  "title": "3. TEMA: ANA KOLONLARI TANIYORUM",
+  "hours": "22",
+  "description": "Temanın amacını gerdaniye, neva ve dügâh tellerinde II ve III. kolon çalışması yaparak tel geçişlerindeki hâkimiyetin sağlanması oluşturmaktadır. Bu doğrultuda temel ritim kalıplarını çalgıya özgü teknikler kullanarak çalabilmek için belirlenen öğrenme çıktılarına ulaşılması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "UD.3.3.1",
+      "title": "Gerdaniye, neva ve dügâh tellerini çalabilme",
+      "processComponents": [
+        "a) Çalacağı egzersizleri çözümler.",
+        "b) Çalgıya özgü duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Müziksel bileşenleri uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "II ve III. kolon çalışmaları, ud, pozisyon",
+  "support": [
+    "Öğrencinin udu eline alıp dokunmasına, telleri çekmesine ve sesi hissetmesine fırsat verilebilir.",
+    "• Karmaşık tekniklere girmeden basit ve tekrarlayan melodiler öğretilebilir.",
+    "• Öğrendiklerini sık sık tekrar ettirilip küçük adımlarla ilerlenebilir.",
+    "• Kalem tutabilen öğrencilere dörtlük nota ya da sol anahtarı çizdirilebilir.",
+    "• Daha yavaş tempolarda hız belirteci kullanılarak egzersizler basitleştirilebilir."
+  ],
+  "enrichment": [
+    "Farklı ritmik kombinasyonlarla kimin daha temiz ve hızlı yapabileceğine dair oyunlar oynanabilir. Teller arası geçişlerde II ve III. kolon uygulaması yapması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu ve öz/akran değerlendirme formu kullanılarak değerlendirilebilir. Öğrencilere entonasyon çalışmalarına yönelik performans görevi verilebilir. Süreç, analitik dereceli puanlama anahtarı ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "UD.3.3.1",
+    "Öğrenciler gerdaniye, neva ve dügâh tellerinde uygulayacakları basit örnekleri önce elleri ile birim vuruş vurarak okurlar ( SAB6 ). Daha sonra udu tutmadan önce klavye üzerinde 2. pozisyon II ve III. kolon sesleri gösterilir ve yaptırılır ( KB2.2 ). Kendilerine güvenmeleri beklenir ( E1.5 ). Udun perdesiz bir saz olması sebebiyle tüm çalışmalarında sabırla ve dikkatle ilerlemeleri gerektiği söylenir ( D12.3 , E2.2 ). Pozisyon unsurlarından bahsedilir ve görseller aracılığı ile pozisyonlara göre parmak numaraları verilir ve çözümlemeleri beklenir ( OB4 ). Bu süreç, gözlem formu kullanılarak değerlendirilebilir.Verilen parmak numaralarını doğru ve temiz şekilde uygulamaları istenir. Öz güvenli olmaları beklenir ( E1.5 ). Ayna karşısında doğru pozisyonu almaları istenir ( SDB1.2 ). Bu süreç, öz değerlendirme formu kullanılarak değerlendirilebilir. Uda özgü mızrap tekniklerini kullanarak gerdaniye teli üzerinde muhayyer ve sümbüle sesleri, neva teli üzerinde hüseyni ve acem sesleri, dügâh teli üzerinde buselik ve çargâh sesleri yazılır ve çalınır ( KB2.2 , OB5 ). Doğru baskı ve mızrap tekniği uygulamak için disiplinli ve istikrarlı çalışmanın önemini kavramaları beklenir ( D3.1 ). Her tel üzerindeki seslerin ikinci pozisyona özgü parmak numaraları ile elde edilmesi istenir ( SDB1.2 ). Sağ ve sol el tekniğini geliştiren egzersiz çalışmaları yazılır. Öğrencilerden yazmaları istenir ( SAB7 ). Sağ ve sol el tekniği ile ilgili yazılan çalışmaları yapmaları ve kendilerini değerlendirmeleri istenir ( SDB1.2 ). Bu süreç, öz ve akran değerlendirme formu kullanılarak değerlendirilebilir. II ve III. kolon üzerinde elde edilen seslerin temizlik ve doğru baskı bakımından önemi vurgulanır. Öğrencilerin dikkati önce doğru olmayan sesler ile daha sonra da doğru sesler basılarak dikkat çekilir ( E1.1 ). Daha sonra öğrencilere görsel ( OB4 ) ve yazılı verilen örnekleri hem her tel özelinde hem de teller arası geçişler oluşturacak şekilde çalmaları beklenir. Bunu yaparken öz güven duymaları ( E1.5 ) ve istikrarlı ( D12.3 ) olmaları gerektiğini kavramaları beklenir ( SDB1.2 ). Bu geçişler temel makamlardan bazılarının (dügâh, segâh, çargâh, neva seslerinde olduğu gibi) dörtlülerini meydana getirdiği için verilen örneklerde de bu sesleri temiz çalmaları istenir. Öğrencilere entonasyon çalışmalarına yönelik performans görevi verilebilir. Süreç; analitik dereceli puanlama anahtarı, öz/akran değerlendirme ve gözlem formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3",
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5",
+      "E2.2"
+    ],
+    "kavramsal": [
+      "KB2.2"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB5"
+    ],
+    "diger": [
+      "SAB6",
+      "SAB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1367"
+}

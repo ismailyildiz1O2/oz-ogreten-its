@@ -1,0 +1,46 @@
+{
+  "unitId": 81663048,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "48. ÜNİTE: YAPAY ZEKÂ UYGULAMALARI - 5. ÜNİTE: VERİLER ARASI İLİŞKİ",
+  "hours": "7",
+  "description": "Bu ünitede iki veri kümesi arasındaki ilişkinin matematiksel olarak hesaplanması öğretilir.",
+  "outcomes": [
+    {
+      "code": "BTY.48.1",
+      "title": "Bağımlı ve bağımsız değişken kavramını tanımlar",
+      "processComponents": [
+        "Bağımlı değişken kavramı bir örnekle açıklanır.",
+        "Bağımsız değişken kavramı bir örnekle açıklanır.",
+        "Bağımlı değişken ve bağımsız değişken arasındaki fark açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.48.2",
+      "title": "İki değişken arasındaki ilişkiyi yorumlar",
+      "processComponents": [
+        "Korelasyon ve nedensellik kavramları açıklanır.",
+        "Korelasyon kullanarak iki değişken arasındaki ilişki açıklanır."
+      ]
+    },
+    {
+      "code": "BTY.48.3",
+      "title": "Doğrusal regresyon modeli oluşturur",
+      "processComponents": [
+        "Doğrusal regresyon kavramı açıklanır.",
+        "İki değişken arasındaki ilişkiyi doğrusal bir şekilde açıklamak için en uygun doğrunun bulunmasında kullanılan en küçük kareler yöntemi gösterilir.",
+        "Bir veri setinden elde edilen bağımlı ve bağımsız değişkenler için bir doğrusal regresyon modeli oluşturulur.",
+        "Oluşturulan doğrusal regresyon modeline göre tahminlerde bulunulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

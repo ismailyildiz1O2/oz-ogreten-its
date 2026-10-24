@@ -1,0 +1,59 @@
+{
+  "unitId": 20,
+  "grade": 0,
+  "gradeName": "Genel",
+  "subject": "Matematik Dersi Hazirlik 5. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ Teması",
+  "title": "5. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+  "hours": "6",
+  "description": "Bu temada öğrencilerin başkaları tarafından oluşturulan istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminleri tartışabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.H.5.1",
+      "title": "Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumları tartışabilme",
+      "processComponents": [
+        "a) Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.",
+        "b) Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.",
+        "c) Başkaları tarafından oluşturulan istatistiksel sonuç veya yorumları çürütür ya da kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "dağılım, değişebilirlik, evren, örneklem",
+  "support": [
+    "Öğrencilerden çevrelerinde daha aşina oldukları durumlara ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminleri araştırmaları; bu araştırmalarında fark ettikleri noktaları eleştirel olarak değerlendirmeleri istenebilir. Öğrencilerden yaptıkları bu değerlendirmeleri sunum, poster, bilgi görseli gibi araçlarla diğer arkadaşlarına sunmaları ve bu sunumlarını diğer arkadaşlarının değerlendirmeleri istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin toplumsal durumlara (halk sağlığı, doğal kaynakların tükenmesi gibi) ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminleri araştırmaları; bu araştırmalarda fark ettikleri noktaları eleştirel olarak değerlendirmeleri istenebilir. Örneğin öğrencilerden salgın bir hastalıkla ilgili yayımlanan bir habere ilişkin iki farklı yayılıma sahip (herhangi bir önlem almadan salgın hastalığa yakalanan insanların verileri, önlemlere dikkat ettiği hâlde salgın hastalığa yakalanan insanların verileri) dağılımları incelemeleri istenebilir. Ayrıca salgın hastalığa yakalanan bireylerin ülkelere göre nasıl bir dağılım gösterdiğini içeren grafikleri de öğrencilerin değerlendirmeleri hedeflenebilir. Verilen dağılımlar ile ülkelerin verilerini içeren grafikler arasında tutarlılık olup olmadığı; yanlı, yanlış veya eksik bilgilerin olup olmadığı incelenerek öğrenciler tarafından değerlendirilebilir. Öğrencilerin yaptıkları bu değerlendirmeleri sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak diğer arkadaşları ile paylaşmaları; deneyimlerini ifade etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere inceledikleri istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminlere ilişkin değerlendirme yapabilecekleri performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevi sonunda elde edilen sonuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Gruplar hâlinde yapılan sınıf içi tartışma etkinlikleri; öz, akran ve grup değerlendirme formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.H.5.1 Öğrencilerin başkaları tarafından oluşturulan istatistiksel bilgilere eleştirel bakabilmeleri ve bu bilgileri tartışabilmeleri önemlidir ( E3.10 ) . Bu bağlamda öğrencilere nicel veya kategorik verilerden hareketle oluşturulan; hatalı/yanlı sonuç, yorum, çıkarım veya tahminleri içeren istatistiksel görsel veya özetlerden hazırlanmış çalışma kâğıdı verilerek bu çalışma kâğıtlarını grup çalışmasıyla ya da bireysel olarak incelemeleri istenir ( SDB2.2 , D3.4 ) . Grup tartışması sürecinde öğrencilerin birbirlerinin fikirlerini nezaketle dinlemeleri ve arkadaşlarının düşünceleriyle empati yapabilmeleri sağlanır ( D14.1 ) . Ele alınan durumlar farklı disiplinlerden (fizik, coğrafya, biyoloji) seçilerek öğrencilerin günlük hayatta karşılarına çıkan durumları istatistiksel gözle değerlendirmeleri desteklenir. Örneğin öğrencilerden matematik ile coğrafya dersini ilişkilendirmek için ülkelerin farklı yaş gruplarına ilişkin verileri içeren grafiklerden hareketle gelecek yıllar için tahminî nüfus değerlerini içeren grafikleri incelemeleri beklenebilir. Öğrencilerin var olan istatistik bilgileri doğrultusunda ele aldıkları durumlar için istatistiksel temellendirme yapmaları sağlanır ( SDB3.3 ) . Bu süreçte öğrenciler, bireysel veya iş birliğini sağlayacak şekilde gruplar hâlinde çalışmaya teşvik edilir. Böylelikle öğrencilerin istatistiksel temellendirmelerini gruplar hâlinde gerçekleştirmeleri desteklenir ( D3.4 ) . Öğrencilerden verilen durumlara eleştirel bakmaları, istatistik bilgilerini kullanarak hataları/yanlılıkları tespit etmeleri istenir ( E3.10 ) . Hataları/ yanlılıkları tespit ederken öğrenciler yakınlık, menfaat, ön yargı gözetmeksizin tarafsız davranmaları hususunda teşvik edilir ( D1.2 ) . Öğrencilerin belirlediği hatalar ve yanlılıklar tartışmaya açılır ( SDB2.1 ) . Öğrencilerden bu hata ve yanlılıkları eleştirel gözle değerlendirmeleri beklenir ( KB3.3 ) . Sınıf içi tartışmalarla öğrencilerin değerlendirmelerini paylaşmaları ve gerekçelendirmeleri istenir ( SDB2.2 , SDB3.3 ) . Bu süreçte düşüncelerini ifade etmelerinin yanı sıra diğer arkadaşlarının düşüncelerini nazik bir şekilde dinleyerek onlarla empati kurabilmelerine yönelik yönlendirmeler yapılır ( D14.1 ) . Öğrencilerin sunduğu fikirlerden ve yaptığı değerlendirmelerden hareketle ele alınan veri dağılımlarına ilişkin hatalı/yanlı sonuç, yorum, çıkarım veya tahminler çürütülür veya kabul edilir ( D6.1 ) . Bu süreçte öğrencilerden fikir ve değerlendirmelerini dijital araçlar yardımıyla paylaşmaları ve etkileşimde bulunmaları beklenir ( OB2 ) . Öğrencilere istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminlere ilişkin değerlendirme yapabilecekleri performans görevi verilebilir. Görev sonunda öğrencilerin elde ettiği sonuçların benzerlik veya farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptığı sınıf içi tartışma etkinlikleri öz, akran ve grup değerlendirme formları ile değerlendirilebilir ( SDB1.1 , SDB1.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D14.1",
+      "D3.4",
+      "D6.1"
+    ],
+    "egilim": [
+      "E3.10"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/20"
+}

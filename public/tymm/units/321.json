@@ -1,0 +1,101 @@
+{
+  "unitId": 321,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "4. TEMA: DEĞİŞİMİN MATEMATİĞİ (3)",
+  "hours": "28",
+  "description": "Bu temada öğrencilerin türev kavramı, türevin özellikleri ve türevin geometrik yorumuna ilişkin çıkarımlar yapabilmeleri; bu çıkarımları kullanarak gerçek yaşam problemlerini çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.4.8",
+      "title": "Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsillerine ve bunlar arasındaki ilişkilere dair çıkarımlar yapabilme",
+      "processComponents": [
+        "a) Referans fonksiyonlar, türevin limit tanımı, fonksiyonlarda türev alma kuralları ile ilgili önceki bilgilerinden faydalanarak bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar arasındaki ilişkiye dair varsayımlarda bulunur.",
+        "b) Varsayımlarından yararlanıp farklı durumlarla ilgili örüntüleri listeleyerek bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar arasındaki ilişkiye yönelik örüntüleri geneller.",
+        "c) Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar arasındaki ilişkiye dair genellemeleri ile varsayımlarını karşılaştırır.",
+        "ç) Elde ettiği genellemelerden önermeler sunar.",
+        "d) Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsilleri ve bunlar arasındaki ilişkiye dair önermeleri polinom fonksiyonların grafik temsilini incelemede ve elde etmede değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.12.4.9",
+      "title": "Gerçek yaşam durumlarında türevi kullanarak problemler çözebilme",
+      "processComponents": [
+        "a) Türev bilgisininkullanılabileceği problemlerdeki matematiksel bileşenleri (problemi temsil eden fonksiyonun nitel özellikleri ile cebirsel ve grafik temsilleri) belirler.",
+        "b) Problemlerdeki matematiksel bileşenler arasındaki ilişkileri türev bağlamında inceler.",
+        "c) Problemlerdeki değişim bağlamını fonksiyon, denklem ve türev temsillerine dönüştürür.",
+        "ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.",
+        "d) Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.",
+        "e) Belirlediği stratejiyi kullanarak problemi çözer.",
+        "f) Elde ettiği çözümü farklı yöntemleri kullanarak doğrular.",
+        "g) Problemin olası çözüm stratejilerini gözden geçirir.",
+        "ğ) Problemin olası çözüm stratejilerinin maksimum-minimum değer hesaplamayı içeren farklı problem durumlarında kullanımı ile ilgili çıkarımlar yapar.",
+        "h) Çıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "artanlık, azalanlık, eğim, ekstremum değer, mutlak maksimum-minimum değer, mutlak maksimum-minimum nokta, polinom fonksiyon, teğet doğrusu, türev, yerel ekstremum değer, yerel ekstremum nokta",
+  "support": [
+    "Bir fonksiyonun artanlığı veya azalanlığına, yerel ve mutlak ekstremum noktalarının neler olduğuna dair açıklamalar yapılırken gerçek yaşam örneklerinden yararlanılabilir.",
+    "Örneğin doğrusal bir yol üzerinde başlangıç noktasından hareket eden, sonrasında başlangıç noktasına tekrar geri dönen bir cismin hareketi; çizilen konum-zaman grafiği ile birlikte değerlendirilebilir. Bu aşamada cismin başlangıç noktasına uzaklığının hangi zaman diliminde giderek arttığı, cismin hangi anda başlangıç noktasına en uzak konumda olduğu gibi sorularla öğrencilerin çıkarımlara ulaşmaları desteklenebilir.",
+    "Bir fonksiyonun ve onun türev fonksiyonunun matematiksel temsillerine ve bunlar arasındaki ilişkilere dair çıkarımlar, ilk olarak ikinci dereceden polinom fonksiyon ve bunun türev fonksiyonu üzerinden yapılabilir. Değişim oranı/hızı hesaplanan problemlerde basit cebirsel işlemler yapmayı gerektirenler tercih edilebilir. Çıkarımlara veya ilişkilere dair genellemelerin yapılamadığı durumlarda sayısal örneklerden, tablo temsilinden yararlanılabilir. Elde edilen sayısal değerler, matematik yazılımları ile çizilen grafikler üzerinde eş zamanlı olarak gösterilebilir.",
+    "Öğrencilerden problemlerin çözüm stratejilerini değerlendirmeleri, çözümle ilgili genellemelere ulaşılamadığı durumlarda sayısal örnekleri kullanarak sınırlı genellemeler yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "(*) Polinom fonksiyonların farklı nitel özelliklerinin bir arada kullanıldığı ve bunların türev fonksiyonlarının cebirsel temsilleri arasındaki ilişkilere dair genellemelere ulaşıldığı örneklere yer verilebilir. Örneğin gerçek sayılarda f(x) ve g(x) = f(x) + 2 şeklinde tanımlı üçüncü dereceden polinom fonksiyonlar için olmak üzere olması durumunda bu fonksiyonların başkatsayılarının işaretine dair genellemelere ulaşılabilir. İkinci türevin geometrik yorumu üzerine örnekler verilir ve konvekslik, konkavlık ve büküm noktaları incelenebilir. İşaret tablosu ile fonksiyonun grafiğinin çizilmesi çalışmaları yapılır ve matematik yazılımları ile doğrulanabilir.",
+    "(*) Maksimum-minimum problemlerinin çözümü için türev kullanılmadan algoritma oluşturulması ve matematik yazılım programında çözümünün bulunması ile türev kullanarak yapılan çözümlerin karşılaştırılmasına yönelik görevler verilebilir.",
+    "(*) Ekonomide marjinal maliyet, marjinal gelir hesaplama; biyolojide bir canlının baskın ve çekinik genlerinin sıklığına göre o canlı türünün genetiğinde gelecekte meydana gelebilecek değişimleri (down sendromu, DMD kas hastalıkları gibi) yorumlama; fizikte serbest düşüşteki bir cismin belirli bir andaki hızını, süratini veya ivmesini belirleme gibi farklı disiplinlerde karşılaşılabilen problemler farklı çözüm stratejileri kullanılarak çözülebilir.",
+    "(*) Problemler çözüldükten sonra farklı genellemelere ulaşılabilir. Örneğin Mendel'in (Mendel) melezleme yöntemine göre p ∈ (0, 1) olmak üzere p bir kültürde bulunan bezelyelerden düzgün yüzeyli bezelye genlerinin sıklığını, 1 - p ise buruşuk yüzeyli genlerin sıklığını vermektedir. Buna göre gelecek nesilde düzgün yüzeyli bezelye oranı, uygun koşullarda f (p) = 2 . p . (1 - p) şeklinde tanımlı fonksiyon ile belirlenebilir. f ' fonksiyonunun grafiği yorumlanarak buruşuk bezelye oranının yüksek olduğu bir popülasyona az sayıda düzgün yüzeyli bezelye katılmasının sonraki nesiller için oluşturacağı etkinin, tam tersi duruma göre daha fazla olacağı genellemesine ulaşılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, performans görevi ve araştırma ödevi ile değerlendirilebilir.",
+    "Öğrencilere aynı dik koordinat sisteminde çizilen iki fonksiyonun grafiğini incelemeyi içeren çalışma kâğıdı verilebilir. İnceleme sonucunda bu fonksiyon ikililerinden hangilerinin f ve f ′ şeklinde iki fonksiyona ait olabileceğinin değerlendirilmesi istenir. Çalışma sonunda öğrenciler, öz değerlendirme formuyla kendilerini değerlendirebilir.",
+    "Öğrencilere gerçek yaşam problemlerinde matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağlayacak yerel veya mutlak ekstremum değerlerini hesaplamayı gerektiren performans görevi verilebilir. Görevin değerlendirilmesinde dereceli puanlama anahtarı kullanılabilir.",
+    "Şerefeddin Tusi'nin polinom fonksiyonların yerel ekstremum değerlerini bulma bağlamında yapmış olduğu çalışmalara yönelik araştırma ödevi, dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Fizik, kimya, biyoloji, ekonomi ya da mühendislik alanlarına ilişkin yerel ekstremum değer hesaplamayı, değişim oranı/hızı belirlemeyi gerektiren problemler performans görevi olarak verilebilir. Problem çözümleri, dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Türevdeki maksimum-minimum yaklaşımının kullanımına ilişkin farklı disiplinlerin incelendiği araştırma ödevi; hazırlık, planlama ve sunum süreçlerini içeren derecelendirme ölçeği ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.4.8 Dik koordinat sisteminde verilen keyfî bir fonksiyon grafiği üzerinden fonksiyonun nitel özelliklerine ilişkin sınıf içi tartışma yapılır. Bu tartışma yapılırken öğrencilerin birbirlerini etkin bir şekilde dinlemeleri, düşüncelerini temellendirerek ifade etmeleri ve birbirleriyle etkileşim sağlamaları beklenir ( SDB2.1 ) . Bu kapsamda öncelikle grafiği çizilen fonksiyonun nitel özellikleri belirlenir. Bu aşamada fonksiyonların yerel ekstremum noktaları ile ilgili bilgilendirme yapılır. Sonrasında grafiğe teğet doğruları çizilir ve öğrencilerden çizilen teğet doğrularının eğimi ile ilgili varsayımda bulunmaları beklenir. Bu kapsamda fonksiyon grafiğine artan veya azalan olduğu farklı aralıklarda teğet doğruları çizilir. Ardından öğrencilerin fonksiyonun artanlığı veya azalanlığı ile teğet doğrularının eğim değerleri arasındaki ilişkilere dair varsayımlarda bulunmaları sağlanır ( E3.6 , E3.7 ) . Örneğin öğrencilerden fonksiyonun azalan olduğu aralıkta veya fonksiyonun yerel ekstremum noktasında çizilecek teğet doğrusunun eğiminin işaretine dair varsayımlar geliştirmeleri beklenebilir.",
+    "Polinom fonksiyonların nitel özellikleri ile bunların türev fonksiyonlarının cebirsel temsilleri arasındaki ilişkilere dair genellemeler yapılır. Örneğin olmak üzere gerçek sayılarda f(x)=k.(x−a)² şeklinde tanımlı polinom fonksiyonun türevi alınarak f'(x)=2.k.(x-a) fonksiyonu elde edilebilir. Türev fonksiyonundan hareketle x > a için f ' değerlerinin pozitif olacağı ve buna bağlı olarak f fonksiyonunun [a, ∞ ) nda artan olacağına dair genelleme yapılır. Burada istisnai durum olarak türev fonksiyonunun birbirine eşit sıfırlarının olması durumu da (gerçek sayılarda f(x) = x³ şeklinde tanımlı fonksiyonun türev fonksiyonu gibi) incelenir. Genellemeler, polinom fonksiyonun grafik temsilleri ile ilişkilendirilerek varsayımlar ile karşılaştırılır.",
+    "Öğrencilerin polinom fonksiyonların nitel özelliklerine dair elde ettikleri genellemelerden hareketle önermeler sunması sağlanır. Örneğin x ∈ (a, b) olduğunda f polinom fonksiyonu için f'(x)<0 oluyor ise g(x)=-f(x)+3 fonksiyonunun (a, b) nda artanlığına veya azalanlığına dair önerme sunması beklenir ( MAB3 ) .",
+    "Öğrencilerin türev kavramı ile ilgili edindiği bilgileri kullanarak Rolle (Rol) ve ortalama değer teoremlerine dair önermeler sunması beklenir. Bu süreçte [a, b] nın her noktasında sürekli olan ve (a, b) nın her noktasında türevlenebilen, dik koordinat sisteminde verilen keyfî bir f fonksiyon grafiği çizilir. Sonrasında A(a, f(a)) ve B(b, f(b)) noktalarından geçen, eğimi m olan doğru çizilir. Çizilen grafik yardımıyla öğrencilerin c ∈ [a, b] olmak üzere f'(c)=m eşitliğini sağlayan en az bir gerçek sayının bulunacağına dair önerme sunmaları (ortalama değer teoremi) sağlanır. Ayrıca aynı tanım aralığında, süreklilik ve türevlenebilirlik özelliklerine sahip fonksiyonda f(a)=f(b) eşitliğinin sağlanması durumunda öğrencilerden d ∈ [a, b] olmak üzere f '(d) = 0 olacak şekilde en az bir d gerçek sayısının bulunacağına (Rolle teoremi) dair önerme sunmaları beklenir. Önermeler, Rolle ve ortalama değer teoremlerini kullanmayı gerektiren gerçek yaşam problemleri ve açık uçlu sorular ile birlikte polinom fonksiyonların grafik temsilleri üzerinden öğrencilerin çalışkanlıklarını ve üretkenliklerini destekleyecek şekilde değerlendirilir ( D3.3 ) . Örneğin ortalama hız tespitinin yapıldığı otoyolda bir aracın hız-zaman fonksiyonunun grafiği modellenebilir. Grafik temsilinden yararlanılarak aracın hareketi boyunca hız göstergesinin belirli bir değeri kesin olarak gösterip göstermediği, seçilen zaman aralığında belirli bir hızı en az kaç defa göstermiş olabileceği gibi sorulara yer verilir. Bu fikirden yararlanılarak otoyollarda hız tespiti yapılır. Bu tür problemlerin en hızlı ve doğru şekilde çözülebilmesini içeren, iş birliği ve grup içi çalışma gerektiren etkinlikler düzenlenebilir ( SDB2.2 ) .",
+    "Ayrıca cebirsel temsili verilen en fazla dördüncü dereceden polinom fonksiyonların grafik temsilini elde etmek için fonksiyonun artan veya azalan olduğu aralıklar türev kullanılarak belirlenir. Bu noktada çizilen grafik temsillerinin doğruluğu, öğrencilerin dijital araç ile iş görme becerilerini geliştirmek için matematik yazılımları ile kontrol edilir ( OB2 , MAB5 ) . Öğrencilere aynı dik koordinat sisteminde çizilen iki fonksiyonun grafiğini incelemeyi içeren çalışma kâğıdı verilebilir.",
+    "MAT.12.2.9 Türev bilgisini kullanmayı gerektiren (bir işletmenin maksimum kazancını hesaplama, geometrik cisimlerin yüzey alanları veya hacimlerindeki değişimi belirleme gibi) gerçek yaşam durumları incelenirken türev fonksiyonu, artan-azalan aralık, eşitsizlik, maksimum-minimum nokta, maksimum-minimum değer, yerel ekstremum nokta gibi bileşenler belirlenir. Bu bileşenler arasındaki ilişkiler belirlenerek gerçek yaşam durumlarının fonksiyon olarak modellenmesi sağlanır. Optimizasyon problemlerinde fonksiyonun grafik temsili incelenerek teğet-eğim ilişkisinden hareketle türev fonksiyonu elde edilir. Elde edilen türev fonksiyonunun tablo temsiliyle hangi aralıkta hangi işareti aldığı belirlenir. Türevin geometrik yorumundan hareketle işaretler arası geçiş noktalarının, fonksiyonun maksimum ve minimum noktalarını verdiği ifade edilir. Böylelikle maksimum-minimum problemlerinin çözümüne ilişkin strateji geliştirilir. Çözüm stratejisini elde ettiği türev fonksiyonu ile birlikte kullanarak öğrencilerin maksimum-minimum probleminin çözümüne ulaşmaları sağlanır. Küre şeklindeki bir cismin ısıtılması sonucunda yarıçapındaki değişime bağlı olarak hacminde veya yüzey alanındaki değişimin belirlenmesi gibi değişimlerin incelendiği problemlerde verilen ve istenen değişim oranları/hızları veya türev fonksiyonları belirlenir. Türev kavramı bilgisi ve türevin özelliklerinden yararlanılarak istenen değişim oranı/hızı veya türev fonksiyonunun bulunması sağlanır. Maksimum-minimum değer hesaplama, değişim oranı/hızı belirleme gibi gerçek yaşam problemleri mümkün olduğunca geniş bir çerçevede ele alınır. Bu bağlamda üretim-tüketim, kâr-zarar, alan/hacim, alandaki/hacimdeki değişim hızı hesabı gibi problemler incelenir ( OB3 ) . Örneğin belirli bir hacme sahip dikdörtgenler prizması şeklinde bir kolinin mümkün olabilecek en küçük yüzey alanı hesaplanabilir. Böylelikle ambalaj kullanımı konusunda öğrencilerin daha duyarlı olmaları sağlanır ve öğrencilerde çevreyi koruma bilinci geliştirilir ( D5.2 ) . Bir ürünün fiyatındaki artış ile o ürünü satın almak isteyen müşteri sayısındaki ilişki incelenerek bir gelir fonksiyonu modellenebilir. Gelir fonksiyonunda maksimum gelirin elde edilmesini sağlayan fiyat düzenlemesi türev yardımıyla belirlenir ( OB3 ) . Mühendislikte, köy yollarının otoyola bağlanmasında en kısa sürede ve en hızlı şekilde ulaşımın sağlanabilmesi için bir kente varış süresi fonksiyonlarla modellenebilir. Bu sayede yolun nereden geçmesi gerektiği türev yardımı ile bulunur ve toplumsal bir menfaate veya liyakate vurgu yapılır ( D1.2 , D16.2 ) .",
+    "Ayrıca belirli bir çevre uzunluğuna sahip dikdörtgen şeklindeki evinin bahçesinde sebze yetiştirmek isteyen birinin bahçesinin alanının en fazla kaç olabileceği ve buna göre bu bahçeye belirli sıra ve aralıklarla en fazla ne kadar sebze ekilebileceği, belirli bir hacme sahip silindir biçimdeki kabın en küçük yüzey alanına sahip olabilmesi için yarıçapının uzunluğunun kaç olacağı gibi gerçek yaşam durumları incelenir ( OB3 , D17.3 ) . Öğrencilere gerçek yaşam problemlerinde matematiksel modelleme yapabilme becerilerini geliştirmelerine katkı sağlayacak yerel ve mutlak ekstremum değerlerini hesaplamayı gerektiren performans görevi verilebilir.",
+    "Türev fonksiyonu üzerinden geliştirilen çözüm stratejisinin doğruluğu, türevi alınan fonksiyonun farklı temsilleri üzerinden geliştirilen çözüm stratejileri kullanılarak kontrol edilir. Örneğin gerçek sayılarda tanımlı ikinci dereceden bir f fonksiyonu ile modellenen ve bu fonksiyonun alabileceği en küçük değeri belirlemeyi gerektiren bir gerçek yaşam probleminde türev fonksiyonu üzerinden belirlenen çözüm stratejisi, f fonksiyonunun cebirsel temsili tamkare forma dönüştürülerek bulunan en küçük değer ile kontrol edilir. Bu şekilde problemin çözümüne yönelik farklı çözüm yolları değerlendirilir. Bu aşamada öğrencilerin dijital araç ile iş görme becerilerini geliştirmek için matematik yazılımlarından yararlanılır ( OB2 ) .",
+    "Şerefeddin Tusi'nin polinom fonksiyonların yerel ekstremum değerlerini bulma bağlamında yapmış olduğu çalışmalara yönelik araştırma ödevi verilebilir. Öğrencilerden verilen araştırma ödevini titizlikle yerine getirmeleri beklenir ( D16.3 ) .",
+    "Türev fonksiyonu üzerinden maksimum-minimum değeri belirleme stratejisinin her zaman uygulanabilen bir strateji olmadığı örnek problem durumları üzerinden gösterilir. Örneğin bir parçalı gösterimli fonksiyonun mutlak maksimum noktası için türevsiz olduğu bilinen bir problem incelenebilir. Bu fonksiyonun alabileceği en büyük değeri belirlemeyi gerektiren bir gerçek yaşam problemi üzerinden türev fonksiyonu ile çözümün elde edilemeyeceği görülür. Bu durumda fonksiyonun grafik temsili üzerinden çözüm stratejisi geliştirilir ( OB4 ) .",
+    "Problemlerin çözüm stratejileri gözden geçirilerek çözümde elde edilen fonksiyonların farklı temsilleri üzerinden bazı çıkarımlara ulaşılır. Örneğin belirli bir çevre uzunluğuna sahip dikdörtgensel bölgenin alanının alabileceği en büyük değerin bu bölgenin kenar uzunlukları birbirine eşit olduğunda elde edilebileceği çıkarımına ulaşılır. Benzer şekilde gerçek sayılarda y = f(x) şeklinde tanımlı fonksiyonun alabileceği en büyük değerin a olarak belirlendiği durumda fonksiyonunun alabileceği en küçük değerin olacağı çıkarımına ulaşılır. Problemlerin çözümüne yönelik çıkarımlar; sözel, cebirsel ve grafiksel argümanlarla değerlendirilir. Örneğin karesel fonksiyon şeklinde modellenebilen gerçek yaşam durumlarında maksimum veya minimum değeri veren nokta ya da noktalar hakkında elde edilen cebirsel argümanlar sözel argümanlarla desteklenir. Benzer şekilde ısıtılarak genleşen bir nesnenin (örneğin küp veya küre) yüzey alanındaki (a) değişime bağlı olarak hacmindeki (v) değişim oranı dv/da şeklinde ifade edilir. v ve a niceliklerinin her biri aynı bir x bağımsız değişkeninin (örneğin küpün ayrıt veya kürenin yarıçap uzunluğu gibi) fonksiyonu olarak ifade edilir. Buna göre dv/da değişim oranı şeklinde ifade edilir.",
+    "Farklı disiplinlerde türevdeki maksimum-minimum değer, değişim oranı/hızı belirleme yaklaşımının kullanıldığı problemlere yönelik araştırma ödevi verilebilir. Öğrencilerden araştırma ödevini zamanında ve eksiksiz yerine getirmeleri beklenir ( D16.3 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D16.2",
+      "D16.3",
+      "D17.3",
+      "D3.3",
+      "D5.2"
+    ],
+    "egilim": [
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB3",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/321"
+}

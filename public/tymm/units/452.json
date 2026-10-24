@@ -1,0 +1,94 @@
+{
+  "unitId": 452,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "5.TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+  "hours": "24",
+  "description": "Bu temada öğrencilerin kategorik veriye dayalı istatistiksel araştırma gerektiren gerçek yaşam durumlarında istatistiksel araştırma sürecini yürütebilmeleri ve başkaları tarafından oluşturulmuş grafik, görsel, rapor, sonuç, yorum, çıkarım veya tahminler hakkında tartışabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.5.5.1",
+      "title": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme",
+      "processComponents": [
+        "a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.",
+        "b) Kategorik veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur.",
+        "c) Kategorik veriye ulaşmak için plan yapar.",
+        "ç) Kategorik veriye ve araştırma sorusuna uygun anket soruları hazırlar.",
+        "d) Anketi kullanarak veri toplar veya hazır veriye ulaşır.",
+        "e) Veri görselleştirme aracını (sıklık tablosu, sütun grafiği, daire grafiği, nokta grafiği gibi) seçme gerekçelerini belirtir.",
+        "f) Toplanan veriyi uygun görselleştirme aracı ile analiz eder.",
+        "g) Araştırma sonuçlarını elde eder.",
+        "ğ) Araştırmada ulaştığı sonuçlara yönelik gerekçeler sunar.",
+        "h) Araştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirir.",
+        "ı)  Araştırma süreci adımlarını değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar."
+      ]
+    },
+    {
+      "code": "MAT.5.5.2",
+      "title": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "processComponents": [
+        "a) Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.",
+        "b) Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.",
+        "c) Başkaları tarafından oluşturulan kategorik veriye dayalı sonuç veya yorumları çürütür ya da kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler • Veri dağılımları, verinin değişebilirliği hakkında bilgi verir. • Sıklık değeri kategorik veri setlerinde dağılımı yansıtır. Anahtar Kavramlar dağılım, daire grafiği, değişebilirlik, kategorik değişken, nokta grafiği, sıklık değeri, sütun grafiği, veri Sembol ve Gösterimler _",
+  "support": [
+    "Gerçek yaşam durumuna yönelik bir ifadenin araştırma sorusu olup olamayacağı üzerinde durulabilir. Öğrencinin kendi araştırma sorusunu oluşturmasına yardımcı olunabilir. Sürecin ilk adımlarında karşılaştırma gerektiren araştırma sorularına geçmeden önce tek değişkenli veri setleri incelenerek kolaydan zora planlama yapılabilir. Veri analizi adımında görselleştirme araçlarını (örneğin çetele tablosu) oluşturmaları için destek olunabilir. Veri görselleştirme için hangi aracı tercih edeceğine dair ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerle ilgi alanlarına yönelik kategorik verinin toplanacağı araştırma durumları belirlenebilir. İstatistiksel araştırma süreci adımlarının bireysel ve esnek olarak yürütüleceği çalışmalar yaptırılabilir. Bu çalışmaların bir ürünü olarak broşür ya da infografikler hazırlamaları ve sunmaları istenebilir. Tek bir veri setini inceleme yerine iki veri setini karşılaştırma çalışmaları yapılabilir. Öğrencilerden hazır veri sunan genel ağ adreslerinden veri alarak istatiksel araştırma süreciyle ilgili çalışma yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; performans görevi, öz değerlendirme ve akran değerlendirme formları ve gözlem formu ile değerlendirilebilir. Öğrencilerden günlük hayat durumlarına yönelik istatistiksel araştırma sürecinin bütününü kullanacakları bir performans görevi hazırlamaları istenebilir. İstatistiksel araştırma sürecinin bütününü yansıtan ve araştırma sonuçlarını açıklayacakları poster hazırlamaları beklenebilir. Öğrencilerin hazırladığı posterler, araştırma sorusuna göre veri toplama, veri görselleştirme, sonuçları araştırma sorusu bağlamında yorumlama, posterin tasarımı ve sunumu gibi ölçütlerden oluşan bütüncül veya analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öz değerlendirme formu ile öğrencilerin zorlandığı ve keyif aldığı noktaları açıklamaları ve yeni araştırma süreçlerinde farklılaştıracağı adımları ifade etmeleri istenebilir. Öğrenciler arkadaşlarının araştırma süreç ve sonuçlarını inceledikleri grup çalışmalarında, araştırma sorusuna göre veri toplama sürecine; grafik ve tablo gibi görsellerin uygunluğuna; sonuç, yorum, çıkarım ve tahminlerin doğruluğuna ilişkin kriterleri içeren akran değerlendirme formu doldurabilir. Performans ürünleri ve çalışma kâğıtları sonuç değerlendirme olarak kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.5.5.1 Öğrencilerin ilgisini çeken ve gerçek yaşam deneyimlerine dayanan örnek durumlar ile istatistiksel araştırma gerektiren durumları fark etmeleri sağlanır. Öğrencilerin belirleyeceği araştırma sorusuna yönelik gözlem ve keşif yapmalarına imkân verilerek araştırma sürecine dâhil olmalarının yanı sıra merak ettiği soruları sorma eğilimleri desteklenir ( E3.8 ) . Öğrencilerin ihtiyaçları doğrultusunda sosyal bilgiler (kitle iletişim araçlarının kullanım nedenleri, kullanılan sosyal medya platformları, tüketici alışkanları gibi) veya fen bilimleri (çevre sorunları, salgın hastalıklar, çalışma şartları gibi) ile ilişkili gerçek yaşam durumlarına yönelik araştırma soruları oluşturmaları istenir. Oluşturulan araştırma soruları; amacın net olması, değişkenlerin belirlenebilir olması, veri toplanarak cevaplanabilir olması ve elde edilen verinin değişebilirliği (doğal ortamdan, müdahaleden veya ölçümden kaynaklı) kriterlerini sağlayacak şekilde ele alınır. Bu kriterleri sağlayan ve sağlamayan araştırma sorularına ilişkin örneklerin incelenmesi istenir. Öğrencilerin veri toplayacakları araştırma soruları için kişisel bilgilerin gizliliğinin korunması ilkesi gözetilerek süreç tasarlanır. Veriye dayalı cevaplanabilecek araştırma soruları oluşturabilmeleri için kategorik veri setlerinden elde edilmiş bazı istatistikler öğrencilerle paylaşılır. Örneğin çeşitli bakanlıklar tarafından oluşturulmuş, çevrim içi ulaşılabilen veriye göre hazırlanmış bazı görseller kullanılabilir ve bu görselleri yorumlamaları sağlanabilir ( SDB2.3 , OB4 , OB6 ) . Öğrencilerin gerçek yaşam durumları üzerinden tasarruf değeri konusunda bilinçlenmeleri amacıyla ihtiyaç duydukları kadar ürün almaları ( D17.1 , D17.2 ) , gelecek nesilleri düşünerek temiz bir çevre bırakmaya özen göstermeleri ( D18.3 ) veya sürdürülebilir tüketim tercihinde bulunmaları ( D5.2 ) teşvik edilerek duyarlı olmaları desteklenir. Ulaşabilecekleri başka hazır veri kaynaklarının neler olabileceği tartışılarak öğrencilerin bilgi toplama becerilerinin gelişimi desteklenir ( OB1 ) . Öğrencilerin oluşturdukları araştırma sorusunu nasıl yanıtlayabileceklerine ilişkin fikirlerini paylaşmaları ve bu fikirler üzerinde grup ya da tüm sınıf olarak tartışmaları beklenir ( SDB2.2 ) .",
+    "Veriyi nasıl toplayacakları ve analize nasıl hazırlayacaklarına ilişkin yürütülen tartışma ortamında öğrencilerin veri toplama planı yapmaları teşvik edilir. Öğrencilerin veriye dayalı karar verme hedeflerini gerçekleştirmeleri için öz düzenleme kapsamında kendini izleme ve yönetme becerileri işe koşulur ( SDB1.2 ) . Bu aşamada veri toplama ve topladığı verileri kaydederken not defteri ya da dijital araçlardan yararlanmaları sağlanır. Veri toplama planını oluşturan öğrencilere veri toplama ve analize hazırlama sürecinde kullanabilecekleri çevrim içi uygulamalar ve istatistik yazılımları tanıtılır ( OB2, MAB5 ) . Bu adımda \"Araştırmanız için veriyi nasıl analize hazırlayacaksınız?\", \"Veriyi gruplamanız gerekiyor mu?\", \"Veri gruplamayı nasıl yapabilirsiniz?\" gibi sorular yöneltilebilir. Bu süreçte öğrencilerin kategorik veriyeyönelik araştırma sorularına cevap ararken kanıtlar veya gerekçeler sunarak analitik düşünme eğilimi desteklenir ( E3.6 ) . Öğrenciler, veriyi kendileri toplayabileceği gibi hazır veri de kullanabilir. Veri toplamaya karar veren öğrenciler, veri toplama planı doğrultusunda araştırma sorusu bağlamına uygun anket soruları hazırlar. Bu anket sorularının açık, anlaşılır ve amaca uygun olması, sorulacak katılımcıların profiline ve beklenen muhtemel bulgulara göre şekillendirilmesi istenir. Anket soruları hazırlandıktan sonra hedeflenen grup üzerinde ders içi veya ders dışı zamanda öğrenciler tarafından veri toplanır. Veri görselleştirme adımında şekil grafiği, çetele, sıklık tablosu ve nokta grafiğinin kullanılabileceği veri setleri incelenir. Ardından nokta grafiğinden sütun grafiğine geçişe yönelik çalışmalar yapılır. Öğrenciler ihtiyaçları doğrultusunda veriyi istatistik yazılımlarında temsil etmeye teşvik edilir ( MAB3 , MAB5 , OB2 ) . Bu adımda öğrencilerin nokta grafiği, sütun grafiği, daire grafiği gibi grafiklerden birini tercih etmeleri beklenir. Daire grafiği yalnızca parça-bütün ilişkisi üzerinden ele alınır. Öğrencilerin farklı bir grafik türü ile görselleştirilen veri setinde parça-bütün ilişkisini görebilmeleri için yeni bir görselleştirme aracına ihtiyaç olduğunu fark etmeleri sağlanır. Bu amaç doğrultusunda farklı renk ve sayılardaki boncukların dairesel olarak dizilmesi gibi oyunlardan yararlanılarak daire grafiğinin nasıl oluşturulduğu incelenir. Elde edilen verinin görselleştirilmesinde daire grafiğinin kullanım amacı tartışılır. Bir ailenin harcamalarının planlama ve tasarruf değeri ( D17.2 ) bağlamında incelenmesi ve sınıf başkanlığı oylamasında oyların adaylara göre dağılımının değerlendirilmesi gibi örnekler üzerinden daire grafiği ele alınabilir. 5. sınıf düzeyinde daire grafiğinde dilimlerin açılarını hesaplama işlemine başvurulmadan çeşitli uygulamalar aracılığıyla grafik oluşturulur. Çevrimiçi uygulamalar, istatistik yazılımları veya elektronik tablolar daire grafiğinin hazırlanmasına yardımcı olabilir ( MAB5 ) . Renkli boncuklar ve sayma pulları gibi somut manipülatifler de daire grafiği oluşturmada kullanılabilir. Kategorik veriye dayalı veri setlerinde öğrencilerin verinin değişebilirliğini düşünmeleri ve fark etmeleri için kategorilerin sıklık değerlerini incelemeleri istenir. Burada doğal değişebilirlik kavramı ele alınır. Öğrencilerin kategorik veri dağılımları için veriyi özetleme amacıyla sıklık değeri kullanma tercihlerini gerekçelendirmelerinin ardından verinin sıklık değerini hesaplamaları beklenir. 5. sınıf düzeyinde dağılım incelemeleri veri setinin bütünü üzerinden yapılan incelemelerle sınırlandırılır. Merkez kavramına girilmeden veri setindeki en büyük-en küçük değerlerle birlikte verinin yoğunlaştığı noktaların tartışılması istenir. Öğrencilerin istatistiksel araştırma sürecinin son adımında veri ile ilgili yorumların bağlam içinde anlamlı olabildiğini fark etmeleri beklenir. Araştırma soruları cevaplanırken veri toplama yönteminin uygunluğunun ve doğru görselleştirme araçlarının seçiminin önemi vurgulanır. Öğrencinin elde ettiği araştırma sonuçlarına gerekçeler sunması istenir. Bu temada öğrencilerin istatistiksel araştırma süreci adımlarını takip etmesi ile sistematik olma eğilimi ( E3.7 ) desteklenir. Öğrenciler yürüttükleri istatistiksel araştırma süreçlerini gözden geçirerek ulaştıkları sonuçları sınıfta paylaşır. Öğrencilerin istatistiksel araştırma sürecini (döngüsünü) değerlendirerek uygun olmayan adımları yeniden planlaması sağlanır.",
+    "Öğrencilerden performans görevi olarak elektrik ve su tüketim sınıflandırmalarının tasarruf değerine etkisi ( D17.2 ) , gıda alışverişinde çeşitlilik, günlük planda yapılacak işler gibi günlük hayat durumlarına yönelik ya da çevre kirliliğinin kaynaklarını, nedenlerini ve sonuçlarını araştırma bağlamlarını içeren ve istatistiksel araştırma sürecinin bütününü yansıtması beklenen poster hazırlamaları istenerek duyarlılık ve temizlik değerleriyle ilişkilendirilebilir ( D5.2 , D18.3 , OB3 , OB8 ) . Öğrencilere oluşturacakları poster için istatistik yazılımlarından yararlanabilecekleri belirtilir. Aynı zamanda hazırladıkları posterleri sunmaları ve araştırma üzerine tartışmaları desteklenir. Bu süreçte öğrencilerin etkileşimde bulunarak düşüncelerini ifade etmelerine fırsat sunulur ( SDB2.1 ) . Öz değerlendirme formu ile öğrencilerin zorlandığı ve keyif aldığı noktaları açıklamaları ve yeni araştırma süreçlerinde farklılaştıracağı adımları ifade etmeleri istenir ( SDB1.1 ) .",
+    "MAT.5.5.2 İstatistiksel araştırma sürecini deneyimleyen öğrencilerin başkaları tarafından oluşturulmuş kategorik veri içeren istatistiksel sonuç, yorum, çıkarım ve tahminleri tartışması sağlanır. Bu tartışmalara sınıftaki öğrenciler küçük gruplara ayrılarak grup üyelerinin istatistiksel araştırma sürecindeki adımları incelemeleri ile başlanır. Öğrencilerin arkadaşları tarafından yürütülen araştırma süreci adımlarını inceleyerek kategorik veriye dayalı istatistiksel görsel, özet, sonuç, yorum, çıkarım veya tahminlere yönelik istatistiksel temellendirme yapmalarına fırsat sunulur. Yakın çevreden veya sosyal medyadan kategorik veriye dayalı uygun olan veri setleri sınıf ortamında tartışılır. Araştırma adımlarında görsel, özet, sonuç, yorum, çıkarım veya tahminlerin yanlı olup olmadığı, veri sonuçlarının doğru ve objektif şekilde yansıtılıp yansıtılmadığına yönelik tespitlere ulaşılması sağlanır. Bu sürecin bir yansıması olarak öğrencilerin istatistiksel araştırma sürecine dair etik anlayışlarını güçlendirmesi beklenir ( E3.10 ) . Öğrencilerin hazır veriye yönelik görselleştirme ve sonuçları yorumlama adımlarındaki yanlılığa dair incelemeler yapması sağlanarak gerçeği aramaları ( E3.4 ) desteklenir, toplumda dürüstlük değerinin yaygınlaşması için doğru ve güvenilir olmanın gerekliliği ( D6.2 ) vurgulanır. Sosyal medyada yer alan yanıltıcı haberlerle ilişkilendirilerek dijital bilginin kullanımına dair eleştirel düşünme teşvik edilir ( OB2 ) . Öne sürülen istatistiksel hatalara ya da yanlılıklara yönelik öğrencilerin görüşlerini ve gerekçelerini eleştirel bir gözle değerlendirerek açıklamaları istenir ( KB3.3 ) . Veriye yönelik görsellerin, özetlerin ya da sonuçların hatalı veya yanlı olup olmadığına, olumsuz yönde manipüle edilip edilmediğine ilişkin tespitler tartışma ortamında savunulur veya çürütülür ( E3.9 ) . Tartışmalarda öğrencilerin birbirlerinin fikirlerine ön yargısız ve saygılı yaklaşımlar sergilemeleri için uygun ortam oluşturulur ( SDB2.1 , E3.5 ) . Tartışma ortamının değerlendirilmesinde araştırma süreci adımları, analiz araçları ve araştırma sonuçlarının hatalı veya yanlı olma durumlarının incelemesine yönelik gözlem formu kullanılabilir. Öğrenciler arkadaşlarının araştırma sonuçlarını inceledikleri grup çalışmalarının sonunda akran değerlendirme formu doldurabilir ( SDB2.3 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D17.1",
+      "D17.2",
+      "D18.3",
+      "D5.2",
+      "D6.2"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.4",
+      "E3.5",
+      "E3.6",
+      "E3.7",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB3",
+      "OB4",
+      "OB6",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/452"
+}

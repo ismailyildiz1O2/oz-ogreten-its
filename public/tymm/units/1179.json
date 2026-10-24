@@ -1,0 +1,57 @@
+{
+  "unitId": 1179,
+  "grade": 1,
+  "gradeName": "1. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "4.TEMA: MÜZİK DİNLİYORUM",
+  "hours": "12",
+  "description": "Tema içeriğini iyi bir müzik dinleyicisi olma ve toplumda dinlediği müzik türleri ile kültürünü yaşayıp yansıtabilme oluşturmaktadır. Tema içeriğine uygun Türk müziği eserleri dinletilirken müzik dinleme sürecine ilişkin belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.1.4.1",
+      "title": ". Müzik dinleyebilme",
+      "processComponents": [
+        "a) Dinlediği eserin müziksel bileşenlerini tanır.",
+        "b) Dinlediği eserin müziksel bileşenlerini ayırt eder.",
+        "c) Dinlediği eserin müziksel bileşenlerini açıklar."
+      ]
+    },
+    {
+      "code": "KVL.1.4.2",
+      "title": "Dinlediği Türk halk müziği eserleri içerisinde nefesli çalgıları seçebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "kaval, müzik, Türk halk müziği, Türk sanat müziği",
+  "support": [
+    "Dinletilen müziklerin içeriği basitleştirilerek sade ve net melodilere yer verilebilir. Dinlediği müziklerin ritimlerine uygun bedensel hareketler yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Bu süreçte öğrencilerin hazırbulunuşluk, ilgi alanları ve öğrenme stilleri dikkate alınarak dinledikleri müziklere yönelik canlandırmalar yapmaları, oyunlar tasarlamaları ve görseller oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilere çeşitli müzik türleri dinletilip öğrencilere dinledikleri türlerin hız, gürlük vb. özelliklerini anlamaları ve dinledikleri müzikler içerisinde nefesli çalgıları seçmeleri istenebilir. Performans görevi; dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KVL.1.4.1",
+    "Öğrencilere dinledikleri müziklerin vuruşlarını saydırarak hızlı veya yavaş olup olmadığını anlamalarına yönelik akıllı tahta üzerinde oyun oynamaları sağlanır ( OB2 ). Dinlediği müziğin içeriğine yönelik müziksel bileşenleri (gürlük, hız vb.) ayırt etmesi amacı ile örnekler verilerek öğrencilerin müziksel bileşenleri ayırt etmeleri sağlanır. Ardından ayırt ettiği müziksel bileşenleri kendi duygu ve düşünceleriyle ifade etmeleri istenir ( SDB2.1 , D11.1 ). Bu süreç gözlem formu ile değerlendirebilir.",
+    "KVL.1.4.2",
+    "Dinletilen Türk halk müziği eserlerinin içinde, nefesli çalgıların ayırt edilebilmesi için bu çalgıların (kaval, zurna, sipsi, mey vb.) sesleri ayrıca dinletilir. Daha sonra görseller ile çalgılar tanıtılarak eşleşme kartları ile dinlediği çalgı türünü seçmeleri istenir. Öğrencilerin çalışmalarda aktif rol alması sağlanır ( OB4, SDB2.1 , D3.4 , E2.5 ). Performans görevi olarak çeşitli müzik türleri dinletilip dinlediği türlerin hız, gürlük vb. özelliklerini anlamaları ve dinledikleri müzikler içerisinde nefesli çalgıları seçmeleri istenebilir. Bu süreç dereceli puanlama anahtarı, öz değerlendirme formu/ grup değerlendirme formuyla ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D11.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1179"
+}

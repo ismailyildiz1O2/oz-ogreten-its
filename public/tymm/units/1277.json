@@ -1,0 +1,50 @@
+{
+  "unitId": 1277,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kanun Modülü",
+  "title": "2. TEMA: KANUN ÇALARKEN SOFYAN USULÜNÜ ÖĞRENİYORUM",
+  "hours": "6",
+  "description": "Temada öğrencinin sofyan usulündeki eserleri çalması ve sofyan usulünü öğrenmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KNN.4.2.1",
+      "title": "Sofyan usulünü vurarak çalabilme",
+      "processComponents": [
+        "a) Sofyan usulünü sağ ve sol dizinin üstüne vurarak çalmak için yazılmış etüt veya eserleri çözümler.",
+        "b) Sofyan usulünü sağ ve sol dizinin üstüne vurarak çalmak için duruş pozisyonu alır.",
+        "c) Sofyan usulünü sağ ve sol dizinin üstüne vurarak çalmak için usule uygun teknikleri kullanır.",
+        "ç) Sofyan usulünü sağ ve sol dizinin üstüne vurarak çalmak için usulün bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "kanun, müzik, perde, Türk müziği, usul",
+  "support": [
+    "Bu süreçte öğrenme süreci oyunlaştırılarak öğrencilerin motivasyonu artırılabilir. Hazırlanan materyaller, görseller ve etkinlikler öğrencinin hazır bulunuşluk düzeyine göre değerlendirilirken sade ve basitten karmaşığa olabilir. Öğrencileri küçük gruplara ayırarak kanun hakkında öğrendiklerini birbirleriyle paylaşmaları sağlanabilir. Etkinlikler yapılırken öğrencilere ipuçları verilebilir."
+  ],
+  "enrichment": [
+    "Sofyan usulü bir hikâye ile ilişkilendirerek öğretilebilir. Örneğin bir masaldaki kahramanın adımlarıyla ritmi bağdaştırabiliriz: \"düm (büyük adım) - tek (küçük adım) - tek (küçük adım) - düm (büyük adım)\". Öğrenciler, hikâye boyunca kahramanın hareketlerini taklit ederek ritmi vücutlarıyla hissetmeli. Şarkı ve ritmik tekerlemelerle çalışma bir zenginleştirme çalışması yapılabilir. Örneğin \"Mini mini bir kuş donmuştu\" şarkısı bu usule uygundur. Çocuklardan şarkıya uygun şekilde dizlerine vurarak ritim tutmaları istenebilir. Önce sadece eller, sonra sözle birlikte ve ardından enstrümanla çalışılabilir. Ayrıca kanun veya basit ritim enstrümanları ile de uygulama yapılabilir. Sofyan usulünü sadece diz yerine def, darbuka veya kanun ile uygulayabilirler. Öğrencinin kanunda, sağ elde düm, sol elde tek vuruşlarını denemesi sağlanabilir. Alternatif olarak pet şişe, tahta kaşık veya kalem gibi günlük nesnelerle ritim çalışması yaptırılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, kontrol listesi, öz değerlendirme, akran değerlendirme formu eşleştirme kartları kullanılarak değerlendirilebilir. Dinlediğini anlama ve tanıma becerisini içine alan performans görevi verilebilir. Öğrencilerden sofyan usulünü çaldığı eserlerde uygulayabilme ile ilgili performans görevi istenebilir. Performans görevi analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KNN.4.2.1",
+    "Öğrencinin çalışacağı eser veya etütler öğrenciyle birlikte çözümlenir. Öğrenciye geleneksel Türk müziğinde usul kavramının önemi ve Türk müzik kültüründeki yeri hakkında genel bilgi verilir ( OB5 ). Bu süreçte öğrenciler Türk müziğinin ritmik yapısını daha iyi kavrayarak kültürel mirasımızın korunmasına katkı sağlayan geleneksel ögeleri tanıma fırsatı bulur ( D19.3 ). Öğrenciye usul kavramı geleneksel Türk müziğimiz içerisinde ve Türk müzik kültüründe ( OB5 ) usulün ne olduğu, eserlerde nasıl kullanıldığı ile ilgili genel bilgi verildikten sonra birleşik usullerden olan sofyan usulünün vuruşları (darpları) ile uygulamalı bir şekilde gösterilerek öğrencinin usule ve usul vurmaya odaklanması sağlanır ( E3.2 ). Daha sonra öğrenciden bunları tekrar etmesi istenebilir. Öğrenilen bu usullerin yaşantımızda nerelerde duyulduğuna örnekler verilerek bu örnekler çeşitlendirilir ( SDB2.1 ). Ardından bu usullerde yazılmış etüt ve örnek eserler çalınarak usul kavramı pekiştirilir. Sofyan usulünü çaldığı eserlerde uygulayabilme ile ilgili performans görevi verilebilir. Performans görevi analitik dereceli puanlama anahtarı öz değerlendirme, akran değerlendirme formu kullanılarak değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D19.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "okuryazarlik": [
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1277"
+}

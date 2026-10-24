@@ -1,0 +1,206 @@
+{
+  "unitId": 13,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Biyoloji Dersi",
+  "title": "1. TEMA: TEPKİ",
+  "hours": "78",
+  "description": "Bu temanın içeriğini canlıların uyartılara verdiği tepkiler oluşturmaktadır. Tema kapsamında öğrencilerin bitkilerde ve hayvanlarda tepki mekanizmalarını çözümlemeleri, bitkilerde hareketin sınıflandırılması deneylerini yapmaları; sinir sistemi farklılıkları, refleks, bağışıklık ve alerji oluşumunu sorgulamaları ve farklı canlıların uyartılara karşı oluşturduğu tepki mekanizmalarıyla ilgili akıl yürütmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BİY.11.1.1",
+      "title": "Farklı canlıların uyaranlara karşı oluşturduğu tepki mekanizmaları ile ilgili tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Farklı canlıların çeşitli uyaranlara karşı oluşturduğu tepki mekanizmaları ile ilgili örüntü bulur.",
+        "b) Farklı canlıların çeşitli uyaranlara karşı oluşturduğu tepki mekanizmaları ile ilgili genelleme yapar."
+      ]
+    },
+    {
+      "code": "BİY.11.1.2",
+      "title": "Bitkisel hormonların etkileri hakkında akıl yürütebilme",
+      "processComponents": [
+        "a) Bitkisel hormonların etkilerini deney yaparak gözlemler.",
+        "b) Bitkisel hormonların etkilerini tespit eder.",
+        "c) Bitkisel hormonların etkilerinin benzerlikleri üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.11.1.3",
+      "title": "Bitkilerdeki tepki mekanizmalarını sınıflandırabilme",
+      "processComponents": [
+        "a) Bitkilerdeki tepki mekanizmalarını ayrıştırmak için hareketin niteliklerini belirler.",
+        "b) Bitkilerin oluşturduğu tepkileri uyaranın yönüne bağlı olanlar ve uyaranın yönüne bağlı olmayanlar olarak ayrıştırır.",
+        "c) Bitkilerde tepki mekanizmalarını uyaranın yönüne bağlı olanlar ve uyaranın yönüne bağlı olmayanlar şeklinde gruplandırır.",
+        "ç) Uyaranın yönüne bağlı olan ve uyaranın yönüne bağlı olmayan şeklinde gruplandırdığı tepki çeşitlerini adlandırarak bilimdeki karşılıklarıyla kıyaslar."
+      ]
+    },
+    {
+      "code": "BİY.11.1.4",
+      "title": "Bitkilerde yönelme hareketlerini gözlemleyebileceği deney yapabilme",
+      "processComponents": [
+        "a) Bitkilerde yönelme hareketlerini gözlemleyebileceği bir deney tasarlar.",
+        "b) Tasarladığı deneyden elde ettiği sonuçların analizini yapar ve bu sonuçları bitkilerde hareketi etkileyen faktörleri açıklamak için kullanır."
+      ]
+    },
+    {
+      "code": "BİY.11.1.5",
+      "title": "Duyu reseptörlerini ve duyu reseptörlerinin bulunduğu duyu organlarını sınıflandırabilme",
+      "processComponents": [
+        "a) Duyu reseptörlerinin ve duyu organlarının niteliklerini belirler.",
+        "b) Duyu reseptörlerini ve duyu organlarını niteliklerine göre ayrıştırır.",
+        "c) Duyu reseptörlerini ve duyu organlarını belirlediği ölçütlere göre gruplandırır.",
+        "ç) Duyu reseptörlerini ve duyu organlarını belirlediği ölçütlere göre etiketler."
+      ]
+    },
+    {
+      "code": "BİY.11.1.6",
+      "title": "Hayvanlardaki sinir sistemi farklılıkları ile ilgili analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Hayvanlardaki sinir sistemi farklılıklarını inceler.",
+        "b) Hayvanlardaki sinir sistemi farklılıklarını tespit eder.",
+        "c) Hayvanlardaki sinir sistemi farklılıkları üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "BİY.11.1.7",
+      "title": "İnsanda sinir sistemi yapısını çözümleyebilme",
+      "processComponents": [
+        "a) İnsanda sinir sistemi yapısına ilişkin parçaları belirler.",
+        "b) İnsanda sinir sistemi yapısının parçaları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "BİY.11.1.8",
+      "title": "Refleks olayını yorumlayabilme",
+      "processComponents": [
+        "a) Güncel hayatta gerçekleşen farklı refleks olaylarını inceler.",
+        "b) Örnek refleks mekanizmasını bağlamdan kopmadan yazılı ve sözlü ifadelere dönüştürür.",
+        "c) Refleks olayının gerçekleşme sürecini anlamı değiştirmeyecek şekilde kendi cümleleriyle ifade eder."
+      ]
+    },
+    {
+      "code": "BİY.11.1.9",
+      "title": "Harekete dayalı tepkinin oluşmasında iskelet, kas ve eklemlerin eş güdümlü çalışmasıyla ilgili eleştirel düşünebilme",
+      "processComponents": [
+        "a) İskelet, kas ve eklemlerin eş güdümlü çalışmasının gerekliliğini sorgular.",
+        "b) İskelet, kas ve eklemlerin eş güdümlü çalışması konusunda akıl yürütür.",
+        "c) İskelet, kas ve eklemlerin eş güdümlü çalışması konusunda akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    },
+    {
+      "code": "BİY.11.1.10",
+      "title": "İskelet kaslarının kasılma ve gevşeme mekanizması ile ilgili bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) İskelet kaslarının kasılma ve gevşeme mekanizmasını açıklayan modeller önerir.",
+        "b) İskelet kaslarının kasılma ve gevşeme mekanizması ile ilgili oluşturduğu modeli bilimsel modellerle karşılaştır ve elde ettiği kanıtlarla modelini yeniler."
+      ]
+    },
+    {
+      "code": "BİY.11.1.11",
+      "title": "Bağışıklığı sınıflandırabilme",
+      "processComponents": [
+        "a) Bağışıklığı sınıflandırmak amacıyla bağışıklığın niteliklerini tanımlar.",
+        "b) Bağışıklık sistemi yapılarını niteliklerine göre ayrıştırır.",
+        "c) Bağışıklık sistemini gruplandırır.",
+        "ç) Bağışıklık sistemi ile ilgili yaptığı gruplandırmayı etiketler."
+      ]
+    },
+    {
+      "code": "BİY.11.1.12",
+      "title": "Alerjik tepkilerin oluşumunu sorgulayabilme",
+      "processComponents": [
+        "a) Alerji ile ilgili merak ettiği konuları belirler.",
+        "b) Alerji hakkında sorular sorar.",
+        "c) Alerji hakkında bilgi toplar.",
+        "ç) Alerji hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Alerjik tepkilerin oluşumu ile ilgili çıkarım yapar."
+      ]
+    }
+  ],
+  "keyConcepts": "yönelme, irkilme, duyu, aksiyon potansiyeli, bütünleştirme, tepki, kasılma, hareket, bağışıklık",
+  "support": [
+    "Farklı uyaranların ve tepki göstermiş farklı canlıların görsellerinin yer aldığı kartlar verilerek öğrencilerden tepki ve uyaran eşleştirmesi yapmaları istenebilir. Deney videoları ve animasyonlar kullanılarak bitkisel hormonların etkilerinin ve bitkilerde meydana gelen tepkilerin gözlemlenmesi sağlanabilir. Işık, kimyasal, su, sıcaklık, sarsıntı gibi uyaranlara ait görsellerin bulunduğu kartlarla fototropizma, kemotropizma, hidrotropizma, fotonasti, termonasti ve sismonasti hareketlerini gösteren bitki görsellerinin bulunduğu kartların eşleştirilmesi istenebilir. Aynı kartlar kullanılarak yönelmenin pozitif ya da negatif olarak belirlenmesi istenebilir.",
+    "Duyu organlarına ait görsellerin yer aldığı kartlar ile duyu reseptörlerinin adlarının yazılı olduğu kartların eşleştirilmesi istenebilir. Sinir sistemi farklı olan canlıların sinir sistemi yapısı, görseller ile gösterilebilir. İnsan sinir sisteminin yapı ve işlevini gösteren maket/ model incelenebilir. Refleks olayı ile ilgili verilen somut örnekler çeşitlendirilebilir."
+  ],
+  "enrichment": [
+    "Öğrencilere göç eden canlıların dünyanın manyetik alanlarını algılayarak rotalarını nasıl bulduklarını ve bunun fizik bilimiyle ilişkisini araştırmaya yönelik proje ödevi verilebilir.",
+    "Öğrencilerden etilenin programlı hücre ölümü (apoptoz) ve yaprak absisyonu gibi etkilerini araştırarak meyve olgunlaşmasında aktif etki mekanizmalarıyla ilgili bir bilgilendirme afişi hazırlamaları istenebilir. Işık renginin ya da ışık miktarının fototropizmayı etkileyip etkilemediğini belirlemek ve fototropik tepkiyi engellemek için kesilmesi gereken minimum koleoptil boyunu tespit etmek amacıyla deney tasarlamaları istenebilir. *Bitkilerde fototropizmanın \"tarım ve seracılıkta verimin artırılması ve bitki büyümesinin yönlendirilmesi\" süreçlerinde nasıl kullanılabileceğini araştırmaları istenebilir. Öğrencilerden ışığın rodopsin reseptör proteinine etkilerini, fotosinyal iletiminin başlama mekanizmalarını ve renk körlüğünün moleküler nedenlerini araştırmaları istenebilir. *Öğrencilere görme duyu organında oluşabilecek kusurların neler olduğunu ve bunların nasıl tedavi edileceğini araştırmaya yönelik proje ödevi verilebilir. İşitme ve denge kaybına neden olan rahatsızlıklar ve duyu organlarının sağlığının korunması için yapılması gerekenler hakkında araştırma ödevi verilebilir. Öğrencilerden multiple skleroz (MS), epilepsi, demans, alzaymır gibi sinir sistemi hastalıklarını neden-sonuç ilişkisi çerçevesinde tartışmaları beklenebilir.",
+    "Öğrencilerden insanlarda sempatik ve parasempatik sinir sisteminin ne olduğunu somutlaştırmak, bunların işlevsel benzerlik ve farklılıklarını ortaya koymak amacıyla kâğıt, karton, ip, makas gibi kolay ulaşılabilir malzemeleri kullanarak model oluşturmaları istenebilir. Sinir sistemini oluşturan sinir dokusu hücrelerinin yapı ve görevlerini araştırmaları istenebilir. Felç durumları, botoks uygulamaları ve lokal anestezinin sinir sistemi ile bağlantısının ne olduğunu araştırarak sunum hazırlamaları istenebilir.",
+    "Öğrencilere beyin diseksiyonu deneyi yaptırılabilir. Öğrenciler savaş ya da kaç reflekslerinin ne olduğunu, bu reflekslerin koordinasyonunda sinir ve endokrin sistemlerinin birlikte nasıl çalıştığını araştırabilirler. Öğrencilerden düz ve çizgili kasların kasılma mekanizmalarını karşılaştırmaları istenebilir. Anormal bağışıklık fonksiyonları (anaflaktik şok, otoimmün yetmezliği, sitokinin fırtınası vb.) ile ilgili bilgi toplamaları ve bu bilgilerle oluşturdukları bir posteri arkadaşlarıyla paylaşmaları istenebilir. Öğrencilere pandemi döneminde Türkiye'de geliştirilen inaktif COVID-19 aşısı (TURKOVAC) ve Türk bilim insanlarının bu süreçte aşı geliştirme alanında yürüttükleri çalışmaları konu alan bir proje ödevi verilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; açık uçlu soruların yer aldığı çalışma yaprağı, deney yapma, kavram haritası, yapılandırılmış grid, öğrenme günlüğü, bilgi görseli, zihin haritası, model oluşturma, broşür, performans görevi kullanılarak dereceli puanlama anahtarı, öz değerlendirme ve akran değerlendirme ile değerlendirilebilir.",
+    "Çalışma yaprağında tepki mekanizmalarının çeşitleriyle ilgili örnek durum verilip, açık uçlu sorular yöneltilerek öğrencilerden tepki mekanizmasına ilişkin örüntüleri bulmaları ve buldukları örüntüler hakkında akıl yürütmeleri istenebilir. Öğrencilerin sorulara verdiği cevaplar, puanlama anahtarı ile puanlanabilir.",
+    "Öğrencilere iskelet kaslarının kasılma mekanizmasıyla ilgili üç boyutlu model oluşturmaya yönelik performans görevi verilebilir. Öğrencilerin oluşturacağı model, analitik dereceli puanlama anahtarı ile puanlanabilir; öz değerlendirme formu kullanılabilir.",
+    "Öğrencilere bilgi toplama, topladığı bilgilerin doğruluğunu değerlendirme, alerjik tepkilerin oluşumuna ilişkin çıkarımda bulunma, alerjiyi tanımlama basamaklarını içeren broşür hazırlayacakları performans ödevi verilebilir. Öğrencilerin oluşturacağı broşür, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "BİY.11.1.1 a-b) Farklı canlıların çeşitli uyaranlara farklı tepkiler gösterdiği konusuna dikkat çekilir ( E1.1 ) . Canlılardaki tepki mekanizmalarıyla ilgili çıkarım yapmalarını sağlamak amacıyla öğrencilere bir doğa belgeseli, video veya animasyon izletilebilir. Bu süreçte öğrencilerden farklı canlıların uyaranlara verdiği tepkilerle ilgili notlar almaları istenir. Öğrencilerin canlıların tepki mekanizmaları örüntüsünü (uyaranı alma, yorumlama, tepkinin ortaya çıkışı) keşfetmeleri sağlanır. Öğrenciler, keşfettikleri örüntülerden yola çıkarak farklı canlıların çeşitli uyaranlara farklı mekanizmalarla tepki vermesine ilişkin genelleme yapar ( OB1 ) .",
+    "BİY.11.1.2 a) Öğretmen, sınıfa içinde çürük elmanın da bulunduğu bir poşet elma veya susuz ya da aşırı soğukta bıraktığı saksı bitkisi getirebilir. Çürük elma çıkarılmazsa poşetteki diğer elmalara ne olacağını, susuz ya da aşırı soğukta bıraktığı bitkinin büyüme ve gelişmesinde neler gözlemlenebileceğini sorar. Bu sorularla öğrencilerde söz konusu örneklerde gerçekleşen olayların sebepleriyle ilgili merak uyandırılır. Öğrencilerden bitkisel hormonların (oksin, sitokinin, giberellin, etilen ve absisik asit) etkileri konusunda bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan araştırma yapmaları istenir ( OB2 ) . Bu süreçte oksin/ sitokinin hormonu oransal etkilerine değinilmez. Öğrencilerden bitkisel hormonlardan herhangi birini seçerek bitkisel hormonların etkisini gözlemleyebileceği bir deney tasarlamaları ve deneyi gerçekleştirmeleri istenir. Deneyin tasarlanıp gerçekleştirilme sürecinde öğrencilere görevlerini zamanında ve eksiksiz yerine getirmeleri hatırlatılarak sorumluluk değeri vurgulanır ( D16.3 ) .",
+    "b) Ö ğrenciler, deney sonuçlarını gözlemler ve elde ettikleri verileri kaydeder. Öğrencilerden deney sonuçlarından ve kaydettikleri verilerden yola çıkarak etkilerinin neler olduğunu tespit etmeleri istenir ( E3.4 ) . c) Öğrencilerden deney sonucunda tespit ettikleri etkileri bilimsel kaynaklardan yaptığı araştırma sonuçları ile kıyaslayarak bitkilerin salgıladığı hormonların farklı tür tepkilere yol açtığı, bitkisel hormonların tarım açısından gerekliliği ve bu hormonların tarımda ilave kullanımlarının avantaj ve dezavantajlarıyla ilgili çıkarımda bulunmaları istenir ( KB2.10 ) . Öğrencilerden deneye ilişkin rapor hazırlamaları istenebilir. Deney raporu, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.11.1.3 a-b) Bitki hareketlerini gösteren ve bitkilerdeki tepki mekanizmalarının gözlemlenebileceği animasyon/videolar izletilir veya sunum yapılır. Öğrencilerden sunumdaki görsellerde veya izledikleri animasyonda/videoda bitkilerde hangi tür hareketlerin görüldüğünü not etmeleri ve tepki mekanizmalarını sınıflandırabilecekleri ölçütleri (durum değiştirme ve yönelme) belirlemeleri istenir. Öğretmen, öğrencilerin ölçütleri belirlemelerine yardımcı olmak amacıyla tepkisel hareketlerinin belirgin şekilde gözlemlenebileceği küstüm otu ve ayçiçeği gibi bitkileri seçebilir. Öğrenciler, inceledikleri örneklerden yola çıkarak tepkisel hareketin gerçekleşmesine neden olan uyaranları tespit eder; tepkinin uyaranın yönüne bağlı olup olmadığını belirler. Öğrencilerden bu hareketleri \"uyaranın yönüne bağlı olanlar\" ve \"uyaranın yönüne bağlı olmayanlar\" şeklinde ayrıştırmaları istenir ( E3.2 ) .",
+    "c) Bitkilerdeki tepki mekanizmalarını gruplandırmak amacıyla öğrencilerden tepkinin \"uyaranın yönüne bağlı olması\" ve \"uyaranın yönüne bağlı olmaması\" ölçütlerinin alt gruplarını tespit etmesi istenir. Bu süreçte ışık, sıcaklık, kimyasal etkisi, suyun varlığı (miktarı) ve sarsıntı, dokunma, yer çekimi ölçütlerinin öğrenciler tarafından belirlenmesi beklenir. Öğrencilerden inceledikleri örneklerde yer alan bitkilerde meydana gelen tepkileri belirledikleri ölçütleri kullanarak gruplandırmaları istenir. Öğrenciler, uyaranın yönüne bağlı olan tepkilerde uyaranların ışık, kimyasal ve su olduğunu; uyaranın yönüne bağlı olmayan tepkilerde ise hareketin ışık, sıcaklık ve sarsıntıya dayalı gerçekleştiğini belirleyerek bitkilerdeki tepki mekanizmalarını gruplandıracağı bir tablo oluşturur.",
+    "ç) Öğrencilerden belirledikleri farklı tepki çeşitlerini adlandırarak bilimdeki karşılığı ile kıyaslamaları beklenir. Bu süreçte bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan bilgi toplamaları istenir. Bitkilerde tepki mekanizmalarını bilimsel isimleri ile sınıflandıracakları kavram haritası hazırlamaları istenebilir. Kavram haritası, puanlama anahtarı ile puanlanabilir.",
+    "BİY.11.1.4 a) \"Bitkilerin gövdesi yukarıya doğru büyürken kökleri neden toprağın derinliklerine doğru gelişir?\" sorusu ile bitkilerdeki tropizma (yönelme) hareketleriyle ilgili merak uyandırılır. Bitki gövdesinin ışık uyaranına doğru yönelme hareketleri, bilim insanları tarafından gerçekleştirilen koleoptil deneylerinin bilimsel ve dijital kaynaklarda paylaşılan görselleri üzerinden açıklanır ( OB4 ) . Asimetrik büyüme ve oksin hormonunun önemi vurgulanır. Pozitif ve negatif tropizma hareketlerini gösteren hızlandırılmış videolar izletilebilir. Gruplara ayrılan öğrenciler; ışık, su ve kimyasal uyaranlarının bitkideki tropizma hareketlerine etkilerini gözlemleyecekleri deney tasarlar ( E3.3 ) . Deneyin gerçekleştirilme aşamasında oluşabilecek hataların neler olabileceği ve bunları önlemek için neler yapılması gerektiği ile ilgili sorular sorularak öğrencilerden deney adımlarını oluşturmaları ve tasarladıkları deneyi gerçekleştirmeleri istenir ( E2.3 ) . Deney sırasında oluşabilecek hataların önüne geçmek için yapılması gerekenleri içeren kontrol listesi kullanılır. b) Öğrenciler, deney sonunda elde ettikleri verileri kaydeder; kaydettikleri verileri analiz ederek bir deney raporu hazırlar ve deney sonuçlarını diğer gruplarla paylaşır. Paylaşım sırasında öğrencilerin birbirleriyle dayanışma içinde olmaları teşvik edilerek yardımseverlik değeri vurgulanır ( D20.2 ) . Deney sürecinde öğrencilerin birbirleriyle yardımlaşmaları, deney sonuçlarını yorumlarken diğerlerinin düşüncelerine saygı duymaları ve saygı çerçevesinde tartışarak uzlaşmaları beklenir ( SDB2.2 , D14.1 ) . Deney raporu, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir; öz değerlendirme ve grup değerlendirme formları kullanılabilir.",
+    "BİY.11.1.5 a) Öğrencilerden uyaran çeşitlerine örnekler vermeleri ve bu uyaranların duyu organlarıyla nasıl bağlantı kurduklarına ilişkin düşüncelerini ifade etmeleri istenir ( E3.5 ) . Ayrıca öğrencilerden duyu organları–reseptör–nöron ilişkisini ve nöronların yapısını, çeşitlerini ve görevlerini bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan araştırmaları istenir. Öğrenciler, elde ettikleri bilgileri kullanarak nöronların yapısını ve niteliklerini keşfeder. Uyartı adı verilen zar potansiyeli değişiminin nöron boyunca nasıl taşındığını ve diğer nöronlara nasıl aktarıldığını fark ederek duyu reseptörlerinin ve duyu organlarının niteliklerini belirler ( OB1 , E3.6 ) . Bu süreçte polarizasyon, depolarizasyon, repolarizasyon kavramlarının tanımı yapılır; iyon kanalları, iyon pompalarının çeşitleri ve moleküler çalışma mekanizmaları verilmez. Sinaptik sinyal iletiminde nörotransmiter çeşitleri ile kimyasal sinyal iletiminin mekanizmalarına ve Glia hücrelerinin çeşitlerine değinilmez.",
+    "b) Öğrenciler, bilimsel kaynaklardan yaptıkları araştırmalardan hareketle duyu reseptörlerini \"fiziksel ve kimyasal uyaranları algılayanlar\" şeklinde ayrıştırır. Öğrencilerden duyu organlarını duyu reseptörlerinin çeşitlerine, yapı ve işlevlerine göre ayrıştırmaları beklenir.",
+    "c-ç) Öğrencilerden güvenilir kaynaklardan elde ettikleri bilgileri, görselleri, videoları veya sınıfta/laboratuvarda bulunan maketleri kullanarak duyu organları ile duyu reseptörlerini gruplandırmaları ve etiketlemeleri beklenir ( OB2 , D3.3 ) . Bu süreçte göz uyumu ve görme kusurları verilmez. Denge mekanizması konusu işlenirken \"dinamik ve statik harekete göre konum alma\" olaylarına değinilmez.",
+    "Öğrencilerin duyu organlarını ve duyu reseptörlerini niteliklerine göre ayrıştırması, duyu organlarını ve duyu reseptörlerini yapı ve işlevlerine göre gruplandırması amacına yönelik yapılandırılmış grid kullanılabilir. Yapılandırılmış grid, puanlama anahtarı ile puanlanabilir.",
+    "BİY.11.1.6 a-b) Öğrencilerin video, animasyon ve görsellerden yararlanarak omurgasız hayvanlardan süngerler, sölenterler, yassı solucanlar, eklembacaklılar ile omurgalı hayvanlardan balıklar, sürüngenler, kuşlar ve memelilerde bulunan sinir sistemi yapılarını ve çeşitli uyaranlara karşı verdiği tepkileri incelemeleri sağlanır ( OB4 ) . Bu süreçte, sinir sisteminin organizasyon düzeyine (sinir ağı, ganglion, sinir kordonu, merkezî sinir sistemi), özelleşmiş yapıların varlığına (beyin, duyu organları) ve canlıların uyaranlara karşı verdiği örnek tepkilere odaklanmaları beklenir. Öğrencilerden gözlemleri doğrultusunda canlılardaki sinir sistemlerinin benzer ve farklı yönlerini ortaya koymaları istenir. Bu kapsamda; tüm canlılarda sinir hücrelerinin uyartı iletme gibi ortak görevleri ile birçok hayvanda ağ yapısı oluşturma benzerliklerine değinilir. Buna ek olarak süngerlerden omurgalılara kadar basitten karmaşığa doğru değişen yapısal farklılıkların (solucanlarda gangliyon ve sinir şeritlerinin görülmesi, eklem bacaklılarda beyin ve karın sinir sisteminin gelişmiş olması, omurgalılarda beyin ve omuriliğin daha karmaşık yapılı olması) belirlenmesi sağlanır ( E3.7 ) .",
+    "Öğrencilerden her hayvan grubunun sinir sistemi tipi, gözlenen benzerlikler ve farklılıklar ile bunlardan çıkardıkları işlevsel sonuçları konu alan öğrenme günlüğü hazırlamaları istenebilir. Öğrenme günlüğü, puanlama anahtarı ile puanlanabilir.",
+    "BİY.11.1.7 a-b) Öğrencilerden insanın merkezî ve çevresel sinir sistemlerini oluşturan yapılar ve bu yapıların görevleri hakkında bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan araştırma yapmaları istenir ( OB1 ).",
+    "Öğrencilere insan sinir sisteminin tek bir yapı olarak bütün hâlinde bulunduğunu fakat görevleri açısından farklı bölümlere ayrıldığını fark etmelerini sağlamak amacıyla hazırlanmış bilgi kartları sunulur. \"Koşan bir insanın ayağı taşa takılıp düşüyor; bu sırada kasların hareketi, dengenin sağlanması, kalbin hızlanması,\" örneğiyle aynı olayda ortaya çıkan birden fazla tepkinin sinir sisteminin farklı bölümleri tarafından kontrol edildiği gösterilerek parçalar arasındaki işlevsel ilişkilerin ortaya çıkarılması sağlanır. Bu süreçte beyin kabuğu loblarına ya da sempatik–parasempatik ayrımına girilmez.",
+    "Öğrencilerin sinir hücrelerinin fonksiyonlarına göre duyu, ara ve motor nöronlar olarak sınıflandığını kavramaları sağlanır. Verilen örnekte, ayağın yere temasından doğan uyarıların duyu nöronları aracılığıyla merkezî sinir sistemine taşındığı; burada bulunan ara nöronlar tarafından gelen bilgilerin değerlendirilip uygun yanıtın oluşturulduğu; bu yanıtın motor nöronlar aracılığıyla hedef organlara iletildiği belirtilir. Böylece kasların kasılması, dengenin korunması, kalp atışının hızlanması gibi tepkilerin bu süreçte eşgüdümlü gerçekleştiği vurgulanır.",
+    "Öğrencilerden sinir sisteminin yapısal bileşenlerini ve bu bileşenler arasındaki ilişkileri gösteren bir bilgi görseli hazırlamaları istenebilir. Bilgi görseli uygun web2 araçlarıyla paylaşılabilir ( OB2 ). Bilgi görseli, bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "BİY.11.1.8 a) Öğrencilerden göz bebeği, diz kapağı, yutkunma, emme refleksi olaylarının oluş sürecinde sinir sisteminin hangi yapılarının görev aldığını görsellerden, izledikleri video ve animasyonlardan veya öğretmenin vereceği çalışma yapraklarından belirlemeleri istenir. Bu süreçte kazanılmış refleks ve doğuştan gelen refleks ayrımına girilmez.",
+    "b) Öğrencilerden diz kapağı refleksinde görev alan yapıların çalışma mekanizmasını şema veya görsel olarak sunmaları beklenir ( E3.4 ) . Öğrenciler, oluşturdukları şema veya görseli bağlamdan kopmadan yazılı veya sözlü ifadelere dönüştürür.",
+    "c) Öğrencilerden zihin haritası oluşturarak refleks olayının gerçekleşme sürecini anlam bütünlüğünü bozmadan kendi ifadeleri ile açıklamaları istenir. Zihin haritası, puanlama anahtarı ile puanlanabilir. Bu kapsamda öğrenciler, refleks davranışlarını yorumlar; yorumlarını sınıf arkadaşlarıyla paylaşır ve edindikleri bilgileri gelecek öğrenmelerinde nasıl kullanabileceklerini tartışır ( SDB1.3 ) .",
+    "BİY.11.1.9 a-b) Öğrencilerden destek ve hareket sisteminin yapısı ve bu yapıların çalışma mekanizmaları hakkında bilim dergileri, bilimsel makaleler gibi güvenilir kaynaklardan bilgi toplamaları istenir ( D3.3 ) . Söz konusu kaynaklara ulaşmanın mümkün olmadığı durumlarda ders kitabında verilen video ve animasyonlardan yararlanılır. Öğrencilerin bu bilgilerden yola çıkarak kemik ve kıkırdak yapısı ile çeşitlerini, eklem ve kasların yapısını, çeşitlerini ve bulunduğu organları belirlemeleri; harekete dayalı tepkinin oluşmasında iskelet, kas ve eklemlerin eş güdümlü olarak çalışmalarının gerekliliğini sorgulamaları ve bu eş güdümün nasıl sağlandığı hakkında akıl yürütmeleri beklenir.",
+    "c) Öğrencilerden iskelet, kas ve eklemlerin eş güdümlü çalışması konusunda akıl yürütmeyle ulaştıkları çıkarımları bilgi görseli hazırlayarak yansıtmaları istenebilir.",
+    "İskelet, kas ve eklemlerin eş güdümlü çalışması konusunda öğrencilerin akıl yürüterek cevaplayabileceği açık uçlu sorular çalışma yaprağı ile sunulabilir. Öğrencilerin sorulara vereceği cevaplar, puanlama anahtarı ile değerlendirilebilir. BİY.11.1.10 a) Öğrencilerden iskelet kaslarının kasılma ve gevşeme mekanizmasının işleyişini gösteren bir model önermeleri istenir. Öğrenciler, iskelet kaslarının kasılması ve gevşemesi sırasında A, I ve H bantları ile sarkomerde meydana gelen değişmeleri maket, diyagram, şema veya etkileşimli görsel iletişim uygulamaları aracılığıyla modeller. Bu süreçte kas kasılmasının hücresel moleküler mekanizmalarına ve kasılma için gerekli enerji kaynaklarına değinilmez ( E3.3 ) . Grup çalışmasında öğrencilerden iş birliği içinde çalışmaları, birbirleriyle yardımlaşarak çalışmaya etkin katılım göstermeleri, farklı fikirleri tartışarak uzlaşmaları, birbirlerine saygılı davranmaları, grup olarak çalışmanın dostluğa katkısını fark etmeleri ve yaptıkları çalışmaları değerlendirmeleri beklenir ( SDB2.2 , D4.2 ) .",
+    "b) Öğrencilerden \"kayan iplikler hipotezi\" modelini video, animasyon, simülasyon ve çeşitli görseller yardımıyla incelemeleri ve hazırladıkları modelleri kayan iplikler hipotezi modeliyle karşılaştırmaları istenir ( E3.10 ) . Öğrencilerden oluşturdukları modelin bant yapıları (A, I ve H bantları), Z çizgisi, aktin ve miyozin filamentleri ve sarkomer kısımlarında bilimsel modellerle uyumlu olmayan yapıları güncelleyip modellerini yenilemeleri istenir ( E3.4 ) .",
+    "BİY.11.1.11 a) Öğrencilere \"Günlük yaşantıda hemen hemen her an mikroorganizmalarla etkileşim içinde olduğunuz hâlde neden bazılarınız hasta olurken bazılarınız hasta olmaz?\", \"İnsan vücudu mikroorganizmalarla karşılaştığında nasıl tepki verir?\", \"Hastalıklardan korunmak için neden aşı olursunuz?\" gibi sorular sorularak bağışıklık sisteminin mikroorganizmalara karşı oluşturduğu tepkinin önemi konusunda merak uyandırılır. Örnek durum ve olaylar sunularak bağışıklığın \"sınıflandırılabilir olma; tanıma, aktivasyon ve tepki olmak üzere üç aşamada gerçekleşme\" gibi özelliklerinin belirlenmesi sağlanır. Öğrenciler, Bağışıklığın Sınıflandırılması tablosunu kullanarak bağışıklığın nasıl geliştiğine dair fikirlerini belirtir ve sınıflandırmanın niteliklerini tanımlar.",
+    "b-c-ç) Öğrenciler, bağışıklıkla ilgili verilen örnekleri inceleyip bunları tüm insanlarda bulunan ve doğuştan gelen (doğal bağışıklık) ya da sonradan kazanılan (kazanılmış bağışıklık) bir bağışıklık biçimi olma durumlarına göre nitelendirerek ayrıştırır; bağışıklık elemanlarını gruplandırarak doğal ve kazanılmış bağışıklığın karşılaştırmalı tablosunu oluşturur. Bu gruplandırmada öğrencilerden doğuştan gelen ve kazanılmış bağışıklıkta görev alan molekülleri ya da hücreleri, kazanılmış bağışıklığın iki farklı biçimini (aktif ve pasif bağışıklık), bağışıklık hafızasının oluşup oluşmadığını, bağışıklık sisteminin tepki şeklini ve tepkinin oluşma süresini belirtmeleri istenir. Bağışıklığın insan ve toplum sağlığı açısından önemi vurgulanarak sağlıklı yaşam değerine dikkat çekilir ( D13.4 ) . Öğrenciler, bağışıklık sistemi ile ilgili yaptıkları gruplandırmayı kullanarak bağışıklığın farklı çeşitlerini bilimsel tanımlamalara uygun olarak isimlendirir. Öğrencilerden bağışıklık elemanlarıyla ilgili kavram haritası oluşturması istenebilir. Kavram haritası, puanlama anahtarı ile puanlanabilir. BİY.11.1.12 a) Öğrencilere alerji ve alerjik reaksiyonların vücuttaki etkileriyle ilgili video veya animasyon izletilir. Öğrencilerden bu video veya animasyonda gördükleri durumları yorumlamaları istenir.",
+    "b) Öğrencilere \"İçinizde herhangi bir etkene karşı alerjik tepkisi olan var mı?\", \"Herhangi bir etkene karşı alerjisi olan birini tanıyor musunuz?\" soruları yöneltilir. Öğrencilerden alerjisi olan kişi ile ilgili merak ettikleri soruları sormaları istenir. Sorular; alerjiye etki eden unsurun ne olduğu, alerjinin kişiyi nasıl etkilediği ve kişinin vücudunda oluşan alerjik tepkiye karşı nasıl bir önlem aldığı ile ilgili olmalıdır ( E2.1 ) .",
+    "c) Ö ğrencilerden alerji hakkında aldıkları cevaplardan hareketle alerjik tepkinin oluşumuyla ilgili bilgi toplamak amacıyla kullanacakları kaynakları belirlemeleri ve bu kaynaklardan bilgi toplamaları istenir. Öğrenciler bilgi toplarken yazılı ve dijital kaynakları kullanır. Bu süreçte öğrencilere güvenilir kaynaklara nasıl ulaşacakları ve kişisel verilerin korunması amacıyla hangi tedbirleri almaları gerektiği hatırlatılır. Dijital mahremiyet değeri vurgulanır ( D8.2 , OB2 ) .",
+    "ç) Öğrencilerden alerji ve alerji oluşumu hakkında elde ettikleri bilgilerin doğruluğunu bilimsel kaynaklardan değerlendirmeleri istenir ( D3.3 ) .",
+    "d)Öğrencilere kendisinde var olan, yakın çevresindeki kişilerde gözlemlediği ya da bilgi sahibi olduğu bir alerjik etkiden yola çıkarak buna hangi alerjenin neden olduğu, vücudun bu alerjene karşı nasıl tepki verdiği, alerjik etki görüldüğünde ne yapması gerektiği, nerelerden yardım alabileceği ile ilgili çıkarımlarını içeren bir broşür hazırlamaya yönelik performans görevi verilir. Öğrencilerden hazırladıkları broşürleri arkadaşlarıyla paylaşmaları istenir ( SDB3.2 ) . Broşür, analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D14.1",
+      "D16.3",
+      "D20.2",
+      "D3.3",
+      "D4.2",
+      "D8.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.1",
+      "E2.3",
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/13"
+}

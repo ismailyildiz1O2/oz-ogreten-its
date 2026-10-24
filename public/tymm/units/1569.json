@@ -1,0 +1,80 @@
+{
+  "unitId": 1569,
+  "grade": 0,
+  "gradeName": "II. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY II · 5. Tema: Meslekler Ve Matematik",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.2.5.1",
+      "title": "Oran ve orantının meslek gruplarındaki kullanımlarını yorumlayabilme",
+      "processComponents": [
+        "a) Oran ve orantının meslek gruplarındaki kullanımlarını inceler.",
+        "b) Meslek gruplarında karşılaşılan oran ve orantı durumlarını matematiksel ifadelere dönüştürür.",
+        "c) Oran ve orantının meslek gruplarındaki kullanımlarını açıklar."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.5.2",
+      "title": "Geometrik şekil ve cisimlerin meslek gruplarındaki kullanım alanları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Geometrik şekil ve cisimlerin meslek gruplarındaki kullanım alanları ile ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.5.3",
+      "title": "Veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek grupları ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek grupları ile ilgili bilgi edinme yollarını belirler.",
+        "b) Belirlediği yolları kullanarak konu hakkında bilgiler bulur.",
+        "c) Konu ile ilgili ulaşılan bilgileri doğrular.",
+        "ç) Doğruladığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.5.4",
+      "title": "Matematiğin kullanıldığı gelecekteki meslek gruplarını tartışabilme",
+      "processComponents": [
+        "a) Gelecekte matematiğin kullanıldığı mesleklere yönelik mantıksal temellendirme yapar.",
+        "b) Mantıksal çelişkileri veya tutarsızlıkları tespit eder.",
+        "c) Ulaşılan görüşleri çürütür veya kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Matematik; farklı mesleklerdeki işlerin planlanması, analiz edilmesi ve doğru kararlar alınmasında önemli bir rol oynar. \n\n Anahtar Kavramlar \n\n geometrik cisimler, geometrik şekiller, oran, orantı",
+  "support": [
+    "Öğrencilere, meslek gruplarında geometrik şekillerden nasıl yararlanıldığı ile ilgili video veya görseller sunulabilir.",
+    "Yapay zekâ, veri analizi, finansal analiz ve uzay bilimleri vb. mesleklerin kapsamı ve matematikten faydalandıkları alanları tanıtan dijital içerikler izletilebilir."
+  ],
+  "enrichment": [
+    "Aşçı, mühendis, bankacı, doktor, çiftçi, mimar vb. mesleklerden birini seçerek oran-orantıyı kullandıkları durumları ve kullanılmazsa ne gibi hataların ortaya çıkabileceğini araştırmaları ve sınıf ortamında sunmaları istenebilir.",
+    "Mesleklerde yapılan işi daha verimli, güvenli veya estetik hâle getirmek için kullanılan geometrik şekil ve cisimlerin işlevlerini araştırıp sınıf ortamında sunmaları istenebilir.",
+    "Veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek gruplarından birinde çalışan biriyle röportaj yaparak matematiğin mesleklerindeki kullanımıyla ilgili ilk elden veri toplamaları ve arkadaşlarına sunmaları istenebilir.",
+    "Mimar ve mühendislerin bir bina, köprü vb. yapıların tasarım ve yapım aşamasında hatalı hesaplamalar yapılması sonucunda ne tür sorunların yaşanabileceğini araştırarak sınıf ortamında sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları performans görevleri, açık uçlu sorular, kontrol listesi vb. kullanılarak değerlendirilebilir.",
+    "Seçtikleri bir meslek grubunda karşılaşılan bir durumu oran-orantı ilişkisi bağlamında açıklayarak sunmalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Geometrik şekil ve cisimlerin meslek gruplarındaki kullanım alanları ile poster, afiş, rapor vb. hazırlamalarını içeren performans görevi verilebilir. Bu görev bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek grupları hakkında daha derinlemesine bilgi edinebilmeleri için bilgi toplamalarını ve bu bilgileri poster, afiş, rapor vb. olarak sunmalarını içeren performans görevi verilebilir. Bu görev analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.2.5.1.",
+    "Öğrencilerin mimarlık, mühendislik, eczacılık, aşçılık, marangozluk, grafik tasarım vb. çeşitli mesleklerde oran ve orantının nasıl işlevsel olduğuna dair görüşleri sorularak gelen yanıtlar alınır ( SDB2.1 ). Örneğin \"mühendisler bir binayı ölçekli olarak küçültüp binanın minyatürünü yaparken oran kullanır. 1:100 ölçekli bir bina maketi, gerçek binanın 100’de 1 boyutunda yapılmış modelidir.\" Böylece öğrencilerin hem matematiksel bilgilerini mesleki bağlamlarla ilişkilendirmeleri hem de matematiğin gerçek yaşamla bağlantısını fark etmeleri sağlanabilir. Öğrencilere seçtikleri bir meslek grubunda karşılaşılan bir durumu oran-orantı ilişkisi bağlamında açıklayarak sunmalarını içeren performans görevi verilir. Bu performans görevini iş birliği içinde grup olarak yapmaları sağlanabilir ( SDB2.2 ). Öğrencilerden performans görevinde belirledikleri durumu matematiksel ifadelere dönüştürerek açıklamaları istenir ( SDB2.1 ). Örneğin doktorlar ilaç dozajlarını hastanın kilosuna göre orantı ile hesaplar. \"1 kg için 0,1 ml ilaç gerekiyorsa, 50 kg’lik bir hasta için 5 ml ilaç gerekir.\" vb. Bu süreçte öğrencilerin kurdukları oran-orantının doğruluğunu kontrol etmeleri ve yanlışlık varsa düzeltmeleri sağlanır ( SDB1.2 , E3.1 ). Öğrencilerin seçtikleri meslek ve kurdukları orantıyı sınıf arkadaşlarına sözlü olarak sunmaları istenir ( SDB2.1 , E1.5 ). Öğrencilerin ilgili meslek grubunu temsilen bir çizim, fotoğraf vb. kullanarak oran-orantı durumlarını görsel olarak desteklemeleri istenebilir ( E3.3 , OB4 ). Bu performans görevi, süreç bileşenleri dikkate alınarak bütüncül dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu soru, doğru-yanlış, eşleştirme vb. sorular kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.2.5.2.",
+    "Öğrencilerin geometrik şekil ve cisimlerden yararlanan mesleklere örnekler vermeleri istenir ve bu doğrultuda sınıfta bir tartışma ortamı oluşturulabilir. Tartışma sürecinde özellikle mimarlık, iç mimarlık ve mühendislik gibi mesleklerde geometrik şekil ve cisimlerin kullanım alanlarına değinmeleri sağlanır. Öğrencilerden geometrik şekil ve cisimlerin meslek gruplarındaki kullanım alanları ile poster, afiş, rapor vb. hazırlamalarını içeren performans görevi verilebilir. Bu süreçte gruplara ayrılarak çalışmaları desteklenebilir ( SDB2.1 , SDB2.2 ). Performans görevi sürecinde öğrencilerden sorumlu ve planlı davranmaları sağlanır ( D3.2 , E2.2 ). Geometrik şekil ve cisimlerin meslek gruplarındaki kullanım alanları ile ilgili bilgi edinebilmeleri için güvenilir araçları (genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb.) belirlemeleri beklenir ( OB1 , OB2 ). Belirledikleri bilgi edinme yolları aracılığıyla geometrik şekil ve cisimlerin meslek gruplarındaki kullanım alanları hakkında bilgi toplamaları istenir. Öğrencilerin ulaştıkları bilgileri öğretmenlerinden, alan uzmanlarından, bilimsel kaynaklardan yardım alarak ya da arkadaşları ile tartışarak doğrulamaları sağlanır ( E3.4 , E3.10 , D3.3 , OB1 , OB7 ). Doğruladıkları bilgileri kaydederek poster, afiş, rapor vb. şeklinde düzenlemeleri ve sunmaları istenir ( SDB2.1 , OB1 ) . Bu süreçte öğrencilerin birbirlerini saygılı bir şekilde dinlemeleri istenir ( SDB2.1 , D14.1 ). Öğretmen grup çalışmalarını grup değerlendirme formu kullanarak değerlendirebilir. Elde edilen sonuçlara dayalı olarak öğrencilere geri bildirim verilir. Öğrencilerin hazırladığı poster, afiş, resim ya da raporlar süreç bileşenlerinin yer aldığı performans kriterlerini barındıran analitik dereceli puanlama anahtarıyla değerlendirilebilir. Öz değerlendirme veya akran değerlendirme formuyla öğrencilerin de değerlendirme sürecine katılmaları desteklenebilir. Öğrenme çıktısının sonunda açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir.",
+    "MBU.MU.2.5.3.",
+    "Öğrencilerin veri toplama, analiz etme ve sonuç çıkarma ile uğraşan mesleklere örnekler vermeleri istenir. Bu meslek gruplarının çalışmalarına ilişkin sınıfta bir tartışma ortamı oluşturulabilir. Tartışma sürecinde istatistikçi, ekonomist, sosyolog, finans uzmanı vb. mesleklerde verinin rolüne dikkat çekilir. Öğrencilerin bu mesleklerde kullanılan veri türleri ve yöntemleri hakkında tartışmaları sağlanır ( SDB2.1 , E3.1 ). Örneğin istatistikçilerin anketler, gözlemler veya deneyler yoluyla topladıkları verileri analiz ederek toplumun ihtiyaçlarını, eğilimlerini ya da sorunlarını ortaya koydukları tartışılarak sosyal bilgiler dersiyle bağlantı kurulabilir. Bu tartışmalar sırasında öğrencilerin yakın çevrelerinden de örnekler vermeleri teşvik edilir ( SDB2.1 ). Örneğin bir kantin işletmecisinin hangi ürünlerin daha çok tercih edildiğini gözlemlemesi, okul yöneticilerinin okulda küçük bir anket düzenleyerek öğrencilerin sorunlarına ilişkin görüşleri toplaması ya da bir ailenin bütçesindeki gelir-gider dengesini incelemesi, veri toplama ve analiz etme süreçlerine örnek olarak gösterilebilir. Ardından öğrencilere veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek grupları hakkında daha derinlemesine bilgi edinebilmeleri için bilgi toplamalarını ve bu bilgileri poster, afiş, rapor vb. olarak sunmalarını içeren performans görevi verilir. Bu süreçte işbirlikli grup çalışması yapmaları desteklenebilir ( SDB2.1 , SDB2.2 ). Performans görevi hazırlama sürecinde öğrencilerden sorumlu ve planlı davranmaları sağlanır ( SDB3.3 , D3.2 , E2.2 ). Öğrencilerin bu görev için öncelikler bilgi toplamada kullanacakları güvenilir bilgi kaynaklarını (genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla yapılacak görüşmeler vb.) belirlemeleri beklenir ( OB1 , OB2 ). Belirledikleri bilgi edinme yollarını kullanarak veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek grupları hakkında bilgi bulmaları istenir. Öğrencilerin ulaştıkları bilgileri öğretmenlerinden, alan uzmanlarından, bilimsel kaynaklardan yardım alarak ya da arkadaşları ile tartışarak doğrulamaları desteklenir ( E3.4 , E3.10 , D3.3 , OB1 , OB7 ). Doğruladıkları bilgileri kaydederek düzenlemeleri ve seçtikleri yöntemle sunmaları istenir ( SDB2.1 , OB1 ) . Bu süreçte öğrencilerin birbirlerini saygılı bir şekilde dinlemeleri ve görüşlerini olumlu iletişim diliyle ifade etmeleri desteklenir ( SDB2.1 , D14.1 ). Grup çalışmaları grup değerlendirme formu kullanılarak değerlendirebilir. Elde edilen sonuçlara dayalı olarak öğrencilere geri bildirim verilir. Öğrencilerin hazırladığı poster, afiş, rapor vb. süreç bileşenlerinin yer aldığı performans kriterlerini barındıran analitik dereceli puanlama anahtarı ile değerlendirilebilir. Öğrenme çıktısının sonunda açık uçlu sorular vb. değerlendirme amacıyla kullanılabilir.",
+    "MBU.MU.2.5.4.",
+    "“Gelecekte hangi yeni mesleklerde matematik önemli bir rol oynayacak?” sorusu yöneltilerek öğrencilerin konuya merakı artırılır ve tartışma ortamı oluşturulabilir ( SDB2.1 , E1.1 ). Alınan yanıtlardan yola çıkılarak gelecekteki mesleklerde matematiğin nasıl ve neden kullanılacağına dair mantıksal temellendirmeler yapmaları istenir ( E3.1 ). Örneğin “Gelecekte insanlar başka gezegenlere seyahat edecek. Bu yüzden uzay turizmi rehberliği bir meslek olabilir. Yolculuk için planlama yaparken zaman hesaplamaları yapmak gerekebilir.” vb. Tartışma esnasında yapay zekâ, veri analizi, finansal analiz ve uzay bilimleri gibi alanlardaki mesleklere dikkat çekilir. Öğrencilerden gelecekte ortaya çıkabilecek mesleklerle ilgili görüşlerini ve bu mesleklerde matematiğin nasıl kullanılacağını sınıfla paylaşması istenir ( SDB2.1 , E1.5 , E3.5 ) . Her bir öğrenci kendi fikrini paylaştıktan sonra diğer öğrencilerden paylaşılan fikirlerdeki mantıksal tutarlılığı sorgulamaları istenir ( KB3.3 , E3.1 ). Daha sonra öğrencilerin tartışmada ortaya atılan bazı fikirleri çürütmeleri bazı fikirleri ise kabul etmeleri beklenir ( SDB3.3 , E3.10 ). Öğrencilerden kabul ettikleri ve etmedikleri fikirlerle ilgili düşüncelerini saygı çerçevesinde belirtmeleri istenir ( D14.1 ). Bu öğrenme çıktısı sonunda tartışma süreci kontrol listesi ile değerlendirilebilir. Öğrenme durumlarının değerlendirilmesinde açık uçlu sorulardan oluşan çalışma kâğıdı kullanılabilir."
+  ],
+  "skills": [
+    "-"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1569"
+}

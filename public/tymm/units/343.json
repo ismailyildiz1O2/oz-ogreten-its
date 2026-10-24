@@ -1,0 +1,87 @@
+{
+  "unitId": 343,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi (Maarif Modeli)",
+  "title": "2. ÖĞRENME ALANI: EVİMİZ DÜNYA",
+  "hours": "19",
+  "description": "Bu öğrenme alanında öğrencilerin temel düzeyde harita kullanma becerilerini geliştirmeleri, insanın yaşadığı yerin doğal çevre unsurlarından nasıl etkilendiğine ve doğal çevreyi nasıl etkilediğine yönelik farkındalık kazanmaları, yakın çevrelerinde yaşanan ve yaşanma olasılığı bulunan afetlere ilişkin verilen kaynakları incelemeleri ve bu afetlerin olası etkilerini azaltmak için evde aileleriyle alabilecekleri önlemlere yönelik ürün oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.4.2.1",
+      "title": "Konum ve yön bulurken haritaları kullanabilme",
+      "processComponents": [
+        "a) Haritanın başlığının ne anlama geldiğini ifade eder.",
+        "b) Harita üzerindeki renkleri, kenar bilgilerini ve harita kenar bilgilerindeki sembolleri tespit eder.",
+        "c) Yakın çevresini ve ülkesini tarif etmek için konum bilgisini, ara ve ana yönleri kullanır."
+      ]
+    },
+    {
+      "code": "SB.4.2.2",
+      "title": "Yakın çevresinden hareketle doğa ve insan ilişkisini çözümleyebilme",
+      "processComponents": [
+        "a) Yakın çevresindeki doğal çevre unsurlarını belirler.",
+        "b) Yakın çevresindeki doğal çevre unsurları ile insanlar arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "SB.4.2.3",
+      "title": "Afetlerin etkilerini azaltma konusunda yapılabileceklere ilişkin oluşturduğu ürünü paylaşabilme",
+      "processComponents": [
+        "a) Kendisine sunulan kaynaklara dayanarak geçmişten günümüze yakın çevresinde gerçekleşen deprem, çığ, heyelan, sel, orman yangınları vb. afetlere yönelik çıkarım yapar.",
+        "b) Yakın çevresinde gerçekleşebilecek deprem, çığ, heyelan, sel, orman yangınları vb. afetlerin etkilerini azaltmak için yapılabilecekleri yansıtan bir ürün oluşturur.",
+        "c) Yakın çevresinde gerçekleşebilecek deprem, çığ, heyelan, sel, orman yangınları vb. afetlerin etkilerini azaltmak için yapılabileceklere ilişkin oluşturduğu ürünü paylaşır."
+      ]
+    }
+  ],
+  "keyConcepts": "doğal çevre unsuru, harita, harita anahtarı, navigasyon (yol uygulamaları)",
+  "support": [
+    "Haritalarda konum bulabilmek için sınıf içinde yönünü buldurmaya yönelik çalışmalar yapılarak ardından çalışma yaprakları dağıtılabilir. Konu daha sade bir biçimde anlatılarak farklı etkinliklerle pekiştirilebilir. Yakın çevresinde gözlemlediği hava olaylarının günlük yaşam üzerindeki etkisine örnekler vermesi istenebilir. Yakın çevresinde yaşanan afetlere ilişkin aile üyeleri ile görüşme yapması ve görüşme neticesinde elde ettiği bilgileri sınıfta sözlü ya da yazılı olarak paylaşması istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden oyun hamuru, geri dönüşüm malzemeleri, kil vb. materyaller kullanarak yaşadığı yer ile ilgili üç boyutlu haritalar yapmaları istenebilir. Doğa insan ilişkisine yönelik nesli tükenen/ tükenmekte olan hayvanları veya bitkileri belirlemeleri istenebilir. Nesli tükenmekte olan hayvanların neden tehlike altında olduklarına dair araştırma ve sunum yapmaları istenebilir. Afet yönetiminde başarılı ülkelerin kent planlaması üzerine yaptıkları iyi uygulamaları araştırmaları, araştırma sonuçlarını ön bilgileriyle sentezleyerek afet risklerini azaltmak için özgün çözüm önerileri geliştirmeleri ve önerilerini sınıfta paylaşmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; çalışma yaprakları, bütüncül dereceli puanlama anahtarı, performans görevi ile değerlendirilebilir. Performans görevi : Doğa ve canlıları korumanın önemi ile ilgili kitap kapağı tasarımı yapma ve kitap tanıtım yazısı yazmaya yönelik görevdir."
+  ],
+  "teachingApplications": [
+    "SB.4.2.1 Öğrencilerde merak uyandırmak amacıyla \"Dünya'nın tamamını ya da bir kısmını hiç küçültmeden, gerçek büyüklüğü ile bir kâğıda aktarmak mümkün müdür?\" sorusu sorulur ( E1.1 ). Geniş alanların konumunu bulmak için krokilerin yeterli olmadığı, farklı araçlara ihtiyaç duyulduğu sonucuna ulaşılır. Öğretmen tarafından sırayla harita başlıkları (şehir haritası, Türkiye haritası ve Dünya haritası) tahtaya yazılarak bu haritalar yoluyla hangi bilgilere ulaşılacağı sorulur. Navigasyon uygulamaları, uydu görüntüleri, 3D uygulamalar, dijital haritalar ( OB2 ) veya renkli atlaslar gibi farklı kaynaklardan faydalanılır. Haritalar öğrencilere gösterilerek \"Bu haritanın başlığı nedir?\", \"Bu haritada neler görüyorsunuz?\" gibi sorular sorularak öğrencilerin haritayı keşfetmeleri sağlanır ( E1.1 ) . İkişerli gruplara ayrılan öğrencilere farklı harita türlerini içeren çalışma yaprakları verilir ( SDB2.2 ).",
+    "Öğrencilere haritada yer alan renk, sayı veya şekillerin neyi ifade ettiği sorulur ( OB4 ). Öğrencilerden gelen cevaplar doğrultusunda temel düzeyde harita türleri (siyasi, fizikî haritalar ve şehir haritaları) ve harita üzerindeki semboller ve renkler hakkında bilgilendirme yapılır. Öğrencilere yakın çevresiyle ilgili bir dilsiz harita verilir. Öğrencilerden bu dilsiz haritayı uygun sembol ve renkler kullanarak doldurmaları, haritanın alt kısmına bu sembollerin ve renklerin ne anlama geldiğini (örneğin çemberin parkı temsil etmesi, kare şeklinin evleri temsil etmesi vb.) yazmaları istenir. Böylece haritalarda yer alan harita anahtarını kendi çalışmaları aracılığıyla fark etmeleri sağlanır ( SDB1.1 ).",
+    "Sınıfa getirilen yerküre modeli veya harita üzerinde oyunlar oynatılır. Örneğin yerküre modeli üzerinde \"Hangisi Daha Uzak?\" oyunu oynatılabilir. Bu oyunda öğrencilerden yerküre modeli üzerinde bulundukları yer ile gitmek istedikleri yer arasındaki mesafeyi iplerle göstermeleri istenebilir. Bunun dışında öğrencilerin harita bilgilerini kullanabilecekleri oryantiring oyunlarına yer verilebilir ( E2.5 ). Harita tanımaya yönelik etkinliklerden sonra öğrencilerden Türkiye haritasında yaşadığı yeri, ülkemizin başkentini ve Kuzey Kıbrıs Türk Cumhuriyeti'ni göstermeleri istenir. Öğrencilerden harita üzerinde yer alan farklı şehirleri ana ve ara yönler aracılığıyla tarif etmesi, dünya haritası veya yerküre modeli üzerinde Türkiye'nin konumunu bulması istenerek ülkemizin sınırlarını tanıması beklenir. Öğrencilerden dijital ortamda harita ve pusula kullanarak yakın çevresinde belirlediği noktaları göstermeleri istenir ( OB2 ). Etkinlik süresince vatanseverlik ve millî bilinç odaklı açıklamalarda bulunulur ( D19.1 ). Değerlendirme amacıyla öğrencilere harita üzerinde konum ve yön bulmalarını gerektirecek soruların yer aldığı çalışma yaprakları kullanılabilir.",
+    "SB.4.2.2 Öğretmen tarafından doğal çevre unsuru olan ve olmayan görseller karışık bir şekilde sunulur ( OB4 ). Öğrencilerden bu görsellerden hangilerinin doğal çevre unsuru olduklarını belirlemeleri istenir. Görsellerden hareketle öğrencilere doğal çevre unsuru kavramı açıklanır. Yakın çevrelerindeki gözlemlerinden yola çıkarak köprü kurma aşamasında oluşturulan listedeki varlıklardan doğal çevre unsuru olanları belirlemeleri istenir. Öğrencilere oluşturdukları listede yer almayan diğer doğal çevre unsurlarının neler olabileceğine ilişkin fikirleri sorulur. Öğrencilerle yakın çevresinin yeryüzü şekillerini ve hava koşullarını yansıtan yazılı, görsel veya dijital kaynaklar paylaşılır ( OB1 , OB2 , OB4 ).",
+    "İncelenen kaynaklara dayalı sorular aracılığıyla insan-doğa ilişkisine yönelik farkındalık oluşturulur ve doğal denge konusuna geçiş yapılır. Doğanın bir dengesinin olduğu, bu denge içerisinde her canlının bir rolü olduğu örnekler üzerinden açıklanır. Doğal dengenin korunması için insanların nelere dikkat etmesi gerektiği üzerine tartışma ortamı oluşturulur. Öğrencilere insan ve doğa arasındaki ilişkiyi örneklerle ortaya koyan durum cümleleri sunulur. Cümleler belirlenirken temizlik ve duyarlılık değerleri temel alınarak çevreyi temiz tutma ( D18.2 ), doğayı ve canlıları koruma, ağaç sevgisi ( D5.2 ) gibi insanın doğaya olumlu etkilerine değinilir. Doğanın insana etkileri ile ilgili olan cümlelerde ise hava koşulları ve yeryüzü şekillerinden bahsedilir. Öğrencilerden sunulan cümlelerdeki durumları insanın doğaya etkileri ve doğanın insana etkileri şeklinde gruplandırmaları beklenir ( KB3.1 ). Gruplandırma sırasında sınıf içi oyunlardan yararlanılabilir ( E2.5 ). Doğayı ve canlıları korumanın önemi vurgulanır ( D9.3 ). Öğretmen tarafından suyu, besin kaynaklarını ve havayı temiz tutmanın sağlığımız için önemli olduğu açıklanır ( D13.4 ). Öğrencilerden bu konuyla ilgili performans görevi olarak yazılmış hayalî bir kitabın kapağını kendi beğenilerini yansıtacak şekilde tasarlamaları ve kitabı tanıtan kısa bir yazı yazmaları istenir ( D7.3 , E3.3 ). Hazırlanan kitap kapakları ve tanıtım yazıları bütüncül dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "SB.4.2.3 Yaşanılan yerde geçmişten günümüze gerçekleşen deprem, çığ, heyelan, sel, orman yangınları vb. afetlere ilişkin öğrencilerin düzeyine uygun bilgi kaynakları paylaşılır. Sınıfa getirilen bilgi kaynakları incelenerek öğrencilerden yakın çevresinde yaşanan afetlere ilişkin bilgi edinmeleri ve çıkarım yapmaları beklenir ( OB1 ).",
+    "Afetlerin etkilerini azaltmak için neler yapılabileceği üzerine bir sınıf tartışması başlatılır. Afet risklerinin azaltılmasına ilişkin farkındalığın artırılması amacıyla 13 Ekim gününün \"Dünya Afet Risklerinin Azaltılması Günü\" olarak belirlendiği ifade edilir. Afetlerin etkilerini azaltmanın en temel unsurlarından birisinin doğayı tanımak ve doğa-insan etkileşimini anlamak olduğu vurgulanarak insanların alması gereken sorumluluklar üzerinde durulur. Afet ve Acil Durum Yönetimi Başkanlığının (AFAD) hazırladığı raporlardan da yararlanılarak afetlere hazırlıklı olmanın önemi üzerinde durulur. Afetlerin etkilerinden korunmak için yaşanılan yerin afetlere nasıl hazırlıklı hâle getirilebileceğine ilişkin öğrencilerin fikirleri alınır. Afet hazırlıklarına yönelik örnekler incelenerek öğrencilerin duyarlılık değeri bağlamında afet bilinci geliştirmeleri desteklenir ( D5.3 ). Ayrıca ülkede yaşanan olağanüstü durumlarda (salgın, afet vb.) yardımlaşma ve dayanışma faaliyetlerine katılmanın önemi vurgulanarak afet sonrası yapılacaklara örnekler verilebilir ( D16.2 ). Daha sonra öğrencilerden afet öncesi, sırası ve sonrasında yapılması gerekenlere ilişkin acil durum aile planı hazırlamaları istenir ( E2.2 ). Afet ve acil durum aile planında kararlaştırılan toplanma alanı, acil durumlarda ulaşılacak kişilerin iletişim bilgileri, afet durumlarında yardım istenebilecek resmî kurumların telefon numaraları gibi bilgilerin yer alması istenir. Acil durum planlarının paylaşılmasının ardından afet ve acil durumlarda çocuk haklarının korunması için gerekenlere yönelik sınıf tartışması yapılır. Öğrenciler hazırladıkları planı arkadaşlarıyla paylaşırlar. Hazırlanan planlar öğretmen tarafından bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D16.2",
+      "D18.2",
+      "D19.1",
+      "D5.2",
+      "D5.3",
+      "D7.3",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E2.2",
+      "E2.5",
+      "E3.3"
+    ],
+    "kavramsal": [
+      "KB3.1"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/343"
+}

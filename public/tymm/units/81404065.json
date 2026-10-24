@@ -1,0 +1,32 @@
+{
+  "unitId": 81404065,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "65. ÜNİTE: BASKETBOLDA TOP SÜRME TEKNİKLERİ",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TS.1.5.1",
+      "title": "Basketbolda top sürme tekniğini açıklar",
+      "processComponents": [
+        "Alçak top sürme üzerinde durulur.",
+        "Yüksek top sürme üzerinde durulur."
+      ]
+    },
+    {
+      "code": "TS.1.5.2",
+      "title": "Basketbolda top sürme tekniklerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

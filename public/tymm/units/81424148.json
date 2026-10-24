@@ -1,0 +1,43 @@
+{
+  "unitId": 81424148,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "148. ÜNİTE: TİYATRO - HAREKET",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "SSA.1.2.1",
+      "title": "Gündelik ve seçili hareketi ayırt eder",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.2.2",
+      "title": "Hareket ve tiyatro ilişkisini yorumlar",
+      "processComponents": []
+    },
+    {
+      "code": "SSA.1.2.3",
+      "title": "Bedenini tanımlayamaya yönelik kavramları irdeler",
+      "processComponents": [
+        "Eklerin genel özellikleri analiz ettirilir."
+      ]
+    },
+    {
+      "code": "SSA.1.2.4",
+      "title": "Hareket ile ilgili temel egzersizleri belirler",
+      "processComponents": [
+        "Kondisyonuna yönelik egzersizlerin yapılması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

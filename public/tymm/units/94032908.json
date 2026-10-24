@@ -1,0 +1,45 @@
+{
+  "unitId": 94032908,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "8. ÖĞRENME ALANI: GEOMETRİK CİSİMLER VE ŞEKİLLER",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.4.2.1.1",
+      "title": "Üçgen, kare ve dikdörtgenin kenarlarını ve köşelerini isimlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.1.2",
+      "title": "Kare ve dikdörtgenin kenar özelliklerini belirler",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.1.3",
+      "title": "Üçgenleri kenar uzunluklarına göre sınıflandırır",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.1.4",
+      "title": "Açınımı verilen küpü oluşturur",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.2.1.5",
+      "title": "İzometrik ya da kareli kâğıda eş küplerle çizilmiş olarak verilen modellere uygun basit yapılar oluşturur",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Geometri",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

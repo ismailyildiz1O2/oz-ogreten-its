@@ -1,0 +1,73 @@
+{
+  "unitId": 80323004,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "4. ÜNİTE: ANA HATLARIYLA İSLAM AHLAKI",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TDB.1.4.1",
+      "title": "İslam ahlakının gayesini ve konusunu ayet ve hadislerle açıklar",
+      "processComponents": [
+        "Kazanım işlenirken ahlakın tanımı yapılacak ve ahlakla ilgili temel kavramlara kısaca değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.4.2",
+      "title": "İslam ahlakının kaynaklarını açıklar",
+      "processComponents": [
+        "Kazanım işlenirken İslam ahlakının kaynakları Kur'an ve sünnet ile sınırlandırılacak; ahlakın kaynağı ile ilgili farklı teorilere girilmeyecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.4.3",
+      "title": "Ahlak ile terbiye ilişkisini yorumlar",
+      "processComponents": [
+        "Kazanım işlenirken eğitimin amaçlarından birisinin de ahlaklı bireyler yetiştirmek olduğuna da vurgu yapılacaktır."
+      ]
+    },
+    {
+      "code": "TDB.1.4.4",
+      "title": "İman, ibadet ve ahlak arasındaki ilişkiyi analiz eder",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.1.4.5",
+      "title": "Allah'a karşı vazifelerini yerine getirmeye özen gösterir",
+      "processComponents": [
+        "Kazanım işlenirken marifet, ubudiyet, muhabbet, tazim, teslimiyet, tövbe, takva, havf ve recâ konularına kısaca değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.4.6",
+      "title": "Peygamberimize karşı vazifelerini yerine getirmeye istekli olur",
+      "processComponents": [
+        "Kazanım işlenirken muhabbet, sünnete ittiba ve teslimiyet konularına kısaca değinilecektir. Ayrıca salat ve selam ile ilgili hadislere de yer verilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.4.7",
+      "title": "Kur'an-ı Kerim ile ilgili vazifelerini yapmaya önem verir",
+      "processComponents": [
+        "Kazanım işlenirken Kur'an'a karşı saygı ve edep; Kur'an'ı okuma, anlama ve yaşama konularına kısaca değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.4.8",
+      "title": "İnsanlara karşı vazifelerini kavrar",
+      "processComponents": [
+        "Kazanım işlenirken kul hakkı; can, mal, namus emniyeti; saygı, sevgi, keder ve sevince ortak olma konularına kısaca değinilecektir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

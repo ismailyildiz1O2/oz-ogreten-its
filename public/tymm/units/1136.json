@@ -1,0 +1,61 @@
+{
+  "unitId": 1136,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Bağlama Modülü",
+  "title": "3. TEMA: BAĞLAMADA NİHAVENT MAKAMINI ÖĞRENİYORUM",
+  "hours": "36",
+  "description": "Temada nihavent makamını bağlama ile çalma tekniğine yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BAĞL.5.3.1",
+      "title": "Bağlamada nihavent makamını çalabilme",
+      "processComponents": [
+        "a) Bağlamada nihavent makamını çözümler.",
+        "b) Bağlama ile nihavent makamını çalmada duruş ve tutuş pozisyonu alır.",
+        "c) Bağlama ile nihavent makamını çalmada çalgıya özgü teknikleri kullanır.",
+        "ç) Bağlama ile nihavent makamının müziksel bileşenlerini uygular."
+      ]
+    }
+  ],
+  "keyConcepts": "makam",
+  "support": [
+    "Nihavent makamı konusuna dair dijital araçlar ve interaktif oyunlar kullanılabilir. Örneğin bir müzik uygulaması üzerinden nihavent makamının belirli notasını ve karakteristik özelliklerini öğrenirken, interaktif bir oyun, öğrencinin doğru notaları ve dizileri tanıyıp, çalmasını sağlayarak onun bu makamı daha etkili şekilde anlamasına yardımcı olabilir. Oyuncular, oyun içindeki etkileşimlerle makamın duygusal tonlarını keşfederken oyuncuların hızla ilerlemeleri ve zorluk yaşadıkları kısımlarda makama odaklanmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilere makamın farklı melodik varyasyonlarını keşfetmeleri ve bu varyasyonlarla kendi müzikal ifadelerini yaratmaları için fırsatlar sunulabilir. Bu süreç, öğrencilerin bağlama üzerindeki özgürlüklerini artırarak makamsal müzikaliteyi daha yaratıcı bir şekilde ifade etmelerini sağlayabilir. Ayrıca çeşitli halk müziği eserlerine uygulanan bu yaratıcı süreç, öğrencilerin farklı müzik türlerini keşfetmelerine olanak tanıyabilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, performans görevi ve öz değerlendirme formu kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden makam yapısını oluşturan ses değiştirici işaretlerini kullanarak bağlama ile eserler çalmaları istenebilir. Performans görevi, dereceli puanlama anahtarı ile değerlendirilir. Öğrencilerin çaldıkları eserin makamsal yapısı bakımından müzikal bileşenlerini gözlem formu ile gözlemleyerek değerlendirilebilir. Öğrencilerin ses kayıtları aracılığıyla kendi performanslarını dinlemeleri, süsleme tekniklerini doğru uygulayıp uygulamadıklarını değerlendirmeleri için öz değerlendirme formları kullanılabilir."
+  ],
+  "teachingApplications": [
+    "BAĞL.5.3.1",
+    "Öğretmen, öğrencilere nihavent makamı ile ilgili teorik bilgileri anlatarak temel müziksel bileşenler hakkında genel bir bakış sağlar ( OB1 ). Nihavent makamına ait notalar ve karakteristik aralıklar öğretilir ( E3.2 ). Nihavent makamının melodik yapısı, duygu durumu ve ritim özellikleri açıklanır. Bağlama ile bu makamı çalarken kullanılan teknikler ve müzikal süslemelerin sesin zenginliği üzerindeki etkisi anlatılır ( D7.1 ). Nihavent makamındaki tipik süslemeler ve tınıların bağlamada nasıl uygulanacağı gösterilir ( SDB2.1 ). Nihavent makamında kullanılan notaların doğru sıralaması ve melodik akışı öğretilir ( KB2.6 , OB1 ). Öğretmen, öğrencilerin duruş, tutuş ve bağlamaya özgü teknikleri doğru kullanıp kullanmadıklarını gözlemler. Öğrenciler, bu teknikleri basit alıştırmalarla uygulayarak pratik yapar. Öğrenciler, bağlama üzerindeki temel teknikleri birleştirerek kısa nihavent makamı melodilerini çalmaya başlar. Bu çalışmalarda çalınan her melodinin teknik doğruluğu üzerinde durulur. Öğretmen, öğrencilerin tekniklerini gözlemler ve doğru teknik kullanımına dair geri bildirimde bulunur. Öğrenciler bu dönütler doğrultusunda hatalarını düzeltip kendini değerlendirir ( D10.1 ). Grup çalışmaları ile öğrenciler, birbirlerinin teknik ve duygusal ifadelerini değerlendirir ve birbirlerinden öğrenirler ( SDB2.2 , D3.4 ). Nihavent makamında olan Türk halk müziği türünden örnek eserler bireysel ve gruplar hâlinde çalışırlar ( D4.1 ). Öğrenciler, bağlama ile eserlerin makamsal ve ritmik karakterlerini doğru bir şekilde yakalamaya odaklanırlar ( D7.3 ). Öğretmen, öğrencilerin eserleri çalarken yapısal ve ritimsel açıdan doğru bir şekilde uygulayıp uygulamadıklarını gözlemler. Farklı temposal hızlarda çalışarak ritim duygusu ve zamanlama geliştirilir ( E1.3 ). Nihavent makamı, bağlamada doğru tınılar ve süslemeler ile çalınarak öğrencilerin makamın duygusal özelliklerini fark etmeleri sağlanır ( SDB1.3 ). Öğrenciler, çaldıkları eserin duygusal ifadesini pekiştirir. Her öğrencinin çaldığı eserin duygusal ifadesi üzerine geri bildirim verilir ( SDB1.1 )."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D3.4",
+      "D4.1",
+      "D7.1",
+      "D7.3"
+    ],
+    "egilim": [
+      "E1.3",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1136"
+}

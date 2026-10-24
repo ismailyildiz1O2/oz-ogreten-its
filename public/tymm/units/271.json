@@ -1,0 +1,94 @@
+{
+  "unitId": 271,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "2. TEMA: İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+  "hours": "24",
+  "description": "Bu temada öğrencilerin iki kategorik değişken arasındaki ilişkililiğe odaklanan gerçek yaşam durumları bağlamında bir istatistiksel araştırma süreci yürütebilmeleri; başkaları tarafından oluşturulan iki kategorik değişken arasındaki ilişkililiğe odaklanan veri dağılımlarına ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminleri eleştirel bir bakış açısıyla değerlendirebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.10.2.1",
+      "title": "İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasındaki ilişkililiğe dayalı karar verebilme",
+      "processComponents": [
+        "a) İki kategorik değişkenli veriye dayalı, istatistiksel araştırma gerektiren gerçek yaşam durumlarını belirler.",
+        "b) Bağlam içerisinde iki kategorik değişken arasındaki ilişkililiğe odaklanan araştırma soruları oluşturur.",
+        "c) İki kategorik değişkenli veri toplamak/elde etmek için plan yapar.",
+        "ç) İki kategorik değişkenli verileri toplayarak/elde ederek analize hazırlar.",
+        "d) Araştırma sorusu bağlamında toplanan/elde edilen iki kategorik değişkenli verileri analiz etmek için görselleştirme ve/veya özetleme (toplam satır veya sütunlardaki göreli sıklıkları gösteren iki yönlü tablo, koşullu göreli sıklıkları gösteren sütun grafikleri, koşullu göreli sıklıklar gibi) araçlarından uygun olanı seçer.",
+        "e) Araştırma sorusu bağlamında toplanan/elde edilen verileri belirlediği araçlarla analiz eder.",
+        "f) İki kategorik değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan hareketle elde edilen bulguları yorumlayarak sonuç çıkarır.",
+        "g) İki kategorik değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan hareketle elde edilen sonuçları araştırma sorusu bağlamında değerlendirir."
+      ]
+    },
+    {
+      "code": "MAT.10.2.2",
+      "title": "Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "processComponents": [
+        "a) Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.",
+        "b) Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.",
+        "c) Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder."
+      ]
+    }
+  ],
+  "keyConcepts": "iki kategorik değişken, iki yönlü tablo, ilişkililik, koşullu göreli sıklıklar, kümeli sütun grafikleri, veri dağılımları",
+  "support": [
+    "Öğrencilerin iki kategorik değişkenin ilişkililiğini içeren istatistiksel araştırma sürecine dâhil olmaları için grup çalışması yapılabilir. Gruplar heterojen şekilde düzenlenir. Bu sayede öğrencilerin akran öğrenmesi ile istatistiksel araştırma sürecini daha etkin şekilde yürütmeleri sağlanabilir. Öğrencilerin günlük hayatlarında daha fazla karşılarına çıkma ihtimali olan kategorik veri setlerinden (saç rengi, favori spor branşı gibi) hareketle araştırma sorusu oluşturmaları, veri toplamaları ve bu verileri analiz ederek yorumlamaları istenebilir. Öğrencilerin daha küçük veri setleri üzerine çalışmaları sağlanabilir.",
+    "İki kategorik değişkenin ilişkililiğine yönelik dağılımlara ilişkin istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminleri içeren durumlar; daha basit düzeyde (öğrencilerin daha aşina oldukları durumları içermesi gibi) öğrencilere sunulur ve öğrencilerin bu durumlara ilişkin değerlendirme yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilere çok değişkenli veri setleri dağıtılarak bu veri setinden hareketle öğrencilerden uygun iki kategorik değişken belirleyerek bir araştırma sorusu hazırlamaları ve bu doğrultuda istatistiksel araştırma süreci tasarlayarak yürütmelerine yönelik proje hazırlamaları istenebilir. Öğrencilerin elde ettiği sonuçları sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak diğer arkadaşlarıyla paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir.",
+    "Öğrencilerden iki kategorik değişkenin ilişkililiğine yönelik dağılımlar içeren istatistiksel görsel, özet, sonuç, yorum, çıkarım ve/veya tahminleri içeren durumları araştırmaları istenebilir. Bu durumları araştırırken hangi kaynakları (gazete haberleri, dijital kaynaklar, resmî kaynaklar gibi) kullanabileceklerini bilmeleri ve bu kaynakları kullanırken nelere dikkat etmeleri gerektiğine dair paylaşımlar yapmaları beklenebilir. Bu araştırmalarında fark ettikleri noktaları eleştirel olarak değerlendirmeleri istenebilir. Örneğin spor yapıp yapmama ile vücut kitle indeksinin 25'in altında olup olmamasına ilişkin yayımlanan bir haberi öğrencilerin incelemeleri istenebilir. Elde edilen sonuçlar ile görseller (iki yönlü tablo ile koşullu göreli sıklıkları gösteren kümeli sütun grafikleri gibi) arasında tutarlılık olup olmadığı; yanlı, yanlış veya eksik bilgilerin olup olmadığı incelenerek öğrenciler tarafından değerlendirilebilir. Öğrencilerin yaptıkları bu değerlendirmeleri sunum, poster, bilgi görseli gibi araçlarla veya dijital ortamlarda içerik oluşturarak diğer arkadaşları ile paylaşmaları ve deneyimlerini ifade etmeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir.",
+    "Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenleri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkinlikleri, akran ve grup değerlendirme formları ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.10.2.1 İstatistiksel araştırma süreci; bağlamı belirleme, bağlama yönelik soru sorma, veri toplama planı yapma, verileri analize hazır hâle getirme, verileri analiz etme ve sonuçları yorumlama aşamalarının tamamını içerecek şekilde ele alınır. Bu sınıf seviyesinde öğrenciler, iki kategorik değişken içeren dağılımlarla istatistiksel araştırma sürecini yürütür.",
+    "İki kategorik değişkenli verilerdeki ilişkililiğe yönelik araştırma sorularına kaynaklık eden bağlamlar, öğrencilerin merak ettiği gerçek yaşam durumları bireysel veya iş birliğiyle grup çalışması yapılarak belirlenir ( E1.1 , SDB2.2 ) . Bu süreçte öğrencilerin istatistiksel araştırma yapmayı gerektiren gerçek yaşam durumlarını belirleyebilmeleri için sağlık, eğitim, çevre, doğa veya iklim gibi alanlara yönelik bilgilere ihtiyaç duyduklarını fark etmeleri sağlanır ( SDB1.1 , OB1 ) . Toplumsal konulara yer verilmesi, öğrencilerin etrafında olup bitenleri merak etmesini ve bu meraktan hareketle sorular sormasını destekleyecektir ( E3.8 , D5.1 ) . Öğrenciler, bireysel veya grup çalışması şeklinde belirledikleri gerçek yaşam durumlarını (örümcek ağı, kavram haritası gibi tekniklerle) gösterir veya dijital ortamlarda kullanılan araçlar yardımıyla bu gerçek yaşam durumlarını oluşturarak paylaşır ( OB2 ) . Belirlenen gerçek yaşam durumları, veri toplamayı gerektirip gerektirmeme ölçütüne göre sınıf içi tartışmayla incelenir. Sınıf içi tartışmalar, gerçek yaşam durumları incelenirken ortaya çıkan fikirlerin tartışılmasını sağlar ve ölçüte uygun şekilde değerlendirilmesini destekler. Sınıf içi tartışma esnasında öğrencilerin arkadaşlarının sözünü kesmeden etkin dinlemesi ve nazik olması beklenir ( SDB2.1 , D14.1 ) . Bu süreç, öz ve akran değerlendirme formu ile değerlendirilebilir.",
+    "Belirlenen bağlamlardan yola çıkılarak öğrencilerin merak ettikleri soruları ifade etmeleri sağlanır ( E3.8 ) . Bu aşamada örnek bir bağlamdan hareketle bir araştırma sorusu oluşturulur. Örneğin öğrencilerin bağcıklı veya bağcıksız ayakkabı tercihlerinin inceleneceği bir problemden hareketle hangi değişkenlerin bağcıklı veya bağcıksız ayakkabı tercihiyle ilişkili olabileceğine yönelik sınıf içi tartışma başlatılabilir ( SDB2.1 , D14.1 ) . Bu tartışmanın sonunda öğrencilerle birlikte bağcıklı veya bağcıksız ayakkabı tercihinin sınıf düzeyi ile ilişkili olabileceği ihtimalinden hareketle \"A okulundaki 9 ve 12. sınıf öğrencilerinin sınıf düzeyleri ile bağcıklı veya bağcıksız ayakkabı tercihleri arasında bir ilişki var mıdır?\" şeklinde bir soruya ulaşılabilir. Tasarruf etmeye dikkat çekmek amacıyla öğrencilerden gelen fikirler çerçevesinde \"B ilindeki güneş enerjisi sisteminin evlerde kullanılıp kullanılmama durumu ile elektrik faturasının A Türk lirasından az ya da fazla olma durumu arasında bir ilişki var mıdır?\" gibi sorular tartışılır ( SDB2.1 , D17.2 ) . Öğrencilerin farklı bağlamlardan hareketle hazırladıkları araştırma sorularına ilişkin fikirlerini tartışmaları sağlanır. Bu tartışmalar sonucunda iki kategorik değişkenli veri dağılımlarının ilişkililiğine odaklanan problemlerden hareketle istatistiksel araştırma sorularına ulaşmaları beklenir ( SDB2.1 , SDB3.3 ) . Ayrıca öğrencilerden farklı disiplinlerle ilişkilendirme yapmalarına yönelik araştırma soruları hazırlamaları istenir. Örneğin öğrencilerin kimya dersi konularından yola çıkarak bir elementin metal olup olmaması ile kristal yapısının kübik olup olmaması arasında bir ilişki olup olmadığını, biyoloji dersi konularından yola çıkarak bir canlının omurgalı olup olmama ile etçil beslenip beslenmeme arasındaki ilişkililiği incelemeleri sağlanır.",
+    "Belirlenen araştırma sorularına cevap bulabilmek amacıyla veri toplama sürecine geçilir. Bu süreçte verileri öğrencilerin kendilerinin toplayabileceği ya da hazır veri kaynaklarından elde edebileceği ifade edilir. Öğrencilerin hazır veriye ulaşırken dijital kaynakları nasıl doğru kullanacaklarına dair bilgi sahibi olmalarına dikkat edilir ( OB2 ) . Öğrencilerden iki kategorik değişkenli veri setlerinin nasıl toplanacağına yönelik veri toplama planı oluşturmaları istenir. Oluşturulan veri toplama planı doğrultusunda veri toplama araçlarının (anket, görüşme, gözlem gibi) belirlenip oluşturulması, verilerin toplanması ve analize hazır hâle getirilmesi beklenir ( OB1 ) . Öğrenciler verileri toplarken kişisel verilerin gizliliğine, nesnel ve dürüst olmaya dikkat etmeleri hususunda teşvik edilir; aksi durumda doğacak olumsuz sonuçlara dikkat çekilir ( D6.2 , D8.2 ) . Ayrıca bu süreçte öğrencilerin belirlenen örneklemden toplanan verilerin araştırma sorusuna cevap vermesi ve bu örneklemden elde edilen sonuçların evrene uygunluğu üzerine eleştirel akarak tartışmaları sağlanır ( E3.10 ) . Örneğin örneklemi A okulundaki 10. sınıf öğrencileri olan gruptan elde edilen sonuçların B okulundaki 10. sınıf öğrencilerinden elde edilen sonuçlarla benzerlik veya farklılık gösterip göstermeyeceği incelenebilir. Ayrıca bu sonuçların tüm 10. sınıf öğrencilerine genellenip genellenemeyeceği üzerine tartışılır.",
+    "Öğrenciler tarafından oluşturulan istatistiksel araştırma soruları ve veri toplama planları, istatistiksel araştırma sorusu ve veri toplama planı ölçütleri doğrultusunda oluşturulan kontrol listesiyle değerlendirilebilir. İstatistiksel araştırma sorusu ölçütleri arasında yer alan değişebilirlik ölçütü incelenirken değişebilirlik türlerine değinilmez.",
+    "Araştırma soruları bağlamında iki kategorik değişken arasındaki ilişkililiği analiz edebilmek için görselleştirme araçlarından (iki yönlü tablo ile koşullu göreli sıklıkları gösteren kümeli sütun grafikleri) uygun olanlar seçilir ( MAB3 ) . Uygun olan araçların belirlenmesinde araştırma sorularına yeniden dönülür ve hangi araçların uygun olduğuna dair sınıf içi tartışma yapılır ( SDB2.1 ) . Bu süreçte öğrencilerin birbirlerinin fikirlerini nezaketle dinlemeleri ve arkadaşlarının düşüncelerine ilişkin empati yapabilmeleri sağlanır ( D14.1 ) . Araştırma sorularına cevap verecek ve verileri analiz edecek nitelikte araçlar seçilmesine dikkat edilir.",
+    "Analiz sürecinde teknolojik araçlar (hesap makinesi, elektronik tablolama programı gibi) kullanılır ( MAB5 ) . Öğrencilerden verileri, sıklık veya göreli sıklıkları gösteren iki yönlü tablo ve koşullu göreli sıklıkları gösteren kümeli sütun grafikleriyle göstermeleri istenir. Bu süreçte sıklık analizi üzerine çalışan bilim insanlarından Kindi'nin çalışmalarından bahsedilir.",
+    "Analiz süreci tamamlandığında elde edilen sonuçlara ilişkin sınıf içi tartışma yapılır ( SDB2.1 ) . Bu tartışma sürecinde bağımsız değişkenin aldığı her değer için bağımlı değişkenin aldığı her bir değer sıklık veya koşullu göreli sıklıkları gösteren tablolar üzerinden karşılaştırılarak aralarındaki ilişkililik yorumlanır. Örneğin apartmanda yaşayıp yaşamama ile evcil hayvanı olup olmama arasındaki ilişkililiğin analiz edildiği bir araştırmada apartmanda oturup oturmama ve evcil hayvanı olup olmama değişkenleri arasındaki ilişkililiği incelemek için iki değişkenli veriler, iki yönlü tabloda hem sıklık hem de yüzde temsili kullanılarak toplamdaki göreli sıklık olarak ifade edilir. Apartmanda oturan ve oturmayan bireyler ile evcil hayvanı olan ve olmayan bireylerin koşullu göreli sıklıkları hesaplanır. Bu tarz bir araştırmada öğrencilerin bağımsız değişkenin aldığı her değer için bağımlı değişkenin aldığı her bir değerin koşullu göreli sıklıklarından hareketle elde edilen sonuçları yorumlamaları sağlanır. Buna ek olarak kümeli sütun grafiğinde koşullu göreli sıklık dağılımları, iki kategorik veri dağılımlarının ilişkililiğini analiz ederken kullanılabilecek bir diğer araç olarak dikkate alınır. Örneğin A ilinde yaşayan bireylerin doğduğu yerde yaşayıp yaşamamaları ile mutlu olup olmamaları arasındaki ilişkililiğin incelendiği bir araştırma analiz edilirken kümeli sütun grafiğinde koşullu göreli sıklık dağılımları, doğum yerinde yaşayıp yaşamama değişkenine göre hazırlanır. Benzer şekilde aynı grafik, mutlu olup olmama değişkenine göre de hazırlanır. Bu örnekte her iki değişken de bağımsız değişken olarak belirlenir. Burada öğrencilerin, sonuçları yorumlarken iki kategorik değişkenli verilerde ortaya çıkan bir ilişkinin bir değişkenin diğer değişkene neden olduğu anlamına gelmediğini fark etmeleri önemlidir. Örneğin kitap okuyup okumamanın spor yapıp yapmama ile ilişkililiğine odaklanan bir araştırmada bu iki değişken arasında bir ilişki varsa \"Kitap okumak, spor yapmaya neden olur veya olmaz.\" şeklinde neden-sonuç ilişkisini ifade eden bir yorumda bulunulamayacağını fark etmeleri, sınıf içi tartışmalarla sağlanır ( SDB2.1 ) . Bu süreçte ayrıca tek kategorik değişkenli verilerde tablo, sütun grafiği, koşullu göreli sıklıklar gibi görselleştirme araçlarının verileri özetlemeye imkân verdiğine, iki kategorik değişkenli verilerde kullanılan görselleştirme araçlarının ise değişkenler arasındaki ilişkililik konusunda yorum yapmaya olanak sağladığına dikkat çekilir.",
+    "Analizler tamamlandıktan sonra öğrencilerin araştırma sorularına dönerek elde ettikleri sonuçlardan hareketle araştırma sorusuna belirsizliği dikkate alarak cevap vermeleri beklenir. Bu süreçte öğrencilerin istatistiksel araştırma sürecinin bileşenlerini sistematik bir şekilde gözden geçirmeleri sağlanır ( E3.7 ) . Araştırma sorularına verilecek cevapların istatistiksel ifadeler (verilerin merkezinin nasıl bir eğilim gösterdiğine, verilerin nasıl yayıldığına dair ifadeler) içermesi önemlidir. Bu süreçte öğrencilerin seçilen örneklem dağılımından hareketle evren dağılımı hakkında genellemeler yapmaları ve elde edilen sonuçları belirsizliği dikkate alan cümlelerle ifade etmeleri de beklenir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecine yönelik bir performans görevi verilebilir.",
+    "MAT.10.2.2 Öğrencilerin başkaları tarafından oluşturulan istatistiksel bilgilere eleştirel gözle bakabilmesi ve bu bilgileri değerlendirebilmesi önemlidir ( E1.6 , E3.10 ) . Bu bağlamda öğrencilere iki kategorik değişkenli verilerin ilişkililiğine yönelik hatalı/yanlı sonuç, yorum, çıkarım ve/veya tahminleri içeren çalışma kâğıdı verilerek incelemeleri istenebilir. Öğrencilerin var olan istatistik bilgileri doğrultusunda istatistiksel temellendirme yapmaları sağlanır. Buradan hareketle öğrencilerin verilen durumlara eleştirel ve şüphe ile bakmaları, istatistik bilgilerini kullanarak hataları/yanlılıkları tespit etmeleri istenir ( E1.6 , E3.9 , E3.10 ) . Öğrencilerin belirlediği hata ve yanlılıklar tartışmaya açılır ( SDB2.1 ) . Öğrencilerden bu hata ve yanlılıkları eleştirel gözle değerlendirmeleri beklenir ( KB3.3 ) . Öğrencilerin fikir ve değerlendirmelerinden hareketle iki kategorik değişkenli verilerin ilişkiliğine yönelik hatalı/yanlı sonuç, yorum, çıkarım ve/veya tahminleri çürütülür ya da kabul edilir ( D6.2 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D17.2",
+      "D5.1",
+      "D6.2",
+      "D8.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.6",
+      "E3.10",
+      "E3.7",
+      "E3.8",
+      "E3.9"
+    ],
+    "kavramsal": [
+      "KB3.3"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/271"
+}

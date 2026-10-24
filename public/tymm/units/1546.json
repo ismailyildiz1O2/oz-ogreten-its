@@ -1,0 +1,51 @@
+{
+  "unitId": 1546,
+  "grade": 0,
+  "gradeName": "I. DÜZEY BİLİM UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY III · 5. Tema: Mesleklerde Bilim",
+  "hours": "8",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.BU.1.5.1",
+      "title": "Günlük hayatında karşılaştığı mesleklerde bilimin yerini tartışabilme",
+      "processComponents": [
+        "a) Günlük hayatında karşılaştığı mesleklerde bilimin yerine ilişkin mantıksal temellendirme yapar.",
+        "b) Bu konudaki mantıksal çelişkileri tespit eder.",
+        "c) Günlük hayatında karşılaştığı mesleklerde bilimin yerine ilişkin ulaşılan sonuçları çürütür veya kabul eder."
+      ]
+    },
+    {
+      "code": "MBU.BU.1.5.2",
+      "title": "Yeşil mesleklere yönelik bilgi toplayabilme",
+      "processComponents": [
+        "a) Yeşil meslekleri araştırmak için kullanacağı kaynakları belirler.",
+        "b) Belirlediği araçları kullanarak yeşil mesleklere yönelik bilgileri bulur.",
+        "c) Yeşil mesleklere ilişkin ulaştığı bilgileri doğrular.",
+        "ç) Yeşil mesleklere ilişkin ulaştığı bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "birey özellikleri, yeşil meslekler",
+  "support": [
+    "Yakın çevrelerindeki kişilerin mesleklerinin bilimle ilişkisini keşfetmeleri için bu kişilerle röportaj yapmaları istenebilir.",
+    "Geri dönüşüm uzmanı, organik çiftçi, rüzgâr enerjisi mühendisi gibi sürdürülebilirlik alanında çalışan meslekleri araştırmaları istenebilir. Bu mesleklerin neden geleceğin meslekleri olarak adlandırıldığına araştırma sürecinde değinmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Gelecekte karşılaşılabilecek su kıtlığı, hava kirliliği, artan nüfus yoğunluğu vb. problemlerden birini seçerek bu problemi çözmek için bilimle ilişkili hayali bir meslek tasarlamaları beklenebilir. Tasarladıkları mesleğin ne iş yapacağını, hangi bilimsel bilgileri kullanacağını ve neden önemli olduğunu anlatan bir sunu hazırlamaları ve hazırladıkları sunuyu sınıf ortamında sunmaları sağlanabilir.",
+    "Yeşil mesleklerde çalışan bireylerle ilgili bilgi toplayarak kısa bir rapor hazırlamaları istenebilir. Bu mesleklerin çevresel, sosyal ve ekonomik faydalarını araştırarak sunmaları sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde yapılandırılmış grid, eşleştirme testleri, çalışma kâğıtları, tanılayıcı dallanmış ağaç, açık uçlu sorular, araştırma ve performans görevleri kullanılabilir. Ayrıca tema sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Yeşil mesleklerde kullanılan bilimsel uygulamalara yönelik bireysel ya da grup olarak poster, afiş, resim, video, sunu, röportaj, rapor vb. hazırlamaya yönelik performans görevleri verilir. Performans görevini değerlendirmek için analitik dereceli puanlama anahtarı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MBU.BU.1.5.1.",
+    "Günlük hayatta karşılaştıkları mesleklerin neler olduğuna dair beyin fırtınası vb. teknikler kullanılarak öğrencilerin meslek türlerini belirlemeleri sağlanır ( KB3.3 , E3.5 ). B u m eslek gruplarında bilimden nasıl faydalanıldığı sorularak öğrencilerden gelen yanıtlar alınır ( E3.5 ). Belirledikleri mesleklerde bilimin yeri konusunda öğrencilerin dijital platformlar, basılı ve görsel kaynaklar vb. araştırma yapmaları beklenir ( OB1 , OB2 , OB4 , E3.4 ). Öğrencilerden konu ile ilgili mantıksal temellendirmeler yapmaları istenir ( E3.1 , E3.10 , SDB3.3 ). Bu aşamada sınıfta gruplara ayrılarak takım çalışması içinde münazara, altı şapkalı düşünme vb. yöntemler kullanılabilir ( SDB2.1 , SDB2.2 , D3.3 ). Bu süreçte arkadaşlarına karşı saygılı davranmaları ve sorumluluk bilinciyle hareket etmeleri desteklenebilir ( D14.1, D16.3 ). Özellikle bilimsel gelişmelerin meslekler üzerindeki etkilerine değinilir. Bu temellerde mantıksal çelişkileri tespit etmeleri beklenir ( KB3.2 , SDB3.3 ). Bu süreçte öğrencilerin açık fikirli davranmaları, saygı çerçevesinde fikir üretmeleri, nezaketle fikirlerini savunmaları sağlanır ( D14.1 , E3.5 ). Tartışma sonunda günlük hayatında karşılaştığı mesleklerde bilimin yeri konusunda geçerli fikirleri çürütmeleri veya kabul etmeleri beklenir ( SDB3.3 ). Bu noktada bilimsel gelişmeler ışığında geleceğin meslekleri üzerinde düşünmeleri sağlanır. Tartışma süreci analitik dereceli puanlama anahtarıyla değerlendirilebilir. Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, eşleştirme testleri, yapılandırılmış grid vb. araçlar kullanılabilir.",
+    "MBU.BU.1.5.2.",
+    "Öğrencilere yeşil mesleklerin neler olduğuna ilişkin açık uçlu sorular yöneltilebilir ( E1.1 ). Bu süreçte beyin fırtınası yönteminden faydalanılabilir. Öğrencilere yeşil mesleklerin neler olduğuna yönelik bireysel ya da grup olarak poster, afiş, rapor vb. hazırlama performans görevleri verilir ( SDB2.1 , SDB2.2 , OB1 , D3.2 ). Öğrencilerden yeşil meslekleri araştırmak için kullanacakları kaynakları belirlemeleri beklenir ( SDB3.3 ). Bilgiye ulaşmak için güvenilir genel ağ adresleri, basılı kaynaklar, alan uzmanlarıyla görüşme vb. farklı yöntemlerden yararlanmaları istenir ( OB1 , OB2 ). Bu süreçte gerçeği arama isteğiyle merak ettiği soruları sorarak hareket etmeleri beklenir ( E3.4 , E3.8 ). Belirledikleri kaynakları kullanarak yeşil mesleklere yönelik bilgi toplamaları istenir ( OB7 , OB8 ). Öğrencilerden ulaştıkları bilgileri öğretmeninden, alan uzmanından vb. yardım alarak, arkadaşları ile tartışarak veya bilimsel kaynaklara başvurarak doğrulamaları beklenir ( KB3.3 , OB1 , E3.5, E3.10 ). Doğruladıkları bilgileri kaydetmeleri istenir ( OB1 ). Öğrencilerin yeşil mesleklerde kullanılan bilimsel uygulamaları fark etmeleri sağlanır ( E3.10 ). Doğruladıkları bilgileri poster, rapor vb. olarak arkadaşlarıyla paylaşmaları sağlanır ( SDB2.1 , E2.2 , OB4 ). Performans görevi süreci analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Yeşil mesleklere kentsel tarımcılık, geri dönüşüm uzmanlığı, doğa bilimleri uzmanlığı, solar teknisyenlik, dalga enerjisi üreticiliği, temiz otomobil mühendisliği vb. değinilir. Bu mesleklerin sürdürülebilir bir dünya için önemi vurgulanarak farkındalık geliştirmeleri desteklenir ( OB8 , D5.2, D16.2 ). Sürecin tamamına ilişkin değerlendirmede açık uçlu sorular, çalışma kâğıtları, tanılayıcı dallanmış ağaç vb. kullanılabilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1546"
+}

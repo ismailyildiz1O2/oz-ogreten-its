@@ -1,0 +1,57 @@
+{
+  "unitId": 80323005,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "5. ÜNİTE: İMAN",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TDB.2.1.1",
+      "title": "İman ve İslam arasındaki ilişkiyi açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "TDB.2.1.2",
+      "title": "İslam inancının temel kaynaklarını açıklar",
+      "processComponents": [
+        "Kazanım işlenirken ayetlerin yanı sıra mütevatir ve sahih hadislerin de temel bilgi kaynakları içerisinde olduğu vurgulanacaktır."
+      ]
+    },
+    {
+      "code": "TDB.2.1.3",
+      "title": "İmanın mahiyetini kavrar",
+      "processComponents": [
+        "Kazanım işlenirken icmali ve tafsili iman konularına kısaca değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.2.1.4",
+      "title": "İmanın geçerli olması için gerekli şartları açıklar",
+      "processComponents": [
+        "Kazanım işlenirken imanın geçerli olması için klasik akaid âlimlerinin belirlediği şartlara da değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.2.1.5",
+      "title": "İnanç bakımından insanları sınıflandırır",
+      "processComponents": [
+        "Kazanım işlenirken şirk ve müşrik kavramlarına da değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.2.1.6",
+      "title": "İslam inanç esaslarını bütüncül olarak kavrar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

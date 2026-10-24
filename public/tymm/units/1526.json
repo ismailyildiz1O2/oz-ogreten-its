@@ -1,0 +1,40 @@
+{
+  "unitId": 1526,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY I · 4. Tema: Dijital Üretimde Çizim, Görüntü Ve Ses",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.1.4.1",
+      "title": "Dijital görsel çizim ve düzenleme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Dijital görsel oluşturma ve düzenleme sürecinde kullanılan dijital çizim araçlarını tanır.",
+        "b) Dijital görsel oluşturma ve düzenleme sürecine uygun dijital çizim araçlarını belirler.",
+        "c) Dijital görsel oluşturma ve düzenleme için belirlenen çizim araçlarını kullanır.",
+        "ç) Dijital görsel oluşturma ve düzenlemede kullanılan araç ve yöntemleri değerlendirir."
+      ]
+    },
+    {
+      "code": "DS.1.4.2",
+      "title": "Dijital ses kayıt ve düzenleme araçlarından yararlanabilme",
+      "processComponents": [
+        "a) Dijital ses dosyası oluşturma ve düzenleme sürecinde kullanılan araçları tanır.",
+        "b) Dijital ses dosyası oluşturma ve düzenleme sürecine uygun araçları belirler.",
+        "c) Dijital ses kaydı oluşturma ve düzenleme için belirlenen araçları kullanır.",
+        "ç) Dijital ses kaydında kullanılan araç ve yöntemleri teknik ve etik boyutlarıyla değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "dijital çizim, dijital sanat ürünü, montaj, ses düzenleme, teknolojik yaratıcılık, estetik, özgünlük, telif hakkı, etik",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1526"
+}

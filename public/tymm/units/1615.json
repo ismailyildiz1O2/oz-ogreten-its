@@ -1,0 +1,35 @@
+{
+  "unitId": 1615,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "7.Tema: Basit Matlar Opozisyon Ve İki Hamlelik Matlar",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.7.1",
+      "title": ". Satranç oyununda basit matlara yönelik çözümleme yapabilme. a) Satranç oyununda basit matların çeşitlerini belirler. b) Satranç oyununda basit matlar arasındaki ilişkileri belirler",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.7.2",
+      "title": ". Satrançta opozisyon konumunu yorumlayabilme. a) Satrançta opozisyonu ve opozisyonun mat yapmaya etkisini inceler. b) Opozisyonun mat yapmaya etkisini bağlamdan kopmadan açıklar. c) Opozisyonu ve opozisyonun anlamını kendi cümleleri ile yeniden ifade eder",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.7.3",
+      "title": ". Kademeli olarak önce bir sonra iki hamlelik matlara yönelik fikirlerini eyleme dönüştürebilme. a) Kademeli olarak önce bir sonra iki hamlelik matlara yönelik plan yapar. b) Kademeli olarak önce bir sonra iki hamlelik matlara yönelik yapılan planı uygular. c) Uyguladığı planın oyuna etkisini değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "çoban, merdiven, opozisyon, tembel",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SBAB5. Sosyal Katılım (SBAB5.5. Fikri Eyleme Dönüştürme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1615"
+}

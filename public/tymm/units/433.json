@@ -1,0 +1,96 @@
+{
+  "unitId": 433,
+  "grade": 7,
+  "gradeName": "7. Sınıf",
+  "subject": "Fen Bilimleri Dersi",
+  "title": "6. ÜNİTE: ELEKTRİKLENME",
+  "hours": "12",
+  "description": "Bu ünitede elektriklenmenin açıklanması, elektrik yükleri arasında itme ve çekme kuvvetlerinin olduğunun farkına vardırılması ve elektriklenme çeşitlerinin gözlemlenebileceği deney yapılabilmesi, cisimlerin elektrik yüklerinin sınıflanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KAZ.1",
+      "title": "1. Bölüm: Elektrik Yükleri ve Elektriklenme",
+      "processComponents": []
+    },
+    {
+      "code": "FB.7.6.1.1",
+      "title": "Elektriklenme ile ilgili bilgi toplayabilme",
+      "processComponents": [
+        "a) Elektriklenme ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak elektriklenme hakkında bilgileri bulur.",
+        "c) Elektriklenme ile ilgili bulduğu bilgileri doğrular. ç) Elektriklenme ile ilgili bulduğu bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "FB.7.6.1.2",
+      "title": "Elektriklenme çeşitlerini belirlemeye yönelik deney yapabilme",
+      "processComponents": [
+        "a) Elektriklenme çeşitlerini gözlemleyebilecekleri bir deney tasarlar.",
+        "b) Elektriklenme çeşitleri ile ilgili deney sonuçlarını analiz eder."
+      ]
+    },
+    {
+      "code": "FB.7.6.1.3",
+      "title": "Cisimlerin elektrik yüklerini sınıflandırabilme",
+      "processComponents": [
+        "a) Cisimlerin elektrik yüklerinin niteliklerini belirler.",
+        "b) Cisimlerin yük durumlarını ayrıştırır.",
+        "c) Cisimlerin yük durumlarını gruplandırır. ç) Cisimlerin yük durumlarını negatif, pozitif ve nötr olarak etiketler."
+      ]
+    }
+  ],
+  "keyConcepts": "pozitif yüklü cisim, negatif yüklü cisim, nötr cisim, temaslı ve temassız elektriklenme, elektroskop",
+  "support": [
+    "Elektriklenme, doğa ve teknolojideki elektriklenme uygulamalarına ilişkin kes yapıştır, yapboz gibi somut materyallerin kullanıldığı etkinlikler yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Elektriklenme, doğa ve teknolojideki elektriklenme uygulamaları hakkında araştırma yapmaları istenebilir.",
+    "Elektroskopla cisimlerin yükünün tespit edilmesini içeren animasyonlar oluşturmaları sağlanabilir.",
+    "Aşırı yükün vücut üzerindeki etkilerini Van de Graaff jeneratörü animasyonu üzerinden incelemeleri sağlanabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktılarının değerlendirilmesinde kısa cevaplı testler, eşleştirme testi, çalışma kâğıdı, açık uçlu sorular ve performans görevleri kullanılabilir. Ayrıca ünite sürecinde ortaya çıkan öğrenci ürünleri değerlendirme amaçlı kullanılabilir.",
+    "Elektriklenme kavramı ve elektriklenme uygulamaları örneklerini içeren poster, afiş vb. kullanılabilir. Hazırlanan poster, afiş kontrol listesi ile değerlendirilebilir.",
+    "Elektriklenme çeşitlerine ilişkin deney düzeneği üzerine performans görevi verilebilir. Performans görevi kontrol listesi ile değerlendirilebilir. Ayrıca akran değerlendirme formu kullanılabilir.",
+    "Cisimlerin elektrik yüklerinin sınıflandırılmasını içeren poster, afiş ve elektroskop modeli hazırlama üzerine performans görevi verilebilir. Hazırlanan poster, afiş ve model kontrol listesi ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FB.7.6.1.1",
+    "Atomda yer alan yük çeşitlerine ilişkin mevcut bilgileri açık uçlu sorularla açığa çıkarılabilir. Elektriklenme hakkında günlük yaşamla ilişkili merak edilen sorular sorulur ( E3.8 ) . \"Şimşek ve yıldırım nasıl oluşur?\" gibi sorular ile öğrencilerin günlük hayatta karşılaştıkları elektriklenme örneklerine dikkat çekilebilir. Elektriklenme ile ilgili bilgilere ulaşmak için kullanacakları araçları belirlemeleri istenir. Bu araçlar dijital içerikler, yazılı ve görsel kaynaklar olabilir. Öğrenciler bilgi toplama sürecinde okul kütüphanesi, bilgisayar laboratuvarı vb. ortamları da kullanabilir. Doğa olayları ve teknolojideki uygulama alanlarına uygun elektriklenme örnekleri ile ilgili verileri toplamaları istenir. Öğrencilerin ulaştıkları bilgileri arkadaşları ile tartışarak, öğretmeninden yardım alarak veya bilimsel kaynaklara başvurarak doğrulamaları sağlanır. Elektriklenme hakkında doğruladıkları bilgileri çalışma yapraklarına kaydetmeleri istenir ( OB1 ) . Kaydettikleri bilgileri açıklamaları istenir. Bu süreçte elektron, proton ve nötron kavramlarına; elektronların negatif yüklü, protonların pozitif yüklü olduğuna; nötr cisimlerde negatif ve pozitif yük miktarının eşit olduğuna değinmeleri sağlanır ( KB2.7 , KB2.9 ) . Ayrıca öğrencilerin elektriklenme konusunda teknolojideki uygulama alanlarından nasıl yararlanıldığı ile ilgili fikirlerini etkin bir şekilde ifade etmeleri istenir ( SDB2.1 , KB2.14 ) . Doğa olayları ve teknolojideki uygulama alanları konusunda öğrenmeyi zenginleştirmek için öğrenciler dijital ortamlara yönlendirilir ( OB2 ) . Güvenilir genel ağ adresleri yoluyla elde ettikleri bilgiyi özetlemeleri beklenir ( OB1 ) . Süreç sonunda elektriklenmeyi ve uygulama örneklerini içeren poster, afiş hazırlamaları istenebilir. Poster, afiş hazırlarken görsel sanatlar, dijital ortamlardan yararlanırken ise bilişim teknolojileri dersleri ile ilişkilendirmeleri beklenebilir. Hazırlanan poster, afiş holistik dereceli puanlama anahtarı ile değerlendirilebilir. Bunun yanında kısa cevaplı testler kullanılabilir.",
+    "FB.7.6.1.2",
+    "Öğrencilere yüklü cisimlerin birbirlerini nasıl etkiledikleri ile ilgili açık uçlu sorular sorulur ( E3.8 ) . Daha sonra soru cevap tekniğiyle öğrencilerin, negatif ve pozitif olmak üzere iki çeşit elektriksel yüklü parçacık olduğu çıkarımını yapmaları beklenir. Öğrenciler gruplara ayrılır ve öğrencilerden grup içinde görev bilincine sahip olarak yardımlaşmaları istenir ( D16 , D20 , SDB1.2 , SDB2.2 ) . Bilimsel bir yaklaşımla grup üyelerinin kendi aralarında aktif bir rol sergilemeleri ve sorumluluklarını üstlenmeleri beklenir ( D3.4 , E2.2 ) . Elektriklenme çeşitlerine ilişkin deney düzeneklerini kurabilmeleri için uygun ortam ve malzemeler sağlanır. Öğrencilerden seçtikleri malzemelerle sürtünme, dokunma ve etki (tesir) ile elektriklenme çeşitlerini temaslı ve temassız elektriklenme türleri olarak gözlemlemelerine yönelik deney düzeneği kurmaları istenir. Öğrencilerin, deney düzeneğini kurarken planlı bir şekilde çalışmalarını yürütmeleri sağlanır ( D3.2 ) . Yüklü ve nötr cisimlerin birbirleri ile etkileşimleri (itme-çekme) ifade edilir. Deney sonucunda elde edilen verileri çalışma kâğıdına kaydetmeleri istenir. Dijital içerikler kullanılarak öğrencilerin ek deneyler yapmaları sağlanır ( OB2 ) . Çalışma kâğıdı kontrol listesi ile değerlendirilebilir. Ayrıca akran değerlendirme formu kullanılabilir.",
+    "FB.7.6.1.3",
+    "Cisimlerin yük durumları ile ilgili açık uçlu sorular sorulur ( E3.8 ) . Öğrencilerin, cisimlerin elektrik yükleri ile ilgili dijital içerikler, yazılı ve görsel kaynaklar vb. yardımıyla bilgi toplamaları sağlanır ( OB1 , KB2.6 ) . Bilimsel gerçeğe ulaşmaları için öğrenme ortamları düzenlenir ( E3.4 ) . Öğrencilerin, cisimlerin elektrik yüklerinin niteliklerini belirlemeleri istenir. Cisimleri, sahip oldukları elektrik yük durumları bakımından ayrıştırmaları istenir. Cisimleri, yüklü ve nötr olarak gruplandırmaları istenir. Yüklü cisimleri negatif ve pozitif olarak etiketlemeleri istenir ( KB2.7 ) . Bu bağlamda öğrencilerin, araştırmacı ve sorgulayıcı bir yaklaşımla nötr cisimlerin yüksüz olmadığı, negatif ve pozitif yük miktarının birbirine eşit olduğu çıkarımını yapmaları beklenir ( D3.3 ) . Daha sonra cisimlerin elektriklenme sonucunda hangi cins yükle yüklendiği vb. hakkında merak ettikleri soruları sormaları istenir ( E3.8 ) . Bir cismin elektrik yükünün olup olmadığını, yüklü ise hangi yükle yüklü olduğunu tespit etmeye yarayan aletin elektroskop olduğunun ifade edilmesi beklenir. Öğrencilerin, elektroskobun parçalarını tanımaları ve bu parçaların ne işe yaradığını kısaca açıklamaları beklenir ( SDB2.1 ) . Elektroskopun çalışma prensibine girilmemesi istenir. Öğrencilerin odaklanarak elektroskobu gözlemlemeleri istenir ( E3.2 ) . Dijital içerikler kullanılarak öğrencilerin ek uygulamalar yapmaları sağlanır ( OB2 ) . Bunun yanı sıra öğrencilerin basit elektroskop modelleri yapmaları istenebilir. Model tasarım süreci görsel sanatlar, dijital ortamlardan yararlanırken ise bilişim teknolojileri dersleri ile ilişkilendirilebilir. Hazırlanan poster, afiş ve model kontrol listesi ile değerlendirilebilir. Ayrıca kısa cevaplı testler kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16",
+      "D20",
+      "D3.2",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.2",
+      "E3.2",
+      "E3.4",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.6",
+      "KB2.7",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/433"
+}

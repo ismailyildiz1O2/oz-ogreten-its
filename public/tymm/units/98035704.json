@@ -1,0 +1,84 @@
+{
+  "unitId": 98035704,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "4. ÖĞRENME ALANI: MÜZİK KÜLTÜRÜ",
+  "hours": "7",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "Mü.8.D.1",
+      "title": "Türk müziği biçimlerini tanır",
+      "processComponents": [
+        "Mevlevî ayini, peşrev, saz semaisi, longa, kırık hava, uzun hava, şarkı, ilahi, nefes, deyiş vb. müzik biçimleri (formları) dinletiler yoluyla tanıtılır."
+      ]
+    },
+    {
+      "code": "Mü.8.D.2",
+      "title": "Dinlediği farklı türlerdeki müziklerle ilgili duygu ve düşüncelerini açıklar",
+      "processComponents": [
+        "Öğrencilerin dinledikleri müziklerle ilgili duygu ve düşüncelerini yazılı ve sözlü anlatım yollarıyla; drama vb. öğretim yöntemleriyle veya bilişim teknolojilerinden yararlanarak ifade etmelerine ilişkin etkinlikler düzenlenir."
+      ]
+    },
+    {
+      "code": "Mü.8.D.3",
+      "title": "Müziğin diğer sanatlarla ilişkisini kavrar",
+      "processComponents": [
+        "Müziğin diğer sanat dalları (edebiyat, tiyatro, sinema, halk oyunları, halk dansları, opera, bale vb.) ile ilişkisi vurgulanır. Şiir, hikâye, destan vb. türlerden yola çıkılarak veya esinlenilerek bestelenmiş müzik eserlerinden örnekler dinletilir."
+      ]
+    },
+    {
+      "code": "Mü.8.D.4",
+      "title": "Türkülerin yaşanmış öykülerini araştırır",
+      "processComponents": [
+        "Öğrencilerin müzikle ilgili araştırmalarında bilgisayar, internet ve kütüphanelerden yararlanabilmelerine ilişkin yönlendirmeler yapılır."
+      ]
+    },
+    {
+      "code": "Mü.8.D.5",
+      "title": "Dinlediği farklı türlerdeki müziklerden hem bireysel hem de ortak sınıf arşivini geliştirir",
+      "processComponents": [
+        "Öğrencilerin müzik alanı ile ilgili edindikleri veya ürettikleri her türlü çalışmayı (eser ses kayıtları, nota yazıları vb.) sınıflandırıp çeşitli bilişim teknolojisi gereçlerinin (bilgisayar, çeşitli bellek birimleri vb.) desteğiyle gerek yazılı gerek sayısal (dijital) veri olarak bir müzik arşivi oluşturmaları sağlanır.",
+        "Sanatçıların dünyaca (yerelden evrensele) tanınmasında iletişim araçlarının rolü vurgulanır.",
+        "İnternet ortamında müzik dinlerken siber güvenliğe ve etik kurallara dikkat edilmesi gerekliliği hatırlatılır."
+      ]
+    },
+    {
+      "code": "Mü.8.D.6",
+      "title": "Atatürk’ün güzel sanatlar içinde müziğe verdiği yeri ve önemi kavrar",
+      "processComponents": []
+    },
+    {
+      "code": "Mü.8.D.7",
+      "title": "Müziğin terapi yöntemi olarak da kullanıldığını bilir",
+      "processComponents": [
+        "Makamların müzikle tedavi amacıyla kullanıldığı vurgulanmalıdır."
+      ]
+    },
+    {
+      "code": "Mü.8.D.8",
+      "title": "Sanat, sanatçı ve sanat eseri kavramlarını açıklar",
+      "processComponents": [
+        "Öğrencinin sanat, sanatçı, sanat eseri, müzik ve estetik kavramlarını nitelikleri açısından eleştirel düşünme sürecinden geçirerek değerlendirmesi ve tartışması hedeflenmelidir."
+      ]
+    },
+    {
+      "code": "Mü.8.D.9",
+      "title": "Müzik alanına ait ana ve yan meslekleri tanır",
+      "processComponents": [
+        "Müzik alanı ile ilgili ana meslekler (besteci, yorumcu, orkestra-koro şefliği, eğitmen, film ve oyun müziği besteciliği vb.) ve yan meslekler (şarkı sözü yazarlığı, müzik gazeteciliği, müzik yapımcılığı, çalgı yapımcılığı vb.) tanıtılır.",
+        "Müzik alanına ait meslekleri tanımaya yönelik geziler düzenlenir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Müzik Kültürü",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2018129173048695-1-8%20M%C3%BCzik%20%C3%96%C4%9Fretim%20Program%C4%B1%2020180123.pdf"
+}

@@ -1,0 +1,67 @@
+{
+  "unitId": 1556,
+  "grade": 0,
+  "gradeName": "II. DÜZEY MATEMATİK UYGULAMALARI MODÜLÜ",
+  "subject": "Matematik ve Bilim Uygulamaları Dersi",
+  "title": "DÜZEY II · 3. Tema: Sanatta Matematik",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MBU.MU.2.3.1",
+      "title": "Düzgün çokgenleri kullanarak özgün bir süsleme sentezleyebilme",
+      "processComponents": [
+        "a) Süslemede kullanılacak düzgün çokgenleri belirler.",
+        "b) Süslemeyi oluşturmak için düzgün çokgenler arasındaki ilişkileri kurar.",
+        "c) Düzgün çokgenleri kullanarak özgün bir süsleme oluşturur."
+      ]
+    },
+    {
+      "code": "MBU.MU.2.3.2",
+      "title": "Çokgen ve çember kullanılarak oluşturulan düzlemsel şekillerin alanlarını bulmayı gerektiren problemleri çözebilme",
+      "processComponents": [
+        "a) Çokgen ve çember kullanılarak oluşturulan düzlemsel şekillerin alanlarını bulmayı gerektiren problemlerdeki verilen ve istenenleri belirler.",
+        "b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler.",
+        "c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür.",
+        "ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar.",
+        "d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.",
+        "e) Belirlenen strateji veya stratejileri çözüm için uygular.",
+        "f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir.",
+        "ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.",
+        "h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "a) Geometrik cisimlerle ilgili deneyimlerini gözden geçirir.",
+        "b) Tasarlama sürecinde geometrik cisimlerin kullanımına yönelik çıkarımlar yapar.",
+        "c) Çıkarımını farklı tasarımlar üzerinden değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "Genellemeler \n\n Sanatsal tasarımlarda matematik; biçimlerin düzenli, dengeli ve estetik olarak uyumlu olmasını sağlar.\n\n Anahtar Kavramlar \n\n çember, dikdörtgenler prizması, düzgün çokgen, kare prizma, küp, küre, silindir, üçgen prizma",
+  "support": [
+    "Çokgenler, çember ve her ikisinin de kullanıldığı düzlemsel şekillerin alanlarını bulmayı gerektiren problemlerin çözüm aşamalarında, öğrenciler yapılan ek açıklamalarla desteklenebilir.",
+    "Önceden hazırlanmış bir dijital veya basılı tasarım gösterilerek bu tasarımlarda hangi geometrik cisimlerin kullanıldığını belirlemeleri istenebilir. Daha sonra öğrencilerin bu tasarımlar üzerinden geometrik cisimlerin sanatta kullanımına yönelik görüşleri alınabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden, tarihî mekânlar ve müzelerdeki geometrik süslemelerde kullanılan çokgenler üzerine araştırmalar yaparak çektikleri fotoğrafları ve tespit ettikleri çokgenlerin isimlerini içeren bir sunum hazırlamaları istenebilir.",
+    "Öğrencilerden, cami, kervansaray, bedesten veya hamam mimarisindeki geleneksel süslemelerden esinlenerek çember ve çokgenlerden oluşan bir desen tasarlamaları ve bu tasarımları üzerinden alan hesaplaması yapmaları istenebilir.",
+    "Öğrencilerin sanat eserlerinde kullanılan altın oranla ilgili araştırma yapmaları istenebilir.",
+    "Altın oran içeren sanat eserlerinin olduğu bir poster hazırlayarak sunmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları performans görevleri, açık uçlu sorular, kontrol listesi vb. kullanılarak değerlendirilebilir.",
+    "Öğrencilerin düzgün çokgenleri kullanarak özgün bir süsleme tasarlayıp afiş, poster vb. olarak sunmalarına yönelik performans görevi verilebilir. Bu görev holistik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilerin geometrik cisimleri kullanarak sanatsal bir çalışma tasarlamalarına yönelik performans görevi verilebilir. Bu görev bütüncül veya analitik dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MBU.MU.2.3.1.",
+    "Öğrencilerin millî ve manevi değeri olan mimari yapılarımızda veya geleneksel sanatlarımızda düzgün çokgenler kullanılarak oluşturulan süslemelerin yer aldığı görsel veya modeller sunularak incelemeleri sağlanır ( OB5 , OB9 ). İnceleme için dijital ya da basılı kaynaklardan da yararlanılabilir ( OB2 ). Öğrencilerden gösterilen model ya da görsellerdeki düzgün çokgenleri belirlemeleri istenir. Öğrencilerin sürece aktif katılımı ve eğlenerek öğrenmeleri desteklenir ( E2.5 , D3.2 ). “Parkeler, arı petekleri veya mimari süslemeler hangi düzgün çokgenler yardımıyla oluşturulmuş olabilir?”, “Bu şekiller süslemelerde neden sıkça kullanılıyor?” vb. sorularla öğrencilerin süsleme oluşturmak için kullanılan düzgün çokgenler arasındaki açı ve kenar ilişkilerini belirlemeleri sağlanır ( E3.4 ). Öğrencilerin incelenen örneklerdeki düzgün çokgenlerle oluşturulan süslemelerin oluşum sürecini ve aşamalarını bir bütün olarak ifade etmeleri beklenir ( SDB2.1 ). Örneğin “Arılar peteklerinde altıgenleri yan yana getirerek dayanıklı ve boşluksuz bir yapı oluşturur.” vb. Öğrencilere düzgün çokgenleri kullanarak özgün ve estetik bir süsleme tasarlamalarına yönelik performans görevi verilir ( D7.2 , E3.3 , OB9 ). Performans görevini afiş, poster vb. şekilde hazırlamaları ve arkadaşlarına sunmaları istenebilir ( D16.3 , SDB2.1 ). Öğrencilerin tasarımlarını yaparken noktalı, kareli kağıtlardan veya dijital araç gereçlerden yararlanmaları sağlanabilir. Öğrencilerin tasarımlarını süslemeye uygun olarak renklendirmeleri daha estetik bir hâle getirmeleri istenebilir ( D7.2 , E3.3 ). Öğrencilerin simetri, tekrar ve renk uyumu konularına dikkat etmeleri sağlanır. Bu görev holistik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısının sonunda açık uçlu sorular vb. kullanılarak değerlendirme yapılabilir.",
+    "MBU.MU.2.3.2.",
+    "Öğrencilere, çokgen ve çemberden oluşan bir bölge gösterilerek bu bölgenin alanının nasıl hesaplanacağı sorulur. Böylece öğrencilerin merak duyguları harekete geçirilerek tartışma ortamı oluşturulabilir ( E1.1 ). Bu şekiller cami, geleneksel Türk hamamı, kervansaray ve bedestenlerde kullanılan süslemeler olabilir ( OB9 ). Tartışma esnasında sanat eserlerindeki geometrik şekillerin estetik ve akustiğin oluşumuna katkısına değinilir. Problemler oluşturulurken gerçek yaşam ya da matematiksel durumlardan yararlanılabilir. Örneğin “Bir tiyatro sahnesinin dikdörtgen şeklindeki fonuna daire şeklinde ışıklı bir dekor yerleştirilmiştir. Dikdörtgen fonun boyutları 12 m × 6 m, daire şeklindeki dekorun çapı 4 metredir. Buna göre fonda dekor yerleştirilebilecek ne kadar alan kalmıştır?” vb. problemler kullanılabilir. Çokgen ve çember kullanılarak oluşturulan şekillerin alanlarını bulmayı gerektiren problemleri çözerken öğrencilerden problemdeki verilenler ve istenenleri belirlemeleri istenir. Daha sonra verilenler ve istenenler arasındaki işlem ilişkilerini tespit etmeleri beklenir. Bu süreçte problemdeki ilişkilere yönelik şekil ya da diyagram çizmeleri istenerek öğrencilerin problemi anlamaları sağlanır ( OB4 ). Böylece problemlerin anlaşılıp anlaşılmadığı değerlendirilebilir. Öğrencilerden problem bağlamlarını yorumlarken verilenleri belirleyerek uygun matematiksel temsillere dönüştürmeleri ve problemi kendi ifadeleriyle açıklamaları beklenir ( MAB3 ). Problemlere yönelik matematiksel çözümler üretilirken öğrencilerden sonuca ilişkin tahminde bulunmaları ve stratejiler geliştirmeleri beklenir ( E3.6 ). Öğrencilerin çözüm stratejileri geliştirirken farklı temsillerden (tablo, grafik vb.) yararlanmaları sağlanır ( MAB3 ). Öğrencilerin seçtikleri farklı stratejiler ile problemleri çözmelerine fırsat verilir. Çözüm stratejileri geliştirme ve uygulama sürecinde iş birliği içinde grup çalışmaları yapmaları sağlanabilir ( SDB2.2 ). Öğrencilerden grup çalışmaları sırasında çözüm stratejilerini gözden geçirmeleri, çözüme ulaştırmayan stratejileri değiştirmeleri beklenir ( SDB1.2 ). Kullandıkları veya geliştirdikleri stratejileri gözden geçirip alternatif yollara ilişkin çıkarım ve değerlendirmeler yapmaları istenerek stratejilerini paylaşmalarına olanak tanınır. Problem çözme sürecinde kullandıkları stratejilerin hangi tür problemlerde kullanılabileceğine dair genelleme yapmaları ve yaptıkları genellemelerin geçerliliğini matematiksel örneklerle değerlendirmeleri beklenir. Öğrencilerden çokgen ve çemberden oluşan bir bölgenin alan hesaplamasıyla ilgili problemler kurmaları ve problemlerin bağlamlarına yönelik yansıtmalar yapmaları beklenir. Ayrıca çıkarımlarını değerlendirmeleri ve karar verme sürecine ait davranışlarının sorumluluğunu kabul etmeleri desteklenir ( SDB3.3 , D16.1 ). Çokgen ve çember kullanılarak oluşturulan şekillerin alanlarını bulmayı gerektiren problemlerin çözümünde öğrencilerin problem çözme sürecinin değerlendirilmesine yönelik kontrol listesi kullanılabilir. Problem çözme sürecinin değerlendirilmesinde öz değerlendirme formu da kullanılabilir. Öğrenme durumları açık uçlu sorularla değerlendirilebilir.",
+    "MBU.MU.2.3.3.",
+    "Öğrencilere “Bir oyun parkındaki oyuncakların tasarımında hangi geometrik cisimler tercih edilir? Bu cisimler neden tercih edilmiş olabilir?” ya da “Bir binanın bölümleri biçimsel olarak hangi geometrik cisimlere benzer ve bu biçimlerin yapısal avantajları nelerdir?” vb. daha çok düşünmeye sevk eden sorular yöneltilerek tartışma ortamı oluşturulur ( SDB2.1 ). Bu tür sorularla, öğrencilerin geometrik cisimlerle ilgili önceki bilgi ve deneyimlerini yeniden değerlendirmeleri ve bu bilgileri günlük yaşam bağlamında ilişkilendirmeleri sağlanır. Öğrencilere geometrik cisimleri kullanarak sanatsal bir çalışma tasarlamalarını içeren bir performans görevi verilebilir. Bu çalışmada öğrencilerden heykel, vitray, üç boyutlu maket, modern sanat objesi gibi özgün bir sanat ürünü ortaya koymaları beklenir. Tasarım sürecinde küp, prizma, silindir, küre gibi geometrik cisimlerin bilinçli ve özgün biçimde kullanılması teşvik edilir ( E3.3 ). Tasarım sürecinde kareli ve noktalı kâğıt ya da dijital araçlardan yararlanmaları desteklenir ( OB2 ). Hazırladıkları sanatsal tasarımları sınıf ortamında sunan öğrencilerin hangi geometrik cisimleri neden kullandıklarını ve bu cisimlerin görsel veya yapısal etkilerini açıklamaları istenir ( SDB2.1 , D16.3 , E3.1 ). Sunumların ardından öğrencilerin birbirlerinin tasarımları üzerine konuşabileceği bir tartışma ortamı oluşturulur ( SDB2.1 , E3.10 ). Tartışma sonunda öğrencilerden geometrik cisimlerin sanatsal kullanımına yönelik çıkarımlar yapmaları beklenir. Örneğin “Tasarımda sütunlar yapılırken silindir kullanıldığında estetik açıdan daha güzel duruyor.” vb. Daha sonra öğrencilerden kendi tasarımlarıyla arkadaşlarının tasarımlarını karşılaştırmaları istenir. Bu karşılaştırma sonucunda öğrencilerin çıkarımlarını farklı tasarımlar üzerinden değerlendirmeleri sağlanır. Performans görevi bütüncül veya analitik dereceli puanlama anahtarı yardımıyla değerlendirilebilir. Öğrenme çıktısı sonunda açık uçlu sorular kullanılarak değerlendirme yapılabilir."
+  ],
+  "skills": [
+    "MAB2. Matematiksel Problem Çözme"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1556"
+}

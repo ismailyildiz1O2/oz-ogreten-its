@@ -1,0 +1,56 @@
+{
+  "unitId": 1223,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Ney Modülü",
+  "title": "3. TEMA: NEYDE MAKAMLAR VE UYGULAMALARI 2",
+  "hours": "17",
+  "description": "Temanın içeriğini Türk müziğindeki kürdi makamında ney ile etüt ve Türk müziği eserleri çalabilme oluşturmaktadır. Bu doğrultuda temada yer alan kürdi makamında eserleri çalabilmeleri için belirlenen öğrenme çıktılarına ulaşılması amaçlanır.",
+  "outcomes": [
+    {
+      "code": "NEY.5.3.1",
+      "title": "Kürdi makamında Türk müziği eserlerini çalabilme",
+      "processComponents": [
+        "a) Kürdi makamında Türk müziği eserlerini çözümler.",
+        "b) Doğru duruş ve tutuş pozisyonu alır.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak çargâh makamında Türk müziği eserlerini çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "makam, ney, Türk müziği",
+  "support": [
+    "Her öğrencinin gelişimi takip edilerek bireysel geri bildirimler verilebilir. Öğretmenin yardımı ile makamların barındırdığı seslerden oluşan etütler sık tekrar edilebilir. Eserler ve etütler metronom aleti ile yavaşlatılarak çalınabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler küçük gruplara ayrılarak bir grup eseri ney ile seslendirirken diğer grup eserin solfejini yapabilir. Bu etkinlik, süreci eğlenceli hâle getirirken öğrencilerin sosyal iletişimi geliştirebilir. Türk müziği teori uygulama dersinde kürdi makamında öğrendikleri eserleri ney ile seslendirmeleri istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; gözlem formu, analitik dereceli puanlama anahtarı, kontrol listesi ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak çargâh ve kürdi makamlarında kendi melodilerini oluşturmaları istenebilir. Performans görevi gözlem formu veya kontrol listesi ile değerlendirebilir."
+  ],
+  "teachingApplications": [
+    "NEY.5.3.1",
+    "Kürdi makamının genel özellikleri anlatılarak, makamın dizisi gösterilip solfeji yapılır ve öğrencilerin odaklanıp makamın genel özelliklerini çözümlemeleri ardından kendi cümleleriyle yorumlamaları sağlanır ( OB1 , E3.2 ). Daha sonra öğretmen, kürdi makamında Türk müziği eserlerini uygun bona ve solfej tekniklerini kullanarak sergiler. Öğrenciler, öğretmen tarafından yapılan bona ve solfeji inceleyip, Türk müziği eserlerinin uygun teknikleri kullanarak önce bona ardından solfejini sergiler ( KB2.14 , SAB9 ). Seslendireceği kürdi makamındaki Türk müziği eserlerinde kullanacağı parmak pozisyonu ve doğru duruş pozisyonu uygulamalı olarak gösterilir. Ardından öğrencilerin ayna karşısında doğru duruş ve parmak pozisyonlarını kontrol etmeleri, kendilerini değerlendirmeleri, doğru duruş ve tutuş pozisyonunu sergilemeleri istenir ( SDB1.2 ). Doğru duruş ve parmak pozisyonları sağlandıktan sonra öğrencilerin ney ile kürdi makamından oluşan etütleri ve eserleri çalabilmeleri için neye özgü teknikleri ifade etmeleri ardından kullanmaları istenir. Kürdi makamının belirgin şekilde algılanması için uzun seslerden oluşan Türk müziği eserleri, öğretmen tarafından ezgisel yapıya uygun olarak çalınır. Öğrencilerin gözlemledikten sonra eserleri ezgisel yapıya uygun olarak çalmaları istenerek çalışmalarında sabırlı olmaları gerektiği vurgulanır ( D12.3 ). Süreç sonunda performans görevi olarak çargâh ve kürdi makamında kendi melodilerini oluşturmaları istenebilir. Performans görevi, gözlem formu veya kontrol listesi ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.3"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1223"
+}

@@ -1,0 +1,57 @@
+{
+  "unitId": 974,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Müzik Okulları - Bireysel Ses Eğitimi Dersi",
+  "title": "1. TEMA: İNSAN SESİ",
+  "hours": "3",
+  "description": "Ses tellerinin görüntüsü, bulunduğu bölge ve sesin oluşumu esnasında ses tellerinde meydana gelen hareketlere yönelik belirlenen öğrenme çıktılarına ulaşmak amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "BSE.4.1.1",
+      "title": "Ses tellerinin görüntüsünü tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "BSE.4.1.2",
+      "title": "Sesin oluşumu sırasında ses tellerinde meydana gelen hareketleri yorumlayabilme",
+      "processComponents": [
+        "a) Ses tellerinin hareketlerini inceler.",
+        "b) Bu hareketlerin oluşumunda havanın etkisini yorumlar.",
+        "c) Havanın etkisiyle oluşan seslere benzer somut örnekler vererek ses tellerinin hareketini yeniden ifade eder."
+      ]
+    }
+  ],
+  "keyConcepts": "hava, ses, ses telleri",
+  "support": [
+    "Öğrencilere ses tellerinin görüntüsü, bulunduğu bölge ve sesin oluşumu esnasında ses tellerinde meydana gelen hareketleri somutlaştırmaları için çeşitli deneyler yaptırılabilir. Örneğin öğrenciden bir balonu şişirip balonun ağız kısmını iki taraftan işaret ve baş parmağı yardımıyla tutması istenebilir. Balonun ağız kısmını yanlara doğru gerdirerek, yavaşça hava çıkabilecek şekilde serbest bırakarak ses üretimi sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin ses tellerinin görüntüsü, bulunduğu bölge ve sesin oluşumu esnasında ses tellerinde meydana gelen hareketleri somut ve yaratıcı yollarla ifade edecekleri etkinliklere yer verilebilir. Örneğin öğrencilerden ses tellerinin görüntüsünü ve bedende bulunduğu yeri açıklayan görsel materyaller hazırlamaları istenebilir. Öğrencilerden sesin oluşumu sırasında ses tellerindeki hareketleri anlatan bir deney yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, performans görevi, kontrol listesi gözlem formu ve kavram haritası ile değerlendirilebilir. Öğrencilere ses telleri ile ilgili açıklayıcı bir görsel materyal hazırlayabilecekleri performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "BSE.4.1.1 Ses tellerinin ne işe yaradığı ve şeklinin neye benzediği sorularak konuya ilişkin merak oluşturulabilir ( E1.1 ). Öğrencilerin öğretmenin yönelttiği soruları cevaplandırırken duygu ve düşüncelerini ifade edebilmesi sağlanır. Öğrenciye başkalarını etkin bir şekilde dinleme ve sözlü etkileşim sağlama yoluyla ( SDB2.1 ) ses tellerinin görüntüsü hakkında ön bilgi verilebilir. Çeşitli görsel materyaller üzerinden ses tellerinin görüntüsünü inceleme etkinlikleri yapılabilir. Böylelikle öğrenci görsel materyallerdeki ses tellerinin görüntüsünü algılayarak ses tellerinin şeklini tanır ( OB4 ) ve böylece görsel üzerinde ses tellerini bulabilmesi sağlanır. Ses tellerinin insan vücudunda nerede olduğu sorularak konuya ilişkin merak oluşturulabilir (E1.1). Öğrenciler öğretmenin yönelttiği soruları cevaplandırırken duyguve düşüncelerini ifade edebilirler ( SDB2.1 ). Ses tellerinin bedende bulunduğu bölge hakkında başkalarının etkin biçimde dinlenmesi ve sözlü etkileşim sağlanması yoluyla ön bilgi edinilebilir. Öğrencilerden ses tellerinin bulunduğu yeri bedeninde göstermesi istenebilir. Böylelikle öğrencilerin görseli bağlamdan kopmadan dönüştürmesi yoluyla ( OB4 ) kendi ifadeleriyle ses tellerinin bulunduğu yeri bedeninde işaret edebilmesi sağlanır. Öğrencilere ses telleri ile ilgili açıklayıcı görsel materyal hazırlamaya yönelik performans görevi verilir. Süreç, gözlem formu, öz değerlendirme formu, değerlendirme soruları ve kontrol listesi ile değerlendirilebilir.",
+    "BSE.4.1.2 Çeşitli görsel materyaller üzerinden ses tellerinin hareketleri (açılıp kapanması) ve bu hareketlerin nasıl oluştuğu incelenebilir ( OB4 ). Öğrencilerin öğretmeni etkin bir şekilde dinlemesi yoluyla ( SDB2.1 ) bu hareketlerin oluşumunda havanın etkisini fark edebilmesi sağlanır. Öğrencilerden sesin oluşumu esnasında ses tellerinde meydana gelen hareketleri açıklamaları istenebilir. Böylelikle öğrencilerin görseli bağlamdan kopmadan dönüştürmesi yoluyla duygu ve düşüncelerini ifade edebilmeleri sağlanır ( SDB2.1 ). Öğrencilerin çalışmalarda aktif rol almasıyla ( D3.4 ) sesin oluşumu esnasında ses tellerinde meydana gelen hareketleri açıklayabilmeleri sağlanır ( KB2.3 ). Öğrencilerden havanın etkisiyle oluşan seslere benzer somut örnekler verilmesi istenebilir. Bu örneklerden yola çıkılarak sözlü etkileşim sağlanabilir ( SDB2.1 ). Kavram haritası ile öğrencilerin sesin oluşumu sırasında ses tellerinde meydana gelen hareketleri yorumlayabilme becerisi değerlendirilebilir. Ayrıca kontrol listesi kullanılarak öğrenme süreci ile ilgili geri bildirim verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "kavramsal": [
+      "KB2.3"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/974"
+}

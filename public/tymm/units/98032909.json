@@ -1,0 +1,38 @@
+{
+  "unitId": 98032909,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Ortaokul Matematik Dersi",
+  "title": "9. ÖĞRENME ALANI: EŞLİK VE BENZERLİK",
+  "hours": "8",
+  "description": "Terimler veya kavramlar: benzerlik oranı. Semboller: eşlik için “≅” sembolü, benzerlik için “~”",
+  "outcomes": [
+    {
+      "code": "M.8.3.3.1",
+      "title": "Eşlik ve benzerliği ilişkilendirir, eş ve benzer şekillerin kenar ve açı ilişkilerini belirler",
+      "processComponents": [
+        "Düzlemsel şekilleri karşılaştırarak eş olup olmadıklarını belirlemeye yönelik etkinliklere yer verilir.",
+        "Eş çokgenlerde karşılıklı kenar uzunluklarının ve açı ölçülerinin eşit, benzer çokgenlerde ise karşılık gelen açı ölçülerinin eşit fakat kenar uzunluklarının orantılı olduğu vurgulanır. Eş çokgenlerin benzer olduğu ancak benzer çokgenlerin eş olmalarının gerekmediği vurgulanır. KKK, AKA gibi üçgenlerde eşlik ve benzerlik kuralları özel olarak verilmez.",
+        "Somut modellerle, kareli kâğıtla veya kâğıtları katlayarak yapılacak çalışmalara yer verilir."
+      ]
+    },
+    {
+      "code": "M.8.3.3.2",
+      "title": "Benzer çokgenlerin benzerlik oranını belirler, bir çokgene eş ve benzer çokgenler oluşturur",
+      "processComponents": [
+        "Somut modellerle, kareli kâğıtla veya kâğıtları katlayarak yapılacak çalışmalara yer verilir.",
+        "Gerektiğinde uygun bilgi ve iletişim teknolojilerinden yararlanılır.",
+        "Çokgenlerde benzerlik problemlerine girilmez."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Geometri ve Ölçme",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

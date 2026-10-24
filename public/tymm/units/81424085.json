@@ -1,0 +1,29 @@
+{
+  "unitId": 81424085,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "85. ÜNİTE: UT - ETÜT VE ESER İCRASI – IV",
+  "hours": "11",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.11.9.1",
+      "title": "Karcığar makamında etüt uygulamaları yapar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.11.9.2",
+      "title": "Karcığar makamında eser uygulamaları yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

@@ -1,0 +1,47 @@
+{
+  "unitId": 94032902,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "İlkokul Matematik Dersi",
+  "title": "2. ÖĞRENME ALANI: DOĞAL SAYILARLA TOPLAMA İŞLEMİ",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "M.4.1.2.1",
+      "title": "En çok dört basamaklı doğal sayılarla toplama işlemini yapar",
+      "processComponents": []
+    },
+    {
+      "code": "M.4.1.2.2",
+      "title": "İki doğal sayının toplamını tahmin eder ve tahminini işlem sonucu ile karşılaştırır",
+      "processComponents": [
+        "Toplamları en çok dört basamaklı sayılarla işlem yapılır."
+      ]
+    },
+    {
+      "code": "M.4.1.2.3",
+      "title": "En çok dört basamaklı doğal sayıları 100’ün katlarıyla zihinden toplar",
+      "processComponents": [
+        "Elde edilecek toplamların en fazla dört basamaklı olmasına dikkat edilir."
+      ]
+    },
+    {
+      "code": "M.4.1.2.4",
+      "title": "Doğal sayılarla toplama işlemini gerektiren problemleri çözer",
+      "processComponents": [
+        "Problem çözme etkinliklerinde en çok dört işlem gerektiren problemlere yer verilir.",
+        "En çok üç işlem gerektiren problem kurmaya yönelik çalışmalara da yer verilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Sayılar ve İşlemler",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/201813017165445-MATEMAT%C4%B0K%20%C3%96%C4%9ERET%C4%B0M%20PROGRAMI%202018v.pdf"
+}

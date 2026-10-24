@@ -1,0 +1,66 @@
+{
+  "unitId": 81663008,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "8. ÜNİTE: ROBOTİK KODLAMA - 3. ÜNİTE: PROJE GELİŞTİRME",
+  "hours": "36",
+  "description": "Bu ünite öğrencilere, ileri düzeyde robotik projeler tasarlama ve geliştirme sürecini öğretmeye odaklanmaktadır. Öğrenciler, çeşitli ortam algılayıcı sensörler, motor türleri, iletişim ekipmanları ve ileri seviye sensörler gibi robotik bileşenleri kullanarak özgün projeler oluşturmayı öğrenirler. Ayrıca, hareketli parçaların ve farklı bileşenlerin nasıl entegre edileceği konuları da bu ünite içinde ele alınır. Bu sayede öğrenciler, karmaşık ve yenilikçi robotik projeler tasarlama ve geliştirme becerilerini kazanırlar.",
+  "outcomes": [
+    {
+      "code": "BTY.8.1",
+      "title": "Ortam algılayıcı sensörler ile uygulamalar geliştirir",
+      "processComponents": [
+        "Öğrencilere, verilen bir problemin çözümü için hangi sensörü seçmesi gerektiği hakkında bilgi verilir.",
+        "Ortam algılayıcı sensörleri kullanarak farklı uygulamalar geliştirmeyi öğrenirler.",
+        "Doğru sensör kullanımı ile çevresel verileri toplama ve analiz etme yeteneklerini geliştirmelerine katkı sağlanır."
+      ]
+    },
+    {
+      "code": "BTY.8.2",
+      "title": "Farklı motor türleri ve sürücüler ile projeler geliştirir",
+      "processComponents": [
+        "Farklı motor türlerinin (örneğin DC motorlar, servo motorlar) nasıl bir arada kullanılabileceği anlatılır.",
+        "Motor sürücülerin robotik projelerdeki rolü açıklanır ve farklı motorları ayrı ayrı veya bir arada sürmek için hangi motor sürücülerin kullanılması gerektiği örneklerle gösterilir.",
+        "Aynı motor türlerini bir arada kullanarak veya dişli kutuları kullanılarak daha yüksek güç elde edilebileceğine dikkat çekilir.",
+        "Uygun motor sürücü ile aynı veya farklı türde birden fazla motor bir arada kullanılarak öğrencilere örnek uygulama yaptırılır."
+      ]
+    },
+    {
+      "code": "BTY.8.3",
+      "title": "Hareketli parçalar ile robotik üniteler oluşturur",
+      "processComponents": [
+        "Hareketli parçaların (örneğin tekerlekler, paletler) robotik ünitelerin hareketliliği için nasıl etkili kullanılabileceğine dair örnekler gösterilir.",
+        "Hareketli parçaların kullanıldığı farklı robotik sistemlerin tasarım ve montajını yapmayı öğrenirler.",
+        "Hareketli parçaları entegre ederek özgün bir robotik proje geliştirmelerine yardımcı olunur."
+      ]
+    },
+    {
+      "code": "BTY.8.4",
+      "title": "İletişim ekipmanlarının kullanıldığı sistemler oluşturur",
+      "processComponents": [
+        "İletişim ekipmanlarının (örneğin Bluetooth, Wi-Fi modülleri) robotik projelerde nasıl kullanılabileceği açıklanır.",
+        "İletişim ekipmanlarını kullanarak veri transferi yapması ve robotları uzaktan kontrol etmeyi sağlayacak sistemleri nasıl tasarlayacağı öğretilir.",
+        "İletişim protokollerinin arasındaki fark karşılaştırmalı olarak gösterilir.",
+        "İki mikrodenetleyicinin veya bir kontrolcü ile bir mikrodenetleyicinin kendi aralarında haberleştiği bir sistem geliştirmeleri istenir."
+      ]
+    },
+    {
+      "code": "BTY.8.5",
+      "title": "İleri seviye sensörlerin kullanıldığı özgün projeler hazırlar",
+      "processComponents": [
+        "İleri seviye sensörlerin (örneğin, görüntü işleme kameraları, lazer sensörler) nasıl çalıştığı ve kullanıldığı öğretilir.",
+        "Öğrencilere bir problem verilir. Çözümü için ileri seviye sensörlerin kullanıldığı özgün bir robotik proje geliştirmeleri istenir ve bu süreçte öğrencilere rehberlik edilir.",
+        "Öğrencilerden kendi yaşam alanlarını düşünerek bir problem tespit etmeleri istenir. Çözümü için ileri seviye sensörlerin kullanıldığı özgün bir robotik proje geliştirmeleri istenir ve bu süreçte öğrencilere rehberlik edilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

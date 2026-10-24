@@ -1,0 +1,39 @@
+{
+  "unitId": 1622,
+  "grade": 0,
+  "gradeName": "2. DÜZEY",
+  "subject": "Dijital Sanatlar Dersi",
+  "title": "DÜZEY II · 3. Tema: Dijital Tasarım Elemanları Ve İlkeleri",
+  "hours": "10",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "DS.2.3.1",
+      "title": "Tasarım ilkelerinin dijital ürünlere katkısını yorumlayabilme",
+      "processComponents": [
+        "a) Dijital ürünlerin konusuyla görsel bileşenler arasında ilişki kurar.",
+        "b) Dijital ürünlerin tasarım ilkelerine uygunluğuna ilişkin çıkarım yapar."
+      ]
+    },
+    {
+      "code": "DS.2.3.2",
+      "title": "Dijital ürün oluşturmada tasarım ilkelerinden yararlanabilme",
+      "processComponents": [
+        "a) Dijital ürün oluşturma ve düzenlemede kullanılan tasarım ilkelerini tanır.",
+        "b) Dijital ürün oluşturma ve düzenlemede kullanılan tasarım ilkelerini belirler.",
+        "c) Dijital ürün oluşturma ve düzenlemede belirlediği tasarım ilkelerini kullanır.",
+        "ç) Tasarım ilkelerine uygun olarak geliştirdiği dijital ürünü değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "dijital düzenleme, estetik bütünlük, görsel bileşenler, tasarım ilkeleri",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "SAB3. Sanat Eserini İnceleme (SAB3.3. Sanatsal Yorumlama)",
+    "BTYAB4. Dijital Ürün Geliştirme (BTYAB4.1. Tasarım Araç, Teknoloji ve Yöntemlerinden Yararlanma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1622"
+}

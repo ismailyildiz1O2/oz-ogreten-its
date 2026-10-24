@@ -1,0 +1,94 @@
+{
+  "unitId": 80789006,
+  "grade": 10,
+  "gradeName": "Lise Seçmeli",
+  "subject": "İşletme Dersi",
+  "title": "6. ÜNİTE: İŞLETMENİN SORUMLULUKLARI",
+  "hours": "8",
+  "description": "Bu ünitede, öğrencilere işletmelerin sorumluklarının neler olduğu kavratılmaya çalışılmıştır. Bu ünitede duyuşsal özelliklerin kavratılması ve kazandırılması genel amacımızı oluştururken, çalışanlara karşı sorumlukların, çevreye karşı sorumlukların ve topluma karşı sorumlulukların kazandırılması ise ünitemizin özel amacını oluşturmaktadır.",
+  "outcomes": [
+    {
+      "code": "ISL.6.1",
+      "title": "İşletmelerin çalışanlara karşı sorumluluklarını açıklar",
+      "processComponents": [
+        "Ücret, ihbar tazminatı ve kıdem tazminatı konusuna değinilir.",
+        "4857 Sayılı İş Kanunu'na değinilir."
+      ]
+    },
+    {
+      "code": "ISL.6.2",
+      "title": "İşletmelerin doğal çevreye karşı sorumluluklarını açıklar",
+      "processComponents": [
+        "2872 Sayılı Çevre Kanununa değinilir."
+      ]
+    },
+    {
+      "code": "ISL.6.3",
+      "title": "İşletmelerin doğal kaynakları verimli kullanmalarının gerekliliğini açıklar",
+      "processComponents": [
+        "TEMA Vakfının İnternet sitesinden yararlanılır.",
+        "Ekonomi dersi ile ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.6.4",
+      "title": "Zararlı atıkların çevreye olumsuz etkilerini azaltmak için öneriler geliştirir",
+      "processComponents": [
+        "Nükleer atıklar, tıbbi atıklar, zararlı gazlar, baca gazları vb. üzerinde durulur.",
+        "2872 sayılı Çevre Kanunu incelenir."
+      ]
+    },
+    {
+      "code": "ISL.6.5",
+      "title": "İşletmelerin toplumun ahlaki değerlerine göre hareket etmelerinin gereğini örneklerle açıklar",
+      "processComponents": [
+        "1923–1938 yılları arasında Atatürk'ün önderliğinde kurulan işletmelerle ilgili etkinlikler, 29 ekim-10 kasım tarihleri arasında gerçekleştirilir.",
+        "T.C. inkılap tarihi ve Atatürkçülük dersiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.6.6",
+      "title": "İşletmelerin toplumun ihtiyaçlarını göz önünde bulundurmalarının nedenlerini açıklar",
+      "processComponents": [
+        "4077 Sayılı Tüketicinin Korunması Hakkındaki Kanun'a değinilir."
+      ]
+    },
+    {
+      "code": "ISL.6.7",
+      "title": "Atatürk'ün önderliğinde kurulan işletmeleri belirterek bu işletmelerin ekonomimize katkılarını değerlendirir",
+      "processComponents": [
+        "Bu kazanım Atatürk Haftası'nda işlenebilir.",
+        "3. ünitenin 10 ve 22. kazanımı ile ilişkilendirilir.",
+        "T.C. inkılap tarihi ve Atatürkçülük dersiyle ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.6.8",
+      "title": "İşletmelerin standartlara uygun mal ve hizmet sunmalarının önemini örneklerle açıklar",
+      "processComponents": [
+        "5. ünitenin 7, 8, 9 ve 22. kazanımıyla ilişkilendirilir."
+      ]
+    },
+    {
+      "code": "ISL.6.9",
+      "title": "İşletmelerin müşteri memnuniyetini dikkate almalarının nedenlerini örneklerle açıklar",
+      "processComponents": [
+        "5. ünitenin 7, 8, 9 ve 21. kazanımıyla ilişkilendirilir.",
+        "4077 Sayılı Tüketicinin Korunması Hakkındaki Kanun'a değinilir."
+      ]
+    },
+    {
+      "code": "ISL.6.10",
+      "title": "Bir tüketici olarak işletmelere müşteri memnuniyeti ile ilgili görüşlerini bildirmeyi alışkanlık hâline getirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2019930143930838-%C4%B0%C5%9ELETME%20DERS%C4%B0%20%C3%96%C4%9ERT.%20PROGR..pdf"
+}

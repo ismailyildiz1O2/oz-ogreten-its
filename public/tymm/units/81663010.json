@@ -1,0 +1,89 @@
+{
+  "unitId": 81663010,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "10. ÜNİTE: MOBİL UYGULAMA GELİŞTİRME - 2. ÜNİTE: MOBİL UYGULAMA TASARIMI VE ARAYÜZÜ",
+  "hours": "18",
+  "description": "Bu ünitede; sırasıyla hedef kitleyi belirlemenin önemi, mobil uygulamanın basit ve kullanılabilir olmasının gerekliliği, mobil uygulamaların farklı cihazlar ve farklı işletim sistemlerine uyumluluğunun önemi üzerinde durulur. Uygulama tasarımlarında dikkat edilmesi gereken görsel-estetik ilkeler anlatılır. Mobil uygulama geliştirme programının sistem gereksinimlerinden bahsedilir. Mobil uygulama geliştirme programının kurulumu, emülatör kurulumu gösterilir. Mobil uygulama geliştirme programının arayüz bileşenleri tanıtılır.",
+  "outcomes": [
+    {
+      "code": "BTY.10.1",
+      "title": "Mobil uygulama tasarımında hedef kitleyi belirlemenin önemini kavrar",
+      "processComponents": [
+        "Uygulamanın başarısını arttırmak için hedef kitleyi tanımanın önemli olduğu vurgulanır.",
+        "Hedef kitle özelliklerinin, beklentilerinin ve ihtiyaçlarının uygulama arayüz tasarımını belirlediği anlatılır.",
+        "Hedef kitle belirleme adımlarından bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.10.2",
+      "title": "Etkin bir mobil uygulamada olması gereken özellikleri açıklar",
+      "processComponents": [
+        "Mobil uygulamanın basit, kolay ve kullanışlı olmasının gerekliliği anlatılır.",
+        "Mobil uygulamanın basit bir tasarıma ve kullanışlı bir arayüze sahip olmasının, uygulamanın tercih edilmesinde ve kullanım oranını artırmasında önemli olduğu üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BTY.10.3",
+      "title": "Mobil uygulamanın farklı cihazlar ve farklı işletim sistemlerine uyumlu olmasının önemini açıklar",
+      "processComponents": [
+        "Geniş bir kullanıcı kitlesine erişim sağlamak için farklı cihazlardaki ekran konfigürasyonlarına uyum sağlayabilecek esneklikte kullanıcı arayüzü geliştirmenin önemi anlatılır.",
+        "Geniş bir kullanıcı kitlesine erişim sağlamak için uygulamanın tüm işletim sistemleriyle çalışacak şekilde geliştirilmesi gerekliliğinden bahsedilir."
+      ]
+    },
+    {
+      "code": "BTY.10.4",
+      "title": "Mobil uygulama tasarım ilkelerini açıklar",
+      "processComponents": [
+        "Mobil uygulama tasarımında dikkat edilmesi gereken estetik ilkeler nedenleriyle açıklanır.",
+        "Mobil uygulama tasarımında şekil, renk, ton, boyut, yazı tipi, boşluk kullanımı gibi dikkat edilmesi gereken ögeler nedenleriyle anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.10.5",
+      "title": "Mobil uygulama geliştirme programının sistem gereksinimlerini açıklar",
+      "processComponents": [
+        "Mobil uygulama geliştirme programını bir bilgisayara kurabilmek için bilgisayarda olması gereken minimum işletim sistemi, disk alanı, işlemci, ekran çözünürlüğü ve RAM özellikleri anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.10.6",
+      "title": "Mobil uygulama geliştirme programının kurulumunu yapar",
+      "processComponents": [
+        "Git yazılımının indirilmesi ve kurulum adımları uygulama yaptırılarak gösterilir.",
+        "Flutter yazılımının indirilmesi ve kurulum adımları uygulama yaptırılarak gösterilir.",
+        "Açık kaynaklı kodlama yazılımının indirilmesi ve kurulum adımları uygulama yaptırılarak gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.10.7",
+      "title": "Emülatör kurulumu yapar",
+      "processComponents": [
+        "Açık kaynaklı kodlama yazılımı üzerinden emülatör kurulum adımları uygulamalı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.10.8",
+      "title": "Emülatör çalışma mantığını kavrar",
+      "processComponents": [
+        "Açık kaynaklı kodlama yazılımı üzerinden emülatörün çalıştırılması uygulamalı gösterilir."
+      ]
+    },
+    {
+      "code": "BTY.10.9",
+      "title": "Mobil uygulama geliştirme programının arayüz bileşenlerini tanır",
+      "processComponents": [
+        "Açık kaynaklı kodlama yazılımı üzerindeki menüler, klasör yapısı, kodlama alanı ve terminalden bahsedilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

@@ -1,0 +1,88 @@
+{
+  "unitId": 160,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "3. TEMA: SÜRDÜRÜLEBİLİRLİK",
+  "hours": "10",
+  "description": "Bu tema Yeşil Kimya, Çevresel ve Ekolojik Sürdürülebilirlik bölümünden oluşmaktadır. Bu temada öğrencilerin çevresel ve ekolojik sürdürülebilirlik temelinde makro ve mikro ölçekli deneyler gerçekleştirmeleri, deneylerin atom ekonomisini, su ayak izini ve kimyasalların ekosisteme etkilerini belirlemeleri, yeşil kimyanın atom ekonomisi kavramı ile tanışmaları ve sürdürülebilir kalkınmanın 6. hedefine yönelik uygulama yapmaları, atmosferin doğasını etkileyen kimyasal tepkimeler sonucu oluşan küresel sorunlara çözüm üretmeleri, sürdürülebilir kalkınmanın 13. hedefine yönelik uygulama yaparken karbon ve emisyon ayak izini azaltmak için bireysel olarak neler yapabileceklerini fark etmeleri amaçlanmaktadır",
+  "outcomes": [
+    {
+      "code": "KİM.10.3.1",
+      "title": "Kimya dersinde mikro ölçekli deney tercih etmenin sonuçlarını ekosistem açısından değerlendirebilme",
+      "processComponents": [
+        "a) Makro ve mikro ölçekli deneylerin ekosisteme etkilerine ilişkin ölçütler (kimyasal madde miktarı, su miktarı ve kimyasal kirlilik miktarı) belirler.",
+        "b) Kimyasal tepkimelerle ilgili makro ve mikro ölçekli deneyleri gerçekleştirirken belirlediği ölçütler temelinde ölçümler yapar.",
+        "c) Ölçme sonuçlarından hareketle makro ve mikro ölçekli deneylerin etkilerine ilişkin belirlediği ölçütleri karşılaştırır.",
+        "ç) Makro ve mikro ölçekli deneylerin ekosisteme etkileri hakkında yargıya varır."
+      ]
+    },
+    {
+      "code": "KİM.10.3.2",
+      "title": "Kimyasal tepkimeler sonucunda atmosferin doğasındaki değişimin ekosisteme etkilerine yönelik problem çözebilme",
+      "processComponents": [
+        "a) Kimyasal tepkimeler sonucunda atmosferin doğasındaki değişimin ekosisteme etkilerine yönelik problemleri (hava kirliliği, ozon azalımı, asit yağmurları, sera etkisi, küresel ısınma vb.) belirler.",
+        "b) Belirlediği problemlerin ekosistem (canlı, cansız, sucul sistem, toprak, hava, sağlık vb.) üzerindeki etkilerini özetler.",
+        "c) Problemlerin çözümüne yönelik veriye dayalı tahminlerde bulunur.",
+        "ç) Problemin çözümüne yönelik önermeler üzerinden akıl yürütür.",
+        "d) Problemin çözümüne ilişkin değerlendirmelerde bulunur."
+      ]
+    }
+  ],
+  "keyConcepts": "asit yağmurları, atom ekonomisi, emisyon ayak izi, hava kirliliği, küresel ısınma, makro ölçekli deney, mikro ölçekli deney, ozon azalımı, sera etkisi, sera gazı, su ayak izi",
+  "support": [
+    "Öğrencilerden kimyasal tepkimeler sonucunda atmosferin doğasındaki değişimin ekosisteme etkilerini (hava kirliliği, ozon azalımı, asit yağmurları ve sera etkisi) sınıflandırmaları istenebilir. Böylece öğrenciler problem çözme becerisi yerine sınıflandırma becerisini kullanabilir. Öğrencilerin emisyon ayak izini etkileyen faaliyetleri belirlemeleri ya da günlük hayattaki alışkanlıklarını bu açıdan değerlendirmeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerin emisyon ayak izini azaltmaya yönelik proje yapmaları sağlanabilir. Öğrencilerden bu projede hava kirliliği ve asit yağmurlarına neden olabilecek SOx ve NOx gazlarını azaltmak veya gidermek amacıyla tasarım yapmaları istenebilir. Öğrencilerin yeşil kimya kapsamında atık önleme ve yenilenebilir ham madde kullanımı temelinde emisyon gazlarının yeniden kullanımı için deneyler yapmaları sağlanabilir. Öğrencilere sürdürülebilirlik kapsamında sera gazını azaltmak için deney yaptırılabilir. Örneğin öğrencilerin CO2 gazının su içinde çözünmesiyle gazlı içecek veya asidik su elde etmeleri sağlanabilir. Öğrencilerden okyanuslardaki çürümenin neden olduğu metan gazının atmosfere ulaşmasını önlemeye yönelik araştırmalar ve projeler yapmaları istenebilir. Öğrenciler, eriyen buzulların içerisindeki metan gazının atmosfere karışması sorununu çözmek için proje tasarlayabilir. Projeler sırasında öğrencilerde var olan \"en büyük metan gazı kaynağının hayvancılık olduğu\" kavram yanılgısı da giderilebilir."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında akran değerlendirme formu, performans görevi, sınıf içi tartışma ve yansıtma notu kullanılabilir.",
+    "Performans görevi çerçevesinde öğrencilerden bulunduğu bölgede atmosferin doğasını etkileyen kimyasal tepkimelerin sebep olduğu problemleri belirlemeleri ve bu problemlerin çözümüne yönelik değerlendirmelerde bulunmaları istenebilir. Performans görevi \"problemi belirleme, problemin ekosistem üzerindeki etkilerini özetleme, çözüme yönelik tahminlerde bulunma, tahminler üzerinden akıl yürütme ve çözüme ilişkin değerlendirmede bulunma\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.10.3.1",
+    "Öğrenciler çökelme tepkimesine ait bir deneyi makro ve mikro ölçekte yapar ( KB2.2 ) . Böylece öğrencilerin planlı olmaları, çalışmalarda aktif rol almaları ve grupla çalışma becerisi sergilemeleri sağlanır ( SDB1.2 , SDB2.2 , D3.2 , D3.4 , E2.1 , E2.2 , E3.6 ) . Öğrencilerden makro ve mikro ölçekli deneylerin ekosisteme etkilerini belirlemeye yönelik ölçütler (kimyasal madde miktarı, su miktarı ve kimyasal kirlilik miktarı) belirlemeleri istenir. Öğrenciler; çökelme tepkimelerine ilişkin makro ve mikro ölçekli deneylerde kullandıkları kimyasal maddelerin miktarını, deneyde kullandıkları ve deney sonrası temizlik için harcadıkları su miktarı ile deney sonucu oluşan kimyasal kirlilik miktarını ölçerek kimyasal kirliliğin ekosisteme etkisini belirlemeleri için yönlendirilir ( OB8 ) . Bu çalışma ile öğrencilerin çevre kirliliğinin kaynaklarını, nedenlerini ve sonuçlarını bilmeleri; doğayı korumaya, çevresel temizliğe ve sürdürülebilirliğe önem vermeleri ve israftan kaçınmaları sağlanır; doğaya merhamet, tasarruf ve temizlik değerleri vurgulanır ( SDB1.3 , SDB3.3 , D9.3 , D17.2 , D18.3 , OB5 , E2.2 ) . Bu çalışmada öğrenciler makro ve mikro ölçekli deneylerin atom ekonomisini, su ayak izini ve kimyasal maddelerin ekosisteme etkilerini karşılaştırmış olur. Öğrenciler, benzer karşılaştırmayı metallerin asitlerle veya metal çözeltileriyle olan indirgenme-yükseltgenme tepkimeleri ve asit-baz tepkimeleri için de yapar. Öğrencilerden makro ve mikro ölçekli bu deneylerin atom ekonomisini, su ayak izini ve kimyasal maddelerin ekosisteme etkilerini karşılaştırmaları istenir ( KB2.7 , OB8 ) . Böylece öğrenciler, makro ve mikro ölçekli deneylerin ekosisteme etkileri hakkında yargıya varır. Öğrencilere makro ve mikro ölçekli deneylere ilişkin yaptıkları karşılaştırmaları içeren, bu konuda kendilerinin neler yapabileceklerini belirledikleri bir yansıtma notu yazdırılabilir ( SDB1.3 , SDB2.3 , E3.10 ) .",
+    "KİM.10.3.2",
+    "Öğrencilere atmosferin doğasını etkileyen kimyasal tepkimelerin neler olduğu, bu tepkimelerin nasıl gerçekleştiği ve nelere neden olduğuna ilişkin kanıt kartları verilir. Öğrencilerden kartları incelemeleri, söz konusu tepkimelerin ekosistemde oluşturduğu problemleri belirlemeleri istenir ( OB8 ) . Yapılan bu çalışma ile öğrencilerin çevre kirliliğinin kaynaklarını, nedenlerini ve sonuçlarını bilmeleri, çevre sorunlarına yol açabilecek davranışlardan kaçınmaları, havayı temiz tutmanın önemini fark etmeleri sağlanır ( SDB1.3 , D5.2 , D13.4 , D18.3 , OB8 , E2.2 ) . Öğrencilerin söz konusu tepkimelerin ekosistemde oluşturduğu küresel problemleri hava kirliliği, ozon azalımı, asit yağmurları, sera etkisi, küresel ısınma, emisyon ayak izi vb. olarak belirlemeleri sağlanır. Öğrencilerden bu problemlerin ekosisteme etkilerini yine kanıt kartlarındaki sözel ve görsel bilgileri kullanarak özetlemeleri istenir ( OB8 ) . Küçük gruplara ayrılmaları sağlanan öğrencilerden belirledikleri problemlerden birini seçmeleri ve bilimsel raporlardan elde ettikleri verilere dayalı olarak problemin çözümüne yönelik tahminlerde bulunmaları istenir ( SDB2.1 , SDB2.2 , SDB3.3 , OB5 , E3.6 ) . Gruplar, seçtikleri problemin çözümüne yönelik önermeler sunar ve aynı problemin çözümüne yönelik sunulan önermeler ile kendi gruplarının sundukları önermeleri karşılaştırılar. Önermeler üzerinden gerçekleştirdikleri bu akıl yürütme sürecinde öğrenciler önermeleri belirledikleri ölçütler temelinde karşılaştırır ( SDB1.2 , SDB1.3 ) . Öğrencilerin küçük grup çalışmalarına katkıları akran değerlendirme formu ile değerlendirilebilir. Aynı problemin çözümü için önermelerde bulunan gruplardan kimyasal tepkimelere neden olan doğal ve insan faktörlü etmenler üzerinde çözüm önerilerini değerlendirmeleri istenir ( KB2.10 , E3.10 ) . Yapılan grup çalışması ile öğrencilerin grupla çalışma becerisi sergilemeleri ve etkili iletişim kurmaları sağlanır ( D3.4 , D4.2 ) . Bunun yanı sıra öğrencilerde sürdürülebilirlik bilinci oluşturulabilir; çevreye ve canlılara değer vermeleri, çevreyi korumak ve güzelleştirmek için girişimlerde bulunmaları, tarihî eser ve doğal çevrenin bozulmasına neden olan asit yağmurları gibi çevre problemlerine karşı çözüm odaklı düşünmeleri sağlanabilir ( SDB2.3 , SDB3.3 , D5.2 , D18.3 , E1.3 ) .",
+    "Öğrenciler; bulunduğu bölgede atmosferin doğasını etkileyen kimyasal tepkimelerin sebep olduğu problemler, bu problemlerin çözümü ve problemin çözümü için kendilerinin neler yapabilecekleri üzerine bir performans görevi gerçekleştirebilir ( SDB2.3 , SDB3.3 ) ."
+  ],
+  "skills": {
+    "deger": [
+      "D13.4",
+      "D17.2",
+      "D18.3",
+      "D3.2",
+      "D3.4",
+      "D4.2",
+      "D5.2",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.3",
+      "E2.1",
+      "E2.2",
+      "E3.10",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.2",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB5",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/160"
+}

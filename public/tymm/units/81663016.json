@@ -1,0 +1,43 @@
+{
+  "unitId": 81663016,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "16. ÜNİTE: PROGRAMLAMA DİLLERİ (JAVA) - 5. ÜNİTE: DÖNGÜLER",
+  "hours": "9",
+  "description": "Bu ünitede, Java programlama dilinde kullanılan döngüler, iç içe döngü kavramı ve dallanma ifadeleri açıklanarak örnek uygulamalar yaptırılır.",
+  "outcomes": [
+    {
+      "code": "BTY.16.1",
+      "title": "Farklı döngüleri (while, do-while, for) kullanarak program kodu yazar",
+      "processComponents": [
+        "while, do-while, for döngülerinin kullanım alanları açıklanır.",
+        "Kullanım alanına göre uygun döngü seçilerek verilen problemi çözecek kodlar yazılır."
+      ]
+    },
+    {
+      "code": "BTY.16.2",
+      "title": "İç içe döngüler kullanır",
+      "processComponents": [
+        "İç içe döngünün ne olduğu açıklanır.",
+        "Verilen problemi iç içe döngü kullanarak çözecek kodlar yazılır."
+      ]
+    },
+    {
+      "code": "BTY.16.3",
+      "title": "Dallanma ifadelerini (break, continue) kullanır",
+      "processComponents": [
+        "Döngü komutlarının akışını kontrol etmek için break ve continue ifadelerinin nerelerde kullanıldığı açıklanır.",
+        "Örnekler içinde break ve continue ifadeleri kullanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

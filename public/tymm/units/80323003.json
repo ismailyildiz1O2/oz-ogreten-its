@@ -1,0 +1,45 @@
+{
+  "unitId": 80323003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Temel Dinî Bilgiler Dersi",
+  "title": "3. ÜNİTE: İSLAM VE HUKUK",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "TDB.1.3.1",
+      "title": "İslam hukukunu ve mahiyetini açıklar",
+      "processComponents": [
+        "Kazanım işlenirken fıkıh ve fıkıh usulü kavramlarına; bazı fıkıh âlimleri ile eserlerine de kısaca değinilecektir."
+      ]
+    },
+    {
+      "code": "TDB.1.3.2",
+      "title": "İslam hukukunun temel ilkelerine ayet ve hadislerden örnekler verir",
+      "processComponents": [
+        "Kazanım işlenirken İslam'da haramların sınırlılığına, helal dairesinin ise genişliğine; helal ve haram koyma yetkisinin Allah ve Resulüne ait olduğuna vurgu yapılacaktır. Ayrıca konular Mecelle'nin külli kaideleri ile ilişkilendirilerek ele alınacaktır."
+      ]
+    },
+    {
+      "code": "TDB.1.3.3",
+      "title": "İslam hukukunun kaynaklarını açıklar",
+      "processComponents": [
+        "Kazanım işlenirken İslam hukukunun kaynakları, edille-i erbaa ile sınırlandırılacaktır."
+      ]
+    },
+    {
+      "code": "TDB.1.3.4",
+      "title": "Hukuk ile ahlak arasındaki ilişkiyi analiz eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20221229135350622-TDB_Ortaogretim_DOP_%20%282018%29.pdf"
+}

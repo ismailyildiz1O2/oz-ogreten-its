@@ -1,0 +1,28 @@
+{
+  "unitId": 1612,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Oyun ve Oyun Etkinlikleri Dersi (Satranç)",
+  "title": "4.Tema: Taş İsteme",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "OOEST.4.1",
+      "title": "Satranç oyununda atak yaparak taş isteme hamlesini normal hamle ile karşılaştırabilme. a) Taş isteme hamlesi ile normal hamlenin özelliklerini belirler. b) Taş isteme hamlesinin normal hamle ile benzerliklerini listeler. c) Taş isteme hamlesinin normal hamleden farklarını listeler",
+      "processComponents": []
+    },
+    {
+      "code": "OOEST.4.2",
+      "title": "Satranç oyununda tehdit kavramını sorgulayabilme. a) Satranç oyununda tehdit kavramını tanımlar. b) Tehdit ile ilgili sorular sorar. c) Tehdit ile ilgili bilgi toplar. d) Toplanan bilgileri değerlendirir. e) Toplanan bilgiler üzerinden çıkarım yapar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "açarak taş isteme, örtü, rakip taşı isteme, tehdit oluşturma",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1612"
+}

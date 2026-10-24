@@ -1,0 +1,93 @@
+{
+  "unitId": 586,
+  "grade": 9,
+  "gradeName": "9. Sınıf",
+  "subject": "Müzik Dersi",
+  "title": "1. TEMA: MÜZİK DİLİ",
+  "hours": "20",
+  "description": "Bu temada İstiklal Marşı’nın müziksel söylenebilmesi, temel müzik yazı ve işaretlerinin sınıflandırılabilmesi, müzikte iki vuruşlu ölçü türlerinin karşılaştırılabilmesi ve müzikte tonal yapının çözümlenebilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MÜZ.9.1.1",
+      "title": "İstiklal Marşı'nı müziksel söyleyebilme",
+      "processComponents": [
+        "a) İstiklal Marşı'nı söylemeden önce bedenini hazır hâle getirir.",
+        "b) İstiklal Marşı'nı söylerken uygun teknikleri kullanır.",
+        "c) İstiklal Marşı'nı söylerken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "MÜZ.9.1.2",
+      "title": "Temel müzik yazı ve işaretlerini sınıflandırabilme",
+      "processComponents": [
+        "a) Müzikte kullanılan temel yazı ve işaretlere ilişkin değişkenleri belirler.",
+        "b) Müzikte kullanılan temel yazı ve işaretleri ayrıştırır.",
+        "c) Müzikte kullanılan temel yazı ve işaretleri tasnif eder.",
+        "ç) Müzikte kullanılan temel yazı ve işaretleri etiketler."
+      ]
+    },
+    {
+      "code": "MÜZ.9.1.3",
+      "title": "Müzikte iki vuruşlu ölçü türlerini karşılaştırabilme",
+      "processComponents": [
+        "a) Müzikte iki vuruşlu ölçü türlerinin özelliklerini belirler.",
+        "b) Müzikte iki vuruşlu ölçü türlerinin özellikleri arasındaki benzerlikleri listeler.",
+        "c) Müzikte iki vuruşlu ölçü türlerinin özellikleri arasındaki farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "MÜZ.9.1.4",
+      "title": "Müzikte tonal yapıyı çözümleyebilme",
+      "processComponents": [
+        "a) Müzikte tonal yapıyı oluşturan parçaları belirler.",
+        "b) Müzikte tonal yapıyı oluşturan parçalar arasındaki ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "aksak ölçü, aralık, basit ölçü, bileşik ölçü, dizi, eksik ölçü, iki vuruşlu ölçü, kuvvetli vuruş, prozodi, ton, zayıf vuruş",
+  "support": [
+    "Hız ve gürlük terimleri, tekrar işaretleri, nota ve sus süre değerleri, ölçü sayısı ve diziler ile ilgili dikkat çekici görsellerle sınıf panosu hazırlamaları istenebilir."
+  ],
+  "enrichment": [
+    "Müzik aleti çalabilen öğrencilerin iki vuruşlu ölçü türünde bildiği bir eseri müziksel bileşenlere uyarak çalmaları istenebilir. Farklı notalar üzerine majör-minör diziler oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu temadaki öğrenme çıktıları; kontrol listesi, çalışma yaprağı, kısa ve uzun cevaplı sorular kullanılarak izlenebilir. Performans görevi kullanılarak değerlendirilebilir.",
+    "İstiklal Marşı'nın müziksel söylenmesi kontrol listesiyle izlenebilir. Temel müzik yazı ve işaretlerini sınıflandırmaya yönelik öğrenmelerin izlenmesinde çeşitli soru türlerinden oluşan çalışma yaprağı hazırlanabilir. Ölçü türlerinin karşılaştırılmasına yönelik öğrenmeler, kısa ve uzun cevaplı sorular ile izlenebilir. Müzikte tonal yapıyı çözümlemeye yönelik öğrenmelerin izlenmesinde çalışma yaprağı hazırlanabilir.",
+    "Performans görevi olarak öğrencilerin müzik diline ait kavramları uygulayarak seslendirme yapmaları istenebilir. Performans görevi, dereceleme ölçeği ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MÜZ.9.1.1. Seslendirme çalışmalarına başlamadan önce bedensel rahatlama hareketleri, nefes ve ses egzersizleri yaptırılarak öğrencilerin bedenini söylemeye hazır hâle getirmeleri sağlanır. İstiklal Marşı'nın ilk iki kıtasının sözleri tahtaya yazılır veya dijital/teknolojik araçlar aracılığıyla yansıtılarak incelemeleri sağlanır. İstiklal Marşı'nın yazılma süreci ve sözlerinin anlamı ile ilgili sorular sorularak İstiklal Marşı'nın ilk iki kıtasını yorumlamaları istenir. İstiklal Marşı'na saygının önemi ile vatanseverlik değeri vurgulanır ( D19.1 , OB5). Bu süreçte T.C. İnkılap tarihi ve Atatürkçülük disiplininden faydalanılabilir. İstiklal Marşı'nı seslendirirken uygun söyleme tekniklerini kullanmaları ve aldıkları nefes yerlerini fark etmeleri istenir (SDB1.1). İlk kıtası ile ikinci kıtasının nefes yerleri arasındaki farklılıklar gösterilir. İstiklal Marşı'nın prozodisi üzerinde durulur. İstiklal Marşı'nın ölçü sayısına dikkat çekilir. Sözlerinin eksik ölçü ile başladığına değinilir. Marşın ritmik yapısı ve ezgisel yapı arasında ilişki kurmaları sağlanır ( KB2.13 ). Marşı, odaklı bir şekilde müziksel bileşenleri uygulayarak söylemeleri sağlanır ( E3.2 ). Bu süreçte gösterip yaptırma tekniği kullanılabilir. İstiklal Marşı'nı müziksel söyleme ile ilgili öğrenmeler kontrol listesiyle izlenebilir.",
+    "MÜZ.9.1.2. Öğrencilerin temel müzik yazı ve işaretleriyle ilgili neler bildikleri ve neleri merak ettikleri sorulur ( E1.1 ). Bu süreç beyin fırtınası veya gösterip yaptırma tekniği ile yürütülebilir. Müziğin temel bileşenleri ile ilgili hatırlatıcı bilgiler verilir ( OB1 ). Öğrencilere üzerinde müziksel işaretlerin yazılı olduğu eserlerin notaları verilir. İçerikler, dijital/teknolojik araçlar aracılığıyla yansıtılabilir. Öğrencilerin müzik yazı ve işaretlerine ilişkin değişkenlerden anahtar, dizek, nota isimleri, nota ve sus süre değerleri, ses değiştirici işaretler, ölçü, tekrar işaretleri, hız ve gürlük terimleri gibi temel bileşenleri belirlemeleri sağlanır. Eser üzerindeki temel müzik yazı ve işaretlerini işlevlerine göre ayrıştırmaları istenir. Ayrıştırma sonuçlarını tasnif etmeleri beklenir. Bu süreçte kavram haritası tekniği kullanılabilir. Oluşturulacak kavram haritasında; anahtarlar, nota ve sus süre değerleri, hız ve gürlük terimleri, tekrar işaretleri gibi başlıklar verilebilir. Öğrenme durumunu geliştirmek amacıyla belirli gün ve haftalar ile ilgili marşlar verilerek bu marşları grupla uyumlu bir şekilde söylemeleri sağlanır ( D10.3 ). Seslendirilen eserler üzerinde temel müzik yazı ve işaretlerini etiketlemeleri beklenir ( SDB1.2 ). Marşların içeriği ile ilgili sorular sorulur ve bu marşlarla vatanseverlik bilincini pekiştirmeleri sağlanır ( D19.1 ). Temel müzik yazı ve işaretleri ile ilgili öğrenmeler çalışma yaprağı ile izlenebilir.",
+    "MÜZ.9.1.3. İki vuruşlu basit, bileşik ve aksak ölçü türlerinden , ve ile ilgili bilgiler verilir. İki vuruşlu ölçülerin vuruş şekilleri verilir ( OB4 ). Örnek eserler dinletilerek müziksel bileşenlerden ritmik farklılıkları tanımaları sağlanır ( SAB9 ). Öğrencilerin dinletilen eserlerdeki ölçü türlerinin özelliklerini belirlemeleri istenir. Eserlerdeki kuvvetli ve zayıf vuruşlar; beden perküsyonu, vurmalı çalgılar vb. kullanılarak belirtilir. Verilen eserleri etkin bir şekilde dinlemeleri, ezgisel yapıdaki ritmik yürüyüşü hissetmeleri beklenir ( SDB2.1 ). Öğrencilerin dinletilen eserlere odaklanarak beden perküsyonu veya farklı ritmik uygulamalarla eserlere eşlik etmeleri ve çalışmalarda aktif rol almaları sağlanır ( E3.2 , D3.4). Bu süreçte gösterip yaptırma tekniği kullanılabilir. İki vuruşlu ölçü türlerinden üç farklı eser verilir. Verilen eserler üzerinde basit, bileşik ve aksak ölçülerin benzerlik ve farklılıklarını listelemeleri istenir. Müzikte iki vuruşlu ölçü türlerini karşılaştırmayla ilgili öğrenmeler kısa ve uzun cevaplı sorular ile izlenebilir.",
+    "MÜZ.9.1.4. Öğrencilere majör-minör ezgilerden etkisi güçlü hissedilebilen kesitler dinletilir ( SAB9 ). Odaklanarak dinledikleri ezgi kesitlerinden hareketle müzikal olarak farklı duygular hissedip hissetmedikleri sorulur. Hissettikleri duygular varsa bunları sözlü olarak betimlemeleri istenir ( SDB1.1 , E3.2 ). Dinletilen her ezgi kesitinin farklı tonlarda olduğu belirtilerek seslerin art arda sıralanarak dizileri oluşturduğu, oluşan dizilerin de belirli kurallar çerçevesinde majör- minör tonları oluşturduğu vurgulanır. Müzikte aralık kavramı açıklanır. Majör-minör yapıyı belirlemeleri için do ve la dizisi yazılır. Diziler üzerinde gösterilen tam ve yarım aralıklarla majör-minör yapıyı oluşturan parçaları belirlemeleri istenir. Majör dizi kalıbının \"2 tam 1 yarım 3 tam 1 yarım\", minör dizi kalıbının ise \"1 tam 1 yarım 2 tam 1 yarım 2 tam\" aralıktan oluştuğu bilgisi verilerek incelenmesi istenir ( OB1 ). Minör dizilerin doğal, armonik ve melodik çeşitleri yansıtılarak minör dizilerin 6 ve 7. derecelerindeki değişimlere dikkat çekilir. Majör ve minör diziler, çıkıcı ve inici olarak sınıfça seslendirilerek tonal duygunun yanı sıra sesler arasındaki duruculuk ve yürüyücülük etkilerinin hissedilmesi sağlanır ( D3.4 ). Bu süreçte gösterip yaptırma tekniği kullanılabilir. Değiştirici işaretlerden yararlanarak majör dizi kalıbını sol ve fa dizilerine, minör dizi kalıbını ise mi ve re dizilerine uyarlamaları istenerek tüm seslerden majör ve minör diziler oluşturulabileceği örneklenir. Bu sayede tonal yapıyı oluşturan aralık ve dizi arasındaki ilişkileri belirlemeleri sağlanır. Müzikte tonal yapıyı çözümlemeye ilişkin öğrenmeler çalışma yaprağıyla izlenebilir.",
+    "Bu temada performans görevi olarak düzeyine uygun iki vuruşlu ölçü türlerinde ve majör-minör tonalitede sözlü eserler öğretilerek müziksel bileşenlere uygun seslendirmeleri istenebilir. Performans görevi, dereceleme ölçeği ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D19.1",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.13"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "diger": [
+      "SAB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/586"
+}

@@ -1,0 +1,53 @@
+{
+  "unitId": 1153,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "4. TEMA: GİTARDA SOL EL ÇALIŞMALARI",
+  "hours": "12",
+  "description": "Temada öğrencilerin sol el tekniğinin geliştirilmesi ve genel çalma tekniğinde koordinasyon gibi kavramları öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.2.4.1",
+      "title": "Gitarda sol eli pozisyon ve konumuna uygun şekilde kullanabilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.2.4.2",
+      "title": "Gitarda beşinci pozisyonda egzersiz yapabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "metronom, sol el, tirando",
+  "support": [
+    "Öğrencilere doğru sol el pozisyonlarını incelemeleri için bir ayna verilerek pozisyonu görsel olarak kontrol etmeleri sağlanabilir. Öğrencilere doğru pozisyonu almak için başlangıç olarak sadece bir tel üzerinde çalışmaları önerilir."
+  ],
+  "enrichment": [
+    "Öğrencilere öğrendikleri sol el pozisyonlarını ve beşinci pozisyondaki uygulamaları bir araya getirerek öğrendikleri notaları basıp çalmaları istenebilir."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları, gözlem formu ve dereceli puanlama anahtarı ile ölçülebilir. Performans görevi olarak sol elin işlevine uygun bir şekilde verilen egzersizleri metronom eşliğinde çalmaları istenebilir. Performans görevi değerlendirilirken sol el çalışmaları ve sağ el koordinasyonuyla ilgili gözlem formu kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.2.4.1",
+    "Öğretmen, sol elin doğru pozisyonunu adım adım gösterir. Başparmağın gitar klavyesinin arkasında orta hizada olması, parmakların tellere dik bir şekilde basması ve yuvarlak şekilde durması gerektiğini görseller ve kısa videolar eşliğinde gösterir ( OB4 ). Bileğin gitar klavyesinden hafifçe uzakta ve rahat bir pozisyonda durması gerektiği vurgulanır. Öğretmen, bu pozisyonu öğrencilere yavaşça gösterir ve her adımı açıklar ( SDB2.1 ). Öğretmen, küçük adımlarla ilerlemenin ve düzenli pratik yapmanın zamanla kas hafızası oluşturarak daha rahat çalmalarını sağlayacağı belirtir. Öğrenciler azimle çalıştıklarında sol el pozisyonlarını güçlendirerek daha akıcı bir şekilde çalmaları sağlanır ( E1.3 ). Öğretmen performans görevi olarak sol elin işlevine uygun şekilde verilen egzersizleri metronom eşliğinde çalmalarını ister. Performans görevi gözlem formu veya dereceli puanlama anahtarı ile ölçülebilir.",
+    "GTR.2.4.2",
+    "Öğretmen, beşinci pozisyonda doğru el ve parmak pozisyonlarını adım adım gösterir ( SDB2.1 ). Öğrencilerden gözlem yapmaları beklenir (KB2.2 ). Sol el başparmağının gitar klavyesinin arkasında beşinci perdenin hizasında, parmakların tellere dik bir şekilde ve yuvarlak durması vurgulanır. Öğretmen bileğin gitar klavyesinden hafifçe uzakta olması ve rahat bir pozisyonda durması gerektiğini belirtir. Öğretmen, bu pozisyonu öğrenciye yavaşça gösterir ve her adımı açıklar. Öğrencilerin bu pozisyonu anladığından emin olmak için soru sormalarına fırsat tanır ( E3.8 ). Öğrencilerden çalışmalarda etkin rol almaları beklenir ( D3.4 ). Performans görevi olarak öğrencilerin en alt teldeki notaların isimlerini bulmaları istenebilir. Gitar tellerinin isimleri ve tellerdeki notaların sıralanması ile ilgili eşleştirme ve doğru yanlış soruları öğrenme sürecinde kullanılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.3",
+      "E3.8"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1153"
+}

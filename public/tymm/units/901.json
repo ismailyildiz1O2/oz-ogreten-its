@@ -1,0 +1,44 @@
+{
+  "unitId": 901,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Görsel Sanatlar Dersi",
+  "title": "7. TEMA: MÜZE VE KÜLTÜR",
+  "hours": "6",
+  "description": "Öğrencilerin müzelerin sergileme mekânlarını karşılaştırmaları, arkeolojik eserlerin korunma ve sergilenme süreçlerini kavramaları, kültürel miras bağlamında değerlendirmeleri ve okullarında arkeoloji müzesi oluşturmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GS.5.7.1",
+      "title": "Sergileme mekânlarına göre müzeleri karşılaştırabilme",
+      "processComponents": [
+        "a) Müzelerdeki sergileme mekânlarının temel özelliklerini belirler.",
+        "b) Müzelerin sergileme mekânları arasındaki benzerlikleri listeler.",
+        "c) Müzelerin sergileme mekânları arasındaki farklılıkları listeler."
+      ]
+    },
+    {
+      "code": "GS.5.7.2",
+      "title": "Okulunda arkeoloji müzesi yapabilme",
+      "processComponents": [
+        "a) Arkeoloji müzesi koleksiyonuna uygun nesne ve objelerle müze tasarlar.",
+        "b) Arkeoloji müzesi koleksiyonuna uygun eserlerle müze oluşturur."
+      ]
+    }
+  ],
+  "keyConcepts": "açık hava müzesi, arkeoloji müzesi, geleneksel müzeler, kapalı mekân müzesi",
+  "support": [
+    "Öğrencilerin arkeolojik eserlerin günümüzdeki karşılıklarını belirlemeleri; kil, oyun hamuru, kâğıt hamuru, çamur, karton gibi şekillendirilebilir malzemeler kullanarak bu eserlerin giriş düzeyinde modellerini oluşturmaları veya çizim programlarıyla dijital sürümlerini hazırlamaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden arkeolojik buluntular ve anıt kavramlarını Stonehenge (Stonhenç), Rosetta (Rozetta) Taşı, Mısır Piramitleri gibi farklı medeniyetlere ait örneklerle karşılaştırmaları, arkeolojik buluntular ve anıtlarla ilgili etkileşimli bölümler içeren dijital bir müze oluşturmaları veya arkeolojik objelerin minyatür temsillerinden oluşan müze maketi hazırlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları çıkış kartları, dereceli puanlama anahtarları ve öz değerlendirme formları kullanılarak değerlendirilebilir. Sınıf içi performans görevi olarak öğrencilerden arkeoloji müzesi koleksiyonuna uygun nesne ve objeler tasarlayarak üç boyutlu modellere dönüştürmeleri ve okullarında arkeoloji müzesi oluşturmaları istenir. Tasarım sürecinde eserlerin tarihî bağlamını, kullanım amacını ve estetik özelliklerini korumaları koleksiyonu uygun şekilde sınıflandırmaları ve estetik bir sergileme alanında sunmaları beklenir."
+  ],
+  "teachingApplications": [
+    "GS.5.7.1 Öğrencilerden sergileme mekânlarına göre müzeleri karşılaştırabilmeleri beklenir. Müzelerin farklı sergileme alanlarına sahip olma nedenlerini anlamaları için sergileme mekânlarının dikkat çekici özelliklerini keşfetmelerine yönelik fikir taraması yapılır (E2.3, E3.5). Müzelerin sergileme mekânlarını tanımaları için dijital ve basılı kaynaklardan bilgi toplamaları istenir (KB2.6, OB2). Topladıkları bilgileri güvenilir kaynaklardan seçmeleri ve doğru not alma teknikleriyle düzenlemeleri sağlanır (D3.3, OB1). Müzelerdeki sergileme mekânlarının temel özelliklerini belirlemeleri için (a) öğrencilerin geleneksel kapalı mekân müzeleri, açık hava müzesi ve sanal müze örneklerine ilişkin videolar ve görselleri incelemeleri sağlanır (OB2). Bu doğrultuda kapalı mekân müzelerine Anadolu Medeniyetleri Müzesi; açık hava müzelerine Karatepe-Aslantaş, Nemrut, Bergama ve Kapadokya; ören yerlerine ise Çayönü ve Hacılar örnek verilebilir. Ayrıca Çatalhöyük, Göbeklitepe gibi alanları, sanal müze deneyimiyle keşfetmeleri sağlanabilir. Müzeler Haftası (18-24 Mayıs) kapsamında sanal veya fiziksel müze ziyaretleri gerçekleştirilir ve öğrencilerden gözlem kartları ile önemli noktaları kaydetmeleri istenir (OB1, OB5, E3.7). Öğrencilerin kapalı mekân müzeleri, açık hava müzeleri ve sanal müzeler arasındaki benzerlik (b) ve farklılıkları (c) listeleyerek karşılaştırma yapmaları sağlanır. Bu amaçla müzeleri koleksiyon sunumları, eserlerin sergilenme biçimleri ve ziyaretçi deneyimleri açısından değerlendirmeleri beklenir (SDB1.2, SDB3.1). Müzeleri sergileme mekânlarındaki ışıklandırma, akustik, eser yerleşimi gibi faktörler açısından da incelemeleri istenir. Öğrencilerin sanal müzelerin erişilebilirliği ve herkes için eşit bilgiye ulaşma fırsatı sunması yönüyle avantajlarını tartışarak farklı müze türlerinin sağladığı olanakları karşılaştırmaları sağlanır (KB2.18, D1.3, E3.5). Müzelerin sergileme mekânları farklı olsa da hepsinin ortak amacının kültürel mirası koruma, bilgiyi yayma ve estetik deneyim sunma olduğuna ilişkin çıkarım yapmaları beklenir (KB2.8). Böylece müzelerin toplumsal önemini kavrayarak kültürel mirasın korunmasına yönelik sorumluluk almayı içselleştirmeleri sağlanır (D16.2). Süreç, çıkış kartları ile değerlendirilebilir.",
+    "GS.5.7.2 Öğrencilerden okullarında arkeoloji müzesi yapabilmeleri beklenir. Arkeolojik eserlerin bulunma ve korunma süreçlerini anlatan kısa videolar öğrencilere izletilir. Öğrencilerden farklı müze türlerini tanımlayan müze kartlarını incelemeleri ve doğru türlerle eşleştirmeleri istenir (KB2.5, E2.5). Seçtikleri bir arkeoloji müzesini fiziksel veya sanal olarak ziyaret etmeleri; eserlerin tarihini, işlevlerini ve estetik özelliklerini incelemeleri sağlanır (SAB2.1, SDB1.1). Bu süreçte, arkeoloji müzeleri ile anıt müzeleri karşılaştırılarak arkeolojik buluntuların korunma ve sergileme yöntemlerini değerlendirmeleri beklenir (KB2.7). Öğrencilerin yaşadıkları bölgede bulunan anıtlar veya arkeolojik eserler hakkında araştırma yaparak bu yapıların işlevlerini belirlemeleri sağlanır (SDB1.2). Müzelerin sergi alanı olmanın yanı sıra kuşaklar arasındaki kültürel aktarımı sağladığını anlamaları sağlanır (KB2.18). Arkeoloji müzesi koleksiyonuna uygun nesne ve objelerle müze tasarlamaları için (a) öğrencilerden taş aletler, seramikler, heykeller, yazıtlar gibi eserleri incelemeleri beklenir (OB4). Bu eserlerin tarihi, kullanım amacı ve estetik özellikleri hakkında bilgi edinmeleri sağlanır (OB1). Öğrencilere objelerin tarih boyunca kimler tarafından kullanıldığı ve nelere şahit olduğu üzerine düşünmeleri için sorular yönlendirilir. Bu aşamada öğrencilerin seçtikleri bir eserin tarihini ve taşıdığı anlamı içeren \"eser günlüğü\" hazırlamaları beklenir (SDB1.2). Öğrencilerden seçtikleri objeleri tarihî bağlamlarını koruyarak günlük yaşama uyarlamaları istenir (SDB3.2). Dönemin tarzına, estetik özelliklerine ve özgün anlamına sadık kalarak kültürel mirasın günümüz dünyasıyla ilişkisini kuran tasarımlar oluşturmaları sağlanır. Arkeoloji müzesi koleksiyonuna uygun eserlerle müze oluşturmaları için (b) öğrencilerden arkeolojik eserlerden ilham alarak tasarladıkları ürünleri, üç boyutlu hâle getirmeleri beklenir (KB2.20). Bu süreçte uygun malzemeleri, fikir alışverişi yaparak belirlemeleri sağlanır (SDB2.1, D16.1). Uygulamalarda seramik hamuru, kil, plastilin, tel, ahşap, mukavva, renkli kâğıtlar ve akrilik boya kullanmaları önerilir. Sanatsal üretim sürecinde ve sergileme aşamasında öğrencilere geçmiş uygarlıklarla estetik bağ kurmalarını ve arkeolojik atmosferi hissetmelerini sağlayacak sözsüz ve geleneksel ezgilerden oluşan müzikler dinletilir. Tasarımları tamamladıktan sonra sergi için pano düzenlemeleri, yazıtlar için dijital ekranlar, heykeller için fiziksel stantlar ve taş aletler için dokunma deneyimine uygun sergileme alanları oluşturmaları sağlanır (SDB1.2). Öğrencilerden arkeoloji müzesi koleksiyonuna uygun ürünlerini sınıflandırarak öğretmen rehberliğinde okul müzesine dönüştürmeleri beklenir (KB2.5). Sergi alanında mobilya, sehpa, vitrin ve raflar kullanılarak sürdürülebilir malzemelerle desteklenen gerçekçi bir müze atmosferi oluşturulur (D17.3, OB8). Ürünler sergi panoları, dijital ekranlar, maketler ve etkileşimli alanlarda sergilenerek öğrencilerin görsel ve fiziksel deneyimlerle öğrenmeleri sağlanır. Sergi düzeninin oluşturulması sürecinde öğrencilerden fikirlerini paylaşmaları beklenir (SDB2.1). Böylece kültürel mirası tanımaları ve gelecek nesillere aktarmak için sorumluluk almaları sağlanır (D19.3, OB5). Sergi sürecinde estetik bütünlük sağlamak amacıyla fonda geleneksel ezgilerden oluşan sözsüz müzikler çalınır. Değerlendirme sürecinde öğrencilerden dikkat ettikleri noktaları, zorlandıkları aşamaları ve yapacakları değişiklikleri belirlemeleri istenir (SDB1.2). Ürünler performans görevi olarak tanımlanarak dereceli puanlama anahtarı veya öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/901"
+}

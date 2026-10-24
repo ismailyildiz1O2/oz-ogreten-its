@@ -1,0 +1,46 @@
+{
+  "unitId": 94126406,
+  "grade": 4,
+  "gradeName": "4. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "6. ÖĞRENME ALANI: ETKİN VATANDAŞLIK",
+  "hours": "14",
+  "description": "Bu öğrenme alanı işlenirken sorumluluk ve bağımsızlık gibi değerlerle iş birliği, sosyal katılım ve karar verme gibi becerilerin de öğrenciler tarafından edinilmesi sağlanmalıdır.",
+  "outcomes": [
+    {
+      "code": "SB.4.6.1",
+      "title": "Çocuk olarak sahip olduğu haklara örnekler verir",
+      "processComponents": [
+        "Çocuk Haklarına Dair Sözleşme’deki maddeler ele alınır."
+      ]
+    },
+    {
+      "code": "SB.4.6.2",
+      "title": "Aile ve okul yaşamındaki söz ve eylemlerinin sorumluluğunu alır",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.6.3",
+      "title": "Okul yaşamında gerekli gördüğü eğitsel sosyal etkinlikleri önerir",
+      "processComponents": []
+    },
+    {
+      "code": "SB.4.6.4",
+      "title": "Ülkesinin bağımsızlığı ile bireysel özgürlüğü arasındaki ilişkiyi açıklar",
+      "processComponents": [
+        "Türkiye Büyük Millet Meclisinin açılışı ile ulusal egemenlik ilişkilendirilir.",
+        "Bir birey olarak ülkesinin bağımsızlığı için üstlenebileceği rollere örnekler verir.",
+        "15 Temmuz Demokrasi ve Millî Birlik Günü’nün bireysel özgürlüğü ve ülkesinin bağımsızlığına katkısı üzerinde durulur."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "area": "Etkin Vatandaşlık",
+  "program": "MEB Öğretim Programı (2018)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023428142532575-2023_sosyal_bilgiler.pdf"
+}

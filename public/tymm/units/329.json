@@ -1,0 +1,97 @@
+{
+  "unitId": 329,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Matematik Dersi",
+  "title": "3. TEMA: GEOMETRİK CİSİMLER",
+  "hours": "30",
+  "description": "Bu temada öğrencilerin dik prizma ve dik dairesel silindirin elemanlarına ilişkin çözümleme yapabilmeleri; dik piramit, dik dairesel koni ve kürenin elemanları ile yüzey alanı ve hacim bağıntılarına ilişkin analojik akıl yürütebilmeleri; geometrik cisimlerin elemanları, yüzey alanı ve hacim bağıntılarının kullanıldığı durumlara ilişkin problem çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.12.3.1",
+      "title": "Dik prizma ve dik dairesel silindirin elemanlarını çözümleyebilme",
+      "processComponents": [
+        "a) Dik prizma ve dik dairesel silindirin elemanlarını belirler.",
+        "b) Dik prizma ve dik dairesel silindirin elemanları arasındaki ilişkileri belirler."
+      ]
+    },
+    {
+      "code": "MAT.12.3.2",
+      "title": "Dik prizma ile dik dairesel silindirden yararlanarak dik piramit, dik dairesel koni ve kürenin elemanları, yüzey alanları ve hacimleri arasındaki ilişkilere dair analojik akıl yürütebilme",
+      "processComponents": [
+        "a) Dik prizma ile dik dairesel silindirden yararlanarak dik piramit, dik dairesel koni ve kürenin elemanları, yüzey alanları ve hacimleri arasındaki ilişkileri inceleyebileceği örnekleri gözlemler.",
+        "b) Dik prizma ile dik dairesel silindirden yararlanarak dik piramit, dik dairesel koni ve kürenin elemanları, yüzey alanları ve hacimlerine yönelik örneklerin niteliklerini belirler.",
+        "c) Gözlemlediği benzerliklerden yararlanarak dik piramit, dik dairesel koni ve kürenin elemanları, yüzey alanları ve hacim bağıntılarına yönelik çıkarım yapar."
+      ]
+    },
+    {
+      "code": "MAT.12.3.3",
+      "title": "Geometrik cisimlerin elemanları, yüzey alanı ve hacim bağıntılarını içeren problemleri çözebilme",
+      "processComponents": [
+        "a) Geometrik cisimleri içeren problemlerin bileşenlerini (nicelik, şekil gibi) belirler.",
+        "b) Bileşenler arasındaki ilişkileri belirler.",
+        "c) Problemin bileşenlerini ve aralarındaki ilişkileri uygun matematiksel temsillere dönüştürür.",
+        "ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.",
+        "d) Problemin çözümü için gerekli işlemleri ve çözümü gerçekleştirebilmek için stratejiler geliştirir.",
+        "e) Belirlediği stratejileri çözüm için uygulayarak problemi çözer.",
+        "f) Çözümü kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.",
+        "g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri ve olası farklı stratejileri gözden geçirir.",
+        "ğ) Çözüme ulaştıran stratejilerin hangi problemlere uyarlanabileceğine ilişkin çıkarımda bulunur.",
+        "h) Ulaştığı çıkarımların geçerliliğini matematiksel örneklerle değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "ana doğru, ayrıt, cisim köşegeni, cisim yüksekliği, dik dairesel koni, dik dairesel silindir, dik piramit, dik prizma, hacim, küre, yan yüz yüksekliği, yarıçap, yüzey alanı, yüzey köşegeni",
+  "support": [
+    "Öğrencilerin konuya ilişkin tasarlanmış materyaller veya matematik yazılımları ile çalışmaları sağlanarak öğrenme çıktılarına ilişkin becerilere ve içerik bilgisine ulaşmaları sağlanabilir.",
+    "Görsel materyallerle desteklenerek öğrencilerin incelenen geometrik cisimlerin açınım ve elemanlarını çözümlemesi sağlanmalıdır. Bunun için video ve etkileşimli içerikler kullanılabilir. Öğrencilerin kâğıt veya karton kullanarak geometrik cisimleri kendilerinin oluşturması sağlanabilir.",
+    "Öğrencilere günlük hayatta bu cisimlerin kullanıldığı tasarımlarla ilgili video ve dijital içerikler izletilebilir.",
+    "Öğrencilerin cisimlerin hacim bağıntıları arasındaki ilişkileri deneysel yollarla fark etmeleri sağlanabilir. Örneğin öğrenciler, kartondan yaptıkları aynı taban ve yüksekliğe sahip dik dairesel koni ile silindirin içini aynı malzeme ile doldurarak malzemelerin hacimleri oranını bulabilir."
+  ],
+  "enrichment": [
+    "(*) Öğrencilere geometrik cisimlerin mimari eserlerde kullanımına yönelik olarak verilebilecek proje ödevinde Türk-İslam kültürüne değer katan eserlerin ve mimarlarının (Mimar Sinan, Sedefkâr Mehmed Ağa gibi) incelenmesi istenerek öğrencilerin konuya ilişkin bilgi sahibi olmaları sağlanabilir.",
+    "(*) Geometrik cisimler tabana paralel ya da dik bir düzlemle kesildiğinde oluşan yapının yüzeyleri incelenebilir. İncelenen geometrik cisimlerde hangi kesimlerle hangi tür yüzey şekillerinin oluşabileceği yorumlanır. Ayrıca oluşan yeni cisimler incelenir. Bu bağlamda Pergeli Apollonius'un (Apolloniyus) çalışmalarının araştırılması ve sınıfta sunulması istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, proje ödevi ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere geometrik cisimlerin (dik prizma, dik dairesel silindir, dik piramit, dik dairesel koni, küre) kullanıldığı mimari yapıların incelenmesiyle ilgili proje ödevi verilebilir. Ödevler, analitik dereceli puanlama anahtarı ya da akran değerlendirme formlarıyla değerlendirilebilir.",
+    "Geometrik cisimlerin ayrıt ve yüzey açınımları ile alan ve hacim bağıntılarının özetlenmesini sağlayacak bir performans görevi verilebilir. Performans görevinin ürünü olarak öğrencilerin afiş tasarlamaları istenebilir. Afişler, analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Öğrencilere geometrik cisimlerin açınımları, yüzey alanı ve hacim bağıntılarını kullanabilecekleri farklı problem durumları araştırmalarına ve bu problemleri çözmelerine yönelik bir performans görevi verilebilir. Performans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "MAT.12.3.1 Öğrencilerin önceden öğrendikleri dikdörtgenler prizması, küp, kare dik prizma gibi dik prizmaların ve dik dairesel silindirin elemanlarını belirlemeleri beklenir. Elemanlar belirlendikten sonra önceki bilgilerine ek olarak dik prizmaların yüksekliği, yüzey köşegeni ve cisim köşegeninden; dik dairesel silindirin ise yüksekliğinden bahsedilerek bunların özellikleri incelenir. Bu cisimlere ait yeni öğrenilen elemanların öğrencilerin bildiği elemanlarla ilişkisi belirlenir (bir dikdörtgenler prizmasında yüzey köşegeninin uzunluğunun karesinin o yüzeyin kenar uzunluklarının kareleri toplamına eşit olması gibi). Öğrencilere farklı dik prizma ve dik dairesel silindirler içeren çalışma kâğıdı verilerek belirledikleri ilişkileri incelemeleri istenebilir.",
+    "MAT.12.3.2 Öğrencilere farklı dik piramit ve dik prizma örnekleri sunulur. Bu örnekler üzerinden öğrencilerin bu cisimlerin elemanlarını belirlemeleri beklenir. Hem dik prizma hem de dik piramit örneklerindeki elemanların benzerliklerinden yola çıkarak dik piramidin tüm elemanları hakkında çıkarımlar (\"Bir dik prizmanın yan yüz yüksekliğinin uzunluğu, aynı taban ve aynı yüksekliğe sahip bir dik piramidin yan yüz yüksekliğinin uzunluğundan daha küçüktür.\" gibi) yapmaları sağlanır. Benzer şekilde öğrencilere dik dairesel silindir ile dik dairesel koni ve küre örnekleri sunularak öğrencilerin bu cisimlerin elemanları arasındaki ilişkilere yönelik çıkarımlar yapmaları istenir. Dik dairesel koninin ana doğrusu tanımlanıp dik piramidin cisim yüksekliği ve yan yüz yüksekliği arasındaki ilişkiden hareketle dik dairesel koninin cisim yüksekliği ve ana doğrusu arasındaki ilişkiye yönelik de çıkarımlar yapılır.",
+    "Dik piramidin elemanlarının (cisim yüksekliği, yan yüz yüksekliği gibi) dik prizma yardımıyla tanımlanıp nasıl çizileceği üzerinde durulduktan sonra öğrencilerin yüksekliği ve tabanları aynı olan dik prizma ile dik piramitlerin hacimlerini matematik yazılımları kullanarak veya deneysel olarak karşılaştırması sağlanır ( MAB5 ) . Öğrencilerin ortaya çıkan benzerliklerden yararlanarak dik piramidin ve dik dairesel koninin hacim bağıntılarına yönelik çıkarım yapmaları sağlanır. Benzer şekilde öğrencilerden cisimlerin açınımlarını gözlemleyerek yüzey alanlarını da karşılaştırmaları beklenir. Öğrencilerden bu cisimlerin yüzey alanları ve hacimlerine ilişkin incelenen örneklerin niteliklerini (cisimleri oluşturan yan yüzeylerin hangileri olduğu, alanlarının nasıl hesaplanabileceği, hacimlerin arasındaki oransal ilişki) belirlemeye yönelik hazırlanan çalışma kağıdındaki soruları cevaplamaları istenir. Ortaya çıkan benzerliklerden yararlanarak öğrencilerin dik prizma ile dik piramidin yüzey alanı ve hacim bağıntılarına yönelik çıkarım yapmaları sağlanır.",
+    "Benzer şekilde dik dairesel silindirin yüzey alanı ve hacminden yararlanılarak dik dairesel koninin ve kürenin yüzey alanlarına ve hacimlerine yönelik farklı örnekler gözlemlenir. Gözlenen örneklerin yüzey alanı ve hacmi ile ilgili nitelikleri belirlenir. Bu süreç sonunda öğrencilerin dik dairesel koni ile kürenin yüzey alanları ve hacim bağıntılarına yönelik çıkarım yapması sağlanır. Yapılacak çalışmalar, öğrencilerin yaratıcılık ve sistematik olma eğilimlerinin geliştirilmesini sağlar ( E3.3 , E3.7 ) .",
+    "Öğrencilerden bu çalışmalarını iş birlikli bir şekilde çevrim içi uygulamaları kullanarak bir platform üzerinden sunmaları istenir ( SDB2.2 ) . Örneğin sınıfça kullanılacak dijital pano oluşturma araçlarıyla öğrencilerin tüm fikirlerinin aynı anda değerlendirilmesi ve dijital okuryazarlık becerilerinin geliştirilmesi sağlanır ( OB2 ) . Ayrıca Arşimet'in kürenin yüzey alanı ve hacim bağıntılarını oluşturmada dik dairesel silindirden yararlanması ile ilgili çalışmaları incelenir. Arşimet'in bu çalışmalarını cebirsel olarak inceleyen Mahani'nin çalışmaları da araştırılarak öğrencilerin merak eğilimleri harekete geçirilir ( E1.1 ) . Öğrencilere Türk-İslam ve dünya mimarisinden geometrik cisimlerin bina tasarımlarında kullanımına ilişkin örnekler sunulur. Seçilen örnekler arasında Türk-İslam mimarisine ait yapıların olması; öğrencilerin millî ve manevi değerlere saygı duyma eğilimlerinin, kültürel mirası korumaya verdikleri değerin geliştirilmesine hizmet eder ( D14.3 , D19.3 , OB5 ) . Bina tasarım (mühendislik) örnekleri incelenir, öğrencilerin kullanılan geometrik cisimlerin neden tercih edildiğine ilişkin fikirlerini paylaştığı bir ortam oluşturulur. Tartışma, sorularla (\"Estetik kaygılar dışında bir binanın küre şeklinde tasarlanmasının nedeni ne olabilir?\" gibi) yönlendirilir. Öğrencilerin görsel yorumlama tekniğini kullanarak konuyla ilgili fikir alışverişi yapmalarının sağlanması, kültürel mirasa değer verme hassasiyetlerinin artırılmasını ve sanatsal zevklere bakış açısının geliştirilmesine yardımcı olarak estetik değerinin kazanılmasını da destekleyecektir ( D7.1 ) . Öğrencilere geometrik cisimlerin ayrıt ve yüzey açınımları ile alan ve hacim bağıntılarına yönelik bir performans görevi verilebilir.",
+    "MAT.12.3.3 Öğrencilere geometrik cisimlerin açınımlarını, yüzey alanını, hacim bağıntılarını ve dikdörtgenler prizmasının cisim köşegenini kullanabilecekleri farklı problem durumları sunularak bu problemleri incelemeleri istenir. Öğrencilere sunulacak bu problemlerde geometrik cisimlerin günlük hayatta kullanımına ilişkin örneklere özellikle yer verilir ( OB4 ) . Öğrencilerin sunulan problem durumlarına ilişkin olarak öncelikle problemin parçaları (sayısal/nicel, görsel/şekil gibi) ve bu parçalar arasındaki ilişkileri belirlemeleri sağlanır. Bu süreçte öğrencilerin bilgiyi çözümleme becerileri de desteklenir ( OB1 ) . Öğrencilerin özellikle gerçek yaşam durumlarını içeren problemleri matematiksel dil kullanarak farklı temsillerle ifade edecek şekilde dönüştürmesi sağlanır. Matematiksel temsillere dönüştürdüğü problemin bileşenlerini ve aralarındaki ilişkileri ifade etmesi beklenir ( MAB3 ) . Öğrencilerin problemin matematiksel ifadesini kullanarak çözüm için bir strateji geliştirmeleri ve bu stratejiyi uygulayarak problemi çözmeleri sağlanır. Öğrenciler çözümlerini kontrol eder ve çözümlerini arkadaşları ile karşılaştırır ( SDB2.2 ) . Böylece öğrenciler farklı çözüm stratejilerini ve yollarını da inceler. Çözümlerin eleştirel bir yaklaşımla tartışma ortamında ele alınması sağlanmalıdır ( SDB2.1 , E3.10 ) . Ele alınan çözüm yollarından problemin çözümünü sağlayanların benzer problem durumlarına genellenip genellenemeyeceği incelenir. Öğrencilerden ulaştıkları sonuçları kullanarak elde edilen çözüm stratejilerinin hangi tür problemlerde kullanılabileceğini ifade etmesi beklenir. Bu süreçte öğrencilerden çözüm stratejileri ile ilgili çıkarımlarda bulunarak bu çıkarımlarını farklı problem durumlarında ele almaları istenir. Öğrencilere farklı problem durumlarına ilişkin çalışma kâğıdı verilerek çözüm stratejilerine ilişkin çıkarımlarını matematiksel örnekler üzerinden değerlendirmeleri sağlanır. Bu süreçte öğrencilerin etkileşim içinde birlikte çalışmaları desteklenmelidir ( SDB2.1 ) . Öğrencilere geometrik cisimlerin açınımları, yüzey alanı ve hacim bağıntılarını kullanabilecekleri farklı problemleri çözmelerine yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D19.3",
+      "D7.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.10",
+      "E3.3",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3",
+      "MAB5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB5"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/329"
+}

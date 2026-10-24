@@ -1,0 +1,48 @@
+{
+  "unitId": 81424118,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "118. ÜNİTE: TEZHİP - TEZHİP SANATINDA KULLANILAN MALZEMELER VE HAZIRLANIŞI",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GTSA.2.2.1",
+      "title": "Ana, ara, kontrast, nötr ve ton kavramlarını öğrenerek renk çemberi uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.2.2",
+      "title": "Gelenekli usulde murakka yapımını uygular",
+      "processComponents": []
+    },
+    {
+      "code": "GTSA.2.2.3",
+      "title": "Çeşitli bitkileri kaynatarak elde edilen boya ile kâğıt renklendirilmesini yapar",
+      "processComponents": [
+        "Murakka yapımında kullanılan kâğıt terbiyesi ve nişasta aherinin hazırlanmasına çalışılır."
+      ]
+    },
+    {
+      "code": "GTSA.2.2.4",
+      "title": "Gelenekli usulde tahrir mürekkebi hazırlar",
+      "processComponents": [
+        "Bitkilerle boya elde edilmesi sağlanır."
+      ]
+    },
+    {
+      "code": "GTSA.2.2.5",
+      "title": "Cetvel, gönye, triling, rapido kalemi ve milimetrik aydınger kâğıdını kullanır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

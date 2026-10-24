@@ -1,0 +1,84 @@
+{
+  "unitId": 1180,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Kaval Modülü",
+  "title": "1. TEMA: KAVAL ÇEŞİTLERİ, BAKIMI VE SEÇİMİ",
+  "hours": "11",
+  "description": "Tema içeriğini kaval çalgısının çeşitleri, özellikleri, bakımı ve seçimi oluşturmaktadır. Bu doğrultuda öğrencilerin kaval çeşitlerini tanımalarına dair belirlenen öğrenme çıktılarına ulaşması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KVL.2.1.1",
+      "title": ". Dilli kavalı çözümleyebilme",
+      "processComponents": [
+        "a) Çeşitli görseller aracılığıyla dilli kavala ilişkin parçaları belirler.",
+        "b) Dilli kavalın parçaları arasındaki ilişkiyi belirler."
+      ]
+    },
+    {
+      "code": "KVL.2.1.2",
+      "title": ". Dilli kaval ile icra edilen eserleri dinleyebilme",
+      "processComponents": [
+        "a) Dinlediği eserler üzerinden dilli kavalı fark eder.",
+        "b) Dinlediği eserler üzerinden dilli kavalı ayırt eder.",
+        "c) Dinlediği eserler üzerinden dilli kavalın ses özelliklerini açıklar."
+      ]
+    },
+    {
+      "code": "KVL.2.1.3",
+      "title": "Dilli ve dilsiz kavalı seçebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KVL.2.1.4",
+      "title": "Kavalın bakım adımlarını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KVL.2.1.5",
+      "title": "Fiziksel özelliklerine göre doğru kavalı seçebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "dilli kaval, dilsiz kaval, kaval bakımı, müzik, Türk halk müziği",
+  "support": [
+    "Bu süreçte, dilli kaval ve dilsiz kavalın tanıtılmasında basit tanım ve anlatımlardan yararlanılabilir. Dilli ve dilsiz kavala dokunarak incelemeleri sağlanabilir."
+  ],
+  "enrichment": [
+    "Kaval sesi kullanılarak grup oyunları tasarlamaları istenebilir. Örnek olarak dilli ve dilsiz kaval sesini dinleyip tanıma yarışmaları yapılabilir. Kaval bakımını anlatan küçük hikâyeler tasarlamaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; oyun temelli değerlendirme, kontrol listesi, gözlem formu, dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir. Performans görevi olarak öğrencilerden grup çalışması ile dilli ve dilsiz kavalın parçalarını görsellerle tanıtan çalışmalar istenebilir. Performans görevi; oyun temelli değerlendirme, dereceli puanlama anahtarı/ öz değerlendirme formu/ grup değerlendirme formuyla değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KVL.2.1.1",
+    "Dilli kaval ilgili belirlenen video, sunu, gibi materyal veya etkinliklerle çalgının merak edilmesi sağlanır ( E1.1 ). Çeşitli görseller aracılığıyla dilli kaval çalgısının bölümlerini ve parçalarını belirlemeleri sağlanır. Çalgı üzerinde bölümler ve parçalar gösterildikten sonra eşleşme kartları ile çalgının bölümleri ve parçaları arasında ilişki kurması sağlanır. Öğrencilerden grup çalışması ile dilli kavalın parçalarını görsellerle tanıtan çalışmalar istenebilir ve süreç oyun temelli değerlendirme ile değerlendirilebilir.",
+    "KVL.2.1.2",
+    "Dilli kavalın canlı performansı veya video kaydı öğrencilere izlettirilir. Ardından dilli kavalın icra edildiği eserler dinletilerek, öğrencilerin dilli kaval sesini anlamaları sağlanıp dilli kaval sesinin hissettirdiği duyguları, sözlü ifade etmeleri istenir ( SDB2.1 ). Akıllı tahtadan içerisinde dilli kaval, bağlama, bendir çalgılarının kullanıldığı Türk halk müziği eserleri dinletilerek, dilli kavalın geçtiği anları işaretleyip diğer enstrümanlarla karşılaştırmaları istenir ( D3.3 , OB2 ). Süreç sonunda dinlediği dilli kavalın sesinin özelliklerini kendi duygu ve düşünceleriyle açıklayıp sözlü olarak ifade etmesi istenir ( D11.2 , SDB2.1 ). Bu süreç dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "KVL.2.1.3",
+    "İki farklı türde kavalların fotoğrafları veya çizimleri gösterilip, çalgıların detayları anlatıldıktan sonra kavalların görsellerini algılayıp doğru seçimlerin yapılması istenir ( OB4 ). Süreç sonunda iki farklı türdeki kavalların benzerlik ve farklılıklarını listelemek amacı ile karşılaştırma tablosu hazırlatılabilir. Bu süreç gözlem formu ile değerlendirilebilir. Performans görevi olarak öğrencilerden grup çalışması ile dilli ve dilsiz kavalın parçalarını görsellerle tanıtan çalışmalar istenebilir. Performans görevi; oyun temelli değerlendirme, dereceli puanlama anahtarı/ öz değerlendirme formu/grup değerlendirme formuyla değerlendirilebilir.",
+    "KVL.2.1.4",
+    "Kavalın bakımını gösteren görseller ve video kayıtları gösterilip ardından öğretmen kendi kavalını bakım adımlarını (temizleme, saklama, kontrol) kullanarak sınıf ortamında sergiler. Öğrencilerin kaval bakımını pratik olarak algılamaları ve belirlemeleri sağlanır ( D16.3, OB4 ). Öğrencilerin bakım sürecindeki adımları uygulayıp uygulamadığını değerlendirmek amacı ile kontrol listesi kullanılabilir.",
+    "KVL.2.1.5",
+    "Başlangıç aşamasında öğrencilerin fiziksel uygunluklarına göre kaval seçiminin önemi anlatılarak öğrencilerin kendi fiziksel özelliklerini değerlendirmeleri sağlanır ( D10.1 , SDB1.1 ). Ardından öğrencilerin kendi boy, kol ve parmak uzunluklarına göre seçebilecekleri kavalları ifade etmeleri sağlanır ( SDB2.1 ). Bu süreç gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D11.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E1.1"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1180"
+}

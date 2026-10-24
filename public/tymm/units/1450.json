@@ -1,0 +1,75 @@
+{
+  "unitId": 1450,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Teknoloji ve Tasarım Dersi (Maarif Modeli)",
+  "title": "5. ÜNİTE: MÜHENDİSLİK VE TASARIM",
+  "hours": "10",
+  "description": "Beşinci ünitede öğrencilerin mühendislik ve tasarım ilişkisi ile mühendislikte kullanılan tasarım süreci hakkında bilgi sahibi olmaları amaçlanmıştır.",
+  "outcomes": [
+    {
+      "code": "TT.8.5.1",
+      "title": "Mühendislik ve tasarım arasındaki ilişkiyi sorgulayabilme",
+      "processComponents": [
+        "a) Mühendislik ve tasarım arasındaki ilişkiyi tanımlar ve tanır.",
+        "b) Mühendislik ile tasarım arasındaki ilişki hakkında sorular sorar.",
+        "c) Mühendislik ile tasarım arasındaki ilişki hakkında bilgi toplar.",
+        "ç) Mühendislik ile tasarım arasındaki ilişki hakkında topladığı bilgilerin doğruluğunu değerlendirir.",
+        "d) Mühendislik ile tasarım arasındaki ilişki hakkında topladığı bilgiler üzerinden çıkarım yapar."
+      ]
+    },
+    {
+      "code": "TT.8.5.2",
+      "title": "Çevresindeki ürünleri mühendislik açısından inceleyerek tasarım süreçlerini gözlemleyebilme",
+      "processComponents": [
+        "a) Çevresindeki ürünleri mühendislik alanlarında kullanılan fizik kanunları açısından gözlemleyerek ölçütler belirler.",
+        "b) Çevresindeki ürünleri mühendislik açısından gözlemlemek amacıyla uygun veri toplama araçlarını kullanarak veri toplar.",
+        "c) Çevresindeki ürünleri mühendislik açısından inceleyerek toplanan verileri sınıflandırır ve kaydeder."
+      ]
+    },
+    {
+      "code": "TT.8.5.3",
+      "title": "Mühendislik tasarım sürecindeki sınırlılıkları değerlendirebilme",
+      "processComponents": [
+        "a) Mühendislik tasarım sürecinde dikkate alınması gereken zaman, kültür, mekân, bütçe, ekoloji gibi sınırlılıklara ölçütler belirler.",
+        "b) Mühendislik tasarım sürecinde mevcut olaylara ilişkin ölçmeler yapar.",
+        "c) Mühendislik tasarım sürecinde ölçme sonuçlarını belirlediği ölçütlerle karşılaştırır.",
+        "ç) Mühendislik tasarım sürecinde yaptığı karşılaştırmalara ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "TT.8.5.4",
+      "title": "Tasarım ürünü oluşturabilme",
+      "processComponents": [
+        "a) Tasarıma yönelik taslak oluşturur.",
+        "b) Tasarımı ürüne dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "mühendislik, tasarım, teknoloji, ürün geliştirme.",
+  "support": [
+    "Çalışmalar görsel, işitsel materyallerle sunulabilir.",
+    "Grup çalışmalarında öğrencilerin ilgi ve istekleri göz önüne alınabilir.",
+    "Ölçüt belirleme, veri toplama, sınıflandırma vb. öğrenme çıktıları için adım adım talimatlar ile yapılandırılmış rehberlik sunulabilir. Çalışmalar için ön koşul olacak beceriler var ise on ları öğrenmeleri için materyaller sunulabilir."
+  ],
+  "enrichment": [
+    "Öğrenme ortamı olan sınıf dışında birçok mühendislik ürünü olduğundan bunların imalatının yapıldığı farklı firma ziyaretleri öğretmen rehberliğinde gerçekleştirilebilir (köprü, baraj, otomobil üreten fabrika, robot üreten firma vb.). Bu ziyaretler eğer imkân dâhilinde değilse güvenilir web siteleri aracılığı ile sanal olarak da yerine getirilebilir."
+  ],
+  "assessment": [
+    "Ürün değerlendirme formu, karşılaştırmalı ürün değerlendirme formu gibi ölçekler veya ürün dosyası kullanılabilir. Ürünlerin akran görüşlerine göre değerlendirilebilmesi sağlanabilir.",
+    "Performans görevi olarak öğrencilerden mühendislik ile tasarım arasındaki ilişkiyi örnekler üzerinden incelemeleri, bu ilişkiyi kendi ifadeleriyle yazılı bir kompozisyon olarak açıklamaları ve değerlendirmeleri istenebilir ve bu görev rubrikle değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "TT.8.5.1.",
+    "Öğrencilere birden çok mühendislik alanının (elektrik-elektronik, makine, bilgisayar, inşa at vb.) bir arada kullanıldığı fabrikalardaki üretim sürecini anlatan bir video veya belgesel izletilir (KB2.6, OB4). Öğrencilerden filmi izledikten sonra bu filmde hangi mühendislik alanlarının olduğunu, sürtünme, ivme, momentum, hız, basınç gibi mühendislik kavramları ile ergonomi, ekonomiklik, malzeme gibi tasarım kriterlerinin bu videoda geçip geçmediğini sorgulamaları, çıkarımda bulunup tanımlamaları, bilimsel gelişim için merak duygusunu kullanarak süreci dikkatle takip etmeleri beklenir (D1.4, KB2.10, KB2.4, OB1, D3.3, E1.1). Elde ettikleri ve topladıkları bilgi ve verilere bağlı olarak mühendis, mühendislik ve tasarım kavramlarını yeni bilgi, fikir ve eleştirilere açık olarak (D10.1) tanımlamaları istenir. Fizik kanunlarının mühendislikte nerelerde kullanıldığını araştırma sonuçlarına dayandırarak ifade etmeleri ve çıkarımda bulunmaları sağlanır. Öğrencilerden aralarında grup oluşturmaları (3-5 kişilik) istenir (SDB2.2). Gruplardan gösterilen video ile ilgili elde ettikleri verileri, sür tünme, hız, ivme gibi mühendislik temel kavramlarını dikkate alarak bir tablo oluşturacak şekilde çıkarımda bulunmaları istenir (OB7). Ayrıca bunları sınıfta grup sözcüleri aracılığıyla görsel ve sözlü olarak ifade etmeleri beklenir (OB7, OB4). İş birliği içinde çalışarak farklı bakış açılarını değerlendirir ve ortak bir sonuca ulaşmaya gayret eder (D3.4). Çevresinde var olan benzer ürünler arasındaki farkı oluşturan en önemli unsurlardan birinin \"tasarım\" olduğunu sorgulamaları sağlanır. Buna bağlı olarak mühendislik ile tasarım arasındaki ilişkiyi çıkarımda bulunarak defterlerine yazmaları istenir (KB2.10). Bu süreç performans görevi verilerek bu görev rubrikle değerelendirilebilir.",
+    "TT.8.5.2.",
+    "Öğrencilerden bir hafta öncesinde sürtünme, hız, ivme, ısı, basınç, momentum, kütle çekim, kaldırma kuvveti gibi mühendislik kavramlarının yakın çevrelerinde var olan uygulama örneklerini gözlemlemeleri istenir. Bilimsel gelişim için merak duygusunu kullanarak bu kavramları günlük yaşamlarında gözlemleyerek ölçütler belirlemeleri ve belirledikleri ölçütlere göre veriler toplamaları sağlanır (D3.3, OB7). Doğru ve güvenilir bilgiyi ayırt ederek gözlem sonuçlarını değerlendirmeye özen gösterir (D3.3). Bu gözlemlerde elde ettikleri verilere göre mühendislik kavramlarına ilişkin görüş ve yorumlarını derste sınıflandırması ve akranlarıyla paylaşmaları istenir. Öğrencilerden çevresindeki gözlemledikleri mühendislik ürünlerini birirbirinden ayıran özelliklerin neler olduğunu açıklamaları istenir. Bunların aralarından seçecekleri bir grup sözcüsü aracılığı ile tahtaya yazılması ve diğer öğrencilerin de defterlerine yazarak kaydetmeleri sağlanır. Örneğin salıncak, tahterevalli gibi nesneler ile suyun kaldırma kuvveti, otomobilin fren yaptığındaki itme kuvveti gibi olgulara benzer fizik kurallarını yansıtan nesne ve olguları bir liste şeklinde örnekleyerek göstermeleri istenebilir. Listesini oluşturdukları bilgileri eleştirel bakış açısıyla değerlendirerek paylaşmaları beklenir (D3.3, SDB2.2, SDB3.1, E2.2). Mühendislik alanlarında onu etkili ve benzerlerinden farklı kılan tasarımı gözlemledikleri ürünler üzerinde göstererek açıklamaları ve buna bağlı olarak mühendislik ve tasarım arasındaki ilişkiyi kurmaları beklenir. Örneğin tahterevallinin dengesinin ağırlık merkezine bağlı olarak nasıl değiştiğini incelerken bu prensibin köprü ve vinç tasarımlarında nasıl uygulandığını açıklar ve bilimsel gelişim için merak duygusunu kullanarak süreci dikkatle takip eder (D3.3).",
+    "TT.8.5.3.",
+    "Sınıfta daha önceden oluşturulan gruplardan (3-5 kişilik) mühendislikte tasarım yaparken karşılaşılan malzeme, çevre, boyut, ergonomi, üretim maliyeti, arz-talep gibi problemleri araştırmaları ve bunları maddeler hâlinde yazılı bir metne dönüştürmeleri, bunları yaparken ölçütler belirlemeleri beklenir (OB1). Öğrenciler; zaman, kültür, mekân, bütçe ve ekoloji gibi sınırlılıkları tablo hâline getirerek ölçümler yapar ve bu ölçümleri çoklu ortam sunularından yararlanarak sunar (SDB3.3). Bu kapsamda, ileri yaş grubundaki bireylerin fiziksel, duyusal ve işlevsel ihtiyaçlarını belirlenen ölçütler doğrultusunda analiz eder; elde ettikleri ölçüm sonuçlarını karşılaştırarak bu analizlere dayalı işlevsel bir ürün tasarlar (SDB3.3). Yaptıkları karşılaştırmaya göre ileri yaş grubundaki bireylerin hangisinde verilen ölçütlerle yapılan ölçümlerin ne kadar örtüştüğüne, benzerliklerin ve farklılıklarının neler olduğuna dair yargıya varmaları beklenir. ileri yaş grubundaki bireylerin toplum sal hayata etkin katılımını sağlayabilmek için öğrencilerden bu bireylerin ihtiyaçlarını göz önünde bulundurmaları ve bir tasarım oluşturmaları beklenir (D5.1). ileri yaş grubundaki bireyler için belirlenen problemin gerekçe, boyut ve sınırlılıkları belirlenir. Mevcut durumla karşılaştırılarak geliştirilmesi gereken yönlerinin vurgulanması sağlanır. Bu geliştirmelerin onların yaşam kalitesini ne kadar iyileştirebileceği konularında görüş bildirmeleri beklenir.",
+    "TT.8.5.4.",
+    "Öğrenciler tarafından yakın çevresinde ileri yaş grubundaki bireylerin ihtiyaçlarını giderebilecek bir problemin araştırılması, araştırma sonucunda problemin belirlenmesi, belirlediği bu problemin gerekçesini tanımlaması, çözümüne yönelik fikir veya fikirler geliştirmesi, öğretmenin rehberliğinde arasından en iyisinin belirlenmesi, ileri yaş grubundaki bireylerin duygularına da önem vererek (D9.2) yapmak istedikleri ürünün taslağının yapılması için incelemeler yapması sağlanır. Öğrencilerden üyesi oldukları grup arkadaşları ile önceden belirledikleri konuya ilişkin ihtiyaç olduğunu düşündükleri mevcut bir problemden yola çıkılması sağlanır (KB2.6). Mühendislik tasarım sürecinin gereklilik ve sınırlılıklarını göz önünde bulundurarak bilimsel gelişim için merak duygusunu da kullanarak (D3.3) ileri yaş grubundaki bireylerin ihtiyacını giderecek olan problemi çözen ürünü ergonomi, ekonomiklik, sürdürülebilirlik ve estetik gibi kriterlere göre ürünün tasarımını çizmeleri beklenir. Örneğin yürümekte zorlanan bir bireyin daha rahat hareket edebilmesini sağlayacak bir destek araç gereç ve ekipmanı tasarlamaları istenebilir (D9.3). Benzer şekilde kaza sonucu ayak uzvunu kaybeden bir hayvanın tekrar hareket edebilmesini sağlayacak bir tasarım üzerinde çalışmaları istenebilir (D9.3). Bir diğer örnek olarak atık malzemelerden duyusal oyuncak tasarlayıp ürüne dönüştürmeleri istenebilir. Öğrenciler daha ileri düzey çalışmalarında ihtiyaç duymaları hâlinde mikrodenetleyiciler, sensörler, servo motorlar gibi elektronik devre elemanlarını ve 3D yazıcıları kullanarak robotik uygulamalar geliştirebilirler. Örneğin metal, plastik ve organik atıkları birbirinden ayıran akıllı bir çöp kutusu tasarımı gerçekleştirilebilir. Bu süreçte katı modelleme yazılımı kullanılarak farklı bölmelere sahip bir çöp kutusu tasarlanır ve ardından 3D yazıcı ile fiziksel prototipi üretilebilir. Renk ve metal sensörleri gibi algılayıcılar kullanılarak atık türleri tespit edilir ve servo motorlar yardımıyla farklı türdeki atıklar ilgili bölmelere yönlendirilir. Bu tür projelerde öğrenciler bireysel araştırmalar yapabilir, kodlama ve diğer uygulamalarında yapay zekâ modellerinden destek alarak çalışmalarını geliştirebilirler (SDB3.2, OB2). Öğrencilerden tasarımlarını ürüne dönüştürme sürecinde özellikle sürdürülebilirlik kriterini dikkate alarak kullanabilecekleri karton, pet şişe, tahta çay karıştırıcısı, plastik kapak vb. (D5.2). Atık malzemeleri temin edip sınıfa getirmelerini (Bir önceki haftadan isteyebilir.) istenir (OB8). Çizimi yapılan ve akranlarından gelen dönütlere göre revize edilen çizimin atık malzeme vb. mevcut imkânlar kullanılarak ürüne dönüştürülmesi sağlanır. Örneğin öğrencilerin kullandıkları atık malzemelerin ülke kaynaklarının verimli kullanımı açısından önemini tartışmaları sağlanarak ülke kaynaklarını sürdürülebilir bir şekilde kullanmanın gerekliliğini fark eder (D19.4).",
+    "Gruplar ürettikleri ürünü diğer gruplara sunar. Ürünlerin akran görüşlerine göre değerlendirilebilmesi için her grubun sözcüsünün üyesi olduğu bir değerlendirme komisyonunun kurulması sağlanır. Söz konusu komisyonun ergonomi, mukavemet, ekonomiklik, zaman, sürdürülebilirlik gibi faktörleri dikkate alarak en iyi tasarımın hangisi olduğunu belirlemeleri beklenir (SDB3.3). Sunumdan sonra her grubun yapılan ürünlere dönük, daha iyi nasıl olabilirdi sorgulamasını yapmaları sağlanır (E3.10). Örneğin bir ürünün sürdürülebilir olup olmadığını değerlendirirken kullanılan malzemelerin geri dönüştürülebilir olmasına dikkat eder ve kaynaklarını etkili şekilde kullanarak ailesine ve arkadaşlarına örnek olur (D17.3). Bu sayede öğrencilerin yaptıkları ürünler arasında birbirleri ile iletişim kurarak karşılaştırma yapmaları (SDB2.1) ve hangi ortak fikirde buluştuklarını, neyi düşünemediklerini, hangi bilgiye sahip olamadıklarını veya eksik bilgilerinin ne olduğunu değerlendirerek bir ürünün nasıl iyileştirilebileceğini fark etmeleri sağlanır."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1450"
+}

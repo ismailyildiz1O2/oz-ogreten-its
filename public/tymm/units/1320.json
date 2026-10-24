@@ -1,0 +1,56 @@
+{
+  "unitId": 1320,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "3. TEMA: MAHUR DİZİSİ",
+  "hours": "12",
+  "description": "Temanın içeriğini öğrencilerin mahur dizisinde etüt ve eser çalmaları oluşturmaktadır. Bu doğrultuda öğrencilerin mahur dizisinde etüt ve eserleri çalabilmeleri için öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.6.3.1",
+      "title": "Mahur dizisinde etüt ve eser çalabilme",
+      "processComponents": [
+        "a) Mahur dizisinde çalınacak eseri çözümler.",
+        "b) Duruş ve tutuş pozisyonu alarak mahur dizisinde eser ve etütler çalar.",
+        "c) Çalgıya özgü teknikleri kullanır.",
+        "ç) Ezgisel yapıya uygun olarak mahur dizisinde etüt ve eserler çalar."
+      ]
+    }
+  ],
+  "keyConcepts": "keman, metronom, Türk müziği, dizi",
+  "support": [
+    "Öğrencilerle bire bir ve ayna karşısında çalışmalar yapılabilir. Bu çalışmalar etüt ve dizi çalışmaları üzerinde bona ve solfeje ağırlık verilerek yapılabilir."
+  ],
+  "enrichment": [
+    "Öğrenciler gruplara ayrılır ve öğrencilere eser çalışmaları verilebilir. Mahur dizisindeki eser çalışmalarını bir grup çalarken diğer grup sözleriyle esere eşlik edebilir. Sağlıklı iletişim kurarak çalışmalar daha verimli hâle getirilebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kavram haritası, gözlem form, kısa rapor veya sunum ile değerlendirilebilir. Öğrenciden performans görevi olarak mahur makamı dizisinde bir eser veya etüdü kendi başına çalıp video kaydıyla sunması istenebilir. Performans görevi bütüncül dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "KMN.6.3.1",
+    "Mahur dizisi gösterilip bona ve solfej yaptırılır. Seslerin ve ritmin doğruluğu açısından öğrencinin odaklanması sağlanır ( E3.2 ). Öğrenci, seviyesine uygun olan etüt veya eserin ritmik yapısını gözden geçirdikten sonra bona ve solfejini yaparak çalışmaya ön hazırlık yapmış olur ve etüt veya eseri bu çalışmalarla çözümler.Öğrenciler mahur dizisini öğretmenle eşlikli olarak ritim ve seslere dikkat ederek sergiler ( SDB2.2 ). Öğrenciler mahur dizisinde yapacağı çalışmayı ayarlar. Ritim ve solfej uygulamalarına dikkat ederek etütleri ayna karşısında öğretmenle uyum içerisinde sergiler ( SDB2.1 ). Öğrencilerin doğru duruş ve tutuşla tuşede parmak yerleri ayarlanır. Kemana özgü teknikler kullanılarak mahur dizisi çalışmalarını içeren etütlere geçilir. Öğretmen sınıf ortamında etüt çalışmalarını diziye uygun olarak çalar. Öğretmen, mahur dizisinin eserlerini ezgisel yapıya uyarak sergiler. Etkinlik sonrasında mahur dizisinin özellikleri belirtir. Öğrenciler ulaşacakları bu bilgileri not alarak etkin dinler ( D14.1 ).",
+    "Öğrenciler mahur dizisindeki etütlerde gruplara ayrılarak çalışmalar sergiler. Grup içerisinde kendi yaptıkları çalışmaları dinleyip gözlemleyerek bilgi alışverişinde bulunur ( KB2.14 ). Öğretmen bu çalışmaları sınıf ortamında dereceli puanlama anahtarı ile değerlendirir. Öğrenciler, etkileşimli tahta kullanarak bu bilgileri kendi aralarında paylaşabilir ve akran değerlendirmeleri yapabilir ( OB2 ). Mahur dizisinde çalınacak parçalar öğrenciler tarafından seçilir. Seçilen parçalar çalışıldıktan sonra öğrencilerden icra etmeleri istenir ( E3.8 ). Bu icralar performans görevi olarak değerlendirilir. Öğrencilerin önceki temalarda çalıştıkları makam dizilerine ait etüt ve eserleri hatırlamaları sağlanabilir. Yeni çalışılacak eser ve etütlerin daha önce öğrenilen makamlarla benzer ya da farklı yönleri karşılaştırmalı olarak ele alınabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1"
+    ],
+    "egilim": [
+      "E3.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.14"
+    ],
+    "okuryazarlik": [
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1320"
+}

@@ -1,0 +1,59 @@
+{
+  "unitId": 81424044,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "44. ÜNİTE: GİTAR - 5. TEL LA VE 6. TEL Mİ",
+  "hours": "14",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.6.6.1",
+      "title": "La telinde bulunan la, si ve do notalarını çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.2",
+      "title": "La dizisini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.3",
+      "title": "Si dizisini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.4",
+      "title": "Do dizisini seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.5",
+      "title": "La minör tonda şarkılar çalar ve çalan arkadaşlarına basit akorlarla eşlik eder",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.6",
+      "title": "Mi telinde bulunan mi, fa ve sol notalarını çalar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.7",
+      "title": "Bare akorlardan fa majör ve sol majör akorunu basar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.6.6.8",
+      "title": "Mi tonunda şarkılar çalar ve çalan arkadaşlarına mi minör, la minör, sol majör ve re minör akorlarıyla eşlik eder",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

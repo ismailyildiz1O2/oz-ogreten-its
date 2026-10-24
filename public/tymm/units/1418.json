@@ -1,0 +1,76 @@
+{
+  "unitId": 1418,
+  "grade": 3,
+  "gradeName": "3. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Viyolonsel Modülü",
+  "title": "2. TEMA: RE VE LA TELLERİNDE SESLERİN İZİNDE",
+  "hours": "24",
+  "description": "Temada öğrencilerin re ve la telleri üzerindeki notaları temel parmak pozisyonlarında seslendirmeleri ve bu notaların fa anahtarındaki yerlerini tanımaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "VLS.3.2.1",
+      "title": ". Re ve la telleri üzerindeki notaları temel parmak pozisyonlarında çalabilme",
+      "processComponents": [
+        "a) Re ve la tellerinde çalınacak etüdü çözümler.",
+        "b) Re ve la tellerindeki notaları çalarken duruş ve tutuş pozisyonunu alır.",
+        "c) Re ve la tellerindeki notaları çalarken çalgıya özgü teknikleri kullanır.",
+        "ç) Re ve la telleri üzerindeki notaları çalarken müziksel bileşenleri uygular."
+      ]
+    },
+    {
+      "code": "VLS.3.2.2",
+      "title": ". Notaların fa anahtarı üzerindeki yerini çözümleyebilme",
+      "processComponents": [
+        "a) Notaların fa anahtarı üzerindeki yerlerini çözümlemek için bileşenleri belirler.",
+        "b) Notaların fa anahtarı üzerindeki yerlerini çözümlemek için ilişkileri belirler."
+      ]
+    }
+  ],
+  "keyConcepts": "fa anahtarı, nota, viyolonsel, yay",
+  "support": [
+    "Öğrencinin öğrenme hızına göre metronom kullanarak bire bir çalışmalar sağlanabilir. Öğretmen, bu öğrencilere her nota ve parmak pozisyonu üzerinde daha fazla zaman ayırarak yönlendirme yapabilir. Öğrencilere farklı renklerde nota etiketleri, video, etkileşimli tahtadan uygulamalı etkinlikler verilebilir. Kılavuz çizimler kullanarak viyolonsel üzerindeki pozisyonları görsel olarak destekleyebiliriz."
+  ],
+  "enrichment": [
+    "Viyolonsel sanatçılarının performans videoları izletilerek bu notaların çalgı üzerindeki konumu ve çalma teknikleri gösterilebilir. Öğrenciler, video izlerken bu notaların fa anahtarındaki yerleriyle de ilişki kurabilirler. Ek olarak nota okuma becerilerini pekiştirmek amacıyla metronom eşliğinde bireysel veya grup çalışmaları yapılabilir. Bu tür etkinlikler, öğrencilere notaları doğru hızda ve teknikle seslendirme konusunda pratik yapma fırsatı sunar."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; kontrol listesi, performans görevi, öz değerlendirme ve akran değerlendirme formları ile ölçülebilir. Performans görevi olarak öğrencilerden re ve la tellerindeki notalardan oluşan bir etüt hazırlamaları istenebilir. Performans görevleri, analitik dereceli puanlama anahtarı, gözlem formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "VLS.3.2.1",
+    "Öğrenciler, öğretmenin yönlendirmesiyle gruplar hâlinde re ve la tellerindeki notaların yerlerini keşfetmek için viyolonsel üzerinde merakla inceleme yapar ( D3.3 , OB4 ) ( KB2.4 ). Gruplar, viyolonselin hangi bölgelerinde hangi notaların yer aldığını belirlemek için önce tahminlerde bulunur, ardından öğretmenlerine sorular sorarak ( E3.8 ) doğru bilgilere ulaşır ( KB2.6 ). Edindikleri bilgileri analiz ederek ( OB7 ), parmak pozisyonlarını bir kâğıda şema şeklinde işaretler ve grup içinde tartışırlar ( SDB2.2 ). Öğrenciler, öğretmenin verdiği etüdün bona ve solfejini yaparak ilgili notaların yerlerini ve ritmik yapısını çözümler. Öğrenciler doğru duruş ve tutuş pozisyonlarını alarak belirlenen notaları viyolonsel üzerinde deneyerek doğru sesleri bulmaya çalışır. Yay açısı ve parmak pozisyonlarına dikkat ederek sırasıyla re teli üzerinde mi, fa ve sol; la teli üzerinde si, do ve re notalarını çalmaya odaklanırlar. Bu süreçte, aynı zamanda her notanın parmak numaralarını gözlemleyip uygulayarak öğrenirler. Öğrenciler, çalgıya özgü teknikleri doğru bir şekilde kullanırken birbirlerinin parmak yerleşimlerini ve yay çekme tekniklerini gözlemler ve doğru kullanım için yapıcı önerilerde bulunurlar. Etüdü sırayla çalarak akıcılığını ve bütünlüğünü sağlamaya odaklanır. Her grup, etüdü diğer gruplara sunar ve dinleyenlerden diğerlerinin fikirlerine değer vererek geri bildirim alır ( SDB2.1 , SDB2.3 , D4.2 ). Geri bildirimler doğrultusunda etüdü geliştiren öğrenciler, etüdü akıcı bir şekilde seslendirirken müziksel bileşenleri doğru ve özverili şekilde uygulamaya odaklanır ( D16.3 , E3.2 ). Öğrenciler, etüdü çaldıktan sonra öz değerlendirme formlarıyla performanslarını analiz edebilir. Gruplar, akran değerlendirme formları ile birbirlerinin performansını değerlendirebilir. Performans görevi olarak öğrencilerin rela telleri üzerindeki notalardan oluşan bir etüt hazırlamaları istenebilir. Performans görevi gözlem formu ya da analitik dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "VLS.3.2.2",
+    "Öğrenciler, fa anahtarında re ve la tellerindeki notaların yerlerini çözümlemek için materyaller üzerinde inceleme yapar. Öğrenciler, nota defterleri, görsel materyaller veya dijital nota yazım programları gibi dijital araçlar kullanarak fa anahtarındaki çizgi ve aralıkların konumlarını belirler ve bu konumlar arasındaki ilişkileri analiz eder ( OB4 , OB2 ). Öğrenciler, fa anahtarındaki notaların isimleri, parmak numaraları ve viyolonsel üzerindeki yerleri arasındaki ilişkileri şema ve grafiklerle ifade eder. Bu süreçte, belirledikleri hedeflere ulaşmak için bir plan oluşturur ve bu planı düzenli çalışarak uygular ( D3.2 ). Öğrenciler, çözümledikleri bilgileri viyolonselde uygulayarak pekiştirir ve fa anahtarındaki notaların yerlerini viyolonsel üzerinde deneyimleyerek notalar arasındaki ilişkileri belirler. Bu süreçte, anlamadıkları noktaları netleştirmek için sorular sorar ve süreci derinleştirir ( E3.8 ). Ardından öğretmen rehberliğinde, kısa okuma alıştırmaları yaparak fa anahtarındaki notaları pekiştirirler. Öğrenciler, fa anahtarı üzerinde belirlenen notaları çalgıyla çalarak alıştırmalar yapar. Bu süreçte eğlenceli bir oyun aracılığıyla doğru notaları bulup çalmak için yarışabilirler ( E2.5 ). Oyun sonunda öğrendikleri bilgileri karşılaştırır, eksiklerini tamamlar ve geri bildirimlerle varsa hatalarını düzelterek süreçlerini geliştirebilirler ( D10.1 ). Akran değerlendirme formlarını kullanarak eksik veya hatalı noktaları tespit edebilirler ( SDB1.1 , SDB2.3 ). Öğrenciler, notaların doğru yerlerini kaydetme konusunda öz değerlendirme formları ile kendi süreçlerini analiz edebilir ( SDB1.2 ). Öğretmen de gözlem formu ya da kontrol listesi ile süreci değerlendirebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.1",
+      "D16.3",
+      "D3.2",
+      "D3.3",
+      "D4.2"
+    ],
+    "egilim": [
+      "E2.5",
+      "E3.2",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.4",
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1418"
+}

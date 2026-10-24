@@ -1,0 +1,47 @@
+{
+  "unitId": 81292003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Düşünme Eğitimi Dersi (Lise)",
+  "title": "3. ÜNİTE: VERİ ORGANİZASYONU VE AÇIKLAMA",
+  "hours": "12",
+  "description": "Bu ünitenin sonunda öğrenciler veri ve malumatları düzenleyebilecek, farklı açıklama türlerini ve açıklamaların yeterliliklerini değerlendirebilme yetilerini kazanacaklardır.",
+  "outcomes": [
+    {
+      "code": "DEL.3.1",
+      "title": "Farklı düşünme süreçlerindeki veri ve malumatları düzenleme yöntemlerini kullanır",
+      "processComponents": [
+        "Veri-malumat (enformasyon)-bilgi ayrımı üzerinde durulur.",
+        "Veri ve malumatları düzenleme teknikleri üzerinde durulur. Verilen veri ve malumatların bu tekniklerle düzenlenmesi sağlanır.",
+        "Verilen eksik veri ve malumatın tamamlanması sağlanır.",
+        "Veri ve malumatı düzenlemede örüntü tanımanın önemi üzerinde durulur.",
+        "Veriler ve malumatlar arasındaki nedensel bağlara değinilerek korelasyon ile nedensel bağ arasındaki ilişkinin irdelenmesi sağlanır.",
+        "Öndeyi ve doğrulama ön yargısı kavramları üzerinde durularak doğrulama ön yargısının yol açtığı yanlışlıkları irdeleyen bir metin yazılması sağlanır."
+      ]
+    },
+    {
+      "code": "DEL.3.2",
+      "title": "Açıklamaları türlerine göre ayırt eder",
+      "processComponents": [
+        "Anlama ve açıklama üzerinde durularak verilen farklı açıklama örneklerinin, türlerine (nedensel açıklama, varsayımsal-tümdengelimsel açıklama) göre sınıflandırılması sağlanır.",
+        "Açıklama etkinliğinde teorik terimlerin ve gözlem terimlerinin yeri ve önemi üzerinde durulur."
+      ]
+    },
+    {
+      "code": "DEL.3.3",
+      "title": "Bir açıklamayı yeterliliği açısından değerlendirir",
+      "processComponents": [
+        "Yeterli ve yetersiz açıklamalar arasındaki farkın analiz edilmesi sağlanır.",
+        "Açıklama sürecinde yaratıcı düşünmenin öneminin sorgulanması sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023112315487348-DUSUNME%20E%C4%9E%C4%B0T%C4%B0M%C4%B0%20D%C3%96P%2024ekim202.pdf"
+}

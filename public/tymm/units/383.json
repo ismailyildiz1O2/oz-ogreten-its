@@ -1,0 +1,114 @@
+{
+  "unitId": 383,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Sosyal Bilgiler Dersi",
+  "title": "2. ÖĞRENME ALANI: EVİMİZ DÜNYA",
+  "hours": "22",
+  "description": "Bu öğrenme alanında öğrencilerin yaşadıkları ilin göreceli konum özellikleri, yaşadıkları ilde doğal ve beşerî çevredeki değişimler, yaşadıkları ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik yapılması gerekenler ve ülkemize kara sınırı olan komşu devletlerin temel özellikleri ile ilgili bilgi ve beceriler kazanmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "SB.5.2.1",
+      "title": "Yaşadığı ilin göreceli konum özelliklerini belirleyebilme",
+      "processComponents": [
+        "a) Yaşadığı ilin göreceli konum özelliklerini belirler.",
+        "b) Yaşadığı ilin göreceli konum özelliklerini görselleştirir.",
+        "c) Yaşadığı ilin göreceli konum özelliklerini özetler."
+      ]
+    },
+    {
+      "code": "SB.5.2.2",
+      "title": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme",
+      "processComponents": [
+        "a) Yaşadığı ilde doğal ve beşerî çevrenin değişimine neden olan unsurları inceler.",
+        "b) Yaşadığı ilde doğal ve beşerî çevrenin değişiminden etkilenen unsurları inceler.",
+        "c) Yaşadığı ilde doğal ve beşerî çevrede meydana gelen değişimin etkilerini sorgular.",
+        "ç) Yaşadığı ilde doğal ve beşerî çevrede meydana gelen değişimin neden ve sonuçlarını elde ettiği bilgilere dayanarak ifade eder."
+      ]
+    },
+    {
+      "code": "SB.5.2.3",
+      "title": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlikleri düzenleyebilme",
+      "processComponents": [
+        "a) Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlik planı yapar.",
+        "b) Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik hazırladığı farkındalık etkinliğini uygular.",
+        "c) Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik hazırladığı farkındalık etkinliğini değerlendirir."
+      ]
+    },
+    {
+      "code": "SB.5.2.4",
+      "title": "Ülkemize komşu devletler hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Ülkemize komşu devletlerle ilgili bilgilere ulaşmak amacıyla kullanacağı kaynakları belirler.",
+        "b) Ülkemize komşu devletlerle ilgili bilgileri belirlediği kaynaklardan bulur.",
+        "c) Ülkemize komşu devletlerle ilgili belirlediği kaynaklardan edindiği bilgileri doğrular.",
+        "ç) Ülkemize komşu devletlerle ilgili belirlediği kaynaklardan edindiği bilgileri kaydeder."
+      ]
+    }
+  ],
+  "keyConcepts": "AFAD, afet, beşerî çevre, coğrafya, doğal çevre, göreceli konum, komşu devlet, sınır",
+  "support": [
+    "Öğrencilerden yaşadıkları il sınırına komşu olan illeri sıralamaları istenebilir.",
+    "Öğrencilerden yaşadıkları ilin eski ve yeni fotoğraflarını doğal ve beşerî çevrede meydana gelen benzerlik ve farklılıklar açısından karşılaştırmaları istenebilir.",
+    "Öğrencilerden yaşadıkları ili etkileyebilecek afetlerle ilgili bilgilerini yazılı veya sözlü olarak paylaşmaları istenebilir.",
+    "Öğrencilerden Dilsiz Komşu Ülkeler Haritası üzerinde kara sınırımız olan komşu devletleri farklı renkte boyamaları ve bu devletlerin isimlerini harita üzerine yazmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden yaşadıkları ilden farklı bir ilin göreceli konum özelliklerini yazılı ve görsel kaynaklarla incelemeleri istenir. Ayrıca öğrenciler öğretmen rehberliğinde dijital kaynakları da inceleyebilir. Öğrenciler tarafından bu iki ilin benzer ve farklı özelliklerine dair yazılı, görsel veya dijital bir ürün oluşturulabilir.",
+    "Mevcut verilerden yola çıkılarak yaşadıkları ilde gelecekte doğal ve beşerî çevrede meydana gelebilecek değişimlerle ilgili öğrenciler tarafından öngörülere dayalı bir rapor oluşturulabilir.",
+    "Öğrencilerden yaşadıkları ilde afetlerle ilgili faaliyetler gösteren resmî kurum ve sivil toplum kuruluşlarının çalışmalarını araştırmaları istenebilir. Araştırmalardan elde edilen bilgiler resim, afiş ya da poster olarak sunulabilir.",
+    "Öğrencilerden deniz sınırımız olan komşu devletlerden birini seçerek bu ülkeye dair merak ettiklerini araştırmaları ve araştırma sonuçlarına ilişkin yazılı ya da görsel bir ürün oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu öğrenme alanında yer alan öğrenme çıktıları; gözlem formu, kontrol listesi, derecelendirme ölçeği, karşılaştırma tablosu, balık kılçığı, bütüncül dereceli puanlama anahtarı ve performans görevi kullanılarak değerlendirilebilir.",
+    "Performans Görevi: Afet etkinlik planı hazırlama, bu planları görsel içeriklere dönüştürme ve ülke tanıtım kartı hazırlamaya yönelik görevdir.",
+    "Performans Görevi: Komşu devletleri tanıtan afiş tasarımı görevidir."
+  ],
+  "teachingApplications": [
+    "SB.5.2.1 Öğrencilerin yazılı ve görsel kaynaklardaki örnekleri inceleyerek yaşadıkları ilin göreceli konum özelliklerini belirlemeleri sağlanır ( OB1 , OB4 ). Bu amaçla ayrıca dijital kaynaklardan da yararlanılabilir ( OB2 ). Öğrencilerden verilen kaynaklardan hareketle yaşadıkları ilin başlıca yeryüzü şekilleri, su kaynakları, komşuları, önemli tarihî mekânlarına ilişkin örnekler vermeleri istenir. Bu bağlamda yaşadığı ildeki doğal ve tarihi güzellikleri korumanın önemi vurgulanır ( D19.3 ).",
+    "Öğrencilerin, yaşadıkları ilin göreceli konum özelliklerini tablo, Türkiye Dilsiz Mülki İdare Haritası veya görsellerle desteklenmiş bilgi kartlarından birini hazırlayarak görselleştirmeleri sağlanır ( E3.3 ). Oluşturulan tablo, Türkiye Dilsiz Mülki İdare Haritası veya görsellerle desteklenmiş bilgi kartlarının değerlendirilmesi için derecelendirme ölçeğinden yararlanılabilir.",
+    "Öğrencilerden kaynaklardan ve yapılan görselleştirmelerden yola çıkarak yaşadıkları ilin göreceli konum özelliklerini sözlü sunum olarak özetlemeleri istenir ( SDB2.1 , OB1 ). Öğrencilerin sunumları gözlem formu veya kontrol listeleri ile değerlendirilebilir.",
+    "SB.5.2.2 Öğrenciler, yaşadıkları ilde bulunan doğal ve beşerî çevrede geçmişten günümüze meydana gelen değişimleri fotoğraflar, resimler, gazete haberleri, hava fotoğrafları, şehir haritaları, şehir planları, sözlü tarih görüşmeleri üzerinden inceler ve değişime neden olan unsurları belirler ( KB2.6 , OB1 , OB4 , E3.2 ). Bu süreçte yıllara göre doğal ve beşerî çevredeki değişimi gösteren dijital uygulamalar da kullanılabilir ( OB2 ). Yaşadıkları ilde doğal ve beşerî çevrede değişen ve değişmeyen unsurlar büyük grup tartışmasıyla belirlenir. Öğrenci cevapları tahtaya yazılarak değişen ve değişmeyen unsurlarla ilgili karşılaştırma tablosu oluşturulur ( KB2.7 , OB7 ).",
+    "Verilen kaynaklar üzerinden öğrencilerin yaşadıkları ilde bulunan doğal ve beşerî çevrede geçmişten günümüze meydana gelen değişimin etkilediği unsurlardan su kaynakları, bitki örtüsü varlığı, arazi kullanımı, yerleşim alanları, ulaşım sistemleri ve nüfus özelliklerini incelemeleri istenir ( E3.4 , SDB2.1 , OB4 ).",
+    "Öğrencilerin yaşadıkları ilde bulunan doğal ve beşerî çevrede geçmişten günümüze meydana gelen değişimin su kaynaklarına, bitki örtüsü varlığına, arazi kullanımına, yerleşim alanlarına, ulaşım sistemlerine ve nüfus özelliklerine olan etkisini sorgulamaları sağlanır. Öğrencilerden yaşadıkları ildeki doğal ve beşerî çevrede meydana gelen değişimlerin etkileri ile ilgili merak ettikleri soruları sormaları istenir ( E3.8 ).",
+    "Öğrenciler verilen kaynakları tekrar inceleyerek merak ettikleri sorular doğrultusunda yaşadıkları ilde bulunan doğal ve beşerî çevrede geçmişten günümüze meydana gelen değişimin neden ve sonuçlarını ifade eder. Bu süreçte öğrencilerden yaşadığı ilde bulunan doğal ve beşerî çevrede meydana gelen değişimin sonuçlarını altı şapkalı düşünme tekniği ile ifade etmeleri istenebilir ( SDB3.3 ). Ayrıca gelecek nesillere daha temiz bir çevre bırakmak için su kaynakları, bitki örtüsü varlığı veya yerleşim alanları gibi çevresel faktörlerin korunması konusunda çaba harcamanın önemine değinilir ( D18.3 ). Öğrenciler, bireysel veya grup hâlinde yaşadıkları ildeki doğal ve beşerî çevrede geçmişten günümüze meydana gelen değişimin neden ve sonuçlarını balık kılçığı diyagramında yazılı olarak ifade eder ( SDB2.1 ). Balık kılçığı diyagramları dereceli puanlama anahtarı ile değerlendirilir.",
+    "SB.5.2.3 Verilen yazılı ve görsel kaynaklar üzerinden yaşanılan ildeki doğa olaylarının insanların etkisi ile afete dönüşme riskleri öğrenciler tarafından belirlenir ( OB1 , OB4 ). Bu süreçte dijital kaynaklardan, örnek olaylardan ve AFAD İl Afet Risk Azaltma Planı'ndan yararlanılabilir ( OB2 , SDB2.2 , E3.7 ). Öğrencilerden performans görevi kapsamında afetlerin etkilerini azaltmak amacıyla afet öncesi yapılması gerekenlere yönelik duyarlılık değeri kapsamında grup çalışması yoluyla bir farkındalık etkinlik planı hazırlamaları istenir ( D5.3 ). Farkındalık etkinlik planlarının tasarımında, afet bilincine sahip olmanın afetlerin etkilerini azaltmadaki rolünü göz önünde bulundurmaları vurgulanır ( SDB2.2 , E3.7 ).",
+    "Gruplar tarafından hazırlanan farkındalık etkinlikleri ile ilgili sunum, resim, afiş veya posterler hazırlanır. Bunlar sınıf ortamı, çevrim içi ortamlar, okul panoları, okul bahçesi veya koridorunda paylaşılır ve uygun ortamlarda uygulanır ( SDB2.1 , SDB2.2 .). Bu süreçte afet ve acil durumlarda bilgi kirliliğini önlemek amacıyla güvenilir bilgi kaynaklarının neler olduğu açıklanır.",
+    "Gruplara afet farkındalık etkinliklerine yönelik öğretmenleri ya da akranları tarafından yazılı veya sözlü olarak geri bildirimler verilir. Bu bildirimler doğrultusunda gruplar tarafından yeniden düzenlenen farkındalık etkinlikleri ( SDB2.1 ) bütüncül dereceli puanlama anahtarı veya derecelendirme ölçeğiyle değerlendirilebilir.",
+    "SB.5.2.4 Kara sınırımız olan komşu devletlerle ilgili bilgilere ulaşmak için kullanılacak yazılı ve görsel kaynaklar öğretmen rehberliğinde belirlenir ( OB1 , OB4 ) . Bu amaçla ayrıca dijital kaynaklardan da yararlanılabilir ( OB2 ).",
+    "Öğretmen tarafından bağımsızlık sembollerine ilişkin açıklamalar yapılır. Bu süreçte ülkemizin bağımsızlık sembollerine değinilir. Belirlenen kaynaklar üzerinden öğrenciler tarafından kara sınır komşumuz olan devletlerin başkentleri, bağımsızlık sembolleri ve ülkemize göre konumlarına ilişkin bilgiler bulunur ( OB1 , OB4 ). Yunanistan, Bulgaristan, Suriye ve Gürcistan'ın denizden de sınır komşumuz olduğu vurgusu yapılır. Vatanseverlik değeri kapsamında bireyin ülkesinin sınırlarını ve sınır komşularını tanımanın önemi vurgulanır ( D19.3 ).",
+    "Öğrencilerden kara sınırımız olan komşu devletlerle ilgili ulaşılan bilgileri farklı türden en az üç kaynakla karşılaştırarak doğrulamaları istenir ( E3.10 ).",
+    "Öğrencilerden performans görevi olarak bireysel veya grup hâlinde komşu devletleri tanıtan afiş hazırlamaları ve bu afişleri kullanarak komşu devletleri tanıtan kısa sunumlar yapmaları istenir ( SDB2.2 ). Hazırlanan afişler bütüncül dereceli puanlama anahtarı veya derecelendirme ölçekleriyle değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D18.3",
+      "D19.3",
+      "D5.3"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.2",
+      "E3.3",
+      "E3.4",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.6",
+      "KB2.7"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/383"
+}

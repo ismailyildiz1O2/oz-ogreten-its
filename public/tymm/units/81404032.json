@@ -1,0 +1,126 @@
+{
+  "unitId": 81404032,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "32. ÜNİTE: KARATEDE TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "60",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.8.4.1",
+      "title": "Karatede temel duruş tekniklerini açıklar",
+      "processComponents": [
+        "Yoi (Yoy) duruş tekniği üzerinde durulur.",
+        "Heisoku-Dachi (Heysoku-Daçi) duruş tekniği üzerinde durulur.",
+        "Musubi-Dachi (Musubi-Daçi) duruş tekniği üzerinde durulur.",
+        "Heiko-Dachi (Heyko-Daçi) duruş tekniği üzerinde durulur.",
+        "Soto Hachiji-Dachi (Soto Hajiji-Daçi) duruş tekniği üzerinde durulur.",
+        "Uchi Hachiji-Dachi (Uçi Haji-Daçi) duruş tekniği üzerinde durulur.",
+        "Teiji-Dachi (Teiji-Daçi) duruş tekniği üzerinde durulur.",
+        "Renoji-Dachi (Renoji-Daçi) duruş tekniği üzerinde durulur.",
+        "Sagi-Ashi-Dachi (Sagi-Aşi-Daçi) duruş tekniği üzerinde durulur.",
+        "Sanchin-Dachi (Sançin-Daçi) duruş tekniği üzerinde durulur.",
+        "Neko-Ashi-Dachi (Neko-Aşi-Daçi) duruş tekniği üzerinde durulur.",
+        "Kosa-Dachi (Kosa-Daçi) duruş tekniği üzerinde durulur.",
+        "Zenkutsu-Dachi (Zenkuts)u-Daçi) duruş tekniği üzerinde durulur.",
+        "Kiba-Dachi (Kiba-Daçi) duruş tekniği üzerinde durulur.",
+        "Shiko-Dachi (Şiko-Daçi) duruş tekniği üzerinde durulur.",
+        "Kokutsu-Dachi (Kokutsu-Daçi) duruş tekniği üzerinde durulur.",
+        "Sochin-Dachi (Soçin-Daçi) duruş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.8.4.2",
+      "title": "Karatede temel duruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.8.4.3",
+      "title": "Karatede elle yapılan atak tekniklerini açıklar",
+      "processComponents": [
+        "Gyaku-Tsuki (Gıyaku-Suki) atak tekniği üzerinde durulur.",
+        "Kizami-Tsuki (Kizami-Suki) atak tekniği üzerinde durulur.",
+        "Oi-Tsuki (Oyi-Suki) atak tekniği üzerinde durulur.",
+        "Ura-Tsuki (Ura-Suki) atak tekniği üzerinde durulur.",
+        "Tate-Tsuki (Tate-Suki) atak tekniği üzerinde durulur.",
+        "Yama-Tsuki (Yama-Suki) atak tekniği üzerinde durulur.",
+        "Tate-Uraken-Uchi (Tate-Uraken-Uçi) atak tekniği üzerinde durulur.",
+        "Mae-Empi-Uchi (Maye-Empi-Uçi) atak tekniği üzerinde durulur.",
+        "Yoko-Empi-Uchi (Yoko-Empi-Uçi) atak tekniği üzerinde durulur.",
+        "Age-Empi-Uchi (Age-Empi-Uçi) atak tekniği üzerinde durulur.",
+        "Ushiro-Empi-Uchi (Uşhiro-Empi-Uçi) atak tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.8.4.4",
+      "title": "Karatede elle yapılan atak tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.8.4.5",
+      "title": "Karatede ayakla yapılan atak tekniklerini açıklar",
+      "processComponents": [
+        "Mae-Geri-Kekomi (Maye-Geri-Kekomi) atak tekniği üzerinde durulur.",
+        "Yoko-Geri-Kekomi (Yoko-Geri-Kekomi) atak tekniği üzerinde durulur.",
+        "Ushiro-Geri (Uşiro-Geri) atak tekniği üzerinde durulur.",
+        "Hiza-Geri (Hiza-Geri) atak tekniği üzerinde durulur.",
+        "Fumikomi-Geri (Fumi-Komi-Geri) atak tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.8.4.6",
+      "title": "Karatede ayakla yapılan atak tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.8.4.7",
+      "title": "Karatede dairesel olarak yapılan teknikleri açıklar",
+      "processComponents": [
+        "Mawashi-Tsuki (Mavaşi-Suki) dairesel tekniği üzerinde durulur.",
+        "Mawashi-Empi-Uchi (Mavaşi-Empi-Uçi) dairesel tekniği üzerinde durulur.",
+        "Shuto-Uchi (Şuto-Uçi) dairesel tekniği üzerinde durulur.",
+        "Mawashi-Geri (Mavaşi-Geri) dairesel tekniği üzerinde durulur.",
+        "Mikazuki-Geri (Mikasuki-Geri) dairesel tekniği üzerinde durulur.",
+        "Ushiro-Ura-Mawashi-Geri (Uşhiro-Ura-Mavaşi-Geri) dairesel tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.8.4.8",
+      "title": "Karatede dairesel olarak yapılan teknikleri uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.8.4.9",
+      "title": "Karatede blok tekniklerini açıklar",
+      "processComponents": [
+        "Gedan-Barai (Gedan-Barai) blok tekniği üzerinde durulur.",
+        "Age-Uke (Age-Uke) blok tekniği üzerinde durulur.",
+        "Shuto-Uke (Şito-Uke) blok tekniği üzerinde durulur.",
+        "Uchi-Uke (Uçi-Uke) blok tekniği üzerinde durulur.",
+        "Soto-Uke (Soto-Uke) blok tekniği üzerinde durulur.",
+        "Morote-Uke (Morote-Uke) blok tekniği üzerinde durulur.",
+        "Osae-Uke (Osae-Uke) blok tekniği üzerinde durulur.",
+        "Jodanjuji-Uke (Codan-Juji-Uke) blok tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.8.4.10",
+      "title": "Karatede blok tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.8.4.11",
+      "title": "İzlediği veya katıldığı karate müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

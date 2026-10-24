@@ -1,0 +1,60 @@
+{
+  "unitId": 1455,
+  "grade": 0,
+  "gradeName": "Ortaokul Seçmeli",
+  "subject": "Medya Okuryazarlığı Dersi",
+  "title": "1. Ünite: Medya Ve Medya Okuryazarlığı",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MOY.1.1",
+      "title": "Medya kavramını ve medyanın işlevlerini özetleyebilme",
+      "processComponents": [
+        "a) Medya kavramını ve medyanın işlevlerini çözümler.",
+        "b) Medyanın işlevlerini sınıflandırır.",
+        "c) Medyanın yaşamımızdaki yeri ve önemini yorumlar."
+      ]
+    },
+    {
+      "code": "MOY.1.2",
+      "title": "Medyanın birey ve toplum üzerindeki etkileriyle ilgili çıkarım yapabilme",
+      "processComponents": [
+        "a) Örnek olaylar üzerinden medyanın birey ve toplum üzerindeki etkileriyle ilgili varsayımda bulunur.",
+        "b) Medyanın birey ve toplum üzerindeki etkilerini listeler.",
+        "c) Medyanın birey ve toplum üzerindeki olumlu ve olumsuz etkilerini karşılaştırır.",
+        "ç) Medyayı doğru kullanmaya yönelik önermeler sunar.",
+        "d) Medyayı doğru kullanmanın gerekliliğiyle ilgili önerileri değerlendirir."
+      ]
+    },
+    {
+      "code": "MOY.1.3",
+      "title": "Medya okuryazarlığının temel ilkelerini kullanarak medya içerikleri hakkında eleştirel düşünebilme",
+      "processComponents": [
+        "a) Medya içeriklerini medya okuryazarlığının temel ilkelerini kullanarak sorgular.",
+        "b) Medya içeriklerini medya okuryazarlığının temel ilkelerine göre sorgulamanın gerekliliği ile ilgili akıl yürütür.",
+        "c) Günlük hayatta karşılaştığı medya içerikleri hakkında medya okuryazarı olarak akıl yürüt me yoluyla çıkarımlarını yansıtır."
+      ]
+    }
+  ],
+  "keyConcepts": "algı yönetimi, bilgi çarpıtma (yanlış bilgilendirme), değer oluşturma, editoryal süreç, ka muoyu oluşturma, kanaat oluşturma, kurgu, manipülasyon, medya, medya okuryazarlığı, reklam",
+  "support": [
+    "Öğrencilere medya ve medyanın işlevlerini, medyanın birey ve toplum üzerindeki etkilerini anlatan MEB onaylı dijital platformlar veya öğretmen rehberliğinde belirlenen nitelikli med ya metinleri (basılı materyaller, görsel-işitsel belgeler) üzerinden uygulamalar yaptırılabilir. Öğrencilere farklı perspektiflerden yayın yapan gazete kupürleri veya dergi sayfaları geti rilir. Öğrencilerden aynı olayın farklı gazetelerde nasıl sunulduğunu (başlık, görsel seçimi, kullanılan dil) karşılaştırmaları istenebilir. Bu, “kurgu ve gerçek” ayrımını dijital araçlara ih tiyaç duymadan analiz etmelerini sağlar. Öğretmen tarafından medyada manipülasyona veya etik dışı reklam kullanımına örnek “kısa hikâye/senaryolar” hazırlanabilir. Öğrencilere, “Bu durumda ne yapardın?”, “Bu haberin toplum üzerindeki etkileri neler olabilir?” gibi soru lar sorulabilir. Öğrenciler, bir medya içeriğinin (örneğin bir reklamın) oluşturulma sürecini canlandırılabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden medyanın haber, bilgi, eğlence ve toplumu bilgilendirme gibi farklı işlevlerini örneklerle yansıtan bir slayt gösterisi hazırlamaları, medyanın çocuklar üzerindeki olum suz etkileri veya yanlış bilgiyi yaymanın toplumsal güveni nasıl etkilediği konusu hakkında arkadaşlarıyla sınıf röportajı yapmaları, köşe yazarı olduklarını varsayarak medyanın toplu ma olumlu ve olumsuz etkileriyle ilgili bir örnek olay veya köşe yazısı yazmaları istenebilir."
+  ],
+  "assessment": [
+    "Bu ünitede yer alan öğrenme çıktıları performans görevleri, kontrol listesi, kavram ağı haritası, listeleme formu, gözlem formu, öz değerlendirme formu, akran değerlendirme formu, beyin fırtınası, eşleştirme oyunu, panel, ödev, grup çalışması, dereceli puanlama ölçeği vb. ile değerlendirilebilir. Günlük yaşamda karşılaştığı bir medya içeriğini medya okuryazarlığının temel ilkeleri açısından değerlendirip bir sunu hazırlama için performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "MOY.1.1.",
+    "Öğretmen, öğrencilere farklı medya araçlarına (televizyon, gazete, sosyal medya, genel ağ, radyo vb.) ilişkin kısa metinler veya görseller sunar ( OB1 , OB2 , OB4 ). Öğrencilerin bu örnekleri tarafsız bir bakış açısıyla inceleyerek dürüstlük ve doğruluk ilkesi ( D3.3 , D6.2 ) bağlamında “Medya nedir?”, “Hangi işlevleri yerine getiriyor?” soruları üzerinden medyanın temel özelliklerine dair çözümleme yapmaları sağlanır. Böylece öğrencilerin araştırmacı ve sorgulayıcı yönleri güçlendirilir ( E1.1 , KB2.4 ). Öğretmen rehberliğinde oluşturulan grupların “Medyanın İşlevleri” konulu posterler hazırlamaları teşvik edilir ( SDB2.2 ). Her öğrencinin grup içindeki sorumluluğuna göre farklı haber başlıklarını posterlerdeki uygun işlev kategorisine yerleştirmesi sağlanarak sorumluluk değeri desteklenir ( E3.2 , E3.3 , D16.3 ). Öğrenciler, çözümledikleri örnekleri “bilgilendirme, eğlendirme, yönlendirme, eğitme” gibi medya işlevlerine göre sınıflandırarak listeler ( SDB3.3 , KB2.5 ). Sürecin sonunda öğretmen, öğrencilerden son zamanlarda en çok etkilendikleri bir medya haberini paylaşmalarını ister. Her öğrencinin günlük yaşamından örnekler vererek medyanın yaşamındaki yerini ve önemini kendi cümleleriyle yorumlamasına imkân tanınır ( SDB1.3 ).",
+    "MOY.1.2.",
+    "Öğretmen, öğrencilerin seçilen çeşitli medya içerikleri (haber, reklam, sosyal medya payla şımı vb.) üzerinde düşünmelerini sağlar. Öğrencilerin medya içeriklerinin kamuoyu oluşturma sürecinde kurgu ve dil kullanımı yoluyla toplumsal algıyı nasıl manipüle edebildiğine dair örnek olay ve senaryolar üzerinden düşünmeleri sağlanır. Öğrenciler; bu içeriklerin bireylerin düşünce, davranış, tutum ve toplum üzerindeki olası etkileri hakkında varsayımlarda bulunurlar ( SDB2.3 ). Öğretmen rehberliğinde gruplar oluşturularak “Medyanın toplum üzerindeki etkileri nelerdir?” sorusu etrafında tartışmalar yürütülür, bu sayede öğrencilerin arkadaşları ile etkili iletişim kurarak ( D4.2 ) gözlem ve tartışma yoluyla medyanın etkilerini fark etmelerine imkân tanınır ( SDB2.2 , KB2.5 ). Medyanın işlevleri ile birey, aile, toplum ve yönetimin kamu politikaları üzerindeki etkileri irdelenerek medyanın aile içi iletişimi güçlendirmedeki rolü ( D2.3 ) değer bağlamında desteklenir. Öğretmen, öğrencilerden medyanın işlevlerine dair bir kavram ağı oluşturmalarını ister. Gruplar, hazırladıkları listelerdeki örnekleri olumlu ve olumsuz etkiler bağlamında karşılaştırarak analiz eder ( E3.1 , OB1 , KB2.7 ). Öğretmen, öğrencilerden medyayı doğru kullanım alışkanlıklarını değerlendirebilecekleri bir kontrol listesini doldurmalarını ister ( E3.2 ). Elde edilen bulgulardan hareketle öğrenciler, medya içeriklerinin daha bilinçli kullanılmasına yönelik önermeler sunar ( SDB3.3 ). Son aşamada öğrenciler; medyanın birey, aile, toplum ve yönetimin kamu politikaları üzerindeki etkilerini analiz ederek içeriklerin akıl süzgecinden geçirilmesi gerektiğini ve doğru medya kullanımının gerekliliğini değerlendirirler ( E3.1 ). Süreç boyunca medyanın aile içi iletişimi destekleyici yönü ön plana çıkarılarak ( D2.3 ) bu değerin içselleştirilmesi sağlanır.",
+    "MOY.1.3.",
+    "Öğretmen, öğrencilerin eleştirel sorgulama yetilerini geliştirmek amacıyla medya okurya zarlığının temel ilkelerini sunar ( OB1 ). Medya okuryazarlığının erişim, çözümleme, değerlendirme ve üretim becerileri; geleneksel medyanın yanı sıra dijital platformlar ve sosyal medya örnekleri üzerinden sorgulanır ( OB7 , KB2.8 ). Medya içeriklerinin üretim sürecinde kurgu ve editoryal süreçlerin etkisi üzerine beyin fırtınası yapılarak öğrencilerin medya etiği çerçevesinde topluma karşı sorumluluklarının farkında olarak içerik üretmelerinin önemi üzerinde durulur ( D16.2 , SDB2.3 ). Öğrenciler, sosyal medya algoritmalarının ve içerik önerme sistemlerinin kullanıcıyı nasıl yönlendirdiğini analiz ederler. Tanıtım, yönlendirme ve kâr amacı güden içeriklerin etkileri incelenirken şu sorular yöneltilir: “Bu içeriği kim üretti?”, “Amacı neydi?”, “Algoritma bu içeriği neden karşıma çıkardı?”, “İçerik neyi gizledi?” ( E3.9 , E3.10 , KB2.8 ). Yazılı ve görsel-işitsel medyada yayımlanmış hatalı veya kurgusal bir haber örneğinden yola çıkılarak bilginin doğruluğu sorgulanır (E3.4 ). Bu aşamada öğrenciler, dijital doğrulama araçlarını kullanarak bilginin kaynağını teyit ederler. “Bu içeriği sorgulamak ve doğrulamak neden önemlidir?” sorusu etrafında süreç değerlendirilir ( E3.5 ). Bilgi çarpıtma kavramı tanımlanarak öğrencilerde yanlış bilgilendirmenin toplumsal güvene ve millî birlik bilincine etkileri konusunda davranış geliştirmeleri sağlanır ( D14.3 ). Güncel bilgi ve haberlerin doğrulanmasında İletişim Başkanlığına bağlı faaliyet gösteren Dezenformasyonla Mücadele Merkezi (DMM) gibi resmî doğrulama kaynaklarından yararlanılması önerilir. Bilgi çarpıtma ve yanlış bilgilendirme ile mücadele yöntemlerine dair grup çalışmaları yürütülür; öğretmen, öğrencilerin yapay zekâ tarafından üretilmiş içerikleri ayırt etme üzerine kararlılıkla denemeler yapmalarını sağlar. Öğrenciler öğretmen rehberliğinde gruplara ayrılarak verilen örnek üç haber üzerinden uygulama yapar. Yapay zekâyla üretilmiş içerikleri veya yalan haberi ayırt etmek amacıyla eylem planı hazırlar. Böylece öğrenciler araştırmacı ve sorgulayıcı yönlerini fark eder ( D3.3 , SDB2.2 ). Öğrenciler günlük yaşamda karşılaştıkları bir medya içeriğini medya okuryazarlığının temel ilkeleri ve dijital doğrulama araçları açısından değerlendirerek çıkarımlarını yansıtırlar. Bu çıkarımlar doğrultusunda, dijital içerik yönetimini de içeren kapsamlı bir sunu hazırlamaları için performans görevi verilebilir; çalışmalar dereceli puanlama ölçekleri ile değerlendirilebilir."
+  ],
+  "skills": [],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1455"
+}

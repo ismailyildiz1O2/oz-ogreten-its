@@ -1,0 +1,74 @@
+{
+  "unitId": 15,
+  "grade": 0,
+  "gradeName": "Genel",
+  "subject": "Matematik Dersi Hazirlik 2. TEMA: MANTIKSAL ÇIKARIM Teması",
+  "title": "2. TEMA: MANTIKSAL ÇIKARIM",
+  "hours": "20",
+  "description": "Bu temada öğrencilerin mantıksal çıkarım gerektiren problemleri farklı stratejiler kullanarak çözebilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "MAT.H.2.1",
+      "title": "Mantıksal çıkarım gerektiren problemleri çözebilme",
+      "processComponents": [
+        "a) Problemlerde verilen matematiksel yapıları belirler.",
+        "b) Problemlerde verilen matematiksel yapılar ile problemlere uygun farklı matematiksel temsiller arasındaki ilişkileri belirler.",
+        "c) Problemlerde verilen matematiksel yapıları farklı matematiksel temsillere dönüştürür.",
+        "ç) Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.",
+        "d) Elde ettiği ve yorumladığı farklı temsillere dayalı problemlerin çözümleri için stratejiler oluşturur.",
+        "e) Karşılaşılan problemlerde seçtiği çözüm stratejilerini kullanır.",
+        "f) Kullandığı çözüm stratejilerini kontrol eder.",
+        "g) Çözümüne ulaştığı problemler için olası farklı çözüm stratejilerini inceler.",
+        "ğ) Çözüme ulaştıran farklı stratejilere yönelik çıkarımlar yapar.",
+        "h) Çözüme ulaştıran stratejilere yönelik çıkarımlarını bu stratejilerin kullanılabileceği başka problemler açısından değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "ağaç şeması, mantıksal çıkarım",
+  "support": [
+    "Öğrencilere akış şemaları oluşturma, sistematik liste yapma, tablo oluşturma gibi stratejiler kullanmayı gerektiren çalışma kâğıtları verilebilir. Bununla ilgili dijital içerikler incelenebilir. Bu stratejilerin kullanıldığı basit muhakemelere dayalı mantıksal çıkarım gerektiren problemler tercih edilebilir. Benzer nitelikte daha fazla problem incelenerek öğrencilerin zihin alışkanlıkları kazanmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Satranç, sudoku, rubik küp, jenga, mangala gibi oyunlar incelenebilir. Oyun sırasındaki belli hamleler veya oyunda kullanılan taşlar üzerinden mantıksal çıkarım gerektiren problemler çözülebilir. Öğrencilerden benzer oyunlar tasarlayarak bu oyunlar üzerinden mantıksal çıkarım gerektiren problem üretmeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, çalışma kâğıdı ve performans görevi ile değerlendirilebilir.",
+    "Öğrencilere ağaç şeması, sistematik listeleme, diyagram ve tablo temsilinden yararlanma gibi farklı çözüm stratejilerinin kullanımına uygun mantıksal çıkarım gerektiren problemlerin yer aldığı çalışma kâğıdı verilebilir. Çalışma kâğıdı, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Öz değerlendirme formuyla öğrencilerin kendilerini değerlendirmeleri istenebilir.",
+    "Farklı disiplinlerde karşılaşılan ve mantıksal çıkarım gerektiren problem durumlarına ilişkin performans görevinin değerlendirilebilmesi için hazırlık, içerik ve sunum süreçlerini içine alan derecelendirme ölçeği kullanılabilir."
+  ],
+  "teachingApplications": [
+    "MAT.H.2.1 Sözel mantık problemleri, zekâ soruları, bilmeceler, kelime oyunları, nim oyunları gibi farklı soru veya problemlerin mantıksal çıkarım gerektirdiği üzerinde durularak mantıksal çıkarım kavramının anlamlandırılması üzerine çalışmalar yapılır. Kimyada maddelerin homojen karışım oluşturup oluşturmama bilgisine göre bir karışımdaki maddelerin türlerinin belirlenmesi; maddenin katı, sıvı veya gaz hâlinde olduğu sıcaklık aralıklarına göre sıcaklığı sabit olan bir ortamda belirli hâllerde bulunan maddelerin türlerinin belirlenmesi; biyolojide besleme-beslenme ilişkilerine göre canlıların yaşayabilecekleri uygun ekolojik koşulların belirlenmesi gibi farklı disiplinlerde karşılaşılan ve mantıksal çıkarım gerektiren durumların neler olduğuna dair sınıf içi tartışmalar yapılır ( SDB2.1 , SDB3.3 , E1.1 ) .",
+    "Problem örnekleri üzerinden gruplandırma, örüntü elde etme, sistematik liste yapma, sıralama gibi stratejiler uygulanarak matematiksel temsiller ile problemdeki algoritmik yapılar arasındaki ilişkiler belirlenir ( E3.6 ) . Belirlenen ilişkilerden hareketle problemlerde yer verilen bilgilere dayalı olarak sözel veya görsel temsilleri tablolaştırma, cebirsel temsil elde etme gibi matematiksel dil veya temsillerin kullanılması sağlanır ( OB1 , OB4 , MAB3 ) . Dönüştürülen temsillerin problem bağlamındaki anlamı ifade edilir. Örneğin bir kısmı oynanmış tic tac toe (tik tak to), sudoku gibi bir oyuna ait görsel verilerek oyunun kalan kısmının kaç farklı şekilde oynanabileceği sorulur. Sorunun çözümü için olası durumlar belirlenip her bir olası durum için yapılabilecek farklı hamleler, tablo ile temsil edilir. Ardından farklı hamlelerin sayısı, tablodan elde edilen veriler yardımıyla basit sayma stratejileri ile bulunur ( OB4 ) . Bu tür etkinlikler esnasında öğrencilerden disiplinli ve istikrarlı çalışma alışkanlıkları geliştirmesi beklenir ( D3.1 ) .",
+    "Öğrencilerin karşılaşılan problemlerde elde edilen mantıksal çıkarımla ilgili olarak ağaç şeması, sistematik listeleme, diyagram ve tablo temsilinden yararlanma gibi çözüm stratejilerinden uygun olanı belirlemeleri sağlanır ( SDB1.2 , SDB3.2 , E3.7 , MAB3 ) . Öğrencilerden belirlenen çözüm stratejilerinden birini kullanarak problemi çözmeleri beklenir. Öğrenciler, çözülen problemin sonucunu farklı çözüm stratejileriyle elde edilen diğer çözümlerin sonuçlarıyla karşılaştırmaya teşvik edilir ( E3.6 ) .",
+    "Örneğin üç kişinin tiyatro, sinema ve müzik branşlarını ilgi düzeylerine göre puanladıkları varsayılsın. Buna göre her bir kişinin bu üç branş içerisinden en çok hoşlandığına 3, daha az hoşlandığına 2, en az hoşlandığına 1 puan verdiği kabul edilsin. Bu kişilerin yaptıkları puanlamalarla ilgili aşağıdaki bilgiler verilsin. • Herkesin en az hoşlandığı branş, birbirinden farklı olmuştur. • Müzik, herhangi bir kişinin en çok hoşlandığı branş olmamıştır. • Tiyatro branşına verilen puanlar, birbirinden farklıdır. Verilen bilgilere göre sinema branşına verilen toplam puan sorulduğunda öğrencilerin problemin çözümü için tablo temsilinden yararlanmaları beklenir. Buna göre oluşturulacak tablo, her bir kişinin branşlara verebileceği puanlar göz önünde tutulup öğrenciler tarafından doldurulur. Doldurulan tablodan yararlanılarak problem çözülür. Aynı problemin çözümü için diyagram da oluşturulabilir. Buna göre her bir kişinin branşlara verebileceği puanlar göz önünde tutulup kişiler ile branşlar oklarla eşleştirilir. Bu şekilde elde edilen diyagram yardımıyla problem çözülür. Elde edilen sonuç, tablo temsilinden yararlanılarak bulunan sonuç ile karşılaştırılır.",
+    "Mantıksal çıkarım gerektiren problemlerin çözümlerinde öğrencilerden farklı yaklaşımlar ortaya koymaları, argümanlar ve karşı argümanlar geliştirmeleri istenir ( SDB3.2 ) . Aynı problem farklı çözüm stratejileri ile çözüldükten sonra hangi çözüm stratejisinin daha pratik, kolay ve anlaşılır olduğu hakkında her öğrencinin fikir yürütmesi için öğrencilere gerekli zaman tanınır ( SDB1.1 ) . Çözüm stratejisini bulan öğrencilerin diğer arkadaşlarının da bir çözüm stratejisi geliştirmelerini beklemesi sağlanır. Öğrencilerin tüm fikirleri mütevazı bir şekilde dikkate alıp arkadaşlarından gelen bilgi, öneri ve eleştirilere açık olması sağlanarak sınıf içi tartışmalar yapılır ( SDB2.3 , D10.3 ) . Bu sayede öğrencilerin arkadaşlarının farklı fikirlerine saygı duymaları sağlanır ( D14.1 ) . Öğrencilerin hangi çözüm stratejisinin kullanımının hangi durumlarda daha uygun olduğunu anlamaları beklenir. Böylelikle öğrencilerin muhakeme, görselleştirme, ilişkilendirme, esneklik ve iletişim gibi becerilerinin geliştirilmesi desteklenir ( SDB2.1 , SDB3.2 ) . Öğrencilere mantıksal çıkarım gerektiren problem durumlarına yönelik performans görevi verilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D14.1",
+      "D3.1"
+    ],
+    "egilim": [
+      "E1.1",
+      "E3.6",
+      "E3.7"
+    ],
+    "alan": [
+      "MAB3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.3",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/15"
+}

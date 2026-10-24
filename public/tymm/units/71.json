@@ -1,0 +1,74 @@
+{
+  "unitId": 71,
+  "grade": 5,
+  "gradeName": "5. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "5. ÜNİTE: MİMARİMİZDE DİNÎ MOTİFLER",
+  "hours": "10",
+  "description": "Bu ünitenin teması kültürdür. Ünitede mimarimizde dinî motifler ele alınmaktadır. Öğrencilerin dinin mimariye etkisini çözümlemeleri, camilerin iç ve dış bölümlerini sınıflandırmaları ve kültürümüzde yer alan cami örneklerini karşılaştırmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "DKAB.5.5.1",
+      "title": "Dinin mimarimize etkisini çözümleyebilme",
+      "processComponents": [
+        "a) Dinin mimariye etki ettiği hususları araştırır.",
+        "b) Dinin mimariye etki ettiği hususlar arasındaki ilişkiyi inceler."
+      ]
+    },
+    {
+      "code": "DKAB.5.5.2",
+      "title": "Camilerin bölümlerini tanıyabilme",
+      "processComponents": [
+        "a) Camilerin bölümleri ile ilgili ölçüt belirler.",
+        "b) Camilerin bölümlerini ayrıştırır.",
+        "c) Camilerin bölümlerini iç ve dış olarak tasnif eder.",
+        "ç) Camilerin iç ve dış bölümlerini listeler."
+      ]
+    },
+    {
+      "code": "DKAB.5.5.3",
+      "title": "Kültürümüzde yer alan cami örneklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Kültürümüzde yer alan cami örneklerinin özelliklerini araştırır.",
+        "b) Kültürümüzde yer alan cami örneklerinin benzer özelliklerini listeler.",
+        "c) Kültürümüzde yer alan cami örneklerinin farklı özelliklerini listeler."
+      ]
+    }
+  ],
+  "keyConcepts": "cami, mescit, mimari",
+  "support": [
+    "Öğrencilerden dinin etkisiyle yapılan mimari eserlerin görselleri inceleyerek bu eserlerin yapılış amaçlarının anlatıldığı bir sunu hazırlaması istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden farklı mimari eserleri inceleyerek bunlar hakkında belgesel hazırlaması istenebilir. Görsel sanatlar dersinde öğrendikleri bilgiler kullanılarak öğrencilere farklı cami tasarımları yaptırılabilir. Dijital platformlar aracılığıyla cami ziyareti yaptırılabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin ölçme değerlendirme sürecinde açık uçlu soru, kısa cevaplı soru, çalışma yaprağı, bulmacalar (anagram, çengel, sözcük avı vb.), görsel eşleştirme kartları ve öz değerlendirme formu kullanılabilir.",
+    "Performans Görevi: Dinin mimarimize etkisini örnek yapılar üzerinden ele alan poster, broşür, afiş vb. hazırlanabilir. Caminin bölümlerini içeren çalışma yaprağı hazırlanabilir. Kültürümüzden cami örnekleriyle ilgili görseller kullanılarak sunu hazırlanabilir. Performans görevleri, ölçütlere göre oluşturulan puanlama anahtarı ile değerlendirilir. Öğrencinin ünite süresince yaptığı ürün çıktıları bir araya getirilerek öğrenci ürün dosyası oluşturulur.",
+    "Sonuç değerlendirmede performans görevlerine yer verilebileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.5.5.1 Dijital öğrenme platformları aracılığıyla çeşitli bölgelerden cami, çeşme, medrese, külliye, kervansaray gibi mimari eserler gösterilir. Mimarinin kültürel bir unsur olduğunu ve dinin mimarimize etkisini fark etmeleri için bu örneklerle ilgili öğrencilere sorular sorulur ( E3.4 , OB5 ) . Öğretmen rehberliğinde öğrencilerin dinin mimariye etki ettiği hususları araştırması sağlanır. Öğrenciler bu hususlar arasında ilişki kurar. Bu eserlerde kullanılan hat, tezhip, çini, minyatür gibi sanatlar belirlenir. Bu eserlerin yapılış amaçları, sanatların hangi duygularla ortaya çıkarıldıkları anlatılarak din, sanat ve mimari arasında ilişki kurulur.Bu ilişkiden hareketle öğrencilerin konuyu tartışmaları sağlanır ( E3.6 ) .",
+    "DKAB.5.5.2 Cami ve mescit kavramları çerçevesinde Müslümanlar açısından caminin önemine değinilir. Öğrencilerden konuyla ilgili özgün görseller oluşturmaları ve bunları sınıfta paylaşmaları istenir ( OB4 ) .Teravih, cuma, bayram ve cenaze namazlarının toplumsal hayattaki işlevi hatırlatılır. Cemaatle ibadet etmenin ve camide ibadet edenlere saygı duymanın önemi, etkinlikler yoluyla öğrencilere fark ettirilir ( SDB1.3 , D14.3 ) . Öğrencilerin caminin iç ve dış bölümlerini gözlemlemesi sağlanır. Öğrencilerden mihrap, minber, vaaz kürsüsü, minare, şerefe, şadırvan, kubbe gibi mimari unsurları belirlemesi istenir. Öğrenciler belirledikleri bu unsurları caminin iç ve dış bölümleri olarak ayrıştırır ve bunları tasnif eder. Mihrap, minber, vaaz kürsüsünü caminin iç bölümü; şerefe, şadırvan, kubbeyi de caminin dış bölümü olarak listeler.",
+    "DKAB.5.5.3 İslam kültüründe öne çıkan cami örnekleri (Mescid-i Nebevi ve Mescid-i Aksa vb.) listelenir. Bunların özelliklerine ve Müslümanlar açısından önemine değinilir. Mescid-i Aksa anlatılırken ayrıntıya girilmeden Hz. Süleyman kıssasına yer verilir. Bu şekilde öğrencilerin kültürel mirasın önemini fark etmesi ve bunlara değer vermesi sağlanır. Kültürümüzde yer alan camilere örnekler verirken Türkiye'nin çeşitli bölgelerinden kültürel, sanatsal ve mimari açıdan öne çıkmış farklı camiler belirlenir. Öğrenciler, belirlenen cami örnekleri üzerine araştırma yapar. Öğretmen rehberliğinde bu camilerin benzer ve farklı özelliklerini listeler. Sanatsal ve görsel zevkleri hayatlarının bir parçası hâline getirmeleri için ( D7.3 ) öğrencilere hat, ebru, çini, taş ve ahşap oymacılığı gibi sanatlarla ilgili örnekler gösterilir. Öğrencilerden bu sanatları içeren eserleri incelemeleri ve yorumlamaları istenir ( OB9 ) . Bunun için öğretmen rehberliğinde etkinlikler yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.3",
+      "D7.3"
+    ],
+    "egilim": [
+      "E3.4",
+      "E3.6"
+    ],
+    "okuryazarlik": [
+      "OB4",
+      "OB5",
+      "OB9"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/71"
+}

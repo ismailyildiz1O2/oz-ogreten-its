@@ -1,0 +1,98 @@
+{
+  "unitId": 66,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "1. ÜNİTE: ÇEVRE SORUNLARI VE FELSEFE",
+  "hours": "12",
+  "description": "Bu ünitede öğrencilerin çevreyle ilgili felsefi soru ve problemleri hayatla ilişkilendirerek anlamlandırması ve çevre sorunlarına yönelik felsefi düşünce ortaya koyabilmesi amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.11.1.1",
+      "title": "Çevre ile ilgili felsefi soru ve problemleri anlayabilme",
+      "processComponents": [
+        "a) Çevre ile ilgili felsefi soru ve problemleri açıklar.",
+        "b) Çevre ile ilgili felsefi soru ve problemleri hayatla ilişkilendirerek değerlendirir."
+      ]
+    },
+    {
+      "code": "FEL.11.1.2",
+      "title": "Çevre sorunlarıyla ilgili felsefi düşünce ortaya koyabilme",
+      "processComponents": [
+        "a) Çevre sorunlarıyla ile ilgili felsefi argümanları çözümler.",
+        "b) Çevre sorunları ile ilgili görüş ve argüman oluşturur.",
+        "c) Çevre sorunları ile ilgili felsefi bir metin yazar."
+      ]
+    }
+  ],
+  "keyConcepts": "çevre, çevre etiği, değer, doğa",
+  "support": [
+    "Çevre ile ilgili felsefi soru ve problemlerin açıklanmasında görsellerle zenginleştirilmiş bilgi kartları ve günlük hayat örneklerini içeren dijital materyaller kullanılabilir.",
+    "Çevre ile ilgili felsefi problemlerin çözümlemesine yönelik öğrenme-öğretme uygulamalarında akran destekli öğrenmeden yararlanılabilir.",
+    "Felsefi metin yazma sürecinde çevre sorunları ile ilgili görüş ve argümanlar sunularak yönlendirmeler yapılabilir."
+  ],
+  "enrichment": [
+    "J. R. DesJardins'in çevre etiğine ilişkin görüşleri çerçevesinde adil ve sürdürülebilir bir çevre politikasının oluşturulmasında felsefenin rolü yorumlanabilir.",
+    "Çevre krizine yönelik felsefi görüşlerin değerlendirilerek kişisel görüşlerin yazılı olarak açıklanması sağlanabilir.",
+    "* İbni Tufeyl'in Hay Bin Yakzan adlı eseri ve Reggio Emillia yaklaşımının görüşlerini dikkate alarak insanların çevre ve doğadan öğrenebileceklerine ilişkin hikâye kartı hazırlanabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin öğrenme çıktıları; dereceleme ölçeği, çalışma kağıdı, açık uçlu sorular ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrenciler gözlemledikleri çevre sorunu hakkında felsefi bir metin yazmaları istenebilir.Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "FEL.11.1.1",
+    "Öğrencilerin çevre ile ilgili felsefi soru ve problemleri anlamaları amaçlanır. Bunun için;",
+    "• Çevre-insan ilişkisini yansıtan çeşitli materyaller (görsel, video, belgesel, film kesiti vb.) verilerek öğrencilerin, çevre hakkındaki felsefi soruları (Çevre-insan ilişkisi değer temelinde nasıl kurulabilir? Doğanın kendi başına bir değeri var mıdır? İnsanın çevreye karşı ahlaki sorumluluğu var mıdır? İnsanın doğal kaynakları tüketmesinin ölçüsü nedir? İnsanın doğa üzerinde egemenlik kurması ne gibi sorunlara yol açar?) düşünmeleri ve bu sorulara yönelik ön kabullerini sorgulayarak farkındalık kazanmaları sağlanır ( KB2.8 ). Bu süreçte öğrencilerden iş birlikli olarak bu materyallerde dikkatlerini çeken unsurları belirleyerek bunlar hakkında neler düşündüklerini ifade etmeleri istenir ( SDB2.2 , OB4 ). Ardından öğrencilerden çevre hakkındaki felsefi sorulardan birini seçmeleri ve soruya yönelik gerekçelendirilmiş cevaplar vermeleri sağlanır ( E1.6 ).",
+    "• Öğrencilerin çevre hakkındaki felsefi problemlerin (çevre tahribatı, çevre kirliliği, küresel ısınma) nedenleri, geçmişten günümüze boyutları ve gelecekteki olası etkileri hakkındaki düşüncelerini ifade etmeleri ve bu ilişkileri neden–sonuç diyagramı üzerinde göstermeleri sağlanır ( E3.6 ).",
+    "• Öğrencilerden çevre kaynaklı problemlerin çözümüne yönelik ülkemizde geliştirilen projeleri araştırmaları ve içlerinden birini seçmeleri istenir ( E1.6 , OB1 ). Öğrencilerin seçilen projelerin çevreyi yaşanabilir hâle getirmedeki katkılarını değerlendirmeleri, projelerin yürütülmesinde çaba göstermenin ve gönüllü olmanın önemine ilişkin çıkarımlar yapmaları sağlanır ( SDB3.2 , D5.2 , D20.4 , KB2.10 ).",
+    "• Çevre sorunlarıyla ilgili kurum ve kuruluşlar tarafından yayımlanan veri, tablo ve grafikler üzerinden açık uçlu sorular öğrencilere yöneltilir ve öğrencilerin felsefi sorgulamalar yapmaları sağlanır ( OB7 , KB2.8 ). Verilere ve yakın çevre gözlemlerine dayanarak öğrencilerden \"sürdürülebilir çevrenin imkânı\" üzerine tartışmaları istenir ( KB2.18 ). Tartışma sonunda öğrencilerin canlılar için sürdürülebilir hayata ilişkin öneri listesi oluşturmaları sağlanır ( D9.3 , OB8 , KB2.10 ). Bu aşamada öğrencilerden, ülkemizin doğal güzelliklerini korumak için bilinçli bir şekilde eylemde bulunmaları ve çözüm önerileri sunmaları istenir ( D19.3 ). Sürecin sonunda öğrencilerin Mimar Sinan'ın eserleri üzerinden sürdürülebilir mimarinin önemi hakkında çıkarım yapmaları ve çevreye duyarlı yapıların insanlık için değeri hakkında kısa bir metin yazmaları istenebilir. ( KB2.10 ) Yazılan metin dereceleme ölçeği ile değerlendirilebilir.",
+    "FEL.11.1.2",
+    "Öğrencilerin çevre sorunlarıyla ilgili felsefi düşünce ortaya koymaları amaçlanır. Bunun için;",
+    "• İnsan-doğa ilişkisi üzerine felsefi argümanların yer aldığı bilgi notu verilerek yönlendirici sorular aracılığıyla öğrencilerin bu ilişkinin değişimi hakkında çıkarım yapması sağlanır ( KB2.10 ).",
+    "• Çevre etiğine yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada öğrencilere çevre etiği yaklaşımlarının (insan merkezli, canlı merkezli, çevre merkezli) genel özelliklerini ve temel görüşlerini yansıtan bilgi görselleri verilir. Öğrencilerden ilgili görüşlerin güçlü ve zayıf yanlarını belirleyerek çözümlemeleri istenir ( KB2.4 , KB2.7 ). Bu aşamada karşılaştırma tablosu öğretim tekniği kullanılabilir. Çalışmanın sonunda öğrencilerden iş birlikli olarak güncel bir çevre sorununu seçmeleri ve bu sorunu çevre etiği açısından değerlendirmeleri istenir ( SDB2.2 , KB2.17 ). Değerlendirmede öğrencilerin hangi felsefi soruna nasıl odaklandıkları ile hangi çevre etiği yaklaşımını daha savunulabilir buldukları hakkında görüşlerini açıkça ifade etmeleri sağlanır ( E3.2 ). Öğrencilerden görüşlerini gerekçelendirerek özgün bir argüman oluşturmaları istenir ( KB2.20 ).",
+    "• Öğrencilerin afetlerle sonuçlanabilen bir çevre sorununu iş birlikli olarak belirlemeleri ve sorunun çözümü hakkında tartışarak görüş ve argüman oluşturmaları sağlanır ( SDB2.2 , KB2.18 ). Tartışmada öğrencilerin görüşlerini açık bir şekilde ifade etmeleri ve etkin katılım göstermeleri desteklenir ( SDB2.1 ). Bu aşamada forum veya panel tartışma öğretim teknikleri kullanılabilir. Ardından çevreye ve canlılara değer verilmesi gerekliliğine ve afet bilincine dikkat çekilir. Öğrencilerin çevre bilincinin nasıl kazandırılacağı hakkında çıkarım yapmaları istenir ( D5.3 , KB2.10 ).",
+    "Felsefe metin yazımına yönelik hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada örnek metinler ve yönlendirici sorular aracılığıyla öğrencilerin felsefi metinlerin yazımında ele alınan problemlerin tanımlanmasının, ilgili kavramların yansıtılmasının, argümanların ortaya konulmasının, ileri sürülecek felsefi görüşün tutarlı biçimde temellendirilmesinin, felsefi terminolojinin kullanılmasının ve dil kurallarına uyulmasının önemini kavramaları sağlanır.Ardından öğrencilere, çevre sorunlarına yönelik felsefi bir metin yazma performans görevi verilebilir. Öncelikle öğrencilere çevreye ilişkin felsefi kavram, soru, düşünce ve argümanları doğru biçimde kullanmalarını desteklemek amacıyla görsel okuma, cümle ve paragraf tamamlama ile örnek felsefi paragrafları kendi cümleleriyle baştan yazma alıştırmaları yaptırılır ( E3.3 , OB1 , SDB1.2 ). Alıştırma çalışmasından sonra öğrencilerden gözlemledikleri bir çevre sorunu hakkında çeşitli kaynaklardan (kitap, makale, dergi, rapor, gazete, istatistikler vb.) araştırma yapmaları ve ilgili sorun hakkında düşünce ve argümanları belirlemeleri istenir. Öğrencilerin felsefi bir metin yazmaları sağlanır ( E3.7 , KB3.3 ). Öğrenciler görev bilinci içinde planlı davranır ve felsefe literatürüne ilişkin farkındalık kazanır ( D3.2 , D16.3 ). Performans görevi programın ekler bölümünde yer alan \"Felsefi Metin Yazımı Performans Görevi Dereceli Puanlama Anahtarı\" formundaki gibi ölçütlerden oluşan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D16.3",
+      "D19.3",
+      "D20.4",
+      "D3.2",
+      "D5.2",
+      "D5.3",
+      "D9.3"
+    ],
+    "egilim": [
+      "E1.6",
+      "E3.2",
+      "E3.3",
+      "E3.6",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.17",
+      "KB2.18",
+      "KB2.20",
+      "KB2.4",
+      "KB2.7",
+      "KB2.8",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/66"
+}

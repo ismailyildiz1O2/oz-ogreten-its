@@ -1,0 +1,56 @@
+{
+  "unitId": 1571,
+  "grade": 0,
+  "gradeName": "1. DÜZEY",
+  "subject": "Robotik Kodlama Dersi",
+  "title": "DÜZEY I · 1. Tema: Robotik Sistemlere Giriş Ve Temel Programlama",
+  "hours": "6",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "RK1.1.1",
+      "title": "Robotik sistemlere ilişkin temel kavramları sınıflandırabilme a) Robotik sistemlere ilişkin temel kavramları belirler",
+      "processComponents": [
+        "b) Robotik sistemlere ilişkin temel kavramları günlük hayat ile ilişkilendirir.",
+        "c) Robotik sistemlere ilişkin temel kavramları kullanım alanlarına göre gruplandırır."
+      ]
+    },
+    {
+      "code": "RK1.1.2",
+      "title": "Robotik kodlamaya ilişkin etik ve güvenlik-gizlilik önlemlerini yönetebilme",
+      "processComponents": [
+        "a) Robotik kodlamada etik ve güvenlik-gizlilik risklerini belirler.",
+        "b) Robotik kodlamada etik ve güvenlik-gizlilik önlemlerini belirler.",
+        "c) Robotik kodlamada etik ilkelerin ve bilgi güvenliğinin-gizliliğinin temel bileşenlerini ayırt eder.",
+        "ç) Robotik kodlama uygulamalarını etik ilkeler ile güvenlik-gizlilik açısından değerlendirir."
+      ]
+    },
+    {
+      "code": "RK1.1.3",
+      "title": "Robotik sistemlerde algoritmik düşünebilme",
+      "processComponents": [
+        "a) Robotik sistemlerle çözülebilecek günlük hayat problemi belirler.",
+        "b) Problemin girdi çıktılarını belirler.",
+        "c) Problemin çözümüne ilişkin işlem adımlarını listeler.",
+        "ç) İşlem adımlarını akış şeması ile gösterir."
+      ]
+    },
+    {
+      "code": "RK1.1.4",
+      "title": "Robotik sistemlerde algoritmayı test edebilme",
+      "processComponents": [
+        "a) Robotik sistemlerde geliştirdiği algoritmayı örnek girdilerle test eder.",
+        "b) Algoritmadaki hataları ayıklayarak kullanıma hazır hâle getirir."
+      ]
+    }
+  ],
+  "keyConcepts": "akış şeması, algoritma, algoritmik düşünme, etik, girdi çıktı, gizlilik, güvenlik, hata ayıklama, işlem adımı, problem, robot, robotik sistem, sensör",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": [
+    "BTYAB1.Bilişim Teknolojilerini Kullanma (BTYAB1.1. Bilişim Teknolojilerini Sınıflandırma), BTYAB2. Bilgi İşlemsel Düşünme (BTYAB2.1. Algoritmik Düşünme, BTYAB2.4.TestEtme-Hata Ayıklama), BTYAB6. Dijital Güvenlik Önlemleri Alma (BTYAB6.1. Dijital Güvenlik Önlemlerini Yönetme)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1571"
+}

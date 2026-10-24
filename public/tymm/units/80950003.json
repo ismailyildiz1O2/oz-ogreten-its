@@ -1,0 +1,99 @@
+{
+  "unitId": 80950003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Rehberlik Dersi",
+  "title": "3. ÜNİTE: 9. SINIF - SOSYAL DUYGUSAL GELİŞİM",
+  "hours": "16",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "REH.3.1",
+      "title": "Yaşam değerlerinin farkına varır",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.2",
+      "title": "Kişilerarası ilişkilerde duyguları ifade etmenin önemini fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.3",
+      "title": "Fiziksel, duygusal, sosyal ve kültürel açıdan bireysel farklılıkları kabul eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.4",
+      "title": "Zorbalık ve türlerini bilir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.5",
+      "title": "Başlangıç sosyal becerileri kullanır",
+      "processComponents": [
+        "1. Hafta: Dinleme, konuşmayı başlatma, konuşmayı sürdürme ve soru sorma konularına değinilir. 2. Hafta: Teşekkür etme, iltifat etme, kendini tanıtma ve diğer insanları tanıtma konularına değinilir."
+      ]
+    },
+    {
+      "code": "REH.3.6",
+      "title": "İyilik hâlini destekleyen davranışlar açısından kendini gözden geçirir",
+      "processComponents": [
+        "İyilik hâli kapsamında öz bakım, fiziksel egzersiz, beslenme, uyku düzeni vb. ele alınır."
+      ]
+    },
+    {
+      "code": "REH.3.7",
+      "title": "Siber zorbalığın yaşamındaki etkilerini fark eder",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.8",
+      "title": "Zorbalıkla baş etme yollarını kullanır",
+      "processComponents": [
+        "Bu kazanım rehber öğretmen tarafından uygulanır."
+      ]
+    },
+    {
+      "code": "REH.3.9",
+      "title": "Sanal arkadaşlığı arkadaşlık ilişkileri kapsamında sorgular",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.10",
+      "title": "Sahip olduğu karakter güçlerini fark eder",
+      "processComponents": [
+        "1. Hafta: Öğrencilerin sahip oldukları karakter güçlerini fark etmelerini sağlayacak ölçme araçlarından yararlanılır. 2. Hafta: Uygulanan ölçme araçlarının sonuçları değerlendirilir."
+      ]
+    },
+    {
+      "code": "REH.3.11",
+      "title": "Kişisel güvenliği için “Hayır!” demeyi alışkanlık hâline getirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.12",
+      "title": "Toplumsal rollerinin gerektirdiği sorumlulukları yerine getirmediğinde karşılaşabileceği sonuçları değerlendirir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.13",
+      "title": "Sahip olduğu karakter güçlerini zorluklar karşısında kullanmayı bilir",
+      "processComponents": []
+    },
+    {
+      "code": "REH.3.14",
+      "title": "Kimden, nereden, ne zaman ve nasıl yardım isteyebileceğini bilir",
+      "processComponents": [
+        "Bu kazanım okul rehberlik öğretmeni tarafından uygulanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20209159337507-17143025_SINIF_REHBERLYK_PROGRAMI_2020.pdf"
+}

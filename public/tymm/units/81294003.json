@@ -1,0 +1,44 @@
+{
+  "unitId": 81294003,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "3. ÜNİTE: I. DÜZEY 3. TEMA: ENERJİ I",
+  "hours": "16",
+  "description": "“Enerji I” teması; temel enerji kavramları, enerjinin önemi, enerji dönüşümü ve enerji aktarımı gibi içerikleri kapsar. Bu temada öğrencilerin enerji türleri, dönüşümleri, kullanımı ve etkileri konusunda derinlemesine bir anlayış geliştirmesi hedeflenir. Ayrıca enerji konularında bilinçli ve sürdürülebilir kararlar alabilmeleri için onlara rehberlik edilir. “Enerji I” temasında öğrencilerden enerjinin canlılar için neden önemli olduğunu eleştirel bir bakış açısıyla değerlendirmeleri, enerji dönüşümleri ile ilgili deneyler yapmaları, kreatif enerji çözümleri hakkında doğru ve güvenilir bilgi toplamaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.1.3.1.1",
+      "title": "Enerjinin canlılar için önemini eleştirel bir bakış açısıyla değerlendirir",
+      "processComponents": [
+        "Enerji, enerji biçimi ve enerji türü kavramlarına değinilir. Fizik, kimya ve biyoloji disiplinlerine özgü enerji türlerine örnekler vererek açıklama yapması sağlanır.",
+        "Canlılar için enerji dönüşümünün ve aktarımının öneminin günlük hayattan örneklerle açıklanması sağlanır.",
+        "Enerjinin canlılar için öneminin farklı disiplinler açısından (fizik, kimya, biyoloji) incelenmesi ve analiz edilmesi sağlanır.",
+        "Enerji dönüşümünden yola çıkarak enerjide neden tasarruf etmeleri gerektiği üzerine akıl yürütmeleri sağlanır. Ülkemizde enerji üretiminde kullanılan ham madde ithalatının enerji maliyetine etkisi değerlendirilir."
+      ]
+    },
+    {
+      "code": "FBU.1.3.1.2",
+      "title": "Enerji dönüşümü ile ilgili deney yapar",
+      "processComponents": [
+        "Genel ağdaki bir simülasyonda farklı enerji dönüşüm örnekleri incelenir. Bu örneklerde hareket enerjisinin mekanik enerjiye, suyun potansiyel enerjisinin ısı enerjisine, güneş ve ısı enerjisinin elektrik enerjisine dönüşümünü gözlemlenebilir sistemler üzerinde göstermeleri sağlanır.",
+        "Enerji dönüşümünü gözlemlemek amacıyla solar jeneratörü kullanılarak deney yapılır. Yapılan enerji dönüşümü deneylerinin sonuçları gerçek yaşamda gözlenen nesne, olay veya olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.1.3.1.3",
+      "title": "Yenilikçi ve çevreci enerji çözümleri hakkında topladığı bilgiler ile ilgili rapor hazırlar",
+      "processComponents": [
+        "Yenilikçi ve çevreci enerji çözümleriyle ilgili bilgi edinmeleri ve bunları rapor hâline getirmeleri sağlanır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

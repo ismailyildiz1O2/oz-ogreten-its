@@ -1,0 +1,35 @@
+{
+  "unitId": 229,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Peygamberimizin Hayatı Dersi",
+  "title": "4. ÜNİTE: İLAHİ BİR TESELLİ",
+  "hours": "6",
+  "description": "Bu ünitede isra ve miraç mucizelerine verilen tepkilerin eleştirel düşünceyle sorgulanması amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "PH.11.4.1",
+      "title": "İsra ve miraç hadiselerine verilen tepkilerle ilgili eleştirel düşünebilme",
+      "processComponents": [
+        "a) İsra ve miraç hadiselerine verilen tepkileri sorgular.",
+        "b) Sorguladığı tepkilerle ilgili akıl yürütür.",
+        "c) İsra ve miraç hadiselerine verilen tepkilere dair akıl yürütmeyle ulaştığı çıkarımları yansıtır."
+      ]
+    }
+  ],
+  "keyConcepts": "-",
+  "support": [
+    "Öğrencilere isra ve miraç hadiseleriyle ilgili kavramları ve bu hadiselerden çıkarılabilecek mesajları gösteren bir akış şeması verilebilir. İsra ve miraçla ilgili bir metin okunur ve öğrencilerin bir yansıtma metni yazması istenebilir. Yazılan metin üzerinden öğrencilere yönlendirici sorular sorulup konunun pekiştirilmesi sağlanabilir. Miraç hadisesine verilen tepkilerle ilgili bilgisayar destekli öğretim tekniklerinden yararlanılabilir."
+  ],
+  "enrichment": [
+    "Meraklı ve girişken (E2.3) öğrencilerden isra ve miraç konularında, alanında uzman bir kişiyle dijital platformda iletişim kurarak (OB2) ya da yüz yüze görüşerek röportaj yapmaları istenebilir. Öğrenciler, bu görüşmeden elde ettikleri bilgileri arkadaşlarıyla paylaşarak müzakere etmeye teşvik edilebilir. Miraç olayına müşriklerin verdikleri tepkiler hakkında öğrencilerin RAFT tekniği ile bir metin oluşturmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları, açık uçlu sorular ile öz ve grup değerlendirme formları kullanılarak değerlendirilebilir. Öğrencilere isra ve miraç hadiseleriyle ilgili bir performans görevi verilebilir."
+  ],
+  "teachingApplications": [
+    "PH.11.4.1 İsra ve miraç hadiseleri ana hatlarıyla ele alınır. İsra ve miracın Hz. Peygamber için önemine ve miraçta teşri kılınan hükümlere değinilir. İsra ve miraç hadiselerine kimlerin, nasıl tepkiler verdiğine dair örnekler verilir. Hz. Ebu Bekir'in verdiği tepki ele alınırken onun Hz. Peygamber'e olan desteği (D4.3) vurgulanır. Bu aşamada açık uçlu sorularla öğrencilerin bilgileri ölçülebilir. Öğrencilerden eleştirel bir bakış açısıyla (E3.10) isra ve miraç hadiselerine verilen tepkilerin nedenlerini sorgulamaları, konu hakkında akıl yürüterek ulaştıkları yargıyı gerekçeleriyle birlikte (SDB3.3) paylaşmaları istenir. Bu konu işlenirken kar topu (piramit) tekniği kullanılabilir. Öğrencilerden performans görevi olarak isra ve miraç hadiselerine verilen tepkilerle ilgili bir makale yazmaları istenebilir. Yapılan çalışmalar; içinde içerik, özgünlük, eleştirel düşünme, dil ve anlatım ölçütleri bulunan dereceli puanlama anahtarı ile değerlendirilebilir."
+  ],
+  "skills": {},
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/229"
+}

@@ -1,0 +1,89 @@
+{
+  "unitId": 81424001,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "1. ÜNİTE: PİYANO - PİYANODA TEMEL POZİSYONLAR VE KAVRAMLAR",
+  "hours": "3",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.1.1.1",
+      "title": "Klavye üzerinde I. pozisyon el konumunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.2",
+      "title": "I. pozisyonda el duruşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.3",
+      "title": "I. pozisyon el konumunda her iki eldeki parmak numaralarını gösterir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.4",
+      "title": "I. pozisyon el konumunda farklı nota değerlerinden oluşan etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.5",
+      "title": "Değiştirici işaretleri (diyez, bemol ve natürel) tanımlar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.6",
+      "title": "Siyah ve beyaz tuşlarla ilgili etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.7",
+      "title": "Sekizlik nota ve sus değerini içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.8",
+      "title": "Klavye üzerinde II. pozisyon el konumunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.9",
+      "title": "II. pozisyon el konumundaki yeni notaları içeren etütleri seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.10",
+      "title": "Klavye üzerinde III. pozisyon el konumunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.11",
+      "title": "III. pozisyon el konumundaki yeni notaları içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.12",
+      "title": "Etüt ve eserleri legato tekniğine uygun seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.13",
+      "title": "Sağ el çıkıcı, sol el inici 3-1 ve 4-1 parmak geçişlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.1.1.14",
+      "title": "Sağ el inici, sol el çıkıcı 1-3 ve 1-4 parmak geçişlerini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

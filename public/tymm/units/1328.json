@@ -1,0 +1,63 @@
+{
+  "unitId": 1328,
+  "grade": 8,
+  "gradeName": "8. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Keman Modülü",
+  "title": "3. TEMA: BİLİNEN ÜNLÜ VIRTÜÖZLERI TANIMA",
+  "hours": "14",
+  "description": "Temanın içeriğini öğrencilerin keman alanında başarılı olan keman virtüözlerinin eserlerini dinlemeleri, keman virtüözlerine ve eserlerine dair bilgilere ulaşmaları oluşturmaktadır. Bu doğrultuda belirlenen öğrenme çıktılarına ulaşmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KMN.8.3.1",
+      "title": "Keman virtüözlerini tanıyabilme",
+      "processComponents": []
+    },
+    {
+      "code": "KMN.8.3.2",
+      "title": "Keman virtüözlerini teknik kullanırken gözlemleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "KMN.8.3.3",
+      "title": "Keman virtüözleri ile ilgili bölgesel farklılıkları tanıyabilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "virtüöz, keman",
+  "support": [
+    "Öğrencinin seviyesine uygun küçük eserler verebilir. Her ölçü tekrar edilerek çalışılabilir"
+  ],
+  "enrichment": [
+    "Öğrencilere istedikleri bir keman virtüözünün eseri verilebilir. Bu eserin parçayı dinlerken hissettiği gibi çalınabilmesi için öğretmen eşliğinde çalışmalar yapılabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; gözlem formu, öz ve akran değerlendirme formları ile değerlendirilir. Öğrencilerden tanınmış keman virtiözleri ve eserleri hakkında performans görevi hazırlamaları ve performans görevini sınıf ortamında sunmaları istenir."
+  ],
+  "teachingApplications": [
+    "KMN.8.3.1.",
+    "Öğretmen bilinen ünlü eserler ve besteciler ile ilgili dijital ortamda eserler dinletir ( OB2 ). Bu eserlerin bestecileri hakkında dikkat çekici bilgiler vererek eserler hakkında öğrencilerin ne hissettikleri ile ilgili bilgi alışverişinde bulunmalarını ister. Öğrencilerden eserlerin düşündürdüğü duygu birikimini çalgılarına nasıl aktaracakları ile ilgili yorumlar yapmaları istenir ( OB1 ).",
+    "KMN.8.3.2",
+    "Keman virtüözlerini dijital ortamda video ve görseller aracılığıyla dinleyip izlerken öğrendiği tekniklerin virtüözler tarafından nasıl yapıldığına dikkat eder ( E3.2 ). Öğretmen performans görevi olarak öğrencilerden izledikleri/dinledikleri keman teknikleri ve keman duruş ve tutuş pozisyonu ile ilgili çalışmaları sınıf ortamında sergilemelerini ister ( D3.4 ). Performans görevi, seçtikleri virtüözün eseriyle hayatını içermelidir.",
+    "KMN.8.3.3",
+    "Öğrenciler, dünya çapındaki keman virtüözlerinin ülkelerine ait veya kendi dönemlerindeki keman teknikleri konusunda bilgiler toplar ( KB2.6 ). Edindikleri bilgileri kendi aralarında ve sınıf ortamında sunarlar ( SDB2.1 ). Öğrencinin performansı süreç gözlem formu ile değerlendirilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E3.2"
+    ],
+    "kavramsal": [
+      "KB2.6"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1328"
+}

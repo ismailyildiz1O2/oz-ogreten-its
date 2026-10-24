@@ -1,0 +1,219 @@
+{
+  "unitId": 168,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Kimya Dersi",
+  "title": "2. TEMA: ÇEŞİTLİLİK",
+  "hours": "70",
+  "description": "Bu tema Organik Kimyaya Giriş ve Organik Bileşikler olmak üzere iki bölümden oluşmaktadır. Bu temada öğrencilerin molekülleri oluşturan atomlar arasındaki sigma ve pi bağlarının ve hibrit orbitallerinin oluşumunu kanıtlarla açıklamaları, moleküllerin geometrisinin belirlenmesine ilişkin çıkarım yapmaları, organik bileşiklerin gösterimi için kullanılan farklı formüllere ilişkin akıl yürütmeleri, alifatik hidrokarbonları sınıflandırmaları, alifatik hidrokarbonların sistematik adlandırılmasına ilişkin akıl yürütmeleri, alifatik hidrokarbonların izomerliklerini sınıflandırmaları, alifatik hidrokarbonların fiziksel ve kimyasal özelliklerini karşılaştırmaları ve bazı kullanım alanlarını belirlemek için kanıt kullanmaları, fonksiyonel gruba sahip organik bileşikleri sınıflandırarak bu bileşiklerin sistematik adlandırma kurallarına ilişkin akıl yürütmeleri, fonksiyonel grup izomeri olan organik bileşikleri sınıflandırmaları, karbon temelli enerji kaynaklarının yanma tepkimelerinin sonuçlarına ilişkin çıkarım yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "KİM.12.2.1",
+      "title": "Molekülleri oluşturan atomlar arasındaki sigma ve pi bağlarını açıklamak için kanıt kullanabilme",
+      "processComponents": [
+        "a) Molekülleri oluşturan atomlar arasındaki bağ türlerini belirlemek için ölçütler (bağ sayısı, bağ uzunluğu, bağ enerjisi ve orbital örtüşmesi) geliştirir.",
+        "b) Hazır veri setinden seçtiği veriler üzerinden atomlar arasındaki tek, çift ve üçlü bağların niteliklerine ilişkin örüntü belirler.",
+        "c) Tek, çift ve üçlü bağların niteliklerine ilişkin örüntülerini kanıta dayalı açıklar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.2",
+      "title": "Hibrit orbitallerinin oluşumunu açıklamak için kanıt kullanabilme",
+      "processComponents": [
+        "a) Hibrit orbitallerinin oluşumuna ilişkin ölçütler (karbon bağ sayıları, atom orbitallerinin bağıl enerjileri ve valans orbitalleri) belirler.",
+        "b) Hibrit orbitallerinin bağıl enerji diyagramları ve orbital şekillerini, belirlediği ölçütlerle ilişkilendirerek hibrit orbitallerinin oluşumuna ilişkin örüntü belirler.",
+        "c) Hibrit orbitallerinin oluşumuna ilişkin belirlediği örüntüleri kanıta dayalı açıklar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.3",
+      "title": "Moleküllerin geometrisinin belirlenmesine ilişkin çıkarımda bulunabilme",
+      "processComponents": [
+        "a) Molekül geometrisine ilişkin varsayımda bulunur.",
+        "b) Hibrit orbitallerinin uzaydaki yönelimlerine göre oluşan molekül geometrisine ilişkin örüntü belirler.",
+        "c) Belirlediği molekül geometrilerini bilimsel molekül geometrileri ile karşılaştırır.",
+        "ç) Karşılaştırmaları sonucunda molekül geometrisinin oluşumuna ilişkin önermeler sunar.",
+        "d) Önermelerini VSEPR [Valans (Değerlik) Kabuğu Çifti İtmesi] kuramı üzerinden değerlendirir."
+      ]
+    },
+    {
+      "code": "KİM.12.2.4",
+      "title": "Organik bileşiklerin gösterimi için kullanılan farklı formüllere ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Organik bileşiklerin farklı gösterim biçimleri (açık, yarı açık, çizgi bağ, molekül ve basit formülü) üzerinden yapı formülüne ilişkin örüntü belirler.",
+        "b) Organik bileşiklerin yapı formüllerine ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.5",
+      "title": "Hidrokarbonları sınıflandırabilme",
+      "processComponents": [
+        "a) Hidrokarbonların sınıflandırılmasına ilişkin ölçütler (tek, çift ya da üçlü bağların varlığı, halkalı yapıların bulunması veya benzen halkasını içerip içermediği) belirler.",
+        "b) Belirlediği ölçütler doğrultusunda hidrokarbonları alifatik ve aromatik olarak ayrıştırır.",
+        "c) Alifatik hidrokarbonları gruplandırır.",
+        "ç) Oluşturduğu grupları adlandırıp bilimsel karşılığı ile kıyaslar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.6",
+      "title": "Alifatik hidrokarbonların sistematik adlandırılmasına ilişkin tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Alifatik hidrokarbonların sistematik adlandırılmasına ilişkin örüntü bulur.",
+        "b) Alifatik hidrokarbonların IUPAC sistemine göre adlandırılmasına ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.7",
+      "title": "Alifatik hidrokarbonların izomerliklerini sınıflandırabilme",
+      "processComponents": [
+        "a) Alifatik hidrokarbonların izomerliklerinin sınıflandırılmasına ilişkin ölçütler (ana zincire bağlı grupların konumu, açık zincir veya halkalı yapı, ikili bağ yapmış karbon atomlarına bağlı grupların konumları ve pi bağının konumu) belirler.",
+        "b) Belirlediği ölçütler doğrultusunda alifatik hidrokarbonların izomerliklerini ayrıştırır.",
+        "c) Alifatik hidrokarbonların izomerliklerini gruplandırır.",
+        "ç) Oluşturduğu grupları adlandırıp bilimdeki karşılığı ile kıyaslar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.8",
+      "title": "Alifatik hidrokarbonların fiziksel ve kimyasal özelliklerini karşılaştırabilme",
+      "processComponents": [
+        "a) Alifatik hidrokarbonlara fiziksel ve kimyasal özellikler kazandıran nitelikleri belirler.",
+        "b) Alifatik hidrokarbonların benzer fiziksel (kaynama noktası ve buhar basıncı) ve kimyasal (yanma, katılma, polimerleşme) özelliklerini listeler.",
+        "c) Alifatik hidrokarbonların farklı fiziksel ve kimyasal özelliklerini listeler."
+      ]
+    },
+    {
+      "code": "KİM.12.2.9",
+      "title": "Organik bileşikleri fonksiyonel grubuna göre sınıflandırabilme",
+      "processComponents": [
+        "a) Organik bileşikleri (alkol, eter, aldehit, keton, karboksilik asit ve ester) fonksiyonel grubuna göre sınıflandırmak için ölçütler (-OH, -OR, -COR, -COOH, -COOR) belirler.",
+        "b) Belirlediği ölçütlere göre organik bileşikleri fonksiyonel grubuna göre ayrıştırır.",
+        "c) Ayrıştırdığı organik bileşikleri gruplandırır.",
+        "ç) Belirlediği grupların adlarını bilimsel karşılığı ile kıyaslar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.10",
+      "title": "Fonksiyonel gruba sahip organik bileşiklerin sistematik adlandırılma kurallarına ilişkin tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) Fonksiyonel gruba sahip organik bileşiklerin (alkol, eter, aldehit, keton, karboksilik asit ve ester) fonksiyonel grubunu, ana zincirini ve yan gruplarını belirler.",
+        "b) Fonksiyonel gruba sahip organik bileşiklerin fonksiyonel grubu ile bileşiğin sistematik adı arasında ilişki kurar.",
+        "c) Fonksiyonel gruba sahip organik bileşiklerin sistematik adlandırılma kurallarına ilişkin genelleme yapar."
+      ]
+    },
+    {
+      "code": "KİM.12.2.11",
+      "title": "Fonksiyonel grup izomeri olan organik bileşiklerin bilimsel modelini oluşturabilme",
+      "processComponents": [
+        "a) Kapalı formülleri aynı, fonksiyonel grubu farklı olan organik bileşikler (alkol, eter, aldehit, keton, karboksilik asit ve ester) için modeller önerir.",
+        "b) Kapalı formülleri aynı, fonksiyonel grubu farklı olan organik bileşikler için önerdiği modelleri bilim insanlarının modelleriyle karşılaştırır."
+      ]
+    },
+    {
+      "code": "KİM.12.2.12",
+      "title": "Karbon temelli enerji kaynaklarının yanma tepkimelerinin sonuçlarına ilişkin çıkarım yapabilme",
+      "processComponents": [
+        "a) Karbon temelli enerji kaynaklarının (kömür, petrol, doğal gaz, alkol vb.) yanma tepkimelerinin ekzotermik özelliği ve yanma ürünlerine ilişkin varsayımlarda bulunur.",
+        "b) Karbon temelli enerji kaynaklarının her bir türü için karbon içerikleri (farklı karbon sayılı, düz zincirli, dallanmış, monoalkol, polialkol vb.), enerji miktarları ve emisyon ayak izlerine ilişkin örüntüler listeler.",
+        "c) Enerji kaynaklarını yanma tepkimeleri sonucunda açığa çıkan enerji miktarı ve emisyon ayak izleri açısından karşılaştırır.",
+        "ç) Karbon temelli enerji kaynaklarının kimyasal içeriğine, bu kaynakların yakılması sonucu açığa çıkan enerji miktarına ve sera etkisi, hava kirliliği, asit yağmuruna neden olma potansiyeline ilişkin önermeler sunar.",
+        "d) Önermelerini bilimsel veriler ile karşılaştırarak değerlendirir."
+      ]
+    }
+  ],
+  "keyConcepts": "aldehit, alifatik bileşik, alkan, alken, alkin, alkol, aromatik bileşik, basit formül, ester, eter, fonksiyonel grup, halkalı yapı, hidrokarbon, izomerlik, karboksilik asit, keton, molekül formülü, molekül geometrisi, pi bağı, sigma bağı, yapı formülü, yapısal izomerlik, yarı açık formül",
+  "support": [
+    "Öğrenciler, öğretmen rehberliğinde alifatik hidrokarbonların çevreye etkileriyle ilgili araştırma soruları yazabilirler. Öğrencilerin alifatik hidrokarbonların çevreye olumsuz etkilerini görmeleri ve araştırmalarına yön vermeleri amacıyla dijital ortamlardan içeriği destekleyecek görsel materyaller kullanılabilir. Bilgi okuryazarlığı becerileri için öğrenciler, akranlarıyla iş birlikli çalışma becerilerini işe koşarak poster hazırlayabilirler. Hazırlanan posterleri sunabilir, okul etkinliklerinde sergileyebilirler.",
+    "Öğrencilerin moleküllerde sigma ve pi bağlarının oluşumunu açıklayabilmeleri için sigma ve pi bağlarının yapısını ve oluşumunu gösteren şemalar, diyagramlar veya animasyonlar hazırlanabilir. Tek, çift ve üçlü bağların niteliklerine ilişkin örüntü belirlemeleri için öğretmen tarafından birkaç örnek verilebilir. Öğretmen rehberliğinde pratik yapılması sağlanabilir. Öğrencilerin görsel materyallerden hareketle oluşturduğu örüntüleri açıklamaları, yönlendirici ve destekleyici sorular aracılığı ile sağlanabilir.",
+    "Öğrencilerin molekül geometrisinin belirlenmesine ilişkin çıkarım yapabilmesi için moleküllerin geometrisini gösteren renkli şemalar, modeller veya 3D görseller hazırlanabilir. Günlük hayattan örnekler verilerek kavramların görselleştirilmesi sağlanabilir. Öncelikle basit moleküllerin geometrisi açıklanarak örneklendirmeler yapılabilir. Bu örneklerden hareketle öğretmen rehberliğinde öğrencilerin örüntü oluşturmaları sağlanabilir. Oluşturdukları örüntüleri bilimsel molekül geometrileri ile karşılaştırırken destekleyici sorular sorularak öğrencilere yardımcı olunabilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden kozmetik, parfümeri, farmakoloji, temizlik, tekstil gibi farklı sektörlerde yaygın olarak kullanılan organik çözücüleri genel olarak sınıflandırmaları ve bu çözücülerin potansiyel toksik etkilerini araştırmaları istenebilir. Ayrıca parfüm, kolonya ve boya fabrikası gibi yerlerde çalışan bireylerle röportaj yapmaları teşvik edilerek bu sektörlerde kullanılan organik bileşiklerin neden olduğu potansiyel sağlık sorunları ve sağlığı korumaya yönelik alınan önlemler hakkında bilgi toplamaları istenebilir.",
+    "Öğrencilerden çeşitli yağ asitleri ve doğal katkı maddeleri kullanarak katı sabun yapmaları istenebilir. Sabun yapımında sodyum hidroksit (kostik) yerine çeşitli atıkların yanması sonucu oluşan küllerden baz eldesi denenebilir. Yapılan sabunun pH değeri, suda çözünme süreci, köpürmesi ve farklı türden kirleri çıkarma özelliği test edilebilir. Öğrencilerden hazırladıkları sabunlar için kullanma kılavuzu ve etiket hazırlamaları istenebilir.",
+    "\"İklim koşulları nedeniyle Türkiye, çeşitli bitkilerin yetişebildiği elverişli coğrafi bir konuma sahiptir. Bu özelliğinden dolayı kozmetik, parfümeri, farmakoloji, gıda gibi birçok sektöre ham madde sağlanması açısından oldukça zengindir.\" bilgisi verilerek öğrencilerden bölgelerinde yetişen bitki türlerinin yapısında hangi organik maddelerin olduğunu ve bu maddelerin hangi sektörde nasıl kullanıldığını araştırmaları istenebilir.",
+    "Öğrenciler grup arkadaşlarıyla çalışarak çevre, ekonomi ve hayat kalitesi üzerinde fosil yakıtların etkilerini değerlendirebilir. Fosil yakıtların sürdürülebilirlik açısından da değerlendirilmesi istenebilir. Öğrencilerden sera gazı emisyonlarını azaltabilecek potansiyele sahip sektörler ve Türkiye'nin karbon nötrlüğü hedefine ulaşabilmesi için alınması gereken önlemler hakkında bilgi toplamaları istenebilir. Öğrencilerden edindikleri bilgiler doğrultusunda yaşadıkları bölgedeki karbon emisyonunu azaltacak bireysel ve kurumsal önlemler hakkında yol haritası belirlemeleri ve bunu ilgili kişilerle ve kurumlarla paylaşmaları istenebilir.",
+    "Öğrencilerden sosyobilimsel konulardan biri olan tarımda pestisit kullanımı ile ilgili araştırma yapmaları, araştırma sonuçlarına yönelik bir sunu hazırlamaları ve bunu çevresi ile paylaşmaları istenebilir. Bu araştırma kapsamında pestisitlerin genel olarak neler olduğu, avantaj ve dezavantajları, pestisitlere nerede ve ne zaman maruz kalındığı, bunların insan sağlığına ve çevreye etkileri, etkilerinden korunabilmenin yolları gibi konular ele alınabilir. Öğrencilerin insan sağlığının, çevrenin, hedef dışı organizmaların korunması ile tarım çalışanlarının iş sağlığı ve güvenliği kapsamında yapılabilecekler ve pestisitlerin kullanımını azaltacak farklı çözümler üzerine düşünmeleri sağlanabilir.",
+    "*Doğal polimerler (glikojen, selüloz, kitin, protein, nişasta, DNA ve RNA) ve yapay polimerler [kauçuk, akrilik, polietilen (PE), polietilen tereftalat (PET), polivinil klorür (PVC), politetraflor eten (TEFLON), polistiren (PS)] tanıtılır. Doğal ve yapay polimerlerin bozunma süresi, bozunma ürünleri, bozunma ürünlerinin sağlık ve çevre açısından etkisi, maliyet ve geri kazanım süreçlerine ilişkin kanıt kartlarını inceleyen öğrencilerden polimerlerin çevre, sürdürülebilirlik ve ekonomi üzerindeki etkilerini değerlendirmeleri istenebilir. Ayrıca öğrencilerden polimer üretimi maliyet hesabı, geri dönüşüm sürecinin maliyeti ve çevreye vereceği zarara ilişkin maliyet hesabı yapmaları istenebilir.",
+    "*Öğrenciler kendilerine verilen alkol örneklerini kullanarak \"karbon sayısı ile enerji, dallanma ile enerji, fonksiyonel grup sayısı ile enerji arasındaki ilişkiyi belirlemek\", \"karbon sayısı ile sera gazı emisyonu, dallanma ile sera gazı emisyonu, fonksiyonel grup sayısı ile sera gazı emisyonu arasındaki ilişkiyi belirlemek\", \"karbon sayısı ile azot oksitler ve kükürt dioksit gazlarının emisyonu, dallanma ile azot oksitler ve kükürt dioksit gazlarının emisyonu, fonksiyonel grup sayısı ile azot oksitler ve kükürt dioksit gazlarının emisyonu arasındaki ilişkiyi belirlemek\" gibi amaçlardan biri ya da birkaçını seçerek deneyler tasarlar ve tasarladıkları deneyleri gerçekleştirebilirler."
+  ],
+  "assessment": [
+    "Bu temanın öğrenme kanıtlarında ve öğrenme-öğretme uygulamalarında çalışma yaprağı, etkinlik kâğıdı, yapılandırılmış grid, performans görevi, Venn diyagramı ve öz değerlendirme formu kullanılabilir.",
+    "Performans görevi çerçevesinde öğrencilerden verilen çeşitli molekülleri farklı materyaller kullanarak modellemeleri istenebilir. Performans görevi \"uygun materyal seçme, molekül geometrilerini belirleme, kendi modelinin bilimsel modele uygunluğu\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Performans görevi çerçevesinde öğrencilerden seçtiği alifatik hidrokarbonların izomerlerini farklı materyaller kullanarak modellemeleri istenebilir. Performans görevi \"uygun materyal seçme, izomerleri belirleme, model oluşturma, kendi modelinin bilimsel modele uygunluğu\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir. Öğrencilerden performans görevi çerçevesinde farklı fosil yakıtların kullanımıyla ortaya çıkan enerji miktarını ve sera gazlarını araştırarak bunların çevreye olan etkilerini belirlemeleri ve sürdürülebilir bir çevre için hangi fosil yakıtın kullanılması gerektiği çıkarımını yapmaları istenebilir. Performans görevi \"fosil yakıtların açığa çıkardığı enerji miktarını, açığa çıkan sera gazları türünü ve miktarını, hava kirliliği ve asit yağmuruna neden olma potansiyelini, emisyon ayak izini belirleme, en uygun fosil yakıta karar verebilme\" ölçütlerini içeren dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "Sınav kâğıtları ve temanın işleniş sürecinde ortaya çıkan ürünler, öğrenci ürün dosyasında toplanarak değerlendirme amaçlı kullanılabilir."
+  ],
+  "teachingApplications": [
+    "KİM.12.2.1",
+    "Organik kimya tarihi açısından dönüm noktası olarak kabul edilen, Alman kimyacı Friedrich Wöhler'in 1828'de keşfettiği sentez örnek verilerek organik kimyaya giriş yapılır ( E1.1 ) . Öğrenciler, çeşitli molekülleri (H2, HF, F2, O2, N2) oluşturan atomlar arasındaki sigma ve pi bağ türlerini belirlemek için bağ sayısı, bağ uzunluğu, bağ enerjisi ve orbital örtüşmesini ölçüt olarak belirler. Bu aşamada araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir ( D3.3 ) . H2, HF, F2, O2, N2 moleküllerini oluşturan atomların arasındaki bağların oluşumu için orbital örtüşmesini içeren hazır veri seti üzerinden tek, çift ve üçlü bağların niteliklerine ilişkin örüntüler belirler ( OB7 ) . Öğrencilerin tek, çift ve üçlü bağların niteliklerine ilişkin oluşturdukları örüntüleri bağ enerjisi, bağ uzunluğu ve bağ sayısına dayalı olarak açıklamaları sağlanır ( OB7 ) . Öğrencilerden çalışma yaprağında verilen tek, çift ve üçlü bağ içeren karbon bileşiklerindeki sigma ve pi bağlarını belirlemeleri istenebilir.",
+    "KİM.12.2.2",
+    "Öğrencilere metan, etilen ve asetilen moleküllerini oluşturan atomların atom orbitallerinin ve hibrit orbitallerinin enerji düzeylerini gösteren diyagramlar ile her bir orbitalin uzayda yönelim şekilleri verilir. Öğrenciler; karbon atomuna ait bağ sayıları, hibrit orbitalleri ve orbital enerjileri arasındaki ilişkileri inceleyerek tek, çift ve üçlü bağların nasıl oluştuğuna yönelik ölçütler belirlemeleri için yönlendirilir. Araştırmacı ve sorgulayıcı olmanın önemine vurgu yapılarak çalışkanlık değeri desteklenir ( D3.3 , OB4 ) . Öğrenciler, hazır veri setini kullanarak hibrit orbitallerinin oluşumuna ilişkin örüntü oluşturur. Metan, etilen ve asetilen moleküllerindeki orbital örtüşmelerinin üç boyutlu gösterimi üzerinden sigma ve pi bağlarının oluşumu verilerek öğrencilerden örüntü belirlemeleri istenir. Öğrencilerin belirledikleri örüntüyü gerekçelendirmeleri sağlanır ( E3.7 , OB4 ) . NH3, H2O, BeH2, BH3 moleküllerindeki merkez atoma ait hibrit orbitallerinin enerji düzeyini gösteren diyagramların incelenerek orbital örtüşmeleri ve merkez atomlardaki hibritleşme türlerinin belirlenmesi sağlanır ( KB2.7 ) . Öğrencilerden çalışma yaprağında verilen farklı moleküllerin merkez atomlarının yaptığı hibrit türlerini belirlemeleri istenebilir.",
+    "KİM.12.2.3",
+    "Öğrenciler; BeH2, H2O, BH3, NH3, CH4 moleküllerinin hibrit orbitallerinin uzaydaki yönelimlerine göre oluşan molekül geometrilerine ilişkin varsayımda bulunur. Öğrencilerden verilen molekül örneklerini inceleyerek aynı sayıda atom içeren moleküllerin geometrilerini kendi aralarında karşılaştırarak örüntü belirlemeleri istenir ( SDB2.1 , OB2 ) . Öğrencilerin BeH2, H2O, BH3, NH3, CH4 moleküllerinin uzay-dolgu modellerini incelemeleri sağlanır. Öğrencilerden belirledikleri molekül geometrileri ile verilen uzay-dolgu modellerini karşılaştırarak benzerlik ve farklılıkları tespit etmeleri istenir. Öğrencilerin üç atomlu molekülün doğrusal ya da açısal, dört atomlu molekülün düzlem üçgen ya da üçgen piramit, beş atomlu molekülün düzgün dört yüzlü geometriye sahip olduğuna ilişkin önermeler sunmaları sağlanır. Öğrenciler, VSEPR kuramı ile ilgili güvenilir bilgiye ulaşarak sunduğu önermeleri değerlendirir ( E3.10 , D3.3 , OB4 ) . Öğrenciler karbon allotroplarının özelliklerini içeren kanıt kartlarını kullanarak allotropların özelliklerini belirler, benzerlik ve farklılıklarını listeler ( KB2.7 ) . Kurşun kalem uçları kullanılarak mikro ölçekte grafen eldesi deneyi yaptırılır ( FBAB7 ) . Performans görevi çerçevesinde öğrencilerden verilen çeşitli molekülleri farklı materyaller kullanarak modellemeleri istenebilir.",
+    "KİM.12.2.4",
+    "Öğrencilerden etkinlik kâğıdında basit formülü, molekül formülü, çizgi bağ formülü, açık ve yarı açık formülü ile uzay dolgu molekül modelleri verilen çeşitli organik bileşiklerin yapı formülüne ilişkin örüntü belirlemeleri istenir. Öğrencilerin belirledikleri örüntüleri kullanarak organik bileşiklerin yapı formüllerine ilişkin genelleme yapmaları sağlanır ( KB2.16.1 , E3.4 , OB4 ) . Öğrencilerden çalışma yaprağında verilen çeşitli organik bileşiklerin açık formülü, yarı açık formülü, çizgi bağ formülü, molekül formülü ve basit formülünü belirlemeleri istenebilir. Etkinlik kâğıtları, \"örüntü oluşturabilme ve örüntüler üzerinden genelleme yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.12.2.5",
+    "Meyvelerin olgunlaştırılmasında kullanılan etilenin, mum yapımında kullanılan parafinin ve yünlü kumaşları güvelerden korumakta kullanılan naftalinin moleküler yapıları örnek gösterilerek öğrencilerin konuya dikkatleri çekilebilir. Öğrencilerin bazı alifatik ve aromatik hidrokarbonlara ilişkin verilen yapı formüllerini incelemeleri sağlanır. Öğrencilerden hidrokarbonları sınıflandırmaları için tek, çift ya da üçlü bağların varlığı, halkalı yapıların bulunması veya benzen halkasını içerip içermediği gibi ölçütler belirlemeleri istenir ( OB1 ) . Öğrenciler, belirledikleri ölçütler doğrultusunda hidrokarbonları alifatik ve aromatik hidrokarbonlar (benzen ve türevleri) olarak iki gruba ayrıştırır. Ayrıştırdıkları alifatik hidrokarbonları ise alkan, alken, alkin, halkalı hidrokarbonlar olarak gruplandırırlar. Öğrencilerden oluşturdukları grupları hidrokarbonların sınıflandırılmasına ilişkin bilimsel bilgilerle karşılaştırmaları istenir ( E3.6 , D3.3 , OB1 ) . Yapılandırılmış grid ile öğrencilerden verilen çeşitli hidrokarbonları alifatik (alkan, alken, alkin ve halkalı) ve aromatik hidrokarbonlar olarak sınıflandırmaları istenebilir.",
+    "KİM.12.2.6",
+    "Öğrencilere alifatik hidrokarbonların adlandırılmasında kullanılan ön ve son eklerin; ayrıca birincil (primer), ikincil (sekonder), üçüncül (tersiyer) alkil gruplarının yer aldığı çeşitli alifatik hidrokarbonların örneklerini kapsayan etkinlik kâğıtları verilir. Etkinlik kâğıtlarında her bir alifatik hidrokarbon sınıfına ilişkin moleküllerin yarı açık formülleri ile bunların sistematik adları da bulunmalıdır. Öğrenciler, etkinlik kâğıtlarındaki örnekleri inceleyerek her bir alifatik hidrokarbon sınıfının sistematik adlandırılmasına ilişkin bir örüntü bulmaları için yönlendirilir ( E3.6 , OB7 ) . Her grup bulduğu örüntü için genel bir formül belirler ( D3.3 ) . Ardından incelediği her alifatik hidrokarbon sınıfının IUPAC sistemi adlandırma kurallarına göre sistematik adlandırmasını yapar ( OB7 , KB2.9 ). Bazı aromatik bileşiklerin (benzen, toluen, fenol, anilin, benzoik asit, benzaldehit ve fenil eten) özel adları ve adlandırma sırasında sıklıkla kullanılan aril grupları öğrencilere verilir. Etkinlik kâğıtları, \"alifatik hidrokarbonların sistematik adlandırılmasına yönelik örüntü oluşturabilme, genellemeye ulaşabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile hem öğretmen hem öğrenci tarafından değerlendirilebilir ( SDB1.2 ) .",
+    "KİM.12.2.7",
+    "Karbon sayıları aynı olan dallanmamış ve dallanmış zincirli hidrokarbon örnekleri verilir ve öğrencilerden her bir bileşik örneğinin kapalı formülünü belirlemesi istenir. Öğrenciler, dallanmamış hidrokarbon molekülünün karbon sayısını değiştirmeden olası dallanmış yapı formüllerini çizer ve çizdiği her bir yapı formülünün kapalı formülünü yazar. Çizilen yapı formülü örnekleri kullanılarak \"kapalı formülleri aynı, yarı açık formülleri farklı olan hidrokarbonların birbirleri ile izomer olduğu\" bilgisi verilir. Öğrencilere kapalı formülleri aynı olan farklı alifatik hidrokarbon bileşiklerinin yer aldığı etkinlik kâğıdı verilir. Öğrencilerden verilen bileşiklerin kapalı ve yarı açık formüllerini incelemeleri ve aralarındaki farkı belirleyen ölçütleri (ana zincire bağlı grupların konumu, açık zincir veya halkalı yapı, ikili bağ yapmış karbon atomlarına bağlı grupların konumları, pi bağının konumu) tespit etmeleri istenir ( OB4 ) . Öğrenciler; kapalı formülleri aynı olan farklı hidrokarbonları, sikloalkan-alken, sikloalken-alkin, karbon atomlarının farklı şekillerde dizilmesi, alkenlerde ikili bağ yapmış karbon atomlarına bağlı grupların simetri eksenine göre konumları, pi bağının konumu şeklinde ayrıştırır. İncelediği alifatik hidrokarbonları izomerliklerine göre gruplandırır. Öğrencilerin grupların adlarını zincir-halka, zincir-dallanma, cis-trans ve konum izomeri olarak adlandırması sağlanır. Sikloalkanlarda cis-trans izomerleri işlenmez. Yapılandırılmış grid ile öğrencilerden farklı alifatik hidrokarbon örneklerinin izomerliklerini belirlemeleri istenebilir.",
+    "KİM.12.2.8",
+    "Öğrencilere alifatik hidrokarbonların yanma, katılma (H2, X2, HX, H2O katılması) ve polimerleşme tepkimesi verme eğilimleri, yaygın kullanım alanları, kaynama noktası ve buhar basıncı gibi kimyasal ve fiziksel özelliklerine ilişkin veriler verilir. Öğrencilerin alifatik hidrokarbonların dallanma ve içerdikleri karbon atomu sayısına göre değişen fiziksel özelliklerini, pi bağı bulundurmasına göre değişen kimyasal özelliklerini belirlemeleri sağlanır ( OB1 ) . Alifatik hidrokarbonların benzer ve farklı fiziksel ve kimyasal özelliklerinin listelenmesi öğrencilerden istenir ( OB1 ) . Venn diyagramı üzerinde alifatik hidrokarbonların fiziksel ve kimyasal özelliklerinin benzerlik ve farklılıklarının listelenmesi de istenebilir.",
+    "KİM.12.2.9",
+    "Öğrencilerin günlük hayatta kullandıkları dezenfektanlar, aseton, sirke gibi maddelerin kullanım alanları, fiziksel özellikleri (koku gibi), kimyasal özellikleri (yanıcılık gibi), benzerlik ve farklılıklarıyla ilgili fikirleri alınarak konuya dikkatleri çekilebilir. Fonksiyonel gruba sahip çeşitli organik bileşiklerin (alkol, eter, aldehit, keton, karboksilik asit ve ester) molekül ve yarı açık formüllerinin olduğu kanıt kartları öğrencilere verilir. Öğrencilerden kanıt kartlarında verilen organik bileşikleri fonksiyonel gruplarına göre sınıflandırabilmeleri için ölçütler (-OH, -OR, -COR, -COOH, -COOR) belirlemeleri istenir. Öğrenciler inceledikleri organik bileşikleri, yapısındaki fonksiyonel grubuna göre ayrıştırır. Öğrencilerin ayrıştırdığı organik bileşikleri alkol, eter, aldehit, keton, karboksilik asit ve ester olarak gruplandırmaları sağlanır ( OB7 ) . Öğrenciler, fonksiyonel gruplarına göre oluşturdukları grup adlarını güvenilir bilgiye ulaşarak bilimdeki karşılığı ile kıyaslar ( D3.3 ) . Yapılandırılmış grid ile öğrencilerden farklı organik bileşikleri fonksiyonel gruplarına göre sınıflandırmaları istenebilir.",
+    "KİM.12.2.10",
+    "Öğrencilere çeşitli alkol, eter, aldehit, keton, karboksilik asit ve ester bileşiklerinin yapı formülleri, IUPAC sistemine göre adları, adlandırmada kullanılabilecek Latince ön ve son eklerin bulunduğu etkinlik kâğıtları verilir. Etkinlik kâğıtları her bir organik bileşik türü için ayrı ayrı hazırlanır. Öğrenciler; alkol, eter, aldehit, keton, karboksilik asit ve ester için hazırlanan etkinlik kâğıdındaki her bir organik bileşiği inceler ve bileşiklerdeki fonksiyonel grubu, en uzun karbon zincirini ve varsa yan grupları belirler ( OB7 ) . Organik bileşikler üzerinde belirledikleri kısımlar ile bileşiğin sistematik adı arasında ilişki kurar. Organik bileşiklerin sistematik adlandırılma kurallarına ilişkin genelleme yapılması sağlanır ( OB7 ) . Alkollerin adlandırılması etkinliğinde ayrıca hidroksi grubu sayısı farklı alkollerin molekül ve yarı açık formüllerinin olduğu bir tablo verilir. Öğrencilerin etkili iletişim kurmaları, olaylar ve durumlar karşısında farklı bakış açıları olabileceğini kabul etmeleri sağlanarak öğrencilere bu bileşikler arasında fark olup olmadığı ve bunları hangi ölçütü kullanarak ayırt edebilecekleri sorulur ( SDB2.1 , D4.1 , D10.3 ) . Öğrenciler, karışık olarak verilen alkol moleküllerini hidroksi grubu sayısına göre gruplandırır ( OB1 ) . Alkollerin adlarını içerdiği hidroksi grubu sayısına göre monoalkol ve polialkol (diol, triol) olarak belirler. Ardından alfa karbonundaki alkil grubu sayısı farklı alkollerin molekül ve açık formüllerinin olduğu tablo verilir. Öğrencilerden karışık olarak verilen alkol moleküllerini inceleyerek alkolleri alfa karbonuna bağlı alkil grubu sayısına göre ayrıştırmaları istenir ( OB7 ) . Öğrenciler ayrıştırdıkları alkolleri alfa karbonuna bir tane alkil grubu bağlı (birincil karbon atomu), iki tane alkil grubu bağlı (ikincil karbon atomu) ve üç tane alkil grubu bağlı (üçüncül karbon atomu) şeklinde gruplandırır ( E3.7 ) . Alkolleri alfa karbonundaki alkil sayısına göre birincil (primer), ikincil (sekonder) ve üçüncül (tersiyer) alkol olarak adlandırır ( OB7 ) . Öğrencilere aynı karbon atomunda birden fazla (-OH) grubunun bağlı olduğu moleküller ile -OH grubunun bağlı olduğu karbon atomunda pi bağı bulunan kimyasal türlerin alkol olmadığı bilgisi verilir. Öğrencilere çeşitli ester moleküllerinin yarı açık formüllerinin, sistematik adlarının ve ilgili esteri oluşturan karboksilik asit ve alkolün sistematik adının bulunduğu etkinlik kâğıdı verilir. Öğrenciler, ester molekülündeki oksijen atomuna bağlı olan alkil grubunu -OR ve RCO- grubundaki karbon sayısına karşılık gelen karboksilik asidi belirler. Ester molekülü üzerinde belirledikleri kısımlar ile bileşiğin sistematik adı arasında ilişki kurar ( OB4 ) . Öğrencilerden esterlerin sistematik adlandırma kurallarına ilişkin genelleme yapmaları istenir. Ayrıca öğrencilere esterlerin özel adları da verilir. Öğrencilere aynı molekülde farklı fonksiyonel gruba (-OH, -OR, -CHO, -COR, -COOH, -COOR, -C6H5, -X) sahip organik bileşikler ve IUPAC sistemine göre adlarının bulunduğu etkinlik kâğıdı verilir. Öğrencilerden gruplara ayrılmaları ve iş birliği içinde organik bileşiklerin adlandırılmasında fonksiyonel grup önceliğini belirlemeleri istenir ( E2.1 , SDB2.1 , SDB2.2 , D3.4 , D10.3 ) . Etkinlik kâğıtları \"fonksiyonel gruba sahip organik bileşiklerin fonksiyonel grubu, ana zinciri ve yan gruplarını belirleyebilme; organik bileşiklerin fonksiyonel grubu ile bileşiğin sistematik adı arasında ilişki kurabilme ve organik bileşiklerin sistematik adlandırılma kurallarına ilişkin genelleme yapabilme\" ölçütlerini içeren dereceli puanlama anahtarı ile öğretmen tarafından değerlendirilebilir veya öğrenciden öz değerlendirme yapması istenebilir ( SDB1.2 , SDB1.3 ) . Öğrencilerden çalışma yaprağında verilen çeşitli alkol, eter, aldehit, keton, karboksilik asit, ester bileşiklerinin IUPAC sistemine göre adlarını belirlemeleri istenebilir.",
+    "KİM.12.2.11",
+    "Öğrencilere kapalı formülleri aynı, fonksiyonel grubu farklı olan çeşitli organik bileşiklerin (alkol, eter, aldehit, keton, karboksilik asit, ester) sistematik adları ve kapalı formülleri etkinlik kâğıdında verilir. Öğrenciler, kapalı formülleri aynı olan bileşikleri diğerlerinden ayırır ve bileşikleri alkol-eter, aldehit-keton, karboksilik asit-ester şeklinde ikili gruplara ayırır ( OB4 ). Bileşikleri ilk olarak çizimleriyle modelleyen öğrenciler, modelleri ile ilgili açıklama ve tartışmalarının ardından kendilerine verilen malzemelerle (atom modelleri, hamur, kürdan, tel vb.) bileşiklerin uzay-dolgu modellerini oluşturur ( SDB2.1 , SDB2.2 ) . Sınıfta grupların oluşturduğu modeller incelenir, bileşikleri temsil etme durumları açısından değerlendirilir ve bilimsel modellerle karşılaştırılır ( E3.10 , OB4 , D3.3 ) . Öğrencilere sorular sorularak kapalı formülleri aynı, fonksiyonel grubu farklı olan bileşiklerin birbiriyle izomer olduğu çıkarımına ulaşmaları sağlanır. Bu tür izomerliğin fonksiyonel grup izomerliği olduğu ifade edilir. Öğrencilerden çalışma yaprağında verilen kapalı formülleri aynı olan bileşikler için fonksiyonel grubu farklı olan modeller önermeleri istenebilir. Öğrencilere alkol ve eterlerin, aldehit ve ketonların, karboksilik asit ve esterlerin genel özellikleri (hibrit türü, polar yapısı, hidrojen bağı içerme durumu, suda çözünmesi, kaynama noktası, kokusu) hakkında bilgi verilir. Öğrencilere bazı önemli alkollerin (metil alkol, etil alkol, etandiol, propantriol) ve eterlerin sağlık, kozmetik gibi sektörlerde nasıl kullanıldığına ilişkin araştırma görevi verilebilir ( KB2.6 ) . Bazı önemli aldehitlerin ve ketonların (formaldehit, aseton) kozmetik ve gıda sektöründe nasıl kullanıldığına ilişkin araştırma görevi verilebilir. Bunların yanı sıra karboksilik asitlerin ve esterlerin (formik asit, asetik asit, benzoik asit, salisilik asit, ftalik asit, folik asit, sitrik asit, malik asit, lanolin, balmumu, balsam) sağlık, kozmetik, gıda sektöründe nasıl kullanıldığına ilişkin araştırma görevi de verilebilir ( KB2.6 , D13.4 ) . Öğrencilerden çeşitli organik bileşiklerin kullanım alanları ile ilgili araştırma görevi sırasında bu bileşiklerin insana ve çevreye olumlu ve olumsuz etkilerini belirlemeleri, bu bileşikleri içeren ürünlerin kullanımına yönelik kendilerini değerlendirmeleri, bu süreçte neler hissettikleri ve bu bileşiklerin çeşitli sektörlerde daha etkili kullanılması için neler yapılabileceği üzerine bir rapor yazmaları istenebilir ( SDB1.1 , SDB1.3 , SDB2.3 , SDB3.3 , OB8 ) .",
+    "KİM.12.2.12",
+    "Karbon temelli enerji kaynaklarının neler olduğu sorulur. Kömür, petrol, doğal gaz ve alkolün karbon temelli enerji kaynakları olduğu söylenir. Etkinlik kâğıdında kömür, petrol, doğal gaz ve alkolün her birinin temel bileşenleri kapalı formülleriyle birlikte verilir. Öğrencilerden fosil yakıtların temel bileşenlerinin yanma tepkimelerini yazmaları, tepkimelerin ekzotermik özelliğine ve yanma ürünlerine ilişkin varsayımlarda bulunmaları istenir. Öğrencilere kömürün oluşum sürecine, türlerine, yer altındaki derinliklerine, yanma ısılarına ve kimyasal içeriğine ilişkin kanıt kartları verilir. Öğrenciler, kanıt kartlarını inceleyerek kömür türlerinin karbon içerikleri, yer altındaki derinlikleri, yanma sırasında ürettikleri enerji ve sera gazı emisyonları arasındaki ilişkiyi belirler.",
+    "Öğrencilerden kömür türleri ile bunların kimyasal içeriği arasındaki ilişkinin yanı sıra azot oksitler ve kükürt dioksit gazları emisyonları arasındaki bağlantıyı da belirlemeleri istenir. Bu bağlamda öğrenciler; kömür, petrol ve doğal gazın kimyasal içeriği, yandıklarında verdikleri enerji miktarı ve emisyon gaz miktarlarını gösteren kanıt kartlarını inceler; enerji kaynaklarını yandıklarında açığa çıkan enerji miktarı ve emisyon ayak izleri açısından karşılaştırır ( OB8 ) . Karşılaştırma sonuçlarından hareketle karbon temelli enerji kaynaklarının kimyasal içeriği ile sera etkisi, hava kirliliği ve asit yağmuruna neden olma potansiyeline ilişkin önermeler sunar. Önermeleri duyarlılık ve temizlik değerleri kapsamında değerlendirir ( D5.2 , D18.3 ) . Öğrencilerden önermelerini sınıfta sunulan diğer önermeler ile karşılaştırmaları ve yeni bilimsel veriler eşliğinde değerlendirmeleri istenir ( E3.10 , SDB2.1 , OB8 ) . Öğrenciler; etkinlik kâğıdında verilen çeşitli hidrokarbonların açık ve kapalı formüllerini, uzay-dolgu molekül modellerini, yanma tepkimelerini (sembolik ve alt mikro seviyede) ve yanma ısısını içeren bilgileri inceler. Öğrencilere hidrokarbonların yanma ısısı ile karbon içeriği, düz zincir veya dallanmış zincir yapısı arasında ilişki kurmalarını sağlayacak sorular sorulur ( OB7 ) . Ayrıca hidrokarbonların kararlılıkları ile yanma ısıları arasında da ilişki kurmaları için öğrencilere sorular sorulur. Fosil yakıtların oksijen ile yanma tepkimesi verdiği gibi hidrojenin de oksijen ile olan tepkimesine dikkat çekilerek hidrojenin de yakıt olarak kullanılıp kullanılamayacağının sorgulanması sağlanır. Ayrıca benzinin yapısı ve oktan sayısının önemi hakkında bilgi verilir.",
+    "Öğrencilerden gruplara ayrılmaları ve kendilerine verilen alkoller (farklı karbon sayılı, düz zincirli, dallanmış, monoalkol, polialkol vb.) arasından en fazla enerji veren alkolü belirlemek amacıyla iş birliği içinde deney planlamaları istenir ( D3.2 ) . Öğrencilere deneye başlamadan önce deney sürecinde uymaları gereken laboratuvar güvenliği kuralları hatırlatılır. Öğrenciler verilen propanol, 2-propanol, bütanol, 2-bütanol, pentanol, 2-pentanol bileşikleri arasından aynı karbon sayısına sahip olan iki alkolü seçer ve mini ispirto ocaklarını kullanarak deneyini yapar ( OB1 ) . Bu süreçte öğrencilerin grup arkadaşlarıyla uyumlu çalışmaları ve mütevazılık değerini pekiştirmeleri beklenir ( SDB2.2 , D10.3 ) . Öğrencilerden deney verilerine dayanarak alkollerin düz zincirli ve dallanmış zincirli yapıları ile yanma tepkimesi sonucunda açığa çıkan ısı arasında ilişki kurmaları ve alkollerin dallanma yapısına bağlı olarak yanma ısısında gözlemlenen azalmayı alkolün molekülleri arasındaki hidrojen bağı kuvvetindeki azalma ve kararlılık ile ilişkilendirilerek açıklamaları beklenir ( E1.3 , OB8 ) . Öğrencilerden performans görevi çerçevesinde farklı fosil yakıtların kullanımıyla ortaya çıkan enerji miktarını ve sera gazlarını araştırarak çevreye olan etkilerini belirlemeleri ve sürdürülebilir bir çevre için hangi fosil yakıtın kullanılması gerektiği ile ilgili çıkarım yapmaları istenebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D10.3",
+      "D13.4",
+      "D18.3",
+      "D3.2",
+      "D3.3",
+      "D3.4",
+      "D4.1",
+      "D5.2"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E2.1",
+      "E3.10",
+      "E3.4",
+      "E3.6",
+      "E3.7"
+    ],
+    "diger": [
+      "FBAB7"
+    ],
+    "kavramsal": [
+      "KB2.16.1",
+      "KB2.6",
+      "KB2.7",
+      "KB2.9"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2",
+      "OB4",
+      "OB7",
+      "OB8"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB1.3",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/168"
+}

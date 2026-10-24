@@ -1,0 +1,85 @@
+{
+  "unitId": 75,
+  "grade": 6,
+  "gradeName": "6. Sınıf",
+  "subject": "Din Kültürü ve Ahlak Bilgisi Dersi",
+  "title": "2. ÜNİTE: RAMAZAN VE ORUÇ",
+  "hours": "14",
+  "description": "Bu ünitenin teması ibadettir. Ünitede, ramazan ayı ve oruç ibadeti ele alınmaktadır. Öğrencilerin ramazan ayının oruç ve Kur’an ayı olduğunu çözümlemeleri, oruç ibadeti ve önemi ile ilgili bilgi toplamaları, oruç ibadetinin bireye ve topluma kazandırdıklarını yapılandırmaları amaçlanmaktadır. İftar duasını ve bu duanın anlamını okuyarak yorumlamaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "DKAB.6.2.1",
+      "title": "Ramazan ayının oruç ve Kur'an ayı olduğunu çözümleyebilme",
+      "processComponents": [
+        "a) Temel İslam kaynaklarından hareketle ramazan ayını oruç ve Kur'an ayı olarak öğretmen rehberliğinde açıklar.",
+        "b) Ramazan ayı ile oruç ve Kur'an okuma ibadeti arasındaki ilişkiyi inceler."
+      ]
+    },
+    {
+      "code": "DKAB.6.2.2",
+      "title": "Oruç ibadeti hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Oruç ibadeti konusunu araştırır.",
+        "b) Oruç ibadeti hakkında bilgiler bulur.",
+        "c) Oruç ibadeti hakkında elde ettiği bilgileri öğretmen rehberliğinde doğrular.",
+        "ç) Oruç ibadeti hakkında elde ettiği bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "DKAB.6.2.3",
+      "title": "Oruç ibadetinin insana kazandırdıklarını yapılandırabilme",
+      "processComponents": [
+        "a) Oruç ibadetinin insana kazandırdıklarını inceleyerek mantıksal ilişkiler kurar.",
+        "b) Oruç ibadetinin insana kazandırdıkları hakkında kendi elde ettiği bilgilerden hareketle uyumlu bir bakış açısı geliştirir."
+      ]
+    },
+    {
+      "code": "DKAB.6.2.4",
+      "title": "İftar duasını ve bu duanın anlamını okuyarak yorumlayabilme",
+      "processComponents": [
+        "a) İftar duasını ve bu duanın anlamını okur.",
+        "b) İftar duasının anlamını kendi hayatı için anlamlı hâle getirir.",
+        "c) İftar duasının anlamını değiştirmeyecek şekilde özetler."
+      ]
+    }
+  ],
+  "keyConcepts": "fitre, iftar, imsak, mukabele, oruç, ramazan, sahur, teravih",
+  "support": [
+    "Oruç ve ramazan ayı ile ilgili bilgileri gerçek hayat tecrübeleriyle ilişkilendirmeleri için öğrencilerden kendi tecrübelerini sınıfta paylaşmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden oruç ibadetinin insana kazandırdıkları konulu bir röportaj yapmaları istenebilir. Ramazan ve oruçla ilgili kavramlar hakkında öğrencilerin oyun tasarlamaları istenebilir. Ramazan ayında diğer aylardan farklı olan şeylerle ilgili gözlem yaparak bununla ilgili bir ödev hazırlayabilir."
+  ],
+  "assessment": [
+    "Bu ünitenin ölçme değerlendirme sürecinde açık uçlu soru, kısa cevaplı soru, çalışma yaprağı, kavram haritası, öz değerlendirme formu kullanılabilir.",
+    "Performans Görevi: Oruç ve Kur'an ayı olarak ramazan hakkında sunu hazırlanabilir. Ramazan ve oruç ibadetiyle ilgili kavramların yer aldığı kavram haritası hazırlanabilir. Oruç ibadetinin insana kazandırdıklarının değerlendirildiği bir panel hazırlanabilir. İftar duası ve bu duanın anlamıyla ilgili eşleştirme etkinliği hazırlanabilir. Performans görevleri, ölçütlere göre oluşturulan puanlama anahtarı ile değerlendirilir. Öğrencinin ünite süresince yaptığı ürün çıktıları bir araya getirilerek öğrenci ürün dosyası oluşturulur.",
+    "Sonuç değerlendirmede performans görevlerine yer verilebileceği gibi yazılı yoklamalar da kullanılabilir."
+  ],
+  "teachingApplications": [
+    "DKAB.6.2.1 Öğrencilerin konuyla ilgili merakını ( E1.1 ) uyandıracak çeşitli etkinlikler planlanır. Bu kapsamda Eğitim Bilişim Ağı'ndan (EBA) ramazan ayı ile ilgili videolar izletilir. Öncelikle ramazan ayının Müslümanlar için önemine ve değerine yer verilir. Ramazan ayının oruç ayı olduğu ve Müslümanların bu ayda farz olan oruç ibadetini yerine getirdikleri anlatılır. Ramazan ayının Kur'an ayı olduğuna vurgu yapılır ve Kadir Gecesi'nin önemine değinilir. Temel İslam kaynaklarından hareketle öğrencilerin ramazan ayını oruç ve Kur'an ayı olarak öğretmen rehberliğinde açıklaması sağlanır. Öğrencilerden öğrendiklerini kendi cümleleriyle yorumlaması istenir ( OB1 ) . Ramazan ayı ile oruç ve Kur'an okuma ibadeti arasındaki ilişki incelenir. Böylece öğrenciler ramazan ayını diğer aylardan ayıran özellikler arasında ilişki kurar.",
+    "DKAB.6.2.2 İslam'ın ibadet esasları arasında oruç ibadetinin yeri ve önemi ile orucun kimlere farz olduğu hakkında öğrencilerin bilgi toplaması sağlanır. Sahur, imsak, iftar, teravih, mukabele ve fitre kavramları açıklanır. Konuyla ilgili ayrıntılı ilmihal bilgilerinden kaçınılarak oruçlunun dikkat etmesi gereken hususlara, orucu bozan ve bozmayan durumlara örnekler verilir. Öğrenci seviyesi göz önünde bulundurularak farz, vacip, sünnet olan oruç çeşitlerine kısaca değinilir. Öğrencilerden öğrendiği kavramlar arasındaki ilişkileri belirleyip bunlarla oruç ibadeti arasında ilişki kurmaları istenir. Oruçla ilgili kavramlar hakkında elde edilen bilgileri, öğrenciler öğretmen rehberliğinde doğrulayıp defterlerine kaydederler.",
+    "DKAB.6.2.3 Orucun insana kazandırdıkları konusunda öğrencilere \"Niçin oruç tutulur?\" sorusu sorularak beyin fırtınası yaptırılır. Verilen cevaplardan yola çıkılarak öğrencilerden oruç ibadetinin insana kazandırdıklarıyla ilgili mantıksal bir ilişki kurmaları istenir. Oruçlu insanın duygu, düşünce ve davranışlarını kontrol ederek sabırlı olması ( D12.2 ) ve bu hususta istikrarlı olmasının ( D12.3 ) önemi vurgulanır. İftar davetleri, fitre ve sadakanın yardımseverlik ( D20.3 ) , cömertlik ( D20.1 ) , dayanışma ( D20.2 ) gibi ahlaki özelliklerin kazanılmasına katkıda bulunduğu fark ettirilir. Öğrencilerin oruç ibadetiyle ilgili duygu ve düşüncelerini değerlendirerek oruç ibadetinin insana kazandırdıkları hakkında çıkarımda bulunması sağlanır ( SDB1.3 ) .",
+    "DKAB.6.2.4 Öğrencilere \"İftar duası hakkında neler biliyorsunuz?\" sorusu yöneltilir. İftar kelimesinin anlamı açıklanarak iftar duasının içerdiği mesajlar ve nerelerde okunduğu hakkında bilgi verilir. İftar duasını dinlemek üzere Eğitim Bilişim Ağı'ndan (EBA) uygun içerikler belirlenir. Öğrencilerin bu adresi kullanmaları sağlanarak ( OB2 ) duanın doğru telaffuzunu öğrenmeleri için dinleme etkinliği yapılır. Öğrencilerin bu duayı kendine güvenerek ( E1.5 ) okuması için sesli okuma etkinliği yapılabilir. Duanın anlamı incelenir. Duanın anlamından çıkarılacak mesajlarla ilgili etkinlikler yapılarak dua değerlendirilebilir. Öğrencilerin duanın anlamını kendi hayatı için anlamlı hâle getirmesi sağlanır. Öğrencilerin iftar duasının anlamını değiştirmeyecek şekilde kendi cümleleriyle yeniden ifade etmeleri için yazma etkinliği yapılabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D12.2",
+      "D12.3",
+      "D20.1",
+      "D20.2",
+      "D20.3"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.5"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB2"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/75"
+}

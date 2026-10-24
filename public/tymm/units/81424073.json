@@ -1,0 +1,54 @@
+{
+  "unitId": 81424073,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "73. ÜNİTE: NEY - NEYDE ARA PERDE UYGULAMALARI",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.10.5.1",
+      "title": "Neyde ikinci kademedeki ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.5.2",
+      "title": "Üçüncü kademedeki ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.5.3",
+      "title": "İkinci ve üçüncü kademedeki ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.5.4",
+      "title": "Dördüncü kademe ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.5.5",
+      "title": "İkinci, üçüncü ve dördüncü kademedeki ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.5.6",
+      "title": "Birinci kademedeki ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    },
+    {
+      "code": "MA.10.5.7",
+      "title": "İkinci kademe ile birinci kademe arasındaki köprü ara perdeleri içeren etütler seslendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

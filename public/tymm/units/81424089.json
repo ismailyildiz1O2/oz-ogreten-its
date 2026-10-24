@@ -1,0 +1,34 @@
+{
+  "unitId": 81424089,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "89. ÜNİTE: KEMANE - KEMANEYİ TANIYALIM",
+  "hours": "5",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.13.1.1",
+      "title": "Kemaneyi oluşturan bölümleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.1.2",
+      "title": "Kemanede tellerin akort edileceği sesleri açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.1.3",
+      "title": "Kemanede tellerin doğru akort edilme şeklini uygular",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

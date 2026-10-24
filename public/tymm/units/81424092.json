@@ -1,0 +1,44 @@
+{
+  "unitId": 81424092,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Sanat Eğitimi Dersi",
+  "title": "92. ÜNİTE: KEMANE - KEMANEDE ESER İCRALARI",
+  "hours": "18",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "MA.13.4.1",
+      "title": "Kemane yöre sanatçılarını araştırır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.4.2",
+      "title": "Kemane sanatçılarını araştırır",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.4.3",
+      "title": "Kemane icracılarından öğrendiklerini kendi seviyesine uygun etüt veya eser üzerinde uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.4.4",
+      "title": "Kemanede seviyesine uygun farklı yörelere ait eserleri yay ve çalma tekniklerini doğru kullanarak uygular",
+      "processComponents": []
+    },
+    {
+      "code": "MA.13.4.5",
+      "title": "Türk halk müziği repertuvarından olan çeşitli ezgileri kemanede çalar",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121816157757-sanat.pdf"
+}

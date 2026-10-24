@@ -1,0 +1,55 @@
+{
+  "unitId": 81294009,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "9. ÜNİTE: II. DÜZEY 4. TEMA: BİLİMİN SERÜVENİ",
+  "hours": "20",
+  "description": "“Bilimin Serüveni” bilimin modern dönemindeki bilimsel keşifler ve dönüşümleri, bilimsel çağda sosyal ve teknolojik dönüşümler gibi konuları kapsar. Bu temayla öğrencilere bilimsel gelişmelerin toplum ve teknoloji üzerindeki etkilerini değerlendirme becerisinin kazandırılması amaçlanır. “Bilimin Serüveni” teması kapsamında öğrencilerden Doppler etkisini kullanarak ultrason cihazının çalışmasını çözümlemeleri, hava itimli roket modeli tasarlamaları, tıp ve sağlık alanındaki önemli buluşların canlıların yaşam kalitesi ve uzunluğu üzerindeki etkilerini değerlendirmeleri, çevresel farkındalık ve sürdürülebilir çevre arasındaki ilişkiyi çözümleyecek deney yapmaları, teknolojik cihazların bilgi ve enerjiyi yakalayıp iletmesi olayını, dalga davranışı ilkelerini, madde ve dalga etkileşimlerini kullanarak çözümlemeleri beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.2.4.1.1",
+      "title": "Doppler etkisini kullanarak doppler ultrason cihazının çalışmasını çözümler",
+      "processComponents": [
+        "Doppler ultrasonun ses dalgalarını kullanarak görüntü oluşturmak için nasıl çalıştığını açıklamaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.4.1.3",
+      "title": "Tıp ve sağlık alanındaki önemli buluşların canlıların yaşam kalitesi ve süresi üzerindeki etkilerini değerlendirir",
+      "processComponents": [
+        "Tıp alanındaki uygulamaların ve tedavilerin modern bilim döneminde nasıl değiştiği açıklanır. Bu uygulamaların ve tedavilerin canlıların yaşam kalitesi ve süresi üzerindeki etkilerini değerlendirmeleri sağlanır.",
+        "Yapay zekâ destekli sağlık hizmetlerinin olumlu/olumsuz etkilerini sınıf ortamında tartışmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.4.1.2",
+      "title": "Hava iƟ mli roket modeli tasarlar",
+      "processComponents": [
+        "Hava iƟ mli roketlerin çalışma ilkeleri ele alınır. Hava iƟ mli roket modellerini incelemeleri ve hava iƟ mli roket modeli tasarlamaları sağlanır. Hava iƟ mli roket tasarımındaki eksiklikleri belirlemeleri ve hava iƟ mli rokeƟ güncellemek için gerekli düzeltmeleri yapmaları sağlanır.",
+        "Elektroforez yöntemi kullanılarak deney yapılır. Deneyden elde edilen sonuçlar gerçek dünyadaki nesneleri, olayları veya olguları açıklamak amacıyla kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.2.4.2.1",
+      "title": "Çevresel farkındalık ve sürdürülebilir çevre arasındaki ilişkiyi çözümleyecek deney yapar",
+      "processComponents": [
+        "Dengeli Dünya Modeli Yaklaşımı ile sürdürülebilir kalkınma arasında ilişki kurmaları sağlanır. Sentetik biyolojinin temel kavramları ve bu kavramların yararları açıklanır. Geri dönüştürülebilen maddelerin neler olduğu, nasıl ayrılması gerektiği ve nasıl dönüştürüldüğü belirtilir. Türkiye'de uygulanan geri dönüşüm programları hakkında bilgi edinmeleri ve rapor hâlinde kaydetmeleri sağlanır.",
+        "Polimer tabanlı malzeme kullanılarak antibiyotiklerin atık sulardan uzaklaştırılması deneyi yapılır."
+      ]
+    },
+    {
+      "code": "FBU.2.4.2.2",
+      "title": "Teknolojik cihazların bilgi ve enerjiyi yakalayıp iletmesi olayını, dalga davranışı ilkelerini, madde ve dalga etkileşimlerini kullanarak çözümler. Telefonların dijital resim oluşturmak için ışık dalgalarını nasıl yakaladığını açıklamaları sağlanır. Telefona ulaşan bilginin anında görünme nedeni ve telefona gelen mesajin görüntüye dönüştürülme süreci açıklanır",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

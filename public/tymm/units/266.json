@@ -1,0 +1,122 @@
+{
+  "unitId": 266,
+  "grade": 12,
+  "gradeName": "12. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "1. ÜNİTE: KUVVET VE HAREKET",
+  "hours": "46",
+  "description": "Bu ünitede öğrencilerin torku tanımlamaları ve torkun büyüklüğünü hesaplamaları; denge, kütle merkezi ve ağırlık merkezi kavramlarını açıklamaları, itme ve momentum değişimi arasındaki ilişkiyi yorumlamaları, momentumun korunumuna yönelik hesaplamalar yapmaları, eylemsizlik momenti hakkında çıkarım yapmaları, açısal momentumun temel kavramlarını kullanarak açısal momentumun korunumu ile ilgili olayları açıklayabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.12.1.1",
+      "title": "Torkun matematiksel modeline yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Torkun kuvvet, dönme noktasına uzaklık ve kuvvetin uygulama açısı ile ilişkisini matematiksel olarak modeller.",
+        "b) Torkun matematiksel modelini geneller."
+      ]
+    },
+    {
+      "code": "FİZ.12.1.2",
+      "title": "Denge, kütle merkezi ve ağırlık merkezi ile ilgili kanıt kullanabilme",
+      "processComponents": [
+        "a) Denge, kütle merkezi ve ağırlık merkezi ile ilgili verileri toplayarak kaydeder.",
+        "b) Denge, kütle merkezi ve ağırlık merkezi ile ilgili veri setleri oluşturur.",
+        "c) Denge, kütle merkezi ve ağırlık merkezi kavramlarını veriye dayalı olarak açıklar."
+      ]
+    },
+    {
+      "code": "FİZ.12.1.3",
+      "title": "İtme (İmpuls) ve momentum değişimi arasındaki ilişkiye yönelik bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) İtme ve momentum değişimi arasındaki ilişkiye yönelik bileşenleri tanımlar.",
+        "b) İtme ve momentum değişimi arasındaki ilişkiye yönelik verileri toplayarak kaydeder.",
+        "c) İtme ve momentum değişimi arasındaki ilişkiye yönelik verileri yorumlar."
+      ]
+    },
+    {
+      "code": "FİZ.12.1.4",
+      "title": "Momentumun korunumunu veriye dayalı tahmin edebilme",
+      "processComponents": [
+        "a) Momentumun korunumuna ilişkin verileri toplar.",
+        "b) Veriler üzerinden momentumun korunumuna ilişkin hesaplamalar yapar.",
+        "c) Momentumun farklı uygulamalardaki korunumuna ilişkin yargıda bulunur."
+      ]
+    },
+    {
+      "code": "FİZ.12.1.5",
+      "title": "Eylemsizlik momentine yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Eylemsizlik momentinin etkilerini birden fazla durumda gözlemler.",
+        "b) Eylemsizlik momentinin bağlı olduğu değişkenler ile ilişkisini bulur.",
+        "c) Eylemsizlik momentinin bağlı olduğu değişkenler ile ilişkisini geneller."
+      ]
+    },
+    {
+      "code": "FİZ.12.1.6",
+      "title": "Açısal momentumun korunumuna yönelik tümevarımsal akıl yürütebilme",
+      "processComponents": [
+        "a) Açısal momentumun bağlı olduğu değişkenleri gözlemler.",
+        "b) Açısal momentum ile bağlı olduğu değişkenler arasındaki ilişkiyi bulur.",
+        "c) Açısal momentumun korunumunu bağlı olduğu değişkenler üzerinden geneller."
+      ]
+    }
+  ],
+  "keyConcepts": "tork, denge, kütle merkezi, ağırlık merkezi, itme, momentum, eylemsizlik momenti, açısal momentum",
+  "support": [
+    "Kuvvet koluna dik uygulanan kuvvetlerin uygulandığı tork problemleri ile sınırlı kalınabilir. Düzgün geometrik şekle sahip tek cismin kütle ve ağırlık merkezleri ile ilgili problemlere çözüm getirilebilir."
+  ],
+  "enrichment": [
+    "Öğrenciler balistik sarkacın kullanım alanlarını ve fizik bilimi bağlamında hangi niceliklere ait matematiksel hesaplamaların yapıldığını araştırabilir. Astronotların uzay boşluğundaki hareketleri itme-momentum ve momentumun korunumu ile ilişkilendirilebilir. Öğrenciler lunaparklarda çalışan eğlence araçlarını fotoğraflayarak kullanım amacı ile birlikte her bir araç için fotoğraflar üzerinde fiziksel yasa, kavram ve olguları açıklayan dijital bir içerik oluşturabilir. Öğrencilere açısal ve çizgisel momentum kullanılarak uçan cisim tasarımı yaptırılabilir.",
+    "*Öğrencilere su roketi tasarımı yaptırılabilir.",
+    "*Astronot kıyafetlerinin geçmişten günümüze teknolojik gelişimi incelenebilir. Bu inceleme sonucunda elde edilen bilgilerin ve itme ile momentum kavramlarının dikkate alındığı bir astronot kıyafeti tasarım önerisi hazırlanabilir. Hazırlanan bu tasarım, öneri olarak astronotlara sunulabilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; soru kutusu, rapor hazırlama, çalışma yaprağı, sunum, test, zihin haritası kullanılarak değerlendirilebilir.",
+    "Torkun farklı uygulama alanlarına yönelik soru kutusu kullanılabilir. Soru kutusunun değerlendirilmesi öz değerlendirme formu ile yapılabilir. Öğrencilerden denge, kütle ve ağırlık merkezi kanıtlarına yönelik kısa bir rapor hazırlamaları istenebilir. Raporun değerlendirilmesi dereceli puanlama anahtarı ile yapılabilir. İtme ve momentum değişimi arasındaki ilişkiye yönelik ve eylemsizlik momentine etki eden değişkenler arasındaki matematiksel ilişkiyi değerlendirmeleri için açık uçlu sorulardan oluşan çalışma yaprağı ve test verilebilir. Çalışma yaprağının ve testin değerlendirilmesi puanlama anahtarı ile yapılabilir. Öğrencilerden momentum korunumuna örnek oluşturacak hareketler ile ilgili sunum hazırlamaları istenebilir. Sunumun değerlendirilmesi analitik dereceli puanlama anahtarı ile yapılabilir. Açısal momentumun korunumuna yönelik zihin haritası kullanılabilir. Zihin haritasının değerlendirilmesi öz değerlendirme formu veya kontrol formu ile yapılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.12.1.1",
+    "Öğrenciler günlük hayatta karşılaştıkları kapı açma ve maden suyu şişesinin kapağını açma gibi örnekler ile ön bilgilerindeki kuvvetin döndürme etkisini ilişkilendirir ( SDB1.1 ) . Öğretmen, öğrencilerde tork ile ilgili farkındalık oluşturabilir. Soru cevap tekniğini kullanarak öğrencilerin torkun niteliklerini tanımlamasını sağlayabilir. Öğrenciler, öğretmen rehberliğinde gruplara ( SDB2.2 ) ayrılır. Gruplar simülasyon deneyinde kuvvetin büyüklüğü, kuvvetin dönme noktasına uzaklığı ve kuvvetin uygulama açısı değişkenlerini değiştirerek bu değişkenlerin torka etkisine yönelik ölçümler yapabilir. Öğretmen torkun matematiksel modeline ulaşabilmeleri için gruplar arası tartışma etkinliği başlatır. Grup liderleri kendi gruplarının iddialarını, destekleyicilerini ve varsa arkadaşlarının karşıt iddialarını saygı çerçevesinde çürütür ( D14.1 , E3.5 , SDB2.1 , SDB2.3 ) . Öğrenciler, gruplar arası tartışma sonunda ölçüm sonuçlarına dayanarak torkun bağlı olduğu değişkenler ile ilişkisini matematiksel olarak modeller ( KB2.17 , OB7 ) . Öğretmen, öğrencilere torkun günlük hayattaki farklı uygulama alanlarına yönelik problem durumlarını gösterir. Öğrenciler, torkun matematiksel modelini kullanarak problemlere çözüm bulur ( E3.1 ) ve torkun farklı uygulama alanlarına yönelik matematiksel modelini geneller. Torkun farklı uygulama alanlarına yönelik sorular hazırlanarak soru kutusuna atılabilir. Öğrenciler bir soru çekerek cevap verebilir.",
+    "FİZ.12.1.2",
+    "Öğretmen 5E öğrenme modelinden yararlanarak günlük hayatta ağırlık merkezinin göz önüne alındığı uygulamaların örnekleri veya görselleri üzerinden ağırlık merkezinin önemine dikkat çekebilir. Öğrenciler, öğretmen rehberliğinde gruplara ayrılır ( SDB2.1 ) . Öğretmen, her gruba farklı cisimler ve destek noktaları verebilir ya da öğrencilerin simülasyon kullanmalarını sağlayabilir. Öğrenciler, gruplar hâlinde destek noktasını kullanarak cisimlerin dengede kalmasına yönelik denemeler yapar ( SDB1.2 ) . Öğrenciler denge, kütle merkezi ve ağırlık merkeziyle ilgili ölçümler yaparak verileri toplar ve kayıt altına alır. Öğrenciler, grup içi tartışmalar ile topladıkları verileri kütle merkezi ve ağırlık merkezi ile ilişkilendirir. Gruplar, bu ilişkiye dair verileri tablolaştırarak veri setine dönüştürür ( OB7 ) . Öğretmen, gruplar arasında tartışma başlatabilir. Öğrenciler denge, kütle merkezi ve ağırlık merkezine yönelik kendi iddialarını, destekleyicilerini ve varsa karşıt görüşe sahip arkadaşlarının fikirlerine yönelik çürütücülerini saygı çerçevesinde ifade edebilir ( D14.1 , SDB2.3 ) . Tartışma sonucunda öğrenciler; denge, kütle merkezi ve ağırlık merkezi kavramlarını veriye dayalı olarak açıklar ve öğrenmelerini derinleştirir ( E3.6 , KB2.19 ) . Lami Teoremi'nin kullanımından kaçınılır. Öğrencilerden tartışmadan çıkardıkları denge, kütle ve ağırlık merkezi ile ilgili kanıtlara yönelik kısa bir rapor hazırlamaları istenebilir.",
+    "FİZ.12.1.3",
+    "Öğretmen farklı kütle ve hızlardaki cisimlerin çarpışma esnasında yaptıkları etkiler üzerinden günlük hayattan örnekler verebilir. Soru cevap tekniğini kullanarak öğrencilerin cisimlerin kütlelerinin ve çarpma hızlarının çarpışma üzerindeki etkisini sorgulamasını sağlayabilir. Cevapları dikkate alarak momentumun kütle ve hız ile ilişkisini matematiksel model üzerinden açıklar. Newton'ın ikinci yasası ve matematiksel modeli hatırlatılır. Öğrenciler, momentumun matematiksel modeli ve Newton'ın ikinci yasasına odaklanarak ( E3.2 ) itme (impuls) ile momentum değişimi arasındaki ilişkiye ait değişkenleri tanımlar. Öğrenciler arkadaşlarıyla yardımlaşarak ( D20.1 ) itme ve momentum değişimi arasındaki ilişkiyi gözlemleyecek bir deney gerçekleştirir ( SDB1.2 ) . Deney düzeneği üzerinden kütle, hız, kuvvet ve zaman değişkenleri ile ilgili verileri toplayarak kaydeder ya da hazır veri seti kullanır. Deney ya da veri setindeki değişkenlerle ilgili verileri kuvvet-zaman grafiğine dönüştürür ( KB2.14 , OB7 ) . Sınıf tartışmasıyla itme ve momentum değişimi arasındaki ilişkiyi grafiklerden ve verilerden faydalanarak yorumlar ( E3.1 , E3.6 ) . Öğrencilere itme ve momentum değişimi arasındaki ilişkiye yönelik açık uçlu sorulardan oluşan bir çalışma yaprağı verilebilir.",
+    "FİZ.12.1.4",
+    "Öğretmen, örnek olay ya da problem çözme gibi yöntem veya stratejilerden birisini kullanabilir. Öğretmen sınıf dışı öğrenme ortamı olarak okul bahçesinde öğrencilere momentumun korunumuna yönelik taş, top, oyuncak araba gibi materyaller ile bir gösteri deneyi sunabilir. Öğretmen, örnek olayların gösteriminden önce öğrencilerden cisimlerin momentumlarına odaklanmalarını ( E3.2 ) ister. ister. Öğrenciler gösterimler sonrasında soru cevap tekniğiyle momentumun korunumuna ilişkin gözlemlerini cisimlerin hızlarını dikkate alarak açıklar ( SDB2.1 ) . Öğretmen momentumun korunum şartını belirtir. Öğrenciler, sınıf ortamında simülasyon veya animasyon kullanarak bir ve iki boyutta esnek olan ve esnek olmayan çarpışmalarda, patlamalarda ve roket hareketinde momentumun korunumunu gözlemleyebilir. Farklı örnek olaylarda momentumun korunumuna yönelik ölçüm ( OB7 ) ve hesaplamalar yapar. Sınıf içi tartışma yöntemiyle çarpışmalar ve patlamalar gibi farklı örnek olaylarda ve doğada momentumun korunduğuna yönelik yargıda bulunur ( E3.1 , KB2.17 ) . Öğrencilerden performans görevi olarak web 2.0 araçlarını kullanarak farklı hareket olaylarını momentumun korunumu ile ilişkilendirebileceği bir sunum hazırlayıp sunmaları ( OB2 ) istenebilir.",
+    "FİZ.12.1.5",
+    "Öğrenciler örnek olaylar ya da animasyon ve video gibi dijital içeriklerde sunulan olayları inceleyerek eylemsizlik momentini yorumlar ( OB4 ) . Öğretmen soru cevap tekniği kullanarak eylemsizlik momentine etki eden değişkenlerin neler olabileceğini sorabilir. Öğrenciler, görsellerde yer alan farklı cisimlerin dönme hareketine odaklanarak ( E3.2 ) kütle ve yarıçap veya uzunluk değişkenlerinin etkisini fark eder ( KB2.4 ) . Öğretmen matematiksel model kullanımından kaçınarak soru cevap tekniğiyle değişen kütle ve yarıçap veya uzunluk değerlerinin eylemsizlik momenti üzerindeki etkisini sorgulatabilir. Öğrenciler, eylemsizlik momentine etki eden değişkenlerle ilgili orantısal çıkarımlarını genelleyerek ifade eder. Öğrencilere eylemsizlik momentine etki eden değişkenler arasındaki orantısal çıkarımlarını değerlendirebilmeleri için açık uçlu sorulardan oluşan bir test verilebilir.",
+    "FİZ.12.1.6",
+    "Soru cevap tekniği ile öğrencilerin momentum, açısal hız ve eylemsizlik momenti ile ilgili ön bilgileri hatırlatılabilir. Öğretmen, animasyon ve video gibi dijital içerikler ile buz pateni sporcusunun dönme hareketi gibi örnekleri kullanarak farklı cisim ve hareketlilerin açısal momentumunun korunduğunu gösteren görselleri sunar ( OB4 ) . Öğrenciler açısal momentumun bağlı olduğu değişkenleri gözlemler. Öğrencilerin soru cevap tekniği ile açısal momentuma etki eden değişkenleri tanımlamaları ve değişkenlerin büyüklükleri hakkında yargıda bulunmaları sağlanır. Öğrenciler, soru cevap tekniği ile açısal momentumun bağlı olduğu değişkenlerin büyüklüklerini karşılaştırarak aralarındaki ilişkiyi bulur ( KB2.4 ) . Öğretmen, öğrencilerden açısal momentumun korunumuna ilişkin açıklamalarını tork ile ilişkilendirmelerini ister. Matematiksel model kullanımından kaçınır. Öğrenciler açısal momentumun korunumuna ilişkin farklı örnekleri tartışır ( SDB2.2 ) . Öğrenciler, gözleme dayalı olarak ( E3.6 ) açısal momentumun korunumunu genelleyerek ifade eder. Öğretmen açısal momentumun korunumuna yönelik zihin haritası kullanabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D14.1",
+      "D20.1"
+    ],
+    "egilim": [
+      "E3.1",
+      "E3.2",
+      "E3.5",
+      "E3.6"
+    ],
+    "kavramsal": [
+      "KB2.14",
+      "KB2.17",
+      "KB2.19",
+      "KB2.4"
+    ],
+    "okuryazarlik": [
+      "OB2",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB2.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/266"
+}

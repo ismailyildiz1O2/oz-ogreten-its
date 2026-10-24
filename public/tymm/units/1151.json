@@ -1,0 +1,57 @@
+{
+  "unitId": 1151,
+  "grade": 2,
+  "gradeName": "2. Sınıf",
+  "subject": "Müzik Okulları-Bireysel Çalgı Eğitimi Dersi-Gitar Modülü",
+  "title": "2. TEMA: KLAVYEDEKİ NOTALARI ÖĞRENİYORUM",
+  "hours": "9",
+  "description": "Temada öğrencilerin klavyedeki notaların yerlerini öğrenmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "GTR.2.2.1",
+      "title": "Gitar klavyesindeki ilk 5 perdenin notalarını belirleyebilme",
+      "processComponents": []
+    },
+    {
+      "code": "GTR.2.2.2",
+      "title": "Gitar klavyesindeki 5'ten 12'ye kadar olan perdelerin notalarını belirleyebilme",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "gitar, klavye, nota, tel",
+  "support": [
+    "Öğrencilerle birlikte sık sık parmak egzersizleri yapılabilir. Örneğin 6. telden başlayarak sırasıyla 1. perdeye kadar doğru notayı çalmaları sağlanabilir."
+  ],
+  "enrichment": [
+    "Notaların yerlerini öğretmek amacıyla kısa bir melodi ya da şarkı yazılabilir. Her notanın sırası bir şarkı sözüne dönüştürülerek öğrenciler bir müzik parçası şeklinde öğrenebilir. Bu yöntem, öğrencilerin hem işitsel hem de görsel hafızalarını kullanarak öğrenmelerini destekler."
+  ],
+  "assessment": [
+    "Temadaki öğrenme çıktıları; gözlem formu, kontrol listesi, dereceli puanlama anahtarı, doğru-yanlış ve eşleştirme soruları ile ölçülebilir. Performans görevi olarak öğrencilerin en alt teldeki notaların isimlerini bulmaları istenebilir. Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir. Gitar tellerinin isimleri ve tellerdeki notaların sıralanması ile ilgili eşleştirme ve doğru yanlış soruları öğrenme sürecinde kullanılabilir."
+  ],
+  "teachingApplications": [
+    "GTR.2.2.1",
+    "Öğrencilerin gitarın boş tellerinin isimlerini öğrenmeleri için eğlenceli bir etkinlik uygulanır ( E2.5 ). Öncelikle öğretmen, projeksiyon veya akıllı tahta kullanarak gitarın tellerini gösteren bir görsel yansıtıp öğrencilerin konuyu algılamasını sağlar ( OB4 ). En alt telden (ince mi - e) başlayarak her teli tek tek çalar ve öğrencilere \"Bu telin notası ne olabilir?\" şeklinde sorular yöneltilir ( SDB2.1 ). Öğrenciler tahminde bulunur ve öğretmen doğru cevabı açıklar. Bu aşamada her telin adını akılda tutmayı kolaylaştıran eğlenceli bir hikâye veya şarkı anlatılır. Örneğin E - En sevdiğim yemek, A - Anneannemin çayı, D - Dinlediğim şarkılar, G - Güneş gibi parlayan tel, B - Bal gibi tatlı nota, e - En ince tel. Öğrencilerin konuyu pekiştirmesi için \"Nota Dedektifleri\" adlı oyun oynanır ( E2.5 ). Gitar tellerinin isimlerinin yazılı olduğu renkli kartlar hazırlanır ve öğrencilerden bu kartları gitarın doğru telleriyle eşleştirmeleri istenir ( KB2.13 ). Öğrencilerden çalışmalarda etkin rol almaları beklenir.",
+    "Öğretmen boş telleri rastgele çalar ve öğrenciler en hızlı şekilde ilgili kartı kaldırarak doğru notayı söyler ( D3.4 ). Bu sayede öğrenme süreci hem eğlenceli hem de kalıcı hâle gelir. Boş teller öğrenildikten sonra gitarın ilk 5 perdesindeki notalara geçilir. Öğretmen en alt telden başlayarak ilk 5 perdedeki notaları çalar ve öğrencilerden hangi notalar olduğunu tahmin etmelerini ister ( KB2.11 ). Renk kodlu çıkartmalar veya tahtada interaktif görseller kullanılarak öğrencilerin notaları daha iyi görselleştirmesi sağlanır. Her tel için eğlenceli bir tekerleme veya hafıza tekniği kullanılabilir. Bu uygulamalar sayesinde öğrenciler gitarın klavyesindeki notaları öğrenirken hem eğlenir hem de çalgıya hâkimiyetlerini geliştirirler. Gitar tellerinin isimleri ve tellerdeki notaların sıralanması ile ilgili eşleştirme ve doğru yanlış soruları öğrenme sürecinde kullanılabilir.",
+    "GTR.2.2.2",
+    "Öğrencilere akıllı tahtadan gitar klavyesi görselleri izletilerek gitarın 5. perdesinden 12. perdesine kadar olan notalar gösterilir ( OB4 ). Gitarın en kalın teli olan 6. telde, 5. perdede A, 7. perdede B, 9. perdede C# ve 12. perdede tekrar E notasının bulunduğu açıklanır ( SDB2.1 ). 5. telde 5. perdede D, 7. perdede E, 9. perdede F# ve 12. perdede tekrar A notasının yer aldığı; 4. telde 5. perde G, 7. perde A, 9. perde B ve 12. perdenin tekrar D notası olduğu belirtilir. 3. tel (Sol-G) üzerinde 5. perde C, 7. perde D, 9. perde E ve 12. perdenin tekrar G notasını verdiği; 2. tel (Si-B) üzerinde 5. perde E, 7. perde F#, 9. perde G# ve 12. perdenin tekrar B notası olduğunu anlamaları sağlanır. Öğrencilere en alt teldeki notaları bulmaları için performans görevi verilebilir. En alt telin en üst telin oktavı olduğu bilgisi verilip notaların aynı olduğu açıklanır. Öğrencilerin en ince tel olan 1. tel (Mi-e) üzerinde 5. perdede A, 7. perdede B, 9. perdede C# ve 12. perdede tekrar e notasının bulunduğunu söylemeleri sağlanır. Performans görevi, dereceli puanlama anahtarı veya gözlem formu ile değerlendirilebilir."
+  ],
+  "skills": {
+    "deger": [
+      "D3.4"
+    ],
+    "egilim": [
+      "E2.5"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.13"
+    ],
+    "okuryazarlik": [
+      "OB4"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.1"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1151"
+}

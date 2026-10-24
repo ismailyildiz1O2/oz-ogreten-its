@@ -1,0 +1,107 @@
+{
+  "unitId": 81404028,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "28. ÜNİTE: JUDODA TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "60",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.7.4.1",
+      "title": "Judoda düşme tekniklerini açıklar",
+      "processComponents": [
+        "Mae-Oi-Ukemi (Mae-Oi-Ukemi) düşüş tekniği üzerinde durulur.",
+        "Ushiro Ukemi (Uşiro Ukemi) düşüş tekniği üzerinde durulur.",
+        "Yoko-Ukemi (Yoko Ukemi) düşüş tekniği üzerinde durulur.",
+        "Mae Mawari-Ukemi (Mae Mavari Ukemi) düşüş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.7.4.2",
+      "title": "Judoda düşme tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.7.4.3",
+      "title": "Judoda duruş, yürüyüş, kumi kata ve denge bozma tekniklerini açıklar",
+      "processComponents": [
+        "Shizen Tai (Şizen Tai) duruş tekniği üzerinde durulur.",
+        "Jigo Tai (Jigo Tai) duruş tekniği üzerinde durulur.",
+        "Tusuru Ashi (Tusuru Aşi) yürüyüş tekniği üzerinde durulur.",
+        "Ayumi Ashi (Ayumi Aşi) yürüyüş tekniği üzerinde durulur.",
+        "Ai Yotsu (Ay Yotsu) kumi kata tekniği üzerinde durulur.",
+        "Kenko Yotsu (Kenko Yotsu) kumi kata tekniği üzerinde durulur.",
+        "Çekerek ve iterek kuzushi (kuzuşi) denge bozma teknikleri üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.7.4.4",
+      "title": "Judoda duruş, yürüyüş, kumi kata ve denge bozma tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.7.4.5",
+      "title": "Judoda fırlatma tekniklerini açıklar",
+      "processComponents": [
+        "Tachi Waza (Taçi Vaza) fırlatma tekniği üzerinde durulur.",
+        "Te Waza (Te Vaza) fırlatma tekniği üzerinde durulur.",
+        "Koshi Waza (Koşi Vaza) fırlatma tekniği üzerinde durulur.",
+        "Ashi Waza (Aşi Vaza) fırlatma tekniği üzerinde durulur.",
+        "Sutemi Waza (Sutemi Vaza) fırlatma tekniği üzerinde durulur.",
+        "Ma Sutemi Waza (Ma Sutemi Vaza) fırlatma tekniği üzerinde durulur.",
+        "Yoko Sutemi Waza (Yoko Sutemi Vaza) fırlatma tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.7.4.6",
+      "title": "Judoda fırlatma tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.7.4.7",
+      "title": "Judoda tutma-yakalama tekniklerini açıklar",
+      "processComponents": [
+        "Osae Komi Waza (Osae Komi Vaza) yakalama-tutma tekniği üzerinde durulur.",
+        "Shime Waza (Şime Vaza) yakalama-tutma tekniği üzerinde durulur.",
+        "Kansetsu Waza (Kansetsu Vaza) yakalama-tutma tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.7.4.8",
+      "title": "Judoda tutma-yakalama tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.7.4.9",
+      "title": "Judoda vuruş tekniklerini açıklar",
+      "processComponents": [
+        "Hiji Ate (Hiji Ate) vuruş tekniği üzerinde durulur.",
+        "Yubi Sake Ate (Yubi Sake Ate) vuruş tekniği üzerinde durulur.",
+        "Kobushi Ate (Kobuşi Ate) vuruş tekniği üzerinde durulur.",
+        "Tegatane Ate (Tegatane Ate) vuruş tekniği üzerinde durulur.",
+        "Hizagashira Ate (Hizagaşira Ate) vuruş tekniği üzerinde durulur.",
+        "Sekito Ate (Sekito Ate) vuruş tekniği üzerinde durulur.",
+        "Kakato Ate (Kakato Ate) vuruş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.7.4.10",
+      "title": "Judoda vuruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.7.4.11",
+      "title": "İzlediği veya katıldığı judo müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}

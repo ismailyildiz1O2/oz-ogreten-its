@@ -1,0 +1,78 @@
+{
+  "unitId": 60,
+  "grade": 10,
+  "gradeName": "10. Sınıf",
+  "subject": "Felsefe Dersi",
+  "title": "8. ÜNİTE: DİN FELSEFESİ",
+  "hours": "6",
+  "description": "Bu ünitede öğrencilerin din felsefesinin temel kavram, konu ve problemlerini açıklayarak bu alandaki düşünce ve argümanlar üzerine felsefi muhakeme yapabilmeleri amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FEL.10.8.1",
+      "title": "Din felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme",
+      "processComponents": [
+        "a) Din felsefesinin konusunu ve temel kavramlarını açıklar.",
+        "b) Din felsefesinin temel problemlerini açıklar.",
+        "c) Din felsefesinin temel problemlerine yönelik düşünce ve argümanları değerlendirir.",
+        "ç) Din felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceler."
+      ]
+    }
+  ],
+  "keyConcepts": "din, ibadet, iman, inanç, kutsal, mucize, Tanrı, vahiy",
+  "support": [
+    "Din felsefesinin konusu ve temel kavramlarına yönelik kavram yanılgılarını tespit etmek ve gidermek için tanılayıcı dallanmış ağaç, yapılandırılmış grid vb. materyaller kullanılabilir. Din felsefesinin temel problemlerini açıklayan yapılandırılmış metinlerden yararlanılabilir. Sadeleştirilmiş bir metin üzerinden din felsefesinin temel problemlerine yönelik düşünce ve argümanlar gruplar hâlinde değerlendirilebilir."
+  ],
+  "enrichment": [
+    "Farabi ve Gazali'nin görüşleri karşılaştırılarak evrendeki \"nedensellik\" (determinizm) ve \"mucize\" imkânı, zorunluluk ve rastlantı kavramları ekseninde tartışılabilir.",
+    "Platon'un \"Euthyphron\" diyaloğundan hareketle \"Bir şey Tanrı istediği için mi iyidir yoksa iyi olduğu için mi Tanrı onu ister?\" ikileminin İslam dünyasında Eş'ari ve Mutezile tarafından nasıl yorumlandığı araştırılabilir.",
+    "İbnülarabi'nin Fususu'l Hikem adlı eserindeki \"ayna metaforu\" üzerinden Tanrı-âlem ilişkisi yorumlanabilir.",
+    "B. Pascal'ın \"Tanrı'ya inanmak matematiksel olarak en kârlı seçenektir\" argümanı (Pascal Bahsi); oyun teorisi ve olasılık mantığı açısından değerlendirilebilir."
+  ],
+  "assessment": [
+    "Bu ünitedeki öğrenme çıktısı; çalışma kağıdı, açık uçlu sorular, boşluk doldurma yapılandırılmış grid, ve performans görevi ile değerlendirilebilir.",
+    "Performans görevi: Öğrenciler din felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları inceleyerek metin inceleme formunu doldurmaları istenebilir. Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin, argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi ve eleştirel olarak değerlendirilmesi gibi ölçütler kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FEL.10.8.1",
+    "Öğrencilerin din felsefesinin konusu ve temel kavramlarını açıklamaları amaçlanır. Bunun için;.",
+    "• Yapılandırılmış bir metin verilerek öğrencilerden din felsefesi ile teoloji arasındaki benzerlik ve farklılıkları belirlemeleri ve din felsefesinin konusu hakkında çıkarım yapmaları istenir ( KB2.7 , KB2.10 ). Bu aşamada Venn diyagramı öğretim tekniği kullanılabilir. Ardından öğrencilerin din felsefesinin temel kavramlarını (din, ibadet, iman, inanç, kutsal, mucize, Tanrı, vahiy) kendi cümleleriyle ifade etmeleri sağlanır ( OB1 ). Öğrencilerin açıklamalarını güvenilir kaynaklardan doğrulamaları istenir. Kavram yanılgıları ve öğrenme eksiklikleri hakkında dönüt verilir.",
+    "Öğrencilerin din felsefesinin temel problemlerini (Tanrı'nın varlığına ilişkin görüşler, Tanrı'nın varlığına yönelik argümanlar, evrenin sonluluğu ve sonsuzluğu ve ruhun ölümsüzlüğü) açıklamaları ve bu problemlere yönelik görüş ve argümanları değerlendirmeleri amaçlanır. Bunun için;",
+    "• Tanrı'nın varlığına ilişkin görüşler (teizm, deizm, panteizm, ateizm) ile Tanrı'nın varlığına yönelik argümanlar (teleolojik, kozmolojik, ontolojik ve kötülük) dair hazırlanmış bir çalışma kâğıdı öğrencilere sunulur. Çalışmada söz konusu görüşler ve argümanlar hakkında bilgi görselleri verilir. Öğrencilerin bilgi görsellerini çözümlemeleri, bunların benzer ve farklı yanlarını değerlendirmeleri sağlanır ( E3.10 , KB2.5 , KB2.7 ). Bu aşamada yapılandırılmış grid kullanılabilir. Öğrencilerden iş birlikli olarak argümanların güçlü ve zayıf yanlarını gerekçeli biçimde değerlendirmeleri istenir ( SDB2.2 , KB3.3 ). Süreçte öğrencilerin insanların farklı kültür ve inançlara sahip olabileceğini fark etmeleri ve bu farklılıklara saygı duymaları sağlanır ( D14.3 ).",
+    "• Evrenin sonluluğu ve sonsuzluğu ile ruhun ölümsüzlüğü problemlerine yönelik bilgi görselleri verilerek öğrencilerin iş birlikli olarak problemleri açıklamaları ve probleme yönelik argümanların tutarlılığını kendi cümleleriyle yazılı olarak değerlendirmeleri sağlanır ( E3.2 , KB3.3 ). Bu aşamada yaratıcı yazma veya boşluk doldurma çalışması yapılabilir. Süreçte öğrencilerin bilinçli olarak arkadaşlarıyla yardımlaşması ve farklı düşünceler üzerinde yapıcı bir biçimde uzlaşması hedeflenir ( SDB2.2 , D10.2 , D20.2 ).",
+    "Öğrencilerin din felsefesiyle ilgili metinlerde yer alan kavram, problem ve argümanları incelemeleri amaçlanır. Bu doğrultuda öğrencilere bir performans görevi verilir. Bunun için;",
+    "Augustinus'un İtiraflar,",
+    "- Gazali'nin İhyâ-u Ulûmi'd-Din,",
+    "- İbni Rüşd'ün Tutarsızlığın Tutarsızlığı,",
+    "- D. Hume'un Din Üzerine,",
+    "- G. W. F. Hegel'in Din Felsefesi Üzerine Dersler,",
+    "- Alvin Plantinga'nın Tanrı, Özgürlük ve Kötülük adlı eserlerinden kısaltılan veya alıntılanan metinler, öğrencilerin de görüşleri alınarak dengeli bir şekilde dağıtılır.",
+    "Öğrencilere bireysel ya da iş birlikli olarak metin inceleme formu doldurtulur ve çalışmalarını paylaşmaları sağlanır ( E3.7 ). Performans görevi metin inceleme formu üzerinden dereceli puanlama anahtarı ile değerlendirilebilir. Değerlendirmede metinde geçen felsefi kavramların, problemlerin ve argümanların belirlenmesi ile söz konusu argümanların gerekçelerinin gösterilmesi, eleştirel olarak değerlendirilmesi gibi ölçütlere dikkat edilir. Bu süreçte öğrenciler çeşitli fikir, argüman ve yeni bilgilere açık olur; görev ve sorumluluklarını etik ilkelere uygun bir şekilde zamanında yerine getirir ( D3.3 , D16.3 )."
+  ],
+  "skills": {
+    "deger": [
+      "D10.2",
+      "D14.3",
+      "D16.3",
+      "D20.2",
+      "D3.3"
+    ],
+    "egilim": [
+      "E3.10",
+      "E3.2",
+      "E3.7"
+    ],
+    "kavramsal": [
+      "KB2.10",
+      "KB2.5",
+      "KB2.7",
+      "KB3.3"
+    ],
+    "okuryazarlik": [
+      "OB1"
+    ],
+    "sosyal_duygusal": [
+      "SDB2.2"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/60"
+}

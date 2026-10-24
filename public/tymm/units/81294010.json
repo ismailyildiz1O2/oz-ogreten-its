@@ -1,0 +1,62 @@
+{
+  "unitId": 81294010,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Fen Bilimleri Uygulamaları Dersi",
+  "title": "10. ÜNİTE: II. DÜZEY 5. TEMA: GÜNLÜK HAYATTA BİLİM",
+  "hours": "20",
+  "description": "“Günlük Hayatta Bilim” teması, giyilebilir teknolojilerin çalışma prensiplerini araştırmaktan açısal momentumun korunumunu gözlemleyen ürünlerin tasarımına, çevre kirliliğinin tayininden öz bakım ürünleri üretimine ve sürdürülebilir tarımda verimliliği artırmaya yönelik çözüm yolları gibi konuları kapsar. Bu tema ile öğrencilere, temiz ve sürdürülebilir bir dünya için yapılan çabaların tanıtılması amaçlanır. “Günlük Hayatta Bilim” teması ile öğrencilerden giyilebilir teknolojilerin çalışma prensipleri ile ilgili deney yapmaları, açısal momentum korunumunun gözlemlenebileceği bir ürün modeli tasarlamaları, çevre kirliliği tayini ile ilgili deney yapmaları, öz bakım ürünü eldesi ile ilgili deney yapmaları, sürdürülebilir tarımda verimliliğin artırılması ile ilgili deney yapmaları beklenir.",
+  "outcomes": [
+    {
+      "code": "FBU.2.5.1.1",
+      "title": "Giyilebilir teknoloji ürünlerinin çalışma prensibi ile ilgili deney yapar",
+      "processComponents": [
+        "Giyilebilir teknoloji ürünlerini tanımlamaları ve bu ürünlerin tarihsel gelişim süreçlerini belirlemeleri sağlanır. Giyilebilir teknolojilerin kullanım alanları ve önemi açıklanır.",
+        "Giyilebilir teknoloji ürünlerinin kullanımının olumlu/olumsuz etkilerini sınıf ortamında tartışmaları sağlanır.",
+        "Akıllı saatteki spektroskopi ilkeleri ile ilgili deney yapılır. Deney sonuçları gerçek yaşamda gözlenen nesne, olay veya olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.2.5.1.2",
+      "title": "Açısal momentum korunumunun gözlemlenebileceği ürün modeli tasarlar",
+      "processComponents": [
+        "Jiroskobun görevleri, jiroskobun modern kullanım alanları ve amaçlarına değinilir.",
+        "Jiroskop içeren bir ürünü aşamalarına göre tasarlamaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.5.1.3",
+      "title": "Çevre kirliliği tayini ile ilgili deney yapar",
+      "processComponents": [
+        "Tyndall etkisi tanımlanır ve Tyndall etkisinin kullanım alanları açıklanır. Çevre kirliliği tayini ile Tyndall etkisini ilişkilendirmeleri sağlanır.",
+        "Tyndall etkisinin gözlemleneceği deney yapmaları sağlanır.",
+        "Gürültü kirliliğinin insan ve çevre üzerindeki etkilerine değinilir.",
+        "Farklı frekanslardaki ses dalgalarının görüntülenmesi ile ilgili deney yapılır. Deney sonuçları gerçek yaşamda gözlenen nesne, olay veya olguları açıklamak için kullanılır."
+      ]
+    },
+    {
+      "code": "FBU.2.5.1.4",
+      "title": "Öz bakım ürünü ile ilgili deney yapar",
+      "processComponents": [
+        "Öz bakım ürünlerini tanımlamaları ve bu ürünlerin kullanım amaçlarını ve alanlarını açıklamaları sağlanır. Öz bakım ürünlerinin içeriğinde bulunan zararlı kimyasallar hakkında bilgi edinmeleri ve rapor hâlinde kaydetmeleri sağlanır.",
+        "Doğal krem elde ederek elde ettiği kremin cilt pH'na uygunluğunu test edeceği deney yapmaları sağlanır."
+      ]
+    },
+    {
+      "code": "FBU.2.5.1.5",
+      "title": "Sürdürülebilir tarımda verimliliğin artırılması ile ilgili deney yapar",
+      "processComponents": [
+        "Sürdürülebilir tarım kavramını tanımlamaları ve biyoçeşitlilik ile sürdürülebilir tarım arasında ilişki kurmaları sağlanır. Biyoçeşitlilik uygulamaları ile tarımdaki verim artışına örnek verilir.",
+        "Kardeş bitki kullanımı ile tarımdaki verim artışının gözlemlenebileceği deney yapılır. Deney sonuçları gerçek yaşamda gözlenen nesne, olay veya olguları açıklamak için kullanılır."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/20231123155051410-Fen%20Bilimleri%20Uygulamalar%20Dersi%20OGretim%20Program%2013.11.23.pdf"
+}

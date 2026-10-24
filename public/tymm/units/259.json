@@ -1,0 +1,176 @@
+{
+  "unitId": 259,
+  "grade": 11,
+  "gradeName": "11. Sınıf",
+  "subject": "Fizik Dersi",
+  "title": "3. ÜNİTE: OPTİK",
+  "hours": "36",
+  "description": "Bu ünitede öğrencilerin ışık şiddeti, ışık akısı ve aydınlanma kavramlarını tanımlamaları, düzlem aynaları kullanarak model oluşturmaları, küresel aynaların ve merceklerin yapılarını karşılaştırmaları, küresel aynalarda ve merceklerde görüntü oluşumu ile ilgili deney yapmaları, ışığın saydam ortamlardaki davranışını kullanarak deney düzeneği oluşturmaları, görünür derinliği gözlemlemeleri, fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanlarına ilişkin bilgi toplamaları, prizmalar ve prizmalar ile kurulan optik sistemler hakkında çıkarım yapmaları amaçlanmaktadır.",
+  "outcomes": [
+    {
+      "code": "FİZ.11.3.1",
+      "title": "Işık şiddeti, ışık akısı ve aydınlanma kavramlarına ilişkin bilimsel çıkarım yapabilme",
+      "processComponents": [
+        "a) Işık şiddeti, ışık akısı ve aydınlanma kavramlarının tanımlarını yapar.",
+        "b) Işık şiddeti, ışık akısı ve aydınlanma kavramları ile ilgili veri setlerini inceler.",
+        "c) Veri setlerini kullanarak ışık şiddeti, ışık akısı ve aydınlanma kavramlarını yorumlayarak değerlendirir."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.2",
+      "title": "Düzlem aynaları kullanarak bilimsel model oluşturabilme",
+      "processComponents": [
+        "a) Düzlem aynaları kullanarak bir model önerir.",
+        "b) Düzlem aynaları kullanarak önerdiği modeli yeni durumlara uyarlayarak geliştirir."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.3",
+      "title": "Küresel aynaların özelliklerine ilişkin karşılaştırma yapabilme",
+      "processComponents": [
+        "a) Küresel aynaların fiziksel özelliklerini ve ışınların küresel aynalarda yansıdıktan sonra izlediği yolu belirler.",
+        "b) Çukur ve tümsek aynaların benzer özelliklerini listeler.",
+        "c) Çukur ve tümsek aynaların farklı özelliklerini listeler."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.4",
+      "title": "Küresel aynalarda görüntü oluşumu ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Küresel aynalarda görüntü oluşumu ile ilgili bir deney tasarlar.",
+        "b) Küresel aynalarda görüntü oluşumu ile ilgili tasarladığı deney düzeneğinden veri toplayarak analiz eder."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.5",
+      "title": "Işığın saydam ortamlardaki davranışını kullanarak deney yapabilme",
+      "processComponents": [
+        "a) Işığın saydam ortamlardaki davranışı ile ilgili deney tasarlar.",
+        "b) Işığın saydam ortamlardaki davranışı ile ilgili tasarladığı deney düzeneğinden veri toplayarak analiz eder."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.6",
+      "title": "Saydam ortamlarda görünür derinliğin, gerçek derinlik ve ortamların ışığı kırma indislerine bağlı olarak değiştiğine ilişkin bilimsel gözlem yapabilme",
+      "processComponents": [
+        "a) Görünür derinliği etkileyen gerçek derinlik ve ortamların ışığı kırma indisini tanımlar.",
+        "b) Görünür derinliğin gerçek derinlik ve ortamların ışığı kırma indisine bağlı olarak değiştiğini gözlemleyerek kaydeder.",
+        "c) Gözlemlerine dayalı olarak görünür derinliğin gerçek derinlik ve ortamların ışığı kırma indisine bağlı olarak değişimini açıklar."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.7",
+      "title": "Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanlarına ilişkin bilgi toplayabilme",
+      "processComponents": [
+        "a) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları ile ilgili bilgiye ulaşmak için kullanacağı kaynakları belirler.",
+        "b) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları ile ilgili bilgiye ulaşmak için belirlediği araçları kullanarak bilgi toplar.",
+        "c) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları hakkında toplanan bilgiyi doğrular.",
+        "ç) Fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları hakkında ulaşılan bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.8",
+      "title": "Prizmalar ve prizmalar ile kurulan birleşik sistemlerde ışığın izlediği yola ilişkin tümdengelimsel akıl yürütebilme",
+      "processComponents": [
+        "a) Kırılma yasalarının prizmalar için kullanılabilir olduğuna dair hipotez kurarak test eder.",
+        "b) Geçerli hipotezleri kullanarak prizmalar ile oluşturulmuş birleşik sistemlerde tek renkli ışığın izleyeceği yolu açıklar."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.9",
+      "title": "Merceklerin özelliklerine ilişkin karşılaştırma yapabilme",
+      "processComponents": [
+        "a) Merceklerin fiziksel özelliklerini ve ışınların merceklerde kırıldıktan sonra izlediği yola ilişkin özellikleri belirler.",
+        "b) Yakınsak ve ıraksak merceklerin benzer özelliklerini listeler.",
+        "c) Yakınsak ve ıraksak merceklerin farklı özelliklerini listeler."
+      ]
+    },
+    {
+      "code": "FİZ.11.3.10",
+      "title": "Merceklerde görüntü oluşumu ile ilgili deney yapabilme",
+      "processComponents": [
+        "a) Yakınsak ve ıraksak merceklerde görüntü oluşumu ile ilgili deney tasarlar.",
+        "b) Yakınsak ve ıraksak merceklerde görüntü oluşumu ile ilgili tasarladığı deney düzeneğinden veri toplayarak analiz eder."
+      ]
+    }
+  ],
+  "keyConcepts": "ışık şiddeti, ışık akısı, aydınlanma, merkez, tepe noktası, asal eksen, ortamın ışığı kırma indisi, Snell Yasası, tam yansıma, sınır açısı, görünür derinlik, fiber optik",
+  "support": [
+    "Küresel aynalarda hazır verilen model üzerinde incelemeler yapılabilir. Kırılma yasalarına ilişkin hazır deney düzeneği verilebilir. Fiber optik sistemler için bilgiler öğretmen tarafından verilebilir. Prizmalar ve merceklerde hazır modeller üzerinden incelemeler yapılabilir."
+  ],
+  "enrichment": [
+    "Kırılma olayında paralel ortamlarda kayma miktarını belirleyen değişkenler incelenebilir. Aydınlatma sistemlerinde kırılmanın kullanımı, refraktometre cihazının çalışma prensibi ve kullanım alanları araştırılabilir. Fiber optik hatlarda yaşanan sorunlara ilişkin araştırma yaparak çözüm önerileri geliştirilebilir. İbnülheysem'in optik bilimi adına yapmış olduğu çalışmalar ve \"optik ve mekanik analojisi\" araştırılabilir.",
+    "*Mercek ve ayna sistemlerinin bütünleşik kullanıldığı sistemler araştırılarak bu sistemlere ilişkin bir model geliştirilebilir.",
+    "*Teleskop, mikroskop, dürbün gibi optik sistemlerden birini belirleyerek bunların tarihsel serüvenleri, diğer bilim alanlarındaki kullanımları ve çalışma ilkeleri hakkında sunum hazırlanabilir. Sunumlarda Kemâleddin el-Fârisî ile Freibergli Theodoric'in yaptıkları çalışmalara yer vermeleri istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; çalışma yaprağı, ürün veya model tasarlama, çizimler, tablo oluşturma, farklı madde türleri içeren testler, poster veya slayt gösterisi kullanılarak değerlendirilebilir. Işık şiddeti, ışık akısı ve aydınlanma kavramlarını veri setini kullanarak tanımlamaya yönelik kavram haritası hazırlama ve bu kavramların operasyonel tanımlarını açıklamaya yönelik açık uçlu sorular içeren bir çalışma yaprağı verilebilir. Düzlem aynada yansıma ve görüntü oluşumunun kurallarını kullanarak bir günlük hayat problemine çözüm olabilecek ürün ya da model tasarlamaya yönelik bir performans görevi verilebilir. Öz ve akran değerlendirme formu ve problem tanımlama, bilgi toplama, sınırlılıkları belirleme, özgün ürün ortaya koyma basamaklarını içeren dereceli puanlama anahtarı ile değerlendirilebilir. Küresel aynaların yapılarına ilişkin yapılan karşılaştırmaları listelemek için kullanılabilecek nitelik sıralama, anlam çözümleme veya sınıflandırma tabloları ile yapılan çizimlerin değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Küresel aynalardaki deney sürecine yönelik kontrol listesi, öz ve akran değerlendirme formları ile küresel aynalarda farklı yerlerde olan cisimlerin görüntü özelliklerini açıklamaya yönelik farklı madde türlerinden oluşan bir test ile değerlendirme yapılabilir. Işığın saydam ortamlardaki davranışını açıklamaya yönelik deney düzeneği tasarlanması istenir. Hazırlanan deney düzeneğinin değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Görünür derinlikte cismin bulunduğu gerçek derinlik ile görünür derinliğin ortamların kırıcılık indislerine bağlı olarak farklı olduğunu değerlendirmede açık uçlu maddelerden oluşan bir test kullanılabilir. Açık uçlu maddeler puanlama anahtarlarıyla değerlendirilebilir. Fiber optik malzemelerin yapısı ve kullanım alanlarına ilişkin hazırlanan poster veya slayt gösterisinin değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Prizmalarda tek renkli ışığın izlediği yola ilişkin hipotezlerin olduğu çalışma kâğıdının değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Gözlemlere dayanarak merceklerde ışının hareketine ilişkin çizimler yapmaları; nitelik sıralama, anlam çözümleme tablosu veya sınıflandırma tablosu kullanılarak yakınsak ve ıraksak merceklerin benzer ve farklı özelliklerini listelemeleri istenebilir. Hazırlanan çizim ve listelerin değerlendirilmesinde dereceli puanlama anahtarından yararlanılabilir. Merceklerde farklı yerlerde olan cisimlerin görüntülerinin özelliklerini içeren farklı türde sorulardan oluşan testi kullanarak değerlendirme yapılabilir. Performans görevi ile yazılı yoklamalar sonuç değerlendirmede kullanılabilir."
+  ],
+  "teachingApplications": [
+    "FİZ.11.3.1",
+    "Öğretmen ışık şiddeti, ışık akısı ve aydınlanmanın ölçülebilen nicelikler olduğunu belirtebilir. Öğretmen öğrencilere evde, okulda sınıf veya koridorlarda bulunan mevcut ışık kaynakları ile daha fazla aydınlanmanın sağlanmasına ilişkin sorular sorarak aydınlanma kavramını öğrencilerin tartışmalarını sağlar ( D16.2 , D17.2 , D19.4 ) . Öğretmen sınıfa üzerinde ampulün lümen değerinin yazılı olduğu bir ampul kutusu getirerek, lümen niceliğini gösterip bu niceliğin anlamını sorabilir. Öğretmen, öğrencilere elektrik konusundaki ampulün gücü ile enerjisi arasındaki ilişkiye yönelik ön bilgilerini hatırlatabilir. Püskürtme boya ve kâğıt kullanarak analojik bir etkinlik yapabilir. Etkinlikte belli uzaklıklardan kâğıt üzerine boya püskürtülerek boyanın kâğıt üzerinde oluşturduğu koyuluk gözlemlenebilir. Öğrenciler ışık şiddeti, ışık akısı ve aydınlanma kavramlarını tanımlar. Öğrenciler simülasyon veya deney düzenekleri kullanarak bu kavramlarla ilgili veri setleri oluşturur veya öğretmen hazır veri setleri verebilir ( KB2.12 ) . Öğrenciler ışık şiddetinin ışık akısı ve aydınlanma kavramları ile ilişkisi ve bu kavramların bağlı olduğu etmenleri belirlemek için veri setlerini analitik bakış açısıyla inceler ( E3.6 , OB7 ) . Öğrenciler ışık şiddeti, ışık akısı ve aydınlanma kavramlarını bağlı oldukları etmenlere göre yorumlar ve değerlendirir ( OB1 ) . Öğretmen farklı veri setleri üzerinden ışık akısı, ışık şiddeti ve aydınlanma hakkında açık uçlu sorulardan oluşan bir çalışma kâğıdı kullanarak değerlendirme yapabilir.",
+    "FİZ.11.3.2",
+    "Öğrenciler günlük hayatta veya geçmiş öğrenmelerinde karşılaştıkları bilgiyi kullanarak düzlem aynada yansıma ve görüntü oluşumunun kurallarını açıklar ( SDB1.1 ) . Öğrenciler öğretmen rehberliğinde gruplara ayrılarak performans görevi çerçevesinde düzlem aynalarda STEM yaklaşımına uygun bilgi temelli hayat problemi ( E1.1 ) belirler ( SDB3.3 ) . Problemin çözümüne ilişkin bir ürün veya model tasarlamak ( SDB1.2 ) için bilgi toplar ve sınırlılıklarını belirler. Öğrenciler modeller ile ilgili özgün ve yaratıcı ( E3.3 ) fikirlerini çizim yaparak ( OB4 ) grup arkadaşları ile tartışırlar ( SDB2.2 ) . Grup üyeleri sorumluluklarını yerine getirerek ( SDB2.2 ) ortaklaşa karar verdikleri ürünü sınıf arkadaşlarına bir model olarak önerir ( D3.4 ) . Önerilen modelin günlük hayattaki farklı problem durumlarının çözümüne yönelik geliştirilmesi üzerine sınıf tartışması yaparlar ( E3.5 , KB3.1 , SDB3.1 , SDB3.2 ) . Öğrenciler sınıf tartışmasında ( SDB2.2 ) yapılan dönütler doğrultusunda ürünü yeni durumlara da uyarlanacak şekilde geliştirmek üzere etkileşim kurar ( D3.3 , KB3.2 , SDB2.1 ) . Öğretmen öğrencilerden model veya ürünü geliştirme sırasında öz değerlendirme yapabilecekleri ve kendi öğrenme durumlarını geliştirmeye yönelik bir formu doldurmalarını isteyebilir.",
+    "FİZ.11.3.3",
+    "Öğretmen öğrencilere küresel ve silindirik yansıtıcı yüzeye sahip cisimlerin (çanak anten, araba farı, arabaların dikiz aynası, elektrikli ısıtıcının yansıtıcı yüzeyi, termosun iç yüzeyi vb.) fotoğraflarını gösterir. Bu süreçte soru cevap veya beyin fırtınası gibi yöntem ve tekniklerle öğrencilerin etkileşim ( SDB2.1 ) kurmaları sağlanarak yüzeyler arasındaki farkları belirlemeleri istenir ( OB4 ) . Belirlenen benzerlikler ve farklılıklar not edilebilir. Öğrencilerin küresel aynaların silindirik aynalardan farklı özelliklere sahip olduğu çıkarımını yapmaları sağlanabilir. Öğretmen küresel aynaların çukur ve tümsek aynalar olmak üzere ikiye ayrıldığını belirtir. Öğrenciler simülasyon, animasyon veya deney düzeneklerini kullanarak asal eksen, tepe noktası, odak noktası ve merkez noktası çizimlerini kararlılıkla hareket ederek yapar ( E1.3 , OB4 ) . Öğrenciler ışınların küresel aynalardan yansıdıktan sonra izledikleri yolu, ilgili çizimleri yaparak belirler ( KB2.15 , OB4 ) . Öğrenciler küresel aynaların yapılarına ve küresel aynalarda yansıma yasalarına ilişkin özellikleri belirler. Nitelik sıralama, anlam çözümleme veya sınıflandırma tablolarını kullanarak çukur ve tümsek aynaların benzer ve farklı özelliklerini listeler ( E3.7 ) . Öğretmen öğrencilerin yaptıkları çizim ve tabloları dereceli puanlama anahtarı kullanarak değerlendirebilir.",
+    "FİZ.11.3.4",
+    "Öğrenciler öğretmen rehberliğinde gruplara ayrılır ( SDB2.2 ) . Öğrenciler grup hâlinde adil görev paylaşımı yaparak ( D1.2 ) küresel aynalarda cismin bulunduğu yere göre görüntünün yeri ve özelliklerini belirleyebilecekleri bir deney tasarlar ( SDB1.2 ) . Simülasyon, animasyon veya hazır görseller kullanılarak görüntü oluşumu gösterilebilir. Öğrenciler deney düzeneklerindeki cisim ve görüntü yerlerine göre çizimlerini yapar, elde ettiği verileri kullanarak tablo oluşturur ( KB2.14 ) . Öğrenciler deney düzenekleri, simülasyon, animasyon veya tablo üzerinden küresel aynalarda cismin yerine göre görüntünün yeri ve özellikleri hakkında analizler yapar ( E3.6 , E3.7 ) . Öğretmen küresel aynalardaki deney sürecine yönelik kontrol listesi ve küresel aynalarda farklı yerlerde olan cisimlerin görüntü özelliklerini açıklamaya yönelik farklı madde türlerinden oluşan bir test ile değerlendirme yapabilir.",
+    "FİZ.11.3.5",
+    "Serap olayı ve su dolu bardağın içindeki kaşığın kırık görünmesine ilişkin görsel ve sorular ile öğrencilerin dikkati çekilebilir. Öğrenciler bu olaylara ilişkin sorular sorar ( E3.8 ) . Öğretmen deney düzenekleri kullanarak ortamın ışığı kırma indisini tanımlayabilir, kırılma olayı ve Snell Yasası ile sınır açısı ve tam yansıma olaylarını açıklar. Öğrenciler öğretmen rehberliğinde gruplara ayrılabilir ( SDB2.2 ) . Grup üyeleri yardımlaşarak kırılma yasalarına ilişkin farklı bir deney tasarlar ( E3.1 , E3.3 , SDB1.2 ) . Oluşturulan deney düzeneğinde saydam ortamın özellikleri ve tek renkli ışığın gelme açısına ilişkin araştırma problemi belirlenebilir. Farklı saydam ortamlar için gelme açısı ve kırılma açısı değişkenlerine ilişkin veriler toplanarak tablo oluşturulabilir. Kırılma açısının bağlı olduğu değişkenler tablodaki veriler kullanılarak analiz edilir ( OB7 ) . Öğretmen deney düzeneklerini dereceli puanlama anahtarını kullanarak değerlendirebilir.",
+    "FİZ.11.3.6",
+    "Günlük hayattan görünür derinliğe ilişkin örneklerin fotoğraf ya da videoları sınıf ile paylaşılabilir. Öğrenciler kullanılan görsellerdeki cisimlerin gerçek derinlikleri ile görünür derinliklerinin farklı olmasının nedenlerini sorgular ( E1.1 , E3.8 , OB4 ) . IIşığı kırma indisleri farklı olan ortamlardaki cisimlerin görünür derinlikleri üzerine yapılan tahminler, soru cevap veya beyin fırtınası gibi tekniklerden biri kullanılarak not edilebilir. Öğrenciler görünür derinliği etkileyen ortamların sahip oldukları farklı kırıcılık indisleri ve cismin bulunduğu gerçek derinlik değişkenlerini tanımlar. Görünür derinliğe ilişkin düzenekler su, sıvı yağ, cam gibi ortamlar; bozuk para ve kalem gibi malzemeler kullanılarak sınıf ortamında kurulabilir. Öğrenciler bu düzeneklerdeki cismin bulunduğu gerçek derinlik ile görünür derinlik arasındaki ilişkiyi gözlemleyerek kaydeder. Yapılan gözlemler üzerinden öğrenciler ortamların ışığı kırma indisi ve cismin bulunduğu gerçek derinlik ile görünür derinlik arasındaki ilişkiyi açıklar ( KB2.11 , OB7 ) . Görünür derinliğe ilişkin matematiksel model ve işlemlerden kaçınılır. Öğretmen açık uçlu sorulardan oluşan bir test veya gözlem formu ile değerlendirme yapabilir.",
+    "FİZ.11.3.7",
+    "Öğretmen genel ağ alt yapısında fiber optik malzemelerin kullanıldığını belirtilebilir. Öğrenciler öğretmen rehberliğinde gruplara ayrılarak ( SDB2.1 ) fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları ile ilgili araştırma planlar. Öğrenciler uygun düşünme ve öğrenme stratejisi seçip ( SDB1.1 ) kütüphane, genel ağ, uzman kişiler ve kurumlar gibi kaynaklardan birini belirler ( E3.4 ) . Öğrenciler fiber optik malzemelerin yapısı, çalışma prensibi ve kullanım alanları hakkında bilgi toplar ( OB7 ) ve kaydeder. Yaptıkları araştırma sonuçları ile poster veya slayt gösterisi şeklinde bir sunum hazırlayabilir. Gruplar fiber optik malzemelerin tam yansıma olayı ile çalışmasına odaklanıp sunumlarını sınıf arkadaşları ile paylaşarak toplanan bilgileri tartışır ( E1.5 , SDB2.2 ) . Grupların ulaştıkları bilgiler tartışma sırasında birbirleri ile karşılaştırılarak doğrulanır ( OB1 ) . Öğrencilerin fiber optik kabloların yapısı, çalışma prensibi ve kullanım alanları ile ilgili hazırladıkları sunum dereceli puanlama anahtarı ile değerlendirilebilir.",
+    "FİZ.11.3.8",
+    "Öğrenciler öğretmen rehberliğinde gruplara ayrılır ( SDB2.2 ) . Öğretmen gruplara birer çalışma yaprağı verebilir. Öğrencilerden çalışma yaprağında ışığın kırılma sırasındaki davranışlarını listelemeleri için nitelik sıralaması yapmaları, sınıflandırma tablosu oluşturmaları veya anlam çözümleme tablosu hazırlamaları istenebilir. Öğretmen, öğrencilere prizma dağıtıp öğrencilerden prizmaları şekil, büyüklük ve yapıldığı malzeme gibi özelliklerini dikkate alarak incelemelerini isteyebilir. Öğrenciler çalışma yaprağındaki ilgili bölüme prizmanın özelliklerini yazabilir ve şeklini çizebilir. Gruplar ekip çalışması ( SDB2.2 ) ile ışığın prizma içinde izlediği yola ilişkin hipotezlerini çizerek gösterir veya yazar ( OB4 ) . Öğrenciler hipotezlerini simülasyon veya deney düzeneği ile test eder. Hipotezlerinin doğru olup olmadığına karar vererek sonuçlarını çalışma kâğıdına yazar ( E1.5 , OB7 ) . Prizmalar ile oluşturulmuş birleşik sistemlere geçiş yapılabilir. Öğrenciler geçerli hipotezlerden yola çıkarak birden fazla prizmadan oluşan sistemlerde tek renkli ışığın izleyeceği yolu belirler ( OB7 ) . Gruplar, süreci sınıf arkadaşlarına anlatır. Öğretmen çalışma kâğıdını dereceli puanlama anahtarı ile değerlendirebilir.",
+    "FİZ.11.3.9",
+    "Öğrencilere merceklerin kullanıldığı fotoğraf makinesi, kamera, gözlük, büyüteç gibi aygıtların görselleri sunularak ilgileri çekilir. Öğretmen merceklerin yakınsak ve ıraksak olmak üzere ikiye ayrıldığını belirterek yapıları hakkında bilgiler verebilir. Merceklerin asal ekseni, optik merkezi ve odak noktalarını simülasyon, animasyon veya deney düzeneklerini kullanarak öğrencilerin keşfetmelerini sağlar. Öğrenciler ışınların merceklerde kırıldıktan sonra izledikleri yolları çizimler yaparak belirler ( OB4 ) . Merceklerin yapılarına ve merceklerde kırılma yasalarına ilişkin özellikleri belirler. Öğrenciler nitelik sıralama, anlam çözümleme tablosu veya sınıflandırma tablosu kullanarak yakınsak ve ıraksak merceklerin benzerlik ve farklılıklarını listeler ( OB4 , OB7 ) . Öğretmen, yapılan çizim ve listeleri dereceli puanlama anahtarı kullanarak değerlendirebilir.",
+    "FİZ.11.4.10",
+    "Öğrenciler öğretmen rehberliğinde gruplara ayrılarak ( SDB2.2 ) merceklerde cismin yerine göre görüntünün yeri ve özelliklerini bulabilecekleri bir deney tasarlar ( SDB1.2 ) . Öğretmen simülasyon veya animasyon kullanarak ışınlarla görüntü oluşumunu gösterebilir. Öğrenciler deney düzeneklerindeki cisimlerin bulunduğu yere göre görüntü çizimlerini yapar. Elde edilen sonuçları kullanarak tablo oluşturur ( E3.7 ) . Öğrenciler deney düzenekleri, simülasyon, animasyon veya tablo üzerinden merceklerde görüntü oluşumunu analiz eder ( E3.6 , KB2.14 , OB7 ) . Öğretmen merceklerde asal eksen üzerinde ve herhangi bir noktadaki cisimlerin görüntülerinin özelliklerini içeren farklı madde türlerinden oluşan testi kullanarak değerlendirme yapabilir."
+  ],
+  "skills": {
+    "deger": [
+      "D1.2",
+      "D16.2",
+      "D17.2",
+      "D19.4",
+      "D3.3",
+      "D3.4"
+    ],
+    "egilim": [
+      "E1.1",
+      "E1.3",
+      "E1.5",
+      "E3.1",
+      "E3.3",
+      "E3.4",
+      "E3.5",
+      "E3.6",
+      "E3.7",
+      "E3.8"
+    ],
+    "kavramsal": [
+      "KB2.11",
+      "KB2.12",
+      "KB2.14",
+      "KB2.15",
+      "KB3.1",
+      "KB3.2"
+    ],
+    "okuryazarlik": [
+      "OB1",
+      "OB4",
+      "OB7"
+    ],
+    "sosyal_duygusal": [
+      "SDB1.1",
+      "SDB1.2",
+      "SDB2.1",
+      "SDB2.2",
+      "SDB3.1",
+      "SDB3.2",
+      "SDB3.3"
+    ]
+  },
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/259"
+}

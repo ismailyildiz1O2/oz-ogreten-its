@@ -1,0 +1,64 @@
+{
+  "unitId": 81663025,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Bilişim Teknolojileri ve Yazılım Dersi (Lise)",
+  "title": "25. ÜNİTE: PROGRAMLAMA DİLLERİ (C#) - 1. ÜNİTE: C# ÇALIŞMA ORTAMI",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BTY.25.1",
+      "title": "C# programlama dilini tanır",
+      "processComponents": [
+        "C# programlama dilinin doğuş süreci ve neden ihtiyaca hâsıl olduğu söylenir.",
+        "Genel C# programlama dili kavramları ve söz dizimi anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.25.2",
+      "title": ".NET Framework ile C# programlama dili ilişkisini tanımlar",
+      "processComponents": [
+        ".NET Framework ve temel bileşenleri (CLR, .NET sınıf kütüphanesi, CTS, CLS, managed code, Visual Studio IDE vb.) açıklanır.",
+        ".NET Framework ile C# programlama dilinin .NET Framework tarafından sağlanan CLR üzerinde nasıl etkileşimde bulunduğu örneklendirilir.",
+        ".NET Framework'ün C# programlama dili ile kullanılarak web tabanlı sitelerden büyük ölçekli iş uygulamalarına kadar geniş bir yelpazede uygulamalar geliştirildiği vurgulanır."
+      ]
+    },
+    {
+      "code": "BTY.25.3",
+      "title": "Kod düzenleyici arayüzünde temel işlemleri gerçekleştirir",
+      "processComponents": [
+        "C# programlama dili arayüzünde kod yazma sürecinde hata ayıklama, otomatik tamamlama ve belge yönetimi araçları incelenir.",
+        "Yeni bir C# programlama dili arayüzü projesi açma, proje dosyasını düzenleme, projeyi yapılandırma, dosya ekleme ve düzenleme işlemleri uygulatılır.",
+        "Yazdığı kodları düzenli bir şekilde yönetmesi, değişiklikleri kaydetmesi ve ardından derleyerek çalışan bir uygulama yapması anlatılır."
+      ]
+    },
+    {
+      "code": "BTY.25.4",
+      "title": "Namespace kavramını bilir",
+      "processComponents": [
+        "Namespace kavramı ve kullanım alanları vurgulanır.",
+        "Farklı namespace türlerini içe aktararak kullanma öğretilir.",
+        "Namespace türleri kod organizasyonunda uygulatılır."
+      ]
+    },
+    {
+      "code": "BTY.25.5",
+      "title": "Temel veri türlerini ve değişken işlemlerini açıklar",
+      "processComponents": [
+        "Temel veri türleri (int, string, double vb.) ve farklı tipteki veriler (tam sayılar, metin, ondalık sayılar vb.) incelenir.",
+        "Program arayüzünde değişkenler oluşturulur, değerlerle ilişkilendirilir ve bu değerler güncellenir.",
+        "Matematiksel operatörler (+, -, *, / vb.) ile mantıksal operatörler (==, !=, <, > vb.) kullanılarak temel aritmetik ve karşılaştırma işlemleri gerçekleştirilir.",
+        "Bir değişkenin değeri diğer bir değişkene atanarak veya aralarında matematiksel işlemler yapılarak veri aktarımı ve dönüşümü gerçekleştirilir."
+      ]
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2024930135238340-Bili%C5%9Fim.pdf"
+}

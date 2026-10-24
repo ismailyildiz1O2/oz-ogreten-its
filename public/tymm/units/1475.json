@@ -1,0 +1,63 @@
+{
+  "unitId": 1475,
+  "grade": 0,
+  "gradeName": "1. Düzey",
+  "subject": "Geleneksel Sanatlar Dersi",
+  "title": "DÜZEY I · 5. Tema: Vitray Sanatı",
+  "hours": "12",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "GS.1.5.1",
+      "title": "Vitray sanatı hakkında bilgi toplayabilme",
+      "processComponents": [
+        "a) Vitray sanatı hakkındaki bilgilere ulaşmak için kullanacağı araçları belirler.",
+        "b) Belirlediği araçları kullanarak vitray sanatı hakkındaki bilgileri bulur.",
+        "c) Vitray sanatı hakkında ulaştığı bilgileri doğrular.",
+        "ç) Vitray sanatı hakkında ulaştığı bilgileri kaydeder."
+      ]
+    },
+    {
+      "code": "GS.1.5.2",
+      "title": "Vitray sanatında ürün tasarlayabilme",
+      "processComponents": [
+        "a) Vitray sanatına ait örnekleri inceler.",
+        "b) Vitray sanatına ait örnekler bağlamında oluşturduğu imgeleri ifade eder."
+      ]
+    },
+    {
+      "code": "GS.1.5.3",
+      "title": "Vitray sanatı uygulamalarıyla ürün oluşturabilme",
+      "processComponents": [
+        "a) Vitrayın temasına uygun görsel anlatım aracını ifade eder.",
+        "b) Temayı vitray sanatı ürününe dönüştürür."
+      ]
+    }
+  ],
+  "keyConcepts": "cam, camgeran, elmas, füzyon, kurşun, lehim, revzen",
+  "support": [
+    "Öğrencilerden daha geniş alanlara sahip bir motif üzerinden boyama vitray uygulaması yapmaları istenebilir."
+  ],
+  "enrichment": [
+    "Öğrencilerden birden fazla motiften oluşturdukları desen kompozisyonunu kullanarak boyama vitray uygulaması yapmaları istenebilir."
+  ],
+  "assessment": [
+    "Öğrenme çıktıları; soru-cevap tekniği, açık uçlu sorular, çalışma yaprağı, tartışma, istasyon tekniği, gösterip yaptırma, grup ve öz değerlendirme formu, analitik dereceli puanlama anahtarı, performans görevi, kontrol listesi ve gözlem formu ile değerlendirilebilir.",
+    "Performans görevi olarak öğrencilerden okul galerisinde “Renkli Dünyamdan Yansımalar” konulu vitray sergisi açmaları istenebilir. Performans görevi; amaç belirleme, bilgi toplama, bilgileri düzenleme ve görselleştirme, sonuç çıkarma ve sunma ölçütlerine göre analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir."
+  ],
+  "teachingApplications": [
+    "GS.1.5.1",
+    "Türkiye ve dünyanın çeşitli yerlerinden bazı vitray örnekleri projeksiyon ya da etkileşimli tahta aracılığıyla yansıtılır. “Bu görsellerde dikkatinizi neler çekiyor?” sorusuyla öğrencilerin vitray sanatında ışık ve renk ilişkisine dikkatleri çekilir ( E1.1 , OB4 ) . Öğrenciler görselleri dikkatli bir şekilde inceledikten sonra öğrencilerden düşüncelerini büyük tartışma tekniği ile ifade etmeleri istenebilir ( SDB2.1 ) . Öğretmen tarafından vitray, camgeran ve revzen-i menkuş kavramlarının tanımları yapılarak öğrencilere vitrayın tarihsel gelişimi, vitray çeşitleri, vitray sanatına özgü malzemeler ve geleneksel sanatlarda vitrayın önemi başlıkları verilir ( OB1 ) . Öğrencilerden bilgiye ulaşmak amacıyla kullanacakları araçları belirlemeleri istenir. Öğrencilerden kütüphane arşivleri, güvenilir dijital veri tabanları, akademik kaynaklar gibi bilgi edinme araçlarını grup olarak belirlemeleri istenir. Öğrencilerin kitap, makale, broşür gibi materyalleri incelemeleri sağlanır. Öğrencilerin belirledikleri araçları kullanarak vitray sanatı hakkında topladıkları bilgileri önce gruplarıyla daha sonra demokratik bir ortamda seçtikleri grup sözcüleri aracılığıyla soru cevap yöntemini kullanarak paylaşmaları sağlanır ( D16.1 , SDB2.2 ) . Öğrencilere Mimar Sinan’ın önemli mimari eseri olan Süleymaniye Camii’nin revzenlerinin Camgeran İbrahim Usta tarafından yapıldığı açıklanır. Ayrıca ressam, şair ve yazar Bedri Rahmi Eyüboğlu’nun Berlin T.C. Büyükelçiliği duvarına yaptığı vitray çalışmasından bahsedilir. Öğrencilere atık camlar kullanılarak elde edilen mozaik vitray tekniği ve bu tekniğin güvenli uygulama protokolüne ilişkin bilgiler verilir. Öğrencilerden grup sözcüleri aracılığıyla edindikleri bilgileri not etmeleri istenir. Öğrencilerden ulaştıkları bilgileri doğrulamaları için birden fazla kaynağı eleştirel bir bakış açısıyla karşılaştırmaları, bilgileri teyit etmeleri ve kaynaklarının güvenilirliğini analiz etmeleri beklenir ( E3.9 , E3.10 ) . Öğrencilerden ulaştıkları bilgileri ve vitray örneklerini yer, tarih ve dönem bilgileriyle birlikte düzenli bir şekilde kaydetmeleri için dijital veya geleneksel yöntemleri kullanmaları istenir.",
+    "Öğrencilere Türk vitrayı olarak bilinen alçılı vitray tekniği hakkında araştırma yapmaları için süre verilir ( D19.2 , OB5 ) . Bu araştırmada her öğrencinin görev alması sağlanır ( E2.2 ) . Öğrencilerden Süleymaniye Camii, Rüstem Paşa Camii, Yeni Cami, Ayasofya-i Kebir Camii, Topkapı Sarayı, Sultanahmet Camii gibi önemli revzen örneklerinin yer aldığı bir görsel klasörü oluşturmaları istenir. Bu klasörleri oluşturmalarında öğrencilere öğretmen rehberlik eder. Öğrencilerin alçılı vitray tekniği hakkında “Türk Vitrayları, Geleneksel Sanatlarda Vitrayın Yeri ve Önemi” konulu pano veya afiş çalışması yapmaları ve edindikleri bilgileri kaydetmeleri sağlanır ( E3.2 , SDB1.2 ) .",
+    "GS.1.5.2",
+    "Öğrencilere Tiffany (Tifani) vitray tekniğine ait bazı örnekler projeksiyon ya da etkileşimli tahta aracılığıyla gösterilir. “Bu örneklerde gördüğünüz desenler ve renkler hakkında ne düşünüyorsunuz?” ve “Bir önceki derste incelediğiniz vitray örneklerini hatırlayarak aradaki benzerlikler ve farklılıklar hakkında neler söylersiniz?” sorularıyla öğrencilerin merak duyguları harekete geçirilir ( E1.1 , OB4 ) . Öğrenciler özgün fikirlerini kısa bir beyin fırtınası yöntemiyle karşılıklı saygı çervesi içinde birbirleriyle paylaşır ( SDB2.1 ) . Öğrencilere görseller yardımıyla kısaca Tiffany vitray tekniğinden bahsedilir. Öğrencilere renkli cam malzemesine alternatif olarak renkli asetat kâğıtları kullanarak Tiffany vitray tekniğiyle geleneksel Türk motiflerinden oluşan bir çalışma hazırlayacakları açıklanır. Bu doğrultuda motif ve desen kompozisyonu araştırması yapmaları için öğrencilere süre verilir ( OB1 ) . Verilen süre sonunda öğrenciler seçtikleri geleneksel motif örneklerini sınıfla beraber sırayla inceler. Öğrencilerin inceledikleri görsellerden yola çıkarak kendi motif ve desen kompozisyonlarını oluşturmalarına imkân verilir. Öğretmen rehberliğinde her öğrencinin oluşturduğu motifi renkli asetat parçaları, parça renkleri ve renk numaraları; tercih edilen motifin kültürel değeri ve tekniğe uygunluğu bakımından ifade etmesi ve sınıfla paylaşması sağlanır ( OB9 ) . Öğrenciler imgelerinde canlanan motifleri çizim kâğıdına renklendirme uygulamasıyla verilir ( E3.2 ) . Öğrencilere eskiz çalışmalarını yaparken okulun imkânları doğrultusunda bilgisayar sınıflarından yararlanabilecekleri belirtilir. Öğrencilerin vitray eskizlerini tamamlamaları sağlanır.",
+    "GS.1.5.3",
+    "Öğrencilere projeksiyon ya da etkileşimli tahta aracılığıyla Tiffany vitray çalışma masasına ait örnekler gösterilir. “Görmüş olduğunuz çalışma alanında hangi malzemeler dikkatinizi çekiyor?” sorusuyla öğrencilerin Tiffany vitray tekniğinde kullanılan araç gereç hakkında fikir yürütmeleri ve düşüncelerini tartışma yöntemiyle ifade etmeleri sağlanır ( SDB2.1 , D14.1 ) . Öğrencilerin önceden temin ettikleri vitray malzemelerini kullanarak eskizlerinde renk numarası verdikleri bölümlere uygun renkli asetat kâğıtlarını makasla nasıl kesip ayıracakları uygulamalı olarak gösterilir. Ardından bu süreci sırayla deneyimlemeleri için öğrencilere zaman tanınır. Verilen süre sonunda öğrencilerin gözlem yoluyla öğrenme yöntemiyle renkli asetat kâğıdı parçalarının etrafını bakır folyo ile kaplama işlemini gerçekleştirmeleri sağlanır ( D7.3 , SDB1.2 ) . Öğrencilere bakır folyo ile sardıkları renkli asetat parçalarını eskizlerinde bulunan renk numaralarını gözeterek kontol etmeleri söylenir.",
+    "Birleştirme aşamasına geçmeden önce öğretmen tarafından gösterip yaptırma tekniği kullanılarak yapıştırıcı yardımıyla renkli asetat parçalarının nasıl birleştirileceği uygulanır. Öğrencilerin bu süreci dikkatle gözlemlemeleri sağlanır. Öğrenciler motif ve desen kompozisyonlarına bağlı olarak doğru birleştirme uygulamasını gerçekleştirir ( D12.2 ) . Tiffany vitray tekniği ile öğrencilerin geleneksel motif ve desen kompozisyonlarını sanatsal ürüne dönüştürmeleri sağlanır. Her öğrenci Tiffany vitray çalışmasını sınıfla paylaşır. Paylaşılan vitray çalışmaları için sergi hazırlığı aşamasına geçilir ( SDB2.2 ) .",
+    "Performans görevi olarak öğrencilerden okulun koridor pencerelerinde sergilemek amacıyla “Renkli Dünyamdan Yansımalar” konulu vitray sergisi hazırlamaları istenebilir. Bu çalışma için öğretmen rehberliğinde görev dağılımı yapılarak her öğrencinin eşit sorumluluk alması sağlanabilir ( E2.2 , D5.2 ) . Performans görevi; amaç belirleme, bilgi toplama, bilgileri düzenleme ve görselleştirme, sonuç çıkarma ve sunma ölçütlerine göre analitik dereceli puanlama anahtarı ve öz değerlendirme formu ile değerlendirilebilir. Öğretim süreci boyunca öğrencinin performansını izlemek ve değerlendirmek için portfolyo kullanılabilir."
+  ],
+  "skills": [
+    "SAB4. Sanatsal Üretim Yapma (SAB4.1. Sanatsal Ürün Tasarlama, SAB4.2. Sanatsal Ürün Oluşturma)"
+  ],
+  "sourceUrl": "https://tymm.meb.gov.tr/1/unite/1475"
+}

@@ -1,0 +1,83 @@
+{
+  "unitId": 81404056,
+  "grade": 9,
+  "gradeName": "Lise Seçmeli",
+  "subject": "Spor Eğitimi Dersi",
+  "title": "56. ÜNİTE: TENİSTE TEMEL TEKNİKLER VE UYGULAMALAR",
+  "hours": "61",
+  "description": "",
+  "outcomes": [
+    {
+      "code": "BS.14.4.1",
+      "title": "Teniste temel duruş tekniklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.2",
+      "title": "Teniste temel duruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.3",
+      "title": "Teniste backhand ve forehand raket tutuşunu açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.4",
+      "title": "Teniste backhand ve forehand raket tutuşunu uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.5",
+      "title": "Teniste forehand ve backhand top sektirme tekniklerini açıklar",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.6",
+      "title": "Teniste forehand ve backhand top sektirme tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.7",
+      "title": "Teniste vuruş tekniklerini açıklar",
+      "processComponents": [
+        "Forehand ve backhand vuruş teknikleri üzerinde durulur.",
+        "Vole vuruş tekniği üzerinde durulur.",
+        "Smaç vuruş tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.14.4.8",
+      "title": "Teniste vuruş tekniklerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.9",
+      "title": "Teniste servis tekniğini ve çeşitlerini açıklar",
+      "processComponents": [
+        "Düz servis tekniği üzerinde durulur.",
+        "Kesik servis tekniği üzerinde durulur.",
+        "Topspin (üstten) servis tekniği üzerinde durulur.",
+        "Wide (kenar) servis tekniği üzerinde durulur."
+      ]
+    },
+    {
+      "code": "BS.14.4.10",
+      "title": "Teniste servis tekniğini ve çeşitlerini uygular",
+      "processComponents": []
+    },
+    {
+      "code": "BS.14.4.11",
+      "title": "İzlediği veya katıldığı tenis müsabakalarını değerlendirir",
+      "processComponents": []
+    }
+  ],
+  "keyConcepts": "",
+  "support": [],
+  "enrichment": [],
+  "assessment": [],
+  "teachingApplications": [],
+  "skills": {},
+  "program": "MEB Öğretim Programı (seçmeli)",
+  "sourceUrl": "https://mufredat.meb.gov.tr/Dosyalar/2023121316357822-Spor%20E%C4%9Fitimi%20%C3%96%C4%9Fretim%20Program%C4%B1%2027%2011%2012%2045.pdf"
+}
